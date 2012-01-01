@@ -4,7 +4,7 @@ identifier: "BWBR0025605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2009-04-05"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025605"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2009-04-05&g=2009-04-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2009-04-05&g=2009-04-05) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6&z=2009-04-05&g=2009-04-05).
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2012-01-01&g=2012-01-01), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2012-01-01&g=2012-01-01).
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige of verpleegkundige. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2009-04-05&g=2009-04-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2009-04-05&g=2009-04-05) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6&z=2009-04-05&g=2009-04-05), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2012-01-01&g=2012-01-01), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2012-01-01&g=2012-01-01), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2009-04-05&g=2009-04-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2009-04-05&g=2009-04-05) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6&z=2009-04-05&g=2009-04-05).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2012-01-01&g=2012-01-01), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2012-01-01&g=2012-01-01).
 
 4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
@@ -67,6 +67,8 @@ In deze regeling wordt verstaan onder:
 - b. een verklaring dat de betrokkene beschikt over alle voor het betrokken beroep benodigde kerncompetenties op het niveau van de initiële opleiding, die leidt tot een getuigschrift dat recht geeft op inschrijving in het register;
 
 - c. de datum van afgifte van het certificaat.
+
+5. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), kan in plaats van een periodiek registratie certificaat, een bewijs van inschrijving in het register van een specialistenopleiding worden overgelegd, ingeval het een opleiding betreft die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
 
 ##### Artikel 3
 
@@ -134,11 +136,29 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 
 ##### Artikel 7
 
-1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de fysiotherapeut wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied fysiotherapie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, onderdeel a, van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut.
+1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de fysiotherapeut wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied fysiotherapie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut.
 
 2. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verloskundigen wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 4, eerste tot en met vijfde lid, van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=4) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verloskundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
-3. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verpleegkundige wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied verpleegkunde, voor zover onderwijs gegeven wordt in de vakken genoemd in artikel 4, tweede en vijfde lid, van het Besluit opleidingseisen verpleegkunde en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verpleegkundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+3. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verpleegkundige wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied verpleegkunde, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen verpleegkundige 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verpleegkundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+4. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de arts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van competenties als bedoeld in [artikel 3 van het Besluit opleidingseisen arts](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van artsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+5. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de tandarts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in `de aspecten van de tandheelkundige beroepsuitoefening als bedoeld in [artikel 3 van het Besluit opleidingseisen tandarts](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van tandartsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+6. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de apotheker wordt aangewezen: het verzorgen van onderwijs in het centrale vakgebied farmacie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, tweede lid, van het Besluit opleidingseisen apotheker](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van apothekers bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+7. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van gezondheidszorgpsycholoog wordt aangewezen het verzorgen van onderwijs als bedoeld in :
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=3) en [4, tweede lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van gezondheidszorgpsychologen als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+- b. [artikel 5, tweede en derde lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit gezondheidszorgpsycholoog.
+
+8. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van psychotherapeut wordt aangewezen het verzorgen van onderwijs als bedoeld in:
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=3) en [4, tweede lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van psychotherapeuten bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+- b. [artikel 5, tweede en derde lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit psychotherapeut.
 
 ##### Artikel 8
 
@@ -147,5 +167,115 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling periodieke registratie Wet BIG.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+1. Voor het beroep van arts gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het afnemen van een anamnese en het interpreteren van de daarbij verkregen gegevens;
+
+- b. het aanvragen of uitvoeren van aanvullende diagnostiek en het interpreteren van de daarbij verkregen gegevens;
+
+- c. het verrichten van lichamelijk onderzoek en het interpreteren van de daarbij verkregen gegevens;
+
+- d. het toepassen van preventieve en therapeutische mogelijkheden;
+
+- e. het evalueren en vastleggen van geneeskundige zorg.
+
+2. De in het eerste lid, onderdeel a, b en c, genoemde aspecten zijn zodanig ingericht dat de arts in staat is een probleemanalyse te maken, een differentiaal diagnose op te stellen, een diagnostisch plan op te stellen en uit te voeren en op basis van de verkregen gegevens een diagnose te stellen.
+
+3. De in het eerste lid, onderdeel c en d, genoemde aspecten zijn zodanig ingericht dat de arts in staat is een plan voor begeleiding en behandeling op te stellen, dit plan te bespreken met de cliënt en relevante derden en het uit te voeren.
+
+4. De in het eerste lid, onderdeel e, genoemde aspecten zijn zodanig ingericht dat de arts in staat is periodiek de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het plan voor begeleiding en behandeling zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+##### Artikel 6b
+
+1. Voor het beroep van tandarts gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het stellen van een diagnose op basis van algemene anamnese;
+
+- b. het opstellen van een behandelplan;
+
+- c. het uitvoeren van preventieve en curatieve behandelingen;
+
+- d. het evalueren en vastleggen van tandheelkundige zorg.
+
+2. Het in het eerste lid, onderdeel a, genoemde aspect wordt zodanig ingericht dat de tandarts in staat is op methodische wijze de toestand dan wel de dreigende of reeds bestaande klachten van een cliënt in kaart te brengen en op grond van de verzamelde informatie, een mondonderzoek of röntgenonderzoek, een diagnose te stellen.
+
+3. Het in het eerste lid, onderdeel b, genoemde aspect wordt zodanig ingericht dat de tandarts in staat is om op basis van de diagnose de tandheelkundige behandeling te bepalen die het beste tegemoet komt aan de bevordering van de mondgezondheid van de cliënt.
+
+4. Het in het eerste lid, onderdeel c, genoemde aspect wordt zodanig ingericht dat de tandarts in staat is om:
+
+- a. op methodische wijze en in samenwerking met de cliënt, aan de hand van een behandelplan, tandheelkundige zorg te verlenen en het behandelplan naar de laatste stand van kennis uit te voeren;
+
+- b. advies of voorlichting te geven dan wel de cliënt te verwijzen naar een andere zorgverlener.
+
+5. De in het eerste lid, onderdeel d, genoemde aspecten worden zodanig ingericht dat de tandarts in staat is om periodiek de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+##### Artikel 6c
+
+1. Voor het beroep van apotheker gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het bereiden en ter hand stellen van geneesmiddelen aan cliënten of zorgverleners;
+
+- b. het geven van advies en voorlichting omtrent het gebruik, de werking en bijwerkingen van geneesmiddelen;
+
+- c. het opslaan, bewaren en distribueren van geneesmiddelen, ook in het groothandelsstadium;
+
+- d. het beoordelen van geneesmiddelen of substanties daarvan op kwaliteit, veiligheid, en werkzaamheid; alsmede het beoordelen op geschiktheid van systemen en methoden voor de beoordeling van geneesmiddelen.
+
+2. De in het eerste lid, onderdeel a, genoemde aspecten worden zodanig ingericht dat de apotheker in staat om op basis van de door de arts gestelde diagnose een farmacotherapeutische behandeling voor de cliënt zelfstandig uit te voeren, deze behandeling te bespreken met de cliënt en relevante derden.
+
+3. De in het eerste lid, onderdeel b, genoemde aspecten worden zodanig ingericht dat de apotheker in staat is om de zorgverlener zodanig te informeren en de cliënt zodanig te begeleiden dat een optimaal geneesmiddelengebruik, inclusief therapietrouw, wordt bereikt.
+
+4. De in het eerste lid, onderdeel c, genoemde aspecten worden zodanig ingericht dat de apotheker in staat is om chemische en fysische reacties die geneesmiddelen of substanties daarvan als gevolg van temperatuur, vocht en licht kunnen ondergaan te vertalen in bewaar- en gebruiksinstructies die voldoen aan de relevante kwaliteitseisen.
+
+5. De in het eerste lid, onderdeel d, genoemde aspecten worden zodanig ingericht dat de apotheker in staat is om aan de hand van de uitslag van wetenschappelijk, laboratorium- en klinisch onderzoek de werking en bijwerkingen van geneesmiddelen te beoordelen en deze te interpreteren voor de individuele situatie van een cliënt.
+
+##### Artikel 6d
+
+1. Voor het beroep van gezondheidszorgpsycholoog gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het stellen van een diagnose op basis van anamnese en psychodiagnostisch onderzoek;
+
+- b. het stellen van een indicatie op basis van anamnese en psychodiagnostisch onderzoek;
+
+- c. het zelfstandig uitvoeren van psychologische en orthopedagogische behandelingen;
+
+- d. het evalueren en vastleggen van psychologische en orthopedagogische behandelingen.
+
+2. Het in het eerste lid, onderdeel a, genoemde aspect wordt zodanig ingericht dat de gezondheidszorgpsycholoog in staat is om de psychische gezondheid van een cliënt op methodische wijze in kaart te brengen en op basis van verzamelde informatie, een diagnose, dan wel een differentiaal diagnose te stellen.
+
+3. Het in het eerste lid, onderdeel b, genoemde aspect wordt zodanig ingericht dat de gezondheidszorgpsycholoog in staat is om op basis van de uitkomsten van de anamnese en het psychodiagnostisch onderzoek de meest in aanmerking komende vorm van psychologische behandeling of begeleiding te bepalen.
+
+4. Het in het eerste lid, onderdeel c, genoemde aspect wordt zodanig ingericht dat de gezondheidszorgpsycholoog in staat is om op methodische wijze en in samenwerking met de cliënt veel voorkomende psychologische en orthopedagogische behandelingen toe te passen en naar de laatste stand van kennis zorg en of begeleiding te verlenen.
+
+5. Het in het eerste lid, onderdeel d, genoemde aspect wordt zodanig ingericht dat de gezondheidszorgpsycholoog in staat is om periodiek de effecten van de zorginterventies op de geestelijke gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+##### Artikel 6e
+
+1. Voor het beroep van psychotherapeut gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het stellen van een psychodiagnose op basis van een psychodiagnostisch onderzoek;
+
+- b. het stellen van een indicatie voor psychotherapie;
+
+- c. het opstellen van een behandelplan voor psychotherapie;
+
+- d. het zelfstandig uitvoeren van een psychotherapeutische behandeling;
+
+- e. het evalueren van de psychotherapeutische behandeling.
+
+2. Het in het eerste lid, onderdeel a, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om op basis van verzamelde gegevens over de zorgvraag en de wensen van de cliënt en door middel van anamnese en diagnostiek, de problematiek van de cliënt in kaart te brengen.
+
+3. Het in het eerste lid, onderdeel b, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om, op basis van de uitkomst van het diagnostisch onderzoek, de meest in aanmerking komende vorm van psychotherapeutische behandeling voor de cliënt te bepalen.
+
+4. Het in het eerste lid, onderdeel c, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om, op basis van de diagnostiek en de indicatiestelling, in overleg met de cliënt, gezamenlijke doelstellingen van de behandeling te formuleren.
+
+5. Het in het eerste lid, onderdeel d, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om psychotherapeutische methoden systematisch toe te passen en door middel van psychotherapeutische interventies, de stemming, cognities of gedragingen van de cliënt te beïnvloeden.
+
+6. Het in het eerste lid, onderdeel e, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om periodiek de effecten van de psychotherapeutische behandelingen op de psychische gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
