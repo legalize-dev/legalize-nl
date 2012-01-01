@@ -4,7 +4,7 @@ identifier: "BWBR0030288"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2011-07-23"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030288"
 soort: "ministeriele-regeling"
@@ -48,25 +48,25 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **AID:** Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+- –. **contingent:** in een kalenderjaar in een vangstgebied te vangen hoeveelheid van een vissoort in kilogrammen levend gewicht uitgedrukt, vermeerderd of verminderd met eventueel op grond van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2012-01-01&g=2012-01-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01) voor het desbetreffende kalenderjaar in gebruik gekregen, of in gebruik gegeven hoeveelheden van de desbetreffende vissoort, die per vissersvaartuig ten hoogste mag worden aangeland;
 
-- –. **contingent:** in een kalenderjaar in een vangstgebied te vangen hoeveelheid van een vissoort in kilogrammen levend gewicht uitgedrukt, vermeerderd of verminderd met eventueel op grond van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2011-07-23&g=2011-07-23) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23) voor het desbetreffende kalenderjaar in gebruik gekregen, of in gebruik gegeven hoeveelheden van de desbetreffende vissoort, die per vissersvaartuig ten hoogste mag worden aangeland;
+- –. **deelgebied, sector of deelsector:** zeegebied als omschreven in artikel 4 van de verordening interne vangstmogelijkheden en artikel 4 van de verordening externe vangstmogelijkheden;
 
-- –. **deelgebied, sector of deelsector:** zeegebied als omschreven in artikel 4 van de verordening vangstmogelijkheden;
-
-- –. **Europees quotum:** totaal voor de gezamenlijke vissers van de lidstaten van de Europese Unie in het kalenderjaar waarop de verordening vangstmogelijkheden betrekking heeft te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23);
+- –. **Europees quotum:** totaal voor de gezamenlijke vissers van de lidstaten van de Europese Unie in het kalenderjaar waarop de verordeningen vangstmogelijkheden betrekking hebben te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01);
 
 - –. **functionaris:** door de minister voor de registratie- en verificatiewerkzaamheden in het kader van deze regeling aangewezen persoon;
 
-- –. **groep:** groep als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=31&z=2011-07-23&g=2011-07-23);
+- –. **groep:** groep als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01);
 
-- –. **groepscontingent:** groepscontingent als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2011-07-23&g=2011-07-23), vermeerderd of verminderd, met eventueel op grond van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2011-07-23&g=2011-07-23) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23) voor het desbetreffende kalenderjaar in gebruik gekregen, of in gebruik gegeven, hoeveelheden van de desbetreffende vissoort;
+- –. **groepscontingent:** groepscontingent als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), vermeerderd of verminderd, met eventueel op grond van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2012-01-01&g=2012-01-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01) voor het desbetreffende kalenderjaar in gebruik gekregen, of in gebruik gegeven, hoeveelheden van de desbetreffende vissoort;
 
 - –. **individueel aandeel:** contingent van een vissoort dat een ondernemer heeft ingebracht in een groep, vermeerderd met door hem gekochte en in gebruik gekregen hoeveelheden van die vissoort en verminderd met door hem verkochte en in gebruik gegeven hoeveelheden van die vissoort, waarover hij als deelnemer aan een groepscontingent in een kalenderjaar kan beschikken;
 
 - –. **minister:** Minister van Economische Zaken, Landbouw en Innovatie;
 
-- –. **Nederlands quotum:** totaal voor de gezamenlijke Nederlandse vissers in het kalenderjaar waarop de verordening vangstmogelijkheden betrekking heeft te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23);
+- –. **Nederlands quotum:** totaal voor de gezamenlijke Nederlandse vissers in het kalenderjaar waarop de verordeningen vangstmogelijkheden betrekking hebben te vangen hoeveelheden vis zoals deze per vissoort en per deelgebied, sector of deelsector voor het desbetreffende kalenderjaar, uitgedrukt in kilogrammen levend gewicht, zijn vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01);
+
+- –. **NVWA:** Nederlandse Voedsel- en Warenautoriteit;
 
 - –. **producentenorganisatie:** producentenorganisatie als bedoeld in artikel 5 van Verordening (EG) nr. 104/2000 van de Raad van 17 december 1999 houdende een gemeenschappelijke ordening der markten in de sector visserijproducten en producten van de aquacultuur (PbEG L 17);
 
@@ -74,9 +74,9 @@ Besluit:
 
 - –. **segment:** vlootsegment MFL1, MFL2 of AQU, waartoe het vissersvaartuig op grond van de vermelding op de visvergunning behoort;
 
-- –. **vangstgebied:** deelgebieden, sectoren of deelsectoren, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2011-07-23&g=2011-07-23);
+- –. **vangstgebied:** deelgebieden, sectoren of deelsectoren, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2012-01-01&g=2012-01-01);
 
-- –. **vangstopgavebus:** vangstopgavebus die aanwezig is in iedere in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) vermelde haven, waarvan de exacte plaats gepubliceerd is op de website www.drloket.nl;
+- –. **vangstopgavebus:** vangstopgavebus die aanwezig is in iedere in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) vermelde haven, waarvan de exacte plaats gepubliceerd is op de website www.drloket.nl;
 
 - –. **vissersvaartuigen van derde landen:** vissersvaartuigen die de vlag voeren van, of geregistreerd zijn in een andere staat dan een lidstaat van de Europese Unie;
 
@@ -134,8 +134,6 @@ Besluit:
 
 - –. **verordening nr. 1415/2004:** Verordening (EG) nr. 1415/2004 van de Raad van 19 juli 2004 tot vaststelling van het maximale jaarlijkse visserij-inspanningsniveau voor bepaalde visserijgebieden en visserijtakken (PbEU L 258);
 
-- –. **verordening nr. 356/2005:** Verordening (EG) nr. 356/2005 van de Commissie van 1 maart 2005 houdende uitvoeringsbepalingen voor het merken en identificeren van passief vistuig en boomkorren;
-
 - –. **verordening nr. 2115/2005:** Verordening (EG) nr. 2115/2005 van de Raad van 20 december 2005 tot vaststelling van een herstelplan voor zwarte heilbot in het kader van de visserijorganisatie in het noordwestelijk deel van de Atlantische Oceaan (PbEU L 340);
 
 - –. **verordening nr. 2187/2005:** Verordening (EG) nr. 2187/2005 van de Raad van 21 december 2005 betreffende de instandhouding door middel van technische maatregelen van de visbestanden in de Oostzee, de Belten en de Sont, tot wijziging van Verordening (EG) nr. 1434/98 en tot intrekking van Verordening (EG) nr. 88/98 (PbEU L 349);
@@ -180,17 +178,21 @@ Besluit:
 
 - –. **verordening nr. 1236/2010:** Verordening (EU) nr. 1236/2010 van het Europees Parlement en de Raad van 15 december 2010 tot vaststelling van een controle- en handhavingregeling voor het gebied dat onder het Verdrag inzake toekomstige multilaterale samenwerking op visserijgebied in het noordoostelijke deel van de Atlantische Oceaan valt en tot intrekking van Verordening (EG) nr. 2791/1999 van de Raad (PbEU L 348);
 
-- –. **verordening vangstmogelijkheden:** Verordening (EU) nr. 57/2011 van de Raad van 18 januari 2011 tot vaststelling, voor 2011, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de EU-wateren en, voor EU-vaartuigen, in andere wateren met vangstbeperkingen van toepassing zijn (PbEU L 24);
+- –. **uitvoeringsverordening controleverordening:** Uitvoeringsverordening (EU) nr. 404/2011 van de Commissie van 8 april 2011 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1224/2009 van de Raad tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PbEU L 112);
 
-- –. **uitvoeringsverordening controleverordening:** Uitvoeringsverordening (EU) nr. 404/2011 van de Commissie van 8 april 2011 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1224/2009 van de Raad tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PbEU L 112).
+- –. **Verordening interne vangstmogelijkheden:** Verordening (EU) nr. ../2012 van de Raad van 13 december 2011 tot vaststelling, voor 2012, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden die voor EU-vissersvaartuigen beschikbaar zijn en die niet zijn onderworpen aan internationale onderhandelingen of overeenkomsten;
+
+- –. **Verordening externe vangstmogelijkheden:** Verordening (EU) nr. ../2012 van de Raad van 13 december 2011 tot vaststelling, voor 2012, van de vangstmogelijkheden voor bepaalde visbestanden die in de EU-wateren en, voor EU-vaartuigen, in bepaalde wateren buiten de EU beschikbaar zijn en die zijn onderworpen aan internationale onderhandelingen of overeenkomsten;
+
+- –. **Verordeningen vangstmogelijkheden:** Verordening interne vangstmogelijkheden en Verordening externe vangstmogelijkheden.
 
 ##### Artikel 2. Nadere begripsbepalingen
 
-1. Voor de toepassing van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), genoemde verordeningen is het visserijcontrolecentrum, bedoeld in artikel 4, vijftiende lid, van de controleverordening, van Nederland de meldkamer van de AID te Kerkrade.
+1. Voor de toepassing van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), genoemde verordeningen is het visserijcontrolecentrum, bedoeld in artikel 4, vijftiende lid, van de controleverordening, van Nederland de meldkamer van de NVWA te Kerkrade.
 
 2. Voor de toepassing van deze regeling en van de in artikel 1, tweede lid, genoemde verordeningen vindt aanlanden plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.
 
-3. Voor de toepassing van verordening nr. 850/98, van de verordening vangstmogelijkheden en van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&z=2011-07-23&g=2011-07-23) van deze regeling wordt onder ’ICES-deelgebied IV’ en ’Noordzee’ mede verstaan de in het [Besluit aanwijzing zeegebied en kustwateren 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002703) genoemde wateren.
+3. Voor de toepassing van verordening nr. 850/98, van de verordeningen vangstmogelijkheden en van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&z=2012-01-01&g=2012-01-01) van deze regeling wordt onder ’ICES-deelgebied IV’ en ’Noordzee’ mede verstaan de in het [Besluit aanwijzing zeegebied en kustwateren 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002703) genoemde wateren.
 
 ##### Artikel 3. Noodmaatregelen op grond van de basisverordening
 
@@ -202,7 +204,7 @@ Het is verboden met een buitenlands vissersvaartuig de visserij uit te oefenen i
 
 ##### Artikel 5. Vaststelling lettertekens gemeenten
 
-De gemeenten en de lettertekens waarmee de gemeenten worden aangeduid, bedoeld in [artikel 3, eerste lid, van het Registratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=3), zijn vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=1&z=2011-07-23&g=2011-07-23).
+De gemeenten en de lettertekens waarmee de gemeenten worden aangeduid, bedoeld in [artikel 3, eerste lid, van het Registratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=3), zijn vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=1&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 6. Aanwijzing havens
 
@@ -210,23 +212,23 @@ De gemeenten en de lettertekens waarmee de gemeenten worden aangeduid, bedoeld i
 
 2. Het verbod, bedoeld in het eerste lid, geldt niet:
 
-- a. voor vissersvaartuigen met een lengte over alles van tien meter of minder in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) A vermelde havens of in de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2011-07-23&g=2011-07-23) vermelde plaatsen;
+- a. voor vissersvaartuigen met een lengte over alles van tien meter of minder in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) A vermelde havens of in de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2012-01-01&g=2012-01-01) vermelde plaatsen;
 
-- b. voor vissersvaartuigen met een lengte over alles van 59 meter of minder of met een brutotonnage van 1.200 BT of minder, in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) A vermelde havens met uitzondering van Vlaardingen en Velsen;
+- b. voor vissersvaartuigen met een lengte over alles van 59 meter of minder of met een brutotonnage van 1.200 BT of minder, in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) A vermelde havens met uitzondering van Vlaardingen en Velsen;
 
-- c. voor vissersvaartuigen met een lengte over alles van meer dan 59 meter of met een brutotonnage van meer dan 1.200 BT in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) A vermelde havens met uitzondering van Vlaardingen; of
+- c. voor vissersvaartuigen met een lengte over alles van meer dan 59 meter of met een brutotonnage van meer dan 1.200 BT in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) A vermelde havens met uitzondering van Vlaardingen; of
 
 - d. voor vissersvaartuigen waarvan de vangst voor ten minste 90% uit ansjovis of sprot bestaat, in de periode van 1 april tot en met 31 juli indien het ansjovis betreft en in de periode van 1 augustus tot en met 31 maart indien het sprot betreft, in de westelijke voorhaven van de Bergsediepsluis en aan de loswal van Schore, gemeente Kapelle;
 
-mits het aanlanden, lossen of overladen is toegestaan op grond van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), genoemde verordeningen en indien is voldaan aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2011-07-23&g=2011-07-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2011-07-23&g=2011-07-23).
+mits het aanlanden, lossen of overladen is toegestaan op grond van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), genoemde verordeningen en indien is voldaan aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2012-01-01&g=2012-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 7. Voorschriften aanlanden
 
-1. Voor zover niet op grond van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=2&z=2011-07-23&g=2011-07-23), genoemde verordeningen anders is bepaald wordt, voordat het aanlanden van vis plaatsvindt, melding gedaan aan de AID.
+1. Voor zover niet op grond van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=2&z=2012-01-01&g=2012-01-01), genoemde verordeningen anders is bepaald wordt, voordat het aanlanden van vis plaatsvindt, melding gedaan aan de NVWA.
 
-2. De melding vindt ten minste vier uur voor het tijdstip van aanlanding plaats door verzending van een faxbericht door de kapitein, de eigenaar of diens gemachtigde aan de meldkamer van de AID te Kerkrade (045-5461011), waarin ten minste is aangegeven:
+2. De melding vindt ten minste vier uur voor het tijdstip van aanlanding plaats door verzending van een faxbericht door de kapitein, de eigenaar of diens gemachtigde aan de meldkamer van de NVWA te Kerkrade (045-5461011), waarin ten minste is aangegeven:
 
-- a. de haven van aanlanding of de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2011-07-23&g=2011-07-23) bedoelde plaats, onder vermelding van de exacte locatie;
+- a. de haven van aanlanding of de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2012-01-01&g=2012-01-01) bedoelde plaats, onder vermelding van de exacte locatie;
 
 - b. de geschatte datum en het geschatte tijdstip van aanlanding;
 
@@ -246,17 +248,17 @@ mits het aanlanden, lossen of overladen is toegestaan op grond van de in [artike
 
 ##### Artikel 8. Voorschriften lossen
 
-1. Een ambtenaar van de AID heeft toestemming gegeven om te lossen.
+1. Een ambtenaar van de NVWA heeft toestemming gegeven om te lossen.
 
-2. Op verzoek van degene die vis aanlandt, kan de toestemming, bedoeld in het eerste lid, worden verleend door een functionaris, namens een ambtenaar van de AID.
+2. Op verzoek van degene die vis aanlandt, kan de toestemming, bedoeld in het eerste lid, worden verleend door een functionaris, namens een ambtenaar van de NVWA.
 
 3. Toestemming als bedoeld in het eerste lid wordt gegeven in de volgorde van melding van het tijdstip van aanlanding.
 
-4. Het lossen van vis in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) A genoemde havens vindt plaats op de in die bijlage achter de desbetreffende haven genoemde losplaatsen.
+4. Het lossen van vis in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) A genoemde havens vindt plaats op de in die bijlage achter de desbetreffende haven genoemde losplaatsen.
 
 5. Alle zich aan boord van het vissersvaartuig bevindende vis, met uitzondering van paling, wordt in één ononderbroken losbeurt in zijn geheel gelost.
 
-6. Voor zover het de vissoorten betreft, genoemd in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23), is de vis per verpakkingseenheid naar vissoort gesorteerd en wordt de vis per vissoort gelost.
+6. Voor zover het de vissoorten betreft, genoemd in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01), is de vis per verpakkingseenheid naar vissoort gesorteerd en wordt de vis per vissoort gelost.
 
 7. Het vijfde lid is niet van toepassing op het lossen van vis uit een vissersvaartuig met een brutotonnage van meer dan 1.200 BT waarmee de pelagische visserij wordt uitgeoefend, mits alle aan boord aanwezige vis geheel is gelost voordat het vaartuig uitvaart.
 
@@ -270,25 +272,27 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 
 ##### Artikel 10. Vangstverboden
 
-1. Het is verboden met een vissersvaartuig op de vissoorten, genoemd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23), in de bij die vissoorten vermelde wateren te vissen dan wel deze vissoorten aan boord te houden of aan te landen.
+1. Het is verboden met een vissersvaartuig op de vissoorten, genoemd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01), in de bij die vissoorten vermelde wateren te vissen dan wel deze vissoorten aan boord te houden of aan te landen.
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet voor zover:
+2. Voor zover het de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01) genoemde bestanden betreft die niet van een asterisk zijn voorzien, geldt het in het eerste lid bedoelde verbod uitsluitend voor Nederlandse vissersvaartuigen.
 
-- a. het Nederlands quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;
+3. Het verbod, bedoeld in het eerste lid, geldt niet voor zover:
 
-- b. het Europees quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;
+- a. het Nederlandse vissersvaartuigen betreft en het Nederlands quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;
 
-- c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23), mits de visserij wordt uitgeoefend overeenkomstig artikel 36 van de verordening vangstmogelijkheden; en
+- b. het Europese vissersvaartuigen betreft en het Europees quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;
+
+- c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01), mits de visserij wordt uitgeoefend overeenkomstig artikel 35 van de verordening externe vangstmogelijkheden; en
 
 - d. wordt gehandeld in overeenstemming met de voorschriften die in de vorm van een voetnoot bij de desbetreffende hoeveelheden zijn opgenomen in de bijlagen 5 en 6.
 
-3. De minister kan de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden wijzigen of op nul stellen, voor zover hij dit noodzakelijk acht voor de nakoming van verplichtingen van de Europese Unie.
+4. De minister kan de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden wijzigen of op nul stellen, voor zover hij dit noodzakelijk acht voor de nakoming van verplichtingen van de Europese Unie.
 
-4. De minister maakt de datum, bedoeld in artikel 35, eerste lid, onderdeel a, van de controleverordening, bekend. Deze datum kan per vissoort en vangstgebied verschillen.
+5. De minister maakt de datum, bedoeld in artikel 35, eerste lid, onderdeel a, van de controleverordening, bekend. Deze datum kan per vissoort en vangstgebied verschillen.
 
 ##### Artikel 11. Ontheffing vangstverboden
 
-1. Van het verbod, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), kan op grond van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) uitsluitend ontheffing worden verleend, voor het uitoefenen van de visserij ten behoeve van:
+1. Van het verbod, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), kan op grond van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) uitsluitend ontheffing worden verleend, voor het uitoefenen van de visserij ten behoeve van:
 
 - a. wetenschappelijk onderzoek, voor zover:
 
@@ -300,37 +304,37 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 
 - 4e. de resultaten van het onderzoek beschikbaar worden gesteld voor de Nederlandse visserijsector; en
 
-- 5e. de totale vangsten waarvoor ontheffing wordt verleend het in artikel 33, zesde lid, van de controleverordening, genoemde percentage van de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden niet te boven gaat; en
+- 5e. de totale vangsten waarvoor ontheffing wordt verleend het in artikel 33, zesde lid, van de controleverordening, genoemde percentage van de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden niet te boven gaat; en
 
-- b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden, voor zover wordt voldaan aan het tweede lid, van dat artikel.
+- b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden, voor zover wordt voldaan aan het tweede lid van de desbetreffende artikelen.
 
-2. De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 7, derde lid, van de verordening vangstmogelijkheden.
+2. De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 7, derde lid, van de verordening interne vangstmogelijkheden en artikel 6, derde lid, van de verordening externe vangstmogelijkheden.
 
 ##### Artikel 12. Reservering vangstmogelijkheden
 
-1. De minister kan het verschil tussen de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden en het Nederlands quotum benutten ten behoeve van:
+1. De minister kan het verschil tussen de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden en het Nederlands quotum benutten ten behoeve van:
 
 - a. ruilen van vangstmogelijkheden met andere lidstaten als bedoeld in artikel 20, vijfde lid, van verordening nr. 2371/2002;
 
 - b. verlaging van de aan Nederland toegewezen vangstmogelijkheden als bedoeld in de artikelen 37, tweede lid, 88, eerste lid, 105 en 107, eerste lid, van de controleverordening; of
 
-- c. toewijzing aan een ondernemer, een groep of een producentenorganisatie, overeenkomstig de door de minister vast te stellen criteria, indien is komen vast te staan dat die ondernemer of de ondernemers die aan de desbetreffende groep of producentenorganisatie deelnemen, in een nader te bepalen periode hebben gehandeld overeenkomstig de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2011-07-23&g=2011-07-23), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=23&z=2011-07-23&g=2011-07-23), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=53&z=2011-07-23&g=2011-07-23), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=57&z=2011-07-23&g=2011-07-23) en [105](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=2&artikel=105&z=2011-07-23&g=2011-07-23) van deze regeling en aan de artikelen 39, eerste lid, en 49 van de controleverordening.
+- c. toewijzing aan een ondernemer, een groep of een producentenorganisatie, overeenkomstig de door de minister vast te stellen criteria, indien is komen vast te staan dat die ondernemer of de ondernemers die aan de desbetreffende groep of producentenorganisatie deelnemen, in een nader te bepalen periode hebben gehandeld overeenkomstig de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2012-01-01&g=2012-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=23&z=2012-01-01&g=2012-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=53&z=2012-01-01&g=2012-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=57&z=2012-01-01&g=2012-01-01) en [105](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=2&artikel=105&z=2012-01-01&g=2012-01-01) van deze regeling en aan de artikelen 39, eerste lid, en 49 van de controleverordening.
 
-2. De in het eerste lid, onderdeel c, bedoelde toewijzing bedraagt per vissoort en vangstgebied ten hoogste 10% van de in bijlage I van de verordening vangstmogelijkheden voor die vissoort in het desbetreffende vangstgebied aan Nederland toegedeelde vangstmogelijkheden.
+2. De in het eerste lid, onderdeel c, bedoelde toewijzing bedraagt per vissoort en vangstgebied ten hoogste 10% van de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden voor die vissoort in het desbetreffende vangstgebied aan Nederland toegedeelde vangstmogelijkheden.
 
 3. De hoeveelheden die resteren na de toepassing van het eerste lid, worden uiterlijk 1 juni van het desbetreffende kalenderjaar aan het Nederlands quotum toegevoegd.
 
 ##### Artikel 13. Overige verboden
 
-1. Het is verboden in strijd te handelen met de artikelen 8, tweede lid, 13, 17, 19, 20, 21, 24, 28, eerste en derde lid, 29, 31, 32, 34, 36, tweede lid, en 37 van de verordening vangstmogelijkheden.
+1. Het is verboden in strijd te handelen met de artikelen 11 en 12, tweede lid van de verordening interne vangstmogelijkheden en de artikelen 11, 12, tweede lid, 16, 18, 19, 20, 23, 27, eerste, derde, vierde, vijfde en zesde lid, 28, 30, 31, 33, 35, tweede lid, en 36 van de verordening externe vangstmogelijkheden.
 
-2. Het is verboden visserijactiviteiten uit te oefenen in strijd met de artikelen 16, 23, eerste en tweede lid, 30 en 33 van de verordening vangstmogelijkheden.
+2. Het is verboden visserijactiviteiten uit te oefenen in strijd met de artikelen 15, 22, eerste en tweede lid, 29 en 32 van de verordening externe vangstmogelijkheden.
 
 ##### Artikel 14. Diepzeevisdocumenten
 
-1. Het is verboden in strijd te handelen met artikel 3, eerste lid, van verordening nr. 2347/2002 in samenhang met artikel 11, eerste lid, van de verordening vangstmogelijkheden, en met de artikelen 5, 6, eerste en tweede lid, en 7 van verordening nr. 2347/2002.
+1. Het is verboden in strijd te handelen met artikel 3, eerste lid, van verordening nr. 2347/2002 in samenhang met artikel 9, eerste lid, van de verordening externe vangstmogelijkheden, en met de artikelen 5, 6, eerste en tweede lid, en 7 van verordening nr. 2347/2002.
 
-2. Het is verboden per kalenderjaar met een vissersvaartuig meer dan 10 ton van de diepzeesoorten als bedoeld in artikel 2, onderdeel a, van verordening nr. 2347/2002 en in artikel 11, eerste lid, van de verordening vangstmogelijkheden, te vangen, aan boord te houden of aan te landen, tenzij ten behoeve van het vissersvaartuig een diepzeedocument is afgegeven als bedoeld in artikel 2, onderdeel b, van verordening nr. 2347/2002.
+2. Het is verboden per kalenderjaar met een vissersvaartuig meer dan 10 ton van de diepzeesoorten als bedoeld in artikel 2, onderdeel a, van verordening nr. 2347/2002 en in artikel 9, eerste lid, van de verordening externe vangstmogelijkheden, te vangen, aan boord te houden of aan te landen, tenzij ten behoeve van het vissersvaartuig een diepzeedocument is afgegeven als bedoeld in artikel 2, onderdeel b, van verordening nr. 2347/2002.
 
 3. Een diepzeevisdocument wordt slechts verleend ten behoeve van een vissersvaartuig:
 
@@ -340,15 +344,15 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 
 4. Het is verboden de visserij uit te oefenen op de diepzeesoorten, bedoeld in bijlage I, met uitzondering van de grote zilvervis, en bedoeld in bijlage II van verordening nr. 2347/2002, indien in 2011 de visserij-inspanning van het desbetreffende vaartuig tijdens reizen waarop meer dan 100 kg aan andere diepzeesoorten dan grote zilvervis is gevangen, groter is dan de door de minister vastgestelde visserij-inspanning van dat vaartuig in 2003, verminderd met 35%.
 
-5. De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van verordening nr. 2347/2002, is de AID.
+5. De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van verordening nr. 2347/2002, is de NVWA.
 
-6. De havens, bedoeld in artikel 7, tweede lid, van verordening nr. 2347/2002, zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) B vermelde havens.
+6. De havens, bedoeld in artikel 7, tweede lid, van verordening nr. 2347/2002, zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) B vermelde havens.
 
 7. Indien de minister een waarnemer als bedoeld in artikel 8 van verordening nr. 2347/2002, aanwijst, draagt de kapitein van het desbetreffende vissersvaartuig er zorg voor dat deze waarnemer de taken, bedoeld in artikel 8, vierde lid, van die verordening, ongehinderd kan uitvoeren.
 
 ##### Artikel 15. Pelagische visserij
 
-1. Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel m, van de verordening vangstmogelijkheden.
+1. Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel m, van de verordening externe vangstmogelijkheden.
 
 2. Het eerste lid is niet van toepassing op vissersvaartuigen die pelagische visserij uitoefenen en die aantoonbaar in 2007, 2008 of 2009 in de in het eerste lid bedoelde zone visserijactiviteiten hebben uitgeoefend of op een vissersvaartuig dat voornoemd vissersvaartuig vervangt, indien:
 
@@ -364,7 +368,7 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 
 2. Het eerste lid is niet van toepassing ten aanzien van een vissersvaartuig, indien:
 
-- a. de voor de beheersperiode, genoemd in artikel 1, eerste lid, onderdeel b, van de verordening vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden, vermeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=7&z=2011-07-23&g=2011-07-23), nog niet is opgebruikt;
+- a. de voor de beheersperiode, genoemd in artikel 1, tweede lid, onderdeel b, van de verordening interne vangstmogelijkheden en artikel 1, tweede lid, onderdeel b, van de verordening externe vangstmogelijkheden, dan wel, voor zover het de vistuigcategorieën TR1 of TR2 betreft, de voor het desbetreffende gedeelte van die beheersperiode toegestane visserij-inspanning per gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, en per vistuigcategorie, al dan niet onderscheiden naar de maaswijdte van de netten of deelname aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden, vermeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=7&z=2012-01-01&g=2012-01-01), nog niet is opgebruikt;
 
 - b. voor zover het de vistuigcategorieën TR1 en TR2 betreft, het vissersvaartuig in tijdvakken van twee aaneengesloten weken telkens ten hoogste tien kalenderdagen in een gebied als bedoeld in artikel 3 van verordening nr. 1342/2008, aanwezig is; en
 
@@ -374,7 +378,7 @@ Het is verboden in strijd te handelen met artikel 11, derde en vierde lid, van v
 
 ##### Artikel 17. Ontheffing visserij-inspanning annex IIA
 
-Van het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2011-07-23&g=2011-07-23), kan op grond van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) uitsluitend ontheffing worden verleend, voor het uitoefenen van de visserij ten behoeve van wetenschappelijk onderzoek, voor zover:
+Van het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2012-01-01&g=2012-01-01), kan op grond van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) uitsluitend ontheffing worden verleend, voor het uitoefenen van de visserij ten behoeve van wetenschappelijk onderzoek, voor zover:
 
 - a. het onderzoek wordt begeleid door een wetenschappelijk instituut;
 
@@ -384,11 +388,11 @@ Van het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/j
 
 - d. de resultaten van het onderzoek beschikbaar worden gesteld voor de Nederlandse visserijsector; en
 
-- e. de totale visserij-inspanning waarvoor ontheffing wordt verleend het in artikel 33, negende lid, van de controleverordening, genoemde percentage van de in bijlage IIA van de verordening vangstmogelijkheden aan Nederland toegewezen visserij-inspanning niet te boven gaat.
+- e. de totale visserij-inspanning waarvoor ontheffing wordt verleend het in artikel 33, negende lid, van de controleverordening, genoemde percentage van de in bijlage IIA van de verordening interne vangstmogelijkheden en bijlage IIA van de verordening externe vangstmogelijkheden aan Nederland toegewezen visserij-inspanning niet te boven gaat.
 
 ##### Artikel 18. Reservering visserij-inspanning annex IIA
 
-1. De minister kan het verschil tussen de in bijlage IIA van de verordening vangstmogelijkheden aan Nederland toegewezen visserij-inspanning en de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=7&z=2011-07-23&g=2011-07-23) bij deze regeling vermelde hoeveelheden visserij-inspanning benutten ten behoeve van:
+1. De minister kan het verschil tussen de in bijlage IIA van de verordening interne vangstmogelijkheden en bijlage IIA van de verordening externe vangstmogelijkheden aan Nederland toegewezen visserij-inspanning en de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=7&z=2012-01-01&g=2012-01-01) bij deze regeling vermelde hoeveelheden visserij-inspanning benutten ten behoeve van:
 
 - a. het uitwisselen van visserij-inspanning met andere lidstaten, bedoeld in artikel 16, tweede lid, van verordening nr. 1342/2008;
 
@@ -402,7 +406,7 @@ Van het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 19. Aanvullende visserij-inspanning annex IIA
 
-1. Het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2011-07-23&g=2011-07-23), is tijdens de beheersperiode na de bekendmaking, bedoeld in artikel 16, derde lid, niet van toepassing op een vissersvaartuig indien de minister ten behoeve van dat vaartuig een aanvullende hoeveelheid visserij-inspanning heeft toegekend en de aan dat vaartuig toegekende hoeveelheid visserij-inspanning nog niet is opgebruikt.
+1. Het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2012-01-01&g=2012-01-01), is tijdens de beheersperiode na de bekendmaking, bedoeld in artikel 16, derde lid, niet van toepassing op een vissersvaartuig indien de minister ten behoeve van dat vaartuig een aanvullende hoeveelheid visserij-inspanning heeft toegekend en de aan dat vaartuig toegekende hoeveelheid visserij-inspanning nog niet is opgebruikt.
 
 2. De minister kent de aanvullende hoeveelheid visserij-inspanning slechts toe ten aanzien van een vissersvaartuig, indien:
 
@@ -430,15 +434,15 @@ Van het verbod, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 20. Overige visserij-inspanning
 
-Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bijlage IIB, onderdeel 2 van bijlage IIC en onderdeel 1 van bijlage IID, van de verordening vangstmogelijkheden, in de gebieden, bedoeld in onderdeel 1 van deze bijlagen, en die typen vistuig aan boord te houden.
+Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bijlage IIB en onderdeel 2 van bijlage IIC van de verordening interne vangstmogelijkheden en onderdeel 1 van bijlage IIB van de verordening externe vangstmogelijkheden, in de gebieden, bedoeld in onderdeel 1 van deze bijlagen, en die typen vistuig aan boord te houden.
 
 #### § 2. Vangstverboden contingentering
 
 ##### Artikel 21. Vangstverbod
 
-1. Het is verboden met een vissersvaartuig op een vissoort, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2011-07-23&g=2011-07-23), in het daarbij voor die vissoort aangewezen vangstgebied te vissen of een vissoort uit dat gebied aan te landen of aan boord te houden.
+1. Het is verboden met een vissersvaartuig op een vissoort, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2012-01-01&g=2012-01-01), in het daarbij voor die vissoort aangewezen vangstgebied te vissen of een vissoort uit dat gebied aan te landen of aan boord te houden.
 
-2. Het eerste lid geldt niet indien het document, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2011-07-23&g=2011-07-23), aan boord aanwezig is en indien is voldaan aan de [artikelen 22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2011-07-23&g=2011-07-23).
+2. Het eerste lid geldt niet indien het document, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-01-01&g=2012-01-01), aan boord aanwezig is en indien is voldaan aan de [artikelen 22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 22. Contingent
 
@@ -446,7 +450,7 @@ Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bij
 
 2. Voor zover het de vissoorten kabeljauw of wijting betreft, geldt voor het betrokken vissersvaartuig voor het desbetreffende vangstgebied zowel een contingent kabeljauw als een contingent wijting.
 
-3. Voor zover het de overige in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2011-07-23&g=2011-07-23) genoemde vissoorten betreft, geldt voor het betrokken vissersvaartuig voor het desbetreffende vangstgebied een contingent van de desbetreffende vissoort.
+3. Voor zover het de overige in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2012-01-01&g=2012-01-01) genoemde vissoorten betreft, geldt voor het betrokken vissersvaartuig voor het desbetreffende vangstgebied een contingent van de desbetreffende vissoort.
 
 ##### Artikel 23. Geen overschrijding contingent
 
@@ -478,43 +482,43 @@ Het is verboden te vissen met de typen vistuigen, bedoeld in onderdeel 1 van bij
 
 ##### Artikel 25. Toegestane bijvangsten kabeljauw of wijting
 
-1. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23) is het toegestaan:
+1. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01) is het toegestaan:
 
-- a. per kalendermaand ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden kabeljauw of wijting uit het daarbij genoemde vangstgebied aan boord te houden van of aan te landen met een vissersvaartuig waarvoor geen contingent kabeljauw of wijting, maar wel enig ander contingent geldt of ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) een vergunning voor het vangen van garnalen is verleend; of
+- a. per kalendermaand ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden kabeljauw of wijting uit het daarbij genoemde vangstgebied aan boord te houden van of aan te landen met een vissersvaartuig waarvoor geen contingent kabeljauw of wijting, maar wel enig ander contingent geldt of ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) een vergunning voor het vangen van garnalen is verleend; of
 
-- b. met vissersvaartuigen waarvoor geen contingent geldt en ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) geen vergunning voor het vangen van garnalen is verleend, in een kalenderjaar gezamenlijk ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden kabeljauw of wijting uit het vangstgebied aan boord te houden of aan te landen, mits de hoeveelheid kabeljauw of wijting niet meer bedraagt dan 20% van het gewicht van de totale vangst aan boord.
+- b. met vissersvaartuigen waarvoor geen contingent geldt en ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) geen vergunning voor het vangen van garnalen is verleend, in een kalenderjaar gezamenlijk ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden kabeljauw of wijting uit het vangstgebied aan boord te houden of aan te landen, mits de hoeveelheid kabeljauw of wijting niet meer bedraagt dan 20% van het gewicht van de totale vangst aan boord.
 
 2. Indien het een vissersvaartuig met een brutotonnage van meer dan 1200 BT waarmee de pelagische visserij wordt uitgeoefend betreft, is het eveneens toegestaan per kalenderjaar ten hoogste de som van de ingevolge het eerste lid, onderdeel a, voor het kalenderjaar voor dat vaartuig toegestane hoeveelheden kabeljauw of wijting aan boord te houden of aan te landen.
 
 3. De ondernemer die met een vissersvaartuig waarvoor geen contingenten kabeljauw en wijting geldt, deelneemt aan een groepscontingent, wordt geacht de som van de ingevolge het eerste lid, onderdeel a, voor het kalenderjaar voor dat vaartuig toegestane hoeveelheden kabeljauw of wijting in de groep of de producentenorganisatie te hebben ingebracht.
 
-4. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23) is het toegestaan met vissersvaartuigen als bedoeld in het derde lid, gezamenlijk ten hoogste de som van de op grond van het derde lid in een groep of producentenorganisatie ingebrachte hoeveelheden kabeljauw of wijting aan boord te houden of aan te landen.
+4. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01) is het toegestaan met vissersvaartuigen als bedoeld in het derde lid, gezamenlijk ten hoogste de som van de op grond van het derde lid in een groep of producentenorganisatie ingebrachte hoeveelheden kabeljauw of wijting aan boord te houden of aan te landen.
 
 ##### Artikel 26. Toegestane bijvangsten makreel
 
-1. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23) is het toegestaan:
+1. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01) is het toegestaan:
 
-- a. per kalendermaand ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2011-07-23&g=2011-07-23) genoemde hoeveelheid makreel uit sector IIa of deelgebied IV aan boord te houden van of aan te landen met een vissersvaartuig waarvoor geen contingent makreel, maar wel enig ander contingent geldt of ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) een vergunning voor het vangen van garnalen is verleend; of
+- a. per kalendermaand ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2012-01-01&g=2012-01-01) genoemde hoeveelheid makreel uit sector IIa of deelgebied IV aan boord te houden van of aan te landen met een vissersvaartuig waarvoor geen contingent makreel, maar wel enig ander contingent geldt of ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) een vergunning voor het vangen van garnalen is verleend; of
 
-- b. met vissersvaartuigen waarvoor geen contingent geldt en ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) geen vergunning voor het vangen van garnalen is verleend, in een kalenderjaar gezamenlijk ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2011-07-23&g=2011-07-23) genoemde hoeveelheid makreel uit de sector IIa of deelgebied IV aan boord te houden of aan te landen, mits de hoeveelheid makreel niet meer bedraagt dan 20% van het gewicht van de totale vangst aan boord.
+- b. met vissersvaartuigen waarvoor geen contingent geldt en ten behoeve waarvan ingevolge [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) geen vergunning voor het vangen van garnalen is verleend, in een kalenderjaar gezamenlijk ten hoogste de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2012-01-01&g=2012-01-01) genoemde hoeveelheid makreel uit de sector IIa of deelgebied IV aan boord te houden of aan te landen, mits de hoeveelheid makreel niet meer bedraagt dan 20% van het gewicht van de totale vangst aan boord.
 
 2. De ondernemer die met een vissersvaartuig waarvoor geen contingent makreel geldt, deelneemt aan een groepscontingent, wordt geacht de som van de ingevolge het eerste lid, onderdeel a, voor het kalenderjaar toegestane hoeveelheden makreel in de groep of de producentenorganisatie te hebben ingebracht.
 
-3. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23) is het toegestaan met vissersvaartuigen als bedoeld in het tweede lid, gezamenlijk ten hoogste de som van de op grond van het tweede lid in een groep of producentenorganisatie ingebrachte hoeveelheden makreel uit sector IIa of deelgebied IV aan boord te houden of aan te landen.
+3. In afwijking van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01) is het toegestaan met vissersvaartuigen als bedoeld in het tweede lid, gezamenlijk ten hoogste de som van de op grond van het tweede lid in een groep of producentenorganisatie ingebrachte hoeveelheden makreel uit sector IIa of deelgebied IV aan boord te houden of aan te landen.
 
 ##### Artikel 27. Toegestane bijvangst horsmakreel
 
-Het is voor de vissersvaartuigen waarvoor geen contingent horsmakreel voor de EU-wateren van de ICES gebieden IVb, IVc en VIId tezamen geldt, toegestaan om per kalenderjaar gezamenlijk de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2011-07-23&g=2011-07-23) genoemde hoeveelheid horsmakreel uit die gebieden tezamen aan boord te houden of aan te landen.
+Het is voor de vissersvaartuigen waarvoor geen contingent horsmakreel voor de EU-wateren van de ICES gebieden IVb, IVc en VIId tezamen geldt, toegestaan om per kalenderjaar gezamenlijk de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=9&z=2012-01-01&g=2012-01-01) genoemde hoeveelheid horsmakreel uit die gebieden tezamen aan boord te houden of aan te landen.
 
 ##### Artikel 28. Volledig gedocumenteerde visserij
 
-Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) ontheffing wordt verleend van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23) in verband met het uitoefenen van de visserij ten behoeve van een pilot in het kader van volledig gedocumenteerde visserij, geschiedt dit in overeenstemming met artikel 7 van de verordening vangstmogelijkheden.
+Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) ontheffing wordt verleend van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01) in verband met het uitoefenen van de visserij ten behoeve van een pilot in het kader van volledig gedocumenteerde visserij, geschiedt dit in overeenstemming met artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden.
 
 #### § 3. Contingenten
 
 ##### Artikel 29. Bepaling contingent
 
-1. Voor zover een ondernemer op 31 december om 24.00 uur van enig jaar voor zijn vissersvaartuig een recht op een contingent had van een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2011-07-23&g=2011-07-23) vermelde vissoort, heeft hij gedurende het daaropvolgende kalenderjaar voor dat vissersvaartuig recht op een contingent van die vissoort ter grootte van het in bijlage 8 bij die vissoort vermelde percentage.
+1. Voor zover een ondernemer op 31 december om 24.00 uur van enig jaar voor zijn vissersvaartuig een recht op een contingent had van een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2012-01-01&g=2012-01-01) vermelde vissoort, heeft hij gedurende het daaropvolgende kalenderjaar voor dat vissersvaartuig recht op een contingent van die vissoort ter grootte van het in bijlage 8 bij die vissoort vermelde percentage.
 
 2. Een ondernemer heeft slechts recht op een contingent tong, schol, kabeljauw of wijting, indien hij ook recht heeft op een contingent van de volgende bij de desbetreffende vissoort genoemde aanverwante vissoort:
 
@@ -526,11 +530,11 @@ Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://w
 
 - d. bij wijting: kabeljauw.
 
-3. Voor de bepaling van een contingent voor een kalenderjaar wordt de hoeveelheid waarmee het contingent voor het daaraan voorafgaande jaar ingevolge [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) is gekort, niet meegerekend.
+3. Voor de bepaling van een contingent voor een kalenderjaar wordt de hoeveelheid waarmee het contingent voor het daaraan voorafgaande jaar ingevolge [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) is gekort, niet meegerekend.
 
-4. De minister wijzigt het in het eerste lid genoemde percentage voor een vissoort indien ten gevolge van een bindende EU-rechtshandeling de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden van die vissoort worden verlaagd.
+4. De minister wijzigt het in het eerste lid genoemde percentage voor een vissoort indien ten gevolge van een bindende EU-rechtshandeling de in bijlage I van de verordening interne vangstmogelijkheden en bijlage I van de verordening externe vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden van die vissoort worden verlaagd.
 
-5. Tenzij de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op nul zijn gesteld, kan de minister ten behoeve van een ondernemer die zijn contingent van een vissoort nog niet heeft overschreden, het in het eerste lid genoemde percentage wijzigen indien:
+5. Tenzij de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op nul zijn gesteld, kan de minister ten behoeve van een ondernemer die zijn contingent van een vissoort nog niet heeft overschreden, het in het eerste lid genoemde percentage wijzigen indien:
 
 - a. het Nederlands quotum voor die vissoort daartoe ruimte biedt; of
 
@@ -538,7 +542,7 @@ Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://w
 
 ##### Artikel 30. Document met contingent
 
-1. De minister reikt aan de ondernemer die op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), recht heeft op een contingent, een document uit waarin het overeenkomstig de artikelen 29 en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) bepaalde contingent van een vissoort voor het desbetreffende kalenderjaar is vermeld en dat ten minste de volgende gegevens bevat:
+1. De minister reikt aan de ondernemer die op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), recht heeft op een contingent, een document uit waarin het overeenkomstig de artikelen 29 en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) bepaalde contingent van een vissoort voor het desbetreffende kalenderjaar is vermeld en dat ten minste de volgende gegevens bevat:
 
 - a. de naam van de ondernemer op wiens naam het vissersvaartuig, waarvoor het contingent geldt, staat geregistreerd; en
 
@@ -562,17 +566,17 @@ Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://w
 
 ##### Artikel 32. Toekenning groepscontingent
 
-1. De minister kent aan een groep of een producentenorganisatie een groepscontingent van een vissoort toe gelijk aan de som van de ingebrachte contingenten van die vissoort voor zover deze niet zijn opgevist en aangeland, indien de minister vóór 1 februari van het desbetreffende kalenderjaar het daartoe strekkende verzoek heeft ontvangen dat is ingediend overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=34&z=2011-07-23&g=2011-07-23).
+1. De minister kent aan een groep of een producentenorganisatie een groepscontingent van een vissoort toe gelijk aan de som van de ingebrachte contingenten van die vissoort voor zover deze niet zijn opgevist en aangeland, indien de minister vóór 1 februari van het desbetreffende kalenderjaar het daartoe strekkende verzoek heeft ontvangen dat is ingediend overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=34&z=2012-01-01&g=2012-01-01).
 
-2. Een groepscontingent staat op naam van de groep of de producentenorganisatie en geldt ten gunste van de vissersvaartuigen waarvan de contingenten aan de groep of de producentenorganisatie in beheer zijn gegeven voor zover de desbetreffende ondernemer voldoet aan [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=33&z=2011-07-23&g=2011-07-23).
+2. Een groepscontingent staat op naam van de groep of de producentenorganisatie en geldt ten gunste van de vissersvaartuigen waarvan de contingenten aan de groep of de producentenorganisatie in beheer zijn gegeven voor zover de desbetreffende ondernemer voldoet aan [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=33&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 33. Recht op individueel aandeel
 
 1. Een ondernemer heeft slechts recht op een individueel aandeel in een groepscontingent indien:
 
-- a. hij alle geldende, en gedurende het kalenderjaar eventueel te verwerven contingenten van een vissoort en in voorkomend geval van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort in de groep of in de producentenorganisatie inbrengt;
+- a. hij alle geldende, en gedurende het kalenderjaar eventueel te verwerven contingenten van een vissoort en in voorkomend geval van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort in de groep of in de producentenorganisatie inbrengt;
 
-- b. de voor het kalenderjaar voor zijn vissersvaartuig of vissersvaartuigen geldende contingenten van de desbetreffende vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) niet zijn vastgesteld op nul; en
+- b. de voor het kalenderjaar voor zijn vissersvaartuig of vissersvaartuigen geldende contingenten van de desbetreffende vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) niet zijn vastgesteld op nul; en
 
 - c. hij met zijn vissersvaartuig of vissersvaartuigen niet aan andere groepscontingenten deelneemt.
 
@@ -580,7 +584,7 @@ Indien op van [artikel 6d van het Reglement zee- en kustvisserij 1977](https://w
 
 ##### Artikel 34. Indiening verzoek door groep of PO
 
-1. Het verzoek, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2011-07-23&g=2011-07-23), wordt door de groep of de producentenorganisatie ingediend en gaat vergezeld van de volgende bescheiden:
+1. Het verzoek, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), wordt door de groep of de producentenorganisatie ingediend en gaat vergezeld van de volgende bescheiden:
 
 - a. een visplan;
 
@@ -622,11 +626,11 @@ Het bestuur van de groep of van de producentenorganisatie:
 
 - g. overlegt elke wijziging van de statuten en huishoudelijke reglementen van de groep of de producentenorganisatie onverwijld aan de minister;
 
-- h. verleent ambtenaren van de AID te allen tijde inzage in de gegevens, bedoeld in de onderdelen e en f;
+- h. verleent ambtenaren van de NVWA te allen tijde inzage in de gegevens, bedoeld in de onderdelen e en f;
 
 - i. verstrekt de minister op verzoek een kopie van de gegevens, bedoeld in de onderdelen e en f; en
 
-- j. stuurt de door het bestuur van de groep of van de producentenorganisatie ingevolge [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=3&artikel=110&z=2011-07-23&g=2011-07-23), ontvangen gegevens na ontvangst onverwijld door aan de minister.
+- j. stuurt de door het bestuur van de groep of van de producentenorganisatie ingevolge [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=3&artikel=110&z=2012-01-01&g=2012-01-01), ontvangen gegevens na ontvangst onverwijld door aan de minister.
 
 ##### Artikel 36. Onttrekking aan groepscontingent
 
@@ -636,7 +640,7 @@ Het bestuur van de groep of van de producentenorganisatie:
 
 - b. de melding vergezeld gaat van een schriftelijke verklaring van het bestuur van de desbetreffende groep of producentenorganisatie dat het met de onttrekking instemt; en
 
-- c. het groepscontingent van de desbetreffende vissoort of in voorkomend geval van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort op het moment van ontvangst van de melding nog niet geheel is opgevist.
+- c. het groepscontingent van de desbetreffende vissoort of in voorkomend geval van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort op het moment van ontvangst van de melding nog niet geheel is opgevist.
 
 2. De te onttrekken contingenten van een vissoort worden verminderd met de vangsten die tot de datum van onttrekking op basis van die contingenten zijn gerealiseerd.
 
@@ -646,11 +650,11 @@ Het bestuur van de groep of van de producentenorganisatie:
 
 1. De minister kan op verzoek van het bestuur van de groep of van de producentenorganisatie een deelnemer aan een groepscontingent van verdere deelname uitsluiten indien de deelnemer de binnen de groep of de producentenorganisatie geldende regels niet naleeft.
 
-2. De uitgesloten deelnemer heeft voor zijn vissersvaartuig recht op een contingent van de desbetreffende vissoort dat gelijk is aan het op grond van de [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), geldende contingent van die vissoort, verminderd met de tot de datum van uitsluiting met dat vissersvaartuig gerealiseerde vangsten of indien deze hoger zijn, verminderd met het evenredig aandeel van de vangsten gerealiseerd door de deelnemers aan het groepscontingent.
+2. De uitgesloten deelnemer heeft voor zijn vissersvaartuig recht op een contingent van de desbetreffende vissoort dat gelijk is aan het op grond van de [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), geldende contingent van die vissoort, verminderd met de tot de datum van uitsluiting met dat vissersvaartuig gerealiseerde vangsten of indien deze hoger zijn, verminderd met het evenredig aandeel van de vangsten gerealiseerd door de deelnemers aan het groepscontingent.
 
 ##### Artikel 38. Basis voor bepaling contingenten
 
-Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=36&z=2011-07-23&g=2011-07-23), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=37&z=2011-07-23&g=2011-07-23), gaat de minister uit van de gegevens uit het Visserij Registratie en Informatie Systeem van het Ministerie van Economische Zaken, Landbouw en Innovatie, aangevuld met de gegevens uit de laatste door het bestuur van de groep of van de producentenorganisatie overgelegde kopie van de administratieve gegevens, bedoeld in [artikel 35, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=35&z=2011-07-23&g=2011-07-23), behoudens tegenbewijs van de belanghebbende bij het desbetreffende contingent.
+Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=36&z=2012-01-01&g=2012-01-01), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=37&z=2012-01-01&g=2012-01-01), gaat de minister uit van de gegevens uit het Visserij Registratie en Informatie Systeem van het Ministerie van Economische Zaken, Landbouw en Innovatie, aangevuld met de gegevens uit de laatste door het bestuur van de groep of van de producentenorganisatie overgelegde kopie van de administratieve gegevens, bedoeld in [artikel 35, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=35&z=2012-01-01&g=2012-01-01), behoudens tegenbewijs van de belanghebbende bij het desbetreffende contingent.
 
 #### § 5. Korting, overdracht, aanhouding en ingebruikgeving van contingenten
 
@@ -668,31 +672,31 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 6. In afwijking van het eerste tot en met vijfde lid, kan de minister op verzoek van de ondernemer de overschrijding van:
 
-- a. het contingent schol geheel of gedeeltelijk in mindering brengen op het op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), geldende contingent tong waarbij voor elke 5 kilogram schol 1 kilogram tong in mindering wordt gebracht; of
+- a. het contingent schol geheel of gedeeltelijk in mindering brengen op het op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), geldende contingent tong waarbij voor elke 5 kilogram schol 1 kilogram tong in mindering wordt gebracht; of
 
-- b. het contingent tong geheel of gedeeltelijk in mindering brengen op het op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), geldende contingent schol, waarbij voor elke kilogram tong 5 kilogram schol in mindering wordt gebracht.
+- b. het contingent tong geheel of gedeeltelijk in mindering brengen op het op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), geldende contingent schol, waarbij voor elke kilogram tong 5 kilogram schol in mindering wordt gebracht.
 
 ##### Artikel 40. Andere verdeling van contingenten over vissersvaartuigen
 
-1. In afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), kan een ondernemer op wiens naam meer dan één vissersvaartuigen geregistreerd zijn waarvoor een contingent van dezelfde vissoort geldt, die contingenten op een andere manier over deze vissersvaartuigen verdelen.
+1. In afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), kan een ondernemer op wiens naam meer dan één vissersvaartuigen geregistreerd zijn waarvoor een contingent van dezelfde vissoort geldt, die contingenten op een andere manier over deze vissersvaartuigen verdelen.
 
 2. De verdeling is slechts toegestaan, indien:
 
 - a. de ondernemer de minister daarvan melding doet;
 
-- b. – voor zover het contingenten tong, schol, kabeljauw of wijting betreft – voor de betrokken vissersvaartuigen zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt;
+- b. – voor zover het contingenten tong, schol, kabeljauw of wijting betreft – voor de betrokken vissersvaartuigen zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt;
 
-- c. de contingenten van de desbetreffende vissoort of in voorkomend geval de aanverwante vissoort van de betrokken vissersvaartuigen nog niet volledig zijn opgevist of niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) zijn vastgesteld op nul op het moment van ontvangst van de melding; en
+- c. de contingenten van de desbetreffende vissoort of in voorkomend geval de aanverwante vissoort van de betrokken vissersvaartuigen nog niet volledig zijn opgevist of niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) zijn vastgesteld op nul op het moment van ontvangst van de melding; en
 
-- d. de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2011-07-23&g=2011-07-23) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), niet op nul zijn gesteld.
+- d. de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2012-01-01&g=2012-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), niet op nul zijn gesteld.
 
 3. De andere verdeling wordt slechts toegepast na kennisgeving van de minister aan de ondernemer dat de melding, bedoeld in het tweede lid, onderdeel a, is ontvangen.
 
 ##### Artikel 41. Overdraagbaarheid van contingenten
 
-1. Het recht van een ondernemer op een contingent van een vissoort is geheel of gedeeltelijk overdraagbaar aan één of meer ondernemers indien is voldaan aan het tweede tot en met het vijfde lid en aan de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=42&z=2011-07-23&g=2011-07-23) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=43&z=2011-07-23&g=2011-07-23).
+1. Het recht van een ondernemer op een contingent van een vissoort is geheel of gedeeltelijk overdraagbaar aan één of meer ondernemers indien is voldaan aan het tweede tot en met het vijfde lid en aan de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=42&z=2012-01-01&g=2012-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=43&z=2012-01-01&g=2012-01-01).
 
-2. Een ondernemer die zijn contingent geheel of gedeeltelijk wil overdragen, dient daarvoor een verzoek in bij de minister. Dit verzoek gaat vergezeld van het document, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2011-07-23&g=2011-07-23).
+2. Een ondernemer die zijn contingent geheel of gedeeltelijk wil overdragen, dient daarvoor een verzoek in bij de minister. Dit verzoek gaat vergezeld van het document, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-01-01&g=2012-01-01).
 
 3. Indien de ondernemer aan wie het contingent wordt overgedragen, meer dan één vissersvaartuig heeft, wordt bij het verzoek vermeld welk deel van het over te dragen contingent voor elk van deze vissersvaartuigen komt te gelden.
 
@@ -704,9 +708,9 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 1. Een geheel contingent tong, schol, kabeljauw of wijting kan slechts worden overgedragen:
 
-- a. tegelijkertijd met de gehele overdracht van het contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort van de desbetreffende ondernemer, met dien verstande dat de minister op verzoek van die ondernemer kan toestaan het verzoek tot overdracht van laatstbedoelde vissoort voor een door hem vast te stellen periode aan te houden; en
+- a. tegelijkertijd met de gehele overdracht van het contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort van de desbetreffende ondernemer, met dien verstande dat de minister op verzoek van die ondernemer kan toestaan het verzoek tot overdracht van laatstbedoelde vissoort voor een door hem vast te stellen periode aan te houden; en
 
-- b. aan een ondernemer ten behoeve van een vissersvaartuig waarvoor zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt.
+- b. aan een ondernemer ten behoeve van een vissersvaartuig waarvoor zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt.
 
 2. Een gedeeltelijk contingent kabeljauw of tong kan slechts worden overgedragen aan een ondernemer ten behoeve van een vissersvaartuig waarvoor zowel een contingent kabeljauw als wijting geldt, onderscheidenlijk waarvoor zowel een contingent tong als schol geldt.
 
@@ -714,15 +718,15 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 ##### Artikel 43. Overdracht van contingenten
 
-1. De overdracht vindt slechts plaats na kennisgeving van de minister aan de ondernemer aan wie het contingent van een vissoort wordt overgedragen, dat het overgedragen contingent voor een door de ondernemer aangewezen vissersvaartuig of vissersvaartuigen op zijn naam komt te gelden en dat dat contingent voor het lopende kalenderjaar is verminderd met het eventueel opgeviste deel daarvan en de hoeveelheden, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23).
+1. De overdracht vindt slechts plaats na kennisgeving van de minister aan de ondernemer aan wie het contingent van een vissoort wordt overgedragen, dat het overgedragen contingent voor een door de ondernemer aangewezen vissersvaartuig of vissersvaartuigen op zijn naam komt te gelden en dat dat contingent voor het lopende kalenderjaar is verminderd met het eventueel opgeviste deel daarvan en de hoeveelheden, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01).
 
 2. De kennisgeving vindt voor het lopende kalenderjaar slechts plaats indien:
 
-- a. het voor dat kalenderjaar voor het vissersvaartuig of de vissersvaartuigen van de ondernemer waaraan wordt overgedragen geldende contingent van de desbetreffende vissoort of aanverwante vissoort, nog niet geheel is opgevist op het moment van ontvangst van het in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2011-07-23&g=2011-07-23), bedoelde verzoek;
+- a. het voor dat kalenderjaar voor het vissersvaartuig of de vissersvaartuigen van de ondernemer waaraan wordt overgedragen geldende contingent van de desbetreffende vissoort of aanverwante vissoort, nog niet geheel is opgevist op het moment van ontvangst van het in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2012-01-01&g=2012-01-01), bedoelde verzoek;
 
-- b. het voor het vissersvaartuig of de vissersvaartuigen ten behoeve waarvan wordt overgedragen geldende contingent van de desbetreffende vissoort of aanverwante vissoort niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) is vastgesteld op nul;
+- b. het voor het vissersvaartuig of de vissersvaartuigen ten behoeve waarvan wordt overgedragen geldende contingent van de desbetreffende vissoort of aanverwante vissoort niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) is vastgesteld op nul;
 
-- c. de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2011-07-23&g=2011-07-23) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), niet op nul zijn gesteld; en
+- c. de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2012-01-01&g=2012-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), niet op nul zijn gesteld; en
 
 - d. voor zover het de overdracht van een contingent haring, makreel, blauwe wijting of grote zilvervis betreft aan een ondernemer ten behoeve van een vissersvaartuig waarvoor geen contingent van dezelfde vissoort geldt, in het kalenderjaar met dat vissersvaartuig geen hoeveelheden van die vissoort zijn aangeland.
 
@@ -734,15 +738,15 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 3. Een aangehouden contingent van een vissoort kan alleen voor vissersvaartuigen komen te gelden waarvoor een contingent van dezelfde vissoort of aanverwante vissoort geldt.
 
-4. Een aangehouden contingent tong, schol, kabeljauw of wijting kan alleen voor vissersvaartuigen komen te gelden waarvoor zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt.
+4. Een aangehouden contingent tong, schol, kabeljauw of wijting kan alleen voor vissersvaartuigen komen te gelden waarvoor zowel een contingent van de desbetreffende vissoort als een contingent van de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), bij de desbetreffende vissoort genoemde aanverwante vissoort geldt.
 
 5. Het geldend maken van een contingent tijdens de door de minister vastgestelde periode van aanhouding kan slechts plaatsvinden, indien:
 
 - a. de ondernemer één of meer vissersvaartuigen heeft aangewezen waarvoor een contingent van dezelfde vissoort of aanverwante vissoort geldt, en het contingent van die vissoort of aanverwante vissoort nog niet geheel is opgevist op het moment van ontvangst van het verzoek tot toekenning;
 
-- b. indien de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2011-07-23&g=2011-07-23) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), niet op nul zijn gesteld;
+- b. indien de in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=3&z=2012-01-01&g=2012-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), niet op nul zijn gesteld;
 
-- c. het contingent van de desbetreffende vissoort of aanverwante vissoort niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) is vastgesteld op nul; en
+- c. het contingent van de desbetreffende vissoort of aanverwante vissoort niet als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) is vastgesteld op nul; en
 
 - d. voor zover het contingent haring, makreel, blauwe wijting of grote zilvervis is aangehouden voor een vissersvaartuig, waarvoor geen contingent van de desbetreffende vissoort geldt, in het kalenderjaar met dat vissersvaartuig geen hoeveelheden van die vissoort zijn aangeland.
 
@@ -750,7 +754,7 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 ##### Artikel 45. Ingebruikgeving van contingenten
 
-1. Een ondernemer kan het contingent van een vissoort dat voor zijn vissersvaartuig geldt of dat ingevolge [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2011-07-23&g=2011-07-23) is aangehouden, in het kalenderjaar geheel of gedeeltelijk in gebruik geven aan:
+1. Een ondernemer kan het contingent van een vissoort dat voor zijn vissersvaartuig geldt of dat ingevolge [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2012-01-01&g=2012-01-01) is aangehouden, in het kalenderjaar geheel of gedeeltelijk in gebruik geven aan:
 
 - a. een met name genoemde ondernemer met één of meer vissersvaartuigen van wie het contingent van dezelfde vissoort of aanverwante vissoort op het moment van ontvangst van de melding, bedoeld in het tweede lid, onderdeel a, nog niet geheel is opgevist; of
 
@@ -760,9 +764,9 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 - a. de ondernemer daarvan melding doet aan de minister;
 
-- b. de ingebruikgeving geen betrekking heeft op een vissersvaartuig of vissersvaartuigen waarvan het contingent van de desbetreffende vissoort of aanverwante vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) is vastgesteld op nul;
+- b. de ingebruikgeving geen betrekking heeft op een vissersvaartuig of vissersvaartuigen waarvan het contingent van de desbetreffende vissoort of aanverwante vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) is vastgesteld op nul;
 
-- c. de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), niet op nul zijn gesteld; en
+- c. de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), niet op nul zijn gesteld; en
 
 - d. de periode waarvoor het contingent van een vissoort geheel of gedeeltelijk in gebruik wordt gegeven op het moment van de melding, bedoeld in onderdeel a, kleiner is dan de resterende periode waarvoor het desbetreffende contingent is aangehouden.
 
@@ -770,7 +774,7 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 ##### Artikel 46. Ingebruikgeving van groepscontingenten
 
-1. Een bestuur van een groep of van een producentenorganisatie kan het groepscontingent van een vissoort of de op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=26&z=2011-07-23&g=2011-07-23), ingebrachte hoeveelheden makreel gedeeltelijk in gebruik geven aan een andere groep of producentenorganisatie ten behoeve van samenvoeging met een groepscontingent van die vissoort, indien het groepscontingent van de desbetreffende vissoort of aanverwante vissoort, beheerd door het bestuur van de groep of de producentenorganisatie aan wie het in gebruik wordt gegeven, nog niet geheel is opgevist.
+1. Een bestuur van een groep of van een producentenorganisatie kan het groepscontingent van een vissoort of de op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=26&z=2012-01-01&g=2012-01-01), ingebrachte hoeveelheden makreel gedeeltelijk in gebruik geven aan een andere groep of producentenorganisatie ten behoeve van samenvoeging met een groepscontingent van die vissoort, indien het groepscontingent van de desbetreffende vissoort of aanverwante vissoort, beheerd door het bestuur van de groep of de producentenorganisatie aan wie het in gebruik wordt gegeven, nog niet geheel is opgevist.
 
 2. Een bestuur van een groep of van een producentenorganisatie kan het groepscontingent van een vissoort gedeeltelijk in gebruik geven aan een of meer met name genoemde ondernemers met één of meer vissersvaartuigen die niet deelnemen aan een groepscontingent en van wie het contingent van dezelfde vissoort of aanverwante vissoort op het moment van ontvangst van de melding, bedoeld in het derde lid, onderdeel a, nog niet geheel is opgevist.
 
@@ -778,9 +782,9 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 - a. het bestuur van de ingebruikgeving melding heeft gedaan aan de minister;
 
-- b. de ingebruikgeving geen betrekking heeft op een vissersvaartuig of vissersvaartuigen waarvan het contingent van de desbetreffende vissoort of aanverwante vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23) is vastgesteld op nul; en
+- b. de ingebruikgeving geen betrekking heeft op een vissersvaartuig of vissersvaartuigen waarvan het contingent van de desbetreffende vissoort of aanverwante vissoort als gevolg van de korting overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01) is vastgesteld op nul; en
 
-- c. de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2011-07-23&g=2011-07-23) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2011-07-23&g=2011-07-23) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), niet op nul zijn gesteld.
+- c. de in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=5&z=2012-01-01&g=2012-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=6&z=2012-01-01&g=2012-01-01) genoemde hoeveelheden op grond van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), niet op nul zijn gesteld.
 
 4. De ingebruikgeving vindt slechts plaats na kennisgeving van de minister aan de desbetreffende groep of producentenorganisatie dat de melding is ontvangen.
 
@@ -794,19 +798,19 @@ Bij de vermindering, bedoeld in de [artikelen 36, tweede lid](https://wetten.ove
 
 ##### Artikel 48. Nadere voorschriften contingenten haring
 
-Indien het een contingent haring betreft, zijn de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=31&z=2011-07-23&g=2011-07-23), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2011-07-23&g=2011-07-23), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2011-07-23&g=2011-07-23), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2011-07-23&g=2011-07-23), voor zover verband houdend met gedeeltelijke overdracht, [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2011-07-23&g=2011-07-23), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2011-07-23&g=2011-07-23), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23), uitsluitend van toepassing, indien het één en hetzelfde vangstgebied betreft.
+Indien het een contingent haring betreft, zijn de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2012-01-01&g=2012-01-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2012-01-01&g=2012-01-01), voor zover verband houdend met gedeeltelijke overdracht, [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2012-01-01&g=2012-01-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2012-01-01&g=2012-01-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01), uitsluitend van toepassing, indien het één en hetzelfde vangstgebied betreft.
 
 ##### Artikel 49. Nadere voorschriften meldingen
 
-1. Een melding als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2011-07-23&g=2011-07-23), [36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=36&z=2011-07-23&g=2011-07-23), [40, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2011-07-23&g=2011-07-23), [45, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2011-07-23&g=2011-07-23), en [46, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23), wordt bij de minister gedaan op een daartoe bestemd formulier.
+1. Een melding als bedoeld in de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-01-01&g=2012-01-01), [36, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=36&z=2012-01-01&g=2012-01-01), [40, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2012-01-01&g=2012-01-01), [45, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2012-01-01&g=2012-01-01), en [46, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01), wordt bij de minister gedaan op een daartoe bestemd formulier.
 
-2. Een verzoek als bedoeld in de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2011-07-23&g=2011-07-23), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=37&z=2011-07-23&g=2011-07-23), [39, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2011-07-23&g=2011-07-23), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=42&z=2011-07-23&g=2011-07-23), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2011-07-23&g=2011-07-23), wordt bij de minister ingediend op een daartoe bestemd formulier.
+2. Een verzoek als bedoeld in de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=37&z=2012-01-01&g=2012-01-01), [39, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=41&z=2012-01-01&g=2012-01-01), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=42&z=2012-01-01&g=2012-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2012-01-01&g=2012-01-01), wordt bij de minister ingediend op een daartoe bestemd formulier.
 
-3. Een melding als bedoeld in de [artikel 40, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2011-07-23&g=2011-07-23), wordt vóór 1 december van het desbetreffende kalenderjaar ingediend.
+3. Een melding als bedoeld in de [artikel 40, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=40&z=2012-01-01&g=2012-01-01), wordt vóór 1 december van het desbetreffende kalenderjaar ingediend.
 
-4. Een melding als bedoeld in [artikel 46, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23), die betrekking heeft op het eerste lid van dat artikel, wordt voor 15 januari van het kalenderjaar volgend op het jaar waarop de melding betrekking heeft ingediend.
+4. Een melding als bedoeld in [artikel 46, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01), die betrekking heeft op het eerste lid van dat artikel, wordt voor 15 januari van het kalenderjaar volgend op het jaar waarop de melding betrekking heeft ingediend.
 
-5. Een verzoek als bedoeld in [artikel 39, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2011-07-23&g=2011-07-23), een melding als bedoeld in [artikel 45, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2011-07-23&g=2011-07-23), en een melding als bedoeld in [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2011-07-23&g=2011-07-23), die betrekking heeft op het tweede lid van dat artikel, wordt vóór 1 maart van het desbetreffende kalenderjaar ingediend.
+5. Een verzoek als bedoeld in [artikel 39, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=39&z=2012-01-01&g=2012-01-01), een melding als bedoeld in [artikel 45, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=45&z=2012-01-01&g=2012-01-01), en een melding als bedoeld in [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=46&z=2012-01-01&g=2012-01-01), die betrekking heeft op het tweede lid van dat artikel, wordt vóór 1 maart van het desbetreffende kalenderjaar ingediend.
 
 ### Hoofdstuk 3. Technische maatregelen
 
@@ -928,7 +932,7 @@ Het is verboden in strijd te handelen met de artikelen 3, 4 en 5 van verordening
 
 2. Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste lid, 6, eerste lid, 7, eerste lid, 7 bis, 7 ter, 9, eerste tot en met derde lid, 13, eerste tot en met derde lid, 14, eerste en tweede lid, 17, eerste en derde lid, 18, eerste en tweede lid, 19, eerste lid, 23, eerste lid, en 24, eerste en tweede lid, van verordening nr. 601/2004.
 
-3. De bevoegde autoriteit, bedoeld in de artikelen 9, derde lid, 13, eerste lid en 17, eerste lid, van verordening nr. 601/2004, is de AID.
+3. De bevoegde autoriteit, bedoeld in de artikelen 9, derde lid, 13, eerste lid en 17, eerste lid, van verordening nr. 601/2004, is de NVWA.
 
 4. Het is verboden Dissostichus spp. uit het verdragsgebied, bedoeld in artikel 2, onderdeel a, van verordening nr. 601/2004, aan te landen of over te laden zonder dat de melding, bedoeld in artikel 27, tweede lid, van verordening nr. 601/2004, vergezeld gaan van een door de kapitein of de ondernemer van een vissersvaartuig ondertekende schriftelijke verklaring als bedoeld in dat lid.
 
@@ -958,7 +962,7 @@ Het is verboden in strijd te handelen met de artikelen 5, eerste lid, 7, 9, 10, 
 
 1. Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 6, 7 en 9 van verordening nr. 734/2008.
 
-2. De bevoegde autoriteit, bedoeld in artikel 7, derde lid, van verordening nr. 734/2008, is de AID.
+2. De bevoegde autoriteit, bedoeld in artikel 7, derde lid, van verordening nr. 734/2008, is de NVWA.
 
 ##### Artikel 68. Technische overgangsmaatregelen
 
@@ -982,17 +986,17 @@ Het is verboden in strijd te handelen met de artikelen 5, eerste lid, 7, 9, 10, 
 
 1. Het is verboden in strijd te handelen met artikel 9 van verordening nr. 811/2004.
 
-2. Als havens als bedoeld in artikel 9 van verordening nr. 811/2004, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), toegelaten havens.
+2. Als havens als bedoeld in artikel 9 van verordening nr. 811/2004, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), toegelaten havens.
 
 ##### Artikel 71. Herstelplan zwarte heilbot in NAFO-gebied
 
 1. Het is verboden in strijd te handelen met de artikelen 4, 5 bis, 6, eerste en derde lid, 8, eerste lid, 9, 10, tweede en derde lid, en 11 van verordening nr. 2115/2005.
 
-2. Als havens als bedoel in artikel 8, tweede lid, van verordening nr. 2115/2005 worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) B.
+2. Als havens als bedoel in artikel 8, tweede lid, van verordening nr. 2115/2005 worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) B.
 
-3. De mededeling, bedoeld in artikel 6, eerste lid, van verordening nr. 2115/2005, wordt gedaan aan de AID.
+3. De mededeling, bedoeld in artikel 6, eerste lid, van verordening nr. 2115/2005, wordt gedaan aan de NVWA.
 
-4. De bevoegde autoriteit, bedoeld in artikel 9 van verordening nr. 2115/2005, is de AID.
+4. De bevoegde autoriteit, bedoeld in artikel 9 van verordening nr. 2115/2005, is de NVWA.
 
 ##### Artikel 72. Meerjarenplan tongbestand in Golf van Biskaje
 
@@ -1006,7 +1010,7 @@ Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste 
 
 1. Het is verboden in strijd te handelen met de artikelen 8, eerste en tweede lid, 9, eerste lid, 10, eerste lid, 11, eerste lid, 16, eerste tot en met derde lid, 18, 21 en 22 van verordening nr. 1098/2007.
 
-2. Als havens als bedoeld in artikel 18 van verordening nr. 1098/2007, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), toegelaten havens.
+2. Als havens als bedoeld in artikel 18 van verordening nr. 1098/2007, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), toegelaten havens.
 
 ##### Artikel 75. Instandhoudings- en handhavingmaatregelen in NAFO-gebied
 
@@ -1014,9 +1018,9 @@ Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste 
 
 2. Het is verboden in strijd te handelen met een op grond van artikel 54, eerste lid, van verordening nr. 1386/2007 gegeven opdracht of met een op grond van artikel 56 van die verordening getroffen maatregel.
 
-3. Als havens als bedoeld in artikel 63 van verordening nr. 1386/2007, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) B.
+3. Als havens als bedoeld in artikel 63 van verordening nr. 1386/2007, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) B.
 
-4. De bevoegde autoriteit, bedoeld in artikel 63bis van verordening nr. 1386/2007, is de AID.
+4. De bevoegde autoriteit, bedoeld in artikel 63bis van verordening nr. 1386/2007, is de NVWA.
 
 5. Het is verboden met een vaartuig als bedoeld in artikel 69, eerste lid, van verordening nr. 1386/2007, een Nederlandse haven binnen te varen, dan wel de bemanning van dat vaartuig te vervangen.
 
@@ -1026,19 +1030,19 @@ Het is verboden in strijd te handelen met de artikelen 3, eerste lid, 4, eerste 
 
 1. Het is verboden in strijd te handelen met de artikelen 4, dertiende lid, 7, eerste tot en met vijfde lid, 8, 11, eerste lid, 12, tweede en derde lid, 13, tweede lid, 14, vierde lid, 15, derde lid, 17, derde lid, 18, 19, eerste lid, 20, eerste en tweede lid, 21, eerste lid, 23, eerste tot en met vierde en zesde lid, 24, vierde lid, 25, eerste lid, 26, eerste lid, 34 en onderdelen 2, onderdeel a, en 5 van Bijlage I van verordening nr. 302/2009.
 
-2. Als havens als bedoeld in artikel 17, eerste lid, van verordening nr. 302/2009, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2011-07-23&g=2011-07-23) B.
+2. Als havens als bedoeld in artikel 17, eerste lid, van verordening nr. 302/2009, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=8&z=2012-01-01&g=2012-01-01) B.
 
 ##### Artikel 77. Controle- en handhavingregeling in NEAFC-gebied
 
 1. Het is verboden in strijd te handelen met de artikelen 8, eerste en tweede lid, 9, eerste en tweede lid, 13, 14, 15, 21, 23, 24, eerste lid, 25, tweede lid, 40, eerste lid, 41, eerste lid, en 42 van verordening nr. 1236/2010.
 
-2. De bevoegde instantie, bedoeld in artikel 4, eerste lid, van verordening nr. 1236/2010, is de AID.
+2. De bevoegde instantie, bedoeld in artikel 4, eerste lid, van verordening nr. 1236/2010, is de NVWA.
 
 3. Het is verboden in het gereglementeerd gebied, bedoeld in artikel 3, onderdeel 3, van verordening nr. 1236/2010, vistuig te gebruiken dat niet is gemarkeerd overeenkomstig artikel 8, eerste lid, van de controleverordening, in samenhang met de artikelen 6 tot en met 17 van de uitvoeringsverordening controleverordening.
 
 4. De minister kan vistuig als bedoeld in artikel 4, tweede lid, van verordening nr. 1236/2010, verwijderen en vernietigen.
 
-5. Als havens als bedoeld in artikel 23 van verordening nr. 1236/2010, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) B.
+5. Als havens als bedoeld in artikel 23 van verordening nr. 1236/2010, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) B.
 
 6. Het is verboden met vaartuigen als bedoeld in artikel 40, tweede lid, van verordening nr. 1236/2010, een Nederlandse haven binnen te varen.
 
@@ -1056,9 +1060,9 @@ Het is verboden met een vissersvaartuig te vissen op haring, koolvis, makreel, s
 
 ##### Artikel 79. Verbod uitoefening visserij op gequoteerde soorten met niet vissersvaartuigen
 
-1. Het is verboden met andere vaartuigen dan vissersvaartuigen de visserij met trawlnetten, vistuig van het type staandwant, Deense zegennetten of soortgelijke netten uit te oefenen op de vissoorten genoemd in de [bijlagen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2011-07-23&g=2011-07-23) in de bij die vissoorten genoemde wateren alsmede dergelijke netten aan boord te houden van een ander vaartuig dan een vissersvaartuig.
+1. Het is verboden met andere vaartuigen dan vissersvaartuigen de visserij met trawlnetten, vistuig van het type staandwant, Deense zegennetten of soortgelijke netten uit te oefenen op de vissoorten genoemd in de [bijlagen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=4&z=2012-01-01&g=2012-01-01) in de bij die vissoorten genoemde wateren alsmede dergelijke netten aan boord te houden van een ander vaartuig dan een vissersvaartuig.
 
-2. In afwijking van het eerste lid is het toegestaan vistuig van het type staandwant aan boord te houden in het zeegebied en de kustwateren, bedoeld in [artikel 1, onderdelen c en d, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=1).
+2. Vervallen.
 
 3. Het eerste lid is niet van toepassing op een scheepswerf die daartoe melding heeft gedaan aan de minister met gebruikmaking van het daartoe bestemde formulier, voor zover het betreft de uitoefening van de visserij door een vaartuig:
 
@@ -1158,35 +1162,37 @@ Het is verboden om in de visserijzone per Nederlands vissersvaartuig op hetzelfd
 
 - b. indien het TR2 betreft:
 
-- i. een maaswijdte hebben van 70 millimeter tot 100 millimeter en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 120 millimeter of meer en met een minimum lengte van 3 meter of van een paneel met vierkante mazen met een maaswijdte van 130 millimeter in de tunnel, waarvan de achterste rij mazen zich ten hoogste 12 meter van de pooklijn bevindt; of
+- i. een maaswijdte hebben van 70 millimeter tot 100 millimeter en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 120 millimeter of meer en met een minimum lengte van 3 meter of van een paneel met vierkante mazen met een maaswijdte van 130 millimeter in de tunnel, waarvan de achterste rij mazen zich ten hoogste 12 meter van de pooklijn bevindt;
 
-- ii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 90 millimeter, voor zover ten hoogste 20% van het gewicht van de totale vangst uit kabeljauw bestaat.
+- ii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 90 millimeter, voor zover ten hoogste 20% van het gewicht van de totale vangst uit kabeljauw bestaat; of
+
+- iii. een maaswijdte hebben van 70 millimeter tot 100 millimeter en ten minste 15 grote mazen van 150 millimeter of meer in de bovenkap hebben en zijn voorzien van een paneel met vierkante mazen met een maaswijdte van 80 millimeter, voor zover ten hoogste 5% van het gewicht van de totale vangst uit kabeljauw bestaat en gevist wordt met Deense zegennetten (SDN), Schotse zegennetten (SSC) of spanzegennetten (SPR).
 
 2. Ten aanzien van de in het eerste lid bedoelde panelen is overigens voldaan aan artikel 7, tweede en derde lid, van verordening nr. 850/98.
 
 ##### Artikel 87. Verzegeling motoren
 
-1. Voor de toepassing van het tweede tot en met vijfde lid en de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2011-07-23&g=2011-07-23) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=94&z=2011-07-23&g=2011-07-23) wordt onder motorvermogen verstaan: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW dat de hoofdmotor of hoofdmotoren zonder overbelasting kan onderscheidenlijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals dat is vastgesteld door de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat ingevolge het [Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607) of het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342), of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier.
+1. Voor de toepassing van het tweede tot en met vijfde lid en de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2012-01-01&g=2012-01-01) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=94&z=2012-01-01&g=2012-01-01) wordt onder motorvermogen verstaan: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW dat de hoofdmotor of hoofdmotoren zonder overbelasting kan onderscheidenlijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals dat is vastgesteld door de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat ingevolge het [Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607) of het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342), of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier.
 
 2. Voor zover het motorvermogen van een vissersvaartuig meer dan 100 kW is, is het verboden de visserij uit te oefenen met dat vissersvaartuig, indien de hoofdmotor of de hoofdmotoren van het vaartuig niet door de desbetreffende fabrikant of leverancier of door een meetbureau zijn verzegeld.
 
 3. Terzake van de in het tweede lid bedoelde verzegeling wordt door de desbetreffende fabrikant of leverancier of door het desbetreffende meetbureau overeenkomstig de door de minister beschikbaar gestelde modellen, een zegelplan opgemaakt, dat bestaat uit een tekening en een geschrift, waaruit blijkt welke onderdelen van de hoofdmotor of hoofdmotoren zijn verzegeld, waar de verzegelingen zijn aangebracht en welke kenmerken zij hebben, waar en op welke wijze de stelbouten en breekbouten van de hoofdmotor of hoofdmotoren zijn geplaatst en ingesteld, en waarop door de opsteller ervan is verklaard dat de feitelijke toestand van de motor of hoofdmotoren overeenkomt met de in het overzicht opgenomen gegevens.
 
-4. De ondernemer stuurt na opmaak of wijziging van het zegelplan, bedoeld in het derde lid, een afschrift hiervan aan de AID in Kerkrade
+4. De ondernemer stuurt na opmaak of wijziging van het zegelplan, bedoeld in het derde lid, een afschrift hiervan aan de NVWA in Kerkrade
 
 5. Het in het tweede en derde lid bedoelde meetbureau is een instelling met deskundigheid op het gebied van meting van motorvermogens en afstelling van motoren en terzake geaccrediteerd.
 
-6. De zegels bestemd voor verzegeling van de hoofdmotor of hoofdmotoren als bedoeld in het tweede lid, worden beschikbaar gesteld door de AID.
+6. De zegels bestemd voor verzegeling van de hoofdmotor of hoofdmotoren als bedoeld in het tweede lid, worden beschikbaar gesteld door de NVWA.
 
 ##### Artikel 88. Documenten aan boord
 
 1. Voor zover een vissersvaartuig is aangemeld bij divisie Scheepvaart van de Inspectie Verkeer en Waterstaat zoals vereist krachtens [artikel 20, tweede lid, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=20) of [artikel 1.11 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.11) heeft de ondernemer van een vissersvaartuig of diens gemachtigde de desbetreffende aanmelding aan boord van het vissersvaartuig.
 
-2. Voor zover het motorvermogen van een vissersvaartuig meer dan 100 kW is, heeft de ondernemer van een vissersvaartuig of diens gemachtigde het zegelplan, bedoeld in [artikel 88, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2011-07-23&g=2011-07-23), aan boord van het vissersvaartuig.
+2. Voor zover het motorvermogen van een vissersvaartuig meer dan 100 kW is, heeft de ondernemer van een vissersvaartuig of diens gemachtigde het zegelplan, bedoeld in [artikel 88, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2012-01-01&g=2012-01-01), aan boord van het vissersvaartuig.
 
 3. De ondernemer van een vissersvaartuig of diens gemachtigde doet onverwijld doch in ieder geval vóór het tijdstip van aanlanding melding van wijzigingen die zich ten aanzien van de hoofdmotor of hoofdmotoren van het desbetreffende vaartuig hebben voorgedaan ten opzichte van de in het eerste lid bedoelde aanmelding of het bij dat vaartuig behorende zegelplan en die hem bekend waren of hem redelijkerwijs bekend hadden moeten zijn. Wijzigingen die kennelijk zijn opgetreden door menselijk toedoen worden in ieder geval aangemerkt als redelijkerwijs bekend.
 
-4. De melding, bedoeld in het derde lid, geschiedt overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2011-07-23&g=2011-07-23).
+4. De melding, bedoeld in het derde lid, geschiedt overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 89. Vermelding vissoort op verpakking
 
@@ -1236,7 +1242,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 1. Het is verboden om in strijd te handelen met artikel 6, eerste lid, van de controleverordening.
 
-2. De in artikel 6, eerste lid, van de controleverordening, bedoelde visvergunning wordt op aanvraag van de desbetreffende ondernemer door de minister verleend overeenkomstig [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=93&z=2011-07-23&g=2011-07-23).
+2. De in artikel 6, eerste lid, van de controleverordening, bedoelde visvergunning wordt op aanvraag van de desbetreffende ondernemer door de minister verleend overeenkomstig [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=93&z=2012-01-01&g=2012-01-01).
 
 3. De aanvraag tot inschrijving van een vaartuig in het visserijregister, bedoeld in [artikel 6 van het Registratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6), alsmede de mededeling, bedoeld in [artikel 7, tweede lid, van het Registratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7), wordt in voorkomend geval als een aanvraag tot verlening van een visvergunning beschouwd.
 
@@ -1256,7 +1262,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 - f. het vissersvaartuig behoort tot hetzelfde segment als voor het moment van doorhaling, dan wel tot hetzelfde segment als het vissersvaartuig dat wordt vervangen; en
 
-- g. is voldaan aan [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2011-07-23&g=2011-07-23).
+- g. is voldaan aan [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2012-01-01&g=2012-01-01).
 
 2. In afwijking van het eerste lid wordt een visvergunning verleend voor een vissersvaartuig waarvan het motorvermogen of de tonnage is toegenomen, indien ten aanzien van het vissersvaartuig een visvergunning was verleend wat betreft het oorspronkelijke motorvermogen of de oorspronkelijke tonnage, en de aanvrager van de visvergunning kan aantonen dat:
 
@@ -1280,7 +1286,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 - a. het vermogen van de hoofdmotor of hoofdmotoren van het vissersvaartuig hoger is dan het op de visvergunning vermelde motorvermogen;
 
-- b. er ten aanzien van de hoofdmotor of hoofdmotoren van het vissersvaartuig wijzigingen zijn opgetreden ten opzichte van het desbetreffende in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2011-07-23&g=2011-07-23), bedoelde zegelplan, of de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2011-07-23&g=2011-07-23), bedoelde aanmelding, of
+- b. er ten aanzien van de hoofdmotor of hoofdmotoren van het vissersvaartuig wijzigingen zijn opgetreden ten opzichte van het desbetreffende in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2012-01-01&g=2012-01-01), bedoelde zegelplan, of de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2012-01-01&g=2012-01-01), bedoelde aanmelding, of
 
 - c. de tonnage van het vissersvaartuig hoger is dan de op de visvergunning vermelde tonnage.
 
@@ -1288,7 +1294,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 3. De minister besluit de ongeldigheid van de visvergunning op te heffen, indien de ondernemer of diens gemachtigde hem bescheiden heeft doen toekomen waaruit te zijnen genoegen blijkt dat:
 
-- a. indien het betreft de situatie, bedoeld in het eerste lid, aanhef en onderdelen a of b, het vermogen van de hoofdmotor of hoofdmotoren van dat vissersvaartuig het op de visvergunning vermelde motorvermogen niet overschrijdt, onderscheidenlijk er ten aanzien van de hoofdmotor of hoofdmotoren van dat vissersvaartuig geen afwijkingen zijn ten opzichte van het desbetreffende in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2011-07-23&g=2011-07-23), bedoelde zegelplan of de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2011-07-23&g=2011-07-23), bedoelde aanmelding;
+- a. indien het betreft de situatie, bedoeld in het eerste lid, aanhef en onderdelen a of b, het vermogen van de hoofdmotor of hoofdmotoren van dat vissersvaartuig het op de visvergunning vermelde motorvermogen niet overschrijdt, onderscheidenlijk er ten aanzien van de hoofdmotor of hoofdmotoren van dat vissersvaartuig geen afwijkingen zijn ten opzichte van het desbetreffende in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=87&z=2012-01-01&g=2012-01-01), bedoelde zegelplan of de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=88&z=2012-01-01&g=2012-01-01), bedoelde aanmelding;
 
 - b. indien het betreft de situatie, bedoeld in het eerste lid, aanhef en onderdeel c, de tonnage van het vissersvaartuig overeenkomt met de op de visvergunning vermelde gegevens.
 
@@ -1296,7 +1302,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 1. De minister kan op verzoek van een ondernemer de in de visvergunning vermelde tonnage van een vissersvaartuig verhogen als bedoeld in artikel 11, vijfde lid, van verordening nr. 2371/2002, indien wordt voldaan aan de voorwaarden, bedoeld in artikel 9 van verordening nr. 1013/2010.
 
-2. Het verzoek tot verhoging van de tonnage wordt schriftelijk gedaan en wordt ingediend bij de directeur Agroketens en Visserij van het Ministerie van Economische Zaken, Landbouw en Innovatie.
+2. Het verzoek tot verhoging van de tonnage wordt schriftelijk gedaan en wordt ingediend bij de directeur Dierlijke Agroketens en Dierenwelzijn van het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
 3. Bij het verzoek worden gegevens overgelegd, waaruit blijkt dat wordt voldaan aan artikel 9, onderdelen d, e en f, van verordening nr. 1013/2010. In ieder geval worden de volgende documenten overgelegd:
 
@@ -1326,7 +1332,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 3. De minister kan de visvergunning voor een bepaalde periode schorsen of intrekken indien naar het oordeel van de minister:
 
-- a. met het vissersvaartuig de visserij kennelijk is uitgeoefend in strijd met de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2011-07-23&g=2011-07-23), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=23&z=2011-07-23&g=2011-07-23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=24&z=2011-07-23&g=2011-07-23), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=53&z=2011-07-23&g=2011-07-23), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=3&artikel=57&z=2011-07-23&g=2011-07-23) of [105](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=2&artikel=105&z=2011-07-23&g=2011-07-23) van deze regeling of met de artikelen 39, eerste lid, of 49 van de controleverordening; of
+- a. met het vissersvaartuig de visserij kennelijk is uitgeoefend in strijd met de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=22&z=2012-01-01&g=2012-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=23&z=2012-01-01&g=2012-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=24&z=2012-01-01&g=2012-01-01), of [130, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=8&artikel=130&z=2012-01-01&g=2012-01-01), van deze regeling; of
 
 - b. de ondernemer van een vissersvaartuig ten aanzien van wie een visvergunning is verleend, of diens gemachtigde, niet voldoet aan de aan de visvergunning verbonden voorschriften.
 
@@ -1338,13 +1344,13 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 1. Het is verboden om in strijd te handelen met artikel 7, eerste lid, van de controleverordening, ongeacht de lengte van het betrokken vissersvaartuig.
 
-2. De in artikel 7, eerste lid, van de controleverordening, bedoelde vismachtiging wordt op aanvraag van de desbetreffende ondernemer door de minister verleend overeenkomstig [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=98&z=2011-07-23&g=2011-07-23).
+2. De in artikel 7, eerste lid, van de controleverordening, bedoelde vismachtiging wordt op aanvraag van de desbetreffende ondernemer door de minister verleend overeenkomstig [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=98&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 98. Verlening vismachtiging
 
 1. Een vismachtiging wordt uitsluitend verleend indien de ondernemer voor het betrokken vissersvaartuig over een geldige visvergunning beschikt.
 
-2. Voor zover het een vismachtiging voor de in verordening nr. 1342/2008 bedoelde visserijactiviteiten betreft, wordt de vismachtiging slechts verleend indien voldaan is aan [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=99&z=2011-07-23&g=2011-07-23).
+2. Voor zover het een vismachtiging voor de in verordening nr. 1342/2008 bedoelde visserijactiviteiten betreft, wordt de vismachtiging slechts verleend indien voldaan is aan [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=99&z=2012-01-01&g=2012-01-01).
 
 3. De minister kan weigeren een vismachtiging te verlenen indien hij dit noodzakelijk acht ter nakoming van verplichtingen van de Europese Unie.
 
@@ -1356,13 +1362,13 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 - a. dat in de kalenderjaren 2006 tot en met 2008 heeft gevist in het desbetreffende gereglementeerde geografische gebied met het desbetreffende gereglementeerde vistuig;
 
-- b. dat, voor zover de aanvraag de vistuigcategorieën TR1 of TR2 betreft, in de kalenderjaren 2001 tot en met 2005 heeft gevist in het desbetreffende gereglementeerde geografische gebied met tot die vistuigcategorieën behorende vistuigen en waarvoor op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23) een recht op contingenten wijting en kabeljauw geldt;
+- b. dat, voor zover de aanvraag de vistuigcategorieën TR1 of TR2 betreft, in de kalenderjaren 2001 tot en met 2005 heeft gevist in het desbetreffende gereglementeerde geografische gebied met tot die vistuigcategorieën behorende vistuigen en waarvoor op 31 december 2011 op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01) een recht op contingenten wijting en kabeljauw gold;
 
 - c. ten aanzien waarvan op 1 januari 2009 een onomkeerbare investeringsverplichting is aangegaan met het oog op de uitoefening van de visserij in het gereglementeerde geografische gebied; of
 
 - d. dat dient ter vervanging van een of meer vissersvaartuigen ten aanzien waarvan is voldaan aan onderdeel a of b, en het motorvermogen van het vervangende vissersvaartuig niet meer bedraagt dan het motorvermogen van het vissersvaartuig of de vissersvaartuigen die worden vervangen.
 
-2. Voor zover de aanvraag de vistuigcategorieën BT1 en BT2 betreft, geldt voor het betrokken vissersvaartuig een recht op contingenten tong en schol op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23).
+2. Voor zover de aanvraag de vistuigcategorieën BT1 en BT2 betreft, geldt voor het betrokken vissersvaartuig een recht op contingenten tong en schol op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 100. Schorsing of intrekking vismachtiging
 
@@ -1372,37 +1378,11 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 ##### Artikel 101. Markering vissersvaartuig en vistuig
 
-1. EU-vissersvaartuigen worden als volgt gemarkeerd:
+1. Het is verboden in strijd te handelen met artikel 8 van de controleverordening, in samenhang met de artikelen 6 tot en met 17 van de uitvoeringsverordening controleverordening.
 
-- a. de letter(s) van de haven of het district waarin het EU-vissersvaartuig is geregistreerd, en het nummer (of de nummers) waaronder het vaartuig is geregistreerd, moeten in een kleur die contrasteert met de ondergrond, aan weerszijden van de boeg zo hoog mogelijk boven de waterlijn zijn geschilderd of aangebracht, zodat zij van op zee en vanuit de lucht duidelijk zichtbaar zijn;
+2. De minister is de bevoegde autoriteit, bedoeld in artikel 7, eerste lid, van de uitvoeringsverordening controleverordening.
 
-- b. voor EU-vissersvaartuigen met een lengte over alles van meer dan 10 m en minder dan 17 m bedraagt de hoogte van de cijfers en letters ten minste 25 cm en de lijndikte ten minste 4 cm. Voor EU-vissersvaartuigen met een lengte over alles van meer dan 17 m bedraagt de hoogte van de cijfers en letters ten minste 45 cm en de lijndikte ten minste 6 cm;
-
-- c. de contrasterende kleuren zijn wit en zwart; en
-
-- d. de externe registratiecijfers en -letters die op de romp van het EU-vissersvaartuig zijn geschilderd of aangebracht, mogen niet verwijderbaar zijn en mogen niet worden uitgewist, worden gewijzigd, onleesbaar worden gelaten, worden bedekt of aan het gezicht worden onttrokken.
-
-2. Het is verboden in strijd te handelen met de artikelen 4 tot en met 14 van verordening nr. 356/2005.
-
-3. De kapitein van een vissersvaartuig met een lengte over alles van 10 m of meer dient documenten aan boord te hebben die door de minister zijn afgegeven en waarin ten minste de volgende gegevens over het vaartuig worden vermeld:
-
-- a. de naam, als het vaartuig een naam heeft;
-
-- b. de letters van de haven of van het district waarin het vaartuig is geregistreerd en het nummer (of de nummers) waaronder het vaartuig is geregistreerd;
-
-- c. de internationale radioroepnaam, als het vaartuig een radioroepnaam heeft;
-
-- d. de naam en het adres van de eigenaar(s) en, indien van toepassing, de charteraar(s); en
-
-- e. de lengte over alles, het vermogen van de voortstuwingsmotor, de brutotonnage en, voor vissersvaartuigen die met ingang van 1 januari 1987 in bedrijf zijn genomen, de datum van inbedrijfname.
-
-4. De kapitein van een vissersvaartuig met een lengte over alles van 17 m of meer dat met visruimen is uitgerust, dient accurate tekeningen met een beschrijving van deze visruimen aan boord te hebben waarin onder meer alle toegangspunten en de in kubieke meter uitgedrukte opslagcapaciteit van deze visruimen zijn aangegeven.
-
-5. De kapitein van vissersvaartuig met tanks voor gekoeld zeewater dient een bijgewerkt document aan boord te hebben waarin de in kubieke meter uitgedrukte capaciteit van de tanks voor iedere 10 cm hoogte van die tanks wordt aangegeven.
-
-6. De in het derde en vierde lid bedoelde documenten alsmede de wijzigingen van de kenmerken die in deze documenten zijn vermeld worden gecertificeerd door de inspectie Verkeer en Waterstaat, divisie Scheepvaart, van het ministerie van Infrastructuur en Milieu. Wijzigingen van de kenmerken die in de documenten, bedoeld in het derde tot en met vijfde lid, zijn vermeld, worden gecertificeerd door een bevoegde autoriteit van de vlaggenlidstaat.
-
-7. De in dit artikel bedoelde documenten worden voor controle- of inspectiedoeleinden voorgelegd op verzoek van de ter zake bevoegde functionarissen.
+3. Voor zover het betreft de in het tweede en derde lid van artikel 7 van de uitvoeringsverordening controleverordening bedoelde documenten, is de inspectie Verkeer en Waterstaat, divisie Scheepvaart, van het ministerie van Infrastructuur en Milieu, de bevoegde autoriteit, bedoeld in artikel 7, vierde lid, van de uitvoeringsverordening controleverordening.
 
 ##### Artikel 102. Vms voor vaartuigen
 
@@ -1414,7 +1394,7 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 - a. laat niet toe dat gegevens handmatig worden ingebracht, gewijzigd, beïnvloed of op andere wijze worden aangepast;
 
-- b. waarborgt een volledige automatische transmissie van juiste en actuele gegevens als bedoeld in artikel 19, eerste lid, van de uitvoeringsverordening controleverordening, naar het visserijcontrolecentrum van de AID te Kerkrade met een frequentie van tenminste eenmaal per twee uur;
+- b. waarborgt een volledige automatische transmissie van juiste en actuele gegevens als bedoeld in artikel 19, eerste lid, van de uitvoeringsverordening controleverordening, naar het visserijcontrolecentrum van de NVWA te Kerkrade met een frequentie van tenminste eenmaal per twee uur;
 
 - c. is voorzien van een reservestroombron die automatisch wordt ingeschakeld indien de hoofdstroom wordt uitgeschakeld of defect raakt en die een werking van ten minste zes uur waarborgt, en
 
@@ -1422,9 +1402,9 @@ De autoriteit, bedoeld in artikel 5, vijfde lid, van de controleverordening, is 
 
 - e. is goedgekeurd door een ter zake geaccrediteerde instelling en voldoet blijkens die goedkeuring aan de onderdelen a tot en met d.
 
-4. Wijzigingen aan de satellietvolgapparatuur worden schriftelijk gemeld aan de AID.
+4. Wijzigingen aan de satellietvolgapparatuur worden schriftelijk gemeld aan de NVWA.
 
-5. De bevoegde autoriteit, bedoeld in artikel 25, derde tot en met vijfde lid, van de uitvoeringsverordening controleverordening, is de AID.
+5. De bevoegde autoriteit, bedoeld in artikel 25, derde tot en met vijfde lid, van de uitvoeringsverordening controleverordening, is de NVWA.
 
 ##### Artikel 103. AIS
 
@@ -1444,15 +1424,15 @@ Het is verboden in strijd te handelen met artikel 10, eerste lid, van de control
 
 5. De indiening van de in artikel 32, van de uitvoeringsverordening controleverordening bedoelde documenten geschiedt door deze in de haven van aanlanding:
 
-- a. te overhandigen aan een functionaris of aan een ambtenaar van de AID; of
+- a. te overhandigen aan een functionaris of aan een ambtenaar van de NVWA; of
 
 - b. te deponeren in een vangstopgavebus.
 
-6. Indien de aanlanding niet in een haven plaatsvindt, geschiedt de indiening door middel van toezending aan het dichtstbijzijnde havenkantoor van de AID of aan het havenkantoor van de AID in de plaats waar de desbetreffende vis wordt verkocht.
+6. Indien de aanlanding niet in een haven plaatsvindt, geschiedt de indiening door middel van toezending aan het dichtstbijzijnde havenkantoor van de NVWA of aan het havenkantoor van de NVWA in de plaats waar de desbetreffende vis wordt verkocht.
 
-7. De bevoegde autoriteit, bedoeld in de artikelen 14, zesde lid, 21, vierde lid, en 23, derde lid, van de controleverordening en in artikel 32 van de uitvoeringsverordening controleverordening, is de AID.
+7. De bevoegde autoriteit, bedoeld in de artikelen 14, zesde lid, 21, vierde lid, en 23, derde lid, van de controleverordening en in artikel 32 van de uitvoeringsverordening controleverordening, is de NVWA.
 
-8. Als omrekeningsfactoren als bedoeld in artikel 49, derde lid, van de uitvoeringsverordening controleverordening, worden vastgesteld de omrekeningsfactoren die zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=10&z=2011-07-23&g=2011-07-23).
+8. Als omrekeningsfactoren als bedoeld in artikel 49, derde lid, van de uitvoeringsverordening controleverordening, worden vastgesteld de omrekeningsfactoren die zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=10&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 105. Elektronisch invullen/verzenden visserijlogboekgegevens
 
@@ -1460,35 +1440,35 @@ Het is verboden in strijd te handelen met artikel 10, eerste lid, van de control
 
 2. Het format, bedoeld in artikel 37, van de uitvoeringsverordening controleverordening, is het format dat door de minister beschikbaar wordt gesteld.
 
-3. De bevoegde autoriteit, bedoeld in artikel 15, eerste en tweede lid, van de controleverordening en in de artikelen 39, 40, 41, derde lid, en 47, eerste lid, van de uitvoeringsverordening controleverordening, is de AID.
+3. De bevoegde autoriteit, bedoeld in artikel 15, eerste en tweede lid, van de controleverordening en in de artikelen 39, 40, 41, derde lid, en 47, eerste lid, van de uitvoeringsverordening controleverordening, is de NVWA.
 
 ##### Artikel 106. Voorafgaande kennisgeving aanlanding
 
 1. Het is verboden in strijd te handelen met de artikelen 17, eerste lid, en 18, eerste lid, van de controleverordening.
 
-2. De bevoegde autoriteit, bedoeld in de artikelen 17, eerste, tweede en derde lid, 18 en 19 van de controleverordening, is de AID.
+2. De bevoegde autoriteit, bedoeld in de artikelen 17, eerste, tweede en derde lid, 18 en 19 van de controleverordening, is de NVWA.
 
 ##### Artikel 107. Overladen
 
 1. Het is verboden in strijd te handelen met artikel 20, eerste lid, van de controleverordening.
 
-2. Het is verboden vis over te laden zonder toestemming van een ambtenaar van de AID.
+2. Het is verboden vis over te laden zonder toestemming van een ambtenaar van de NVWA.
 
 3. Het verbod, bedoeld in het tweede lid, is van overeenkomstige toepassing in het geval het overladen is onderbroken.
 
-4. Als havens als bedoeld in artikel 20, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), toegelaten havens.
+4. Als havens als bedoeld in artikel 20, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), toegelaten havens.
 
 ##### Artikel 108. Elektronisch invullen/verzenden aangifte van overlading
 
 1. Het is verboden in strijd te handelen met artikel 22, eerste lid, van de controleverordening.
 
-2. De bevoegde autoriteit, bedoeld in artikel 22, eerste en vijfde lid, van de controleverordening, is de AID.
+2. De bevoegde autoriteit, bedoeld in artikel 22, eerste en vijfde lid, van de controleverordening, is de NVWA.
 
 ##### Artikel 109. Elektronisch invullen/verzenden aangifte van aanlanding
 
 1. Het is verboden in strijd te handelen met artikel 24, eerste lid, van de controleverordening.
 
-2. De bevoegde autoriteit, bedoeld in 24, eerste lid, van de controleverordening, is de AID.
+2. De bevoegde autoriteit, bedoeld in 24, eerste lid, van de controleverordening, is de NVWA.
 
 #### § 3. Controle op visserij-inspanning
 
@@ -1508,19 +1488,19 @@ Het is verboden in strijd te handelen met artikel 10, eerste lid, van de control
 
 - d. het gereglementeerd gebied waar zal worden gevist.
 
-4. Ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger voornemens is in de beheersperiode hetzelfde type vistuig of dezelfde typen vistuigen te gebruiken als het type vistuig dat of de typen vistuigen die voor het desbetreffende gereglementeerd geografisch gebied is of zijn vermeld in de in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=97&z=2011-07-23&g=2011-07-23), bedoelde vismachtiging die betrekking heeft op de daaraan voorafgaande beheersperiode, wordt de kennisgeving tot verkrijging van die vismachtiging aangemerkt als kennisgeving als bedoeld in artikel 27, eerste lid, van de controleverordening.
+4. Ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger voornemens is in de beheersperiode hetzelfde type vistuig of dezelfde typen vistuigen te gebruiken als het type vistuig dat of de typen vistuigen die voor het desbetreffende gereglementeerd geografisch gebied is of zijn vermeld in de in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=1&artikel=97&z=2012-01-01&g=2012-01-01), bedoelde vismachtiging die betrekking heeft op de daaraan voorafgaande beheersperiode, wordt de kennisgeving tot verkrijging van die vismachtiging aangemerkt als kennisgeving als bedoeld in artikel 27, eerste lid, van de controleverordening.
 
 5. De gegevens die worden vermeld in de voor de beheersperiode af te geven vismachtiging worden gebaseerd op de meest recente kennisgeving.
 
 6. Ter verkrijging van de toestemming, bedoeld in artikel 27, tweede lid, van de controleverordening, meldt de kapitein van een vissersvaartuig of zijn vertegenwoordiger het voornemen tot het gebruik van meer dan één soort vistuig tijdens de visreis onmiddellijk voorafgaand aan de visreis aan de minister.
 
-7. In afwijking van het zesde lid wordt, ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger de in het zesde lid bedoelde gegevens onmiddellijk voorafgaand aan de visreis op grond van artikel 15 van de controleverordening elektronisch heeft verstrekt, het in artikel 38, eerste lid, van de uitvoeringsverordening controleverordening bedoelde retourbericht van de AID, aangemerkt als toestemming als bedoeld in artikel 27, tweede lid, van de controleverordening.
+7. In afwijking van het zesde lid wordt, ingeval de kapitein van een vissersvaartuig of zijn vertegenwoordiger de in het zesde lid bedoelde gegevens onmiddellijk voorafgaand aan de visreis op grond van artikel 15 van de controleverordening elektronisch heeft verstrekt, het in artikel 38, eerste lid, van de uitvoeringsverordening controleverordening bedoelde retourbericht van de NVWA, aangemerkt als toestemming als bedoeld in artikel 27, tweede lid, van de controleverordening.
 
 ##### Artikel 111. Visserij-inspanningsverslag en uitputting van de visserij-inspanning
 
 1. Het is verboden in strijd te handelen met de artikelen 28, eerste lid, en 30 van de controleverordening, en artikel 58, eerste lid, van de uitvoeringsverordening controleverordening.
 
-2. De bevoegde autoriteit, bedoeld in 28, eerste lid, van de controleverordening, is de AID.
+2. De bevoegde autoriteit, bedoeld in 28, eerste lid, van de controleverordening, is de NVWA.
 
 ##### Artikel 112. Vrijstellingen
 
@@ -1538,7 +1518,7 @@ Het is verboden in strijd te handelen met artikel 10, eerste lid, van de control
 
 ##### Artikel 113. Sluiting visserij
 
-1. Met ingang van de op grond van artikel 35, eerste lid, van de controleverordening vastgestelde datum is het voor Nederlandse vissersvaartuigen verboden de visserij uit te oefenden op de vissoorten waarvoor voornoemde vaststelling geldt en die soorten aan boord te houden, over te laden en in Nederland aan te voeren.
+1. Met ingang van de op grond van artikel 35, eerste lid, van de controleverordening vastgestelde datum is het voor Nederlandse vissersvaartuigen verboden de visserij uit te oefenden op de vissoorten waarvoor voornoemde vaststelling geldt en die soorten aan boord te houden, over te laden en aan te landen.
 
 2. Het is verboden in strijd te handelen met een op grond van artikel 36, tweede lid, van de controleverordening vastgesteld verbod.
 
@@ -1550,7 +1530,7 @@ Het is verboden in strijd te handelen met artikel 39, eerste lid, van de control
 
 ##### Artikel 115. Certificering motorvermogen
 
-gereserveerd
+Het is verboden in strijd te handelen met artikel 40, vierde lid, van de controleverordening, en artikel 61, derde lid, van de uitvoeringsverordening controleverordening.
 
 #### § 5. Controle op meerjarenplannen
 
@@ -1558,9 +1538,9 @@ gereserveerd
 
 1. Het is verboden in strijd te handelen te handelen met de artikelen 42, eerste lid, en 43, tweede lid, en 44 van de controleverordening.
 
-2. Als havens als bedoeld in de artikelen 42, eerste lid, en 43, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), toegelaten havens mits het aanlanden of overladen plaatsvindt binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) C bij die havens vermelde lostijden.
+2. Als havens als bedoeld in de artikelen 42, eerste lid, en 43, eerste lid, van de controleverordening, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), toegelaten havens mits het aanlanden of overladen plaatsvindt binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) C bij die havens vermelde lostijden.
 
-3. Als waarnemer of functionaris als bedoeld in artikel 42, tweede lid, van de controleverordening, wordt aangewezen een functionaris van de AID.
+3. Als waarnemer of functionaris als bedoeld in artikel 42, tweede lid, van de controleverordening, wordt aangewezen een functionaris van de NVWA.
 
 #### § 6. Controle op technische maatregelen
 
@@ -1568,7 +1548,7 @@ gereserveerd
 
 1. Het is verboden in strijd te handelen met de artikelen 47, 48, eerste tot en met derde lid, en 49, eerste lid, van de controleverordening.
 
-2. De bevoegde autoriteit, bedoeld in 48, derde lid, van de controleverordening, is de AID.
+2. De bevoegde autoriteit, bedoeld in 48, derde lid, van de controleverordening, is de NVWA.
 
 ##### Artikel 118. Controle voor visserij beperkte gebieden
 
@@ -1608,11 +1588,21 @@ Het is verboden in strijd te handelen met artikel 55, tweede lid, van de control
 
 ##### Artikel 122. Traceerbaarheid
 
-gereserveerd
+1. Het is verboden in strijd te handelen met artikel 58, eerste tot en met vijfde lid, van de controleverordening, en de artikelen 67, eerste tot en met vijfde en zevende lid, en 68, derde lid, van de uitvoeringsverordening controleverordening.
+
+2. Marktdeelnemers als bedoeld in artikel 4, negentiende lid, van de controleverordening beschikken over systemen en procedures, waarmee kan worden nagegaan van wie zij partijen visserij- en aquacultuurproducten als bedoeld in artikel 66 van de uitvoeringsverordening controleverordening hebben ontvangen en aan wie zij die producten hebben geleverd.
+
+3. In de in het tweede lid bedoelde systemen worden door de desbetreffende marktdeelnemer de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=5&artikel=90&z=2012-01-01&g=2012-01-01) van deze regeling en de in artikel 58, vijfde lid, van controleverordening bedoelde gegevens vastgelegd.
+
+4. De in artikel 58, onderdelen g en h, van de controleverordening bedoelde gegevens zijn in het stadium van de detailhandel voor de consument beschikbaar en worden vermeld op het etiket of het identificatiemerk van de voor de detailverkoop aangeboden visserij- en aquacultuurproducten, dan wel voor zover het de wetenschappelijke naam van de soort op detailhandelniveau betreft, aan de hand van commerciële voorlichtingsmiddelen, zoals borden en posters.
+
+5. Dit artikel is niet van toepassing op hoeveelheden visserij- en aquacultuurproducten die rechtstreeks vanaf een vissersvaartuig aan consumenten worden verkocht, mits deze hoeveelheden per vissersvaartuig en per eindconsument niet meer dan € 50,– per kalenderdag vertegenwoordigen.
 
 ##### Artikel 123. Eerste verkoop visserijproducten
 
-Het is verboden in strijd te handelen met artikel 59, tweede lid, van de controleverordening.
+1. Alle visserijproducten die voor het eerst op de markt worden gebracht, worden geregistreerd in een visafslag dan wel worden verkocht aan geregistreerde kopers of producentenorganisaties.
+
+2. Het is verboden in strijd te handelen met artikel 59, tweede lid, van de controleverordening.
 
 ##### Artikel 124. Weging visserijproducten
 
@@ -1620,9 +1610,9 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 
 2. Het is verboden in strijd te handelen met artikel 60, tweede en vijfde lid, van de controleverordening en met de artikelen 70, 71, eerste en tweede lid, 72, tweede en derde lid, 73, tweede lid, 74, 79, eerste lid, 80, eerste en tweede lid, 82, 83, 84, tweede en derde lid, 85, 86, en 87 van de uitvoeringsverordening controleverordening.
 
-3. De bevoegde autoriteit, bedoeld in artikel 60, zesde lid, van de controleverordening en de artikelen 75, 80, eerste lid, 81, 82, eerste lid, en 87, van de uitvoeringsverordening controleverordening, is de AID.
+3. De bevoegde autoriteit, bedoeld in artikel 60, zesde lid, van de controleverordening en de artikelen 75, 80, eerste lid, 81, 82, eerste lid, en 87, van de uitvoeringsverordening controleverordening, is de NVWA.
 
-4. Als havens als bedoeld in artikel 79, tweede lid, van de uitvoeringsverordening controleverordening, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2011-07-23&g=2011-07-23) B. Het aanlanden of overladen vindt plaats binnen de in bijlage 2 C bij die havens vermelde lostijden.
+4. Als havens als bedoeld in artikel 79, tweede lid, van de uitvoeringsverordening controleverordening, worden aangewezen de havens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=2&z=2012-01-01&g=2012-01-01) B. Het aanlanden of overladen vindt plaats binnen de in bijlage 2 C bij die havens vermelde lostijden.
 
 5. Het is verboden met een Nederlands vissersvaartuig vis van de in artikel 78 van de uitvoeringsverordening controleverordening genoemde soorten buiten de Europese Unie aan te landen in havens die niet uitdrukkelijk voor weging zijn geselecteerd door derde landen die voor deze soorten overeenkomsten met de Europese Unie hebben gesloten.
 
@@ -1630,27 +1620,27 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 
 1. Het is verboden in strijd te handelen met de artikelen 62, eerste en vijfde lid, en 63, eerste lid, van de controleverordening en met artikel 90 van de uitvoeringsverordening controleverordening.
 
-2. Geregistreerde visafslagen als bedoeld in artikel 62, tweede lid, van de controleverordening registreren de in artikel 64, eerste lid, van de controleverordening genoemde gegevens elektronisch en geven deze elektronisch door aan de AID, overeenkomstig de recordstructuur die is opgenomen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=11&z=2011-07-23&g=2011-07-23).
+2. Geregistreerde visafslagen als bedoeld in artikel 62, tweede lid, van de controleverordening registreren de in artikel 64, eerste lid, van de controleverordening genoemde gegevens elektronisch en geven deze elektronisch door aan de NVWA, overeenkomstig de recordstructuur die is opgenomen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&bijlage=11&z=2012-01-01&g=2012-01-01).
 
-3. Het verkoopdocument, bedoeld in artikel 62, eerste lid, van de controleverordening bevat de gegevens, bedoeld in artikel 64, eerste lid, van de controleverordening, stemt overeen met de factuur of als zodanig dienstdoend document als bedoeld in de artikelen 218 en 219 van Richtlijn nr. 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU L 347) en wordt binnen de in artikel 62, eerste lid genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.
+3. Het verkoopdocument, bedoeld in artikel 62, eerste lid, van de controleverordening bevat de gegevens, bedoeld in artikel 64, eerste lid, van de controleverordening, stemt overeen met de factuur of als zodanig dienstdoend document als bedoeld in de artikelen 218 en 219 van Richtlijn nr. 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU L 347) en wordt binnen de in artikel 62, eerste lid genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.
 
-4. De bevoegde autoriteit, bedoeld in de artikelen 62, eerste lid en vijfde lid, en 63, eerste lid, van de controleverordening en in artikel 87 van de uitvoeringsverordening controleverordening, is de AID.
+4. De bevoegde autoriteit, bedoeld in de artikelen 62, eerste lid en vijfde lid, en 63, eerste lid, van de controleverordening en in artikel 87 van de uitvoeringsverordening controleverordening, is de NVWA.
 
 ##### Artikel 126. Aangifte van overname
 
 1. Het is verboden in strijd te handelen met de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening.
 
-2. De aangifte van overname, bedoeld in artikel 66, eerste lid van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.
+2. De aangifte van overname, bedoeld in artikel 66, eerste lid van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.
 
-3. De bevoegde autoriteit, bedoeld in de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening, is de AID.
+3. De bevoegde autoriteit, bedoeld in de artikelen 66, eerste lid, en 67, eerste lid, van de controleverordening, is de NVWA.
 
 ##### Artikel 127. Vervoersdocument
 
 1. Het is verboden in strijd te handelen met artikel 68, eerste, derde, vijfde en zevende lid, van de controleverordening.
 
-2. Het vervoersdocument, bedoeld in artikel 68, eerste lid, van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de AID of gedeponeerd in een vangstopgavebus.
+2. Het vervoersdocument, bedoeld in artikel 68, eerste lid, van de controleverordening wordt binnen de in dat artikelonderdeel genoemde termijn overhandigd aan een ambtenaar van de NVWA of gedeponeerd in een vangstopgavebus.
 
-3. De bevoegde autoriteit, bedoeld in artikel 68, eerste, tweede, derde en zesde lid, van de controleverordening, is de AID.
+3. De bevoegde autoriteit, bedoeld in artikel 68, eerste, tweede, derde en zesde lid, van de controleverordening, is de NVWA.
 
 #### § 8. Bewaking, inspecties, procedures en handhaving
 
@@ -1670,7 +1660,31 @@ Het is verboden in strijd te handelen met artikel 59, tweede lid, van de control
 
 ##### Artikel 130. Puntensysteem voor ernstige inbreuken
 
-gereserveerd
+1. De bevoegde autoriteit, bedoeld in artikel 125 van de uitvoeringsverordening controleverordening, is de minister.
+
+2. De voor echt verklaarde kopie, bedoeld in artikel 128 van de uitvoeringsverordening controleverordening, wordt op aanvraag van de desbetreffende houder van een visvergunning verstrekt door de minister.
+
+3. Het is verboden in strijd te handelen met artikel 130, tweede lid, van de uitvoeringsverordening controleverordening en met de op grond van artikel 132, eerste lid, van de uitvoeringsverordening controleverordening genomen maatregelen.
+
+4. De minister wijst de kapitein van een vissersvaartuig onder wiens gezag ernstige inbreuken als bedoeld in artikel 42, eerste lid, onderdeel a, van verordening nr. 1005/2008 zijn gepleegd, punten toe overeenkomstig bijlage XXX van de uitvoeringsverordening controleverordening.
+
+5. De artikelen 125, 126, tweede tot en met vijfde lid, 129, 130, eerste lid, 132, eerste lid, en 133, eerste en tweede lid, zijn van overeenkomstige toepassing op de in het vierde lid bedoelde kapitein.
+
+6. Indien aan een kapitein op grond van het vierde lid het navolgende aantal punten is toegewezen, is het hem gedurende de achter dat aantal vermelde periode verboden als kapitein op een vissersvaartuig te varen:
+
+- a. 18 punten: 2 maanden;
+
+- b. 36 punten: 4 maanden;
+
+- c. 54 punten: 8 maanden;
+
+- d. 72 punten: 12 maanden; en
+
+- e. 90 punten 3 jaren.
+
+7. Het is de houder van een visvergunning verboden een kapitein waarop het in het zesde lid bedoelde verbod betrekking heeft op het vissersvaartuig waarop de visvergunning betrekking heeft, als kapitein te laten varen gedurende de desbetreffende periode.
+
+8. Voor de toepassing van het vierde tot en met zevende lid en de artikelen 125 tot en met 134 van de uitvoeringsverordening controleverordening wordt onder kapitein verstaan, hetgeen daaronder wordt verstaan in [artikel 1, onderdeel h, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=1).
 
 ### Hoofdstuk 7. Toegangsregels derde landen, IUU en vangstdocumentatieregelingen
 
@@ -1680,7 +1694,7 @@ gereserveerd
 
 1. Het is verboden in strijd te handelen met de artikelen 3, 9, tweede lid, 11, eerste lid, 13, eerste lid, 18, 22, 23, eerste lid, en 24, tweede lid, van verordening nr. 1006/2008
 
-2. Een verzoek tot uitreiking van een machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=3&z=2011-07-23&g=2011-07-23) en een verzoek tot machtiging als bedoeld in artikel 11, eerste lid, van verordening nr. 1006/2008, wordt ingediend bij de minister.
+2. Een verzoek tot uitreiking van een machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=3&z=2012-01-01&g=2012-01-01) en een verzoek tot machtiging als bedoeld in artikel 11, eerste lid, van verordening nr. 1006/2008, wordt ingediend bij de minister.
 
 3. Het is verboden in strijd te handelen met de artikelen 2, eerste lid, 3, 4, 7, 8, 10 en 11 van verordening nr. 201/2010.
 
@@ -1698,13 +1712,13 @@ Het is verboden in strijd te handelen met artikel 2 van verordening nr. 827/2004
 
 1. Het is verboden in strijd te handelen met de artikelen 5, tweede lid, 6, eerste en tweede lid, 8, eerste lid, en 10, vijfde lid, van verordening nr. 1005/2008.
 
-2. Als havens als bedoeld in artikel 5, eerste lid, van verordening nr. 1005/2008, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), toegelaten havens.
+2. Als havens als bedoeld in artikel 5, eerste lid, van verordening nr. 1005/2008, worden aangewezen de voor de desbetreffende vissersvaartuigen op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), toegelaten havens.
 
-3. De voorafgaande kennisgeving, bedoeld in artikel 6, eerste lid, van verordening nr. 1005/2008, geschiedt door verzending van een door de desbetreffende kapitein ondertekend elektronisch of faxbericht aan de meldkamer van de AID te Kerkrade.
+3. De voorafgaande kennisgeving, bedoeld in artikel 6, eerste lid, van verordening nr. 1005/2008, geschiedt door verzending van een door de desbetreffende kapitein ondertekend elektronisch of faxbericht aan de meldkamer van de NVWA te Kerkrade.
 
-4. Het is voor vissersvaartuigen van derde landen verboden de haven binnen te varen of zijn vangst aan te landen of over te laden zonder door een ambtenaar van de AID verleende toestemming als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2011-07-23&g=2011-07-23), onderscheidenlijk artikel 11, tweede lid, van verordening nr. 1005/2008.
+4. Het is voor vissersvaartuigen van derde landen verboden de haven binnen te varen of zijn vangst aan te landen of over te laden zonder door een ambtenaar van de NVWA verleende toestemming als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=7&z=2012-01-01&g=2012-01-01), onderscheidenlijk artikel 11, tweede lid, van verordening nr. 1005/2008.
 
-5. De aangifte, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2011-07-23&g=2011-07-23), wordt ingediend bij de meldkamer van de AID te Kerkrade met gebruikmaking van het in artikel 3, eerste lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op aanlanding, dan wel met gebruikmaking van het in artikel 3, tweede lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op overlading.
+5. De aangifte, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2012-01-01&g=2012-01-01), wordt ingediend bij de meldkamer van de NVWA te Kerkrade met gebruikmaking van het in artikel 3, eerste lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op aanlanding, dan wel met gebruikmaking van het in artikel 3, tweede lid, van verordening nr. 1010/2009, bedoelde formulier indien de aangifte betrekking heeft op overlading.
 
 ##### Artikel 134. Vangstcertificaten bij invoer
 
@@ -1774,7 +1788,7 @@ Het is verboden in strijd te handelen met artikel 2 van verordening nr. 827/2004
 
 1. Het is verboden in strijd te handelen met de artikelen 4, tweede tot en met vierde lid, 37, aanhef en onderdelen 3 tot en met 6, 9 en 10, 38, aanhef en onderdelen 1 tot en met 3 en 5 tot en met 7, 39, eerste lid, 40, tweede lid, en 48, vierde lid, van verordening nr. 1005/2008.
 
-2. Indien een vissersvaartuig van een derde land is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, is het voor dat vissersvaartuig verboden om zonder door een ambtenaar van de AID verleende toestemming als bedoeld in artikel 37, onderdeel 7, van die verordening, de bemanning te vervangen.
+2. Indien een vissersvaartuig van een derde land is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, is het voor dat vissersvaartuig verboden om zonder door een ambtenaar van de NVWA verleende toestemming als bedoeld in artikel 37, onderdeel 7, van die verordening, de bemanning te vervangen.
 
 3. Het is een vissersvaartuig dat is opgenomen op de lijst van IOO-vaartuigen, bedoeld in artikel 27 van verordening nr. 1005/2008, verboden de Nederlandse vlag te voeren.
 
@@ -1788,7 +1802,7 @@ Het is verboden in strijd te handelen met artikel 2 van verordening nr. 827/2004
 
 ##### Artikel 141. Bijhouden gegevens
 
-Degene die ingevolge deze regeling en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), genoemde verordeningen gegevens moet vermelden of anderszins moet bijhouden of moet verstrekken, doet dit volledig, naar waarheid en binnen de gestelde termijnen.
+Degene die ingevolge deze regeling en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), genoemde verordeningen gegevens moet vermelden of anderszins moet bijhouden of moet verstrekken, doet dit volledig, naar waarheid en binnen de gestelde termijnen.
 
 ##### Artikel 142. Medebewind Productschap Vis
 
@@ -1800,7 +1814,7 @@ Degene die ingevolge deze regeling en de in [artikel 1, tweede lid](https://wett
 
 2. De in het eerste lid, onderdeel a, bedoelde medewerking bestaat uit het registreren van de kopers van visserijproducten van een vaartuig bij eerste verkoop, bedoeld in artikel 59, tweede lid, van de controleverordening.
 
-3. De in het eerste lid, onderdeel b, bedoelde medewerking bestaat uit het overeenkomstig artikel 12, vierde lid, van verordening nr. 1005/2008 valideren van vangstcertificaten voor zover deze certificaten betrekking hebben op de vangst van garnalen of van platvis.
+3. De in het eerste lid, onderdeel b, bedoelde medewerking bestaat uit het overeenkomstig artikel 12, vierde lid, van verordening nr. 1005/2008 valideren van vangstcertificaten voor zover deze certificaten betrekking hebben op de vangst van garnalen.
 
 4. In afwijking van artikel 138, derde lid, wordt het in dat lid bedoelde verzoek tot validatie, voor zover het betrekking heeft op de in het derde lid van dit artikel bedoelde vissoorten, ingediend bij het Productschap Vis.
 
@@ -1812,19 +1826,19 @@ Wijzigt de Regeling LNV-subsidies en de Uitvoeringsregeling visserij.
 
 ##### Artikel 144. Overgangsbepalingen
 
-1. Bescheiden die ingevolge de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2011-07-23&g=2011-07-23), zijn verzameld, ingevuld, bewaard en bijgehouden, worden aangemerkt als bescheiden op grond van deze regeling en op grond van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), bedoelde verordeningen.
+1. Bescheiden die ingevolge de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2012-01-01&g=2012-01-01), zijn verzameld, ingevuld, bewaard en bijgehouden, worden aangemerkt als bescheiden op grond van deze regeling en op grond van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), bedoelde verordeningen.
 
-2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2011-07-23&g=2011-07-23), plaats.
+2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2012-01-01&g=2012-01-01), plaats.
 
-3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2011-07-23&g=2011-07-23), blijven in stand.
+3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=8&artikel=145&z=2012-01-01&g=2012-01-01), blijven in stand.
 
-4. Een ondernemer die op het tijdstip voor inwerkingtreding van deze regeling recht had op een contingent voor een vissoort op grond van [artikel 11, eerste en tweede lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=11), heeft voor 2011 een recht op dat contingent als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), van deze regeling.
+4. Een ondernemer die op het tijdstip voor inwerkingtreding van deze regeling recht had op een contingent voor een vissoort op grond van [artikel 11, eerste en tweede lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=11), heeft voor 2011 een recht op dat contingent als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), van deze regeling.
 
-5. Een toekenning voor het kalenderjaar van een groepscontingent op grond van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=13), van [artikel 16, eerste lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=16), geldt als een toekenning van een groepscontingent als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2011-07-23&g=2011-07-23), van deze regeling.
+5. Een toekenning voor het kalenderjaar van een groepscontingent op grond van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=13), van [artikel 16, eerste lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=16), geldt als een toekenning van een groepscontingent als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), van deze regeling.
 
-6. Een besluit tot aanhouding van een contingent, op grond van [artikel 23 van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=23), geldt als een besluit tot aanhouding als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2011-07-23&g=2011-07-23) van deze regeling.
+6. Een besluit tot aanhouding van een contingent, op grond van [artikel 23 van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=23), geldt als een besluit tot aanhouding als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=5&artikel=44&z=2012-01-01&g=2012-01-01) van deze regeling.
 
-7. Een document, uitgereikt voor 2011 op grond van [artikel 12, eerste lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=12), wordt voor dat jaar beschouwd als een document als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2011-07-23&g=2011-07-23), van deze regeling.
+7. Een document, uitgereikt voor 2011 op grond van [artikel 12, eerste lid, van de Regeling instandhoudingsmaatregelen zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0025587&artikel=12), wordt voor dat jaar beschouwd als een document als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-01-01&g=2012-01-01), van deze regeling.
 
 ##### Artikel 145. Intrekken regelingen
 
@@ -1848,19 +1862,19 @@ De volgende regelingen worden ingetrokken:
 
 ## Bijlage 1
 
-### Lettertekens havens als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=5&z=2011-07-23&g=2011-07-23) van de Uitvoeringsregeling zeevisserij
+### Lettertekens havens als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=5&z=2012-01-01&g=2012-01-01) van de Uitvoeringsregeling zeevisserij
 
 ## Bijlage 2
 
-### A. Havens als bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), en losplaatsen als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### A. Havens als bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), en losplaatsen als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=8&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
-### B. Havens en losplaatsen als bedoeld in de [artikelen 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=14&z=2011-07-23&g=2011-07-23), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=71&z=2011-07-23&g=2011-07-23), [75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=75&z=2011-07-23&g=2011-07-23), [76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=76&z=2011-07-23&g=2011-07-23), [77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=77&z=2011-07-23&g=2011-07-23), en [124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=7&artikel=124&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### B. Havens en losplaatsen als bedoeld in de [artikelen 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=14&z=2012-01-01&g=2012-01-01), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=71&z=2012-01-01&g=2012-01-01), [75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=75&z=2012-01-01&g=2012-01-01), [76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=76&z=2012-01-01&g=2012-01-01), [77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=4&artikel=77&z=2012-01-01&g=2012-01-01), en [124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=7&artikel=124&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
-### C. Havens en lostijden als bedoeld in [artikel 116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=5&artikel=116&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### C. Havens en lostijden als bedoeld in [artikel 116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=5&artikel=116&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
 ## Bijlage 3
 
-### Aanlandingsplaatsen als bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### Aanlandingsplaatsen als bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
 Nieuwe Statenzijl (gemeente Reiderland)
 
@@ -1922,11 +1936,19 @@ Haven Flauwers (gemeente Zierikzee)
 
 ## Bijlage 4
 
-### Vangstverboden voor de Nederlandse vissers voor het kalenderjaar 2011 op de vissoorten, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### Vangstverboden voor het kalenderjaar 2012 op de vissoorten, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
 ## Bijlage 5
 
 ### Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2011 (x 1.000 kg in levend gewicht) als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+
+Voetnoot:
+
+1) Bijvangsten tot 3% van de quota van 2009 zijn toegestaan.
+
+2) Waarvan niet meer dan 490 ton mag worden gevangen in de ICES gebieden IIIa, IVb en IVc.
+
+3) Mag ook worden gevangen in de Noorse wateren van ICES gebied IVa.
 
 Voetnoten:
 
@@ -1934,53 +1956,45 @@ Voetnoten:
 
 2) Waarvan niet meer dan 490 ton mag worden gevangen in de ICES gebieden IIIa, IVb en IVc.
 
-3) Mag ook worden gevangen in de Noorse wateren van ICES gebied IVa.
+3) Mag ook worden gevangen in de Noorse wateren van het ICES gebied IVa.
 
-4) Van deze hoeveelheid mag niet meer dan 9.657 ton worden gevangen in de periode van 1 januari tot en met 15 februari en van 1 september tot en met 31 december in de EU en Noorse wateren van het ICES gebied IVa.
+4) Van deze hoeveelheid mag niet meer dan 9.674 ton worden gevangen in de periode van 1 januari tot en met 15 februari en van 1 september tot en met 31 december in de EU en Noorse wateren van het ICES gebied IVa.
 
-5) Van deze hoeveelheid mag niet meer dan 882 ton worden gevangen in de Noorse wateren van het ICES gebied IIa.
+5) Van deze hoeveelheid mag niet meer dan 985 ton worden gevangen in de Noorse wateren van het ICES gebied IIa.
 
-6) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/2C4-C), Stekelrog (Raja Clavata) (RJC/2AC4-C), Blonde rog (Raja brachyuran) (RJH/2AC4-C), Gevlekte rog (Raja montagui) (RJM/2AC4-C) en de Sterrog (Amblyraja radiata) RJR/2AC4-C) moeten afzonderlijk worden gerapporteerd.
+6) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/2C4-C), Stekelrog (Raja Clavata) (RJC/2AC4-C), Blonde rog (Raja brachyuran)(RJH/2AC4-C), Gevlekte rog (Raja montagui) (RJM/2AC4-C) en de Sterrog (Amblyraja radiata) RJR/2AC4-C) moeten afzonderlijk worden gerapporteerd.
 
 7) Voor vissersvaartuigen met een lengte over alles van meer dan 15 meter geldt dat deze soort per visreis niet meer dan 25% levend gewicht mag bedragen van het totaal van de vangsten aan boord.
 
-8) Geldt niet voor de Vleet (Dipturus batis). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet.
+8) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/67AKXD), Stekelrog (Raja Clavata) (RJC/67AKXD), Blonde rog (Raja brachyuran)(RJH/67AKXD), Gevlekte rog (Raja montagui) (RJM/67AKXD), de Kleinoogrog (Raja micoocellata)(RJE/67AKXD), de Zandrog (Leucoraja circularis)(RJI/67AKXD) en de Shagreenrog (Leucoraja fullonica) RJF/67AKXD) moeten afzonderlijk worden gerapporteerd.
 
-9) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/67AKXD), Stekelrog (Raja Clavata) (RJC/67AKXD), Blonde rog (Raja brachyuran) (RJH/67AKXD), Gevlekte rog (Raja montagui) (RJM/67AKXD), de Kleinoogrog (Raja micoocellata) (RJE/67AKXD), de Zandrog (Leucoraa circularis) (RJI/67AKXD) en de Shagreenrog (Leucoraja fullonica) RJF/67AKXD) moeten afzonderlijk worden gerapporteerd.
+9) Waarvan maximaal 5% mag worden gevangen in het ICES gebied VIId.
 
-10) Waarvan maximaal 5% mag worden gevangen in het ICES gebied VIId.
+10) Geldt niet voor de Golfrog (Raja undulata), de Gewone vleet (Dipturus batis), de Noorse vleet (Raja Dipturus) nidarosiensis) en de Spitsneusrog (Rostroraja alba). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet.
 
-11) Geldt niet voor de Golfrog (Raja undulata), de Gewone vleet (Dipturus batis), de Noorse vleet (Raja Dipturus) nidarosiensis) en de Spitsneusrog (Rostroraja alba). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet.
+11) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/07D), Stekelrog (Raja Clavata) (RJC/07D), Blonde rog (Raja brachyuran)(RJH/07D), Gevlekte rog (Raja montagui) (RJM//07D) en de Sterrog (Amblyraja radiata) RJR/07D) moeten afzonderlijk worden gerapporteerd.
 
-12) Vangsten van de Koekoeksrog (Leucoraja naevus) (RJN/07D), Stekelrog (Raja Clavata) (RJC/07D), Blonde rog (Raja brachyuran) (RJH/07D), Gevlekte rog (Raja montagui) (RJM//07D) en de Sterrog (Amblyraja radiata) RJR/07D) moeten afzonderlijk worden gerapporteerd.
+12) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIa, VIb, VIIa-c en VIIe-k.
 
-13) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIa, VIb, VIIa-c en VIIe-k.
-
-14) Geldt niet voor de Gewone vleet (Dipturus batis) en de Golfrog (Raja undulata). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet.
-
-15) Waarvan maximaal 5% mag worden gevangen in de EU-wateren van het ICES gebied VI, EU wateren en internationale wateren van het ICES gebied Vb en internationale wateren van de ICES gebieden XII en XIV.
-
-16) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIIIa, VIIIb, VIIId, VIIIe.
-
-17) Andere soorten dan: haring, kabeljauw, koolvis, makreel, schelvis, schol, blauwe wijting en wijting.
+13) Geldt niet voor de Gewone vleet (Dipturus batis) en de Golfrog (Raja undulata). Vangsten van deze soort mogen niet aan boord worden gehouden en moeten snel en ongedeerd over boord worden gezet.
 
 ## Bijlage 6
 
 ### Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2011 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
 
-Voetnoten:
+16) Andere soorten dan: haring, kabeljauw, koolvis, makreel, schelvis, schol, blauwe wijting en wijting.
 
 1) Uitsluitend voor bijvangsten, gerichte visserij niet toegestaan
 
 2) Waarvan maximaal 8% mag worden gevangen in de EU- en internationale wateren van de ICES gebieden VIII, IX, X, XII en XIV.
 
-3) Van de aangelande hoeveelheden mag niet meer dan 15% een minimummaat van 30 cm hebben. Daarboven geldt een minimummaat van 35 cm.
+Voetnoten:
 
 ## Bijlage 7
 
 ### Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2011-07-23&g=2011-07-23)
 
-¹ De bij dit gedeelte van de beheersperiode vermelde visserij-inspanning wordt vermeerderd of in voorkomend geval verminderd met de visserij-inspanning die in het voorgaande deel van de beheersperiode in 2011 niet respectievelijk te veel, is benut.
+3) Van de aangelande hoeveelheden mag niet meer dan 15% een minimummaat van 30 cm hebben. Daarboven geldt een minimummaat van 35 cm.
 
 ² Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening vangstmogelijkheden.
 
@@ -1990,13 +2004,27 @@ Voetnoten:
 
 ### De vissoorten, bedoeld in[artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2011-07-23&g=2011-07-23), de vangstgebieden, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2011-07-23&g=2011-07-23) en de percentages, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
 
+## Bijlage 8
+
+### De vissoorten, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01), de vangstgebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), eerste lid, en de percentages, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
+
 ## Bijlage 9
 
-### De hoeveelheden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=25&z=2011-07-23&g=2011-07-23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=26&z=2011-07-23&g=2011-07-23) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=27&z=2011-07-23&g=2011-07-23) van de Uitvoeringsregeling zeevisserij
+De hoeveelheden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=25&z=2012-01-01&g=2012-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=26&z=2012-01-01&g=2012-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=27&z=2012-01-01&g=2012-01-01) van de Uitvoeringsregeling zeevisserij
 
-## Bijlage 10
+| Artikel | Vissoort | Hoeveelheid |
+| --- | --- | --- |
+| [Artikel 25, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=25&z=2012-01-01&g=2012-01-01) | Kabeljauw: | 121 kilogram |
+| [Artikel 25, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=25&z=2012-01-01&g=2012-01-01) | Wijting: | 54 kilogram |
+| Artikel 25, eerste lid, onderdeel b | Kabeljauw: | 39.564 kilogram |
+| Artikel 25, eerste lid, onderdeel b | Wijting: | 9.628 kilogram |
+| [Artikel 26, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=26&z=2012-01-01&g=2012-01-01) | Makreel: | 127 kilogram |
+| Artikel 26, eerste lid, onderdeel b | Makreel: | 4.224 kilogram |
+| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=2&artikel=27&z=2012-01-01&g=2012-01-01) | Horsmakreel: | 463.956 kilogram |
 
 ### Omrekeningsfactoren van aanvoergewicht naar levend gewicht als bedoeld in [artikel 104, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=2&artikel=104&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+
+Bewaarvorm: **bevroren**
 
 Bewaarvorm: **bevroren**
 
@@ -2004,10 +2032,48 @@ Bewaarvorm: **vers**
 
 Bewaarvorm: **gekookt**
 
+## Bijlage 11
+
+### Recordstructuur door afslag aan te leveren verkoopdocumenten als bedoeld in [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=7&artikel=125&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Voor de met een asterisk gemarkeerde bestanden geldt een vangstverbod voor alle vissersvaartuigen, Nederlands of niet-Nederlands.
+
+Voor de niet met een asterisk gemarkeerde bestanden geldt een vangstverbod voor Nederlandse vissersvaartuigen.
+
+## Bijlage 5
+
+### Nederlands quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2012 (x 1.000 kg in levend gewicht) als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
+
+14) Waarvan maximaal 5% mag worden gevangen in de EU-wateren van het ICES gebied VI, EU wateren en internationale wateren van het ICES gebied Vb en internationale wateren van de ICES gebieden XII en XIV.
+
+15) Waarvan maximaal 5% mag worden gevangen in de EU wateren van de ICES gebieden VIIIa, VIIIb, VIIId, VIIIe.
+
+## Bijlage 6
+
+### Europees quotum (x 1.000 kg in levend gewicht) in het kalenderjaar 2012 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
+
+1) Uitsluitend voor bijvangsten, gerichte visserij niet toegestaan.
+
+2) Waarvan maximaal 8% mag worden gevangen in de EU wateren en internationale wateren van de ICES gebieden VIII, IX, X, XII en XIV.
+
+## Bijlage 7
+
+### Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=2&paragraaf=1&artikel=16&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
+
+1 Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden.
+
+2 Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die **niet** deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in artikel 7 van de verordening interne vangstmogelijkheden en artikel 6 van de verordening externe vangstmogelijkheden.
+
+## Bijlage 10
+
+### Omrekeningsfactoren van aanvoergewicht naar levend gewicht als bedoeld in [artikel 104, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=2&artikel=104&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
+
 Bewaarvorm: **gezouten**
 
 ## Bijlage 11
 
-### Recordstructuur door afslag aan te leveren verkoopdocumenten als bedoeld in [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=7&artikel=125&z=2011-07-23&g=2011-07-23), van de Uitvoeringsregeling zeevisserij
+### Recordstructuur door afslag aan te leveren verkoopdocumenten als bedoeld in [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&hoofdstuk=6&paragraaf=7&artikel=125&z=2012-01-01&g=2012-01-01), van de Uitvoeringsregeling zeevisserij
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
