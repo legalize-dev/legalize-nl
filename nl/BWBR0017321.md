@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-14"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -98,7 +98,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-01-14&g=2011-01-14), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -106,17 +106,17 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-14&g=2011-01-14) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2012-01-01&g=2012-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-14&g=2011-01-14), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-14&g=2011-01-14).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2012-01-01&g=2012-01-01).
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -281,7 +281,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 22a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2011-01-14&g=2011-01-14) is niet van toepassing voor de aanpassingen voor het jaar 2009.
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01) is niet van toepassing voor de aanpassingen voor het jaar 2009.
 
 ## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-14&g=2011-01-14) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
@@ -358,6 +358,81 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | € 165.301 | € 168.009 | 0,0% | 49,9% |
 | € 168.010 | en hoger | 0,0% | 49,5% |
 
+## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+
+| (Gezamenlijk) toetsingsinkomen |   | tegemoetkoming Rijk als percentage van de kosten van kinderopvang |   |
+| --- | --- | --- | --- |
+| van | tot | eerste kind | tweede e.v. kind |
+| lager dan | € 18.546 | 57,4% | 60,0% |
+| € 18.547 | € 19.781 | 56,7% | 60,0% |
+| € 19.782 | € 21.016 | 55,8% | 60,0% |
+| € 21.017 | € 22.250 | 55,1% | 59,6% |
+| € 22.251 | € 23.485 | 54,5% | 59,6% |
+| € 23.486 | € 24.719 | 53,8% | 59,6% |
+| € 24.720 | € 25.954 | 52,9% | 59,6% |
+| € 25.955 | € 27.186 | 52,2% | 59,6% |
+| € 27.187 | € 28.515 | 51,4% | 59,4% |
+| € 28.516 | € 29.842 | 50,7% | 58,9% |
+| € 29.843 | € 31.170 | 49,7% | 58,6% |
+| € 31.171 | € 32.497 | 49,1% | 58,3% |
+| € 32.498 | € 33.826 | 48,2% | 58,3% |
+| € 33.827 | € 35.154 | 47,4% | 58,1% |
+| € 35.155 | € 36.481 | 46,7% | 57,7% |
+| € 36.482 | € 37.810 | 45,8% | 57,5% |
+| € 37.811 | € 39.137 | 45,1% | 57,3% |
+| € 39.138 | € 40.465 | 44,3% | 56,7% |
+| € 40.466 | € 41.793 | 43,3% | 56,5% |
+| € 41.794 | € 43.121 | 42,8% | 56,2% |
+| € 43.122 | € 44.449 | 41,9% | 56,2% |
+| € 44.450 | € 45.776 | 41,2% | 55,9% |
+| € 45.777 | € 47.227 | 40,2% | 55,7% |
+| € 47.228 | € 50.003 | 38,6% | 55,2% |
+| € 50.004 | € 52.779 | 36,6% | 54,4% |
+| € 52.780 | € 55.556 | 33,9% | 53,8% |
+| € 55.557 | € 58.333 | 31,5% | 53,3% |
+| € 58.334 | € 61.109 | 29,0% | 53,0% |
+| € 61.110 | € 63.885 | 26,5% | 52,2% |
+| € 63.886 | € 66.662 | 24,0% | 51,7% |
+| € 66.663 | € 69.439 | 21,4% | 51,1% |
+| € 69.440 | € 72.216 | 19,0% | 50,3% |
+| € 72.217 | € 74.992 | 16,5% | 49,8% |
+| € 74.993 | € 77.770 | 14,0% | 49,3% |
+| € 77.771 | € 80.546 | 11,4% | 49,0% |
+| € 80.547 | € 83.321 | 8,9% | 48,2% |
+| € 83.322 | € 86.098 | 6,5% | 47,8% |
+| € 86.099 | € 88.875 | 3,9% | 47,2% |
+| € 88.876 | € 91.651 | 1,6% | 46,4% |
+| € 91.652 | € 94.427 | 0,0% | 45,9% |
+| € 94.428 | € 97.203 | 0,0% | 45,5% |
+| € 97.204 | € 99.980 | 0,0% | 45,1% |
+| € 99.981 | € 102.756 | 0,0% | 44,3% |
+| € 102.757 | € 105.532 | 0,0% | 43,7% |
+| € 105.533 | € 108.308 | 0,0% | 43,2% |
+| € 108.309 | € 111.084 | 0,0% | 42,6% |
+| € 111.085 | € 113.861 | 0,0% | 42,2% |
+| € 113.862 | € 116.636 | 0,0% | 41,4% |
+| € 116.637 | € 119.412 | 0,0% | 40,8% |
+| € 119.413 | € 122.188 | 0,0% | 39,7% |
+| € 122.189 | € 124.964 | 0,0% | 39,3% |
+| € 124.965 | € 127.741 | 0,0% | 38,5% |
+| € 127.742 | € 130.518 | 0,0% | 37,4% |
+| € 130.519 | € 133.293 | 0,0% | 36,8% |
+| € 133.294 | € 136.069 | 0,0% | 35,8% |
+| € 136.070 | € 138.846 | 0,0% | 35,2% |
+| € 138.847 | € 141.622 | 0,0% | 34,4% |
+| € 141.623 | € 144.398 | 0,0% | 33,7% |
+| € 144.399 | € 147.174 | 0,0% | 32,9% |
+| € 147.175 | € 149.949 | 0,0% | 31,8% |
+| € 149.950 | € 152.726 | 0,0% | 31,2% |
+| € 152.727 | € 155.502 | 0,0% | 30,4% |
+| € 155.503 | € 158.278 | 0,0% | 29,6% |
+| € 158.279 | € 161.054 | 0,0% | 28,8% |
+| € 161.055 | € 163.831 | 0,0% | 28,1% |
+| € 163.832 | € 166.607 | 0,0% | 27,3% |
+| € 166.608 | € 169.383 | 0,0% | 26,5% |
+| € 169.384 | € 172.159 | 0,0% | 25,9% |
+| € 172.160 | en hoger | 0,0% | 24,9% |
+
 ## Bijlage II. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 Vervallen
@@ -367,10 +442,6 @@ Vervallen
 Vervallen
 
 ## Bijlage IIb. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
-
-Vervallen
-
-## Bijlage IIc. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 Vervallen
 
@@ -392,10 +463,36 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-Het maximaal aantal uren kinderopvang per kalendermaand dat voor een tegemoetkoming in aanmerking komt, bedraagt voor elke vorm van opvang (dagopvang, buitenschoolse opvang en gastouderopvang) per kind 230 uur.
+1. Het aantal uren kinderopvang dat voor een tegemoetkoming in aanmerking komt, bedraagt voor ieder kind:
+
+- a. voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), gezamenlijk:
+
+- –. per berekeningsjaar niet meer dan 140 procent van het aantal gewerkte uren van de ouder of partner die in dat berekeningsjaar de minste uren heeft gewerkt, waarbij reistijd niet wordt aangemerkt als gewerkte uren, en
+
+- –. per kalendermaand niet meer dan 230 uren,
+
+- b. voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2012-01-01&g=2012-01-01), gezamenlijk:
+
+- –. per berekeningsjaar niet meer dan 70 procent van het aantal gewerkte uren van de ouder of partner die in dat berekeningsjaar de minste uren heeft gewerkt, waarbij reistijd niet wordt aangemerkt als gewerkte uren, en
+
+- –. per kalendermaand niet meer dan 230 uren.
+
+2. Bij de toepassing van het eerste lid wordt indien een ouder of partner wegens werkloosheid niet langer arbeid als bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) verricht, gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop de arbeidsverhouding of het verrichten van arbeid in de onderneming van de partner is geëindigd, uitgegaan van het aantal uren dat de ouder of partner voorafgaand aan die werkloosheid werkte.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
 ### Hoofdstuk 3. Tegemoetkoming Uitvoeringsinstituut werknemersverzekeringen
 
 ### Hoofdstuk 4. Slotbepalingen
+
+##### Artikel 5a
+
+[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) wordt niet toegepast voor de aanpassing van de maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), per 1 januari 2012.
+
+#### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
+
+## Bijlage IIc. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
