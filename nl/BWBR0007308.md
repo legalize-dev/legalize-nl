@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
 
 ##### Artikel 2
 
@@ -89,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De belasting voor een personenauto, een bestelauto, een motorrijwiel of een vrachtauto behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan:
+1. De belasting voor een motorrijtuig behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan:
 
 - a. een tijdvak als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=11), met uitzondering van het tijdvak dat aanvangt met ingang van de dag van dagtekening van de eerste tenaamstelling van het voor het motorrijtuig afgegeven kentekenbewijs;
 
@@ -187,17 +187,13 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ##### Artikel 4c
 
-1. De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+1. De houder van een personenauto, een bestelauto, een motorrijwiel of een autobus waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
 
-2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
+2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto, bestelauto en autobus en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
 
 3. De inspecteur verleent de vergunning bij beschikking.
 
-4. De inspecteur wijst de aanvraag af indien:
-
-- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt;
-
-- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
+4. De inspecteur wijst de aanvraag af indien hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
 
 5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
 
