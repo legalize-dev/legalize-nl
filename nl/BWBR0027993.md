@@ -4,7 +4,7 @@ identifier: "BWBR0027993"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "2010-08-04"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027993"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Besluit financieel toetsingskader pensioenfondsen.
 
 ##### Artikel II
 
-In afwijking van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23a) en [artikel 23b, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23b) gaat een fonds waarvan in het jaar 2011 wordt vastgesteld dat een herstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=138) en [140 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=140) of [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=133) en [135 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=135) moet worden ingediend vanaf dat moment uit van artikel 23b van het Besluit financieel toetsingskader pensioenfondsen.
+Vervallen
 
 ##### Artikel III
 
