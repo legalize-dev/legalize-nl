@@ -4,7 +4,7 @@ identifier: "BWBR0007679"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1997-12-05"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007679"
 soort: "AMvB"
@@ -101,7 +101,7 @@ indien:
 
 - c. het motorrijtuig uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.
 
-3. Onder brandweer-instantie wordt mede begrepen een bedrijf dat beschikt over een eigen bedrijfsbrandweer.
+3. Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=31).
 
 ##### Artikel 5
 
