@@ -4,7 +4,7 @@ identifier: "BWBR0012074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2006-08-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012074"
 soort: "ministeriele-regeling"
@@ -55,11 +55,11 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 2, eerste lid, van de 
 
 - b. een toelichting op de aanvraag tot verplichtstelling;
 
-- c. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- c. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - d. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel c, in viervoud;
 
-- e. een digitale tekst van de integrale statuten en reglementen op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en
+- e. een digitale tekst van de integrale statuten en reglementen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en
 
 - f. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel e, in viervoud;
 
@@ -69,7 +69,7 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 2, eerste lid, van de 
 
 - 2°. het aantal werknemers in dienst van werkgevers die lid zijn van de bij de aanvraag van de verplichtstelling betrokken werkgeversorganisatie(s) onderscheidenlijk het aantal werknemers werkzaam bij werkgevers in de bedrijfstak waarop de aanvraag van de verplichtstelling betrekking heeft;
 
-- h. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, bedoeld onder g, die in ieder geval het volgende bevat:
+- h. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, bedoeld in onderdeel g, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen werkgevers en werknemers zoals genoemd in onderdeel g, onder 1° en 2°;
 
@@ -89,7 +89,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - b. een toelichting op de aanvraag tot wijziging van de verplichtstelling;
 
-- c. een digitale tekst van de integrale omschrijving van de werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste wijziging, op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en
+- c. een digitale tekst van de integrale omschrijving van de werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste wijziging, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en
 
 - d. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel c in viervoud;
 
@@ -99,7 +99,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - 2°. het aantal werknemers in dienst van werkgevers die lid zijn van de bij de aanvraag tot wijziging van de verplichtstelling betrokken werkgeversorganisatie(s) onderscheidenlijk het aantal werknemers werkzaam bij werkgevers in de bedrijfstak waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft;.
 
-- f. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, bedoeld in onderdeel e, die in ieder geval het volgende bevat:
+- f. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, bedoeld in onderdeel e, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen werkgevers en werknemers zoals genoemd onder onderdeel e, onder 1° en 2°;
 
@@ -125,7 +125,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - 2°. het aantal werknemers in dienst van werkgevers die lid zijn van de bij de aanvraag tot intrekking van de verplichtstelling betrokken werkgeversorganisatie(s) en onderscheidenlijk het aantal werknemers werkzaam bij werkgevers in de bedrijfstak waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft;.
 
-- d. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, die in ieder geval het volgende bevat:
+- d. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen werkgevers en werknemers zoals genoemd onder onderdeel c, onder 1° en 2°.
 
@@ -139,7 +139,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 2. Onverminderd het eerste lid bevat de aanvraag tot intrekking van de verplichtstelling voor een deel van de bedrijfstak, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), tevens:
 
-- a. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste intrekking van de verplichtstelling voor een deel van de bedrijfstak, op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- a. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste intrekking van de verplichtstelling voor een deel van de bedrijfstak, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, in viervoud, en
 
@@ -163,7 +163,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 ##### Artikel 6. Behandeling aanvragen
 
-De aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2006-08-01&g=2006-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2006-08-01&g=2006-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2006-08-01&g=2006-08-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5&z=2006-08-01&g=2006-08-01) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvraag zijn gevoegd.
+De aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5&z=2012-01-01&g=2012-01-01) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvraag zijn gevoegd.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -177,22 +177,28 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2006-08-01&g=2006-08-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel, indien tegen verplichtstelling ingediende zienswijzen daartoe aanleiding geven, wordt van de aanvrager een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave verlangd van de verstrekte aantallen werknemers en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2006-08-01&g=2006-08-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 2, onderdeel h, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 3a. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2006-08-01&g=2006-08-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel indien tegen wijziging van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen werknemers en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2006-08-01&g=2006-08-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen wijziging van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 3, onderdeel f, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 4a. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2006-08-01&g=2006-08-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel indien tegen intrekking van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen werknemers en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2006-08-01&g=2006-08-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel, indien tegen intrekking van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 4, eerste lid, onderdeel d, gegeven aan de hand van het in dat artikellidonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 6a. Termijnen
 
-1. De minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2006-08-01&g=2006-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2006-08-01&g=2006-08-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2006-08-01&g=2006-08-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van een verplichtstelling.
+1. De minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van een verplichtstelling.
 
 2. Indien in verband met het nemen van een besluit als bedoeld in het eerste lid informatie of advies is gevraagd aan een persoon of instantie kan de termijn, bedoeld in het eerste lid, ten hoogste twee maal worden verlengd met een periode van maximaal dertien weken en worden verzoekende partijen van deze verlenging schriftelijk in kennis gesteld.
 
-3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de minister of De Nederlandsche Bank N.V. om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van De Nederlandsche Bank N.V. om wijziging van statuten of reglementen, wordt de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2006-08-01&g=2006-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2006-08-01&g=2006-08-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2006-08-01&g=2006-08-01), niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de minister of de Nederlandsche Bank om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van de Nederlandsche Bank om wijziging van statuten of reglementen, krijgen zij vier weken om alsnog te reageren. Indien ook na deze periode niet of niet volledig is gereageerd wordt de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
