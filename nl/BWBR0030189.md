@@ -4,7 +4,7 @@ identifier: "BWBR0030189"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030189"
 soort: "wet"
@@ -48,15 +48,19 @@ Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Aanvragen om een aanwijzing als bedoeld in [artikel 3, tweede lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=3), zoals dit luidde voor het tijdstip van inwerkingtreding van deze wet, die zijn ingediend voor het tijdstip van inwerkingtreding van deze wet alsmede bezwaar- en beroepschriften tegen een besluit op grond van deze aanvragen, worden afgehandeld overeenkomstig de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471), zoals deze luidde voor het tijdstip van inwerkingtreding van deze wet.
+
+2. Aanvragen om een omgevingsvergunning die geheel of gedeeltelijk betrekking hebben op een activiteit als bedoeld in [artikel 2.1, eerste lid, onder f, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) die ingediend zijn voor het tijdstip van inwerkingtreding van deze wet worden afgehandeld overeenkomstig de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779), zoals deze luidde voor het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet, met uitzondering van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0030189&artikel=II&z=2012-01-01&g=2012-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0030189&artikel=II&z=2012-01-01&g=2012-01-01), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 oktober 2010.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
