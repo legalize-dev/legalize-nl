@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2011-04-15"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - b. college: college van burgemeester en wethouders;
 
-- c. Minister: de Minister van Onderwijs, Cultuur en Wetenschap;
+- c. Minister: de Minister van Sociale Zaken en Werkgelegenheid;
 
 - d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder.
 
@@ -72,7 +72,7 @@ Het vast te stellen bedrag, bedoeld in de [artikelen 1.24, eerste tot en met der
 
 ##### Artikel 4. Voorkoming samenloop toeslag
 
-Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), terwijl de ander een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2011-04-15&g=2011-04-15), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
+Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), terwijl de ander een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
 
 #### Paragraaf 3. Regels inzake registratie van voorzieningen
 
@@ -106,9 +106,9 @@ Vervallen
 
 - b. Helpende breed 2; Helpende sociaal agogisch werk 2; Verzorgingsassistent(e).
 
-2. In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen, genoemd het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
 
-3. De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
+3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
 #### Paragraaf 5. Administratie van gegevens bij kindercentra en gastouderbureaus
 
@@ -186,13 +186,13 @@ Vervallen
 
 3. Het verslag dat het college ingevolge [artikel 1.67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.67) aan de gemeenteraad en de Minister zendt, staat tevens ten dienste van de Inspectie voor het Onderwijs.
 
-4. Een verslag wordt ingericht overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=3&z=2011-04-15&g=2011-04-15) bij deze regeling opgenomen model.
+4. Een verslag wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2012-01-01&g=2012-01-01) bij deze regeling opgenomen model.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
-##### Artikel 13. Aanvraag van buitenlandse kinderopvang ten behoeve van opneming in centraal register
+##### Artikel 13. Aanvraag ten behoeve van opneming in het register buitenlandse kinderopvang
 
-1. Bij een aanvraag als bedoeld in [artikel 1.48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland, aan de Minister de volgende gegevens:
+1. Bij een aanvraag als bedoeld in [artikel 1.48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland en die op grond van de wet in aanmerking kan komen voor kinderopvangtoeslag, de volgende gegevens:
 
 - a. een opgave van de soort kinderopvangvoorziening,
 
@@ -202,25 +202,29 @@ Vervallen
 
 2. De ouder, bedoeld in het eerste lid, voegt bij de aanvraag tevens een bewijsstuk waaruit blijkt dat de kwaliteit van de betreffende kinderopvangvoorziening voldoet aan de geldende regels en voorwaarden in het betreffende land.
 
+3. Uiterlijk tien weken na de ontvangst van de aanvraag, bedoeld in [artikel 1.48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), beschikt de minister op deze aanvraag.
+
+4. Indien de minister positief beschikt op deze aanvraag, vindt de in [artikel 1.48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) bedoelde opname in het register buitenlandse kinderopvang plaats per de datum waarop de minister de aanvraag heeft ontvangen.
+
 ##### Artikel 14. Kinderopvang in België
 
 Vervallen
 
 ##### Artikel 15. Kinderopvang in Duitsland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
 
-##### Artikel 16. Wijzigingen in centraal register
+##### Artikel 16. Wijzigingen in het register buitenlandse kinderopvang
 
-De minister kan wijzigingen in het centrale register, bedoeld in [artikel 1.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), niet overeenstemmen met de werkelijke situatie.
+De minister kan wijzigingen in het register buitenlandse kinderopvang, bedoeld in [artikel 1.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), niet overeenstemmen met de werkelijke situatie.
 
 #### Paragraaf 5a. Bepalingen voor gastouderbureaus
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2011-04-15&g=2011-04-15) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2012-01-01&g=2012-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -240,13 +244,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Kinderopvang in Zwitserland, kanton Genève en kanton Zürich
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
 
-3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
+3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
 
-4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
+4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
 
 ##### Artikel 15b. Kinderopvang in de Verenigde Staten, stad New York
 
@@ -254,9 +258,9 @@ Vervallen
 
 ##### Artikel 15c. Kinderopvang in Oostenrijk, stad Wenen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend:
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend:
 
 - a. een geldige erkenning verleend door de gemeente Wenen op grond van het Wiener Tagesbetreuungsgesetz en de Wiener Tagesbetreuungsverordnung, of
 
@@ -272,55 +276,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15d. Kinderopvang in het Verenigd Koninkrijk/Engeland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in het Verenigd Koninkrijk wordt gerekend:
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in het Verenigd Koninkrijk wordt gerekend:
 
 - a. een erkend kindercentrum: full day care, crèches, out of school care;
 
 - b. geregistreerde gastouders (registered childminders).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
 
 ##### Artikel 15e. Kinderopvang in het Verenigd Koninkrijk/Schotland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Schotland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Schotland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
 
 ##### Artikel 15f. Kinderopvang in het Verenigd Koninkrijk/Noord Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een geldig Certificate of Registration.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een geldig Certificate of Registration.
 
 ##### Artikel 15g. Kinderopvang in Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een registratie door de Health Services Executive.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een registratie door de Health Services Executive.
 
 ##### Artikel 15h. Kinderopvang in Frankrijk/stad Parijs
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
 
 ##### Artikel 15i. Kinderopvang in Spanje/Catalonië
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een erkenning door de regionale overheid.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een erkenning door de regionale overheid.
 
 ##### Artikel 15j. Kinderopvang in Portugal
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
 
 ##### Artikel 15k. Kinderopvang verbonden aan internationale scholen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-04-15&g=2011-04-15), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
 
 #### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
 
@@ -392,9 +396,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); akte hoofdleidster kleuteronderwijs; akte Kleuterleidster A; akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; Cultureel werk (CW); Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociale Arbeid (SA, SA2 of SAII); Sociale Dienstverlening (SD, SA, SA1 of SAI); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.
 
-2. In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
 
-3. De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
+3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
 ##### Artikel 10b
 
@@ -404,17 +408,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Bachelor of Nursing; Creatieve therapie (waaronder Mikojel); Cultureel Werk (CW); Docent Dans; Docent Drama; Docerend musicus; Educatieve therapie (Mikojel); Extramurale gezondheidszorg (EMGZ); Hogere sociaal-pedagogische opleiding van leiders op het terrein van jeugdvorming en volksontwikkeling; Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar voortgezet onderwijs van eerste graad in tekenen; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); NXX (volgens de Wet op het voortgezet onderwijs); Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Verpleegkunde.
 
-2. In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
 
-3. De Minister van Sociale Zaken en Werkgelegenheid stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
+3. De minister stelt beleidsregels vast over de wijze waarop de aanwijzing, bedoeld in het tweede lid, plaatsvindt.
 
 ##### Artikel 10c
 
 Als opleiding, bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op tenminste het niveau, bedoeld in[artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
 
-- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2011-04-15&g=2011-04-15) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2011-04-15&g=2011-04-15);
+- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2012-01-01&g=2012-01-01) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2012-01-01&g=2012-01-01);
 
-- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2011-04-15&g=2011-04-15), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2011-04-15&g=2011-04-15), alsmede:
+- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2012-01-01&g=2012-01-01), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2012-01-01&g=2012-01-01), alsmede:
 
 - a. Branche Ervaren Peuterspeelzaalleidster (BEP),
 
@@ -490,17 +494,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a. Formulier
 
-Het formulier, bedoeld in [artikel 4 van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=4) wordt, onderscheiden naar categorie voorziening en voor eerste inschrijvingen en wijzigingen, vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlagen 1a tot en met 1g](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1a&z=2011-04-15&g=2011-04-15).
+Vervallen
 
 ##### Artikel 9b. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=6), wordt vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2011-04-15&g=2011-04-15).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2012-01-01&g=2012-01-01).
 
-##### Artikel 9c. Taken van de Dienst Uitvoering Onderwijs
+##### Artikel 9c. Taak Dienst Uitvoering Onderwijs
 
-1. Het dagelijks beheer van het register berust bij de directeur-generaal van de Dienst Uitvoering Onderwijs.
-
-2. Gedurende de periode dat een gemeente nog niet is aangesloten op het register kinderopvang zomede nadien op verzoek van het college van burgemeester en wethouders verzorgt de directeur-generaal van de Dienst Uitvoering Onderwijs de invoer van de gegevens van die gemeente in dat register.
+De Dienst Uitvoering Onderwijs wordt aangewezen als bewerker in de zin van [artikel 4 van het Besluit registers kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4).
 
 #### Paragraaf 4. Deskundigheidseisen gastouders en beroepskrachten voorschoolse educatie
 
@@ -534,21 +536,21 @@ De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit regist
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
-### Documenthistorie
+### Systeembeschrijving LR KO&PSW
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
 Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur voor een Landelijk Register Kinderopvang. De opzet van het document is gebaseerd op de Nederlandse Overheid Referentie Architectuur (NORA).
 
-De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
+Dit document beschrijft de versie van het systeemcomplex LR KO&PSW (Landelijk Registers Kinderopvang en Peuterspeelzaalwerk) die begin 2012 in productie wordt genomen. Die versie wordt aangeduid als release 8 van LR KO&PSW.
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
-De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
+Voor elke stap in de ontwikkeling van het systeemcomplex is een PSA geschreven, en is functionele documentatie opgesteld. Er bestaat hierdoor een verzameling documenten die gezamenlijk beschrijven hoe het systeemcomplex in elkaar zit. Elk van die documenten beschrijft een deel van het systeemcomplex LR KO&PSW. Dit document beschrijft het systeemcomplex als een geheel. Het bevat de essentie van de andere documenten, zonder die documenten te vervangen. Dit document geeft het overzicht, de overige documenten de details.
 
 Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur voor een Landelijk Register Kinderopvang. De opzet van het document is gebaseerd op de Nederlandse Overheid Referentie Architectuur (NORA).
 
-Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur voor een Landelijk Register Kinderopvang. De opzet van het document is gebaseerd op de Nederlandse Overheid Referentie Architectuur (NORA).
+Dit document is bestemd voor een ieder die kennis wil/moet nemen van de structuur en functionaliteit van het systeemcomplex LR KO&PSW. Personen die kunnen/mogen volstaan met een globaal beeld hebben voldoende aan dit document. Zij die verdere verdieping nodig hebben worden verwezen naar de in de referenties genoemde documenten.
 
 De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
 
@@ -556,11 +558,11 @@ De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelij
 
 De doelgroep voor deze PSA is divers:
 
-Enerzijds is het een document dat (gefaseerd) de kaders voor de tussen- en de eindoplossing beschrijft als ingangsdocument voor functioneel, technisch en database-ontwerp. Hiermee zijn de functioneel en technisch en ontwerpers/lead developers/DBA's doelgroep van dit document.
+Deze inleiding wordt gevolgd door een hoofdstuk over de achtergrond van het programma LR KO&PSW. Het derde hoofdstuk geeft een opdeling in processen en componenten. De daarop volgende hoofdstukken volgen het 9+2-vlaks model van de NORA.
 
-Anderzijds is het ook een document dat dient voor afstemming met de architecten van de betrokken partijen als GGD'en, gemeenten en OCW. Deze architecten zijn dus onderdeel van de doelgroep.
+In drie hoofdstukken worden de eerste negen vlakken van de NORA besproken. In de hoofdstukken 4, 5 en 6 worden drie vlakken van respectievelijk de bedrijfs-, de informatie- en de technische architectuur behandeld.
 
-Tenslotte moet het document, juist door zijn kaderstellende karakter, ook een belangrijke rol spelen bij het borgen van de kwaliteit van het project. Hiermee is het ook onderwerp van review door Project Assurance, die dus onderdeel uitmaken van de doelgroep.
+De laatste twee vlakken komen in de hoofdstukken 7 en 8 aan de orde, waarin respectievelijk wordt ingegaan op beheer en beveiliging.
 
 ### 1.2. Scope van dit document
 
@@ -568,11 +570,11 @@ Dit document is een PSA en werkt het ‘negen + twee’-vlakmodel van de NORA ui
 
 Het geheel aan voorzieningen (systeemcomponenten) dat het totale werkveld van de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) op termijn zal ondersteunen, is van dusdanige omvang en complexiteit, dat voor een gefaseerde aanpak is gekozen. In het PID ‘Landelijk Register Kinderopvang’ v1.1 [1] is een volledige beschrijving gegeven van het geheel aan voorzieningen.
 
-**Voorliggende PSA beschrijft de kaders voor het eerste deel van de ICT-ondersteuning, zoals deze per 1 januari 2010 nodig is om te voldoen aan de wet.**
+Het programma Landelijk Register Kinderopvang en Peuterspeelzalen is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [Wet Kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
-Op dat moment zal in elk geval een voorziening gerealiseerd zijn, waarmee de **registratie van kinderopvang** ondersteund kan worden en gedragen wordt door direct betrokkenen, het Landelijk Register (LR). Ook zullen er voorzieningen zijn voor het publiek en relevante overheidspartijen om **toegang tot informatie** over kinderopvang te krijgen.
+Het programma is, om dit brede doel te realiseren, opgesplitst in een aantal deelprojecten: Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
 
-Dit architectuurdocument gebruikt de volgende hoofdstukindeling:
+Dit document beschrijft de tot nu toe door het ICT-gedeelte van het programma gerealiseerde delen van het systeemcomplex LR KO&PSW.
 
 Dit architectuurdocument gebruikt de volgende hoofdstukindeling:
 
@@ -584,47 +586,47 @@ In de hoofdstukken 4, 5 en 6 worden conform NORA de Bedrijfs-, Informatie- en Te
 
 Specifieke aandachtspunten en eisen betreffende beveiliging en beheer zijn te vinden in respectievelijk hoofdstuk 7 en 8.
 
-Tenslotte zijn in bijlage A de gebruikte uitgangsdocumenten en in bijlage B de relevante NORA-definities opgenomen en bijlage C bevat een korte uitleg van de gebruikte UML-termen.
+Het systeemcomplex LR KO&PSW wordt in delen ontwikkeld. De scope van dit document is beperkt tot die delen van het complex die begin 2012 in productie (zullen) zijn. In concreto gaat het daarbij om de volgende componenten:
 
-### 1.4. Relatie met de andere architectuurdocumenten
+### 3.1.1. Processcope ondersteuning
 
-In dit deel van het project wordt een aantal andere architecturen toegepast als kaderstellend:
+De processen die met voornoemde componenten worden ondersteund zijn:
 
 ### 1.5. Relatie met andere documenten op lager niveau
 
-### 2. Achtergrond
+### 3.1.2. Koppelvlakken
 
 ### 1.6. Woordenlijst
 
 Dit document heeft ook een relatie met een aantal documenten die verdergaan op basis van de inhoud. Het gaat hier om de volgende documenten:
 
-Dit document heeft ook een relatie met een aantal documenten die verdergaan op basis van de inhoud. Het gaat hier om de volgende documenten:
+Voor het systeemcomplex LR KO&PSW relevante externe systemen zijn – begin 2012 – het kinderopvangtoeslagsysteem van de belastingdienst, dat wordt gevoed met informatie betreffende het in- en uitschrijven van organisaties voor kinderopvang, en de GBA, dat wordt gebruikt voor het ophalen van persoonsgegevens.
 
 Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
 ### 2. Achtergrond
 
-### 2.1. Programmacontext
+### 3.3. Kaders en standaarden
 
-Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
+De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te verbeteren. Daarvoor worden in toenemende maten standaarden benoemd en afspraken gemaakt over de wijze waarop met elkaar gecommuniceerd gaat worden. De NORA is daarvan een uitvloeisel.
 
-Het programma bestaat, om dit brede doel te realiseren, uit een aantal deelprojecten zoals Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
+De NORA is daarom als richtlijn gebruikt bij het ontwerp en de realisatie van het systeemcomplex LR KO&PSW. Om toe te lichten op welke wijze dit ICT-project de NORA principes interpreteert zijn de tien basisprincipes van de NORA in de bijlagen opgenomen en vertaald naar de projectarchitectuur.
 
-Deze PSA beschrijft zoals reeds vermeld is het eerste deel van de uiteindelijke bijdrage die het ICT-gedeelte van het programma gaat leveren per 1 januari 2010 aan het bereiken van het eindresultaat. In nieuwe opleveringen van deze PSA zal de uiteindelijke oplossing integraal worden beschreven.
+Gezien de connectie met OCW, en dan met name de relatie met DUO, is ook de ROSA (referentie onderwijs sector architectuur) voor het systeemcomplex van belang. Daarnaast is gelet op de GEMMA (gemeentelijke modelarchitectuur). De principes van deze architecturen worden niet in dit document besproken. Bij het ontwikkelen van het systeemcomplex is er voor gezorgd dat de principes van deze architecturen geen geweld is aangedaan.
 
-### 2.2. Probleem en oplossing
+### 4. Bedrijfsarchitectuur
+
+De bedrijfsarchitectuur is voor de opsteller van dit document een gegeven. Het ICT project LR-GIR KO&PSW ontwerpt en ontwikkelt informatiesystemen, geen organisatie(delen). In dit hoofdstuk wordt een beeld van de betrokken organisaties, diensten en processen geschetst om aan te geven voor wie en waarvoor het systeemcomplex is ontwikkeld. De pretenties van deze beschrijving gaan niet verder dan het schetsen van dat beeld.
 
 Het probleem dat dit programma dient op te lossen is heel eenvoudig: het ondersteunen bij de implementatie van de nieuwe [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
-Het probleem dat dit programma dient op te lossen is heel eenvoudig: het ondersteunen bij de implementatie van de nieuwe [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
-
-Reden voor de introductie van deze nieuwe wet is meerledig:
+Het systeemcomplex LR KO&PSW is relevant voor volgende organisaties:
 
 Daarnaast geldt dat:
 
-### 2.2.2. Oplossing
+### 4.2.1. Diensten
 
-Om de bovengenoemde problemen op te lossen is een integrale aanpak nodig, zowel ICT als administratieve organisatie hebben een rol te spelen in de oplossing.
+Het systeemcomplex wordt gebruikt om de volgende diensten te leveren:
 
 ICT-technisch worden de volgende deel-resultaten onderkend:
 
@@ -634,21 +636,21 @@ Voorliggende PSA richt zich op de eerste iteratie van de totale oplossing, het i
 
 Op basis van de in bovenstaande paragraaf benoemde problemen die opgelost moeten worden en de prioriteit die ligt op het realiseren van een kwalitatief hoogwaardig register volgt de volgende volgorde van op te leveren resultaten:
 
-Op basis van de in bovenstaande paragraaf benoemde problemen die opgelost moeten worden en de prioriteit die ligt op het realiseren van een kwalitatief hoogwaardig register volgt de volgende volgorde van op te leveren resultaten:
+Houders van organisaties voor kinderopvang en peuterspeelzalen vragen bij de gemeente van vestiging toestemming voor het exploiteren van hun voorziening. De gemeente legt de gegevens van de aanvraag vast in het landelijke register en vraagt de GGD een inspectie uit te voeren. De GGD controleert de kwalificaties van de aanvrager, en de locatie waar zal worden opgevangen of de peuterspeelzaal zal worden gevestigd, en stelt een inspectierapport op. Het college van de betreffende gemeente geeft op basis van dat inspectierapport een positieve of negatieve beschikking af. Na een positieve beschikking wordt de voorziening geregistreerd in het register voor kinderopvang of het register voor peuterspeelzalen. Geregistreerde voorzieningen worden periodiek geïnspecteerd door de GGD. Een inspectierapport kan voor een gemeente aanleiding zijn om een handhavingstraject op te starten. Dat gebeurt wanneer een gemeente niet (helemaal) tevreden is met de geboden kwaliteit, en wil zorgen dat de kwaliteit wordt verbeterd. De ultieme sanctie die een gemeente daarbij kan opleggen is het uit het register verwijderen van de voorziening.
 
-In een latere fase ook:
+Geregistreerde voorzieningen worden – met de bijbehorende inspectierapporten – gepubliceerd in het publieksportaal. Wanneer een voorziening uit een register wordt verwijderd, blijft een deel van de bij die voorziening behorende gegevens zichtbaar in dat publieksportaal.
 
-### 2.4. Kern van de oplossing
+### 4.3.2. Toekennen van kindertoeslag
 
-Zoals hierboven al benoemd is de kern van het op te leveren complex van ICT-voorzieningen het **register** zelf en de andere benoemde voorzieningen ten behoeve van de ontsluiting van de registergegevens.
+Vraagouders kunnen het publieksportaal gebruiken om een organisatie voor kinderopvang of een peuterspeelzaal in hun omgeving te vinden. In dat portaal vinden ze bij de organisaties voor kinderopvang een registratienummer. Met dat registratienummer kunnen ze bij de belastingdienst kinderopvangtoeslag aanvragen. Een van de voorwaarden voor het verkrijgen van kindertoeslag is dat de kinderen zijn opgevangen door een geregistreerde organisatie voor kinderopvang. De belastingdienst controleert hiertoe in eerste instantie of de betreffende OKO is geregistreerd (geweest) in de periode waarvoor kindertoeslag wordt aangevraagd. Is dat het geval en wordt aan de overige voorwaarden voldaan, dan wordt kinderopvangtoeslag toegekend. In tweede instantie zoekt de belastingdienst aan de hand van een controle bij de opvangende instantie uit of de kinderen van de vraagouders inderdaad het door die ouders gespecificeerde aantal uren zijn opgevangen bij de betreffende organisatie.
 
-### 3. Scope en uitgangspunten
+### 5. Informatiearchitectuur
 
 Hoe ziet de omgeving er per 1-1-2010 uit?
 
 NB: In hoofdstuk 4 wordt nader gegaan op de taken en verantwoordelijkheden van de verschillende relevante actoren in de omgeving van het Landelijk Register.
 
-De scope van de eerste iteratie van het project heeft gevolgen voor de mate waaraan aan de verschillende referentiearchitecturen wordt voldaan.
+Binnen het systeemcomplex worden de volgende rollen gespeeld door mensen:
 
 Gegeven de gefaseerde aanpak van het project beschrijft dit hoofdstuk voorlopig alleen de scope van de eerste oplevering per 1-1-2010.
 
@@ -656,7 +658,7 @@ Gegeven de gefaseerde aanpak van het project beschrijft dit hoofdstuk voorlopig 
 
 De scope van de eerste iteratie van het project heeft gevolgen voor de mate waaraan aan de verschillende referentiearchitecturen wordt voldaan.
 
-### 3.1.1. Processcope ondersteuning
+### 5.2. Berichten en gegevens
 
 De ICT-ondersteuning voor processen die plaatsvinden binnen de gemeenten (zoals het behandelen van aanvragen voor registratie, het verstrekken van beschikkingen) vallen buiten de scope van dit project.
 
@@ -664,19 +666,19 @@ De ICT-ondersteuning voor processen die plaatsvinden binnen de gemeenten (zoals 
 
 Op dit moment zijn er **vanuit het Landelijk Register** gezien twee koppelvlakken in scope:
 
-Door de scope op de voorzieningen op deze wijze vast te stellen, wordt tevens afgebakend welke processen ondersteund gaan worden in de eerste oplevering. Het zijn de processen voor **Registreren en Gebruiken**. Deze processen worden globaal uitgewerkt in paragraaf 4.4.
+De **Houder** is een natuurlijk persoon of een niet natuurlijk persoon. Indien het een natuurlijk persoon is, wordt de **Houder** geïdentificeerd door een BSN of een SoFi-nummer. Is de **Houder** een niet natuurlijk persoon, dan moet hij bij de Kamer van Koophandel bekend zijn als de eigenaar van een organisatie voor kinderopvang of peuterspeelzaal, met een vestiging waarvan het adres overeen komt met het **Adres** van de **Voorziening** waarvan hij **Houder** is. Dit geldt zowel voor de buitenlandse als voor de Nederlandse niet natuurlijke personen. De eigenaar wordt bij de Kamer van Koophandel geïdentificeerd met een RSIN.
 
-### 3.1.2. Koppelvlakken
+### 5.2.1.2. Object Voorziening
 
-Op dit moment zijn er **vanuit het Landelijk Register** gezien twee koppelvlakken in scope:
+Een **Voorziening** is een peuterspeelzaal of een organisatie voor kinderopvang. De organisaties voor kinderopvang worden onderscheiden in: voorzieningen voor gastouderopvang (of VGO's, combinaties van een gastouder en een opvanglocatie), gastouderbureaus (of GOB's, organisaties die bemiddelen tussen vraagouders en gastouders, en de administratieve taken voor gastouders uitvoeren) en kindercentra. Bij kindercentra worden de smaken buitenschoolse opvang (BSO) en kinderdagverblijf (KDV) onderscheiden.
 
 ### 3.1.3. Externe systemen
 
 In deze fase zijn nog geen externe systemen in scope.
 
-Deze zijn nog niet in scope als externe systemen, de definities zijn al wel meegenomen in het conceptueel gegevensmodel. Op termijn wordt een systeemkoppeling met de landelijke registers GBA en NHR wel voorzien.
+Het **Adres** van een voorziening is de locatie waar de werkzaamheden worden verricht. Voor de gastouderbureaus gaat het bij de werkzaamheden om administratieve handelingen bij alle andere soorten **Voorziening**en gaat het bij de werkzaamheden om het opvangen van kinderen, en specificeert het **Adres** dus de opvanglocatie.
 
-De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te verbeteren. Daarvoor worden in toenemende maten standaarden benoemd en afspraken gemaakt over de wijze waarop met elkaar gecommuniceerd gaat worden. De NORA is daarvan een uitvloeisel. Om toe te lichten op welke wijze dit ICT-project de NORA principes interpreteert worden de 20 fundamentele principes genoemd en vertaald naar de projectarchitectuur.
+Het **Adres** is of het woonadres van een gastouder, of het woonadres van een vraagouder, of een vestigingsadres van een organisatie die eigendom is van de houder.
 
 De belangrijkste uitgangspunten voor deze fase van het project en daarmee deze versie van de projectstartarchitectuur zijn:
 
@@ -688,7 +690,7 @@ De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te 
 
 DE NORA-TEKSTEN ZIJN LETTERLIJK OVERGENOMEN
 
-Verder wordt gebruikt gemaakt van de volgende standaarden:
+De **Persoonsgegevens** zijn geen onderdeel van LR KO&PSW, ze worden slechts geraadpleegd. Deze gegevens zijn onderdeel van de GBA.
 
 In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017), participeren een aantal verschillende organisaties. Elke organisatie heeft wettelijk vastgestelde taken in de uitvoering van de Wet KO. Door de onderlinge samenwerking tussen overheidsorganisaties, kunnen **diensten** worden geleverd aan het publiek en **services** tussen de onderlinge overheden. Om de taken adequaat uit te kunnen voeren en de diensten te kunnen verlenen, wordt gebruik gemaakt van ICT-voorzieningen. Welke overheidsorganisaties betrokken zijn, welke diensten en services geleverd worden en welke processen ervoor nodig zijn, wordt in de verschillende paragrafen van dit hoofdstuk toegelicht.
 
@@ -696,105 +698,105 @@ In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1
 
 In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017), participeren een aantal verschillende organisaties. Elke organisatie heeft wettelijk vastgestelde taken in de uitvoering van de Wet KO. Door de onderlinge samenwerking tussen overheidsorganisaties, kunnen **diensten** worden geleverd aan het publiek en **services** tussen de onderlinge overheden. Om de taken adequaat uit te kunnen voeren en de diensten te kunnen verlenen, wordt gebruik gemaakt van ICT-voorzieningen. Welke overheidsorganisaties betrokken zijn, welke diensten en services geleverd worden en welke processen ervoor nodig zijn, wordt in de verschillende paragrafen van dit hoofdstuk toegelicht.
 
-In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017), participeren een aantal verschillende organisaties. Elke organisatie heeft wettelijk vastgestelde taken in de uitvoering van de Wet KO. Door de onderlinge samenwerking tussen overheidsorganisaties, kunnen **diensten** worden geleverd aan het publiek en **services** tussen de onderlinge overheden. Om de taken adequaat uit te kunnen voeren en de diensten te kunnen verlenen, wordt gebruik gemaakt van ICT-voorzieningen. Welke overheidsorganisaties betrokken zijn, welke diensten en services geleverd worden en welke processen ervoor nodig zijn, wordt in de verschillende paragrafen van dit hoofdstuk toegelicht.
+Het systeemcomplex LR KO&PSW wordt gevormd door de systemen LRK en KOT&B. Bij elk van deze systemen horen een aantal gegevensgroepen.
 
 In het aandachtsgebied zijn vier processen te onderkennen:
 
-**NB: de focus van de eerste fase ligt op de processen Registreren en Gebruiken. Gebruiken kent als belanghebbenden publiek, GGD, Belastingdienst, IvhO en OCW.**
+De bij dit systeem behorende gegevensgroepen beelden de objecten uit.
 
 ### 4.2. Architectuureisen
 
-In hoofdstuk 3 zijn de fundamentele principes van de NORA behandeld. De relevante **afgeleide** principes worden in deze paragraaf nader toegelicht. Per principe wordt een toelichting gegeven op de wijze waarop deze PSA het principe interpreteert.
+Deze groep heeft een relatie met de gegevensgroepen:
 
-Het overzicht bevat per (deel)principe de status:
+Deze gegevensgroep is een afbeelding van het inspectiedeel van het object **Voorziening**. De groep bevat gegevens betreffende de op de voorziening uitgevoerde inspecties.
 
-De ‘P-code’ refereert aan het fundamenteel principe waar het deelprincipe uit afgeleid is. (§ 3.3)
+Deze groep heeft een relatie met de gegevensgroep:
 
-DE NORA-TEKSTEN ZIJN LETTERLIJK OVERGENOMEN UIT VERSIE 2.0
+Deze gegevensgroep is een afbeelding van het object **Adres**. De groep bevat de gegevens van het bezoekadres van de voorziening. Voor de GOB's is dit het adres waar de administratie wordt gevoerd. Voor de overige soorten voorzieningen het adres waar kinderen worden opgevangen.
 
 ### 4.3. Organisatie
 
-Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) zijn de volgende organisaties betrokken:
+Deze gegevensgroep beeld samen met de gegevensgroepen NNP-houder, woonadres en vestigingsadres het object **Houder** af. De groep bevat de gegevens van een natuurlijk persoon die houder is van een voorziening.
 
-Daarnaast zijn er belanghebbenden die een relevante rol vervullen binnen het aandachtsgebied hetzij in uitvoerende zin, hetzij in afnemende zin.
+Deze groep heeft een relatie met de gegevensgroepen:
 
-Vertegenwoordigers namens de GGD'en en Gemeenten gedurende PSA-fase.
+Deze gegevensgroep beeld samen met de gegevensgroepen NP-houder, NNP-houder en vestigingsadres het object **Houder** af. De groep bevat de gegevens van een adres waar een natuurlijk persoon woont.
 
-In een latere fase volgen volgende actoren en/of betrokkenen:
+Deze groep heeft een relatie met de gegevensgroepen:
 
-Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) worden processen uitgevoerd door verschillende organisaties die uiteindelijk het doel van de wet moeten gaan realiseren:
-
-### 4.4.1. Positionering ten opzicht van NORA paradigma
-
-**het verbeteren van toezicht op kinderopvang, misbruik en oneigenlijk gebruik van geld en middelen terug te dringen en het stelsel van de Wet kinderopvang toegankelijk en beheersbaar te houden.**
-
-Om de benodigde voorzieningen voor ondersteuning van de processen goed te kunnen ondersteunen zijn de hoofdprocessen opgeknipt in deelprocessen:
+Deze gegevensgroep beeld samen met de gegevensgroepen NP-houder, woonadres en vestigingsadres het object **Houder** af. De groep bevat de gegevens van een niet natuurlijk persoon die houder is van een voorziening.
 
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
 
-NB: de processen worden op hoofdlijnen en inrichtingsonafhankelijk beschreven, omdat elke gemeente de uitvoering van de wettelijke taken anders kan inrichten. Het project Implementatie zal de procedures en processen nader uitwerken.
+Deze gegevensgroep beeld samen met de gegevensgroepen NP-houder, NNP-houder en woonadres het object **Houder** af. De groep bevat de gegevens van een adres van een vestiging waar een niet natuurlijk persoon de eigenaar van is.
 
-De NORA hanteert een paradigma om de hiërarchie van procestypen te duiden. De voornoemde procesplaat is te matchen met de NORA-definities, zoals uitgewerkt in onderstaande tabel.
+Deze groep heeft een relatie met de gegevensgroepen:
+
+### 5.2.2.2. KOT&B
+
+De bij dit systeem behorende gegevensgroepen bepalen de rollen en rechten van gebruikers, en bevatten algemene gegevens.
+
+Deze gegevensgroep bevat de gegevens van de gebruikers.
 
 ### 4.4.2. Ketenproces Registreren nieuwe kinderopvang
 
-De voor deze PSA relevante ketenprocessen ‘**Registreren nieuwe kinderopvang**’ en ‘**Wijzigen registratie kinderopvang**’ worden verder uitgewerkt.
+Deze gegevensgroep bevat de gegevens van de rollen die gebruikers mogen spelen.
 
-De gemeente ontvangt een aanvraag voor registratie van een kinderopvang in het LR. De aanvraag wordt door de gemeente in behandeling genomen. Na een administratieve toets wordt een opdracht verstrekt aan de GGD voor inspectie. De GGD voert een kwalitatieve toets uit op de documenten en inspecteert afhankelijk van het toetsingskader en de soort kinderopvang de opvanglocatie. Het resultaat van het inspectieproces wordt vastgelegd in een inspectierapport en vergezeld door een advies naar de gemeente gestuurd. De gemeente neemt een besluit en registreert de kinderopvang **definitief** in het Landelijk Register als aan de eisen is voldaan of wijst de aanvraag af. De registratie en de inspectieresultaten worden vervolgens toegankelijk gemaakt voor het publiek.
+Deze groep heeft een relatie met de gegevensgroepen:
 
-De gemeente ontvangt een aanvraag voor registratie van een kinderopvang in het LR. De aanvraag wordt door de gemeente in behandeling genomen. Na een administratieve toets wordt een opdracht verstrekt aan de GGD voor inspectie. De GGD voert een kwalitatieve toets uit op de documenten en inspecteert afhankelijk van het toetsingskader en de soort kinderopvang de opvanglocatie. Het resultaat van het inspectieproces wordt vastgelegd in een inspectierapport en vergezeld door een advies naar de gemeente gestuurd. De gemeente neemt een besluit en registreert de kinderopvang **definitief** in het Landelijk Register als aan de eisen is voldaan of wijst de aanvraag af. De registratie en de inspectieresultaten worden vervolgens toegankelijk gemaakt voor het publiek.
+Deze gegevensgroep bevat de gegevens van de toe te kennen rechten.
 
-**Mate van ICT-ondersteuning:** alleen het registreren van de kinderopvang in het Landelijk Register wordt in deze eerste fase van het ICT-project LR-GIR KO ondersteund door ICT. De registratie van inspectierapportages door de GGD wordt door bestaande middelen ondersteund. Het aanvraagproces bij de gemeente wordt niet door ICT vanuit het project LR-GIR KO ondersteund.
+Deze groep heeft een relatie met de gegevensgroepen:
 
 ### 4.4.2.1. Procesdecompositie binnen ketenproces Registreren nieuwe kinderopvang
 
-De **bedrijfsprocessen** zijn een decompositie van de ketenprocessen.
+Deze groep heeft een relatie met de gegevensgroepen:
 
-De meeste gemeenten hebben hun handhavingsbeleid vastgelegd. Daarmee is bepaalt elke gemeente, binnen de kaders van de wet, **hoe** de uitvoering van het beleid plaatsvindt. **Wat** er gedaan moet worden voor de uitvoering staat in de wetgeving vast. Een wijze om het wat te beschrijven is het toepassen van bedrijfsfuncties in plaats van processen.
+Deze gegevensgroep bevat de gegevens van de gemeentes.
 
-Bedrijfsfuncties zijn dus inrichtingsonafhankelijke beschrijvingen van de bijdragen die betrokkenen leveren.
+Deze groep heeft een relatie met de gegevensgroepen:
 
-In de bedrijfsprocessen worden de volgende **functies** uitgevoerd:
+Deze gegevensgroep bevat de codes van de verschillende landen.
+
+Deze gegevensgroep bevat de postcodetabel.
 
 Het systeemcomplex ondersteunt de volgende functies:
 
-Het systeemcomplex ondersteunt de volgende functies:
-
-**LRK is het totale -systeemcomplex.**
+De gestructureerde gegevens worden opgeslagen in een relationele database (Oracle). In die database worden ook de ongestructureerde gegevens (documenten) opgeslagen. Het datamodel wordt getoond in Afbeelding 6.
 
 **LR is het Landelijk Registeren**
 
 **OP is het OverheidsPortaal**
 
-**PP is het Publieksportaal**
+Bij de GBA worden persoonsgegevens opgevraagd. Daarvoor wordt GBA-V benaderd. De berichten die daarbij worden gebruikt zijn conform de specificaties van het logisch ontwerp versie 3.7 van GBA.
 
 **Gem is het geheel aan gemeentelijke processen en systemen**
 
-**GGD is het geheel aan GGD processen en systemen**
+De belastingdienst wordt op de hoogte gehouden van geregistreerde voorzieningen. In concreto gebeurt dit door een bericht naar de belastingdienst te sturen voor elke voorziening waarvan:
 
 **BD is het geheel aan Belastingdienst processen en systemen**
 
-### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
+### 5.3.1. GBA
 
-**In de cellen achter de deelfuncties staan CRUD-tekens dit houdt in:**
+Met GBA-V worden berichten via SuwiNet uitgewisseld over GemNet gebruik makend van SOAP.
 
 **C= creatie, R = raadplegen, U = updaten (muteren)van gegevens en D = delete (verwijderen).**
 
-Uit bovenstaande functionele decompositie is af te leiden op welke wijze het Landelijk Register en de verschillende portalen de volgende functies ondersteunen.
+Voor het uitwisselen van berichten met de belastingdienst wordt gebruik gemaakt van de koppelvlakstandaard ebMS over Digikoppeling.
 
-### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
+### 6. Technische architectuur
+
+Voor de realisatie van het systeemcomplex LR KO&PSW is zoveel mogelijk gebruik gemaakt van open source componenten en open standaarden. De applicaties draaien in GlassFish clusters op CentOS Linux. Er wordt gebruik gemaakt van twee verschillende clusters: een cluster voor het voor een ieder toegankelijke publieksportaal, en een met behulp van toegangsbeveiliging afgeschermd cluster waarop de applicaties voor de medewerkers van de overheid draaien. Voor de toegangsbeveiliging wordt gebruik gemaakt van OpenSSO ook onder CentOS Linux. Voor de opslag van gegevens wordt gebruik gemaakt van een database van Oracle, draaiend op een Oracle cluster onder Oracle Linux. De aansluiting op het internet wordt verzorgt door een HAProxy cluster met actieve failover draaiend onder CentOS Linux. Deze architectuur wordt getoond in Afbeelding 7.
 
 Er zijn verschillende aanleidingen om mutaties in het register door te voeren:
 
-Er zijn verschillende aanleidingen om mutaties in het register door te voeren:
-
-### 4.4.3.1. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
+### 6.1.1 Applicaties
 
 ### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
 
-Alleen het resultaat van het besluiten wordt vastgelegd in het LR.
+De performance eisen zijn gebaseerd op een verwacht gebruik van gemiddeld 3500 bevragingen via het publieksportaal per dag (piek 20.000/dag) en 8000 transacties per dag voor het overheidsportaal (piek 8000/uur oftewel 3/seconde).
 
-Alleen het resultaat van het besluiten wordt vastgelegd in het LR.
+Op het gebied van beveiliging van applicaties geldt dat die moet voldoen aan de maatregelen die horen bij WBP risicoklasse II op basis van Achtergrondstudies en Verkenning 23 (AV23).
 
 Dit ketenproces is eruit gelicht, omdat het grootste deel van het ketenproces niet ondersteund wordt door het LR, maar wel het uiteindelijke resultaat vastlegt.
 
@@ -802,7 +804,7 @@ Dit ketenproces is eruit gelicht, omdat het grootste deel van het ketenproces ni
 
 Functionele decompositie voor Inspecteren en Handhaven volgen in een vervolgfase na deze PSA deel 1.
 
-Functionele decompositie voor Inspecteren en Handhaven volgen in een vervolgfase na deze PSA deel 1.
+Het publieksportaal is een maatwerk applicatie voor gebruik door het publiek. De doelgroep wordt gevormd door de vraagouders, maar er zit geen toegangsbeveiliging op de applicatie. Een ieder die dat wil kan de applicatie gebruiken om te zoeken in de publieke gegevens van het register kinderopvang en het register peuterspeelzalen.
 
 ### 4.5. Diensten en services
 
@@ -810,45 +812,45 @@ Het kunnen raadplegen van de gegevens over kinderopvang door het Publiek (incl. 
 
 ### 4.5. Diensten en services
 
-Deze paragraaf beschrijft welke diensten en services de Gemeenschappelijke Inspectieruimte biedt. In de NORA wordt met een DIENST bedoelt het resultaat of effect van een afgeronde inspanning die de overheid op basis van wettelijke taken levert en waarmee in een behoefte van een burger of bedrijf wordt voorzien. Een service is vrij vertaald een interne dienst, ofwel tussen overheidsorganisaties.
+De ondersteunde browsers zijn Internet Explorer versie 7 en 8, en Firefox versie 3.6. Waarbij geldt dat alleen de laatste (van alle patches voorziene) varianten van deze versies worden ondersteund.
 
-### 4.5.2. Geleverde services
+### 6.1.1.4. OpenSSO
 
-Vanuit het NORA-perspectief levert het LR de volgende diensten:
+OpenSSO is een open source applicatie die – in combinatie met de KOT&B database – wordt gebruikt om de toegang tot het overheidsportaal te regelen. De applicatie draait onder CentOS Linux.
 
-### 4.5.3. Gebruikte services
+### 6.1.1.5. Kinderopvang Toegang & Beheer (KOT&B)
 
-Bij de eerste oplevering wordt alleen gebruik gemaakt van standaard tabellen. Verder worden er geen externe services gebruikt.
+Kinderopvang Toegang & Beheer is een maatwerk applicatie voor gebruik door beheer. Daarnaast verleent deze applicatie gebruikers toegang tot de applicaties waarvoor ze rechten hebben.
 
 ### 5. Informatiearchitectuur
 
-Dit hoofdstuk adresseert de 'Hoe' aspecten van de oplossing die in de vorige hoofdstuk beschreven processen en bedrijfsfuncties moet ondersteunen. Als uitgangspunt geldt dat per 1-1-2010 slechts processen ‘Registreren’ en ‘Gebruiken’ relevant zijn en dat het systeemcomplex geen enkele vorm van workflow management voor deze processen ondersteunt. Dit houdt in dat aansturing van de administratieve processen rondom Register procedureel plaats vindt.
+KOT&B draait in een GlassFish cluster onder CentOS Linux.
 
 Bij de eerste oplevering wordt alleen gebruik gemaakt van standaard tabellen. Verder worden er geen externe services gebruikt.
 
-In de overeenstemming met de scope van deze versie van het PSA heeft informatiearchitectuur betrekking op de volgende componenten van de totale oplossing:
+Het overheidsportaal is een maatwerk applicatie voor gebruik door de overheid. De doelgroep wordt in de eerste plaats gevormd door de medewerkers kinderopvang en peuterspeelzalen van de gemeenten. Zij worden geacht de registers te onderhouden.
 
-Dit hoofdstuk adresseert de 'Hoe' aspecten van de oplossing die in de vorige hoofdstuk beschreven processen en bedrijfsfuncties moet ondersteunen. Als uitgangspunt geldt dat per 1-1-2010 slechts processen ‘Registreren’ en ‘Gebruiken’ relevant zijn en dat het systeemcomplex geen enkele vorm van workflow management voor deze processen ondersteunt. Dit houdt in dat aansturing van de administratieve processen rondom Register procedureel plaats vindt.
+Daarnaast kan inzagerecht worden verleend aan medewerkers van de GGD-en, de belastingdienst en de inspectie van het onderwijs.
 
-In de overeenstemming met de scope van deze versie van het PSA heeft informatiearchitectuur betrekking op de volgende componenten van de totale oplossing:
+Het overheidsportaal draait in een GlassFish cluster onder CentOS Linux.
 
 In de overeenstemming met de scope van deze versie van het PSA heeft informatiearchitectuur betrekking op de volgende componenten van de totale oplossing:
 
 ### 5.2. Architectuurplaat
 
-Aangezien de expliciete splitsing van het systeemcomplex in afzonderlijk op te leveren componenten, wordt als uitgangspunt voor de architectuur de service-geörienteerde benadering gekozen (SGA). Vanuit de oogpunt van service-oriëntatie, beschouwen wij het Landelijke Register als een goed afgebakende systeem die ontsloten wordt via een set van services. Wij noemen ze de Register Services. Zowel de Overheidsportaal als Publieksportaal maken gebruik van deze services.
+De applicatie draait in IBM WebSphere onder MS Enterprise Server.
 
-### 5.2. Architectuurplaat
+### 6.1.1.8. Koppeling BD
 
-De onderstaand tabel geeft aan de doelgroepen die gebruik kunnen maken van de services van Overheidsportaal waarop ze afzonderlijk geautoriseerd moeten worden
+De koppeling met de belastingdienst is een maatwerk applicatie die wijzigingen in het register kinderopvang doorgeeft aan de belastingdienst.
 
 ### 5.3. Architectuureisen
 
 Architectuureisen die worden gesteld aan deze voorziening zijn principes en richtlijnen die afgeleid zijn van de relevante bovenliggende architecturen en de wettelijk kaders Relevante architecturen zijn in Hoofdstuk 1.4 genoemd. De beschikbare wettelijke kaders zijn de nieuwe [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) en de AMvB.
 
-Onderstaande afbeelding geeft de beoogde situatie weer per 1-1-2010. In deze situatie is het Landelijk Register en bijbehorende Register Services gereed voor gebruik en zijn zowel de Publieksportaal als de Overheidsportaal voor de beoogde doelgroep gerealiseerd en toegankelijk gemaakt via een vooraf afgesproken domeinnaam op Internet (het URL).
+Aan de databases worden eisen gesteld op de gebieden volume, groei, beveiliging en beschikbaarheid. Voor wat het volume betreft moet de database in staat zijn om zeventigduizend voorzieningen (organisaties voor kinderopvang en peuterspeelzalen) met bijbehorende houders te bevatten. Daarnaast moet de database ingesteld zijn op een jaarlijkse aanwas van tien procent gedurende een periode van zeven jaar. (Na zeven jaar mogen gegevens die niet langer worden gebruikt worden verwijderd.)
 
-Referentiearchitectuur Onderwijs bevat aantal generieke principes die van invloed zijn op de positionering van door het project op te leveren ICT informatievoorzieningen binnen de e-overheid en op de keuzes van functionele scope van de afzonderlijke componenten van het systeemcomplex.
+Op het gebied van beveiliging van databases geldt dat die moet voldoen aan de maatregelen die horen bij WBP risicoklasse II op basis van Achtergrondstudies en Verkenning 23 (AV23).
 
 Architectuureisen die worden gesteld aan deze voorziening zijn principes en richtlijnen die afgeleid zijn van de relevante bovenliggende architecturen en de wettelijk kaders Relevante architecturen zijn in Hoofdstuk 1.4 genoemd. De beschikbare wettelijke kaders zijn de nieuwe [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) en de AMvB.
 
@@ -856,15 +858,15 @@ Architectuureisen die worden gesteld aan deze voorziening zijn principes en rich
 
 ### 5.3.2.1. Applicaties
 
-### 5.3.2. Relevante NORA principes
+### 6.1.2.2. KOT&B
 
 ### 5.3.2.1. Applicaties
 
-In de onderstaand tabel zijn relevante principes uit Architectuur van Onderwijs en hun vertaling naar principes voor het project aangegeven
+KOT&B draait in een Oracle cluster onder Oracle Linux.
 
-### 5.3.2. Relevante NORA principes
+### 6.2. Middleware
 
-In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register behandeld, de objectdefinities en de wijze waarop omgegaan moet worden met historische gegevens. Bij het opstellen van het model zijn wetsteksten als uitgangspunt gebruikt.
+Binnen LR KO&PSW wordt gebruikgemaakt van GlassFish als applicatie server en Digikoppeling als service bus.
 
 Ontwerpbeslissingen die betrekking hebben op de individuele objecten in het model, zijn bij de objectbeschrijvingen opgenomen.
 
@@ -874,77 +876,77 @@ In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register beha
 
 ### 5.4.1. Ontwerpbeslissingen gegevensmodel
 
-### 5.4.3.1. Abstracties
+### 7. Beheer
 
-Ontwerpbeslissingen die betrekking hebben op de individuele objecten in het model, zijn bij de objectbeschrijvingen opgenomen.
+Op dit moment is het beheer nog verdeeld over twee organisaties. Het applicatiebeheer is belegd bij ICTU, de partij die het systeemcomplex heeft ontwikkeld. DUO is belast met het beheer van de informatievoorziening en de technische infrastructuur. Er wordt gewerkt aan de overdracht van het applicatiebeheer van ICTU naar DUO. Deze overdracht staat gepland voor begin 2012.
 
-### 5.4.2. Logisch gegevensmodel Landelijk Register
+### 7.1. Beheer informatievoorziening
 
-Het logisch gegevensmodel is opgesteld in UML notatie. UML is een industrie standaard en is zeer geschikt voor de software ontwikkeling. In Bijlage C is een toelichting gegeven op gebruik van UML.
+Bij het beheer van de informatievoorziening wordt onderscheid gemaakt naar systeembeheer en functioneel beheer. Beide taken zijn bij DUO belegd.
 
-### 5.4.3. Objectdefinities
+### 7.1.1. Systeembeheer
 
-Dit zijn objecten wiens vastlegging in het Register noodzakelijk is voor de uitvoering van de Wet.
+Systeembeheer is verantwoordelijk voor het zorgen voor een betrouwbaar en – op de juiste momenten – beschikbaar systeemcomplex LR KO&PSW, inclusief de koppelingen naar de buitenwereld. Tot de taken van systeembeheer behoren:
 
-### 5.4.3.3. LR hulpobjecten
+### 7.1.2. Functioneel beheer
 
 ### 5.4.3.2. LR-objecten
 
 Dit zijn objecten wiens vastlegging in het Register noodzakelijk is voor de uitvoering van de Wet.
 
-Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bewaren van oorspronkelijke waarden van gegevens bij de mutaties, te weten:
+Het beheer van de applicaties die deel uitmaken van het systeemcomplex LR KO&PSW is, met uitzondering van het applicatiebeheer op de BAP Services, belegd bij ICTU. ICTU brengt in overleg met de gebruikers en DUO onder aansturing van de Change Advisory Board (CAB) de gewenste wijzigingen aan in de applicaties van het systeemcomplex, test of de wijzigingen voldoen aan de eisen op gebied van functionaliteit, kwaliteit en beveiliging, en test of de aangebrachte wijzigingen de niet hebben geresulteerd in verstoring van de eerder correcte werking van de applicaties.
 
-Het zijn de objecten wiens opname in het Register niet noodzakelijk is voor de uitvoering van de Wet, maar wel wenselijk is uit de oogpunt van dienstverlening naar de Burger.
+De aanpassingen in de applicaties worden door ICTU gebundeld tot releases, en aan DUO overgedragen ter implementatie. DUO draagt zorg voor het in productie nemen van nieuwe releases.
 
-### 5.4.4. Historie en tijdslijnen
+### 7.3. Beheer technische infrastructuur
+
+Het systeemcomplex draait op de infrastructuur van DUO. DUO beheert die infrastructuur en heeft in verband daarmee onder andere de volgende taken:
 
 Het aspect historie speelt nadrukkelijke rol in de levenscyclus van de gegevens in het LR. In de AMvB is expliciet vastgelegd dat de datum waarop wijziging van gegevens plaats vindt vermeld dient ter worden. Nota van toelichting voegt daarbij dat actuele gegevens in te zien zijn in het register en dat ’oude’ gegevens gedurende periode van 7 jaar worden bewaard (paragraaf 4.2.Inrichting van het register kinderopvang).
 
-Het aspect historie speelt nadrukkelijke rol in de levenscyclus van de gegevens in het LR. In de AMvB is expliciet vastgelegd dat de datum waarop wijziging van gegevens plaats vindt vermeld dient ter worden. Nota van toelichting voegt daarbij dat actuele gegevens in te zien zijn in het register en dat ’oude’ gegevens gedurende periode van 7 jaar worden bewaard (paragraaf 4.2.Inrichting van het register kinderopvang).
-
 Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bewaren van oorspronkelijke waarden van gegevens bij de mutaties, te weten:
 
-Aangezien het Register de primaire bron van de gegevens m.b.t. gecertificeerde kinderopvang instellingen is voor meerdere overheidsinstellingen en dat ze deze gegevens nodig hebben voor de uitvoering van hun wettelijke taken, moet de inhoud van het register voldoen aan de vraag.
+Op basis van Achtergrondstudies en Verkenning 23 (AV23) Fout! Verwijzingsbron niet gevonden. zijn de in het systeemcomplex opgeslagen gegevens geclassificeerd als vallend in WBP risicoklasse II. De organisaties die gebruik maken van het systeemcomplex hebben de bij deze classificatie behorende beveiligingsmaatregelen getroffen.
 
 Als basis voor de invulling van project-specifieke principes voor zijn principes uit de raportage 'Architectuur van het Stelsel, november 2006' gebruikt.
 
-Als basis voor de invulling van project-specifieke principes voor zijn principes uit de raportage 'Architectuur van het Stelsel, november 2006' gebruikt.
+Binnen de informatiearchitectuur kunnen een beveiligd en een onbeveiligd deel worden onderscheiden. Het onbeveiligde deel is het publieksportaal. Via dat portaal kan een die over internet beschikt toegang krijgen tot de publieke inhoud van de registers kinderopvang en peuterspeelzalen. Bij de constructie van het publieksportaal is zorg gedragen dat alleen gegevens die volgens de wet- en regelgeving openbaar moeten zijn kunnen worden benaderd. Het niet kunnen benaderen van privacygevoelige informatie is door onafhankelijke derden getest.
 
-Rapportage spreekt van de volgende twee tijdslijnen m.b.t. attribuutwaarden van objecten in registraties:
+De toegang tot het beveiligde deel van het systeemcomplex is voorbehouden aan geregistreerde gebruikers, die zich daartoe eerst moeten authenticeren middels een wachtwoord en een eenmalig token met een beperkte geldigheidsduur. De autorisaties die middels deze authenticatie wordt verkregen, is afhankelijk van de rol(len) die de gebruiker zijn toegewezen. Deze rollen worden door de organisatie waarvoor de gebruiker werkt aan de gebruiker toegekend op basis van zijn functie. Deze rollen worden door de beheerder van het systeemcomplex – op verzoek van die organisatie – gekoppeld aan die gebruiker.
 
 **Inrichting van het register:**
 
-In het LR worden allerlei gegevens vastgelegd die betrekking hebben op organisaties voor kinderopvang en hun houders. Deze gegevens kunnen wijzigen gedurende de levenscyclus van individuele objecten in het LR. Voor alle de partijen die gebruik maken van gegevens uit het LR is het van belang om te weten wat en wanneer gewijzigd is in het Register. Voor de partijen die gegevens uit het LR gebruiken als grondslag voor de besluiten of handelingen (wel of niet toekennen van toeslagen, maar mogelijk ook andere handelingen), is het bovendien van belang om te weten in weke periode de gegevens waarop ze besluiten baseren, geldig waren.
+Het systeemcomplex draait op de beveiligde infrastructuur van DUO. Het netwerk waarop de servers draaien is door een DMZ gescheiden van het internet. Via internet kan alleen via een beveiligde verbinding gebruik worden gemaakt van het systeemcomplex. Het berichtenverkeer met de GBA loopt via het beveiligde GemNet, en dat met de belastingdienst via een beveiligde Digikoppeling.
 
-### 5.5. Berichten
+### A. Referenties
 
 Datums van geldigheid van gegevens hebben betrekking op de aangehouden werkelijkheid. Het LR is immers de rechtsgeldige bron van gegevens voor het bepalen van recht op toeslag. Geldigheid van bepaalde gegevens kan van invloed zijn op recht op toeslag. Dit is niet hetzelfde als geldigheid van besluit over toekennen van toeslag. Een dergelijk besluit kan genomen zijn op basis van gegevens die op het moment van het nemen van het besluit geldig waren. Zo'n besluit is dus rechtsgeldig tot stand gekomen. Als gegevens op een latere tijdstip niet meer geldig blijken zijn, moet zo'n besluit mogelijk herzien worden op basis van de nieuwe gegevens die op een latere tijdstip bekend zijn geworden. Het oude besluit is niet meer geldig en er komt een nieuw besluit dat betrekking heeft op een periode in het verleden.
 
 ### 5.5. Berichten
 
-**Richtlijnen voor de aangehouden werkelijkheid:**
+**Definitie Dienst**: het resultaat of effect van een afgeronde inspanning die de overheid op basis van wettelijke taken levert en waarmee in de behoefte van een burger of bedrijf wordt voorzien. Een dienst levert dus een eindresultaat aan een burger of bedrijf.
 
-**Richtlijnen voor de adminstratieproces:**
+**Definitie Service**: het resultaat of effect van een afgeronde inspanning die een ambtenaar of applicatie op basis van wettelijke taken levert en waarmee in de behoefte van één of meer andere ambtenaren of applicaties wordt voorzien. Een service levert een (tussen) resultaat aan een andere overheidsorganisatie, ambtenaar of applicatie.
 
-Dit hoofdstuk beschrijft de eisen en kaders die gebruikt worden bij de ontwikkeling van het systeemcomplex Landelijk Register Kinderopvang.
+**Definitie Proces:** Een proces is een geordende reeks van (in-)direct waarde toevoegende handelingen en oordelen door ‘n mens of machine gericht op een bekend resultaat.
 
-In de eerste release van het LR is er uitsluitend sprake van de interne communicatie tussen de specifieke modules, te weten: LR, Overheidsportaal en Publieksportaal. Omdat er (nog) geen sprake is van de berichtenuitwisseling met externe systemen, is invulling van dit hoofdstuk niet relevant
+**‘Ketenproces’** of interactieperspectief
 
 ### 6. Technische architectuur
 
-Dit hoofdstuk beschrijft de eisen en kaders die gebruikt worden bij de ontwikkeling van het systeemcomplex Landelijk Register Kinderopvang.
+**Bedrijfsproces** Een bedrijfsproces is een geordende reeks werkprocessen die binnen één organisatie wordt uitgevoerd met als doel om een (combinatie van) dienst(en) te leveren aan een burger, bedrijf of andere organisatie.
 
-Het beschrijft daarnaast onderbouwd de keuzes die op basis van deze kaders gemaakt zijn en de eventuele aanvullende aannames die nodig waren.
+**Werkproces** Een geordende reeks van processtappen die binnen één organisatorische eenheid binnen een organisatie wordt uitgevoerd met als doel een specifieke bijdrage (prestatie) te leveren aan een dienst die uiteindelijke zal worden geleverd aan een burger, een
 
-Bij het schrijven van dit hoofdstuk is rekening gehouden met alle voorradige informatie, de fasering die in de vorige hoofdstukken is gehanteerd is hier losgelaten om een zo compleet mogelijk beeld te schetsen.
+bedrijf of een andere organisatie.
 
-Helaas is het beeld nog niet volledig, dus in een volgende fase kan dit hoofdstuk eventueel nog aangepast worden. Ook uit de nog uit te voeren risicoanalyse kunnen nog nieuwe eisen komen die verwerkt moeten worden.
+**Processtap** Een geordende reeks handelingen die ononderbroken wordt uitgevoerd door één mens of machine binnen één bedrijfsfunctie.
+
+**Handeling** Kleinst mogelijke eenheid van werk, uitgevoerd door één persoon of machine op één plek op één moment (eenheid van tijd, plaats en handeling.
 
 De eisen waarop de keuze voor onderliggende techniek gebaseerd zijn komen uit een aantal aandachtsgebieden, namelijk overheidsbeleid (zowel centraal als OCW-specifiek), non-functional requirements, beveiligingsbeleid en beheer.
 
-De eisen waarop de keuze voor onderliggende techniek gebaseerd zijn komen uit een aantal aandachtsgebieden, namelijk overheidsbeleid (zowel centraal als OCW-specifiek), non-functional requirements, beveiligingsbeleid en beheer.
-
-De eisen vanuit beheer en beveiligingsbeleid zijn te vinden in respectievelijk hoofdstuk 7 en 8, de impact ervan op techniek en infrastructuur is wel meegenomen.
+DE OMSCHRIJVINGEN VAN DE BASISPRINCIPES VAN NORA ZIJN LETTERLIJK OVERGENOMEN UIT DE NEDERLANDSE REFERENTIE ARCHITECTUUR, VERSIE 3.0, D.D. 19 AUGUSTUS 2009
 
 **Overheidsbeleid:**
 
@@ -2110,39 +2112,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17a. Gewijzigde uitvoering voor het kalenderjaar 2010
 
-1. In het kalenderjaar 2010 is [artikel 3.3, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.3) niet van toepassing.
+Vervallen
 
-2. Dit artikel vervalt met ingang van 1 januari 2012.
+## Bijlage 1. als bedoeld in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2012-01-01&g=2012-01-01)
 
-## Bijlage 1d
+### 1. Inleiding
 
-### Documenthistorie
-
-Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur voor een Landelijk Register Kinderopvang. De opzet van het document is gebaseerd op de Nederlandse Overheid Referentie Architectuur (NORA).
+Voor de ontwikkeling van het systeemcomplex LR KO&PSW is gekozen voor een gefaseerde aanpak. Eerst is alleen LRK ontwikkeld, opgeleverd en in productie genomen. Daarna is de koppeling met de belastingdienst toegevoegd. Gevolgd door KOT&B en PSW.
 
 ### Documenthistorie
 
-De doelgroep voor deze PSA is divers:
-
-### 1.2. Scope van dit document
-
-Dit document is een PSA en werkt het ‘negen + twee’-vlakmodel van de NORA uit . Voor een gedetailleerde toelichting wordt verwezen naar het NORA 2.0 rapport.
+Dit document beschrijft in de eerste plaats de globale structuur, functionaliteit en werking van het systeemcomplex LR KO&PSW. Informatiesystemen en hun opbouw vormen daarmee het centrale aspect van dit document. Zaken als de met behulp van het complex ondersteunde processen, en beveiliging en beheer worden aangestipt, maar niet tot in de details behandeld.
 
 ### 1.3. Leeswijzer
 
-In hoofdstuk 2 wordt de achtergrond van het programma en de oplossing geschetst.
+De referenties, afkortingen en begrippen, en de definities en basisprincipes van NORA zijn opgenomen in de bijlagen.
 
-### 1.4. Relatie met de andere architectuurdocumenten
+### 2. Achtergrond
+
+De implementatie van de [Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) resulteert in de invoering van de registers kinderopvang en peuterspeelzalen. Daarbij zijn de volgende actoren betrokken:
+
+### 2.3. Kern van de oplossing
 
 In dit deel van het project wordt een aantal andere architecturen toegepast als kaderstellend:
 
 ### 1.5. Relatie met andere documenten op lager niveau
 
-Daarnaast zijn er in het aandachtsgebied Kinderopvang een aantal andere referentiearchitecturen bekend, maar waarvan is vastgesteld, dat deze **in deze eerste fase tot 1-1-2010 niet van toepassing zijn**. Te denken valt aan GEMMA, de gemeentelijke Model Archtitectuur en de Model Architectuur voor Rijkstoezichts- en Handhavingseenheden (MARTHE) [4].
+Indirect wordt het verstrekken van kinderopvangtoeslag door de belastingdienst ondersteund. De belastingdienst maakt bij dat toeslagproces gebruik van gegevens met betrekking tot geregistreerde organisaties voor kinderopvang.
 
-### 1.5. Relatie met andere documenten op lager niveau
+### 3.1.3. Externe systemen
 
-Het programma bestaat, om dit brede doel te realiseren, uit een aantal deelprojecten zoals Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
+Uitgangspunt bij het ontwerp van het systeemcomplex LR KO&PSW is dat – waar mogelijk – gebruik wordt gemaakt van open standaarden en open source producten.
 
 ### 2.2. Probleem en oplossing
 
@@ -2154,9 +2154,9 @@ Om de bovengenoemde problemen op te lossen is een integrale aanpak nodig, zowel 
 
 ### 2.3. Projectaanpak
 
-Daarnaast moeten de volgende doelstellingen meegenomen worden:
+Het systeemcomplex wordt gebruikt om de volgende services te leveren:
 
-### 2.3. Projectaanpak
+### 4.3. Processen
 
 Zoals hierboven al benoemd is de kern van het op te leveren complex van ICT-voorzieningen het **register** zelf en de andere benoemde voorzieningen ten behoeve van de ontsluiting van de registergegevens.
 
@@ -2164,49 +2164,49 @@ Zoals hierboven al benoemd is de kern van het op te leveren complex van ICT-voor
 
 In deze context ziet de omgeving als volgt uit:
 
-### 3. Scope en uitgangspunten
+### 5.1. Mensen en applicaties
 
-De scope van de eerste iteratie van het project heeft gevolgen voor de mate waaraan aan de verschillende referentiearchitecturen wordt voldaan.
+Het systeemcomplex LR KO&PSW bestaat uit de volgende applicaties:
 
-### 3.1.1. Processcope ondersteuning
+### 5.1.3. CU-Matrix
 
 Vooruitlopend op een meer gedetailleerde uitwerking in de verschillende hoofdstukken over de bedrijfs-, informatie en technische architectuur (resp. hoofdstuk 4, 5 en 6) wordt in deze iteratie een drietal systeemcomponenten gerealiseerd, die in vervolgfasen verder geïntegreerd zullen worden met de overige benodigde componenten.
 
-### 3.1.1. Processcope ondersteuning
+### 5.2.1. Objectmodel
 
-Deze PSA beschrijft de volgende voorzieningen:
+Het centrale object binnen LR KO&PSW is de **Voorziening**. Een **Voorziening** is van een **Houder**, en heeft een **Adres. Voorziening**en zijn of een OKO, of een peuterspeelzaal. Geregistreerde **Voorziening**en zijn opgenomen in registers. Geregistreerde OKO's in het **Landelijk Register Kinderopvang**; geregistreerde peuterspeelzalen in het **Landelijk Register Peuterspeelzalen**. Relevante objecten in de omgeving van LR KO&PSW zijn de **Persoonsgegevens** bij GBA, en de **Geregistreerde Organisaties voor Kinderopvang** bij de belastingdienst.
 
-### 3.1.1. Processcope ondersteuning
+### 5.2.1.1. Object Houder
 
 In deze fase zijn nog geen externe systemen in scope.
 
 ### 3.1.3. Externe systemen
 
-In deze fase zijn nog geen externe systemen in scope.
+Een **Voorziening** heeft een status. Wanneer een **Voorziening** wordt aangemeld bij een gemeente wordt de status op ‘Aangemeld’ gezet. Na de beschikking van het college wordt die status veranderd in ‘Geregistreerd’ of ‘Afgewezen’. Wanneer de exploitatie van een **Voorziening** stopt wordt de status veranderd in ‘Niet meer geregistreerd’.
 
-### 3.2. Uitgangspunten algemeen en ontwerpbeslissingen
+### 5.2.1.3. Object Adres
 
-De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te verbeteren. Daarvoor worden in toenemende maten standaarden benoemd en afspraken gemaakt over de wijze waarop met elkaar gecommuniceerd gaat worden. De NORA is daarvan een uitvloeisel. Om toe te lichten op welke wijze dit ICT-project de NORA principes interpreteert worden de 20 fundamentele principes genoemd en vertaald naar de projectarchitectuur.
+Het **Landelijk register kinderopvang** is de verzameling van alle OKO's die geregistreerd staan, of geregistreerd hebben gestaan.
 
-### 4. Bedrijfsarchitectuur
+### 5.2.1.5. Object Landelijk register peuterspeelzalen
 
-NB: De referentiearchitectuur Onderwijs bevat een interpretatie van de NORA principes die in beginsel van toepassing zijn op deze PSA, zij het dat in de eerste oplevering zoals nu voorziening is per 1-1-2010 niet aan alle principes kan worden voldaan. De reden is dat een deel buiten verantwoordelijkheid van het ICT-project valt, voorts wordt er nu nog geen integrale oplossing wordt gerealiseerd, slechts alleen het Landelijk Register onderdeel. Voor inhoudelijke vertaling van de principes van OCW, wordt verwezen naar het document ‘Referentiearchitectuur Onderwijs’ d.d. 29 september 2008 van B. Gaakeer.
+Het **Landelijk register peuterspeelzalen** is de verzameling van alle peuterspeelzalen die geregistreerd staan, of geregistreerd hebben gestaan.
 
-### 4. Bedrijfsarchitectuur
+### 5.2.1.6. Object Persoonsgegevens
 
-De bedrijfsarchitectuur beschrijft de samenhang tussen de diensten en services die de LR moet leveren aan de verschillende belanghebbenden (actoren) die betrokken zijn bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017). Om de diensten en services te kunnen leveren, moeten organisaties samenwerken en processen uitvoeren. De processen worden in dit hoofdstuk op hoofdlijnen toegelicht. De processen zijn echter inrichtingsonafhankelijk beschreven en blijven op hoofdlijnen, enerzijds omdat gemeenten en GGD'en eigen keuzes kunnen maken over de wijze waarop men de processen wil inrichten, anderzijds omdat het deelprogramma Implementatie de processen en procedures nader zal uitdiepen.
+Het systeemcomplex LR KO&PSW stuurt de belastingdienst berichten die de belastingdienst gebruikt om het object **Geregistreerde organisaties voor kinderopvang** op te bouwen.
 
-### 4.1. Inleiding
+### 5.2.2. Gegevens
 
-In hoofdstuk 3 zijn de fundamentele principes van de NORA behandeld. De relevante **afgeleide** principes worden in deze paragraaf nader toegelicht. Per principe wordt een toelichting gegeven op de wijze waarop deze PSA het principe interpreteert.
+Deze gegevensgroep is een afbeelding van het centrale deel van het object **Voorziening**. De groep bevat de gegevens van een organisatie voor kinderopvang of peuterspeelzaal. Mutaties op deze gegevensgroep kunnen met betrekking op verleden, heden en toekomst worden aangebracht. De mutatiehistorie van deze gegevensgroep wordt vastgelegd, om tijdreizen mogelijk te maken. (Tijdreizen maakt het mogelijk om te bepalen hoe een gegevensgroep er op een bepaalde dag uit heeft gezien/ uit zal zien.)
 
 ### 4.3. Organisatie
 
-Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) zijn de volgende organisaties betrokken:
+Deze groep heeft een relatie met de gegevensgroep:
 
 ### 4.4. Processen
 
-Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) worden processen uitgevoerd door verschillende organisaties die uiteindelijk het doel van de wet moeten gaan realiseren:
+Deze groep heeft een relatie met de gegevensgroepen:
 
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
 
@@ -2214,11 +2214,11 @@ Verantwoordelijk voor de uitvoering:
 
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
 
-De NORA hanteert een paradigma om de hiërarchie van procestypen te duiden. De voornoemde procesplaat is te matchen met de NORA-definities, zoals uitgewerkt in onderstaande tabel.
+Deze groep heeft een relatie met de gegevensgroepen:
 
 ### 4.4.2. Ketenproces Registreren nieuwe kinderopvang
 
-De **bedrijfsprocessen** zijn een decompositie van de ketenprocessen.
+Deze gegevensgroep bevat de gegevens van de GGD-en.
 
 ### 4.4.2.2. ICT-ondersteuning functies tbv Registreren
 
@@ -2234,15 +2234,15 @@ De gemeente behandelt de gemelde wijzigingen en neemt een besluit om vervolgens 
 
 ### 4.4.3.1. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
 
-De eerste oplevering zal voor het publiek, de GGD, de BD en de IvhO functionaliteiten opleveren voor het raadplegen van gegevens uit het LR. De gegevens die getoond mogen worden is vastgelegd in de Wet.
+De publieksportaal client is in essentie een webbrowser draaiend op een platform dat verbonden is met het internet. In principe kan hiervoor elke webbrowser worden gebruikt, maar de werking is alleen met een aantal specifieke browsers getest, en alleen die browsers worden ondersteund. De ondersteunde browsers zijn Internet Explorer versie 6, 7 en 8, en Firefox versie 3.6. Waarbij geldt dat alleen de laatste (van alle patches voorziene) varianten van deze versies worden ondersteund.
 
-### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
+### 6.1.1.2. Publieksportaal (PP)
 
-De eerste oplevering zal voor het publiek, de GGD, de BD en de IvhO functionaliteiten opleveren voor het raadplegen van gegevens uit het LR. De gegevens die getoond mogen worden is vastgelegd in de Wet.
+Het publieksportaal draait in een GlassFish cluster onder CentOS Linux.
 
-### 4.5. Diensten en services
+### 6.1.1.3. OP Client
 
-Deze paragraaf beschrijft welke diensten en services de Gemeenschappelijke Inspectieruimte biedt. In de NORA wordt met een DIENST bedoelt het resultaat of effect van een afgeronde inspanning die de overheid op basis van wettelijke taken levert en waarmee in een behoefte van een burger of bedrijf wordt voorzien. Een service is vrij vertaald een interne dienst, ofwel tussen overheidsorganisaties.
+De overheidsportaal client is in essentie een webbrowser draaiend op een platform dat verbonden is met het internet. In principe kan hiervoor elke webbrowser worden gebruikt, maar de werking is alleen met een aantal specifieke browsers getest, en alleen die browsers worden ondersteund.
 
 ### 4.5.1. Diensten
 
@@ -2254,11 +2254,11 @@ Vanuit het NORA-perspectief levert het LR de volgende diensten:
 
 ### 4.5.2. Geleverde services
 
-Vanuit het NORA-perspectief levert het LR de volgende diensten:
+Deze applicatie wordt door beheer gebruikt voor het onderhouden van gebruikers met rollen en rechten, en het beheren van tabellen.
 
 ### 4.5.3. Gebruikte services
 
-Deze componenten worden als afzonderlijke ICT producten beschouwd die samen moeten werken om benodigde functionaliteit te kunnen leveren aan de eindgebruikers.
+BAP Services is een maatwerk applicatie voor het raadplegen van de GBA.
 
 ### 5.2. Architectuurplaat
 
@@ -2266,11 +2266,11 @@ In de eerste oplevering van het systeemcomplex (1-1-2010) wordt een beperkte set
 
 ### 5.2. Architectuurplaat
 
-Het aantal afzonderlijke gebruikersaccounts per doelgroep wordt nader bepaald.
+De koppeling draait in GlassFish onder CentOS Linux.
 
-### 5.2. Architectuurplaat
+### 6.1.2. Databases
 
-Referentiearchitectuur Onderwijs bevat aantal generieke principes die van invloed zijn op de positionering van door het project op te leveren ICT informatievoorzieningen binnen de e-overheid en op de keuzes van functionele scope van de afzonderlijke componenten van het systeemcomplex.
+Het LR is een Oracle database waarin de gegevens van de registers worden opgeslagen.
 
 ### 5.3.2. Relevante NORA principes
 
@@ -2278,11 +2278,11 @@ In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register beha
 
 ### 5.3.2.1. Applicaties
 
-In onderstaand overzicht zijn alle relevante ontwerpbeslissingen die betrekking hebben op het gegevensmodel vastgelegd.
+Binnen LR KO&PSW wordt gebruikgemaakt van de operating systemen Linux, in de smaken CentOS en Oracle, en MS Server.
 
-### 5.4.1. Ontwerpbeslissingen gegevensmodel
+### 6.4. Netwerkarchitectuur
 
-In onderstaand overzicht zijn alle relevante ontwerpbeslissingen die betrekking hebben op het gegevensmodel vastgelegd.
+De clients maken via https over het Internet contact met het beveiligde LAN van DUO, waarin de servers van LR KO&PSW staan opgesteld. GBA Services is via SuwiNet en GemNet verbonden met GBA-V. Voor de koppeling met de belastingdienst wordt gebruikgemaakt van een digikoppeling van het type ebMS.
 
 ### 5.4.3. Objectdefinities
 
@@ -2296,7 +2296,7 @@ Aantal objecten in het model zijn abstracties die zorgen voor de semantische con
 
 Aantal objecten in het model zijn abstracties die zorgen voor de semantische consistentie van het model en aansluiting op de Semantische kern van het Stelsel van Basisregistraties. Ze kunnen ook worden gedefinieerd zijn verzamelbegrippen die gebruikt worden om gemeenschappelijke kenmerken en gedrag van concrete objecten uit de werkelijkheid aan te duiden.
 
-### 5.4.4. Historie en tijdslijnen
+### 7.2. Beheer applicaties
 
 Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bewaren van oorspronkelijke waarden van gegevens bij de mutaties, te weten:
 
@@ -2304,13 +2304,13 @@ Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bew
 
 Datums van mutaties van gegevens in het LR hebben betrekking op de administratieproces. Moment van opname of wijziging van gegevens in het LR kan van belang zijn voor het bepalen van rechtsgeldigheid van besluiten die op basis van gegeven in het LR zijn genomen.
 
+### B. NORA-definities
+
+In deze bijlage staan de relevante definities uit NORA opgenomen.
+
 ### 5.5. Berichten
 
-Op basis van deze beschouwing kan de vastgesteld worden over de inrichting van het LR:
-
-### 5.5. Berichten
-
-Dit hoofdstuk beschrijft de eisen en kaders die gebruikt worden bij de ontwikkeling van het systeemcomplex Landelijk Register Kinderopvang.
+Een “ketenproces” is een geordende reeks services die door verschillende organisaties aan elkaar worden geleverd met als doel om via één organisatie een (combinatie van) dienst(en) te leveren aan een burger of een bedrijf. We spreken hier bij voorkeur over het ‘interactieperspectief’.
 
 ### 6.1. Architectuureisen
 
@@ -3024,7 +3024,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. vervallen.
 
-2. In aanvulling op het eerste lid kan de Minister van Sociale Zaken en Werkgelegenheid een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 2, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
+2. In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 2, onder b, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
 
 3. Een aanwijzing, bedoeld in het tweede lid, kan alleen plaatsvinden indien het certificaat slechts wordt afgegeven indien ten minste de volgende inhoudelijke criteria zijn getoetst:
 
@@ -3058,9 +3058,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 6. Gemeentelijk jaarverslag
 
-#### Paragraaf 7. Kinderopvang buiten Nederland
+#### Paragraaf 5b. Administratie van gegevens peuterspeelzalen
 
-#### Paragraaf 8. Overgangs- en slotbepalingen
+#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
 
 ##### Artikel 17a*
 
@@ -3078,13 +3078,13 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ### 1.3. Leeswijzer
 
-### 1.4. Relatie met de andere architectuurdocumenten
+### 3.1. Scope
 
-GEMMA is nog buiten beschouwing aangezien de scope van deze PSA alleen het Landelijk Register en de ontsluiting ervan via portalen betreft en niet de ontsluiting via berichten. Ook zijn de processen niet relevant aangezien deze onder het deel-project Implementatie en niet ICT vallen. Wel is het onderdeel RSGB meegenomen in de beschrijving van het gegevensmodel.
-
-### 1.6. Woordenlijst
+Tot de scope van het systeemcomplex dat begin 2012 in productie is, behoren de koppelvlakken met de belastingdienst en met de gemeentelijk basisadministraties. De koppelvlakken met de gemeenten en het nieuw handelsregister zijn dan nog niet in productie.
 
 ### 1.6. Woordenlijst
+
+### 3.2. Uitgangspunt
 
 Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
@@ -3100,9 +3100,9 @@ Het programma Landelijk Register Kinderopvang is een breed programma dat uiteind
 
 ### 3.2. Uitgangspunten algemeen en ontwerpbeslissingen
 
-### 4. Bedrijfsarchitectuur
+### 5.2.1.7. Object Geregistreerde organisaties voor kinderopvang
 
-### 4.2. Architectuureisen
+### 5.2.2.1. LRK
 
 ### 4.3. Organisatie
 
@@ -3114,17 +3114,17 @@ Het programma Landelijk Register Kinderopvang is een breed programma dat uiteind
 
 ### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
 
-Mate van ICT-ondersteuning: het raadplegen van gegevens uit het LR wordt ondersteund. Daarnaast komt er voor geautoriseerde gebruikers bij of namens de gemeenten functionaliteit om gegevens te muteren in het LR.
+Aan de applicaties van het systeemcomplex worden eisen op het gebied van performance, beveiliging en beschikbaarheid gesteld. De eisen op het gebied van performance hebben betrekking op de door de gebruiker ervaren reactietijd van het systeemcomplex. Dit is gedefinieerd als de tijd die verstrijkt tussen het moment waarop een gebruiker op een scherm zijn wensen heeft kenbaar gemaakt (door het invullen van nul, een of meer velden gevolgd door het drukken op een knop die de verwerking triggert), en het moment waarop de inhoudt van het scherm begint te veranderen. Voor normale transacties is die reactietijd gesteld op 3 à 4 seconden (operationeel: in 95% van de gevallen mag die reactietijd niet langer zijn dan 4 seconden). Voor bijzondere transacties (complexe zoekopdrachten en transacties met documenten) mag de reactie tijd oplopen tot tien seconden (mag in 95% van de gevallen niet groter zijn dan 10 seconden).
 
 ### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
 
-### 4.4.3.2. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
+### 6.1.1.1. PP Client
 
 ### 5. Informatiearchitectuur
 
 ### 5.3. Architectuureisen
 
-Referentiearchitectuur Onderwijs bevat aantal generieke principes die van invloed zijn op de positionering van door het project op te leveren ICT informatievoorzieningen binnen de e-overheid en op de keuzes van functionele scope van de afzonderlijke componenten van het systeemcomplex.
+Het LR draait in een Oracle cluster onder Oracle Linux.
 
 Onderstaande figuur geeft de middellange termijn visie aan op de samenhang van de informatievoorzieningen binnen sector Onderwijs:’
 
@@ -3132,7 +3132,7 @@ Onderstaande figuur geeft de middellange termijn visie aan op de samenhang van d
 
 ### 5.4.4. Historie en tijdslijnen
 
-### 5.4.4.2. Basis principes
+### 8.1. Beveiligingsaspecten bedrijfsarchitectuur
 
 ### 5.5. Berichten
 
@@ -3288,7 +3288,7 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ## Bijlage 1g
 
-### 1.1. Doelgroep
+### 1.2. Scope van dit document
 
 ### 1.2. Scope van dit document
 
@@ -3298,19 +3298,19 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 MARTHE is nog niet relevant aangezien het als architectuur iets zegt over de processen Toezicht houden en Handhaven en deze zijn beide voor deze PSA-versie nog buiten scope.
 
-### 2.2.2. Oplossing
+### 4.2. Diensten en services
 
 ### 2.4. Kern van de oplossing
 
-### 3.1. Scope
+### 5.1.1. Mensen
 
-### 3.1. Scope
+### 5.1.2. Applicaties
 
 ### 3.1.3. Externe systemen
 
 ### 3.3. Kaders en standaarden
 
-### 3.3. Kaders en standaarden
+### 5.2.1.4. Object Landelijk register kinderopvang
 
 ### 4.1. Inleiding
 
@@ -3324,21 +3324,21 @@ MARTHE is nog niet relevant aangezien het als architectuur iets zegt over de pro
 
 ### 4.4.2.2. ICT-ondersteuning functies tbv Registreren
 
-### 5.1. Architectuuropzet
+### 6.1.1.6. Overheidsportaal (OP)
 
 ### 5.1. Architectuuropzet
 
 ### 5.3.1. Relevante principes Referentiearchitectuur Onderwijs
 
-### 5.3.1. Relevante principes Referentiearchitectuur Onderwijs
+### 6.1.2.1. LR
 
-Op dit moment is Kinderopvang niet expliciet benoemd in de architectuur. Om die reden is positioneren van het systeemcomplex in de architectuur van het sector niet eenvoudig. Er kan wel gebruik worden gemaakt van aantal principes die betrekking hebben op de beschreven diensten die Portalen (Portaal Burger en Portaal Instelling) uit de geciteerde architectuurplaat bieden.
+KOT&B is een Oracle database waarin de gegevens van de gebruikers, met rollen en rechten, en de verschillende tabellen worden opgeslagen.
 
-### 5.3.2.2. Gegevens
+### 6.3. Platformen
 
 In onderstaand overzicht zijn alle relevante ontwerpbeslissingen die betrekking hebben op het gegevensmodel vastgelegd.
 
-Het zijn de objecten wiens opname in het Register niet noodzakelijk is voor de uitvoering van de Wet, maar wel wenselijk is uit de oogpunt van dienstverlening naar de Burger.
+Functioneel beheer draagt zorg voor het – als benodigd en gewenst – kunnen gebruiken van het systeemcomplex LR KO&PSW. Tot de taken van functioneel beheer behoren:
 
 ### 5.4.4.2. Basis principes
 
@@ -3494,19 +3494,19 @@ Deze module heeft geen eigen data.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### 1. Inleiding
+### 1.1. Doelgroep
 
 ### 1.2. Scope van dit document
 
-### 1.3. Leeswijzer
+### 2.1. Beschrijving context
 
-### 1.4. Relatie met de andere architectuurdocumenten
+### 3. Scope en uitgangspunten
 
-### 2.2.2. Oplossing
+### 4.1. Organisaties
 
-### 2.3. Projectaanpak
+### 4.2.2. Services
 
-### 2.3. Projectaanpak
+### 4.3.1. Vergunning tot het exploiteren van een voorziening
 
 ### 4.2. Architectuureisen
 
@@ -3522,13 +3522,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 4.4.2.2. ICT-ondersteuning functies tbv Registreren
 
-### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
+### 5.3.2. Belastingdienst
 
-### 4.4.3.1. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
+### 6.1. Applicaties en databases
 
 ### 4.5. Diensten en services
 
-### 5.4.4.2. Basis principes
+### 8. Beveiliging
 
 ### 6.1. Architectuureisen
 
@@ -3634,13 +3634,13 @@ Als buiten Nederland gevestigde voorzieningen voor gastouderopvang die worden ge
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de Minister van Sociale Zaken en Werkgelegenheid, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2011-04-15&g=2011-04-15), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2011-04-15&g=2011-04-15) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2011-04-15&g=2011-04-15).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2012-01-01&g=2012-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2012-01-01&g=2012-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2012-01-01&g=2012-01-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
 3. De Directeur-generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in het eerste en tweede lid, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat de Directeur-generaal geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt, is verleend.
 
-#### Paragraaf 5a. Bepalingen voor gastouderbureaus
+#### Paragraaf 5a. Bepalingen voor gastouderbureaus en vraagouders
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -3658,7 +3658,7 @@ Als buiten Nederland gevestigde voorzieningen voor gastouderopvang die worden ge
 
 ### 5.1. Architectuuropzet
 
-### 5.4.4.2. Basis principes
+### 8.2. Beveiligingsaspecten informatiearchitectuur
 
 ### 6.1. Architectuureisen
 
@@ -3697,5 +3697,89 @@ De handelingen worden ook in de audit trail vastgelegd.
 Deze module heeft geen eigen data.
 
 ## Bijlage 3
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11f. Betalingstermijn vraagouder
+
+De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen twee kalendermaanden na afloop van het tijdvak waarover de kosten op grond van de overeenkomst worden berekend.
+
+##### Artikel 11g. Inrichting administratie peuterspeelzaal
+
+1. De administratie van een peuterspeelzaal is zodanig ingericht dat op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19), tijdig de gegevens, bedoeld in het tweede lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften van belang zijn.
+
+2. De administratie van een peuterspeelzaal bevat de volgende gegevens:
+
+- a. een overzicht van alle bij die peuterspeelzaal werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften;
+
+- b. afschriften van alle afgegeven verklaringen omtrent het gedrag afgegeven volgens de Wet justitiële en strafvorderlijke gegevens van bij de peuterspeelzaal werkzame personen;
+
+- c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 2.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.9),
+
+- d. een overzicht van de omvang en de samenstelling van de oudercommissie, bedoeld in [artikel 2.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.15);
+
+- e. een afschrift van het reglement van de oudercommissie, bedoeld in [artikel 2.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.16); en
+
+- f. een overzicht van alle ingeschreven kinderen, vermeldende per kind: naam, geboortedatum, adres, postcode, woonplaats, telefoonnummer en het adres en telefoonnummer van de ouders en de dagdelen waarvoor een kind is ingeschreven.
+
+3. De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.
+
+#### Paragraaf 6. Gemeentelijk jaarverslag
+
+#### Paragraaf 7. Kinderopvang buiten Nederland
+
+#### Paragraaf 8. Overgangs- en slotbepalingen
+
+Een beschrijving van het systeemcomplex LR KO&PSW bevattende de landelijke registers kinderopvang en peuterspeelzalen
+
+### 2.2. Probleemgebied
+
+### 5.2.3. Opslag
+
+### 5.2.4. Berichten
+
+### 5.2.4.1. GBA
+
+### 5.2.4.2. Belastingdienst
+
+### 5.3. Informatie-uitwisseling
+
+### 6.1.1.7. BAP Services
+
+### 8.3. Beveiligingsaspecten technische architectuur
+
+### C. NORA principes
+
+### D. Begrippenlijst
+
+## Bijlage 1a
+
+Vervallen
+
+## Bijlage 1b
+
+Vervallen
+
+## Bijlage 1c
+
+Vervallen
+
+## Bijlage 1d
+
+Vervallen
+
+## Bijlage 1e
+
+Vervallen
+
+## Bijlage 1f
+
+Vervallen
+
+## Bijlage 1g
+
+Vervallen
+
+## Bijlage 2. als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2012-01-01&g=2012-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
