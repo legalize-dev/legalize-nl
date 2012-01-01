@@ -4,7 +4,7 @@ identifier: "BWBR0023009"
 country: "nl"
 rank: "wet"
 publication_date: "2025-06-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023009"
 soort: "wet"
@@ -149,7 +149,7 @@ Deze wet is niet van toepassing op schepen:
 
 1. Het is een onderneming of degene die een onderneming drijft verboden bedrijfsmatig goederen te vervoeren, anders dan bestemd voor of afkomstig van de eigen onderneming, zonder dat aan deze onderneming een persoon verbonden is aan wie een bewijs van vakbekwaamheid is afgegeven voor het bedrijfsmatig vervoer van goederen en die daadwerkelijk en bij voortduring leiding geeft aan de vervoersactiviteit van de onderneming.
 
-2. Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.
+2. Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing.
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot het aantonen van de vakbekwaamheid, waaronder in ieder geval zijn begrepen de vereiste kennisgebieden en de vereiste scholing of praktijkervaring.
 
@@ -179,7 +179,7 @@ Deze wet is niet van toepassing op schepen:
 
 ##### Artikel 9
 
-1. Onze Minister of de bevoegde autoriteit verstrekt op aanvraag voor het binnenschip een certificaat van onderzoek, indien bij onderzoek is gebleken, dat is voldaan aan de regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01).
+1. Onze Minister of de bevoegde autoriteit verstrekt op aanvraag voor het binnenschip een certificaat van onderzoek, indien bij onderzoek is gebleken, dat is voldaan aan de regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01).
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de geldigheidsduur van een certificaat van onderzoek, alsmede de voorwaarden waaronder een verloren gegaan of beschadigd exemplaar kan worden vervangen.
 
@@ -207,9 +207,9 @@ Het is verboden een binnenschip te gebruiken waarvan de toestand, het gebruik en
 
 ##### Artikel 13
 
-1. Onze Minister kan met betrekking tot bepaalde categorieën van binnenschepen van een of meer van de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01) gestelde regels vrijstelling verlenen, indien naar zijn oordeel de veiligheid van de binnenschepen en de opvarenden voldoende gewaarborgd is. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.
+1. Onze Minister kan met betrekking tot bepaalde categorieën van binnenschepen van een of meer van de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01) gestelde regels vrijstelling verlenen, indien naar zijn oordeel de veiligheid van de binnenschepen en de opvarenden voldoende gewaarborgd is. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.
 
-2. Onze Minister kan in bijzondere gevallen ontheffing verlenen van een of meer van de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01) gestelde regels. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
+2. Onze Minister kan in bijzondere gevallen ontheffing verlenen van een of meer van de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01) gestelde regels. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
 3. Onze Minister kan een krachtens het tweede lid verleende ontheffing intrekken, indien de aldaar bedoelde voorschriften niet worden nageleefd.
 
@@ -229,7 +229,7 @@ Het is verboden een binnenschip te gebruiken waarvan de toestand, het gebruik en
 
 ##### Artikel 15
 
-1. Ten aanzien van een schip waarvoor een certificaat van onderzoek is afgegeven kan Onze Minister in de gevallen, bedoeld in [artikel 11, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), of bij vermoeden van ernstige gebreken aan het schip een onderzoek instellen.
+1. Ten aanzien van een schip waarvoor een certificaat van onderzoek is afgegeven kan Onze Minister in de gevallen, bedoeld in [artikel 11, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), of bij vermoeden van ernstige gebreken aan het schip een onderzoek instellen.
 
 2. Onze Minister kan naar aanleiding van het onderzoek aanwijzingen geven aan de eigenaar van het schip.
 
@@ -237,7 +237,7 @@ Het is verboden een binnenschip te gebruiken waarvan de toestand, het gebruik en
 
 Onze Minister kan het certificaat intrekken, indien:
 
-- a. bij het onderzoek blijkt dat niet wordt voldaan aan de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), bedoelde regels;
+- a. bij het onderzoek blijkt dat niet wordt voldaan aan de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01), bedoelde regels;
 
 - b. bij het onderzoek blijkt dat bij gebruik van het schip de veiligheid van de vaart in gevaar wordt gebracht;
 
@@ -257,11 +257,11 @@ Onze Minister kan het certificaat intrekken, indien:
 
 ##### Artikel 18
 
-De kosten van een onderzoek en daarmee samenhangende werkzaamheden, voor zover deze worden verricht door Onze Minister of de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=14&z=2011-01-01&g=2011-01-01), bedoelde diensten en personen, komen ten laste van het Rijk:
+De kosten van een onderzoek en daarmee samenhangende werkzaamheden, voor zover deze worden verricht door Onze Minister of de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=14&z=2012-01-01&g=2012-01-01), bedoelde diensten en personen, komen ten laste van het Rijk:
 
-- a. indien naar aanleiding van een vermoeden ten aanzien van de aanwezigheid van ernstige gebreken aan het schip op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=15&z=2011-01-01&g=2011-01-01) een onderzoek is ingesteld en gebleken is, dat het vermoeden onjuist is geweest; of
+- a. indien naar aanleiding van een vermoeden ten aanzien van de aanwezigheid van ernstige gebreken aan het schip op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=15&z=2012-01-01&g=2012-01-01) een onderzoek is ingesteld en gebleken is, dat het vermoeden onjuist is geweest; of
 
-- b. indien ingevolge [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=17&z=2011-01-01&g=2011-01-01), het gebruik van een schip is onderbroken en gebleken is, dat het onderbreken ten onrechte is geschied.
+- b. indien ingevolge [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=17&z=2012-01-01&g=2012-01-01), het gebruik van een schip is onderbroken en gebleken is, dat het onderbreken ten onrechte is geschied.
 
 ##### Artikel 19
 
@@ -284,6 +284,8 @@ Deze paragraaf is van toepassing op:
 1. Het is verboden een schip te gebruiken zonder geldige meetbrief, afgegeven op grond van de op 15 februari 1966 te Genève tot stand gekomen Overeenkomst nopens de meting van binnenvaartuigen (Trb.1967, 43).
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de meting en de meetbrieven.
+
+3. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de afgifte van meetbrieven krachtens het tweede lid, voor zover het gaat om de afgifte van een gewaarmerkt afschrift van eerder afgegeven meetbrieven die verloren zijn geraakt of door slijtage ongeldig zijn geworden.
 
 #### § 3. Bemanning
 
@@ -331,11 +333,11 @@ Deze paragraaf is van toepassing op:
 
 2. Bij of krachtens algemene maatregel van bestuur worden voorschriften gesteld met betrekking tot de geneeskundige verklaring.
 
-3. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2011-01-01&g=2011-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2012-01-01&g=2012-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 24
 
-1. Een ambtenaar als bedoeld in [artikel 40, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01), kan vorderen dat binnen een door hem te stellen termijn een nieuw geneeskundig onderzoek wordt uitgevoerd, indien hij redelijkerwijs vermoedt dat de houder daarvan niet meer voldoet aan de eisen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2011-01-01&g=2011-01-01).
+1. Een ambtenaar als bedoeld in [artikel 40, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01), kan vorderen dat binnen een door hem te stellen termijn een nieuw geneeskundig onderzoek wordt uitgevoerd, indien hij redelijkerwijs vermoedt dat de houder daarvan niet meer voldoet aan de eisen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2012-01-01&g=2012-01-01).
 
 2. Indien een geneeskundige verklaring wordt afgegeven overeenkomstig het eerste lid, komen de kosten van afgifte ten laste van het Rijk.
 
@@ -353,7 +355,13 @@ Deze paragraaf is van toepassing op:
 
 4. Het is verboden een schip te gebruiken zonder dat aan de gezagvoerder het daarvoor vereiste geldige vaarbewijs is afgegeven.
 
-5. Het is degene die weet of redelijkerwijs moet weten, dat een op zijn naam gesteld vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, verboden een binnenschip gedurende dat gedeelte of het geheel van de geldigheidsduur te voeren of als gezagvoerder te doen voeren.
+5. Het voeren of als gezagvoerder doen voeren van een binnenschip is verboden aan degene:
+
+- a. die weet of redelijkerwijs moet weten dat een op zijn naam gesteld vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur,
+
+- b. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging, of
+
+- c. van wie het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), met toepassing van de [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35a) of [35c van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35c) is ingenomen en niet is teruggegeven.
 
 ##### Artikel 26
 
@@ -371,17 +379,21 @@ Deze paragraaf is van toepassing op:
 
 ##### Artikel 27
 
-1. Een vaarbewijs wordt niet afgegeven aan degene:
+1. Een vaarbewijs of bewijs van vrijstelling of ontheffing, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), wordt niet afgegeven aan degene:
 
 - a. die de leeftijd van 18 jaar nog niet heeft bereikt;
 
-- b. van wie het vaarbewijs ongeldig is verklaard, gedurende de periode van ongeldigheid.
+- b. van wie het bewijs ongeldig is verklaard, gedurende de termijn van ongeldigheid;
+
+- c. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging; of
+
+- d. van wie het bewijs met toepassing van de [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35a) of [35c van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35c) is ingenomen en niet is teruggegeven.
 
 2. Voor de toepassing van het eerste lid, onderdeel b, wordt onder vaarbewijs mede verstaan een vaarbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woont.
 
 ##### Artikel 28
 
-1. Onze Minister wijst de deskundigen aan die belast zijn met het onderzoek naar de lichamelijke en geestelijke geschiktheid, bedoeld in [artikel 26, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2011-01-01&g=2011-01-01). De deskundige geeft een verklaring af, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
+1. Onze Minister wijst de deskundigen aan die belast zijn met het onderzoek naar de lichamelijke en geestelijke geschiktheid, bedoeld in [artikel 26, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2012-01-01&g=2012-01-01). De deskundige geeft een verklaring af, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
 
 2. Indien de in het eerste lid bedoelde verklaring daartoe aanleiding geeft, kunnen aan het vaarbewijs voorschriften of beperkingen worden verbonden, die op het vaarbewijs worden opgenomen.
 
@@ -397,7 +409,7 @@ Deze paragraaf is van toepassing op:
 
 ##### Artikel 29
 
-1. Onze Minister wijst de instellingen of personen aan die belast zijn met het onderzoek naar de kennis en bekwaamheid als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2011-01-01&g=2011-01-01). Zij verstrekken een verklaring, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
+1. Onze Minister wijst de instellingen of personen aan die belast zijn met het onderzoek naar de kennis en bekwaamheid als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2012-01-01&g=2012-01-01). Zij verstrekken een verklaring, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
 
 2. Het onderzoek kan geheel of gedeeltelijk achterwege blijven, indien de aanvrager in het bezit is van:
 
@@ -405,7 +417,7 @@ Deze paragraaf is van toepassing op:
 
 - b. een vaarbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur;
 
-- c. een door Onze Minister ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=32&z=2011-01-01&g=2011-01-01), erkend gelijkwaardig document of bewijs van kennis en bekwaamheid voor de binnenvaart.
+- c. een door Onze Minister ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01), erkend gelijkwaardig document of bewijs van kennis en bekwaamheid voor de binnenvaart.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot:
 
@@ -427,17 +439,17 @@ Deze paragraaf is van toepassing op:
 
 - e. naar zijn oordeel de houder niet over de kennis of bekwaamheid beschikt die is vereist voor het voeren van een binnenschip;
 
-- f. de houder niet voldoet aan de voorschriften, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2011-01-01&g=2011-01-01).
+- f. de houder niet voldoet aan de voorschriften, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2012-01-01&g=2012-01-01).
 
-2. Indien bij het nader onderzoek, bedoeld in het eerste lid, onderdeel d, de ongeschiktheid niet blijkt, komen de kosten van het onderzoek ten laste van het Rijk. [Artikel 28, eerste lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+2. Indien bij het nader onderzoek, bedoeld in het eerste lid, onderdeel d, de ongeschiktheid niet blijkt, komen de kosten van het onderzoek ten laste van het Rijk. [Artikel 28, eerste lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het ongeldig verklaren, het invorderen en het teruggeven van een vaarbewijs.
 
 ##### Artikel 31
 
-1. Onze Minister kan, indien naar zijn oordeel de veilige vaart voldoende gewaarborgd is, met betrekking tot bepaalde categorieën van binnenschepen vrijstelling verlenen van de op een gezagvoerder rustende verplichting, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2011-01-01&g=2011-01-01). Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.
+1. Onze Minister kan, indien naar zijn oordeel de veilige vaart voldoende gewaarborgd is, met betrekking tot bepaalde categorieën van binnenschepen vrijstelling verlenen van de op een gezagvoerder rustende verplichting, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01). Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden.
 
-2. Onze Minister kan, indien naar zijn oordeel de veilige vaart voldoende gewaarborgd is, aan een gezagvoerder ontheffing verlenen van de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2011-01-01&g=2011-01-01), bedoelde verplichting. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
+2. Onze Minister kan, indien naar zijn oordeel de veilige vaart voldoende gewaarborgd is, aan een gezagvoerder ontheffing verlenen van de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01), bedoelde verplichting. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
 3. Onze Minister kan een krachtens het tweede lid verleende ontheffing intrekken, indien de gezagvoerder de aldaar bedoelde voorschriften niet naleeft.
 
@@ -445,11 +457,11 @@ Deze paragraaf is van toepassing op:
 
 ##### Artikel 32
 
-1. Onze Minister kan een bewijs van kennis en bekwaamheid voor een of meer vormen van binnenvaart erkennen, indien naar zijn oordeel het bewijs voldoende waarborg biedt voor het veilig voeren van een binnenschip. Alsdan treedt het bewijs van kennis en bekwaamheid gedeeltelijk in de plaats van het onderzoek of geheel in de plaats van de verklaring, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=29&z=2011-01-01&g=2011-01-01).
+1. Onze Minister kan een bewijs van kennis en bekwaamheid voor een of meer vormen van binnenvaart erkennen, indien naar zijn oordeel het bewijs voldoende waarborg biedt voor het veilig voeren van een binnenschip. Alsdan treedt het bewijs van kennis en bekwaamheid gedeeltelijk in de plaats van het onderzoek of geheel in de plaats van de verklaring, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=29&z=2012-01-01&g=2012-01-01).
 
 2. Bij ministeriële regeling kunnen vaarbewijzen of bewijzen van kennis en bekwaamheid worden erkend die zijn afgegeven door een bevoegde autoriteit in het buitenland. Het eerste lid is van overeenkomstige toepassing.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op andere geneeskundige verklaringen dan de verklaring, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2011-01-01&g=2011-01-01).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op andere geneeskundige verklaringen dan de verklaring, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 33
 
@@ -495,7 +507,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld wor
 
 ##### Artikel 37
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de registratie van gegevens ten behoeve van het toezicht op de naleving van de krachtens [hoofdstuk 3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&z=2011-01-01&g=2011-01-01), gegeven regels en voorschriften.
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de registratie van gegevens ten behoeve van het toezicht op de naleving van de krachtens [hoofdstuk 3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&z=2012-01-01&g=2012-01-01), gegeven regels en voorschriften.
 
 2. Het is verboden te handelen in strijd met de regels, bedoeld in het eerste lid.
 
@@ -505,15 +517,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 39
 
-1. Persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), betreffende de gezondheid, worden verwerkt ter uitvoering van:
+1. Persoonsgegevens betreffende de gezondheid of strafrechtelijke persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), worden verwerkt ter uitvoering van:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2011-01-01&g=2011-01-01), mede betreffende de wettelijke onbekwaamheid, met het oogmerk te beoordelen of aan dit artikel toepassing kan worden gegeven dan wel of ontheffing onderscheidenlijk vrijstelling kan worden verleend;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01), mede betreffende de wettelijke onbekwaamheid, met het oogmerk te beoordelen of aan dit artikel toepassing kan worden gegeven dan wel of ontheffing onderscheidenlijk vrijstelling kan worden verleend;
 
-- b. [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2011-01-01&g=2011-01-01), met het oogmerk te beoordelen of een bemanningslid voldoet of niet meer voldoet aan de bij of krachtens deze wet gestelde vereisten betreffende de lichamelijke geschiktheid;
+- b. [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2012-01-01&g=2012-01-01), met het oogmerk te beoordelen of een bemanningslid voldoet of niet meer voldoet aan de bij of krachtens deze wet gestelde vereisten betreffende de lichamelijke geschiktheid;
 
-- c. [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2011-01-01&g=2011-01-01), met het oogmerk te beoordelen of de aanvrager voldoet aan de bij of krachtens deze wet gestelde eisen betreffende de lichamelijke en geestelijke geschiktheid;
+- c. [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2012-01-01&g=2012-01-01), met het oogmerk te beoordelen of de aanvrager voldoet aan de bij of krachtens deze wet gestelde eisen betreffende de lichamelijke en geestelijke geschiktheid;
 
-- d. [artikel 30, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=30&z=2011-01-01&g=2011-01-01), met het oogmerk te beoordelen of sprake is van lichamelijke of geestelijke ongeschiktheid van de houder van een vaarbewijs.
+- d. [artikel 30, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=30&z=2012-01-01&g=2012-01-01), met het oogmerk te beoordelen of sprake is van lichamelijke of geestelijke ongeschiktheid van de houder van een vaarbewijs;
+
+- e. [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=5&artikel=35a&z=2012-01-01&g=2012-01-01), ter handhaving van rechterlijke uitspraken houdende ontzegging van de vaarbevoegdheid en ter voorkoming van de afgifte van vaarbewijzen of bewijzen van vrijstelling of ontheffingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), aan personen als bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01).
 
 2. Onze Minister is verantwoordelijk voor de verwerking van de in het eerste lid bedoelde persoonsgegevens.
 
@@ -541,19 +555,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 41
 
-1. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01) is bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.
+1. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01) is bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.
 
-2. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01) beschikt niet over de bevoegdheid, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18).
+2. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01) beschikt niet over de bevoegdheid, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18).
 
 ##### Artikel 42
 
-1. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01) is bevoegd afgifte van het vaarbewijs te vorderen indien naar zijn oordeel het vermoeden bestaat van lichamelijke of geestelijke ongeschiktheid tot het voeren van een binnenschip of de houder niet over de kennis of bekwaamheid beschikt die is vereist voor het voeren van een binnenschip. Hij legt het vaarbewijs waarvan afgifte is gevorderd onverwijld en onder opgave van redenen aan Onze Minister over.
+1. Een ambtenaar als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01) is bevoegd afgifte van het vaarbewijs te vorderen indien naar zijn oordeel het vermoeden bestaat van lichamelijke of geestelijke ongeschiktheid tot het voeren van een binnenschip of de houder niet over de kennis of bekwaamheid beschikt die is vereist voor het voeren van een binnenschip. Hij legt het vaarbewijs waarvan afgifte is gevorderd onverwijld en onder opgave van redenen aan Onze Minister over.
 
-2. Onze Minister neemt, nadat hij van de vordering tot afgifte kennis heeft genomen, onverwijld een besluit over de geldigheid van het vaarbewijs. Totdat een besluit als bedoeld in dit lid is genomen, geldt het besluit van de vordering tot afgifte als een besluit als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2011-01-01&g=2011-01-01).
+2. Onze Minister neemt, nadat hij van de vordering tot afgifte kennis heeft genomen, onverwijld een besluit over de geldigheid van het vaarbewijs. Totdat een besluit als bedoeld in dit lid is genomen, geldt het besluit van de vordering tot afgifte als een besluit als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01).
 
 3. Wanneer Onze Minister niet tot verlies van geldigheid besluit, geeft hij het vaarbewijs aan de houder terug.
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een vaarbewijs als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=32&z=2011-01-01&g=2011-01-01). Onze Minister legt dit vaarbewijs onverwijld en onder opgave van redenen over aan de desbetreffende bevoegde autoriteit in het buitenland met het verzoek over de geldigheid van het vaarbewijs een besluit te nemen.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een vaarbewijs als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=32&z=2012-01-01&g=2012-01-01). Onze Minister legt dit vaarbewijs onverwijld en onder opgave van redenen over aan de desbetreffende bevoegde autoriteit in het buitenland met het verzoek over de geldigheid van het vaarbewijs een besluit te nemen.
 
 ##### Artikel 43
 
@@ -571,29 +585,29 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ##### Artikel 45
 
-1. Met de opsporing van de bij of krachtens deze wet en de Herziene Rijnvaartakte strafbaar gestelde feiten zijn belast de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen ambtenaren, alsmede de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren.
+1. Met de opsporing van de bij of krachtens deze wet en de Herziene Rijnvaartakte strafbaar gestelde feiten zijn belast de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen ambtenaren, alsmede de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01) bedoelde ambtenaren.
 
 2. De in het eerste lid bedoelde ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 ##### Artikel 46
 
-1. Op de eerste vordering van de ambtenaren, bedoeld in de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2011-01-01&g=2011-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2011-01-01&g=2011-01-01), geeft de houder behoorlijk ter inzage af de documenten die bij of krachtens deze wet zijn vereist.
+1. Op de eerste vordering van de ambtenaren, bedoeld in de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=40&z=2012-01-01&g=2012-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2012-01-01&g=2012-01-01), geeft de houder behoorlijk ter inzage af de documenten die bij of krachtens deze wet zijn vereist.
 
 2. Het is verboden te handelen in strijd met het eerste lid.
 
 ##### Artikel 47
 
-1. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2011-01-01&g=2011-01-01).
+1. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2012-01-01&g=2012-01-01).
 
-2. De ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2011-01-01&g=2011-01-01), zijn zonder toestemming van de bewoner bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden.
+2. De ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2012-01-01&g=2012-01-01), zijn zonder toestemming van de bewoner bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden.
 
-3. De ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2011-01-01&g=2011-01-01), zijn bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.
+3. De ambtenaren, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=45&z=2012-01-01&g=2012-01-01), zijn bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.
 
 #### § 2. Bestuurlijke boete
 
 ##### Artikel 48
 
-1. Onze Minister kan aan degene die handelt in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=5&z=2011-01-01&g=2011-01-01), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2011-01-01&g=2011-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=12&z=2011-01-01&g=2011-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=13&z=2011-01-01&g=2011-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=2&artikel=21&z=2011-01-01&g=2011-01-01), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2011-01-01&g=2011-01-01), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=1&artikel=36&z=2011-01-01&g=2011-01-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=2&artikel=37&z=2011-01-01&g=2011-01-01), [39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2011-01-01&g=2011-01-01), [39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2011-01-01&g=2011-01-01), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=43&z=2011-01-01&g=2011-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=46&z=2011-01-01&g=2011-01-01), een bestuurlijke boete opleggen.
+1. Onze Minister kan aan degene die handelt in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=12&z=2012-01-01&g=2012-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=13&z=2012-01-01&g=2012-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=22&z=2012-01-01&g=2012-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2012-01-01&g=2012-01-01), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=1&artikel=36&z=2012-01-01&g=2012-01-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=2&artikel=37&z=2012-01-01&g=2012-01-01), [39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2012-01-01&g=2012-01-01), [39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2012-01-01&g=2012-01-01), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=43&z=2012-01-01&g=2012-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=46&z=2012-01-01&g=2012-01-01), een bestuurlijke boete opleggen.
 
 2. De bestuurlijke boete die ten hoogste kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -601,15 +615,17 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 4. Bij ministeriële regeling worden de boetebedragen voor de beboetbare feiten vastgesteld.
 
+5. Geen bestuurlijke boete wordt opgelegd inzake overtredingen als bedoeld in de [artikelen 25, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01), [28, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2012-01-01&g=2012-01-01), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), en [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=33&z=2012-01-01&g=2012-01-01), voor zover het betreft bij ministeriële regeling aangewezen categorieën vaarbewijzen.
+
 ##### Artikel 48a
 
 Vervallen
 
 ##### Artikel 49
 
-1. Wanneer door het handelen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=5&z=2011-01-01&g=2011-01-01), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2011-01-01&g=2011-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=12&z=2011-01-01&g=2011-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=13&z=2011-01-01&g=2011-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=2&artikel=21&z=2011-01-01&g=2011-01-01), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2011-01-01&g=2011-01-01), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=1&artikel=36&z=2011-01-01&g=2011-01-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=2&artikel=37&z=2011-01-01&g=2011-01-01), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=43&z=2011-01-01&g=2011-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=46&z=2011-01-01&g=2011-01-01), gevaar voor de openbare veiligheid ontstaat of kan ontstaan, worden deze gedragingen aangemerkt als strafbaar feit.
+1. Wanneer door het handelen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), [6, eerste lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=10&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=12&z=2012-01-01&g=2012-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=13&z=2012-01-01&g=2012-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=2&artikel=21&z=2012-01-01&g=2012-01-01), [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=22&z=2012-01-01&g=2012-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=3&artikel=23&z=2012-01-01&g=2012-01-01), [36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=1&artikel=36&z=2012-01-01&g=2012-01-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4&paragraaf=2&artikel=37&z=2012-01-01&g=2012-01-01), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=43&z=2012-01-01&g=2012-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=1&artikel=46&z=2012-01-01&g=2012-01-01), gevaar voor de openbare veiligheid ontstaat of kan ontstaan, worden deze gedragingen aangemerkt als strafbaar feit.
 
-2. Handelen in strijd met [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=17&z=2011-01-01&g=2011-01-01), is een strafbaar feit.
+2. Handelen in strijd met [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=1&artikel=17&z=2012-01-01&g=2012-01-01), alsmede met de bepalingen, bedoeld in [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=5&paragraaf=2&artikel=48&z=2012-01-01&g=2012-01-01), voor zover het betreft bij ministeriële regeling aangewezen categorieën vaarbewijzen, is een strafbaar feit.
 
 3. Strafbare feiten als bedoeld in het eerste en tweede lid zijn overtredingen.
 
@@ -703,7 +719,7 @@ is voor de behandeling van die aanvraag een vergoeding van de kosten verschuldig
 
 ##### Artikel 52
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=6&paragraaf=2&artikel=53&z=2011-01-01&g=2011-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=6&paragraaf=2&artikel=53&z=2012-01-01&g=2012-01-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -759,9 +775,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 39h
 
-1. Onze Minister verstrekt aan de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2011-01-01&g=2011-01-01) aangewezen rechtspersoon subsidie:
+1. Onze Minister verstrekt aan de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2012-01-01&g=2012-01-01) aangewezen rechtspersoon subsidie:
 
-- a. ten aanzien van de kosten van de personele en materiële voorzieningen die nodig zijn voor de uitvoering van de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2011-01-01&g=2011-01-01) aan het nationaal instituut toegekende taken en
+- a. ten aanzien van de kosten van de personele en materiële voorzieningen die nodig zijn voor de uitvoering van de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2012-01-01&g=2012-01-01) aan het nationaal instituut toegekende taken en
 
 - b. ten aanzien van de internationale financiële verevening, bedoeld in artikel 10, eerste lid, van het verdrag.
 
@@ -771,11 +787,23 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5. Handhaving
 
-#### § 1. Toezicht en opsporing
+#### § 2. Afvalbeheerbijdrage
 
 #### § 2. Bestuurlijke boete
 
 ##### Artikel 48a
+
+Vervallen
+
+##### Artikel 48a
+
+Vervallen
+
+##### Artikel 49d
+
+Vervallen
+
+##### Artikel 49a
 
 Vervallen
 
@@ -788,18 +816,6 @@ Vervallen
 Vervallen
 
 ##### Artikel 49e
-
-Vervallen
-
-##### Artikel 49g
-
-Vervallen
-
-##### Artikel 49h
-
-Vervallen
-
-##### Artikel 49i
 
 Vervallen
 
@@ -831,7 +847,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Dit hoofdstuk is van toepassing op binnenschepen waarvan de hoofd- of hulpmotoren, met uitzondering van ankerlieren, verbrandingsmotoren zijn.
 
-2. In afwijking van het eerste lid is dit hoofdstuk, met uitzondering van [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2011-01-01&g=2011-01-01), niet van toepassing met betrekking tot schepen die zijn toegelaten voor de zee- of kustvaart en overwegend daartoe bestemd zijn.
+2. In afwijking van het eerste lid is dit hoofdstuk, met uitzondering van [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2012-01-01&g=2012-01-01), niet van toepassing met betrekking tot schepen die zijn toegelaten voor de zee- of kustvaart en overwegend daartoe bestemd zijn.
 
 #### § 2. Afvalbeheerbijdrage
 
@@ -857,7 +873,7 @@ Bij algemene maatregel van bestuur worden de administratieve verplichtingen van 
 
 ##### Artikel 39f
 
-Bij constatering van het feit dat voor een schip niet volledig is voldaan aan de ingevolge [artikel 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2011-01-01&g=2011-01-01), geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het schip is verschuldigd toepassing aan [artikel 4.4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86).
+Bij constatering van het feit dat voor een schip niet volledig is voldaan aan de ingevolge [artikel 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2012-01-01&g=2012-01-01), geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het schip is verschuldigd toepassing aan [artikel 4.4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86).
 
 #### § 3. Het nationaal instituut
 
@@ -873,7 +889,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 #### § 2. Bestuurlijke boete
 
+##### Artikel 49b
+
+Vervallen
+
 ##### Artikel 49f
+
+Vervallen
+
+##### Artikel 49g
+
+Vervallen
+
+##### Artikel 49h
 
 Vervallen
 
@@ -886,6 +914,86 @@ Vervallen
 Vervallen
 
 ##### Artikel 49l
+
+Vervallen
+
+### Hoofdstuk 6. Overige bepalingen
+
+#### § 1. Vergoedingen
+
+#### § 2. Noodwetgeving
+
+#### § 3. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 5. Vaarbevoegdheid en registratie van gegevens
+
+##### Artikel 35a
+
+1. Onze Minister houdt een register bij van:
+
+- a. ontzeggingen van de vaarbevoegdheid als bedoeld in [artikel 35b van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b);
+
+- b. vaarbewijzen of bewijzen van vrijstelling of ontheffing als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2012-01-01&g=2012-01-01), die:
+
+- 1°. zijn ingeleverd of ingevorderd ingevolge de [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35a), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b) of [35c van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35c), of
+
+- 2°. ongeldig zijn verklaard.
+
+2. Het verzamelen van gegevens als bedoeld in het eerste lid, geschiedt voor de volgende doeleinden:
+
+- a. een goede en adequate uitvoering van deze wet, voor zover het gaat om de ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01);
+
+- b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor zover het gaat om ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2012-01-01&g=2012-01-01).
+
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en het beheer van het register. Deze regels betreffen in ieder geval:
+
+- a. de periode gedurende welke de gegevens worden bewaard;
+
+- b. de waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad;
+
+- c. de genomen maatregelen om de beveiliging van de verwerking te waarborgen;
+
+- d. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;
+
+- e. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;
+
+- f. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.
+
+##### Artikel 35b
+
+1. Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent ontzeggingen van de vaarbevoegdheid die deze autoriteiten voor de uitoefening van hun taak behoeven.
+
+2. Aan de met de afgifte van vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
+
+##### Artikel 35c
+
+1. Onze Minister is op bij algemene maatregel van bestuur bepaalde wijze bevoegd tot het invoeren, wijzigen dan wel verwijderen van gegevens die van belang zijn voor het bijhouden van het register.
+
+2. Het openbaar ministerie bij de rechtbank waar een ontzegging van de vaarbevoegdheid wordt uitgesproken, doet binnen twee weken mededeling aan Onze Minister van die ontzegging, waarbij de termijn van ontzegging wordt vermeld.
+
+### Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
+
+#### § 1. Scheepsnummer
+
+#### § 2. Gegevensverstrekking
+
+### Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Het nationaal instituut
+
+#### § 4. Uitvoering van het verdrag
+
+### Hoofdstuk 5. Handhaving
+
+#### § 1. Toezicht en opsporing
+
+#### § 2. Bestuurlijke boete
+
+##### Artikel 49i
 
 Vervallen
 
