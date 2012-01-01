@@ -4,7 +4,7 @@ identifier: "BWBR0032525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-02-10"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032525"
 soort: "ministeriele-regeling"
@@ -66,14 +66,24 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2012-12-21&g=2011-01-01) en, wat betreft tabel 2.1, bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2011-01-01)
+## Bijlage 1. behorende bij [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2012-12-21&g=2012-01-01) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2012-01-01)
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 3. behorende bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2011-01-01)
+## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2012-12-21&g=2012-01-01) en, wat betreft tabel 2.1, bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2012-01-01)
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 4. behorende bij [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2012-12-21&g=2011-01-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=20&z=2012-12-21&g=2011-01-01)
+## Bijlage 3. behorende bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2012-01-01)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 23
+
+Wijzigt de Regeling risicoverevening 2012.
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage 4. behorende bij [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2012-12-21&g=2012-01-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=20&z=2012-12-21&g=2012-01-01)
 
 Dit onderdeel is nog niet inwerking getreden
