@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2011-09-14"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2011-09-14&g=2011-09-14) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2011-09-14&g=2012-01-01) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
@@ -90,7 +90,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 - f. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnen. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;
 
-- g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2011-09-14&g=2011-09-14) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
+- g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2011-09-14&g=2012-01-01) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
 
 - h. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) in stand houdt;
 
@@ -104,7 +104,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1. Het bevoegd gezag levert de jaarverslaggeving, bestaande uit het bestuursverslag en de jaarrekening, in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.
 
-2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2011-09-14&g=2011-09-14), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
+2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2011-09-14&g=2012-01-01), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
 
 ##### Artikel 5. Intrekken regelingen
 
