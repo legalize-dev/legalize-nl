@@ -4,7 +4,7 @@ identifier: "BWBR0004470"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2012-01-01"
-last_updated: "2000-03-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004470"
 soort: "rijksKB"
@@ -64,13 +64,15 @@ In dit besluit wordt verstaan onder:
 
 - e. het op 12 december 1977 te Bern tot stand gekomen Aanvullende Protocol bij de onder **a** tot en met **d** genoemde verdragen, betreffende de bescherming van slachtoffers van internationale gewapende conflicten (tekst in **Trb.** 1978, 41; vertaling in het Nederlands in **Trb.** 1980, 87);
 
-- f. het op 12 december 1977 te Bern tot stand gekomen Aanvullende Protocol bij de onder **a** tot en met **d** genoemde verdragen, betreffende de bescherming van slachtoffers van niet-internationale gewapende conflicten (tekst in **Trb.** 1978, 42; vertaling in het Nederlands in **Trb.** 1980, 88).
+- f. het op 12 december 1977 te Bern tot stand gekomen Aanvullende Protocol bij de onder **a** tot en met **d** genoemde verdragen, betreffende de bescherming van slachtoffers van niet-internationale gewapende conflicten (tekst in **Trb.** 1978, 42; vertaling in het Nederlands in **Trb.** 1980, 88);
+
+- g. het op 8 december 2005 te Genève tot stand gekomen Aanvullende Protocol bij de onder a tot en met d genoemde verdragen, betreffende de aanvaarding van een aanvullend onderscheidend embleem (Protocol III) (Trb. 2006, 46).
 
 - 2. het Rode Kruis: de vereniging "het Nederlandse Rode Kruis".
 
-- 3. ramp of zwaar ongeval: een gebeurtenis als bedoeld in [artikel 1, onder b, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=1).
+- 3. ramp: een ramp als bedoeld in [artikel 1 van de Wetveiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1).
 
-- 4. geneeskundige hulpverlening: het door eenheden verrichten van gewondenzorg op of nabij de plaats van de ramp of het zware ongeval.
+- 4. geneeskundige hulpverlening: het door eenheden verrichten van gewondenzorg op of nabij de plaats van een ramp.
 
 ##### Artikel 2
 
@@ -84,51 +86,55 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het Rode Kruis heeft voor het gehele Koninkrijk tot taak hulp te verlenen aan gewonden, zieken en anderszins hulpbehoevenden, die slachtoffer zijn van een gewapend conflict, ramp, zwaar ongeval of andere bijzondere gebeurtenis, zulks in overeenstemming met de bepalingen van de Verdragen en Protocollen van Genève en de grondbeginselen van het Rode Kruis zoals geformuleerd door de Internationale Conferenties van het Rode Kruis.
+1. Het Rode Kruis heeft voor het gehele Koninkrijk tot taak hulp te verlenen aan gewonden, zieken en anderszins hulpbehoevenden, die slachtoffer zijn van een gewapend conflict, ramp of andere bijzondere gebeurtenis, zulks in overeenstemming met de bepalingen van de Verdragen en Protocollen van Genève en de grondbeginselen van het Rode Kruis zoals geformuleerd door de Internationale Conferenties van Rode Kruis en Rode Halve Maan.
 
 2. Het Rode Kruis oefent zijn taak ten behoeve van de militairen uit in overeenstemming met de daaromtrent met Onze Minister van Defensie getroffen regelingen en met inachtneming van zijn aanwijzingen en, in voorkomend geval, onder leiding van de militair-geneeskundige diensten.
 
-3. Het Rode Kruis oefent zijn taak ten behoeve van de burgerbevolking in Nederland uit in overeenstemming met de daaromtrent met Onze Ministers van Binnenlandse Zaken en van Welzijn, Volksgezondheid en Cultuur getroffen regelingen.
+3. Het Rode Kruis oefent zijn taak ten behoeve van de burgerbevolking in Nederland uit in overeenstemming met de daaromtrent met Onze Minister van Veiligheid en Justitie getroffen regelingen.
 
-4. Het Rode Kruis draagt voorts zorg:
+4. Het Rode Kruis draagt voorts zorg voor:
 
-- a. ingeval een gewapend conflict is uitgebroken waarbij het Koninkrijk is betrokken, een organisatie in werking te hebben die aan krijgsgevangenen en andere personen die zich in de macht van een vijandelijke mogendheid bevinden, poststukken en zendingen tot hulpverlening en toegestane geldzendingen kan doen toekomen en hun correspondentie kan verzorgen;
+- a. het, ingeval een gewapend conflict is uitgebroken waarbij het Koninkrijk is betrokken, in werking hebben van een organisatie die aan krijgsgevangenen en andere personen die zich in de macht van een vijandelijke mogendheid bevinden, poststukken en zendingen tot hulpverlening en toegestane geldzendingen kan doen toekomen en hun correspondentie kan verzorgen;
 
-- b. een informatiebureau in werking te hebben indien de verplichting daartoe voor het Koninkrijk uit de Verdragen en Protocollen van Genève voortvloeit, alsmede voor het geval dat een ramp, een zwaar ongeval of een andere bijzondere gebeurtenis daartoe noodzaakt.
+- b. het in werking hebben van een informatiebureau, indien de verplichting daartoe voor het Koninkrijk uit de Verdragen en Protocollen van Genève voortvloeit, alsmede voor het geval dat een ramp of een andere bijzondere gebeurtenis daartoe noodzaakt;
+
+- c. het opsporen van vermiste personen en het herstellen van contact tussen familieleden die van elkaar gescheiden zijn geraakt als gevolg van een gewapend conflict, een ramp of andere bijzondere gebeurtenis, alsmede het voorkomen van vermissingen en het verschaffen van opheldering over het lot van vermiste personen.
 
 5. Het Rode Kruis neemt, bij het vervullen van de in het eerste lid bedoelde taak voor zover het de hulpverlening aan de burgerbevolking betreft en van de in het vierde lid genoemde taken, de aanwijzingen van het bevoegd gezag in acht.
 
 ##### Artikel 4
 
-1. Indien het naar het oordeel van de bevoegde militaire autoriteit noodzakelijk is dat ten behoeve van de hulpverlening aan militairen eenheden van het Rode Kruis worden ingezet die belast zijn met de geneeskundige hulpverlening aan de burgerbevolking in het kader van de bestrijding van rampen en zware ongevallen, voert deze autoriteit daartoe overleg met het bevoegd civiel gezag.
+1. Indien het naar het oordeel van de bevoegde militaire autoriteit noodzakelijk is dat ten behoeve van de hulpverlening aan militairen eenheden van het Rode Kruis worden ingezet die belast zijn met de geneeskundige hulpverlening aan de burgerbevolking in het kader van de rampenbestrijding, voert deze autoriteit daartoe overleg met het bevoegd civiel gezag.
 
 2. Indien het overleg, bedoeld in het eerste lid, niet tot overeenstemming leidt, richt de bevoegde militaire autoriteit zich tot Onze Minister van Defensie. Hij doet daarvan mededeling aan het civiel gezag, bedoeld in het eerste lid.
 
-3. Onze Ministers van Defensie, van Binnenlandse Zaken en van Welzijn, Volksgezondheid en Cultuur voeren ter zake van het inzetten van de eenheden van het Rode Kruis met elkaar overleg.
+3. Onze Ministers van Defensie, van Veiligheid en Justitie en van Volksgezondheid, Welzijn en Sport voeren ter zake van het inzetten van de eenheden van het Rode Kruis met elkaar overleg.
 
 4. Dit artikel is alleen op Nederland van toepassing.
 
 ##### Artikel 5
 
-1. Het Rode Kruis treft de nodige voorbereidingen om te kunnen voldoen aan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2000-03-01&g=2000-03-01).
+1. Het Rode Kruis treft de nodige voorbereidingen om te kunnen voldoen aan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01).
 
-2. Onze Ministers van Defensie, van Binnenlandse Zaken en van Welzijn, Volksgezondheid en Cultuur stellen, ieder voor zover hem betreft, in overeenstemming met het bestuur van het Rode Kruis, de aard en de omvang van de voorbereidingen, bedoeld in het eerste lid, vast.
+2. Onze Ministers van Defensie en van Veiligheid en Justitie stellen, ieder voor zover hem betreft, in overeenstemming met het bestuur van het Rode Kruis, de aard en de omvang van de voorbereidingen, bedoeld in het eerste lid, vast.
 
 ##### Artikel 6
 
-1. Onverminderd de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2000-03-01&g=2000-03-01), werkt het Rode Kruis naar vermogen mede aan de uitvoering van de volgende taken:
+1. Onverminderd de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01), werkt het Rode Kruis naar vermogen mede aan de uitvoering van de volgende taken:
 
-- a. het lenigen van de nood bij rampen, zware ongevallen en andere bijzondere gebeurtenissen buiten het Koninkrijk;
+- a. het lenigen van de nood bij rampen en andere bijzondere gebeurtenissen buiten het Koninkrijk;
 
-- b. het anderszins verzachten of zo mogelijk voorkomen van menselijk leed.
+- b. het anderszins verzachten of zo mogelijk voorkomen van menselijk leed;
+
+- c. het zo ruim mogelijk verspreiden van het humanitair oorlogsrecht.
 
 2. Het Rode Kruis werkt voorts naar vermogen mede aan de verwezenlijking van de doelstellingen van het Internationale Rode Kruis.
 
 ##### Artikel 7
 
-1. De andere erkende en toegelaten rechtspersonen werken naar vermogen mede om het Rode Kruis in staat te stellen te voldoen aan zijn taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2000-03-01&g=2000-03-01), en de voorbereidingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=5&z=2000-03-01&g=2000-03-01).
+1. De andere erkende en toegelaten rechtspersonen werken naar vermogen mede om het Rode Kruis in staat te stellen te voldoen aan zijn taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01), en de voorbereidingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=5&z=2012-01-01&g=2012-01-01).
 
-2. Bij het verlenen van hun medewerking, bedoeld in het eerste lid, onderwerpen zij zich aan de algemene leiding van het Rode Kruis. Zij verstrekken het Rode Kruis de inlichtingen die het nodig heeft voor de voorbereiding op en de uitoefening van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2000-03-01&g=2000-03-01).
+2. Bij het verlenen van hun medewerking, bedoeld in het eerste lid, onderwerpen zij zich aan de algemene leiding van het Rode Kruis. Zij verstrekken het Rode Kruis de inlichtingen die het nodig heeft voor de voorbereiding op en de uitoefening van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01).
 
 3. Indien een erkende en toegelaten rechtspersoon haar verplichtingen niet nakomt, kunnen, de besturen van het Rode Kruis en van de betrokken rechtspersoon gehoord, de erkenning en toelating bij koninklijk besluit worden ingetrokken.
 
@@ -136,9 +142,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Tot vergoeding van de kosten die voor het centrale en het provinciale niveau van het Rode Kruis voortvloeien uit de werkzaamheden ter voorbereiding van de geneeskundige hulpverlening aan de burgerbevolking bij rampen en zware ongevallen in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden wordt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties een subsidie verleend.
-
-2. Onze Minister van Volksgezondheid, Welzijn en Sport verleent een subsidie voor de kosten van het in werking hebben van het Informatiebureau, bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=2&artikel=3&z=2000-03-01&g=2000-03-01), en van de voorbereidingen daartoe.
+Voor de uitvoering van en de voorbereiding op de in dit besluit genoemde taken verstrekt Onze Minister van Veiligheid en Justitie subsidie aan het Rode Kruis.
 
 #### § 4. De eretekenen
 
@@ -154,7 +158,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10
 
-Het Rode Kruis, de Souvereine en Militaire Orde van Malta Afdeling Nederland en de Johanniter Orde in Nederland worden geacht te zijn erkend en toegelaten in de zin van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=1&artikel=2&z=2000-03-01&g=2000-03-01) bepaalde.
+Het Rode Kruis, de Souvereine en Militaire Orde van Malta Afdeling Nederland en de Johanniter Orde in Nederland worden geacht te zijn erkend en toegelaten in de zin van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004470&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01) bepaalde.
 
 ##### Artikel 11
 
@@ -177,5 +181,19 @@ Dit besluit treedt in werking met ingang van de tweede dag na datum van uitgifte
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als Besluit Rode Kruis met vermelding van het jaartal van het **Staatsblad** waarin het zal worden geplaatst.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en aan de Algemene Rekenkamer.
+
+##### Artikel 6a
+
+1. Het Rode Kruis en het bevoegd gezag werken waar mogelijk en wenselijk samen bij de hulpverlening aan slachtoffers van een gewapend conflict, ramp of andere bijzondere gebeurtenis binnen het Koninkrijk, alsmede de voorbereiding daarop.
+
+2. Het bevoegd gezag bevordert waar mogelijk de toegang van hulpvragers tot de hulpverlening van het Rode Kruis.
+
+#### § 3. De financiële verhouding tussen overheid en het Rode Kruis
+
+#### § 4. De eretekenen
+
+#### § 5. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en aan de Algemene Rekenkamer.
