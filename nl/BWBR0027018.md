@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -69,11 +69,9 @@ Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https
 
 - 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht dan wel een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel daarvan, heeft afgelost, of
 
-- 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde;
+- 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde, en
 
-- b. van de schenking een notariële akte is opgemaakt, waarin is opgenomen dat het geschonken bedrag bestemd is voor een van de doeleinden, genoemd in onderdeel a, en
-
-- c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a.
+- b. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a.
 
 ##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
