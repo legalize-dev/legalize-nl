@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2011-12-16"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Deze regeling wordt aangehaald als: Regeling eisen geschiktheid 2000.
 
 5.3 Hypertensie
 
-5.4 Chronische nierinsufficiëntie
+5.4 Chronische nierinsufficiëntie en nierfunctievervangende behandeling
 
 5.5 Longziekten
 
@@ -350,9 +350,9 @@ In zeer uitzonderlijke gevallen (slechts bij peritoneaal dialyse) kunnen deze pe
 
 ### 5.7. Overige aandoeningen, orgaantransplantatie
 
-### 5.4. Chronische nierinsufficiëntie
+### 5.4. Chronische nierinsufficiëntie en nierfunctievervangende behandeling
 
-Voor personen met een ernstig gestoorde nierfunctie (kreatinineklaring van minder dan 20 ml/minuut) is een specialistisch rapport vereist; het betreft zowel predialyse- als dialysepatiënten. Valt dit rapport gunstig uit, dan kunnen zij voor een beperkte termijn (maximaal vijf jaar) geschikt worden verklaard voor rijbewijzen van groep 1.
+Voor de beoordeling van de geschiktheid bij chronische nierinsufficiëntie (CNI) is altijd een specialistisch rapport vereist, opgesteld door een internist deskundig op het gebied van nierziekten. Het rapport dient in te gaan op de volgende punten:
 
 ### 5.7.2. Orgaantransplantatie
 
@@ -990,7 +990,7 @@ Voor personen die ondanks behandeling een hoge bloeddruk houden, te weten een di
 
 ### 5.5.1. Ernstige CARA (chronische aspecifieke respiratoire aandoeningen)
 
-In zeer uitzonderlijke gevallen (slechts bij peritoneaal dialyse) kunnen deze personen voor ten hoogste drie jaar geschikt worden verklaard voor rijbewijzen van groep 2.
+De maximale geschiktheidstermijn hangt af van het stadium waarin de CNI zich bevindt:
 
 ### 5.5.2. Astma bronchiale
 
