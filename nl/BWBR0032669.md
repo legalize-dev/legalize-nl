@@ -4,7 +4,7 @@ identifier: "BWBR0032669"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032669"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
 ##### Artikel VIII
 
@@ -70,7 +70,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
 ##### Artikel X
 
@@ -102,7 +102,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel XVIII
 
@@ -110,7 +110,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 ##### Artikel XX
 
@@ -130,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Vrijstellingsregeling Wft.
 
 ##### Artikel XXV
 
