@@ -101,7 +101,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de St
 ##### Artikel 9. Titel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging hoofd Scheepvaartinspectie 2014.
-
-##### Artikel 1a. Plaatsvervanging
-
-Bij afwezigheid van het hoofd van de Scheepvaartinspectie vervangt de directeur Omgeving en dienstverlening, bedoeld in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](onbekend), hem.
