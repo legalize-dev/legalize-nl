@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2010-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -118,8 +118,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIIa. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
@@ -274,11 +272,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVII. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid, en enkele andere ministeries;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
