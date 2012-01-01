@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
+1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
 
 2. Deze regeling verstaat onder:
 
@@ -82,7 +82,7 @@ Vervallen
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 6.3, eerste lid, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=6.3) achterwege.
+Voor de toepassing van [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 6.3, eerste lid, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=6.3) achterwege.
 
 ##### Artikel 4
 
@@ -104,15 +104,15 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 | Indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 5 524 |
-| 16 jaren | 17 jaren: | € 6 353 |
-| 17 jaren | 18 jaren: | € 7 274 |
-| 18 jaren | 19 jaren: | € 8 378 |
-| 19 jaren | 20 jaren: | € 9 667 |
-| 20 jaren | 21 jaren: | € 11 324 |
-| 21 jaren | 22 jaren: | € 13 349 |
-| 22 jaren | 23 jaren: | € 15 651 |
-| 23 jaren |   | € 18 418 |
+| 15 jaren | 16 jaren: | € 5 578 |
+| 16 jaren | 17 jaren: | € 6 415 |
+| 17 jaren | 18 jaren: | € 7 344 |
+| 18 jaren | 19 jaren: | € 8 460 |
+| 19 jaren | 20 jaren: | € 9 761 |
+| 20 jaren | 21 jaren: | € 11 434 |
+| 21 jaren | 22 jaren: | € 13 480 |
+| 22 jaren | 23 jaren: | € 15 803 |
+| 23 jaren |   | € 18 592 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -323,6 +323,32 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 - f. functie-inhoud, vergoeding en andere arbeidsvoorwaarden;
 
 - g. bepalingen met betrekking tot ontbinding van de overeenkomst om onderwijskundige redenen.
+
+4. Een overeenkomst als bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bevat ten minste:
+
+- a. de vermelding dat het partijen bekend is dat de afdrachtvermindering onderwijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), van toepassing is;
+
+- b. een bepaling met betrekking tot een verdeling tussen partijen van de afdrachtvermindering, bedoeld in onderdeel a, waarbij tot uitdrukking komt dat deze verdeling is gekoppeld aan de onderlinge afspraken met betrekking tot de verdeling van de werkzaamheden die voortvloeien uit het aanbieden van de beroepspraktijkvormingsplaats door het bedrijf dat of de organisatie die bevoegd als bedoeld in [artikel 7.2.10 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10) de beroepspraktijkvorming verzorgt.
+
+5. Een overeenkomst als bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14a) bevat ten minste:
+
+- a. een bijlage waaruit blijkt dat het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt daartoe bevoegd is als bedoeld in [artikel 7.2.10 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10);
+
+- b. de naam van de opleiding, de opleidingssoort en het niveau ervan;
+
+- c. de aanvangsdatum en einddatum van de beroepspraktijkvorming;
+
+- d. het aantal te volgen praktijkuren per kalenderjaar;
+
+- e. een bepaling met betrekking tot de begeleiding van de deelnemer;
+
+- f. een bepaling met betrekking tot het deel van de kwalificatie dat de deelnemer tijdens de beroepspraktijkvorming dient te behalen en de beoordeling daarvan;
+
+- g. een bepaling met betrekking tot de gevallen waarin en de wijze waarop de overeenkomst voortijdig kan worden ontbonden.
+
+6. Indien de inhoudingsplichtige, bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14a) niet tevens is het bedrijf of de organisatie, bedoeld in het vijfde lid, onderdeel a, wordt dat bedrijf of die organisatie voor de toepassing van artikel 14a, tweede lid, van de wet en voor de toepassing van dit artikel in de plaats van de inhoudingsplichtige partij bij de overeenkomst, met dien verstande dat de inhoudingsplichtige onverminderd degene blijft die op grond van artikel 14a, tweede lid, van de wet over de aldaar bedoelde overeenkomst dient te beschikken.
+
+7. De overeenkomsten, bedoeld in de [artikelen 14, eerste lid, onderdelen a, b, c, d, f en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), en [14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14a), dienen tevens gegevens te bevatten op basis waarvan de partijen bij de overeenkomst voldoende identificeerbaar zijn.
 
 ##### Artikel 12a
 
