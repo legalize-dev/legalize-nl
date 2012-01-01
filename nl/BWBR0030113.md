@@ -4,7 +4,7 @@ identifier: "BWBR0030113"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030113"
 soort: "wet"
@@ -57,7 +57,9 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel IV. Grondslag Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/618.
+
+Na de inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030113&artikel=III&z=2012-01-01&g=2012-01-01) van de Wet wijziging verrekening inkomsten met ziekengeld berust de [Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever](https://wetten.overheid.nl/jci1.3:c:BWBR0022309) op [artikel 26, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26).
 
 ##### Artikel V. Inwerkingtreding
 
