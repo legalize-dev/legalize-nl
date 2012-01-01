@@ -4,7 +4,7 @@ identifier: "BWBV0005047"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-01-01"
-last_updated: "1999-09-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005047"
 soort: "verdrag"
@@ -74,401 +74,237 @@ die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgeleg
 
 ##### Artikel 1
 
-1. Tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden wordt een Economische Unie ingesteld, welke een vrij verkeer van personen, goederen, kapitaal en diensten omvat.
-
-2. Deze Unie brengt met zich mede:
-
-- a). de coördinatie van het economische, financiële en sociale beleid;
-
-- b). het aanvaarden en voeren van een gemeenschappelijk beleid in de economische betrekkingen met derde landen en inzake de daarmee verband houdende betalingen.
+Vervallen
 
 ##### Artikel 2
 
-1. De onderdanen van elk der Hoge Verdragsluitende Partijen zijn bevoegd het grondgebied van de andere Verdragsluitende Partijen binnen te komen en te verlaten.
-
-2. Zij genieten er de behandeling welke voor de eigen onderdanen geldt voor wat betreft:
-
-- a). bewegingsvrijheid, verblijf en vestiging;
-
-- b). uitoefening van economische en beroepswerkzaamheden, met inbegrip van de verlening van diensten;
-
-- c). kapitaaltransacties;
-
-- d). arbeidsvoorwaarden;
-
-- e). aanspraken inzake sociale zekerheid;
-
-- f). rechten en belastingen van welke aard ook;
-
-- g). het genot van de burgerlijke rechten alsmede de wettelijke en gerechtelijke bescherming van hun persoon, hun rechten en hun belangen.
+Vervallen
 
 ##### Artikel 3
 
-1. Het goederenverkeer tussen de grondgebieden der Hoge Verdragsluitende Partijen is, ongeacht de oorsprong, herkomst of bestemming der goederen, vrijgesteld van iedere heffing van invoerrechten en accijnzen, alsmede van alle andere rechten, belastingen, retributies, heffingen of kosten van welke aard ook.
-
-2. Het is eveneens vrijgesteld van alle verbodsbepalingen of belemmeringen van economische en financiële aard, in het bijzonder van beperkingen naar hoeveelheid of hoedanigheid dan wel van valutaire aard.
-
-3. De goederen van oorsprong uit het grondgebied van een der Hoge Verdragsluitende Partijen genieten op het grondgebied van de andere Verdragsluitende Partijen de behandeling welke voor de nationale goederen geldt.
+Vervallen
 
 ##### Artikel 4
 
-Het kapitaalverkeer tussen de grondgebieden der Hoge Verdragsluitende Partijen is vrijgesteld van alle verbodsbepalingen of belemmeringen.
+Vervallen
 
 ##### Artikel 5
 
-1. Het dienstenverkeer tussen de grondgebieden der Hoge Verdragsluitende Partijen is vrijgesteld van iedere heffing van rechten, belastingen, retributies, heffingen of kosten, van welke aard ook.
-
-2. Het is eveneens vrijgesteld van alle verbodsbepalingen of belemmeringen van economische en financiële aard, in het bijzonder van beperkingen naar hoeveelheid of hoedanigheid dan wel van valutaire aard.
+Vervallen
 
 ##### Artikel 6
 
-Onverminderd de bepalingen van de artikelen 2 tot en met 5 van dit Verdrag zien de Hoge Verdragsluitende Partijen er gezamenlijk op toe, dat geen wettelijk of uitvoerend voorschrift noch enig ander publiekrechtelijk voorschrift, in het bijzonder op het gebied van de gezondheid, het vrije verkeer op ongerechtvaardigde wijze belemmert.
+Vervallen
 
 ##### Artikel 7
 
-De Hoge Verdragsluitende Partijen zien er gezamenlijk op toe dat geen wettelijk of uitvoerend voorschrift noch enig ander publiekrechtelijk voorschrift de mededingingsvoorwaarden op hun grondgebieden verstoort.
+Vervallen
 
 ##### Artikel 8
 
-1. De Hoge Verdragsluitende Partijen voeren in nauw onderling overleg een gecoördineerd beleid op economisch, financieel en sociaal gebied.
-
-2. De Hoge Verdragsluitende Partijen coördineren hun beleid ten aanzien van privaatrechtelijke overeenkomsten en afspraken inzake economische samenwerking, alsmede ten aanzien van misbruiken, voortvloeiende uit een marktbeheersende positie van een of meer ondernemingen; zij treffen passende maatregelen teneinde misbruik van economische macht te kunnen tegengaan.
+Vervallen
 
 ##### Artikel 9
 
-Voor zover de houding en de verbintenissen, in te nemen of aan te gaan, hetzij in de betrekkingen met derde landen, hetzij ten opzichte van of in het verband van internationale instellingen of conferenties, de doelstellingen van de Unie raken, plegen de Hoge Verdragsluitende Partijen overleg opdat deze houding en deze verbintenissen de verwezenlijking van die doelstellingen bevorderen.
+Vervallen
 
 ##### Artikel 10
 
-In hun betrekkingen met derde landen:
-
-- a). aanvaarden en voeren de Hoge Verdragsluitende Partijen een gemeenschappelijk beleid op het gebied van de buitenlandse handel en de daarmede verband houdende betalingen;
-
-- b). sluiten zij verdragen en overeenkomsten betreffende de buitenlandse handel en het douanetarief gemeenschappelijk;
-
-- c). sluiten zij de verdragen en overeenkomsten inzake de met de buitenlandse handel verband houdende betalingen gemeenschappelijk of parallel.
+Vervallen
 
 ##### Artikel 11
 
-1. Ten aanzien van goederen herkomstig uit of bestemd voor derde landen worden de invoerrechten en de accijnzen, alsmede alle andere rechten, belastingen of heffingen, van welke aard ook, te heffen terzake van de invoer, de uitvoer of de doorvoer, geheven volgens gemeenschappelijke tarieven met gelijke rechten, waarbij de heffingsregelen worden gecoördineerd.
-
-2. De vergunningen- en contingentenstelsels voor in-, uit- en doorvoer zijn gelijk.
-
-3. De Hoge Verdragsluitende Partijen coördineren alle niet door de leden 1 en 2 van dit artikel bestreken wettelijke, uitvoerende of andere publiekrechtelijke voorschriften van economische en financiële aard betreffende de in-, uit- en doorvoer.
+Vervallen
 
 ##### Artikel 12
 
-1. De Hoge Verdragsluitende Partijen bepalen in onderlinge overeenstemming hun beleid met betrekking tot de wisselkoers tussen de Nederlandse gulden en de Belgische en de Luxemburgse frank. Eveneens bepalen zij in onderlinge overeenstemming hun beleid met betrekking tot de wisselkoers ten opzichte van de valuta's van derde landen.
-
-2. In het bijzonder gaan zij slechts in onderlinge overeenstemming over tot wijziging van de wisselkoersen.
+Vervallen
 
 ##### Artikel 13
 
-De maatregelen welke de Hoge Verdragsluitende Partijen nemen bij de tenuitvoerlegging van het in dit Verdrag voorziene gemeenschappelijke en gecoördineerde beleid dienen rekening te houden met de noodzaak, de stabiliteit van de munt te verzekeren, en mogen niet tot gevolg hebben dat een van de Hoge Verdragsluitende Partijen wordt genoodzaakt verliezen aan deviezenreserves te ondergaan, welke niet verenigbaar zijn met haar verantwoordelijkheid voor haar munt, of, behoudens voorafgaande overeenstemming omtrent de toegestane grenzen, niet-convertibele valuta's te aanvaarden of kredieten te verlenen.
+Vervallen
 
 ##### Artikel 14
 
-1. Ingeval de levensbelangen van een der Hoge Verdragsluitende Partijen in gevaar zijn, kan het Comité van Ministers, na advies van de Raadgevende Interparlementaire Raad en van de Economische en Sociale Raad van Advies, bepalen welke maatregelen in afwijking van de bepalingen van dit Verdrag kunnen worden genomen, gedurende een tijd die het tegelijkertijd vaststelt.
-
-2. Indien het om redenen van spoed niet mogelijk is, de in lid 1 van dit artikel bedoelde adviezen in te winnen of tijdig te verkrijgen, brengt het Comité van Ministers op korte termijn verslag uit aan de Raadgevende Interparlementaire Raad en aan de Economische en Sociale Raad van Advies, zowel betreffende de genomen maatregelen als ten aanzien van de omstandigheden welke hiertoe hebben geleid.
+Vervallen
 
 ## Deel 2. INSTELLINGEN
 
 ##### Artikel 15
 
-De instellingen van de Unie zijn:
-
-- a. het Comité van Ministers;
-
-- b. de Raadgevende Interparlementaire Raad;
-
-- c. de Raad van de Economische Unie;
-
-- d. de Commissies en de Bijzondere Commissies;
-
-- e. het Secretariaat-Generaal;
-
-- f. de Gemeenschappelijke Diensten;
-
-- g. het College van Scheidsrechters;
-
-- h. de Economische en Sociale Raad van Advies.
+Vervallen
 
 ### HOOFDSTUK 1. Van het Comité van Ministers
 
 ##### Artikel 16
 
-Het Comité van Ministers draagt zorg voor de toepassing van dit Verdrag en verzekert de verwezenlijking van de daarin vervatte doelstellingen. Het stelt de daartoe noodzakelijke maatregelen vast onder de in dit Verdrag aangegeven voorwaarden.
+Vervallen
 
 ##### Artikel 17
 
-1. Ieder der Hoge Verdragsluitende Partijen wijst ten minste drie leden der Regering aan om zitting te hebben in het Comité.
-
-2. Telkens wanneer zij zulks gewenst acht, kan ieder der Regeringen andere leden der Regering uitnodigen aan een bepaalde zitting deel te nemen.
+Vervallen
 
 ##### Artikel 18
 
-Het Comité besluit met algemene stemmen. Ieder der Hoge Verdragsluitende Partijen beschikt over één stem. De onthouding van een Hoge Verdragsluitende Partij verhindert niet dat een besluit wordt genomen.
+Vervallen
 
 ##### Artikel 19
 
-Ter uitvoering van de hem toevertrouwde taak kan het Comité van Ministers:
-
-- a). beschikkingen nemen ter vaststelling van de wijze van uitvoering van de bepalingen van dit Verdrag onder de daarin vermelde voorwaarden. De beschikkingen van het Comité verbinden de Hoge Verdragsluitende Partijen;
-
-- b). overeenkomsten opstellen, welke worden voorgelegd aan de Hoge Verdragsluitende Partijen, teneinde in werking te worden gesteld overeenkomstig de grondwettelijke bepalingen van ieder der Hoge Verdragsluitende Partijen;
-
-- c). aanbevelingen doen ten behoeve van de werking van de Unie. De aanbevelingen van het Comité verbinden de Hoge Verdragsluitende Partijen niet;
-
-- d). richtlijnen geven aan de Raad van de Economische Unie, de Commissies en Bijzondere Commissies, het Secretariaat-Generaal en de Gemeenschappelijke Diensten.
+Vervallen
 
 ##### Artikel 20
 
-1. Het Comité van Ministers komt ten minste eens per drie maanden bijeen. In dringende gevallen komt het bijeen op verzoek van de Regering van een der Hoge Verdragsluitende Partijen.
-
-2. De vergaderingen van het Comité worden bij toerbeurt en voor een tijdvak van zes maanden voorgezeten door een Belgisch, Luxemburgs of Nederlands lid, ongeacht de plaats der vergadering.
+Vervallen
 
 ##### Artikel 21
 
-Het Comité kan Werkgroepen instellen, waaraan het bepaalde bevoegdheden kan overdragen. Deze Werkgroepen bestaan uit leden van het Comité of andere leden van de Regering van ieder der Hoge Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 22
 
-Het Comité stelt zijn reglement van orde vast.
+Vervallen
 
 ### HOOFDSTUK 2. Van de Raadgevende Interparlementaire Raad
 
 ##### Artikel 23
 
-De [Overeenkomst van 5 november 1955 betreffende de instelling van de Raadgevende Interparlementaire Beneluxraad](https://wetten.overheid.nl/jci1.3:c:BWBV0004827) regelt de samenstelling, de bevoegdheid en de werkwijze van de Raadgevende Interparlementaire Raad.
+Vervallen
 
 ##### Artikel 24
 
-Het Comité van Ministers treedt namens de drie Regeringen op in de betrekkingen die de Regeringen tezamen onderhouden met de Raadgevende Interparlementaire Raad voor wat betreft de vraagstukken die rechtstreeks verband houden met de werking van de Unie.
+Vervallen
 
 ### HOOFDSTUK 3. Van de Raad van de Economische Unie
 
 ##### Artikel 25
 
-De Raad van de Economische Unie heeft tot taak:
-
-- a). de werkzaamheden van de Commissies en de Bijzondere Commissies te coördineren. Hij kan daartoe deze Commissies en Bijzondere Commissies de nodige richtlijnen geven. Hij zendt de voorstellen van de Commissies en Bijzondere Commissies, zo nodig voorzien van zijn advies, door aan het Comité van Ministers;
-
-- b). voor zover dit de Raad aangaat, de uitvoering van de besluiten van het Comité van Ministers te verzekeren;
-
-- c). aan het Comité van Ministers de voorstellen te doen, welke hij voor de werking van de Unie nuttig acht.
+Vervallen
 
 ##### Artikel 26
 
-1. Het Comité van Ministers bepaalt het aantal afgevaardigden waaruit de Raad bestaat.
-
-2. Het Voorzitterschap van de Raad wordt bij toerbeurt bekleed door drie personen, die elk daartoe door een der Regeringen worden aangewezen. Het Comité van Ministers bepaalt de wijze waarop het voorzitterschap rouleert.
-
-3. Iedere Regering kiest haar andere afgevaardigden uit de delegaties die haar in de Commissies vertegenwoordigen.
-
-4. De Bijzondere Commissies worden in de vergaderingen van de Raad vertegenwoordigd, telkens wanneer op de agenda punten voorkomen welke tot hun bevoegdheid behoren.
+Vervallen
 
 ##### Artikel 27
 
-1. De Raad stelt zijn reglement van orde op en legt dit ter goedkeuring voor aan het Comité van Ministers.
-
-2. Het reglement bepaalt in het bijzonder de gevallen waarin de Commissies zich rechtstreeks tot het Comité van Ministers kunnen wenden.
-
-3. Dit reglement voorziet bovendien in de uitoefening van bepaalde functies van de Raad door de Raad in beperkte samenstelling.
+Vervallen
 
 ### HOOFDSTUK 4. Van de Commissies en de Bijzondere Commissies
 
 ##### Artikel 28
 
-De volgende Commissies worden ingesteld:
-
-- Commissie voor de buitenlandse economische betrekkingen;
-
-- Commissie voor monetaire en financiële vraagstukken;
-
-- Commissie voor industrie en handel;
-
-- Commissie voor landbouw, voedselvoorziening en visserij;
-
-- Commissie voor douane en belastingen;
-
-- Commissie voor het verkeer;
-
-- Commissie voor sociale vraagstukken.
+Vervallen
 
 ##### Artikel 29
 
-De volgende Bijzondere Commissies worden ingesteld:
-
-- Bijzondere Commissie voor de coördinatie van de statistiek;
-
-- Bijzondere Commissie voor de vergelijking der begrotingen van overheids- en semi-overheidsinstellingen;
-
-- Bijzondere Commissie voor de aanbestedingen;
-
-- Bijzondere Commissie voor de volksgezondheid;
-
-- Bijzondere Commissie voor de middenstand.
+Vervallen
 
 ##### Artikel 30
 
-De Commissies en de Bijzondere Commissies hebben ieder op hun terrein tot taak:
-
-- a). uitvoering te geven aan de besluiten van het Comité van Ministers; zij brengen verslag uit aan het Comité van Ministers door tussenkomst van de Raad van de Economische Unie;
-
-- b). door tussenkomst van de Raad van de Economische Unie aan het Comité van Ministers voorstellen te doen welke de werking van de Unie kunnen bevorderen;
-
-- c). de uitvoering door de nationale administraties van de genomen beschikkingen na te gaan.
+Vervallen
 
 ##### Artikel 31
 
-Het Comité van Ministers bepaalt de taakverdeling der Commissies en Bijzondere Commissies. Het kan nieuwe Commissies en Bijzondere Commissies instellen. Het kan de aldus ingestelde Bijzondere Commissies opheffen.
+Vervallen
 
 ##### Artikel 32
 
-1. Het Comité van Ministers bepaalt de wijze waarop ieder der Commissies en Bijzondere Commissies wordt samengesteld.
-
-2. Iedere Regering benoemt haar afgevaardigden in overeenstemming met de door het Comité van Ministers ter uitvoering van lid 1 van dit artikel te treffen regelingen.
-
-3. De Commissies en Bijzondere Commissies stellen hun reglement van orde vast en leggen dit ter goedkeuring voor aan de Raad van de Economische Unie.
+Vervallen
 
 ### HOOFDSTUK 5. Van het Secretariaat-Generaal
 
 ##### Artikel 33
 
-Het Secretariaat-Generaal is gevestigd te Brussel.
+Vervallen
 
 ##### Artikel 34
 
-1. De leiding van het Secretariaat-Generaal berust bij een Secretaris-Generaal van Nederlandse nationaliteit.
-
-2. De Secretaris-Generaal wordt bijgestaan door een Adjunct-Secretaris-Generaal van Belgische nationaliteit en een Adjunct-Secretaris-Generaal van Luxemburgse nationaliteit.
-
-3. Het Comité van Ministers benoemt en ontslaat de Secretaris-Generaal en de Adjunct-Secretarissen-Generaal. Het bepaalt, na advies van de Raad van de Economische Unie in beperkte samenstelling, de schalen voor hun salaris, pensioen en toelagen, alsmede de andere arbeidsvoorwaarden.
+Vervallen
 
 ##### Artikel 35
 
-1. De leden van het personeel zijn van Belgische, Luxemburgse of Nederlandse nationaliteit.
-
-2. De Secretaris-Generaal benoemt en ontslaat de leden van het personeel van het Secretariaat-Generaal overeenkomstig het statuut, voorzien in lid 3 van dit artikel.
-
-3. Het personeelsstatuut, de personeelsformatie, de schalen van de salarissen, pensioenen en toelagen, alsmede de andere arbeidsvoorwaarden worden vastgesteld door het Comité van Ministers op voorstel van de Secretaris-Generaal en na advies van de Raad van de Economische Unie in beperkte samenstelling.
+Vervallen
 
 ##### Artikel 36
 
-1. De Secretaris-Generaal verzorgt het secretariaat van het Comité van Ministers, de Raad van de Economische Unie, de Commissies en de Bijzondere Commissies en van de eventuele ondergeschikte organen; hij heeft tot taak op administratief gebied de werkzaamheden van deze instellingen te coördineren, in voorkomende gevallen de noodzakelijke verbindingen tot stand te brengen en alle voorstellen te doen welke nuttig zijn voor de uitvoering van dit Verdrag, met inachtneming van de bevoegdheid van de andere instellingen van de Unie. De diensten van de griffie van het College van Scheidsrechters worden verzorgd door de Secretaris-Generaal.
-
-2. Het Comité van Ministers kan aan de Secretaris-Generaal andere taken opdragen.
+Vervallen
 
 ##### Artikel 37
 
-1. De Secretaris-Generaal stelt de jaarlijkse ontwerp-begroting van de instellingen van de Unie op en legt haar met begeleidend advies van de Raad van de Economische Unie aan het Comité van Ministers voor.
-
-2. De Hoge Verdragsluitende Partijen regelen bij overeenkomst:
-
-- a). het toezicht op de uitvoering der begrotingen;
-
-- b). het afsluiten van de rekeningen;
-
-- c). het toekennen van de noodzakelijke voorschotten;
-
-- d). de verdeling tussen de Hoge Verdragsluitende Partijen van het nadelig saldo tussen uitgaven en ontvangsten.
-
-3. De Bepalingen van dit artikel zijn niet van toepassing op de Raadgevende Interparlementaire Raad en de Economische en Sociale Raad van Advies.
+Vervallen
 
 ##### Artikel 38
 
-De archieven van het Secretariaat-Generaal zijn onschendbaar.
+Vervallen
 
 ##### Artikel 39
 
-De Secretaris-Generaal geniet in België de voorrechten en immuniteiten overeenkomende met die welke worden toegekend aan een in dat land geaccrediteerd hoofd van een diplomatieke missie. De gerechtelijke immuniteit kan in voorkomende gevallen door het Comité van Ministers worden opgeheven.
+Vervallen
 
 ### HOOFDSTUK 6. Van de Gemeenschappelijke Diensten
 
 ##### Artikel 40
 
-Het Comité van Ministers kan de voor de werking van de Unie wenselijke Gemeenschappelijke Diensten instellen; het bepaalt de bevoegdheden, de organisatie en de werkwijze van deze Diensten.
+Vervallen
 
 ### HOOFDSTUK 7. Van het College van Scheidsrechters
 
 ##### Artikel 41
 
-Het College van Scheidsrechters heeft tot taak de beslechting van geschillen die tussen de Hoge Verdragsluitende Partijen zouden kunnen rijzen met betrekking tot de toepassing van dit Verdrag en van de overeenkomsten welke betrekking hebben op de doelstelling van dit Verdrag.
+Vervallen
 
 ##### Artikel 42
 
-1. Het College van Scheidsrechters is samengesteld uit afdelingen naar gelang van de verschillende soorten van geschillen.
-
-2. Voor iedere afdeling wijst ieder der Hoge Verdragsluitende Partijen een nationale scheidsrechter en een plaatsvervangende nationale scheidsrechter aan.
-
-3. Voor ieder geschil bestaat de afdeling uit de nationale scheidsrechter van ieder der beide partijen bij het geschil alsmede een persoon die bij toerbeurt wordt aangewezen uit een door het Comité van Ministers vastgestelde lijst. Deze persoon bekleedt het voorzitterschap van de afdeling.
+Vervallen
 
 ##### Artikel 43
 
-Indien de Voorzitter van oordeel is dat het belang der tijdens de behandeling van het geschil gerezen rechtsvragen zulks gewenst doet zijn, kan hij, hetzij uit eigen beweging, hetzij op verzoek van een der partijen, beslissen dat de afdeling zal worden aangevuld met twee scheidsrechters voorkomend op de in artikel 42, lid 3, van dit Verdrag bedoelde lijst. Deze scheidsrechters dienen dezelfde nationaliteit te bezitten als de bij het geschil betrokken partijen.
+Vervallen
 
 ##### Artikel 44
 
-Wanneer een geschil niet in het Comité van Ministers kon worden bijgelegd, wordt dit geschil, hetzij op gezamenlijk verzoek van de bij het geschil betrokken partijen, hetzij op verzoek van een hunner, bij het College van Scheidsrechters aanhangig gemaakt.
+Vervallen
 
 ##### Artikel 45
 
-1. Het College van Scheidsrechters doet uitspraak op grondslag van de eerbiediging van het recht. Alvorens vonnis te wijzen kan het in elke stand van het geding aan partijen een voorstel tot minnelijke schikking van het geschil ter goedkeuring voorleggen.
-
-2. Met instemming van partijen doet het College van Scheidsrechters uitspraak ex aequo et bono.
+Vervallen
 
 ##### Artikel 46
 
-1. De vonnissen en de voorstellen tot minnelijke schikking worden door het College van Scheidsrechters bij meerderheid van stemmen aangenomen. De vonnissen zijn definitief en niet vatbaar voor beroep. Door partijen aanvaarde minnelijke schikkingen hebben dezelfde kracht als vonnissen.
-
-2. Onverminderd afwijkende bepalingen kan het College van Scheidsrechters in elke stand van het geding, wanneer het voldoende inlichtingen heeft verzameld, die conservatoire maatregelen voorschrijven welke het noodzakelijk acht.
+Vervallen
 
 ##### Artikel 47
 
-1. Ieder der Hoge Verdragsluitende Partijen kan zich voegen in een geding tussen de twee andere Verdragsluitende Partijen, indien zij aantoont, dat zij belang heeft bij de oplossing van het geschil; de voeging kan slechts de ondersteuning van de eisen van een der partijen ten doel hebben.
-
-2. De voeging leidt niet tot verandering van de samenstelling der afdeling waarbij het geschil is aanhangig gemaakt.
+Vervallen
 
 ##### Artikel 48
 
-Het College van Scheidsrechters kan bij vonnis verklaren, dat een beslissing van een rechterlijke autoriteit of een maatregel genomen door enig ander gezagsorgaan van een der Hoge Verdragsluitende Partijen geheel of gedeeltelijk in strijd is met bepalingen van dit Verdrag of van een overeenkomst welke betrekking heeft op de doelstelling van dit Verdrag. Indien het nationale recht van bedoelde Verdragsluitende Partij geen gelegenheid biedt de gevolgen van die beslissing of maatregel ongedaan te maken, heeft de benadeelde Staat recht op een billijke schadevergoeding. Bij gebreke van overeenstemming tussen de bij het geschil betrokken partijen stelt het College van Scheidsrechters, op verzoek van de belanghebbende partij, de aard en de omvang van de schadevergoeding vast.
+Vervallen
 
 ##### Artikel 49
 
-Wanneer een geschil bij het College van Scheidsrechters is aanhangig gemaakt, onthouden de partijen zich van iedere handeling die de beslechting van het geschil in gevaar zou kunnen brengen of het geschil zou kunnen verergeren.
+Vervallen
 
 ##### Artikel 50
 
-Ingeval een der partijen een vonnis van het College van Scheidsrechters of een door hem voorgeschreven conservatoire maatregel niet ten uitvoer zou hebben gelegd, is de andere partij gerechtigd zich te wenden tot het Internationale Gerechtshof op grond van [artikel 36, lid 2, van het Statuut van dat Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509&artikel=36), tenzij de bij het geschil betrokken partijen overeenkomen, het geschil op een andere wijze te beslechten.
+Vervallen
 
 ##### Artikel 51
 
-1. De Hoge Verdragsluitende Partijen verbinden zich, geschillen als bedoeld in artikel 41 niet op een andere wijze te beslechten dan in dit Verdrag is voorzien.
-
-2. De Hoge Verdragsluitende Partijen komen echter overeen, de geschillen die eveneens de uitlegging of de toepassing van het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) of van het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) in het geding brengen, voor te leggen aan het door genoemde Verdragen ingestelde Gerechtshof. Ingeval het Gerechtshof zich onbevoegd verklaart het geschil te beslechten, is het in artikel 15 van dit Verdrag voorziene College van Scheidsrechters bevoegd.
+Vervallen
 
 ##### Artikel 52
 
-1. Het Comité van Ministers kan het College van Scheidsrechters verzoeken, advies uit te brengen nopens rechtsvragen met betrekking tot de bepalingen van dit Verdrag en van de overeenkomsten welke betrekking hebben op de doelstelling van dit Verdrag.
-
-2. De adviezen worden door de Voorzitters der afdelingen, in vergadering verenigd, bij meerderheid van stemmen uitgebracht.
+Vervallen
 
 ##### Artikel 53
 
-Het statuut van het College van Scheidsrechters wordt vastgesteld bij beslissing van het Comité van Ministers.
+Vervallen
 
 ### HOOFDSTUK 8. Van de Economische en Sociale Raad van Advies
 
 ##### Artikel 54
 
-1. De Economische en Sociale Raad van Advies stelt op verzoek van het Comité van Ministers adviezen op betreffende vraagstukken die rechtstreeks verband houden met de werking van de Unie; te dien einde verstrekt het Comité van Ministers de nodige inlichtingen aan de Raad. De Raad is eveneens bevoegd eigener beweging adviezen te geven aan het Comité van Ministers betreffende deze vraagstukken.
-
-2. De Raad van Advies bestaat uit ten hoogste 27 leden en 27 plaatsvervangende leden, waarvan een derde kan worden aangewezen door ieder der Hoge Verdragsluitende Partijen. De leden en de plaatsvervangende leden worden aangewezen in overleg met het lichaam of de lichamen die de toporganen van de economische en sociale bedrijfsorganisatie vormen.
-
-3. De Raad van Advies kiest uit zijn leden een Voorzitter.
-
-4. De Raad van Advies stelt zijn reglement van orde op bij eenvoudige meerderheid van de uitgebrachte stemmen en legt dit ter goedkeuring voor aan het Comité van Ministers.
+Vervallen
 
 ## Deel 3. BIJZONDERE BEPALINGEN BETREFFENDE BEPAALDE ASPECTEN VAN DE ECONOMISCHE UNIE
 
@@ -476,279 +312,199 @@ Het statuut van het College van Scheidsrechters wordt vastgesteld bij beslissing
 
 ##### Artikel 55
 
-Bij overeenkomst tussen de Hoge Verdragsluitende Partijen worden de voorwaarden bepaald, waaraan het binnenkomen, het verlaten, de bewegingsvrijheid, het verblijf, de vestiging en de verwijdering van de onderdanen van een Hoge Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij kunnen worden onderworpen op grond van overwegingen die verband houden met de openbare orde, de openbare veiligheid, de volksgezondheid of de goede zeden.
+Vervallen
 
 ##### Artikel 56
 
-De behandeling van de onderdanen van een Hoge Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij met betrekking tot de wettelijke en gerechtelijke bescherming van hun persoon, hun rechten en hun belangen wordt voor zover nodig bepaald bij overeenkomst tussen de Hoge Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 57
 
-Voor zover de huisvesting door voorschriften van wetgevende of administratieve autoriteiten is geregeld, genieten de onderdanen van elke Hoge Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partijen de behandeling welke voor de eigen onderdanen geldt.
+Vervallen
 
 ##### Artikel 58
 
-1. De werkzaamheden van de vennootschappen welke zijn opgericht overeenkomstig de wetgeving van een der Hoge Verdragsluitende Partijen, wanneer zij worden uitgeoefend op het grondgebied van een andere Verdragsluitende Partij hetzij rechtstreeks hetzij door tussenkomst van filialen of agentschappen, zijn onderworpen aan het recht van de laatstgenoemde Verdragsluitende Partij.
-
-2. Deze werkzaamheden kunnen niet aan zwaardere voorwaarden worden onderworpen dan die welke aan nationale vennootschappen worden opgelegd. De vennootschappen van een Hoge Verdragsluitende Partij kunnen evenwel op het grondgebied van een andere Verdragsluitende Partij niet meer rechten hebben dan soortgelijke nationale vennootschappen.
-
-3. Op het gebied van verzekeringen, spaarkassen en bouwkassen kunnen de Hoge Verdragsluitende Partijen afwijken van lid 2 van dit artikel, voorzover deze afwijkingen in hoofdzaak de bescherming beogen van de verzekerden, verzekeringnemers, gelaedeerden en bouwspaarders. Deze afwijkingen worden bij overeenkomst geregeld.
-
-4. Onder vennootschappen in de zin van dit artikel worden verstaan vennootschappen van burgerlijk en handelsrecht met inbegrip van coöperatieve verenigingen en andere privaatrechtelijke rechtspersonen. Voor de toepassing van dit artikel worden evenwel de privaatrechtelijke rechtspersonen wier doel niet op winst is gericht slechts als vennootschappen beschouwd voor wat betreft hun werkzaamheid op het gebied van het bankwezen, verzekeringen, spaarkassen en bouwkassen. De Luxemburgse landbouwverenigingen worden ook als vennootschappen beschouwd.
+Vervallen
 
 ##### Artikel 59
 
-1. De vennootschappen welke zijn opgericht overeenkomstig de wetgeving van een Hoge Verdragsluitende Partij en binnen het grondgebied van een der Hoge Verdragsluitende Partijen hun fiscaal domicilie hebben, zijn op het grondgebied der andere Verdragsluitende Partijen, onverschillig of zij daar een of meer filialen of agentschappen hebben, niet onderworpen aan hogere fiscale lasten dan die welke worden gedragen door soortgelijke nationale vennootschappen.
-
-2. De vennootschappen in de zin van lid 1 van dit artikel zijn die welke in artikel 58 van dit Verdrag zijn omschreven.
+Vervallen
 
 ##### Artikel 60
 
-De behandeling van de onderdanen van de Hoge Verdragsluitende Partijen wat betreft het vervullen van een betrekking in loondienst bij een particuliere werkgever en wat betreft de aanspraken inzake sociale zekerheid wordt bij overeenkomst tussen de Hoge Verdragsluitende Partijen geregeld.
+Vervallen
 
 ##### Artikel 61
 
-1. In afwijking van artikel 2, lid 2, onder **b**), van dit Verdrag blijft ieder der Hoge Verdragsluitende Partijen bevoegd de uitoefening van de volgende economische en beroepswerkzaamheden aan haar eigen onderdanen voor te behouden:
-
-- a). de openbare functies, ambten of betrekkingen, met inbegrip van de ambten van notaris, procureur en deurwaarder;
-
-- b). het beroep van advocaat;
-
-- c). de uitoefening van de geneeskunde en van de daarmee verband houdende beroepen in het Groothertogdom Luxemburg;
-
-- d). de visserij in de binnenwateren, het loodswezen en de interne diensten van de havens.
-
-2. De bepalingen van artikel 2, lid 2, onder **b**), van dit Verdrag brengen geen wijziging in de nationale bepalingen met betrekking tot de diploma's welke voor het uitoefenen van bepaalde beroepen worden vereist.
+Vervallen
 
 ##### Artikel 62
 
-Op het gebied van de aanbestedingen mag door overheidsinstellingen van een Hoge Verdragsluitende Partij geen enkele discriminatie, in welke vorm ook, worden toegepast ten gunste van haar nationale produkten of van haar eigen onderdanen en ten nadele van produkten of onderdanen van de andere Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 63
 
-Bij de toepassing van artikel 62 van dit Verdrag wordt verstaan onder:
-
-- A. Aanbestedingen: alle aanbestedingen van werken en alle aankopen van goederen door overheidsinstellingen voor hun eigen behoeften, ongeacht de wijze waarop de opdracht tot stand komt;
-
-- B. Overheidsinstellingen:
-
-- a). de Staatsorganen;
-
-- b). de gewestelijke en plaatselijke lichamen in België en in het Groothertogdom Luxemburg alsmede de lagere publiekrechtelijke lichamen in Nederland;
-
-- c). voor zover de Staat op hun aanbestedingen daadwerkelijke invloed uitoefent: de parastatale instellingen in België en het Groothertogdom Luxemburg alsmede de semi-overheidsinstellingen in Nederland.
+Vervallen
 
 ### HOOFDSTUK 2. Van de coördinatie van het beleid
 
 ##### Artikel 64
 
-1. Op het gebied van de investeringen beslist het Comité van Ministers omtrent de wenselijkheid, algemene of bijzondere doelstellingen te aanvaarden van een gecoördineerd investeringsbeleid, dat op de gehele volkshuishouding of één of meer sectoren ervan betrekking heeft.
-
-2. Wanneer het dergelijke doelstellingen vaststelt, bepaalt het Comité van Ministers tegelijkertijd de methoden welke ter verwezenlijking van het gecoördineerd beleid dienen te worden toegepast; deze methoden kunnen inhouden dat de invoeringswetgevingen worden geharmoniseerd.
+Vervallen
 
 ##### Artikel 65
 
-Op het gebied van het landbouwbeleid verbinden de Hoge Verdragsluitende Partijen zich:
-
-- a). de technische vooruitgang stelselmatig te bevorderen;
-
-- b). maatregelen te nemen welke het mogelijk maken, de produktie en afzet van landbouwprodukten te harmoniseren, de landbouwers en landarbeiders van de drie landen bestaanszekerheid te verschaffen in goed geleide en economisch en sociaal verantwoorde bedrijven, alsmede de produktiviteit te ontwikkelen en de kostprijzen in de landbouw zo laag mogelijk te houden, teneinde zoveel mogelijk aan de binnenlandse behoeften te kunnen voldoen en een zo sterk mogelijke positie op buitenlandse markten te verkrijgen.
+Vervallen
 
 ##### Artikel 66
 
-1. Indien één der Hoge Verdragsluitende Partijen vaststelt, dat de toestand in een sector van de landbouw, de voedselvoorziening of de visserij zich zodanig ontwikkelt, dat men mag vrezen voor een ernstige crisistoestand, kan het Comité van Ministers, na advies van de Raadgevende Interparlementaire Raad en van de Economische en Sociale Raad van Advies, de nodige beschikkingen nemen om een dergelijke crisistoestand te voorkomen of uit de weg te ruimen. Deze beschikkingen kunnen tijdelijke afwijkingen van de bepalingen van dit Verdrag inhouden.
-
-2. Indien het om redenen van spoed niet mogelijk is, de in lid 1 van dit artikel bedoelde adviezen in te winnen of tijdig te verkrijgen, brengt het Comité van Ministers op korte termijn verslag uit aan de Raadgevende Interparlementaire Raad en aan de Economische en Sociale Raad van Advies, zowel betreffende de genomen maatregelen als ten aanzien van de omstandigheden welke hiertoe hebben geleid.
+Vervallen
 
 ##### Artikel 67
 
-Bij de toepassing van de bepalingen van artikel 66 van dit Verdrag houden de Hoge Verdragsluitende Partijen rekening met de bijzondere toestand van de Luxemburgse landbouw, zolang deze door minder gunstige natuurlijke produktiefactoren wordt bepaald.
+Vervallen
 
 ##### Artikel 68
 
-Op het gebied van het vervoerswezen berust het gecoördineerde beleid voorzien in artikel 8 van dit Verdrag op de volgende grondbeginselen:
-
-- a). de harmonisatie van de concurrentievoorwaarden tussen de verschillende takken van het binnenlandse vervoer op het grondgebied van elk der Hoge Verdragsluitende Partijen door het afschaffen van de aan de vervoerondernemingen opgelegde lasten en verstrekte voordelen;
-
-- b). de rentabiliteit van de openbare en particuliere vervoerondernemingen.
+Vervallen
 
 ##### Artikel 69
 
-De Hoge Verdragsluitende Partijen verbinden zich, hun gemeenschappelijk beleid te richten op het bevorderen van een harmonische ontwikkeling van, en een actieve samenwerking tussen, hun zeehavens.
+Vervallen
 
 ##### Artikel 70
 
-Op het gebied van het sociale beleid voeren de Hoge Verdragsluitende Partijen in overleg met het georganiseerde bedrijfsleven een gecoördineerd beleid, gericht op de ontwikkeling van de sociale vooruitgang en op de invoering van sociale voorzieningen welke aan hun bevolkingen een zo groot mogelijke bescherming en bestaanszekerheid verschaffen.
+Vervallen
 
 ##### Artikel 71
 
-Op monetair gebied en op het gebied der internationale betalingen betrekken de Hoge Verdragsluitende Partijen de circulatiebanken in de voorbereiding van het gecoördineerde en het gemeenschappelijke beleid, in het bijzonder door hun een voldoende vertegenwoordiging in de Commissie voor monetaire en financiële aangelegenheden te verzekeren.
+Vervallen
 
 ### HOOFDSTUK 3. Van de economische en financiële betrekkingen met het buitenland
 
 ##### Artikel 72
 
-1. Het Comité van Ministers bepaalt de gemeenschappelijke handelspolitiek in de economische betrekkingen met het buitenland en stelt de uitvoeringsmaatregelen daarvan vast.
-
-2. Het stelt in het bijzonder de gemeenschappelijke invoer- en uitvoercontingenten vast.
+Vervallen
 
 ##### Artikel 73
 
-Het Comité van Ministers beslist omtrent de wenselijkheid:
-
-- a). van alle onderhandelingen met derde landen met het oog op het sluiten van verdragen en overeenkomsten inzake de buitenlandse handel, de daarmee verband houdende betalingen en het douanetarief;
-
-- b). van gemeenschappelijke deelneming aan internationale economische conferenties en organisaties.
+Vervallen
 
 ##### Artikel 74
 
-1. De in artikel 73 van dit Verdrag bedoelde onderhandelingen worden door een gemeenschappelijke delegatie gevoerd. Haar samenstelling wordt door het Comité van Ministers bepaald, hetwelk tevens de Voorzitter aanwijst.
-
-2. Het Comité van Ministers stelt de door de gemeenschappelijke delegatie te volgen instructie vast. De Voorzitter is tegenover het Comité van Ministers verantwoordelijk voor de onderhandelingen.
+Vervallen
 
 ##### Artikel 75
 
-De Hoge Verdragsluitende Partijen plegen onderling overleg omtrent voorgenomen maatregelen ter bevordering van de uitvoer. Zij dragen er gemeenschappelijk zorg voor, dat deze maatregelen de concurrentievoorwaarden op de buitenlandse markten tussen de goederen afkomstig uit hun grondgebieden niet verstoren.
+Vervallen
 
 ##### Artikel 76
 
-1. De Hoge Verdragsluitende Partijen verlenen elkaar wederkerig bijstand bij de toepassing van wettelijke en uitvoerende bepalingen betreffende de in-, uit- en doorvoer van goederen en betreffende de daarmee verband houdende betalingen, alsmede bij het voorkomen en bestrijden van strafbare feiten.
-
-2. De maatregelen tot uitvoering van de bepalingen van lid 1 van dit artikel worden vastgesteld bij overeenkomst tussen de Hoge Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 77
 
-Indien de gemeenschappelijke handels- en financiële betrekkingen met bepaalde derde landen of groepen van derde landen kredietverlening of aanvaarding van niet-convertibele valuta's met zich medebrengen, worden de daaruit voortvloeiende lasten op nader overeen te komen wijze tussen de Hoge Verdragsluitende Partijen verdeeld.
+Vervallen
 
 ### HOOFDSTUK 4. Van de douane- en belastingaangelegenheden
 
 ##### Artikel 78
 
-1. De vaststelling van invoerrechten en accijnzen, alsmede van alle andere terzake van de in-, uit- of doorvoer geheven rechten, belastingen of heffingen van welke aard ook, geschiedt gemeenschappelijk of door multilaterale overeenkomsten waarbij de Hoge Verdragsluitende Partijen partij zijn.
-
-2. De wijze van heffing van de in lid 1 van dit artikel bedoelde belastingen wordt tegelijk met de vaststelling van de gemeenschappelijke tarieven bepaald.
+Vervallen
 
 ##### Artikel 79
 
-Ten aanzien van de omzetbelasting, de overdrachttaxe en soortgelijke belastingen wordt een regime ingesteld, dat het in de artikelen 3 tot en met 5 van dit Verdrag voorziene vrije verkeer verzekert.
+Vervallen
 
 ##### Artikel 80
 
-1. Voor de accijnzen en het waarborgrecht voor werken van edel metaal worden gemeenschappelijke rechten vastgesteld, waarbij de heffingsregelingen worden gecoördineerd.
-
-2. Natuurlijke wijn welke in het Groothertogdom Luxemburg volgens de Luxemburgse wettelijke en administratieve bepalingen is bereid uit aldaar geoogste verse druiven, kan niet worden belast met de in [artikel 9 van het Verdrag tot unificatie van accijnzen en van het waarborgrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005676&artikel=9) van 18 februari 1950 bedoelde accijns en aanvullende accijns.
+Vervallen
 
 ##### Artikel 81
 
-1. Indien de gelijkwaardigheid van de specifieke tarieven welke voor de geünificeerde rechten en heffingen van welke aard ook wordt verbroken als gevolg van een herschikking van de muntpariteiten in het Europese monetaire stelsel, verbindt(en) zich de Hoge Verdragsluitende Partij(en) wier munteenheid in waarde is gedaald ten opzichte van die van de overige Verdragsluitende Partij(en), de in haar/hun munteenheid/heden uitgedrukte bedragen dier tarieven in die mate te verhogen dat de gelijkwaardigheid voorlopig wordt hersteld, tenzij tevoren anders is overeengekomen.
-
-De Hoge Verdragsluitende Partij(en) zal/zullen de nodige maatregelen treffen opdat deze verhoging binnen een termijn van twee maanden, te rekenen vanaf de dag waarop tot herschikking van de muntpariteiten wordt besloten, in werking treedt.
-
-2. In afwijking van het bepaalde in lid 1, verbinden de Hoge Verdragsluitende Partijen er zich toe, met betrekking tot de accijnzen van gegiste vruchtendranken, de gelijkwaardigheid van de tarieven voorlopig te herstellen door, ten aanzien van het totale bedrag van de accijns en de complementaire accijns alsmede ten aanzien van de aanvullende accijns, een wederzijdse toenadering te doen, elk voor de helft van het door de pariteitswijziging ontstane verschil, waarbij het tarief van de accijns op 600 F/hl gehandhaafd blijft.
-
-De Hoge Verdragsluitende Partijen zullen de nodige maatregelen treffen opdat deze aanpassingen binnen een termijn van twee maanden, te rekenen vanaf de dag waarop tot herschikking van de muntpariteiten wordt besloten, in werking treden.
-
-3. De Hoge Verdragsluitende Partijen zullen overleg plegen onmiddellijk vanaf de dag waarop in het Europese monetaire stelsel tot herschikking van de muntpariteiten werd besloten, teneinde in ieder van hun nationale munteenheden definitieve gemeenschappelijke bedragen van de in de leden 1 en 2 van het onderhavige artikel bedoelde rechten, belastingen en heffingen vast te stellen.
+Vervallen
 
 ##### Artikel 82
 
-De in de artikelen 11, 78, 79 en 80 van dit Verdrag bedoelde rechten, belastingen en heffingen worden vastgesteld in het wettig betaalmiddel van het land waar de vordering is ontstaan.
+Vervallen
 
 ##### Artikel 83
 
-1. De Hoge Verdragsluitende Partijen verlenen elkaar wederkerig bijstand bij alles wat betreft de heffing en de invordering van de rechten, belastingen en heffingen, bedoeld in de artikelen 11, 78, 79 en 80 van dit Verdrag, alsmede bij het voorkomen en bestrijden van strafbare feiten.
-
-2. De maatregelen tot uitvoering van de bepaling van lid 1 van dit artikel worden vastgesteld bij overeenkomst tussen de Hoge Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 84
 
-De Hoge Verdragsluitende Partijen nemen de nodige maatregelen teneinde de toewijzing van de opbrengst der in de artikelen 11, 78, 79 en 80 van dit Verdrag bedoelde rechten, belastingen of heffingen te verzekeren.
+Vervallen
 
 ### HOOFDSTUK 5. Van het vrije verkeer van vervoerdiensten
 
 ##### Artikel 85
 
-Het Comité van Ministers stelt de toelatingsvoorwaarden vast voor de deelneming aan het nationale vervoer over de weg of per binnenschip door de onderdanen der Hoge Verdragsluitende Partijen welke niet zijn gevestigd op het grondgebied waar zij hun diensten wensen te verlenen.
+Vervallen
 
 ##### Artikel 86
 
-1. Het goederenvervoer over de weg en het ongeregelde reizigersvervoer over de weg tussen de grondgebieden der Hoge Verdragsluitende Partijen zijn onderworpen aan gemeenschappelijke uitvoerings- en controlemaatregelen, welke door het Comité van Ministers worden vastgesteld. Teneinde de harmonische ontwikkeling van het bedoelde goederenvervoer te bevorderen stelt het Comité van Ministers bovendien alle wenselijke maatregelen vast, in het bijzonder inzake de prijsvorming.
-
-2. Het Comité van Ministers bepaalt het regime van het geregelde reizigersvervoer over de weg tussen de grondgebieden van de Hoge Verdragsluitende Partijen.
+Vervallen
 
 ##### Artikel 87
 
-1. Met betrekking tot het internationale wegvervoer, met uitzondering van het ongeregelde reizigersvervoer, vanuit het grondgebied van een Hoge Verdragsluitende Partij naar een derde land stelt het Comité van Ministers de toelatingsvoorwaarden vast voor de onderdanen van de Hoge Verdragsluitende Partijen die niet op het grondgebied van de desbetreffende Hoge Verdragsluitende Partij zijn gevestigd.
-
-2. Voor het ongeregelde reizigersvervoer over de weg vanuit het grondgebied van een der Hoge Verdragsluitende Partijen naar een derde land stelt het Comité van Ministers de uitvoerings- en controlemaatregelen vast.
+Vervallen
 
 ##### Artikel 88
 
-Inzake het door onderdanen der Hoge Verdragsluitende Partijen bewerkstelligde vervoer over de weg of per binnenschip waarborgt elk hunner aan de niet op hun grondgebied gevestigde personen een regime dat in vergelijking met de aldaar gevestigde personen ten minste even gunstig is als het regime dat bij de inwerkingtreding van dit Verdrag wordt toegepast.
+Vervallen
 
 ##### Artikel 89
 
-Onverminderd de bepalingen van artikel 5 van dit Verdrag volgt ieder der Hoge Verdragsluitende Partijen op het gebied van de luchtvaart een liberale politiek ten aanzien van de verlening aan de andere Verdragsluitende Partijen van commerciële rechten voor de exploitatie van geregelde internationale luchtvaartdiensten welke haar grondgebied doorkruisen of daar binnen plaats vinden.
+Vervallen
 
 ### HOOFDSTUK 6. Van de statistiek
 
 ##### Artikel 90
 
-De Hoge Verdragsluitende Partijen verbinden zich, de statistieken samen te stellen welke onmisbaar zijn voor het verkrijgen van vergelijkbare gegevens ter beoordeling van de economische, financiële en sociale toestand hunner landen en deze statistieken uit te wisselen.
+Vervallen
 
 ##### Artikel 91
 
-Geen Hoge Verdragsluitende Partij is verplicht inlichtingen, beantwoordend aan de in artikel 90 van dit Verdrag gegeven omschrijving, te verstrekken in strijd met nationale regelingen welke een vertrouwelijk karakter toekennen aan bepaalde gegevens omdat deze wegens het beperkte aantal berichtgevers inzicht zouden kunnen geven in de toestand van afzonderlijke personen, ondernemingen of instellingen.
+Vervallen
 
 ##### Artikel 92
 
-Het Comité van Ministers kan beslissen, dat in onderlinge samenwerking statistische waarnemingen zullen worden verricht betreffende de goederen en de middelen voor het vervoer van goederen welke de gemeenschappelijke grenzen der Hoge Verdragsluitende Partijen overschrijden.
+Vervallen
 
 ## Deel 4. SLOTBEPALINGEN
 
 ##### Artikel 93
 
-1. De toepassing van dit Verdrag is beperkt tot het grondgebied der Hoge Verdragsluitende Partijen in Europa.
-
-2. Het Koninkrijk der Nederlanden behoudt zich het recht voor, in de verdragen en overeenkomsten bedoeld in artikel 10 van dit Verdrag bepalingen in te lassen die van belang zijn voor Suriname, de Nederlandse Antillen en Nederlands Nieuw-Guinea.
-
-3. Het Koninkrijk België behoudt zich het recht voor, in de bedoelde verdragen en overeenkomsten bepalingen in te lassen die van belang zijn voor Belgisch Congo en Ruanda Urundi.
+Vervallen
 
 ##### Artikel 94
 
-1. De bepalingen van dit Verdrag verzetten zich niet tegen het bestaan noch tegen een eventuele ontwikkeling van de Economische Unie tussen het Koninkrijk België en het Groothertogdom Luxemburg, voor zover de doelstellingen van die Unie niet zijn bereikt door de toepassing van dit Verdrag.
-
-2. De Belgische en de Luxemburgse Regering zullen overgaan tot een onderzoek van het samenstel van verdragen en overeenkomsten waardoor tussen hen de Economische Unie wordt gevormd; alvorens bepalingen vast te stellen waarover zij overeenstemming zouden bereiken, stellen zij de Nederlandse Regering in kennis van het resultaat van dit onderzoek.
+Vervallen
 
 ##### Artikel 95
 
-1. De Unie geniet op het grondgebied van ieder der Hoge Verdragsluitende Partijen dezelfde immuniteiten als aan vreemde Staten worden toegekend.
-
-2. De Unie geniet op het grondgebied van ieder der Hoge Verdragsluitende Partijen dezelfde rechtsbevoegdheid als aan nationale rechtspersonen wordt toegekend, voor zover deze nodig is voor het uitoefenen van haar taak en voor het bereiken van haar doeleinden; in het bijzonder kan zij onroerende en roerende goederen verwerven en vervreemden alsmede in rechte optreden. De Unie wordt hiertoe door de Secretaris-Generaal vertegenwoordigd.
-
-3. Ingeval van een competentiegeschil tussen de rechtsprekende organen der Hoge Verdragsluitende Partijen terzake van een geschil waarbij de Unie als partij optreedt, is het gerecht binnen welks gebied het Secretariaat-Generaal zijn zetel heeft bij uitsluiting bevoegd.
+Vervallen
 
 ##### Artikel 96
 
-De officiële talen van de instellingen van de Unie zijn het Nederlands en het Frans.
+Vervallen
 
 ##### Artikel 97
 
-De volledige toepassing der bepalingen van dit Verdrag vangt aan bij de inwerkingtreding van het Verdrag voor zover de Overgangsovereenkomst geen afwijkende bepalingen bevat.
+Vervallen
 
 ##### Artikel 98
 
-De Overgangsovereenkomst en het Uitvoeringsprotocol vormen een integrerend bestanddeel van dit Verdrag.
+Vervallen
 
 ##### Artikel 99
 
-1. Dit Verdrag wordt gesloten voor een tijdvak van vijftig jaren.
-
-2. Het blijft vervolgens voor achtereenvolgende tijdvakken van tien jaren van kracht, tenzij één der Hoge Verdragsluitende Partijen één jaar voor de afloop van het lopende tijdvak de andere Verdragsluitende Partijen in kennis stelt van haar voornemen, dit Verdrag te beëindigen.
+Vervallen
 
 ##### Artikel 100
 
-Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Belgische Regering die deze onmiddellijk na de inwerkingtreding van dit Verdrag aan het Secretariaat-Generaal zal overdragen. Het zal in werking treden op de eerste dag van de derde maand volgende op de nederlegging van de derde akte van bekrachtiging.
+Vervallen
 
 De Hoge Verdragsluitende Partijen bij het heden ondertekende Verdrag tot instelling van de Benelux Economische Unie, hierna genoemd „Unieverdrag”;
 
@@ -920,7 +676,7 @@ Het Comité van Ministers kan gescheiden uitvoercontingenten tegenover een derde
 
 De Hoge Verdragsluitende Partijen stellen vóór 1 januari 1959 de in artikel 76, lid 2, van het Unieverdrag voorziene overeenkomsten op.
 
-### HOOFDSTUK 5. Van het betalingsverkeer
+### HOOFDSTUK 6. Van de douane- en belastingaangelegenheden
 
 ##### Artikel 30
 
@@ -1153,3 +909,257 @@ Gedurende de looptijd van het Unieverdrag worden geschorst:
 TEN BLIJKE WAARVAN de Gevolmachtigden dit Verdrag hebben ondertekend en voorzien van hun zegel.
 
 GEDAAN te 's-Gravenhage, 3 februari 1958, in drievoud in de Nederlandse en in de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+
+## Deel 1. BEGINSELEN
+
+## Deel 2. INSTELLINGEN
+
+### HOOFDSTUK 1. Van het Comité van Ministers
+
+### HOOFDSTUK 2. Van de Raadgevende Interparlementaire Raad
+
+### HOOFDSTUK 3. Van de Raad van de Economische Unie
+
+### HOOFDSTUK 4. Van de Commissies en de Bijzondere Commissies
+
+### HOOFDSTUK 5. Van het Secretariaat-Generaal
+
+### HOOFDSTUK 6. Van de Gemeenschappelijke Diensten
+
+### HOOFDSTUK 7. Van het College van Scheidsrechters
+
+### HOOFDSTUK 8. Van de Economische en Sociale Raad van Advies
+
+## Deel 3. BIJZONDERE BEPALINGEN BETREFFENDE BEPAALDE ASPECTEN VAN DE ECONOMISCHE UNIE
+
+### HOOFDSTUK 1. Van de nationale behandeling, de bewegingsvrijheid en de uitoefening van economische en beroepswerkzaamheden
+
+### HOOFDSTUK 2. Van de coördinatie van het beleid
+
+### HOOFDSTUK 3. Van de economische en financiële betrekkingen met het buitenland
+
+### HOOFDSTUK 4. Van de douane- en belastingaangelegenheden
+
+### HOOFDSTUK 5. Van het vrije verkeer van vervoerdiensten
+
+### HOOFDSTUK 6. Van de statistiek
+
+## Deel 4. SLOTBEPALINGEN
+
+### HOOFDSTUK 1. Van de nationale behandeling, de bewegingsvrijheid en de uitoefening van economische en beroepswerkzaamheden
+
+##### Artikel 1
+
+Vervallen
+
+##### Artikel 2
+
+Vervallen
+
+##### Artikel 3
+
+Vervallen
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+Vervallen
+
+##### Artikel 6
+
+Vervallen
+
+##### Artikel 7
+
+Vervallen
+
+##### Artikel 8
+
+Vervallen
+
+### HOOFDSTUK 2. Van het handelsverkeer tussen de grondgebieden van de Hoge Verdragsluitende Partijen
+
+##### Artikel 9
+
+Vervallen
+
+##### Artikel 10
+
+Vervallen
+
+### HOOFDSTUK 3. Van de landbouw
+
+##### Artikel 11
+
+Vervallen
+
+##### Artikel 12
+
+Vervallen
+
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+Vervallen
+
+##### Artikel 15
+
+Vervallen
+
+##### Artikel 16
+
+Vervallen
+
+##### Artikel 17
+
+Vervallen
+
+##### Artikel 18
+
+Vervallen
+
+##### Artikel 19
+
+Vervallen
+
+##### Artikel 20
+
+Vervallen
+
+##### Artikel 21
+
+Vervallen
+
+##### Artikel 22
+
+Vervallen
+
+##### Artikel 23
+
+Vervallen
+
+##### Artikel 24
+
+Vervallen
+
+##### Artikel 25
+
+Vervallen
+
+### HOOFDSTUK 4. Van de economische en financiële betrekkingen met het buitenland
+
+##### Artikel 26
+
+Vervallen
+
+##### Artikel 27
+
+Vervallen
+
+##### Artikel 28
+
+Vervallen
+
+##### Artikel 29
+
+Vervallen
+
+### HOOFDSTUK 5. Van het betalingsverkeer
+
+##### Artikel 30
+
+Vervallen
+
+##### Artikel 31
+
+Vervallen
+
+##### Artikel 32
+
+Vervallen
+
+##### Artikel 33
+
+Vervallen
+
+### HOOFDSTUK 7. Van het vervoerswezen
+
+##### Artikel 34
+
+Vervallen
+
+##### Artikel 35
+
+Vervallen
+
+### HOOFDSTUK 8. Slotbepalingen
+
+##### Artikel 36
+
+Vervallen
+
+##### Artikel 37
+
+Vervallen
+
+##### Artikel 1
+
+Vervallen
+
+##### Artikel 2
+
+Vervallen
+
+##### Artikel 3
+
+Vervallen
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+Vervallen
+
+##### Artikel 6
+
+Vervallen
+
+##### Artikel 7
+
+Vervallen
+
+##### Artikel 8
+
+Vervallen
+
+##### Artikel 9
+
+Vervallen
+
+##### Artikel 10
+
+Vervallen
+
+##### Artikel 11
+
+Vervallen
+
+##### Artikel 12
+
+Vervallen
+
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+Vervallen
