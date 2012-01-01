@@ -4,7 +4,7 @@ identifier: "BWBR0032208"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-12-31"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032208"
 soort: "wet"
@@ -54,7 +54,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
@@ -62,11 +62,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
@@ -86,7 +86,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XI
 
@@ -102,7 +102,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XIV
 
@@ -110,7 +110,7 @@ Wijzigt de Wet loonbelasting BES.
 
 ##### Artikel XIVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel XV
 
