@@ -135,9 +135,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische diensten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
