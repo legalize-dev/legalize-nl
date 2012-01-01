@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), [28, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [80, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28i, eerste lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i).
+1. Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [80, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28i, eerste lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -55,7 +55,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 - b. **het besluit:** het [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178);
 
-- c. **een afvalverwerkingsinrichting:** een inrichting als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22);
+- c. vervallen;
 
 - d. **een krat:** een verpakking met zes vlakken waarvan minimaal een vlak open is, zodat er zonder aanpassing van de verpakking een product kan worden in- of uitgepakt;
 
@@ -65,23 +65,11 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 2
 
-De watermeters, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=2), worden geplaatst in aansluiting op een recht gedeelte van de pijpleiding zodanig dat de lengte van het rechte gedeelte vóór de meter minimaal tienmaal de nominale doorsnede van de pijpleiding bedraagt en de lengte van het rechte gedeelte ná de meter minimaal vijfmaal de nominale doorsnede van de pijpleiding bedraagt.
+Vervallen
 
 ##### Artikel 3
 
-1. De houder van een inrichting als bedoeld in [artikel 3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=3), houdt dagelijks op een meetstaat aantekening van de hoeveelheden onttrokken grondwater en geïnfiltreerd water, gespecificeerd naar meter en winningspunt.
-
-2. De in het eerste lid bedoelde meetstaat behelst in ieder geval:
-
-- a. gegevens ter identificatie van de meter;
-
-- b. de datum van opname en de stand van de meter;
-
-- c. de onttrekking en infiltratie sinds de vorige opname van de meter, en
-
-- d. voorvallen die van invloed zijn of kunnen zijn op de meting (onder opgave van de datum).
-
-3. De inspecteur kan op verzoek de houder van een inrichting bij voor bezwaar vatbare beschikking toestaan de in het eerste lid bedoelde aantekeningen anders in te richten dan wel de in het eerste lid bedoelde hoeveelheden niet dagelijks aan te tekenen. De inspecteur kan aan die toestemming voorwaarden verbinden.
+Vervallen
 
 ##### Artikel 4
 
@@ -271,7 +259,7 @@ De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld 
 
 ##### Artikel 7
 
-Het gewicht van de in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=23) bedoelde afvalstoffen wordt onder verantwoordelijkheid van de houder van een afvalverwerkingsinrichting onmiddellijk vóór dan wel aansluitend op de afgifte bepaald in kilogrammen door weging met een meetinstrument dat voldoet aan de eisen die bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) worden gesteld aan een meetinstrument.
+Vervallen
 
 ##### Artikel 7a
 
@@ -293,19 +281,7 @@ De verklaring, bedoeld in [artikel 6c, eerste en derde lid, van het besluit](htt
 
 ##### Artikel 8
 
-Voor de toepassing van [artikel 28, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28) worden aangewezen:
-
-- a. residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib;
-
-- b. regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen;
-
-- c. anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis;
-
-- d. residuen van zuivering in een afvalwaterbehandelingsinstallatie van afvalwater afkomstig van de rookgasontzwaveling van een kolengestookte elektriciteitscentrale;
-
-- e. residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval, en
-
-- f. poreuze perliteresiduen, poreuze vermiculiteresiduen, perlitestof en vermiculitestof afkomstig van de thermische en mechanische bewerking van het gesteente perlite en het mineraal vermiculite.
+Vervallen
 
 ### Hoofdstuk IVa. Energiebelasting
 
@@ -715,7 +691,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -797,23 +773,21 @@ Vervallen
 
 1. De teruggaafregeling, bedoeld in [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is van toepassing mits:
 
-- a. de notarieel verleden statuten waaruit de doelstelling van de instelling blijkt, desgevraagd worden overgelegd;
+- a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69);
 
-- b. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen b, c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en
+- b. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet;
 
-- c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet; alsmede, indien het een instelling betreft die een sociaal belang behartigt:
-
-- d. de instelling verklaart dat is voldaan aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69).
+- c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.
 
 2. De teruggaafregeling, bedoeld in [artikel 69, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is van toepassing mits:
 
-- a. de notarieel verleden statuten onderscheidenlijk verklaringen waaruit de doelstelling van de instellingen, bedoeld in [artikel 69, derde lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), blijkt, desgevraagd worden overgelegd;
+- a. de notarieel verleden statuten onderscheidenlijk verklaringen waaruit de doelstelling van de instellingen, bedoeld in [artikel 69, derde lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), blijkt, desgevraagd worden overgelegd;
 
-- b. de instelling die het verzoek om teruggaaf doet, verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, derde lid, onderdelen c, d en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69);
+- b. de instelling die het verzoek om teruggaaf doet, verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, derde lid, onderdelen a en d tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69);
 
 - c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet, en
 
-- d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die charitatief, cultureel, wetenschappelijk of het algemeen nut beogend is dan wel een sociaal belang behartigt.
+- d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), en [artikel 69, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69).
 
 ##### Artikel 27
 
@@ -885,7 +859,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2011-01-01&g=2011-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2012-01-01&g=2012-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
