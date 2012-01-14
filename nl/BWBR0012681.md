@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2011-02-19"
+last_updated: "2012-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -136,7 +136,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië;
 
-- 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin: NAVO OPERATIES;
+- 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin;
+
+- 6°. de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
