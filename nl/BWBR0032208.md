@@ -4,7 +4,7 @@ identifier: "BWBR0032208"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032208"
 soort: "wet"
@@ -90,7 +90,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XIa
 
