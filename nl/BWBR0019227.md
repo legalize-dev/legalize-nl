@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2010-12-16"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het CPE: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten;
 
-- c. IG-VWA: de inspecteur-generaal van de Voedsel en Waren Autoriteit;
+- c. IG-NVWA: de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
 - d. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191).
 
@@ -60,17 +60,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Voedsel en Waren Autoriteit een werkprogramma in bij de IG-VWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2010-12-16&g=2010-12-16) voor het eerstkomende volle kalenderjaar.
+1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2012-01-19&g=2012-01-19) voor het eerstkomende volle kalenderjaar.
 
-2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-VWA.
+2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-NVWA.
 
 ##### Artikel 4
 
-De IG-VWA is bevoegd aan de directeuren van het COKZ en het CPE algemene of bijzondere aanwijzingen te geven over de uitvoering van de werkzaamheden van het COKZ onderscheidenlijk het CPE.
+De IG-NVWA is bevoegd aan de directeuren van het COKZ en het CPE algemene of bijzondere aanwijzingen te geven over de uitvoering van de werkzaamheden van het COKZ onderscheidenlijk het CPE.
 
 ##### Artikel 5
 
-De directeuren van het COKZ en het CPE zenden jaarlijks voor 1 juni een verslag van de werkzaamheden van het COKZ onderscheidenlijk het CPE in het afgelopen jaar aan de IG-VWA.
+De directeuren van het COKZ en het CPE zenden jaarlijks voor 1 juni een verslag van de werkzaamheden van het COKZ onderscheidenlijk het CPE in het afgelopen jaar aan de IG-NVWA.
 
 ##### Artikel 6
 
