@@ -4,7 +4,7 @@ identifier: "BWBR0019074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-03"
-last_updated: "2011-05-14"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019074"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-De informatie, bedoeld in [artikel 21a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21a) wordt aan het publiek beschikbaar gesteld op de website en ten kantore van de Voedsel en Waren Autoriteit.
+De informatie, bedoeld in [artikel 21a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21a) wordt aan het publiek beschikbaar gesteld op de website en ten kantore van de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 2
 
-Het op de hoogte stellen van de Minister van Volksgezondheid, Welzijn en Sport, bedoeld in [artikel 21b, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b), geschiedt door middel van een kennisgeving aan Voedsel en Waren Autoriteit in de gevallen bedoeld in en met inachtneming van de Beschikking van de Europese Commissie van 14 december 2004 tot vaststelling van richtsnoeren voor het melden van gevaarlijke producten aan de bevoegde autoriteiten van de lidstaten door producenten en distributeurs overeenkomstig artikel 5, lid 3, van [Richtlijn 2001/95](32001L0095)/ van het Europees Parlement en de Raad (Pb EG L 381).
+Het op de hoogte stellen van de Minister van Volksgezondheid, Welzijn en Sport, bedoeld in [artikel 21b, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b), geschiedt door middel van een kennisgeving aan Nederlandse Voedsel- en Warenautoriteit in de gevallen bedoeld in en met inachtneming van de Beschikking van de Europese Commissie van 14 december 2004 tot vaststelling van richtsnoeren voor het melden van gevaarlijke producten aan de bevoegde autoriteiten van de lidstaten door producenten en distributeurs overeenkomstig artikel 5, lid 3, van [Richtlijn 2001/95](32001L0095)/ van het Europees Parlement en de Raad (Pb EG L 381).
 
 ##### Artikel 3
 
-De in [artikel 21b, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b) bedoelde medewerking wordt verleend aan en met inachtneming van de aanwijzingen van de Voedsel en Waren Autoriteit.
+De in [artikel 21b, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21b) bedoelde medewerking wordt verleend aan en met inachtneming van de aanwijzingen van de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 4
 
@@ -66,7 +66,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-De Voedsel en Waren Autoriteit wordt aangewezen:
+De Nederlandse Voedsel- en Warenautoriteit wordt aangewezen:
 
 - a. als bevoegde autoriteit als bedoeld in de artikelen 4, 6 en 7 van verordening (EG) nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG (PbEU L 218);
 
