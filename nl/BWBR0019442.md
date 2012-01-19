@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2006-06-14"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - g. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191);
 
-- h. VWA: de Voedsel en Waren Autoriteit1Postbus 19506, 2500 CM Den Haag, of http://www.VWA.nl.;
+- h. NVWA: de Nederlandse Voedsel- en Warenautoriteit;
 
 - i. KvK-nummer: het nummer waaronder een bedrijf geregistreerd is bij de Kamer van Koophandel;
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De exploitant van een levensmiddelenbedrijf verstrekt aan de VWA ter uitvoering van artikel 6, tweede lid, eerste volzin, van [verordening (EG) 852/2004](32004R0852), ten aanzien van elke inrichting die onder zijn beheer enigerlei activiteit uitvoert in de stadia van de productie, verwerking en distributie van levensmiddelen, de volgende informatie:
+1. De exploitant van een levensmiddelenbedrijf verstrekt aan de NVWA ter uitvoering van artikel 6, tweede lid, eerste volzin, van [verordening (EG) 852/2004](32004R0852), ten aanzien van elke inrichting die onder zijn beheer enigerlei activiteit uitvoert in de stadia van de productie, verwerking en distributie van levensmiddelen, de volgende informatie:
 
 - a. naam, adres en vestigingsplaats;
 
@@ -80,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 - e. de kernactiviteiten.
 
-2. De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de VWA. Dit formulier is verkrijgbaar bij de VWA.
+2. De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de NVWA. Dit formulier is verkrijgbaar bij de NVWA.
 
-3. De VWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de VWA is ontvangen.
+3. De NVWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de NVWA is ontvangen.
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-01-19&g=2012-01-19) voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-01-19&g=2012-01-19) bedoelde informatie bekend is bij:
 
 - a. het Hoofdbedrijfschap Detailhandel;
 
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - l. voor zover het een agrarische onderneming betreft, het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-2. De VWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) bedoelde informatie reeds in het bezit is van de VWA.
+2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-01-19&g=2012-01-19) bedoelde informatie reeds in het bezit is van de NVWA.
 
 ##### Artikel 4
 
@@ -122,11 +122,11 @@ In deze regeling wordt verstaan onder:
 
 - b. het CPE, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat;
 
-- c. de VWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van [verordening (EG) 853/2004](32004R0853), voorschriften bevat; of
+- c. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van [verordening (EG) 853/2004](32004R0853), voorschriften bevat; of
 
-- d. het COKZ, onderscheidenlijk het CPE of de VWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop zowel de onderdelen a en b, b en c, of a en c van toepassing zijn.
+- d. het COKZ, onderscheidenlijk het CPE of de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop zowel de onderdelen a en b, b en c, of a en c van toepassing zijn.
 
-2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk het CPE of de VWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van [verordening (EG) 882/2004](32004R0882).
+2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk het CPE of de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van [verordening (EG) 882/2004](32004R0882).
 
 ##### Artikel 5
 
@@ -138,6 +138,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14).
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-01-19&g=2012-01-19).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
