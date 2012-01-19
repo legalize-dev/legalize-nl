@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2007-06-30"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **verordening (EG) 853/2004**: [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
 
-- c. **VWA**: de Voedsel en Waren Autoriteit;
+- c. **NVWA**: de Nederlandse Voedsel- en Warenautoriteit;
 
 - d. **AID**: de Algemene Inspectiedienst;
 
@@ -68,23 +68,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de VWA.
+1. Het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de NVWA.
 
 2. Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door:
 
-- a. controleurs van de AID bij uitsluitend primaire bedrijven;
+- a. controleurs van het COKZ bij uitsluitend zuivelinrichtingen;
 
-- b. controleurs van het COKZ bij uitsluitend zuivelinrichtingen;
+- b. controleurs van het CPE bij uitsluitend ei- en eiproducteninrichtingen;
 
-- c. controleurs van het CPE bij uitsluitend ei- en eiproducteninrichtingen;
+- c. controleurs van hetzij het COKZ, hetzij het CPE, bij gemengde bedrijven;
 
-- d. controleurs van hetzij de AID, hetzij het COKZ, hetzij het CPE, bij gemengde bedrijven;
+- d. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;
 
-- e. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;
+- e. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.
 
-- f. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.
-
-3. De inspecteur-generaal van de VWA stelt na overleg met de directeuren van de AID, het COKZ en het CPE, de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder d.
+3. De inspecteur-generaal van de NVWA stelt na overleg met het COKZ en het CPE de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder c.
 
 ##### Artikel 3
 
