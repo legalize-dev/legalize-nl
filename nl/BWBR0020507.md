@@ -4,7 +4,7 @@ identifier: "BWBR0020507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-14"
-last_updated: "2010-04-22"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020507"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de luchthaven Schiphol.
 
-2. De Voedsel en Waren Autoriteit houdt een bijgewerkte lijst van aangewezen punten en de desbetreffende EU-noodmaatregelen bij en maakt deze openbaar op de eigen website.
+2. De Nederlandse Voedsel- en Warenautoriteit houdt een bijgewerkte lijst van aangewezen punten en de desbetreffende EU-noodmaatregelen bij en maakt deze openbaar op de eigen website.
 
 ##### Artikel 4
 
