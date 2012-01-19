@@ -4,7 +4,7 @@ identifier: "BWBR0017587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2005-01-01"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017587"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Er is een Bestuurlijk afstemmingsoverleg infectieziektebestrijding (hierna: het 
 
 - f. de bij het onderwerp van de vergadering betrokken lokale bestuurders;
 
-- g. zij die op uitnodiging van de voorzitter van het BAO de vergaderingen bijwonen. Hieronder wordt met name verstaan een vertegenwoordiger van de Voedsel en Waren Autoriteit.
+- g. zij die op uitnodiging van de voorzitter van het BAO de vergaderingen bijwonen. Hieronder wordt met name verstaan een vertegenwoordiger van de Nederlandse Voedsel- en Warenautoriteit.
 
 2. De minister benoemt de in het eerste lid, onderdeel e, genoemde personen en hun plaatsvervangers, op voordracht van de organisaties die zij vertegenwoordigen, voor een periode van vier jaar, met de mogelijkheid van herbenoeming. Bij eventuele tussentijdse benoeming wegens vervanging geldt de benoeming voor de resterende periode.
 
