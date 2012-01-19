@@ -4,7 +4,7 @@ identifier: "BWBR0024875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-30"
-last_updated: "2012-01-01"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024875"
 soort: "ministeriele-regeling"
@@ -68,13 +68,13 @@ Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en b
 
 - a. door middel van publicatie op een door de Minister van Buitenlandse Zaken aan te wijzen vervangend internetadres,
 
-- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2009-07-01&g=2012-01-01) genoemde uitgiftepunt, of
+- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2012-01-19&g=2012-01-19) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
 ##### Artikel 4
 
-Het uitgiftepunt, bedoeld in artikel 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen, is ondergebracht bij de stichting ICTU, Wilhelmina van Pruisenweg 104, Postbus 84011, 2508 AA Den Haag.
+Het uitgiftepunt, bedoeld in [artikel 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16b), is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
 
 ##### Artikel 5
 
