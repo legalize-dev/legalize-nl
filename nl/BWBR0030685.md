@@ -4,7 +4,7 @@ identifier: "BWBR0030685"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-24"
-last_updated: "2012-01-01"
+last_updated: "2012-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030685"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel III
 
@@ -62,6 +62,6 @@ Voorverpakte levensmiddelen die uiterlijk zes maanden na de datum van uitgifte v
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2012.
 
-2. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030685&artikel=II&z=2012-01-01&g=2012-01-01) in werking acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt.
+2. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030685&artikel=II&z=2012-01-24&g=2012-01-24) in werking acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
