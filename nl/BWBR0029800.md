@@ -4,7 +4,7 @@ identifier: "BWBR0029800"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-23"
-last_updated: "2011-04-02"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029800"
 soort: "AMvB"
@@ -62,7 +62,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Met ingang van 1 januari 2014 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.
+1. Met ingang van 30 september 2013 heeft een postvervoerbedrijf met ten minste 80% van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst.
+
+2. Het in het eerste lid genoemde percentage wordt bereikt doordat een postvervoerbedrijf:
+
+- a. met ingang van 1 februari 2012 met ten minste 10%,
+
+- b. met ingang van 30 juni 2012 met ten minste 25%,
+
+- c. met ingang van 31 december 2012 met ten minste 40% en
+
+- d. met ingang van 30 juni 2013 met ten minste 60%
+
+van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst heeft.
 
 ##### Artikel 3
 
