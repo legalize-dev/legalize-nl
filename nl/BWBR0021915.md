@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2011-06-01"
+last_updated: "2012-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -132,11 +132,11 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 ##### Artikel 6
 
-1. De ondernemer draagt er zorg voor dat in de ruimte waar tatoeage- of piercingmateriaal wordt gebruikt, schriftelijke informatie voorhanden is over het gebruik van het materiaal waarvoor een vergunning is verleend, betreffende:
+1. De ondernemer draagt er zorg voor dat in de ruimte waar tatoeage- of piercingmateriaal wordt gebruikt, schriftelijke informatie voorhanden is over het gebruik van het materiaal, betreffende:
 
 - a. de gevaren voor infecties en andere complicaties;
 
-- b. het verzorgen van de verwondingen die ontstaan door het gebruik van het materiaal waarvoor een vergunning is verleend;
+- b. het verzorgen van de verwondingen die ontstaan door het gebruik van het materiaal;
 
 - c. de risico’s van het gebruik van het materiaal bij gezondheidsklachten.
 
