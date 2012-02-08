@@ -4,7 +4,7 @@ identifier: "BWBR0030354"
 country: "nl"
 rank: "wet"
 publication_date: "2012-02-08"
-last_updated: "2011-09-10"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030354"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel II
 
-1. Op een vergunning voor permanent opslaan voor CO2 die is verleend voor het tijdstip van inwerkingtreding van deze wet blijft de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) zoals die gold voor dat tijdstip van toepassing tot 25 juni 2011.
+1. Op een vergunning voor permanent opslaan van CO2 die is verleend voor het tijdstip van inwerkingtreding van deze wet blijft de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) zoals die gold voor dat tijdstip van toepassing tot 25 juni 2011.
 
 2. De houder van de vergunning, bedoeld in het eerste lid, of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in [artikel 22 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=22) dient binnen vier weken na de inwerkingtreding van deze wet bij Onze Minister een aanvraag in tot aanpassing van zijn vergunning aan de voorschriften van de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168).
 
