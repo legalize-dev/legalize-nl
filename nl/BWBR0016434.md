@@ -4,7 +4,7 @@ identifier: "BWBR0016434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-17"
-last_updated: "2011-10-17"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016434"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ De Commissie bestaat uit acht leden, onder wie de voorzitter.
 
 - f. prof. dr. Th. Toonen te Oude Wetering.
 
-4. De leden van de Commissie kunnen eenmaal voor een tijdvak van vier jaar worden herbenoemd.
+4. De leden van de Commissie kunnen voor een tijdvak van vier jaar worden herbenoemd.
 
 ##### Artikel 6
 
