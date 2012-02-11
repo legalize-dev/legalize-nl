@@ -4,7 +4,7 @@ identifier: "BWBR0008410"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "1997-01-01"
+last_updated: "2012-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008410"
 soort: "wet"
@@ -50,27 +50,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Verkeer en Waterstaat;
+- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
 
-- b. de raad: de Raad voor verkeer en waterstaat, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=2&artikel=2&z=1997-01-01&g=1997-01-01);
-
-- c. een overlegorgaan: een orgaan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=4&z=1997-01-01&g=1997-01-01).
+- **overlegorgaan:** Overlegorgaan verkeer en waterstaat bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2012-02-11&g=2012-02-11).
 
 ### HOOFDSTUK 2. RAAD VOOR VERKEER EN WATERSTAAT
 
 ##### Artikel 2
 
-Er is een Raad voor verkeer en waterstaat.
+Vervallen
 
 ##### Artikel 3
 
-1. De raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over:
-
-- a. de hoofdlijnen van het beleid inzake verkeer en waterstaat;
-
-- b. onderdelen van het beleid inzake verkeer en waterstaat.
-
-2. In een advies over een onderdeel van het beleid inzake verkeer en waterstaat wordt aangegeven hoe het advies zich verhoudt tot de hoofdlijnen, bedoeld in het eerste lid onder **a**.
+Vervallen
 
 ### HOOFDSTUK 3. OVERLEGORGANEN
 
@@ -86,7 +78,7 @@ Bij algemene maatregel van bestuur worden organen ingesteld voor het geïnstitut
 
 ##### Artikel 6
 
-Het overleg bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=5&z=1997-01-01&g=1997-01-01), wordt door of namens Onze Minister en, waar daartoe aanleiding bestaat, door of namens Onze Ministers wie het mede aangaat, gevoerd met betrokkenen of met organisaties van hen.
+Het overleg bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=5&z=2012-02-11&g=2012-02-11), wordt door of namens Onze Minister en, waar daartoe aanleiding bestaat, door of namens Onze Ministers wie het mede aangaat, gevoerd met betrokkenen of met organisaties van hen.
 
 ##### Artikel 7
 
@@ -126,7 +118,7 @@ Onze Minister en, waar daartoe aanleiding bestaat, Onze Ministers wie het mede a
 
 - a. indien daartoe door of namens Onze Minister of, waar daartoe aanleiding bestaat, door of namens Onze Ministers wie het mede aangaat, wordt verzocht;
 
-- b. indien ten minste een derde van de vertegenwoordigers, aangewezen door de betrokkenen of organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=7&z=1997-01-01&g=1997-01-01), daarom verzoekt.
+- b. indien ten minste een derde van de vertegenwoordigers, aangewezen door de betrokkenen of organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2012-02-11&g=2012-02-11), daarom verzoekt.
 
 ##### Artikel 12
 
@@ -136,13 +128,13 @@ De gezichtspunten van de in een overlegorgaan vertegenwoordigde afzonderlijke be
 
 1. Onze Minister kan op verzoek van een overlegorgaan deelorganen instellen waarin overleg wordt gevoerd over onderdelen van het beleidsterrein waarvoor dat overlegorgaan is ingesteld.
 
-2. [De artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=7&z=1997-01-01&g=1997-01-01) zijn op een deelorgaan van overeenkomstige toepassing.
+2. [De artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2012-02-11&g=2012-02-11) zijn op een deelorgaan van overeenkomstige toepassing.
 
 3. Onze Minister wijst aan als voorzitter van een deelorgaan de voorzitter van het overlegorgaan op het betrokken terrein, dan wel een persoon uit het midden van dat overlegorgaan.
 
 ##### Artikel 14
 
-1. De gezichtspunten van de afzonderlijke betrokkenen en organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=7&z=1997-01-01&g=1997-01-01), die resulteren uit het in een deelorgaan gevoerde overleg, worden door dat orgaan schriftelijk ter kennis gebracht van Onze Minister en, waar daartoe aanleiding bestaat, door diens tussenkomst, van Onze Ministers wie het mede aangaat.
+1. De gezichtspunten van de afzonderlijke betrokkenen en organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2012-02-11&g=2012-02-11), die resulteren uit het in een deelorgaan gevoerde overleg, worden door dat orgaan schriftelijk ter kennis gebracht van Onze Minister en, waar daartoe aanleiding bestaat, door diens tussenkomst, van Onze Ministers wie het mede aangaat.
 
 2. Het ter kennis brengen, bedoeld in het eerste lid, geschiedt door tussenkomst van het overlegorgaan op het betrokken terrein. Het overlegorgaan zendt de rapportage van het deelorgaan zo spoedig mogelijk, doch in elk geval binnen acht weken door aan Onze Minister. Desgewenst kan het overlegorgaan daarbij ook gezichtspunten van afzonderlijke betrokkenen of organisaties kenbaar maken die resulteren uit het overleg over de betrokken materie in het overlegorgaan.
 
@@ -166,9 +158,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen de samenstelling, de inri
 
 ##### Artikel 17
 
-1. Na de inwerkingtreding van deze wet berust het [Besluit advies en overleg verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0005652) op de[artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=4&z=1997-01-01&g=1997-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=16&z=1997-01-01&g=1997-01-01) van deze wet.
+1. Na de inwerkingtreding van deze wet berust het [Besluit advies en overleg verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0005652) op de[artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2012-02-11&g=2012-02-11) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=16&z=2012-02-11&g=2012-02-11) van deze wet.
 
-2. Na de inwerkingtreding van deze wet berust de Regeling aanwijzing betrokkenen overlegorganen verkeer en waterstaat op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&hoofdstuk=3&artikel=7&z=1997-01-01&g=1997-01-01) van deze wet.
+2. Na de inwerkingtreding van deze wet berust de Regeling aanwijzing betrokkenen overlegorganen verkeer en waterstaat op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2012-02-11&g=2012-02-11) van deze wet.
 
 ##### Artikel 18
 
@@ -176,6 +168,8 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 
 ##### Artikel 19
 
-Deze wet wordt aangehaald als: Wet advies en overleg verkeer en waterstaat.
+Deze wet wordt aangehaald als: Wet overleg verkeer en waterstaat.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
