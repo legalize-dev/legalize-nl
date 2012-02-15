@@ -4,7 +4,7 @@ identifier: "BWBR0014903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2007-10-20"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014903"
 soort: "ministeriele-regeling"
@@ -39,9 +39,11 @@ Gelet op [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:B
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
-1. Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2007-10-20&g=2007-10-20) genoemde vitaminen en mineralen, in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=2&z=2007-10-20&g=2007-10-20) genoemde vormen.
+1. Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in bijlage I bij richtlijn 2002/46/EG genoemde vitaminen en mineralen, in de in bijlage II bij die richtlijn genoemde vormen.
 
 2. Deze regeling is niet van toepassing op eet- en drinkwaren die:
 
@@ -53,7 +55,7 @@ Besluit:
 
 ##### Artikel 2
 
-De vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=7), geschiedt met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2007-10-20&g=2007-10-20) gespecificeerde eenheden.
+De vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=7), geschiedt met gebruikmaking van de in bijlage I bij richtlijn 2002/46/EG gespecificeerde eenheden.
 
 ##### Artikel 3
 
@@ -127,268 +129,18 @@ Chloride (mg)
 
 Fosfor (mg)
 
+## Bijlage 1
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Een wijziging van bijlage I of bijlage II bij richtlijn 2002/46/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
+
 ## Bijlage 2
 
-Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=1&z=2007-10-20&g=2007-10-20).
-
-**Verbindingen die uitsluitend mogen worden gebruikt bij de bereiding van voedingssupplementen.**
-
-**A. Vitaminen**
-
-1. Vitamine A
-
-a. retinol
-
-b. retinylacetaat
-
-c. retinylpalmitaat
-
-d. beta-caroteen
-
-2. Vitamine D
-
-a. cholecalciferol
-
-b. ergocalciferol
-
-3. Vitamine E
-
-a. D-alfa-tocoferol
-
-b. DL-alfa-tocoferol
-
-c. D-alfa-tocoferylacetaat
-
-d. DL-alfa-tocoferylacetaat
-
-e. D-alfa-tocoferylwaterstofsuccinaat
-
-4. Vitamine K
-
-a. fyllochinon (fytomenadion)
-
-5. Vitamine B1
-
-a. thiaminehydrochloride
-
-b. thiaminemononitraat
-
-6. Vitamine B2
-
-a. riboflavine
-
-b. natriumriboflavine-5'-fosfaat
-
-7. Niacine
-
-a. nicotinezuur
-
-b. nicotinamide
-
-8. Pantotheenzuur
-
-a. calcium-D-pantothenaat
-
-b. natrium-D-pantothenaat
-
-c. dexpanthenol
-
-9. Vitamine B6
-
-a. pyridoxinehydrochloride
-
-b. pyridoxine-5'-fosfaat
-
-10. Folaat
-
-a. pteroylmonoglutaminezuur
-
-b. calcium-L-methylfolaat
-
-11. Vitamine B12
-
-a. cyanocobalamine
-
-b. hydroxycobalamine
-
-12. Biotine
-
-a. D-biotine
-
-13. Vitamine C
-
-a. L-ascorbinezuur
-
-b. natrium-L-ascorbaat
-
-c. calcium-L-ascorbaat
-
-d. kalium-L-ascorbaat
-
-e. 6-palmityl-L-ascorbinezuur
-
-**B. Mineralen**
-
-calciumcarbonaat
-
-calciumchloride
-
-calciumzouten van citroenzuur
-
-calciumgluconaat
-
-calciumglycerofosfaat
-
-calciumlactaat
-
-calciumzouten van orthofosforzuur
-
-calciumhydroxide
-
-calciumoxide
-
-magnesiumacetaat
-
-magnesiumcarbonaat
-
-magnesiumchloride
-
-magnesiumzouten van citroenzuur
-
-magnesiumgluconaat
-
-magnesiumglycerofosfaat
-
-magnesiumzouten van orthofosforzuur
-
-magnesiumlactaat
-
-magnesiumhydroxide
-
-magnesiumoxide
-
-magnesiumsulfaat
-
-ijzer(II)carbonaat
-
-ijzer(II)citraat
-
-ijzer(III)ammoniumcitraat
-
-ijzer(II)gluconaat
-
-ijzer(II)fumaraat
-
-natriumijzer(III)difosfaat
-
-ijzer(II)lactaat
-
-ijzer(II)sulfaat
-
-ijzer(III)difosfaat (ijzer(III)pyrofosfaat)
-
-ijzer(III)saccharaat
-
-elementair ijzer (carbonyl + elektrolytisch + waterstof gereduceerd)
-
-ijzerbisglycinaat
-
-koper(II)carbonaat
-
-koper(II)citraat
-
-koper(II)gluconaat
-
-koper(II)sulfaat
-
-koper-lysine-complex
-
-natriumjodide
-
-natriumjodaat
-
-kaliumjodide
-
-kaliumjodaat
-
-zinkacetaat
-
-zinkchloride
-
-zinkcitraat
-
-zinkgluconaat
-
-zinklactaat
-
-zinkoxide
-
-zinkcarbonaat
-
-zinksulfaat
-
-mangaancarbonaat
-
-mangaanchloride
-
-mangaancitraat
-
-mangaangluconaat
-
-mangaanglycerofosfaat
-
-mangaansulfaat
-
-natriumbicarbonaat
-
-natriumcarbonaat
-
-natriumchloride
-
-natriumcitraat
-
-natriumgluconaat
-
-natriumlactaat
-
-natriumhydroxide
-
-natriumzouten van orthofosforzuur
-
-kaliumbicarbonaat
-
-kaliumcarbonaat
-
-kaliumchloride
-
-kaliumcitraat
-
-kaliumgluconaat
-
-kaliumglycerofosfaat
-
-kaliumlactaat
-
-kaliumhydroxide
-
-kaliumzouten van orthofosforzuur
-
-natriumselenaat
-
-natriumwaterstofseleniet
-
-natriumseleniet
-
-chroom(III)chloride
-
-chroom(III)sulfaat
-
-ammoniummolybdaat (molybdeen(VI))
-
-natriummolybdaat (molybdeen(VI))
-
-kaliumfluoride
-
-natriumfluoride
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
