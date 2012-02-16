@@ -4,7 +4,7 @@ identifier: "BWBR0028339"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2012-02-16"
-last_updated: "2010-10-10"
+last_updated: "2012-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028339"
 soort: "AMvB-BES"
@@ -37,7 +37,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-De wettelijke rente, bedoeld in artikel 120 van Boek 6 van het Burgerlijk Wetboek BES, wordt voor de eerste maal vastgesteld bij ministeriële regeling.
+De wettelijke rente, bedoeld in [artikel 120 van Boek 6 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=120), is gelijk aan de beleningsrente die door de Centrale Bank van Curaçao en Sint Maarten laatstelijk is vastgesteld voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met 2 procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.
 
 ##### Artikel 2
 
