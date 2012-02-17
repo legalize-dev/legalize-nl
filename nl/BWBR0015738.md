@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2012-01-01"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -130,7 +130,7 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - k. de tegemoetkoming, bedoeld in [artikel 4 van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&artikel=4).
 
-#### § 5. Vrijlating uitkeringen en vergoedingen
+#### § 4. Uit- en aanbesteding
 
 ##### Artikel 8. Definities
 
@@ -150,7 +150,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2012-01-01&g=2012-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2012-01-01&g=2012-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2012-01-01&g=2012-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2012-02-17&g=2012-02-17), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2012-02-17&g=2012-02-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2012-02-17&g=2012-02-17) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2012-02-17&g=2012-02-17) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
@@ -231,9 +231,11 @@ Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheff
 
 6. Het vierde lid, onderdeel b, sub 2, is niet van toepassing op gemeenten met 40.000 of minder inwoners.
 
-7. Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het derde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen.
+7. Het vierde lid, onderdeel b, onder ten eerste, is niet van toepassing, indien de onrechtmatige uitvoering in 2012 geheel of grotendeels verband houdt met de uitvoering van het op 1 januari 2012 in werking getreden [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=32) in samenhang met de vaststelling van het gezin, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=4).
 
-8. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
+8. Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het derde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen.
+
+9. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
@@ -273,7 +275,7 @@ Vervallen
 
 #### § 4. Uit- en aanbesteding
 
-#### § 6. Vakantietoeslag
+#### § 5. Vrijlating uitkeringen en vergoedingen
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
@@ -287,42 +289,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2012-01-01&g=2012-01-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2012-02-17&g=2012-02-17), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
 #### § 6. Vakantietoeslag
 
-#### § 8. Slotbepalingen
+#### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01) van de Regeling WWB
+## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](onbekend)
 
-Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
-
-| Verdeelmaatstaf | Verdeelmaatstaf |   | Peiljaar | Peildatum | Gewicht |
-| --- | --- | --- | --- | --- | --- |
-| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
-| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) |   | 2006–2008 | – | 28,858 |
-| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15–64 jaar) |   | 2009–2011 | – | 84,022 |
-| 3. | Arbeidsongeschiktheidsuitkeringen: [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) (in % van inwoners van 15–64 jaar) |   | 2010 | 31 december | –25,609 |
-| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15–64 jaar) |   | 2009–2011 | – | 4,110 |
-| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15–64 jaar) |   | 2008–2010 | – | 7,545 |
-| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
-| 6. | Huurwoningen (in % van het totaal aantal woningen) |   | 2010 | 1 januari | 4,292 |
-| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) |   | 2010 | 1 januari | 1,753 |
-| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) |   | 2010 | 1 januari | –1,919 |
-| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
-| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau |   | 2008–2010 | – | –52,472 |
-| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) |   | 2009 | 31 december | –20,339 |
-| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio |   | 2007–2009 | – | –0,206 |
-| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) |   | 2009 | 31 december | –2,000 |
-| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar |   | 2006–2010 | – | –27,062 |
-| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
-| 14. | Vaste voet per huishouden van 15–64 jaar |   | - | – | 5044,261 |
-|   |   |   |   |   |   |
-| Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens |
-| Totaal aantal inwoners | Totaal aantal inwoners |   | 2011 | 1 januari |   |
-| Aantal huishoudens 15–64 jaar | Aantal huishoudens 15–64 jaar |   | 2011 | 1 januari |   |
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
@@ -355,3 +332,44 @@ De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007
 #### § 6. Vakantietoeslag
 
 #### § 8. Slotbepalingen
+
+##### Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
+
+1. Indien de minister toepassing geeft aan [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=72) schort hij de betaling van de vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
+
+2. De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=72) heeft vastgesteld is verstreken.
+
+#### § 6. Vakantietoeslag
+
+#### § 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2012-02-17&g=2012-02-17) van de Regeling WWB
+
+Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
+
+| Verdeelmaatstaf | Verdeelmaatstaf |   | Peiljaar | Peildatum | Gewicht |
+| --- | --- | --- | --- | --- | --- |
+| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
+| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) |   | 2006–2008 | – | 28,858 |
+| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15–64 jaar) |   | 2009–2011 | – | 84,022 |
+| 3. | Arbeidsongeschiktheidsuitkeringen: [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) (in % van inwoners van 15–64 jaar) |   | 2010 | 31 december | –25,609 |
+| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15–64 jaar) |   | 2009–2011 | – | 4,110 |
+| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15–64 jaar) |   | 2008–2010 | – | 7,545 |
+| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
+| 6. | Huurwoningen (in % van het totaal aantal woningen) |   | 2010 | 1 januari | 4,292 |
+| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) |   | 2010 | 1 januari | 1,753 |
+| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) |   | 2010 | 1 januari | –1,919 |
+| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
+| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau |   | 2008–2010 | – | –52,472 |
+| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) |   | 2009 | 31 december | –20,339 |
+| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio |   | 2007–2009 | – | –0,206 |
+| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) |   | 2009 | 31 december | –2,000 |
+| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar |   | 2006–2010 | – | –27,062 |
+| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
+| 14. | Vaste voet per huishouden van 15–64 jaar |   | - | – | 5044,261 |
+|   |   |   |   |   |   |
+| Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens |
+| Totaal aantal inwoners | Totaal aantal inwoners |   | 2011 | 1 januari |   |
+| Aantal huishoudens 15–64 jaar | Aantal huishoudens 15–64 jaar |   | 2011 | 1 januari |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
