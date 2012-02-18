@@ -4,7 +4,7 @@ identifier: "BWBR0022831"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-02-18"
-last_updated: "2012-01-01"
+last_updated: "2012-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022831"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 ##### Artikel 2
 
-1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-01-01&g=2012-01-01).
+1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18).
 
-2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-01-01&g=2012-01-01), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
+2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
 
 ##### Artikel 3
 
@@ -76,7 +76,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - a. blijkt dat de beoogde cofinanciering door de overige cofinanciers gedeeltelijk niet zal worden verleend, of
 
-- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2012-01-01&g=2012-01-01), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
+- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2012-02-18&g=2012-02-18), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
 
 4. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -112,7 +112,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 9
 
-1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2012-01-01&g=2012-01-01), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
+1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2012-02-18&g=2012-02-18), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
 2. De subsidie-ontvanger doet onverwijld mededeling aan de managementautoriteit van de indiening bij de rechtbank van een verzoek tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
@@ -132,9 +132,9 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - 1°. loonkosten, voor de berekening waarvan de aanvrager bij de aanvraag kiest uit:
 
-- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-01-01&g=2012-01-01),
+- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18),
 
-- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-01-01&g=2012-01-01);
+- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18);
 
 - –. forfaitaire kosten berekend door toepassing van van overheidswege gehanteerde standaardschalen van eenheidskosten;
 
@@ -192,7 +192,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 2. De managementautoriteit heeft aanspraak op vergoeding door de Minister van Economische Zaken van het bedrag, bedoeld in het eerste lid.
 
-3. Vooruitlopend op de vaststelling van de vergoeding, bedoeld in het tweede lid, wordt met ingang van 1 januari 2012 tot en met 31 december 2015 jaarlijks in januari een voorschot verleend van 25 procent van het saldo dat resteert na vermindering van 87,5 procent van het bedrag, genoemd in het vierde lid, met het totale tot en met 31 december 2011 als vergoeding betaalde bedrag.
+3. Vooruitlopend op de vaststelling van de vergoeding, bedoeld in het tweede lid, wordt met ingang van 1 januari 2012 tot en met 31 december 2015 jaarlijks in januari een voorschot verleend van 25 procent van het saldo dat resteert na vermindering van 87,5 procent van het bedrag, genoemd in het vijfde lid, met het totale tot en met 31 december 2011 als vergoeding betaalde bedrag.
 
 4. Het tweede lid is van toepassing voor zover de certificeringsautoriteit de betrokken betaalaanvraag of betaalaanvragen heeft goedgekeurd.
 
@@ -210,7 +210,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 14
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-01-01&g=2012-01-01) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2012-01-01&g=2012-01-01), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2012-02-18&g=2012-02-18), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
 
 ##### Artikel 15
 
@@ -234,13 +234,13 @@ Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiod
 
 4. De subsidieontvanger legt bij de aanvraag om subsidie en daarna jaarlijks een specificatie over van alle kostensoorten binnen het gehanteerde integrale uurtarief en het aantal uren per functiecategorie waarop het integrale uurtarief is gebaseerd.
 
-5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2012-01-01&g=2012-01-01), sluitend.
+5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2012-02-18&g=2012-02-18), sluitend.
 
 ##### Artikel 9a
 
 Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende bijlage 1 opgenomen procedure.
 
-## Bijlage. bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9a&z=2012-01-01&g=2012-01-01) van de regeling efro doestelling 2 programmaperiode 2007–2013
+## Bijlage. bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9a&z=2012-02-18&g=2012-02-18) van de regeling efro doestelling 2 programmaperiode 2007–2013
 
 ### Procedures voor authentiek gewaarmerkte versies van originele bewijsstukken en digitale bewijsstukken
 
