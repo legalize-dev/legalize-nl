@@ -4,7 +4,7 @@ identifier: "BWBR0026753"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2009-12-06"
+last_updated: "2012-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026753"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan percutane coronaire interventies (PCI’s), het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s) en transcatheter hartklepinterventies (THI’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2009-12-06&g=2009-12-06).
+De omvang van de behoefte aan percutane coronaire interventies (PCI’s), het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s) en transcatheter hartklepinterventies (THI’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2012-02-28&g=2012-02-28).
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846) (Stcrt. 1998, nr. 162), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=2&z=2009-12-06&g=2009-12-06).
+De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846) (Stcrt. 1998, nr. 162), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=2&z=2012-02-28&g=2012-02-28).
 
 ##### Artikel 3
 
@@ -96,7 +96,7 @@ Het lijkt erop dat met hartinterventies beginnende instellingen daarbij hun adhe
 
 Ook moet rekening worden gehouden met het gegeven dat indicatiestellingen in de tijd veranderen, waardoor er wellicht minder patiënten worden behandeld dan oorspronkelijk geraamd werd. Het is dan ook mogelijk dat een vergunninghouder in een situatie geraakt waarin de uitgevoerde aantallen achterblijven bij de geraamde groeicurve op basis waarvan de vergunning is verleend. In redelijkheid zal moeten worden beoordeeld of deze achterstand binnen een aantal maanden zal worden ingelopen. In de richtlijn voor PCI’s wordt voor startende centra een aanloopperiode van twee jaar genoemd, waarbinnen 400 PCI’s per centrum per jaar moeten worden gehaald, en 600 PCI’s binnen drie tot vijf jaar. Voor ICD’s geldt een vergelijkbare aanloopperiode van twee jaar. Deze termijnen laten onverlet dat een vergunning eerder kan worden ingetrokken indien de mate van achterstand op de groeicurve daartoe aanleiding geeft. Vanzelfsprekend zal een vergunning ook worden ingetrokken indien een vergunninghouder niet langer voldoet aan de andere geldende kwaliteitseisen, zoals (infrastructurele) voorzieningen en de beschikbaarheid van voldoende geschoold en ervaren personeel.
 
-### THI
+### Thi
 
 Een transcatheter hartklepinterventie (THI) is een nieuwe behandelmethode die voor het eerst in Nederland werd uitgevoerd in 2004 bij een pulmonalisklep en in 2005 bij een aortaklep. Aangezien deze verrichting nog volop in ontwikkeling is, zijn er nog geen kwaliteitsrichtlijnen vastgesteld door de beroepsgroepen van cardiologen en thoraxchirurgen. Wel is er door deze beroepsgroepen een consensusdocument opgesteld waarin kwaliteitseisen zijn opgesteld voor het uitvoeren van klepvervangingen.
 
@@ -108,11 +108,11 @@ Instellingen die in aanmerking willen komen voor een vergunning voor THI’s kun
 
 Instellingen dienen bij de vergunningaanvraag aan te tonen dat zij voldoen aan de criteria en kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde criteria en kwaliteitseisen in consensusdocumenten of richtlijnen. Ik beschouw deze criteria en kwaliteitseisen als de standaard.
 
-Ik zal de IGZ vragen mij te adviseren welke vergunningaanvragende instellingen het beste functioneren, gelet op deze kwaliteitseisen, en in aanmerking komen voor een vergunning. Op basis van dit advies zal ik aan ten hoogste vijf instellingen een vergunning voor THI’s verstrekken.
-
-Indien er na verloop van tijd behoefte bestaat aan meer instellingen waar deze verrichting kan plaatsvinden, blijkend uit zodanig oplopende wachttijden dat de toegankelijkheid in het geding komt, dan kunnen er in de regio of regio’s waar die behoefte is ontstaan een of twee extra vergunningen worden verleend mits dit niet ten koste gaat van de kwaliteit.
+Er is behoefte aan ten hoogste elf instellingen voor het uitvoeren van THI’s. Hierbij heb ik mij gebaseerd op een vraag van 550 THI-procedures per jaar en, zoals vermeld in het consensusdocument, een minimumnorm van 50 THI’s per centrum. Ik heb de Inspectie voor de Gezondheidszorg (IGZ) gevraagd mij te adviseren welke vergunningaanvragende instellingen het beste functioneren, gelet op de criteria om in aanmerking te komen voor een vergunning. Op basis van dit advies zal ik aan ten hoogste elf instellingen een vergunning voor THI’s verstrekken. Met ten hoogste elf centra kan eveneens naar mijn inschatting aan een stijgende vraagontwikkeling van THI’s voldaan worden, mede gezien het feit dat ik het aantal van 50 THI’s als een absolute ondergrens zie. Tegen de achtergrond van ontwikkelingen die zich nog moeten uitkristalliseren, zal ik drie jaar na inwerkingtreding van de wijziging van het onderhavige planningsbesluit, waarin deze gewijzigde behoefteraming is opgenomen, bezien of de ontwikkelingen in de kwaliteit van de zorg en de vraagontwikkeling aanleiding zijn voor wijziging van het onderhavige planningsbesluit en de daarop gebaseerde vergunningen. Hierbij zal ik tevens de in ontwikkeling zijnde kwaliteitsrichtlijnen voor THI’s, inclusief de indicatiestelling voor THI’s betrekken.
 
 Instellingen die na 1 november 2009 zijn gestart met het verrichten van THI’s zullen niet in aanmerking komen voor een vergunning en dienen de THI-procedures onmiddellijk te beëindigen. Instellingen die voor 1 november al THI’s verrichtten, mogen dit blijven doen mits wordt voldaan aan de gestelde kwaliteitseisen. De IGZ kan en zal een instelling die THI’s verricht opdragen hiermee te stoppen indien niet aan de geldende kwaliteitseisen wordt voldaan of indien niet aannemelijk is dat de instelling het vereiste minimum aantal THI’s zal halen in de periode voordat vergunningverlening heeft plaatsgevonden.
+
+Na vergunningverlening zullen vanzelfsprekend alleen de instellingen met een vergunning voor THI’s deze verrichting mogen uitvoeren.
 
 Na vergunningverlening zullen vanzelfsprekend alleen de instellingen met een vergunning voor THI’s deze verrichting mogen uitvoeren.
 
@@ -127,5 +127,19 @@ Gegevens te verstrekken door een instelling bij een aanvraag om een vergunning v
 - b. adres.
 
 - 2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2009-12-06&g=2009-12-06) bij het Planningsbesluit PCI’s, ICD’s en THI’s. Het betreft hier het volgen van de kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde eisen in consensusdocumenten of richtlijnen.
+
+Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
+
+## Bijlage 2
+
+Gegevens te verstrekken door een instelling bij een aanvraag om een vergunning voor het uitvoeren van THI’s, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846).
+
+- 1. Algemene gegevens van de aanvrager:
+
+- a. naam van de rechtspersoon, en
+
+- b. adres.
+
+- 2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2012-02-28&g=2012-02-28) bij het Planningsbesluit PCI’s, ICD’s en THI’s. Het betreft hier het volgen van de kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde eisen in consensusdocumenten of richtlijnen.
 
 Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
