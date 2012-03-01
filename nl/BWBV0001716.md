@@ -4,7 +4,7 @@ identifier: "BWBV0001716"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-09-02"
-last_updated: "2012-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001716"
 soort: "verdrag"
@@ -211,7 +211,7 @@ Het gezag van rechterlijke beslissingen die in een van de drie staten met toepas
 
 ##### Artikel 1.15. Benelux-Gerechtshof
 
-Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2012-01-01&g=2012-01-01), bedoelde protocol inzake voorrechten en immuniteiten.
+Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2012-03-01&g=2012-03-01), bedoelde protocol inzake voorrechten en immuniteiten.
 
 ##### Artikel 1.16. Toepassing
 
@@ -767,7 +767,7 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 - b. de uiterlijke kenmerken van een voortbrengsel die noodzakelijkerwijs in precies dezelfde vorm en afmetingen gereproduceerd moeten worden om het voortbrengsel waarin de tekening of het model verwerkt is of waarop het toegepast is, mechanisch met een ander voortbrengsel te kunnen verbinden of om het in, rond of tegen een ander voortbrengsel te kunnen plaatsen, zodat elk van beide voortbrengselen zijn functie kan vervullen.
 
-2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-01-01&g=2012-01-01), gestelde voorwaarden.
+2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-03-01&g=2012-03-01), gestelde voorwaarden.
 
 ##### Artikel 3.3. Nieuwheid en eigen karakter
 
@@ -801,11 +801,11 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 1. Onverminderd het recht van voorrang wordt het uitsluitend recht op een tekening of model verkregen door de inschrijving van het depot, verricht binnen het Benelux-gebied bij het Bureau (Benelux-depot), of verricht bij het Internationaal Bureau (internationaal depot).
 
-2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2012-01-01&g=2012-01-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
+2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2012-03-01&g=2012-03-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
 
 ##### Artikel 3.6. Restricties
 
-Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2012-01-01&g=2012-01-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2012-01-01&g=2012-01-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
+Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2012-03-01&g=2012-03-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2012-03-01&g=2012-03-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
 
 - a. de tekening of het model in strijd is met een oudere tekening die of ouder model dat na de datum van depot of na de datum van voorrang voor het publiek beschikbaar is gesteld en vanaf een aan deze datum voorafgaand tijdstip beschermd wordt door een uitsluitend recht dat voortvloeit uit een Gemeenschapsmodel, de inschrijving van een Benelux-depot dan wel door een internationaal depot;
 
@@ -857,7 +857,7 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 1. Het Bureau schrijft onverwijld de Benelux-depots in, evenals de internationale depots die gepubliceerd zijn in het „Bulletin International des dessins ou modèles – International Design Gazette" ten aanzien waarvan de deposanten verzocht hebben dat zij hun werking zullen uitstrekken over het Benelux-gebied.
 
-2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2012-01-01&g=2012-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2012-01-01&g=2012-01-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
+2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2012-03-01&g=2012-03-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2012-03-01&g=2012-03-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
 
 3. Indien de kenmerkende eigenschappen van de tekening of het model in de publicatie niet voldoende tot hun recht komen, kan de deposant, binnen de daartoe vastgestelde termijn, het Bureau verzoeken kosteloos een tweede publicatie te verrichten.
 
@@ -909,7 +909,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.17. Schadevergoeding en andere vorderingen
 
-1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-01-01&g=2012-01-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2012-01-01&g=2012-01-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
+1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-03-01&g=2012-03-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2012-03-01&g=2012-03-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
 
 2. De rechter die de schadevergoeding vaststelt:
 
@@ -919,11 +919,11 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. De rechter kan bij wijze van schadevergoeding op vordering van de houder van het uitsluitend recht op een tekening of model bevelen tot de afgifte aan deze houder, van de goederen die een inbreuk maken op een tekening- of modelrecht, alsmede, in passende gevallen, van de materialen en werktuigen die voornamelijk bij de productie van die goederen zijn gebruikt. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen, door de eiser te betalen vergoeding.
 
-4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-01-01&g=2012-01-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
+4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-03-01&g=2012-03-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
 
-5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2012-01-01&g=2012-01-01), toegekende bevoegdheid.
+5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2012-03-01&g=2012-03-01), toegekende bevoegdheid.
 
-6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-01-01&g=2012-01-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
+6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-03-01&g=2012-03-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
 
 ##### Artikel 3.18. Nevenvorderingen
 
@@ -967,7 +967,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Het uitsluitend recht op een tekening of model dat een onderdeel vormt van een samengesteld voortbrengsel houdt niet het recht in zich te verzetten tegen het gebruik van de tekening of het model voor reparatie van dit samengestelde voortbrengsel met de bedoeling het zijn oorspronkelijke uiterlijk terug te geven.
 
-4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-01-01&g=2012-01-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2012-01-01&g=2012-01-01).
+4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-03-01&g=2012-03-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2012-03-01&g=2012-03-01).
 
 5. De vorderingen kunnen geen betrekking hebben op voortbrengselen die vóór de datum van het depot in het Benelux-gebied in het verkeer werden gebracht.
 
@@ -979,7 +979,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Dit recht wordt echter niet toegekend aan de derde, die de tekening of het model zonder toestemming van de ontwerper heeft nagemaakt.
 
-4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-01-01&g=2012-01-01) bedoelde handelingen verrichten, met uitzondering van invoer.
+4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2012-03-01&g=2012-03-01) bedoelde handelingen verrichten, met uitzondering van invoer.
 
 5. Het recht van voorgebruik kan slechts overgaan tezamen met het bedrijf waarin de handelingen, die hebben geleid tot het ontstaan van dat recht, hebben plaatsgevonden.
 
@@ -999,7 +999,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.22. Verval van het recht
 
-Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2012-01-01&g=2012-01-01), vervalt het uitsluitend recht op een tekening of model:
+Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2012-03-01&g=2012-03-01), vervalt het uitsluitend recht op een tekening of model:
 
 - a. door vrijwillige doorhaling of door het verstrijken van de geldigheidsduur van de inschrijving van het Benelux-depot;
 
@@ -1009,21 +1009,21 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Iedere belanghebbende met inbegrip van het Openbaar Ministerie kan de nietigheid inroepen van de inschrijving van een tekening of model indien:
 
-- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-01-01&g=2012-01-01);
+- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-03-01&g=2012-03-01);
 
-- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-01-01&g=2012-01-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2012-01-01&g=2012-01-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2012-01-01&g=2012-01-01);
+- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2012-03-01&g=2012-03-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2012-03-01&g=2012-03-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2012-03-01&g=2012-03-01);
 
-- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2012-01-01&g=2012-01-01) valt;
+- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2012-03-01&g=2012-03-01) valt;
 
-- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-01-01&g=2012-01-01), geen recht op een tekening of model wordt verkregen.
+- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-03-01&g=2012-03-01), geen recht op een tekening of model wordt verkregen.
 
-2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-01-01&g=2012-01-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
+2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-03-01&g=2012-03-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
 
-3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-01-01&g=2012-01-01), geen recht op de tekening of het model wordt verkregen.
+3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-03-01&g=2012-03-01), geen recht op de tekening of het model wordt verkregen.
 
-4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-01-01&g=2012-01-01), geen recht op de tekening of het model wordt verkregen.
+4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-03-01&g=2012-03-01), geen recht op de tekening of het model wordt verkregen.
 
-5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2012-01-01&g=2012-01-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
+5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2012-03-01&g=2012-03-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
 
 6. De inschrijving van het depot van een tekening of model kan ook na verval of afstand nietig worden verklaard.
 
@@ -1033,7 +1033,7 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Behoudens het bepaalde in lid 2, hebben de nietigverklaring, de vrijwillige doorhaling en de afstand steeds betrekking op de gehele tekening of het gehele model.
 
-2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-01-01&g=2012-01-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2012-01-01&g=2012-01-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
+2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2012-03-01&g=2012-03-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2012-03-01&g=2012-03-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
 
 3. De handhaving bedoeld in lid 2, kan erin bestaan dat een verklaring van de houder dat hij gedeeltelijk afziet van aanspraken op het recht, of een rechterlijke beslissing waarbij het recht gedeeltelijk nietig is verklaard en die niet meer vatbaar is voor verzet noch voor hoger beroep noch voor voorziening in cassatie, wordt ingeschreven.
 
@@ -1073,11 +1073,11 @@ De overdracht of andere overgang of de licentie kan niet aan derden worden tegen
 
 2. De deposant van een tekening of model wordt vermoed tevens de houder te zijn van het desbetreffende auteursrecht; dit vermoeden geldt echter niet ten aanzien van de werkelijke ontwerper of zijn rechtverkrijgende.
 
-3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2012-01-01&g=2012-01-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
+3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2012-03-01&g=2012-03-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
 
 ##### Artikel 3.29. Auteursrecht van werk- en opdrachtgevers
 
-Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2012-01-01&g=2012-01-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
+Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2012-03-01&g=2012-03-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
 
 ## TITEL IV. BEPALINGEN GEMEENSCHAPPELIJK AAN MERKEN EN TEKENINGEN OF MODELLEN
 
@@ -1183,7 +1183,7 @@ Artikel III van het protocol van 11 december 2001 houdende wijziging van de eenv
 
 ##### Artikel 5.5. Eerste uitvoeringsreglement
 
-In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2012-01-01&g=2012-01-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
+In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2012-03-01&g=2012-03-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
 
 ## TITEL VI. SLOTBEPALINGEN
 
@@ -1217,13 +1217,13 @@ Het protocol inzake voorrechten en immuniteiten vormt een wezenlijk onderdeel va
 
 2. Indien de tekst van dit verdrag en het uitvoeringsreglement met elkaar in strijd zijn, geeft de tekst van het verdrag de doorslag.
 
-De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2012-01-01&g=2012-01-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
+De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2012-03-01&g=2012-03-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
 
 Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2012-01-01&g=2012-01-01) van het Verdrag.
+1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2012-03-01&g=2012-03-01) van het Verdrag.
 
 2. De in dit Protocol aan vertegenwoordigers van de Hoge Verdragsluitende Partijen, aan hun plaatsvervangers, hun raadgevers of deskundigen, aan de Directeur-generaal, de personeelsleden van de Organisatie en aan de deskundigen die namens de Organisatie een functie uitoefenen of voor haar een zending uitvoeren, toegekende voorrechten en immuniteiten zijn niet bedoeld om de betrokkenen tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van de Organisatie onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de betrokkenen.
 
@@ -1303,7 +1303,7 @@ De Directeur-generaal en de personeelsleden van de Organisatie:
 
 ##### Artikel 8
 
-1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2012-01-01&g=2012-01-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2012-03-01&g=2012-03-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De immuniteit van rechtsmacht geldt niet met betrekking tot civiele vorderingen die voortvloeien uit door de Directeur-generaal in de privé-sfeer veroorzaakte schade dan wel uit door hem in de privé-sfeer afgesloten contracten.
 
@@ -1319,7 +1319,7 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 10
 
-1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2012-01-01&g=2012-01-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2012-01-01&g=2012-01-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
+1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2012-03-01&g=2012-03-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2012-03-01&g=2012-03-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
 
 - a. hun eigen onderdanen;
 
@@ -1329,11 +1329,11 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 11
 
-1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2012-01-01&g=2012-01-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2012-01-01&g=2012-01-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
+1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2012-03-01&g=2012-03-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2012-03-01&g=2012-03-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
 
-2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2012-01-01&g=2012-01-01), opheffen.
+2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2012-03-01&g=2012-03-01), opheffen.
 
-3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2012-01-01&g=2012-01-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
+3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2012-03-01&g=2012-03-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
 
 ##### Artikel 12
 
@@ -1781,7 +1781,7 @@ Een oppositiebeslissing bevat de volgende gegevens:
 
 ##### Regel 1.34. Conversies
 
-1. In geval van een verzoek zoals bedoeld in artikel 110 van de Gemeenschapsmerkenverordening moet de aanvrager:
+1. In geval van een verzoek zoals bedoeld in artikel 112 van de Gemeenschapsmerkenverordening moet de aanvrager:
 
 - a. een betaling verrichten van het recht voor een Beneluxdepot;
 
@@ -1945,15 +1945,13 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 ##### Regel 3.4. Indiening van stukken
 
-1. De aan het Bureau of de nationale diensten over te leggen stukken kunnen worden verzonden per post en per telefax; zij kunnen eveneens worden overgelegd met behulp van elektronische middelen overeenkomstig het bepaalde in regel 3.5.
+1. De aan het Bureau of de nationale diensten over te leggen stukken, bewijsstukken en bijlagen kunnen worden ingediend met behulp van de daartoe door de Directeur-Generaal aangeduide (al dan niet elektronische) middelen. De Directeur-Generaal kan daarbij per handeling waarop de indiening betrekking heeft verschillende middelen aanduiden.
 
-2. Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het register van internationale inschrijvingen gehouden bij het Internationaal Bureau, is ondertekend namens een rechtspersoon, dient daarbij de naam en de hoedanigheid van de ondertekenaar te zijn vermeld.
+2. De in lid 1 genoemde stukken, bewijsstukken en bijlagen die niet voldoen aan het daaromtrent door de Directeur-Generaal bepaalde worden geacht niet te zijn ontvangen door het Bureau.
 
-##### Regel 3.5. Elektronische indiening
+##### Regel 3.5. Ondertekening van stukken
 
-1. Het indienen van depots, van aanvragen om internationale inschrijving, van verzoeken tot aantekeningen van wijzigingen in het register, van verzoeken tot vernieuwing van inschrijvingen en het instellen van oppositieprocedures kan eveneens langs elektronische weg gedaan worden. Dit kan alleen volgens de daarvoor door de Directeur-Generaal opgestelde regels.
-
-2. Stukken, bewijsstukken en bijlagen die de in lid 1 genoemde handelingen vergezellen dienen eveneens te voldoen aan het daaromtrent door de Directeur-Generaal bepaalde. Elektronische indieningen die daaraan niet voldoen worden geacht niet te zijn ontvangen door het Bureau.
+Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het register van internationale inschrijvingen gehouden bij het Internationaal Bureau, is ondertekend namens een rechtspersoon, dient daarbij de naam en de hoedanigheid van de ondertekenaar te zijn vermeld.
 
 ##### Regel 3.6. Aanstelling gemachtigde
 
@@ -2001,7 +1999,7 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 ##### Regel 3.11. Ter beschikking stellen formulieren
 
-Het Bureau en de nationale diensten stellen formulieren beschikbaar voor het verrichten van internationale en Benelux depots, het aantekenen van wijzigingen in het register en het verzoeken van vernieuwingen en voor opposities. De Directeur-Generaal stelt het model van deze formulieren vast. Deze worden gepubliceerd op de website van het Bureau.
+Het Bureau en de nationale diensten stellen formulieren beschikbaar voor het verrichten van die handelingen die langs niet-elektronische weg kunnen worden verricht. De Directeur-Generaal stelt het model van deze formulieren vast. Deze worden gepubliceerd op de website van het Bureau.
 
 ##### Regel 3.12. Benelux-register
 
@@ -2031,7 +2029,7 @@ Het Bureau publiceert, conform het bepaalde in artikel 4.4, sub b, van het Verdr
 
 ##### Regel 3.14. Nadere regels
 
-De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bureau vaststellen. Deze worden gepubliceerd.
+De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2012-03-01&g=2012-03-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.
 
 ## TITEL IV. RECHTEN EN VERGOEDINGEN
 
@@ -2050,6 +2048,8 @@ De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bu
 1. Betaling van de verschuldigde rechten en vergoedingen dient vooraf te gaan aan handelingen door het Bureau.
 
 2. Het Bureau verzendt na ontvangst van een verzoek waaraan rechten verbonden zijn een overzicht van de verschuldigde rechten. Aan het niet-verzenden of niet-ontvangen van dit overzicht kunnen geen rechten worden ontleend.
+
+3. Indien voor een handeling overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2012-03-01&g=2012-03-01) zowel elektronische als niet-elektronische indiening mogelijk is en de indiener ervoor kiest om een ander middel dan een door de Directeur-Generaal voor die specifieke handeling aangeduid elektronisch middel te gebruiken, is een vergoeding voor administratiekosten verschuldigd ter hoogte van 15%, naar beneden afgerond op hele euro’s, van het recht of de rechten verschuldigd voor de desbetreffende handeling. Deze vergoeding is niet eerder verschuldigd dan nadat hierover overeenkomstig [regel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2012-03-01&g=2012-03-01) een mededeling van de Directeur-Generaal is gepubliceerd.
 
 ##### Regel 4.3. Vergoedingen incidentele handelingen
 
