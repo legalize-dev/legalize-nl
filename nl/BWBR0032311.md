@@ -4,7 +4,7 @@ identifier: "BWBR0032311"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-01"
-last_updated: "2012-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032311"
 soort: "AMvB"
@@ -54,19 +54,19 @@ Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector 
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit personenchauffeurs defensie.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie en het Verplaatsingskostenbesluit militairen.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -77,27 +77,3 @@ Vastgesteld wordt een Verplaatsingskostenbesluit defensie luidende: [Verplaatsin
 ### Hoofdstuk 2. Overige wijzigingen
 
 ### Hoofdstuk 3. Slotbepalingen
-
-Op de voordracht van Onze Minister van Defensie van 12 juli 2012, nr. BS/2012023496;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) alsmede op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12), [12quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12quinquies) en [12k van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k);
-
-De Afdeling advisering van Raad van State gehoord (advies van 10 september 2012, nr. W07.12.0279/II);
-
-Gezien het nader rapport van de Minister van Defensie van 31 oktober 2012, nr. BS/2012031015;
-
-Hebben goedgevonden en verstaan:
-
-### Hoofdstuk 2. Overige wijzigingen
-
-### Hoofdstuk 3. Slotbepalingen
-
-##### Artikel 9. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met dien verstande dat:
-
-- a. de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032311&hoofdstuk=1&artikel=1&z=2012-12-01&g=2012-12-01) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032311&hoofdstuk=2&artikel=5&z=2012-12-01&g=2012-12-01) terugwerken tot en met 1 maart 2012;
-
-- b. [artikel 2, onderdelen A,F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0032311&hoofdstuk=2&artikel=2&z=2012-12-01&g=2012-12-01), [artikel 3 onderdelen A, B, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0032311&hoofdstuk=2&artikel=3&z=2012-12-01&g=2012-12-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032311&hoofdstuk=2&artikel=4&z=2012-12-01&g=2012-12-01) terugwerken tot en met 1 januari 2012.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
