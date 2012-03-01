@@ -4,7 +4,7 @@ identifier: "BWBV0005212"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-03-01"
-last_updated: "2011-02-04"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005212"
 soort: "verdrag"
@@ -66,7 +66,7 @@ De verdragsluitende partijen blijven de nauwe samenwerking voortzetten teneinde 
 
 1. De Minister van Defensie van het Koninkrijk der Nederlanden (hierna te noemen de „zendende partij”) stelt personeel beschikbaar dat bij EASBRICOM zal worden ingedeeld.
 
-2. Het aantal personeelsleden, hun mandaat en elke aangelegenheid ter zake van de benoemingen worden vastgesteld in een regeling tussen de zendende partij en EASBRICOM, zoals genoemd in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005212&artikel=4&z=2011-02-04&g=2011-02-04).
+2. Het aantal personeelsleden, hun mandaat en elke aangelegenheid ter zake van de benoemingen worden vastgesteld in een regeling tussen de zendende partij en EASBRICOM, zoals genoemd in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005212&artikel=4&z=2012-03-01&g=2012-03-01).
 
 3. Na overleg met EASBRICOM kan de zendende partij door haar ter beschikking gestelde personeelsleden om elke reden terugtrekken.
 
@@ -78,7 +78,7 @@ De verdragsluitende partijen blijven de nauwe samenwerking voortzetten teneinde 
 
 ##### Artikel 3. Financiële regelingen
 
-Financiële regelingen binnen het kader van de samenwerking zullen tussen de zendende partij en EASBRICOM worden overeengekomen op de wijze als omschreven in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005212&artikel=4&z=2011-02-04&g=2011-02-04).
+Financiële regelingen binnen het kader van de samenwerking zullen tussen de zendende partij en EASBRICOM worden overeengekomen op de wijze als omschreven in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005212&artikel=4&z=2012-03-01&g=2012-03-01).
 
 ##### Artikel 4. Slotbepalingen
 
