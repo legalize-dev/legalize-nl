@@ -4,7 +4,7 @@ identifier: "BWBR0025261"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2010-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025261"
 soort: "ministeriele-regeling"
@@ -70,7 +70,11 @@ In deze regeling is de wijze van vaststelling van het inkomen van een persoon di
 
 ##### Artikel 3. Inkomen
 
-Voor de toepassing van [artikel 6, eerste lid, van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6) wordt in deze regeling onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+Voor de toepassing van [artikel 6, eerste lid, van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6) wordt in deze regeling onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten vermeerderd met:
+
+- a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
 
 ##### Artikel 4. Inkomen echtgenoot
 
@@ -175,5 +179,13 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsvoorzieningen voor jongeren met een handicap.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Overgangsrecht
+
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025261&artikel=3&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
+
+2. Dit artikel vervalt met ingang van 1 januari 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
