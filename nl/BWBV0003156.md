@@ -4,7 +4,7 @@ identifier: "BWBV0003156"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-03-01"
-last_updated: "2006-06-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003156"
 soort: "verdrag"
@@ -112,7 +112,7 @@ Aan dit memorandum van overeenstemming wordt uitvoering gegeven door het Coördi
 
 ##### Artikel 3. Technische afspraken
 
-In het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2006-06-01&g=2006-06-01) van deze overeenkomst bedoelde tenuitvoerlegging kunnen met name op het operationele vlak relevante technische afspraken worden gemaakt tussen de naar gelang het onderwerp van de afspraak bevoegde overheden en diensten van de Partijen. De technische afspraken alsmede desbetreffende wijzigingsvoorstellen worden voorafgaandelijk ter goedkeuring voorgelegd aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2006-06-01&g=2006-06-01) bedoelde autoriteiten.
+In het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2012-03-01&g=2012-03-01) van deze overeenkomst bedoelde tenuitvoerlegging kunnen met name op het operationele vlak relevante technische afspraken worden gemaakt tussen de naar gelang het onderwerp van de afspraak bevoegde overheden en diensten van de Partijen. De technische afspraken alsmede desbetreffende wijzigingsvoorstellen worden voorafgaandelijk ter goedkeuring voorgelegd aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2012-03-01&g=2012-03-01) bedoelde autoriteiten.
 
 ##### Artikel 4. Wederzijdse informatie
 
@@ -124,7 +124,7 @@ De praktische regelingen voor de wederzijdse informatievoorziening worden nader 
 
 ##### Artikel 5. Inhoud van de informatie
 
-De informatie over de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=3&z=2006-06-01&g=2006-06-01) van dit memorandum van overeenstemming bedoelde gebeurtenissen dient de volgende gegevens te omvatten:
+De informatie over de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=3&z=2012-03-01&g=2012-03-01) van dit memorandum van overeenstemming bedoelde gebeurtenissen dient de volgende gegevens te omvatten:
 
 - –. de beschikbare relevante gegevens aan de hand waarvan het risico voor de overige Partijen kan worden ingeschat en derhalve de grensoverschrijdende gevolgen zo veel mogelijk kunnen worden beperkt;
 
@@ -146,19 +146,19 @@ De vergaderingen worden georganiseerd op initiatief van het land dat op dat ogen
 
 ##### Artikel 7. Aanstelling van een liaison
 
-Wanneer zich een gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2006-06-01&g=2006-06-01) voordoet, kan elke Partij een liaison aanwijzen en hem in opdracht op het grondgebied van de overige Partijen sturen om er de acties te volgen, nadat de betrokken Partijen daarover overeenstemming hebben bereikt. Die liaison mag de ingewonnen informatie doorzenden naar de betrokken diensten van zijn eigen staat. De nauwkeurige taakomschrijving van de liaison en de praktische regelingen voor zijn dienstreis worden in een technische afspraak beschreven.
+Wanneer zich een gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2012-03-01&g=2012-03-01) voordoet, kan elke Partij een liaison aanwijzen en hem in opdracht op het grondgebied van de overige Partijen sturen om er de acties te volgen, nadat de betrokken Partijen daarover overeenstemming hebben bereikt. Die liaison mag de ingewonnen informatie doorzenden naar de betrokken diensten van zijn eigen staat. De nauwkeurige taakomschrijving van de liaison en de praktische regelingen voor zijn dienstreis worden in een technische afspraak beschreven.
 
-Naar gelang van de reikwijdte van de gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2006-06-01&g=2006-06-01) kunnen meerdere liaisons worden aangesteld.
+Naar gelang van de reikwijdte van de gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2012-03-01&g=2012-03-01) kunnen meerdere liaisons worden aangesteld.
 
 ##### Artikel 8. Organiseren van gemeenschappelijke oefeningen
 
-Rond de tenuitvoerlegging van deze overeenkomstworden oefeningen gehouden volgens een tijdpad en regels die in onderlinge overeenstemming tussen de Crisiscentra worden afgesproken, in het bijzonder tijdens de overlegvergaderingen zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=6&z=2006-06-01&g=2006-06-01). Die oefeningen vinden volgens de gekozen scenario’s tussen de Partijen plaats met landen die als waarnemer optreden dan wel worden uitgenodigd om deel te nemen.
+Rond de tenuitvoerlegging van deze overeenkomstworden oefeningen gehouden volgens een tijdpad en regels die in onderlinge overeenstemming tussen de Crisiscentra worden afgesproken, in het bijzonder tijdens de overlegvergaderingen zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=6&z=2012-03-01&g=2012-03-01). Die oefeningen vinden volgens de gekozen scenario’s tussen de Partijen plaats met landen die als waarnemer optreden dan wel worden uitgenodigd om deel te nemen.
 
 ##### Artikel 9. Gemeenschappelijke evaluatie
 
 Na elke crisissituatie en/of oefening als bedoeld in dit memorandum van overeenstemming wordt tussen de betrokken Crisiscentra een evaluatie georganiseerd. Die evaluatie vindt plaats op initiatief van het land waar de crisissituatie zich heeft voorgedaan of die de desbetreffende oefening heeft gecoördineerd.
 
-Het met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=4&z=2006-06-01&g=2006-06-01) van dit memorandum van overeenstemming tot stand gebrachte wederzijdse informatie-uitwisseling wordt minstens eenmaal per jaar door de bevoegde autoriteiten van de drie landen getest.
+Het met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=4&z=2012-03-01&g=2012-03-01) van dit memorandum van overeenstemming tot stand gebrachte wederzijdse informatie-uitwisseling wordt minstens eenmaal per jaar door de bevoegde autoriteiten van de drie landen getest.
 
 ##### Artikel 10. Geschillenbeslechting
 
