@@ -4,7 +4,7 @@ identifier: "BWBR0029373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-21"
-last_updated: "2011-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029373"
 soort: "ministeriele-regeling"
@@ -75,11 +75,11 @@ De aanwijzing, bedoeld in [artikel 1, onder l, van de wet](https://wetten.overhe
 
 ##### Artikel 3
 
-De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal aantal inspecties dan wel controles uit van schepen van prioriteitsklassen I en II dat ten minste het in artikel 5, tweede lid, onderdeel b, van [richtlijn 2009/16/EG](32009L0016) bedoelde aandeel van Nederland in het totale aantal jaarlijks in de Europese Unie en in het onder het MOU vallende gebied uit te voeren inspecties bedraagt.
+De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een totaal aantal inspecties dan wel controles uit van schepen van prioriteitsklassen I en II dat ten minste het in artikel 5, tweede lid, onderdeel b, van [richtlijn 2009/16/EG](32009L0016) bedoelde aandeel van Nederland in het totale aantal jaarlijks in de Europese Unie en in het onder het MOU vallende gebied uit te voeren inspecties bedraagt.
 
 ##### Artikel 4
 
-1. De ambtenaren van de Inspectie Verkeer en Waterstaat voeren inspecties dan wel controles uit van alle schepen van prioriteitsklasse I, te weten:
+1. De ambtenaren van de Inspectie Leefomgeving en Transport voeren inspecties dan wel controles uit van alle schepen van prioriteitsklasse I, te weten:
 
 - a. schepen met een hoog risicoprofiel, zoals vastgesteld overeenkomstig artikel 10 van [richtlijn 2009/16/EG](32009L0016), die in de laatste 6 maanden niet zijn geïnspecteerd in een haven binnen de Europese Unie of gebied dat onder het MOU valt;
 
@@ -89,29 +89,29 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - d. schepen waarvoor dwingende factoren gelden als bedoeld in bijlage I, deel II, punt 2A, van [richtlijn 2009/16/EG](32009L0016).
 
-2. De ambtenaren van de Inspectie Verkeer en Waterstaat voeren voorts inspecties dan wel contoles uit van schepen als bedoeld in [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=11).
+2. De ambtenaren van de Inspectie Leefomgeving en Transport voeren voorts inspecties dan wel contoles uit van schepen als bedoeld in [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=11).
 
 ##### Artikel 5
 
-1. Indien het totale aantal schepen van prioriteitsklasse I dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet groter is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien een aantal inspecties op schepen van prioriteitsklasse I wordt uitgevoerd dat ten minste dit inspectieaandeel bedraagt en ten hoogste 30% van het totale aantal schepen van prioriteitsklasse I die de havens aandoet, niet wordt geïnspecteerd.
+1. Indien het totale aantal schepen van prioriteitsklasse I dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet groter is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2012-03-01&g=2012-03-01), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien een aantal inspecties op schepen van prioriteitsklasse I wordt uitgevoerd dat ten minste dit inspectieaandeel bedraagt en ten hoogste 30% van het totale aantal schepen van prioriteitsklasse I die de havens aandoet, niet wordt geïnspecteerd.
 
-2. Indien het totale aantal schepen van prioriteitsklasse I en II dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet kleiner is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien de op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), voorgeschreven inspecties van prioriteitsklasse I worden uitgevoerd en ten minste 85% van het totale aantal schepen van prioriteitsklasse II dat de havens van Nederland aandoet wordt geïnspecteerd.
+2. Indien het totale aantal schepen van prioriteitsklasse I en II dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet kleiner is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2012-03-01&g=2012-03-01), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien de op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2012-03-01&g=2012-03-01), voorgeschreven inspecties van prioriteitsklasse I worden uitgevoerd en ten minste 85% van het totale aantal schepen van prioriteitsklasse II dat de havens van Nederland aandoet wordt geïnspecteerd.
 
 ##### Artikel 6
 
-1. In het geval dat de ambtenaren van de Inspectie Verkeer en Waterstaat niet in staat zijn de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), voorgeschreven inspecties dan wel controles volledig uit te voeren, wordt geacht te zijn voldaan aan de in dat lid opgenomen verplichting indien deze gemiste inspecties dan wel controles:
+1. In het geval dat de ambtenaren van de Inspectie Leefomgeving en Transport niet in staat zijn de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2012-03-01&g=2012-03-01), voorgeschreven inspecties dan wel controles volledig uit te voeren, wordt geacht te zijn voldaan aan de in dat lid opgenomen verplichting indien deze gemiste inspecties dan wel controles:
 
 - a. ten hoogste 5% bedragen van het totale aantal schepen van prioriteitsklasse I met een hoog risicoprofiel, zoals vastgesteld overeenkomstig artikel 10 van [richtlijn 2009/16/EG](32009L0016), die de havens aandoen; en
 
 - b. ten hoogste 10% bedraagt van het totale aantal schepen van prioriteitsklasse I zonder het onder a bedoelde hoog risicoprofiel, die de havens aandoen.
 
-2. Onverminderd het eerste lid, geven de ambtenaren van de Inspectie Verkeer en Waterstaat voorrang aan inspecties dan wel controles van schepen die volgens de informatie van de inspectiedatabank niet vaak havens in de Europese Unie aandoen.
+2. Onverminderd het eerste lid, geven de ambtenaren van de Inspectie Leefomgeving en Transport voorrang aan inspecties dan wel controles van schepen die volgens de informatie van de inspectiedatabank niet vaak havens in de Europese Unie aandoen.
 
 3. Voor zover het betreft schepen op ankerplaatsen binnen de jurisdictie van een haven, geldt het tweede lid slechts ten aanzien van schepen van prioriteitsklasse I met een hoog risicoprofiel, zoals vastgesteld overeenkomstig artikel 10 van [richtlijn 2009/16/EG](32009L0016).
 
 ##### Artikel 7
 
-1. De ambtenaren van de Inspectie Verkeer en Waterstaat kunnen een inspectie of controle van een schip van prioriteitsklasse I uitstellen, indien de inspectie of controle kan worden uitgevoerd:
+1. De ambtenaren van de Inspectie Leefomgeving en Transport kunnen een inspectie of controle van een schip van prioriteitsklasse I uitstellen, indien de inspectie of controle kan worden uitgevoerd:
 
 - a. de eerst volgende keer dat het schip opnieuw een haven aandoet, op voorwaarde dat het schip in de tussentijd geen andere haven in de Europese Unie of in het onder het MOU vallend gebied heeft aangedaan en het uitstel niet meer dan 15 dagen bedraagt; of
 
@@ -127,7 +127,7 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - b. de inspectie dan wel controle van een schip van prioriteitsklasse I die niet is uitgevoerd omdat:
 
-- 1°. dit naar het oordeel van de ambtenaar van de Inspectie Verkeer en Waterstaat een gevaar oplevert voor de veiligheid van de inspecteurs, het schip, de bemanning ervan of de haven, of voor het mariene milieu; of
+- 1°. dit naar het oordeel van de ambtenaar van de Inspectie Leefomgeving en Transport een gevaar oplevert voor de veiligheid van de inspecteurs, het schip, de bemanning ervan of de haven, of voor het mariene milieu; of
 
 - 2°. het schip uitsluitend gedurende de nachttijd een haven aandoet.
 
@@ -137,9 +137,9 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - 2°. het schip uitsluitend gedurende de nachttijd de ankerplaats aandoet, of gedurende een zodanig korte tijd de ankerplaats aandoet dat de inspectie dan wel controle niet naar behoren kan worden uitgevoerd, mits de reden voor het niet uitvoeren ervan in de inspectiedatabank wordt geregistreerd; of
 
-- 3°. het uitvoeren van de inspectie dan wel controle naar het oordeel van een ambtenaar van de Inspectie Verkeer en Waterstaat een gevaar oplevert voor de veiligheid van deze ambtenaar, het schip, de bemanning ervan of de haven, of voor het mariene milieu, mits de reden voor het niet uitvoeren ervan in de inspectiedatabank word geregistreerd.
+- 3°. het uitvoeren van de inspectie dan wel controle naar het oordeel van een ambtenaar van de Inspectie Leefomgeving en Transport een gevaar oplevert voor de veiligheid van deze ambtenaar, het schip, de bemanning ervan of de haven, of voor het mariene milieu, mits de reden voor het niet uitvoeren ervan in de inspectiedatabank word geregistreerd.
 
-3. De ambtenaren van de Inspectie Verkeer en Waterstaat nemen maatregelen om er voor te zorgen dat schepen die regelmatig gedurende de nachttijd een haven aandoen, met uitzondering van schepen die regelmatig gedurende de nachttijd ankerplaatsen in een haven aandoen, in voorkomende gevallen worden geïnspecteerd.
+3. De ambtenaren van de Inspectie Leefomgeving en Transport nemen maatregelen om er voor te zorgen dat schepen die regelmatig gedurende de nachttijd een haven aandoen, met uitzondering van schepen die regelmatig gedurende de nachttijd ankerplaatsen in een haven aandoen, in voorkomende gevallen worden geïnspecteerd.
 
 ##### Artikel 9
 
@@ -151,15 +151,15 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - c. schepen als bedoeld in [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=11).
 
-2. Als het schip niet wordt geselecteerd voor een uitgebreide inspectie, deelt een ambtenaar van de Inspectie Verkeer en Waterstaat dit na ontvangst van de melding, bedoeld in [artikel 4b van de Regeling communicatie en loodsaanvragen zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010359&artikel=4b), aan het schip mee.
+2. Als het schip niet wordt geselecteerd voor een uitgebreide inspectie, deelt een ambtenaar van de Inspectie Leefomgeving en Transport dit na ontvangst van de melding, bedoeld in [artikel 4b van de Regeling communicatie en loodsaanvragen zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010359&artikel=4b), aan het schip mee.
 
 ##### Artikel 10
 
 1. Aan een uitgebreide inspectie worden onderworpen:
 
-- a. de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde schepen van prioriteitsklasse I die in de laatste zes maanden niet zijn geïnspecteerd en de in dit artikellid bedoelde schepen van prioriteitsklasse II die in de laatste vijf maanden niet zijn geïnspecteerd, indien geselecteerd voor inspectie;
+- a. de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01), bedoelde schepen van prioriteitsklasse I die in de laatste zes maanden niet zijn geïnspecteerd en de in dit artikellid bedoelde schepen van prioriteitsklasse II die in de laatste vijf maanden niet zijn geïnspecteerd, indien geselecteerd voor inspectie;
 
-- b. de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde schepen:
+- b. de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01), bedoelde schepen:
 
 - 1°. van prioriteitsklasse I met een normaal risicoprofiel die in de laatste 12 maanden niet zijn geïnspecteerd;
 
@@ -167,9 +167,9 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - 3°. van prioriteitsklasse II met een laag risicoprofiel die in de laatste 24 maanden niet zijn geïnspecteerd, indien geselecteerd voor inspectie; en
 
-- c. de in [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde schepen.
+- c. de in [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01), bedoelde schepen.
 
-2. Aan een eerste of, in voorkomend geval, meer gedetailleerde inspectie worden onderworpen andere dan de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde schepen:
+2. Aan een eerste of, in voorkomend geval, meer gedetailleerde inspectie worden onderworpen andere dan de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01), bedoelde schepen:
 
 - a. van prioriteitsklasse I met een normaal risicoprofiel, die in de laatste 12 maanden niet zijn geïnspecteerd;
 
@@ -177,27 +177,27 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - c. van prioriteitsklasse II met een laag risicoprofiel die in de laatste 24 maanden niet zijn geïnspecteerd, indien geselecteerd voor inspectie.
 
-3. Aan een meer gedetailleerde of een uitgebreide inspectie, afhankelijk van het professionele oordeel van de ambtenaar van de Inspectie Verkeer en Waterstaat, worden onderworpen schepen als bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01):
+3. Aan een meer gedetailleerde of een uitgebreide inspectie, afhankelijk van het professionele oordeel van de ambtenaar van de Inspectie Leefomgeving en Transport, worden onderworpen schepen als bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01):
 
 - a. ten aanzien waarvan een dwingende factor als bedoeld in bijlage I, deel II, punt 2a van de richtlijn geldt;
 
 - b. ten aanzien waarvan een onverwachte factor als bedoeld in bijlage I, deel II, punt 2b van de richtlijn geldt, indien geselecteerd voor inspectie.
 
-4. Aan een meer gedetailleerde inspectie worden onderworpen andere dan de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde schepen:
+4. Aan een meer gedetailleerde inspectie worden onderworpen andere dan de in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=9&z=2012-03-01&g=2012-03-01), bedoelde schepen:
 
 - a. ten aanzien waarvan een dwingende factor als bedoeld in bijlage I, deel II, punt 2a van de richtlijn geldt;
 
 - b. ten aanzien waarvan een onverwachte factor als bedoeld in bijlage I, deel II, punt 2b geldt, indien geselecteerd voor inspectie.
 
-5. In aanvulling op de in bijlage IV van [richtlijn 2009/16/EG](32009L0016) genoemde certificaten en documenten, inspecteren dan wel controleren de ambtenaren van de Inspectie Verkeer en Waterstaat de documenten genoemd in artikel 4, eerste lid, van [richtlijn 1999/95/EG](31999L0095) en de certificaten en documenten genoemd in bijlage 4 bij het Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).
+5. In aanvulling op de in bijlage IV van [richtlijn 2009/16/EG](32009L0016) genoemde certificaten en documenten, inspecteren dan wel controleren de ambtenaren van de Inspectie Leefomgeving en Transport de documenten genoemd in artikel 4, eerste lid, van [richtlijn 1999/95/EG](31999L0095) en de certificaten en documenten genoemd in bijlage 4 bij het Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).
 
-6. Bij een inspectie, meer gedetailleerde inspectie, uitgebreide inspectie of controle volgen de ambtenaren van de Inspectie Verkeer en Waterstaat de richtsnoeren en procedures, bedoeld in Bijlage VI van de richtlijn, alsmede de procedures, bedoeld in artikel 4, tweede lid, van [richtlijn 1999/95/EG](31999L0095) en in artikel 23 van [richtlijn 2008/106/EG](32008L0106).
+6. Bij een inspectie, meer gedetailleerde inspectie, uitgebreide inspectie of controle volgen de ambtenaren van de Inspectie Leefomgeving en Transport de richtsnoeren en procedures, bedoeld in Bijlage VI van de richtlijn, alsmede de procedures, bedoeld in artikel 4, tweede lid, van [richtlijn 1999/95/EG](31999L0095) en in artikel 23 van [richtlijn 2008/106/EG](32008L0106).
 
 7. Gegronde redenen voor een meer gedetailleerde inspectie als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=3) zijn in ieder geval de redenen genoemd in bijlage V van [richtlijn 2009/16/EG](32009L0016) alsmede de omstandigheden, bedoeld in artikel 4, tweede lid, van [richtlijn nr. 1999/95/EG](31999L0095).
 
 ##### Artikel 11
 
-1. De ambtenaren van de Inspectie Verkeer en Waterstaat kunnen een schip onderwerpen aan een controle als bedoeld in artikel 7 van [verordening (EG) nr. 782/2003](32003R0782) en artikel 3 van [verordening (EG) nr. 536/2008](32008R0536).
+1. De ambtenaren van de Inspectie Leefomgeving en Transport kunnen een schip onderwerpen aan een controle als bedoeld in artikel 7 van [verordening (EG) nr. 782/2003](32003R0782) en artikel 3 van [verordening (EG) nr. 536/2008](32008R0536).
 
 2. Tenzij er gegronde redenen bestaan om aan te nemen dat een schip niet voldoet aan de in het eerste lid genoemde [verordening (EG) nr. 782/2003](32003R0782), blijft de inspectie beperkt tot:
 
@@ -205,11 +205,11 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat voeren jaarlijks een totaal
 
 - b. een beperkte monsterneming van het aangroeiwerende verfsysteem van het schip, zonder afbreuk te doen aan de integriteit, structuur of werking van het aangroeiwerende verfsysteem.
 
-3. Indien er gegronde redenen bestaan om aan te nemen dat het schip niet voldoet aan de in het eerste lid genoemde [verordening (EG) nr. 782/2003](32003R0782). onderwerpt een ambtenaar van de Inspectie Verkeer en Waterstaat het schip aan een meer gedetailleerde inspectie.
+3. Indien er gegronde redenen bestaan om aan te nemen dat het schip niet voldoet aan de in het eerste lid genoemde [verordening (EG) nr. 782/2003](32003R0782). onderwerpt een ambtenaar van de Inspectie Leefomgeving en Transport het schip aan een meer gedetailleerde inspectie.
 
 ##### Artikel 12
 
-Een ambtenaar van de Inspectie Verkeer en Waterstaat moet zich ervan vergewissen dat elke tijdens de inspectie geconstateerde tekortkoming wordt verholpen in overeenstemming met de verdragen.
+Een ambtenaar van de Inspectie Leefomgeving en Transport moet zich ervan vergewissen dat elke tijdens de inspectie geconstateerde tekortkoming wordt verholpen in overeenstemming met de verdragen.
 
 #### § 3. Verplichtingen voor de kapitein en exploitant
 
@@ -227,25 +227,25 @@ Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](https://wett
 
 ##### Artikel 15
 
-1. Indien een schip is aangehouden legt de ambtenaar van de Inspectie Verkeer en Waterstaat bij de kennisgeving ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8) tevens het inspectierapport over. Bovendien doet hij, indien zulks van belang is, ook mededeling van de aanhouding, onder overlegging van het inspectierapport, aan de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de classificatiecertificaten of de certificaten die namens de vlaggenstaat overeenkomstig de internationale verdragen worden afgegeven.
+1. Indien een schip is aangehouden legt de ambtenaar van de Inspectie Leefomgeving en Transport bij de kennisgeving ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8) tevens het inspectierapport over. Bovendien doet hij, indien zulks van belang is, ook mededeling van de aanhouding, onder overlegging van het inspectierapport, aan de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de classificatiecertificaten of de certificaten die namens de vlaggenstaat overeenkomstig de internationale verdragen worden afgegeven.
 
-2. Indien een schip is aangehouden wegens overtreding van de internationale voorschriften inzake de arbeids- en rusttijden volgens het verdrag, genoemd in [artikel 1, onderdeel b, onder 6o van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1), stelt de ambtenaar van de Inspectie Verkeer en Waterstaat, naast de personen en instanties, genoemd in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8), tevens de exploitant van het betrokken schip daarvan in kennis en vermeldt in de kennisgeving tevens welke vereiste corrigerende maatregelen noodzakelijk zijn.
+2. Indien een schip is aangehouden wegens overtreding van de internationale voorschriften inzake de arbeids- en rusttijden volgens het verdrag, genoemd in [artikel 1, onderdeel b, onder 6o van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1), stelt de ambtenaar van de Inspectie Leefomgeving en Transport, naast de personen en instanties, genoemd in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8), tevens de exploitant van het betrokken schip daarvan in kennis en vermeldt in de kennisgeving tevens welke vereiste corrigerende maatregelen noodzakelijk zijn.
 
 3. Op de opheffing van de aanhouding is het eerste lid van overeenkomstige toepassing.
 
-4. Indien een schip, aangehouden in een andere havenstaat dan Nederland, in Nederland bij een reparatiewerf zal worden gerepareerd, stelt een ambtenaar van de Inspectie Verkeer en Waterstaat de bevoegde autoriteit van de desbetreffende havenstaat in kennis van de maatregelen die in Nederland zijn genomen.
+4. Indien een schip, aangehouden in een andere havenstaat dan Nederland, in Nederland bij een reparatiewerf zal worden gerepareerd, stelt een ambtenaar van de Inspectie Leefomgeving en Transport de bevoegde autoriteit van de desbetreffende havenstaat in kennis van de maatregelen die in Nederland zijn genomen.
 
-5. Indien het in het vierde lid bedoelde schip zich niet naar de afgesproken reparatiewerf begeeft, waarschuwt een ambtenaar van de Inspectie Verkeer en Waterstaat onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.
+5. Indien het in het vierde lid bedoelde schip zich niet naar de afgesproken reparatiewerf begeeft, waarschuwt een ambtenaar van de Inspectie Leefomgeving en Transport onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.
 
-6. Indien een aangehouden schip een haven uitvaart zonder te voldoen aan de door de ambtenaar van de Inspectie Verkeer en Waterstaat gestelde en goedgekeurde voorwaarden, waarschuwt deze onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.
+6. Indien een aangehouden schip een haven uitvaart zonder te voldoen aan de door de ambtenaar van de Inspectie Leefomgeving en Transport gestelde en goedgekeurde voorwaarden, waarschuwt deze onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.
 
 ##### Artikel 16
 
-1. De ambtenaren van de Inspectie Verkeer en Waterstaat registreren in de inspectiedatabank:
+1. De ambtenaren van de Inspectie Leefomgeving en Transport registreren in de inspectiedatabank:
 
-- a. het uitstel van een inspectie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=7&z=2011-01-01&g=2011-01-01);
+- a. het uitstel van een inspectie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=7&z=2012-03-01&g=2012-03-01);
 
-- b. de reden op grond waarvan wordt afgezien van een inspectie op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=7&z=2011-01-01&g=2011-01-01); en
+- b. de reden op grond waarvan wordt afgezien van een inspectie op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=7&z=2012-03-01&g=2012-03-01); en
 
 - c. de gegevens in verband met inspecties die op grond van de wet zijn uitgevoerd, zodra het inspectieverslag is voltooid of de eventuele aanhouding van een schip is opgeheven.
 
@@ -255,23 +255,25 @@ Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](https://wett
 
 - b. de melding, bedoeld in [artikel 4b van de Regeling communicatie en loodsaanvragen zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010359&artikel=4b).
 
-3. De ambtenaren van de Inspectie Verkeer en Waterstaat valideren de gegevens, bedoeld in het eerste lid, onderdeel c, binnen 72 uur gevalideerd met het oog op de publicatie ervan.
+3. De ambtenaren van de Inspectie Leefomgeving en Transport valideren de gegevens, bedoeld in het eerste lid, onderdeel c, binnen 72 uur gevalideerd met het oog op de publicatie ervan.
 
 4. De gegevens, bedoeld in het tweede lid, onderdeel aworden aan de inspectiedatabank bezorgd via het communautaire systeem voor de uitwisseling van maritieme informatie ‘SafeSeaNet’ als bedoeld in artikel 3, onder s, van [richtlijn 2002/59/EG](32002L0059).
 
 ##### Artikel 17
 
-De ambtenaar van de Inspectie Verkeer en Waterstaat die over aanwijzingen beschikt als bedoeld in artikel 3 van [richtlijn 1999/95/EG](31999L0095) rapporteert daarover aan de administratie van de vlaggenstaat van het betrokken schip.
+De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen beschikt als bedoeld in artikel 3 van [richtlijn 1999/95/EG](31999L0095) rapporteert daarover aan de administratie van de vlaggenstaat van het betrokken schip.
 
 ##### Artikel 18
 
-De ambtenaar van de Inspectie Verkeer en Waterstaat die een overtreding constateert van [verordening (EG) 725/2004](32004R0725) doet daarvan mededeling aan de burgemeester.
+1. Indien de ambtenaar van de Inspectie Leefomgeving en Transport gegronde redenen heeft om aan te nemen dat een schip niet voldoet aan verordening (EG) 725/2004 doet deze daarvan mededeling aan de burgemeester en de bevoegde autoriteit bedoeld in [artikel 2, eerste lid, onderdeel c, van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=2).
+
+2. De bevoegde autoriteit, bedoeld in het eerste lid, onderwerpt het desbetreffende schip vervolgens aan een van de controlemaatregelen, bedoeld in bijlage I, voorschrift 9, paragraaf 1.3, van verordening (EG) nr. 725/2004.
 
 ##### Artikel 19
 
-1. Indien een havenbeheerder bij de uitoefening van zijn normale taak opmerkt dat een schip tekortkomingen heeft die afbreuk kunnen doen aan de veiligheid van het schip of een onredelijk groot gevaar opleveren voor schade aan het mariene milieu, stelt hij een ambtenaar van de Inspectie Verkeer en Waterstaat daarvan onmiddellijk in kennis.
+1. Indien een havenbeheerder bij de uitoefening van zijn normale taak opmerkt dat een schip tekortkomingen heeft die afbreuk kunnen doen aan de veiligheid van het schip of een onredelijk groot gevaar opleveren voor schade aan het mariene milieu, stelt hij een ambtenaar van de Inspectie Leefomgeving en Transport daarvan onmiddellijk in kennis.
 
-2. Voorts deelt een havenbeheerder aan een ambtenaar van de Inspectie Verkeer en Waterstaat informatie mee betreffende:
+2. Voorts deelt een havenbeheerder aan een ambtenaar van de Inspectie Leefomgeving en Transport informatie mee betreffende:
 
 - 1°. schepen die niet hebben voldaan aan de voorschriften inzake meldingen, bedoeld in [artikel 4b van de Regeling communicatie en loodsaanvragen zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010359&artikel=4b), artikel 12a van de Wet voorkoming verontreiniging door schepen, [artikel 5, eerste, derde en vierde lid, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5) en, in voorkomend geval, [verordening (EG) 725/2004](32004R0725);
 
@@ -291,7 +293,7 @@ De ambtenaar van de Inspectie Verkeer en Waterstaat die een overtreding constate
 
 ##### Artikel 20
 
-1. De Inspecteur-Generaal behandelt namens de minister de klachten als bedoeld in [artikel 1, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1). De Inspecteur-Generaal kan deze bevoegdheid mandateren aan de ambtenaren van de Inspectie Verkeer en Waterstaat.
+1. De Inspecteur-Generaal behandelt namens de minister de klachten als bedoeld in [artikel 1, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1). De Inspecteur-Generaal kan deze bevoegdheid mandateren aan de ambtenaren van de Inspectie Leefomgeving en Transport.
 
 2. Een klacht als bedoeld in [artikel 1, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) wordt onmiddellijk aan een eerste toets onderworpen, teneinde vast te stellen of de klacht met redenen is omkleed.
 
@@ -307,9 +309,9 @@ De ambtenaar van de Inspectie Verkeer en Waterstaat die een overtreding constate
 
 ##### Artikel 21
 
-1. De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=3&artikel=13&z=2011-01-01&g=2011-01-01), [15 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=15&z=2011-01-01&g=2011-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=16&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=17&z=2011-01-01&g=2011-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=18&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op vissersvaartuigen.
+1. De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2012-03-01&g=2012-03-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=3&artikel=13&z=2012-03-01&g=2012-03-01), [15 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=15&z=2012-03-01&g=2012-03-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=16&z=2012-03-01&g=2012-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=17&z=2012-03-01&g=2012-03-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=18&z=2012-03-01&g=2012-03-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=5&artikel=20&z=2012-03-01&g=2012-03-01) zijn niet van toepassing op vissersvaartuigen.
 
-2. De [artikelen 10, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=14&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op vissersvaartuigen voor zover de inhoud van deze artikelen zich daartegen verzet.
+2. De [artikelen 10, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=10&z=2012-03-01&g=2012-03-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=14&z=2012-03-01&g=2012-03-01) zijn niet van toepassing op vissersvaartuigen voor zover de inhoud van deze artikelen zich daartegen verzet.
 
 3. Voor de aanhouding van een vissersvaartuig zijn de onderdelen 2.2, 2.4 tot en met 2.8, 2.10 tot en met 2.13, 3.2.1 tot en met 3.2.9, 3.2.12, 3.2.14, 3.3, 3.4, 3.5, 3.7, 3.9, 3.10 en 3.11 van Bijlage X van de richtlijn niet van toepassing.
 
