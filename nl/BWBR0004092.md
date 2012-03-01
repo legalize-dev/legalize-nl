@@ -4,7 +4,7 @@ identifier: "BWBR0004092"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-28"
-last_updated: "2011-06-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004092"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+1. Dit besluit is uitsluitend van toepassing op de persoon wiens dagloon of grondslag, vermeerderd met het inkomen uit arbeid of overig inkomen anders dan de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt, minder bedraagt dan het voor hem van toepassing zijnde norminkomen, bedoeld in [artikel 2 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2).
 
-- a. de wet: de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+2. Het inkomen, bedoeld in het eerste lid, wordt vastgesteld zonder toepassing van [artikel 7 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=7).
 
-- b. een stamrecht: een recht op periodieke uitkeringen ter vervanging van gederfd of te derven loon.
+3. [Artikel 8a, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) is van overeenkomstige toepassing ten aanzien van het dagloon, bedoeld in het eerste lid.
 
 #### § 2. Inkomensbestanddelen
 
@@ -60,51 +60,27 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Voor de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-06-01&g=2011-06-01), van de wet wordt onder inkomen uit arbeid verstaan:
-
-- a. opbrengst van arbeid;
-
-- b. winst uit bedrijf en zelfstandig uitgeoefend beroep.
+Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld een aanvulling op de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt
 
 ##### Artikel 3
 
-1. Onder opbrengst van arbeid als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2011-06-01&g=2011-06-01), wordt, voorzover bedoelde arbeid door een werknemer in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) wordt verricht, verstaan het loon in de zin van die wet.
+1. Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld al het inkomen uit arbeid of overig inkomen van de persoon die aanspraak maakt op toeslag, indien die persoon:
 
-2. In afwijking van het eerste lid wordt niet als opbrengst van arbeid beschouwd:
+- a. niet volledig werkloos is en zijn dagloon niet verlaagd is naar evenredigheid van de verloren arbeidsuren;
 
-- a. een aanspraak om na verloop van tijd of onder een voorwaarde een of meer uitkeringen of verstrekkingen te ontvangen, voor zover deze niet wordt gedekt door stortingen van de werknemer;
+- b. recht heeft op een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) met toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) of [31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31); of
 
-- b. een loondervingsuitkering in de zin van de wet en een uitkering op grond van [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) aan de werknemer of gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) of aan de zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), al dan niet vermeerderd met een toeslag op grond van de wet;
+- c. recht heeft op een uitkering in verband met arbeidsongeschiktheid gebaseerd op een mate van arbeidsongeschiktheid van minder dan 80%.
 
-- c. een aanvulling op een loondervingsuitkering;
-
-- d. vakantie-uitkering;
-
-- e. loon als bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel de bezoldiging of hetgeen daarmee overeenkomt, bedoeld in [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV), van degene die aanspraak maakt op een toeslag.
-
-3. Indien op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.2&artikel=7&z=2011-06-01&g=2011-06-01), van de wet van inkomen uit arbeid een gedeelte is vrijgelaten, worden, in afwijking van het bepaalde in het tweede lid, onderdelen **b** en **c**, de op dat inkomen betrekking hebbende uitkeringen op grond van de verplichte verzekering van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) aan de werknemer of gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) en op grond van de verplichte verzekering van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), voor zolang de dienstbetrekking voortduurt, alsmede aanvullingen op die uitkeringen als opbrengst van arbeid beschouwd.
+2. Indien de toepassing van het eerste lid er toe leidt dat de toeslag minder bedraagt dan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop, wordt de gelijkstelling, bedoeld in het eerste lid zodanig beperkt, dat de toeslag gelijk is aan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop.
 
 ##### Artikel 4
 
-1. Onder opbrengst van arbeid als bedoeld in [artikel 2, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2011-06-01&g=2011-06-01), worden, voor zover bedoelde arbeid in dienstbetrekking wordt verricht doch niet door een werknemer in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) verstaan de gelden en alle andere voordelen welke als beloning voor die arbeid worden genoten.
-
-2. Ten aanzien van de gelden en alle andere voordelen uit de dienstbetrekking, bedoeld in het eerste lid, is het bepaalde bij of krachtens [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) van overeenkomstige toepassing.
-
-3. In afwijking van het bepaalde in het tweede lid wordt niet als opbrengst van arbeid beschouwd:
-
-- a. een uitkering, die naar aard en strekking overeenkomt met een loondervingsuitkering in de zin van de wet;
-
-- b. vakantie-uitkering;
-
-- c. een uitkering, die naar aard en strekking overeenkomt met een uitkering in de zin van [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2).
+Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt voor de persoon die loon of bezoldiging ontvangt op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering
 
 ##### Artikel 5
 
-1. Onder opbrengst van arbeid als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2011-06-01&g=2011-06-01), wordt, voorzover bedoelde arbeid niet in dienstbetrekking wordt verricht, verstaan het belastbaar loon uit tegenwoordige arbeid of belastbaar resultaat uit overige werkzaamheden, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3) en [7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7), behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
-
-2. Het bepaalde bij of krachtens [artikel 13 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13) is met betrekking tot het bepaalde in het eerste lid van overeenkomstige toepassing.
-
-3. Voor zover over de opbrengst van arbeid, zoals vastgesteld op grond van het eerste en tweede lid, geen aanspraak op vakantie-uitkering bestaat, wordt van dit inkomen slechts een deel in aanmerking genomen. Dit deel is gelijk aan het quotiënt van 100 en de som van 100 en het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet Minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
+Dit besluit wordt aangehaald als: Besluit gelijkstelling loondervingsuitkering Toeslagenwet.
 
 ##### Artikel 5a
 
@@ -287,5 +263,9 @@ Dit besluit berust mede op [artikel 8a, derde lid, van de Toeslagenwet](https://
 #### § 3b. Gelijkstelling ander inkomen met loondervingsuitkering
 
 #### § 4. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
