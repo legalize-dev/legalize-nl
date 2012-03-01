@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -82,7 +82,11 @@ Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](ht
 
 ##### Artikel 4. Inkomen
 
-Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) wordt onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten vermeerderd met:
+
+- a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
 
 ##### Artikel 5. Inkomen echtgenoot
 
@@ -198,11 +202,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a. Inkomen
 
-Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten vermeerderd met:
+
+- a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-01-01&g=2012-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2012-03-01&g=2012-03-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-03-01&g=2012-03-01).
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Overgangsrecht
+
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
+
+2. Dit artikel vervalt met ingang van 1 januari 2013.
+
+#### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
+
+##### Artikel 12ab. Overgangsrecht
+
+1. In afwijking van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
+
+2. Dit artikel vervalt met ingang van 1 januari 2013.
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
