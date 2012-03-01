@@ -4,7 +4,7 @@ identifier: "BWBR0029708"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-08-04"
-last_updated: "2012-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029708"
 soort: "zbo"
@@ -60,23 +60,25 @@ In deze beschikking wordt verstaan onder:
 
 - e. **lotto:** een kansspel als bedoeld in [artikel 27a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
 
-- f. **cijferspel:** een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
+- f. Eurojackpot is een lotto als bedoeld in artikel 1, sub e, welke in Europees verband op gelijktijdige en gecoördineerde wijze in verschillende Europese landen wordt georganiseerd;
 
-- g. **prijzenreserve:** een reservering ten behoeve van het voor uitkering aan prijzen bestemde bedrag;
+- g. **cijferspel:** een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
 
-- h. **medewerkende verenigingen:** verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
+- h. **prijzenreserve:** een reservering ten behoeve van het voor uitkering aan prijzen bestemde bedrag;
 
-- i. **verkooppunten:** ondernemers bij wie de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
+- i. **medewerkende verenigingen:** verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
 
-- j. **het college:** het College van toezicht op de kansspelen, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+- j. **verkooppunten:** ondernemers bij wie de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
 
-- k. **afdracht:** de opbrengst, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), en [artikel 27b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b).
+- k. **het college:** het College van toezicht op de kansspelen, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+
+- l. **afdracht:** de opbrengst, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), en [artikel 27b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b).
 
 ##### Artikel 2
 
 1. Aan de stichting wordt voor de duur van vijf jaren, te rekenen van 16 januari 2010 tot en met 15 januari 2015 vergunning verleend tot het organiseren van sportprijsvragen, lotto en het cijferspel.
 
-2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=3&z=2011-02-01&g=2012-01-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
+2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=3&z=2012-03-01&g=2012-03-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
 ##### Artikel 3
 
@@ -116,11 +118,11 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 7
 
-1. De stichting organiseert ten hoogste 400 lotto’s per kalenderjaar.
+1. De stichting organiseert ten hoogste 422 lotto’s per kalenderjaar.
 
 2. Aan lotto kan worden deelgenomen door middel van online registratie via de verkooppunten dan wel door middel van het afsluiten van een abonnement, rechtstreeks bij de stichting of door tussenkomst van de medewerkende verenigingen of verkooppunten. Aan lotto kan eveneens worden deelgenomen door aanmelding van de voorspellingen langs direct elektronische weg.
 
-3. De trekking van een lotto geschiedt in het openbaar, onder toezicht en verantwoordelijkheid van een notaris, die het verloop van de prijsbepaling en de vaststelling van de winnaars telkens bij proces-verbaal constateert.
+3. De trekking van een lotto geschiedt in het openbaar, onder toezicht en verantwoordelijkheid van een notaris, die het verloop van de prijsbepaling en de vaststelling van de winnaars telkens bij proces-verbaal constateert. Bij de trekking van de Eurojackpot kan hiervan worden afgeweken, waarbij geldt dat bij de trekking in ieder geval een methode wordt toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter gewaarborgd is.
 
 4. De inleg per enkelvoudige speelkans bij een lotto bedraagt ten hoogste € 22,69.
 
@@ -178,17 +180,15 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 14
 
-1. De totale afdracht, bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=13&z=2011-02-01&g=2012-01-01), wordt aangewend ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
+1. De totale afdracht, bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=13&z=2012-03-01&g=2012-03-01), wordt aangewend ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
 
-2. Ten aanzien van 370 sportprijsvragen en 370 lotto’s komt van de afdracht:
+2. Van de afdracht komt:
 
-- a. 26,5% ten goede aan de Stichting Aanwending Loterijgelden Nederland te ’s-Gravenhage;
+- a. 26,5% ten goede aan de Stichting Aanwending loterijgelden Nederland, te ’s-Gravenhage;
 
 - b. 73,5% ten goede aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie te Arnhem.
 
-3. Ten aanzien van de overige sportprijsvragen en lotto’s komt de afdracht ten goede aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie te Arnhem, ten behoeve van het Olympisch Plan 2028.
-
-4. Uiterlijk drie maanden na afloop van het kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het tweede en derde lid genoemde instellingen. Daarvan doet de stichting verslag in de [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2011-02-01&g=2012-01-01) bedoelde jaarrekening.
+3. Uiterlijk drie maanden na afloop van het kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het tweede en derde lid genoemde instellingen. Daarvan doet de stichting verslag in de [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2012-03-01&g=2012-03-01) bedoelde jaarrekening.
 
 ##### Artikel 15
 
@@ -206,7 +206,7 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de minis
 
 ##### Artikel 17
 
-De kosten verbonden aan keuring, controle en onderzoek ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=11&z=2011-02-01&g=2012-01-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2011-02-01&g=2012-01-01), zijn voor rekening van de stichting.
+De kosten verbonden aan keuring, controle en onderzoek ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=11&z=2012-03-01&g=2012-03-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2012-03-01&g=2012-03-01), zijn voor rekening van de stichting.
 
 ##### Artikel 18
 
