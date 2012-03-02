@@ -4,7 +4,7 @@ identifier: "BWBR0025844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2011-07-15"
+last_updated: "2012-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025844"
 soort: "ministeriele-regeling"
@@ -42,103 +42,77 @@ entry_into_force: "2018-01-01"
 
 #### § 1. Inleidende bepalingen
 
-##### Artikel 3. Te subsidiëren activiteiten lerarenbeurs
+##### Artikel 3. Te subsidiëren activiteiten lerarenbeurs:
 
-1. De minister kan subsidie verstrekken:
+1. De minister kan subsidie verstrekken aan:
 
-- a. aan de leraar voor studiekosten; of
+- a. de leraar voor studiekosten in verband met het volgen van een opleiding; en
 
-- b. aan het bevoegd gezag voor kosten in verband met het studieverlof van deze leraar.
+- b. het bevoegd gezag voor kosten in verband met het verlenen van studieverlof aan deze leraar.
 
-2. Voor de subsidie, bedoeld in het eerste lid, onderdeel a, komen uitsluitend een van de volgende opleidingen in aanmerking:
+2. De subsidie kan worden verstrekt voor bachelor- of masteropleidingen, al dan niet in combinatie met een opleiding die is gericht op het wegwerken van deficiënties met als doel toelating tot een masteropleiding binnen het wetenschappelijk onderwijs, mits die opleiding:
 
-- a. bachelor- of masteropleidingen voor leraren in het primair onderwijs, het voortgezet onderwijs, het beroepsonderwijs en de educatie gericht op het voldoen aan andere bekwaamheidseisen dan blijkens het getuigschrift, bedoeld in [artikel 7a.3 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7a.3) of blijkens een bewijs van bekwaamheid tot het geven van onderwijs als bedoeld in [artikel XI, eerste lid, van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI);
+- 1. is vormgegeven als bacheloropleiding binnen het wetenschappelijk onderwijs;
 
-- b. bachelor- of masteropleidingen waarmee een leraar een voor zijn vak relevante graad kan behalen;
+- 2. niet leidt tot de graad Bachelor binnen het wetenschappelijk onderwijs; en
 
-- c. korte opleidingen, niet zijnde een bachelor of masteropleiding, mits deze opleidingen:
+- 3. minimaal 30 studiepunten omvat.
 
-- 1°. gericht zijn op het verwerven van extra bekwaamheden voor het beroep van leraar;
+3. Subsidie wordt verstrekt voor het behalen van ten hoogste 90 studiepunten, met dien verstande dat:
 
-- 2°. een minimale studielast kennen van 200 uren, waarvan tenminste 40 contacturen;
+- a. voor het behalen van 31 tot en met 60 studiepunten ten hoogste twee jaar subsidie wordt verstrekt; en
 
-- 3°. korter duren dan 1 jaar;
+- b. voor het behalen van 61 tot en met 90 studiepunten ten hoogste drie jaar subsidie wordt verstrekt.
 
-- 4°. worden afgesloten met een bewijs van deelname; en
+##### Artikel 4. Eisen aan de leraar
 
-- 5°. niet zijn te kwalificeren zijn als opleidingen die gericht zijn op het verkrijgen van een bevoegdheid bewegingsonderwijs; of
+1. De subsidie voor studiekosten kan worden verstrekt aan de leraar, die:
 
-- d. opleidingen die gericht zijn op het wegwerken van deficiënties met als doel toelating tot een masteropleiding binnen het wetenschappelijk onderwijs, mits de opleiding:
+- a. op grond van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) de graad Bachelor mag voeren;
 
-- 1°. is vormgegeven als bacheloropleiding binnen het wetenschappelijk onderwijs;
+- b. op het moment dat de opleiding start in dienst is bij een bevoegd gezag, dan wel een andere werkgever, en werkt bij een of meer onderwijsinstellingen die bekostigd wordt of worden door de minister of door de Minister van Economische Zaken, Landbouw, en Innovatie; en
 
-- 2°. niet leidt tot de graad Bachelor binnen het wetenschappelijk onderwijs; en
+- c. op het moment dat de opleiding start voor minimaal 20% van zijn werktijd is belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is voor het onderwijs.
 
-- 3°. minimaal 30 studiepunten omvat.
+2. De subsidie voor studiekosten wordt niet verstrekt aan de leraar, die:
 
-3. In afwijking van het tweede lid kan de minister subsidie als bedoeld in het eerste lid, onderdeel a, verstrekken voor de combinatie van de opleidingen, bedoeld in het tweede lid, onderdelen a en d of b en d.
+- a. zij-instromer is; of
 
-4. Voor de subsidie, bedoeld in het eerste lid, onderdeel b, komen uitsluitend een van de opleidingen, bedoeld in het tweede lid, onderdelen a, b of d, of een combinatie van de opleidingen als bedoeld in het derde lid in aanmerking.
+- b. gedurende de subsidieperiode een tegemoetkoming ontvangt op grond van [afdeling 5.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&afdeling=5.1), studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) of [studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) dan wel een opstarttoelage op grond van de Wet studiefinanciering BES.
 
-5. De minister kan voor ten hoogste 3 jaar subsidie, bedoeld in het eerste lid, verlenen voor opleidingen, bedoeld in het tweede lid, onderdelen a, b en d, met dien verstande dat voor:
-
-- a. 1 tot en met 30 studiepunten een jaar subsidie, bedoeld in het eerste lid, staat;
-
-- b. 31 tot en met 60 studiepunten twee jaar subsidie, bedoeld in het eerste lid, staat; en
-
-- c. 61 tot en met 90 studiepunten drie jaar subsidie, bedoeld in het eerste lid, staat.
-
-##### Artikel 4. Subsidieaanvrager lerarenbeurs
-
-1. De subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), wordt slechts verleend aan de leraar die:
-
-- a. zijn bevoegdheid ontleend aan de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944)of les geeft binnen het hoger beroepsonderwijs;
-
-- b. op grond van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) de graad Bachelor mag voeren;
-
-- c. op het moment dat de opleiding start in dienst is bij een bevoegd gezag van een of meer onderwijsinstellingen die bekostigd wordt of worden door de minister of door de Minister van Economische Zaken, Landbouw en Innovatie;
-
-- d. op het moment dat de opleiding start voor minimaal 20% van zijn aanstellingsomvang is belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is voor het onderwijs; en
-
-- e. gedurende de subsidieperiode geen tegemoetkoming ontvangt op grond van [afdeling 5.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&afdeling=5.1) en geen studiefinanciering ontvangt op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+3. De subsidie voor studieverlof aan het bevoegd gezag wordt slechts verstrekt voor zover de leraar in dienst is bij een bevoegd gezag.
 
 ##### Artikel 5. Subsidieplafond lerarenbeurs
 
-1. Het subsidieplafond voor het jaar 2009 voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), is € 23.000.000,–.
-
-2. De minister stelt voor aanvang van de aanvraagtermijnen van 2010 en 2011 de subsidieplafonds voor die jaren vast in de Staatscourant.
-
-3. Het subsidieplafond voor het jaar 2010 voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), is € 37.000.000,–.
-
-4. Het subsidieplafond voor het jaar 2011 voor de subsidie bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), is € 44.500.000,–.
+Het subsidieplafond voor het jaar 2012 voor subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), bedraagt € 40.000.000,–.
 
 ##### Artikel 6. Subsidiebedrag voor studiekosten
 
-De subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), bedraagt de som van een vergoeding voor:
+De subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), bedraagt de som van een vergoeding voor:
 
-- a. de werkelijk gemaakte kosten voor les- en collegegeld tot een maximum van € 3.500,–, respectievelijk € 7.000,– ingeval de leraar overeenkomstig [artikel 7.46, eerste lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.46) instellingscollegegeld verschuldigd is;
+- a. de werkelijk gemaakte kosten voor collegegeld tot een maximum van € 3.500,–, respectievelijk € 7.000,– ingeval de leraar overeenkomstig [artikel 7.46, eerste lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.46) instellingscollegegeld verschuldigd is;
 
-- b. de kosten van studiemiddelen ten hoogste 10% van het verschuldigde les- en collegegeld tot een maximum van € 350,–;
+- b. de kosten van studiemiddelen ten hoogste 10% van het verschuldigde collegegeld tot een maximum van € 350,–;
 
-- c. reiskosten ten hoogste 10% van het verschuldigde les- en collegegeld tot een maximum van € 350.
+- c. reiskosten ten hoogste 10% van het verschuldigde collegegeld tot een maximum van € 350.
 
 ##### Artikel 7. Subsidiebedrag voor studieverlof
 
-1. De subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), wordt bepaald op een bedrag per studieverlofuur.
+1. De subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), wordt bepaald op een bedrag per studieverlofuur.
 
 2. Het maximale aantal studieverlofuren die voor subsidiering in aanmerking komen, is 160 uren per jaar voor een voltijdsaanstelling. In geval van een deeltijdbetrekking wordt het aantal studieverlofuren vastgesteld naar evenredigheid van de aanstellingsomvang.
 
 3. De subsidiebedragen voor een studieverlofuur zijn voor:
 
-- a. het basisonderwijs: € 33,66
+- a. het basisonderwijs: € 34,60
 
-- b. het speciaal (voortgezet) onderwijs: € 35,73
+- b. het speciaal (voortgezet) onderwijs: € 36,73
 
-- c. het voortgezet onderwijs: € 36,36
+- c. het voortgezet onderwijs: € 39,25
 
-- d. het beroepsonderwijs en de educatie: € 38,71
+- d. het beroepsonderwijs en de educatie: € 40,35
 
-- e. het hoger beroepsonderwijs: € 43,65
+- e. het hoger beroepsonderwijs: € 43,95
 
 4. De bedragen, bedoeld in het derde lid, worden jaarlijks geïndexeerd op basis van de kabinetsbijdrage voor het betreffende jaar, onder voorbehoud van goedkeuring van de begroting door de begrotingswetgever. Het besluit hiertoe wordt bekendgemaakt in de Staatscourant.
 
@@ -180,39 +154,37 @@ In deze regeling wordt verstaan onder:
 
 - b. **bekwaamheidsonderzoek:** onderzoek als bedoeld in [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o);
 
-- c. **bevoegd gezag:**
+- c. **Bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1.1.1., onderdeel w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), [artikel 1.1.1, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), of instellingsbestuur bedoeld in [artikel 1.1, onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- 1°. bevoegd gezag van een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
+- d. **DUO:** Dienst Uitvoering Onderwijs;
 
-- 2°. bevoegd gezag van een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- e. **geschiktheidsverklaring:** verklaring als bedoeld in [artikel 118k van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118k) dan wel verklaring als bedoeld in [artikel 4.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4);
 
-- 3°. bevoegd gezag van een school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- f. **geschiktheidsonderzoek:** onderzoek als bedoeld in [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
 
-- 4°. bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1, onderdeel w, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); of
+- g. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- 5°. instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), van een hogeschool als bedoeld in [artikel 1.3, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3);
+- h. **leraar:** persoon, die voldoet aan de bevoegdheidseisen gesteld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3), [artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI) en [artikel 3 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3), danwel kan worden benoemd of tewerk worden gesteld zonder benoeming als bedoeld in [artikel 33 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [artikel 4.2.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), [artikel 80 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) en [artikel 4.2.1. van Wet educatie en beroepenonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=4.2.1), of die lesgeeft in het hoger beroepsonderwijs;
 
-- d. **geschiktheidsverklaring:** verklaring als bedoeld in [artikel 118k van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118k) dan wel verklaring als bedoeld in [artikel 4.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4);
+- i. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of een opleiding, buiten Nederland binnen de Europese Unie, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
 
-- e. **geschiktheidsonderzoek:** onderzoek als bedoeld in [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
+- j. **bacheloropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of een opleiding, buiten Nederland binnen de Europese Unie, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
 
-- f. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
+- k. **studiekosten:** les- en collegegeld, studiemiddelen en reiskosten;
 
-- g. **leraar:** leraar die aan de vereisten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-07-15&g=2011-07-15), voldoet;
+- l. **zij-instromer:** persoon die wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 33, eerste lid, onderdeel b, onder 3°, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) of een persoon die wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 4.2.1, tweede lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), [artikel 80, eerste lid, onderdeel b, onder 3, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) of [artikel 4.2.1, tweede lid, onderdeel c, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=4.2.1);
 
-- h. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- m. **graad:** graad als bedoeld in [artikel 7.19a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.19a);
 
-- i. **bacheloropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- n. **speciaal (voortgezet) onderwijs:** speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 2 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2);
 
-- j. **studiekosten:** les- en collegegeld, studiemiddelen en reiskosten;
+- o. **onderhandelaarsakkoord passend onderwijs:** het onderhandelaarsakkoord convenant mobiliteit passend onderwijs, bedoeld in de brief van de minister aan de Tweede Kamer van 15 december 2011 ( TK 2011/12, 31 497, nr. 85);
 
-- k. **zij-instromer:** persoon die wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 33, eerste lid, onderdeel b, onder 3°, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) of een persoon die wordt benoemd of wordt tewerkgesteld zonder benoeming als bedoeld in [artikel 4.2.1, tweede lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1);
-
-- l. **graad:** graad als bedoeld in [artikel 7.19a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.19a).
+- p. **Het project Eerst de Klas:** bedoeld in de Nota werken in het onderwijs 2012 (Kamerstukken 2011/12, 27 923, nr. 117).
 
 ##### Artikel 2. Subsidieaanvraag
 
-De subsidie, bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&z=2011-07-15&g=2011-07-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&z=2011-07-15&g=2011-07-15), wordt op aanvraag van de leraar, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-07-15&g=2011-07-15), respectievelijk het bevoegd gezag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), verleend.
+Vervallen
 
 ### Hoofdstuk 2. Lerarenbeurs voor scholing
 
@@ -220,7 +192,7 @@ De subsidie, bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 8. Vereisten subsidieaanvraag lerarenbeurs
 
-1. De aanvraag voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), geschiedt overeenkomstig het aanvraagformulier, dat via de website van DUO beschikbaar wordt gesteld.
+1. De aanvraag voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), geschiedt overeenkomstig het aanvraagformulier, dat via de website van DUO beschikbaar wordt gesteld.
 
 2. Een verklaring van het bevoegd gezag maakt onderdeel uit van het aanvraagformulier.
 
@@ -228,37 +200,33 @@ De subsidie, bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:
 
 - a. het dienstverband van de leraar en de duur ervan; en
 
-- b. dat de leraar gedurende de opleiding voor minimaal 20% van zijn aanstellingsomvang is belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is voor het onderwijs aan leerlingen.
+- b. dat de leraar gedurende de opleiding voor minimaal 20% van de werktijd is belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is voor het onderwijs aan leerlingen.
 
 ##### Artikel 9. Termijn indiening aanvraag
 
-1. De aanvraagtermijn voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), is:
+1. Aanvragen voor subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), kunnen in 2012 worden ingediend van 2 april tot en met 1 juni.
 
-- a. voor 2009 van 11 mei 2009 tot en met 17 juni 2009;
-
-- b. voor 2010 van 1 april 2010 tot en met 13 mei 2010; en
-
-- c. voor 2011 van 1 april 2011 tot en met 13 mei 2011.
-
-2. Onverminderd het eerste lid kan de minister een extra aanvraagtermijn openstellen indien het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=5&z=2011-07-15&g=2011-07-15), in enig jaar niet volledig is uitgeput. Het besluit hiertoe wordt bekendgemaakt in de Staatscourant.
+2. Onverminderd het eerste lid kan de minister een extra aanvraagtermijn openstellen indien het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=5&z=2012-03-02&g=2012-03-02), in enig jaar niet volledig is uitgeput. Het besluit hiertoe wordt bekendgemaakt in de Staatscourant.
 
 #### § 3. Subsidieverlening lerarenbeurs
 
 ##### Artikel 10. Criteria verdeling lerarenbeurs
 
-1. Onverminderd het tweede lid verdeelt de minister het beschikbare bedrag in volgorde van ontvangst van de aanvragen voor de subsidie, bedoeld in artikel 3, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een week de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
+1. Onverminderd het tweede lid verdeelt de minister het beschikbare bedrag in volgorde van ontvangst van de aanvragen voor de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een week de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
 
-2. De verdeling van het beschikbare bedrag over de onderwijssectoren geschiedt op basis van het aantal in de onderwijssector werkzame leraren als volgt:
+2. De verdeling van het beschikbare bedrag over de verschillende doelgroepen geschiedt als volgt:
 
-- a. 50% van alle toe te kennen subsidies is beschikbaar voor opleidingen van leraren werkzaam in het primair onderwijs en 43% van die subsidies voor korte opleidingen;
+- a. 40% van het budget is beschikbaar voor opleidingen van leraren waarvoor het bevoegd gezag een verklaring heeft afgegeven waaruit blijkt dat de leraar in het kader van het onderhandelingsakkoord passend onderwijs voor omscholing in aanmerking komt.
 
-- b. 30% van alle toe te kennen subsidies is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs en 17% van die subsidies voor korte opleidingen;
+- b. 25% van het budget is beschikbaar voor opleidingen van leraren werkzaam in het primair onderwijs;
 
-- c. 13% van alle toe te kennen subsidies is beschikbaar voor opleidingen van leraren werkzaam in het middelbaar beroepsonderwijs en volwasseneneducatie, en 34% van die subsidies voor korte opleidingen;
+- c. 15% van het budget is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs;
 
-- d. 7% van alle toe te kennen subsidies is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs en 28% van die subsidies voor korte opleidingen.
+- d. 13% van het budget is beschikbaar voor opleidingen van leraren werkzaam in het middelbaar beroepsonderwijs en volwasseneneducatie en
 
-3. Indien een van de percentages binnen een onderwijssector, bedoeld in het vorige lid, niet wordt bereikt, wordt het resterende bedrag naar evenredigheid verdeeld over de corresponderende percentages van de overige onderwijssectoren.
+- e. 7% van het budget is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
+
+3. Indien een van de budgetten, bedoeld in het tweede lid, niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
 
 ##### Artikel 11. Weigeringsgronden
 
@@ -270,13 +238,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuurswet](https://wetten.overh
 
 ##### Artikel 12. Termijn beslissing
 
-De minister beslist binnen 8 weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=2&artikel=9&z=2011-07-15&g=2011-07-15).
+De minister beslist binnen 8 weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=2&artikel=9&z=2012-03-02&g=2012-03-02).
 
 #### § 4. Verplichtingen subsidieontvanger lerarenbeurs
 
 ##### Artikel 13. Subsidieverplichting leraar
 
-De leraar behaalt het aantal in de beschikking tot verlening van de subsidie voor de opleidingen, bedoeld in [artikel 3, tweede lid, onderdelen a,b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), vermelde studiepunten binnen de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=6&artikel=17&z=2011-07-15&g=2011-07-15), bedoelde termijnen.
+De leraar behaalt het aantal in de beschikking tot verlening van de subsidie voor de opleidingen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), vermelde studiepunten binnen de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=6&artikel=17&z=2012-03-02&g=2012-03-02), bedoelde termijnen.
 
 ##### Artikel 14. Subsidieverplichting bevoegd gezag
 
@@ -288,7 +256,7 @@ Het bevoegd gezag houdt in haar administratie bij op welke wijze het verlof tot 
 
 2. De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overlegd.
 
-3. Het bevoegd gezag als ontvanger van de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), geeft aan door of namens de minister aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=17) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.
+3. Het bevoegd gezag als ontvanger van de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), geeft aan door of namens de minister aangewezen ambtenaren op verzoek inzage in de in [artikel 17 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=17) bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de besteding van de subsidie.
 
 #### § 5. Betaling subsidie lerarenbeurs
 
@@ -296,13 +264,13 @@ Het bevoegd gezag houdt in haar administratie bij op welke wijze het verlof tot 
 
 1. Het subsidiebedrag wordt ten hoogste drie maanden voordat de opleiding aanvangt aan de subsidieontvanger uitbetaald.
 
-2. Indien het opleidingen als bedoeld in [artikel 3, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), betreft, verleent de minister de subsidieontvanger voorschotten in jaarlijkse gedeelten.
+2. De minister verleent de subsidie in jaarlijkse voorschotten.
 
 #### § 6. Vaststelling subsidie lerarenbeurs
 
 ##### Artikel 17. Vaststelling van de subsidie lerarenbeurs
 
-1. De leraar dient een aanvraag voor vaststelling van de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), van opleidingen als bedoeld in [artikel 3, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), in bij de minister:
+1. De leraar dient een aanvraag voor vaststelling van de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-03-02&g=2012-03-02), in bij de minister:
 
 - a. indien de opleiding minstens een jaar duurt, maar geen twee jaar, binnen vier jaar na verlening van de subsidie voor deze opleiding;
 
@@ -310,11 +278,7 @@ Het bevoegd gezag houdt in haar administratie bij op welke wijze het verlof tot 
 
 - c. indien de opleiding minstens drie jaar duurt, binnen zes jaar na verlening van de subsidie voor deze opleiding.
 
-2. De leraar dient een aanvraag voor vaststelling van de subsidie van opleidingen als bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=1&artikel=3&z=2011-07-15&g=2011-07-15), binnen twee jaar in bij de minister na aanvang van deze opleiding.
-
-3. De aanvraag, bedoeld in het eerste lid, bevat een bewijs waaruit het aantal behaalde studiepunten blijkt.
-
-4. De aanvraag, bedoeld in het tweede lid, bevat een bewijs waaruit de deelname aan de opleiding blijkt.
+2. De aanvraag, bedoeld in het eerste lid, bevat een bewijs waaruit het aantal behaalde studiepunten blijkt.
 
 ##### Artikel 18. Terugvordering van de subsidie studiekosten
 
@@ -326,7 +290,7 @@ Het bevoegd gezag houdt in haar administratie bij op welke wijze het verlof tot 
 
 ##### Artikel 19. Terugvordering van de subsidie studieverlof
 
-De minister vordert de subsidie voor de kosten in verband met het studieverlof van de leraar geheel of gedeeltelijk van het bevoegd gezag terug, indien uit de administratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=4&artikel=14&z=2011-07-15&g=2011-07-15), blijkt dat het verlof geheel of gedeeltelijk niet aan de leraar is toegekend, dan wel toekenning van het verlof niet of onvoldoende uit de administratie kan worden opgemaakt.
+De minister vordert de subsidie voor de kosten in verband met het studieverlof van de leraar geheel of gedeeltelijk van het bevoegd gezag terug, indien uit de administratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=4&artikel=14&z=2012-03-02&g=2012-03-02), blijkt dat het verlof geheel of gedeeltelijk niet aan de leraar is toegekend, dan wel toekenning van het verlof niet of onvoldoende uit de administratie kan worden opgemaakt.
 
 ### Hoofdstuk 3. Zij-instroom
 
@@ -334,7 +298,7 @@ De minister vordert de subsidie voor de kosten in verband met het studieverlof v
 
 ##### Artikel 20. Te subsidiëren activiteiten
 
-De minister kan subsidie verstrekken aan het bevoegd gezag, bedoel in [artikel 1, onderdeel c, onder 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=1&paragraaf=1&artikel=1&z=2011-07-15&g=2011-07-15), voor activiteiten in het kader van het begeleiden van een zij-instromer, waaronder in elk geval:
+De minister kan subsidie verstrekken aan het bevoegd gezag, bedoel in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=1&paragraaf=1&artikel=1&z=2012-03-02&g=2012-03-02), voor activiteiten in het kader van het begeleiden van een zij-instromer, waaronder in elk geval:
 
 - a. het laten uitvoeren van het geschiktheidsonderzoek betreffende een zij-instromer;
 
@@ -346,35 +310,39 @@ De minister kan subsidie verstrekken aan het bevoegd gezag, bedoel in [artikel 1
 
 - e. het laten uitvoeren van het bekwaamheidsonderzoekbetreffende een zij-instromer.
 
-##### Artikel 21. Subsidieplafond
+##### Artikel 21. Subsidieplafond zij-instroom
 
-1. Het subsidieplafond voor het jaar 2010 voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), is € 12.000.000,–.
-
-2. Het subsidieplafond voor het jaar 2011 voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), is € 7.500.000,–.
-
-3. De minister stelt voor de aanvang van de aanvraagtermijnen 2010 en 2011 de subsidieplafonds vast in de Staatscourant.
+Het subsidieplafond voor het jaar 2012 bedraagt € 4.000.000,–.
 
 ##### Artikel 22. Subsidiebedrag zij-instroom
 
-De subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), bedraagt € 19.000,– per zij-instromer.
+De subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), bedraagt maximaal € 19.000,– per zij-instromer.
 
 #### § 2. Subsidieaanvraag zij-instroom
 
 ##### Artikel 23. Vereisten subsidieaanvraag zij-instroom
 
-1. De aanvraag voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), geschiedt overeenkomstig het aanvraagformulier, dat via de website van DUO beschikbaar wordt gesteld.
+1. De aanvraag voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), geschiedt overeenkomstig het aanvraagformulier, dat via de website van DUO beschikbaar wordt gesteld.
 
 2. Geen aanvraag kan worden gedaan door personen die ingeschreven staan of in de twee jaren voorafgaand aan de subsidieaanvraag ingeschreven hebben gestaan als student aan een lerarenopleiding en collegegeldplichtig zijn of waren op grond van de Wet op het Hoger Onderwijs en Wetenschappelijk Onderzoek.
 
 ##### Artikel 24. Termijn indiening subsidieaanvraag zij-instroom
 
-De aanvraag voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), wordt ingediend voor 31 december van het betreffende jaar.
+De aanvraag voor de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), wordt ingediend voor 31 december van het betreffende jaar, met dien verstande dat een aanvragen voor de begeleiding van zij-instromers in het kader van het project Eerst de Klas, worden ingediend voor 31 juli 2012.
 
 #### § 3. Subsidieverlening zij-instroom
 
 ##### Artikel 25. Criteria verdeling subsidie zij-instroom
 
-De minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen voor subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een week de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
+1. De minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen voor subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een week de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
+
+2. De verdeling van het beschikbare bedrag over de verschillende doelgroepen geschiedt als volgt:
+
+- a. 24% van het budget is beschikbaar voor de activiteiten in het kader van het begeleiden van zij-instromers in het kader van het project Eerst de Klas.
+
+- b. 76% van het budget is beschikbaar voor de activiteiten in het kader van het begeleiden van andere dan in het eerste lid bedoelde zij-instromers.
+
+3. Indien een van de budgetten, bedoeld in het tweede lid, niet volledig wordt benut, wordt het restbedrag toegevoegd aan het budget van de andere doelgroep.
 
 ##### Artikel 26. Termijn beslissing
 
@@ -394,19 +362,19 @@ De minister beslist binnen acht weken na ontvangst van de aanvraag.
 
 - b. de scholings- en begeleidingsovereenkomst.
 
-4. De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15). Daarbij worden de relevante stukken overlegd.
+4. De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02). Daarbij worden de relevante stukken overlegd.
 
 #### § 5. Voorschot subsidie zij-instroom
 
 ##### Artikel 28. Voorschot van de subsidie zij-instroom
 
-De minister verleent het subsidiebedrag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=22&z=2011-07-15&g=2011-07-15), als voorschot binnen vier weken nadat de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), is verleend.
+De minister verleent het subsidiebedrag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=22&z=2012-03-02&g=2012-03-02), als voorschot binnen vier weken nadat de subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), is verleend.
 
 #### § 6. Vaststelling subsidie zij-instroom
 
 ##### Artikel 29. Vaststelling van de subsidie zij-instroom
 
-De subsidieontvanger dient een aanvraag voor vaststelling van subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2011-07-15&g=2011-07-15), in bij de minister binnen drie jaar na de verlening van subsidie.
+De subsidieontvanger dient een aanvraag voor vaststelling van subsidie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=3&paragraaf=1&artikel=20&z=2012-03-02&g=2012-03-02), in bij de minister binnen drie jaar na de verlening van subsidie.
 
 ##### Artikel 30. Besteding subsidie
 
@@ -438,7 +406,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 36. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011.
+Deze regeling wordt aangehaald als: Regeling lerarenbeurs voor scholing en zij-instroom 2009–2012.
 
 ## Bijlage 1
 
