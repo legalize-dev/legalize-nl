@@ -4,7 +4,7 @@ identifier: "BWBR0031335"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-03-08"
-last_updated: "2011-11-23"
+last_updated: "2012-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031335"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De commissie heeft tot taak:
 
 - 3. Prof. Dr. M. Otto, lid.
 
-2. De leden worden benoemd tot het moment van opheffing van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031335&artikel=5&z=2012-03-08&g=2011-11-23).
+2. De leden worden benoemd tot het moment van opheffing van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031335&artikel=5&z=2012-03-08&g=2012-03-08).
 
 3. Bij tussentijds vertrek van een lid kan de Staatssecretaris van Infrastructuur en Milieu een ander lid benoemen.
 
@@ -72,7 +72,7 @@ De leden ontvangen per vergadering een vergoeding op grond van het [Besluit verg
 
 ##### Artikel 5
 
-1. Na het onderzoek en het uitbrengen van het rapport, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031335&artikel=2&z=2012-03-08&g=2011-11-23), besluit de Staatssecretaris tot opheffing van de commissie.
+1. Na het onderzoek en het uitbrengen van het rapport, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031335&artikel=2&z=2012-03-08&g=2012-03-08), besluit de Staatssecretaris tot opheffing van de commissie.
 
 2. De archiefbescheiden worden na opheffing van de commissie, of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, opgenomen in het archief van het Ministerie van Infrastructuur en Milieu.
 
