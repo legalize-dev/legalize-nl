@@ -4,7 +4,7 @@ identifier: "BWBR0029908"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029908"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
 ##### Artikel aIa
 
-In de [artikelen IA tot en met IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ia&z=2011-07-01&g=2011-07-01) wordt verstaan onder:
+In de [artikelen IA tot en met IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ia&z=2012-03-10&g=2012-03-10) wordt verstaan onder:
 
 - a. **huurcommissie:** huurcommissie als bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
@@ -59,15 +59,15 @@ In de [artikelen IA tot en met IE](https://wetten.overheid.nl/jci1.3:c:BWBR00299
 
 ##### Artikel Ia
 
-De op het tijdstip van inwerkingtreding van [artikel I, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=I&z=2011-07-01&g=2011-07-01), van deze wet bij de huurcommissie aanhangige verzoeken als bedoeld in [artikel 9a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=9a), zoals dat lid laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet, worden behandeld met toepassing van dat lid, zoals dat laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet.
+De op het tijdstip van inwerkingtreding van [artikel I, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=I&z=2012-03-10&g=2012-03-10), van deze wet bij de huurcommissie aanhangige verzoeken als bedoeld in [artikel 9a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=9a), zoals dat lid laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet, worden behandeld met toepassing van dat lid, zoals dat laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet.
 
 ##### Artikel Ib
 
-Indien de eigenaar van een zelfstandige woning geen, overeenkomstig de op grond van [artikel 120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) gegeven regels omtrent de energieprestatie van gebouwen afgegeven, energieprestatiecertificaat aan de huurder heeft verstrekt en daartoe op grond van die regels ook niet verplicht was, vindt, in afwijking van de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegevens regels zoals die komen te luiden na het tijdstip van inwerkingtreding van deze wet, de waardering van die woning plaats overeenkomstig de op grond van artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte gegeven regels, zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van deze wet.
+Indien de eigenaar van een zelfstandige woning geen, overeenkomstig de op grond van [artikel 120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) gegeven regels omtrent de energieprestatie van gebouwen afgegeven, energieprestatiecertificaat aan de huurder heeft verstrekt en daartoe op grond van die regels ook niet verplicht was, vindt, in afwijking van de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels zoals die komen te luiden na het tijdstip van inwerkingtreding van deze wet, de waardering van die woning plaats overeenkomstig de op grond van artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte gegeven regels omtrent de waardering van de energieprestatie van die woning, zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel Ic
 
-Indien de eigenaar van een zelfstandige woning, waarvoor een huurovereenkomst tot stand is gekomen voor het tijdstip van inwerkingtreding van deze wet, een, overeenkomstig de op grond van [artikel 120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) gegeven regels omtrent de energieprestatie van gebouwen afgegeven, energieprestatiecertificaat aan de huurder heeft verstrekt, en een huurprijsverlaging als bedoeld in [artikel 14 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=14) mogelijk is op grond van de waardering van de energieprestatie van die woning overeenkomstig de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels zoals die komen te luiden na het tijdstip van inwerkingtreding van deze wet, en niet op grond van die regels zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van deze wet, spreekt de huurcommissie in afwijking van artikel 14 van de Uitvoeringswet huurprijzen woonruimte uit dat de huurprijs ongewijzigd blijft.
+Indien de eigenaar van een zelfstandige woning, waarvoor een huurovereenkomst is ingegaan voor het tijdstip van inwerkingtreding van deze wet, een, overeenkomstig de op grond van [artikel 120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) gegeven regels omtrent de energieprestatie van gebouwen afgegeven, energieprestatiecertificaat aan de huurder heeft verstrekt of indien dat niet het geval is daartoe op grond van die regels wel verplicht was, en een huurprijsverlaging als bedoeld in [artikel 14 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=14) mogelijk is op grond van de waardering van de energieprestatie van die woning overeenkomstig de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels zoals die komen te luiden na het tijdstip van inwerkingtreding van deze wet, en niet op grond van die regels zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van deze wet, spreekt de huurcommissie in afwijking van artikel 14 van de Uitvoeringswet huurprijzen woonruimte uit dat de huurprijs ongewijzigd blijft.
 
 ##### Artikel Id
 
@@ -75,15 +75,15 @@ Bij de toepassing van [artikel 16 van de Uitvoeringswet huurprijzen woonruimte](
 
 ##### Artikel Ie
 
-De [artikelen IB](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ib&z=2011-07-01&g=2011-07-01), [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ic&z=2011-07-01&g=2011-07-01) en [ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2011-07-01&g=2011-07-01) van deze wet vervallen met ingang van 1 januari 2014, met dien verstande dat:
+De [artikelen IB](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ib&z=2012-03-10&g=2012-03-10), [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ic&z=2012-03-10&g=2012-03-10) en [ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2012-03-10&g=2012-03-10) van deze wet vervallen met ingang van 1 januari 2014, met dien verstande dat:
 
-- a. [artikel IC](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ic&z=2011-07-01&g=2011-07-01) van toepassing blijft op voorstellen tot verlaging van de huurprijs met een datum van ingang voor 1 januari 2014;
+- a. [artikel IC](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ic&z=2012-03-10&g=2012-03-10) van toepassing blijft op voorstellen tot verlaging van de huurprijs met een datum van ingang voor 1 januari 2014;
 
-- b. [artikel ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2011-07-01&g=2011-07-01) van toepassing blijft op uitspraken van de huurcommissie of van de rechter die leiden tot een datum van ingang van de in rekening te brengen lagere huurprijs voor 1 januari 2014.
+- b. [artikel ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2012-03-10&g=2012-03-10) van toepassing blijft op uitspraken van de huurcommissie of van de rechter die leiden tot een datum van ingang van de in rekening te brengen lagere huurprijs voor 1 januari 2014.
 
 ##### Artikel If
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na de datum, genoemd in [artikel IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ie&z=2011-07-01&g=2011-07-01), en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels omtrent de energieprestatie van de woonruimte, zoals die komen te luiden na de inwerkingtreding van deze wet.
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na de datum, genoemd in [artikel IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ie&z=2012-03-10&g=2012-03-10), en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels omtrent de energieprestatie van de woonruimte, zoals die komen te luiden na de inwerkingtreding van deze wet.
 
 ##### Artikel II
 
