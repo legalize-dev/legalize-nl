@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2012-01-14"
+last_updated: "2012-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -124,7 +124,11 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur;
 
-- 9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia: VN OPERATIES;
+- 9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia;
+
+- 10°. de United Nations Mission In South Sudan 'UNMISS', voor zover deze deelname heeft plaatsgehad op het grondbebied van en in het luchtruim boven de republiek Zuid Soedan vanaf augustus 2011;
+
+- 11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
