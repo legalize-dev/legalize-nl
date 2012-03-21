@@ -4,7 +4,7 @@ identifier: "BWBR0029746"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-03-01"
-last_updated: "2011-05-17"
+last_updated: "2012-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029746"
 soort: "AMvB"
@@ -94,7 +94,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Als nationale bevoegde autoriteit, bedoeld in artikel 34, eerste lid, van [verordening (EG) 1223/2009](32009R1223) wordt aangewezen de Voedsel en Waren Autoriteit.
+Als nationale bevoegde autoriteit, bedoeld in artikel 34, eerste lid, van [verordening (EG) 1223/2009](32009R1223) wordt aangewezen de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 5
 
