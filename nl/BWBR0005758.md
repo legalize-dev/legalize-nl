@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2010-10-08"
+last_updated: "2012-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -122,7 +122,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2010-10-08&g=2010-10-08) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2012-03-21&g=2012-03-21) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
 
@@ -134,7 +134,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 
-14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2010-10-08&g=2010-10-08).
+14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2012-03-21&g=2012-03-21).
 
 15. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van verordening (EG) 124/2009.
 
@@ -270,7 +270,7 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2010-10-08&g=2010-10-08), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2012-03-21&g=2012-03-21), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen
 
@@ -346,7 +346,7 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2010-10-08&g=2010-10-08), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2012-03-21&g=2012-03-21), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
 
 - a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
@@ -376,9 +376,9 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2010-10-08&g=2010-10-08), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2010-10-08&g=2010-10-08) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2010-10-08&g=2010-10-08) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2012-03-21&g=2012-03-21), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2012-03-21&g=2012-03-21) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2012-03-21&g=2012-03-21) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2010-10-08&g=2010-10-08), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2012-03-21&g=2012-03-21), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
 4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -458,7 +458,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-De Voedsel en Waren Autoriteit is:
+De Nederlandse Voedsel- en Warenautoriteit is:
 
 - a. bevoegde autoriteit, bedoeld in verordening (EG) 178/2002, wat betreft levensmiddelen;
 
@@ -476,11 +476,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. In of op eet- en drinkwaren zijn slechts resten, bestanddelen of omzettingsproducten van bestrijdingsmiddelen aanwezig als gevolg van goed landbouwkundig gebruik van bestrijdingsmiddelen en in hoeveelheden die niet schadelijk kunnen zijn voor de volksgezondheid.
 
-2. De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) 396/2005, worden verricht door:
-
-- a. de Voedsel en Waren Autoriteit; en
-
-- b. de Algemene Inspectiedienst, voor zover het betreft het telen van plantaardige producten tot en met de oogst.
+2. De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) 396/2005, worden verricht door de Nederlandse Voedsel- en Warenautoriteit.
 
 3. Bij regeling van Onze Minister en van Onze Minister van Landbouw, Natuur en Voedselkwaliteit kunnen nadere regels worden gesteld:
 
