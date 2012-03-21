@@ -4,7 +4,7 @@ identifier: "BWBR0010009"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2008-11-19"
+last_updated: "2012-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010009"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
 - a. de Inspectie voor de Gezondheidszorg;
 
-- b. de Voedsel en Waren Autoriteit.
+- b. de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 2
 
