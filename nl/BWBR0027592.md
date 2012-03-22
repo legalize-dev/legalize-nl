@@ -4,7 +4,7 @@ identifier: "BWBR0027592"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2012-03-22"
-last_updated: "2010-07-01"
+last_updated: "2012-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027592"
 soort: "beleidsregel"
@@ -72,13 +72,17 @@ Bij het niet tijdig indienen van de verantwoordingsbescheiden, bedoeld in [artik
 
 ##### Artikel 4. Tijdig ingediende incomplete aanvraag tot vaststelling
 
-Voor zover tijdig ingediende verantwoordingsbescheiden onvoldoende zijn voor de beoordeling van de aanvraag tot vaststelling of voor de voorbereiding van de beschikking tot vaststelling, en de in dat geval door de minister ingevolge [artikel 4:5, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) gestelde termijn eindigt na de termijn, bedoeld in [artikel 2.22, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.22), geeft de minister pas toepassing aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2010-07-01&g=2010-07-01), nadat de door de minister gestelde termijn ongebruikt is verstreken.
+Voor zover tijdig ingediende verantwoordingsbescheiden onvoldoende zijn voor de beoordeling van de aanvraag tot vaststelling of voor de voorbereiding van de beschikking tot vaststelling, en de in dat geval door de minister ingevolge [artikel 4:5, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) gestelde termijn eindigt na de termijn, bedoeld in [artikel 2.22, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.22), geeft de minister pas toepassing aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2012-03-22&g=2012-03-22), nadat de door de minister gestelde termijn ongebruikt is verstreken.
 
 ##### Artikel 5. Verlagen instellingssubsidie
 
-1. [Artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing op het gebruikmaken door de minister van de bevoegdheid, bedoeld in [artikel 4:48, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), indien een ontvanger van een vierjaarlijkse instellingssubsidie de verantwoordingsbescheiden, bedoeld in [artikel 2.15, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15) niet tijdig indient.
+1. [Artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2012-03-22&g=2012-03-22), is van overeenkomstige toepassing op het gebruikmaken door de minister van de bevoegdheid, bedoeld in [artikel 4:48, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), indien een ontvanger van een vierjaarlijkse instellingssubsidie de verantwoordingsbescheiden, bedoeld in [artikel 2.15, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15) niet tijdig indient.
 
-2. In afwijking van [artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2010-07-01&g=2010-07-01), bedraagt het daar genoemde percentage voor de toepassing van dit artikel een half procent, dan wel driekwart procent, indien de subsidieontvanger de verantwoordingsbescheiden, bedoeld in [artikel 2.15, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15) in dezelfde subsidieperiode voor de tweede keer onderscheidenlijk voor de derde keer niet tijdig indient.
+2. In afwijking van [artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2012-03-22&g=2012-03-22), bedraagt het daar genoemde percentage voor de toepassing van dit artikel een half procent, dan wel driekwart procent, indien de subsidieontvanger de verantwoordingsbescheiden, bedoeld in [artikel 2.15, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15) in dezelfde subsidieperiode voor de tweede keer onderscheidenlijk voor de derde keer niet tijdig indient.
+
+3. Voor zover de subsidieontvanger de verantwoordingsbescheiden, bedoeld in [artikel 2.15, eerste lid, van de Rsc](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15), tijdig indient en deze onvoldoende zijn voor een beoordeling, past de minister het eerste lid slechts toe nadat hij de subsidieontvanger in de gelegenheid heeft gesteld binnen een door de minister te bepalen termijn de verantwoordingsbescheiden aan te vullen.
+
+4. Indien de minister een termijn als bedoeld in het derde lid heeft gesteld, vangt de eerste periode, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027592&artikel=3&z=2012-03-22&g=2012-03-22), de dag na afloop van de gestelde termijn aan.
 
 ##### Artikel 6. Maximering bedrag
 
