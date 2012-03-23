@@ -4,7 +4,7 @@ identifier: "BWBR0027474"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2011-12-31"
+last_updated: "2012-03-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027474"
 soort: "wet"
@@ -95,9 +95,9 @@ op het tijdstip waarop de betrokken beschikking onherroepelijk is geworden.
 
 ##### Artikel 1.2a
 
-1. [Artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31), is van overeenkomstige toepassing op een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) die onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) onherroepelijk is, maar in verband met het bepaalde in [artikel 20.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.8) nog niet in werking is getreden.
+1. [Artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23), is van overeenkomstige toepassing op een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) die onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) onherroepelijk is, maar in verband met het bepaalde in [artikel 20.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.8) nog niet in werking is getreden.
 
-2. In gevallen als bedoeld in het eerste lid, alsmede in gevallen waarin sprake is van een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) waarop [artikel 1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31), van toepassing is, treedt de betrokken omgevingsvergunning niet eerder in werking dan nadat vergunning is verleend voor de betrokken bouwactiviteit.
+2. In gevallen als bedoeld in het eerste lid, alsmede in gevallen waarin sprake is van een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) waarop [artikel 1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23), van toepassing is, treedt de betrokken omgevingsvergunning niet eerder in werking dan nadat vergunning is verleend voor de betrokken bouwactiviteit.
 
 3. In gevallen als bedoeld in het eerste en tweede lid is [artikel 2.7, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.7) niet van toepassing ten aanzien van activiteiten als bedoeld in [artikel 2.1, eerste lid, onder a en e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1).
 
@@ -115,7 +115,7 @@ Vanaf het tijdstip waarop het betrokken besluit onherroepelijk is geworden is me
 
 ##### Artikel 1.2c
 
-Een ontheffing als bedoeld in [artikel 3.23, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23) die met toepassing van [artikel 4.1.1, eerste lid, onderdeel j, en tweede lid, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=4.1.1) is verleend voor het gebruik van een recreatiewoning voor bewoning en op grond van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31) met een omgevingsvergunning wordt gelijkgesteld, geldt slechts voor de termijn gedurende welke degene aan wie de vergunning is verleend de recreatiewoning onafgebroken bewoont.
+Een ontheffing als bedoeld in [artikel 3.23, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23) die met toepassing van [artikel 4.1.1, eerste lid, onderdeel j, en tweede lid, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=4.1.1) is verleend voor het gebruik van een recreatiewoning voor bewoning en op grond van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23) met een omgevingsvergunning wordt gelijkgesteld, geldt slechts voor de termijn gedurende welke degene aan wie de vergunning is verleend de recreatiewoning onafgebroken bewoont.
 
 ##### Artikel 1.3
 
@@ -135,13 +135,13 @@ Een ontheffing als bedoeld in [artikel 3.23, eerste lid, van de Wet ruimtelijke 
 
 1. Een vergunning of ontheffing voor een activiteit als bedoeld in [artikel 2.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2) die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van kracht en onherroepelijk is, wordt gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit.
 
-2. [Artikel 1.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31), is van overeenkomstige toepassing.
+2. [Artikel 1.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23), is van overeenkomstige toepassing.
 
 ##### Artikel 1.5
 
 1. Een projectbesluit als bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10), [3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.27), of [3.29, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.29) of een besluit als bedoeld in [artikel 3.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41), of [3.42, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42) dat onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) van kracht en onherroepelijk is, wordt gelijkgesteld met een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van die wet.
 
-2. [Artikel 1.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31), is van overeenkomstige toepassing.
+2. [Artikel 1.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23), is van overeenkomstige toepassing.
 
 ##### Artikel 1.6
 
@@ -191,7 +191,7 @@ Na de inwerkingtreding van deze wet berusten besluiten of regelingen, voor zover
 
 ##### Artikel 1.10
 
-Het recht zoals dat gold op het tijdstip onmiddellijk voor het tijdstip van inwerkingtreding van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) blijft van toepassing ten aanzien van aanwijzingen als bedoeld in de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) waarbij gronden zijn aangewezen op grondslag van een projectbesluit.
+Het recht zoals dat gold op het tijdstip onmiddellijk voor het tijdstip van inwerkingtreding van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) blijft van toepassing ten aanzien van aanwijzingen als bedoeld in de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) waarbij gronden zijn aangewezen op grondslag van een projectbesluit, met dien verstande dat de aanwijzing vijf jaar na dagtekening van dat besluit van rechtswege vervalt.
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
@@ -453,7 +453,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.5a
 
-1. In afwijking van [artikel 1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2011-12-31&g=2011-12-31), wordt een beslissing omtrent een aanvraag om:
+1. In afwijking van [artikel 1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2012-03-23&g=2012-03-23), wordt een beslissing omtrent een aanvraag om:
 
 - a. een ontheffing als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23) of [3.38, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38),
 
@@ -475,7 +475,7 @@ die op het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene be
 
 2. Het eerste lid is van overeenkomstige toepassing op een vrijstelling als bedoeld in dat lid die voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is aangevraagd, maar nog niet is verleend, op het moment dat de vrijstelling wordt verleend.
 
-3. [Artikel 1.5a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.5a&z=2011-12-31&g=2011-12-31), is op een vrijstelling die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning van overeenkomstige toepassing.
+3. [Artikel 1.5a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.5a&z=2012-03-23&g=2012-03-23), is op een vrijstelling die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
