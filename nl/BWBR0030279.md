@@ -4,7 +4,7 @@ identifier: "BWBR0030279"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2011-07-19"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030279"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - **commissie:** commissie van deskundigen als bedoeld in [artikel 20, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=20);
 
-- **compositielijst:** overeenkomstig artikel 11, in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling opgenomen lijst met samenstellende componenten en maximaal toegestane verontreinigingen voor metalen producten;
+- **compositielijst:** overeenkomstig artikel 11, in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling opgenomen lijst met samenstellende componenten en maximaal toegestane verontreinigingen voor metalen producten;
 
-- **conversiefactor:** omrekenfactor voor de toetsing van de resultaten van de migratietest als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling;
+- **conversiefactor:** omrekenfactor voor de toetsing van de resultaten van de migratietest als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling;
 
 - **drempeldosis:** toegediende of ingenomen hoeveelheid van een stof per eenheid lichaamsmassa, uitgedrukt in mg/kg lichaamsgewicht, waarbij nog juist geen nadelige gevolgen voor de gezondheid optreden;
 
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - **erkende certificeringsinstelling:** door de Raad voor Accreditatie erkende instelling die bevoegd is tot afgifte van een kwaliteitsverklaring;
 
-- **erkende kwaliteitsverklaring:** door de Minister overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2011-07-19&g=2011-07-19) erkende kwaliteitsverklaring als bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=20), of [artikel 1.6 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=1.6), bestaande uit een schriftelijk bewijs, afgegeven door een erkende certificeringsinstelling, waaruit blijkt dat materialen of chemicaliën voldoen aan de op grond van deze regeling gestelde eisen;
+- **erkende kwaliteitsverklaring:** door de Minister overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2012-04-01&g=2012-04-01) erkende kwaliteitsverklaring als bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=20), of [artikel 1.8 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.8), bestaande uit een schriftelijk bewijs, afgegeven door een erkende certificeringsinstelling, waaruit blijkt dat materialen of chemicaliën voldoen aan de op grond van deze regeling gestelde eisen;
 
-- **migratietest:** onderzoeksmethode voor het afleiden van de migratielimiet, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling;
+- **migratietest:** onderzoeksmethode voor het afleiden van de migratielimiet, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling;
 
 - **migratie:** verplaatsing van stoffen vanuit materialen naar te behandelen water of drinkwater of warm tapwater;
 
@@ -72,19 +72,19 @@ In deze regeling wordt verstaan onder:
 
 - **MTC (maximaal toelaatbare concentratie):** ten hoogste toegestane concentratie van een stof in drinkwater of warm tapwater;
 
-- **positieve lijsten:** overeenkomstig artikel 11 in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling opgenomen lijsten van stoffen waarvan de aanwezigheid in producten dan wel het gebruik bij de fabricage hiervan toelaatbaar is onder de daar gestelde voorwaarden;
+- **positieve lijsten:** overeenkomstig artikel 11 in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling opgenomen lijsten van stoffen waarvan de aanwezigheid in producten dan wel het gebruik bij de fabricage hiervan toelaatbaar is onder de daar gestelde voorwaarden;
 
 - **product:** door de mens vervaardigd object in afgewerkte staat of een bestanddeel daarvan, samengesteld uit materialen of chemicaliën, dat in contact kan komen met te behandelen water of drinkwater of warm tapwater;
 
 - **stoffen:** chemische elementen en hun verbindingen zoals deze voorkomen in de natuur of door toedoen van de mens tot stand komen;
 
-- **subcommissie:** groep van deskundigen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2011-07-19&g=2011-07-19), ter ondersteuning van de commissie;
+- **subcommissie:** groep van deskundigen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2012-04-01&g=2012-04-01), ter ondersteuning van de commissie;
 
 - **QM:** maximaal toegestane restgehalte van de stof in het materiaal of product;
 
 - **TDI (Tolerable Daily Intake):** toelaatbare dagelijkse dosis van een stof;
 
-- **TOC (Total Organic Carbon):** de totale hoeveelheid organische koolstof in drinkwater of warm tapwater afkomstig uit een product dat met het drinkwater of warm tapwater in contact komt, bepaald met en afgeleid van de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling opgenomen bepalingsmethode en migratietesten en waarvoor een maximaal toelaatbare concentratie geldt van 2 mg koolstof per liter drinkwater of warm tapwater als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling;
+- **TOC (Total Organic Carbon):** de totale hoeveelheid organische koolstof in drinkwater of warm tapwater afkomstig uit een product dat met het drinkwater of warm tapwater in contact komt, bepaald met en afgeleid van de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling opgenomen bepalingsmethode en migratietesten en waarvoor een maximaal toelaatbare concentratie geldt van 2 mg koolstof per liter drinkwater of warm tapwater als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling;
 
 - **Tijdelijke kwaliteitsverklaring:** door de Minister afgegeven verklaring, inhoudende dat een product bestemd voor de bestrijding van legionellabacteriën in drink- en warm tapwaterinstallaties, niet zijnde een biocide in de zin van de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), onder de daarbij te stellen voorwaarden en beperkingen kan worden gebruikt ten behoeve van het bepalen van de werkzaamheid van het product onder praktijkomstandigheden.
 
@@ -112,29 +112,29 @@ In deze regeling wordt verstaan onder:
 
 - a. met het oog op de bescherming van de gezondheid te stellen eisen aan bij de drink- of warm tapwatervoorziening te gebruiken materialen en chemicaliën;
 
-- b. het onderzoek en de beoordeling van materialen en chemicaliën overeenkomstig de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19);
+- b. het onderzoek en de beoordeling van materialen en chemicaliën overeenkomstig de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01);
 
 - c. het verlenen van toestemming voor de afgifte van erkende kwaliteitsverklaringen;
 
 - d. de erkenning van een kwaliteitsverklaring;
 
-- e. de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=10&z=2011-07-19&g=2011-07-19) en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=7&artikel=20&z=2011-07-19&g=2011-07-19), en
+- e. de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=10&z=2012-04-01&g=2012-04-01) en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=7&artikel=20&z=2012-04-01&g=2012-04-01), en
 
-- f. het overeenkomstig de richtlijnen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2011-07-19&g=2011-07-19), beoordelen van de mate waarin een kwaliteitsverklaring op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=16&z=2011-07-19&g=2011-07-19) als gelijkwaardig aan een erkende kwaliteitsverklaring kan worden beschouwd.
+- f. het overeenkomstig de richtlijnen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2012-04-01&g=2012-04-01), beoordelen van de mate waarin een kwaliteitsverklaring op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=16&z=2012-04-01&g=2012-04-01) als gelijkwaardig aan een erkende kwaliteitsverklaring kan worden beschouwd.
 
 2. Voorts is de commissie belast met:
 
-- a. het overeenkomstig de richtlijnen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2011-07-19&g=2011-07-19), onderzoeken en beoordelen van mogelijke nadelige gevolgen voor de volksgezondheid van materialen of chemicaliën voorzover daarvoor geen onderzoeksmethoden en beoordelingsmethoden zijn opgenomen in de bijlagen bij deze regeling, en
+- a. het overeenkomstig de richtlijnen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2012-04-01&g=2012-04-01), onderzoeken en beoordelen van mogelijke nadelige gevolgen voor de volksgezondheid van materialen of chemicaliën voorzover daarvoor geen onderzoeksmethoden en beoordelingsmethoden zijn opgenomen in de bijlagen bij deze regeling, en
 
 - b. het beheer van de bijlagen bij deze regeling.
 
-3. Bij de uitvoering van de in het eerste en tweede lid genoemde taken kan de commissie zich laten bijstaan door een of meer subcommissies. De benoeming en het ontslag van de leden van een subcommissie worden geregeld in het reglement, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2011-07-19&g=2011-07-19).
+3. Bij de uitvoering van de in het eerste en tweede lid genoemde taken kan de commissie zich laten bijstaan door een of meer subcommissies. De benoeming en het ontslag van de leden van een subcommissie worden geregeld in het reglement, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2012-04-01&g=2012-04-01).
 
 ##### Artikel 5
 
-1. De commissie stelt bij reglement haar werkwijze vast en de werkwijze van een subcommissie als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2011-07-19&g=2011-07-19). De commissie stelt daarbij regels vast met betrekking tot de vergoeding van gemaakte kosten. Het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) is van toepassing.
+1. De commissie stelt bij reglement haar werkwijze vast en de werkwijze van een subcommissie als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2012-04-01&g=2012-04-01). De commissie stelt daarbij regels vast met betrekking tot de vergoeding van gemaakte kosten. Het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) is van toepassing.
 
-2. De commissie stelt bij het in het eerste lid bedoelde reglement tevens de werkwijze en richtlijnen vast die zij hanteert bij het onderzoek en de beoordeling, bedoeld in [artikel 4, eerste lid, onder f, en tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2011-07-19&g=2011-07-19).
+2. De commissie stelt bij het in het eerste lid bedoelde reglement tevens de werkwijze en richtlijnen vast die zij hanteert bij het onderzoek en de beoordeling, bedoeld in [artikel 4, eerste lid, onder f, en tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2012-04-01&g=2012-04-01).
 
 3. De vaststelling van het reglement of een wijziging daarvan behoeft de instemming van de Minister. Na vaststelling of wijziging wordt het reglement bekendgemaakt in de Staatscourant.
 
@@ -142,85 +142,85 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. Materialen, niet zijnde metalen, en chemicaliën voldoen aan de in de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19) bedoelde eisen. Met het oog daarop worden materialen, niet zijnde metalen, en chemicaliën, alsmede de stoffen waaruit deze zijn samengesteld dan wel die worden gebruikt in het productieproces ervan, op de in die artikelen aangegeven wijze beoordeeld op mogelijke nadelige gevolgen voor de volksgezondheid.
+1. Materialen, niet zijnde metalen, en chemicaliën voldoen aan de in de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01) bedoelde eisen. Met het oog daarop worden materialen, niet zijnde metalen, en chemicaliën, alsmede de stoffen waaruit deze zijn samengesteld dan wel die worden gebruikt in het productieproces ervan, op de in die artikelen aangegeven wijze beoordeeld op mogelijke nadelige gevolgen voor de volksgezondheid.
 
-2. Indien overeenkomstig de beoordeling, bedoeld in het eerste lid, voor een stof in het product een MTC dan wel een QM is vastgesteld en de stof bij de drink- of warm tapwatervoorziening in contact kan komen met te behandelen water of drinkwater onderscheidelijk warm tapwater, wordt de migratie van de stof of het restgehalte hiervan in het product bepaald overeenkomstig de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling bedoelde methoden, overeenkomstig [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=8&z=2011-07-19&g=2011-07-19), of overeenkomstig de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling genoemde modelberekeningen voor het vaststellen van de concentratie van de stof in het drinkwater of warm tapwater.
+2. Indien overeenkomstig de beoordeling, bedoeld in het eerste lid, voor een stof in het product een MTC dan wel een QM is vastgesteld en de stof bij de drink- of warm tapwatervoorziening in contact kan komen met te behandelen water of drinkwater onderscheidelijk warm tapwater, wordt de migratie van de stof of het restgehalte hiervan in het product bepaald overeenkomstig de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling bedoelde methoden, overeenkomstig [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=8&z=2012-04-01&g=2012-04-01), of overeenkomstig de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling genoemde modelberekeningen voor het vaststellen van de concentratie van de stof in het drinkwater of warm tapwater.
 
-3. Metalen producten voldoen aan de eisen voor de samenstelling en zuiverheid, bedoeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling, met inachtneming van de categorie waarin het desbetreffende product kan worden ingedeeld. Voldoet een metalen product aan de criteria van de compositielijst bedoeld in onderdeel 3 van bijlage B bij deze regeling, dan is een onderzoek naar de afgifte van stoffen, in overeenstemming met onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling, niet vereist.
+3. Metalen producten voldoen aan de eisen voor de samenstelling en zuiverheid, bedoeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling, met inachtneming van de categorie waarin het desbetreffende product kan worden ingedeeld. Voldoet een metalen product aan de criteria van de compositielijst bedoeld in onderdeel 3 van bijlage B bij deze regeling, dan is een onderzoek naar de afgifte van stoffen, in overeenstemming met onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling, niet vereist.
 
-4. Indien een metalen product, vallend in productgroep A of B, volgens onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling, niet voldoet aan de criteria van de compositielijst van onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling, wordt dit product onderzocht en beoordeeld in overeenstemming met onderdeel 2.8 van bijlage A bij deze regeling.
+4. Indien een metalen product, vallend in productgroep A of B, volgens onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling, niet voldoet aan de criteria van de compositielijst van onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling, wordt dit product onderzocht en beoordeeld in overeenstemming met onderdeel 2.8 van bijlage A bij deze regeling.
 
-5. In aanvulling op het eerste lid dienen cementproducten mede te voldoen aan de in onderdeel 2.9 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling bedoelde eisen.
+5. In aanvulling op het eerste lid dienen cementproducten mede te voldoen aan de in onderdeel 2.9 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling bedoelde eisen.
 
-6. Indien overeenkomstig de beoordeling van cementproducten voor een stof in het cementproduct een MTC dan wel QM is vastgesteld en de stof bij de drink- of warm tapwatervoorziening in het te behandelen water of drinkwater onderscheidelijk warm tapwater terecht kan komen, wordt de migratie van de stof of het restgehalte hiervan in het product bepaald overeenkomstig de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bedoelde methoden, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=8&z=2011-07-19&g=2011-07-19), tweede en derde lid, of overeenkomstig de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling genoemde modelberekeningen voor het vaststellen van de concentratie van de stof in het drinkwater of warm tapwater.
+6. Indien overeenkomstig de beoordeling van cementproducten voor een stof in het cementproduct een MTC dan wel QM is vastgesteld en de stof bij de drink- of warm tapwatervoorziening in het te behandelen water of drinkwater onderscheidelijk warm tapwater terecht kan komen, wordt de migratie van de stof of het restgehalte hiervan in het product bepaald overeenkomstig de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bedoelde methoden, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=8&z=2012-04-01&g=2012-04-01), tweede en derde lid, of overeenkomstig de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling genoemde modelberekeningen voor het vaststellen van de concentratie van de stof in het drinkwater of warm tapwater.
 
-7. De beoordeling van een stof, bedoeld in het eerste lid, tweede volzin, is niet vereist voorzover een stof is opgenomen in de positieve lijst, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), onderdeel 1, bij deze regeling.
+7. De beoordeling van een stof, bedoeld in het eerste lid, tweede volzin, is niet vereist voorzover een stof is opgenomen in de positieve lijst, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), onderdeel 1, bij deze regeling.
 
-8. Voor de beoordeling van de stoffen, bedoeld in het eerste lid, tweede volzin, en de producten, genoemd in het vijfde lid, die niet zijn genoemd in de positieve lijst, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), onderdeel 1, bij deze regeling, worden de gegevens, vermeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19) bij deze regeling, overgelegd.
+8. Voor de beoordeling van de stoffen, bedoeld in het eerste lid, tweede volzin, en de producten, genoemd in het vijfde lid, die niet zijn genoemd in de positieve lijst, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), onderdeel 1, bij deze regeling, worden de gegevens, vermeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01) bij deze regeling, overgelegd.
 
-9. Producten samengesteld uit materialen, niet zijnde metalen, voldoen aan de eisen voor de organoleptische aspecten, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling, voorzover dat in overeenstemming met [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling voor het desbetreffende product relevant is.
+9. Producten samengesteld uit materialen, niet zijnde metalen, voldoen aan de eisen voor de organoleptische aspecten, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling, voorzover dat in overeenstemming met [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling voor het desbetreffende product relevant is.
 
 ##### Artikel 7
 
 1. De stoffen, met uitzondering van acrylamide, vinylchloride en epichloorhydrine, waaruit materialen, niet zijnde metalen, en chemicaliën zijn samengesteld dan wel die zijn gebruikt in het productieproces ervan, dragen tot maximaal 10% van de parameterwaarden, genoemd in tabel II van [bijlage A, behorend bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), bij aan de concentratie van die stoffen in drinkwater of warm tapwater of het te behandelen water.
 
-2. Voor stoffen als bedoeld in het eerste lid met een drempeldosis, die niet zijn opgenomen in tabel II van [bijlage A, behorend bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), wordt uit de toxiciteitsgegevens, genoemd in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling, een MTC in drinkwater of warm tapwater vastgesteld overeenkomstig de onderdelen 1 en 2 van bijlage D bij deze regeling.
+2. Voor stoffen als bedoeld in het eerste lid met een drempeldosis, die niet zijn opgenomen in tabel II van [bijlage A, behorend bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), wordt uit de toxiciteitsgegevens, genoemd in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling, een MTC in drinkwater of warm tapwater vastgesteld overeenkomstig de onderdelen 1 en 2 van bijlage D bij deze regeling.
 
 3. Voor stoffen zonder drempeldosis is de migratie uit het product onder redelijkerwijs te verwachten gebruiksomstandigheden kleiner is dan 0,1 µg/l.
 
-4. Voor de samenstellende componenten van metalen producten en de verontreinigingen hierin gelden de eisen, opgenomen in de tabel onder paragraaf 2.8.3.7 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling.
+4. Voor de samenstellende componenten van metalen producten en de verontreinigingen hierin gelden de eisen, opgenomen in de tabel onder paragraaf 2.8.3.7 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling.
 
-5. Op de samenstellende componenten van metalen producten en de verontreinigingen hierin, niet opgenomen in de tabel van paragraaf 2.8.3.7 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling, zijn het tweede en derde lid van overeenkomstige toepassing.
+5. Op de samenstellende componenten van metalen producten en de verontreinigingen hierin, niet opgenomen in de tabel van paragraaf 2.8.3.7 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling, zijn het tweede en derde lid van overeenkomstige toepassing.
 
 ##### Artikel 8
 
-1. Alle materialen kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
+1. Alle materialen kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
 
 2. Voor materialen, niet zijnde metalen, gelden de volgende eisen:
 
-- a. de verwachte concentratie van de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19) onderzochte stoffen in drinkwater of warm tapwater, bepaald met de migratietest, na omrekening als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), is kleiner dan de migratielimiet;
+- a. de verwachte concentratie van de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01) onderzochte stoffen in drinkwater of warm tapwater, bepaald met de migratietest, na omrekening als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), is kleiner dan de migratielimiet;
 
-- b. de totale migratie van TOC, bepaald met de migratietest, na omrekening als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), bedraagt ten hoogste 2 mg/l;
+- b. de totale migratie van TOC, bepaald met de migratietest, na omrekening als bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), bedraagt ten hoogste 2 mg/l;
 
 - c. QM van een stof in het materiaal, voorzover van toepassing, is kleiner dan de aangegeven limiet, en
 
 - d. de migratie neemt gedurende de migratietest niet toe.
 
-3. Indien voor een stof nog geen geschikte bepalingsmethode voorhanden is, kan de toelaatbaarheid van de stof beoordeeld worden op grond van de criteria en de modelberekeningen, genoemd in respectievelijk onderdeel 3 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) bij deze regeling en onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling.
+3. Indien voor een stof nog geen geschikte bepalingsmethode voorhanden is, kan de toelaatbaarheid van de stof beoordeeld worden op grond van de criteria en de modelberekeningen, genoemd in respectievelijk onderdeel 3 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) bij deze regeling en onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling.
 
 4. In plaats van het laboratoriumonderzoek, bedoeld in het eerste lid, kunnen de in het derde lid bedoelde modelberekeningen ook worden toegepast voor het vaststellen van de noodzaak van de in het tweede lid bedoelde migratietest naar stoffen waarvoor wel een bepalingsmethode beschikbaar is, zulks ter beoordeling van de commissie.
 
-5. Om te voorkomen dat producten ten onrechte worden af- of goedgekeurd, kan de commissie bepalen dat in geval van een, volgens de in het derde en vierde lid bedoelde berekeningen, te verwachten overschrijding van de MTC, alsnog een migratietest wordt uitgevoerd. De verwachte concentratie bepaald met de migratietest en de omrekening, bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) bij deze regeling, is bindend voor de toelaatbaarheid van het betreffende product.
+5. Om te voorkomen dat producten ten onrechte worden af- of goedgekeurd, kan de commissie bepalen dat in geval van een, volgens de in het derde en vierde lid bedoelde berekeningen, te verwachten overschrijding van de MTC, alsnog een migratietest wordt uitgevoerd. De verwachte concentratie bepaald met de migratietest en de omrekening, bedoeld in onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) bij deze regeling, is bindend voor de toelaatbaarheid van het betreffende product.
 
-6. Voor metalen producten die niet voldoen aan de eisen, bedoeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling, gelden de eisen voor onderzoek en beoordeling, genoemd in onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) bij deze regeling.
+6. Voor metalen producten die niet voldoen aan de eisen, bedoeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling, gelden de eisen voor onderzoek en beoordeling, genoemd in onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) bij deze regeling.
 
 ##### Artikel 9
 
-1. Alle chemicaliën kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19), onderdeel 3, bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
+1. Alle chemicaliën kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01), onderdeel 3, bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
 
-2. Voor chemicaliën zijn de maximaal toelaatbare gehaltes aan verontreinigingen bij een maximale dosering kleiner zijn dan de limieten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19).
+2. Voor chemicaliën zijn de maximaal toelaatbare gehaltes aan verontreinigingen bij een maximale dosering kleiner zijn dan de limieten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01).
 
 ##### Artikel 10
 
-1. Het onderzoek en de beoordeling, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), worden uitgevoerd volgens de laatste stand van de wetenschap en techniek.
+1. Het onderzoek en de beoordeling, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), worden uitgevoerd volgens de laatste stand van de wetenschap en techniek.
 
 2. De Minister kan nadere aanwijzingen geven over de wijze waarop het onderzoek en de beoordeling, bedoeld in het eerste lid, worden uitgevoerd.
 
 ##### Artikel 11
 
-1. Stoffen waarvoor na de beoordeling, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19), een MTC is vastgesteld, worden opgenomen in de positieve lijsten van onderdelen 1 en 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling. Voorzover de bedoelde beoordeling heeft plaatsgevonden op grond van een aanvraag tot afgifte van een erkende kwaliteitsverklaring wordt een stof niet, dan met toestemming van de aanvrager, opgenomen in de positieve lijsten.
+1. Stoffen waarvoor na de beoordeling, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01), een MTC is vastgesteld, worden opgenomen in de positieve lijsten van onderdelen 1 en 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling. Voorzover de bedoelde beoordeling heeft plaatsgevonden op grond van een aanvraag tot afgifte van een erkende kwaliteitsverklaring wordt een stof niet, dan met toestemming van de aanvrager, opgenomen in de positieve lijsten.
 
-2. Een metalen product waarvan na onderzoek en beoordeling als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), wordt vastgesteld dat dit voldoet aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), wordt opgenomen in de compositielijst voor metalen, genoemd in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) bij deze regeling. Voorzover bedoeld onderzoek en beoordeling hebben plaatsgevonden op grond van een aanvraag tot afgifte van een kwaliteitsverklaring, als bedoeld in art. 12, eerste lid, wordt de samenstelling van het desbetreffende metalen product niet dan met toestemming van de aanvrager opgenomen in de compositielijst voor metalen.
+2. Een metalen product waarvan na onderzoek en beoordeling als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), wordt vastgesteld dat dit voldoet aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), wordt opgenomen in de compositielijst voor metalen, genoemd in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) bij deze regeling. Voorzover bedoeld onderzoek en beoordeling hebben plaatsgevonden op grond van een aanvraag tot afgifte van een kwaliteitsverklaring, als bedoeld in art. 12, eerste lid, wordt de samenstelling van het desbetreffende metalen product niet dan met toestemming van de aanvrager opgenomen in de compositielijst voor metalen.
 
 ### Hoofdstuk 4. Erkende kwaliteitsverklaring
 
 ##### Artikel 12
 
-De Minister kan een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen, indien die kwaliteitsverklaring en de daarop betrekking hebbende aanvraag voldoen aan de eisen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2011-07-19&g=2011-07-19).
+De Minister kan een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen, indien die kwaliteitsverklaring en de daarop betrekking hebbende aanvraag voldoen aan de eisen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2012-04-01&g=2012-04-01).
 
 ##### Artikel 13
 
-1. Bij de aanvraag tot een kwaliteitsverklaring, als bedoeld in [art. 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2011-07-19&g=2011-07-19), worden ten minste de gegevens, bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19) bij deze regeling, door de aanvrager overgelegd in een door de erkende certificeringsinstelling gewenste vorm.
+1. Bij de aanvraag tot een kwaliteitsverklaring, als bedoeld in [art. 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2012-04-01&g=2012-04-01), worden ten minste de gegevens, bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01) bij deze regeling, door de aanvrager overgelegd in een door de erkende certificeringsinstelling gewenste vorm.
 
 2. De certificeringsinstelling, bedoeld in het eerste lid, zendt terstond na ontvangst van de aanvraag een afschrift daarvan en van de in dat lid bedoelde gegevens aan de commissie.
 
@@ -230,7 +230,7 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 ##### Artikel 14
 
-1. Onverminderd de eisen, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), beschikt de aanvrager, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19), over een kwaliteitssysteem. Dit systeem omvat ten minste:
+1. Onverminderd de eisen, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), beschikt de aanvrager, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01), over een kwaliteitssysteem. Dit systeem omvat ten minste:
 
 - a. een intern kwaliteitsbewakingsschema met een beschrijving van de tot het kwaliteitssysteem behorende keuringen, en
 
@@ -266,9 +266,9 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 6. Voorzover het voor een juiste verwerking van materialen of chemicaliën van belang is eisen te stellen aan de wijze van verwerking of aan daarvoor door de aanvrager van een kwaliteitsverklaring gestelde richtlijnen, waarbij in het bijzonder wordt gelet op de uitvoerbaarheid daarvan, worden daartoe strekkende eisen opgenomen in een bijlage bij die kwaliteitsverklaring.
 
-7. In een bijlage bij de erkende kwaliteitsverklaring wordt tevens vastgelegd op welke wijze een certificeringsinstelling overeenkomstig het door deze toegepaste certificeringsreglement een periodieke controle van het productieproces en het kwaliteitssysteem van de producent uitvoert. De aanvrager, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19), is gehouden tot medewerking aan deze controle.
+7. In een bijlage bij de erkende kwaliteitsverklaring wordt tevens vastgelegd op welke wijze een certificeringsinstelling overeenkomstig het door deze toegepaste certificeringsreglement een periodieke controle van het productieproces en het kwaliteitssysteem van de producent uitvoert. De aanvrager, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01), is gehouden tot medewerking aan deze controle.
 
-8. Indien het in het tweede lid, onder b, bedoelde productieproces niet continu van aard of slechts eenmalig is, worden daarover in aanvulling op [artikel 13 en het eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19), aanvullende voorschriften opgenomen in de bijlage behorende bij de erkende kwaliteitsverklaring.
+8. Indien het in het tweede lid, onder b, bedoelde productieproces niet continu van aard of slechts eenmalig is, worden daarover in aanvulling op [artikel 13 en het eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01), aanvullende voorschriften opgenomen in de bijlage behorende bij de erkende kwaliteitsverklaring.
 
 ##### Artikel 15
 
@@ -276,7 +276,7 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 2. Certificeringsinstellingen houden de commissie van hun activiteiten terzake op de hoogte door de commissie jaarlijks voor 1 april schriftelijk de volgende gegevens te doen toekomen:
 
-- a. de resultaten van de controle- en toelatingsonderzoeken, uitgevoerd door een erkende certificeringsinstelling, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2011-07-19&g=2011-07-19), die zijn verricht in het voorafgaande kalenderjaar, en
+- a. de resultaten van de controle- en toelatingsonderzoeken, uitgevoerd door een erkende certificeringsinstelling, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2012-04-01&g=2012-04-01), die zijn verricht in het voorafgaande kalenderjaar, en
 
 - b. eventueel informatief en aanvullend commentaar van de certificeringsinstelling behorende bij een of meer onderzoeken terzake.
 
@@ -288,7 +288,7 @@ Een kwaliteitsverklaring afgegeven door een onafhankelijke certificeringsinstell
 
 ##### Artikel 17
 
-De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwaliteitsverklaring dan wel een daaraan gelijkwaardige kwaliteitsverklaring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=16&z=2011-07-19&g=2011-07-19) voor de daarbij genoemde materialen of chemicaliën.
+De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwaliteitsverklaring dan wel een daaraan gelijkwaardige kwaliteitsverklaring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=16&z=2012-04-01&g=2012-04-01) voor de daarbij genoemde materialen of chemicaliën.
 
 ### Hoofdstuk 5. Biociden
 
@@ -296,7 +296,7 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 1. Voor producten, zijnde biociden als bedoeld in de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) die ten behoeve van de voorziening van drink- of warm tapwater hiermee in contact worden gebracht, dan wel daaraan worden toegevoegd met het doel een kwaliteitsverandering van dat water te bewerkstelligen, is naast de toelating, afgegeven door het College voor de toelating van gewasbeschermingsmiddelen en biociden, een erkende kwaliteitsverklaring vereist.
 
-2. Voor de afgifte van een kwaliteitsverklaring voor de in het eerste lid bedoelde biociden zijn de [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2011-07-19&g=2011-07-19) van overeenkomstige toepassing.
+2. Voor de afgifte van een kwaliteitsverklaring voor de in het eerste lid bedoelde biociden zijn de [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2012-04-01&g=2012-04-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Tijdelijke kwaliteitsverklaring
 
@@ -306,7 +306,7 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 2. De tijdelijke kwaliteitsverklaring geldt voor een door de Minister per product vastgestelde periode. In die periode worden de werkzaamheid en de neveneffecten van het product onderzocht aan de hand van de door de commissie vastgestelde criteria, opgenomen in de bijlage bij de tijdelijke kwaliteitsverklaring.
 
-3. Indien de werkzaamheid van het in het eerste lid bedoelde product is aangetoond en vastgesteld is dat de neveneffecten van dit product niet nadelig zijn voor de volksgezondheid, kan de Minister, na de in het tweede lid bedoelde periode, een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen indien die kwaliteitsverklaring en de daarop betrekking hebbende procedures zijn gebaseerd op de voor het product bedoelde eisen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2011-07-19&g=2011-07-19).
+3. Indien de werkzaamheid van het in het eerste lid bedoelde product is aangetoond en vastgesteld is dat de neveneffecten van dit product niet nadelig zijn voor de volksgezondheid, kan de Minister, na de in het tweede lid bedoelde periode, een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen indien die kwaliteitsverklaring en de daarop betrekking hebbende procedures zijn gebaseerd op de voor het product bedoelde eisen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2012-04-01&g=2012-04-01).
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
@@ -344,15 +344,15 @@ Onderdeel 2 van deze bijlage behandelt de materialen, in onderdeel 3 worden de c
 
 De regeling geldt voor alle eindproducten gemaakt uit materialen, organisch en anorganisch of een combinatie hiervan, die in contact kunnen komen met drink- of warmtapwater. De eindproducten moeten voldoen aan de toxicologische, organoleptische en microbiologische eisen zoals deze geformuleerd zijn in de regeling.
 
-Voor de toetsing van een product aan de toxicologische eisen dient in principe van elk product, in overeenstemming met [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19), een volledige specificatie van de grond- en hulpstoffen en mogelijke verontreinigingen te worden overgelegd. Zoals ook is weergegeven bij de omschrijving van de betreffende materialen of producten in deze bijlage gelden hierbij de volgende specificatieniveaus1Specificatieniveau betekent hier dat voor de stoffen die in hoeveelheden kleiner dan het genoemde niveau in de receptuur voorkomen de in bijlage D genoemde toxiciteitsgegevens niet overlegd behoeven te worden, omdat de te verwachten concentratie van deze stoffen in het drink- en warm tapwater niet hoger zal zijn dan 0,1 µg/l, zijnde de **Threshold of Toxicological****Concern** (TTC) waarde voor stoffen met een zogenaamde **structural alert** voor genotoxiciteit (zie ook bijlage D).:
+Voor de toetsing van een product aan de toxicologische eisen dient in principe van elk product, in overeenstemming met [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01), een volledige specificatie van de grond- en hulpstoffen en mogelijke verontreinigingen te worden overgelegd. Zoals ook is weergegeven bij de omschrijving van de betreffende materialen of producten in deze bijlage gelden hierbij de volgende specificatieniveaus1Specificatieniveau betekent hier dat voor de stoffen die in hoeveelheden kleiner dan het genoemde niveau in de receptuur voorkomen de in bijlage D genoemde toxiciteitsgegevens niet overlegd behoeven te worden, omdat de te verwachten concentratie van deze stoffen in het drink- en warm tapwater niet hoger zal zijn dan 0,1 µg/l, zijnde de **Threshold of Toxicological****Concern** (TTC) waarde voor stoffen met een zogenaamde **structural alert** voor genotoxiciteit (zie ook bijlage D).:
 
 De genoemde specificatieniveaus zijn van toepassing op zowel individuele stoffen als de som van de stoffen in de betreffende receptuur.
 
-De specificatie van de grond- en hulpstoffen wordt getoetst aan de betreffende positieve lijst van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19). Indien een stof niet op de positieve lijst voorkomt, dan dienen hiervoor de benodigde toxiciteitsgegevens volgens [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) te worden overlegd. De commissie stelt vast welke MTC voor deze stof dient te gelden. De commissie bepaalt vervolgens welke onderzoeken er uitgevoerd dienen te worden voor de toelating van een product.
+De specificatie van de grond- en hulpstoffen wordt getoetst aan de betreffende positieve lijst van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01). Indien een stof niet op de positieve lijst voorkomt, dan dienen hiervoor de benodigde toxiciteitsgegevens volgens [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) te worden overlegd. De commissie stelt vast welke MTC voor deze stof dient te gelden. De commissie bepaalt vervolgens welke onderzoeken er uitgevoerd dienen te worden voor de toelating van een product.
 
-Voor de toetsing van een product aan de organoleptische eisen dienen de onderzoeks- en beoordelingsmethoden vermeld in de [bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) in acht te worden genomen. Aan het eind van bijlage C is een tabel opgenomen, waarin wordt herhaald voor welke onderstaande producten organoleptische gegevens vereist zijn voor een toelating.
+Voor de toetsing van een product aan de organoleptische eisen dienen de onderzoeks- en beoordelingsmethoden vermeld in de [bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) in acht te worden genomen. Aan het eind van bijlage C is een tabel opgenomen, waarin wordt herhaald voor welke onderstaande producten organoleptische gegevens vereist zijn voor een toelating.
 
-Voor een toetsing van een product op biofilmvormingspotentie dienen nog beoordelingscriteria vastgesteld te worden door de Minister (zie [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19)).
+Voor een toetsing van een product op biofilmvormingspotentie dienen nog beoordelingscriteria vastgesteld te worden door de Minister (zie [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01)).
 
 Bij de uitvoering van het toelatingsonderzoek is het niet noodzakelijk of mogelijk om in alle gevallen alle testen uit te voeren. De keuze en uitvoering van bepaalde testen wordt in eerste instantie bepaald door de samenstelling van het eindproduct. Het product wordt alleen getest op de afgifte van stoffen die ook daadwerkelijk afgegeven kunnen worden. De beslissing om een migratietest uit te voeren is ook afhankelijk van de concentratie van de relevante stof(fen) in het eindproduct, de verwachte migratie van deze stof(fen) en het werkelijke contactoppervlak van het eindproduct met drink- of warmtapwater.
 
@@ -360,7 +360,7 @@ De regeling biedt de mogelijkheid om door middel van berekeningen een schatting 
 
 Hieronder is als leidraad aangegegeven welke onderzoeks- en beoordelingsmethoden nodig zijn voor de toelating van een bepaald product. De commissie heeft de mogelijkheid af te wijken van deze leidraad indien de samenstelling of het gebruiksdoel van het te beoordelen product daartoe aanleiding geeft. Een product is toelaatbaar indien het voldoet aan de criteria die op grond van de regeling voor het betreffende product gelden.
 
-Een belangrijk instrument bij de toelating van producten wordt gevormd door de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) vermelde positieve lijsten voor kunststoffen, rubberproducten en pigmenten en kleurstoffen en de compositielijsten voor metalen. In het verlengde hiervan mag ook de opsomming van de grond- en hulpstoffen voor cementproducten niet vergeten worden, zoals deze is opgenomen onder paragraaf 2.9 van deze bijlage. Deze lijsten, inclusief paragraaf 2.9, zijn niet limitatief en sluiten het gebruik van andere stoffen niet uit. Deze andere stoffen mogen gebruikt worden indien zij zijn beoordeeld en toegelaten volgens de arikelen 6 tot en met 8 van de regeling.
+Een belangrijk instrument bij de toelating van producten wordt gevormd door de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) vermelde positieve lijsten voor kunststoffen, rubberproducten en pigmenten en kleurstoffen en de compositielijsten voor metalen. In het verlengde hiervan mag ook de opsomming van de grond- en hulpstoffen voor cementproducten niet vergeten worden, zoals deze is opgenomen onder paragraaf 2.9 van deze bijlage. Deze lijsten, inclusief paragraaf 2.9, zijn niet limitatief en sluiten het gebruik van andere stoffen niet uit. Deze andere stoffen mogen gebruikt worden indien zij zijn beoordeeld en toegelaten volgens de arikelen 6 tot en met 8 van de regeling.
 
 ### 2.2. Kunststoffen en rubberproducten
 
@@ -394,7 +394,7 @@ Elastomeren, geen andere stoffen bevattend dan voor de vulkanisatie noodzakelijk
 
 ### 2.2.5. Positieve lijst voor kunststoffen, inclusief elastomeren en rubberproducten
 
-Voor de vervaardiging en verwerking van kunststoffen en elastomeren en natuurlijke en synthetische rubberproducten die in contact (kunnen) komen met drink- of warmtapwater is in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), onderdeel 1 een lijst van toegelaten monomeren en andere uitgangsstoffen, polymerisatiehulpstoffen en additieven opgenomen, de zogenoemde positieve lijst2In het kader van de in de toelichting genoemde 4MS Common Approach wordt gewerkt aan een gezamenlijke positieve lijsten gebaseerd op de richtlijnen van de EFSA, het **EU Substances** document en de nationale positieve lijsten. Zodra deze lijsten gereed zijn (naar verwachting in de loop van 2011), zal bijlage B hierop worden aangepast. Zie ook de paragrafen 2.3 en 3.3 van de Toelichting bij de Regeling.
+Voor de vervaardiging en verwerking van kunststoffen en elastomeren en natuurlijke en synthetische rubberproducten die in contact (kunnen) komen met drink- of warmtapwater is in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), onderdeel 1 een lijst van toegelaten monomeren en andere uitgangsstoffen, polymerisatiehulpstoffen en additieven opgenomen, de zogenoemde positieve lijst2In het kader van de in de toelichting genoemde 4MS Common Approach wordt gewerkt aan een gezamenlijke positieve lijsten gebaseerd op de richtlijnen van de EFSA, het **EU Substances** document en de nationale positieve lijsten. Zodra deze lijsten gereed zijn (naar verwachting in de loop van 2011), zal bijlage B hierop worden aangepast. Zie ook de paragrafen 2.3 en 3.3 van de Toelichting bij de Regeling.
 
 De positieve lijst is niet limitatief en sluit het gebruik van andere stoffen niet uit. Stoffen die niet op de lijst voorkomen, mogen worden gebruikt indien zij zijn beoordeeld en goedgekeurd volgens hoofdstuk 3 van de regeling.
 
@@ -414,9 +414,9 @@ De commissie kan in voorkomende gevallen besluiten tot een onderzoek naar onbeke
 
 ### 2.2.7. Onderzoek en beoordeling3Zoals in de paragrafen 2.2.2 tot en met 2.2.4 genoemd is, worden kunststoffen en rubberproducten hoofdzakelijk toegepast voor leidingsystemen en onderdelen daarvan (buizen en verbindingsstukken), afdichtingssystemen (O-ringen) en flexibele aansluitingen (compensatoren). Zij worden echter ook gebruikt voor de vervaardiging van folies voor bijvoorbeeld een waterdichte afscheiding in waterwingebieden en als binnenbekleding voor opslagsystemen. Hiernaast kunnen zij een onderdeel van een groter geheel zijn, zoals membranen in filtratiemodules. Op grond van hun specifieke toepassingen worden folies en membranen afzonderlijk beschreven (zie respectievelijk onderdeel 2.3 en 2.4).
 
-Voor de uitvoering van het toelatingsonderzoek van kunststoffen en rubberproducten dienen, in overeenstemming met hoofdstuk 3 van de regeling en [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19), in het algemeen de volgende onderzoeken te worden uitgevoerd:
+Voor de uitvoering van het toelatingsonderzoek van kunststoffen en rubberproducten dienen, in overeenstemming met hoofdstuk 3 van de regeling en [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01), in het algemeen de volgende onderzoeken te worden uitgevoerd:
 
-Voor producten met een relatief klein contactopervlak waarvoor, in overeenstemming met onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), een conversiefactor < 0,01 d/dm kan worden vastgesteld, kan in het algemeen volstaan worden met een beperkte set aan laboratoriumtesten. De toelatingsonderzoeken die voor deze producten noodzakelijk zijn, zijn vermeld onder de desbetreffende productomschrijvingen. Wordt een product niet genoemd, dan kunnen, dit ter oordeel van de commissie, de volgende aspecten van toepassing zijn:
+Voor producten met een relatief klein contactopervlak waarvoor, in overeenstemming met onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), een conversiefactor < 0,01 d/dm kan worden vastgesteld, kan in het algemeen volstaan worden met een beperkte set aan laboratoriumtesten. De toelatingsonderzoeken die voor deze producten noodzakelijk zijn, zijn vermeld onder de desbetreffende productomschrijvingen. Wordt een product niet genoemd, dan kunnen, dit ter oordeel van de commissie, de volgende aspecten van toepassing zijn:
 
 ### 2.3. Folies
 
@@ -430,7 +430,7 @@ De prefabricage van foliebanen tot grotere baanbreedten geschiedt met (semi-)aut
 
 ### 2.3.2. Onderzoek en beoordeling
 
-Voor de uitvoering van het toelatingsonderzoek van kunststof folies dienen, in overeenstemming met hoofdstuk 3 van de regeling en [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19), in het algemeen de volgende onderzoeken te worden uitgevoerd:
+Voor de uitvoering van het toelatingsonderzoek van kunststof folies dienen, in overeenstemming met hoofdstuk 3 van de regeling en [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01), in het algemeen de volgende onderzoeken te worden uitgevoerd:
 
 ### 2.4. Membranen
 
@@ -446,17 +446,17 @@ Membranen worden niet onderzocht op organoleptische aspecten, omdat het water da
 
 Het onderzoek naar de nagroei aspecten is nog onderwerp van discussie.
 
-Een membraanfiltratiemodule is een samengesteld product en dient bij voorkeur in zijn geheel, zoals het in de praktijk gebruikt wordt, te worden getest volgens NEN-EN 12873-4:2006 (en) (zie onderdeel 2.10.3 van deze bijlage en onderdeel 1.3 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19)). In aanvulling op NEN-EN 12873-4:2006 (en) is onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) van toepassing voor het berekenen van de geschatte concentratie van relevante stoffen in het drinkwater en een toetsing van de geschatte concentratie aan de voor de betreffende stof van toepassing zijnde MTC.
+Een membraanfiltratiemodule is een samengesteld product en dient bij voorkeur in zijn geheel, zoals het in de praktijk gebruikt wordt, te worden getest volgens NEN-EN 12873-4:2006 (en) (zie onderdeel 2.10.3 van deze bijlage en onderdeel 1.3 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01)). In aanvulling op NEN-EN 12873-4:2006 (en) is onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) van toepassing voor het berekenen van de geschatte concentratie van relevante stoffen in het drinkwater en een toetsing van de geschatte concentratie aan de voor de betreffende stof van toepassing zijnde MTC.
 
-In uitzonderingsgevallen, dit ter oordeel van de commissie, kunnen de verschillende onderdelen van een membraanfiltratiemodule afzonderlijk getest worden volgens NEN-EN 12873-1:2003 (en) met inachtneming van de instructies van de fabrikant of leverancier ten aanzien van de voorbehandeling van de membraanfiltratiemodule. Voor het schatten van de concentratie van een stof in het drinkwater dienen hierbij de resultaten van de derde migratieperiode te worden gebruikt. De geschatte concentratie in het drinkwater dient volgens onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) berekend te worden, waarna een toetsing aan de voor de betreffende stof van toepassing zijnde MTC dient te worden uitgevoerd.
+In uitzonderingsgevallen, dit ter oordeel van de commissie, kunnen de verschillende onderdelen van een membraanfiltratiemodule afzonderlijk getest worden volgens NEN-EN 12873-1:2003 (en) met inachtneming van de instructies van de fabrikant of leverancier ten aanzien van de voorbehandeling van de membraanfiltratiemodule. Voor het schatten van de concentratie van een stof in het drinkwater dienen hierbij de resultaten van de derde migratieperiode te worden gebruikt. De geschatte concentratie in het drinkwater dient volgens onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) berekend te worden, waarna een toetsing aan de voor de betreffende stof van toepassing zijnde MTC dient te worden uitgevoerd.
 
 Indien de betreffende MTC nog steeds wordt overschreden na de drie migratieperioden van NEN-EN 12873-1:2003 (en) en indien kan worden aangetoond of verwacht dat de migratiesnelheid in de tijd afneemt, dan kan de migratietest worden uitgebreid tot een maximale migratietijd van 30 dagen.
 
-In aanvulling op bijlage C van NEN-EN 12873-1:2003 (en) zijn de migratieperioden voor het testen bij 23 °C hierbij: 3 dagen, 3 dagen, 3 dagen – 4 dagen, 3 dagen – 4 dagen, 3 dagen. De migratie van de relevante parameter(s) dient onderzocht te worden in alle migratiewaters verkregen met een migratieperiode van 3 dagen. De geschatte concentratie in het drinkwater dient volgens onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) berekend te worden, waarna deze getoetst dient te worden aan de voor de betreffende stof van toepassing zijnde MTC.
+In aanvulling op bijlage C van NEN-EN 12873-1:2003 (en) zijn de migratieperioden voor het testen bij 23 °C hierbij: 3 dagen, 3 dagen, 3 dagen – 4 dagen, 3 dagen – 4 dagen, 3 dagen. De migratie van de relevante parameter(s) dient onderzocht te worden in alle migratiewaters verkregen met een migratieperiode van 3 dagen. De geschatte concentratie in het drinkwater dient volgens onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) berekend te worden, waarna deze getoetst dient te worden aan de voor de betreffende stof van toepassing zijnde MTC.
 
 De beoordeling van een membraanfiltratiemodule vindt plaats op het totale effect (de som) van de verschillende onderdelen.
 
-Indien voor het vaststellen van de migratie gebruik wordt gemaakt van de modelberekening beschreven in onderdeel 3.1 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19), dan gelden hierbij de volgende aannames en gegevens:
+Indien voor het vaststellen van de migratie gebruik wordt gemaakt van de modelberekening beschreven in onderdeel 3.1 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01), dan gelden hierbij de volgende aannames en gegevens:
 
 ### 2.5. Smeermiddelen
 
@@ -466,7 +466,7 @@ Het betreft hier producten die gebruikt worden voor de smering van onderdelen va
 
 ### 2.5.2. Onderzoek en beoordeling
 
-Het is in het algemeen niet zinvol om smeermiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) onder andere de volgende aspecten worden meegenomen:
+Het is in het algemeen niet zinvol om smeermiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) onder andere de volgende aspecten worden meegenomen:
 
 ### 2.6. Lijmen
 
@@ -476,7 +476,7 @@ Het betreft hier producten die worden gebruikt voor het maken van lijmverbinding
 
 ### 2.6.2. Onderzoek en beoordeling
 
-Het is in het algemeen niet zinvol om lijmen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur, waarbij een specificatieniveau van 1% (m/m) van toepassing is, en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik, zoals droog- en/of uithardtijd. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) onder andere de volgende aspecten worden meegenomen:
+Het is in het algemeen niet zinvol om lijmen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur, waarbij een specificatieniveau van 1% (m/m) van toepassing is, en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik, zoals droog- en/of uithardtijd. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) onder andere de volgende aspecten worden meegenomen:
 
 ### 2.7. Glijmiddelen
 
@@ -486,7 +486,7 @@ Het betreft hier middelen die gebruikt worden bij de montage van rubber afdichti
 
 ### 2.7.2. Onderzoek en beoordeling
 
-Het is in het algemeen niet zinvol om glijmiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) onder andere de volgende aspecten worden meegenomen:
+Het is in het algemeen niet zinvol om glijmiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) onder andere de volgende aspecten worden meegenomen:
 
 ### 2.8. Metalen
 
@@ -500,19 +500,19 @@ Onder de aanduiding ‘metalen’ vallen de volgende producten en materialen die
 
 Het gebruik van lood als leidingmateriaal is niet toegestaan.
 
-De toelaatbaarheid van soldeer- en lasmiddelen dient te worden beoordeeld door de commissie (soldeer- en lasmiddelen zijn nog niet opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), derde onderdeel).
+De toelaatbaarheid van soldeer- en lasmiddelen dient te worden beoordeeld door de commissie (soldeer- en lasmiddelen zijn nog niet opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), derde onderdeel).
 
-In het derde deel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) zijn nog geen compositielijsten voor roestvaststaal en aluminiumlegeringen opgenomen; deze lijsten zijn nog onderwerp van discussie. De toelaatbaarheid van roestvaststalen of aluminium producten dient te worden beoordeeld door de commissie.
+In het derde deel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) zijn nog geen compositielijsten voor roestvaststaal en aluminiumlegeringen opgenomen; deze lijsten zijn nog onderwerp van discussie. De toelaatbaarheid van roestvaststalen of aluminium producten dient te worden beoordeeld door de commissie.
 
 ### 2.8.1.3. Gietijzer, staal en koolstofstaal
 
-Gietijzeren (nodulair en lamellair) en stalen buizen en fittingen mogen uitsluitend als onderdelen van leidingsystemen worden toegepast indien het inwendige oppervlak van de betreffende producten voorzien is van een toelaatbare beschermende laag, zoals een epoxy of cementmortel **lining**. Gietijzer zonder beschermende laag mag wel gebruikt worden voor specifieke toepassingen, zoals voor pompen en kleppen, en andere producten met een relatief klein contactoppervlak (conversiefactor < 0,01 d/dm, zie onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19)).
+Gietijzeren (nodulair en lamellair) en stalen buizen en fittingen mogen uitsluitend als onderdelen van leidingsystemen worden toegepast indien het inwendige oppervlak van de betreffende producten voorzien is van een toelaatbare beschermende laag, zoals een epoxy of cementmortel **lining**. Gietijzer zonder beschermende laag mag wel gebruikt worden voor specifieke toepassingen, zoals voor pompen en kleppen, en andere producten met een relatief klein contactoppervlak (conversiefactor < 0,01 d/dm, zie onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01)).
 
 Koolstofstalen buizen en tanks mogen uitsluitend worden toegepast indien het inwendige oppervlak van de betreffende producten voorzien is van een toelaatbare beschermende laag (koolstofstaal zonder beschermende laag mag alleen gebruikt worden voor producten waarvoor een conversiefactor < 0,01 d/dm kan worden berekend, zoals pompen en kleppen).
 
 ### 2.8.1.4. Gegalvaniseerd staal
 
-In het derde deel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) zijn onder de kop ‘Gegalvaniseerd staal’ eisen opgenomen voor de zinklaag (NB een zinklaag kan ook thermisch verzinkt worden). Hierbij is een rekenmethode opgenomen voor de identificatie van watersamenstellingen waarbij de corrosiesnelheid voor gegalvaniseerd staal onacceptabel kan zijn.
+In het derde deel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) zijn onder de kop ‘Gegalvaniseerd staal’ eisen opgenomen voor de zinklaag (NB een zinklaag kan ook thermisch verzinkt worden). Hierbij is een rekenmethode opgenomen voor de identificatie van watersamenstellingen waarbij de corrosiesnelheid voor gegalvaniseerd staal onacceptabel kan zijn.
 
 In Waterwerkblad 2.2 H wordt vermeld dat verzinkt stalen producten niet gebruikt mogen voor installaties waarbij het water bestemd of mede bestemd is voor menselijke consumptie en hygiëne. In de regeling wordt t.a.v. de toepassing van metalen geen onderscheid gemaakt tussen drink- of warmtapwaterinstallaties en distributiesystemen. Voor distributiesystemen is de Vewin Richtlijn Drinkwaterleidingen buiten gebouwen van toepassing. Deze richtlijn is gebaseerd op NEN-EN 805:2000. Waterbehandelings- en waterwinninginstallatie, opslagfaciliteiten en pompstations vallen buiten de werkingssfeer van de VEWIN richtlijn en NEN-EN 805:2000.
 
@@ -528,7 +528,7 @@ Kunststof of rubberonderdelen in verbindingen van metalen leidingsystemen (bijvo
 
 ### 2.8.2. Indeling in productgroepen, structuur van de compositielijst
 
-De compositielijst voor metalen, vermeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), omvat verschillende categorieën van metalen.
+De compositielijst voor metalen, vermeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), omvat verschillende categorieën van metalen.
 
 Een categorie wordt gedefinieerd als een groep materialen met dezelfde eigenschappen met betrekking tot hun toepassingsgebied, gedrag in contact met drinkwater en beperkingen voor wat betreft de watersamenstelling en/of het contactoppervlak.
 
@@ -536,7 +536,7 @@ Een referentiemateriaal is een materiaal binnen een categorie waarvan de karakte
 
 Onder iedere categorie worden de commercieel beschikbare metalen genoemd die toelaatbaar worden geacht voor gebruik in producten die in contact komen met drinkwater.
 
-Op basis van hun toepassingsgebied (zie ook [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), derde onderdeel) kunnen metalen onderverdeeld worden in drie productgroepen:
+Op basis van hun toepassingsgebied (zie ook [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), derde onderdeel) kunnen metalen onderverdeeld worden in drie productgroepen:
 
 ### 2.8.3. Onderzoek en beoordeling
 
@@ -546,7 +546,7 @@ Voor de beoordeling van een materiaal dient aanvullende informatie verstrekt te 
 
 ### 2.8.3.2. Organoleptische aspecten
 
-In [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) is gesteld dat metalen niet onderzocht behoeven te worden op mogelijke organoleptische aspecten. De reden hiervoor is dat de MTC’s die zijn vastgesteld voor metalen of metaalionen (veel) lager zijn dan de concentraties waarbij organoleptische aspecten een rol gaan spelen.
+In [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) is gesteld dat metalen niet onderzocht behoeven te worden op mogelijke organoleptische aspecten. De reden hiervoor is dat de MTC’s die zijn vastgesteld voor metalen of metaalionen (veel) lager zijn dan de concentraties waarbij organoleptische aspecten een rol gaan spelen.
 
 ### 2.8.3.3. Microbiologische aspecten
 
@@ -558,11 +558,11 @@ Voor de aanwezigheid van residueel koolstof op het inwendige oppervlak van koper
 
 ### 2.8.3.5. Toxicologische aspecten
 
-De samenstelling van metalen dient in beginsel te voldoen aan de criteria vermeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) (Compositielijst metalen).
+De samenstelling van metalen dient in beginsel te voldoen aan de criteria vermeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) (Compositielijst metalen).
 
-Voldoet een metalen product aan de in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19) genoemde criteria dan behoeft in het kader van een toelating of controle een migratietest (zie hieronder) niet of beperkt te worden uitgevoerd. De commissie beslist hierin.
+Voldoet een metalen product aan de in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01) genoemde criteria dan behoeft in het kader van een toelating of controle een migratietest (zie hieronder) niet of beperkt te worden uitgevoerd. De commissie beslist hierin.
 
-Een migratietest dient te worden uitgevoerd indien een metaal, vallend onder de productgroepen A en B, niet voldoet aan de criteria van de compositielijst van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), onderdeel 3, en voor (de samenstelling van) dit product toelating wordt gevraagd tot de compositielijst.
+Een migratietest dient te worden uitgevoerd indien een metaal, vallend onder de productgroepen A en B, niet voldoet aan de criteria van de compositielijst van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), onderdeel 3, en voor (de samenstelling van) dit product toelating wordt gevraagd tot de compositielijst.
 
 Metalen die vallen onder productgroep C worden niet getest.
 
@@ -578,7 +578,7 @@ De acceptatie van een referentiemateriaal voor een categorie vereist de acceptat
 
 Voor de toevoeging van een materiaal aan een categorie wordt een vergelijkende test tegen het referentiemateriaal vereist onder gebruikmaking van NEN-EN 15664-1. Voor een vergelijkende tekst behoeft alleen Testwater 1 te worden gebruikt.
 
-De te meten parameters zijn afhankelijk van de samenstelling van het betreffende product en worden genoemd in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19).
+De te meten parameters zijn afhankelijk van de samenstelling van het betreffende product en worden genoemd in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01).
 
 ### 2.8.3.7. Toelatingscriteria
 
@@ -586,7 +586,7 @@ In onderstaande tabel is aangegeven in welke mate een metalen product mag bijdra
 
 1 De waarden voor chroom, koper, lood en nikkel gelden voor een monster dat aan de kraan verkregen is en worden representatief geacht voor de **gemiddelde waarde die de verbruiker wekelijks binnen krijgt.**
 
-2 In overeenstemming met paragraaf 1.1.14 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19).
+2 In overeenstemming met paragraaf 1.1.14 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01).
 
 3 De waarden voor bismut en molybdeen zijn vastgesteld door de commissie op basis van het voorstel van de 4MS Group van 14 november 2008 (**Procedure for the acceptance of metallic materials for PDW**, CvD MC 23 08-071).
 
@@ -616,7 +616,7 @@ Indien monsters van de stagnatieperiode geanalyseerd zijn ter aanvulling van de 
 
 De commissie beslist of de beschikbare gegevens van voldoende kwaliteit zijn. Voor de test conform NEN- EN 15664-1 zijn dit: de resultaten van de afzonderlijke testlijnen, de resultaten van de stagnatieperiode van 4 uur en de gegevens over de samenstelling van het water.
 
-De commissie beslist of de gegevens van voldoende kwaliteit zijn voor een toelatingsbeoordeling. Na toelating door de Commissie kan het betreffende materiaal, tezamen met de categorie en het refentiemateriaal, worden toegevoegd aan de compositielijsten van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), derde onderdeel.
+De commissie beslist of de gegevens van voldoende kwaliteit zijn voor een toelatingsbeoordeling. Na toelating door de Commissie kan het betreffende materiaal, tezamen met de categorie en het refentiemateriaal, worden toegevoegd aan de compositielijsten van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), derde onderdeel.
 
 ### 2.8.3.10. De toevoeging van materialen aan de compositielijst binnen een categorie
 
@@ -646,7 +646,7 @@ Indien monsters van de stagnatieperiode geanalyseerd zijn ter aanvulling van de 
 
 De commissie beslist of de beschikbare gegevens van voldoende kwaliteit zijn. Voor de test conform NEN- EN 15664-1 zijn dit: de resultaten van de afzonderlijke testlijnen, de resultaten van de stagnatieperiode van 4 uur en de gegevens over de samenstelling van het water.
 
-De commissie beslist of de gegevens van voldoende kwaliteit zijn voor een toelatingsbeoordeling. Na toelating door de Commissie kan het betreffende materiaal worden toegevoegd aan de compositielijst van de categorie van het referentiemariaal van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19), derde onderdeel.
+De commissie beslist of de gegevens van voldoende kwaliteit zijn voor een toelatingsbeoordeling. Na toelating door de Commissie kan het betreffende materiaal worden toegevoegd aan de compositielijst van de categorie van het referentiemariaal van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01), derde onderdeel.
 
 ### 2.8.3.12. Toelating van producten
 
@@ -682,19 +682,19 @@ Van de technologische hulpmiddelen worden de ontkistingsmiddelen en **curing com
 
 ### 2.9.2. Onderzoek en beoordeling
 
-Voor de toetsing van een product aan de toxicologische eisen dient van elk product, in overeenstemming met [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19), een volledige specificatie van de grond- en hulpstoffen en mogelijke verontreinigingen te worden overlegd. Deze specificatie wordt getoetst aan de positieve lijst van onderdeel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19). Indien een stof niet op de betreffende positieve lijst voorkomt, dan dienen hiervoor de benodigde toxiciteitsgegevens volgens [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) te worden overlegd. De commissie stelt vast welke MTC voor deze stof dient te gelden. De commissie bepaalt vervolgens welke onderzoeken er uitgevoerd dienen te worden voor de toelating van een product.
+Voor de toetsing van een product aan de toxicologische eisen dient van elk product, in overeenstemming met [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01), een volledige specificatie van de grond- en hulpstoffen en mogelijke verontreinigingen te worden overlegd. Deze specificatie wordt getoetst aan de positieve lijst van onderdeel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01). Indien een stof niet op de betreffende positieve lijst voorkomt, dan dienen hiervoor de benodigde toxiciteitsgegevens volgens [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) te worden overlegd. De commissie stelt vast welke MTC voor deze stof dient te gelden. De commissie bepaalt vervolgens welke onderzoeken er uitgevoerd dienen te worden voor de toelating van een product.
 
-Voor het vaststellen van de migratie van stoffen uit fabrieksmatig bereide cementproducten of materialen voor een beoordeling van de toxicologische aspecten is NEN-EN 14944-3:2005 Ontw. (en) van toepassing (zie [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19), paragraaf 1.6)9NEN-EN 14944-4 beschrijft de migratietest voor ter plekke gemaakte materialen (**site-applied materials**). Deze norm is nog in ontwikkeling..
+Voor het vaststellen van de migratie van stoffen uit fabrieksmatig bereide cementproducten of materialen voor een beoordeling van de toxicologische aspecten is NEN-EN 14944-3:2005 Ontw. (en) van toepassing (zie [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01), paragraaf 1.6)9NEN-EN 14944-4 beschrijft de migratietest voor ter plekke gemaakte materialen (**site-applied materials**). Deze norm is nog in ontwikkeling..
 
-Cementproducten of materialen waarvoor toelating in de drink- of warmtapwatervoorziening wordt gevraagd, kunnen op grond van bijvoorbeeld het [Bouwstoffenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) eerder zijn beoordeeld en getest. De testresultaten van deze beoordeling mogen gebruikt worden indien deze verkregen zijn in overeenstemming met de criteria beschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19).
+Cementproducten of materialen waarvoor toelating in de drink- of warmtapwatervoorziening wordt gevraagd, kunnen op grond van bijvoorbeeld het [Bouwstoffenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) eerder zijn beoordeeld en getest. De testresultaten van deze beoordeling mogen gebruikt worden indien deze verkregen zijn in overeenstemming met de criteria beschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01).
 
-Op grond van de via NEN-EN 14944-3:2005 Ontw. (en) verkregen migratiesnelheid en de van toepassing zijnde conversiefactor (zie onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19)) dient per stof/parameter een verwachte concentratie in drink- of warmtapwater berekend te worden.
+Op grond van de via NEN-EN 14944-3:2005 Ontw. (en) verkregen migratiesnelheid en de van toepassing zijnde conversiefactor (zie onderdeel 3 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01)) dient per stof/parameter een verwachte concentratie in drink- of warmtapwater berekend te worden.
 
 ### 2.9.3. Aanvullende criteria en eisen
 
 Voor de uitvoering van de migratietest en de verkregen resultaten gelden ten aanzien van de pH de volgende twee eisen:
 
-Voor cementproducten gelden naast de eisen voor antimoon, arseen, cadmium, chroom, kwik, nikkel, lood en seleen op basis van de 10%-regel ([bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), tweede onderdeel), aanvullend de volgende eisen:
+Voor cementproducten gelden naast de eisen voor antimoon, arseen, cadmium, chroom, kwik, nikkel, lood en seleen op basis van de 10%-regel ([bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), tweede onderdeel), aanvullend de volgende eisen:
 
 Een cementproduct is toelaatbaar indien de verwachte concentratie in drink- of warmtapwater van de relevante stof(fen) lager is dan de geldende MTC.
 
@@ -706,7 +706,7 @@ Ontkistingsmiddelen worden gebruikt bij betonproducten (betonnen buizen en reinw
 
 ### 2.9.4.2. Onderzoek en beoordeling
 
-Het is in het algemeen niet zinvol om ontkistingsmiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warm tapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) onder andere de volgende aspecten worden meegenomen:
+Het is in het algemeen niet zinvol om ontkistingsmiddelen aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warm tapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) onder andere de volgende aspecten worden meegenomen:
 
 ### 2.9.5. Curing compounds
 
@@ -716,7 +716,7 @@ Het is in het algemeen niet zinvol om ontkistingsmiddelen aan een migratietest t
 
 ### 2.9.5.2. Onderzoek en beoordeling
 
-Het is in het algemeen niet zinvol om **curing compounds** aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) onder andere de volgende aspecten worden meegenomen:
+Het is in het algemeen niet zinvol om **curing compounds** aan een migratietest te onderwerpen. Meestal zal door middel van een beoordeling van de receptuur en berekeningen aangetoond kunnen worden dat het middel voldoet aan de gestelde eisen, met inachtneming van de voorschriften van de leverancier ten aanzien van toepassing en gebruik. Bij de berekening van de geschatte concentratie van een relevante stof in drink- of warmtapwater kunnen in overeenstemming met en in aanvulling op onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) onder andere de volgende aspecten worden meegenomen:
 
 ### 2.10. Meerlagige en samengestelde producten10Het onderscheid tussen meerlagige en samengestelde producten is in de praktijk niet altijd duidelijk. Onder meerlagige producten worden in dit verband de niet ‘ontleedbare’ producten bedoeld. Samengestelde producten zijn ‘ontleedbaar’, d.w.z. de verschillende onderdelen kunnen afzonderlijk getest worden.
 
@@ -750,7 +750,7 @@ Samengestelde producten bestaan uit twee of meer onderdelen die van verschillend
 
 Van de samengestelde producten dient voor alle onderdelen aangegeven te worden uit welke materialen of uit welk materiaal deze zijn gefabriceerd.
 
-Uitsluitend de onderdelen die in contact komen met water dat bestemd is voor menselijke consumptie, of de kwaliteit daarvan kunnen beïnvloeden, dienen voor een toelating onderzocht en beoordeeld te worden in overeenstemming met de methoden van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) met inachtneming van de voorwaarden die in deze bijlagen bij de verschillende materialen en producten zijn gesteld. Indien nodig beslist de commissie over de (chemische) specificatie en het specificatieniveau van de betreffende grond- en hulpstoffen.
+Uitsluitend de onderdelen die in contact komen met water dat bestemd is voor menselijke consumptie, of de kwaliteit daarvan kunnen beïnvloeden, dienen voor een toelating onderzocht en beoordeeld te worden in overeenstemming met de methoden van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) met inachtneming van de voorwaarden die in deze bijlagen bij de verschillende materialen en producten zijn gesteld. Indien nodig beslist de commissie over de (chemische) specificatie en het specificatieniveau van de betreffende grond- en hulpstoffen.
 
 Indien een samengesteld product getest moet worden, dan dient dit bij voorkeur in zijn geheel, zoals het in de praktijk gebruikt wordt, gedaan te worden. In uitzonderingsgevallen, dit ter oordeel van de commissie, kunnen de verschillende onderdelen afzonderlijk getest worden. De beoordeling vindt hierbij plaats op het totale effect (de som) van de verschillende onderdelen.
 
@@ -764,7 +764,7 @@ Door de definitie van chemicaliën vallen bijvoorbeeld smeer- en glijmiddelen ni
 
 Onder chemicaliën vallen ook de daaruit samengestelde producten, inclusief biociden als bedoeld in de [Wet gewasbeschermingsmiddelen en biociden 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021670). Op de bestrijdingsmiddelen zijn uitsluitend de [artikelen 12 tot en met 17 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=12) van toepassing.
 
-Als grondslag voor de beoordeling van chemicaliën gelden de normen die in CEN-verband zijn opgesteld (EN 878 tot EN 15030) en omgezet in een NEN-EN. Afhankelijk van de toepassing van het product zijn voor de zuiverheidseisen of de maximaal toelaatbare concentraties in de uitloogtest de voorwaarden die zijn vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), paragraaf 2.5, van toepassing. Dit betekent dat de verontreinigingen in de chemicaliën die zijn genoemd in het [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111) voor ten hoogste 10% van de grenswaarde genoemd in het Drinkwaterbesluit mogen bijdragen tot de concentratie in het drink- of warmtapwater. Verder geldt dat de blootstelling via drink- of warm tapwater aan verontreinigingen die niet zijn genoemd in het Drinkwaterbesluit voor ten hoogste 10% mag bijdragen aan de totale blootstelling van de betreffende verontreiniging.
+Als grondslag voor de beoordeling van chemicaliën gelden de normen die in CEN-verband zijn opgesteld (EN 878 tot EN 15030) en omgezet in een NEN-EN. Afhankelijk van de toepassing van het product zijn voor de zuiverheidseisen of de maximaal toelaatbare concentraties in de uitloogtest de voorwaarden die zijn vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), paragraaf 2.5, van toepassing. Dit betekent dat de verontreinigingen in de chemicaliën die zijn genoemd in het [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111) voor ten hoogste 10% van de grenswaarde genoemd in het Drinkwaterbesluit mogen bijdragen tot de concentratie in het drink- of warmtapwater. Verder geldt dat de blootstelling via drink- of warm tapwater aan verontreinigingen die niet zijn genoemd in het Drinkwaterbesluit voor ten hoogste 10% mag bijdragen aan de totale blootstelling van de betreffende verontreiniging.
 
 In bijzondere situaties kan door de commissie bij de beoordeling van een individueel geval van bovenstaande uitgangspunten worden afgeweken.
 
@@ -806,7 +806,7 @@ In voorkomende gevallen, dit ter beoordeling van de commissie, kan bij de beoord
 
 Boorhulpmiddelen worden toegepast bij het aanleggen van putten voor grondwaterwinning ter versterking van de boorgatwand. Het middel wordt tijdens het boren van de put toegevoegd aan het zogenaamde werkwater (mengsel van aanwezig grondwater en toegevoegd water) in relatief geringe hoeveelheden. Het werkwater wordt met het boorhulpmiddel na het boren van de put verwijderd. De put wordt vervolgens ingericht voor de winning van grondwater, schoongepompt en in bedrijf genomen.
 
-In de praktijk kunnen sporen van boorhulpmiddelen in drink- of warmtapwater terecht komen. Op grond hiervan dienen boorhulpmiddelen volledig gespecificeerd te worden. Het middel is toelaatbaar indien, in overeenstemming met de beoordelingsmethoden van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), geen nadelige effecten voor de gezondheid van de consument te verwachten zijn.
+In de praktijk kunnen sporen van boorhulpmiddelen in drink- of warmtapwater terecht komen. Op grond hiervan dienen boorhulpmiddelen volledig gespecificeerd te worden. Het middel is toelaatbaar indien, in overeenstemming met de beoordelingsmethoden van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), geen nadelige effecten voor de gezondheid van de consument te verwachten zijn.
 
 ### 3.2.3. Filtermaterialen
 
@@ -854,7 +854,7 @@ Calciumcarbonaat dient een zuiverheid van minimaal 98% te hebben.
 
 Voor de zware metalen zijn de volgende maximale gehaltes in mg/kg droog product van toepassing:
 
-Bij de bewerking van calciumcarbonaat kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient voor dergelijke middelen de benodigde informatie te verschaffen over receptuur, samenstelling en gebruikte hoeveelheid. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) van de regeling. Door middel van een berekening op basis van een realistische **worst case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
+Bij de bewerking van calciumcarbonaat kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient voor dergelijke middelen de benodigde informatie te verschaffen over receptuur, samenstelling en gebruikte hoeveelheid. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) van de regeling. Door middel van een berekening op basis van een realistische **worst case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
 
 Calciumcarbonaat behoeft niet te worden onderzocht op cyaniden en PAK’s.
 
@@ -864,7 +864,7 @@ Dolomiet (half gebrand, met de chemische formule CaCO3.MgO) wordt omschreven in 
 
 Voor de zware metalen zijn de volgende maximale gehaltes in mg/kg droog product van toepassing:
 
-Bij de bewerking van dolomiet kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient voor dergelijke middelen de benodigde informatie te verschaffen over receptuur, samenstelling en gebruikte hoeveelheid. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) van de regeling. Door middel van een berekening op basis van een realistische **worst case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
+Bij de bewerking van dolomiet kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient voor dergelijke middelen de benodigde informatie te verschaffen over receptuur, samenstelling en gebruikte hoeveelheid. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) van de regeling. Door middel van een berekening op basis van een realistische **worst case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
 
 Dolomiet behoeft niet te worden onderzocht op cyaniden en PAK’s.
 
@@ -872,7 +872,7 @@ Dolomiet behoeft niet te worden onderzocht op cyaniden en PAK’s.
 
 Ionenwisselaars (zowel anionisch als kationisch) worden gebruikt om de watersamenstelling te veranderen, bijvoorbeeld voor ontharding. Adsorberende kunstharsen worden toegepast voor de verwijdering van ongewenste stoffen uit water.
 
-Ionenwisselaars en adsorberende kunstharsen dienen getest te worden in overeenstemming met NEN-EN 12873-3:2006 (en) (zie [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19), paragraaf 1.4) met inachtneming van de instructies van de leverancier ten aanzien van eventuele voorbehandelingen.
+Ionenwisselaars en adsorberende kunstharsen dienen getest te worden in overeenstemming met NEN-EN 12873-3:2006 (en) (zie [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01), paragraaf 1.4) met inachtneming van de instructies van de leverancier ten aanzien van eventuele voorbehandelingen.
 
 ### 3.3. Chemicaliën die als oplossing worden gebruikt
 
@@ -902,7 +902,7 @@ Calciumhydroxide (gebluste kalk of kalkhydraat) wordt toegepast bij de onthardin
 
 Calciumoxide (ongebluste kalk) wordt ter plekke ‘geblust’ met water waarbij een suspensie van calciumhydroxide (kalkmelk) ontstaat. In het algemeen wordt een onthardingsstap gevolgd door een filtratiestap om de **carry-over** van kalkdeeltjes af te vangen. Daarmee worden dan tevens de via het calciumhydroxide geïntroduceerde verontreinigingen gedeeltelijk verwijderd.
 
-Bij de productie van calciumoxide kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient over dergelijke middelen de benodigde informatie met betrekking tot receptuur, samenstelling en gebruikte hoeveelheid te verschaffen. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt in overeenstemming met [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) een MTC vastgesteld. Door middel van een berekening op basis van een realistische **worst-case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
+Bij de productie van calciumoxide kunnen maalhulpmiddelen gebruikt worden. De aanvrager van een kwaliteitsverklaring dient over dergelijke middelen de benodigde informatie met betrekking tot receptuur, samenstelling en gebruikte hoeveelheid te verschaffen. Voor de stoffen uit de receptuur van het maalhulpmiddel wordt in overeenstemming met [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) een MTC vastgesteld. Door middel van een berekening op basis van een realistische **worst-case** situatie wordt vastgesteld of voor de betreffende stoffen de concentratie in drink- of warmtapwater aan de MTC voldoet.
 
 De maximale dosering bedraagt voor beide middelen 135 mg Ca per liter te behandelen water.
 
@@ -946,7 +946,7 @@ Voor de zware metalen zijn de volgende maximale gehaltes in mg/kg (als oplossing
 
 Corrosieremmers zijn beschermende middelen die uitsluitend worden toegepast in drink- of warmtapwaterinstallaties of onderdelen daarvan, zoals verwarmingssystemen, CV’s en combiketels.
 
-Het middel is toelaatbaar indien, in overeenstemming met de beoordelingsmethoden van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19), geen nadelige effecten voor de gezondheid van de consument te verwachten zijn.
+Het middel is toelaatbaar indien, in overeenstemming met de beoordelingsmethoden van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01), geen nadelige effecten voor de gezondheid van de consument te verwachten zijn.
 
 ### 3.3.4. Vlok(hulp)middelen
 
@@ -1002,7 +1002,7 @@ IJzer(III)chloride (FeCl3) wordt omschreven in NEN-EN 888:2004(en).
 
 Het product wordt verkregen door een reactie van ijzer of ijzer(III)oxide met chloor of een reactie van ijzer(III)oxide met zoutzuur. Het kan ook worden geproduceerd door de behandeling van ijzer(schroot) met zoutzuur, waarbij ijzer(II)chloride wordt gevormd, dat met chloor wordt geoxideerd tot ijzer(III)chloride. IJzer(III)chloride wordt in het algemeen geleverd als een oplossing van 40% in water.
 
-Bij de productie uit ijzerschroot wordt het schroot veelal voorbehandeld met behulp van middelen die organische amines bevatten. De aanvrager van een kwaliteitsverklaring dient over dergelijke middelen de benodigde informatie met betrekking tot receptuur, samenstelling en gebruikte hoeveelheid te verschaffen. Voor de stoffen uit de receptuur van het betreffende middel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19). Door middel van een risicobenadering op basis van een realistische **worst-case** situatie wordt vastgesteld of de concentratie van de betreffende stoffen in drink- of warmtapwater de MTC niet overschrijdt.
+Bij de productie uit ijzerschroot wordt het schroot veelal voorbehandeld met behulp van middelen die organische amines bevatten. De aanvrager van een kwaliteitsverklaring dient over dergelijke middelen de benodigde informatie met betrekking tot receptuur, samenstelling en gebruikte hoeveelheid te verschaffen. Voor de stoffen uit de receptuur van het betreffende middel wordt een MTC vastgesteld, zoals beschreven in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01). Door middel van een risicobenadering op basis van een realistische **worst-case** situatie wordt vastgesteld of de concentratie van de betreffende stoffen in drink- of warmtapwater de MTC niet overschrijdt.
 
 Bij de productie uit ijzerschroot is daarnaast het gehalte aan cyaniden toxicologisch relevant.
 
@@ -1048,7 +1048,7 @@ Op basis van de verstrekte informatie over de onzuiverheden en de maximale doser
 
 ### 3.5. Reinigingsmiddelen
 
-Reinigingsmiddelen, niet zijnde biociden volgens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), dienen onderzocht en beoordeeld te worden in overeenstemming met de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), waarna een erkende kwaliteitsverklaring kan worden afgegeven in overeenstemming met de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2011-07-19&g=2011-07-19) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2011-07-19&g=2011-07-19).
+Reinigingsmiddelen, niet zijnde biociden volgens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), dienen onderzocht en beoordeeld te worden in overeenstemming met de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), waarna een erkende kwaliteitsverklaring kan worden afgegeven in overeenstemming met de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2012-04-01&g=2012-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2012-04-01&g=2012-04-01).
 
 Voor een beoordeling kunnen de maximaal te verwachten concentraties in drink- of warmtapwater worden berekend op basis van de volgende gegevens:
 
@@ -1058,9 +1058,9 @@ Desinfectie- en reinigingsmiddelen worden ingezet voor het reinigen en desinfect
 
 Bij toepassing in voorraad- en distributiesystemen en drink- of warmtapwaterinstallaties worden de betreffende onderdelen afgekoppeld van de levering van drink- of warmtapwater. Na gebruik dienen de behandelde oppervlakken nagespoeld te worden met drink- of warmtapwater.
 
-Voor desinfectiemiddelen en reinigingsmiddelen met een desinfecterende werking, die specifiek voor drink- of warmtapwatertoepassingen bestemd zijn, is een toelating door het College voor de Toelating van Gewasbeschermingsmiddelen en Biociden (Ctgb) op grond van de [Wet gewasbeschermingsmiddelen en biociden 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) vereist (zie ook [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=1&artikel=1&z=2011-07-19&g=2011-07-19)). In geval van twijfel over een mogelijk desinfecterende werking van een reinigingsmiddel dient de aanvrager van een kwaliteitsverklaring hieromtrent duidelijkheid te verkrijgen van het Ctgb.
+Voor desinfectiemiddelen en reinigingsmiddelen met een desinfecterende werking, die specifiek voor drink- of warmtapwatertoepassingen bestemd zijn, is een toelating door het College voor de Toelating van Gewasbeschermingsmiddelen en Biociden (Ctgb) op grond van de [Wet gewasbeschermingsmiddelen en biociden 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) vereist (zie ook [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01)). In geval van twijfel over een mogelijk desinfecterende werking van een reinigingsmiddel dient de aanvrager van een kwaliteitsverklaring hieromtrent duidelijkheid te verkrijgen van het Ctgb.
 
-Voor middelen die beoordeeld en toegelaten zijn door het Ctgb dient vervolgens een erkende kwaliteitsverklaring te worden afgegeven in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=5&artikel=18&z=2011-07-19&g=2011-07-19).
+Voor middelen die beoordeeld en toegelaten zijn door het Ctgb dient vervolgens een erkende kwaliteitsverklaring te worden afgegeven in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=5&artikel=18&z=2012-04-01&g=2012-04-01).
 
 ## Bijlage B. – Positieve lijsten
 
@@ -1110,7 +1110,7 @@ Bij extractie met 2 N ethanolisch zoutzuur mogen uit de kleurstof of het pigment
 
 ### 2.2. Eisen gesteld aan het gekleurde eindproduct
 
-De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in contact met drink- of warmtapwater, bepaald met de geldende onderzoeks- en beoordelingsmethoden die vermeld zijn in de [bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) mag niet meer bedragen dan de hierna bij het desbetreffende bestanddeel aangegeven waarde in µg/l:
+De migratie van bestanddelen van kleurstoffen en pigmenten in een eindproduct in contact met drink- of warmtapwater, bepaald met de geldende onderzoeks- en beoordelingsmethoden die vermeld zijn in de [bijlagen C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) mag niet meer bedragen dan de hierna bij het desbetreffende bestanddeel aangegeven waarde in µg/l:
 
 ### 2.3. Toegelaten kleurstoffen en pigmenten
 
@@ -1274,33 +1274,33 @@ Group C
 
 ### 1.1.1. Organische, fabrieksmatig gefabriceerde producten
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 12873-1:2003 (en) van toepassing.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 12873-1:2003 (en) van toepassing.
 
 ### 1.1.2. Ter plekke toegepaste organische materialen (niet zijnde metalen of cementproducten)
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 12873-2:2005 (en) van toepassing.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 12873-2:2005 (en) van toepassing.
 
 ### 1.1.3. Membranen
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 12873-4:2006 (en) van toepassing.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 12873-4:2006 (en) van toepassing.
 
 ### 1.1.4. Ionenwisselaars en adsorptieharsen
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 12873-3:2006 (en) van toepassing.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 12873-3:2006 (en) van toepassing.
 
 ### 1.1.5. Metalen
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 15664-1:2008 (en) van toepassing.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 15664-1:2008 (en) van toepassing.
 
 ### 1.1.6. Migratietest voor cementproducten
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 14944-3:2005 Ontw. (en) van toepassing voor fabrieksmatig geproduceerde producten.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 14944-3:2005 Ontw. (en) van toepassing voor fabrieksmatig geproduceerde producten.
 
 Voor ter plekke toegepaste materialen en geassocieerde cementproducten is nog geen norm beschikbaar. De commissie kan een methode aanwijzen.
 
 ### 1.2. Migratietesten voor een beoordeling van de organoleptische aspecten
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), zijn de volgende normen van toepassing (zie ook de tabel aan het einde van de bijlage):
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), zijn de volgende normen van toepassing (zie ook de tabel aan het einde van de bijlage):
 
 ### 1.2.1. Organische, fabrieksmatig gefabriceerde producten van distributiesystemen
 
@@ -1332,13 +1332,13 @@ Voor de bepaling van de invloed van ter plekke toegepaste cementmaterialen en da
 
 ### 1.2.7. Technologische hulpstoffen
 
-Voor het bepalen van de invloed van technologische hulpmiddelen, zijnde vloeimiddelen, ontkistingsmiddelen, **curing compounds**, glijmiddelen en losmiddelen op de organoleptische aspecten van drink- of warmtapwater, indien deze middelen niet afdoende verwijderd kunnen worden, kan de Minister in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=10&z=2011-07-19&g=2011-07-19) een nadere aanwijzing geven. Dit geldt ook voor smeermiddelen in geassembleerde producten en afdichtingsmaterialen.
+Voor het bepalen van de invloed van technologische hulpmiddelen, zijnde vloeimiddelen, ontkistingsmiddelen, **curing compounds**, glijmiddelen en losmiddelen op de organoleptische aspecten van drink- of warmtapwater, indien deze middelen niet afdoende verwijderd kunnen worden, kan de Minister in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=10&z=2012-04-01&g=2012-04-01) een nadere aanwijzing geven. Dit geldt ook voor smeermiddelen in geassembleerde producten en afdichtingsmaterialen.
 
 ### 2. Bepalingsmethoden
 
 ### 2.1. Bepalingsmethoden voor organoleptische aspecten
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), zijn de volgende normen van toepassing voor organische, fabrieksmatig geproduceerde producten van leidingsystemen, organische materialen van voorraadsystemen, membranen, ionenwisselaars en cementproducten (zie ook de tabel aan het einde van de bijlage):
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), zijn de volgende normen van toepassing voor organische, fabrieksmatig geproduceerde producten van leidingsystemen, organische materialen van voorraadsystemen, membranen, ionenwisselaars en cementproducten (zie ook de tabel aan het einde van de bijlage):
 
 ### 2.1.1. Geur en smaak
 
@@ -1354,13 +1354,13 @@ De kwantitatieve bepaling van de troebelingsgraad van het migratiewater verkrege
 
 ### 2.2. Bepalingsmethode voor het vaststellen van nagroei (microbiologische test)
 
-Met inachtneming van [artikel 6, tiende](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19), zal de norm NVN 1225:2004 en van toepassing zijn na vaststelling van de beoordelingscriteria door de commissie.
+Met inachtneming van [artikel 6, tiende](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), zal de norm NVN 1225:2004 en van toepassing zijn na vaststelling van de beoordelingscriteria door de commissie.
 
 ### 2.3. Bepalingsmethoden voor het vaststellen van de TOC, specifieke migraties en zuiverheidsonderzoek
 
 ### 2.3.1. Toc
 
-In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2011-07-19&g=2011-07-19), is de norm NEN-EN 1484:1997 (en/nl) van toepassing voor het vaststellen van de TOC.
+In overeenstemming met [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=6&artikel=19&z=2012-04-01&g=2012-04-01), is de norm NEN-EN 1484:1997 (en/nl) van toepassing voor het vaststellen van de TOC.
 
 ### 2.3.2. Specifieke migraties, zuiverheidsonderzoek chemicaliën
 
@@ -1374,7 +1374,7 @@ De methoden worden door de commissie vastgelegd in overeenstemming met artikel 1
 
 ### 3. Modelberekeningen
 
-Als leidraad voor de berekening van de migratie van stoffen uit materialen die in contact komen met drink- of warmtapwater kan gebruik gemaakt worden van de onder 3.1 genoemde formules en aannames afgeleid van het Piringer model met inachtneming van de criteria vermeld in onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19). De berekeningen dienen te worden uitgevoerd in overeenstemming met de laatste stand van wetenschap en techniek, dit ter oordeel van de commissie. Indien een berekening van de te verwachten concentratie in het drink- of warmtapwater op basis van het gebruikte migratiemodel lager is dan de geldende MTC, dan is de uitvoering van een migratietest in het laboratorium niet noodzakelijk.
+Als leidraad voor de berekening van de migratie van stoffen uit materialen die in contact komen met drink- of warmtapwater kan gebruik gemaakt worden van de onder 3.1 genoemde formules en aannames afgeleid van het Piringer model met inachtneming van de criteria vermeld in onderdeel 4 van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01). De berekeningen dienen te worden uitgevoerd in overeenstemming met de laatste stand van wetenschap en techniek, dit ter oordeel van de commissie. Indien een berekening van de te verwachten concentratie in het drink- of warmtapwater op basis van het gebruikte migratiemodel lager is dan de geldende MTC, dan is de uitvoering van een migratietest in het laboratorium niet noodzakelijk.
 
 ### 3.1. Formules en aannames
 
@@ -1444,7 +1444,7 @@ Het gebruik van de maximale diffusiecoëfficiënt Dp* houdt in dat er een oversc
 
 ### 1. Benodigde toxiciteitsgegevens
 
-De toxicologische beoordeling vindt plaats aan de hand van gegevens die verkregen zijn met een serie gestandaardiseerde dierproeven en toetsen met celkweeksystemen. Een nadere aanduiding van de gevraagde testen wordt weergegeven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19).
+De toxicologische beoordeling vindt plaats aan de hand van gegevens die verkregen zijn met een serie gestandaardiseerde dierproeven en toetsen met celkweeksystemen. Een nadere aanduiding van de gevraagde testen wordt weergegeven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01).
 
 ### 1.1. Het basispakket
 
@@ -1476,7 +1476,7 @@ Een belangrijk aspect bij het vaststellen van de MTC van een bepaalde stof is he
 
 ### 2.3. Stoffen zonder drempeldosis
 
-Bij een stochastisch werkingsmechanisme neemt over een bepaald dosistraject de kans op een effect toe met toenemende dosis. Een drempeldosis waaronder geen effect optreedt, is in dit geval in principe niet vast te stellen. Dit werkingsmechanisme heeft in het algemeen betrekking op onomkeerbare effecten op moleculair niveau, bijvoorbeeld onomkeerbare, zichzelf replicerende, DNA-veranderingen (de zogenaamde genotoxische effecten). Voorbeelden van stoffen zonder drempeldosis zijn de genotoxische en carcinogene verbindingen acrylamide, vinylchloride en epichloorhydrine. In overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19), geldt voor deze en overige stoffen zonder drempeldosis een MTC van 0,1 µg/l.
+Bij een stochastisch werkingsmechanisme neemt over een bepaald dosistraject de kans op een effect toe met toenemende dosis. Een drempeldosis waaronder geen effect optreedt, is in dit geval in principe niet vast te stellen. Dit werkingsmechanisme heeft in het algemeen betrekking op onomkeerbare effecten op moleculair niveau, bijvoorbeeld onomkeerbare, zichzelf replicerende, DNA-veranderingen (de zogenaamde genotoxische effecten). Voorbeelden van stoffen zonder drempeldosis zijn de genotoxische en carcinogene verbindingen acrylamide, vinylchloride en epichloorhydrine. In overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01), geldt voor deze en overige stoffen zonder drempeldosis een MTC van 0,1 µg/l.
 
 De waarde van 0,1 µg/l betekent dat de stoffen waaraan deze grenswaarde is toegekend in beginsel niet aantoonbaar mogen zijn (voorzorgsnorm). Hiernaast is echter ook is aangetoond dat de gezondheidsrisico’s voor de mens volgens de huidige maatstaven verwaarloosbaar zijn bij een blootstelling aan genotoxische stoffen in een concentratie lager dan 0,1 µg per liter drinkwater. In het laatste geval wordt de waarde van 0,1 µg/l de **Threshold of Toxicological Concern** waarde (TTC-waarde) genoemd1Volgens de huidige stand van wetenschap kunnen voor verschillende groepen van verbindingen afzonderlijke, hogere TTC-waarden dan 0,1 µg/l worden gehanteerd. Het hanteren van TTC-waarden hoger dan 0,1 µg/l sluit echter niet aan bij het voorzorgsprincipe..
 
@@ -1484,7 +1484,7 @@ De waarde van 0,1 µg/l betekent dat de stoffen waaraan deze grenswaarde is toeg
 
 Treedt het schadelijke effect pas op bij het overschrijden van een bepaalde dosis en neemt de schade vervolgens toe bij het verhogen van deze dosis, dan spreekt men van een zogeheten niet-stochastisch of deterministisch werkingsmechanisme. Voor het afleiden van gezondheidskundige advieswaarden voor stoffen met een drempeldosis wordt in het algemeen de zogeheten NOAEL2NOAEL: no observed adverse effect level. Dit is het hoogste blootstellingsniveau waarbij in proefdieren of bij mensen geen nadelig, aan de blootstelling toe te schrijven, effect op de gezondheid is waargenomen.-onzekerheidsfactor (**uncertainty factor – UF**)-benadering toegepast. Aanvullend tot deze benadering kan ook een algemeen geaccepteerde BenchMark Dose methode worden toegepast.
 
-De toxicologische advieswaarde (de **Tolerable Daily Intake** (TDI) ) wordt bij de eerstgenoemde benadering verkregen door de NOAEL te delen door een factor die onzekerheden in de beschikbare dierexperimentele gegevens en in het vertalen van die gegevens naar de te beschermen bevolkingsgroep in rekening brengt. Indien er voldoende toxiciteitsgegevens beschikbaar zijn en het ontwerp en de uitvoering van de toxiciteitstesten zijn conform de in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2011-07-19&g=2011-07-19) genoemde EU of OECD richtlijnen, dan wordt in de regel een veiligheidsfactor van 100 gehanteerd. Deze factor 100 is samengesteld uit een factor 10 voor de verschillen tussen proefdier en mens (interspecies variatie) en een factor 10 voor de verschillen in gevoeligheid voor stoffen binnen de menselijke populatie (intraspecies variatie). Dit leidt tot de volgende formule:
+De toxicologische advieswaarde (de **Tolerable Daily Intake** (TDI) ) wordt bij de eerstgenoemde benadering verkregen door de NOAEL te delen door een factor die onzekerheden in de beschikbare dierexperimentele gegevens en in het vertalen van die gegevens naar de te beschermen bevolkingsgroep in rekening brengt. Indien er voldoende toxiciteitsgegevens beschikbaar zijn en het ontwerp en de uitvoering van de toxiciteitstesten zijn conform de in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=E&z=2012-04-01&g=2012-04-01) genoemde EU of OECD richtlijnen, dan wordt in de regel een veiligheidsfactor van 100 gehanteerd. Deze factor 100 is samengesteld uit een factor 10 voor de verschillen tussen proefdier en mens (interspecies variatie) en een factor 10 voor de verschillen in gevoeligheid voor stoffen binnen de menselijke populatie (intraspecies variatie). Dit leidt tot de volgende formule:
 
 De TDI vormt de basis voor het vaststellen van de MTC van stoffen met een drempeldosis.
 
@@ -1542,7 +1542,7 @@ Voor het schatten van de concentratie van een stof in het drinkwater dienen de r
 
 Indien vergelijking (3) laat zien dat de betreffende MTC nog steeds wordt overschreden na drie migratieperioden, en dat kan worden aangetoond of verwacht dat de migratiesnelheid in de tijd afneemt, dan kan de migratietest worden uitgebreid tot een maximale migratietijd van 30 dagen.
 
-In aanvulling op [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2011-07-19&g=2011-07-19) van NEN-EN 12873-1 en NEN-EN 12873-2 zijn de migratieperioden voor het testen bij 23 °C: 3 dagen, 3 dagen, 3 dagen–4 dagen, 3 dagen–4 dagen, 3 dagen. De migratie van de relevante parameter(s) dient onderzocht te worden in alle migratiewaters verkregen met een migratieperiode van 3 dagen.
+In aanvulling op [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2012-04-01&g=2012-04-01) van NEN-EN 12873-1 en NEN-EN 12873-2 zijn de migratieperioden voor het testen bij 23 °C: 3 dagen, 3 dagen, 3 dagen–4 dagen, 3 dagen–4 dagen, 3 dagen. De migratie van de relevante parameter(s) dient onderzocht te worden in alle migratiewaters verkregen met een migratieperiode van 3 dagen.
 
 Voor het testen bij 60 °C of 85 °C zijn de migratieperioden: 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag, 1 dag–3 dagen, 1 dag, 1 dag, 1 dag. De migratie van de relevante parameter(s) dient onderzocht te worden in de migratiewaters die verkregen zijn met de derde 1 dag migratieperiode. Indien de migratie is gestopt na de tweede week dienen de relevante paramters bepaald te worden in het migratiewater van de eerste, tweede, derde, zesde, zevende en achtste migratieperiode.
 
@@ -1564,23 +1564,23 @@ Voor sommige (onderdelen van) producten kan een CF < 0,01 d/dm worden berekend. 
 
 ### 4. Berekening van de verwachte concentratie van een stof in drink- of warmtapwater
 
-Indien voor een stof niet de juiste toxiciteitsgegevens volgens onderdeel 1 van deze bijlage verstrekt kunnen worden en indien het gebruik van deze stof, in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2011-07-19&g=2011-07-19) niet vermeden kan worden, dan kan de toelaatbaarheid van de stof beoordeeld worden op grond van informatie die via een theoretische berekening verkregen is. Hierbij gelden de volgende criteria en aannames:
+Indien voor een stof niet de juiste toxiciteitsgegevens volgens onderdeel 1 van deze bijlage verstrekt kunnen worden en indien het gebruik van deze stof, in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01) niet vermeden kan worden, dan kan de toelaatbaarheid van de stof beoordeeld worden op grond van informatie die via een theoretische berekening verkregen is. Hierbij gelden de volgende criteria en aannames:
 
 ## Bijlage E. – Te verstrekken algemene en specifieke gegevens voor de toxicologische beoordeling van producten, niet zijnde metalen, of de samenstellende grond- en hulpstoffen hiervan of de eindproducten van metalen
 
 ### 1. Algemeen, relatie met positieve lijsten en erkende kwaliteitsverklaring
 
-In deze bijlage wordt beschreven welke algemene en specifieke gegevens vereist zijn voor de toxicologische beoordeling van (de grond- en hulpstoffen) van een eindproduct, niet zijnde metalen of de eindproducten hiervan, en de plaatsing van de afzonderlijke grond- en hulpstoffen op één van de positieve lijsten van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19).
+In deze bijlage wordt beschreven welke algemene en specifieke gegevens vereist zijn voor de toxicologische beoordeling van (de grond- en hulpstoffen) van een eindproduct, niet zijnde metalen of de eindproducten hiervan, en de plaatsing van de afzonderlijke grond- en hulpstoffen op één van de positieve lijsten van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01).
 
-In overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=11&z=2011-07-19&g=2011-07-19) wordt een stof, die wordt beoordeeld in het kader van de afgifte van een erkende kwaliteitsverklaring, pas geplaatst op een positieve lijst na toestemming van de aanvrager.
+In overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=11&z=2012-04-01&g=2012-04-01) wordt een stof, die wordt beoordeeld in het kader van de afgifte van een erkende kwaliteitsverklaring, pas geplaatst op een positieve lijst na toestemming van de aanvrager.
 
-De beoordeling van de grond- en hulpstoffen betreft afzonderlijke stoffen, mengsels van stoffen of polymeren die gebruikt wordt als additief, alsmede de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct (zie ook het eerste onderdeel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2011-07-19&g=2011-07-19)). De bedoelde grond- en hulpstoffen dienen gebruikt te worden voor de vervaardiging van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19) beschreven materialen en chemicaliën (eindproducten), met uitzondering van metalen en de eindproducten hiervan.
+De beoordeling van de grond- en hulpstoffen betreft afzonderlijke stoffen, mengsels van stoffen of polymeren die gebruikt wordt als additief, alsmede de verontreinigingen, tussenproducten en ontledingsproducten in het eindproduct (zie ook het eerste onderdeel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2012-04-01&g=2012-04-01)). De bedoelde grond- en hulpstoffen dienen gebruikt te worden voor de vervaardiging van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01) beschreven materialen en chemicaliën (eindproducten), met uitzondering van metalen en de eindproducten hiervan.
 
-De beoordeling van metalen en de eindproducten hiervan gebeurt volgens de regels vermeld in onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2011-07-19&g=2011-07-19).
+De beoordeling van metalen en de eindproducten hiervan gebeurt volgens de regels vermeld in onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2012-04-01&g=2012-04-01).
 
-Eindproducten die zijn samengesteld uit of met materialen waarvoor nog geen algemene beoordelingscriteria zijn vastgesteld, zoals keramische materialen, emaille en siliconen, dienen afzonderlijk beoordeeld te worden in overeenstemming met de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2011-07-19&g=2011-07-19) van de regeling en, indien nodig, aan de hand van door de commissie nader te bepalen criteria.
+Eindproducten die zijn samengesteld uit of met materialen waarvoor nog geen algemene beoordelingscriteria zijn vastgesteld, zoals keramische materialen, emaille en siliconen, dienen afzonderlijk beoordeeld te worden in overeenstemming met de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01) van de regeling en, indien nodig, aan de hand van door de commissie nader te bepalen criteria.
 
-De regels en criteria die gelden voor het verkrijgen van een erkende kwaliteitsverklaring worden genoemd in de [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2011-07-19&g=2011-07-19) van de regeling.
+De regels en criteria die gelden voor het verkrijgen van een erkende kwaliteitsverklaring worden genoemd in de [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2012-04-01&g=2012-04-01) van de regeling.
 
 De aanvraag voor de beoordeling van een eindproduct of een afzonderlijke stof verloopt via de secretaris van de commissie. Het correspondentieadres is: Kiwa Nederland BV, Postbus 70, 2280 AB RIJSWIJK.
 
@@ -1630,7 +1630,7 @@ Informatie over vermelding in EU Richtlijnen, gebruik in andere EU lidstaten of 
 
 ### 2.2.6. Toxiciteitsgegevens
 
-Alle relevante toxiciteitsgegevens over de stof. Onder bepaalde omstandigheden kan het indienen van een beperkter pakket aan gegevens voldoende zijn (zie ook [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19)).
+Alle relevante toxiciteitsgegevens over de stof. Onder bepaalde omstandigheden kan het indienen van een beperkter pakket aan gegevens voldoende zijn (zie ook [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01)).
 
 ### 3. Nadere omschrijving van de te verstrekken gegevens
 
@@ -1754,7 +1754,7 @@ De analysemethode dient zo gedetailleerd beschreven te worden dat een afdoende e
 
 Van de toxiciteitsstudies dienen de volledige, gedateerde en ondertekende rapporten te worden ingediend. De onderzoeken dienen te zijn uitgevoerd volgens internationaal aanvaarde methoden en richtlijnen, zoals beschreven in de [richtlijn 67/548/EG](onbekend) en de meest recente versies van de OECD richtlijnen. Hiernaast dient het onderzoek uitgevoerd te zijn overeenkomstig de beginselen van **good laboratory practice** (OECD Principles of Good Laboratory Practice, Organisation for Economic Co-operation and Development, 1998, Parijs).
 
-De teststoffen moeten nauwkeurig omschreven zijn (zie sectie 1) en dienen de commerciële stoffen te zijn, waarvoor een toelating wordt gevraagd. Met name dient de zuiverheid van de teststof, alsmede de identiteit van de verontreinigingen overeen te komen met die van de commerciële stof (zie [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2011-07-19&g=2011-07-19) voor een nadere toelichting).
+De teststoffen moeten nauwkeurig omschreven zijn (zie sectie 1) en dienen de commerciële stoffen te zijn, waarvoor een toelating wordt gevraagd. Met name dient de zuiverheid van de teststof, alsmede de identiteit van de verontreinigingen overeen te komen met die van de commerciële stof (zie [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=D&z=2012-04-01&g=2012-04-01) voor een nadere toelichting).
 
 ### 3.6.1. Genotoxiciteit
 
