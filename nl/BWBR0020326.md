@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 ##### Artikel 6
 
-De artikelen [23 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=23), [34 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), en [45 tot en met 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2).
+[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), [38, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) en [paragraaf 6.2 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.2) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2).
 
 ##### Artikel 7
 
