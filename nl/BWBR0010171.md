@@ -4,7 +4,7 @@ identifier: "BWBR0010171"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2011-04-09"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010171"
 soort: "ministeriele-regeling"
@@ -74,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - m. verlof: het, al dan niet onder begeleiding of bewaking, tijdelijk verlaten van de inrichting voor één van de in deze regeling genoemde doeleinden.
 
-- n. algemeen verlof: verlof als bedoeld in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=14&z=2011-04-09&g=2011-04-09) van deze regeling;
+- n. algemeen verlof: verlof als bedoeld in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=14&z=2012-04-01&g=2012-04-01) van deze regeling;
 
-- o. regimesgebonden verlof: verlof als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=19&z=2011-04-09&g=2011-04-09) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=20&z=2011-04-09&g=2011-04-09) van deze regeling;
+- o. regimesgebonden verlof: verlof als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=19&z=2012-04-01&g=2012-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=20&z=2012-04-01&g=2012-04-01) van deze regeling;
 
-- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2011-04-09&g=2011-04-09) van deze regeling;
+- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2012-04-01&g=2012-04-01) van deze regeling;
 
-- q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2011-04-09&g=2011-04-09) van deze regeling;
+- q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2012-04-01&g=2012-04-01) van deze regeling;
 
 - r. vervolgverlof: een verlof dat volgt op een zonder incidenten verlopen eerder algemeen verlof;
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 1. De directeur neemt het verzoek om verlof in ontvangst.
 
-2. De minister beslist over verzoeken om verlof in de gevallen bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=17&z=2011-04-09&g=2011-04-09), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2011-04-09&g=2011-04-09) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2011-04-09&g=2011-04-09). In de overige gevallen beslist de directeur namens de minister.
+2. De minister beslist over verzoeken om verlof in de gevallen bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=17&z=2012-04-01&g=2012-04-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2012-04-01&g=2012-04-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2012-04-01&g=2012-04-01). In de overige gevallen beslist de directeur namens de minister.
 
 ##### Artikel 3. Inlichtingen en adviezen
 
@@ -134,7 +134,7 @@ Het verlof wordt geweigerd in geval van:
 
 ##### Artikel 5. Voorwaarden
 
-1. Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het algemeen, regimesgebonden of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.
+1. Tenzij hij zijn verlofadres redelijkerwijs alleen over buitenlands grondgebied kan bereiken, is het de gedetineerde niet toegestaan tijdens het algemeen, regimesgebonden of incidenteel verlof Nederland te verlaten. In bijzondere omstandigheden en in geval van de toepassing van [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5a&artikel=40a&z=2012-04-01&g=2012-04-01) kan de minister toestaan dat de gedetineerde aan wie strafonderbreking is verleend in het buitenland verblijft.
 
 2. Bij de verlening van het verlof kunnen bijzondere voorwaarden worden gesteld, die het gedrag van de gedetineerde betreffen.
 
@@ -154,7 +154,7 @@ Het verlof wordt geweigerd in geval van:
 
 ##### Artikel 8. Tenuitvoerlegging straf tijdens verlof
 
-Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2011-04-09&g=2011-04-09), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
+Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2012-04-01&g=2012-04-01), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
 
 ##### Artikel 9. Overplaatsing
 
@@ -284,13 +284,13 @@ In verband met gewijzigde omstandigheden kan de directeur een reeds verleend alg
 
 ##### Artikel 20a
 
-Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2a), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=9&z=2011-04-09&g=2011-04-09) niet van toepassing.
+Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2a), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=9&z=2012-04-01&g=2012-04-01) niet van toepassing.
 
 ### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
 ##### Artikel 20b
 
-[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2011-04-09&g=2011-04-09), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
+[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2012-04-01&g=2012-04-01), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
 
 ##### Artikel 20c
 
@@ -416,7 +416,7 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 
 - l. gedetineerden die, al dan niet onherroepelijk, zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan twee jaar;
 
-- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2011-04-09&g=2011-04-09), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
+- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2012-04-01&g=2012-04-01), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
 
 ##### Artikel 33. Gewijzigde omstandigheden
 
@@ -434,7 +434,7 @@ Bij het bepalen van de duur van de strafonderbreking wordt rekening gehouden met
 
 ##### Artikel 36. Bezoek
 
-Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2011-04-09&g=2011-04-09) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2011-04-09&g=2011-04-09). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2011-04-09&g=2011-04-09), is van overeenkomstige toepassing.
+Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2012-04-01&g=2012-04-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2012-04-01&g=2012-04-01). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2012-04-01&g=2012-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37. Medische en therapeutische redenen
 
@@ -485,6 +485,22 @@ Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden
 ### Hoofdstuk 4. Incidenteel verlof
 
 ### Hoofdstuk 5. Strafonderbreking
+
+### Hoofdstuk 5a. Strafonderbreking vreemdelingen zonder rechtmatig verblijf in Nederland
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 40a
+
+1. Aan de vreemdeling die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), kan strafonderbreking voor onbepaalde tijd worden verleend.
+
+2. Indien een vrijheidsstraf van ten hoogste drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste de helft van de straf is ondergaan. Indien een vrijheidsstraf van meer dan drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste tweederde gedeelte van de straf is ondergaan.
+
+3. De strafonderbreking gaat in op het moment dat de vreemdeling Nederland daadwerkelijk heeft verlaten.
+
+4. Aan de strafonderbreking wordt de voorwaarde verbonden dat de vreemdeling niet naar Nederland terugkeert. Indien de vreemdeling de voorwaarde, bedoeld in het derde lid, niet naleeft, wordt de tenuitvoerlegging van de straf hervat.
+
+5. De [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2012-04-01&g=2012-04-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=40&z=2012-04-01&g=2012-04-01) zijn van toepassing.
 
 ### Hoofdstuk 6. Overgangsbepaling, inwerkingtreding en citeertitel
 
