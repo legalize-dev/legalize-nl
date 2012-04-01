@@ -4,7 +4,7 @@ identifier: "BWBR0029342"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029342"
 soort: "wet"
@@ -85,11 +85,11 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel VIII
 
-Het ingevolge [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-01-01&g=2012-01-01), gewijzigde [artikel 1a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet, met dien verstande dat:
+Het ingevolge [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-04-01&g=2012-04-01), gewijzigde [artikel 1a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet, met dien verstande dat:
 
-- a. de voorwaarde van het in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-01-01&g=2012-01-01), opgenomen [artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) voor het eerst toepassing vindt met ingang van 1 januari 2012;
+- a. de voorwaarde van het in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-04-01&g=2012-04-01), opgenomen [artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) voor het eerst toepassing vindt met ingang van 1 januari 2012;
 
-- b. indien een notarieel samenlevingscontract als bedoeld in het in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-01-01&g=2012-01-01), opgenomen [artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) is verleden in de periode tot 1 januari 2012, geacht wordt te zijn voldaan aan de termijn, bedoeld in het in artikel VII, onderdeel A, opgenomen artikel 1a, tweede lid, onderdeel a, van de Successiewet 1956.
+- b. indien een notarieel samenlevingscontract als bedoeld in het in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-04-01&g=2012-04-01), opgenomen [artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) is verleden in de periode tot 1 januari 2012, geacht wordt te zijn voldaan aan de termijn, bedoeld in het in artikel VII, onderdeel A, opgenomen artikel 1a, tweede lid, onderdeel a, van de Successiewet 1956.
 
 ##### Artikel IX
 
@@ -117,15 +117,15 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XVI
 
-Voor de reisdienst, bedoeld in het in [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XV&z=2012-01-01&g=2012-01-01) opgenomen [hoofdstuk V, afdeling 10, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&afdeling=10), die op of na 1 april 2012 wordt verricht, waarvan de vergoeding vóór die datum geheel of gedeeltelijk is ontvangen, wordt de omzetbelasting over het ontvangen deel in afwijking van [artikel 13 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=13) verschuldigd op 1 april 2012.
+Voor de reisdienst, bedoeld in het in [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XV&z=2012-04-01&g=2012-04-01) opgenomen [hoofdstuk V, afdeling 10, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&afdeling=10), die op of na 1 april 2012 wordt verricht, waarvan de vergoeding vóór die datum geheel of gedeeltelijk is ontvangen, wordt de omzetbelasting over het ontvangen deel in afwijking van [artikel 13 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=13) verschuldigd op 1 april 2012.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+De werkelijk door het reisbureau als bedoeld in [hoofdstuk V, afdeling 10, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&afdeling=10) gedragen kosten voor goederen en diensten van andere ondernemers die de reiziger rechtstreeks ten goede komen, maken geen deel uit van de winstmargeberekening van [artikel 28zb van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28zb) ingeval de belasting ter zake in aftrek is gebracht of is teruggevraagd.
 
 ##### Artikel XVIII
 
@@ -179,29 +179,29 @@ Wijzigt de Belastingwet BES.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
-- a. de wijziging ingevolge [artikel XXII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XXII&z=2012-01-01&g=2012-01-01), voor het eerst toepassing vindt met betrekking tot beschikkingen waarvan de dagtekening ligt na 31 december 2010;
+- a. de wijziging ingevolge [artikel XXII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XXII&z=2012-04-01&g=2012-04-01), voor het eerst toepassing vindt met betrekking tot beschikkingen waarvan de dagtekening ligt na 31 december 2010;
 
-- b. de wijzigingen ingevolge [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-01-01&g=2012-01-01), voor het eerst toepassing vinden met betrekking tot jaren die aanvangen op of na 1 januari 2011;
+- b. de wijzigingen ingevolge [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-04-01&g=2012-04-01), voor het eerst toepassing vinden met betrekking tot jaren die aanvangen op of na 1 januari 2011;
 
-- c. de wijzigingen ingevolge [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-01-01&g=2012-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.
+- c. de wijzigingen ingevolge [artikel IV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-04-01&g=2012-04-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.
 
-2. [Artikel XXIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XXIVA&z=2012-01-01&g=2012-01-01) werkt terug tot en met 1 augustus 2008.
+2. [Artikel XXIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XXIVA&z=2012-04-01&g=2012-04-01) werkt terug tot en met 1 augustus 2008.
 
-3. [Artikel I, onderdelen D, E en J](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=I&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 januari 2009.
+3. [Artikel I, onderdelen D, E en J](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=I&z=2012-04-01&g=2012-04-01), werkt terug tot en met 1 januari 2009.
 
-4. [Artikel XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XX&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 juli 2009.
+4. [Artikel XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XX&z=2012-04-01&g=2012-04-01), werkt terug tot en met 1 juli 2009.
 
-5. [Artikel I, onderdelen C, onder 1 en 4, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=I&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 januari 2010.
+5. [Artikel I, onderdelen C, onder 1 en 4, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=I&z=2012-04-01&g=2012-04-01), werkt terug tot en met 1 januari 2010.
 
-6. In afwijking van het eerste lid treedt [artikel IV, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-01-01&g=2012-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op het in dat onderdeel genoemde lichaam.
+6. In afwijking van het eerste lid treedt [artikel IV, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=IV&z=2012-04-01&g=2012-04-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op het in dat onderdeel genoemde lichaam.
 
-7. In afwijking van het eerste lid treedt [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIV&z=2012-01-01&g=2012-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 5 december 2010.
+7. In afwijking van het eerste lid treedt [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIV&z=2012-04-01&g=2012-04-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 5 december 2010.
 
-8. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=III&z=2012-01-01&g=2012-01-01), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=X&z=2012-01-01&g=2012-01-01), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XI&z=2012-01-01&g=2012-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XII&z=2012-01-01&g=2012-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIII&z=2012-01-01&g=2012-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij voor de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XI&z=2012-01-01&g=2012-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIII&z=2012-01-01&g=2012-01-01) terugwerkende kracht kan worden verleend tot en met 1 januari 2011.
+8. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=III&z=2012-04-01&g=2012-04-01), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=X&z=2012-04-01&g=2012-04-01), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XI&z=2012-04-01&g=2012-04-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XII&z=2012-04-01&g=2012-04-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIII&z=2012-04-01&g=2012-04-01) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij voor de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XI&z=2012-04-01&g=2012-04-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIII&z=2012-04-01&g=2012-04-01) terugwerkende kracht kan worden verleend tot en met 1 januari 2011.
 
-9. In afwijking van het eerste lid treden de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XV&z=2012-01-01&g=2012-01-01) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XVII&z=2012-01-01&g=2012-01-01) in werking met ingang van 1 april 2012.
+9. In afwijking van het eerste lid treden de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XV&z=2012-04-01&g=2012-04-01) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XVII&z=2012-04-01&g=2012-04-01) in werking met ingang van 1 april 2012.
 
-10. In afwijking van het eerste lid treedt [artikel VII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-01-01&g=2012-01-01), in werking op 1 januari 2012.
+10. In afwijking van het eerste lid treedt [artikel VII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=VII&z=2012-04-01&g=2012-04-01), in werking op 1 januari 2012.
 
 ##### Artikel XXIX
 
