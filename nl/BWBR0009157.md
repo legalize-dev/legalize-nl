@@ -4,7 +4,7 @@ identifier: "BWBR0009157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2007-01-19"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009157"
 soort: "ministeriele-regeling"
@@ -46,15 +46,17 @@ In deze regeling wordt verstaan onder instelling: een instelling als bedoeld in 
 
 ##### Artikel 2
 
-1. De instelling die, of het onderdeel daarvan dat ophoudt te bestaan of ophoudt als zodanig te bestaan, is aan de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel voor de dekking van de financiële lasten die vanaf dan ontstaan wegens beëindiging van de gebondenheid aan een vut-overeenkomst van personen die behoren of behoorden tot het personeel van de instelling, een vergoeding verschuldigd.
+1. De instelling die, of het onderdeel daarvan dat ophoudt te bestaan of ophoudt als zodanig te bestaan, is aan de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel voor de dekking van de financiële lasten die vanaf dan ontstaan wegens beëindiging van de gebondenheid aan de vut-overeenkomst, een vergoeding verschuldigd.
 
-2. Het bedrag van de vergoeding wordt door het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel vastgesteld op het saldo van de contante waarde van de door die stichting gemiste premie-inkomsten voor de in het eerste lid bedoelde personen, verminderd met de contante waarde van de vervallen verplichtingen van de stichting jegens die personen.
+2. Het bedrag van de vergoeding wordt door het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel vastgesteld op het saldo van de contante waarde van de door die stichting gemiste premie-inkomsten voor personen die behoren of behoorden tot het personeel van de instelling, verminderd met de contante waarde van de vervallen verplichtingen van de stichting jegens die personen.
 
-3. Het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidpersoneel stelt nadere regels omtrent de betaling van de vergoeding.
+3. In afwijking van het tweede lid wordt indien sprake is van een afwikkeling van de aansluiting het bedrag van de vergoeding door het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel vastgesteld op de contante waarde van de te missen premie-inkomsten ten opzichte van een reguliere aansluiting.
+
+4. Het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidpersoneel stelt nadere regels omtrent de betaling van de vergoeding.
 
 ##### Artikel 3
 
-De plicht tot betaling van de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2007-01-19&g=2007-01-19), rust mede op het publiekrechtelijk lichaam waarvan de betrokken instelling onderdeel is of tot welk lichaam de instelling in een relatie staat op grond van een financiële verhouding dan wel doelstelling, mits dat lichaam op grond van die relatie de instelling heeft doen of mede heeft doen ophouden te bestaan onderscheidenlijk als zodanig te bestaan.
+De plicht tot betaling van de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2012-04-01&g=2012-04-01), rust mede op het publiekrechtelijk lichaam waarvan de betrokken instelling onderdeel is of tot welk lichaam de instelling in een relatie staat op grond van een financiële verhouding dan wel doelstelling, mits dat lichaam op grond van die relatie de instelling heeft doen of mede heeft doen ophouden te bestaan onderscheidenlijk als zodanig te bestaan.
 
 ##### Artikel 4
 
@@ -62,11 +64,11 @@ Het gezag of bestuur van een instelling meldt aan het bestuur van de Stichting f
 
 ##### Artikel 5
 
-In het geval dat bij een instelling de omvang van taken wordt verminderd zodanig dat dit gepaard gaat met een vermindering van het arbeidsvolume en daarmee een situatie ontstaat die naar het oordeel van het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel niet wezenlijk verschilt van de situatie waarin die instelling ophoudt te bestaan of ophoudt als zodanig te bestaan, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2007-01-19&g=2007-01-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=3&z=2007-01-19&g=2007-01-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=4&z=2007-01-19&g=2007-01-19) van overeenkomstige toepassing.
+In het geval dat bij een instelling de omvang van taken wordt verminderd zodanig dat dit gepaard gaat met een vermindering van het arbeidsvolume en daarmee een situatie ontstaat die naar het oordeel van het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel niet wezenlijk verschilt van de situatie waarin die instelling ophoudt te bestaan of ophoudt als zodanig te bestaan, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2012-04-01&g=2012-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=3&z=2012-04-01&g=2012-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=4&z=2012-04-01&g=2012-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2007-01-19&g=2007-01-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=3&z=2007-01-19&g=2007-01-19) zijn niet van toepassing ten aanzien van een instelling die ophoudt te bestaan en waarvan de activiteit en het daarbij behorende arbeidsvolume overgaan naar een andere instelling, tenzij binnen één jaar na het tijdstip waarop het arbeidsvolume is overgegaan een naar het oordeel van het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel wezenlijke vermindering van het arbeidsvolume optreedt.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=2&z=2012-04-01&g=2012-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009157&artikel=3&z=2012-04-01&g=2012-04-01) zijn niet van toepassing ten aanzien van een instelling die ophoudt te bestaan en waarvan de activiteit en het daarbij behorende arbeidsvolume overgaan naar een andere instelling, tenzij binnen één jaar na het tijdstip waarop het arbeidsvolume is overgegaan een naar het oordeel van het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel wezenlijke vermindering van het arbeidsvolume optreedt.
 
 ##### Artikel 7
 
