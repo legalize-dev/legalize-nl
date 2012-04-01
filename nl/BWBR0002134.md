@@ -4,7 +4,7 @@ identifier: "BWBR0002134"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-10-10"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002134"
 soort: "wet"
@@ -46,61 +46,71 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. Onverminderd het bepaalde in met andere Mogendheden gesloten uitleveringsverdragen, kunnen personen aan een andere Mogendheid ter berechting worden overgeleverd ter zake van één der misdrijven, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=3&z=2010-10-10&g=2010-10-10), [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=5&z=2010-10-10&g=2010-10-10) en, voor zover met de in die artikelen bedoelde feiten verband houdend, [artikel 9 van de Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&artikel=9), indien het feit een ernstige schending oplevert van:
+2. Onverminderd het bepaalde in met andere staten gesloten verdragen, kunnen personen aan een andere staat worden overgeleverd ter zake van één van de misdrijven omschreven in de [Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252), indien het feit een schending oplevert van:
 
-- a. het Verdrag van Genève van 12 augustus 1949 voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
+- a. het op 9 december 1948 te Parijs tot stand gekomen Verdrag inzake de voorkoming en de bestraffing van genocide (Trb. 1960, 32);
 
-- b. het Verdrag van Genève van 12 augustus 1949 voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
+- b. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde (Trb. 1951, 72);
 
-- c. het Verdrag van Genève van 12 augustus 1949 betreffende de behandeling van krijgsgevangenen;
+- c. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag van Genève voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee (Trb. 1951, 73);
 
-- d. het Verdrag van Genève van 12 augustus 1949 betreffende de bescherming van burgers in oorlogstijd;
+- d. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag van Genève betreffende de behandeling van krijgsgevangenen (Trb. 1951, 74);
 
-- e. het Aanvullend Protocol bij die Verdragen betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977; of
+- e. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag van Genève betreffende de bescherming van burgers in oorlogstijd (Trb. 1951, 75);
 
-- f. het Tweede Protocol bij het Haagse Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict van 26 maart 1999.
+- f. het op 8 juni 1977 te Bern tot stand gekomen Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949 betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) (Trb. 1980, 87);
+
+- g. het op 8 juni 1977 te Bern tot stand gekomen Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949 betreffende de bescherming van de slachtoffers van niet-internationale gewapende conflicten (Protocol II) (Trb. 1980, 88);
+
+- h. het op 10 december 1984 te New York tot stand gekomen Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing (Trb. 1985, 69);
+
+- i. het op 26 maart 1999 te ’s-Gravenhage tot stand gekomen Tweede Protocol bij het Haagse Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict van 26 maart 1999 (Trb. 1999, 107);
+
+- j. het op 10 december 2006 te New York tot stand gekomen Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning (Trb. 2008, 173).
 
 ##### Artikel 2
 
-De overlevering kan slechts aan een andere Mogendheid geschieden, indien deze partij is bij het geschonden Verdrag.
+De overlevering aan een andere staat kan slechts geschieden, indien deze partij is bij het geschonden verdrag.
 
 ##### Artikel 3
 
-1. Voor zover door Ons niet anders wordt bepaald, wordt de overlevering aangevraagd langs diplomatieke weg.
+1. Personen van wie de overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2012-04-01&g=2012-04-01) door een andere staat wordt verzocht, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
 
-2. Zij wordt slechts toegestaan, indien de andere Mogendheid een met voldoende bewijzen gestaafde telastlegging welke een vervolging rechtvaardigt, inbrengt.
+2. Het bevel van aanhouding moet hun binnen tweemaal vierentwintig uren worden betekend.
+
+3. De op en bij hen zijnde voorwerpen kunnen worden in beslag genomen.
+
+4. Binnen vierentwintig uren na de aanhouding wordt daarvan kennis gegeven aan de officier van justitie bij het arrondissementsparket te ‘s-Gravenhage.
+
+5. Het vierde lid blijft buiten toepassing indien de aanhouding in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft plaatsgevonden. In dat geval wordt de officier van justitie bij het arrondissementsparket te Amsterdam binnen vierentwintig uren na de aanhouding daarvan kennis gegeven.
 
 ##### Artikel 4
 
-1. Personen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-10-10&g=2010-10-10) door een andere Mogendheid wordt aangevraagd, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
+1. Alvorens over een verzoek tot overlevering te beslissen, wordt het advies ingewonnen van de rechtbank te ‘s-Gravenhage.
 
-2. Het bevel van aanhouding moet hun binnen tweemaal vier en twintig uren worden betekend.
+2. De rechtbank beslist bij zijn advies, welke van de in beslag genomen voorwerpen, in geval van overlevering, aan de opgeëiste persoon zullen worden teruggegeven, en welke, als stukken van overtuiging, zullen worden afgegeven.
 
-3. De op en bij hen zijnde goederen kunnen worden in beslag genomen.
-
-4. Binnen vier en twintig uren na de aanhouding wordt daarvan kennis gegeven aan het openbaar ministerie bij het gerecht, dat bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
-
-5. Het vierde lid blijft buiten toepassing indien de aanhouding in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft plaatsgevonden. In dat geval wordt de officier van justitie bij het arrondissementsparket te Amsterdam binnen vierentwintig uur na de aanhouding daarvan kennis gegeven.
-
-##### Artikel 5
-
-1. Alvorens over een aanvrage tot overlevering te beslissen, wordt het advies ingewonnen van het gerecht, dat bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
-
-2. Het gerecht beslist bij zijn advies, welke der in beslag genomen goederen, in geval van overlevering, aan de opgeëiste persoon zullen worden teruggegeven, en welke, als stukken van overtuiging, zullen worden afgegeven.
-
-3. Overlevering vindt in geen geval plaats, indien het gerecht adviseert de overlevering niet toe te staan.
+3. Overlevering vindt in geen geval plaats, indien de rechtbank adviseert de overlevering niet toe te staan.
 
 4. Voor de toepassing van de voorgaande leden treedt de rechtbank te Amsterdam in de plaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, indien dat gerecht bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
 
+##### Artikel 5
+
+1. Onze Minister van Veiligheid en Justitie kan toestemming verlenen tot het over Nederlands grondgebied vervoeren van een persoon wiens overlevering ter zake van één van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2012-04-01&g=2012-04-01) genoemde misdrijven door een andere staat aan een derde staat is toegestaan.
+
+2. Indien het vervoer plaatsvindt ten behoeve van overlevering aan een derde staat, geldt de voorwaarde dat de toestemming alleen kan worden gegeven indien die derde staat partij is bij het geschonden verdrag.
+
+3. Onder Nederlands grondgebied wordt mede verstaan het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
 ##### Artikel 6
 
-1. De Regering kan vergunnen, dat een vreemdeling, wiens overlevering ter zake van een ernstige schending van één der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-10-10&g=2010-10-10) genoemde Verdragen door een andere Mogendheid aan een derde Mogendheid is toegestaan, over het Nederlands grondgebied onder medegeleide van Nederlandse ambtenaren wordt vervoerd, mits de Mogendheid aan welke de overlevering geschiedt, partij is bij het geschonden Verdrag.
-
-2. Onder Nederlands grondgebied wordt mede verstaan het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba.
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=5), [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=8), [12 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=12) en [51 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=51) zijn van overeenkomstige toepassing, met dien verstande dat de voorlopige aanhouding ook kan worden bevolen in gevallen waarin de mogelijkheid daartoe niet bij verdrag is voorzien.
 
 ##### Artikel 7
 
-De artikelen 9, 10, 12-17, 20-40, 46, 47 en 51-60 van de [Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559) zijn van overeenkomstige toepassing, zulks met dien verstande dat de voorlopige aanhouding ook kan worden bevolen in gevallen waarin de mogelijkheid daartoe niet bij verdrag is voorzien.
+1. De aanvraag tot overlevering betreffende een persoon die zich bevindt in de openbare lichamen Bonaire, Sint Eustatius en Saba die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend en waarover op dat tijdstip nog niet is beslist, wordt behandeld door het vanaf dat tijdstip bevoegde orgaan en afgehandeld met inachtneming van de bepalingen van deze wet.
+
+2. De persoon, bedoeld in het eerste lid, die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), met het oog op overlevering gedetineerd is, wordt beschouwd als iemand die krachtens deze wet in bewaring wordt gehouden of in verzekering is gesteld.
 
 ##### Artikel 8
 
@@ -116,8 +126,6 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-1. De aanvraag tot overlevering betreffende een persoon die zich bevindt in de openbare lichamen Bonaire, Sint Eustatius en Saba die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend en waarover op dat tijdstip nog niet is beslist, wordt behandeld door het vanaf dat tijdstip bevoegde orgaan en afgehandeld met inachtneming van de bepalingen van deze wet.
-
-2. De persoon, bedoeld in het eerste lid, die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), met het oog op overlevering gedetineerd is, wordt beschouwd als iemand die krachtens deze wet in bewaring wordt gehouden of in verzekering is gesteld.
+Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
