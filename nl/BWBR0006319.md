@@ -4,7 +4,7 @@ identifier: "BWBR0006319"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2006-01-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006319"
 soort: "wet"
@@ -67,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Op het tijdstip van de inwerkingtreding van deze wet gaan alle vermogensbestanddelen van het Spoorwegpensioenfonds onder algemene titel over naar de Stichting Spoorwegpensioenfonds.
 
-2. Aan de beheerders van de openbare registers waarin overgang van rechten of verandering van tenaamstelling kan worden ingeschreven ten aanzien van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01) bedoelde vermogensbestanddelen, worden door de zorg van het bestuur van het Spoorwegpensioenfonds de daartoe vereiste opgaven gedaan.
+2. Aan de beheerders van de openbare registers waarin overgang van rechten of verandering van tenaamstelling kan worden ingeschreven ten aanzien van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=3&z=2012-04-01&g=2012-04-01) bedoelde vermogensbestanddelen, worden door de zorg van het bestuur van het Spoorwegpensioenfonds de daartoe vereiste opgaven gedaan.
 
 ##### Artikel 3
 
@@ -87,7 +87,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De belanghebbende verkrijgt op het tijdstip van de inwerkingtreding van deze wet aanspraken jegens de Stichting Spoorwegpensioenfonds die in totaliteit gelijkwaardig zijn aan het uitzicht of het recht op pensioen dat hij ontleent aan de Spoorwegpensioenwet, voor zover in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01) niet anders wordt bepaald.
+1. De belanghebbende verkrijgt op het tijdstip van de inwerkingtreding van deze wet aanspraken jegens de Stichting Spoorwegpensioenfonds die in totaliteit gelijkwaardig zijn aan het uitzicht of het recht op pensioen dat hij ontleent aan de Spoorwegpensioenwet, voor zover in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01) niet anders wordt bepaald.
 
 2. De belanghebbende verkrijgt de in het eerste lid bedoelde aanspraken jegens de Stichting Spoorwegpensioenfonds.
 
@@ -173,17 +173,17 @@ De door de Directie van het Spoorwegpensioenfonds vastgestelde mate van algemene
 
 1. Voor de vaststelling van de hoogte van de uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) geldt als dagloon voor:
 
-- a. de in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde belanghebbende, de verdienstegrondslag van N.S. als bedoeld in het Reglement Dienstvoorwaarden, zoals deze luidde op de dag voorafgaande aan de inwerkingtreding van deze wet, waarnaar de uitkering bij arbeidsongeschiktheid door ziekte wordt berekend op de dag voorafgaande aan de inwerkingtreding van deze wet, gedeeld door 261;
+- a. de in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01), bedoelde belanghebbende, de verdienstegrondslag van N.S. als bedoeld in het Reglement Dienstvoorwaarden, zoals deze luidde op de dag voorafgaande aan de inwerkingtreding van deze wet, waarnaar de uitkering bij arbeidsongeschiktheid door ziekte wordt berekend op de dag voorafgaande aan de inwerkingtreding van deze wet, gedeeld door 261;
 
-- b. de in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde belanghebbende, de middelsom bedoeld in artikel F 5 en aangepast overeenkomstig artikel A 8 van de Spoorwegpensioenwet, welke middelsom wordt vermenigvuldigd met:
+- b. de in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01), bedoelde belanghebbende, de middelsom bedoeld in artikel F 5 en aangepast overeenkomstig artikel A 8 van de Spoorwegpensioenwet, welke middelsom wordt vermenigvuldigd met:
 
 - 1°. een factor waarvan de teller gelijk is aan 1 en de noemer aan 261 voor de belanghebbende waarbij artikel F 7**a**, derde lid, van die wet is toegepast, of
 
 - 2°. een factor waarvan de teller gelijk is aan 1 verhoogd met 10%, danwel met een percentage dat overeenkomt met het maximum, bedoeld in artikel F 5, vierde lid, van die wet, gedeeld door de aangepaste middelsom, en de noemer aan 261 voor de belanghebbende waarbij artikel F 7**a**, derde lid, onderdeel **b**, van die wet is toegepast.
 
-- c. de in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde belanghebbende, de berekeningsgrondslag van N.S. waarnaar het loon zoals dat gold voor de oorspronkelijke functie is berekend, aangepast overeenkomstig de bruto-loonontwikkelingen bij de N.S. tot aan het tijdstip van de inwerkingtreding van deze wet, gedeeld door 261;
+- c. de in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01), bedoelde belanghebbende, de berekeningsgrondslag van N.S. waarnaar het loon zoals dat gold voor de oorspronkelijke functie is berekend, aangepast overeenkomstig de bruto-loonontwikkelingen bij de N.S. tot aan het tijdstip van de inwerkingtreding van deze wet, gedeeld door 261;
 
-- d. de in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde belanghebbende, de berekeningsgrondslag van N.S. zoals die geldt op het tijdstip van inwerkingtreding van deze wet gedeeld, door 261.
+- d. de in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01), bedoelde belanghebbende, de berekeningsgrondslag van N.S. zoals die geldt op het tijdstip van inwerkingtreding van deze wet gedeeld, door 261.
 
 2. Het dagloon bedraagt ten hoogste het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, met betrekking tot een loontijdvak van een dag.
 
@@ -193,7 +193,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze wet recht heeft op een uitkering als bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2006-01-01&g=2006-01-01), of een herplaatsingswachtgeld krachtens de Spoorwegpensioenwet, heeft vanaf de inwerkingtreding van deze wet recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), indien hij terzake van de beëindiging van zijn arbeidsverhouding tot N.S. recht op uitkering op grond van die wet zou hebben gehad indien die arbeidsverhouding als dienstbetrekking in de zin van die wet zou zijn aangemerkt, en dat recht nog zou voortduren op eerstgenoemde tijdstip.
+1. De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze wet recht heeft op een uitkering als bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2012-04-01&g=2012-04-01), of een herplaatsingswachtgeld krachtens de Spoorwegpensioenwet, heeft vanaf de inwerkingtreding van deze wet recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), indien hij terzake van de beëindiging van zijn arbeidsverhouding tot N.S. recht op uitkering op grond van die wet zou hebben gehad indien die arbeidsverhouding als dienstbetrekking in de zin van die wet zou zijn aangemerkt, en dat recht nog zou voortduren op eerstgenoemde tijdstip.
 
 2. De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze wet in een arbeidsverhouding tot N.S. staat, maar niet meer op het tijdstip van inwerkingtreding van deze wet, heeft recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), vanaf de dag, waarop dit recht zou zijn ontstaan indien de arbeidsverhouding tot N.S. als dienstbetrekking in de zin van die wet zou zijn aangemerkt.
 
@@ -201,15 +201,15 @@ Vervallen
 
 ##### Artikel 13
 
-1. Voor de vaststelling van de uitkeringsduur op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2006-01-01&g=2006-01-01), wordt het recht op uitkering op grond van die wet aangemerkt te zijn ontstaan op het tijdstip, waarop de in [artikel 7, eerste lid, onderdelen **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2006-01-01&g=2006-01-01), bedoelde uitkering of herplaatsingswachtgeld is aangevangen.
+1. Voor de vaststelling van de uitkeringsduur op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2012-04-01&g=2012-04-01), wordt het recht op uitkering op grond van die wet aangemerkt te zijn ontstaan op het tijdstip, waarop de in [artikel 7, eerste lid, onderdelen **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2012-04-01&g=2012-04-01), bedoelde uitkering of herplaatsingswachtgeld is aangevangen.
 
-2. De resterende uitkeringsduur op het tijdstip van inwerkingtreding van deze wet wordt bepaald door op de, krachtens het eerste lid vast te stellen uitkeringsduur, de periode waarover de in [artikel 7, eerste lid, onderdelen **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2006-01-01&g=2006-01-01), bedoelde uitkering of herplaatsingswachtgeld is ontvangen, in mindering te brengen.
+2. De resterende uitkeringsduur op het tijdstip van inwerkingtreding van deze wet wordt bepaald door op de, krachtens het eerste lid vast te stellen uitkeringsduur, de periode waarover de in [artikel 7, eerste lid, onderdelen **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2012-04-01&g=2012-04-01), bedoelde uitkering of herplaatsingswachtgeld is ontvangen, in mindering te brengen.
 
-3. In afwijking van het tweede lid eindigt de duur van de uitkering, bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42), van de persoon, wiens uitkering als bedoeld in [artikel 7, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2006-01-01&g=2006-01-01) of wiens herplaatsingswachtgeld krachtens de Spoorwegpensioenwet is aangevangen voor 1 januari 1987 en die op de ingangsdatum van de uitkering 57,5 jaar of ouder was, op de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt.
+3. In afwijking van het tweede lid eindigt de duur van de uitkering, bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42), van de persoon, wiens uitkering als bedoeld in [artikel 7, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2012-04-01&g=2012-04-01) of wiens herplaatsingswachtgeld krachtens de Spoorwegpensioenwet is aangevangen voor 1 januari 1987 en die op de ingangsdatum van de uitkering 57,5 jaar of ouder was, op de dag waarop hij de leeftijd van 65 jaar bereikt.
 
 ##### Artikel 14
 
-1. Voor de berekening van de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2006-01-01&g=2006-01-01), geldt als dagloon de uitkeringsgrondslag waarnaar de uitkering van N.S. wordt berekend op de dag voorafgaande aan de inwerkingtreding van deze wet, gedeeld door 261.
+1. Voor de berekening van de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2012-04-01&g=2012-04-01), geldt als dagloon de uitkeringsgrondslag waarnaar de uitkering van N.S. wordt berekend op de dag voorafgaande aan de inwerkingtreding van deze wet, gedeeld door 261.
 
 2. Het dagloon van de werknemer, die een uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) naar een arbeidsongeschiktheid van minder dan 80% ontvangt of - indien het bepaalde in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) of [33 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=33) te zijnen aanzien niet van toepassing was - zou ontvangen, wordt evenredig verlaagd door het te vermenigvuldigen met een breuk, waarvan de teller wordt gevormd door het verschil tussen 100 en het midden van de arbeidsongeschiktheidsklasse, waarin de werknemer is ingedeeld en de noemer door het getal 100.
 
@@ -219,19 +219,19 @@ Voor de toepassing van de [Wet terugdringing beroep op de arbeidsongeschiktheids
 
 ##### Artikel 16
 
-Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=10&z=2006-01-01&g=2006-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=13&z=2006-01-01&g=2006-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01) wordt volgens door Onze Minister in overleg met Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels, rekening gehouden met de aanpassing van de bruto-lonen van werknemers in dienstbetrekking tot N.S., welke plaatsvindt wegens het verschuldigd worden van premies op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en het niet meer van toepassing zijn van de [Inhoudingswet overheidspersoneel 1982](onbekend).
+Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=10&z=2012-04-01&g=2012-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=13&z=2012-04-01&g=2012-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=14&z=2012-04-01&g=2012-04-01) wordt volgens door Onze Minister in overleg met Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels, rekening gehouden met de aanpassing van de bruto-lonen van werknemers in dienstbetrekking tot N.S., welke plaatsvindt wegens het verschuldigd worden van premies op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en het niet meer van toepassing zijn van de [Inhoudingswet overheidspersoneel 1982](onbekend).
 
 ##### Artikel 17
 
-1. De belanghebbende, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2006-01-01&g=2006-01-01)” “12”” moet zijn “12,” is verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
+1. De belanghebbende, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2012-04-01&g=2012-04-01)” “12”” moet zijn “12,” is verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
 
-2. N.S. en het bestuur van de Stichting Spoorwegpensioenfonds melden de personen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2006-01-01&g=2006-01-01) aan bij het Uitvoeringsinstituut werknemersverzekeringen.
+2. N.S. en het bestuur van de Stichting Spoorwegpensioenfonds melden de personen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2012-04-01&g=2012-04-01) aan bij het Uitvoeringsinstituut werknemersverzekeringen.
 
-3. Het in het eerste lid genoemde Uitvoeringsinstituut werknemersverzekeringen stelt ambtshalve van iedere belanghebbende of verzekerde als bedoeld in dat lid het recht op uitkering, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2006-01-01&g=2006-01-01) vast.
+3. Het in het eerste lid genoemde Uitvoeringsinstituut werknemersverzekeringen stelt ambtshalve van iedere belanghebbende of verzekerde als bedoeld in dat lid het recht op uitkering, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2012-04-01&g=2012-04-01) vast.
 
 ##### Artikel 18
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen stelt de belanghebbende of verzekerde onverwijld schriftelijk in kennis van het recht op uitkering, de duur en hoogte van de uitkering, alsmede van het in aanmerking brengen voor voorzieningen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=11&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2006-01-01&g=2006-01-01).
+1. Het Uitvoeringsinstituut werknemersverzekeringen stelt de belanghebbende of verzekerde onverwijld schriftelijk in kennis van het recht op uitkering, de duur en hoogte van de uitkering, alsmede van het in aanmerking brengen voor voorzieningen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=11&z=2012-04-01&g=2012-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2012-04-01&g=2012-04-01).
 
 2. Een beslissing op grond van dit hoofdstuk wordt in voor beroep vatbare vorm afgegeven, indien de belanghebbende zulks verzoekt.
 
@@ -241,11 +241,11 @@ Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten
 
 1. Onverminderd deze wet zijn de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de op deze wetten berustende bepalingen van overeenkomstige toepassing met betrekking tot het in dit hoofdstuk bedoelde recht op uitkering op grond van die wetten.
 
-2. Beslissingen en uitkeringen op grond van onderscheidenlijk de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2006-01-01&g=2006-01-01) van deze wet worden beschouwd als beslissingen en uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+2. Beslissingen en uitkeringen op grond van onderscheidenlijk de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2012-04-01&g=2012-04-01) van deze wet worden beschouwd als beslissingen en uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
 ##### Artikel 20
 
-Het bepaalde in de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel **a**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) is niet van toepassing ten aanzien van de belanghebbende, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2006-01-01&g=2006-01-01).
+Het bepaalde in de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel **a**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) is niet van toepassing ten aanzien van de belanghebbende, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2012-04-01&g=2012-04-01).
 
 ##### Artikel 21
 
@@ -293,13 +293,13 @@ Vanaf het tijdstip van de inwerkingtreding van deze wet worden handelingen met b
 
 ##### Artikel 32
 
-1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2006-01-01&g=2006-01-01) van deze wet blijven de artikelen S 1 en S 2 van de Spoorwegpensioenwet van toepassing ten aanzien van de in die artikelen bedoelde beslissingen die voor het tijdstip van inwerkingtreding van deze wet genomen zijn.
+1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2012-04-01&g=2012-04-01) van deze wet blijven de artikelen S 1 en S 2 van de Spoorwegpensioenwet van toepassing ten aanzien van de in die artikelen bedoelde beslissingen die voor het tijdstip van inwerkingtreding van deze wet genomen zijn.
 
 2. Voor de toepassing van het eerste lid geldt dat met ingang van het tijdstip van inwerkingtreding van deze wet het bestuur van de Stichting Spoorwegpensioenfonds in de plaats treedt van de Raad van toezicht.
 
-3. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2006-01-01&g=2006-01-01) van deze wet is artikel S 2 van de Spoorwegpensioenwet van toepassing op beslissingen van het bestuur van de Stichting Spoorwegpensioenfonds die genomen zijn op grond van het eerste en tweede lid.
+3. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2012-04-01&g=2012-04-01) van deze wet is artikel S 2 van de Spoorwegpensioenwet van toepassing op beslissingen van het bestuur van de Stichting Spoorwegpensioenfonds die genomen zijn op grond van het eerste en tweede lid.
 
-4. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2006-01-01&g=2006-01-01) van deze wet zijn de artikelen S 1, S 2 en S 3 van de Spoorwegpensioenwet van overeenkomstige toepassing ten aanzien van besluiten van het bestuur van de Stichting Spoorwegpensioenfonds die genomen zijn naar aanleiding van verzoeken of aanvragen die voor het tijdstip van inwerkingtreding van deze wet op basis van de Spoorwegpensioenwet zijn gedaan.
+4. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2012-04-01&g=2012-04-01) van deze wet zijn de artikelen S 1, S 2 en S 3 van de Spoorwegpensioenwet van overeenkomstige toepassing ten aanzien van besluiten van het bestuur van de Stichting Spoorwegpensioenfonds die genomen zijn naar aanleiding van verzoeken of aanvragen die voor het tijdstip van inwerkingtreding van deze wet op basis van de Spoorwegpensioenwet zijn gedaan.
 
 5. Beroepen als bedoeld in artikel S 2 van de Spoorwegpensioenwet worden door de Centrale Raad van Beroep afgehandeld overeenkomstig de bepalingen van de Spoorwegpensioenwet.
 
@@ -327,7 +327,7 @@ Pensioenen ten aanzien waarvan op de dag voorafgaand aan de inwerkingtreding van
 
 ##### Artikel 35
 
-De heffing van overdrachtsbelasting blijft achterwege, terzake van de overgang van vermogensbestanddelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=2&z=2006-01-01&g=2006-01-01).
+De heffing van overdrachtsbelasting blijft achterwege, terzake van de overgang van vermogensbestanddelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=2&z=2012-04-01&g=2012-04-01).
 
 ##### Artikel 36
 
