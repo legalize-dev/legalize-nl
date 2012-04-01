@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-03-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -159,9 +159,8 @@ Besluit:
 | 5.13 | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | – | – |
 |   | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Demonstratieprojecten vergistingketen | – | – |
 |   |   |   |   |   |   |
-| [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
-| 6.1 | Subsidieregeling internationaal ondernemen (Prepare2Start uitvoerder) | 2.2 |   | – | – |
-| 6.2 | Subsidieregeling internationaal ondernemen (Prepare2Start ondernemer) | 2.7 |   | – | – |
+| [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) |
+| 6.1 | Subsidieregeling internationaal ondernemen 2012 | 2 | Aantal beschikbare internationaliseringsvouchers | 01-04 t/m 31-12 | 500 |
 |   |   |   |   |   |   |
 | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) |
 | 7.1 | Subsidieregeling internationaal excelleren (basismodule 2Getthere) | 2.1 |   | – | – |
