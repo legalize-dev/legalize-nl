@@ -4,7 +4,7 @@ identifier: "BWBR0029349"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2011-04-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029349"
 soort: "ministeriele-regeling"
@@ -205,26 +205,26 @@ Wijzigt de IKAP-regeling rijkspersoneel.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
-- a. de [artikelen I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-04-01&g=2011-04-01), en [XXII, onderdeel G, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2011-04-01&g=2011-04-01), terugwerken tot en met 1 januari 2009;
+- a. de [artikelen I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2012-04-01&g=2012-04-01), en [XXII, onderdeel G, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2012-04-01&g=2012-04-01), terugwerken tot en met 1 januari 2009;
 
-- b. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-04-01&g=2011-04-01), terugwerkt tot en met 1 januari 2010;
+- b. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2012-04-01&g=2012-04-01), terugwerkt tot en met 1 januari 2010;
 
-- c. [artikel I, onderdeel H, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-04-01&g=2011-04-01), terugwerkt tot en met 30 maart 2010;
+- c. [artikel I, onderdeel H, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2012-04-01&g=2012-04-01), terugwerkt tot en met 30 maart 2010;
 
-- d. de [artikelen I, onderdelen F, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-04-01&g=2011-04-01), [III, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2011-04-01&g=2011-04-01), [XXII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2011-04-01&g=2011-04-01), en [XXVII, terugwerken tot en met 10 oktober 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVII&z=2011-04-01&g=2011-04-01);
+- d. de [artikelen I, onderdelen F, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2012-04-01&g=2012-04-01), [III, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2012-04-01&g=2012-04-01), [XXII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2012-04-01&g=2012-04-01), en [XXVII, terugwerken tot en met 10 oktober 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVII&z=2012-04-01&g=2012-04-01);
 
-- e. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2011-04-01&g=2011-04-01), terugwerkt tot en met 31 december 2010;
+- e. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2012-04-01&g=2012-04-01), terugwerkt tot en met 31 december 2010;
 
-- f. [artikel XXVI, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVI&z=2011-04-01&g=2011-04-01), voor het eerst toepassing vindt met betrekking tot beschikkingen waarvan de dagtekening ligt na 31 december 2010;
+- f. [artikel XXVI, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVI&z=2012-04-01&g=2012-04-01), voor het eerst toepassing vindt met betrekking tot beschikkingen waarvan de dagtekening ligt na 31 december 2010;
 
-- g. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=IV&z=2011-04-01&g=2011-04-01), voor het eerst toepassing vindt met betrekking tot uitkeringen die op of na 1 januari 2011 zijn ingegaan.
+- g. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=IV&z=2012-04-01&g=2012-04-01), voor het eerst toepassing vindt met betrekking tot uitkeringen die op of na 1 januari 2011 zijn ingegaan.
 
-2. In afwijking van het eerste lid treden de [artikelen XV, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XV&z=2011-04-01&g=2011-04-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVI&z=2011-04-01&g=2011-04-01) en [XVII, onderdeel R](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2011-04-01&g=2011-04-01), in werking met ingang van 1 maart 2011.
+2. In afwijking van het eerste lid treden de [artikelen XV, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XV&z=2012-04-01&g=2012-04-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVI&z=2012-04-01&g=2012-04-01) en [XVII, onderdeel R](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2012-04-01&g=2012-04-01), in werking met ingang van 1 maart 2011.
 
-3. In afwijking van het eerste lid treedt [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVIII&z=2011-04-01&g=2011-04-01) in werking met ingang van 1 april 2011.
+3. In afwijking van het eerste lid treedt [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVIII&z=2012-04-01&g=2012-04-01) in werking met ingang van 1 april 2011.
 
-4. In afwijking van het eerste lid treedt [artikel XI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XI&z=2011-04-01&g=2011-04-01), in werking met ingang van 1 april 2012.
+4. In afwijking van het eerste lid treedt [artikel XI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XI&z=2012-04-01&g=2012-04-01), in werking met ingang van 1 april 2012.
 
-5. In afwijking van het eerste lid treedt [artikel XVII, onderdelen A en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2011-04-01&g=2011-04-01), in werking op hetzelfde tijdstip als waarop [artikel XIV, onderdeel B, van Overige fiscale maatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIV) in werking treedt.
+5. In afwijking van het eerste lid treedt [artikel XVII, onderdelen A en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2012-04-01&g=2012-04-01), in werking op hetzelfde tijdstip als waarop [artikel XIV, onderdeel B, van Overige fiscale maatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIV) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
