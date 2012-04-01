@@ -4,7 +4,7 @@ identifier: "BWBR0017712"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2005-11-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017712"
 soort: "ministeriele-regeling"
@@ -40,86 +40,57 @@ Gelet op [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit spoorweginfrastructuur in werking treedt.
+
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. besluit: [Besluit spoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626);
+- **actief beveiligde overweg:** spoorwegovergang die voorzien is van een treinaankondigingsinstallatie;
 
-- b. actief beveiligde overweg: overweg die voorzien is van een treinaankondigingsinstallatie;
+- **bewaakte overweg:** actief beveiligde spoorwegovergang waarbij de daarnaar toe leidende seinen pas uit de stand ‘stop’ kunnen komen als de overwegbomen gesloten zijn;
 
-- c. bewaakte overweg: actief-beveiligde overweg waarbij de toeleidende seinen pas uit de stand ‘stop’ kunnen komen als de overwegbomen gesloten zijn.
-
-- d. BS-hoogte: referentiemaat voor hoogteligging ten opzichte van de bovenkant van de spoorstaaf;
-
-- e. EN: Europese norm;
-
-- f. EIRENE: norm van de European Integrated Railway radio Enhanced Network;
-
-- g. NEN-EN: door het Nederlandse Norminstituut overgenomen Europese EN-norm;
-
-- h. niet-actief beveiligde overweg: overweg voorzien van Andreaskruisen;
-
-- i. openbare overweg: overweg in een voor het openbaar verkeer openstaande weg;
-
-- j. UIC: norm van de Internationale Spoorwegunie.
+- **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 #### § 2. Algemene kenmerken
 
 ##### Artikel 2
 
-1. De spoorbaan voldoet tenminste aan beladingsklasse C2 als bedoeld in UIC nr. 700.
+1. Behoudens hoofdspoorwegen waarover minder dan eenmaal per week een spoorvoertuig rijdt, zijn openbare niet-actief beveiligde overwegen voorzien van:
 
-2. Om de functie ‘geleiden’ blijvend mogelijk te maken is de verhouding tussen de dwarskracht en de verticale kracht als bedoeld in UIC nr. 518 kleiner dan 0,8 overeenkomstig de volgende berekeningsmethode:
+- a. ten minste aan de rechterzijde van de weg geplaatste Andreaskruisen volgens model J12 of J13 van [bijlage 1, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
 
-| **Y** |
-| --- |
-| — < 0,8 |
-| **Q** |
-
-waarbij de dwarskracht Y is en de verticale kracht van de wiellast Q is.
+- b. aan weerszijden van de weg geplaatste schrikhekken.
 
 ##### Artikel 3
 
-1. De hoofdspoorweginfrastructuur voldoet aan het profiel van vrije ruimte ‘PVR-GC’, genoemd in UIC nr. 506, zoals opgenomen in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=1&z=2005-11-01&g=2005-11-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=2&z=2005-11-01&g=2005-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=3&z=2005-11-01&g=2005-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=4&z=2005-11-01&g=2005-11-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=5&z=2005-11-01&g=2005-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=6&z=2005-11-01&g=2005-11-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=7&z=2005-11-01&g=2005-11-01).
+1. Openbare actief beveiligde overwegen zijn naast de in artikel 10 genoemde inrichting, tevens voorzien van:
 
-2. Binnen het profiel van vrije ruimte bevinden zich geen vaste voorwerpen.
+- a. een tenminste aan de rechterzijde van de weg geplaatst knipperend rood of wit licht;
+
+- b. bellen;
+
+- c. aan weerszijden van de weg geplaatste informatieborden.
+
+2. De in het eerste lid genoemde overwegen kunnen tevens voorzien zijn van overwegbomen, waarvan de werking en inrichting zodanig is dat weggebruikers de overweg op een veilige manier kunnen verlaten of zich veilig kunnen opstellen.
+
+3. De in het tweede lid genoemde overwegbomen zijn:
+
+- a. ter hoogte van de rijbaan voorzien van verlichting en reflectiemateriaal;
+
+- b. ter hoogte van brom-/fietspaden en voetpaden voorzien van reflectiemateriaal.
 
 ##### Artikel 4
 
-1. Het reizigersperron behorende tot de hoofdspoorweginfrastructuur voldoet aan de volgende eisen:
+1. Openbare bewaakte overwegen zijn naast de in artikel 10 genoemde inrichting tevens voorzien van:
 
-- a. het perron ligt nominaal op 1700 mm, minimaal op 1650 mm en maximaal op 1735 mm vanaf het hart van het spoor;
+- a. een ten minste aan de rechterzijde van de weg geplaatst knipperend rood licht;
 
-- b. het perron is gemarkeerd met een onderbroken witte lijn:
+- b. overwegbomen die de overweg voor het wegverkeer afsluiten met daaraan gemonteerd hangwerk die het betreden van de overweg onmogelijk maakt;
 
-- 1°. die is aangebracht op een afstand van 45 cm vanaf de perronrand,
-
-- 2°. waarvan elk deel 30 cm lang is en
-
-- 3°. die een breedte heeft van 15 cm.
-
-- c. het perron is voorzien van een geleidelijn:
-
-- 1°. die waarneembaar is voor blinden en slecht-zienden;
-
-- 2°. die aangebracht is op een afstand van minimaal 1,2 meter vanaf de perronrand;
-
-- 3°. die een breedte heeft van 60 cm.
-
-- d. op het perron zijn geen obstakels aangebracht binnen 2,25 m vanaf de rand van het perron.
-
-- e. de perronhoogte bedraagt 840 mm gemeten vanaf de bovenkant van de spoorstaaf;
-
-- f. de helling van het perron is niet groter dan 1:1000;
-
-- g. de horizontale boogstraal bij perrons is niet kleiner dan R=15000 m;
-
-- h. een verticale boog is bij perrons niet toegestaan.
-
-2. Er worden geen reizigersperrons aangebracht langs sporen waar een hogere passeersnelheid dan 160 km/u is toegestaan.
+2. In de inrichting van de in het eerste lid genoemde overwegen is een technische schakeling aanwezig waardoor het sein, dat het rijden over de overweg toestaat, niet eerder kan worden bediend dan nadat de overwegbomen zijn gesloten.
 
 ##### Artikel 5
 
@@ -129,27 +100,11 @@ Hoofdspoorweginfrastructuur is buiten overwegen voorzien van een afscherming waa
 
 ##### Artikel 6
 
-1. De nominale spoorwijdte is vastgesteld op 1435 mm, waarbij de spoorwijdte de afstand is tussen de binnenzijde van de spoorstaafkoppen, die wordt gemeten op een hoogte van 14 mm onder de spoorstaafkop.
-
-2. De spoorwijdte is minimaal 1430 mm en in sporen met een horizontale boogstraal met inbegrip van spoorverwijding niet meer dan 1450 mm.
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit spoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626) in werking treedt.
 
 ##### Artikel 7
 
-1. De toegelaten slijtage van de wissels en de spoorstaafkop is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=8&z=2005-11-01&g=2005-11-01).
-
-2. De wissels zijn geschikt voor wielen:
-
-- a. met wielbandprofiel S1002/RP2 als bedoeld in UIC nr. 510-2;
-
-- b. met een diameter groter of gelijk aan 730 mm.
-
-3. Bij wissels bedraagt:
-
-- a. de strijkmaat tussen de loopkant van de spoorstaaf en de strijkregel nominaal 1394 mm, met een minimum van 1390 mm en een maximum van 1399 mm;
-
-- b. de groef voor de wielflens nominaal 43 mm met een minimum van 41 mm en een maximum van 45 mm;
-
-- c. de hoogte van de strijkregel boven BS maximaal 55 mm.
+Deze regeling wordt aangehaald als: Regeling hoofdspoorweginfrastructuur.
 
 ##### Artikel 8
 
@@ -400,5 +355,39 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 ## Bijlage 8
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, normbladen en fiches die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+## Bijlage 1
+
+Vervallen
+
+## Bijlage 2
+
+Vervallen
+
+## Bijlage 3
+
+Vervallen
+
+## Bijlage 4
+
+Vervallen
+
+## Bijlage 5
+
+Vervallen
+
+## Bijlage 6
+
+Vervallen
+
+## Bijlage 7
+
+Vervallen
+
+## Bijlage 8
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, normbladen en fiches die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
