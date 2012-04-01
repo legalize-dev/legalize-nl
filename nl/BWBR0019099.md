@@ -4,7 +4,7 @@ identifier: "BWBR0019099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-10-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019099"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis.
 
-## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2010-10-01&g=2010-10-01)
+## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2012-04-01&g=2012-04-01)
 
 De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordening (EG) 104/2000](32000R0104), is de navolgende:
 
