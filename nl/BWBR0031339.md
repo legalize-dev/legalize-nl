@@ -4,7 +4,7 @@ identifier: "BWBR0031339"
 country: "nl"
 rank: "wet"
 publication_date: "2012-04-01"
-last_updated: "2012-03-10"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031339"
 soort: "wet"
@@ -60,7 +60,7 @@ Wijzigt de Wijzigingswet Uitvoeringswet huurprijzen woonruimte (wettelijke grond
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
 ##### Artikel V
 
@@ -68,9 +68,9 @@ Wijzigt de Woningwet.
 
 ##### Artikel VI
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=I&z=2012-03-10&g=2012-03-10), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=II&z=2012-03-10&g=2012-03-10), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=III&z=2012-03-10&g=2012-03-10) en [V, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=V&z=2012-03-10&g=2012-03-10), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, waarbij de artikelen II en III terugwerken tot en met 1 juli 2011.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=I&z=2012-04-01&g=2012-04-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=II&z=2012-04-01&g=2012-04-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=III&z=2012-04-01&g=2012-04-01) en [V, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=V&z=2012-04-01&g=2012-04-01), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, waarbij de artikelen II en III terugwerken tot en met 1 juli 2011.
 
-2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=IV&z=2012-03-10&g=2012-03-10) en [V, onderdelen A tot en met H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=V&z=2012-03-10&g=2012-03-10), treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=IV&z=2012-04-01&g=2012-04-01) en [V, onderdelen A tot en met H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0031339&artikel=V&z=2012-04-01&g=2012-04-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel VII
 
