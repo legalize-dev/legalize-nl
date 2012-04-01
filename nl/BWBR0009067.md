@@ -4,7 +4,7 @@ identifier: "BWBR0009067"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-04-01"
-last_updated: "2004-09-01"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009067"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 wet: de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-Onze Minister: Onze Minister van Justitie.
+Onze Minister: Onze Minister van Veiligheid en Justitie.
 
 ##### Artikel 2
 
@@ -82,7 +82,7 @@ Aan een vergunning, krachtens [artikel 3 van de wet](https://wetten.overheid.nl/
 
 ##### Artikel 3
 
-Het bepaalde in het voorgaande artikel is, voorzover mogelijk, van overeenkomstige toepassing op een vergunning, verleend krachtens artikel 28 van de wet.
+Vervallen
 
 ##### Artikel 3a
 
@@ -100,15 +100,13 @@ Het bepaalde in het voorgaande artikel is, voorzover mogelijk, van overeenkomsti
 
 3. De vergoeding die is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in [artikel 4 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4) bedraagt € 453. Indien de vergunning een geldigheidsduur heeft van meer dan een jaar, is dit bedrag jaarlijks verschuldigd.
 
-4. Het derde lid is van overeenkomstige toepassing op een vergunning als bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=28), indien de prijs of premie een grotere waarde heeft dan € 4 500.
-
 ##### Artikel 4
 
 De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van de wet vergunning is verleend, geschiedt nà de afsluiting van de plaatsingsactiviteiten in het openbaar, en wel voorzover de gezamenlijke waarde van de prijzen en premies meer dan € 4 500 bedraagt, ten overstaan van een notaris, die het verloop van de prijsbepaling bij proces-verbaal constateert, voorzover de gezamenlijke waarde van de prijzen en premies niet meer dan € 4 500 bedraagt, ten overstaan van een in de vergunning aangewezen persoon, die van zijn bevindingen een kort verslag opmaakt.
 
 ##### Artikel 5
 
-1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2004-09-01&g=2004-09-01) de prijsbepaling dient te geschieden.
+1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2012-04-01&g=2012-04-01) de prijsbepaling dient te geschieden.
 
 2. Constateert degene, te wiens overstaan de prijsbepaling geschiedt, enige onregelmatigheid, dan verklaart hij, zo nodig, de gehele prijsbepaling ongeldig en doet hij onverwijld een nieuwe prijsbepaling plaats vinden.
 
@@ -116,7 +114,7 @@ De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van
 
 ##### Artikel 6
 
-De prijsbepaling bij geldleningen, waarvoor krachtens artikel 4 van de wet een vergunning is verleend, en bij gelegenheden, die met een ingevolge artikel 28 van de wet verleende vergunning zijn opengesteld, geschiedt overeenkomstig een door Onze Minister goedgekeurde methode in het openbaar ten overstaan van een notaris, die het verloop van de prijsbepaling bij proces-verbaal constateert.
+De prijsbepaling bij geldleningen, waarvoor krachtens [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4) een vergunning is verleend geschiedt overeenkomstig een door Onze Minister goedgekeurde methode in het openbaar ten overstaan van een notaris, die het verloop van de prijsbepaling bij proces-verbaal constateert.
 
 ##### Artikel 7
 
@@ -133,5 +131,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Kansspelenbesluit.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het**Staatsblad**zal worden geplaatst.
+
+##### Artikel 6a
+
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende methoden ter controle van de naleving van het gestelde bij of krachtens de [artikelen 33e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) en [33f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), alsmede de vaststelling van de aantallen speeltafels, aangekoppelde spelersterminals en spelersplaatsen voor de toepassing van artikel 33f, tweede lid, van de wet.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het**Staatsblad**zal worden geplaatst.
