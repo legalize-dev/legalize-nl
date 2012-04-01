@@ -4,7 +4,7 @@ identifier: "BWBR0002888"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2009-12-23"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002888"
 soort: "AMvB"
@@ -72,17 +72,17 @@ In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslach
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
-- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2009-12-23&g=2009-12-23) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in [artikel 8, zevende lid, onder **a,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) wordt vrijgelaten;
+- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2012-04-01&g=2012-04-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in [artikel 8, zevende lid, onder **a,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) wordt vrijgelaten;
 
-- b. 50 procent van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2009-12-23&g=2009-12-23) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) overschrijdt.
+- b. 50 procent van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2012-04-01&g=2012-04-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) overschrijdt.
 
 ##### Artikel 4
 
-Indien de vervolging in het voormalige Nederlands-Indië heeft plaatsgehad en de uitkeringsgerechtigde in Indonesië gevestigd is, vindt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2009-12-23&g=2009-12-23) overeenkomstige toepassing, met dien verstande dat in plaats van de grondslagen, genoemd in artikel 8, zevende lid, onder **a** en **b,** wordt uitgegaan van de grondslagen, genoemd in artikel 8, achtste lid, onder **a** en **b,** van de wet.
+Indien de vervolging in het voormalige Nederlands-Indië heeft plaatsgehad en de uitkeringsgerechtigde in Indonesië gevestigd is, vindt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2012-04-01&g=2012-04-01) overeenkomstige toepassing, met dien verstande dat in plaats van de grondslagen, genoemd in artikel 8, zevende lid, onder **a** en **b,** wordt uitgegaan van de grondslagen, genoemd in artikel 8, achtste lid, onder **a** en **b,** van de wet.
 
 ##### Artikel 5
 
-De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2009-12-23&g=2009-12-23), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag, waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2009-12-23&g=2009-12-23) berekende financiële draagkracht overschrijden.
+De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2012-04-01&g=2012-04-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag, waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2012-04-01&g=2012-04-01) berekende financiële draagkracht overschrijden.
 
 ##### Artikel 5a
 
@@ -98,12 +98,12 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 3a
 
-1. De ingevolge artikel 3 bepaalde financiële draagkracht wordt herzien:
+1. De ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2012-04-01&g=2012-04-01) bepaalde financiële draagkracht wordt herzien:
 
-- a. op schriftelijk verzoek van de gerechtigde, indien de bepaalde draagkracht meer dan 30% in zijn nadeel afwijkt van de volgens artikel 3 bepaalde draagkracht, of
+- a. op schriftelijk verzoek van de gerechtigde, indien de bepaalde draagkracht meer dan 30% in zijn nadeel afwijkt van de volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2012-04-01&g=2012-04-01) bepaalde draagkracht, of
 
 - b. bij het door de gerechtigde bereiken van de 65-jarige leeftijd.
 
-2. Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de maand waarin de gerechtigde 65 jaar wordt.
+2. Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde 65 jaar wordt.
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
