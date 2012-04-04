@@ -4,7 +4,7 @@ identifier: "BWBR0031263"
 country: "nl"
 rank: "wet"
 publication_date: "2014-08-01"
-last_updated: "2012-02-11"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031263"
 soort: "wet"
@@ -52,7 +52,7 @@ Er is een Raad voor de leefomgeving en infrastructuur, hierna te noemen de raad.
 
 1. De raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over strategische beleidsvraagstukken inzake de duurzame ontwikkeling van de leefomgeving en infrastructuur, meer in het bijzonder op het gebied van wonen, ruimtelijke ordening, milieu, klimaatbeleid, water, landbouw, natuur, voedsel(kwaliteit), verkeer en vervoer en de ruimtelijk-economische ontwikkeling, al dan niet in onderlinge samenhang.
 
-2. Dit lid is nog niet in werking getreden.
+2. De raad heeft voorts tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het beleid en wetgeving gericht op het voorkomen van ongevallen en rampen als gevolg van het gebruik, de opslag, de productie en het vervoer van gevaarlijke stoffen en de beperking van de gevolgen van dergelijke ongevallen en rampen.
 
 ##### Artikel 3
 
@@ -64,7 +64,7 @@ De [Wet op de VROM-raad](https://wetten.overheid.nl/jci1.3:c:BWBR0008279) en de 
 
 ##### Artikel 5
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031263&artikel=2&z=2012-02-11&g=2012-02-11), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031263&artikel=2&z=2012-04-04&g=2012-04-04), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 6
 
