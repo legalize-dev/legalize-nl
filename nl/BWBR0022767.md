@@ -4,7 +4,7 @@ identifier: "BWBR0022767"
 country: "nl"
 rank: "archiefselectielijst"
 publication_date: "2012-04-05"
-last_updated: "2007-11-08"
+last_updated: "2012-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022767"
 soort: "ministeriele-regeling-archiefselectielijst"
@@ -10577,189 +10577,13 @@ Waardering: V, 10 jaar
 
 ### **8.28 Actor: Bestuursraad LSOP**
 
-Handeling: het verzorgen van basisopleidingen, door de Ministers van Justitie en van Binnenlandse Zaken aan te wijzen vervolgopleidingen en andere opleidingen van ambtenaren van rijks- en gemeentepolitie en andere categorieën van personen
+Vervallen.
 
 Grondslag: art. 66.1 en 66.6 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
 
-Periode: 1992–1993
+Vervallen.
 
 Waardering: B5: notulen en jaarverslagen
-
-V, 10 jaar: overig
-
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de aanwijzing van andere door het LSOP te verzorgen opleidingen dan de basisopleidingen van ambtenaren van rijks- en gemeentepolitie en andere categorieën van personen
-
-Grondslag: art. 66.1b Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 10 jaar
-
-Handeling: het verzorgen van de selectie en de uitvoering van landelijke wervingsactiviteiten
-
-Grondslag: art. 66.2 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B5: een exemplaar wervingsmateriaal
-
-V, 5 jaar: overig
-
-Handeling: het voeren van het beheer en de coördinatie van het selectiecentrum, instellingen voor de basisopleidingen en andere door de Ministers van Justitie en van Binnenlandse Zaken aangewezen instellingen voor opleidingen
-
-Grondslag: art. 66.3 en 66.4 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B5: begrotingen, jaarrekeningen en jaarverslagen
-
-V, 7 jaar: overig
-
-Handeling: het met betrekking tot door de Minister van Justitie of de Minister van Binnenlandse Zaken aan te wijzen categorieën van personen verzorgen van de selectie of van een andere opleiding dan aangewezen ingevolge art. 66.1b Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-actor Bestuursraad LSOP
-
-Grondslag: art. 68.1 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 10 jaar
-
-Handeling: het adviseren van de Minister van Justitie of de Minister van Binnenlandse Zaken over de bepaling dat met betrekking tot door de Ministers aan te wijzen categorieën van personen het LSOP de selectie of een andere opleiding dan aangewezen ingevolge art. 66.1b Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320) verzorgt, of over de duur en eindtermen van deze opleiding
-
-actor Bestuursraad LSOP
-
-Grondslag: art. 68.2 en 75.3 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 10 jaar
-
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over aangelegenheden op het gebied van de selectie, het onderwijs en de landelijke werving van de politie
-
-Grondslag: art. 70.5 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B5
-
-Handeling: het instellen, wijzigen of opheffen van een begeleidingscommissie ten behoeve van de landelijke wervingsactiviteiten, de selectie en het onderwijs
-
-Grondslag: art. 72 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B4
-
-Handeling: het vaststellen, wijzigen of intrekken van een reglement over het bestuur en de inrichting van het LSOP
-
-Grondslag: art. 73.1 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B4
-
-Handeling: het doen van aanbevelingen aan de Ministers van Justitie en van Binnenlandse Zaken over de voordracht tot benoeming, schorsing of ontslag bij KB van leden van de directie van het LSOP en van directeuren van de opleidingsinstellingen
-
-Grondslag: art. 74.2 en 74.3 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 7 jaar
-
-Handeling: het toekennen van een non-activiteitswedde aan het ambtenaar aangesteld bij het LSOP
-
-Grondslag: art. 13.1 Ambtenarenreglement LSOP (Stb. 1992, 322)
-
-Periode: 1992–1993
-
-Waardering: V, 7 jaar
-
-Handeling: het opleggen of verlenen van ontslag van een ambtenaar aangesteld bij het LSOP
-
-Grondslag: art. 118 van het Ambtenarenreglement LSOP (Stb. 1992, 322)
-
-Periode: 1992–1993
-
-Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
-
-Waardering: V, 7 jaar na administratieve afhandeling ontslag
-
-Handeling: het adviseren van de Ministers van Justitie en van Binnenlandse Zaken over de duur en de eindtermen van de opleidingen bedoeld in artikel 66.1 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Grondslag: art. 75.1 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V 10 jaar
-
-Handeling: het vaststellen of wijzigen van een werkplan voor iedere opleiding die het LSOP verzorgt, en het vaststellen van het aantal tot de opleidingen toe te laten cursisten
-
-Grondslag: art. 75.4 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 10 jaar
-
-Handeling: het vaststellen van een begroting, een jaarrekening en beleidsoverzichten en het verstrekken van inlichtingen
-
-Grondslag: art. 76.2, 76.3 en 78 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: B4
-
-### **8.29 Actor: Directie LSOP**
-
-Handeling: het adviseren van de Bestuursraad LSOP over het reglement over het bestuur en de inrichting van het LSOP
-
-Grondslag: art. 73.1 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Waardering: V, 10 jaar
-
-Handeling: het benoemen of ontslaan van een ambtenaar in dienst van het LSOP
-
-Grondslag: art. 74.4 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering van de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
-
-Waardering: V, 7 jaar na administratieve afhandeling ontslag
-
-Handeling: het verzoeken aan de burgemeester of aan de Minister van Justitie om plaatsing van een ambtenaar van respectievelijk gemeente- of rijkspolitie bij het LSOP
-
-Grondslag: art. 74.5 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
-
-Periode: 1992–1993
-
-Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
-
-Waardering: V, 7 jaar na administratieve afhandeling ontslag
-
-Handeling: het toekennen van een non-activiteitswedde aan het ambtenaar aangesteld bij het LSOP
-
-Grondslag: art. 13.1 Ambtenarenreglement LSOP (Stb. 1992, 322)
-
-Periode: 1992–1993
-
-Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
-
-Waardering: V, 7 jaar na administratieve afhandeling ontslag
-
-Handeling: het opleggen of verlenen van ontslag van een ambtenaar aangesteld bij het LSOP
-
-Grondslag: art. 118 van het Ambtenarenreglement LSOP (Stb. 1992, 322)
-
-Periode: 1992–1993
-
-Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
-
-Waardering: V, 7 jaar na administratieve afhandeling ontslag
-
-### **8.30 Actor: Redactieraad APB**
 
 Handeling: het doen van voorstellen aan de Ministers van Justitie en van Binnenlandse Zaken over de uitgaven van het APB
 
@@ -10779,7 +10603,7 @@ Waardering: B3: verslag
 
 Overige neerslag: V, 10 jaar
 
-### **8.31 Actor: Adviescommissies**
+V, 5 jaar: overig
 
 Handeling: het adviseren van de Minister van Justitie en/of Binnenlandse Zaken over aspecten op het beleidsterrein politie
 
@@ -10789,9 +10613,9 @@ Periode: 1945–1993
 
 Waardering: B5
 
-### **9. C: Actor onder de zorg van de Minister van Financiën**
+V, 7 jaar: overig
 
-### **9.1 Actor: Minister van Financiën**
+Handeling: het met betrekking tot door de Minister van Justitie of de Minister van Binnenlandse Zaken aan te wijzen categorieën van personen verzorgen van de selectie of van een andere opleiding dan aangewezen ingevolge art. 66.1b Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
 
 Handeling: het doen van voordracht tot het bij KB vaststellen, wijzigen of intrekken van regels volgens welke aan gemeenten met gemeentepolitie een rijksbijdrage beschikbaar gesteld wordt ter tegemoetkoming in of tot goedmaking van de gemeentelijke kosten terzake van de politie
 
@@ -10885,7 +10709,7 @@ actor Minister van Financiën
 
 Grondslag: – art. 5.2 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551)
 
-– art. 5.2 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551)
+### **8.29 Actor: Directie LSOP**
 
 – art. 5.2 Besluit bekwaamheidseisen bevordering politie 1964 (Stb. 1964, 397)
 
@@ -10897,13 +10721,13 @@ Beschikking vaststelling vacatiegeld examencommissies politiediploma’s (Stcrt.
 
 Waardering: V, 7 jaar
 
-### **10. D: Actor onder de zorg van de Minister van Algemene Zaken**
+Grondslag: art. 74.4 politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 24 juni 1992 (Stb. 1992, 320)
 
-### **10.1 Actor: Minister-president**
+Periode: 1992–1993
 
-### **10.1.1 Organisatie en beheer**
+Opmerking: Alle neerslag is met V gewaardeerd, met uitzondering van de neerslag betreffende personen die van invloed zijn geweest op (beleids) ontwikkelingen op het beleidsterrein van de Politie. Hierbij kan bijvoorbeeld gedacht worden aan hoofdcommissarissen als Wiarda, Nordholt en Straver.
 
-### **10.1.1.1 Schorsing en ontslag**
+Waardering: V, 7 jaar na administratieve afhandeling ontslag
 
 Handeling: het doen van voordracht of het machtigen tot het verlenen van eervol ontslag aan een bij KB benoemde ambtenaar van politie indien uit zijn gedragingen van zodanige gezindheid blijkt dat er geen voldoende waarborg aanwezig is dat hij zijn plicht getrouwelijk zal vervullen
 
@@ -10935,7 +10759,7 @@ Grondslag: – art. 93.4 ARGP (Stb. 1953, 74)
 
 – art. 119.4 ARRP 1958 (Stb. 1957, 548)
 
-– art. 121.5 ARBARP 1967 (Stb, 1967, 391)
+### **8.30 Actor: Redactieraad APB**
 
 – art. 119.3 ARRP 1975 (Stb. 1977, 172)
 
@@ -10943,29 +10767,29 @@ Periode: 1953–1993
 
 Waardering: V, 10 jaar
 
-### **11. E: Actor onder de zorg van de Minister van Defensie**
+Waardering: V, 7 jaar
 
-### **11.1 Actor: Minister van Defensie**
+Handeling: het jaarlijks uitbrengen van verslag aan de Ministers van Justitie en van Binnenlandse Zaken
 
-### **11.1.1 Algemene handelingen**
+Grondslag: art. 11 Beschikking Algemeen Politieblad (Stcrt. 1975, 204)
 
-### **11.1.1.1Beleidsontwikkeling en evaluatie**
+Periode: 1975–1993
 
 Handeling: het voorbereiden, mede-vaststellen, coördineren en evalueren van beleid inzake de politie
 
 Periode: 1945–1993
 
-Product: bijvoorbeeld: beleidsnota’s, beleidsnotities, rapporten, adviezen, evaluaties.
+### **8.31 Actor: Adviescommissies**
 
 Waardering: B1
 
-### **11.1.1.2 Totstandkoming regelgeving**
+Grondslag: instellingsbesluit
 
 Handeling: het voorbereiden van de totstandkoming, wijziging en intrekking van wetgeving inzake de politie
 
 Periode: 1945–1993
 
-Waardering: B1
+### **9. C: Actor onder de zorg van de Minister van Financiën**
 
 ### **11.1.1.3 Verantwoording van beleid**
 
@@ -10999,7 +10823,7 @@ Periode: 1945–1993
 
 Waardering: B5
 
-### **11.1.1.4 Internationaal beleid**
+Handeling: het vaststellen, wijzigen of intrekken van regels over de vergoeding van kosten voortvloeiend uit het verlenen van bijstand door gemeentelijke politiekorpsen
 
 Handeling: het mede-voorbereiden van het vaststellen, wijzigen en intrekken van internationale regelingen inzake politiële samenwerking en het presenteren van Nederlandse standpunten in intergouvernementele organisaties
 
@@ -11011,13 +10835,189 @@ Opmerking: Voor handelingen voortvloeiend uit de regelingen op het terrein van d
 
 Waardering: B5
 
-### **11.1.1.5 Informatieverstrekking**
+Periode: 1964–1980
 
 Handeling: het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake de politie
 
 Periode: 1945–1993
 
 Product: brieven, notities
+
+Waardering: V, 3 jaar
+
+Periode: 1980–1993
+
+Handeling: het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de politie
+
+Periode: 1945–1993
+
+Product: nota’s, notities, onderzoeksrapporten
+
+Waardering: Vaststellingsbesluit en eindrapport: B1
+
+Overig: V, 10 jaar na afronding onderzoek
+
+Handeling: het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek betreffende de politie
+
+Periode: 1945–1993
+
+Product: nota’s, notities
+
+Waardering: V, 10 jaar na afronding onderzoek
+
+actor Minister van Financiën (1950-1986)
+
+Grondslag: a. art. 8 Besluit Vergoeding Politiekosten 1950 (Stb. K 384), ingetrokken bij besluit van 13 november 1986 (Stb. 610)
+
+Handelingen voortvloeiend uit de regelingen op grond van artikel 4 Politiebesluit en de artikelen 4.2, 6.2, 10.2 en 22.2 Politiewet.
+
+Handeling: het, in overeenstemming met de Minister van Justitie en de Minister van Binnenlandse Zaken, bepalen van categorieën van personen behorend tot zee-, land,- of luchtmacht die kunnen worden aangeworven als vrijwilliger van respectievelijk reserve-rijkspolitie en reserve-gemeentepolitie
+
+Grondslag: art. 4.1d en 40d Rechtstoestandregeling reservepolitie (Stb. 1964, 473)
+
+Periode: 1964–1993
+
+Waardering: B4
+
+Handeling: het vaststellen van een vergoeding voor de leden van de examencommissies en de gecommitteerden
+
+(art. 28-34)
+
+Grondslag: – art. 5.2 Besluit bekwaamheidseisen bevordering politie (Stb. 1953, 551)
+
+Handeling: het overeenstemmen met de Ministers van Justitie en van Binnenlandse Zaken omtrent het vaststellen, wijzigen of intrekken van regels voor de samenwerking tussen politie en Koninklijke Marechaussee
+
+Grondslag: art. 30.2 Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij Wet van 14 december 1988 (Stb. 576) en gewijzigd bij Wet van 21 juni 1990 (Stb. 1990, 414)
+
+Periode: 1988–1993
+
+Waardering: V, 5 jaar
+
+Handeling: het aanwijzen van andere luchtvaartterreinen dan Schiphol waarop de Koninklijke Marechaussee de politietaak moet uitoefenen
+
+Grondslag: art. 32.1c Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij wet van 8 november 1993 (Stb. 1993, 588)
+
+### **10. D: Actor onder de zorg van de Minister van Algemene Zaken**
+
+### **10.1 Actor: Minister-president**
+
+### **10.1.1 Organisatie en beheer**
+
+### **10.1.1.1 Schorsing en ontslag**
+
+Periode: 1951–1993
+
+Waardering: B1
+
+Handeling: het geven van opdracht aan de Koninklijke marechaussee tot het verrichten van beveiligingswerkzaamheden ten behoeve van de Nederlandse bank NV
+
+Grondslag: – art. 32.1f Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij Wet 14-12-1988 (Stb. 576) en vernummerd tot art. 32.1g bij wet van 8 november 1993 (Stb. 1993, 588)
+
+– art. 1.8 Takenbesluit Koninklijke marechaussee (Stb. 1954, 45), zoals bijgevoegd bij besluit van 12 september 1968 (Stb. 470)
+
+Periode: 1988–1993
+
+Waardering: V, 10 jaar
+
+Handeling: het overleggen met de Ministers van Justitie en van Binnenlandse Zaken inzake de voordracht tot het bij Algemene Maatregel van Bestuur vaststellen, wijzigen of intrekken van een ambtsinstructie voor de politie
+
+Grondslag: art. 34.1 Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576)
+
+Periode: 1988–1993
+
+Waardering: B5
+
+Grondslag: – art. 93.4 ARGP (Stb. 1953, 74)
+
+Handeling: het bepalen van de gevallen waarin de (onder)officieren van de Koninklijke Marechaussee en de door de Ministers van Justitie en van Defensie aangewezen andere militairen van dat wapen, met de opsporing van strafbare feiten zijn belast
+
+Grondslag: art. 141.6 Wetboek van Strafvordering (Stb. 1921, 14)
+
+Periode: 1945–1993
+
+Waardering: V, 10 jaar
+
+Handeling: het aanwijzen van andere militairen van de Koninklijke Marechaussee dan (onder)officieren om strafbare feiten op te sporen in door de Ministers van Justitie en van Defensie te bepalen gevallen
+
+Grondslag: art. 141.6 Wetboek van Strafvordering (Stb. 1921, 14)
+
+Periode: 1945–1994
+
+### **11. E: Actor onder de zorg van de Minister van Defensie**
+
+### **11.1 Actor: Minister van Defensie**
+
+### **11.1.1 Algemene handelingen**
+
+### **11.1.1.1Beleidsontwikkeling en evaluatie**
+
+Grondslag: art. 154.6 Wetboek van Strafvordering (Stb. 1921, 14)
+
+Periode: 1945–1994
+
+Waardering: V, 5 jaar
+
+Waardering: B1
+
+### **11.1.4.1 Bijstand van militaire eenheden bij de handhaving van de openbare orde**
+
+Handeling: het beschikken op vordering of aanvraag omtrent het verlenen van bijstand door personeel van de Koninklijke Marechaussee of ander krijgsvolk ten behoeve van de handhaving van de openbare orde
+
+Grondslag: – art. 15 en art. 17 Politiebesluit 1945 (Stb. 1945, F 250)
+
+– art. 47.2 en 48.1 Politiewet 1957 (Stb. 1957, 244) en 32.1c Politiewet 1957 (Stb. 1957, 244), zoals bijgevoegd bij Wet 14-12-1988 (Stb. 576) en vernummerd tot art. 32.1d bij wet van 8 november 1993 (Stb. 1993, 588)
+
+### **11.1.1.3 Verantwoording van beleid**
+
+Periode: 1945–1993
+
+Opmerking: hiertoe geeft de Minister van Defensie een last aan de bevelhebber van een krijgsmachtdeel, die de bijstand voorbereidt. Een militaire commandant verleent de feitelijke bijstand.
+
+Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd.
+
+Waardering: B5: bijstand in bijzondere gevallen
+
+Overige neerslag: V, 10 jaar
+
+Vervallen.
+
+Handeling: het op vordering van het bevoegd gezag, in het kader van de strafrechtelijke handhaving van de rechtsorde, beschikbaar stellen van militair personeel en/of materiaal ten behoeve van het verlenen van militaire bijstand
+
+Grondslag: art. 146.2 Wetboek van Strafvordering
+
+Periode: 1945–1993
+
+Opmerking: Het betreft in dit geval gebeurtenissen zoals de Amsterdamse ordeverstoring in 1966, de derde terrorismegolf aan het begin van de jaren zeventig, en de bijstand die is verleend tijdens de verwijdering van de Amsterdamse krakers in de jaren tachtig. Ook de grootschalige inzet van politie en militaire middelen bij rellen in Nijmegen (1981) kan als een bijzonder geval worden beschouwd.
+
+Waardering: B5: bijstand in bijzondere gevallen
+
+Overige neerslag: V, 10 jaar
+
+Handeling: het instemmen met de Minister van Justitie inzake de bepaling van de wijze waarop in bijzondere gevallen door de Koninklijke Marechaussee bijstand wordt verleend voor de opsporing van strafbare feiten of de tenuitvoerlegging van rechterlijke beslissingen
+
+Grondslag: art. 50a Politiewet 1957 (Stb. 1957, 244), zoals ingevoegd bij Wet van 14 december 1988 (Stb. 576)
+
+Periode: 1988–1993
+
+### **11.1.1.4 Internationaal beleid**
+
+Handeling: het overeenstemmen met Procureur-Generaal over de aanwijzing van militairen van de Koninklijke marechaussee om in bijzondere gevallen bijstand te verlenen aan de politie ter opsporing van strafbare feiten
+
+Grondslag: art. 1.2 of 2.3 Beschikking Opsporingsbijstand Marechaussee (Stcrt. 1989, 222)
+
+Periode: 1989–1993
+
+Waardering: B5
+
+Waardering: B5
+
+### **11.1.1.5 Informatieverstrekking**
+
+Grondslag: art. 2.1b en c Rechtstoestandregeling reservepolitie (Stb. 1964, 473)
+
+Periode: 1964–1993
+
+Waardering: V, 10 jaar na aanwijzing
 
 Waardering: V, 3 jaar
 
@@ -11194,6 +11194,184 @@ Grondslag: art. 2.1b en c Rechtstoestandregeling reservepolitie (Stb. 1964, 473)
 Periode: 1964–1993
 
 Waardering: V, 10 jaar na aanwijzing
+
+## Bijlage 1. Overzicht van commissies
+
+| Naam commissie | Jaar oprichting | Jaar opheffing | Bijzonderheden |
+| --- | --- | --- | --- |
+| Adviescommissie | 18-8-1977 | Onbekend | Advies betreffende het stellen van een koopsom voor het door de overheid in eigendom overnemen van de bij het politiepersoneel aanwezige dienstkleding |
+| Adviescommissie bewapening en daarmee samenhangende uitrusting van het Korps Rijkspolitie | 15-3-1972 | Onbekend |   |
+| Adviescommissie herziening | 12-3-1991 | Onbekend |   |
+| Adviescommissie materiële voorzieningen politie | 22-6-1993 | Onbekend |   |
+| Adviescommissie met betrekking op uniformiteit tussen de bewaping en uitrusting van het Korps Rijkspolitie en die van de gemeentepolitie te bevorderen | 8-1-1965 | Onbekend |   |
+| Adviescommissie met betrekking tot justitiële aangelegenheden | 20-12-1968 | Onbekend |   |
+| Adviescommissie met betrekking tot politie-technische aangelegenheden | 16-12-1969 | Onbekend |   |
+| Adviescommissie voor het Algemeen Politieblad | 11-4-1947 | 6-5-1965 |   |
+| Adviescommissie voor opsporingshulp en technische recherche aangelegenheden | 4-6-1968 | 31-7-1969 |   |
+| Algemene dienstcommissie voor het Korps Rijkspolitie | 6-4-1964 | Onbekend |   |
+| Begeleidings commissie van de informatieverstrekking | 15-6-1982 | 1-1-1987 |   |
+| Begeleidings- en Evaluatiecommissie Opsporingsberichtgeving, per teletekst | 23-10-1980 | Onbekend |   |
+| Begeleidingscommissie | 27-4-1978 | 16-9-1986 | Samenwerking politie |
+| Begeleidingscommissie en werkgroep Studieproject reorganisatie Politie Groningen | 3-6-1980 | Onbekend |   |
+| Begeleidingscommissie Informatieverstrekking Politie, openbaar Ministerie en Bestuur | 15-6-1982 | Onbekend |   |
+| Begeleidingscommissie Methodisch Toezicht Korps Rijkspolitie | 20-9-1965 | 1-11-1969 |   |
+| Begeleidingscommissie onderzoek regionale Samenwerking Politie | 6-3-1989 | Onbekend |   |
+| Begeleidingscommissie Project Landelijk Netten | 20-6-1984 | Onbekend |   |
+| Begeleidingscommissie Studiecentrum voor hogere politie ambtenaren | 21-8-1974 | Onbekend |   |
+| Begeleidingscommissie Studieproject Reorganisatie Politie Groningen | 3-6-1980 | 1-9-1982 |   |
+| Begeleidingscommissie vliegdienst | 18-8-1976 | Onbekend | Commissie die tot taak heeft gegevens te verzamelen over de assistentie die het vliegend materieel van de Dienst Luchtvaart van het Korps Rijkspolitie aan de Nederlandse Politie geeft, deze aanbevelingen te doen om te geraken tot een zo efficiënt mogelijke werkwijze in samenhang met andere onderdelen van het Korps Rijkspolitie en met de korpsen van gemeente |
+| Begeleidingscommissie voor de Rechercheschool | 29-6-1973 | Onbekend |   |
+| Begeleidingscommissie voor het Centraal Instituut voor Opleiding en Vorming van het Korps Rijkspolitie (C.I.O.V.), | 27-5-1983 | Onbekend |   |
+| Beleids adviescommissie | 18-10-1976 | Onbekend |   |
+| Beschikking politiediploma 1983 | 1983 | Onbekend |   |
+| Besluit instelling technische commissie van de politieke commissie | 6-3-1986 | Onbekend |   |
+| Bestuursraad in oprichting voor integratie en verzelfstandiging Politieonderwijs en landelijke werving en selectie van Politiepersoneel | 24-11-1988 | Onbekend |   |
+| Bezwaren commissie | 10-3-1992 | Onbekend | Bezwaren commissie t.b.v. de personele gevolgen van de reorganisatie van het Kustwachtcentrum voor het aldaar werkzame personeel van de Rijkspolitie te water |
+| Bijzondere commissie bij de directie politie | 22-11-1984 | Onbekend |   |
+| Bijzondere commissie van overleg met de ambtenaren | 3-6-1987 | Onbekend | Werkzaam bij de onder de directie Politie van het Ministerie van Justitie ressorterende diensten en instellingen |
+| Bijzondere commissie van overleg voor de ambtenaren, behorende tot de onder Directie Politie v.h. Dep. Van Just. Ressorterende diensten en instellingen | 30-11-1959 | Onbekend |   |
+| C.P.V.C | 1945 | Onbekend | De commissie is niet officieel ingesteld |
+| Centrale Commissie van Advies voor het Politieonderwijs | 26-10-1970 | Onbekend |   |
+| Centrale commissie voor het advies | 26-10-1970 | 20-3-1975 | Het politieonderwijs met de opdracht hen van advies te dienen inzake de opleiding en de vorming ten behoeve van het korps Rijkspolitie en de Gemeentepolitie |
+| Centrale commissie voor misdaadvoorkoming | 21-12-1979 | Onbekend |   |
+| Commiessie met de taak:nagaan of er aanleiding bestaat een voortgezette opleiding tot stand te brengen voor de ambtenaren van het Korps Rijkspolitie en van de gemeentepolitie, meer in bijzonder belast met recherche-werkzaamheden | 2-6-1958 | Onbekend |   |
+| Commisie Doelmatigheid Politie-apparaat | 10-6-1950 | Onbekend |   |
+| Commisie voor behandeling van klachten over door de Intendance der Rijkspolitie geleverde uniformkleding | 1-5-1968 | Onbekend |   |
+| Commissie beleidsplanning politie | Onbekend | Onbekend | Staatscourant 274 |
+| Commissie Beleidsplanning Politie | 7-6-1984 | Onbekend |   |
+| Commissie Beschrijving Budgetten Politie | 19-3-1991 | Onbekend |   |
+| Commissie Doelmatigheid Politie- apparaat | 10-6-1950 | Onbekend |   |
+| Commissie doelmatigheid politieapparaten | 10-6-1950 | 16-11-1954 |   |
+| Commissie examnes Reservepolitie | 29-10-1987 | Onbekend |   |
+| Commissie Justitie- Politie- Pers. | 08-12-1949 22-3-1950 | Onbekend |   |
+| Commissie omtrent vreemdelingen | 8-1-1993 | Onbekend |   |
+| Commissie Primair Politie- Onderwijs | 20-8-1990 | Onbekend |   |
+| Commissie Schoolwerkplannen primaire Politieopleiding | 14-8-1985 | Onbekend |   |
+| Commissie toetreding CARP II | 2-2-1976 | Onbekend |   |
+| Commissie tot het afnemen van de examens voor de politiediploma’s A een Aa | 13-2-1956 | Onbekend |   |
+| Commissie transactie in handen der Politie | 17-3-1958 | Onbekend |   |
+| Commissie van advies inzake de vaststelling van een uniform proces-verbaal van aanrijding te gebruiken door rijks en gemeentepolitie | 17-2-1960 | Onbekend |   |
+| Commissie van advies met betrekking tot de vaststelling van een definitieve uniform voor de gemeentepolitie | 3-6-1958 | 8-1-1963 |   |
+| Commissie van Toezicht | 14-6-1984 | Onbekend |   |
+| Commissie voor de Politie Verbindingsdienst | 02-11-1966 15-12-1966 25-01-1967 | Onbekend |   |
+| Commissie voor de Politieverbindingsdienst | 25-1-1967 | Onbekend |   |
+| Commissie voor de Reorganisatie en dislocatie der Rijkspolitie | 18-3-1935 | Onbekend |   |
+| Commissie voor georganiseerd overleg in politieambtenarenzaken | 4-9-1961 | Onbekend |   |
+| Commissie voor georganiseerd overleg in politieambtenarenzaken | 3-2-1961 | Onbekend |   |
+| Commissie voortgezette vorming hogere Politie ambtenaren | 8-1-1958 | Onbekend |   |
+| Commissie wapengebruik politie | 9-8-1954 | 14-2-1958 |   |
+| Commissie Werkclassificatie Politiefunctie | 28-11-1957 | Onbekend | Ingesteld bij gemeenschappelijke beschikking van de Minister van Justitie en de Minister van Binnenlandse Zaken |
+| Commissie Werkclassificatie Politiefuncties. Commissie Staten-Generaal 1e Kamer: a.)Buitenlandse Politiek b.)Economische samenwerking c.) Uniezaken | 28-11-1957 | Onbekend |   |
+| Contactcommissie voor de Politie Verbindingen | 22-3-1967 | Onbekend |   |
+| Contactcommissie voorkoming criminaliteit | 21-12-1979 | Onbekend |   |
+| Contactgroep kleding rijkspolitie | 26-5-1976 | Onbekend |   |
+| De dienstcommissie voor de ambtenaren | 1-7-1966 | Onbekend | Werkzaam bij de Intendance der Rijkspolitie |
+| De dienstcommissie voor de ambtenaren | 1-7-1966 | Onbekend | Werkzaam bij de politie Technische Dienst der Rijkspolitie |
+| De dienstcommissie voor de ambtenaren | 1-7-1966 | Onbekend | Werkzaam bij de Politieverbindingsdienst |
+| De Interdepartementale Commissie Herziening Bezoldiging Politiepersoneel | 4-5-1946 | Onbekend |   |
+| Dienstcommissie voor ambtenaren, werkzaam bij de Politie Verbindingsdienst der Rijksdienst / Dienstcommissie voor ambtenaren, werkzaam bij de Politie Technische Dienst | 7-7-1966 | Onbekend |   |
+| Instelling begeleidingscommissie bij ontwikkeling politie-onderwijs | 23-10-1990 | Onbekend | Staatscourant 206 |
+| Instelling Begeleidingscommissie Studiecentrum voor hogere politieambtenaren | 21-8-1974 | Onbekend |   |
+| Instelling bijzondere commissie | 1-1-1960 (besloten op 30-11-1959) | Onbekend | Overleg voor de ambtenaren, behorende tot de onder de Directie Politie van het Departement van Justitie ressorterende diensten en instellingen. |
+| Instelling Commissie Beschrijving Budgetten Politie | 19-3-1991 | Onbekend | Staatscourant 70 |
+| Instelling Raad voor het Korps Landelijke Politiediensten in oprichting | 23-10-1992 | Onbekend | Staatscourant 206 |
+| Instelling van een commissie inzake de verhouding van Justitie, politie en pers | 8-12-1949 | Onbekend |   |
+| Instellingsbeschikking Begeleidingscommissie vuurwapenopleiding | 31-5-1991 | Onbekend | Staatscourant 103 |
+| Interdepartementale Commissie herziening bezoldiging politiepersoneel | 4-5-1946 | Onbekend |   |
+| Interdepartementale commissie van advies | 14-10-1966 | Onbekend |   |
+| Interdepartementale Commissie Voorlichting en Werving Politie | 10-11-1966 | Onbekend |   |
+| Politie Advies Commissie | 10-9-1970 | Onbekend |   |
+| Project nazorg reorganisatie politie en opheffing landelijke projectorganisatie voor reorganisatie politie | 12-7-1994 | Onbekend | Staatscourant 130 |
+| Project vorming korps landelijk politiediensten dat deel uitmaakt van het project reorganisatie politie | 1-3-1991 | Onbekend |   |
+| Raad voor de Korps Landelijke Politiediensten | 21-10-1992 | Onbekend |   |
+| Recherche adviesommissie | 31-7-1969 | Onbekend |   |
+| Registratie commissie, werkgroepen | 28-10-1991 | Onbekend |   |
+| Selectiecommissie geschiktheid kaderfuncties parketpolitie | 6-7-1977 | Onbekend |   |
+| Technische Begeleidingscommissie Politiële Drugsbestrijding | 3-6-1976 | Onbekend |   |
+| Technische Commissie van de Politiekleding | 11-6-1986 | Onbekend |   |
+| Toekenning middelen voor ‘Kleine bouwinitiatieven 1990’ | 25-9-1990 | Onbekend | Staatscourant 186 |
+| Uniform-commissie Korps Rijkspolitie | 1958 | Onbekend | Taak: een concept opstellen voor een definitieve ‘Uniformbeschikking Korps Rijkspolitie’ |
+| Zuiveringscommissies Rijkspersoneel | 27-11-1945 | Onbekend |   |
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
+
+### **8.29 Actor: Directie LSOP**
+
+### **8.30 Actor: Redactieraad APB**
+
+### **8.31 Actor: Adviescommissies**
+
+### **9. C: Actor onder de zorg van de Minister van Financiën**
+
+### **9.1 Actor: Minister van Financiën**
+
+– art. 5.2 Besluit bekwaamheidseisen bevordering politie 1958 (Stb. 1957, 551)
+
+### **10. D: Actor onder de zorg van de Minister van Algemene Zaken**
+
+### **10.1 Actor: Minister-president**
+
+### **10.1.1 Organisatie en beheer**
+
+### **10.1.1.1 Schorsing en ontslag**
+
+– art. 121.5 ARBARP 1967 (Stb, 1967, 391)
+
+### **11. E: Actor onder de zorg van de Minister van Defensie**
+
+### **11.1 Actor: Minister van Defensie**
+
+### **11.1.1 Algemene handelingen**
+
+### **11.1.1.1Beleidsontwikkeling en evaluatie**
+
+Product: bijvoorbeeld: beleidsnota’s, beleidsnotities, rapporten, adviezen, evaluaties.
+
+### **11.1.1.2 Totstandkoming regelgeving**
+
+Waardering: B1
+
+### **11.1.1.4 Internationaal beleid**
+
+### **11.1.1.5 Informatieverstrekking**
+
+### **11.1.1.6 Onderzoek**
+
+### **11.1.2 Organisatie en beheer**
+
+### ****11.1.2.1 Handelingen ingevolge het Besluit Reserve Rijks- en gemeentepolitie****
+
+### **11.1.3 Taak & Bevoegdheden**
+
+### **11.1.3.1 Taak en bevoegdheden in het algemeen**
+
+Periode: 1954–
+
+Waardering: B4
+
+Handeling: het voordragen tot Algemene Maatregelen van Bestuur waarbij personen worden aangewezen als behorend tot de andere dan de Nederlandse strijdkrachten en tot internationale hoofdkwartieren
+
+Grondslag: NAVO-Statusverdrag, (Tractatenblad 1951, 114)
+
+### **11.1.3.2 Handelingen om de orde strafrechtelijk te handhaven**
+
+Product: – Aanwijzingsbeschikking opsporingsambtenaren en hulpofficieren van Justitie (Stcrt. 1958, 1)
+
+– Aanwijzingsbeschikking opsporingsambtenaren politie en marechaussee 1982 (Stcrt. 1981, 251)
+
+Waardering: V, 10 jaar
+
+Handeling: het overeenstemmen met de Minister van Justitie over de aanwijzing van een onderofficier van de Koninklijke Marechaussee tot hulpofficier van Justitie
+
+### **11.1.4 Verlenen van bijstand**
+
+– art. 1.4 Takenbesluit Koninklijke marechaussee (Stb. 1954, 45)
+
+Waardering: B5
+
+### **12. F: VakMinister**
+
+Handeling: het overeenstemmen met de Minister van Binnenlandse Zaken inzake de aanwijzing van een bewakingskern
 
 ## Bijlage 1. Overzicht van commissies
 
