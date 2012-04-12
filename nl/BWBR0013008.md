@@ -4,7 +4,7 @@ identifier: "BWBR0013008"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013008"
 soort: "wet"
@@ -180,19 +180,19 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 1. Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-01-01&g=2012-01-01), met uitzondering van degene die op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2) geen werknemer in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
+- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-04-12&g=2012-04-12), met uitzondering van degene die op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2) geen werknemer in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
 
-- b. gelijkgestelde: degene die geen werknemer is als bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-01-01&g=2012-01-01), doch
+- b. gelijkgestelde: degene die geen werknemer is als bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-04-12&g=2012-04-12), doch
 
 - 1°. op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2), met uitzondering van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a), wel werknemer in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is, of
 
 - 2°. op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) recht heeft op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten;
 
-- c. werkgever: de werkgever, bedoeld in [artikel 1:1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-01-01&g=2012-01-01), of de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11) of [12 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=12).
+- c. werkgever: de werkgever, bedoeld in [artikel 1:1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-04-12&g=2012-04-12), of de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11) of [12 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=12).
 
 2. Voor de toepassing van deze paragraaf wordt mede verstaan onder:
 
-- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-01-01&g=2012-01-01), die vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV);
+- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-04-12&g=2012-04-12), die vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV);
 
 - b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch wel vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV).
 
@@ -232,11 +232,11 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 3:10
 
-1. Een recht op uitkering als bedoeld in de [artikelen 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2012-01-01&g=2012-01-01), en [3:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:8&z=2012-01-01&g=2012-01-01), komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01).
+1. Een recht op uitkering als bedoeld in de [artikelen 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2012-04-12&g=2012-04-12), en [3:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:8&z=2012-04-12&g=2012-04-12), komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12).
 
-2. Een recht op uitkering als bedoeld in de [artikelen 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2012-01-01&g=2012-01-01), en [3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:9&z=2012-01-01&g=2012-01-01), komt mede toe aan de persoon die, op de eerste dag dat een kind feitelijk ter adoptie is opgenomen, korter dan tien weken geen werknemer of gelijkgestelde meer is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01).
+2. Een recht op uitkering als bedoeld in de [artikelen 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2012-04-12&g=2012-04-12), en [3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:9&z=2012-04-12&g=2012-04-12), komt mede toe aan de persoon die, op de eerste dag dat een kind feitelijk ter adoptie is opgenomen, korter dan tien weken geen werknemer of gelijkgestelde meer is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12).
 
-3. Het tweede lid is van overeenkomstige toepassing op de persoon die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-01-01&g=2012-01-01).
+3. Het tweede lid is van overeenkomstige toepassing op de persoon die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-04-12&g=2012-04-12).
 
 #### Recht op uitkering bij nawerking
 
@@ -258,13 +258,13 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 3:12
 
-1. Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. [Artikel 3:11, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2012-01-01&g=2012-01-01), zijn van overeenkomstige toepassing
+1. Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. [Artikel 3:11, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2012-04-12&g=2012-04-12), zijn van overeenkomstige toepassing
 
-2. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, derde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2012-01-01&g=2012-01-01), is van toepassing.
+2. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, derde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2012-04-12&g=2012-04-12), is van toepassing.
 
 3. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van het eerste en tweede lid.
 
-4. Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2012-01-01&g=2012-01-01).
+4. Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2012-04-12&g=2012-04-12).
 
 #### De rechtstreekse aanvraag van uitkering
 
@@ -272,9 +272,9 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 1. De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.
 
-2. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01), en de betrokkene, bedoeld in [artikel 3:10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2012-01-01&g=2012-01-01), vastgesteld en herzien overeenkomstig de vaststelling en herziening met betrekking tot de werknemer, bedoeld in [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b), op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=15) en [16 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) en de daarop berustende bepalingen.
+2. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12), en de betrokkene, bedoeld in [artikel 3:10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2012-04-12&g=2012-04-12), vastgesteld en herzien overeenkomstig de vaststelling en herziening met betrekking tot de werknemer, bedoeld in [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b), op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=15) en [16 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) en de daarop berustende bepalingen.
 
-3. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01), vastgesteld overeenkomstig [artikel 68 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=68) en de regels op grond van [artikel 71, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=71).
+3. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12), vastgesteld overeenkomstig [artikel 68 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=68) en de regels op grond van [artikel 71, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=71).
 
 #### De hoogte van de uitkering
 
@@ -332,7 +332,7 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 2. De strafbepaling van [artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=84) is van overeenkomstige toepassing.
 
-3. In afwijking van het eerste lid, is op de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01), [artikel 43 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=43) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=55) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing.
+3. In afwijking van het eerste lid, is op de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12), [artikel 43 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=43) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=55) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing.
 
 4. [Artikel 35, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.
 
@@ -344,7 +344,7 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 1. Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-- a. beroepsbeoefenaar op arbeidsovereenkomst: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-01-01&g=2012-01-01), die op grond van [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6), geen werknemer in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
+- a. beroepsbeoefenaar op arbeidsovereenkomst: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2012-04-12&g=2012-04-12), die op grond van [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6), geen werknemer in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
 
 - b. zelfstandige: de persoon, jonger dan 65 jaar, die:
 
@@ -366,7 +366,7 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 ##### Artikel 3:18
 
-1. De vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2012-01-01&g=2012-01-01), recht op uitkering.
+1. De vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2012-04-12&g=2012-04-12), recht op uitkering.
 
 2. De vrouwelijke zelfstandige heeft in verband met haar zwangerschap en bevalling recht op uitkering gedurende tenminste zestien weken.
 
@@ -386,7 +386,7 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 8. Zo nodig in afwijking van het zesde en het zevende lid en de daarop berustende bepalingen, bestaat recht op een uitkering voor de persoon voor wie dit recht voortvloeit uit de toepassing van bepalingen van een verdrag of van een besluit van een volkenrechtelijke organisatie en bestaat geen recht op een uitkering voor de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 
-9. Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het zesde lid en van [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:17&z=2012-01-01&g=2012-01-01), uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.
+9. Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het zesde lid en van [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:17&z=2012-04-12&g=2012-04-12), uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.
 
 #### Recht op uitkering voor de beroepsbeoefenaar op arbeidsovereenkomst
 
@@ -404,7 +404,7 @@ Vervallen
 
 ##### Artikel 3:21
 
-1. De vrouwelijke zelfstandige of vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst kan een recht op uitkering op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:18&z=2012-01-01&g=2012-01-01), tezamen met het recht op vakantie-uitkering daarover, genieten in de vorm van een uitkering ter zake van vervanging.
+1. De vrouwelijke zelfstandige of vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst kan een recht op uitkering op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:18&z=2012-04-12&g=2012-04-12), tezamen met het recht op vakantie-uitkering daarover, genieten in de vorm van een uitkering ter zake van vervanging.
 
 2. Toekenning van een uitkering ter zake van vervanging, bedoeld in het eerste lid, is uitsluitend mogelijk:
 
@@ -420,7 +420,7 @@ Vervallen
 
 - a. de vermoedelijke datum van bevalling, onder overlegging van de verklaring van een arts of van een verloskundige waarin die datum is aangegeven;
 
-- b. de datum waarop het zwangerschapsverlof, respectievelijk het recht op uitkering, bedoeld in [artikel 3:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:18&z=2012-01-01&g=2012-01-01), ingaat;
+- b. de datum waarop het zwangerschapsverlof, respectievelijk het recht op uitkering, bedoeld in [artikel 3:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:18&z=2012-04-12&g=2012-04-12), ingaat;
 
 - c. of zij de uitkering wil genieten in de vorm van een uitkering ter zake van vervanging.
 
@@ -434,13 +434,13 @@ Vervallen
 
 2. De uitkering, bedoeld in het eerste lid, bedraagt per dag 100% van de grondslag.
 
-3. Zo nodig in afwijking van het tweede lid en van [artikel 3:29, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3:29&z=2012-01-01&g=2012-01-01), bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in [artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6).
+3. Zo nodig in afwijking van het tweede lid en van [artikel 3:29, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3:29&z=2012-04-12&g=2012-04-12), bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in [artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6).
 
 #### De hoogte van de uitkering terzake van vervanging
 
 ##### Artikel 3:24
 
-De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in [artikel 3:23](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2012-01-01&g=2012-01-01), eerste lid, vermeerderd met het bedrag aan premies en aan vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn.
+De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in [artikel 3:23](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2012-04-12&g=2012-04-12), eerste lid, vermeerderd met het bedrag aan premies en aan vergoeding als bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn.
 
 #### De uitbetaling van de uitkering
 
@@ -504,9 +504,9 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 - b. indien een uitkering is toegekend in de vorm van een uitkering ter zake van vervanging, de overlijdensuitkering wordt betaald overeenkomstig het [eerste lid van artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=61), als was de uitkering toegekend als uitkering in verband met zwangerschap en bevalling of adoptie. Het [zevende lid van artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=61) blijft daarbij buiten toepassing.
 
-5. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 45 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=45) indien de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de vrouwelijke zelfstandige zich niet houdt aan het voorschrift, bedoeld in [artikel 3:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2012-01-01&g=2012-01-01).
+5. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 45 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=45) indien de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de vrouwelijke zelfstandige zich niet houdt aan het voorschrift, bedoeld in [artikel 3:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2012-04-12&g=2012-04-12).
 
-6. Op de instelling, bedoeld in [artikel 3:21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:21&z=2012-01-01&g=2012-01-01), is [artikel 70, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70) van overeenkomstige toepassing.
+6. Op de instelling, bedoeld in [artikel 3:21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:21&z=2012-04-12&g=2012-04-12), is [artikel 70, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70) van overeenkomstige toepassing.
 
 #### § 3. Slotbepalingen
 
@@ -524,19 +524,19 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel recht heeft op een uitkering in verband met adoptie als op een uitkering in verband met pleegzorg wordt hem de uitkering in verband met pleegzorg of ter zake van vervanging in verband met pleegzorg niet uitbetaald.
 
-2. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) van deze afdeling, wordt hem de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) uitbetaald voorzover deze de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) van deze afdeling overtreft. Indien de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van dit lid die uitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
+2. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) van deze afdeling, wordt hem de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) uitbetaald voorzover deze de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) van deze afdeling overtreft. Indien de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van dit lid die uitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
 
-3. Indien een vrouwelijke zelfstandige of een vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst over eenzelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01), als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) van deze afdeling, worden haar, in afwijking van het tweede lid, zowel de uitkering op grond van zowel [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01), als de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) uitbetaald, mits de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst niet vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV) en voor zover:
+3. Indien een vrouwelijke zelfstandige of een vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst over eenzelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12), als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) van deze afdeling, worden haar, in afwijking van het tweede lid, zowel de uitkering op grond van zowel [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12), als de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) uitbetaald, mits de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst niet vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV) en voor zover:
 
 - a. werkzaamheden als vrouwelijke zelfstandige of vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst worden verricht; en
 
-- b. de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) en de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) samen niet meer bedragen dan 100% van de som van de inkomsten uit of in verband met arbeid die de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst ontving op de dag direct voorafgaande aan de dag waarop recht op uitkering op grond van [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01), en de uitkering op grond van [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01), ontstaat.
+- b. de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) en de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) samen niet meer bedragen dan 100% van de som van de inkomsten uit of in verband met arbeid die de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst ontving op de dag direct voorafgaande aan de dag waarop recht op uitkering op grond van [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12), en de uitkering op grond van [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12), ontstaat.
 
-4. Indien een gelijkgestelde als bedoeld in [artikel 3:6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-01-01&g=2012-01-01), over dezelfde periode tevens uit andere hoofde recht heeft op één of meerdere uitkeringen op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01), wordt de uitkering van die gelijkgestelde uitbetaald voorzover deze uitkering samen met de andere uitkeringen niet meer bedraagt dan 100% van het dagloon dat ten grondslag ligt aan de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten.
+4. Indien een gelijkgestelde als bedoeld in [artikel 3:6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2012-04-12&g=2012-04-12), over dezelfde periode tevens uit andere hoofde recht heeft op één of meerdere uitkeringen op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12), wordt de uitkering van die gelijkgestelde uitbetaald voorzover deze uitkering samen met de andere uitkeringen niet meer bedraagt dan 100% van het dagloon dat ten grondslag ligt aan de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten.
 
-5. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.
+5. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.
 
-6. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt:
+6. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt:
 
 - a. indien de grondslag van de eerstgenoemde uitkering lager is dan de grondslag van de arbeidsongeschiktheidsuitkering of daaraan gelijk is, de eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan de grondslag van de arbeidsongeschiktheidsuitkering;
 
@@ -544,7 +544,7 @@ Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel r
 
 - c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 weken bedoeld in [artikel 7, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7), in afwijking van de onderdelen a en b, de eerstgenoemde uitkering uitbetaald voorzover deze de arbeidsongeschiktheidsuitkering overtreft.
 
-7. Voor de toepassing van het derde tot en met vijfde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-01-01&g=2012-01-01) van deze afdeling en uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.
+7. Voor de toepassing van het derde tot en met vijfde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2012-04-12&g=2012-04-12) van deze afdeling en uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2012-04-12&g=2012-04-12) van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.
 
 8. Indien de arbeidsongeschiktheidsuitkering geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van het vierde en vijfde lid de arbeidsongeschiktheidsuitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
 
@@ -626,7 +626,7 @@ De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt d
 
 ##### Artikel 4:7
 
-Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2012-01-01&g=2012-01-01), voor wat betreft de loonbetaling, en de [artikelen 4:2 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2012-01-01&g=2012-01-01) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2012-01-01&g=2012-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
+Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2012-04-12&g=2012-04-12), voor wat betreft de loonbetaling, en de [artikelen 4:2 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2012-04-12&g=2012-04-12) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2012-04-12&g=2012-04-12) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
 
 ### Hoofdstuk 5. Kort- en langdurend zorgverlof
 
@@ -686,7 +686,7 @@ De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt d
 
 ##### Artikel 5:6
 
-1. Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-01-01&g=2012-01-01), recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.
+1. Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-04-12&g=2012-04-12), recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.
 
 2. Het eerste lid is van overeenkomstige toepassing op de werknemer, die arbeid verricht op grond van een publiekrechtelijke aanstelling.
 
@@ -714,7 +714,7 @@ De werknemer heeft recht op verlof zonder behoud van loon voor de verzorging van
 
 - a. de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
 
-- b. een kind tot wie de werknemer of de persoon bedoeld in onderdeel a als ouder in een familierechtelijke betrekking staat, dan wel een pleegkind van de werknemer als bedoeld in [artikel 5:1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-01-01&g=2012-01-01);
+- b. een kind tot wie de werknemer of de persoon bedoeld in onderdeel a als ouder in een familierechtelijke betrekking staat, dan wel een pleegkind van de werknemer als bedoeld in [artikel 5:1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-04-12&g=2012-04-12);
 
 - c. een bloedverwant in de eerste graad van de werknemer.
 
@@ -804,7 +804,7 @@ Geen recht op verlof als bedoeld in artikel 6:1 bestaat na de datum waarop het k
 
 ##### Artikel 6:6
 
-1. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van zwangerschaps-, bevallings- of adoptieverlof als bedoeld in de [artikelen 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2012-01-01&g=2012-01-01), onderscheidenlijk [3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2012-01-01&g=2012-01-01). Een verzoek om het verlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden kan de werkgever afwijzen indien een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.
+1. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van zwangerschaps-, bevallings- of adoptieverlof als bedoeld in de [artikelen 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2012-04-12&g=2012-04-12), onderscheidenlijk [3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2012-04-12&g=2012-04-12). Een verzoek om het verlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden kan de werkgever afwijzen indien een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.
 
 2. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. In het geval dat het verlof met toepassing van het eerste lid, eerste volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, wordt het recht op het overige deel van het verlof opgeschort. In het geval dat het verlof met toepassing van het eerste lid, tweede volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, vervalt het recht op het overige deel van het verlof.
 
@@ -824,7 +824,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 6:8
 
-Van de [artikelen 6:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2012-01-01&g=2012-01-01), [6:2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2012-01-01&g=2012-01-01), [6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2012-01-01&g=2012-01-01), [6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2012-01-01&g=2012-01-01), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2012-01-01&g=2012-01-01), ten aanzien van het tijdstip van melding, en tweede lid, en [6:6, eerste lid, tweede volzin, en tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2012-01-01&g=2012-01-01) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst.
+Van de [artikelen 6:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2012-04-12&g=2012-04-12), [6:2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2012-04-12&g=2012-04-12), [6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2012-04-12&g=2012-04-12), [6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2012-04-12&g=2012-04-12), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2012-04-12&g=2012-04-12), ten aanzien van het tijdstip van melding, en tweede lid, en [6:6, eerste lid, tweede volzin, en tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2012-04-12&g=2012-04-12) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst.
 
 #### Diensttijd
 
@@ -1086,7 +1086,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1:5
 
-Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=5&artikel=4:7&z=2012-01-01&g=2012-01-01) en 5:16 geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
+Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=5&artikel=4:7&z=2012-04-12&g=2012-04-12) en 5:16 geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
 
 #### Gereserveerd
 
@@ -1146,7 +1146,7 @@ Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. De werknemer dient het verzoek om verlof ten minste twee weken voor het beoogde tijdstip van ingang van het verlof schriftelijk in bij de werkgever onder opgave van de reden, de persoon die verzorging behoeft, het tijdstip van ingang, de omvang, de voorgenomen duur van het verlof en de spreiding van de uren over de week of het anderszins overeengekomen tijdvak.
 
-2. De werknemer verstrekt desgevraagd aan de werkgever schriftelijk aanvullende informatie waarover hij redelijkerwijs en op korte termijn kan beschikken teneinde aannemelijk te maken dat is voldaan aan de op grond van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-01-01&g=2012-01-01) geldende voorwaarden. De werkgever doet een schriftelijk verzoek tot het verstrekken van aanvullende informatie binnen een week nadat het verzoek om verlof bij hem is ingediend.
+2. De werknemer verstrekt desgevraagd aan de werkgever schriftelijk aanvullende informatie waarover hij redelijkerwijs en op korte termijn kan beschikken teneinde aannemelijk te maken dat is voldaan aan de op grond van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-04-12&g=2012-04-12) geldende voorwaarden. De werkgever doet een schriftelijk verzoek tot het verstrekken van aanvullende informatie binnen een week nadat het verzoek om verlof bij hem is ingediend.
 
 3. De werkgever willigt het verzoek om verlof van de werknemer in, tenzij hij tegen het opnemen van het verlof een zodanig zwaarwegend bedrijfs- of dienstbelang heeft, dat het belang van de werknemer daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
 
@@ -1160,7 +1160,7 @@ Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 5:12
 
-1. Het verlof bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-01-01&g=2012-01-01) gaat niet in voordat ten minste twee weken zijn verstreken nadat de werknemer het verzoek om verlof bedoeld in [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:11&z=2012-01-01&g=2012-01-01) heeft ingediend.
+1. Het verlof bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-04-12&g=2012-04-12) gaat niet in voordat ten minste twee weken zijn verstreken nadat de werknemer het verzoek om verlof bedoeld in [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:11&z=2012-04-12&g=2012-04-12) heeft ingediend.
 
 2. In afwijking van het eerste lid kan het verlof op verzoek van de werknemer ingaan op een eerder tijdstip indien de werkgever daarmee instemt.
 
@@ -1176,7 +1176,7 @@ Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 5:14
 
-Indien het verzoek om langdurend zorgverlof wordt ingewilligd, kan het daaraan voorafgaand kortdurend zorgverlof bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-01-01&g=2012-01-01) op verzoek van de werknemer en met inachtneming van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:12&z=2012-01-01&g=2012-01-01), geheel of gedeeltelijk worden aangemerkt als langdurend zorgverlof.
+Indien het verzoek om langdurend zorgverlof wordt ingewilligd, kan het daaraan voorafgaand kortdurend zorgverlof bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-04-12&g=2012-04-12) op verzoek van de werknemer en met inachtneming van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:12&z=2012-04-12&g=2012-04-12), geheel of gedeeltelijk worden aangemerkt als langdurend zorgverlof.
 
 ### Afdeling 3. Nadere voorschriften
 
@@ -1184,13 +1184,13 @@ Indien het verzoek om langdurend zorgverlof wordt ingewilligd, kan het daaraan v
 
 ##### Artikel 5:15
 
-Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-01-01&g=2012-01-01) of [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-01-01&g=2012-01-01), kunnen niet worden aangemerkt als vakantie.
+Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2012-04-12&g=2012-04-12) of [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2012-04-12&g=2012-04-12), kunnen niet worden aangemerkt als vakantie.
 
 #### Recht met afwijkingsmogelijkheden
 
 ##### Artikel 5:16
 
-Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of bij het ontbreken daarvan, met de personeeelsvertegenwoordiging met dien verstande dat de werknemer bij afwijking van [artikel 5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=3&artikel=5:15&z=2012-01-01&g=2012-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
+Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of bij het ontbreken daarvan, met de personeeelsvertegenwoordiging met dien verstande dat de werknemer bij afwijking van [artikel 5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=3&artikel=5:15&z=2012-04-12&g=2012-04-12) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
 
 ### Hoofdstuk 6. Ouderschapsverlof
 
@@ -1367,3 +1367,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 #### Inwerkingtreding
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6:1a. Bescherming tegen benadeling
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op verlof, bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2012-04-12&g=2012-04-12), geldend maakt of ter zake bijstand heeft verleend.
