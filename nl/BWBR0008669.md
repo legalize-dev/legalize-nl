@@ -4,7 +4,7 @@ identifier: "BWBR0008669"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-14"
-last_updated: "2003-07-20"
+last_updated: "2012-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008669"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren die zijn belast met het toezicht op de naleving van aanwijzingen, gegeven krachtens [artikel 5 van de Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=5), en met het uitvoeren van maatregelen, genomen krachtens [artikel 6 van de Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=6), worden aangewezen de directeur Kustwacht en de ambtenaren van de in de Kustwacht samenwerkende diensten die door hem zijn belast met de operationele rampen- en incidentenbestrijding ingevolge het Rampenplan voor de Noordzee 2003.
+Als ambtenaren die zijn belast met het toezicht op de naleving van aanwijzingen, gegeven krachtens [artikel 5 van de Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=5), en met het uitvoeren van maatregelen, genomen krachtens [artikel 6 van de Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=6), worden aangewezen de directeur Kustwacht en de ambtenaren van de in de Kustwacht samenwerkende diensten die door hem zijn belast met de incidentenbestrijding overeenkomstig het Incidentbestrijdingsplan Noordzee.
 
 ##### Artikel 2
 
