@@ -4,7 +4,7 @@ identifier: "BWBR0021449"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2015-03-01"
-last_updated: "2011-12-23"
+last_updated: "2012-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021449"
 soort: "beleidsregel"
@@ -78,6 +78,10 @@ Medeplichtigheid
 **(DV) + dagvaarden**
 
 Geen
+
+**Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.**
+
+**(CKT) + contra-indicatie kale taakstraf**
 
 Geen
 
