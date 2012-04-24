@@ -4,7 +4,7 @@ identifier: "BWBR0004739"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004739"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - c. NMP-2: Tweede Nationaal Milieubeleidsplan (kamerstukken II 1993/94, 23 560, nr. 2);
 
-- d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in [artikel 1.1 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=1.1), met uitzondering van een keuken met een vloeroppervlak van minder dan 11m2;
+- d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), met uitzondering van een keuken met een vloeroppervlak van minder dan 11m2;
 
 - e. ander geluidsgevoelig gebouw:
 
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - f. geluidsgevoelig terrein: terrein dat behoort bij een gebouw als bedoeld onder f, onder 5°, voor zover dat terrein bestemd is of gebruikt wordt voor de in dat gebouw gegeven zorg;
 
-- g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=1.1);
+- g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
 - h. verkeersmaatregelen: maatregelen met betrekking tot de weg die het geluid, veroorzaakt door het verkeer op de weg, verminderen.
 
@@ -178,29 +178,29 @@ Vervallen
 
 Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 een beschikking tot vaststelling van een bijdrage ten bedrage van € 453 780,22 ten behoeve van:
 
-- a. een jaarlijkse rapportage vóór 1 juli in 1995, 1996, 1997 en 1998 over de voortgang bij de provincies van het akoestisch onderzoek met betrekking tot de in [artikel 3a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2009-07-01&g=2009-07-01), bedoelde industrieterreinen, en
+- a. een jaarlijkse rapportage vóór 1 juli in 1995, 1996, 1997 en 1998 over de voortgang bij de provincies van het akoestisch onderzoek met betrekking tot de in [artikel 3a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2012-04-24&g=2012-04-24), bedoelde industrieterreinen, en
 
 - b. een jaarlijkse rapportage vóór 1 juli in 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 en 2008 over de voortgang van de uitvoering van de programma’s van maatregelen.
 
 ##### Artikel 4a
 
-1. Het Interprovinciaal Overleg richt de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), in overeenkomstig [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2009-07-01&g=2009-07-01).
+1. Het Interprovinciaal Overleg richt de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), in overeenkomstig [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2012-04-24&g=2012-04-24).
 
-2. Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), wordt ingericht.
+2. Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), wordt ingericht.
 
 ##### Artikel 4b
 
-1. Indien een rapportage als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), te laat of in het geheel niet over een kalenderjaar wordt toegezonden, dan wel niet is opgesteld overeenkomstig [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2009-07-01&g=2009-07-01), kan Onze Minister de beschikking tot vaststelling van de bijdrage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), geheel of gedeeltelijk intrekken. Onze Minister kan het betaalde bedrag geheel of gedeeltelijk terugvorderen.
+1. Indien een rapportage als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), te laat of in het geheel niet over een kalenderjaar wordt toegezonden, dan wel niet is opgesteld overeenkomstig [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2012-04-24&g=2012-04-24), kan Onze Minister de beschikking tot vaststelling van de bijdrage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), geheel of gedeeltelijk intrekken. Onze Minister kan het betaalde bedrag geheel of gedeeltelijk terugvorderen.
 
 2. Onze Minister kent zo spoedig mogelijk na ontvangst van het teruggevorderde bedrag aan de provincie een twaalfde van dat bedrag toe.
 
 3. Indien het uitblijven van de rapportage mede het gevolg is van het niet of onvolledig verstrekken door gedeputeerde staten van gegevens aan het Interprovinciaal Overleg, kent Onze Minister dat de provincie waartoe gedeputeerde staten behoren geen gedeelte van het teruggevorderde bedrag toe. Hij verdeelt dan het teruggevorderde bedrag over de overige provincies.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), te laat of in het geheel niet in één van de in dat artikel, onder **b** , bedoelde kalenderjaren is ontvangen, dan wel die rapportage niet is opgesteld overeenkomstig de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2009-07-01&g=2009-07-01) en [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2009-07-01&g=2009-07-01).
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), te laat of in het geheel niet in één van de in dat artikel, onder **b** , bedoelde kalenderjaren is ontvangen, dan wel die rapportage niet is opgesteld overeenkomstig de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2012-04-24&g=2012-04-24) en [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2012-04-24&g=2012-04-24).
 
 ##### Artikel 4c
 
-1. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg ten behoeve van de rapportage, bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), met ingang van 1996 telkens in januari van het lopende kalenderjaar de gegevens over de voortgang in hun provincie van het akoestisch onderzoek met betrekking tot de in [artikel 3a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2009-07-01&g=2009-07-01), bedoelde industrieterreinen.
+1. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg ten behoeve van de rapportage, bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), met ingang van 1996 telkens in januari van het lopende kalenderjaar de gegevens over de voortgang in hun provincie van het akoestisch onderzoek met betrekking tot de in [artikel 3a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2012-04-24&g=2012-04-24), bedoelde industrieterreinen.
 
 2. Indien de gegevens niet of onvolledig zijn verstrekt, doet het Interprovinciaal Overleg daarvan mededeling in de rapportage.
 
@@ -212,21 +212,21 @@ Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 ee
 
 - a. het totale aantal saneringsprogramma’s waarin maatregelen zijn genoemd die vóór 1 januari 2003 geëffectueerd moeten zijn;
 
-- b. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1996 zijn uitgevoerd, onder vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma, en welk percentage daarvan is bekostigd uit de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01), voor het jaar 1995;
+- b. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1996 zijn uitgevoerd, onder vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma, en welk percentage daarvan is bekostigd uit de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24), voor het jaar 1995;
 
-- c. met betrekking tot de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01), voor het jaar 1995:
+- c. met betrekking tot de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24), voor het jaar 1995:
 
 - 1°. het bedrag dat in dat jaar niet is uitgegeven;
 
 - 2°. het bedrag dat van het in dat jaar niet-uitgegeven bedrag is verplicht, onder vermelding van het jaar waarin de betaling wordt verwacht, en
 
-- 3°. het bedrag dat van het in 1995 niet-uitgegeven bedrag is gereserveerd voor het doen van toekomstige uitgaven als bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01);
+- 3°. het bedrag dat van het in 1995 niet-uitgegeven bedrag is gereserveerd voor het doen van toekomstige uitgaven als bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24);
 
 - d. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1997 zullen zijn uitgevoerd.
 
 3. Bij de vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma worden de kosten uitgesplitst naar de in [artikel 2, eerste lid, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2) onderscheiden categorieën van maatregelen.
 
-4. Voor zover het verlenen, wijzigen of aanvullen van een vergunning deel uitmaakt van de op 1 januari 1996 uitgevoerde maatregelen, bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01), verklaren gedeputeerde staten ten aanzien van iedere verleende, gewijzigde of aangevulde vergunning dat deze voorziet in een effectuering vóór 1 januari 2003. De verklaringen maken deel uit van de gegevens, bedoeld in het tweede lid.
+4. Voor zover het verlenen, wijzigen of aanvullen van een vergunning deel uitmaakt van de op 1 januari 1996 uitgevoerde maatregelen, bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24), verklaren gedeputeerde staten ten aanzien van iedere verleende, gewijzigde of aangevulde vergunning dat deze voorziet in een effectuering vóór 1 januari 2003. De verklaringen maken deel uit van de gegevens, bedoeld in het tweede lid.
 
 5. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg, met ingang van 1997, telkens in januari van het lopende kalenderjaar de gegevens, bedoeld in het tweede lid, onder **b** en **c**, over het daaraan voorafgaande kalenderjaar en de gegevens, bedoeld in het tweede lid, onder **d**, per 1 januari van het kalenderjaar dat volgt op het lopende kalenderjaar. Het derde en vierde lid zijn van overeenkomstige toepassing.
 
@@ -254,7 +254,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 
 ##### Artikel 6a
 
-1. Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3&z=2009-07-01&g=2009-07-01) bedoelde lijst en het in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3b&z=2009-07-01&g=2009-07-01) bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.
+1. Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3&z=2012-04-24&g=2012-04-24) bedoelde lijst en het in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3b&z=2012-04-24&g=2012-04-24) bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.
 
 2. De subsidie kan uitsluitend worden besteed aan kosten van uiterlijk vóór 1 januari 2008 te treffen maatregelen als bedoeld in [artikel 2, eerste lid, onder a tot en met e, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2). Voor zover het maatregelen betreft als bedoeld in [artikel 2, eerste lid, onder b en c, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2) kan ten hoogste 20% van de met betrekking tot die maatregelen vastgestelde subsidie tevens worden besteed aan kosten van voorbereiding, begeleiding en toezicht van deze maatregelen.
 
@@ -276,7 +276,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 | Noord-Brabant | € 4 859 366,25 |
 | Limburg | € 2 405 772,54 |
 
-2. Onze Minister kan, gelet op één of meer rapportages als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), de voor de uitvoering van deze paragraaf beschikbare subsidie, op aanvraag van het Interprovinciaal Overleg, één keer met € 1 815 120,86 verhogen.
+2. Onze Minister kan, gelet op één of meer rapportages als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), de voor de uitvoering van deze paragraaf beschikbare subsidie, op aanvraag van het Interprovinciaal Overleg, één keer met € 1 815 120,86 verhogen.
 
 3. De aanvraag, bedoeld in het tweede lid, gaat vergezeld van een voorstel – waarmee door gedeputeerde staten van alle provincies is ingestemd – tot verdeling van de in het tweede lid genoemde subsidie over de provincies.
 
@@ -302,37 +302,37 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 | Noord-Brabant | € | 4 545 819,54 |   |
 | Limburg | € | 886 115,00 |   |
 
-2. Voor zover het in het eerste lid vermelde bedrag lager is dan het voor de desbetreffende provincie vermelde bedrag in [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2009-07-01&g=2009-07-01), is die provincie dat bedrag verschuldigd aan Onze Minister.
+2. Voor zover het in het eerste lid vermelde bedrag lager is dan het voor de desbetreffende provincie vermelde bedrag in [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2012-04-24&g=2012-04-24), is die provincie dat bedrag verschuldigd aan Onze Minister.
 
-3. Voor zover het in het eerste lid vermelde bedrag hoger is dan het voor de desbetreffende provincie vermelde bedrag in [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2009-07-01&g=2009-07-01), is Onze Minister dat bedrag verschuldigd aan die provincie.
+3. Voor zover het in het eerste lid vermelde bedrag hoger is dan het voor de desbetreffende provincie vermelde bedrag in [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2012-04-24&g=2012-04-24), is Onze Minister dat bedrag verschuldigd aan die provincie.
 
 ##### Artikel 6d
 
-De betaling van de voor iedere provincie voor de uitvoering van het saneringsprogramma krachtens [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2009-07-01&g=2009-07-01) vastgestelde subsidie, vindt telkens uiterlijk in mei plaats.
+De betaling van de voor iedere provincie voor de uitvoering van het saneringsprogramma krachtens [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2012-04-24&g=2012-04-24) vastgestelde subsidie, vindt telkens uiterlijk in mei plaats.
 
 ##### Artikel 6e
 
-1. Indien uit de jaarlijkse rapportage, bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), in 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 of 2007 blijkt dat er nagenoeg geen kans is dat ten aanzien van alle in [artikel 4d , tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2009-07-01&g=2009-07-01), bedoelde saneringsprogramma’s de daarin genoemde maatregelen vóór 1 januari 2008 zijn uitgevoerd, kan Onze Minister gedeputeerde staten de verplichting opleggen om op eigen kosten, met inachtneming van door Onze Minister te stellen richtlijnen, een onderzoek in te stellen naar de factoren die de oorzaak zijn van dit dreigend tekortschieten en de mogelijkheden deze weg te nemen, dan wel daarin verbetering te brengen.
+1. Indien uit de jaarlijkse rapportage, bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), in 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 of 2007 blijkt dat er nagenoeg geen kans is dat ten aanzien van alle in [artikel 4d , tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2012-04-24&g=2012-04-24), bedoelde saneringsprogramma’s de daarin genoemde maatregelen vóór 1 januari 2008 zijn uitgevoerd, kan Onze Minister gedeputeerde staten de verplichting opleggen om op eigen kosten, met inachtneming van door Onze Minister te stellen richtlijnen, een onderzoek in te stellen naar de factoren die de oorzaak zijn van dit dreigend tekortschieten en de mogelijkheden deze weg te nemen, dan wel daarin verbetering te brengen.
 
 2. Onze Minister maakt uiterlijk binnen 12 weken na ontvangst van de rapportage gebruik van zijn bevoegdheid, bedoeld in het eerste lid, of van de hem toekomende bevoegdheden met betrekking tot de vastgestelde subsidie.
 
 ##### Artikel 6f
 
-Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), de gegevens, bedoeld in [artikel 4d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2009-07-01&g=2009-07-01), niet of onvolledig hebben verstrekt aan het Interprovinciaal Overleg, of die rapportage op 1 oktober van het kalenderjaar waarin zij op 1 juli ontvangen had moeten zijn, niet ontvangen is, kan Onze Minister gedeputeerde staten verplichten uiterlijk op de eerstvolgende 1 februari te rapporteren over de voortgang van de afronding van de uitvoering van de saneringsprogramma's. Artikel 3m, tweede en derde lid, is van overeenkomstige toepassing.
+Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), de gegevens, bedoeld in [artikel 4d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2012-04-24&g=2012-04-24), niet of onvolledig hebben verstrekt aan het Interprovinciaal Overleg, of die rapportage op 1 oktober van het kalenderjaar waarin zij op 1 juli ontvangen had moeten zijn, niet ontvangen is, kan Onze Minister gedeputeerde staten verplichten uiterlijk op de eerstvolgende 1 februari te rapporteren over de voortgang van de afronding van de uitvoering van de saneringsprogramma's. Artikel 3m, tweede en derde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 6g
 
-1. In afwijking van [artikel 6**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01), geeft Onze Minister in het vervolg geen ambtshalve beschikking tot subsidievaststelling indien:
+1. In afwijking van [artikel 6**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24), geeft Onze Minister in het vervolg geen ambtshalve beschikking tot subsidievaststelling indien:
 
-- a. een aan gedeputeerde staten krachtens [artikel 6**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6e&z=2009-07-01&g=2009-07-01) opgelegde rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2009-07-01&g=2009-07-01), door hem op 1 februari niet ontvangen is, of
+- a. een aan gedeputeerde staten krachtens [artikel 6**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6e&z=2012-04-24&g=2012-04-24) opgelegde rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2012-04-24&g=2012-04-24), door hem op 1 februari niet ontvangen is, of
 
 - b. blijkens de hem toegezonden rapportage gedeputeerde staten aan het Interprovinciaal Overleg niet of onvolledig de gevraagde gegevens hebben verstrekt.
 
-2. [Artikel 3**o**, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3o&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+2. [Artikel 3**o**, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3o&z=2012-04-24&g=2012-04-24), is van overeenkomstige toepassing.
 
 ##### Artikel 6h
 
-1. Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2009-07-01&g=2009-07-01), is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.
+1. Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2012-04-24&g=2012-04-24), is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.
 
 2. Onze Minister stelt bij de in het eerste lid bedoelde mededeling een termijn van ten hoogste acht weken binnen welke de ontbrekende informatie alsnog moet worden verstrekt.
 
@@ -882,15 +882,15 @@ Vervallen
 
 ##### Artikel 50
 
-Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2009-07-01&g=2009-07-01) betrekking heeft op een activiteit die nog niet geheel is uitgevoerd, is de aanvrager verplicht zodra de activiteit is uitgevoerd of is stopgezet Onze Minister daarvan in kennis te stellen.
+Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2012-04-24&g=2012-04-24) betrekking heeft op een activiteit die nog niet geheel is uitgevoerd, is de aanvrager verplicht zodra de activiteit is uitgevoerd of is stopgezet Onze Minister daarvan in kennis te stellen.
 
 ##### Artikel 51
 
-1. Onze Minister geeft de beschikking op de aanvraag tot verlening van subsidie als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2009-07-01&g=2009-07-01) binnen vijf maanden na de datum waarop de aanvraag is ontvangen.
+1. Onze Minister geeft de beschikking op de aanvraag tot verlening van subsidie als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2012-04-24&g=2012-04-24) binnen vijf maanden na de datum waarop de aanvraag is ontvangen.
 
 2. In de gevallen waarin de aanvraag, bedoeld in het eerste lid, betrekking heeft op een activiteit die is uitgevoerd, wordt een aanvraag tot verlening van subsidie geacht een aanvraag tot subsidievaststelling te zijn. Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven.
 
-3. In de gevallen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=50&z=2009-07-01&g=2009-07-01), geeft Onze Minister de beschikking tot subsidievaststelling binnen vijf maanden na de ontvangst van de mededeling van de aanvrager dat de activiteit is uitgevoerd of stopgezet.
+3. In de gevallen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=50&z=2012-04-24&g=2012-04-24), geeft Onze Minister de beschikking tot subsidievaststelling binnen vijf maanden na de ontvangst van de mededeling van de aanvrager dat de activiteit is uitgevoerd of stopgezet.
 
 ##### Artikel 52
 
@@ -912,11 +912,11 @@ Vervallen
 
 ##### Artikel 55
 
-In afwijking van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=51&z=2009-07-01&g=2009-07-01), kan Onze Minister, in afwachting van een wijziging van het voor dat jaar vastgestelde subsidieplafond de beslissing op een subsidie-aanvraag geheel of gedeeltelijk aanhouden tot uiterlijk 15 december van het kalenderjaar waarin de subsidie is aangevraagd. Hij deelt de aanhouding aan de aanvrager mee.
+In afwijking van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=51&z=2012-04-24&g=2012-04-24), kan Onze Minister, in afwachting van een wijziging van het voor dat jaar vastgestelde subsidieplafond de beslissing op een subsidie-aanvraag geheel of gedeeltelijk aanhouden tot uiterlijk 15 december van het kalenderjaar waarin de subsidie is aangevraagd. Hij deelt de aanhouding aan de aanvrager mee.
 
 ##### Artikel 56
 
-Indien Onze Minister toepassing heeft gegeven aan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=55&z=2009-07-01&g=2009-07-01) geeft hij uiterlijk binnen acht weken na afloop van de aanhouding een beschikking op de aanvraag.
+Indien Onze Minister toepassing heeft gegeven aan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=55&z=2012-04-24&g=2012-04-24) geeft hij uiterlijk binnen acht weken na afloop van de aanhouding een beschikking op de aanvraag.
 
 ##### Artikel 57
 
@@ -1032,7 +1032,7 @@ Vervallen
 
 ##### Artikel 81a
 
-Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), 15.13, [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2009-07-01&g=2009-07-01) en [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2009-07-01&g=2009-07-01), en 21.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en 106, 126a, 129 en 174 van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
+Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), 15.13, [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2012-04-24&g=2012-04-24) en [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2012-04-24&g=2012-04-24), en 21.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en 106, 126a, 129 en 174 van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
 
 ##### Artikel 82
 
@@ -1642,7 +1642,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 1. Verkeersmaatregelen tegen wegverkeerslawaai
 
-Het in [artikel 12**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12a&z=2009-07-01&g=2009-07-01), bedoelde bedrag is de uitkomst van de volgende berekening volgens de onderstaande desbetreffende tabel:
+Het in [artikel 12**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12a&z=2012-04-24&g=2012-04-24), bedoelde bedrag is de uitkomst van de volgende berekening volgens de onderstaande desbetreffende tabel:
 
 de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt, verminderd met de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) toeneemt.
 
@@ -1654,17 +1654,17 @@ de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of
 
 ### 2. Geluidreducerende maatregelen aan de constructie van een spoorweg
 
-Het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=18&z=2009-07-01&g=2009-07-01) bedoelde bedrag is de uitkomst van de volgende berekening volgens onderstaande tabel: de som van de normbedragen voor de woningen of andere geluidsgevoelige gebouwen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt:
+Het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=18&z=2012-04-24&g=2012-04-24) bedoelde bedrag is de uitkomst van de volgende berekening volgens onderstaande tabel: de som van de normbedragen voor de woningen of andere geluidsgevoelige gebouwen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt:
 
 Het bedrag dat de uitkomst is van de berekening volgens bovenstaande tabel kan worden verhoogd met maximaal 30%, ter vergoeding van eventuele bijkomende werkzaamheden aan de constructie van de spoorweg die noodzakelijk zijn om het treffen van de geluidreducerende maatregelen mogelijk te maken.
 
 ### 3. Onttrekking aan bestemming vanwege wegverkeerslawaai
 
-Het in [artikel 12k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2009-07-01&g=2009-07-01), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
+Het in [artikel 12k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2012-04-24&g=2012-04-24), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
 
 ### 4. Onttrekking aan bestemming vanwege railverkeerslawaai
 
-Het in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.5&artikel=19&z=2009-07-01&g=2009-07-01), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
+Het in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.5&artikel=19&z=2012-04-24&g=2012-04-24), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
 
 ## Bijlage B. Behorende bij het Bijdragenbesluit openbare lichamen milieubeheer
 
