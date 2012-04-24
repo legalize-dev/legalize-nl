@@ -4,7 +4,7 @@ identifier: "BWBR0030717"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-24"
-last_updated: "2011-11-01"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030717"
 soort: "ministeriele-regeling"
@@ -89,7 +89,7 @@ Als leden van de commissie worden benoemd:
 
 ##### Artikel 8. Vergoeding
 
-De leden van de Commissie ontvangen een vaste vergoeding per maand, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 20 uur per week.
+De leden van de Commissie ontvangen een vaste vergoeding per maand, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 32 uur per week.
 
 ##### Artikel 9. Archivering
 
