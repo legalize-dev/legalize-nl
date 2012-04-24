@@ -4,7 +4,7 @@ identifier: "BWBR0031388"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-04-24"
-last_updated: "2012-04-01"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031388"
 soort: "AMvB"
@@ -80,13 +80,9 @@ Wijzigt het Asbestverwijderingsbesluit 2005.
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 3
 
 Wijzigt het Besluit burgerluchthavens.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
@@ -112,13 +108,9 @@ Wijzigt het Drinkwaterbesluit.
 
 Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 10
 
 Wijzigt het Vuurwerkbesluit.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 4. Ministerie van Sociale Zaken en Werkgelegenheid
 
@@ -136,11 +128,11 @@ Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.
 
 ##### Artikel 1
 
-1. Dit besluit treedt, met uitzondering van [hoofdstuk 1, artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01), en [hoofdstuk 3, de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=2&z=2012-04-01&g=2012-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=3&z=2012-04-01&g=2012-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=9&z=2012-04-01&g=2012-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=10&z=2012-04-01&g=2012-04-01), in werking op het tijdstip bedoeld in [artikel 9.4, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=9.4).
+1. Dit besluit treedt, met uitzondering van [hoofdstuk 1, artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=1&artikel=1&z=2012-04-24&g=2012-04-24), en [hoofdstuk 3, de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=2&z=2012-04-24&g=2012-04-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=3&z=2012-04-24&g=2012-04-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=9&z=2012-04-24&g=2012-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=10&z=2012-04-24&g=2012-04-24), in werking op het tijdstip bedoeld in [artikel 9.4, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=9.4).
 
-2. [Hoofdstuk 1, artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01), treedt in werking op het tijdstip dat [artikel 5.2 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=5.2) in werking treedt.
+2. [Hoofdstuk 1, artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=1&artikel=1&z=2012-04-24&g=2012-04-24), treedt in werking op het tijdstip dat [artikel 5.2 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=5.2) in werking treedt.
 
-3. [Hoofdstuk 3, de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=2&z=2012-04-01&g=2012-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=3&z=2012-04-01&g=2012-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=9&z=2012-04-01&g=2012-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=10&z=2012-04-01&g=2012-04-01), treedt in werking vier weken na de datum van uitgifte van het staatsblad waarin dit besluit wordt geplaatst.
+3. [Hoofdstuk 3, de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=2&z=2012-04-24&g=2012-04-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=3&z=2012-04-24&g=2012-04-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=9&z=2012-04-24&g=2012-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031388&hoofdstuk=3&artikel=10&z=2012-04-24&g=2012-04-24), treedt in werking vier weken na de datum van uitgifte van het staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 2
 
