@@ -4,7 +4,7 @@ identifier: "BWBR0009616"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2008-01-01"
+last_updated: "2012-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009616"
 soort: "wet"
@@ -102,13 +102,27 @@ Vervallen
 
 ### Hoofdstuk 3. Ter beschikking stellen van arbeidskrachten
 
-##### Artikel 8. Loonverhoudingsnorm
+##### Artikel 8. Gelijke behandeling
 
-1. Degene die arbeidskrachten ter beschikking stelt is aan deze arbeidskrachten loon en overige vergoedingen verschuldigd overeenkomstig het loon en de overige vergoedingen die worden toegekend aan werknemers, werkzaam in gelijke of gelijkwaardige functies in dienst van de onderneming bij welke de terbeschikkingstelling plaats vindt.
+1. De ter beschikking gestelde arbeidskracht heeft recht op ten minste dezelfde arbeidsvoorwaarden als die welke gelden voor werknemers werkzaam in gelijke of gelijkwaardige functies in dienst van de onderneming waar de terbeschikkingstelling plaatsvindt:
 
-2. Het eerste lid is niet van toepassing, indien in een collectieve arbeidsovereenkomst, van toepassing op de onderneming die de arbeidskracht ter beschikking stelt, of bij of krachtens wet is bepaald, welk loon en overige vergoedingen degene, die arbeidskrachten ter beschikking stelt, aan die arbeidskrachten verschuldigd is.
+- a. met betrekking tot het loon en overige vergoedingen;
 
-3. Het eerste lid is eveneens niet van toepassing, indien op de onderneming bij welke de ter beschikkingstelling plaats vindt, een collectieve arbeidsovereenkomst van toepassing is, die bepalingen bevat op grond waarvan de werkgever zich ervan moet verzekeren dat aan arbeidskrachten die aan zijn onderneming ter beschikking zijn gesteld loon en overige vergoedingen worden betaald overeenkomstig de bepalingen van die collectieve arbeidsovereenkomst.
+- b. op grond van een collectieve arbeidsovereenkomst of andere niet wettelijke bepalingen van algemene strekking die van kracht zijn binnen de onderneming waar de terbeschikkingstelling plaatsvindt, met betrekking tot de arbeidstijden, daaronder begrepen overwerk, rusttijden, arbeid in nachtdienst, pauzes, de duur van vakantie en het werken op feestdagen.
+
+2. Het eerste lid is van overeenkomstige toepassing met betrekking tot:
+
+- a. de voorschriften ter bescherming van zwangere werknemers, van werknemers die een borstkind voeden, kinderen en jeugdige werknemers en ter bevordering van de gelijke behandeling van mannen en vrouwen; en
+
+- b. de maatregelen ter bestrijding van discriminatie op grond van geslacht, ras, godsdienst of levensovertuiging, handicap, leeftijd of hetero- of homoseksuele gerichtheid,
+
+die gelden op grond van een collectieve arbeidsovereenkomst of andere niet wettelijke bepalingen van algemene strekking die van kracht zijn binnen de onderneming waar de terbeschikkingstelling plaatsvindt.
+
+3. Bij collectieve arbeidsovereenkomst kan worden afgeweken van het eerste en tweede lid, mits:
+
+- a. indien de periode gedurende welke wordt afgeweken in duur is beperkt, die overeenkomst voorziet in een regeling op grond waarvan misbruik door elkaar opvolgende perioden van terbeschikkingstelling wordt voorkomen; en
+
+- b. indien het een collectieve overeenkomst betreft die van toepassing is op de onderneming waar de terbeschikkingstelling plaatsvindt, die overeenkomst bepalingen bevat op grond waarvan een werkgever zich ervan moet verzekeren dat de aan zijn onderneming ter beschikking gestelde arbeidskrachten de arbeid verrichten tegen de arbeidsvoorwaarden, genoemd in het eerste lid, die voor deze arbeidskrachten bij die overeenkomst zijn voorgeschreven.
 
 ##### Artikel 9. Verbod tegenprestatie arbeidskracht
 
@@ -142,9 +156,9 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 15. Onderzoek op terrein van het ter beschikking stellen van arbeidskrachten en arbeidsbemiddeling
 
-Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2008-01-01&g=2008-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2008-01-01&g=2008-01-01) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht of werkzoekende, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
+Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2012-04-27&g=2012-04-27) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2012-04-27&g=2012-04-27) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht of werkzoekende, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
 
-### Hoofdstuk 5. Wijziging van andere wetten
+### Hoofdstuk 4. Onderzoek en toezicht
 
 ##### Artikel 16. Aansprakelijkheid van inleners voor betaling premie
 
@@ -193,5 +207,33 @@ Vervallen
 ##### Artikel 26. Citeertitel
 
 Deze wet wordt aangehaald als: Wet allocatie arbeidskrachten door intermediairs.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a. Uitbreiding Toepassingsgebied
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 2. Arbeidsbemiddeling
+
+### Hoofdstuk 3. Ter beschikking stellen van arbeidskrachten
+
+##### Artikel 8a. **Toegang tot bedrijfsvoorzieningen of diensten in de inlenende onderneming**
+
+Degene aan wie arbeidskrachten ter beschikking zijn gesteld, zorgt er voor dat de aan hem ter beschikking gestelde arbeidskrachten gelijke toegang hebben tot de bedrijfsvoorzieningen of diensten in zijn onderneming, met name kantines, kinderopvang- en vervoersfaciliteiten, als de werknemers, die in dienst van zijn onderneming werkzaam zijn in gelijke of gelijkwaardige functies, tenzij het verschil in behandeling om objectieve redenen gerechtvaardigd is.
+
+##### Artikel 8b. **Vacaturemelding**
+
+Degene aan wie arbeidskrachten ter beschikking zijn gesteld, zorgt er voor dat binnen zijn onderneming ontstane vacatures tijdig en duidelijk ter kennis worden gebracht aan de hem ter beschikking gestelde arbeidskrachten, opdat zij dezelfde kansen op een arbeidsovereenkomst voor onbepaalde tijd hebben als de werknemers van die onderneming.
+
+##### Artikel 9a. **Belemmeringsverbod**
+
+1. Degene die arbeidskrachten ter beschikking stelt legt geen belemmeringen in de weg voor de totstandkoming van een arbeidsovereenkomst na afloop van de terbeschikkingstelling tussen de ter beschikking gestelde arbeidskracht en degene aan wie hij ter beschikking is gesteld.
+
+2. Elk beding in strijd met het eerste lid is nietig, met uitzondering van een beding op grond waarvan door degene aan wie de arbeidskracht ter beschikking is gesteld een redelijke vergoeding verschuldigd is aan degene die de arbeidskracht ter beschikking heeft gesteld voor de door deze verleende diensten in verband met de terbeschikkingstelling, werving of opleiding van de desbetreffende arbeidskracht.
+
+### Hoofdstuk 5. Wijziging van andere wetten
+
+### Hoofdstuk 6. Overige en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
