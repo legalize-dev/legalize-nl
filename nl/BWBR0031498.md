@@ -71,9 +71,3 @@ Deze regeling treedt in werking met ingang van 1 mei 2012.
 Deze regeling wordt aangehaald als: Regeling melding Wet arbeid vreemdelingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Melding gedetacheerde werknemers
-
-Gelet op [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) heeft de dienstverrichter die een vreemdeling als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) detacheert een meldplicht op grond van [artikel 8 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
