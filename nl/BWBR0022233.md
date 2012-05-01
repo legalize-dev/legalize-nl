@@ -4,7 +4,7 @@ identifier: "BWBR0022233"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022233"
 soort: "AMvB"
@@ -58,9 +58,17 @@ In dit besluit wordt verstaan onder:
 
 - a. de wet: het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- b. Onze Minister: Onze Minister van Justitie;
+- b. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- c. Centraal Justitieel Incassobureau: het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](https://wetten.overheid.nl/jci1.3:c:BWBR0006713&artikel=1).
+- c. Centraal Justitieel Incassobureau: het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](https://wetten.overheid.nl/jci1.3:c:BWBR0006713&artikel=1);
+
+- d. **hoofdofficier van justitie:** de officier van justitie in de rang van hoofdofficier van justitie die aan het hoofd staat van het arrondissementsparket, het landelijk parket of het functioneel parket;
+
+- e. **buitengewoon opsporingsambtenaar:** de ambtenaar, bedoeld in [artikel 142, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+
+- f. **toezichthouder:** toezichthouder, bedoeld in [artikel 1, vierde lid, onderdeel a, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
+
+- g. **direct toezichthouder:** direct toezichthouder, bedoeld in [artikel 1, vierde lid, onderdeel b, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1).
 
 ### Hoofdstuk II. Strafbeschikkingen algemeen
 
@@ -106,27 +114,71 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4.1
 
-Wijzigt het Besluit tenuitvoerlegging geldboetevonnissen.
+In dit hoofdstuk wordt verstaan onder:
+
+- a. **strafbeschikkingsbevoegdheid:** de bevoegdheid een strafbeschikking bedoeld in [artikel 257ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba), inhoudende een geldboete, uit te vaardigen;
+
+- b. **lichaam of persoon:** het lichaam of de persoon met een publieke taak belast, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.2&z=2012-05-01&g=2012-05-01);
+
+- c. **Regionale Uitvoeringsdienst:** een openbaar lichaam in de zin van [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) belast met de uitvoering van het toezicht op en de handhaving van milieuregelgeving;
+
+- d. **algemeen opsporingsambtenaar:** de ambtenaar, bedoeld in [artikel 141, aanhef en onder b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
+
+- e. **bevoegde ambtenaar:** de buitengewoon opsporingsambtenaar in dienst van of werkzaam voor een lichaam of een persoon, voor zover hij bevoegd is tot opsporing van de zaken bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2012-05-01&g=2012-05-01) en de algemeen opsporingsambtenaar werkzaam voor een lichaam of een persoon.
 
 ##### Artikel 4.2
 
-Wijzigt het Besluit tenuitvoerlegging ontnemings- en schadevergoedingsmaatregelen.
+Voor zaken betreffende de in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2012-05-01&g=2012-05-01) aangewezen strafbare feiten wordt de strafbeschikkingsbevoegdheid toegekend aan de volgende lichamen of personen:
+
+- a. de directeuren van de Regionale Uitvoeringsdiensten, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit;
+
+- b. de dagelijkse besturen van de waterschappen voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit;
+
+- c. de hoofdingenieurs-directeur van de regionale en landelijke diensten van Rijkswaterstaat van het Ministerie van Infrastructuur en Milieu voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit;
+
+- d. de inspecteur-generaal van de Inspectie voor Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit;
+
+- e. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit;
+
+- f. het college van gedeputeerde staten van de provincies, voor zover in de provincie of delen daarvan nog geen Regionale Uitvoeringsdienst is ingesteld, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit.
 
 ##### Artikel 4.3
 
-Wijzigt het Besluit tenuitvoerlegging taakstraffen.
+Zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend, betreffen de door de bevoegde ambtenaar geconstateerde strafbare feiten, aangeduid in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2012-05-01&g=2012-05-01) van dit besluit, voor zover die strafbare feiten van geringe ernst of eenvoudige aard zijn zoals nader omschreven in de richtlijnen, bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.6&z=2012-05-01&g=2012-05-01) en voor zover de verdachte behoort tot een categorie die met betrekking tot die feiten in bijlage II van dit besluit is vermeld.
 
 ##### Artikel 4.4
 
-Wijzigt het Besluit justitiële gegevens.
+Een lichaam of een persoon maakt geen gebruik van zijn strafbeschikkingsbevoegdheid indien:
+
+- a. het een strafbaar feit betreft dat is begaan door een persoon die jonger is dan achttien jaar;
+
+- b. het een strafbaar feit betreft dat is begaan door een openbaar lichaam;
+
+- c. degene onder wie één of meer voorwerpen in beslag zijn genomen, weigert afstand te doen;
+
+- d. voor opsporing van het strafbare feit internationale rechtshulp nodig is;
+
+- e. het strafbare feit wordt geconstateerd met één of meer strafbare feiten waarvoor de strafbeschikkingsbevoegdheid is verleend, indien het gezamenlijke boetebedrag voor deze economische milieufeiten hoger is dan € 2.000 voor een natuurlijk persoon of € 10.000 voor een rechtspersoon;
+
+- f. het strafbare feit wordt geconstateerd met één of meer strafbare feiten waarvoor de strafbeschikkingsbevoegdheid is verleend, indien het gezamenlijke boetebedrag voor niet-economische milieufeiten hoger is dan € 2.000 voor een natuurlijk persoon of een rechtspersoon;
+
+- g. sprake is van aanwijzingen voor een wederrechtelijk verkregen voordeel van meer dan € 5.000;
+
+- h. het strafbare feit een wederrechtelijke gedraging betreft waardoor de dood van of ernstig letsel aan personen danwel aanzienlijke schade aan dieren of planten wordt veroorzaakt, dan wel dreigt te worden veroorzaakt.
 
 ##### Artikel 4.5
 
-Wijzigt het Besluit reorganisatie openbaar ministerie en instelling landelijk parket.
+1. De betrokken hoofdofficier van justitie kan de strafbeschikkingsbevoegdheid tot nader bericht intrekken indien de taakvervulling van een persoon of de wijze waarop een lichaam gebruik maakt van de bevoegdheid, zulks naar zijn oordeel vordert.
+
+2. Alvorens een beschikking, bedoeld in het eerste lid, te geven, hoort de hoofdofficier van justitie het betrokken lichaam of de betrokken persoon.
+
+3. De hoofdofficier van justitie geeft zijn nader bericht slechts na hernieuwd overleg.
 
 ##### Artikel 4.6
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
+1. Het College van procureurs-generaal vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor een lichaam of een persoon een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.
+
+2. De bevoegde ambtenaar wordt door het lichaam of de persoon in het bezit gesteld van een lijst met de feiten waarvoor de strafbeschikking kan worden uitgevaardigd. Desgevraagd verleent hij aan de verdachte inzage in deze lijst.
 
 ##### Artikel 4.7
 
@@ -140,21 +192,19 @@ Vervallen
 
 ##### Artikel 5.1
 
+Dit artikel is nog niet in werking getreden.
+
+Wijzigt het Transactiebesluit 1994.
+
+##### Artikel 5.2
+
 1. In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=III), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IV) en [artikel VI van de Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VI) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) en [37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), dan wel [artikel 85 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=85), blijven de artikelen die door dit besluit gewijzigd worden of vervallen, van toepassing zoals zij luidden voor het in werking treden van dit besluit.
 
 2. In strafzaken waarin voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), blijven de artikelen die door dit besluit gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van dit besluit.
 
-##### Artikel 5.2
+##### Artikel 5.3*
 
-1. De artikelen van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=I&z=2012-01-01&g=2012-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=II&z=2012-01-01&g=2012-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&z=2012-01-01&g=2012-01-01) van dit besluit, alsmede de artikelen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&z=2012-01-01&g=2012-01-01) van dit besluit, met uitzondering van de [artikelen 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2012-01-01&g=2012-01-01), [4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2012-01-01&g=2012-01-01), 4.7 en 4.8, treden in werking op het tijdstip waarop de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074) in werking treedt.
-
-2. De artikelen van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&z=2012-01-01&g=2012-01-01), de daarop gebaseerde bijlage, [artikel 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2012-01-01&g=2012-01-01), en [artikel 4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2012-01-01&g=2012-01-01) van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-3. Artikel 4.8 van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan drie jaar na het krachtens het tweede lid bepaalde tijdstip.
-
-##### Artikel 5.3
-
-Dit besluit wordt aangehaald als: Besluit OM-afdoening.
+[Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&artikel=5.1&z=2012-05-01&g=2012-05-01) van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan 1 april 2013.
 
 ## Bijlage. , bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2008-02-01&g=2008-02-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
 
@@ -168,49 +218,41 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. strafbeschikkingsbevoegdheid: de bevoegdheid een strafbeschikking uit te vaardigen, bedoeld in [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b);
 
-- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-01-01&g=2012-01-01).
-
-- c. hoofdofficier van justitie: officier van justitie, hoofd van het arrondissementsparket, het functioneel parket of het landelijk parket;
-
-- d. buitengewoon opsporingsambtenaar: de ambtenaar, bedoeld in [artikel 142, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-- e. toezichthouder: toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
-
-- f. direct toezichthouder: direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1).
+- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-05-01&g=2012-05-01).
 
 2. Als korpschef in de zin van dit hoofdstuk wordt aangemerkt met betrekking tot
 
-- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-01-01&g=2012-01-01): de korpschef van het politiekorps waarbij zij in dienst zijn, dan wel hun praktijkstage vervullen;
+- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-05-01&g=2012-05-01): de korpschef van het politiekorps waarbij zij in dienst zijn, dan wel hun praktijkstage vervullen;
 
-- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-01-01&g=2012-01-01):
+- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-05-01&g=2012-05-01):
 
-- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2012-01-01&g=2012-01-01): de betrokken districtscommandant;
+- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2012-05-01&g=2012-05-01): de betrokken districtscommandant;
 
 - 2. voor de toepassing van de overige artikelen van dit hoofdstuk: de commandant van de Koninklijke marechaussee;
 
-- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-01-01&g=2012-01-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
+- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2012-05-01&g=2012-05-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
 
 ##### Artikel 3.2
 
-1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), alsmede aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
+1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), alsmede aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
 
-2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een basisopleiding volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij een politiekorps.
+2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een basisopleiding volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij een politiekorps.
 
-3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
-4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
+4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
 
-5. In afwijking van het vierde lid, aanhef en onderdeel c, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
+5. In afwijking van het vierde lid, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
 
 ##### Artikel 3.3
 
 Als zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend worden aangewezen:
 
-- a. de zaken, aangeduid in de bijlage van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) of [321 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;
+- a. de zaken, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2012-05-01&g=2012-05-01) van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) of [321 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;
 
-- b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in de bijlage van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in de bijlage van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;
+- b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2012-05-01&g=2012-05-01) van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2012-05-01&g=2012-05-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;
 
-- c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in de bijlage van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in de bijlage van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.
+- c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2012-05-01&g=2012-05-01) van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2012-05-01&g=2012-05-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.
 
 ##### Artikel 3.4
 
@@ -234,19 +276,15 @@ Als zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend worden a
 
 ##### Artikel 3.6
 
-1. Het openbaar ministerie vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor de bevoegde ambtenaar een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.
+1. Het College van procureurs-generaal vaardigt richtlijnen uit waarin ten aanzien van elk feit waarvoor de bevoegde ambtenaar een strafbeschikking kan uitvaardigen de hoogte van de daarin op te leggen geldboete wordt bepaald. Deze richtlijnen worden in de Staatscourant bekend gemaakt.
 
 2. De bevoegde ambtenaar wordt in het bezit gesteld van een lijst met de feiten waarvoor de strafbeschikking kan worden uitgevaardigd en met de bedragen van de geldboeten die daarin kunnen worden opgelegd. Desgevraagd verleent hij aan de betrokken persoon inzage in deze lijst.
 
 ##### Artikel 3.7
 
-1. De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.
+De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.
 
-2. De hoofdofficier van justitie wint periodiek rapport in van de korpschefs van de regionale politiekorpsen over de wijze waarop de onder hen ressorterende in het arrondissement hun dienst uitoefenende ambtenaren gebruik hebben gemaakt van de verleende strafbeschikkingsbevoegdheid. De korpschefs zenden hun rapporten in door tussenkomst van de betrokken korpsbeheerder.
-
-3. Het hoofd van het landelijk parket, bedoeld in [artikel 137, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=137), wint periodiek rapport in van de korpschef van het Korps landelijke politiediensten over de wijze waarop de onder deze ressorterende ambtenaren gebruik hebben gemaakt van de verleende strafbeschikkingsbevoegdheid. De korpschef zendt zijn rapport in door tussenkomst van de korpsbeheerder.
-
-### Hoofdstuk IV. Wijziging van enkele besluiten
+### Hoofdstuk IV. De strafbeschikking in de zin van [artikel 257ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba)
 
 ##### Artikel 4.7
 
@@ -258,7 +296,7 @@ Vervallen
 
 ### Hoofdstuk V. Slotbepalingen
 
-## Bijlage. bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-01-01&g=2012-01-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
+## Bijlage I. , bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2012-05-01&g=2012-05-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
 
 |   |   |   | **Afdeling A. Verkeer te land** |
 | --- | --- | --- | --- |
@@ -907,6 +945,14 @@ Vervallen
 | E | 822 | d | – gedurende een illegaal verblijf van 6 maanden tot 1 jaar | – gedurende een illegaal verblijf van 6 maanden tot 1 jaar |   |   | 8 |
 | E | 822 | e | – gedurende een illegaal verblijf van 1 jaar tot 2 jaar | – gedurende een illegaal verblijf van 1 jaar tot 2 jaar |   |   | 8 |
 | E | 822 | f | – gedurende een illegaal verblijf langer dan 2 jaar | – gedurende een illegaal verblijf langer dan 2 jaar |   |   | 8 |
+|   |   |   | **Als vreemdeling in Nederland verblijven, terwijl hij weet of ernstige reden heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd (anders dan met toepassing van artikel 66a, zevende lid, Vrw 2000)** | **Als vreemdeling in Nederland verblijven, terwijl hij weet of ernstige reden heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd (anders dan met toepassing van artikel 66a, zevende lid, Vrw 2000)** | **108 lid 1 en 6 jo. 66a Vrw 2000** | **108 lid 1 en 6 jo. 66a Vrw 2000** |   |
+| E | 824 | a | – voor een periode van 1 tot 15 dagen | – voor een periode van 1 tot 15 dagen |   |   | 8 |
+| E | 824 | b | – voor een periode van 15 dagen tot 3 maanden | – voor een periode van 15 dagen tot 3 maanden |   |   | 8 |
+| E | 824 | c | – voor een periode van 3 maanden tot 6 maanden | – voor een periode van 3 maanden tot 6 maanden |   |   | 8 |
+| E | 824 | d | – voor een periode van 6 maanden tot 1 jaar | – voor een periode van 6 maanden tot 1 jaar |   |   | 8 |
+| E | 824 | e | – voor een periode van 1 jaar tot 2 jaar | – voor een periode van 1 jaar tot 2 jaar |   |   | 8 |
+| E | 824 | f | – voor een periode langer dan 2 jaar | – voor een periode langer dan 2 jaar |   |   | 8 |
+| E | 824 | g | – voor een onbekende periode | – voor een onbekende periode |   |   | 8 |
 | E | 825 |   | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf langer dan drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf langer dan drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft | 4.47 VB 2000 | 4.47 VB 2000 | 8 |
 | E | 827 |   | als vreemdeling te zijner identificatie op vordering van een ambtenaar, belast met de grensbewaking of met het toezicht op vreemdelingen, niet een goedgelijkende pasfoto ter beschikking stellen of vingerafdrukken van zich laten nemen indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat | als vreemdeling te zijner identificatie op vordering van een ambtenaar, belast met de grensbewaking of met het toezicht op vreemdelingen, niet een goedgelijkende pasfoto ter beschikking stellen of vingerafdrukken van zich laten nemen indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat | 4.45 VB 2000 | 4.45 VB 2000 | 8 |
 | E | 830 |   | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft | als vreemdeling aan wie het krachtens artikel 12 van de Vreemdelingenwet 2000 is toegestaan in Nederland te verblijven en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden, zich niet binnen drie dagen na zijn binnenkomst in Nederland in persoon melden bij de korpschef van de gemeente waar hij verblijft | 4.48 VB 2000 | 4.48 VB 2000 | 8 |
@@ -1017,5 +1063,31 @@ Vervallen
 |   |   |   | **goederen uit een winkel/vanaf een benzinestation wegnemen/toe-eigenen waarde van het ontvreemde goed** | **goederen uit een winkel/vanaf een benzinestation wegnemen/toe-eigenen waarde van het ontvreemde goed** | **310/321 WvSr** | **310/321 WvSr** |   |
 | G | 100 | a | – t/m € 50 | – t/m € 50 |   |   | 8 |
 | G | 100 | b | – meer dan € 50 en t/m € 120 | – meer dan € 50 en t/m € 120 |   |   | 8 |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.7
+
+Een lichaam of een persoon houdt aantekening van elke zaak waarin hij van zijn strafbeschikkingsbevoegdheid gebruik maakt.
+
+### Hoofdstuk V. Slotbepalingen
+
+##### Artikel 5.3
+
+Dit besluit wordt aangehaald als: Besluit OM-afdoening.
+
+## Bijlage II
+
+### Hoofdstuk 1. Milieufeiten
+
+Categorie 1. Natuurlijk persoon
+
+Categorie 2. Rechtspersoon
+
+### Hoofdstuk 2. Keurfeiten
+
+Categorie 1. Natuurlijk persoon
+
+Categorie 2. Rechtspersoon
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
