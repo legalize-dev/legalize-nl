@@ -4,7 +4,7 @@ identifier: "BWBR0020074"
 country: "nl"
 rank: "wet"
 publication_date: "2013-04-01"
-last_updated: "2012-01-01"
+last_updated: "2012-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020074"
 soort: "wet"
@@ -73,7 +73,7 @@ Wijzigt de Gemeentewet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel VIa
 
@@ -101,11 +101,11 @@ Wijzigt de Wet melding ongebruikelijke transacties en de Wet identificatie bij d
 
 ##### Artikel XI
 
-In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II&z=2012-01-01&g=2012-01-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=III&z=2012-01-01&g=2012-01-01), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IV&z=2012-01-01&g=2012-01-01) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VI&z=2012-01-01&g=2012-01-01) van deze wet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) en [37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) dan wel [artikel 85 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=85), blijven de artikelen die door deze wet gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van het desbetreffende onderdeel van deze wet.
+In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II&z=2012-05-01&g=2012-05-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=III&z=2012-05-01&g=2012-05-01), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IV&z=2012-05-01&g=2012-05-01) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VI&z=2012-05-01&g=2012-05-01) van deze wet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) en [37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) dan wel [artikel 85 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=85), blijven de artikelen die door deze wet gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van het desbetreffende onderdeel van deze wet.
 
 ##### Artikel XII
 
-[Artikel 3.14, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) alsmede [artikel 15b, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15b), zoals zij luidden voor het in werking treden van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VIII&z=2012-01-01&g=2012-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IX&z=2012-01-01&g=2012-01-01) van deze wet, blijven van toepassing in gevallen waarin vergoedingen zijn verstrekt ter zake van het voldoen aan gestelde voorwaarden ter voorkoming van strafvervolging in Nederland.
+[Artikel 3.14, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) alsmede [artikel 15b, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15b), zoals zij luidden voor het in werking treden van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VIII&z=2012-05-01&g=2012-05-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IX&z=2012-05-01&g=2012-05-01) van deze wet, blijven van toepassing in gevallen waarin vergoedingen zijn verstrekt ter zake van het voldoen aan gestelde voorwaarden ter voorkoming van strafvervolging in Nederland.
 
 ##### Artikel XIII
 
