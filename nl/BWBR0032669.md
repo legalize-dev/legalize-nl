@@ -4,7 +4,7 @@ identifier: "BWBR0032669"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032669"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ##### Artikel XVI
 
@@ -122,7 +122,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 ##### Artikel XXIII
 
