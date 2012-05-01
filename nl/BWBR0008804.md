@@ -4,7 +4,7 @@ identifier: "BWBR0008804"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-02-29"
+last_updated: "2012-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008804"
 soort: "wet"
@@ -61,7 +61,7 @@ In deze wet wordt verstaan onder:
 
 - 6°. bestemming: de onmiddellijke bestemming van de in een consentaanvraag omschreven wapens en munitie, aangevuld met de eindbestemming daarvan indien ten tijde van de consentaanvraag bekend is dat de wapens en munitie vanuit de onmiddellijke bestemming zullen worden doorgevoerd;
 
-- 7°. binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland met als bestemming een andere lidstaat van de Europese Unie;
+- 7°. binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland;
 
 - 8°. doorvoer: binnenkomen gevolgd door uitgaan;
 
@@ -79,15 +79,7 @@ In deze wet wordt verstaan onder:
 
 **Categorie I**
 
-- 1°. stiletto's, valmessen en vlindermessen, een en ander indien het lemmet:
-
-- a. meer dan een snijkant heeft;
-
-- b. 7 cm of langer en 14 mm of smaller is;
-
-- c. 9 cm of langer is; of
-
-- d. van een stootplaat is voorzien;
+- 1°. stiletto’s, valmessen en vlindermessen;
 
 - 2°. andere opvouwbare messen, indien:
 
@@ -151,7 +143,7 @@ In deze wet wordt verstaan onder:
 
 - 6°. bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;
 
-- 7°. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij voor geen ander doel zijn bestemd dan om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.
+- 7°. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.
 
 2. Munitie in de zin van deze wet is, onderverdeeld in de volgende categorieën:
 
@@ -175,7 +167,7 @@ Alle overige munitie.
 
 3. Aanwijzingen door Onze Minister, als bedoeld in het eerste lid, geschieden bij regeling.
 
-4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen.
+4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
 
 ##### Artikel 3
 
@@ -185,11 +177,11 @@ Alle overige munitie.
 
 ##### Artikel 3a
 
-1. De [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-02-29&g=2012-02-29), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-02-29&g=2012-02-29), zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.
+1. De [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-05-01&g=2012-05-01), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-05-01&g=2012-05-01), zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.
 
-2. De [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-02-29&g=2012-02-29), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-02-29&g=2012-02-29), zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister en Onze Minister van Binnenlandse Zaken dit bij regeling hebben bepaald.
+2. De [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-05-01&g=2012-05-01), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-05-01&g=2012-05-01), zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister en Onze Minister van Binnenlandse Zaken dit bij regeling hebben bepaald.
 
-3. De [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-02-29&g=2012-02-29), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-02-29&g=2012-02-29), zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.
+3. De [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-05-01&g=2012-05-01), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-05-01&g=2012-05-01), zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.
 
 4. Voor de toepassing van dit artikel wordt onder krijgsmacht, politie en overige openbare dienst mede verstaan niet-Nederlandse krijgsmacht, politie of openbare dienst.
 
@@ -205,7 +197,7 @@ Alle overige munitie.
 
 - d. munitie, voor zover deze bestemd is voor dan wel deel uitmaakt van een verzameling;
 
-- e. toestellen en voorwerpen voor beroepsdoeleinden;
+- e. toestellen en voorwerpen voor beroeps-, hulpverlenings-, trainings- en sportdoeleinden;
 
 - f. monster-, demonstratie- of testmateriaal en rekwisieten;
 
@@ -217,7 +209,7 @@ Alle overige munitie.
 
 ##### Artikel 5
 
-Onze Minister kan bij regeling nadere omschrijvingen geven van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=2&z=2012-02-29&g=2012-02-29), vermelde en de overeenkomstig dat artikel aangewezen wapens, alsmede van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=4&z=2012-02-29&g=2012-02-29) bedoelde wapens.
+Onze Minister kan bij regeling nadere omschrijvingen geven van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=2&z=2012-05-01&g=2012-05-01), vermelde en de overeenkomstig dat artikel aangewezen wapens, alsmede van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=4&z=2012-05-01&g=2012-05-01) bedoelde wapens.
 
 ##### Artikel 6
 
@@ -307,7 +299,7 @@ Vervallen
 
 Een erkenning kan worden ingetrokken:
 
-- a. bij niet inachtneming van de op grond van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=42&z=2012-02-29&g=2012-02-29) vastgestelde regels;
+- a. bij niet inachtneming van de op grond van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=42&z=2012-05-01&g=2012-05-01) vastgestelde regels;
 
 - b. indien er aanwijzingen zijn dat aan de beheerder het onder zich hebben van wapens of munitie niet langer kan worden toevertrouwd; of
 
@@ -319,17 +311,17 @@ Een erkenning kan worden ingetrokken:
 
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.
 
-2. Onze Minister kan, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), ontheffing verlenen van een of meer verboden genoemd in het eerste lid, met het oog op:
+2. Onze Minister kan, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), ontheffing verlenen van een of meer verboden genoemd in het eerste lid, met het oog op:
 
-- a. gebruik door de krijgsmacht;
+- a. gebruik door de krijgsmacht, de politie en de overige openbare dienst;
 
-- b. onderwijs ten behoeve van de politie en de overige openbare dienst;
+- b. onderwijs ten behoeve van de krijgsmacht, de politie en de overige openbare dienst;
 
 - c. doorvoer van wapens of munitie.
 
-3. Op een ontheffing met het oog op doorvoer is [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=20&z=2012-02-29&g=2012-02-29), van overeenkomstige toepassing.
+3. Op een ontheffing met het oog op doorvoer is [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=20&z=2012-05-01&g=2012-05-01), van overeenkomstige toepassing.
 
-4. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek tot ontheffing.
+4. Het eerste lid is niet van toepassing op het doen uitgaan van een wapen van categorie I, indien op basis van [artikel 6 van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6) geen vergunning voor het uitvoeren van militaire goederen uit Nederland is vereist.
 
 #### § 4. Binnenkomen en uitgaan van wapens en munitie van de categorieën II en III
 
@@ -357,11 +349,11 @@ Geen vrijstelling kan worden verleend ten aanzien van het, anders dan tijdelijk,
 
 ##### Artikel 15
 
-Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen dat op grond van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) afgegeven vergunningen tevens gelden als consent in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29).
+Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen dat op grond van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) afgegeven vergunningen tevens gelden als consent in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01).
 
 ##### Artikel 16
 
-1. Voor zover het krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=15&z=2012-02-29&g=2012-02-29) bepaalde niet van toepassing is, verleent Onze Minister van Defensie het consent tot binnenkomen ten behoeve van de krijgsmacht en Onze Minister dat ten behoeve van de overige openbare dienst.
+1. Voor zover het krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=15&z=2012-05-01&g=2012-05-01) bepaalde niet van toepassing is, verleent Onze Minister van Defensie het consent tot binnenkomen ten behoeve van de krijgsmacht en Onze Minister dat ten behoeve van de overige openbare dienst.
 
 2. In alle overige gevallen wordt een consent verleend door de Belastingdienst/Douane centrale dienst voor in- en uitvoer.
 
@@ -383,7 +375,7 @@ Vervallen
 
 2. Een consent tot uitgaan wordt geweigerd indien niet uit een door de aanvrager over te leggen bewijsstuk blijkt of niet uit anderen hoofde bekend is dat de bevoegde autoriteiten van het land van bestemming geen bedenkingen hebben tegen de aanwezigheid van de wapens of munitie op hun grondgebied.
 
-3. Van een consent tot uitgaan wordt door de Belastingdienst/Douane centrale dienst voor in- en uitvoer mededeling gedaan aan de lidstaat van de Europese Unie die het land van bestemming of van doorvoer is.
+3. Wanneer een lidstaat van de Europese Unie het land van bestemming of van doorvoer is van de wapens of munitie waarop de aanvraag betrekking heeft, doet de Belastingdienst/Douane centrale dienst voor in- en uitvoer mededeling aan die lidstaat van het verlenen van het consent.
 
 ##### Artikel 21
 
@@ -393,9 +385,9 @@ Vervallen
 
 ##### Artikel 22
 
-1. Het is verboden een wapen of munitie van de categorieën II en III te vervoeren zonder vergunning tot vervoer, als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), dan wel verlof tot vervoer, als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=24&z=2012-02-29&g=2012-02-29).
+1. Het is verboden een wapen of munitie van de categorieën II en III te vervoeren zonder vergunning tot vervoer, als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), dan wel verlof tot vervoer, als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=24&z=2012-05-01&g=2012-05-01).
 
-2. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot sportschutters en jagers, die gerechtigd zijn tot het voorhanden hebben van wapens of munitie.
+2. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot sportschutters en jagers, die gerechtigd zijn tot het voorhanden hebben van wapens of munitie, alsmede personen die in de uitoefening van een beroep of bedrijf of als werknemer van de houder van een erkenning als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), wapens of munitie vervoeren.
 
 ##### Artikel 23
 
@@ -421,7 +413,7 @@ Vervallen
 
 2. Het eerste lid is niet van toepassing op personen die houder zijn van:
 
-- a. een verlof als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-02-29&g=2012-02-29), van de wet, voor zover dit verlof reikt; of
+- a. een verlof als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-05-01&g=2012-05-01), van de wet, voor zover dit verlof reikt; of
 
 - b. een jachtakte als bedoeld in de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640), voor wat betreft voor de jacht en beheer en schadebestrijding bestemde wapens en munitie van categorie III, die in de jachtakte zijn omschreven.
 
@@ -437,7 +429,7 @@ Vervallen
 
 5. Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie IV voorhanden te hebben.
 
-6. Onze Minister kan bij regeling vrijstelling van het verbod van het vijfde lid verlenen in het kader van in verenigingsverband beoefende sporten.
+6. Onze Minister kan bij regeling vrijstelling van het verbod van het vijfde lid verlenen in het kader van in verenigingsverband beoefende sporten of door Onze Minister aangewezen recreatieve activiteiten in daartoe gevestigde bedrijven waarin wapens worden gedragen als bedoeld in [artikel 2, eerste lid, categorie IV, onderdeel 4° en onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=2&z=2012-05-01&g=2012-05-01) met betrekking tot kruisbogen.
 
 ##### Artikel 27
 
@@ -445,9 +437,9 @@ Vervallen
 
 2. Het eerste lid is niet van toepassing op personen die:
 
-- a. houder zijn van een verlof als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=29&z=2012-02-29&g=2012-02-29), voor zover dit verlof reikt; of
+- a. houder zijn van een verlof als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=29&z=2012-05-01&g=2012-05-01), voor zover dit verlof reikt; of
 
-- b. op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, voor wat betreft het terrein waar zij tot de jacht en beheer en schadebestrijding gerechtigd zijn.
+- b. op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, voor wat betreft het terrein waar zij tot de jacht en beheer en schadebestrijding gerechtigd zijn.
 
 3. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens van de categorieën III en IV verlenen met betrekking tot:
 
@@ -457,11 +449,9 @@ Vervallen
 
 4. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens van categorie IV verlenen met betrekking tot:
 
-- a. ceremoniële wapens;
+- a. ceremoniële wapens; en
 
-- b. kermissen; en
-
-- c. sportbeoefening.
+- b. recreatieve activiteiten.
 
 ##### Artikel 28
 
@@ -495,7 +485,7 @@ Vervallen
 
 2. Wanneer aan het eerste lid toepassing is gegeven, wordt dit in het verlof vermeld.
 
-3. Indien een redelijk belang dit vordert, kan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-02-29&g=2012-02-29), bedoelde instantie verlof verlenen tot het dragen van een wapen van categorie IV.
+3. Indien een redelijk belang dit vordert, kan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-05-01&g=2012-05-01), bedoelde instantie verlof verlenen tot het dragen van een wapen van categorie IV.
 
 ##### Artikel 30
 
@@ -509,7 +499,7 @@ Vervallen
 
 2. Het eerste lid is niet van toepassing op het overdragen aan personen die gerechtigd zijn het wapen of de munitie voorhanden te hebben.
 
-3. Onverminderd het bepaalde in het eerste lid is het verboden een wapen van categorie III over te dragen zonder inontvangstneming van het in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2012-02-29&g=2012-02-29) bedoelde verlof tot verkrijging.
+3. Onverminderd het bepaalde in het eerste lid is het verboden een wapen van categorie III over te dragen zonder inontvangstneming van het in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2012-05-01&g=2012-05-01) bedoelde verlof tot verkrijging.
 
 4. Het is verboden een wapen van categorie IV over te dragen aan een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
 
@@ -517,7 +507,7 @@ Vervallen
 
 ##### Artikel 32
 
-1. Verlof tot verkrijging van wapens van categorie III wordt verleend aan personen die een verlof tot voorhanden hebben als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-02-29&g=2012-02-29) bezitten, dan wel op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, door de korpschef van hun woon- of verblijfplaats.
+1. Verlof tot verkrijging van wapens van categorie III wordt verleend aan personen die een verlof tot voorhanden hebben als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-05-01&g=2012-05-01) bezitten, dan wel op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben, door de korpschef van hun woon- of verblijfplaats.
 
 2. indien de aanvrager die geen vaste woon- of verblijfplaats in Nederland heeft, ingezetene is van een van de andere lid-staten van de Europese Gemeenschappen, wordt:
 
@@ -529,19 +519,19 @@ Vervallen
 
 ##### Artikel 33
 
-1. Onverminderd [artikel 10, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=10&z=2012-02-29&g=2012-02-29), kan Onze Minister, ten behoeve van de beveiliging, eisen vaststellen, waaraan ruimten en vervoermiddelen, waarin wapens of munitie van de categorieën II en III worden bewaard of vervoerd, moeten voldoen. Worden zulke eisen vastgesteld voor ruimten en vervoermiddelen, in gebruik bij de krijgsmacht, dan geschiedt dit door Onze Minister van Defensie.
+1. Onverminderd [artikel 10, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=10&z=2012-05-01&g=2012-05-01), kan Onze Minister, ten behoeve van de beveiliging, eisen vaststellen, waaraan ruimten en vervoermiddelen, waarin wapens of munitie van de categorieën II en III worden bewaard of vervoerd, moeten voldoen. Worden zulke eisen vastgesteld voor ruimten en vervoermiddelen, in gebruik bij de krijgsmacht, dan geschiedt dit door Onze Minister van Defensie.
 
-2. Onze Minister kan, ten behoeve van de veiligheid, technische eisen vaststellen, waaraan wapens en munitie van categorie III bij overdracht aan personen die een verlof tot verkrijging als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2012-02-29&g=2012-02-29) hebben, moeten voldoen.
+2. Onze Minister kan, ten behoeve van de veiligheid, technische eisen vaststellen, waaraan wapens en munitie van categorie III bij overdracht aan personen die een verlof tot verkrijging als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2012-05-01&g=2012-05-01) hebben, moeten voldoen.
 
 #### § 9. Beroep
 
 ##### Artikel 34
 
-1. Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.
+1. Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister. [Artikel 10:3, tweede lid, onder c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) is niet van toepassing.
 
 2. Het beroep kan worden ingesteld:
 
-- a. tegen beschikkingen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-02-29&g=2012-02-29): door de bewaargever en door de rechthebbende;
+- a. tegen beschikkingen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-05-01&g=2012-05-01): door de bewaargever en door de rechthebbende;
 
 - b. in de overige gevallen door de aanvrager, dan wel de houder van de erkenning, het consent, de vergunning of het verlof.
 
@@ -585,7 +575,7 @@ Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij
 
 1. Onze Minister geeft regels betreffende een door de erkende te houden register waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie worden aangetekend.
 
-2. Onze Minister geeft regels betreffende een door de erkende te verstrekken ontvangstbewijs bij verkrijging van wapens van categorie III van personen die een verlof tot het voorhanden hebben als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-02-29&g=2012-02-29) bezitten, dan wel op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben.
+2. Onze Minister geeft regels betreffende een door de erkende te verstrekken ontvangstbewijs bij verkrijging van wapens van categorie III van personen die een verlof tot het voorhanden hebben als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2012-05-01&g=2012-05-01) bezitten, dan wel op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben.
 
 ##### Artikel 43
 
@@ -637,7 +627,7 @@ De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wet
 
 - a. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
 
-- b. een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29);
+- b. een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01);
 
 - c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
 
@@ -653,7 +643,7 @@ De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wet
 
 - een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
 
-- een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29);
+- een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01);
 
 - aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
 
@@ -671,7 +661,7 @@ De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wet
 
 - een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
 
-- een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29);
+- een gepleegde overtreding van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01);
 
 - aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
 
@@ -689,29 +679,29 @@ Vervallen
 
 ##### Artikel 54
 
-Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd met een krachtens de[artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6&z=2012-02-29&g=2012-02-29), [8, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-02-29&g=2012-02-29), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=8&artikel=33&z=2012-02-29&g=2012-02-29) of [42](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=42&z=2012-02-29&g=2012-02-29) vastgesteld voorschrift, dan wel in strijd met [de artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-02-29&g=2012-02-29), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-02-29&g=2012-02-29), of [31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-02-29&g=2012-02-29).
+Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd met een krachtens de[artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6&z=2012-05-01&g=2012-05-01), [8, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-05-01&g=2012-05-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=8&artikel=33&z=2012-05-01&g=2012-05-01) of [42](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=42&z=2012-05-01&g=2012-05-01) vastgesteld voorschrift, dan wel in strijd met [de artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2012-05-01&g=2012-05-01), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2012-05-01&g=2012-05-01), of [31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-05-01&g=2012-05-01).
 
 ##### Artikel 55
 
-1. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-02-29&g=2012-02-29).
+1. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-05-01&g=2012-05-01).
 
-2. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29).
+2. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01).
 
 3. Met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft:
 
-- a. hij die handelt in strijd met [de artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-02-29&g=2012-02-29), en het feit begaat met betrekking tot een wapen van categorie II, of een vuurwapen van categorie III;
+- a. hij die handelt in strijd met [de artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-05-01&g=2012-05-01), en het feit begaat met betrekking tot een wapen van categorie II, of een vuurwapen van categorie III;
 
-- b. hij die handelt in strijd met de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), of [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), aan boord van een luchtvaartuig of op een luchthaven, aangewezen krachtens [artikel 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=11a&artikel=52&z=2012-02-29&g=2012-02-29).
+- b. hij die handelt in strijd met de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), of [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), aan boord van een luchtvaartuig of op een luchthaven, aangewezen krachtens [artikel 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=11a&artikel=52&z=2012-05-01&g=2012-05-01).
 
-4. Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met [de artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-02-29&g=2012-02-29), en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.
+4. Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met [de artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-05-01&g=2012-05-01), en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.
 
-5. Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-02-29&g=2012-02-29), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-02-29&g=2012-02-29), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-02-29&g=2012-02-29), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-02-29&g=2012-02-29), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-02-29&g=2012-02-29), indien het feit begaan is met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a) dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in [artikel 83 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) voor te bereiden of gemakkelijk te maken.
+5. Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2012-05-01&g=2012-05-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2012-05-01&g=2012-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2012-05-01&g=2012-05-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2012-05-01&g=2012-05-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2012-05-01&g=2012-05-01), indien het feit begaan is met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a) dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in [artikel 83 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) voor te bereiden of gemakkelijk te maken.
 
-6. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de [artikelen 32a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-02-29&g=2012-02-29), of [32b](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-02-29&g=2012-02-29).
+6. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de [artikelen 32a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2012-05-01&g=2012-05-01), of [32b](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2012-05-01&g=2012-05-01).
 
 ##### Artikel 56
 
-De in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=54&z=2012-02-29&g=2012-02-29) strafbaar gestelde feiten zijn overtredingen. De in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2012-02-29&g=2012-02-29) strafbaar gestelde feiten zijn misdrijven.
+De in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=54&z=2012-05-01&g=2012-05-01) strafbaar gestelde feiten zijn overtredingen. De in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2012-05-01&g=2012-05-01) strafbaar gestelde feiten zijn misdrijven.
 
 #### § 13. Slotbepalingen
 
