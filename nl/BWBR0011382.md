@@ -4,7 +4,7 @@ identifier: "BWBR0011382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011382"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Als typen van speelautomaten als bedoeld in artikel 30a, tweede lid, van de wet 
 
 ##### Artikel 3
 
-Als model van het formulier tot aanvraag van een exploitatievergunning als bedoeld in artikel 6, eerste lid, van het besluit wordt vastgesteld het in bijlage II bij deze regeling opgenomen model.
+Vervallen
 
 ##### Artikel 4
 
@@ -78,23 +78,15 @@ Als model van het formulier tot aanvraag van een exploitatievergunning als bedoe
 
 ##### Artikel 5
 
-1. Als model van het formulier tot aanvraag om toelating van een model van een speelautomaat als bedoeld in artikel 17, eerste lid, van het besluit wordt vastgesteld het in bijlage III bij deze regeling opgenomen model.
-
-2. Als model van het formulier voor de verklaring van toelating van een model van een speelautomaat als bedoeld in artikel 30q, eerste lid, van de wet wordt vastgesteld het in bijlage IV bij deze regeling opgenomen model.
+Vervallen
 
 #### § 4.2. Keuringsinstellingen
 
 ##### Artikel 6
 
-1. Als instellingen die belast zijn met het onderzoek met het oog op de toelating van het model van een speelautomaat worden aangewezen:
+1. Als keuringsinstellingen als bedoeld in [artikel 30o, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30o) worden aangewezen onafhankelijke instellingen, gevestigd in een lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, die voldoen aan de kwaliteitsnorm voor testlaboratoria ISO 17025 voor het testen van speelautomaten en die daartoe zijn geaccrediteerd door de Raad van Accreditatie of een gelijkwaardige buitenlandse accreditatie-instelling.
 
-- a. KEMA Registered Quality B.V.,
-
-- b. NMi Certin B.V.,
-
-- c. G.L.I. Europe B.V.
-
-2. Met de in het eerste lid genoemde instellingen worden gelijkgesteld onafhankelijke instellingen in een lidstaat van de Europese Unie dan wel een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, welke instellingen voldoen aan de kwaliteitsnorm voor testlaboratoria EN 45004 voor het keuren van speelautomaten of een daaraan gelijkwaardige norm. Deze instellingen nemen bij het onderzoek met het oog op de toelating van het model van een speelautomaat de bij of krachtens de wet gestelde eisen in acht.
+2. De raad van bestuur geeft op verzoek verklaringen af waaruit blijkt dat een keuringsinstelling aan de eisen uit het eerste lid voldoet.
 
 #### § 4.3. Eisen toelating kansspelautomaten
 
@@ -118,7 +110,7 @@ Het model van een kansspelautomaat voldoet aan de volgende eisen:
 
 - h. de automaat keert na onderbreking van de voedingsspanning in dezelfde toestand terug als voor de onderbreking, met dien verstande dat de inzet van het lopende spel en het resultaat van dat spel mogen vervallen;
 
-- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2011-07-01&g=2011-07-01) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
+- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2012-05-03&g=2012-05-03) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
 
 ##### Artikel 8
 
@@ -202,29 +194,19 @@ Het model van een kansspelautomaat bestemd voor opstelling in een speelautomaten
 
 ##### Artikel 10
 
-1. Merktekens en afschriften van de verklaring, houdende toelating van een model van een speelautomaat, worden op verzoek van de houder van een toelating van een model aan deze afgegeven door Verispect B.V. te Delft tegen betaling van een bedrag overeenkomstig onderstaande tabel:
+1. Op verzoek van een houder van een toelating van een model speelautomaat verstrekt de raad van bestuur merktekens voor het betreffende model, tegen een vergoeding per merkteken van € 131 voor een kansspelautomaat en € 11 voor een behendigheidsautomaat.
 
-- merkteken voor een kansspelautomaat als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=8&z=2011-07-01&g=2011-07-01) en merkteken voor een kansspelautomaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=9&z=2011-07-01&g=2011-07-01): € 131 per stuk;
+2. Op verzoek van de houder van een toelating van een model speelautomaat ruilt de raad van bestuur een beschadigd merkteken kosteloos om voor een nieuw merkteken met hetzelfde nummer, mits minimaal de helft van het beschadigde merkteken wordt ingeleverd en het nummer van het beschadigde merkteken nog kan worden vastgesteld.
 
-- merkteken voor een behendigheidsautomaat: € 11 per stuk;
+3. Op verzoek van de houder van een toelating van een model speelautomaat wordt de betaalde vergoeding voor verstrekte maar niet gebruikte merktekens door de raad van bestuur gerestitueerd, verminderd met € 11 administratiekosten, mits deze merktekens niet langer dan drie maanden tevoren zijn uitgegeven, het merktekens betreft met de laatst uitgegeven nummers en de merktekens aaneengesloten op de originele papierstrook worden ingeleverd.
 
-- afschrift verklaring van toelating: kosteloos.
-
-2. Beschadigde merktekens kunnen door de houder van de toelating van een model van een speelautomaat kosteloos worden omgeruild tegen nieuwe merktekens met hetzelfde nummer als het beschadigde merkteken.
-
-3. Bij teruggave van uitgegeven, maar niet gebruikte merktekens voor een model van een kansspelautomaat door degene die bevoegd is deze merktekens aan te vragen, is restitutie van het betaalde bedrag, verminderd met € 11 administratiekosten, mogelijk, mits:
-
-- a. de terug te geven merktekens niet langer dan drie maanden tevoren zijn uitgegeven;
-
-- b. het merktekens betreft met de laatst uitgegeven nummers;
-
-- c. de merktekens aaneengesloten op het originele strookje worden ingeleverd.
+4. Op verzoek van de houder van de modeltoelating verstrekt de raad van bestuur afschriften van de verklaring van toelating van het betreffende model, tegen een vergoeding van € 11 per afschrift.
 
 #### § 5. Afkeuringsmerk
 
 ##### Artikel 11
 
-Als afkeuringsmerk als bedoeld in artikel 30x van de wet wordt vastgesteld het merk, opgenomen in bijlage V bij deze regeling.
+Vervallen
 
 #### § 5. Afkeuringsmerk
 
@@ -512,13 +494,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage II. bij de Speelautomatenregeling 2000
 
-[**Bijlage II**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=II&z=2011-07-01&g=2011-07-01)
+[**Bijlage II**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=II&z=2012-05-03&g=2012-05-03)
 
 Model van het formulier tot aanvraag van een exploitatievergunning als bedoeld in [artikel 6, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=6)
 
 ## Bijlage III. bij de Speelautomatenregeling 2000
 
-[**Bijlage III**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=III&z=2011-07-01&g=2011-07-01)
+[**Bijlage III**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=III&z=2012-05-03&g=2012-05-03)
 
 Model van het formulier tot aanvraag om toelating van een model van een speelautomaat als bedoeld in [artikel 17, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=17)
 
