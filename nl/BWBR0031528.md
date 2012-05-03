@@ -131,25 +131,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van de Staatsc
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kansspelheffing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), of [30z, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z) verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in [artikel 33e, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), bedraagt:
-
-- a. voor tafelspelen in een speelcasino: het deeltarief van € 1.961 per speeltafel en € 96 per aangekoppelde speelterminal geheven uit de in [artikel 33f, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarieven;
-
-- b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: het deeltarief van € 96 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief;
-
-- c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: het deeltarief van € 39 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief;
-
-- d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: het deeltarief van € 39 per spelersplaats geheven uit het in [artikel 33f, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) genoemde totaaltarief.
-
-2. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a) verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in [artikel 33e, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), bedraagt het deelpercentage van 0,25% van de grondslag, bedoeld in artikel 33e, tweede lid, onder c, van de wet.
-
-### Hoofdstuk 3. Aangifte en aanslagen
-
-### Hoofdstuk 4. Grondslag
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
