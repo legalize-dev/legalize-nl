@@ -4,7 +4,7 @@ identifier: "BWBR0007422"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-05-09"
-last_updated: "1996-03-23"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007422"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Het is verboden schoeisel te verhandelen dat niet is voorzien van een etiket dat
 
 ##### Artikel 3
 
-Onze Minister van Economische Zaken maakt de in bijlage I van de richtlijn bedoelde informatie bekend door middel van plaatsing daarvan in de **Staatscourant**.
+Onze Minister van Economische Zaken, Landbouw en Innovatie maakt de in bijlage I van de richtlijn bedoelde informatie bekend door middel van plaatsing daarvan in de **Staatscourant**.
 
 ##### Artikel 4
 
