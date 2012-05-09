@@ -4,7 +4,7 @@ identifier: "BWBR0003914"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "1997-01-29"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003914"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 - a. draagbaar klimmaterieel bedoeld om uitsluitend als speelgoed te worden gebruikt;
 
-- b. door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken en van Sociale Zaken en Werkgelegenheid tezamen aan te wijzen draagbaar klimmaterieel.
+- b. door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid tezamen aan te wijzen draagbaar klimmaterieel.
 
 ##### Artikel 2
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 - b. een zodanige constructie hebben dat het gevaar voor de gebruiker om letsel op te lopen, dat bij gebruik van klimmaterieel aanwezig is, door de uitwendige staat, de stabiliteit of de sterkte van het draagbare klimmaterieel niet wordt vergroot.
 
-2. Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken en van Sociale Zaken en Werkgelegenheid tezamen kunnen omtrent het in het eerste lid bepaalde nadere regelen stellen. Deze regelen worden in de **Staatscourant** bekend gemaakt.
+2. Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid tezamen kunnen omtrent het in het eerste lid bepaalde nadere regelen stellen. Deze regelen worden in de **Staatscourant** bekend gemaakt.
 
 ##### Artikel 3
 
@@ -94,13 +94,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. Voor de beoordeling of draagbaar klimmaterieel voldoet aan het bij of krachtens dit besluit bepaalde, moet worden gebruik gemaakt van de terzake door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken en van Sociale Zaken en Werkgelegenheid vastgestelde onderzoekingsmethoden voorzover deze daarvoor toereikend zijn.
+1. Voor de beoordeling of draagbaar klimmaterieel voldoet aan het bij of krachtens dit besluit bepaalde, moet worden gebruik gemaakt van de terzake door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid vastgestelde onderzoekingsmethoden voorzover deze daarvoor toereikend zijn.
 
 2. Deze onderzoekingsmethoden worden in de **Staatscourant** bekend gemaakt.
 
 ##### Artikel 5
 
-Aan de opsomming van waren in het besluit van 26 maart 1921 (**Stb.** 638) tot aanwijzing van artikelen als "waren" in de zin van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) (**Stb.** 1935, 793) wordt toegevoegd: "draagbaar klimmaterieel".
+Vervallen
 
 ##### Artikel 6
 
