@@ -4,7 +4,7 @@ identifier: "BWBR0006310"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-12-14"
-last_updated: "2004-09-24"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006310"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2004-09-24&g=2004-09-24) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
+1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2012-05-09&g=2012-05-09) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
 
 2. Het is verboden eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
@@ -74,7 +74,7 @@ Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verh
 
 ##### Artikel 4
 
-Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, ter uitvoering van:
+Onze Minister stelt, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, ter uitvoering van:
 
 - a. [Richtlijn 97/78/EG](31997L0078);
 
@@ -82,7 +82,7 @@ Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbe
 
 - c. een bindend EG-besluit;
 
-nadere regels vast ter uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=3&z=2004-09-24&g=2004-09-24), voor zover het de volksgezondheid betreft.
+nadere regels vast ter uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=3&z=2012-05-09&g=2012-05-09), voor zover het de volksgezondheid betreft.
 
 ##### Artikel 5
 
