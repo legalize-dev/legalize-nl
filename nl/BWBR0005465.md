@@ -4,7 +4,7 @@ identifier: "BWBR0005465"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-05-24"
-last_updated: "2000-09-20"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005465"
 soort: "AMvB"
@@ -96,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 - c. elektronen opgewekt door machinale bronnen, met een energieniveau van ten hoogste 10 Mev.
 
-2. De behandeling van waren met ioniserende stralen mag uitsluitend plaatsvinden in een installatie als bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=1&artikel=1&z=2000-09-20&g=2000-09-20), waarvoor een erkenning voor het mogen uitvoeren van die behandeling door Onze Minister is afgegeven.
+2. De behandeling van waren met ioniserende stralen mag uitsluitend plaatsvinden in een installatie als bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=1&artikel=1&z=2012-05-09&g=2012-05-09), waarvoor een erkenning voor het mogen uitvoeren van die behandeling door Onze Minister is afgegeven.
 
 3. Onverminderd het bepaalde in het vierde lid wordt, voor zover het betreft het behandelen met ioniserende stralen van eet- en drinkwaren en grondstoffen de in het tweede lid bedoelde erkenning verleend indien de installatie voldoet aan de Recommended International Code of Practice for the Operation of Irradiation Facilities Used for the Treatment of Foods (FAO/WHO CAC/Vol. XV, Ed.1.CAC/RCP 10-1979 (Rev. 1) van de Codex Alimentarius, en een persoon is aangewezen die instaat voor de naleving van alle eisen die met betrekking tot dit procédé noodzakelijk zijn.
 
@@ -106,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. De overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=3&z=2000-09-20&g=2000-09-20) erkende installatie houdt voor elke gebruikte ioniserende stralingsbron alsmede voor iedere partij behandelde eet- of drinkwaren of grondstoffen een register bij met de volgende gegevens:
+1. De overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=3&z=2012-05-09&g=2012-05-09) erkende installatie houdt voor elke gebruikte ioniserende stralingsbron alsmede voor iedere partij behandelde eet- of drinkwaren of grondstoffen een register bij met de volgende gegevens:
 
 - a. aard en hoeveelheid van de doorstraalde eet- of drinkwaren of grondstoffen;
 
@@ -208,9 +208,9 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 3. Onverminderd het eerste en tweede lid, mogen doorstraalde eet- en drinkwaren en grondstoffen uitsluitend worden ingevoerd, indien voldaan is aan de volgende voorwaarden:
 
-- a. voldaan moet zijn aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=4&artikel=6&z=2000-09-20&g=2000-09-20) en
+- a. voldaan moet zijn aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) en
 
-- b. bij iedere zending moeten de gegevens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=4&z=2000-09-20&g=2000-09-20), zijn vermeld.
+- b. bij iedere zending moeten de gegevens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=4&z=2012-05-09&g=2012-05-09), zijn vermeld.
 
 4. Voor de toepassing van het derde lid wordt onder invoer verstaan het plaatsen van de goederen onder de douaneregeling in het vrije verkeer brengen, dan wel het plaatsen onder de douaneregeling actieve veredeling, behandeling onder douanetoezicht, tijdelijke invoer of passieve veredeling als bedoeld in [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Unie van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).
 
@@ -234,7 +234,7 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, alsmede detectiemethoden.
 
-2. Onze Minister kan, in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
+2. Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
 ##### Artikel 12
 
@@ -248,7 +248,7 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Het is niet van toepassing op waren waarvan kan worden aangetoond dat zij voor bedoelde datum met ioniserende stralen zijn behandeld.
 
-2. In afwijking van het eerste lid treden de [artikelen 10, tweede lid, sub c, en derde lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=6&artikel=10&z=2000-09-20&g=2000-09-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=12&z=2000-09-20&g=2000-09-20) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=13&z=2000-09-20&g=2000-09-20) in werking met ingang van de zevende maand na de in dat lid bedoelde datum.
+2. In afwijking van het eerste lid treden de [artikelen 10, tweede lid, sub c, en derde lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=6&artikel=10&z=2012-05-09&g=2012-05-09), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=12&z=2012-05-09&g=2012-05-09) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=13&z=2012-05-09&g=2012-05-09) in werking met ingang van de zevende maand na de in dat lid bedoelde datum.
 
 ##### Artikel 15
 
