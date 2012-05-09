@@ -4,7 +4,7 @@ identifier: "BWBR0004021"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-21"
-last_updated: "2007-10-17"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004021"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Spaanplaat mag slechts schimmelwerende middelen bevatten, voor zover deze ingevo
 
 ##### Artikel 5
 
-Aan de opsomming van waren in het besluit van 26 maart 1921 (**Stb.** 638), tot aanwijzing van artikelen als waren in de zin van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) (**Stb.** 1935, 793) wordt toegevoegd: "spaanplaat en spaanplaat bevattende artikelen.".
+Vervallen
 
 ##### Artikel 6
 
