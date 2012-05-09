@@ -4,7 +4,7 @@ identifier: "BWBR0018370"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2012-03-21"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018370"
 soort: "AMvB"
@@ -72,9 +72,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2012-03-21&g=2012-03-21), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2012-03-21&g=2012-03-21).
+1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2012-05-09&g=2012-05-09), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2012-05-09&g=2012-05-09).
 
-2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2012-03-21&g=2012-03-21), gestelde regels.
+2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2012-05-09&g=2012-05-09), gestelde regels.
 
 3. Het is verboden te handelen in strijd met de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van verordening (EG) 1935/2004 gestelde voorschriften.
 
@@ -84,21 +84,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 1. Een verpakking of gebruiksartikel:
 
-- a. is vervaardigd uit materialen die op grond van hun uit het oogpunt van volksgezondheid goede hoedanigheid zijn aangewezen door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen zulks onder het stellen van regels omtrent de stoffen, waaruit die materialen zijn vervaardigd;
+- a. is vervaardigd uit materialen die op grond van hun uit het oogpunt van volksgezondheid goede hoedanigheid zijn aangewezen door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Economische Zaken, Landbouw en Innovatie tezamen zulks onder het stellen van regels omtrent de stoffen, waaruit die materialen zijn vervaardigd;
 
 - b. is niet zodanig vervaardigd, dat die verpakking of dat gebruiksartikel uit het oogpunt van volksgezondheid gevaar oplevert of kan opleveren; en
 
 - c. bevindt zich in zindelijke staat.
 
-2. Stoffen, afkomstig van materialen, bedoeld in het eerste lid, onder a, worden niet gerekend tot
-
-- –. de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2012-03-21&g=2012-03-21) of een gebruiksartikel, bedoeld in [artikel 1, onder b, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2012-03-21&g=2012-03-21),
-
-- –. de in de waren, bedoeld onder 1° en 15° van het [Besluit van 26 maart 1921](https://wetten.overheid.nl/jci1.3:c:BWBR0001904) (Stb. 638), aanwezige stoffen, voor zover deze aan die waren zijn afgegeven door de artikelen gebruikt voor het verpakken daarvan.
+2. Stoffen, afkomstig van materialen als bedoeld in het eerste lid, onder a, worden niet gerekend tot de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2012-05-09&g=2012-05-09), of een gebruiksartikel, bedoeld in artikel 1, onder b, 1°.
 
 ##### Artikel 4
 
-1. Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen kunnen regels stellen met betrekking tot de afgifte van bestanddelen van materialen en voorwerpen die:
+1. Onze Ministers van Volksgezondheid, Welzijn en Sport en van Economische Zaken, Landbouw en Innovatie tezamen kunnen regels stellen met betrekking tot de afgifte van bestanddelen van materialen en voorwerpen die:
 
 - –. een gevaar voor de gezondheid van de mens kunnen opleveren;
 
@@ -106,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 - –. tot een aantasting van de organoleptische eigenschappen ervan kunnen leiden.
 
-2. Voor de beoordeling of de waren, als bedoeld in dit besluit, voldoen aan de bij of krachtens dit besluit gestelde eisen moet worden gebruik gemaakt van de ter zake door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken tezamen vastgestelde onderzoekingsmethoden.
+2. Voor de beoordeling of de waren, als bedoeld in dit besluit, voldoen aan de bij of krachtens dit besluit gestelde eisen moet worden gebruik gemaakt van de ter zake door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Economische Zaken, Landbouw en Innovatie tezamen vastgestelde onderzoekingsmethoden.
 
 ##### Artikel 5
 
@@ -134,7 +130,7 @@ Dit besluit is niet van toepassing op
 
 ##### Artikel 8
 
-Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2012-03-21&g=2012-03-21) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2012-03-21&g=2012-03-21) van dit besluit.
+Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2012-05-09&g=2012-05-09) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2012-05-09&g=2012-05-09) van dit besluit.
 
 ##### Artikel 9
 
