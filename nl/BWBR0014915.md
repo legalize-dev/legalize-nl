@@ -4,7 +4,7 @@ identifier: "BWBR0014915"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-12-03"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014915"
 soort: "wet"
@@ -113,7 +113,7 @@ Onderscheid is verboden bij:
 
 ##### Artikel 9
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2011-12-03&g=2011-12-03), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2011-12-03&g=2011-12-03) of terzake bijstand heeft verleend, is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2012-05-09&g=2012-05-09), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2012-05-09&g=2012-05-09) of terzake bijstand heeft verleend, is vernietigbaar.
 
 2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
 
@@ -125,7 +125,7 @@ Onderscheid is verboden bij:
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 
-2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2011-12-03&g=2011-12-03) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
+2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2012-05-09&g=2012-05-09) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
@@ -135,7 +135,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 12
 
-De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2011-12-03&g=2011-12-03). De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
+De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2012-05-09&g=2012-05-09). De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -159,7 +159,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat verband houdt met handicap of chronische ziekte en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2011-12-03&g=2011-12-03) niet van toepassing.
+3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2012-05-09&g=2012-05-09) niet van toepassing.
 
 #### § 2. Arbeid
 
@@ -171,7 +171,11 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=4&artikel=8&z=2012-05-09&g=2012-05-09) en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een bus, trein, metro, tram of een via een geleidesysteem voortbewogen voertuig;
+
+- b. reisinformatie: informatie over de dienstregeling met de geldigheidsduur daarvan, gegarandeerde overstapmogelijkheden binnen de dienstregeling, wijzigingen van de dienstregeling en over tarieven en de daarbij behorende zone-indeling.
 
 ##### Artikel 7a
 
@@ -179,7 +183,15 @@ Vervallen
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onderscheid is verboden bij:
+
+- a. het verlenen van de voor het reizen vereiste toegang tot de bij het openbaar vervoer behorende gebouwen en infrastructuur;
+
+- b. het aanbieden van openbaar-vervoersdiensten en reisinformatie;
+
+- c. het sluiten, uitvoeren of beëindigen van overeenkomsten met betrekking tot openbaar vervoer.
+
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ingevolge het eerste lid, in samenhang met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2012-05-09&g=2012-05-09), te verrichten aanpassingen als bedoeld in dat artikel.
 
 #### § 5. Rechtsbescherming
 
@@ -189,7 +201,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a
 
-Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2011-12-03&g=2011-12-03) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
+Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2012-05-09&g=2012-05-09) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
 
 #### § 6. Slotbepalingen
 
@@ -225,7 +237,7 @@ Onderscheid is verboden bij:
 
 ##### Artikel 6c
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2011-12-03&g=2011-12-03) is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2012-05-09&g=2012-05-09) is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
 
 #### § 5. Rechtsbescherming
 
@@ -235,7 +247,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5b
 
-Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), voor zover niet begrepen onder [artikel 6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=3&artikel=6&z=2011-12-03&g=2011-12-03).
+Onderscheid is verboden bij het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), voor zover niet begrepen onder [artikel 6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=3&artikel=6&z=2012-05-09&g=2012-05-09).
 
 #### § 3a. Wonen
 
