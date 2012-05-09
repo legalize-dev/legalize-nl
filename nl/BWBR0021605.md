@@ -4,7 +4,7 @@ identifier: "BWBR0021605"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2007-06-01"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021605"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 - e. piercingmateriaal: waren die bestemd zijn of gebruikt worden voor het piercen;
 
-- f. veiligheidscode: een richtlijn voor het veilig gebruik van tatoeage- en piercingmateriaal;
+- f. veiligheidscode: een richtlijn voor het veilig gebruik van tatoeage- of piercingmateriaal;
 
 - g. ondernemer: een natuurlijk persoon of rechtspersoon die een onderneming in stand houdt waarin tatoeage- of piercingmateriaal wordt gebruikt.
 
@@ -72,13 +72,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2007-06-01&g=2007-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2007-06-01&g=2007-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=5&artikel=9&z=2007-06-01&g=2007-06-01).
+Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=5&artikel=9&z=2012-05-09&g=2012-05-09).
 
 #### § 3. Vergunning
 
 ##### Artikel 3
 
-1. Een ondernemer beschikt over een vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport voor het gebruik van tatoeage- en piercingmateriaal voor de ruimte waar het gebruik plaatsvindt.
+1. Een ondernemer beschikt over een vergunning van Onze Minister voor het gebruik van tatoeage- of piercingmateriaal voor de ruimte waar het gebruik plaatsvindt of voor dat gebruik is ingericht.
 
 2. Het eerste lid is niet van toepassing:
 
@@ -88,19 +88,19 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij of kracht
 
 ##### Artikel 4
 
-1. De vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2007-06-01&g=2007-06-01), wordt op aanvraag verleend.
+1. De vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), wordt op aanvraag verleend.
 
-2. De aanvrager van de vergunning is een retributie verschuldigd aan Onze Minister van Volksgezondheid, Welzijn en Sport.
+2. De aanvrager van de vergunning is voor het in behandeling nemen van de aanvraag een retributie verschuldigd aan Onze Minister.
 
 3. Een besluit tot verlening van een vergunning wordt niet genomen voordat is onderzocht of er een gegronde reden bestaat om aan te nemen dat die ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
-4. Onze Minister van Volksgezondheid, Welzijn en Sport weigert de vergunning indien:
+4. Onze Minister weigert de vergunning indien:
 
 - a. de ondernemer zijn medewerking weigert aan het onderzoek, bedoeld in het derde lid, of
 
 - b. er een gegronde reden bestaat om aan te nemen dat de ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
-5. Onze Minister van Volksgezondheid, Welzijn en Sport stelt ter uitvoering van het eerste tot en met derde lid nadere regels. Deze regels hebben in ieder geval betrekking op:
+5. Onze Minister stelt ter uitvoering van het eerste tot en met derde lid nadere regels. Deze regels hebben in ieder geval betrekking op:
 
 - a. de geldigheidsduur van de vergunning;
 
@@ -118,7 +118,7 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij of kracht
 
 ##### Artikel 5
 
-Onze Minister van Volksgezondheid, Welzijn en Sport kan de vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2007-06-01&g=2007-06-01), intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel [artikel 24, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) is overtreden.
+Onze Minister kan de vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2012-05-09&g=2012-05-09), intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel [artikel 24, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) is overtreden.
 
 #### § 4. Veilig tatoeëren en piercen
 
@@ -126,41 +126,41 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan de vergunning, bedoeld i
 
 1. Een ondernemer draagt er zorg voor dat:
 
-- a. het gebruik van tatoeage- en piercingmateriaal op zodanige wijze geschiedt, dat daardoor geen gevaar kan ontstaan voor de veiligheid of de gezondheid van de mens;
+- a. het gebruik van tatoeage- of piercingmateriaal op zodanige wijze geschiedt, dat daardoor geen gevaar kan ontstaan voor de veiligheid of de gezondheid van de mens;
 
-- b. het gebruik van tatoeage- en piercingmateriaal geschiedt in een ruimte die in zodanige staat is en zodanig is ingericht, dat daardoor geen gevaar kan ontstaan voor de veiligheid of de gezondheid van de mens;
+- b. het gebruik van tatoeage- of piercingmateriaal geschiedt in een ruimte die in zodanige staat is en zodanig is ingericht, dat daardoor geen gevaar kan ontstaan voor de veiligheid of de gezondheid van de mens;
 
 - c. de personen die werkzaam zijn in de ruimte, bedoeld in onderdeel b, een zeer goede persoonlijke hygiëne betrachten en waar nodig met het oog op de veiligheid en gezondheid van de mens, beschermende kleding dragen;
 
-- d. personen, als bedoeld in onderdeel c, tatoeage- en piercingmateriaal niet gebruiken, indien daarbij ten gevolge van verwondingen of huidziekten gezondheidsrisico’s kunnen ontstaan;
+- d. personen, als bedoeld in onderdeel c, tatoeage- of piercingmateriaal niet gebruiken, indien daarbij ten gevolge van verwondingen of huidziekten gezondheidsrisico’s kunnen ontstaan;
 
 - e. de voorschriften worden nageleefd, die zijn gesteld bij of krachtens [artikel 24, derde lid, onderdeel b en c, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
-2. Onze Minister van Volksgezondheid, Welzijn en Sport kan met betrekking tot het eerste lid nadere regels stellen.
+2. Onze Minister kan met betrekking tot het eerste lid nadere regels stellen.
 
 ##### Artikel 7
 
-1. Een veiligheidscode kan slechts als zodanig worden gebruikt, indien die veiligheidscode door Onze Minister van Volksgezondheid, Welzijn en Sport is aangewezen.
+1. Een veiligheidscode kan slechts als zodanig worden gebruikt, indien die veiligheidscode door Onze Minister is aangewezen.
 
-2. Onze Minister van Volksgezondheid, Welzijn en Sport kan een veiligheidscode aanwijzen indien die code als leidraad kan dienen voor de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2007-06-01&g=2007-06-01).
+2. Onze Minister kan een veiligheidscode aanwijzen indien die code als leidraad kan dienen voor de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09).
 
 ##### Artikel 8
 
-1. Een ondernemer wordt bij controle, dan wel ter gelegenheid van het onderzoek dat plaatsvindt in het kader van de vergunningaanvraag door een met het toezicht op de naleving van dit besluit belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of voor die ruimte gewerkt wordt volgens een aangewezen veiligheidscode als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=7&z=2007-06-01&g=2007-06-01).
+1. Een ondernemer wordt bij controle, dan wel ter gelegenheid van het onderzoek dat plaatsvindt in het kader van de vergunningaanvraag door een met het toezicht op de naleving van dit besluit belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of voor die ruimte gewerkt wordt volgens een aangewezen veiligheidscode als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=7&z=2012-05-09&g=2012-05-09).
 
 2. Een ondernemer die te kennen heeft gegeven te werken volgens een aangewezen veiligheidscode:
 
-- a. voldoet aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2007-06-01&g=2007-06-01) gestelde voorschriften indien hij heeft gehandeld volgens de voorschriften in die veiligheidscode die daarop betrekking hebben;
+- a. voldoet aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften indien hij heeft gehandeld volgens de voorschriften in die veiligheidscode die daarop betrekking hebben;
 
-- b. dient, indien hij niet volgens de voorschriften in die veiligheidscode blijkt te hebben gehandeld, alsnog ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2007-06-01&g=2007-06-01) gestelde voorschriften.
+- b. dient, indien hij niet volgens de voorschriften in die veiligheidscode blijkt te hebben gehandeld, alsnog ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften.
 
-3. Een ondernemer die te kennen heeft gegeven niet te werken volgens een aangewezen veiligheidscode, dient ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2007-06-01&g=2007-06-01) gestelde voorschriften.
+3. Een ondernemer die te kennen heeft gegeven niet te werken volgens een aangewezen veiligheidscode, dient ten overstaan van de in het eerste lid bedoelde ambtenaar, aannemelijk te maken dat zijn bedrijfsvoering en de door hem gehanteerde werkwijze voldoen aan de bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=4&artikel=6&z=2012-05-09&g=2012-05-09) gestelde voorschriften.
 
 #### § 5. Overige bepalingen
 
 ##### Artikel 9
 
-Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen regels worden gesteld omtrent:
+Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
 - a. de schriftelijke informatie over de mogelijke gevolgen verbonden aan het aanbrengen van een tatoeage of piercing;
 
@@ -184,11 +184,7 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 12
 
-[Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&paragraaf=3&artikel=3&z=2007-06-01&g=2007-06-01), is niet van toepassing:
-
-- a. gedurende de eerste twee maanden na inwerkingtreding van dit besluit, indien de ruimte waar het tatoeage- en piercingmateriaal worden gebruikt op het moment waarop dit besluit in werking treedt, reeds voor dat doel in gebruik was; en
-
-- b. aansluitend aan de periode, bedoeld onder a, indien in die periode ten aanzien van die ruimte een vergunning is aangevraagd, tot het tijdstip waarop door Onze Minister van Volksgezondheid, Welzijn en Sport op de aanvraag voor een vergunning voor die ruimte is beslist.
+Vervallen
 
 ##### Artikel 13
 
