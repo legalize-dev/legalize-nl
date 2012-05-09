@@ -4,7 +4,7 @@ identifier: "BWBR0013490"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2002-04-01"
+last_updated: "2012-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013490"
 soort: "AMvB"
@@ -85,9 +85,9 @@ Tot toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hul
 
 ##### Artikel 4
 
-1. Op de voordracht van de voorzitters wijzen Onze Ministers een coördinerend voorzitter aan.
+1. Op de voordracht van de voorzitters wijzen Onze Ministers een coördinerend voorzitter en een plaatsvervangend coördinerend voorzitter aan.
 
-2. De coördinerend voorzitter heeft in ieder geval tot taak:
+2. De coördinerend voorzitter of bij diens afwezigheid de plaatsvervangend coördinerend voorzitter heeft in ieder geval tot taak:
 
 - a. het initiëren en voorzitten van overleg tussen de voorzitters;
 
@@ -95,7 +95,7 @@ Tot toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hul
 
 - c. het vertegenwoordigen van de voorzitters;
 
-- d. het geven van aanwijzingen aan de algemeen secretaris, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013490&hoofdstuk=II&artikel=6&z=2002-04-01&g=2002-04-01).
+- d. het geven van aanwijzingen aan de algemeen secretaris, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013490&hoofdstuk=II&artikel=6&z=2012-05-09&g=2012-05-09).
 
 ##### Artikel 5
 
