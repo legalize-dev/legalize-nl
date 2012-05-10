@@ -4,7 +4,7 @@ identifier: "BWBR0027648"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2011-02-23"
+last_updated: "2012-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027648"
 soort: "ministeriele-regeling"
@@ -61,6 +61,8 @@ Besluit:
 3. Het eerste lid is niet van toepassing voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in de Republiek Guinee en met vooraf verleende ontheffing van de minister van Economische Zaken, Landbouw en Innovatie.
 
 4. Het eerste lid is niet van toepassing op de tijdelijke uitvoer van beschermende kleding voor persoonlijk gebruik, met inbegrip van kogelvrije vesten en militaire helmen, door personeel van de Verenigde Naties, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire en ontwikkelingsorganisaties en daarmee verbonden personeel.
+
+5. Het eerste lid is niet van toepassing op de teruggave van transporthelikopters, niet zijnde gevechtshelikopter, ontdaan van militaire uitrusting en uitsluitend voor gebruik door de Guineese autoriteiten, mits de regering van Guinee vooraf schriftelijk akkoord gaat met de voorwaarden dat die helikopters niet worden uitgerust met militaire apparatuur en dat het gebruik van die helikopters onder civiele controle blijft.
 
 ##### Artikel 3
 
