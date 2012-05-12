@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2012-04-01"
+last_updated: "2012-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -3809,7 +3809,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Productgroep |   | Maximumprijs |
 | FEXOFENADINE-120-MG-TABLET | FEXOFENADINE-120-MG-TABLET | 0.26591800 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 21624 | Stp free tablet omhuld 120mg |   |
 | 35226 | Fexofenadine hcl rp tablet omhuld 120mg |   |
 | Productgroep |   | Maximumprijs |
 | FEXOFENADINE-180-MG-TABLET | FEXOFENADINE-180-MG-TABLET | 0.36525400 per stuk |
