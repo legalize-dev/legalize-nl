@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2011-05-25"
+last_updated: "2012-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -142,11 +142,11 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2011-05-25&g=2011-05-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2011-05-25&g=2011-05-25) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2012-05-19&g=2012-05-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2012-05-19&g=2012-05-19) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
-Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in [artikel 10.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.07), is een strafbaar feit.
+Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, is een strafbaar feit.
 
 ##### Artikel 8
 
