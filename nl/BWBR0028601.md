@@ -4,7 +4,7 @@ identifier: "BWBR0028601"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2012-05-23"
-last_updated: "2011-07-01"
+last_updated: "2012-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028601"
 soort: "ministeriele-regeling-BES"
@@ -39,6 +39,8 @@ entry_into_force: "2010-10-10"
 Gelet op [artikel 6.16 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&artikel=6.16), [artikel 1b, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1b) en [artikel 7, tweede lid, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=7);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Inleidende bepalingen
 
@@ -82,11 +84,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. (afbakening vergunning van rechtswege)
 
-Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Landsverordening toezicht beleggingsinstellingen en administrateurs, de Landsverordening toezicht effectenbeurzen, de Landsverordening toezicht trustwezen of de Landsverordening toezicht verzekeringsbedrijf verleende vergunning wordt voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) gelijkgesteld met een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) verleende vergunning, voor zover de vergunninghouder de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling in of vanuit een vestiging in de openbare lichamen verrichtte.
+1. Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Landsverordening toezicht beleggingsinstellingen en administrateurs, de Landsverordening toezicht effectenbeurzen, de Landsverordening toezicht trustwezen of de Landsverordening toezicht verzekeringsbedrijf verleende vergunning wordt voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) gelijkgesteld met een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) verleende vergunning, voor zover de vergunninghouder de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling in of vanuit een vestiging in de openbare lichamen verrichtte.
+
+2. Het eerste lid is van overeenkomstige toepassing op een op grond van de Landsverordening toezicht bank- en kredietwezen 1994 verleende vergunning, voor zover de betrokken kredietinstelling de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling door middel van het verrichten van diensten in de openbare lichamen verrichtte.
 
 ##### Artikel 3. (overgangsrecht trustkantoren)
 
-1. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01) worden voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.
+1. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=2&artikel=2&z=2012-05-23&g=2012-05-23) worden voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.
 
 2. Personen die zijn vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning die niet op grond van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) wordt gelijkgesteld met een op grond van de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) verleende vergunning, en die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden, zijn tot 1 juli 2011 vrijgesteld van de eisen die de Wet toezicht trustwezen BES stelt aan het verlenen van beheersdiensten als bedoeld in die wet.
 
@@ -158,7 +162,7 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 ##### Artikel 9
 
-De Nederlandsche Bank kan nadere regels stellen ten aanzien van het bepaalde in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=7&z=2011-07-01&g=2011-07-01), en [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=8&z=2011-07-01&g=2011-07-01).
+De Nederlandsche Bank kan nadere regels stellen ten aanzien van het bepaalde in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=7&z=2012-05-23&g=2012-05-23), en [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=8&z=2012-05-23&g=2012-05-23).
 
 ##### Artikel 10
 
