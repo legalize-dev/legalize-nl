@@ -4,7 +4,7 @@ identifier: "BWBR0025218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2009-07-01"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025218"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Het Staatsblad en de Staatscourant worden uitgegeven op www.officielebekendmakin
 
 ##### Artikel 2
 
-De Minister van Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het Staatsblad onderscheidenlijk de Staatscourant voldoen aan de volgende eisen:
+De Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het Staatsblad onderscheidenlijk de Staatscourant voldoen aan de volgende eisen:
 
 - a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1 (ISO 19005-1:2005).
 
@@ -62,15 +62,15 @@ De Minister van Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en
 
 Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als bedoeld in [artikel 9 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=9), geschiedt:
 
-- a. door middel van publicatie op een door de Minister van Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,
+- a. door middel van publicatie op een door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,
 
-- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2009-07-01&g=2009-07-01) genoemde uitgiftepunt, of
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2012-05-26&g=2012-05-26) genoemde uitgiftepunt, of
 
-- c. op een andere door de Minister van Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.
+- c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.
 
 ##### Artikel 4
 
-Het uitgiftepunt, bedoeld in [artikel 10, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=10), is ondergebracht bij de stichting ICTU, Wilhelmina van Pruisenweg 104, Postbus 84011, 2508 AA Den Haag.
+Het uitgiftepunt, bedoeld in [artikel 10, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=10), is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
 
 ##### Artikel 5
 
