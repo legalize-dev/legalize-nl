@@ -4,7 +4,7 @@ identifier: "BWBR0031305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-05"
-last_updated: "2012-02-25"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031305"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, eerste lid, artikel 9, artikel 11, artikel 12, eerste lid, artikel 13, eerste en tweede lid, artikel 14, artikel 19, tweede lid, artikel 24, artikel 25, artikel 26, eerste en vierde lid, en artikel 29, eerste lid, van Verordening (EU) nr. 36/2012 van de Raad van de Europese Unie van 18 januari 2012 (Pb L16).
+1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, eerste lid, artikel 9, artikel 11, artikel 11 bis, artikel 12, eerste lid, artikel 13, eerste en tweede lid, artikel 14, artikel 19, tweede lid, artikel 24, artikel 25, artikel 26, eerste en vierde lid, en artikel 29, eerste lid, van Verordening (EU) nr. 36/2012 van de Raad van de Europese Unie van 18 januari 2012 (Pb L16).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede of derde lid, artikel 3, tweede lid, artikel 7, artikel 10, artikel 12, tweede lid, artikel 13, vierde lid, artikel 16 tot en met artikel 21 of artikel 26, tweede of derde lid, van Verordening (EU) nr. 36/2012 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede of derde lid, artikel 3, tweede lid, artikel 7, artikel 10, artikel 12, tweede lid, artikel 13, vierde lid, artikel 16 tot en met artikel 21, artikel 21 bis of artikel 26, tweede of derde lid, van Verordening (EU) nr. 36/2012 van toepassing is.
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ Besluit:
 
 2. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, artikel 5, eerste lid, artikel 10, eerste lid, artikel 12, tweede lid, van Verordening (EU) nr. 36/2012, is de Minister van Economische Zaken, Landbouw en Innovatie wat betreft het verlenen van technische bijstand en de Minister van Financiën wat betreft het verlenen van financiering en financiële bijstand.
 
-3. De bevoegde autoriteit, bedoeld in de artikelen 16, 17, 18, 20 en 21 van Verordening (EU) nr. 36/2012 is de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden en de Minister van Economische Zaken, Landbouw en Innovatie wat betreft de vrijgave of beschikbaarstelling van economische middelen.
+3. De bevoegde autoriteit, bedoeld in de artikelen 16, 17, 18, 20 en 21 van Verordening (EU) nr. 36/2012 is de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden en de Minister van Economische Zaken, Landbouw en Innovatie wat betreft de vrijgave of beschikbaarstelling van economische middelen. De bevoegde autoriteit, bedoeld in artikel 21 bis van Verordening (EU) nr. 36/2012, is de Minister van Financiën wat betreft de overdracht van tegoeden aan, door of door tussenkomst van de centrale bank van Syrië en de Minister van Economische Zaken, Landbouw en Innovatie wat betreft de overdracht van economische middelen aan, door of door tussenkomst van de centrale bank van Syrië.
 
 4. De bevoegde autoriteit, bedoeld in artikel 19, tweede lid, van Verordening (EU) nr. 36/2012, is de Minister van Financiën.
 
