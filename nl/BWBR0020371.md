@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2011-12-21"
+last_updated: "2012-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 1 bis, eerste lid, 1 ter, eerste lid, 2 en 5 van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, 1 ter, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 4 of artikel 4 bis van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, 1 ter, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
@@ -66,9 +66,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, van Verordening (EG) nr. 765/2006, is voor zover het betreft de verlening van technische bijstand, de Minister van Economische Zaken, Landbouw en Innovatie, en voor zover het betreft de verlening van financiële bijstand, de Minister van Financiën.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, en in artikel 4 bis, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister van Economische Zaken, Landbouw en Innovatie.
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister van Economische Zaken, Landbouw en Innovatie.
 
-4. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, en in artikel 4 bis, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
+4. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
 
 5. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 765/2006 is de Minister van Financiën.
 
