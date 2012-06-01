@@ -4,7 +4,7 @@ identifier: "BWBV0005856"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-06-01"
-last_updated: "2007-10-18"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005856"
 soort: "verdrag"
@@ -198,17 +198,17 @@ EUROGENDFOR kan ter beschikking worden gesteld van de Europese Unie (EU), van de
 
 - k. begeleiden en beoordelen van de activiteiten van EUROGENDFOR bij inzet;
 
-- l. besluiten over de noodzaak de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=V&artikel=12&z=2007-10-18&g=2007-10-18), bedoelde veiligheidsovereenkomsten te sluiten.
+- l. besluiten over de noodzaak de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=V&artikel=12&z=2012-06-01&g=2012-06-01), bedoelde veiligheidsovereenkomsten te sluiten.
 
-4. De CIMIN dient de belangrijkste acties goed te keuren die verband houden met de administratieve aspecten van het Permanente Hoofdkwartier en met kwesties rond de inzet van EUROGENDFOR, met name wat betreft de jaarbegroting en andere financiële aangelegenheden overeenkomstig [Hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=X&z=2007-10-18&g=2007-10-18).
+4. De CIMIN dient de belangrijkste acties goed te keuren die verband houden met de administratieve aspecten van het Permanente Hoofdkwartier en met kwesties rond de inzet van EUROGENDFOR, met name wat betreft de jaarbegroting en andere financiële aangelegenheden overeenkomstig [Hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=X&z=2012-06-01&g=2012-06-01).
 
 5. Aan de hand van zijn specifieke richtlijnen:
 
-- a. beoordeelt de CIMIN of aan de voorwaarden voor toetreding tot het Verdrag in overeenstemming met [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=42&z=2007-10-18&g=2007-10-18) wordt voldaan en doet zijn voorstel ter goedkeuring toekomen aan de Partijen;
+- a. beoordeelt de CIMIN of aan de voorwaarden voor toetreding tot het Verdrag in overeenstemming met [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=42&z=2012-06-01&g=2012-06-01) wordt voldaan en doet zijn voorstel ter goedkeuring toekomen aan de Partijen;
 
-- b. beslist de CIMIN of de status van waarnemer binnen EUROGENDFOR in overeenstemming met [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=43&z=2007-10-18&g=2007-10-18) wordt toegekend;
+- b. beslist de CIMIN of de status van waarnemer binnen EUROGENDFOR in overeenstemming met [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=43&z=2012-06-01&g=2012-06-01) wordt toegekend;
 
-- c. beslist de CIMIN of de status van partner binnen EUROGENDFOR in overeenstemming met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=44&z=2007-10-18&g=2007-10-18) wordt toegekend.
+- c. beslist de CIMIN of de status van partner binnen EUROGENDFOR in overeenstemming met [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=44&z=2012-06-01&g=2012-06-01) wordt toegekend.
 
 6. De vergaderingen van de CIMIN vinden plaats in overeenstemming met het door de CIMIN aan te nemen reglement van orde.
 
@@ -314,7 +314,7 @@ Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op
 
 ##### Artikel 20. Persoonlijke voorrechten
 
-1. Personeelsleden van EUROGENDFOR bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=I&artikel=3&z=2007-10-18&g=2007-10-18), die geen vaste verblijfplaats hebben in of onderdaan zijn van de Gastheerstaat mogen op het tijdstip van hun eerste aankomst teneinde hun functie te gaan vervullen in die Staat, binnen een jaar na hun eerste aankomst en voor ten hoogste twee zendingen uit de laatste Staat van verblijf of uit de Staat waarvan zij onderdaan zijn hun persoonlijke eigendommen en meubilair, met inbegrip van een motorvoertuig, vrij van douaneheffingen en andere indirecte belastingen invoeren of dergelijke goederen vrij van omzetbelasting voor een aanmerkelijk bedrag aanschaffen in de Gastheerstaat.
+1. Personeelsleden van EUROGENDFOR bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=I&artikel=3&z=2012-06-01&g=2012-06-01), die geen vaste verblijfplaats hebben in of onderdaan zijn van de Gastheerstaat mogen op het tijdstip van hun eerste aankomst teneinde hun functie te gaan vervullen in die Staat, binnen een jaar na hun eerste aankomst en voor ten hoogste twee zendingen uit de laatste Staat van verblijf of uit de Staat waarvan zij onderdaan zijn hun persoonlijke eigendommen en meubilair, met inbegrip van een motorvoertuig, vrij van douaneheffingen en andere indirecte belastingen invoeren of dergelijke goederen vrij van omzetbelasting voor een aanmerkelijk bedrag aanschaffen in de Gastheerstaat.
 
 2. Het bepaalde in het eerste lid is uitsluitend van toepassing op personeelsleden die voor ten minste een jaar zijn gedetacheerd.
 
@@ -420,7 +420,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 ##### Artikel 29. Schade van derden
 
-1. In het geval van schade veroorzaakt jegens een derde of aan de eigendommen van een derde door een lid van of eigendommen van een van de Partijen bij de uitvoering van de taken, met inbegrip van oefeningen, bedoeld in dit Verdrag, delen de Partijen de vergoeding van de schade op de wijze omschreven in de uitvoeringsovereenkomsten of -regelingen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=45&z=2007-10-18&g=2007-10-18) en in overeenstemming met de volgende bepalingen:
+1. In het geval van schade veroorzaakt jegens een derde of aan de eigendommen van een derde door een lid van of eigendommen van een van de Partijen bij de uitvoering van de taken, met inbegrip van oefeningen, bedoeld in dit Verdrag, delen de Partijen de vergoeding van de schade op de wijze omschreven in de uitvoeringsovereenkomsten of -regelingen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=45&z=2012-06-01&g=2012-06-01) en in overeenstemming met de volgende bepalingen:
 
 - a. vorderingen worden ingediend, behandeld en afgedaan in overeenstemming met de wet- en regelgeving van de Gastheerstaat of de Ontvangende Staat ter zake van vorderingen die voortvloeien uit de activiteiten van EUROGENDFOR;
 
@@ -446,7 +446,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 ##### Artikel 30. Onderzoek van de omstandigheden
 
-Indien er twijfel bestaat of de schade is veroorzaakt bij de uitvoering van een officiële taak, neemt de CIMIN, onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&artikel=31&z=2007-10-18&g=2007-10-18), na bestudering van het rapport over de omstandigheden van de EGF-commandant een besluit.
+Indien er twijfel bestaat of de schade is veroorzaakt bij de uitvoering van een officiële taak, neemt de CIMIN, onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&artikel=31&z=2012-06-01&g=2012-06-01), na bestudering van het rapport over de omstandigheden van de EGF-commandant een besluit.
 
 ##### Artikel 31. Oefeningen en operaties
 
@@ -454,7 +454,7 @@ Voor oefeningen of operaties op het grondgebied van een derde Staat kan de metho
 
 ##### Artikel 32. Technische of wetenschappelijke deskundigen
 
-Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=VIII&z=2007-10-18&g=2007-10-18) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&z=2007-10-18&g=2007-10-18) van dit Verdrag is eveneens van toepassing op onderdanen van een van de Partijen die niet behoren tot het militaire of burgerpersoneel, maar een specifieke taak van technische of wetenschappelijke aard binnen EUROGENDFOR verrichten en zulks uitsluitend gedurende de periode dat deze taak wordt verricht.
+Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=VIII&z=2012-06-01&g=2012-06-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&z=2012-06-01&g=2012-06-01) van dit Verdrag is eveneens van toepassing op onderdanen van een van de Partijen die niet behoren tot het militaire of burgerpersoneel, maar een specifieke taak van technische of wetenschappelijke aard binnen EUROGENDFOR verrichten en zulks uitsluitend gedurende de periode dat deze taak wordt verricht.
 
 ### HOOFDSTUK X. VOORWAARDEN TEN AANZIEN VAN FINANCIËN EN EIGENDOMSRECHTEN
 
@@ -536,7 +536,7 @@ Geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van
 
 1. Dit Verdrag kan op voorstel van een Partij met instemming van alle Partijen te allen tijde worden gewijzigd.
 
-2. Wijzigingen worden van kracht in overeenstemming met de voorwaarden van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=46&z=2007-10-18&g=2007-10-18).
+2. Wijzigingen worden van kracht in overeenstemming met de voorwaarden van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=46&z=2012-06-01&g=2012-06-01).
 
 ##### Artikel 41. Opzegging
 
@@ -546,7 +546,7 @@ Geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van
 
 ##### Artikel 42. Toetreding
 
-1. Elke EU-lidstaat met een politiemacht met militaire status kan de CIMIN verzoeken om toetreding tot dit Verdrag. Na in overeenstemming met [artikel 7, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=III&artikel=7&z=2007-10-18&g=2007-10-18), de goedkeuring van de Partijen te hebben ontvangen, stelt de CIMIN de verzoekende Staat in kennis van de beslissing van de Partijen.
+1. Elke EU-lidstaat met een politiemacht met militaire status kan de CIMIN verzoeken om toetreding tot dit Verdrag. Na in overeenstemming met [artikel 7, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=III&artikel=7&z=2012-06-01&g=2012-06-01), de goedkeuring van de Partijen te hebben ontvangen, stelt de CIMIN de verzoekende Staat in kennis van de beslissing van de Partijen.
 
 2. Toetreding geschiedt door de nederlegging van een akte van toetreding bij de depositaris van het Verdrag, die elke Partij en de toetredende Staat in kennis stelt van de datum van nederlegging ervan.
 
