@@ -4,7 +4,7 @@ identifier: "BWBV0005699"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-06-01"
-last_updated: "2012-03-28"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005699"
 soort: "verdrag"
@@ -60,7 +60,7 @@ In this Agreement:
 
 - d). „staff member” means any person appointed or recruited for employment with the Organization in the Netherlands to carry out its official activities and subject to IOM staff regulations and rules, except those who are locally recruited and remunerated on an hourly basis;
 
-- e). „members of the family forming part of a Staff member’s household” has the meaning specified in [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=11&z=2012-03-28&g=2012-03-28) of this Agreement;
+- e). „members of the family forming part of a Staff member’s household” has the meaning specified in [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=11&z=2012-06-01&g=2012-06-01) of this Agreement;
 
 - f). „Office of the Organization” means the Office of the International Organization for Migration in the Netherlands;
 
@@ -234,7 +234,7 @@ The following persons shall be considered members of the family forming part of 
 
 2. Persons mentioned in paragraph 1 who obtain gainful employment shall enjoy no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment. However, any measures of execution shall be taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.
 
-3. In case of the insolvency of a person aged under 18 with respect to a claim arising out of gainful employment of that person, the immunity of the staff member of the Organization of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=15&z=2012-03-28&g=2012-03-28) of this Agreement.
+3. In case of the insolvency of a person aged under 18 with respect to a claim arising out of gainful employment of that person, the immunity of the staff member of the Organization of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=15&z=2012-06-01&g=2012-06-01) of this Agreement.
 
 4. The employment referred to in paragraph 1 shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
@@ -302,7 +302,7 @@ The Organization shall submit to an international arbitration tribunal any dispu
 
 1. This Agreement shall enter into force on the day after both Parties have notified each other in writing that the legal requirements for entry into force have been complied with, and its provisions shall have effect on that same day.
 
-2. Notwithstanding the provisions of Paragraph 1 of this Article, the fiscal privileges as mentioned in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=8&z=2012-03-28&g=2012-03-28), [Article 10, paragraph 1, under d](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=10&z=2012-03-28&g=2012-03-28) and Article 10, paragraph 5, under c, shall have effect on the first day of January in the calendar year in which the Agreement has entered into force.
+2. Notwithstanding the provisions of Paragraph 1 of this Article, the fiscal privileges as mentioned in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=8&z=2012-06-01&g=2012-06-01), [Article 10, paragraph 1, under d](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=10&z=2012-06-01&g=2012-06-01) and Article 10, paragraph 5, under c, shall have effect on the first day of January in the calendar year in which the Agreement has entered into force.
 
 3. Upon its entry into force, this Agreement shall supersede the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002918) concluded on 1 May 1990 between the Kingdom of the Netherlands and the Organization.
 
