@@ -4,7 +4,7 @@ identifier: "BWBV0003999"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-06-01"
-last_updated: "2009-11-16"
+last_updated: "2012-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003999"
 soort: "verdrag"
@@ -126,9 +126,9 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
 
-- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003999&artikel=5&z=2009-11-16&g=2009-11-16);
+- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003999&artikel=5&z=2012-06-01&g=2012-06-01);
 
-- d. iedere kennisgeving ontvangen ter uitvoering van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003999&artikel=3&z=2009-11-16&g=2009-11-16);
+- d. iedere kennisgeving ontvangen ter uitvoering van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003999&artikel=3&z=2012-06-01&g=2012-06-01);
 
 - e. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
 
