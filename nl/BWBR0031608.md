@@ -4,7 +4,7 @@ identifier: "BWBR0031608"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2013-05-17"
-last_updated: "2012-01-31"
+last_updated: "2012-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031608"
 soort: "beleidsregel"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het proces van organieke matching dat voorafgaat aan de overgang naar een LFNP functie geschiedt op de wijze die is beschreven in de Instructie organieke matching die als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=1&z=2012-06-02&g=2012-01-31) met de daarbij behorende 5 bijlagen bij deze beleidsregel is gevoegd.
+Het proces van organieke matching dat voorafgaat aan de overgang naar een LFNP functie geschiedt op de wijze die is beschreven in de Instructie organieke matching die als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=1&z=2012-06-02&g=2012-06-02) met de daarbij behorende 5 bijlagen bij deze beleidsregel is gevoegd.
 
 ##### Artikel 2
 
@@ -124,7 +124,7 @@ Het matchingsteam stelt vast of er in het cluster van functiebeschrijvingen spra
 
 **Zo ja:**
 
-Vervolg het proces van matching vanaf stap 9 Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-01-31): functievergelijkingsformulier).
+Vervolg het proces van matching vanaf stap 9 Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-06-02): functievergelijkingsformulier).
 
 Resultaat:
 
@@ -140,19 +140,19 @@ Het matchingsteam deelt het cluster van functiebeschrijvingen in, in één van d
 
 **Basis materiaal:**
 
-Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-01-31): functie-vergelijkingsformulier)
+Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-06-02): functie-vergelijkingsformulier)
 
 Resultaat:
 
 Een indeling van een cluster van functiebeschrijvingen in een LFNP domein.
 
-Het matchingsteam deelt het cluster van functiebeschrijvingen in, aan de hand van de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=3&z=2012-06-02&g=2012-01-31), in een vakgebied. Als extra ondersteuning wordt hiertoe ook ‘kern’ van de functiebeschrijving vergeleken met de resultaatgebieden van de LFNP vakgebieden.
+Het matchingsteam deelt het cluster van functiebeschrijvingen in, aan de hand van de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=3&z=2012-06-02&g=2012-06-02), in een vakgebied. Als extra ondersteuning wordt hiertoe ook ‘kern’ van de functiebeschrijving vergeleken met de resultaatgebieden van de LFNP vakgebieden.
 
 **Hulpvragen:**
 
 **Basis materiaal:**
 
-Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-01-31): functievergelijkingsformulier).
+Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-06-02): functievergelijkingsformulier).
 
 Resultaat:
 
@@ -168,7 +168,7 @@ Maakt de functie onderdeel uit van een functiereeks?
 
 **Basis materiaal:**
 
-Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-01-31): functievergelijkingsformulier)
+Uitkomst per functie vastleggen en motiveren op functievergelijkingsformulier ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=5&z=2012-06-02&g=2012-06-02): functievergelijkingsformulier)
 
 Resultaat:
 
