@@ -4,7 +4,7 @@ identifier: "BWBR0031213"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2012-01-01"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031213"
 soort: "pbo"
@@ -78,7 +78,7 @@ BESLUIT:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=2&artikel=2&z=2012-01-01&g=2012-01-01) doet de ondernemer bij het productschap aangifte van de door hem verhandelde gekweekte bloemkwekerijproducten en van de door hem geïmporteerde bloemkwekerijproducten in 2012.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=2&artikel=2&z=2012-06-03&g=2012-06-03) doet de ondernemer bij het productschap aangifte van de door hem verhandelde gekweekte bloemkwekerijproducten en van de door hem geïmporteerde bloemkwekerijproducten in 2012.
 
 2. De opgave bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier of via elektronische aangifte, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -107,7 +107,7 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 | b. | teeltmateriaal |   |   |
 | c. | hydrocultuur |   |   |
 
-4. Voor de teelt van bloemzaden wordt bij de berekening en oplegging van de heffing als basis het areaal genomen. Het tarief voor bloemzaden is € 0,34 / are.
+4. Voor de teelt van bloemzaden wordt bij de berekening en oplegging van de heffing als basis het areaal genomen. Het tarief voor bloemzaden is € 0,24 / are.
 
 5. Het tarief voor teeltmateriaal geldt alleen voor die ondernemer, die aantoont dat hij bij een gecertificeerde keuringsinstelling binnen de EU is geregistreerd en teeltmateriaal onder toezicht van die keuringsinstelling heeft verhandeld. Voor Nederland is dit de NAK-Tuinbouw. Indien niet door een gecertificeerde instelling is gekeurd, geldt het tarief voor siergewassen.
 
@@ -125,9 +125,9 @@ Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de ge
 
 ##### Artikel 8
 
-1. Indien een ondernemer aantoont dat zijn omzet geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling is geschied en dat over deze omzet reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=3&artikel=5&z=2012-01-01&g=2012-01-01).
+1. Indien een ondernemer aantoont dat zijn omzet geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling is geschied en dat over deze omzet reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=3&artikel=5&z=2012-06-03&g=2012-06-03).
 
-2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=3&artikel=5&z=2012-01-01&g=2012-01-01) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
+2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031213&paragraaf=3&artikel=5&z=2012-06-03&g=2012-06-03) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
 
 ##### Artikel 9
 
