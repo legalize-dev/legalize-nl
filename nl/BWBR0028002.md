@@ -4,7 +4,7 @@ identifier: "BWBR0028002"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2010-06-20"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028002"
 soort: "pbo"
@@ -47,11 +47,11 @@ entry_into_force: "2010-06-20"
 
 2. De heffing als bedoeld in het eerste lid, bedraagt voor:
 
-| a. | amaryllis, hyacint, lelie, narcis en tulp: | € 0,68 per 1000 stuks leverbaar; |
+| a. | amaryllis, hyacint, lelie, narcis en tulp: | € 0,34 per 1000 stuks leverbaar; |
 | --- | --- | --- |
-| b. | gladiool en overige bloembollen: | € 0,15 per 1000 stuks leverbaar; |
-| c. | plantgoed van iris, lelie en tulp: | € 13,61 per 1000 kg; en |
-| d. | narcis-tonnegoed: | € 6,80 per 1000 kg. |
+| b. | gladiool en overige bloembollen: | € 0,08 per 1000 stuks leverbaar; |
+| c. | plantgoed van iris, lelie en tulp: | € 6,81 per 1000 kg; en |
+| d. | narcis-tonnegoed: | € 3,40 per 1000 kg. |
 
 #### § 4. Oplegging en inning
 
@@ -89,7 +89,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028002&paragraaf=2&artikel=2&z=2010-06-20&g=2010-06-20) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028002&paragraaf=2&artikel=2&z=2012-06-03&g=2012-06-03) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
 
 2. De opgave als bedoeld in het vorige lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
