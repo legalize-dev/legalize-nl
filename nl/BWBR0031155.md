@@ -4,7 +4,7 @@ identifier: "BWBR0031155"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2012-01-01"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031155"
 soort: "pbo"
@@ -75,7 +75,7 @@ BESLUIT:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=2&artikel=2&z=2012-01-01&g=2012-01-01) doet de ondernemer bij het productschap aangifte van de door hem aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=2&artikel=2&z=2012-06-03&g=2012-06-03) doet de ondernemer bij het productschap aangifte van de door hem aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
 
 2. De opgave, als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier of via elektronische aangifte, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -95,10 +95,10 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 
 2. De heffing bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt:
 
-| vanaf € 0 | tot € 11.000.000 | 0,28% |
+| vanaf € 0 | tot € 11.000.000 | 0,196% |
 | --- | --- | --- |
-| vanaf € 11.000.000 | tot € 50.000.000 | 0,19% |
-|   | vanaf € 50.000.000 | 0,10%. |
+| vanaf € 11.000.000 | tot € 50.000.000 | 0,133% |
+| vanaf € 50.000.000 |   | 0,070%. |
 
 3. Voor de berekening van de heffing in het tweede lid worden aankopen voor doorteelt binnen eigen bedrijf op de aankoopwaarde in mindering gebracht.
 
@@ -124,9 +124,9 @@ Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de ge
 
 ##### Artikel 8
 
-1. Indien een ondernemer aantoont dat hij aangekochte bloemkwekerijproducten geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling heeft verhandeld en dat over deze transactie reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=3&artikel=5&z=2012-01-01&g=2012-01-01).
+1. Indien een ondernemer aantoont dat hij aangekochte bloemkwekerijproducten geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling heeft verhandeld en dat over deze transactie reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=3&artikel=5&z=2012-06-03&g=2012-06-03).
 
-2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=3&artikel=5&z=2012-01-01&g=2012-01-01) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
+2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031155&paragraaf=3&artikel=5&z=2012-06-03&g=2012-06-03) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
 
 ##### Artikel 9
 
