@@ -4,7 +4,7 @@ identifier: "BWBR0029923"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2011-01-01"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029923"
 soort: "pbo"
@@ -73,13 +73,13 @@ In deze verordening en de daarop berustende bepalingen wordt verslaan onder:
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de behaalde omzet in het kalenderjaar waarop de heffing betrekking heeft. De heffing is samengesteld uit de in het tweede lid genoemde basisheffing, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de in het derde lid genoemde heffingspercentages over de in het derde lid genoemde omzetbedragen.
 
-2. Bij een omzet hoger dan € 32.500,- is een basisheffing verschuldigd ter hoogte van €135,-.
+2. Bij een omzet hoger dan € 32.500,- is een basisheffing verschuldigd ter hoogte van € 94,50.
 
-- a. Over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- is een heffing verschuldigd van 0,031 procent.
+- a. Over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- is een heffing verschuldigd van 0,022%.
 
-- b. Over de omzet hoger dan € 2.250.000,- maar niet hoger dan € 4.500.000.- is een heffing verschuldigd van 0,02 procent.
+- b. Over de omzet hoger dan € 2.250.000,- maar niet hoger dan € 4.500.000.- is een heffing verschuldigd van 0,014%.
 
-- c. Over de omzet hoger dan € 4.500.000,- is een heffing verschuldigd van 0,01 procent.
+- c. Over de omzet hoger dan € 4.500.000,- is een heffing verschuldigd van 0,007%.
 
 4. Indien sprake is van onderaanneming bij een ondernemer, kan de hovenier, die in onderaanneming werk uitvoert, de omzet die hij als onderaannemer heeft gerealiseerd buiten zijn omzet, als genoemd in het eerste tot en met het derde lid, laten.
 
