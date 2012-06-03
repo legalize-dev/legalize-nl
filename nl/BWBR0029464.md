@@ -4,7 +4,7 @@ identifier: "BWBR0029464"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2011-01-01"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029464"
 soort: "pbo"
@@ -58,7 +58,7 @@ Besluit:
 | afzetorganisatie/bemiddelaar | : de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld; |
-| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016460&artikel=3); |
@@ -184,7 +184,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
+1. Voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -210,15 +210,15 @@ Besluit:
 
 3. Indien groenten en fruit van buiten de Europese Unie zijn aangekocht wordt voor “aankoopwaarde handel” gebruik gemaakt van de CIF-waarde.
 
-4. Voor de ondernemer die handelt in groenten en fruit of die groenten en fruit bewerkt, bedraagt de heffing 0,02% van de “aankoopwaarde handel”.
+4. Voor de ondernemer die handelt in groenten en fruit of die groenten en fruit bewerkt, bedraagt de heffing 0,014% van de “aankoopwaarde handel”.
 
-5. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing wordt uitgedrukt in euro per kg uien en bedraagt € 1,65 per 100.000 kg.
+5. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing wordt uitgedrukt in euro per kg uien en bedraagt € 1,15 per 100.000 kg.
 
 6. Het eerste en tweede lid van dit artikel zijn van overeenkomstige toepassing op de afzetorganisatie/bemiddelaar die producten voor eigen rekening en risico verhandelt.
 
 ##### Artikel 6
 
-1. Aan de ondernemer die groenten en fruit verduurzaamt wordt de heffing opgelegd naar de grondslag omzet “af fabriek”. Voor de ondernemer die groenten en fruit verduurzaamt, bedraagt de heffing 0,025% van de omzet “af fabriek”.
+1. Aan de ondernemer die groenten en fruit verduurzaamt wordt de heffing opgelegd naar de grondslag omzet “af fabriek”. Voor de ondernemer die groenten en fruit verduurzaamt, bedraagt de heffing 0,018% van de omzet “af fabriek”.
 
 2. Uitgezonderd van de heffing zijn: pindakaas, sauzen, natte en droge soepen, aroma’s, limonades, salades, kindervoedsel, kant en klaarmaaltijden en vruchten- en groentensappen.
 
@@ -232,7 +232,7 @@ Besluit:
 
 ##### Artikel 8
 
-Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekt gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=4&artikel=7&z=2011-01-01&g=2011-01-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekt gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=4&artikel=7&z=2012-06-03&g=2012-06-03), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
