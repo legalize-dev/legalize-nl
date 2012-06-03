@@ -4,7 +4,7 @@ identifier: "BWBR0031161"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2012-01-01"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031161"
 soort: "pbo"
@@ -56,7 +56,7 @@ Deze verordening verstaat onder:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-01-01&g=2012-01-01) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | producten als bedoeld in [artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
 | ondernemer | : | de afzonderlijke natuurlijke- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
@@ -82,103 +82,98 @@ Deze verordening verstaat onder:
 
 | **Productgroep** | **BRSnr.** | **Tarief** | **Eenh.** |
 | --- | --- | --- | --- |
-|   |   |   |   |
 | **Glasgroenten** |   |   |   |
-| Andijvie | 648 | 6,28 | are |
-| Aubergines | 618 | 19,26 | are |
-| Courgette | 642 | 6,28 | are |
-| Komkommers | 605 | 11,26 | are |
-| Paprika - Gele paprika | 633 | 11,26 | are |
-| Paprika - Groene paprika | 632 | 11,26 | are |
-| Paprika - Rode paprika | 631 | 11,26 | are |
-| Paprika - Overige paprika | 634 | 11,26 | are |
-| Kropsla (alle sla in kropvorm) | 658 | 6,28 | are |
-| Radijs | 644 | 6,28 | are |
-| Tomaten - Losse tomaten (rond, vlees, tussentype) | 608 | 11,26 | are |
-| Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 11,26 | are |
-| Tomaten - Cherry-tomaten | 606 | 11,26 | are |
-| Overige groenten (inclusief meloenen) | 621 | 6,28 | are |
+| Andijvie | 648 | 4,40 | are |
+| Aubergines | 618 | 15,88 | are |
+| Courgette | 642 | 4,40 | are |
+| Komkommers | 605 | 7,88 | are |
+| Paprika - Gele paprika | 633 | 7,88 | are |
+| Paprika - Groene paprika | 632 | 7,88 | are |
+| Paprika - Rode paprika | 631 | 7,88 | are |
+| Paprika - Overige paprika | 634 | 7,88 | are |
+| Kropsla (alle sla in kropvorm) | 658 | 4,40 | are |
+| Radijs | 644 | 4,40 | are |
+| Tomaten - Losse tomaten (rond, vlees, tussentype) | 608 | 7,88 | are |
+| Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 7,88 | are |
+| Tomaten - Cherry-tomaten | 606 | 7,88 | are |
+| Overige groenten (inclusief meloenen) | 621 | 4,40 | are |
 |   |   |   |   |
 | **Teelt in open grond** |   |   |   |
-| Aardbeien onder glas | 610 | 7,93 | are |
-| Aardbeien plastic tunnel | 611 | 7,93 | are |
-| Aardbeien productie | 433 | 85,99 | ha |
-| Aardbeien vermeerdering | 431 | 47,61 | ha |
-| Aardbeien wachtbed | 432 | 23,80 | ha |
-| Andijvie | 434 | 62,68 | ha |
-| Asperges | 435 | 67,34 | ha |
-| Asperges (nog geen prod.) | 436 | 67,34 | ha |
-| Bloemkool | 437 | 21,78 | ha |
-| Boerenkool | 438 | 34,33 | ha |
-| Bospeen | 439 | 14,01 | ha |
-| Broccoli | 440 | 18,42 | ha |
-| Chinese kool | 441 | 62,68 | ha |
-| Erwten (groen te oogsten) | 244 | 11,95 | ha |
-| Knolselderij | 442 | 11,95 | ha |
-| Knolvenkel/venkel | 443 | 62,68 | ha |
-| Komkommerachtigen (augurk, meloen, pompoen) | 444 | 34,33 | ha |
-| Komkommerachtigen (courgette) | 474 | 62,68 | ha |
-| Koolraap | 445 | 34,33 | ha |
-| Koolrabi | 446 | 34,33 | ha |
-| Kroten | 447 | 11,95 | ha |
-| Kruiden (blad-, zaad- en wortelkruiden) | 496 | 34,33 | ha |
-| Paksoi | 453 | 34,33 | ha |
-| Peulen | 454 | 34,33 | ha |
-| Prei | 455 | 41,19 | ha |
-| Pronkbonen | 456 | 11,95 | ha |
-| Raapstelen | 457 | 34,33 | ha |
-| Rabarber | 458 | 62,68 | ha |
-| Radijs | 459 | 34,33 | ha |
-| Rodekool | 460 | 30,94 | ha |
-| Savooiekool | 461 | 30,94 | ha |
-| Schorseneren | 462 | 11,95 | ha |
-| Selderij, bleek | 464 | 62,68 | ha |
-| Selderij, groen | 463 | 34,33 | ha |
-| Sla (Ijsbergsla) | 451 | 35,63 | ha |
-| Sla (kropsla en overige sla) | 452 | 35,63 | ha |
-| Sla (radicchio rosso) | 475 | 62,68 | ha |
-| Spinazie | 465 | 11,95 | ha |
-| Spitskool | 466 | 30,94 | ha |
-| Spruitkool | 467 | 35,63 | ha |
-| Stamsperziebonen (=stamslabonen) | 468 | 11,95 | ha |
-| Stoksnijbonen en stokslabonen | 469 | 11,95 | ha |
-| Suikermaïs | 814 | 22,97 | ha |
-| Tuinbonen (groen te oogsten) | 854 | 11,95 | ha |
-| Waspeen | 470 | 14,01 | ha |
-| Winterpeen | 471 | 14,01 | ha |
-| Witlof in bakken | 585 | 1,00 | m2 |
-| Witlofwortel | 472 | 19,37 | ha |
-| Wittekool | 473 | 30,94 | ha |
-| Overige niet genoemde bladgewassen | 485 | 34,33 | ha |
-| Overige niet genoemde groenten | 486 | 34,33 | ha |
+| Aardbeien onder glas | 610 | 5,55 | are |
+| Aardbeien plastic tunnel | 611 | 5,55 | are |
+| Aardbeien productie | 433 | 60,19 | ha |
+| Aardbeien vermeerdering | 431 | 33,33 | ha |
+| Aardbeien wachtbed | 432 | 16,66 | ha |
+| Andijvie | 434 | 43,88 | ha |
+| Asperges | 435 | 47,14 | ha |
+| Asperges (nog geen prod.) | 436 | 47,14 | ha |
+| Bloemkool | 437 | 15,25 | ha |
+| Boerenkool | 438 | 24,03 | ha |
+| Bospeen | 439 | 9,81 | ha |
+| Broccoli | 440 | 12,89 | ha |
+| Chinese kool | 441 | 43,88 | ha |
+| Erwten (groen te oogsten) | 244 | 8,37 | ha |
+| Knolselderij | 442 | 8,37 | ha |
+| Knolvenkel/venkel | 443 | 43,88 | ha |
+| Komkommerachtigen (augurk, meloen, pompoen) | 444 | 24,03 | ha |
+| Courgette | 474 | 43,88 | ha |
+| Koolraap | 445 | 24,03 | ha |
+| Koolrabi | 446 | 24,03 | ha |
+| Kroten | 447 | 8,37 | ha |
+| Kruiden (blad-, zaad- en wortelkruiden) | 496 | 24,03 | ha |
+| Paksoi | 453 | 24,03 | ha |
+| Peulen | 454 | 24,03 | ha |
+| Prei | 455 | 28,83 | ha |
+| Pronkbonen | 456 | 8,37 | ha |
+| Raapstelen | 457 | 24,03 | ha |
+| Rabarber | 458 | 43,88 | ha |
+| Radijs | 459 | 24,03 | ha |
+| Rodekool | 460 | 21,66 | ha |
+| Savooiekool | 461 | 21,66 | ha |
+| Schorseneren | 462 | 8,37 | ha |
+| Selderij, bleek | 464 | 43,88 | ha |
+| Selderij, groen | 463 | 24,03 | ha |
+| Sla (IJsbergsla) | 451 | 24,94 | ha |
+| Sla (radicchio rosso) | 475 | 43,88 | ha |
+| Sla (kropsla en overige sla) | 452 | 24,94 | ha |
+| Spinazie | 465 | 8,37 | ha |
+| Spitskool | 466 | 21,66 | ha |
+| Spruitkool | 467 | 24,94 | ha |
+| Stamsperziebonen (=stamslabonen) | 468 | 8,37 | ha |
+| Stoksnijbonen en stokslabonen | 469 | 8,37 | ha |
+| Suikermaïs | 814 | 16,08 | ha |
+| Tuinbonen (groen te oogsten) | 854 | 8,37 | ha |
+| Waspeen | 470 | 9,81 | ha |
+| Winterpeen | 471 | 9,81 | ha |
+| Witlof in bakken | 585 | 0,70 | ha |
+| Witlofwortel | 472 | 13,56 | ha |
+| Wittekool | 473 | 21,66 | ha |
+| Overige niet genoemde bladgewassen | 485 | 24,03 | ha |
+| Overige niet genoemde groenten | 486 | 24,03 | ha |
 |   |   |   |   |
 | **Fruit** |   |   |   |
-| Notenbomen (amandelen, hazel- en walnoten) | 2645 | 37,16 | ha |
-| Appelen in seizoen | 490 | 71,00 | ha |
-| Appelen vóór seizoen | 491 | 71,00 | ha |
-| Blauwe bessen | 494 | 154,54 | ha |
-| Bramen | 502 | 313,48 | ha |
-| Frambozen | 488 | 313,48 | ha |
-| Fruit onder glas | 635 | 7,66 | are |
-| Peren in seizoen | 492 | 106,01 | ha |
-| Peren vóór seizoen | 493 | 106,01 | ha |
-| Pruimen | 495 | 166,37 | ha |
-| Rode bessen | 489 | 313,48 | ha |
-| Zure kersen (Best.Verw.Ind.) | 498 | 37,16 | ha |
-| Zoete kersen | 487 | 166,37 | ha |
-| Zwarte bessen (Best.Verw.Ind.) | 499 | 37,16 | ha |
-| Overig kleinfruit | 500 | 313,48 | ha |
-| Overige pit- en steenvrucht | 501 | 166,37 | ha |
-|   |   |   |   |
-| **Champignons** |   |   |   |
-| Oppervlakte met de hand geoogst | 702 | 0,93 | m2 |
-| Oppervlakte machinaal geoogst | 703 | 0,93 | m2 |
+| Notenbomen (amandelen, hazel- en walnoten) | 2645 | 26,01 | ha |
+| Appelen in seizoen | 490 | 49,70 | ha |
+| Appelen vóór seizoen | 491 | 49,70 | ha |
+| Blauwe bessen | 494 | 108,18 | ha |
+| Bramen | 502 | 219,44 | ha |
+| Frambozen | 488 | 219,44 | ha |
+| Fruit onder glas | 635 | 5,36 | are |
+| Peren in seizoen | 492 | 74,21 | ha |
+| Peren vóór seizoen | 493 | 74,21 | ha |
+| Pruimen | 495 | 116,46 | ha |
+| Rode bessen | 489 | 219,44 | ha |
+| Zure kersen (Best.Verw.Ind.) | 498 | 26,01 | ha |
+| Zoete kersen | 487 | 116,46 | ha |
+| Zwarte bessen (Best.Verw.Ind.) | 499 | 26,01 | ha |
+| Overig kleinfruit | 500 | 219,44 | ha |
+| Overige pit- en steenvrucht | 501 | 116,46 | ha |
 
 3. Aan de ondernemer die uitgangsmateriaal teelt wordt een heffing opgelegd uitgedrukt in een percentage van de omzet. De heffing bedraagt 0,068% van de omzet in 2012 van het geteelde uitgangsmateriaal.
 
 ##### Artikel 4
 
-1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-01-01&g=2012-01-01), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
+1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -200,7 +195,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2012-01-01&g=2012-01-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2012-06-03&g=2012-06-03), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 7
 
