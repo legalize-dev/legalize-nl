@@ -4,7 +4,7 @@ identifier: "BWBR0029773"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2011-03-20"
+last_updated: "2012-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029773"
 soort: "pbo"
@@ -75,12 +75,12 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ##### Artikel 3
 
-1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 60, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
+1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 42, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
 
-| a. | van € 0 tot en met € 900.000 | : 0,52%; |
+| a. | van € 0 tot en met € 900.000 | : 0,364%; |
 | --- | --- | --- |
-| b. | vanaf € 900.000 tot en met € 1.800.000 | : 0,40%; |
-| c. | vanaf € 1.800.000 | : 0,24%. |
+| b. | vanaf € 900.000 tot en met € 1.800.000 | : 0,280%; |
+| c. | vanaf € 1.800.000 | : 0,168%. |
 
 2. Een negatieve heffingsgrondslag leidt tot een nota gelijk aan € 0,-.
 
@@ -88,7 +88,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 4. Een heffing lager dan € 125,- wordt niet opgelegd.
 
-5. De over 2011 maximaal te betalen heffing bedraagt € 13.120,-. Dit bedrag wordt jaarlijks aangepast aan de hand van de jaarmutatie voorafgaand aan het jaar waarover de heffing wordt opgelegd.
+5. De over 2011 maximaal te betalen heffing bedraagt € 9.184. Dit bedrag wordt jaarlijks aangepast aan de hand van de jaarmutatie voorafgaand aan het jaar waarover de heffing wordt opgelegd.
 
 #### § 4. Oplegging en inning
 
@@ -100,7 +100,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ##### Artikel 5
 
-Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing aanbod bloemkwekerijproducten 2011 of de Verordening PT vakheffing handel bloemkwekerijproducten 2011, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=2&artikel=2&z=2011-03-20&g=2011-03-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=3&artikel=3&z=2011-03-20&g=2011-03-20) verschuldigde heffing.
+Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing aanbod bloemkwekerijproducten 2011 of de Verordening PT vakheffing handel bloemkwekerijproducten 2011, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=2&artikel=2&z=2012-06-03&g=2012-06-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03) verschuldigde heffing.
 
 ##### Artikel 6
 
