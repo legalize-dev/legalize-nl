@@ -4,7 +4,7 @@ identifier: "BWBR0016700"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2004-05-19"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016700"
 soort: "AMvB"
@@ -54,25 +54,35 @@ In dit besluit wordt verstaan onder:
 
 - b. NEN-EN 301160: norm inzake het routeren van oproepen naar de Europese telefoonnummeringsruimte, uitgegeven door het Nederlands Normalisatie-Instituut;
 
-- c. niet-geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan of uit een nationaal nummerplan van een andere lidstaat van de Europese Unie, anders dan een nummer waarvan een deel van de cijferstructuur een geografische betekenis heeft en dat krachtens zijn bestemming gebruikt mag worden voor het routeren van gesprekken naar de fysieke locatie van het netwerkaansluitpunt.
+- c. niet-geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan of uit een nationaal nummerplan van een andere lidstaat van de Europese Unie, anders dan een nummer waarvan een deel van de cijferstructuur een geografische betekenis heeft en dat krachtens zijn bestemming gebruikt mag worden voor het routeren van gesprekken naar de fysieke locatie van het netwerkaansluitpunt;
+
+- d. geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan of uit een nationaal nummerplan van een andere lidstaat van de Europese Unie waarvan een deel van de cijferstructuur een geografische betekenis heeft en dat krachtens zijn bestemming gebruikt mag worden voor het routeren van gesprekken naar de fysieke locatie van het netwerkaansluitpunt;
+
+- e. Universal International Freephone Numbers: een door de ITU geregistreerd uniek nummer dat wereldwijd bestemd is om gratis gebeld te worden.
 
 ##### Artikel 2
 
-Als categorie van openbare elektronische communicatiediensten als bedoeld in [artikel 6.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.3) wordt aangewezen openbare telefoondiensten.
+Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen in Nederland.
 
 ##### Artikel 3
 
-1. Een aanbieder van openbare telefoonnetwerken of openbare telefoondiensten behandelt, voor zover deze verplichting niet reeds voortvloeit uit [artikel 6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.3) juncto [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=2&z=2004-05-19&g=2004-05-19), oproepen van zijn eindgebruikers naar eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte, op zodanige wijze dat de oproepen die ruimte bereiken.
+1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, behandelt oproepen van zijn eindgebruikers naar eindgebruikers die binnen de Europese Unie gebruik maken van:
+
+- a. nummers die behoren tot de Europese telefoonnummeringsruimte, en
+
+- b. Universal International Freephone Numbers,
+
+op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 2. Het college maakt jaarlijks op genoegzame wijze bekend welke hem bekende openbare telefoonnetwerken binnen de Europese Unie een serving netwerk betreffen als bedoeld in NEN-EN 301160.
 
 ##### Artikel 4
 
-1. Een aanbieder van openbare telefoonnetwerken of openbare telefoondiensten neemt, voor zover dit niet reeds voortvloeit uit [artikel 6.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.3) juncto [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=2&z=2004-05-19&g=2004-05-19), alle maatregelen die ertoe bijdragen dat:
+1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:
 
-- a. een zich in Nederland bevindende abonnee die gebruik maakt van een door het college toegekend niet-geografisch nummer op dat nummer kan worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers, en
+- a. een zich in Nederland bevindende abonnee die gebruik maakt van een door het college toegekend nummer op dat nummer kan worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers, en
 
-- b. een zich in een andere lidstaat van de Europese Unie bevindende abonnee die gebruik maakt van een niet-geografisch nummer, toegekend door een nationale regelgevende instantie, op dat nummer kan worden opgeroepen door zich in Nederland bevindende eindgebruikers.
+- b. een zich in een andere lidstaat van de Europese Unie bevindende abonnee die gebruik maakt van een nummer, toegekend door een nationale regelgevende instantie, op dat nummer kan worden opgeroepen door zich in Nederland bevindende eindgebruikers.
 
 2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op aanbieders van andere openbare elektronische communicatiediensten dan de openbare telefoondienst die abonnees die gebruik maken van een door het college toegekend niet-geografisch nummer de mogelijkheid bieden om binnenkomende oproepen te ontvangen en aanbieders van openbare elektronische communicatienetwerken wier medewerking noodzakelijk is om die dienst aan te bieden.
 
@@ -89,5 +99,11 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet impleme
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit interoperabiliteit.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+Een aanbieder van openbare telefoondiensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
