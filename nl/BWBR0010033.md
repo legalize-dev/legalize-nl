@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2010-08-21"
+last_updated: "2012-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -44,17 +44,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), met uitzondering van de onderdelen f en j, zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, belast de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.
+1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, Landbouw en Innovatie, belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken, Landbouw en Innovatie.
 
-2. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder f en j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie, Telecom en Markten.
+2. Met het toezicht op de naleving van [artikel 15.1, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), zijn tevens belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie, Telecom en Mededinging.
 
-3. Met het toezicht op de naleving van bepalingen, bedoeld in [artikel 15.1, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.9), zijn tevens belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie, Telecom en Markten.
+3. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn voorts belast de ambtenaren van politie, bedoeld in [3, eerste lid, onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), van:
 
-4. De in het eerste tot en met het derde lid aangewezen ambtenaren zijn belast met het toezicht op de naleving, bedoeld in [artikel 15.1, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voorzover het betreft [artikel 18.7, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7).
-
-5. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1) zijn voorts belast de ambtenaren, bedoeld in [artikel 3, eerste lid, onder a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), van:
-
-- a. de dienst Waterpolitie van het Korps landelijke politiediensten; en
+- a. de dienst Waterpolitie van het Korps Landelijke politiediensten, en
 
 - b. dienst zeehavenpolitie van het regionale politiekorps Rotterdam-Rijnmond.
 
