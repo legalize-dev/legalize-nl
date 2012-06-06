@@ -4,7 +4,7 @@ identifier: "BWBR0029866"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2018-01-01"
-last_updated: "2011-04-15"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029866"
 soort: "beleidsregel"
@@ -106,7 +106,7 @@ Indien de Minister of een namens de Minister gemandateerde functionaris constate
 
 ##### Artikel 7. Beslissing op de aanvraag
 
-De Minister, of een namens de Minister gemandateerde functionaris beslist op de ingediende aanvraag en stuurt het besluit tot aanwijzing als identiek of vergelijkbaar diploma zo spoedig mogelijk na het voltooien van het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=4&z=2011-04-15&g=2011-04-15) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=5&z=2011-04-15&g=2011-04-15) toe aan de aanvrager.
+De Minister, of een namens de Minister gemandateerde functionaris beslist op de ingediende aanvraag en stuurt het besluit tot aanwijzing als identiek of vergelijkbaar diploma zo spoedig mogelijk na het voltooien van het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=4&z=2011-04-15&g=2012-06-06) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=5&z=2011-04-15&g=2012-06-06) toe aan de aanvrager.
 
 ### Hoofdstuk 3. Slotbepalingen
 
