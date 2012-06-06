@@ -4,7 +4,7 @@ identifier: "BWBR0012950"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2010-07-24"
+last_updated: "2012-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012950"
 soort: "wet"
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Permanent overlegorgaan goederenvervoer.
+De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4).
 
 ##### Artikel 4
 
@@ -122,7 +122,7 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 
 ##### Artikel 14
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2010-07-24&g=2010-07-24), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2010-07-24&g=2010-07-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2010-07-24&g=2010-07-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2010-07-24&g=2010-07-24) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2010-07-24&g=2010-07-24), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2012-06-06&g=2012-06-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2012-06-06&g=2012-06-06), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2012-06-06&g=2012-06-06), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2012-06-06&g=2012-06-06) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2012-06-06&g=2012-06-06), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 2. Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.
 
