@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-04-01"
+last_updated: "2012-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Besluit:
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.3 |   | 01-03 t/m 01-12 | 2.700.000 |
 |   |   |   |   |   |   |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) |
-| 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 12-01 t/m 31-01 | 5.000.000 |
+| 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 12-01 t/m 31-01 14-06 t/m 3-07 | 5.000.000 4.384.000 |
 | 2.2 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 30.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 65.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Duurzame technische ontwikkelingsprojecten | – | – |
