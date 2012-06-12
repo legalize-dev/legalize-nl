@@ -4,7 +4,7 @@ identifier: "BWBR0010269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-07"
-last_updated: "2007-07-06"
+last_updated: "2012-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010269"
 soort: "ministeriele-regeling"
@@ -37,41 +37,21 @@ entry_into_force: "2007-02-22"
 
 Handelende in overeenstemming met de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2007-07-06&g=2007-07-06), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
+Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2012-06-12&g=2012-06-12), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
 
 Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
+In deze regeling wordt verstaan onder **verordening (EG) 733/2008**: Verordening (EG) nr. 733/2008 van de Raad van 15 juli 2008 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEU 2008, L 201).
 
 ##### Artikel 2
 
-Het gehalte van de navolgende componenten polychloorbifenylen (verder te noemen: PCB’s) overschrijdt niet de hieronder vastgestelde maximale gehaltes aan PCB’s in de aldaar genoemde eet- en drinkwaren:
-
-| **componenten** |   | **aanduiding** |
-| --- | --- | --- |
-| 2,4-4 | trichloorbifenyl | 28 |
-| 2,5-2’5’ | tetrachloorbifenyl | 52 |
-| 2,4,5-2’5’ | pentachloorbifenyl | 101 |
-| 2,4,5-3’4’ | pentachloorbifenyl | 118 |
-| 2,3,4-2’4’5’ | hexachloorbifenyl | 138 |
-| 2,4,5-2’4’5’ | hexachloorbifenyl | 153 |
-| 2,3,4,5-2’4’5’ | heptachloorbifenyl | 180 |
-
-| **Eet- en drinkwaren** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** | **Maximale gehalten aan PCB-componenten in mg/kg** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|   | **28** | **52** | **101** | **118** | **138** | **153** | **180** |
-| vislever a)Op productbasis. | 1,50 | 0,60 | 1,20 | 1,20 | 1,50 | 1,50 | 2,0 |
-| aal en paling | 0,50 | 0,20 | 0,40 | 0,40 | 0,50 | 0,50 | 0,60 |
-| overige vissoorten | 0,10 | 0,04 | 0,08 | 0,08 | 0,10 | 0,10 | 0,12 |
-| melk en uit melk bereide produkten b)Op vetbasis, echter indien het product een vetgehalte heeft van 2% of minder worden de gehalten aan PCB-componenten betrokken op het product. De maximaal toegestane gehalten bedragen 1/50 van de aan het vet gerelateerde waarden. | 0,05 | 0,02 | 0,04 | 0,04 | 0,05 | 0,05 | 0,06 |
-| eieren en eiprodukten c)Op vetbasis, echter indien het product een vetgehalte heeft van 5% of minder worden de gehalten aan PCB-componenten betrokken op het product. De maximaal toegestane gehalten bedragen 1/20 van de aan het vet gerelateerde waarden. | 0,05 | 0,02 | 0,04 | 0,04 | 0,05 | 0,05 | 0,06 |
-| vlees en vleeswaren, afkomstig van runderen, varkens, schapen, paarden, geiten en pluimvee d)Op vetbasis, echter indien het product een vetgehalte heeft van 10% of minder wordt het gehalte aan PCB-componenten betrokken op het product.De maximaal toegestane gehalten bedragen dan 1/10 van de aan het vet gerelateerde waarden. | 0,05 | 0,02 | 0,04 | 0,04 | 0,05 | 0,05 | 0,06 |
+Vervallen
 
 ##### Artikel 3
 
-De gezamenlijke maximale radioactiviteit van cesium 134 en 137 in eet- en drinkwaren is niet hoger dan toegelaten bij [verordening (EEG) 737/90](31990R0737).
+De gezamenlijke maximale radioactiviteit van cesium 134 en 137 in eet- en drinkwaren is niet hoger dan toegelaten bij artikel 2, tweede lid, van verordening (EG) 733/2008.
 
 ##### Artikel 5
 
@@ -98,11 +78,7 @@ Het gehalte aan nitraat-ion van de hieronder opgenomen groenten die al dan niet 
 
 ##### Artikel 8
 
-In afwijking van de bijlage I, punt 1.1, van verordening (EG) 1881/2006, bedraagt het nitraatgehalte van in Nederland geproduceerde, niet voor uitvoer bestemde spinazie ten hoogste:
-
-- a. 4500 mg/kg, voor spinazie die geoogst is in de periode van 1 oktober tot en met 31 maart;
-
-- b. 3500 mg/kg, voor spinazie die geoogst is in de periode van 1 april tot en met 30 september.
+Vervallen
 
 ##### Artikel 9
 
@@ -122,7 +98,7 @@ Vervallen
 
 ##### Artikel 13
 
-Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-07-06&g=2007-07-06), dat in werking treedt met ingang van 30 december 2000.
+Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2012-06-12&g=2012-06-12), dat in werking treedt met ingang van 30 december 2000.
 
 ##### Artikel 14
 
