@@ -4,7 +4,7 @@ identifier: "BWBR0031641"
 country: "nl"
 rank: "wet"
 publication_date: "2017-06-27"
-last_updated: "2012-01-20"
+last_updated: "2012-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031641"
 soort: "wet"
@@ -66,9 +66,9 @@ Wijzigt de Bankwet.
 
 ##### Artikel VI
 
-1. Deze wet, met uitzondering van de [artikelen I, onderdeel IJ](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=I&z=2012-06-13&g=2012-01-20), en [II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=II&z=2012-06-13&g=2012-01-20), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt terug tot en met 20 januari 2012.
+1. Deze wet, met uitzondering van de [artikelen I, onderdeel IJ](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=I&z=2012-06-13&g=2012-06-13), en [II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=II&z=2012-06-13&g=2012-06-13), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt terug tot en met 20 januari 2012.
 
-2. De [artikelen I, onderdeel IJ](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=I&z=2012-06-13&g=2012-01-20), en [II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=II&z=2012-06-13&g=2012-01-20), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor die artikelen verschillend kan worden vastgesteld.
+2. De [artikelen I, onderdeel IJ](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=I&z=2012-06-13&g=2012-06-13), en [II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031641&artikel=II&z=2012-06-13&g=2012-06-13), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor die artikelen verschillend kan worden vastgesteld.
 
 ##### Artikel VII
 
