@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-06-08"
+last_updated: "2012-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -69,9 +69,9 @@ Besluit:
 | 2.2 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 30.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 65.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Duurzame technische ontwikkelingsprojecten | – | – |
-| 2.3 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.3 |   | – | – |
+| 2.3 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.3 |   | 13-06 t/m 13-11-12 | 700.000,– |
 | 2.4 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.10 |   | 11-01 t/m 31-12 | 750.000 |
-| 2.5 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.18 |   | – | – |
+| 2.5 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.18 |   | 13-06 t/m 13-09-12 | 17.000.000,– |
 | 2.6 | Subsidieregeling innoveren (innovatievouchers) | 5.2 | Aantal beschikbare grote vouchers | – | – |
 | 2.7 | Subsidieregeling innoveren (innovatievouchers) | 5.3 | Aantal beschikbare kleine vouchers | – | – |
 | 2.8 | Subsidieregeling innoveren (innovatievouchers) | 5.7 |   | – | – |
