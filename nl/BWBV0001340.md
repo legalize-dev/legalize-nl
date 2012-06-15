@@ -4,7 +4,7 @@ identifier: "BWBV0001340"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-11-16"
-last_updated: "2006-04-10"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001340"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Er wordt een onafhankelijke internationale organisatie opgericht met de naam „
 
 1. De Regering van de Republiek Korea verleent het Instituut dezelfde rechten, voorrechten en immuniteiten als die welke gewoonlijk worden toegekend aan soortgelijke internationale organisaties.
 
-2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2006-04-10&g=2006-04-10) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
+2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2012-06-15&g=2012-06-15) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
 
 ##### Artikel III. Depositaris
 
@@ -66,11 +66,11 @@ Dit Verdrag staat op het Hoofdkantoor van de Verenigde Naties te New York open v
 
 ##### Artikel V. Bekrachtiging, aanvaarding en goedkeuring
 
-Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2006-04-10&g=2006-04-10).
+Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2012-06-15&g=2012-06-15).
 
 ##### Artikel VI. Toetreding
 
-Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2006-04-10&g=2006-04-10) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
+Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2012-06-15&g=2012-06-15) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
 
 ##### Artikel VII. Regeling van geschillen
 
@@ -98,7 +98,7 @@ Iedere Partij bij dit Verdrag kan dit Verdrag te allen tijde opzeggen door midde
 
 ##### Artikel X. Beëindiging
 
-Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2006-04-10&g=2006-04-10).
+Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2012-06-15&g=2012-06-15).
 
 ##### Artikel XI. Authentieke tekst
 
@@ -194,7 +194,7 @@ De organen van het Instituut zijn:
 
 ##### Artikel IX. Samenstelling van de Raad
 
-1. De Raad bestaat uit ten minste zeventien en ten hoogste tweeëntwintig leden, die als volgt worden gekozen:
+1. De Raad bestaat uit ten minste negen en ten hoogste tweeëntwintig leden, die als volgt worden gekozen:
 
 - i. ten hoogste tien leden in algemene dienst worden gekozen door de Raad. Hierbij wordt in het bijzonder gekeken naar de beroepservaring en de kwalificaties van de voorgedragen leden, naar een adequate geografische spreiding, naar organisaties en landen die interesse hebben in en wezenlijke steun geven aan het Instituut, of naar het feit dat zich in bepaalde landen belangrijke voorzieningen bevinden;
 
