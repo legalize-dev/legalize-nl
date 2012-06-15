@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2010-10-31"
+last_updated: "2012-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -5901,9 +5901,9 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 1. Het bedrag van de aanvullende financiële middelen is gelijk aan de daling van de exportopbrengsten vermenigvuldigd met het rekenkundig gemiddelde van de verhouding overheidsinkomsten/bruto binnenlands product in de vier aan het toepassingsjaar voorafgaande jaren, waarbij geen rekening wordt gehouden met de meest extreme waarde en het verhoudingscijfer ten hoogste 25% bedraagt.
 
-2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2010-10-31&g=2010-10-31) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
+2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2012-06-15&g=2012-06-15) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
 
-3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2010-10-31&g=2010-10-31) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
+3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2012-06-15&g=2012-06-15) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
 
 ##### Artikel 10. Voorschotten
 
@@ -9553,7 +9553,7 @@ De ontwikkeling en versterking van de nationale, regionale en voor de gehele ACS
 
 2. Middelen voor rentesubsidies, als bedoeld in deze bijlage, worden beschikbaar gesteld uit de toewijzing voor rentesubsidies als bepaald in bijlage I ter, lid 2, onder c), bij deze Overeenkomst.
 
-3. Rentesubsidies kunnen worden gekapitaliseerd of gebruikt in de vorm van niet-terugvorderbare hulp. Het bedrag van de rentesubsidie wordt, na berekening van de waarde op het tijdstip van de overboeking van de lening, afgeboekt op het bedrag van de toewijzing voor rentesubsidies als bepaald in bijlage I ter, artikel 2, onder c), en rechtstreeks overgemaakt aan de Bank. Maximaal 10% van deze toewijzing voor rentesubsidies mag ook worden gebruikt voor de ondersteuning van projectgerelateerde technische bijstand in ACS-landen.
+3. Rentesubsidies kunnen worden gekapitaliseerd of gebruikt in de vorm van niet-terugvorderbare hulp. Het bedrag van de rentesubsidie wordt, na berekening van de waarde op het tijdstip van de overboeking van de lening, afgeboekt op het bedrag van de toewijzing voor rentesubsidies als bepaald in bijlage I ter, punt 2, onder c), en rechtstreeks overgemaakt aan de Bank. Maximaal 15% van deze toewijzing voor rente-subsidies mag ook worden gebruikt voor de ondersteuning van projectgerelateerde technische bijstand in ACS-landen.
 
 4. Deze voorwaarden gelden onverminderd de voorwaarden die kunnen worden opgelegd aan ACS-landen waarvoor beperkende leningsvoorwaarden gelden in het kader van het initiatief voor arme landen met een zware schuldenlast („HIPC”) of een andere internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast. Wanneer dergelijke regelingen een reductie vereisen van het rentetarief voor leningen met meer dan 3%, zoals is toegestaan krachtens de artikelen 2 en 4 van dit hoofdstuk, tracht de Bank de gemiddelde kosten van de middelen door passende medefinanciering met andere donors te verminderen. Indien dit niet mogelijk wordt geacht, kan de rentevoet van de banklening zodanig worden verlaagd dat deze overeenstemt met het niveau in het kader van het HIPC-initiatief of een internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast.
 
@@ -9601,7 +9601,7 @@ De uiteindelijke rentevoet van leningen die onder a) of b) vallen, bedraagt in g
 
 8. De voor deze concessionele doeleinden ter beschikking gestelde middelen zijn afkomstig uit de toewijzing voor rentesubsidies als bepaald in bijlage I ter, lid 2, onder c), bij deze Overeenkomst.
 
-9. Rentesubsidies kunnen worden gekapitaliseerd of gebruikt in de vorm van niet-terugvorderbare hulp. Maximaal 10 % van de begroting voor rentesubsidies mag worden gebruikt voor de ondersteuning van projectgerelateerde technische bijstand in ACS-landen.
+9. Rentesubsidies kunnen worden gekapitaliseerd of gebruikt in de vorm van niet-terugvorderbare hulp. Maximaal 15% van de begroting voor rentesubsidies mag worden gebruikt voor de ondersteuning van projectgerelateerde technische bijstand in ACS-landen.
 
 ##### Artikel 3. Maatregelen van de Investeringsfaciliteit
 
@@ -9695,7 +9695,7 @@ De betrokken ACS-staten verbinden zich ertoe om ten aanzien van maatregelen uit 
 
 2. Het recht op aanvullende financiële middelen is van toepassing wanneer de in lid 1 omschreven daling van de exportopbrengsten ten minste 0,5% van het bbp bedraagt. Het recht op aanvullende financiële middelen is beperkt tot drie opeenvolgende jaren.
 
-3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2010-10-31&g=2010-10-31), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
+3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2012-06-15&g=2012-06-15), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
 
 ##### Artikel 10. Voorschotten
 
