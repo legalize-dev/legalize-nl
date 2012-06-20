@@ -4,7 +4,7 @@ identifier: "BWBR0031680"
 country: "nl"
 rank: "wet"
 publication_date: "2015-02-07"
-last_updated: "2011-10-06"
+last_updated: "2012-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031680"
 soort: "wet"
@@ -76,14 +76,16 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel Va
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel 1:102, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:102) beslist de Autoriteit Financiële Markten binnen twaalf maanden na ontvangst op een aanvraag van een vergunning voor het in Nederland aanbieden van beleggingsobjecten als bedoeld in [artikel 1:1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), voor zover die aanvraag is ingediend door een natuurlijke persoon, rechtspersoon of vennootschap die voor 1 januari 2012 beleggingsobjecten heeft aangeboden voor een nominaal bedrag van ten minste € 50 000 en minder dan € 100 000. Bij ministeriële regeling kan die termijn twee maal worden verlengd met een periode van ten hoogste zes maanden.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-06-20&g=2012-06-20), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
+
+2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-06-20&g=2012-06-20) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) werken, voor financiële ondernemingen waaraan na 6 oktober 2011 steun wordt verleend, terug tot en met 6 oktober 2011.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
