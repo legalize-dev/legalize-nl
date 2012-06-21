@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-06-15"
+last_updated: "2012-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -160,6 +160,7 @@ Besluit:
 |   | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Demonstratieprojecten vergistingketen | – | – |
 | 5.14 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   | 15-06 t/m 02-07 | 4.000.000 |
 | 5.15 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   | 09-07 t/m 01-10 | 6.350.000 |
+| 5.16 | Subsidieregeling energie en innovatie (fotovoltaïsche zonnepanelen) | 3.11.2 |   | 02-07 9:00 t/m 28-12 | 21.550.000 |
 |   |   |   |   |   |   |
 | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) |
 | 6.1 | Subsidieregeling internationaal ondernemen 2012 | 2 | Aantal beschikbare internationaliseringsvouchers | 01-04 t/m 31-12 | 500 |
