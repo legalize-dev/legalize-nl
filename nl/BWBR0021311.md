@@ -4,7 +4,7 @@ identifier: "BWBR0021311"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-20"
-last_updated: "2007-02-25"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021311"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor de toepassing van het in deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 3
 
-De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021311&artikel=2&z=2007-02-25&g=2007-02-25) genoemde verboden.
+De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021311&artikel=2&z=2012-06-22&g=2012-06-22) genoemde verboden.
 
 ##### Artikel 4
 
@@ -78,7 +78,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ## Bijlage
 
-- a. Yahya El Mamy Sakho, alias Abu Hanan, alias Yahya, geboren op 1 juli 1974 te Nouakchott (Mauritanië), paspoortnummer M0198035
+- a. Vervallen
 
 - b. Murat Öfkeli, alias Abu Jarrah, geboren op 28 juni 1970 te Gaziantep (Turkije), paspoortnummer NF 9064256
 
