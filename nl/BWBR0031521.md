@@ -4,7 +4,7 @@ identifier: "BWBR0031521"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-06-22"
-last_updated: "2012-05-08"
+last_updated: "2012-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031521"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Het is verboden te handelen in strijd met de volgende artikelen van verordening 
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 4
 
@@ -100,7 +100,7 @@ Het [Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Dit besluit treedt in werking met ingang van 8 mei 2012.
 
-2. In afwijking van het eerste lid treedt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031521&artikel=3&z=2012-05-08&g=2012-05-08) in werking met ingang van acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt.
+2. In afwijking van het eerste lid treedt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031521&artikel=3&z=2012-06-22&g=2012-06-22) in werking met ingang van acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt.
 
 ##### Artikel 7
 
