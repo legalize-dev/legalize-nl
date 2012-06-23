@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [32, eerste lid, onder 8°, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
 
