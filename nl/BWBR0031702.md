@@ -303,31 +303,3 @@ kunst (beeldende vormgeving/dans/drama/muziek/algemeen) havo
 De syllabi voor de centrale examens v.m.b.o. 2013 die bij Regeling syllabi centrale examens VO 2013 zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
 
 natuur- en scheikunde II vmbo
-
-## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 3. bij de Regeling syllabi centrale examens vo 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 1b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 1c. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 2a. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
-
-## Bijlage 3. bij de Regeling syllabi centrale examens vo 2014, van 17 april 2012, nummer Cve-12.0736
-
-Vervallen
