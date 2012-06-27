@@ -4,7 +4,7 @@ identifier: "BWBV0004975"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-06-27"
-last_updated: "1993-04-28"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004975"
 soort: "verdrag"
@@ -202,7 +202,11 @@ Afdeling 2. **Raad van Bestuur**
 
 Afdeling 3. **Stemrecht**
 
-- (a). Ieder lid heeft twee honderd en vijftig stemmen, plus één extra stem voor ieder aandeel in het kapitaal in zijn bezit.
+- (a). Het stemgewicht van elk lid is gelijk aan de som van zijn basisstemmen en de stemmen gerelateerd aan zijn aandelenbezit.
+
+- i. De basisstemmen van elk lid zijn gelijk aan het aantal stemmen dat voortvloeit uit de gelijke verdeling onder alle leden van 5,55 procent van het totale aantal stemmen van alle leden, met dien verstande dat basisstemmen niet deelbaar zijn.
+
+- ii. Het aantal stemmen gerelateerd aan het aandelenbezit van ieder lid is het aantal stemmen dat voortvloeit uit de toewijzing van een stem per kapitaalaandeel.
 
 - (b). Voorzover niet uitdrukkelijk anders is bepaald, wordt ten aanzien van alle bij de Maatschappij aanhangige kwesties bij eenvoudige meerderheid van de uitgebrachte stemmen beslist.
 
