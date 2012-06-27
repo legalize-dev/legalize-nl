@@ -4,7 +4,7 @@ identifier: "BWBV0005585"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-06-27"
-last_updated: "1989-02-16"
+last_updated: "2012-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005585"
 soort: "verdrag"
@@ -264,7 +264,11 @@ De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een Presiden
 
 - h. De Raad van Bestuur stelt de aan de bewindvoerders te betalen beloning en het salaris en de voorwaarden van het arbeidscontract van de President vast.
 
-- a. Ieder lid heeft tweehonderdvijftig stemmen plus één extra stem voor ieder aandeel in het kapitaal in zijn bezit.
+- a. Het aantal stemmen van elk lid is gelijk aan de som van zijn basisstemmen en de stemmen gerelateerd aan zijn aandelenbezit.
+
+- (i). De basisstemmen van elk lid zijn het aantal stemmen dat voortvloeit uit de gelijke verdeling onder alle leden van 5,55 procent van het totale aantal stemmen van alle leden, met dien verstande dat er geen gedeelde basisstemmen zijn.
+
+- (ii). het aantal stemmen gerelateerd aan het aandelenbezit van elk lid is het aantal stemmen dat voortvloeit uit de toewijzing van een stem per kapitaalaandeel.
 
 - b. Tenzij uitdrukkelijk anders voorzien, worden alle besluiten van de Bank genomen bij meerderheid van het aantal uitgebrachte stemmen.
 
