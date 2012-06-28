@@ -4,7 +4,7 @@ identifier: "BWBR0025793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-01-01"
+last_updated: "2012-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025793"
 soort: "ministeriele-regeling"
@@ -44,7 +44,9 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van de Raad voor cultuur ontvangt een vaste vergoeding. De salarisschaal van de voorzitter wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt vastgesteld op 0,66.
+1. De voorzitter van de Raad voor cultuur ontvangt een vaste vergoeding. De salarisschaal van de voorzitter wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt vastgesteld op 0,5.
+
+2. In afwijking van het eerste lid wordt voor de periode van 1 april 2012 tot en met 31 december 2012 de arbeidsduurfactor vastgesteld op 0,7.
 
 ##### Artikel 2
 
