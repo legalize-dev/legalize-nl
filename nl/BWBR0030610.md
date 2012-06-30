@@ -227,33 +227,3 @@ Deze regeling treedt in werking met ingang van 30 juni 2012.
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische goederen 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 9, eerste lid, van verordening 428/2009, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 16 van de toepassingsverordening Communautair douanewetboek (EORI-nummer).
-
-#### § 4. Melding
-
-#### § 5. Voorschriften
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
-
-#### § 2. Aanvraag vergunning
-
-#### § 3. Vrijstelling vergunningplicht
-
-#### § 3a. Voorwaarden
-
-#### § 5. Voorschriften
-
-#### § 6. Erkenning
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
