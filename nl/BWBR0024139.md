@@ -4,7 +4,7 @@ identifier: "BWBR0024139"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-05"
-last_updated: "2009-08-27"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024139"
 soort: "AMvB"
@@ -52,11 +52,43 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet**: de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746);
+- –. **algemene overdrachtsvergunning:** een bij ministeriële regeling verleende toestemming aan in Nederland gevestigde beschikkingsbevoegden voor de overdracht van militaire goederen aan in een andere lidstaat gevestigde ontvanger;
 
-- b. **Onze Minister**: Onze Minister van Economische Zaken;
+- –. **algemene uitvoervergunning:** een bij ministeriële regeling verleende toestemming aan in Nederland gevestigde beschikkingsbevoegden voor de uitvoer van militaire goederen uit Nederland naar een derde land;
 
-- c. **verordening 428/2009:** de verordening (EG) nr. 428/2009 van de Raad van de Europese Unie van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU L 134).
+- –. **beschikkingsbevoegde:** een natuurlijke persoon of rechtspersoon die bevoegd is over militaire goederen te beschikken;
+
+- –. **derde land:** een land niet zijnde een lidstaat;
+
+- –. **doorvoer door Nederland:** het vervoer van militaire goederen die uitsluitend het Nederlands grondgebied worden binnengebracht om via dat gebied te worden vervoerd naar een bestemming buiten het Nederlands grondgebied;
+
+- –. **globale overdrachtsvergunning:** een op aanvraag aan een beschikkingsbevoegde verleende vergunning voor de overdracht van militaire goederen aan ontvangers of categorieën van ontvangers in één of meer andere lidstaten;
+
+- –. **globale uitvoervergunning:** een op aanvraag aan een beschikkingsbevoegde verleende vergunning voor de uitvoer van militaire goederen aan ontvangers of categorieën van ontvangers in één of meer derde landen;
+
+- –. **individuele overdrachtsvergunning:** een op aanvraag aan een beschikkingsbevoegde verleende vergunning voor de overdracht van militaire goederen aan een individuele ontvanger in een andere lidstaat;
+
+- –. **individuele uitvoervergunning:** een op aanvraag aan een beschikkingsbevoegde verleende vergunning voor de uitvoer van militaire goederen aan een individuele ontvanger in een derde land;
+
+- –. **invoer in Nederland:** het binnenbrengen van militaire goederen in Nederlands grondgebied, anders dan voor doorvoer door Nederland;
+
+- –. **lidstaat:** een lidstaat van de Europese Unie, Noorwegen, IJsland en Liechtenstein;
+
+- –. **militaire goederen:** de militaire goederen, bedoeld in een door Onze Minister na overleg met Onze Minister wie het mede aangaat vast te stellen ministeriële regeling;
+
+- –. **Nederlands grondgebied:** het grondgebied van het Koninkrijk der Nederlanden in Europa;
+
+- –. **Onze Minister:** Onze Minister van Economische Zaken, Landbouw en Innovatie;
+
+- –. **overdracht uit Nederland:** elke overbrenging of verplaatsing van een militair goed van het Nederlands grondgebied naar een bestemming in een andere lidstaat;
+
+- –. **uitvoer uit Nederland:** het doen verlaten van goederen van Nederlands grondgebied naar een derde land, anders dan voor doorvoer door Nederland;
+
+- –. **richtlijn 2009/43/EG:** richtlijn 2009/43/EG van het Europees Parlement en de Raad van de Europese Unie van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU 2009, L 146);
+
+- –. **verordening 428/2009:** verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);
+
+- –. **wet:** de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746).
 
 #### § 2. Goederen voor tweeërlei gebruik
 
@@ -78,93 +110,81 @@ Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid 
 
 ##### Artikel 5
 
-In deze paragraaf wordt verstaan onder:
+1. Het is verboden om militaire goederen door te voeren door Nederland zonder vergunning.
 
-- a. **militaire goederen**: de militaire goederen, bedoeld in een door Onze Minister na overleg met Onze Minister wie het mede aangaat vast te stellen ministeriële regeling;
+2. Het eerste lid is niet van toepassing op:
 
-- b. **Nederlands grondgebied**: het grondgebied van het Koninkrijk der Nederlanden in Europa;
+- a. de doorvoer door Nederland van militaire goederen die uitsluitend worden vervoerd door de territoriale wateren of door het luchtruim;
 
-- c. **invoer in Nederland**: het binnenbrengen van goederen in Nederlands grondgebied, anders dan voor doorvoer;
+- b. de doorvoer door Nederland van militaire goederen die afkomstig zijn uit, of als eindbestemming hebben Australië, Japan, Nieuw-Zeeland, Zwitserland of een van de lidstaten van de Europese Unie of de Noord-Atlantische verdragsorganisatie.
 
-- d. **uitvoer uit Nederland**: het doen verlaten van goederen van Nederlands grondgebied, anders dan voor doorvoer;
+3. Onze Minister kan besluiten dat voor de doorvoer door Nederland van militaire goederen in situaties als bedoeld in het tweede lid een vergunning is vereist:
 
-- e. **doorvoer door Nederland**: het vervoer van goederen die uitsluitend het Nederlands grondgebied worden binnengebracht om via dat gebied te worden vervoerd naar een bestemming buiten het Nederlands grondgebied.
-
-##### Artikel 6
-
-1. Het is verboden om militaire goederen uit te voeren uit Nederland of door te voeren door Nederland zonder vergunning.
-
-2. Het eerste lid is niet van toepassing:
-
-- a. op de uitvoer uit Nederland van militaire goederen, bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3);
-
-- b. op de uitvoer uit Nederland van militaire goederen naar België en Luxemburg;
-
-- c. op de doorvoer door Nederland van militaire goederen die uitsluitend worden vervoerd door de territoriale wateren of door het luchtruim;
-
-- d. op de doorvoer door Nederland van militaire goederen die afkomstig zijn uit, of als eindbestemming hebben Australië, Japan, Nieuw-Zeeland, Zwitserland of een van de lidstaten van de Europese Unie of de Noord-Atlantische verdragsorganisatie.
-
-3. Onze Minister kan besluiten dat voor de uitvoer uit Nederland of doorvoer door Nederland van militaire goederen in situaties als bedoeld in het tweede lid een vergunning is vereist:
-
-- a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist, of
+- a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist of
 
 - b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenlijke belangen van de nationale veiligheid.
 
-4. In andere gevallen dan die, bedoeld in het tweede lid, kan bij ministeriële regeling van Onze Minister vrijstelling worden verleend van het eerste lid.
+##### Artikel 6
 
-5. Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30).
 
-6. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften aan worden verbonden.
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30).
 
-7. Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb.1993, 162) in te voeren in Nederland uit landen, die niet partij zijn bij dit verdrag.
+3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
 ##### Artikel 7
 
-1. Indien er op basis van dit besluit geen vergunning is vereist voor de uitvoer uit Nederland of de doorvoer door Nederland van militaire goederen, vindt een melding plaats bij een bij ministeriële regeling aan te wijzen dienst.
+1. Onze Minister verleent een vergunning als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30).
 
-2. Ten aanzien van de melding, bedoeld in het eerste lid, worden bij ministeriële regeling van Onze Minister regels gesteld over:
+2. Onze Minister kan een vergunning als bedoeld in het eerste lid onder beperkingen verlenen en kan aan een vergunning voorschriften en voorwaarden verbinden.
 
-- a. de wijze waarop en door wie een melding moet worden gedaan,
+3. Bij ministeriële regeling worden regels gesteld over:
 
-- b. het tijdstip van de melding, en
+- a. de wijze waarop en door wie een vergunning wordt aangevraagd;
 
-- c. de inhoud van de melding.
-
-3. Bij ministeriële regeling kan vrijstelling worden verleend van het eerste lid.
-
-4. Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.
-
-5. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften aan worden verbonden.
+- b. de aard van de vergunning.
 
 #### § 4. Vergunningverlening
 
 ##### Artikel 8
 
-1. De vergunning, bedoeld in artikel 9, tweede lid, van verordening 428/2009 en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2009-08-27&g=2009-08-27), wordt verleend door Onze Minister.
+Onze Minister kan een vergunning als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30), in ieder geval intrekken, indien:
 
-2. Onze Minister kan aan de vergunning, bedoeld in artikel 9, tweede lid, van verordening 428/2009 en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2009-08-27&g=2009-08-27), voorschriften en voorwaarden verbinden.
+- a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens of
 
-3. Ten aanzien van de vergunningverlening worden bij ministeriële regeling van Onze Minister nadere regels gesteld over:
-
-- a. de wijze waarop en door wie een vergunning wordt aangevraagd,
-
-- b. de aard van de vergunning, en
-
-- c. de voorschriften en voorwaarden die aan de vergunning verbonden kunnen worden.
+- b. de voorschriften en voorwaarden van de vergunning niet in acht zijn genomen.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 9
 
-Vergunningen en ontheffingen die verleend zijn op grond van het [In- en uitvoerbesluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0002408) worden geacht te zijn verleend op grond van dit besluit.
+Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de Bijlage inzake stoffen bij het op 3 september 1992 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 2006, 26) in te voeren in Nederland uit landen, die geen partij zijn bij dit verdrag.
 
 ##### Artikel 10
 
-Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
+1. Indien geen vergunning is vereist voor de doorvoer van militaire goederen, vindt een melding plaats.
+
+2. Bij ministeriële regeling worden regels gesteld over:
+
+- a. bij wie, de wijze waarop en door wie een melding wordt gedaan;
+
+- b. het tijdstip van een melding;
+
+- c. de inhoud van een melding.
+
+3. Bij ministeriële regeling kan vrijstelling worden verleend van het eerste lid.
+
+4. Een vrijstelling kan onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+5. Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.
+
+6. Een ontheffing kan onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
 ##### Artikel 11
 
-Dit besluit wordt aangehaald als: Besluit strategische goederen.
+1. Het is verboden om militaire goederen uit te voeren uit Nederland zonder individuele, globale of algemene uitvoervergunning.
+
+2. Het eerste lid is niet van toepassing op de uitvoer uit Nederland van militaire goederen als bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -174,12 +194,246 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Onze Minister kan de doorvoer van niet-communautaire goederen voor tweeërlei gebruik, die op de lijst van bijlage I van verordening 428/2009 staan, verbieden indien deze goederen een militaire bestemming hebben als bedoeld in artikel 4, tweede lid, van verordening 428/2009.
 
-3. Onze Minister kan besluiten dat een vergunning is vereist voor de overbrenging van producten voor tweeërlei gebruik vanuit Nederland naar een andere lidstaat indien op het tijdstip van de overbrenging voldaan wordt aan de eisen, bedoeld in artikel 22, tweede lid, van verordening 428/2009.
+3. Onze Minister kan besluiten dat een vergunning is vereist voor de overbrenging van producten voor tweeërlei gebruik vanuit Nederland naar een andere lidstaat van de Europese Unie indien op het tijdstip van de overbrenging voldaan wordt aan de eisen, bedoeld in artikel 22, tweede lid, van verordening 428/2009.
 
 #### § 3. Militaire goederen
 
 #### § 4. Vergunningverlening
 
 #### § 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4b
+
+1. Onze Minister verleent een vergunning als bedoeld in artikel 9, tweede lid, van verordening 428/2009.
+
+2. Onze Minister kan een vergunning als bedoeld in het eerste lid onder beperkingen verlenen en kan aan een vergunning voorschriften en voorwaarden verbinden.
+
+3. Bij ministeriële regeling worden regels gesteld over:
+
+- a. de wijze waarop en door wie een vergunning wordt aangevraagd;
+
+- b. de aard van de vergunning.
+
+##### Artikel 4c
+
+Onze Minister kan een door hem afgegeven vergunning als bedoeld in artikel 9, tweede lid, van verordening 428/2009, in ieder geval intrekken indien:
+
+- a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens of
+
+- b. de voorschriften en voorwaarden van de vergunning niet in acht zijn genomen.
+
+#### § 3. Invoer en doorvoer van militaire goederen
+
+#### § 4. Uitvoer van militaire goederen
+
+##### Artikel 12
+
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2012-06-30&g=2012-06-30).
+
+2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2012-06-30&g=2012-06-30).
+
+3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+##### Artikel 13
+
+1. Een algemene uitvoervergunning wordt bij ministeriële regeling vastgesteld.
+
+2. Een algemene uitvoervergunning kan onder beperkingen worden vastgesteld en er kunnen voorschriften en voorwaarden aan verbonden worden.
+
+3. Onze Minister kan een beschikkingsbevoegde uitsluiten van het gebruik van een algemene uitvoervergunning ter bescherming van wezenlijke veiligheidsbelangen, openbare orde of openbare veiligheid.
+
+##### Artikel 14
+
+1. Onze Minister verleent op aanvraag een individuele uitvoervergunning of een globale uitvoervergunning.
+
+2. Onze Minister kan een vergunning als bedoeld in het eerste lid onder beperkingen verlenen en kan aan een vergunning voorschriften en voorwaarden verbinden.
+
+3. Bij ministeriële regeling worden regels gesteld over de wijze waarop en door wie een vergunning wordt aangevraagd.
+
+##### Artikel 15
+
+Onze Minister kan een individuele uitvoervergunning of een globale uitvoervergunning in ieder geval intrekken indien:
+
+- a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens of
+
+- b. de voorschriften en voorwaarden van de vergunning niet in acht zijn genomen.
+
+##### Artikel 16
+
+1. Indien geen individuele, globale of algemene uitvoervergunning is vereist voor de uitvoer van militaire goederen, vindt een melding plaats, tenzij het uitvoer uit Nederland betreft van militaire goederen, bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3).
+
+2. Bij ministeriële regeling worden regels gesteld over:
+
+- a. de wijze waarop en door wie een melding wordt gedaan;
+
+- b. het tijdstip van een melding;
+
+- c. de inhoud van een melding.
+
+3. Bij ministeriële regeling kan vrijstelling worden verleend van het eerste lid.
+
+4. Vrijstellingen of ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+##### Artikel 17
+
+1. Voorafgaand aan het eerste gebruik van een algemene uitvoervergunning vinden gelijktijdig een verzoek tot registratie en een melding plaats.
+
+2. Bij ministeriële regeling worden regels gesteld over:
+
+- a. de wijze waarop en door wie een verzoek tot registratie en een melding moet worden gedaan;
+
+- b. het tijdstip van een verzoek tot registratie of een melding;
+
+- c. de inhoud van een verzoek tot registratie of een melding;
+
+- d. de registratievoorwaarden.
+
+#### § 5. Overdracht van militaire goederen
+
+##### Artikel 18
+
+1. Het is verboden om militaire goederen over te dragen uit Nederland zonder overdrachtsvergunning.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. de overdracht uit Nederland van militaire goederen, bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3);
+
+- b. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
+
+3. Onze Minister kan besluiten dat voor de overdracht van militaire goederen in situaties als bedoeld in het tweede lid, onder b, een vergunning is vereist:
+
+- a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist;
+
+- b. indien dit noodzakelijk is voor de bescherming van de wezenlijke belangen van de nationale veiligheid.
+
+##### Artikel 19
+
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2012-06-30&g=2012-06-30).
+
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2012-06-30&g=2012-06-30).
+
+3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+##### Artikel 20
+
+1. Een algemene overdrachtsvergunning wordt bij ministeriële regeling vastgesteld.
+
+2. Een algemene overdrachtsvergunning kan onder beperkingen worden vastgesteld en er kunnen voorschriften en voorwaarden aan verbonden worden.
+
+3. Onze Minister kan een beschikkingsbevoegde uitsluiten van het gebruik van een algemene overdrachtsvergunning ter bescherming van wezenlijke veiligheidsbelangen, openbare orde of openbare veiligheid.
+
+##### Artikel 21
+
+1. Onze Minister verleent op aanvraag een individuele overdrachtsvergunning of een globale overdrachtsvergunning.
+
+2. Een globale overdrachtsvergunning wordt voor drie jaar verleend en kan worden verlengd.
+
+3. Onze Minister kan een vergunning als bedoeld in het eerste lid onder beperkingen verlenen en aan een vergunning voorschriften en voorwaarden verbinden.
+
+4. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop en door wie een vergunning wordt aangevraagd.
+
+##### Artikel 22
+
+1. Een individuele overdrachtsvergunning kan in ieder geval worden geweigerd indien:
+
+- a. de aanvraag voor een overdrachtsvergunning niet beperkt is tot één overdracht;
+
+- b. gebruik kan worden gemaakt van een algemene overdrachtsvergunning of een globale overdrachtsvergunning.
+
+2. Een globale overdrachtsvergunning kan in ieder geval worden geweigerd:
+
+- a. ter bescherming van wezenlijke veiligheidsbelangen of om redenen van openbare orde;
+
+- b. in verband met internationale verplichtingen en verbintenissen met andere lidstaten;
+
+- c. indien gegronde redenen bestaan om aan te nemen dat de beschikkingsbevoegde niet zal kunnen voldoen aan alle voorwaarden die nodig zijn om een globale overdrachtsvergunning te kunnen verkrijgen.
+
+##### Artikel 23
+
+Onze Minister kan een individuele of globale overdrachtsvergunning in ieder geval intrekken indien:
+
+- a. de vergunning werd verstrekt op grond van onjuiste of onvolledige gegevens of
+
+- b. de voorschriften en voorwaarden van de vergunning niet in acht zijn genomen.
+
+##### Artikel 24
+
+1. Indien geen vergunning is vereist voor de overdracht van militaire goederen, vindt een melding plaats, tenzij het overdracht uit Nederland betreft van militaire goederen, bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3).
+
+2. Bij ministeriële regeling worden regels gesteld over:
+
+- a. aan wie, de wijze waarop en door wie een melding wordt gedaan;
+
+- b. het tijdstip van de melding;
+
+- c. de inhoud van de melding.
+
+3. Bij ministeriële regeling kan vrijstelling worden verleend van het eerste lid.
+
+4. Een vrijstelling kan onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+5. Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.
+
+6. Een ontheffing kan onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+##### Artikel 25
+
+1. Een beschikkingsbevoegde stelt de ontvanger van militaire goederen in kennis van de beperkingen, voorschriften en voorwaarden van de individuele, globale of algemene overdrachtsvergunning op basis waarvan de overdracht heeft plaats gevonden.
+
+2. Een beschikkingsbevoegde rapporteert na afloop van een bij ministeriële regeling vast te stellen termijn over het gebruik van een individuele, globale of algemene overdrachtsvergunning door middel van een overzicht, waarin bij ministeriële regeling vast te stellen informatie is vermeld.
+
+3. De beschikkingsbevoegde is verplicht de administratie en alle op de overdracht betrekking hebbende documenten bij te houden overeenkomstig [artikel 10 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10).
+
+##### Artikel 26
+
+1. Voorafgaand aan het eerste gebruik van de algemene overdrachtsvergunning vinden gelijktijdig een verzoek tot registratie en een melding plaats.
+
+2. Bij ministeriële regeling worden regels gesteld over:
+
+- a. de wijze waarop en door wie een verzoek tot registratie en een melding moet worden gedaan;
+
+- b. het tijdstip van een verzoek tot registratie en een melding;
+
+- c. de inhoud van een verzoek tot registratie en een melding;
+
+- d. de registratievoorwaarden vóór eerste gebruikmaking van een algemene overdrachtsvergunning
+
+##### Artikel 27
+
+1. Onze Minister kan op verzoek van een ontvanger van militaire goederen, deze ontvanger erkennen als bedoeld in artikel 9, eerste lid, van richtlijn 2009/43/EG.
+
+2. Een erkenning kan onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
+
+3. Bij ministeriële regeling worden regels gesteld met betrekking tot:
+
+- a. de wijze waarop en door wie een erkenning wordt aangevraagd;
+
+- b. de gronden om een erkenning te verlenen.
+
+4. De erkenning geschiedt voor een periode van 5 jaar.
+
+5. Onze Minister beslist binnen 16 weken op een verzoek tot erkenning.
+
+6. Op verzoek van ontvanger of indien een ontvanger niet meer voldoet aan de voorschriften en voorwaarden, bedoeld in het tweede lid, kan Onze Minister de erkenning intrekken.
+
+7. Het besluit tot erkenning, bedoeld in het vijfde lid, en het besluit tot intrekking, bedoeld in het zesde lid, worden gepubliceerd in de Staatscourant.
+
+8. Een certificaat als bedoeld in artikel 9, tweede lid, van richtlijn 2009/43/EG, afgegeven in een andere EU-lidstaat, Noorwegen, IJsland of Liechtenstein, wordt gelijkgesteld met een erkenning als bedoeld in het eerste lid.
+
+#### § 6. Slotbepalingen
+
+##### Artikel 28
+
+Vergunningen en ontheffingen die verleend zijn op grond van het [In- en uitvoerbesluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0002408) worden geacht te zijn verleend op grond van dit besluit.
+
+##### Artikel 29
+
+Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
+
+##### Artikel 30
+
+Dit besluit wordt aangehaald als: Besluit strategische goederen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
