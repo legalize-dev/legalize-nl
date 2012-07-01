@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -1084,24 +1084,34 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 27, eerste lid | 2 |
 |   |   |
 | [Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511) |   |
+| 2a, eerste, tweede, vijfde en achtste lid | 3 |
 | 3, | 2 |
 | 4, eerste en derde lid | 3 |
 | 5, eerste, vierde en vijfde lid | 2 |
+| 5a, | 2 |
+| 5b, tweede, derde en zesde lid | 2 |
 | 6, | 2 |
-| 7, | 2 |
+| 7, eerste tot en met zesde lid | 2 |
+| 7, zevende tot en met tiende lid | 3 |
+| 9a, | 3 |
 | 10, | 2 |
 | 11, | 2 |
-| 12, | 2 |
+| 12, eerste tot en met derde lid | 2 |
+| 12, vierde lid | 3 |
 | 13, | 2 |
 | 14, | 2 |
-| 15, eerste tot en met vierde lid | 2 |
+| 15, eerste tot en met vierde en zevende lid | 2 |
+| 15a, eerste en tweede lid | 2 |
 | 16, eerste, tweede en vierde lid | 2 |
 | 17, | 2 |
-| 18, eerste tot en met derde lid | 2 |
+| 18, | 2 |
+| 18a, | 2 |
 | 19, | 2 |
 | 20, | 2 |
+| 20a, | 2 |
 | 21, | 2 |
 | 22, | 2 |
+| 22a, | 2 |
 | 23, | 2 |
 | 24, | 2 |
 | 25, eerste lid | 2 |
