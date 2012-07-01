@@ -4,7 +4,7 @@ identifier: "BWBR0030610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2012-06-30"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030610"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 - d. militaire voertuigen die worden gebruikt door vreemde strijdkrachten bij gelegenheden als staats- of beleefdheidsbezoeken, vlootschouwen of luchtvaartmanifestaties.
 
-#### § 4. Melding
+#### § 3a. Voorwaarden
 
 ##### Artikel 6
 
@@ -140,7 +140,7 @@ Geen melding is vereist voor:
 
 - a. de doorvoer van militaire goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van Nederland;
 
-- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30);
+- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2012-07-01&g=2012-07-01);
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
@@ -170,7 +170,7 @@ Een vergunning waarvan geen gebruik wordt gemaakt, wordt onder opgave van redene
 
 ##### Artikel 10
 
-De beschikkingsbevoegde rapporteert aan de inspecteur na afloop van half jaar binnen twee maanden over het gebruik van een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning voor militaire goederen door middel van een overzicht waarin de volgende informatie staat:
+De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afloop van elk half kalenderjaar over het gebruik van een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning voor militaire goederen door middel van een overzicht waarin de volgende informatie staat:
 
 - a. een omschrijving van de militaire goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen;
 
@@ -212,7 +212,7 @@ De beschikkingsbevoegde rapporteert aan de inspecteur na afloop van half jaar bi
 
 4. De minister kan verzoeken om nadere informatie ter controle van de in het tweede lid bedoelde eisen.
 
-#### § 7. Slotbepalingen
+#### § 6. Erkenning
 
 ##### Artikel 12
 
@@ -225,5 +225,17 @@ Deze regeling treedt in werking met ingang van 30 juni 2012.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische goederen 2012.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 9, eerste lid, van verordening 428/2009, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 16 van de toepassingsverordening Communautair douanewetboek (EORI-nummer).
+
+#### § 4. Melding
+
+#### § 5. Voorschriften
+
+#### § 7. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
