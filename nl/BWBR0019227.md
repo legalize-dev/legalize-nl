@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2012-01-19"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -40,37 +40,37 @@ Gelet op [artikel 25a, eerste en derde lid, van de Warenwet](https://wetten.over
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 - a. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-- b. het CPE: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten;
+- b. IG-NVWA: de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
-- c. IG-NVWA: de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
-
-- d. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191).
+- c. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191).
 
 ##### Artikel 2
 
-1. De controleurs van het COKZ en het CPE zijn belast met het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels.
+1. De controleurs van het COKZ zijn belast met het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels.
 
-2. Het COKZ en het CPE zorgen ervoor dat het in het eerste lid bedoelde toezicht wordt georganiseerd en uitgeoefend met inachtneming van de artikelen 3, 4 en 6 tot en met 11, van [verordening (EG) 882/2004](32004R0882) inzake officiële controles van levensmiddelen.
+2. Het COKZ zorgt ervoor dat het in het eerste lid bedoelde toezicht wordt georganiseerd en uitgeoefend met inachtneming van de artikelen 3, 4 en 6 tot en met 11, van [verordening (EG) 882/2004](32004R0882) inzake officiële controles van levensmiddelen.
 
 ##### Artikel 3
 
-1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2012-01-19&g=2012-01-19) voor het eerstkomende volle kalenderjaar.
+1. De directeur van het COKZ dient jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2012-07-01&g=2012-07-01) voor het eerstkomende volle kalenderjaar.
 
 2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-NVWA.
 
 ##### Artikel 4
 
-De IG-NVWA is bevoegd aan de directeuren van het COKZ en het CPE algemene of bijzondere aanwijzingen te geven over de uitvoering van de werkzaamheden van het COKZ onderscheidenlijk het CPE.
+De IG-NVWA is bevoegd aan de directeur van het COKZ algemene of bijzondere aanwijzingen te geven over de uitvoering van de werkzaamheden van het COKZ.
 
 ##### Artikel 5
 
-De directeuren van het COKZ en het CPE zenden jaarlijks voor 1 juni een verslag van de werkzaamheden van het COKZ onderscheidenlijk het CPE in het afgelopen jaar aan de IG-NVWA.
+De directeur van het COKZ zendt jaarlijks voor 1 juni een verslag van de werkzaamheden van het COKZ in het afgelopen jaar aan de IG-NVWA.
 
 ##### Artikel 6
 
@@ -78,6 +78,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 ##### Artikel 7
 
-Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ en CPE.
+Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
