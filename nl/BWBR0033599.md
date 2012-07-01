@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -159,7 +159,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet participatiebudget.
 
 ##### Artikel XX. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
