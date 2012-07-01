@@ -4,7 +4,7 @@ identifier: "BWBR0027023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-07-01"
-last_updated: "2010-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027023"
 soort: "ministeriele-regeling"
@@ -122,9 +122,29 @@ Indien in het overleg met de Minister van Financiën over de noodzaak tot afwijk
 
 Een afwijking van de aanwijzingen waarmee de Minister van Financiën kan instemmen, geldt de uitzondering op de ingevolge aanwijzing 11 verplichte toepassing van een de minimisverordening bij als staatsteun te kwalificeren subsidies aan visserij- en primaire landbouwondernemingen. Gelet op het lage steunplafond dat voor aan dergelijke ondernemingen verstrekte subsidies wordt gehanteerd (€ 30 000 respectievelijk € 7 500 in plaats van het algemene plafond van € 200 000), wordt voor dergelijke subsidies, indien de aanvrager van de subsidie dat verzoekt, niet de eis gesteld dat deze met toepassing van de minimisverordeningen worden verleend.
 
+### Hoofdstuk 1a. Beperking duur subsidieregelingen
+
+### Aanwijzing 6a. Vervaldatum subsidieregelingen
+
+### Toelichting:
+
+De aanwijzing inzake de beperking van de duur van een subsidieregeling geldt alleen voor algemene maatregelen van bestuur en ministeriële regelingen die rechtstreeks de basis vormen voor de bevoegdheid van de vakminister een concrete subsidiebeschikking te nemen (eerste lid). Op grond van de reikwijdte van het begrip "subsidie" in aanwijzing 1 (subsidies door of namens een minister waarop ingevolge de [Algemene wet bestuursrecht titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van die wet van toepassing is) vallen o.a. regelingen inzake bekostiging van onderwijs en onderzoek, bekostiging van rechtspersonen die naar publiekrecht zijn ingesteld, en toeslagen, hier niet onder. Verder vallen de algemene regelingen (Kaderwetten en andere regelingen met uitsluitend voorschriften van procedurele aard) hier niet onder. Evenmin vallen hieronder subsidies die niet op een regeling zijn gebaseerd. Onder deze categorieën vallen bijvoorbeeld individuele subsidies die het karakter hebben van bekostiging van een instelling evenals de ingevolge de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) in de begroting vermelde subsidies en incidentele subsidies.
+
+Een subsidieregeling dient voorzien te zijn van een datum waarop de regeling eindigt en deze datum dient te liggen vóór het tijdstip waarop na inwerkingtreding van de regeling vijf jaren zijn verlopen (tweede lid).
+
+Indien de inhoud van een nieuwe regeling in belangrijke mate overeenkomt met de inhoud van een vervallen regeling en er dus in wezen voortzetting van de vervallen regeling plaatsvindt wordt een ontwerp van deze regeling aan de Tweede Kamer overlegd. In dat ontwerp wordt gemotiveerd waarom een nieuwe regeling met in belangrijke mate dezelfde inhoud nodig is (derde lid).
+
+Ook is het mogelijk om een subsidieregeling te verlengen voordat deze vervalt, maar ook dan vindt overlegging van een ontwerp van de wijzigingsregeling aan Tweede Kamer plaats voordat tot vaststelling wordt overgegaan. Ook hier wordt in de toelichting op de regeling gemotiveerd waarom verlenging nodig wordt geacht (vierde lid).
+
+Tot slot is het mogelijk om een subsidieregeling al bij de totstandkoming te voorzien van een langere geldingsduur, met daarbij uiteraard een motivering waarom die langere geldingsduur nodig is. Ook een dergelijke regeling wordt echter niet vastgesteld dan nadat de Kamer de gelegenheid heeft gehad zich hierover uit te spreken (vijfde lid).
+
+Indien vanuit de Kamer niet binnen vier weken wordt gereageerd op het overgelegde voorstel kan de vakminister overgaan tot het uitvoeren van zijn voornemen via het doorlopen van de noodzakelijke procedure voor het tot stand brengen van (een aanpassing van) de regeling.
+
+Indien vanuit de Kamer behoefte bestaat aan overleg over het overgelegde ontwerp van een regeling, zal de vakminister niet overgaan tot het uitvoeren van zijn voornemen via de daarvoor gebruikelijke procedure dan nadat dit overleg heeft plaatsgevonden.
+
 ### Hoofdstuk 2. Voorschriften voor subsidieverstrekking tot € 25 000
 
-### Aanwijzing 7. Direct vaststellen of verlenen gevolgd door ambtshalve vaststelling
+Bij het verstrekken van een subsidie als bedoeld in aanwijzing 7, tweede lid, onder b, wordt aan de subsidie de verplichting voor de subsidieontvanger verbonden om:
 
 ### Toelichting:
 
@@ -134,33 +154,13 @@ Het bedrag van € 25 000 moet worden gerelateerd aan de subsidiebeschikking (de
 
 Een subsidie kan worden verstrekt na afloop van of voorafgaand aan de subsidiabele activiteiten. Indien de subsidie na afloop van de subsidiabele activiteiten worden verstrekt moet rekening gehouden worden met het stimulerend effect van de subsidieregeling. In verband met subsidies waarop EU-regelgeving van toepassing is van belang te vermelden dat op grond van Europese jurisprudentie slechts sprake is van een stimulerend effect indien er vooraf contact is geweest tussen subsidieontvanger en subsidieverlener en er volledige zekerheid bij de subsidieontvanger bestaat dat ze de subsidie daadwerkelijk achteraf zal ontvangen. Dan kan onderdeel a worden toegepast en worden de bewijsstukken van de activiteiten direct met de aanvraag meegestuurd. In dit geval kan ook gevraagd worden om opgave van het totaal van de kosten. Dit kan van belang zijn voor subsidies waarvoor maximaal toegestane EU-steunpercentages gelden die niet overschreden mogen worden.
 
-Ook indien de activiteiten nog niet hebben plaatsgevonden, kan onderdeel a worden toegepast. De toepassing is dan onder meer afhankelijk van een risicoafweging vooraf door de subsidieverstrekker, omdat na de vaststelling geen verantwoording meer mag worden gevraagd. Dit onderdeel kan bijvoorbeeld worden toegepast wanneer het risico laag wordt ingeschat. Controle na de vaststelling is mogelijk en kan in situaties zoals beschreven in [art 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) tot terugvordering leiden.
-
-Bij toepassing van onderdeel b wordt in de subsidiebeschikking vermeld wanneer de gesubsidieerde activiteiten moeten zijn verricht. De subsidie wordt vervolgens, uiterlijk na verloop van een in de beschikking aan te geven termijn na de datum waarop de activiteiten moeten zijn verricht, ambtshalve vastgesteld door de subsidieverstrekker. De subsidieontvanger hoeft dus geen aanvraag voor subsidievaststelling aan de hand van een verantwoording te doen. De ambtshalve vaststelling kan al vóór het verstrijken van de termijn plaatsvinden, bijvoorbeeld als het vanuit een oogpunt van een efficiënte werkwijze wenselijk wordt geacht dat dergelijke vaststellingsbeschikkingen op een vaste datum worden genomen. Voorts zal ook van een eerdere vaststelling sprake kunnen zijn indien na een melding als bedoeld in aanwijzing 8, onder a, wordt vastgesteld of als, indien er niet gemeld is, na een verantwoording als bedoeld in aanwijzing 8, onder b, een vaststelling op nihil plaatsvindt (zie hierna bij aanwijzing 8).
-
-Uiteraard laten deze aanwijzingen onverlet, dat (ingevolge [artikel 4:47 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:47)) een ambtshalve beschikking ook rechtstreeks op een subsidieregeling (dus zonder dat daartoe een aanvraag hoeft te worden gedaan) kan berusten.
-
-In het derde lid is voor alle duidelijkheid expliciet verwoord dat onder omstandigheden ook voor hogere subsidies dan die tot € 25 000 het meest eenvoudige arrangement kan worden toegepast. Het zal daarbij gaan om subsidies waarbij, gelet op de geringe risico’s (bij voorbeeld vanwege de bekendheid van of ervaring met de subsidieontvanger in het verleden), volstaan kan worden met een directe vaststelling van de subsidie dan wel met het verlenen, gevolgd door een ambtshalve vaststelling.
-
-### Aanwijzing 8. Meldingsplicht en desgevraagd verantwoorden
-
-Bij het verstrekken van een subsidie als bedoeld in aanwijzing 7, tweede lid, onder b, wordt aan de subsidie de verplichting voor de subsidieontvanger verbonden om:
-
-### Toelichting:
-
-Er wordt voorzien in een meldingsplicht van de subsidieontvanger. Zodra het aannemelijk is dat de gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden verricht, moet de subsidieontvanger dit zo snel mogelijk melden bij de verstrekkende instantie. In dat geval zal de subsidie lager of op nihil worden vastgesteld of zullen nadere afspraken worden gemaakt over het aanpassen van de verplichtingen, bijvoorbeeld het geven van meer tijd voor de uitvoering van de activiteiten. Bij het niet voldoen aan deze meldingsplicht kan, indien dat achteraf mocht blijken, met toepassing van [artikel 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) alsnog de subsidievaststelling worden ingetrokken omdat de ontvanger wist en behoorde te weten dat de vaststelling onjuist was. Een op nihil stellen van de subsidies en dus terugvordering inclusief wettelijke rente van het hele subsidiebedrag kan in een dergelijk geval proportioneel worden geacht, omdat de ontvanger dan, door niet te melden, misbruik maakte van de high trust, die ten grondslag ligt aan het subsidiekader.
-
-Voor de volledigheid wordt opgemerkt dat de meldingsplicht uiteraard niet geldt voor wijzigingen waarmee de subsidieverlener op verzoek van de ontvanger eerder heeft ingestemd.
-
-Aan de subsidieontvanger dient voorts de verplichting te worden opgelegd om, als de subsidieverstrekker dat vraagt, aan te tonen dat de gesubsidieerde activiteiten zijn uitgevoerd en dat aan de aan de subsidie verbonden verplichtingen is voldaan. De subsidieverstrekker zal slechts steekproefsgewijs van deze bevoegdheid gebruik maken. Het begrip ‘aantonen’ houdt in dat meer gevraagd wordt dan ‘aannemelijk maken’. Het bestuursorgaan dient ervan overtuigd te zijn dat daadwerkelijk uitvoering is gegeven aan de activiteiten en dat is voldaan aan de verplichtingen. Daarbij moet vooraf in de beschikking of de regeling door de subsidieverstrekker al zijn aangegeven op welke manieren het aantonen van het verricht zijn van de prestatie dan wel het voldaan hebben aan de verplichtingen kan gebeuren: door het overleggen van een factuur, een congresprogramma, e.d. Eventueel voert de subsidieverstrekker ter plekke een controle uit. De afweging of hiertoe wordt overgegaan geschiedt op basis van risicoanalyse. Wanneer in een dergelijk geval, waarin dus niet gemeld is, niet kan worden aangetoond dat de gesubsidieerde activiteiten voldoende zijn uitgevoerd of dat aan alle aan de subsidie verbonden verplichtingen is voldaan, zal in de regel de subsidie op nihil worden vastgesteld. Zoals eerder vermeld kan een op nihil stellen van de subsidies en dus terugvordering inclusief wettelijke rente van het hele subsidiebedrag in een dergelijk geval proportioneel worden geacht.
-
 ### Aanwijzing 9. Niet aan een subsidie te verbinden verplichtingen
 
 ### Toelichting:
 
-De onderdelen a en b van het eerste lid betreffen twee in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) geregelde ‘facultatieve’ verplichtingen (dat wil zeggen, verplichtingen die het bestuursorgaan naar keuze kan toepassen), die zich niet verhouden met de principes inzake de beperking van administratieve lasten die ten grondslag liggen aan aanwijzing 7 ten aanzien van subsidies tot € 25 000. Voor het hier gebruikte begrip ‘uitgaven en inkomsten’ is aangesloten bij de terminologie zoals deze in de Awb gebruikt wordt. Daarmee wordt hetzelfde bedoeld als de in veel subsidieregelingen voorkomende andere begrippen, zoals ‘kosten en opbrengsten’ en ‘lasten en baten’. In het vervolg van deze aanwijzingen zullen steeds alleen de – bedrijfseconomisch juistere – begrippen ‘kosten en opbrengsten’ worden gebruikt, waarvoor dan echter ook steeds gelezen mag worden ‘uitgaven en inkomsten’ of ‘lasten en baten’.
+Uiteraard laten deze aanwijzingen onverlet, dat (ingevolge [artikel 4:47 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:47)) een ambtshalve beschikking ook rechtstreeks op een subsidieregeling (dus zonder dat daartoe een aanvraag hoeft te worden gedaan) kan berusten.
 
-Het niet opnemen van de twee in de Awb geregelde ‘facultatieve’ verplichtingen bij de verstrekking van subsidies lager dan € 25 000, laat overigens de algemene administratieverplichting van het [Burgerlijk Wetboek in artikel 2:10 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) (voor rechtspersonen) en [artikel 3:15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a) (voor ondernemingen en vrije beroepsbeoefenaren) en de daaraan gekoppelde algemene bewaarplicht onverlet. Zie de toelichting bij aanwijzing 11. Ook het vragen van een door een accountant opgesteld stuk wordt bij subsidies lager dan € 25 000 niet als verplichting opgelegd (eerste lid, onderdeel c), aangezien de kosten hiervan kunnen leiden tot disproportionele lasten. Onder een door een accountant opgesteld stuk wordt elk product van een accountant begrepen. Naast de goedkeurende verklaring en het rapport van bevindingen, valt ook te denken aan het zogenoemde ‘assurance-rapport’. Dit is een door een accountant opgesteld rapport met conclusies, dat aanvullende zekerheid biedt over de niet-financiële informatie op basis waarvan de subsidie wordt bepaald.
+In het derde lid is voor alle duidelijkheid expliciet verwoord dat onder omstandigheden ook voor hogere subsidies dan die tot € 25 000 het meest eenvoudige arrangement kan worden toegepast. Het zal daarbij gaan om subsidies waarbij, gelet op de geringe risico’s (bij voorbeeld vanwege de bekendheid van of ervaring met de subsidieontvanger in het verleden), volstaan kan worden met een directe vaststelling van de subsidie dan wel met het verlenen, gevolgd door een ambtshalve vaststelling.
 
 In het tweede lid wordt uitgesloten dat er bij subsidies tot € 25 000 tussentijdse voortgangsverslagen kunnen worden verlangd.
 
@@ -170,7 +170,27 @@ Bij het verstrekken van een subsidie lager dan € 25 000 wordt [afdeling 4.2.8 
 
 ### Toelichting:
 
-Afdeling 4.2.8 Awb, een facultatieve afdeling, bevat voor subsidies die per boekjaar worden verstrekt aan rechtspersonen ter bekostiging van hun structurele activiteiten een uitgeschreven regeling. Daarin zijn o.a. verantwoordingsverplichtingen opgenomen die niet stroken met de uitgangspunten die ingevolge deze aanwijzingen gelden voor kleine subsidies. Daarom wordt van de mogelijkheid om de gehele afdeling van toepassing te verklaren geen gebruik gemaakt. Afzonderlijke bepalingen uit afdeling 4.2.8 Awb kunnen worden voorgeschreven indien deze niet in strijd zijn met de aanwijzingen voor de subsidieverstrekking.
+Voor de volledigheid wordt opgemerkt dat de meldingsplicht uiteraard niet geldt voor wijzigingen waarmee de subsidieverlener op verzoek van de ontvanger eerder heeft ingestemd.
+
+### Aanwijzing 11. Toepassing de-minimisverordeningen als sprake is van staatssteun
+
+### Aanwijzing 9. Niet aan een subsidie te verbinden verplichtingen
+
+Subsidies kunnen leiden tot staatssteun als bedoeld in artikel 87 en 88 EG-Verdrag. Dat is alleen aan de orde indien het gaat om subsidies die verstrekt worden aan ondernemers ten behoeve van hun economische activiteiten (dus niet bij subsidies aan burgers, en ook niet bij subsidies aan instellingen, verenigingen en stichtingen als deze geen economische activiteiten uitvoeren). Als sprake is van staatssteun gelden Europese regels die leiden tot extra voorwaarden en daarmee administratieve lasten. Deze aanwijzing strekt ertoe om ook staatssteunsubsidies zo eenvoudig mogelijk te kunnen verstrekken. Door het toepassen van de de-minimisverordeningen wordt de ruimte die de Europese Commissie biedt om subsidies lastenarm te verstrekken optimaal benut.
+
+De onderdelen a en b van het eerste lid betreffen twee in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) geregelde ‘facultatieve’ verplichtingen (dat wil zeggen, verplichtingen die het bestuursorgaan naar keuze kan toepassen), die zich niet verhouden met de principes inzake de beperking van administratieve lasten die ten grondslag liggen aan aanwijzing 7 ten aanzien van subsidies tot € 25 000. Voor het hier gebruikte begrip ‘uitgaven en inkomsten’ is aangesloten bij de terminologie zoals deze in de Awb gebruikt wordt. Daarmee wordt hetzelfde bedoeld als de in veel subsidieregelingen voorkomende andere begrippen, zoals ‘kosten en opbrengsten’ en ‘lasten en baten’. In het vervolg van deze aanwijzingen zullen steeds alleen de – bedrijfseconomisch juistere – begrippen ‘kosten en opbrengsten’ worden gebruikt, waarvoor dan echter ook steeds gelezen mag worden ‘uitgaven en inkomsten’ of ‘lasten en baten’.
+
+Het niet opnemen van de twee in de Awb geregelde ‘facultatieve’ verplichtingen bij de verstrekking van subsidies lager dan € 25 000, laat overigens de algemene administratieverplichting van het [Burgerlijk Wetboek in artikel 2:10 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) (voor rechtspersonen) en [artikel 3:15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a) (voor ondernemingen en vrije beroepsbeoefenaren) en de daaraan gekoppelde algemene bewaarplicht onverlet. Zie de toelichting bij aanwijzing 11. Ook het vragen van een door een accountant opgesteld stuk wordt bij subsidies lager dan € 25 000 niet als verplichting opgelegd (eerste lid, onderdeel c), aangezien de kosten hiervan kunnen leiden tot disproportionele lasten. Onder een door een accountant opgesteld stuk wordt elk product van een accountant begrepen. Naast de goedkeurende verklaring en het rapport van bevindingen, valt ook te denken aan het zogenoemde ‘assurance-rapport’. Dit is een door een accountant opgesteld rapport met conclusies, dat aanvullende zekerheid biedt over de niet-financiële informatie op basis waarvan de subsidie wordt bepaald.
+
+In het tweede lid wordt uitgesloten dat er bij subsidies tot € 25 000 tussentijdse voortgangsverslagen kunnen worden verlangd.
+
+Gelet op deze uitgangspunten is ervoor gekozen om toepassing van een de-minimisverordening dwingend voor te schrijven voor subsidies tot € 25 000. Dit uiteraard voor zover mogelijk, dat wil zeggen voor zover het steunplafond daaraan niet in de weg staat. Voorts wordt verwezen naar de in de toelichting op aanwijzing 6 vermelde uitzondering op de verplichte toepassing van de de-minimisverordening voor subsidieverstrekkingen aan visserijondernemingen en primaire landbouwondernemingen.
+
+Bij het verstrekken van een subsidie lager dan € 25 000 wordt [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) niet toegepast.
+
+In het tweede lid is voorzien in een bepaling dat de verplichte toepassing van een de-minimisverordening niet geldt indien een subsidie(regeling) die voldoet aan de aanwijzingen voor subsidies tot € 25 000 door de Commissie is goedgekeurd of indien een dergelijke subsidie met toepassing van een vrijstellingsverordening kan worden verstrekt. In zulke gevallen behoeft de subsidie niet als de-minimis te worden verstrekt, maar kan deze als goedgekeurde of vrijgestelde steun worden verstrekt.
+
+### Hoofdstuk 3. Voorschriften voor subsidieverstrekking van € 25 000 tot € 125 000
 
 ### Aanwijzing 11. Toepassing de-minimisverordeningen als sprake is van staatssteun
 
@@ -182,9 +202,9 @@ Een staatssteunsubsidie dient in beginsel gemeld te worden bij de Europese Commi
 
 Op de meldingsplicht bij de Europese Commissie bestaat een uitzondering. Er hoeft niet bij de Europese Commissie gemeld te worden indien de subsidie voldoet aan één van de de-minimisverordeningen (de algemene verordening en de specifiek voor de landbouw geldende verordeningen2[Verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L 379);[Verordening (EG) nr. 1860/2004](32004R1860) van de Commissie van 6 oktober 2004 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 325);[Verordening (EG) nr. 1535/2007](32007R1535) van de Commissie van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337);Verordening (EG) nr. 875/2007 van de Commissie van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun in de visserijsector en tot wijziging van Verordening (EG) nr. 1860/2004 (PbEU L 193). of aan een vrijstellingsverordening (al dan niet opgenomen in de Algemene Groepsvrijstellingsverordening3[Verordening (EG) nr. 800/2008](32008R0800) van de Commissie van 6 augustus 2008 (PbEU L 214). of de beschikking van de Europese Commissie in verband met compensatie van diensten van algemeen economisch belang4Beschikking van de Commissie van 28 november 2005, 2005/842/EG, betreffende de toepassing van artikel 86,2 van het EG-verdrag op staatssteun in de vorm van compensatie voor de openbare dienst die aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen wordt toegekend (PbEU L 312). . De de-minimisverordeningen hebben betrekking op steun die zo gering is dat deze niet van invloed is op het handelsverkeer tussen lidstaten. Dergelijke steunmaatregelen hoeven niet te worden aangemeld indien zij de in deze verordeningen opgenomen steunplafonds niet te boven gaat. Het steunplafond is het maximale bedrag aan steun dat een ondernemer in drie jaren mag ontvangen zonder dat sprake is van een noodzaak om de subsidie aan de Europese Commissie te goedkeuring voor te leggen. De steunplafonds5De de-minimisplafonds zijn € 200.000 voor niet-landbouwondernemingen, € 100.000 voor ondernemingen in het wegvervoer, € 30.000 voor visserijondernemingenen € 7.500 voor primaire landbouwondernemingen. mogen over een periode van drie jaar niet overschreden worden. Het gaat daarbij om het totaal van alle door de betrokken subsidieontvanger ontvangen overheidssubsidies (Rijk en decentrale overheden).
 
-De subsidieverstrekker dient uiteraard in alle gevallen waarin Europese regels van toepassing zijn de nodige maatregelen te nemen om te waarborgen dat die regels (hetzij op het gebied van goedgekeurde staatssteun, hetzij op het gebied van de eventueel toegepaste de-minimis- of groepsvrijstellingsverordeningen) worden nageleefd. Daarom zal ook als een subsidie als de-minimissteun wordt verleend, door de subsidieverstrekker worden gewezen op de mogelijkheid dat de Europese Commissie naderhand – naar aanleiding van een klacht of in het kader van een controle – nog informatie opvraagt over de aanwending van de subsidie. De subsidieontvanger zal daarbij worden geattendeerd op de mogelijkheid dat de Europese Commissie onrechtmatige steun nog gedurende tien jaar na de verlening daarvan kan terugvorderen en in dat kader door tussenkomst van de subsidieverstrekker kan vragen om documenten waarmee kan worden aangetoond dat de subsidie aan de gesubsidieerde activiteiten is besteed. Dit gebeurt dan op grond van de algemene administratie- en bewaarverplichting die ingevolge het Burgerlijk Wetboek gelden voor ondernemers (zie de toelichting op aanwijzing 9).
+### Aanwijzing 13. Niet aan een subsidie te verbinden verplichtingen
 
-Gelet op deze uitgangspunten is ervoor gekozen om toepassing van een de-minimisverordening dwingend voor te schrijven voor subsidies tot € 25 000. Dit uiteraard voor zover mogelijk, dat wil zeggen voor zover het steunplafond daaraan niet in de weg staat. Voorts wordt verwezen naar de in de toelichting op aanwijzing 6 vermelde uitzondering op de verplichte toepassing van de de-minimisverordening voor subsidieverstrekkingen aan visserijondernemingen en primaire landbouwondernemingen.
+### Toelichting:
 
 Om de lasten die een verplichte toepassing van de de-minimisverordening meebrengt voor de subsidieontvanger en de subsidieverstrekker zo laag mogelijk te houden, zal een standaard de-minimisverklaring worden ontwikkeld, die rijksbreed kan worden toegepast.
 
@@ -192,31 +212,11 @@ In het tweede lid is voorzien in een bepaling dat de verplichte toepassing van e
 
 ### Hoofdstuk 3. Voorschriften voor subsidieverstrekking van € 25 000 tot € 125 000
 
-### Aanwijzing 12. Meldingsplicht en altijd verantwoorden
-
-### Toelichting:
-
-Kenmerkend voor subsidies van € 25 000 tot € 125 000 is dat een vast bedrag (lump sum) of een vast bedrag per prestatie-eenheid wordt verstrekt. Daarbij moet de subsidieontvanger standaard aantonen dat de activiteiten waarvoor de subsidie is verleend, zijn uitgevoerd. De verantwoording geschiedt over de uitgevoerde activiteiten (bijvoorbeeld een congres of onderzoeksrapport) of over een vooraf bepaalde meetbare prestatie-eenheid (bijvoorbeeld het aantal bezoekers). Daarbij zal vooraf door de subsidieverstrekker al moeten zijn aangegeven op welke manieren het aantonen kan plaatsvinden. Er kunnen daarbij verschillende stukken worden gebruikt, zoals bestuurs- en activiteitenverslagen, een managementverklaring of andere bewijsstukken (bijvoorbeeld een publicatie). Op basis van een risicoanalyse kan de subsidieverstrekker besluiten om een controle ter plekke uit te voeren. Er wordt geen bijkomende financiële verantwoording en geen door een accountant opgesteld stuk gevraagd (zie aanwijzing 13, eerste lid, in samenhang met aanwijzing 9, eerste lid). Wanneer niet kan worden aangetoond dat de gesubsidieerde activiteiten voldoende zijn uitgevoerd of dat voldoende aan de aan de subsidie verbonden verplichtingen is voldaan, zal de subsidie op een lager bedrag of op nihil worden vastgesteld.
-
-In gevallen waarin duidelijk wordt dat de activiteiten waarvoor de subsidie is verleend niet of niet geheel, niet tijdig dan wel niet (geheel) volgens de aan de subsidie verbonden verplichtingen uitgevoerd zullen worden, is, net als bij subsidies tot € 25 000, voorzien in een meldingsplicht van de subsidieontvanger.
-
-Ingevolge het derde lid, dat overeenkomt met het derde lid van aanwijzing 7, is het duidelijk dat ook bij subsidies die meer dan € 125 000 bedragen een eenvoudiger arrangement kan worden toegepast Het zal daarbij gaan om subsidies waarbij, gelet op de geringe risico’s (bij voorbeeld vanwege de bekendheid van of ervaring met de subsidieontvanger in het verleden), volstaan kan worden met een lastenarmer arrangement.
-
-### Aanwijzing 13. Niet aan een subsidie te verbinden verplichtingen
-
-### Toelichting:
-
-De verplichtingen die ingevolge aanwijzing 13 niet aan een subsidie worden verbonden, komen overeen met de in aanwijzing 9 voor subsidies tot € 25 000 uitgesloten verplichtingen. Deze op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) facultatief op te leggen verplichtingen worden, vanwege de relatief hoge kosten daarvan, ook bij subsidies tussen € 25 000 en € 125 000 niet aan de subsidie verbonden. Op grond van aanwijzing 12 geldt wel de verplichting dat de activiteiten (dus niet de kosten en opbrengsten) verantwoord worden. Er wordt evenmin een door een accountant opgesteld stuk gevraagd. Aanwijzing 9, eerste lid, onderdeel a, inzake het verbod om een administratieplicht op te leggen of om overlegging van de administratie te vragen, vindt geen toepassing als er in het kader van de subsidie wordt gevraagd om een verklaring inzake werkelijke kosten en opbrengsten. Om een dergelijke werkelijke verklaring te kunnen controleren is het noodzakelijk dat kan worden teruggevallen op een administratie. Ten aanzien van niet-ondernemers kan het daarom nodig zijn de bevoegdheid te hebben om een administratieplicht op te leggen.
-
-Indien met de uitvoering van de gesubsidieerde activiteiten meer dan 12 maanden is gemoeid, mag, anders dan bij subsidies lager dan € 25 000 (zie aanwijzing 9, tweede lid), een tussentijds voortgangsverslag worden gevraagd, maar niet vaker dan één keer per periode van 12 maanden. Bij een uitvoeringsduur van subsidiabele activiteiten van bij voorbeeld 19 maanden, mag dan maximaal een maal een voortgangsverslag worden gevraagd (bij voorbeeld over de eerste 12 maanden). Daarnaast is er dan alleen nog ruimte voor de eindverantwoording, inhoudende dat de subsidieontvanger dient aan te tonen dat de activiteiten zijn uitgevoerd.
-
-### Aanwijzing 14. Uitsluiting van toepasselijkheid van afdeling 4.2.8 Awb
-
 Bij het verstrekken van een subsidie tussen € 25 000 en € 125 000 wordt [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) niet toegepast.
 
 ### Toelichting:
 
-Zie de toelichting op de overeenkomstige aanwijzing 10.
+Kenmerkend voor subsidies van € 25 000 tot € 125 000 is dat een vast bedrag (lump sum) of een vast bedrag per prestatie-eenheid wordt verstrekt. Daarbij moet de subsidieontvanger standaard aantonen dat de activiteiten waarvoor de subsidie is verleend, zijn uitgevoerd. De verantwoording geschiedt over de uitgevoerde activiteiten (bijvoorbeeld een congres of onderzoeksrapport) of over een vooraf bepaalde meetbare prestatie-eenheid (bijvoorbeeld het aantal bezoekers). Daarbij zal vooraf door de subsidieverstrekker al moeten zijn aangegeven op welke manieren het aantonen kan plaatsvinden. Er kunnen daarbij verschillende stukken worden gebruikt, zoals bestuurs- en activiteitenverslagen, een managementverklaring of andere bewijsstukken (bijvoorbeeld een publicatie). Op basis van een risicoanalyse kan de subsidieverstrekker besluiten om een controle ter plekke uit te voeren. Er wordt geen bijkomende financiële verantwoording en geen door een accountant opgesteld stuk gevraagd (zie aanwijzing 13, eerste lid, in samenhang met aanwijzing 9, eerste lid). Wanneer niet kan worden aangetoond dat de gesubsidieerde activiteiten voldoende zijn uitgevoerd of dat voldoende aan de aan de subsidie verbonden verplichtingen is voldaan, zal de subsidie op een lager bedrag of op nihil worden vastgesteld.
 
 ### Aanwijzing 15. Verklaring inzake werkelijke kosten en opbrengsten
 
@@ -230,19 +230,19 @@ De opgave van de gerealiseerde kosten en opbrengsten vormt de grondslag voor de 
 
 ### Aanwijzing 16. Meldingsplicht en beperking tussentijdse rapportages
 
-### Toelichting:
+### Aanwijzing 14. Uitsluiting van toepasselijkheid van afdeling 4.2.8 Awb
 
-In het eerste lid wordt ook voor de subsidies van € 125 000 of meer voorzien in een meldingsplicht. Deze meldingsplicht is nodig omdat op grond van het tweede lid niet langer mag worden gevraagd om tussentijdse voortgangsverslagen (bij langer lopende subsidies) en omdat de bevoorschottingssystematiek is vereenvoudigd zie aanwijzing 18).
+Bij het verstrekken van een subsidie tussen € 25 000 en € 125 000 wordt [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) niet toegepast.
 
 Zie voor het tweede lid de toelichting op het gelijkluidende tweede lid van aanwijzing 13.
 
-Voor de volledigheid wordt opgemerkt dat waar dat op basis van een risicoanalyse mogelijk wordt geacht, toepassing van een eenvoudiger arrangement, te weten dat van hoofdstuk 2 – voor subsidies van minder dan € 25 000 – dan wel dat van hoofdstuk 3 – voor subsidies van € 25 000 tot € 125 000 –, tot de mogelijkheden behoort. Verwezen wordt naar (de toelichting op) artikel 7, derde lid, onderscheidenlijk artikel 12, derde lid.
+Zie de toelichting op de overeenkomstige aanwijzing 10.
 
-### Hoofdstuk 5. Uniformering en vereenvoudiging van begrippen en verplichtingen
+### Aanwijzing 15. Verklaring inzake werkelijke kosten en opbrengsten
 
-### Aanwijzing 17. Termijnen
+### Toelichting:
 
-Bij het verstrekken van subsidies worden de volgende termijnen in acht genomen:
+Soms blijkt het niet mogelijk om vooraf de kosten en opbrengsten van de prestatie realistisch te begroten. Dat kan bijvoorbeeld het geval zijn bij innovatieve activiteiten, als er nog geen standaard voor de daarmee samenhangende kosten en opbrengsten voorhanden is. In dergelijke gevallen is het mogelijk om af te rekenen op basis van een opgave van de totale werkelijke kosten en opbrengsten. De afrekening vindt plaats op basis van een verklaring van de subsidieontvanger over de totaal gerealiseerde kosten en opbrengsten. Bij toepassing van deze variant komt een afzonderlijke prestatieverantwoording te vervallen; een verklaring zoals omschreven in het tweede lid van aanwijzing 15, volstaat.
 
 ### Toelichting:
 
@@ -252,13 +252,13 @@ Bij de termijnen die in de aanwijzingen zijn opgenomen geldt uiteraard dat deze 
 
 Gekozen is voor een drietal termijnen; 13, 22 of 40 weken. De termijn van 13 weken is van toepassing op standaardsituaties. Op basis van de subsidiepraktijk kan in een aantal gevallen de langere termijn van 22 weken worden toegepast. Voor wat betreft de termijn voor verlening van een subsidie geldt de standaardregel van 13 weken. In geval van EU-cofinanciering, inschakeling van een commissie en nadere controle7het betreft gevallen waarin waarneming ter plaatse nodig is om te kunnen vaststellen of de subsidieaanvrager wel of niet in aanmerking komt voor de subsidie. heeft de subsidieverstrekker meer tijd nodig om een verleningsbeschikking af te kunnen geven en kan de termijn van maximaal 22 weken worden toegepast. In uitzonderlijke gevallen (als de toekenning afhankelijk is van internationale werkzaamheden) bedraagt de termijn maximaal 40 weken. Wat betreft de termijn voor directe vaststelling (aanwijzing 7, onderdeel a) geldt de standaardregel van 13 weken. In de overige gevallen, wanneer de subsidie wordt vastgesteld op basis van een uitgevoerde activiteit of wanneer er sprake is van vaststelling op basis van een kostenverantwoording is gekozen voor de maximale termijn van 22 weken. Hier wordt rekening gehouden met het feit dat in de realiteit van de uitvoering voor het vaststellen van de uitgevoerde activiteiten in sommige gevallen een (steekproefsgewijze) verantwoording en/ of extra controle noodzakelijk is.
 
-Voor de subsidieaanvrager is er een maximale termijn van 13 weken opgenomen voor het aanvragen van een vaststellingsbeschikking. Er kan echter voorzien worden, hetzij in de regeling, hetzij in de beschikking, in een afwijkende termijn. Daardoor is het mogelijk om, indien dat noodzakelijk is, een langere termijn vast te stellen. Dat zal met name spelen in gevallen waarin de verantwoording van de subsidie plaatsvindt in de jaarrekening of gezamenlijk met andere subsidies volgens het Single Information Single Audit principe.
+In het eerste lid wordt ook voor de subsidies van € 125 000 of meer voorzien in een meldingsplicht. Deze meldingsplicht is nodig omdat op grond van het tweede lid niet langer mag worden gevraagd om tussentijdse voortgangsverslagen (bij langer lopende subsidies) en omdat de bevoorschottingssystematiek is vereenvoudigd zie aanwijzing 18).
 
-In onderstaand schema is aangegeven welke termijnen voor de subsidieverstrekker en de subsidieaanvrager gelden voor de verschillende situaties:
+Zie voor het tweede lid de toelichting op het gelijkluidende tweede lid van aanwijzing 13.
 
-Overzicht standaardtermijnen
+Voor de volledigheid wordt opgemerkt dat waar dat op basis van een risicoanalyse mogelijk wordt geacht, toepassing van een eenvoudiger arrangement, te weten dat van hoofdstuk 2 – voor subsidies van minder dan € 25 000 – dan wel dat van hoofdstuk 3 – voor subsidies van € 25 000 tot € 125 000 –, tot de mogelijkheden behoort. Verwezen wordt naar (de toelichting op) artikel 7, derde lid, onderscheidenlijk artikel 12, derde lid.
 
-### Aanwijzing 18. Betaling en bevoorschotting
+### Hoofdstuk 5. Uniformering en vereenvoudiging van begrippen en verplichtingen
 
 Bij het verstrekken van subsidies worden de volgende voorschriften inzake betalingen en bevoorschotting in acht genomen:
 
@@ -266,25 +266,45 @@ Bij het verstrekken van subsidies worden de volgende voorschriften inzake betali
 
 Voorschotten worden automatisch (ambtshalve) verstrekt volgens het in de subsidieregeling of de verleningsbeschikking opgenomen bevoorschottingsritme. De subsidieaanvrager hoeft geen aanvra(a)g(en) voor bevoorschotting in te dienen (de bevoorschottingsbeschikking wordt ambtshalve gegeven op het moment van de verleningsbeschikking) of tussentijdse overzichten van prestaties of kosten en opbrengsten te overleggen. De subsidieontvanger is verplicht te melden indien er omstandigheden zijn die van invloed zijn op de hoogte van het verleende bedrag. De subsidieverstrekker kan vervolgens, indien nodig door een wijziging van de verleningsbeschikking het bevoorschottingsritme en de hoogte van de voorschotten aanpassen. Na vaststelling van de subsidie wordt het resterende bedrag (het vastgestelde bedrag verminderd met de verleende voorschotten), uitgekeerd aan de subsidieontvanger.
 
-In schema zien de regels voor bevoorschotting er als volgt uit:
+De subsidieverstrekker dient de beschikking voor subsidieverlening en subsidievaststelling binnen de gestelde maximumtermijn te geven. De genoemde termijnen dienen te worden opgenomen in de subsidieregelgeving, en vormen daarmee een invulling van de ‘redelijke termijn’ die de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) als algemene termijn voor beslissingen van de overheid voorschrijft. Voor afzonderlijke subsidiebeschikkingen – in geval een wettelijk voorschrift inzake het verstrekken van de subsidie ontbreekt – gelden de termijnen als een richtlijn. Uiteraard verdient het uit een oogpunt van voortvarend bestuur aanbeveling om waar mogelijk kortere termijnen te hanteren. Dit geldt zeker voor de termijnen die worden gehanteerd bij beschikkingen waarvoor een wettelijk voorschrift ontbreekt. Indien de subsidieverstrekker het in zo'n geval niet uitgesloten acht dat hantering van de in aanwijzing 16 genoemde termijnen de toetsing door de rechter niet zou doorstaan (omdat de termijn in het specifieke geval niet als ‘redelijk’ zou zijn te kwalificeren), staat niets hem in de weg om een kortere termijn te bepalen. Indien een beschikking niet binnen de termijn kan worden gegeven, deelt de subsidieverstrekker dit aan de aanvrager mede en noemt hij daarbij een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien ([artikel 4:14 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14)).Daarnaast kan de subsidieverstrekker in de toekomst ook een dwangsom opgelegd krijgen bij niet tijdig beslissen. Op 1 oktober 2009 is de [Wet dwangsom en beroep bij niet tijdig beslissen](https://wetten.overheid.nl/jci1.3:c:BWBR0026450)6Wet van 28 augustus 2009 tot aanvulling van de Algemene wet bestuursrecht met doeltreffendere rechtsmiddelen tegen niet tijdig beslissen door bestuursorganen (Stb. 383) in werking getreden. Op grond van het bepaalde in deze wet kan de subsidieverstrekker een dwangsom opgelegd krijgen (van ten hoogste € 1 260) indien een beschikking op aanvraag niet op tijd is gegeven. De ambtshalve vaststellingsbeschikking valt overigens, net als andere ambtshalve beschikkingen, niet onder de dwangsomregeling van de Wet dwangsom.
 
 ### Aanwijzing 19. Uniforme berekeningswijzen uurtarieven
 
-Bij het hanteren van uurtarieven in het kader van het verstrekken van subsidies worden de volgende berekeningswijzen en kostenbegrippen in acht genomen:
+Gekozen is voor een drietal termijnen; 13, 22 of 40 weken. De termijn van 13 weken is van toepassing op standaardsituaties. Op basis van de subsidiepraktijk kan in een aantal gevallen de langere termijn van 22 weken worden toegepast. Voor wat betreft de termijn voor verlening van een subsidie geldt de standaardregel van 13 weken. In geval van EU-cofinanciering, inschakeling van een commissie en nadere controle7het betreft gevallen waarin waarneming ter plaatse nodig is om te kunnen vaststellen of de subsidieaanvrager wel of niet in aanmerking komt voor de subsidie. heeft de subsidieverstrekker meer tijd nodig om een verleningsbeschikking af te kunnen geven en kan de termijn van maximaal 22 weken worden toegepast. In uitzonderlijke gevallen (als de toekenning afhankelijk is van internationale werkzaamheden) bedraagt de termijn maximaal 40 weken. Wat betreft de termijn voor directe vaststelling (aanwijzing 7, onderdeel a) geldt de standaardregel van 13 weken. In de overige gevallen, wanneer de subsidie wordt vastgesteld op basis van een uitgevoerde activiteit of wanneer er sprake is van vaststelling op basis van een kostenverantwoording is gekozen voor de maximale termijn van 22 weken. Hier wordt rekening gehouden met het feit dat in de realiteit van de uitvoering voor het vaststellen van de uitgevoerde activiteiten in sommige gevallen een (steekproefsgewijze) verantwoording en/ of extra controle noodzakelijk is.
 
 ### Toelichting:
 
-Een veelgebruikte methode voor de bepaling van de omvang van het subsidiebedrag is de berekening van de (gedeeltelijke) bijdrage aan de werkelijke kosten van subsidiabele activiteiten. Hierbij is een belangrijke basis voor de financiering/subsidie (kostengrondslag) de inzet van personeel. De subsidieontvanger moet zich dan verantwoorden over het aantal subsidiabele uren en de totstandkoming van de uurtarieven. Dit brengt hoge lasten met zich mee. Vooral de verschillende uitgangspunten en definities per subsidie ten aanzien van de berekening van de uurtarieven leggen een grote (lasten)druk op de administratieve systemen van subsidieontvangers.
+In onderstaand schema is aangegeven welke termijnen voor de subsidieverstrekker en de subsidieaanvrager gelden voor de verschillende situaties:
 
-Forfaitaire elementen zijn een hulpmiddel om de bepaling van de subsidiabele kosten, en daarmee van het subsidiebedrag, te vereenvoudigen en te uniformeren. Voorbeelden van forfaitaire elementen zijn: de urenbasis, het uurtarief voor kosten van eigen arbeid (niet zijnde loonkosten) en het uurtarief voor categorieën van loonkosten. Een belangrijke basis voor het vaststellen en verder uitwerken van forfaitaire elementen is de Handleiding Overheidstarieven.
+Overzicht standaardtermijnen
 
-### Hoofdstuk 6. Tegengaan van misbruik en borging rechtmatigheid
+### Aanwijzing 18. Betaling en bevoorschotting
 
 ### Aanwijzing 20. Tegengaan van misbruik en borging rechtmatigheid
 
 Bij subsidieverstrekking worden met het oog op het tegengaan van misbruik de volgende handelingen uitgevoerd:
 
 ### Toelichting:
+
+In schema zien de regels voor bevoorschotting er als volgt uit:
+
+Figuur a Tegengaan misbruik in subsidieproces
+
+Bij het hanteren van uurtarieven in het kader van het verstrekken van subsidies worden de volgende berekeningswijzen en kostenbegrippen in acht genomen:
+
+De eerste randvoorwaarde houdt in dat mogelijke risico’s bij de totstandkoming van de subsidieregeling in beeld worden gebracht, worden afgewogen en dat hierop wordt geanticipeerd. Deze risicoanalyse wordt schriftelijk vastgelegd. Bij deze risicoanalyse zijn aspecten ten aanzien van de voorwaarden, de uitvoerbaarheid en handhaafbaarheid, de organisatie van controle en handhaving en sanctiemogelijkheden binnen een subsidieregeling relevant. Bij de risicoanalyse kunnen onder meer de doelgroep van subsidieontvangers, het type regeling en de hoogte van het subsidiebedrag in beschouwing worden genomen.
+
+Een veelgebruikte methode voor de bepaling van de omvang van het subsidiebedrag is de berekening van de (gedeeltelijke) bijdrage aan de werkelijke kosten van subsidiabele activiteiten. Hierbij is een belangrijke basis voor de financiering/subsidie (kostengrondslag) de inzet van personeel. De subsidieontvanger moet zich dan verantwoorden over het aantal subsidiabele uren en de totstandkoming van de uurtarieven. Dit brengt hoge lasten met zich mee. Vooral de verschillende uitgangspunten en definities per subsidie ten aanzien van de berekening van de uurtarieven leggen een grote (lasten)druk op de administratieve systemen van subsidieontvangers.
+
+Forfaitaire elementen zijn een hulpmiddel om de bepaling van de subsidiabele kosten, en daarmee van het subsidiebedrag, te vereenvoudigen en te uniformeren. Voorbeelden van forfaitaire elementen zijn: de urenbasis, het uurtarief voor kosten van eigen arbeid (niet zijnde loonkosten) en het uurtarief voor categorieën van loonkosten. Een belangrijke basis voor het vaststellen en verder uitwerken van forfaitaire elementen is de Handleiding Overheidstarieven.
+
+Een tweede voorwaarde is dat de subsidieverstrekker altijd beoordeelt of de (steekproefsgewijze) verantwoording voldoet aan de voorwaarden die hieraan zijn gesteld. Op basis van risicoanalyses voert de subsidieverstrekker eventueel aanvullende administratieve of fysieke controles uit.
+
+Controle heeft tot doel het verkrijgen van een redelijke mate van zekerheid dat de subsidievoorwaarden zijn nageleefd. Waar de risicogeoriënteerde controle zich op richt is dan ook afhankelijk van de voorwaarden die aan een subsidie worden gesteld. Als deze voorwaarden gericht zijn op het behalen van een prestatie dan richt de controle zich op de vraag of deze prestatie wel of niet is geleverd. De uitkomsten van de verantwoording en/of controle kunnen er toe leiden dat de subsidie niet of slechts gedeeltelijk wordt uitgekeerd of dat de subsidie wordt teruggevorderd met wettelijke rente.
+
+Bij subsidieverstrekking worden met het oog op het tegengaan van misbruik de volgende handelingen uitgevoerd:
+
+Een derde randvoorwaarde is dat actief en consistent wordt opgetreden wanneer het vertrouwen wordt beschaamd. De volgende sanctiemogelijkheden zijn hiervoor beschikbaar:
 
 Om misbruik8Misbruik is het bewerkstelligen van geen of te geringe betaling van verplichte bijdragen aan de overheid en van het verkrijgen of genieten van een (te hoge) uitkering door het bewust niet, niet juist, niet tijdig of niet volledig verstrekken van gegevens en inlichtingen. tegen te gaan en de rechtmatigheid van subsidies op artikelniveau te borgen wordt een sluitend systeem van eigen verantwoordelijkheid, (steekproefsgewijze) verantwoording, risicogerichte controle en een actieve en consistente aanpak van misbruik geïntroduceerd (zie figuur a). Een uitwerking van de verschillende uitgangspunten en randvoorwaarden bij het tegengaan van misbruik zal worden opgenomen in een leidraad om misbruik tegen te gaan. Departementen zijn vrij om als ze dat nodig achten bovenop dit beleid aanvullende maatregelen te treffen en sancties te ontwikkelen. Eventuele ervaringen worden meegenomen in de evaluatie waarbij de toereikendheid van het beschikbare sanctie-instrumentarium expliciet zal worden bezien.
 
@@ -301,6 +321,86 @@ Risicobeheer is primair een verantwoordelijkheid van het (subsidieverlenende) de
 Een tweede voorwaarde is dat de subsidieverstrekker altijd beoordeelt of de (steekproefsgewijze) verantwoording voldoet aan de voorwaarden die hieraan zijn gesteld. Op basis van risicoanalyses voert de subsidieverstrekker eventueel aanvullende administratieve of fysieke controles uit.
 
 Controle heeft tot doel het verkrijgen van een redelijke mate van zekerheid dat de subsidievoorwaarden zijn nageleefd. Waar de risicogeoriënteerde controle zich op richt is dan ook afhankelijk van de voorwaarden die aan een subsidie worden gesteld. Als deze voorwaarden gericht zijn op het behalen van een prestatie dan richt de controle zich op de vraag of deze prestatie wel of niet is geleverd. De uitkomsten van de verantwoording en/of controle kunnen er toe leiden dat de subsidie niet of slechts gedeeltelijk wordt uitgekeerd of dat de subsidie wordt teruggevorderd met wettelijke rente.
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Aanwijzing 7. Direct vaststellen of verlenen gevolgd door ambtshalve vaststelling
+
+Ook indien de activiteiten nog niet hebben plaatsgevonden, kan onderdeel a worden toegepast. De toepassing is dan onder meer afhankelijk van een risicoafweging vooraf door de subsidieverstrekker, omdat na de vaststelling geen verantwoording meer mag worden gevraagd. Dit onderdeel kan bijvoorbeeld worden toegepast wanneer het risico laag wordt ingeschat. Controle na de vaststelling is mogelijk en kan in situaties zoals beschreven in [art 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) tot terugvordering leiden.
+
+Bij toepassing van onderdeel b wordt in de subsidiebeschikking vermeld wanneer de gesubsidieerde activiteiten moeten zijn verricht. De subsidie wordt vervolgens, uiterlijk na verloop van een in de beschikking aan te geven termijn na de datum waarop de activiteiten moeten zijn verricht, ambtshalve vastgesteld door de subsidieverstrekker. De subsidieontvanger hoeft dus geen aanvraag voor subsidievaststelling aan de hand van een verantwoording te doen. De ambtshalve vaststelling kan al vóór het verstrijken van de termijn plaatsvinden, bijvoorbeeld als het vanuit een oogpunt van een efficiënte werkwijze wenselijk wordt geacht dat dergelijke vaststellingsbeschikkingen op een vaste datum worden genomen. Voorts zal ook van een eerdere vaststelling sprake kunnen zijn indien na een melding als bedoeld in aanwijzing 8, onder a, wordt vastgesteld of als, indien er niet gemeld is, na een verantwoording als bedoeld in aanwijzing 8, onder b, een vaststelling op nihil plaatsvindt (zie hierna bij aanwijzing 8).
+
+### Aanwijzing 8. Meldingsplicht en desgevraagd verantwoorden
+
+Bij het verstrekken van een subsidie als bedoeld in aanwijzing 7, tweede lid, onder b, wordt aan de subsidie de verplichting voor de subsidieontvanger verbonden om:
+
+### Toelichting:
+
+Er wordt voorzien in een meldingsplicht van de subsidieontvanger. Zodra het aannemelijk is dat de gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden verricht, moet de subsidieontvanger dit zo snel mogelijk melden bij de verstrekkende instantie. In dat geval zal de subsidie lager of op nihil worden vastgesteld of zullen nadere afspraken worden gemaakt over het aanpassen van de verplichtingen, bijvoorbeeld het geven van meer tijd voor de uitvoering van de activiteiten. Bij het niet voldoen aan deze meldingsplicht kan, indien dat achteraf mocht blijken, met toepassing van [artikel 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) alsnog de subsidievaststelling worden ingetrokken omdat de ontvanger wist en behoorde te weten dat de vaststelling onjuist was. Een op nihil stellen van de subsidies en dus terugvordering inclusief wettelijke rente van het hele subsidiebedrag kan in een dergelijk geval proportioneel worden geacht, omdat de ontvanger dan, door niet te melden, misbruik maakte van de high trust, die ten grondslag ligt aan het subsidiekader.
+
+Aan de subsidieontvanger dient voorts de verplichting te worden opgelegd om, als de subsidieverstrekker dat vraagt, aan te tonen dat de gesubsidieerde activiteiten zijn uitgevoerd en dat aan de aan de subsidie verbonden verplichtingen is voldaan. De subsidieverstrekker zal slechts steekproefsgewijs van deze bevoegdheid gebruik maken. Het begrip ‘aantonen’ houdt in dat meer gevraagd wordt dan ‘aannemelijk maken’. Het bestuursorgaan dient ervan overtuigd te zijn dat daadwerkelijk uitvoering is gegeven aan de activiteiten en dat is voldaan aan de verplichtingen. Daarbij moet vooraf in de beschikking of de regeling door de subsidieverstrekker al zijn aangegeven op welke manieren het aantonen van het verricht zijn van de prestatie dan wel het voldaan hebben aan de verplichtingen kan gebeuren: door het overleggen van een factuur, een congresprogramma, e.d. Eventueel voert de subsidieverstrekker ter plekke een controle uit. De afweging of hiertoe wordt overgegaan geschiedt op basis van risicoanalyse. Wanneer in een dergelijk geval, waarin dus niet gemeld is, niet kan worden aangetoond dat de gesubsidieerde activiteiten voldoende zijn uitgevoerd of dat aan alle aan de subsidie verbonden verplichtingen is voldaan, zal in de regel de subsidie op nihil worden vastgesteld. Zoals eerder vermeld kan een op nihil stellen van de subsidies en dus terugvordering inclusief wettelijke rente van het hele subsidiebedrag in een dergelijk geval proportioneel worden geacht.
+
+### Toelichting:
+
+### Aanwijzing 10. Uitsluiting van toepasselijkheid van afdeling 4.2.8 Awb
+
+### Toelichting:
+
+Afdeling 4.2.8 Awb, een facultatieve afdeling, bevat voor subsidies die per boekjaar worden verstrekt aan rechtspersonen ter bekostiging van hun structurele activiteiten een uitgeschreven regeling. Daarin zijn o.a. verantwoordingsverplichtingen opgenomen die niet stroken met de uitgangspunten die ingevolge deze aanwijzingen gelden voor kleine subsidies. Daarom wordt van de mogelijkheid om de gehele afdeling van toepassing te verklaren geen gebruik gemaakt. Afzonderlijke bepalingen uit afdeling 4.2.8 Awb kunnen worden voorgeschreven indien deze niet in strijd zijn met de aanwijzingen voor de subsidieverstrekking.
+
+De subsidieverstrekker dient uiteraard in alle gevallen waarin Europese regels van toepassing zijn de nodige maatregelen te nemen om te waarborgen dat die regels (hetzij op het gebied van goedgekeurde staatssteun, hetzij op het gebied van de eventueel toegepaste de-minimis- of groepsvrijstellingsverordeningen) worden nageleefd. Daarom zal ook als een subsidie als de-minimissteun wordt verleend, door de subsidieverstrekker worden gewezen op de mogelijkheid dat de Europese Commissie naderhand – naar aanleiding van een klacht of in het kader van een controle – nog informatie opvraagt over de aanwending van de subsidie. De subsidieontvanger zal daarbij worden geattendeerd op de mogelijkheid dat de Europese Commissie onrechtmatige steun nog gedurende tien jaar na de verlening daarvan kan terugvorderen en in dat kader door tussenkomst van de subsidieverstrekker kan vragen om documenten waarmee kan worden aangetoond dat de subsidie aan de gesubsidieerde activiteiten is besteed. Dit gebeurt dan op grond van de algemene administratie- en bewaarverplichting die ingevolge het Burgerlijk Wetboek gelden voor ondernemers (zie de toelichting op aanwijzing 9).
+
+Gelet op deze uitgangspunten is ervoor gekozen om toepassing van een de-minimisverordening dwingend voor te schrijven voor subsidies tot € 25 000. Dit uiteraard voor zover mogelijk, dat wil zeggen voor zover het steunplafond daaraan niet in de weg staat. Voorts wordt verwezen naar de in de toelichting op aanwijzing 6 vermelde uitzondering op de verplichte toepassing van de de-minimisverordening voor subsidieverstrekkingen aan visserijondernemingen en primaire landbouwondernemingen.
+
+### Aanwijzing 12. Meldingsplicht en altijd verantwoorden
+
+In gevallen waarin duidelijk wordt dat de activiteiten waarvoor de subsidie is verleend niet of niet geheel, niet tijdig dan wel niet (geheel) volgens de aan de subsidie verbonden verplichtingen uitgevoerd zullen worden, is, net als bij subsidies tot € 25 000, voorzien in een meldingsplicht van de subsidieontvanger.
+
+Ingevolge het derde lid, dat overeenkomt met het derde lid van aanwijzing 7, is het duidelijk dat ook bij subsidies die meer dan € 125 000 bedragen een eenvoudiger arrangement kan worden toegepast Het zal daarbij gaan om subsidies waarbij, gelet op de geringe risico’s (bij voorbeeld vanwege de bekendheid van of ervaring met de subsidieontvanger in het verleden), volstaan kan worden met een lastenarmer arrangement.
+
+### Aanwijzing 13. Niet aan een subsidie te verbinden verplichtingen
+
+### Toelichting:
+
+De verplichtingen die ingevolge aanwijzing 13 niet aan een subsidie worden verbonden, komen overeen met de in aanwijzing 9 voor subsidies tot € 25 000 uitgesloten verplichtingen. Deze op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) facultatief op te leggen verplichtingen worden, vanwege de relatief hoge kosten daarvan, ook bij subsidies tussen € 25 000 en € 125 000 niet aan de subsidie verbonden. Op grond van aanwijzing 12 geldt wel de verplichting dat de activiteiten (dus niet de kosten en opbrengsten) verantwoord worden. Er wordt evenmin een door een accountant opgesteld stuk gevraagd. Aanwijzing 9, eerste lid, onderdeel a, inzake het verbod om een administratieplicht op te leggen of om overlegging van de administratie te vragen, vindt geen toepassing als er in het kader van de subsidie wordt gevraagd om een verklaring inzake werkelijke kosten en opbrengsten. Om een dergelijke werkelijke verklaring te kunnen controleren is het noodzakelijk dat kan worden teruggevallen op een administratie. Ten aanzien van niet-ondernemers kan het daarom nodig zijn de bevoegdheid te hebben om een administratieplicht op te leggen.
+
+Indien met de uitvoering van de gesubsidieerde activiteiten meer dan 12 maanden is gemoeid, mag, anders dan bij subsidies lager dan € 25 000 (zie aanwijzing 9, tweede lid), een tussentijds voortgangsverslag worden gevraagd, maar niet vaker dan één keer per periode van 12 maanden. Bij een uitvoeringsduur van subsidiabele activiteiten van bij voorbeeld 19 maanden, mag dan maximaal een maal een voortgangsverslag worden gevraagd (bij voorbeeld over de eerste 12 maanden). Daarnaast is er dan alleen nog ruimte voor de eindverantwoording, inhoudende dat de subsidieontvanger dient aan te tonen dat de activiteiten zijn uitgevoerd.
+
+### Toelichting:
+
+De opgave van de gerealiseerde kosten en opbrengsten vormt de grondslag voor de berekening van het subsidiebedrag. Hierdoor worden detaildiscussies over onderliggende financiële posten voorkomen. Indien de subsidiabele kosten, na aftrek van de gerealiseerde opbrengsten (inclusief gerealiseerde bijdragen van derden) en de gerealiseerde eigen bijdrage, lager zijn dan begroot wordt de subsidie lager vastgesteld, tenzij rekening dient te worden gehouden met een in de van toepassing zijnde regelgeving geboden mogelijkheid tot het vormen van een egalisatiereserve. Indien de subsidiabele kosten hoger uitvallen dan begroot, wordt ten hoogste het verleende subsidiebedrag uitgekeerd. Steekproefsgewijs kan de subsidieverstrekker de opgegeven totalen controleren.
+
+### Hoofdstuk 4. Voorschriften voor subsidieverstrekking van € 125 000 of meer
+
+### Aanwijzing 16. Meldingsplicht en beperking tussentijdse rapportages
+
+### Toelichting:
+
+### Aanwijzing 17. Termijnen
+
+Bij het verstrekken van subsidies worden de volgende termijnen in acht genomen:
+
+### Toelichting:
+
+Bij de termijnen die in de aanwijzingen zijn opgenomen geldt uiteraard dat deze op basis van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden opgeschort met de duur van een eventuele reactietermijn voor de aanvrager c.q. subsidieontvanger voor het aanleveren van door de subsidieverstrekker gevraagde extra informatie.
+
+Voor de subsidieaanvrager is er een maximale termijn van 13 weken opgenomen voor het aanvragen van een vaststellingsbeschikking. Er kan echter voorzien worden, hetzij in de regeling, hetzij in de beschikking, in een afwijkende termijn. Daardoor is het mogelijk om, indien dat noodzakelijk is, een langere termijn vast te stellen. Dat zal met name spelen in gevallen waarin de verantwoording van de subsidie plaatsvindt in de jaarrekening of gezamenlijk met andere subsidies volgens het Single Information Single Audit principe.
+
+Bij het verstrekken van subsidies worden de volgende voorschriften inzake betalingen en bevoorschotting in acht genomen:
+
+### Toelichting:
+
+Voorschotten worden automatisch (ambtshalve) verstrekt volgens het in de subsidieregeling of de verleningsbeschikking opgenomen bevoorschottingsritme. De subsidieaanvrager hoeft geen aanvra(a)g(en) voor bevoorschotting in te dienen (de bevoorschottingsbeschikking wordt ambtshalve gegeven op het moment van de verleningsbeschikking) of tussentijdse overzichten van prestaties of kosten en opbrengsten te overleggen. De subsidieontvanger is verplicht te melden indien er omstandigheden zijn die van invloed zijn op de hoogte van het verleende bedrag. De subsidieverstrekker kan vervolgens, indien nodig door een wijziging van de verleningsbeschikking het bevoorschottingsritme en de hoogte van de voorschotten aanpassen. Na vaststelling van de subsidie wordt het resterende bedrag (het vastgestelde bedrag verminderd met de verleende voorschotten), uitgekeerd aan de subsidieontvanger.
+
+### Aanwijzing 19. Uniforme berekeningswijzen uurtarieven
+
+### Toelichting:
+
+### Hoofdstuk 6. Tegengaan van misbruik en borging rechtmatigheid
+
+### Aanwijzing 20. Tegengaan van misbruik en borging rechtmatigheid
+
+### Toelichting:
 
 De aandacht in de controle verschuift naar de risicogebieden en -groepen, en naar de uitzonderingen. Bij de risicoanalyse kunnen onder meer de doelgroep van subsidieontvangers, het type regeling en de hoogte van het subsidiebedrag in beschouwing worden genomen.
 
