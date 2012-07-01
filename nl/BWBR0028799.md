@@ -4,7 +4,7 @@ identifier: "BWBR0028799"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2012-07-01"
-last_updated: "2010-10-10"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028799"
 soort: "ministeriele-regeling-BES"
@@ -40,6 +40,8 @@ Gelet op [artikel 4, eerste lid, van de Wet financiën openbare lichamen Bonaire
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de hoofdstukken I tot en met III van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba in werking treden.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
@@ -56,15 +58,13 @@ Aan het College financieel toezicht wordt mandaat verleend tot:
 
 - a. het verlenen van goedkeuring aan besluiten als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=10), en [27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=27);
 
-- b. het verstrekken van verklaringen van geen bezwaar jegens het benoemen of herbenoemen van vertegenwoordigers van een bestuurscollege of een openbaar lichaam in een privaatrechtelijke rechtspersoon als bedoeld in [artikel 9, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=9);
+- b. het toestaan van een tekort op de begroting of een overschrijding van de rentelastnorm in gevallen, bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=21);
 
-- c. het toestaan van een tekort op de begroting of een overschrijding van de rentelastnorm in gevallen, bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=21);
-
-- d. het verlenen van toestemming als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=24) tot het aangaan van verplichtingen de niet voorzien zijn in een goedgekeurde begroting, een goedgekeurde wijziging van de begroting dan wel in een door de minister overeenkomstig [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=20) vastgestelde begroting.
+- c. het verlenen van toestemming als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=24) tot het aangaan van verplichtingen de niet voorzien zijn in een goedgekeurde begroting, een goedgekeurde wijziging van de begroting dan wel in een door de minister overeenkomstig [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=20) vastgestelde begroting.
 
 ##### Artikel 3
 
-Het mandaat van het College financieel toezicht is niet van toepassing op het onthouden van goedkeuring, het weigeren van verklaringen van geen bezwaar en het weigeren van toestemming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028799&artikel=2&z=2010-10-10&g=2010-10-10).
+Het mandaat van het College financieel toezicht is niet van toepassing op het onthouden van goedkeuring, het weigeren van verklaringen van geen bezwaar en het weigeren van toestemming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028799&artikel=2&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 4
 
