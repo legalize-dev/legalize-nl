@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2012-01-01&g=2012-01-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2012-07-01&g=2012-07-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -124,9 +124,9 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 - e. cijferlijsten en beoordelingen van studieresultaten, praktijkperioden of -stages, en dergelijke, van de aanvrager;
 
-- f. indien in het land van herkomst een door een overheidsorgaan of een organisatie van beoefenaren van het desbetreffende beroep ingesteld register in stand wordt gehouden: een bewijs van inschrijving van de aanvrager in dat register, niet ouder dan zes maanden;
+- f. indien in het land van herkomst een door een overheidsorgaan of een organisatie van beoefenaren van het desbetreffende beroep ingesteld register in stand wordt gehouden: een bewijs van inschrijving van de aanvrager in dat register, niet ouder dan drie maanden;
 
-- g. een document waaruit blijkt dat ten aanzien van de aanvrager geen beslissing als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42), dan wel in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van kracht is;
+- g. een document niet ouder dan drie maanden, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
 
 - h. bewijsstukken van eventuele beroepservaring.
 
@@ -134,9 +134,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2012-01-01&g=2012-01-01).
-
-2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2012-01-01&g=2012-01-01).
+Vervallen
 
 ##### Artikel 9
 
@@ -154,7 +152,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2012-01-01&g=2012-01-01).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2012-07-01&g=2012-07-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
