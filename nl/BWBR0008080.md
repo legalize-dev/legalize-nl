@@ -4,7 +4,7 @@ identifier: "BWBR0008080"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-11-23"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008080"
 soort: "AMvB"
@@ -92,11 +92,11 @@ Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen
 
 - e. met munitie behorend bij toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten, voor zover gebruikt ten behoeve van beroep of onderneming, in een hoeveelheid van ten hoogste 10 000 stuks munitie onderscheidenlijk drie kilogram ontplofbare stof;
 
-- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-11-23&g=2007-11-23) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
+- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
 
 - g. anders dan ten behoeve van beroep of onderneming, met gevaarlijke stoffen die geschikt en bestemd zijn voor eigen huishoudelijk gebruik, in hoeveelheden die daarmee redelijkerwijs in overeenstemming zijn; of
 
-- h. met verpakt of onverpakt consumentenvuurwerk als bedoeld in het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360), voor eigen gebruik, in een hoeveelheid van ten hoogste 10 kilogram per vervoermiddel.
+- h. met verpakt of onverpakt consumentenvuurwerk als bedoeld in het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360), voor eigen gebruik, in een hoeveelheid van ten hoogste 25 kilogram per vervoermiddel.
 
 2. Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), is toegestaan, voor zover het betreft handelingen met:
 
@@ -124,7 +124,7 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 - 6°. de verpakkingen, of
 
-- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-11-23&g=2007-11-23).
+- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01).
 
 4. De in het eerste, tweede en derde lid bedoelde handelingen zijn uitsluitend toegestaan, indien op een wijze die in overeenstemming is met de gevaarzetting van de desbetreffende gevaarlijke stof:
 
