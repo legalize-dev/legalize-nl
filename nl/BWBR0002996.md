@@ -4,7 +4,7 @@ identifier: "BWBR0002996"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002996"
 soort: "AMvB"
@@ -62,13 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De bedragen, die ten hoogste uit het fonds kunnen worden uitgekeerd, worden vastgesteld als volgt:
-
-- a. Indien de uitkering aan het slachtoffer, onderscheidenlijk diens nabestaanden, betrekking heeft op vermogensschade: € 22 700;
-
-- b. Indien de uitkering aan het slachtoffer betrekking heeft op andere dan vermogensschade: € 9 100.
-
-2. Onder vermogensschade wordt mede begrepen: de kosten van lijkbezorging, indien het slachtoffer is komen te overlijden ten gevolge van het misdrijf.
+Vervallen
 
 ##### Artikel 3
 
@@ -78,13 +72,7 @@ Vervallen
 
 ##### Artikel 4
 
-1. De meervoudige kamer van de commissie wijst uit haar midden, telkens voor een termijn van twee jaar, een ondervoorzitter aan.
-
-2. Van de aanwijzing van de ondervoorzitter wordt mededeling aan Onze Minister gedaan.
-
-3. Bij belet of ontstentenis wordt de voorzitter vervangen door de ondervoorzitter.
-
-4. Bij belet of ontstentenis van een lid van een enkelvoudige kamer wordt deze door een ander lid van de commissie vervangen.
+Vervallen
 
 ##### Artikel 5
 
@@ -96,9 +84,9 @@ Vervallen
 
 2. De beslissing tot het al dan niet toekennen van een uitkering wordt genomen door de enkelvoudige kamer indien:
 
-- a. het een verzoek betreft dat door haar in behandeling is genomen, en zij de zaak niet naar de meervoudige kamer heeft verwezen;
+- a. het een aanvraag betreft die door haar in behandeling is genomen, en zij de zaak niet naar de meervoudige kamer heeft verwezen;
 
-- b. het een verzoek betreft dat door de meervoudige kamer naar haar is verwezen.
+- b. het een aanvraag betreft die door de meervoudige kamer naar haar is verwezen.
 
 3. In alle gevallen kan een beslissing tot het al dan niet toekennen van een voorlopige uitkering door de enkelvoudige kamer worden genomen.
 
@@ -114,17 +102,15 @@ Vervallen
 
 1. De secretaris bereidt de door de commissie te behandelen en te beslissen zaken voor. Hij wordt daartoe bijgestaan door ambtenaren, die door Onze Minister zijn aangewezen.
 
-2. De secretaris is bij de vergaderingen van de meervoudige kamer van de commissie tegenwoordig en heeft bij de beraadslagingen een adviserende stem.
+2. De secretaris is bij de plenaire bijeenkomsten van de commissie tegenwoordig en heeft bij de beraadslagingen een adviserende stem.
 
 3. De secretaris is belast met de uitvoering van de besluiten van de commissie.
 
 ##### Artikel 10
 
-1. De secretaris bereidt het verslag voor dat de commissie jaarlijks aan Onze Minister uitbrengt over haar werkzaamheden en de aan de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979) gegeven toepassing.
+1. De secretaris bereidt het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), voor.
 
-2. In het verslag wordt onder meer vermeld hoeveel verzoeken om een uitkering de commissie in de verslagperiode hebben bereikt, de aan deze verzoeken gegeven afdoening, de uitgekeerde bedragen, alsmede de bijzondere omstandigheden die de hoogte van de uitkeringen hebben bepaald.
-
-3. Het verslag bevat verder alle opmerkingen die de commissie dienstig acht om een goede uitvoering van de wet te bevorderen.
+2. In het jaarverslag wordt onder meer vermeld hoeveel aanvragen om een uitkering de commissie in de verslagperiode hebben bereikt, de aan deze aanvragen gegeven afdoening, de uitgekeerde bedragen, alsmede de bijzondere omstandigheden die de hoogte van de uitkeringen hebben bepaald.
 
 ##### Artikel 11
 
@@ -134,7 +120,7 @@ Vervallen
 
 Een ieder die door de commissie wordt opgeroepen tot het verstrekken van inlichtingen, ontvangt, voor zover hij aan die oproeping gevolg geeft, vergoeding voor reis- en verblijfkosten, alsmede vergoeding voor tijdverzuim, op de voet van het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde.
 
-#### § 2a. Werkwijze van het fonds bij verzoeken tot uitkering en de procedure van afhandeling daarvan in grensoverschrijdende situaties
+#### § 2a. Werkwijze van het fonds bij verzoeken tot uitkering en de procedure van afhandeling daarvan bij grensoverschrijdende situaties binnen de Europese Unie
 
 ##### Artikel 13
 
@@ -150,29 +136,29 @@ Lasten en bevelen, dat dit besluit, met de nota van toelichting, in het **Staats
 
 1. Op verzoek van de aanvrager draagt het fonds zorg voor:
 
-- a. het verstrekken van informatie over de mogelijkheden om te verzoeken om een uitkering;
+- a. het verstrekken van informatie over de mogelijkheden om een aanvraag voor een uitkering te doen;
 
 - b. de vereiste aanvraagformulieren alsmede informatie over het invullen daarvan;
 
-- c. het zo spoedig mogelijk verzenden van een verzoek en eventuele bijgevoegde stukken naar de bevoegde instantie van de desbetreffende lidstaat;
+- c. het zo spoedig mogelijk verzenden van een aanvraag en eventuele bijgevoegde stukken naar de bevoegde instantie van de desbetreffende lidstaat;
 
 - d. het verstrekken van algemene raad, indien nodig, over aanvullende informatie waar de bevoegde instantie van de desbetreffende lidstaat om verzoekt en het zo spoedig mogelijk verzenden van die aanvullende informatie.
 
-2. Het fonds verstrekt het verzoek, de stukken en informatie, bedoeld in het eerste lid, onder c en d, in de officiële taal of een van de talen van de lidstaat van de instantie tot welke het verzoek, de stukken en informatie zijn gericht, die een taal van de instellingen van de Gemeenschap is, of in een andere taal van de instellingen van de Gemeenschap waarvan die lidstaat heeft aangegeven dat hij deze kan aanvaarden.
+2. Het fonds verstrekt de aanvraag, de stukken en informatie, bedoeld in het eerste lid, onder c en d, in de officiële taal of een van de talen van de lidstaat van de instantie tot welke de aanvraag, de stukken en informatie zijn gericht, die een taal van de instellingen van de Unie is, of in een andere taal van de instellingen van de Unie waarvan die lidstaat heeft aangegeven dat hij deze kan aanvaarden.
 
 ##### Artikel 12b
 
-1. Na ontvangst door het fonds van een verzoek tot uitkering van de bevoegde instantie uit een andere lidstaat, zendt het fonds die instantie en de aanvrager zo spoedig mogelijk de volgende informatie:
+1. Na ontvangst door het fonds van een aanvraag tot uitkering van de bevoegde instantie uit een andere lidstaat, zendt het fonds die instantie en de aanvrager zo spoedig mogelijk de volgende informatie:
 
 - a. een bevestiging van ontvangst van de aanvraag;
 
-- b. de naam van de voor de afhandeling van het verzoek verantwoordelijke contactpersoon of afdeling;
+- b. de naam van de voor de afhandeling van de aanvraag verantwoordelijke contactpersoon of afdeling;
 
 - c. indien mogelijk, een indicatie van de verwachte beslissingstermijn.
 
-2. Op de in het eerste lid bedoelde informatie is [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002996&paragraaf=2a&artikel=12a&z=2006-01-01&g=2006-01-01), van overeenkomstige toepassing.
+2. Op de in het eerste lid bedoelde informatie is [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002996&paragraaf=2a&artikel=12a&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing.
 
-3. Het fonds zendt de beslissing op het verzoek zo spoedig mogelijk aan de aanvrager en aan de bevoegde instantie bedoeld in het eerste lid.
+3. Het fonds zendt de beslissing op de aanvraag zo spoedig mogelijk aan de aanvrager en aan de bevoegde instantie bedoeld in het eerste lid.
 
 ##### Artikel 12c
 
