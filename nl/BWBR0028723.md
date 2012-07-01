@@ -4,7 +4,7 @@ identifier: "BWBR0028723"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2023-07-07"
-last_updated: "2011-10-09"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028723"
 soort: "AMvB-BES"
@@ -41,7 +41,7 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **feestdagen:** hetgeen daaronder wordt verstaan in [artikel 37, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) wordt verstaan;
+- a. **feestdagen:** hetgeen daaronder wordt verstaan in [artikel 37, onderdeel j, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) wordt verstaan;
 
 - b. **diensturen:** het totaal van de werk-, wacht- en beschikbaarheidsuren;
 
@@ -103,7 +103,7 @@ Aan de ambtenaar, die niet in wachtdienst werkzaam is, wordt in beginsel op zond
 
 ##### Artikel 5
 
-Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2011-10-09&g=2011-10-09) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
+Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2012-07-01&g=2012-07-01) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
 
 ## Overwerk
 
@@ -119,15 +119,13 @@ Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feest
 
 ##### Artikel 7
 
-De ambtenaar op wie de verplichting rust buiten de voor hem geldende diensturen ter beschikking te zijn ten behoeve van het brandweerkorps, heeft aanspraak op een vergoeding welke in hoogte kan verschillen per vestiging van het brandweerkorps. Het ter beschikking zijn wordt aangeduid met paraatheid.
+Vervallen
 
 ## Continudiensttoelage
 
 ##### Artikel 8
 
-1. De ambtenaar op Bonaire en Sint Eustatius die ingevolge het voor hem geldende werkrooster in vol- dan wel halfcontinudienst werkzaam is, ontvangt onder voorwaarden door Onze Minister te bepalen, een continudiensttoelage welke in hoogte kan verschillen per vestiging van het brandweerkorps.
-
-2. De ambtenaar wordt geacht in volcontinudienst werkzaam te zijn, indien hij ingevolge het voor hem geldende werkrooster regelmatig rouleert in dag-, avond- en nachtdienst en in halfcontinudienst indien hij regelmatig rouleert in dag- en avonddienst.
+Vervallen
 
 ## Meerurentoelage
 
