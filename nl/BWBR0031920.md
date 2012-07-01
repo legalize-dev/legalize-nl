@@ -258,39 +258,3 @@ Niet opgenomen.
 Niet opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2. (beroepsaansprakelijkheidsverzekering – BAV)
-
-De beroepsaansprakelijkheidsverzekering (BAV), bedoeld in [artikel 3:24 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:24) en [artikel 4:47 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:47), dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of de gevolmachtigd agent of ondergevolmachtigd agent voor een bedrag van ten minste USD 50.000 per jaar.
-
-### Hoofdstuk 3. Nadere regels van de AFM en DNB met betrekking tot de integere en beheerste bedrijfsuitoefening
-
-#### § 3.1. Nadere regels van de AFM en DNB met betrekking tot de integere bedrijfsuitoefening
-
-#### § 3.2. Nadere regels van DNB met betrekking tot de integere en beheerste bedrijfsuitoefening
-
-#### § 3.3. Sanctiewetgeving
-
-##### Artikel 6. (meldingsplicht aan DNB op grond van de sanctiewetgeving)
-
-1. Een melding door een financiële onderneming op grond van [artikel 3.13, eerste lid, van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.13) dat de identiteit van een relatie overeenkomt met een natuurlijk persoon, rechtspersoon of entiteit als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de [Sanctieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029611) (Stcrt. 2011, 2873) en de op grond van die wet vastgestelde sanctieregelingen en sanctiebesluiten met betrekking tot het financieel verkeer, geschiedt door middel van het daartoe door DNB vastgestelde **Meldformat**.
-
-2. De melding aan DNB geschiedt zo spoedig mogelijk nadat de financiële onderneming een overeenkomst als bedoeld in het eerste lid (dat wil zeggen een ‘hit’) heeft geconstateerd, onder opgave van alle in het **Meldformat** opgenomen gegevens, voor zover deze van toepassing zijn. Bij de melding geeft de financiële onderneming tevens aan op basis van welke sanctieregeling of sanctiebesluit zij de melding doet.
-
-### Hoofdstuk 4. Nadere voorschriften van DNB op het gebied van het prudentieel toezicht
-
-#### § 4.1. Prudentiële voorschriften met betrekking tot kredietinstellingen
-
-#### § 4.3. Prudentiële voorschriften met betrekking tot financiële groepen
-
-### Hoofdstuk 5. Slotbepalingen
-
-## Bijlage 3
-
-Niet opgenomen.
-
-## Bijlage 4
-
-Niet opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
