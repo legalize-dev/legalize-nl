@@ -114,23 +114,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet allocati
 |   |   | voorschriften in hoofdstuk 2 Arbeidsbemiddeling, terbeschikkingstelling van arbeidskrachten in de zeevaart van het [Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031973) | € 1.500 |
 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Het boetenormbedrag voor overtreding van [artikel 7a, eerste lid of tweede lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a) wordt met 50% verhoogd, indien zich ten minste één van de volgende situaties voordoet:
-
-- a. in de vijf jaar voorafgaand aan de overtreding is eerder een overtreding van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) geconstateerd ten aanzien van de onderneming of de inlener;
-
-- b. de overtreding is begaan door een rechtspersoon, of daarmee gelijkgestelde, waarvan een wettelijk vertegenwoordiger eerder wettelijk vertegenwoordiger was van een andere rechtspersoon, of daarmee gelijkgestelde, ten aanzien waarvan een overtreding van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) is geconstateerd, en waarvan de bedrijfsactiviteiten of de locatie waar of van waaruit de werkzaamheden worden verricht dezelfde zijn gebleven.
-
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034835&artikel=1&z=2018-10-01&g=2018-10-01) van de Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014
-
-| Artikel | Lid | Overtreding | Boetenormbedrag |
-| --- | --- | --- | --- |
-| 7a | 1 | Verbod ter beschikking stellen arbeidskrachten zonder registratie Handelsregister | minder dan tien ter beschikking gestelde arbeidskrachten: € 8.000 tien maar minder dan 30 ter beschikking gestelde arbeidskrachten: € 16.000 dertig of meer ter beschikking gestelde arbeidskrachten: € 32.000 |
-|   | 1 | Verbod ter beschikking stellen arbeidskrachten zonder registratie Handelsregister door een besloten vennootschap die uitsluitend haar bestuurder als arbeidskracht ter beschikking stelt, als de bestuurder (indien van toepassing: tezamen met zijn echtgenoot) eigenaar is van 90% of meer van de aandelen van die vennootschap | Nihil |
-|   | 2 | Verbod inlenen arbeidskrachten van onderneming/rechtspersoon zonder registratie Handelsregister | minder dan tien ter beschikking gestelde arbeidskrachten: € 8.000 tien maar minder dan 30 ter beschikking gestelde arbeidskrachten: € 16.000 dertig of meer ter beschikking gestelde arbeidskrachten: € 32.000 |
-|   | 2 | Verbod inlenen arbeidskrachten van onderneming/rechtspersoon zonder registratie Handelsregister bij een besloten vennootschap die uitsluitend haar bestuurder als arbeidskracht ter beschikking stelt, als de bestuurder (indien van toepassing: tezamen met zijn echtgenoot) eigenaar is van 90% of meer van de aandelen van die vennootschap | Nihil |
-| 7b |   | Overtreding van de voorschriften in [hoofdstuk 2 (arbeidsbemiddeling, terbeschikkingstelling van arbeidskrachten in de zeevaart) van het Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031973&hoofdstuk=2) | € 1.500 |
-
-Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
