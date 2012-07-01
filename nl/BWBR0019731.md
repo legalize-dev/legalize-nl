@@ -4,7 +4,7 @@ identifier: "BWBR0019731"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2007-10-28"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019731"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een op grond van [artikel 5:26 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) erkende effectenbeurs of op een in een andere lidstaat van de Europese Unie gevestigde gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) , wordt mededeling gedaan omtrent:
+1. In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt mededeling gedaan omtrent:
 
 - a. de kapitaalstructuur van de vennootschap, het bestaan van verschillende soorten aandelen en de daaraan verbonden rechten en plichten en het percentage van het geplaatste kapitaal dat door elke soort wordt vertegenwoordigd;
 
