@@ -4,7 +4,7 @@ identifier: "BWBR0028254"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2012-07-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028254"
 soort: "wet-BES"
@@ -47,9 +47,9 @@ Voor de toepassing van deze wet worden verstaan onder:
 
 - **benadeelden:** zij die schade hebben geleden welke grond oplevert voor toepassing van deze wet, alsmede hun rechtverkrijgenden;
 
-- **vergunning:** de vergunning die ingevolge [artikel 9, eerste lid, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=9) is vereist voor de schadegroep Motorrijtuigverzekering;
+- **vergunning:** vergunning die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is vereist voor de branche motorrijtuigverzekering;
 
-- **verzekeraar:** de verzekeringsonderneming die ingevolge de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) het verzekeringsbedrijf in de schadegroep Motorrijtuigverzekering mag uitoefenen;
+- **verzekeraar:** onderneming die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) het bedrijf van schadeverzekeraar in de branche motorrijtuigverzekering mag uitoefenen;
 
 - **weg:** voor het openbaar verkeer openstaand pad, verharde of onverharde rijbaan met inbegrip van de middenberm of middengeleiding, de parkeerstroken en parkeerhavens en vluchtstroken alsmede de in de weg gelegen bruggen en de naast de rijbaan gelegen paden, bermen en zijkanten;
 
@@ -61,7 +61,7 @@ Voor de toepassing van deze wet worden verstaan onder:
 
 2. De verplichting tot verzekering rust op de bezitter van het motorrijtuig, tenzij dit in duurzaam gebruik is bij een houder; in dat geval rust de verplichting op deze houder.
 
-3. De verzekering moet zijn gesloten bij een verzekeraar als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=1&z=2012-01-01&g=2012-01-01).
+3. De verzekering moet zijn gesloten bij een verzekeraar als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=1&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 3
 
@@ -115,7 +115,7 @@ De verzekerden moeten van ieder ongeval waarvan zij kennis dragen, mededeling do
 
 ##### Artikel 10
 
-1. Geen uit de wettelijke bepalingen omtrent de verzekeringsovereenkomst of uit deze overeenkomst zelf voortvloeiende nietigheid, verweer of verval kan door een verzekeraar aan een benadeelde worden tegengeworpen. Het bepaalde in de vorige zin geldt niet met betrekking tot het bedrag, waarmede het van de verzekeraar gevorderde de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=14&z=2012-01-01&g=2012-01-01) vastgestelde som of sommen overschrijdt.
+1. Geen uit de wettelijke bepalingen omtrent de verzekeringsovereenkomst of uit deze overeenkomst zelf voortvloeiende nietigheid, verweer of verval kan door een verzekeraar aan een benadeelde worden tegengeworpen. Het bepaalde in de vorige zin geldt niet met betrekking tot het bedrag, waarmede het van de verzekeraar gevorderde de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=14&z=2012-07-01&g=2012-07-01) vastgestelde som of sommen overschrijdt.
 
 2. De verzekeraar die ingevolge deze wet de schade van een benadeelde geheel of ten dele vergoedt, ofschoon de aansprakelijkheid voor die schade niet door een met hem gesloten overeenkomst was gedekt, heeft voor het bedrag der schadevergoeding verhaal op de aansprakelijke persoon, en indien daartoe grond bestaat, op de verzekeringnemer.
 
@@ -133,11 +133,11 @@ Tot verhaal van de schadevergoeding op de verzekeringnemer bestaat geen grond, i
 
 ##### Artikel 12
 
-1. De houder van een bewijs als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-01-01&g=2012-01-01), waarvan de geldigheidsduur nog niet is verstreken, is verplicht dit binnen acht dagen nadat de verplichting tot verzekering met betrekking tot het motorrijtuig op een ander overgegaan is, bij de verzekeraar door wie het werd uitgereikt in te leveren.
+1. De houder van een bewijs als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-07-01&g=2012-07-01), waarvan de geldigheidsduur nog niet is verstreken, is verplicht dit binnen acht dagen nadat de verplichting tot verzekering met betrekking tot het motorrijtuig op een ander overgegaan is, bij de verzekeraar door wie het werd uitgereikt in te leveren.
 
 2. De verzekering eindigt, wanneer de verplichting tot verzekering op een ander overgaat, met dien verstande dat de verplichtingen van de verzekeraar jegens een benadeelde blijven bestaan zolang het verzekeringsbewijs niet bij de verzekeraar is ingeleverd, behoudens het gestelde in het volgende lid.
 
-3. De verplichtingen van de verzekeraar eindigen van rechtswege door het van kracht worden van een nieuwe verzekering welke met betrekking tot hetzelfde motorrijtuig het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=3&z=2012-01-01&g=2012-01-01) bedoelde risico dekt. In ieder geval zullen de verplichtingen van de verzekeraar jegens de benadeelden geëindigd zijn na het verstrijken van zestien dagen nadat de verplichting tot verzekering op een ander overgegaan is.
+3. De verplichtingen van de verzekeraar eindigen van rechtswege door het van kracht worden van een nieuwe verzekering welke met betrekking tot hetzelfde motorrijtuig het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=3&z=2012-07-01&g=2012-07-01) bedoelde risico dekt. In ieder geval zullen de verplichtingen van de verzekeraar jegens de benadeelden geëindigd zijn na het verstrijken van zestien dagen nadat de verplichting tot verzekering op een ander overgegaan is.
 
 ##### Artikel 13
 
@@ -179,7 +179,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 20
 
-1. De [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=5&z=2012-01-01&g=2012-01-01) blijven van toepassing op een verzekeringsonderneming met betrekking tot de schade tengevolge van een ongeval dat heeft plaatsgevonden voor of binnen 30 dagen na de datum van intrekking van de vergunning.
+1. De [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=5&z=2012-07-01&g=2012-07-01) blijven van toepassing op een verzekeringsonderneming met betrekking tot de schade tengevolge van een ongeval dat heeft plaatsgevonden voor of binnen 30 dagen na de datum van intrekking van de vergunning.
 
 2. Degene die met een verzekeringsonderneming die niet of niet meer in het bezit is van een vergunning, een verzekering heeft gesloten ter dekking van de wettelijke aansprakelijkheid waartoe een motorrijtuig in het verkeer aanleiding kan geven, is bevoegd deze verzekering door opzegging te beëindigen. De verzekeringsonderneming geeft alsdan de vooruitbetaalde premie terug voor het gedeelte dat evenredig is aan het op de datum van de ontvangst der opzegging nog niet verstreken gedeelte van de termijn waarvoor de premie werd betaald, onder aftrek van een door de Nederlandsche Bank N.V. te bepalen percentage van het terug te betalen bedrag aan onkosten.
 
@@ -195,7 +195,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren.
 
-2. Op de eerste vordering van een ambtenaar als bedoeld in het eerste lid, is de bestuurder van een motorrijtuig verplicht dit te doen stil houden en het document, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-01-01&g=2012-01-01), behoorlijk ter inzage af te geven.
+2. Op de eerste vordering van een ambtenaar als bedoeld in het eerste lid, is de bestuurder van een motorrijtuig verplicht dit te doen stil houden en het document, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-07-01&g=2012-07-01), behoorlijk ter inzage af te geven.
 
 ## Verbods- en strafbepalingen
 
@@ -211,7 +211,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 23
 
-Handelen in strijd met [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-01-01&g=2012-01-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=12&z=2012-01-01&g=2012-01-01), wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van ten hoogste USD 84,–.
+Handelen in strijd met [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-07-01&g=2012-07-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=12&z=2012-07-01&g=2012-07-01), wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van ten hoogste USD 84,–.
 
 ##### Artikel 24
 
@@ -237,7 +237,7 @@ Voor de uitvoering van deze wet kunnen bij of krachtens algemene maatregel van b
 
 ##### Artikel 29
 
-De vergunning bedoeld in [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=4&z=2012-01-01&g=2012-01-01) kan slechts worden verleend, indien wordt aangetoond, dat maatregelen zijn getroffen ter voorkoming van deelneming aan de wedstrijd zonder dat de wettelijke aansprakelijkheid voor de schade waartoe het gebruik van een motorrijtuig tijdens de wedstrijd aanleiding kan geven, is gedekt door een verzekering overeenkomstig deze wet; de verzekering dient mede te dekken de aansprakelijkheid van degenen die de wedstrijd organiseren.
+De vergunning bedoeld in [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=4&z=2012-07-01&g=2012-07-01) kan slechts worden verleend, indien wordt aangetoond, dat maatregelen zijn getroffen ter voorkoming van deelneming aan de wedstrijd zonder dat de wettelijke aansprakelijkheid voor de schade waartoe het gebruik van een motorrijtuig tijdens de wedstrijd aanleiding kan geven, is gedekt door een verzekering overeenkomstig deze wet; de verzekering dient mede te dekken de aansprakelijkheid van degenen die de wedstrijd organiseren.
 
 ##### Artikel 30
 
@@ -249,6 +249,6 @@ Deze wet wordt aangehaald als: Wet aansprakelijkheidsverzekering motorrijtuigen 
 
 ##### Artikel 32
 
-1. De [artikelen 15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=15&z=2012-01-01&g=2012-01-01) van deze wet treden in werking met ingang van een daartoe bij afzonderlijk koninklijk besluit te bepalen tijdstip.
+1. De [artikelen 15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=15&z=2012-07-01&g=2012-07-01) van deze wet treden in werking met ingang van een daartoe bij afzonderlijk koninklijk besluit te bepalen tijdstip.
 
-2. Het fonds is niet aansprakelijk voor schade, ontstaan uit feiten die hebben plaatsgevonden vóór de datum van inwerkingtreding van de [artikelen 15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=15&z=2012-01-01&g=2012-01-01).
+2. Het fonds is niet aansprakelijk voor schade, ontstaan uit feiten die hebben plaatsgevonden vóór de datum van inwerkingtreding van de [artikelen 15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=15&z=2012-07-01&g=2012-07-01).
