@@ -4,7 +4,7 @@ identifier: "BWBR0031536"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-06-30"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031536"
 soort: "wet"
@@ -45,26 +45,30 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet milieubeheer.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel III
 
-Inrichtingen als bedoeld in [artikel 1.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn opgenomen op de lijst, bedoeld in [artikel 16.24, tweede lid, onder a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.24), zoals dat artikel komt te luiden na inwerkingtreding van [artikel I, onder B, onder 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031536&artikel=I&z=2012-07-01&g=2011-06-30), van deze wet, en die op 30 juni 2011 nog niet beschikten over een vergunning op grond van [artikel 16.5, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), worden voor de toepassing van [artikel 16.13a, eerste lid, aanhef en onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.13a), en van [subparagraaf 16.2.1.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&paragraaf=16.2.1.3), zoals dat artikel onderscheidenlijk die subparagraaf komen te luiden na inwerkingtreding van artikel I, onder B, onder 15, 25, 26, 27 en 28, van deze wet, met ingang van 30 juni 2011 en tot en met 31 december 2012 aangemerkt als inrichtingen die beschikken over een vergunning op grond van artikel 16.5, eerste lid, van de Wet milieubeheer.
+Inrichtingen als bedoeld in [artikel 1.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn opgenomen op de lijst, bedoeld in [artikel 16.24, tweede lid, onder a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.24), zoals dat artikel komt te luiden na inwerkingtreding van [artikel I, onder B, onder 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031536&artikel=I&z=2012-07-01&g=2012-07-01), van deze wet, en die op 30 juni 2011 nog niet beschikten over een vergunning op grond van [artikel 16.5, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), worden voor de toepassing van [artikel 16.13a, eerste lid, aanhef en onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.13a), en van [subparagraaf 16.2.1.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&paragraaf=16.2.1.3), zoals dat artikel onderscheidenlijk die subparagraaf komen te luiden na inwerkingtreding van artikel I, onder B, onder 15, 25, 26, 27 en 28, van deze wet, met ingang van 30 juni 2011 en tot en met 31 december 2012 aangemerkt als inrichtingen die beschikken over een vergunning op grond van artikel 16.5, eerste lid, van de Wet milieubeheer.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het recht zoals dat luidde voor de inwerkingtreding van deze wet blijft van toepassing op emissies van broeikasgassen, veroorzaakt in de periode tot 1 januari 2013 en op broeikasgasemissierechten als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn of worden toegewezen en verleend of geveild voor de periode tot 1 januari 2013.
+
+2. In afwijking van het eerste lid zijn op de in dat lid bedoelde emissies en broeikasgasemissierechten met ingang van het tijdstip van inwerkingtreding van [artikel I, onder B, onder 9, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22 en 23](https://wetten.overheid.nl/jci1.3:c:BWBR0031536&artikel=I&z=2012-07-01&g=2012-07-01), van deze wet van toepassing de [artikelen 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), [16.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.11a), [16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.12), [16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.13), [16.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.13a), [16.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.16), [16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.17), [16.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.19), [16.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20), [16.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20a), [16.20c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20c) en [16.21 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.21), zoals die vanaf dat tijdstip luiden.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Na de inwerkingtreding van [artikel I, onder B, onder 12 en 13](https://wetten.overheid.nl/jci1.3:c:BWBR0031536&artikel=I&z=2012-07-01&g=2012-07-01), van deze wet berust de [Regeling monitoring handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017699) mede op de [artikelen 16.11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.11a), en [16.12, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.12), zoals die artikelen komen te luiden na inwerkingtreding van genoemde onderdelen van deze wet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031536&artikel=III&z=2012-07-01&g=2012-07-01) van deze wet werkt terug tot en met 30 juni 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
