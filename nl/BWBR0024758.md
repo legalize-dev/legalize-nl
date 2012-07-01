@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2011-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -124,11 +124,11 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 1. Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=57), bedraagt:
 
-- a. € 97,07 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,
+- a. € 97,26 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,
 
-- b. € 145,61 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,
+- b. € 145,89 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,
 
-- c. € 194,14 per uur, indien het onderzoek plaatsvindt op zondag.
+- c. € 194,52 per uur, indien het onderzoek plaatsvindt op zondag.
 
 2. Het aantal uren, bedoeld in het eerste lid, dat in rekening wordt gebracht, bedraagt niet meer dan:
 
@@ -138,9 +138,9 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2011-07-01&g=2011-07-01), bedraagt € 97,07.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01), bedraagt € 97,26.
 
-4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,27 per kwartier.
+4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,32 per kwartier.
 
 #### § 3. Certificaten van inenting
 
@@ -162,7 +162,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2011-07-01&g=2011-07-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2012-07-01&g=2012-07-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -172,7 +172,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2011-07-01&g=2011-07-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2012-07-01&g=2012-07-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -204,7 +204,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2011-07-01&g=2011-07-01) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
