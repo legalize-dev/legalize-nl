@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2012-01-01&g=2012-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2012-07-01&g=2012-07-01), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -60,7 +60,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2012-01-01&g=2012-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2012-07-01&g=2012-07-01), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -86,19 +86,11 @@ Deze regeling wordt aangehaald als: Aanwijzingsregeling willekeurige afschrijvin
 
 Toelichting: Structuurverbetering van de (producten van) bioplastics met natuurlijke vezels is toegestaan. De biologische afbreekbaarheid of composteerbaarheid van die vezels hoeft niet te worden aangetoond. Als de plastic grondstoffen niet biologisch afbreekbaar of composteerbaar zijn volgens NEN-EN 13432:2000, maar wel van biologische oorsprong, kan de investering wellicht in aanmerking komen onder F 1003.
 
-**F 1001**
-
-**Test- of pilotinstallatie voor een innovatieve milieuvriendelijke techniek**
-
-Het bedrijfsmiddel komt voor ten hoogste € 1.000.000 van het investeringsbedrag in aanmerking voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.
-
-Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Voor informatie over generieke bedrijfsmiddelen zie punt 7 van de Algemene bepalingen (paragraaf 1 van de Milieulijst). Wij adviseren u gezien de eisen die aan generieke bedrijfsmiddelen worden gesteld, voorafgaand aan een melding de MIA\Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder uw investering kan voldoen, bevestigen wij desgewenst schriftelijk.
-
 **F 1003**
 
 **Productieapparatuur voor (half)producten op basis van groene grondstoffen**
 
-Toelichting: Wij adviseren u gezien de eisen die aan dit bedrijfsmiddel worden gesteld, voorafgaand aan een melding de MIA\Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder uw investering kan voldoen, bevestigen wij desgewenst schriftelijk.
+Toelichting: Dit is een zogenoemd generiek bedrijfsmiddel. Voor informatie over generieke bedrijfsmiddelen: zie punt 7 van de Algemene bepalingen (paragraaf 1 van de Milieulijst). Wij adviseren u gezien de eisen die aan dit bedrijfsmiddel worden gesteld, voorafgaand aan een melding de MIA\Vamil-helpdesk te bellen voor overleg. De voorwaarden waaronder uw investering kan voldoen, bevestigen wij desgewenst schriftelijk.
 
 U kunt bij dit bedrijfsmiddel denken aan raffinage van biomassastromen (zoals gras), biochemie, natuurlijke vezels of verwerking van mest tot bijvoorbeeld kunstmest, zolang het geen gangbare toepassing is en een niet hernieuwbare toepassing vervangt.
 
@@ -776,13 +768,15 @@ Toelichting: Bij een indirect systeem komen het medium en het te koelen, te drog
 
 Toelichting: ICAO staat voor International Civil Aviation Organization.
 
-**B 4161**
+**A 4161**
 
-**Geluidarme opbouw voor gekoelde bakwagen, trekker, oplegger, aanhanger of bestelwagen**
+**Geluidarme opbouw voor een gekoelde aanhanger, bakwagen, bestelwagen of oplegger**
 
 **A 4162**
 
-**Motorgeluidreducerende voorzieningen voor een bakwagen, trekker of bestelwagen**
+**Stille bakwagen of trekker**
+
+Toelichting: Trekkers of bakwagens met een hybride aandrijving kunnen worden gemeld onder bedrijfsmiddelcode B 5075. Elektrisch aangedreven bakwagens of elektrisch aangedreven trekkers kunnen worden gemeld onder bedrijfsmiddelcode F 5070.
 
 **B 4170**
 
@@ -840,7 +834,7 @@ Toelichting: Onder code F 5070 kunnen worden gemeld alle volledig elektrische pe
 
 **Zeer zuinige personenauto**
 
-Toelichting: Bedrijven die auto's met een benzinemotor of met een hybride aandrijving aanschaffen kunnen hun investering hieronder melden als de CO2-uitstoot per kilometer lager of gelijk is dan 102 gram. Plug-in hybrides waarvan de CO2-uitstoot minder is dan 50 gram per kilometer en elektrische voertuigen kunnen worden gemeld onder F 5070.
+Toelichting: Bedrijven die auto's met een benzinemotor aanschaffen kunnen hun investering hieronder melden als de CO2-uitstoot per kilometer lager of gelijk is dan 102 gram. Plug-in hybrides waarvan de CO2-uitstoot minder is dan 50 gram per kilometer en elektrische voertuigen kunnen worden gemeld onder F 5070.
 
 **F 5077**
 
@@ -1678,23 +1672,23 @@ Toelichting: Investeringen in een koude-warmteopslagsysteem of aanverwante insta
 
 **Onderzuigapparatuur voor sanering of verlaging van bodems**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 **B 9114**
 
 **Baggerspeciereinigingssysteem voor (an)organische verontreinigingen**
 
 **A 9121**
 
-**Moerasbed- of helofytenfilter**
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+**Moerasbed- of helofytenfilter**
 
 Toelichting: Moerasbed- of helofytenfilters die gebruikt worden voor het zuiveren van afvalwater of effluent komen niet in aanmerking.
 
 **B 9130**
 
 **Bioreactor met verminderde slibretentie voor stikstofverwijdering**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **B 9131**
 
@@ -1759,6 +1753,10 @@ Toelichting: Moerasbed- of helofytenfilters die gebruikt worden voor het zuivere
 **B 9305**
 
 **Zelfpersende afvalcontainer op zonne-energie**
+
+**C 9308**
+
+**Fotovoltaïsch zonne-energiesysteem in combinatie met vervanging van asbesthoudende daken**
 
 **A 9309**
 
@@ -1836,6 +1834,8 @@ Toelichting: Moerasbed- of helofytenfilters die gebruikt worden voor het zuivere
 
 **Droog en -pelleteerinstallatie voor varkens- en pluimveemest**
 
+**Droog en -pelleteerinstallatie voor varkens- en pluimveemest**
+
 **G 9400**
 
 **Elektrostatische separatoren**
@@ -1873,6 +1873,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 **G 9472**
 
 **Droog en -pelleteerinstallatie voor varkens- en pluimveemest**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
