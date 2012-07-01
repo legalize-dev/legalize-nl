@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2011-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -110,11 +110,9 @@ Hebben goedgevonden en verstaan:
 
 - cc. Stichting Skal: Stichting Skal te Zwolle;
 
-- dd. Stichting CPE: Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten te Barneveld;
+- dd. Stichting COKZ: Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel te Leusden;
 
-- ee. Stichting COKZ: Stichting Controleorgaan voor Kwaliteitsaangelegenheden in de Zuivel te Leusden;
-
-- ff. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.
+- ee. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.
 
 2. Dit besluit is niet van toepassing op goederen die zijn aangebracht en aangegeven of op regelmatige wijze zijn aangebracht onder geleide van een document voor communautair douanevervoer en die nog niet zijn vrijgegeven voor een van de douaneregelingen als bedoeld in artikel 4, onder 16, van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).
 
@@ -168,7 +166,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2011-07-01&g=2011-07-01).
+- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2012-07-01&g=2012-07-01).
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde Europese verordeningen en richtlijnen zich daartegen niet verzet.
 
@@ -196,7 +194,7 @@ De Stichting COKZ is belast met:
 
 ##### Artikel 13
 
-De Stichting CPE is de instantie, bedoeld in artikel 15, tweede lid, van verordening (EG) 543/2008 en artikel 24, eerste lid, van verordening (EG) 589/2008 en belast met:
+De Stichting COKZ is de instantie, bedoeld in artikel 15, tweede lid, van verordening (EG) 543/2008 en artikel 24, eerste lid, van verordening (EG) 589/2008 en belast met:
 
 - a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van eieren en ten aanzien van vlees van pluimvee;
 
@@ -232,13 +230,11 @@ De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, v
 
 1. De instantie, bedoeld in artikel 14, eerste lid, van verordening (EG) 509/2006 en artikel 10, eerste lid, van verordening (EG) 510/2006, is:
 
-- a. de Stichting COKZ, voor zover het producten betreft die reeds op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;
+- a. de Stichting COKZ, voor zover het producten betreft die reeds op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2012-07-01&g=2012-07-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;
 
-- b. de Stichting CPE, voor zover het producten betreft die reeds op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;
+- b. de Stichting KCB, voor zover het producten betreft die reeds op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2012-07-01&g=2012-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen, of
 
-- c. de Stichting KCB, voor zover het producten betreft die reeds op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen, of
-
-- d. Onze Minister, voor zover het producten betreft die naar hun aard of ingevolge de voorschriften van de Raad, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie niet onder de bevoegdheid van de controle-instellingen, bedoeld in het eerste lid, onderdelen a tot en met c, vallen.
+- c. Onze Minister, voor zover het producten betreft die naar hun aard of ingevolge de voorschriften van de Raad, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie niet onder de bevoegdheid van de controle-instellingen, bedoeld in het eerste lid, onderdelen a tot en met c, vallen.
 
 2. De instantie, bedoeld in het eerste lid, is belast met:
 
@@ -317,5 +313,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 1. Marktdeelnemers als bedoeld in Bijlage XI bis punt IV, onderdeel 1 van verordening (EG) 1234/2007 voldoen aan artikel 113 ter en Bijlage XI bis, punten II, III, IV, VI en VIII van verordening (EG) 1234/2007 en de artikelen 3, 4 en 5 van verordening (EG) 566/2008.
 
 2. Marktdeelnemers die vlees van runderen die niet ouder zijn dan twaalf maanden in niet-voorverpakte vorm in de detailhandel aanbieden aan de eindverbruiker vermelden bij de aanduiding van het vlees de slachtleeftijd van de dieren overeenkomstig Bijlage XI bis, punt IV, eerste lid, onderdeel a, van verordening (EG) 1234/2007 en bezigen de verkoopbenaming overeenkomstig Bijlage XI bis, punt III, tweede lid, van verordening (EG) 1234/2007.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18a
+
+Het recht zoals dat gold voor 1 juli 2012 blijft van toepassing op:
+
+- a. bezwaar- en beroepsprocedures naar aanleiding van besluiten genomen voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum of genomen op grond van onderdeel b of c van dit artikel;
+
+- b. de oplegging en inning van tarieven naar aanleiding van handelingen verricht voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum, en
+
+- c. de toepassing van tuchtrecht naar aanleiding van toezicht uitgevoerd voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
