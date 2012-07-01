@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2012-01-19"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -52,19 +52,17 @@ In deze regeling wordt verstaan onder:
 
 - c. **NVWA**: de Nederlandse Voedsel- en Warenautoriteit;
 
-- d. **AID**: de Algemene Inspectiedienst;
+- d. **het COKZ**: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-- e. **het COKZ**: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+- e. vervallen door vernummering;
 
-- f. **het CPE**: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten;
+- f. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
 
-- g. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
+- g. **zuivelinrichtingen**: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853);
 
-- h. **zuivelinrichtingen**: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853);
+- h. **ei- en eiproducteninrichtingen**: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853);
 
-- i. **ei- en eiproducteninrichtingen**: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853);
-
-- j. **gemengde bedrijven**: een combinatie van onder g, h, of i bedoelde bedrijven.
+- i. **gemengde bedrijven**: een combinatie van onder g, h, of i bedoelde bedrijven.
 
 ##### Artikel 2
 
@@ -72,17 +70,15 @@ In deze regeling wordt verstaan onder:
 
 2. Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door:
 
-- a. controleurs van het COKZ bij uitsluitend zuivelinrichtingen;
+- a. controleurs van het COKZ bij uitsluitend zuivelinrichtingen en ei- en eiproducteninrichtingen;
 
-- b. controleurs van het CPE bij uitsluitend ei- en eiproducteninrichtingen;
+- b. controleurs van hetzij de NVWA, hetzij het COKZ bij gemengde bedrijven;
 
-- c. controleurs van hetzij het COKZ, hetzij het CPE, bij gemengde bedrijven;
+- c. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;
 
-- d. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;
+- d. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.
 
-- e. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.
-
-3. De inspecteur-generaal van de NVWA stelt na overleg met het COKZ en het CPE de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder c.
+3. De inspecteur-generaal van de NVWA stelt na overleg met het COKZ de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder b.
 
 ##### Artikel 3
 
