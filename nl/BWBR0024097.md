@@ -4,7 +4,7 @@ identifier: "BWBR0024097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-06"
-last_updated: "2008-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024097"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder wet: de [Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777).
+In deze regeling wordt verstaan onder wet: de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777).
 
 ##### Artikel 2
 
@@ -63,5 +63,13 @@ Deze regeling wordt aangehaald als: Handelsregisterregeling
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 juli 2008.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Als publicatieblad, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), wordt aangewezen, voor zover de publicatie betrekking heeft op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europees economisch samenwerkingsverband: de Staatscourant.
+
+2. Als publicatieblad, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), wordt aangewezen, voor zover de publicatie betrekking heeft op een Europese naamloze vennootschap of een Europese coöperatieve vennootschap: het Publicatieblad van de Europese Unie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
