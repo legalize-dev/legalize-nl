@@ -4,7 +4,7 @@ identifier: "BWBR0028294"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2012-07-01"
-last_updated: "2010-10-10"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028294"
 soort: "wet-BES"
@@ -43,11 +43,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Uitvoeringsorgaan:** de Stichting Bureau Ziektekostenvoorzieningen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=10&z=2010-10-10&g=2010-10-10);
+- b. **Uitvoeringsorgaan:** de Stichting Bureau Ziektekostenvoorzieningen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=10&z=2012-07-01&g=2012-07-01);
 
-- c. **Fonds:** het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2010-10-10&g=2010-10-10);
+- c. **Fonds:** het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01);
 
-- d. **Indicatiecommissie:** de Indicatiecommissie Bijzondere Ziektekosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10);
+- d. **Indicatiecommissie:** de Indicatiecommissie Bijzondere Ziektekosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=2&artikel=12&z=2012-07-01&g=2012-07-01);
 
 - e. [vervallen]
 
@@ -69,13 +69,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3. in één van de overige openbare lichamen: de Inspecteur der Belastingen op Sint Maarten;
 
-- g. **toezichthouder:** de toezichthouder, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=40&z=2010-10-10&g=2010-10-10);
+- g. **toezichthouder:** de toezichthouder, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=40&z=2012-07-01&g=2012-07-01);
 
 - h. **ingezetene:** degene die blijkens inschrijving in het bevolkingsregister van een der openbare lichamen, metterwoon in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba gevestigd is;
 
-- i. **instelling:** een instelling die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
+- i. **instelling:** een instelling die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
 
-- j. **zorgverlener:** een medische beroepsbeoefenaar of andere deskundige die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
+- j. **zorgverlener:** een medische beroepsbeoefenaar of andere deskundige die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
 
 - k. **chronische zieke:** degene die als gevolg van een ziekte of een complicatie ervan of door ouderdom dermate verpleeg- of zorgbehoeftig is geworden, dat deze zich in zowel sociaal, maatschappelijk als economisch opzicht, niet meer als zelfstandig individu in de samenleving kan handhaven;
 
@@ -173,9 +173,9 @@ Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van p
 
 ##### Artikel 7
 
-1. Bij algemene maatregel van bestuur, wordt bepaald in welke mate en onder welke voorwaarden aanspraak bestaat op vergoeding wegens kosten terzake van in of buiten Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba verleende zorg als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), in gevallen, waarin aan een verzekerde als gevolg van in dat algemene maatregel van bestuur omschreven omstandigheden zorg is verleend, welke deze, indien die omstandigheden zich niet zouden hebben voorgedaan, op de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=6&z=2010-10-10&g=2010-10-10) omschreven wijze had kunnen verkrijgen.
+1. Bij algemene maatregel van bestuur, wordt bepaald in welke mate en onder welke voorwaarden aanspraak bestaat op vergoeding wegens kosten terzake van in of buiten Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba verleende zorg als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), in gevallen, waarin aan een verzekerde als gevolg van in dat algemene maatregel van bestuur omschreven omstandigheden zorg is verleend, welke deze, indien die omstandigheden zich niet zouden hebben voorgedaan, op de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=6&z=2012-07-01&g=2012-07-01) omschreven wijze had kunnen verkrijgen.
 
-2. Onverminderd het bepaalde krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), kan het Uitvoeringsorgaan degene die zorg behoeft, en aan wiens opzet of grove schuld is te wijten dat hij deze zorg behoeft, extra in de kosten van de te verlenen zorg doen bijdragen.
+2. Onverminderd het bepaalde krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), kan het Uitvoeringsorgaan degene die zorg behoeft, en aan wiens opzet of grove schuld is te wijten dat hij deze zorg behoeft, extra in de kosten van de te verlenen zorg doen bijdragen.
 
 ##### Artikel 8
 
@@ -235,7 +235,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 2. De Indicatiecommissie heeft tot taak het beoordelen van door het Uitvoeringsorgaan aan haar voorgelegde aanvragen van verzekerden voor zorg en het uitbrengen van advies aan het Uitvoeringsorgaan of er voor de toewijzing van een aanvraag voor zorg een noodzakelijke indicatie bestaat.
 
-3. De Indicatiecommissie bestaat uit drie leden, waaronder een voorzitter, die beschikken over ruime en veelzijdige ervaring op gebieden van zorg als bedoeld bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10) te weten:
+3. De Indicatiecommissie bestaat uit drie leden, waaronder een voorzitter, die beschikken over ruime en veelzijdige ervaring op gebieden van zorg als bedoeld bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01) te weten:
 
 - a. een arts;
 
@@ -303,7 +303,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 ##### Artikel 14
 
-Het Uitvoeringsorgaan stelt kwaliteitseisen vast voor instellingen en zorgverleners die worden gehanteerd bij het aangaan van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde overeenkomsten. Deze kwaliteitseisen behoeven de goedkeuring van Onze Minister.
+Het Uitvoeringsorgaan stelt kwaliteitseisen vast voor instellingen en zorgverleners die worden gehanteerd bij het aangaan van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde overeenkomsten. Deze kwaliteitseisen behoeven de goedkeuring van Onze Minister.
 
 ##### Artikel 15
 
@@ -311,19 +311,19 @@ Onze Minister stelt, gehoord het Uitvoeringsorgaan, eens per vier jaren per inst
 
 ##### Artikel 16
 
-Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde overeenkomsten, die in strijd is met deze wet of de daarop berustende bepalingen is nietig.
+Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde overeenkomsten, die in strijd is met deze wet of de daarop berustende bepalingen is nietig.
 
 #### § 4. Toezicht op het Uitvoeringsorgaan
 
 ##### Artikel 17
 
-1. Onze Minister houdt toezicht op het Uitvoeringsorgaan. Zij adviseert, op verzoek of uit eigen beweging, Onze Minister, de Minister van Financiën en het Uitvoeringsorgaan met betrekking tot aangelegenheden het Uitvoeringsorgaan betreffende, overeenkomstig de regels van de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495).
+1. Onze Minister houdt toezicht op het Uitvoeringsorgaan. Zij adviseert, op verzoek of uit eigen beweging, Onze Minister, de Minister van Financiën en het Uitvoeringsorgaan met betrekking tot aangelegenheden het Uitvoeringsorgaan betreffende, overeenkomstig de bij of krachtens de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) met betrekking tot de uitoefening van het verzekeringsbedrijf gestelde regels.
 
 2. [vervallen]
 
 3. [vervallen].
 
-4. De [artikelen 42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=42&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op het door de Bank ingevolge het eerste lid te houden toezicht.
+4. De [artikelen 42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=42&z=2012-07-01&g=2012-07-01) zijn van overeenkomstige toepassing op het door de Bank ingevolge het eerste lid te houden toezicht.
 
 ### Hoofdstuk V. Dekking van de kosten
 
@@ -335,7 +335,7 @@ Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.
 
 - a. het heffen van premie;
 
-- b. het heffen van bijdragen als bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=7&z=2010-10-10&g=2010-10-10), van degenen die zorg genieten;
+- b. het heffen van bijdragen als bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01), van degenen die zorg genieten;
 
 - c. de jaarlijkse bijdrage van het Land; en
 
@@ -353,7 +353,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 ##### Artikel 20
 
-1. De premie, bedoeld in [artikel 18, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2010-10-10&g=2010-10-10), wordt, met inachtneming van het bepaalde in de navolgende leden, geheven naar de maatstaf van het door de verzekerde in een kalenderjaar genoten inkomen en bedraagt een percentage van dat inkomen. Ten aanzien van degene, die slechts een gedeelte van een kalenderjaar verzekerd is geweest, treedt dit gedeelte voor het kalenderjaar in de plaats.
+1. De premie, bedoeld in [artikel 18, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), wordt, met inachtneming van het bepaalde in de navolgende leden, geheven naar de maatstaf van het door de verzekerde in een kalenderjaar genoten inkomen en bedraagt een percentage van dat inkomen. Ten aanzien van degene, die slechts een gedeelte van een kalenderjaar verzekerd is geweest, treedt dit gedeelte voor het kalenderjaar in de plaats.
 
 2. Onder inkomen wordt verstaan het zuiver inkomen in de zin van de [Wet op de inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) met dien verstande dat dit inkomen wordt vermeerderd met de krachtens de Wet op de inkomstenbelasting BES als persoonlijke last in aftrek toegelaten premies algemene ouderdomsverzekering ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), algemene weduwen weduwnaars- en wezenverzekering ingevolge de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387).
 
@@ -363,7 +363,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 ##### Artikel 21
 
-1. Het premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2010-10-10&g=2010-10-10), wordt bij algemene maatregel van bestuur, gehoord het Uitvoeringsorgaan en de Sociaal-Economische Raad, vastgesteld.
+1. Het premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01), wordt bij algemene maatregel van bestuur, gehoord het Uitvoeringsorgaan en de Sociaal-Economische Raad, vastgesteld.
 
 2. Het in het eerste lid bedoelde percentage kan voor een zuiver inkomen dat minder bedraagt dan het laagste bedrag dat wordt genoemd in de tabel, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24), afwijkend worden vastgesteld doch niet meer dan de helft minder bedragen.
 
@@ -387,7 +387,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 2. De aanslag wordt vastgesteld door de Inspecteur. De in het eerste lid bedoelde aanslag blijft achterwege indien [artikel 41B van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=41b) toepassing vindt.
 
-3. De premie van de verzekerde, die in dienstbetrekking werkzaam is, wordt geheven bij wege van inhouding door de werkgever. Het bepaalde in de [artikelen 3, leden 2, 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4), [21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21a), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21c) en [21d van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21d) is van overeenkomstige toepassing ten aanzien van de ingevolge deze wet verschuldigde premies, met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever(s)». Indien de ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2010-10-10&g=2010-10-10), in totaal over een kalenderjaar verschuldigde premie door inhouding is geheven, blijft het bepaalde in het eerste lid buiten toepassing. Voor de toepassing van dit artikel wordt met een werkgever gelijkgesteld de Sociale Verzekeringsbank, het Algemeen Pensioenfonds BES, alsmede pensioenfondsen in zin van de Wet ondernemingspensioenfondsen BES, verzekeringsmaatschappijen voor zover het betreft door deze uit te betalen pensioenen en de bestuurscolleges van de onderscheiden openbare lichamen voor wat betreft door deze te verstrekken onderstanduitkeringen.
+3. De premie van de verzekerde, die in dienstbetrekking werkzaam is, wordt geheven bij wege van inhouding door de werkgever. Het bepaalde in de [artikelen 3, leden 2, 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4), [21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21a), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21c) en [21d van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21d) is van overeenkomstige toepassing ten aanzien van de ingevolge deze wet verschuldigde premies, met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever(s)». Indien de ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01), in totaal over een kalenderjaar verschuldigde premie door inhouding is geheven, blijft het bepaalde in het eerste lid buiten toepassing. Voor de toepassing van dit artikel wordt met een werkgever gelijkgesteld de Sociale Verzekeringsbank, het Algemeen Pensioenfonds BES, alsmede pensioenfondsen in zin van de Wet ondernemingspensioenfondsen BES, verzekeringsmaatschappijen voor zover het betreft door deze uit te betalen pensioenen en de bestuurscolleges van de onderscheiden openbare lichamen voor wat betreft door deze te verstrekken onderstanduitkeringen.
 
 4. De werkgever is verplicht de premie in te houden op het tijdstip waarop het loon:
 
@@ -403,7 +403,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 ##### Artikel 23
 
-De Minister van Financiën is bevoegd, met inachtneming van het vastgestelde premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2010-10-10&g=2010-10-10), de ingevolge deze wet verschuldigde premie te doen berekenen volgens tabellen. Bij het opstellen van deze tabellen en voor de toepassing daarvan bepaalt de Minister van Financiën de door hem nodig geachte afrondingen.
+De Minister van Financiën is bevoegd, met inachtneming van het vastgestelde premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01), de ingevolge deze wet verschuldigde premie te doen berekenen volgens tabellen. Bij het opstellen van deze tabellen en voor de toepassing daarvan bepaalt de Minister van Financiën de door hem nodig geachte afrondingen.
 
 ##### Artikel 24
 
@@ -487,7 +487,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 ##### Artikel 32
 
-1. De jaarlijkse bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2010-10-10&g=2010-10-10), wordt bij algemene maatregel van bestuur, vastgesteld.
+1. De jaarlijkse bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), wordt bij algemene maatregel van bestuur, vastgesteld.
 
 2. Onze Minister en de Minister van Financiën kunnen regelen geven inzake de betaling van de in het eerste lid bedoelde bijdrage aan het Uitvoeringsorgaan.
 
@@ -501,9 +501,9 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 1. Aan de belanghebbende wordt schriftelijk kennis gegeven van een beslissing betreffende:
 
-- a. het verlenen van zorg en het vaststellen van een bijdrage als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10);
+- a. het verlenen van zorg en het vaststellen van een bijdrage als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01);
 
-- b. het vaststellen van een bijdrage in de kosten van geneeskundige behandeling, verpleging en verzorging als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=7&z=2010-10-10&g=2010-10-10).
+- b. het vaststellen van een bijdrage in de kosten van geneeskundige behandeling, verpleging en verzorging als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=7&z=2012-07-01&g=2012-07-01).
 
 2. Een kennisgeving als bedoeld in het eerste lid vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede de rechtsmiddelen die tegen de beslissing openstaan.
 
@@ -519,7 +519,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 ##### Artikel 35
 
-1. Het Uitvoeringsorgaan beschikt op een bezwaarschrift als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VI&artikel=34&z=2010-10-10&g=2010-10-10).
+1. Het Uitvoeringsorgaan beschikt op een bezwaarschrift als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VI&artikel=34&z=2012-07-01&g=2012-07-01).
 
 2. Indien de reclamant in zijn bezwaarschrift het verlangen daartoe heeft te kennen gegeven, wordt hij vooraf door of vanwege het Uitvoeringsorgaan gehoord. Hij kan ook ambtshalve worden opgeroepen tot het verstrekken van inlichtingen of om de overwegingen te vernemen die bij het nemen van de beslissing hebben gegolden.
 
@@ -551,7 +551,7 @@ Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen
 
 3. Met betrekking tot een naheffingsaanslag, welke geheel of gedeeltelijk berust op feiten welke mede tot het opleggen van een naheffingsaanslag [bedoeld zal zijn: navordering] in de inkomstenbelasting ten laste van belanghebbende aanleiding hebben gegeven, neemt de termijn voor het instellen van beroep eerst een aanvang op de datum, waarop laatstbedoelde naheffingsaanslag onherroepelijk is komen vast te staan.
 
-4. Tegen hetgeen omtrent de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) van deze wet alsmede omtrent het zuiver inkomen in de zin van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) voor de heffing van die belasting onherroepelijk is komen vast te staan, is beroep niet toegelaten.
+4. Tegen hetgeen omtrent de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=I&artikel=2&z=2012-07-01&g=2012-07-01) van deze wet alsmede omtrent het zuiver inkomen in de zin van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) voor de heffing van die belasting onherroepelijk is komen vast te staan, is beroep niet toegelaten.
 
 ### Hoofdstuk VII. Toezicht en opsporing
 
@@ -617,7 +617,7 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 2. Een aanwijzing als bedoeld in het eerste lid wordt bekendgemaakt in de Staatscourant.
 
-3. [Artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=41&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+3. [Artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=41&z=2012-07-01&g=2012-07-01) is van overeenkomstige toepassing.
 
 4. Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot de vereisten waaraan de krachtens het eerste lid aangewezen ambtenaren dienen te voldoen.
 
@@ -625,11 +625,11 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 ##### Artikel 47
 
-1. Op overtreding van [artikel 21, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 24, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=24&z=2010-10-10&g=2010-10-10), [30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=30&z=2010-10-10&g=2010-10-10), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=31&z=2010-10-10&g=2010-10-10), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=45&z=2010-10-10&g=2010-10-10), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2010-10-10&g=2010-10-10), en in krachtens deze wet gegeven regels wordt een administratieve boete geheven van ten hoogste een boete van de tweede categorie.
+1. Op overtreding van [artikel 21, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 24, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=24&z=2012-07-01&g=2012-07-01), [30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=30&z=2012-07-01&g=2012-07-01), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=31&z=2012-07-01&g=2012-07-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=45&z=2012-07-01&g=2012-07-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2012-07-01&g=2012-07-01), en in krachtens deze wet gegeven regels wordt een administratieve boete geheven van ten hoogste een boete van de tweede categorie.
 
-2. Onder het niet voldoen aan de verplichtingen, genoemd in de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=31&z=2010-10-10&g=2010-10-10) en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=45&z=2010-10-10&g=2010-10-10), wordt mede verstaan het verstrekken van onjuiste inlichtingen.
+2. Onder het niet voldoen aan de verplichtingen, genoemd in de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=31&z=2012-07-01&g=2012-07-01) en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=45&z=2012-07-01&g=2012-07-01), wordt mede verstaan het verstrekken van onjuiste inlichtingen.
 
-3. Indien een aanslag, welke werd opgelegd wegens het niet voldoen aan de verplichting van [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=24&z=2010-10-10&g=2010-10-10), in zijn geheel moet worden verminderd, wordt een boete geheven van ten hoogste de eerste categorie.
+3. Indien een aanslag, welke werd opgelegd wegens het niet voldoen aan de verplichting van [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=24&z=2012-07-01&g=2012-07-01), in zijn geheel moet worden verminderd, wordt een boete geheven van ten hoogste de eerste categorie.
 
 4. Indien er sprake is van herhaling van eenzelfde overtreding binnen twee jaar wordt het maximum van de boetes, genoemd in het eerste tot en met het derde lid, verdubbeld.
 
@@ -639,15 +639,15 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 1. De werkgever die de voor hem uit de bepalingen van deze wet voortvloeiende kosten geheel of gedeeltelijk verhaalt op het loon van de werknemer wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-2. De werkgever, die niet voldoet aan de verplichting, opgelegd krachtens [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen. Deze straffen kunnen worden opgelegd voor elk geval waarin een werkgever voor één zijner werknemers de in dit lid bedoelde verplichting niet nakomt.
+2. De werkgever, die niet voldoet aan de verplichting, opgelegd krachtens [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen. Deze straffen kunnen worden opgelegd voor elk geval waarin een werkgever voor één zijner werknemers de in dit lid bedoelde verplichting niet nakomt.
 
 ##### Artikel 49
 
-Degene, die niet voldoet aan een der verplichtingen opgelegd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10) wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+Degene, die niet voldoet aan een der verplichtingen opgelegd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2012-07-01&g=2012-07-01) wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
 ##### Artikel 50
 
-1. Degene, die de bij [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2010-10-10&g=2010-10-10) opgelegde geheimhouding opzettelijk schendt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
+1. Degene, die de bij [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2012-07-01&g=2012-07-01) opgelegde geheimhouding opzettelijk schendt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
 
 2. Degene, aan wiens schuld schending van die geheimhouding te wijten is wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
@@ -667,7 +667,7 @@ Overtredingen van bepalingen van een krachtens deze wet vastgesteld algemene maa
 
 ##### Artikel 54
 
-De in de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2010-10-10&g=2010-10-10), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=51&z=2010-10-10&g=2010-10-10) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=52&z=2010-10-10&g=2010-10-10) bedoelde strafbare feiten zijn misdrijven, de in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=48&z=2010-10-10&g=2010-10-10), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=49&z=2010-10-10&g=2010-10-10), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2010-10-10&g=2010-10-10), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=53&z=2010-10-10&g=2010-10-10), bedoelde strafbare feiten zijn overtredingen.
+De in de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2012-07-01&g=2012-07-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=51&z=2012-07-01&g=2012-07-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=52&z=2012-07-01&g=2012-07-01) bedoelde strafbare feiten zijn misdrijven, de in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=48&z=2012-07-01&g=2012-07-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=49&z=2012-07-01&g=2012-07-01), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2012-07-01&g=2012-07-01), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=53&z=2012-07-01&g=2012-07-01), bedoelde strafbare feiten zijn overtredingen.
 
 ##### Artikel 55
 
@@ -681,7 +681,7 @@ Een administratieve boete vervalt, indien degene die haar heeft belopen, wegens 
 
 ##### Artikel 57
 
-1. Verzekerden die op het tijdstip van het in werking treden van deze wet krachtens enige wettelijke voorziening of particuliere verzekering zorg genieten als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), en zoals nader uitgewerkt ingevolge het tweede lid van dat artikel, genieten, in afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), deze zorg krachtens deze wet met ingang van het tijdstip waarop deze wet in werking treedt.
+1. Verzekerden die op het tijdstip van het in werking treden van deze wet krachtens enige wettelijke voorziening of particuliere verzekering zorg genieten als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), en zoals nader uitgewerkt ingevolge het tweede lid van dat artikel, genieten, in afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), deze zorg krachtens deze wet met ingang van het tijdstip waarop deze wet in werking treedt.
 
 2. Voor zover de betrokkenen daarvoor reeds premie hadden betaald, verlaagt de desbetreffende ziektekostenverzekeraar voor alle betrokken verzekerden in gelijke mate en naar rato van het vervallen gedeelte van de in het derde lid bedoelde overeenkomsten de tarieven van gesloten en nieuw af te sluiten ziektekostenverzekeringsovereenkomsten.
 
@@ -689,7 +689,7 @@ Een administratieve boete vervalt, indien degene die haar heeft belopen, wegens 
 
 ##### Artikel 58
 
-Zolang de Landsontvanger nog niet over de mogelijkheid beschikt tot dwanginvordering over te gaan, geschiedt de dwanginvordering op verzoek van de Landsontvanger door de Eilandsontvanger. [Artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10), is van toepassing.
+Zolang de Landsontvanger nog niet over de mogelijkheid beschikt tot dwanginvordering over te gaan, geschiedt de dwanginvordering op verzoek van de Landsontvanger door de Eilandsontvanger. [Artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2012-07-01&g=2012-07-01), is van toepassing.
 
 ##### Artikel 59
 
@@ -713,21 +713,21 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ##### Artikel 63
 
-Het meerjarenbeleidsplan, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=11&z=2010-10-10&g=2010-10-10), wordt voor de eerste keer vastgesteld binnen zes maanden na de inwerkingtreding van deze wet.
+Het meerjarenbeleidsplan, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=11&z=2012-07-01&g=2012-07-01), wordt voor de eerste keer vastgesteld binnen zes maanden na de inwerkingtreding van deze wet.
 
 ##### Artikel 64
 
-De bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2010-10-10&g=2010-10-10), bedraagt in het jaar 1997 NAF. 21.753.130,–.
+De bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), bedraagt in het jaar 1997 NAF. 21.753.130,–.
 
 ##### Artikel 65
 
-1. Het premiepercentage, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), bedraagt voor de jaren 1997 en 1998: 2.
+1. Het premiepercentage, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 2.
 
-2. Het premiepercentage, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), bedraagt voor de jaren 1997 en 1998: 1.
+2. Het premiepercentage, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 1.
 
-3. Het premiepercentage, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), bedraagt voor de jaren 1997 en 1998: 1,5.
+3. Het premiepercentage, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 1,5.
 
-4. Het toeslagpercentage, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2010-10-10&g=2010-10-10), bedraagt voor de jaren 1997 en 1998: 0,5
+4. Het toeslagpercentage, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 0,5
 
 ##### Artikel 66
 
