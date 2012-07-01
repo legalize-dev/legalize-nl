@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2012-03-07"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-03-07&g=2012-03-07) bij deze regeling.
+1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-07-01&g=2012-07-01) bij deze regeling.
 
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-03-07&g=2012-03-07) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-07-01&g=2012-07-01) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
 
 ##### Artikel 5
 
@@ -140,7 +140,7 @@ De Stichting KCB is belast met:
 
 ##### Artikel 15
 
-Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting CPE.
+Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting COKZ.
 
 ##### Artikel 16
 
@@ -212,7 +212,7 @@ Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nede
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2012-03-07&g=2012-03-07) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2012-07-01&g=2012-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -234,17 +234,13 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 - a. de keurmeesters van de Stichting BKD;
 
-- b. de keurmeesters en controleurs van de Stichting COKZ;
+- b. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- c. de controleurs en inspecteurs van de Stichting CPE;
+- c. de daartoe gekwalificeerde medewerkers van de Stichting KCB;
 
-- d. de daartoe gekwalificeerde medewerkers van de Stichting KCB;
+- d. de inspecteurs van de Stichting Skal;
 
-- e. de inspecteurs van de Stichting Skal;
-
-- f. de ambtenaren van de Voedsel en Waren Autoriteit te ’s-Gravenhage;
-
-- g. de ambtenaren van de Algemene Inspectiedienst te ’s-Gravenhage.
+- e. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;
 
 ### Hoofdstuk 8. Overige bepalingen
 
@@ -1504,7 +1500,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2012-03-07&g=2012-03-07) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
 
@@ -1599,7 +1595,7 @@ In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toeg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2012-03-07&g=2012-03-07) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -2002,7 +1998,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2012-03-07&g=2012-03-07) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
