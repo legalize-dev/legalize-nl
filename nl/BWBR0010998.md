@@ -4,7 +4,7 @@ identifier: "BWBR0010998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-12-22"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010998"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het tarief, bedoeld in [artikel 1, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), dan wel [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2011-12-22&g=2011-12-22), wordt voor de consument duidelijk leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde. Aan dit vereiste wordt in ieder geval voldaan indien het tarief wordt getoond met gebruikmaking van een taxi-informatiekaart waarvan het model overeenkomt met het in de bijlage bij deze regeling opgenomen model A dan wel model A1.
+1. Het tarief, bedoeld in [artikel 1, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), dan wel [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2012-07-01&g=2012-07-01), wordt voor de consument duidelijk leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde. Aan dit vereiste wordt in ieder geval voldaan indien het tarief wordt getoond met gebruikmaking van een taxi-informatiekaart waarvan het model overeenkomt met het in de bijlage bij deze regeling opgenomen model A dan wel model A1.
 
 2. Ten behoeve van het duidelijk kenbaar maken van de klachtenbehandeling, bedoeld in [artikel 72a van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=72a) wordt voor de consument leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde:
 
@@ -79,7 +79,7 @@ De gegevens over de klachtenbehandeling zijn in ieder geval duidelijk kenbaar, i
 
 ##### Artikel 2a
 
-Overtreding van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2011-12-22&g=2011-12-22), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2011-12-22&g=2011-12-22) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2011-12-22&g=2011-12-22) vormen een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
+Overtreding van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2012-07-01&g=2012-07-01), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2012-07-01&g=2012-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2012-07-01&g=2012-07-01) vormen een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ##### Artikel 3
 
@@ -99,19 +99,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. Het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), bedraagt ten hoogste:
+1. Het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), bedraagt ten hoogste:
 
 - a. € 8,32 voor het vaste bedrag;
 
 - b. € 2,43 voor het bedrag per kilometer.
 
-2. Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), ten hoogste:
+2. Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen en waarin ook feitelijk tenminste vijf personen aanwezig zijn, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), ten hoogste:
 
 - a. € 13,52 voor het vaste bedrag;
 
 - b. € 2,79 voor het bedrag per kilometer.
 
-3. Het tarief, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), bedraagt ten hoogste € 36,60 per uur.
+3. Het tarief, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), bedraagt ten hoogste € 36,60 per uur.
 
 ## Bijlage
 
@@ -121,19 +121,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1b
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), en [artikel 1a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22), en onverminderd het bepaalde in artikel 1, tweede tot en met het zesde lid, bestaat het in die bepalingen bedoelde maximumtarief voor taxivoer met ingang van de dag van inwerkingtreding van dit artikel uit de optelsom van:
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), en [artikel 1a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01), en onverminderd het bepaalde in artikel 1, tweede tot en met het zesde lid, bestaat het in die bepalingen bedoelde maximumtarief voor taxivoer met ingang van de dag van inwerkingtreding van dit artikel uit de optelsom van:
 
-- a. een vast bedrag van ten hoogste € 2,66 dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22), ten hoogste € 5,40;
+- a. een vast bedrag van ten hoogste € 2,66 dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01), ten hoogste € 5,40;
 
-- b. een bedrag van ten hoogste € 1,95 per kilometer van de taxirit dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22), ten hoogste € 2,46 en
+- b. een bedrag van ten hoogste € 1,95 per kilometer van de taxirit dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01), ten hoogste € 2,46 en
 
-- c. een bedrag van ten hoogste € 0,32 per minuut van de duur van de taxirit dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22), ten hoogste € 0,37.
+- c. een bedrag van ten hoogste € 0,32 per minuut van de duur van de taxirit dan wel, indien dat vervoer plaatsvindt in een auto dat voldoet aan [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01), ten hoogste € 0,37.
 
 ##### Artikel 1c
 
-1. De vervoerder verstrekt bij toepassing van [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2011-12-22&g=2011-12-22) de reiziger na afloop van het verrichte taxivervoer een automatisch gegenereerd ritbewijs waarop tenminste de volgende gegevens staan vermeld:
+1. De vervoerder verstrekt bij toepassing van [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2012-07-01&g=2012-07-01) de reiziger na afloop van het verrichte taxivervoer een automatisch gegenereerd ritbewijs waarop tenminste de volgende gegevens staan vermeld:
 
-- a. informatie over de door de vervoerder toegepaste tarieven, gebaseerd op de in [artikel 1, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), en [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2011-12-22&g=2011-12-22) bedoelde bedragen;
+- a. informatie over de door de vervoerder toegepaste tarieven, gebaseerd op de in [artikel 1, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), en [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2012-07-01&g=2012-07-01) bedoelde bedragen;
 
 - b. de gereden afstand uitgedrukt in kilometers tot tenminste één cijfer achter de komma nauwkeurig;
 
@@ -149,20 +149,20 @@ In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - h. de naam van het landelijk klachtenmeldpunt met vermelding van het corresponderende telefoonnummer en internetadres.
 
-2. Het eerste lid is van overeenkomstige toepassing indien sprake is van een vast tarief als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22).
+2. Het eerste lid is van overeenkomstige toepassing indien sprake is van een vast tarief als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01).
 
 3. De in het eerste en tweede lid bedoelde weergave van de aldaar genoemde informatie dient duidelijk kenbaar en in overeenstemming met de werkelijkheid te zijn en, voor zover van toepassing, een nauwgezette en rechtstreekse weergave te zijn van de relevante gegevens die de basis zijn voor de werking van de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=127) dan wel [artikel 78 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) bedoelde taxameter dan wel voor de werking van de in [artikel 79 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) bedoelde boordcomputer.
 
 4. Het eerste lid is niet van toepassing, indien sprake is van in [artikel 81, tweede lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81) bedoeld vervoer.
 
-5. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan [artikel 1, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2011-12-22&g=2011-12-22), dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
+5. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan [artikel 1, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2012-07-01&g=2012-07-01), dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
 
 ##### Artikel 1d
 
-In afwijking van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2011-12-22&g=2011-12-22) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2011-12-22&g=2011-12-22) kan de vervoerder tot en met 31 maart 2012 de in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2011-12-22&g=2011-12-22) bedoelde tarieven toepassen.
+In afwijking van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1b&z=2012-07-01&g=2012-07-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2012-07-01&g=2012-07-01) kan de vervoerder tot en met 31 maart 2012 de in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2012-07-01&g=2012-07-01) bedoelde tarieven toepassen.
 
 ## Bijlage
 
-Bijlage behorende bij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2011-12-22&g=2011-12-22), van de Regeling maximumtarief en bekendmaking tarieven taxivervoer, in verband met het stellen van nadere regels omtrent de kenbaarheid tarieven en klachtenbehandeling.
+Bijlage behorende bij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2012-07-01&g=2012-07-01), van de Regeling maximumtarief en bekendmaking tarieven taxivervoer, in verband met het stellen van nadere regels omtrent de kenbaarheid tarieven en klachtenbehandeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
