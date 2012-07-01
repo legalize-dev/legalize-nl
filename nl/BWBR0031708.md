@@ -195,5 +195,3 @@ Deze regeling wordt aangehaald als: Regeling functionele indeling BES.
 922 Algemene uitgaven en inkomsten
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
