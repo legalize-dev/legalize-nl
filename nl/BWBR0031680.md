@@ -4,7 +4,7 @@ identifier: "BWBR0031680"
 country: "nl"
 rank: "wet"
 publication_date: "2015-02-07"
-last_updated: "2012-06-20"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031680"
 soort: "wet"
@@ -46,15 +46,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiële markten BES.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 1:25c van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25c) is niet van toepassing op een handelen of nalaten van De Nederlandsche Bank N.V., de stichting Autoriteit Financiële Markten, de leden van hun organen en hun werknemers dat vóór het in werking treden van deze wet heeft plaatsgevonden.
 
 ##### Artikel IV
 
@@ -80,9 +80,9 @@ In afwijking van [artikel 1:102, derde lid, van de Wet op het financieel toezich
 
 ##### Artikel VI
 
-1. Deze wet, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-06-20&g=2012-06-20), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
+1. Deze wet, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-07-01&g=2012-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-07-01&g=2012-07-01) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-07-01&g=2012-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
-2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-06-20&g=2012-06-20) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-06-20&g=2012-06-20) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-06-20&g=2012-06-20) werken, voor financiële ondernemingen waaraan na 6 oktober 2011 steun wordt verleend, terug tot en met 6 oktober 2011.
+2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-07-01&g=2012-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-07-01&g=2012-07-01) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2012-07-01&g=2012-07-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2012-07-01&g=2012-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2012-07-01&g=2012-07-01) werken, voor financiële ondernemingen waaraan na 6 oktober 2011 steun wordt verleend, terug tot en met 6 oktober 2011.
 
 ##### Artikel VII
 
