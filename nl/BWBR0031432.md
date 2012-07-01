@@ -81,11 +81,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Besluit vergoeding voor buitengerechtelijke incassokosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-1. De vergoeding bedoeld in [artikel 96 lid 8 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96) bedraagt voor de eerste termijnbetaling waarvoor de laagste vergoeding geldt in een periode van zes maanden € 40 en voor volgende van deze termijnbetalingen in deze periode € 20.
-
-2. Wanneer in één aanmaning wordt aangemaand voor meerdere termijnbetalingen, waarvoor tenminste voor één termijnbetaling de laagste vergoeding geldt, bedraagt de vergoeding het hoogste bedrag dat voor een van de betreffende termijnbetalingen in rekening kan worden gebracht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
