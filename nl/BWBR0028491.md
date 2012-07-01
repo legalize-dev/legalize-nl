@@ -4,7 +4,7 @@ identifier: "BWBR0028491"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2011-10-09"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028491"
 soort: "AMvB-BES"
@@ -87,11 +87,7 @@ Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kun
 
 ##### Artikel 4
 
-1. De ambtenaar die, anders dan bij wijze van overwerk als bedoeld in [artikel 25 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25), dienst verricht tussen 18.00 uur en 6.00 uur ontvangt voor elk door hem binnen de genoemde tijd gewerkt vol uur een toelage van USD 0,22. Het bedrag van deze toelage kan bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden gewijzigd, indien het feit dat een voor ambtenaren algemeen geldende wijziging in de bezoldiging wordt aangebracht daartoe aanleiding geeft.
-
-2. Een gewerkte tijd van vijftien minuten of meer, doch korter dan van één uur, wordt voor de toepassing van het voorgaande lid als een vol uur aangemerkt.
-
-3. In afwijking van het eerste lid ontvangt de ambtenaar die ingevolge het voor hem geldende werkrooster avond- of nachtdienst, dienst op zon- en feestdagen of een combinatie van deze vormen van dienst moet verrichten en die niet in het genot is van enige andere ingevolge een algemene verordening aan hem toegekende compensatie daarvoor, de in dat lid bedoelde toelage ook in geval van overwerk, verricht tussen 18.00 uur en 6.00 uur.
+Vervallen
 
 ##### Artikel 5
 
@@ -217,7 +213,7 @@ Aan de ambtenaar, die in januari 2011 in dienst was van de staat, wordt een eenm
 
 ##### Artikel 9a
 
-1. De ambtenaar heeft jaarlijks recht op een eindejaarsuitkering ter grootte van USD 25,00 vermenigvuldigd met het aantal maanden, inclusief de maand van uitbetaling, dat de ambtenaar in het desbetreffende kalenderjaar in dienst was.
+1. De ambtenaar heeft jaarlijks recht op een eindejaarsuitkering ter grootte van USD 41,67 vermenigvuldigd met het aantal maanden, inclusief de maand van uitbetaling, dat de ambtenaar in het desbetreffende kalenderjaar in dienst was.
 
 2. De eindejaarsuitkering wordt uitbetaald in de maand december.
 
