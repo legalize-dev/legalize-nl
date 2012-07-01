@@ -4,7 +4,7 @@ identifier: "BWBR0031174"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-09-01"
-last_updated: "2012-01-26"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031174"
 soort: "zbo"
@@ -107,7 +107,7 @@ In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend
 
 ##### Artikel 6. : Afwijkende vergoeding doventolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-01-26&g=2012-01-26), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-01-26&g=2012-01-26), en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-01-26&g=2012-07-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-01-26&g=2012-07-01), en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
 2. Indien er sprake is van teamtolken, waarbij maximaal twee doventolken tegelijkertijd voor één cliënt optreden, wordt tot 150% van het geldende normbedrag per team vergoed, uit te keren als 75% per doventolk, indien wordt aangetoond dat is voldaan aan de volgende voorwaarden:
 
@@ -121,7 +121,7 @@ In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend
 
 Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoeding verstrekt.
 
-3. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-01-26&g=2012-01-26), worden meer kilometers dan 160 vergoed indien wordt aangetoond dat van het benodigde type doventolk er te weinig op redelijke afstand van de opdrachtlocatie woonachtig zijn.
+3. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-01-26&g=2012-07-01), worden meer kilometers dan 160 vergoed indien wordt aangetoond dat van het benodigde type doventolk er te weinig op redelijke afstand van de opdrachtlocatie woonachtig zijn.
 
 4. Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk, doch uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend. Voor wat betreft het bepaalde in het derde lid is deze termijn twee weken.
 
@@ -131,7 +131,7 @@ Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoedi
 
 1. Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed, tenzij de annulering aan de doventolk moet worden toegeschreven, in welk geval geen vergoeding wordt verstrekt.
 
-2. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren, waarbij het geheel van getolkte tijd en geannuleerde tijd de oorspronkelijke opdrachtlengte, te bepalen volgens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-01-26&g=2012-01-26), niet mag overtreffen.
+2. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren, waarbij het geheel van getolkte tijd en geannuleerde tijd de oorspronkelijke opdrachtlengte, te bepalen volgens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-01-26&g=2012-07-01), niet mag overtreffen.
 
 3. De reisvergoeding van geannuleerde opdrachten wordt niet verstrekt, ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
