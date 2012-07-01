@@ -4,7 +4,7 @@ identifier: "BWBR0029332"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-01-01"
-last_updated: "2012-05-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029332"
 soort: "ministeriele-regeling-BES"
@@ -195,7 +195,7 @@ Als diensten die van de belasting zijn vrijgesteld worden aangewezen diensten al
 
 ##### Artikel 6.9
 
-1. Als gevallen als bedoeld in [artikel 6.12, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.12) worden aangewezen de gevallen waarin diensten, andere dan de in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=6&paragraaf=3&artikel=6.8&z=2012-01-01&g=2012-05-01) bedoelde diensten, worden verricht bestaande uit de overdracht van rechten op onroerende zaken, van zakelijke rechten die aan de rechthebbende de bevoegdheid verschaffen om een onroerende zaak te gebruiken en van deelbewijzen en aandelen waarvan het bezit rechtens of in feite recht geven op eigendom of het genot van een onroerende zaak of een deel daarvan, alsmede van andere dergelijke diensten ter zake van de overdracht van rechten op onroerende zaken.
+1. Als gevallen als bedoeld in [artikel 6.12, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.12) worden aangewezen de gevallen waarin diensten, andere dan de in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=6&paragraaf=3&artikel=6.8&z=2012-01-01&g=2012-07-01) bedoelde diensten, worden verricht bestaande uit de overdracht van rechten op onroerende zaken, van zakelijke rechten die aan de rechthebbende de bevoegdheid verschaffen om een onroerende zaak te gebruiken en van deelbewijzen en aandelen waarvan het bezit rechtens of in feite recht geven op eigendom of het genot van een onroerende zaak of een deel daarvan, alsmede van andere dergelijke diensten ter zake van de overdracht van rechten op onroerende zaken.
 
 2. De in het eerste lid aangewezen gevallen worden mede aangewezen als gevallen als bedoeld in [artikel 8.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.63), tenzij de ondernemer die de in het eerste lid aangewezen diensten verricht van het verrichten van zijn dienst en van de door hem daarvoor ontvangen vergoeding, uiterlijk op de laatste dag van de maand volgend op de maand waarin de dienst is verricht, afzonderlijk opgave heeft gedaan bij de inspecteur.
 
@@ -233,7 +233,7 @@ Gereserveerd
 
 6. De aanwijzing, bedoeld in [artikel 6.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.20), kan door de inspecteur worden ingetrokken indien de producent op grond van [artikel 6.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.22) wordt ontheven van het voldoen van belasting, de ondernemer ophoudt producent te zijn, niet aan zijn aangifte- en boekhoudverplichtingen voldoet of niet voldoet aan de ingevolge het eerste en tweede lid geldende voorwaarden.
 
-7. De invoer van de categorieën goederen brood, graan, aardappelen en rijst, bedoeld in [artikel 6.20, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.20), is vrijgesteld van belasting, voor zover deze goederen zijn te rangschikken onder de in [artikel 6.7, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=6&paragraaf=3&artikel=6.7&z=2012-01-01&g=2012-05-01), opgesomde goederen, en als voor het overige ter zake van de invoer van deze goederen is voldaan aan de daarvoor in de douanewetgeving opgenomen bepalingen.
+7. De invoer van de categorieën goederen brood, graan, aardappelen en rijst, bedoeld in [artikel 6.20, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.20), is vrijgesteld van belasting, voor zover deze goederen zijn te rangschikken onder de in [artikel 6.7, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=6&paragraaf=3&artikel=6.7&z=2012-01-01&g=2012-07-01), opgesomde goederen, en als voor het overige ter zake van de invoer van deze goederen is voldaan aan de daarvoor in de douanewetgeving opgenomen bepalingen.
 
 8. Vrijgesteld van de belasting ter zake van invoer zijn geneesmiddelen en medische kunst- en hulpmiddelen waarvan de levering op grond van [artikel 6.11, eerste lid, onderdelen d en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.11), is vrijgesteld van belasting.
 
@@ -299,7 +299,7 @@ Het uitnodigen tot het doen van aangifte geschiedt door het uitreiken of toezend
 
 ##### Artikel 8.2
 
-1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2012-01-01&g=2012-05-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
+1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2012-01-01&g=2012-07-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
 2. Aangifte door een administratieplichtige als bedoeld in [artikel 8.86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) kan langs elektronische weg gedaan worden indien het betreft:
 
@@ -447,7 +447,7 @@ Het tijdvak waarover de algemene bestedingsbelasting moet worden betaald, is de 
 
 2. De ontvanger wijst een verzoek om uitstel van betaling of om kwijtschelding af indien de voor de beoordeling benodigde gegevens niet, onjuist of onvolledig dan wel niet op de door de ontvanger aangegeven wijze zijn verstrekt.
 
-3. De ontvanger beslist op een verzoek om uitstel van betaling of om kwijtschelding bij voor bezwaar vatbare beschikking. Een besluit tot herziening of een besluit tot gehele of gedeeltelijke beëindiging van het op de voet van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-05-01) verleende uitstel van betaling wordt eveneens door de ontvanger genomen bij voor bezwaar vatbare beschikking.
+3. De ontvanger beslist op een verzoek om uitstel van betaling of om kwijtschelding bij voor bezwaar vatbare beschikking. Een besluit tot herziening of een besluit tot gehele of gedeeltelijke beëindiging van het op de voet van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-07-01) verleende uitstel van betaling wordt eveneens door de ontvanger genomen bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 8.11
 
@@ -455,9 +455,9 @@ De ontvanger maakt een ingevolge deze afdeling ten aanzien van een belastingschu
 
 ##### Artikel 8.12
 
-1. Voor de toepassing van de [titels 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&z=2012-01-01&g=2012-05-01) worden de rente en de bestuurlijke boeten die de belastingschuldige heeft belopen in verband met belastingen, gelijkgesteld met de belasting waarmee zij samenhangen.
+1. Voor de toepassing van de [titels 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&z=2012-01-01&g=2012-07-01) worden de rente en de bestuurlijke boeten die de belastingschuldige heeft belopen in verband met belastingen, gelijkgesteld met de belasting waarmee zij samenhangen.
 
-2. Voor de toepassing van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-05-01) worden de kosten van vervolging die de belastingschuldige heeft belopen in verband met belastingen, gelijkgesteld met de belasting waarmee zij samenhangen.
+2. Voor de toepassing van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2012-01-01&g=2012-07-01) worden de kosten van vervolging die de belastingschuldige heeft belopen in verband met belastingen, gelijkgesteld met de belasting waarmee zij samenhangen.
 
 #### Titel 2. Uitstel van betaling
 
@@ -481,7 +481,7 @@ De ontvanger maakt een ingevolge deze afdeling ten aanzien van een belastingschu
 
 1. De ontvanger kan uitstel van betaling verlenen gedurende de periode dat er een bezwaar of beroep aanhangig is inzake de belastingaanslag, voor zover die belastingaanslag bestreden wordt.
 
-2. [Artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.13&z=2012-01-01&g=2012-05-01), is van toepassing.
+2. [Artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.13&z=2012-01-01&g=2012-07-01), is van toepassing.
 
 ##### Artikel 8.15
 
@@ -505,7 +505,7 @@ De ontvanger kan uitstel van betaling verlenen in verband met een binnen afzienb
 
 4. Ingeval zich een omstandigheid voordoet als bedoeld in het derde lid, onderdeel a, b of c, stelt de belastingschuldige de ontvanger hiervan onverwijld schriftelijk in kennis.
 
-5. [Artikel 8.18, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.18&z=2012-01-01&g=2012-05-01), is niet van toepassing.
+5. [Artikel 8.18, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.18&z=2012-01-01&g=2012-07-01), is niet van toepassing.
 
 ##### Artikel 8.17
 
@@ -581,7 +581,7 @@ Kwijtschelding kan worden verleend voor:
 
 ##### Artikel 8.23
 
-De ontvanger kan aan de belastingschuldige kwijtschelding van inkomstenbelasting verlenen tot een bedrag gelijk aan de in het nieuwe woonland van de belastingschuldige feitelijk geheven belasting voor voordelen uit vervreemding als bedoeld in [artikel 11, vijfde lid, onderdelen e en f, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11), welke aan het uitstel verleend op grond van [artikel 8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.16&z=2012-01-01&g=2012-05-01) ten grondslag liggen, met dien verstande dat het bedrag aan kwijtschelding niet meer bedraagt dan het bedrag van de inkomstenbelasting waarvoor op grond van artikel 8.16 uitstel van betaling is verleend.
+De ontvanger kan aan de belastingschuldige kwijtschelding van inkomstenbelasting verlenen tot een bedrag gelijk aan de in het nieuwe woonland van de belastingschuldige feitelijk geheven belasting voor voordelen uit vervreemding als bedoeld in [artikel 11, vijfde lid, onderdelen e en f, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11), welke aan het uitstel verleend op grond van [artikel 8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.16&z=2012-01-01&g=2012-07-01) ten grondslag liggen, met dien verstande dat het bedrag aan kwijtschelding niet meer bedraagt dan het bedrag van de inkomstenbelasting waarvoor op grond van artikel 8.16 uitstel van betaling is verleend.
 
 #### Afdeling 3. Kwijtschelding van BES belastingen in de zakelijke sfeer
 
@@ -599,13 +599,13 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 ##### Artikel 8.26
 
-1. De ontvanger verleent op schriftelijk verzoek van de aansprakelijk gestelde ontslag van de verplichting tot betaling van BES belastingen op de voet van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&afdeling=3&z=2012-01-01&g=2012-05-01).
+1. De ontvanger verleent op schriftelijk verzoek van de aansprakelijk gestelde ontslag van de verplichting tot betaling van BES belastingen op de voet van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&afdeling=3&z=2012-01-01&g=2012-07-01).
 
 2. Ontslag van de verplichting tot betaling van een belastingaanslag doet de belastingschuld zelf niet teniet gaan. Het ontslag werkt uitsluitend ten aanzien van de aansprakelijk gestelde aan wie dat ontslag is verleend.
 
-3. Een verzoek om ontslag van de verplichting tot betaling van een natuurlijk persoon die geen bedrijf en niet zelfstandig een beroep uitoefent wordt beoordeeld met overeenkomstige toepassing van [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&afdeling=2&z=2012-01-01&g=2012-05-01).
+3. Een verzoek om ontslag van de verplichting tot betaling van een natuurlijk persoon die geen bedrijf en niet zelfstandig een beroep uitoefent wordt beoordeeld met overeenkomstige toepassing van [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&afdeling=2&z=2012-01-01&g=2012-07-01).
 
-4. [Titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=1&z=2012-01-01&g=2012-05-01) is van overeenkomstige toepassing.
+4. [Titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=1&z=2012-01-01&g=2012-07-01) is van overeenkomstige toepassing.
 
 #### § 7. Internationale bijstandsverlening
 
