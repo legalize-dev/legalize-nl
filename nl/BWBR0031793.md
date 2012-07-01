@@ -4,7 +4,7 @@ identifier: "BWBR0031793"
 country: "nl"
 rank: "wet"
 publication_date: "2012-07-18"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031793"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Wet werk en bijstand.
 
 ##### Artikel II. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel III. Wijziging van de [Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815)
 
