@@ -150,19 +150,3 @@ Dit besluit wordt aangehaald als: Besluit ter voorkoming van witwassen en financ
 ### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=7&z=2012-07-01&g=2012-07-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3. Geldtransporten
-
-#### § 4. Bestuurlijke boete
-
-##### Artikel 10a
-
-In afwijking van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) bedraagt de op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3) op te leggen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
-
-#### § 5. Overgangs- en slotbepalingen
-
-## Bijlage. Boetetabel
-
-### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
