@@ -4,7 +4,7 @@ identifier: "BWBR0022465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2011-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022465"
 soort: "ministeriele-regeling"
@@ -48,33 +48,33 @@ Besluit:
 
 Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opstallen:
 
-- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in [bijlage 1, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2011-07-01&g=2011-07-01);
+- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in [bijlage 1, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2012-07-01&g=2012-07-01);
 
-- b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2011-07-01&g=2011-07-01).
+- b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 2
 
 Met betrekking tot pachtovereenkomsten voor tuinland:
 
-- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=11) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.247,– en in de Rest van Nederland € 1.235,–;
+- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=11) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.533,– en in de Rest van Nederland € 944,–;
 
-- b. is het percentage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=11) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland –26% en in de Rest van Nederland –22%.
+- b. is het percentage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=11) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 23% en in de Rest van Nederland –24%.
 
 ##### Artikel 3
 
 Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij behorende arbeiders- of dienstwoning:
 
-- a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2011-07-01&g=2011-07-01);
+- a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2012-07-01&g=2012-07-01);
 
-- b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2011-07-01&g=2011-07-01);
+- b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2012-07-01&g=2012-07-01);
 
-- c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=15), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 2,52%.
+- c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=15), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 2,3%.
 
 ##### Artikel 4
 
-De hoogst toelaatbare pachtprijs voor de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven komt overeen met de bedragen, genoemd in de tabel, opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2a&z=2011-07-01&g=2011-07-01).
+1. De hoogst toelaatbare pachtprijs voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in [artikel 16, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=16) komt overeen met de bedragen, genoemd in de tabel, opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2a&z=2012-07-01&g=2012-07-01).
 
-Met betrekking tot bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=20), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 3,14%.
+2. Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=20), waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 1,78%.
 
 ### Hoofdstuk 2. Overige zaken betreffende pacht
 
@@ -82,9 +82,9 @@ Met betrekking tot bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemen
 
 Goedgekeurd worden de besluiten van:
 
-- a. de grondkamer Noordwest van 5 september 2007 als opgenomen in [bijlage 3, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=3&z=2011-07-01&g=2011-07-01), en
+- a. de grondkamer Noordwest van 5 september 2007 als opgenomen in [bijlage 3, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=3&z=2012-07-01&g=2012-07-01), en
 
-- b. de grondkamer Zuidwest van 21 september 2007 als opgenomen in [bijlage 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=3&z=2011-07-01&g=2011-07-01).
+- b. de grondkamer Zuidwest van 21 september 2007 als opgenomen in [bijlage 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=3&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 6
 
@@ -94,9 +94,9 @@ Het bedrag, bedoeld in [artikel 23, eerste lid, van het Pachtprijzenbesluit 2007
 
 Als model voor het formulier, bedoeld in [artikel 24 van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=24), wordt vastgesteld:
 
-- a. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan op of na 1 september 2007, het model opgenomen in [bijlage 4, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=4&z=2011-07-01&g=2011-07-01), en
+- a. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan op of na 1 september 2007, het model opgenomen in [bijlage 4, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=4&z=2012-07-01&g=2012-07-01), en
 
-- b. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan voor 1 september 2007, het model opgenomen in [bijlage 4, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=4&z=2011-07-01&g=2011-07-01).
+- b. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan voor 1 september 2007, het model opgenomen in [bijlage 4, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=4&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 8
 
@@ -112,15 +112,15 @@ Deze regeling treedt in werking op 1 september 2007.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling pacht.
 
-## Bijlage 1. , behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01) van de Uitvoeringsregeling pacht
+## Bijlage 1. , behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=1&z=2012-07-01&g=2012-07-01) van de Uitvoeringsregeling pacht
 
 Hoogst toelaatbare pachtprijs voor land zonder woningen of andere opstallen
 
-### A. Pachtovereenkomsten die worden aangegaan op of na 1 september 2007
+### A. pachtovereenkomsten die worden aangegaan op of na 1 september 2007
 
 ### B. Percentage waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd
 
-## Bijlage 2. , behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=3&z=2011-07-01&g=2011-07-01)
+## Bijlage 2. , behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=3&z=2012-07-01&g=2012-07-01)
 
 Hoogst toelaatbare pachtprijzen voor agrarische woningen
 
@@ -156,7 +156,7 @@ Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden gepl
 
 ### Hoofdstuk 3. Slotartikelen
 
-## Bijlage 3. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=2&artikel=5&z=2011-07-01&g=2011-07-01)
+## Bijlage 3. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=2&artikel=5&z=2012-07-01&g=2012-07-01)
 
 ### A. Besluit grondkamer Noordwest op grond van [artikel 395 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=395)
 
@@ -206,11 +206,11 @@ De voorzitter,
 
 De secretaris,
 
-## Bijlage 4. , behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=2&artikel=7&z=2011-07-01&g=2011-07-01)
+## Bijlage 4. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=2&artikel=7&z=2012-07-01&g=2012-07-01) van de Uitvoeringsregeling pacht
 
-### **Taxatierapport pachtprijs 2007**
+### Taxatierapport pachtprijs 2007
 
-### **A. Taxatierapport voor pachtovereenkomsten, die op of na 1 september 2007 zijn ingegaan**
+### A. Taxatierapport voor pachtovereenkomsten, die op of na 1 september 2007 zijn ingegaan
 
 Grondkamer:
 
@@ -222,13 +222,13 @@ Handtekening tweede taxateur
 
 (1) Vermeld bij toelichting of groot onderhoud en/of opstalverzekeringspremie contractueel geheel of gedeeltelijk aan pachter in rekening wordt gebracht.
 
-### **B. Taxatierapport voor pachtovereenkomsten, die voor 1 september 2007 zijn ingegaan**
+### 4. Bedrijfsgebouwen
 
 Grondkamer:
 
-Verzoeknummer:
+Handtekening eerste taxateur
 
-(1) Berekening pachtprijs volgens [artikel 17 Pachtprijzenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=17) bijvoegen
+Handtekening tweede taxateur
 
 Handtekening eerste taxateur
 
@@ -244,19 +244,14 @@ Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden gepl
 
 (1) Gerekend voor zover de hoogte 1,50 meter of meer is.
 
-## Bijlage 2a. , behorend bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=4&z=2011-07-01&g=2011-07-01), van de Uitvoeringsregeling pacht
+## Bijlage 2a. , behorend bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=4&z=2012-07-01&g=2012-07-01), van de Uitvoeringsregeling pacht
 
-| Aard van het bedrijf | Grootteklasse in hectare | Doelmatigheid | Doelmatigheid | Doelmatigheid |
-| --- | --- | --- | --- | --- |
-| Aard van het bedrijf | Grootteklasse in hectare | zeer goed | voldoende | slecht |
-| Veeteelt- en gemengde bedrijven | tot 15 | € 473,– | € 257,– | € 72,– |
-|   | 15–25 | € 398,– | € 223,– | € 56,– |
-|   | 25–35 | € 351,– | € 192,– | € 54,– |
-|   | 35–45 | € 293,– | € 177,– | € 54,– |
-| Akkerbouwbedrijven | tot 15 | € 395,– | € 231,– | € 59,– |
-|   | 15–25 | € 362,– | € 203,– | € 56,– |
-|   | 25–35 | € 318,– | € 182,– | € 54,– |
-|   | 35–45 | € 270,– | € 136,– | € 54,– |
+| Aard van het bedrijf | Doelmatigheid | Doelmatigheid | Doelmatigheid | Doelmatigheid | Doelmatigheid | Doelmatigheid | Doelmatigheid |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Nieuw | Zeer goed | Goed | Redelijk | Matig | Slecht | Slecht |
+| Akkerbouw | € 446,– | € 351,– | € 268,– | € 197,– | € 137,– | € 79,– | € 79,– |
+| Melkvee | € 1145,– | € 901,– | € 688,– | € 505,– | € 352,– | € 202,– | € 202,– |
+| Overig | € 689,– | € 543,– | € 414,– | € 304,– | € 212,– | € 122,– | € 122,– |
 
 ### Hoogst toelaatbare pachtprijs voor de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven
 
@@ -292,8 +287,52 @@ De secretaris,
 
 (1) Vermeld bij toelichting of groot onderhoud en/of opstalverzekeringspremie contractueel geheel of gedeeltelijk aan pachter in rekening wordt gebracht.
 
-### **B. Taxatierapport voor pachtovereenkomsten, die voor 1 september 2007 zijn ingegaan**
+### 5. Totale pachtprijs
 
-(1) Vermeld bij toelichting of groot onderhoud en/of opstalverzekeringspremie contractueel geheel of gedeeltelijk aan pachter in rekening wordt gebracht.
+1 Vermeld bij toelichting of groot onderhoud en/of opstalverzekeringspremie contractueel geheel of gedeeltelijk aan pachter in rekening wordt gebracht.
+
+Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden geplaatst.
+
+### 1. Algemene gegevens
+
+### 2. Land
+
+### 3. Woning
+
+### Omschrijving bij: 2 Land
+
+### Omschrijving bij: 4 Bedrijfsgebouwen
+
+### Omschrijving bij: 5 Bedragen bijzondere aftrek
+
+### B. Taxatierapport voor pachtovereenkomsten, die voor 1 september 2007 zijn ingegaan
+
+Grondkamer:
+
+Verzoeknummer:
+
+### 1. Algemene gegevens
+
+### 2. Land
+
+### 3. Woning
+
+### 4. Bedrijfsgebouwen
+
+1 Berekening pachtprijs volgens [artikel 17 Pachtprijzenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=17) bijvoegen.
+
+### 5. Totale pachtprijs
+
+Handtekening eerste taxateur
+
+Handtekening tweede taxateur
+
+### Omschrijving bij: 2 Land
+
+### Omschrijving bij: 4 Bedrijfsgebouwen
+
+### Omschrijving bij: 5 Bedragen bijzondere aftrek
+
+1 Vermeld bij toelichting of groot onderhoud en/of opstalverzekeringspremie contractueel geheel of gedeeltelijk aan pachter in rekening wordt gebracht.
 
 Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden geplaatst.
