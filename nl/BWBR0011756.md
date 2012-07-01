@@ -4,7 +4,7 @@ identifier: "BWBR0011756"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2011-07-02"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011756"
 soort: "wet"
@@ -52,13 +52,13 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. inrichting: justitiële jeugdinrichting als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3a&z=2011-07-01&g=2011-07-02);
+- b. inrichting: justitiële jeugdinrichting als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3a&z=2012-07-01&g=2012-07-01);
 
 - c. particuliere inrichting: een inrichting die door Onze Minister wordt gesubsidieerd;
 
 - d. rijksinrichting: een inrichting die door Onze Minister in stand wordt gehouden;
 
-- e. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02);
+- e. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01);
 
 - f. afdelingshoofd: een personeelslid dat of medewerker die namens de directeur is belast met de verantwoordelijkheid voor het beheer van een afdeling;
 
@@ -66,17 +66,17 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - h. bestuur: het bestuur van een rechtspersoon die een particuliere inrichting beheert;
 
-- i. directeur: de directeur van de inrichting, of diens plaatsvervanger, bedoeld in [artikel 3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3b&z=2011-07-01&g=2011-07-02), dan wel [3c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3c&z=2011-07-01&g=2011-07-02);
+- i. directeur: de directeur van de inrichting, of diens plaatsvervanger, bedoeld in [artikel 3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3b&z=2012-07-01&g=2012-07-01), dan wel [3c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3c&z=2012-07-01&g=2012-07-01);
 
 - j. personeelslid of medewerker: een persoon die een taak uitvoert in het kader van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een inrichting;
 
 - k. Raad: Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- l. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=3&artikel=7&z=2011-07-01&g=2011-07-02);
+- l. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=3&artikel=7&z=2012-07-01&g=2012-07-01);
 
-- m. beklagcommissie: een commissie als bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=67&z=2011-07-01&g=2011-07-02);
+- m. beklagcommissie: een commissie als bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=67&z=2012-07-01&g=2012-07-01);
 
-- n. beroepscommissie: een commissie als bedoeld in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=74&z=2011-07-01&g=2011-07-02);
+- n. beroepscommissie: een commissie als bedoeld in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=74&z=2012-07-01&g=2012-07-01);
 
 - o. Inspectie jeugdzorg: de inspectie, bedoeld in [artikel 47 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=47);
 
@@ -86,35 +86,35 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - r. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het samenstel van dergelijke straffen dat nog moet worden ondergaan;
 
-- s. perspectiefplan: een plan als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=V&artikel=20&z=2011-07-01&g=2011-07-02);
+- s. perspectiefplan: een plan als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01);
 
-- t. scholings- en trainingsprogramma: een programma als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02);
+- t. scholings- en trainingsprogramma: een programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01);
 
-- u. huisregels: regels als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=2&artikel=4&z=2011-07-01&g=2011-07-02);
+- u. huisregels: regels als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=2&artikel=4&z=2012-07-01&g=2012-07-01);
 
 - v. groep: drie of meer jeugdigen;
 
-- w. kamer: de aan de jeugdige ingevolge [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=17&z=2011-07-01&g=2011-07-02), toegewezen verblijfsruimte;
+- w. kamer: de aan de jeugdige ingevolge [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=17&z=2012-07-01&g=2012-07-01), toegewezen verblijfsruimte;
 
-- x. activiteiten: activiteiten ingevolge [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&z=2011-07-01&g=2011-07-02);
+- x. activiteiten: activiteiten ingevolge [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&z=2012-07-01&g=2012-07-01);
 
 - ij. afzondering: het insluiten van een jeugdige in een van de groep afgescheiden ruimte;
 
-- z. tijdelijke overplaatsing: de overplaatsing als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2011-07-01&g=2011-07-02);
+- z. tijdelijke overplaatsing: de overplaatsing als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2012-07-01&g=2012-07-01);
 
-- aa. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van jeugdigen als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2011-07-01&g=2011-07-02);
+- aa. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van jeugdigen als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2012-07-01&g=2012-07-01);
 
 - bb. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=6);
 
 - cc. rechtsbijstandverlener: de advocaat of de medewerker van een stichting, bedoeld in de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- dd. stichting: een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
+- dd. stichting: een stichting als bedoeld in [artikel 1 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
 
 - ee. raad voor de kinderbescherming: de raad als bedoeld in [artikel 238 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=238);
 
 - ff. behandeling: een samenstel van handelingen, gericht op het bij jeugdigen voorkomen, verminderen of opheffen van problemen of stoornissen van lichamelijke, geestelijke, sociale of pedagogische aard die hun ontwikkeling naar volwassenheid ongunstig kunnen beïnvloeden;
 
-- gg. adviescommissie: de adviescommissie individuele trajectafdelingen, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2011-07-01&g=2011-07-02).
+- gg. adviescommissie: de adviescommissie individuele trajectafdelingen, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2012-07-01&g=2012-07-01).
 
 ### Hoofdstuk II. Doelstelling, beheer en toezicht
 
@@ -122,7 +122,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel vindt, voor zover niet bij of krachtens de wet anders is bepaald, plaats door onderbrenging van de persoon aan wie deze is opgelegd in een inrichting dan wel door diens deelname aan een scholings- en trainingsprogramma, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02).
+1. De tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel vindt, voor zover niet bij of krachtens de wet anders is bepaald, plaats door onderbrenging van de persoon aan wie deze is opgelegd in een inrichting dan wel door diens deelname aan een scholings- en trainingsprogramma, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01).
 
 2. Met handhaving van het karakter van de straf of de maatregel wordt de tenuitvoerlegging hiervan aangewend voor de opvoeding van de jeugdige en zoveel mogelijk dienstbaar gemaakt aan de voorbereiding op diens terugkeer in de maatschappij. In het geval dat een vrijheidsbenemende maatregel behandeling inhoudt wordt de tenuitvoerlegging tevens hierop afgestemd.
 
@@ -146,7 +146,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 5. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in het derde lid, kan de directeur de deelname beëindigen en wordt de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen in de inrichting voortgezet.
 
-6. De jeugdige heeft het recht bij de directeur een met redenen omkleed verzoekschrift in te dienen, strekkende tot deelname aan een scholings- of trainingsprogramma. [Artikel 66, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2011-07-01&g=2011-07-02), is van overeenkomstige toepassing.
+6. De jeugdige heeft het recht bij de directeur een met redenen omkleed verzoekschrift in te dienen, strekkende tot deelname aan een scholings- of trainingsprogramma. [Artikel 66, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing.
 
 #### Paragraaf 2. Beheer
 
@@ -172,31 +172,31 @@ De jeugdigen zijn verplicht deze aanwijzingen op te volgen.
 
 - a. de deelname aan en beëindiging van de deelname aan een scholings- en trainingsprogramma;
 
-- b. de onderbrenging van een kind in een inrichting als bedoeld in [artikel 16, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=13&z=2011-07-01&g=2011-07-02);
+- b. de onderbrenging van een kind in een inrichting als bedoeld in [artikel 16, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=13&z=2012-07-01&g=2012-07-01);
 
-- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg of voor intensieve behandeling, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2011-07-01&g=2011-07-02), onderscheidenlijk [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2011-07-01&g=2011-07-02);
+- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg of voor intensieve behandeling, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2012-07-01&g=2012-07-01), onderscheidenlijk [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2012-07-01&g=2012-07-01);
 
-- d. de uitsluiting van verblijf in de groep of van deelname aan activiteiten en de verlenging hiervan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), alsmede de verlenging van uitsluiting van verblijf in de groep, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02);
+- d. de uitsluiting van verblijf in de groep of van deelname aan activiteiten en de verlenging hiervan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), alsmede de verlenging van uitsluiting van verblijf in de groep, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01);
 
-- e. de plaatsing in afzondering, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), op de grond van [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), de verlenging hiervan, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), en de tenuitvoerlegging van de afzondering in een andere inrichting of afdeling, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-02);
+- e. de plaatsing in afzondering, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), op de grond van [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), de verlenging hiervan, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), en de tenuitvoerlegging van de afzondering in een andere inrichting of afdeling, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2012-07-01&g=2012-07-01);
 
-- f. de tijdelijke overplaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste, onderscheidenlijk het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2011-07-01&g=2011-07-02);
+- f. de tijdelijke overplaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste, onderscheidenlijk het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2012-07-01&g=2012-07-01);
 
-- g. de beperking en intrekking van het verlof bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=28&z=2011-07-01&g=2011-07-02), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2011-07-01&g=2011-07-02), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-02);
+- g. de beperking en intrekking van het verlof bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=28&z=2012-07-01&g=2012-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2012-07-01&g=2012-07-01), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2012-07-01&g=2012-07-01);
 
-- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2011-07-01&g=2011-07-02);
+- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2012-07-01&g=2012-07-01);
 
-- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2011-07-01&g=2011-07-02);
+- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2012-07-01&g=2012-07-01);
 
-- j. de bevestiging van mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2011-07-01&g=2011-07-02);
+- j. de bevestiging van mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2012-07-01&g=2012-07-01);
 
-- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2011-07-01&g=2011-07-02), de toepassing van [artikel 56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2011-07-01&g=2011-07-02), en [artikel 57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2011-07-01&g=2011-07-02).
+- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2012-07-01&g=2012-07-01), de toepassing van [artikel 56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2012-07-01&g=2012-07-01), en [artikel 57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2012-07-01&g=2012-07-01).
 
 5. In afwijking van het bepaalde in het tweede en vierde lid, kan de directeur een afdelingshoofd machtigen tot het nemen van de volgende beslissingen:
 
-- a. de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in de [artikelen 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), de verlenging van de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in artikel 23, tweede lid en vierde lid, en artikel 24, tweede lid;
+- a. de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in de [artikelen 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), de verlenging van de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in artikel 23, tweede lid en vierde lid, en artikel 24, tweede lid;
 
-- b. de plaatsing in afzondering, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02).
+- b. de plaatsing in afzondering, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01).
 
 6. Indien de onder het vijfde lid genomen beslissingen worden genomen door een afdelingshoofd dan wordt de directeur daarvan zo spoedig mogelijk, doch uiterlijk binnen vijftien uren na het nemen van die beslissing, op de hoogte gesteld.
 
@@ -210,7 +210,7 @@ De jeugdigen zijn verplicht deze aanwijzingen op te volgen.
 
 ##### Artikel 6
 
-De Raad behandelt beroepschriften ingevolge de [hoofdstukken XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2011-07-01&g=2011-07-02) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2011-07-01&g=2011-07-02).
+De Raad behandelt beroepschriften ingevolge de [hoofdstukken XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2012-07-01&g=2012-07-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 7
 
@@ -222,7 +222,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XIV](https://wetten
 
 - b. kennis te nemen van door de jeugdigen, ouders of voogd, stiefouder of pleegouders, naar voren gebrachte grieven en ter zake te bemiddelen;
 
-- c. zorg te dragen voor de behandeling van klaagschriften ingevolge [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2011-07-01&g=2011-07-02);
+- c. zorg te dragen voor de behandeling van klaagschriften ingevolge [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2012-07-01&g=2012-07-01);
 
 - d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.
 
@@ -290,15 +290,15 @@ Onze Minister kan nadere regels stellen over:
 
 - b. de procedure van plaatsing, overplaatsing en overbrenging;
 
-- c. de criteria waaraan jeugdigen moeten voldoen voor plaatsing in een inrichting of afdeling met een bijzondere bestemming, als bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02);
+- c. de criteria waaraan jeugdigen moeten voldoen voor plaatsing in een inrichting of afdeling met een bijzondere bestemming, als bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01);
 
 - d. de onderbrenging van kinderen van jeugdigen in de inrichting, afdeling of plaats waar de jeugdige verblijft.
 
 ##### Artikel 12
 
-1. Personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast, worden, voor zover de tenuitvoerlegging in een inrichting plaatsvindt, geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig het bepaalde in [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-02). De plaatsing geschiedt met inachtneming van de titel van de vrijheidsbeneming, de persoon van de jeugdige of de benodigde mate van beveiliging.
+1. Personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast, worden, voor zover de tenuitvoerlegging in een inrichting plaatsvindt, geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig het bepaalde in [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01). De plaatsing geschiedt met inachtneming van de titel van de vrijheidsbeneming, de persoon van de jeugdige of de benodigde mate van beveiliging.
 
-2. Personen als bedoeld in [artikel 8, eerste lid, onderdelen e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02), worden in elk geval geplaatst in een inrichting of op een afdeling waar behandeling plaats kan vinden.
+2. Personen als bedoeld in [artikel 8, eerste lid, onderdelen e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01), worden in elk geval geplaatst in een inrichting of op een afdeling waar behandeling plaats kan vinden.
 
 3. Met de plaatsing en overplaatsing zijn door Onze Minister aangewezen selectiefunctionarissen belast. Deze zijn bevoegd daartoe de overbrenging van personen te bevelen. Zij kunnen de overbrenging doen geschieden door daartoe door hen aangewezen personeelsleden of medewerkers.
 
@@ -306,17 +306,17 @@ Onze Minister kan nadere regels stellen over:
 
 5. De selectiefunctionaris neemt bij de beslissing tot plaatsing, overplaatsing of overbrenging de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd, in aanmerking. De selectiefunctionaris neemt bij de beslissing, bedoeld in het eerste lid, de aanwijzingen van de stichting voor zover mogelijk in acht.
 
-6. De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een afdeling voor intensieve zorg of voor intensieve behandeling als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2011-07-01&g=2011-07-02), onderscheidenlijk [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2011-07-01&g=2011-07-02), na advies van een psychiater, die voor zover mogelijk overleg heeft gevoerd met de behandelend gedragsdeskundige.
+6. De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een afdeling voor intensieve zorg of voor intensieve behandeling als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2012-07-01&g=2012-07-01), onderscheidenlijk [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2012-07-01&g=2012-07-01), na advies van een psychiater, die voor zover mogelijk overleg heeft gevoerd met de behandelend gedragsdeskundige.
 
-7. De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een individuele trajectafdeling als bedoeld in [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2011-07-01&g=2011-07-02), na daarover advies te hebben ingewonnen van de adviescommissie.
+7. De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een individuele trajectafdeling als bedoeld in [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2012-07-01&g=2012-07-01), na daarover advies te hebben ingewonnen van de adviescommissie.
 
 8. In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een jeugdige kan de selectiefunctionaris, met inachtneming van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), bepalen dat de jeugdige naar een psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=1) zal worden overgebracht om daar zolang als dat noodzakelijk is te worden verpleegd.
 
-9. De selectiefunctionaris kan, op verzoek van de directeur, beslissen dat de vrijheidsbenemende straf tijdelijk buiten de inrichting op een plaats als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02), ten uitvoer wordt gelegd.
+9. De selectiefunctionaris kan, op verzoek van de directeur, beslissen dat de vrijheidsbenemende straf tijdelijk buiten de inrichting op een plaats als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01), ten uitvoer wordt gelegd.
 
 ##### Artikel 13
 
-1. Een plaatsing als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2011-07-01&g=2011-07-02), geschiedt voordat de termijn van de maatregel drie maanden is verstreken.
+1. Een plaatsing als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2012-07-01&g=2012-07-01), geschiedt voordat de termijn van de maatregel drie maanden is verstreken.
 
 2. Indien de plaatsing niet binnen de in het eerste lid gestelde termijn mogelijk is, kan de selectiefunctionaris deze termijn telkens met drie maanden verlengen.
 
@@ -326,11 +326,11 @@ Onze Minister kan nadere regels stellen over:
 
 1. De jeugdige ten aanzien van wie met toepassing van [artikel 29k, tweede lid van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29k) is bepaald dat hij in een inrichting wordt geplaatst, heeft aanspraak op die plaatsing. Een jeugdige heeft slechts aanspraak op deze plaatsing als de stichting, die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat hij op die plaatsing is aangewezen. Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit bedoeld in de tweede volzin niet afgewacht kan worden. Daarbij kan worden afgeweken van de tweede volzin.
 
-2. De jeugdige, bedoeld in het eerste lid, kan worden overgeplaatst naar een beperkt beveiligde inrichting als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=10&z=2011-07-01&g=2011-07-02).
+2. De jeugdige, bedoeld in het eerste lid, kan worden overgeplaatst naar een beperkt beveiligde inrichting als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=10&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 15
 
-1. In afwijking van [artikel 12, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2011-07-01&g=2011-07-02), kan de selectiefunctionaris bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
+1. In afwijking van [artikel 12, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2012-07-01&g=2012-07-01), kan de selectiefunctionaris bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
 
 2. Het eerste lid kan voor een jeugdige in de leeftijd van twaalf tot zestien jaar worden toegepast, met dien verstande dat de maximale termijn voor verblijf in een politiecel dan drie dagen bedraagt en het verblijf alleen mag worden toegepast in afwachting van het regelen van vervoer naar de plaats in een inrichting.
 
@@ -340,7 +340,7 @@ Onze Minister kan nadere regels stellen over:
 
 ##### Artikel 16
 
-1. Indien een jeugdige een kind in de inrichting of afdeling als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02), wil onderbrengen ten einde het aldaar te verzorgen en op te voeden, behoeft hij de toestemming van de directeur. De directeur geeft deze toestemming, voor zover dit verblijf zich verdraagt met de volgende belangen:
+1. Indien een jeugdige een kind in de inrichting of afdeling als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01), wil onderbrengen ten einde het aldaar te verzorgen en op te voeden, behoeft hij de toestemming van de directeur. De directeur geeft deze toestemming, voor zover dit verblijf zich verdraagt met de volgende belangen:
 
 - a. de bescherming van de persoonlijke veiligheid of de geestelijke of lichamelijke ontwikkeling van het kind;
 
@@ -374,11 +374,11 @@ Onze Minister kan nadere regels stellen over:
 
 ##### Artikel 17
 
-1. De directeur bepaalt de wijze van onderbrenging van de jeugdigen die overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2011-07-01&g=2011-07-02) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
+1. De directeur bepaalt de wijze van onderbrenging van de jeugdigen die overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2012-07-01&g=2012-07-01) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
 
 2. De directeur wijst iedere jeugdige een kamer toe.
 
-3. De directeur kan onderdelen van de inrichting of de afdeling aanwijzen voor de onderbrenging van jeugdigen die een bijzondere opvang of behandeling in de zin van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02), behoeven.
+3. De directeur kan onderdelen van de inrichting of de afdeling aanwijzen voor de onderbrenging van jeugdigen die een bijzondere opvang of behandeling in de zin van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01), behoeven.
 
 4. De directeur bepaalt de criteria waaraan de jeugdige moet voldoen om voor onderbrenging als bedoeld in het derde lid in aanmerking te komen.
 
@@ -390,19 +390,19 @@ Onze Minister kan nadere regels stellen over:
 
 1. De betrokkene heeft het recht een met redenen omkleed bezwaarschrift in te dienen tegen de beslissing:
 
-- a. tot verlenging van de termijn, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=13&z=2011-07-01&g=2011-07-02);
+- a. tot verlenging van de termijn, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=13&z=2012-07-01&g=2012-07-01);
 
-- b. tot plaatsing of overplaatsing of overbrenging als bedoeld in [artikel 12, eerste onderscheidenlijk achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2011-07-01&g=2011-07-02);
+- b. tot plaatsing of overplaatsing of overbrenging als bedoeld in [artikel 12, eerste onderscheidenlijk achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=12&z=2012-07-01&g=2012-07-01);
 
-- c. tot plaatsing of overplaatsing op een afdeling als bedoeld in de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2011-07-01&g=2011-07-02), [22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2011-07-01&g=2011-07-02), [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2011-07-01&g=2011-07-02) en [22d](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22d&z=2011-07-01&g=2011-07-02);
+- c. tot plaatsing of overplaatsing op een afdeling als bedoeld in de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2012-07-01&g=2012-07-01), [22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2012-07-01&g=2012-07-01), [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2012-07-01&g=2012-07-01) en [22d](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22d&z=2012-07-01&g=2012-07-01);
 
-- d. tot het gebruiken van geweld of aanwenden van vrijheidsbeperkende middelen, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=40&z=2011-07-01&g=2011-07-02).
+- d. tot het gebruiken van geweld of aanwenden van vrijheidsbeperkende middelen, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=40&z=2012-07-01&g=2012-07-01).
 
-2. Op de wijze van indiening is [artikel 66, tweede, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2011-07-01&g=2011-07-02), van overeenkomstige toepassing.
+2. Op de wijze van indiening is [artikel 66, tweede, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing.
 
 3. De selectiefunctionaris stelt de betrokkene in de gelegenheid schriftelijk of mondeling diens bezwaarschrift toe te lichten, tenzij hij het aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht.
 
-4. De selectiefunctionaris stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2011-07-01&g=2011-07-02), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
+4. De selectiefunctionaris stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2012-07-01&g=2012-07-01), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
 
 5. Het indienen van een bezwaarschrift blijft achterwege, indien de betrokkene in de gelegenheid is gesteld zijn bezwaren tegen een door de selectiefunctionaris voorgenomen en hem betreffende beslissing als bedoeld in het eerste lid kenbaar te maken.
 
@@ -412,7 +412,7 @@ Onze Minister kan nadere regels stellen over:
 
 2. Met een verzoekschrift wordt gelijkgesteld een akkoordverklaring van de jeugdige met het selectieadvies van de directeur van de inrichting.
 
-3. De [artikel 66, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2011-07-01&g=2011-07-02), en [18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2011-07-01&g=2011-07-02), zijn van overeenkomstige toepassing.
+3. De [artikel 66, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2012-07-01&g=2012-07-01), en [18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), zijn van overeenkomstige toepassing.
 
 4. Indien het verzoekschrift, bedoeld in het eerste lid, is afgewezen, kan twee maanden na de ontvangst van deze afwijzing opnieuw een verzoekschrift worden ingediend.
 
@@ -460,7 +460,7 @@ In inrichtingen verblijven jeugdigen in groepen en nemen deel aan gemeenschappel
 
 ##### Artikel 24
 
-1. De directeur kan de jeugdige uitsluiten van het verblijf in de groep of de deelname aan een of meer activiteiten behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2011-07-01&g=2011-07-02):
+1. De directeur kan de jeugdige uitsluiten van het verblijf in de groep of de deelname aan een of meer activiteiten behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2012-07-01&g=2012-07-01):
 
 - a. indien dit in het belang van de orde of de veiligheid van de inrichting dan wel van een ongestoorde tenuitvoerlegging van de vrijheidsbeneming noodzakelijk is;
 
@@ -480,13 +480,13 @@ In inrichtingen verblijven jeugdigen in groepen en nemen deel aan gemeenschappel
 
 ##### Artikel 25
 
-1. De directeur is bevoegd een jeugdige in afzondering te plaatsen op de gronden, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02). De afzondering op de gronden van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), duurt ten hoogste één dag voor jeugdigen tot zestien jaar en ten hoogste twee dagen voor jeugdigen van zestien jaar en ouder.
+1. De directeur is bevoegd een jeugdige in afzondering te plaatsen op de gronden, genoemd in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01). De afzondering op de gronden van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), duurt ten hoogste één dag voor jeugdigen tot zestien jaar en ten hoogste twee dagen voor jeugdigen van zestien jaar en ouder.
 
-2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de jeugdige niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2011-07-01&g=2011-07-02).
+2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de jeugdige niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2012-07-01&g=2012-07-01).
 
-3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), eenmaal voor ten hoogste één dag voor jeugdigen tot zestien jaar en ten hoogste twee dagen voor jeugdigen van zestien jaar en ouder verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
+3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), eenmaal voor ten hoogste één dag voor jeugdigen tot zestien jaar en ten hoogste twee dagen voor jeugdigen van zestien jaar en ouder verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
 
-4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), geboden is, kan een personeelslid of medewerker een jeugdige voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
+4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), geboden is, kan een personeelslid of medewerker een jeugdige voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
 
 5. De directeur draagt zorg dat tijdens de afzondering het nodige contact tussen personeelsleden en medewerkers van de inrichting en de jeugdige wordt gewaarborgd en naar aard en frequentie op de situatie van de jeugdige wordt afgestemd.
 
@@ -512,7 +512,7 @@ In inrichtingen verblijven jeugdigen in groepen en nemen deel aan gemeenschappel
 
 ##### Artikel 27
 
-1. De directeur is bevoegd een jeugdige, na overleg met een gedragsdeskundige en de selectiefunctionaris, tijdelijk over te plaatsen op de gronden, genoemd in [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02).
+1. De directeur is bevoegd een jeugdige, na overleg met een gedragsdeskundige en de selectiefunctionaris, tijdelijk over te plaatsen op de gronden, genoemd in [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01).
 
 2. De directeur neemt de beslissing tot tijdelijke plaatsing van de jeugdige die met een machtiging als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29k) in een inrichting is geplaatst niet dan nadat hij daarvoor toestemming van de stichting heeft verkregen. Deze toestemming wordt niet gegeven zonder machtiging van de kinderrechter in de daartoe aangewezen gevallen. Voor de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd is de toestemming van Onze Minister noodzakelijk.
 
@@ -538,7 +538,7 @@ In inrichtingen verblijven jeugdigen in groepen en nemen deel aan gemeenschappel
 
 ##### Artikel 29
 
-1. De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29k) in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-02), is van overeenkomstige toepassing.
+1. De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in [artikel 29k, tweede lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29k) in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing.
 
 2. De directeur kan van het in het eerste lid bepaalde afwijken, indien naar zijn redelijk oordeel:
 
@@ -550,7 +550,7 @@ In inrichtingen verblijven jeugdigen in groepen en nemen deel aan gemeenschappel
 
 ##### Artikel 30
 
-1. De directeur kan met machtiging van Onze Minister een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, anders dan bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2011-07-01&g=2011-07-02), in de gelegenheid stellen de inrichting te verlaten bij wijze van verlof.
+1. De directeur kan met machtiging van Onze Minister een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, anders dan bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2012-07-01&g=2012-07-01), in de gelegenheid stellen de inrichting te verlaten bij wijze van verlof.
 
 2. Het verlaten van de inrichting, bedoeld in het eerste lid, schort de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel niet op.
 
@@ -598,7 +598,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 1. De directeur kan, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting dan wel in verband met de beslissing tot plaatsing of overplaatsing dan wel in verband met de toestemming tot het verlaten van de inrichting, een jeugdige verplichten urine af te staan ten behoeve van een onderzoek van die urine op aanwezigheid van gedragsbeïnvloedende middelen.
 
-2. Onze Minister stelt nadere regels vast omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de jeugdige om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. [Artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2011-07-01&g=2011-07-02), is van overeenkomstige toepassing.
+2. Onze Minister stelt nadere regels vast omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de jeugdige om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. [Artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 36
 
@@ -606,7 +606,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 2. Een personeelslid of medewerker van de inrichting waar de jeugdige verblijft kan bij dringende noodzakelijkheid een beslissing als bedoeld in het eerste lid nemen.
 
-3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de jeugdige mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. [Artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2011-07-01&g=2011-07-02), laatste volzin, is van overeenkomstige toepassing.
+3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de jeugdige mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. [Artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2012-07-01&g=2012-07-01), laatste volzin, is van overeenkomstige toepassing.
 
 ##### Artikel 37
 
@@ -630,7 +630,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 - b. indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-2. [Artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2011-07-01&g=2011-07-02), is van overeenkomstige toepassing.
+2. [Artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=34&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing.
 
 3. De directeur is bevoegd de kamer van een jeugdige te onderzoeken op de aanwezigheid van voorwerpen waarop vermoedelijk celmateriaal van de jeugdige aanwezig is en deze voorwerpen in beslag te nemen, indien de officier van justitie hem op grond van [artikel 6, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6) een opdracht tot het in beslag nemen van deze voorwerpen heeft gegeven.
 
@@ -662,7 +662,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 1. De jeugdige heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht brieven en stukken per post te verzenden en te ontvangen. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de jeugdige.
 
-2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor jeugdigen, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 42, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2011-07-01&g=2011-07-02), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken jeugdige.
+2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor jeugdigen, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 42, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2012-07-01&g=2012-07-01), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken jeugdige.
 
 3. De directeur is bevoegd op de inhoud van brieven of andere poststukken afkomstig van of bestemd voor jeugdigen toezicht uit te oefenen met het oog op een belang als bedoeld in het vierde lid. Dit toezicht kan omvatten het kopiëren van brieven of andere poststukken. Van de wijze van uitoefenen van toezicht wordt aan de jeugdige tevoren mededeling gedaan.
 
@@ -682,7 +682,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 ##### Artikel 42
 
-1. [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02), is niet van toepassing op brieven door de jeugdige gericht aan of afkomstig van:
+1. [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01), is niet van toepassing op brieven door de jeugdige gericht aan of afkomstig van:
 
 - a. leden van het Koninklijk Huis;
 
@@ -718,25 +718,25 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 2. De directeur kan het aantal tegelijk tot de jeugdige toe te laten personen beperken, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-3. De directeur kan de toelating tot de jeugdige van een bepaalde persoon of bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02). Deze weigering van een bezoeker op de grond van [artikel 41, vierde lid, onder a, b, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02), geldt voor ten hoogste vier weken.
+3. De directeur kan de toelating tot de jeugdige van een bepaalde persoon of bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01). Deze weigering van een bezoeker op de grond van [artikel 41, vierde lid, onder a, b, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01), geldt voor ten hoogste vier weken.
 
-4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02). Dit toezicht kan omvatten het beluisteren of het opnemen van het gesprek tussen de bezoeker en de jeugdige. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
+4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01). Dit toezicht kan omvatten het beluisteren of het opnemen van het gesprek tussen de bezoeker en de jeugdige. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
 
 5. Iedere bezoeker dient zich bij binnenkomst op deugdelijke wijze te legitimeren. De directeur kan bepalen dat een bezoeker aan zijn kleding wordt onderzocht op de aanwezigheid van voorwerpen die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting. Dit onderzoek kan ook betrekking hebben op door hem meegebrachte voorwerpen. De directeur is bevoegd dergelijke voorwerpen gedurende de duur van het bezoek onder zich te nemen tegen afgifte van een bewijs van ontvangst dan wel aan een opsporingsambtenaar ter hand te stellen met het oog op de voorkoming of de opsporing van strafbare feiten.
 
-6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02).
+6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01).
 
-7. De in [artikel 42, eerste lid, onder f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2011-07-01&g=2011-07-02), genoemde personen en instanties hebben te allen tijde toegang tot de jeugdige. De overige in dat lid genoemde personen en instanties hebben toegang tot de jeugdige op in de huisregels vastgestelde tijden en plaatsen. Indien de in artikel 42, eerste lid, onder k, genoemde personen vanwege dringende verplichtingen of belemmeringen niet in staat blijken de jeugdige op de in de huisregels vastgestelde tijden en plaatsen gedurende de week te bezoeken, stelt de directeur hen buiten deze tijden, door de week of in het weekeinde, daartoe in de gelegenheid. Tijdens dit bezoek kunnen zij zich vrijelijk met de jeugdige onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de jeugdige een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de jeugdige en diens rechtsbijstandverlener bij derden bekend kunnen worden.
+7. De in [artikel 42, eerste lid, onder f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2012-07-01&g=2012-07-01), genoemde personen en instanties hebben te allen tijde toegang tot de jeugdige. De overige in dat lid genoemde personen en instanties hebben toegang tot de jeugdige op in de huisregels vastgestelde tijden en plaatsen. Indien de in artikel 42, eerste lid, onder k, genoemde personen vanwege dringende verplichtingen of belemmeringen niet in staat blijken de jeugdige op de in de huisregels vastgestelde tijden en plaatsen gedurende de week te bezoeken, stelt de directeur hen buiten deze tijden, door de week of in het weekeinde, daartoe in de gelegenheid. Tijdens dit bezoek kunnen zij zich vrijelijk met de jeugdige onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de jeugdige een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de jeugdige en diens rechtsbijstandverlener bij derden bekend kunnen worden.
 
 ##### Artikel 44
 
 1. De jeugdige heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht ten minste tweemaal per week op in de huisregels vastgestelde tijden en plaatsen en met behulp van een daartoe aangewezen toestel gedurende tien minuten een of meer telefoongesprekken te voeren met personen buiten de inrichting. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de jeugdige. In verband met het uitoefenen van toezicht als bedoeld in het tweede lid, kunnen telefoongesprekken worden opgenomen.
 
-2. De directeur kan bepalen dat op de door of met de jeugdige gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de jeugdige een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02). Dit toezicht kan omvatten het beluisteren van een telefoongesprek of het uitluisteren van een opgenomen telefoongesprek. Aan de betrokkene wordt mededeling gedaan van de aard en de reden van het toezicht. Bij algemene maatregel van bestuur worden nadere regels gesteld over het opnemen van telefoongesprekken en het bewaren en verstrekken van opgenomen telefoongesprekken.
+2. De directeur kan bepalen dat op de door of met de jeugdige gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de jeugdige een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01). Dit toezicht kan omvatten het beluisteren van een telefoongesprek of het uitluisteren van een opgenomen telefoongesprek. Aan de betrokkene wordt mededeling gedaan van de aard en de reden van het toezicht. Bij algemene maatregel van bestuur worden nadere regels gesteld over het opnemen van telefoongesprekken en het bewaren en verstrekken van opgenomen telefoongesprekken.
 
-3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste vier weken.
+3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste vier weken.
 
-4. De jeugdige wordt in staat gesteld met de in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2011-07-01&g=2011-07-02), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaan. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan voor zover noodzakelijk is om de identiteit van de persoon of instantie met wie de jeugdige een telefoongesprek voert of wenst te voeren vast te stellen.
+4. De jeugdige wordt in staat gesteld met de in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=42&z=2012-07-01&g=2012-07-01), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaan. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan voor zover noodzakelijk is om de identiteit van de persoon of instantie met wie de jeugdige een telefoongesprek voert of wenst te voeren vast te stellen.
 
 ##### Artikel 45
 
@@ -756,7 +756,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 2. De directeur kan met het oog op de bescherming van de in het eerste lid genoemde belangen aan de toegang van een vertegenwoordiger van de media tot de inrichting voorwaarden verbinden. De directeur is bevoegd een vertegenwoordiger van de media uit de inrichting te doen verwijderen, indien hij de hem opgelegde voorwaarden niet nakomt.
 
-3. De directeur kan op het contact met een vertegenwoordiger van de media toezicht uitoefenen, indien dit noodzakelijk is met het oog op een belang als bedoeld in het eerste lid. [Artikel 43, vierde lid, tweede en derde volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2011-07-01&g=2011-07-02), is van overeenkomstige toepassing.
+3. De directeur kan op het contact met een vertegenwoordiger van de media toezicht uitoefenen, indien dit noodzakelijk is met het oog op een belang als bedoeld in het eerste lid. [Artikel 43, vierde lid, tweede en derde volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk IX. Verzorging, onderwijs en andere activiteiten
 
@@ -772,9 +772,9 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 - a. persoonlijk contact te onderhouden met de geestelijke verzorger van de godsdienst of de levensovertuiging van zijn keuze, die aan de inrichting is verbonden;
 
-- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2011-07-01&g=2011-07-02);
+- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2012-07-01&g=2012-07-01);
 
-- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02) is van overeenkomstige toepassing.
+- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01) is van overeenkomstige toepassing.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ten aanzien van de beschikbaarheid van de geestelijke verzorging. Deze regels hebben betrekking op de verlening van geestelijke verzorging door of vanwege verschillende richtingen van godsdienst of levensovertuiging, op de organisatie en de bekostiging van de geestelijke verzorging en op de aanstelling van geestelijke verzorgers bij een inrichting.
 
@@ -892,7 +892,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 ##### Artikel 55
 
-1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2011-07-01&g=2011-07-02), de navolgende disciplinaire straffen opleggen:
+1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2012-07-01&g=2012-07-01), de navolgende disciplinaire straffen opleggen:
 
 - a. opsluiting in een strafcel dan wel een andere verblijfsruimte voor ten hoogste vier dagen voor jeugdigen tot zestien jaar en ten hoogste zeven dagen voor jeugdigen van zestien jaar en ouder;
 
@@ -902,15 +902,15 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 - d. weigering, intrekking of beperking van het eerstvolgende verlof;
 
-- e. geldboete tot een bedrag van ten hoogste het zakgeld, bedoeld in [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=1&artikel=51&z=2011-07-01&g=2011-07-02), over één week.
+- e. geldboete tot een bedrag van ten hoogste het zakgeld, bedoeld in [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=1&artikel=51&z=2012-07-01&g=2012-07-01), over één week.
 
 2. De directeur bepaalt bij de oplegging van een geldboete tevens door welke andere straf deze zal worden vervangen, ingeval de boete niet binnen de daartoe door hem gestelde termijn is betaald.
 
-3. De directeur kan voor feiten als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2011-07-01&g=2011-07-02), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij te zamen niet langer duren dan vier dagen voor jeugdigen tot zestien jaar en zeven dagen voor jeugdigen van zestien jaar en ouder.
+3. De directeur kan voor feiten als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2012-07-01&g=2012-07-01), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij te zamen niet langer duren dan vier dagen voor jeugdigen tot zestien jaar en zeven dagen voor jeugdigen van zestien jaar en ouder.
 
 4. De oplegging van een straf laat onverlet de mogelijkheid voor de directeur om ter zake van de door de jeugdige toegebrachte schade met hem dan wel zijn wettelijk vertegenwoordiger een regeling te treffen.
 
-5. Geen straf kan worden opgelegd, indien de jeugdige voor het begaan van een feit als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2011-07-01&g=2011-07-02), niet verantwoordelijk kan worden gesteld.
+5. Geen straf kan worden opgelegd, indien de jeugdige voor het begaan van een feit als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=54&z=2012-07-01&g=2012-07-01), niet verantwoordelijk kan worden gesteld.
 
 6. Indien een straf is opgelegd wordt deze onverwijld ten uitvoer gelegd. De directeur kan bepalen dat een straf niet of slechts ten dele ten uitvoer wordt gelegd.
 
@@ -926,7 +926,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 1. Een straf kan geheel of ten dele voorwaardelijk worden opgelegd. De proeftijd bedraagt ten hoogste twee maanden.
 
-2. De directeur stelt in elk geval als voorwaarde dat de jeugdige zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de jeugdige stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XI&artikel=62&z=2011-07-01&g=2011-07-02).
+2. De directeur stelt in elk geval als voorwaarde dat de jeugdige zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de jeugdige stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XI&artikel=62&z=2012-07-01&g=2012-07-01).
 
 3. Bij het overtreden van een voorwaarde binnen de proeftijd kan de directeur bepalen dat de opgelegde voorwaardelijke straf geheel of ten dele ten uitvoer wordt gelegd.
 
@@ -936,9 +936,9 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 1. Van elke strafoplegging dan wel wijziging daarvan houdt de directeur aantekening in een register.
 
-2. Indien een straf ingevolge de[hoofdstukken XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2011-07-01&g=2011-07-02), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2011-07-01&g=2011-07-02) of [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2011-07-01&g=2011-07-02) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening in een register.
+2. Indien een straf ingevolge de[hoofdstukken XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2012-07-01&g=2012-07-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2012-07-01&g=2012-07-01) of [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2012-07-01&g=2012-07-01) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening in een register.
 
-3. De ouders of voogd, stiefouder of pleegouders dan wel de stichting, worden van het opleggen van een straf, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2011-07-01&g=2011-07-02), en van de redenen daarvan op de hoogte gesteld. Ten aanzien van jeugdigen van achttien jaar en ouder is de instemming van de jeugdige vereist.
+3. De ouders of voogd, stiefouder of pleegouders dan wel de stichting, worden van het opleggen van een straf, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2012-07-01&g=2012-07-01), en van de redenen daarvan op de hoogte gesteld. Ten aanzien van jeugdigen van achttien jaar en ouder is de instemming van de jeugdige vereist.
 
 4. De directeur kan van het doen van mededelingen omtrent de redenen voor het opleggen van de straf afzien indien:
 
@@ -948,7 +948,7 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 ##### Artikel 59
 
-1. De jeugdige aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 55, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2011-07-01&g=2011-07-02), is opgelegd is uitgesloten van deelname aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2011-07-01&g=2011-07-02). De directeur kan het contact met de buitenwereld, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&z=2011-07-01&g=2011-07-02), gedurende de opsluiting beperken of uitsluiten.
+1. De jeugdige aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 55, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2012-07-01&g=2012-07-01), is opgelegd is uitgesloten van deelname aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=2&artikel=53&z=2012-07-01&g=2012-07-01). De directeur kan het contact met de buitenwereld, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&z=2012-07-01&g=2012-07-01), gedurende de opsluiting beperken of uitsluiten.
 
 2. De directeur draagt zorg dat, ingeval de opsluiting in een strafcel ten uitvoer wordt gelegd en langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger terstond hiervan in kennis worden gesteld.
 
@@ -962,39 +962,39 @@ Het recht van de jeugdige op onaantastbaarheid van zijn lichaam, zijn kleding en
 
 2. De jeugdige wordt hierbij in het bijzonder gewezen op diens bevoegdheid:
 
-- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&z=2011-07-01&g=2011-07-02);
+- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&z=2012-07-01&g=2012-07-01);
 
 - b. zich te wenden tot de maandcommissaris van de commissie van toezicht overeenkomstig hoofdstuk XII;
 
-- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2011-07-01&g=2011-07-02), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2011-07-01&g=2011-07-02) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2011-07-01&g=2011-07-02).
+- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2012-07-01&g=2012-07-01), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&z=2012-07-01&g=2012-07-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 61
 
 1. De directeur stelt de jeugdige in de gelegenheid te worden gehoord, zoveel mogelijk in een voor de jeugdige begrijpelijke taal, alvorens hij beslist omtrent:
 
-- a. de weigering op het verzoek tot deelname aan een scholings- en trainingsprogramma, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02), alsmede de beëindiging van de deelname aan een scholings- en trainingsprogramma, bedoeld in artikel 3, vijfde lid;
+- a. de weigering op het verzoek tot deelname aan een scholings- en trainingsprogramma, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), alsmede de beëindiging van de deelname aan een scholings- en trainingsprogramma, bedoeld in artikel 3, vijfde lid;
 
-- b. de weigering of de intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=16&z=2011-07-01&g=2011-07-02);
+- b. de weigering of de intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=16&z=2012-07-01&g=2012-07-01);
 
-- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2011-07-01&g=2011-07-02), op een afdeling voor intensieve behandeling, bedoeld in [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2011-07-01&g=2011-07-02), of een individuele trajectafdeling, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2011-07-01&g=2011-07-02);
+- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2012-07-01&g=2012-07-01), op een afdeling voor intensieve behandeling, bedoeld in [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2012-07-01&g=2012-07-01), of een individuele trajectafdeling, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2012-07-01&g=2012-07-01);
 
-- d. de uitsluiting van het verblijf in de groep of van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02) en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), alsmede verlenging van de uitsluiting van verblijf in de groep, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02);
+- d. de uitsluiting van het verblijf in de groep of van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01) en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), alsmede verlenging van de uitsluiting van verblijf in de groep, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01);
 
-- e. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), en de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-02);
+- e. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), en de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2012-07-01&g=2012-07-01);
 
-- f. de tijdelijke plaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2011-07-01&g=2011-07-02);
+- f. de tijdelijke plaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2012-07-01&g=2012-07-01);
 
-- g. de beperking en de intrekking van verlof, bedoeld in de [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2011-07-01&g=2011-07-02), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-02);
+- g. de beperking en de intrekking van verlof, bedoeld in de [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2012-07-01&g=2012-07-01), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2012-07-01&g=2012-07-01);
 
-- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2011-07-01&g=2011-07-02);
+- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2012-07-01&g=2012-07-01);
 
-- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2011-07-01&g=2011-07-02);
+- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2012-07-01&g=2012-07-01);
 
-- j. de bevestiging door mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2011-07-01&g=2011-07-02);
+- j. de bevestiging door mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2012-07-01&g=2012-07-01);
 
-- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2011-07-01&g=2011-07-02) en de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2011-07-01&g=2011-07-02) en [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2011-07-01&g=2011-07-02);
+- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2012-07-01&g=2012-07-01) en de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2012-07-01&g=2012-07-01) en [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2012-07-01&g=2012-07-01);
 
-- l. de observatie door middel van een camera, bedoeld in de [artikelen 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25a&z=2011-07-01&g=2011-07-02), en [55a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55a&z=2011-07-01&g=2011-07-02).
+- l. de observatie door middel van een camera, bedoeld in de [artikelen 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25a&z=2012-07-01&g=2012-07-01), en [55a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55a&z=2012-07-01&g=2012-07-01).
 
 2. Van het horen van de jeugdige wordt aantekening gehouden.
 
@@ -1008,9 +1008,9 @@ Dit laat onverlet dat de jeugdige zo spoedig mogelijk achteraf alsnog wordt geho
 
 4. Indien de beslissing tot
 
-- a. de uitsluiting van verblijf in de groep of van deelname aan activiteiten en de verlenging hiervan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk artikel 23, vierde lid, en 24, tweede lid, alsmede de verlenging van uitsluiting van verblijf in de groep, bedoeld in artikel 23, tweede lid;
+- a. de uitsluiting van verblijf in de groep of van deelname aan activiteiten en de verlenging hiervan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk artikel 23, vierde lid, en 24, tweede lid, alsmede de verlenging van uitsluiting van verblijf in de groep, bedoeld in artikel 23, tweede lid;
 
-- b. de plaatsing in afzondering, als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), op de grond van [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), en de verlenging hiervan, bedoeld in artikel 25, derde lid;
+- b. de plaatsing in afzondering, als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), op de grond van [artikel 24, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), en de verlenging hiervan, bedoeld in artikel 25, derde lid;
 
 wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid te worden gehoord.
 
@@ -1018,21 +1018,21 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 ##### Artikel 62
 
-1. De directeur geeft de jeugdige van elke beslissing als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XI&artikel=61&z=2011-07-01&g=2011-07-02), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+1. De directeur geeft de jeugdige van elke beslissing als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XI&artikel=61&z=2012-07-01&g=2012-07-01), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
 
 2. De directeur geeft de jeugdige op de in het eerste lid omschreven wijze een mededeling omtrent:
 
-- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2011-07-01&g=2011-07-02);
+- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen als bedoeld in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=41&z=2012-07-01&g=2012-07-01);
 
-- b. de weigering van de toelating tot de jeugdige van een bepaald persoon of bepaalde personen als bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2011-07-01&g=2011-07-02);
+- b. de weigering van de toelating tot de jeugdige van een bepaald persoon of bepaalde personen als bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=43&z=2012-07-01&g=2012-07-01);
 
-- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken als bedoeld in [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=44&z=2011-07-01&g=2011-07-02);
+- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken als bedoeld in [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=44&z=2012-07-01&g=2012-07-01);
 
-- d. de weigering van een contact met een vertegenwoordiger van de media als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=45&z=2011-07-01&g=2011-07-02).
+- d. de weigering van een contact met een vertegenwoordiger van de media als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VIII&artikel=45&z=2012-07-01&g=2012-07-01).
 
 3. In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de jeugdige is opgelegd ingevolge de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62), [62a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62a) en [76 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=76).
 
-4. De jeugdige wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het verzoeken om bemiddeling, bedoeld in [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2011-07-01&g=2011-07-02) of het instellen van beklag, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2011-07-01&g=2011-07-02), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
+4. De jeugdige wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het verzoeken om bemiddeling, bedoeld in [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2012-07-01&g=2012-07-01) of het instellen van beklag, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&z=2012-07-01&g=2012-07-01), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
 
 ##### Artikel 63
 
@@ -1048,7 +1048,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 - e. opname- en ontslaggegevens;
 
-- f. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=58&z=2011-07-01&g=2011-07-02);
+- f. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=58&z=2012-07-01&g=2012-07-01);
 
 - g. adviezen en aantekeningen als bedoeld in [artikel 77t, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77t).
 
@@ -1060,7 +1060,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 ##### Artikel 64
 
-1. De jeugdige heeft het recht zich, mondeling of schriftelijk, tot de maandcommissaris, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=3&artikel=7&z=2011-07-01&g=2011-07-02), te wenden met het verzoek te bemiddelen terzake van een grief omtrent de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens hem heeft gedragen of een bij of krachtens deze wet gestelde zorgplicht heeft betracht. Een gedraging van een personeelslid of medewerker van de inrichting jegens de jeugdige wordt met het oog op de toepassing van deze bepaling als een gedraging van de directeur aangemerkt.
+1. De jeugdige heeft het recht zich, mondeling of schriftelijk, tot de maandcommissaris, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=3&artikel=7&z=2012-07-01&g=2012-07-01), te wenden met het verzoek te bemiddelen terzake van een grief omtrent de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens hem heeft gedragen of een bij of krachtens deze wet gestelde zorgplicht heeft betracht. Een gedraging van een personeelslid of medewerker van de inrichting jegens de jeugdige wordt met het oog op de toepassing van deze bepaling als een gedraging van de directeur aangemerkt.
 
 2. Indien de grief een beslissing betreft waartegen beklag openstaat, dient dit verzoek uiterlijk op de zevende dag na die waarop de jeugdige kennis heeft gekregen van die beslissing te worden ingediend.
 
@@ -1068,11 +1068,11 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 4. De maandcommissaris stelt de jeugdige en de directeur in de gelegenheid, al dan niet in elkaars tegenwoordigheid, hun standpunt mondeling toe te lichten. Indien de jeugdige de Nederlandse taal niet voldoende beheerst, draagt de maandcommissaris zorg voor de bijstand van een tolk.
 
-5. Hij legt de resultaten van de bemiddeling neer in een schriftelijke mededeling en zendt een gedagtekend afschrift daarvan aan de directeur en de jeugdige. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend. Indien de jeugdige de Nederlandse taal niet voldoende begrijpt, draagt de maandcommissaris zorg voor een vertaling van de mededeling. In de gevallen, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2011-07-01&g=2011-07-02), wordt de jeugdige gewezen op de mogelijkheid van beklag en de wijze waarop en de termijn waarbinnen dit moet worden gedaan.
+5. Hij legt de resultaten van de bemiddeling neer in een schriftelijke mededeling en zendt een gedagtekend afschrift daarvan aan de directeur en de jeugdige. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend. Indien de jeugdige de Nederlandse taal niet voldoende begrijpt, draagt de maandcommissaris zorg voor een vertaling van de mededeling. In de gevallen, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2012-07-01&g=2012-07-01), wordt de jeugdige gewezen op de mogelijkheid van beklag en de wijze waarop en de termijn waarbinnen dit moet worden gedaan.
 
 6. De directeur deelt, binnen vier weken na ontvangst van de mededeling, bedoeld in het vijfde lid, de jeugdige alsmede de commissie van toezicht mede of hij het oordeel van de maandcommissaris over de grief deelt en of hij naar aanleiding van dat oordeel maatregelen zal nemen en zo ja welke.
 
-7. Tegen de beslissing, bedoeld in het zesde lid, kan de jeugdige een klacht indienen bij de beklagcommissie. In dat geval is het bepaalde in [artikel 68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2011-07-01&g=2011-07-02), niet van toepassing.
+7. Tegen de beslissing, bedoeld in het zesde lid, kan de jeugdige een klacht indienen bij de beklagcommissie. In dat geval is het bepaalde in [artikel 68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2012-07-01&g=2012-07-01), niet van toepassing.
 
 8. De ouders of voogd, stiefouder of pleegouders hebben het recht als bedoeld in het eerste lid ter zake van een grief omtrent de wijze waarop de directeur zich in een bepaalde aangelegenheid jegens hen heeft gedragen. Het eerste en derde tot en met zevende lid is van overeenkomstige toepassing.
 
@@ -1082,29 +1082,29 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 1. Een jeugdige kan bij de beklagcommissie beklag doen over een hem betreffende door of namens de directeur genomen beslissing betreffende:
 
-- a. de weigering op het verzoek tot deelname aan een scholings-en trainingsprogramma, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02), alsmede de beëindiging van de deelname aan een scholings- en trainingsprogramma, bedoeld in artikel 3, vijfde lid;
+- a. de weigering op het verzoek tot deelname aan een scholings-en trainingsprogramma, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), alsmede de beëindiging van de deelname aan een scholings- en trainingsprogramma, bedoeld in artikel 3, vijfde lid;
 
 - b. de weigering of de intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in artikel 16;
 
-- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2011-07-01&g=2011-07-02), op een afdeling voor intensieve behandeling, bedoeld in [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2011-07-01&g=2011-07-02), of een individuele trajectafdeling, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2011-07-01&g=2011-07-02);
+- c. de voortzetting van het verblijf op een afdeling voor intensieve zorg, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22a&z=2012-07-01&g=2012-07-01), op een afdeling voor intensieve behandeling, bedoeld in [artikel 22b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22b&z=2012-07-01&g=2012-07-01), of een individuele trajectafdeling, bedoeld in [artikel 22c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22c&z=2012-07-01&g=2012-07-01);
 
-- d. de uitsluiting van het verblijf in de groep of van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2011-07-01&g=2011-07-02), en [24, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk artikel 23, vierde lid en 24, tweede lid, alsmede verlenging van de uitsluiting van verblijf in de groep, bedoeld in artikel 23, tweede lid;
+- d. de uitsluiting van het verblijf in de groep of van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=23&z=2012-07-01&g=2012-07-01), en [24, eerste lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk artikel 23, vierde lid en 24, tweede lid, alsmede verlenging van de uitsluiting van verblijf in de groep, bedoeld in artikel 23, tweede lid;
 
-- e. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2011-07-01&g=2011-07-02), op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2011-07-01&g=2011-07-02), onderscheidenlijk artikel 25, derde lid, en de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-02);
+- e. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25&z=2012-07-01&g=2012-07-01), op de grond van [artikel 24, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=24&z=2012-07-01&g=2012-07-01), onderscheidenlijk artikel 25, derde lid, en de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=26&z=2012-07-01&g=2012-07-01);
 
-- f. de tijdelijke plaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2011-07-01&g=2011-07-02);
+- f. de tijdelijke plaatsing en de verlenging hiervan, bedoeld in [artikel 27, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=27&z=2012-07-01&g=2012-07-01);
 
-- g. de beperking en de intrekking van verlof, bedoeld in de [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2011-07-01&g=2011-07-02), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-02);
+- g. de beperking en de intrekking van verlof, bedoeld in de [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=29&z=2012-07-01&g=2012-07-01), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=3&artikel=30&z=2012-07-01&g=2012-07-01);
 
-- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2011-07-01&g=2011-07-02);
+- h. het onderzoek in het lichaam, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=36&z=2012-07-01&g=2012-07-01);
 
-- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2011-07-01&g=2011-07-02);
+- i. het gedogen van een geneeskundige handeling, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=37&z=2012-07-01&g=2012-07-01);
 
-- j. de bevestiging door mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2011-07-01&g=2011-07-02);
+- j. de bevestiging door mechanische middelen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VII&artikel=38&z=2012-07-01&g=2012-07-01);
 
-- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2011-07-01&g=2011-07-02) en de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2011-07-01&g=2011-07-02) en [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2011-07-01&g=2011-07-02);
+- k. de oplegging van een disciplinaire straf, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55&z=2012-07-01&g=2012-07-01) en de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=56&z=2012-07-01&g=2012-07-01) en [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=57&z=2012-07-01&g=2012-07-01);
 
-- l. de observatie door middel van een camera, bedoeld in de [artikelen 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25a&z=2011-07-01&g=2011-07-02), en [55a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55a&z=2011-07-01&g=2011-07-02);
+- l. de observatie door middel van een camera, bedoeld in de [artikelen 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=2&artikel=25a&z=2012-07-01&g=2012-07-01), en [55a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=X&artikel=55a&z=2012-07-01&g=2012-07-01);
 
 - m. enige andere beslissing die een beperking inhoudt van een recht dat de jeugdige op grond van een bij of krachtens deze wet of een een ieder verbindende bepaling van een in Nederland geldend verdrag toekomt.
 
@@ -1122,7 +1122,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 4. De beklagcommissie stelt de maandcommissaris onverwijld op de hoogte van de klacht en doet hem deze onverwijld in een gesloten enveloppe toekomen. Indien de indiening van het klaagschrift heeft plaatsgevonden door tussenkomst van de directeur, dan stelt deze de maandcommissaris onverwijld op de hoogte van de klacht en doet deze toekomen aan de maandcommissaris.
 
-5. De maandcommissaris onderzoekt of terzake het onderwerp van de klacht tussen de jeugdige en de directeur kan worden bemiddeld. [Artikel 64, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&artikel=64&z=2011-07-01&g=2011-07-02), zijn van overeenkomstige toepassing.
+5. De maandcommissaris onderzoekt of terzake het onderwerp van de klacht tussen de jeugdige en de directeur kan worden bemiddeld. [Artikel 64, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&artikel=64&z=2012-07-01&g=2012-07-01), zijn van overeenkomstige toepassing.
 
 6. Indien de jeugdige de Nederlandse taal niet voldoende beheerst kan hij het klaagschrift in een andere taal indienen. De voorzitter van de beklagcommissie kan bepalen dat het klaagschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.
 
@@ -1168,7 +1168,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 3. Tijdens de beklagprocedure staat de beklagcommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
 
-4. Indien de klager elders verblijft, kunnen de opmerkingen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2011-07-01&g=2011-07-02), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
+4. Indien de klager elders verblijft, kunnen de opmerkingen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2012-07-01&g=2012-07-01), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
 
 5. Van het horen van de betrokkenen maakt de secretaris een schriftelijk verslag, dat door de voorzitter en de secretaris wordt ondertekend. Bij verhindering van een van hen wordt de reden daarvan in het verslag vermeld.
 
@@ -1184,13 +1184,13 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 2. De uitspraak is met redenen omkleed en gedagtekend. Zij bevat een verslag van het horen van personen door de beklagcommissie. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van een van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de directeur wordt onverwijld en kosteloos een afschrift van de beslissing van de beklagcommissie toegezonden of uitgereikt. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend.
 
-3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=75&z=2011-07-01&g=2011-07-02).
+3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=75&z=2012-07-01&g=2012-07-01).
 
 4. Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling, bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.
 
-5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Deze worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=75&z=2011-07-01&g=2011-07-02). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt de uitspraak op het klaagschrift aangetekend.
+5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Deze worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=75&z=2012-07-01&g=2012-07-01). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt de uitspraak op het klaagschrift aangetekend.
 
-6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=74&z=2011-07-01&g=2011-07-02), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
+6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIV&artikel=74&z=2012-07-01&g=2012-07-01), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
 
 7. De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde van overeenkomstige toepassing.
 
@@ -1234,7 +1234,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 2. Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden, die wordt bijgestaan door een secretaris.
 
-3. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2011-07-01&g=2011-07-02), [66, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2011-07-01&g=2011-07-02), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=67&z=2011-07-01&g=2011-07-02), [68, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2011-07-01&g=2011-07-02), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2011-07-01&g=2011-07-02) en [70, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=70&z=2011-07-01&g=2011-07-02), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
+3. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2012-07-01&g=2012-07-01), [66, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2012-07-01&g=2012-07-01), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=67&z=2012-07-01&g=2012-07-01), [68, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2012-07-01&g=2012-07-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2012-07-01&g=2012-07-01) en [70, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=70&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
 
 - a. de directeur en de klager uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1244,7 +1244,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 ##### Artikel 75
 
-1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 73, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=73&z=2011-07-01&g=2011-07-02), inhoudt.
+1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 73, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=73&z=2012-07-01&g=2012-07-01), inhoudt.
 
 2. Hangende de uitspraak op het beroepschrift kan de voorzitter van de beroepscommissie op verzoek van degene die het beroep heeft ingesteld en gehoord de andere betrokkene in de procedure de tenuitvoerlegging van de uitspraak van de beklagcommissie geheel of gedeeltelijk schorsen. Hij doet hiervan onverwijld mededeling aan de directeur en de klager.
 
@@ -1262,17 +1262,17 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 3. Indien het tweede lid, onder c, toepassing vindt, doet de beroepscommissie hetgeen de beklagcommissie had behoren te doen.
 
-4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=71&z=2011-07-01&g=2011-07-02) en [72, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=72&z=2011-07-01&g=2011-07-02), van overeenkomstige toepassing.
+4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=71&z=2012-07-01&g=2012-07-01) en [72, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=72&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk XIII. Beklag
 
 ##### Artikel 77
 
-1. De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2011-07-01&g=2011-07-02) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=19&z=2011-07-01&g=2011-07-02) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&artikel=78&z=2011-07-01&g=2011-07-02). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2011-07-01&g=2011-07-02), achterwege is gebleven.
+1. De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=19&z=2012-07-01&g=2012-07-01) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&artikel=78&z=2012-07-01&g=2012-07-01). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), achterwege is gebleven.
 
-2. De jeugdige heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2011-07-01&g=2011-07-02), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&artikel=78&z=2011-07-01&g=2011-07-02).
+2. De jeugdige heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 65, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2012-07-01&g=2012-07-01), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XV&artikel=78&z=2012-07-01&g=2012-07-01).
 
-3. Het tweede lid is overeenkomstig van toepassing op de beslissing van de selectiefunctionaris, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02).
+3. Het tweede lid is overeenkomstig van toepassing op de beslissing van Onze Minister, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01). De jeugdige heeft ook het recht een beroepschrift in te dienen indien een tijdige beslissing op de aanvraag tot het verlenen van een machtiging uitblijft en tegen de beslissing tot intrekking van die machtiging door Onze Minister.
 
 ##### Artikel 78
 
@@ -1282,7 +1282,7 @@ wordt genomen door een afdelingshoofd, stelt deze de jeugdige in de gelegenheid 
 
 3. Indien de betrokkene in een inrichting verblijft, kan de indiening van het beroepschrift geschieden door tussenkomst van de directeur van de inrichting of afdeling. De directeur draagt zorg dat het beroepschrift onverwijld van een dagtekening wordt voorzien. Als dag waarop het beroepschrift is ingediend geldt die van de dagtekening.
 
-4. De [artikelen 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2011-07-01&g=2011-07-02), [66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2011-07-01&g=2011-07-02), [68, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2011-07-01&g=2011-07-02), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2011-07-01&g=2011-07-02), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=70&z=2011-07-01&g=2011-07-02), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=71&z=2011-07-01&g=2011-07-02), [72, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=72&z=2011-07-01&g=2011-07-02), [73, eerste tot en met vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=73&z=2011-07-01&g=2011-07-02), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
+4. De [artikelen 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=65&z=2012-07-01&g=2012-07-01), [66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=66&z=2012-07-01&g=2012-07-01), [68, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=68&z=2012-07-01&g=2012-07-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=69&z=2012-07-01&g=2012-07-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=70&z=2012-07-01&g=2012-07-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=71&z=2012-07-01&g=2012-07-01), [72, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=72&z=2012-07-01&g=2012-07-01), [73, eerste tot en met vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XIII&artikel=73&z=2012-07-01&g=2012-07-01), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
 
 - a. de betrokkenen uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1298,7 +1298,7 @@ De directeur draagt zorg voor een regelmatig overleg met de jeugdigen over zaken
 
 ##### Artikel 80
 
-1. De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2011-07-01&g=2011-07-02) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=19&z=2011-07-01&g=2011-07-02) alsmede [hoofdstukken XII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2011-07-01&g=2011-07-02) aan de jeugdige toegekende rechten kunnen, behoudens ingeval de selectiefunctionaris onderscheidenlijk de beklag- of beroepscommissie van oordeel is dat zwaarwegende belangen van de jeugdige zich daartegen verzetten, mede worden uitgeoefend door diens ouders of voogd, stiefouder of pleegouders.
+1. De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=2&artikel=19&z=2012-07-01&g=2012-07-01) alsmede [hoofdstukken XII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&z=2012-07-01&g=2012-07-01) aan de jeugdige toegekende rechten kunnen, behoudens ingeval de selectiefunctionaris onderscheidenlijk de beklag- of beroepscommissie van oordeel is dat zwaarwegende belangen van de jeugdige zich daartegen verzetten, mede worden uitgeoefend door diens ouders of voogd, stiefouder of pleegouders.
 
 2. De directeur draagt zorg dat de in het eerste lid genoemde personen bij binnenkomst van de jeugdige schriftelijk en voor zover mogelijk in een voor hem begrijpelijke taal op deze rechten opmerkzaam worden gemaakt.
 
@@ -1360,13 +1360,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de crisissituatie vermoedelijk gevolg is van een psychiatrische stoornis of een persoonlijkheidsstoornis, en
 
-- c. de jeugdige ten gevolge van het gestelde onder a en b tijdelijk niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2011-07-01&g=2011-07-02).
+- c. de jeugdige ten gevolge van het gestelde onder a en b tijdelijk niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2012-07-01&g=2012-07-01).
 
 De plaatsing geschiedt alleen indien dit noodzakelijk is ten behoeve van het stabiliseren en het zo nodig stellen van een diagnose ten aanzien van de jeugdige.
 
 3. De directeur bepaalt telkens binnen ten hoogste zes weken en na advies van een psychiater of de noodzaak tot voortzetting van het verblijf op de afdeling voor intensieve zorg nog bestaat.
 
-4. Een jeugdige die op een afdeling voor intensieve zorg is geplaatst, verblijft, in afwijking van [artikel 1, onder v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2011-07-01&g=2011-07-02), in een groep van ten minste twee personen.
+4. Een jeugdige die op een afdeling voor intensieve zorg is geplaatst, verblijft, in afwijking van [artikel 1, onder v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2012-07-01&g=2012-07-01), in een groep van ten minste twee personen.
 
 ##### Artikel 22b
 
@@ -1378,13 +1378,13 @@ De plaatsing geschiedt alleen indien dit noodzakelijk is ten behoeve van het sta
 
 - b. de behoefte aan extra begeleiding het gevolg is van een psychiatrische stoornis of een persoonlijkheidsstoornis, en
 
-- c. de jeugdige ten gevolge van het gestelde onder a en b tijdelijk niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2011-07-01&g=2011-07-02).
+- c. de jeugdige ten gevolge van het gestelde onder a en b tijdelijk niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2012-07-01&g=2012-07-01).
 
 De plaatsing geschiedt alleen indien dit noodzakelijk is ter stabilisatie en behandeling van de jeugdige.
 
 3. De directeur bepaalt telkens binnen ten hoogste drie maanden en na advies van een psychiater of de noodzaak tot voortzetting van het verblijf op de afdeling voor intensieve behandeling nog bestaat.
 
-4. Een jeugdige die op een afdeling voor intensieve behandeling is geplaatst, verblijft, in afwijking van [artikel 1, onder v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2011-07-01&g=2011-07-02), in een groep van ten minste twee personen.
+4. Een jeugdige die op een afdeling voor intensieve behandeling is geplaatst, verblijft, in afwijking van [artikel 1, onder v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2012-07-01&g=2012-07-01), in een groep van ten minste twee personen.
 
 #### Paragraaf 1. Bewegingsvrijheid binnen de inrichting
 
@@ -1424,7 +1424,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3b
 
-1. Particuliere inrichtingen zijn in de Europese Economische Ruimte gevestigde rechtspersonen met volledige rechtsbevoegdheid tot wier doelstelling opvang en behandeling van jeugdigen als bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2011-07-01&g=2011-07-02), behoren en die daartoe door Onze Minister zijn aangewezen.
+1. Particuliere inrichtingen zijn in de Europese Economische Ruimte gevestigde rechtspersonen met volledige rechtsbevoegdheid tot wier doelstelling opvang en behandeling van jeugdigen als bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2012-07-01&g=2012-07-01), behoren en die daartoe door Onze Minister zijn aangewezen.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwijzing als particuliere inrichting en de daaraan te verbinden voorwaarden, alsmede omtrent het verstrekken van subsidie.
 
@@ -1586,9 +1586,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de behoefte aan extra individuele begeleiding het gevolg is van een persoonlijkheidsstoornis en
 
-- c. de jeugdige ten gevolge van het gestelde onder a en b niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2011-07-01&g=2011-07-02).
+- c. de jeugdige ten gevolge van het gestelde onder a en b niet in een inrichting kan verblijven met een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2012-07-01&g=2012-07-01).
 
-3. Het verblijf van de jeugdige is gericht op de bevordering van de terugkeer in een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2011-07-01&g=2011-07-02) of de terugkeer van de jeugdige in de samenleving.
+3. Het verblijf van de jeugdige is gericht op de bevordering van de terugkeer in een regime als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2012-07-01&g=2012-07-01) of de terugkeer van de jeugdige in de samenleving.
 
 4. Een jeugdige die op een individuele trajectafdeling is geplaatst, verblijft, in afwijking van artikel 1, onder v, in een groep van tenminste twee personen.
 
@@ -1656,7 +1656,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 80a
 
-1. Bij algemene maatregel van bestuur kunnen bij wijze van experiment regels worden gesteld waarmee tijdelijk wordt afgeweken van de in [artikel 80b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XVIa&artikel=80b&z=2011-07-01&g=2011-07-02) te noemen bepalingen, zulks met inachtneming van de aldaar genoemde doelen met het oog waarop afwijking van de betreffende bepaling gedurende de werkingsduur van de maatregel plaats kan hebben.
+1. Bij algemene maatregel van bestuur kunnen bij wijze van experiment regels worden gesteld waarmee tijdelijk wordt afgeweken van de in [artikel 80b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XVIa&artikel=80b&z=2012-07-01&g=2012-07-01) te noemen bepalingen, zulks met inachtneming van de aldaar genoemde doelen met het oog waarop afwijking van de betreffende bepaling gedurende de werkingsduur van de maatregel plaats kan hebben.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -1670,18 +1670,18 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 80b
 
-Op de wijze als voorzien in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XVIa&artikel=80a&z=2011-07-01&g=2011-07-02) kan worden afgeweken van:
+Op de wijze als voorzien in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XVIa&artikel=80a&z=2012-07-01&g=2012-07-01) kan worden afgeweken van:
 
-- a. [artikel 1, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2011-07-01&g=2011-07-02), ten aanzien van de grootte van de groep, voor zover dit dienstig is aan een experiment ingevolge de navolgende onderdelen van dit artikel en voor zover dit in het belang is van de opvoeding of de behandeling van de jeugdige;
+- a. [artikel 1, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=I&artikel=1&z=2012-07-01&g=2012-07-01), ten aanzien van de grootte van de groep, voor zover dit dienstig is aan een experiment ingevolge de navolgende onderdelen van dit artikel en voor zover dit in het belang is van de opvoeding of de behandeling van de jeugdige;
 
-- b. [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2011-07-01&g=2011-07-02), met als doel de vaststelling van een vroeger moment waarop de jeugdige aan een scholings- en trainingsprogramma kan deelnemen;
+- b. [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), met als doel de vaststelling van een vroeger moment waarop de jeugdige aan een scholings- en trainingsprogramma kan deelnemen;
 
-- c. [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=10&z=2011-07-01&g=2011-07-02), met als doel de vaststelling van andersoortige mate van beveiliging voor zover bijzondere technologische ontwikkelingen daartoe aanleiding geven;
+- c. [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=10&z=2012-07-01&g=2012-07-01), met als doel de vaststelling van andersoortige mate van beveiliging voor zover bijzondere technologische ontwikkelingen daartoe aanleiding geven;
 
-- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=17&z=2011-07-01&g=2011-07-02), met als doel de vaststelling van andersoortige wijzen van onderbrenging van de jeugdige;
+- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IV&paragraaf=1&artikel=17&z=2012-07-01&g=2012-07-01), met als doel de vaststelling van andersoortige wijzen van onderbrenging van de jeugdige;
 
-- e. de [artikelen 22 tot en met 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2011-07-01&g=2011-07-02), voorzover dit dienstig is aan een experiment waarbij de jeugdige in een inrichting, afdeling of plaats met een bijzondere bestemming als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2011-07-01&g=2011-07-02), verblijft en voor zover dit in het belang is van de opvoeding of de behandeling van de jeugdige;
+- e. de [artikelen 22 tot en met 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=VI&paragraaf=1&artikel=22&z=2012-07-01&g=2012-07-01), voorzover dit dienstig is aan een experiment waarbij de jeugdige in een inrichting, afdeling of plaats met een bijzondere bestemming als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=III&artikel=8&z=2012-07-01&g=2012-07-01), verblijft en voor zover dit in het belang is van de opvoeding of de behandeling van de jeugdige;
 
-- f. [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=1&artikel=49&z=2011-07-01&g=2011-07-02), met als doel het voorkomen van ordeverstorend gedrag dan wel het structureel bevorderen van de orde of veiligheid binnen de inrichting;
+- f. [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=IX&paragraaf=1&artikel=49&z=2012-07-01&g=2012-07-01), met als doel het voorkomen van ordeverstorend gedrag dan wel het structureel bevorderen van de orde of veiligheid binnen de inrichting;
 
-- g. [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&artikel=64&z=2011-07-01&g=2011-07-02), met als doel het bevorderen van het gebruik van de bemiddelingsprocedure als wijze van geschillenbeslechting.
+- g. [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&hoofdstuk=XII&artikel=64&z=2012-07-01&g=2012-07-01), met als doel het bevorderen van het gebruik van de bemiddelingsprocedure als wijze van geschillenbeslechting.
