@@ -4,7 +4,7 @@ identifier: "BWBR0009449"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009449"
 soort: "wet"
@@ -58,7 +58,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. activiteit: een activiteit in de zin van artikel 3 van het Protocol, zijnde een geheel van onderling samenhangende handelingen in het Antarctisch gebied;
 
-- e. organisator: de natuurlijke of rechtspersoon die vanuit Nederland een activiteit organiseert;
+- e. organisator: de natuurlijke of rechtspersoon die vanuit Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint-Eustatius en Saba; een activiteit organiseert;
 
 - f. speciaal beschermd Antarctisch gebied: delen van het Antarctisch gebied, die ingevolge artikel 3, eerste of derde lid, van bijlage V bij het Protocol als zodanig zijn aangewezen;
 
@@ -82,7 +82,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - p. afvalwater: afvalwater in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
-- q. Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit.
+- q. Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit;
+
+- r. openbare lichamen: openbare lichamen Bonaire, Sint-Eustatius en Saba.
 
 2. In deze wet en de daarop berustende bepalingen wordt onder het Antarctisch milieu mede verstaan:
 
@@ -104,7 +106,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. voor zover dit verband houdt met het verzekeren van de veiligheid in het luchtruim: in elk geval het ontwerp, de bouw, de uitrusting en luchtwaardigheid van luchtvaartuigen, de arbeidsvoorwaarden voor en de bekwaamheid van de bemanning van luchtvaartuigen of het voorkomen van botsingen van luchtvaartuigen.
 
-2. Deze wet is, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01), niet van toepassing op scheep- en luchtvaart die geen verband houdt met een activiteit.
+2. Deze wet is, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), niet van toepassing op scheep- en luchtvaart die geen verband houdt met een activiteit.
 
 ##### Artikel 3
 
@@ -112,7 +114,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De zorg, bedoeld in het eerste lid, houdt in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen voor het Antarctisch milieu kunnen worden veroorzaakt, verplicht is dergelijk handelen achterwege te laten voor zover zulks in redelijkheid kan worden gevergd, dan wel alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde die gevolgen te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.
 
-3. Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1), om uit dien hoofde in rechte op te treden.
+3. Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1), en [artikel 1, boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=1), om uit dien hoofde in rechte op te treden.
 
 ##### Artikel 4
 
@@ -124,7 +126,7 @@ Onze Ministers houden er bij de uitoefening van hun bevoegdheden krachtens deze 
 
 - c. in het Antarctisch gebied te brengen stoffen, preparaten of andere produkten, zo mogelijk, meer dan eenmaal worden gebruikt;
 
-- d. afvalstoffen zo veel mogelijk ofwel in Nederland worden verwijderd ofwel in een ander land waar regelingen zijn getroffen voor het storten of verbranden van dit afval overeenkomstig internationale overeenkomsten;
+- d. afvalstoffen zo veel mogelijk ofwel, afhankelijk van de plaats van aanvang van de activiteit, in Nederland, daaronder begrepen de openbare lichamen, worden verwijderd ofwel in een ander land waar regelingen zijn getroffen voor het storten of verbranden van dit afval overeenkomstig internationale overeenkomsten;
 
 - e. het onttrekken van levende rijkdommen aan hun populatie zo veel mogelijk wordt voorkomen en, voor zover dit niet kan worden voorkomen, zo min mogelijk pijn en lijden met zich brengt;
 
@@ -208,9 +210,9 @@ Indien de aanvraag daarop uitdrukkelijk mede betrekking heeft, kunnen Onze Minis
 
 - a. ten behoeve van een noodzakelijk wetenschappelijk doel dat niet elders kan worden gediend en mits het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie niet in gevaar wordt gebracht en het natuurlijke ecosysteem ter plaatse niet wordt geschaad of bedreigd;
 
-- b. als bedoeld in [artikel 6, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), bovendien ten behoeve van hygiënische of medische doeleinden;
+- b. als bedoeld in [artikel 6, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2012-07-01&g=2012-07-01), bovendien ten behoeve van hygiënische of medische doeleinden;
 
-- c. als bedoeld in [artikel 6, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), bovendien ten behoeve van de voedselvoorziening van de organisator, de deelnemers aan een activiteit en de in verband met de uitvoering van de activiteit werkzame personen.
+- c. als bedoeld in [artikel 6, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2012-07-01&g=2012-07-01), bovendien ten behoeve van de voedselvoorziening van de organisator, de deelnemers aan een activiteit en de in verband met de uitvoering van de activiteit werkzame personen.
 
 ##### Artikel 10
 
@@ -240,7 +242,7 @@ Op de voorbereiding van een beschikking op de aanvraag om een vergunning zijn [a
 
 2. Onze Ministers nemen bij de beslissing op de aanvraag in ieder geval in acht:
 
-- a. de voor hen geldende krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01) gestelde regels;
+- a. de voor hen geldende krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=5&z=2012-07-01&g=2012-07-01) gestelde regels;
 
 - b. indien in de vergunning toegang tot of het ondernemen van een activiteit in een speciaal beschermd Antarctisch gebied of speciaal beheerd Antarctisch gebied wordt toegestaan: het krachtens artikel 5 van bijlage V van het Protocol bepaalde.
 
@@ -268,11 +270,11 @@ Op de voorbereiding van een beschikking op de aanvraag om een vergunning zijn [a
 
 De aan een vergunning te verbinden voorschriften houden in ieder geval in:
 
-- a. indien in de vergunning het onttrekken van levende rijkdommen aan hun populatie dan wel schadelijk optreden tegen levende rijkdommen, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), wordt toegestaan:
+- a. indien in de vergunning het onttrekken van levende rijkdommen aan hun populatie dan wel schadelijk optreden tegen levende rijkdommen, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2012-07-01&g=2012-07-01), wordt toegestaan:
 
 - 1°. de handeling die wordt toegestaan, alsmede wanneer, waar en door wie de handeling mag worden verricht;
 
-- 2°. dat niet meer exemplaren aan hun populatie worden onttrokken dan strikt noodzakelijk is voor het wetenschappelijk doel, bedoeld in [artikel 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=9&z=2010-10-01&g=2010-10-01);
+- 2°. dat niet meer exemplaren aan hun populatie worden onttrokken dan strikt noodzakelijk is voor het wetenschappelijk doel, bedoeld in [artikel 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=9&z=2012-07-01&g=2012-07-01);
 
 - 3°. dat het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie niet in gevaar wordt gebracht en het natuurlijke ecosysteem ter plaatse niet wordt geschaad of bedreigd;
 
@@ -360,7 +362,7 @@ In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij vast te s
 
 2. Een ieder, met uitzondering van de vergunninghouder, kan Onze Ministers verzoeken een vergunning in het belang van de bescherming van het Antarctisch milieu met toepassing van het eerste lid te wijzigen.
 
-3. Met betrekking tot de beslissing ter zake van de inhoud van de beperkingen en voorschriften zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=12&z=2010-10-01&g=2010-10-01), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=14&z=2010-10-01&g=2010-10-01), en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=15&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing.
+3. Met betrekking tot de beslissing ter zake van de inhoud van de beperkingen en voorschriften zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=12&z=2012-07-01&g=2012-07-01), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=14&z=2012-07-01&g=2012-07-01), en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=15&z=2012-07-01&g=2012-07-01) van overeenkomstige toepassing.
 
 4. Op de voorbereiding van de beschikking zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van toepassing.
 
@@ -368,7 +370,7 @@ In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij vast te s
 
 1. Op aanvraag van de vergunninghouder kunnen Onze Ministers beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen, of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan de vergunning verbinden.
 
-2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=12&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=12&z=2012-07-01&g=2012-07-01) van overeenkomstige toepassing.
 
 3. Op de voorbereiding van de beschikking zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van toepassing.
 
@@ -376,11 +378,11 @@ In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij vast te s
 
 1. Onze Ministers trekken een vergunning voor een activiteit geheel of gedeeltelijk in indien de activiteit ontoelaatbaar nadelige gevolgen voor het Antarctisch milieu veroorzaakt of dreigt te veroorzaken, en door wijziging van de vergunning het optreden van die gevolgen onvoldoende kan worden voorkomen.
 
-2. Onze Ministers trekken een vergunning in, voor zover regels, vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), hiertoe verplichten.
+2. Onze Ministers trekken een vergunning in, voor zover regels, vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=5&z=2012-07-01&g=2012-07-01), hiertoe verplichten.
 
 3. Een ieder kan Onze Ministers verzoeken een vergunning met toepassing van het eerste lid in te trekken.
 
-4. Met betrekking tot een beslissing als bedoeld in het eerste lid, zijn de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=13&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing.
+4. Met betrekking tot een beslissing als bedoeld in het eerste lid, zijn de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=13&z=2012-07-01&g=2012-07-01) van overeenkomstige toepassing.
 
 5. Op de voorbereiding van de beschikking krachtens het eerste lid zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van toepassing.
 
@@ -392,7 +394,7 @@ Vervallen
 
 ##### Artikel 24
 
-Indien zich tijdens de uitvoering van een activiteit een ongewoon voorval voordoet of heeft voorgedaan, waardoor gevaar voor de veiligheid van mensenlevens, schepen, luchtvaartuigen of ander materieel en faciliteiten van grote waarde of nadelige gevolgen voor het Antarctisch milieu zijn ontstaan of dreigen te ontstaan, zijn de voorschriften die bij of krachtens deze wet zijn gesteld, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01), niet van toepassing voor zover het betreft maatregelen die onverwijld nodig zijn om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken of ongedaan te maken.
+Indien zich tijdens de uitvoering van een activiteit een ongewoon voorval voordoet of heeft voorgedaan, waardoor gevaar voor de veiligheid van mensenlevens, schepen, luchtvaartuigen of ander materieel en faciliteiten van grote waarde of nadelige gevolgen voor het Antarctisch milieu zijn ontstaan of dreigen te ontstaan, zijn de voorschriften die bij of krachtens deze wet zijn gesteld, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), niet van toepassing voor zover het betreft maatregelen die onverwijld nodig zijn om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken of ongedaan te maken.
 
 ##### Artikel 25
 
@@ -434,7 +436,7 @@ Een ieder is verplicht aan internationale waarnemers als bedoeld in artikel 14, 
 
 ##### Artikel 30
 
-Een gedraging in strijd met een voorschrift dat is verbonden aan een krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=8&z=2010-10-01&g=2010-10-01) verleende vergunning, is verboden.
+Een gedraging in strijd met een voorschrift dat is verbonden aan een krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=8&z=2012-07-01&g=2012-07-01) verleende vergunning, is verboden.
 
 ##### Artikel 31
 
@@ -444,7 +446,7 @@ Wijzigt de Wet op de economische delicten.
 
 1. Het bij of krachtens deze wet bepaalde is mede van toepassing op de Nederlander die zich in het Antarctisch gebied bevindt.
 
-2. De Nederlandse strafwet is mede van toepassing op de Nederlander die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.
+2. De Nederlandse strafwet is mede van toepassing op de Nederlander die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde. De eerste volzin is niet van toepassing op de Nederlander die ingezetene is van de openbare lichamen.
 
 #### § 8. Verdere bepalingen
 
@@ -489,5 +491,95 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 38
 
 Deze wet wordt aangehaald als: Wet bescherming Antarctica.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2. Verboden
+
+#### § 3. Milieueffectrapportage
+
+#### § 3a. Rampenplannen
+
+#### § 4. Vergunningen
+
+#### § 5. Maatregelen in bijzondere omstandigheden
+
+##### Artikel 24a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 5a. Milieubedreigende noodsituaties
+
+#### § 6. Beroep
+
+#### § 7. Handhaving
+
+#### § 7a. Openbare lichamen Bonaire, Sint-Eustatius en Saba
+
+##### Artikel 32a
+
+Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen.
+
+##### Artikel 32b
+
+Indien:
+
+- a. een aanvraag om een vergunning als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=8&z=2012-07-01&g=2012-07-01) wordt gedaan door een ingezetene van de openbare lichamen, of
+
+- b. de beperkingen waaronder een vergunning aan een ingezetene van de openbare lichamen is verleend en de voorschriften die daaraan zijn verbonden, worden gewijzigd, aangevuld of ingetrokken als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=20&z=2012-07-01&g=2012-07-01), of
+
+- c. een ingezetene van de openbare lichamen een verzoek als bedoeld in de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=20&z=2012-07-01&g=2012-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=21&z=2012-07-01&g=2012-07-01), of [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=22&z=2012-07-01&g=2012-07-01), indient, of
+
+- d. een intrekking van een vergunning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=22&z=2012-07-01&g=2012-07-01), die is verleend aan een ingezetene van de openbare lichamen, plaatsvindt,
+
+zijn, in afwijking van [artikel 3 van de Invoeringswet openbare lichamen Bonaire, Sint-Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=3), de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=11&z=2012-07-01&g=2012-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=20&z=2012-07-01&g=2012-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=21&z=2012-07-01&g=2012-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=22&z=2012-07-01&g=2012-07-01) onverminderd van toepassing.
+
+##### Artikel 32c
+
+Een besluit op grond van deze wet wordt, indien dit is gericht tot een natuurlijke persoon of een rechtspersoon die vanuit de openbare lichamen een activiteit organiseert, aangemerkt als een beschikking in de zin van de [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455).
+
+##### Artikel 32d
+
+Met betrekking tot de handhaving in de openbare lichamen, van het bij of krachtens deze wet bepaalde, zijn de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.1), [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.3), [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.4), [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.6) en [10.8 tot en met 10.11 van de Wet Volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.10) van overeenkomstige toepassing.
+
+##### Artikel 32e
+
+1. Voor ingezetenen van de openbare lichamen is:
+
+- a. handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=1&artikel=5&z=2012-07-01&g=2012-07-01), [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=2&artikel=6&z=2012-07-01&g=2012-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=8&z=2012-07-01&g=2012-07-01), [25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=5&artikel=25&z=2012-07-01&g=2012-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=7&artikel=29&z=2012-07-01&g=2012-07-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=7&artikel=30&z=2012-07-01&g=2012-07-01):
+
+- 1°. voor zover opzettelijk begaan, een misdrijf dat wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie;
+
+- 2°. voor zover geen misdrijf, een overtreding die wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie;
+
+- b. handelen in strijd met de voorschriften in de [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=4&artikel=19&z=2012-07-01&g=2012-07-01), en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&paragraaf=8&artikel=33&z=2012-07-01&g=2012-07-01) een overtreding die wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
+
+2. Bij de straffen, genoemd in de eerste lid, kan als bijkomende straf worden opgelegd:
+
+- a. gehele of gedeeltelijke stillegging van de inrichting van de veroordeelde, waarin het delict is begaan, voor een tijd van ten hoogste een jaar;
+
+- b. verbeurdverklaring van de voorwerpen, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35);
+
+- c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35), en
+
+- d. gehele of gedeeltelijke ontzetting van bepaalde rechten of gehele of gedeeltelijke ontzegging van bepaalde voordelen, welke rechten of voordelen de veroordeelde in verband met zijn inrichting van overheidswege zijn of zouden kunnen worden toegekend, voor een tijd van ten hoogste twee jaren.
+
+3. Tezamen met de straffen, bedoeld in het eerste en tweede lid, kunnen de volgende maatregelen worden opgelegd:
+
+- a. onderbewindstelling van de onderneming van de veroordeelde, waarin het delict is begaan, in geval van misdrijf voor een tijd van ten hoogste drie jaren en in geval van overtreding voor een tijd van ten hoogste twee jaren, en
+
+- b. het opleggen van de verplichting tot verrichting van hetgeen wederrechtelijk is nagelaten, tenietdoening van hetgeen wederrechtelijk is verricht en verrichting van prestaties tot het goedmaken van een en ander, alles op kosten van de veroordeelde, voor zover de rechter niet anders bepaalt.
+
+##### Artikel 32f
+
+Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is mede van toepassing op de ingezetene van de openbare lichamen die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.
+
+#### § 8. Verdere bepalingen
+
+#### § 9. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
