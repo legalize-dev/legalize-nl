@@ -4,7 +4,7 @@ identifier: "BWBR0028551"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2012-07-01"
-last_updated: "2011-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028551"
 soort: "wet-BES"
@@ -42,6 +42,8 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij als openbare lichamen een staatsrechtelijke positie binnen het Nederlandse staatsbestel krijgen en dat het in verband hiermee wenselijk is regels te stellen met betrekking tot de munteenheid en de wettige betaalmiddelen van de openbare lichamen Bonaire, Sint Eustatius en Saba, en dat het met het oog op de transitie voorts wenselijk is om enige voorzieningen van overgangsrechtelijke aard te treffen, waaronder de tijdelijke voortzetting van het Nederlands-Antilliaanse fiscale stelsel;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Het geldstelsel van de openbare lichamen
 
@@ -141,11 +143,11 @@ blijven deze rechten en verplichtingen daarna doorlopen en blijven de onder a to
 
 ##### Artikel 13d
 
-De bepalingen van de verordeningen, bedoeld in [artikel 13b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13b&z=2011-01-01&g=2011-01-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
+De bepalingen van de verordeningen, bedoeld in [artikel 13b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13b&z=2012-07-01&g=2012-07-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
 
 ##### Artikel 13e
 
-Op het tijdstip van transitie treedt de Raad van Beroep voor belastingzaken, bedoeld in [paragraaf 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b&z=2011-01-01&g=2011-01-01), in de plaats van de Raad van Beroep voor belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
+Op het tijdstip van transitie treedt de Raad van Beroep voor belastingzaken, bedoeld in [paragraaf 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b&z=2012-07-01&g=2012-07-01), in de plaats van de Raad van Beroep voor belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
 
 ##### Artikel 13f
 
@@ -263,9 +265,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een goede uitvoering
 
 ##### Artikel 15
 
-1. Handelen in strijd met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=6&z=2011-01-01&g=2011-01-01), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
+1. Handelen in strijd met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=6&z=2012-07-01&g=2012-07-01), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-2. Opzettelijk handelen in strijd met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=6&z=2011-01-01&g=2011-01-01), wordt gestraft met gevangenisstraf van ten hoogste 2 jaren of geldboete van de vierde categorie.
+2. Opzettelijk handelen in strijd met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=6&z=2012-07-01&g=2012-07-01), wordt gestraft met gevangenisstraf van ten hoogste 2 jaren of geldboete van de vierde categorie.
 
 3. Het in het eerste lid strafbaar gestelde feit is een overtreding. Het in het tweede lid strafbaar gestelde feit is een misdrijf.
 
@@ -275,11 +277,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een goede uitvoering
 
 2. Gedurende de in het eerste lid bedoelde periode hebben de in Nederlands-Antilliaanse guldens luidende bankbiljetten en munten die op het tijdstip van inwerkingtreding van [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) als wettig betaalmiddel in omloop waren, de hoedanigheid van wettig betaalmiddel in de openbare lichamen.
 
-3. Verwijzingen naar de dollar, opgenomen in een wettelijk voorschrift, gelden gedurende de in het eerste lid bedoelde periode als verwijzingen naar Nederlands-Antilliaanse guldens, volgens de omrekenkoers USD 1,00 = NAf. 1,790. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
+3. Verwijzingen naar de dollar, opgenomen in een wettelijk voorschrift, gelden gedurende de in het eerste lid bedoelde periode als verwijzingen naar Nederlands-Antilliaanse guldens, volgens de omrekenkoers USD 1,00 = NAf. 1,790. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=11&z=2012-07-01&g=2012-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 17
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen 13a tot en met 13z](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13a&z=2011-01-01&g=2011-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=3&artikel=16&z=2011-01-01&g=2011-01-01), die in werking treden op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen 13a tot en met 13z](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13a&z=2012-07-01&g=2012-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=3&artikel=16&z=2012-07-01&g=2012-07-01), die in werking treden op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
 ##### Artikel 18
 
@@ -299,7 +301,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- e. **kredietinstelling:** instelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1).
+- e. **kredietinstelling:** kredietinstelling in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883).
 
 ##### Artikel 2
 
@@ -317,7 +319,7 @@ Bankbiljetten en munten met de hoedanigheid van wettig betaalmiddel in de openba
 
 ##### Artikel 4
 
-1. De Bank heeft tot taak het bevorderen van de goede werking van het betalingsverkeer in de openbare lichamen. De goede werking van het betalingsverkeer omvat mede de geldomloop van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde dollarbiljetten en dollarmunten.
+1. De Bank heeft tot taak het bevorderen van de goede werking van het betalingsverkeer in de openbare lichamen. De goede werking van het betalingsverkeer omvat mede de geldomloop van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01) bedoelde dollarbiljetten en dollarmunten.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het eerste lid bedoelde taak.
 
@@ -351,13 +353,13 @@ De omrekenkoers voor de overgang van de Nederlands-Antilliaanse gulden naar de d
 
 ##### Artikel 9
 
-1. Alle bij een onderneming of instelling die in de openbare lichamen het bedrijf van kredietinstelling uitoefent aangehouden tegoeden, in de vorm van giraal geld of anderszins, luiden met ingang van het tijdstip van inwerkingtreding van deze wet in dollars, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) vastgestelde omrekenkoers.
+1. Alle bij een onderneming of instelling die in de openbare lichamen het bedrijf van kredietinstelling uitoefent aangehouden tegoeden, in de vorm van giraal geld of anderszins, luiden met ingang van het tijdstip van inwerkingtreding van deze wet in dollars, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) vastgestelde omrekenkoers.
 
 2. Het eerste lid is niet van toepassing op tegoeden, aangehouden in andere munteenheden dan de Nederlands-Antilliaanse gulden.
 
 ##### Artikel 10
 
-1. Na de inwerkingtreding van deze wet gelden verwijzingen naar Nederlands-Antilliaanse guldens, opgenomen in bestaande rechtsinstrumenten, als verwijzingen naar de dollar, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) vastgestelde omrekenkoers.
+1. Na de inwerkingtreding van deze wet gelden verwijzingen naar Nederlands-Antilliaanse guldens, opgenomen in bestaande rechtsinstrumenten, als verwijzingen naar de dollar, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) vastgestelde omrekenkoers.
 
 2. Onder bestaande rechtsinstrumenten als bedoeld in het eerste lid worden, voor zover op die instrumenten het recht van de openbare lichamen van toepassing is, verstaan: alle op het tijdstip van inwerkingtreding van deze wet geldende wettelijke voorschriften, besluiten van bestuursorganen, rechterlijke uitspraken, overeenkomsten, eenzijdige rechtsakten, betaalmiddelen anders dan bankbiljetten en munten, alsmede andere op rechtsgevolg gerichte instrumenten.
 
@@ -365,7 +367,7 @@ De omrekenkoers voor de overgang van de Nederlands-Antilliaanse gulden naar de d
 
 ##### Artikel 11
 
-1. Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01) worden de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) omgerekende bedragen rekenkundig afgerond op de dichtstbijzijnde dollarcent. Halve centen worden naar boven afgerond.
+1. Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=9&z=2012-07-01&g=2012-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=10&z=2012-07-01&g=2012-07-01) worden de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) omgerekende bedragen rekenkundig afgerond op de dichtstbijzijnde dollarcent. Halve centen worden naar boven afgerond.
 
 2. Indien het oorspronkelijke bedrag in meer dan twee decimalen was gesteld, geschiedt de afronding met inachtneming van het oorspronkelijke aantal decimalen. De afrondingsregel voor halve centen is in dat geval van overeenkomstige toepassing op de laatste decimaal.
 
@@ -375,7 +377,7 @@ De in Nederlands-Antilliaanse guldens luidende bankbiljetten en munten die op he
 
 ##### Artikel 13
 
-1. Bij besluit van de Bank worden in de openbare lichamen kantoren aangewezen waar tot een bij koninklijk besluit te bepalen tijdstip, dat voor bankbiljetten en munten verschillend kan worden vastgesteld, Nederlands-Antilliaanse munten en bankbiljetten kosteloos kunnen worden verwisseld voor wettig betaalmiddel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01).
+1. Bij besluit van de Bank worden in de openbare lichamen kantoren aangewezen waar tot een bij koninklijk besluit te bepalen tijdstip, dat voor bankbiljetten en munten verschillend kan worden vastgesteld, Nederlands-Antilliaanse munten en bankbiljetten kosteloos kunnen worden verwisseld voor wettig betaalmiddel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01).
 
 2. De Bank kan nadere regels stellen betreffende de in het eerste lid bedoelde verwisseling van Nederlands-Antilliaanse munten en bankbiljetten.
 
