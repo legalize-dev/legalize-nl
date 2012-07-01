@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-06-27"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -153,7 +153,7 @@ Besluit:
 |   | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Pilotproject bioraffinage | – | – |
 | 5.9 | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Voorbereidingsstudies vergassing | – | – |
 |   | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Demonstratieprojecten vergassing | – | – |
-| 5.10 | Subsidieregeling energie en innovatie (experimenteerregeling Wind op Zee) | 3.7.2 |   | – | – |
+| 5.10 | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 |   | 01-07-12 t/m 01-10-12 | 7.000.000 |
 | 5.11 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.2 |   | – | – |
 | 5.12 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.8 |   | – | – |
 | 5.13 | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | – | – |
@@ -171,7 +171,9 @@ Besluit:
 | 7.3 | Subsidieregeling internationaal excelleren (2xplore) | 4.1 |   | – | – |
 | 7.4 | Subsidieregeling internationaal excelleren (opkomende markten orders) | 5.2 |   | – | – |
 | 7.5 | Subsidieregeling internationaal excelleren (opkomende markten investeringsprojecten) | 5.8 |   | – | – |
-| 7.6 | Subsidieregeling internationaal excelleren (opkomende markten kennisverwerving) | 5.19 |   | 01-01 t/m 31-12 | 2.000.000 |
+| 7.6 | Subsidieregeling internationaal excelleren (opkomende markten kennisverwerving) | 5.19 | Projecten, gericht op positionering van de onderneming in China en India | 01-01 t/m 31-12 | 2.000.000 |
+| 7.7 | Subsidieregeling internationaal excelleren (demonstratieprojecten, 2xplore, opkomende markten kennisverwerving) | 3.1, 4.1 en 5.19 | Projecten, betrekking hebbend op de doellanden Colombia (sectoren agro, inclusief biobased economy, klimaat-adaptatie en groene technologie; water; gezondheid; logistiek; energie), Vietnam (sectoren agro; water; energie; maritieme industrie; logistiek; financiën) en Zuid-Afrika (sectoren water; transport en logistiek; duurzame energie; agro). | 01-07 t/m 31-12 | 2.400.000 |
+| 7.8 | Subsidieregeling internationaal excelleren (demonstratieprojecten, 2xplore, opkomende markten kennisverwerving) | 3.1, 4.1 en 5.19 | Projecten, betrekking hebbend op de doellanden Colombia, Vietnam en Zuid-Afrika (overige sectoren). | 01-07 t/m 31-12 | 600.000 |
 
 ##### Artikel 2
 
