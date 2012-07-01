@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2012-02-02"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. besluit: [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605);
 
-- b. GGD: gemeentelijke gezondheidsdienst als bedoeld in [artikel 5, eerste lid, van de Wet collectieve preventie volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004760&artikel=5);
+- b. GGD: gemeentelijke gezondheidsdienst als bedoeld in [artikel 14, eerste lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
 - c. vergunning: vergunning als bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3).
 
@@ -94,35 +94,35 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 ##### Artikel 5
 
-1. De aanvrager is aan de Minister van Volksgezondheid, Welzijn en Sport een retributie verschuldigd voor elke ingediende aanvraag voor een vergunning.
+1. Vervallen.
 
 2. De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
-- a. € 388,28 voor een vergunning voor het gebruik van een tatoeagemachine;
+- a. € 389,04 voor een vergunning voor het gebruik van een tatoeagemachine;
 
-- b. € 339,75 voor een vergunning voor het gebruik van pigmenteerpen;
+- b. € 340,41 voor een vergunning voor het gebruik van pigmenteerpen;
 
-- c. € 388,28 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
+- c. € 389,04 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
 
-- d. € 194,14 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
+- d. € 194,52 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
 
-- e. € 388,28 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
+- e. € 389,04 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
 
-- f. € 485,35, indien:
+- f. € 486,30, indien:
 
 - –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
 - –. die vormen van gebruik betrekking hebben op dezelfde ruimte.
 
-3. De retributie wordt vermeerderd met € 24,27 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in te stellen.
+3. De retributie wordt vermeerderd met € 24,32 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in te stellen.
 
-4. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,27 voor elk kwartier of gedeelte van een kwartier:
+4. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,32 voor elk kwartier of gedeelte van een kwartier:
 
 - a. dat de voortzetting duurt, en
 
 - b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.
 
-5. De retributie wordt verminderd met een bedrag van € 97,07, indien:
+5. De retributie wordt verminderd met een bedrag van € 97,26, indien:
 
 - a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;
 
