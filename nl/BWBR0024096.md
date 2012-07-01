@@ -4,7 +4,7 @@ identifier: "BWBR0024096"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2012-02-21"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024096"
 soort: "beleidsregel"
@@ -870,7 +870,7 @@ De belastingdeurwaarder kan een bewaarder aanstellen en de nodige maatregelen ne
 
 ### 14.5.2. De executie van schepen
 
-In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-02-21) van deze leidraad geformuleerde uitstelbeleid.
+In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-07-01) van deze leidraad geformuleerde uitstelbeleid.
 
 Tenzij een andere wijze van verkoop is toegestaan of voorgeschreven gebeurt de executoriale verkoop van een schip ten overstaan van een bevoegde notaris.
 
@@ -1088,7 +1088,7 @@ Onderhoudskosten worden in het geval van lijfsdwang de belastingschuldige niet i
 
 ### 20.4. Lijfsdwang met vonnis ex [artikel 585, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=585)
 
-Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2012-02-21&g=2012-02-21) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2012-02-21&g=2012-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 De zaken omschreven in [artikel 22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) worden verder aangeduid als bodemzaken.
 
@@ -1288,11 +1288,11 @@ In aansluiting op [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2011-07-01&g=2012-01-01), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
 
-[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2012-02-21&g=2012-02-21) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
+[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2012-02-21&g=2012-07-01) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
 
 Indien aan de belastingschuldige belastingaanslagen zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), dient de ontvanger – met inachtneming van het in de laatste volzin van 23.2. bepaalde – vooreerst invordering ten laste van belastingschuldige zelf te beproeven.
 
-Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2012-02-21&g=2012-02-21), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
+Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2012-02-21&g=2012-07-01), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
 
 ### Artikel 24. Verrekening
 
@@ -1774,7 +1774,7 @@ Bij de beoordeling van het verzoek zijn de gegevens en normen van belang die gel
 
 Als de ontvanger in de voorwaarden heeft opgenomen dat verrekening zal plaatsvinden van uit te betalen bedragen, dan stelt hij tevens de termijn vast waarin verrekening van die bedragen zal plaatsvinden. De termijn bedraagt maximaal drie jaar, te rekenen vanaf de dagtekening van de kennisgeving, dan wel – als dit minder is – de tijd die nog overblijft voordat de verjaring van de belastingaanslag intreedt.
 
-Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van tien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-02-21) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
+Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van tien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-07-01) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
 
 ### 26.1.6. Motivering afwijzing van het verzoek om kwijtschelding
 
@@ -2128,7 +2128,7 @@ De ontvanger beslist op een verzoek om rente- of schadevergoeding binnen acht we
 
 ### 28.6. Kwijtschelding invorderingsrente niet mogelijk
 
-Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2012-02-21&g=2012-02-21) van deze leidraad.
+Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2012-02-21&g=2012-07-01) van deze leidraad.
 
 ### 28.7. Verminderingen en toepassing [artikel 28, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28)
 
@@ -2166,7 +2166,7 @@ Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskortin
 
 Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, handelt de ontvanger overeenkomstig de voorschriften van het [Besluit beroep in belastingzaken 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018379), met dien verstande dat de ontvanger in een procedure niet dezelfde stukken hoeft over te leggen als de inspecteur. De ontvanger kan zich beperken tot de stukken die in de procedure over de toepassing van de regeling betalingskorting dan wel invorderingsrente relevant zijn.
 
-Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-02-21) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
+Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-07-01) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
 
 ### 30.5. Geen bezwaar mogelijk tegen de niet verleende betalingskorting
 
@@ -2306,37 +2306,43 @@ In dit verband geldt dat aan branche-initiatieven die erop zijn gericht eventuel
 
 Op de procedure voor de afgifte van de verklaring alsmede op de inhoud ervan, is het bepaalde in artikel 35.12 van deze leidraad van overeenkomstige toepassing.
 
-### 34.7. Verklaring betalingsgedrag uitlener
+### 34.6.2. Alternatief voor het storten op de G-rekening voor in een OESO-land beursgenoteerde uitzendondernemingen
 
-Als een onderdeel van een fiscale eenheid voor de omzetbelasting optreedt als uitlener, betrekt de ontvanger de omzetbelasting niet in de af te geven verklaring. In dat geval is niet de feitelijke uitlener maar de fiscale eenheid voor de omzetbelasting de belastingschuldige.
+Naast deze voorwaarden op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=6&z=2012-07-03&g=2012-07-01), moet de inlener
 
 Op de procedure voor de afgifte van de verklaring alsmede op de inhoud ervan, is het bepaalde in artikel 35.12 van deze leidraad van overeenkomstige toepassing.
 
 ### 34.8. De omvang van de aansprakelijkheid
 
-De ontvanger beoordeelt of het bedrag van de primaire aansprakelijkheid moet worden verminderd als gevolg van betalingen (op aangifte en/of op naheffingsaanslag) door de werkgever/uitlener die toegerekend kunnen worden aan de werknemer die de werkzaamheden heeft verricht. Deze toerekening van betalingen aan de ‘werknemer’ kan bijvoorbeeld plaatsvinden aan de hand van de (loon)administratie van de werkgever/uitlener en/of aan de hand van de afdrachten/betalingen over de verschillende aangiftetijdvakken.
+Als een onderdeel van een fiscale eenheid voor de omzetbelasting optreedt als uitlener, betrekt de ontvanger de omzetbelasting niet in de af te geven verklaring. In dat geval is niet de feitelijke uitlener maar de fiscale eenheid voor de omzetbelasting de belastingschuldige.
+
+Op de procedure voor de afgifte van de verklaring alsmede op de inhoud ervan, is het bepaalde in artikel 35.12 van deze leidraad van overeenkomstige toepassing.
+
+Omdat de aansprakelijkheid in een aansprakelijkstelling op een later tijdstip wordt geconcretiseerd, moet ten tijde van de beschikking ex [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) worden vastgesteld in hoeverre het bedrag van de aansprakelijkheid – zoals ontstaan ten tijde van de wettelijke inhoudingsplicht – nog is verschuldigd.
+
+De regeling als bedoeld in de artikelen 34.6.1 en 34.6.2 gaat in per 1 juli 2012. Vóór 1 juli 2012 geldt dat inleners vrijwaring kunnen krijgen tot het bedrag van de stortingen op de G-rekening. Als de periode van inlening zowel onder de oude als de nieuwe regeling valt, geldt de volgende overgangsregeling. Stortingen op de G-rekening die na 1 juli worden gedaan en die zien op inlening vóór 1 juli 2012 (en dus gerelateerd moeten worden aan termijnen verschuldigde loonheffingen en/of omzetbelasting vóór 1 juli 2012) volgen de oude regeling (vrijwaring tot het bedrag van de storting). Voor de stortingen gedaan na 1 juli 2012 die betrekking hebben op inlening van na die datum geldt het nieuwe regime.
 
 Op grond van [artikel 27 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) is de werkgever verplicht om op het tijdstip waarop het loon aan de werknemer wordt uitbetaald de verschuldigde loonheffingen in te houden. De aansprakelijkheid voor de loonheffingen van de inlener ontstaat op datzelfde tijdstip en primair ook tot hetzelfde bedrag.
 
-Omdat de aansprakelijkheid in een aansprakelijkstelling op een later tijdstip wordt geconcretiseerd, moet ten tijde van de beschikking ex [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) worden vastgesteld in hoeverre het bedrag van de aansprakelijkheid – zoals ontstaan ten tijde van de wettelijke inhoudingsplicht – nog is verschuldigd.
+### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
 
 De ontvanger beoordeelt of het bedrag van de primaire aansprakelijkheid moet worden verminderd als gevolg van betalingen (op aangifte en/of op naheffingsaanslag) door de werkgever/uitlener die toegerekend kunnen worden aan de werknemer die de werkzaamheden heeft verricht. Deze toerekening van betalingen aan de ‘werknemer’ kan bijvoorbeeld plaatsvinden aan de hand van de (loon)administratie van de werkgever/uitlener en/of aan de hand van de afdrachten/betalingen over de verschillende aangiftetijdvakken.
 
 Als afdrachten/betalingen redelijkerwijs niet kunnen worden toegerekend aan bepaalde werknemers, vindt een evenredige toedeling daarvan plaats aan alle werknemers die gedurende het heffingstijdvak in dienst zijn geweest van de uitlener.
 
-### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
+In het geval van matiging wordt bij de brutering van het loon - althans voor zover het de loonbelasting en premie volksverzekeringen betreft - gebruik gemaakt van een marginaal percentage.
 
-De inlener is aansprakelijk voor de loonbelasting en premie volksverzekeringen die met toepassing van het anoniementarief (ex [artikel 26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b)) zijn berekend en door de uitlener over het werk zijn verschuldigd.
+### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
 
 De ontvanger zal de hoogte van de aansprakelijkstelling niet matigen als blijkt dat de inlener de voor de matiging vereiste gegevens niet heeft geadministreerd ten tijde van de uitvoering van de werkzaamheden door de ingeleende arbeidskrachten. Als mocht blijken dat het in de administratie van de inlener opgenomen BSN/sofinummer van de werknemer onjuist is, zal de inlener in de gelegenheid worden gesteld alsnog het juiste BSN/sofinummer te overleggen. Als de inlener de identiteit van de werknemer kan aantonen en hij legt tevens de gegevens over aan de hand waarvan het loon van de werknemer kan worden geïndividualiseerd, dan zal de ontvanger de hoogte van de aansprakelijkheid voor de betreffende inlener verlagen.
 
-In het geval van matiging wordt bij de brutering van het loon - althans voor zover het de loonbelasting en premie volksverzekeringen betreft - gebruik gemaakt van een marginaal percentage.
-
 ### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
 
-Deze ‘tariefmatiging’ – die overigens niet van invloed is op de hoogte van de naheffingsaanslag – vindt niet plaats als de inlener wist of redelijkerwijs moest vermoeden dat de uitlener met anoniem personeel werkte. De beperking van de hoogte van de aansprakelijkheid blijft daardoor achterwege.
+De loonbelasting/premie volksverzekeringen over de werkzaamheden waarvoor de aansprakelijkheid bestaat, wordt vervolgens berekend met toepassing van hetzelfde (marginale) percentage. Vanwege het feit dat de matiging uitsluitend de betreffende inlener zelf aangaat, en niet de positie van de inhoudingsplichtige of die van andere aansprakelijken voor de naheffingsaanslag beïnvloedt, wordt het voorgaande uitsluitend betrokken in de berekening als uiteengezet in het van overeenkomstige toepassing verklaarde artikel 35.5.1 en niet in de berekening als bedoeld in artikel 34.8.1 van deze leidraad.
 
-### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
+### Artikel 35. Ketenaansprakelijkheid
+
+Als in verband met het voorgaande de aansprakelijke inlener onder wie derdenbeslag is gelegd, zich in zijn op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) af te leggen verklaring beroept op verrekening ter verzekering van zijn (voorwaardelijke) regresvordering op de uitlener, dan verklaart de ontvanger schriftelijk dat hij de inlener niet aansprakelijk zal houden voor de in totaal af te dragen geldsommen als gevolg van het derdenbeslag.
 
 Als de ontvanger – voordat tot aansprakelijkstelling wordt overgegaan – ten laste van de uitlener derdenbeslag legt onder de aansprakelijke inlener, is de inlener op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) verplicht verklaring te doen van hetgeen hij onder zich heeft en de geldsom die door het beslag is getroffen aan de ontvanger af te dragen.
 
@@ -2344,11 +2350,11 @@ Als de ontvanger – voordat tot aansprakelijkstelling wordt overgegaan – ten 
 
 Als in verband met het voorgaande de aansprakelijke inlener onder wie derdenbeslag is gelegd, zich in zijn op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) af te leggen verklaring beroept op verrekening ter verzekering van zijn (voorwaardelijke) regresvordering op de uitlener, dan verklaart de ontvanger schriftelijk dat hij de inlener niet aansprakelijk zal houden voor de in totaal af te dragen geldsommen als gevolg van het derdenbeslag.
 
-Op grond van het bepaalde in [artikel 27 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) is de onderaannemer/inhoudingsplichtige verplicht om op het tijdstip waarop het loon aan de werknemer wordt uitbetaald de verschuldigde loonheffingen in te houden.
+De loonbelasting/premie volksverzekeringen over de werkzaamheden waarvoor de aansprakelijkheid bestaat, wordt vervolgens berekend met toepassing van hetzelfde (marginale) percentage. Vanwege het feit dat de matiging uitsluitend de betreffende inlener zelf aangaat, en niet de positie van de inhoudingsplichtige of die van andere aansprakelijken voor de naheffingsaanslag beïnvloedt, wordt het voorgaande uitsluitend betrokken in de berekening als uiteengezet in het van overeenkomstige toepassing verklaarde artikel 35.5.1 en niet in de berekening als bedoeld in artikel 34.8.1 van deze leidraad.
 
-### Artikel 35. Ketenaansprakelijkheid
+In aansluiting op [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) beschrijft dit artikel het beleid over:
 
-De ontvanger moet beoordelen of het bedrag van de primaire aansprakelijkheid moet worden verminderd als gevolg van betalingen (op aangifte en/of op naheffingsaanslag) door de onderaannemer/inhoudingsplichtige.
+### 35.1. Berekening omvang ketenaansprakelijkheid
 
 Op grond van het bepaalde in [artikel 27 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) is de onderaannemer/inhoudingsplichtige verplicht om op het tijdstip waarop het loon aan de werknemer wordt uitbetaald de verschuldigde loonheffingen in te houden.
 
@@ -2356,15 +2362,15 @@ De hoofdelijke aansprakelijkheid voor de loonheffingen van de aannemer ontstaat 
 
 ### 35.2. Het begrip aannemer en ketenaansprakelijkheid
 
-Deze toerekening van betalingen aan ‘het werk’ gebeurt naar redelijkheid en kan bijvoorbeeld plaatsvinden aan de hand van de (loon)administratie van de onderaannemer en/of aan de hand van de afdrachten/betalingen over de verschillende aangiftetijdvakken. Als afdrachten/betalingen redelijkerwijs niet kunnen worden toegerekend aan bepaalde werken en/of de indirecte loonkosten, vindt een evenredige toerekening daarvan plaats aan alle werken en/of indirecte loonkosten gedurende het naheffingtijdvak.
+### Artikel 35. Ketenaansprakelijkheid
 
-De uitvoering van een werk van stoffelijke aard zal veelal resulteren in een tastbaar product. Met de keuze van het criterium ‘uitvoeren van een werk van stoffelijke aard’ wordt beoogd alle sectoren van het economisch leven onder de werkingssfeer van dit artikel te brengen. Het gehanteerde criterium overschrijdt niet alleen de onderscheidingen die gemaakt zijn in het Burgerlijk Wetboek, maar ook de indelingen die in het economische leven gangbaar zijn.
+In aansluiting op [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) beschrijft dit artikel het beleid over:
 
-### 35.2. Het begrip aannemer en ketenaansprakelijkheid
+Het begrip aannemer heeft in het kader van de ketenaansprakelijkheid een eigen zelfstandige betekenis. Onder ‘aannemer’ wordt in dit verband verstaan de persoon die zich jegens een ander – de opdrachtgever – verbindt om buiten dienstbetrekking een werk van stoffelijke aard te verrichten tegen een te betalen prijs.
 
-### 35.2.1. Werk van stoffelijke aard
+Op grond van het bepaalde in [artikel 27 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) is de onderaannemer/inhoudingsplichtige verplicht om op het tijdstip waarop het loon aan de werknemer wordt uitbetaald de verschuldigde loonheffingen in te houden.
 
-De uitvoering van een werk van stoffelijke aard zal veelal resulteren in een tastbaar product. Met de keuze van het criterium ‘uitvoeren van een werk van stoffelijke aard’ wordt beoogd alle sectoren van het economisch leven onder de werkingssfeer van dit artikel te brengen. Het gehanteerde criterium overschrijdt niet alleen de onderscheidingen die gemaakt zijn in het Burgerlijk Wetboek, maar ook de indelingen die in het economische leven gangbaar zijn.
+### 35.2.2. Vervoersovereenkomsten en werk van stoffelijke aard
 
 Niet elke arbeid die resulteert in een tastbaar product kan worden gerekend tot de ‘uitvoering van een werk van stoffelijke aard’ in de zin van dit artikel. De eigen aard van de arbeid moet ook in de beschouwing worden betrokken. Alle werken of producten die door een in hoofdzaak geestelijke of intellectuele arbeid tot stand komen, zijn niet als werk van stoffelijke aard te beschouwen.
 
@@ -2376,25 +2382,25 @@ Vervoersovereenkomsten als bedoeld in artikel 34.1 vallen buiten de werking van 
 
 Bij de gemengde overeenkomsten waarin de vervoersprestatie niet ondergeschikt is aan het overeengekomen werk van stoffelijke aard, moeten de onderscheiden prestaties in beginsel worden gesplitst.
 
-### 35.2.3. Het uitvoeren van een werk buiten dienstbetrekking
-
-Voor de toepassing van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) moet het uitvoeren van een werk buiten dienstbetrekking gebeuren. Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
-
-Voor de toepassing van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) moet het uitvoeren van een werk buiten dienstbetrekking gebeuren. Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
-
-De zogenaamde ‘eigenbouwer’ wordt met een aannemer gelijkgesteld en is geen opdrachtgever.
+De uitvoering van een werk van stoffelijke aard zal veelal resulteren in een tastbaar product. Met de keuze van het criterium ‘uitvoeren van een werk van stoffelijke aard’ wordt beoogd alle sectoren van het economisch leven onder de werkingssfeer van dit artikel te brengen. Het gehanteerde criterium overschrijdt niet alleen de onderscheidingen die gemaakt zijn in het Burgerlijk Wetboek, maar ook de indelingen die in het economische leven gangbaar zijn.
 
 ### 35.3.1. Eigenbouwerschap – beoordeling van geval tot geval
 
-De vraag of sprake is van een eigenbouwer moet worden beantwoord aan de hand van de volgende criteria:
+Vervaardiging van kleding is een werk van stoffelijke aard en moet ruim worden opgevat. Het gaat om het vervaardigen van kleding van alle soorten en materialen onder welke benaming en voor welk doel dan ook. Hieronder valt ook elke handeling die erop gericht is het eindproduct zelf consumptiegereed (in de meest ruime zin) te maken.
+
+De zogenaamde ‘eigenbouwer’ wordt met een aannemer gelijkgesteld en is geen opdrachtgever.
+
+### 35.3.2. Het begrip bedrijf en eigenbouwerschap
+
+### 35.3.1. Eigenbouwerschap – beoordeling van geval tot geval
 
 In overleg met de inspecteur waaronder de eigenbouwer ressorteert, beoordeelt de ontvanger of sprake is van eigenbouwerschap aan de hand van de concrete omstandigheden van het betrokken bedrijf en van de onderhavige werkzaamheden.
 
-### 35.3.2. Het begrip bedrijf en eigenbouwerschap
+In verband daarmee is het niet mogelijk voor bepaalde bedrijfstakken of voor bepaalde typen van bedrijven, dan wel voor bepaalde categorieën werkzaamheden in het algemeen, aan te geven of sprake is van eigenbouwerschap.
 
-### 35.3.2. Het begrip bedrijf en eigenbouwerschap
+De omstandigheid dat geen winst wordt beoogd en/of feitelijk wordt behaald, leidt op zich bezien niet tot de conclusie dat geen bedrijf wordt uitgeoefend. Publiekrechtelijke lichamen oefenen (behoudens de hierna genoemde uitzonderingen) geen bedrijf uit in de hiervoor bedoelde zin indien en voor zover zij handelen als overheid. Het publiekrechtelijke lichaam handelt ‘als overheid’ als het handelt volgens het specifiek voor hem geldende juridische regime.
 
-Voor de interpretatie van het begrip ‘bedrijf’ kan aansluiting worden gezocht bij hetgeen daaronder in het normale spraakgebruik wordt verstaan: een onderneming of een daarmee vergelijkbare entiteit (bijvoorbeeld een overheidsbedrijf).
+### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
 
 Er moet sprake zijn van een zekere organisatie van kapitaal en arbeid waarmee min of meer duurzaam aan het maatschappelijk (ruil)verkeer wordt deelgenomen met als doel te voorzien in de daarin levende behoeften. Binnen een organisatie kan een bepaalde activiteit van zodanige betekenis zijn dat deze activiteit met zich meebrengt dat bedrijfsmatig wordt gehandeld.
 
@@ -2406,101 +2412,101 @@ Als het overheidslichaam handelt onder dezelfde juridische voorwaarden als parti
 
 Als het voor het betreffende bedrijf niet gebruikelijk is eigen bedrijfsmiddelen te vervaardigen, dan leidt het incidenteel vervaardigen van een bedrijfsmiddel niet tot eigenbouwerschap.
 
-### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
+Bij de beoordeling of een werk in de normale uitoefening van het bedrijf wordt uitgevoerd, is uitsluitend van belang wat in het betreffende bedrijf feitelijk gebruikelijk is.
 
 Het is mogelijk dat naast de voortbrenging van producten bestemd voor de markt, het voor het bedrijf gebruikelijk is zelf zijn bedrijfsmiddelen te maken en/of te onderhouden. In dat geval kan dus sprake zijn van eigenbouwerschap met betrekking tot de vervaardiging en/of het onderhoud van de eigen bedrijfsmiddelen.
 
-Als het voor het betreffende bedrijf niet gebruikelijk is eigen bedrijfsmiddelen te vervaardigen, dan leidt het incidenteel vervaardigen van een bedrijfsmiddel niet tot eigenbouwerschap.
+### 35.3.5. Woningcorporaties en eigenbouwerschap
 
-Woningcorporaties en andere op grond van [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) ‘toegelaten instellingen’ oefenen in beginsel een bedrijf uit. Als voor eigen rekening en risico een nieuwbouwproject wordt uitgevoerd – hetzij voor de verkoop, hetzij voor de verhuur – en het realiseren van een nieuwbouwproject meer dan incidenteel gebeurt, is de corporatie eigenbouwer. De corporatie moet dan een zodanige ervaring en kennis hebben met betrekking tot het bouwen, dat zij door hiervan gebruik te maken feitelijk op dezelfde wijze optreedt als een hoofdaannemer die het gehele werk uitbesteedt.
+### 35.3.4. Uitbesteding werk en eigenbouwerschap
 
 Een bedrijf dat bij de feitelijke uitvoering van een bepaald werk zelf geen werkzaamheden van stoffelijke aard verricht, maar alle werkzaamheden uitbesteedt aan derden, kan in twee situaties toch eigenbouwer zijn namelijk:
 
-### 35.3.5. Woningcorporaties en eigenbouwerschap
-
-### 35.3.5. Woningcorporaties en eigenbouwerschap
+Als een gemeentelijk grondbedrijf door haar verworven stukken grond bouwrijp maakt om deze bijvoorbeeld te verkopen, in erfpacht uit te geven of te verhuren, dan treedt het grondbedrijf met betrekking tot een dergelijke activiteit op als eigenbouwer. Het aanleggen/totstandbrengen van gemeenschapsvoorzieningen door het gemeentelijke grondbedrijf levert geen bedrijfsmatig handelen op (zie artikel 35.3.2 van deze leidraad).
 
 Woningcorporaties en andere op grond van [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) ‘toegelaten instellingen’ oefenen in beginsel een bedrijf uit. Als voor eigen rekening en risico een nieuwbouwproject wordt uitgevoerd – hetzij voor de verkoop, hetzij voor de verhuur – en het realiseren van een nieuwbouwproject meer dan incidenteel gebeurt, is de corporatie eigenbouwer. De corporatie moet dan een zodanige ervaring en kennis hebben met betrekking tot het bouwen, dat zij door hiervan gebruik te maken feitelijk op dezelfde wijze optreedt als een hoofdaannemer die het gehele werk uitbesteedt.
 
-Als een gemeentelijk grondbedrijf door haar verworven stukken grond bouwrijp maakt om deze bijvoorbeeld te verkopen, in erfpacht uit te geven of te verhuren, dan treedt het grondbedrijf met betrekking tot een dergelijke activiteit op als eigenbouwer. Het aanleggen/totstandbrengen van gemeenschapsvoorzieningen door het gemeentelijke grondbedrijf levert geen bedrijfsmatig handelen op (zie artikel 35.3.2 van deze leidraad).
-
-De gemeente treedt in een dergelijk geval op als overheid, hetgeen handelen als eigenbouwer uitsluit.
-
-Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2011-07-01&g=2012-01-01), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
+Het is mogelijk dat naast de voortbrenging van producten bestemd voor de markt, het voor het bedrijf gebruikelijk is zelf zijn bedrijfsmiddelen te maken en/of te onderhouden. In dat geval kan dus sprake zijn van eigenbouwerschap met betrekking tot de vervaardiging en/of het onderhoud van de eigen bedrijfsmiddelen.
 
 ### 35.3.7. Winkelbedrijf in de confectiesector en eigenbouwerschap
 
+De gemeente treedt in een dergelijk geval op als overheid, hetgeen handelen als eigenbouwer uitsluit.
+
+### 35.3.7. Winkelbedrijf in de confectiesector en eigenbouwerschap
+
+In de confectiesector kan sprake zijn van eigenbouwerschap. Daarbij is het niet noodzakelijk dat het betreffende bedrijf ook zelfstandig in staat is de betreffende werkzaamheden uit te voeren. Voorwaarde is dan wel dat het bedrijf dat de werkzaamheden uitbesteedt de algehele leiding over die werkzaamheden heeft, althans bij de productie een rol bekleedt die die van een opdrachtgever overstijgt.
+
 Hierdoor zal bijvoorbeeld ook het winkelbedrijf onder omstandigheden kunnen worden aangemerkt als eigenbouwer. Het moet dan gaan om voor het winkelbedrijf normale bedrijfsactiviteiten. Bepalend is of het winkelbedrijf het proces in technische of organisatorische zin beheerst. Hiervan zal sprake zijn als het winkelbedrijf normaliter zeer gedetailleerde opdrachten verstrekt en ook in het verdere productieproces een begeleidende/controlerende rol kan vervullen.
 
-### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
+Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2012-02-21&g=2012-07-01), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
 
-Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2012-02-21&g=2012-01-01), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
+Als een gemeentelijk grondbedrijf door haar verworven stukken grond bouwrijp maakt om deze bijvoorbeeld te verkopen, in erfpacht uit te geven of te verhuren, dan treedt het grondbedrijf met betrekking tot een dergelijke activiteit op als eigenbouwer. Het aanleggen/totstandbrengen van gemeenschapsvoorzieningen door het gemeentelijke grondbedrijf levert geen bedrijfsmatig handelen op (zie artikel 35.3.2 van deze leidraad).
 
 Als een onderaannemer het werk in het buitenland uitvoert en over het loon van zijn werknemers in Nederland loonheffingen is verschuldigd, dan is de buitenlandse aannemer daarvoor niet aansprakelijk op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
 
 Als een onderaannemer voor een buitenlandse aannemer een werk uitvoert in Nederland en in verband daarmee in Nederland loonheffingen is verschuldigd, dan is de buitenlandse aannemer daarvoor aansprakelijk op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
 
-Als een onderaannemer voor een buitenlandse aannemer een werk uitvoert in Nederland en in verband daarmee in Nederland loonheffingen is verschuldigd, dan is de buitenlandse aannemer daarvoor aansprakelijk op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
+### 35.5. Ketenaansprakelijkheid en g-rekening
 
-De ontvanger vergelijkt het bedrag van de primaire aansprakelijkheid, verminderd met de ‘vrijwaringen’ als hiervoor toegelicht en/of met de vrijwaring als gevolg van rechtstreekse storting (zie artikel 35.6 van deze leidraad, met de uitkomst van de berekening als in artikel 35.1 van deze leidraad toegelicht). In de aansprakelijkstelling gaat de ontvanger uit van de laagste van de twee uitkomsten.
-
-Voor de vrijwaring als bedoeld in [artikel 35, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), moet zijn voldaan aan de voorwaarden genoemd in [artikel 6 van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6).
+Hierdoor zal bijvoorbeeld ook het winkelbedrijf onder omstandigheden kunnen worden aangemerkt als eigenbouwer. Het moet dan gaan om voor het winkelbedrijf normale bedrijfsactiviteiten. Bepalend is of het winkelbedrijf het proces in technische of organisatorische zin beheerst. Hiervan zal sprake zijn als het winkelbedrijf normaliter zeer gedetailleerde opdrachten verstrekt en ook in het verdere productieproces een begeleidende/controlerende rol kan vervullen.
 
 ### 35.5.2. Ketenaansprakelijkheid bij WSNP of faillissement onderaannemer
 
+Als de aannemer niet heeft voldaan aan deze voorwaarden, vermindert de ontvanger de primaire aansprakelijkheidsschuld slechts met de stortingen op de g-rekening die de ontvanger hebben bereikt. Om dit laatste te bepalen zal de ontvanger alle betalingen die de onderaannemer van zijn g-rekening voor het naheffingtijdvak heeft verricht, optellen en het bedrag van de gekwalificeerde g-betalingen van de som aftrekken. Het saldo van deze berekening rekent de ontvanger toe naar evenredigheid van de g-betalingen met betrekking tot het naheffingtijdvak aan de aannemers die niet aan de gestelde voorwaarden hebben voldaan.
+
 De ontvanger vergelijkt het bedrag van de primaire aansprakelijkheid, verminderd met de ‘vrijwaringen’ als hiervoor toegelicht en/of met de vrijwaring als gevolg van rechtstreekse storting (zie artikel 35.6 van deze leidraad, met de uitkomst van de berekening als in artikel 35.1 van deze leidraad toegelicht). In de aansprakelijkstelling gaat de ontvanger uit van de laagste van de twee uitkomsten.
 
 ### 35.5.2. Ketenaansprakelijkheid bij WSNP of faillissement onderaannemer
 
-De ontvanger kan de aannemer ook aansprakelijk stellen voor bedragen die vanaf de datum van het faillissement van de onderaannemer op diens g-rekening zijn bijgeschreven, aangezien op die bedragen geen pandrecht meer wordt gevestigd zodat de ontvanger daarop geen bijzondere aanspraken meer kan doen gelden. De bedragen die na faillissementsdatum zijn gestort, vallen in de boedel en kunnen niet meer worden afgeboekt op de belastingschuld.
+### 35.5. Ketenaansprakelijkheid en g-rekening
 
 Dit geldt ook voor bedragen die op de g-rekening zijn bijgeschreven vanaf de datum van de uitspraak tot toepassing van de WSNP. Ook in verband met de afwikkeling van de wettelijke schuldsaneringsregeling of het faillissement (door de bewindvoerder onderscheidenlijk door de curator), vinden eventuele aansprakelijkstellingen door de ontvanger zo spoedig mogelijk plaats na de datum waarop de wettelijke schuldsaneringsregeling of het faillissement is uitgesproken.
 
-### 35.5.3. Wanprestatie/onrechtmatig handelen en ketenaansprakelijkheid
+Voor de vrijwaring als bedoeld in [artikel 35, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), moet zijn voldaan aan de voorwaarden genoemd in [artikel 6 van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6).
 
-### 35.5.3. Wanprestatie/onrechtmatig handelen en ketenaansprakelijkheid
+### 35.5.4. Surseance en ketenaansprakelijkheid
 
 Een beroep op onrechtmatig handelen behoort eveneens tot de mogelijkheden. Dit betekent dat de ontvanger moet bewijzen dat is gehandeld in strijd met de zorgvuldigheid die in het maatschappelijk verkeer gepast is en dat hij schade heeft geleden.
 
 Er is al sprake van in strijd handelen met de zorgvuldigheid die in het maatschappelijk verkeer gepast is, als een g-rekeninghouder bedragen stort of ontvangt terwijl hij wist dat er geen sprake was van aanneming van werk en hij deze bedragen niet heeft teruggestort. De schade bestaat uit de niet op de g-rekening verhaalbare loonheffingen zoals die ten tijde van de onttrekking verschuldigd zijn en/of later verschuldigd worden, één en ander tot ten hoogste het onttrokken bedrag.
 
-### 35.5.4. Surseance en ketenaansprakelijkheid
+De ontvanger kan de aannemer ook aansprakelijk stellen voor bedragen die vanaf de datum van het faillissement van de onderaannemer op diens g-rekening zijn bijgeschreven, aangezien op die bedragen geen pandrecht meer wordt gevestigd zodat de ontvanger daarop geen bijzondere aanspraken meer kan doen gelden. De bedragen die na faillissementsdatum zijn gestort, vallen in de boedel en kunnen niet meer worden afgeboekt op de belastingschuld.
 
-Zodra de ontvanger bekend is met een surseanceverlening, verzoekt hij de bewindvoerder schriftelijk of hij – binnen een door de ontvanger te stellen termijn – schriftelijk wil instemmen met de vestiging van een pandrecht op de saldi op de g-rekening die ontstaan vanaf de datum van surseanceverlening.
+### 35.6.1. Rechtstreekse storting door aannemer
+
+Als de bewindvoerder instemming weigert, dan zegt de ontvanger de g-rekeningovereenkomst onmiddellijk op.
+
+### 35.6. Rechtstreekse storting en ketenaansprakelijkheid
+
+Een beroep op onrechtmatig handelen behoort eveneens tot de mogelijkheden. Dit betekent dat de ontvanger moet bewijzen dat is gehandeld in strijd met de zorgvuldigheid die in het maatschappelijk verkeer gepast is en dat hij schade heeft geleden.
+
+### 35.6.2. Rechtstreekse storting door aannemer na WSNP, faillissement of surséance
+
+De betaling is in elk geval voldoende gespecificeerd als naast de gegevens van de onderaannemer zijn vermeld:
+
+### 35.7. Samenloop derdenbeslag en ketenaansprakelijkheid
 
 Als de bewindvoerder instemming weigert, dan zegt de ontvanger de g-rekeningovereenkomst onmiddellijk op.
 
-Als de bewindvoerder instemming weigert, dan zegt de ontvanger de g-rekeningovereenkomst onmiddellijk op.
+Als de rechtstreekse storting door de aannemer of inlener plaatsvindt of wordt ontvangen na uitspraak van de WSNP of van het faillissement van de onderaannemer of uitlener dan wel na het verlenen van surseance aan de onderaannemer of uitlener, dan kan het ten behoeve van de onderaannemer of uitlener gestorte bedrag worden aangewend ter afboeking op diens belastingschuld.
 
 ### 35.6.1. Rechtstreekse storting door aannemer
 
 Als de aannemer ten behoeve van zijn onderaannemer de over het werk verschuldigde loonheffingen rechtstreeks heeft gestort bij de B/CA, dan strekt deze betaling tot vermindering van de primaire aansprakelijkheid mits de betaling voldoende is gespecificeerd.
 
-### 35.6.2. Rechtstreekse storting door aannemer na WSNP, faillissement of surséance
+### 35.8. (Niet-)verwijtbaarheid en ketenaansprakelijkheid
 
-De rechtstreekse stortingen worden betrokken in de vergelijking als bedoeld in artikel 35.5.1 van deze leidraad.
-
-### 35.6.2. Rechtstreekse storting door aannemer na WSNP, faillissement of surséance
-
-Als de rechtstreekse storting door de aannemer of inlener plaatsvindt of wordt ontvangen na uitspraak van de WSNP of van het faillissement van de onderaannemer of uitlener dan wel na het verlenen van surseance aan de onderaannemer of uitlener, dan kan het ten behoeve van de onderaannemer of uitlener gestorte bedrag worden aangewend ter afboeking op diens belastingschuld.
-
-### 35.7. Samenloop derdenbeslag en ketenaansprakelijkheid
+Bij een daarop volgende aansprakelijkstelling van de aannemer, zal de ontvanger het verhaalde bedrag vanwege het eerdere derdenbeslag op het bedrag van de aansprakelijkstelling in mindering brengen, als blijkt dat zowel het door het derdenbeslag getroffen bedrag – ongeacht op welke belastingschuld dit bedrag is afgeboekt – als de aansprakelijkheidsvordering van de ontvanger, beide betrekking hebben op dezelfde rechtsverhouding (de overeenkomst van aanneming van werk) tussen de aannemer en de onderaannemer.
 
 De hierbedoelde vermindering wordt betrokken in de berekening als uiteengezet in artikel 35.5.1 van deze leidraad.
 
-Als de ontvanger – voordat tot aansprakelijkstelling wordt overgegaan – ten laste van de onderaannemer derdenbeslag legt onder de aansprakelijke aannemer, is de aannemer op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) en volgende verplicht verklaring te doen van hetgeen hij onder zich heeft en de geldsom die door het beslag is getroffen aan de ontvanger af te dragen.
+### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
 
-### 35.8. (Niet-)verwijtbaarheid en ketenaansprakelijkheid
-
-De hierbedoelde vermindering wordt betrokken in de berekening als uiteengezet in artikel 35.5.1 van deze leidraad.
-
-### 35.8. (Niet-)verwijtbaarheid en ketenaansprakelijkheid
-
-Als in verband met het voorgaande de aansprakelijke aannemer onder wie derdenbeslag is gelegd zich in zijn op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) af te leggen verklaring, beroept op verrekening ter verzekering van zijn (voorwaardelijke) regresvordering op de onderaannemer, dan verklaart de ontvanger schriftelijk dat hij de aannemer niet aansprakelijk zal stellen voor de in totaal af te dragen geldsommen als gevolg van het derdenbeslag.
+Het bedrag hoeft dus niet te worden gerestitueerd aan de bewindvoerder of de curator. Het bepaalde in artikel 35.6.1 van deze leidraad is van toepassing.
 
 Niet-verwijtbaarheid wordt in het algemeen naar redelijkheid en billijkheid beoordeeld; daarbij hangt veel af van de feitelijke omstandigheden. Zo kan van niet-verwijtbaarheid sprake zijn als een ondernemer – hoewel hij de nodige voorzieningen heeft getroffen om eventuele tegenslagen in zijn bedrijf het hoofd te kunnen bieden – toch wordt geconfronteerd met niet te voorziene calamiteiten van zodanige omvang dat hij ondanks zijn voorzorgen niet meer in staat is aan zijn betalingsverplichtingen te voldoen. Dat kan het gevolg zijn van algemeen geldende omstandigheden zoals een verslechterde economische situatie of uitzonderlijk slechte weersomstandigheden.
 
-### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
+### 35.9. Het anoniementarief en ketenaansprakelijkheid
 
 Als de niet-betaling kan worden verweten aan één onderaannemer of aannemer in de keten, is elke aannemer in de keten in beginsel aansprakelijk.
 
@@ -2516,13 +2522,13 @@ In de navolgende omstandigheden is sprake van verwijtbaarheid tenzij deze omstan
 
 De aannemer is aansprakelijk voor de loonbelasting en premie volksverzekeringen die met toepassing van het anoniementarief (ex [artikel 26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b)) zijn berekend en door zijn onderaannemer over het werk zijn verschuldigd.
 
-De ontvanger matigt de primaire aansprakelijkheid als:
+### 35.12.5. Verklaring betalingsgedrag en bezwaar of (hoger) beroep tegen naheffingsaanslagen
 
-### 35.12.4. Verklaring betalingsgedrag en naheffingsaanslagen
+De ontvanger zal de hoogte van de aansprakelijkstelling niet matigen als blijkt dat de aannemer de voor de matiging vereiste gegevens niet heeft geadministreerd ten tijde van de uitvoering van de aannemingsovereenkomst. Als mocht blijken dat het in de administratie van de aannemer opgenomen BSN/sofinummer van de werknemer onjuist is, zal de aannemer in de gelegenheid worden gesteld alsnog het juiste BSN/sofinummer te overleggen.
 
 De aannemer kan dit bijvoorbeeld doen door een door hemzelf bijgehouden administratie over te leggen waarin de volgende gegevens zijn opgenomen:
 
-### 35.12.5. Verklaring betalingsgedrag en bezwaar of (hoger) beroep tegen naheffingsaanslagen
+### 35.11. Volgorde aansprakelijkstelling binnen de keten
 
 In het geval van matiging wordt bij de brutering van het loon - althans voor zover het de loonbelasting en premie volksverzekeringen betreft - gebruik gemaakt van een marginaal percentage. Het marginale tarief is de uitkomst van een berekening waarbij het (gewogen) gemiddelde tarief dat behoort bij de laagste (geknipte) tariefschijf ex [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) juncto [artikel 27, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) wordt vermenigvuldigd met twee, vervolgens wordt geteld bij het tarief dat behoort bij de tweede tariefschijf (t.a.p.) waarna de som wordt gedeeld door drie. De loonbelasting/premie volksverzekeringen over de werkzaamheden waarvoor de aansprakelijkheid bestaat, wordt vervolgens berekend met toepassing van hetzelfde (marginale) percentage. De belasting over de werkzaamheden waarvoor de aansprakelijkheid bestaat, wordt vervolgens berekend met toepassing van hetzelfde (marginale) percentage.
 
@@ -2530,35 +2536,41 @@ Vanwege het feit dat de matiging uitsluitend de betreffende aannemer zelf aangaa
 
 ### 35.11. Volgorde aansprakelijkstelling binnen de keten
 
-De ontvanger stelt een aannemer pas aansprakelijk nadat is komen vast te staan dat en in hoeverre invordering ten laste van de belastingschuldige zelf – bijvoorbeeld door uitwinning van diens g-rekening – geen of onvoldoende kans van slagen biedt. Aansprakelijkstelling kan al plaatsvinden vanaf het tijdstip dat de belastingschuldige in gebreke is met de betaling van zijn belastingschuld. Hierbij neemt de ontvanger de onderstaande volgorde in acht:
-
-De aannemer is ook aansprakelijk voor de loonheffingen die verschuldigd zijn als gevolg van een latere brutering. Een latere brutering kan zich bijvoorbeeld voordoen als blijkt dat de onderaannemer de nageheven loonheffingen niet op zijn werknemer(s) heeft verhaald en dus voor eigen rekening neemt. De loonheffingen die als gevolg van dit ‘voor eigen rekening nemen’ verschuldigd zijn, worden aangemerkt als ‘belasting ter zake van het werk’.
-
-### 35.11. Volgorde aansprakelijkstelling binnen de keten
-
-De ontvanger stelt een aannemer pas aansprakelijk nadat is komen vast te staan dat en in hoeverre invordering ten laste van de belastingschuldige zelf – bijvoorbeeld door uitwinning van diens g-rekening – geen of onvoldoende kans van slagen biedt. Aansprakelijkstelling kan al plaatsvinden vanaf het tijdstip dat de belastingschuldige in gebreke is met de betaling van zijn belastingschuld. Hierbij neemt de ontvanger de onderstaande volgorde in acht:
+De ontvanger zal de hoogte van de aansprakelijkstelling niet matigen als blijkt dat de aannemer de voor de matiging vereiste gegevens niet heeft geadministreerd ten tijde van de uitvoering van de aannemingsovereenkomst. Als mocht blijken dat het in de administratie van de aannemer opgenomen BSN/sofinummer van de werknemer onjuist is, zal de aannemer in de gelegenheid worden gesteld alsnog het juiste BSN/sofinummer te overleggen.
 
 ### 35.12. Verklaring inzake de nakoming van fiscale verplichtingen
 
+In dat geval zal de ontvanger de hoogte van de aansprakelijkheid voor de betreffende aannemer verlagen aan de hand van herrekeningsregels. Deze verlaging kan al plaatsvinden ten tijde van de aansprakelijkstelling, maar ook in de bezwaar- of (hoger) beroepfase en dit gebeurt aan de hand van de volgende herrekeningsregels.
+
+De ontvanger stelt een aannemer pas aansprakelijk nadat is komen vast te staan dat en in hoeverre invordering ten laste van de belastingschuldige zelf – bijvoorbeeld door uitwinning van diens g-rekening – geen of onvoldoende kans van slagen biedt. Aansprakelijkstelling kan al plaatsvinden vanaf het tijdstip dat de belastingschuldige in gebreke is met de betaling van zijn belastingschuld. Hierbij neemt de ontvanger de onderstaande volgorde in acht:
+
 Zie voor de volgorde van aansprakelijkstelling van de opdrachtgever in de confectiesector, artikel 35a.4 van deze leidraad.
 
-Als een opdrachtgever een opdracht heeft verstrekt aan een opdrachtnemer die ten onrechte over een VAR-wuo of VAR-row beschikt – maar op grond van de juiste feiten over een VAR-dga had moeten beschikken – en die opdrachtgever te goeder trouw op die ten onrechte afgegeven verklaring is afgegaan, blijft aansprakelijkstelling achterwege.
+### 35.11.1. VAR-wuo of VAR-row in plaats van VAR-dga
 
 Als een opdrachtgever een opdracht heeft verstrekt aan een opdrachtnemer die ten onrechte over een VAR-wuo of VAR-row beschikt – maar op grond van de juiste feiten over een VAR-dga had moeten beschikken – en die opdrachtgever te goeder trouw op die ten onrechte afgegeven verklaring is afgegaan, blijft aansprakelijkstelling achterwege.
 
-### 35.12.1. Verklaring betalingsgedrag onderaannemer
+### 35.12. Verklaring inzake de nakoming van fiscale verplichtingen
+
+De voorbehoudverklaring geeft de ontvanger af als de volgens aangifte verschuldigde loonheffingen en ook de nageheven loonheffingen zijn voldaan:
 
 Op verzoek kan de ontvanger een verklaring afgeven over het betalingsgedrag van de onderaannemer met wie de aannemer een contract wil sluiten. De verklaring die de ontvanger afgeeft, heeft alleen betrekking op de formeel verschuldigde loonheffingen.
 
-### 35.12.2. Twee soorten verklaringen betalingsgedrag onderaannemer
+### 35.12.3. Verklaring betalingsgedrag en ambtshalve aanslagen
 
 De voorbehoudverklaring geeft de ontvanger af als de volgens aangifte verschuldigde loonheffingen en ook de nageheven loonheffingen zijn voldaan:
 
 Er zijn twee soorten verklaringen betalingsgedrag onderaannemer:
 
-### 35.12.3. Verklaring betalingsgedrag en ambtshalve aanslagen
+### 35.12. Verklaring inzake de nakoming van fiscale verplichtingen
 
 De voorbehoudverklaring geeft de ontvanger af als de volgens aangifte verschuldigde loonheffingen en ook de nageheven loonheffingen zijn voldaan:
+
+### 35.12.3. Verklaring betalingsgedrag en ambtshalve aanslagen
+
+Als de ontvanger ervan op de hoogte is dat de betrokken onderaannemer heeft verzuimd aangifte te doen, tengevolge waarvan ambtshalve één of meer naheffingsaanslagen naar geschatte bedragen zijn opgelegd, dan wordt de gevraagde verklaring – ook al zijn die naheffingsaanslagen betaald – pas afgegeven nadat de onderaannemer alsnog opgaaf heeft gedaan van de volgens hem verschuldigde belasting.
+
+De ontvanger zal in geval van bezwaar, beroep en hoger beroep, slechts een schone verklaring afgeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie. Eén en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en). Ook vermeldt de ontvanger dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
 
 Als de ontvanger ervan op de hoogte is dat de inspecteur van plan is binnen afzienbare tijd één of meer naheffingsaanslagen op te leggen, dan blijft het verzoek buiten behandeling tot die naheffingsaanslagen zijn opgelegd. De verklaring wordt slechts afgegeven wanneer alsnog is voldaan aan de gestelde voorwaarden met betrekking tot de afgifte van een verklaring inzake het betalingsgedrag. De ontvanger deelt de reden van de opschorting schriftelijk aan de onderaannemer mee.
 
@@ -2566,87 +2578,81 @@ Als de ontvanger ervan op de hoogte is dat de inspecteur van plan is binnen afzi
 
 De ontvanger zal in geval van bezwaar, beroep en hoger beroep, slechts een schone verklaring afgeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie. Eén en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en). Ook vermeldt de ontvanger dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
 
-### 35.12.6. Geen aansprakelijkheid voor de ontvanger
+De ontvanger geeft geen verklaring af als:
 
 De ontvanger meldt in de verklaring dat aan de inhoud ervan geen vrijwaring kan worden ontleend voor de aansprakelijkheid op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), en dat de Belastingdienst niet aansprakelijk kan worden gesteld voor enig nadeel van welke aard dan ook dat eventueel voortvloeit uit het gebruik van de verklaring.
 
-De ontvanger zal in geval van bezwaar, beroep en hoger beroep, slechts een schone verklaring afgeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie. Eén en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en). Ook vermeldt de ontvanger dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
+### 35.12.4. Verklaring betalingsgedrag en naheffingsaanslagen
 
-De ontvanger zal in geval van bezwaar, beroep en hoger beroep, slechts een schone verklaring afgeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie. Eén en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en). Ook vermeldt de ontvanger dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
+Als de ontvanger ervan op de hoogte is dat de inspecteur van plan is binnen afzienbare tijd één of meer naheffingsaanslagen op te leggen, dan blijft het verzoek buiten behandeling tot die naheffingsaanslagen zijn opgelegd. De verklaring wordt slechts afgegeven wanneer alsnog is voldaan aan de gestelde voorwaarden met betrekking tot de afgifte van een verklaring inzake het betalingsgedrag. De ontvanger deelt de reden van de opschorting schriftelijk aan de onderaannemer mee.
 
-### 35.12.6. Geen aansprakelijkheid voor de ontvanger
-
-Als de ontvanger (ten onrechte) een schone verklaring heeft afgegeven, op het moment waarop nog formeel verschuldigde loonheffingen openstaan waartegen geen bezwaar- of een (hoger) beroepschrift is ingediend en waarvoor geen betalingsregeling is getroffen, wordt voor die loonheffingenschuld de aannemer niet aansprakelijk gesteld.
-
-De ontvanger geeft geen verklaring af als:
-
-De ontvanger behandelt verzoeken met spoed; hij streeft er naar op een verzoek binnen een week na ontvangst te beslissen.
+### 35.12.5. Verklaring betalingsgedrag en bezwaar of (hoger) beroep tegen naheffingsaanslagen
 
 ### 35.12.8. Wanneer geen verklaring betalingsgedrag
 
 De ontvanger geeft geen verklaring af als:
 
-### 35.12.9. Nieuwe ondernemer en verklaring betalingsgedrag
+De weigering een verklaring af te leggen gebeurt bij beschikking; deze wordt bekendgemaakt onder vermelding waarom niet kan worden overgegaan tot afgifte van een verklaring.
 
 ### 35.12.9. Nieuwe ondernemer en verklaring betalingsgedrag
 
 Als een nieuwe ondernemer een verklaring aanvraagt in verband met het sluiten van een onderaannemingscontract, kan de ontvanger geen verklaring afgeven als nog geen betalingsverplichting bestaat. In dat geval deelt de ontvanger de onderaannemer schriftelijk mee dat hij de gevraagde verklaring nog niet kan afgeven omdat nog niet eerder loonheffingen hoefden te worden afgedragen.
 
-Onder een nieuwe ondernemer wordt in dit verband tevens verstaan:
+### 35.12.11. Curator/bewindvoerder en verklaring betalingsgedrag
 
 ### 35.12.10. Zelfstandige zonder personeel en verklaring betalingsgedrag
 
 Zelfstandigen zonder personeel (zzp-er) dragen geen loonheffingen af omdat ze geen werknemers in dienst hebben. Vaak verplicht de aannemer deze zelfstandigen niettemin een verklaring inzake het betalingsgedrag over te leggen.
 
-### 35.12.11. Curator/bewindvoerder en verklaring betalingsgedrag
+De ontvanger geeft echter geen verklaring af. De weigering een verklaring af te geven gebeurt bij beschikking. In deze gevallen vermeldt de ontvanger bij de bekendmaking van de beschikking aan de zzp-er dat hij geen verklaring inzake betalingsgedrag kan verstrekken omdat de zzp-er op grond van de gegevens die voorhanden zijn op dat moment geen werknemers in dienst heeft en dus geen loonheffingen hoeft te betalen. De ontvanger vermeldt daarbij ook dat hij geen aansprakelijkheid aanvaardt als mocht blijken dat degene aan wie hij de verklaring heeft verstrekt geen zzp-er is, en dat deze beschikking niet betekent dat een eventueel aansprakelijke aannemer niet aansprakelijk wordt gesteld.
 
 ### 35.12.11. Curator/bewindvoerder en verklaring betalingsgedrag
 
 De ontvanger geeft geen verklaring inzake betalingsgedrag af in een situatie waarin het bedrijf door de curator of bewindvoerder wordt voortgezet en bij de ontvanger onvoldoende bekendheid bestaat of de loonheffingenschuld die is ontstaan vanwege de voortzetting van het bedrijf, door curator en bewindvoerder zal (kunnen) worden afgedragen.
 
-Als het bedrijf echter gedurende langere tijd wordt voortgezet en de curator of bewindvoerder om een verklaring verzoekt, geeft de ontvanger een verklaring af.
+### 35a.1. Dienstbetrekking en opdrachtgeversaansprakelijkheid
 
-### Artikel 35a. Opdrachtgeversaansprakelijkheid
+Voor de toepassing van [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) moet het verstrekken van een opdracht tot het vervaardigen van kleding buiten dienstbetrekking gebeuren.
 
 In aansluiting op [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) beschrijft dit artikel het beleid over:
 
-### 35a.1. Dienstbetrekking en opdrachtgeversaansprakelijkheid
+De ontvanger geeft echter geen verklaring af. De weigering een verklaring af te geven gebeurt bij beschikking. In deze gevallen vermeldt de ontvanger bij de bekendmaking van de beschikking aan de zzp-er dat hij geen verklaring inzake betalingsgedrag kan verstrekken omdat de zzp-er op grond van de gegevens die voorhanden zijn op dat moment geen werknemers in dienst heeft en dus geen loonheffingen hoeft te betalen. De ontvanger vermeldt daarbij ook dat hij geen aansprakelijkheid aanvaardt als mocht blijken dat degene aan wie hij de verklaring heeft verstrekt geen zzp-er is, en dat deze beschikking niet betekent dat een eventueel aansprakelijke aannemer niet aansprakelijk wordt gesteld.
 
 Voor de toepassing van [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) moet het verstrekken van een opdracht tot het vervaardigen van kleding buiten dienstbetrekking gebeuren.
 
 Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
-Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+Als het bedrijf echter gedurende langere tijd wordt voortgezet en de curator of bewindvoerder om een verklaring verzoekt, geeft de ontvanger een verklaring af.
 
-De beoordeling of de opdracht wordt verstrekt in de normale uitoefening van het bedrijf vindt plaats op grond van de feitelijke omstandigheden per individueel geval. Werkzaamheden worden als ‘normale uitoefening van het bedrijf’ aangemerkt, wanneer het verstrekken van opdrachten tot het vervaardigen van kleding een regelmatig terugkerend karakter heeft. Het regelmatig terugkerend karakter van de opdrachten moet feitelijk worden beoordeeld.
+### Artikel 35a. Opdrachtgeversaansprakelijkheid
 
 De voorwaarde dat de opdracht tot het verrichten van de werkzaamheden moet plaatsvinden in de normale uitoefening van het bedrijf, sluit tevens uit dat particulieren die een opdracht verstrekken tot de vervaardiging van kleding in de ketenaansprakelijkheid worden betrokken.
 
-Voor de opdrachtgever in de confectiesector gelden met betrekking tot de volgorde van aansprakelijkstelling dezelfde uitgangspunten als opgenomen in artikel 35.11 van deze leidraad.
-
 ### 35a.3. Reikwijdte opdrachtgeversaansprakelijkheid
 
+De aansprakelijkheid van de opdrachtgever in de confectiesector heeft uitsluitend betrekking op de verschuldigde loonheffingen over een werk inhoudende de vervaardiging van kleding en elke daarop gerichte handeling.
+
+Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+
+Voor de opdrachtgever in de confectiesector gelden met betrekking tot de volgorde van aansprakelijkstelling dezelfde uitgangspunten als opgenomen in artikel 35.11 van deze leidraad.
+
+### Artikel 35b. Aansprakelijkheid van een koper van een bestaande zaak
+
 De opdrachtgever zal pas in laatste instantie worden aangesproken, omdat de opdrachtgeversaansprakelijkheid het karakter van een uiterst middel heeft.
-
-### 35a.4. Volgorde aansprakelijkstelling bij opdrachtgeversaansprakelijkheid
-
-Dit betekent dat het uitgangspunt is dat de opdrachtgever in beginsel niet direct aansprakelijk wordt gesteld, maar dat eerst de aannemer aansprakelijk zal worden gesteld die rechtstreeks met de in gebreke gebleven onderaannemer een contract heeft gesloten, en daarna de aannemer die in de keten de minst ver verwijderde schakel vormt.
-
-De opdrachtgever zal pas in laatste instantie worden aangesproken, omdat de opdrachtgeversaansprakelijkheid het karakter van een uiterst middel heeft.
-
-De ondernemer of onderneming die op termijn te leveren kleding koopt en die op het tijdstip van de koop niet weet noch redelijkerwijs behoort te weten of die kleding reeds geheel of gedeeltelijk is vervaardigd, mag zich voor wat betreft de vrijwaring voor de gehele order beschouwen als koper van een toekomstige zaak die wordt gelijkgesteld met een opdrachtgever bedoeld in [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a).
 
 ### Artikel 35b. Aansprakelijkheid van een koper van een bestaande zaak
 
 In aansluiting op [artikel 35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b) beschrijft dit artikel het beleid over:
 
-### 35b.1. Kopersaansprakelijkheid en vrijwaring
-
 Het staat die ondernemer dan vrij om gebruik te maken van het g-rekeningensysteem. Op die wijze kan hij een wettelijke vrijwaring verkrijgen door gelden op de g-rekening van zijn (onder)aannemer te storten.
+
+### 35b.2. Volgorde aansprakelijkstelling bij kopersaansprakelijkheid
 
 Het staat die ondernemer dan vrij om gebruik te maken van het g-rekeningensysteem. Op die wijze kan hij een wettelijke vrijwaring verkrijgen door gelden op de g-rekening van zijn (onder)aannemer te storten.
 
 ### 35b.2. Volgorde aansprakelijkstelling bij kopersaansprakelijkheid
+
+Voor de koper van een bestaande zaak in de confectiesector gelden met betrekking tot de volgorde van aansprakelijkstelling dezelfde uitgangspunten als opgenomen in artikel 35.11 van deze leidraad.
 
 Dit betekent dat het uitgangspunt is dat de koper van de bestaande zaak in beginsel niet direct aansprakelijk wordt gesteld, maar dat hij pas in laatste instantie wordt aangesproken, omdat de kopersaansprakelijkheid het karakter van een uiterst middel heeft.
 
@@ -2654,75 +2660,69 @@ Dit betekent dat het uitgangspunt is dat de koper van de bestaande zaak in begin
 
 In aansluiting op [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) beschrijft dit artikel het beleid over:
 
-Als een rechtspersoon waarop dit artikel van toepassing is, failleert en de ontvanger is voornemens de bestuurder(s) van de gefailleerde rechtspersoon aansprakelijk te stellen, neemt hij contact op met de curator om te overleggen over de vraag wie tot aansprakelijkstelling zal overgaan. Aansprakelijkstelling door de curator geniet de voorkeur, tenzij blijkt dat de bewijspositie van de ontvanger sterker is.
+Het staat die ondernemer dan vrij om gebruik te maken van het g-rekeningensysteem. Op die wijze kan hij een wettelijke vrijwaring verkrijgen door gelden op de g-rekening van zijn (onder)aannemer te storten.
 
-### 36.1. Samenloop met bestuurdersaansprakelijkheid in faillissement
-
-Omdat ook de bestuurdersaansprakelijkheid van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) gericht is op kennelijk onbehoorlijk bestuur, kunnen in bepaalde gevallen beide regelingen van toepassing zijn. In dat geval moet er naar worden gestreefd om slechts één van de regelingen toe te passen.
-
-Als een rechtspersoon waarop dit artikel van toepassing is, failleert en de ontvanger is voornemens de bestuurder(s) van de gefailleerde rechtspersoon aansprakelijk te stellen, neemt hij contact op met de curator om te overleggen over de vraag wie tot aansprakelijkstelling zal overgaan. Aansprakelijkstelling door de curator geniet de voorkeur, tenzij blijkt dat de bewijspositie van de ontvanger sterker is.
-
-Gegevensverstrekking aan de curator blijft achterwege voor zover met die verstrekking geen fiscaal belang is gediend.
+De [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) geven de curator in het faillissement van een rechtspersoon meer mogelijkheden om bij de afwikkeling van de boedel een tekort alsnog te verkleinen ten behoeve van alle schuldeisers in het faillissement. Hij kan dit doen door de bestuurders van de rechtspersoon hoofdelijk aansprakelijk te stellen voor het tekort van de boedel wanneer zij hun taak kennelijk onbehoorlijk hebben vervuld, en aannemelijk is dat dit een belangrijke oorzaak is geweest van het faillissement.
 
 ### 36.2. Gegevensverstrekking aan de curator en bestuurdersaansprakelijkheid
 
+Als een rechtspersoon waarop dit artikel van toepassing is, failleert en de ontvanger is voornemens de bestuurder(s) van de gefailleerde rechtspersoon aansprakelijk te stellen, neemt hij contact op met de curator om te overleggen over de vraag wie tot aansprakelijkstelling zal overgaan. Aansprakelijkstelling door de curator geniet de voorkeur, tenzij blijkt dat de bewijspositie van de ontvanger sterker is.
+
+Gegevensverstrekking aan de curator blijft achterwege voor zover met die verstrekking geen fiscaal belang is gediend.
+
+De Belastingdienst verstrekt desgevraagd aan de curator in het faillissement van een vennootschap – als bedoeld in de [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) of [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) – gegevens over de bestuurders van deze vennootschap als deze gegevens worden verzocht in het kader van:
+
 Het voorgaande vindt overeenkomstige toepassing ten aanzien van commissarissen van een vennootschap op grond van de [artikelen 2:149](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149) en [2:259 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=259).
 
-Gegevensverstrekking aan de curator blijft achterwege voor zover met die verstrekking geen fiscaal belang is gediend.
+### 36.4. Kennelijk onbehoorlijk bestuur
 
-Gegevensverstrekking aan de curator blijft achterwege voor zover met die verstrekking geen fiscaal belang is gediend.
+Omdat ook de bestuurdersaansprakelijkheid van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) gericht is op kennelijk onbehoorlijk bestuur, kunnen in bepaalde gevallen beide regelingen van toepassing zijn. In dat geval moet er naar worden gestreefd om slechts één van de regelingen toe te passen.
 
 De curator in het faillissement van een rechtspersoon kan niet op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) aansprakelijk worden gesteld, ook al zou hij onder omstandigheden het beleid van de rechtspersoon gedurende het faillissement feitelijk bepalen als ware hij bestuurder.
 
 ### 36.4. Kennelijk onbehoorlijk bestuur
 
-De vraag of in een bepaalde situatie sprake is van kennelijk onbehoorlijk bestuur zal naar redelijkheid en billijkheid – met inachtneming van de concrete omstandigheden van het geval – moeten worden beantwoord.
+De Belastingdienst verstrekt desgevraagd aan de curator in het faillissement van een vennootschap – als bedoeld in de [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) of [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) – gegevens over de bestuurders van deze vennootschap als deze gegevens worden verzocht in het kader van:
 
 De vraag of in een bepaalde situatie sprake is van kennelijk onbehoorlijk bestuur zal naar redelijkheid en billijkheid – met inachtneming van de concrete omstandigheden van het geval – moeten worden beantwoord.
 
 ### 36.5. Melding betalingsonmacht
 
-Van kennelijk onbehoorlijk bestuur kan slechts worden gesproken als een redelijk denkend bestuurder – onder dezelfde omstandigheden – niet als zodanig zou hebben gehandeld. Ernstige misslagen en wanbeleid vallen – ook als geen sprake is van (beoogd) persoonlijk voordeel van de bestuurder – zeker onder kennelijk onbehoorlijk bestuur. Ook bij minder ernstige fouten kan van kennelijk onbehoorlijk bestuur sprake zijn als door onbezonnen, roekeloos of onverantwoordelijk gedrag van een bestuurder bedrijfsrisico’s worden genomen die veel groter zijn dan wat tot normaal ondernemersrisico mag worden gerekend.
+### 36.4.2. Geen kennelijk onbehoorlijk bestuur
 
 Niet voorzienbare gebeurtenissen of omstandigheden komen niet voor rekening van de bestuurder. Een bestuursfout moet dus worden beoordeeld naar het moment waarop de betreffende bestuurshandeling werd verricht aan de hand van hetgeen toen was te voorzien.
 
-### 36.5. Melding betalingsonmacht
+Bij ieder gesprek ten kantore waarin de (tijdelijke) betalingsproblemen van de belastingschuldige ter sprake komen, wijst de ontvanger op de meldingsplicht. De ontvanger licht ook de implicaties van de melding toe. De ontvanger reikt in alle gevallen een formulier uit waarmee de belastingschuldige de betalingsonmacht schriftelijk kan melden.
 
 ### 36.5.1. Betalingsonmacht en de wijze van melding daarvan
 
 Bij de beoordeling of sprake is van betalingsonmacht speelt het begrip ‘liquide middelen’ een rol. Voor de toepassing van [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) worden onder liquide middelen verstaan de kasmiddelen, waaronder de bank- en girotegoeden, en de direct opneembare kredietruimte van het lichaam. De melding van betalingsonmacht dient schriftelijk te geschieden door de bestuurder of de gemachtigde van de belastingschuldige. De wijze waarop de schriftelijke melding moet plaatsvinden, is vormvrij. [Artikel 7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7) is echter onverminderd van toepassing. Voor de melding kan gebruik worden gemaakt van het formulier dat de Belastingdienst in het zogenoemde Persoonlijk Domein van de belastingschuldige beschikbaar stelt.
 
-Bij ieder gesprek ten kantore waarin de (tijdelijke) betalingsproblemen van de belastingschuldige ter sprake komen, wijst de ontvanger op de meldingsplicht. De ontvanger licht ook de implicaties van de melding toe. De ontvanger reikt in alle gevallen een formulier uit waarmee de belastingschuldige de betalingsonmacht schriftelijk kan melden.
-
 ### 36.5.2. Verzoek waaruit betalingsproblemen blijken en melding betalingsonmacht
 
-De ontvanger wijst erop dat hij de melding als niet-rechtsgeldig zal aanmerken, als later blijkt dat de melder niet bevoegd is.
+Een schriftelijk verzoek om uitstel van betaling dan wel een schriftelijk verzoek of brief – niet zijnde de melding van betalingsonmacht als bedoeld in artikel 36.5.1 – waaruit betalingsproblemen blijken, merkt de ontvanger in beginsel aan als een schriftelijke melding van betalingsonmacht. Daarbij geldt dat in het verzoek of de brief inzicht gegeven moet worden in de oorzaak van de betalingsproblemen. Wanneer in het schriftelijke verzoek of de brief geen inzicht wordt gegeven in de omstandigheden die ertoe hebben geleid dat de verschuldigde belasting niet op aangifte is afgedragen of voldaan of niet is betaald, gelden het verzoek en de brief niet als melding van betalingsonmacht.
 
 ### 36.5.3. Melding betalingsonmacht ten kantore
 
+Bij ieder gesprek ten kantore waarin de (tijdelijke) betalingsproblemen van de belastingschuldige ter sprake komen, wijst de ontvanger op de meldingsplicht. De ontvanger licht ook de implicaties van de melding toe. De ontvanger reikt in alle gevallen een formulier uit waarmee de belastingschuldige de betalingsonmacht schriftelijk kan melden.
+
+### 36.5.1. Betalingsonmacht en de wijze van melding daarvan
+
+De ontvanger wijst erop dat hij de melding als niet-rechtsgeldig zal aanmerken, als later blijkt dat de melder niet bevoegd is.
+
+### 36.5.2. Verzoek waaruit betalingsproblemen blijken en melding betalingsonmacht
+
+De ontvanger laat altijd weten dat hij de melding in twee fasen kan beoordelen en dat zonodig nadere gegevens zullen worden opgevraagd.
+
+Een verzoek om uitstel van betaling in verband met bezwaar, beroep of hoger beroep merkt de ontvanger niet aan als een melding van betalingsonmacht.
+
+### 36.5.6. Surseance en melding betalingsonmacht
+
 Als de belastingschuldige ter plekke aan de meldingsverplichting wil voldoen, doet hij dat schriftelijk onder vermelding van:
 
-### 36.5.4. Termijn melding betalingsonmacht
-
-Als de ontvanger constateert dat de melding niet meer tijdig kan plaatsvinden, wijst de ontvanger de belastingschuldige hierop. De belastingschuldige kan in verband met de niet-tijdigheid afzien van het doen van een melding. Als de belastingschuldige toch een melding wil doen, maakt de ontvanger hiervan aantekening.
-
-### 36.5.5. Uitstel van betaling in verband met bezwaar en (hoger) beroep en melding betalingsonmacht
-
-Een verzoek om uitstel van betaling in verband met bezwaar, beroep of hoger beroep merkt de ontvanger niet aan als een melding van betalingsonmacht.
-
-### 36.5.4. Termijn melding betalingsonmacht
-
-Als uitstel van betaling is verleend in verband met een tijdig ingediend bezwaarschrift of beroepschrift (in hoger beroep) kan – als uitspraak is gedaan op het bezwaarschrift of op het beroepschrift is beslist – betalingsonmacht voor het niet toegewezen bedrag alsnog binnen veertien dagen na de dagtekening van de beslissing op het bezwaar of beroep bij de ontvanger worden gemeld.
-
-Een verzoek om uitstel van betaling in verband met bezwaar, beroep of hoger beroep merkt de ontvanger niet aan als een melding van betalingsonmacht.
-
 ### 36.5.6. Surseance en melding betalingsonmacht
 
-Als uitstel van betaling is verleend in verband met een tijdig ingediend bezwaarschrift of beroepschrift (in hoger beroep) kan – als uitspraak is gedaan op het bezwaarschrift of op het beroepschrift is beslist – betalingsonmacht voor het niet toegewezen bedrag alsnog binnen veertien dagen na de dagtekening van de beslissing op het bezwaar of beroep bij de ontvanger worden gemeld.
-
-### 36.5.6. Surseance en melding betalingsonmacht
-
-Als aan een rechtspersoon surseance van betaling is verleend, blijft de meldingsplicht bestaan. Als de bewindvoerder betalingsonmacht schriftelijk meldt, wordt die melding aangemerkt als rechtsgeldig. Uitsluitend in gevallen waarin duidelijk blijkt dat de bestuurders hun medewerking aan de melding hebben geweigerd, heeft de melding door de bewindvoerder geen waarde.
+Bij een verzoek om uitstel van betaling in verband met een ingediend bezwaarschrift of beroepschrift (in hoger beroep) tegen een naheffingsaanslag als bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7), moet voor het niet betwiste deel van de belastingaanslag (zo nodig op de gebruikelijke wijze) afzonderlijk worden gemeld dat de rechtspersoon niet in staat is dit deel van de naheffingsaanslag te voldoen.
 
 ### 36.5.7. Faillissement en melding betalingsonmacht
 
@@ -2734,23 +2734,29 @@ Bij de melding van de betalingsonmacht (in de eerste fase) kunnen zich de volgen
 
 ### 36.5.8. Melding betalingsonmacht – twee fasen
 
-Bij de melding van de betalingsonmacht worden twee fasen onderscheiden:
+Als een tijdige schriftelijke melding is gedaan en de ontvanger voorafgaand aan het faillissement om ontbrekende informatie dan wel nadere gegevens en inlichtingen of gegevensdragers heeft gevraagd (als bedoeld in de artikelen 36.5.9 tot en met 36.5.11 van deze leidraad) en het faillissement wordt uitgesproken voordat de gestelde termijn verstrijkt, dan wordt de melding als rechtsgeldig aangemerkt. Het lichaam hoeft de gevraagde gegevens niet meer te verstrekken.
 
-Bij de melding van de betalingsonmacht (in de eerste fase) kunnen zich de volgende situaties voordoen:
+Als uitstel van betaling is verleend in verband met een tijdig ingediend bezwaarschrift of beroepschrift (in hoger beroep) kan – als uitspraak is gedaan op het bezwaarschrift of op het beroepschrift is beslist – betalingsonmacht voor het niet toegewezen bedrag alsnog binnen veertien dagen na de dagtekening van de beslissing op het bezwaar of beroep bij de ontvanger worden gemeld.
+
+### 36.5.6. Surseance en melding betalingsonmacht
+
+Als aan een rechtspersoon surseance van betaling is verleend, blijft de meldingsplicht bestaan. Als de bewindvoerder betalingsonmacht schriftelijk meldt, wordt die melding aangemerkt als rechtsgeldig. Uitsluitend in gevallen waarin duidelijk blijkt dat de bestuurders hun medewerking aan de melding hebben geweigerd, heeft de melding door de bewindvoerder geen waarde.
+
+### 36.5.7. Faillissement en melding betalingsonmacht
+
+De ontvanger verzendt in beginsel geen ontvangstbevestiging van de melding.
 
 ### 36.5.10. Na melding betalingsonmacht 1e fase – opvragen nadere gegevens
+
+Als de ontvanger naar aanleiding van een tijdige en volledige melding nadere gegevens, inlichtingen en/of gegevensdragers wenst te verkrijgen omtrent de oorza(a)k(en) van de betalingsonmacht en/of de financiële positie van het lichaam, dan vraagt hij deze op binnen acht weken na ontvangst van die melding of na ontvangst van de in de eerste fase aanvankelijk ontbrekende gegevens.
+
+### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
 
 De ontvanger moet per geval een redelijke termijn stellen waarbinnen de nadere gegevens en inlichtingen en/of gegevensdragers moeten zijn verstrekt.
 
-### 36.5.10. Na melding betalingsonmacht 1e fase – opvragen nadere gegevens
-
-Daarbij moet de ontvanger er altijd op wijzen dat hij die gegevens en inlichtingen en/of gegevensdragers vraagt in verband met de meldingsregeling als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36). Ook moet hij summier aangeven wat die regeling inhoudt, ook als hij er van uit mag gaan dat de belastingschuldige voldoende op de hoogte is met de regeling. Daarnaast moet de ontvanger erop wijzen dat het niet, niet tijdig of onvolledig verstrekken van de gevraagde gegevens en inlichtingen en/of gegevensdragers tot een niet rechtsgeldige melding leidt met consequenties voor de bewijslastverdeling, als bedoeld in [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
-
 ### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
 
-Daarbij moet de ontvanger het voorbehoud maken dat de melding alsnog als niet rechtsgeldig wordt aangemerkt, als later blijkt dat onjuiste gegevens en inlichtingen werden verstrekt, dan wel gegevensdragers die onjuiste gegevens bevatten.
-
-### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
+De ontvanger controleert of de nadere gegevens en inlichtingen tijdig en volledig zijn verstrekt, dan wel of de gevraagde gegevensdragers tijdig en volledig voor raadpleging ter beschikking zijn gesteld, en hij beoordeelt de gegevens.
 
 Daarbij kunnen zich de volgende situaties voordoen:
 
@@ -2758,33 +2764,45 @@ Daarbij kunnen zich de volgende situaties voordoen:
 
 De ontvanger maakt in alle bovenstaande situaties zijn beslissing binnen acht weken bekend bij beschikking. De termijn van acht weken vangt aan op het moment dat de nadere gegevens en inlichtingen tijdig en volledig zijn verstrekt, dan wel de gevraagde gegevensdragers tijdig en volledig voor raadpleging ter beschikking zijn gesteld.
 
-De ontvanger maakt in alle bovenstaande situaties zijn beslissing binnen acht weken bekend bij beschikking. De termijn van acht weken vangt aan op het moment dat de nadere gegevens en inlichtingen tijdig en volledig zijn verstrekt, dan wel de gevraagde gegevensdragers tijdig en volledig voor raadpleging ter beschikking zijn gesteld.
+De ontvanger moet per geval een redelijke termijn stellen waarbinnen de nadere gegevens en inlichtingen en/of gegevensdragers moeten zijn verstrekt.
 
-### 36.5.12. Geldigheidsduur van de melding betalingsonmacht
-
-Als de toestand van betalingsonmacht blijft voortduren, dan hoeft dit voor de belasting – die na de melding op aangifte verschuldigd wordt – en de vervallen naheffingsaanslagen niet opnieuw te worden gemeld. De toestand van betalingsonmacht als bedoeld in de tweede volzin eindigt in beginsel eerst vanaf het tijdstip waarop de naheffingsaanslagen waarvoor de melding heeft plaatsgevonden, zijn betaald. Dit is alleen anders als naar het oordeel van de ontvanger feitelijk geen sprake meer is van een toestand van betalingsonmacht omdat afdracht en voldoening op aangifte zijn hervat. In dat geval herleeft de meldingsplicht op voorwaarde dat de ontvanger het lichaam daarover tijdig en schriftelijk heeft geïnformeerd.
-
-Als de toestand van betalingsonmacht blijft voortduren, dan hoeft dit voor de belasting – die na de melding op aangifte verschuldigd wordt – en de vervallen naheffingsaanslagen niet opnieuw te worden gemeld. De toestand van betalingsonmacht als bedoeld in de tweede volzin eindigt in beginsel eerst vanaf het tijdstip waarop de naheffingsaanslagen waarvoor de melding heeft plaatsgevonden, zijn betaald. Dit is alleen anders als naar het oordeel van de ontvanger feitelijk geen sprake meer is van een toestand van betalingsonmacht omdat afdracht en voldoening op aangifte zijn hervat. In dat geval herleeft de meldingsplicht op voorwaarde dat de ontvanger het lichaam daarover tijdig en schriftelijk heeft geïnformeerd.
-
-Als een melding geldig blijft voor een later opgelegde naheffingsaanslag, dan wordt er van uit gegaan dat voor deze naheffingsaanslag zelfstandig een rechtsgeldige melding heeft plaatsgevonden.
+De geldigheidsduur vangt aan op de datum van ontvangst van de (uiteindelijk) als rechtsgeldig beoordeelde mededeling van betalingsonmacht.
 
 ### 36.6. Aansprakelijkheid bestuurder
 
+Daarbij kunnen zich de volgende situaties voordoen:
+
+### 36.6.1. Bewijslastverdeling en bestuurdersaansprakelijkheid
+
 Bij een aansprakelijkstelling voor deze belastingaanslag moet het kennelijk onbehoorlijk bestuur zich hebben afgespeeld in de drie jaar voorafgaand aan de dag waarop uiterlijk betalingsonmacht had moeten worden gemeld, als geen sprake zou zijn van een doorlopende melding.
+
+### 36.6. Aansprakelijkheid bestuurder
+
+De geldigheidsduur vangt aan op de datum van ontvangst van de (uiteindelijk) als rechtsgeldig beoordeelde mededeling van betalingsonmacht.
+
+Een bestuurder is slechts aansprakelijk als aannemelijk is dat de niet-betaling door het lichaam aan de bestuurder is te wijten als gevolg van kennelijk onbehoorlijk bestuur.
+
+De verdeling van de bewijslast (wie moet aannemelijk maken) is afhankelijk van de omstandigheid, of het lichaam al dan niet rechtsgeldig de betalingsonmacht heeft gemeld.
+
+Als een melding geldig blijft voor een later opgelegde naheffingsaanslag, dan wordt er van uit gegaan dat voor deze naheffingsaanslag zelfstandig een rechtsgeldige melding heeft plaatsgevonden.
+
+### 36.7. Geen administratieve controle bij bestuurder
+
+Zodra een beroepschrift is ingediend tegen de uitspraak van de ontvanger op het bezwaarschrift tegen de aansprakelijkstelling, wordt geen administratieve controle meer ingesteld bij de bestuurder, tenzij de rechter die mogelijkheid toestaat of een onderzoek wordt ingesteld bij een derde niet-aansprakelijk gestelde.
 
 ### 36.6.1. Bewijslastverdeling en bestuurdersaansprakelijkheid
 
 Een bestuurder is slechts aansprakelijk als aannemelijk is dat de niet-betaling door het lichaam aan de bestuurder is te wijten als gevolg van kennelijk onbehoorlijk bestuur.
 
-### 36.6.3. Aansprakelijkheid nieuwe bestuurder
+### 36a.1. Disculpatiemogelijkheid bestuurder aansprakelijkheid vennootschapsbelasting
 
-Voor de reeds vastgestelde belastingschulden is de bestuurder aansprakelijk bij zijn in functie treden, tenzij hij aannemelijk maakt dat er niet voldoende middelen aanwezig waren om deze schulden te betalen en dat het niet mogelijk is gebleken maatregelen te treffen om de schuld toch te voldoen, zodat de niet-betaling niet aan hem is te wijten.
+De bestuurder is niet aansprakelijk als hij bewijst dat:
 
-Als een gewezen bestuurder die door de ontvanger aansprakelijk is gesteld, geen bestuurder meer was op het moment dat voldaan moest worden aan de meldingsplicht, wordt hij direct toegelaten tot de weerlegging van het wettelijk vermoeden van [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
+In aansluiting op [artikel 36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36a) beschrijft dit artikel het beleid over de disculpatiemogelijkheid van de bestuurder.
 
-Zodra een beroepschrift is ingediend tegen de uitspraak van de ontvanger op het bezwaarschrift tegen de aansprakelijkstelling, wordt geen administratieve controle meer ingesteld bij de bestuurder, tenzij de rechter die mogelijkheid toestaat of een onderzoek wordt ingesteld bij een derde niet-aansprakelijk gestelde.
+Als de ontvanger bestuurders van verschillende vennootschappen die deel uitmaken van een fiscale eenheid voor de omzetbelasting aansprakelijk kan stellen op grond van [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) en het de ontvanger bekend is bij welk onderdeel van de fiscale eenheid de materiële omzetbelastingschuld is ontstaan, zal hij als eerste de bestuurder van dat onderdeel aansprakelijk stellen. Dat betekent dat bestuurders van andere onderdelen van de fiscale eenheid pas aansprakelijk kunnen worden gesteld indien de invordering ten laste van de in de vorige volzin bedoelde bestuurder onvoldoende soelaas biedt.
 
-Voor de reeds vastgestelde belastingschulden is de bestuurder aansprakelijk bij zijn in functie treden, tenzij hij aannemelijk maakt dat er niet voldoende middelen aanwezig waren om deze schulden te betalen en dat het niet mogelijk is gebleken maatregelen te treffen om de schuld toch te voldoen, zodat de niet-betaling niet aan hem is te wijten.
+De bestuurder is niet aansprakelijk als hij bewijst dat:
 
 ### 36.7. Geen administratieve controle bij bestuurder
 
@@ -2798,21 +2816,9 @@ In aansluiting op [artikel 36a van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 De bestuurder is niet aansprakelijk als hij bewijst dat:
 
-Aan de tweede eis waaraan de bestuurder moet voldoen is in elk geval niet voldaan wanneer al ten tijde van de overeenkomst tot afkoop van de pensioenverplichting – met een aanzienlijke mate van waarschijnlijkheid – de afwikkeling van die overeenkomst tot gevolg zou hebben dat er voor de voldoening van de vennootschapsbelasting die ten gevolge van de afkoop verschuldigd wordt, geen of onvoldoende middelen beschikbaar zouden zijn.
+### 37.2. Volgorde aansprakelijkstelling loonheffingen ter zake van beroepssporters en dergelijke
 
-Als de ontvanger bestuurders van verschillende vennootschappen die deel uitmaken van een fiscale eenheid voor de omzetbelasting aansprakelijk kan stellen op grond van [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) en het de ontvanger bekend is bij welk onderdeel van de fiscale eenheid de materiële omzetbelastingschuld is ontstaan, zal hij als eerste de bestuurder van dat onderdeel aansprakelijk stellen. Dat betekent dat bestuurders van andere onderdelen van de fiscale eenheid pas aansprakelijk kunnen worden gesteld indien de invordering ten laste van de in de vorige volzin bedoelde bestuurder onvoldoende soelaas biedt.
-
-In aansluiting op [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) beschrijft dit artikel het beleid over de fiscale eenheid voor de omzetbelasting.
-
-### 36b.1. Fiscale eenheid voor de omzetbelasting
-
-Als de ontvanger bestuurders van verschillende vennootschappen die deel uitmaken van een fiscale eenheid voor de omzetbelasting aansprakelijk kan stellen op grond van [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) en het de ontvanger bekend is bij welk onderdeel van de fiscale eenheid de materiële omzetbelastingschuld is ontstaan, zal hij als eerste de bestuurder van dat onderdeel aansprakelijk stellen. Dat betekent dat bestuurders van andere onderdelen van de fiscale eenheid pas aansprakelijk kunnen worden gesteld indien de invordering ten laste van de in de vorige volzin bedoelde bestuurder onvoldoende soelaas biedt.
-
-### Artikel 37. Aansprakelijkheid voor loon- en omzetbelasting
-
-In aansluiting op [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) beschrijft dit artikel het beleid over:
-
-### 37.1. Aansprakelijkheid voor loon- en omzetbelasting voor leider van in Nederland verrichte werkzaamheden
+Als eerste wordt aansprakelijk gesteld degene die een optreden of een sportmanifestatie organiseert waarvoor buitenlandse artiesten, beroepssporters of buitenlandse gezelschappen zijn uitgenodigd of toegelaten.
 
 De aansprakelijkheid van [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) heeft niet alleen betrekking op de als zodanig aangewezen leider van de vaste inrichting, de vaste vertegenwoordiger en degene die de leiding heeft van de (in Nederland verrichte) werkzaamheden, maar ook op een ieder die zich als zodanig gedraagt.
 
@@ -2820,21 +2826,19 @@ De aansprakelijkheid van [artikel 37 van de wet](https://wetten.overheid.nl/jci1
 
 Als eerste wordt aansprakelijk gesteld degene die een optreden of een sportmanifestatie organiseert waarvoor buitenlandse artiesten, beroepssporters of buitenlandse gezelschappen zijn uitgenodigd of toegelaten.
 
-Als redelijkerwijs moet worden aangenomen dat aansprakelijkstelling niet tot voldoening van de schuld zal leiden, worden één of meer andere personen of lichamen die bij de organisatie van het optreden of de sportmanifestatie betrokken zijn, aansprakelijk gesteld. De mate van betrokkenheid bij het evenement en de aanwezige verhaalsmogelijkheden zullen daarbij de keuze bepalen.
+### Artikel 37. Aansprakelijkheid voor loon- en omzetbelasting
 
-### Artikel 38. Aansprakelijkheid voor loon- en kansspelbelasting
+In aansluiting op [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) beschrijft dit artikel het beleid over:
 
 In aansluiting op [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=38) beschrijft dit artikel het beleid over geen aansprakelijkheid bij goede trouw.
 
-### 38.1. Geen aansprakelijkstelling voor loon- en kansspelbelasting bij goede trouw
+De aansprakelijkheid van [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) heeft niet alleen betrekking op de als zodanig aangewezen leider van de vaste inrichting, de vaste vertegenwoordiger en degene die de leiding heeft van de (in Nederland verrichte) werkzaamheden, maar ook op een ieder die zich als zodanig gedraagt.
 
 Uitgangspunt is dat de aansprakelijke weet of behoort te weten dat de inhouding ten onrechte achterwege is gebleven. Als de werknemer, de artiest, de beroepssporter, het buitenlands gezelschap, de belastingplichtige of de leden van een buitenlands gezelschap meenden of redelijkerwijze mochten menen dat de inhoudingsplichtige aan zijn verplichting tot inhouding zou voldoen, zijn zij niet aansprakelijk.
 
-In aansluiting op [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) beschrijft dit artikel het beleid over:
+### Artikel 39
 
 Er zijn in deze leidraad op [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=39) geen beleidsregels gemaakt.
-
-De vervreemding van het aandelenpakket als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) is de verkooptransactie en niet de (doorgaans latere) levering van de aandelen.
 
 ### Artikel 40. Aansprakelijkheid van de vervreemder van aandelen of een belang
 
@@ -2842,15 +2846,23 @@ In aansluiting op [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### 40.1. Vervreemding van aandelen
 
-Opgemerkt wordt dat [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) niet alleen betrekking heeft op natuurlijke personen die aandelen of een belang vervreemden, maar ook op lichamen in de zin van de [AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320).
+De vervreemding van het aandelenpakket als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) is de verkooptransactie en niet de (doorgaans latere) levering van de aandelen.
 
-### 40.2. Geen aansprakelijkheid voor de vervreemder van aandelen of een belang voor zover zekerheid is gesteld
+### Artikel 39
+
+Er zijn in deze leidraad op [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=39) geen beleidsregels gemaakt.
 
 De zekerheid moet reële betekenis en voldoende waarde hebben.
 
-### Artikel 41
+### 42.1. Reikwijdte aansprakelijkheid voor overdrachtsbelasting
 
 De ontvanger wint de gestelde zekerheid uit voordat hij derden aansprakelijk stelt. Dat is anders indien de waarde van de zekerheid in de loop der tijd is gedaald of indien een zekerheid is teloorgegaan dan wel moeilijk, niet meer of slechts tegen onevenredig hoge kosten kan worden uitgewonnen (bijvoorbeeld als een borg is geëmigreerd).
+
+De vervreemding van het aandelenpakket als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) is de verkooptransactie en niet de (doorgaans latere) levering van de aandelen.
+
+Er zijn in deze leidraad op [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=41) geen beleidsregels gemaakt.
+
+### Artikel 42. Aansprakelijkheid voor overdrachtsbelasting
 
 In aansluiting op [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42) beschrijft dit artikel het beleid over de reikwijdte van de aansprakelijkheid voor overdrachtsbelasting.
 
@@ -2858,15 +2870,9 @@ In aansluiting op [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 De hoofdelijke aansprakelijkheid omvat de belasting tot het bedrag dat op grond van de inhoud van de akte is verschuldigd, inclusief de aan de voet van de akte gestelde verklaring.
 
-In aansluiting op [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42) beschrijft dit artikel het beleid over de reikwijdte van de aansprakelijkheid voor overdrachtsbelasting.
+### Artikel 41
 
 De aansprakelijkheid strekt zich niet uit tot de belasting die wordt nageheven op grond van bijvoorbeeld:
-
-### 42.1. Reikwijdte aansprakelijkheid voor overdrachtsbelasting
-
-In het geval dat lasten of andere bestanddelen van de tegenprestatie in de akte worden genoemd maar deze niet in geld zijn gewaardeerd, is de notaris ook voor de daarover verschuldigde belasting aansprakelijk.
-
-### Artikel 42a. tot en met [42c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42a)
 
 Bij het eindigen van het ambt van notaris, kan de ex-notaris nog aansprakelijk worden gesteld voor de overdrachtsbelasting waarvoor hij ten tijde van zijn ambtsperiode hoofdelijk aansprakelijk was.
 
@@ -2874,35 +2880,29 @@ Bij het eindigen van het ambt van notaris, kan de ex-notaris nog aansprakelijk w
 
 Er zijn in deze leidraad op de [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42a), [42b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42b) en [42c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42c) geen beleidsregels gemaakt.
 
-Een teruggaaf omzetbelasting vanwege een aangifte dan wel een vermindering van een naheffingsaanslag ten name van de fiscale eenheid wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel van de fiscale eenheid dat door de fiscale eenheid is aangewezen.
-
-### Artikel 43. Aansprakelijkheid fiscale eenheid omzetbelasting
-
-Als er geen sprake is van een aanwijzing en het is de ontvanger niet duidelijk wie de rechthebbende is, dan kan hij de teruggaaf rechtsgeldig uitbetalen aan één van de personen of lichamen die deel uitmaken van de fiscale eenheid.
-
-Een teruggaaf omzetbelasting vanwege een aangifte dan wel een vermindering van een naheffingsaanslag ten name van de fiscale eenheid wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel van de fiscale eenheid dat door de fiscale eenheid is aangewezen.
+De hoofdelijke aansprakelijkheid omvat de belasting tot het bedrag dat op grond van de inhoud van de akte is verschuldigd, inclusief de aan de voet van de akte gestelde verklaring.
 
 ### 43.2. Uitstel van betaling – verzoek om verrekening en fiscale eenheid omzetbelasting
 
-Als er geen sprake is van een aanwijzing en het is de ontvanger niet duidelijk wie de rechthebbende is, dan kan hij de teruggaaf rechtsgeldig uitbetalen aan één van de personen of lichamen die deel uitmaken van de fiscale eenheid.
+De aansprakelijkheid strekt zich niet uit tot de belasting die wordt nageheven op grond van bijvoorbeeld:
 
 ### Artikel 43a
 
-Er zijn in deze leidraad op [artikel 43a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43a) geen beleidsregels gemaakt.
+Als geen aanwijzing heeft plaatsgevonden, wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel waarbij de teruggaaf is opgekomen of dat de naheffingsaanslag heeft betaald.
+
+Als er geen sprake is van een aanwijzing en het is de ontvanger niet duidelijk wie de rechthebbende is, dan kan hij de teruggaaf rechtsgeldig uitbetalen aan één van de personen of lichamen die deel uitmaken van de fiscale eenheid.
+
+### Artikel 43. Aansprakelijkheid fiscale eenheid omzetbelasting
+
+In aansluiting op [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43) beschrijft dit artikel het beleid over:
 
 Als een onderdeel van de fiscale eenheid – met een beroep op het bepaalde in [artikel 30 van de Uitvoeringsregeling AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=30) – uitstel vraagt voor de betaling van loonheffingen omdat ten name van de fiscale eenheid een verzoek om teruggaaf is gedaan op grond van het feit dat de verschuldigde omzetbelasting minder bedraagt dan de voor aftrek in aanmerking komende omzetbelasting, dan wordt zo’n verzoek alleen ingewilligd als het onderdeel dat het uitstel vraagt ook is ‘aangewezen’ in de zin als bedoeld in artikel 43.1 van deze leidraad. Als de bedoelde aanwijzing (nog) niet zou hebben plaatsgevonden, dan moet dit alsnog gebeuren voordat de inspecteur het verzoek kan inwilligen.
 
 ### Artikel 43a
 
-Er zijn in deze leidraad op [artikel 43a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43a) geen beleidsregels gemaakt.
-
-Op grond van het bepaalde in [artikel 2.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.15) zijn de volgende inkomensbestanddelen toegerekend aan de ouder (belastingschuldige) die het gezag over het kind uitoefent:
-
-### Artikel 44. Aansprakelijkheid voor aan een derde toegerekende inkomensbestanddelen
-
 ### 44.1. Aansprakelijkheid kind voor inkomensbestanddelen die aan de ouder zijn toegerekend
 
-Op grond van het bepaalde in [artikel 2.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.15) zijn de volgende inkomensbestanddelen toegerekend aan de ouder (belastingschuldige) die het gezag over het kind uitoefent:
+Als er geen sprake is van een aanwijzing en het is de ontvanger niet duidelijk wie de rechthebbende is, dan kan hij de teruggaaf rechtsgeldig uitbetalen aan één van de personen of lichamen die deel uitmaken van de fiscale eenheid.
 
 ### 44a.1. Aansprakelijkstelling van verzekeraar van lijfrenten en beroepspensioenen blijft achterwege
 
@@ -2910,57 +2910,61 @@ Aansprakelijkstelling blijft achterwege als sprake is van polissen die in de zin
 
 ### Artikel 44a. Aansprakelijkheid verzekeraars van lijfrenten en beroepspensioenen
 
+Als het gezag over het (minderjarige) kind aan meer dan één ouder toekomt, dan worden de genoemde inkomensbestanddelen in gelijke delen aan ieder van de ouders toegerekend. Op grond van [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) is het kind waarvan inkomensbestanddelen aan de ouder(s) is (zijn) toegerekend, naar evenredigheid aansprakelijk voor de verschuldigde inkomstenbelasting over de inkomensbestanddelen die aan de ouder(s) zijn toegerekend.
+
+Er zijn in deze leidraad op [artikel 43a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43a) geen beleidsregels gemaakt.
+
+### Artikel 44. Aansprakelijkheid voor aan een derde toegerekende inkomensbestanddelen
+
+In aansluiting op [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) beschrijft dit artikel het beleid over de aansprakelijkheid van een kind voor inkomensbestanddelen die aan de ouder zijn toegerekend.
+
+### 44.1. Aansprakelijkheid kind voor inkomensbestanddelen die aan de ouder zijn toegerekend
+
+Een aanspraak die is omgezet in een andere zodanige aanspraak in de zin van [artikel 3.135, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135) wordt gezien als een voortzetting van de eerste aanspraak.
+
 Voorwaarden voor het achterwege blijven van de aansprakelijkstelling van de overdragende verzekeraar zijn:
+
+Als deze genoemde feiten blijken nadat tot aansprakelijkstelling is overgegaan, dan wordt de aansprakelijkstelling bij beschikking ingetrokken; deze beschikking wordt bekendgemaakt.
+
+In aansluiting op [artikel 44a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44a) beschrijft dit artikel het beleid over:
+
+### 44a.1. Aansprakelijkstelling van verzekeraar van lijfrenten en beroepspensioenen blijft achterwege
 
 Aansprakelijkstelling blijft achterwege als sprake is van polissen die in de zin van [artikel 3.126, eerste lid, onderdeel a, onder 1°, onderdeel b of onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126) worden geacht te zijn overgedragen aan een andere toegelaten verzekeraar.
 
-### 44a.2. Omvang aansprakelijkheid verzekeraar van lijfrenten en beroepspensioenen
+### Artikel 46. Aansprakelijkheid voor rechten van successie of erfbelasting, overgang en schenking of schenkbelasting
 
 Voorwaarden voor het achterwege blijven van de aansprakelijkstelling van de overdragende verzekeraar zijn:
-
-### Artikel 44b. en [artikel 44c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c)
-
-Er zijn in deze leidraad op de [artikelen 44b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b) en [44c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c) geen beleidsregels gemaakt.
-
-Als de aansprakelijkheid betrekking heeft op de afkoop van meer dan één contract, dan moet toerekening van het totaal verschuldigde bedrag over de negatieve uitgaven voor inkomensvoorzieningen plaatsvinden aan de onderscheiden contracten, naar evenredigheid van de betaalde premies.
-
-Er zijn in deze leidraad op [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=45) geen beleidsregels gemaakt.
-
-Er zijn in deze leidraad op de [artikelen 44b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b) en [44c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c) geen beleidsregels gemaakt.
-
-### Artikel 45
 
 Er zijn in deze leidraad op [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=45) geen beleidsregels gemaakt.
 
 ### Artikel 46. Aansprakelijkheid voor rechten van successie of erfbelasting, overgang en schenking of schenkbelasting
 
-In aansluiting op [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=46) beschrijft dit artikel het beleid over:
-
-In aansluiting op [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=46) beschrijft dit artikel het beleid over:
-
-### 46.1. Volgorde aansprakelijkstelling voor successierecht of erfbelasting
-
 ### 46.2. Buiten Nederland wonende verkrijgers en successierecht of erfbelasting
 
 Als de erfgenamen niet met de afwikkeling van de nalatenschap waren belast, zijn zij slechts aansprakelijk tot het bedrag dat overeenkomt met het vermogen van de erflater dat zich ten tijde van diens overlijden in Nederland bevond. De (binnenlandse) erfgenamen kunnen zich dan daarop verhalen. De aansprakelijkheid wordt echter niet beperkt in situaties waarin de ontvanger aannemelijk maakt dat sprake is van misbruik.
 
 ### 46.2. Buiten Nederland wonende verkrijgers en successierecht of erfbelasting
+
+De ontvanger zal – als beide aansprakelijkheidsregelingen van toepassing zijn – trachten de belastingschuld eerst te verhalen op de erfgenamen.
+
+Er zijn in deze leidraad op [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=45) geen beleidsregels gemaakt.
+
+### Artikel 46. Aansprakelijkheid voor rechten van successie of erfbelasting, overgang en schenking of schenkbelasting
+
+### 48.1. Beneficiaire aanvaarding
+
+Als de erfgenamen niet met de afwikkeling van de nalatenschap waren belast, zijn zij slechts aansprakelijk tot het bedrag dat overeenkomt met het vermogen van de erflater dat zich ten tijde van diens overlijden in Nederland bevond. De (binnenlandse) erfgenamen kunnen zich dan daarop verhalen. De aansprakelijkheid wordt echter niet beperkt in situaties waarin de ontvanger aannemelijk maakt dat sprake is van misbruik.
+
+Bij aangifte voor het recht van successie of erfbelasting door de executeur blijven de erfgenamen aansprakelijk. Daarnaast ontstaat een aansprakelijkheid van de executeur (zie [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47)).
+
+### 48.1. Beneficiaire aanvaarding
+
+Als een nalatenschap onder het voorrecht van boedelbeschrijving is aanvaard, wordt de vereffening van de boedel afgewacht, met dien verstande dat de ontvanger maatregelen neemt ter beveiliging van zijn rechten (zie artikel 14.1.3 van deze leidraad).
+
+### 48.2. Invordering ten laste van een erfgenaam blijft achterwege
 
 De aansprakelijkheid is niet beperkt tot het recht van successie of erfbelasting verschuldigd door verkrijgers die al op het ogenblik van overlijden van de erflater buiten Nederland woonden, maar is ook aanwezig als de verkrijgers pas na zijn overlijden buiten Nederland zijn gaan wonen.
-
-Als de erfgenamen niet met de afwikkeling van de nalatenschap waren belast, zijn zij slechts aansprakelijk tot het bedrag dat overeenkomt met het vermogen van de erflater dat zich ten tijde van diens overlijden in Nederland bevond. De (binnenlandse) erfgenamen kunnen zich dan daarop verhalen. De aansprakelijkheid wordt echter niet beperkt in situaties waarin de ontvanger aannemelijk maakt dat sprake is van misbruik.
-
-### Artikel 47
-
-### 48.1. Beneficiaire aanvaarding
-
-Als een nalatenschap onder het voorrecht van boedelbeschrijving is aanvaard, wordt de vereffening van de boedel afgewacht, met dien verstande dat de ontvanger maatregelen neemt ter beveiliging van zijn rechten (zie artikel 14.1.3 van deze leidraad).
-
-In aansluiting op [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=48) beschrijft dit artikel het beleid over:
-
-### 48.1. Beneficiaire aanvaarding
-
-Als een nalatenschap onder het voorrecht van boedelbeschrijving is aanvaard, wordt de vereffening van de boedel afgewacht, met dien verstande dat de ontvanger maatregelen neemt ter beveiliging van zijn rechten (zie artikel 14.1.3 van deze leidraad).
 
 ### 48.2. Invordering ten laste van een erfgenaam blijft achterwege
 
@@ -2968,11 +2972,7 @@ Aantasting van het vermogen van de erfgenamen blijft uiteraard achterwege.
 
 ### 48.2. Invordering ten laste van een erfgenaam blijft achterwege
 
-Er kan ook aanleiding bestaan een gering restbedrag op tactische gronden buiten invordering te laten.
-
-### Artikel 49. Formele bepalingen voor aansprakelijkstelling
-
-In aansluiting op [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) beschrijft dit artikel het beleid over:
+Als voor een belastingaanslag ten name van een overledene niet meer tegen de gezamenlijke erfgenamen kan worden opgetreden, blijft invordering ten laste van een erfgenaam van wie minder dan € 23 moet worden ingevorderd achterwege.
 
 ### 49.1. Aansprakelijkstelling voor bestuurlijke boete
 
@@ -2980,21 +2980,21 @@ De ontvanger kan de beschikking aansprakelijkstelling voor de bestuurlijke boete
 
 ### 49.2. Aansprakelijkstelling voor invorderingsrente
 
+Aantasting van het vermogen van de erfgenamen blijft uiteraard achterwege.
+
+### 48.2. Invordering ten laste van een erfgenaam blijft achterwege
+
 Als geen gebruik wordt gemaakt van de gelegenheid om de gronden, waarop het voornemen tot een aansprakelijkstelling voor de vergrijpboete berust, te betwisten of de ontvanger is van oordeel dat de betwisting van de aansprakelijke ongegrond is, dan zal hij de derde daarvan op de hoogte stellen en overgaan tot aansprakelijkstelling voor de bestuurlijke boete op de voet van [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49).
 
 ### 49.2. Aansprakelijkstelling voor invorderingsrente
 
-Voor zover in het bedrag van de aansprakelijkstellingsbeschikking tevens een bedrag aan invorderingsrente is opgenomen, wordt over dat bedrag geen rente in rekening gebracht.
-
-### 49.3. De aansprakelijkstelling – in gebreke zijn
-
-De belastingschuldige wordt ook geacht in gebreke te zijn als de belastingaanslag op grond van [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) terstond invorderbaar is.
+Als aan de aansprakelijkgestelde invorderingsrente in rekening moet worden gebracht, dan wordt de rente berekend over het bedrag waarvoor hij aansprakelijk is gesteld.
 
 ### 49.3.3. In gebreke zijn en een beschikking ‘geen verdere invorderingsmaatregelen’
 
 Als de ontvanger aan de belastingschuldige een beschikking heeft gestuurd waarin hij toezegt geen verdere invorderingsmaatregelen tegen de belastingschuldige meer te nemen, kan een derde voor de desbetreffende belastingschuld niettemin aansprakelijk worden gesteld, mits die mogelijkheid uitdrukkelijk in de beschikking is vermeld.
 
-De belastingschuldige wordt ook geacht in gebreke te zijn als de belastingaanslag op grond van [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) terstond invorderbaar is.
+De ontvanger kan de beschikking aansprakelijkstelling voor de bestuurlijke boete opnemen in dezelfde brief waarbij hij ook de beschikking voor de aansprakelijkstelling voor de belastingschuld bekendmaakt. De ontvanger moet dan in de beschikking de gronden vermelden waarop de aansprakelijkstelling voor de boete berust**.**
 
 ### 49.3.3. In gebreke zijn en een beschikking ‘geen verdere invorderingsmaatregelen’
 
@@ -3002,9 +3002,9 @@ Als de ontvanger aan de belastingschuldige een beschikking heeft gestuurd waarin
 
 ### 49.4. Informatieverstrekking in beschikking aansprakelijkstelling keten- en inlenersaansprakelijkheid
 
-Als de ontvanger een derde aansprakelijk stelt op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b), neemt de ontvanger – naast de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te vermelden gegevens – de volgende gegevens op:
+Voor zover in het bedrag van de aansprakelijkstellingsbeschikking tevens een bedrag aan invorderingsrente is opgenomen, wordt over dat bedrag geen rente in rekening gebracht.
 
-### 49.5. Informatieverstrekking aan aansprakelijkgestelden
+### 49.3. De aansprakelijkstelling – in gebreke zijn
 
 Op grond van het bepaalde in [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) moet de ontvanger de aansprakelijkgestelde desgevraagd op de hoogte stellen van de gegevens over de belasting waarvoor hij aansprakelijk is gesteld.
 
@@ -3014,39 +3014,51 @@ De gegevens worden – na een daartoe strekkend verzoek van de aansprakelijk ges
 
 ### 49.7. Volgorde van aansprakelijk stellen
 
-Als de ontvanger een derde aansprakelijk kan stellen op grond van meer dan één fiscale of civielrechtelijke aansprakelijkheidsbepaling, dan hoeft hij daarbij geen volgorde in acht te nemen. Hetzelfde geldt als de ontvanger verscheidene derden op grond van dezelfde dan wel op grond van verschillende aansprakelijkheidsbepalingen aansprakelijk kan stellen.
+Tot de gegevens die op grond van genoemde bepaling moeten worden verstrekt, behoren in elk geval de stukken die op de zaak betrekking hebben als bedoeld in de [artikelen 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) en [8:42 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:42). Hieronder worden verstaan alle stukken die bij het nemen van het besluit een rol hebben gespeeld. Naast de gegevens die zijn vastgelegd in de genoemde stukken moeten desgevraagd ook andere gegevens worden verstrekt, mits die gegevens redelijkerwijs van belang kunnen worden geacht voor het maken van bezwaar of het instellen van beroep.
 
 ### 49.6. Aansprakelijkheid – eerst uitwinning belastingschuldige
 
-De ontvanger zal zich in beginsel eerst verhalen op vermogensbestanddelen van de belastingschuldige voordat hij overgaat tot uitwinning van de vermogensbestanddelen van de aansprakelijkgestelde, tenzij zich een situatie voordoet als bedoeld in artikel 14.1.4, laatste volzin, van de leidraad.
+Hoewel [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) betrekking heeft op de gegevens over de belasting, is goedgekeurd dat de gegevensverstrekking zich daartoe niet beperkt, maar mede betrekking heeft op (alle) andere aspecten van de aansprakelijkheidsbeslissing. Voorwaarde is wel dat deze gegevens hetzij gerekend kunnen worden tot de stukken die op de zaak betrekking hebben als hiervoor genoemd, hetzij redelijkerwijs van belang kunnen worden geacht voor het maken van bezwaar tegen de aansprakelijkheidsbeschikking of het instellen van beroep tegen daarop volgende beslissingen.
 
-Als de ontvanger een derde aansprakelijk kan stellen op grond van meer dan één fiscale of civielrechtelijke aansprakelijkheidsbepaling, dan hoeft hij daarbij geen volgorde in acht te nemen. Hetzelfde geldt als de ontvanger verscheidene derden op grond van dezelfde dan wel op grond van verschillende aansprakelijkheidsbepalingen aansprakelijk kan stellen.
+Als de ontvanger een derde aansprakelijk stelt op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b), neemt de ontvanger – naast de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te vermelden gegevens – de volgende gegevens op:
 
-### 49.8. Bezwaar, beroep, hoger beroep en beroep in cassatie tegen de beschikking aansprakelijkstelling
+### 49.5. Informatieverstrekking aan aansprakelijkgestelden
+
+Op grond van het bepaalde in [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) moet de ontvanger de aansprakelijkgestelde desgevraagd op de hoogte stellen van de gegevens over de belasting waarvoor hij aansprakelijk is gesteld.
+
+### 49.8.1. Bezwaar en uitstel van betaling
 
 Dit geldt niet in de gevallen waarvoor in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of deze leidraad anders is bepaald.
+
+Hoewel [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) betrekking heeft op de gegevens over de belasting, is goedgekeurd dat de gegevensverstrekking zich daartoe niet beperkt, maar mede betrekking heeft op (alle) andere aspecten van de aansprakelijkheidsbeslissing. Voorwaarde is wel dat deze gegevens hetzij gerekend kunnen worden tot de stukken die op de zaak betrekking hebben als hiervoor genoemd, hetzij redelijkerwijs van belang kunnen worden geacht voor het maken van bezwaar tegen de aansprakelijkheidsbeschikking of het instellen van beroep tegen daarop volgende beslissingen.
 
 ### 49.8.1. Bezwaar en uitstel van betaling
 
 Een bezwaarschrift tegen de beschikking aansprakelijkstelling wordt tevens aangemerkt als een verzoek om uitstel van betaling.
 
+Tijdens de civiele procedure volgend op een betwisting op grond van het tot 1 december 2002 geldende recht vinden geen invorderingsmaatregelen plaats. Bij vrees voor onverhaalbaarheid kunnen wel conservatoire maatregelen worden genomen.
+
+Als de ontvanger een derde aansprakelijk kan stellen op grond van meer dan één fiscale of civielrechtelijke aansprakelijkheidsbepaling, dan hoeft hij daarbij geen volgorde in acht te nemen. Hetzelfde geldt als de ontvanger verscheidene derden op grond van dezelfde dan wel op grond van verschillende aansprakelijkheidsbepalingen aansprakelijk kan stellen.
+
+### 49.9.1. Bij civiele procedure geen invordering of verrekening
+
+Tijdens de civiele procedure volgend op een betwisting op grond van het tot 1 december 2002 geldende recht vinden geen invorderingsmaatregelen plaats. Bij vrees voor onverhaalbaarheid kunnen wel conservatoire maatregelen worden genomen.
+
+### 49.8.1. Bezwaar en uitstel van betaling
+
 Een bezwaarschrift tegen de beschikking aansprakelijkstelling wordt tevens aangemerkt als een verzoek om uitstel van betaling.
-
-### 49.9. Overgangsrecht
-
-Tijdens de civiele procedure volgend op een betwisting op grond van het tot 1 december 2002 geldende recht vinden geen invorderingsmaatregelen plaats. Bij vrees voor onverhaalbaarheid kunnen wel conservatoire maatregelen worden genomen.
-
-Tijdens de civiele procedure volgend op een betwisting op grond van het tot 1 december 2002 geldende recht vinden geen invorderingsmaatregelen plaats. Bij vrees voor onverhaalbaarheid kunnen wel conservatoire maatregelen worden genomen.
-
-Eveneens vindt tijdens de civiele procedure geen verrekening plaats van uit te betalen bedragen ten name van de aansprakelijkgestelde met een aansprakelijkheidsschuld. Bij vrees voor onverhaalbaarheid kan conservatoir beslag worden gelegd op het uit te betalen bedrag.
-
-### 49.9.1. Wijziging eis
 
 De ontvanger wijzigt zijn eis als in de fiscale procedure die de belastingschuldige voert een onherroepelijke uitspraak is gedaan met betrekking tot de hoogte van de belastingaanslag die leidt tot aanpassing van het bedrag van de aansprakelijkheidsschuld, en [artikel 50, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=50) (oud) van toepassing is.
 
 ### Artikel 51. Conservatoir beslag bij aansprakelijkheid
 
 In aansluiting op [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=51) beschrijft dit artikel het beleid over conservatoir beslag en uitstel in verband met bezwaar.
+
+### 51.1. Conservatoir beslag en uitstel in verband met bezwaar
+
+Als er conservatoir beslag ligt en de aansprakelijkgestelde verzoekt om uitstel van betaling in verband met een bezwaar tegen de beschikking, dan verleent de ontvanger alleen uitstel van betaling als er zekerheid wordt gesteld.
+
+### Artikel 52. Betalingstermijn beschikking aansprakelijkstelling
 
 In aansluiting op [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=52) beschrijft dit artikel het beleid over vermindering van de belastingaanslag.
 
@@ -3070,17 +3082,17 @@ In aansluiting op [artikel 54 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 De ontvanger houdt de betaling van de teruggaaf – als bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=54) – aan gedurende vier weken na de dagtekening van de schriftelijke mededeling aan de belastingschuldige.
 
-### Artikel 54. Mededeling aan de aansprakelijkgestelde
-
-In aansluiting op [artikel 54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=54) beschrijft dit artikel het beleid over geen zelfstandige verjaring van de aansprakelijkheidsschuld.
-
-### 54.1. Betaling teruggaaf aanhouden bij aansprakelijkstelling
-
 In deze periode kan de belastingschuldige – als de derde zich al voor de aansprakelijkheidsschuld op hem heeft verhaald – derdenbeslag leggen onder de ontvanger op het bedrag van de teruggaaf. In de derdenbeslagprocedure zal worden uitgemaakt aan wie de ontvanger het bedrag van de teruggaaf moet betalen.
 
 ### Artikel 55. tot en met [57](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=57)
 
 Er zijn in deze leidraad op de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=56) en [57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=57) geen beleidsregels gemaakt.
+
+In aansluiting op [artikel 54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=54) beschrijft dit artikel het beleid over geen zelfstandige verjaring van de aansprakelijkheidsschuld.
+
+In aansluiting op [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58) beschrijft dit artikel het beleid over geen invorderingsonderzoek tijdens een gerechtelijke procedure.
+
+### 58.1. Geen invorderingsonderzoek tijdens een gerechtelijke procedure
 
 Het is de ontvanger niet toegestaan een invorderingsonderzoek te doen instellen, nadat de rechter de ontvanger in de gelegenheid heeft gesteld bewijs te leveren voor in een procedure aangevoerde stellingen, indien en voor zover dat onderzoek wordt ingesteld om gegevens te verwerven om dat bewijs te kunnen leveren.
 
@@ -3088,57 +3100,61 @@ Het is de ontvanger niet toegestaan een invorderingsonderzoek te doen instellen,
 
 Onder gegevens die voor de invordering van de ‘eigen’ belastingschulden van de belastingschuldige van belang zijn, vallen ook de gegevens die de ontvanger nodig heeft om te beoordelen of hij mogelijk derden aansprakelijk kan stellen.
 
-Het is de ontvanger niet toegestaan een invorderingsonderzoek te doen instellen, nadat de rechter de ontvanger in de gelegenheid heeft gesteld bewijs te leveren voor in een procedure aangevoerde stellingen, indien en voor zover dat onderzoek wordt ingesteld om gegevens te verwerven om dat bewijs te kunnen leveren.
-
-In aansluiting op [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) beschrijft dit artikel het beleid over de teruggave van gegevensdragers aan derde.
-
-### 59.1. Teruggave gegevensdragers aan derde
-
-De ontvanger geeft de gegevensdragers die hem op basis van [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) ter beschikking zijn gesteld, ook weer terug aan de derde en niet aan de belastingschuldige. Dit ter voorkoming van geschillen over een eventueel aan die derde toekomend retentierecht.
-
 ### Artikel 59. Informatieverplichting: gegevensdragers bij een derde
-
-In aansluiting op [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) beschrijft dit artikel het beleid over de teruggave van gegevensdragers aan derde.
-
-### 59.1. Teruggave gegevensdragers aan derde
 
 ### 60.1. Redelijke termijn voor verstrekken van informatie
 
 De ontvanger stelt een redelijke termijn voor het verstrekken van de gegevens en inlichtingen of het ter beschikking stellen van de gegevensdragers.
 
-In aansluiting op [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) beschrijft dit artikel het beleid over:
+De ontvanger geeft de gegevensdragers die hem op basis van [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) ter beschikking zijn gesteld, ook weer terug aan de derde en niet aan de belastingschuldige. Dit ter voorkoming van geschillen over een eventueel aan die derde toekomend retentierecht.
+
+Alleen als de derde dit schriftelijk verzoekt, geeft de ontvanger de gegevensdragers terug aan de belastingschuldige.
+
+### Artikel 60. Formele bepalingen voor de informatieverplichtingen
 
 In aansluiting op [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) beschrijft dit artikel het beleid over:
 
-### 60.1. Redelijke termijn voor verstrekken van informatie
+In aansluiting op [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) beschrijft dit artikel het beleid over de teruggave van gegevensdragers aan derde.
+
+### 59.1. Teruggave gegevensdragers aan derde
 
 Als de ontvanger belang heeft bij een spoedige verstrekking of beschikbaarstelling kan deze termijn ook terstond zijn.
 
-Gegevensverstrekking vindt in beginsel uitsluitend schriftelijk plaats. In uitzonderingssituaties kan de ontvanger toestaan dat de gegevens mondeling worden verstrekt. In verband met de bewijsvoering zorgt de ontvanger voor een vastlegging van het gesprek.
+Alleen als de derde dit schriftelijk verzoekt, geeft de ontvanger de gegevensdragers terug aan de belastingschuldige.
 
-### 60.2. Kwaliteit van de gegevens en wijze van verstrekking of beschikbaar stellen
+Als de opgevraagde gegevens niet duidelijk, stellig en zonder voorbehoud worden verstrekt, herhaalt de ontvanger zijn verzoek en vordert hij op basis van [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) correcte en concrete gegevens.
 
 Als de gegevens ook na herhaald verzoek niet voldoen aan de gestelde eisen, beoordeelt de ontvanger of hij een civiele procedure begint of de strafsancties van [Hoofdstuk VIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII) toepast. Aan de belastingschuldige die niet voldoet aan de verplichting van [artikel 60, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60), kan de ontvanger een verzuimboete als bedoeld in [artikel 63b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) opleggen.
 
-Gegevensverstrekking vindt in beginsel uitsluitend schriftelijk plaats. In uitzonderingssituaties kan de ontvanger toestaan dat de gegevens mondeling worden verstrekt. In verband met de bewijsvoering zorgt de ontvanger voor een vastlegging van het gesprek.
+### 60.1. Redelijke termijn voor verstrekken van informatie
 
-De ontvanger heeft alleen belang bij die gegevens en inlichtingen en gegevensdragers die hem inzicht verschaffen in de financiële positie van de belastingschuldige.
+De ontvanger stelt een redelijke termijn voor het verstrekken van de gegevens en inlichtingen of het ter beschikking stellen van de gegevensdragers.
 
 In aansluiting op [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=61) beschrijft dit artikel het beleid over niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens.
-
-### 61.1. Niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens
-
-De ontvanger heeft alleen belang bij die gegevens en inlichtingen en gegevensdragers die hem inzicht verschaffen in de financiële positie van de belastingschuldige.
-
-Doorgaans zijn de beroepsvertrouwelijke gegevens en de financiële gegevens gescheiden. Als het onvermijdelijk is dat de ontvanger privacygegevens onder ogen krijgt, vormt dit geen grond om de verstrekking van gegevens of de beschikbaarstelling van gegevensdragers te weigeren. De ontvanger is op grond van [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) gehouden tot geheimhouding van die gegevens.
 
 [Artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) strekt er niet toe de verklaring te toetsen die door de derde-beslagene tijdens de gerechtelijke verklaringsprocedure wordt afgelegd.
 
 ### Artikel 63. en [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a)
 
-Er zijn in deze leidraad op de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63) en [63a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a) geen beleidsregels gemaakt.
+Doorgaans zijn de beroepsvertrouwelijke gegevens en de financiële gegevens gescheiden. Als het onvermijdelijk is dat de ontvanger privacygegevens onder ogen krijgt, vormt dit geen grond om de verstrekking van gegevens of de beschikbaarstelling van gegevensdragers te weigeren. De ontvanger is op grond van [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) gehouden tot geheimhouding van die gegevens.
+
+Gegevensverstrekking vindt in beginsel uitsluitend schriftelijk plaats. In uitzonderingssituaties kan de ontvanger toestaan dat de gegevens mondeling worden verstrekt. In verband met de bewijsvoering zorgt de ontvanger voor een vastlegging van het gesprek.
+
+In aansluiting op [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) beschrijft dit artikel het beleid over de gerechtelijke verklaringsprocedure.
+
+### 62.1. Gerechtelijke verklaringsprocedure
 
 [Artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) strekt er niet toe de verklaring te toetsen die door de derde-beslagene tijdens de gerechtelijke verklaringsprocedure wordt afgelegd.
+
+### Artikel 62a
+
+Er zijn in deze leidraad op [artikel 62a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62a) geen beleidsregels gemaakt.
+
+### Artikel 63. en [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a)
+
+Er zijn in deze leidraad op de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63) en [63a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a) geen beleidsregels gemaakt.
+
+### Artikel 63b. Bestuurlijke boeten
 
 In aansluiting op [artikel 63b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) beschrijft dit artikel het beleid over:
 
@@ -3146,81 +3162,71 @@ In aansluiting op [artikel 63b van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 Bij het opleggen van bestuurlijke verzuimboeten op grond van [hoofdstuk VIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa) zijn, naast de bepalingen van de AWR die in [artikelen 63b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) worden genoemd, de voorschriften van [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [titel 5.4 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) van toepassing. Ook zijn de algemene bepalingen in [hoofdstuk 1 van het Besluit Bestuurlijke Boeten Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029297&hoofdstuk=1) van toepassing, voor zover deze een invulling geven aan het geldende wettelijke kader.
 
-### 63b.2. Betalingsverzuim bij aanslagbelastingen
-
-Voor het opleggen van de boete wordt een systematiek gehanteerd waarbij de boete wordt gerelateerd aan de hoogte van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting.
-
-### Artikel 63b. Bestuurlijke boeten
-
 Als een aanslag in meerdere termijnen betaald mag worden, kunnen er met betrekking tot die aanslag ook meerdere verzuimen als bedoeld in [artikel 63b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) voorkomen. Als er meerdere dergelijke verzuimen zijn, zijn er even zoveel beboetbare feiten. Bij de bepaling van de hoogte van de boete vanwege een verzuim, houdt de ontvanger alleen rekening met de belasting die betrekking heeft op de desbetreffende betalingstermijn.
 
-### 63b.1. Algemene uitgangspunten
-
-Bij het opleggen van bestuurlijke verzuimboeten op grond van [hoofdstuk VIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa) zijn, naast de bepalingen van de AWR die in [artikelen 63b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) worden genoemd, de voorschriften van [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [titel 5.4 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) van toepassing. Ook zijn de algemene bepalingen in [hoofdstuk 1 van het Besluit Bestuurlijke Boeten Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029297&hoofdstuk=1) van toepassing, voor zover deze een invulling geven aan het geldende wettelijke kader.
-
-### 63b.2. Betalingsverzuim bij aanslagbelastingen
+### Artikel 63c. en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64)
 
 Ter zake van een verzuim als bedoeld in [artikel 63b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) kan de ontvanger een boete opleggen van 5 procent van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting tot het wettelijk maximum van die bepaling. De boete wordt minimaal gesteld op € 50. In afwijking hiervan kan de ontvanger in uitzonderlijke gevallen een boete tot het in artikel 63b, eerste lid, van de wet genoemde maximum opleggen, zonder rekening te houden met de genoemde 5 procent. De opgelegde verzuimboete wordt niet verlaagd bij latere wijziging van het bedrag waarover die boete is berekend.
 
-Als een aanslag in meerdere termijnen betaald mag worden, kunnen er met betrekking tot die aanslag ook meerdere verzuimen als bedoeld in [artikel 63b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) voorkomen. Als er meerdere dergelijke verzuimen zijn, zijn er even zoveel beboetbare feiten. Bij de bepaling van de hoogte van de boete vanwege een verzuim, houdt de ontvanger alleen rekening met de belasting die betrekking heeft op de desbetreffende betalingstermijn.
+### 63b.3. Verplichting toe te laten dat kopieën e.d. worden gemaakt
 
-### Artikel 63c. en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64)
-
-Er zijn in deze leidraad op de [artikelen 63c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63c) en [64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64) geen beleidsregels gemaakt.
+De beschikking waarbij de verzuimboete wordt opgelegd kan, maar behoeft niet gelijktijdig met een eventuele (ambtshalve) beslissing te worden genomen.
 
 ### 63b.3. Verplichting toe te laten dat kopieën e.d. worden gemaakt
 
+### 63b.2. Betalingsverzuim bij aanslagbelastingen
+
 De boete wordt opgelegd aan degene die niet aan zijn verplichting voldoet. Dit kan een ander zijn dan de belastingschuldige.
-
-### 65.1. Reikwijdte opzetcriterium bij misdrijf
-
-### Artikel 63c. en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64)
-
-Er zijn in deze leidraad op de [artikelen 63c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63c) en [64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64) geen beleidsregels gemaakt.
 
 ### Artikel 65. Niet nakomen informatieverplichting: strafmaat voor misdrijf
 
-In aansluiting op [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65) beschrijft dit artikel het beleid over de reikwijdte opzetcriterium bij een misdrijf.
+Als een aanslag in meerdere termijnen betaald mag worden, kunnen er met betrekking tot die aanslag ook meerdere verzuimen als bedoeld in [artikel 63b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) voorkomen. Als er meerdere dergelijke verzuimen zijn, zijn er even zoveel beboetbare feiten. Bij de bepaling van de hoogte van de boete vanwege een verzuim, houdt de ontvanger alleen rekening met de belasting die betrekking heeft op de desbetreffende betalingstermijn.
 
-In aansluiting op [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) beschrijft dit artikel het beleid over:
+Er zijn in deze leidraad op de [artikelen 63c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63c) en [64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64) geen beleidsregels gemaakt.
 
 De vereiste opzet voor de toepassing van [artikel 65, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65) behoeft zich niet uit te strekken tot het feit dat te weinig belasting wordt ingevorderd.
 
-Als de belastingschuldige zelf verzoekt informatie te geven over de belastingschulden die hij heeft, zal de ontvanger die informatie ook kunnen verstrekken zonder de geheimhoudingsplicht te schenden. Ontheffing door de minister is in dat geval niet nodig.
+In aansluiting op [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65) beschrijft dit artikel het beleid over de reikwijdte opzetcriterium bij een misdrijf.
 
-### Artikel 65a. en [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66)
+### 65.1. Reikwijdte opzetcriterium bij misdrijf
 
 ### Artikel 67. Geheimhoudingsplicht
 
 In aansluiting op [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) beschrijft dit artikel het beleid over:
 
+Er zijn in deze leidraad op de [artikelen 65a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65a) en [66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) geen beleidsregels gemaakt.
+
+### Artikel 67. Geheimhoudingsplicht
+
+In aansluiting op [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) beschrijft dit artikel het beleid over:
+
+### 67.1. Bekendmaking gegevens op verzoek van de belastingschuldige zelf
+
+### 67.2. Informatieverstrekking aan gerechtsdeurwaarder over periodieke betalingen
+
+Overigens kunnen er situaties zijn die het verstrekken van informatie op verzoek van de belastingschuldige zelf om andere reden onwenselijk maken (bijvoorbeeld in strafzaken).
+
+Er zijn in deze leidraad op de [artikelen 65a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65a) en [66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) geen beleidsregels gemaakt.
+
+### Artikel 67. Geheimhoudingsplicht
+
 Deze informatieplicht behelst uitsluitend gegevens met betrekking tot:
 
 ### 67.1. Bekendmaking gegevens op verzoek van de belastingschuldige zelf
 
-Overigens kunnen er situaties zijn die het verstrekken van informatie op verzoek van de belastingschuldige zelf om andere reden onwenselijk maken (bijvoorbeeld in strafzaken).
-
-### 67.2. Informatieverstrekking aan gerechtsdeurwaarder over periodieke betalingen
-
-### 67.2. Informatieverstrekking aan gerechtsdeurwaarder over periodieke betalingen
-
-Deze informatieplicht behelst uitsluitend gegevens met betrekking tot:
-
-Het verstrekken van andere informatie dan hiervoor genoemd, is in strijd met de geheimhoudingsplicht van [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67). Aan het enkele feit dat de gerechtsdeurwaarder een verzoek doet op grond van [artikel 475g, derde lid, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g) mag de ontvanger het vertrouwen ontlenen dat er een gerechtigdheid bestaat tot het leggen van beslag tegen de schuldenaar in kwestie.
-
-### Artikel 68. tot en met 72
+Als de belastingschuldige zelf verzoekt informatie te geven over de belastingschulden die hij heeft, zal de ontvanger die informatie ook kunnen verstrekken zonder de geheimhoudingsplicht te schenden. Ontheffing door de minister is in dat geval niet nodig.
 
 Er zijn in deze leidraad op de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=72) geen beleidsregels gemaakt.
-
-### Artikel 73. Insolventieprocedures
-
-In dit artikel is het volgende beleid over insolventieprocedures opgenomen:
-
-In dit artikel is het volgende beleid over insolventieprocedures opgenomen:
 
 De ontvanger wint beslagen op zaken van derden niet uit, dan in het geval de verwachting gerechtvaardigd is dat de schuld niet geheel uit de boedel zal worden voldaan, tenzij de belangen van de ontvanger een ander standpunt rechtvaardigen. Voor bodemzaken ex [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) behoudt de ontvanger het recht om lopende de insolventieprocedure over te gaan tot beslaglegging en executie. Het voorgaande is zowel van toepassing in faillissement als bij een wettelijke schuldsaneringsregeling.
 
 ### 73.1.1. Aanmelden belastingschulden in WSNP of faillissement
+
+De ontvanger meldt ook conserverende belastingschulden ter verificatie aan bij de bewindvoerder.
+
+Desgevraagd is de ontvanger op grond van [artikel 475g, derde lid, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g) verplicht aan de gerechtsdeurwaarder die gerechtigd is beslag te leggen tegen een schuldenaar, schriftelijk informatie te verstrekken over periodieke betalingen die hij aan die schuldenaar verricht of gaat verrichten op grond van een verleende voorlopige teruggaafbeschikking.
+
+### 73.1.2. Invorderingsmaatregelen tijdens de toepassing van WSNP of faillissement
 
 De ontvanger meldt ook conserverende belastingschulden ter verificatie aan bij de bewindvoerder.
 
@@ -3230,45 +3236,39 @@ Voor het indienen van vorderingen in het faillissement wordt verwezen naar artik
 
 De ontvanger wint beslagen op zaken van derden niet uit, dan in het geval de verwachting gerechtvaardigd is dat de schuld niet geheel uit de boedel zal worden voldaan, tenzij de belangen van de ontvanger een ander standpunt rechtvaardigen. Voor bodemzaken ex [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) behoudt de ontvanger het recht om lopende de insolventieprocedure over te gaan tot beslaglegging en executie. Het voorgaande is zowel van toepassing in faillissement als bij een wettelijke schuldsaneringsregeling.
 
-Na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger voor belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt, geen bodembeslag meer leggen. Ook een reeds gelegd bodembeslag kan de ontvanger dan niet meer uitwinnen. Daarom zal de ontvanger in elk geval vóór het einde van de wettelijke schuldsaneringsregeling overgaan tot verkoop van de inbeslaggenomen bodemgoederen. Aansprakelijkstelling voor belastingaanslagen tijdens zowel het faillissement als tijdens de wettelijke schuldsaneringsregeling is mogelijk.
-
-### 73.1.3. Boedelschulden
-
-De ontvanger ziet er op toe dat de boedelschulden tijdig door de curator worden voldaan. Als belastingschulden die als boedelschulden kunnen worden aangemerkt, ten onrechte niet worden voldaan, wendt de ontvanger zich in beginsel eerst tot de curator teneinde informatie te verkrijgen over de toestand van de boedel en zo mogelijk langs minnelijke weg alsnog voldoening te bewerkstelligen. Als dit niet leidt tot een bevredigende oplossing wendt de ontvanger zich met zijn grieven tot de rechter-commissaris. In het uiterste geval kan de ontvanger rechtstreeks verhaal zoeken op de boedel.
-
 ### 73.1.11. Toeslagenschuld in relatie tot MSNP, WSNP en faillissement
 
 Bij de invordering van boedelschulden kan de ontvanger tijdens de wettelijke schuldsaneringsregeling niet het faillissement van de schuldenaar aanvragen.
 
-### 73.1.5. Belangenbehartiging door de bewindvoerder of de curator
+### 73.1.1. Aanmelden belastingschulden in WSNP of faillissement
 
-De ontvanger moet erop toezien dat de bewindvoerder of de curator zijn belangenbehartigingsplicht – als neergelegd in [artikel 57, derde lid, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) – op juiste wijze nakomt. De bevoegdheid ex [artikel 57, derde lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) kan eerst door de bewindvoerder dan wel de curator worden uitgeoefend indien en voor zover vaststaat dat de vordering van de ontvanger waarvoor het bodemvoorrecht geldt, niet uit het vrije boedelactief kan worden voldaan.
+Het voorgaande is ook van toepassing bij een wettelijke schuldsaneringsregeling.
+
+Bij de invordering van boedelschulden kan de ontvanger tijdens de wettelijke schuldsaneringsregeling niet het faillissement van de schuldenaar aanvragen.
+
+Belastingschulden ontstaan gedurende een surséance zijn boedelschulden in het faillissement (zie artikel 19.2.2 van deze leidraad).
+
+### 73.1.4. Proceskostengarantie
 
 Als de curator een gerechtelijke procedure (niet zijnde de bestuurdersaansprakelijkheidsprocedure) moet aanspannen om een bate voor de boedel te kunnen realiseren, en de aanwezige baten van de boedel niet toereikend zijn om de proceskosten te voldoen, kan de curator bij de ontvanger een gemotiveerd verzoek indienen om garantstelling voor het bedrag dat niet uit de boedel kan worden voldaan.
 
-Bij de beoordeling van het verzoek neemt de ontvanger als uitgangspunt dat:
-
-### 73.1.6. Bodemvoorrecht in WSNP en faillissement
-
-Zie voor bodemvoorrecht in WSNP en faillissement artikel 21.4 van deze leidraad.
-
 ### 73.1.5. Belangenbehartiging door de bewindvoerder of de curator
+
+Daarnaast stelt de ontvanger de eis dat de schuldeisers – die bij een verdeling van de activa eveneens zullen profiteren van de vermoedelijke opbrengst van de procedure – bereid zijn om naar evenredigheid mee garant te staan voor de proceskosten. Dit geldt ook voor boedelschuldeisers. Als een bewindvoerder in de wettelijke schuldsaneringsregeling de ontvanger een verzoek om garantstelling doet, treedt de ontvanger in overleg met het ministerie.
+
+De ontvanger ziet er op toe dat de boedelschulden tijdig door de curator worden voldaan. Als belastingschulden die als boedelschulden kunnen worden aangemerkt, ten onrechte niet worden voldaan, wendt de ontvanger zich in beginsel eerst tot de curator teneinde informatie te verkrijgen over de toestand van de boedel en zo mogelijk langs minnelijke weg alsnog voldoening te bewerkstelligen. Als dit niet leidt tot een bevredigende oplossing wendt de ontvanger zich met zijn grieven tot de rechter-commissaris. In het uiterste geval kan de ontvanger rechtstreeks verhaal zoeken op de boedel.
+
+De ontvanger moet erop toezien dat de bewindvoerder of de curator zijn belangenbehartigingsplicht – als neergelegd in [artikel 57, derde lid, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) – op juiste wijze nakomt. De bevoegdheid ex [artikel 57, derde lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) kan eerst door de bewindvoerder dan wel de curator worden uitgeoefend indien en voor zover vaststaat dat de vordering van de ontvanger waarvoor het bodemvoorrecht geldt, niet uit het vrije boedelactief kan worden voldaan.
 
 De bevoegdheid wordt pas uitgeoefend voor zover bij het vaststellen van de (slot)uitdelingslijst in het faillissement blijkt dat de bevoorrechte vorderingen van de ontvanger boven de pandhouder niet uit het vrije actief kunnen worden voldaan, of voor zover op voorhand duidelijk is dat de hoogte van de belastingschuld aantasting van de rechten van de pandhouder onvermijdelijk maakt.
 
 Als de ontvanger niet alleen een boven de pandhouder bevoorrechte vordering ter verificatie heeft ingediend, maar ook een vordering waarvoor het bodemvoorrecht niet geldt, dan vindt voor de beantwoording van de vraag of en in hoeverre, voldoening uit het vrije boedelactief mogelijk is, primair toerekening plaats van het vrije boedelactief aan de laatstgenoemde vordering.
 
-Voor uitstel van betaling in relatie tot WSNP en faillissement wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
-
-Zie voor bodemvoorrecht in WSNP en faillissement artikel 21.4 van deze leidraad.
-
-Zie voor kwijtschelding in relatie tot WSNP en faillissement artikel 26.1.9 van deze leidraad.
-
 Voor bodemrecht en insolventie van de derde-eigenaar wordt verwezen naar artikel 22.6 van deze leidraad.
 
 ### 73.1.8. Uitstel in relatie tot WSNP en faillissement
 
-Voor uitstel van betaling in relatie tot WSNP en faillissement wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
+Bij de beoordeling van het verzoek neemt de ontvanger als uitgangspunt dat:
 
 ### 73.1.9. Kwijtschelding in relatie tot WSNP en faillissement
 
@@ -3276,53 +3276,59 @@ Zie voor kwijtschelding in relatie tot WSNP en faillissement artikel 26.1.9 van 
 
 ### 73.1.10. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot WSNP en faillissement
 
-Zie voor ketenaansprakelijkheid in relatie tot WSNP en faillissement onderaannemer artikel 35.5.2, 35.6.2 en 35.12.11 van deze leidraad.
+De bevoegdheid wordt pas uitgeoefend voor zover bij het vaststellen van de (slot)uitdelingslijst in het faillissement blijkt dat de bevoorrechte vorderingen van de ontvanger boven de pandhouder niet uit het vrije actief kunnen worden voldaan, of voor zover op voorhand duidelijk is dat de hoogte van de belastingschuld aantasting van de rechten van de pandhouder onvermijdelijk maakt.
 
 ### 73.2. insolventieprocedure – wettelijke schuldsanering
 
 Zie voor bestuurdersaansprakelijkheid in relatie tot faillissement artikel 36.1, 36.2, 36.3 en 36.5.7 van deze leidraad.
 
-Zie voor toeslagenschuld in relatie tot MSNP artikel 79.4 en in relatie tot WSNP en/of faillissement artikel 79.3 van deze leidraad.
+Zie voor ketenaansprakelijkheid in relatie tot WSNP en faillissement onderaannemer artikel 35.5.2, 35.6.2 en 35.12.11 van deze leidraad.
+
+Zie voor bestuurdersaansprakelijkheid in relatie tot faillissement artikel 36.1, 36.2, 36.3 en 36.5.7 van deze leidraad.
+
+### 73.1.11. Toeslagenschuld in relatie tot MSNP, WSNP en faillissement
 
 Zie voor toeslagenschuld in relatie tot MSNP artikel 79.4 en in relatie tot WSNP en/of faillissement artikel 79.3 van deze leidraad.
 
-### 73.1.12. Verplichtingensignaal in relatie tot MSNP, WSNP en faillissement
+Voor uitstel van betaling in relatie tot WSNP en faillissement wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
 
-Zie voor verplichtingensignaal in relatie tot MSNP, WSNP en faillissement artikel 77.3 en 77.5 van deze leidraad.
+### 73.1.9. Kwijtschelding in relatie tot WSNP en faillissement
 
-Belastingteruggaven die zijn vastgesteld nadat de toepassing van de wettelijke schuldsaneringsregeling is geëindigd en die betrekking hebben op een periode vóór de uitspraak van de toepassing van de wettelijke schuldsaneringsregeling kan de ontvanger verrekenen met de vorderingen die tot een natuurlijke verbintenis zijn getransformeerd.
+Zie voor kwijtschelding in relatie tot WSNP en faillissement artikel 26.1.9 van deze leidraad.
 
 ### 73.2.1. Kwijtschelding tijdens WSNP
 
-Ook na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger derden nog aansprakelijk stellen voor niet-betaalde belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt.
-
-### 73.2.2. Na de toepassing van de WSNP
-
 ### 73.3. Insolventieprocedure – surséance
+
+Zie voor bestuurdersaansprakelijkheid in relatie tot faillissement artikel 36.1, 36.2, 36.3 en 36.5.7 van deze leidraad.
+
+Belastingvorderingen waarop de wettelijke schuldsaneringsregeling van toepassing is en voor zover die na de beëindiging op grond van [artikel 356, tweede lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=356) onvoldaan zijn gebleven, zijn aan te merken als natuurlijke verbintenissen ongeacht of de vorderingen door de ontvanger bij de bewindvoerder zijn aangemeld. Mocht in dit verband sprake zijn van een als natuurlijke verbintenis aan te merken aanslag in de premie voor de volksverzekeringen, dan wordt zo’n aanslag niet meer bij de Sociale Verzekeringsbank aangemeld in verband met schuldig-nalatig verklaring als bedoeld in [artikel 61 Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=61).
+
+Met betrekking tot te betalen belastingaanslagen en terugvorderingen (ter zake van toeslagen) die betrekking hebben op de periode waarin de wettelijke schuldsaneringsregeling van toepassing was en die zijn vastgesteld na beëindiging (met schone lei) van die regeling, zal de ontvanger in beginsel afzien van invordering. Daarbij geldt dat aannemelijk moet zijn dat:
 
 Belastingteruggaven die zijn vastgesteld nadat de toepassing van de wettelijke schuldsaneringsregeling is geëindigd en die betrekking hebben op een periode vóór de uitspraak van de toepassing van de wettelijke schuldsaneringsregeling kan de ontvanger verrekenen met de vorderingen die tot een natuurlijke verbintenis zijn getransformeerd.
 
 Met betrekking tot belastingteruggaven die betrekking hebben op de periode voor de beëindiging (met schone lei) van de wettelijke schuldsaneringsregeling en die worden vastgesteld na beëindiging van die regeling, geldt het volgende. Teruggaven (na mogelijke verrekening met openstaande schulden) van minder dan € 500 worden uitbetaald aan de belastingschuldige zelf. Indien de belastingteruggave (na mogelijke verrekening met openstaande schulden) € 500 of meer bedraagt, zal de ontvanger contact opnemen met de gewezen bewindvoerder om met hem te overleggen of de vereffening moet worden heropend.
 
-Ook na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger derden nog aansprakelijk stellen voor niet-betaalde belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt.
+### 73.2. insolventieprocedure – wettelijke schuldsanering
 
 Reeds in gang gezette aansprakelijkheidsprocedures kan de ontvanger voortzetten.
 
-Reeds in gang gezette aansprakelijkheidsprocedures kan de ontvanger voortzetten.
+Voor de situatie dat een belastingschuldige, ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, verzoekt om kwijtschelding van nadien opgekomen belastingschulden die niet zijn aan te merken als boedelschuld, wordt verwezen naar artikel 26.2.17 van deze leidraad.
 
 ### 73.3.1. Uitstel, kwijtschelding en surséance
 
 Voor uitstel van betaling in relatie tot surséance wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
 
-Voor kwijtschelding in relatie tot surséance wordt verwezen naar artikel 26.1.9 van deze leidraad.
+### 73.4. Insolventieprocedure – faillissement
 
-### 73.3.2. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot surséance
+Belastingteruggaven die zijn vastgesteld nadat de toepassing van de wettelijke schuldsaneringsregeling is geëindigd en die betrekking hebben op een periode vóór de uitspraak van de toepassing van de wettelijke schuldsaneringsregeling kan de ontvanger verrekenen met de vorderingen die tot een natuurlijke verbintenis zijn getransformeerd.
 
 Zie voor surséance in relatie tot ketenaansprakelijkheid en bestuurdersaansprakelijkheid artikel 35.5.4, 35.6.2 en 35.12.11 onderscheidenlijk artikel 36.5.6 van deze leidraad.
 
-### 73.4. Insolventieprocedure – faillissement
+Ook na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger derden nog aansprakelijk stellen voor niet-betaalde belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt.
 
-De belastingaanslag(en) waarvoor de ontvanger het faillissement aanvraagt, moeten onherroepelijk vaststaan of in redelijkheid materieel verschuldigd worden geacht. Een faillissementsaanvraag blijft achterwege als de belastingschuldige aantoont dat de betalingsonmacht van korte duur is.
+### 73.4.1. Faillissementsaanvraag – algemeen
 
 De belastingaanslag(en) waarvoor de ontvanger het faillissement aanvraagt, moeten onherroepelijk vaststaan of in redelijkheid materieel verschuldigd worden geacht. Een faillissementsaanvraag blijft achterwege als de belastingschuldige aantoont dat de betalingsonmacht van korte duur is.
 
@@ -3332,67 +3338,67 @@ Voor een voorlopige aanslag vraagt de ontvanger slechts een faillissement aan al
 
 Als sprake is van een rechtspersoon die geen activiteiten meer uitoefent, en bovendien bekend is dat geen baten aanwezig zijn, dan wordt de voorkeur gegeven aan het treffen van maatregelen die moeten leiden tot ontbinding van die rechtspersoon boven het aanvragen van het faillissement van die rechtspersoon.
 
-Als de belastingschuldige – voordat de faillissementsaanvraag in behandeling is genomen – een verzoek om kwijtschelding doet, dan wel een buitengerechtelijk akkoord aanbiedt (een en ander in de zin van artikel 73.6 van deze leidraad), dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek dan wel het aanbod aan een nader oordeel te onderwerpen.
-
-### 73.4.3. Particulieren en faillissement
-
-Particulieren zijn in dit verband natuurlijke personen die niet een onderneming drijven of zelfstandig een beroep uitoefenen en waarvan niet aannemelijk is dat zij van plan zijn dit te doen.
-
 Voor zover de openstaande belastingschulden het gevolg zijn van bedrijfsvoering of uitoefening van een zelfstandig beroep, worden natuurlijke personen die hun bedrijf of zelfstandige beroepsuitoefening hebben gestaakt in dit verband niet beschouwd als particulieren.
 
 ### 73.4.4. Saneringsaanbod en faillissementsaanvraag
 
-### 73.4.4. Saneringsaanbod en faillissementsaanvraag
+### 73.4. Insolventieprocedure – faillissement
 
-Hiervan wordt afgeweken als op voorhand duidelijk is dat het verzoek dan wel het aanbod louter is gedaan om de behandeling van de faillissementsaanvraag te traineren. Er wordt ook van afgeweken als het aanbod onvoldoende past binnen het door de fiscus gehanteerde kwijtscheldingsbeleid respectievelijk het in het kwijtscheldingsbeleid opgenomen saneringsbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek dan wel het aanbod bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
+Voor zover de openstaande belastingschulden het gevolg zijn van bedrijfsvoering of uitoefening van een zelfstandig beroep, worden natuurlijke personen die hun bedrijf of zelfstandige beroepsuitoefening hebben gestaakt in dit verband niet beschouwd als particulieren.
 
-Hiervan wordt afgeweken als op voorhand duidelijk is dat het verzoek dan wel het aanbod louter is gedaan om de behandeling van de faillissementsaanvraag te traineren. Er wordt ook van afgeweken als het aanbod onvoldoende past binnen het door de fiscus gehanteerde kwijtscheldingsbeleid respectievelijk het in het kwijtscheldingsbeleid opgenomen saneringsbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek dan wel het aanbod bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
+De belastingaanslag(en) waarvoor de ontvanger het faillissement aanvraagt, moeten onherroepelijk vaststaan of in redelijkheid materieel verschuldigd worden geacht. Een faillissementsaanvraag blijft achterwege als de belastingschuldige aantoont dat de betalingsonmacht van korte duur is.
 
 ### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
 
+Hiervan wordt afgeweken als op voorhand duidelijk is dat het verzoek dan wel het aanbod louter is gedaan om de behandeling van de faillissementsaanvraag te traineren. Er wordt ook van afgeweken als het aanbod onvoldoende past binnen het door de fiscus gehanteerde kwijtscheldingsbeleid respectievelijk het in het kwijtscheldingsbeleid opgenomen saneringsbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek dan wel het aanbod bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
+
+Als sprake is van een rechtspersoon die geen activiteiten meer uitoefent, en bovendien bekend is dat geen baten aanwezig zijn, dan wordt de voorkeur gegeven aan het treffen van maatregelen die moeten leiden tot ontbinding van die rechtspersoon boven het aanvragen van het faillissement van die rechtspersoon.
+
+Als de belastingschuldige een verzoek om uitstel van betaling doet, voordat de rechtbank de faillissementsaanvraag in behandeling heeft genomen, dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek aan een nader oordeel te onderwerpen.
+
 De ontvanger doet dit niet als duidelijk is dat het verzoek louter is gedaan om de behandeling van de faillissementsaanvraag te traineren, of als het verzoek onvoldoende past binnen het door de fiscus gehanteerde uitstelbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
+
+### 73.4.6. Toestemming voor faillissementsaanvraag
+
+De ontvanger moet voor iedere faillissementsaanvraag schriftelijk toestemming van het ministerie hebben.
 
 Wel is voor het verstrekken van de gegevens toestemming van het ministerie vereist, als het een belastingschuldige betreft die een bedrijf voert of zelfstandig een beroep uitoefent waaraan in totaal meer dan vijftig werknemers zijn verbonden. De gegevens worden uitsluitend schriftelijk verstrekt.
 
-De ontvanger moet voor iedere faillissementsaanvraag schriftelijk toestemming van het ministerie hebben.
+Als de belastingschuldige – voordat de faillissementsaanvraag in behandeling is genomen – een verzoek om kwijtschelding doet, dan wel een buitengerechtelijk akkoord aanbiedt (een en ander in de zin van artikel 73.6 van deze leidraad), dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek dan wel het aanbod aan een nader oordeel te onderwerpen.
 
-De ontvanger moet voor iedere faillissementsaanvraag schriftelijk toestemming van het ministerie hebben.
-
-### 73.4.8. Verlenen van steunvordering en faillissementsaanvraag
-
-Voor het verstrekken van de gegevens van de belastingschuldige geldt niet hetgeen in artikel 73.4.1 tot en met 73.4.6 van deze leidraad is vermeld met betrekking tot een faillissementsaanvraag door de ontvanger.
+### 73.4.9. Verzet tegen faillietverklaring
 
 Wel is voor het verstrekken van de gegevens toestemming van het ministerie vereist, als het een belastingschuldige betreft die een bedrijf voert of zelfstandig een beroep uitoefent waaraan in totaal meer dan vijftig werknemers zijn verbonden. De gegevens worden uitsluitend schriftelijk verstrekt.
 
 Als de ontvanger zelf het initiatief neemt om een andere schuldeiser van de belastingschuldige te benaderen met het verzoek het faillissement van de belastingschuldige aan te vragen met gebruikmaking van de belastingschuld als steunvordering, dan geldt wel hetgeen is vermeld in artikel 73.4.1, 73.4.3 en 73.4.6 van deze leidraad. In dat geval is dus ook toestemming van het ministerie vereist.
 
-### 73.4.9. Verzet tegen faillietverklaring
+De ontvanger doet dit niet als duidelijk is dat het verzoek louter is gedaan om de behandeling van de faillissementsaanvraag te traineren, of als het verzoek onvoldoende past binnen het door de fiscus gehanteerde uitstelbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
 
-Als de ontvanger gebruik wil maken van de mogelijkheid tot verzet tegen de faillietverklaring als bedoeld in [artikel 10, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=10) heeft hij hiervoor toestemming van het ministerie nodig.
+### 73.4.6. Toestemming voor faillissementsaanvraag
 
-De ontvanger betrekt in ieder geval de volgende aspecten bij de mogelijke, door hem te nemen beslissingen:
+De ontvanger moet voor iedere faillissementsaanvraag schriftelijk toestemming van het ministerie hebben.
 
-In het faillissement van een belastingschuldige kan een schuldenaar van de belastingschuldige – als deze schuldenaar door de ontvanger aansprakelijk kan worden gesteld op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b) – zich beroepen op een voorwaardelijke regresrecht. Door dit beroep kan de vordering niet worden geïnd.
+### 73.4.7. Steunvordering UWV voor faillissementsaanvraag
 
-### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
+Het beroep op het regresrecht vervalt als zeker is dat de ontvanger de schuldenaar van de belastingschuldige niet aansprakelijk stelt. In een dergelijke situatie kan (uitsluitend) de curator zich tot de ontvanger wenden met het verzoek om een besluit te nemen over het wel of niet aansprakelijk stellen van de schuldenaar van de belastingschuldige. De ontvanger moet het belang van de curator en de door deze vertegenwoordigde schuldeisers betrekken in de besluitvorming of hij tot aansprakelijkstelling zal overgaan.
 
 De curator legt aan de ontvanger alle relevante gegevens met betrekking tot de voorwaardelijke regresvordering over. In ieder geval maakt de curator (ook kwantitatief) inzichtelijk, hoe groot het belang van de ontvanger is bij afwikkeling van de boedel mét en zónder inning van de vordering waarvoor een beroep op de voorwaardelijke regresvordering wordt gedaan.
 
-### 73.4.12. Opkomen in faillissement
-
-De ontvanger betrekt in ieder geval de volgende aspecten bij de mogelijke, door hem te nemen beslissingen:
-
-De ontvanger deelt binnen een redelijke termijn gemotiveerd aan de curator één van de volgende beslissingen mee:
-
-Zie artikel 22.5 van deze leidraad voor de volgorde bij uitwinning bodembeslag in faillissement.
+De ontvanger verzendt de curator binnen tien dagen na ontvangst van de gegevens een ontvangstbevestiging. Als de ontvanger naar aanleiding van de verstrekte gegevens nadere informatie wenst, vermeldt hij dat in de ontvangstbevestiging. Ook geeft hij aan de redelijke termijn waarop de aanvullende gegevens moeten zijn verstrekt.
 
 ### 73.4.14. Na de toepassing van het faillissement
 
-De ontvanger maakt in beginsel geen gebruik van de bevoegdheid van [artikel 196 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=196), om na de beëindiging van een faillissement het proces-verbaal van de verificatievergadering voor het onbetaald gebleven bedrag tegen de schuldenaar te executeren. Als er wel aanleiding tot invordering bestaat, doet de ontvanger dit zoveel mogelijk bij dwangbevel.
+De ontvanger deelt binnen een redelijke termijn gemotiveerd aan de curator één van de volgende beslissingen mee:
 
-### 73.4.12. Opkomen in faillissement
+### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
 
-Als na beëindiging van faillissement daaruit ontvangen gelden moeten worden terugbetaald, treedt de ontvanger in verband met [artikel 194 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=194) in overleg met de curator.
+Voor toezending of uitreiking van het aanslagbiljet ingeval van faillissement wordt verwezen naar artikel 8.1 van deze leidraad.
+
+In het faillissement van een belastingschuldige kan een schuldenaar van de belastingschuldige – als deze schuldenaar door de ontvanger aansprakelijk kan worden gesteld op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b) – zich beroepen op een voorwaardelijke regresrecht. Door dit beroep kan de vordering niet worden geïnd.
+
+### 73.4.14. Na de toepassing van het faillissement
+
+De curator legt aan de ontvanger alle relevante gegevens met betrekking tot de voorwaardelijke regresvordering over. In ieder geval maakt de curator (ook kwantitatief) inzichtelijk, hoe groot het belang van de ontvanger is bij afwikkeling van de boedel mét en zónder inning van de vordering waarvoor een beroep op de voorwaardelijke regresvordering wordt gedaan.
 
 Zie artikel 22.5 van deze leidraad voor de volgorde bij uitwinning bodembeslag in faillissement.
 
@@ -3402,63 +3408,63 @@ De ontvanger maakt in beginsel geen gebruik van de bevoegdheid van [artikel 196 
 
 Bij natuurlijke personen hervat de ontvanger slechts in bijzondere omstandigheden de invordering na beëindiging van het faillissement. Deze omstandigheden doen zich onder andere voor als de betrokkene binnen vijf jaar na het faillissement beschikt over een meer dan modaal inkomen of over vermogensbestanddelen van substantiële waarde.
 
-### 73.4.15. Opening nationale (secundaire) insolventieprocedure
-
 Als na beëindiging van faillissement daaruit ontvangen gelden moeten worden terugbetaald, treedt de ontvanger in verband met [artikel 194 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=194) in overleg met de curator.
+
+Op basis van de voorwaarde onder c is de betreffende regeling ook van toepassing op een ex-ondernemer, als aannemelijk is dat hij in de toekomst geen bedrijf of niet zelfstandig een beroep zal uitoefenen.
 
 Als de belastingschuldige woont of gevestigd is in een lidstaat van de EU – niet Denemarken – en aldaar in staat van insolventie verkeert terwijl in Nederland sprake is van een nevenvestiging, kan in Nederland op grond van de EG-insolventieverordening een zogenoemde territoriale of secundaire procedure worden geopend.
 
-Onmiddellijk na kennisname van de in het buitenland geopende hoofdprocedure, beoordeelt de ontvanger of hij baat heeft bij het openen van een secundaire of territoriale procedure in Nederland. Een secundaire procedure betreft alleen de liquidatieprocedure – dus niet de surseance van betaling – en wordt afgewikkeld volgens het in Nederland geldende recht. De staat van insolventie behoeft daarbij niet te worden aangetoond.
+### 73.4.13. Volgorde uitwinning bodembeslag in faillissement
 
-Op basis van de voorwaarde onder c is de betreffende regeling ook van toepassing op een ex-ondernemer, als aannemelijk is dat hij in de toekomst geen bedrijf of niet zelfstandig een beroep zal uitoefenen.
+### 73.4.16. Omzetting faillissement in WSNP
 
 Als omzetting van een faillissement in een wettelijke schuldsaneringsregeling mogelijk is, toetst de ontvanger – als de schuldenaar hier uitdrukkelijk om verzoekt – een door de schuldenaar in het faillissement aangeboden akkoord aan het beleid ingevolge [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a) en [22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a).
 
 ### 73.5. Insolventieprocedure - minnelijke schuldsanering door leden van de NVVK of gemeenten
 
-### 73.5.1. Algemeen
+Bij natuurlijke personen hervat de ontvanger slechts in bijzondere omstandigheden de invordering na beëindiging van het faillissement. Deze omstandigheden doen zich onder andere voor als de betrokkene binnen vijf jaar na het faillissement beschikt over een meer dan modaal inkomen of over vermogensbestanddelen van substantiële waarde.
 
 De ontvanger verleent uitstel van betaling voor een periode van maximaal 36 maanden als:
 
-### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
+### 73.4.15. Opening nationale (secundaire) insolventieprocedure
 
 De ontvanger verleent het uitstel pas als de schuldhulpverlener hem schriftelijk heeft bericht dat de overeenkomst tot schuldregeling tot stand is gekomen. Het uitstel vangt aan met ingang van de datum van de schuldregelingsovereenkomst. Na totstandkoming van een schuldregelingsovereenkomst onderzoekt de schuldhulpverlener of een schuldregeling met de schuldeisers tot stand kan worden gebracht. De schuldhulpverlener rondt dit onderzoek af binnen 120 dagen, gerekend vanaf de datum van de schuldregelingsovereenkomst. Wanneer de schuldregeling met de schuldeisers tot stand is gebracht, wordt de schuldregelingsovereenkomst voortgezet; de schuldhulpverlener stelt de schuldeisers daarvan schriftelijk op de hoogte. Slaagt de schuldhulpverlener niet in het tot stand brengen van de schuldregeling, wordt de schuldregelingsovereenkomst beëindigd.
 
 Deze regeling is ook van toepassing op belastingaanslagen waarvan in beginsel geen kwijtschelding wordt verleend (zoals belastingaanslagen motorrijtuigenbelasting), omdat de wettelijke schuldsaneringsregeling ook van toepassing is op die belastingaanslagen.
 
-### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
+### 73.4.16. Omzetting faillissement in WSNP
 
-De uitstelregeling geldt voor belastingaanslagen die betrekking hebben op de (materieel) verschuldigde belasting tot en met de dag waarop het verzoek van de schuldhulpverlener om een gespecificeerde schriftelijke opgave van de openstaande vorderingen is ontvangen. De gespecificeerde schriftelijke opgave vermeldt alle tot op de datum van het verzoek (materieel) verschuldigde belastingen en is definitief in de zin dat daarop van de zijde van de ontvanger in beginsel niet meer kan worden teruggekomen. In voorkomend geval wordt het bedrag van de verschuldigde belastingen door middel van schatting bepaald. In het geval de in de vorige volzin bedoelde schatting naar achteraf blijkt substantieel te laag mocht zijn, kan de ontvanger daarop alleen terugkomen indien terzake van die belasting ten tijde van de schatting ten onrechte geen aangifte was gedaan danwel indien de belastingschuldige of de schuldhulpverlener wisten of behoorden te weten dat de schatting te laag was.
+Als omzetting van een faillissement in een wettelijke schuldsaneringsregeling mogelijk is, toetst de ontvanger – als de schuldenaar hier uitdrukkelijk om verzoekt – een door de schuldenaar in het faillissement aangeboden akkoord aan het beleid ingevolge [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a) en [22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a).
 
-Een schuldhulpverleningstraject vangt in het algemeen aan met een stabilisatie-overeenkomst tussen de schuldenaar en de schuldhulpverlener als bedoeld in artikel 73.5.1, onder b. Voor de toepassing van dit artikel wordt met een stabilisatie-overeenkomst gelijkgesteld een schriftelijke mededeling van de schuldhulpverlener inhoudend dat hij activiteiten ontplooit die erop gericht zijn de financiële situatie van de schuldenaar op korte termijn te stabiliseren.
+### 73.5. Insolventieprocedure - minnelijke schuldsanering door leden van de NVVK of gemeenten
 
-### 73.5.4. Houding ontvanger tijdens uitstel MSNP
+Vanaf de ontvangst van een afschrift van de stabilisatie-overeenkomst neemt de ontvanger gedurende 120 dagen geen dwanginvorderingsmaatregelen.
 
 Lopende invorderingsmaatregelen schort de ontvanger op, zo nodig in overleg met de schuldhulpverlener. Voorts vindt verrekening alleen plaats met teruggaven die betrekking hebben op belasting die (materieel) is ontstaan tot en met de dag waarop het afschrift van de stabilisatie-overeenkomst is ontvangen.
 
-### 73.5.3. Gevolgen uitstel MSNP voor invorderingsmaatregelen
+### 73.5.4. Houding ontvanger tijdens uitstel MSNP
 
-Dit houdt onder meer in dat bij de berekening van de betalingscapaciteit op het inkomen van de belastingschuldige niet in mindering wordt gebracht dat deel van het inkomen dat door de schuldhulpverlener wordt beheerd. Verder wordt opgemerkt dat de middelen die onder beheer van de schuldhulpverlener berusten, niet worden beschouwd als vermogen in de zin van [artikel 12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12).
+De ontvanger verleent het uitstel pas als de schuldhulpverlener hem schriftelijk heeft bericht dat de overeenkomst tot schuldregeling tot stand is gekomen. Het uitstel vangt aan met ingang van de datum van de schuldregelingsovereenkomst. Na totstandkoming van een schuldregelingsovereenkomst onderzoekt de schuldhulpverlener of een schuldregeling met de schuldeisers tot stand kan worden gebracht. De schuldhulpverlener rondt dit onderzoek af binnen 120 dagen, gerekend vanaf de datum van de schuldregelingsovereenkomst. Wanneer de schuldregeling met de schuldeisers tot stand is gebracht, wordt de schuldregelingsovereenkomst voortgezet; de schuldhulpverlener stelt de schuldeisers daarvan schriftelijk op de hoogte. Slaagt de schuldhulpverlener niet in het tot stand brengen van de schuldregeling, wordt de schuldregelingsovereenkomst beëindigd.
 
 Eventuele gelegde beslagen vervallen zodra een schuldregeling tussen de schuldenaar en diens schuldeisers tot stand is gekomen ( en de schuldregelingsovereenkomst dus wordt voortgezet). Verrekening kan plaatsvinden met teruggaven die betrekking hebben op belasting die (materieel) is ontstaan tot en met de dag waarop het afschrift van de stabilisatie-overeenkomst is ontvangen.
 
 ### 73.5.4. Houding ontvanger tijdens uitstel MSNP
 
-Als sprake is van een verleend uitstel van betaling op grond van een schuldregelingsovereenkomst, handelt de ontvanger gedurende de periode van uitstel op dezelfde wijze als bij een wettelijke schuldsaneringsregeling.
+### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
 
 Als de belastingschuldige verzoekt om kwijtschelding van belastingschulden die materieel zijn ontstaan na de dag van de dagtekening van de schuldregelingsovereenkomst, dan wordt het verzoek behandeld overeenkomstig het bestaande beleid.
 
-### 73.5.5. Intrekken uitstel gedurende MSNP
+Dit houdt onder meer in dat bij de berekening van de betalingscapaciteit op het inkomen van de belastingschuldige niet in mindering wordt gebracht dat deel van het inkomen dat door de schuldhulpverlener wordt beheerd. Verder wordt opgemerkt dat de middelen die onder beheer van de schuldhulpverlener berusten, niet worden beschouwd als vermogen in de zin van [artikel 12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12).
 
-### 73.5.5. Intrekken uitstel gedurende MSNP
+Lopende invorderingsmaatregelen schort de ontvanger op, zo nodig in overleg met de schuldhulpverlener. Voorts vindt verrekening alleen plaats met teruggaven die betrekking hebben op belasting die (materieel) is ontstaan tot en met de dag waarop het afschrift van de stabilisatie-overeenkomst is ontvangen.
 
-De ontvanger trekt het uitstel in als:
-
-De ontvanger trekt in de situaties genoemd bij het tweede, derde en vierde gedachtestreepje het uitstel niet eerder in, dan nadat hij de schuldhulpverlener een brief heeft gestuurd over zijn voornemen het uitstel in te trekken als belastingschuldige niet binnen veertien dagen zijn verplichtingen correct nakomt.
+### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
 
 De ontvanger trekt in de situaties genoemd bij het tweede, derde en vierde gedachtestreepje het uitstel niet eerder in, dan nadat hij de schuldhulpverlener een brief heeft gestuurd over zijn voornemen het uitstel in te trekken als belastingschuldige niet binnen veertien dagen zijn verplichtingen correct nakomt.
 
 ### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
+
+Als de ontvanger uitstel van betaling heeft verleend voor de periode van de MSNP, wordt een schriftelijke kennisgeving van de schuldhulpverlener na afloop van de overeenkomst tot schuldregeling aangemerkt als het aanbieden van een buitengerechtelijk akkoord in de zin van [artikel 19a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a).
 
 In de kennisgeving moet zijn gesteld dat de overeenkomst na eindcontrole is beëindigd en de schuldenaar aan zijn verplichtingen heeft voldaan.
 
@@ -3466,25 +3472,19 @@ In de kennisgeving moet zijn gesteld dat de overeenkomst na eindcontrole is beë
 
 Met betrekking tot te betalen belastingaanslagen en terugvorderingen (ter zake van toeslagen) die betrekking hebben op de periode waarin de minnelijke schuldsaneringsregeling van toepassing was en die zijn vastgesteld na beëindiging van die regeling, zal de ontvanger in beginsel, als de schuldenaar aan zijn verplichtingen uit die regeling heeft voldaan, afzien van invordering. Daarbij geldt dat aannemelijk moet zijn dat:
 
-Met betrekking tot te betalen belastingaanslagen en terugvorderingen (ter zake van toeslagen) die betrekking hebben op de periode waarin de minnelijke schuldsaneringsregeling van toepassing was en die zijn vastgesteld na beëindiging van die regeling, zal de ontvanger in beginsel, als de schuldenaar aan zijn verplichtingen uit die regeling heeft voldaan, afzien van invordering. Daarbij geldt dat aannemelijk moet zijn dat:
-
-### 73.5a. Insolventieprocedure - minnelijke schuldsanering door anderen dan leden van de NVVK of gemeenten
-
-Bij die belangenafweging zullen de volgende omstandigheden een rol kunnen spelen:
-
 Als uit de belangenafweging volgt dat kan worden ingestemd met een dergelijk verzoek dan verleent de ontvanger op het moment van het ingaan van de schuldregeling voor 36 maanden uitstel van betaling. Artikel 73.5 is zoveel als mogelijk van overeenkomstige toepassing, met dien verstande dat niet van toepassing zijn de faciliteiten zoals die gelden in de aanloop voor verzoeken als bedoeld in artikel 73.5.
 
 ### 73.6. Insolventieprocedure – akkoorden
 
-De betaling van het aangeboden bedrag moet in beginsel ineens plaatsvinden. Als de ontvanger bij wijze van uitzondering instemt met betaling in termijnen eist hij zekerheid.
+Bij die belangenafweging zullen de volgende omstandigheden een rol kunnen spelen:
 
-### 73.6.1. Buitengerechtelijk akkoord
+### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
 
-Deze bepalingen zijn ook van toepassing op betalingsverplichting van een aansprakelijkgestelde van wie redelijkerwijs mag worden aangenomen dat de wettelijke schuldsaneringsregeling op hem van toepassing is. Een verzoek tot het sluiten van een buitengerechtelijk akkoord kan een ieder indienen, ook de schuldenaar.
+Als de ontvanger uitstel van betaling heeft verleend voor de periode van de MSNP, wordt een schriftelijke kennisgeving van de schuldhulpverlener na afloop van de overeenkomst tot schuldregeling aangemerkt als het aanbieden van een buitengerechtelijk akkoord in de zin van [artikel 19a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a).
 
-Deze bepalingen zijn ook van toepassing op betalingsverplichting van een aansprakelijkgestelde van wie redelijkerwijs mag worden aangenomen dat de wettelijke schuldsaneringsregeling op hem van toepassing is. Een verzoek tot het sluiten van een buitengerechtelijk akkoord kan een ieder indienen, ook de schuldenaar.
+In de kennisgeving moet zijn gesteld dat de overeenkomst na eindcontrole is beëindigd en de schuldenaar aan zijn verplichtingen heeft voldaan.
 
-### 73.6.2. Voorwaarden voor toetreding tot een buitengerechtelijk akkoord
+### 73.5.7. Na de toepassing van de MSNP
 
 ### Artikel 74. Uitstel- en kwijtscheldingsfaciliteiten
 
@@ -3496,57 +3496,63 @@ De betaling van het aangeboden bedrag moet in beginsel ineens plaatsvinden. Als 
 
 ### 73.6.3. Gevolgen buitengerechtelijk akkoord
 
-### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
+### 73.6. Insolventieprocedure – akkoorden
 
 De ontvanger heft een gijzeling op zodra hij toetreedt tot een buitengerechtelijk akkoord.
 
-Als de ontvanger vrijwillig toetreedt tot een gerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft.
+Als de ontvanger toetreedt tot een buitengerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft, nadat hij het bedrag dat hem op grond van het akkoord toekomt, heeft ontvangen. Zonodig stelt hij een derdebeslagene of houder van penningen op de hoogte van het verval van het beslag en zorgt hij voor doorhaling van een beslag op een registergoed.
+
+De ontvanger heft de beslagen op zodra hij ontvangt wat hij heeft gevorderd op grond van het buitengerechtelijk akkoord.
+
+### 73.6.2. Voorwaarden voor toetreding tot een buitengerechtelijk akkoord
+
+De ontvanger moet zich er eerst van verzekeren of redelijkerwijs mag worden aangenomen dat de wettelijke schuldsaneringsregeling van toepassing zal worden verklaard. Van belang voor de beantwoording van die vraag is [artikel 288 FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=288) dat de weigeringsgronden voor de rechter bevat op een verzoek om toepassing van de wettelijke schuldsaneringsregeling.
 
 De betaling van het aangeboden bedrag moet in beginsel ineens plaatsvinden. Als de ontvanger bij wijze van uitzondering instemt met betaling in termijnen eist hij zekerheid.
 
-### 74.1.3. Conserverende aanslag met meerdere inkomensbestanddelen
+### 73.6.7. Schuldig nalatig en (buiten)gerechtelijk akkoord
 
 De ontvanger stemt alleen in met een akkoord als het bodemvoorrecht of de waarde van de bodemzaken tot uitdrukking komt in het aangeboden bedrag.
 
-De ontvanger betrekt bestuurlijke boeten, rente en kosten integraal in een akkoord.
+Bij de beoordeling van een akkoord stelt de ontvanger eerst vast op welke belastingaanslagen het akkoord betrekking heeft. Uitgangspunt daarbij is de materiële belastingschuld die is ontstaan tot aan de dag dat de wettelijke schuldsaneringsregeling is uitgesproken of de dag waarop een buitengerechtelijk akkoord wordt aangeboden.
 
-### 73.6.7. Schuldig nalatig en (buiten)gerechtelijk akkoord
+Als de ontvanger vrijwillig toetreedt tot een gerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft, nadat hij het bedrag dat hem op grond van het akkoord toekomt, heeft ontvangen.
 
-Als de ontvanger vrijwillig toetreedt tot een gerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft.
+### 73.6.6. Begrip belastingschuld en (buiten)gerechtelijk akkoord
 
 Bij de beoordeling van een akkoord stelt de ontvanger eerst vast op welke belastingaanslagen het akkoord betrekking heeft. Uitgangspunt daarbij is de materiële belastingschuld die is ontstaan tot aan de dag dat de wettelijke schuldsaneringsregeling is uitgesproken of de dag waarop een buitengerechtelijk akkoord wordt aangeboden.
 
 Er rust een inspanningsverplichting op de Belastingdienst om de te saneren schuld zo volledig mogelijk en tot het juiste bedrag vast te stellen, in die zin dat de materieel verschuldigde belasting wordt geformaliseerd in een aanslag.
 
-### 73.6.9. Kwijtschelding voor ondernemers bij een saneringsakkoord
-
-De ontvanger betrekt bestuurlijke boeten, rente en kosten integraal in een akkoord.
-
-Zie artikel 26.3. van deze leidraad.
-
 ### 73.6.8. Gevolgen dwangakkoord
+
+Als in het akkoord belastingschulden zijn begrepen waarvoor derden aansprakelijk kunnen worden gesteld, neemt de ontvanger als voorwaarde op dat de kwijtschelding pas wordt geëffectueerd op het moment dat op grond van die aansprakelijkheid geen baten meer kunnen worden verkregen. De ontvanger ziet van deze voorwaarde af als in het aangeboden bedrag de baten in de aansprakelijkheid tot uitdrukking komen.
+
+De ontvanger stemt alleen in met een akkoord als het bodemvoorrecht of de waarde van de bodemzaken tot uitdrukking komt in het aangeboden bedrag.
+
+### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
 
 Aangezien de ontvanger niet heeft ingestemd met het akkoord, verleent hij geen kwijtschelding. De belastingvorderingen die resteren na het dwangakkoord blijven als natuurlijke verbintenissen over. Mocht in dit verband sprake zijn van een als natuurlijke verbintenis aan te merken aanslag in de premie voor de volksverzekeringen, wordt zo’n aanslag niet meer bij de Sociale Verzekeringsbank aangemeld in verband met schuldig-nalatig verklaring als bedoeld in [artikel 61 Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=61).
 
-Voor belastingaanslagen betreffende de rechten van successie of schenking dan wel schenk- of erfbelasting bevat [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstelfaciliteiten in het derde, twaalfde en dertiende lid. In [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=6) en in de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=I), [IA](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA) en [IB, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB) zijn hierover nadere regels gesteld.
+Voor belastingaanslagen betreffende de inkomstenbelasting zijn in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstelfaciliteiten opgenomen in het vierde, vijfde, zesde, achtste, negende, veertiende, zestiende, zeventiende en achttiende lid.
 
-### 73.6.9. Kwijtschelding voor ondernemers bij een saneringsakkoord
+Indien een akkoord op grond van [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) niet mogelijk is, vindt kwijtschelding voor ondernemers uitsluitend plaats bij een zogenoemd saneringsakkoord in de zin van [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22). Zie ook artikel 26.3 van deze leidraad.
 
-Kwijtschelding voor ondernemers vindt alleen plaats bij een saneringsakkoord tussen de schuldenaar en alle schuldeisers tot gedeeltelijke betaling van de schuld tegen finale kwijting.
+### Artikel 74. Uitstel- en kwijtscheldingsfaciliteiten
 
 Voor belastingaanslagen betreffende de inkomstenbelasting zijn in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstelfaciliteiten opgenomen in het vierde, vijfde, zesde, achtste, negende, veertiende, zestiende, zeventiende en achttiende lid.
 
 Voor belastingaanslagen betreffende de rechten van successie of schenking dan wel schenk- of erfbelasting bevat [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstelfaciliteiten in het derde, twaalfde en dertiende lid. In [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=6) en in de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=I), [IA](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA) en [IB, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB) zijn hierover nadere regels gesteld.
 
-### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
+De uitstelfaciliteiten van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) hebben zowel betrekking op:
 
-In [artikel 26, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) is bepaald dat bij ministeriële regeling regels worden gegeven op grond waarvan – onder de in die leden bepaalde voorwaarden – kwijtschelding kan worden verleend voor belastingaanslagen waarvoor op de voet van [artikel 25, vijfde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstel van betaling is verleend. Dit betreffen de zogenoemde conserverende belastingaanslagen.
+### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
 
 In dit artikel is het volgende beleid over uitstel- en kwijtscheldingsfaciliteiten opgenomen:
 
-In [artikel 26, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) is bepaald dat bij ministeriële regeling regels worden gegeven op grond waarvan – onder de in die leden bepaalde voorwaarden – kwijtschelding kan worden verleend voor belastingaanslagen waarvoor op de voet van [artikel 25, vijfde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstel van betaling is verleend. Dit betreffen de zogenoemde conserverende belastingaanslagen.
+### 74.1. Uitstelfaciliteiten op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) – algemene uitgangspunten
 
-### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
+Indien een akkoord op grond van [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) niet mogelijk is, vindt kwijtschelding voor ondernemers uitsluitend plaats bij een zogenoemd saneringsakkoord in de zin van [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22). Zie ook artikel 26.3 van deze leidraad.
 
 In het geval waarin op grond van de [artikelen 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1e), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1g) en [2, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=2) of op grond van deze leidraad een schriftelijk verzoek van de belastingschuldige niet nodig is om voor de uitstelfaciliteit in aanmerking te komen, verleent de ontvanger automatisch uitstel van betaling onder de voorwaarden dat:
 
@@ -3554,25 +3560,19 @@ In het geval waarin op grond van de [artikelen 1e](https://wetten.overheid.nl/jc
 
 In aanvulling op de [artikelen 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1e), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1g) en [2, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=2) kan een schriftelijk verzoek om voor uitstel in aanmerking te komen ook achterwege blijven, als er sprake is van een conserverende belastingaanslag die wordt opgelegd naar aanleiding van een M-biljet dat is ingediend in verband met de emigratie van een belastingschuldige naar een land dat geen lidstaat is van de Europese Unie.
 
+De uitstelfaciliteiten van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) hebben zowel betrekking op:
+
+Er kan een conserverende belastingaanslag opgelegd worden die betrekking heeft op meerdere te conserveren inkomensbestanddelen. Als voor al deze of voor enkele bestanddelen uitstel van betaling wordt verzocht, dan verleent de ontvanger uitstel rechtevenredig aan het aandeel van het betreffende inkomensbestanddeel in de grondslag van de geconserveerde belasting.
+
+Het onderscheid in de verschillende inkomensbestanddelen is gebaseerd op [artikel 25, vierde, vijfde, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25). Het uitstel wordt per bestanddeel bij voor bezwaar vatbare beschikking verleend.
+
+### 74.1.4. Hoogte zekerheid
+
 In de gevallen waarin de ontvanger zekerheid eist alvorens uitstel van betaling te verlenen, moet de hoogte van de zekerheidstelling steeds gelijk zijn aan de actuele waarde van de fiscale claim.
 
 ### 74.1.5. Versnelde invordering
 
-Het onderscheid in de verschillende inkomensbestanddelen is gebaseerd op [artikel 25, vierde, vijfde, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25). Het uitstel wordt per bestanddeel bij voor bezwaar vatbare beschikking verleend.
-
-Er kan een conserverende belastingaanslag opgelegd worden die betrekking heeft op meerdere te conserveren inkomensbestanddelen. Als voor al deze of voor enkele bestanddelen uitstel van betaling wordt verzocht, dan verleent de ontvanger uitstel rechtevenredig aan het aandeel van het betreffende inkomensbestanddeel in de grondslag van de geconserveerde belasting.
-
-In de gevallen waarin de ontvanger zekerheid eist alvorens uitstel van betaling te verlenen, moet de hoogte van de zekerheidstelling steeds gelijk zijn aan de actuele waarde van de fiscale claim.
-
-Als een voorlopige conserverende aanslag wordt gevolgd door een conserverende aanslag, dan stelt de ontvanger de belastingschuldige schriftelijk in kennis van het feit dat het verleende uitstel voor de betaling van de voorlopige conserverende aanslag, de zekerheid die in verband hiermee is gesteld, alsmede eventueel gedane betalingen, worden toegerekend aan de conserverende aanslag.
-
-### 74.5a. Rente en uitstel op basis van [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Bij uitstel van betaling op grond van [artikel 25, negende, veertiende of zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) is artikel 25.1.4 van deze leidraad van toepassing. Dit houdt in dat het verleende uitstel onder meer wordt beëindigd als er een situatie is ontstaan zoals omschreven in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15) en de ontvanger van oordeel is dat de verhaalbaarheid van de belastingschuld waarvoor uitstel is verleend, ernstig in gevaar komt.
-
-### 74.1.6. Voorlopige conserverende aanslag gevolgd door conserverende aanslag
-
-Als een voorlopige conserverende aanslag wordt gevolgd door een conserverende aanslag, dan stelt de ontvanger de belastingschuldige schriftelijk in kennis van het feit dat het verleende uitstel voor de betaling van de voorlopige conserverende aanslag, de zekerheid die in verband hiermee is gesteld, alsmede eventueel gedane betalingen, worden toegerekend aan de conserverende aanslag.
+Als uitstel van betaling is verleend voor een conserverende belastingaanslag, dan wordt dat uitstel niet beëindigd als zich een omstandigheid voordoet als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10).
 
 ### 74.1.6. Voorlopige conserverende aanslag gevolgd door conserverende aanslag
 
@@ -3580,19 +3580,25 @@ Als een voorlopige conserverende aanslag wordt gevolgd door een conserverende aa
 
 ### 74.2.1. Zekerheid en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
+Voor zover de conserverende aanslag meer bedraagt dan de voorlopige conserverende aanslag verleent de ontvanger uitstel van betaling voor het bedrag dat de voorlopige conserverende aanslag te boven gaat, met inachtneming van de bepalingen die gelden voor die conserverende aanslag.
+
+In dit verband wordt gewezen op [artikel 64, eerste lid, aanhef en onderdeel a., van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=64) dat een zodanige verpanding voor pensioenen mogelijk maakt. Overigens geldt dat verpanding van het pensioenkapitaal in het kader van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geen handeling is die tot invordering van de conserverende belastingaanslag leidt.
+
+### 74.2.1. Zekerheid en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+
 Naast de normale vormen van zekerheid, kan zekerheidstelling ook plaatsvinden door verpanding van het pensioenkapitaal aan de Belastingdienst, mits de buitenlandse verzekeraar instemt met die verpanding.
 
 In dit verband wordt gewezen op [artikel 64, eerste lid, aanhef en onderdeel a., van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=64) dat een zodanige verpanding voor pensioenen mogelijk maakt. Overigens geldt dat verpanding van het pensioenkapitaal in het kader van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geen handeling is die tot invordering van de conserverende belastingaanslag leidt.
 
-### 74.4. Nadere voorwaarden voor voortzetting uitstel op basis van [artikel 25, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+In aanvulling op [artikel 1e, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1e) kan zekerheidstelling door de belastingschuldige achterwege blijven, als er sprake is van emigratie én waardeoverdracht van kapitaal aan een buitenlandse, niet in een EU-lidstaat gevestigde, aangewezen verzekeraar of pensioenfonds, welke zich heeft verplicht tot het verschaffen van inlichtingen en tot het stellen van zekerheid.
 
-In dit verband wordt gewezen op [artikel 64, eerste lid, aanhef en onderdeel a., van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=64) dat een zodanige verpanding voor pensioenen mogelijk maakt. Overigens geldt dat verpanding van het pensioenkapitaal in het kader van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geen handeling is die tot invordering van de conserverende belastingaanslag leidt.
+### 74.2.2. Verscheidene contracten en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Als een conserverende aanslag is opgelegd die betrekking heeft op meer dan één lijfrentecontract of pensioenregeling en vervolgens worden één of meer van die contracten of regelingen op niet-reguliere wijze afgewikkeld, dan moet het uitstel daarvoor worden ingetrokken en wordt het uitstel gecontinueerd voor de overige contracten en regelingen. De hierbij noodzakelijke toerekening van het uitstel vindt opnieuw naar evenredigheid plaats.
 
-De uitsteltermijn voor een conserverende aanslag als bedoeld in [artikel 25, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) vangt aan vanaf de dag na de vervaldag van de voor die aanslag geldende enige of laatste betalingstermijn.
+### 74.2.3. Remigratie en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 74.9. Uitstel en de Regeling beëindiging veehouderijtakken
+Als aan een belastingschuldige een conserverende belastingaanslag is opgelegd en deze remigreert binnen tien jaar nadat de ontvanger uitstel van betaling heeft verleend op de voet van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), gaat de ontvanger niet op basis van die conserverende belastingaanslag over tot invordering, als zich na datum van remigratie een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 De inspecteur zal dan een (nieuwe) belastingaanslag opleggen naar aanleiding van die omstandigheden.
 
@@ -3600,12 +3606,6 @@ De inspecteur zal dan een (nieuwe) belastingaanslag opleggen naar aanleiding van
 
 De uitsteltermijn voor een conserverende aanslag als bedoeld in [artikel 25, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) vangt aan vanaf de dag na de vervaldag van de voor die aanslag geldende enige of laatste betalingstermijn.
 
-Het uitstel eindigt als één van de volgende omstandigheden zich voordoet:
-
-### 74.4. Nadere voorwaarden voor voortzetting uitstel op basis van [artikel 25, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Nadere voorwaarden voor voortzetting van het uitstel na vervreemding in buitenlandsituaties. Het uitstel als bedoeld in het [vierde, vijfde en zesde lid, van artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=2) zal slechts worden voortgezet als de belastingschuldige instemt met door de ontvanger nader te stellen voorwaarden:
-
 ### 74.5. Rente en uitstel op basis van [artikel 25, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd bij vervreemding van tot een aanmerkelijk belang behorende aandelen of winstbewijzen, is over die betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
@@ -3613,54 +3613,60 @@ Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd 
 ### 74.5. Rente en uitstel op basis van [artikel 25, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd bij vervreemding van tot een aanmerkelijk belang behorende aandelen of winstbewijzen, is over die betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
+
+Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd bij vervreemding van tot een aanmerkelijk belang behorende aandelen of winstbewijzen, is over die betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
+
+Invorderingsrente wordt dan berekend vanaf het tijdstip waarop de desbetreffende termijnen zijn verschenen tot het moment van de feitelijke voldoening. Als het recht op uitstel geheel of ten dele is vervallen, wordt invorderingsrente berekend vanaf het moment dat de rechtvaardigingsgrond voor het uitstel niet langer bestaat.
+
+Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd ter zake van inkomen uit aanmerkelijk belang in verband met de indirecte overdracht (de houdstermaatschappij van de aandelen in de werkmaatschappij draagt de aandelen over) van de aandelen in een vennootschap van tot een aanmerkelijk belang behorende aandelen of winstbewijzen tegen een lagere prijs dan de waarde in economische verkeer, derhalve een gift, is over de betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
 
 Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd ter zake van inkomen uit aanmerkelijk belang in verband met de indirecte overdracht (de houdstermaatschappij van de aandelen in de werkmaatschappij draagt de aandelen over) van de aandelen in een vennootschap van tot een aanmerkelijk belang behorende aandelen of winstbewijzen tegen een lagere prijs dan de waarde in economische verkeer, derhalve een gift, is over de betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
 
 Invorderingsrente wordt dan berekend vanaf het tijdstip waarop de desbetreffende termijnen zijn verschenen tot het moment van de feitelijke voldoening. Invorderingsrente is tevens verschuldigd vanaf het tijdstip waarop de wettelijke aanspraak op uitstel van betaling is vervallen omdat niet (meer) aan de daartoe gestelde voorwaarden wordt voldaan.
 
-Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd ter zake van inkomen uit aanmerkelijk belang in verband met de indirecte overdracht (de houdstermaatschappij van de aandelen in de werkmaatschappij draagt de aandelen over) van de aandelen in een vennootschap van tot een aanmerkelijk belang behorende aandelen of winstbewijzen tegen een lagere prijs dan de waarde in economische verkeer, derhalve een gift, is over de betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
+De ontvanger verleent uitsluitend uitstel van betaling als de belastingschuldige daartoe een schriftelijk verzoek heeft ingediend. Het indienen van een aangiftebiljet voor het recht van successie (erfbelasting) waarin een beroep wordt gedaan op de uitstelfaciliteiten bedoeld in [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt als een zodanig verzoek aangemerkt.
 
 De ontvanger verleent uitsluitend uitstel van betaling als de belastingschuldige daartoe een schriftelijk verzoek heeft ingediend. Het indienen van een aangiftebiljet voor het recht van successie (erfbelasting) waarin een beroep wordt gedaan op de uitstelfaciliteiten bedoeld in [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt als een zodanig verzoek aangemerkt.
 
-Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Wordt de zaak vervreemd of vinden aflossingen plaats, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
+### 74.6.1. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](onbekend)
 
-De ontvanger verleent uitsluitend uitstel van betaling als de belastingschuldige daartoe een schriftelijk verzoek heeft ingediend. Het indienen van een aangiftebiljet voor het recht van successie (erfbelasting) waarin een beroep wordt gedaan op de uitstelfaciliteiten bedoeld in [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt als een zodanig verzoek aangemerkt.
+Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd bij vervreemding van tot een aanmerkelijk belang behorende aandelen of winstbewijzen, is over die betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
 
-Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Voor zover de woning ophoudt een eigen woning te zijn dan wel aflossingen plaatsvinden, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
-
-### 74.7.1. Uitgangspunt betalingsregeling
-
-Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Wordt de zaak vervreemd of vinden aflossingen plaats, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
-
-### 74.8. Uitstel op basis van [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.7. Beoordeling verzoek om uitstel en [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Voor zover de woning ophoudt een eigen woning te zijn dan wel aflossingen plaatsvinden, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
 
 ### 74.8. Uitstel op basis van [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
+Invorderingsrente wordt dan berekend vanaf het tijdstip waarop de desbetreffende termijnen zijn verschenen tot het moment van de feitelijke voldoening. Invorderingsrente is tevens verschuldigd vanaf het tijdstip waarop de wettelijke aanspraak op uitstel van betaling is vervallen omdat niet (meer) aan de daartoe gestelde voorwaarden wordt voldaan.
+
 Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Voor zover de woning ophoudt een eigen woning te zijn dan wel aflossingen plaatsvinden, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
 
-Op de uitstelregeling voor de belastingschuldige die op grond van de Regeling beëindiging veehouderijtakken zijn onderneming staakt, is het beleid opgenomen in deze leidraad zoals dat geldt voor de uitstelregeling ingevolge [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) van overeenkomstige toepassing, tenzij daarvan uitdrukkelijk in deze leidraad wordt afgeweken.
-
-De uitstelregeling is opgenomen in [artikel XIVa van de Wet ondernemerspakket 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XIVa). De mogelijkheid tot uitstel op grond hiervan geldt voor veehouders die hun onderneming hebben gestaakt ná 19 maart 2000 en vóór 1 januari 2001.
+Bij de beoordeling van het direct af te lossen bedrag en van de vermogensbestanddelen van de belastingschuldige wordt gehandeld in overeenstemming met het reguliere uitstelbeleid.
 
 Op de uitstelregeling voor de belastingschuldige die op grond van de Regeling beëindiging veehouderijtakken zijn onderneming staakt, is het beleid opgenomen in deze leidraad zoals dat geldt voor de uitstelregeling ingevolge [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) van overeenkomstige toepassing, tenzij daarvan uitdrukkelijk in deze leidraad wordt afgeweken.
 
-Voor het verlenen van uitstel van betaling op grond van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt geen zekerheid verlangd.
+Op de uitstelregeling voor de belastingschuldige die op grond van de Regeling beëindiging veehouderijtakken zijn onderneming staakt, is het beleid opgenomen in deze leidraad zoals dat geldt voor de uitstelregeling ingevolge [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) van overeenkomstige toepassing, tenzij daarvan uitdrukkelijk in deze leidraad wordt afgeweken.
 
-### 74.10. Uitstel op basis van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.7. Beoordeling verzoek om uitstel en [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Voor het verlenen van uitstel van betaling op grond van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt geen zekerheid verlangd.
 
 ### 75.2. Aan derden toekomende bedragen
 
-Naast de gevallen genoemd in [artikel 25, negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), beëindigt de ontvanger het uitstel als de onderneming na de overdracht wederom is gestaakt en de overnemer als gevolg daarvan voldoende liquide middelen heeft verkregen om de verschuldigde overdrachtsprijs te kunnen voldoen.
+Als het recht op uitstel is vervallen, wordt invorderingsrente berekend over het tijdvak dat aanvangt op de dag na de dag waarop het uitstel is geëindigd tot het moment van betaling.
+
+Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Voor zover de woning ophoudt een eigen woning te zijn dan wel aflossingen plaatsvinden, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
+
+Het uitstel wordt verleend voor de aflossingsperiode die is overeengekomen tussen de overdrager en de overnemer. Als geen aflossingsperiode is overeengekomen, of als de aflossingsperiode meer bedraagt meer tien kalenderjaren, dan eindigt de uitstelperiode bij het begin van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft.
+
+### 74.9. Uitstel en de Regeling beëindiging veehouderijtakken
 
 Als het recht op uitstel is vervallen, wordt invorderingsrente berekend over het tijdvak dat aanvangt op de dag volgend op de dag waarop het uitstel is geëindigd tot het moment van betaling.
 
-Naast de gevallen genoemd in [artikel 25, negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), beëindigt de ontvanger het uitstel als de onderneming na de overdracht wederom is gestaakt en de overnemer als gevolg daarvan voldoende liquide middelen heeft verkregen om de verschuldigde overdrachtsprijs te kunnen voldoen.
+De uitstelregeling is opgenomen in [artikel XIVa van de Wet ondernemerspakket 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XIVa). De mogelijkheid tot uitstel op grond hiervan geldt voor veehouders die hun onderneming hebben gestaakt ná 19 maart 2000 en vóór 1 januari 2001.
 
-### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
+### 74.10. Uitstel op basis van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 Hieronder vallen ook de kosten die verbonden zijn aan de werkzaamheden die de belastingdeurwaarder verricht voor de invordering op civiele wijze.
 
@@ -3670,31 +3676,31 @@ In dit artikel is het volgende beleid over kosten van vervolging opgenomen:
 
 De gevorderde som bij een aanmaning of dwangbevel (waarvan onderscheidenlijk sprake is in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2) en [artikel 3, eerste lid, van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3)) is te verstaan als het belastingbedrag waarvoor de aanmaning of het dwangbevel is uitgevaardigd, dus zonder de vervolgingskosten en eventuele – pro memorie opgenomen – rente.
 
-Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, handelt de ontvanger overeenkomstig de voorschriften van het [Besluit beroep in belastingzaken 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018379).
+Naast de gevallen genoemd in [artikel 25, negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), beëindigt de ontvanger het uitstel als de onderneming na de overdracht wederom is gestaakt en de overnemer als gevolg daarvan voldoende liquide middelen heeft verkregen om de verschuldigde overdrachtsprijs te kunnen voldoen.
 
-### 75.5. Niet in rekening brengen van vervolgingskosten
+### 75.4. Verzoek om vermindering vervolgingskosten aanmerken als bezwaar
 
 Om redenen van beleid worden de laatstgenoemde kosten enkel in rekening gebracht als de verkoop op uitdrukkelijk verzoek van de belastingschuldige elders gebeurt dan wel als daarbij voornamelijk zijn belang is gediend. Eventuele gemaakte reiskosten door de Belastingdienst voor de betekening en de tenuitvoerlegging van het dwangbevel kunnen niet op de belastingschuldige worden verhaald, evenals mogelijke porti- en telefoonkosten.
 
-Onder de bedragen die op grond van [artikel 6 van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=6) aan de belastingschuldige in rekening worden gebracht, vallen:
+Dit artikel beschrijft het beleid bij het in rekening brengen van kosten van vervolging. Met ‘vervolgingskosten of kosten’ wordt bedoeld de kosten die op grond van de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) (Kostenwet) in rekening worden gebracht.
 
-### 75.4. Verzoek om vermindering vervolgingskosten aanmerken als bezwaar
+### 76.1. Algemene uitgangspunten
 
 De ontvanger kan zich beperken tot de stukken die in de procedure over de toepassing van de Kostenwet relevant zijn.
 
 Indiening van een bezwaarschrift of beroepschrift (in hoger beroep) stuit op grond van [artikel 6:16 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:16) niet de aanvang of de voortzetting van de tenuitvoerlegging van de akte van vervolging.
 
-### 76.1. Algemene uitgangspunten
+Als om uitstel van betaling wordt verzocht, is het beleid dat is verwoord in artikel 25.1 en 25.2 van deze leidraad van overeenkomstige toepassing.
 
-Indiening van een bezwaarschrift of beroepschrift (in hoger beroep) stuit op grond van [artikel 6:16 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:16) niet de aanvang of de voortzetting van de tenuitvoerlegging van de akte van vervolging.
+### 75.4. Verzoek om vermindering vervolgingskosten aanmerken als bezwaar
 
 Een verzoek van de belastingschuldige tot vermindering van de in rekening gebrachte kosten wordt aangemerkt als een bezwaarschrift. Het bepaalde in artikel 75.3 van deze leidraad is van overeenkomstige toepassing.
 
-Op grond van de bepalingen in de diverse nationale wetten is de douane-ontvanger ook belast met de invordering voor de ter zake van de invoer verschuldigde omzetbelasting, accijnzen en verbruiksbelastingen, alsmede voor de bestuurlijke boeten, de compenserende rente en de kosten van ambtelijke werkzaamheden. Voor de uitvoering van zijn werkzaamheden gelden voor de douane-ontvanger in beginsel de bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en van deze leidraad.
+Om redenen van beleid worden de laatstgenoemde kosten enkel in rekening gebracht als de verkoop op uitdrukkelijk verzoek van de belastingschuldige elders gebeurt dan wel als daarbij voornamelijk zijn belang is gediend. Eventuele gemaakte reiskosten door de Belastingdienst voor de betekening en de tenuitvoerlegging van het dwangbevel kunnen niet op de belastingschuldige worden verhaald, evenals mogelijke porti- en telefoonkosten.
 
-### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
+### 75.3. Rechtsmiddelen en vervolgingskosten
 
-Van zo’n situatie kan sprake zijn als de belastingschuldige aantoont in omstandigheden te hebben verkeerd die het hem feitelijk onmogelijk maakten zijn verplichtingen tijdig na te komen en bovendien de invordering van vervolgingskosten – gezien de omstandigheden van het specifieke geval – onredelijk en onbillijk is.
+Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, handelt de ontvanger overeenkomstig de voorschriften van het [Besluit beroep in belastingzaken 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018379).
 
 Naast de gevallen waarin ten aanzien van de kostenberekening rekenfouten zijn gemaakt dan wel een onjuist tarief is gehanteerd, zijn kosten niet verschuldigd in de volgende gevallen:
 
@@ -3708,17 +3714,17 @@ Van zo’n situatie kan sprake zijn als de belastingschuldige aantoont in omstan
 
 Als invorderingsmaatregelen worden getroffen met inachtneming van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), vermeldt de belastingdeurwaarder in de akte van betekening bij het dwangbevel dat de in verband met die maatregelen berekende vervolgingskosten niet verschuldigd zijn als de openstaande belastingschuld binnen twee werkdagen na uitreiking van het aanslagbiljet wordt betaald. De vorige volzin is van overeenkomstige toepassing op de beslagkosten.
 
-Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2011-07-01&g=2012-01-01) van deze leidraad.
+In de volgende gevallen brengt de ontvanger voor het uitbrengen van exploten geen vervolgingskosten in rekening:
 
-### 75.11. Limitering betekeningskosten dwangbevel
+Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2012-02-21&g=2012-07-01) van overeenkomstige toepassing.
 
-Als op dezelfde dag aan een belastingschuldige meerdere ten name van die belastingschuldige gestelde dwangbevelen worden betekend en de betekeningskosten in totaal meer zouden bedragen dan € 11.246, zijn niet meer betekeningskosten verschuldigd dan € 11.246.
-
-Kwijtschelding van vervolgingskosten is niet mogelijk wegens vermeende betalingsonmacht. De ontvanger doet in dat geval ook geen toezegging dat deze kosten niet zullen worden ingevorderd.
-
-Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2012-02-21&g=2012-02-21) van deze leidraad.
+Naast de gevallen waarin ten aanzien van de kostenberekening rekenfouten zijn gemaakt dan wel een onjuist tarief is gehanteerd, zijn kosten niet verschuldigd in de volgende gevallen:
 
 Kwijtschelding van vervolgingskosten is niet mogelijk wegens vermeende betalingsonmacht. De ontvanger doet in dat geval ook geen toezegging dat deze kosten niet zullen worden ingevorderd.
+
+### Artikel 76. Douane en invordering
+
+Van zo’n situatie kan sprake zijn als de belastingschuldige aantoont in omstandigheden te hebben verkeerd die het hem feitelijk onmogelijk maakten zijn verplichtingen tijdig na te komen en bovendien de invordering van vervolgingskosten – gezien de omstandigheden van het specifieke geval – onredelijk en onbillijk is.
 
 Als op dezelfde dag aan een belastingschuldige meerdere ten name van die belastingschuldige gestelde dwangbevelen worden betekend en de betekeningskosten in totaal meer zouden bedragen dan € 11.246, zijn niet meer betekeningskosten verschuldigd dan € 11.246.
 
@@ -3726,49 +3732,43 @@ Als op dezelfde dag aan een belastingschuldige meerdere ten name van die belasti
 
 In dit artikel over de Douane en invordering is het volgende beleid opgenomen:
 
-De bevoegdheid tot invordering door de ontvanger van de douane-onderdelen van de organisatie van de Belastingdienst (hierna: de douane-ontvanger) vloeit voort uit artikel 4, punt 3 CDW en [artikel 1:3 Adw](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegdheid van de douane-ontvanger strekt zich uit tot onder meer de douanerechten, de landbouwheffingen en de anti-dumpingheffingen.
+### 76.1. Algemene uitgangspunten
 
-### 77.6. De aantekening ‘katvanger’
+### 75.10. Geen kwijtschelding van vervolgingskosten
 
 De wettelijke bepalingen die gelden voor de rechten bij in- en uitvoer zijn in beginsel ook van toepassing op de omzetbelasting ex [artikel 22 Wet op de Omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=22), de accijnzen en de verbruiksbelastingen die bij invoer verschuldigd worden. Het CDW is dan ook voor deze nationale middelen medebepalend voor het onder de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te voeren invorderingsbeleid.
 
-### 77.5. Verplichtingensignaal in relatie tot WSNP
+### 77.6. De aantekening ‘katvanger’
 
-### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
+De bevoegdheid tot invordering door de ontvanger van de douane-onderdelen van de organisatie van de Belastingdienst (hierna: de douane-ontvanger) vloeit voort uit artikel 4, punt 3 CDW en [artikel 1:3 Adw](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegdheid van de douane-ontvanger strekt zich uit tot onder meer de douanerechten, de landbouwheffingen en de anti-dumpingheffingen.
 
 Op grond van de bepalingen in de diverse nationale wetten is de douane-ontvanger ook belast met de invordering voor de ter zake van de invoer verschuldigde omzetbelasting, accijnzen en verbruiksbelastingen, alsmede voor de bestuurlijke boeten, de compenserende rente en de kosten van ambtelijke werkzaamheden. Voor de uitvoering van zijn werkzaamheden gelden voor de douane-ontvanger in beginsel de bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en van deze leidraad.
 
-### 77.6. De aantekening ‘katvanger’
+### Artikel 76. Douane en invordering
 
 [Artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) is van toepassing op belastingaanslagen bij invoer, met name belastingaanslagen omzetbelasting.
 
-[Artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43) is van toepassing op de omzetbelasting bij invoer.
+### 76.1. Algemene uitgangspunten
 
-### 76.2. Aanspreken borg op basis van een vergunning
+De invordering van de eigen middelen voor de Europese Unie (rechten bij in- en uitvoer) vindt voor een belangrijk deel plaats met toepassing van verordeningen. Met name het CDW en de Toepassingsverordening CDW (beide aangeduid als CDW) zijn in dit verband van belang. De invordering vindt plaats op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), maar als de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) strijdig is met het CDW geldt hetgeen in het CDW is bepaald.
 
 Als de belastingschuldige in gebreke is te betalen en er geen uitzicht is op spoedige betaling of verhaal zal de ontvanger de borg aanspreken. Het aanspreken van de borg vindt pas plaats nadat de totale omvang van de verschuldigde belasting is vastgesteld en deze schuld onherroepelijk vast staat. Het aanspreken van de borg vindt zoveel mogelijk in één keer plaats.
 
-### 76.3. Invorderingsrente vergoeden
+In alle gevallen houdt de ontvanger rekening met hetgeen in het CDW is bepaald over bezwaar en beroep: elke beslissing moet in de vorm van een beschikking worden genomen en tegen elke beschikking moet beroep mogelijk zijn. Dit betekent dus dat ook bij de invordering tegen elke beslissing beroep mogelijk is.
 
 Als tot terugbetaling van rechten bij invoer of van rechten bij uitvoer wordt overgegaan op grond van de artikelen 236, 237 of 238 van het CDW, omdat het oorspronkelijk op de uitnodiging tot betaling betaalde bedrag niet wettelijk verschuldigd is, wordt invorderingsrente vergoed. Deze rente wordt vergoed over ten hoogste het bedrag dat op de oorspronkelijke uitnodiging tot betaling is voldaan.
 
-Als sprake is van een in het buitenland gevestigde schuldenaar waarvan bekend is dat in het buitenland zekerheid is gesteld voor communautair/gemeenschappelijk douanevervoer, dan vraagt de ontvanger bij het verzoek om bijstand bij de invordering ook om zo nodig de borg uit te winnen.
+Op grond van de bepalingen in de diverse nationale wetten is de douane-ontvanger ook belast met de invordering voor de ter zake van de invoer verschuldigde omzetbelasting, accijnzen en verbruiksbelastingen, alsmede voor de bestuurlijke boeten, de compenserende rente en de kosten van ambtelijke werkzaamheden. Voor de uitvoering van zijn werkzaamheden gelden voor de douane-ontvanger in beginsel de bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en van deze leidraad.
 
-De ontvanger kan een zekerheid uitwinnen als de schuldenaar niet aan een uitnodiging tot betaling voldoet. Als de ontvanger de schuldenaar een betalingsregeling verleent, wint de ontvanger de zekerheid niet uit zolang de schuldenaar aan deze regeling voldoet.
+### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
 
 Als de inspecteur wegens onregelmatigheden ook een derde als medeschuldenaar uitnodigt tot betaling, zal de ontvanger eerst dwanginvordering toepassen ten aanzien van degene die de onregelmatigheden heeft begaan, voordat hij de borg aanspreekt. Bij aangifte op eigen naam voor rekening van een derde (bijvoorbeeld de importeur) probeert de ontvanger eerst betaling van deze derde te verkrijgen voordat hij de borg aanspreekt.
 
 Als zekerheid is gesteld op grond van communautaire bepalingen of van de [Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632) moet de zekerheid worden uitgewonnen door het organisatieonderdeel van de Belastingdienst waar de zekerheid is gesteld. Als bij het verlenen van uitstel van betaling als voorwaarde een afzonderlijke zekerheid is gesteld voor belastingen bij invoer, dan moet deze worden uitgewonnen door de ontvanger die het uitstel heeft verleend.
 
-### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
+### 76.2. Aanspreken borg op basis van een vergunning
 
 Als het bedrag van een vordering zo laag is dat dit niet voor verdragsinvordering in aanmerking komt, schrijft de ontvanger bij uitblijven van de betaling na betekening van het dwangbevel de borg aan met het verzoek het verschuldigde bedrag te voldoen.
-
-Als sprake is van een in het buitenland gevestigde schuldenaar waarvan bekend is dat in het buitenland zekerheid is gesteld voor communautair/gemeenschappelijk douanevervoer, dan vraagt de ontvanger bij het verzoek om bijstand bij de invordering ook om zo nodig de borg uit te winnen.
-
-### 78.3. Geen verdere invorderingsmaatregelen treffen
-
-Voor toepassing van het verplichtingensignaal tellen echter de volgende aanslagen motorrijtuigenbelasting niet mee:
 
 Met inachtneming van artikel 198 CDW kan versnelde invordering plaatsvinden als aanvulling of vervanging van de gestelde zekerheid niet tijdig is verricht.
 
@@ -3776,53 +3776,59 @@ Met inachtneming van artikel 198 CDW kan versnelde invordering plaatsvinden als 
 
 Tegen deze beschikking is beroep mogelijk in de zin van artikel 243 CDW.
 
-De termijn waarbinnen aan die eis moet zijn voldaan, is vier weken na de dagtekening van het verzoek tot aanvulling of vervanging.
+Met inachtneming van artikel 198 CDW kan versnelde invordering plaatsvinden als aanvulling of vervanging van de gestelde zekerheid niet tijdig is verricht.
 
-Het verplichtingensignaal is een signalering in het kentekenregister van de RDW/Centrum voor voertuigtechniek en informatie. Het verplichtingensignaal wordt in het kentekenregister aangebracht als een belastingschuldige achterstand in de betaling van motorrijtuigenbelasting heeft, terwijl invordering niet op andere wijze mogelijk is gebleken. Na signalering kan de belastingschuldige geen kenteken meer op zijn naam zetten.
+De termijn waarbinnen aan die eis moet zijn voldaan, is vier weken na de dagtekening van het verzoek tot aanvulling of vervanging.
 
 ### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
 
-Het verplichtingensignaal is een signalering in het kentekenregister van de RDW/Centrum voor voertuigtechniek en informatie. Het verplichtingensignaal wordt in het kentekenregister aangebracht als een belastingschuldige achterstand in de betaling van motorrijtuigenbelasting heeft, terwijl invordering niet op andere wijze mogelijk is gebleken. Na signalering kan de belastingschuldige geen kenteken meer op zijn naam zetten.
+Als sprake is van een in het buitenland gevestigde schuldenaar waarvan bekend is dat in het buitenland zekerheid is gesteld voor communautair/gemeenschappelijk douanevervoer, dan vraagt de ontvanger bij het verzoek om bijstand bij de invordering ook om zo nodig de borg uit te winnen.
 
 ### 78.5. Overige internationale invordering
 
+Het volgende beleid is in dit artikel opgenomen:
+
+De bescheiden die betrekking hebben op de invordering van invoerrecht, landbouwheffingen en andere communautaire heffingen, worden gedurende minimaal vier jaar na afdoening bewaard.
+
+### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
+
 Voor toepassing van het verplichtingensignaal tellen echter de volgende aanslagen motorrijtuigenbelasting niet mee:
 
-Toepassing van het verplichtingensignaal kan plaatsvinden als een belastingschuldige tenminste vijf aanslagen motorrijtuigenbelasting die onherroepelijk vaststaan, onbetaald heeft gelaten. Het is niet noodzakelijk dat de betreffende aanslagen betrekking hebben op aaneensluitende tijdvakken of op hetzelfde voertuig.
-
-### 79.1. De betalingsherinnering en toeslagschuld
-
-In die brief deelt de ontvanger mee dat de belastingschuldige signalering kan voorkomen door alsnog de motorrijtuigenbelasting binnen veertien dagen te voldoen.
-
-Voordat een signalering in het kentekenregister wordt aangebracht, zendt de ontvanger de belastingschuldige een waarschuwingsbrief.
+De termijn waarbinnen aan die eis moet zijn voldaan, is vier weken na de dagtekening van het verzoek tot aanvulling of vervanging.
 
 ### 79.2. Invordering toeslagschuld door middel van vordering
 
-De ontvanger stelt de belastingschuldige in kennis van het aanbrengen van het verplichtingensignaal. Een faillissement, wettelijke schuldsaneringsregeling of minnelijke schuldsaneringsregeling staat het aanbrengen van een verplichtingensignaal niet in de weg.
+In die brief deelt de ontvanger mee dat de belastingschuldige signalering kan voorkomen door alsnog de motorrijtuigenbelasting binnen veertien dagen te voldoen.
+
+Het verplichtingensignaal is een signalering in het kentekenregister van de RDW/Centrum voor voertuigtechniek en informatie. Het verplichtingensignaal wordt in het kentekenregister aangebracht als een belastingschuldige achterstand in de betaling van motorrijtuigenbelasting heeft, terwijl invordering niet op andere wijze mogelijk is gebleken. Na signalering kan de belastingschuldige geen kenteken meer op zijn naam zetten.
 
 Als na afloop van de termijn van veertien dagen na de waarschuwingsbrief geen betaling heeft plaatsgevonden, geeft de ontvanger de RDW opdracht om het verplichtingensignaal aan te brengen.
+
+De ontvanger stelt de belastingschuldige in kennis van het aanbrengen van het verplichtingensignaal. Een faillissement, wettelijke schuldsaneringsregeling of minnelijke schuldsaneringsregeling staat het aanbrengen van een verplichtingensignaal niet in de weg.
+
+### 77.4. Verwijderen verplichtingensignaal
 
 De ontvanger geeft aan de RDW opdracht een aangebrachte signalering uit het register te verwijderen als alle aanslagen motorrijtuigenbelasting ten name van belastingschuldige zijn voldaan, met uitzondering van de aanslagen genoemd in artikel 77.1, onderdelen a tot en met e, van deze leidraad.
 
 De ontvanger zal het verplichtingensignaal opheffen als hem blijkt dat de aanslagen betaald zijn of het recht op invordering ervan is vervallen.
 
-### 78.4.1. Invordering betwiste schuld
+Het komt voor dat het voor het slagen van de schuldsaneringsprocedure van belang is dat de saniet de beschikking heeft over een motorrijtuig. Bijvoorbeeld voor het aanvaarden of behouden van betaald werk waarvoor het beschikken over een motorrijtuig redelijkerwijs vereist is. Voorzover het verplichtingensignaal het beschikken over een motorrijtuig verhindert, zal de ontvanger op gemotiveerd verzoek van de bewindvoerder het verplichtingensignaal doen verwijderen. Voorwaarde daarbij is dat de bewindvoerder verklaart dat hij zal toezien op het stipt nakomen van de fiscale verplichtingen in verband met het motorrijtuig.
 
 De ontvanger stelt de belastingschuldige in kennis van het beëindigen van het verplichtingensignaal.
 
-Het komt voor dat het voor het slagen van de schuldsaneringsprocedure van belang is dat de saniet de beschikking heeft over een motorrijtuig. Bijvoorbeeld voor het aanvaarden of behouden van betaald werk waarvoor het beschikken over een motorrijtuig redelijkerwijs vereist is. Voorzover het verplichtingensignaal het beschikken over een motorrijtuig verhindert, zal de ontvanger op gemotiveerd verzoek van de bewindvoerder het verplichtingensignaal doen verwijderen. Voorwaarde daarbij is dat de bewindvoerder verklaart dat hij zal toezien op het stipt nakomen van de fiscale verplichtingen in verband met het motorrijtuig.
-
 Gedurende de WSNP wordt voor wat betreft het verplichtingensignaal gehandeld als ware er niet sprake van een WSNP. Als het verplichtingensignaal is aangebracht en daarna volgt WSNP, blijft het verplichtingensignaal gehandhaafd.
 
-Aanslagen waarvoor de schone lei is verleend, tellen niet mee voor de vraag of een verplichtingensignaal moet worden aangebracht. Na beëindiging van de WSNP door het verlenen van de schone lei, geldt de datum van die beëindiging als het begin waarop de telling van de aanslagen motorrijtuigenbelasting – voor de vraag of een verplichtingensignaal al dan niet moet worden aangebracht – (opnieuw) een aanvang neemt.
-
 Gedurende de WSNP wordt voor wat betreft het verplichtingensignaal gehandeld als ware er niet sprake van een WSNP. Als het verplichtingensignaal is aangebracht en daarna volgt WSNP, blijft het verplichtingensignaal gehandhaafd.
-
-Het verplichtingensignaal dat wordt aangebracht voor belastingschuldigen van wie uit onderzoek is gebleken dat een motorrijtuig waarvan hij kentekenhouder is, hem niet toebehoort, voorziet de ontvanger van de aantekening ‘katvanger’.
 
 ### 77.6. De aantekening ‘katvanger’
 
 Het verplichtingensignaal dat wordt aangebracht voor belastingschuldigen van wie uit onderzoek is gebleken dat een motorrijtuig waarvan hij kentekenhouder is, hem niet toebehoort, voorziet de ontvanger van de aantekening ‘katvanger’.
+
+Het verplichtingensignaal dat wordt aangebracht voor belastingschuldigen van wie uit onderzoek is gebleken dat een motorrijtuig waarvan hij kentekenhouder is, hem niet toebehoort, voorziet de ontvanger van de aantekening ‘katvanger’.
+
+Bij katvangers gelden niet de uitzonderingsbepalingen artikel 77.1, onderdelen a tot en met e, van deze leidraad en blijft het versturen van een waarschuwingsbrief achterwege.
+
+### Artikel 78. Internationale invordering
 
 De internationale invordering betreft alle maatregelen die in het buitenland kunnen worden getroffen om belasting en overige schuldvorderingen in te vorderen en op alle maatregelen die op verzoek van een andere staat in Nederland genomen kunnen worden om een buitenlandse schuld in te vorderen.
 
@@ -3834,19 +3840,13 @@ Een verzoek om bijstand bij de invordering in een andere staat wordt in beginsel
 
 Bijstand bij de invordering wordt door de ontvanger verzocht voor belastingaanslagen die onherroepelijk vaststaan, geheel invorderbaar zijn en waarvoor een dwangbevel voor de gehele schuld is uitgevaardigd en betekend. Het mag daarbij ook gaan om een ambtshalve belastingaanslag, waarvan het vermoeden gerechtvaardigd is dat deze gedeeltelijk materieel verschuldigd is. Voor aanslagen die niet onbetwist of onherroepelijk vaststaan kan de ontvanger ook een verzoek om bijstand bij de invordering doen als hij zekerheidsmaatregelen noodzakelijk acht.
 
-### 78.4.1. Invordering betwiste schuld
+### 78.2. Overleg met het ministerie
 
 Het komt voor dat bijstand kan worden gevraagd aan een bepaalde staat op grond van verschillende internationale regelingen. Het is dan mogelijk dat de ene regeling een ruimere wederzijdse bijstand toestaat dan de andere. In dat geval kan het verzoek worden gebaseerd op de regeling die de ruimste mogelijkheden biedt.
 
-Bijstand bij de invordering is ook mogelijk met betrekking tot aansprake-lijkgestelden.
+### Artikel 78. Internationale invordering
 
-### 78.2. Overleg met het ministerie
-
-Verzoeken waarvan de voldoening kan leiden tot aantasting van de openbare orde of andere wezenlijke belangen van de staat dan wel invloed kunnen hebben op het gevoerde beleid worden voorgelegd aan het ministerie.
-
-### 78.2. Overleg met het ministerie
-
-Verzoeken waarvan de voldoening kan leiden tot aantasting van de openbare orde of andere wezenlijke belangen van de staat dan wel invloed kunnen hebben op het gevoerde beleid worden voorgelegd aan het ministerie.
+De internationale invordering betreft alle maatregelen die in het buitenland kunnen worden getroffen om belasting en overige schuldvorderingen in te vorderen en op alle maatregelen die op verzoek van een andere staat in Nederland genomen kunnen worden om een buitenlandse schuld in te vorderen.
 
 In 1.2. is het beleid over het toepassingsgebied van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) opgenomen in aansluiting op [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=1).
 
@@ -4280,7 +4280,7 @@ Als de belastingschuldige er uitdrukkelijk om verzoekt of als de ontvanger dit w
 
 ### 14.2.18. Afboeking executieopbrengst verkoop roerende zaken
 
-De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2012-02-21&g=2012-02-21) van deze leidraad.
+De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2012-02-21&g=2012-07-01) van deze leidraad.
 
 ### 14.2.19. Proces-verbaal van verkoop roerende zaken
 
@@ -5216,7 +5216,7 @@ Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, hand
 
 ### 30.4. Teruggenomen betalingskorting en invorderingsrente: uitstel van betaling
 
-Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-02-21) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
+Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2012-02-21&g=2012-07-01) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
 
 ### 30.5. Geen bezwaar mogelijk tegen de niet verleende betalingskorting
 
@@ -5296,23 +5296,27 @@ De vraag of sprake is van disculpatie – hetgeen de aansprakelijke inlener(s) a
 
 ### 34.7. Verklaring betalingsgedrag uitlener
 
+De inlener die inleent van een uitzendonderneming kan onder bepaalde voorwaarden disculpatie verkrijgen. Deze voorwaarden zijn:
+
+### 34.6.3. Overgangsregeling
+
 Op verzoek geeft de ontvanger een verklaring af over het betalingsgedrag van de uitlener. De verklaring betreft de geformaliseerde loonheffingen en omzetbelasting op het moment van afgifte van de verklaring. De verklaring biedt geen garantie dat de materieel verschuldigde loonheffingen en omzetbelasting ten volle zijn voldaan.
 
 ### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
 
-Op de procedure voor de afgifte van de verklaring alsmede op de inhoud ervan, is het bepaalde in artikel 35.12 van deze leidraad van overeenkomstige toepassing.
-
-### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
-
-In het geval van matiging wordt bij de brutering van het loon - althans voor zover het de loonbelasting en premie volksverzekeringen betreft - gebruik gemaakt van een marginaal percentage.
+Omdat de aansprakelijkheid in een aansprakelijkstelling op een later tijdstip wordt geconcretiseerd, moet ten tijde van de beschikking ex [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) worden vastgesteld in hoeverre het bedrag van de aansprakelijkheid – zoals ontstaan ten tijde van de wettelijke inhoudingsplicht – nog is verschuldigd.
 
 ### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
 
-De loonbelasting/premie volksverzekeringen over de werkzaamheden waarvoor de aansprakelijkheid bestaat, wordt vervolgens berekend met toepassing van hetzelfde (marginale) percentage. Vanwege het feit dat de matiging uitsluitend de betreffende inlener zelf aangaat, en niet de positie van de inhoudingsplichtige of die van andere aansprakelijken voor de naheffingsaanslag beïnvloedt, wordt het voorgaande uitsluitend betrokken in de berekening als uiteengezet in het van overeenkomstige toepassing verklaarde artikel 35.5.1 en niet in de berekening als bedoeld in artikel 34.8.1 van deze leidraad.
+De inlener is aansprakelijk voor de loonbelasting en premie volksverzekeringen die met toepassing van het anoniementarief (ex [artikel 26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b)) zijn berekend en door de uitlener over het werk zijn verschuldigd.
 
 ### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
 
-Als in verband met het voorgaande de aansprakelijke inlener onder wie derdenbeslag is gelegd, zich in zijn op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) af te leggen verklaring beroept op verrekening ter verzekering van zijn (voorwaardelijke) regresvordering op de uitlener, dan verklaart de ontvanger schriftelijk dat hij de inlener niet aansprakelijk zal houden voor de in totaal af te dragen geldsommen als gevolg van het derdenbeslag.
+In het geval van matiging wordt bij de brutering van het loon - althans voor zover het de loonbelasting en premie volksverzekeringen betreft - gebruik gemaakt van een marginaal percentage.
+
+### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
+
+Deze ‘tariefmatiging’ – die overigens niet van invloed is op de hoogte van de naheffingsaanslag – vindt niet plaats als de inlener wist of redelijkerwijs moest vermoeden dat de uitlener met anoniem personeel werkte. De beperking van de hoogte van de aansprakelijkheid blijft daardoor achterwege.
 
 ### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
 
@@ -5320,19 +5324,15 @@ Bij een daarop volgende aansprakelijkstelling van de inlener, zal de ontvanger h
 
 ### 35.1. Berekening omvang ketenaansprakelijkheid
 
-In aansluiting op [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) beschrijft dit artikel het beleid over:
-
-### 35.1. Berekening omvang ketenaansprakelijkheid
-
 De ontvanger moet beoordelen of het bedrag van de primaire aansprakelijkheid moet worden verminderd als gevolg van betalingen (op aangifte en/of op naheffingsaanslag) door de onderaannemer/inhoudingsplichtige.
 
 ### 35.2.1. Werk van stoffelijke aard
 
-Het begrip aannemer heeft in het kader van de ketenaansprakelijkheid een eigen zelfstandige betekenis. Onder ‘aannemer’ wordt in dit verband verstaan de persoon die zich jegens een ander – de opdrachtgever – verbindt om buiten dienstbetrekking een werk van stoffelijke aard te verrichten tegen een te betalen prijs.
+De ontvanger moet beoordelen of het bedrag van de primaire aansprakelijkheid moet worden verminderd als gevolg van betalingen (op aangifte en/of op naheffingsaanslag) door de onderaannemer/inhoudingsplichtige.
 
-### 35.2.1. Werk van stoffelijke aard
+### 35.2. Het begrip aannemer en ketenaansprakelijkheid
 
-Vervaardiging van kleding is een werk van stoffelijke aard en moet ruim worden opgevat. Het gaat om het vervaardigen van kleding van alle soorten en materialen onder welke benaming en voor welk doel dan ook. Hieronder valt ook elke handeling die erop gericht is het eindproduct zelf consumptiegereed (in de meest ruime zin) te maken.
+De uitvoering van een werk van stoffelijke aard zal veelal resulteren in een tastbaar product. Met de keuze van het criterium ‘uitvoeren van een werk van stoffelijke aard’ wordt beoogd alle sectoren van het economisch leven onder de werkingssfeer van dit artikel te brengen. Het gehanteerde criterium overschrijdt niet alleen de onderscheidingen die gemaakt zijn in het Burgerlijk Wetboek, maar ook de indelingen die in het economische leven gangbaar zijn.
 
 ### 35.2.2. Vervoersovereenkomsten en werk van stoffelijke aard
 
@@ -5340,57 +5340,61 @@ De zogenaamde ‘eigenbouwer’ wordt met een aannemer gelijkgesteld en is geen 
 
 ### 35.2.3. Het uitvoeren van een werk buiten dienstbetrekking
 
+Voor de toepassing van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) moet het uitvoeren van een werk buiten dienstbetrekking gebeuren. Voor het begrip dienstbetrekking wordt aangesloten bij de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+
+### 35.3. Het begrip eigenbouwer
+
 De vraag of sprake is van een eigenbouwer moet worden beantwoord aan de hand van de volgende criteria:
 
-### 35.3.1. Eigenbouwerschap – beoordeling van geval tot geval
+### 35.2.3. Het uitvoeren van een werk buiten dienstbetrekking
 
-In verband daarmee is het niet mogelijk voor bepaalde bedrijfstakken of voor bepaalde typen van bedrijven, dan wel voor bepaalde categorieën werkzaamheden in het algemeen, aan te geven of sprake is van eigenbouwerschap.
-
-### 35.3.2. Het begrip bedrijf en eigenbouwerschap
-
-Op deze hoofdregel bestaat een tweetal uitzonderingen:
+Voor de interpretatie van het begrip ‘bedrijf’ kan aansluiting worden gezocht bij hetgeen daaronder in het normale spraakgebruik wordt verstaan: een onderneming of een daarmee vergelijkbare entiteit (bijvoorbeeld een overheidsbedrijf).
 
 ### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
 
-Bij de beoordeling of een werk in de normale uitoefening van het bedrijf wordt uitgevoerd, is uitsluitend van belang wat in het betreffende bedrijf feitelijk gebruikelijk is.
+Op deze hoofdregel bestaat een tweetal uitzonderingen:
 
 ### 35.3.4. Uitbesteding werk en eigenbouwerschap
 
-Als een gemeentelijk grondbedrijf door haar verworven stukken grond bouwrijp maakt om deze bijvoorbeeld te verkopen, in erfpacht uit te geven of te verhuren, dan treedt het grondbedrijf met betrekking tot een dergelijke activiteit op als eigenbouwer. Het aanleggen/totstandbrengen van gemeenschapsvoorzieningen door het gemeentelijke grondbedrijf levert geen bedrijfsmatig handelen op (zie artikel 35.3.2 van deze leidraad).
+Als het voor het betreffende bedrijf niet gebruikelijk is eigen bedrijfsmiddelen te vervaardigen, dan leidt het incidenteel vervaardigen van een bedrijfsmiddel niet tot eigenbouwerschap.
 
 ### 35.3.6. Gemeentelijke grondbedrijven en eigenbouwerschap
 
+Als een gemeentelijk grondbedrijf door haar verworven stukken grond bouwrijp maakt om deze bijvoorbeeld te verkopen, in erfpacht uit te geven of te verhuren, dan treedt het grondbedrijf met betrekking tot een dergelijke activiteit op als eigenbouwer. Het aanleggen/totstandbrengen van gemeenschapsvoorzieningen door het gemeentelijke grondbedrijf levert geen bedrijfsmatig handelen op (zie artikel 35.3.2 van deze leidraad).
+
+### 35.3.4. Uitbesteding werk en eigenbouwerschap
+
+Een bedrijf dat bij de feitelijke uitvoering van een bepaald werk zelf geen werkzaamheden van stoffelijke aard verricht, maar alle werkzaamheden uitbesteedt aan derden, kan in twee situaties toch eigenbouwer zijn namelijk:
+
+### 35.3.5. Woningcorporaties en eigenbouwerschap
+
 In de confectiesector kan sprake zijn van eigenbouwerschap. Daarbij is het niet noodzakelijk dat het betreffende bedrijf ook zelfstandig in staat is de betreffende werkzaamheden uit te voeren. Voorwaarde is dan wel dat het bedrijf dat de werkzaamheden uitbesteedt de algehele leiding over die werkzaamheden heeft, althans bij de productie een rol bekleedt die die van een opdrachtgever overstijgt.
 
+### 35.5.1. Vrijwaring ketenaansprakelijkheid door betaling via de g-rekening
+
+Voor de vrijwaring als bedoeld in [artikel 35, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), moet zijn voldaan aan de voorwaarden genoemd in [artikel 6 van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6).
+
 ### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
 
-Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2012-02-21&g=2012-02-21), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
+Als een onderaannemer voor een buitenlandse aannemer een werk uitvoert in Nederland en in verband daarmee in Nederland loonheffingen is verschuldigd, dan is de buitenlandse aannemer daarvoor aansprakelijk op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
 
-### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
+### 35.5.1. Vrijwaring ketenaansprakelijkheid door betaling via de g-rekening
 
-Als de aannemer niet heeft voldaan aan deze voorwaarden, vermindert de ontvanger de primaire aansprakelijkheidsschuld slechts met de stortingen op de g-rekening die de ontvanger hebben bereikt. Om dit laatste te bepalen zal de ontvanger alle betalingen die de onderaannemer van zijn g-rekening voor het naheffingtijdvak heeft verricht, optellen en het bedrag van de gekwalificeerde g-betalingen van de som aftrekken. Het saldo van deze berekening rekent de ontvanger toe naar evenredigheid van de g-betalingen met betrekking tot het naheffingtijdvak aan de aannemers die niet aan de gestelde voorwaarden hebben voldaan.
-
-### 35.5.2. Ketenaansprakelijkheid bij WSNP of faillissement onderaannemer
-
-De ontvanger vergelijkt het bedrag van de primaire aansprakelijkheid, verminderd met de ‘vrijwaringen’ als hiervoor toegelicht en/of met de vrijwaring als gevolg van rechtstreekse storting (zie artikel 35.6 van deze leidraad, met de uitkomst van de berekening als in artikel 35.1 van deze leidraad toegelicht). In de aansprakelijkstelling gaat de ontvanger uit van de laagste van de twee uitkomsten.
-
-### 35.5.2. Ketenaansprakelijkheid bij WSNP of faillissement onderaannemer
-
-Er is al sprake van in strijd handelen met de zorgvuldigheid die in het maatschappelijk verkeer gepast is, als een g-rekeninghouder bedragen stort of ontvangt terwijl hij wist dat er geen sprake was van aanneming van werk en hij deze bedragen niet heeft teruggestort. De schade bestaat uit de niet op de g-rekening verhaalbare loonheffingen zoals die ten tijde van de onttrekking verschuldigd zijn en/of later verschuldigd worden, één en ander tot ten hoogste het onttrokken bedrag.
+De ontvanger kan zich beroepen op toerekenbare tekortkoming (wanprestatie) van een g-rekeninghouder, als deze bedragen van de g-rekening heeft overgeboekt in strijd met de g-rekeningovereenkomst waardoor het pandrecht van de fiscus is gefrustreerd. De g-rekeninghouder die deze bedragen op zijn g-rekening ontvangt, begaat een toerekenbare tekortkoming (wanprestatie) als hij deze bedragen niet onmiddellijk terugstort op de g-rekening van de storter.
 
 ### 35.5.4. Surseance en ketenaansprakelijkheid
 
-Er is al sprake van in strijd handelen met de zorgvuldigheid die in het maatschappelijk verkeer gepast is, als een g-rekeninghouder bedragen stort of ontvangt terwijl hij wist dat er geen sprake was van aanneming van werk en hij deze bedragen niet heeft teruggestort. De schade bestaat uit de niet op de g-rekening verhaalbare loonheffingen zoals die ten tijde van de onttrekking verschuldigd zijn en/of later verschuldigd worden, één en ander tot ten hoogste het onttrokken bedrag.
+Zodra de ontvanger bekend is met een surseanceverlening, verzoekt hij de bewindvoerder schriftelijk of hij – binnen een door de ontvanger te stellen termijn – schriftelijk wil instemmen met de vestiging van een pandrecht op de saldi op de g-rekening die ontstaan vanaf de datum van surseanceverlening.
 
-### 35.5.4. Surseance en ketenaansprakelijkheid
+### 35.5.3. Wanprestatie/onrechtmatig handelen en ketenaansprakelijkheid
 
-De rechtstreekse stortingen worden betrokken in de vergelijking als bedoeld in artikel 35.5.1 van deze leidraad.
+De ontvanger kan zich beroepen op toerekenbare tekortkoming (wanprestatie) van een g-rekeninghouder, als deze bedragen van de g-rekening heeft overgeboekt in strijd met de g-rekeningovereenkomst waardoor het pandrecht van de fiscus is gefrustreerd. De g-rekeninghouder die deze bedragen op zijn g-rekening ontvangt, begaat een toerekenbare tekortkoming (wanprestatie) als hij deze bedragen niet onmiddellijk terugstort op de g-rekening van de storter.
 
 ### 35.6.1. Rechtstreekse storting door aannemer
 
-De betaling is in elk geval voldoende gespecificeerd als naast de gegevens van de onderaannemer zijn vermeld:
+Als de aannemer ten behoeve van zijn onderaannemer de over het werk verschuldigde loonheffingen rechtstreeks heeft gestort bij de B/CA, dan strekt deze betaling tot vermindering van de primaire aansprakelijkheid mits de betaling voldoende is gespecificeerd.
 
-### 35.6.2. Rechtstreekse storting door aannemer na WSNP, faillissement of surséance
+### 35.5.4. Surseance en ketenaansprakelijkheid
 
 De rechtstreekse stortingen worden betrokken in de vergelijking als bedoeld in artikel 35.5.1 van deze leidraad.
 
@@ -5400,9 +5404,9 @@ Het bedrag hoeft dus niet te worden gerestitueerd aan de bewindvoerder of de cur
 
 ### 35.7. Samenloop derdenbeslag en ketenaansprakelijkheid
 
-Bij een daarop volgende aansprakelijkstelling van de aannemer, zal de ontvanger het verhaalde bedrag vanwege het eerdere derdenbeslag op het bedrag van de aansprakelijkstelling in mindering brengen, als blijkt dat zowel het door het derdenbeslag getroffen bedrag – ongeacht op welke belastingschuld dit bedrag is afgeboekt – als de aansprakelijkheidsvordering van de ontvanger, beide betrekking hebben op dezelfde rechtsverhouding (de overeenkomst van aanneming van werk) tussen de aannemer en de onderaannemer.
+Als de ontvanger – voordat tot aansprakelijkstelling wordt overgegaan – ten laste van de onderaannemer derdenbeslag legt onder de aansprakelijke aannemer, is de aannemer op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) en volgende verplicht verklaring te doen van hetgeen hij onder zich heeft en de geldsom die door het beslag is getroffen aan de ontvanger af te dragen.
 
-### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
+### 35.8. (Niet-)verwijtbaarheid en ketenaansprakelijkheid
 
 Als in verband met het voorgaande de aansprakelijke aannemer onder wie derdenbeslag is gelegd zich in zijn op grond van [artikel 476a Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) af te leggen verklaring, beroept op verrekening ter verzekering van zijn (voorwaardelijke) regresvordering op de onderaannemer, dan verklaart de ontvanger schriftelijk dat hij de aannemer niet aansprakelijk zal stellen voor de in totaal af te dragen geldsommen als gevolg van het derdenbeslag.
 
@@ -5416,17 +5420,17 @@ Ook kan plotseling betalingsonmacht ontstaan door een bijzondere gebeurtenis bij
 
 ### 35.8.2. Wanneer verwijtbaarheid
 
-De ontvanger zal de hoogte van de aansprakelijkstelling niet matigen als blijkt dat de aannemer de voor de matiging vereiste gegevens niet heeft geadministreerd ten tijde van de uitvoering van de aannemingsovereenkomst. Als mocht blijken dat het in de administratie van de aannemer opgenomen BSN/sofinummer van de werknemer onjuist is, zal de aannemer in de gelegenheid worden gesteld alsnog het juiste BSN/sofinummer te overleggen.
+De aansprakelijkheid op grond van [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) geldt niet met betrekking tot de belasting verschuldigd door een onderaannemer, als aannemelijk is dat de niet-betaling aan hem noch aan een aannemer is te wijten.
 
-### 35.9. Het anoniementarief en ketenaansprakelijkheid
+### 35.10. Latere brutering en ketenaansprakelijkheid
 
-De ontvanger zal de hoogte van de aansprakelijkstelling niet matigen als blijkt dat de aannemer de voor de matiging vereiste gegevens niet heeft geadministreerd ten tijde van de uitvoering van de aannemingsovereenkomst. Als mocht blijken dat het in de administratie van de aannemer opgenomen BSN/sofinummer van de werknemer onjuist is, zal de aannemer in de gelegenheid worden gesteld alsnog het juiste BSN/sofinummer te overleggen.
+De ontvanger matigt de primaire aansprakelijkheid als:
 
 ### 35.10. Latere brutering en ketenaansprakelijkheid
 
 In dat geval zal de ontvanger de hoogte van de aansprakelijkheid voor de betreffende aannemer verlagen aan de hand van herrekeningsregels. Deze verlaging kan al plaatsvinden ten tijde van de aansprakelijkstelling, maar ook in de bezwaar- of (hoger) beroepfase en dit gebeurt aan de hand van de volgende herrekeningsregels.
 
-### 35.10. Latere brutering en ketenaansprakelijkheid
+### 35.9. Het anoniementarief en ketenaansprakelijkheid
 
 Deze ‘tariefmatiging’ – die overigens niet van invloed is op de hoogte van de naheffingsaanslag – vindt niet plaats als de aannemer wist of redelijkerwijs moest vermoeden dat de onderaannemer met anoniem personeel werkte. De beperking van de hoogte van de aansprakelijkheid blijft daardoor achterwege.
 
@@ -5436,11 +5440,11 @@ De aannemer is ook aansprakelijk voor de loonheffingen die verschuldigd zijn als
 
 ### 35.11. Volgorde aansprakelijkstelling binnen de keten
 
-Zie voor de volgorde van aansprakelijkstelling van de opdrachtgever in de confectiesector, artikel 35a.4 van deze leidraad.
+Deze ‘tariefmatiging’ – die overigens niet van invloed is op de hoogte van de naheffingsaanslag – vindt niet plaats als de aannemer wist of redelijkerwijs moest vermoeden dat de onderaannemer met anoniem personeel werkte. De beperking van de hoogte van de aansprakelijkheid blijft daardoor achterwege.
 
-### 35.11.1. VAR-wuo of VAR-row in plaats van VAR-dga
+### 35.10. Latere brutering en ketenaansprakelijkheid
 
-Op verzoek kan de ontvanger een verklaring afgeven over het betalingsgedrag van de onderaannemer met wie de aannemer een contract wil sluiten. De verklaring die de ontvanger afgeeft, heeft alleen betrekking op de formeel verschuldigde loonheffingen.
+De aannemer is ook aansprakelijk voor de loonheffingen die verschuldigd zijn als gevolg van een latere brutering. Een latere brutering kan zich bijvoorbeeld voordoen als blijkt dat de onderaannemer de nageheven loonheffingen niet op zijn werknemer(s) heeft verhaald en dus voor eigen rekening neemt. De loonheffingen die als gevolg van dit ‘voor eigen rekening nemen’ verschuldigd zijn, worden aangemerkt als ‘belasting ter zake van het werk’.
 
 ### 35.12.1. Verklaring betalingsgedrag onderaannemer
 
@@ -5450,33 +5454,29 @@ De verklaring geeft geen garantie dat:
 
 De schone verklaring geeft de ontvanger af als de volgens aangifte verschuldigde loonheffingen en ook de nageheven loonheffingen zijn voldaan. De ontvanger geeft ook een schone verklaring af als tot het bedrag van de belastingaanslag(en) zekerheid is verstrekt.
 
-### 35.12.4. Verklaring betalingsgedrag en naheffingsaanslagen
+### 35.12.1. Verklaring betalingsgedrag onderaannemer
 
-Als de ontvanger ervan op de hoogte is dat de betrokken onderaannemer heeft verzuimd aangifte te doen, tengevolge waarvan ambtshalve één of meer naheffingsaanslagen naar geschatte bedragen zijn opgelegd, dan wordt de gevraagde verklaring – ook al zijn die naheffingsaanslagen betaald – pas afgegeven nadat de onderaannemer alsnog opgaaf heeft gedaan van de volgens hem verschuldigde belasting.
-
-### 35.12.4. Verklaring betalingsgedrag en naheffingsaanslagen
-
-Als de ontvanger ervan op de hoogte is dat de inspecteur van plan is binnen afzienbare tijd één of meer naheffingsaanslagen op te leggen, dan blijft het verzoek buiten behandeling tot die naheffingsaanslagen zijn opgelegd. De verklaring wordt slechts afgegeven wanneer alsnog is voldaan aan de gestelde voorwaarden met betrekking tot de afgifte van een verklaring inzake het betalingsgedrag. De ontvanger deelt de reden van de opschorting schriftelijk aan de onderaannemer mee.
+Op verzoek kan de ontvanger een verklaring afgeven over het betalingsgedrag van de onderaannemer met wie de aannemer een contract wil sluiten. De verklaring die de ontvanger afgeeft, heeft alleen betrekking op de formeel verschuldigde loonheffingen.
 
 ### 35.12.5. Verklaring betalingsgedrag en bezwaar of (hoger) beroep tegen naheffingsaanslagen
 
-De ontvanger meldt in de verklaring dat aan de inhoud ervan geen vrijwaring kan worden ontleend voor de aansprakelijkheid op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), en dat de Belastingdienst niet aansprakelijk kan worden gesteld voor enig nadeel van welke aard dan ook dat eventueel voortvloeit uit het gebruik van de verklaring.
+De schone verklaring geeft de ontvanger af als de volgens aangifte verschuldigde loonheffingen en ook de nageheven loonheffingen zijn voldaan. De ontvanger geeft ook een schone verklaring af als tot het bedrag van de belastingaanslag(en) zekerheid is verstrekt.
 
 ### 35.12.8. Wanneer geen verklaring betalingsgedrag
+
+Als de ontvanger (ten onrechte) een schone verklaring heeft afgegeven, op het moment waarop nog formeel verschuldigde loonheffingen openstaan waartegen geen bezwaar- of een (hoger) beroepschrift is ingediend en waarvoor geen betalingsregeling is getroffen, wordt voor die loonheffingenschuld de aannemer niet aansprakelijk gesteld.
+
+### 35.12.7. Beslistermijn verzoek betalingsgedrag
 
 De ontvanger behandelt verzoeken met spoed; hij streeft er naar op een verzoek binnen een week na ontvangst te beslissen.
 
-### 35.12.8. Wanneer geen verklaring betalingsgedrag
+### 35.12.6. Geen aansprakelijkheid voor de ontvanger
 
-De weigering een verklaring af te leggen gebeurt bij beschikking; deze wordt bekendgemaakt onder vermelding waarom niet kan worden overgegaan tot afgifte van een verklaring.
+Als de ontvanger (ten onrechte) een schone verklaring heeft afgegeven, op het moment waarop nog formeel verschuldigde loonheffingen openstaan waartegen geen bezwaar- of een (hoger) beroepschrift is ingediend en waarvoor geen betalingsregeling is getroffen, wordt voor die loonheffingenschuld de aannemer niet aansprakelijk gesteld.
 
-### 35.12.9. Nieuwe ondernemer en verklaring betalingsgedrag
+### 35.12.7. Beslistermijn verzoek betalingsgedrag
 
 Onder een nieuwe ondernemer wordt in dit verband tevens verstaan:
-
-### 35.12.10. Zelfstandige zonder personeel en verklaring betalingsgedrag
-
-De ontvanger geeft echter geen verklaring af. De weigering een verklaring af te geven gebeurt bij beschikking. In deze gevallen vermeldt de ontvanger bij de bekendmaking van de beschikking aan de zzp-er dat hij geen verklaring inzake betalingsgedrag kan verstrekken omdat de zzp-er op grond van de gegevens die voorhanden zijn op dat moment geen werknemers in dienst heeft en dus geen loonheffingen hoeft te betalen. De ontvanger vermeldt daarbij ook dat hij geen aansprakelijkheid aanvaardt als mocht blijken dat degene aan wie hij de verklaring heeft verstrekt geen zzp-er is, en dat deze beschikking niet betekent dat een eventueel aansprakelijke aannemer niet aansprakelijk wordt gesteld.
 
 ### 35.12.11. Curator/bewindvoerder en verklaring betalingsgedrag
 
@@ -5484,11 +5484,11 @@ Voor de toepassing van [artikel 35a van de wet](https://wetten.overheid.nl/jci1.
 
 ### Artikel 35a. Opdrachtgeversaansprakelijkheid
 
-In aansluiting op [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) beschrijft dit artikel het beleid over:
+Als het bedrijf echter gedurende langere tijd wordt voortgezet en de curator of bewindvoerder om een verklaring verzoekt, geeft de ontvanger een verklaring af.
 
-### 35a.1. Dienstbetrekking en opdrachtgeversaansprakelijkheid
+### Artikel 35a. Opdrachtgeversaansprakelijkheid
 
-De aansprakelijkheid van de opdrachtgever in de confectiesector heeft uitsluitend betrekking op de verschuldigde loonheffingen over een werk inhoudende de vervaardiging van kleding en elke daarop gerichte handeling.
+De beoordeling of de opdracht wordt verstrekt in de normale uitoefening van het bedrijf vindt plaats op grond van de feitelijke omstandigheden per individueel geval. Werkzaamheden worden als ‘normale uitoefening van het bedrijf’ aangemerkt, wanneer het verstrekken van opdrachten tot het vervaardigen van kleding een regelmatig terugkerend karakter heeft. Het regelmatig terugkerend karakter van de opdrachten moet feitelijk worden beoordeeld.
 
 ### 35a.4. Volgorde aansprakelijkstelling bij opdrachtgeversaansprakelijkheid
 
@@ -5496,7 +5496,7 @@ Voor de opdrachtgever in de confectiesector gelden met betrekking tot de volgord
 
 ### Artikel 35b. Aansprakelijkheid van een koper van een bestaande zaak
 
-In aansluiting op [artikel 35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b) beschrijft dit artikel het beleid over:
+Dit betekent dat het uitgangspunt is dat de opdrachtgever in beginsel niet direct aansprakelijk wordt gesteld, maar dat eerst de aannemer aansprakelijk zal worden gesteld die rechtstreeks met de in gebreke gebleven onderaannemer een contract heeft gesloten, en daarna de aannemer die in de keten de minst ver verwijderde schakel vormt.
 
 ### 35b.1. Kopersaansprakelijkheid en vrijwaring
 
@@ -5504,31 +5504,31 @@ De ondernemer of onderneming die op termijn te leveren kleding koopt en die op h
 
 ### 35b.2. Volgorde aansprakelijkstelling bij kopersaansprakelijkheid
 
-Voor de koper van een bestaande zaak in de confectiesector gelden met betrekking tot de volgorde van aansprakelijkstelling dezelfde uitgangspunten als opgenomen in artikel 35.11 van deze leidraad.
+De ondernemer of onderneming die op termijn te leveren kleding koopt en die op het tijdstip van de koop niet weet noch redelijkerwijs behoort te weten of die kleding reeds geheel of gedeeltelijk is vervaardigd, mag zich voor wat betreft de vrijwaring voor de gehele order beschouwen als koper van een toekomstige zaak die wordt gelijkgesteld met een opdrachtgever bedoeld in [artikel 35a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a).
 
 ### 36.1. Samenloop met bestuurdersaansprakelijkheid in faillissement
 
-De [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) geven de curator in het faillissement van een rechtspersoon meer mogelijkheden om bij de afwikkeling van de boedel een tekort alsnog te verkleinen ten behoeve van alle schuldeisers in het faillissement. Hij kan dit doen door de bestuurders van de rechtspersoon hoofdelijk aansprakelijk te stellen voor het tekort van de boedel wanneer zij hun taak kennelijk onbehoorlijk hebben vervuld, en aannemelijk is dat dit een belangrijke oorzaak is geweest van het faillissement.
+De opdrachtgever zal pas in laatste instantie worden aangesproken, omdat de opdrachtgeversaansprakelijkheid het karakter van een uiterst middel heeft.
 
-### Artikel 36. Bestuurdersaansprakelijkheid
+### Artikel 35b. Aansprakelijkheid van een koper van een bestaande zaak
 
 De [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) geven de curator in het faillissement van een rechtspersoon meer mogelijkheden om bij de afwikkeling van de boedel een tekort alsnog te verkleinen ten behoeve van alle schuldeisers in het faillissement. Hij kan dit doen door de bestuurders van de rechtspersoon hoofdelijk aansprakelijk te stellen voor het tekort van de boedel wanneer zij hun taak kennelijk onbehoorlijk hebben vervuld, en aannemelijk is dat dit een belangrijke oorzaak is geweest van het faillissement.
 
 ### 36.2. Gegevensverstrekking aan de curator en bestuurdersaansprakelijkheid
 
-De Belastingdienst verstrekt desgevraagd aan de curator in het faillissement van een vennootschap – als bedoeld in de [artikelen 2:50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [2:138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [2:248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) of [2:300a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a) – gegevens over de bestuurders van deze vennootschap als deze gegevens worden verzocht in het kader van:
+Omdat ook de bestuurdersaansprakelijkheid van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) gericht is op kennelijk onbehoorlijk bestuur, kunnen in bepaalde gevallen beide regelingen van toepassing zijn. In dat geval moet er naar worden gestreefd om slechts één van de regelingen toe te passen.
 
 ### 36.3. Curator is niet aansprakelijk op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36)
 
-De curator in het faillissement van een rechtspersoon kan niet op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) aansprakelijk worden gesteld, ook al zou hij onder omstandigheden het beleid van de rechtspersoon gedurende het faillissement feitelijk bepalen als ware hij bestuurder.
+Gegevensverstrekking aan de curator blijft achterwege voor zover met die verstrekking geen fiscaal belang is gediend.
+
+### 36.3. Curator is niet aansprakelijk op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36)
+
+Van kennelijk onbehoorlijk bestuur kan slechts worden gesproken als een redelijk denkend bestuurder – onder dezelfde omstandigheden – niet als zodanig zou hebben gehandeld. Ernstige misslagen en wanbeleid vallen – ook als geen sprake is van (beoogd) persoonlijk voordeel van de bestuurder – zeker onder kennelijk onbehoorlijk bestuur. Ook bij minder ernstige fouten kan van kennelijk onbehoorlijk bestuur sprake zijn als door onbezonnen, roekeloos of onverantwoordelijk gedrag van een bestuurder bedrijfsrisico’s worden genomen die veel groter zijn dan wat tot normaal ondernemersrisico mag worden gerekend.
 
 ### 36.4.1. Wanneer kennelijk onbehoorlijk bestuur
 
 Van kennelijk onbehoorlijk bestuur kan slechts worden gesproken als een redelijk denkend bestuurder – onder dezelfde omstandigheden – niet als zodanig zou hebben gehandeld. Ernstige misslagen en wanbeleid vallen – ook als geen sprake is van (beoogd) persoonlijk voordeel van de bestuurder – zeker onder kennelijk onbehoorlijk bestuur. Ook bij minder ernstige fouten kan van kennelijk onbehoorlijk bestuur sprake zijn als door onbezonnen, roekeloos of onverantwoordelijk gedrag van een bestuurder bedrijfsrisico’s worden genomen die veel groter zijn dan wat tot normaal ondernemersrisico mag worden gerekend.
-
-### 36.4.2. Geen kennelijk onbehoorlijk bestuur
-
-Niet voorzienbare gebeurtenissen of omstandigheden komen niet voor rekening van de bestuurder. Een bestuursfout moet dus worden beoordeeld naar het moment waarop de betreffende bestuurshandeling werd verricht aan de hand van hetgeen toen was te voorzien.
 
 ### 36.5.3. Melding betalingsonmacht ten kantore
 
@@ -5536,27 +5536,31 @@ Een schriftelijk verzoek om uitstel van betaling dan wel een schriftelijk verzoe
 
 ### 36.5.3. Melding betalingsonmacht ten kantore
 
-Bij ieder gesprek ten kantore waarin de (tijdelijke) betalingsproblemen van de belastingschuldige ter sprake komen, wijst de ontvanger op de meldingsplicht. De ontvanger licht ook de implicaties van de melding toe. De ontvanger reikt in alle gevallen een formulier uit waarmee de belastingschuldige de betalingsonmacht schriftelijk kan melden.
+Van kennelijk onbehoorlijk bestuur kan slechts worden gesproken als een redelijk denkend bestuurder – onder dezelfde omstandigheden – niet als zodanig zou hebben gehandeld. Ernstige misslagen en wanbeleid vallen – ook als geen sprake is van (beoogd) persoonlijk voordeel van de bestuurder – zeker onder kennelijk onbehoorlijk bestuur. Ook bij minder ernstige fouten kan van kennelijk onbehoorlijk bestuur sprake zijn als door onbezonnen, roekeloos of onverantwoordelijk gedrag van een bestuurder bedrijfsrisico’s worden genomen die veel groter zijn dan wat tot normaal ondernemersrisico mag worden gerekend.
 
-### 36.6.1. Bewijslastverdeling en bestuurdersaansprakelijkheid
+### 36.4.2. Geen kennelijk onbehoorlijk bestuur
 
-De ontvanger wijst erop dat hij de melding als niet-rechtsgeldig zal aanmerken, als later blijkt dat de melder niet bevoegd is.
+Niet voorzienbare gebeurtenissen of omstandigheden komen niet voor rekening van de bestuurder. Een bestuursfout moet dus worden beoordeeld naar het moment waarop de betreffende bestuurshandeling werd verricht aan de hand van hetgeen toen was te voorzien.
+
+### 36.5. Melding betalingsonmacht
+
+Als de belastingschuldige ter plekke aan de meldingsverplichting wil voldoen, doet hij dat schriftelijk onder vermelding van:
 
 ### 36.5.4. Termijn melding betalingsonmacht
 
-De ontvanger laat altijd weten dat hij de melding in twee fasen kan beoordelen en dat zonodig nadere gegevens zullen worden opgevraagd.
+Als de ontvanger constateert dat de melding niet meer tijdig kan plaatsvinden, wijst de ontvanger de belastingschuldige hierop. De belastingschuldige kan in verband met de niet-tijdigheid afzien van het doen van een melding. Als de belastingschuldige toch een melding wil doen, maakt de ontvanger hiervan aantekening.
 
-### 36.5.4. Termijn melding betalingsonmacht
+### 36.5.5. Uitstel van betaling in verband met bezwaar en (hoger) beroep en melding betalingsonmacht
 
 [Hoofdstuk III van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III) regelt binnen welke termijn de belastingschuldige de betalingsonmacht aan de ontvanger moet melden. Voor de beantwoording van de vraag of de per post verzonden schriftelijke melding de ontvanger tijdig heeft bereikt, wordt aangesloten bij [artikel 6:9 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:9). Als de belastingschuldige over een bepaald tijdvak geen aangifte heeft gedaan, mag een bestuurder de betalingsonmacht voor dat tijdvak wel melden, mits hij dit doet binnen de termijn die is genoemd in [artikel 7, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7).
 
 ### 36.5.5. Uitstel van betaling in verband met bezwaar en (hoger) beroep en melding betalingsonmacht
 
-Bij een verzoek om uitstel van betaling in verband met een ingediend bezwaarschrift of beroepschrift (in hoger beroep) tegen een naheffingsaanslag als bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7), moet voor het niet betwiste deel van de belastingaanslag (zo nodig op de gebruikelijke wijze) afzonderlijk worden gemeld dat de rechtspersoon niet in staat is dit deel van de naheffingsaanslag te voldoen.
+Een verzoek om uitstel van betaling in verband met bezwaar, beroep of hoger beroep merkt de ontvanger niet aan als een melding van betalingsonmacht.
 
-### 36.5.7. Faillissement en melding betalingsonmacht
+### 36.5.6. Surseance en melding betalingsonmacht
 
-Als de meldingstermijn afloopt op of na de faillissementsdatum hoeft geen melding van betalingsonmacht meer plaats te vinden. De ontvanger heeft in dat geval bij een eventuele aansprakelijkstelling een bewijslast alsof rechtsgeldig is gemeld.
+Als uitstel van betaling is verleend in verband met een tijdig ingediend bezwaarschrift of beroepschrift (in hoger beroep) kan – als uitspraak is gedaan op het bezwaarschrift of op het beroepschrift is beslist – betalingsonmacht voor het niet toegewezen bedrag alsnog binnen veertien dagen na de dagtekening van de beslissing op het bezwaar of beroep bij de ontvanger worden gemeld.
 
 ### 36.5.6. Surseance en melding betalingsonmacht
 
@@ -5564,87 +5568,83 @@ Als aan een rechtspersoon surseance van betaling is verleend, blijft de meldings
 
 ### 36.5.7. Faillissement en melding betalingsonmacht
 
-Als een tijdige schriftelijke melding is gedaan en de ontvanger voorafgaand aan het faillissement om ontbrekende informatie dan wel nadere gegevens en inlichtingen of gegevensdragers heeft gevraagd (als bedoeld in de artikelen 36.5.9 tot en met 36.5.11 van deze leidraad) en het faillissement wordt uitgesproken voordat de gestelde termijn verstrijkt, dan wordt de melding als rechtsgeldig aangemerkt. Het lichaam hoeft de gevraagde gegevens niet meer te verstrekken.
+Als de meldingstermijn afloopt op of na de faillissementsdatum hoeft geen melding van betalingsonmacht meer plaats te vinden. De ontvanger heeft in dat geval bij een eventuele aansprakelijkstelling een bewijslast alsof rechtsgeldig is gemeld.
 
-### 36.5.8. Melding betalingsonmacht – twee fasen
+### 36.5.9. Beoordeling van de melding betalingsonmacht – 1e fase
 
 Bij de melding van de betalingsonmacht worden twee fasen onderscheiden:
 
 ### 36.5.9. Beoordeling van de melding betalingsonmacht – 1e fase
 
-De ontvanger verzendt in beginsel geen ontvangstbevestiging van de melding.
-
-### 36.5.10. Na melding betalingsonmacht 1e fase – opvragen nadere gegevens
-
-Als de ontvanger naar aanleiding van een tijdige en volledige melding nadere gegevens, inlichtingen en/of gegevensdragers wenst te verkrijgen omtrent de oorza(a)k(en) van de betalingsonmacht en/of de financiële positie van het lichaam, dan vraagt hij deze op binnen acht weken na ontvangst van die melding of na ontvangst van de in de eerste fase aanvankelijk ontbrekende gegevens.
+Bij de melding van de betalingsonmacht (in de eerste fase) kunnen zich de volgende situaties voordoen:
 
 ### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
 
-De ontvanger moet per geval een redelijke termijn stellen waarbinnen de nadere gegevens en inlichtingen en/of gegevensdragers moeten zijn verstrekt.
+Als een tijdige schriftelijke melding is gedaan en de ontvanger voorafgaand aan het faillissement om ontbrekende informatie dan wel nadere gegevens en inlichtingen of gegevensdragers heeft gevraagd (als bedoeld in de artikelen 36.5.9 tot en met 36.5.11 van deze leidraad) en het faillissement wordt uitgesproken voordat de gestelde termijn verstrijkt, dan wordt de melding als rechtsgeldig aangemerkt. Het lichaam hoeft de gevraagde gegevens niet meer te verstrekken.
 
-### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
+### 36.5.8. Melding betalingsonmacht – twee fasen
 
-De ontvanger controleert of de nadere gegevens en inlichtingen tijdig en volledig zijn verstrekt, dan wel of de gevraagde gegevensdragers tijdig en volledig voor raadpleging ter beschikking zijn gesteld, en hij beoordeelt de gegevens.
+Daarbij moet de ontvanger er altijd op wijzen dat hij die gegevens en inlichtingen en/of gegevensdragers vraagt in verband met de meldingsregeling als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36). Ook moet hij summier aangeven wat die regeling inhoudt, ook als hij er van uit mag gaan dat de belastingschuldige voldoende op de hoogte is met de regeling. Daarnaast moet de ontvanger erop wijzen dat het niet, niet tijdig of onvolledig verstrekken van de gevraagde gegevens en inlichtingen en/of gegevensdragers tot een niet rechtsgeldige melding leidt met consequenties voor de bewijslastverdeling, als bedoeld in [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
+
+### 36.5.9. Beoordeling van de melding betalingsonmacht – 1e fase
+
+Bij de melding van de betalingsonmacht (in de eerste fase) kunnen zich de volgende situaties voordoen:
 
 ### 36.5.12. Geldigheidsduur van de melding betalingsonmacht
 
 Daarbij moet de ontvanger het voorbehoud maken dat de melding alsnog als niet rechtsgeldig wordt aangemerkt, als later blijkt dat onjuiste gegevens en inlichtingen werden verstrekt, dan wel gegevensdragers die onjuiste gegevens bevatten.
 
-### 36.5.12. Geldigheidsduur van de melding betalingsonmacht
+### 36.5.13. Driejaarsperiode bij doorlopende melding betalingsonmacht
 
-De geldigheidsduur vangt aan op de datum van ontvangst van de (uiteindelijk) als rechtsgeldig beoordeelde mededeling van betalingsonmacht.
+Als de toestand van betalingsonmacht blijft voortduren, dan hoeft dit voor de belasting – die na de melding op aangifte verschuldigd wordt – en de vervallen naheffingsaanslagen niet opnieuw te worden gemeld. De toestand van betalingsonmacht als bedoeld in de tweede volzin eindigt in beginsel eerst vanaf het tijdstip waarop de naheffingsaanslagen waarvoor de melding heeft plaatsgevonden, zijn betaald. Dit is alleen anders als naar het oordeel van de ontvanger feitelijk geen sprake meer is van een toestand van betalingsonmacht omdat afdracht en voldoening op aangifte zijn hervat. In dat geval herleeft de meldingsplicht op voorwaarde dat de ontvanger het lichaam daarover tijdig en schriftelijk heeft geïnformeerd.
 
 ### 36.5.13. Driejaarsperiode bij doorlopende melding betalingsonmacht
 
-Bij een aansprakelijkstelling voor deze belastingaanslag moet het kennelijk onbehoorlijk bestuur zich hebben afgespeeld in de drie jaar voorafgaand aan de dag waarop uiterlijk betalingsonmacht had moeten worden gemeld, als geen sprake zou zijn van een doorlopende melding.
-
-### 36.6. Aansprakelijkheid bestuurder
-
-Een bestuurder is slechts aansprakelijk als aannemelijk is dat de niet-betaling door het lichaam aan de bestuurder is te wijten als gevolg van kennelijk onbehoorlijk bestuur.
+Als een melding geldig blijft voor een later opgelegde naheffingsaanslag, dan wordt er van uit gegaan dat voor deze naheffingsaanslag zelfstandig een rechtsgeldige melding heeft plaatsgevonden.
 
 ### 36.6.1. Bewijslastverdeling en bestuurdersaansprakelijkheid
 
 De verdeling van de bewijslast (wie moet aannemelijk maken) is afhankelijk van de omstandigheid, of het lichaam al dan niet rechtsgeldig de betalingsonmacht heeft gemeld.
 
-### 36.6.2. Disculpatiemogelijkheid gewezen bestuurder
+### 36.6.1. Bewijslastverdeling en bestuurdersaansprakelijkheid
 
-In aansluiting op [artikel 36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36a) beschrijft dit artikel het beleid over de disculpatiemogelijkheid van de bestuurder.
+Als een gewezen bestuurder die door de ontvanger aansprakelijk is gesteld, geen bestuurder meer was op het moment dat voldaan moest worden aan de meldingsplicht, wordt hij direct toegelaten tot de weerlegging van het wettelijk vermoeden van [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
 
-### 36a.1. Disculpatiemogelijkheid bestuurder aansprakelijkheid vennootschapsbelasting
+### 36.6.3. Aansprakelijkheid nieuwe bestuurder
 
-De bestuurder is niet aansprakelijk als hij bewijst dat:
+Voor de reeds vastgestelde belastingschulden is de bestuurder aansprakelijk bij zijn in functie treden, tenzij hij aannemelijk maakt dat er niet voldoende middelen aanwezig waren om deze schulden te betalen en dat het niet mogelijk is gebleken maatregelen te treffen om de schuld toch te voldoen, zodat de niet-betaling niet aan hem is te wijten.
+
+### 36.7. Geen administratieve controle bij bestuurder
+
+Zodra een beroepschrift is ingediend tegen de uitspraak van de ontvanger op het bezwaarschrift tegen de aansprakelijkstelling, wordt geen administratieve controle meer ingesteld bij de bestuurder, tenzij de rechter die mogelijkheid toestaat of een onderzoek wordt ingesteld bij een derde niet-aansprakelijk gestelde.
 
 ### Artikel 36a. Aansprakelijkheid bestuurder voor vennootschapsbelasting
 
-In aansluiting op [artikel 36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36a) beschrijft dit artikel het beleid over de disculpatiemogelijkheid van de bestuurder.
+Aan de tweede eis waaraan de bestuurder moet voldoen is in elk geval niet voldaan wanneer al ten tijde van de overeenkomst tot afkoop van de pensioenverplichting – met een aanzienlijke mate van waarschijnlijkheid – de afwikkeling van die overeenkomst tot gevolg zou hebben dat er voor de voldoening van de vennootschapsbelasting die ten gevolge van de afkoop verschuldigd wordt, geen of onvoldoende middelen beschikbaar zouden zijn.
 
-### 36a.1. Disculpatiemogelijkheid bestuurder aansprakelijkheid vennootschapsbelasting
+### Artikel 36b. Aansprakelijkheid bestuurder voor aansprakelijkheidsschuld lichaam
+
+In aansluiting op [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) beschrijft dit artikel het beleid over de fiscale eenheid voor de omzetbelasting.
+
+### 36b.1. Fiscale eenheid voor de omzetbelasting
+
+Als de ontvanger bestuurders van verschillende vennootschappen die deel uitmaken van een fiscale eenheid voor de omzetbelasting aansprakelijk kan stellen op grond van [artikel 36b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) en het de ontvanger bekend is bij welk onderdeel van de fiscale eenheid de materiële omzetbelastingschuld is ontstaan, zal hij als eerste de bestuurder van dat onderdeel aansprakelijk stellen. Dat betekent dat bestuurders van andere onderdelen van de fiscale eenheid pas aansprakelijk kunnen worden gesteld indien de invordering ten laste van de in de vorige volzin bedoelde bestuurder onvoldoende soelaas biedt.
+
+### Artikel 37. Aansprakelijkheid voor loon- en omzetbelasting
 
 In aansluiting op [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) beschrijft dit artikel het beleid over:
 
 ### 37.1. Aansprakelijkheid voor loon- en omzetbelasting voor leider van in Nederland verrichte werkzaamheden
 
-De aansprakelijkheid van [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) heeft niet alleen betrekking op de als zodanig aangewezen leider van de vaste inrichting, de vaste vertegenwoordiger en degene die de leiding heeft van de (in Nederland verrichte) werkzaamheden, maar ook op een ieder die zich als zodanig gedraagt.
-
-### 37.2. Volgorde aansprakelijkstelling loonheffingen ter zake van beroepssporters en dergelijke
-
-Als eerste wordt aansprakelijk gesteld degene die een optreden of een sportmanifestatie organiseert waarvoor buitenlandse artiesten, beroepssporters of buitenlandse gezelschappen zijn uitgenodigd of toegelaten.
-
-### 37.1. Aansprakelijkheid voor loon- en omzetbelasting voor leider van in Nederland verrichte werkzaamheden
-
-De aansprakelijkheid van [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=37) heeft niet alleen betrekking op de als zodanig aangewezen leider van de vaste inrichting, de vaste vertegenwoordiger en degene die de leiding heeft van de (in Nederland verrichte) werkzaamheden, maar ook op een ieder die zich als zodanig gedraagt.
-
-### 37.2. Volgorde aansprakelijkstelling loonheffingen ter zake van beroepssporters en dergelijke
-
 Uitgangspunt is dat de aansprakelijke weet of behoort te weten dat de inhouding ten onrechte achterwege is gebleven. Als de werknemer, de artiest, de beroepssporter, het buitenlands gezelschap, de belastingplichtige of de leden van een buitenlands gezelschap meenden of redelijkerwijze mochten menen dat de inhoudingsplichtige aan zijn verplichting tot inhouding zou voldoen, zijn zij niet aansprakelijk.
 
 ### Artikel 39
 
-Er zijn in deze leidraad op [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=39) geen beleidsregels gemaakt.
+Als redelijkerwijs moet worden aangenomen dat aansprakelijkstelling niet tot voldoening van de schuld zal leiden, worden één of meer andere personen of lichamen die bij de organisatie van het optreden of de sportmanifestatie betrokken zijn, aansprakelijk gesteld. De mate van betrokkenheid bij het evenement en de aanwezige verhaalsmogelijkheden zullen daarbij de keuze bepalen.
 
-### Artikel 40. Aansprakelijkheid van de vervreemder van aandelen of een belang
+### Artikel 38. Aansprakelijkheid voor loon- en kansspelbelasting
 
-In aansluiting op [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) beschrijft dit artikel het beleid over:
+Als eerste wordt aansprakelijk gesteld degene die een optreden of een sportmanifestatie organiseert waarvoor buitenlandse artiesten, beroepssporters of buitenlandse gezelschappen zijn uitgenodigd of toegelaten.
 
 ### 40.1. Vervreemding van aandelen
 
@@ -5656,79 +5656,83 @@ De ontvanger wint de gestelde zekerheid uit voordat hij derden aansprakelijk ste
 
 ### 40.2. Geen aansprakelijkheid voor de vervreemder van aandelen of een belang voor zover zekerheid is gesteld
 
+Opgemerkt wordt dat [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) niet alleen betrekking heeft op natuurlijke personen die aandelen of een belang vervreemden, maar ook op lichamen in de zin van de [AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320).
+
+### 40.2. Geen aansprakelijkheid voor de vervreemder van aandelen of een belang voor zover zekerheid is gesteld
+
 Zekerheid kan ook worden gesteld voor belastingschulden over toekomstige jaren en/of reeds verstreken jaren waarover nog geen aanslag is opgelegd.
 
-### Artikel 42. Aansprakelijkheid voor overdrachtsbelasting
-
-Er zijn in deze leidraad op [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=41) geen beleidsregels gemaakt.
-
-### Artikel 42. Aansprakelijkheid voor overdrachtsbelasting
+### 40.1. Vervreemding van aandelen
 
 De hoofdelijke aansprakelijkheid omvat de belasting tot het bedrag dat op grond van de inhoud van de akte is verschuldigd, inclusief de aan de voet van de akte gestelde verklaring.
 
 ### Artikel 42a. tot en met [42c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42a)
 
-De aansprakelijkheid strekt zich niet uit tot de belasting die wordt nageheven op grond van bijvoorbeeld:
+Zekerheid kan ook worden gesteld voor belastingschulden over toekomstige jaren en/of reeds verstreken jaren waarover nog geen aanslag is opgelegd.
 
 ### Artikel 43. Aansprakelijkheid fiscale eenheid omzetbelasting
 
+In het geval dat lasten of andere bestanddelen van de tegenprestatie in de akte worden genoemd maar deze niet in geld zijn gewaardeerd, is de notaris ook voor de daarover verschuldigde belasting aansprakelijk.
+
+### 43.1. Teruggaaf omzetbelasting aan fiscale eenheid
+
+In aansluiting op [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42) beschrijft dit artikel het beleid over de reikwijdte van de aansprakelijkheid voor overdrachtsbelasting.
+
+### 42.1. Reikwijdte aansprakelijkheid voor overdrachtsbelasting
+
 In aansluiting op [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43) beschrijft dit artikel het beleid over:
 
 ### 43.1. Teruggaaf omzetbelasting aan fiscale eenheid
 
-In aansluiting op [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43) beschrijft dit artikel het beleid over:
+Een teruggaaf omzetbelasting vanwege een aangifte dan wel een vermindering van een naheffingsaanslag ten name van de fiscale eenheid wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel van de fiscale eenheid dat door de fiscale eenheid is aangewezen.
 
-### 43.1. Teruggaaf omzetbelasting aan fiscale eenheid
-
-Als geen aanwijzing heeft plaatsgevonden, wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel waarbij de teruggaaf is opgekomen of dat de naheffingsaanslag heeft betaald.
-
-### 43.2. Uitstel van betaling – verzoek om verrekening en fiscale eenheid omzetbelasting
+### Artikel 42a. tot en met [42c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42a)
 
 De ontvanger is bevoegd een teruggaaf die materieel is opgekomen bij een onderdeel met een belastingschuld te verrekenen met de belastingschuld van dat onderdeel, ook al heeft aanwijzing van een ‘derde’ plaatsgevonden.
 
 ### 43.2. Uitstel van betaling – verzoek om verrekening en fiscale eenheid omzetbelasting
 
+Een teruggaaf omzetbelasting vanwege een aangifte dan wel een vermindering van een naheffingsaanslag ten name van de fiscale eenheid wordt uitbetaald aan – dan wel verrekend met de openstaande belastingschuld van – het onderdeel van de fiscale eenheid dat door de fiscale eenheid is aangewezen.
+
+### Artikel 44. Aansprakelijkheid voor aan een derde toegerekende inkomensbestanddelen
+
 In aansluiting op [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) beschrijft dit artikel het beleid over de aansprakelijkheid van een kind voor inkomensbestanddelen die aan de ouder zijn toegerekend.
 
 ### 44.1. Aansprakelijkheid kind voor inkomensbestanddelen die aan de ouder zijn toegerekend
 
-In aansluiting op [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) beschrijft dit artikel het beleid over de aansprakelijkheid van een kind voor inkomensbestanddelen die aan de ouder zijn toegerekend.
+Op grond van het bepaalde in [artikel 2.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.15) zijn de volgende inkomensbestanddelen toegerekend aan de ouder (belastingschuldige) die het gezag over het kind uitoefent:
 
-### 44.1. Aansprakelijkheid kind voor inkomensbestanddelen die aan de ouder zijn toegerekend
-
-Als het gezag over het (minderjarige) kind aan meer dan één ouder toekomt, dan worden de genoemde inkomensbestanddelen in gelijke delen aan ieder van de ouders toegerekend. Op grond van [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) is het kind waarvan inkomensbestanddelen aan de ouder(s) is (zijn) toegerekend, naar evenredigheid aansprakelijk voor de verschuldigde inkomstenbelasting over de inkomensbestanddelen die aan de ouder(s) zijn toegerekend.
-
-### Artikel 44a. Aansprakelijkheid verzekeraars van lijfrenten en beroepspensioenen
+### Artikel 43a
 
 In aansluiting op [artikel 44a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44a) beschrijft dit artikel het beleid over:
 
 ### 44a.1. Aansprakelijkstelling van verzekeraar van lijfrenten en beroepspensioenen blijft achterwege
 
-Een aanspraak die is omgezet in een andere zodanige aanspraak in de zin van [artikel 3.135, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135) wordt gezien als een voortzetting van de eerste aanspraak.
+Aansprakelijkstelling blijft achterwege als sprake is van polissen die in de zin van [artikel 3.126, eerste lid, onderdeel a, onder 1°, onderdeel b of onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126) worden geacht te zijn overgedragen aan een andere toegelaten verzekeraar.
 
 ### 44a.2. Omvang aansprakelijkheid verzekeraar van lijfrenten en beroepspensioenen
 
-Als deze genoemde feiten blijken nadat tot aansprakelijkstelling is overgegaan, dan wordt de aansprakelijkstelling bij beschikking ingetrokken; deze beschikking wordt bekendgemaakt.
+Als de aansprakelijkheid betrekking heeft op de afkoop van meer dan één contract, dan moet toerekening van het totaal verschuldigde bedrag over de negatieve uitgaven voor inkomensvoorzieningen plaatsvinden aan de onderscheiden contracten, naar evenredigheid van de betaalde premies.
 
-### 44a.2. Omvang aansprakelijkheid verzekeraar van lijfrenten en beroepspensioenen
+### Artikel 44b. en [artikel 44c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c)
 
-In aansluiting op [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=46) beschrijft dit artikel het beleid over:
+Er zijn in deze leidraad op de [artikelen 44b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b) en [44c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c) geen beleidsregels gemaakt.
+
+### Artikel 45
+
+Bij aangifte voor het recht van successie of erfbelasting door de executeur blijven de erfgenamen aansprakelijk. Daarnaast ontstaat een aansprakelijkheid van de executeur (zie [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47)).
 
 ### 46.1. Volgorde aansprakelijkstelling voor successierecht of erfbelasting
 
 Bij aangifte voor het recht van successie of erfbelasting door de executeur blijven de erfgenamen aansprakelijk. Daarnaast ontstaat een aansprakelijkheid van de executeur (zie [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47)).
 
-### Artikel 46. Aansprakelijkheid voor rechten van successie of erfbelasting, overgang en schenking of schenkbelasting
-
-Bij aangifte voor het recht van successie of erfbelasting door de executeur blijven de erfgenamen aansprakelijk. Daarnaast ontstaat een aansprakelijkheid van de executeur (zie [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47)).
-
-### 46.2. Buiten Nederland wonende verkrijgers en successierecht of erfbelasting
+### Artikel 45
 
 De hoofdelijke aansprakelijkheid van [artikel 46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=46) bestaat voor het recht van successie of erfbelasting waarvoor buiten Nederland wonende verkrijgers hoofdelijk schuldenaar zijn.
 
-### Artikel 47
+### 46.1. Volgorde aansprakelijkstelling voor successierecht of erfbelasting
 
-In aansluiting op [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=48) beschrijft dit artikel het beleid over:
+Er zijn in deze leidraad op [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47) geen beleidsregels gemaakt.
 
 ### Artikel 48. Beperking aansprakelijkheid van erfgenamen
 
@@ -5736,15 +5740,15 @@ In aansluiting op [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### 48.1. Beneficiaire aanvaarding
 
-Aantasting van het vermogen van de erfgenamen blijft uiteraard achterwege.
+Als een nalatenschap onder het voorrecht van boedelbeschrijving is aanvaard, wordt de vereffening van de boedel afgewacht, met dien verstande dat de ontvanger maatregelen neemt ter beveiliging van zijn rechten (zie artikel 14.1.3 van deze leidraad).
 
-### 48.2. Invordering ten laste van een erfgenaam blijft achterwege
+### Artikel 47
 
-Als voor een belastingaanslag ten name van een overledene niet meer tegen de gezamenlijke erfgenamen kan worden opgetreden, blijft invordering ten laste van een erfgenaam van wie minder dan € 23 moet worden ingevorderd achterwege.
+Er zijn in deze leidraad op [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47) geen beleidsregels gemaakt.
 
-### 49.1. Aansprakelijkstelling voor bestuurlijke boete
+### Artikel 48. Beperking aansprakelijkheid van erfgenamen
 
-De ontvanger kan de beschikking aansprakelijkstelling voor de bestuurlijke boete opnemen in dezelfde brief waarbij hij ook de beschikking voor de aansprakelijkstelling voor de belastingschuld bekendmaakt. De ontvanger moet dan in de beschikking de gronden vermelden waarop de aansprakelijkstelling voor de boete berust**.**
+Er kan ook aanleiding bestaan een gering restbedrag op tactische gronden buiten invordering te laten.
 
 ### Artikel 49. Formele bepalingen voor aansprakelijkstelling
 
@@ -5752,21 +5756,29 @@ In aansluiting op [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### 49.1. Aansprakelijkstelling voor bestuurlijke boete
 
-Als geen gebruik wordt gemaakt van de gelegenheid om de gronden, waarop het voornemen tot een aansprakelijkstelling voor de vergrijpboete berust, te betwisten of de ontvanger is van oordeel dat de betwisting van de aansprakelijke ongegrond is, dan zal hij de derde daarvan op de hoogte stellen en overgaan tot aansprakelijkstelling voor de bestuurlijke boete op de voet van [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49).
-
-### 49.2. Aansprakelijkstelling voor invorderingsrente
-
-Als aan de aansprakelijkgestelde invorderingsrente in rekening moet worden gebracht, dan wordt de rente berekend over het bedrag waarvoor hij aansprakelijk is gesteld.
+De ontvanger kan de beschikking aansprakelijkstelling voor de bestuurlijke boete opnemen in dezelfde brief waarbij hij ook de beschikking voor de aansprakelijkstelling voor de belastingschuld bekendmaakt. De ontvanger moet dan in de beschikking de gronden vermelden waarop de aansprakelijkstelling voor de boete berust**.**
 
 ### 49.3. De aansprakelijkstelling – in gebreke zijn
 
+Er kan ook aanleiding bestaan een gering restbedrag op tactische gronden buiten invordering te laten.
+
+### Artikel 49. Formele bepalingen voor aansprakelijkstelling
+
 Voor zover in het bedrag van de aansprakelijkstellingsbeschikking tevens een bedrag aan invorderingsrente is opgenomen, wordt over dat bedrag geen rente in rekening gebracht.
 
-### 49.3.1. Wanneer in gebreke
+### 49.3. De aansprakelijkstelling – in gebreke zijn
 
 De belastingschuldige is in gebreke als de betaling van zijn belastingschuld niet heeft plaatsgevonden binnen de betalingstermijn die voor de belastingaanslag geldt.
 
 ### 49.3.2. In gebreke zijn en versnelde invordering
+
+De belastingschuldige wordt ook geacht in gebreke te zijn als de belastingaanslag op grond van [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) terstond invorderbaar is.
+
+### 49.3.3. In gebreke zijn en een beschikking ‘geen verdere invorderingsmaatregelen’
+
+Als de ontvanger aan de belastingschuldige een beschikking heeft gestuurd waarin hij toezegt geen verdere invorderingsmaatregelen tegen de belastingschuldige meer te nemen, kan een derde voor de desbetreffende belastingschuld niettemin aansprakelijk worden gesteld, mits die mogelijkheid uitdrukkelijk in de beschikking is vermeld.
+
+### 49.4. Informatieverstrekking in beschikking aansprakelijkstelling keten- en inlenersaansprakelijkheid
 
 Als de ontvanger een derde aansprakelijk stelt op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b), neemt de ontvanger – naast de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te vermelden gegevens – de volgende gegevens op:
 
@@ -5774,29 +5786,17 @@ Als de ontvanger een derde aansprakelijk stelt op grond van [artikel 34](https:/
 
 Op grond van het bepaalde in [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) moet de ontvanger de aansprakelijkgestelde desgevraagd op de hoogte stellen van de gegevens over de belasting waarvoor hij aansprakelijk is gesteld.
 
-### 49.4. Informatieverstrekking in beschikking aansprakelijkstelling keten- en inlenersaansprakelijkheid
+### 49.3.3. In gebreke zijn en een beschikking ‘geen verdere invorderingsmaatregelen’
 
 De gegevens worden – na een daartoe strekkend verzoek van de aansprakelijk gestelde – vooruitlopend op het indienen van een bezwaarschrift of op het instellen van beroep verstrekt.
 
-### 49.5. Informatieverstrekking aan aansprakelijkgestelden
-
-Tot de gegevens die op grond van genoemde bepaling moeten worden verstrekt, behoren in elk geval de stukken die op de zaak betrekking hebben als bedoeld in de [artikelen 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) en [8:42 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:42). Hieronder worden verstaan alle stukken die bij het nemen van het besluit een rol hebben gespeeld. Naast de gegevens die zijn vastgelegd in de genoemde stukken moeten desgevraagd ook andere gegevens worden verstrekt, mits die gegevens redelijkerwijs van belang kunnen worden geacht voor het maken van bezwaar of het instellen van beroep.
-
-### 49.6. Aansprakelijkheid – eerst uitwinning belastingschuldige
-
-Hoewel [artikel 49, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) betrekking heeft op de gegevens over de belasting, is goedgekeurd dat de gegevensverstrekking zich daartoe niet beperkt, maar mede betrekking heeft op (alle) andere aspecten van de aansprakelijkheidsbeslissing. Voorwaarde is wel dat deze gegevens hetzij gerekend kunnen worden tot de stukken die op de zaak betrekking hebben als hiervoor genoemd, hetzij redelijkerwijs van belang kunnen worden geacht voor het maken van bezwaar tegen de aansprakelijkheidsbeschikking of het instellen van beroep tegen daarop volgende beslissingen.
-
-### 49.6. Aansprakelijkheid – eerst uitwinning belastingschuldige
+### 49.4. Informatieverstrekking in beschikking aansprakelijkstelling keten- en inlenersaansprakelijkheid
 
 De ontvanger zal zich in beginsel eerst verhalen op vermogensbestanddelen van de belastingschuldige voordat hij overgaat tot uitwinning van de vermogensbestanddelen van de aansprakelijkgestelde, tenzij zich een situatie voordoet als bedoeld in artikel 14.1.4, laatste volzin, van de leidraad.
 
 ### 49.7. Volgorde van aansprakelijk stellen
 
-Dit geldt niet in de gevallen waarvoor in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of deze leidraad anders is bepaald.
-
-### 49.8. Bezwaar, beroep, hoger beroep en beroep in cassatie tegen de beschikking aansprakelijkstelling
-
-Een bezwaarschrift tegen de beschikking aansprakelijkstelling wordt tevens aangemerkt als een verzoek om uitstel van betaling.
+Als de ontvanger een derde aansprakelijk kan stellen op grond van meer dan één fiscale of civielrechtelijke aansprakelijkheidsbepaling, dan hoeft hij daarbij geen volgorde in acht te nemen. Hetzelfde geldt als de ontvanger verscheidene derden op grond van dezelfde dan wel op grond van verschillende aansprakelijkheidsbepalingen aansprakelijk kan stellen.
 
 ### 49.9.1. Bij civiele procedure geen invordering of verrekening
 
@@ -5804,19 +5804,19 @@ Eveneens vindt tijdens de civiele procedure geen verrekening plaats van uit te b
 
 ### 49.9.1. Bij civiele procedure geen invordering of verrekening
 
-In aansluiting op [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=51) beschrijft dit artikel het beleid over conservatoir beslag en uitstel in verband met bezwaar.
+Dit geldt niet in de gevallen waarvoor in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of deze leidraad anders is bepaald.
 
-### 51.1. Conservatoir beslag en uitstel in verband met bezwaar
+### 49.8. Bezwaar, beroep, hoger beroep en beroep in cassatie tegen de beschikking aansprakelijkstelling
+
+Eveneens vindt tijdens de civiele procedure geen verrekening plaats van uit te betalen bedragen ten name van de aansprakelijkgestelde met een aansprakelijkheidsschuld. Bij vrees voor onverhaalbaarheid kan conservatoir beslag worden gelegd op het uit te betalen bedrag.
+
+### 49.9.1. Wijziging eis
 
 Als er conservatoir beslag ligt en de aansprakelijkgestelde verzoekt om uitstel van betaling in verband met een bezwaar tegen de beschikking, dan verleent de ontvanger alleen uitstel van betaling als er zekerheid wordt gesteld.
 
-### Artikel 52. Betalingstermijn beschikking aansprakelijkstelling
+### 49.9.1. Bij civiele procedure geen invordering of verrekening
 
-Als er conservatoir beslag ligt en de aansprakelijkgestelde verzoekt om uitstel van betaling in verband met een bezwaar tegen de beschikking, dan verleent de ontvanger alleen uitstel van betaling als er zekerheid wordt gesteld.
-
-### Artikel 52. Betalingstermijn beschikking aansprakelijkstelling
-
-In aansluiting op [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=52) beschrijft dit artikel het beleid over vermindering van de belastingaanslag.
+Tijdens de civiele procedure volgend op een betwisting op grond van het tot 1 december 2002 geldende recht vinden geen invorderingsmaatregelen plaats. Bij vrees voor onverhaalbaarheid kunnen wel conservatoire maatregelen worden genomen.
 
 ### 52.1. Vermindering van de belastingaanslag en aansprakelijkstelling
 
@@ -5844,11 +5844,11 @@ In aansluiting op [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### 58.1. Geen invorderingsonderzoek tijdens een gerechtelijke procedure
 
-In aansluiting op [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58) beschrijft dit artikel het beleid over geen invorderingsonderzoek tijdens een gerechtelijke procedure.
+Een aansprakelijkheidsschuld (beschikking ex [artikel 49 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49)) is niet voor zelfstandige verjaring vatbaar. Door verjaring van de belastingaanslag waarvoor aansprakelijk is gesteld, eindigt ook het recht van dwanginvordering en verrekening van de aansprakelijkheidsvordering.
 
-### 58.1. Geen invorderingsonderzoek tijdens een gerechtelijke procedure
+### Artikel 54. Mededeling aan de aansprakelijkgestelde
 
-Onder gegevens die voor de invordering van de ‘eigen’ belastingschulden van de belastingschuldige van belang zijn, vallen ook de gegevens die de ontvanger nodig heeft om te beoordelen of hij mogelijk derden aansprakelijk kan stellen.
+De ontvanger houdt de betaling van de teruggaaf – als bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=54) – aan gedurende vier weken na de dagtekening van de schriftelijke mededeling aan de belastingschuldige.
 
 ### Artikel 59. Informatieverplichting: gegevensdragers bij een derde
 
@@ -5858,29 +5858,29 @@ In aansluiting op [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 De ontvanger geeft de gegevensdragers die hem op basis van [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) ter beschikking zijn gesteld, ook weer terug aan de derde en niet aan de belastingschuldige. Dit ter voorkoming van geschillen over een eventueel aan die derde toekomend retentierecht.
 
-### Artikel 60. Formele bepalingen voor de informatieverplichtingen
+### 59.1. Teruggave gegevensdragers aan derde
+
+Onder gegevens die voor de invordering van de ‘eigen’ belastingschulden van de belastingschuldige van belang zijn, vallen ook de gegevens die de ontvanger nodig heeft om te beoordelen of hij mogelijk derden aansprakelijk kan stellen.
+
+### Artikel 59. Informatieverplichting: gegevensdragers bij een derde
 
 De ontvanger stelt een redelijke termijn voor het verstrekken van de gegevens en inlichtingen of het ter beschikking stellen van de gegevensdragers.
 
-### 60.2. Kwaliteit van de gegevens en wijze van verstrekking of beschikbaar stellen
+### Artikel 61. Geen geheimhoudingsplicht bij de informatieverplichtingen
 
-Als de opgevraagde gegevens niet duidelijk, stellig en zonder voorbehoud worden verstrekt, herhaalt de ontvanger zijn verzoek en vordert hij op basis van [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=60) correcte en concrete gegevens.
+Gegevensverstrekking vindt in beginsel uitsluitend schriftelijk plaats. In uitzonderingssituaties kan de ontvanger toestaan dat de gegevens mondeling worden verstrekt. In verband met de bewijsvoering zorgt de ontvanger voor een vastlegging van het gesprek.
 
 ### Artikel 61. Geen geheimhoudingsplicht bij de informatieverplichtingen
+
+De ontvanger heeft alleen belang bij die gegevens en inlichtingen en gegevensdragers die hem inzicht verschaffen in de financiële positie van de belastingschuldige.
+
+### 62.1. Gerechtelijke verklaringsprocedure
 
 In aansluiting op [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=61) beschrijft dit artikel het beleid over niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens.
 
 ### 61.1. Niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens
 
-In aansluiting op [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) beschrijft dit artikel het beleid over de gerechtelijke verklaringsprocedure.
-
-### 62.1. Gerechtelijke verklaringsprocedure
-
-Er zijn in deze leidraad op [artikel 62a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62a) geen beleidsregels gemaakt.
-
-### Artikel 63. en [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a)
-
-Er zijn in deze leidraad op de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63) en [63a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63a) geen beleidsregels gemaakt.
+De ontvanger heeft alleen belang bij die gegevens en inlichtingen en gegevensdragers die hem inzicht verschaffen in de financiële positie van de belastingschuldige.
 
 ### Artikel 63b. Bestuurlijke boeten
 
@@ -5896,25 +5896,25 @@ Voor het opleggen van de boete wordt een systematiek gehanteerd waarbij de boete
 
 ### 67.2. Informatieverstrekking aan gerechtsdeurwaarder over periodieke betalingen
 
-De beschikking waarbij de verzuimboete wordt opgelegd kan, maar behoeft niet gelijktijdig met een eventuele (ambtshalve) beslissing te worden genomen.
+Voor het opleggen van de boete wordt een systematiek gehanteerd waarbij de boete wordt gerelateerd aan de hoogte van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting.
 
-### 63b.3. Verplichting toe te laten dat kopieën e.d. worden gemaakt
+### Artikel 63b. Bestuurlijke boeten
 
-Ter zake van het verzuim als bedoeld in [artikel 63b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) kan de ontvanger een verzuimboete opleggen van 50 procent van het in dat artikel genoemde wettelijk maximum. In afwijking hiervan kan in uitzonderlijke gevallen een boete tot het in artikel 63b, tweede lid, van de wet genoemde maximum worden opgelegd.
+Als een aanslag in meerdere termijnen betaald mag worden, kunnen er met betrekking tot die aanslag ook meerdere verzuimen als bedoeld in [artikel 63b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) voorkomen. Als er meerdere dergelijke verzuimen zijn, zijn er even zoveel beboetbare feiten. Bij de bepaling van de hoogte van de boete vanwege een verzuim, houdt de ontvanger alleen rekening met de belasting die betrekking heeft op de desbetreffende betalingstermijn.
 
-### Artikel 65. Niet nakomen informatieverplichting: strafmaat voor misdrijf
+### 63b.1. Algemene uitgangspunten
 
-De beschikking waarbij de verzuimboete wordt opgelegd kan, maar behoeft niet gelijktijdig met een eventuele (ambtshalve) beslissing te worden genomen.
+Bij het opleggen van bestuurlijke verzuimboeten op grond van [hoofdstuk VIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa) zijn, naast de bepalingen van de AWR die in [artikelen 63b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) worden genoemd, de voorschriften van [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [titel 5.4 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) van toepassing. Ook zijn de algemene bepalingen in [hoofdstuk 1 van het Besluit Bestuurlijke Boeten Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029297&hoofdstuk=1) van toepassing, voor zover deze een invulling geven aan het geldende wettelijke kader.
 
 ### Artikel 65a. en [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66)
 
-Er zijn in deze leidraad op de [artikelen 65a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65a) en [66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) geen beleidsregels gemaakt.
+De beschikking waarbij de verzuimboete wordt opgelegd kan, maar behoeft niet gelijktijdig met een eventuele (ambtshalve) beslissing te worden genomen.
 
-### Artikel 67. Geheimhoudingsplicht
+### Artikel 63c. en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=64)
 
-Er zijn in deze leidraad op de [artikelen 65a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65a) en [66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) geen beleidsregels gemaakt.
+De boete wordt opgelegd aan degene die niet aan zijn verplichting voldoet. Dit kan een ander zijn dan de belastingschuldige.
 
-### Artikel 67. Geheimhoudingsplicht
+### Artikel 65a. en [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66)
 
 Als de belastingschuldige zelf verzoekt informatie te geven over de belastingschulden die hij heeft, zal de ontvanger die informatie ook kunnen verstrekken zonder de geheimhoudingsplicht te schenden. Ontheffing door de minister is in dat geval niet nodig.
 
@@ -5922,33 +5922,33 @@ Als de belastingschuldige zelf verzoekt informatie te geven over de belastingsch
 
 Er zijn in deze leidraad op de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=72) geen beleidsregels gemaakt.
 
-### Artikel 73. Insolventieprocedures
+### Artikel 65a. en [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66)
+
+Desgevraagd is de ontvanger op grond van [artikel 475g, derde lid, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g) verplicht aan de gerechtsdeurwaarder die gerechtigd is beslag te leggen tegen een schuldenaar, schriftelijk informatie te verstrekken over periodieke betalingen die hij aan die schuldenaar verricht of gaat verrichten op grond van een verleende voorlopige teruggaafbeschikking.
+
+### Artikel 68. tot en met 72
 
 Het verstrekken van andere informatie dan hiervoor genoemd, is in strijd met de geheimhoudingsplicht van [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67). Aan het enkele feit dat de gerechtsdeurwaarder een verzoek doet op grond van [artikel 475g, derde lid, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g) mag de ontvanger het vertrouwen ontlenen dat er een gerechtigdheid bestaat tot het leggen van beslag tegen de schuldenaar in kwestie.
 
 ### Artikel 68. tot en met 72
 
-De ontvanger meldt ook conserverende belastingschulden ter verificatie aan bij de bewindvoerder.
+In dit artikel is het volgende beleid over insolventieprocedures opgenomen:
 
-### Artikel 73. Insolventieprocedures
+### 73.1. Algemene uitgangspunten insolventieprocedures
 
 Uiterlijk veertien dagen vóór de verificatievergadering meldt de ontvanger zijn vorderingen ter verificatie aan bij de bewindvoerder. Daarbij wordt er van uitgegaan dat belastingschulden die naar tijdvak worden geheven, geacht worden van dag tot dag te ontstaan.
 
-### 73.1.3. Boedelschulden
-
-Het voorgaande is ook van toepassing bij een wettelijke schuldsaneringsregeling.
-
 ### 73.1.2. Invorderingsmaatregelen tijdens de toepassing van WSNP of faillissement
+
+Er zijn in deze leidraad op de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=72) geen beleidsregels gemaakt.
+
+### Artikel 73. Insolventieprocedures
 
 Na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger voor belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt, geen bodembeslag meer leggen. Ook een reeds gelegd bodembeslag kan de ontvanger dan niet meer uitwinnen. Daarom zal de ontvanger in elk geval vóór het einde van de wettelijke schuldsaneringsregeling overgaan tot verkoop van de inbeslaggenomen bodemgoederen. Aansprakelijkstelling voor belastingaanslagen tijdens zowel het faillissement als tijdens de wettelijke schuldsaneringsregeling is mogelijk.
 
 ### 73.1.3. Boedelschulden
 
-Het voorgaande is ook van toepassing bij een wettelijke schuldsaneringsregeling.
-
-### 73.4.1. Faillissementsaanvraag – algemeen
-
-Belastingschulden ontstaan gedurende een surséance zijn boedelschulden in het faillissement (zie artikel 19.2.2 van deze leidraad).
+De ontvanger ziet er op toe dat de boedelschulden tijdig door de curator worden voldaan. Als belastingschulden die als boedelschulden kunnen worden aangemerkt, ten onrechte niet worden voldaan, wendt de ontvanger zich in beginsel eerst tot de curator teneinde informatie te verkrijgen over de toestand van de boedel en zo mogelijk langs minnelijke weg alsnog voldoening te bewerkstelligen. Als dit niet leidt tot een bevredigende oplossing wendt de ontvanger zich met zijn grieven tot de rechter-commissaris. In het uiterste geval kan de ontvanger rechtstreeks verhaal zoeken op de boedel.
 
 ### 73.1.4. Proceskostengarantie
 
@@ -5956,11 +5956,15 @@ Daarnaast stelt de ontvanger de eis dat de schuldeisers – die bij een verdelin
 
 ### 73.1.5. Belangenbehartiging door de bewindvoerder of de curator
 
-De ontvanger moet erop toezien dat de bewindvoerder of de curator zijn belangenbehartigingsplicht – als neergelegd in [artikel 57, derde lid, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) – op juiste wijze nakomt. De bevoegdheid ex [artikel 57, derde lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=57) kan eerst door de bewindvoerder dan wel de curator worden uitgeoefend indien en voor zover vaststaat dat de vordering van de ontvanger waarvoor het bodemvoorrecht geldt, niet uit het vrije boedelactief kan worden voldaan.
+Bij de beoordeling van het verzoek neemt de ontvanger als uitgangspunt dat:
+
+### 73.1.3. Boedelschulden
+
+Zie voor bodemvoorrecht in WSNP en faillissement artikel 21.4 van deze leidraad.
 
 ### 73.1.7. Bodemrecht en insolventie van de derde-eigenaar
 
-Zie voor ketenaansprakelijkheid in relatie tot WSNP en faillissement onderaannemer artikel 35.5.2, 35.6.2 en 35.12.11 van deze leidraad.
+Voor bodemrecht en insolventie van de derde-eigenaar wordt verwezen naar artikel 22.6 van deze leidraad.
 
 ### 73.1.8. Uitstel in relatie tot WSNP en faillissement
 
@@ -5972,125 +5976,125 @@ Zie voor kwijtschelding in relatie tot WSNP en faillissement artikel 26.1.9 van 
 
 ### 73.1.10. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot WSNP en faillissement
 
-Zie voor bestuurdersaansprakelijkheid in relatie tot faillissement artikel 36.1, 36.2, 36.3 en 36.5.7 van deze leidraad.
+Voor bodemrecht en insolventie van de derde-eigenaar wordt verwezen naar artikel 22.6 van deze leidraad.
 
-### 73.1.11. Toeslagenschuld in relatie tot MSNP, WSNP en faillissement
+### 73.1.8. Uitstel in relatie tot WSNP en faillissement
 
 Zie voor verplichtingensignaal in relatie tot MSNP, WSNP en faillissement artikel 77.3 en 77.5 van deze leidraad.
 
 ### 73.2. insolventieprocedure – wettelijke schuldsanering
 
-Voor de situatie dat een belastingschuldige, ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, verzoekt om kwijtschelding van nadien opgekomen belastingschulden die niet zijn aan te merken als boedelschuld, wordt verwezen naar artikel 26.2.17 van deze leidraad.
+Belastingvorderingen waarop de wettelijke schuldsaneringsregeling van toepassing is en voor zover die na de beëindiging op grond van [artikel 356, tweede lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=356) onvoldaan zijn gebleven, zijn aan te merken als natuurlijke verbintenissen ongeacht of de vorderingen door de ontvanger bij de bewindvoerder zijn aangemeld. Mocht in dit verband sprake zijn van een als natuurlijke verbintenis aan te merken aanslag in de premie voor de volksverzekeringen, dan wordt zo’n aanslag niet meer bij de Sociale Verzekeringsbank aangemeld in verband met schuldig-nalatig verklaring als bedoeld in [artikel 61 Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=61).
 
 ### 73.2.2. Na de toepassing van de WSNP
 
-Belastingvorderingen waarop de wettelijke schuldsaneringsregeling van toepassing is en voor zover die na de beëindiging op grond van [artikel 356, tweede lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=356) onvoldaan zijn gebleven, zijn aan te merken als natuurlijke verbintenissen ongeacht of de vorderingen door de ontvanger bij de bewindvoerder zijn aangemeld. Mocht in dit verband sprake zijn van een als natuurlijke verbintenis aan te merken aanslag in de premie voor de volksverzekeringen, dan wordt zo’n aanslag niet meer bij de Sociale Verzekeringsbank aangemeld in verband met schuldig-nalatig verklaring als bedoeld in [artikel 61 Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=61).
+Ook na beëindiging van de wettelijke schuldsaneringsregeling kan de ontvanger derden nog aansprakelijk stellen voor niet-betaalde belastingaanslagen die als natuurlijke verbintenissen moeten worden aangemerkt.
 
-### 73.3.1. Uitstel, kwijtschelding en surséance
-
-Voor uitstel van betaling in relatie tot surséance wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
-
-### 73.3.1. Uitstel, kwijtschelding en surséance
+### 73.2.1. Kwijtschelding tijdens WSNP
 
 Voor een voorlopige aanslag vraagt de ontvanger slechts een faillissement aan als:
 
 ### 73.4.2. Ontbinding van rechtspersonen in plaats van faillissementsaanvraag
 
-Zie voor surséance in relatie tot ketenaansprakelijkheid en bestuurdersaansprakelijkheid artikel 35.5.4, 35.6.2 en 35.12.11 onderscheidenlijk artikel 36.5.6 van deze leidraad.
+Voor kwijtschelding in relatie tot surséance wordt verwezen naar artikel 26.1.9 van deze leidraad.
 
-### 73.4.1. Faillissementsaanvraag – algemeen
+### 73.3.2. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot surséance
 
-Voor zover de openstaande belastingschulden het gevolg zijn van bedrijfsvoering of uitoefening van een zelfstandig beroep, worden natuurlijke personen die hun bedrijf of zelfstandige beroepsuitoefening hebben gestaakt in dit verband niet beschouwd als particulieren.
+Reeds in gang gezette aansprakelijkheidsprocedures kan de ontvanger voortzetten.
 
-### 73.4.4. Saneringsaanbod en faillissementsaanvraag
+### 73.3. Insolventieprocedure – surséance
+
+Voor uitstel van betaling in relatie tot surséance wordt verwezen naar artikel 25.1.4 en 25.4.4 van deze leidraad.
+
+### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
 
 Het aanvragen van het faillissement van een particulier blijft achterwege als wordt verwacht dat de ontvanger de eventuele vermogensbestanddelen ook geheel of nagenoeg geheel zonder faillissement kan uitwinnen, zelfs als daarbij niet de gehele schuld wordt voldaan.
 
-### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
+### 73.4.1. Faillissementsaanvraag – algemeen
 
-De ontvanger doet dit niet als duidelijk is dat het verzoek louter is gedaan om de behandeling van de faillissementsaanvraag te traineren, of als het verzoek onvoldoende past binnen het door de fiscus gehanteerde uitstelbeleid, en/of gebaseerd is op een onjuiste voorstelling van zaken. In deze gevallen wijst de ontvanger het verzoek bij beschikking gemotiveerd af, zonder de faillissementsaanvraag in te trekken of aan te houden.
+Als de belastingschuldige – voordat de faillissementsaanvraag in behandeling is genomen – een verzoek om kwijtschelding doet, dan wel een buitengerechtelijk akkoord aanbiedt (een en ander in de zin van artikel 73.6 van deze leidraad), dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek dan wel het aanbod aan een nader oordeel te onderwerpen.
 
-### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
+### 73.4.2. Ontbinding van rechtspersonen in plaats van faillissementsaanvraag
 
-Als de belastingschuldige een verzoek om uitstel van betaling doet, voordat de rechtbank de faillissementsaanvraag in behandeling heeft genomen, dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek aan een nader oordeel te onderwerpen.
-
-### 73.4.6. Toestemming voor faillissementsaanvraag
-
-Als de ontvanger gebruik wil maken van de mogelijkheid tot verzet tegen de faillietverklaring als bedoeld in [artikel 10, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=10) heeft hij hiervoor toestemming van het ministerie nodig.
+Particulieren zijn in dit verband natuurlijke personen die niet een onderneming drijven of zelfstandig een beroep uitoefenen en waarvan niet aannemelijk is dat zij van plan zijn dit te doen.
 
 ### 73.4.8. Verlenen van steunvordering en faillissementsaanvraag
 
-De curator legt aan de ontvanger alle relevante gegevens met betrekking tot de voorwaardelijke regresvordering over. In ieder geval maakt de curator (ook kwantitatief) inzichtelijk, hoe groot het belang van de ontvanger is bij afwikkeling van de boedel mét en zónder inning van de vordering waarvoor een beroep op de voorwaardelijke regresvordering wordt gedaan.
+Voor het verstrekken van de gegevens van de belastingschuldige geldt niet hetgeen in artikel 73.4.1 tot en met 73.4.6 van deze leidraad is vermeld met betrekking tot een faillissementsaanvraag door de ontvanger.
+
+### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
+
+Als de ontvanger gebruik wil maken van de mogelijkheid tot verzet tegen de faillietverklaring als bedoeld in [artikel 10, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=10) heeft hij hiervoor toestemming van het ministerie nodig.
+
+### 73.4.10. Beroep op regresrecht in faillissement
+
+In het faillissement van een belastingschuldige kan een schuldenaar van de belastingschuldige – als deze schuldenaar door de ontvanger aansprakelijk kan worden gesteld op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) of [35b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b) – zich beroepen op een voorwaardelijke regresrecht. Door dit beroep kan de vordering niet worden geïnd.
+
+### 73.4.8. Verlenen van steunvordering en faillissementsaanvraag
+
+De ontvanger betrekt in ieder geval de volgende aspecten bij de mogelijke, door hem te nemen beslissingen:
 
 ### 73.4.9. Verzet tegen faillietverklaring
 
-Het beroep op het regresrecht vervalt als zeker is dat de ontvanger de schuldenaar van de belastingschuldige niet aansprakelijk stelt. In een dergelijke situatie kan (uitsluitend) de curator zich tot de ontvanger wenden met het verzoek om een besluit te nemen over het wel of niet aansprakelijk stellen van de schuldenaar van de belastingschuldige. De ontvanger moet het belang van de curator en de door deze vertegenwoordigde schuldeisers betrekken in de besluitvorming of hij tot aansprakelijkstelling zal overgaan.
+Als de ontvanger gebruik wil maken van de mogelijkheid tot verzet tegen de faillietverklaring als bedoeld in [artikel 10, Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=10) heeft hij hiervoor toestemming van het ministerie nodig.
 
-### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
-
-De ontvanger verzendt de curator binnen tien dagen na ontvangst van de gegevens een ontvangstbevestiging. Als de ontvanger naar aanleiding van de verstrekte gegevens nadere informatie wenst, vermeldt hij dat in de ontvangstbevestiging. Ook geeft hij aan de redelijke termijn waarop de aanvullende gegevens moeten zijn verstrekt.
-
-### 73.4.12. Opkomen in faillissement
-
-Voor toezending of uitreiking van het aanslagbiljet ingeval van faillissement wordt verwezen naar artikel 8.1 van deze leidraad.
-
-### 73.4.12. Opkomen in faillissement
+### 73.4.10. Beroep op regresrecht in faillissement
 
 Van de bevoegdheid op grond van [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) om van de curator dadelijke voldoening aan de vordering te verlangen, wordt verwezen naar artikel 19.2.3 van deze leidraad.
 
 ### 73.4.13. Volgorde uitwinning bodembeslag in faillissement
 
-Als de belastingschuldige woont of gevestigd is in een lidstaat van de EU – niet Denemarken – en aldaar in staat van insolventie verkeert terwijl in Nederland sprake is van een nevenvestiging, kan in Nederland op grond van de EG-insolventieverordening een zogenoemde territoriale of secundaire procedure worden geopend.
-
-### 73.4.14. Na de toepassing van het faillissement
-
-Als na beëindiging van faillissement daaruit ontvangen gelden moeten worden terugbetaald, treedt de ontvanger in verband met [artikel 194 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=194) in overleg met de curator.
+De ontvanger betrekt in ieder geval de volgende aspecten bij de mogelijke, door hem te nemen beslissingen:
 
 ### 73.4.15. Opening nationale (secundaire) insolventieprocedure
 
-Als omzetting van een faillissement in een wettelijke schuldsaneringsregeling mogelijk is, toetst de ontvanger – als de schuldenaar hier uitdrukkelijk om verzoekt – een door de schuldenaar in het faillissement aangeboden akkoord aan het beleid ingevolge [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a) en [22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a).
+Onmiddellijk na kennisname van de in het buitenland geopende hoofdprocedure, beoordeelt de ontvanger of hij baat heeft bij het openen van een secundaire of territoriale procedure in Nederland. Een secundaire procedure betreft alleen de liquidatieprocedure – dus niet de surseance van betaling – en wordt afgewikkeld volgens het in Nederland geldende recht. De staat van insolventie behoeft daarbij niet te worden aangetoond.
+
+### 73.4.14. Na de toepassing van het faillissement
+
+De ontvanger maakt in beginsel geen gebruik van de bevoegdheid van [artikel 196 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=196), om na de beëindiging van een faillissement het proces-verbaal van de verificatievergadering voor het onbetaald gebleven bedrag tegen de schuldenaar te executeren. Als er wel aanleiding tot invordering bestaat, doet de ontvanger dit zoveel mogelijk bij dwangbevel.
 
 ### 73.5.1. Algemeen
 
 Op basis van de voorwaarde onder c is de betreffende regeling ook van toepassing op een ex-ondernemer, als aannemelijk is dat hij in de toekomst geen bedrijf of niet zelfstandig een beroep zal uitoefenen.
 
-### 73.6.1. Buitengerechtelijk akkoord
+### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
 
 De uitstelregeling geldt voor belastingaanslagen die betrekking hebben op de (materieel) verschuldigde belasting tot en met de dag van de dagtekening van de schuldregelingsovereenkomst en is definitief in die zin dat daarop van de zijde van de ontvanger in beginsel niet meer kan worden teruggekomen. In voorkomend geval wordt het bedrag van de verschuldigde belastingen door middel van schatting bepaald. In het geval de in de vorige volzin bedoelde schatting naar achteraf blijkt substantieel te laag mocht zijn, kan de ontvanger daarop alleen terugkomen indien terzake van die belasting ten tijde van de schatting ten onrechte geen aangifte was gedaan danwel indien de belastingschuldige of de schuldhulpverlener wisten of behoorden te weten dat de schatting te laag was.
 
 ### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
 
-Vanaf de ontvangst van een afschrift van de stabilisatie-overeenkomst neemt de ontvanger gedurende 120 dagen geen dwanginvorderingsmaatregelen.
+Een schuldhulpverleningstraject vangt in het algemeen aan met een stabilisatie-overeenkomst tussen de schuldenaar en de schuldhulpverlener als bedoeld in artikel 73.5.1, onder b. Voor de toepassing van dit artikel wordt met een stabilisatie-overeenkomst gelijkgesteld een schriftelijke mededeling van de schuldhulpverlener inhoudend dat hij activiteiten ontplooit die erop gericht zijn de financiële situatie van de schuldenaar op korte termijn te stabiliseren.
 
-### 73.5.4. Houding ontvanger tijdens uitstel MSNP
+### 73.5.1. Algemeen
 
 Als zich bijzondere omstandigheden voordoen kan de voormelde termijn door de schuldhulpverlener in overleg met de ontvanger met maximaal 120 dagen worden verlengd.
 
 ### 73.5.3. Gevolgen uitstel MSNP voor invorderingsmaatregelen
 
-De ontvanger trekt het uitstel in als:
-
-### 73.5.4. Houding ontvanger tijdens uitstel MSNP
-
-Dit houdt onder meer in dat bij de berekening van de betalingscapaciteit op het inkomen van de belastingschuldige niet in mindering wordt gebracht dat deel van het inkomen dat door de schuldhulpverlener wordt beheerd. Verder wordt opgemerkt dat de middelen die onder beheer van de schuldhulpverlener berusten, niet worden beschouwd als vermogen in de zin van [artikel 12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12).
+De uitstelregeling geldt voor belastingaanslagen die betrekking hebben op de (materieel) verschuldigde belasting tot en met de dag van de dagtekening van de schuldregelingsovereenkomst en is definitief in die zin dat daarop van de zijde van de ontvanger in beginsel niet meer kan worden teruggekomen. In voorkomend geval wordt het bedrag van de verschuldigde belastingen door middel van schatting bepaald. In het geval de in de vorige volzin bedoelde schatting naar achteraf blijkt substantieel te laag mocht zijn, kan de ontvanger daarop alleen terugkomen indien terzake van die belasting ten tijde van de schatting ten onrechte geen aangifte was gedaan danwel indien de belastingschuldige of de schuldhulpverlener wisten of behoorden te weten dat de schatting te laag was.
 
 ### 73.5.5. Intrekken uitstel gedurende MSNP
 
-Als de ontvanger uitstel van betaling heeft verleend voor de periode van de MSNP, wordt een schriftelijke kennisgeving van de schuldhulpverlener na afloop van de overeenkomst tot schuldregeling aangemerkt als het aanbieden van een buitengerechtelijk akkoord in de zin van [artikel 19a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a).
+De ontvanger trekt het uitstel in als:
 
-### 73.5.7. Na de toepassing van de MSNP
+### 73.5.3. Gevolgen uitstel MSNP voor invorderingsmaatregelen
+
+Eventuele gelegde beslagen vervallen zodra een schuldregeling tussen de schuldenaar en diens schuldeisers tot stand is gekomen ( en de schuldregelingsovereenkomst dus wordt voortgezet). Verrekening kan plaatsvinden met teruggaven die betrekking hebben op belasting die (materieel) is ontstaan tot en met de dag waarop het afschrift van de stabilisatie-overeenkomst is ontvangen.
+
+### 73.5.4. Houding ontvanger tijdens uitstel MSNP
+
+Als de belastingschuldige verzoekt om kwijtschelding van belastingschulden die materieel zijn ontstaan na de dag van de dagtekening van de schuldregelingsovereenkomst, dan wordt het verzoek behandeld overeenkomstig het bestaande beleid.
+
+### 73.6.8. Gevolgen dwangakkoord
+
+Verzoeken om een minnelijke schuldsaneringsregeling gedaan door een persoon of instelling als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48), niet zijnde een NVVK-lid of een gemeente, worden in behandeling genomen met inachtneming van het volgende. De ontvanger zal een belangenafweging moeten maken en zich daarbij moeten afvragen of hij al dan niet tot instemming met de schuldregeling kan komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij de uitoefening van de bevoegdheid tot weigering en het belang van de schuldenaar dat door die weigering wordt geschaad.
+
+### 73.6.1. Buitengerechtelijk akkoord
 
 Als uit de belangenafweging volgt dat kan worden ingestemd met een dergelijk verzoek dan verleent de ontvanger op het moment van het ingaan van de schuldregeling voor 36 maanden uitstel van betaling. Artikel 73.5 is zoveel als mogelijk van overeenkomstige toepassing, met dien verstande dat niet van toepassing zijn de faciliteiten zoals die gelden in de aanloop voor verzoeken als bedoeld in artikel 73.5.
 
 ### 73.6. Insolventieprocedure – akkoorden
-
-Verzoeken om een minnelijke schuldsaneringsregeling gedaan door een persoon of instelling als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48), niet zijnde een NVVK-lid of een gemeente, worden in behandeling genomen met inachtneming van het volgende. De ontvanger zal een belangenafweging moeten maken en zich daarbij moeten afvragen of hij al dan niet tot instemming met de schuldregeling kan komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij de uitoefening van de bevoegdheid tot weigering en het belang van de schuldenaar dat door die weigering wordt geschaad.
-
-### 73.6.8. Gevolgen dwangakkoord
-
-Als uit de belangenafweging volgt dat kan worden ingestemd met een dergelijk verzoek dan verleent de ontvanger op het moment van het ingaan van de schuldregeling voor 36 maanden uitstel van betaling. Artikel 73.5 is zoveel als mogelijk van overeenkomstige toepassing, met dien verstande dat niet van toepassing zijn de faciliteiten zoals die gelden in de aanloop voor verzoeken als bedoeld in artikel 73.5.
-
-### 73.6.1. Buitengerechtelijk akkoord
 
 In het tweede lid van de [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=19a) en [22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) zijn bepalingen opgenomen die de doelstellingen van de WSNP – namelijk het sluiten van een buitengerechtelijk akkoord met de gezamenlijke schuldeisers over de sanering van de schulden zonder tussenkomst van een rechter – ook voor de Belastingdienst laten gelden.
 
@@ -6098,23 +6102,23 @@ In het tweede lid van de [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 De ontvanger moet zich er eerst van verzekeren of redelijkerwijs mag worden aangenomen dat de wettelijke schuldsaneringsregeling van toepassing zal worden verklaard. Van belang voor de beantwoording van die vraag is [artikel 288 FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=288) dat de weigeringsgronden voor de rechter bevat op een verzoek om toepassing van de wettelijke schuldsaneringsregeling.
 
-### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
+### 73.6.3. Gevolgen buitengerechtelijk akkoord
 
-De ontvanger stemt alleen in met een buitengerechtelijk akkoord als het bodemvoorrecht of de waarde van de bodemzaken tot uitdrukking komt in het aangeboden bedrag.
+Als in het buitengerechtelijk akkoord belastingschulden zijn begrepen waarvoor derden aansprakelijk kunnen worden gesteld, neemt de ontvanger als voorwaarde op dat de kwijtschelding pas wordt geëffectueerd op het moment dat op grond van die aansprakelijkheid geen baten meer kunnen worden verkregen. De ontvanger ziet van deze voorwaarde af als in het aangeboden bedrag de baten in de aansprakelijkheid tot uitdrukking komen.
 
 ### 73.6.3. Gevolgen buitengerechtelijk akkoord
 
-Als de ontvanger toetreedt tot een buitengerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft, nadat hij het bedrag dat hem op grond van het akkoord toekomt, heeft ontvangen. Zonodig stelt hij een derdebeslagene of houder van penningen op de hoogte van het verval van het beslag en zorgt hij voor doorhaling van een beslag op een registergoed.
+De ontvanger heft een gijzeling op zodra hij toetreedt tot een buitengerechtelijk akkoord.
 
-### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
+### 73.6.4. Voorwaarden voor toetreding tot een gerechtelijk akkoord
 
 Als in het akkoord belastingschulden zijn begrepen waarvoor derden aansprakelijk kunnen worden gesteld, neemt de ontvanger als voorwaarde op dat de kwijtschelding pas wordt geëffectueerd op het moment dat op grond van die aansprakelijkheid geen baten meer kunnen worden verkregen. De ontvanger ziet van deze voorwaarde af als in het aangeboden bedrag de baten in de aansprakelijkheid tot uitdrukking komen.
 
-### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
-
-Als de ontvanger vrijwillig toetreedt tot een gerechtelijk akkoord verleent hij kwijtschelding voor het deel van de belastingschuld dat onbetaald blijft, nadat hij het bedrag dat hem op grond van het akkoord toekomt, heeft ontvangen.
-
 ### 73.6.6. Begrip belastingschuld en (buiten)gerechtelijk akkoord
+
+De ontvanger heft de beslagen op zodra hij ontvangt wat hij heeft gevorderd op grond van het buitengerechtelijk akkoord.
+
+### 73.6.7. Schuldig nalatig en (buiten)gerechtelijk akkoord
 
 De ontvanger betrekt bestuurlijke boeten, rente en kosten integraal in een akkoord.
 
@@ -6122,33 +6126,45 @@ De ontvanger betrekt bestuurlijke boeten, rente en kosten integraal in een akkoo
 
 Als de rechter in het kader van een wettelijke schuldsanering een dwangakkoord oplegt aan de gezamenlijke schuldeisers, lijdt de ontvanger het deel van de belastingschuld dat onvoldaan blijft oninbaar.
 
-### 73.6.9. Kwijtschelding voor ondernemers bij een saneringsakkoord
-
-Indien een akkoord op grond van [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) niet mogelijk is, vindt kwijtschelding voor ondernemers uitsluitend plaats bij een zogenoemd saneringsakkoord in de zin van [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22). Zie ook artikel 26.3 van deze leidraad.
-
 ### Artikel 74. Uitstel- en kwijtscheldingsfaciliteiten
 
-De uitstelfaciliteiten van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) hebben zowel betrekking op:
+Er rust een inspanningsverplichting op de Belastingdienst om de te saneren schuld zo volledig mogelijk en tot het juiste bedrag vast te stellen, in die zin dat de materieel verschuldigde belasting wordt geformaliseerd in een aanslag.
 
 ### 74.2.3. Remigratie en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-In dit artikel is het volgende beleid over uitstel- en kwijtscheldingsfaciliteiten opgenomen:
+In [artikel 26, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) is bepaald dat bij ministeriële regeling regels worden gegeven op grond waarvan – onder de in die leden bepaalde voorwaarden – kwijtschelding kan worden verleend voor belastingaanslagen waarvoor op de voet van [artikel 25, vijfde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstel van betaling is verleend. Dit betreffen de zogenoemde conserverende belastingaanslagen.
 
 ### 74.1. Uitstelfaciliteiten op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) – algemene uitgangspunten
 
 Het onderscheid in de verschillende inkomensbestanddelen is gebaseerd op [artikel 25, vierde, vijfde, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25). Het uitstel wordt per bestanddeel bij voor bezwaar vatbare beschikking verleend.
 
-### 74.1.4. Hoogte zekerheid
+### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
 
-Er kan een conserverende belastingaanslag opgelegd worden die betrekking heeft op meerdere te conserveren inkomensbestanddelen. Als voor al deze of voor enkele bestanddelen uitstel van betaling wordt verzocht, dan verleent de ontvanger uitstel rechtevenredig aan het aandeel van het betreffende inkomensbestanddeel in de grondslag van de geconserveerde belasting.
+Voor belastingaanslagen betreffende de inkomstenbelasting zijn in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstelfaciliteiten opgenomen in het vierde, vijfde, zesde, achtste, negende, veertiende, zestiende, zeventiende en achttiende lid.
 
 ### 74.1.3. Conserverende aanslag met meerdere inkomensbestanddelen
 
 Als uitstel van betaling is verleend voor een conserverende belastingaanslag, dan wordt dat uitstel niet beëindigd als zich een omstandigheid voordoet als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10).
 
+### 74.1.1. Voorwaarden bij uitstel zonder schriftelijk verzoek
+
+In het geval waarin op grond van de [artikelen 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1e), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1g) en [2, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=2) of op grond van deze leidraad een schriftelijk verzoek van de belastingschuldige niet nodig is om voor de uitstelfaciliteit in aanmerking te komen, verleent de ontvanger automatisch uitstel van betaling onder de voorwaarden dat:
+
+### 74.1.2. M-biljet is verzoek om uitstel
+
+Bij uitstel van betaling op grond van [artikel 25, negende, veertiende of zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) is artikel 25.1.4 van deze leidraad van toepassing. Dit houdt in dat het verleende uitstel onder meer wordt beëindigd als er een situatie is ontstaan zoals omschreven in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15) en de ontvanger van oordeel is dat de verhaalbaarheid van de belastingschuld waarvoor uitstel is verleend, ernstig in gevaar komt.
+
+### 74.1.6. Voorlopige conserverende aanslag gevolgd door conserverende aanslag
+
+Als een voorlopige conserverende aanslag wordt gevolgd door een conserverende aanslag, dan stelt de ontvanger de belastingschuldige schriftelijk in kennis van het feit dat het verleende uitstel voor de betaling van de voorlopige conserverende aanslag, de zekerheid die in verband hiermee is gesteld, alsmede eventueel gedane betalingen, worden toegerekend aan de conserverende aanslag.
+
+### 74.2. Uitstel op basis van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+
+In de gevallen waarin de ontvanger zekerheid eist alvorens uitstel van betaling te verlenen, moet de hoogte van de zekerheidstelling steeds gelijk zijn aan de actuele waarde van de fiscale claim.
+
 ### 74.1.5. Versnelde invordering
 
-Als uitstel van betaling is verleend voor een conserverende belastingaanslag, dan wordt dat uitstel niet beëindigd als zich een omstandigheid voordoet als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10).
+Als aan een belastingschuldige een conserverende belastingaanslag is opgelegd en deze remigreert binnen tien jaar nadat de ontvanger uitstel van betaling heeft verleend op de voet van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), gaat de ontvanger niet op basis van die conserverende belastingaanslag over tot invordering, als zich na datum van remigratie een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 ### 74.2.3. Remigratie en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
@@ -6156,59 +6172,43 @@ Voor zover de conserverende aanslag meer bedraagt dan de voorlopige conserverend
 
 ### 74.2. Uitstel op basis van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-Voor zover de conserverende aanslag meer bedraagt dan de voorlopige conserverende aanslag verleent de ontvanger uitstel van betaling voor het bedrag dat de voorlopige conserverende aanslag te boven gaat, met inachtneming van de bepalingen die gelden voor die conserverende aanslag.
+Naast de normale vormen van zekerheid, kan zekerheidstelling ook plaatsvinden door verpanding van het pensioenkapitaal aan de Belastingdienst, mits de buitenlandse verzekeraar instemt met die verpanding.
 
-### 74.2. Uitstel op basis van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.5a. Rente en uitstel op basis van [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-In aanvulling op [artikel 1e, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=1e) kan zekerheidstelling door de belastingschuldige achterwege blijven, als er sprake is van emigratie én waardeoverdracht van kapitaal aan een buitenlandse, niet in een EU-lidstaat gevestigde, aangewezen verzekeraar of pensioenfonds, welke zich heeft verplicht tot het verschaffen van inlichtingen en tot het stellen van zekerheid.
+Het uitstel eindigt als één van de volgende omstandigheden zich voordoet:
 
-### 74.2.2. Verscheidene contracten en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.4. Nadere voorwaarden voor voortzetting uitstel op basis van [artikel 25, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-Als aan een belastingschuldige een conserverende belastingaanslag is opgelegd en deze remigreert binnen tien jaar nadat de ontvanger uitstel van betaling heeft verleend op de voet van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), gaat de ontvanger niet op basis van die conserverende belastingaanslag over tot invordering, als zich na datum van remigratie een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
-
-### 74.2.3. Remigratie en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Als aan een belastingschuldige een conserverende belastingaanslag is opgelegd en deze remigreert binnen tien jaar nadat de ontvanger uitstel van betaling heeft verleend op de voet van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), gaat de ontvanger niet op basis van die conserverende belastingaanslag over tot invordering, als zich na datum van remigratie een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+Nadere voorwaarden voor voortzetting van het uitstel na vervreemding in buitenlandsituaties. Het uitstel als bedoeld in het [vierde, vijfde en zesde lid, van artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=2) zal slechts worden voortgezet als de belastingschuldige instemt met door de ontvanger nader te stellen voorwaarden:
 
 ### 74.5. Rente en uitstel op basis van [artikel 25, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-De uitsteltermijn voor een conserverende aanslag als bedoeld in [artikel 25, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) vangt aan vanaf de dag na de vervaldag van de voor die aanslag geldende enige of laatste betalingstermijn.
+Bij de beoordeling van het direct af te lossen bedrag en van de vermogensbestanddelen van de belastingschuldige wordt gehandeld in overeenstemming met het reguliere uitstelbeleid.
 
-### 74.5a. Rente en uitstel op basis van [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Als een betalingsregeling is getroffen voor de belastingaanslag die is opgelegd ter zake van inkomen uit aanmerkelijk belang in verband met de indirecte overdracht (de houdstermaatschappij van de aandelen in de werkmaatschappij draagt de aandelen over) van de aandelen in een vennootschap van tot een aanmerkelijk belang behorende aandelen of winstbewijzen tegen een lagere prijs dan de waarde in economische verkeer, derhalve een gift, is over de betalingen invorderingsrente verschuldigd indien en voor zover de betaling van de verschenen termijnen niet tijdig plaatsvindt.
-
-### 74.7. Beoordeling verzoek om uitstel en [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.6.2. Rente en [artikel 25, elfde lid, van de wet](onbekend)
 
 Invorderingsrente wordt dan berekend vanaf het tijdstip waarop de desbetreffende termijnen zijn verschenen tot het moment van de feitelijke voldoening. Als het recht op uitstel geheel of ten dele is vervallen, wordt invorderingsrente berekend vanaf het moment dat de rechtvaardigingsgrond voor het uitstel niet langer bestaat.
 
-### 74.5a. Rente en uitstel op basis van [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.7.1. Uitgangspunt betalingsregeling
 
-Bij de beoordeling van het direct af te lossen bedrag en van de vermogensbestanddelen van de belastingschuldige wordt gehandeld in overeenstemming met het reguliere uitstelbeleid.
+Als uitgangspunt voor de betalingsregeling als bedoeld in [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) geldt de situatie waarin niet (direct) de benodigde middelen worden verkregen om de verschuldigde belasting te voldoen. Wordt de zaak vervreemd of vinden aflossingen plaats, komen in zoverre middelen beschikbaar om de nog openstaande belastingschuld te betalen en is er aanleiding het uitstel te beëindigen.
 
-### 74.7. Beoordeling verzoek om uitstel en [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.8. Uitstel op basis van [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-Op de uitstelregeling voor de belastingschuldige die op grond van de Regeling beëindiging veehouderijtakken zijn onderneming staakt, is het beleid opgenomen in deze leidraad zoals dat geldt voor de uitstelregeling ingevolge [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) van overeenkomstige toepassing, tenzij daarvan uitdrukkelijk in deze leidraad wordt afgeweken.
+De uitstelregeling is opgenomen in [artikel XIVa van de Wet ondernemerspakket 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XIVa). De mogelijkheid tot uitstel op grond hiervan geldt voor veehouders die hun onderneming hebben gestaakt ná 19 maart 2000 en vóór 1 januari 2001.
 
-### 75.3. Rechtsmiddelen en vervolgingskosten
+### 74.10. Uitstel op basis van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-Bij de beoordeling van het direct af te lossen bedrag en van de vermogensbestanddelen van de belastingschuldige wordt gehandeld in overeenstemming met het reguliere uitstelbeleid.
+Voor het verlenen van uitstel van betaling op grond van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) wordt geen zekerheid verlangd.
 
-### 74.9. Uitstel en de Regeling beëindiging veehouderijtakken
+### 74.8. Uitstel op basis van [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-Als het recht op uitstel is vervallen, wordt invorderingsrente berekend over het tijdvak dat aanvangt op de dag na de dag waarop het uitstel is geëindigd tot het moment van betaling.
-
-### 74.11. Uitstel op basis van [artikel 25, achttiende en negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Het uitstel wordt verleend voor de aflossingsperiode die is overeengekomen tussen de overdrager en de overnemer. Als geen aflossingsperiode is overeengekomen, of als de aflossingsperiode meer bedraagt meer tien kalenderjaren, dan eindigt de uitstelperiode bij het begin van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft.
-
-### 74.11. Uitstel op basis van [artikel 25, achttiende en negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-Dit artikel beschrijft het beleid bij het in rekening brengen van kosten van vervolging. Met ‘vervolgingskosten of kosten’ wordt bedoeld de kosten die op grond van de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) (Kostenwet) in rekening worden gebracht.
+Naast de gevallen genoemd in [artikel 25, negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), beëindigt de ontvanger het uitstel als de onderneming na de overdracht wederom is gestaakt en de overnemer als gevolg daarvan voldoende liquide middelen heeft verkregen om de verschuldigde overdrachtsprijs te kunnen voldoen.
 
 ### Artikel 75. Kosten van vervolging
 
-Hieronder vallen ook de kosten die verbonden zijn aan de werkzaamheden die de belastingdeurwaarder verricht voor de invordering op civiele wijze.
+Dit artikel beschrijft het beleid bij het in rekening brengen van kosten van vervolging. Met ‘vervolgingskosten of kosten’ wordt bedoeld de kosten die op grond van de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) (Kostenwet) in rekening worden gebracht.
 
 ### 75.3. Rechtsmiddelen en vervolgingskosten
 
@@ -6216,11 +6216,11 @@ Onder de bedragen die op grond van [artikel 6 van de Kostenwet invordering rijks
 
 ### 75.2. Aan derden toekomende bedragen
 
+Onder de bedragen die op grond van [artikel 6 van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=6) aan de belastingschuldige in rekening worden gebracht, vallen:
+
+### Artikel 75. Kosten van vervolging
+
 Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, handelt de ontvanger overeenkomstig de voorschriften van het [Besluit beroep in belastingzaken 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018379).
-
-### 75.3. Rechtsmiddelen en vervolgingskosten
-
-Als om uitstel van betaling wordt verzocht, is het beleid dat is verwoord in artikel 25.1 en 25.2 van deze leidraad van overeenkomstige toepassing.
 
 ### 75.4. Verzoek om vermindering vervolgingskosten aanmerken als bezwaar
 
@@ -6228,95 +6228,95 @@ In de volgende gevallen brengt de ontvanger voor het uitbrengen van exploten gee
 
 ### 75.6. Onverschuldigdheid van vervolgingskosten
 
+In de volgende gevallen brengt de ontvanger voor het uitbrengen van exploten geen vervolgingskosten in rekening:
+
+### 75.6. Onverschuldigdheid van vervolgingskosten
+
+Indiening van een bezwaarschrift of beroepschrift (in hoger beroep) stuit op grond van [artikel 6:16 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:16) niet de aanvang of de voortzetting van de tenuitvoerlegging van de akte van vervolging.
+
+### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
+
+Een verzoek van de belastingschuldige tot vermindering van de in rekening gebrachte kosten wordt aangemerkt als een bezwaarschrift. Het bepaalde in artikel 75.3 van deze leidraad is van overeenkomstige toepassing.
+
+### 75.5. Niet in rekening brengen van vervolgingskosten
+
+Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2012-02-21&g=2012-07-01) van deze leidraad.
+
+### 75.11. Limitering betekeningskosten dwangbevel
+
 Als invorderingsmaatregelen worden getroffen met inachtneming van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), vermeldt de belastingdeurwaarder in de akte van betekening bij het dwangbevel dat de in verband met die maatregelen berekende vervolgingskosten niet verschuldigd zijn als de openstaande belastingschuld binnen twee werkdagen na uitreiking van het aanslagbiljet wordt betaald. De vorige volzin is van overeenkomstige toepassing op de beslagkosten.
 
 ### 75.9. Aansprakelijkgestelden en vervolgingskosten
 
-In uitzonderlijke situaties kan er voor de ontvanger aanleiding bestaan de in rekening gebrachte vervolgingskosten – hoezeer ook verschuldigd – te verminderen als de belastingschuldige hier schriftelijk om verzoekt.
-
-### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
-
-Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2012-02-21&g=2012-02-21) van overeenkomstige toepassing.
-
-### 75.10. Geen kwijtschelding van vervolgingskosten
-
-De wettelijke bepalingen die gelden voor de rechten bij in- en uitvoer zijn in beginsel ook van toepassing op de omzetbelasting ex [artikel 22 Wet op de Omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=22), de accijnzen en de verbruiksbelastingen die bij invoer verschuldigd worden. Het CDW is dan ook voor deze nationale middelen medebepalend voor het onder de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te voeren invorderingsbeleid.
-
-### 77.4. Verwijderen verplichtingensignaal
-
-De invordering van de eigen middelen voor de Europese Unie (rechten bij in- en uitvoer) vindt voor een belangrijk deel plaats met toepassing van verordeningen. Met name het CDW en de Toepassingsverordening CDW (beide aangeduid als CDW) zijn in dit verband van belang. De invordering vindt plaats op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), maar als de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) strijdig is met het CDW geldt hetgeen in het CDW is bepaald.
-
-### 76.1. Algemene uitgangspunten
-
-In alle gevallen houdt de ontvanger rekening met hetgeen in het CDW is bepaald over bezwaar en beroep: elke beslissing moet in de vorm van een beschikking worden genomen en tegen elke beschikking moet beroep mogelijk zijn. Dit betekent dus dat ook bij de invordering tegen elke beslissing beroep mogelijk is.
+Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2012-07-03&g=2012-07-01) van overeenkomstige toepassing.
 
 ### 76.2. Aanspreken borg op basis van een vergunning
 
+In alle gevallen houdt de ontvanger rekening met hetgeen in het CDW is bepaald over bezwaar en beroep: elke beslissing moet in de vorm van een beschikking worden genomen en tegen elke beschikking moet beroep mogelijk zijn. Dit betekent dus dat ook bij de invordering tegen elke beslissing beroep mogelijk is.
+
+### 75.11. Limitering betekeningskosten dwangbevel
+
 In deze leidraad wordt op diverse plaatsen de directeur aangewezen als instantie bij wie men in administratief beroep kan komen tegen beslissingen van de ontvanger. In voorkomende gevallen gelden deze aanwijzingen ook voor de rechten bij in- en uitvoer.
-
-### 76.3. Invorderingsrente vergoeden
-
-[Artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) is van toepassing op belastingaanslagen bij invoer, met name belastingaanslagen omzetbelasting.
 
 ### 76.5. Bewaren invorderingsbescheiden
 
-Als de inspecteur wegens onregelmatigheden ook een derde als medeschuldenaar uitnodigt tot betaling, zal de ontvanger eerst dwanginvordering toepassen ten aanzien van degene die de onregelmatigheden heeft begaan, voordat hij de borg aanspreekt. Bij aangifte op eigen naam voor rekening van een derde (bijvoorbeeld de importeur) probeert de ontvanger eerst betaling van deze derde te verkrijgen voordat hij de borg aanspreekt.
+[Artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43) is van toepassing op de omzetbelasting bij invoer.
 
-### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
+### 76.2. Aanspreken borg op basis van een vergunning
+
+De ontvanger kan een zekerheid uitwinnen als de schuldenaar niet aan een uitnodiging tot betaling voldoet. Als de ontvanger de schuldenaar een betalingsregeling verleent, wint de ontvanger de zekerheid niet uit zolang de schuldenaar aan deze regeling voldoet.
+
+### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
 
 Als sprake is van een in het buitenland gevestigde schuldenaar waarvan bekend is dat in het buitenland zekerheid is gesteld voor communautair/gemeenschappelijk douanevervoer, dan vraagt de ontvanger bij het verzoek om bijstand bij de invordering ook om zo nodig de borg uit te winnen.
 
-### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
+### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
 
 De bescheiden die betrekking hebben op de invordering van invoerrecht, landbouwheffingen en andere communautaire heffingen, worden gedurende minimaal vier jaar na afdoening bewaard.
 
 ### 76.6. Geen zekerheid bij douaneschuld en versnelde invordering
 
-De termijn waarbinnen aan die eis moet zijn voldaan, is vier weken na de dagtekening van het verzoek tot aanvulling of vervanging.
+Tegen deze beschikking is beroep mogelijk in de zin van artikel 243 CDW.
 
-### 77.1. Voorwaarden voor aanbrengen verplichtingensignaal
+### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
 
-Het volgende beleid is in dit artikel opgenomen:
+Het verplichtingensignaal is een signalering in het kentekenregister van de RDW/Centrum voor voertuigtechniek en informatie. Het verplichtingensignaal wordt in het kentekenregister aangebracht als een belastingschuldige achterstand in de betaling van motorrijtuigenbelasting heeft, terwijl invordering niet op andere wijze mogelijk is gebleken. Na signalering kan de belastingschuldige geen kenteken meer op zijn naam zetten.
 
-### 77.1. Voorwaarden voor aanbrengen verplichtingensignaal
+### 76.5. Bewaren invorderingsbescheiden
 
 Toepassing van het verplichtingensignaal kan plaatsvinden als een belastingschuldige tenminste vijf aanslagen motorrijtuigenbelasting die onherroepelijk vaststaan, onbetaald heeft gelaten. Het is niet noodzakelijk dat de betreffende aanslagen betrekking hebben op aaneensluitende tijdvakken of op hetzelfde voertuig.
 
-### 77.1. Voorwaarden voor aanbrengen verplichtingensignaal
+### 77.2. Waarschuwingsbrief voorafgaand aan signalering
 
 Voordat een signalering in het kentekenregister wordt aangebracht, zendt de ontvanger de belastingschuldige een waarschuwingsbrief.
 
-### 77.2. Waarschuwingsbrief voorafgaand aan signalering
+### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
 
-Als na afloop van de termijn van veertien dagen na de waarschuwingsbrief geen betaling heeft plaatsgevonden, geeft de ontvanger de RDW opdracht om het verplichtingensignaal aan te brengen.
-
-### 77.3. Aanbrengen verplichtingensignaal
-
-Het komt voor dat het voor het slagen van de schuldsaneringsprocedure van belang is dat de saniet de beschikking heeft over een motorrijtuig. Bijvoorbeeld voor het aanvaarden of behouden van betaald werk waarvoor het beschikken over een motorrijtuig redelijkerwijs vereist is. Voorzover het verplichtingensignaal het beschikken over een motorrijtuig verhindert, zal de ontvanger op gemotiveerd verzoek van de bewindvoerder het verplichtingensignaal doen verwijderen. Voorwaarde daarbij is dat de bewindvoerder verklaart dat hij zal toezien op het stipt nakomen van de fiscale verplichtingen in verband met het motorrijtuig.
+Toepassing van het verplichtingensignaal kan plaatsvinden als een belastingschuldige tenminste vijf aanslagen motorrijtuigenbelasting die onherroepelijk vaststaan, onbetaald heeft gelaten. Het is niet noodzakelijk dat de betreffende aanslagen betrekking hebben op aaneensluitende tijdvakken of op hetzelfde voertuig.
 
 ### 77.6. De aantekening ‘katvanger’
 
-Bij katvangers gelden niet de uitzonderingsbepalingen artikel 77.1, onderdelen a tot en met e, van deze leidraad en blijft het versturen van een waarschuwingsbrief achterwege.
+Aanslagen waarvoor de schone lei is verleend, tellen niet mee voor de vraag of een verplichtingensignaal moet worden aangebracht. Na beëindiging van de WSNP door het verlenen van de schone lei, geldt de datum van die beëindiging als het begin waarop de telling van de aanslagen motorrijtuigenbelasting – voor de vraag of een verplichtingensignaal al dan niet moet worden aangebracht – (opnieuw) een aanvang neemt.
 
-### Artikel 78. Internationale invordering
+### 77.6. De aantekening ‘katvanger’
 
-De internationale invordering betreft alle maatregelen die in het buitenland kunnen worden getroffen om belasting en overige schuldvorderingen in te vorderen en op alle maatregelen die op verzoek van een andere staat in Nederland genomen kunnen worden om een buitenlandse schuld in te vorderen.
+Het komt voor dat het voor het slagen van de schuldsaneringsprocedure van belang is dat de saniet de beschikking heeft over een motorrijtuig. Bijvoorbeeld voor het aanvaarden of behouden van betaald werk waarvoor het beschikken over een motorrijtuig redelijkerwijs vereist is. Voorzover het verplichtingensignaal het beschikken over een motorrijtuig verhindert, zal de ontvanger op gemotiveerd verzoek van de bewindvoerder het verplichtingensignaal doen verwijderen. Voorwaarde daarbij is dat de bewindvoerder verklaart dat hij zal toezien op het stipt nakomen van de fiscale verplichtingen in verband met het motorrijtuig.
 
 ### 79.6. Verrekening en uitstel van betaling toeslagschuld
 
-Tot het verzoeken van bijstand aan het buitenland wordt niet overgegaan als het verschuldigde bedrag aan belasting minder dan € 227 bedraagt, tenzij tussen staten een ander minimumbedrag is afgesproken. De ontvanger laat een voorstel tot het nemen van conservatoire maatregelen in het buitenland achterwege als het verschuldigde bedrag lager is dan € 2269, tenzij bijzondere omstandigheden een lager bedrag rechtvaardigen. Bij bijzondere omstandigheden kan voor een lager bedrag inlichtingen worden gevraagd.
+Gedurende de WSNP wordt voor wat betreft het verplichtingensignaal gehandeld als ware er niet sprake van een WSNP. Als het verplichtingensignaal is aangebracht en daarna volgt WSNP, blijft het verplichtingensignaal gehandhaafd.
 
 ### 79.1. De betalingsherinnering en toeslagschuld
 
-Het komt voor dat bijstand kan worden gevraagd aan een bepaalde staat op grond van verschillende internationale regelingen. Het is dan mogelijk dat de ene regeling een ruimere wederzijdse bijstand toestaat dan de andere. In dat geval kan het verzoek worden gebaseerd op de regeling die de ruimste mogelijkheden biedt.
+Tot het verzoeken van bijstand aan het buitenland wordt niet overgegaan als het verschuldigde bedrag aan belasting minder dan € 227 bedraagt, tenzij tussen staten een ander minimumbedrag is afgesproken. De ontvanger laat een voorstel tot het nemen van conservatoire maatregelen in het buitenland achterwege als het verschuldigde bedrag lager is dan € 2269, tenzij bijzondere omstandigheden een lager bedrag rechtvaardigen. Bij bijzondere omstandigheden kan voor een lager bedrag inlichtingen worden gevraagd.
 
 ### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
 
-Als een belanghebbende zich wendt tot de burgerlijke rechter om te voorkomen dat Nederland aan een andere staat inlichtingen verstrekt, neemt de ontvanger ook contact op met het ministerie.
+Bijstand bij de invordering is ook mogelijk met betrekking tot aansprake-lijkgestelden.
 
-### 78.3. Geen verdere invorderingsmaatregelen treffen
+### 78.2. Overleg met het ministerie
 
-Het gevoerde beleid met betrekking tot het niet meer treffen van verdere invorderingsmaatregelen voor buitenlandse vorderingen in Nederland is in lijn met het kwijtscheldingsbeleid dat voor Nederlandse belastingschulden wordt gevoerd.
+Verzoeken waarvan de voldoening kan leiden tot aantasting van de openbare orde of andere wezenlijke belangen van de staat dan wel invloed kunnen hebben op het gevoerde beleid worden voorgelegd aan het ministerie.
 
 ### 7.1. Tijdstip betaling
 
@@ -6598,7 +6598,7 @@ De ontvanger kan de gewezen bestuurder aansprakelijk stellen voor de belastingsc
 
 ### 34.6. Disculpatie van de inlener
 
-### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
+### 34.8. De omvang van de aansprakelijkheid
 
 ### Artikel 35. Ketenaansprakelijkheid
 
@@ -6606,63 +6606,63 @@ De ontvanger kan de gewezen bestuurder aansprakelijk stellen voor de belastingsc
 
 ### 35.2. Het begrip aannemer en ketenaansprakelijkheid
 
-Vervaardiging van kleding is een werk van stoffelijke aard en moet ruim worden opgevat. Het gaat om het vervaardigen van kleding van alle soorten en materialen onder welke benaming en voor welk doel dan ook. Hieronder valt ook elke handeling die erop gericht is het eindproduct zelf consumptiegereed (in de meest ruime zin) te maken.
+Deze toerekening van betalingen aan ‘het werk’ gebeurt naar redelijkheid en kan bijvoorbeeld plaatsvinden aan de hand van de (loon)administratie van de onderaannemer en/of aan de hand van de afdrachten/betalingen over de verschillende aangiftetijdvakken. Als afdrachten/betalingen redelijkerwijs niet kunnen worden toegerekend aan bepaalde werken en/of de indirecte loonkosten, vindt een evenredige toerekening daarvan plaats aan alle werken en/of indirecte loonkosten gedurende het naheffingtijdvak.
+
+### 35.1. Berekening omvang ketenaansprakelijkheid
+
+### 35.3. Het begrip eigenbouwer
+
+### 35.2.3. Het uitvoeren van een werk buiten dienstbetrekking
 
 ### 35.2.2. Vervoersovereenkomsten en werk van stoffelijke aard
 
-### 35.3. Het begrip eigenbouwer
+Bij de gemengde overeenkomsten waarin de vervoersprestatie niet ondergeschikt is aan het overeengekomen werk van stoffelijke aard, moeten de onderscheiden prestaties in beginsel worden gesplitst.
 
-### 35.3. Het begrip eigenbouwer
+### 35.5.4. Surseance en ketenaansprakelijkheid
 
 ### 35.3.1. Eigenbouwerschap – beoordeling van geval tot geval
 
-De omstandigheid dat geen winst wordt beoogd en/of feitelijk wordt behaald, leidt op zich bezien niet tot de conclusie dat geen bedrijf wordt uitgeoefend. Publiekrechtelijke lichamen oefenen (behoudens de hierna genoemde uitzonderingen) geen bedrijf uit in de hiervoor bedoelde zin indien en voor zover zij handelen als overheid. Het publiekrechtelijke lichaam handelt ‘als overheid’ als het handelt volgens het specifiek voor hem geldende juridische regime.
-
-### 35.5.4. Surseance en ketenaansprakelijkheid
-
-### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
-
 ### 35.3.4. Uitbesteding werk en eigenbouwerschap
 
-### 35.5. Ketenaansprakelijkheid en g-rekening
+### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
 
-### 35.5.1. Vrijwaring ketenaansprakelijkheid door betaling via de g-rekening
+### 35.3.7. Winkelbedrijf in de confectiesector en eigenbouwerschap
+
+### 35.5.3. Wanprestatie/onrechtmatig handelen en ketenaansprakelijkheid
+
+### 35.5.2. Ketenaansprakelijkheid bij WSNP of faillissement onderaannemer
 
 ### 35.5.4. Surseance en ketenaansprakelijkheid
 
 ### 35.6. Rechtstreekse storting en ketenaansprakelijkheid
 
-### 35.6. Rechtstreekse storting en ketenaansprakelijkheid
+### 35.12.6. Geen aansprakelijkheid voor de ontvanger
 
-### 35.7. Samenloop derdenbeslag en ketenaansprakelijkheid
+De ontvanger zal in geval van bezwaar, beroep en hoger beroep, slechts een schone verklaring afgeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie. Eén en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en). Ook vermeldt de ontvanger dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
 
-### 35.12.7. Beslistermijn verzoek betalingsgedrag
-
-De weigering een verklaring af te leggen gebeurt bij beschikking; deze wordt bekendgemaakt onder vermelding waarom niet kan worden overgegaan tot afgifte van een verklaring.
+### 35.12.11. Curator/bewindvoerder en verklaring betalingsgedrag
 
 ### 35a.2. Normale uitoefening van het bedrijf en opdrachtgeversaansprakelijkheid
 
-### 35a.3. Reikwijdte opdrachtgeversaansprakelijkheid
+### 35b.2. Volgorde aansprakelijkstelling bij kopersaansprakelijkheid
 
 ### 36.2. Gegevensverstrekking aan de curator en bestuurdersaansprakelijkheid
 
-### 36.4. Kennelijk onbehoorlijk bestuur
-
 Een schriftelijk verzoek om uitstel van betaling dan wel een schriftelijk verzoek of brief – niet zijnde de melding van betalingsonmacht als bedoeld in artikel 36.5.1 – waaruit betalingsproblemen blijken, merkt de ontvanger in beginsel aan als een schriftelijke melding van betalingsonmacht. Daarbij geldt dat in het verzoek of de brief inzicht gegeven moet worden in de oorzaak van de betalingsproblemen. Wanneer in het schriftelijke verzoek of de brief geen inzicht wordt gegeven in de omstandigheden die ertoe hebben geleid dat de verschuldigde belasting niet op aangifte is afgedragen of voldaan of niet is betaald, gelden het verzoek en de brief niet als melding van betalingsonmacht.
 
-### 36.5.2. Verzoek waaruit betalingsproblemen blijken en melding betalingsonmacht
+### 36.5. Melding betalingsonmacht
 
-### 36.5.5. Uitstel van betaling in verband met bezwaar en (hoger) beroep en melding betalingsonmacht
+### 36.5.4. Termijn melding betalingsonmacht
 
-### 36.5.9. Beoordeling van de melding betalingsonmacht – 1e fase
+### 36.5.8. Melding betalingsonmacht – twee fasen
 
-### 36.5.12. Geldigheidsduur van de melding betalingsonmacht
+### 36.5.10. Na melding betalingsonmacht 1e fase – opvragen nadere gegevens
 
-### 36.5.13. Driejaarsperiode bij doorlopende melding betalingsonmacht
+### 36.5.11. Beoordeling van de melding betalingsonmacht – 2e fase
 
 ### 36.7. Geen administratieve controle bij bestuurder
 
-### Artikel 36a. Aansprakelijkheid bestuurder voor vennootschapsbelasting
+### 36.6.2. Disculpatiemogelijkheid gewezen bestuurder
 
 ### 36b.1. Fiscale eenheid voor de omzetbelasting
 
@@ -6670,83 +6670,83 @@ Een schriftelijk verzoek om uitstel van betaling dan wel een schriftelijk verzoe
 
 ### 38.1. Geen aansprakelijkstelling voor loon- en kansspelbelasting bij goede trouw
 
-### Artikel 40. Aansprakelijkheid van de vervreemder van aandelen of een belang
+### 37.2. Volgorde aansprakelijkstelling loonheffingen ter zake van beroepssporters en dergelijke
 
-### Artikel 41
+### Artikel 40. Aansprakelijkheid van de vervreemder van aandelen of een belang
 
 ### 42.1. Reikwijdte aansprakelijkheid voor overdrachtsbelasting
 
-### Artikel 43. Aansprakelijkheid fiscale eenheid omzetbelasting
+### Artikel 42. Aansprakelijkheid voor overdrachtsbelasting
 
-In aansluiting op [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44) beschrijft dit artikel het beleid over de aansprakelijkheid van een kind voor inkomensbestanddelen die aan de ouder zijn toegerekend.
+Er zijn in deze leidraad op [artikel 43a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43a) geen beleidsregels gemaakt.
 
-### 44a.1. Aansprakelijkstelling van verzekeraar van lijfrenten en beroepspensioenen blijft achterwege
+### Artikel 44a. Aansprakelijkheid verzekeraars van lijfrenten en beroepspensioenen
 
-### Artikel 46. Aansprakelijkheid voor rechten van successie of erfbelasting, overgang en schenking of schenkbelasting
+### 44a.2. Omvang aansprakelijkheid verzekeraar van lijfrenten en beroepspensioenen
 
-### Artikel 48. Beperking aansprakelijkheid van erfgenamen
+### Artikel 47
 
-### 49.4. Informatieverstrekking in beschikking aansprakelijkstelling keten- en inlenersaansprakelijkheid
+### 49.3.1. Wanneer in gebreke
 
-### 49.7. Volgorde van aansprakelijk stellen
+### 49.6. Aansprakelijkheid – eerst uitwinning belastingschuldige
+
+### 49.8. Bezwaar, beroep, hoger beroep en beroep in cassatie tegen de beschikking aansprakelijkstelling
 
 ### 49.8.2. Beslissing op het bezwaarschrift
 
-### 51.1. Conservatoir beslag en uitstel in verband met bezwaar
+### 53.1. Geen zelfstandige verjaring van de aansprakelijkheidsschuld
 
-### Artikel 58. Informatieverplichtingen van de belastingschuldige of de aansprakelijkgestelde
+In aansluiting op [artikel 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) beschrijft dit artikel het beleid over de teruggave van gegevensdragers aan derde.
 
-Alleen als de derde dit schriftelijk verzoekt, geeft de ontvanger de gegevensdragers terug aan de belastingschuldige.
-
-### 60.1. Redelijke termijn voor verstrekken van informatie
+### 58.2. Gegevens voor invordering van ‘eigen’ belastingschulden
 
 ### Artikel 61. Geen geheimhoudingsplicht bij de informatieverplichtingen
 
-### 73.1.4. Proceskostengarantie
+### 63b.2. Betalingsverzuim bij aanslagbelastingen
 
-De vereiste opzet voor de toepassing van [artikel 65, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65) behoeft zich niet uit te strekken tot het feit dat te weinig belasting wordt ingevorderd.
+Ter zake van het verzuim als bedoeld in [artikel 63b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=63b) kan de ontvanger een verzuimboete opleggen van 50 procent van het in dat artikel genoemde wettelijk maximum. In afwijking hiervan kan in uitzonderlijke gevallen een boete tot het in artikel 63b, tweede lid, van de wet genoemde maximum worden opgelegd.
 
 ### 65.1. Reikwijdte opzetcriterium bij misdrijf
 
 ### Artikel 65a. en [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66)
 
-Er zijn in deze leidraad op de [artikelen 65a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65a) en [66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) geen beleidsregels gemaakt.
+De vereiste opzet voor de toepassing van [artikel 65, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65) behoeft zich niet uit te strekken tot het feit dat te weinig belasting wordt ingevorderd.
 
-Desgevraagd is de ontvanger op grond van [artikel 475g, derde lid, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475g) verplicht aan de gerechtsdeurwaarder die gerechtigd is beslag te leggen tegen een schuldenaar, schriftelijk informatie te verstrekken over periodieke betalingen die hij aan die schuldenaar verricht of gaat verrichten op grond van een verleende voorlopige teruggaafbeschikking.
+Als de belastingschuldige zelf verzoekt informatie te geven over de belastingschulden die hij heeft, zal de ontvanger die informatie ook kunnen verstrekken zonder de geheimhoudingsplicht te schenden. Ontheffing door de minister is in dat geval niet nodig.
 
 ### 73.1. Algemene uitgangspunten insolventieprocedures
 
 ### 73.1.4. Proceskostengarantie
 
-### 73.1.8. Uitstel in relatie tot WSNP en faillissement
+### 73.1.5. Belangenbehartiging door de bewindvoerder of de curator
 
 ### 73.1.9. Kwijtschelding in relatie tot WSNP en faillissement
 
 ### 73.1.11. Toeslagenschuld in relatie tot MSNP, WSNP en faillissement
 
-Met betrekking tot te betalen belastingaanslagen en terugvorderingen (ter zake van toeslagen) die betrekking hebben op de periode waarin de wettelijke schuldsaneringsregeling van toepassing was en die zijn vastgesteld na beëindiging (met schone lei) van die regeling, zal de ontvanger in beginsel afzien van invordering. Daarbij geldt dat aannemelijk moet zijn dat:
+Voor de situatie dat een belastingschuldige, ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, verzoekt om kwijtschelding van nadien opgekomen belastingschulden die niet zijn aan te merken als boedelschuld, wordt verwezen naar artikel 26.2.17 van deze leidraad.
 
 ### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
 
-### 73.3.2. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot surséance
+### 73.1.12. Verplichtingensignaal in relatie tot MSNP, WSNP en faillissement
 
-### 73.4.2. Ontbinding van rechtspersonen in plaats van faillissementsaanvraag
+### 73.4. Insolventieprocedure – faillissement
 
-### 73.4.4. Saneringsaanbod en faillissementsaanvraag
+### 73.4.3. Particulieren en faillissement
 
-Als de belastingschuldige – voordat de faillissementsaanvraag in behandeling is genomen – een verzoek om kwijtschelding doet, dan wel een buitengerechtelijk akkoord aanbiedt (een en ander in de zin van artikel 73.6 van deze leidraad), dan zal de ontvanger de faillissementsaanvraag aanhouden dan wel intrekken om het verzoek dan wel het aanbod aan een nader oordeel te onderwerpen.
+Particulieren zijn in dit verband natuurlijke personen die niet een onderneming drijven of zelfstandig een beroep uitoefenen en waarvan niet aannemelijk is dat zij van plan zijn dit te doen.
 
-### 73.4.6. Toestemming voor faillissementsaanvraag
+### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
 
 ### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
 
 ### 73.4.16. Omzetting faillissement in WSNP
 
-### 73.4.15. Opening nationale (secundaire) insolventieprocedure
+### 73.4.11. Verzending of uitreiking aanslagbiljet bij faillissement
 
 ### 73.4.16. Omzetting faillissement in WSNP
 
-De uitstelregeling geldt voor belastingaanslagen die betrekking hebben op de (materieel) verschuldigde belasting tot en met de dag waarop het verzoek van de schuldhulpverlener om een gespecificeerde schriftelijke opgave van de openstaande vorderingen is ontvangen. De gespecificeerde schriftelijke opgave vermeldt alle tot op de datum van het verzoek (materieel) verschuldigde belastingen en is definitief in de zin dat daarop van de zijde van de ontvanger in beginsel niet meer kan worden teruggekomen. In voorkomend geval wordt het bedrag van de verschuldigde belastingen door middel van schatting bepaald. In het geval de in de vorige volzin bedoelde schatting naar achteraf blijkt substantieel te laag mocht zijn, kan de ontvanger daarop alleen terugkomen indien terzake van die belasting ten tijde van de schatting ten onrechte geen aangifte was gedaan danwel indien de belastingschuldige of de schuldhulpverlener wisten of behoorden te weten dat de schatting te laag was.
+Zie artikel 22.5 van deze leidraad voor de volgorde bij uitwinning bodembeslag in faillissement.
 
 ### 73.6. Insolventieprocedure – akkoorden
 
@@ -6754,21 +6754,21 @@ De uitstelregeling geldt voor belastingaanslagen die betrekking hebben op de (ma
 
 ### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
 
-In de kennisgeving moet zijn gesteld dat de overeenkomst na eindcontrole is beëindigd en de schuldenaar aan zijn verplichtingen heeft voldaan.
+Als sprake is van een verleend uitstel van betaling op grond van een schuldregelingsovereenkomst, handelt de ontvanger gedurende de periode van uitstel op dezelfde wijze als bij een wettelijke schuldsaneringsregeling.
 
-### 73.6.2. Voorwaarden voor toetreding tot een buitengerechtelijk akkoord
+### 73.5a. Insolventieprocedure - minnelijke schuldsanering door anderen dan leden van de NVVK of gemeenten
 
-De betaling van het aangeboden bedrag moet in beginsel ineens plaatsvinden. Als de ontvanger bij wijze van uitzondering instemt met betaling in termijnen eist hij zekerheid.
+Deze bepalingen zijn ook van toepassing op betalingsverplichting van een aansprakelijkgestelde van wie redelijkerwijs mag worden aangenomen dat de wettelijke schuldsaneringsregeling op hem van toepassing is. Een verzoek tot het sluiten van een buitengerechtelijk akkoord kan een ieder indienen, ook de schuldenaar.
 
 ### 73.6.4. Voorwaarden voor toetreding tot een gerechtelijk akkoord
 
-### 73.6.6. Begrip belastingschuld en (buiten)gerechtelijk akkoord
+### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
+
+### 73.6.8. Gevolgen dwangakkoord
 
 ### 73.6.9. Kwijtschelding voor ondernemers bij een saneringsakkoord
 
-### 74.8. Uitstel op basis van [artikel 25, zestiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
-
-### 74.1.4. Hoogte zekerheid
+### 74.1.3. Conserverende aanslag met meerdere inkomensbestanddelen
 
 ### 74.3. Duur van het uitstel op basis van [artikel 25, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
@@ -6778,53 +6778,53 @@ De betaling van het aangeboden bedrag moet in beginsel ineens plaatsvinden. Als 
 
 ### 74.9. Uitstel en de Regeling beëindiging veehouderijtakken
 
-### Artikel 76. Douane en invordering
+### 74.6.2. Rente en [artikel 25, elfde lid, van de wet](onbekend)
 
 ### Artikel 75. Kosten van vervolging
 
 ### 75.2. Aan derden toekomende bedragen
 
+### 75.2. Aan derden toekomende bedragen
+
 ### 75.3. Rechtsmiddelen en vervolgingskosten
 
-### 75.5. Niet in rekening brengen van vervolgingskosten
-
-### 76.5. Bewaren invorderingsbescheiden
+### 75.1. Gevorderde som bevat geen vervolgingskosten
 
 ### 75.7. Niet-verwijtbaarheid en vervolgingskosten
 
+### 75.4. Verzoek om vermindering vervolgingskosten aanmerken als bezwaar
+
 ### 75.9. Aansprakelijkgestelden en vervolgingskosten
 
-### Artikel 76. Douane en invordering
+### 75.7. Niet-verwijtbaarheid en vervolgingskosten
 
-### 78.1. Doen van een verzoek
-
-De bevoegdheid tot invordering door de ontvanger van de douane-onderdelen van de organisatie van de Belastingdienst (hierna: de douane-ontvanger) vloeit voort uit artikel 4, punt 3 CDW en [artikel 1:3 Adw](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegdheid van de douane-ontvanger strekt zich uit tot onder meer de douanerechten, de landbouwheffingen en de anti-dumpingheffingen.
+De invordering van de eigen middelen voor de Europese Unie (rechten bij in- en uitvoer) vindt voor een belangrijk deel plaats met toepassing van verordeningen. Met name het CDW en de Toepassingsverordening CDW (beide aangeduid als CDW) zijn in dit verband van belang. De invordering vindt plaats op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), maar als de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) strijdig is met het CDW geldt hetgeen in het CDW is bepaald.
 
 ### 77.2. Waarschuwingsbrief voorafgaand aan signalering
 
-### 77.4. Verwijderen verplichtingensignaal
+### 76.3. Invorderingsrente vergoeden
+
+### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
+
+### 76.5. Bewaren invorderingsbescheiden
 
 ### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
 
 ### 77.2. Waarschuwingsbrief voorafgaand aan signalering
-
-### Artikel 77. Verplichtingensignaal motorrijtuigenbelasting
 
 ### 77.3. Aanbrengen verplichtingensignaal
 
-### 77.4. Verwijderen verplichtingensignaal
+### 77.5. Verplichtingensignaal in relatie tot WSNP
 
 ### 77.6. De aantekening ‘katvanger’
 
-### 78.3. Geen verdere invorderingsmaatregelen treffen
+### 78.1. Doen van een verzoek
 
-### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
-
-Het gevoerde beleid met betrekking tot het niet meer treffen van verdere invorderingsmaatregelen voor buitenlandse vorderingen in Nederland is in lijn met het kwijtscheldingsbeleid dat voor Nederlandse belastingschulden wordt gevoerd.
+Een verzoek om bijstand bij de invordering in een andere staat wordt in beginsel pas gedaan wanneer de ontvanger mag aannemen dat het treffen van invorderingsmaatregelen in Nederland niet of niet geheel tot betaling van de schuld zal leiden. Er hoeft niet te worden gewacht tot een daadwerkelijke invorderingsprocedure is gestart of is afgerond.
 
 ### 78.4.2. Invordering buiten vijfjaarstermijn
 
-Als een verzoek om wederzijdse bijstand niet mogelijk is, kan de ontvanger door middel van een civiele procedure een Nederlandse belastingschuld in het buitenland trachten in te vorderen. Hiervoor is toestemming van het ministerie vereist.
+Tot het verzoeken van bijstand aan het buitenland wordt niet overgegaan als het verschuldigde bedrag aan belasting minder dan € 227 bedraagt, tenzij tussen staten een ander minimumbedrag is afgesproken. De ontvanger laat een voorstel tot het nemen van conservatoire maatregelen in het buitenland achterwege als het verschuldigde bedrag lager is dan € 2269, tenzij bijzondere omstandigheden een lager bedrag rechtvaardigen. Bij bijzondere omstandigheden kan voor een lager bedrag inlichtingen worden gevraagd.
 
 ### 10.1. Reikwijdte versnelde invordering
 
@@ -6982,23 +6982,23 @@ Voor ex-ondernemers is het uitstelbeleid van toepassing zoals dat geldt voor par
 
 ### 34.4.2. Inlenersaansprakelijkheid bij WSNP of faillissement uitlener
 
+### 34.6.1. Voorwaarden disculpatie van inlener van SNA-gecertificeerde uitzendondernemingen
+
 ### 34.7. Verklaring betalingsgedrag uitlener
 
 ### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
 
-### 34.8.3. Samenloop derdenbeslag en inlenersaansprakelijkheid
+### 35.2.1. Werk van stoffelijke aard
 
-### 35.3. Het begrip eigenbouwer
+### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
 
-### 35.3.5. Woningcorporaties en eigenbouwerschap
-
-Woningcorporaties en andere op grond van [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) ‘toegelaten instellingen’ oefenen in beginsel een bedrijf uit. Als voor eigen rekening en risico een nieuwbouwproject wordt uitgevoerd – hetzij voor de verkoop, hetzij voor de verhuur – en het realiseren van een nieuwbouwproject meer dan incidenteel gebeurt, is de corporatie eigenbouwer. De corporatie moet dan een zodanige ervaring en kennis hebben met betrekking tot het bouwen, dat zij door hiervan gebruik te maken feitelijk op dezelfde wijze optreedt als een hoofdaannemer die het gehele werk uitbesteedt.
+Op deze hoofdregel bestaat een tweetal uitzonderingen:
 
 ### 35.3.7. Winkelbedrijf in de confectiesector en eigenbouwerschap
 
-### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
+### 35.6.2. Rechtstreekse storting door aannemer na WSNP, faillissement of surséance
 
-### 35.10. Latere brutering en ketenaansprakelijkheid
+### 35.8.2. Wanneer verwijtbaarheid
 
 ### 35.10. Latere brutering en ketenaansprakelijkheid
 
@@ -7008,7 +7008,7 @@ Woningcorporaties en andere op grond van [artikel 70, eerste lid, van de Woningw
 
 ### 35.12.3. Verklaring betalingsgedrag en ambtshalve aanslagen
 
-### 35.12.5. Verklaring betalingsgedrag en bezwaar of (hoger) beroep tegen naheffingsaanslagen
+### 35.12.4. Verklaring betalingsgedrag en naheffingsaanslagen
 
 ### 35.12.7. Beslistermijn verzoek betalingsgedrag
 
@@ -7018,47 +7018,47 @@ De ontvanger geeft echter geen verklaring af. De weigering een verklaring af te 
 
 ### 35a.1. Dienstbetrekking en opdrachtgeversaansprakelijkheid
 
-### 35a.2. Normale uitoefening van het bedrijf en opdrachtgeversaansprakelijkheid
+### 35a.1. Dienstbetrekking en opdrachtgeversaansprakelijkheid
 
 ### 36.3. Curator is niet aansprakelijk op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36)
 
 ### 36.4.1. Wanneer kennelijk onbehoorlijk bestuur
 
-### 40.1. Vervreemding van aandelen
+### 38.1. Geen aansprakelijkstelling voor loon- en kansspelbelasting bij goede trouw
 
-### Artikel 42. Aansprakelijkheid voor overdrachtsbelasting
-
-### Artikel 44. Aansprakelijkheid voor aan een derde toegerekende inkomensbestanddelen
+### Artikel 41
 
 ### Artikel 44. Aansprakelijkheid voor aan een derde toegerekende inkomensbestanddelen
 
-### Artikel 44b. en [artikel 44c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44c)
+### 43.1. Teruggaaf omzetbelasting aan fiscale eenheid
 
-Er zijn in deze leidraad op [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=47) geen beleidsregels gemaakt.
+### Artikel 44a. Aansprakelijkheid verzekeraars van lijfrenten en beroepspensioenen
 
-### Artikel 51. Conservatoir beslag bij aansprakelijkheid
+De aansprakelijkheid is niet beperkt tot het recht van successie of erfbelasting verschuldigd door verkrijgers die al op het ogenblik van overlijden van de erflater buiten Nederland woonden, maar is ook aanwezig als de verkrijgers pas na zijn overlijden buiten Nederland zijn gaan wonen.
 
-### Artikel 59. Informatieverplichting: gegevensdragers bij een derde
+### 49.9. Overgangsrecht
 
-### Artikel 61. Geen geheimhoudingsplicht bij de informatieverplichtingen
+### Artikel 58. Informatieverplichtingen van de belastingschuldige of de aansprakelijkgestelde
+
+### Artikel 60. Formele bepalingen voor de informatieverplichtingen
 
 ### 62.1. Gerechtelijke verklaringsprocedure
 
-### Artikel 63b. Bestuurlijke boeten
+### Artikel 62. Informatieverplichtingen van de administratieplichtige
 
-### Artikel 62a
+### Artikel 61. Geen geheimhoudingsplicht bij de informatieverplichtingen
 
-### 67.1. Bekendmaking gegevens op verzoek van de belastingschuldige zelf
+### Artikel 65. Niet nakomen informatieverplichting: strafmaat voor misdrijf
 
-### 73.1. Algemene uitgangspunten insolventieprocedures
+### 67.2. Informatieverstrekking aan gerechtsdeurwaarder over periodieke betalingen
 
 ### 73.2.1. Kwijtschelding tijdens WSNP
 
 ### 73.1.6. Bodemvoorrecht in WSNP en faillissement
 
-### 73.1.10. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot WSNP en faillissement
+### 73.1.6. Bodemvoorrecht in WSNP en faillissement
 
-### 73.2.1. Kwijtschelding tijdens WSNP
+### 73.1.12. Verplichtingensignaal in relatie tot MSNP, WSNP en faillissement
 
 ### 73.3. Insolventieprocedure – surséance
 
@@ -7070,45 +7070,51 @@ Er zijn in deze leidraad op [artikel 47 van de wet](https://wetten.overheid.nl/j
 
 ### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
 
-### 73.5.6. De schuldenaar voldoet aan zijn verplichtingen MSNP
+### 73.5.5. Intrekken uitstel gedurende MSNP
 
 ### 74.5. Rente en uitstel op basis van [artikel 25, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 73.6.8. Gevolgen dwangakkoord
+### 73.6.4. Voorwaarden voor toetreding tot een gerechtelijk akkoord
 
-### 74.1.2. M-biljet is verzoek om uitstel
+### 73.6.7. Schuldig nalatig en (buiten)gerechtelijk akkoord
 
 ### 74.1.6. Voorlopige conserverende aanslag gevolgd door conserverende aanslag
 
 ### 74.6.1. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](onbekend)
 
-### Artikel 75. Kosten van vervolging
+### 74.6. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 74.10. Uitstel op basis van [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.9. Uitstel en de Regeling beëindiging veehouderijtakken
 
 ### 75.5. Niet in rekening brengen van vervolgingskosten
 
-### 75.10. Geen kwijtschelding van vervolgingskosten
+### 75.6. Onverschuldigdheid van vervolgingskosten
 
-### 77.4. Verwijderen verplichtingensignaal
+### 77.1. Voorwaarden voor aanbrengen verplichtingensignaal
 
-### 77.5. Verplichtingensignaal in relatie tot WSNP
+### 77.2. Waarschuwingsbrief voorafgaand aan signalering
 
 ### 79.4. Minnelijke schuldsaneringsregeling en toeslagschuld
 
-Op basis van de [Richtlijn 2008/55/EG](32008L0055) is de aangezochte lidstaat niet gehouden de gevraagde bijstand te verlenen wanneer het verzoek betrekking heeft op een schuldvordering die meer dan vijf jaar bestaat, te rekenen vanaf het tijdstip van vaststelling van de executoriale titel.
+Als een belanghebbende zich wendt tot de burgerlijke rechter om te voorkomen dat Nederland aan een andere staat inlichtingen verstrekt, neemt de ontvanger ook contact op met het ministerie.
 
-Op basis van de [Richtlijn 2008/55/EG](32008L0055) leidt een betwisting van de vordering door de schuldenaar niet tot schorsing van de invorderingsactiviteiten. De ontvanger verleent echter wel uitstel van betaling conform het Nederlandse uitstelbeleid voor betwiste vorderingen. Slechts in de situatie waarin bij bestrijding van fraude een verzoek wordt gedaan een belastingschuld of andere schuldvordering onmiddellijk in te vorderen zonder schorsing, wordt dit uitstel niet verleend.
+Het gevoerde beleid met betrekking tot het niet meer treffen van verdere invorderingsmaatregelen voor buitenlandse vorderingen in Nederland is in lijn met het kwijtscheldingsbeleid dat voor Nederlandse belastingschulden wordt gevoerd.
+
+### 78.4.1. Invordering betwiste schuld
+
+Bijstand bij de invordering is ook mogelijk met betrekking tot aansprake-lijkgestelden.
+
+[Hoofdstuk 2 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2) (Awir) bevat de procedureregels die gelden voor de inkomensafhankelijke regelingen die door Belastingdienst/Toeslagen worden uitgevoerd, te weten:
+
+Als een verzoek om wederzijdse bijstand niet mogelijk is, kan de ontvanger door middel van een civiele procedure een Nederlandse belastingschuld in het buitenland trachten in te vorderen. Hiervoor is toestemming van het ministerie vereist.
 
 ### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
 [Hoofdstuk 2 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2) (Awir) bevat de procedureregels die gelden voor de inkomensafhankelijke regelingen die door Belastingdienst/Toeslagen worden uitgevoerd, te weten:
 
-[Hoofdstuk 2 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2) (Awir) bevat de procedureregels die gelden voor de inkomensafhankelijke regelingen die door Belastingdienst/Toeslagen worden uitgevoerd, te weten:
-
 [Paragraaf 3 van hoofdstuk 2 Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&paragraaf=3) omschrijft de bevoegdheden die Belastingdienst/Toeslagen heeft om een teruggevorderde toeslag in te vorderen. Dit hoofdstuk beschrijft het beleid bij invordering van toeslagschuld.
 
-### 78.5. Overige internationale invordering
+### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
 
 De belastingdeurwaarder is in de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) bevoegd verklaard voor het verrichten van deurwaarderswerkzaamheden in opdracht van Belastingdienst/Toeslagen.
 
@@ -7118,25 +7124,19 @@ Het volgende beleid is in dit artikel opgenomen:
 
 Als de toeslagschuld niet of niet volledig binnen de betalingstermijn wordt voldaan, zendt Belastingdienst/Toeslagen de belanghebbende eerst (kosteloos) een schriftelijke betalingsherinnering voordat tot dwanginvordering wordt overgegaan.
 
-Het betalingsgedrag van de belanghebbende of diens gedrag met betrekking tot het verstrekken van informatie voor de toekenning van een toeslag of voorschot op een toeslag, kan aanleiding zijn om het zenden van een betalingsherinnering achterwege te laten en direct tot dwanginvordering over te gaan.
+### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
-### 79.2. Invordering toeslagschuld door middel van vordering
-
-Op grond van [artikel 32, zesde lid, Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) kan Belastingdienst/Toeslagen gebruik maken van de bevoegdheid tot het doen van een vordering ex [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) onder de werkgever, de uitkeringsinstantie of een andere derde als bedoeld in het [eerste lid van laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
-
-### 79.1. De betalingsherinnering en toeslagschuld
-
-Als de toeslagschuld niet of niet volledig binnen de betalingstermijn wordt voldaan, zendt Belastingdienst/Toeslagen de belanghebbende eerst (kosteloos) een schriftelijke betalingsherinnering voordat tot dwanginvordering wordt overgegaan.
+[Hoofdstuk 2 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2) (Awir) bevat de procedureregels die gelden voor de inkomensafhankelijke regelingen die door Belastingdienst/Toeslagen worden uitgevoerd, te weten:
 
 ### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
 
+De overeenkomstige toepassing van [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) houdt in dat aan het doen van een vordering een vooraankondiging vooraf gaat, ook als het gaat om een vordering onder een uitkeringsinstantie.
+
+### 79.3. Faillissement, WSNP en toeslagschuld
+
+### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
+
 De ontvanger meldt de openstaande toeslagschuld over de periode voorafgaand aan het tijdstip van faillissement of schuldsanering, ter verificatie aan bij de curator of de bewindvoerder. Voorafgaand aan de aanmelding van de toeslagschuld blijft verrekening van die schuld met uit te betalen bedragen op basis van een voorschot achterwege.
-
-### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
-
-### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
-
-Over de betaling van toeslagschuld die is ontstaan gedurende de periode na de datum van de uitspraak tot faillietverklaring dan wel de datum van toepassing van de wettelijke schuldsaneringsregeling of de minnelijke schuldsaneringsregeling, treedt de ontvanger in overleg met de curator of de bewindvoerder. Als de toeslagschuld niet uit de boedel kan worden voldaan is betaling van de schuld met behulp van een betalingsregeling op de voet van de artikelen 79.7 of 79.8 mogelijk. In het geval van een betalingsregeling op de voet van artikel 79.8 houdt de ontvanger bij de vaststelling van het inkomen van de schuldenaar geen rekening met een eventuele afdracht van een deel van dat inkomen aan de bewindvoerder.
 
 ### 19.1.4. Intrekken van een vordering
 
@@ -7190,15 +7190,15 @@ Over de betaling van toeslagschuld die is ontstaan gedurende de periode na de da
 
 ### 34.4. Inlenersaansprakelijkheid en g-rekening
 
-### 34.8. De omvang van de aansprakelijkheid
+### 34.7. Verklaring betalingsgedrag uitlener
 
 ### 35.3. Het begrip eigenbouwer
 
-### 35.2.2. Vervoersovereenkomsten en werk van stoffelijke aard
+### 35.2.1. Werk van stoffelijke aard
 
-### 35.3.3. De normale bedrijfsuitoefening en eigenbouwerschap
+### 35.3.2. Het begrip bedrijf en eigenbouwerschap
 
-De ontvanger kan zich beroepen op toerekenbare tekortkoming (wanprestatie) van een g-rekeninghouder, als deze bedragen van de g-rekening heeft overgeboekt in strijd met de g-rekeningovereenkomst waardoor het pandrecht van de fiscus is gefrustreerd. De g-rekeninghouder die deze bedragen op zijn g-rekening ontvangt, begaat een toerekenbare tekortkoming (wanprestatie) als hij deze bedragen niet onmiddellijk terugstort op de g-rekening van de storter.
+De ontvanger kan de aannemer ook aansprakelijk stellen voor bedragen die vanaf de datum van het faillissement van de onderaannemer op diens g-rekening zijn bijgeschreven, aangezien op die bedragen geen pandrecht meer wordt gevestigd zodat de ontvanger daarop geen bijzondere aanspraken meer kan doen gelden. De bedragen die na faillissementsdatum zijn gestort, vallen in de boedel en kunnen niet meer worden afgeboekt op de belastingschuld.
 
 ### 35.8.2. Wanneer verwijtbaarheid
 
@@ -7206,43 +7206,43 @@ De ontvanger kan zich beroepen op toerekenbare tekortkoming (wanprestatie) van e
 
 ### Artikel 45
 
-De ontvanger zal – als beide aansprakelijkheidsregelingen van toepassing zijn – trachten de belastingschuld eerst te verhalen op de erfgenamen.
+In aansluiting op [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=46) beschrijft dit artikel het beleid over:
 
-### 49.9.1. Bij civiele procedure geen invordering of verrekening
+### 49.8.2. Beslissing op het bezwaarschrift
 
-### 58.2. Gegevens voor invordering van ‘eigen’ belastingschulden
+### 54.1. Betaling teruggaaf aanhouden bij aansprakelijkstelling
 
-### 61.1. Niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens
+### 60.2. Kwaliteit van de gegevens en wijze van verstrekking of beschikbaar stellen
 
-### 73.1.2. Invorderingsmaatregelen tijdens de toepassing van WSNP of faillissement
+### 73.1.1. Aanmelden belastingschulden in WSNP of faillissement
 
-### 73.3.1. Uitstel, kwijtschelding en surséance
+### 73.1.11. Toeslagenschuld in relatie tot MSNP, WSNP en faillissement
 
-### 73.4.5. Verzoek om uitstel van betaling vóór behandeling faillissementsaanvraag door rechter
+### 73.4.4. Saneringsaanbod en faillissementsaanvraag
 
-### 73.4.6. Toestemming voor faillissementsaanvraag
+### 73.4.3. Particulieren en faillissement
 
 ### 73.5.5. Intrekken uitstel gedurende MSNP
 
 ### 73.5a. Insolventieprocedure - minnelijke schuldsanering door anderen dan leden van de NVVK of gemeenten
 
-### 73.6.2. Voorwaarden voor toetreding tot een buitengerechtelijk akkoord
+### 73.6.1. Buitengerechtelijk akkoord
 
-De ontvanger heft de beslagen op zodra hij ontvangt wat hij heeft gevorderd op grond van het buitengerechtelijk akkoord.
+De ontvanger stemt alleen in met een buitengerechtelijk akkoord als het bodemvoorrecht of de waarde van de bodemzaken tot uitdrukking komt in het aangeboden bedrag.
 
 ### 73.6.4. Voorwaarden voor toetreding tot een gerechtelijk akkoord
 
 ### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
 
-### 74.1.3. Conserverende aanslag met meerdere inkomensbestanddelen
+### Artikel 74. Uitstel- en kwijtscheldingsfaciliteiten
 
 ### 74.2.3. Remigratie en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 ### 74.7. Beoordeling verzoek om uitstel en [artikel 25, veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 75.7. Niet-verwijtbaarheid en vervolgingskosten
+### 74.11. Uitstel op basis van [artikel 25, achttiende en negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 75.11. Limitering betekeningskosten dwangbevel
+### 75.10. Geen kwijtschelding van vervolgingskosten
 
 ### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
 
@@ -7252,21 +7252,21 @@ De ontvanger heft de beslagen op zodra hij ontvangt wat hij heeft gevorderd op g
 
 ### 78.4.2. Invordering buiten vijfjaarstermijn
 
-Als een verzoek om wederzijdse bijstand niet mogelijk is, kan de ontvanger door middel van een civiele procedure een Nederlandse belastingschuld in het buitenland trachten in te vorderen. Hiervoor is toestemming van het ministerie vereist.
+Het komt voor dat bijstand kan worden gevraagd aan een bepaalde staat op grond van verschillende internationale regelingen. Het is dan mogelijk dat de ene regeling een ruimere wederzijdse bijstand toestaat dan de andere. In dat geval kan het verzoek worden gebaseerd op de regeling die de ruimste mogelijkheden biedt.
 
-### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
+### 78.4.2. Invordering buiten vijfjaarstermijn
 
 ### 79.11. Beslag door derden op toeslag
 
-De voorzitter van het managementteam van Belastingdienst/Toeslagen heeft de directeuren van de onderdelen van de Belastingdienst die zijn belast met de invordering van rijksbelastingen, mandaat verleend om namens Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
+Als een belanghebbende zich wendt tot de burgerlijke rechter om te voorkomen dat Nederland aan een andere staat inlichtingen verstrekt, neemt de ontvanger ook contact op met het ministerie.
 
-### 79.7. Standaardbetalingsregeling toeslagschuld
+### 78.3. Geen verdere invorderingsmaatregelen treffen
 
 De belastingdeurwaarder is in de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) bevoegd verklaard voor het verrichten van deurwaarderswerkzaamheden in opdracht van Belastingdienst/Toeslagen.
 
 ### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
 
-De overeenkomstige toepassing van [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) houdt in dat aan het doen van een vordering een vooraankondiging vooraf gaat, ook als het gaat om een vordering onder een uitkeringsinstantie.
+Het betalingsgedrag van de belanghebbende of diens gedrag met betrekking tot het verstrekken van informatie voor de toekenning van een toeslag of voorschot op een toeslag, kan aanleiding zijn om het zenden van een betalingsherinnering achterwege te laten en direct tot dwanginvordering over te gaan.
 
 ### 1.1.7. Invorderingsmaatregelen tegen grote bedrijven
 
@@ -7328,31 +7328,31 @@ Voor de berekening van de betalingscapaciteit vraagt de ontvanger zo nodig nader
 
 ### Artikel 60. Formele bepalingen voor de informatieverplichtingen
 
-### 60.2. Kwaliteit van de gegevens en wijze van verstrekking of beschikbaar stellen
+### 60.1. Redelijke termijn voor verstrekken van informatie
 
-### Artikel 62. Informatieverplichtingen van de administratieplichtige
+### 61.1. Niet van de administratie gescheiden (beroeps-)vertrouwelijke gegevens
 
 ### 67.1. Bekendmaking gegevens op verzoek van de belastingschuldige zelf
 
 ### 73.1.7. Bodemrecht en insolventie van de derde-eigenaar
 
-### 73.1.12. Verplichtingensignaal in relatie tot MSNP, WSNP en faillissement
+### 73.1.7. Bodemrecht en insolventie van de derde-eigenaar
 
-### 73.3.2. Ketenaansprakelijkheid en bestuurdersaansprakelijkheid in relatie tot surséance
+### 73.3. Insolventieprocedure – surséance
 
-### 73.4.3. Particulieren en faillissement
+### 73.3.1. Uitstel, kwijtschelding en surséance
 
-### 73.4.10. Beroep op regresrecht in faillissement
+### 73.4.9. Verzet tegen faillietverklaring
 
-### 74.1. Uitstelfaciliteiten op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) – algemene uitgangspunten
+### 73.6.8. Gevolgen dwangakkoord
 
 ### 74.1.5. Versnelde invordering
 
-### 74.3. Duur van het uitstel op basis van [artikel 25, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.2.1. Zekerheid en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 74.6. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.5a. Rente en uitstel op basis van [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 75.8. Versnelde invordering en vervolgingskosten
+### 75.5. Niet in rekening brengen van vervolgingskosten
 
 ### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
@@ -7362,37 +7362,37 @@ Voor de berekening van de betalingscapaciteit vraagt de ontvanger zo nodig nader
 
 ### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
-Als de toeslagschuld niet of niet volledig binnen de betalingstermijn wordt voldaan, zendt Belastingdienst/Toeslagen de belanghebbende eerst (kosteloos) een schriftelijke betalingsherinnering voordat tot dwanginvordering wordt overgegaan.
+De voorzitter van het managementteam van Belastingdienst/Toeslagen heeft de directeuren van de onderdelen van de Belastingdienst die zijn belast met de invordering van rijksbelastingen, mandaat verleend om namens Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
 
-### 79.13. Rijksadvocaat in civiele procedures over toeslagen
+### 78.4.1. Invordering betwiste schuld
 
-Zodra Belastingdienst/Toeslagen bekend is met het feit dat ten aanzien van een belanghebbende het faillissement is uitgesproken dan wel de wettelijke schuldsaneringsregeling van toepassing is verklaard, zullen eventuele invorderingsmaatregelen worden gestaakt en lopende betalingsregelingen worden beëindigd.
+Op grond van [artikel 32, zesde lid, Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) kan Belastingdienst/Toeslagen gebruik maken van de bevoegdheid tot het doen van een vordering ex [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) onder de werkgever, de uitkeringsinstantie of een andere derde als bedoeld in het [eerste lid van laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
 
 ### Artikel 74. Uitstel- en kwijtscheldingsfaciliteiten
 
-### 74.2.1. Zekerheid en [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
+### 74.2. Uitstel op basis van [artikel 25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
 ### 74.6.1. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](onbekend)
 
-### 77.2. Waarschuwingsbrief voorafgaand aan signalering
+### 77.1. Voorwaarden voor aanbrengen verplichtingensignaal
 
 ### 79.3. Faillissement, WSNP en toeslagschuld
 
 ### Artikel 79. Invordering van een toeslagschuld ([Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
-### 79.3. Faillissement, WSNP en toeslagschuld
+### 79.2. Invordering toeslagschuld door middel van vordering
 
 ### 79.2. Invordering toeslagschuld door middel van vordering
 
+De belastingdeurwaarder is in de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) bevoegd verklaard voor het verrichten van deurwaarderswerkzaamheden in opdracht van Belastingdienst/Toeslagen.
+
 Gedurende het faillissement of de wettelijke schuldsaneringsregeling vindt eveneens geen verrekening plaats van de aangemelde toeslagschuld met uit te betalen bedragen op basis van een verleend voorschot. Uitbetalingen met een eenmalig karakter (nabetaling van een toeslag of een teruggaaf inkomstenbelasting) kunnen wel worden verrekend indien en voor zover zij betrekking hebben op de periode gelegen vóór de datum van faillissement dan wel de toepassingverklaring van de wettelijke schuldsaneringsregeling. In het geval vóór de faillissementsuitspraak danwel voor de uitspraak tot toepassing van de wettelijke schuldsaneringsregeling verrekening van een schuld met een voorschot of een voorlopige teruggaaf inkomstenbelasting heeft plaatsgevonden waarbij (ook) termijnen zijn verrekend die betrekking hebben op de periode na de faillissementsuitspraak respectievelijk de schuldsaneringsregeling, zal de verrekening in zoverre – namelijk voorzover de verrekening heeft plaatsgevonden met dat deel van het voorschot of de teruggaaf dat opeisbaar wordt vanaf datum faillissement of schuldsaneringsregeling – worden teruggedraaid. Dit laatste geldt ook in het geval van verrekening met termijnbedragen ingevolge een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8.
 
-Voor een toeslagschuld geldt dat het invorderingsbeleid voor belastingschulden zoals dat is verwoord in artikel 73.5 van deze leidraad overeenkomstig wordt toepast. In aanvulling op artikel 73.5.2, vijfde volzin, en artikel 73.5.3, laatste volzin, geldt dat een verrekening van een voorschot ter zake van toeslagen, die in termijnen behoort te worden uitbetaald, moet worden teruggedraaid voor zover die verrekening betrekking heeft op de voorschottermijnen die verstrijken na de ontvangst van het afschrift van de stabilisatie-overeenkomst of van de schriftelijke mededeling als bedoeld in artikel 73.5.2, tweede volzin. Dit geldt ook als sprake is van een verrekening met termijnbedragen ingevolge een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8.
+Het betalingsgedrag van de belanghebbende of diens gedrag met betrekking tot het verstrekken van informatie voor de toekenning van een toeslag of voorschot op een toeslag, kan aanleiding zijn om het zenden van een betalingsherinnering achterwege te laten en direct tot dwanginvordering over te gaan.
 
-Voor een toeslagschuld geldt dat het invorderingsbeleid voor belastingschulden zoals dat is verwoord in artikel 73.5 van deze leidraad overeenkomstig wordt toepast. In aanvulling op artikel 73.5.2, vijfde volzin, en artikel 73.5.3, laatste volzin, geldt dat een verrekening van een voorschot ter zake van toeslagen, die in termijnen behoort te worden uitbetaald, moet worden teruggedraaid voor zover die verrekening betrekking heeft op de voorschottermijnen die verstrijken na de ontvangst van het afschrift van de stabilisatie-overeenkomst of van de schriftelijke mededeling als bedoeld in artikel 73.5.2, tweede volzin. Dit geldt ook als sprake is van een verrekening met termijnbedragen ingevolge een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8.
+### 79.2. Invordering toeslagschuld door middel van vordering
 
-### 79.5. Verrekening en toeslagschuld
-
-Een toeslagschuld kan worden verrekend met een aan dezelfde belanghebbende uit te betalen teruggaaf die voortvloeit uit een aanslag of voorlopige aanslag inkomstenbelasting. Van deze bevoegdheid zal alleen gebruik worden gemaakt als de ontvanger de belastingteruggaaf niet met belastingschulden wil verrekenen.
+Op grond van [artikel 32, zesde lid, Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) kan Belastingdienst/Toeslagen gebruik maken van de bevoegdheid tot het doen van een vordering ex [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) onder de werkgever, de uitkeringsinstantie of een andere derde als bedoeld in het [eerste lid van laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
 
 ### 34.2. Extraterritoriale werking van de inlenersaansprakelijkheid
 
@@ -7406,99 +7406,99 @@ Een toeslagschuld kan worden verrekend met een aan dezelfde belanghebbende uit t
 
 ### 35.12.6. Geen aansprakelijkheid voor de ontvanger
 
-### Artikel 35b. Aansprakelijkheid van een koper van een bestaande zaak
+### 35a.2. Normale uitoefening van het bedrijf en opdrachtgeversaansprakelijkheid
 
-### 35b.2. Volgorde aansprakelijkstelling bij kopersaansprakelijkheid
+### 35b.1. Kopersaansprakelijkheid en vrijwaring
 
-### 36.2. Gegevensverstrekking aan de curator en bestuurdersaansprakelijkheid
+### 36.1. Samenloop met bestuurdersaansprakelijkheid in faillissement
 
-### 36.3. Curator is niet aansprakelijk op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36)
+### 36.1. Samenloop met bestuurdersaansprakelijkheid in faillissement
 
 ### 36.4.2. Geen kennelijk onbehoorlijk bestuur
 
-### 36.5.13. Driejaarsperiode bij doorlopende melding betalingsonmacht
+### 36.5.12. Geldigheidsduur van de melding betalingsonmacht
 
 ### 46.1. Volgorde aansprakelijkstelling voor successierecht of erfbelasting
 
-### Artikel 48. Beperking aansprakelijkheid van erfgenamen
+### 46.2. Buiten Nederland wonende verkrijgers en successierecht of erfbelasting
 
-### 73.1.1. Aanmelden belastingschulden in WSNP of faillissement
+### Artikel 73. Insolventieprocedures
 
-### 73.1.3. Boedelschulden
+### Artikel 68. tot en met 72
 
-### 74.6.2. Rente en [artikel 25, elfde lid, van de wet](onbekend)
+### 74.6. Schriftelijk verzoek en [artikel 25, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25)
 
-### 76.1. Algemene uitgangspunten
+### 75.8. Versnelde invordering en vervolgingskosten
 
-### 78.5. Overige internationale invordering
+### 78.4. Eu-[richtlijn 2008/55/eg](32008L0055)
+
+Zodra Belastingdienst/Toeslagen bekend is met het feit dat ten aanzien van een belanghebbende het faillissement is uitgesproken dan wel de wettelijke schuldsaneringsregeling van toepassing is verklaard, zullen eventuele invorderingsmaatregelen worden gestaakt en lopende betalingsregelingen worden beëindigd.
+
+### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
 
 Over de betaling van toeslagschuld die is ontstaan gedurende de periode na de datum van de uitspraak tot faillietverklaring dan wel de datum van toepassing van de wettelijke schuldsaneringsregeling of de minnelijke schuldsaneringsregeling, treedt de ontvanger in overleg met de curator of de bewindvoerder. Als de toeslagschuld niet uit de boedel kan worden voldaan is betaling van de schuld met behulp van een betalingsregeling op de voet van de artikelen 79.7 of 79.8 mogelijk. In het geval van een betalingsregeling op de voet van artikel 79.8 houdt de ontvanger bij de vaststelling van het inkomen van de schuldenaar geen rekening met een eventuele afdracht van een deel van dat inkomen aan de bewindvoerder.
+
+Voor een toeslagschuld geldt dat het invorderingsbeleid voor belastingschulden zoals dat is verwoord in artikel 73.5 van deze leidraad overeenkomstig wordt toepast. In aanvulling op artikel 73.5.2, vijfde volzin, en artikel 73.5.3, laatste volzin, geldt dat een verrekening van een voorschot ter zake van toeslagen, die in termijnen behoort te worden uitbetaald, moet worden teruggedraaid voor zover die verrekening betrekking heeft op de voorschottermijnen die verstrijken na de ontvangst van het afschrift van de stabilisatie-overeenkomst of van de schriftelijke mededeling als bedoeld in artikel 73.5.2, tweede volzin. Dit geldt ook als sprake is van een verrekening met termijnbedragen ingevolge een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8.
 
 ### 79.5. Verrekening en toeslagschuld
 
 Een toeslagschuld kan worden verrekend met een aan dezelfde belanghebbende uit te betalen teruggaaf die voortvloeit uit een aanslag of voorlopige aanslag inkomstenbelasting. Van deze bevoegdheid zal alleen gebruik worden gemaakt als de ontvanger de belastingteruggaaf niet met belastingschulden wil verrekenen.
 
-Het initiatief om tot verrekening over te gaan, zal in de regel liggen bij Belastingdienst/Toeslagen. De belanghebbende kan Belastingdienst/Toeslagen echter ook verzoeken om van de verrekeningsbevoegdheid gebruik te maken. In dat geval kan ook verrekening plaats vinden voordat de betalingstermijn is verstreken.
+De ontvanger meldt de openstaande toeslagschuld over de periode voorafgaand aan het tijdstip van faillissement of schuldsanering, ter verificatie aan bij de curator of de bewindvoerder. Voorafgaand aan de aanmelding van de toeslagschuld blijft verrekening van die schuld met uit te betalen bedragen op basis van een voorschot achterwege.
 
 ### Artikel 79.5a. Verrekening en beslagvrije voet
 
 Als de belanghebbende door de verrekening van een voorschot op een tegemoetkoming of een voorlopige teruggaaf inkomstenbelasting een lager bedrag aan bestaansmiddelen overhoudt dan overeenkomt met de voor hem geldende beslagvrije voet, kan hij de Belastingdienst/Toeslagen verzoeken de verrekening ongedaan te maken voor zover hierdoor de beslagvrije voet is aangetast. Als de belanghebbende voldoende aannemelijk heeft gemaakt dat de beslagvrije voet is aangetast, zal de Belastingdienst/Toeslagen rekening houden met de beslagvrije voet bij de laatste verrekening die plaatsvond vóór de indiening van het verzoek en bij de daaropvolgende verrekeningen.
 
-Het initiatief om tot verrekening over te gaan, zal in de regel liggen bij Belastingdienst/Toeslagen. De belanghebbende kan Belastingdienst/Toeslagen echter ook verzoeken om van de verrekeningsbevoegdheid gebruik te maken. In dat geval kan ook verrekening plaats vinden voordat de betalingstermijn is verstreken.
+Over de betaling van toeslagschuld die is ontstaan gedurende de periode na de datum van de uitspraak tot faillietverklaring dan wel de datum van toepassing van de wettelijke schuldsaneringsregeling of de minnelijke schuldsaneringsregeling, treedt de ontvanger in overleg met de curator of de bewindvoerder. Als de toeslagschuld niet uit de boedel kan worden voldaan is betaling van de schuld met behulp van een betalingsregeling op de voet van de artikelen 79.7 of 79.8 mogelijk. In het geval van een betalingsregeling op de voet van artikel 79.8 houdt de ontvanger bij de vaststelling van het inkomen van de schuldenaar geen rekening met een eventuele afdracht van een deel van dat inkomen aan de bewindvoerder.
 
-### 79.6. Verrekening en uitstel van betaling toeslagschuld
+### 79.4. Minnelijke schuldsaneringsregeling en toeslagschuld
 
 Verrekening met termijnbedragen is echter wel toegestaan indien en voor zover deze worden aangewend voor de aflossing van een toeslagschuld door middel van een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8 van deze leidraad. De verrekening wordt altijd geacht op basis van termijnen (niet ineens) plaats te vinden.
 
-Aflossing kan op twee manieren plaatsvinden:
-
 ### 79.7. Standaardbetalingsregeling toeslagschuld
 
-De periode waarover de regeling zich uitstrekt is maximaal 24 maanden te rekenen vanaf één maand na de dagtekening van de terugvorderingsbeschikking. De eerste termijn moet zijn voldaan op de vervaldag van de terugvorderingsbeschikking. Als het teruggevorderde bedrag meer bedraagt dan € 480 wordt het maandelijks af te lossen bedrag zodanig verhoogd dat aflossing binnen 24 maanden mogelijk is.
-
-### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
-
-De situatie kan zich voordoen dat de belanghebbende tijdens de looptijd van een standaardregeling te maken krijgt met een nieuwe terugvordering voor dezelfde toeslag. In dat geval vindt een herziening van het bedrag van de standaardregeling plaats. Het bedrag van de nieuwe terugvordering wordt opgeteld bij het nog resterende bedrag van de terugvordering waarvoor de standaardregeling loopt. Voor het totaalbedrag geldt dan weer de aflossingssystematiek van ten minste € 20 per maand gedurende maximaal 24 maanden.
+Uitgangspunt is dat de belanghebbende die teveel ontvangen toeslag moet terugbetalen in de gelegenheid wordt gesteld om het bedrag van de toeslagschuld te voldoen met een standaardbetalingsregeling. De standaardregeling wordt zonder nader onderzoek in te stellen door Belastingdienst/Toeslagen aangeboden en gaat uit van een af te lossen bedrag van € 20 per maand voor iedere terugvordering afzonderlijk.
 
 ### 79.8. Betalingsregeling toeslagschuld op basis van betalingscapaciteit
 
-Belastingdienst/Toeslagen kan een andere betalingsregeling toestaan dan de standaardregeling. Dit kan alleen als de belanghebbende schriftelijk kenbaar maakt dat hij niet in staat is de toeslagenschuld te voldoen onder de condities die gelden voor de standaardregeling. De belanghebbende moet dan op het daartoe bestemde formulier de benodigde informatie verstrekken aan Belastingdienst/Toeslagen zodat beoordeeld kan worden of er sprake is van onvoldoende betalingscapaciteit om een maandelijkse aflossing overeenkomstig de standaardregeling te voldoen.
+Aflossing kan op twee manieren plaatsvinden:
 
 ### 80.1. Tenuitvoerlegging termijndwangbevel
 
 Als uit de verstrekte gegevens blijkt dat de betalingscapaciteit voldoende is om de toeslagenschuld af te lossen volgens de standaardregeling, zal Belastingdienst/Toeslagen het verzoek om een andere betalingsregeling afwijzen.
 
+Belastingdienst/Toeslagen kan een andere betalingsregeling toestaan dan de standaardregeling. Dit kan alleen als de belanghebbende schriftelijk kenbaar maakt dat hij niet in staat is de toeslagenschuld te voldoen onder de condities die gelden voor de standaardregeling. De belanghebbende moet dan op het daartoe bestemde formulier de benodigde informatie verstrekken aan Belastingdienst/Toeslagen zodat beoordeeld kan worden of er sprake is van onvoldoende betalingscapaciteit om een maandelijkse aflossing overeenkomstig de standaardregeling te voldoen.
+
+De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) zijn hierbij van overeenkomstige toepassing met dien verstande dat:
+
+### 79.7. Standaardbetalingsregeling toeslagschuld
+
 Zo’n betalingsregeling wordt ook afgewezen als de belanghebbende of de in [artikel 7, vierde lid, van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=7) bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) beschikt voor de voldoening van de terugvordering, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.
 
-Als echter blijkt dat de betalingscapaciteit lager is dan € 20 per maand, maar voldoende om het bedrag van de toeslagenschuld in maximaal 24 maanden te voldoen – zij het met een lager bedrag dan € 20 – dan zal Belastingdienst/Toeslagen een betalingsregeling toestaan die is gebaseerd op die betalingscapaciteit.
-
-### 80.2. Moment van vaststelling van (naheffings)aanslagen
-
-Na twaalf maanden zal Belastingdienst/Toeslagen de belanghebbende opnieuw een vragenformulier toesturen. Als na ontvangst van het formulier een inkomensverbetering wordt geconstateerd, dan wordt het lopende uitstel ingetrokken en een nieuwe uitstelregeling getroffen op basis van het hogere bedrag van de betalingscapaciteit, gedurende de resterende twaalf maanden. Als een inkomensvermindering wordt geconstateerd, dan wordt een nieuwe uitstelregeling getroffen op basis van het lagere bedrag voor de resterende periode van twaalf maanden.
-
-### 73.4.10. Beroep op regresrecht in faillissement
+### 73.4.7. Steunvordering UWV voor faillissementsaanvraag
 
 ### 73.4.16. Omzetting faillissement in WSNP
 
-### 78.1. Doen van een verzoek
+### 77.5. Verplichtingensignaal in relatie tot WSNP
 
-### 78.4.1. Invordering betwiste schuld
+### 78.3. Geen verdere invorderingsmaatregelen treffen
 
-### 78.5. Overige internationale invordering
+### 78.2. Overleg met het ministerie
 
-### 79.3. Faillissement, WSNP en toeslagschuld
+### 79.1. De betalingsherinnering en toeslagschuld
 
-### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
+### 79.4. Minnelijke schuldsaneringsregeling en toeslagschuld
 
 Zolang door Belastingdienst/Toeslagen uitstel is verleend voor de betaling van een toeslagschuld, vindt met betrekking tot deze toeslagschuld in beginsel geen verrekening plaats met termijnbedragen die worden uitbetaald:
 
 ### 79.11. Beslag door derden op toeslag
 
-Zolang door Belastingdienst/Toeslagen uitstel is verleend voor de betaling van een toeslagschuld, vindt met betrekking tot deze toeslagschuld in beginsel geen verrekening plaats met termijnbedragen die worden uitbetaald:
+Gedurende het faillissement of de wettelijke schuldsaneringsregeling vindt eveneens geen verrekening plaats van de aangemelde toeslagschuld met uit te betalen bedragen op basis van een verleend voorschot. Uitbetalingen met een eenmalig karakter (nabetaling van een toeslag of een teruggaaf inkomstenbelasting) kunnen wel worden verrekend indien en voor zover zij betrekking hebben op de periode gelegen vóór de datum van faillissement dan wel de toepassingverklaring van de wettelijke schuldsaneringsregeling. In het geval vóór de faillissementsuitspraak danwel voor de uitspraak tot toepassing van de wettelijke schuldsaneringsregeling verrekening van een schuld met een voorschot of een voorlopige teruggaaf inkomstenbelasting heeft plaatsgevonden waarbij (ook) termijnen zijn verrekend die betrekking hebben op de periode na de faillissementsuitspraak respectievelijk de schuldsaneringsregeling, zal de verrekening in zoverre – namelijk voorzover de verrekening heeft plaatsgevonden met dat deel van het voorschot of de teruggaaf dat opeisbaar wordt vanaf datum faillissement of schuldsaneringsregeling – worden teruggedraaid. Dit laatste geldt ook in het geval van verrekening met termijnbedragen ingevolge een betalingsregeling als bedoeld in de artikelen 79.7 en 79.8.
 
-### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
+### 79.3a. Toeslagschuld ontstaan gedurende faillissement, WSNP of MSNP
 
-De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) zijn hierbij van overeenkomstige toepassing met dien verstande dat:
+De situatie kan zich voordoen dat de belanghebbende tijdens de looptijd van een standaardregeling te maken krijgt met een nieuwe terugvordering voor dezelfde toeslag. In dat geval vindt een herziening van het bedrag van de standaardregeling plaats. Het bedrag van de nieuwe terugvordering wordt opgeteld bij het nog resterende bedrag van de terugvordering waarvoor de standaardregeling loopt. Voor het totaalbedrag geldt dan weer de aflossingssystematiek van ten minste € 20 per maand gedurende maximaal 24 maanden.
 
 ### 79.10. Aansprakelijkheid partner voor toeslagschuld
 
@@ -7554,35 +7554,35 @@ De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [
 
 ### 34.4.4. Surseance en inlenersaansprakelijkheid
 
-### 34.8.2. Inlenersaansprakelijkheid en anoniementarief
+### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
 
-### 35.3.6. Gemeentelijke grondbedrijven en eigenbouwerschap
+### 35.3.5. Woningcorporaties en eigenbouwerschap
 
 ### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
 
-### 35.5. Ketenaansprakelijkheid en g-rekening
+### 35.3.6. Gemeentelijke grondbedrijven en eigenbouwerschap
 
-### 35.8.2. Wanneer verwijtbaarheid
+### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
 
-### 36.6.3. Aansprakelijkheid nieuwe bestuurder
+### 36.5.13. Driejaarsperiode bij doorlopende melding betalingsonmacht
 
-### Artikel 36b. Aansprakelijkheid bestuurder voor aansprakelijkheidsschuld lichaam
+### 36a.1. Disculpatiemogelijkheid bestuurder aansprakelijkheid vennootschapsbelasting
 
-### Artikel 39
+### 37.1. Aansprakelijkheid voor loon- en omzetbelasting voor leider van in Nederland verrichte werkzaamheden
 
 ### 79.6. Verrekening en uitstel van betaling toeslagschuld
 
-Uitgangspunt is dat de belanghebbende die teveel ontvangen toeslag moet terugbetalen in de gelegenheid wordt gesteld om het bedrag van de toeslagschuld te voldoen met een standaardbetalingsregeling. De standaardregeling wordt zonder nader onderzoek in te stellen door Belastingdienst/Toeslagen aangeboden en gaat uit van een af te lossen bedrag van € 20 per maand voor iedere terugvordering afzonderlijk.
+Zolang door Belastingdienst/Toeslagen uitstel is verleend voor de betaling van een toeslagschuld, vindt met betrekking tot deze toeslagschuld in beginsel geen verrekening plaats met termijnbedragen die worden uitbetaald:
 
 Aflossing kan op twee manieren plaatsvinden:
 
-Als de belanghebbende wel over betalingscapaciteit beschikt, maar deze is niet voldoende om de toeslagenschuld af te lossen in 24 maanden, dan zal Belastingdienst/Toeslagen een regeling voor 24 maanden treffen, gebaseerd op die betalingscapaciteit. In de uitstelbeschikking zal worden opgenomen dat de regeling opnieuw wordt bezien na verloop van twaalf maanden.
+Als uit de verstrekte gegevens blijkt dat de betalingscapaciteit voldoende is om de toeslagenschuld af te lossen volgens de standaardregeling, zal Belastingdienst/Toeslagen het verzoek om een andere betalingsregeling afwijzen.
 
 ### 79.11. Beslag door derden op toeslag
 
-In beide situaties wordt aan de mededeling de voorwaarde verbonden dat gedurende 3 jaar te rekenen vanaf de datum van de mededeling, eventuele toeslagen en teruggaven inkomstenbelasting – voor zover die niet in maandelijkse termijnen worden uitbetaald – zullen worden verrekend met de buiten de invordering gelaten schuld. De Belastingdienst/Toeslagen ziet niet af van het nemen van invorderingsmaatregelen als de terugvordering is te wijten aan opzet of grove schuld van de belanghebbende of diens partner.
+Als echter blijkt dat de betalingscapaciteit lager is dan € 20 per maand, maar voldoende om het bedrag van de toeslagenschuld in maximaal 24 maanden te voldoen – zij het met een lager bedrag dan € 20 – dan zal Belastingdienst/Toeslagen een betalingsregeling toestaan die is gebaseerd op die betalingscapaciteit.
 
-Voor toeslagschulden regelt [artikel 7 van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=7) het uitstel van betaling in verband met betalingsproblemen. De leden 1 tot en met 6 van dat artikel 7 zijn niet van toepassing als het ontstaan van de terugvordering te wijten is aan opzet of grove schuld (artikel 7, zesde lid, van de Uitvoeringsregeling Awir). In aanvulling op dat zesde lid geldt het volgende.
+Als de belanghebbende wel over betalingscapaciteit beschikt, maar deze is niet voldoende om de toeslagenschuld af te lossen in 24 maanden, dan zal Belastingdienst/Toeslagen een regeling voor 24 maanden treffen, gebaseerd op die betalingscapaciteit. In de uitstelbeschikking zal worden opgenomen dat de regeling opnieuw wordt bezien na verloop van twaalf maanden.
 
 ### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
 
@@ -7590,23 +7590,23 @@ Als het mogelijk is om een regeling van korter dan 24 maanden te treffen, moet d
 
 ### 79.11. Beslag door derden op toeslag
 
-Derdenbeslag wordt gelegd onder de Staat der Nederlanden (het organisatieonderdeel Belastingdienst/Toeslagen). Dat organisatieonderdeel van de Belastingdienst is het bestuursorgaan dat op grond van de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) is belast met de uitbetaling van de toeslagen.
+Voor een toeslagschuld die is te wijten aan opzet of grove schuld van de belanghebbende of diens partner kan de Belastingdienst/Toeslagen een betalingsregeling van ten hoogste 24 maanden toestaan als aan de volgende voorwaarden is voldaan:
 
 ### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
 
-Als aan de hand van de gegevens op het door de belanghebbende ingevulde vragenformulier is vastgesteld dat hij niet over enige betalingscapaciteit beschikt, dan zal Belastingdienst/Toeslagen de belanghebbende na die vaststelling meedelen geen invorderingsmaatregelen te zullen nemen voor de toeslagenschuld in kwestie.
-
-### 79.11. Beslag door derden op toeslag
-
 Een toeslagschuld die is te wijten aan opzet of grove schuld van de belanghebbende of diens partner en waarvoor geen betalingsregeling overeengekomen kan worden, moet geheel worden ingevorderd. Als belanghebbende of diens partner aannemelijk maakt dat zij niet meer beschikken over het ten onrechte ontvangen voorschot, belichaamd in de toeslagschuld, houdt de Belastingdienst/Toeslagen, op verzoek, bij de verrekening van een voorschot met die toeslagschuld, er rekening mee dat belanghebbende een bedrag aan bestaansmiddelen overhoudt dat overeenkomt met de voor hem geldende beslagvrije voet.
 
+### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
+
+Als de belanghebbende een betalingsregeling is toegestaan, als bedoeld in artikel 79.8 van deze leidraad, die rekening houdt met een betalingscapaciteit die ontoereikend is om het teruggevorderde bedrag binnen 24 maanden te voldoen, zal Belastingdienst/Toeslagen na afloop van die regeling de belanghebbende meedelen geen invorderingsmaatregelen te zullen nemen voor de nog openstaande schuld.
+
+Als aan de hand van de gegevens op het door de belanghebbende ingevulde vragenformulier is vastgesteld dat hij niet over enige betalingscapaciteit beschikt, dan zal Belastingdienst/Toeslagen de belanghebbende na die vaststelling meedelen geen invorderingsmaatregelen te zullen nemen voor de toeslagenschuld in kwestie.
+
+In beide situaties wordt aan de mededeling de voorwaarde verbonden dat gedurende 3 jaar te rekenen vanaf de datum van de mededeling, eventuele toeslagen en teruggaven inkomstenbelasting – voor zover die niet in maandelijkse termijnen worden uitbetaald – zullen worden verrekend met de buiten de invordering gelaten schuld. De Belastingdienst/Toeslagen ziet niet af van het nemen van invorderingsmaatregelen als de terugvordering is te wijten aan opzet of grove schuld van de belanghebbende of diens partner.
+
+### Artikel 79.9a. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
+
 Voor de toepassing van [artikel 8 van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=8) geldt het volgende. De Belastingdienst/Toeslagen merkt een gemotiveerd bezwaarschrift of herzieningsverzoek aan als een verzoek om uitstel van betaling. In beginsel wordt het aldus gevraagde uitstel verleend tenzij:
-
-In het geval van beroep, hoger beroep en cassatie geldt een met het voorgaande overeenkomend beleid met dien verstande dat de belanghebbende uitdrukkelijk om uitstel van betaling dient te vragen.
-
-### 79.10. Aansprakelijkheid partner voor toeslagschuld
-
-De partner van de belanghebbende – als bedoeld in [artikel 3 Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) – is op grond van [artikel 33 van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=33) aansprakelijk voor de schuld die voortvloeit uit een toeslagschuld die de belanghebbende onbetaald laat. In overeenstemming met de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) zal de partner alleen aansprakelijk worden gesteld voor zover die ook feitelijk partner van de belanghebbende was gedurende de periode waarop de toeslagschuld betrekking heeft.
 
 ### 19.1. Vordering algemeen
 
@@ -7626,53 +7626,53 @@ De partner van de belanghebbende – als bedoeld in [artikel 3 Awir](https://wet
 
 ### 35a.4. Volgorde aansprakelijkstelling bij opdrachtgeversaansprakelijkheid
 
-### 35b.1. Kopersaansprakelijkheid en vrijwaring
+### 35a.4. Volgorde aansprakelijkstelling bij opdrachtgeversaansprakelijkheid
 
-### 73.4.15. Opening nationale (secundaire) insolventieprocedure
+### 73.4.12. Opkomen in faillissement
 
 ### 76.4. Uitwinnen van zekerheid voor rechten bij invoer
 
-### 79.2. Invordering toeslagschuld door middel van vordering
+### 78.4.2. Invordering buiten vijfjaarstermijn
 
 ### 79.6. Verrekening en uitstel van betaling toeslagschuld
 
 ### 79.6. Verrekening en uitstel van betaling toeslagschuld
 
-Als uit de verstrekte gegevens blijkt dat de betalingscapaciteit voldoende is om de toeslagenschuld af te lossen volgens de standaardregeling, zal Belastingdienst/Toeslagen het verzoek om een andere betalingsregeling afwijzen.
+De periode waarover de regeling zich uitstrekt is maximaal 24 maanden te rekenen vanaf één maand na de dagtekening van de terugvorderingsbeschikking. De eerste termijn moet zijn voldaan op de vervaldag van de terugvorderingsbeschikking. Als het teruggevorderde bedrag meer bedraagt dan € 480 wordt het maandelijks af te lossen bedrag zodanig verhoogd dat aflossing binnen 24 maanden mogelijk is.
 
 ### 79.8. Betalingsregeling toeslagschuld op basis van betalingscapaciteit
 
 ### 79.10. Aansprakelijkheid partner voor toeslagschuld
 
-Voor een toeslagschuld die is te wijten aan opzet of grove schuld van de belanghebbende of diens partner kan de Belastingdienst/Toeslagen een betalingsregeling van ten hoogste 24 maanden toestaan als aan de volgende voorwaarden is voldaan:
+Na twaalf maanden zal Belastingdienst/Toeslagen de belanghebbende opnieuw een vragenformulier toesturen. Als na ontvangst van het formulier een inkomensverbetering wordt geconstateerd, dan wordt het lopende uitstel ingetrokken en een nieuwe uitstelregeling getroffen op basis van het hogere bedrag van de betalingscapaciteit, gedurende de resterende twaalf maanden. Als een inkomensvermindering wordt geconstateerd, dan wordt een nieuwe uitstelregeling getroffen op basis van het lagere bedrag voor de resterende periode van twaalf maanden.
 
-Als de belanghebbende een betalingsregeling is toegestaan, als bedoeld in artikel 79.8 van deze leidraad, die rekening houdt met een betalingscapaciteit die ontoereikend is om het teruggevorderde bedrag binnen 24 maanden te voldoen, zal Belastingdienst/Toeslagen na afloop van die regeling de belanghebbende meedelen geen invorderingsmaatregelen te zullen nemen voor de nog openstaande schuld.
+Als het mogelijk is om een regeling van korter dan 24 maanden te treffen, moet die kortere regeling worden overeengekomen, afhankelijk van de betalingscapaciteit.
 
 ### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
 
-In beide situaties wordt aan de mededeling de voorwaarde verbonden dat gedurende 3 jaar te rekenen vanaf de datum van de mededeling, eventuele toeslagen en teruggaven inkomstenbelasting – voor zover die niet in maandelijkse termijnen worden uitbetaald – zullen worden verrekend met de buiten de invordering gelaten schuld. De Belastingdienst/Toeslagen ziet niet af van het nemen van invorderingsmaatregelen als de terugvordering is te wijten aan opzet of grove schuld van de belanghebbende of diens partner.
+Als echter blijkt dat de betalingscapaciteit lager is dan € 20 per maand, maar voldoende om het bedrag van de toeslagenschuld in maximaal 24 maanden te voldoen – zij het met een lager bedrag dan € 20 – dan zal Belastingdienst/Toeslagen een betalingsregeling toestaan die is gebaseerd op die betalingscapaciteit.
 
 ### Artikel 79.9a. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
-### 79.14. Verzoekschriften aan andere instellingen
+### Artikel 79.8a. Toeslagschuld te wijten aan opzet of grove schuld
 
-De Belastingdienst/Toeslagen houdt de invordering van de toeslagschuld aan als er een verzoekschrift is ingediend bij H.M. de Koningin, de Commissie voor de Verzoekschriften en Burgerinitiatieven uit de Tweede Kamer of de Commissie voor de Verzoekschriften uit de Eerste Kamer de Staten-Generaal, de Nationale Ombudsman of het Ministerie van Financiën. Als naar het oordeel van de Belastingdienst/Toeslagen aanwijzingen bestaan dat door het niet direct aanvangen of vervolgen van de invordering de belangen van de Staat worden geschaad, kunnen na voorafgaande toestemming van het ministerie toch invorderingsmaatregelen getroffen worden.
+Voor toeslagschulden regelt [artikel 7 van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=7) het uitstel van betaling in verband met betalingsproblemen. De leden 1 tot en met 6 van dat artikel 7 zijn niet van toepassing als het ontstaan van de terugvordering te wijten is aan opzet of grove schuld (artikel 7, zesde lid, van de Uitvoeringsregeling Awir). In aanvulling op dat zesde lid geldt het volgende.
 
 ### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
 
+In het geval van beroep, hoger beroep en cassatie geldt een met het voorgaande overeenkomend beleid met dien verstande dat de belanghebbende uitdrukkelijk om uitstel van betaling dient te vragen.
+
+### 79.10. Aansprakelijkheid partner voor toeslagschuld
+
+De partner van de belanghebbende – als bedoeld in [artikel 3 Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) – is op grond van [artikel 33 van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=33) aansprakelijk voor de schuld die voortvloeit uit een toeslagschuld die de belanghebbende onbetaald laat. In overeenstemming met de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) zal de partner alleen aansprakelijk worden gesteld voor zover die ook feitelijk partner van de belanghebbende was gedurende de periode waarop de toeslagschuld betrekking heeft.
+
 Een nieuwe partner kan dus niet aansprakelijk worden gesteld voor een toeslagschuld die betrekking heeft op de periode waarin er nog geen sprake was van partnerschap.
 
-### 79.11. Beslag door derden op toeslag
-
-Derdenbeslag wordt gelegd onder de Staat der Nederlanden (het organisatieonderdeel Belastingdienst/Toeslagen). Dat organisatieonderdeel van de Belastingdienst is het bestuursorgaan dat op grond van de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) is belast met de uitbetaling van de toeslagen.
-
-Een gelegd beslag onder (de ontvanger van) de regiokantoren is niet rechtsgeldig. In die gevallen meldt (de ontvanger van) het regiokantoor op het verklaringsformulier geen toeslag verschuldigd te zijn en wordt voor nadere informatie verwezen naar Belastingdienst/Toeslagen.
-
-Voor die nader vervallen termijnen moet wel eerst een aanmaning worden verzonden, waarna voor die termijnen een eigen dwangbevel kan worden uitgevaardigd.
+Als aan de hand van de gegevens op het door de belanghebbende ingevulde vragenformulier is vastgesteld dat hij niet over enige betalingscapaciteit beschikt, dan zal Belastingdienst/Toeslagen de belanghebbende na die vaststelling meedelen geen invorderingsmaatregelen te zullen nemen voor de toeslagenschuld in kwestie.
 
 ### 80.2. Moment van vaststelling van (naheffings)aanslagen
 
-Het overgangsrecht met betrekking tot [Afdeling 4.4.1 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.1) (Vaststelling en inhoud van de verplichting tot betaling) bepaalt kort gezegd het volgende. Op een betalingsverplichting die is vastgesteld of ontstaan voor 1 juli 2009 geldt het recht van voor die datum. Voor betalingsverplichtingen van na 1 juli 2009 geldt de genoemde afdeling 4.4.1. Bij aanslagbelastingen geldt als moment van vaststelling de datum van dagtekening van de aanslag. Bij aangiftebelastingen wordt voor het moment van vaststelling aangesloten bij de dagtekening van de naheffingsaanslag.
+Een gelegd beslag onder (de ontvanger van) de regiokantoren is niet rechtsgeldig. In die gevallen meldt (de ontvanger van) het regiokantoor op het verklaringsformulier geen toeslag verschuldigd te zijn en wordt voor nadere informatie verwezen naar Belastingdienst/Toeslagen.
 
 ### 7.6. Afboeking betaling op bestuurlijke boeten waarvoor uitstel van betaling is verleend
 
@@ -7712,39 +7712,15 @@ Het overgangsrecht met betrekking tot [Afdeling 4.4.1 van de Awb](https://wetten
 
 ### 35a.2. Normale uitoefening van het bedrijf en opdrachtgeversaansprakelijkheid
 
-### 73.4.9. Verzet tegen faillietverklaring
+### 73.4.8. Verlenen van steunvordering en faillissementsaanvraag
 
-### 79.8. Betalingsregeling toeslagschuld op basis van betalingscapaciteit
+### Artikel 79.5a. Verrekening en beslagvrije voet
 
-Een toeslagschuld die is te wijten aan opzet of grove schuld van de belanghebbende of diens partner en waarvoor geen betalingsregeling overeengekomen kan worden, moet geheel worden ingevorderd. Als belanghebbende of diens partner aannemelijk maakt dat zij niet meer beschikken over het ten onrechte ontvangen voorschot, belichaamd in de toeslagschuld, houdt de Belastingdienst/Toeslagen, op verzoek, bij de verrekening van een voorschot met die toeslagschuld, er rekening mee dat belanghebbende een bedrag aan bestaansmiddelen overhoudt dat overeenkomt met de voor hem geldende beslagvrije voet.
+Voor toeslagschulden regelt [artikel 7 van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=7) het uitstel van betaling in verband met betalingsproblemen. De leden 1 tot en met 6 van dat artikel 7 zijn niet van toepassing als het ontstaan van de terugvordering te wijten is aan opzet of grove schuld (artikel 7, zesde lid, van de Uitvoeringsregeling Awir). In aanvulling op dat zesde lid geldt het volgende.
 
 ### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
 
 ### 79.10. Aansprakelijkheid partner voor toeslagschuld
-
-In de uitoefening van invorderingstaken door Belastingdienst/Toeslagen kan de Staat betrokken worden in een procedure voor de civiele rechter. In zaken waarin procesvertegenwoordiging verplicht is, zal de rijksadvocaat optreden als procesvertegenwoordiger.
-
-Een gelegd beslag onder (de ontvanger van) de regiokantoren is niet rechtsgeldig. In die gevallen meldt (de ontvanger van) het regiokantoor op het verklaringsformulier geen toeslag verschuldigd te zijn en wordt voor nadere informatie verwezen naar Belastingdienst/Toeslagen.
-
-### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
-
-Een gerechtsdeurwaarder die gerechtigd is beslag te leggen ten laste van een schuldenaar is bevoegd aan Belastingdienst/Toeslagen te vragen of er periodieke betalingen worden verricht aan de schuldenaar. Artikel 67.2 van deze leidraad is van overeenkomstige toepassing, met dien verstande dat de gerechtsdeurwaarder in zijn verzoek om informatie duidelijk moet maken dat hij handelt in opdracht van een schuldeiser die bevoegd is beslag te leggen op een toeslag.
-
-### 25.2.1. Bezwaar tegen hoogte belastingaanslag
-
-### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
-
-### 35.1. Berekening omvang ketenaansprakelijkheid
-
-### 35.5.1. Vrijwaring ketenaansprakelijkheid door betaling via de g-rekening
-
-### 43.1. Teruggaaf omzetbelasting aan fiscale eenheid
-
-### 79.7. Standaardbetalingsregeling toeslagschuld
-
-### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
-
-### Artikel 79.9a. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
 Voor de toepassing van [artikel 8 van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=8) geldt het volgende. De Belastingdienst/Toeslagen merkt een gemotiveerd bezwaarschrift of herzieningsverzoek aan als een verzoek om uitstel van betaling. In beginsel wordt het aldus gevraagde uitstel verleend tenzij:
 
@@ -7752,13 +7728,33 @@ Een gerechtsdeurwaarder die gerechtigd is beslag te leggen ten laste van een sch
 
 ### 79.13. Rijksadvocaat in civiele procedures over toeslagen
 
-### 79.13. Rijksadvocaat in civiele procedures over toeslagen
-
 In de uitoefening van invorderingstaken door Belastingdienst/Toeslagen kan de Staat betrokken worden in een procedure voor de civiele rechter. In zaken waarin procesvertegenwoordiging verplicht is, zal de rijksadvocaat optreden als procesvertegenwoordiger.
+
+### 25.2.1. Bezwaar tegen hoogte belastingaanslag
+
+### 34.8.1. Berekening omvang inlenersaansprakelijkheid voor de loonheffingen
+
+### Artikel 35. Ketenaansprakelijkheid
+
+### 35.5.1. Vrijwaring ketenaansprakelijkheid door betaling via de g-rekening
+
+### Artikel 43. Aansprakelijkheid fiscale eenheid omzetbelasting
+
+### 79.6. Verrekening en uitstel van betaling toeslagschuld
+
+### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
+
+### Artikel 79.9a. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
+
+Een toeslagschuld die is te wijten aan opzet of grove schuld van de belanghebbende of diens partner en waarvoor geen betalingsregeling overeengekomen kan worden, moet geheel worden ingevorderd. Als belanghebbende of diens partner aannemelijk maakt dat zij niet meer beschikken over het ten onrechte ontvangen voorschot, belichaamd in de toeslagschuld, houdt de Belastingdienst/Toeslagen, op verzoek, bij de verrekening van een voorschot met die toeslagschuld, er rekening mee dat belanghebbende een bedrag aan bestaansmiddelen overhoudt dat overeenkomt met de voor hem geldende beslagvrije voet.
+
+Derdenbeslag wordt gelegd onder de Staat der Nederlanden (het organisatieonderdeel Belastingdienst/Toeslagen). Dat organisatieonderdeel van de Belastingdienst is het bestuursorgaan dat op grond van de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) is belast met de uitbetaling van de toeslagen.
+
+### Artikel 79.9a. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
 ### 79.14. Verzoekschriften aan andere instellingen
 
-Als echter moet worden overgegaan tot lijfsdwang voor alle tot het moment van tenuitvoerlegging vervallen termijnen, dan kunnen in die tenuitvoerlegging niet worden begrepen de termijnen die zijn vervallen na de termijn(en) waarvoor het dwangbevel is uitgevaardigd.
+De Belastingdienst/Toeslagen houdt de invordering van de toeslagschuld aan als er een verzoekschrift is ingediend bij H.M. de Koningin, de Commissie voor de Verzoekschriften en Burgerinitiatieven uit de Tweede Kamer of de Commissie voor de Verzoekschriften uit de Eerste Kamer de Staten-Generaal, de Nationale Ombudsman of het Ministerie van Financiën. Als naar het oordeel van de Belastingdienst/Toeslagen aanwijzingen bestaan dat door het niet direct aanvangen of vervolgen van de invordering de belangen van de Staat worden geschaad, kunnen na voorafgaande toestemming van het ministerie toch invorderingsmaatregelen getroffen worden.
 
 ### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
 
@@ -7768,13 +7764,17 @@ In dit artikel is beleid opgenomen met betrekking tot [artikel 4:121 van de Awb]
 
 Een eenmaal ingestelde vervolging voor één of meer van de vervallen termijnen van de belastingaanslag wordt met dezelfde voortvarendheid voltooid als de eindvervolging.
 
-Als echter moet worden overgegaan tot lijfsdwang voor alle tot het moment van tenuitvoerlegging vervallen termijnen, dan kunnen in die tenuitvoerlegging niet worden begrepen de termijnen die zijn vervallen na de termijn(en) waarvoor het dwangbevel is uitgevaardigd.
+### 79.13. Rijksadvocaat in civiele procedures over toeslagen
 
 Voor die nader vervallen termijnen moet wel eerst een aanmaning worden verzonden, waarna voor die termijnen een eigen dwangbevel kan worden uitgevaardigd.
 
-### 80.2. Moment van vaststelling van (naheffings)aanslagen
+Als echter moet worden overgegaan tot lijfsdwang voor alle tot het moment van tenuitvoerlegging vervallen termijnen, dan kunnen in die tenuitvoerlegging niet worden begrepen de termijnen die zijn vervallen na de termijn(en) waarvoor het dwangbevel is uitgevaardigd.
 
 Het overgangsrecht met betrekking tot [Afdeling 4.4.1 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.1) (Vaststelling en inhoud van de verplichting tot betaling) bepaalt kort gezegd het volgende. Op een betalingsverplichting die is vastgesteld of ontstaan voor 1 juli 2009 geldt het recht van voor die datum. Voor betalingsverplichtingen van na 1 juli 2009 geldt de genoemde afdeling 4.4.1. Bij aanslagbelastingen geldt als moment van vaststelling de datum van dagtekening van de aanslag. Bij aangiftebelastingen wordt voor het moment van vaststelling aangesloten bij de dagtekening van de naheffingsaanslag.
+
+### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
+
+In dit artikel is beleid opgenomen met betrekking tot [artikel 4:121 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:121) en het moment van vaststelling van (naheffings)aanslagen.
 
 ### 14.2.10. Belasting van personenauto’s en motorrijwielen en belasting zware motorrijtuigen en beslag roerende zaken
 
@@ -7822,17 +7822,17 @@ Als de belastingschuldige of een belanghebbende derde de ontvanger vraagt of een
 
 ### 25.1.12. Tijdens uitstel nieuwe aanslagen voldoen
 
-### 35.3.7. Winkelbedrijf in de confectiesector en eigenbouwerschap
+### 35.3.6. Gemeentelijke grondbedrijven en eigenbouwerschap
 
 ### 73.4.10. Beroep op regresrecht in faillissement
 
-### 73.4.16. Omzetting faillissement in WSNP
+### 73.4.15. Opening nationale (secundaire) insolventieprocedure
 
 ### 79.4. Minnelijke schuldsaneringsregeling en toeslagschuld
 
 ### Artikel 79.8a. Toeslagschuld te wijten aan opzet of grove schuld
 
-### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
+### 79.11. Beslag door derden op toeslag
 
 ### 79.14. Verzoekschriften aan andere instellingen
 
@@ -7840,11 +7840,37 @@ De Belastingdienst/Toeslagen houdt de invordering van de toeslagschuld aan als e
 
 ### Artikel 80. Invordering, [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het moment van vaststelling van (naheffings)aanslagen
 
-In dit artikel is beleid opgenomen met betrekking tot [artikel 4:121 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:121) en het moment van vaststelling van (naheffings)aanslagen.
+Een nieuwe partner kan dus niet aansprakelijk worden gesteld voor een toeslagschuld die betrekking heeft op de periode waarin er nog geen sprake was van partnerschap.
+
+### 79.11. Beslag door derden op toeslag
+
+Derdenbeslag wordt gelegd onder de Staat der Nederlanden (het organisatieonderdeel Belastingdienst/Toeslagen). Dat organisatieonderdeel van de Belastingdienst is het bestuursorgaan dat op grond van de [Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) is belast met de uitbetaling van de toeslagen.
+
+Voor die nader vervallen termijnen moet wel eerst een aanmaning worden verzonden, waarna voor die termijnen een eigen dwangbevel kan worden uitgevaardigd.
+
+### 80.2. Moment van vaststelling van (naheffings)aanslagen
+
+Als echter moet worden overgegaan tot lijfsdwang voor alle tot het moment van tenuitvoerlegging vervallen termijnen, dan kunnen in die tenuitvoerlegging niet worden begrepen de termijnen die zijn vervallen na de termijn(en) waarvoor het dwangbevel is uitgevaardigd.
+
+### Artikel 75. Kosten van vervolging
+
+### 79.8. Betalingsregeling toeslagschuld op basis van betalingscapaciteit
+
+### Artikel 79.8a. Toeslagschuld te wijten aan opzet of grove schuld
+
+### 79.12. Informatieverzoek gerechtdeurwaarder omtrent toeslag
+
+### 80.2. Moment van vaststelling van (naheffings)aanslagen
+
+### 35.8.1. Gehele keten moet niet-verwijtbaar zijn
+
+### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
 
 ### 80.1. Tenuitvoerlegging termijndwangbevel
 
 Een eenmaal ingestelde vervolging voor één of meer van de vervallen termijnen van de belastingaanslag wordt met dezelfde voortvarendheid voltooid als de eindvervolging.
+
+Als echter moet worden overgegaan tot lijfsdwang voor alle tot het moment van tenuitvoerlegging vervallen termijnen, dan kunnen in die tenuitvoerlegging niet worden begrepen de termijnen die zijn vervallen na de termijn(en) waarvoor het dwangbevel is uitgevaardigd.
 
 Voor die nader vervallen termijnen moet wel eerst een aanmaning worden verzonden, waarna voor die termijnen een eigen dwangbevel kan worden uitgevaardigd.
 
