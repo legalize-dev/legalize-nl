@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2005-12-30"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2005-12-30&g=2005-12-30);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2012-07-01&g=2012-07-01);
 
-- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2005-12-30&g=2005-12-30).
+- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2012-07-01&g=2012-07-01).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -78,23 +78,23 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 4. Taak algemeen bestuur
 
-Aan het algemeen bestuur behoort de bevoegdheid tot regeling en bestuur van de organisatie, voor zover die niet bij of krachtens deze wet aan de gebiedsbesturen is opgedragen.
+1. Aan het algemeen bestuur behoort de bevoegdheid tot regeling en bestuur van de organisatie.
+
+2. Het algemeen bestuur is, met inachtneming van het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
 
 ##### Artikel 5. Verantwoordings- en inlichtingenplicht algemeen bestuur
 
-Het algemeen bestuur is verantwoording verschuldigd aan Onze Minister. Het verstrekt aan Onze Minister de gevraagde inlichtingen.
+Vervallen
 
 ##### Artikel 6. Samenstelling algemeen bestuur
 
-1. Het algemeen bestuur bestaat uit een voorzitter en ten hoogste zes overige leden. Het aantal leden wordt bij koninklijk besluit bepaald.
+1. Het algemeen bestuur bestaat uit een voorzitter en ten hoogste zes overige leden. Het aantal leden wordt door Onze Minister vastgesteld.
 
-2. De voorzitter en de overige leden van het algemeen bestuur worden benoemd bij koninklijk besluit op voordracht van Onze Minister, het algemeen bestuur gehoord. De benoeming geschiedt voor een termijn van vijf jaren. De leden kunnen éénmaal opnieuw worden benoemd.
+2. Onverminderd [artikel 12 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), worden de voorzitter en de overige leden van het algemeen bestuur benoemd door Onze Minister, het algemeen bestuur gehoord. De benoeming geschiedt voor een termijn van ten hoogste vijf jaren. De leden kunnen éénmaal opnieuw worden benoemd.
 
-3. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over de voordrachten, bedoeld in het tweede lid.
+3. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming als bedoeld in het tweede lid.
 
-4. De voorzitter en de overige leden van het algemeen bestuur kunnen bij koninklijk besluit op voordracht van Onze Minister, het algemeen bestuur gehoord, om zwaarwichtige redenen worden geschorst en tussentijds ontslagen.
-
-5. Het lidmaatschap van het algemeen bestuur is onverenigbaar met dat van een gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid van het algemeen bestuur.
+4. Het lidmaatschap van het algemeen bestuur is onverenigbaar met dat van een gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid van het algemeen bestuur.
 
 ##### Artikel 7. Vertegenwoordiging NWO
 
@@ -116,25 +116,17 @@ Het algemeen bestuur is verantwoording verschuldigd aan Onze Minister. Het verst
 
 ##### Artikel 9. Taken gebiedsbesturen
 
-1. Bij reglement wordt vastgesteld voor welke wetenschapsgebieden er gebiedsbesturen zijn.
+1. Het algemeen bestuur kan voor een wetenschapsgebied een gebiedsbestuur instellen.
 
-2. Een gebiedsbestuur is, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-12-30&g=2005-12-30), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoekprogramma's.
+2. Onverminderd mandaatverlening aan andere organisaties dan gebiedsbesturen, kan het algemeen bestuur aan een gebiedsbestuur mandaat verlenen om, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), en de door Onze Minister goedgekeurde begroting, middelen te verstrekken ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
 
 3. Een gebiedsbestuur adviseert het algemeen bestuur desgevraagd of uit eigen beweging.
 
-4. Bij reglement wordt bepaald welke de verdere bevoegdheden van de onderscheiden gebiedsbesturen zijn.
-
-5. Een gebiedsbestuur is verantwoording verschuldigd aan het algemeen bestuur. Het verstrekt aan het algemeen bestuur de gevraagde inlichtingen.
+4. Bij reglement wordt bepaald welke de verdere bevoegdheden en inrichting van een gebiedsbestuur zijn.
 
 ##### Artikel 10. Samenstelling gebiedsbesturen
 
-1. Een gebiedsbestuur bestaat uit een voorzitter en ten hoogste acht overige leden. Het aantal leden wordt door het algemeen bestuur bepaald.
-
-2. De voorzitter en de overige leden van een gebiedsbestuur worden benoemd door het algemeen bestuur, op voordracht van het zittende gebiedsbestuur. De benoeming geschiedt voor een termijn van drie jaren. De leden kunnen tweemaal opnieuw worden benoemd.
-
-3. De voorzitter en de overige leden van een gebiedsbestuur kunnen door het algemeen bestuur, het desbetreffende gebiedsbestuur gehoord, worden geschorst en tussentijds ontslagen.
-
-4. Het lidmaatschap van een gebiedsbestuur is onverenigbaar met dat van het algemeen bestuur of van enig ander gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid van een gebiedsbestuur.
+Vervallen
 
 #### § 3. De afdelingsbesturen
 
@@ -162,13 +154,9 @@ Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het 
 
 Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekkingen van de organisatie tot de onderzoekorganisaties voor zover daaraan krachtens deze wet middelen worden toegewezen, worden nader bij reglement geregeld.
 
-##### Artikel 16. Vaststelling en goedkeuring reglement
+##### Artikel 16. Vaststelling reglement
 
-1. Het reglement wordt vastgesteld door het algemeen bestuur.
-
-2. Het reglement of een wijziging daarvan behoeft de goedkeuring van Onze Minister.
-
-3. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de organisatie kan belemmeren.
+Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) wordt het reglement vastgesteld door het algemeen bestuur.
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
@@ -186,7 +174,7 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 
 1. Het algemeen bestuur stelt, rekening houdend met voorstellen van de gebiedsbesturen, een instellingsplan vast uiterlijk vier jaar na het tijdstip van vaststelling van het vorige plan. Het algemeen bestuur zendt het plan na vaststelling onverwijld aan Onze Minister.
 
-2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2005-12-30&g=2005-12-30), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
+2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2012-07-01&g=2012-07-01), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
 
 3. Het instellingsplan omvat in elk geval:
 
@@ -197,8 +185,6 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 - c. financiële, personele, materiële en organisatorische voorwaarden die moeten worden vervuld.
 
 4. Onze Minister brengt zijn standpunt over het instellingsplan binnen zes maanden na ontvangst van het plan ter kennis van het algemeen bestuur. Onze Minister doet daarvan en van het instellingsplan afschrift toekomen aan de beide Kamers van de Staten-Generaal.
-
-5. Onze Minister kan zijn standpunt over het instellingsplan gedurende de looptijd daarvan wijzigen, indien de vaststelling van een nieuw wetenschapsbudget daartoe aanleiding geeft. Het vierde lid is van overeenkomstige toepassing.
 
 #### § 2. Financiële bepalingen
 
@@ -218,8 +204,6 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 
 4. Bij vaststelling van de rijksbijdrage blijven inkomsten als bedoeld in het eerste lid onder c, buiten beschouwing.
 
-5. Onze Minister stelt regels met betrekking tot de bestemming van saldi die voortvloeien uit de inkomsten, bedoeld in het eerste lid onder a en b.
-
 ##### Artikel 20. Doelmatig beheer
 
 Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de vermogensbestanddelen van de organisatie.
@@ -228,23 +212,15 @@ Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de 
 
 1. Het algemeen bestuur zendt jaarlijks voor 1 november aan Onze Minister de begroting voor het daaropvolgende jaar.
 
-2. De begroting behelst een raming van de baten en lasten van de organisatie, een raming van de voorgenomen investeringsuitgaven en een raming van de inkomsten en uitgaven. In de begroting is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-12-30&g=2005-12-30). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
-
-3. De begrotingsposten worden ieder afzonderlijk van een toelichting voorzien. Uit de toelichting blijkt steeds welke begrotingsposten betrekking hebben op de uitoefening van de bij of krachtens de wet aan de organisatie opgedragen taken dan wel op andere activiteiten.
-
-4. Tenzij de activiteiten waarop de begroting betrekking heeft nog niet eerder werden verricht, behelst de begroting een vergelijking met de begroting van het lopende jaar en de laatst goedgekeurde jaarrekening, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-12-30&g=2005-12-30).
+2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
 
 ##### Artikel 22. Goedkeuring begroting
 
-1. Het besluit tot vaststelling van de begroting, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2005-12-30&g=2005-12-30), behoeft de goedkeuring van Onze Minister.
-
-2. De goedkeuring wordt verleend of onthouden aan de vastgestelde begroting in haar geheel. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
-
-3. Indien Onze Minister binnen twee maanden na ontvangst geen toepassing heeft gegeven aan het eerste lid, wordt het besluit tot vaststelling van de begroting geacht te zijn goedgekeurd.
+Vervallen
 
 ##### Artikel 23. Tussentijdse over- of onderschrijding
 
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet het algemeen bestuur daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
+Vervallen
 
 ##### Artikel 35
 
@@ -254,25 +230,11 @@ Vervallen
 
 ##### Artikel 25. Jaarrekening
 
-1. Gelijktijdig met het jaarverslag dient het algemeen bestuur de jaarrekening bij Onze Minister in.
+De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01). [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
 
-2. Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister.
+##### Artikel 26. Aanvullende eis jaarrekening
 
-3. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang dan wel op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan. [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
-
-4. Indien Onze Minister binnen één jaar na ontvangst geen toepassing heeft gegeven aan het tweede lid, wordt het besluit tot vaststelling van de jaarrekening geacht te zijn goedgekeurd.
-
-##### Artikel 26. Inrichting jaarverslag en accountantscontrole
-
-1. De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
-
-2. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het algemeen bestuur aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Bij de aanwijzing van de accountant bedingt het algemeen bestuur dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.
-
-3. De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door de organisatie.
-
-4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en inrichting van de werkzaamheden van de organisatie voldoen aan eisen van doelmatigheid.
-
-5. Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze Minister, onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-12-30&g=2005-12-30), bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na de ontvangst van de jaarrekening bekend aan het algemeen bestuur.
+Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
 ##### Artikel 27. Voorschriften begroting, jaarverslag en jaarrekening
 
@@ -294,29 +256,21 @@ Vervallen
 
 ##### Artikel 30. Besluiten van een gebiedsbestuur
 
-Een belanghebbende kan tegen een besluit van een gebiedsbestuur administratief beroep instellen bij het algemeen bestuur.
+Vervallen
 
 #### § 2. Rechtsbescherming
 
 ##### Artikel 31. Besluiten van het algemeen bestuur
 
-1. De besluiten van het algemeen bestuur kunnen bij koninklijk besluit worden vernietigd.
-
-2. Het koninklijk besluit tot schorsing of vernietiging wordt in het **Staatsblad** geplaatst.
+Vervallen
 
 ##### Artikel 32. Besluiten van een gebiedsbestuur
 
-1. De besluiten van een gebiedsbestuur kunnen door het algemeen bestuur worden vernietigd.
-
-2. In afwijking van [artikel 10:44, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:44) kan de schorsing niet langer duren dan 17 weken.
+Vervallen
 
 ##### Artikel 33. Taakverwaarlozingsregeling
 
-1. Indien het algemeen bestuur naar het oordeel van Onze Minister zijn taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.
-
-2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het algemeen bestuur in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.
-
-3. Onze Minister stelt de beide Kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 34
 
@@ -350,7 +304,7 @@ Vervallen
 
 ##### Artikel 41. Overgangsbepaling instellingplan
 
-Het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-12-30&g=2005-12-30), wordt voor de eerste maal uitgebracht in het jaar 2006. Tot het tijdstip van kennisname van het standpunt door het algemeen bestuur, bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-12-30&g=2005-12-30), wordt, voor de toepassing van de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=2&artikel=9&z=2005-12-30&g=2005-12-30), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2005-12-30&g=2005-12-30), en [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-12-30&g=2005-12-30), de beleidsnota, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=17&z=2005-12-30&g=2005-12-30) zoals die bepaling luidde op de dag voorafgaande aan de inwerkingtreding van deze wet, beschouwd als instellingsplan.
+Vervallen
 
 ##### Artikel 42
 
@@ -380,7 +334,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8a. Rechtspositie leden algemeen bestuur
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden vastgesteld voor de rechtspositie van de voorzitter en de andere leden van het algemeen bestuur.
+Vervallen
 
 #### § 2. De gebiedsbesturen
 
@@ -406,13 +360,45 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden vast
 
 ##### Artikel 24. Jaarverslag
 
-Het algemeen bestuur zendt jaarlijks voor 1 juli het jaarverslag aan Onze Minister. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid en geeft aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in artikel 18, zijn verwezenlijkt.
+Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het jaarverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), zijn verwezenlijkt.
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
 #### § 1. Openbaarheid
 
 #### § 3. Schorsing en vernietiging van besluiten
+
+### Hoofdstuk V. Slot- en overgangsbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a. Toepassing [Kaderwet zbo's](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
+
+Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
+
+### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
+
+#### § 1. Het algemeen bestuur
+
+#### § 2. De gebiedsbesturen
+
+#### § 3. De afdelingsbesturen
+
+#### § 4. Het personeel
+
+#### § 5. Het reglement
+
+### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
+
+#### § 1. Wetenschapsbudget
+
+#### § 2. Planning
+
+#### § 3. Financiële bepalingen
+
+#### § 4. Voorschriften inrichting begroting en jaarrekening
+
+### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
 ### Hoofdstuk V. Slot- en overgangsbepalingen
 
