@@ -79,9 +79,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2012.
 Deze regeling wordt aangehaald als: Regeling Waadi.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-De normen NEN 4400-1:2010 en NEN 4400-2:2014 worden aangewezen als normen als bedoeld in [artikel 1, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=1).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
