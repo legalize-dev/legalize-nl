@@ -4,7 +4,7 @@ identifier: "BWBR0019763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-02"
-last_updated: "2006-05-06"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019763"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - a. wet: [Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189);
 
-- b. register: architectenregister, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2).
+- b. register: architectenregister, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2).
 
 ### Hoofdstuk II. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als architect wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
 ##### Artikel 2. Voorschriften inrichting opleiding architect
 
-1. Degene die voldoet aan een van de eisen, genoemd in [artikel 9, eerste lid, onderdelen a en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), komt slechts voor inschrijving in het register als architect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot architectonische vormgeving die zowel aan esthetische als aan technische en functionele eisen voldoet.
+1. Degene die voldoet aan een van de eisen, genoemd in [artikel 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), komt slechts voor inschrijving in het register als architect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot architectonische vormgeving die zowel aan esthetische als aan technische en functionele eisen voldoet.
 
 2. De opleiding dient hiertoe ten minste de verwerving te waarborgen van:
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&artikel=2&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&artikel=2&z=2012-07-01&g=2012-07-01) wordt in elk geval voldaan door degene die in het bezit is van:
 
 - a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architecture, variant Architecture, de Masteropleiding Architecture, Building and Planning, variant Architecture, dan wel de Masteropleiding Architecture, Urbanism and Building Sciences, variant Architecture, aan de Technische Universiteit Delft, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding;
 
@@ -146,7 +146,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 5. Voorschriften inrichting opleiding stedenbouwkundige
 
-1. Degene die voldoet aan een van de eisen, genoemd in [artikel 10, eerste lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), komt slechts voor inschrijving in het register als stedenbouwkundige in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke concepten en stedenbouwkundige ontwerpen te vervaardigen die zowel aan esthetische als aan technische en functionele eisen voldoen.
+1. Degene die voldoet aan een van de eisen, genoemd in [artikel 10, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), komt slechts voor inschrijving in het register als stedenbouwkundige in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke concepten en stedenbouwkundige ontwerpen te vervaardigen die zowel aan esthetische als aan technische en functionele eisen voldoen.
 
 2. De opleiding dient hiertoe ten minste de verwerving te waarborgen van:
 
@@ -180,7 +180,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 6. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&artikel=5&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01) wordt in elk geval voldaan door degene die in het bezit is van:
 
 - a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architecture, variant Urbanism, de Masteropleiding Architecture, Building and Planning, variant Urbanism, dan wel de Masteropleiding Architecture, Urbanism and Building Sciences, variant Urbanism, aan de Technische Universiteit Delft, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding;
 
@@ -230,7 +230,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 8. Voorschriften inrichting opleiding tuin- en landschapsarchitect
 
-1. Degene die voldoet aan een van de eisen, genoemd in [artikel 11, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), komt slechts voor inschrijving in het register als tuin- en landschapsarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke plannen en concepten te ontwerpen voor de ontwikkeling en inrichting van de buitenruimte, die zowel aan esthetische als aan technische en functionele eisen voldoen.
+1. Degene die voldoet aan een van de eisen, genoemd in [artikel 11, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), komt slechts voor inschrijving in het register als tuin- en landschapsarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke plannen en concepten te ontwerpen voor de ontwikkeling en inrichting van de buitenruimte, die zowel aan esthetische als aan technische en functionele eisen voldoen.
 
 2. De opleiding dient hiertoe ten minste de verwerving te waarborgen van:
 
@@ -256,9 +256,9 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 9. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2012-07-01&g=2012-07-01) wordt in elk geval voldaan door degene die in het bezit is van:
 
-- a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2006-05-06), dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding, of
+- a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2012-07-01&g=2012-07-01), dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding, of
 
 - b. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de examencommissie van de Academie voor Bouwkunst Amsterdam.
 
@@ -276,7 +276,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - e. het getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de opleiding van de tweede fase, opleiding voor beroepen op het terrein van landschapsarchitectuur, aan de Academie van Bouwkunst te Amsterdam, of
 
-- f. het getuigschrift van het met goed gevolg afgelegd doctoraal examen van de deeltijdse voortgezette opleiding op het terrein van de landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de desbetreffende examencommissie te Amsterdam.
+- f. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de deeltijdse voortgezette opleiding op het terrein van de landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de desbetreffende examencommissie te Amsterdam.
 
 ### Hoofdstuk V. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als interieurarchitect wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
@@ -308,35 +308,51 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - k. vaardigheden om een ontwerp in beeld, geschrift en woord te communiceren;
 
-- l. inzicht in en vaardigheid met methoden van onderzoek en voorbereiding van een project en
+- l. inzicht in en vaardigheid met methoden van zelfstandig innovatief onderzoek en voorbereiding van complexe projecten en
 
 - m. passende kennis van en inzicht in procedures en processen van besluitvorming.
 
 ##### Artikel 12. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2006-05-06), afgegeven door:
+1. Aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2012-07-01&g=2012-07-01) wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de masteropleiding:
 
-- a. de Gerrit Rietveld Academie;
+- a. Interieurarchitectuur aan de Gerrit Rietveld academie, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;
 
-- b. ArtEZ hogeschool voor de kunsten;
+- b. Interieurarchitectuur aan ArtEZ Hogeschool voor de Kunsten, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;
 
-- c. de Avans Hogeschool;
+- c. Interieurarchitectuur aan Avans Hogeschool, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;
 
-- d. de Hogeschool van Beeldende Kunsten, Muziek en Dans;
+- d. Interieurarchitectuur aan de Hogeschool der Kunsten Den Haag, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding;
 
-- e. de Hanzehogeschool Groningen;
+- e. Interieurarchitectuur aan de Hogeschool Zuyd, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding of
 
-- f. de Hogeschool Zuyd;
+- f. Interieurarchitectuur aan de Hogeschool voor de Kunsten Utrecht, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding, of
 
-- g. de Hogeschool Rotterdam of
-
-- h. de Hogeschool voor de Kunsten Utrecht.
+- g. Interior Architecture & Retail Design, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2012-07-01&g=2012-07-01) van deze regeling, afgegeven door de Hogeschool Rotterdam, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding.
 
 ##### Artikel 13. Oude opleidingen die aan voorschriften inrichting voldoen
 
 Voor de inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van:
 
-- a. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van de interieurarchitectuur, afgegeven door: dan wel een van de instellingen waaruit de genoemde instellingen ontstaan zijn, of
+- a. het getuigschrift van het met goed gevolg afgelegde examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, mits betrokkene uiterlijk op 31 december 2010 een aanvang heeft gemaakt met de studie voor dat getuigschrift en in de bijlage van het getuigschrift is vermeld dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2012-07-01&g=2012-07-01) van de Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect zoals deze luidde op 30 juni 2012, afgegeven door:
+
+- 1°. de Gerrit Rietveld academie;
+
+- 2°. ArtEZ Hogeschool voor de Kunsten;
+
+- 3°. Avans Hogeschool;
+
+- 4°. de Hogeschool der Kunsten Den Haag;
+
+- 5°. de Hanzehogeschool Groningen:
+
+- 6°. de Hogeschool Zuyd;
+
+- 7°. de Hogeschool Rotterdam;
+
+- 8°. de Hogeschool voor de Kunsten Utrecht, of
+
+- b. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van de interieurarchitectuur, afgegeven door: dan wel een van de instellingen waaruit de genoemde instellingen ontstaan zijn, of
 
 - 1°. de Gerrit Rietveld Academie;
 
@@ -358,7 +374,7 @@ Voor de inschrijving in het register komt eveneens in aanmerking degene die in h
 
 - 10°. de Hogeschool voor de Kunsten Utrecht,
 
-- b. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) of artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte einddiploma van een Academie voor Beeldende kunsten, afdeling architectonische vormgeving, waarop is aangeduid dat het examen betrekking had op de interieurvormgeving.
+- c. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) of artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte einddiploma van een Academie voor Beeldende kunsten, afdeling architectonische vormgeving, waarop is aangeduid dat het examen betrekking had op de interieurvormgeving.
 
 ### Hoofdstuk VI. Slotbepalingen
 
