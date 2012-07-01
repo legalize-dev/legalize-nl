@@ -4,7 +4,7 @@ identifier: "BWBR0030997"
 country: "nl"
 rank: "wet"
 publication_date: "2012-07-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030997"
 soort: "wet"
@@ -169,9 +169,7 @@ Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel XXXII. Eenmalige aanpassing bedragen
 
-1. Onze Minister kan de bedragen, genoemd in de [artikelen I, onderdelen B, O, P, Y, Z en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0030997&artikel=I&z=2012-01-01&g=2012-01-01), [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030997&artikel=III&z=2012-01-01&g=2012-01-01), en [IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030997&artikel=IV&z=2012-01-01&g=2012-01-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van deze wet.
-
-2. Dit artikel vervalt zes maanden na zijn inwerkingtreding.
+Vervallen
 
 ##### Artikel XXXIII. Samenloopbepaling wetsvoorstel tot intrekking van de WWIK
 
