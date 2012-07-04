@@ -4,7 +4,7 @@ identifier: "BWBR0026589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2012-05-01"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026589"
 soort: "ministeriele-regeling"
@@ -46,11 +46,13 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2011-05-18&g=2012-05-01);
+- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2012-07-04&g=2012-07-04);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
-- c. **ICT:** informatie- en communicatietechnologie.
+- c. **ICT:** informatie- en communicatietechnologie;
+
+- d. **programmadirecteur:** een functionaris die leiding geeft aan de programmadirectie Huisvesting SZW en VWS.
 
 #### § 2. Organisatie
 
@@ -60,17 +62,17 @@ Onder de plaatsvervangend secretaris-generaal ressorteren:
 
 - a. de directie Bedrijfsvoering;
 
-- b. de Auditdienst;
+- b. de directie Bestuursondersteuning;
 
-- c. de directie Bestuursondersteuning;
+- c. het Agentschap SZW;
 
-- d. het Agentschap SZW.
+- d. de programmadirectie Huisvesting SZW en VWS.
 
 #### § 3. Verantwoordelijkheden directeuren
 
 ##### Artikel 3
 
-Elk van de directeuren is verantwoordelijk voor:
+Elk van de directeuren alsmede de programmadirecteur is verantwoordelijk voor:
 
 - a. het leiding geven aan de eigen directie;
 
@@ -146,13 +148,7 @@ De directie Bedrijfsvoering is verantwoordelijk voor:
 
 ##### Artikel 5
 
-De Auditdienst is verantwoordelijk voor:
-
-- a. de uitvoering van de taken van de departementale Accountantsdienst, bedoeld in de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en daarop gebaseerde regelgeving;
-
-- b. het controleren van de financiële verantwoording van de departementsonderdelen en de bedrijfsvoering die daaraan ten grondslag ligt;
-
-- c. het adviseren op het gebied van financieel beheer.
+Vervallen
 
 ##### Artikel 6
 
@@ -174,7 +170,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2011-05-18&g=2012-05-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2012-07-04&g=2012-07-04), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -202,7 +198,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - b. overeenkomsten met betrekking tot multi-copiers;
 
-- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2011-05-18&g=2012-05-01);
+- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2012-07-04&g=2012-07-04);
 
 - d. overeenkomsten met betrekking tot de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;
 
@@ -214,13 +210,13 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - h. overeenkomsten met bestrekking tot de arbodienst en het centraal flankerend beleid ten behoeve van herplaatsers.
 
-7. In aanvulling op het vierde lid geldt voor directeur Auditdienst en de directeur Bestuursondersteuning dat deze bevoegd zijn om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.
+7. In aanvulling op het vierde lid geldt voor de directeur Bestuursondersteuning dat deze bevoegd is om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.
 
 #### § 4. Bevoegdheden directeuren
 
 ##### Artikel 8
 
-1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
+1. De directeuren alsmede de programmadirecteur kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -242,7 +238,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 ##### Artikel 10
 
-Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2011-05-18&g=2012-05-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2011-05-18&g=2012-05-01) van deze regeling.
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2012-07-04&g=2012-07-04), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2012-07-04&g=2012-07-04) van deze regeling.
 
 ##### Artikel 11
 
@@ -286,15 +282,15 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal, zijn gehuisvest.
 
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2011-05-18&g=2012-05-01), geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2012-07-04&g=2012-07-04), geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
 
-4. De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2011-05-18&g=2012-05-01).
+4. De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2012-07-04&g=2012-07-04).
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 10a
 
-Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2011-05-18&g=2012-05-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2011-05-18&g=2012-05-01) van deze regeling.
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2012-07-04&g=2012-07-04), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2012-07-04&g=2012-07-04) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -314,11 +310,11 @@ De programmadirectie Huisvesting SZW en VWS is verantwoordelijk voor:
 
 ##### Artikel 7b
 
-In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2012-07-04&g=2012-05-01) heeft de programmadirecteur de volgende bevoegdheden:
+In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2012-07-04&g=2012-07-04) heeft de programmadirecteur de volgende bevoegdheden:
 
 - a. de programmadirecteur is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de programmadirectie Huisvesting SZW en VWS, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal.
 
-- b. aan de programmadirecteur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2012-07-04&g=2012-05-01), genoemde personeelsaangelegenheden.
+- b. aan de programmadirecteur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2012-07-04&g=2012-07-04), genoemde personeelsaangelegenheden.
 
 - c. de programmadirecteur is bevoegd tot het afsluiten van overeenkomsten met betrekking tot het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport tot een waarde van € 500.000,– per overeenkomst.
 
