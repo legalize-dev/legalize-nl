@@ -4,7 +4,7 @@ identifier: "BWBR0010710"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2012-01-02"
+last_updated: "2012-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010710"
 soort: "ministeriele-regeling"
@@ -52,9 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **volmachtgever:** degene die volmacht verleent;
 
-- f. **raamovereenkomst:** een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid;
-
-- g. **de teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies:** de door de Minister als zodanig aangewezen ambtenaar bij de directie Bedrijfsvoering.
+- f. **raamovereenkomst:** een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -90,7 +88,7 @@ Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van d
 
 ##### Artikel 8
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2011-11-05&g=2012-01-02) door de Minister worden verricht.
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2012-07-05&g=2012-07-05) door de Minister worden verricht.
 
 ##### Artikel 9
 
@@ -132,9 +130,7 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 - p. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De Lindenhorst tot een bedrag van € 2.500 inclusief btw.
 
-2. De teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies heeft volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02).
-
-3. De volmacht, verleend in het eerste en tweede lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
+2. De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
 
 ### Hoofdstuk 4. Beperkingen van volmacht
 
@@ -158,11 +154,11 @@ Vervallen
 
 ##### Artikel 14
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2012-07-05&g=2012-07-05) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
 ##### Artikel 15
 
-In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02) wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).
+Vervallen
 
 ### Hoofdstuk 5. Ondervolmacht
 
@@ -170,11 +166,11 @@ In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
-2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02), kunnen volmacht verlenen:
+2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2012-07-05&g=2012-07-05), kunnen volmacht verlenen:
 
-- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02), genoemde hoofden;
+- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2012-07-05&g=2012-07-05), genoemde hoofden;
 
-- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2011-11-05&g=2012-01-02), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
+- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2012-07-05&g=2012-07-05), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
 
 3. Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -186,7 +182,7 @@ In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 17
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2011-11-05&g=2012-01-02) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2011-11-05&g=2012-01-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2011-11-05&g=2012-01-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2011-11-05&g=2012-01-02) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2012-07-05&g=2012-07-05) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2012-07-05&g=2012-07-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2012-07-05&g=2012-07-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2012-07-05&g=2012-07-05) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
 2. Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
@@ -194,9 +190,9 @@ In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 18
 
-1. De Directeur Bestuursondersteuning houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.
+1. De Directeur Bestuurlijke en Politieke Zaken houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.
 
-2. Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Bestuursondersteuning.
+2. Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Bestuurlijke en Politieke Zaken.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
