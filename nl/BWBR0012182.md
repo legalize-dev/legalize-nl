@@ -4,7 +4,7 @@ identifier: "BWBR0012182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-18"
-last_updated: "2010-11-27"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012182"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als be
 
 ##### Artikel 3
 
-De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2010-11-27&g=2010-11-27), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2010-11-27&g=2010-11-27), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
+De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2012-07-10&g=2012-07-10), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2012-07-10&g=2012-07-10), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
 
 ##### Artikel 4
 
@@ -98,9 +98,11 @@ De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1
 
 - k. indien het een motor met compressieontsteking, werkend met een anders dan constant toerental, van de motorcategorie R, bedoeld in artikel 9, derde lid quinquies, van [richtlijn 97/68](31997L0068), betreft: met ingang van 1 oktober 2014, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn hanteerd die zijn aangegeven in tabel 4.1.2.6 van bijlage I bij [richtlijn 97/68](31997L0068).
 
-2. In afwijking van het eerste lid kunnen motoren in de handel worden gebracht volgens de procedure, bedoeld in bijlage IV bij [richtlijn 2000/25](32000L0025).
+2. In afwijking van het eerste lid kunnen motoren in de handel worden gebracht volgens de procedure, bedoeld in artikel 3bis van richtlijn 2000/25 en bijlage IV bij die richtlijn.
 
 3. In afwijking van het eerste lid kunnen motoren van de categorieën, bedoeld in het eerste lid, onder d tot en met k, die voor de in die onderdelen genoemde data zijn geproduceerd, tot uiterlijk 24 maanden na die datum in de handel worden gebracht.
+
+4. In afwijking van het eerste lid kan in overeenstemming met artikel 3bis van richtlijn 2000/25 een beperkt aantal trekkers in gebruik worden genomen in de zin van artikel 1 van richtlijn 2000/25 die niet voldoen aan de op dat moment geldende eisen.
 
 ##### Artikel 5
 
@@ -148,7 +150,7 @@ De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1
 
 3. Voor kleine motorfamilies waarbij de betrokken motorfamilies een verschillende cilinderinhoud hebben, is het eerste lid eerst van toepassing op het moment dat er meer dan 25.000 benzinemotoren met elektrische ontsteking in de handel zijn gebracht.
 
-4. In afwijking van het eerste lid houdt voor de benzinemotoren met elektrische ontsteking, bedoeld in artikel 9bis, zevende lid, van [richtlijn 97/86](31997L0086), de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.
+4. In afwijking van het eerste lid houdt voor de benzinemotoren met elektrische ontsteking, bedoeld in artikel 9bis, zevende lid, van richtlijn 97/68, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.
 
 5. In afwijking van het eerste lid kunnen de motoren van de categorieën, bedoeld in het eerste lid, onder h tot en met s, die voor de in die onderdelen genoemde data zijn geproduceerd, tot uiterlijk 24 maanden na die datum in de handel worden gebracht.
 
