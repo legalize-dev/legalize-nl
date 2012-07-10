@@ -4,7 +4,7 @@ identifier: "BWBR0010251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-07-10"
-last_updated: "1999-02-10"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010251"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 Als modellen voor het bewijs van vrijstelling wegens gemoedsbezwaren van de verplichting tot het sluiten van een verzekering als bedoeld in de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) worden vastgesteld:
 
-- a. voor motorrijtuigen die een kenteken behoeven, het bewijs volgens de bij deze beschikking behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0010251&bijlage=I&z=1999-02-10&g=1999-02-10);
+- a. voor motorrijtuigen die een kenteken behoeven, het bewijs volgens de bij deze beschikking behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0010251&bijlage=I&z=2012-07-10&g=2012-07-10);
 
-- b. voor motorrijtuigen die geen kenteken behoeven, het bewijs volgens de bij deze beschikking behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010251&bijlage=II&z=1999-02-10&g=1999-02-10).
+- b. voor motorrijtuigen die geen kenteken behoeven, het bewijs volgens de bij deze beschikking behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010251&bijlage=II&z=2012-07-10&g=2012-07-10).
 
 ##### Artikel 2
 
@@ -54,6 +54,6 @@ De beschikking van de Minister van Financiën van 29 juni 1984/nr. 384-7188 (Stc
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Vrijstellingsbewijs A
+## Bijlage I. als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010251&artikel=1&z=2012-07-10&g=2012-07-10), van de Regeling van de Minister van Financiën van 1 februari 1999 (Stcrt. 1999, 26)
 
 ## Bijlage II. Vrijstellingsbewijs B
