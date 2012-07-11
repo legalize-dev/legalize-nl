@@ -91,9 +91,3 @@ natuurkunde
 scheikunde
 
 biologie
-
-## Bijlage 2
-
-### Syllabi v.w.o. 2016
-
-biologie
