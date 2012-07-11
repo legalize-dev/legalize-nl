@@ -4,7 +4,7 @@ identifier: "BWBV0001506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2010-10-29"
+last_updated: "2012-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001506"
 soort: "verdrag"
@@ -3788,7 +3788,7 @@ In afwijking van de procedure bepaald in de artikelen 258 en 259, kan de Commiss
 
 ##### Artikel 349
 
-Gezien de structurele economische en sociale situatie van Guadeloupe, Frans Guyana, Martinique, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, die wordt bemoeilijkt door de grote afstand, het insulaire karakter, de kleine oppervlakte, een moeilijk reliëf en klimaat en de economische afhankelijkheid van enkele producten, welke factoren door hun blijvende en cumulatieve karakter de ontwikkeling van deze gebieden ernstig schaden, neemt de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement speciﬁeke maatregelen aan die er met name op gericht zijn de voorwaarden voor de toepassing van de Verdragen, met inbegrip van gemeenschappelijk beleid, op deze gebieden vast te stellen. Wanneer de betrokken speciﬁeke maatregelen volgens een bijzondere wetgevingsprocedure door de Raad worden vastgesteld, besluit hij eveneens op voorstel van de Commissie en na raadpleging van het Europees Parlement.
+Gezien de structurele economische en sociale situatie van Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, die wordt bemoeilijkt door de grote afstand, het insulaire karakter, de kleine oppervlakte, een moeilijk reliëf en klimaat en de economische afhankelijkheid van enkele producten, welke factoren door hun blijvende en cumulatieve karakter de ontwikkeling van deze gebieden ernstig schaden, neemt de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement speciﬁeke maatregelen aan die er met name op gericht zijn de voorwaarden voor de toepassing van de Verdragen, met inbegrip van gemeenschappelijk beleid, op deze gebieden vast te stellen. Wanneer de betrokken speciﬁeke maatregelen volgens een bijzondere wetgevingsprocedure door de Raad worden vastgesteld, besluit hij eveneens op voorstel van de Commissie en na raadpleging van het Europees Parlement.
 
 De in de eerste alinea bedoelde maatregelen hebben met name betrekking op het douane- en handelsbeleid, het ﬁscale beleid, vrijhandelszones, het landbouw- en visserijbeleid, voorwaarden voor het aanbod van grondstoffen en essentiële consumptiegoederen, staatssteun en de voorwaarden voor toegang tot de structuurfondsen en tot horizontale programma’s van de Unie.
 
@@ -3842,9 +3842,9 @@ Voor de toepassing van [artikel 7 van het Verdrag betreffende de Europese Unie](
 
 Naast de bepalingen van [artikel 52 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=52) over het territoriale toepassingsgebied van de Verdragen, gelden onderstaande bepalingen:
 
-- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig artikel 349.
+- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=ZEVENDE&artikel=349&z=2012-07-11&g=2012-07-11).
 
-- 2. De landen en gebieden overzee waarvan de lijst als bijlage II is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
+- 2. De landen en gebieden overzee waarvan de lijst als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II&z=2012-07-11&g=2012-07-11) is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
 
 - 3. De bepalingen van de Verdragen zijn van toepassing op de Europese grondgebieden welker buitenlandse betrekkingen door een lidstaat worden behartigd.
 
