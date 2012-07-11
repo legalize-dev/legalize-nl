@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2012-01-01"
+last_updated: "2012-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -42,57 +42,67 @@ Besluit:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+De bedragen van de algemene onkostenvergoeding worden jaarlijks geïndexeerd op basis van de afgeleide consumentenprijsindex over het voorgaande kalenderjaar, zoals deze wordt berekend door het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+De functies waarvoor de algemene onkostenvergoeding geldt en de geldende bedragen voor deze functies worden vermeld in een bijlage bij deze regeling.
 
 ##### Artikel 4
 
-1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2008 wordt met 2,5% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=1&z=2012-07-11&g=2012-01-01) genoemd bedrag.
+1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2008 wordt met 2,5% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=1&z=2012-07-11&g=2012-07-11) genoemd bedrag.
 
-2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2009 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=2&z=2012-07-11&g=2012-01-01) genoemd bedrag.
+2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2009 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=2&z=2012-07-11&g=2012-07-11) genoemd bedrag.
 
-3. Het bedrag van de algemene onkostenvergoeding voor het jaar 2010 wordt met 0,9% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=3&z=2012-07-11&g=2012-01-01) genoemd bedrag.
+3. Het bedrag van de algemene onkostenvergoeding voor het jaar 2010 wordt met 0,9% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=3&z=2012-07-11&g=2012-07-11) genoemd bedrag.
 
-4. Het bedrag van de algemene onkostenvergoeding voor het jaar 2011 wordt met 1,1% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=4&z=2012-07-11&g=2012-01-01) genoemd bedrag.
+4. Het bedrag van de algemene onkostenvergoeding voor het jaar 2011 wordt met 1,1% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=4&z=2012-07-11&g=2012-07-11) genoemd bedrag.
 
-5. Het bedrag van de algemene onkostenvergoeding voor het jaar 2012 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=5&z=2012-07-11&g=2012-01-01) genoemd bedrag.
+5. Het bedrag van de algemene onkostenvergoeding voor het jaar 2012 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=5&z=2012-07-11&g=2012-07-11) genoemd bedrag.
 
 6. De bedragen van de algemene onkostenvergoeding worden afgerond naar de eerstvolgende euro.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de rechterlijke ambtenaren die zijn aangesteld of aangewezen en de rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van minder dan de helft van een volledige arbeidsduur wordt een algemene onkostenvergoeding toegekend die een met hun werktijd overeenkomend deel bedraagt van de vergoeding die zij zouden hebben ontvangen indien zijn in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige arbeidsduur.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof voor ten minste een maand, al dan niet met behoud van bezoldiging, is verleend, gedurende de periode van het buitengewoon verlof aanspraak op de algemene onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van arbeid wegens ziekte, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op de algemene onkostenvergoeding die een met zijn feitelijke arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van arbeid wegens ziekte zou zijn.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, met dien verstande dat:
+
+- a. [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-07-11&g=2012-07-11), terugwerkt tot en met 1 januari 2008;
+
+- b. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-07-11&g=2012-07-11), terugwerkt tot en met 1 januari 2009;
+
+- c. [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-07-11&g=2012-07-11), terugwerkt tot en met 1 januari 2010;
+
+- d. [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-07-11&g=2012-07-11), terugwerkt tot en met 1 januari 2011;
+
+- e. [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-07-11&g=2012-07-11), terugwerkt tot en met 1 januari 2012.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking op 1 juli 2012.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren wordt ingetrokken](https://wetten.overheid.nl/jci1.3:c:BWBR0027090).
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechterlijke ambtenaren.
 
 ## Bijlage 1. Algemene onkostenvergoeding voor het jaar 2008
 
