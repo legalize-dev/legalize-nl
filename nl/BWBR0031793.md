@@ -4,7 +4,7 @@ identifier: "BWBR0031793"
 country: "nl"
 rank: "wet"
 publication_date: "2012-07-18"
-last_updated: "2012-07-01"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031793"
 soort: "wet"
@@ -66,10 +66,14 @@ Wijzigt de Wet op de huurtoeslag.
 
 ##### Artikel VI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, waarbij:
+
+- a. de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031793&artikel=I&z=2012-07-18&g=2012-07-18), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0031793&artikel=III&z=2012-07-18&g=2012-07-18), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031793&artikel=IV&z=2012-07-18&g=2012-07-18) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031793&artikel=V&z=2012-07-18&g=2012-07-18) terugwerken tot en met 1 januari 2012; en
+
+- b. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0031793&artikel=II&z=2012-07-18&g=2012-07-18) terugwerkt tot en met 1 juli 2012.
 
 ##### Artikel VII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet afschaffing huishoudinkomenstoets.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
