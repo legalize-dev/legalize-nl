@@ -4,7 +4,7 @@ identifier: "BWBR0029884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-31"
-last_updated: "2011-03-05"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029884"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 18 van de Wet implementatie EG-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=10), worden aangewezen de ambtenaren van de Voedsel en Waren Autoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie.
+Als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 18 van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=10), worden aangewezen de ambtenaren van de Nederlandse Voedsel- en Waren Autoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
 ##### Artikel 2
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet implementatie EG-richtlijnen energie-efficiëntie.
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet implementatie EU-richtlijnen energie-efficiëntie.
 
 ##### Artikel 3
 
