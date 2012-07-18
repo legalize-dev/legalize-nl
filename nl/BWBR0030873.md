@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-07-15"
+last_updated: "2012-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -83,6 +83,8 @@ Besluit:
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) |
 | 3.1 | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | – | – |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | **2**.2 | Opkomende markten innovatieprojecten | – | – |
+|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2. | CATRENE-innovatieprojecten | 27-08 t/m 21-09 | 5.000.000 |
+|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2. | ITEA2-innovatieprojecten | 30-07 t/m 31-08 | 13.000.000 |
 | 3.2 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | EMVT (periode vooraanmelding) | – | – |
