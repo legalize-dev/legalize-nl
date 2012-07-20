@@ -4,7 +4,7 @@ identifier: "BWBR0007168"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007168"
 soort: "wet"
@@ -67,7 +67,7 @@ Krachtens deze wet worden de volgende belastingen geheven:
 
 - c. GN-code: een code als bedoeld in [verordening (EEG) nr. 2658/87](31987R2658) van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 1 januari 2002.
 
-2. Bij regeling van Onze Minister kunnen de GN-codes, genoemd in [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=32&z=2012-01-01&g=2012-01-01), en [artikel 47, eerste lid, onderdelen m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-01-01&g=2012-01-01), worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de [richtlijn nr. 2003/96/EG](32003L0096) van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEU L 283), in overeenstemming met artikel 2, lid vijf, van die richtlijn zijn aangepast. In dat geval kan bij regeling van Onze Minister eveneens de datum in het eerste lid, onderdeel c, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.
+2. Bij regeling van Onze Minister kunnen de GN-codes, genoemd in [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=32&z=2012-07-20&g=2012-07-20), en [artikel 47, eerste lid, onderdelen m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-07-20&g=2012-07-20), worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de [richtlijn nr. 2003/96/EG](32003L0096) van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEU L 283), in overeenstemming met artikel 2, lid vijf, van die richtlijn zijn aangepast. In dat geval kan bij regeling van Onze Minister eveneens de datum in het eerste lid, onderdeel c, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.
 
 ### Hoofdstuk II. Grondwaterbelasting
 
@@ -309,9 +309,9 @@ De belasting wordt geheven van degene die de levering verricht.
 
 - c. in overige gevallen op het tijdstip waarop de levering plaatsvindt.
 
-2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2012-01-01&g=2012-01-01), wordt de hoeveelheid leidingwater, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
+2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2012-07-20&g=2012-07-20), wordt de hoeveelheid leidingwater, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
 
-3. In gevallen waarin per verbruiksperiode van twaalf maanden meer dan 300 kubieke meter leidingwater via een aansluiting aan een verbruiker wordt geleverd en ter zake van die levering voorschotnota’s worden uitgereikt of voorschotbedragen worden ontvangen, wordt bij de berekening van de op de verbruiksperiode betrekking hebbende voorschotbedragen naar evenredigheid rekening gehouden met de belasting die overeenkomstig [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2012-01-01&g=2012-01-01), ter zake van de hoeveelheid van 300 kubieke meter verschuldigd is.
+3. In gevallen waarin per verbruiksperiode van twaalf maanden meer dan 300 kubieke meter leidingwater via een aansluiting aan een verbruiker wordt geleverd en ter zake van die levering voorschotnota’s worden uitgereikt of voorschotbedragen worden ontvangen, wordt bij de berekening van de op de verbruiksperiode betrekking hebbende voorschotbedragen naar evenredigheid rekening gehouden met de belasting die overeenkomstig [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2012-07-20&g=2012-07-20), ter zake van de hoeveelheid van 300 kubieke meter verschuldigd is.
 
 4. Onder de in het eerste lid, onderdeel a, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotbedragen.
 
@@ -369,7 +369,7 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 ##### Artikel 21
 
-1. De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=15&z=2012-01-01&g=2012-01-01) bedoelde belastingplichtige voert een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
+1. De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=15&z=2012-07-20&g=2012-07-20) bedoelde belastingplichtige voert een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichting wordt voldaan.
 
@@ -511,7 +511,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - c. een derde land.
 
-2. Als uitslag wordt niet aangemerkt het gebruik van kolen voor het vervaardigen van kolen, aardgas als bedoeld in [artikel 47, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-01-01&g=2012-01-01), producten die op grond van [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=48&z=2012-01-01&g=2012-01-01), als aardgas worden aangemerkt, of minerale oliën als bedoeld in [artikel 25 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=25).
+2. Als uitslag wordt niet aangemerkt het gebruik van kolen voor het vervaardigen van kolen, aardgas als bedoeld in [artikel 47, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-07-20&g=2012-07-20), producten die op grond van [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=48&z=2012-07-20&g=2012-07-20), als aardgas worden aangemerkt, of minerale oliën als bedoeld in [artikel 25 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=25).
 
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden worden gesteld waaronder het eerste en tweede lid toepassing vinden.
 
@@ -967,7 +967,7 @@ Vervallen
 
 1. Ter zake van uitslag wordt de belasting geheven van de vergunninghouder van de inrichting.
 
-2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), geheven van degene die de kolen voorhanden heeft.
+2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-07-20&g=2012-07-20), geheven van degene die de kolen voorhanden heeft.
 
 ### Afdeling 4. Tarief
 
@@ -1003,7 +1003,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken e
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de gegevens die het verzoek dient te bevatten.
 
-3. In afwijking van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=2&artikel=38&z=2012-01-01&g=2012-01-01), kan, indien degene die een vergunning voor een inrichting wil verkrijgen niet beschikt over een plaats waar kolen worden vervaardigd dan wel opgeslagen, een verzoek om een vergunning voor een inrichting door de inspecteur worden toegewezen, indien deze persoon in Nederland is gevestigd en in de uitoefening van zijn onderneming optreedt als:
+3. In afwijking van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=2&artikel=38&z=2012-07-20&g=2012-07-20), kan, indien degene die een vergunning voor een inrichting wil verkrijgen niet beschikt over een plaats waar kolen worden vervaardigd dan wel opgeslagen, een verzoek om een vergunning voor een inrichting door de inspecteur worden toegewezen, indien deze persoon in Nederland is gevestigd en in de uitoefening van zijn onderneming optreedt als:
 
 - a. handelaar in kolen, maar de door hem gekochte kolen niet zelf in opslag neemt, of
 
@@ -1015,7 +1015,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken e
 
 1. Ter zake van uitslag wordt de belasting verschuldigd op het tijdstip van de uitslag.
 
-2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de kolen.
+2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-07-20&g=2012-07-20), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de kolen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -1119,7 +1119,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 13,73.
 
 ##### Artikel 45
 
-1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot kolen die worden gebruikt op een in [artikel 44, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=5&artikel=44&z=2012-01-01&g=2012-01-01), bedoelde wijze.
+1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot kolen die worden gebruikt op een in [artikel 44, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=5&artikel=44&z=2012-07-20&g=2012-07-20), bedoelde wijze.
 
 2. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot kolen die – anders dan vanuit een inrichting – zijn gebracht naar een andere lidstaat dan wel een derde land.
 
@@ -1201,11 +1201,15 @@ Het tarief bedraagt per 1000 kilogram kolen € 13,73.
 
 2. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu worden nadere regels gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.
 
-3. Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), met uitzondering van een net als bedoeld in [artikel 15, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=15).
+3. Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), met uitzondering van een net met een spanningsniveau van ten hoogste 0,4 kV en een verbruik van ten hoogste 0,1 GWh per jaar, indien een ander dan een leverancier als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) of een netbeheerder als bedoeld in artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998, een recht van gebruik heeft van dat net.
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid, onderdeel p.
 
 5. Met betrekking tot aardgas wordt onder distributienet verstaan een gastransportnet als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1).
+
+4. Met betrekking tot elektriciteit wordt onder directe lijn verstaan een directe lijn als bedoeld in [artikel 1, eerste lid, onderdeel ar, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1).
+
+5. Met betrekking tot aardgas wordt onder directe lijn verstaan een directe lijn als bedoeld in [artikel 1, eerste lid, onderdeel an, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1).
 
 6. Indien in een tijdvak van 18 maanden een of meerdere voorschotnota’s worden uitgereikt dan wel een of meerdere voorschotbedragen worden ontvangen en uiterlijk binnen 13 weken na afloop van dat tijdvak geen eindfactuur wordt uitgereikt, wordt dat tijdvak van 18 maanden aangemerkt als verbruiksperiode.
 
@@ -1263,13 +1267,15 @@ Vervallen
 
 1. Met betrekking tot aardgas en elektriciteit wordt de belasting geheven van degene die de levering verricht.
 
-2. In afwijking van het eerste lid wordt bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-01-01&g=2012-01-01), de belasting geheven van degene van wie het verbruik op grond van artikel 50, vierde lid, is aangemerkt als een levering als bedoeld in artikel 50, eerste lid.
+2. In afwijking van het eerste lid wordt bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-07-20&g=2012-07-20), de belasting geheven van degene van wie het verbruik op grond van artikel 50, vierde lid, is aangemerkt als een levering als bedoeld in artikel 50, eerste lid.
 
 3. Hetgeen is bepaald in het tweede lid is niet van toepassing indien het aardgas betreft dat op andere wijze dan via een aansluiting aan een CNG-vulstation als CNG wordt afgeleverd.
 
+4. Indien sprake is van een directe lijn, wordt in afwijking van het eerste en tweede lid bij de toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-07-20&g=2012-07-20), de belasting geheven van degene die de levering van elektriciteit dan wel aardgas aan verbruikers verricht op de directe lijn.
+
 ##### Artikel 54
 
-1. Voor de toepassing van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-01-01&g=2012-01-01), stelt degene die de levering aan de verbruiker verricht, indien hij niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft, een fiscaal vertegenwoordiger aan. De fiscaal vertegenwoordiger treedt namens hem op en treedt in zijn plaats met betrekking tot alle rechten en verplichtingen die hij heeft inzake de belasting.
+1. Voor de toepassing van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-07-20&g=2012-07-20), stelt degene die de levering aan de verbruiker verricht, indien hij niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft, een fiscaal vertegenwoordiger aan. De fiscaal vertegenwoordiger treedt namens hem op en treedt in zijn plaats met betrekking tot alle rechten en verplichtingen die hij heeft inzake de belasting.
 
 2. De fiscaal vertegenwoordiger is in het bezit van een daartoe door de inspecteur verstrekte vergunning.
 
@@ -1293,19 +1299,19 @@ De belasting wordt voor aardgas berekend per eenheid brandstof, uitgedrukt in ku
 
 - 1°. op het tijdstip waarop een voorschotnota wordt uitgereikt onderscheidenlijk een voorschotbedrag wordt ontvangen; alsmede
 
-- 2°. op het tijdstip van de uitreiking van de eindfactuur over een verbruiksperiode, dan wel, bij toepassing van [artikel 47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-01-01&g=2012-01-01), op de laatste dag van het aldaar bedoelde tijdvak van 18 maanden;
+- 2°. op het tijdstip van de uitreiking van de eindfactuur over een verbruiksperiode, dan wel, bij toepassing van [artikel 47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-07-20&g=2012-07-20), op de laatste dag van het aldaar bedoelde tijdvak van 18 maanden;
 
 - b. in andere gevallen op het tijdstip van de uitreiking van de factuur.
 
 2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.
 
-3. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-01-01&g=2012-01-01), verschuldigd op het tijdstip waarop het verbruik plaatsvindt.
+3. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-07-20&g=2012-07-20), verschuldigd op het tijdstip waarop het verbruik plaatsvindt.
 
-4. Indien de verrekening, bedoeld in [artikel 47, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-01-01&g=2012-01-01), leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
+4. Indien de verrekening, bedoeld in [artikel 47, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2012-07-20&g=2012-07-20), leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
 ##### Artikel 57
 
-Indien in een verbruiksperiode ten aanzien van degene van wie op grond van [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-01-01&g=2012-01-01), de belasting wordt geheven zowel sprake is van door hem op grond van artikel 53, tweede lid, verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair wordt geheven van degene, bedoeld in artikel 53, eerste lid.
+Indien in een verbruiksperiode ten aanzien van degene van wie op grond van [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-07-20&g=2012-07-20), de belasting wordt geheven zowel sprake is van door hem op grond van artikel 53, tweede lid, verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair wordt geheven van degene, bedoeld in artikel 53, eerste lid.
 
 ### Afdeling 4. Tarief
 
@@ -1345,7 +1351,7 @@ Vervallen
 
 3. In afwijking van het eerste lid, onderdeel a, bedraagt het tarief voor aardgas € 0,1667 per kubieke meter voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming niet zijnde een installatie voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte.
 
-4. In afwijking van het eerste lid, onderdeel a, bedragen de tarieven nihil voor in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=48&z=2012-01-01&g=2012-01-01), als aardgas aangemerkte producten voor zover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.
+4. In afwijking van het eerste lid, onderdeel a, bedragen de tarieven nihil voor in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=48&z=2012-07-20&g=2012-07-20), als aardgas aangemerkte producten voor zover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.
 
 5. Indien bij een aansluiting sprake is van zowel zakelijk verbruik als niet-zakelijk verbruik, worden de tarieven, genoemd in het eerste lid, voor verbruik boven 10 000 000 kubieke meter respectievelijk 10 000 000 kWh toegepast naar evenredigheid van elk type verbruik. Indien het verbruik nagenoeg geheel bestaat uit zakelijk verbruik of niet-zakelijk verbruik, wordt het volledige verbruik als zodanig aangemerkt.
 
@@ -1355,7 +1361,7 @@ Vervallen
 
 ##### Artikel 60
 
-1. In afwijking van [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in [post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I) voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm3, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
+1. In afwijking van [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in [post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I) voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm3, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
 
 - –. niet hoger is dan 5000 kubieke meter, per kubieke meter € 0,01519
 
@@ -1367,7 +1373,7 @@ Vervallen
 
 - –. hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0083.
 
-2. Indien behalve voor het in het eerste lid vermelde doel mede aardgas wordt toegepast in één of meerdere woonhuizen, wordt per verbruiksperiode van twaalf maanden per woonhuis een geleverde hoeveelheid van 5000 kubieke meter in de heffing betrokken naar het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), tenzij de geleverde hoeveelheden voor de verschillende toepassingen en de verschillende woonhuizen afzonderlijk worden gemeten.
+2. Indien behalve voor het in het eerste lid vermelde doel mede aardgas wordt toegepast in één of meerdere woonhuizen, wordt per verbruiksperiode van twaalf maanden per woonhuis een geleverde hoeveelheid van 5000 kubieke meter in de heffing betrokken naar het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), tenzij de geleverde hoeveelheden voor de verschillende toepassingen en de verschillende woonhuizen afzonderlijk worden gemeten.
 
 3. Bij aardgas met een bovenste verbrandingswaarde die lager of hoger is dan 35,17 megajoule per Nm3, worden de in het eerste lid genoemde tarieven naar evenredigheid verlaagd, onderscheidenlijk verhoogd alsmede de hoeveelheidsgrenzen naar evenredigheid verhoogd onderscheidenlijk verlaagd.
 
@@ -1375,17 +1381,17 @@ Vervallen
 
 ##### Artikel 61
 
-Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), [60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-01-01&g=2012-01-01), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2012-01-01&g=2012-01-01), en [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2012-01-01&g=2012-01-01), naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
+Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), [60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-07-20&g=2012-07-20), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2012-07-20&g=2012-07-20), en [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2012-07-20&g=2012-07-20), naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
 ##### Artikel 62
 
-Indien op basis van een contract tussen de belastingplichtige en de verbruiker de geleverde hoeveelheid aardgas gemeten wordt in Nm3, worden de tarieven toegepast, zoals die met betrekking tot aardgas in [artikel 59, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), en [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-01-01&g=2012-01-01), worden toegepast per kubieke meter.
+Indien op basis van een contract tussen de belastingplichtige en de verbruiker de geleverde hoeveelheid aardgas gemeten wordt in Nm3, worden de tarieven toegepast, zoals die met betrekking tot aardgas in [artikel 59, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), en [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-07-20&g=2012-07-20), worden toegepast per kubieke meter.
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
 ##### Artikel 63
 
-1. Op de ter zake van de levering van elektriciteit, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-01-01&g=2012-01-01), verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt:
+1. Op de ter zake van de levering van elektriciteit, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-07-20&g=2012-07-20), verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt:
 
 - a. € 318,62 per verbruiksperiode van twaalf maanden per elektriciteitsaansluiting met betrekking tot onroerende zaken die op zichzelf als gebouwde eigendommen zijn aan te merken welke kunnen dienen als woning of ten behoeve van de uitoefening van een bedrijf of beroep of anderszins een verblijfsfunctie hebben;
 
@@ -1397,7 +1403,7 @@ Indien op basis van een contract tussen de belastingplichtige en de verbruiker d
 
 4. Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de in het eerste lid genoemde bedragen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
-5. Bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-01-01&g=2012-01-01), zijn het eerste en vierde lid van overeenkomstige toepassing.
+5. Bij toepassing van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2012-07-20&g=2012-07-20), zijn het eerste en vierde lid van overeenkomstige toepassing.
 
 6. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de belastingvermindering, bedoeld in het eerste lid, wordt verleend.
 
@@ -1429,7 +1435,7 @@ De vrijstelling voor metallurgische procedés geldt alleen voor bedrijven die vo
 
 ##### Artikel 65
 
-1. Bij op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Infrastructuur en Milieu, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van elektriciteit ten behoeve van zakelijk verbruik voor zover het zakelijk verbruik, na aftrek van het gedeelte van het zakelijk verbruik dat reeds is vrijgesteld op grond van [artikel 64, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-01-01&g=2012-01-01), hoger is dan 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting. De vrijstelling wordt verleend indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Landbouw en Innovatie of Onze Minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie en hij als energie-intensief bedrijf wordt aangemerkt.
+1. Bij op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Infrastructuur en Milieu, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van elektriciteit ten behoeve van zakelijk verbruik voor zover het zakelijk verbruik, na aftrek van het gedeelte van het zakelijk verbruik dat reeds is vrijgesteld op grond van [artikel 64, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-07-20&g=2012-07-20), hoger is dan 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting. De vrijstelling wordt verleend indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Landbouw en Innovatie of Onze Minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie en hij als energie-intensief bedrijf wordt aangemerkt.
 
 2. Bij een verbruiksperiode korter dan wel langer dan twaalf maanden wordt de in het eerste lid genoemde hoeveelheidsgrens naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
@@ -1441,9 +1447,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 67
 
-1. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), voor het verbruik niet hoger dan 5000 kubieke meter, voor zover het verbruik van warmte in een onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 158 000 megajoule per verbruiksperiode van twaalf maanden.
+1. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), voor het verbruik niet hoger dan 5000 kubieke meter, voor zover het verbruik van warmte in een onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 158 000 megajoule per verbruiksperiode van twaalf maanden.
 
-2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan de gebruiker van de in het eerste lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het bedrag van de belasting dat volgt uit toepassing van het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), voor het verbruik niet hoger dan 5000 kubieke meter en het bedrag van de belasting dat volgt uit toepassing van [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), als aan de gebruiker een hoeveelheid aardgas geleverd zou zijn die correspondeert met de verbruikte warmte.
+2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan de gebruiker van de in het eerste lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het bedrag van de belasting dat volgt uit toepassing van het tarief, bedoeld in [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), voor het verbruik niet hoger dan 5000 kubieke meter en het bedrag van de belasting dat volgt uit toepassing van [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), als aan de gebruiker een hoeveelheid aardgas geleverd zou zijn die correspondeert met de verbruikte warmte.
 
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.
 
@@ -1501,11 +1507,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 70
 
-1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit die worden gebruikt op een in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-01-01&g=2012-01-01), bedoelde wijze.
+1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit die worden gebruikt op een in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-07-20&g=2012-07-20), bedoelde wijze.
 
-2. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot elektriciteit die wordt gebruikt op een in [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-01-01&g=2012-01-01), bedoelde wijze.
+2. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot elektriciteit die wordt gebruikt op een in [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-07-20&g=2012-07-20), bedoelde wijze.
 
-3. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas dat wordt gebruikt op een in [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-01-01&g=2012-01-01), bedoelde wijze.
+3. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas dat wordt gebruikt op een in [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2012-07-20&g=2012-07-20), bedoelde wijze.
 
 4. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaven, bedoeld in het eerste tot en met derde lid, worden verleend.
 
@@ -1513,7 +1519,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 71
 
-1. De belastingplichtigen, bedoeld in [artikel 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-01-01&g=2012-01-01), voeren een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
+1. De belastingplichtigen, bedoeld in [artikel 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2012-07-20&g=2012-07-20), voeren een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
 
 2. Bij regeling van Onze Minister worden regels gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichting wordt voldaan.
 
@@ -1597,9 +1603,9 @@ Onder de naam verpakkingenbelasting wordt een belasting geheven op verpakkingen.
 
 1. De belasting wordt geheven:
 
-- a. indien [artikel 82, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), toepassing vindt: van de producent;
+- a. indien [artikel 82, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), toepassing vindt: van de producent;
 
-- b. indien [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), toepassing vindt: van de importeur; of
+- b. indien [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), toepassing vindt: van de importeur; of
 
 - c. indien zowel onderdeel a als onderdeel b toepassing vindt: van de producent/importeur.
 
@@ -1611,17 +1617,17 @@ Onder de naam verpakkingenbelasting wordt een belasting geheven op verpakkingen.
 
 1. De belasting wordt berekend over het gewicht van de in de verpakking verwerkte materiaalsoorten, gemeten in kilogrammen.
 
-2. De componenten van een verpakking en de bijbehorende in de verpakking verwerkte elementen, bedoeld in [artikel 80, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=1&artikel=80&z=2012-01-01&g=2012-01-01), hoeven niet afzonderlijk in de heffing te worden betrokken, maar mogen worden meegewogen met de materiaalsoort van de verpakking waarin ze zijn verwerkt.
+2. De componenten van een verpakking en de bijbehorende in de verpakking verwerkte elementen, bedoeld in [artikel 80, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=1&artikel=80&z=2012-07-20&g=2012-07-20), hoeven niet afzonderlijk in de heffing te worden betrokken, maar mogen worden meegewogen met de materiaalsoort van de verpakking waarin ze zijn verwerkt.
 
 ##### Artikel 85
 
 De belasting wordt verschuldigd:
 
-- a. indien [artikel 82, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), toepassing vindt: op het tijdstip waarop het verpakte product ter beschikking wordt gesteld;
+- a. indien [artikel 82, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), toepassing vindt: op het tijdstip waarop het verpakte product ter beschikking wordt gesteld;
 
-- b. indien [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), toepassing vindt: op het tijdstip waarop de importeur zich van de verpakking ontdoet of laat ontdoen;
+- b. indien [artikel 82, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), toepassing vindt: op het tijdstip waarop de importeur zich van de verpakking ontdoet of laat ontdoen;
 
-- c. indien [artikel 82, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), toepassing vindt: op het tijdstip waarop de verpakking ter beschikking wordt gesteld.
+- c. indien [artikel 82, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), toepassing vindt: op het tijdstip waarop de verpakking ter beschikking wordt gesteld.
 
 ### Afdeling 4. Tarief
 
@@ -1651,17 +1657,17 @@ De belasting wordt verschuldigd:
 
 ##### Artikel 87
 
-1. Op het bedrag van de belasting die in een tijdvak verschuldigd is geworden door een belastingplichtige als bedoeld in [artikel 83, eerste lid, onderdeel a, b of c, dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-01-01&g=2012-01-01), wordt een vermindering toegepast tot ten hoogste het bedrag van die verschuldigde belasting.
+1. Op het bedrag van de belasting die in een tijdvak verschuldigd is geworden door een belastingplichtige als bedoeld in [artikel 83, eerste lid, onderdeel a, b of c, dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-07-20&g=2012-07-20), wordt een vermindering toegepast tot ten hoogste het bedrag van die verschuldigde belasting.
 
-2. In geval de verschuldigde belasting betrekking heeft op één materiaalsoort als bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), is het bedrag van de vermindering: 50 000 vermenigvuldigd met het voor die materiaalsoort geldende tarief, bedoeld in [artikel 86, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01).
+2. In geval de verschuldigde belasting betrekking heeft op één materiaalsoort als bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), is het bedrag van de vermindering: 50 000 vermenigvuldigd met het voor die materiaalsoort geldende tarief, bedoeld in [artikel 86, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20).
 
-3. In geval de verschuldigde belasting betrekking heeft op twee of meer van de materiaalsoorten, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), is het bedrag van de vermindering de optelsom van de verminderingen per materiaalsoort, waarbij de vermindering per materiaalsoort bedraagt: 50 000 vermenigvuldigd met het gewichtsaandeel van die materiaalsoort in het totaalgewicht van al die materiaalsoorten samen, vermenigvuldigd met het voor de betreffende materiaalsoort geldende tarief, bedoeld in [artikel 86, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01).
+3. In geval de verschuldigde belasting betrekking heeft op twee of meer van de materiaalsoorten, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), is het bedrag van de vermindering de optelsom van de verminderingen per materiaalsoort, waarbij de vermindering per materiaalsoort bedraagt: 50 000 vermenigvuldigd met het gewichtsaandeel van die materiaalsoort in het totaalgewicht van al die materiaalsoorten samen, vermenigvuldigd met het voor de betreffende materiaalsoort geldende tarief, bedoeld in [artikel 86, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20).
 
 4. Voor de toepassing van dit artikel:
 
-- a. worden de materiaalsoorten waarvoor in [artikel 86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), een tarief is bepaald als afzonderlijke materiaalsoorten aangemerkt;
+- a. worden de materiaalsoorten waarvoor in [artikel 86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), een tarief is bepaald als afzonderlijke materiaalsoorten aangemerkt;
 
-- b. worden, indien [artikel 86, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), is toegepast, de ongesplitste materiaalsoorten als één materiaalsoort aangemerkt.
+- b. worden, indien [artikel 86, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), is toegepast, de ongesplitste materiaalsoorten als één materiaalsoort aangemerkt.
 
 ##### Artikel 88
 
@@ -1675,15 +1681,15 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wi
 
 1. De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.
 
-2. Bij toepassing van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=2&artikel=40&z=2012-01-01&g=2012-01-01), dient in afwijking in zoverre van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.
+2. Bij toepassing van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=2&artikel=40&z=2012-07-20&g=2012-07-20), dient in afwijking in zoverre van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.
 
-3. In afwijking van het tweede lid kan de inspecteur, bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), op verzoek toestemming verlenen om de verschuldigd geworden belasting in een door hem te bepalen tijdvak uiterlijk binnen één maand na het einde van dat tijdvak op aangifte te voldoen. Het door de inspecteur te bepalen tijdvak bedraagt maximaal één kwartaal.
+3. In afwijking van het tweede lid kan de inspecteur, bij toepassing van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=1&artikel=33&z=2012-07-20&g=2012-07-20), op verzoek toestemming verlenen om de verschuldigd geworden belasting in een door hem te bepalen tijdvak uiterlijk binnen één maand na het einde van dat tijdvak op aangifte te voldoen. Het door de inspecteur te bepalen tijdvak bedraagt maximaal één kwartaal.
 
 4. Bij toepassing van hoofdstuk VIII dient in afwijking in zoverre van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), de belasting binnen één kwartaal na het einde van het tijdvak op aangifte te worden voldaan.
 
-5. In afwijking van het vierde lid dient bij toepassing van [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-01-01&g=2012-01-01) de belasting op aangifte te worden voldaan binnen één kwartaal volgend op het kwartaal waarbinnen de dagtekening ligt van de beschikking waarbij het forfait wordt vastgesteld, tenzij deze beschikking is gegeven in een kalenderjaar voorafgaande aan of in een kalenderjaar waarop het forfait mede betrekking heeft. In dat laatste geval geldt het vierde lid.
+5. In afwijking van het vierde lid dient bij toepassing van [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-07-20&g=2012-07-20) de belasting op aangifte te worden voldaan binnen één kwartaal volgend op het kwartaal waarbinnen de dagtekening ligt van de beschikking waarbij het forfait wordt vastgesteld, tenzij deze beschikking is gegeven in een kalenderjaar voorafgaande aan of in een kalenderjaar waarop het forfait mede betrekking heeft. In dat laatste geval geldt het vierde lid.
 
-6. Bij toepassing van [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-01-01&g=2012-01-01) zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) en [67f van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f), van overeenkomstige toepassing, indien de belastingplichtige niet heeft voldaan aan de meldingsplicht, bedoeld in artikel 84a, vijfde lid, of onjuiste of onvolledige informatie heeft verstrekt bij de vaststelling van het forfait.
+6. Bij toepassing van [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-07-20&g=2012-07-20) zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) en [67f van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f), van overeenkomstige toepassing, indien de belastingplichtige niet heeft voldaan aan de meldingsplicht, bedoeld in artikel 84a, vijfde lid, of onjuiste of onvolledige informatie heeft verstrekt bij de vaststelling van het forfait.
 
 7. Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag.
 
@@ -1691,21 +1697,21 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wi
 
 ##### Artikel 90
 
-De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2012-01-01&g=2012-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=4&artikel=43&z=2012-01-01&g=2012-01-01), [59, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-01-01&g=2012-01-01), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-01-01&g=2012-01-01), en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), vermelde bedragen.
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2012-07-20&g=2012-07-20), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=4&artikel=43&z=2012-07-20&g=2012-07-20), [59, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2012-07-20&g=2012-07-20), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2012-07-20&g=2012-07-20), en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), vermelde bedragen.
 
 ##### Artikel 91
 
-1. De inspecteur beslist op het verzoek, bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=6&artikel=20&z=2012-01-01&g=2012-01-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=6&artikel=45&z=2012-01-01&g=2012-01-01), [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=54&z=2012-01-01&g=2012-01-01), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2012-01-01&g=2012-01-01), [68, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2012-01-01&g=2012-01-01), [69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=69&z=2012-01-01&g=2012-01-01), [70, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2012-01-01&g=2012-01-01), [84a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-01-01&g=2012-01-01), [86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), [87b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87b&z=2012-01-01&g=2012-01-01), [89, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=1&artikel=89&z=2012-01-01&g=2012-01-01), en [92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=2&artikel=92&z=2012-01-01&g=2012-01-01), bij een voor bezwaar vatbare beschikking.
+1. De inspecteur beslist op het verzoek, bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=6&artikel=20&z=2012-07-20&g=2012-07-20), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=6&artikel=45&z=2012-07-20&g=2012-07-20), [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=54&z=2012-07-20&g=2012-07-20), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2012-07-20&g=2012-07-20), [68, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2012-07-20&g=2012-07-20), [69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=69&z=2012-07-20&g=2012-07-20), [70, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2012-07-20&g=2012-07-20), [84a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-07-20&g=2012-07-20), [86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), [87b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87b&z=2012-07-20&g=2012-07-20), [89, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=1&artikel=89&z=2012-07-20&g=2012-07-20), en [92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=2&artikel=92&z=2012-07-20&g=2012-07-20), bij een voor bezwaar vatbare beschikking.
 
-2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving. In afwijking van de eerste volzin bedraagt de beslistermijn voor het verzoek, bedoeld in [artikel 84a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-01-01&g=2012-01-01), een jaar na ontvangst van het verzoek. In geval tevens een verzoek als bedoeld in [artikel 86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), wordt gedaan, wordt de beslissing op dit laatste verzoek, in afwijking van de eerste volzin, tegelijk genomen met de beslissing op het verzoek, bedoeld in de tweede volzin.
+2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving. In afwijking van de eerste volzin bedraagt de beslistermijn voor het verzoek, bedoeld in [artikel 84a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=3&artikel=84a&z=2012-07-20&g=2012-07-20), een jaar na ontvangst van het verzoek. In geval tevens een verzoek als bedoeld in [artikel 86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), wordt gedaan, wordt de beslissing op dit laatste verzoek, in afwijking van de eerste volzin, tegelijk genomen met de beslissing op het verzoek, bedoeld in de tweede volzin.
 
 3. Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij de belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.
 
 4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op:
 
-- a. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=6&artikel=45&z=2012-01-01&g=2012-01-01);
+- a. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=6&artikel=45&z=2012-07-20&g=2012-07-20);
 
-- b. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2012-01-01&g=2012-01-01).
+- b. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2012-07-20&g=2012-07-20).
 
 ##### Artikel 92
 
@@ -1741,7 +1747,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 88a
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de heffing van de verpakkingenbelasting. Hierbij kunnen regels worden gesteld inzake het verleggen van de belastingplicht, het al dan niet van toepassing zijn van de vermindering bij indirecte export, bedoeld in [afdeling 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&z=2012-01-01&g=2012-01-01), en het bij de belastingplicht direct verdisconteren van deze exportvermindering, resulterende in een lager aantal aan te geven kilogrammen verpakking.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de heffing van de verpakkingenbelasting. Hierbij kunnen regels worden gesteld inzake het verleggen van de belastingplicht, het al dan niet van toepassing zijn van de vermindering bij indirecte export, bedoeld in [afdeling 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&z=2012-07-20&g=2012-07-20), en het bij de belastingplicht direct verdisconteren van deze exportvermindering, resulterende in een lager aantal aan te geven kilogrammen verpakking.
 
 ### Hoofdstuk IX. Algemene bepalingen
 
@@ -1755,9 +1761,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 88b
 
-1. In afwijking van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-01-01&g=2012-01-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5&artikel=87&z=2012-01-01&g=2012-01-01) en [87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-01-01&g=2012-01-01) kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot de heffing van de belasting van een vertegenwoordiger van een groep belastingplichtigen.
+1. In afwijking van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-07-20&g=2012-07-20), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5&artikel=87&z=2012-07-20&g=2012-07-20) en [87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-07-20&g=2012-07-20) kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot de heffing van de belasting van een vertegenwoordiger van een groep belastingplichtigen.
 
-2. Bij toepassing van het voorgaande lid kan worden afgeweken van [artikel 82, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-01-01&g=2012-01-01).
+2. Bij toepassing van het voorgaande lid kan worden afgeweken van [artikel 82, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=82&z=2012-07-20&g=2012-07-20).
 
 ### Hoofdstuk IX. Algemene bepalingen
 
@@ -1771,37 +1777,37 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 87a
 
-1. Een belastingplichtige als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-01-01&g=2012-01-01) mag op het bedrag van de belasting die in een tijdvak verschuldigd is geworden na toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5&artikel=87&z=2012-01-01&g=2012-01-01) een bedrag in mindering brengen voor de verpakking van de producten die hij als zodanig verpakt ter beschikking gesteld heeft gekregen van een producent en voor zover hij die op zijn beurt in dat tijdvak ter beschikking stelt en bij deze terbeschikkingstelling de producten voor het eerst buiten Nederland worden gebracht (exportvermindering). De exportvermindering geldt niet voor de verpakking waarvan de belastingplichtige weet of redelijkerwijs kan weten dat er geen verpakkingenbelasting over is betaald.
+1. Een belastingplichtige als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-07-20&g=2012-07-20) mag op het bedrag van de belasting die in een tijdvak verschuldigd is geworden na toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5&artikel=87&z=2012-07-20&g=2012-07-20) een bedrag in mindering brengen voor de verpakking van de producten die hij als zodanig verpakt ter beschikking gesteld heeft gekregen van een producent en voor zover hij die op zijn beurt in dat tijdvak ter beschikking stelt en bij deze terbeschikkingstelling de producten voor het eerst buiten Nederland worden gebracht (exportvermindering). De exportvermindering geldt niet voor de verpakking waarvan de belastingplichtige weet of redelijkerwijs kan weten dat er geen verpakkingenbelasting over is betaald.
 
-2. De hoogte van het bedrag van de exportvermindering wordt berekend door het gewicht van de in de verpakking, bedoeld in het eerste lid, verwerkte materiaalsoorten, gemeten in kilogrammen, te vermenigvuldigen met de tarieven per materiaalsoort, genoemd in [artikel 86, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01).
+2. De hoogte van het bedrag van de exportvermindering wordt berekend door het gewicht van de in de verpakking, bedoeld in het eerste lid, verwerkte materiaalsoorten, gemeten in kilogrammen, te vermenigvuldigen met de tarieven per materiaalsoort, genoemd in [artikel 86, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20).
 
 3. Op het bedrag van de exportvermindering wordt een vermindering toegepast tot ten hoogste het bedrag van de exportvermindering.
 
-4. Ingeval de exportvermindering betrekking heeft op één materiaalsoort als bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), is het bedrag van de vermindering, bedoeld in het derde lid: 50 000 vermenigvuldigd met het voor die materiaalsoort geldende tarief, bedoeld in artikel 86, eerste of tweede lid.
+4. Ingeval de exportvermindering betrekking heeft op één materiaalsoort als bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), is het bedrag van de vermindering, bedoeld in het derde lid: 50 000 vermenigvuldigd met het voor die materiaalsoort geldende tarief, bedoeld in artikel 86, eerste of tweede lid.
 
-5. Ingeval de exportvermindering betrekking heeft op twee of meer van de materiaalsoorten, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), is het bedrag van de vermindering, bedoeld in het derde lid, de optelsom van de verminderingen per materiaalsoort, waarbij de vermindering per materiaalsoort bedraagt: 50 000 vermenigvuldigd met het gewichtsaandeel van die materiaalsoort in het totaalgewicht van al die materiaalsoorten samen, vermenigvuldigd met het voor de betreffende materiaalsoort geldende tarief, bedoeld in artikel 86, eerste of tweede lid.
+5. Ingeval de exportvermindering betrekking heeft op twee of meer van de materiaalsoorten, bedoeld in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), is het bedrag van de vermindering, bedoeld in het derde lid, de optelsom van de verminderingen per materiaalsoort, waarbij de vermindering per materiaalsoort bedraagt: 50 000 vermenigvuldigd met het gewichtsaandeel van die materiaalsoort in het totaalgewicht van al die materiaalsoorten samen, vermenigvuldigd met het voor de betreffende materiaalsoort geldende tarief, bedoeld in artikel 86, eerste of tweede lid.
 
-6. Voor de toepassing van dit artikel worden de materiaalsoorten waarvoor in [artikel 86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-01-01&g=2012-01-01), een tarief is bepaald als afzonderlijke materiaalsoorten aangemerkt.
+6. Voor de toepassing van dit artikel worden de materiaalsoorten waarvoor in [artikel 86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=4&artikel=86&z=2012-07-20&g=2012-07-20), een tarief is bepaald als afzonderlijke materiaalsoorten aangemerkt.
 
 ##### Artikel 87b
 
-1. Ingeval na toepassing van [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-01-01&g=2012-01-01) een negatief bedrag resteert, wordt dit bedrag op verzoek van de belastingplichtige uitbetaald.
+1. Ingeval na toepassing van [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-07-20&g=2012-07-20) een negatief bedrag resteert, wordt dit bedrag op verzoek van de belastingplichtige uitbetaald.
 
 2. Het verzoek om uitbetaling, bedoeld in het eerste lid, geschiedt bij de aangifte over het betreffende tijdvak. In gevallen waarin geen aangifte moet worden ingediend, geschiedt het verzoek door het doen van aangifte.
 
 ##### Artikel 87c
 
-1. Voor de ondernemer die geen belastingplichtige is in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-01-01&g=2012-01-01), maar die wel verpakte producten die hij verpakt ter beschikking gesteld heeft gekregen van een producent die hij op zijn beurt in een tijdvak ter beschikking stelt en bij deze terbeschikkingstelling buiten Nederland brengt, zijn de [artikelen 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-01-01&g=2012-01-01) en [87b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87b&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+1. Voor de ondernemer die geen belastingplichtige is in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=2&artikel=83&z=2012-07-20&g=2012-07-20), maar die wel verpakte producten die hij verpakt ter beschikking gesteld heeft gekregen van een producent die hij op zijn beurt in een tijdvak ter beschikking stelt en bij deze terbeschikkingstelling buiten Nederland brengt, zijn de [artikelen 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87a&z=2012-07-20&g=2012-07-20) en [87b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87b&z=2012-07-20&g=2012-07-20) van overeenkomstige toepassing.
 
 2. Het eerste lid is van overeenkomstige toepassing voor de buitenlandse ondernemer.
 
 ##### Artikel 87d
 
-1. De ondernemer, bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87c&z=2012-01-01&g=2012-01-01), is gehouden een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde zijn rechten ter zake van de verpakkingenbelasting hieruit duidelijk blijken.
+1. De ondernemer, bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87c&z=2012-07-20&g=2012-07-20), is gehouden een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde zijn rechten ter zake van de verpakkingenbelasting hieruit duidelijk blijken.
 
 2. Het eerste lid is van overeenkomstige toepassing op de buitenlandse ondernemer.
 
-3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop de ondernemer en de buitenlandse ondernemer, bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87c&z=2012-01-01&g=2012-01-01), een administratie moeten voeren voor de toepassing van de verpakkingenbelasting.
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop de ondernemer en de buitenlandse ondernemer, bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII&afdeling=5a&artikel=87c&z=2012-07-20&g=2012-07-20), een administratie moeten voeren voor de toepassing van de verpakkingenbelasting.
 
 ### Afdeling 4. Tarief
 
