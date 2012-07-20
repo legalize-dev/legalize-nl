@@ -4,7 +4,7 @@ identifier: "BWBR0032671"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-19"
-last_updated: "2012-01-01"
+last_updated: "2012-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032671"
 soort: "wet"
@@ -100,7 +100,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIV
 
