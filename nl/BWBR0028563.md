@@ -4,7 +4,7 @@ identifier: "BWBR0028563"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2012-07-28"
-last_updated: "2011-09-17"
+last_updated: "2012-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028563"
 soort: "wet-BES"
@@ -44,11 +44,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
 
-- **Inspectie:** de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2011-09-17&g=2011-09-17);
+- **Inspectie:** de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28);
 
-- **Inspecteurgeneraal:** de Inspecteurgeneraal voor de volksgezondheid, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17);
+- **Inspecteurgeneraal:** de Inspecteurgeneraal voor de volksgezondheid, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=3&z=2012-07-28&g=2012-07-28);
 
-- **inspecteur:** de inspecteur voor de volksgezondheid, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=4&z=2011-09-17&g=2011-09-17);
+- **inspecteur:** de inspecteur voor de volksgezondheid, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=4&z=2012-07-28&g=2012-07-28);
 
 ### Hoofdstuk 2. Inspectie
 
@@ -82,11 +82,11 @@ Er is een Inspectie voor de Volksgezondheid. Zij is gevestigd in een door Onze M
 
 3. Bij algemene maatregel van bestuur wordt een plaatsvervangend Inspecteurgeneraal benoemd, deze vervangt de Inspecteurgeneraal bij diens afwezigheid wegens ziekte, verlof of ontstentenis. Het tweede lid is van overeenkomstige toepassing.
 
-4. De Inspecteurgeneraal neemt bij de vervulling van zijn taak de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2011-09-17&g=2011-09-17), bedoelde aanwijzingen van Onze Minister in acht.
+4. De Inspecteurgeneraal neemt bij de vervulling van zijn taak de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28), bedoelde aanwijzingen van Onze Minister in acht.
 
 ##### Artikel 4
 
-1. Bij algemene maatregel van bestuur, wordt de Inspectie in onderdelen verdeeld. Ieder onderdeel wordt belast met een of meer delen van de taak, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2011-09-17&g=2011-09-17).
+1. Bij algemene maatregel van bestuur, wordt de Inspectie in onderdelen verdeeld. Ieder onderdeel wordt belast met een of meer delen van de taak, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28).
 
 2. Aan het hoofd van elk onderdeel staat een inspecteur.
 
@@ -106,7 +106,7 @@ Bij algemene maatregel van bestuur, kunnen nadere voorschriften worden gegeven o
 
 1. Op verzoek van de Inspecteurgeneraal kan Onze Minister het bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba verzoeken personeel ter beschikking te stellen aan de Inspectie, ter uitoefening van nader omschreven inspectiewerkzaamheden op dit openbaar lichaam, onder leiding en verantwoordelijkheid van de Inspecteurgeneraal dan wel, indien een inspecteur is aangesteld, van die inspecteur. Het desbetreffende bestuurscollege verleent zoveel mogelijk de gevraagde medewerking.
 
-2. In geval het eerste lid toepassing vindt, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=12&z=2011-09-17&g=2011-09-17) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-09-17&g=2011-09-17) op de ter beschikking gestelde personen van overeenkomstige toepassing.
+2. In geval het eerste lid toepassing vindt, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=12&z=2012-07-28&g=2012-07-28) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2012-07-28&g=2012-07-28) op de ter beschikking gestelde personen van overeenkomstige toepassing.
 
 3. Het bestuurscollege van een openbaar lichaam Bonaire, Sint Eustatius en Saba kan Onze Minister benaderen met het verzoek de Inspecteurgeneraal te verzoeken een nader omschreven inspectieonderzoek te verrichten in dit openbaar lichaam Bonaire, Sint Eustatius en Saba. Onze Minister verleent zoveel mogelijk de gevraagde medewerking.
 
@@ -122,7 +122,7 @@ Het bestuurscollege verstrekt de Inspecteurgeneraal alle door deze verlangde inl
 
 ##### Artikel 10
 
-1. Indien de Inspecteurgeneraal van mening is dat de uitvoering van een wettelijke regeling als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=3&artikel=9&z=2011-09-17&g=2011-09-17) onvoldoende is, geeft hij het bestuurscollege daarvan kennis onder vermelding van de maatregelen die getroffen dienen te worden.
+1. Indien de Inspecteurgeneraal van mening is dat de uitvoering van een wettelijke regeling als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=3&artikel=9&z=2012-07-28&g=2012-07-28) onvoldoende is, geeft hij het bestuurscollege daarvan kennis onder vermelding van de maatregelen die getroffen dienen te worden.
 
 2. Indien de in het eerste lid bedoelde maatregelen niet worden getroffen, dan stelt de inspecteur de gezaghebber daarvan in kennis met het verzoek alsnog op grond van artikel 68, tweede lid, van de Eilandenregeling Nederlandse Antillen, daarin te voorzien.
 
@@ -168,7 +168,7 @@ Het bestuurscollege verstrekt de Inspecteurgeneraal alle door deze verlangde inl
 
 1. Toezichthouders zijn bevoegd, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, inzage te nemen in patiëntendossiers.
 
-2. Beheerders van de in het eerste lid bedoelde dossiers zijn verplicht aan de toezichthouder alle medewerking te verlenen die op grond van het eerste lid wordt gevorderd. [Artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17) is in een zodanig geval niet van toepassing.
+2. Beheerders van de in het eerste lid bedoelde dossiers zijn verplicht aan de toezichthouder alle medewerking te verlenen die op grond van het eerste lid wordt gevorderd. [Artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28) is in een zodanig geval niet van toepassing.
 
 ##### Artikel 14
 
@@ -198,7 +198,7 @@ De Inspectie is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige
 
 3. Indien echter de kosten geheel of gedeeltelijk niet ten laste van de overtreder zullen worden gebracht, wordt dat in de beschikking vermeld.
 
-4. Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=2&artikel=16&z=2011-09-17&g=2011-09-17), is verstreken.
+4. Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=2&artikel=16&z=2012-07-28&g=2012-07-28), is verstreken.
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.
 
@@ -218,7 +218,7 @@ De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de z
 
 ##### Artikel 20
 
-Om aan een beslissing van bestuursdwang uitvoering te geven, komen de personen die daartoe door de Inspectie zijn aangewezen, de bevoegdheden toe, genoemd in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17). Artikel 11, vierde lid, is van toepassing.
+Om aan een beslissing van bestuursdwang uitvoering te geven, komen de personen die daartoe door de Inspectie zijn aangewezen, de bevoegdheden toe, genoemd in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28). Artikel 11, vierde lid, is van toepassing.
 
 ##### Artikel 21
 
@@ -268,7 +268,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 1. Verbeurde dwangsommen komen toe aan de openbare lichamen Bonaire, Sint Eustatius en Saba zijn. De Inspectie kan bij dwangbevel het verschuldigde bedrag invorderen.
 
-2. [Artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=2&artikel=18&z=2011-09-17&g=2011-09-17), is van toepassing.
+2. [Artikel 18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=2&artikel=18&z=2012-07-28&g=2012-07-28), is van toepassing.
 
 ##### Artikel 26
 
@@ -286,7 +286,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 ##### Artikel 28
 
-1. Ingeval van overtreding van de bij of krachtens de onderscheiden wetten de volksgezondheid betreffende gegeven voorschriften alsmede van de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-09-17&g=2011-09-17), van deze wet kan de Inspectie aan de overtreder een boete opleggen van ten hoogste een geldboete van de zesde categorie.
+1. Ingeval van overtreding van de bij of krachtens de onderscheiden wetten de volksgezondheid betreffende gegeven voorschriften alsmede van de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2012-07-28&g=2012-07-28), van deze wet kan de Inspectie aan de overtreder een boete opleggen van ten hoogste een geldboete van de zesde categorie.
 
 2. De hoogte van de boete wordt in ieder geval afgestemd op de ernst en de duur van de overtreding, alsmede op de mate waarin de overtreder daarvan een verwijt kan worden gemaakt.
 
@@ -296,17 +296,17 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 ##### Artikel 29
 
-1. Met het onderzoek zijn belast de personen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17).
+1. Met het onderzoek zijn belast de personen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28).
 
-2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17).
+2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28).
 
 ##### Artikel 30
 
-Indien de personen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17), een redelijk vermoeden hebben dat een bepaalde natuurlijke persoon of rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon ter zake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling ter zake om informatie wordt gevraagd.
+Indien de personen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28), een redelijk vermoeden hebben dat een bepaalde natuurlijke persoon of rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon ter zake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling ter zake om informatie wordt gevraagd.
 
 ##### Artikel 31
 
-1. Een persoon als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17), die vaststelt dat een overtreding is begaan, maakt daarvan een rapport op.
+1. Een persoon als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28), die vaststelt dat een overtreding is begaan, maakt daarvan een rapport op.
 
 2. In het rapport worden in ieder geval vermeld:
 
@@ -322,7 +322,7 @@ Indien de personen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.
 
 ##### Artikel 32
 
-1. De belanghebbende wordt schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2011-09-17&g=2011-09-17), bedoelde rapport.
+1. De belanghebbende wordt schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2012-07-28&g=2012-07-28), bedoelde rapport.
 
 2. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt de Inspectie er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
@@ -338,15 +338,15 @@ Indien de personen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.
 
 3. Op verzoek van de belanghebbende die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de Inspectie er zoveel mogelijk zorg voor dat de inhoud van de beschikking aan de betrokkene wordt meegedeeld in een voor hem begrijpelijke taal
 
-4. De beschikking dient te worden gegeven binnen twaalf weken nadat het rapport, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2011-09-17&g=2011-09-17), is opgemaakt, tenzij binnen deze termijn het rapport aan het openbaar Ministerie is gezonden. In dat geval kan een boete worden opgelegd binnen twaalf weken nadat het openbaar Ministerie aan de Inspectie heeft meegedeeld dat geen strafvervolging wordt ingesteld.
+4. De beschikking dient te worden gegeven binnen twaalf weken nadat het rapport, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2012-07-28&g=2012-07-28), is opgemaakt, tenzij binnen deze termijn het rapport aan het openbaar Ministerie is gezonden. In dat geval kan een boete worden opgelegd binnen twaalf weken nadat het openbaar Ministerie aan de Inspectie heeft meegedeeld dat geen strafvervolging wordt ingesteld.
 
 ##### Artikel 34
 
-De werkzaamheden die verband houden met de uitvoering van de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=32&z=2011-09-17&g=2011-09-17) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=33&z=2011-09-17&g=2011-09-17) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2011-09-17&g=2011-09-17) bedoelde rapport en het daaraan voorafgaande onderzoek.
+De werkzaamheden die verband houden met de uitvoering van de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=32&z=2012-07-28&g=2012-07-28) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=33&z=2012-07-28&g=2012-07-28) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=31&z=2012-07-28&g=2012-07-28) bedoelde rapport en het daaraan voorafgaande onderzoek.
 
 ##### Artikel 35
 
-De werking van een beschikking als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=33&z=2011-09-17&g=2011-09-17), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van een beschikking als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=33&z=2012-07-28&g=2012-07-28), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 36
 
@@ -358,7 +358,7 @@ De werking van een beschikking als bedoeld in [artikel 33, eerste lid](https://w
 
 ##### Artikel 37
 
-1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=36&z=2011-09-17&g=2011-09-17), kan de Inspectie van de overtreder de verschuldigde boete, verhoogd met de krachtens artikel 36, tweede lid, verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
+1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=4&artikel=36&z=2012-07-28&g=2012-07-28), kan de Inspectie van de overtreder de verschuldigde boete, verhoogd met de krachtens artikel 36, tweede lid, verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
 
 2. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&boek=2).
 
@@ -384,13 +384,13 @@ De bevoegdheid tot het opleggen van een boete vervalt vijf jaar nadat de overtre
 
 ##### Artikel 40
 
-1. Handelen in strijd met de in de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2011-09-17&g=2011-09-17), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-09-17&g=2011-09-17), vervatte verplichting wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij geldboete van ten hoogste een geldboete van de vijfde categorie, hetzij met beide straffen.
+1. Handelen in strijd met de in de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=11&z=2012-07-28&g=2012-07-28), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4&paragraaf=1&artikel=13&z=2012-07-28&g=2012-07-28), vervatte verplichting wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij geldboete van ten hoogste een geldboete van de vijfde categorie, hetzij met beide straffen.
 
 2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 
 ##### Artikel 41
 
-1. Degene die opzettelijk de bij [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=5&artikel=42&z=2011-09-17&g=2011-09-17) opgelegde plicht tot geheimhouding schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren hetzij met een geldboete van ten hoogste een geldboete van de vijfde categorie, hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een misdrijf.
+1. Degene die opzettelijk de bij [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=5&artikel=42&z=2012-07-28&g=2012-07-28) opgelegde plicht tot geheimhouding schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren hetzij met een geldboete van ten hoogste een geldboete van de vijfde categorie, hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een misdrijf.
 
 2. Degene aan wiens schuld schending van de geheimhouding te wijten is, wordt gestraft met hechtenis van ten hoogste zes maanden hetzij met een geldboete van ten hoogste een geldboete van de zesde categorie, hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een overtreding.
 
@@ -416,4 +416,4 @@ Eenieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikki
 
 ##### Artikel 45
 
-Deze wet wordt aangehaald als: Wet Inspectie voor de Volksgezondheid BES.
+Deze wet wordt aangehaald als: Wet Inspectie Biociden BES.
