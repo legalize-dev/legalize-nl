@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2011-08-01"
+last_updated: "2012-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -81,6 +81,7 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Dierwetenschappen (leertraject onderwijsbevoegdheid Biologie)4 | 56849 | Wageningen Universiteit | " |
 | Plantenwetenschappen (leertraject onderwijsbevoegdheid Biologie)5 | 56835 | Wageningen Universiteit | " |
 | Duitse Taal en Cultuur | 56805 |   | Leraar Duits |
+| Chinastudies | 56818 |   | Leraar Chinees |
 | Economie | 56401 |   | Leraar Economie |
 | Economie en bedrijfseconomie | 50950 |   | " |
 | Bedrijfskunde | 50645 |   | " |
@@ -96,7 +97,6 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Godgeleerdheid | 56100 |   | Leraar Godsdienst en levensbeschouwing |
 | Theologie | 56109 |   | " |
 | Wereldgodsdiensten | 50202 |   | " |
-| Godsdienstwetenschap | 56800 |   | " |
 | Religiestudies | 50902 |   | " |
 | Religie en levensbeschouwing | 56114 |   | " |
 | Islamitische Theologie | 56120 |   | " |
@@ -105,8 +105,8 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Technische Informatica | 56964 |   | " |
 | Informatiekunde | 56842 | Universiteit van Amsterdam; Universiteit Utrecht | " |
 | Elektrotechniek | 56953 | TU Delft; TU Eindhoven; Universiteit Twente | " |
-| Electrical engineering | 56943 | “ | " |
-| Bedrijfsinformatietechnologie | 56066 | “ | " |
+| Electrical engineering | 56943 | " | " |
+| Bedrijfsinformatietechnologie | 56066 | " | " |
 | Kennistechnologie | 50300 | Universiteit Maastricht | " |
 | Italiaanse Taal en Cultuur | 56809 |   | Leraar Italiaans |
 | Kunstgeschiedenis | 56824 |   | Leraar Kunstvakken-I en Kunstvakken-II |
@@ -170,7 +170,6 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Advanced Technology | 50002 | " | " |
 | Maritieme Techniek | 56957 | " | " |
 | Technische Natuurkunde | 56962 | " | " |
-| Afstudeerrichting Turks van de opleiding Arabische, Nieuwperzisch en Turkse Talen en culturen | 56016 |   | Leraar Turks |
 | Wiskunde | 56980 |   | Leraar Wiskunde |
 | Technische Wiskunde | 56965 |   | " |
 | Natuurkunde | 50206 |   | " |
