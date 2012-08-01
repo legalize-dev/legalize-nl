@@ -145,19 +145,3 @@ Dit besluit wordt aangehaald als: Besluit uitwisseling leer- en begeleidingsgege
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. Bewaartermijn
-
-Het onderwijskundig rapport wordt bewaard tot vijf jaar na uitschrijving van de leerling.
-
-#### Paragraaf 3. Leer- en begeleidingsgegevens die met het persoonsgebonden nummer mogen worden uitgewisseld
-
-#### Paragraaf 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a. Omhangbepaling
-
-Dit besluit berust mede op [artikel 8.17, vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.17).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
