@@ -4,7 +4,7 @@ identifier: "BWBV0004617"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-08-01"
-last_updated: "2010-09-10"
+last_updated: "2012-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004617"
 soort: "verdrag"
@@ -98,7 +98,7 @@ Teneinde de implementatie van de bepalingen van dit Verdrag mogelijk te maken wo
 
 ##### Artikel 5. Uitwisseling van informatie op verzoek
 
-1. De bevoegde autoriteit van de aangezochte partij verstrekt op schriftelijk verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2010-09-10&g=2010-09-10) bedoelde doeleinden.
+1. De bevoegde autoriteit van de aangezochte partij verstrekt op schriftelijk verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2012-08-01&g=2012-08-01) bedoelde doeleinden.
 
 Deze informatie wordt uitgewisseld ongeacht of de aangezochte partij de informatie ten behoeve van haar eigen belastingheffing nodig heeft en of de te onderzoeken gedragingen strafbaar zouden zijn krachtens de wetgeving van de aangezochte partij indien zij in de aangezochte partij zouden hebben plaatsgevonden.
 
@@ -154,7 +154,7 @@ Deze informatie wordt uitgewisseld ongeacht of de aangezochte partij de informat
 
 1. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan of indien openbaarmaking van de verzochte informatie in strijd zou zijn met de openbare orde (**ordre public**).
 
-2. De bepalingen van dit Verdrag verplichten een verdragsluitende partij niet informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel, of beroepsgeheim (vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger, indien deze plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies of ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures) of een handelsproces zou onthullen, met dien verstande dat de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=5&z=2010-09-10&g=2010-09-10), omschreven informatie niet uitsluitend op grond van dat feit als geheim of handelsproces wordt behandeld.
+2. De bepalingen van dit Verdrag verplichten een verdragsluitende partij niet informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel, of beroepsgeheim (vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger, indien deze plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies of ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures) of een handelsproces zou onthullen, met dien verstande dat de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=5&z=2012-08-01&g=2012-08-01), omschreven informatie niet uitsluitend op grond van dat feit als geheim of handelsproces wordt behandeld.
 
 3. Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.
 
@@ -166,7 +166,7 @@ Deze informatie wordt uitgewisseld ongeacht of de aangezochte partij de informat
 
 1. Alle door de bevoegde autoriteit van een verdragsluitende partij verschafte of ontvangen informatie wordt vertrouwelijk behandeld.
 
-2. Aan de bevoegde autoriteit van de verzoekende partij verschafte informatie kan uitsluitend voor andere dan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2010-09-10&g=2010-09-10) vermelde doeleinden worden gebruikt na de uitdrukkelijke schriftelijke toestemming van de aangezochte partij.
+2. Aan de bevoegde autoriteit van de verzoekende partij verschafte informatie kan uitsluitend voor andere dan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2012-08-01&g=2012-08-01) vermelde doeleinden worden gebruikt na de uitdrukkelijke schriftelijke toestemming van de aangezochte partij.
 
 3. Verstrekte informatie wordt uitsluitend bekendgemaakt aan personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke autoriteiten) die betrokken zijn bij de in dit Verdrag omschreven doeleinden en uitsluitend voor deze doeleinden door die personen of autoriteiten gebruikt. Voor deze doeleinden mag informatie worden onthuld tijdens openbare rechtszittingen of bij rechterlijke beslissingen.
 
@@ -184,7 +184,7 @@ De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om 
 
 1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de verdragsluitende partijen met betrekking tot de toepassing of de uitlegging van dit Verdrag in onderling overleg op te lossen.
 
-2. Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg overeenstemming bereiken over de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=5&z=2010-09-10&g=2010-09-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=6&z=2010-09-10&g=2010-09-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=9&z=2010-09-10&g=2010-09-10) te hanteren procedures.
+2. Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg overeenstemming bereiken over de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=5&z=2012-08-01&g=2012-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=6&z=2012-08-01&g=2012-08-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=9&z=2012-08-01&g=2012-08-01) te hanteren procedures.
 
 3. De bevoegde autoriteiten van de verdragsluitende partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde de overeenstemming als bedoeld in dit artikel te bereiken.
 
@@ -196,7 +196,7 @@ Elk van de verdragsluitende partijen stelt de andere langs diplomatieke weg schr
 
 - a. strafrechtelijke belastingzaken vanaf die datum; en
 
-- b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2010-09-10&g=2010-09-10) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
+- b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=1&z=2012-08-01&g=2012-08-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
 
 ##### Artikel 13. Beëindiging
 
@@ -204,7 +204,7 @@ Elk van de verdragsluitende partijen stelt de andere langs diplomatieke weg schr
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij.
 
-3. Indien het Verdrag wordt beëindigd, blijven de verdragsluitende partijen gebonden door de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=8&z=2010-09-10&g=2010-09-10) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie. Alle verzoeken die worden ontvangen voor de datum waarop het Verdrag beëindigd is, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
+3. Indien het Verdrag wordt beëindigd, blijven de verdragsluitende partijen gebonden door de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=8&z=2012-08-01&g=2012-08-01) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie. Alle verzoeken die worden ontvangen voor de datum waarop het Verdrag beëindigd is, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door de respectieve partijen, dit Verdrag hebben ondertekend.
 
