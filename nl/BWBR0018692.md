@@ -4,7 +4,7 @@ identifier: "BWBR0018692"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2006-08-01"
+last_updated: "2012-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018692"
 soort: "AMvB"
@@ -174,7 +174,7 @@ In deze titel wordt verstaan onder:
 
 - b. beschikt de leraar over de volgende kennis:
 
-- 1°. hij beheerst de leerinhouden van de vak- en vormingsgebieden, zoals beschreven in de kerndoelen voor het primair onderwijs,
+- 1°. hij beheerst de leerinhouden van de vak- en vormingsgebieden, zoals beschreven in de kerndoelen, de referentieniveaus Nederlandse taal en de referentieniveaus rekenen voor het primair onderwijs,
 
 - 2°. hij kent het belang van die leerinhouden voor het dagelijks leven van basisschoolkinderen en weet hoe zij die leerinhouden gebruiken,
 
@@ -700,7 +700,7 @@ In deze titel wordt verstaan onder:
 
 - b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op grond van het eerste lid, in het betrokken schooljaar niet groter is dan 5% van het totale aantal lessen dat wordt gegeven in die hogere leerjaren.
 
-### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten primair onderwijs
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ##### Artikel 4.1. Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
