@@ -4,7 +4,7 @@ identifier: "BWBR0029609"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2011-08-01"
+last_updated: "2012-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029609"
 soort: "AMvB-BES"
@@ -694,7 +694,7 @@ In deze titel wordt verstaan onder:
 
 - b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op grond van het eerste lid, in het betrokken schooljaar niet groter is dan 5% van het totale aantal lessen dat wordt gegeven in die hogere leerjaren.
 
-### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten primair onderwijs
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ##### Artikel 4.1. Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
