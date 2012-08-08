@@ -4,7 +4,7 @@ identifier: "BWBV0005505"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-08-08"
-last_updated: "2011-09-28"
+last_updated: "2012-08-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005505"
 soort: "verdrag"
@@ -51,13 +51,13 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - b. onder „luchtvaartautoriteiten” wordt verstaan: voor de Socialistische Republiek Vietnam, de autoriteit voor de burgerluchtvaart van het ministerie van Vervoer en Verbindingen van Vietnam; voor het Koninkrijk der Nederlanden, de Minister van Infrastructuur en Milieu; of in beide gevallen een persoon die of lichaam dat bevoegd is tot uitvoering van alle taken die thans worden uitgevoerd door bovengenoemde Minister of organisatie;
 
-- c. onder „aangewezen luchtvaartmaatschappij” wordt verstaan: een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=4&z=2011-09-28&g=2011-09-28) van deze Overeenkomst;
+- c. onder „aangewezen luchtvaartmaatschappij” wordt verstaan: een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=4&z=2012-08-08&g=2012-08-08) van deze Overeenkomst;
 
 - d. onder „grondgebied” wordt met betrekking tot een Staat verstaan de gebieden aan land (vasteland en eilanden), de territoriale wateren die daaraan grenzen en het luchtruim boven de gebieden aan land en de territoriale wateren die vallen onder de soevereiniteit van die Staat;
 
 - e. de begrippen „luchtdienst”, „internationale luchtdienst”, „luchtvaartmaatschappij” en „landing anders dan voor verkeersdoeleinden” hebben de betekenis die daaraan in [artikel 96 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96) onderscheidenlijk wordt toegekend;
 
-- f. onder „overeengekomen dienst” en „omschreven route” wordt onderscheidenlijk verstaan: een internationale luchtdienst ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=2&z=2011-09-28&g=2011-09-28) van deze Overeenkomst en de in het desbetreffende gedeelte van de Bijlage bij deze Overeenkomst omschreven route;
+- f. onder „overeengekomen dienst” en „omschreven route” wordt onderscheidenlijk verstaan: een internationale luchtdienst ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=2&z=2012-08-08&g=2012-08-08) van deze Overeenkomst en de in het desbetreffende gedeelte van de Bijlage bij deze Overeenkomst omschreven route;
 
 - g. onder „boordproviand” wordt verstaan: consumptiegoederen bestemd voor gebruik of verkoop aan boord van een luchtvaartuig tijdens de vlucht, met inbegrip van verstrekte etenswaren en dranken;
 
@@ -101,9 +101,9 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 2. Na ontvangst van bedoelde kennisgeving verleent elke Overeenkomstsluitende Partij onverwijld aan de aldus door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij, met inachtneming van de bepalingen van dit artikel, de vereiste exploitatievergunningen.
 
-3. Na ontvangst van de in het tweede lid van dit artikel bedoelde exploitatievergunning kan de aangewezen luchtvaartmaatschappij te allen tijde een aanvang maken met de gehele of gedeeltelijke exploitatie van de overeengekomen diensten, mits zij aan de bepalingen van deze Overeenkomst voldoet en de tarieven voor deze diensten zijn vastgesteld in overeenstemming met de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=6&z=2011-09-28&g=2011-09-28) van deze Overeenkomst.
+3. Na ontvangst van de in het tweede lid van dit artikel bedoelde exploitatievergunning kan de aangewezen luchtvaartmaatschappij te allen tijde een aanvang maken met de gehele of gedeeltelijke exploitatie van de overeengekomen diensten, mits zij aan de bepalingen van deze Overeenkomst voldoet en de tarieven voor deze diensten zijn vastgesteld in overeenstemming met de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=6&z=2012-08-08&g=2012-08-08) van deze Overeenkomst.
 
-4. Elke Overeenkomstsluitende Partij heeft het recht de in het tweede lid van dit artikel bedoelde exploitatievergunning te weigeren of deze vergunning te verlenen onder noodzakelijk geachte voorwaarden ter zake van de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=2&z=2011-09-28&g=2011-09-28) van deze Overeenkomst omschreven rechten door de aangewezen luchtvaartmaatschappij, indien niet te haren genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van, en het daadwerkelijke toezicht op die luchtvaartmaatschappij berusten bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen en/of bij haar onderdanen.
+4. Elke Overeenkomstsluitende Partij heeft het recht de in het tweede lid van dit artikel bedoelde exploitatievergunning te weigeren of deze vergunning te verlenen onder noodzakelijk geachte voorwaarden ter zake van de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=2&z=2012-08-08&g=2012-08-08) van deze Overeenkomst omschreven rechten door de aangewezen luchtvaartmaatschappij, indien niet te haren genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van, en het daadwerkelijke toezicht op die luchtvaartmaatschappij berusten bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen en/of bij haar onderdanen.
 
 ##### Artikel 5. Intrekking of opschorting van vergunningen
 
@@ -299,7 +299,7 @@ of Vietnam
 
 3. Elke Overeenkomstsluitende Partij moedigt overleg aan tussen de bevoegde inningsautoriteiten op haar grondgebied en de aangewezen luchtvaartmaatschappij of luchtvaartmaatschappijen die gebruik maakt of gebruikmaken van de diensten en voorzieningen. Elke Overeenkomstsluitende Partij moedigt de bevoegde inningsautoriteiten en de luchtvaartmaatschappijen aan de informatie uit te wisselen die nodig kan zijn ten behoeve van een accurate en transparante toetsing van de redelijkheid van de heffingen in overeenstemming met de beginselen omschreven in het eerste en tweede lid van dit artikel. Elke Overeenkomstsluitende Partij moedigt de bevoegde inningsautoriteiten aan de gebruikers binnen een redelijke termijn in kennis te stellen van voorstellen tot wijziging van de gebruiksheffingen zodat de gebruikers in de gelegenheid zijn hun mening kenbaar te maken voordat de wijzigingen ten uitvoer worden gelegd.
 
-4. Geen van de Overeenkomstsluitende Partijen wordt bij procedures voor de regeling van geschillen uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=17&z=2011-09-28&g=2011-09-28) van deze Overeenkomst geacht inbreuk te maken op een bepaling van dit artikel, indien:
+4. Geen van de Overeenkomstsluitende Partijen wordt bij procedures voor de regeling van geschillen uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=17&z=2012-08-08&g=2012-08-08) van deze Overeenkomst geacht inbreuk te maken op een bepaling van dit artikel, indien:
 
 - (i). zij de heffing of praktijk waarop een klacht van de andere Overeenkomstsluitende Partij betrekking heeft binnen een redelijke termijn heeft getoetst, en
 
@@ -309,7 +309,7 @@ of Vietnam
 
 1. Elke Overeenkomstsluitende Partij kan te allen tijde verzoeken om overleg inzake door de andere Overeenkomstsluitende Partij aanvaarde veiligheidsnormen op elk gebied met betrekking tot vliegtuigbemanning, luchtvaartuigen of hun exploitatie. Dergelijk overleg vindt plaats binnen 30 (dertig) dagen na dat verzoek.
 
-2. Indien een Overeenkomstsluitende Partij na dergelijk overleg oordeelt dat de andere Overeenkomstsluitende Partij op een van die gebieden de veiligheidsnormen en -eisen die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) zijn vastgesteld niet op doeltreffende wijze handhaaft en toepast, stelt de eerstgenoemde Overeenkomstsluitende Partij de andere Overeenkomstsluitende Partij in kennis van dit oordeel en de noodzakelijk geachte stappen om te voldoen aan die minimumnormen en neemt die andere Overeenkomstsluitende Partij passende corrigerende maatregelen. Indien de andere Overeenkomstsluitende Partij nalaat binnen vijftien (15) dagen, of binnen een langere termijn als overeen te komen, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=5&z=2011-09-28&g=2011-09-28) (Intrekking of opschorting van vergunningen) van deze Overeenkomst.
+2. Indien een Overeenkomstsluitende Partij na dergelijk overleg oordeelt dat de andere Overeenkomstsluitende Partij op een van die gebieden de veiligheidsnormen en -eisen die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) zijn vastgesteld niet op doeltreffende wijze handhaaft en toepast, stelt de eerstgenoemde Overeenkomstsluitende Partij de andere Overeenkomstsluitende Partij in kennis van dit oordeel en de noodzakelijk geachte stappen om te voldoen aan die minimumnormen en neemt die andere Overeenkomstsluitende Partij passende corrigerende maatregelen. Indien de andere Overeenkomstsluitende Partij nalaat binnen vijftien (15) dagen, of binnen een langere termijn als overeen te komen, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005505&artikel=5&z=2012-08-08&g=2012-08-08) (Intrekking of opschorting van vergunningen) van deze Overeenkomst.
 
 3. Onverminderd de verplichtingen bedoeld in [artikel 33 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33) wordt overeengekomen dat elk luchtvaartuig dat door of op grond van een leaseovereenkomst namens de luchtvaartmaatschappij of luchtvaartmaatschappijen van de ene Overeenkomstsluitende Partij wordt geëxploiteerd op diensten naar of vanuit het grondgebied van de andere Overeenkomstsluitende Partij, terwijl het zich op het grondgebied van de andere Overeenkomstsluitende Partij bevindt, mag worden onderworpen aan een inspectie door de bevoegde vertegenwoordigers van de andere Overeenkomstsluitende Partij, aan boord en rond het luchtvaartuig om zowel de geldigheid van de documenten van het luchtvaartuig als die van zijn bemanning en de kennelijke toestand van het luchtvaartuig en zijn uitrusting te controleren (platforminspectie), mits dit niet leidt tot onredelijke vertraging.
 
