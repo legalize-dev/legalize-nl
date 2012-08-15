@@ -4,7 +4,7 @@ identifier: "BWBV0005396"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-08-15"
-last_updated: "2003-10-17"
+last_updated: "2012-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005396"
 soort: "verdrag"
@@ -98,7 +98,7 @@ Voor de toepassing van dit Verdrag:
 
 - 4. wordt verstaan onder „staten die partij zijn” de staten die door dit Verdrag gebonden zijn en waar dit Verdrag van kracht is.
 
-- 5. Dit Verdrag is van overeenkomstige toepassing op de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2003-10-17&g=2003-10-17) bedoelde gebieden die partij bij dit Verdrag worden in overeenstemming met de in dat artikel vervatte voorwaarden. De uitdrukking „staten die partij zijn” heeft in zoverre ook betrekking op dergelijke gebieden.
+- 5. Dit Verdrag is van overeenkomstige toepassing op de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2012-08-15&g=2012-08-15) bedoelde gebieden die partij bij dit Verdrag worden in overeenstemming met de in dat artikel vervatte voorwaarden. De uitdrukking „staten die partij zijn” heeft in zoverre ook betrekking op dergelijke gebieden.
 
 ##### Artikel 3. Verhouding tot andere internationale instrumenten
 
@@ -122,7 +122,7 @@ Niets in dit Verdrag mag zodanig worden uitgelegd dat:
 
 1. Een Intergouvernementeel Comité voor de bescherming van het immaterieel cultureel erfgoed, hierna te noemen „het Comité”, wordt hierbij binnen UNESCO opgericht.
 
-Het Comité is samengesteld uit afgevaardigden van 18 staten die partij zijn, die gekozen worden door de staten die partij zijn in de Algemene Vergadering, zodra dit Verdrag in werking treedt in overeenstemming met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=34&z=2003-10-17&g=2003-10-17).
+Het Comité is samengesteld uit afgevaardigden van 18 staten die partij zijn, die gekozen worden door de staten die partij zijn in de Algemene Vergadering, zodra dit Verdrag in werking treedt in overeenstemming met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=34&z=2012-08-15&g=2012-08-15).
 
 2. Het aantal staten dat lid is van het Comité wordt tot 24 uitgebreid zodra 50 staten partij bij het Verdrag zijn geworden.
 
@@ -150,19 +150,19 @@ Onverminderd de overige bevoegdheden waarmee het uit hoofde van dit Verdrag is b
 
 - b. het geven van richtsnoeren over voorbeeldpraktijken en het doen van aanbevelingen inzake maatregelen voor de bescherming van het immaterieel cultureel erfgoed;
 
-- c. het opstellen en ter goedkeuring aan de Algemene Vergadering voorleggen van een ontwerpplan voor de inzet van de middelen van het Fonds in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=25&z=2003-10-17&g=2003-10-17);
+- c. het opstellen en ter goedkeuring aan de Algemene Vergadering voorleggen van een ontwerpplan voor de inzet van de middelen van het Fonds in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=25&z=2012-08-15&g=2012-08-15);
 
-- d. het zoeken naar manieren om zijn middelen te vergroten en hiertoe de nodige maatregelen nemen in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=25&z=2003-10-17&g=2003-10-17);
+- d. het zoeken naar manieren om zijn middelen te vergroten en hiertoe de nodige maatregelen nemen in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=25&z=2012-08-15&g=2012-08-15);
 
 - e. het opstellen en ter goedkeuring aan de Algemene Vergadering voorleggen van operationele richtlijnen voor de uitvoering van dit Verdrag;
 
-- f. het bestuderen, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2003-10-17&g=2003-10-17), van de verslagen die zijn ingediend door de staten die partij zijn en deze ten behoeve van de Algemene Vergadering samenvatten;
+- f. het bestuderen, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2012-08-15&g=2012-08-15), van de verslagen die zijn ingediend door de staten die partij zijn en deze ten behoeve van de Algemene Vergadering samenvatten;
 
 - g. het onderzoeken van door de staten die partij zijn ingediende verzoeken en hierover een besluit nemen, in overeenstemming met door het Comité vast te stellen en door de Algemene Vergadering goed te keuren objectieve selectiecriteria voor:
 
-- i. opname in de lijsten en voorstellen die in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=16&z=2003-10-17&g=2003-10-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=17&z=2003-10-17&g=2003-10-17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=18&z=2003-10-17&g=2003-10-17) worden genoemd;
+- i. opname in de lijsten en voorstellen die in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=16&z=2012-08-15&g=2012-08-15), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=17&z=2012-08-15&g=2012-08-15) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=18&z=2012-08-15&g=2012-08-15) worden genoemd;
 
-- ii. het toekennen van internationale bijstand in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=22&z=2003-10-17&g=2003-10-17).
+- ii. het toekennen van internationale bijstand in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=22&z=2012-08-15&g=2012-08-15).
 
 ##### Artikel 8. Werkmethoden van het Comité
 
@@ -194,13 +194,13 @@ Elke staat die partij is:
 
 - a. neemt de maatregelen die nodig zijn om de bescherming te waarborgen van het immaterieel cultureel erfgoed dat op zijn grondgebied aanwezig is;
 
-- b. identificeert en definieert, als een van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=I&artikel=2&z=2003-10-17&g=2003-10-17), bedoelde maatregelen inzake bescherming, de verschillende elementen van het op zijn grondgebied aanwezige immaterieel cultureel erfgoed, met de medewerking van gemeenschappen, groepen en relevante niet-gouvernementele organisaties.
+- b. identificeert en definieert, als een van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=I&artikel=2&z=2012-08-15&g=2012-08-15), bedoelde maatregelen inzake bescherming, de verschillende elementen van het op zijn grondgebied aanwezige immaterieel cultureel erfgoed, met de medewerking van gemeenschappen, groepen en relevante niet-gouvernementele organisaties.
 
 ##### Artikel 12. Inventarissen
 
 1. Om de identificatie ten behoeve van bescherming te waarborgen, maakt elke staat die partij is, op een wijze die afgestemd is op zijn eigen situatie, een of meer inventarissen van het op zijn grondgebied aanwezige immaterieel cultureel erfgoed. Deze inventarissen worden regelmatig bijgewerkt.
 
-2. In het verslag dat elke staat die partij is, periodiek bij het Comité indient, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2003-10-17&g=2003-10-17), wordt relevante informatie over dergelijke inventarissen opgenomen.
+2. In het verslag dat elke staat die partij is, periodiek bij het Comité indient, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2012-08-15&g=2012-08-15), wordt relevante informatie over dergelijke inventarissen opgenomen.
 
 ##### Artikel 13. Overige maatregelen voor bescherming
 
@@ -280,7 +280,7 @@ Internationale bijstand kan voor de volgende doelstellingen worden verleend:
 
 - a. de bescherming van het erfgoed dat is opgenomen in de Lijst van het immaterieel cultureel erfgoed dat dringend bescherming behoeft;
 
-- b. het opstellen van inventarissen in de zin van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=III&artikel=11&z=2003-10-17&g=2003-10-17) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=III&artikel=12&z=2003-10-17&g=2003-10-17);
+- b. het opstellen van inventarissen in de zin van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=III&artikel=11&z=2012-08-15&g=2012-08-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=III&artikel=12&z=2012-08-15&g=2012-08-15);
 
 - c. ondersteuning voor programma’s, projecten en activiteiten die op nationaal, subregionaal en regionaal niveau worden uitgevoerd en bedoeld zijn om het immaterieel cultureel erfgoed te beschermen;
 
@@ -288,7 +288,7 @@ Internationale bijstand kan voor de volgende doelstellingen worden verleend:
 
 ##### Artikel 21. Vormen van internationale bijstand
 
-Op de bijstand die het Comité verleent aan een staat die partij is zijn de operationele richtlijnen zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=7&z=2003-10-17&g=2003-10-17) en de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=24&z=2003-10-17&g=2003-10-17) bedoelde overeenkomst van toepassing. Deze bijstand kan de volgende vormen aannemen:
+Op de bijstand die het Comité verleent aan een staat die partij is zijn de operationele richtlijnen zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=7&z=2012-08-15&g=2012-08-15) en de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=24&z=2012-08-15&g=2012-08-15) bedoelde overeenkomst van toepassing. Deze bijstand kan de volgende vormen aannemen:
 
 - a. onderzoeken naar verschillende aspecten van bescherming;
 
@@ -318,7 +318,7 @@ Op de bijstand die het Comité verleent aan een staat die partij is zijn de oper
 
 2. Een dergelijke aanvraag kan ook gezamenlijk worden ingediend door twee of meer staten die partij zijn.
 
-3. Een aanvraag dient de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=22&z=2003-10-17&g=2003-10-17), vermelde informatie te bevatten, tezamen met de nodige documentatie.
+3. Een aanvraag dient de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=V&artikel=22&z=2012-08-15&g=2012-08-15), vermelde informatie te bevatten, tezamen met de nodige documentatie.
 
 ##### Artikel 24. Rol van begunstigde staten die partij zijn
 
@@ -366,17 +366,17 @@ Op de bijstand die het Comité verleent aan een staat die partij is zijn de oper
 
 1. Zonder afbreuk te doen aan aanvullende vrijwillige bijdragen, verbinden de staten die partij zijn bij dit Verdrag zich ertoe ten minste elke twee jaar een bijdrage aan het Fonds te betalen. De hoogte van het bedrag, in de vorm van een gelijk percentage dat op alle staten van toepassing is, wordt door de Algemene Vergadering bepaald. Het besluit van de Algemene Vergadering wordt genomen bij een meerderheid van de staten die partij zijn, die aanwezig zijn en hun stem uitbrengen en die niet de in het tweede lid van dit artikel bedoelde verklaring hebben afgelegd. In geen geval mag de bijdrage van een staat die partij is hoger zijn dan 1% van zijn bijdrage aan de gewone begroting van UNESCO.
 
-2. Elke staat die bedoeld wordt in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=32&z=2003-10-17&g=2003-10-17) of in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2003-10-17&g=2003-10-17) van dit Verdrag kan evenwel op het moment van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij niet gebonden is door de bepalingen van het eerste lid van dit artikel.
+2. Elke staat die bedoeld wordt in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=32&z=2012-08-15&g=2012-08-15) of in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2012-08-15&g=2012-08-15) van dit Verdrag kan evenwel op het moment van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij niet gebonden is door de bepalingen van het eerste lid van dit artikel.
 
 3. Een staat die partij is bij dit Verdrag die de in het tweede lid van dit artikel bedoelde verklaring heeft afgelegd, streeft ernaar genoemde verklaring in te trekken door de Directeur-Generaal van UNESCO daarvan in kennis te stellen. Het intrekken van de verklaring heeft evenwel geen gevolgen voor de door de staat verschuldigde bijdrage tot de datum waarop de volgende zitting van de Algemene Vergadering aanvangt.
 
 4. Teneinde het Comité in staat te stellen zijn werkzaamheden effectief te plannen, worden de bijdragen van de staten die partij zijn bij dit Verdrag die de in het tweede lid van dit artikel bedoelde verklaring hebben afgelegd, regelmatig, maar ten minste elke twee jaar, betaald. Deze bijdragen dienen de bijdragen, die zij verschuldigd zouden zijn indien zij gebonden zouden zijn door de bepalingen van het eerste lid van dit artikel, zo dicht mogelijk te benaderen.
 
-5. Elke staat die partij is bij dit Verdrag die achterstallig is met de betaling van zijn verplichte of vrijwillige bijdrage voor het lopende jaar en het onmiddellijk daaraan voorafgaande kalenderjaar, is niet verkiesbaar als lid van het Comité; deze bepaling is niet van toepassing bij de eerste verkiezing. De zittingstermijn van een dergelijke staat die reeds lid is van het Comité wordt beëindigd op het tijdstip waarop de verkiezing wordt gehouden, die in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=6&z=2003-10-17&g=2003-10-17) van dit Verdrag is voorzien.
+5. Elke staat die partij is bij dit Verdrag die achterstallig is met de betaling van zijn verplichte of vrijwillige bijdrage voor het lopende jaar en het onmiddellijk daaraan voorafgaande kalenderjaar, is niet verkiesbaar als lid van het Comité; deze bepaling is niet van toepassing bij de eerste verkiezing. De zittingstermijn van een dergelijke staat die reeds lid is van het Comité wordt beëindigd op het tijdstip waarop de verkiezing wordt gehouden, die in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=6&z=2012-08-15&g=2012-08-15) van dit Verdrag is voorzien.
 
 ##### Artikel 27. Vrijwillige bijdragen aan het Fonds
 
-De staten die partij zijn die een vrijwillige bijdrage willen leveren in aanvulling op de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=26&z=2003-10-17&g=2003-10-17) voorziene bijdragen, stellen het Comité hiervan zo spoedig mogelijk in kennis zodat het zijn werkzaamheden dienovereenkomstig kan plannen.
+De staten die partij zijn die een vrijwillige bijdrage willen leveren in aanvulling op de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VI&artikel=26&z=2012-08-15&g=2012-08-15) voorziene bijdragen, stellen het Comité hiervan zo spoedig mogelijk in kennis zodat het zijn werkzaamheden dienovereenkomstig kan plannen.
 
 ##### Artikel 28. Internationale campagnes voor het werven van fondsen
 
@@ -390,7 +390,7 @@ De staten die partij zijn dienen bij het Comité verslagen in van de wetgevende,
 
 ##### Artikel 30. Verslagen van het Comité
 
-1. Op basis van zijn activiteiten en de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2003-10-17&g=2003-10-17) bedoelde verslagen van de staten die partij zijn, legt het Comité een verslag voor aan de Algemene Vergadering telkens wanneer hij in zitting bijeenkomt.
+1. Op basis van zijn activiteiten en de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=VII&artikel=29&z=2012-08-15&g=2012-08-15) bedoelde verslagen van de staten die partij zijn, legt het Comité een verslag voor aan de Algemene Vergadering telkens wanneer hij in zitting bijeenkomt.
 
 2. Het verslag wordt onder de aandacht gebracht van de Algemene Conferentie van UNESCO.
 
@@ -400,7 +400,7 @@ De staten die partij zijn dienen bij het Comité verslagen in van de wetgevende,
 
 1. Het Comité neemt in de Representatieve Lijst van het immaterieel cultureel erfgoed van de mensheid de items op die voor de inwerkingtreding van dit Verdrag zijn uitgeroepen tot „meesterwerken van het oraal en immaterieel erfgoed van de mensheid”.
 
-2. Het opnemen van deze items in de Representatieve Lijst van het immaterieel cultureel erfgoed van de mensheid doet op geen enkele wijze afbreuk aan de criteria voor toekomstige inschrijvingen waartoe in overeenstemming met [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=16&z=2003-10-17&g=2003-10-17), wordt besloten.
+2. Het opnemen van deze items in de Representatieve Lijst van het immaterieel cultureel erfgoed van de mensheid doet op geen enkele wijze afbreuk aan de criteria voor toekomstige inschrijvingen waartoe in overeenstemming met [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IV&artikel=16&z=2012-08-15&g=2012-08-15), wordt besloten.
 
 3. Er wordt geen verdere proclamatie gedaan na de inwerkingtreding van dit Verdrag.
 
@@ -442,7 +442,7 @@ De volgende bepalingen zijn van toepassing op staten die partij zijn met een fed
 
 ##### Artikel 37. Taken van de depositaris
 
-De Directeur-Generaal van UNESCO stelt, als depositaris van dit Verdrag, de staten die lid zijn van de Organisatie, de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2003-10-17&g=2003-10-17) bedoelde staten die geen lid zijn van de Organisatie en de Verenigde Naties in kennis van de nederlegging van alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zoals voorzien in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=32&z=2003-10-17&g=2003-10-17) en 33 en van alle opzeggingen zoals voorzien in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=36&z=2003-10-17&g=2003-10-17).
+De Directeur-Generaal van UNESCO stelt, als depositaris van dit Verdrag, de staten die lid zijn van de Organisatie, de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=33&z=2012-08-15&g=2012-08-15) bedoelde staten die geen lid zijn van de Organisatie en de Verenigde Naties in kennis van de nederlegging van alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zoals voorzien in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=32&z=2012-08-15&g=2012-08-15) en 33 en van alle opzeggingen zoals voorzien in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=IX&artikel=36&z=2012-08-15&g=2012-08-15).
 
 ##### Artikel 38. Wijzigingen
 
@@ -456,7 +456,7 @@ De Directeur-Generaal van UNESCO stelt, als depositaris van dit Verdrag, de stat
 
 Vervolgens treedt de genoemde wijziging voor elke staat die partij is die deze bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt in werking drie maanden na de datum van de nederlegging door die staat die partij is van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-5. De procedure vervat in het derde en vierde lid is niet van toepassing op wijzigingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=5&z=2003-10-17&g=2003-10-17) betreffende het aantal staten dat lid is van het Comité. Deze wijzigingen treden in werking op het tijdstip waarop zij worden aangenomen.
+5. De procedure vervat in het derde en vierde lid is niet van toepassing op wijzigingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005396&hoofdstuk=II&artikel=5&z=2012-08-15&g=2012-08-15) betreffende het aantal staten dat lid is van het Comité. Deze wijzigingen treden in werking op het tijdstip waarop zij worden aangenomen.
 
 6. Een staat die partij wordt bij dit Verdrag na de inwerkingtreding van wijzigingen overeenkomstig het vierde lid van dit artikel wordt, tenzij hij blijk geeft van een andere bedoeling, geacht:
 
