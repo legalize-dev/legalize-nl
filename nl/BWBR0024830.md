@@ -4,7 +4,7 @@ identifier: "BWBR0024830"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-08-16"
-last_updated: "2009-01-02"
+last_updated: "2012-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024830"
 soort: "pbo"
@@ -37,7 +37,7 @@ entry_into_force: "2009-01-02"
 
 Overwegende dat het gewenst is regelen te stellen met betrekking tot de kwaliteit en de integriteit van de notaris en de kandidaat-notaris;
 
-Gelet op [artikel 61, tweede lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61);
+Gelet op [artikel 61 a, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61a);
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -73,13 +73,9 @@ In deze verordening wordt verstaan onder:
 
 2. Notarissen verstrekken deze inlichtingen door overlegging van een eigen verklaring en door deel te nemen aan een intercollegiale kwaliteitstoetsing of nadere toetsing op hun kantoor.
 
-3. Onderdeel van de intercollegiale kwaliteitstoetsing is een onderzoek naar de opzet en werking van de administratieve organisatie ter naleving van het bepaalde bij of krachtens de Wet voorkoming witwassen en terrorismefinanciering.
-
 ##### Artikel 3
 
-1. De notarissen zijn verplicht medewerking te verlenen aan de uitvoering van de intercollegiale kwaliteitstoetsing of nadere toetsing. Zij zijn niet bevoegd zich op hun geheimhoudingsplicht te beroepen tegenover de toetsers.
-
-2. De toetsers zijn verplicht al hetgeen waarvan zij in het kader van de uitoefening van deze functie kennis nemen en dat onder de notariële geheimhoudingplicht valt vertrouwelijk te behandelen en niet te openbaren aan anderen dan aan hen aan wie zij conform de wettelijke voorschriften daartoe zijn verplicht.
+Vervallen
 
 ##### Artikel 4
 
