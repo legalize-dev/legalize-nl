@@ -4,7 +4,7 @@ identifier: "BWBV0002888"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-09-12"
-last_updated: "2006-10-15"
+last_updated: "2012-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002888"
 soort: "verdrag"
@@ -297,9 +297,15 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 ##### Artikel 18. Bijzondere Fondsen
 
-1. De Bank kan het beheer op zich nemen van Bijzondere Fondsen die zijn bedoeld om bij te dragen aan de verwezenlijking van het doel van de Bank en die binnen haar taken vallen. De volledige kosten van het beheer van een zodanig Bijzonder Fonds worden ten laste van het desbetreffende Bijzondere Fonds gebracht.
+- i. De Bank kan het beheer op zich nemen van Bijzondere Fondsen die zijn bedoeld om bij te dragen aan de verwezenlijking van het doel van de Bank en die binnen haar taken vallen in de ontvangende landen en mogelijk ontvangende landen. De volledige kosten van het beheer van een zodanig Bijzonder Fonds worden ten laste van het desbetreffende Bijzondere Fonds gebracht.
 
-2. Bijzondere Fondsen die door de Bank zijn aanvaard, kunnen worden gebruikt op wijzen en op voorwaarden die verenigbaar zijn met het doel en de taken van de Bank, met de overige toepasselijke bepalingen van deze Overeenkomst en met de overeenkomst(en) betreffende bedoelde Fondsen.
+- ii. Voor de toepassing van onderdeel (i) kan de Raad van Gouverneurs op verzoek van een lid dat geen ontvangend land is bepalen dat dat lid kan worden aangemerkt als mogelijk ontvangend land gedurende een beperkt tijdvak en onder voorwaarden die wenselijk worden geacht. Deze beslissing wordt genomen na te zijn bevestigd bij stemming door ten minste twee derde van de Gouverneurs die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigen.
+
+- iii. De beslissing een lid in de gelegenheid te stellen aangemerkt te worden als mogelijk ontvangend land kan uitsluitend worden genomen indien het lid kan voldoen aan de vereisten die worden gesteld aan ontvangende landen. Deze vereisten zijn vervat in artikel 1 van deze Overeenkomst zoals dat luidt ten tijde van dat besluit of zoals het zal luiden na de inwerkingtreding van een wijziging welke op het tijdstip van het besluit reeds is goedgekeurd door de Raad van Gouverneurs.
+
+- iv. Indien een mogelijk ontvangend land aan het eind van het tijdvak bedoeld in onderdeel (ii). geen ontvangend land is geworden, staakt de Bank overwijld alle bijzondere werkzaamheden in dat land, behalve die werkzaamheden die verband houden met het ordelijk uitvoeren, behouden en instandhouden van de vermogensbestanddelen van het Bijzondere Fonds en de vereffening van verplichtingen die in verband daarmee zijn ontstaan.
+
+2. Bijzondere Fondsen die door de Bank zijn aanvaard, kunnen in de ontvangende en mogelijk ontvangende landen worden gebruikt op wijzen en op voorwaarden die verenigbaar zijn met het doel en de taken van de Bank, met de overige toepasselijke bepalingen van deze Overeenkomst en met de overeenkomst(en) betreffende bedoelde Fondsen.
 
 3. De Bank neemt de regels en voorschriften aan die noodzakelijk zijn voor het instellen, het beheer en het gebruik van elk Bijzonder Fonds. Die regels en voorschriften mogen niet in strijd zijn met de bepalingen van deze Overeenkomst, met uitzondering van de bepalingen die uitdrukkelijk alleen van toepassing zijn op de gewone werkzaamheden van de Bank.
 
