@@ -4,7 +4,7 @@ identifier: "BWBR0031911"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-08-24"
-last_updated: "2012-05-01"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031911"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Het secretariaat van het Audit Committee berust bij de directie Financieel Econo
 
 ##### Artikel 7. Bezoldiging onafhankelijke externe leden
 
-1. De door de minister benoemde onafhankelijke externe leden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031911&artikel=3&z=2012-08-24&g=2012-05-01), ontvangen voor het bijwonen van een door het Audit Committee georganiseerde vergadering per maand een vergoeding ter hoogte van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De door de minister benoemde onafhankelijke externe leden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031911&artikel=3&z=2012-08-24&g=2012-08-24), ontvangen voor het bijwonen van een door het Audit Committee georganiseerde vergadering per maand een vergoeding ter hoogte van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 2. Aan onafhankelijke externe leden als bedoeld in het eerste lid die naast het bijwonen van door het Audit Committee georganiseerde vergaderingen andere werkzaamheden ten behoeve van het Audit Committee verrichten, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor wordt vastgesteld aan de hand van de vast te stellen omvang van de werkzaamheden.
 
