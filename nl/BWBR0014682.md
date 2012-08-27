@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2010-05-29"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -58,11 +58,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. cellen: afzonderlijke cellen van menselijke oorsprong of een verzameling cellen van menselijke oorsprong die niet door bindweefsel met elkaar verbonden zijn;
 
-- e. verkrijgen: een proces waardoor lichaamsmateriaal beschikbaar komt;
+- e. verkrijgen: een proces waardoor lichaamsmateriaal of een gedoneerd orgaan beschikbaar komt;
 
 - f. bewerken: alle handelingen die worden verricht bij het prepareren, manipuleren, preserveren en verpakken van lichaamsmateriaal;
 
-- g. preserveren: het gebruik van chemische stoffen, wijzigingen in de omgevingscondities of andere middelen tijdens de bewerking, bedoeld om biologische of fysieke achteruitgang van het lichaamsmateriaal te voorkomen of te vertragen;
+- g. preserveren: het gebruik van chemische stoffen, wijzigingen in de omgevingscondities of andere middelen tijdens de bewerking, bedoeld om biologische of fysieke achteruitgang van het lichaamsmateriaal te voorkomen of te vertragen of bedoeld om biologische of fysieke achteruitgang van organen van het tijdstip vanaf de verkrijging tot de transplantatie te voorkomen of te vertragen;
 
 - h. bewaren: het onder gepaste gecontroleerde omstandigheden handhaven van lichaamsmateriaal tot de distributie ervan;
 
@@ -76,9 +76,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - m. orgaancentrum: een instelling als bedoeld in [artikel 24 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=24);
 
-- n. richtlijn: richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+- n. EU-richtlijn weefsels en cellen: de door de Onze Minister aan te wijzen richtlijn;
 
-2. Een wijziging van de richtlijn gaat voor de toepassing van het bepaalde bij of krachtens de Wet veiligheid en kwaliteit lichaamsmateriaal gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. Bij vervanging of wijziging van de richtlijn kan het eerste lid, onderdeel n, en kunnen de artikelen uit de richtlijn waarnaar in de bepalingen van de Wet veiligheid en kwaliteit lichaamsmateriaal wordt verwezen, bij regeling van Onze Minister worden gewijzigd.
+- o. EU-richtlijn orgaantransplantatie: de door Onze Minister aan te wijzen richtlijn;
+
+- p. orgaan: een gedifferentieerd, vitaal deel van het menselijk lichaam, dat is opgebouwd uit verschillende weefsels en zijn structuur, vasculatie en vermogen om met een aanzienlijke autonomie fysiologische functies te ontwikkelen, behoudt. Een deel van een orgaan wordt ook als orgaan beschouwd als het als functie heeft in het menselijk lichaam te worden gebruikt voor dezelfde doeleinden als die van het gehele orgaan, met behoud van de vereisten inzake structuur en vasculatie;
+
+- q. donor: elke menselijke bron, dood of levend, van lichaamsmateriaal of een persoon die bij leven of na overlijden één of meerdere organen doneert;
+
+- r. ontvanger: een persoon bij wie een orgaan geïmplanteerd wordt;
+
+- s. verkrijgingsorganisatie: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of een persoon of een andere instantie die organen verkrijgt of de verkrijging daarvan coördineert en een toelating heeft op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5);
+
+- t. transplantatie: een proces dat tot doel heeft bepaalde functies van het menselijke lichaam te herstellen door een orgaan over te brengen van een donor naar een ontvanger;
+
+- u. transplantatiecentrum: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of andere instantie die menselijke organen transplanteert en daartoe op grond van de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) een vergunning heeft;
+
+- v. verwijdering: de eindbestemming van een orgaan wanneer dat niet voor transplantatie wordt gebruikt.
+
+2. Een wijziging van de richtlijnen bedoeld in het eerste lid, onderdelen n en o gaat voor de toepassing van het bepaalde bij of krachtens de Wet veiligheid en kwaliteit lichaamsmateriaal gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 2
 
@@ -110,9 +126,17 @@ Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels 
 
 Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweede lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=18) is bepaald dat het voor implantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven.
 
-##### Artikel 6
+##### Artikel 9
 
-Vervallen
+1. Het is verboden zonder erkenning van Onze Minister lichaamsmateriaal in ontvangst te nemen na het verkrijgen, of het te bewerken, te preserveren, te bewaren of te distribueren.
+
+2. Een erkenning kan worden verleend voor een of meer van de in het eerste lid genoemde handelingen en voor een of meer soorten van lichaamsmateriaal.
+
+3. Een erkenning kan uitsluitend worden verleend aan een rechtspersoon die geen orgaancentrum is en, indien het een orgaanbank betreft, waarvan het doel blijkens de statuten niet is het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen. Een erkenning voor het in ontvangst nemen van lichaamsmateriaal met het oog op implantatie in de zin van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) wordt geweigerd indien een doelmatige voorziening in de behoefte aan lichaamsmateriaal niet is gebaat bij verlening van de erkenning dan wel een doelmatige samenwerking met andere orgaanbanken en met orgaancentra niet is verzekerd.
+
+4. Ter uitvoering van de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake erkenning, aanwijzing, machtiging of vergunning van weefselinstellingen worden bij regeling van Onze Minister voorschriften vastgesteld waaraan een instelling moet voldoen om voor erkenning in aanmerking te komen.
+
+5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
 ##### Artikel 7
 
@@ -152,15 +176,9 @@ Vervallen
 
 5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
-##### Artikel 10
+##### Artikel 6
 
-1. Een erkenning kan onder beperkingen worden verleend. Aan een erkenning kunnen voorschriften worden verbonden.
-
-2. Tot de voorschriften behoren in ieder geval voorschriften inzake de preparatietechnieken voor weefsels en cellen ter uitvoering van artikel 28, onder g, van de richtlijn.
-
-3. Een beperking of voorschrift kan worden gewijzigd of ingetrokken. Ook na het verlenen van de erkenning kunnen daaraan beperkingen worden gesteld of voorschriften worden verbonden.
-
-4. Een weefselinstelling mag haar werkzaamheden niet ingrijpend wijzigen zonder voorafgaande schriftelijke toestemming van Onze Minister.
+Vervallen
 
 ##### Artikel 11
 
@@ -170,9 +188,9 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 1. Het is verboden voor donoren vereiste tests van lichaamsmateriaal te verrichten zonder vergunning van Onze Minister.
 
-2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het de in artikel 28, onder e, van de richtlijn bedoelde tests op verantwoorde wijze kan verrichten.
+2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten.
 
-3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2010-05-29&g=2010-05-29) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2010-05-29&g=2010-05-29) zijn van overeenkomstige toepassing.
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2012-08-27&g=2012-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2012-08-27&g=2012-08-27) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -182,21 +200,29 @@ Vervallen
 
 Vervallen
 
-##### Artikel 15
+##### Artikel 19
 
-Vervallen
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
 
-##### Artikel 16
+##### Artikel 20
 
-Vervallen
+Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter aflevering voorhanden heeft, waarvan hij weet of redelijkerwijs moet vermoeden dat de geschiktheid voor toepassing op de mens geheel of in ernstige mate ontbreekt, verboden dat lichaamsmateriaal af te leveren.
 
-##### Artikel 17
+##### Artikel 21
 
-Vervallen
+1. Ongeoorloofde toegang tot gegevens of systemen waarmee de identificatie van donoren of ontvangers mogelijk wordt, is verboden.
 
-##### Artikel 18
+2. Behoudens het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) en [21 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=21), is elk gebruik van systemen of gegevens waarmee identificatie van donoren of ontvangers mogelijk wordt met als doel donoren of ontvangers te traceren voor andere doeleinden dan hun geneeskundige behandeling verboden.
 
-Vervallen
+##### Artikel 22
+
+1. Het orgaancentrum ziet toe op de orgaanuitwisseling met een ander land dan een lidstaat van de Europese Unie. Daartoe kan het orgaancentrum een overeenkomst sluiten met haar tegenhangers in derde landen.
+
+2. Orgaanuitwisseling met een ander land dan een lidstaat van de Europese Unie kan slechts plaatsvinden indien het orgaan:
+
+- a. van de donor tot de ontvanger en omgekeerd kan worden getraceerd;
+
+- b. voldoet aan de kwaliteits- en veiligheidseisen die gelijkwaardig zijn aan de voorschriften van de EU-richtlijn orgaantransplantatie.
 
 ### Hoofdstuk IV. Handhaving
 
@@ -218,6 +244,90 @@ Vervallen
 
 Vervallen
 
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+Vervallen
+
+##### Artikel 15
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 20a
+
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2012-08-27&g=2012-08-27), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2012-08-27&g=2012-08-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2012-08-27&g=2012-08-27), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2012-08-27&g=2012-08-27), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2012-08-27&g=2012-08-27).
+
+##### Artikel 21
+
+Vervallen
+
+### Hoofdstuk V. Overgangs- en slotbepalingen
+
+##### Artikel 22
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3a
+
+De verkrijging van organen vindt zonder winstoogmerk plaats.
+
+### Hoofdstuk II. Behandeling van lichaamsmateriaal
+
+### Hoofdstuk IIa. Eisen met betrekking tot de keten van orgaandonatie tot orgaantransplantatie
+
+##### Artikel 8a
+
+Het orgaancentrum stelt een protocol inzake kwaliteit en veiligheid op voor alle stadia van de keten van donatie tot transplantatie of verwijdering en verstrekt passende richtsnoeren aan verkrijgingsorganisaties, transplantatiecentra, personeel in de gezondheidszorg en andere betrokken partijen in de keten van donatie tot transplantatie of verwijdering. Het protocol inzake kwaliteit en veiligheid is in overeenstemming met de regels die de EU-richtlijn orgaantransplantatie met betrekking tot dit protocol stelt.
+
+##### Artikel 8b
+
+Verkrijging van organen vindt plaats in een verkrijgingsorganisatie die voldoet aan de voorschriften van de EU-richtlijn orgaantransplantatie.
+
+##### Artikel 8c
+
+1. Het orgaancentrum houdt een register bij van de werkzaamheden van verkrijgingsorganisaties en transplantatiecentra met geaggregeerde aantallen levende en overleden donoren en de soorten en aantallen verkregen en getransplanteerde of niet voor transplantatie gebruikte organen.
+
+2. Het orgaancentrum neemt de in het eerste lid bedoelde informatie op in haar jaarverslag en maakt deze openbaar.
+
+##### Artikel 8d
+
+Onze Minister stelt een geactualiseerd register op van verkrijgingsorganisaties en transplantatiecentra.
+
+### Hoofdstuk III. Erkenning en vergunning
+
+##### Artikel 10
+
+1. Een erkenning kan onder beperkingen worden verleend. Aan een erkenning kunnen voorschriften worden verbonden.
+
+2. Tot de voorschriften behoren in ieder geval voorschriften inzake de preparatietechnieken voor weefsels en cellen ter uitvoering van de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake de preparatietechnieken voor weefsels en cellen.
+
+3. Een beperking of voorschrift kan worden gewijzigd of ingetrokken. Ook na het verlenen van de erkenning kunnen daaraan beperkingen worden gesteld of voorschriften worden verbonden.
+
+4. Een weefselinstelling mag haar werkzaamheden niet ingrijpend wijzigen zonder voorafgaande schriftelijke toestemming van Onze Minister.
+
+##### Artikel 16
+
+Vervallen
+
+##### Artikel 17
+
+Vervallen
+
+##### Artikel 18
+
+Vervallen
+
+### Hoofdstuk IV. Handhaving
+
+### Hoofdstuk V. Overgangs- en slotbepalingen
+
 ##### Artikel 23
 
 Een vergunning, verleend aan een orgaanbank op grond van [artikel 28 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=28), wordt gelijkgesteld met een erkenning op grond van deze wet.
@@ -229,21 +339,5 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 25
 
 Deze wet wordt aangehaald als: Wet veiligheid en kwaliteit lichaamsmateriaal.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 20a
-
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2010-05-29&g=2010-05-29), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2010-05-29&g=2010-05-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2010-05-29&g=2010-05-29), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2010-05-29&g=2010-05-29), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2010-05-29&g=2010-05-29).
-
-##### Artikel 21
-
-Vervallen
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-##### Artikel 22
-
-Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
