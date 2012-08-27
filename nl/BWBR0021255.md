@@ -4,7 +4,7 @@ identifier: "BWBR0021255"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2007-06-01"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021255"
 soort: "AMvB"
@@ -54,25 +54,35 @@ Hebben goedgevonden en verstaan:
 
 - a. wet: de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682);
 
-- b. donor: elke menselijke bron, dood of levend, van lichaamsmateriaal;
+- b. donatie: het doneren van lichaamsmateriaal of van organen voor transplantatie;
 
-- c. donatie: het doneren van lichaamsmateriaal;
+- c. quarantaine: de status van uitgenomen lichaamsmateriaal, dan wel van weefsel dat fysisch of op een andere doeltreffende wijze is geïsoleerd, in afwachting van een beslissing over de vrijgave of afkeuring ervan;
 
-- d. orgaan: een gedifferentieerd, vitaal deel van het menselijk lichaam, dat is opgebouwd uit verschillende weefsels en zijn structuur, vascularisatie en vermogen om met een aanzienlijke autonomie fysiologische functies te ontwikkelen, behoudt;
+- d. **ernstig ongewenst voorval:** een ongewenst en voor zover het de donatie van een orgaan betreft onverwacht voorval in verband met het verkrijgen, testen, bewerken, bewaren en distribueren van lichaamsmateriaal of dat zich ergens in de keten van donatie tot transplantatie voordoet, en dat voor een patiënt besmetting met een overdraagbare ziekte, overlijden, levensgevaar, invaliditeit of arbeidsongeschiktheid tot gevolg kan hebben, dan wel zou kunnen leiden tot opname in een ziekenhuis of de duur van de ziekte verlengt, of voor zover het de transplantatie van organen betreft de duur van de ziekenhuisopname of van de ziekte verlengt;
 
-- e. quarantaine: de status van uitgenomen lichaamsmateriaal, dan wel van weefsel dat fysisch of op een andere doeltreffende wijze is geïsoleerd, in afwachting van een beslissing over de vrijgave of afkeuring ervan;
+- e. **ernstige ongewenste bijwerking:** een onbedoelde reactie, met inbegrip van een overdraagbare ziekte, bij de donor of de ontvanger in verband met het verkrijgen of toepassen op de mens van lichaamsmateriaal of die zich mogelijkerwijs ergens in de keten van donatie tot transplantatie bij de levende donor of de ontvanger voordoet en die dodelijk is, levensgevaar oplevert, invaliditeit of arbeidsongeschiktheid veroorzaakt of tot gevolg kan hebben dan wel leidt tot opname in een ziekenhuis of de duur van ziekenhuisopname verlengt of tot ziekte leidt danwel de ziekte verlengt;
 
-- f. ernstig ongewenst voorval: een ongewenst voorval in verband met het verkrijgen, testen, bewerken, bewaren en distribueren van lichaamsmateriaal, dat voor een patiënt overlijden, levensgevaar, invaliditeit, arbeidsongeschiktheid of besmetting met een overdraagbare ziekte tot gevolg kan hebben, dan wel zou kunnen leiden tot opname in een ziekenhuis of de duur van de ziekte verlengt;
+- f. **karakterisatie van de donor:** de verzameling van de relevante informatie over de kenmerken van de donor die nodig is om diens geschiktheid voor orgaandonatie te beoordelen, ten einde een deugdelijke risicobeoordeling uit te voeren en de risico’s voor de ontvanger zo klein mogelijk te maken en om de toewijzing van organen te optimaliseren;
 
-- g. ernstige bijwerking: een onbedoelde reactie, met inbegrip van een overdraagbare ziekte, bij de donor of de ontvanger in verband met het verkrijgen of het toepassen op de mens van lichaamsmateriaal, die dodelijk is, levensgevaar oplevert, invaliditeit of arbeidsongeschiktheid veroorzaakt, dan wel leidt tot opname in een ziekenhuis of de duur van de ziekte verlengt.
+- g. **karakterisatie van het orgaan:** de verzameling van de relevante informatie over de kenmerken van het orgaan die nodig is om de geschiktheid van het orgaan te evalueren, teneinde een deugdelijke risicobeoordeling uit te voeren en de risico’s voor de ontvanger zo klein mogelijk te maken om de toewijzing van organen te optimaliseren;
 
-2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2007-06-01&g=2007-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2007-06-01&g=2007-06-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2007-06-01&g=2007-06-01) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
+- h. **werkprocedures:** schriftelijke instructies waarin de stappen van een bepaald proces worden beschreven, met inbegrip van de te gebruiken materialen en methoden en het verwachte eindresultaat.
+
+- i. **traceerbaarheid:** de mogelijkheid om het orgaan in elk stadium van de keten van donatie tot transplantatie of verwijdering te lokaliseren en te indentificeren, daaronder begrepen de mogelijkheid om:
+
+- –. de donor en de verkrijgingsorganisatie te identificeren;
+
+- –. de ontvanger in het transplantatiecentrum te identificeren;
+
+- –. alle relevante niet-persoonlijke informatie met betrekking tot de producten en materialen die met het orgaan in aanraking komen, op te sporen en te indentificeren.
+
+2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2012-08-27&g=2012-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2012-08-27&g=2012-08-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2012-08-27&g=2012-08-27) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
 
 ##### Artikel 1.2
 
-1. Een wijziging van de krachtens artikel 28, onder b, c, d, e, f, g en h van de richtlijn gestelde voorschriften gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Het totstandkomen van de krachtens artikel 28, onder b, c, d, e, f en h van de richtlijn gestelde voorschriften wordt door Onze Minister bekendgemaakt in de Staatscourant.
+2. Het totstandkomen van de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften wordt door Onze Minister bekendgemaakt in de Staatscourant.
 
 ### Hoofdstuk 2. Orgaancentrum
 
@@ -134,39 +144,39 @@ Het orgaancentrum kan slechts werkzaamheden aan derden uitbesteden door middel v
 
 ##### Artikel 3.1
 
-Dit hoofdstuk is niet van toepassing op organen.
+Deze paragraaf is niet van toepassing op organen.
 
 ##### Artikel 3.2
 
 1. Het verkrijgen en het testen van lichaamsmateriaal wordt uitgevoerd door personen met een gedegen opleiding en ervaring.
 
-2. Het verkrijgen en het testen van lichaamsmateriaal voldoet aan de krachtens artikel 28, onder b, e en f van de richtlijn gestelde voorschriften.
+2. Het verkrijgen en het testen van lichaamsmateriaal voldoet aan de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften inzake het verkrijgen van lichaamsmateriaal, de voor donoren vereiste laboratoriumtesten en de procedures voor de verkrijging van lichaamsmateriaal en de ontvangst in de weefselinstelling.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verkrijgen en testen van lichaamsmateriaal.
 
 ##### Artikel 3.3
 
-1. De werkzaamheden in verband met het verkrijgen van lichaamsmateriaal worden zodanig uitgevoerd dat donors worden beoordeeld en geselecteerd overeenkomstig de krachtens artikel 28, onder d en e, van de richtlijn gestelde voorschriften en dat het lichaamsmateriaal wordt verkregen, verpakt en vervoerd overeenkomstig de krachtens artikel 28, onder f, van de richtlijn gestelde voorschriften.
+1. De werkzaamheden in verband met het verkrijgen van lichaamsmateriaal worden zodanig uitgevoerd dat donoren worden beoordeeld en geselecteerd overeenkomstig de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake selectiecriteria voor donoren van lichaamsmateriaal en inzake voor donoren vereiste laboratorumtesten en dat het lichaamsmateriaal wordt verkregen, verpakt en vervoerd overeenkomstig de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de verkrijging van lichaamsmateriaal en de ontvangst in de weefselinstelling.
 
-2. In geval van autologe donatie wordt de naleving van de geschiktheidseisen vastgesteld overeenkomstig de krachtens artikel 28, onder d, van de richtlijn gestelde criteria.
+2. In geval van autologe donatie wordt de naleving van de geschiktheidseisen vastgesteld overeenkomstig de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake selectiecriteria voor donoren van lichaamsmateriaal.
 
-3. De resultaten van de donorbeoordeling en de uitgevoerde tests worden vastgelegd en eventuele afwijkende bevindingen worden meegedeeld overeenkomstig de bijlage bij de richtlijn.
+3. De resultaten van de donorbeoordeling en de uitgevoerde tests worden vastgelegd en eventuele afwijkende bevindingen worden meegedeeld overeenkomstig de bijlage bij de EU-richtlijn weefsels en cellen.
 
 ### Hoofdstuk 4. Ontvangen en bewaren
 
 ##### Artikel 4.1
 
-1. De weefselinstelling zorgt ervoor dat alle donaties van lichaamsmateriaal overeenkomstig de krachtens artikel 28, onder e, van de richtlijn gestelde voorschriften worden getest en dat bij de selectie en acceptatie van lichaamsmateriaal wordt voldaan aan de krachtens artikel 28, onder f, van de richtlijn gestelde voorschriften.
+1. De weefselinstelling zorgt ervoor dat alle donaties van lichaamsmateriaal overeenkomstig de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake voor donoren vereiste laboratoriumtesten worden getest en dat bij de selectie en acceptatie van lichaamsmateriaal wordt voldaan aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de verkrijging van lichaamsmateriaal en de ontvangst in een weefselinstelling.
 
-2. De weefselinstelling zorgt ervoor dat het lichaamsmateriaal en de daarbij behorende documentatie voldoen aan de krachtens artikel 28, onder f, van de richtlijn gestelde voorschriften.
+2. De weefselinstelling zorgt ervoor dat het lichaamsmateriaal en de daarbij behorende documentatie voldoen aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de verkrijging van lichaamsmateriaal en de ontvangst in een weefselinstelling.
 
-3. De weefselinstelling verifieert dat de verpakking van het ontvangen menselijk lichaamsmateriaal voldoet aan de krachtens artikel 28, onder f, van de richtlijn gestelde voorschriften en noteert dit. Ontvangen lichaamsmateriaal dat niet voldoet aan die voorschriften wordt niet gebruikt voor medische toepassing op de mens, behoudens indien dat lichaamsmateriaal dermate uniek is dat onverwijlde toepassing ervan levensreddend kan zijn.
+3. De weefselinstelling verifieert dat de verpakking van het ontvangen menselijk lichaamsmateriaal voldoet aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de verkrijging van lichaamsmateriaal en de ontvangst in een weefselinstelling en noteert dit. Ontvangen lichaamsmateriaal dat niet voldoet aan die voorschriften wordt niet gebruikt voor medische toepassing op de mens, behoudens indien dat lichaamsmateriaal dermate uniek is dat onverwijlde toepassing ervan levensreddend kan zijn.
 
 4. De acceptatie of afkeuring van het ontvangen lichaamsmateriaal wordt schriftelijk vastgelegd.
 
-5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2007-06-01&g=2007-06-01).
+5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27).
 
-6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2007-06-01&g=2007-06-01).
+6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2012-08-27&g=2012-08-27).
 
 7. De weefselinstelling ontvangt en bewaart alleen lichaamsmateriaal dat is getest door een laboratorium dat daartoe een vergunning heeft verkregen op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=12).
 
@@ -208,7 +218,7 @@ Dit hoofdstuk is niet van toepassing op organen.
 
 1. Lichaamsmateriaal dat in een weefselinstelling aanwezig is, is te allen tijde identificeerbaar.
 
-2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2007-06-01&g=2007-06-01), alsmede de in artikel 28, onder f en h, van de richtlijn bedoelde gegevens of verwijzingen naar die gegevens.
+2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 ##### Artikel 4.4
 
@@ -228,7 +238,7 @@ Dit hoofdstuk is niet van toepassing op organen.
 
 ##### Artikel 4.5
 
-1. Het personeel van de weefselinstelling dat rechtstreeks is betrokken bij de werkzaamheden waarvoor de weefselinstelling is erkend, is, onder meer wat betreft kennis en ervaring, geschikt voor de uit te voeren werkzaamheden en heeft een krachtens artikel 28, onder c, van de richtlijn vastgestelde opleiding gekregen.
+1. Het personeel van de weefselinstelling dat rechtstreeks is betrokken bij de werkzaamheden waarvoor de weefselinstelling is erkend, is, onder meer wat betreft kennis en ervaring, geschikt voor de uit te voeren werkzaamheden en heeft een opleiding gekregen die voldoet aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake opleiding.
 
 2. De binnen de weefselinstelling te verrichten werkzaamheden en geldende verantwoordelijkheden zijn schriftelijk in functie-omschrijvingen vastgelegd.
 
@@ -252,11 +262,11 @@ Dit hoofdstuk is niet van toepassing op organen.
 
 3. De weefselinstelling houdt de documentatie beschikbaar voor de met het toezicht op de naleving van dit besluit belaste ambtenaren.
 
-4. Het kwaliteitssysteem voldoet aan de krachtens artikel 28, onder c, van de richtlijn gestelde normen en specificaties.
+4. Het kwaliteitssysteem voldoet aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake een kwaliteitssysteem gestelde normen en specificaties.
 
 ##### Artikel 4.7
 
-1. De weefselinstelling zorgt ervoor dat alle procedures voor het bewaren van lichaamsmateriaal in de standaardpraktijkvoorschriften staan beschreven en dat de bewaarcondities voldoen aan de krachtens artikel 28, onder h, van de richtlijn gestelde voorschriften.
+1. De weefselinstelling zorgt ervoor dat alle procedures voor het bewaren van lichaamsmateriaal in de standaardpraktijkvoorschriften staan beschreven en dat de bewaarcondities voldoen aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 2. De weefselinstelling zorgt ervoor dat alle bewaarprocédés onder gecontroleerde omstandigheden plaatsvinden.
 
@@ -268,11 +278,11 @@ Dit hoofdstuk is niet van toepassing op organen.
 
 ##### Artikel 5.1
 
-1. De weefselinstelling neemt in haar standaardpraktijkvoorschriften alle bewerkingen op die van invloed zijn op de kwaliteit en de veiligheid en zorgt ervoor dat deze onder gecontroleerde omstandigheden worden verricht. De weefselinstelling zorgt ervoor dat de gebruikte apparatuur, de omgeving, de procesopzet, de validatie en de controlevoorwaarden in overeenstemming zijn met de krachtens artikel 28, onder g en h, van de richtlijn gestelde voorschriften.
+1. De weefselinstelling neemt in haar standaardpraktijkvoorschriften alle bewerkingen op die van invloed zijn op de kwaliteit en de veiligheid en zorgt ervoor dat deze onder gecontroleerde omstandigheden worden verricht. De weefselinstelling zorgt ervoor dat de gebruikte apparatuur, de omgeving, de procesopzet, de validatie en de controlevoorwaarden in overeenstemming zijn met de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de preparatietechnieken voor lichaamsmateriaal en de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 2. Alle wijzigingen in de voor bewerking van het lichaamsmateriaal toegepaste procédés voldoen eveneens aan de in het eerste lid bedoelde criteria.
 
-3. De weefselinstelling neemt in haar standaardpraktijkvoorschriften speciale regels op voor het hanteren van lichaamsmateriaal dat moet worden afgevoerd, teneinde besmetting van ander lichaamsmateriaal en het personeel te voorkomen.
+3. De weefselinstelling neemt in haar standaardpraktijkvoorschriften speciale regels op voor het hanteren van lichaamsmateriaal dat moet worden afgevoerd, teneinde besmetting van ander lichaamsmateriaal, de bewerkingsomgeving en het personeel te voorkomen.
 
 ##### Artikel 5.2
 
@@ -306,7 +316,7 @@ Dit hoofdstuk is niet van toepassing op organen.
 
 1. De weefselinstelling behoudens indien dat lichaamsmateriaal dermate uniek is dat onverwijlde toepassing ervan levensreddend kan zijn die erkend is voor de distributie van lichaamsmateriaal, draagt zorg voor transport- en afleveringsomstandigheden die de veiligheid en de kwaliteit van het lichaamsmateriaal waarborgen.
 
-2. Bij het transport en de aflevering worden de krachtens artikel 28, onder h, van de richtlijn gestelde voorschriften in acht genomen.
+2. Bij het transport en de aflevering worden de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de distributie van lichaamsmateriaal in acht genomen.
 
 3. De in het eerste lid bedoelde weefselinstelling neemt bij het overdragen van lichaamsmateriaal aan derden in voorkomend geval de bestemming in acht waarvoor overeenkomstig enige wettelijke regeling toestemming is verleend of het ter beschikking is gesteld.
 
@@ -324,7 +334,7 @@ De instelling kan lichaamsmateriaal dat aan haar is afgeleverd met het oog op he
 
 1. De instelling waar lichaamsmateriaal is toegepast op de mens, legt de volgende gegevens vast:
 
-- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2007-06-01&g=2007-06-01);
+- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27);
 
 - b. de soort van het materiaal;
 
@@ -346,13 +356,13 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 ##### Artikel 8.1
 
-1. Het orgaancentrum en de weefselinstelling dragen zorg voor het systematisch melden, onderzoeken, registreren en doorgeven van gegevens over ernstige ongewenste voorvallen en bijwerkingen, die van invloed kunnen zijn op de kwaliteit en de veiligheid van lichaamsmateriaal en mogelijk toe te schrijven zijn aan het verkrijgen, testen, bewerken, bewaren en distribueren van lichaamsmateriaal, en over ernstige ongewenste voorvallen of bijwerkingen die tijdens of na de klinische toepassing worden vastgesteld en die verband kunnen houden met de kwaliteit en de veiligheid van lichaamsmateriaal.
+1. Het orgaancentrum, de weefselinstelling en de arts die verantwoordelijk is voor de medische begeleiding van een patiënt die een orgaan ontvangen heeft, dragen zorg voor het systematisch melden, onderzoeken, registreren en doorgeven van relevante, noodzakelijke gegevens over ernstige ongewenste voorvallen en bijwerkingen die van invloed kunnen zijn op de kwaliteit en de veiligheid van lichaamsmateriaal of van organen en die mogelijk toe te schrijven zijn aan het verkrijgen, testen, karakteriseren, bewerken, bewaren, preserveren, distribueren en vervoeren van lichaamsmateriaal of organen, en over ernstige ongewenste bijwerkingen die tijdens of na een klinische toepassing of na transplantatie worden vastgesteld en die met de kwaliteit en de veiligheid van lichaamsmateriaal of van organen of met de transplantatieactiviteiten verband kunnen houden.
 
-2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2007-06-01&g=2007-06-01), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
+2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2012-08-27&g=2012-08-27), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
 
 3. De weefselinstelling zorgt voor een nauwkeurige, snelle en controleerbare procedure aan de hand waarvan zij producten waarmee ernstige ongewenste voorvallen of bijwerkingen in verband kunnen worden gebracht, uit de distributie kan nemen.
 
-### Hoofdstuk 9. Gegevensbescherming en vertrouwelijkheid
+### Hoofdstuk 6a. Vervoer
 
 ##### Artikel 9.1
 
@@ -366,11 +376,11 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 2. De identiteit van de ontvanger van lichaamsmateriaal wordt niet aan de donor of diens familie bekendgemaakt, en andersom.
 
-### Hoofdstuk 10. Normen
+### Hoofdstuk 7. Gebruiken
 
 ##### Artikel 10.1
 
-Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2007-06-01&g=2007-06-01) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
+Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2012-08-27&g=2012-08-27) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -385,5 +395,89 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11.3
 
 Dit besluit wordt aangehaald als: Eisenbesluit lichaamsmateriaal 2006.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 1. Verkrijgen en testen van lichaamsmateriaal
+
+#### § 2. Verkrijgen van organen
+
+##### Artikel 3.4
+
+1. In een verkrijgingsorganisatie worden medische activiteiten waaronder de selectie en evaluatie van donoren verricht op advies en onder leiding van een arts.
+
+2. Levende donoren worden geselecteerd op grond van hun gezondheid en medische geschiktheid door een arts die daartoe opgeleid is.
+
+##### Artikel 3.5
+
+1. Het orgaancentrum houdt een lijst bij van levende donoren.
+
+2. De arts die verantwoordelijk is voor de medische begeleiding van de donor die bij leven een orgaan gedoneerd heeft, draagt zorg voor het volgen van deze donor nadat de donatie heeft plaatsgevonden.
+
+### Hoofdstuk 4. Ontvangen en bewaren
+
+### Hoofdstuk 5. Bewerken
+
+##### Artikel 5.3
+
+1. De weefselinstelling houdt een register van haar werkzaamheden bij, met informatie over de soort en de hoeveelheid lichaamsmateriaal dat verkregen, getest, gepreserveerd, bewerkt, bewaard, gedistribueerd of anderszins gebruikt is, alsmede over de oorsprong en de bestemming van lichaamsmateriaal dat bestemd is voor toepassing op de mens. Dit register voldoet aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake de procedure voor de verkrijging van lichaamsmateriaal en ontvangst in de weefselinstelling.
+
+2. De weefselinstelling verschaft Onze Minister jaarlijks een verslag van de werkzaamheden, bedoeld in het eerste lid.
+
+### Hoofdstuk 6. Distributie
+
+##### Artikel 6.3
+
+Ingeval van uitwisseling van een orgaan met een andere lidstaat van de Europese Unie overlegt het orgaancentrum aan deze lidstaat de voor de traceerbaarheid van organen benodigde informatie volgens de procedure opgenomen in krachtens de EU-richtlijn orgaantransplantatie vastgestelde uitvoeringsbepalingen inzake de uitwisseling van informatie die noodzakelijk is om de traceerbaarheid van organen te waarborgen.
+
+##### Artikel 6.4
+
+Ingeval van uitwisseling van een orgaan met een andere lidstaat van de Europese Unie draagt het orgaancentrum er zorg voor dat de in de bijlage bij de EU-richtlijn orgaantransplantatie vermelde informatie over de karakterisatie van organen en donoren aan de andere lidstaat waarmee het orgaan wordt uitgewisseld, wordt doorgegeven volgens de procedure opgenomen in krachtens de EU-richtlijn orgaantransplantatie vastgestelde uitvoeringsbepalingen inzake de overdracht van deze informatie.
+
+##### Artikel 6.5
+
+Het vervoer van een orgaan vindt plaats in overeenstemming met de in de EU-richtlijn orgaantransplantatie gestelde regels omtrent het vervoer van organen.
+
+##### Artikel 7.2a
+
+1. Een verkregen orgaan en de donor van wie het orgaan afkomstig is, worden vóór transplantatie gekarakteriseerd door middel van het verzamelen van de in bijlage bij de EU-richtlijn orgaantransplantatie vermelde informatie.
+
+2. De in deel A van de in het eerste lid bedoelde bijlage vermelde informatie omvat de gegevensverzameling die voor iedere donatie ten minste moet worden verzameld. De in deel B van de in het eerste lid bedoelde bijlage vermelde informatie betreft aanvullende gegevens die daarnaast moet worden verzameld voor zover dat op medische gronden noodzakelijk is, in aanmerking nemend de beschikbaarheid van zulke informatie en de bijzondere omstandigheden van het betrokken geval.
+
+3. Onverminderd het bepaalde in het eerste en tweede lid, kan een orgaan ook voor transplantatie in aanmerking komen als niet alle in deel A van de in het eerste lid bedoelde bijlage vermelde gegevens die ten minste moeten worden verzameld, beschikbaar zijn indien in een bijzonder geval een risico-batenanalyse uitwijst dat de verwachte baten voor de ontvanger opwegen tegen het risico van onvolledige gegevens.
+
+4. De testen die vereist zijn voor de in het eerste lid bedoelde karakterisatie vinden plaats in een labaratorium dat beschikt over de in [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=12) bedoelde vergunning en dat zodanige werkprocedures toepast die waarborgen dat de informatie over de in het eerste lid bedoelde karakterisatie het transplantatiecentrum tijdig bereikt.
+
+##### Artikel 7.2b
+
+1. De arts die verantwoordelijk is voor de medische begeleiding van een donor die bij leven een orgaan doneert, spant zich in bij de levende donor alle noodzakelijke informatie in te winnen die van belang is om inzicht te verkrijgen in de gevolgen van donatie.
+
+2. Bij donatie na overlijden spant de arts, die verantwoordelijk was voor de medische begeleiding van betrokkene voor overlijden, zich in om alle informatie die noodzakelijk is om inzicht te verkrijgen in de gevolgen van transplantatie, in te winnen bij de nabestaanden van de overledene of bij andere personen.
+
+3. De in het eerste en tweede lid bedoelde arts maakt de om informatie verzochte personen attent op het belang van snelle overdracht van de gevraagde informatie.
+
+##### Artikel 7.5
+
+Een transplantatiecentrum voldoet aan de voorschriften van de EU-richtlijn orgaantransplantatie.
+
+### Hoofdstuk 8. Ernstige ongewenste voorvallen en bijwerkingen
+
+##### Artikel 8.2
+
+De arts die verantwoordelijk is voor de medische begeleiding van de donor die bij leven een orgaan heeft gedoneerd of van een patiënt die een orgaan ontvangen heeft en het orgaancentrum dragen zorg voor systematische identificatie, melding en beheer van:
+
+- a. voorvallen die eventueel verband kunnen houden met de kwaliteit en veiligheid van het bij leven gedoneerde orgaan en derhalve met de veiligheid van de ontvanger; en
+
+- b. ernstige bijwerkingen bij de donor die bij leven een orgaan gedoneerd heeft en die mogelijkerwijs het gevolg zijn van de donatie.
+
+##### Artikel 8.3
+
+Ingeval van uitwisseling van een orgaan met een andere lidstaat van de Europese Unie draagt het orgaancentrum er zorg voor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld volgens de procedure die is opgenomen in krachtens de EU-richtlijn orgaantransplantatie vastgestelde uitvoeringsbepalingen inzake de melding van ernstig ongewenste voorvallen en bijwerkingen.
+
+### Hoofdstuk 9. Gegevensbescherming en vertrouwelijkheid
+
+### Hoofdstuk 10. Normen
+
+### Hoofdstuk 11. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
