@@ -4,7 +4,7 @@ identifier: "BWBR0031920"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-08-28"
-last_updated: "2012-07-01"
+last_updated: "2012-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031920"
 soort: "zbo"
@@ -121,7 +121,7 @@ Voor de toepassing van [artikel 3:16 van het Bfm BES](https://wetten.overheid.nl
 
 ##### Artikel 5. (vermogensscheiding geldtransactiekantoren)
 
-Dit onderdeel is nog niet inwerking getreden
+In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 3:9, tweede lid, aanhef en onderdelen a en b, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:9), treft een geldtransactiekantoor dat in of vanuit Caribisch Nederland geldtransacties uitvoert in de zin van onderdeel c van de definitie van **geldtransactie** in [artikel 1:1 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:1), adequate maatregelen om de voor de uitvoering van dergelijke geldtransacties ontvangen en nog niet betaalde of betaalbaar gestelde gelden of geldswaarden veilig te stellen.
 
 #### § 3.3. Sanctiewetgeving
 
@@ -131,7 +131,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7. (financiële waarborgen kredietinstellingen)
 
-1. Een kredietinstelling met zetel in een openbaar lichaam berekent haar solvabiliteit en liquiditeit conform de regels ter zake in de rapportagestaten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=4&paragraaf=4.1&artikel=8&z=2012-08-28&g=2012-07-01), en houdt zich in dat kader tevens aan de navolgende voorschriften van de CBCS:
+1. Een kredietinstelling met zetel in een openbaar lichaam berekent haar solvabiliteit en liquiditeit conform de regels ter zake in de rapportagestaten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=4&paragraaf=4.1&artikel=8&z=2012-08-28&g=2012-08-28), en houdt zich in dat kader tevens aan de navolgende voorschriften van de CBCS:
 
 - a. **Supervisory regulations for credit institutions I** 1 Zie http://www.centralbank.an/index.php?eid=1011 en Bijlage I bij de **Regeling financiële markten BES 2010** (Stcrt. 1 oktober 2010, 14616, pag. 1–9). – Extension of credit to Executive Officers, Supervisory Directors, Principal Shareholders and their related interests and to employees of a credit institution (voorschriften inzake het verlenen van krediet door een kredietinstelling aan de leden van haar bestuur en de raad van commissarissen of een vergelijkbaar orgaan, belast met het toezicht op het beleid en de algemene gang van zaken binnen de kredietinstelling, haar aandeelhouders en werknemers);
 
@@ -171,9 +171,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Een kredietinstelling met zetel in de openbare lichamen dient bij DNB de volgende staten in:
 
-- a. **Chart of accounts for Financial institutions** van de CBCS, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=1&z=2012-08-28&g=2012-07-01); of
+- a. **Chart of accounts for Financial institutions** van de CBCS, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=1&z=2012-08-28&g=2012-08-28); of
 
-- b. **Chart of accounts manual for International institutions** van de CBCS, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=2&z=2012-08-28&g=2012-07-01).
+- b. **Chart of accounts manual for International institutions** van de CBCS, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=2&z=2012-08-28&g=2012-08-28).
 
 2. De frequentie waarmee en de termijnen waarbinnen de staten, bedoeld in het eerste lid, worden ingediend, zijn de frequentie en termijnen zoals vermeld in de in het eerste lid genoemde **charts of accounts**. Ook de te hanteren valuta en rekeneenheden en de wijze van afronding zijn zoals vermeld in de in het eerste lid genoemde **charts of accounts**.
 
@@ -189,7 +189,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. voor ‘ANG’ of ‘dollar’: USD.
 
-5. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=1&z=2012-08-28&g=2012-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=2&z=2012-08-28&g=2012-07-01), bedoeld in het eerste lid, liggen voor een ieder kosteloos ter inzage bij DNB.
+5. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=1&z=2012-08-28&g=2012-08-28) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=2&z=2012-08-28&g=2012-08-28), bedoeld in het eerste lid, liggen voor een ieder kosteloos ter inzage bij DNB.
 
 #### § 4.2. Prudentiële voorschriften met betrekking tot verzekeraars
 
@@ -197,9 +197,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Een levensverzekeraar of schadeverzekeraar met zetel in de openbare lichamen dient bij DNB de volgende staten in:
 
-- a. voor het levensverzekeringsbedrijf: de staten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-07-01); en
+- a. voor het levensverzekeringsbedrijf: de staten zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-08-28); en
 
-- b. voor het schadeverzekeringsbedrijf: de staten zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-07-01).
+- b. voor het schadeverzekeringsbedrijf: de staten zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-08-28).
 
 2. De staten die een verzekeraar bij DNB indient, de frequentie waarmee en de termijnen waarbinnen deze staten worden ingediend, alsmede de te hanteren valuta en rekeneenheden en de wijze van afronding, zijn zoals vermeld in de in het eerste lid genoemde staten.
 
@@ -209,13 +209,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. Een verzekeraar die het levensverzekeringsbedrijf onderscheidenlijk het schadeverzekeringsbedrijf uitoefent vanuit een zetel in de openbare lichamen, maakt de volgende staten openbaar:
 
-- a. voor het levensverzekeringsbedrijf: de staten die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-07-01), onder File 101, File 102, File 104, File 128, File S01, File S02 en File S04;
+- a. voor het levensverzekeringsbedrijf: de staten die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-08-28), onder File 101, File 102, File 104, File 128, File S01, File S02 en File S04;
 
-- b. voor het schadeverzekeringsbedrijf: de staten die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-07-01), onder File 201, File 202, File 204 en File 234.
+- b. voor het schadeverzekeringsbedrijf: de staten die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-08-28), onder File 201, File 202, File 204 en File 234.
 
-6. De [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-07-01), bedoeld in het eerste en het vijfde lid, liggen voor een ieder kosteloos ter inzage bij DNB.
+6. De [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=3&z=2012-08-28&g=2012-08-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&bijlage=4&z=2012-08-28&g=2012-08-28), bedoeld in het eerste en het vijfde lid, liggen voor een ieder kosteloos ter inzage bij DNB.
 
-#### § 4.3. Prudentiële voorschriften met betrekking tot financiële groepen
+#### § 4.2. Prudentiële voorschriften met betrekking tot verzekeraars
 
 ##### Artikel 10. (geconsolideerd toezicht op groep van kredietinstellingen)
 
@@ -233,9 +233,9 @@ Deze regeling kan worden gewijzigd bij besluit van de AFM en DNB gezamenlijk, da
 
 ##### Artikel 13. (inwerkingtreding)
 
-1. Met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-07-01), treedt deze regeling in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1 juli 2012.
+1. Met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-08-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-08-28), treedt deze regeling in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1 juli 2012.
 
-2. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-07-01) van deze regeling treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
+2. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-08-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-08-28) van deze regeling treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
 
 ##### Artikel 14. (citeertitel)
 
@@ -248,6 +248,42 @@ Niet opgenomen.
 ## Bijlage 2
 
 Niet opgenomen.
+
+## Bijlage 1
+
+Niet opgenomen.
+
+## Bijlage 2
+
+Niet opgenomen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2. (beroepsaansprakelijkheidsverzekering – BAV)
+
+De beroepsaansprakelijkheidsverzekering (BAV), bedoeld in [artikel 3:24 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:24) en [artikel 4:47 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:47), dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of de gevolmachtigd agent of ondergevolmachtigd agent voor een bedrag van ten minste USD 50.000 per jaar.
+
+### Hoofdstuk 3. Nadere regels van de AFM en DNB met betrekking tot de integere en beheerste bedrijfsuitoefening
+
+#### § 3.1. Nadere regels van de AFM en DNB met betrekking tot de integere bedrijfsuitoefening
+
+#### § 3.2. Nadere regels van DNB met betrekking tot de integere en beheerste bedrijfsuitoefening
+
+#### § 3.3. Sanctiewetgeving
+
+##### Artikel 6. (meldingsplicht aan DNB op grond van de sanctiewetgeving)
+
+1. Een melding door een financiële onderneming op grond van [artikel 3.13, eerste lid, van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.13) dat de identiteit van een relatie overeenkomt met een natuurlijk persoon, rechtspersoon of entiteit als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de [Sanctieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029611) (Stcrt. 2011, 2873) en de op grond van die wet vastgestelde sanctieregelingen en sanctiebesluiten met betrekking tot het financieel verkeer, geschiedt door middel van het daartoe door DNB vastgestelde **Meldformat**.
+
+2. De melding aan DNB geschiedt zo spoedig mogelijk nadat de financiële onderneming een overeenkomst als bedoeld in het eerste lid (dat wil zeggen een ‘hit’) heeft geconstateerd, onder opgave van alle in het **Meldformat** opgenomen gegevens, voor zover deze van toepassing zijn. Bij de melding geeft de financiële onderneming tevens aan op basis van welke sanctieregeling of sanctiebesluit zij de melding doet.
+
+### Hoofdstuk 4. Nadere voorschriften van DNB op het gebied van het prudentieel toezicht
+
+#### § 4.1. Prudentiële voorschriften met betrekking tot kredietinstellingen
+
+#### § 4.3. Prudentiële voorschriften met betrekking tot financiële groepen
+
+### Hoofdstuk 5. Slotbepalingen
 
 ## Bijlage 3
 
