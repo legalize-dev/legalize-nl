@@ -4,7 +4,7 @@ identifier: "BWBR0031919"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-08-28"
-last_updated: "2012-07-01"
+last_updated: "2012-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031919"
 soort: "zbo"
@@ -163,7 +163,7 @@ In ieder geval in de volgende situaties wordt een financiële onderneming geacht
 
 ##### Artikel 9. (termijnen voor notificaties op grond van [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23))
 
-1. In het geval een verzekeraar met zetel in het buitenland niet langer kan aantonen dat is voldaan aan de **initiative test**, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031919&hoofdstuk=2&paragraaf=2.4&artikel=7&z=2012-08-28&g=2012-07-01), wordt de betrokken verzekeraar geacht zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat die situatie is ontstaan, de in [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat is voldaan aan de vereisten van [artikel 2:23, eerste lid, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23).
+1. In het geval een verzekeraar met zetel in het buitenland niet langer kan aantonen dat is voldaan aan de **initiative test**, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031919&hoofdstuk=2&paragraaf=2.4&artikel=7&z=2012-08-28&g=2012-08-28), wordt de betrokken verzekeraar geacht zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat die situatie is ontstaan, de in [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat is voldaan aan de vereisten van [artikel 2:23, eerste lid, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23).
 
 2. Een verzekeraar met zetel in het buitenland die reeds voorafgaand aan het tijdstip waarop deze beleidsregel in werking treedt door middel van het verrichten van diensten verzekeringen aanbiedt in de openbare lichamen vanuit een vestiging in het buitenland, wordt geacht uiterlijk op 31 oktober 2012 de in [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat wordt voldaan aan de vereisten van artikel 2:23, eerste lid, van de Wfm BES.
 
