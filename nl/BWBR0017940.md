@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2011-06-17"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2011-06-17&g=2011-06-17) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2012-08-30&g=2012-08-30) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -128,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2011-06-17&g=2011-06-17) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2012-08-30&g=2012-08-30) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -210,7 +210,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - e. de staat waarvan onderdanen bij het ongeval of incident zijn omgekomen of zwaar lichamelijk letsel hebben opgelopen, en
 
-- f. de internationale burgerluchtvaartorganisatie, indien het gaat om een luchtvaartuig met een startmassa van meer dan 2250 kg.
+- f. de internationale burgerluchtvaartorganisatie, indien het gaat om een luchtvaartuig met een startmassa van meer dan 2250 kg of een vliegtuig met straalmotoren.
 
 2. In geval van een ander ernstig luchtvaartincident dan bedoeld in het eerste lid, doet de raad terzake een melding toekomen aan de onder in het eerste lid, onderdeel c en d, bedoelde staten alsmede aan de staat van het voorval.
 
@@ -222,7 +222,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - c. de naam van de eigenaar, de exploitant en, indien van toepassing, de huurder van het betrokken luchtvaartuig;
 
-- d. de naam van de gezagvoerder van het betrokken luchtvaartuig, alsmede de nationaliteit van de bemanning en de passagiers;
+- d. het bewijs van bevoegdheid van de gezagvoerder van het betrokken luchtvaartuig, alsmede de nationaliteit van de bemanning en de passagiers;
 
 - e. de datum en de tijd van het luchtvaartongeval of het ernstige luchtvaartincident;
 
@@ -268,9 +268,9 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - c. de staat van vervaardiging en
 
-- d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg.
+- d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg of een vliegtuig met straalmotoren.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -450,7 +450,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17b
 
-Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2011-06-17&g=2011-06-17), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2012-08-30&g=2012-08-30), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
 
 #### § 10. Vergoedingen
 
