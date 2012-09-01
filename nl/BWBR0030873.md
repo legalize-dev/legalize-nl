@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-07-18"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -106,9 +106,9 @@ Besluit:
 | 3.3 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden) | 4.2 |   | – | – |
 | 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | – | – |
 | 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   | – | – |
-| 3.6 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | – | – |
+| 3.6 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 3-9 t/m 19-10 | 400.000 |
 | 3.7 | Subsidieregeling sterktes in innovatie (FND innovatieprojecten) | 5.9 |   | – | – |
-| 3.8 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | – | – |
+| 3.8 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | 3-9 t/m 19-10 | 3.000.000 |
 | 3.9 | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten) | 6.2 |   | – | – |
 | 3.10 | Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten) | 6.9 |   | – | – |
 | 3.11 | Subsidieregeling sterktes in innovatie (HTAS-EVT-projecten) | 6.18 |   | – | – |
