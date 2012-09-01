@@ -4,7 +4,7 @@ identifier: "BWBR0031174"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-09-01"
-last_updated: "2012-08-01"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031174"
 soort: "zbo"
@@ -107,7 +107,7 @@ In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend
 
 ##### Artikel 6. : Afwijkende vergoeding doventolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-08-01&g=2012-08-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-08-01&g=2012-08-01), en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-09-01&g=2012-09-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-09-01&g=2012-09-01), en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
 2. Indien er sprake is van teamtolken, waarbij maximaal twee doventolken tegelijkertijd voor één cliënt optreden, wordt tot 150% van het geldende normbedrag per team vergoed, uit te keren als 75% per doventolk, indien wordt aangetoond dat is voldaan aan de volgende voorwaarden:
 
@@ -121,7 +121,7 @@ In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend
 
 Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoeding verstrekt.
 
-3. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-08-01&g=2012-08-01), worden meer kilometers dan 160 vergoed indien wordt aangetoond dat van het benodigde type doventolk er te weinig op redelijke afstand van de opdrachtlocatie woonachtig zijn.
+3. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-09-01&g=2012-09-01), worden meer kilometers dan 160 vergoed indien wordt aangetoond dat van het benodigde type doventolk er te weinig op redelijke afstand van de opdrachtlocatie woonachtig zijn.
 
 4. Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk, doch uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend. Voor wat betreft het bepaalde in het derde lid is deze termijn twee weken.
 
@@ -131,7 +131,7 @@ Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoedi
 
 1. Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed, tenzij de annulering aan de doventolk moet worden toegeschreven, in welk geval geen vergoeding wordt verstrekt.
 
-2. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren, waarbij het geheel van getolkte tijd en geannuleerde tijd de oorspronkelijke opdrachtlengte, te bepalen volgens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-08-01&g=2012-08-01), niet mag overtreffen.
+2. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren, waarbij het geheel van getolkte tijd en geannuleerde tijd de oorspronkelijke opdrachtlengte, te bepalen volgens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-09-01&g=2012-09-01), niet mag overtreffen.
 
 3. De reisvergoeding van geannuleerde opdrachten wordt niet verstrekt, ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
@@ -145,67 +145,66 @@ Beleidsregels UWV normbedragen voorzieningen 2012.
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2012.
 
-## Normbedragen voorzieningen met ingang van 1 juli 2012
+## Normbedragen voorzieningen met ingang van 1 september 2012 blad
 
-| code | beschrijving | oud t/m 30-06-12 | nieuw per 01-07-12 |
+| code | beschrijving | **oud** **t/m 31-08-12** | nieuw per 01-09-12 |
 | --- | --- | --- | --- |
 |   | **Drempelbedrag voorzieningen** |   |   |
-| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend **(kostenbedrag inclusief BTW)** | **€ 123,=** | € 124,= |
+| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend **(kostenbedrag inclusief BTW)** | **€ 124,–** | € 124,– |
 |   | **Motorinvalidenwagen** |   |   |
 | C11 | – in bruikleen, vergoeding per km | **€ 0,12** | € 0,12 |
 | C13 | – in eigen bezit, vergoeding per km | **€ 0,46** | € 0,46 |
-|   | **Afweging taxivervoer t.o.v. (bruikleen)auto** |   |   |
-| C18-IA | normbedrag **(inclusief BTW)** | **€ 25.800,=** | € 25.800,= |
+|   | Afweging taxivervoer t.o.v. (bruikleen)auto |   |   |
+| C18-IA | normbedrag **(inclusief BTW)** | **€ 25.800,–** | € 25.800,– |
 |   | **Referentieauto** |   |   |
-| C18-II | normbedrag referentieauto **(aanschafbedrag inclusief BTW)** | **€ 16.700,=** | €16.700,= |
+| C18-II | normbedrag referentieauto **(aanschafbedrag inclusief BTW)** | **€ 16.700,–** | € 16.700,– |
 | C18-III | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | **€ 33,90** | € 33,90 |
 | C18-IV | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | **€ 29,35** | € 29,35 |
 |   | **Inkomensgrenzen vervoersvoorziening** |   |   |
-| C20-I | inkomensgrens werk- en leefvervoer | **€ 35.200,=** | €35.200,= |
-| C20-III | inkomensgrens tweede auto | **€ 52.800,=** | €52.800,= |
-|   | **Kilometervergoeding bruikleenauto’s** |   |   |
+| C20-I | inkomensgrens werk- en leefvervoer | **€ 35.200,–** | € 35.200,– |
+| C20-III | inkomensgrens tweede auto | **€ 52.800,–** | € 52.800,– |
+|   | Kilometervergoeding bruikleenauto’s |   |   |
 | C22-BA | brandstof benzine, automatische transmissie, bedrag per km. | **€ 0,13** | € 0,13 |
 | C22-BS | brandstof benzine, handgeschakeld, bedrag per km. | **€ 0,11** | € 0,11 |
 | C22-D | brandstof dieselolie, bedrag per km. | **€ 0,14** | € 0,14 |
-|   | **Kilometervergoeding voor auto’s in eigen bezit** |   |   |
+|   | Kilometervergoeding voor auto’s in eigen bezit |   |   |
 | C25-I | personenauto | **€ 0,46** | € 0,46 |
 | C25-V | bestelauto | **€ 0,58** | € 0,58 |
-|   | **Aftrek algemeen gebruikelijke kosten per kilometer** |   |   |
+|   | Aftrek algemeen gebruikelijke kosten per kilometer |   |   |
 | C26-I | beneden inkomensgrens C20-I, resp. C 20-III | **€ 0,10** | € 0,10 |
 | C26-II | boven inkomensgrens C-20-I, resp. C20-III | **€ 0,46** | € 0,46 |
-|   | **Taxikostenvergoeding leefvervoer (maximaal)** |   |   |
-| C31 | algemeen | **€3.770,=** | € 3.770,= |
-| C32 | gehalveerd (visueel gehandicapten) | **€ 1.885,=** | € 1.885,= |
-| C33 | rolstoeltaxikosten | **€ 4.610,=** | € 4.610,= |
-| C34 | Combinatievergoeding | **€1.680,=** | €1.680,= |
-|   | **Rijles** |   |   |
+|   | Taxikostenvergoeding leefvervoer (maximaal) |   |   |
+| C31 | algemeen | **€ 3.770,–** | € 3.770,– |
+| C32 | gehalveerd (visueel gehandicapten) | **€ 1.885,–** | € 1.885,– |
+| C33 | rolstoeltaxikosten | **€ 4.610,–** | € 4.610,– |
+| C34 | Combinatievergoeding | **€ 1.680,–** | € 1.680,– |
+|   | Rijles |   |   |
 | C51 | vaste leskilometervergoeding bij het lesrijden in een eigen auto | **€ 0,36** | € 0,36 |
-|   | **Begeleidingskosten** |   |   |
-| C71 | maximale vergoeding reiskosten van de begeleider per jaar | **€ 815,=** | € 815,= |
-| code | beschrijving | **oud** **t/m 30-06-08** | nieuw per 01-07-08 |
-|   | **Communicatievoorziening voor doven en slechthorenden** **in werk- en onderwijssituaties** **bedragen exclusief BTW** | **Communicatievoorziening voor doven en slechthorenden** **in werk- en onderwijssituaties** **bedragen exclusief BTW** |   |
+|   | Begeleidingskosten |   |   |
+| C71 | maximale vergoeding reiskosten van de begeleider per jaar | **€ 815,–** | € 815,– |
+|   | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties **bedragen exclusief BTW** | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties **bedragen exclusief BTW** |   |
 |   | uurvergoeding voor: |   |   |
 | E17-I | – doventolk (geregistreerd) | **€ 50,35** | € 50,35 |
-| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | **€ 18,40** | € 18,52 |
+| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | **€ 18,52** | € 18,52 |
 |   | vergoeding reizen, bedrag per kilometer, voor: |   |   |
 | **E17-A1** | – doventolk (geregistreerd) | **€ 0,66** | € 0,66 |
-| **E17-A3** | – tolk in opleiding HU, communicatieassistent Het normbedrag E17-A3 vervalt per 1 september 2012 | **€ 0,29** | € 0,29 |
-|   | **Technische apparatuur (maximaal)** **aanschafprijzen inclusief BTW** |   |   |
-| G21 | Daisyspeler | **€ 475,=** | € 475,= |
-| G22-I | PC-configuratie (exclusief aanpassingen), één maal per drie jaar | **€ 750,=** | € 750,= |
-| G22-II | eenmalige bijdrage verzekering PC-configuratie voor drie jaar | **€ 200,=** | € 200,= |
-| G23 | Hoortoestel | **€ 700,=** | € 700,= |
-|   | **Voorzieningen met beheersaspecten** |   |   |
-| I-11 | verstrekkingen in eigendom, kosten minder dan: | **€ 3.400,=** | € 3.400,= |
-| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | **€ 6.800,=** | € 6.800,= |
-| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | **€ 6.800,=** | € 6.800,= |
-|   | **Persoonlijke ondersteuning gehandicapten** **bedrag vergoeding per uur, exclusief BTW** |   |   |
-| Q1 | persoonlijke ondersteuning (jobcoach) | **€ 78,70** | € 78,70 |
-|   | **Intermediaire activiteiten** **bedrag vergoeding per uur, exclusief BTW** |   |   |
-| S1 | Uurvergoeding | **€ 18,40** | € 18,52 |
+| **E17-A3** | – tolk in opleiding HU, communicatieassistent | **€ 0,29** | € 0,29 |
+|   | Technische apparatuur (maximaal) **aanschafprijzen inclusief BTW** |   |   |
+| G21 | Daisyspeler | **€ 475,–** | € 475,– |
+| G22-I | PC-configuratie (exclusief aanpassingen), één maal per drie jaar | **€ 750,–** | € 750,– |
+| G22-II | eenmalige bijdrage verzekering PC-configuratie voor drie jaar | **€ 200,–** | € 200,– |
+| G23 | Hoortoestel | **€ 700,–** | € 700,– |
+|   | Voorzieningen met beheersaspecten |   |   |
+| I-11 | verstrekkingen in eigendom, kosten minder dan: | **€ 3.400,–** | € 3.400,– |
+| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | **€ 6.800,–** | € 6.800,– |
+| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | **€ 6.800,–** | € 6.800,– |
+|   | Persoonlijke ondersteuning gehandicapten **bedrag vergoeding per uur, exclusief BTW** |   |   |
+| Q1 | persoonlijke ondersteuning (jobcoach) | **€ 78,70** | € 73,30 |
+|   | Intermediaire activiteiten **bedrag vergoeding per uur, exclusief BTW** |   |   |
+| S1 | Uurvergoeding | **€ 18,52** | € 18,52 |
 | S1-R | vergoeding reizen, bedrag per kilometer | **€ 0,29** | € 0,29 |
-|   | **Voorzieningen voor startende zelfstandigen** |   |   |
-| Z-1 | Omzetnorm startende zelfstandigen | **€78.900,=** | €78.900,= |
-| Z-2 | Begeleiding van startende zelfstandigen voor en na de start (**bedrag vergoeding inclusief BTW** | **€3.550,=** | €3.550,= |
+| Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen |
+| Z-1 | Omzetnorm startende zelfstandigen | **€ 78.900,–** | € 78.900,– |
+| Z-2 | Begeleiding van startende zelfstandigen voor en na de start (**bedrag vergoeding inclusief BTW** | **€ 3.550,–** | € 3.550,– |
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
