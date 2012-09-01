@@ -4,7 +4,7 @@ identifier: "BWBR0024005"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-06-26"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024005"
 soort: "ministeriele-regeling"
@@ -78,33 +78,33 @@ In deze regeling wordt verstaan onder:
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2012-06-26&g=2012-06-26) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2012-09-01&g=2012-09-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2012-06-26&g=2012-06-26) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2012-09-01&g=2012-09-01) bij deze regeling.
 
 2. De onderwijsopslag van een hogeschool, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2012-06-26&g=2012-06-26) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2012-09-01&g=2012-09-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2012-06-26&g=2012-06-26) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2012-09-01&g=2012-09-01) bij deze regeling.
 
 #### Paragraaf 3. Onderzoek
 
 ##### Artikel 4. Bedragen onderzoek
 
-1. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2012-06-26&g=2012-06-26) bij deze regeling.
+1. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2012-09-01&g=2012-09-01) bij deze regeling.
 
-2. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2012-06-26&g=2012-06-26) bij deze regeling.
+2. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2012-09-01&g=2012-09-01) bij deze regeling.
 
-3. De bedragen bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2012-06-26&g=2012-06-26) van deze regeling.
+3. De bedragen bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2012-09-01&g=2012-09-01) van deze regeling.
 
 4. Het bedrag, bedoeld in [artikel 4.21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21) is € 93.408,00.
 
 5. Het bedrag, bedoeld in [artikel 4.21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21) is € 77.840,00.
 
-6. De percentages bedoeld in [artikel 4.22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.22) zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-06-26&g=2012-06-26), onder de noemer onderzoekscholen.
+6. De percentages bedoeld in [artikel 4.22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.22) zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-09-01&g=2012-09-01), onder de noemer onderzoekscholen.
 
-7. De percentages bedoeld in [artikel 4.22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.22) zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-06-26&g=2012-06-26), onder de noemer toponderzoekscholen.
+7. De percentages bedoeld in [artikel 4.22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.22) zijn opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-09-01&g=2012-09-01), onder de noemer toponderzoekscholen.
 
 #### Paragraaf 4. Academische ziekenhuizen
 
@@ -114,7 +114,7 @@ Het rentepercentage bedoeld in [artikel 4.25, vierde lid, van het besluit](https
 
 ##### Artikel 6. Bedragen academische ziekenhuizen
 
-Het bedrag, bedoeld in [artikel 4.27, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2012-06-26&g=2012-06-26) bij deze regeling.
+Het bedrag, bedoeld in [artikel 4.27, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2012-09-01&g=2012-09-01) bij deze regeling.
 
 ##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
@@ -128,17 +128,17 @@ Vervallen
 
 ##### Artikel 9. Vaststelling collegegeld
 
-1. Het wettelijk collegegeld bedoeld in [artikel 2.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=2.2) is
+1. Het volledig wettelijk collegegeld volgens het basistarief, bedoeld in [artikel 18.77, tweede lid juncto het vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.77) bedraagt voor het studiejaar 2012–2013 € 1.771.
 
-- a. voor het studiejaar 2010/2011 € 1.672.
+2. Het volledig wettelijk collegegeld volgens het verhoogd tarief, bedoeld in [artikel 18.77, derde lid juncto het vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.77) bedraagt voor het studiejaar 2012–2013 € 4.834.
 
-- b. voor het studiejaar 2011/2012 € 1.713.
+3. Het minimumbedrag van het gedeeltelijk wettelijk collegegeld volgens het basistarief, bedoeld in [artikel 18.78, tweede lid juncto het zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.78) bedraagt voor het studiejaar 2012–2013 € 1.003.
 
-2. Het bedrag bedoeld in [artikel 2.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=2.2) is
+4. Het maximumbedrag van het gedeeltelijk wettelijk collegegeld volgens het basistarief, bedoeld in [artikel 18.78, derde lid juncto het zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.78) is overeenkomstig het bepaalde eerste lid.
 
-- a. voor het studiejaar 2010/2011 € 950.
+5. Het minimumbedrag van het gedeeltelijk wettelijk collegegeld volgens het verhoogd tarief, bedoeld in [artikel 18.78, vierde lid juncto het zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.78) bedraagt voor het studiejaar 2012–2013 € 4.066.
 
-- b. voor het studiejaar 2011/2012 € 961.
+6. Het maximumbedrag van het gedeeltelijk wettelijk collegegeld volgens het verhoogd tarief, bedoeld in [artikel 18.78, vijfde lid juncto het zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.78) is overeenkomstig het bepaalde tweede lid.
 
 #### Paragraaf 6. Financiële ondersteuning en toelagen
 
@@ -162,9 +162,9 @@ Vervallen
 
 ##### Artikel 11. Vertegenwoordigers
 
-1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-06-26&g=2012-06-26), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning tijdens een studiejaar in aanmerking komen. Van die aanwijzing doet dat bestuur mededeling aan de Minister vóór 1 november van het desbetreffende studiejaar.
+1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-09-01&g=2012-09-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning tijdens een studiejaar in aanmerking komen. Van die aanwijzing doet dat bestuur mededeling aan de Minister vóór 1 november van het desbetreffende studiejaar.
 
-2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-06-26&g=2012-06-26), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-06-26&g=2012-06-26).
+2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-09-01&g=2012-09-01), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2012-09-01&g=2012-09-01).
 
 3. Indien is voldaan aan het bepaalde in het eerste lid en financiële ondersteuning wordt toegekend, maakt de Minister deze beslissing aan de desbetreffende organisaties bekend en zendt van die bekendmaking een afschrift aan de vertegenwoordiger.
 
@@ -174,7 +174,7 @@ Vervallen
 
 ##### Artikel 12. Aanspraak
 
-1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2012-06-26&g=2012-06-26) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2012-09-01&g=2012-09-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
@@ -184,7 +184,7 @@ Vervallen
 
 2. De toekenning van de financiële ondersteuning vindt plaats per maand.
 
-3. In geval van toepassing van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2012-06-26&g=2012-06-26), wordt het in het eerste lid vermelde bedrag aangepast naar de maatstaven die gelden op het tijdstip van toekenning.
+3. In geval van toepassing van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2012-09-01&g=2012-09-01), wordt het in het eerste lid vermelde bedrag aangepast naar de maatstaven die gelden op het tijdstip van toekenning.
 
 ##### Artikel 14. Grensbedrag vrijstellingsregeling Open Universiteit
 
@@ -218,15 +218,15 @@ Vervallen
 
 ##### Artikel 19. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2012-06-26&g=2012-06-26), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2012-06-26&g=2012-06-26), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-06-26&g=2012-06-26), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2012-06-26&g=2012-06-26), terug tot en met 1 januari 2008.
+1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2012-09-01&g=2012-09-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2012-09-01&g=2012-09-01), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-09-01&g=2012-09-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2012-09-01&g=2012-09-01), terug tot en met 1 januari 2008.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2012-06-26&g=2012-06-26), werkt terug tot en met 1 januari 2007.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2012-09-01&g=2012-09-01), werkt terug tot en met 1 januari 2007.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2012-06-26&g=2012-06-26) treedt in werking met ingang van 1 september 2008.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2012-09-01&g=2012-09-01) treedt in werking met ingang van 1 september 2008.
 
-4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2012-06-26&g=2012-06-26), treedt in werking met ingang van 1 september 2008.
+4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2012-09-01&g=2012-09-01), treedt in werking met ingang van 1 september 2008.
 
-5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-06-26&g=2012-06-26), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
+5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2012-09-01&g=2012-09-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
 ##### Artikel 20. Citeertitel
 
@@ -292,7 +292,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 24LE | Van Hall Instituut | 9,9719 |
 | 27PZ | Hogeschool INHOLLAND | 8,0411 |
 
-## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-06-26&g=2012-06-26)
+## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | kwaliteit | kwetsbare opleidingen | bijzondere voorzieningen | totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -319,7 +319,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- | --- | --- | --- |
 | 21PI | Wageningen University | € 813.477 | € 15.000 | € 547.400 | € 1.375.877 |
 
-## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-06-26&g=2012-06-26)
+## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | percentage |
 | --- | --- | --- |
@@ -345,7 +345,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-06-26&g=2012-06-26)
+## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-09-01&g=2012-09-01)
 
 | hogeschool | hogeschool | kwaliteit | kwetsbare opleidingen | bijzondere voorzieningen | totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -395,7 +395,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 30HD | Hogeschool Van Hall Larenstein | € 499.681 |   | € 2.996.129 | € 3.495.810 |
 |   | Totaal | € 1.116.089 | € 13.614 | € 9.125.944 | € 10.255.647 |
 
-## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-06-26&g=2012-06-26)
+## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2012-09-01&g=2012-09-01)
 
 | hogeschool | hogeschool | percentage |
 | --- | --- | --- |
@@ -443,7 +443,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 27PZ | Hogeschool INHolland | 5,00770% |
 | 30HD | Hogeschool Van Hall Larenstein | 52,36595% |
 
-## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-06-26&g=2012-06-26)
+## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | toponderzoek-scholen | bijzondere voorzieningen | totaalbedrag |
 | --- | --- | --- | --- | --- |
@@ -470,7 +470,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- | --- | --- |
 | 21PI | Wageningen University | € 3.147.957 | € 2.224.820 | € 5.372.777 |
 
-## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-06-26&g=2012-06-26)
+## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | percentage |
 | --- | --- | --- |
@@ -496,7 +496,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2012-06-26&g=2012-06-26)
+## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | bedrag |
 | --- | --- | --- |
@@ -514,7 +514,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 
 Vervallen
 
-## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-06-26&g=2012-06-26)
+## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-09-01&g=2012-09-01)
 
 | hogeschool | hogeschool | bedrag |
 | --- | --- | --- |
@@ -566,7 +566,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 10. bij [artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-06-26&g=2012-06-26)
+## Bijlage 10. bij [artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2012-09-01&g=2012-09-01)
 
 | universiteit | universiteit | Percentage onderzoekscholen | Percentage toponder zoekscholen |
 | --- | --- | --- | --- |
