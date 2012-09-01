@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2009-06-17"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -50,27 +50,29 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 - c. ambtenaren werkzaam bij het openbaar ministerie;
 
-- d. ambtenaren, werkzaam bij de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controle Dienst van het Ministerie van Financiën, welke opsporingsbevoegdheid bezitten;
+- d. ambtenaren, werkzaam bij de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst van het Ministerie van Financiën, welke opsporingsbevoegdheid bezitten;
 
-- e. ambtenaren, werkzaam bij de Voedsel en Waren Autoriteit, welke opsporingsbevoegdheid bezitten;
+- e. ambtenaren, werkzaam bij de Nederlandse Voedsel en Waren Autoriteit (NVWA), welke opsporingsbevoegdheid bezitten;
 
-- f. ambtenaren, werkzaam bij de Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid, welke opsporingsbevoegdheid bezitten;
+- f. ambtenaren, werkzaam bij de Inspectie Sociale Zaken en Werkgelegenheid (Inspectie SZW), welke opsporingsbevoegdheid bezitten;
 
-- g. ambtenaren, werkzaam in een penitentiaire inrichting;
+- g. ambtenaren, werkzaam bij de Inspectie Leefomgeving en Transport (ILT), welke opsporingsbevoegdheid bezitten;
 
-- h. ambtenaren, werkzaam in een rijksinrichting voor justitiële kinderbescherming;
+- h. ambtenaren, werkzaam in een penitentiaire inrichting;
 
-- i. ambtenaren, werkzaam in een rijksinrichting voor verpleging van ter beschikking gestelden;
+- i. ambtenaren, werkzaam in een rijksinrichting voor justitiële kinderbescherming;
 
-- j. functionarissen, werkzaam in een particulier justitiële inrichting voor verpleging van ter beschikking gestelden;
+- j. ambtenaren, werkzaam in een rijksinrichting voor verpleging van ter beschikking gestelden;
 
-- k. functionarissen, werkzaam in een niet-justitiële inrichting voor verpleging van ter beschikking gestelden;
+- k. functionarissen, werkzaam in een particulier justitiële inrichting voor verpleging van ter beschikking gestelden;
 
-- l. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties.
+- l. functionarissen, werkzaam in een niet-justitiële inrichting voor verpleging van ter beschikking gestelden;
+
+- m. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties.
 
 ##### Artikel 2
 
-Het [besluit van 19 december 2001, nr. 5140479/501/AJT, betreffende aanwijzing van ambtenaren van politie en functionarissen ten behoeve van uitreiking en betekening van gerechtelijke stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0013219), wordt ingetrokken.
+Vervallen
 
 ##### Artikel 3
 
