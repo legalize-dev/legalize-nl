@@ -4,7 +4,7 @@ identifier: "BWBR0032643"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2012-01-01"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032643"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
 ##### Artikel VIII
 
@@ -129,15 +129,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Financiën van 26 november 2012, DV/2012/459;
-
-Gelet op de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) en [10.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8), de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a)en [32bd van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bd), de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) en [15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), [artikel 21 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13) en [15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8) en [12 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14) en [14b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), de [artikelen 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) en [73 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73), [artikel 15 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=15), de [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70), [71g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), [71h](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=85) en [91 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91), [artikel 29 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [artikel 28 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) en [59 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [artikel 8 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), [artikel 38 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=38), [artikel 8.39 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39) en de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26), [2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.99), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.4), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.5), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.49), [4.50a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.50a) en [4.58 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.58);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 december 2012, nr. W06.12.0479/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 17 december 2012, nr. DB/2012/494 U;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
