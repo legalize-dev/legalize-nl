@@ -4,7 +4,7 @@ identifier: "BWBR0032701"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2011-01-01"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032701"
 soort: "wet"
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel VIIa
 
