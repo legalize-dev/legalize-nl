@@ -4,7 +4,7 @@ identifier: "BWBV0005877"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-09-01"
-last_updated: "2012-08-27"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005877"
 soort: "verdrag"
@@ -304,7 +304,7 @@ Personnel recruited locally and assigned to hourly rates by International IDEA a
 
 ##### Article 18. Exceptions to immunities
 
-The immunity granted to persons mentioned in [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=14&z=2012-08-27&g=2012-08-27), and [Article 15, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-08-27&g=2012-08-27), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
+The immunity granted to persons mentioned in [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=14&z=2012-09-01&g=2012-09-01), and [Article 15, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-09-01&g=2012-09-01), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
 ##### Article 19. Protection of personnel
 
@@ -342,7 +342,7 @@ Members of the family forming part of the household of Officials who are not nat
 
 ##### Article 23. Waiver of immunities
 
-1. Privileges and immunities are granted to Officials and Experts in the interest of International IDEA and not for the personal benefit of the individuals themselves. The Secretary-General shall have the right and the duty to waive the immunity of any person mentioned in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-08-27&g=2012-08-27) and [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=16&z=2012-08-27&g=2012-08-27) in any case where, in his or her opinion, the immunity would impede the course of justice and can be waived without prejudice to the Organization. The Council shall have the right to waive the immunity of the Secretary-General.
+1. Privileges and immunities are granted to Officials and Experts in the interest of International IDEA and not for the personal benefit of the individuals themselves. The Secretary-General shall have the right and the duty to waive the immunity of any person mentioned in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-09-01&g=2012-09-01) and [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=16&z=2012-09-01&g=2012-09-01) in any case where, in his or her opinion, the immunity would impede the course of justice and can be waived without prejudice to the Organization. The Council shall have the right to waive the immunity of the Secretary-General.
 
 2. International IDEA shall co-operate at all times with the appropriate authorities of the Kingdom of the Netherlands to facilitate the proper administration of justice and shall prevent any abuse of privileges and immunities granted to it under this Agreement.
 
