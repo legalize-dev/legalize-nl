@@ -4,7 +4,7 @@ identifier: "BWBR0031950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-10"
-last_updated: "2011-07-01"
+last_updated: "2012-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031950"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder
 
 - c. **gevaar of schade:** beperking van de beschikbaarheid en betrouwbaarheid van de ICT, schending van de vertrouwelijkheid van in ICT opgeslagen informatie of schade aan de integriteit van die informatie;
 
-- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2012-09-04&g=2011-07-01);
+- c. **de Raad:** de Cyber Security Raad, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2&z=2012-09-04&g=2012-09-04);
 
 - d. **Nationale Cyber Security Strategie:** een integraal plan van aanpak voor het versterken van de veiligheid van de digitale samenleving om het vertrouwen in het gebruik van ICT door burger, bedrijfsleven en overheid te verhogen.
 
