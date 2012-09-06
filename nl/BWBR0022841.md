@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-12-07"
+last_updated: "2012-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-12-07&g=2011-12-07) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2012-09-06&g=2012-09-06) bij de desbetreffende instelling genoemde gemeenten;
 
 - j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling.
 
@@ -132,9 +132,9 @@ De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken voor h
 
 1. De instellingssubsidie wordt berekend door:
 
-- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-12-07&g=2011-12-07), voor de exploitatiecomponent ontvangt;
+- a. in 2011 € 12.100.000, in 2012 € 12.100.000 en vanaf 2013 € 13.310.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2012-09-06&g=2012-09-06), voor de exploitatiecomponent ontvangt;
 
-- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-12-07&g=2011-12-07), voor de huisvestingscomponent ontvangt;
+- b. in 2011 € 2.000.000, in 2012 € 2.000.000 en vanaf 2013 € 2.200.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2012-09-06&g=2012-09-06), voor de huisvestingscomponent ontvangt;
 
 2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode.
 
@@ -176,7 +176,7 @@ Vervallen
 
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-12-07&g=2011-12-07), wordt ontvangen, wordt afgewezen.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2012-09-06&g=2012-09-06), wordt ontvangen, wordt afgewezen.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -212,13 +212,17 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-12-07&g=2011-12-07) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2012-09-06&g=2012-09-06) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
-1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-12-07&g=2011-12-07) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2012-09-06&g=2012-09-06) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
+
+3. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen, rekening houdend met de ontwikkeling in de kosten van de arbeidsvoorwaarden. Met het oog op deze bijstelling kan de Minister bij de verlening van de instellingssubsidie bepalen welk deel van het subsidiebedrag daarvoor in aanmerking zal worden genomen.
+
+4. Indien een instellingssubsidie met toepassing van het tweede of derde lid wordt bijgesteld, kan de bevoorschotting overeenkomstig worden gewijzigd.
 
 ##### Artikel 23
 
@@ -250,7 +254,7 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-12-07&g=2011-12-07) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2012-09-06&g=2012-09-06) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -506,7 +510,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 | Netwerk | Organisatie | Gemeenten in de netwerkregio | 2010 | 2011 en volgende jaren |
 | --- | --- | --- | --- | --- |
-| Almere | Stichting Transmuraal Zorgnetwerk Almere | Almere | € 36.527 | € 36.527 |
+| Almere | Stichting Regionale Ondersteuningsstructuur Almere | Almere | € 36.527 | € 36.527 |
 | Amstelland & Meerlanden | Stichting Bureau Lindenhoek | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn | € 56.981 | € 56.981 |
 | Amsterdam-Diemen | Stichting Netwerk Palliatieve Zorg Amsterdam-Diemen | Amsterdam, Diemen | € 154.806 | € 154.806 |
 | Arnhem | Stichting Netwerk Palliatieve Zorg regio Arnhem | Arnhem, Doesburg (voor ½), Lingewaard, Overbetuwe, Renkum (voor ½), Rheden en Rozendaal (Gld.) | € 59.996 | € 59.996 |
@@ -524,9 +528,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Friesland Zuid | FAB Dienstverlening B.V. | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf | € 17.871 | € 17.871 |
 | Friesland Zuidoost | FAB Dienstverlening B.V. | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3) | € 30.219 | € 30.219 |
 | Friesland Zuidwest | FAB Dienstverlening B.V. | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel | € 24.832 | € 24.832 |
-| Gelderse Vallei | Stichting Kruiswerk West-Veluwe | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen | € 60.150 | € 60.150 |
+| Gelderse Vallei | Stichting Icare | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen | € 60.150 | € 60.150 |
 | Goeree Overflakkee en omliggende eilanden | Stichting palliatieve zorg te Dirksland | Dirksland, Goedereede, Middelharnis en Oostflakkee | € 12.000 | € 12.000 |
-| Gooi en Vechtstreek | Stichting Ketenzorg en Innovatie | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren | € 48.848 | € 48.848 |
+| Gooi en Vechtstreek | Stichting SIG | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren | € 48.848 | € 48.848 |
 | Gorinchem | Stichting Het Spectrum | Giessenlanden, Gorinchem, Graafstroom, Leerdam, Liesveld, Lingewaal (voor ½) en Zederik | € 21.782 | € 21.782 |
 | Groningen Centraal | FAB Dienstverlening B.V. | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn | € 60.908 | € 60.908 |
 | Groningen Noord | FAB Dienstverlening B.V. | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½) | € 23.848 | € 23.848 |
@@ -562,8 +566,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Roosendaal - Bergen op Zoom - Tholen | Ziekenhuis Lievensberg | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen | € 53.417 | € 53.417 |
 | Rotterdam | Stichting Zorggroep Rijnmond | Albrandswaard, Barendrecht, Capelle aan den IJssel, Krimpen aan den IJssel (voor ½) en Rotterdam | € 147.099 | € 147.099 |
 | Salland | Stichting Carinova Leiboomgroep | Dalfsen (voor ½), Deventer, Olst - Wijhe (voor 5/9), Raalte (voor 2/3) en Rijssen-Holten (voor ¼) | € 30.997 | € 30.997 |
-| Stadsgewest Breda | Annevillegroep | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert | € 91.062 | € 91.062 |
-| Utrecht Stad | Stichting Rhijnhuysen Utrecht | Utrecht | € 58.226 | € 58.226 |
+| Stadsgewest Breda | Amphia Ziekenhuis Breda/Oosterhout | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert | € 91.062 | € 91.062 |
+| Utrecht Stad | Stichting Axioncontinu Groep | Utrecht | € 58.226 | € 58.226 |
 | Utrecht-Zuid | Stichting Zuwe Zorg | Houten, IJsselstein, Lopik, Nieuwegein en Vianen | € 35.253 | € 35.253 |
 | Voorne-Putten Rozenburg | Stichting palliatieve zorg te Dirksland | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne | € 34.102 | € 34.102 |
 | Walcheren | Stichting Zorgstroom | Middelburg, Veere en Vlissingen | € 23.064 | - |
@@ -571,12 +575,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½) | € 26.705 | € 26.705 |
 | West-Friesland | Stichting Zorg Ondersteuning Noord-Holland Noord | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½) | € 41.028 | € 41.028 |
 | Westelijke Mijnstreek | Orbis Medisch en Zorg-concern | Beek, Schinnen, Sittard-Geleen en Stein | € 30.837 | € 30.837 |
-| Zaanstreek Waterland | Stichting Netwerk Palliatieve Zorg Zaanstreek Waterland | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | € 62.998 | € 62.998 |
+| Zaanstreek Waterland | Stichting Zorg Ondersteuning Noord Holland Noord | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | € 62.998 | € 62.998 |
 | Zeeuws Vlaanderen | Stichting ZorgSaam Zeeuws-Vlaanderen | Hulst, Sluis en Terneuzen | € 21.725 | € 21.725 |
 | Zuid-Gelderland | Stichting Integraal Kankercentrum Oost | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen | € 62.121 | € 62.121 |
 | Zuid-Holland Noord | Stichting Activite | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude | € 104.426 | € 104.426 |
 | Zuidoost Brabant | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre | € 144.958 | € 144.958 |
-| Zuidoost Utrecht | Stichting Rhijnhuysen Utrecht | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | € 36.691 | € 36.691 |
+| Zuidoost Utrecht | Stichting Axioncontinu Groep | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | € 36.691 | € 36.691 |
 | Zutphen | Stichting Sensire De Berkel | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2) | € 26.518 | € 26.518 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
