@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2011-04-06"
+last_updated: "2012-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -46,11 +46,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 1, 2 en 3 bis van [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24).
+1. Het is verboden te handelen in strijd met de artikelen 1, 2, 3 bis en 3 ter, eerste lid, van [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24).
 
 2. Het verbod te handelen in strijd met artikel 1 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 2 bis of 3, eerste en tweede lid, van de verordening.
 
 3. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 3, derde lid, van de verordening.
+
+4. Het verbod te handelen in strijd met artikel 3 ter, eerste lid, van Verordening (EG) nr. 147/2003 is niet van toepassing in geval artikel 3 ter, derde lid, van de verordening van toepassing is.
 
 ##### Artikel 2
 
