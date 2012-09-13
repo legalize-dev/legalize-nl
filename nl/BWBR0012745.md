@@ -4,7 +4,7 @@ identifier: "BWBR0012745"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2011-07-17"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012745"
 soort: "ministeriele-regeling"
@@ -54,25 +54,25 @@ Een personeelslid of medewerker kan ten aanzien van een jeugdige, ten behoeve va
 
 ##### Artikel 3
 
-Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2011-07-17&g=2011-07-17), genoemde geweldsmiddelen aan te wenden.
+Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2012-09-13&g=2012-09-13), genoemde geweldsmiddelen aan te wenden.
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2012-09-13&g=2012-09-13) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
-2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2012-09-13&g=2012-09-13) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
 3. De directeur draagt er zorg voor dat:
 
 - a. personeelsleden of medewerkers, die vrijheidsbeperkende middelen toepassen, over voldoende vaardigheden beschikken met betrekking tot het toepassen daarvan;
 
-- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2011-07-17&g=2011-07-17), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2012-09-13&g=2012-09-13), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 4. De selectiefunctionaris draagt er zorg voor dat:
 
 - a. de door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het toepassen van vrijheidsbeperkende middelen;
 
-- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2011-07-17&g=2011-07-17), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2012-09-13&g=2012-09-13), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 ##### Artikel 5
 
@@ -82,7 +82,7 @@ Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g
 
 ##### Artikel 6
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2011-07-17&g=2011-07-17) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2012-09-13&g=2012-09-13) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2012-09-13&g=2012-09-13) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
 
 - a. aan wie dat geweldsmiddel rechtens is toegekend en,
 
@@ -124,11 +124,11 @@ Het gebruik van een vuurwapen is slechts geoorloofd:
 
 ##### Artikel 10
 
-Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2011-07-17&g=2011-07-17) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
+Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2012-09-13&g=2012-09-13) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
 ##### Artikel 11
 
-1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2011-07-17&g=2011-07-17) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
+1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2012-09-13&g=2012-09-13) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
@@ -159,5 +159,31 @@ Deze regeling treedt in werking op 1 september 2001.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling geweldsinstructie justitiële jeugdinrichtingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a
+
+1. Het gebruik van pepperspray is slechts geoorloofd voor zover dit noodzakelijk is ter aanhouding van een jeugdige indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
+
+2. Pepperspray wordt tegen een jeugdige per geval ten hoogste twee maal voor ten hoogste enkele seconden gebruikt op afstand van tenminste een meter.
+
+3. Pepperspray mag niet worden gebruikt tegen:
+
+- a. jeugdige vrouwen die zichtbaar zwanger zijn;
+
+- b. jeugdigen voor wie dit gebruik als gevolg van zichtbare ademhalings- of andere ernstige gezondheidsstoornis onevenredig schadelijk kan zijn;
+
+- c. groepen personen.
+
+4. Pepperspray mag niet worden gebruikt in de nabijheid van baby’s.
+
+5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
+
+#### Paragraaf 4. Het gebruik van een vuurwapen
+
+#### Paragraaf 5. Meldplicht
+
+#### Paragraaf 6. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
