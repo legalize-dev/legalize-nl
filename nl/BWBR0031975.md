@@ -4,7 +4,7 @@ identifier: "BWBR0031975"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-09-15"
-last_updated: "2012-07-01"
+last_updated: "2012-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031975"
 soort: "zbo"
@@ -65,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Toestemming om niet-elektronisch te communiceren
 
-- – 1. UWV verleent in de gevallen bedoeld in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031975&artikel=2&z=2012-09-15&g=2012-07-01) toestemming om niet-elektronisch te communiceren. Dat kan zowel uit eigen beweging als op aanvraag van de burger die het betreft. De aanvraag moet gemotiveerd zijn.
+- – 1. UWV verleent in de gevallen bedoeld in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031975&artikel=2&z=2012-09-15&g=2012-09-15) toestemming om niet-elektronisch te communiceren. Dat kan zowel uit eigen beweging als op aanvraag van de burger die het betreft. De aanvraag moet gemotiveerd zijn.
 
 - – 2. De toestemming kan worden verleend voor een bepaalde periode, met betrekking tot een specifiek soort verkeer, en/of met betrekking tot een specifieke situatie.
 
