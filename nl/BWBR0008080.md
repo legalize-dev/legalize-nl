@@ -4,7 +4,7 @@ identifier: "BWBR0008080"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2012-07-01"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008080"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. ADR: Accord Européen relatif au transport international des marchandises dangereuses par route;
 
-- c. ADNR: Règlement pour le transport des matières dangereuses sur le Rhin;
+- c. ADN: Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation;
 
 - d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses;
 
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Overeenkomstig het ADR, het ADNR, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) met daarbij aangewezen vervoermiddelen:
+1. Overeenkomstig het ADR, het ADN, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) met daarbij aangewezen vervoermiddelen:
 
 - a. niet is toegestaan; of
 
@@ -92,7 +92,7 @@ Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen
 
 - e. met munitie behorend bij toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten, voor zover gebruikt ten behoeve van beroep of onderneming, in een hoeveelheid van ten hoogste 10 000 stuks munitie onderscheidenlijk drie kilogram ontplofbare stof;
 
-- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
+- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-09-26&g=2012-09-26) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
 
 - g. anders dan ten behoeve van beroep of onderneming, met gevaarlijke stoffen die geschikt en bestemd zijn voor eigen huishoudelijk gebruik, in hoeveelheden die daarmee redelijkerwijs in overeenstemming zijn; of
 
@@ -124,7 +124,7 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 - 6°. de verpakkingen, of
 
-- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-07-01&g=2012-07-01).
+- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2012-09-26&g=2012-09-26).
 
 4. De in het eerste, tweede en derde lid bedoelde handelingen zijn uitsluitend toegestaan, indien op een wijze die in overeenstemming is met de gevaarzetting van de desbetreffende gevaarlijke stof:
 
@@ -162,7 +162,7 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 - a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;
 
-- b. in nader te bepalen hoeveelheden.Het tweede lid is van overeenkomstige toepassing, met dien verstande dat voor ADR gelezen wordt: ADNR onderscheidenlijk RID.
+- b. in nader te bepalen hoeveelheden.Het tweede lid is van overeenkomstige toepassing, met dien verstande dat voor ADR gelezen wordt: ADN onderscheidenlijk RID.
 
 #### § 3. Overgangs- en slotbepalingen
 
