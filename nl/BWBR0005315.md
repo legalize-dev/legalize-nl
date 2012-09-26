@@ -4,7 +4,7 @@ identifier: "BWBR0005315"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-09-26"
-last_updated: "2012-05-19"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005315"
 soort: "AMvB"
@@ -126,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 - 2°. een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag op een bepaalde plaats in of een bepaald gedeelte van het vaarwater;
 
-- f. vaarwater: het gedeelte van de bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=1&z=2012-05-19&g=2012-05-19) bedoelde wateren dat door schepen kan worden bevaren;
+- f. vaarwater: het gedeelte van de bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=1&z=2012-09-26&g=2012-09-26) bedoelde wateren dat door schepen kan worden bevaren;
 
 - g. varende: niet ten anker liggende, niet gemeerd zijnde en niet aan de grond zittend;
 
@@ -166,9 +166,9 @@ Wanneer meer dan één binnenschip voor de voortbeweging zorgt, moet de schipper
 
 7. Indien een stilliggend schip geen kapitein of schipper heeft,
 
-- a. is de eigenaar of de gebruiker, ieder afzonderlijk, verantwoordelijk voor de naleving van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-05-19&g=2012-05-19);
+- a. is de eigenaar of de gebruiker, ieder afzonderlijk, verantwoordelijk voor de naleving van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-09-26&g=2012-09-26);
 
-- b. is de wachtsman, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-05-19&g=2012-05-19), dan wel de persoon die toezicht houdt, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-05-19&g=2012-05-19), dan wel de persoon die luisterwacht houdt, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-05-19&g=2012-05-19), verantwoordelijk voor de naleving van de [artikelen 9, vierde, zesde tot en met negende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=1&artikel=9&z=2012-05-19&g=2012-05-19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=20&z=2012-05-19&g=2012-05-19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=27&z=2012-05-19&g=2012-05-19), [29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=29&z=2012-05-19&g=2012-05-19), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=30&z=2012-05-19&g=2012-05-19), [31, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-05-19&g=2012-05-19), [35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=4&artikel=35&z=2012-05-19&g=2012-05-19), en [43 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=43&z=2012-05-19&g=2012-05-19).
+- b. is de wachtsman, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-09-26&g=2012-09-26), dan wel de persoon die toezicht houdt, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-09-26&g=2012-09-26), dan wel de persoon die luisterwacht houdt, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=42&z=2012-09-26&g=2012-09-26), verantwoordelijk voor de naleving van de [artikelen 9, vierde, zesde tot en met negende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=1&artikel=9&z=2012-09-26&g=2012-09-26), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=20&z=2012-09-26&g=2012-09-26), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=27&z=2012-09-26&g=2012-09-26), [29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=29&z=2012-09-26&g=2012-09-26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=30&z=2012-09-26&g=2012-09-26), [31, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-09-26&g=2012-09-26), [35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=4&artikel=35&z=2012-09-26&g=2012-09-26), en [43 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=43&z=2012-09-26&g=2012-09-26).
 
 ### Hoofdstuk 2. Voorschriften betreffende de vaart
 
@@ -228,15 +228,15 @@ Een schip moet te allen tijde door kijken en luisteren alsook door gebruik te ma
 
 - 2°. binnenschepen of duwstellen met een lengte van meer dan 110 meter;
 
-- 3°. binnenschepen, duwstellen en gekoppelde samenstellen geladen met de gevaarlijke stoffen bedoeld in de bij dit besluit behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=2&z=2012-05-19&g=2012-05-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=3&z=2012-05-19&g=2012-05-19) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=4&z=2012-05-19&g=2012-05-19);
+- 3°. binnenschepen, duwstellen en gekoppelde samenstellen geladen met de gevaarlijke stoffen bedoeld in de bij dit besluit behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=2&z=2012-09-26&g=2012-09-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=3&z=2012-09-26&g=2012-09-26) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=4&z=2012-09-26&g=2012-09-26);
 
 - b. Indien de lengte van een binnenschip of van een duwstel meer dan 110 meter bedraagt, moet dit van een in twee richtingen werkende spreekverbinding zijn voorzien tussen de stuurhut en de kop van het schip of tussen de duwboot en de kop van het duwstel.
 
 4. Werktuiglijk voortbewogen schepen moeten hun vaart tijdig verminderen en zo nodig stoppen, indien voor hen hierdoor geen onmiddellijk gevaar dreigt:
 
-- a. telkens wanneer zij in de nabijheid komen van schepen waarvoor golfslag of zuiging gevaar kan opleveren en die de bij [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-05-19&g=2012-05-19), voorgeschreven lichten of dagmerken voeren;
+- a. telkens wanneer zij in de nabijheid komen van schepen waarvoor golfslag of zuiging gevaar kan opleveren en die de bij [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-09-26&g=2012-09-26), voorgeschreven lichten of dagmerken voeren;
 
-- b. op plaatsen aangeduid door het teken A 9 van de bij dit besluit behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5&z=2012-05-19&g=2012-05-19).
+- b. op plaatsen aangeduid door het teken A 9 van de bij dit besluit behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5&z=2012-09-26&g=2012-09-26).
 
 5. Wanneer schepen elkaar naderen met tegengestelde koersen bij een engte waarvan de doortocht zo nauw is dat het tegelijkertijd doorvaren gevaar kan opleveren, moet het schip dat geen hindernis aan zijn stuurboordzijde heeft, zijn weg vervolgen en moet het andere wachten totdat de engte vrij is.
 
@@ -308,17 +308,17 @@ Een schip moet te allen tijde door kijken en luisteren alsook door gebruik te ma
 
 9. Een schip mag ankeren noch afmeren binnen de afstanden van een ander schip zoals hieronder wordt bepaald:
 
-- a. binnen 10 meter van een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) voert;
+- a. binnen 10 meter van een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid, onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) voert;
 
-- b. binnen 50 meter van een schip dat twee blauwe lichten of kegels, bedoeld in [artikel 25, tweede lid, onder **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) of een rood helder rondom zichtbaar licht of de internationale seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), voert;
+- b. binnen 50 meter van een schip dat twee blauwe lichten of kegels, bedoeld in [artikel 25, tweede lid, onder b,](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) of een rood helder rondom zichtbaar licht of de internationale seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), voert;
 
-- c. binnen 100 meter van een schip dat drie blauwe lichten of kegels, bedoeld in [artikel 25, tweede lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), voert.
+- c. binnen 100 meter van een schip dat drie blauwe lichten of kegels, bedoeld in [artikel 25, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), voert.
 
-10. Het verbod in het negende lid, onder **a**, geldt niet voor een schip dat eveneens dit licht of dit dagmerk voert. Het verbod geldt evenmin voor een schip dat, zonder dat het dit licht of dit dagmerk voert, is voorzien van een certificaat van goedkeuring, bedoeld in het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR) nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften voor een schip dat ingevolge [artikel 25, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), verplicht is een blauw licht of een blauwe kegel te voeren.
+10. Het verbod in het negende lid, onder **a**, geldt niet voor een schip dat eveneens dit licht of dit dagmerk voert. Het verbod geldt evenmin voor een schip dat, zonder dat het dit licht of dit dagmerk voert, is voorzien van een certificaat van goedkeuring, bedoeld in de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN) nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften voor een schip dat ingevolge [artikel 25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), verplicht is een blauw licht of een blauwe kegel te voeren.
 
 11. De bevoegde autoriteit kan voor het ankeren en afmeren kleinere afstanden toestaan dan die in het negende lid worden vermeld.
 
-12. Het bepaalde in het negende, tiende en elfde lid is van overeenkomstige toepassing voor de afstanden waar binnen een schip, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), niet mag ankeren of afmeren ten opzichte van een ander schip.
+12. Het bepaalde in het negende, tiende en elfde lid is van overeenkomstige toepassing voor de afstanden waar binnen een schip, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), niet mag ankeren of afmeren ten opzichte van een ander schip.
 
 ##### Artikel 10. Keren
 
@@ -334,7 +334,7 @@ De voorschriften in deze afdeling zijn van toepassing op schepen die in zicht va
 
 ##### Artikel 12. Afstand houden van schepen die gevaarlijke stoffen vervoeren
 
-Behalve bij oplopen en bij voorbijvaren met tegengestelde koersen, mag een schip niet varen binnen een afstand van 50 meter van een schip dat de lichten of dagmerken voert voorgeschreven in [artikel 25, eerste lid en tweede lid, onder **a, b** en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19).
+Behalve bij oplopen en bij voorbijvaren met tegengestelde koersen, mag een schip niet varen binnen een afstand van 50 meter van een schip dat de lichten of dagmerken voert voorgeschreven in [artikel 25, eerste lid en tweede lid, onder **a, b** en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26).
 
 ##### Artikel 13. Oplopen en verbod op gelijke hoogte te blijven varen
 
@@ -350,7 +350,7 @@ Behalve bij oplopen en bij voorbijvaren met tegengestelde koersen, mag een schip
 
 6. Het opgelopen schip moet ten minste vijf korte stoten geven indien het niet kan medewerken tot het oplopen of indien naar zijn mening het oplopen onmogelijk is.
 
-7. Een schip mag, behoudens toestemming van de bevoegde autoriteit, een bovenmaats zeeschip dat varende is en de lichten of het dagmerk voert omschreven in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=28&z=2012-05-19&g=2012-05-19) niet oplopen en voorbijvaren.
+7. Een schip mag, behoudens toestemming van de bevoegde autoriteit, een bovenmaats zeeschip dat varende is en de lichten of het dagmerk voert omschreven in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=28&z=2012-09-26&g=2012-09-26) niet oplopen en voorbijvaren.
 
 8. Het opgelopen schip is verplicht het oplopen te vergemakkelijken door tijdig en genoegzaam vaart te verminderen en het oplopende schip zoveel mogelijk ruimte te geven.
 
@@ -364,7 +364,7 @@ Behalve bij oplopen en bij voorbijvaren met tegengestelde koersen, mag een schip
 
 ##### Artikel 15. Koers kruisen
 
-Wanneer de koersen van twee werktuiglijk voortbewogen schepen elkaar kruisen zodanig dat dit gevaar voor aanvaring medebrengt, moet, behalve waar [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=1&artikel=9&z=2012-05-19&g=2012-05-19), anders voorschrijft, het schip dat het andere aan stuurboordzijde van zich heeft uitwijken en, wanneer de omstandigheden het toelaten, vermijden vóór het andere over te lopen.
+Wanneer de koersen van twee werktuiglijk voortbewogen schepen elkaar kruisen zodanig dat dit gevaar voor aanvaring medebrengt, moet, behalve waar [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=1&artikel=9&z=2012-09-26&g=2012-09-26), anders voorschrijft, het schip dat het andere aan stuurboordzijde van zich heeft uitwijken en, wanneer de omstandigheden het toelaten, vermijden vóór het andere over te lopen.
 
 ##### Artikel 16. Maatregelen van het schip dat moet uitwijken
 
@@ -382,7 +382,7 @@ Elk schip dat verplicht is uit te wijken voor een ander schip moet, voor zover d
 
 ##### Artikel 18. Voorrangsregels
 
-1. Behalve waar [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=2&artikel=13&z=2012-05-19&g=2012-05-19) anders voorschrijft:
+1. Behalve waar [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=2&afdeling=2&artikel=13&z=2012-09-26&g=2012-09-26) anders voorschrijft:
 
 - a. moet een schip dat varende is uitwijken voor:
 
@@ -542,7 +542,7 @@ Een werktuiglijk voortbewogen binnenschip met een lengte van 110 meter of minder
 
 2. Het voorste toplicht of, indien slechts één toplicht wordt gevoerd, dat toplicht, wordt voor schepen met een lengte van 40 meter of meer op ten minste 6 meter hoogte, en voor schepen met een lengte van minder dan 40 meter op ten minste 4 meter hoogte geplaatst, en in elk geval ten minste 1 meter hoger dan de zijdelichten.
 
-3. Wanneer twee toplichten worden gevoerd, moet het achterste ten minste 3 meter hoger zijn geplaatst dan het voorste of het hoogste van de bij [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=24&z=2012-05-19&g=2012-05-19), bedoelde lichten. De horizontale afstand tussen beide lichten mag niet minder zijn dan de helft van de lengte van het schip.
+3. Wanneer twee toplichten worden gevoerd, moet het achterste ten minste 3 meter hoger zijn geplaatst dan het voorste of het hoogste van de bij [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=24&z=2012-09-26&g=2012-09-26), bedoelde lichten. De horizontale afstand tussen beide lichten mag niet minder zijn dan de helft van de lengte van het schip.
 
 4. Bij het varen door de doorvaartopening van een brug met een beperkte doorvaarthoogte dan wel van een ander kunstwerk, mogen de in het tweede en derde lid bedoelde lichten zoveel lager worden gevoerd als hiervoor nodig is.
 
@@ -560,7 +560,7 @@ Een werktuiglijk voortbewogen binnenschip met een lengte van 110 meter of minder
 
 ##### Artikel 24. Slepen en assisteren
 
-1. Een sleepboot of een werktuiglijk voortbewogen schip dat één of meer schepen sleept of assisteert moet, behalve de zijdelichten en het heklicht, onder of boven het in [artikel 23, eerste lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-05-19&g=2012-05-19) bedoelde toplicht een tweede licht voeren van gelijke inrichting en sterkte als dit toplicht.
+1. Een sleepboot of een werktuiglijk voortbewogen schip dat één of meer schepen sleept of assisteert moet, behalve de zijdelichten en het heklicht, onder of boven het in [artikel 23, eerste lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-09-26&g=2012-09-26) bedoelde toplicht een tweede licht voeren van gelijke inrichting en sterkte als dit toplicht.
 
 2. Wanneer twee of meer sleepboten gezamenlijk één of meer schepen slepen of assisteren moet ieder, onder of boven de in het eerste lid genoemde lichten, een derde wit licht voeren van gelijke inrichting en sterkte.
 
@@ -570,7 +570,7 @@ Een werktuiglijk voortbewogen binnenschip met een lengte van 110 meter of minder
 
 5. Op een binnenschip dat sleept, moet het heklicht worden vervangen door een geel licht van gelijke inrichting en sterkte.
 
-6. Een zeeschip dat wordt gesleept, moet behalve de zijdelichten en het heklicht ook het toplicht of de toplichten voeren en bovendien de lichten of de dagmerken voorgeschreven in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=27&z=2012-05-19&g=2012-05-19).
+6. Een zeeschip dat wordt gesleept, moet behalve de zijdelichten en het heklicht ook het toplicht of de toplichten voeren en bovendien de lichten of de dagmerken voorgeschreven in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=27&z=2012-09-26&g=2012-09-26).
 
 7. Een binnenschip dat wordt gesleept, moet bij nacht één rondom zichtbaar wit helder licht voeren op een hoogte van ten minste 6 meter. Bij een scheepslengte van meer dan 110 meter moeten twee dergelijke lichten worden gevoerd, één voorop en één achterop, op gelijke hoogte; het laatste binnenschip van een sleep moet daarbij het heklicht voeren.
 
@@ -584,11 +584,11 @@ Bij dag voert een binnenschip dat wordt gesleept een gele bal op een geschikte p
 
 9. Een schip dat wordt geassisteerd, moet de lichten voeren van een werktuiglijk voortbewogen schip van zijn soort en lengte.
 
-10. Voor het lager voeren van de in dit artikel bedoelde lichten, is [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-05-19&g=2012-05-19), van overeenkomstige toepassing.
+10. Voor het lager voeren van de in dit artikel bedoelde lichten, is [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-09-26&g=2012-09-26), van overeenkomstige toepassing.
 
 ##### Artikel 25. Schepen die bepaalde gevaarlijke stoffen vervoeren
 
-1. Een zeeschip dat gevaarlijke stoffen vervoert, bedoeld in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-05-19&g=2012-05-19), moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren:
+1. Een zeeschip dat gevaarlijke stoffen vervoert, bedoeld in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-09-26&g=2012-09-26), moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren:
 
 - -. bij nacht: een rondom zichtbaar rood helder licht;
 
@@ -596,19 +596,19 @@ Bij dag voert een binnenschip dat wordt gesleept een gele bal op een geschikte p
 
 waar zij het best kunnen worden gezien en op een hoogte van ten minste 6 meter boven het dek.
 
-- a. Een binnenschip dat bepaalde brandbare stoffen vervoert, bedoeld in het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR) nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van één blauwe kegel, kan ook één blauwe kegel op het voor- en één op het achterschip op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
+- a. Een binnenschip dat bepaalde brandbare stoffen vervoert, bedoeld in de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN), nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van één blauwe kegel, kan ook één blauwe kegel op het voor- en één op het achterschip op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
 
 - -. bij nacht: één rondom zichtbaar blauw licht;
 
 - -. bij dag: één blauwe kegel met de punt naar beneden.
 
-- b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van twee blauwe kegels, kunnen ook telkens twee blauwe kegels op het voor- en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
+- b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van twee blauwe kegels, kunnen ook telkens twee blauwe kegels op het voor- en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
 
 - -. bij nacht: twee rondom zichtbare blauwe lichten;
 
 - -. bij dag: twee blauwe kegels met de punt naar beneden; in een verticale lijn en met een onderlinge afstand van ongeveer 1 meter.
 
-- c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van drie blauwe kegels, kunnen ook telkens drie blauwe kegels op het voor en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
+- c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: In plaats van drie blauwe kegels, kunnen ook telkens drie blauwe kegels op het voor en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.
 
 - -. bij nacht: drie rondom zichtbare blauwe lichten;
 
@@ -620,9 +620,9 @@ waar zij het best kunnen worden gezien en op een hoogte van ten minste 6 meter b
 
 - f. De sterkte van de blauwe lichten voorgeschreven in dit lid dient ten minste gelijk te zijn aan die van blauwe gewone lichten.
 
-3. Het eerste en tweede lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-05-19&g=2012-05-19) bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.
+3. Het eerste en tweede lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-09-26&g=2012-09-26) bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.
 
-4. Een binnenschip, dat in het bezit is van een certificaat van goedkeuring als bedoeld in het ADNR, nr. 8.1.8 en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het tweede lid, onderdeel **a**, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens van het tweede lid, onder **a**, moet voeren, bij nadering van een sluis de tekens, bedoeld in het tweede lid, onder **a**, voeren.
+4. Een binnenschip, dat in het bezit is van een certificaat van goedkeuring als bedoeld in het ADN, nr. 8.1.8.0 en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het tweede lid, onderdeel **a**, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens van het tweede lid, onder **a**, moet voeren, bij nadering van een sluis de tekens, bedoeld in het tweede lid, onder **a**, voeren.
 
 ##### Artikel 26. Lichten voor duwstellen
 
@@ -642,7 +642,7 @@ waar zij het best kunnen worden gezien en op een hoogte van ten minste 6 meter b
 
 - 2°. een heklicht op elk ander schip dat van achteren over de volle breedte zichtbaar is; indien, behalve de duwboot, meer dan twee schepen van achteren zichtbaar zijn, moet dit licht alleen door de schepen aan de buitenzijden worden gevoerd.
 
-2. Een duwstel met een lengte van 110 meter of minder en met een breedte van 12 meter of minder, dat varende is, moet de lichten voeren voorgeschreven bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-05-19&g=2012-05-19) voor een werktuiglijk voortbewogen schip.
+2. Een duwstel met een lengte van 110 meter of minder en met een breedte van 12 meter of minder, dat varende is, moet de lichten voeren voorgeschreven bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=23&z=2012-09-26&g=2012-09-26) voor een werktuiglijk voortbewogen schip.
 
 ##### Artikel 27. Onmanoeuvreerbare, beperkt manoeuvreerbare schepen en bijzondere transporten
 
@@ -710,7 +710,7 @@ Een klein zeilschip dat onder zeil is en tevens werktuiglijk wordt voortbewogen,
 
 7. Een klein schip dat ten anker of gemeerd ligt moet, tenzij het vanaf de wal voldoende wordt verlicht, daar waar dit het best kan worden gezien, een rondom zichtbaar wit gewoon licht voeren.
 
-8. Het bepaalde bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) is van overeenkomstige toepassing op kleine schepen. De voorgeschreven dagmerken mogen van kleinere afmetingen zijn.
+8. Het bepaalde bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) is van overeenkomstige toepassing op kleine schepen. De voorgeschreven dagmerken mogen van kleinere afmetingen zijn.
 
 9. Een klein schip moet zijn voorzien van een deugdelijke radarreflector, bij zeilschepen ten minste 4 meter boven het wateroppervlak, en bij werktuiglijk voortbewogen schepen zo hoog mogelijk boven de opbouw.
 
@@ -926,11 +926,11 @@ Schepen die het recht van voorrang bij schutting hebben dienen dit tijdig per ma
 
 - e. mag een schip, zodra het is gemeerd en totdat het uitvaren van de sluis wordt toegestaan, geen gebruik maken van de voortstuwingsmiddelen.
 
-9. Op een wachtplaats van een sluis en in een sluis moet een schip een zijwaartse afstand van ten minste 10 meter in acht nemen ten opzichte van een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) hetzij een rood licht of de seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), voert. Deze verplichting geldt niet voor schepen die hetzelfde licht of dagmerk voeren.
+9. Op een wachtplaats van een sluis en in een sluis moet een schip een zijwaartse afstand van ten minste 10 meter in acht nemen ten opzichte van een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) hetzij een rood licht of de seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), voert. Deze verplichting geldt niet voor schepen die hetzelfde licht of dagmerk voeren.
 
-10. Een schip dat twee of drie blauwe lichten dan wel twee of drie blauwe kegels, bedoeld in [artikel 25, tweede lid onder **b** en **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) voert, mag een sluis niet invaren indien het niet afzonderlijk zou worden geschut. Een ander schip mag een sluis niet invaren indien het samen met een schip dat deze lichten of dagmerken voert, zou worden geschut. Het voorgaande is niet van toepassing op schepen die onderling hetzelfde sein voeren.
+10. Een schip dat twee of drie blauwe lichten dan wel twee of drie blauwe kegels, bedoeld in [artikel 25, tweede lid onder **b** en **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) voert, mag een sluis niet invaren indien het niet afzonderlijk zou worden geschut. Een ander schip mag een sluis niet invaren indien het samen met een schip dat deze lichten of dagmerken voert, zou worden geschut. Het voorgaande is niet van toepassing op schepen die onderling hetzelfde sein voeren.
 
-11. Een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19) hetzij een rood licht of de seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), voert, mag een sluis niet invaren indien het samen met een passagiersschip zou worden geschut. Een passagiersschip mag een sluis niet invaren indien het samen met een schip dat deze lichten of dagmerken voert, zou worden geschut.
+11. Een schip dat een blauw licht of een blauwe kegel, bedoeld in [artikel 25, tweede lid onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26) hetzij een rood licht of de seinvlag "B", bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), voert, mag een sluis niet invaren indien het samen met een passagiersschip zou worden geschut. Een passagiersschip mag een sluis niet invaren indien het samen met een schip dat deze lichten of dagmerken voert, zou worden geschut.
 
 12. De bevoegde autoriteit kan in afwijking van het negende, tiende en elfde lid anders bepalen.
 
@@ -966,7 +966,7 @@ Een bijzonder transport mag slechts varen met de toestemming van de bevoegde aut
 
 ##### Artikel 42. Verplichting tot wacht houden
 
-1. Een schip dat niet varende is en dat is geladen met gevaarlijke stoffen, bedoeld in de bij dit besluit behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-05-19&g=2012-05-19), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=2&z=2012-05-19&g=2012-05-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=3&z=2012-05-19&g=2012-05-19) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=4&z=2012-05-19&g=2012-05-19), moet onder toezicht staan van een zich voortdurend aan boord bevindende ter zake kundige wachtsman.
+1. Een schip dat niet varende is en dat is geladen met gevaarlijke stoffen, bedoeld in de bij dit besluit behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=1&z=2012-09-26&g=2012-09-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=2&z=2012-09-26&g=2012-09-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=3&z=2012-09-26&g=2012-09-26) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=4&z=2012-09-26&g=2012-09-26), moet onder toezicht staan van een zich voortdurend aan boord bevindende ter zake kundige wachtsman.
 
 2. Een ander schip dat niet varende is, moet, wanneer het geen kapitein of schipper aan boord heeft, onder toezicht staan van een persoon die zonodig snel kan ingrijpen.
 
@@ -1056,17 +1056,17 @@ Aan toestemmingen, ontheffingen, vrijstellingen en vergunningen kunnen voorschri
 
 ##### Artikel 51. Verkeerstekens
 
-De verkeerstekens die kunnen worden aangebracht en hun betekenis zijn vermeld in de bij dit besluit behorende [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5&z=2012-05-19&g=2012-05-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=6&z=2012-05-19&g=2012-05-19).
+De verkeerstekens die kunnen worden aangebracht en hun betekenis zijn vermeld in de bij dit besluit behorende [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5&z=2012-09-26&g=2012-09-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=6&z=2012-09-26&g=2012-09-26).
 
 ##### Artikel 52. Te beschermen belangen
 
-1. Toepassing van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=47&z=2012-05-19&g=2012-05-19), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=48&z=2012-05-19&g=2012-05-19) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=51&z=2012-05-19&g=2012-05-19) kan, behalve in het belang van de veiligheid of het vlotte verloop van het scheepvaartverkeer, geschieden in het belang van:
+1. Toepassing van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=47&z=2012-09-26&g=2012-09-26), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=48&z=2012-09-26&g=2012-09-26) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=51&z=2012-09-26&g=2012-09-26) kan, behalve in het belang van de veiligheid of het vlotte verloop van het scheepvaartverkeer, geschieden in het belang van:
 
 - a. het in stand houden van scheepvaartwegen en het waarborgen van de bereikbaarheid daarvan;
 
 - b. het voorkomen of beperken van schade door het scheepvaartverkeer aan de waterhuishouding, oevers en waterkeringen, of werken gelegen in of over scheepvaartwegen.
 
-2. Toepassing van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=47&z=2012-05-19&g=2012-05-19), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=48&z=2012-05-19&g=2012-05-19) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=51&z=2012-05-19&g=2012-05-19) ten behoeve van een in het eerste lid genoemd belang kan mede geschieden in het belang van het voorkomen of beperken van:
+2. Toepassing van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=47&z=2012-09-26&g=2012-09-26), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=48&z=2012-09-26&g=2012-09-26) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=5&artikel=51&z=2012-09-26&g=2012-09-26) ten behoeve van een in het eerste lid genoemd belang kan mede geschieden in het belang van het voorkomen of beperken van:
 
 - a. hinder of gevaar door het scheepvaartverkeer voor personen die zich anders dan op een schip te water bevinden;
 
@@ -1404,7 +1404,7 @@ Vervallen
 
 ## Bijlage 1. Vervoer van gevaarlijke stoffen door zeeschepen
 
-De gevaarlijke stoffen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-05-19&g=2012-05-19), zijn:
+De gevaarlijke stoffen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=25&z=2012-09-26&g=2012-09-26), zijn:
 
 - 1. Stoffen van klasse 1, gevarengroep 1.1 en 1.5 van de International Maritime Dangerous Goods Code (IMDG-Code), indien het schip in totaal meer vervoert dan 100 kg bruto;
 
@@ -1498,13 +1498,13 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 49a. Afwijken van voorschriften door handhavingsdiensten, brandweer en schepen bestemd tot inzet bij calamiteiten
 
-1. Schepen van handhavingsdiensten en brandweer, en reddingsvaartuigen betrokken bij reddingsoperaties mogen, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=3&z=2012-05-19&g=2012-05-19), afwijken van de voorschriften van dit besluit voor zover dat voor een goede vervulling van hun taak noodzakelijk is.
+1. Schepen van handhavingsdiensten en brandweer, en reddingsvaartuigen betrokken bij reddingsoperaties mogen, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=3&z=2012-09-26&g=2012-09-26), afwijken van de voorschriften van dit besluit voor zover dat voor een goede vervulling van hun taak noodzakelijk is.
 
-2. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-05-19&g=2012-05-19), is van overeenkomstige toepassing op schepen van de brandweer die hulp bieden of daartoe op weg zijn en op reddingsvaartuigen die betrokken zijn bij een reddingsoperatie met toestemming van de Rijkshavenmeester Westerschelde.
+2. [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=3&artikel=31&z=2012-09-26&g=2012-09-26), is van overeenkomstige toepassing op schepen van de brandweer die hulp bieden of daartoe op weg zijn en op reddingsvaartuigen die betrokken zijn bij een reddingsoperatie met toestemming van de Rijkshavenmeester Westerschelde.
 
 ##### Artikel 49b. Watersport
 
-1. Zwemmen, onderwatersport, watersport zonder gebruik te maken van een schip, waterskiën of doen waterskiën of op soortgelijke wijze van het vaarwater gebruik maken of gebruik doen maken, varen met een waterscooter, varen met een zeilplank of varen met een door een vlieger voortbewogen plank, vinden niet plaats in het toepassingsgebied als omschreven in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=1&z=2012-05-19&g=2012-05-19).
+1. Zwemmen, onderwatersport, watersport zonder gebruik te maken van een schip, waterskiën of doen waterskiën of op soortgelijke wijze van het vaarwater gebruik maken of gebruik doen maken, varen met een waterscooter, varen met een zeilplank of varen met een door een vlieger voortbewogen plank, vinden niet plaats in het toepassingsgebied als omschreven in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&hoofdstuk=1&artikel=1&z=2012-09-26&g=2012-09-26).
 
 2. De bevoegde autoriteit kan vrijstelling of ontheffing verlenen van het eerste lid.
 
