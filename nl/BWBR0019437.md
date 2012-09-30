@@ -4,7 +4,7 @@ identifier: "BWBR0019437"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-05"
-last_updated: "2012-09-29"
+last_updated: "2012-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019437"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - g. [richtlijn (EEG) 66/402](31966L0402): [richtlijn nr. 66/402/EEG](31966L0402) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
 
-- h. [richtlijn (EEG) 92/34](31992L0034): [richtlijn nr. 92/34/EEG](31992L0034) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 157);
+- h. richtlijn (EG) 2008/90: richtlijn nr. 2008/90/EG van de Raad van de Europese Unie van 29 september 2008, betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267);
 
 - i. [richtlijn (EEG) 93/17](31993L0017): [richtlijn nr. 93/17/EEG](31993L0017) van de Commissie van de Europese Gemeenschappen van 30 maart 1993 tot vaststelling van communautaire klassen voor basispootgoed van aardappelen en van de daarvoor geldende eisen en aanduidingen (PbEG L 106);
 
@@ -142,7 +142,7 @@ Als gewassen, bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1
 
 ##### Artikel 3
 
-Voor leveranciers van groenteplanten en leveranciers van teeltmateriaal van fruitgewassen, siergewassen en bosbouwgewassen zijn de eisen inzake registratie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), vastgelegd in respectievelijk de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=81&z=2012-09-29&g=2012-09-29), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=85&z=2012-09-29&g=2012-09-29), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=5&artikel=92&z=2012-09-29&g=2012-09-29) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=6&artikel=97&z=2012-09-29&g=2012-09-29).
+Voor leveranciers van groenteplanten en leveranciers van teeltmateriaal van fruitgewassen, siergewassen en bosbouwgewassen zijn de eisen inzake registratie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), vastgelegd in respectievelijk de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=81&z=2012-09-30&g=2012-09-30), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=85&z=2012-09-30&g=2012-09-30), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=5&artikel=92&z=2012-09-30&g=2012-09-30) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=6&artikel=97&z=2012-09-30&g=2012-09-30).
 
 ##### Artikel 4
 
@@ -232,7 +232,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 ##### Artikel 15
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=4&z=2012-09-29&g=2012-09-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=5&z=2012-09-29&g=2012-09-29), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-29&g=2012-09-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2012-09-29&g=2012-09-29) zijn van overeenkomstige toepassing.
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=4&z=2012-09-30&g=2012-09-30), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=5&z=2012-09-30&g=2012-09-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-30&g=2012-09-30) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2012-09-30&g=2012-09-30) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Onderzoek, keuring en controle
 
@@ -266,7 +266,7 @@ Bij het onderzoek, de keuring en de controle van groenteplanten neemt Naktuinbou
 
 ##### Artikel 22
 
-Bij het onderzoek, de keuring en de controle van teeltmateriaal van fruitgewassen neemt Naktuinbouw de artikelen 5, 6, 10, derde lid, 17, 19 en 20, eerste lid, van [richtlijn (EEG) 92/34](31992L0034) en de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/64](31993L0064) in acht.
+Bij het onderzoek, de keuring en de controle van teeltmateriaal van fruitgewassen neemt Naktuinbouw het bepaalde bij of krachtens de artikelen 5, 6, 12, 13, 14, eerste lid, en 16 van richtlijn (EG) 2008/90 en de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/64](31993L0064) in acht.
 
 ##### Artikel 23
 
@@ -294,7 +294,7 @@ Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw 
 
 ##### Artikel 27
 
-1. Teeltmateriaal wordt slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de voorwaarden, genoemd in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=2&artikel=38&z=2012-09-29&g=2012-09-29), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=44&z=2012-09-29&g=2012-09-29), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=4&artikel=49&z=2012-09-29&g=2012-09-29), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=5&artikel=55&z=2012-09-29&g=2012-09-29), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=68&z=2012-09-29&g=2012-09-29) en [69g](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=7&artikel=69g&z=2012-09-29&g=2012-09-29).
+1. Teeltmateriaal wordt slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de voorwaarden, genoemd in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=2&artikel=38&z=2012-09-30&g=2012-09-30), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=44&z=2012-09-30&g=2012-09-30), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=4&artikel=49&z=2012-09-30&g=2012-09-30), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=5&artikel=55&z=2012-09-30&g=2012-09-30), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=68&z=2012-09-30&g=2012-09-30) en [69g](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=7&artikel=69g&z=2012-09-30&g=2012-09-30).
 
 2. Verpakkingen van teeltmateriaal worden gesloten door NAK of door de leverancier onder toezicht van NAK.
 
@@ -434,7 +434,7 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 5. NAK kan onder de voorwaarden, genoemd in artikel 10 quinquies van [richtlijn (EEG) 66/401](31966L0401) de voorschriften inzake het sluitingssysteem en de etikettering van de verpakking vereenvoudigen voor de verkoop van gecertificeerd zaad in bulk aan de eindverbruiker.
 
-6. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=1&artikel=27&z=2012-09-29&g=2012-09-29), is niet van toepassing op verpakkingen van mengsels van teeltmateriaal van groenvoedergewassen die niet zijn bestemd voor voederdoeleinden, als bedoeld in artikel 2, eerste lid, onderdeel F, van [richtlijn (EEG) 66/401](31966L0401). De verpakkingen worden gesloten met een etiket van de leverancier.
+6. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=1&artikel=27&z=2012-09-30&g=2012-09-30), is niet van toepassing op verpakkingen van mengsels van teeltmateriaal van groenvoedergewassen die niet zijn bestemd voor voederdoeleinden, als bedoeld in artikel 2, eerste lid, onderdeel F, van [richtlijn (EEG) 66/401](31966L0401). De verpakkingen worden gesloten met een etiket van de leverancier.
 
 ##### Artikel 39
 
@@ -646,13 +646,13 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 2. In geval van microvermeerdering, bedoeld in het eerste lid, wordt gebruik gemaakt van naar het oordeel van NAK voor microvermeerdering geschikte procedures en faciliteiten.
 
-3. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=65&z=2012-09-29&g=2012-09-29) is niet van toepassing op pootaardappelen die met microvermeerdering zijn vermeerderd.
+3. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=65&z=2012-09-30&g=2012-09-30) is niet van toepassing op pootaardappelen die met microvermeerdering zijn vermeerderd.
 
 ##### Artikel 67
 
 1. Pootaardappelen en andere aardappelen worden in alle productiestadia gescheiden gehouden van andere aardappelen.
 
-2. Het samenvoegen van de stammen, genoemd in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=59&z=2012-09-29&g=2012-09-29), uitgezonderd uitgangsstammen, is toegestaan onder de voorwaarde dat de bij elkaar gevoegde stammen van hetzelfde uitgangsjaar zijn. Bij éénjarige stammen bedraagt het aantal samen te voegen stammen niet meer dan 20.
+2. Het samenvoegen van de stammen, genoemd in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=59&z=2012-09-30&g=2012-09-30), uitgezonderd uitgangsstammen, is toegestaan onder de voorwaarde dat de bij elkaar gevoegde stammen van hetzelfde uitgangsjaar zijn. Bij éénjarige stammen bedraagt het aantal samen te voegen stammen niet meer dan 20.
 
 3. Het samenvoegen van partijen pootgoed is toegestaan, onder de voorwaarden dat de partijen van dezelfde leverancier afkomstig zijn en dat de partij een uniform uiterlijk heeft.
 
@@ -808,7 +808,7 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 ##### Artikel 84
 
-1. Onverminderd [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=83&z=2012-09-29&g=2012-09-29), worden groenteplanten slechts in voldoende homogene partijen in de handel gebracht nadat is vastgesteld dat zij voldoen aan de bepalingen van deze regeling en indien zij vergezeld gaan van een document dat door de leverancier is opgemaakt. Indien op dit document een officiële verklaring voorkomt, wordt deze duidelijk gescheiden van de rest van de inhoud van het document.
+1. Onverminderd [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=83&z=2012-09-30&g=2012-09-30), worden groenteplanten slechts in voldoende homogene partijen in de handel gebracht nadat is vastgesteld dat zij voldoen aan de bepalingen van deze regeling en indien zij vergezeld gaan van een document dat door de leverancier is opgemaakt. Indien op dit document een officiële verklaring voorkomt, wordt deze duidelijk gescheiden van de rest van de inhoud van het document.
 
 2. Het in het eerste lid bedoelde document voldoet aan de vereisten, genoemd in artikel 6 van [richtlijn (EEG) 93/61](31993L0061).
 
@@ -816,7 +816,7 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 ##### Artikel 85
 
-De leverancier van teeltmateriaal van fruitgewassen voldoet aan de vereisten, genoemd in artikel 5 van [richtlijn (EEG) 92/34](31992L0034) en de artikelen 3, 4 en 5 van [richtlijn (EEG) 93/64](31993L0064).
+De leverancier van teeltmateriaal van fruitgewassen voldoet aan het bepaalde bij of krachtens artikel 6 van richtlijn (EG) 2008/90 en de artikelen 3, 4 en 5 van [richtlijn (EEG) 93/64](31993L0064).
 
 ##### Artikel 86
 
@@ -832,13 +832,11 @@ De leverancier van teeltmateriaal van fruitgewassen voldoet aan de vereisten, ge
 
 ##### Artikel 88
 
-1. Teeltmateriaal van fruitgewassen wordt in de handel gebracht onder vermelding van het ras waartoe het behoort. Indien bij onderstammen het materiaal niet tot een ras behoort, wordt er verwezen naar de betrokken soort of naar de betrokken interspecifieke hybride.
+1. Teeltmateriaal van fruitgewassen wordt alleen in de handel gebracht indien het behoort tot een ras dat kwekersrechtelijk is beschermd, dat is toegelaten of dat overeenkomstig artikel 7, tweede lid, onder c, van richtlijn (EG) 2008/90 als algemeen bekend wordt beschouwd.
 
-2. Het in het eerste lid bedoelde ras voldoet aan de vereisten, genoemd in artikel 9, tweede lid, van [richtlijn (EEG) 92/34](31992L0034).
+2. Teeltmateriaal van fruitgewassen wordt in de handel gebracht onder vermelding van het ras waartoe het behoort. Indien bij onderstammen het materiaal niet tot een ras behoort, wordt er verwezen naar de betrokken soort of naar de betrokken interspecifieke hybride.
 
 3. Het teeltmateriaal voldoet aan de relevante plantenziektekundige voorschriften, genoemd in [richtlijn (EG) 2000/29](32000L0029).
-
-4. In de door de leverancier op grond van artikel 9, tweede lid, onderdeel ii, van [richtlijn (EEG) 92/34](31992L0034), bij te houden lijsten worden de gegevens, genoemd in artikel 2 van [richtlijn (EEG) 93/79](31993L0079) vermeld.
 
 ##### Artikel 89
 
@@ -1076,13 +1074,13 @@ De bepalingen van deze regeling zijn niet van toepassing op teeltmateriaal waarb
 
 ##### Artikel 118
 
-Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=1&artikel=1&z=2012-09-29&g=2012-09-29), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=1&artikel=1&z=2012-09-30&g=2012-09-30), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 119
 
-1. Leveranciers die op grond van het [Aansluitingsbesluit N.A.K.](https://wetten.overheid.nl/jci1.3:c:BWBR0002567) zijn aangesloten bij NAK, worden ingeschreven in het register bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-29&g=2012-09-29). Leveranciers die naar het oordeel van NAK tevens voldoen aan de vereisten, genoemd in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=9&z=2012-09-29&g=2012-09-29) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-29&g=2012-09-29).
+1. Leveranciers die op grond van het [Aansluitingsbesluit N.A.K.](https://wetten.overheid.nl/jci1.3:c:BWBR0002567) zijn aangesloten bij NAK, worden ingeschreven in het register bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-30&g=2012-09-30). Leveranciers die naar het oordeel van NAK tevens voldoen aan de vereisten, genoemd in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=9&z=2012-09-30&g=2012-09-30) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-30&g=2012-09-30).
 
-2. Leveranciers die op grond van het [Aansluitingsbesluit Naktuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0002566) zijn aangesloten bij Naktuinbouw en die naar het oordeel van Naktuinbouw voldoen aan de vereisten, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=2&z=2012-09-29&g=2012-09-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-09-29&g=2012-09-29), zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-29&g=2012-09-29). Leveranciers die naar het oordeel van Naktuinbouw tevens voldoen aan de vereisten, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=13&z=2012-09-29&g=2012-09-29) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-29&g=2012-09-29).
+2. Leveranciers die op grond van het [Aansluitingsbesluit Naktuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0002566) zijn aangesloten bij Naktuinbouw en die naar het oordeel van Naktuinbouw voldoen aan de vereisten, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=2&z=2012-09-30&g=2012-09-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-09-30&g=2012-09-30), zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-30&g=2012-09-30). Leveranciers die naar het oordeel van Naktuinbouw tevens voldoen aan de vereisten, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=13&z=2012-09-30&g=2012-09-30) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2012-09-30&g=2012-09-30).
 
 ##### Artikel 120
 
@@ -1122,7 +1120,7 @@ Indien op grond van de door een leverancier van teeltmateriaal gevolgde werkwijz
 
 ##### Artikel 25a
 
-[Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=3&paragraaf=1&artikel=20a&z=2012-09-29&g=2012-09-29) is van toepassing, met dien verstande dat NAK wordt gelezen als Naktuinbouw.
+[Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=3&paragraaf=1&artikel=20a&z=2012-09-30&g=2012-09-30) is van toepassing, met dien verstande dat NAK wordt gelezen als Naktuinbouw.
 
 ### Hoofdstuk 4. het in de handel brengen van teeltmateriaal van Landbouwgewassen
 
@@ -1248,7 +1246,9 @@ Bij het onderzoek, de keuring en de controle van zaad van voor teelt onder bijzo
 
 ##### Artikel 91a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Teeltmateriaal van fruitgewassen als bedoeld in artikel 21 van richtlijn (EG) 2008/90 kan tot en met 31 december 2018 in Nederland in de handel worden gebracht.
+
+2. Het teeltmateriaal, bedoeld in het eerste lid, wordt geïdentificeerd door middel van een verwijzing naar artikel 21 van richtlijn (EG) 2008/90 op het etiket of document.
 
 #### § 5. Siergewassen
 
@@ -1322,9 +1322,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 87a
 
-1. Onverminderd de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=86&z=2012-09-29&g=2012-09-29) en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=87&z=2012-09-29&g=2012-09-29)wordt teeltmateriaal van fruitgewassen dat bestaat uit een genetisch gemodificeerd organisme in de zin van de punten 1 en 2 van artikel 2 van richtlijn (EG) 2001/18 alleen in de handel gebracht indien het genetisch gemodificeerde organisme uit hoofde van die richtlijn is toegelaten.
+1. Onverminderd de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=86&z=2012-09-30&g=2012-09-30) en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=87&z=2012-09-30&g=2012-09-30)wordt teeltmateriaal van fruitgewassen dat bestaat uit een genetisch gemodificeerd organisme in de zin van de punten 1 en 2 van artikel 2 van richtlijn (EG) 2001/18 alleen in de handel gebracht indien het genetisch gemodificeerde organisme uit hoofde van die richtlijn is toegelaten.
 
-2. Teeltmateriaal van fruitgewassen waarvan afgeleide producten bestemd zijn om te worden gebruikt als levensmiddel of in levensmiddelen in de zin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-09-29&g=2012-09-29), of als diervoeder of in diervoeders in de zin van artikel 15 van verordening (EG) 1829/2003, wordt alleen in de handel gebracht indien de levensmiddelen of diervoeders uit hoofde van die verordening zijn toegelaten.
+2. Teeltmateriaal van fruitgewassen waarvan afgeleide producten bestemd zijn om te worden gebruikt als levensmiddel of in levensmiddelen in de zin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-09-30&g=2012-09-30), of als diervoeder of in diervoeders in de zin van artikel 15 van verordening (EG) 1829/2003, wordt alleen in de handel gebracht indien de levensmiddelen of diervoeders uit hoofde van die verordening zijn toegelaten.
 
 #### § 5. Siergewassen
 
