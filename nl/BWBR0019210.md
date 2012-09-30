@@ -4,7 +4,7 @@ identifier: "BWBR0019210"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2007-09-28"
+last_updated: "2012-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019210"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - h. oliehoudende planten en vezelgewassen: gewassen, bedoeld in artikel 2, eerste lid, onder b, van [richtlijn nr. 2002/57/EG](32002L0057) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
 
-- i. fruitgewassen: gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van [richtlijn nr. 92/34/EEG](31992L0034) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 157);
+- i. fruitgewassen: gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage I van richtlijn nr. 2008/90/EG;
 
 - j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1);
 
@@ -82,7 +82,9 @@ Hebben goedgevonden en verstaan:
 
 - o. tuinbouwgewassen: fruitgewassen, groentegewassen en siergewassen;
 
-- p. landbouwgewassen: bieten, groenvoedergewassen, oliehoudende planten en vezelgewassen, pootaardappelen en zaaigranen.
+- p. landbouwgewassen: bieten, groenvoedergewassen, oliehoudende planten en vezelgewassen, pootaardappelen en zaaigranen;
+
+- q. **richtlijn 2008/90/EG:** richtlijn 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267).
 
 2. Een wijziging van de desbetreffende handelsrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -104,7 +106,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 4
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2007-09-28&g=2007-09-28) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-09-30&g=2012-09-30) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de voorwaarde dat slechts de bij deze regels aan te wijzen categorieën van teeltmateriaal in de handel worden gebracht;
 
@@ -112,15 +114,17 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 - c. de voorwaarde dat teeltmateriaal van landbouwgewassen, bosbouwgewassen en groentegewassen uitsluitend in de handel wordt gebracht indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen;
 
-- d. de termijn waarbinnen teeltmateriaal van landbouwgewassen na beëindiging van de toelating en inschrijving in het rassenregister in de handel gebracht mag worden;
+- d. de voorwaarde dat teeltmateriaal van fruitgewassen uitsluitend in de handel wordt gebracht indien het afkomstig is van een ras dat kwekersrechtelijk is beschermd, dat is toegelaten of dat overeenkomstig artikel 7, tweede lid, onder c, van richtlijn 2008/90/EG als algemeen bekend wordt beschouwd;
 
-- e. de erkenning of registratie van leveranciers als bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=42);
+- e. de termijn waarbinnen teeltmateriaal van landbouwgewassen na beëindiging van de toelating en inschrijving in het rassenregister in de handel gebracht mag worden;
 
-- f. de uitvoering van het onderzoek naar de instandhouding van een ras;
+- f. de erkenning of registratie van leveranciers als bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=42);
 
-- g. voorwaarden voor de verhandeling van teeltmateriaal van een ras dat niet langer in stand gehouden wordt;
+- g. de uitvoering van het onderzoek naar de instandhouding van een ras;
 
-- h. het in de handel brengen met het oog op uitvoer buiten het grondgebied van de Europese Unie van teeltmateriaal van rassen en opstanden die niet voldoen aan de bij of krachtens dit besluit gestelde voorwaarden.
+- h. voorwaarden voor de verhandeling van teeltmateriaal van een ras dat niet langer in stand gehouden wordt;
+
+- i. het in de handel brengen met het oog op uitvoer buiten het grondgebied van de Europese Unie van teeltmateriaal van rassen en opstanden die niet voldoen aan de bij of krachtens dit besluit gestelde voorwaarden.
 
 2. De regels inzake de erkenning of registratie van leveranciers, als bedoeld in het eerste lid, onder e, kunnen onder meer betrekking hebben op:
 
@@ -136,11 +140,11 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 5
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2007-09-28&g=2007-09-28) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-09-30&g=2012-09-30) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de rasechtheid, de gezondheid, de groeikracht, het vochtgehalte, de afmetingen en de zuiverheid van het teeltmateriaal;
 
-- b. de sortering, de classificatie, de verzorging, de verpakking, de verlading en de aanduiding of etikettering van het teeltmateriaal, voor zover verband houdende met de in onderdeel a bedoelde onderwerpen;
+- b. de sortering, de classificatie, de certificering, de verzorging, de verpakking, de verlading en de aanduiding of etikettering van het teeltmateriaal, voor zover verband houdende met de in onderdeel a bedoelde onderwerpen;
 
 - c. de wijze van keuring van het teeltmateriaal;
 
@@ -181,5 +185,13 @@ Dit besluit wordt aangehaald als: Besluit verhandeling teeltmateriaal.
 ##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
+
+#### Paragraaf 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
