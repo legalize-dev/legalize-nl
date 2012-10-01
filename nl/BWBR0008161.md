@@ -4,7 +4,7 @@ identifier: "BWBR0008161"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008161"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Ambtenarenwet.
 
 2. Een beding in strijd met het eerste lid is nietig.
 
-3. De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), en [15 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15) zijn van overeenkomstige toepassing.
+3. Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 
 ##### ARTIKEL IV
 
