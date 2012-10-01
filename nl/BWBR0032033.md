@@ -55,9 +55,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2012.
 Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht en deskundigen Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
