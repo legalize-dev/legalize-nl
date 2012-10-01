@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-09-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -81,6 +81,7 @@ Besluit:
 | 2.12 | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid) | 6.2 |   | – | – |
 |   |   |   |   |   |   |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) |
+| 3.01 | Subsidieregeling sterktes in innovatie (TKI-toeslag) | 1a.2 |   | 01-10 t/m 30/11 | – |
 | 3.1 | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | – | – |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | **2**.2 | Opkomende markten innovatieprojecten | – | – |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2. | CATRENE-innovatieprojecten | 27-08 t/m 21-09 | 5.000.000 |
