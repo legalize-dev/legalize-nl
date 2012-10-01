@@ -4,7 +4,7 @@ identifier: "BWBV0003426"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-10-01"
-last_updated: "2008-11-27"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003426"
 soort: "verdrag"
@@ -104,7 +104,7 @@ Een adoptie is uitsluitend geldig indien daarvoor toestemming is verkregen van e
 
 ##### Artikel 6. Overleg met het kind
 
-Indien de instemming van het kind ingevolge [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2008-11-27&g=2008-11-27), niet vereist is, wordt voor zover mogelijk overlegd met het kind en wordt rekening gehouden met zijn opvattingen en wensen, waarbij zijn ontwikkelingspeil in aanmerking wordt genomen. Van dergelijk overleg kan worden afgezien indien dit kennelijk in strijd zou zijn met de belangen van het kind.
+Indien de instemming van het kind ingevolge [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2012-10-01&g=2012-10-01), niet vereist is, wordt voor zover mogelijk overlegd met het kind en wordt rekening gehouden met zijn opvattingen en wensen, waarbij zijn ontwikkelingspeil in aanmerking wordt genomen. Van dergelijk overleg kan worden afgezien indien dit kennelijk in strijd zou zijn met de belangen van het kind.
 
 ##### Artikel 7. Voorwaarden voor adoptie
 
@@ -200,7 +200,7 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 ##### Artikel 15. Verzoek om informatie van een andere Staat die Partij is
 
-Indien de onderzoeken uit hoofde van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=4&z=2008-11-27&g=2008-11-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=10&z=2008-11-27&g=2008-11-27) van dit Verdrag betrekking hebben op een persoon die woont of gewoond heeft op het grondgebied van een andere Staat die Partij is, tracht die Staat die Partij is indien een verzoek om informatie is ingediend, onverwijld te bewerkstelligen dat de verzochte informatie wordt verschaft. Elke Staat wijst een nationale autoriteit aan waaraan verzoeken om informatie dienen te worden gericht.
+Indien de onderzoeken uit hoofde van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=4&z=2012-10-01&g=2012-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=10&z=2012-10-01&g=2012-10-01) van dit Verdrag betrekking hebben op een persoon die woont of gewoond heeft op het grondgebied van een andere Staat die Partij is, tracht die Staat die Partij is indien een verzoek om informatie is ingediend, onverwijld te bewerkstelligen dat de verzochte informatie wordt verschaft. Elke Staat wijst een nationale autoriteit aan waaraan verzoeken om informatie dienen te worden gericht.
 
 ##### Artikel 16. Procedures tot vaststelling van afstamming
 
@@ -234,7 +234,7 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 3. Het geadopteerde kind dient toegang te hebben tot informatie aangaande zijn afkomst die de bevoegde autoriteiten in hun bezit hebben. Indien de ouders van herkomst een wettelijk recht hebben op geheimhouding van hun identiteit is het, voor zover wettelijk toegestaan, aan de bevoegde autoriteit te bepalen of dat recht terzijde mag worden geschoven en informatie omtrent hun identiteit mag worden bekendgemaakt, daarbij de omstandigheden en de onderscheiden rechten van het kind en die van zijn ouders van herkomst in aanmerking nemend. Een geadopteerd kind dat nog niet meerderjarig is, mag daarbij op passende wijze geadviseerd worden.
 
-4. De adoptant en het geadopteerde kind dienen een document te kunnen verkrijgen dat uittreksels uit de openbare registers bevat met verklaringen omtrent de geboortedatum en -plaats van het geadopteerde kind, waarbij het feit van de adoptie of de identiteit van zijn ouders van herkomst niet uitdrukkelijk worden vermeld. De Staten die Partij zijn kunnen besluiten deze bepaling niet toe te passen op de andere vormen van adoptie bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=11&z=2008-11-27&g=2008-11-27), van dit Verdrag.
+4. De adoptant en het geadopteerde kind dienen een document te kunnen verkrijgen dat uittreksels uit de openbare registers bevat met verklaringen omtrent de geboortedatum en -plaats van het geadopteerde kind, waarbij het feit van de adoptie of de identiteit van zijn ouders van herkomst niet uitdrukkelijk worden vermeld. De Staten die Partij zijn kunnen besluiten deze bepaling niet toe te passen op de andere vormen van adoptie bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=11&z=2012-10-01&g=2012-10-01), van dit Verdrag.
 
 5. Met het oog op het recht van personen hun identiteit en afkomst te kennen, dient relevante informatie ter zake van een adoptie te worden verzameld en bewaard gedurende ten minste 50 jaar vanaf de datum waarop de adoptie definitief is geworden.
 
@@ -274,7 +274,7 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 ##### Artikel 27. Voorbehouden
 
-1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2008-11-27&g=2008-11-27), [artikel 7, eerste lid, onderdeel a, onder ii, en eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=7&z=2008-11-27&g=2008-11-27), en [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=22&z=2008-11-27&g=2008-11-27).
+1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2012-10-01&g=2012-10-01), [artikel 7, eerste lid, onderdeel a, onder ii, en eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=7&z=2012-10-01&g=2012-10-01), en [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=22&z=2012-10-01&g=2012-10-01).
 
 2. Voorbehouden gemaakt door een Staat op grond van het eerste lid worden geformuleerd op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -282,7 +282,7 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 ##### Artikel 28. Kennisgeving omtrent de bevoegde autoriteiten
 
-Elke Staat die Partij is stelt de Secretaris-Generaal van de Raad van Europa in kennis van de naam en het adres van de autoriteit waaraan verzoeken uit hoofde van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=15&z=2008-11-27&g=2008-11-27) gericht kunnen worden.
+Elke Staat die Partij is stelt de Secretaris-Generaal van de Raad van Europa in kennis van de naam en het adres van de autoriteit waaraan verzoeken uit hoofde van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=15&z=2012-10-01&g=2012-10-01) gericht kunnen worden.
 
 ##### Artikel 29. Opzegging
 
@@ -298,17 +298,17 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. elke nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=24&z=2008-11-27&g=2008-11-27);
+- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=24&z=2012-10-01&g=2012-10-01);
 
-- d. elke kennisgeving uit hoofde van de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=I&artikel=2&z=2008-11-27&g=2008-11-27);
+- d. elke kennisgeving uit hoofde van de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=I&artikel=2&z=2012-10-01&g=2012-10-01);
 
-- e. elke verklaring ontvangen uit hoofde van de bepalingen van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=7&z=2008-11-27&g=2008-11-27), en de bepalingen van [artikel 26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=26&z=2008-11-27&g=2008-11-27);
+- e. elke verklaring ontvangen uit hoofde van de bepalingen van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=7&z=2012-10-01&g=2012-10-01), en de bepalingen van [artikel 26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=26&z=2012-10-01&g=2012-10-01);
 
-- f. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge de bepalingen van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=27&z=2008-11-27&g=2008-11-27);
+- f. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge de bepalingen van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=27&z=2012-10-01&g=2012-10-01);
 
-- g. elke kennisgeving ontvangen uit hoofde van de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=28&z=2008-11-27&g=2008-11-27);
+- g. elke kennisgeving ontvangen uit hoofde van de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=28&z=2012-10-01&g=2012-10-01);
 
-- h. elke uit hoofde van de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=29&z=2008-11-27&g=2008-11-27) ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt;
+- h. elke uit hoofde van de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=III&artikel=29&z=2012-10-01&g=2012-10-01) ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt;
 
 - i. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
