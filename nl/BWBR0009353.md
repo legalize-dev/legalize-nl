@@ -4,7 +4,7 @@ identifier: "BWBR0009353"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2008-08-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009353"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In afwijking in zoverre van [artikel 1, eerste lid, van de Uitvoeringwet Visseri
 
 - c. eigenaar: natuurlijke of rechtspersoon die de eigendom heeft;
 
-- d. visserijregister: het register, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2008-08-01&g=2008-08-01).
+- d. visserijregister: het register, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2012-10-01&g=2012-10-01).
 
 ##### Artikel 2
 
@@ -78,7 +78,7 @@ Onze Minister houdt een register bij waarin de vissersvaartuigen worden ingeschr
 
 ##### Artikel 5
 
-Het is verboden een vissersvaartuig te gebruiken indien dat vaartuig niet het letterteken voert dat in de regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=3&z=2008-08-01&g=2008-08-01), is bepaald voor de gemeente waar dat vaartuig zijn thuishaven heeft, en het nummer waaronder het vaartuig in het visserijregister is ingeschreven, danwel indien het vaartuig niet is ingeschreven in het visserijregister, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2008-08-01&g=2008-08-01).
+Het is verboden een vissersvaartuig te gebruiken indien dat vaartuig niet het letterteken voert dat in de regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=3&z=2012-10-01&g=2012-10-01), is bepaald voor de gemeente waar dat vaartuig zijn thuishaven heeft, en het nummer waaronder het vaartuig in het visserijregister is ingeschreven, danwel indien het vaartuig niet is ingeschreven in het visserijregister, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2012-10-01&g=2012-10-01).
 
 ##### Artikel 6
 
@@ -108,23 +108,23 @@ Het is verboden een vissersvaartuig te gebruiken indien dat vaartuig niet het le
 
 doet de eigenaar onder wiens naam het betrokken vaartuig in het visserijregister is ingeschreven hiervan mededeling aan Onze Minister op een door Onze Minister vast te stellen en beschikbaar te stellen formulier, zo spoedig mogelijk, doch uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.
 
-2. De eigenaar van een vissersvaartuig doet aan Onze Minister op een daarvoor door Onze Minister vast te stellen en beschikbaar te stellen formulier mededeling van elke andere verandering ten aanzien van de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2008-08-01&g=2008-08-01), uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.
+2. De eigenaar van een vissersvaartuig doet aan Onze Minister op een daarvoor door Onze Minister vast te stellen en beschikbaar te stellen formulier mededeling van elke andere verandering ten aanzien van de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2012-10-01&g=2012-10-01), uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.
 
 3. Van de omstandigheid, bedoeld in het eerste lid, onder a, is in elk geval sprake indien het vaartuig een jaar of langer niet is gebruikt als vissersvaartuig.
 
 ##### Artikel 8
 
-1. Na ontvangst van de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2008-08-01&g=2008-08-01), hetzij indien anders blijkt dat een verandering heeft plaatsgevonden besluit Onze Minister:
+1. Na ontvangst van de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2012-10-01&g=2012-10-01), hetzij indien anders blijkt dat een verandering heeft plaatsgevonden besluit Onze Minister:
 
-- a. indien het betreft een verandering als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2008-08-01&g=2008-08-01), tot doorhaling van de desbetreffende inschrijving in het visserijregister;
+- a. indien het betreft een verandering als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2012-10-01&g=2012-10-01), tot doorhaling van de desbetreffende inschrijving in het visserijregister;
 
-- b. indien het betreft een verandering als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2008-08-01&g=2008-08-01), tot dienovereenkomstige aanpassing van de betrokken gegevens in het visserijregister.
+- b. indien het betreft een verandering als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2012-10-01&g=2012-10-01), tot dienovereenkomstige aanpassing van de betrokken gegevens in het visserijregister.
 
-2. Indien Onze Minister een besluit neemt als bedoeld in het eerste lid, onderdeel b, is [artikel 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6a&z=2008-08-01&g=2008-08-01), van overeenkomstige toepassing.
+2. Indien Onze Minister een besluit neemt als bedoeld in het eerste lid, onderdeel b, is [artikel 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6a&z=2012-10-01&g=2012-10-01), van overeenkomstige toepassing.
 
 ##### Artikel 9
 
-Onze Minister kan de inschrijving in het visserijregister, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6&z=2008-08-01&g=2008-08-01), of de aanpassing van de betrokken gegevens in het visserijregister, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=8&z=2008-08-01&g=2008-08-01), weigeren, indien hij dit noodzakelijk acht ter nakoming van communautaire verplichtingen.
+Onze Minister kan de inschrijving in het visserijregister, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6&z=2012-10-01&g=2012-10-01), of de aanpassing van de betrokken gegevens in het visserijregister, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=8&z=2012-10-01&g=2012-10-01), weigeren, indien hij dit noodzakelijk acht ter nakoming van communautaire verplichtingen.
 
 ##### Artikel 10
 
@@ -158,7 +158,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.
 
-2. Een visvergunning, verleend op grond van [artikel 2, tweede lid, van de Regeling Visvergunning](https://wetten.overheid.nl/jci1.3:c:BWBR0016244&artikel=2) geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
+2. Een ten behoeve van het vissersvaartuig verleende visvergunning als bedoeld in artikel 6, eerste lid van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006 (PbEU 2009, L 343), geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
 
 3. De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
 
