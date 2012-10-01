@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-12-03"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -124,7 +124,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2011-12-03&g=2011-12-03).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2012-10-01&g=2012-10-01).
 
 #### Pensioenen
 
@@ -154,7 +154,7 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ##### Artikel 11
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2011-12-03&g=2011-12-03), is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2012-10-01&g=2012-10-01), is vernietigbaar.
 
 2. Beëindiging van de arbeidsverhouding door de werkgever vanwege het feit dat in of buiten rechte een beroep is gedaan op deze wet of terzake bijstand is verleend, is vernietigbaar.
 
@@ -178,11 +178,11 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 Bedingen in strijd met deze wet zijn nietig.
 
-#### De commissie gelijke behandeling
+#### Het College voor de rechten van de mens
 
 ##### Artikel 14
 
-De commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
+Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 
 #### § 6. Overgangs- en slotbepalingen
 
