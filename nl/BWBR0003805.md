@@ -4,7 +4,7 @@ identifier: "BWBR0003805"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-10-01"
-last_updated: "2000-06-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003805"
 soort: "AMvB"
@@ -48,46 +48,25 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Vis, behorende tot de onderstaande soorten dient onmiddellijk nadat deze is opgehaald, weer in hetzelfde water te worden teruggezet, indien de vis, gemeten van de punt van de snuit tot het uiteinde van de staartvin, niet ten minste de achter de desbetreffende soort vermelde maat heeft:
+1. Bij ministeriële regeling wordt de afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), bepaald.
 
-| bot | 20 cm |
-| --- | --- |
-| rietvoorn | 15 cm |
-| serpeling | 15 cm |
-| beekforel | 25 cm |
-| regenboogforel | 25 cm |
-| baars | 22 cm |
-| kopvoorn | 30 cm |
-| sneep | 30 cm |
-| winde | 30 cm |
-| zeelt | 25 cm |
-| aal | 28 cm |
-| barbeel | 30 cm |
-| snoekbaars | 42 cm |
-| snoek | 45 cm |
-| vlagzalm | 35 cm |
-| beekridder | 25 cm |
-| bronforel | 25 cm |
+2. Vis van de soorten waarvoor ingevolge het eerste lid een afmeting is bepaald wordt onmiddellijk nadat deze is opgehaald weer in hetzelfde water teruggezet, indien de vis, gemeten vanaf de punt van de snuit tot het uiteinde van de staartvin, niet tenminste de daarvoor bepaalde afmeting heeft.
+
+3. Indien bij of krachtens het [Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144) voorschriften zijn gesteld inzake afmetingen of daarnaar wordt verwezen, zijn deze ook van toepassing op vissen die worden gevangen in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), en is het tweede lid van overeenkomstige toepassing.
 
 ##### Artikel 2
 
-Vis, behorende tot de onderstaande soorten dient onmiddellijk nadat deze is opgehaald in de achter de desbetreffende soort vermelde gesloten tijd, weer in hetzelfde water te worden teruggezet:
+1. Bij ministeriële regeling wordt het in [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a) bedoelde tijdvak vastgesteld.
 
-- a. baars, barbeel, kopvoorn, serpeling, sneep, snoekbaars, winde en vlagzalm: 1 april tot en met 31 mei;
-
-- b. snoek: 1 maart tot en met 30 juni;
-
-- c. beekforel, beekridder en bronforel: 1 oktober tot en met 31 maart;
-
-- d. zalm en zeeforel: 1 januari tot en met 31 december.
+2. Vis van de soorten waarvoor ingevolge het eerste lid een tijdvak is bepaald wordt onmiddellijk nadat deze is opgehaald weer in hetzelfde water teruggezet, indien de vis tijdens dit tijdvak is gevangen.
 
 ##### Artikel 3
 
-Het is verboden niet verduurzaamde vis voorhanden of in voorraad te hebben, aan te voeren, te vervoeren, te koop aan te bieden, te vervreemden, af te leveren, te bewerken of te verwerken indien:
+Het is verboden vis voorhanden of in voorraad te hebben, aan te voeren, te vervoeren, te koop aan te bieden, te vervreemden, af te leveren, te bewerken of te verwerken indien:
 
-- a. behorende tot de soorten genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01), deze, gemeten van de punt van de snuit tot het uiteinde van de staartvin, niet ten minste de achter de desbetreffende soort vermelde maat heeft;
+- a. behorende tot de soorten bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), of in artikel 1, derde lid, bedoelde vissen, deze, gemeten van de punt van de snuit tot het uiteinde van de staartvin, niet ten minste de achter de desbetreffende soort vermelde maat heeft;
 
-- b. behorende tot de soorten in artikel 2, onderdelen a tot en met c, in het bij de desbetreffende soort vermelde tijdvak, uitgezonderd de eerste zes dagen daarvan.
+- b. behorende tot de soorten bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01), in het bij de desbetreffende soort vermelde tijdvak, uitgezonderd de eerste zes dagen daarvan tenzij als tijdvak het gehele jaar is vastgesteld.
 
 ##### Artikel 4
 
@@ -95,37 +74,41 @@ Het is verboden gerookte aal, welke, gemeten van de punt van de snuit tot het ui
 
 ##### Artikel 5
 
-Het is verboden op of in de nabijheid van enig water vis behorende tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01) genoemde soorten voorhanden of in voorraad te hebben, indien deze vis in zodanige toestand is gebracht, dat daardoor de vaststelling van de maat wordt bemoeilijkt of onmogelijk gemaakt.
+Het is verboden op of in de nabijheid van enig water vis behorende tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), bedoelde soorten of in artikel 1, derde lid, bedoelde vissen voorhanden of in voorraad te hebben, indien deze vis in zodanige toestand is gebracht, dat daardoor de vaststelling van de maat wordt bemoeilijkt of onmogelijk gemaakt.
 
 ##### Artikel 6
 
-Degenen die gerechtigd zijn de aaldogger- en aalhoekwantvisserij uit te oefenen, is het in afwijking van het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2000-06-01&g=2000-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2000-06-01&g=2000-06-01), toegestaan baars met een lengte, gemeten van de punt van de snuit tot het uiteinde van de staartvin, kleiner dan 15 cm, in het tijdvak van 1 maart tot en met 31 oktober tot een hoeveelheid van ten hoogste 5 kg te behouden, voorhanden of in voorraad te hebben en te vervoeren, voorzover aannemelijk is dat deze als lokaas zal worden gebruikt.
+Degenen die gerechtigd zijn de aaldogger- en aalhoekwantvisserij uit te oefenen, is het in afwijking van het bepaalde bij of krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), toegestaan baars met een lengte, gemeten van de punt van de snuit tot het uiteinde van de staartvin, kleiner dan 15 cm, in het tijdvak van 1 maart tot en met 31 oktober tot een hoeveelheid van ten hoogste 5 kg te behouden, voorhanden of in voorraad te hebben en te vervoeren, voorzover aannemelijk is dat deze als lokaas zal worden gebruikt.
 
 ##### Artikel 7
 
-Degenen die bevoegd zijn tot het vissen met de hengel, is het in afwijking van het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2000-06-01&g=2000-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2000-06-01&g=2000-06-01), toegestaan baars met een lengte, gemeten van de punt van de snuit tot het uiteinde van de staartvin, kleiner dan 15 cm, in het tijdvak van 1 juli tot en met de laatste dag van februari tot een hoeveelheid van ten hoogste 30 stuks te behouden, voorhanden of in voorraad te hebben en te vervoeren, voorzover aannemelijk is dat deze als lokaas zal worden gebruikt.
+Degenen die gerechtigd zijn tot het vissen met de hengel, is het, tenzij het vissen in het IJsselmeer plaatsvindt, in afwijking van het bepaalde bij of krachtens de artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), toegestaan:
+
+- a. baars, kleiner dan de krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01) voor die vissoort vastgestelde lengte, voorhanden te hebben onder de voorwaarde dat de vissen levend worden bewaard in een leefnet of een emmer en in hetzelfde water worden teruggezet;
+
+- b. ten hoogste 20 stuks dode baars, kleiner dan de krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01) voor die vissoort vastgestelde lengte, voorhanden of in voorraad te hebben en te vervoeren, voor zover aannemelijk is dat deze als aasvis zal worden gebruikt.
 
 ##### Artikel 8
 
-In afwijking van het bepaalde in [artikel 3, aanhef en onderdeel **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2000-06-01&g=2000-06-01) is het toegestaan na de zesde dag na de aanvang van de gesloten tijd vis van de in [artikel 2, onderdelen **a, b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2000-06-01&g=2000-06-01) bedoelde soorten, welke op die dag opgeslagen is in een door Onze Minister geregistreerd vrieshuis:
+In afwijking van het bepaalde in [artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), is het toegestaan na de zesde dag na de aanvang van de gesloten tijd vis van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01), bedoelde soorten, welke op die dag opgeslagen is in een vrieshuis dat voldoet aan de eisen van sectie VIII, hoofdstuk III, onderdeel B, van bijlage III van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PBEG 2004, L 139):
 
 - a. in dat vrieshuis voorhanden of in voorraad te hebben;
 
 - b. naar een werkplaats tot het verwerken of bewerken van vis of een daartoe behorende inrichting te vervoeren, aldaar voorhanden of in voorraad te hebben, te bewerken of te verwerken;
 
-- c. nadien te vervoeren, mits het vervoer van de vis is gedekt door een door de directeur van de Visserijen afgegeven geldig geleidebiljet van een door Onze Minister vastgesteld model.
+- c. nadien te vervoeren.
 
 ##### Artikel 9
 
-Het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2000-06-01&g=2000-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2000-06-01&g=2000-06-01) geldt niet voor vis waarvan wordt aangetoond dat deze afkomstig is uit een viskwekerij.
+De artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01) zijn niet van toepassing op vis waarvan wordt aangetoond dat deze:
+
+- a. afkomstig is uit een viskwekerij als bedoeld in artikel 3, eerste lid, onderdeel h, van richtlijn nr. 2006/88/EG van de Raad van 24 oktober 2006, betreffende veterinairrechtelijke voorschriften van aquacultuurdieren en de producten daarvan betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG 2006, L 328), of
+
+- b. is geïmporteerd.
 
 ##### Artikel 10
 
-Onze Minister kan verbieden vis, behorende tot andere soorten dan genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2000-06-01&g=2000-06-01), voorhanden of in voorraad te hebben, aan te voeren, te vervoeren, te koop aan te bieden te vervreemden, af te leveren, te bewerken of te verwerken:
-
-- a. indien deze van een kleinere afmeting is dan Onze Minister voor deze soort heeft bepaald;
-
-- b. in een door Onze Minister voor deze soort te bepalen tijdvak.
+Vervallen
 
 ##### Artikel 11
 
