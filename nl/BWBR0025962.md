@@ -4,7 +4,7 @@ identifier: "BWBR0025962"
 country: "nl"
 rank: "wet"
 publication_date: "2012-10-01"
-last_updated: "2011-01-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025962"
 soort: "wet"
@@ -77,7 +77,7 @@ Wijzigt de Penitentiaire beginselenwet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
 
 ##### Artikel VII
 
@@ -89,7 +89,7 @@ Wijzigt de Luchtvaartwet.
 
 ##### Artikel IX
 
-[Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=I&z=2011-01-01&g=2011-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=IV&z=2011-01-01&g=2011-01-01) zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet.
+[Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=I&z=2012-10-01&g=2012-10-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=IV&z=2012-10-01&g=2012-10-01) zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet.
 
 ##### Artikel X
 
