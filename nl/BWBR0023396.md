@@ -4,7 +4,7 @@ identifier: "BWBR0023396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2008-02-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023396"
 soort: "ministeriele-regeling"
@@ -52,39 +52,45 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde beroepen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2008-02-01&g=2008-02-01)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2012-10-01&g=2012-10-01)
 
 | Minister met de beleidsverantwoordelijkheid voor de reglementering van het desbetreffende beroep | Gereglementeerd beroep |
 | --- | --- |
-| Binnenlandse Zaken en Koninkrijksrelaties | politiekundige/politiemedewerker |
-| Landbouw, Natuur en Voedselkwaliteit | bedrijfsvoerder gewasbescherming |
-|   | beheerder van een bedrijfsinrichting, asiel of pension |
-|   | distributeur van gewasbeschermings- middelen |
-|   | preparateur van dieren |
-|   | toepasser van gewasbeschermings- middelen |
-|   | toepasser van gewasbeschermingsmiddelen voor de bestrijding van mollen en woelratten |
-| Sociale Zaken en Werkgelegenheid | duikerarts |
-|   | stralingsarts |
-| Verkeer en Waterstaat | certificaatloods |
-|   | matroos (binnenvaart) |
-|   | matroos-motordrijver |
-|   | registerloods |
-|   | stuurman (binnenvaart) |
-|   | VTS-operator |
-|   | volmatroos |
-| Volksgezondheid, Welzijn en Sport | artsen met een basisopleiding, medisch specialisten, verpleegkundigen, tandartsen, gespecialiseerde tandartsen, verloskundigen en apothekers, die niet op grond van titel III, hoofdstuk III, van [richtlijn 2005/36/EG](32005L0036) in aanmerking komen voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
-|   | arts voor verstandelijk gehandicapten |
-|   | fysiotherapeut |
-|   | gezondheidszorg psycholoog |
-|   | klinisch psycholoog |
-|   | orale en maxillo-faciale chirurg |
-|   | psychotherapeut |
-|   | verpleeghuisarts |
-|   | ziekenhuisfarmaceut |
-| Volkshuisvesting, Ruimtelijke Ordening | bestrijder houtrotverwekkende schimmels |
-| en Milieubeheer | distributeur van gasvormige en gasvormende gewasbeschermingsmiddelen en biociden |
-|   | gasmeetdeskundige |
-|   | gassingsleider |
-|   | toepasser van biociden voor het afweren of bestrijden van een dierplaag |
+| Binnenlandse Zaken en Koninkrijksrelaties | • politiekundige/politiemedewerker |
+| Economische zaken, Landbouw en Innovatie | • bedrijfsvoerder gewasbescherming |
+|   | • beheerder van een bedrijfsinrichting, asiel of pension |
+|   | • distributeur van gewasbeschermingsmiddelen |
+|   | • preparateur van dieren |
+|   | • toepasser van gewasbeschermingsmiddelen |
+|   | • toepasser van gewasbeschermingsmiddelen voor de bestrijding van mollen en woelratten |
+| Infrastructuur en Milieu | • bestrijder houtrotverwekkende schimmels |
+|   | • certificaatloods |
+|   | • distributeur van gasvormige en gasvormende gewasbeschermingsmiddelen en biociden |
+|   | • gasmeetdeskundige |
+|   | • gassingsleider |
+|   | • matroos (binnenvaart) |
+|   | • matroos-motordrijver |
+|   | • registerloods |
+|   | • stuurman (binnenvaart) |
+|   | • toepasser van biociden voor het afweren of bestrijden van een dierplaag |
+|   | • VTS-operator |
+|   | • volmatroos |
+| Sociale Zaken en Werkgelegenheid | • deskundig asbestverwijderaar |
+|   | • duiker |
+|   | • duikploegleider |
+|   | • gasdeskundige tankschepen |
+|   | • kraanmachinist |
+|   | • springmeester |
+|   | • toezichthouder asbestverwijdering |
+|   | • vuurwerkdeskundige |
+| Volksgezondheid, Welzijn en Sport | • artsen met een basisopleiding, medisch specialisten, verpleegkundigen, tandartsen, gespecialiseerde tandartsen, verloskundigen en apothekers, die niet op grond van titel III, hoofdstuk III, van richtlijn 2005/36/EG in aanmerking komen voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
+|   | • arts voor verstandelijk gehandicapten |
+|   | • fysiotherapeut |
+|   | • gezondheidszorg psycholoog |
+|   | • klinisch psycholoog |
+|   | • orale en maxillo-faciale chirurg |
+|   | • psychotherapeut |
+|   | • verpleeghuisarts |
+|   | • ziekenhuisfarmaceut |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
