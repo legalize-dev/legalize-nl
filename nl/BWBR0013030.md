@@ -4,7 +4,7 @@ identifier: "BWBR0013030"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2002-02-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013030"
 soort: "AMvB"
@@ -54,17 +54,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: de[Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819);
+- a. wet: de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819);
 
-- b. klacht: een uiting van onvrede door de keurling, de keurend arts of de keuringvrager over de toepassing van de wet en de daarop berustende bepalingen;
+- b. klacht: een uiting van onvrede over de toepassing van de wet of de daarop berustende bepalingen door een klager;
 
-- c. klager: degene die de klacht indient;
+- c. klager: degene als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=3&artikel=9&z=2012-10-01&g=2012-10-01), die de klacht indient;
 
 - d. verweerder: degene tegen wie de klacht is gericht;
 
-- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=3&z=2002-02-01&g=2002-02-01), en
+- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=3&z=2012-10-01&g=2012-10-01);
 
-- f. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid.
+- f. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
+
+- g. de Raad: de Sociaal-Economische Raad; en
+
+- h. bedrijfsarts: een arts die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
 
 #### Toepasselijkheid
 
@@ -76,19 +80,23 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Instelling
 
-##### Artikel 3
+##### Artikel 3. Instelling
 
-1. Er is een commissie klachtenbehandeling aanstellingskeuringen.
+1. De Raad stelt een commissie klachtenbehandeling aanstellingskeuringen in.
 
-2. De commissie bestaat uit drie onafhankelijke leden, waaronder de voorzitter.
+2. De commissie bestaat uit vijf leden.
+
+3. In de commissie hebben zitting: drie onafhankelijke leden, waaronder de voorzitter, een lid dat op voordracht van de representatieve organisaties van werkgevers wordt benoemd en een lid dat op voordracht van de representatieve organisaties van werknemers wordt benoemd.
+
+4. Van de drie onafhankelijke leden is ten minste een lid jurist en ten minste een lid arts.
 
 #### Benoeming en zittingsduur
 
 ##### Artikel 4
 
-1. Onze Minister benoemt de leden van de commissie.
+1. De Raad benoemt de leden van de commissie.
 
-2. Onze Minister benoemt voor ieder lid een plaatsvervangend lid.
+2. De Raad benoemt voor ieder lid een plaatsvervangend lid.
 
 3. De benoeming van de leden en de plaatsvervangende leden geschiedt voor een periode van maximaal drie jaren. De leden en plaatsvervangend leden zijn eenmaal herbenoembaar.
 
@@ -110,7 +118,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 - c. het uitbrengen van een jaarlijks verslag van haar werkzaamheden.
 
-2. Het verslag bedoeld in het eerste lid, onderdeel c, wordt in ieder geval gezonden aan Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport.
+2. Het verslag bedoeld in het eerste lid, onderdeel c, wordt in ieder geval gezonden aan Onze Minister.
 
 #### Bevoegdheden
 
@@ -118,9 +126,9 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 1. De commissie heeft ter uitvoering van haar taak de volgende bevoegdheden:
 
-- a. het inwinnen van informatie en het raadplegen en inzien van stukken, voor zover dit voor de vervulling van haar taak, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=5&z=2002-02-01&g=2002-02-01), redelijkerwijs nodig is;
+- a. het inwinnen van informatie en het raadplegen en inzien van stukken, voor zover dit voor de vervulling van haar taak, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=5&z=2012-10-01&g=2012-10-01), redelijkerwijs nodig is;
 
-- b. het uitnodigen en horen van personen die direct bij de ingediende klacht zijn betrokken en getuigen;
+- b. personen die direct bij de ingediende klacht zijn betrokken en getuigen te verzoeken te verschijnen en hen te horen;
 
 - c. het inschakelen van deskundigen.
 
@@ -132,15 +140,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 ##### Artikel 7
 
-De commissie stelt een regeling van werkzaamheden op, waarin in ieder geval wordt geregeld:
-
-- a. het aantal malen dat de commissie vergadert en de tussenpozen tussen de vergaderingen;
-
-- b. de wijze waarop de agenda voor de vergaderingen wordt opgesteld en de wijze waarop ontvangen klachten ter kennis van de leden worden gebracht;
-
-- c. de werkwijze in geval van twijfel over de onafhankelijkheid en onpartijdigheid van een lid ter zake van een te behandelen klacht, en
-
-- d. de wijze van verslaglegging van de behandeling van een klacht.
+Vervallen
 
 #### Geheimhoudingsplicht
 
@@ -152,7 +152,15 @@ De leden, plaatsvervangende leden en de medewerkers van de commissie hebben een 
 
 ##### Artikel 9
 
-1. Een klacht kan worden ingediend tot uiterlijk zes maanden nadat de gedraging of het feit waartegen de klacht zich richt heeft plaatsgevonden.
+1. Een klacht kan, uiterlijk zes maanden nadat de gedraging of het feit waartegen de klacht zich richt heeft plaatsgevonden, worden ingediend door de:
+
+- a. keurling;
+
+- b. bedrijfsarts;
+
+- c. keuringvrager; of
+
+- d. ondernemingsraad, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) of een met die ondernemingsraad vergelijkbaar medezeggenschapsorgaan, van de onderneming of van de organisatie van de keuringvrager.
 
 2. Een klacht wordt schriftelijk ingediend, is voldoende omschreven en gedagtekend alsmede voorzien van naam, adres en handtekening van de klager en zo mogelijk van naam en adres van de verweerder.
 
@@ -174,7 +182,7 @@ Indien klager hetzij voorafgaand aan de indiening van een klacht bij de commissi
 
 ##### Artikel 12
 
-De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=11&z=2002-02-01&g=2002-02-01), binnen een week na ontvangst van de aanvullende informatie, mededeling van de inhoud van de klacht aan de verweerder, met het verzoek daarop binnen twee weken schriftelijk te reageren. De commissie kan zo nodig deze laatste termijn verlengen.
+De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=11&z=2012-10-01&g=2012-10-01), binnen een week na ontvangst van de aanvullende informatie, mededeling van de inhoud van de klacht aan de verweerder, met het verzoek daarop binnen twee weken schriftelijk te reageren. De commissie kan zo nodig deze laatste termijn verlengen.
 
 ##### Artikel 13
 
@@ -184,7 +192,7 @@ De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toe
 
 ##### Artikel 14
 
-1. De klager, de verweerder en eventuele andere betrokkenen, getuigen en deskundigen worden in een besloten zitting in de gelegenheid gesteld hun visie tijdens een mondelinge behandeling aan de commissie duidelijk te maken. Op verzoek van de klager of de verweerder kan de commissie beslissen tot het horen in gescheiden besloten zittingen.
+1. De klager, de verweerder en eventuele andere betrokkenen, getuigen en deskundigen kunnen in een besloten zitting in de gelegenheid worden gesteld hun visie tijdens een mondelinge behandeling aan de commissie duidelijk te maken. Op verzoek van de klager of de verweerder kan de commissie beslissen tot het horen in gescheiden besloten zittingen.
 
 2. Het eerste lid, eerste volzin, is niet van toepassing in gevallen waarin de klacht naar de mening van de voorzitter kennelijk niet-ontvankelijk dan wel kennelijk ongegrond is. Deze beslissing van de voorzitter wordt met redenen omkleed ter kennis gebracht van de klager en de verweerder.
 
@@ -192,29 +200,33 @@ De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toe
 
 ##### Artikel 15
 
-1. Binnen zes weken na de mondelinge behandeling van de klacht geeft de commissie een schriftelijk en met redenen omkleed oordeel over de gegrondheid van de klacht. Bij afwijking van deze termijn doet de commissie met redenen omkleed mededeling aan de klager en de verweerder, onder vermelding van een andere, redelijke termijn waarbinnen de commissie haar oordeel uit zal brengen.
+1. Binnen zes weken na de mondelinge behandeling of binnen zes weken na verzending van de ontvangstbevestiging van de klacht indien geen mondelinge behandeling plaats vindt, geeft de commissie een schriftelijk en met redenen omkleed oordeel over de gegrondheid van de klacht. Bij afwijking van deze termijn doet de commissie met redenen omkleed mededeling aan de klager en de verweerder, onder vermelding van een andere, redelijke termijn waarbinnen de commissie haar oordeel uit zal brengen.
 
 2. De commissie kan haar oordeel vergezeld doen gaan van een aanbeveling.
 
 3. Het oordeel van de commissie wordt gezonden aan de klager en aan de verweerder.
 
-4. De commissie kan het oordeel in geanonimiseerde vorm ter publicatie aanbieden aan daarvoor in aanmerking komende tijdschriften.
+4. De commissie kan het oordeel in geanonimiseerde vorm ter publicatie aanbieden.
+
+5. In afwijking van het vierde lid, kan de commissie, indien daarmee het algemeen belang wordt gediend en dit met redenen omkleed in het oordeel is bepaald, het oordeel in niet-geanonimiseerde vorm ter publicatie aanbieden, mits:
+
+- a. de namen van natuurlijke personen niet worden vermeld;
+
+- b. de namen van rechtspersonen niet worden vermeld indien zij onmiddellijk herleidbaar zijn tot een natuurlijk persoon; en
+
+- c. de aanbieding ter publicatie op zijn vroegst 14 dagen, nadat het oordeel ter kennis is gebracht aan de klager en de verweerder, plaatsvindt.
 
 #### § 6. Kosten
 
 ##### Artikel 16
 
-1. De kosten voor het raadplegen van deskundigen als bedoeld in de [artikelen 6, eerste lid onder c, en 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=6&z=2002-02-01&g=2002-02-01), komen voor rekening van de commissie. De commissie stelt terzake een nadere regeling op.
+Onze Minister voorziet in de middelen ter financiering van de kosten van de commissie.
 
-2. Getuigen en andere betrokkenen, als bedoeld in de [artikelen 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=6&z=2002-02-01&g=2002-02-01), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=13&z=2002-02-01&g=2002-02-01), ontvangen een reiskostenvergoeding van de commissie.
-
-3. De commissie stelt jaarlijks een begroting op en legt deze ter goedkeuring voor aan Onze Minister.
-
-#### § 7. Ondersteuning commissie
+#### § 7. Evaluatie
 
 ##### Artikel 17
 
-Onze Minister voegt aan de commissie voldoende, adequate secretariële ondersteuning toe.
+Onze Minister zendt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport binnen vier jaar na inwerkingtreding van het besluit tot wijziging van het Besluit aanstellingskeuringen en van het Besluit klachtenbehandeling aanstellingskeuringen in verband met de onderbrenging van de klachtenbehandeling bij aanstellingskeuringen bij de Sociaal-Economische Raad en enige andere wijzigingen aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
 #### § 8. Slotbepalingen
 
@@ -222,7 +234,7 @@ Onze Minister voegt aan de commissie voldoende, adequate secretariële ondersteu
 
 ##### Artikel 18
 
-Het beheer van de bescheiden betreffende werkzaamheden van de commissie geschiedt met inachtneming van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+Vervallen
 
 #### Inwerkingtreding
 
