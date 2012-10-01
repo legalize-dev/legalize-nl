@@ -4,7 +4,7 @@ identifier: "BWBR0028801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028801"
 soort: "ministeriele-regeling-BES"
@@ -38,6 +38,8 @@ Gelet op [artikel 22a, vierde, vijfde en zesde lid, Luchtvaartwet BES](https://w
 
 Besluit:
 
+Ook gepubliceerd in Stcrt. 2010/15885.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -48,7 +50,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Vergoedingen worden aan de hand van een jaarlijks door de minister vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende bijlage.
+Vergoedingen worden aan de hand van een door de minister voor een periode van maximaal 5 jaren vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende:
+
+- a. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=1&z=2012-10-01&g=2012-10-01) voor zover het betreft luchtverkeersdiensten aan ‘en route’-verkeer,
+
+- b. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=2&z=2012-10-01&g=2012-10-01) voor zover het betreft luchtverkeersdiensten aan naderings- en terminalverkeer.
 
 ##### Artikel 3
 
@@ -92,7 +98,7 @@ Van de verplichting tot het betalen van vergoedingen zijn vrijgesteld:
 
 - 4°. proefvluchten en vluchten die uitsluitend worden uitgevoerd voor het opleiden en oefenen van vliegend personeel, mits zij eindigen op dezelfde luchthaven binnen de Nederlandse Antillen waar zij zijn aangevangen;
 
-- c. de gebruikers van luchtvaartuigen waarvan het maximaal toegelaten totaalgewicht minder is dan 5.7 ton.
+- c. de gebruikers van luchtvaartuigen in het ‘en route’-verkeer waarvan het maximaal toegelaten totaalgewicht minder is dan 5.7 ton.
 
 ##### Artikel 9
 
@@ -106,7 +112,7 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen luchtverkeersdienstverlening BES.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2010-10-10&g=2010-10-10) van de Regeling vergoedingen luchtverkeersdienstverlening BES
+## Bijlage 1. behorende bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2012-10-01&g=2012-10-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
 
 Formule voor de berekening van het eenheidstarief vergoedingen luchtverkeersdiensten
 
@@ -167,5 +173,26 @@ The total costs for route air navigation facilities are obtained by taking into 
 NOTE
 
 The service units rendered each year are calculated using the relevant civil aviation traffic statistics.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2012-10-01&g=2012-10-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
+
+Formule voor de berekening van het eenheidstarief voor vergoedingen van luchtverkeersdiensten naderings- en terminalverkeer.
+
+- 1. De vergoeding wordt berekend op basis van de volgende formule r = ti x d x p, waarin wordt verstaan onder: r: de vergoeding; ti: eenheidstarief in USD, dat wordt vastgesteld door de Minister voor een combinatie van één landing en één start; d: de factor afstand, die gelijk is aan de gevlogen afstand in de naderings- en terminalheffingenzone, gemeten in kilometers gedeeld door 100 kilometers; p: de factor gewicht bepaald per categorie Maximaal Toegelaten Totaal-gewicht (‘maximum certified take-off weight’) conform onderstaande tabel
+
+| Categorie | MTOW (in tonnen) | Factor |
+| --- | --- | --- |
+| 1 | 0–2 | 0,14 |
+| 2 | 2–5,7 | 0,26 |
+| 3 | 5,7–25 | 0,55 |
+| 4 | 25–50 | 0,87 |
+| 5 | 50–100 | 1,22 |
+| 6 | 100–150 | 1,58 |
+| 7 | 150–250 | 2,00 |
+| 8 | Meer 250 | 2,45 |
+
+- 2. Wanneer een betalingsplichtige twee of meer luchtvaartuigen van hetzelfde type, maar in verschillende uitvoeringen te zijner beschikking heeft, wordt als het gewicht voor de berekening van de vergoeding genomen het gemiddelde van de maximaal toegelaten totaalgewichten van de verschillende uitvoeringen. Deze berekening wordt tenminste ieder jaar herhaald. Voor zover gegevens beschikbaar zijn wordt voor de berekening het gewicht van de zwaarste uitvoering van het desbetreffende type luchtvaartuig gehanteerd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
