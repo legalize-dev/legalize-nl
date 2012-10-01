@@ -4,7 +4,7 @@ identifier: "BWBR0027992"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-10-01"
-last_updated: "2012-08-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027992"
 soort: "AMvB"
@@ -96,13 +96,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-1. De [onderdelen MMM en WWW, subonderdeel 3, van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2012-08-01&g=2012-08-01) van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.
+1. De [onderdelen MMM en WWW, subonderdeel 3, van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2012-10-01&g=2012-10-01) van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.
 
 2. Dit lid is nog niet in werking getreden.
 
 ##### Artikel XIV
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende verblijfsdoelen verschillend kan zijn, met uitzondering van [artikel I, onderdelen C, subonderdeel 1, E, G, subonderdeel 1, N, BBB, subonderdeel 2, CCC, GGG, subonderdeel 2, HHH, MMM, UUU, subonderdeel 2, WWW, subonderdelen 1 en 3, XXX, FFFF, subonderdeel 1, JJJJ, NNNN, subonderdeel 7, PPPP, UUUU, YYYY, subonderdeel 1, BBBBB en FFFFF](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2012-08-01&g=2012-08-01), en [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=XIII&z=2012-08-01&g=2012-08-01), die in werking treden met ingang van de dag na de datum van afgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende verblijfsdoelen verschillend kan zijn, met uitzondering van [artikel I, onderdelen C, subonderdeel 1, E, G, subonderdeel 1, N, BBB, subonderdeel 2, CCC, GGG, subonderdeel 2, HHH, MMM, UUU, subonderdeel 2, WWW, subonderdelen 1 en 3, XXX, FFFF, subonderdeel 1, JJJJ, NNNN, subonderdeel 7, PPPP, UUUU, YYYY, subonderdeel 1, BBBBB en FFFFF](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2012-10-01&g=2012-10-01), en [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=XIII&z=2012-10-01&g=2012-10-01), die in werking treden met ingang van de dag na de datum van afgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel XV
 
