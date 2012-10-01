@@ -4,7 +4,7 @@ identifier: "BWBR0018114"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2008-07-01"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018114"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
+Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2012-10-01&g=2012-10-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
 
 ##### Artikel 2
 
@@ -108,7 +108,7 @@ De naamloze vennootschap met statutaire zetel in Nederland die overeenkomstig ar
 
 ##### Artikel 11
 
-1. De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering van aandeelhouders.
+1. De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering.
 
 2. Voor de toepassing van artikel 39, tweede lid, van de Verordening zijn de [artikelen 133](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=133) en [134 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=134) van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.
 
@@ -126,7 +126,7 @@ Voor de toepassing van artikel 47, eerste lid, van de Verordening geldt dat de l
 
 ##### Artikel 15
 
-Voor de toepassing van artikel 54 van de Verordening geldt dat de eerste algemene vergadering van aandeelhouders binnen achttien maanden na de oprichting mag plaatsvinden.
+Voor de toepassing van artikel 54 van de Verordening geldt dat de eerste algemene vergadering binnen achttien maanden na de oprichting mag plaatsvinden.
 
 ##### Artikel 16
 
