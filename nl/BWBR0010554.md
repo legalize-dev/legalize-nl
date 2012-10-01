@@ -4,7 +4,7 @@ identifier: "BWBR0010554"
 country: "nl"
 rank: "kb"
 publication_date: "2012-10-01"
-last_updated: "2004-08-31"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010554"
 soort: "KB"
@@ -48,7 +48,7 @@ De navolgende organisaties worden aangewezen tot het voordragen van het achter h
 
 - a. de Combinatie van Beroepsvissers: 3 leden;
 
-- b. de Nederlandse Vereniging van Sportvissersfederaties: 3 leden;
+- b. Sportvisserij Nederland: 3 leden;
 
 - c. de Unie van Waterschappen: 1 lid;
 
