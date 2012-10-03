@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-10-01"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 | 1.2a | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemingsfinanciering curatieve zorg) | 3.12m |   | 01-01-2012 t/m 31-12-2012 | 50.000.000 |
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 30-03 | 16.000.000 |
 |   | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 | Creatieve industrie | 01-01 t/m 30-03 | 4.000.000 |
-| 1.4 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma) | 5.2 |   | 01-01 t/m 31-12 | 25.000.000 |
+| 1.4 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma) | 5.2 |   | 01-01 t/m 31-12 | 15.000.000 |
 | 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   | – | – |
 | 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | – | – |
 | 1.7 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
