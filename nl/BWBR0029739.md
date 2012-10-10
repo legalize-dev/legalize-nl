@@ -4,7 +4,7 @@ identifier: "BWBR0029739"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-14"
-last_updated: "2011-03-23"
+last_updated: "2012-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029739"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), geschiedt in handen van de als direct toezichthouder aangewezen korpschef van een regionaal politiekorps of de korpschef van het Korps landelijke politiediensten.
+1. Aan de direct toezichthouder, aangewezen krachtens [artikel 36, eerste en derde lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), wordt mandaat verleend van de bevoegdheid tot het afleggen van de eden, verklaringen en beloften, [bedoeld in artikel 20, eerste lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20).
 
-2. Indien de te beëdigen persoon behoort tot een dienst die ressorteert onder enig ministerie, geschiedt de beëdiging in handen van het hoofd van die dienst.
+2. Het in het eerste lid bedoelde mandaat wordt ten aanzien van een te beëdigen persoon die behoort tot een dienst die ressorteert onder een ministerie, tevens verleend aan het hoofd van die dienst.
 
 ##### Artikel 2
 
 1. De direct toezichthouder kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van de plaatsvervangend korpschef, alsmede direct leidinggevenden, in de rang van commissaris van politie.
 
-2. Het hoofd van dienst, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029739&artikel=1&z=2011-03-23&g=2011-03-23), kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van zijn plaatsvervanger.
+2. Het hoofd van dienst, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029739&artikel=1&z=2012-10-10&g=2012-10-10), kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van zijn plaatsvervanger.
 
 3. In aanvulling op het tweede lid kan de Commandant Koninklijke Marechaussee, in zijn hoedanigheid van hoofd van dienst, bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van de Districtscommandanten van de Koninklijke Marechaussee, de Commandant van het Landelijk Opleidings- en Kenniscentrum Koninklijke Marechaussee of hun plaatsvervangers.
 
