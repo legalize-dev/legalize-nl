@@ -4,7 +4,7 @@ identifier: "BWBR0026753"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2012-02-28"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026753"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan percutane coronaire interventies (PCI’s), het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s) en transcatheter hartklepinterventies (THI’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2012-02-28&g=2012-02-28).
+De omvang van de behoefte aan percutane coronaire interventies (PCI’s) en het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in de bijlage bij deze regeling.
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846) (Stcrt. 1998, nr. 162), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=2&z=2012-02-28&g=2012-02-28).
+Vervallen
 
 ##### Artikel 3
 
@@ -60,9 +60,9 @@ Wijzigt het Planningsbesluit bijzondere interventies aan het hart 2008.
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Planningsbesluit PCI’s, ICD’s en THI’s.
+Deze regeling wordt aangehaald als: Planningsbesluit PCI’s en ICD’s.
 
-## Bijlage 1
+## Bijlage
 
 ### 1. Begripsbepaling
 
@@ -141,5 +141,11 @@ Gegevens te verstrekken door een instelling bij een aanvraag om een vergunning v
 - b. adres.
 
 - 2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2012-02-28&g=2012-02-28) bij het Planningsbesluit PCI’s, ICD’s en THI’s. Het betreft hier het volgen van de kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde eisen in consensusdocumenten of richtlijnen.
+
+Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
+
+## Bijlage 2
+
+Vervallen
 
 Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
