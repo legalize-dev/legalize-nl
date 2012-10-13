@@ -4,7 +4,7 @@ identifier: "BWBR0023804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2009-12-06"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023804"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2009-12-06&g=2009-12-06).
+De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2012-10-13&g=2012-10-13).
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2009-12-06&g=2009-12-06).
+De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2012-10-13&g=2012-10-13).
 
 ##### Artikel 3
 
@@ -76,7 +76,7 @@ Ook voor de chirurgische behandeling van ritmestoornissen en catheterablaties bi
 
 Een aantal hartchirurgische centra beschikt momenteel niet over een vergunning voor het uitvoeren van ritmechirurgie. Deze centra kunnen in aanmerking komen voor een vergunning voor de chirurgische behandeling van ritmestoornissen, mits zij aan de in paragraaf 3 vermelde eisen voldoen. Verdere uitbreiding van het aantal centra voor ritmechirurgie acht ik op dit moment niet wenselijk. Mijn streven is verder om catheterablatie als bijkomende ingreep mogelijk te maken in alle hartchirurgische centra, mits het landelijk aantal verrichtingen in combinatie met het vereiste minimum aantal verrichtingen per jaar, vergroting van het aanbod toelaat en mits de instellingen voldoen aan de in paragraaf 3 gestelde eisen.
 
-Voor de planning van PCI’s, van het implanteren van ICD’s en van het verrichten van transcatheter hartklepinterventies wordt verwezen naar het [Planningsbesluit PCI’s, ICD’s en THI’s](https://wetten.overheid.nl/jci1.3:c:BWBR0026753).
+Voor de planning van PCI’s en van het implanteren van ICD’s wordt verwezen naar het Planningsbesluit PCI’s en ICD’s.
 
 Gelet op het bovenstaande ben ik voornemens om het vergunningvereiste voor de PCI-procedures en ICD-implantaties bij volwassenen met ingang 1 januari 2009 op grond van de [WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) te schrappen. Uiteraard blijven de kwaliteitseisen van de beroepsgroepen, inclusief de minimale aantallen per centrum en per operateur, na uitstroom onverminderd van kracht. Deze eisen volgen immers uit de [Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850). In de periode tussen de inwerkingtreding van dit planningsbesluit en de uitstroom op 1 januari 2009 vallen deze verrichtingen nog onder de [WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974). Betrokken partijen kunnen zich in die periode voorbereiden op de komende uitstroom. Vooruitlopend op de uitstroom wil ik in de komende periode meer ruimte scheppen voor instellingen die PCI-procedures en ICD-implantaties willen uitvoeren. Er zal daarbij uiteraard worden gelet op de kwaliteitsborging van de zorg bij de vergunningaanvragers. Hoewel PCI-procedures en ICD-implantaties niet per definitie moeten worden uitgevoerd in een volwaardig hartcentrum, is de samenhang met de overige hartinterventies een belangrijk kwaliteitsaspect. In paragraaf 3 zal daar verder op worden ingegaan.
 
