@@ -4,7 +4,7 @@ identifier: "BWBR0032088"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2012-10-17"
-last_updated: "2010-10-10"
+last_updated: "2012-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032088"
 soort: "ministeriele-regeling-BES"
@@ -41,8 +41,6 @@ Handelende in overeenstemming met de Minister van Defensie;
 Gelet op [artikel 184, eerste lid, onderdeel d, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
 
 Besluit:
-
-Werkt terug tot en met 10 oktober 2010 om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
 ##### Artikel 1
 
