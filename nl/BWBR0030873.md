@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-10-13"
+last_updated: "2012-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -52,7 +52,8 @@ Besluit:
 | --- | --- | --- | --- | --- | --- |
 | Nr. | Regeling | Artikel | Groep | Openstelling 2012 | Plafond € |
 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) |
-| 1.1 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 705.000.000 |
+| 1.1 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES) | 01-01 t/m 31-12 | 680.000.000 |
+|   | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellings-kredieten (door de minister aangewezen kredietverstrekkers) | Tijdstip waarop de regeling WJZ/12316813 in werking treedt t/m 31-12 | 25.000.000 |
 |   | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.000 |
 | 1.2 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 50.000.000 |
 | 1.2a | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemingsfinanciering curatieve zorg) | 3.12m |   | 01-01-2012 t/m 31-12-2012 | 50.000.000 |
