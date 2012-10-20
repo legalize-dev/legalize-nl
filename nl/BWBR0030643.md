@@ -4,7 +4,7 @@ identifier: "BWBR0030643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-01"
-last_updated: "2012-01-01"
+last_updated: "2012-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030643"
 soort: "ministeriele-regeling"
@@ -50,11 +50,13 @@ Het Hoofd van de afdeling Boete, Dwangsom en Inning van de directie Informatiehu
 
 - c. [artikel 19a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a);
 
-- d. de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c), en [18n, eerste lid, van de Wet minimumloon en minimum-vakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18n).
+- d. de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c), en [18n, eerste lid, van de Wet minimumloon en minimum-vakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18n);
+
+- e. [artikel 18, eerste lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18).
 
 ##### Artikel 2
 
-Het Hoofd van de afdeling Boete, Dwangsom en Inning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2012-01-01&g=2012-01-01), is ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2). van de Algemene wet bestuursrecht.
+Het Hoofd van de afdeling Boete, Dwangsom en Inning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2012-10-20&g=2012-10-20), is ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2). van de Algemene wet bestuursrecht.
 
 ##### Artikel 3
 
