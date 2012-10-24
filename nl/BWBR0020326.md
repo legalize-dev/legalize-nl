@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2012-04-01"
+last_updated: "2012-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -56,13 +56,11 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
 
-- a. vervallen;
+- a. de SBOH, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisartsen en van de opleiding tot specialisten ouderengeneeskunde;
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
-- c. integrale kankercentra;
-
-- d. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
 ##### Artikel 3
 
@@ -74,7 +72,11 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - 2°. waarop de Wet inzake bloedtransfusie van toepassing is;
 
-- b. zorg waarvoor door het College voor zorgverzekeringen op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68) subsidie wordt verleend;
+- b. zorg waarvoor subsidie wordt verleend door:
+
+- 1. Onze Minister op grond van een regeling als bedoeld in [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
+
+- 2. het College voor zorgverzekeringen op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68);
 
 - c. de vaccinatie ten behoeve van de preventie van influenza;
 
