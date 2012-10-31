@@ -4,7 +4,7 @@ identifier: "BWBR0032147"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2012-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032147"
 soort: "AMvB"
@@ -58,11 +58,21 @@ Wijzigt het Besluit zorgverzekering.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Invoeringsbesluit ambulancezorg.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met uitzondering van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0032147&artikel=V&z=2012-10-31&g=2012-10-31) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032147&artikel=VI&z=2012-10-31&g=2012-10-31) treedt dit besluit in werking met ingang van 1 januari 2013.
+
+2. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0032147&artikel=V&z=2012-10-31&g=2012-10-31) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt:
+
+- a. wat betreft de wijziging van de [artikelen 2.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.7), [2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.9), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), en [2.16 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.16) terug tot en met 1 januari 2006;
+
+- b. wat betreft de wijziging van [artikel 2.4, derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) terug tot en met 1 januari 2008;
+
+- c. wat betreft de wijziging van [artikel 2.10, vierde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) terug tot en met 1 januari 2012.
+
+3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032147&artikel=VI&z=2012-10-31&g=2012-10-31) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 juli 2012, Z-3123021;
 
