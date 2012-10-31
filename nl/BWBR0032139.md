@@ -53,9 +53,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling uitbrengen bod aanwijzingsprocedure bemiddelingsdienst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Aanvullend op de vergoeding per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd, wordt aan de aanbieder die is aangewezen als verzorger van de bemiddelingsdienst na afloop van ieder kalenderjaar waarin de bemiddelingsdienst wordt verzorgd een van het gebruik onafhankelijk bedrag van € 750.000 per jaar vergoed.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
