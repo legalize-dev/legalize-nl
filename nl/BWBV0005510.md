@@ -4,7 +4,7 @@ identifier: "BWBV0005510"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-11-01"
-last_updated: "2010-11-10"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005510"
 soort: "verdrag"
@@ -50,7 +50,7 @@ De Verdragsluitende partijen verplichten zich ertoe om elkaar, overeenkomstig de
 
 ##### Artikel 2. Instelling van de procedure
 
-1. Indien overeenkomstig [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=16) om de voorlopige aanhouding van de gezochte persoon is verzocht, is de uitlevering bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=1&z=2010-11-10&g=2010-11-10) van dit Protocol niet afhankelijk van het indienen van een verzoek om uitlevering en het overleggen van de vereiste documenten overeenkomstig [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=12). Voor de toepassing van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=3&z=2010-11-10&g=2010-11-10) van dit Protocol en voor het nemen van de definitieve beslissing inzake de uitlevering volgens de verkorte procedure worden door de aangezochte partij de volgende, door de verzoekende partij verschafte gegevens toereikend geacht:
+1. Indien overeenkomstig [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=16) om de voorlopige aanhouding van de gezochte persoon is verzocht, is de uitlevering bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=1&z=2012-11-01&g=2012-11-01) van dit Protocol niet afhankelijk van het indienen van een verzoek om uitlevering en het overleggen van de vereiste documenten overeenkomstig [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=12). Voor de toepassing van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=3&z=2012-11-01&g=2012-11-01) van dit Protocol en voor het nemen van de definitieve beslissing inzake de uitlevering volgens de verkorte procedure worden door de aangezochte partij de volgende, door de verzoekende partij verschafte gegevens toereikend geacht:
 
 - a. de identiteit van de gezochte persoon, met inbegrip van zijn of haar nationaliteit of nationaliteiten, indien bekend;
 
@@ -90,7 +90,7 @@ Indien een persoon die wordt gezocht ten behoeve van uitlevering in overeenstemm
 
 ##### Artikel 5. Afstand van de bescherming van het specialiteitsbeginsel
 
-Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op een later tijdstip verklaren dat het bepaalde in [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=14) niet van toepassing is indien de door deze staat uitgeleverde persoon overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2010-11-10&g=2010-11-10) van dit Protocol:
+Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op een later tijdstip verklaren dat het bepaalde in [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=14) niet van toepassing is indien de door deze staat uitgeleverde persoon overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2012-11-01&g=2012-11-01) van dit Protocol:
 
 - a. met de uitlevering instemt; of
 
@@ -114,15 +114,15 @@ Voor de toepassing van dit Protocol kunnen mededelingen langs elektronische weg 
 
 De feitelijke uitlevering geschiedt zo spoedig mogelijk en bij voorkeur binnen tien dagen na de datum van de kennisgeving van de beslissing omtrent de uitlevering.
 
-##### Artikel 10. Instemming na het verstrijken van de termijn bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=6&z=2010-11-10&g=2010-11-10)
+##### Artikel 10. Instemming na het verstrijken van de termijn bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=6&z=2012-11-01&g=2012-11-01)
 
-Indien de gezochte persoon na het verstrijken van de termijn van 10 dagen, vervat in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=6&z=2010-11-10&g=2010-11-10), van dit Protocol, instemt met de uitlevering, past de aangezochte partij de verkorte procedure toe zoals voorzien in dit Protocol, indien zij nog geen verzoek om uitlevering in de zin van [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=12) heeft ontvangen.
+Indien de gezochte persoon na het verstrijken van de termijn van 10 dagen, vervat in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=6&z=2012-11-01&g=2012-11-01), van dit Protocol, instemt met de uitlevering, past de aangezochte partij de verkorte procedure toe zoals voorzien in dit Protocol, indien zij nog geen verzoek om uitlevering in de zin van [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=12) heeft ontvangen.
 
 ##### Artikel 11. Doortocht
 
 In geval van doortocht onder de voorwaarden vervat in [artikel 21 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=21) waarbij een persoon volgens een verkorte procedure dient te worden uitgeleverd aan de verzoekende partij gelden de volgende bepalingen:
 
-- a. het verzoek om doortocht dient de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2010-11-10&g=2010-11-10), van dit Protocol vervatte gegevens te bevatten;
+- a. het verzoek om doortocht dient de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2012-11-01&g=2012-11-01), van dit Protocol vervatte gegevens te bevatten;
 
 - b. de partij die om doortocht wordt verzocht kan om aanvullende gegevens verzoeken indien de in onderdeel a voorziene gegevens voor deze partij niet volstaan voor haar beslissing omtrent de doortocht.
 
@@ -164,13 +164,13 @@ De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa 
 
 1. Door een staat gemaakte voorbehouden ten aanzien van de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) of de twee Aanvullende Protocollen daarbij zijn eveneens op dit Protocol van toepassing, tenzij die staat anderszins verklaart op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. Hetzelfde is van toepassing op verklaringen ter zake van of uit hoofde van een bepaling van het Verdrag of de twee Aanvullende Protocollen daarbij.
 
-2. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren gebruik te maken van het recht [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2010-11-10&g=2010-11-10), van dit Protocol geheel of ten dele niet te aanvaarden. Andere voorbehouden kunnen niet worden gemaakt.
+2. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren gebruik te maken van het recht [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2012-11-01&g=2012-11-01), van dit Protocol geheel of ten dele niet te aanvaarden. Andere voorbehouden kunnen niet worden gemaakt.
 
-3. Elke staat kan op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op een later tijdstip een of meer van de verklaringen voorzien in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2010-11-10&g=2010-11-10), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=5&z=2010-11-10&g=2010-11-10) van dit Protocol afleggen.
+3. Elke staat kan op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op een later tijdstip een of meer van de verklaringen voorzien in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2012-11-01&g=2012-11-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=5&z=2012-11-01&g=2012-11-01) van dit Protocol afleggen.
 
 4. Elke staat kan een voorbehoud of een verklaring gemaakt of afgelegd in overeenstemming met dit Protocol geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving, die van kracht wordt op de datum van ontvangst ervan.
 
-5. Een partij die een voorbehoud ten aanzien van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2010-11-10&g=2010-11-10), van dit Protocol heeft gemaakt in overeenstemming met het tweede lid van dit artikel kan de toepassing van dat lid niet verlangen van een andere partij. Indien haar voorbehoud gedeeltelijk of voorwaardelijk is, kan de partij de toepassing van dat lid verlangen voor zover zij het zelf aanvaard heeft.
+5. Een partij die een voorbehoud ten aanzien van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=2&z=2012-11-01&g=2012-11-01), van dit Protocol heeft gemaakt in overeenstemming met het tweede lid van dit artikel kan de toepassing van dat lid niet verlangen van een andere partij. Indien haar voorbehoud gedeeltelijk of voorwaardelijk is, kan de partij de toepassing van dat lid verlangen voor zover zij het zelf aanvaard heeft.
 
 ##### Artikel 18. Opzegging
 
@@ -188,13 +188,13 @@ De Secretaris-Generaal van de Raad van Europa geeft de lidstaten van de Raad van
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Protocol in overeenstemming met de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=14&z=2010-11-10&g=2010-11-10) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=15&z=2010-11-10&g=2010-11-10);
+- c. elke datum van inwerkingtreding van dit Protocol in overeenstemming met de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=14&z=2012-11-01&g=2012-11-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=15&z=2012-11-01&g=2012-11-01);
 
-- d. elke verklaring afgelegd in overeenstemming met [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2010-11-10&g=2010-11-10), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=5&z=2010-11-10&g=2010-11-10), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=16&z=2010-11-10&g=2010-11-10) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=17&z=2010-11-10&g=2010-11-10), eerste lid, alsmede van elke intrekking van dergelijke verklaringen;
+- d. elke verklaring afgelegd in overeenstemming met [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=4&z=2012-11-01&g=2012-11-01), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=5&z=2012-11-01&g=2012-11-01), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=16&z=2012-11-01&g=2012-11-01) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=17&z=2012-11-01&g=2012-11-01), eerste lid, alsmede van elke intrekking van dergelijke verklaringen;
 
-- e. elk voorbehoud gemaakt in overeenstemming met [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=17&z=2010-11-10&g=2010-11-10), en elke intrekking van een dergelijk voorbehoud;
+- e. elk voorbehoud gemaakt in overeenstemming met [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=17&z=2012-11-01&g=2012-11-01), en elke intrekking van een dergelijk voorbehoud;
 
-- f. elke uit hoofde van de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=18&z=2010-11-10&g=2010-11-10) ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt;
+- f. elke uit hoofde van de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005510&artikel=18&z=2012-11-01&g=2012-11-01) ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt;
 
 - g. elke andere handeling, verklaring, kennisgeving of mededeling met betrekking tot dit Protocol.
 
