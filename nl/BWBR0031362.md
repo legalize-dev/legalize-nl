@@ -4,7 +4,7 @@ identifier: "BWBR0031362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-11-01"
-last_updated: "2012-07-01"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031362"
 soort: "ministeriele-regeling"
@@ -50,8 +50,8 @@ Voor brandweerduikers en brandweerduikploegleiders blijven tot 1 november 2012 v
 
 ##### Artikel III
 
-1. Deze regeling met de bijbehorende bijlagen treedt, met uitzondering van [artikel I, onderdelen L en U](https://wetten.overheid.nl/jci1.3:c:BWBR0031362&artikel=I&z=2012-07-01&g=2012-07-01), in werking met ingang van 1 juli 2012.
+1. Deze regeling met de bijbehorende bijlagen treedt, met uitzondering van [artikel I, onderdelen L en U](https://wetten.overheid.nl/jci1.3:c:BWBR0031362&artikel=I&z=2012-11-01&g=2012-11-01), in werking met ingang van 1 juli 2012.
 
-2. [Artikel I, onderdelen L en U](https://wetten.overheid.nl/jci1.3:c:BWBR0031362&artikel=I&z=2012-07-01&g=2012-07-01), treedt in werking met ingang van 1 november 2012.
+2. [Artikel I, onderdelen L en U](https://wetten.overheid.nl/jci1.3:c:BWBR0031362&artikel=I&z=2012-11-01&g=2012-11-01), treedt in werking met ingang van 1 november 2012.
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
