@@ -4,7 +4,7 @@ identifier: "BWBR0006192"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2010-04-28"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006192"
 soort: "AMvB"
@@ -60,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
-"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2010-04-28&g=2010-04-28),
+"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2012-11-01&g=2012-11-01),
 
-"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2010-04-28&g=2010-04-28),
+"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2012-11-01&g=2012-11-01),
 
-"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2010-04-28&g=2010-04-28),
+"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2012-11-01&g=2012-11-01),
 
 "College voor examens": College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 "diploma": het diploma Nederlands als tweede taal,
 
-"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2010-04-28&g=2010-04-28),
+"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2012-11-01&g=2012-11-01),
 
 "kandidaat": degene die aan een of meer examenonderdelen deelneemt.
 
@@ -100,7 +100,7 @@ Vervallen
 
 ##### Artikel 5. Examengeld
 
-1. Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 90. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 22,50.
+1. Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 180. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 45.
 
 2. De in het eerste lid bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
@@ -186,7 +186,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2010-04-28&g=2010-04-28).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2012-11-01&g=2012-11-01).
 
 4. Het College voor examens stelt modellen van de diploma's en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -228,7 +228,7 @@ Het College voor examens kan toestaan dat een gehandicapte kandidaat het examen 
 
 2. Het College voor examens kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. Het College voor examens deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2010-04-28&g=2010-04-28).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2012-11-01&g=2012-11-01).
 
 ##### Artikel 22. Geheimhouding
 
@@ -238,7 +238,7 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2010-04-28&g=2010-04-28).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2012-11-01&g=2012-11-01).
 
 ##### Artikel 24. Examens voor 1 januari 1994
 
