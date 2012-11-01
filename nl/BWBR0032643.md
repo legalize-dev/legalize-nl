@@ -4,7 +4,7 @@ identifier: "BWBR0032643"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2012-09-01"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032643"
 soort: "AMvB"
@@ -124,7 +124,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2012-11-01), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
 
 ##### Artikel XXII
 
