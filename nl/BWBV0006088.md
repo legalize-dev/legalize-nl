@@ -4,7 +4,7 @@ identifier: "BWBV0006088"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-11-02"
-last_updated: "1989-01-21"
+last_updated: "2012-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006088"
 soort: "verdrag"
@@ -509,17 +509,23 @@ De overeengekomen regeling wordt uitgevoerd niettegenstaande de verjaringstermij
 
 4. De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken. Indien voor het bereiken van overeenstemming een mondelinge gedachtenwisseling raadzaam lijkt, kan zulk een gedachtenwisseling plaatsvinden in een commissie die bestaat uit vertegenwoordigers van de bevoegde autoriteiten van de twee Staten.
 
-##### Artikel 26. Uitwisseling van inlichtingen
+##### Artikel 26. Uitwisseling van informatie
 
-1. De bevoegde autoriteiten van de Staten wisselen die inlichtingen uit die nodig zijn voor de uitvoering van de bepalingen van de Overeenkomst of van de nationale wetgeving van de Staten betreffende de belasting waarop de Overeenkomst van toepassing is, voor zover de heffing van die belastingen niet in strijd is met de Overeenkomst, in het bijzonder om fraude te voorkomen dan wel het ontgaan van dergelijke belastingen te voorkomen. Alle door een van de Staten ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (waaronder begrepen rechtelijke instanties en administratiefrechtelijke instanties of lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen die het onderwerp van de Overeenkomst uitmaken. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken, zij het dat zij de inlichtingen wel bekend mogen maken in openbare rechtszittingen of in rechterlijke beslissingen.
+1. De bevoegde autoriteiten van de Staten wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van deze Overeenkomst of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van de Staten, of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, voor zover de heffing van die belastingen niet in strijd is met de Overeenkomst. De uitwisseling van informatie wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006088&hoofdstuk=I&artikel=1&z=2012-11-02&g=2012-11-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006088&hoofdstuk=I&artikel=2&z=2012-11-02&g=2012-11-02).
 
-2. In geen geval worden de bepalingen van het eerste lid zo uitgelegd dat zij een van de Staten de verplichting opleggen:
+2. Alle uit hoofde van het eerste lid door een Staat ontvangen informatie wordt op dezelfde wijze geheim gehouden als informatie die volgens de nationale wetgeving van die Staat is verkregen en wordt alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke en bestuursrechtelijke instanties) die betrokken zijn bij de vaststelling of invordering van, de handhaving of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen alleen voor deze doeleinden van de informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. Niettegenstaande het voorgaande mag informatie ontvangen door een Staat voor andere doeleinden worden gebruikt, indien deze informatie krachtens de wetgeving van beide staten voor deze andere doeleinden mag worden gebruikt en de bevoegde autoriteit van de verstrekkende Staat een dergelijk gebruik toestaat.
 
-- a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving en de administratieve praktijk van die of van de andere Staat;
+3. In geen geval worden de bepalingen van het eerste en tweede lid zo uitgelegd dat zij een Staat de verplichting opleggen:
 
-- b). inlichtingen te verstrekken die niet verkrijgbaar zijn krachtens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- a. bestuurlijke maatregelen uit te voeren die in strijd zijn met de wetgeving of de bestuurlijke praktijk van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, of inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- b. informatie te verstrekken die niet verkrijgbaar is volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere Staat;
+
+- c. informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of een handelsproces zou onthullen, dan wel informatie waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+
+4. Indien informatie wordt verzocht door een Staat in overeenstemming met dit artikel, wendt de andere Staat zijn maatregelen inzake het verzamelen van informatie aan om de verzochte informatie te verkrijgen, ongeacht het feit dat de andere staat ten behoeve van zijn eigen belastingheffing niet over dergelijke informatie behoeft te beschikken. Op de in de vorige volzin vervatte verplichting zijn de beperkingen van het derde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een Staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke informatie te weigeren informatie te verstrekken.
+
+5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een Staat toegestaan is het verschaffen van informatie te weigeren uitsluitend op grond van het feit dat de informatie berust bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking heeft op eigendomsbelangen in een persoon.
 
 ##### Artikel 27. Diplomatieke en consulaire ambtenaren
 
@@ -594,6 +600,46 @@ Het is wel verstaan dat met „bestuurder” of „commissaris” van een Nederl
 ##### VII. Ad artikel 23
 
 Het is wel verstaan dat voor de berekening van de vermindering vermeld in het tweede lid van artikel 23 rekening wordt gehouden met de waarde van de in het eerste lid van artikel 22 bedoelde vermogensbestanddelen verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en met de waarde van de in het tweede lid van artikel 22 bedoelde vermogensbestanddelen verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
+
+IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Convention.
+
+DONE at New Delhi this thirtieth day of July 1988, in duplicate, in the Netherlands, Hindi and English languages, the three texts being equally authentic. In case of divergence between the Netherlands and Hindi texts, the English text shall be the operative one.
+
+**For the Government of the Kingdom of the Netherlands**
+
+(sd.) H. E. KONING
+
+H. E. Koning
+
+Minister of State For Finance
+
+(sd.) E. M. SCHOO
+
+E. M. Schoo
+
+Ambassador of The Netherlands
+
+**For the Government of the Republic of India**
+
+(sd.) A. K. PANJA
+
+Ajit Kumar Panja
+
+Minister of State for Finance (Revenue)
+
+(sd.) P. K. APPACHOO
+
+P. K. Appachoo
+
+Joint Secretary
+
+Foreign Tax Division
+
+##### VIII. Ad [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006088&hoofdstuk=VI&artikel=26&z=2012-11-02&g=2012-11-02)
+
+1. De bepalingen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006088&hoofdstuk=VI&artikel=26&z=2012-11-02&g=2012-11-02) zijn dienovereenkomstig van toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de wetgeving van de Staten door de belastingautoriteiten van de Staten die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
+
+2. Niettegenstaande [artikel 26, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0006088&hoofdstuk=VI&artikel=26&z=2012-11-02&g=2012-11-02), kan uit hoofde van artikel 26, eerste lid, door een Staat ontvangen informatie zonder nadere voorwaarden door deze Staat worden gebruikt voor de uitvoering van de inkomensgerelateerde voorschriften bedoeld in het eerste lid
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Convention.
 
