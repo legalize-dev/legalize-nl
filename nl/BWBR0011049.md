@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2010-10-10"
+last_updated: "2012-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -194,15 +194,15 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 
 ##### Artikel 20. Tijdelijk recht op uitkering op de Nederlandse Antillen
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2010-10-10&g=2012-11-05) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2010-10-10&g=2012-11-05) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21. Tijdelijk recht op uitkering op Aruba
 
-1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2010-10-10&g=2012-11-05) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2010-10-10&g=2012-11-05) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 22. Inwerkingtreding
 
