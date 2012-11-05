@@ -4,7 +4,7 @@ identifier: "BWBR0010176"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2012-02-08"
+last_updated: "2012-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010176"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Met het toezicht op de naleving van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010176&artikel=2&z=2012-02-08&g=2012-02-08), eerste en tweede alinea, en artikel 5, eerste alinea, van de [verordening (EG) nr. 2271/96](31996R2271) van de Raad van de Europese Unie van 22 november 1996 tot bescherming tegen de gevolgen van de extraterritoriale toepassing van rechtsregels uitgevaardigd door een derde land en daarop gebaseerde of daaruit voortvloeiende handelingen (PbEG L 309), zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.
+1. Met het toezicht op de naleving van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010176&artikel=2&z=2019-01-01&g=2012-11-05), eerste en tweede alinea, en artikel 5, eerste alinea, van de [verordening (EG) nr. 2271/96](31996R2271) van de Raad van de Europese Unie van 22 november 1996 tot bescherming tegen de gevolgen van de extraterritoriale toepassing van rechtsregels uitgevaardigd door een derde land en daarop gebaseerde of daaruit voortvloeiende handelingen (PbEG L 309), zijn belast de bij besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
