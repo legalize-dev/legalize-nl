@@ -4,7 +4,7 @@ identifier: "BWBR0025572"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2012-02-08"
+last_updated: "2012-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025572"
 soort: "wet"
@@ -82,15 +82,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. **postvervoerbedrijf:** eenieder die postvervoerdiensten aanbiedt;
 
-- f. **universele postdienst:** de universele postdienst, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2012-02-08&g=2012-02-08) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2012-02-08&g=2012-02-08);
+- f. **universele postdienst:** de universele postdienst, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2012-11-08&g=2012-11-08) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2012-11-08&g=2012-11-08);
 
-- g. **verlener van de universele postdienst:** een postvervoerbedrijf dat ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-02-08&g=2012-02-08), is aangewezen;
+- g. **verlener van de universele postdienst:** een postvervoerbedrijf dat ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-11-08&g=2012-11-08), is aangewezen;
 
 - h. **postbus:** een in een gebouw aanwezige afgesloten ruimte die bestemd is voor de aflevering van de voor de gebruiker daarvan bestemde poststukken;
 
 - i. **afzender:** eenieder die een poststuk ten vervoer aanbiedt aan een postvervoerbedrijf;
 
-- j. **postcodesysteem:** een algemeen gebruikt adrescodesysteem voor een efficiënte postbezorging.
+- j. **postcodesysteem:** een algemeen gebruikt adrescodesysteem voor een efficiënte postbezorging;
+
+- k. **postbezorger:** een ieder die in opdracht van een postvervoerbedrijf of met instemming van een postvervoerbedrijf voor dat postvervoerbedrijf brieven, geadresseerde tijdschriften en geadresseerde dagbladen op afzonderlijke adressen aflevert.
 
 2. In afwijking van het eerste lid, onderdeel c, wordt onder postvervoer niet verstaan:
 
@@ -108,7 +110,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. **liberalisatierichtlijn:** een richtlijn van de Commissie van de Europese Gemeenschappen die berust op artikel 86, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap en regels stelt met betrekking tot de postsector.
 
-2. In deze wet wordt onder «wet» mede verstaan: een krachtens [artikel 66, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=10&artikel=66&z=2012-02-08&g=2012-02-08), aangewezen voorschrift uit een postverordening of een gedelegeerde verordening.
+2. In deze wet wordt onder «wet» mede verstaan: een krachtens [artikel 66, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=10&artikel=66&z=2012-11-08&g=2012-11-08), aangewezen voorschrift uit een postverordening of een gedelegeerde verordening.
 
 ### Hoofdstuk 2. Regels voor postvervoerbedrijven
 
@@ -138,13 +140,7 @@ Beslag op poststukken welke in het kader van postvervoerdiensten aan een postver
 
 ##### Artikel 8
 
-Bij algemene maatregel van bestuur kunnen voorschriften worden gesteld over in acht te nemen arbeidsvoorwaarden indien:
-
-- a. tegen sociaal onaanvaardbare arbeidsvoorwaarden arbeid wordt verricht,
-
-- b. er sprake is van een tijdelijk zich tot de postsector beperkend probleem, en
-
-- c. voor zover het probleem niet kan worden opgelost door aanpassing van algemeen geldende voorschriften of bij overeenkomst tussen de desbetreffende werkgever en vertegenwoordigers van werknemersorganisaties.
+Een postvervoerbedrijf heeft met een bij algemene maatregel van bestuur te bepalen minimumpercentage van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst. Bij algemene maatregel van bestuur wordt de datum bepaald met ingang waarvan een postvervoerbedrijf aan een minimumpercentage moet voldoen. De toepassing van een minimumpercentage kan daarbij worden beperkt tot bepaalde categorieën postvervoerbedrijven of bepaalde omstandigheden.
 
 ### Hoofdstuk 3. Onderlinge dienstverlening
 
@@ -204,7 +200,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 - a. de goede uitvoering van de universele postdienst of een gedeelte hiervan niet meer gewaarborgd is;
 
-- b. een verlener van de universele postdienst overeenkomstig [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=30&z=2012-02-08&g=2012-02-08), heeft aangegeven dat de uitvoering van deze dienst nettokosten zal opleveren;
+- b. een verlener van de universele postdienst overeenkomstig [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=30&z=2012-11-08&g=2012-11-08), heeft aangegeven dat de uitvoering van deze dienst nettokosten zal opleveren;
 
 - c. het aangewezen postvervoerbedrijf daarom verzoekt;
 
@@ -290,7 +286,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 1. Een verlener van de universele postdienst verzorgt binnen Nederland en van of naar gebieden buiten Nederland de universele postdienst.
 
-2. De verplichting, bedoeld in het eerste lid, geldt alleen indien poststukken zijn aangeboden aan een verlener van de universele postdienst in overeenstemming met de regels, bedoeld in [artikel 17, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2012-02-08&g=2012-02-08).
+2. De verplichting, bedoeld in het eerste lid, geldt alleen indien poststukken zijn aangeboden aan een verlener van de universele postdienst in overeenstemming met de regels, bedoeld in [artikel 17, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2012-11-08&g=2012-11-08).
 
 ##### Artikel 19
 
@@ -306,7 +302,13 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 ##### Artikel 21
 
-Een verlener van de universele postdienst kan gedeelten van de universele postdienst door anderen onder zijn verantwoordelijkheid doen uitvoeren.
+1. Een verlener van de universele postdienst kan gedeelten van de universele postdienst door anderen onder zijn verantwoordelijkheid doen uitvoeren.
+
+2. Een verlener van de universele postdienst rekent de kosten die anderen in rekening brengen voor het uitvoeren van gedeelten van de universele postdienst slechts toe aan de universele postdienst voor zover die kosten overeenkomstig de op grond van de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2012-11-08&g=2012-11-08), en [25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-11-08&g=2012-11-08), vastgestelde regels zijn toe te rekenen aan de universele postdienst.
+
+3. Een verlener van de universele postdienst maakt de toerekening van de kosten van anderen, bedoeld in het tweede lid, inzichtelijk voor ieder gedeelte van de universele postdienst dat hij door anderen laat uitvoeren.
+
+4. Een verlener van de universele postdienst die gedeelten van de universele postdienst door anderen laat uitvoeren waarborgt de volledige en juiste uitvoering van de door de anderen uitgevoerde gedeelten van de universele postdienst.
 
 ##### Artikel 22
 
@@ -316,7 +318,7 @@ Een verlener van de universele postdienst kan gedeelten van de universele postdi
 
 ##### Artikel 23
 
-1. Een verlener van de universele postdienst verstrekt jaarlijks aan het college een rapportage over de uitvoering van de universele postdienst. Deze rapportage bevat de resultaten van regelmatige metingen van de kwaliteit van de universele postdienstverlening en de hierbij behorende kwaliteitsnormen, alsmede een overzicht van de kosten en opbrengsten van de universele postdienstverlening, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2012-02-08&g=2012-02-08).
+1. Een verlener van de universele postdienst verstrekt jaarlijks aan het college een rapportage over de uitvoering van de universele postdienst. Deze rapportage bevat de resultaten van regelmatige metingen van de kwaliteit van de universele postdienstverlening en de hierbij behorende kwaliteitsnormen, alsmede een overzicht van de kosten en opbrengsten van de universele postdienstverlening, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2012-11-08&g=2012-11-08).
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de rapportage. Deze regels kunnen betrekking hebben op de inrichting van de rapportage, op de metingen, bedoeld in het eerste lid, alsmede op de op te nemen financiële gegevens.
 
@@ -344,7 +346,7 @@ Een verlener van de universele postdienst kan gedeelten van de universele postdi
 
 4. Het eerste en het tweede lid zijn van overeenkomstige toepassing op de tarieven, bedoeld in het derde lid.
 
-5. In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2012-02-08&g=2012-02-08) worden de tarieven, bedoeld in het derde lid, door het college vastgesteld.
+5. In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2012-11-08&g=2012-11-08) worden de tarieven, bedoeld in het derde lid, door het college vastgesteld.
 
 6. Bij de ministeriële regeling, bedoeld in het derde lid, worden regels vastgesteld met betrekking tot de elementen van de tarieven, de wijze van berekening van de tarieven en de toerekening van de kosten.
 
@@ -354,13 +356,13 @@ Een verlener van de universele postdienst kan gedeelten van de universele postdi
 
 ##### Artikel 26
 
-In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-02-08&g=2012-02-08) worden de kosten van het vervoer van poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk ten hoogste zeven kilogram wegen door de verlener van de universele postdienst gedragen.
+In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-11-08&g=2012-11-08) worden de kosten van het vervoer van poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk ten hoogste zeven kilogram wegen door de verlener van de universele postdienst gedragen.
 
 ##### Artikel 27
 
-1. De tarieven, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08), en de wijzigingen hiervan worden niet eerder vastgesteld dan een maand na het tijdstip waarop zij aan het college zijn toegezonden ter toetsing aan [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08), en aan het bepaalde krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-02-08&g=2012-02-08).
+1. De tarieven, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08), en de wijzigingen hiervan worden niet eerder vastgesteld dan een maand na het tijdstip waarop zij aan het college zijn toegezonden ter toetsing aan [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08), en aan het bepaalde krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-11-08&g=2012-11-08).
 
-2. Bij ministeriële regeling kunnen voorschriften worden gegeven over de procedure van de toetsing, alsmede over de wijze en het tijdstip van de toetsing aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08).
+2. Bij ministeriële regeling kunnen voorschriften worden gegeven over de procedure van de toetsing, alsmede over de wijze en het tijdstip van de toetsing aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08).
 
 ##### Artikel 28
 
@@ -402,7 +404,7 @@ In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR00255
 
 1. Een verlener van de universele postdienst meldt uiterlijk drie maanden voor de afloop van het kalenderjaar aan het college dat in het daaropvolgende kalenderjaar nettokosten worden verwacht voor de uitvoering van de universele postdienst. Daarbij wordt aangegeven hoe hoog de voor dat kalenderjaar verwachte nettokosten zullen zijn.
 
-2. De nettokosten zijn de kosten die een verlener van de universele postdienst voor de aan hem opgedragen universele postdiensten maakt waartegenover door toepassing van de regels, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-02-08&g=2012-02-08), geen vergoeding staat, verminderd met andere op geld waardeerbare voordelen die verband houden met de verlening van de universele postdienst, waaronder begrepen immateriële voordelen.
+2. De nettokosten zijn de kosten die een verlener van de universele postdienst voor de aan hem opgedragen universele postdiensten maakt waartegenover door toepassing van de regels, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2012-11-08&g=2012-11-08), geen vergoeding staat, verminderd met andere op geld waardeerbare voordelen die verband houden met de verlening van de universele postdienst, waaronder begrepen immateriële voordelen.
 
 3. Een postvervoerbedrijf dat ingevolge het eerste lid nettokosten heeft aangekondigd, kan binnen een half jaar na afloop van het kalenderjaar waarin de nettokosten zijn ontstaan, bij het college een aanvraag indienen om vergoeding van de in het afgelopen kalenderjaar gemaakte nettokosten.
 
@@ -466,19 +468,19 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 
 ##### Artikel 37
 
-1. Het college is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08).
+1. Het college is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08).
 
-2. De bij besluit van het college aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. De bij besluit van het college aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 38
 
-1. Onze Minister is belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08).
+1. Onze Minister is belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08).
 
-2. De bij besluit van Onze Minister aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. De bij besluit van Onze Minister aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 39
 
-1. Het college kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet en de [Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807) opgedragen taken.
+1. Een ieder verstrekt het college desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van hem bij of krachtens deze wet opgedragen taken.
 
 2. Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet opgedragen taken.
 
@@ -502,21 +504,21 @@ Een postvervoerbedrijf deelt aan het college in ieder geval de naam, het adres, 
 
 ##### Artikel 42
 
-1. Het college stelt vast welke andere gegevens dan genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08) bij de mededeling aan het college worden overgelegd, alsmede de wijze waarop de mededeling wordt gedaan.
+1. Het college stelt vast welke andere gegevens dan genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08) bij de mededeling aan het college worden overgelegd, alsmede de wijze waarop de mededeling wordt gedaan.
 
-2. De gegevens, bedoeld [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08) en het eerste lid, worden slechts verzameld ten behoeve van de goede uitvoering van deze wet.
+2. De gegevens, bedoeld [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08) en het eerste lid, worden slechts verzameld ten behoeve van de goede uitvoering van deze wet.
 
-3. Het college registreert het postvervoerbedrijf na ontvangst van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08) bedoelde mededeling en de daarbij behorende gegevens.
+3. Het college registreert het postvervoerbedrijf na ontvangst van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08) bedoelde mededeling en de daarbij behorende gegevens.
 
-4. Een postvervoerbedrijf geeft wijzigingen van de gegevens, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08) en het eerste lid, onverwijld aan het college door.
+4. Een postvervoerbedrijf geeft wijzigingen van de gegevens, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08) en het eerste lid, onverwijld aan het college door.
 
 ##### Artikel 43
 
-1. Het college gaat niet over tot registratie als bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-02-08&g=2012-02-08), indien:
+1. Het college gaat niet over tot registratie als bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-11-08&g=2012-11-08), indien:
 
 - a. de mededeling geen betrekking heeft op het postvervoerbedrijf, of
 
-- b. de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-02-08&g=2012-02-08), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
+- b. de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-11-08&g=2012-11-08), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
 
 2. Het college beëindigt de registratie indien de grond voor registratie is vervallen.
 
@@ -526,27 +528,27 @@ Een postvervoerbedrijf deelt aan het college in ieder geval de naam, het adres, 
 
 2. Het register ligt voor eenieder kosteloos ter inzage op een door het college te bepalen plaats. De gegevens uit het register zijn kosteloos op elektronische wijze te raadplegen.
 
-3. Het college brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-02-08&g=2012-02-08), en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=43&z=2012-02-08&g=2012-02-08).
+3. Het college brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-11-08&g=2012-11-08), en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=43&z=2012-11-08&g=2012-11-08).
 
 4. Het college kan de gegevens met betrekking tot de registratie wijzigen indien dit noodzakelijk is om feitelijke onjuistheden van eenvoudige aard weg te nemen.
 
 ##### Artikel 45
 
-1. Het college verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-02-08&g=2012-02-08), aan het postvervoerbedrijf een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08), aan het college is gedaan.
+1. Het college verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-11-08&g=2012-11-08), aan het postvervoerbedrijf een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08), aan het college is gedaan.
 
 2. Het college verstrekt binnen een week na ontvangst van een daartoe strekkend schriftelijk verzoek van een postvervoerbedrijf een verklaring.
 
 ##### Artikel 46
 
-Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de gegevensverzameling, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-02-08&g=2012-02-08), en voor het register, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-02-08&g=2012-02-08).
+Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de gegevensverzameling, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2012-11-08&g=2012-11-08), en voor het register, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-11-08&g=2012-11-08).
 
 #### § 7.3. Aanwijzingen
 
 ##### Artikel 47
 
-1. Het college kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08).
+1. Het college kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08).
 
-2. Onze Minister kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08).
+2. Onze Minister kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08).
 
 3. Een beschikking als bedoeld in het eerste of tweede lid, wordt gepubliceerd in de Staatscourant.
 
@@ -554,17 +556,17 @@ Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de W
 
 ##### Artikel 48
 
-1. Het college is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08).
+1. Het college is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08).
 
-2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08) gestelde verplichtingen.
+2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08) gestelde verplichtingen.
 
 #### § 7.5. Bestuurlijke boete
 
 ##### Artikel 49
 
-1. Het college kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2012-02-08&g=2012-02-08), alsmede overtreding van het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2012-02-08&g=2012-02-08), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-02-08&g=2012-02-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-02-08&g=2012-02-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=9&z=2012-02-08&g=2012-02-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=10&z=2012-02-08&g=2012-02-08), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=12&z=2012-02-08&g=2012-02-08), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=13&z=2012-02-08&g=2012-02-08), [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2012-02-08&g=2012-02-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=18&z=2012-02-08&g=2012-02-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=19&z=2012-02-08&g=2012-02-08), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2012-02-08&g=2012-02-08), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=23&z=2012-02-08&g=2012-02-08), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-02-08&g=2012-02-08), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=26&z=2012-02-08&g=2012-02-08), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2012-02-08&g=2012-02-08), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=28&z=2012-02-08&g=2012-02-08), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=31&z=2012-02-08&g=2012-02-08), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=5&artikel=32&z=2012-02-08&g=2012-02-08), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=35&z=2012-02-08&g=2012-02-08), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=36&z=2012-02-08&g=2012-02-08), [39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.1&artikel=39&z=2012-02-08&g=2012-02-08), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-02-08&g=2012-02-08), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=59&z=2012-02-08&g=2012-02-08), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=61&z=2012-02-08&g=2012-02-08), [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=63&z=2012-02-08&g=2012-02-08), en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-02-08&g=2012-02-08) van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
+1. Het college kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2012-11-08&g=2012-11-08), alsmede overtreding van het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2012-11-08&g=2012-11-08), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-11-08&g=2012-11-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-11-08&g=2012-11-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=9&z=2012-11-08&g=2012-11-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=10&z=2012-11-08&g=2012-11-08), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=12&z=2012-11-08&g=2012-11-08), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=13&z=2012-11-08&g=2012-11-08), [16, vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2012-11-08&g=2012-11-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=18&z=2012-11-08&g=2012-11-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=19&z=2012-11-08&g=2012-11-08), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2012-11-08&g=2012-11-08), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=23&z=2012-11-08&g=2012-11-08), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2012-11-08&g=2012-11-08), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=26&z=2012-11-08&g=2012-11-08), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2012-11-08&g=2012-11-08), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=28&z=2012-11-08&g=2012-11-08), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=31&z=2012-11-08&g=2012-11-08), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=5&artikel=32&z=2012-11-08&g=2012-11-08), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=35&z=2012-11-08&g=2012-11-08), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=36&z=2012-11-08&g=2012-11-08), [39, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.1&artikel=39&z=2012-11-08&g=2012-11-08), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2012-11-08&g=2012-11-08), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=59&z=2012-11-08&g=2012-11-08), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=61&z=2012-11-08&g=2012-11-08), [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=63&z=2012-11-08&g=2012-11-08), en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-11-08&g=2012-11-08) van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
 
-2. Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2012-02-08&g=2012-02-08), alsmede overtreding van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-02-08&g=2012-02-08) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
+2. Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2012-11-08&g=2012-11-08), alsmede overtreding van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2012-11-08&g=2012-11-08) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
 
 3. De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid,
 
@@ -572,7 +574,7 @@ Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de W
 
 - b. betreft het boekjaar voorafgaande aan de beschikking, bedoeld in het eerste en het tweede lid;
 
-- c. is beperkt tot de omzet die betrekking heeft op de postvervoerdiensten, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2012-02-08&g=2012-02-08).
+- c. is beperkt tot de omzet die betrekking heeft op de postvervoerdiensten, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2012-11-08&g=2012-11-08).
 
 ##### Artikel 50
 
@@ -596,7 +598,7 @@ Vervallen
 
 ##### Artikel 55
 
-1. Een beschikking waarbij een last onder dwangsom dan wel een bestuurlijke boete als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.5&artikel=49&z=2012-02-08&g=2012-02-08) wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij het college respectievelijk Onze Minister.
+1. Een beschikking waarbij een last onder dwangsom dan wel een bestuurlijke boete als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.5&artikel=49&z=2012-11-08&g=2012-11-08) wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij het college respectievelijk Onze Minister.
 
 2. Van de beschikking wordt mededeling gedaan in de Staatscourant.
 
@@ -612,7 +614,7 @@ De te betalen geldsom van de door het college opgelegde bestuurlijke boete, de v
 
 ##### Artikel 58
 
-1. Indien tussen postvervoerbedrijven, tussen een postvervoerbedrijf en iemand die postbussen exploiteert, tussen een postvervoerbedrijf en iemand die een systeem met adresgegevens als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=11&z=2012-02-08&g=2012-02-08) exploiteert of beheert of tussen een postvervoerbedrijf en iemand die een postcodesysteem exploiteert of beheert een geschil is ontstaan inzake de nakoming van de verplichtingen bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2012-02-08&g=2012-02-08), beslecht het college op aanvraag van een bij dat geschil betrokken partij het geschil voor zover naar het oordeel van het college verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot overeenstemming.
+1. Indien tussen postvervoerbedrijven, tussen een postvervoerbedrijf en iemand die postbussen exploiteert, tussen een postvervoerbedrijf en iemand die een systeem met adresgegevens als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=11&z=2012-11-08&g=2012-11-08) exploiteert of beheert of tussen een postvervoerbedrijf en iemand die een postcodesysteem exploiteert of beheert een geschil is ontstaan inzake de nakoming van de verplichtingen bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2012-11-08&g=2012-11-08), beslecht het college op aanvraag van een bij dat geschil betrokken partij het geschil voor zover naar het oordeel van het college verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot overeenstemming.
 
 2. Het college is onbevoegd tot het beslechten van een op grond van het eerste lid voorgelegd geschil indien de bij dat geschil betrokken partijen het college verzoeken het geschil niet langer te beslechten.
 
@@ -624,7 +626,7 @@ De te betalen geldsom van de door het college opgelegde bestuurlijke boete, de v
 
 ##### Artikel 60
 
-1. Het college beslist op een aanvraag als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=58&z=2012-02-08&g=2012-02-08), binnen zeventien weken na ontvangst van de aanvraag.
+1. Het college beslist op een aanvraag als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=58&z=2012-11-08&g=2012-11-08), binnen zeventien weken na ontvangst van de aanvraag.
 
 2. In uitzonderlijke gevallen kan het college de termijn, bedoeld in het eerste lid, met ten hoogste acht weken verlengen. Het college stelt de betrokken postvervoerbedrijven hiervan in kennis en geeft de termijn aan waarbinnen het college het geschil zal beslechten.
 
@@ -632,11 +634,11 @@ De te betalen geldsom van de door het college opgelegde bestuurlijke boete, de v
 
 ##### Artikel 61
 
-Een postvervoerbedrijf volgt het door het college op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2012-02-08&g=2012-02-08) genomen besluit op. Het college kan daarbij een termijn stellen.
+Een postvervoerbedrijf volgt het door het college op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2012-11-08&g=2012-11-08) genomen besluit op. Het college kan daarbij een termijn stellen.
 
 ##### Artikel 62
 
-Het college doet mededeling in de Staatscourant van een besluit als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2012-02-08&g=2012-02-08).
+Het college doet mededeling in de Staatscourant van een besluit als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2012-11-08&g=2012-11-08).
 
 ##### Artikel 63
 
@@ -656,9 +658,9 @@ Het college doet mededeling in de Staatscourant van een besluit als bedoeld in [
 
 ##### Artikel 65
 
-1. Onze Minister stelt de hoogte van de vergoeding, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-02-08&g=2012-02-08), vast.
+1. Onze Minister stelt de hoogte van de vergoeding, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-11-08&g=2012-11-08), vast.
 
-2. Bij of krachtens algemene maatregel van bestuur worden nadere regels nadere gesteld over de vergoeding, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-02-08&g=2012-02-08). Deze regels kunnen mede betrekking hebben op de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.
+2. Bij of krachtens algemene maatregel van bestuur worden nadere regels nadere gesteld over de vergoeding, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2012-11-08&g=2012-11-08). Deze regels kunnen mede betrekking hebben op de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.
 
 ### Hoofdstuk 10. Implementatie van Europese richtlijnen en verordeningen
 
@@ -686,7 +688,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 68
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2012-02-08&g=2012-02-08) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2012-11-08&g=2012-11-08) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -700,7 +702,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 69
 
-In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, oefent Onze Minister de in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2012-02-08&g=2012-02-08), bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie.
+In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, oefent Onze Minister de in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2012-11-08&g=2012-11-08), bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie.
 
 ##### Artikel 70
 
@@ -714,7 +716,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 72
 
-Onze Minister geeft aan een verlener van de universele postdienst voorschriften ten aanzien van de door deze te nemen organisatorische en personele maatregelen met betrekking tot de voorbereiding van de uitvoering van de universele postdienst in buitengewone omstandigheden als bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=68&z=2012-02-08&g=2012-02-08) en de door deze daarover aan Onze Minister te verstrekken informatie. Onze Minister bepaalt in die voorschriften welke kosten van de uitvoering redelijkerwijs ten laste van een verlener van de universele postdienst komen.
+Onze Minister geeft aan een verlener van de universele postdienst voorschriften ten aanzien van de door deze te nemen organisatorische en personele maatregelen met betrekking tot de voorbereiding van de uitvoering van de universele postdienst in buitengewone omstandigheden als bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=68&z=2012-11-08&g=2012-11-08) en de door deze daarover aan Onze Minister te verstrekken informatie. Onze Minister bepaalt in die voorschriften welke kosten van de uitvoering redelijkerwijs ten laste van een verlener van de universele postdienst komen.
 
 ### Hoofdstuk 12. Beroep
 
@@ -778,7 +780,7 @@ Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 
 ##### Artikel 84
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-02-08&g=2012-02-08), wordt met ingang van het tijdstip van inwerkingtreding van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-02-08&g=2012-02-08), een bij besluit van Onze Minister te bepalen rechtspersoon aangewezen als verlener van de universele postdienst.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-11-08&g=2012-11-08), wordt met ingang van het tijdstip van inwerkingtreding van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2012-11-08&g=2012-11-08), een bij besluit van Onze Minister te bepalen rechtspersoon aangewezen als verlener van de universele postdienst.
 
 ##### Artikel 85
 
@@ -800,7 +802,9 @@ De [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423) wordt ingetrokken.
 
 ##### Artikel 89
 
-Wijzigt deze wet.
+1. Artikel 8 vervalt op een bij koninklijk besluit te bepalen datum.
+
+2. De voordracht voor het koninklijk besluit bedoeld in het eerste lid wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 90
 
