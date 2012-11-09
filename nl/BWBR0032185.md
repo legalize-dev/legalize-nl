@@ -4,7 +4,7 @@ identifier: "BWBR0032185"
 country: "nl"
 rank: "kb"
 publication_date: "2012-11-09"
-last_updated: "2012-11-05"
+last_updated: "2012-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032185"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het ministerie van Economische Zaken en van het ministerie van Buit
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032185&artikel=1&z=2012-11-09&g=2012-11-05) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032185&artikel=2&z=2012-11-09&g=2012-11-05) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken, Onze Minister van Buitenlandse Zaken en Onze Minister voor Wonen en Rijksdienst.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032185&artikel=1&z=2012-11-09&g=2012-11-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032185&artikel=2&z=2012-11-09&g=2012-11-09) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken, Onze Minister van Buitenlandse Zaken en Onze Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 4
 
