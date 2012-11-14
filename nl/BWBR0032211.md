@@ -4,7 +4,7 @@ identifier: "BWBR0032211"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-11-14"
-last_updated: "2012-10-01"
+last_updated: "2012-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032211"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ en in voorkomende gevallen, aan personen die aan de werkzaamheden van een commis
 
 ##### Artikel 2
 
-De vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032211&artikel=1&z=2012-11-14&g=2012-10-01), bedraagt 3% van het maximum van schaal 18, genoemd in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en volgt de algemene salarisontwikkeling van het burgerlijk rijkspersoneel. Aan de voorzitters wordt een vergoeding toegekend ter grootte van 130% van het bedrag, bedoeld in de vorige volzin.
+De vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032211&artikel=1&z=2012-11-14&g=2012-11-14), bedraagt 3% van het maximum van schaal 18, genoemd in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en volgt de algemene salarisontwikkeling van het burgerlijk rijkspersoneel. Aan de voorzitters wordt een vergoeding toegekend ter grootte van 130% van het bedrag, bedoeld in de vorige volzin.
 
 ##### Artikel 3
 
