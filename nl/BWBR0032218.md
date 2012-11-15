@@ -67,9 +67,3 @@ De ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032218&artikel
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit erkende rechtspersonen voor onderzoek certificering Wet bemanning zeeschepen.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
