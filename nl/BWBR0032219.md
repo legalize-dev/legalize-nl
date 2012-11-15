@@ -137,13 +137,3 @@ Dit besluit wordt aangehaald als Besluit mandaat en machtiging certificering zee
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de gemandateerden.
-
-##### Artikel 10*. Overgangsbepaling
-
-Aanvragen voor een in [artikel 2, vierde, vijfde of zevende lid, van het Besluit erkende organisaties Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=2) bedoeld onderzoek die voor het tijdstip van inwerkingtreding van dit besluit, worden door Register Holland BV in behandeling genomen.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de gemandateerden.
-
-##### Artikel 14. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
