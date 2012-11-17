@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2012-09-15"
+last_updated: "2012-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De algemeen voorzitter van de Raad ontvangt een vaste vergoeding van € 5000 per jaar.
+1. De algemeen voorzitter van de Raad ontvangt een vaste vergoeding van € 5000per 17 november 2012 en met terugwerkende kracht tot en met 15 september 2012: € 30.000 per jaar.
 
 2. De sectievoorzitters en de voorzitter van de rechtspraakkamer ontvangen een vaste vergoeding van € 2500 per jaar.
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
 
-3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2009-08-01&g=2012-09-15).
+3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2012-11-17&g=2012-11-17).
 
 ##### Artikel 5
 
@@ -102,7 +102,7 @@ De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Re
 
 ##### Artikel 8
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2009-08-01&g=2012-09-15), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2009-08-01&g=2012-09-15), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2012-11-17&g=2012-11-17), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2012-11-17&g=2012-11-17), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
 
 ##### Artikel 9
 
