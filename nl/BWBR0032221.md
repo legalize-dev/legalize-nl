@@ -4,7 +4,7 @@ identifier: "BWBR0032221"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-11-17"
-last_updated: "2010-10-10"
+last_updated: "2012-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032221"
 soort: "ministeriele-regeling"
@@ -42,8 +42,6 @@ Gelet op [artikel 22, tweede lid, van de Wet toelating en uitzetting BES](https:
 
 Besluit vast te stellen het navolgende Mandaatbesluit:
 
-Werkt terug tot 00.00 uur in Bonaire, Sint Eustatius en Saba.
-
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt met de verlening van mandaat gelijk gesteld de verlening van machtiging: de bevoegdheid om namens de Minister voor Immigratie, Integratie en Asiel handelingen te verrichten die noch een besluit noch een privaatrechtelijke handeling zijn.
@@ -60,7 +58,7 @@ De korpschef en de Commandant van de Koninklijke marechaussee zijn bevoegd de ko
 
 ##### Artikel 4
 
-De ambtenaren, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032221&artikel=2&z=2012-11-17&g=2010-10-10) van dit besluit, zijn, naast de ambtenaren van de Immigratie- en Naturalisatiedienst die daartoe uit hoofde van hun functie bevoegd zijn, bevoegd de administratieve voorbereiding te verrichten ten behoeve van de uitzetting van vreemdelingen die niet of niet langer toelating tot verblijf hebben in de openbare lichamen.
+De ambtenaren, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032221&artikel=2&z=2012-11-17&g=2012-11-17) van dit besluit, zijn, naast de ambtenaren van de Immigratie- en Naturalisatiedienst die daartoe uit hoofde van hun functie bevoegd zijn, bevoegd de administratieve voorbereiding te verrichten ten behoeve van de uitzetting van vreemdelingen die niet of niet langer toelating tot verblijf hebben in de openbare lichamen.
 
 ##### Artikel 5
 
