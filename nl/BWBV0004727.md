@@ -4,7 +4,7 @@ identifier: "BWBV0004727"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-12-01"
-last_updated: "2010-09-20"
+last_updated: "2012-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004727"
 soort: "verdrag"
@@ -98,7 +98,7 @@ Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepass
 
 2. In een verzoek om rechtshulp kunnen tevens de volgende gegevens worden vermeld:
 
-- a). alle eisen met betrekking tot vertrouwelijkheid krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=11&z=2010-09-20&g=2010-09-20);
+- a). alle eisen met betrekking tot vertrouwelijkheid krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=11&z=2012-12-01&g=2012-12-01);
 
 - b). de details van bijzondere procedures, ongeacht welke, die de verzoekende partij toegepast wenst te zien;
 
@@ -200,9 +200,9 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 ##### Artikel 16. Overbrenging van gedetineerden ter fine van rechtshulp
 
-1. Indien de verzoekende partij de verschijning in persoon, hetzij als getuige, hetzij met het oog op een confrontatie of andere benodigde onderzoeksmaatregel, noodzakelijk acht van een persoon die op het grondgebied van de aangezochte partij gedetineerd is, kan zij verzoeken om de tijdelijke overbrenging van deze persoon naar haar grondgebied, op voorwaarde dat hij binnen de door de aangezochte partij vastgestelde termijn wordt teruggebracht en onder voorbehoud van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2010-09-20&g=2010-09-20), voor zover van toepassing.
+1. Indien de verzoekende partij de verschijning in persoon, hetzij als getuige, hetzij met het oog op een confrontatie of andere benodigde onderzoeksmaatregel, noodzakelijk acht van een persoon die op het grondgebied van de aangezochte partij gedetineerd is, kan zij verzoeken om de tijdelijke overbrenging van deze persoon naar haar grondgebied, op voorwaarde dat hij binnen de door de aangezochte partij vastgestelde termijn wordt teruggebracht en onder voorbehoud van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01), voor zover van toepassing.
 
-2. Wanneer de verzoekende partij het noodzakelijk acht dat een op haar grondgebied gedetineerde persoon tijdelijk wordt overgebracht naar het grondgebied van de aangezochte partij teneinde daar als getuige op te treden of met het oog op een confrontatie of andere onderzoeksmaatregel, kan zij om de tijdelijke overbrenging van deze persoon verzoeken, op voorwaarde dat hij onmiddellijk na de uitvoering van het verzoek wordt teruggebracht en onder voorbehoud van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2010-09-20&g=2010-09-20), voor zover dit toepassing kan vinden.
+2. Wanneer de verzoekende partij het noodzakelijk acht dat een op haar grondgebied gedetineerde persoon tijdelijk wordt overgebracht naar het grondgebied van de aangezochte partij teneinde daar als getuige op te treden of met het oog op een confrontatie of andere onderzoeksmaatregel, kan zij om de tijdelijke overbrenging van deze persoon verzoeken, op voorwaarde dat hij onmiddellijk na de uitvoering van het verzoek wordt teruggebracht en onder voorbehoud van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01), voor zover dit toepassing kan vinden.
 
 3. De in het eerste lid voorziene overbrenging kan worden geweigerd:
 
@@ -216,9 +216,9 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 4. Voor de in het eerste en tweede lid voorziene overbrenging is de instemming van de aangezochte partij vereist.
 
-##### Artikel 17. Aanvullende voorwaarden voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2010-09-20&g=2010-09-20)
+##### Artikel 17. Aanvullende voorwaarden voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01)
 
-Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2010-09-20&g=2010-09-20):
+Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01):
 
 - a). worden verzoeken om overbrenging en de daarop betrekking hebbende berichten verzonden door de centrale autoriteiten van de partijen;
 
@@ -228,7 +228,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 - d). blijft de persoon die wordt overgebracht van zijn vrijheid benomen op het grondgebied van de partij waarnaar hij wordt overgebracht, tenzij de andere partij om zijn invrijheidstelling verzoekt. De duur van de hechtenis op het grondgebied van de partij waarnaar de persoon is overgebracht, wordt in mindering gebracht op de duur van de vrijheidsstraf die betrokkene dient te ondergaan;
 
-- e). het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2010-09-20&g=2010-09-20) is van overeenkomstige toepassing.
+- e). het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01) is van overeenkomstige toepassing.
 
 ##### Artikel 18. Gecontroleerde afleveringen
 
@@ -266,7 +266,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 1. Op verzoek van de verzoekende partij spant de aangezochte partij zich in om vast te stellen of de opbrengsten van een strafbaar feit zich in haar rechtsgebied bevinden en stelt de verzoekende partij in kennis van de resultaten van haar onderzoek. De verzoekende partij geeft in haar verzoek aan op welke gronden zij veronderstelt dat dergelijke opbrengsten zich in het rechtsgebied van de aangezochte partij bevinden en geeft tevens, indien bekend, de locatie aan waar deze opbrengsten zich bevinden.
 
-2. Indien, overeenkomstig het eerste lid, de vermeende opbrengsten van strafbare feiten worden aangetroffen, neemt de aangezochte partij de voorlopige maatregelen met het oog op de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=23&z=2010-09-20&g=2010-09-20) voorziene confiscatie die nodig zijn om te voorkomen dat deze opbrengsten het voorwerp van transacties worden, worden overgemaakt of vervreemd. De aangezochte partij heft de voorlopige maatregelen pas op na overleg met de verzoekende partij.
+2. Indien, overeenkomstig het eerste lid, de vermeende opbrengsten van strafbare feiten worden aangetroffen, neemt de aangezochte partij de voorlopige maatregelen met het oog op de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=23&z=2012-12-01&g=2012-12-01) voorziene confiscatie die nodig zijn om te voorkomen dat deze opbrengsten het voorwerp van transacties worden, worden overgemaakt of vervreemd. De aangezochte partij heft de voorlopige maatregelen pas op na overleg met de verzoekende partij.
 
 3. De verzoekende partij dient de aangezochte partij om de zes maanden mede te delen of het noodzakelijk is de voorlopige maatregelen te verlengen. Wanneer de genomen voorlopige maatregelen niet meer nodig blijken, stelt de verzoekende partij de aangezochte partij hiervan onverwijld in kennis.
 
@@ -294,7 +294,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 1. De partijen plegen overleg over voorgenomen aangiften ter fine van vervolging teneinde na te gaan of strafvervolging op het grondgebied van de andere partij mogelijk is.
 
-2. Alle aangiften door een van de partijen met het oog op strafvervolging voor de rechter van de andere partij dienen via de centrale autoriteiten te worden verzonden. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=5&z=2010-09-20&g=2010-09-20) is van toepassing.
+2. Alle aangiften door een van de partijen met het oog op strafvervolging voor de rechter van de andere partij dienen via de centrale autoriteiten te worden verzonden. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=5&z=2012-12-01&g=2012-12-01) is van toepassing.
 
 3. De aangezochte partij dient binnen een termijn van drie maanden te laten weten welk gevolg er is gegeven aan deze aangifte en houdt de verzoekende partij op de hoogte van het verloop van de procedure alsmede van het resultaat ervan.
 
@@ -312,7 +312,7 @@ De stukken en documenten welke krachtens dit Verdrag worden overgedragen zijn vr
 
 ##### Artikel 28. Kosten
 
-Onder voorbehoud van de bepalingen van het [derde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=14&z=2010-09-20&g=2010-09-20) worden kosten, van welke aard dan ook, voor de tenuitvoerlegging van de verzoeken om rechtshulp niet vergoed, met uitzondering van de kosten voor inschakeling van deskundigen op het grondgebied van de aangezochte partij en die voor de overbrenging van gedetineerden krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2010-09-20&g=2010-09-20).
+Onder voorbehoud van de bepalingen van het [derde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=14&z=2012-12-01&g=2012-12-01) worden kosten, van welke aard dan ook, voor de tenuitvoerlegging van de verzoeken om rechtshulp niet vergoed, met uitzondering van de kosten voor inschakeling van deskundigen op het grondgebied van de aangezochte partij en die voor de overbrenging van gedetineerden krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01).
 
 ##### Artikel 29. Geschillenregeling
 
@@ -328,7 +328,7 @@ Dit Verdrag is van toepassing zonder beperking in de tijd ten aanzien van feiten
 
 ##### Artikel 31. Territoriale toepassing
 
-Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa alsmede op elk deel van het Koninkrijk buiten Europa, tenzij anders is bepaald in de in het [eerste lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=32&z=2010-09-20&g=2010-09-20) bedoelde kennisgeving.
+Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa alsmede op elk deel van het Koninkrijk buiten Europa, tenzij anders is bepaald in de in het [eerste lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=32&z=2012-12-01&g=2012-12-01) bedoelde kennisgeving.
 
 ##### Artikel 32. Slotbepalingen
 
