@@ -4,7 +4,7 @@ identifier: "BWBR0025979"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2010-08-01"
+last_updated: "2012-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025979"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Vastgesteld wordt een Besluit Kerndoelen WEC, als volgt:
 
 ##### Artikel 1
 
-De kerndoelen, bedoeld in [artikel 13, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) worden voor de verschillende onderwijssoorten vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025979&bijlage=1&z=2010-08-01&g=2010-08-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025979&bijlage=2&z=2010-08-01&g=2010-08-01) bij dit besluit.
+De kerndoelen, bedoeld in [artikel 13, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) worden voor de verschillende onderwijssoorten vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025979&bijlage=1&z=2012-12-01&g=2012-12-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025979&bijlage=2&z=2012-12-01&g=2012-12-01) bij dit besluit.
 
 ##### Artikel 2
 
