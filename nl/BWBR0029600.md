@@ -4,7 +4,7 @@ identifier: "BWBR0029600"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2012-12-01"
-last_updated: "2011-08-01"
+last_updated: "2012-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029600"
 soort: "AMvB-BES"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010
 Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 31 januari 2011, nr. WJZ 255997 (2710), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 1
 
