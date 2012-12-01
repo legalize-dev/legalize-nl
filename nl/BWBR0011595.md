@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-09-01"
+last_updated: "2012-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Vervallen
 
 1. In de aanvraag om toekenning van studiefinanciering worden de basisbeurs, de aanvullende beurs, de basislening, de aanvullende lening of het collegegeldkrediet aangevraagd.
 
-2. De aanvrager doet bij de aanvraag als bedoeld in het eerste lid opgave van het sociaal-fiscaal nummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.
+2. De aanvrager doet bij de aanvraag als bedoeld in het eerste lid opgave van het burgerservicenummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.
 
 3. Indien de aanvrager het collegegeldkrediet aanvraagt, voegt hij bij de aanvraag een bewijs van het door hem verschuldigde collegegeld voor de opleiding waarvoor hij studiefinanciering aanvraagt indien het bedrag dat hij per maand aanvraagt hoger ligt dan eentwaalfde deel van het bedrag, genoemd in [artikel 7.43, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43).
 
@@ -71,7 +71,7 @@ De studerende, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2012-09-01&g=2012-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2012-12-01&g=2012-12-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -97,31 +97,29 @@ Vervallen
 
 ##### Artikel 4.1. Verkrijging reisrecht
 
-1. Om met het reisrecht te kunnen reizen, moet het reisrecht door de studerende bij een daartoe bestemde automaat van het vervoerbedrijf op een daartoe bestemde OV-chipkaart worden geactiveerd.
+1. Om met het reisrecht te kunnen reizen moet het reisproduct door de studerende bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen.
 
-2. Het activeren van het reisrecht kan vanaf twee weken voordat de aanspraak op studiefinanciering ontstaat.
+2. Het laden van het reisproduct kan vanaf twee weken voordat de aanspraak op studiefinanciering ontstaat.
 
 ##### Artikel 4.2. Beëindiging reisrecht
 
-1. Het reisrecht wordt beëindigd door deactivering daarvan:
+1. Het reisrecht wordt beëindigd door het reisproduct dat op de ov-chipkaart is geladen, stop te zetten.
 
-- a. bij de Minister via de website www.ocwduo.nl, of
+2. Het reisproduct wordt stopgezet bij een daartoe bestemde automaat van de vervoersbedrijven.
 
-- b. vanaf een door de Minister nader te bepalen tijdstip bij een daartoe bestemde automaat van het vervoerbedrijf.
+3. De minister kan, indien de met een reisproduct geladen ov-chipkaart technische gebreken heeft of indien de automaten van de vervoersbedrijven niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een webtool of een aangetekende brief.
 
-2. In geval van uitloting van een student in het kader van een procedure als bedoeld in [hoofdstuk 7, paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a), is de student verplicht het reisrecht te beëindigen binnen 5 werkdagen na het moment dat de uitslag van de uitloting door de Minister bekend is gemaakt.
+4. In geval van uitloting van een student, is hij verplicht het reisproduct op de ov-chipkaart stop te zetten binnen 5 werkdagen nadat aan de student schriftelijk mededeling is gedaan van uitloting in de procedure, bedoeld in [hoofdstuk 7, titel 3, paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a).
 
 ##### Artikel 4.3. Keuze in soorten reisrecht
 
-1. Een reisrecht wordt verstrekt als:
+1. Een reisrecht wordt verstrekt in de vorm van:
 
-- a. een weekreisrecht als bedoeld in artikel 1, zesde lid, van de overeenkomst tussen het vervoerbedrijf en de Staat in verband met de uitvoering van het reisrecht; of
+- a. een weekreisrecht als bedoeld in artikel 1, zesde lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht; of
 
-- b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen het vervoerbedrijf en de Staat in verband met de uitvoering van het reisrecht.
+- b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisrecht activeert zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2012-09-01&g=2012-09-01).
-
-3. Het tweede lid is niet van toepassing indien de studerende voor 1 januari 2010 gebruik maakte van een OVS-weekendkaart.
+2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2012-12-01&g=2012-12-01).
 
 ##### Artikel 4.4. Wisselen van soort reisrecht
 
@@ -135,13 +133,13 @@ Vervallen
 
 3. In afwijking van het tweede lid wordt op de aanvraag om te wisselen met ingang van een periode die gelegen is na het ingaan van een eerder toegekend reisrecht besloten uiterlijk op de tiende werkdag nadat het eerder toegekende reisrecht is ingegaan.
 
-4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan dat reisrecht na die toekenning na twee werkdagen bij een automaat van het vervoerbedrijf worden geactiveerd.
+4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na tien werkdagen bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen. In het geval het oorspronkelijke reisproduct niet al door de student op de ov-chipkaart is geladen, bedraagt de termijn waarna het reisproduct op een persoonlijke ov-chipkaart kan worden geladen, in afwijking van de eerste volzin, 20 werkdagen.
 
-5. Het activeren van het nieuwe reisrecht kan tot en met zes weken na de in het vierde lid bedoelde toekenning.
+5. Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag op een persoonlijke ov-chipkaart worden geladen bij een daartoe bestemde automaat van de vervoersbedrijven.
 
-##### Artikel 4.5. Reisrecht strikt persoonlijk
+##### Artikel 4.5. Reisproduct strikt persoonlijk
 
-De studerende die beschikking heeft over een reisrecht heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
+De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
 
 ##### Artikel 4.6. Voorziening in geld
 
@@ -155,7 +153,7 @@ De studerende die beschikking heeft over een reisrecht heeft uitsluitend voor zi
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2012-09-01&g=2012-09-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2012-12-01&g=2012-12-01).
 
 ##### Artikel 4.7. Kosten van het herzien van de keuze van de OV-studentenkaart
 
@@ -223,7 +221,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-09-01&g=2012-09-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-01&g=2012-12-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -233,7 +231,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-09-01&g=2012-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-01&g=2012-12-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -249,15 +247,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-09-01&g=2012-09-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-09-01&g=2012-09-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-09-01&g=2012-09-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-09-01&g=2012-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-09-01&g=2012-09-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-01&g=2012-12-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-01&g=2012-12-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -409,7 +407,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2012-09-01&g=2012-09-01)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2012-12-01&g=2012-12-01)
 
 | HBO-bachelor | Croho-nummer | WO-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
