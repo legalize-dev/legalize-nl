@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-10-15"
+last_updated: "2012-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -268,7 +268,9 @@ Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheid
 
 - c. voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;
 
-- d. het wegen van afvalstoffen en van zand, grind en aarde.
+- d. het wegen van afvalstoffen en van zand, grind en aarde;
+
+- e. het wegen van visserijproducten aan boord van een vissersvaartuig, mits de weegapparatuur deiningsgecompenseerd is.
 
 #### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
 
