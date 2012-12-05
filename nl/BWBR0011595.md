@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-12-01"
+last_updated: "2012-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ De studerende, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2012-12-01&g=2012-12-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2012-12-05&g=2012-12-05), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -119,7 +119,7 @@ Vervallen
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2012-12-01&g=2012-12-01).
+2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2012-12-05&g=2012-12-05).
 
 ##### Artikel 4.4. Wisselen van soort reisrecht
 
@@ -153,7 +153,7 @@ De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor 
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2012-12-01&g=2012-12-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2012-12-05&g=2012-12-05).
 
 ##### Artikel 4.7. Kosten van het herzien van de keuze van de OV-studentenkaart
 
@@ -221,7 +221,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-01&g=2012-12-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-05&g=2012-12-05) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -231,7 +231,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-01&g=2012-12-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-05&g=2012-12-05), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -247,15 +247,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-05&g=2012-12-05)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-05&g=2012-12-05), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-01&g=2012-12-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2012-12-05&g=2012-12-05), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-01&g=2012-12-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-01&g=2012-12-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2012-12-05&g=2012-12-05) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2012-12-05&g=2012-12-05)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -407,17 +407,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2012-12-01&g=2012-12-01)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2012-12-05&g=2012-12-05)
 
 | HBO-bachelor | Croho-nummer | WO-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
-| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50950 | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 | 35203 |
-| Accountancy | 34406 | Algemene economie | 56401 | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 | 35207 |
-| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 | 35202 |
-| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 |   |
-| Commerciële economie | 34402 | Economie en bedrijfskunde | 50950 | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 |   |
-| Commercieel management2 | 34126 |   |   | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 |   |
-| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie1 Leraar economie1 Leraar algemene economie1 |   |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35207 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 |   |
+| Commerciële economie | 34402 | Economie en bedrijfskunde | 50950 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 |   |
+| Commercieel management1 | 34126 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 |   |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 |   |
 |   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
 |   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
 |   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
@@ -455,6 +455,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
 | Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II |   |
 | Bouwkunde |   | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde |   |   |   | Leraar Mens en technologie3 |   |
 | Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
 | Hbo ICT | 30020 |   |   | Leraar ICT/leraar informatica |   |
 | Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
@@ -473,7 +474,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
 | Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek |   |
 | Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
-| Maatschappelijk werk en dienstverlening | 34616 |   |   |   |   |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 |   |   |
 | Cultureel maatschappelijke vorming | 34610 |   |   |   |   |
 | Creatieve therapie | 34644 |   |   |   |   |
 | Pedagogiek | 35158 |   |   |   |   |
@@ -481,25 +482,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 | Personeel en arbeid | 34609 |   |   |   |   |
 |   |   |   |   |   |   |
 | **Hbo-bachelor (alleen van het Hoger Agrarische Onderwijs)** |   | **Wo-bachelor (alleen van de Wageningen Universiteit)** |   |   |   |
-| Plattelandsvernieuwing | 34859 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
-| Tuinbouw en akkerbouw | 34868 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
-| Dier- en veehouderij | 34869 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector |   |
-| Diermanagement | 34333 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
-| Voedingsmiddelentechnologie | 34856 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector |   |
-| Fooddesign en innovatie | 34122 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector |   |
-| Tuin- en landschapsinrichting | 34220 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector |   |
-| Tropische landbouw | 34203 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
-| Bedrijfskunde en agribusiness | 34866 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
-| Bos- en natuurbeheer | 34221 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Milieukunde | 56283 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector |   |
-|   |   | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Tuin- en landschapsinrichting | 34220 | Milieukunde | 56283 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Tropische landbouw | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector |   |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector |   |
 
-1 Afhankelijk van vakkenpakket.
+1Alleen met uitstroomprofiel Commerciële Economie.
 
-2 Alleen met uitstroomprofiel Commerciële Economie.
+2 Afhankelijk van vakkenpakket.
+
+3Alleen voor het uitstroomprofiel bouwkunde.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
