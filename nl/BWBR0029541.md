@@ -4,7 +4,7 @@ identifier: "BWBR0029541"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "1994-01-01"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029541"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Landbouw en Visserij, ieder voor zover zijn ressort betreft.
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken.
 
 ##### Artikel 2
 
@@ -58,17 +58,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder Onze Mini
 
 2. De maatstaf, waarnaar de in het eerste lid, onder **a**, bedoelde bijdragen worden berekend, wordt door Onze Minister vastgesteld. Deze maatstaf kan voor verschillende categorieën van gevallen verschillend zijn. De bijdrage kan 1½% van de verkoopwaarde der betrokken goederen niet te boven gaan.
 
-3. De in het eerste lid, onder **b**, bedoelde bijdragen worden door Onze Minister vastgesteld. Zij bedragen ten hoogste f 10,-.
+3. De in het eerste lid, onder **b**, bedoelde bijdragen worden door Onze Minister vastgesteld. Zij bedragen ten hoogste € 4,54.
 
 ##### Artikel 3
 
-1. De in [artikel 2, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=1994-01-01&g=1994-01-01), bedoelde bijdrage is verschuldigd door degene, te wiens behoeve de vergunning wordt verleend, onderscheidenlijk het bescheid wordt uitgereikt.
+1. De in [artikel 2, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=2012-12-07&g=2012-12-07), bedoelde bijdrage is verschuldigd door degene, te wiens behoeve de vergunning wordt verleend, onderscheidenlijk het bescheid wordt uitgereikt.
 
 2. Onze Minister bepaalt, bij welk orgaan, op welke tijdstippen en op welke wijze de betaling van de verschuldigde bedragen moet geschieden.
 
 ##### Artikel 4
 
-1. Van hem, die regelmatig krachtens [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=1994-01-01&g=1994-01-01), vastgestelde bijdragen heeft te betalen, kan het orgaan, waarbij de betaling moet geschieden, het storten van een voorschot vorderen. Het bedrag van het voorschot wordt door het orgaan bepaald; het kan ƒ 20 000,- niet te boven gaan.
+1. Van hem, die regelmatig krachtens [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=2012-12-07&g=2012-12-07), vastgestelde bijdragen heeft te betalen, kan het orgaan, waarbij de betaling moet geschieden, het storten van een voorschot vorderen. Het bedrag van het voorschot wordt door het orgaan bepaald; het kan € 9800,– niet te boven gaan.
 
 2. De bijdragen, welke de betrokkene verschuldigd is, worden verrekend met het door hem gestorte voorschot.
 
@@ -78,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder Onze Mini
 
 ##### Artikel 5
 
-Onze Minister kan van de verplichting tot betaling van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=1994-01-01&g=1994-01-01) vastgestelde bijdrage, al dan niet onder het stellen van voorwaarden, vrijstelling en, op daartoe strekkend verzoek, ontheffing verlenen.
+Onze Minister kan van de verplichting tot betaling van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029541&artikel=2&z=2012-12-07&g=2012-12-07) vastgestelde bijdrage, al dan niet onder het stellen van voorwaarden, vrijstelling en, op daartoe strekkend verzoek, ontheffing verlenen.
 
 ##### Artikel 6
 
