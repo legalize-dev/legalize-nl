@@ -4,7 +4,7 @@ identifier: "BWBR0022685"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "2008-09-05"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022685"
 soort: "AMvB"
@@ -100,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Subsidie krachtens dit besluit wordt niet verleend voor uitgaven die volgens artikel 7 van de EFRO-verordening niet voor steun uit het Europees Fonds voor Regionale Ontwikkeling in aanmerking komen.
 
-2. De krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=2&artikel=3&z=2008-09-05&g=2008-09-05), ten aanzien van cofinanciering vastgestelde regels zijn tevens de regels inzake de subsidiabiliteit van de uitgaven die in aanmerking komen voor steun uit de fondsen, bedoeld in artikel 56, vierde lid, van de Kaderverordening.
+2. De krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=2&artikel=3&z=2012-12-07&g=2012-12-07), ten aanzien van cofinanciering vastgestelde regels zijn tevens de regels inzake de subsidiabiliteit van de uitgaven die in aanmerking komen voor steun uit de fondsen, bedoeld in artikel 56, vierde lid, van de Kaderverordening.
 
 #### § 3. Aanwijzing autoriteiten
 
@@ -126,23 +126,23 @@ De managementautoriteit kan van bevoegdheden krachtens Kaderverordening, EFRO-ve
 
 ##### Artikel 8
 
-1. De algemeen directeur van de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor de Europese Programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2008-09-05&g=2008-09-05).
+1. De algemeen directeur van de Dienst Regelingen van het Ministerie van Economische Zaken is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor de Europese Programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
-2. Het bestuur van de Stichting Euregio Maasrijn is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor het grensoverschrijdend programma, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2008-09-05&g=2008-09-05).
+2. Het bestuur van de Stichting Euregio Maasrijn is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor het grensoverschrijdend programma, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
 3. De in het eerste en tweede lid aangewezen certificeringsautoriteit is de in artikel 76, tweede lid van de Kaderverordening bedoelde instantie.
 
 ##### Artikel 9
 
-1. De directeur van de auditdienst van het Ministerie van Financiën is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor de aangewezen Europese programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2008-09-05&g=2008-09-05).
+1. De directeur van de auditdienst van het Ministerie van Financiën is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor de aangewezen Europese programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
-2. De directeur van de auditdienst van het Ministerie van Economische Zaken is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor het aangewezen Europese programma genoemd in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2008-09-05&g=2008-09-05).
+2. De directeur van de auditdienst van het Ministerie van Economische Zaken is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor het aangewezen Europese programma genoemd in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
 ##### Artikel 10
 
 1. Er is een Comité van Toezicht als bedoeld in artikel 63 van de Kaderverordening voor elk Europees programma.
 
-2. De managementautoriteit benoemt in overleg met Onze Minister en voor het programma bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2008-09-05&g=2008-09-05), eveneens in overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de leden van het Comité van Toezicht.
+2. De managementautoriteit benoemt in overleg met Onze Minister en voor het programma bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07), eveneens in overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de leden van het Comité van Toezicht.
 
 #### § 4. Slotartikelen
 
