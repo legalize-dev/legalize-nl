@@ -4,7 +4,7 @@ identifier: "BWBR0002323"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "1994-01-01"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002323"
 soort: "AMvB"
@@ -50,7 +50,7 @@ De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 
 
 1. Onze Minister van Economische Zaken benoemt de leden en de plaatsvervangende leden der commissies. Hij benoemt voorts uit de leden een voorzitter en een of meer ondervoorzitters. Hij kan de benoemden wederom ontslaan.
 
-2. Een beschikking krachtens het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken.
+2. Een beschikking krachtens het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 3
 
@@ -66,9 +66,9 @@ De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 
 
 ##### Artikel 5
 
-1. De commissies nemen bij de vervulling van hun taak de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=1&z=1994-01-01&g=1994-01-01) genoemde wet en de tot uitvoering daarvan vastgestelde regelingen in acht.
+1. De commissies nemen bij de vervulling van hun taak de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=1&z=2012-12-07&g=2012-12-07) genoemde wet en de tot uitvoering daarvan vastgestelde regelingen in acht.
 
-2. Zij beslissen zo spoedig mogelijk op de krachtens [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=6&z=1994-01-01&g=1994-01-01), dier wet ingediende verzoekschriften.
+2. Zij beslissen zo spoedig mogelijk op de krachtens [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=6&z=2012-12-07&g=2012-12-07), dier wet ingediende verzoekschriften.
 
 ##### Artikel 6
 
