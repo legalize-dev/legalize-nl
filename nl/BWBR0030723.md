@@ -4,7 +4,7 @@ identifier: "BWBR0030723"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-07"
-last_updated: "2010-10-10"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030723"
 soort: "ministeriele-regeling"
@@ -79,17 +79,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De directeur van het Kabinet is bevoegd om namens de minister de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2010-10-10), uit te oefenen ten aanzien van de personeelsleden werkzaam bij het Kabinet.
+1. De directeur van het Kabinet is bevoegd om namens de minister de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07), uit te oefenen ten aanzien van de personeelsleden werkzaam bij het Kabinet.
 
-2. De uitoefening van de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2010-10-10), geschiedt met inachtneming van de algemene en bijzondere voor de rijksdienst vastgestelde regels, nadere regels voor lokale arbeidskrachten, nadere regels voor zogenoemde uitgezonden personeelsleden en rekening houdend met de bijzondere staatsrechtelijke positie van het Kabinet.
+2. De uitoefening van de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07), geschiedt met inachtneming van de algemene en bijzondere voor de rijksdienst vastgestelde regels, nadere regels voor lokale arbeidskrachten, nadere regels voor zogenoemde uitgezonden personeelsleden en rekening houdend met de bijzondere staatsrechtelijke positie van het Kabinet.
 
-3. De directeur van het Kabinet zendt de minister jaarlijks vóór 1 april een verslag omtrent de uitgeoefende bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2010-10-10).
+3. De directeur van het Kabinet zendt de minister jaarlijks vóór 1 april een verslag omtrent de uitgeoefende bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
 ##### Artikel 5
 
-1. De directeur van het Kabinet kan een beroep doen op de directeur PRIO voor advies en bijstand ten aanzien van de uitvoering van de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2010-10-10).
+1. De directeur van het Kabinet kan een beroep doen op de directeur PRIO voor advies en bijstand ten aanzien van de uitvoering van de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
-2. De directeur PRIO ziet toe op de uitvoering van de bevoegdheden van de directeur van het Kabinet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2010-10-10).
+2. De directeur PRIO ziet toe op de uitvoering van de bevoegdheden van de directeur van het Kabinet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
 ##### Artikel 6
 
@@ -111,7 +111,7 @@ Dit besluit wordt aangehaald als: Besluit financiën en personeel Kabinetten van
 
 ## Bijlage 1
 
-De bevoegdheden op personeelsgebied, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=4&z=2012-12-07&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=5&z=2012-12-07&g=2010-10-10), zijn:
+De bevoegdheden op personeelsgebied, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=4&z=2012-12-07&g=2012-12-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=5&z=2012-12-07&g=2012-12-07), zijn:
 
 - 1. Het vaststellen van de formatie met uitzondering van de functie van directeur van het Kabinet. Het maken van daartoe strekkende orgaan- en functiebeschrijvingen en het inrichten van de formatie van het Kabinet met inachtneming en gebruikmaking van:
 
