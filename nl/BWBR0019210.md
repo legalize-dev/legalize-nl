@@ -4,7 +4,7 @@ identifier: "BWBR0019210"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2012-09-30"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019210"
 soort: "AMvB"
@@ -106,13 +106,13 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 4
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-09-30&g=2012-09-30) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-12-07&g=2012-12-07) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de voorwaarde dat slechts de bij deze regels aan te wijzen categorieën van teeltmateriaal in de handel worden gebracht;
 
 - b. de voorwaarde dat de bij deze regels aan te wijzen categorieën van teeltmateriaal uitsluitend in de handel worden gebracht door de houder van het kwekersrecht van het desbetreffende ras, of, indien voor het ras geen kwekersrecht bestaat, door de voor het ras bij de Raad geregistreerde instandhouders;
 
-- c. de voorwaarde dat teeltmateriaal van landbouwgewassen, bosbouwgewassen en groentegewassen uitsluitend in de handel wordt gebracht indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen;
+- c. de voorwaarde dat teeltmateriaal van landbouwgewassen, bosbouwgewassen en groentegewassen uitsluitend in de handel wordt gebracht indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Europese Commissie vastgestelde gemeenschappelijke lijst van rassen;
 
 - d. de voorwaarde dat teeltmateriaal van fruitgewassen uitsluitend in de handel wordt gebracht indien het afkomstig is van een ras dat kwekersrechtelijk is beschermd, dat is toegelaten of dat overeenkomstig artikel 7, tweede lid, onder c, van richtlijn 2008/90/EG als algemeen bekend wordt beschouwd;
 
@@ -140,7 +140,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 5
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-09-30&g=2012-09-30) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-12-07&g=2012-12-07) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de rasechtheid, de gezondheid, de groeikracht, het vochtgehalte, de afmetingen en de zuiverheid van het teeltmateriaal;
 
