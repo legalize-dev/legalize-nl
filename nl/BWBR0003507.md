@@ -4,7 +4,7 @@ identifier: "BWBR0003507"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "1982-08-28"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003507"
 soort: "AMvB"
@@ -48,27 +48,25 @@ In dit besluit wordt onder wet de [Wet agrarisch grondverkeer](https://wetten.ov
 
 ##### Artikel 2
 
-Als ministers bedoeld in de artikelen 29, eerste lid, 32, derde lid, en 34, van de wet, worden aangewezen:
+Als ministers bedoeld in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=29), [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=32), en [34, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=34), worden aangewezen:
 
 - a. Onze Minister van Defensie;
 
-- b. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- b. Onze Minister van Infrastructuur en Milieu;
 
-- c. Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk.
+- c. Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 3
 
-Als ministers bedoeld in artikel 30, eerste lid, onder **b** en **d**, en tweede lid, van de wet, worden aangewezen:
+Als ministers bedoeld in [artikel 30, eerste lid, onder b en d, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=30), worden aangewezen:
 
 - a. Onze Minister van Financiën;
 
 - b. Onze Minister van Defensie;
 
-- c. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- c. Onze Minister van Infrastructuur en Milieu;
 
-- d. Onze Minister van Verkeer en Waterstaat;
-
-- e. Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk.
+- d. Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 4
 
