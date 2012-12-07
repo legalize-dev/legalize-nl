@@ -4,7 +4,7 @@ identifier: "BWBR0017584"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "2009-07-01"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017584"
 soort: "AMvB"
@@ -83,7 +83,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De subsidie bedraagt 50% van de projectkosten verminderd met de marktconforme opbrengsten, de bijdragen van derden en de subsidies van andere bestuursorganen en de Commissie van de Europese Gemeenschappen.
+1. De subsidie bedraagt 50% van de projectkosten verminderd met de marktconforme opbrengsten, de bijdragen van derden en de subsidies van andere bestuursorganen en de Europese Commissie.
 
 2. De subsidie bedraagt niet meer dan een bij ministeriële regeling te bepalen bedrag.
 
@@ -145,7 +145,7 @@ Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastge
 
 - b. het project strijdigheid creëert met het in de Nota Ruimte vastgestelde veroorzakersprincipe;
 
-- c. blijkt dat er geen verkenning is geweest van andere financierings- en subsidiemogelijkheden en geen aanvraag is gedaan voor relevante subsidie-instrumenten van andere bestuursorganen en de Commissie van de Europese Gemeenschappen;
+- c. blijkt dat er geen verkenning is geweest van andere financierings- en subsidiemogelijkheden en geen aanvraag is gedaan voor relevante subsidie-instrumenten van andere bestuursorganen en de Europese Commissie;
 
 - d. onvoldoende aannemelijk is dat het project kan rekenen op draagvlak binnen de regio waar het bedrijventerrein ligt en bij de ondernemers die op het bedrijventerrein gevestigd zijn;
 
