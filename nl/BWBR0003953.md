@@ -4,7 +4,7 @@ identifier: "BWBR0003953"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "1994-01-01"
+last_updated: "2012-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003953"
 soort: "AMvB"
@@ -58,7 +58,7 @@ middellange termijnplan: plan voor een periode van vier jaar voor de werkzaamhed
 
 basissubsidie: geldmiddelen, die Onze Minister onder nader te stellen voorschriften ter beschikking stelt als bijdrage in de exploitatie- en investeringskosten;
 
-doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat, van Economische Zaken, van Landbouw en Visserij, van Sociale Zaken en Werkgelegenheid en van Welzijn, Volksgezondheid en Cultuur ter beschikking stellen als vergoeding voor de exploitatie- en investeringskosten van door hen aangewezen activiteiten, waaronder begrepen de financiering door Onze Minister van Defensie van de hoofdgroep voor defensie-onderzoek.
+doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur en Milieu, van Economische Zaken, van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Onderwijs, Cultuur en Wetenschap ter beschikking stellen als vergoeding voor de exploitatie- en investeringskosten van door hen aangewezen activiteiten, waaronder begrepen de financiering door Onze Minister van Defensie van de hoofdgroep voor defensie-onderzoek.
 
 ### Hoofdstuk 2. Inrichting organisatie
 
@@ -138,7 +138,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Volkshuisvesti
 
 - f. het vaststellen van regels voor het intern en extern functioneren van de hoofdgroep, voor zover deze regels verband houden met het bijzondere karakter van het defensie-onderzoek.
 
-2. Het in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=2&z=1994-01-01&g=1994-01-01), [3, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=3&z=1994-01-01&g=1994-01-01), en [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=4&z=1994-01-01&g=1994-01-01), bepaalde is, voor zover het de hoofdgroep voor defensie-onderzoek en haar instituten betreft, op de raad voor het defensie-onderzoek, met uitsluiting van de raad van bestuur en de raad van toezicht, van overeenkomstige toepassing.
+2. Het in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=2&z=2012-12-07&g=2012-12-07), [3, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=3&z=2012-12-07&g=2012-12-07), en [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=2&artikel=4&z=2012-12-07&g=2012-12-07), bepaalde is, voor zover het de hoofdgroep voor defensie-onderzoek en haar instituten betreft, op de raad voor het defensie-onderzoek, met uitsluiting van de raad van bestuur en de raad van toezicht, van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Geldmiddelen
 
@@ -164,7 +164,7 @@ De raad van bestuur zendt terstond na ontvangst van de subsidiebrief afschrift d
 
 ##### Artikel 8. Plannen en begrotingen
 
-Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=3&artikel=6&z=1994-01-01&g=1994-01-01), stelt de raad van bestuur, na verkregen goedkeuring van de raad van toezicht, jaarlijks vóór 31 december vast:
+Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=3&artikel=6&z=2012-12-07&g=2012-12-07), stelt de raad van bestuur, na verkregen goedkeuring van de raad van toezicht, jaarlijks vóór 31 december vast:
 
 - a. het middellange termijnplan van de Organisatie met daarin de voor de uitvoering daarvan te vervullen financiële, personele, materiële en organisatorische voorwaarden, het investeringsplan voor de eerstvolgende vier jaren, alsmede een exploitatie- en investeringsbegroting voor het eerstvolgende kalenderjaar;
 
@@ -172,7 +172,7 @@ Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wet
 
 ##### Artikel 9. Definitieve vaststelling
 
-Na afloop van elk kalenderjaar stelt Onze Minister, in overeenstemming met Onze Ministers wie het mede aangaat, de bedragen bedoeld in [artikel 7, derde lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=4&artikel=7&z=1994-01-01&g=1994-01-01), definitief vast en zendt hiervan bericht aan de raad van bestuur vóór 1 april van het daaropvolgende kalenderjaar.
+Na afloop van elk kalenderjaar stelt Onze Minister, in overeenstemming met Onze Ministers wie het mede aangaat, de bedragen bedoeld in [artikel 7, derde lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=4&artikel=7&z=2012-12-07&g=2012-12-07), definitief vast en zendt hiervan bericht aan de raad van bestuur vóór 1 april van het daaropvolgende kalenderjaar.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
