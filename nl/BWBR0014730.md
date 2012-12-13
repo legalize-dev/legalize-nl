@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2012-09-06"
+last_updated: "2012-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -70,7 +70,9 @@ Besluit:
 
 - –. materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door het bij punt 11 van Resolutie 751 (1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité goedkeuring is verleend;
 
-- –. beschermende kledij, waaronder kogelwerende vesten en militaire helmen die het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië worden verzonden.
+- –. beschermende kledij, waaronder kogelwerende vesten en militaire helmen die het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië worden verzonden;
+
+- d. materieel dat uitsluitend bestemd is ter ondersteuning van of voor gebruik door het politieke kantoor van de Verenigde Naties voor Somalië en waaraan vooraf door het Sanctiecomité, bedoeld onder c, goedkeuring is verleend.
 
 ##### Artikel 3
 
