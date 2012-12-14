@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2011-11-30"
+last_updated: "2012-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -90,29 +90,29 @@ in welke formule voorstelt:
 
 ##### Artikel 3
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2012 het bij die ontvanger genoemde bedrag in de onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2013 het bij de uitkeringsontvanger genoemde bedrag in de onderstaande tabel:
 
 | Uitkeringsontvanger | Bedrag (x 1000 euro) |
 | --- | --- |
-| Bestuur Regio Utrecht | 14.952 |
-| Stadsgewest Haaglanden | 25.502 |
-| Stadsregio Arnhem-Nijmegen | 8.789 |
-| Stadsregio Amsterdam | 11.681 |
-| Samenwerkingsverband Regio Eindhoven | 7.909 |
-| Stadsregio Rotterdam | 26.755 |
-| Regio Twente | 3.519 |
-| Provincie Drenthe | 1.881 |
-| Provincie Flevoland | 2.145 |
-| Provincie Friesland | 5.031 |
-| Provincie Gelderland | 283 |
-| Provincie Groningen | 6.546 |
-| Provincie Limburg | 19.211 |
-| Provincie Noord-Brabant | 6.685 |
-| Provincie Noord-Holland | 5.070 |
-| Provincie Overijssel | 6.833 |
-| Provincie Utrecht | 15.770 |
-| Provincie Zeeland | 37.255 |
-| Provincie Zuid-Holland | 26.301 |
+| Bestuur Regio Utrecht | 13.310 |
+| Stadsgewest Haaglanden | 14.036 |
+| Stadsregio Arnhem-Nijmegen | 14.317 |
+| Stadsregio Amsterdam | 8.889 |
+| Samenwerkingsverband Regio Eindhoven | 9.765 |
+| Stadsregio Rotterdam | 14.498 |
+| Regio Twente | 7.047 |
+| Provincie Drenthe | 3.197 |
+| Provincie Flevoland | 3.275 |
+| Provincie Friesland | 2.500 |
+| Provincie Gelderland | 4.114 |
+| Provincie Groningen | 2.071 |
+| Provincie Limburg | 14.034 |
+| Provincie Noord-Brabant | 9.561 |
+| Provincie Noord-Holland | 43.646 |
+| Provincie Overijssel | 8.703 |
+| Provincie Utrecht | 16.552 |
+| Provincie Zeeland | 20.548 |
+| Provincie Zuid-Holland | 17.120 |
 
 ##### Artikel 4
 
@@ -150,7 +150,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2011-11-30&g=2011-11-30) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2011-11-30&g=2011-11-30), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2012-12-14&g=2012-12-14) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2012-12-14&g=2012-12-14), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
