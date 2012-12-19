@@ -4,7 +4,7 @@ identifier: "BWBR0030873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-12-29"
-last_updated: "2012-12-15"
+last_updated: "2012-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030873"
 soort: "ministeriele-regeling"
@@ -157,13 +157,13 @@ Besluit:
 |   | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Pilotproject bioraffinage | – | – |
 | 5.9 | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Voorbereidingsstudies vergassing | – | – |
 |   | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Demonstratieprojecten vergassing | – | – |
-| 5.10 | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 |   | 01-07-12 t/m 01-10-12 | 7.000.000 |
+| 5.10 | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 |   | 01-07-12 t/m 01-10-12 | 7.275.000 |
 | 5.11 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.2 |   | – | – |
 | 5.12 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.8 |   | – | – |
 | 5.13 | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | – | – |
 |   | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Demonstratieprojecten vergistingketen | – | – |
 | 5.14 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   | 15-06 t/m 02-07 | 4.000.000 |
-| 5.15 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   | 09-07 t/m 01-10 | 6.350.000 |
+| 5.15 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   | 09-07 t/m 01-10 | 7.450.000 |
 | 5.16 | Subsidieregeling energie en innovatie (fotovoltaïsche zonnepanelen) | 3.11.2 |   | 02-07 9:00 t/m 28-12 | 21.550.000 |
 |   |   |   |   |   |   |
 | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) | [Subsidieregeling internationaal ondernemen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031355) |
