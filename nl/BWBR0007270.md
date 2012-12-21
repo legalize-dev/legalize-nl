@@ -4,7 +4,7 @@ identifier: "BWBR0007270"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-21"
-last_updated: "2010-07-23"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007270"
 soort: "AMvB"
@@ -65,7 +65,13 @@ Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid,
 
 - g. de deelname aan activiteiten op het terrein van spel of sport, voor zover een relevant verschil bestaat tussen de gemiddelde prestaties van mannen en vrouwen, dan wel voor zover het de toelating tot voor mannen en vrouwen gescheiden activiteiten in internationaal verband betreft en in internationaal verband afspraken zijn gemaakt of regels gelden die meebrengen dat eisen worden gesteld aan het geslacht van de deelnemers;
 
-- h. de verzekering van een risico dat afhankelijk is van het leven van een persoon tegen een van het geslacht van die persoon afhankelijke premie, voor zover het verschil in levensverwachting tussen mannen en vrouwen het verschil in premie redelijkerwijs meebrengt;
+- h. de verzekering van een risico dat afhankelijk is van het leven van een persoon tegen een van het geslacht van die persoon afhankelijke premie, voor zover het verschil in levensverwachting tussen mannen en vrouwen het verschil in premie redelijkerwijs meebrengt, tenzij:
+
+- 1°. de verzekeringsovereenkomst op of na 21 december 2012 is gesloten,
+
+- 2°. in de overeenkomst op of na 21 december 2012 een wijziging is aangebracht, waarmee alle partijen uitdrukkelijk moeten instemmen, of
+
+- 3°. een partij de voor het sluiten van de overeenkomst vereiste instemming laatstelijk heeft betuigd op of na 21 december 2012;
 
 - i. het verlenen van diensten die uitsluitend kunnen worden verleend aan mannen dan wel vrouwen.
 
