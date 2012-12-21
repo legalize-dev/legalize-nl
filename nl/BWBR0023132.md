@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2012-01-01"
+last_updated: "2012-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -78,45 +78,45 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2011-09-14&g=2012-01-01) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in artikel 3a ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
 - c. is het verslagjaar gelijk aan een kalenderjaar;
 
-- d. zijn de verplichtingen, bedoeld in [artikel 383 c van Titel 9 Boek 2 van het Burgerlijk Wetboek,](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383c) uitsluitend van toepassing op de jaarverslaggeving van een onderwijsinstelling voor zover het een lid van het bevoegd gezag van de onderwijsinstelling betreft dan wel een lid van het college van bestuur of de centrale directie als het gaat om een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
+- d. wordt de jaarverslaggeving opgesteld door het bevoegd gezag dat de onderwijsinstelling in stand houdt;
 
-- e. wordt aan het jaarverslag een verslag toegevoegd van de raad van toezicht of een vergelijkbare interne toezichthouder, waarin deze verantwoording aflegt over zijn handelen en van de resultaten die dat handelen heeft opgeleverd tenzij de onderwijsinstelling geen interne toezichthouder kent;
+- e. zijn de verplichtingen, bedoeld in [artikel 383 c van Titel 9 Boek 2 van het Burgerlijk Wetboek,](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383c) uitsluitend van toepassing op de jaarverslaggeving van een onderwijsinstelling voor zover het een lid van het bevoegd gezag van de onderwijsinstelling betreft dan wel een lid van het college van bestuur of de centrale directie als het gaat om een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
-- f. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnen. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;
+- f. wordt aan het jaarverslag een verslag toegevoegd van de raad van toezicht of een vergelijkbare interne toezichthouder, waarin deze verantwoording aflegt over zijn handelen en van de resultaten die dat handelen heeft opgeleverd tenzij de onderwijsinstelling geen interne toezichthouder kent;
 
-- g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2011-09-14&g=2012-01-01) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
+- g. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnen. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;
 
-- h. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) in stand houdt;
+- h. worden, ingeval sprake is van groepsverhoudingen leidende tot een geconsolideerde jaarverslaggeving van de bevoegde gezagen, in de toelichting van de geconsolideerde jaarverslaggeving, de balans en de staat van baten en lasten zodanig gesegmenteerd, dat inzicht ontstaat in de onderscheiden posten uit de geconsolideerde jaarrekening op het instandhoudingsniveau;
 
-- i. blijven ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, de onder f bedoelde modellen wat betreft de inrichting van de balans beperkt tot die posten waar die toerekening wel mogelijk is;
+- i. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2012-12-21&g=2012-12-21) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
 
-- j. wordt separaat aan het jaarverslag en de jaarrekening door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens;
+- j. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) in stand houdt;
 
-- k. is het niet toegestaan de jaarrekening op te stellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.
+- k. blijven ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, de onder g bedoelde modellen wat betreft de inrichting van de balans beperkt tot die posten waar die toerekening wel mogelijk is;
 
-##### Artikel 4. Aanleveren gegevens
+- l. wordt separaat aan het jaarverslag en de jaarrekening door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens;
+
+- m. is het niet toegestaan de jaarrekening op te stellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.
+
+##### Artikel 4. Afwijking een aanvulling richtlijn
+
+1. In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de lasten op basis van de BAPO en de SOP, overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk, in de staat van baten en lasten verantwoord als periodelasten.
+
+2. Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar EER-studenten en niet EER-studenten. Tevens geven zij aan wat de hoogte is van de uitgaven samenhangend met het profileringsfonds.
+
+3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2012-12-21&g=2012-12-21) bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling.
+
+##### Artikel 5. Aanleveren gegevens
 
 1. Het bevoegd gezag levert de jaarverslaggeving, bestaande uit het bestuursverslag en de jaarrekening, in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.
 
-2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2011-09-14&g=2012-01-01), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
-
-##### Artikel 5. Intrekken regelingen
-
-De volgende regelingen worden ingetrokken:
-
-- a. de [Regeling jaarverslag primair onderwijs en (voortgezet) speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0018158);
-
-- b. de [Regeling Jaarverslag scholen voor voortgezet onderwijs met ingang van het verslagjaar 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013539);
-
-- c. de Regeling Financieel Jaarverslag voor instellingen/organen in de bve-sector met ingang van het verslagjaar 2002;
-
-- d. de [Richtlijn jaarverslaggeving hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0011576).
+2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2012-12-21&g=2012-12-21), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Deze regeling treedt in werking per 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
-## Bijlage
+## Bijlage 1. , behorende bij [artikel 3, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2012-12-21&g=2012-12-21), van de regeling
 
 De FSR voor verslagjaar: ………
 
@@ -148,21 +148,18 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 2. Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel niet EER-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend.
 
-## Bijlage 1
+## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2012-12-21&g=2012-12-21), van de regeling
 
-De FSR voor verslagjaar: ………
+|   | Naam individuele bestuurder | Naam individuele bestuurder | Naam individuele bestuurder |
+| --- | --- | --- | --- |
+| Representatiekosten |   |   |   |
+| Reiskosten binnenland |   |   |   |
+| Reiskosten buitenland |   |   |   |
+| Overige kosten |   |   |   |
+|   |   |   |   |
+| **Totaal** |   |   |   |
 
-van de instelling: …………..
-
-| Subsidie- verstrekker en eventueel uitvoerder | Omschrij- ving | Subsidie ID | Project | Subsidie | Looptijd subsidie | Looptijd subsidie | Bestedingen project (OHW) | Bestedingen project (OHW) | Bestedingen project (OHW) | Voor- schot | Status |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (afkorting) naam organisatie(s) | Naam subsidie | Projectnummer subsidie-gever of kenmerk be-schikking met datum | Project-budget (€) | (maximale) subsidie (€) | begin | einde | stand 1-1-jaar (€) | mutaties (€) | stand 31-12-jaar (€) | stand 31-12-jaar (€) | lopend / vts (= vast te stellen) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Totaal |   |   |   |   |   |   |   |   |   |   |   |
-
-## Bijlage 2
+## Bijlage 3
 
 Vervallen
 
@@ -211,5 +208,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 ## Bijlage 3
 
 Vervallen
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
