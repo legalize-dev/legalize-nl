@@ -4,7 +4,7 @@ identifier: "BWBR0020517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-01"
-last_updated: "2012-09-01"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020517"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt op aanvraag van het bevoegd gezag voor maximaal de duur van de opleiding subsidie ten behoeve van de buitenschoolse kosten van de opleidingen tot advanced nurse practitioner en tot physician assistant.
 
-2. De subsidie per student bedraagt een vast normatief bedrag van € 1750,– per maand voor maximaal de duur van de opleiding. De subsidie wordt door het bevoegd gezag doorbetaald aan de zorgwerkgever.
+2. De subsidie per student bedraagt een vast normatief bedrag van € 1.875,– per maand voor maximaal de duur van de opleiding. De subsidie wordt door het bevoegd gezag doorbetaald aan de zorgwerkgever.
 
 3. De subsidie wordt vastgesteld door vermenigvuldiging van de som van het aantal maanden per student dat de opleiding daadwerkelijk is gevolgd met het bedrag, genoemd in het tweede lid.
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het cohort studenten waarvoor in jaar ‘t’ subsidie is verleend dient het bevoegd gezag voor 1 juli van het jaar ‘t+3’ een aanvraag in voor de subsidievaststelling.
 
-2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2011-07-01&g=2012-09-01), is nageleefd.
+2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2012-12-22&g=2012-12-22), is nageleefd.
 
 ##### Artikel 6
 
