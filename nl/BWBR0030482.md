@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2011-10-01"
+last_updated: "2012-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -81,7 +81,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Bedrijfsvoering en Informatie is belast met de uitvoering van projecten, met personele, financiële en facilitaire ondersteuning, met de informatievoorziening van de NZa, met procesmanagement, met organisatieontwikkeling en met het beheer van de informatielijn.
 
-2. De directie Bedrijfsvoering en Informatie bestaat uit de units Informatie- en Facilitair Management, Informatievoorziening, Financiën en Control, Human Resource Management en de Projectenpool.
+2. De directie Bedrijfsvoering en Informatie bestaat uit de units Informatie- en Facilitair Management, Informatie- en Coördinatiecentrum, Financiën en Control, Human Resource Management en de Projectenpool.
 
 ##### Artikel 6. Directie Strategie en Juridische Zaken
 
@@ -91,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7. Binnen beleid en begroting
 
-1. De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2011-10-01&g=2011-10-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2011-10-01&g=2011-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2011-10-01&g=2011-10-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2011-10-01&g=2011-10-01) bij dit besluit.
+1. De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2012-12-22&g=2012-12-22), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2012-12-22&g=2012-12-22) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2012-12-22&g=2012-12-22) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2012-12-22&g=2012-12-22) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -109,17 +109,17 @@ In dit besluit wordt verstaan onder:
 
 3. Directeuren zijn bevoegd tot het verlenen van ondermandaat aan hun unitmanagers voor het nemen van beschikkingen betreffende tarieven, prestatiebeschrijvingen, verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, handhavingsbeschikkingen met uitzondering van boetebeschikkingen en ten aanzien van de rechtspositie van het personeel van hun unit met uitzondering van beschikkingen tot het aanstellen, het bevorderen en het ontslaan van personeel, het verlenen van een voorschot op het salaris, het geven van een gratificatie en het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
 
-4. De portefeuillehouders zijn bevoegd tot het vaststellen van beoordelingen van unitmanagers en tot het nemen van de daaruit voortvloeiende beschikkingen.
+4. De portefeuillehouders zijn voor hun aandachtsgebieden bevoegd tot het vaststellen van beoordelingen van unitmanagers en tot het nemen van de daaruit voortvloeiende beschikkingen.
 
 5. In afwijking van het eerste lid is de directeur Strategie en Juridische Zaken bevoegd om namens de NZa te beslissen op een verzoek in te stemmen met rechtstreeks beroep tegen beschikkingen, alsmede te beslissen op bezwaar, met uitzondering van bezwaren tegen beschikkingen betreffende de rechtspositie van het personeel van de NZa en beschikkingen van de Raad van Bestuur.
 
-6. De directeur Toezicht en Handhaving is bevoegd tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom. De directeur Toezicht en Handhaving kan voor deze bevoegdheid ondermandaat verlenen aan de unitmanagers van de directie.
+6. De portefeuillehouder Toezicht en Handhaving is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
 
 ##### Artikel 10. Volmacht
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2011-10-01&g=2011-10-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2012-12-22&g=2012-12-22) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2011-10-01&g=2011-10-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2012-12-22&g=2012-12-22) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ##### Artikel 11. Machtiging
 
@@ -143,7 +143,7 @@ De medewerkers van de unit Juridische Zaken zijn, met uitzondering van de secret
 
 ##### Artikel 14. Aanwijzing toezichthouders
 
-1. Als medewerkers die belast zijn met het toezicht op de naleving van de bepalingen in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als bedoeld in [artikel 72, lid 1, onder b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=72), zijn aangewezen alle medewerkers van de NZa, met uitzondering van de directeur Strategie en Juridische Zaken, de medewerkers van de unit Juridische Zaken en de secretariële medewerkers van de NZa.
+1. Als medewerkers die belast zijn met het toezicht op de naleving van de bepalingen in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) als bedoeld in [artikel 72, lid 1, onder b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=72), zijn aangewezen alle medewerkers van de NZa, met uitzondering van de directeur Strategie en Juridische Zaken, de unitmanager Juridische Zaken en de secretaresses van de NZa.
 
 2. De voorzitter ondertekent de legitimatiebewijzen van de ingevolge het eerste lid van dit artikel aangewezen medewerkers.
 
@@ -179,7 +179,7 @@ De directie Zorgmarkten Cure is ten aanzien van de zorgmarkten cure belast met h
 
 De directie Toezicht en Handhaving is belast met het toezicht op de uitvoering van de in de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) geregelde verzekeringen, met het toezicht op de naleving van het bij of krachtens de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) bepaalde, met het signaaltoezicht, met zaken betreffende aanmerkelijke marktmacht, met het uitbrengen van zienswijzen en met handhaving. De directie Toezicht en Handhaving kent de unit Markttoezicht en Toezicht Zorgaanbieders en de unit Toezicht Zorgverzekeraars.
 
-De directie Bedrijfsvoering en Informatie is belast met de uitvoering van projecten, met personele, financiële en facilitaire ondersteuning, met de informatievoorziening van de NZa, met procesmanagement, met organisatieontwikkeling en met het beheer van de informatielijn. De directie Bedrijfsvoering en Informatie kent de units Informatie- en Facilitair Management, Informatievoorziening, Financiën en Control, Human Resource Management en de Projectenpool.
+De directie Bedrijfsvoering en Informatie is belast met de uitvoering van projecten, met personele, financiële en facilitaire ondersteuning, met de informatievoorziening van de NZa, met procesmanagement, met organisatieontwikkeling en met het beheer van de informatielijn. De directie Bedrijfsvoering en Informatie kent de units Informatie- en Facilitair Management, Informatie- en Coördinatiecentrum, Financiën en Control, Human Resource Management en de Projectenpool.
 
 De directie Strategie en Juridische Zaken is belast met advisering op economisch, medisch en juridisch gebied van de Raad van Bestuur en de beleidsdirecties, kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning, relatiebeheer, bestuurlijke kaderstelling en control en juridische zaken. De directie Strategie en Juridische Zaken kent de units Economisch en Medisch bureau, Strategie en Communicatie en Juridische Zaken.
 
