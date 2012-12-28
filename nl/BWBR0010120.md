@@ -4,7 +4,7 @@ identifier: "BWBR0010120"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-01"
-last_updated: "2010-01-01"
+last_updated: "2012-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010120"
 soort: "AMvB"
@@ -49,7 +49,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Uitbreiding van de kring van studerenden
 
-Voor de toepassing van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende: de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4) als studerende wordt aangemerkt en werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.
+Voor de toepassing van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4) als studerende wordt aangemerkt en die:
+
+- a. werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt;
+
+- b. in verband met onderwijs of een beroepsopleiding lessen of stages volgt van gemiddeld minder dan 213 klokuren per kwartaal en:
+
+- 1°. een opleiding aan een instelling voor hoger onderwijs als bedoeld in de [artikelen 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) of [6.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9), dan wel een daarmee gelijkwaardige opleiding in of buiten Nederland volgt met een studiebelasting van ten minste 1680 uur per jaar;
+
+- 2°. een andere studie of opleiding volgt dan genoemd onder 1°, met een studiebelasting van ten minste 1600 uur per jaar; of
+
+- 3°. in het examenjaar van een meerjarige studie of opleiding ten minste gemiddeld 162 klokuren per kwartaal lessen of stages volgt.
 
 ##### Artikel 2. Inwerkingtreding
 
