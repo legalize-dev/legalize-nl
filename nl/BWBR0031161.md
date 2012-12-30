@@ -4,7 +4,7 @@ identifier: "BWBR0031161"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2012-06-03"
+last_updated: "2012-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031161"
 soort: "pbo"
@@ -56,7 +56,7 @@ Deze verordening verstaat onder:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-12-30&g=2012-12-30) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | producten als bedoeld in [artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
 | ondernemer | : | de afzonderlijke natuurlijke- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
@@ -152,28 +152,28 @@ Deze verordening verstaat onder:
 | Overige niet genoemde groenten | 486 | 24,03 | ha |
 |   |   |   |   |
 | **Fruit** |   |   |   |
-| Notenbomen (amandelen, hazel- en walnoten) | 2645 | 26,01 | ha |
-| Appelen in seizoen | 490 | 49,70 | ha |
-| Appelen vóór seizoen | 491 | 49,70 | ha |
-| Blauwe bessen | 494 | 108,18 | ha |
-| Bramen | 502 | 219,44 | ha |
-| Frambozen | 488 | 219,44 | ha |
-| Fruit onder glas | 635 | 5,36 | are |
-| Peren in seizoen | 492 | 74,21 | ha |
-| Peren vóór seizoen | 493 | 74,21 | ha |
-| Pruimen | 495 | 116,46 | ha |
-| Rode bessen | 489 | 219,44 | ha |
-| Zure kersen (Best.Verw.Ind.) | 498 | 26,01 | ha |
-| Zoete kersen | 487 | 116,46 | ha |
-| Zwarte bessen (Best.Verw.Ind.) | 499 | 26,01 | ha |
-| Overig kleinfruit | 500 | 219,44 | ha |
-| Overige pit- en steenvrucht | 501 | 116,46 | ha |
+| Notenbomen (amandelen, hazel- en walnoten) | 2645 | 18,21 | ha |
+| Appelen in seizoen | 490 | 34,79 | ha |
+| Appelen vóór seizoen | 491 | 34,79 | ha |
+| Blauwe bessen | 494 | 75,73 | ha |
+| Bramen | 502 | 153,61 | ha |
+| Frambozen | 488 | 153,61 | ha |
+| Fruit onder glas | 635 | 3,75 | are |
+| Peren in seizoen | 492 | 51,95 | ha |
+| Peren vóór seizoen | 493 | 51,95 | ha |
+| Pruimen | 495 | 81,52 | ha |
+| Rode bessen | 489 | 153,61 | ha |
+| Zure kersen (Best.Verw.Ind.) | 498 | 18,21 | ha |
+| Zoete kersen | 487 | 81,52 | ha |
+| Zwarte bessen (Best.Verw.Ind.) | 499 | 18,21 | ha |
+| Overig kleinfruit | 500 | 153,61 | ha |
+| Overige pit- en steenvrucht | 501 | 81,52 | ha |
 
 3. Aan de ondernemer die uitgangsmateriaal teelt wordt een heffing opgelegd uitgedrukt in een percentage van de omzet. De heffing bedraagt 0,068% van de omzet in 2012 van het geteelde uitgangsmateriaal.
 
 ##### Artikel 4
 
-1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
+1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-12-30&g=2012-12-30), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -195,7 +195,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2012-06-03&g=2012-06-03), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2012-12-30&g=2012-12-30), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 7
 
