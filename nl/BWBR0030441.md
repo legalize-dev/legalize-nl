@@ -4,7 +4,7 @@ identifier: "BWBR0030441"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-12-30"
-last_updated: "2011-09-04"
+last_updated: "2012-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030441"
 soort: "pbo"
@@ -61,7 +61,7 @@ BESLUIT:
 
 ##### Artikel 2
 
-1. De exporteur van bloembollen is over de door hem naar Japan uitgevoerde bloembollen aan het productschap een heffing verschuldigd.
+1. De exporteur van bloembollen is over de door hem van 1 juni 2011 tot en met 31 december 2011 naar Japan uitgevoerde bloembollen aan het productschap een heffing verschuldigd.
 
 2. De heffing bedoeld in het eerste lid, is aan het productschap verschuldigd ten behoeve van de financiering van de controles van de bloembollen, die naar Japan worden uitgevoerd.
 
@@ -69,7 +69,7 @@ BESLUIT:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030441&paragraaf=2&artikel=2&z=2011-09-04&g=2011-09-04) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030441&paragraaf=2&artikel=2&z=2012-12-30&g=2012-12-30) doet de exporteur van bloembollen aangifte bij het productschap van de door hem van 1 juni 2011 tot en met 31 december 2011 naar Japan uitgevoerde hoeveelheden bloembollen.
 
 2. De opgave bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
