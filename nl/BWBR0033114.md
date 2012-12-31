@@ -4,7 +4,7 @@ identifier: "BWBR0033114"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2011-12-08"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033114"
 soort: "wet"
@@ -47,7 +47,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IIIa. Wijziging van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
