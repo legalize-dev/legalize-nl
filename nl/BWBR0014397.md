@@ -4,7 +4,7 @@ identifier: "BWBR0014397"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2007-09-14"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014397"
 soort: "AMvB"
@@ -56,23 +56,23 @@ In dit besluit wordt verstaan onder:
 
 - b. fouillering: onderzoek aan kleding als bedoeld in [artikel 37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37b), en [artikel 37h van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37h);
 
-- c. air marshals: ambtenaren van de Koninklijke marechaussee die in het kader van de uitoefening van de taak ten behoeve van de beveiliging van de burgerluchtvaart, bedoeld in [artikel 6, eerste lid, onder c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6), aan boord van een luchtvaartuig worden ingezet;
+- c. air marshals: ambtenaren van de Koninklijke marechaussee die in het kader van de uitoefening van de taak ten behoeve van de beveiliging van de burgerluchtvaart, bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), aan boord van een luchtvaartuig worden ingezet;
 
-- d. Onze Minister: Onze Minister van Justitie.
+- d. Onze Minister: Onze Minister van Veiligheid en Justitie.
 
 ##### Artikel 2
 
-De exploitant van een luchtvaartterrein zorgt dat de beveiligingsmedewerker zijn taak uitvoert met inachtneming van de [paragrafen 2 tot en met 4 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&z=2007-09-14&g=2007-09-14).
+De exploitant van een luchtvaartterrein zorgt dat de beveiligingsmedewerker zijn taak uitvoert met inachtneming van de [paragrafen 2 tot en met 4 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 3
 
-Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37e), bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2007-09-14&g=2007-09-14). De opgave bevat daartoe in ieder geval:
+Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37e), bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01). De opgave bevat daartoe in ieder geval:
 
 - a. de wijze waarop de exploitant voorziet in controle op de taakuitoefening door de beveiligingsmedewerkers,
 
 - b. de maatregelen die de exploitant jegens de beveiligingsorganisatie treft bij taakuitoefening in strijd met dit besluit en
 
-- c. een weergave van de contractuele bepalingen die ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2007-09-14&g=2007-09-14) gelden of zullen gelden tussen de exploitant en de beveiligingsorganisatie.
+- c. een weergave van de contractuele bepalingen die ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01) gelden of zullen gelden tussen de exploitant en de beveiligingsorganisatie.
 
 ##### Artikel 4
 
@@ -160,9 +160,9 @@ Paragraaf 2 is van overeenkomstige toepassing op:
 
 ##### Artikel 12
 
-1. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=5&z=2007-09-14&g=2007-09-14) en de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2007-09-14&g=2007-09-14) zijn van overeenkomstige toepassing op de controle van ruimbagage.
+1. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01) en de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de controle van ruimbagage.
 
-2. In afwijking van het eerste lid is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2007-09-14&g=2007-09-14), niet van toepassing indien de passagier zich voor zover redelijkerwijs valt na te gaan kennelijk niet op het luchtvaartterrein bevindt.
+2. In afwijking van het eerste lid is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), niet van toepassing indien de passagier zich voor zover redelijkerwijs valt na te gaan kennelijk niet op het luchtvaartterrein bevindt.
 
 ##### Artikel 13
 
@@ -176,7 +176,7 @@ Paragraaf 2 is van overeenkomstige toepassing op:
 
 1. De luchtvaartmaatschappij of de geregistreerde, bedoeld in [artikel 37p van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37p), doet onverwijld mededeling aan de Koninklijke marechaussee van een onregelmatigheid bij de uitvoering van de controle van vracht.
 
-2. Indien de vracht zich bij controle niet bevindt op een terrein waar de Koninklijke marechaussee is belast met de uitvoering van de politietaak, wordt in afwijking van het eerste lid van een onregelmatigheid onverwijld mededeling gedaan aan het politiekorps in de desbetreffende regio.
+2. Indien de vracht zich bij controle niet bevindt op een terrein waar de Koninklijke marechaussee is belast met de uitvoering van de politietaak, wordt in afwijking van het eerste lid van een onregelmatigheid onverwijld mededeling gedaan aan de politie.
 
 3. Van een onregelmatigheid is slechts sprake indien:
 
