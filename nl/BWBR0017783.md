@@ -4,7 +4,7 @@ identifier: "BWBR0017783"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-21"
-last_updated: "2004-12-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017783"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 - a. onder ambtenaar wordt verstaan: rechterlijk ambtenaar als bedoeld in [artikel 36c, onderdeel e, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c);
 
-- b. onder centrales van overheidspersoneel wordt verstaan: de vertegenwoordigers van de Nederlandse Vereniging voor Rechtspraak en van de andere door de Minister van Justitie tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren, bedoeld in [artikel 50, tweede lid van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=50);
+- b. onder centrales van overheidspersoneel wordt verstaan: de vertegenwoordigers van de Nederlandse Vereniging voor Rechtspraak en van de andere door de Minister van Veiligheid en Justitie tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren, bedoeld in [artikel 50, tweede lid van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=50);
 
 - c. onder functie wordt verstaan: functie als bedoeld in [artikel 36c, eerste lid, onderdeel a, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c);
 
@@ -67,7 +67,7 @@ Besluit:
 
 - l. onder [artikel 49h van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=49h) wordt verstaan: [artikel 36c, eerste lid, onderdeel d, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c);
 
-2. De bevoegdheden die door de Minister van Justitie ten aanzien van de bij een parket werkzame rechterlijke ambtenaren op grond van deze regeling worden uitgeoefend, worden niet uitgeoefend dan nadat advies is ingewonnen bij de functionele autoriteit;
+2. De bevoegdheden die door de Minister van Veiligheid en Justitie ten aanzien van de bij een parket werkzame rechterlijke ambtenaren op grond van deze regeling worden uitgeoefend, worden niet uitgeoefend dan nadat advies is ingewonnen bij de functionele autoriteit;
 
 3. In afwijking van het eerste lid, is [artikel 5, derde en vierde lid van de Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967&artikel=5) niet van overeenkomstige toepassing op de rechterlijke ambtenaren.
 
