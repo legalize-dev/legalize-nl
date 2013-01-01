@@ -4,7 +4,7 @@ identifier: "BWBR0007919"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2012-02-08"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007919"
 soort: "wet"
@@ -96,7 +96,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2012-02-08&g=2012-02-08), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2013-01-01&g=2013-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -106,13 +106,13 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 Onze Minister publiceert ten minste eenmaal in de vijf jaren een verslag over de doeltreffendheid en de effecten in de praktijk van subsidies die:
 
-- a. worden verstrekt op basis van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2012-02-08&g=2012-02-08) of
+- a. worden verstrekt op basis van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2013-01-01&g=2013-01-01) of
 
 - b. worden verstrekt in incidentele gevallen voor meer dan vijf jaren.
 
 ##### Artikel 6
 
-1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2012-02-08&g=2012-02-08) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
+1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2013-01-01&g=2013-01-01) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
 
 2. De wijze waarop de hoogte van de vergoeding wordt bepaald wordt vermeld in de beschikking tot subsidieverlening of subsidievaststelling, bedoeld in het eerste lid.
 
@@ -144,13 +144,13 @@ Onze Minister publiceert ten minste eenmaal in de vijf jaren een verslag over de
 
 ##### Artikel 9
 
-Tegen een besluit, genomen op grond van deze wet kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Vervallen
 
 ##### Artikel 10
 
 1. De Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ worden ingetrokken, met dien verstande dat zij van toepassing blijven op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2012-02-08&g=2012-02-08) van deze wet.
+2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2013-01-01&g=2013-01-01) van deze wet.
 
 ##### Artikel 11
 
