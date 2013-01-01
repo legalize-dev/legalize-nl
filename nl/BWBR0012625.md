@@ -4,7 +4,7 @@ identifier: "BWBR0012625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2008-04-03"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012625"
 soort: "ministeriele-regeling"
@@ -66,13 +66,13 @@ Besluit:
 
 2. Een geneeskundig onderzoek kan achterwege worden gelaten, indien:
 
-- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en aan de verstrekkende instantie bekend is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03) omschreven criteria;
+- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en aan de verstrekkende instantie bekend is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01) omschreven criteria;
 
-- b. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03) omschreven criteria;
+- b. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01) omschreven criteria;
 
 - c. op grond van [artikel 49, derde lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) een gehandicaptenparkeerkaart wordt verstrekt in verband met een kortstondig verblijf.
 
-3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03).
+3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 3
 
@@ -84,7 +84,9 @@ Besluit:
 
 ##### Artikel 4
 
-De gehandicaptenparkeerkaart moet op zodanige wijze bij de voorruit worden aangebracht, dat de voorzijde ervan buiten het voertuig behoorlijk leesbaar is.
+1. De gehandicaptenparkeerkaart moet op zodanige wijze bij de voorruit worden aangebracht, dat de voorzijde ervan buiten het voertuig behoorlijk leesbaar is.
+
+2. Als voorzijde geldt de zijde waarop de vervaldatum van de gehandicaptenparkeerkaart vermeld staat.
 
 #### Paragraaf 4. Model van de gehandicaptenparkeerkaart
 
@@ -120,8 +122,8 @@ Deze regeling wordt aangehaald als: Regeling gehandicaptenparkeerkaart.
 
 ## Bijlage
 
-- Indien de kaart wordt verstrekt aan een instelling als bedoeld in artikel 1, eerste lid, onderdeel e, wordt: geen pasfoto op de kaart aangebracht. Voorts wordt in dat geval bij `Naam' de naam van de directeur van de instelling, en bij `Voornaam' de naam van de instelling vermeld.
+- •. Indien de kaart wordt verstrekt aan een instelling als bedoeld in artikel 1, eerste lid, onderdeel e, wordt: geen pasfoto op de kaart aangebracht. Voorts wordt in dat geval bij ‘Naam’ de naam van de directeur van de instelling, en bij ‘Voornaam’ de naam van de instelling vermeld.
 
-- De kaart is pas geldig indien hij volledig is ingevuld en ondertekend door de houder of, indien het om een kind gaat, door een van de ouders of verzorgers.
+- •. De kaart is pas geldig indien hij volledig is ingevuld en ondertekend door de houder of, indien het om een kind gaat, door een van de ouders of verzorgers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
