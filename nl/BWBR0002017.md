@@ -4,7 +4,7 @@ identifier: "BWBR0002017"
 country: "nl"
 rank: "kb"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002017"
 soort: "KB"
@@ -102,7 +102,7 @@ Deze termijn kan door Onze Minister van Financiën worden verkort.
 
 ##### Artikel 9
 
-Het is aan den Directeur en aan de verdere ambtenaren en beambten van het Grootboek 1946 verboden om aan bijzondere personen, lichamen en instellingen inzage van het Grootboek te geven of eenige mededeeling te doen van hetgeen hun uit hoofde van hun ambt bekend is omtrent andere inschrijvingen dan waarop die personen, lichamen of instellingen recht hebben, tenzij daartoe een bevelschrift van de voorzieningenrechter van de rechtbank te Amsterdam is verkregen.
+Het is aan den Directeur en aan de verdere ambtenaren en beambten van het Grootboek 1946 verboden om aan bijzondere personen, lichamen en instellingen inzage van het Grootboek te geven of eenige mededeeling te doen van hetgeen hun uit hoofde van hun ambt bekend is omtrent andere inschrijvingen dan waarop die personen, lichamen of instellingen recht hebben, tenzij daartoe een bevelschrift van de voorzieningenrechter van de rechtbank Amsterdam is verkregen.
 
 ##### Artikel 9a
 
