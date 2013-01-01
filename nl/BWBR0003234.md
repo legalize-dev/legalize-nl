@@ -4,7 +4,7 @@ identifier: "BWBR0003234"
 country: "nl"
 rank: "wet"
 publication_date: "2024-09-06"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003234"
 soort: "wet"
@@ -63,7 +63,7 @@ Bij de toepassing van het Verdrag van Parijs worden de bepalingen van deze wet i
 
 ##### Artikel 3
 
-De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=9&z=2002-01-01&g=2002-01-01) van het Verdrag van Parijs genoemde uitsluiting van aansprakelijkheid voor schade veroorzaakt door een kernongeval dat rechtstreeks is te wijten aan een ernstige natuurramp van uitzonderlijke aard, is niet van toepassing op de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie.
+De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01) van het Verdrag van Parijs genoemde uitsluiting van aansprakelijkheid voor schade veroorzaakt door een kernongeval dat rechtstreeks is te wijten aan een ernstige natuurramp van uitzonderlijke aard, is niet van toepassing op de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie.
 
 ##### Artikel 4
 
@@ -71,7 +71,7 @@ Iedere persoon die met betrekking tot door een kernongeval veroorzaakte schade w
 
 ##### Artikel 5
 
-1. Het maximumbedrag van de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie wordt overeenkomstig artikel 7, onder **(b)** (i), van het Verdrag van Parijs vastgesteld op € 226 890 108,05.
+1. Het maximumbedrag van de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie wordt overeenkomstig artikel 7, onder **(b)** (i), van het Verdrag van Parijs vastgesteld op € 1,2 miljard.
 
 2. Bij algemene maatregel van bestuur kan, gelet op de mogelijkheden tot het verkrijgen van dekking, het in het eerste lid bedoelde maximumbedrag worden gewijzigd.
 
@@ -91,7 +91,7 @@ Op verzoek van een vervoerder en met toestemming van de exploitant van een in Ne
 
 - b. ter zake van alle andere schade, indien niet binnen tien jaren na de datum van het kernongeval een rechtsvordering is ingesteld.
 
-3. Voor de aansprakelijkheid van de exploitant met betrekking tot alle vorderingen tot schadevergoeding welke zijn ingesteld na een termijn van tien jaren na de datum van het kernongeval, doch voor het verstrijken van een termijn van dertig jaren na het kernongeval, worden door de Minister van Financiën verzekeringsovereenkomsten aangegaan of andere garanties verstrekt als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=9&z=2002-01-01&g=2002-01-01).
+3. Voor de aansprakelijkheid van de exploitant met betrekking tot alle vorderingen tot schadevergoeding welke zijn ingesteld na een termijn van tien jaren na de datum van het kernongeval, doch voor het verstrijken van een termijn van dertig jaren na het kernongeval, worden door de Minister van Financiën verzekeringsovereenkomsten aangegaan of andere garanties verstrekt als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01).
 
 4. Rechtsvorderingen tot schadevergoeding ingesteld na een termijn van tien jaren na de datum van het kernongeval laten onverlet het recht op schadevergoeding van een ieder die een rechtsvordering heeft ingesteld binnen die termijn.
 
@@ -127,7 +127,7 @@ Bij de toepassing van het Verdrag van Brussel worden de bepalingen van deze wet 
 
 ##### Artikel 13
 
-Voor zover het ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2002-01-01&g=2002-01-01) van deze wet geldende maximumbedrag ontoereikend is voor vergoeding van schade als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01) van het Verdrag van Brussel, waarvoor de exploitant van een in Nederland gelegen kerninstallatie ingevolge het Verdrag van Parijs aansprakelijk is, worden de openbare middelen, bedoeld in artikel 3, onder **b)** ii) en iii) en **f)**, van het Verdrag van Brussel voor vergoeding van die schade beschikbaar gesteld anders dan ter dekking van de aansprakelijkheid van die exploitant.
+Voor zover het ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2013-01-01&g=2013-01-01) van deze wet geldende maximumbedrag ontoereikend is voor vergoeding van schade als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01) van het Verdrag van Brussel, waarvoor de exploitant van een in Nederland gelegen kerninstallatie ingevolge het Verdrag van Parijs aansprakelijk is, worden de openbare middelen, bedoeld in artikel 3, onder **b)** ii) en iii) en **f)**, van het Verdrag van Brussel voor vergoeding van die schade beschikbaar gesteld anders dan ter dekking van de aansprakelijkheid van die exploitant.
 
 ##### Artikel 14
 
@@ -137,7 +137,7 @@ De staten, die openbare middelen beschikbaar hebben gesteld krachtens artikel 3,
 
 ##### Artikel 15
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01) van het Verdrag van Parijs genoemde beperkingen van de werkingssfeer zijn niet van toepassing op de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie voor schade:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01) van het Verdrag van Parijs genoemde beperkingen van de werkingssfeer zijn niet van toepassing op de aansprakelijkheid van de exploitant van een in Nederland gelegen kerninstallatie voor schade:
 
 - a. die geleden is op het grondgebied van een Staat partij bij het Verdrag van Parijs, ongeacht waar het ongeval zich heeft voorgedaan;
 
@@ -151,13 +151,13 @@ De staten, die openbare middelen beschikbaar hebben gesteld krachtens artikel 3,
 
 ##### Artikel 16
 
-Het Verdrag van Parijs en de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=I&z=2002-01-01&g=2002-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&z=2002-01-01&g=2002-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&z=2002-01-01&g=2002-01-01) van deze wet zijn mede van toepassing ten aanzien van in Nederland gelegen kerninstallaties, welke niet zijn vermeld op de lijst, die overeenkomstig artikel 13 van het Verdrag van Brussel wordt opgesteld en bijgehouden, met dien verstande dat als maximumbedrag van de aansprakelijkheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2002-01-01&g=2002-01-01) van deze wet, geldt het in artikel 3 onder **a)** van het Verdrag van Brussel genoemd bedrag.
+Het Verdrag van Parijs en de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=I&z=2013-01-01&g=2013-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&z=2013-01-01&g=2013-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&z=2013-01-01&g=2013-01-01) van deze wet zijn mede van toepassing ten aanzien van in Nederland gelegen kerninstallaties, welke niet zijn vermeld op de lijst, die overeenkomstig artikel 13 van het Verdrag van Brussel wordt opgesteld en bijgehouden, met dien verstande dat als maximumbedrag van de aansprakelijkheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2013-01-01&g=2013-01-01) van deze wet, geldt het in artikel 3 onder **a)** van het Verdrag van Brussel genoemd bedrag.
 
 ##### Artikel 17
 
 1. Ten aanzien van een kernongeval dat plaats vindt op het grondgebied van Nederland, worden de verzender en de vervoerder van de bij dat ongeval betrokken nucleaire stoffen, zomede degene die die stoffen ten tijde van het ongeval voorhanden had, aangemerkt als de exploitant van een in Nederland gelegen kerninstallatie en als zodanig hoofdelijk aansprakelijk gehouden voor de daardoor veroorzaakte schade, tenzij zij bewijzen dat een ander daarvoor aansprakelijk is ingevolge het Verdrag van Parijs of het Gezamenlijk Protocol, zulks met dien verstande dat als maximum bedrag voor hun gezamenlijke aansprakelijkheid geldt het in artikel 3, onder **a)**, van het Verdrag van Brussel genoemde bedrag.
 
-2. Op de aansprakelijkheid ingevolge het eerste lid zijn artikel 6 van het Verdrag van Parijs en [hoofdstuk V, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&z=2002-01-01&g=2002-01-01) mede van toepassing.
+2. Op de aansprakelijkheid ingevolge het eerste lid zijn artikel 6 van het Verdrag van Parijs en [hoofdstuk V, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&z=2013-01-01&g=2013-01-01) mede van toepassing.
 
 3. Het eerste lid geldt niet:
 
@@ -175,7 +175,7 @@ Het Verdrag van Parijs en de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:
 
 2. De Staat heeft voor de uitgekeerde bedragen en de daaraan verbonden kosten verhaal op degenen, die daarvoor ingevolge deze wet aansprakelijk zijn.
 
-3. Op de beschikbaarstelling van openbare middelen ingevolge het eerste lid is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
+3. Op de beschikbaarstelling van openbare middelen ingevolge het eerste lid is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 4. Het bepaalde in het eerste lid vindt mede toepassing op schade als daarin bedoeld, geleden in Staten, die partij zijn bij het Verdrag van Brussel en waarin ten tijde van het betreffende kernongeval een regeling van kracht is, die naar haar aard, toepassingsgebied en bedrag gelijkwaardig is aan die van de onderhavige wet.
 
@@ -183,7 +183,7 @@ Het Verdrag van Parijs en de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 19
 
-Onze Minister van Financiën kan voor het ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=III&artikel=13&z=2002-01-01&g=2002-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2002-01-01&g=2002-01-01) door de Staat beschikbaar stellen van openbare middelen een door hem te bepalen bedrag aan de exploitant in rekening brengen.
+Onze Minister van Financiën kan voor het ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2013-01-01&g=2013-01-01) door de Staat beschikbaar stellen van openbare middelen een door hem te bepalen bedrag aan de exploitant in rekening brengen.
 
 ##### Artikel 20
 
@@ -197,21 +197,21 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 ##### Artikel 22
 
-1. In eerste aanleg is bij uitsluiting bevoegd de rechtbank te 's-Gravenhage.
+1. In eerste aanleg is bij uitsluiting bevoegd de rechtbank Den Haag.
 
-2. Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid dat het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van [artikel 5 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2002-01-01&g=2002-01-01) overtreft, legt de rechtbank te 's-Gravenhage op verzoek van een belanghebbende, de exploitant en Onze Minister van Financiën gehoord, ter zake van de vergoeding van de schade een verbod van betaling op, wijst zij een rechter-commissaris aan ter vaststelling van de staten van verdeling van de bedragen bedoeld in [artikel 27, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=27&z=2002-01-01&g=2002-01-01) en stelt zij tevens een commissie van vereffenaars in, hierna te noemen: de commissie. De rechtbank kan meer dan één rechter-commissaris benoemen en kan een rechter-commissaris bij defungeren vervangen. Zij kan wijzigingen aanbrengen in de samenstelling van de commissie.
+2. Indien redelijkerwijs rekening moet worden gehouden met de mogelijkheid dat het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van [artikel 5 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2013-01-01&g=2013-01-01) overtreft, legt de rechtbank Den Haag op verzoek van een belanghebbende, de exploitant en Onze Minister van Financiën gehoord, ter zake van de vergoeding van de schade een verbod van betaling op, wijst zij een rechter-commissaris aan ter vaststelling van de staten van verdeling van de bedragen bedoeld in [artikel 27, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=27&z=2013-01-01&g=2013-01-01) en stelt zij tevens een commissie van vereffenaars in, hierna te noemen: de commissie. De rechtbank kan meer dan één rechter-commissaris benoemen en kan een rechter-commissaris bij defungeren vervangen. Zij kan wijzigingen aanbrengen in de samenstelling van de commissie.
 
 3. De beschikking, bedoeld in het tweede lid, wordt door de griffier aanstonds ter kennis gebracht van de exploitant en de verzekeraars of andere personen die financiële zekerheid als bedoeld in artikel 10, onder **(a)**, van het Verdrag van Parijs hebben gesteld, de personen die ingevolge het Gezamenlijk Protocol gehouden zijn tot betaling, alsmede van Onze Minister van Financiën. De beschikking wordt voorts door de griffier aanstonds bekend gemaakt in de **Staatscourant**, onder vermelding van het bepaalde in de tweede zin van het vierde lid.
 
 4. Betalingen in strijd met een verbod als bedoeld in het tweede lid zijn van rechtswege nietig vanaf het moment waarop degene die de betaling verrichtte kennis heeft verkregen van de beschikking. Vanaf dat moment worden alle vorderingen tot vergoeding van de schade ter verificatie ingediend bij de commissie door de overlegging van een rekening of andere schriftelijke verklaring aangevende de aard en het bedrag der vordering vergezeld van de bewijsstukken of een afschrift daarvan. De commissie zendt aanstonds een afschrift van alle ingediende stukken aan de exploitant en aan Onze Minister van Financiën.
 
-5. De exploitant en de verzekeraars of andere personen die financiële zekerheid als bedoeld in artikel 10, onder **(a)**, van het Verdrag van Parijs hebben gesteld, de personen die ingevolge het Gezamenlijk Protocol gehouden zijn tot betaling, alsmede de Staat, zijn verplicht op bevel van de rechter-commissaris op een door de commissie aan te wijzen rekening de bedragen te storten benodigd voor de voldoening aan het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=29&z=2002-01-01&g=2002-01-01), met dien verstande dat het totale door ieder van deze personen afzonderlijk te storten bedrag wordt verminderd met de bedragen die deze persoon ter zake van de vergoeding van de schade heeft betaald voor het moment waarop hij kennis heeft gekregen van de beschikking bedoeld in het tweede lid.
+5. De exploitant en de verzekeraars of andere personen die financiële zekerheid als bedoeld in artikel 10, onder **(a)**, van het Verdrag van Parijs hebben gesteld, de personen die ingevolge het Gezamenlijk Protocol gehouden zijn tot betaling, alsmede de Staat, zijn verplicht op bevel van de rechter-commissaris op een door de commissie aan te wijzen rekening de bedragen te storten benodigd voor de voldoening aan het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=29&z=2013-01-01&g=2013-01-01), met dien verstande dat het totale door ieder van deze personen afzonderlijk te storten bedrag wordt verminderd met de bedragen die deze persoon ter zake van de vergoeding van de schade heeft betaald voor het moment waarop hij kennis heeft gekregen van de beschikking bedoeld in het tweede lid.
 
 6. Op de ingevolge het vijfde lid gestorte bedragen kan geen beslag worden gelegd.
 
 ##### Artikel 23
 
-1. De commissie treedt, al dan niet op verzoek van een der personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), verplicht zijn tot storting, of uit eigen beweging, naar aanleiding van de indiening van een vordering met belanghebbenden in overleg.
+1. De commissie treedt, al dan niet op verzoek van een der personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), verplicht zijn tot storting, of uit eigen beweging, naar aanleiding van de indiening van een vordering met belanghebbenden in overleg.
 
 2. De commissie kan te allen tijde door haar aan te wijzen deskundigen raadplegen.
 
@@ -219,13 +219,13 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 4. De commissie is bevoegd van een schuldeiser overleggen van ontbrekende stukken en inzage van de oorspronkelijke bewijsstukken te vorderen.
 
-5. De commissie stelt een lijst op van de ingediende vorderingen, met summiere vermelding van de gronden waarop zij het voornemen heeft een vordering op een in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2002-01-01&g=2002-01-01), bedoelde zitting te betwisten. Deze lijst ligt gedurende ten minste drie weken voor de dag voor de verificatie bestemd, ter griffie ter kosteloze inzage voor ieder.
+5. De commissie stelt een lijst op van de ingediende vorderingen, met summiere vermelding van de gronden waarop zij het voornemen heeft een vordering op een in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2013-01-01&g=2013-01-01), bedoelde zitting te betwisten. Deze lijst ligt gedurende ten minste drie weken voor de dag voor de verificatie bestemd, ter griffie ter kosteloze inzage voor ieder.
 
 ##### Artikel 24
 
-1. Op de ingevolge [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=23&z=2002-01-01&g=2002-01-01), bepaalde dag of dagen houdt de rechter-commissaris in tegenwoordigheid van de commissie of van één of meer van haar leden één of meer openbare zittingen.
+1. Op de ingevolge [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=23&z=2013-01-01&g=2013-01-01), bepaalde dag of dagen houdt de rechter-commissaris in tegenwoordigheid van de commissie of van één of meer van haar leden één of meer openbare zittingen.
 
-2. Alle schuldeisers, de personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), verplicht zijn tot storting, als ook de commissie kunnen ter zitting een vordering betwisten.
+2. Alle schuldeisers, de personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), verplicht zijn tot storting, als ook de commissie kunnen ter zitting een vordering betwisten.
 
 3. Vorderingen die niet worden betwist, worden door de rechter-commissaris vastgesteld op het beweerde bedrag.
 
@@ -233,7 +233,7 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 ##### Artikel 25
 
-1. Verschijnt de schuldeiser die de verificatie vraagt, niet op de terechtzitting, waarnaar de zaak ingevolge [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2002-01-01&g=2002-01-01), is verwezen, dan wordt hij geacht zijn vordering, voor zover zij betwist is, te hebben ingetrokken.
+1. Verschijnt de schuldeiser die de verificatie vraagt, niet op de terechtzitting, waarnaar de zaak ingevolge [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2013-01-01&g=2013-01-01), is verwezen, dan wordt hij geacht zijn vordering, voor zover zij betwist is, te hebben ingetrokken.
 
 2. Verschijnt hij die een vordering heeft betwist niet, dan wordt hij geacht deze betwisting te hebben laten varen.
 
@@ -241,13 +241,13 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 ##### Artikel 26
 
-1. Na afloop van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2002-01-01&g=2002-01-01) bedoelde zittingen, of, indien deze tot een betwisting aanleiding hebben gegeven, nadat daarover onherroepelijk is beslist, wordt door de commissie een staat van verdeling opgemaakt en aan de goedkeuring van de rechter-commissaris onderworpen.
+1. Na afloop van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=24&z=2013-01-01&g=2013-01-01) bedoelde zittingen, of, indien deze tot een betwisting aanleiding hebben gegeven, nadat daarover onherroepelijk is beslist, wordt door de commissie een staat van verdeling opgemaakt en aan de goedkeuring van de rechter-commissaris onderworpen.
 
 2. De staat van verdeling vermeldt afzonderlijk de iedere schuldeiser toekomende rente, alsmede te wiens laste de kosten van het geding komen.
 
 ##### Artikel 27
 
-1. Indien het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van [artikel 5 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2002-01-01&g=2002-01-01), het bedrag genoemd in artikel 3, onder **a)**, van het Verdrag van Brussel of het in [artikel 18, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2002-01-01&g=2002-01-01) genoemde bedrag overtreft, zijn op de vorderingen telkens voor zover zij vergoed kunnen worden uit deze bedragen de navolgende regels van toepassing:
+1. Indien het totaal der vorderingen het maximumbedrag van de aansprakelijkheid van de exploitant uit hoofde van [artikel 5 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=II&artikel=5&z=2013-01-01&g=2013-01-01), het bedrag genoemd in artikel 3, onder **a)**, van het Verdrag van Brussel of het in [artikel 18, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2013-01-01&g=2013-01-01) genoemde bedrag overtreft, zijn op de vorderingen telkens voor zover zij vergoed kunnen worden uit deze bedragen de navolgende regels van toepassing:
 
 - a. wanneer de vorderingen uitsluitend betreffen schade aan personen, worden zij in evenredigheid gekort;
 
@@ -255,7 +255,7 @@ Onze Minister van Financiën is gemachtigd ten behoeve van de exploitant van een
 
 - c. wanneer de vorderingen betreffen zowel schade als bedoeld in **a** als schade bedoeld in **b**, wordt twee derde van het betrokken bedrag uitsluitend bestemd voor de voldoening van de vorderingen als bedoeld in **a**, welke vorderingen - zo nodig - in evenredigheid worden gekort, terwijl het overblijvende bestemd zal worden voor de voldoening van de vorderingen als bedoeld in **b** en voor de vorderingen als bedoeld in **a**, voor zover deze nog onvoldaan zouden blijven. Blijft overeenkomstig de vorige zinsnede na voldoening van de vorderingen als bedoeld in **a** een bedrag over, dan zal het overblijvende bestemd worden voor de voldoening als bedoeld in **b**, voor zover deze nog onvoldaan zouden blijven.
 
-2. Bij de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2002-01-01&g=2002-01-01) bedraagt de vergoeding voor vorderingen ter zake van schade aan personen, die worden ingesteld na een termijn van tien jaren na de datum van het kernongeval, ten minste tien procent van het door de Staat beschikbaar te stellen bedrag.
+2. Bij de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=IV&artikel=18&z=2013-01-01&g=2013-01-01) bedraagt de vergoeding voor vorderingen ter zake van schade aan personen, die worden ingesteld na een termijn van tien jaren na de datum van het kernongeval, ten minste tien procent van het door de Staat beschikbaar te stellen bedrag.
 
 ##### Artikel 28
 
@@ -269,19 +269,19 @@ Nadat een staat van verdeling door de rechter-commissaris of, indien tijdig verz
 
 ##### Artikel 30
 
-1. De rechter-commissaris kan gedurende de termijn die voorafgaat aan de vaststelling van de staat van verdeling op voorstel van de commissie aan degenen die schade hebben geleden ten gevolge van een kernongeval de nodige voorschotten verlenen.[Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+1. De rechter-commissaris kan gedurende de termijn die voorafgaat aan de vaststelling van de staat van verdeling op voorstel van de commissie aan degenen die schade hebben geleden ten gevolge van een kernongeval de nodige voorschotten verlenen.[Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-2. Gedurende de in het eerste lid bedoelde termijn kan de rechter-commissaris bovendien een voorlopige staat van verdeling vaststellen. In dat geval zijn de [artikelen 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), en [26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=26&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
+2. Gedurende de in het eerste lid bedoelde termijn kan de rechter-commissaris bovendien een voorlopige staat van verdeling vaststellen. In dat geval zijn de [artikelen 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), en [26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=26&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 3. De rechter-commissaris kan bepalen dat door schuldeisers aan wie op grond van het bepaalde in het eerste of het tweede lid een uitkering wordt gedaan, een door hem aan te wijzen vorm van zekerheid wordt gegeven.
 
 ##### Artikel 31
 
-1. De beschikkingen van de rechter-commissaris, de beschikking van de rechtbank tot inwilliging van een verzoek als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), alsmede de beschikking van de rechtbank krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=28&z=2002-01-01&g=2002-01-01), zijn niet vatbaar voor hoger beroep, noch voor beroep in cassatie.
+1. De beschikkingen van de rechter-commissaris, de beschikking van de rechtbank tot inwilliging van een verzoek als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), alsmede de beschikking van de rechtbank krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=28&z=2013-01-01&g=2013-01-01), zijn niet vatbaar voor hoger beroep, noch voor beroep in cassatie.
 
-2. De wijze en de plaats van indiening van de vorderingen bij de commissie, de beschikkingen van de rechter-commissaris en die van de rechtbank krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=28&z=2002-01-01&g=2002-01-01), alsmede alle nederleggingen worden door de commissie op een door de rechter-commissaris te bepalen wijze ter kennis van belanghebbenden gebracht.
+2. De wijze en de plaats van indiening van de vorderingen bij de commissie, de beschikkingen van de rechter-commissaris en die van de rechtbank krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=28&z=2013-01-01&g=2013-01-01), alsmede alle nederleggingen worden door de commissie op een door de rechter-commissaris te bepalen wijze ter kennis van belanghebbenden gebracht.
 
-3. Behoudens de toepassing van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) komen de kosten voortvloeiende uit de toepassing van dit hoofdstuk ten laste van de personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2002-01-01&g=2002-01-01), verplicht zijn tot storting, naar rato van het door hen verschuldigde.
+3. Behoudens de toepassing van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) komen de kosten voortvloeiende uit de toepassing van dit hoofdstuk ten laste van de personen die ingevolge [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&hoofdstuk=V&artikel=22&z=2013-01-01&g=2013-01-01), verplicht zijn tot storting, naar rato van het door hen verschuldigde.
 
 ##### Artikel 32
 
@@ -302,5 +302,23 @@ Vervallen
 1. Deze wet kan worden aangehaald als: Wet aansprakelijkheid kernongevallen.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk III. Uitvoering van het Verdrag van Brussel
+
+### Hoofdstuk IV. Aanvullende bepalingen
+
+##### Artikel 17a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk V. Procesrecht
+
+### Hoofdstuk VI. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
