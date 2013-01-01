@@ -4,7 +4,7 @@ identifier: "BWBR0004746"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004746"
 soort: "wet"
@@ -51,11 +51,11 @@ In deze wet wordt verstaan onder
 
 - b. het Haagse verdrag: het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (**Trb.** 1987, 139);
 
-- c. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=3&z=2012-01-01&g=2012-01-01) in verband met artikel 5 onder **a** van het Haagse verdrag.
+- c. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=3&z=2013-01-01&g=2013-01-01) in verband met artikel 5 onder **a** van het Haagse verdrag.
 
 ##### Artikel 2
 
-Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2012-01-01&g=2012-01-01) vermelde verdragen en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
+Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2013-01-01&g=2013-01-01) vermelde verdragen en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
 
 ##### Artikel 3
 
@@ -81,7 +81,7 @@ Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/j
 
 1. Indien de centrale autoriteit besluit om een verzoek tot teruggeleiding van een kind niet in behandeling te nemen of de behandeling van een zodanig verzoek te staken, deelt zij zulks aanstonds aan de verzoeker mede. De verzoeker kan van de centrale autoriteit verlangen, haar beslissing aan hem mede te delen in de vorm van een beschikking met vermelding van de gronden die tot de beslissing hebben geleid. De centrale autoriteit deelt haar beschikking bij aangetekend schrijven aan de verzoeker mede.
 
-2. De verzoeker kan binnen een maand na de ontvangst van de beschikking daartegen bij de rechtbank te 's-Gravenhage opkomen, bij een bezwaarschrift dat moet worden ingediend door een advocaat. De rechtbank hoort de verzoeker en de centrale autoriteit op het bezwaarschrift. Indien de rechtbank het bezwaar gegrond acht, vernietigt zij de beschikking van de centrale autoriteit en geeft zij een met reden omklede beschikking die in haar plaats treedt. Tegen de beschikking van de rechtbank staat geen hogere voorziening open behoudens cassatie in het belang der wet.
+2. De verzoeker kan binnen een maand na de ontvangst van de beschikking daartegen bij de rechtbank Den Haag opkomen, bij een bezwaarschrift dat moet worden ingediend door een advocaat. De rechtbank hoort de verzoeker en de centrale autoriteit op het bezwaarschrift. Indien de rechtbank het bezwaar gegrond acht, vernietigt zij de beschikking van de centrale autoriteit en geeft zij een met reden omklede beschikking die in haar plaats treedt. Tegen de beschikking van de rechtbank staat geen hogere voorziening open behoudens cassatie in het belang der wet.
 
 ##### Artikel 7
 
@@ -93,11 +93,11 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 9
 
-1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van ambtenaren, aangesteld voor de uitvoering van de politietaak, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement 's-Gravenhage. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
+1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement 's-Gravenhage. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
 
 2. De in het eerste lid bedoelde officier van justitie behandelt een verzoek om medewerking van de centrale autoriteit met voorrang.
 
-3. De ambtenaar, aangesteld voor de uitvoering van de politietaak die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+3. De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ##### Artikel 10
 
@@ -109,19 +109,19 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 11
 
-1. Onverminderd de bevoegdheid van de voorzieningenrechter te ’s-Gravenhage in kort geding, is in eerste aanleg uitsluitend de kinderrechter van de rechtbank te ’s-Gravenhage bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens.
+1. Onverminderd de bevoegdheid van de voorzieningenrechter Den Haag in kort geding, is in eerste aanleg uitsluitend de kinderrechter van de rechtbank te ’s-Gravenhage bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens.
 
-2. De kinderrechter van de rechtbank binnen wier rechtsgebied het kind zijn werkelijke verblijfplaats heeft is, onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=14&z=2012-01-01&g=2012-01-01) van deze wet. Heeft het kind geen werkelijke verblijfplaats of kan zijn verblijfplaats niet worden vastgesteld, dan is bevoegd de kinderrechter van de rechtbank te ’s-Gravenhage.
+2. De kinderrechter van de rechtbank binnen wier rechtsgebied het kind zijn werkelijke verblijfplaats heeft is, onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=14&z=2013-01-01&g=2013-01-01) van deze wet. Heeft het kind geen werkelijke verblijfplaats of kan zijn verblijfplaats niet worden vastgesteld, dan is bevoegd de kinderrechter van de rechtbank Den Haag.
 
 ##### Artikel 12
 
-De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=11&z=2012-01-01&g=2012-01-01) bedoelde zaken worden ingeleid met een verzoekschrift.
+De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=11&z=2013-01-01&g=2013-01-01) bedoelde zaken worden ingeleid met een verzoekschrift.
 
 ##### Artikel 13
 
 1. De gedwongen afgifte van een internationaal ontvoerd kind aan degene aan wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens is slechts mogelijk uit krachte van een daartoe strekkend bevel van de rechter.
 
-2. De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld. De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in [artikel 802 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=802) is van toepassing.
+2. De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld, overeenkomstig het bepaalde in [artikel 803 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=803). De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in [artikel 802 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=802) is van toepassing.
 
 3. In de gevallen waarin geen verdrag toepasselijk is kan de rechter het verzoek afwijzen op de gronden vermeld in de artikelen 12, tweede lid, 13 en 20 van het Haagse verdrag.
 
@@ -149,11 +149,11 @@ De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&a
 
 ##### Artikel 15
 
-De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien van hetwelk een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Indien nog geen verzoek tot teruggeleiding is gedaan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, indien hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van [artikel 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2012-01-01&g=2012-01-01) en dat een verzoek tot zijn teruggeleiding zal worden ingediend.
+De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien van hetwelk een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Indien nog geen verzoek tot teruggeleiding is gedaan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, indien hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van [artikel 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2013-01-01&g=2013-01-01) en dat een verzoek tot zijn teruggeleiding zal worden ingediend.
 
 ##### Artikel 16
 
-1. Ieder die in verband met de toepassing van een verdrag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2012-01-01&g=2012-01-01) of in verband met de toepassing van deze wet in Nederland in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de Wet van 4 juli 1957, **Stb.** 233, tot regeling van de rechtsbijstand aan on- en minvermogenden.
+1. Ieder die in verband met de toepassing van een verdrag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2013-01-01&g=2013-01-01) of in verband met de toepassing van deze wet in Nederland in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de Wet van 4 juli 1957, **Stb.** 233, tot regeling van de rechtsbijstand aan on- en minvermogenden.
 
 2. De in het eerste lid bedoelde personen zijn vrijgesteld van het stellen van zekerheid voor de betaling van kosten, schaden en interessen waarin zij zouden kunnen worden verwezen.
 
