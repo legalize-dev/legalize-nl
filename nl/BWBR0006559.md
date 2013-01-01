@@ -4,7 +4,7 @@ identifier: "BWBR0006559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "1994-11-13"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006559"
 soort: "ministeriele-regeling"
@@ -42,45 +42,43 @@ Besluit:
 
 ##### Artikel 1
 
-Tijdens de uitoefening van de dienst dragen de volgende ambtenaren van politie een politielegitimatiebewijs volgens het model, bedoeld in bijlage 1 bij deze regeling, bij zich:
+Tijdens de uitoefening van de dienst dragen de volgende ambtenaren van politie een politielegitimatiebewijs volgens het model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&bijlage=1&z=2013-01-01&g=2013-01-01) bij deze regeling, bij zich:
 
-- a. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder a en c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), die werkzaam is bij een regionaal politiekorps, met uitzondering van de adspirant voor de duur dat hij geen praktijkstage volgt;
+- a. de ambtenaar, bedoeld in [artikel 2, onderdelen a en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover zij zijn aangesteld voor de uitvoering van de politietaak en werkzaam zijn bij een eenheid, met uitzondering van de aspirant gedurende het theoretische opleidingsdeel;
 
-- b. de door de korpsbeheerder aangewezen ambtenaren als bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), die over opsporingsbevoegdheid beschikken.
+- b. de door de korpschef aangewezen ambtenaren, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die over opsporingsbevoegdheden beschikken.
 
 ##### Artikel 2
 
-1. De Staat is eigenaar van het politielegitimatiebewijs.
-
-2. De regionale politiekorpsen betrekken het politielegitimatiebewijs tegen betaling van het Korps landelijke politiediensten.
+De politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) is eigenaar van het politielegitimatiebewijs.
 
 ##### Artikel 3
 
-De korpsbeheerder draagt zorg voor een behoorlijk toezicht op de bewaring van het te verstrekken politielegitimatiebewijs.
+De korpschef, bedoeld in [artikel 1, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) draagt zorg voor een behoorlijk toezicht op de bewaring van het te verstrekken politielegitimatiebewijs.
 
 ##### Artikel 4
 
-1. De korpsbeheerder draagt er zorg voor dat het politielegitimatiebewijs voor de uitreiking wordt geprepareerd op de wijze, bedoeld in bijlage 2 bij deze regeling.
+1. De korpschef draagt er zorg voor dat het politielegitimatiebewijs voor de uitreiking wordt geprepareerd op de wijze, bedoeld in bijlage 2 bij deze regeling.
 
-2. De korpsbeheerder reikt het politielegitimatiebewijs na ondertekening uit aan de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=1994-11-13&g=1994-11-13).
+2. De korpschef reikt het politielegitimatiebewijs na ondertekening uit aan de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2013-01-01&g=2013-01-01).
 
-3. De korpsbeheerder registreert de uitgifte van het politielegitimatiebewijs waarbij de naam van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=1994-11-13&g=1994-11-13), en het uitgiftenummer worden vermeld.
+3. De korpschef registreert de uitgifte van het politielegitimatiebewijs waarbij de naam van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2013-01-01&g=2013-01-01), en het uitgiftenummer worden vermeld.
 
 ##### Artikel 5
 
-De ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=1994-11-13&g=1994-11-13), meldt vermissing, ontvreemding en geheel of gedeeltelijk tenietgaan van zijn politielegitimatiebewijs terstond aan de korpsbeheerder. De korpsbeheerder stelt het Korps landelijke politiediensten in kennis van elke vermissing of ontvreemding van een politielegitimatiebewijs.
+De ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2013-01-01&g=2013-01-01), meldt vermissing, ontvreemding en geheel of gedeeltelijk tenietgaan van zijn politielegitimatiebewijs terstond aan de korpschef.
 
 ##### Artikel 6
 
-1. Bij overlijden of beëindiging van het dienstverband van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=1994-11-13&g=1994-11-13), of bij vervanging van het politielegitimatie-bewijs neemt de korpsbeheerder het politielegitimatiebewijs in.
+1. Bij overlijden of beëindiging van het dienstverband van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2013-01-01&g=2013-01-01), of bij vervanging van het politielegitimatie-bewijs neemt de korpschef het politielegitimatiebewijs in.
 
-2. De korpsbeheerder draagt zorg voor vernietiging van het ingenomen politielegitimatiebewijs.
+2. De korpschef draagt zorg voor vernietiging van het ingenomen politielegitimatiebewijs.
 
-3. De korpsbeheerder haalt de registratie van de uitgifte, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=4&z=1994-11-13&g=1994-11-13), door.
+3. De korpschef haalt de registratie van de uitgifte, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=4&z=2013-01-01&g=2013-01-01), door.
 
 ##### Artikel 7
 
-Het politielegitimatiebewijs, verstrekt op basis van de beschikking van Onze Ministers van Justitie en van Binnenlandse Zaken tot vaststelling van een politielegitimatie (Stcrt. 1958, 32), wordt uiterlijk 1 juni 1994 ingeleverd bij en vernietigd door de korpsbeheerder en behoudt tot het moment dat het is ingeleverd, zijn geldigheid.
+Vervallen
 
 ##### Artikel 8
 
@@ -95,6 +93,14 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 ## Bijlage 1
 
 Het model van het legitimatiebewijs is het model zoals dat is opgenomen in het handboek politielogo en huisstijl 1993 dat ter inzage ligt bij de bibliotheek van het ministerie van Binnenlandse Zaken, Schedeldoekshaven 200, 's-Gravenhage.
+
+## Bijlage 1
+
+Het model van het legitimatiebewijs is het model zoals dat is opgenomen in het handboek politielogo en huisstijl 1993 dat ter inzage ligt bij de bibliotheek van het ministerie van Binnenlandse Zaken, Schedeldoekshaven 200, 's-Gravenhage.
+
+##### Artikel 8a
+
+Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30).
 
 ## Bijlage 2
 
