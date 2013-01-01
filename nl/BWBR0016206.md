@@ -4,7 +4,7 @@ identifier: "BWBR0016206"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016206"
 soort: "wet"
@@ -87,7 +87,7 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel XIII
 
-[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XII&z=2006-01-01&g=2006-01-01) bedoelde verhoging van de accijns.
+[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XII&z=2013-01-01&g=2013-01-01) bedoelde verhoging van de accijns.
 
 ##### Artikel XIV
 
@@ -151,7 +151,7 @@ A. Overgangsrecht inkomstenbelasting
 
 B. Overgangsrecht ter zake van vorming eigenwoningreserve
 
-1. Voor de toepassing van [artikel 3 119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) wordt, indien ten aanzien van de belastingplichtige op 31 december 2003 twee woningen als eigen woning werden aangemerkt, ter zake van de eerste vervreemding geen eigenwoningreserve gevormd.
+1. Voor de toepassing van [artikel 3.119aa van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa) wordt, indien ten aanzien van de belastingplichtige op 31 december 2003 twee woningen als eigen woning werden aangemerkt, ter zake van de eerste vervreemding geen eigenwoningreserve gevormd.
 
 2. Indien de verwerving door de belastingplichtige van een eigen woning het gevolg is van een op 31 december 2003 reeds bestaande schriftelijke koopovereenkomst, wordt ter zake van de vervreemding van een woning die op 31 december 2003 ten aanzien van hem als een eigen woning werd aangemerkt geen eigenwoningreserve gevormd.
 
@@ -183,19 +183,19 @@ Ingeval een in [artikel 5, eerste lid, onderdeel b, van de Wet op de vennootscha
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2004, met dien verstande dat:
 
-- a. [artikel I, onderdelen D, L, U, V, W, Y, Z en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel V, onderdelen Y, Z, AA en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=V&z=2006-01-01&g=2006-01-01), toepassing vinden nadat [artikel 10.1 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2004 is toegepast;
+- a. [artikel I, onderdelen D, L, U, V, W, Y, Z en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2013-01-01&g=2013-01-01), en [artikel V, onderdelen Y, Z, AA en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=V&z=2013-01-01&g=2013-01-01), toepassing vinden nadat [artikel 10.1 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2004 is toegepast;
 
-- b. [artikel XI, onderdelen A, derde lid, en Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2006-01-01&g=2006-01-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XXIV&z=2006-01-01&g=2006-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2004;
+- b. [artikel XI, onderdelen A, derde lid, en Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2013-01-01&g=2013-01-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XXIV&z=2013-01-01&g=2013-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2004;
 
-- c. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2006-01-01&g=2006-01-01), met betrekking tot de achterwaartse verrekening van verliezen voor het eerst toepassing vindt op het verlies van het boekjaar dat aanvangt op of na 1 januari 2004;
+- c. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2013-01-01&g=2013-01-01), met betrekking tot de achterwaartse verrekening van verliezen voor het eerst toepassing vindt op het verlies van het boekjaar dat aanvangt op of na 1 januari 2004;
 
-- d. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2006-01-01&g=2006-01-01), met betrekking tot de voorwaartse verrekening van verliezen voor het eerst toepassing vindt op de verrekening met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van het boekjaar dat aanvangt op of na 1 januari 2004;
+- d. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2013-01-01&g=2013-01-01), met betrekking tot de voorwaartse verrekening van verliezen voor het eerst toepassing vindt op de verrekening met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van het boekjaar dat aanvangt op of na 1 januari 2004;
 
-- e. [artikel I, onderdeel Rb en Rc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2006-01-01&g=2006-01-01), terugwerkt tot en met 1 januari 2003.
+- e. [artikel I, onderdeel Rb en Rc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2013-01-01&g=2013-01-01), terugwerkt tot en met 1 januari 2003.
 
-2. In afwijking in zoverre van het eerste lid treedt [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XV&z=2006-01-01&g=2006-01-01), in werking op 1 januari 2005.
+2. In afwijking in zoverre van het eerste lid treedt [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XV&z=2013-01-01&g=2013-01-01), in werking op 1 januari 2005.
 
-3. In afwijking in zoverre van het eerste lid treedt [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XVI&z=2006-01-01&g=2006-01-01), in werking op 1 juli 2004.
+3. In afwijking in zoverre van het eerste lid treedt [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XVI&z=2013-01-01&g=2013-01-01), in werking op 1 juli 2004.
 
 ##### Artikel XXXII
 
@@ -206,5 +206,7 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2004 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, kennis en scholing, eigenwoningbezit, mobiliteit, vermindering van administratieve lasten, alsmede enkele overige maatregelen te treffen;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
