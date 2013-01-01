@@ -4,7 +4,7 @@ identifier: "BWBR0012698"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012698"
 soort: "wet"
@@ -44,9 +44,11 @@ Alzo Wij in overweging hebben genomen, dat het wenselijk is in verband met de in
 
 Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Artikelen 1, 2, 3, onderdelen A en B, punt 3 van onderdeel F, onderdeel N, punt 5 van onderdeel P, onderdeel Q, onderdeel T, 4, onderdeel A, 5, onderdeel C, punt 3 van onderdeel E, het artikel 19a genoemd in onderdeel G, punt 1b en punt 2 van onderdeel H, punt 2 van onderdeel I, onderdelen M en N, 6, onderdelen A en C werken terug tot en met 1 januari 2001. Artikel 3, het artikel 27b genoemd in onderdeel S en artikel 5, het artikel 19c genoemd in onderdeel G werken terug tot en met 1 januari 1998. Artikelen 3, de onderdelen C tot en met E, de punten 1 en 2 van onderdeel F, onderdelen G tot en met M, onderdeel O, de punten 1 tot en met 4 van onderdeel P, onderdeel R en de artikelen 27a en 27c genoemd in onderdeel S, 4, onderdeel B, 5, de onderdelen A en B, onderdeel D, de punten 1 en 2 van onderdeel E, onderdeel F, de artikelen 19b en 19d genoemd in onderdeel G, punt 1a van onderdeel H, punt 1 van onderdeel I, onderdelen J tot en met L en 6, onderdeel B werken terug tot en met 1 juli 1996.
+
 ##### Artikel 1
 
-1. In afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), heeft degene die op 31 december 2000 recht heeft op een Indonesisch pensioen, een Nieuw-Guinea pensioen, of een Surinaams garantiepensioen, waarop de [Toeslagwet Indonesische pensioenen 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002251), de [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414), de [Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea](https://wetten.overheid.nl/jci1.3:c:BWBR0002370), de [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507), de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003473) en de [Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298) van toepassing is, en wiens recht op 1 januari 2001 voortduurt, zolang hij de leeftijd van 65 jaar nog niet heeft bereikt, recht op een toeslag:
+1. In afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), heeft degene die op 31 december 2000 recht heeft op een Indonesisch pensioen, een Nieuw-Guinea pensioen, of een Surinaams garantiepensioen, waarop de [Toeslagwet Indonesische pensioenen 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002251), de [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414), de [Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea](https://wetten.overheid.nl/jci1.3:c:BWBR0002370), de [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507), de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003473) en de [Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298) van toepassing is, en wiens recht op 1 januari 2001 voortduurt, zolang hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, recht op een toeslag:
 
 - a. ter grootte van 5,6% van dat pensioen, of die uitkering, met een maximum van € 2066,97 per jaar, indien dat recht op dat pensioen, of die uitkering reeds voor 1 januari 1999 bestond;
 
@@ -82,16 +84,16 @@ Wijzigt deze wet, de Wet aanpassing pensioenvoorzieningen Bijstandkorps, de Same
 
 ##### Artikel 8
 
-Als het voorstel van de Aanpassingswet Euro inwerking treedt op een datum liggende voor de datum waarop deze wet inwerking treedt, komen de [onderdelen B en C van Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=2&z=2002-01-01&g=2002-01-01) te vervallen.
+Als het voorstel van de Aanpassingswet Euro inwerking treedt op een datum liggende voor de datum waarop deze wet inwerking treedt, komen de [onderdelen B en C van Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=2&z=2013-01-01&g=2013-01-01) te vervallen.
 
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug:
 
-- a. tot en met 1 januari 2001 voor wat betreft Artikel 1, Artikel 2, Artikel 3, onderdelen A en B, punt 3 van onderdeel F, onderdeel N, punt 5 van onderdeel P, onderdeel Q, onderdeel T, Artikel 4, onderdeel A, Artikel 5, onderdeel C, punt 3 van onderdeel E, het artikel 19a genoemd in onderdeel G, punt 1b en punt 2 van onderdeel H, punt 2 van onderdeel I, onderdelen M en N, [Artikel 6, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=6&z=2002-01-01&g=2002-01-01);
+- a. tot en met 1 januari 2001 voor wat betreft Artikel 1, Artikel 2, Artikel 3, onderdelen A en B, punt 3 van onderdeel F, onderdeel N, punt 5 van onderdeel P, onderdeel Q, onderdeel T, Artikel 4, onderdeel A, Artikel 5, onderdeel C, punt 3 van onderdeel E, het artikel 19a genoemd in onderdeel G, punt 1b en punt 2 van onderdeel H, punt 2 van onderdeel I, onderdelen M en N, [Artikel 6, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=6&z=2013-01-01&g=2013-01-01);
 
-- b. tot en met 1 januari 1998 voor wat betreft [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=3&z=2002-01-01&g=2002-01-01), het artikel 27b genoemd in onderdeel S en [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=5&z=2002-01-01&g=2002-01-01), het artikel 19c genoemd in onderdeel G;
+- b. tot en met 1 januari 1998 voor wat betreft [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=3&z=2013-01-01&g=2013-01-01), het artikel 27b genoemd in onderdeel S en [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=5&z=2013-01-01&g=2013-01-01), het artikel 19c genoemd in onderdeel G;
 
-- c. tot en met 1 juli 1996 voor wat betreft: Artikel 3, de onderdelen C tot en met E, de punten 1 en 2 van onderdeel F, onderdelen G tot en met M, onderdeel O, de punten 1 tot en met 4 van onderdeel P, onderdeel R en de artikelen 27a en 27c genoemd in onderdeel S, Artikel 4, onderdeel B, Artikel 5, de onderdelen A en B, onderdeel D, de punten 1 en 2 van onderdeel E, onderdeel F, de artikelen 19b en 19d genoemd in onderdeel G, punt 1a van onderdeel H, punt 1 van onderdeel I, onderdelen J tot en met L en [Artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=6&z=2002-01-01&g=2002-01-01).
+- c. tot en met 1 juli 1996 voor wat betreft: Artikel 3, de onderdelen C tot en met E, de punten 1 en 2 van onderdeel F, onderdelen G tot en met M, onderdeel O, de punten 1 tot en met 4 van onderdeel P, onderdeel R en de artikelen 27a en 27c genoemd in onderdeel S, Artikel 4, onderdeel B, Artikel 5, de onderdelen A en B, onderdeel D, de punten 1 en 2 van onderdeel E, onderdeel F, de artikelen 19b en 19d genoemd in onderdeel G, punt 1a van onderdeel H, punt 1 van onderdeel I, onderdelen J tot en met L en [Artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0012698&artikel=6&z=2013-01-01&g=2013-01-01).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
