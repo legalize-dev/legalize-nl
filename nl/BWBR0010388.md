@@ -4,7 +4,7 @@ identifier: "BWBR0010388"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010388"
 soort: "wet"
@@ -50,29 +50,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Deze wet en de daarop berustende bepalingen verstaan onder:
 
-- a. notaris: de ambtenaar, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=2&z=2012-01-01&g=2012-01-01);
+- a. notaris: de ambtenaar, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=2&z=2013-01-01&g=2013-01-01);
 
-- b. kandidaat-notaris: degene die voldoet aan een van de voorwaarden, genoemd in [artikel 6, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01) en onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden verricht, alsmede hij die geen notaris zijnde het notarisambt waarneemt;
+- b. toegevoegd notaris: de toegevoegd notaris, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30b&z=2013-01-01&g=2013-01-01);
 
-- c. minuut: het originele exemplaar van een notariële akte;
+- c. kandidaat-notaris: degene, niet zijnde toegevoegd notaris, die voldoet aan een van de voorwaarden, genoemd in [artikel 6, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01) en onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden verricht, alsmede hij die geen notaris zijnde het notarisambt waarneemt;
 
-- d. repertorium: het register, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7) en [13, onderdeel e, van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13);
+- d. minuut: het originele exemplaar van een notariële akte;
 
-- e. protocol: de minuten, notariële verklaringen, registers, afschriften, repertoria en kaartsystemen die onder de notaris berusten;
+- e. repertorium: het register, bedoeld in [artikel 7 van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7);
 
-- f. grosse: een in executoriale vorm uitgegeven afschrift of uittreksel van een notariële akte;
+- f. protocol: de minuten, notariële verklaringen, registers, afschriften, repertoria en kaartsystemen die onder de notaris berusten;
 
-- g. deeltijd: de werktijd die korter is dan de volledige werktijd die geldt voor de burgerlijke rijksambtenaren, werkzaam op de ministeries;
+- g. grosse: een in executoriale vorm uitgegeven afschrift of uittreksel van een notariële akte;
 
-- h. de KNB: de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=60&z=2012-01-01&g=2012-01-01);
+- h. deeltijd: de werktijd die korter is dan de volledige arbeidsduur als bedoeld in [artikel 2 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=2);
 
-- i. Onze Minister: Onze Minister van Justitie;
+- i. de KNB: de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=60&z=2013-01-01&g=2013-01-01);
 
-- j. verordening: een verordening als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=7&artikel=89&z=2012-01-01&g=2012-01-01);
+- j. Onze Minister: Onze Minister van Justitie;
 
-- k. het Bureau: het Bureau Financieel Toezicht, bedoeld in [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=110&z=2012-01-01&g=2012-01-01);
+- k. verordening: een verordening als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=7&artikel=89&z=2013-01-01&g=2013-01-01);
 
-- l. het fonds: de Stichting Notarieel Pensioenfonds, bedoeld in [artikel 113a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IXa&artikel=113a&z=2012-01-01&g=2012-01-01).
+- l. het Bureau: het Bureau Financieel Toezicht, bedoeld in [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=110&z=2013-01-01&g=2013-01-01);
+
+- m. het fonds: de Stichting Notarieel Pensioenfonds, bedoeld in [artikel 113a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IXa&artikel=113a&z=2013-01-01&g=2013-01-01).
 
 2. In deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -92,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De notaris wordt als zodanig bij koninklijk besluit benoemd. In het besluit wordt de plaats van vestiging aangegeven.
 
-2. De notaris legt binnen zes maanden na de dagtekening van zijn benoeming voor de rechtbank in het arrondissement, waarin zijn plaats van vestiging is gelegen, de navolgende eed af:
+2. De notaris legt binnen zes maanden na de dagtekening van zijn benoeming voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder hij ressorteert, de navolgende eed af:
 
 «Ik zweer getrouwheid aan de Koning en de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en eerbied voor de rechterlijke autoriteiten.
 
@@ -104,7 +106,7 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 4. De notaris is bevoegd met ingang van de dag na de eedsaflegging. Indien in het benoemingsbesluit een latere datum is vermeld, is hij bevoegd met ingang van die dag indien tevoren de eed is afgelegd. Is hij waarnemer van het kantoor, dan is hij terstond na de eedsaflegging bevoegd.
 
-5. De notaris laat zich terstond na de eedsaflegging bij de kamer van toezicht inschrijven in het register van notarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=5&z=2012-01-01&g=2012-01-01) onder overlegging van het proces-verbaal van de eedsaflegging.
+5. De notaris laat zich terstond na de eedsaflegging inschrijven in het register voor het notariaat, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=5&z=2013-01-01&g=2013-01-01), onder overlegging van het proces-verbaal van de eedsaflegging en onder deponering van zijn handtekening en paraaf.
 
 ##### Artikel 4
 
@@ -114,15 +116,39 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 ##### Artikel 5
 
-1. De kamer van toezicht houdt een register waarin de namen van de in het desbetreffende arrondissement gevestigde notarissen, met de datum en plaats van hun geboorte, worden opgenomen en waarin tevens aantekening wordt gehouden van de datum van de benoeming, de datum van de eedsaflegging, de ingangsdatum van de bevoegdheid, de plaats van vestiging, de datum van ontslag van rechtswege of op eigen verzoek dan wel de datum van overlijden.
+1. Er is een register voor het notariaat, dat wordt bijgehouden door de KNB.
 
-2. Ingeval van onherroepelijke oplegging van de maatregelen schorsing in de uitoefening van het ambt of ontzetting uit het ambt wordt daarvan in het register aantekening gehouden, met vermelding van de datum waarop de maatregel van kracht is geworden en eventueel is beëindigd.
+2. In het register wordt iedere notaris, toegevoegd notaris en kandidaat-notaris opgenomen, onder vermelding van naam en plaats en datum van geboorte. In het register worden ten aanzien van hen, voor zover van toepassing, tevens gegevens opgenomen betreffende:
 
-3. Ingeval van schorsing van rechtswege in de uitoefening van het ambt op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=26&z=2012-01-01&g=2012-01-01) wordt daarvan in het register aantekening gehouden, met vermelding van de duur van het faillissement, de schuldsaneringsregeling, de surséance van betaling, de gijzeling of de curatele.
+- a. de benoeming van de notaris, zijn ontslag of overlijden;
 
-4. Het register ligt bij de kamer van toezicht voor een ieder ter inzage. De kamer is verplicht daaruit op hun verzoek aan belanghebbenden een gewaarmerkt afschrift tegen de kostende prijs te verstrekken.
+- b. de plaats van vestiging van de notaris;
 
-5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de inrichting van het register en de wijze waarop het wordt bijgehouden.
+- c. het nummer als bedoeld in [artikel 2, tweede lid, van de Wet op het centraal testamentenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=2);
+
+- d. een aanwijzing tot overname van een protocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=15&z=2013-01-01&g=2013-01-01);
+
+- e. toevoeging als bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30b&z=2013-01-01&g=2013-01-01);
+
+- f. waarneming als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01);
+
+- g. de eedsaflegging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=3&z=2013-01-01&g=2013-01-01), met opname in het register van handtekening en paraaf;
+
+- h. een nevenbetrekking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=11&z=2013-01-01&g=2013-01-01);
+
+- i. de onherroepelijke oplegging van een tuchtmaatregel als bedoeld in [artikel 103, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01);
+
+- j. de bij onherroepelijke uitspraak gegrond verklaarde bedenking zonder oplegging van een tuchtmaatregel, bedoeld in [artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01);
+
+- k. de oplegging van een ordemaatregel als bedoeld in de [artikelen 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25b&z=2013-01-01&g=2013-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=26&z=2013-01-01&g=2013-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2013-01-01&g=2013-01-01) en [106, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=106&z=2013-01-01&g=2013-01-01);
+
+- l. de onherroepelijke oplegging van een bestuurlijke boete of een last onder dwangsom als bedoeld in [artikel 111b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=111b&z=2013-01-01&g=2013-01-01).
+
+3. Het register ligt voor een ieder ter inzage. De KNB verstrekt op verzoek een gewaarmerkt afschrift of uittreksel tegen kostprijs.
+
+4. De registratie van de oplegging van de ordemaatregel, bedoeld in [artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25b&z=2013-01-01&g=2013-01-01), van een bij onherroepelijke uitspraak gegrond verklaarde bedenking zonder oplegging van een maatregel als bedoeld in [artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01), of van de onherroepelijke oplegging van een bestuurlijke boete of last onder dwangsom als bedoeld in [artikel 111b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=111b&z=2013-01-01&g=2013-01-01), is niet openbaar. De registratie van de oplegging van de ordemaatregelen, bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=26&z=2013-01-01&g=2013-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2013-01-01&g=2013-01-01) en [106, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=106&z=2013-01-01&g=2013-01-01), is openbaar zolang deze maatregelen van kracht zijn. De registratie van de onherroepelijke oplegging van een waarschuwing of berisping als bedoeld in artikel 103, eerste lid, is niet openbaar, tenzij toepassing is gegeven aan artikel 103, vijfde lid. Ditzelfde geldt voor de onherroepelijke oplegging van een geldboete als bedoeld in artikel 103, eerste lid, onderdeel c, tenzij deze gelijktijdig is opgelegd met een tuchtmaatregel ten aanzien waarvan de openbaarheid niet is beperkt.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de toepassing van het tweede en derde lid, de inrichting van het register, de wijze waarop het wordt bijgehouden, de inzage in het register en het verstrekken van gegevens uit het register door de KNB.
 
 ##### Artikel 6
 
@@ -130,7 +156,7 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 2. Voor de benoembaarheid is vereist:
 
-- a. dat dan wel in het bezit is van een ten aanzien van het beroep van kandidaat-notaris afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- a. dat dan wel in het bezit is van een ten aanzien van het beroep van kandidaat-notaris afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5);
 
 - 1°. hem op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs aan een universiteit dan wel de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht zijn verleend, of
 
@@ -138,13 +164,13 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 - b. dat hij:
 
-- 1°. een stage heeft doorlopen als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2012-01-01&g=2012-01-01);
+- 1°. een stage heeft doorlopen als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2013-01-01&g=2013-01-01);
 
-- 2°. met goed gevolg heeft afgelegd het examen, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=33&z=2012-01-01&g=2012-01-01);
+- 2°. met goed gevolg heeft afgelegd het examen, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=33&z=2013-01-01&g=2013-01-01);
 
-- 3°. als kandidaat-notaris gedurende een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan zijn verzoek om benoeming, in het Koninkrijk onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden heeft verricht of het notarisambt heeft waargenomen, dan wel als notaris gedurende die periode het notarisambt heeft vervuld, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijnen naar evenredigheid worden verlengd;
+- 3°. als toegevoegd notaris of kandidaat-notaris gedurende een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan zijn verzoek om benoeming, in het Koninkrijk in Europa onder verantwoordelijkheid van een notaris of een waarnemer werkzaam is geweest of het notarisambt heeft waargenomen, dan wel als notaris gedurende die periode het notarisambt heeft vervuld, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijnen naar evenredigheid worden verlengd;
 
-- 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01), alsmede van het advies als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01), alsmede
+- 4°. dat hij in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2013-01-01&g=2013-01-01), alsmede van het advies als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2013-01-01&g=2013-01-01), alsmede
 
 - c. dat hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
@@ -154,7 +180,7 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 ##### Artikel 7
 
-1. Het ondernemingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), is zodanig opgesteld dat daaruit in ieder geval blijkt:
+1. Het ondernemingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), is zodanig opgesteld dat daaruit in ieder geval blijkt:
 
 - a. dat de verzoeker over voldoende financiële middelen beschikt om een kantoor te houden dat in overeenstemming is met de eisen van het ambt; en
 
@@ -174,47 +200,49 @@ Als de eed niet tijdig is afgelegd, vervalt de benoeming.
 
 ##### Artikel 8
 
-1. Degene die voor benoeming tot notaris in aanmerking wenst te komen dient bij Onze Minister een daartoe strekkend verzoek in, met opgave van de gemeente waarin hij voornemens is zich als notaris te vestigen. Bij het verzoek legt hij bewijsstukken over waaruit blijkt dat hij voldoet aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), daaronder begrepen het ondernemingsplan. In het verzoek doet hij tevens opgave van het kantoor of de kantoren waar hij als kandidaat-notaris werkzaam is geweest.
+1. Degene die voor benoeming tot notaris in aanmerking wenst te komen dient bij de KNB een daartoe strekkend verzoek in, met opgave van de gemeente waarin hij voornemens is zich als notaris te vestigen. Bij het verzoek legt hij bewijsstukken over waaruit blijkt dat hij voldoet aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01). De overlegging van bewijsstukken met betrekking tot de voorwaarden als bedoeld in artikel 6, tweede lid, onderdelen a en b, onder 1° en 2°, is niet vereist indien die reeds bij een eerder verzoek zijn overgelegd. In het verzoek doet hij tevens opgave van de werkgever of werkgevers bij wie hij als kandidaat-notaris of toegevoegd notaris in dienst is geweest. Bij indiening van het verzoek is voor de behandeling ervan door de verzoeker een vergoeding verschuldigd. De KNB geleidt het verzoek met de bewijsstukken door naar Onze Minister en doet afschriften toekomen aan de Commissie toegang notariaat en het Bureau.
 
-2. Onze Minister zendt een afschrift van het verzoek met de bijlagen aan het bestuur van de KNB en aan de kamers van toezicht in het arrondissement of de arrondissementen waar de verzoeker als kandidaat-notaris werkzaam is of werkzaam is geweest, met het verzoek hem uiterlijk binnen drie maanden in kennis te stellen van eventuele aan hen bekende feiten of omstandigheden, welke naar hun oordeel tot weigering van het verzoek zouden kunnen leiden.
+2. Onze Minister wint advies in omtrent de persoonlijke geschiktheid van de verzoeker voor het notarisambt bij de door hem benoemde Commissie toegang notariaat. Een beschikking tot weigering van de benoeming wordt gegeven door Onze Minister.
 
-3. Een benoeming kan uitsluitend worden geweigerd indien aan één of meer van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=9&z=2012-01-01&g=2012-01-01) genoemde voorwaarden niet is voldaan of wanneer, gelet op de antecedenten van de verzoeker, er een gegronde vrees bestaat dat hij in strijd zal handelen met de voor het notarisambt geldende regels, of uit anderen hoofde de eer en het aanzien van het notarisambt zal schaden. Een beschikking tot weigering van een benoeming wordt gegeven door Onze Minister.
+3. Ten behoeve van haar advies stelt de Commissie ten aanzien van de verzoeker een onderzoek in.
 
-4. Op het verzoek wordt beslist binnen vijf maanden na ontvangst ervan.
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de Commissie en haar werkzaamheden. Bij regeling van Onze Minister wordt de hoogte vastgesteld van de vergoeding, bedoeld in het eerste lid.
+
+5. Op het verzoek wordt beslist binnen vijf maanden na ontvangst ervan.
+
+6. De KNB en het Bureau kunnen met betrekking tot het verzoek advies uitbrengen aan Onze Minister.
 
 ##### Artikel 9
 
-Een notaris kan, onverminderd de onverenigbaarheden die voortvloeien uit andere wetten, niet tevens lid zijn van de rechterlijke macht, behoudens als raadsheer-plaatsvervanger, rechter-plaatsvervanger of kantonrechter-plaatsvervanger, noch kan hij gerechtsdeurwaarder, bewaarder van het kadaster en de openbare registers of advocaat zijn. Hetzelfde geldt voor een kandidaat-notaris.
+Een notaris kan, onverminderd de onverenigbaarheden die voortvloeien uit andere wetten, niet tevens lid zijn van de rechterlijke macht, behoudens als raadsheer-plaatsvervanger, rechter-plaatsvervanger of kantonrechter-plaatsvervanger, noch kan hij gerechtsdeurwaarder, bewaarder van het kadaster en de openbare registers of advocaat zijn. Hetzelfde geldt voor een toegevoegd notaris of een kandidaat-notaris.
 
 ##### Artikel 10
 
-1. De plaats van vestiging van een notaris kan door Onze Minister worden gewijzigd bij een beschikking waarbij tevens de datum van ingang wordt bepaald. De bevoegdheid van de notaris in de vorige plaats van vestiging vervalt van rechtswege met ingang van dezelfde datum, onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=13&z=2012-01-01&g=2012-01-01).
+1. De plaats van vestiging van een notaris kan door Onze Minister worden gewijzigd bij een beschikking waarbij tevens de datum van ingang wordt bepaald. De bevoegdheid van de notaris in de vorige plaats van vestiging vervalt van rechtswege met ingang van dezelfde datum, onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=13&z=2013-01-01&g=2013-01-01).
 
-2. De notaris die zich in een andere plaats wenst te vestigen, richt daartoe een verzoek tot Onze Minister. Hij doet daarbij opgave van de gemeente waar hij voornemens is zich te vestigen en geeft daarbij, in geval van vestiging buiten het arrondissement, aan of hij gebruik wil maken van de bevoegdheid, bedoeld in het zesde lid. Bij dit verzoek legt hij een ondernemingsplan over als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01), betrekking hebbend op de plaats waar hij voornemens is zich te vestigen, alsmede het advies als bedoeld in het tweede lid van dat artikel.
+2. De notaris die zich in een andere plaats wenst te vestigen, richt daartoe een verzoek tot Onze Minister. Hij doet daarbij opgave van de gemeente waar hij voornemens is zich te vestigen en geeft daarbij, in geval van vestiging buiten het arrondissement, aan of hij gebruik wil maken van de bevoegdheid, bedoeld in het zesde lid. Bij dit verzoek legt hij een ondernemingsplan over als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2013-01-01&g=2013-01-01), betrekking hebbend op de plaats waar hij voornemens is zich te vestigen, alsmede het advies als bedoeld in het tweede lid van dat artikel.
 
-3. Onze Minister zendt een afschrift van het verzoek met bijlagen aan het bestuur van de KNB en aan de kamer van toezicht in het arrondissement waar de verzoeker zich wenst te vestigen, met het verzoek hem uiterlijk binnen drie maanden in kennis te stellen van eventuele aan hen bekende feiten of omstandigheden welke naar hun oordeel tot weigering van het verzoek zouden kunnen leiden.
+3. Onze Minister zendt een afschrift van het verzoek met bijlagen aan het bestuur van de KNB en aan het Bureau, met het verzoek hem uiterlijk binnen drie maanden in kennis te stellen van eventuele aan hen bekende feiten of omstandigheden welke naar hun oordeel tot weigering van het verzoek zouden kunnen leiden.
 
-4. Het verzoek kan uitsluitend worden geweigerd indien het bij het verzoek overgelegde ondernemingsplan niet voldoet aan de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01).
+4. Het verzoek kan uitsluitend worden geweigerd indien het bij het verzoek overgelegde ondernemingsplan niet voldoet aan de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2013-01-01&g=2013-01-01).
 
 5. Op het verzoek wordt beslist binnen vijf maanden na ontvangst ervan.
 
 6. Indien de notaris zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen, is hij bevoegd zijn protocol over te brengen naar de nieuwe plaats van vestiging.
 
-7. Indien de notaris zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen, laat hij zich zo spoedig mogelijk met overlegging van de daartoe strekkende ministeriële beschikking, uit het register van notarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=5&z=2012-01-01&g=2012-01-01), schrappen en bij de kamer van toezicht in de nieuwe plaats van vestiging in dat register inschrijven. Indien een notaris zich binnen het arrondissement in een andere plaats vestigt, doet hij, met overlegging van de ministeriële beschikking, opgave daarvan aan de kamer van toezicht ter inschrijving in het register van notarissen.
-
 ##### Artikel 11
 
-1. De notaris doet opgave aan de kamer van toezicht van het aanvaarden van en het beëindigen van een al dan niet bezoldigde nevenbetrekking. De kamer houdt een register waarin van iedere notaris de nevenbetrekkingen zijn vermeld. De gegevens van notarissen die niet meer als zodanig binnen het arrondissement werkzaam zijn, blijven gedurende tien jaar in het register bewaard. Het register ligt voor een ieder kosteloos ter inzage. De kamer geeft aan een ieder op diens verzoek tegen de kostende prijs afschriften van of uittreksels uit hetgeen in het register ingeschreven is.
+1. De notaris doet opgave aan de KNB en aan de kamer voor het notariaat van het aanvaarden en beëindigen van een al dan niet bezoldigde nevenbetrekking.
 
-2. De kamer kan bij met redenen omklede beslissing de uitoefening door de notaris van een nevenbetrekking ongewenst verklaren, indien hierdoor zijn onpartijdigheid of onafhankelijkheid wordt of kan worden beïnvloed dan wel de eer of het aanzien van het ambt wordt of kan worden geschaad. Van die beslissing zendt de kamer onverwijld bij aangetekende brief een afschrift aan de notaris. Daarbij deelt zij tevens mee op welke wijze hij tegen de beslissing beroep kan instellen.
+2. De kamer kan bij met redenen omklede beslissing de uitoefening door de notaris van een nevenbetrekking ongewenst verklaren, indien hierdoor zijn onpartijdigheid of onafhankelijkheid wordt of kan worden beïnvloed dan wel de eer of het aanzien van het ambt wordt of kan worden geschaad. Van die beslissing zendt de kamer onverwijld bij aangetekende brief een afschrift aan de notaris, de KNB en het Bureau. Daarbij deelt zij tevens mee op welke wijze de notaris tegen de beslissing beroep kan instellen.
 
-3. Binnen zes weken na de dag van verzending van het afschrift van de beslissing kan de notaris tegen de beslissing beroep instellen bij het gerechtshof te Amsterdam. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.
+3. Binnen zes weken na de dag van verzending van het afschrift van de beslissing kan de notaris tegen de beslissing beroep instellen bij het gerechtshof Amsterdam. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.
 
 4. Indien de beslissing onherroepelijk is geworden of in beroep is bevestigd, is de notaris verplicht de nevenbetrekking zo spoedig mogelijk te beëindigen.
 
-5. De notaris is bevoegd om, voordat hij een nevenbetrekking aanvaardt, de kamer van toezicht te verzoeken een beslissing te nemen over de vraag of de uitoefening van deze nevenbetrekking toelaatbaar is. Het derde lid is van overeenkomstige toepassing. Op de behandeling van de zaak bij de kamer van toezicht en bij het gerechtshof zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2012-01-01&g=2012-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=102&z=2012-01-01&g=2012-01-01) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+5. De notaris is bevoegd om, voordat hij een nevenbetrekking aanvaardt, de kamer van toezicht te verzoeken een beslissing te nemen over de vraag of de uitoefening van deze nevenbetrekking toelaatbaar is. Het derde lid is van overeenkomstige toepassing. Op de behandeling van de zaak bij de kamer voor het notariaat en bij het gerechtshof zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2013-01-01&g=2013-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=102&z=2013-01-01&g=2013-01-01) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
-6. De bepalingen van de voorgaande leden zijn mede van toepassing op de kandidaat-notaris.
+6. Dit artikel is van overeenkomstige toepassing op de toegevoegd notaris en de kandidaat-notaris.
 
 ##### Artikel 12
 
@@ -234,13 +262,29 @@ Het is de notaris toegestaan buiten zijn plaats van vestiging ambtelijke werkzaa
 
 2. Aan de notaris die voor het bereiken van de in het eerste lid genoemde leeftijd ontslag verzoekt, wordt ontslag verleend bij koninklijk besluit, dat tevens de datum van ingang daarvan vermeldt.
 
-3. De notaris laat zich zo spoedig mogelijk nadat hem ontslag is verleend, onder overlegging van het desbetreffende koninklijk besluit, bij de kamer van toezicht uit het register van notarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=5&z=2012-01-01&g=2012-01-01), schrappen.
+3. Op voordracht van Onze Minister kan aan de notaris bij koninklijk besluit ontslag worden verleend, indien hij:
+
+- a. geen gevolg heeft gegeven aan de verplichting, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=11&z=2013-01-01&g=2013-01-01), om een ongewenst verklaarde nevenbetrekking te beëindigen;
+
+- b. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld dan wel aan hem bij een dergelijke rechterlijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft.
+
+4. Op voordracht van Onze Minister wordt aan de notaris bij koninklijk besluit ontslag verleend, indien hij:
+
+- a. het Nederlanderschap verliest;
+
+- b. een ambt of betrekking heeft aanvaard dat, onderscheidenlijk die, op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=9&z=2013-01-01&g=2013-01-01) onverenigbaar is met het notarisambt.
+
+5. De griffiers der gerechten doen aan Onze Minister, de kamer voor het notariaat, de KNB en het Bureau mededeling van rechterlijke beslissingen als bedoeld in het derde lid, onderdeel b.
+
+6. Dit artikel is van overeenkomstige toepassing op de toegevoegd notaris, met dien verstande dat zijn toevoeging door Onze Minister wordt ingetrokken dan wel kan worden ingetrokken.
+
+7. In geval van waarneming door de notaris of toegevoegd notaris is bij zijn ontslag, respectievelijk de intrekking van zijn toevoeging, tevens zijn benoeming als waarnemer van rechtswege ingetrokken.
 
 ##### Artikel 15
 
 1. Indien de notaris overlijdt, defungeert of zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen zonder medeneming van zijn protocol, wijst Onze Minister, gehoord de KNB, een notaris aan om het protocol en eventueel de overige notariële bescheiden over te nemen. Indien deze bescheiden moeten worden overgenomen door een nieuw benoemde notaris, kan de aanwijzing bij het koninklijk besluit van zijn benoeming plaatsvinden. Bij verordening worden nadere voorschriften gegeven over de wijze waarop de overdracht en de overname van het protocol en de overige notariële bescheiden dienen te geschieden.
 
-2. De aangewezen notaris treedt met ingang van de dag van zijn aanwijzing van rechtswege in de plaats van zijn ambtsvoorganger met betrekking tot de bijzondere rekeningen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01). Hij stelt de financiële onderneming, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01), terstond van zijn aanwijzing in kennis.
+2. De aangewezen notaris treedt met ingang van de dag van zijn aanwijzing van rechtswege in de plaats van zijn ambtsvoorganger met betrekking tot de bijzondere rekeningen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2013-01-01&g=2013-01-01). Hij stelt de financiële onderneming, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2013-01-01&g=2013-01-01), terstond van zijn aanwijzing in kennis.
 
 ## Titel III. De uitoefening van het notarisambt
 
@@ -262,7 +306,7 @@ Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in s
 
 2. Bij verordening worden ter waarborging van die onafhankelijkheid en onpartijdigheid regels vastgesteld over de wijze waarop samenwerkingsverbanden kunnen worden aangegaan.
 
-3. De notaris is verplicht om jaarlijks binnen de in [artikel 112, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=112&z=2012-01-01&g=2012-01-01), genoemde termijn, aan het Bureau een verklaring van een onafhankelijke externe deskundige over te leggen, waaruit blijkt dat hij heeft voldaan aan de voorschriften van de verordening, bedoeld in het tweede lid.
+3. De notaris is verplicht om jaarlijks binnen de in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2013-01-01&g=2013-01-01), genoemde termijn, aan het Bureau een verklaring van een onafhankelijke externe deskundige over te leggen, waaruit blijkt dat hij heeft voldaan aan de voorschriften van de verordening, bedoeld in het tweede lid.
 
 ##### Artikel 19
 
@@ -280,9 +324,9 @@ Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in s
 
 ##### Artikel 20
 
-1. De notaris mag geen akte verlijden die een begunstiging van één of meer van de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2012-01-01&g=2012-01-01), bedoelde personen inhoudt; de verboden begunstiging is nietig. Een benoeming tot executeur van een nalatenschap is geen verboden begunstiging.
+1. De notaris mag geen akte verlijden die een begunstiging van één of meer van de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2013-01-01&g=2013-01-01), bedoelde personen inhoudt; de verboden begunstiging is nietig. Een benoeming tot executeur van een nalatenschap is geen verboden begunstiging.
 
-2. [Artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+2. [Artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Met betrekking tot de begunstiging van getuigen bij akten die een uiterste wilsbeschikking bevatten, zijn de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=61) en [62, eerste lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=62) van toepassing.
 
@@ -320,15 +364,17 @@ Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in s
 
 ##### Artikel 24
 
-1. De notaris is verplicht van zijn kantoorvermogen en van alles betreffende zijn werkzaamheden, daaronder begrepen het beheer van gelden van derden al dan niet vallend onder [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01), naar de eisen die voortvloeien uit deze werkzaamheden, op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde op eenvoudige wijze zijn rechten en verplichtingen kunnen worden gekend.
+1. De notaris is verplicht van zijn kantoorvermogen en van alles betreffende zijn werkzaamheden, daaronder begrepen het beheer van gelden van derden al dan niet vallend onder [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2013-01-01&g=2013-01-01), naar de eisen die voortvloeien uit deze werkzaamheden, op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde op eenvoudige wijze zijn rechten en verplichtingen kunnen worden gekend.
 
 2. Het in het vorige lid bepaalde is van overeenkomstige toepassing op het privé-vermogen van de notaris, daaronder mede begrepen het vermogen van een gemeenschap van goederen waarin hij is gehuwd.
 
 3. Bij verordening kunnen voorschriften worden vastgesteld ten aanzien van de wijze waarop de kantoor- en privé-administratie moeten worden ingericht, bijgehouden en bewaard.
 
-4. De notaris moet jaarlijks zowel ten aanzien van zijn kantoorvermogen als van zijn privé-vermogen binnen vier maanden na afloop van het boekjaar een balans en een staat betreffende de inkomensopstelling opmaken en op papier stellen en, voor wat betreft de kantoorwerkzaamheden, een staat van baten en lasten. Deze termijn kan op verzoek van de notaris door het Bureau op grond van bijzondere omstandigheden worden verlengd met een termijn van ten hoogste twee maanden. Tegen een weigering van het verzoek kan verzoeker beroep instellen bij de kamer van toezicht.
+4. De notaris dient binnen vier maanden na afloop van elk boekjaar een verslag in bij het Bureau ten aanzien van zowel het kantoorvermogen als ten aanzien van zijn privé-vermogen. Voor wat betreft de kantoorwerkzaamheden bevat het verslag een winst- en verliesrekening. Het verslag gaat vergezeld van een verklaring danwel mededeling die is afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De termijn voor indiening van het verslag kan op verzoek van de notaris door het Bureau op grond van bijzondere omstandigheden worden verlengd met ten hoogste twee maanden. Op het verzoek wordt beslist binnen vier weken na ontvangst ervan.
 
-5. De notaris is verplicht de in de leden 1 en 2 bedoelde boeken, bescheiden en andere gegevensdragers betreffende zijn kantoor- en privé-administratie gedurende de in [artikel 10, derde lid, van Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) bedoelde termijn te bewaren. [Artikel 10, vierde lid, Boek 2 Burgerlijk Wetboek is van toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10).
+5. Bij regeling van Onze Minister worden regels gesteld betreffende de inhoud van het verslag en van de verklaring respectievelijk mededeling, bedoeld in het vierde lid.
+
+6. De notaris is verplicht de in de leden 1 en 2 bedoelde boeken, bescheiden en andere gegevensdragers betreffende zijn kantoor- en privé-administratie gedurende de in [artikel 10, derde lid, van Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) bedoelde termijn te bewaren. [Artikel 10, vierde lid, Boek 2 Burgerlijk Wetboek is van toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10).
 
 ##### Artikel 25
 
@@ -346,7 +392,7 @@ Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in s
 
 7. Bij verordening kunnen nadere regels worden gesteld betreffende de bijzondere rekening en het beheer van de gelden, bedoeld in het eerste lid. Onze Minister kan regels vaststellen met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden.
 
-8. De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2012-01-01&g=2012-01-01), aan de inspecteur of de ontvanger, bedoeld in [artikel 2 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [artikel 2 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) dan wel [artikel 1:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), indien deze dit, daartoe gemachtigd door Onze Minister van Financiën, verzoekt uit hoofde van de uitoefening van een bevoegdheid op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) onderscheidenlijk de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746):
+8. De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01), aan de inspecteur of de ontvanger, bedoeld in [artikel 2 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [artikel 2 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) dan wel [artikel 1:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), indien deze dit, daartoe gemachtigd door Onze Minister van Financiën, verzoekt uit hoofde van de uitoefening van een bevoegdheid op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) onderscheidenlijk de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746):
 
 - a. de namen, adressen en woonplaatsen van de personen die betrokken zijn bij betalingen naar of vanaf de bijzondere rekening in verband met een in het verzoek specifiek aangeduide transactie of handeling waaraan de notaris zijn medewerking heeft verleend, alsmede de omvang van die betalingen en de nummers van de bankrekeningen waarvan door die personen gebruik is gemaakt;
 
@@ -354,23 +400,41 @@ Het verrichten van wettelijke werkzaamheden en werkzaamheden die de notaris in s
 
 Bij het verstrekken van de hiervoor genoemde gegevens wordt hun onderling verband door de notaris aangeduid.
 
-9. De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2012-01-01&g=2012-01-01), aan de opsporingsambtenaar, de officier van justitie of de rechter-commissaris, de gegevens met betrekking tot de bijzondere rekening die deze vordert uit hoofde van de uitoefening van een bevoegdheid op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+9. De notaris verstrekt, in uitzondering op zijn geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01), aan de opsporingsambtenaar, de officier van justitie of de rechter-commissaris, de gegevens met betrekking tot de bijzondere rekening die deze vordert uit hoofde van de uitoefening van een bevoegdheid op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 10. Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.
 
 ##### Artikel 26
 
-Notarissen ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, die in staat van faillissement worden verklaard, surséance van betaling hebben verkregen, wegens schulden worden gegijzeld of die onder curatele worden gesteld, zijn gedurende de toepassing van de schuldsaneringsregeling natuurlijke personen, voor de duur van het faillissement, de surséance van betaling, de gijzeling of de curatele van rechtswege in de uitoefening van hun ambt geschorst. [Artikel 103, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2012-01-01&g=2012-01-01), is van toepassing.
+1. Een notaris wordt door de voorzitter van de kamer voor het notariaat geschorst in de uitoefening van zijn ambt indien hij:
+
+- a. zich in voorlopige hechtenis bevindt;
+
+- b. tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf is ingesteld;
+
+- c. bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld dan wel aan hem bij een dergelijke rechterlijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- d. bij rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft gekregen, dan wel wegens schulden is gegijzeld, voor de duur van die maatregel.
+
+2. [Artikel 27, eerste lid, tweede tot en met vijfde volzin, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+
+3. De griffiers der gerechten doen aan de kamer voor het notariaat, de KNB en het Bureau mededeling van rechterlijke beslissingen als bedoeld in het eerste lid.
+
+4. In een geval als bedoeld in het eerste lid, onderdeel b, eindigt de schorsing na drie maanden. De kamer voor het notariaat kan de schorsing telkens voor ten hoogste drie maanden verlengen.
+
+5. In geval van waarneming door de notaris wordt hij tevens voor de duur van zijn schorsing geschorst als waarnemer in de uitoefening van het ambt, onverminderd de bevoegdheid van de kamer voor het notariaat tot intrekking van de benoeming tot waarnemer, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=29&z=2013-01-01&g=2013-01-01).
+
+6. Dit artikel is van overeenkomstige toepassing op de toegevoegd notaris, met dien verstande dat zijn toevoeging door de voorzitter van de kamer voor het notariaat wordt opgeschort.
 
 ##### Artikel 27
 
-1. Een notaris, die wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden kan, na verhoor of behoorlijke oproeping, door de voorzitter van de kamer van toezicht voor onbepaalde tijd in de uitoefening van zijn ambt worden geschorst. De kamer van toezicht bekrachtigt deze maatregel binnen vier weken. Op verzoek van de notaris kan de kamer van toezicht de schorsing te allen tijde opheffen. [Artikel 103, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2012-01-01&g=2012-01-01), is van toepassing.
+1. Een notaris, die wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden kan, na verhoor of behoorlijke oproeping, door de voorzitter van de kamer voor het notariaat voor onbepaalde tijd in de uitoefening van zijn ambt worden geschorst. De kamer voor het notariaat bekrachtigt deze maatregel binnen vier weken. Op verzoek van de notaris kan de kamer voor het notariaat de schorsing te allen tijde opheffen. Op de beslissingen van de voorzitter en de kamer voor het notariaat is [artikel 104, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing. [Artikel 103, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01), is van toepassing.
 
-2. De notaris kan binnen zes weken na de dag van verzending van het afschrift van de beslissing tot schorsing of tot weigering van de opheffing van de schorsing daartegen in beroep komen bij het gerechtshof te Amsterdam. Het beroep schorst de tenuitvoerlegging van de maatregel niet. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.
+2. De notaris kan binnen zes weken na de dag van verzending van het afschrift van de beslissing tot schorsing of tot weigering van de opheffing van de schorsing daartegen in beroep komen bij het gerechtshof Amsterdam. Het beroep schorst de tenuitvoerlegging van de maatregel niet. Tegen de beslissing van het gerechtshof is geen hogere voorziening toegelaten.
 
-3. Op de behandeling van de zaak bij de kamer van toezicht en bij het gerechtshof zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2012-01-01&g=2012-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=102&z=2012-01-01&g=2012-01-01), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2012-01-01&g=2012-01-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=105&z=2012-01-01&g=2012-01-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=107&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+3. Op de behandeling van de zaak bij de kamer voor het notariaat en bij het gerechtshof zijn de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2013-01-01&g=2013-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=102&z=2013-01-01&g=2013-01-01), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2013-01-01&g=2013-01-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=105&z=2013-01-01&g=2013-01-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=107&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
-4. In geval van blijvende ongeschiktheid van de notaris voor de uitoefening van het ambt wordt hij, op voordracht van Onze Minister, de kamer van toezicht gehoord, bij koninklijk besluit ontslagen.
+4. In geval van blijvende ongeschiktheid van de notaris voor de uitoefening van het ambt wordt hij, op voordracht van Onze Minister, de kamer voor het notariaat gehoord, bij koninklijk besluit ontslagen.
 
 ##### Artikel 28
 
@@ -390,21 +454,21 @@ In de waarneming van het notarisambt wordt voorzien:
 
 ##### Artikel 29
 
-1. Een kandidaat-notaris is slechts tot waarnemer benoembaar indien hij gedurende een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan het verzoek om benoeming of de ambtshalve benoeming onder verantwoordelijkheid van een notaris of een waarnemer notariële werkzaamheden heeft verricht of het notarisambt heeft waargenomen, dan wel als notaris gedurende die periode het notarisambt heeft vervuld, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijnen naar evenredigheid worden verlengd. Tevens dient hij te voldoen aan de vereisten gesteld in [artikel 6, eerste lid en tweede lid, onderdelen a, b, onder 1° en 2°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), met dien verstande dat in plaats van onderdeel b, onder 1°, geldt een stage van drie jaren, die, in geval van werkzaamheid in deeltijd naar evenredigheid wordt verlengd. In afwijking van het vorenstaande kan in de gevallen van [artikel 28, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) een kandidaat-notaris slechts tot waarnemer worden benoemd indien hij een stage heeft doorlopen als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2012-01-01&g=2012-01-01). Degene die reeds op grond van het tweede lid als waarnemer is benoemd behoeft in geval van benoeming als waarnemer voor een andere notaris in hetzelfde arrondissement niet opnieuw te voldoen aan het vereiste van [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01). Het notarisambt kan slechts worden waargenomen door degene die de zeventigjarige leeftijd nog niet heeft bereikt.
+1. Tot waarnemer is benoembaar een notaris of een toegevoegd notaris. Een kandidaat-notaris is tot waarnemer benoembaar indien hij voldoet aan het vereisten van [artikel 6, eerste en tweede lid, onderdelen b, onder 1° en 2°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), en een al dan niet aaneengesloten periode van twee jaren binnen het tijdsbestek van drie jaren voorafgaande aan de benoeming tot waarnemer onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of als notaris het notarisambt heeft vervuld. In afwijking van het vorenstaande kan een kandidaat-notaris tot waarnemer worden benoemd in de gevallen van [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), indien hij ten minste drie jaar heeft afgerond van de stage, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2013-01-01&g=2013-01-01), en een al dan niet aaneengesloten periode van een jaar binnen het tijdsbestek van drie jaren voorafgaande aan de benoeming tot waarnemer onder verantwoordelijkheid van een notaris of van een waarnemer werkzaam is geweest of als notaris het notarisambt heeft vervuld. In geval van werkzaamheid in deeltijd, worden voorgenoemde termijnen naar evenredigheid verlengd. De kandidaat-notaris die reeds op grond van het tweede lid als waarnemer is benoemd, behoeft in geval van benoeming als waarnemer voor een andere notaris niet opnieuw te voldoen aan het vereiste van artikel 6, tweede lid, onderdeel c. Het notarisambt kan slechts worden waargenomen door degene die de zeventigjarige leeftijd nog niet heeft bereikt.
 
-2. Op verzoek van een notaris benoemt de voorzitter van de kamer van toezicht een of meer notarissen, of kandidaat-notarissen die aan de voorwaarden van het eerste lid voldoen, en die zich daartoe bereid hebben verklaard, als vaste waarnemer teneinde de notaris in de in [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), bedoelde gevallen te vervangen. Telkens wanneer zich een geval als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) voordoet benoemt de voorzitter van de kamer van toezicht ambtshalve één of meer waarnemers, tenzij het een geval als bedoeld in [artikel 28, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), betreft en een vaste waarnemer is benoemd. In het geval van ambtshalve benoeming tot waarnemer treft hij zo nodig een regeling omtrent het honorarium. Van elke benoeming van een waarnemer en van elke intrekking van een benoeming wordt onmiddellijk kennis gegeven aan de betrokkenen. Tegen een beslissing van de voorzitter van de kamer van toezicht kan binnen dertig dagen na de dag van verzending van de brief waarbij die beslissing aan betrokkenen wordt meegedeeld beroep worden ingesteld bij het gerechtshof te Amsterdam. [Artikel 107, eerste tot en met derde lid, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=107&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+2. Op verzoek van een notaris benoemt de voorzitter van de kamer voor het notariaat een of meer notarissen, toegevoegd notarissen of kandidaat-notarissen die zich daartoe bereid hebben verklaard, tot vaste waarnemer teneinde de notaris in de in [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), bedoelde gevallen te vervangen. Telkens wanneer zich een geval als bedoeld in artikel 28 voordoet benoemt de voorzitter ambtshalve één of meer waarnemers, tenzij het een geval als bedoeld in artikel 28, onderdelen a of b, betreft en er een vaste waarnemer is. Alvorens tot benoeming van een waarnemer over te gaan wint de voorzitter advies in bij de KNB. In het geval van ambtshalve benoeming tot waarnemer treft hij zo nodig een regeling omtrent het honorarium.
 
-3. De periode van waarneming kan niet langer zijn dan één jaar in geval van een volledige waarneming. Bij waarneming in deeltijd dient de notaris zijn ambt uit te oefenen gedurende minimaal het aantal uren per week dat bij algemene maatregel van bestuur wordt vastgesteld. De kamer van toezicht kan van het bovenstaande in bijzondere gevallen ontheffing verlenen.
+3. De kamer voor het notariaat kan een benoeming tot waarnemer te allen tijde intrekken. Van elke benoeming van een waarnemer en van elke intrekking van een benoeming wordt onmiddellijk kennis gegeven aan de betrokkenen, de KNB en het Bureau. Tegen een beslissing tot benoeming of tot intrekking van een benoeming kan binnen dertig dagen na de dag van verzending van de brief waarbij die beslissing aan betrokkenen wordt meegedeeld beroep worden ingesteld bij het gerechtshof Amsterdam. [Artikel 107, tweede tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=107&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-4. In geval van een ambtshalve benoeming van een notaris of kandidaat-notaris als waarnemer kan de betrokkene slechts wegens gegronde redenen zijn benoeming weigeren.
+4. De periode van waarneming kan niet langer zijn dan één jaar in geval van een volledige waarneming. Bij waarneming in deeltijd dient de notaris zijn ambt uit te oefenen gedurende minimaal het aantal uren per week dat bij algemene maatregel van bestuur wordt vastgesteld. De kamer voor het notariaat kan van het bovenstaande in bijzondere gevallen ontheffing verlenen.
 
-5. De ambtshalve benoemde waarnemer, die een notaris in de in [artikel 28, onderdelen c, d, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), bedoelde gevallen vervangt, kan in geval van afwezigheid, verhindering of ziekte worden vervangen door een andere waarnemer, die voldoet aan de in het eerste lid, tweede volzin, gestelde eisen. Het tweede lid, eerste volzin, is van overeenkomstige toepassing.
+5. In geval van een ambtshalve benoeming van als waarnemer kan de betrokkene slechts wegens gegronde redenen zijn benoeming weigeren.
 
-6. Zolang de waarnemer bevoegd is, is de notaris onbevoegd met betrekking tot zijn eigen protocol het notarisambt uit te oefenen.
+6. De ambtshalve benoemde waarnemer, die een notaris in de in [artikel 28, onderdelen c, d, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), bedoelde gevallen vervangt, kan in geval van afwezigheid, verhindering of ziekte worden vervangen door een andere waarnemer, die voldoet aan de in het eerste lid, tweede volzin, gestelde eisen. Het tweede lid, eerste volzin, is van overeenkomstige toepassing.
 
-7. De notaris meldt aan de kamer van toezicht en de financiële onderneming, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01), terstond de waarneming van zijn functie op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) door een waarnemer als bedoeld in het tweede lid, eerste volzin. In geval van een ambtshalve benoeming tot waarnemer stelt de waarnemer terstond de financiële onderneming in kennis van zijn benoeming en van de intrekking van zijn benoeming.
+7. Zolang de waarnemer bevoegd is, is de notaris onbevoegd met betrekking tot zijn eigen protocol het notarisambt uit te oefenen.
 
-8. De kamer van toezicht houdt een register waarin de namen van bevoegde waarnemers worden opgenomen en waarin tevens aantekening wordt gehouden van het begin en het einde van de waarnemingstermijn, de naam van de bevoegde waarnemer, de grond van de waarneming als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) en, indien van toepassing, op welke dagen of dagdelen de waarnemer bevoegd is. Het register ligt bij de kamer van toezicht voor een ieder ter inzage. De kamer is verplicht daaruit op hun verzoek aan belanghebbenden een gewaarmerkt afschrift tegen de kostende prijs te verstrekken.
+8. De notaris meldt aan de KNB en de financiële onderneming, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2013-01-01&g=2013-01-01), terstond de waarneming van zijn functie op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01) door een waarnemer als bedoeld in het tweede lid, eerste volzin. In geval van een ambtshalve benoeming tot waarnemer stelt de waarnemer terstond de financiële onderneming in kennis van zijn benoeming en van de intrekking van zijn benoeming.
 
 9. De notaris en elke niet-ambtshalve benoemde waarnemer zijn ieder voor de door de laatste als zodanig verrichte werkzaamheden of gepleegde verzuimen jegens derden voor het geheel aansprakelijk.
 
@@ -414,7 +478,7 @@ In de waarneming van het notarisambt wordt voorzien:
 
 ##### Artikel 30
 
-1. De kandidaat-notaris die voor de eerste maal tot waarnemer wordt benoemd, legt in verband met de aanvaarding van zijn benoeming voor de rechtbank in het arrondissement waarin de vervangen notaris zijn plaats van vestiging heeft, de eed af. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=3&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+1. De kandidaat-notaris die voor de eerste maal tot waarnemer wordt benoemd, legt in verband met de aanvaarding van zijn benoeming voor de rechtbank in het arrondissement waarin de vervangen notaris zijn plaats van vestiging heeft, de eed af. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=3&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 2. De kandidaat-notaris deponeert terstond na de eedsaflegging zijn handtekening en paraaf ter griffie van de rechtbank waarbij hij de eed heeft afgelegd. Wordt een kandidaat-notaris of notaris benoemd als waarnemer voor een notaris in een ander arrondissement, dan deponeert hij binnen een week na die benoeming tevens zijn handtekening en paraaf ter griffie van de rechtbank binnen wier arrondissement de plaats van vestiging van de vervangen notaris is gelegen.
 
@@ -422,9 +486,13 @@ In de waarneming van het notarisambt wordt voorzien:
 
 ##### Artikel 31
 
-1. Een kandidaat-notaris moet, alvorens tot notaris te kunnen worden benoemd, gedurende een stage van ten minste zes jaren werkzaam zijn geweest op één of meer notariskantoren in Nederland. In geval van werkzaamheid in deeltijd wordt die periode naar evenredigheid verlengd. De stage vangt aan op de dag van de kennisgeving, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=32&z=2012-01-01&g=2012-01-01).
+1. Een kandidaat-notaris moet, alvorens tot notaris te kunnen worden benoemd, gedurende een stage van ten minste zes jaren werkzaam zijn geweest op één of meer notariskantoren in Nederland. In geval van werkzaamheid in deeltijd van minder dan een gemiddelde van 28 uur per week wordt de vereiste duur van de stage naar evenredigheid verlengd, met dien verstande dat bij een gemiddelde van ten minste 21 uur per week de verlengde duur maximaal acht jaren bedraagt. De stage vangt aan op de dag van de kennisgeving, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=32&z=2013-01-01&g=2013-01-01).
 
 2. Bij verordening wordt bepaald aan welke verplichtingen de notaris en de kandidaat-notaris gedurende de stage moeten voldoen.
+
+3. Op verzoek van een kandidaat-notaris kan de KNB besluiten tot verkorting van de in het eerste lid bedoelde termijn indien bepaalde werkzaamheden van de verzoeker, anders dan bedoeld in het eerste lid, relevant zijn voor de voorbereiding op het notarisambt.
+
+4. Bij verordening worden nadere regels gesteld betreffende de behandeling van het verzoek, bedoeld in het derde lid, en de waardering van de werkzaamheden.
 
 ##### Artikel 32
 
@@ -436,7 +504,7 @@ In de waarneming van het notarisambt wordt voorzien:
 
 - c. meer of minder uren per week op een notariskantoor werkzaam is, geeft hiervan binnen een week nadat hij met de uitoefening van die werkzaamheden is begonnen of nadat zijn arbeidsduur is gewijzigd, kennis aan de KNB.
 
-Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een EG-verklaring over, als bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01).
+Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend. Indien de kandidaat-notaris werkzaam is voor of deel uitmaakt van een maatschap van notarissen of van notarissen en kandidaat-notarissen kan zulks geschieden door één van die notarissen. Indien het de eerste maal is dat hij als kandidaat-notaris werkzaam is, legt hij daarbij tevens het getuigschrift van het door hem afgelegd examen dan wel een erkenning van beroepskwalificaties over als bedoeld in [artikel 5 van de Algemene wet erkenning beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5).
 
 2. De kennisgeving houdt in:
 
@@ -448,13 +516,9 @@ Deze kennisgeving wordt door de desbetreffende notaris voor «gezien» getekend.
 
 3. De KNB zendt de kandidaat-notaris een bewijs van ontvangst van de kennisgeving. Zij zendt tevens het door haar voor «gezien» getekende getuigschrift, indien dit aan haar is overgelegd, aan de kandidaat-notaris terug.
 
-4. De KNB doet terstond na ontvangst van de kennisgeving als bedoeld in het eerste lid, mededeling aan de kamer van toezicht in het arrondissement waarbinnen de notaris zijn plaats van vestiging heeft.
+4. Binnen een week nadat de kandidaat-notaris zijn werkzaamheden op het notariskantoor heeft beëindigd, geeft de notaris hiervan schriftelijk kennis aan de KNB.
 
-5. Binnen een week nadat de kandidaat-notaris zijn werkzaamheden op het notariskantoor heeft beëindigd, geeft de notaris hiervan schriftelijk kennis aan de KNB. De KNB doet na ontvangst van deze kennisgeving terstond mededeling aan de kamer van toezicht in het arrondissement waarbinnen de notaris zijn plaats van vestiging heeft.
-
-6. Op verzoek geeft de KNB aan de kandidaat-notaris een verklaring af ter bevestiging dat hij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2012-01-01&g=2012-01-01) bedoelde stage heeft doorlopen.
-
-7. Tegen een weigering tot afgifte van een verklaring als bedoeld in het zesde lid, kan een belanghebbende beroep instellen bij de kamer van toezicht.
+5. Op verzoek geeft de KNB aan de kandidaat-notaris een verklaring af ter bevestiging dat hij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2013-01-01&g=2013-01-01) bedoelde stage heeft doorlopen.
 
 ##### Artikel 33
 
@@ -504,9 +568,7 @@ De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur v
 
 3. In een akte van volmacht waarin uitdrukkelijk is vermeld dat zij aan de volmachtgever zal worden uitgegeven mogen de persoonlijke gegevens van de gevolmachtigde oningevuld worden gelaten. Hiervoor mogen niet meer dan vier regels worden opengelaten.
 
-4. In het geval dat een akte aan de volmachtgever is uitgegeven, wordt aan het vereiste van [artikel 3 van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3) voldaan door de aanbieding ter registratie van een afschrift van de akte.
-
-5. De notaris is verplicht binnen een maand na afloop van het kalenderjaar aan het bestuur van de KNB opgave te doen van het aantal in dat jaar gepasseerde akten.
+4. De notaris is verplicht binnen een maand na afloop van het kalenderjaar aan het bestuur van de KNB opgave te doen van het aantal in dat jaar gepasseerde akten.
 
 ##### Artikel 39
 
@@ -526,7 +588,7 @@ De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur v
 
 ##### Artikel 40
 
-1. De akte vermeldt in ieder geval de naam, de voornamen en de plaats van vestiging van de notaris voor wie de akte wordt verleden en, in geval van waarneming, behalve de vorengenoemde gegevens van de waarnemer, met uitzondering van de plaats van vestiging, ook die van de notaris tot wiens protocol de akte behoort.
+1. De akte vermeldt in ieder geval de naam, voornamen en de plaats van vestiging van de notaris voor wie de akte wordt verleden. Indien de akte wordt verleden voor een toegevoegd notaris of een waarnemer, worden diens naam en voornamen vermeld, alsmede de voorgenoemde gegevens van de notaris tot wiens protocol de akte behoort.
 
 2. De akte vermeldt bovendien:
 
@@ -540,7 +602,7 @@ De commissie van toezicht brengt elk jaar aan Onze Minister en aan het bestuur v
 
 - e. de plaats, het jaar, de maand en de dag, waarop de akte is verleden;
 
-- f. in geval van toepassing van [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=42&z=2012-01-01&g=2012-01-01), naam, voornamen, geboortedatum en -plaats en woonplaats van de tolk-vertaler.
+- f. in geval van toepassing van [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=42&z=2013-01-01&g=2013-01-01), naam, voornamen, geboortedatum en -plaats en woonplaats van de tolk-vertaler.
 
 Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de redenen daarvan vermeld.
 
@@ -580,9 +642,9 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 2. Van akten die in tegenwoordigheid van getuigen worden verleden, leest de notaris steeds de volledige tekst voor. Hij voldoet dan eveneens in het bijzijn van getuigen aan de in de tweede en derde zin van het eerste lid genoemde informatieplicht.
 
-3. De beschreven bladzijden van de akte worden doorlopend genummerd. Voor zover op een blad niet de ondertekening voorkomt als bedoeld in het vierde lid of de bladen niet reeds met toepassing van [artikel 45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=45&z=2012-01-01&g=2012-01-01), van een paraaf zijn voorzien, worden zij door de notaris van een paraaf voorzien.
+3. De beschreven bladzijden van de akte worden doorlopend genummerd. Voor zover op een blad niet de ondertekening voorkomt als bedoeld in het vierde lid of de bladen niet reeds met toepassing van [artikel 45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=45&z=2013-01-01&g=2013-01-01), van een paraaf zijn voorzien, worden zij door de notaris van een paraaf voorzien.
 
-4. De akte wordt door ieder der verschijnende personen onmiddellijk na voorlezing ondertekend. Onmiddellijk daarna ondertekent de notaris de akte. Indien een persoon verklaart niet te kunnen ondertekenen zal van deze verklaring, alsmede de reden van verhindering, melding worden gemaakt. Een akte die in tegenwoordigheid van getuigen wordt verleden, wordt door de getuigen en de notaris onmiddellijk na voorlezing ondertekend. Betreft het een akte als bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=40&z=2012-01-01&g=2012-01-01), dan neemt de notaris, voordat hij tot ondertekening overgaat, het uur en de minuut van die ondertekening in de akte op.
+4. De akte wordt door ieder der verschijnende personen onmiddellijk na voorlezing ondertekend. Onmiddellijk daarna ondertekent de notaris de akte. Indien een persoon verklaart niet te kunnen ondertekenen zal van deze verklaring, alsmede de reden van verhindering, melding worden gemaakt. Een akte die in tegenwoordigheid van getuigen wordt verleden, wordt door de getuigen en de notaris onmiddellijk na voorlezing ondertekend. Betreft het een akte als bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=40&z=2013-01-01&g=2013-01-01), dan neemt de notaris, voordat hij tot ondertekening overgaat, het uur en de minuut van die ondertekening in de akte op.
 
 5. Van de mededeling van de zakelijke inhoud en de toelichting daarop overeenkomstig het eerste lid van dit artikel, van de beperkte of volledige voorlezing overeenkomstig het eerste of het tweede lid, alsmede van de ondertekening overeenkomstig het vierde lid wordt in het slot van de akte melding gemaakt.
 
@@ -622,7 +684,7 @@ Na de dood van de erflater moet de notaris een onderhandse uiterste wil die hem 
 
 1. Wanneer aan de notaris een akte in de zin van [artikel 156, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=156) wordt aangeboden, met verzoek deze in zijn protocol op te nemen, is hij verplicht van de inhoud daarvan kennis te nemen en van de aanbieding en opname een akte te verlijden en het stuk aan die akte te hechten, onverminderd het bepaalde in [artikel 95 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=95).
 
-2. Onverminderd het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=21&z=2012-01-01&g=2012-01-01), kan de notaris zijn dienst weigeren indien de verzoeker niet aannemelijk kan maken dat hij bij opneming van het aangeboden stuk in het protocol een redelijk belang heeft.
+2. Onverminderd het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=21&z=2013-01-01&g=2013-01-01), kan de notaris zijn dienst weigeren indien de verzoeker niet aannemelijk kan maken dat hij bij opneming van het aangeboden stuk in het protocol een redelijk belang heeft.
 
 ##### Artikel 49
 
@@ -682,17 +744,17 @@ Het uittreksel moet woordelijk gelijkluidend zijn met de overgenomen gedeelten v
 
 1. Bij algemene maatregel van bestuur worden voor het verrichten van ambtelijke werkzaamheden tarieven dan wel regels vastgesteld ter bepaling van het honorarium dat de notaris de cliënt in rekening brengt, voor zover zulks kennelijk noodzakelijk is om de continuïteit van een toegankelijke notariële dienstverlening te waarborgen.
 
-2. Het eerste lid kan zonodig onmiddellijk nadat de in [artikel 127, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=127&z=2012-01-01&g=2012-01-01), bedoelde overgangsregeling is geëindigd, worden toegepast.
+2. Het eerste lid kan zonodig onmiddellijk nadat de in [artikel 127, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=127&z=2013-01-01&g=2013-01-01), bedoelde overgangsregeling is geëindigd, worden toegepast.
 
 ##### Artikel 55
 
 1. De notaris is verplicht om op verzoek van de cliënt een rekening van zijn honorarium voor ambtelijke werkzaamheden en de overige aan de zaak verbonden kosten op te maken, waaruit duidelijk blijkt op welke wijze het in rekening gebrachte bedrag is berekend.
 
-2. Indien over de in het eerste lid bedoelde rekening geschil ontstaat, kan de meest gerede partij bij met redenen omkleed schriftelijk verzoek aan de voorzitter van het bestuur van de ring, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=82&z=2012-01-01&g=2012-01-01), in het arrondissement waar de notaris gevestigd is, een beslissing vragen. Indien de voorzitter of andere leden van het bestuur van de ring bij het geschil betrokken zijn, wijst de voorzitter van de KNB op verzoek van één van de partijen een voorzitter van het bestuur van een andere ring aan om een beslissing te nemen. De voorzitter kan de partijen oproepen voor overleg en nadere inlichtingen en overlegging van stukken verlangen die voor zijn beslissing van belang kunnen zijn.
+2. Bij verordening worden regels gesteld betreffende de inrichting van een algemene klachten- en geschillenregeling voor het notariaat, waaronder de instelling van een geschillencommissie.
 
 ##### Artikel 56
 
-1. De voorzitter van de kamer van toezicht kan op verzoek van een belanghebbende wiens financiële draagkracht de in [artikel 34 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) genoemde bedragen niet overschrijdt, een in het desbetreffende arrondissement gevestigde notaris opdragen de in het tweede lid genoemde ambtelijke werkzaamheden te verrichten tegen een bedrag waarvan de maximumhoogte het bedrag is van de eigen bijdrage, genoemd in [artikel 35, derde lid, onder d, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35).
+1. De voorzitter van de kamer voor het notariaat kan op verzoek van een belanghebbende wiens financiële draagkracht de in [artikel 34 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) genoemde bedragen niet overschrijdt, een in het desbetreffende ressort gevestigde notaris opdragen de in het tweede lid genoemde ambtelijke werkzaamheden te verrichten tegen een bedrag waarvan de maximumhoogte het bedrag is van de ingevolge de algemene maatregel van bestuur, bedoeld in [artikel 35, tweede lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35), hoogst mogelijke eigen bijdrage.
 
 2. Het eerste lid is van toepassing op werkzaamheden met betrekking tot:
 
@@ -724,7 +786,7 @@ Het uittreksel moet woordelijk gelijkluidend zijn met de overgenomen gedeelten v
 
 ##### Artikel 58
 
-1. Een notaris die het protocol van zijn voorganger heeft overgenomen, brengt binnen drie maanden daarna de minuten, afschriften, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=38&z=2012-01-01&g=2012-01-01), registers en repertoria en zo mogelijk de kaartsystemen, die op de eerste dag van de maand januari van het jaar van overneming ouder waren dan dertig jaar, over naar de algemene bewaarplaats.
+1. Een notaris die het protocol van zijn voorganger heeft overgenomen, brengt binnen drie maanden daarna de minuten, afschriften, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=38&z=2013-01-01&g=2013-01-01), registers en repertoria en zo mogelijk de kaartsystemen, die op de eerste dag van de maand januari van het jaar van overneming ouder waren dan dertig jaar, over naar de algemene bewaarplaats.
 
 2. De notaris is bevoegd om het gedeelte van de onder hem berustende protocollen dat ouder is dan twintig jaar over te brengen naar de algemene bewaarplaats.
 
@@ -742,7 +804,7 @@ Het uittreksel moet woordelijk gelijkluidend zijn met de overgenomen gedeelten v
 
 ##### Artikel 60
 
-De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin van [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134). Alle in Nederland gevestigde notarissen en de kandidaat-notarissen zijn leden van de KNB. De KNB is gevestigd te 's-Gravenhage.
+De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin van [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134). Alle in Nederland gevestigde notarissen en werkzame toegevoegd notarissen en kandidaat-notarissen zijn leden van de KNB. De KNB is gevestigd te 's-Gravenhage.
 
 ##### Artikel 61
 
@@ -774,7 +836,7 @@ De KNB houdt een bureau in stand, dat het bestuur bijstaat in de uitoefening van
 
 ##### Artikel 65
 
-1. Het bestuur bestaat uit een oneven aantal van ten minste zeven leden. De samenstelling van het bestuur geschiedt zoveel mogelijk op grondslag van gelijkheid in aantal van zijn leden-notarissen en zijn leden-kandidaat-notarissen.
+1. Het bestuur bestaat uit een oneven aantal van ten minste vijf leden. De samenstelling van het bestuur geschiedt zoveel mogelijk op grondslag van gelijkheid in aantal van de leden die notaris zijn en de leden die toegevoegd notaris of kandidaat-notaris zijn.
 
 2. De leden worden benoemd voor een termijn van drie jaren en kunnen na aftreden terstond voor eenzelfde termijn eenmaal worden herbenoemd.
 
@@ -788,7 +850,7 @@ De voorzitter van het bestuur van de KNB is in die hoedanigheid belast met de le
 
 ##### Artikel 67
 
-1. De ledenraad bestaat uit de voorzitters van de ringbesturen, alsmede een lid uit elke ring, met dien verstande dat voor elke ring één notaris en één kandidaat-notaris in de ledenraad zitting hebben. Ieder lid heeft een plaatsvervanger. De plaatsvervangers van de voorzitters zijn de plaatsvervangend voorzitters van de ringbesturen.
+1. De ledenraad bestaat uit de voorzitters van de ringbesturen, alsmede een lid uit elke ring, met dien verstande dat voor elke ring één notaris en één toegevoegd notaris of kandidaat-notaris in de ledenraad zitting hebben. Ieder lid heeft een plaatsvervanger. De plaatsvervangers van de voorzitters zijn de plaatsvervangend voorzitters van de ringbesturen.
 
 2. De leden en hun plaatsvervangers worden door de desbetreffende ringvergadering gekozen voor een termijn van drie jaren en zij zijn slechts eenmaal voor eenzelfde termijn herkiesbaar.
 
@@ -808,9 +870,9 @@ De ledenraad overlegt met het bestuur over de voorstellen van verordeningen van 
 
 ##### Artikel 71
 
-1. De ledenraad benoemt het bestuur van de KNB en kan, met inachtneming van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=2&artikel=65&z=2012-01-01&g=2012-01-01), het aantal der leden daarvan bepalen. De ledenraad benoemt de voorzitter en zijn plaatsvervanger uit de leden van het bestuur voor een termijn van twee jaren.
+1. De ledenraad benoemt het bestuur van de KNB en kan, met inachtneming van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=2&artikel=65&z=2013-01-01&g=2013-01-01), het aantal der leden daarvan bepalen. De ledenraad benoemt de voorzitter en zijn plaatsvervanger uit de leden van het bestuur voor een termijn van twee jaren.
 
-2. Het lidmaatschap van het bestuur is niet verenigbaar met het lidmaatschap en het plaatsvervangend lidmaatschap van de ledenraad, het bestuur van een ring en een kamer van toezicht.
+2. Het lidmaatschap van het bestuur is niet verenigbaar met het lidmaatschap en het plaatsvervangend lidmaatschap van de ledenraad, het bestuur van een ring en een kamer voor het notariaat.
 
 3. De ledenraad kan nadere regels vaststellen betreffende de benoeming en het aftreden van de leden van het bestuur.
 
@@ -828,7 +890,7 @@ De leden van de ledenraad kunnen door de ringvergadering die hen heeft benoemd w
 
 ##### Artikel 75
 
-Het bestuur van de KNB roept de ledenraad tenminste een maal per jaar bijeen om te beraadslagen over de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=73&z=2012-01-01&g=2012-01-01) bedoelde stukken. Andere vergaderingen worden bijeen geroepen zo dikwijls als het bestuur zulks nodig acht en voorts indien ten minste zes leden van de raad het bestuur schriftelijk daarom verzoeken, met opgave van de te behandelen onderwerpen.
+Het bestuur van de KNB roept de ledenraad tenminste een maal per jaar bijeen om te beraadslagen over de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=73&z=2013-01-01&g=2013-01-01) bedoelde stukken. Andere vergaderingen worden bijeen geroepen zo dikwijls als het bestuur zulks nodig acht en voorts indien ten minste zes leden van de raad het bestuur schriftelijk daarom verzoeken, met opgave van de te behandelen onderwerpen.
 
 ##### Artikel 76
 
@@ -850,7 +912,7 @@ De vergadering van de algemene ledenvergadering is openbaar. Er wordt met geslot
 
 ##### Artikel 80
 
-De algemene ledenvergadering beraadslaagt en beslist zonodig over het verslag van de werkzaamheden van het bestuur van de KNB, alsmede over de financiële verantwoording, het verslag van de accountant, bedoeld in [artikel 88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=6&artikel=88&z=2012-01-01&g=2012-01-01), de ontwerp-begroting voor het komende jaar en de daarbij behorende toelichtingen alsmede de over deze stukken door de ledenraad uitgebrachte adviezen.
+De algemene ledenvergadering beraadslaagt en beslist zonodig over het verslag van de werkzaamheden van het bestuur van de KNB, alsmede over de financiële verantwoording, het verslag van de accountant, bedoeld in [artikel 88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=6&artikel=88&z=2013-01-01&g=2013-01-01), de ontwerp-begroting voor het komende jaar en de daarbij behorende toelichtingen alsmede de over deze stukken door de ledenraad uitgebrachte adviezen.
 
 ##### Artikel 81
 
@@ -860,9 +922,9 @@ Op voorstel van het bestuur van de KNB stelt de algemene ledenvergadering nadere
 
 ##### Artikel 82
 
-1. Leden van elke ring zijn de in dat arrondissement gevestigde en werkzame notarissen en kandidaat-notarissen. De ring is gevestigd in de hoofdplaats van het arrondissement. De ring wordt aangeduid met vermelding van de hoofdplaats van het arrondissement of de naam van de provincie.
+1. Leden van elke ring zijn de in dat arrondissement gevestigde en werkzame notarissen, toegevoegd notarissen en kandidaat-notarissen. De ring is gevestigd in een bij algemene maatregel van bestuur vast te stellen plaats binnen het arrondissement. De ring wordt aangeduid met vermelding van het arrondissement.
 
-2. De ringen kunnen door het bestuur van de KNB worden belast met de uitvoering van de in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=61&z=2012-01-01&g=2012-01-01), omschreven taken in het arrondissement.
+2. De ringen kunnen door het bestuur van de KNB worden belast met de uitvoering van de in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=61&z=2013-01-01&g=2013-01-01), omschreven taken in het arrondissement.
 
 3. De ring heeft een bestuur en een ringvergadering. De ring is een rechtspersoon.
 
@@ -872,7 +934,7 @@ Het bestuur van de ring is belast met de leiding van de ring alsmede met het beh
 
 ##### Artikel 84
 
-1. Het bestuur van de ring bestaat uit een oneven aantal van ten minste drie leden van de ring. De samenstelling van het bestuur geschiedt zoveel mogelijk op grondslag van gelijkheid in aantal van zijn leden-notarissen en zijn leden kandidaat-notarissen.
+1. Het bestuur van de ring bestaat uit een oneven aantal van ten minste drie leden van de ring. De samenstelling van het bestuur geschiedt zoveel mogelijk op grondslag van gelijkheid in aantal van de leden die notaris zijn en de leden die toegevoegd notaris of kandidaat-notaris zijn.
 
 2. De leden en hun eventuele plaatsvervangers worden benoemd voor een termijn van drie jaren en kunnen na aftreden terstond voor eenzelfde termijn eenmaal worden herbenoemd.
 
@@ -880,7 +942,7 @@ Het bestuur van de ring is belast met de leiding van de ring alsmede met het beh
 
 ##### Artikel 85
 
-De ringvergadering benoemt het bestuur van de ring en kan, met inachtneming van [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=84&z=2012-01-01&g=2012-01-01), het aantal der leden daarvan bepalen. De ringvergadering benoemt telkens voor ten hoogste drie jaren een voorzitter en een plaatsvervangend voorzitter uit de leden van het bestuur van de ring.
+De ringvergadering benoemt het bestuur van de ring en kan, met inachtneming van [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=84&z=2013-01-01&g=2013-01-01), het aantal der leden daarvan bepalen. De ringvergadering benoemt telkens voor ten hoogste drie jaren een voorzitter en een plaatsvervangend voorzitter uit de leden van het bestuur van de ring.
 
 ##### Artikel 86
 
@@ -910,7 +972,7 @@ De KNB draagt alle kosten die uit de uitvoering van de haar door deze wet opgedr
 
 2. Verordeningen bevatten geen verplichtingen of voorschriften die niet strikt noodzakelijk zijn voor verwezenlijking van het doel dat met de verordening wordt beoogd en beperken niet onnodig de marktwerking.
 
-3. Voorstellen van verordeningen worden aan de ledenraad gedaan door het bestuur of door ten minste vijf leden van de ledenraad. Alvorens een ontwerp-verordening bij de ledenraad in te dienen kan het bestuur de kamers van toezicht uitnodigen hun oordeel kenbaar te maken. Over het ontwerp van de verordening, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01), wint het bestuur van de KNB het advies in van het Bureau.
+3. Voorstellen van verordeningen worden aan de ledenraad gedaan door het bestuur of door ten minste vijf leden van de ledenraad. Alvorens een ontwerp-verordening bij de ledenraad in te dienen kan het bestuur de kamers voor het notariaat uitnodigen hun oordeel kenbaar te maken. Over een ontwerp voor een verordening wint de KNB het advies in van het Bureau.
 
 4. De verordeningen van de KNB zijn slechts verbindend voor haar leden en haar organen.
 
@@ -928,125 +990,115 @@ Het voorstel van een verordening, wordt met een toelichting ten minste twee maan
 
 ##### Artikel 92
 
-Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, niet zijnde een verordening die op grond van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=7&artikel=91&z=2012-01-01&g=2012-01-01) rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd [artikel 10:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:39) kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekendgemaakt.
+Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, niet zijnde een verordening die op grond van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=7&artikel=91&z=2013-01-01&g=2013-01-01) rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd [artikel 10:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:39) kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekendgemaakt.
 
 ## Titel IX. Het toezicht over de notarissen en kandidaat-notarissen en de tuchtrechtspraak, alsmede het financiële toezicht
 
-### Afdeling 1. Het toezicht en de tuchtrechtspraak
+### Afdeling 5. De ringen
 
 ##### Artikel 93
 
-1. Het toezicht over de notarissen en kandidaat-notarissen, alsmede de tuchtrechtspraak, worden uitgeoefend door de kamers van toezicht. De kamers zijn belast met de uitvoering van de haar in deze wet opgedragen taken, alsmede met de behandeling van klachten welke bij haar over notarissen of kandidaat-notarissen zijn ingediend.
+1. Notarissen, toegevoegd notarissen en kandidaat-notarissen zijn aan tuchtrechtspraak onderworpen ter zake van handelen of nalaten in strijd met hetzij enige bij of krachtens deze wet gegeven bepaling, hetzij met de zorg die zij als notaris, toegevoegd notaris of kandidaat-notaris behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en ter zake van handelen of nalaten dat een behoorlijk notaris, toegevoegd notaris of kandidaat-notaris niet betaamt.
 
-2. In de hoofdplaats van ieder arrondissement is een kamer van toezicht gevestigd, wier rechtsgebied samenvalt met dat van de rechtbank.
-
-3. De aan de werkzaamheden van de kamers verbonden kosten komen ten laste van de staat.
+2. Notarissen, toegevoegd notarissen en kandidaat-notarissen die niet meer als zodanig werkzaam zijn blijven aan de tuchtrechtspraak onderworpen ter zake van enig in het eerste lid bedoeld handelen of nalaten gedurende de tijd dat zij als zodanig werkzaam waren.
 
 ##### Artikel 94
 
-1. Elke kamer van toezicht bestaat uit een voorzitter en vier leden. Er zijn ten minste twee plaatsvervangend voorzitters.
+1. De tuchtrechtspraak over de notarissen, toegevoegd notarissen en kandidaat-notarissen wordt in eerste aanleg uitgeoefend door de kamers voor het notariaat en in hoger beroep door het gerechtshof Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten.
 
-2. De president van de rechtbank van het arrondissement waar de kamer van toezicht is gevestigd, is voorzitter van deze kamer. De plaatsvervangende voorzitters worden door de voorzitter aangewezen uit de leden van de rechtbank.
+2. Ten behoeve van de uitoefening van de tuchtrechtspraak door de kamers voor het notariaat en het gerechtshof Amsterdam zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de kamers en het gerechtshof niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01).
 
-3. Twee leden worden voor de tijd van vier jaren benoemd door Onze Minister, die tevens voor elk hunner een of meer plaatsvervangers aanwijst. Een van die leden wordt benoemd uit de kantonrechters van de rechtbank die is gelegen binnen het rechtsgebied van de desbetreffende kamer van toezicht. Het andere lid is de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2). Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kan hen door Onze Minister tussentijds ontslag worden verleend.
+3. In ieder ressort is een kamer voor het notariaat gevestigd, waarvan het rechtsgebied samenvalt met het ressort. De kamers zijn belast met de uitvoering van de hun in deze wet opgedragen taken. De aan de werkzaamheden van de kamers verbonden kosten komen ten laste van de Staat.
 
-4. De overige twee leden moeten notaris of kandidaat-notaris zijn. Deze leden worden voor de tijd van vier jaren door de ringvergadering in het arrondissement van de desbetreffende kamer van toezicht, op voordracht van het ringbestuur, uit de leden van de ring benoemd. Zij zijn bij hun aftreden eenmaal herbenoembaar. Op eigen verzoek kan hun tussentijds door de ringvergadering ontslag worden verleend. De ringvergadering wijst tevens uit de leden van de ring twee of meer plaatsvervangers aan die beide leden kunnen vervangen. Bij verordening worden regels gesteld omtrent de wijze van benoeming van deze leden en hun plaatsvervangers.
+4. Elke kamer van toezicht bestaat uit een voorzitter en vier leden. Er zijn ten minste twee plaatsvervangend voorzitters.
 
-5. De kamer van toezicht heeft een secretaris en zo nodig een plaatsvervangend secretaris. Zij worden door de voorzitter van de kamer aangewezen uit de gerechtssecretarissen van de rechtbank.
+5. De president van de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd, is voorzitter van deze kamer. De plaatsvervangende voorzitters worden door de voorzitter aangewezen uit de leden van de rechtbank.
 
-6. Tussen de voorzitter, plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van een kamer van toezicht mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het notarisambt.
+6. Twee leden worden voor de tijd van vier jaren benoemd door Onze Minister, die tevens voor elk hunner een of meer plaatsvervangers aanwijst. Een van die leden wordt benoemd uit de leden van de rechtbanken die zijn gelegen binnen het rechtsgebied van de desbetreffende kamer voor het notariaat. Het andere lid is de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2). Zij zijn bij hun aftreden herbenoembaar. Op eigen verzoek kan hen door Onze Minister tussentijds ontslag worden verleend.
 
-7. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de inrichting van de kamers en betreffende de uitoefening van haar werkzaamheden, alsmede de reis- en verblijfkosten van de leden.
+7. De overige twee leden zijn notaris, toegevoegd notaris of kandidaat-notaris. Deze leden worden voor de tijd van vier jaren door de ledenraad van de KNB, op voordracht van de ringbesturen in het ressort van de desbetreffende kamer voor het notariaat, uit de leden van die ringen benoemd. Zij zijn bij hun aftreden eenmaal herbenoembaar. Op eigen verzoek kan hun tussentijds door de ledenraad ontslag worden verleend. De ledenraad wijst tevens uit de leden van de ringen twee of meer plaatsvervangers aan die beide leden kunnen vervangen. Bij verordening worden regels gesteld omtrent de wijze van voordracht en benoeming van deze leden en hun plaatsvervangers.
+
+8. De kamer van toezicht heeft een secretaris en zo nodig een plaatsvervangend secretaris. Zij worden door de voorzitter van de kamer aangewezen uit de gerechtssecretarissen van de rechtbank.
+
+9. Tussen de voorzitter, plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van een kamer van toezicht mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot de derde graad ingesloten, een maatschap of ander duurzaam samenwerkingsverband tot het uitoefenen van het notarisambt.
+
+10. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de vestigingsplaats en de inrichting van de kamers en betreffende de uitoefening van haar werkzaamheden, alsmede de de vergoeding van de reis- en verblijfkosten van de leden en andere vergoedingen.
 
 ##### Artikel 95
 
-1. Het lidmaatschap van de leden van de kamer van toezicht vervalt van rechtswege indien zij de kwaliteit verliezen waarin zij benoemd zijn, met dien verstande dat ten aanzien van een lid als bedoeld in [artikel 94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=94&z=2012-01-01&g=2012-01-01), dit kwaliteitsverlies alleen dan intreedt wanneer hij noch kandidaat-notaris noch notaris is.
+1. Het lidmaatschap van de leden van de kamer voor het notariaat vervalt van rechtswege indien zij de kwaliteit verliezen waarin zij benoemd zijn, met dien verstande dat ten aanzien van een lid als bedoeld in [artikel 94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=94&z=2013-01-01&g=2013-01-01), dit kwaliteitsverlies alleen dan intreedt wanneer hij noch kandidaat-notaris, noch toegevoegd notaris, noch notaris is.
 
-2. Het in de artikelen [46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechtelijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p)“rechtelijke” moet zijn “rechterlijke”bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.
+2. Het in de artikelen [46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechtelijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.
 
 3. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13b), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13c) zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden, met dien verstande dat:
 
-- a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de kamer van toezicht; en
+- a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de kamer voor het notariaat; en
 
 - b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.
 
 ##### Artikel 96
 
-1. Het toezicht over de notarissen en kandidaat-notarissen omvat het toezicht op de naleving van de bepalingen van deze wet, van de op grond daarvan uitgevaardigde algemene maatregelen van bestuur en ministeriële regelingen, alsmede van de verordeningen en andere besluiten van de KNB, in het bijzonder die betreffende de goede uitoefening en de eer en het aanzien van het notarisambt. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is niet van toepassing.
-
-2. De voorzitter van de kamer van toezicht kan in verband met de uitoefening van het in het eerste lid omschreven toezicht een onderzoek gelasten. Hij is daartoe verplicht indien het bestuur van de KNB of het bestuur van het Bureau daarom verzoekt. De voorzitter draagt de uitvoering van het onderzoek op aan een plaatsvervangend voorzitter.
-
-3. De voorzitter of de met het onderzoek belaste plaatsvervangend voorzitter kan te allen tijde een notaris of kandidaat-notaris om inlichtingen vragen, alsmede inzage van stukken verlangen of hem uitnodigen tot het geven van een verklaring van zijn gedrag of handelwijze, indien hij zulks voor de uitoefening van het toezicht dan wel in het belang van een voorgenomen onderzoek wenselijk acht.
-
-4. De voorzitter of de met het onderzoek belaste plaatsvervangend voorzitter kan, indien hij zulks in het belang van het onderzoek wenselijk acht, van de notaris verlangen dat hij inzage geeft van zijn kantoor- en privé-administratie, de daaraan ten grondslag liggende bescheiden, de balansen en de staat van baten en lasten, alsmede van zijn protocol en archief en de overige op deze onderwerpen betrekking hebbende stukken. Hij kan voorts een afschrift daarvan verlangen.
-
-5. De voorzitter of de met het onderzoek belaste plaatsvervangend voorzitter kan, indien hij zulks in het belang van het onderzoek wenselijk acht, het Bureau opdragen een onderzoek in te stellen en hem van zijn bevindingen verslag uit te brengen.
-
-6. Indien de voorzitter op grond van het onderzoek daartoe aanleiding ziet, legt hij de zaak voor aan de kamer van toezicht teneinde haar te behandelen overeenkomstig de volgende bepalingen.
-
-7. Een plaatsvervangend voorzitter die een onderzoek in een zaak heeft uitgevoerd, neemt geen deel aan de behandeling van die zaak door de kamer van toezicht.
-
-8. [Artikel 98, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=98&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 97
 
-De ambtenaren van de rijksbelastingdienst zijn verplicht om van hetgeen hun bij de uitvoering van hun taak betreffende de persoon of de zaken van een notaris of kandidaat-notaris blijkt of meegedeeld wordt, terstond mededeling te doen aan de voorzitter van de kamer van toezicht waaronder de desbetreffende notaris of kandidaat-notaris ressorteert, indien het betreft een handelen of nalaten, dat, gelet op [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=98&z=2012-01-01&g=2012-01-01), tot een tuchtrechtelijke maatregel aanleiding kan geven.
+Vervallen
 
 ##### Artikel 98
 
-1. Notarissen en kandidaat-notarissen zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of nalaten in strijd met hetzij enige bij of krachtens deze wet gegeven bepaling of een op deze wet berustende verordening, hetzij met de zorg die zij als notarissen of kandidaat-notarissen behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en ter zake van enig handelen of nalaten dat een behoorlijk notaris of kandidaat-notaris niet betaamt.
-
-2. Deze tuchtrechtspraak wordt in eerste aanleg uitgeoefend door de kamers van toezicht en in hoger beroep door het gerechtshof te Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten.
-
-3. Indien met betrekking tot de leden of plaatsvervangende leden van de kamers van toezicht die notaris of kandidaat-notaris zijn een klacht is ingediend, verzoekt de voorzitter de president van het gerechtshof te Amsterdam een andere kamer van toezicht aan te wijzen teneinde zich met de behandeling daarvan te belasten. De president van het gerechtshof te Amsterdam deelt de beslissing mee aan de aangewezen kamer van toezicht, aan de desbetreffende notaris of kandidaat-notaris, aan de voorzitter van de kamer van toezicht die het verzoek tot aanwijzing heeft gedaan en, indien een klacht is ingediend, aan de klager.
-
-4. Notarissen en kandidaat-notarissen die niet meer als zodanig werkzaam zijn blijven aan de tuchtrechtspraak onderworpen ter zake van enig in het eerste lid bedoeld handelen of nalaten gedurende de tijd dat zij als zodanig werkzaam waren.
+Vervallen
 
 ##### Artikel 99
 
-1. Klachten tegen notarissen en kandidaat-notarissen worden schriftelijk en met redenen omkleed ingediend bij de kamer van toezicht, waaronder de notaris of kandidaat-notaris ressorteert. Indien de klager daarom verzoekt, is de secretaris van de kamer van toezicht hem behulpzaam bij het op schrift stellen van de klacht.
+1. Klachten tegen notarissen, toegevoegd notarissen en kandidaat-notarissen kunnen, schriftelijk en met redenen omkleed, door een ieder met enig redelijk belang worden ingediend bij de kamer voor het notariaat waaronder de notaris, toegevoegd notaris of kandidaat-notaris ressorteert. Indien de klager daarom verzoekt, is de secretaris van de kamer hem behulpzaam bij het op schrift stellen van de klacht. Van de klacht wordt een afschrift gezonden aan de KNB en het Bureau.
 
-2. De voorzitter kan na een summier onderzoek, zo nodig na de klager en de betrokken notaris of kandidaat-notaris te hebben gehoord, de klacht terstond bij met redenen omklede beslissing afwijzen indien hij van oordeel is dat deze kennelijk niet ontvankelijk, dan wel kennelijk ongegrond is, of van onvoldoende gewicht.
+2. Indien een klacht is ingediend met betrekking tot de leden of plaatsvervangende leden van de kamer voor het notariaat die notaris, toegevoegd notaris of kandidaat-notaris zijn, verzoekt de voorzitter van de kamer de president van het gerechtshof Amsterdam om een andere kamer aan te wijzen teneinde zich met de behandeling daarvan te belasten. De president deelt de beslissing mee aan de aangewezen kamer, aan de desbetreffende notaris, toegevoegd notaris of kandidaat-notaris, aan de voorzitter van de kamer die het verzoek tot aanwijzing heeft gedaan en aan de klager.
 
-3. Indien de voorzitter van oordeel is dat een klacht vatbaar is voor minnelijke schikking, roept hij de klager en de betrokken notaris of kandidaat-notaris op teneinde een zodanige schikking te beproeven. Indien een minnelijke schikking mogelijk blijkt, wordt deze op schrift gesteld en door de klager, de notaris of de kandidaat-notaris tegen wie de klacht is ingediend en de voorzitter ondertekend.
+3. Een klacht is niet ontvankelijk voorzover deze betrekking heeft op een gedraging waarvoor een boete is opgelegd als bedoeld in [artikel 111b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=111b&z=2013-01-01&g=2013-01-01).
 
-4. Hij brengt klachten, die niet in der minne worden opgelost of door hem worden afgewezen, ter kennis van de kamer.
+4. Indien de klacht zich naar het oordeel van de voorzitter daartoe leent en uit de klacht blijkt dat de klacht nog niet is voorgelegd aan de geschillencommissie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VI&artikel=55&z=2013-01-01&g=2013-01-01), kan de voorzitter besluiten de klacht ter behandeling neer te leggen bij de geschillencommissie en hij stelt dan de op de zaak betrekking hebbende stukken in handen van de commissie. De beslissing schorst de in het vijftiende lid bedoelde termijn. Tegen de beslissing is geen voorziening toegelaten.
 
-5. Van de beslissing van de voorzitter zendt de secretaris onverwijld een afschrift aan de klager en de betrokken notaris of kandidaat-notaris, in geval van afwijzing van een klacht aan de klager bij aangetekende brief.
+5. De voorzitter kan na een summier onderzoek, zo nodig na de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris te hebben gehoord, de klacht terstond bij met redenen omklede beslissing afwijzen indien hij van oordeel is dat deze kennelijk niet ontvankelijk, dan wel kennelijk ongegrond is, of van onvoldoende gewicht.
 
-6. Tegen de beslissing van de voorzitter tot afwijzing van een klacht, kan de klager binnen veertien dagen na de dag van verzending van het afschrift van de beslissing schriftelijk verzet doen bij de kamer van toezicht. Hij dient gemotiveerd aan te geven met welke overwegingen van de voorzitter hij zich niet kan verenigen. Hij kan daarbij vragen over zijn verzet te worden gehoord.
+6. Indien de voorzitter van oordeel is dat een klacht vatbaar is voor minnelijke schikking, roept hij de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris op teneinde een zodanige schikking te beproeven. Indien een minnelijke schikking mogelijk blijkt, wordt deze op schrift gesteld en door de klager, de notaris, toegevoegd notaris of de kandidaat-notaris tegen wie de klacht is ingediend en de voorzitter ondertekend.
 
-7. Indien overeenkomstig het zesde lid verzet is gedaan tegen de beslissing van de voorzitter, wijst deze een plaatsvervanger aan om hem bij de behandeling van het verzet te vervangen.
+7. De voorzitter brengt klachten die niet zijn neergelegd bij de geschillencommissie, niet in der minne zijn geschikt of zijn afgewezen, ter kennis van de kamer.
 
-8. Ten gevolge van het verzet vervalt de beslissing, tenzij de kamer van toezicht het verzet niet-ontvankelijk of ongegrond verklaart.
+8. Van de beslissing van de voorzitter zendt de secretaris onverwijld een afschrift aan de klager en de betrokken notaris of kandidaat-notaris, in geval van afwijzing van een klacht aan de klager bij aangetekende brief. Indien de voorzitter toepassing geeft aan het vierde lid, vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de geschillencommissie de kamer te verzoeken de klacht alsnog in behandeling te nemen.
 
-9. Is de kamer van toezicht van oordeel dat de klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, dan kan zij zonder nader onderzoek het verzet ongegrond verklaren, echter niet dan na de klager die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.
+9. Tegen de beslissing van de voorzitter tot afwijzing van een klacht, kan de klager binnen veertien dagen na de dag van verzending van het afschrift van de beslissing schriftelijk verzet doen bij de kamer voor het notariaat. Hij dient gemotiveerd aan te geven met welke overwegingen van de voorzitter hij zich niet kan verenigen. Hij kan daarbij vragen over zijn verzet te worden gehoord.
 
-10. De beslissing tot niet-ontvankelijkverklaring of ongegrondverklaring van het verzet is met redenen omkleed. Daartegen staat geen rechtsmiddel open. Het vijfde lid is van overeenkomstige toepassing.
+10. Indien overeenkomstig het negende lid verzet is gedaan tegen de beslissing van de voorzitter, wijst deze een plaatsvervanger aan om hem bij de behandeling van het verzet te vervangen.
 
-11. Is de kamer van oordeel dat het verzet gegrond is, dan wordt de zaak in verdere behandeling genomen.
+11. Ten gevolge van het verzet vervalt de beslissing, tenzij de kamer voor het notariaat het verzet niet-ontvankelijk of ongegrond verklaart.
 
-12. Een klacht kan slechts worden ingediend gedurende drie jaren na de dag waarop de tot klacht gerechtigde van het handelen of nalaten van een notaris of kandidaat-notaris dat tot tuchtrechtelijke maatregelen aanleiding kan geven kennis heeft genomen.
+12. Is de kamer voor het notariaat van oordeel dat de klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, dan kan zij zonder nader onderzoek het verzet ongegrond verklaren, echter niet dan na de klager die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.
 
-13. Intrekken van de klacht, nadat deze is ingekomen, of staking van de werkzaamheden door de persoon over wie geklaagd is, heeft op de verdere behandeling geen invloed, wanneer naar het oordeel van de kamer van toezicht het algemeen belang de voortzetting van de behandeling vordert of wanneer degene over wie geklaagd is, schriftelijk heeft verklaard voortzetting van de behandeling van de klacht te verlangen.
+13. De beslissing tot niet-ontvankelijkverklaring of ongegrondverklaring van het verzet is met redenen omkleed. Daartegen staat geen rechtsmiddel open. Het achtste lid is van overeenkomstige toepassing.
+
+14. Is de kamer van oordeel dat het verzet gegrond is, dan wordt de zaak in verdere behandeling genomen.
+
+15. Een klacht kan slechts worden ingediend gedurende drie jaren na de dag waarop de tot klacht gerechtigde van het handelen of nalaten van een notaris, toegevoegd notaris of kandidaat-notaris dat tot tuchtrechtelijke maatregelen aanleiding kan geven kennis heeft genomen.
+
+16. Intrekken van de klacht, nadat deze is ingekomen, of staking van de werkzaamheden door de persoon over wie geklaagd is, heeft op de verdere behandeling geen invloed, wanneer naar het oordeel van de kamer voor het notariaat het algemeen belang de voortzetting van de behandeling vordert of wanneer degene over wie geklaagd is, schriftelijk heeft verklaard voortzetting van de behandeling van de klacht te verlangen.
 
 ##### Artikel 100
 
-Zij die deel uitmaken van een kamer van toezicht kunnen zich verschonen en kunnen worden gewraakt, indien te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid schade zou kunnen lijden. [Titel IV van het Vierde Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IV) is van overeenkomstige toepassing.
+Zij die deel uitmaken van een kamer voor het notariaat kunnen zich verschonen en kunnen worden gewraakt, indien te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid schade zou kunnen lijden. [Titel IV van het Vierde Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IV) is van overeenkomstige toepassing.
 
 ##### Artikel 101
 
-1. De kamer van toezicht neemt geen beslissing dan na verhoor of behoorlijke oproeping van de notaris of kandidaat-notaris en van de klager. De oproepingen geschieden bij aangetekende brief ten minste zeven dagen voor het verhoor.
+1. De kamer voor het notariaat neemt geen beslissing dan na verhoor of behoorlijke oproeping van de notaris, toegevoegd notaris of kandidaat-notaris en van de klager. De oproepingen geschieden bij aangetekende brief ten minste zeven dagen voor het verhoor.
 
-2. De notaris of kandidaat-notaris en de klager zijn bevoegd zich te doen bijstaan door een raadsman. De secretaris van de kamer stelt hen tijdig in de gelegenheid om van de op de zaak betrekking hebbende stukken kennis te nemen. Zij kunnen afschriften of uittreksels van die stukken vragen tegen vergoeding van de kostende prijs.
+2. De notaris, toegevoegd notaris of kandidaat-notaris en de klager zijn bevoegd zich te doen bijstaan door een raadsman. De secretaris van de kamer stelt hen tijdig in de gelegenheid om van de op de zaak betrekking hebbende stukken kennis te nemen. Zij kunnen afschriften of uittreksels van die stukken vragen tegen vergoeding van de kostende prijs.
 
-3. De kamer van toezicht kan weigeren personen, die geen advocaat zijn, als raadsman toe te laten. In dat geval houdt de kamer de zaak tot een volgende zitting aan.
+3. De kamer voor het notariaat kan weigeren personen, die geen advocaat zijn, als raadsman toe te laten. In dat geval houdt de kamer de zaak tot een volgende zitting aan.
 
 4. De behandeling door de kamer geschiedt in het openbaar. De kamer kan om gewichtige redenen bevelen dat de behandeling geheel of gedeeltelijk met gesloten deuren zal plaatsvinden.
 
 ##### Artikel 102
 
-1. De kamer van toezicht kan getuigen en deskundigen horen. Zij worden daartoe bij aangetekende brief opgeroepen en zijn verplicht aan de oproeping gevolg te geven.
+1. De kamer voor het notariaat kan getuigen en deskundigen horen. Zij worden daartoe bij aangetekende brief opgeroepen en zijn verplicht aan de oproeping gevolg te geven.
 
 2. Verschijnt een getuige of deskundige op de oproeping niet, dan doet de officier van justitie op verzoek van de kamer hem dagvaarden. Verschijnt een getuige of deskundige op de dagvaarding niet, dan doet de officier van justitie op verzoek van de kamer hem andermaal dagvaarden desverzocht met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556) is van overeenkomstige toepassing.
 
@@ -1058,91 +1110,97 @@ Zij die deel uitmaken van een kamer van toezicht kunnen zich verschonen en kunne
 
 ##### Artikel 103
 
-1. De kamer van toezicht kan, indien zij oordeelt dat een tegen een notaris gerezen bedenking gegrond is, een van de volgende tuchtmaatregelen opleggen:
+1. De kamer voor het notariaat kan, indien zij oordeelt dat een tegen een notaris gerezen bedenking gegrond is, de volgende tuchtmaatregelen opleggen:
 
-- a. waarschuwing;
+- a. een waarschuwing;
 
-- b. berisping;
+- b. een berisping;
 
-- c. schorsing in de uitoefening van het ambt voor de duur van ten hoogste zes maanden;
+- c. een geldboete;
 
-- d. ontzetting uit het ambt.
+- d. de ontzegging van de bevoegdheid tot het aanwijzen van een toegevoegd notaris, voor bepaalde of onbepaalde duur;
+
+- e. de schorsing in de uitoefening van het ambt voor de duur van ten hoogste zes maanden;
+
+- f. de ontzetting uit het ambt.
 
 2. De kamer kan een bedenking ook gegrond verklaren zonder oplegging van een maatregel.
 
-3. Het in de leden 1 en 2 bepaalde is van overeenkomstige toepassing op de kandidaat-notaris, met dien verstande dat aan hem de tuchtmaatregelen als bedoeld in het eerste lid, onder a en b, kunnen worden opgelegd, alsmede de tuchtmaatregel van ontzegging van de bevoegdheid om waar te nemen voor bepaalde of onbepaalde duur.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de toegevoegd notaris en de kandidaat-notaris, met dien verstande dat aan hen de tuchtmaatregelen als bedoeld in het eerste lid, onderdelen a, b en c, kunnen worden opgelegd, alsmede de tuchtmaatregel van ontzegging van de bevoegdheid om waar te nemen en om als toegevoegd notaris op te treden, voor bepaalde of onbepaalde duur.
 
-4. In geval van waarneming door een kandidaat-notaris is het in de leden 1 tot en met 3 bepaalde van overeenkomstige toepassing op de waarnemer, met dien verstande dat hij tevens als waarnemer in de uitoefening van het ambt kan worden geschorst voor bepaalde duur.
+4. In geval van waarneming is het eerste tot en met het derde lid van overeenkomstige toepassing op de waarnemer, met dien verstande dat hij tevens kan worden geschorst als waarnemer in de uitoefening van het ambt of dat zijn benoeming tot waarnemer kan worden ingetrokken.
 
-5. De kamer kan bij het opleggen van een waarschuwing of berisping besluiten tot openbaarmaking op door haar te bepalen wijze van de opgelegde maatregel, al dan niet met de gronden waarop hij rust, indien enig door deze bepaling beschermd belang dat vordert. De waarschuwing of berisping wordt door de voorzitter uitgesproken in een vergadering van de kamer, in aanwezigheid van de notaris of kandidaat-notaris, die daarvoor bij aangetekende brief wordt opgeroepen. Daarvan wordt proces-verbaal opgemaakt. De secretaris zendt een afschrift van het proces-verbaal bij aangetekende brief aan de notaris of kandidaat-notaris. Indien deze in de vergadering niet is verschenen, deelt de secretaris de inhoud van de waarschuwing of berisping bij aangetekende brief met bericht van ontvangst aan hem mee.
+5. De kamer kan bij het opleggen van een waarschuwing, berisping of geldboete besluiten tot openbaarheid van de opgelegde maatregel.
 
-6. Schorsing in de uitoefening van het ambt brengt mede verlies voor de duur van de schorsing van de betrekkingen, waarbij de hoedanigheid van notaris vereiste is voor de verkiesbaarheid of benoembaarheid. De geschorste notaris mag gedurende zijn schorsing de titel van notaris niet voeren.
+6. Een waarschuwing of berisping wordt door de voorzitter uitgesproken in een vergadering van de kamer, in aanwezigheid van de notaris, toegevoegd notaris of kandidaat-notaris, die daarvoor bij aangetekende brief wordt opgeroepen. Daarvan wordt proces-verbaal opgemaakt. De secretaris zendt een afschrift van het proces-verbaal bij aangetekende brief aan de notaris, toegevoegd notaris of kandidaat-notaris. Indien deze in de vergadering niet is verschenen, deelt de secretaris de inhoud van de waarschuwing of berisping bij aangetekende brief met bericht van ontvangst aan hem mee. De KNB ontvangt in beide gevallen een afschrift.
 
-7. Een notaris die uit zijn ambt is ontzet kan niet meer tot waarnemer worden benoemd.
+7. Schorsing in de uitoefening van het ambt brengt mede verlies voor de duur van de schorsing van de betrekkingen, waarbij de hoedanigheid van notaris vereiste is voor de verkiesbaarheid of benoembaarheid. De geschorste notaris mag gedurende zijn schorsing de titel van notaris niet voeren.
+
+8. Een notaris die uit zijn ambt is ontzet kan niet meer tot waarnemer worden benoemd of aan een notaris worden toegevoegd.
+
+9. [Artikel 195 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=195) is van toepassing.
 
 ##### Artikel 104
 
-1. De beslissingen van de kamer van toezicht zijn met redenen omkleed en worden in het openbaar uitgesproken.
+1. De beslissingen van de kamer voor het notariaat zijn met redenen omkleed en worden in het openbaar uitgesproken.
 
 2. De secretaris zendt van de beslissingen van de kamer bij aangetekende brief een afschrift:
 
-- a. aan de betrokken notaris of kandidaat-notaris;
+- a. aan de betrokken notaris, toegevoegd notaris of kandidaat-notaris;
 
-- b. aan het bestuur van de KNB, indien het op grond van [artikel 96, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=96&z=2012-01-01&g=2012-01-01), heeft verzocht een onderzoek in te stellen;
+- b. aan het bestuur van de KNB;
 
-- c. aan het bestuur van het Bureau, indien het op grond van [artikel 96, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=96&z=2012-01-01&g=2012-01-01), heeft verzocht een onderzoek in te stellen;
+- c. aan het bestuur van het Bureau;
 
-- d. aan de klager, indien werd beslist naar aanleiding van een klacht als bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=99&z=2012-01-01&g=2012-01-01).
+- d. aan de klager, indien werd beslist naar aanleiding van een klacht als bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=99&z=2013-01-01&g=2013-01-01).
 
-3. Aan de ambtenaar van de rijksbelastingdienst, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=97&z=2012-01-01&g=2012-01-01), wordt een afschrift van de beslissing gezonden.
+3. Aan de ambtenaar van de rijksbelastingdienst, bedoeld in [artikel 111c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=111c&z=2013-01-01&g=2013-01-01), wordt een afschrift van de beslissing gezonden.
 
 ##### Artikel 105
 
-In geval van oplegging van de maatregelen schorsing in de uitoefening van het ambt en ontzetting uit het ambt deelt de kamer van toezicht aan de betrokken notaris bij aangetekende brief, nadat de beslissing onherroepelijk is geworden, de datum mee waarop de maatregel van kracht wordt.
+In geval van oplegging van schorsing in de uitoefening van het ambt, ontzetting uit het ambt, schorsing als waarnemer in de uitoefening van het ambt of intrekking van de benoeming als waarnemer, deelt de kamer voor het notariaat bij aangetekende brief aan de betrokken notaris, nadat de beslissing onherroepelijk is geworden, de datum mee waarop de maatregel van kracht wordt.
 
 ##### Artikel 106
 
-1. Indien het betreft een klacht tegen een notaris van zeer ernstige aard, dan wel indien er kennelijk gevaar bestaat voor benadeling van derden, en de voorzitter van de kamer van toezicht een ernstig vermoeden heeft ten aanzien van de gegrondheid van de klacht of van de benadeling, kan hij bij wijze van ordemaatregel de onmiddellijke schorsing in de uitoefening van het ambt gelasten of een andere voorlopige voorziening treffen, ten hoogste voor de duur van de behandeling van de klacht. [Artikel 27, eerste lid, tweede tot en met vierde volzin, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+1. Indien het betreft een klacht tegen een notaris van zeer ernstige aard, dan wel indien er kennelijk gevaar bestaat voor benadeling van derden, en de voorzitter van de kamer voor het notariaat een ernstig vermoeden heeft ten aanzien van de gegrondheid van de klacht of van de benadeling, kan hij bij wijze van ordemaatregel de onmiddellijke schorsing in de uitoefening van het ambt gelasten of een andere voorlopige voorziening treffen, ten hoogste voor de duur van de behandeling van de klacht. [Artikel 27, eerste lid, tweede tot en met viifde volzin, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-2. Indien de kamer van toezicht uiteindelijk de klacht niet-ontvankelijk of ongegrond verklaart of een andere maatregel dan schorsing oplegt, vervalt de ordemaatregel van rechtswege. Spreekt de kamer de schorsing uit, dan kan zij bij de bepaling van de termijn rekening houden met de duur van de schorsing bij wege van ordemaatregel.
+2. Indien de kamer voor het notariaat uiteindelijk de klacht niet-ontvankelijk of ongegrond verklaart of een andere maatregel dan schorsing oplegt, vervalt de ordemaatregel van rechtswege. Spreekt de kamer de schorsing uit, dan kan zij bij de bepaling van de termijn rekening houden met de duur van de schorsing bij wege van ordemaatregel.
 
-3. Indien een klacht overeenkomstig het eerste lid aan de voorzitter van de kamer van toezicht ter kennis is gebracht, beslist hij binnen veertien dagen. In overige gevallen beslist hij binnen veertien dagen na verhoor of behoorlijke oproeping van de notaris. De kamer van toezicht kan deze termijn ten hoogste eenmaal verlengen met eenzelfde termijn.
+3. Indien een klacht overeenkomstig het eerste lid aan de voorzitter van de kamer voor het notariaat ter kennis is gebracht, beslist hij binnen veertien dagen. In overige gevallen beslist hij binnen veertien dagen na verhoor of behoorlijke oproeping van de notaris. De kamer voor het notariaat kan deze termijn ten hoogste eenmaal verlengen met eenzelfde termijn.
 
-4. Op verzoek van de betrokken notaris kan de voorzitter van de kamer van toezicht te allen tijde de op grond van het eerste lid opgelegde schorsing of voorlopige voorziening opheffen. Hij beslist niet dan na verhoor of behoorlijke oproeping van de notaris en de klager.
+4. Op verzoek van de betrokken notaris kan de voorzitter van de kamer voor het notariaat te allen tijde de op grond van het eerste lid opgelegde schorsing of voorlopige voorziening opheffen. Hij beslist niet dan na verhoor of behoorlijke oproeping van de notaris en de klager.
 
-5. Dit artikel is van overeenkomstige toepassing op de kandidaat-notaris, met dien verstande dat de voorzitter van de kamer van toezicht hem bij wijze van ordemaatregel de onmiddellijke ontzegging van de bevoegdheid om waar te nemen kan gelasten alsmede, in geval van waarneming door de kandidaat-notaris, de onmiddellijke schorsing als waarnemer in de uitoefening van het ambt.
+5. Dit artikel is van overeenkomstige toepassing op de toegevoegd notaris en de kandidaat-notaris, met dien verstande dat de voorzitter van de kamer voor het notariaat hen bij wijze van ordemaatregel de onmiddellijke ontzegging van de bevoegdheid om waar te nemen of opschorting van de toevoeging kan gelasten, alsmede, in geval van waarneming door de toegevoegd notaris of kandidaat-notaris, de onmiddellijke schorsing als waarnemer in de uitoefening van het ambt.
 
 ##### Artikel 107
 
-1. Tegen een beslissing van de kamer van toezicht kan binnen dertig dagen na de dag van verzending van de in [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2012-01-01&g=2012-01-01) bedoelde brief hoger beroep worden ingesteld bij het gerechtshof te Amsterdam. Voor wat betreft de mogelijkheid tot het instellen van beroep worden als klager aangemerkt het bestuur van de KNB en het bestuur van het Bureau, indien de zaak door de voorzitter van de kamer van toezicht ter behandeling aan de kamer is voorgelegd na een onderzoek op grond van [artikel 96, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=96&z=2012-01-01&g=2012-01-01).
+1. Tegen een beslissing van de kamer voor het notariaat kan binnen dertig dagen na de dag van verzending van de in [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2013-01-01&g=2013-01-01) bedoelde brief hoger beroep worden ingesteld bij het gerechtshof Amsterdam. Voor wat betreft de mogelijkheid tot het instellen van beroep worden in alle gevallen de KNB en het Bureau als klager aangemerkt.
 
-2. Het beroep wordt ingesteld bij verzoekschrift. De griffier van het hof geeft door toezending van een afschrift van het verzoekschrift onverwijld kennis aan de kamer van toezicht die de beslissing heeft genomen en, voor zover het beroep niet door hem is ingesteld, aan de klager en aan de notaris of kandidaat-notaris.
+2. Het beroep wordt ingesteld bij verzoekschrift. De griffier van het hof geeft door toezending van een afschrift van het verzoekschrift onverwijld kennis aan de kamer voor het notariaat die de beslissing heeft genomen en, voor zover het beroep niet door hem is ingesteld, aan de notaris, de toegevoegd notaris of de kandidaat-notaris en aan de KNB en het Bureau.
 
-3. Op de behandeling in hoger beroep zijn de [artikelen 101 tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+3. Op de behandeling in hoger beroep zijn de [artikelen 99a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=99a&z=2013-01-01&g=2013-01-01) en [101 tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 4. Het gerechtshof behandelt de zaak opnieuw in volle omvang.
 
 5. Tenzij het gerechtshof beslist dat er geen aanleiding bestaat tot het opleggen van enige maatregel, legt het zelf een maatregel op die het in het gegeven geval passend oordeelt.
 
-6. De griffier van het gerechtshof brengt de beslissing terstond ter kennis van de kamer van toezicht.
+6. De griffier van het gerechtshof brengt de beslissing terstond ter kennis van de kamer voor het notariaat.
 
 ##### Artikel 108
 
-1. De griffiers der gerechten doen aan de kamers van toezicht in het arrondissement waar elk gerecht gevestigd is mededeling van elke onherroepelijk geworden beslissing waarbij een notaris wegens een misdrijf is veroordeeld.
-
-2. Indien de kamer van toezicht van oordeel is, dat de feiten die tot de beslissing of beslissingen hebben geleid van zodanige aard zijn, dat een ernstige aantasting van de eer en het aanzien van het notarisambt daarvan het gevolg is, kan zij ambtshalve de maatregel van ontzetting uit het ambt opleggen. De [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=101&z=2012-01-01&g=2012-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=102&z=2012-01-01&g=2012-01-01), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=104&z=2012-01-01&g=2012-01-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=107&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 109
 
-1. In gevallen waarin een van de in [artikel 103, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2012-01-01&g=2012-01-01), omschreven maatregelen of de maatregel van ontzegging van de bevoegdheid om waar te nemen voor bepaalde of onbepaalde duur, bedoeld in het derde lid, is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de schorsing wordt opgeheven, dat de betrokken notaris in zijn ambt wordt hersteld of dat de kandidaat-notaris in de hem ontzegde bevoegdheid wordt hersteld.
+1. In gevallen waarin een van de in [artikel 103, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01), omschreven maatregelen of de maatregel van ontzegging van de bevoegdheid om waar te nemen en om als toegevoegd notaris op te treden, voor bepaalde of onbepaalde duur, bedoeld in artikel 103, derde lid, is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de schorsing wordt opgeheven, dat de betrokken notaris in zijn ambt wordt hersteld of dat de toegevoegd notaris of kandidaat-notaris in de hem ontzegde bevoegdheden wordt hersteld.
 
-2. De voordracht tot een besluit krachtens het eerste lid wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van de kamer van toezicht of het gerechtshof die de maatregel heeft opgelegd.
+2. De voordracht tot een besluit krachtens het eerste lid wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van de kamer voor het notariaat of het gerechtshof die de maatregel heeft opgelegd.
 
 ### Afdeling 2. Het financiële toezicht
 
 ##### Artikel 110
 
-1. Er is een Bureau Financieel Toezicht, dat gevestigd is te Utrecht. Het Bureau bezit rechtspersoonlijkheid. Het Bureau houdt toezicht op de naleving door de notaris van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=23&z=2012-01-01&g=2012-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) en [25, eerste lid en tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01), alsmede de verordeningen, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=18&z=2012-01-01&g=2012-01-01), en [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01), en de ministeriële regeling, bedoeld in [artikel 25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01). [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is niet van toepassing.
+1. Er is een Bureau Financieel Toezicht. Het Bureau bezit rechtspersoonlijkheid. Het Bureau is verantwoordelijk voor het toezicht op de naleving door notarissen, toegevoegd notarissen en kandidaat-notarissen van het bepaalde bij of krachtens deze wet, met inbegrip van toezicht op de zorg die zij als notaris, toegevoegd notaris of kandidaat-notaris behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en ter zake van enig handelen of nalaten dat een behoorlijk notaris, toegevoegd notaris of kandidaat-notaris niet betaamt. Het Bureau is tevens verantwoordelijk voor andere taken die het bij of krachtens deze wet en andere wetten zijn opgedragen.
 
 2. Bij algemene maatregel van bestuur kan zonodig worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het eerste lid, indien deze taken verband houden met de in dat lid genoemde taken.
 
@@ -1182,21 +1240,7 @@ De griffier van de rechtbank geeft ter zitting een proces-verbaal van de eedsafl
 
 ##### Artikel 112
 
-1. De notaris is verplicht de in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01), bedoelde stukken, vergezeld van een verslag van het onderzoek daarover van een accountant, dat voor wat betreft de jaarrekening van het kantoor ten minste een beoordelingskarakter draagt, aanstonds na het verstrijken van de termijn, bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01), in te dienen bij het Bureau.
-
-2. Het Bureau kan van de notaris verlangen dat hij inzage verschaft van zijn kantoor- en privé-administratie en de daarmee verband houdende bescheiden, de balansen en de staten van baten en lasten alsmede van zijn protocol en zijn archief. Het Bureau kan, behoudens voor wat betreft de minuten en repertoria, verlangen dat de notaris een afschrift van deze stukken verstrekt.
-
-3. Indien het Bureau bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die naar zijn oordeel grond opleveren tot het opleggen van een tuchtmaatregel, brengt het zijn bevindingen, desgeraden in de vorm van een klacht, ter kennis van de voorzitter van de kamer van toezicht.
-
-4. Het Bureau is belast met het doen van elk onderzoek naar de kantoor- en privé-administratie van de notaris waartoe de voorzitter of de met het onderzoek belaste plaatsvervangend voorzitter van een kamer van toezicht overeenkomstig [artikel 96, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=96&z=2012-01-01&g=2012-01-01), opdracht geeft.
-
-5. Het Bureau adviseert het bestuur van de KNB over het ontwerp van de verordening, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01).
-
-6. Het Bureau verschaft aan de Commissie van deskundigen, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01), desverlangd inlichtingen in verband met het onderzoek van het ondernemingsplan.
-
-7. Het Bureau verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
-
-8. Het Bureau stelt jaarlijks voor één juli een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
+Vervallen
 
 ##### Artikel 113
 
@@ -1242,15 +1286,15 @@ Wijzigt deze Wet.
 
 ##### Artikel 123
 
-1. Aan het benoembaarheidsvereiste, bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), voldoet tevens hij die kandidaat-notaris is op grond van artikel 20a van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt zoals dit artikel voor de inwerkingtreding van deze wet luidde.
+1. Aan het benoembaarheidsvereiste, bedoeld in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), voldoet tevens hij die kandidaat-notaris is op grond van artikel 20a van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt zoals dit artikel voor de inwerkingtreding van deze wet luidde.
 
 2. Zij die vóór het tijdstip van de plaatsing van deze wet in het Staatsblad naar een standplaats hebben gesolliciteerd kunnen tot het tijdstip van de inwerkingtreding van de wet tot notaris worden benoemd als zij voldoen aan de in artikel 10 van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt vermelde vereisten.
 
-3. Na het tijdstip van in werking treden van deze wet kunnen tot notaris worden benoemd zij die vóór dat tijdstip voldeden aan de in artikel 10 van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt vermelde vereisten om tot notaris te worden benoemd, met dien verstande dat vereist is dat zij gedurende zes jaren onder verantwoordelijkheid van een notaris notariële werkzaamheden hebben verricht, de duur van de stage daaronder begrepen, en dat zij tevens dienen te voldoen aan de vereisten van [artikel 6, tweede lid, onderdeel b, onder 3° en 4°, en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01) Hetzelfde geldt voor de benoeming tot waarnemer, met dien verstande dat in de gevallen van [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), een kandidaat-notaris slechts tot waarnemer kan worden benoemd indien hij een driejarige stage heeft doorlopen en hij tevens voldoet aan de vereisten van [artikel 6, tweede lid, onderdelen b, onder 3°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01). In de gevallen van [artikel 28, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) dient de kandidaat-notaris gedurende zes jaren onder verantwoordelijkheid van een notaris notariële werkzaamheden te hebben verricht, de duur van de stage daaronder begrepen, en tevens te voldoen aan de vereisten van [artikel 6, tweede lid, onderdelen b, onder 3°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01).
+3. Na het tijdstip van in werking treden van deze wet kunnen tot notaris worden benoemd zij die vóór dat tijdstip voldeden aan de in artikel 10 van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt vermelde vereisten om tot notaris te worden benoemd, met dien verstande dat vereist is dat zij gedurende zes jaren onder verantwoordelijkheid van een notaris notariële werkzaamheden hebben verricht, de duur van de stage daaronder begrepen, en dat zij tevens dienen te voldoen aan de vereisten van [artikel 6, tweede lid, onderdeel b, onder 3° en 4°, en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01). Hetzelfde geldt voor de benoeming tot waarnemer, met dien verstande dat in de gevallen van [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), een kandidaat-notaris slechts tot waarnemer kan worden benoemd indien hij een driejarige stage heeft doorlopen en hij tevens voldoet aan de vereisten van [artikel 6, tweede lid, onderdelen b, onder 3°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01). Hetzelfde geldt voor de toevoeging aan een notaris of benoeming tot waarnemer, met dien verstande dat een kandidaat-notaris slechts kan worden toegevoegd of worden benoemd tot waarnemer indien hij gedurende zes jaren onder verantwoordelijkheid van een notaris notariële werkzaamheden heeft verricht, de duur van de stage daaronder begrepen, en tevens dient hij te voldoen aan de vereisten van [artikel 6, tweede lid, onderdelen b, onder 3°, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), met dien verstande dat een kandidaat-notaris tot waarnemer kan worden benoemd in de gevallen van [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), indien hij drie jaren notariële werkzaamheden heeft verricht.
 
-4. Op de kandidaat-notaris die reeds vóór het tijdstip van in werking treden van deze wet een betrekking op een notariskantoor heeft aanvaard is [artikel 6, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), niet van toepassing.
+4. Op de kandidaat-notaris die reeds vóór het tijdstip van in werking treden van deze wet een betrekking op een notariskantoor heeft aanvaard is [artikel 6, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), niet van toepassing.
 
-5. Voor de vaststelling van de duur van de door de kandidaat-notaris vóór het tijdstip van inwerkingtreding van de wet verrichte notariële werkzaamheden, bedoeld in het derde lid, zijn de [artikelen 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01), en [31, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2012-01-01&g=2012-01-01), van toepassing.
+5. Voor de vaststelling van de duur van de door de kandidaat-notaris vóór het tijdstip van inwerkingtreding van de wet verrichte notariële werkzaamheden, bedoeld in het derde lid, zijn de [artikelen 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=I&artikel=1&z=2013-01-01&g=2013-01-01), en [31, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2013-01-01&g=2013-01-01), van toepassing.
 
 6. De notaris die vóór het tijdstip van inwerkingtreding van deze wet zijn standplaats heeft in een deel van een gemeente heeft na dat tijdstip zijn plaats van vestiging in de gehele gemeente.
 
@@ -1260,25 +1304,25 @@ Tot vier jaren na het tijdstip van in werking treden van deze wet worden jaarlij
 
 ##### Artikel 125
 
-Op een notaris of kandidaat-notaris die tevens advocaat is vóór het tijdstip van in werking treden van deze wet is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=9&z=2012-01-01&g=2012-01-01) niet van toepassing.
+Op een notaris, toegevoegd notaris of kandidaat-notaris die tevens advocaat is vóór het tijdstip van in werking treden van deze wet is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=9&z=2013-01-01&g=2013-01-01) niet van toepassing.
 
 ##### Artikel 126
 
-[Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=48&z=2012-01-01&g=2012-01-01) is uitsluitend van toepassing op verzoeken die worden gedaan na het tijdstip van de inwerkingtreding van deze wet. De aanbieding van stukken aan de notaris met het verzoek deze in zijn protocol op te nemen, waarvan een akte is opgemaakt vóór dat tijdstip, blijft beheerst door de bepalingen van de Wet van 9 juli 1842, Stb. 20 op het Notarisambt en door het recht dat zich met betrekking tot dit onderwerp tot aan dat tijdstip heeft gevormd.
+[Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=48&z=2013-01-01&g=2013-01-01) is uitsluitend van toepassing op verzoeken die worden gedaan na het tijdstip van de inwerkingtreding van deze wet. De aanbieding van stukken aan de notaris met het verzoek deze in zijn protocol op te nemen, waarvan een akte is opgemaakt vóór dat tijdstip, blijft beheerst door de bepalingen van de Wet van 9 juli 1842, Stb. 20 op het Notarisambt en door het recht dat zich met betrekking tot dit onderwerp tot aan dat tijdstip heeft gevormd.
 
 ##### Artikel 127
 
 1. De vereniging genaamd Koninklijke Notariële Beroepsorganisatie en gevestigd te 's-Gravenhage wordt van rechtswege ontbonden op het tijdstip van de inwerkingtreding van deze wet en wordt van rechtswege onder algemene titel opgevolgd door de KNB. Het bestuur van de KNB is bevoegd tot het nemen van alle maatregelen en beslissingen die uit de rechtsopvolging voortvloeien.
 
-2. Onze Ministers van Justitie en van Economische Zaken stellen gedurende een periode van drie jaar na inwerkingtreding van de wet gezamenlijk jaarlijks bij ministeriële regeling tarieven of een tarievenstelsel vast ter bepaling van het honorarium dat de notaris de cliënt in rekening brengt. Die regeling laat [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VI&artikel=56&z=2012-01-01&g=2012-01-01) onverlet. Het is de notaris verboden aan de cliënt een honorarium in rekening te brengen dat niet in overeenstemming is met die ministeriële regeling. Artikel 54 is niet van toepassing gedurende die periode.
+2. Onze Ministers van Justitie en van Economische Zaken stellen gedurende een periode van drie jaar na inwerkingtreding van de wet gezamenlijk jaarlijks bij ministeriële regeling tarieven of een tarievenstelsel vast ter bepaling van het honorarium dat de notaris de cliënt in rekening brengt. Die regeling laat [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VI&artikel=56&z=2013-01-01&g=2013-01-01) onverlet. Het is de notaris verboden aan de cliënt een honorarium in rekening te brengen dat niet in overeenstemming is met die ministeriële regeling. Artikel 54 is niet van toepassing gedurende die periode.
 
 3. De tarieven worden zodanig vastgesteld dat een geleidelijke overgang wordt bewerkstelligd naar een vrije tariefsvorming. Daarbij wordt rekening gehouden met de notariële tarieven voor ambtshandelingen, zoals deze laatstelijk hebben gegolden krachtens artikel 59 van de statuten van de voormalige vereniging Koninklijke Notariële Beroepsorganisatie.
 
-4. Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken zo spoedig mogelijk na verloop van een periode van twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de gevolgen van de overgangsregeling van het tweede en derde lid betreffende de continuïteit en de toegankelijkheid van de notariële dienstverlening in die periode. In het verslag worden de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=128&z=2012-01-01&g=2012-01-01) bedoelde rapporten over die periode verwerkt. Het verslag bevat tevens een conclusie met betrekking tot de vraag of er aanleiding is tot toepassing van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VI&artikel=54&z=2012-01-01&g=2012-01-01) na het einde van de overgangsregeling.
+4. Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken zo spoedig mogelijk na verloop van een periode van twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de gevolgen van de overgangsregeling van het tweede en derde lid betreffende de continuïteit en de toegankelijkheid van de notariële dienstverlening in die periode. In het verslag worden de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=128&z=2013-01-01&g=2013-01-01) bedoelde rapporten over die periode verwerkt. Het verslag bevat tevens een conclusie met betrekking tot de vraag of er aanleiding is tot toepassing van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VI&artikel=54&z=2013-01-01&g=2013-01-01) na het einde van de overgangsregeling.
 
 ##### Artikel 128
 
-1. Onze Minister benoemt in overeenstemming met Onze Minister van Economische Zaken een commissie van drie leden, waarvan een onafhankelijke voorzitter deel uitmaakt. Deze commissie heeft tot taak om gedurende de overgangsperiode van [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=127&z=2012-01-01&g=2012-01-01), ieder jaar aan Onze Ministers van Justitie en van Economische Zaken en aan de Staten-Generaal een rapport uit te brengen over de gevolgen van de wet, in het bijzonder met betrekking tot haar doeltreffendheid ter zake van de bedrijfsvoering van het notariaat, de kwaliteit van de notariële dienstverlening, de continuïteit en de toegankelijkheid van het notariaat en de ontwikkeling van de tarieven.
+1. Onze Minister benoemt in overeenstemming met Onze Minister van Economische Zaken een commissie van drie leden, waarvan een onafhankelijke voorzitter deel uitmaakt. Deze commissie heeft tot taak om gedurende de overgangsperiode van [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=X&artikel=127&z=2013-01-01&g=2013-01-01), ieder jaar aan Onze Ministers van Justitie en van Economische Zaken en aan de Staten-Generaal een rapport uit te brengen over de gevolgen van de wet, in het bijzonder met betrekking tot haar doeltreffendheid ter zake van de bedrijfsvoering van het notariaat, de kwaliteit van de notariële dienstverlening, de continuïteit en de toegankelijkheid van het notariaat en de ontwikkeling van de tarieven.
 
 2. De commissie stelt alle personen en organisaties die belang hebben bij of betrokken zijn bij de toepassing van de wet in de gelegenheid om haar gegevens te verschaffen en zich over de werking van de wet uit te spreken.
 
@@ -1304,13 +1348,13 @@ Archiefbescheiden van het Centraal Bureau van Bijstand gaan met ingang van de da
 
 ##### Artikel 132
 
-Onze Minister wijst, na daarover het gevoelen van de vereniging Koninklijke Notariële Beroepsorganisatie te hebben ingewonnen, de personen aan die na de inwerkingtreding van de wet als voorzitter of als lid zitting hebben in het bestuur van de KNB, de ledenraad en de ringbesturen voor een termijn van ten hoogste negentig dagen. Binnen die termijn geven de ledenraad onderscheidenlijk de ringvergadering uitvoering aan [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=71&z=2012-01-01&g=2012-01-01), onderscheidenlijk aan de [artikelen 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=67&z=2012-01-01&g=2012-01-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=85&z=2012-01-01&g=2012-01-01).
+Onze Minister wijst, na daarover het gevoelen van de vereniging Koninklijke Notariële Beroepsorganisatie te hebben ingewonnen, de personen aan die na de inwerkingtreding van de wet als voorzitter of als lid zitting hebben in het bestuur van de KNB, de ledenraad en de ringbesturen voor een termijn van ten hoogste negentig dagen. Binnen die termijn geven de ledenraad onderscheidenlijk de ringvergadering uitvoering aan [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=71&z=2013-01-01&g=2013-01-01), onderscheidenlijk aan de [artikelen 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=67&z=2013-01-01&g=2013-01-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=85&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 133
 
-1. De verordeningen van de KNB, bedoeld in de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=12&z=2012-01-01&g=2012-01-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=15&z=2012-01-01&g=2012-01-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=18&z=2012-01-01&g=2012-01-01), [29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=29&z=2012-01-01&g=2012-01-01), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2012-01-01&g=2012-01-01), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=33&z=2012-01-01&g=2012-01-01), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=34&z=2012-01-01&g=2012-01-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=41&z=2012-01-01&g=2012-01-01), [61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=61&z=2012-01-01&g=2012-01-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=77&z=2012-01-01&g=2012-01-01), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=86&z=2012-01-01&g=2012-01-01) en [94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=94&z=2012-01-01&g=2012-01-01), moeten binnen één jaar na de dag van inwerkingtreding van die artikelen in werking treden. Zolang de verordeningen niet in werking zijn getreden blijft voor zover mogelijk op de daarin te regelen onderwerpen het vóór de inwerkingtreding van deze wet geldende recht van toepassing.
+1. De verordeningen van de KNB, bedoeld in de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=12&z=2013-01-01&g=2013-01-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=15&z=2013-01-01&g=2013-01-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=18&z=2013-01-01&g=2013-01-01), [29, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=29&z=2013-01-01&g=2013-01-01), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=31&z=2013-01-01&g=2013-01-01), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=33&z=2013-01-01&g=2013-01-01), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IV&artikel=34&z=2013-01-01&g=2013-01-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=41&z=2013-01-01&g=2013-01-01), [61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=1&artikel=61&z=2013-01-01&g=2013-01-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=77&z=2013-01-01&g=2013-01-01), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=5&artikel=86&z=2013-01-01&g=2013-01-01) en [94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=94&z=2013-01-01&g=2013-01-01), moeten binnen één jaar na de dag van inwerkingtreding van die artikelen in werking treden. Zolang de verordeningen niet in werking zijn getreden blijft voor zover mogelijk op de daarin te regelen onderwerpen het vóór de inwerkingtreding van deze wet geldende recht van toepassing.
 
-2. Indien en voorzover niet is voldaan aan het bepaalde in het eerste lid, is Onze Minister bevoegd de verordeningen voor de eerste maal vast te stellen. Zulks laat de uit [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=69&z=2012-01-01&g=2012-01-01) voortvloeiende bevoegdheid van het bestuur en de ledenraad voor het overige onverlet.
+2. Indien en voorzover niet is voldaan aan het bepaalde in het eerste lid, is Onze Minister bevoegd de verordeningen voor de eerste maal vast te stellen. Zulks laat de uit [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=VIII&afdeling=3&artikel=69&z=2013-01-01&g=2013-01-01) voortvloeiende bevoegdheid van het bestuur en de ledenraad voor het overige onverlet.
 
 ##### Artikel 134
 
@@ -1324,7 +1368,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 16a
 
-De [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1) en [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:2) en de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3) en [4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4) zijn niet van toepassing op de wettelijke werkzaamheden en de werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten en op de weigering deze te verrichten.
+De [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1) en [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:2) en de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), en [9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) zijn niet van toepassing op de wettelijke werkzaamheden en de werkzaamheden die de notaris in samenhang daarmee pleegt te verrichten en op de weigering deze te verrichten.
 
 ## Titel IV. De stage, de registratie van de werktijd en de beroepsopleiding van de kandidaat-notaris
 
@@ -1348,7 +1392,7 @@ De [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1) 
 
 ### Afdeling 4. De algemene ledenvergadering
 
-### Afdeling 6. De geldmiddelen van de KNB
+### Afdeling 4. De algemene ledenvergadering
 
 ## Titel IX. Het toezicht over de notarissen en kandidaat-notarissen en de tuchtrechtspraak, alsmede het financiële toezicht
 
@@ -1370,13 +1414,13 @@ Notariële akten die uiterste wilsbeschikkingen inhouden, bevatten geen andere r
 
 ##### Artikel 49a
 
-De erflater kan bij uiterste wilsbeschikking bepalen dat de in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=49&z=2012-01-01&g=2012-01-01), bedoelde afschriften, uittreksels en grossen van zijn uiterste wil niet mogen worden uitgegeven noch inzage in zijn uiterste wil mag worden verleend, voor zijn lijk is begraven of verbrand, met dien verstande dat zodanig uitstel niet meer mag bedragen dan vijf dagen na het overlijden van de erflater.
+De erflater kan bij uiterste wilsbeschikking bepalen dat de in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=49&z=2013-01-01&g=2013-01-01), bedoelde afschriften, uittreksels en grossen van zijn uiterste wil niet mogen worden uitgegeven noch inzage in zijn uiterste wil mag worden verleend, voor zijn lijk is begraven of verbrand, met dien verstande dat zodanig uitstel niet meer mag bedragen dan vijf dagen na het overlijden van de erflater.
 
 ##### Artikel 49b
 
 1. De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in [artikel 188 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=188).
 
-2. [Artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=49a&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+2. [Artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=49a&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 ## Titel VII. De notariële archieven
 
@@ -1402,17 +1446,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12a
 
-1. De KNB houdt een protocollenregister waarin van iedere notaris de volgende gegevens worden opgenomen:
-
-- a. zijn naam en plaats van vestiging;
-
-- b. het nummer dat op grond van [artikel 2, tweede lid, onderdeel a, van de Wet op het centraal testamentenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=2) aan hem is toegekend;
-
-- c. de namen van de notarissen van wie hij een protocol heeft overgenomen en welk protocol nog onder hem berust, met vermelding van hun plaats van vestiging en de periode gedurende welke zij in functie waren.
-
-2. Het register ligt bij de KNB voor een ieder ter inzage.
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de inrichting van het register en de wijze waarop het wordt bijgehouden.
+Vervallen
 
 ## Titel III. De uitoefening van het notarisambt
 
@@ -1420,19 +1454,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 De notarispraktijk wordt voor rekening en risico van de vervangen notaris voortgezet:
 
-- a. bij waarneming in de in [artikel 28, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), bedoelde gevallen;
+- a. bij waarneming in de in [artikel 28, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), bedoelde gevallen;
 
-- b. bij waarneming in de in [artikel 28, onderdelen c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01), bedoelde gevallen, indien in het benoemingsbesluit het honorarium voor de waarnemer is vastgesteld.
+- b. bij waarneming in de in [artikel 28, onderdelen c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), bedoelde gevallen, indien in het benoemingsbesluit het honorarium voor de waarnemer is vastgesteld.
 
 ##### Artikel 30a
 
-1. Een gedefungeerde notaris verkrijgt, indien hij dit wenst, de hoedanigheid van kandidaat-notaris gedurende een jaar na zijn ontslag. Als hij tot waarnemer wordt benoemd is [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01), niet van toepassing. Een notaris die voor of na zijn defungeren tot vaste waarnemer is benoemd is één jaar na zijn defungeren van rechtswege uit deze functie ontslagen.
+1. Een gedefungeerde notaris verkrijgt, indien hij dit wenst, de hoedanigheid van kandidaat-notaris gedurende een jaar na zijn ontslag. Als hij tot waarnemer wordt benoemd is [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=30&z=2013-01-01&g=2013-01-01), niet van toepassing. Een notaris die voor of na zijn defungeren tot vaste waarnemer is benoemd is één jaar na zijn defungeren van rechtswege uit deze functie ontslagen.
 
-2. Na de beëindiging van de notariële werkzaamheden zoals bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01), behoudt de kandidaat-notaris, indien hij dit wenst, gedurende een jaar de hoedanigheid van kandidaat-notaris. Indien hij voor of na de beëindiging van zijn notariële werkzaamheden tot vaste waarnemer is benoemd is hij één jaar na die beëindiging van rechtswege uit deze functie ontslagen.
+2. Na de beëindiging van de notariële werkzaamheden zoals bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=I&artikel=1&z=2013-01-01&g=2013-01-01), behoudt de kandidaat-notaris, indien hij dit wenst, gedurende een jaar de hoedanigheid van kandidaat-notaris. Indien hij voor of na de beëindiging van zijn notariële werkzaamheden tot vaste waarnemer is benoemd is hij één jaar na die beëindiging van rechtswege uit deze functie ontslagen. Hetzelfde geldt voor de toegevoegd notaris, indien deze na de beëindiging van zijn toevoeging niet werkzaam is geweest als kandidaat-notaris.
 
-3. Indien de gedefungeerde notaris of de gewezen kandidaat-notaris ambtshalve benoemd is tot waarnemer, behoudt hij de hoedanigheid van kandidaat-notaris gedurende één jaar na het einde van de laatste waarnemingsperiode.
+3. Indien de gedefungeerde notaris of de gewezen toegevoegd notaris of kandidaat-notaris ambtshalve benoemd is tot waarnemer, behoudt hij de hoedanigheid van kandidaat-notaris gedurende één jaar na het einde van de laatste waarnemingsperiode.
 
-4. De gedefungeerde notaris, de gewezen kandidaat-notaris of de ambtshalve benoemde waarnemer die gedurende een jaar waarnemingsbevoegd wil blijven, geeft binnen een week na defungeren of de beëindiging van de notariële werkzaamheden of de waarneming, kennis aan de KNB dat hij de hoedanigheid van kandidaat-notaris wenst te verkrijgen onderscheidenlijk wenst te behouden. De KNB zendt de gedefungeerde notaris of de gewezen kandidaat-notaris een bewijs van ontvangst van de kennisgeving en doet terstond mededeling aan de kamer van toezicht in het arrondissement waarbinnen de notaris of de kandidaat-notaris gevestigd was.
+4. De gedefungeerde notaris, de gewezen toegevoegd notaris of kandidaat-notaris of de ambtshalve benoemde waarnemer die gedurende een jaar waarnemingsbevoegd wil blijven, geeft binnen een week na defungeren of de beëindiging van de notariële werkzaamheden of de waarneming, kennis aan de KNB dat hij de hoedanigheid van kandidaat-notaris wenst te verkrijgen onderscheidenlijk wenst te behouden. De KNB zendt de gedefungeerde notaris of de gewezen toegevoegd notaris of kandidaat-notaris een bewijs van ontvangst van de kennisgeving.
 
 ## Titel IV. De stage, de registratie van de werktijd en de beroepsopleiding van de kandidaat-notaris
 
@@ -1464,7 +1498,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 45a
 
-1. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2012-01-01&g=2012-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=20&z=2012-01-01&g=2012-01-01), [40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=40&z=2012-01-01&g=2012-01-01), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=45&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op een bijhoudingsverklaring als bedoeld in [artikel 46a van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a).
+1. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=19&z=2013-01-01&g=2013-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=20&z=2013-01-01&g=2013-01-01), [40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=40&z=2013-01-01&g=2013-01-01), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=45&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op een bijhoudingsverklaring als bedoeld in [artikel 46a van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a).
 
 2. De notaris zendt een afschrift van de bijhoudingsverklaring, bedoeld in het eerste lid, aan partijen, nadat hij op de oorspronkelijke akte een aantekening heeft gesteld van het opmaken van die bijhoudingsverklaring onder vermelding van de datum ervan.
 
@@ -1494,13 +1528,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 113a
 
-1. De notarissen en kandidaat-notarissen zijn verplicht deel te nemen in de Stichting Notarieel Pensioenfonds, gevestigd te ’s-Gravenhage.
+1. De notarissen, toegevoegd notarissen en kandidaat-notarissen zijn verplicht deel te nemen in de Stichting Notarieel Pensioenfonds, gevestigd te ’s-Gravenhage.
 
-2. In het bestuur van het fonds moeten notarissen en kandidaat-notarissen zitting hebben.
+2. In het bestuur van het fonds moeten notarissen, toegevoegd notarissen en kandidaat-notarissen zitting hebben.
 
 3. Met kandidaat-notarissen worden gelijkgesteld degenen die werkzaam zijn bij een door Onze Minister, gehoord het bestuur van het fonds, op haar verzoek aangewezen instelling, die de behartiging van notariële belangen beoogt. Bij algemene maatregel van bestuur worden nadere regelen vastgesteld omtrent de aanwijzing van een instelling en de beëindiging van zodanige aanwijzing.
 
-4. Notarissen, kandidaat-notarissen en overeenkomstig het derde lid aangewezen instellingen, alsmede degenen, die rechten op uitkering ontlenen aan het pensioenreglement zijn verplicht tot naleving van het bij of krachtens de statuten en de reglementen van het fonds te hunnen aanzien bepaalde.
+4. Notarissen, toegevoegd notarissen, kandidaat-notarissen en overeenkomstig het derde lid aangewezen instellingen, alsmede degenen, die rechten op uitkering ontlenen aan het pensioenreglement zijn verplicht tot naleving van het bij of krachtens de statuten en de reglementen van het fonds te hunnen aanzien bepaalde.
 
 ##### Artikel 113b
 
@@ -1514,7 +1548,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2), [20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=21), [22 tot en met 106](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=22), [110 tot en met 213](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110) en [214, tweede en vijfde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214) zijn van toepassing.
 
-2. [Artikel 19 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=19) is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IXa&artikel=113a&z=2012-01-01&g=2012-01-01) van de Wet op het notarisambt.
+2. [Artikel 19 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=19) is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van [artikel 113a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IXa&artikel=113a&z=2013-01-01&g=2013-01-01) van de Wet op het notarisambt.
 
 3. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=17) en [214, derde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214) zijn van overeenkomstige toepassing.
 
@@ -1524,11 +1558,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 25a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij regeling van Onze Minister kan aan notarissen de plicht worden opgelegd tot het doen van een melding aan het Bureau indien er zich, in de regeling nader aan te duiden, gebeurtenissen voordoen die aanmerkelijke nadelige gevolgen kunnen hebben voor de financiële positie van een notaris.
 
 ##### Artikel 25b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de continuïteit van de praktijk van een notaris vanwege de wijze van bedrijfsvoering in gevaar dreigt te komen, kan door de voorzitter van de kamer voor het notariaat, ambtshalve naar aanleiding van een klacht dan wel op verzoek van de KNB of het Bureau, na verhoor en behoorlijke oproeping van de notaris, voor een periode van maximaal een jaar een stille bewindvoerder worden benoemd. [Artikel 27, eerste lid, tweede tot en met vierde volzin, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=27&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+
+2. De stille bewindvoerder geeft de notaris advies en begeleiding bij zijn bedrijfsvoering en is tevens bevoegd om daaromtrent bindende aanwijzingen aan de notaris te geven.
+
+3. Bij de benoeming wordt een honorarium vastgesteld dat ten laste komt van de notaris.
+
+4. De kamer voor het notariaat of zijn voorzitter kan instructies geven aan de bewindvoerder met betrekking tot de bewindvoering.
+
+5. De kamer voor het notariaat of zijn voorzitter kan de bewindvoering te allen tijde opschorten of beëindigen.
 
 ## Titel V. De akten, minuten, grossen en afschriften
 
@@ -1542,7 +1584,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Op het verrichten van de kwaliteitstoetsen en de krachtens het eerste lid aangewezen personen, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14), [5:15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
 
-3. Ten behoeve van het verrichten van de kwaliteitstoetsen door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2012-01-01&g=2012-01-01).
+3. Ten behoeve van het verrichten van de kwaliteitstoetsen door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01).
 
 4. Bij verordening worden nadere regels gesteld betreffende het verrichten van de kwaliteitstoetsen.
 
@@ -1550,7 +1592,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 6. De geldmiddelen van de KNB
 
-### Afdeling 7. De verordeningen en andere besluiten van de KNB
+### Afdeling 6. De geldmiddelen van de KNB
 
 ## Titel IX. Het toezicht over de notarissen en kandidaat-notarissen en de tuchtrechtspraak, alsmede het financiële toezicht
 
@@ -1558,25 +1600,141 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 99a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De voorzitter van de kamer voor het notariaat kan naar aanleiding van een klacht een vooronderzoek gelasten naar een notaris, toegevoegd notaris of kandidaat-notaris, na afloop waarvan verslag wordt uitgebracht aan de kamer. Het Bureau ontvangt een afschrift van het verslag en alle daarbij behorende stukken.
+
+2. De voorzitter kan het verrichten van het vooronderzoek opdragen aan een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.
+
+3. De voorzitter bepaalt de omvang van het vooronderzoek. Het vooronderzoek kan zich mede uitstrekken tot andere dan de in de klacht vermelde feiten. De voorzitter van de kamer kan de vooronderzoeker aanwijzingen geven.
+
+4. Op het vooronderzoek en de in het tweede lid bedoelde personen zijn [artikel 111a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=2&artikel=111a&z=2013-01-01&g=2013-01-01), alsmede de [artikelen 5:13 tot en met 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
+
+5. Ten behoeve van het verrichten van het vooronderzoek door de aangewezen personen, bedoeld in het tweede lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01).
+
+6. Bij het verrichten van vooronderzoek wordt een afschrift van de last tot het verrichten van het onderzoek zo mogelijk aan de betrokken notaris, toegevoegd notaris of kandidaat-notaris getoond.
+
+7. De vooronderzoeker stelt de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te worden gehoord.
+
+8. De betrokkene is niet verplicht ten behoeve van het vooronderzoek verklaringen omtrent zijn onderzochte handelen of nalaten af te leggen. Voor het horen wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.
+
+9. Indien de klacht is ingediend door het Bureau, wordt het vooronderzoek niet opgedragen aan degenen die betrokken waren bij de uitoefening van het toezicht dat aanleiding gaf tot de indiening van de klacht.
+
+10. Een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.
+
+11. De voorzitter kan het vooronderzoek te allen tijde opschorten of beëindigen.
 
 ##### Artikel 103a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De geldboete, bedoeld in [artikel 103, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01), bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+
+2. De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de notaris, toegevoegd notaris of kandidaat-notaris kan de voorzitter van de kamer voor het notariaat de termijn verlengen.
+
+3. Het bedrag van de opgelegde boete komt ten bate van de Staat.
+
+4. Wordt de boete niet voldaan binnen de termijn, krachtens het tweede lid gesteld, dan kan de kamer, na de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen een of meer tuchtrechtelijke maatregelen op te leggen als bedoeld in [artikel 103, eerste lid, onderdelen c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01), de maatregel als bedoeld in artikel 103, derde lid, laatste deelzin.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de invordering van de geldboete.
 
 ### Afdeling 2. Het financiële toezicht
 
 ##### Artikel 111a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De bij besluit van het bestuur van het Bureau aangewezen personen die werkzaam zijn bij het Bureau, zijn belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet. Van dat besluit wordt mededeling gedaan in de Staatscourant.
+
+2. In aanvulling op [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is een toezichthouder als bedoeld in het eerste lid, bevoegd om inzage te vorderen in persoonlijke gegevens en bescheiden, voorzover deze betrekking hebben op de persoonlijke financiële administratie van de notaris.
+
+3. Ten behoeve van de uitoefening van het toezicht door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=22&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 111b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien het Bureau bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die naar zijn oordeel voldoende grond opleveren voor het opleggen van een tuchtmaatregel, kan het een klacht indienen, tenzij toepassing wordt gegeven aan het tweede lid .
+
+2. Het Bureau kan voor de overtreding van het bepaalde bij of krachtens de [artikelen 24, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=24&z=2013-01-01&g=2013-01-01), en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=25a&z=2013-01-01&g=2013-01-01), de overtreder een bestuurlijke boete en een last onder dwangsom opleggen.
+
+3. De bestuurlijke boete bedraagt ten hoogste het bedrag van de geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+
+4. Een bestuurlijke boete wordt niet opgelegd indien tegen de overtreder jegens dezelfde gedraging een klacht is ingediend.
 
 ##### Artikel 111c
 
-Dit onderdeel is nog niet inwerking getreden
+De ambtenaren van de rijksbelastingdienst doen van hetgeen hen bij de uitvoering van hun taak betreffende de persoon of de zaken van een notaris, toegevoegd notaris of kandidaat-notaris blijkt of hun meegedeeld wordt, terstond mededeling aan het Bureau, indien het een handelen of nalaten betreft dat, gelet op [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=93&z=2013-01-01&g=2013-01-01), aanleiding kan zijn voor de indiening van een klacht.
+
+## Titel IXa. Het Notarieel Pensioenfonds
+
+## Titel X. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 30b
+
+1. Een notaris kan, met goedkeuring van Onze Minister, een kandidaat-notaris aanwijzen als een aan hem toegevoegd notaris. Het aantal toegevoegd notarissen per notaris bedraagt ten hoogste drie.
+
+2. De toegevoegd notaris is bevoegd om namens, onder verantwoordelijkheid en toezicht van de notaris handelingen te verrichten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=2&z=2013-01-01&g=2013-01-01). De notaris beschikt over een exclusieve instructiebevoegdheid ten aanzien van de notariële werkzaamheden van de toegevoegd notaris.
+
+3. De toegevoegd notaris is vaste waarnemer als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=29&z=2013-01-01&g=2013-01-01), teneinde de notaris te vervangen in de in [artikel 28, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=28&z=2013-01-01&g=2013-01-01), bedoelde gevallen.
+
+4. In geval van waarneming neemt de waarnemer de toevoeging waar, tenzij de toegevoegd notaris zelf als waarnemer optreedt.
+
+5. De toegevoegd notaris gebruikt een zegel dat gelijk is aan het zegel van de notaris, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=V&artikel=51&z=2013-01-01&g=2013-01-01), met dien verstande dat hierop tevens zijn eigen naam en hoedanigheid zijn vermeld. De door de toegevoegd notaris opgemaakte minuten behoren tot het protocol van de notaris.
+
+6. Tot het voeren van de titel toegevoegd notaris is uitsluitend bevoegd hij die overeenkomstig het eerste lid als zodanig is aangewezen en wiens toevoeging niet is beëindigd of opgeschort.
+
+##### Artikel 30c
+
+1. Een kandidaat-notaris komt in aanmerking voor toevoeging aan een notaris indien hij voldoet aan de voorwaarden van [artikel 6, met uitzondering van het tweede lid, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=6&z=2013-01-01&g=2013-01-01), en indien wordt voldaan aan de voorwaarden die volgen uit [artikel 30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30b&z=2013-01-01&g=2013-01-01).
+
+2. Het verzoek om goedkeuring van de toevoeging wordt ingediend door de notaris en de kandidaat-notaris gezamenlijk. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=8&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing, met dien verstande dat de bij het verzoek over te leggen bewijsstukken tevens betrekking hebben op de vervulling van de voorwaarden die volgen uit [artikel 30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30b&z=2013-01-01&g=2013-01-01), en dat het advies van de Commissie toegang notariaat tevens ziet op de vraag of aan deze voorwaarden wordt voldaan. Aan de goedkeuring kunnen nadere voorwaarden worden verbonden.
+
+3. De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in het arrondissement waarin de kamer voor het notariaat is gevestigd waaronder de notaris aan wie hij wordt toegevoegd ressorteert.[Artikel 3, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=II&artikel=3&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 30d
+
+1. De toevoeging eindigt van rechtswege door:
+
+- a. opzegging dan wel het eindigen van de arbeidsovereenkomst van de toegevoegd notaris of schorsing in zijn werkzaamheden door zijn werkgever;
+
+- b. ontzetting uit het ambt, ontslag of overlijden van de notaris;
+
+- c. onherroepelijke oplegging aan de notaris van een ontzegging van de bevoegdheid tot het aanwijzen van een toegevoegd notaris als bedoeld in [artikel 103, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01);
+
+- d. onherroepelijke oplegging aan de toegevoegd notaris van een ontzegging in de bevoegdheid om als toegevoegd notaris op te treden als bedoeld in [artikel 103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IX&afdeling=1&artikel=103&z=2013-01-01&g=2013-01-01);
+
+- e. benoeming van de toegevoegd notaris tot notaris.
+
+2. Indien de toevoeging op grond van het eerste lid, onderdelen b of c, is geëindigd, kan de voorzitter van kamer voor het notariaat bij de benoeming van een waarnemer als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=III&artikel=29&z=2013-01-01&g=2013-01-01), de desbetreffende kandidaat-notaris met diens instemming aanwijzen als aan de waarnemer toegevoegd notaris, voor de duur van de waarneming.
+
+3. Onverminderd het bepaalde in het eerste lid, onderdeel c, wordt de toevoeging opgeschort met het ingaan van de schorsing van de notaris in de uitoefening van het ambt. De opschorting eindigt met de benoeming van een waarnemer dan wel door beëindiging van de schorsing.
+
+4. Onze minister kan de toevoeging intrekken:
+
+- a. op verzoek van de toegevoegd notaris;
+
+- b. indien er sprake is van andere omstandigheden dan bedoeld in het eerste lid waardoor niet langer wordt voldaan aan de voorwaarden voor toevoeging die volgen uit [artikel 30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30b&z=2013-01-01&g=2013-01-01), en aan de voorwaarden als bedoeld in [artikel 30c, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&titeldeel=IIIa&artikel=30c&z=2013-01-01&g=2013-01-01).
+
+5. Indien er zich feiten of omstandigheden voordoen die ingevolge het eerste lid leiden tot beëindiging van de toevoeging van rechtswege, of ingevolge het vierde lid grond kunnen vormen voor intrekking van de toevoeging, doen de notaris en de toegevoegd notaris daarvan onverwijld mededeling aan de KNB en Onze Minister.
+
+## Titel IV. De stage, de registratie van de werktijd en de beroepsopleiding van de kandidaat-notaris
+
+## Titel V. De akten, minuten, grossen en afschriften
+
+## Titel VI. De kosten van de ambtelijke werkzaamheden
+
+## Titel VII. De notariële archieven
+
+## Titel VIII. De Koninklijke Notariële Beroepsorganisatie
+
+### Afdeling 1. De organisatie van de KNB
+
+### Afdeling 2. Het bestuur van de KNB
+
+### Afdeling 3. De ledenraad
+
+### Afdeling 7. De verordeningen en andere besluiten van de KNB
+
+## Titel IX. De tuchtrechtspraak en het toezicht
+
+### Afdeling 1. De tuchtrechtspraak
+
+### Afdeling 2. Het toezicht
 
 ## Titel IXa. Het Notarieel Pensioenfonds
 
