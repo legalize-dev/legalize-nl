@@ -4,7 +4,7 @@ identifier: "BWBR0013371"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2010-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013371"
 soort: "AMvB"
@@ -102,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 1. Onze Minister verleent op aanvraag een bijdrage in de kosten die voortvloeien uit het verlenen van bijstand bij de bestrijding van rampen in België of Duitsland ingevolge de met deze landen gesloten overeenkomsten.
 
-2. De aanvraag kan worden ingediend door de colleges van burgemeester en wethouders, de besturen van de veiligheidsregio’s, het Nederlandse Rode Kruis, alsmede de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=33), die bij de bijstand waren betrokken.
+2. De aanvraag kan worden ingediend door de colleges van burgemeester en wethouders, de besturen van de veiligheidsregio’s, het Nederlandse Rode Kruis, alsmede de in de regio werkzame instellingen, zorgaanbieders, Regionale Ambulancevoorzieningen en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=33), die bij de bijstand waren betrokken.
 
 3. Voor een bijdrage als bedoeld in het eerste lid, komen in aanmerking:
 
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2010-10-01&g=2010-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2010-10-01&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2010-10-01&g=2010-10-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp en de gevolgen daarvan ingediend bij Onze Minister.
+1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp en de gevolgen daarvan ingediend bij Onze Minister.
 
 2. De aanvraag gaat vergezeld van de opgave van de kosten, welke is voorzien van bewijsstukken, alsmede een verslag van de gebeurtenissen.
 
