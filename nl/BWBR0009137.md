@@ -4,7 +4,7 @@ identifier: "BWBR0009137"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "1997-12-24"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009137"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Het politielogo wordt door de regionale politiekorpsen slechts gebruikt overeenkomstig de beschrijving en afbeelding van het politielogo in hoofdstuk 2 van het handboek.
+Het politielogo wordt door de politie slechts gebruikt overeenkomstig de beschrijving en afbeelding van het politielogo in hoofdstuk 2 van het handboek.
 
 ##### Artikel 3
 
-1. Het politielogo wordt door de regionale politiekorpsen in ieder geval aangebracht op:
+1. Het politielogo wordt door de politie in ieder geval aangebracht op:
 
 - a. de gebouwen van politie;
 
@@ -72,11 +72,11 @@ Het politielogo wordt door de regionale politiekorpsen slechts gebruikt overeenk
 
 ##### Artikel 4
 
-In het geval een regionaal politiekorps de huisstijl uit het handboek toepast, geschiedt dit overeenkomstig de beschrijving en afbeelding in het handboek.
+In het geval de politie de huisstijl uit het handboek toepast, geschiedt dit overeenkomstig de beschrijving en afbeelding in het handboek.
 
 ##### Artikel 5
 
-Na de inwerkingtreding van deze regeling berusten de krachtens de Regeling politielogo van 25 maart 1994, gewijzigd 25 okotober 1994, (Stcrt. 1994, 64 en Stcrt. 1994, 218) vastgestelde besluiten op deze regeling.
+Vervallen
 
 ##### Artikel 6
 
@@ -89,6 +89,16 @@ Deze regeling wordt aangehaald als: Regeling politielogo.
 ##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+## Bijlage
+
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.
+
+##### Artikel 7a
+
+Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30).
 
 ## Bijlage
 
