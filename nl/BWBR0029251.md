@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -74,23 +74,23 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-De rapportage, bedoeld in [artikel 5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2010-12-25&g=2012-01-01).
+De rapportage, bedoeld in [artikel 5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2010-12-25&g=2013-01-01).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2012-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2010-12-25&g=2012-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2010-12-25&g=2012-01-01).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2010-12-25&g=2013-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2010-12-25&g=2013-01-01).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2012-01-01).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01).
 
 #### § 4. Herziening
 
 ##### Artikel 6
 
-Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2010-12-25&g=2012-01-01) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2012-01-01), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
+Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2010-12-25&g=2013-01-01) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
 
 #### § 5. Slotbepalingen
 
@@ -112,39 +112,41 @@ Deze regeling wordt aangehaald als: Regeling informatieverstrekking sisa.
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
 
-## Bijlage 2
+## Bijlage 1
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 3. Procedure aanlevering SiSa-verantwoordingsinformatie 2012
+## Bijlage 2
+
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
 
 op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2012-01-01) van de Regeling informatieverstrekking sisa
 
 ### Inhoudsopgave
 
+### Inhoudsopgave
+
 ### 1. Inleiding
 
-### Wat is SiSa?
+SiSa is een afkorting van Single information, Single audit: eenmalige informatieverstrekking, eenmalige accountantscontrole. SiSa is de manier waarop medeoverheden (provincies, gemeenten en gemeenschappelijke regelingen) per jaar verantwoorden over de besteding van specifieke uitkeringen. Om de lasten van de verantwoording zo laag mogelijk te houden, is SiSa volledig ingebed in het reguliere jaarrekeningproces van de medeoverheden. Het principe van SiSa wordt sinds 2006 toegepast op de verantwoording van specifieke uitkeringen.
 
 SiSa is een afkorting van Single information, Single audit: eenmalige informatieverstrekking, eenmalige accountantscontrole. SiSa is de manier waarop medeoverheden (provincies, gemeenten en gemeenschappelijke regelingen) per jaar verantwoorden over de besteding van specifieke uitkeringen. Om de lasten van de verantwoording zo laag mogelijk te houden, is SiSa volledig ingebed in het reguliere jaarrekeningproces van de medeoverheden. Het principe van SiSa wordt sinds 2006 toegepast op de verantwoording van specifieke uitkeringen.
 
 Het doel van deze nota is de procedure voor betrokken partijen te beschrijven. Daarom wordt ingegaan op vragen als door wie, wanneer, hoe en aan wie welke informatie wordt geleverd. Daarnaast gaat de nota in op de rol van het Centraal Bureau voor de Statistiek (CBS), de controles die het CBS uitvoert en hoe de doorlevering van de aangeleverde verantwoordingsinformatie aan de verstrekkers van specifieke uitkeringen plaatsvindt. Ook worden de maatregelen beschreven die ervoor moeten zorgen dat de verantwoordingsinformatie volgens de gestelde eisen wordt verstrekt.
 
-De nota is van toepassing op de specifieke uitkeringen die zijn opgenomen in de SiSa-bijlage verantwoordingsinformatie 2012 als onderdeel van de toelichting op de jaarrekening 2012.
-
 ### De procedure
 
 Om de verantwoordingen van de ongeveer 600 medeoverheden over specifieke uitkeringen via SiSa in goede banen te leiden, heeft het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), als coördinator van dit proces een procedure ingericht waarmee de verantwoordingsinformatie vanuit de ontvangers van specifieke uitkeringen wordt aangeleverd aan de verstrekkers van specifieke uitkeringen.
 
-Figuur 1.1 bevat een overzicht van de elf afzonderlijke stappen waaruit deze procedure bestaat. De procedure loopt vanaf het moment dat een verstrekker van een specifieke uitkering een beschikking afgeeft (stap 0), tot het moment dat de verstrekker over kan gaan tot afrekening (stap 10). Bijlage 1 bevat een overzicht van de acties binnen deze stappen in de tijd.
+Om de verantwoordingen van de ongeveer 600 medeoverheden over specifieke uitkeringen via SiSa in goede banen te leiden, heeft het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), als coördinator van dit proces een procedure ingericht waarmee de verantwoordingsinformatie vanuit de ontvangers van specifieke uitkeringen wordt aangeleverd aan de verstrekkers van specifieke uitkeringen.
 
 ### Voor wie is deze nota bedoeld?
 
 Deze procedure is van belang voor **alle** medewerkers bij (mede)overheden die te maken hebben met specifieke uitkeringen en in het bijzonder de medewerkers die te maken hebben met het aanleveren van de SiSa-verantwoordingsinformatie en het ontvangen van deze informatie. Deze medewerkers kunnen werken bij een gemeente, provincie, gemeenschappelijke regeling of een ministerie.
 
-Deze procedurebeschrijving is ook van belang voor de accountants en voor de bestuursleden van de medeoverheden, niet alleen om inzicht te krijgen in het proces dat doorlopen wordt, maar ook omdat hoofdstuk 5 het maatregelenbeleid bevat dat in werking treedt als niet aan de voorwaarden van het proces wordt voldaan.
+Deze procedure is van belang voor **alle** medewerkers bij (mede)overheden die te maken hebben met specifieke uitkeringen en in het bijzonder de medewerkers die te maken hebben met het aanleveren van de SiSa-verantwoordingsinformatie en het ontvangen van deze informatie. Deze medewerkers kunnen werken bij een gemeente, provincie, gemeenschappelijke regeling of een ministerie.
 
 ### Rollen en verantwoordelijkheden
 
@@ -154,23 +156,25 @@ Bijlage 2 bevat een volledig overzicht van de rollen en verantwoordelijkheden.
 
 De hoofdregel is dat alle medeoverheden die een specifieke uitkering ontvangen, of direct van het ministerie, of indirect van een provincie of gemeente, verantwoorden via SiSa. Een medeoverheid kan zijn een gemeente, een provincie of een openbaar lichaam opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
 
-SiSa kent in 2012 vier verschillende vormen waarin de medeoverheden die de rollen van verstrekker en ontvanger vervullen, kunnen variëren. Bijlage 3 bevat een verdere uitwerking van deze vormen. De procedure beschreven in deze nota geldt voor álle verstrekkers en álle ontvangers, ongeacht volgens welke SiSa-vorm zij in aanmerking komen voor een specifieke uitkering.
+De hoofdregel is dat alle medeoverheden die een specifieke uitkering ontvangen, of direct van het ministerie, of indirect van een provincie of gemeente, verantwoorden via SiSa. Een medeoverheid kan zijn een gemeente, een provincie of een openbaar lichaam opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
 
 ### Verschil SiSa 2012 ten opzichte van SiSa 2011
 
 Zowel ingestoken vanuit lopende ontwikkelingen in het proces als ingegeven vanuit de tegenvallende resultaten van de single review 2010 en het daar op volgende plan van aanpak SiSa, heeft het ministerie van BZK de afgelopen maanden hard gewerkt om SiSa 2012 soepeler te laten verlopen. Naast de herziening van de lay-out van de nota procedure is het volgende gewijzigd in de inhoud:
 
-Formeel is de ‘nota procedure aanlevering verantwoordingsinformatie 2011’ niet vervallen met de komst van deze nota, net als deze nota niet komt te vervallen als het ministerie van BZK een ‘procedure aanlevering verantwoordingsinformatie 2013’ opstelt. Dit onderscheid is vooral van belang bij herziene aanleveringen: een correctie op de verantwoordingsinformatie over een bepaald jaar. Voor deze herziene aanleveringen blijven de stappen gelden die voor dat jaar van toepassing waren.4Op grond van artikel 7a van de Regeling informatieverstrekking SiSa.
+Zowel ingestoken vanuit lopende ontwikkelingen in het proces als ingegeven vanuit de tegenvallende resultaten van de single review 2010 en het daar op volgende plan van aanpak SiSa, heeft het ministerie van BZK de afgelopen maanden hard gewerkt om SiSa 2012 soepeler te laten verlopen. Naast de herziening van de lay-out van de nota procedure is het volgende gewijzigd in de inhoud:
 
 ### 2. Procedure aanlevering 15 juli
 
-### Stap 0. Beschikking
+### 2. Procedure aanlevering 15 juli
 
 Het opstellen van een beschikking op grond waarvan een medeoverheid in aanmerking komt voor een specifieke uitkering, is de verantwoordelijkheid van de verstrekker van de betreffende specifieke uitkering. Verstrekkers kunnen zijn ministeries, provincies, gemeenten en in een enkel geval een gemeenschappelijke regeling.
 
-Het opstellen van deze beschikkingen is de verantwoordelijkheid van deze verstrekkers en blijft buiten de bemoeienis van het ministerie van BZK. Het ministerie van BZK heeft ook geen inzicht in alle beschikkingen die door de diverse verstrekkers worden verstuurd. Bij vragen over een bepaalde beschikking dient u dan ook direct contact op te nemen met de betreffende verstrekker.
+Het opstellen van een beschikking op grond waarvan een medeoverheid in aanmerking komt voor een specifieke uitkering, is de verantwoordelijkheid van de verstrekker van de betreffende specifieke uitkering. Verstrekkers kunnen zijn ministeries, provincies, gemeenten en in een enkel geval een gemeenschappelijke regeling.
 
 ### Stap 1. Voorbereiding aanlevering
+
+Let bij het uitvoeren van stap 1a op het volgende:
 
 Let bij het uitvoeren van stap 1a op het volgende:
 
@@ -184,23 +188,23 @@ De plausibiliteitstoets van het CBS (zie stap 6) betreft alleen de basisinformat
 
 De SiSa-bijlage verantwoordingsinformatie5Op grond van artikel 3.1 Regeling informatieverstrekking SiSa ex artikel 17a, lid 3 Fvw. is het document waarmee medeoverheden verantwoording afleggen over specifieke uitkeringen. Deze bijlage wordt jaarlijks vastgesteld door de medeoverheid als onderdeel van de jaarstukken.
 
-Het format voor deze SiSa-bijlage verantwoordingsinformatie is een Excel bestand en bevat de specifieke uitkeringen waarover medeoverheden verantwoording kunnen afleggen en per specifieke uitkering de te verantwoorden elementen (indicatoren) waarin gevraagd wordt naar de feitelijke verantwoordingsinformatie. Dit format bevat alle mogelijke regelingen en maakt dus geen onderscheid naar de regelingen die wel of niet van toepassing zijn voor een bepaalde medeoverheid. Bij de SiSa-bijlage verantwoordingsinformatie hoort ook een invulwijzer met daarin een toelichting per indicator uit de SiSa-bijlage verantwoordingsinformatie. Omstreeks 1 november van het jaar T publiceert het ministerie van BZK een conceptversie van het format voor de SiSa-bijlage verantwoordingsinformatie op de website.
-
 ### Stap 2. Samenstellen en vaststellen aan te leveren stukken
+
+Het is de verantwoordelijkheid van medeoverheden om elk jaar een jaarrekening en jaarverslag op te stellen.6Provinciale staten/gemeenteraad/algemeen bestuur van de gemeenschappelijke regeling zijn verantwoordelijk voor de vaststelling van de verantwoordingsinformatie op grond van artikel 202 Provinciewet respectievelijk artikel 198 Gemeentewet en de artikelen 34, 47, en 58 van de wet gemeenschappelijke regelingen. Het is daarnaast de verantwoordelijkheid van de medeoverheid om een accountant opdracht te geven de jaarstukken (jaarrekening en jaarverslag) te laten controleren. De accountant stelt een controleverklaring en een verslag van bevindingen op.
 
 Het is de verantwoordelijkheid van medeoverheden om elk jaar een jaarrekening en jaarverslag op te stellen.6Provinciale staten/gemeenteraad/algemeen bestuur van de gemeenschappelijke regeling zijn verantwoordelijk voor de vaststelling van de verantwoordingsinformatie op grond van artikel 202 Provinciewet respectievelijk artikel 198 Gemeentewet en de artikelen 34, 47, en 58 van de wet gemeenschappelijke regelingen. Het is daarnaast de verantwoordelijkheid van de medeoverheid om een accountant opdracht te geven de jaarstukken (jaarrekening en jaarverslag) te laten controleren. De accountant stelt een controleverklaring en een verslag van bevindingen op.
 
 De tabel van fouten en onzekerheden7Op grond van artikel 3.2 Regeling informatieverstrekking SiSa ex artikel 17a, lid 3 Fvw. is het document waarin de accountant informatie opneemt over geconstateerde fouten en onzekerheden met betrekking tot de SiSa verantwoordingsinformatie. Het format voor deze tabel wordt, net als het format voor de SiSa-bijlage verantwoordingsinformatie, jaarlijks vastgesteld. Het format voor de tabel van fouten en onzekerheden is een Excel bestand en bevat alle specifieke uitkeringen die in een bepaald jaar aan de orde zijn. Per specifieke uitkering bevat dit format ruimte waarin de accountant aangeeft welke fouten en onzekerheden zijn aangetroffen bij de controle. Het format voor de tabel van fouten en onzekerheden wordt jaarlijks gepubliceerd op www.rijksoverheid.nl/sisa en aangekondigd in de nieuwsbrief.
 
-Let bij het uitvoeren van stap 2 op het volgende:
-
 ### Stap 3. Versturen inloggegevens voor uploaden
 
 De indiening van verantwoordingsinformatie (het uploaden) bij het CBS gebeurt aan de hand van inloggegevens die uniek zijn per medeoverheid en per jaar. Jaarlijks, rond 15 mei van jaar T+1, stuurt het CBS de inloggegevens voor het uploaden van de verantwoordingsinformatie van jaar T naar het adressenbestand van SiSa-contactfunctionarissen dat het ministerie van BZK hiervoor bijhoudt. Zonder inloggegevens voor uploaden is het niet mogelijk de verantwoordings-informatie in te dienen.
 
-Let bij het uitvoeren van stap 3 op het volgende:
+De indiening van verantwoordingsinformatie (het uploaden) bij het CBS gebeurt aan de hand van inloggegevens die uniek zijn per medeoverheid en per jaar. Jaarlijks, rond 15 mei van jaar T+1, stuurt het CBS de inloggegevens voor het uploaden van de verantwoordingsinformatie van jaar T naar het adressenbestand van SiSa-contactfunctionarissen dat het ministerie van BZK hiervoor bijhoudt. Zonder inloggegevens voor uploaden is het niet mogelijk de verantwoordings-informatie in te dienen.
 
 ### Stap 4. Aanlevering door medeoverheden bij CBS
+
+Het aanleverproces van de verantwoordingsinformatie gebeurt via een grotendeels elektronisch proces waarbij de ontvanger van de specifieke uitkering de verantwoordingsdocumenten via een website aanlevert bij het CBS. Het CBS beoordeelt of de aangeleverde informatie aan bepaalde vormvereisten voldoet. Pas na goedkeuring van deze vormvereisten levert het CBS de informatie door aan de verstrekker en is het proces van aanlevering afgerond. Het CBS controleert niet of de aangeleverde informatie inhoudelijk juist is. De beoordeling van de inhoud ten behoeve van de financiële vaststelling ligt bij de verstrekker van de specifieke uitkering en vindt plaats bij stap 10, voor 31 december 2012.
 
 Het aanleverproces van de verantwoordingsinformatie gebeurt via een grotendeels elektronisch proces waarbij de ontvanger van de specifieke uitkering de verantwoordingsdocumenten via een website aanlevert bij het CBS. Het CBS beoordeelt of de aangeleverde informatie aan bepaalde vormvereisten voldoet. Pas na goedkeuring van deze vormvereisten levert het CBS de informatie door aan de verstrekker en is het proces van aanlevering afgerond. Het CBS controleert niet of de aangeleverde informatie inhoudelijk juist is. De beoordeling van de inhoud ten behoeve van de financiële vaststelling ligt bij de verstrekker van de specifieke uitkering en vindt plaats bij stap 10, voor 31 december 2012.
 
@@ -208,9 +212,9 @@ Het ministerie van BZK stuurt rond 1 juni (T+1) een attenderingsbrief aan de med
 
 ¹ Gedeputeerde staten/college van burgemeester en wethouders/dagelijks bestuur van de gemeenschappelijke regeling (hierna: het bestuur van de medeoverheid) zijn verantwoordelijk voor de tijdige en plausibele aanlevering van de verantwoordingsinformatie op grond van [artikel 17a, eerste en tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=47a) en [58a van de wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=58a).
 
-Let bij het uitvoeren van stap 4 op het volgende:
-
 ### Stap 4.1. Vier Pdf-bestanden
+
+De aanbiedingsbrief is gericht aan de minister van BZK en ondertekend door het dagelijks bestuur9Afhankelijk van het type medeoverheid betreft dit gedeputeerde staten, college van burgemeester en wethouders en dagelijks bestuur van de gemeenschappelijke regeling. van de medeoverheid. De ondertekening omvat de namen, handtekening en functie van de ondertekenaars en, indien sprake is van een mandaat, ook de vermelding ‘namens/voor deze’.10De richtlijnen voor de ondertekening zijn te vinden in artikel 59a van de Gemeentewet en Provinciewet; artikel 168 van de Gemeentewet; artikel 166 van de Provinciewet en overeenkomstige bepalingen in Wet gemeenschappelijke regelingen. In bijlage 4 zijn voorbeelden van deze aanbiedingsbrief te vinden.
 
 De aanbiedingsbrief is gericht aan de minister van BZK en ondertekend door het dagelijks bestuur9Afhankelijk van het type medeoverheid betreft dit gedeputeerde staten, college van burgemeester en wethouders en dagelijks bestuur van de gemeenschappelijke regeling. van de medeoverheid. De ondertekening omvat de namen, handtekening en functie van de ondertekenaars en, indien sprake is van een mandaat, ook de vermelding ‘namens/voor deze’.10De richtlijnen voor de ondertekening zijn te vinden in artikel 59a van de Gemeentewet en Provinciewet; artikel 168 van de Gemeentewet; artikel 166 van de Provinciewet en overeenkomstige bepalingen in Wet gemeenschappelijke regelingen. In bijlage 4 zijn voorbeelden van deze aanbiedingsbrief te vinden.
 
@@ -218,15 +222,15 @@ In de aanbiedingsbrief verklaart het dagelijks bestuur dat:
 
 In de controleverklaring kan in plaats van een fysieke ondertekening ook de aanduiding ‘was getekend’ en ‘origineel getekend’ worden opgenomen, zie ook [artikel 4 van het Bado](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=4). Het model dat in artikel 4 Bado wordt genoemd moet nog worden geactualiseerd. Zolang dat nog niet is gebeurd is op www.rijksoverheid.nl een modelverklaring te vinden.
 
-Het verslag van bevindingen van de accountant bevat de tabel met fouten en onzekerheden over specifieke uitkeringen.
-
 ### Stap 4.2. Twee Excel-documenten15Het is ook mogelijk om ods-versie van de Exceltabellen te gebruiken voor de indiening bij het CBS. Ook deze ods-versie zijn te vinden op www.rijksoverheid.nl/sisa.
 
 Bedoeld is de ingevulde Excel- of ods-versie17.ods is de extensie van een open standaard spreadsheet bestand. van het format zoals besproken bij stap 2 waarvan een identieke versie is opgenomen in de jaarrekening.
 
-Bedoeld is de ingevulde Excel- of ods-versie van het format voor de tabel van fouten en onzekerheden zoals gepubliceerd door het ministerie van BZK en waarvan een identieke versie is opgenomen in het verslag van bevindingen van de accountant. Voor een toelichting op deze tabel wordt verwezen naar de nota verwachtingen accountantscontrole, eveneens gepubliceerd op de website www.rijksoverheid.nl/sisa.
+Bedoeld is de ingevulde Excel- of ods-versie17.ods is de extensie van een open standaard spreadsheet bestand. van het format zoals besproken bij stap 2 waarvan een identieke versie is opgenomen in de jaarrekening.
 
 ### Stap 4.3. Naamgeving bestanden
+
+De naamgeving van de zes bestanden en het zipbestand is als volgt:
 
 De naamgeving van de zes bestanden en het zipbestand is als volgt:
 
@@ -236,15 +240,15 @@ Voorbeeld:
 
 Dit betekent dat voor gemeente met gemeentenummer 1234 de in het zipbestand op te nemen bestanden over het jaar 2012 de volgende namen krijgen:
 
-Het zipbestand krijgt dan de volgende naam: sisa_2012_061234.zip.
-
 ### Stap 5. Ontvangstbevestiging
 
 De ontvangstbevestiging is een geautomatiseerd e-mailbericht dat het CBS na ontvangst van een aanlevering stuurt aan de SiSa-contactpersoon. Deze ontvangstbevestiging is alleen bevestiging van ontvangst en betekent nog niet dat de aanlevering ook plausibel is.
 
-Let bij het uitvoeren van stap 5 op het volgende:
+De ontvangstbevestiging is een geautomatiseerd e-mailbericht dat het CBS na ontvangst van een aanlevering stuurt aan de SiSa-contactpersoon. Deze ontvangstbevestiging is alleen bevestiging van ontvangst en betekent nog niet dat de aanlevering ook plausibel is.
 
 ### Stap 6. Toets door het CBS
+
+Het CBS toetst de aanlevering van de verantwoordingsinformatie op het criterium plausibiliteit en registreert de datum waarop de aanlevering is ingediend in verband met de tijdigheid.
 
 Het CBS toetst de aanlevering van de verantwoordingsinformatie op het criterium plausibiliteit en registreert de datum waarop de aanlevering is ingediend in verband met de tijdigheid.
 
@@ -258,19 +262,17 @@ Elk jaar komt het bij een groot aantal medeoverheden voor dat een aanlevering ni
 
 **Tabel 2.4 Samenvatting plausibiliteitstoets door het CBS**
 
-Let bij het uitvoeren van stap 6 op het volgende:
-
 ### Stap 7. Bericht van NIET plausibele aanlevering
 
 Als uit de controles die het CBS uitvoert blijkt dat de aangeleverde informatie de plausibiliteitstoets niet kan doorstaan, stuurt het CBS uiterlijk na zeven werkdagen na aanlevering van de SiSa-verantwoording, een e-mail aan de SiSa-contactpersoon. De e-mail bevat een overzicht van de geconstateerde tekortkomingen zodat de medeoverheid weet op welke punten de stukken hersteld moeten worden.
 
-Let bij het uitvoeren van stap 7 op het volgende:
+Als uit de controles die het CBS uitvoert blijkt dat de aangeleverde informatie de plausibiliteitstoets niet kan doorstaan, stuurt het CBS uiterlijk na zeven werkdagen na aanlevering van de SiSa-verantwoording, een e-mail aan de SiSa-contactpersoon. De e-mail bevat een overzicht van de geconstateerde tekortkomingen zodat de medeoverheid weet op welke punten de stukken hersteld moeten worden.
 
 ### Stap 8. Bericht van plausibele aanlevering
 
 Als uit de controles die het CBS uitvoert blijkt dat de aangeleverde informatie voldoet aan de voorwaarden stuurt het CBS, uiterlijk zeven werkdagen na aanlevering van de verantwoordingsinformatie, een e-mail aan de SiSa-contactpersoon dat de aanlevering plausibel is. Dit betekent dat de rol van de medeoverheid als ontvanger van de specifieke uitkering in het indieningsproces voor het betreffende jaar is afgerond. Stappen 9 en 10 zijn alleen van toepassing voor medeoverheden die ook verstrekker zijn van een specifieke uitkering.
 
-Let bij het uitvoeren van stap 8 op het volgende:
+Als uit de controles die het CBS uitvoert blijkt dat de aangeleverde informatie voldoet aan de voorwaarden stuurt het CBS, uiterlijk zeven werkdagen na aanlevering van de verantwoordingsinformatie, een e-mail aan de SiSa-contactpersoon dat de aanlevering plausibel is. Dit betekent dat de rol van de medeoverheid als ontvanger van de specifieke uitkering in het indieningsproces voor het betreffende jaar is afgerond. Stappen 9 en 10 zijn alleen van toepassing voor medeoverheden die ook verstrekker zijn van een specifieke uitkering.
 
 ### Stap 9. Doorlevering van informatie
 
@@ -280,7 +282,7 @@ Om het voor het CBS mogelijk te maken de informatie door te leveren aan de verst
 
 Net als stap 1 voor de ontvangers van een specifieke uitkering, geven ook de verstrekkers aan het ministerie van BZK de contactgegevens van een SiSa-contactpersoon door. Zie verder de details bij stap 1.
 
-Voor verstrekkers die tevens ontvangers zijn (zoals gemeenten en provincies bij SiSa tussen medeoverheden) is stap 9a al afgerond met stap 1 (voor ontvangers). Het is namelijk niet mogelijk per organisatie meerdere SiSa-contactpersonen aan te melden. De contactpersoon voor het indienen van de verantwoordingsinformatie ontvangt dus ook de inlogcode en gebruikersnaam voor het ontvangen van de verantwoordingsinformatie van andere medeoverheden. Als twee verschillende personen deze twee taken uitvoeren, kan de medeoverheid ervoor kiezen gebruik te maken van een functioneel e-mailadres, zie ook stap 1.
+Net als stap 1 voor de ontvangers van een specifieke uitkering, geven ook de verstrekkers aan het ministerie van BZK de contactgegevens van een SiSa-contactpersoon door. Zie verder de details bij stap 1.
 
 ### Stap 9b. Versturen inloggegevens voor downloaden
 
@@ -290,23 +292,25 @@ Het CBS verstuurt uiterlijk 15 juni jaar T+1 een e-mail naar de SiSa-contactpers
 
 Als de volledige aanlevering van een medeoverheid plausibel is, zet het CBS de informatie klaar voor de verstrekkers van de specifieke uitkeringen. Deze verstrekkers kunnen de informatie ophalen op een speciaal daarvoor bestemde website, het zogenaamde ‘downloadportal’.
 
+Als de volledige aanlevering van een medeoverheid plausibel is, zet het CBS de informatie klaar voor de verstrekkers van de specifieke uitkeringen. Deze verstrekkers kunnen de informatie ophalen op een speciaal daarvoor bestemde website, het zogenaamde ‘downloadportal’.
+
 Het CBS zet op een aantal vaste momenten verantwoordingsinformatie klaar, zie tabel 2.6. SiSa-contactpersonen ontvangen bericht van het CBS zodra er verantwoordingsinformatie voor hen klaar staat20Daarbij geldt dat tot en met 15 juli alleen stukken worden doorgezonden als de volledige aanlevering van een medeoverheid plausibel is. Na 15 juli kan het ministerie van BZK besluiten dat voor zover mogelijk een deel van de aanlevering van een medeoverheid, bijvoorbeeld over één specifieke uitkering, aan de verstrekker wordt aangeleverd.. Daarna is deze verantwoordingsinformatie gedurende vier maanden te downloaden. Bij een volgende doorlevering (binnen 4 maanden) is ook de informatie van de vorige doorlevering(en) nog op het downloadportal beschikbaar.
 
 Het CBS comprimeert de informatie per verstrekker tot één of meerdere zipbestanden. Een zipbestand is niet groter dan 250Mb om het downloaden te versnellen. Het downloaden gebeurt door op het betreffende zipbestand te klikken en te kiezen voor opslaan (op uw computer). Aangezien het portal al is beveiligd door middel van het inloggen zijn de zipbestanden niet afzonderlijk versleuteld of beveiligd.
 
 Het Zip-bestand bevat de volgende documenten:
 
-Let bij het uitvoeren van stap 9 op het volgende:
-
 ### Stap 10. Afrekening
 
 Een gedetailleerde beschrijving van het proces rondom de afrekening van specifieke uitkeringen (financiële vaststelling) valt buiten de reikwijdte van deze procedurebeschrijving. Het ministerie van BZK coördineert het proces van het doorleveren van de informatie van ontvangers van specifieke uitkeringen naar de verstrekkers, maar heeft geen rol meer in het proces van de afrekening. Dit afrekenen behoort tot de inhoudelijke beoordeling en expertise van de betreffende verstrekkers.
 
-De termijnen voor het opstellen van deze afrekeningen zijn per verstrekker en per specifieke uitkering verschillend. Dit komt omdat de onderliggende regelgeving per specifieke uitkering op dit punt verschillende termijnen stelt. Voor sommige regelingen gelden vaststellingstermijn van twaalf maanden of meer, terwijl voor andere regelingen deze termijnen veel korter zijn gesteld. Zie tabel 2.7 voor een overzicht.
+Een gedetailleerde beschrijving van het proces rondom de afrekening van specifieke uitkeringen (financiële vaststelling) valt buiten de reikwijdte van deze procedurebeschrijving. Het ministerie van BZK coördineert het proces van het doorleveren van de informatie van ontvangers van specifieke uitkeringen naar de verstrekkers, maar heeft geen rol meer in het proces van de afrekening. Dit afrekenen behoort tot de inhoudelijke beoordeling en expertise van de betreffende verstrekkers.
 
 ### 3. Herziene aanleveringen
 
-### 3.1. Algemeen
+### 3. Herziene aanleveringen
+
+Een herziene aanlevering is een gewijzigde aanlevering van de verantwoordingsinformatie over een bepaald jaar, nadat een eerdere aanlevering over hetzelfde jaar plausibel is verklaard.
 
 Een herziene aanlevering is een gewijzigde aanlevering van de verantwoordingsinformatie over een bepaald jaar, nadat een eerdere aanlevering over hetzelfde jaar plausibel is verklaard.
 
@@ -314,9 +318,9 @@ De SiSa-verantwoordingssystematiek veronderstelt dat gemeenten de vereiste zorgv
 
 Omdat het in incidentele gevallen zo kan zijn dat of de verstrekkers van de uitkeringen of de ontvangers daarvan tot de conclusie komen dat ergens in het proces een fout is gemaakt, is de procedure ‘herziene aanleveringen’ ingericht. Herziene aanleveringen zijn mogelijk als:
 
-De beslissing om over te gaan tot een herziene aanlevering blijft de verantwoordelijkheid van de ontvanger van de specifieke uitkering. Daarbij blijft gelden dat de noodzaak tot het doen van herziene aanleveringen zoveel mogelijk moet worden voorkomen, door een goede controle op de juistheid en volledigheid vooraf. Zie daarnaast de informatie bij stap 10 over het bundelen van herziene aanleveringen.
-
 ### 3.2. Termijn voor een herziene aanlevering
+
+Voor de procedure herziene aanlevering geldt geen algemeen geldende uiterste indieningdatum. De richtlijn is dat een aanlevering kan worden herzien totdat de specifieke uitkering is vastgesteld. De vaststellingstermijnen zijn per verstrekker en per specifieke uitkering verschillend, zie ook tabel 2.7 in hoofdstuk 2, stap 10. Vanwege dit verschil in termijnen is het noodzakelijk om, indien een medeoverheid wenst over te gaan tot het indienen van een herziene aanlevering, allereerst contact te zoeken met de verstrekker van de specifieke uitkering om te verifiëren of het doen van een herziene aanlevering nog nut heeft.
 
 Voor de procedure herziene aanlevering geldt geen algemeen geldende uiterste indieningdatum. De richtlijn is dat een aanlevering kan worden herzien totdat de specifieke uitkering is vastgesteld. De vaststellingstermijnen zijn per verstrekker en per specifieke uitkering verschillend, zie ook tabel 2.7 in hoofdstuk 2, stap 10. Vanwege dit verschil in termijnen is het noodzakelijk om, indien een medeoverheid wenst over te gaan tot het indienen van een herziene aanlevering, allereerst contact te zoeken met de verstrekker van de specifieke uitkering om te verifiëren of het doen van een herziene aanlevering nog nut heeft.
 
@@ -326,9 +330,9 @@ Bij herzieningen bij regelingen van overige ministeries (met uitzondering van SZ
 
 Gelet op de afspraken met ministeries (zie stap 10) ligt het voor de hand dat de meeste herziene aanleveringen over jaar T vóór 15 februari jaar T+2 kunnen worden afgerond. Dit betekent dus dat het meestal zo is dat herziene aanleveringen over verantwoordingsjaar 2012 voor 15 februari 2014 worden afgerond.
 
-Als een specifieke uitkering is vastgesteld en de medeoverheid ontdekt daarna dat een fout is gemaakt, is de enige mogelijkheid om deze afrekening nog te laten herzien via de procedure voor bezwaar en beroep. Bepalingen hierover verschillen per specifieke uitkering. Informatie daarover vindt u in de betreffende afrekeningbeschikking en specifieke regeling. Daar (afrekeningbeschikking) vindt u ook de informatie over contactmogelijkheden. Het ministerie van BZK heeft geen zicht op of een rol in deze afrekeningen.
-
 ### 3.3. De procedure herziene aanlevering
+
+¹ Gedeputeerde staten/college van burgemeester en wethouders/dagelijks bestuur van de gemeenschappelijke regeling zijn verantwoordelijk voor de tijdige en plausibele aanlevering van de verantwoordingsinformatie op grond van [artikel 17a, eerste en tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=47a) en [58a van de wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=58a).
 
 ¹ Gedeputeerde staten/college van burgemeester en wethouders/dagelijks bestuur van de gemeenschappelijke regeling zijn verantwoordelijk voor de tijdige en plausibele aanlevering van de verantwoordingsinformatie op grond van [artikel 17a, eerste en tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=47a) en [58a van de wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=58a).
 
@@ -348,9 +352,9 @@ Het verslag van bevindingen van de accountant bevat de tabel met fouten en onzek
 
 Bedoeld is de gewijzigde, maar complete versie van de Excel- of ods-versie van het format voor het betreffende verantwoordingsjaar, zoals besproken bij stap 2.
 
-Bedoeld is de Excel- of ods-versie van de tabel van fouten en onzekerheden behorende bij het betreffende verantwoordingsjaar. Dit kan dezelfde versie zijn als gehanteerd is bij de oorspronkelijke levering, of een gewijzigde versie als dit op grond van de accountantscontrole nodig is. De accountant meldt in zijn aanbiedingsbrief aan de gemeenteraad/provinciale staten/het dagelijks bestuur van de gemeenschappelijke regeling of de tabel met fouten en onzekerheden wijzigt en om welke wijzigingen het dan gaat.
-
 ### 4. Uitstelverzoek
+
+Een medeoverheid die vaststelt dat door **overmacht** de verantwoordingsinformatie niet tijdig en plausibel kan worden aangeleverd, kan een schriftelijk verzoek indienen bij de minister van BZK tot uitstel van de aanlevering van de verantwoordingsinformatie.32Ingevolge artikel 17b, tweede lid van de Financiële-verhoudingswet. Het uitstel betreft altijd de volledige verantwoordingsinformatie SiSa. Dus als over meerdere specifieke uitkeringen verantwoording wordt afgelegd, betreft het uitstelverzoek de verantwoording over al deze regelingen. Het uitstelverzoek moet aan de volgende voorwaarden voldoen:
 
 Een medeoverheid die vaststelt dat door **overmacht** de verantwoordingsinformatie niet tijdig en plausibel kan worden aangeleverd, kan een schriftelijk verzoek indienen bij de minister van BZK tot uitstel van de aanlevering van de verantwoordingsinformatie.32Ingevolge artikel 17b, tweede lid van de Financiële-verhoudingswet. Het uitstel betreft altijd de volledige verantwoordingsinformatie SiSa. Dus als over meerdere specifieke uitkeringen verantwoording wordt afgelegd, betreft het uitstelverzoek de verantwoording over al deze regelingen. Het uitstelverzoek moet aan de volgende voorwaarden voldoen:
 
@@ -358,9 +362,9 @@ Een medeoverheid die vaststelt dat door **overmacht** de verantwoordingsinformat
 
 De minister van BZK neemt (eventueel na overleg met de verstrekkers van de specifieke uitkeringen) binnen twee weken een besluit over het verzoek tot uitstel. De minister stelt de medeoverheid schriftelijk op de hoogte van het besluit en de gevolgen voor de aanlevering van de verantwoordingsinformatie, zoals het moment van aanlevering of afwijkende aanlevering. Het ministerie van BZK stelt het CBS en de relevante ontvangers van de verantwoordingsinformatie op de hoogte van de medeoverheden aan wie uitstel is verleend. Hierbij informeert het ministerie van BZK het CBS over hoe met het verleende uitstel om te gaan, onder meer voor de te verrichten toetsen.
 
-Let bij het indienen van een uitstelverzoek op het volgende:
-
 ### 5. Maatregelenbeleid
+
+Het maatregelenbeleid treedt in werking als een medeoverheid niet voldoet aan de procedure die is vastgesteld voor de verantwoording over specifieke uitkeringen.
 
 Het maatregelenbeleid treedt in werking als een medeoverheid niet voldoet aan de procedure die is vastgesteld voor de verantwoording over specifieke uitkeringen.
 
@@ -384,25 +388,25 @@ Na correcte aanlevering van de verantwoordingsinformatie (zie stap 4) wordt op g
 
 Indien de verantwoording (zie stap 4) na afloop van de maximale opschortingstermijn niet of niet op correcte wijze is ontvangen, wordt dit de betreffende medeoverheid en de verstrekker(s) van de specifieke uitkeringen schriftelijk medegedeeld. De verstrekker van de specifieke uitkering kan deze mededeling daarna betrekken bij het vaststellen van de specifieke uitkering(en) en het bepalen van de nadere maatregelen op grond van de desbetreffende regeling(en). Het ministerie van BZK kan na de maximale opschortingstermijn indien nodig overige maatregelen treffen ten aanzien van plausibiliteit.
 
-Na ontvangst van de verantwoordingsinformatie of na afloop van de maximale opschortingtermijn (zie de vorige alinea) kunnen de verstrekkers van de specifieke uitkeringen overgaan tot het financieel vaststellen. Het ontbreken van (plausibele) verantwoordingsinformatie of (bij een plausibele aanlevering) de door de accountant gemelde fouten en onzekerheden kan gevolgen hebben voor de hoogte van de vaststelling. Tijdens de opschortingtermijn kan het ontbreken van (plausibele) verantwoordingsinformatie gevolgen hebben voor de budgettoekenning voor het lopende of komende jaar. Bepalingen hieromtrent kunnen zijn opgenomen in de betreffende materiewetgeving.
+### 6. Meer informatie over SiSa
 
 ### 6. Meer informatie over SiSa
 
-### 6.1. Plaats in bestaande wet- en regelgeving
+Diverse wetten en besluiten bevatten bepalingen die van belang zijn voor het opstellen van jaarstukken (jaarrekening en jaarverslag) van diverse overheidsorganen. We noemen:
 
 Diverse wetten en besluiten bevatten bepalingen die van belang zijn voor het opstellen van jaarstukken (jaarrekening en jaarverslag) van diverse overheidsorganen. We noemen:
 
 Deze wetten en besluiten bepalen dat medeoverheden op uiterlijk 15 juli van het jaar volgend op het verantwoordingsjaar (15 juli van jaar T+1) de verantwoordingsinformatie naar het ministerie van BZK sturen.33Op grond van Artikel 17a lid 1 van de Financiële-verhoudingswet. Deze verantwoordingsinformatie bestaat uit:
 
-In aanvulling op deze bepalingen, heeft de minister van BZK, via de Regeling informatieverstrekking sisa, nadere voorschriften vastgesteld over de verantwoordingsinformatie over specifieke uitkeringen. 36Het betreft de Regeling informatieverstrekking SiSa, vastgesteld op grond van artikel 17a lid 3 van de Financiële-verhoudingswet. Deze voorschriften hebben betrekking op:
-
 ### 6.2. Single Review
 
 De Auditdienst Rijk (ADR) (voorheen de departementale auditdiensten) voert jaarlijks een steekproef uit op de controle uitgevoerd door de accountants van de medeoverheden met betrekking tot specifieke uitkeringen: de zogenaamde single review.
 
-De ADR beoordeelt hier de door de accountants uitgevoerde werkzaamheden met betrekking tot de controle van specifieke uitkeringen. Deze reviews vinden plaats na de aanlevering door medeoverheden in het jaar volgend op het verantwoordingsjaar. Voor deze reviews ontvangen de reviewteams alle verantwoordingsinformatie van de geselecteerde medeoverheden die zij bij het CBS hebben ingediend na een schriftelijk verzoek hiertoe bij het CBS. Het CBS voldoet binnen tien werkdagen, voor zover de verantwoordingsinformatie beschikbaar is, aan dit verzoek. Het CBS zal daarbij het oordeel over de verantwoordingsinformatie – plausibel of niet – aangeven.
+De Auditdienst Rijk (ADR) (voorheen de departementale auditdiensten) voert jaarlijks een steekproef uit op de controle uitgevoerd door de accountants van de medeoverheden met betrekking tot specifieke uitkeringen: de zogenaamde single review.
 
 ### 6.3. Contact met het ministerie van BZK
+
+Medeoverheden en accountants kunnen met vragen over SiSa contact opnemen met het ministerie van BZK via postbusibi@minbzk.nl. Hier kunnen zij terecht voor technische vragen over de Excel-formats, maar ook voor inhoudelijke SiSa-vragen. Het ministerie van BZK nodigt medeoverheden en accountants ook nadrukkelijk uit interpretatievraagstukken voorafgaand aan het vaststellen van de jaarstukken voor te leggen aan het ministerie van BZK. Let bij het bedenken van het onderwerp van uw e-mail op de tekst in onderstaand kader.
 
 Medeoverheden en accountants kunnen met vragen over SiSa contact opnemen met het ministerie van BZK via postbusibi@minbzk.nl. Hier kunnen zij terecht voor technische vragen over de Excel-formats, maar ook voor inhoudelijke SiSa-vragen. Het ministerie van BZK nodigt medeoverheden en accountants ook nadrukkelijk uit interpretatievraagstukken voorafgaand aan het vaststellen van de jaarstukken voor te leggen aan het ministerie van BZK. Let bij het bedenken van het onderwerp van uw e-mail op de tekst in onderstaand kader.
 
@@ -416,11 +420,9 @@ Wie een vraag heeft over SiSa wordt geadviseerd eerst de stukken op de website t
 
 Op de website zijn ook nog de stukken voor SiSa 2010 en SiSa 2011 te raadplegen.
 
-Iedere SiSa-contactpersoon of geïnteresseerde ontvangt als er nieuws is over SiSa per e-mail de nieuwsbrief IBI van het ministerie van BZK. Geïnteresseerden in de nieuwsbrief kunnen zich via postbusibi@minbzk.nl aanmelden. In deze nieuwsbrief zijn de belangrijkste wijzigingen op de website www.rijksoverheid.nl/sisa opgenomen. Deze nieuwsbrief bevat meer informatie dan alleen over SiSa, bijvoorbeeld ook over Iv3.
-
 ### Bijlage 1. Procedure aanlevering in de tijd
 
-### Bijlage 2. Rollen en verantwoordelijkheden
+### Bijlage 1. Procedure aanlevering in de tijd
 
 Hieronder volgt een omschrijving van de verschillende belanghebbenden met hun verantwoordelijkheden. De rollen zijn als volgt:
 
@@ -436,11 +438,13 @@ De basisvorm van SiSa is dat het Rijk een specifieke uitkering verstrekt aan een
 
 Bij enkele specifieke uitkeringen is de basisvorm uitgebreid en geldt SiSa ook in de situatie dat provincies als directe ontvangers de uitkering doorverstrekken aan een gemeente en/of een gemeenschappelijke regeling (ingesteld op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr)). De ontvangers van deze doorverstrekking zijn **‘indirecte’ ontvangers**. Indirecte ontvangers verantwoorden aan de verstrekker van de uitkering, in het geval van SiSa tussen medeoverheden is dat dus de provincie en niet het Rijk. De provincie (de doorverstrekker) verantwoordt de besteding van de medeoverheid een jaar later aan het Rijk. De provincie heeft immers wel de taken overgedragen, maar niet de verantwoordelijkheid en moet zich daarom over de totale taakuitvoering aan het Rijk verantwoorden.
 
+Bij enkele specifieke uitkeringen is de basisvorm uitgebreid en geldt SiSa ook in de situatie dat provincies als directe ontvangers de uitkering doorverstrekken aan een gemeente en/of een gemeenschappelijke regeling (ingesteld op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr)). De ontvangers van deze doorverstrekking zijn **‘indirecte’ ontvangers**. Indirecte ontvangers verantwoorden aan de verstrekker van de uitkering, in het geval van SiSa tussen medeoverheden is dat dus de provincie en niet het Rijk. De provincie (de doorverstrekker) verantwoordt de besteding van de medeoverheid een jaar later aan het Rijk. De provincie heeft immers wel de taken overgedragen, maar niet de verantwoordelijkheid en moet zich daarom over de totale taakuitvoering aan het Rijk verantwoorden.
+
 In de situatie zoals afgebeeld in figuur b, is gemeente A zowel een directe ontvanger van een specifieke uitkering, als een indirecte ontvanger via een doorverstrekking door de provincie. Gemeente A neemt in dezelfde SiSa-bijlage verantwoordingsinformatie, via de daarvoor bestemde afzonderlijke regelingen, zowel de verantwoordingsinformatie op die bestemd is voor de provincie als de verantwoordingsinformatie bestemd voor het Rijk.
 
-Overige organisaties die taken uitvoeren, zoals een stichting of een BV zijn niet opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en kunnen daarom niet via SiSa verantwoorden. In de SiSa-systematiek beschouwt de provincie zichzelf als de uitvoerder van de taken die overige organisaties voor haar uitvoeren. De provincie verantwoordt dus de taken in haar eigen jaarstukken en is voor die taken een ‘zelfstandige uitvoerder’.
-
 ### 3:. SiSa tussen medeoverheden SZW
+
+Op grond van het SiSa tussen medeoverheden-systeem was het niet mogelijk dat ook gemeenten konden fungeren als verstrekkers van een specifieke uitkering, net als provincies bij SiSa tussen medeoverheden. Omdat het doorverstrekken door gemeenten bij regelingen van het ministerie van Sociale Zaken en Werkgelegenheid (SZW) veelvuldig voorkomt, is het SiSa-systeem hiervoor uitgebreid. Net als bij de reguliere SiSa tussen medeoverheden kunnen uitsluitend gemeenschappelijke regelingen opgericht via de [Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) via SiSa verantwoorden aan (in dit geval) de gemeente.
 
 Op grond van het SiSa tussen medeoverheden-systeem was het niet mogelijk dat ook gemeenten konden fungeren als verstrekkers van een specifieke uitkering, net als provincies bij SiSa tussen medeoverheden. Omdat het doorverstrekken door gemeenten bij regelingen van het ministerie van Sociale Zaken en Werkgelegenheid (SZW) veelvuldig voorkomt, is het SiSa-systeem hiervoor uitgebreid. Net als bij de reguliere SiSa tussen medeoverheden kunnen uitsluitend gemeenschappelijke regelingen opgericht via de [Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) via SiSa verantwoorden aan (in dit geval) de gemeente.
 
@@ -468,8 +472,6 @@ Elke gemeente is op grond van de SZW regelgeving verantwoordelijk voor de uitvoe
 
 Nee, openbare lichamen ([Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)) verantwoorden de uitvoering aan alle gemeenten. Dus ook de aan zogenaamde ‘buitengemeenten’, dat zijn gemeenten die geen deelnemer in de gemeenschappelijke regeling zijn.
 
-Nee, elke openbaar lichaam ([Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)) verantwoordt via SiSa zelf per gemeente het deel dat zij voor die gemeenten heeft uitgevoerd / besteed. En gemeenten verantwoorden zelf via SiSa de overige uitvoering, dat wil zeggen het deel dat niet door openbare lichamen ([Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)) is uitgevoerd.
-
 ### 4. : SiSa tussen medeoverheden [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
 Zie hiervoor de informatie op het gemeenteloket van het ministerie van SZW.
@@ -480,9 +482,173 @@ Deze bijlage bevat vier voorbeeldbrieven:
 
 ### 1. : Voorbeeld aanbiedingsbrief procedure 15 juli
 
+### 1. : Voorbeeld aanbiedingsbrief procedure 15 juli
+
 ### 2a. : Voorbeeld aanbiedingsbrief herziene aanlevering als de strekking van de controleverklaring door de aanpassing is gewijzigd
 
 ### 2b. : Voorbeeld aanbiedingsbrief herziene aanlevering als de strekking van de controleverklaring door de aanpassing niet is gewijzigd en de stukken ter informatie aan de provinciale staten/ gemeenteraad/ algemeen bestuur van de gemeenschappelijke regeling worden voorgelegd
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij betrekking hebben.
+
+## Bijlage 3. Procedure aanlevering SiSa-verantwoordingsinformatie 2012
+
+op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2013-01-01) van de Regeling informatieverstrekking sisa
+
+### Wat is SiSa?
+
+De nota is van toepassing op de specifieke uitkeringen die zijn opgenomen in de SiSa-bijlage verantwoordingsinformatie 2012 als onderdeel van de toelichting op de jaarrekening 2012.
+
+### De procedure
+
+Figuur 1.1 bevat een overzicht van de elf afzonderlijke stappen waaruit deze procedure bestaat. De procedure loopt vanaf het moment dat een verstrekker van een specifieke uitkering een beschikking afgeeft (stap 0), tot het moment dat de verstrekker over kan gaan tot afrekening (stap 10). Bijlage 1 bevat een overzicht van de acties binnen deze stappen in de tijd.
+
+### Voor wie is deze nota bedoeld?
+
+Deze procedurebeschrijving is ook van belang voor de accountants en voor de bestuursleden van de medeoverheden, niet alleen om inzicht te krijgen in het proces dat doorlopen wordt, maar ook omdat hoofdstuk 5 het maatregelenbeleid bevat dat in werking treedt als niet aan de voorwaarden van het proces wordt voldaan.
+
+### Rollen en verantwoordelijkheden
+
+Bijlage 2 bevat een volledig overzicht van de rollen en verantwoordelijkheden.
+
+### Welke medeoverheden leveren via SiSa verantwoordingsinformatie aan?
+
+SiSa kent in 2012 vier verschillende vormen waarin de medeoverheden die de rollen van verstrekker en ontvanger vervullen, kunnen variëren. Bijlage 3 bevat een verdere uitwerking van deze vormen. De procedure beschreven in deze nota geldt voor álle verstrekkers en álle ontvangers, ongeacht volgens welke SiSa-vorm zij in aanmerking komen voor een specifieke uitkering.
+
+### Verschil SiSa 2012 ten opzichte van SiSa 2011
+
+Formeel is de ‘nota procedure aanlevering verantwoordingsinformatie 2011’ niet vervallen met de komst van deze nota, net als deze nota niet komt te vervallen als het ministerie van BZK een ‘procedure aanlevering verantwoordingsinformatie 2013’ opstelt. Dit onderscheid is vooral van belang bij herziene aanleveringen: een correctie op de verantwoordingsinformatie over een bepaald jaar. Voor deze herziene aanleveringen blijven de stappen gelden die voor dat jaar van toepassing waren.4Op grond van artikel 7a van de Regeling informatieverstrekking SiSa.
+
+### Stap 0. Beschikking
+
+Het opstellen van deze beschikkingen is de verantwoordelijkheid van deze verstrekkers en blijft buiten de bemoeienis van het ministerie van BZK. Het ministerie van BZK heeft ook geen inzicht in alle beschikkingen die door de diverse verstrekkers worden verstuurd. Bij vragen over een bepaalde beschikking dient u dan ook direct contact op te nemen met de betreffende verstrekker.
+
+### Stap 1. Voorbereiding aanlevering
+
+Het format voor deze SiSa-bijlage verantwoordingsinformatie is een Excel bestand en bevat de specifieke uitkeringen waarover medeoverheden verantwoording kunnen afleggen en per specifieke uitkering de te verantwoorden elementen (indicatoren) waarin gevraagd wordt naar de feitelijke verantwoordingsinformatie. Dit format bevat alle mogelijke regelingen en maakt dus geen onderscheid naar de regelingen die wel of niet van toepassing zijn voor een bepaalde medeoverheid. Bij de SiSa-bijlage verantwoordingsinformatie hoort ook een invulwijzer met daarin een toelichting per indicator uit de SiSa-bijlage verantwoordingsinformatie. Omstreeks 1 november van het jaar T publiceert het ministerie van BZK een conceptversie van het format voor de SiSa-bijlage verantwoordingsinformatie op de website.
+
+### Stap 2. Samenstellen en vaststellen aan te leveren stukken
+
+Let bij het uitvoeren van stap 2 op het volgende:
+
+### Stap 3. Versturen inloggegevens voor uploaden
+
+Let bij het uitvoeren van stap 3 op het volgende:
+
+### Stap 4. Aanlevering door medeoverheden bij CBS
+
+Let bij het uitvoeren van stap 4 op het volgende:
+
+### Stap 4.1. Vier Pdf-bestanden
+
+Het verslag van bevindingen van de accountant bevat de tabel met fouten en onzekerheden over specifieke uitkeringen.
+
+### Stap 4.2. Twee Excel-documenten15Het is ook mogelijk om ods-versie van de Exceltabellen te gebruiken voor de indiening bij het CBS. Ook deze ods-versie zijn te vinden op www.rijksoverheid.nl/sisa.
+
+Bedoeld is de ingevulde Excel- of ods-versie van het format voor de tabel van fouten en onzekerheden zoals gepubliceerd door het ministerie van BZK en waarvan een identieke versie is opgenomen in het verslag van bevindingen van de accountant. Voor een toelichting op deze tabel wordt verwezen naar de nota verwachtingen accountantscontrole, eveneens gepubliceerd op de website www.rijksoverheid.nl/sisa.
+
+### Stap 4.3. Naamgeving bestanden
+
+Het zipbestand krijgt dan de volgende naam: sisa_2012_061234.zip.
+
+### Stap 5. Ontvangstbevestiging
+
+Let bij het uitvoeren van stap 5 op het volgende:
+
+### Stap 6. Toets door het CBS
+
+Let bij het uitvoeren van stap 6 op het volgende:
+
+### Stap 7. Bericht van NIET plausibele aanlevering
+
+Let bij het uitvoeren van stap 7 op het volgende:
+
+### Stap 8. Bericht van plausibele aanlevering
+
+Let bij het uitvoeren van stap 8 op het volgende:
+
+### Stap 9. Doorlevering van informatie
+
+Om het voor het CBS mogelijk te maken de informatie door te leveren aan de verstrekkers van de specifieke uitkeringen, is een aantal stappen nodig, hier onderverdeeld naar stap a, b en c, zie figuur 2.5.
+
+### Stap 9a. Voorbereiding
+
+Voor verstrekkers die tevens ontvangers zijn (zoals gemeenten en provincies bij SiSa tussen medeoverheden) is stap 9a al afgerond met stap 1 (voor ontvangers). Het is namelijk niet mogelijk per organisatie meerdere SiSa-contactpersonen aan te melden. De contactpersoon voor het indienen van de verantwoordingsinformatie ontvangt dus ook de inlogcode en gebruikersnaam voor het ontvangen van de verantwoordingsinformatie van andere medeoverheden. Als twee verschillende personen deze twee taken uitvoeren, kan de medeoverheid ervoor kiezen gebruik te maken van een functioneel e-mailadres, zie ook stap 1.
+
+### Stap 9b. Versturen inloggegevens voor downloaden
+
+Het CBS verstuurt uiterlijk 15 juni jaar T+1 een e-mail naar de SiSa-contactpersonen met de inloggegevens voor het downloadportal: de website waar de bij stap 4 door ontvangers van specifieke uitkering verstuurde verantwoordingsinformatie kan worden opgehaald door de verstrekker van de specifieke uitkering. De ontvangst van deze e-mail wil nog niet zeggen dat er ook gegevens voor u klaar staan om te downloaden. Hierover ontvangt u afzonderlijk bericht.
+
+### Stap 9c. Doorleveren informatie
+
+Let bij het uitvoeren van stap 9 op het volgende:
+
+### Stap 10. Afrekening
+
+De termijnen voor het opstellen van deze afrekeningen zijn per verstrekker en per specifieke uitkering verschillend. Dit komt omdat de onderliggende regelgeving per specifieke uitkering op dit punt verschillende termijnen stelt. Voor sommige regelingen gelden vaststellingstermijn van twaalf maanden of meer, terwijl voor andere regelingen deze termijnen veel korter zijn gesteld. Zie tabel 2.7 voor een overzicht.
+
+### 3.1. Algemeen
+
+De beslissing om over te gaan tot een herziene aanlevering blijft de verantwoordelijkheid van de ontvanger van de specifieke uitkering. Daarbij blijft gelden dat de noodzaak tot het doen van herziene aanleveringen zoveel mogelijk moet worden voorkomen, door een goede controle op de juistheid en volledigheid vooraf. Zie daarnaast de informatie bij stap 10 over het bundelen van herziene aanleveringen.
+
+### 3.2. Termijn voor een herziene aanlevering
+
+Als een specifieke uitkering is vastgesteld en de medeoverheid ontdekt daarna dat een fout is gemaakt, is de enige mogelijkheid om deze afrekening nog te laten herzien via de procedure voor bezwaar en beroep. Bepalingen hierover verschillen per specifieke uitkering. Informatie daarover vindt u in de betreffende afrekeningbeschikking en specifieke regeling. Daar (afrekeningbeschikking) vindt u ook de informatie over contactmogelijkheden. Het ministerie van BZK heeft geen zicht op of een rol in deze afrekeningen.
+
+### 3.3. De procedure herziene aanlevering
+
+Bedoeld is de Excel- of ods-versie van de tabel van fouten en onzekerheden behorende bij het betreffende verantwoordingsjaar. Dit kan dezelfde versie zijn als gehanteerd is bij de oorspronkelijke levering, of een gewijzigde versie als dit op grond van de accountantscontrole nodig is. De accountant meldt in zijn aanbiedingsbrief aan de gemeenteraad/provinciale staten/het dagelijks bestuur van de gemeenschappelijke regeling of de tabel met fouten en onzekerheden wijzigt en om welke wijzigingen het dan gaat.
+
+### 4. Uitstelverzoek
+
+Let bij het indienen van een uitstelverzoek op het volgende:
+
+### 5. Maatregelenbeleid
+
+Na ontvangst van de verantwoordingsinformatie of na afloop van de maximale opschortingtermijn (zie de vorige alinea) kunnen de verstrekkers van de specifieke uitkeringen overgaan tot het financieel vaststellen. Het ontbreken van (plausibele) verantwoordingsinformatie of (bij een plausibele aanlevering) de door de accountant gemelde fouten en onzekerheden kan gevolgen hebben voor de hoogte van de vaststelling. Tijdens de opschortingtermijn kan het ontbreken van (plausibele) verantwoordingsinformatie gevolgen hebben voor de budgettoekenning voor het lopende of komende jaar. Bepalingen hieromtrent kunnen zijn opgenomen in de betreffende materiewetgeving.
+
+### 6.1. Plaats in bestaande wet- en regelgeving
+
+In aanvulling op deze bepalingen, heeft de minister van BZK, via de Regeling informatieverstrekking sisa, nadere voorschriften vastgesteld over de verantwoordingsinformatie over specifieke uitkeringen. 36Het betreft de Regeling informatieverstrekking SiSa, vastgesteld op grond van artikel 17a lid 3 van de Financiële-verhoudingswet. Deze voorschriften hebben betrekking op:
+
+### 6.2. Single Review
+
+De ADR beoordeelt hier de door de accountants uitgevoerde werkzaamheden met betrekking tot de controle van specifieke uitkeringen. Deze reviews vinden plaats na de aanlevering door medeoverheden in het jaar volgend op het verantwoordingsjaar. Voor deze reviews ontvangen de reviewteams alle verantwoordingsinformatie van de geselecteerde medeoverheden die zij bij het CBS hebben ingediend na een schriftelijk verzoek hiertoe bij het CBS. Het CBS voldoet binnen tien werkdagen, voor zover de verantwoordingsinformatie beschikbaar is, aan dit verzoek. Het CBS zal daarbij het oordeel over de verantwoordingsinformatie – plausibel of niet – aangeven.
+
+### 6.3. Contact met het ministerie van BZK
+
+Iedere SiSa-contactpersoon of geïnteresseerde ontvangt als er nieuws is over SiSa per e-mail de nieuwsbrief IBI van het ministerie van BZK. Geïnteresseerden in de nieuwsbrief kunnen zich via postbusibi@minbzk.nl aanmelden. In deze nieuwsbrief zijn de belangrijkste wijzigingen op de website www.rijksoverheid.nl/sisa opgenomen. Deze nieuwsbrief bevat meer informatie dan alleen over SiSa, bijvoorbeeld ook over Iv3.
+
+### Bijlage 2. Rollen en verantwoordelijkheden
+
+Hieronder volgt een omschrijving van de verschillende belanghebbenden met hun verantwoordelijkheden. De rollen zijn als volgt:
+
+### Bijlage 3. SiSa-vormen
+
+In 2012 bestaan vier verschillende SiSa-vormen op grond waarvan medeoverheden in aanmerking komen voor verantwoording via SiSa.
+
+### 1. : SiSa-basis
+
+De basisvorm van SiSa is dat het Rijk een specifieke uitkering verstrekt aan een medeoverheid – een gemeente, een provincie of een gemeenschappelijke regeling (ingesteld op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr)) – en deze medeoverheid verantwoord aan het Rijk, zie figuur a. Alle ontvangers zijn **‘directe’ ontvangers** omdat zij de specifieke uitkering direct van het Rijk ontvangen.
+
+### 2. : SiSa tussen medeoverheden (regulier)
+
+Overige organisaties die taken uitvoeren, zoals een stichting of een BV zijn niet opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en kunnen daarom niet via SiSa verantwoorden. In de SiSa-systematiek beschouwt de provincie zichzelf als de uitvoerder van de taken die overige organisaties voor haar uitvoeren. De provincie verantwoordt dus de taken in haar eigen jaarstukken en is voor die taken een ‘zelfstandige uitvoerder’.
+
+### 3:. SiSa tussen medeoverheden SZW
+
+Nee, elke openbaar lichaam ([Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)) verantwoordt via SiSa zelf per gemeente het deel dat zij voor die gemeenten heeft uitgevoerd / besteed. En gemeenten verantwoorden zelf via SiSa de overige uitvoering, dat wil zeggen het deel dat niet door openbare lichamen ([Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)) is uitgevoerd.
+
+### 4. : SiSa tussen medeoverheden [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+
+Zie hiervoor de informatie op het gemeenteloket van het ministerie van SZW.
+
+### Bijlage 4. Aanbiedingsbrieven
+
+Deze bijlage bevat vier voorbeeldbrieven:
 
 ### 2c. : Voorbeeld aanbiedingsbrief herziene aanlevering als de strekking van de controleverklaring door de aanpassing niet is gewijzigd en de stukken worden ter vaststelling aan de provinciale staten/ gemeenteraad/ algemeen bestuur van de gemeenschappelijke regeling voorgelegd
 
