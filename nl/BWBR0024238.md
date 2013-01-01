@@ -4,7 +4,7 @@ identifier: "BWBR0024238"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2009-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024238"
 soort: "wet"
@@ -49,25 +49,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. **accountant** een registeraccountant of een Accountant-Administratieconsulent;
+- a. **accountant:** accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
 - b. **Autoriteit Financiële Markten** de Stichting Autoriteit Financiële Markten;
 
-- c. **betrokkene** degene jegens wie een klacht is ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2009-05-01&g=2009-05-01) van deze wet;
+- c. **betrokkene** degene jegens wie een klacht is ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2013-01-01&g=2013-01-01) van deze wet;
 
-- d. **het College** het College van Beroep voor het bedrijfsleven;
+- d. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
-- e. **klager** degene die jegens betrokkene een klacht heeft ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2009-05-01&g=2009-05-01) van deze wet;
+- e. **het College** het College van Beroep voor het bedrijfsleven;
 
-- f. **NOvAA** de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in [artikel 2 van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=2);
+- f. **klager** degene die jegens betrokkene een klacht heeft ingediend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2013-01-01&g=2013-01-01) van deze wet;
 
-- g. **NIVRA** het Nederlands Instituut van Registeraccountants, bedoeld in [artikel 1, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=1);
+- g. **Onze Minister** Onze Minister van Financiën;
 
-- h. **Onze Minister** Onze Minister van Financiën;
+- h. **Onze Ministers** Onze Minister van Financiën en Onze Minister van Justitie;
 
-- i. **Onze Ministers** Onze Minister van Financiën en Onze Minister van Justitie;
-
-- j. **register** het register bedoeld in de [artikelen 11, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=11), [55, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=55) onderscheidenlijk [36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36).
+- i. **registers:** het register, bedoeld in [artikel 11, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=11) en het accountantsregister, bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1).
 
 ### Hoofdstuk II. Tuchtrechtelijke maatregelen
 
@@ -97,13 +95,11 @@ Wijzigt de Wet toezicht accountantsorganisaties.
 
 ##### Artikel 51
 
-In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2009-05-01&g=2009-05-01) legt de eerste voorzitter van de accountantskamer de eed of belofte, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2009-05-01&g=2009-05-01), af, ten overstaan van de president van het College van Beroep voor het bedrijfsleven.
+Vervallen
 
 ##### Artikel 52
 
-1. De raden van tucht, bedoeld in [artikel 51, tweede lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51) en [artikel 33, tweede lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33), zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van deze wet, handelen gedurende een jaar na het tijdstip van inwerkingtreding van deze wet de zaken af die op het tijdstip van inwerkingtreding van de Wet tuchtrechtspraak accountants bij hen aanhangig zijn. Zij nemen daarbij de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) in acht zoals deze luidden voor het tijdstip van inwerkingtreding van deze wet. De zaken die de raden van tucht na dit jaar nog niet hebben afgehandeld, worden afgehandeld door de accountantskamer.
-
-2. De accountantskamer handelt de zaken die op grond van het eerste lid, derde volzin, zijn overgedragen, af met in achtneming van de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) zoals deze luidden voor het tijdstip van inwerkingtreding van deze wet.
+Vervallen
 
 ##### Artikel 53
 
@@ -141,13 +137,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 11
 
-1. De accountantskamer heeft een voorzitter, ten hoogste acht leden en een secretaris.
+1. De accountantskamer heeft een voorzitter, ten hoogste tien leden en een secretaris.
 
-2. De accountantskamer heeft ten hoogste tien plaatsvervangende leden.
+2. De accountantskamer heeft ten hoogste twintig plaatsvervangende leden.
 
 3. De accountantskamer kan een of meer plaatsvervangend-secretarissen hebben.
 
-4. De voorzitter van de accountantskamer wijst twee personen, bedoeld in [artikel 12, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=12&z=2009-05-01&g=2009-05-01), aan als plaatsvervangend voorzitter.
+4. De voorzitter van de accountantskamer wijst ten hoogste zes personen, bedoeld in [artikel 12, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=12&z=2013-01-01&g=2013-01-01), aan als plaatsvervangend voorzitter.
 
 ##### Artikel 12
 
@@ -157,11 +153,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Van de plaatsvervangende leden is de meerderheid rechterlijk ambtenaar met rechtspraak belast. De overige plaatsvervangende leden zijn accountant of deskundig ter zake van werkzaamheden die accountants verrichten.
 
-4. De secretaris en de plaatsvervangend-secretarissen zijn gerechtssecretaris.
+4. De secretaris en de plaatsvervangend-secretarissen zijn zijn personen die zijn aangewezen om werkzaamheden te verrichten die bij of krachtens wet aan de griffier bij een gerecht zijn opgedragen.
 
 ##### Artikel 13
 
-De voorzitter, de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangend-secretarissen worden op voordracht van Onze Minister bij koninklijk besluit benoemd voor een periode van zes jaren.
+1. De voorzitter, de leden, de plaatsvervangende leden en de secretaris worden op voordracht van Onze Minister bij koninklijk besluit benoemd voor een periode van zes jaren.
+
+2. De plaatsvervangend-secretarissen worden benoemd door de voorzitter van de accountantskamer.
 
 ##### Artikel 14
 
@@ -183,7 +181,7 @@ De voorzitter, de leden, de plaatsvervangende leden, de secretaris en de plaatsv
 
 ##### Artikel 16
 
-1. De voorzitter, de leden en de secretaris zijn geen lid van het bestuur van of werknemer bij de Autoriteit Financiële Markten, een klachtencommissie belast met het behandelen van klachten inzake externe accountants, Accountants-Administratieconsulenten of registeraccountants, de NOvAA of het NIVRA. Onze Minister kan regels stellen ten aanzien van functies of betrekkingen die zich niet verhouden tot het lidmaatschap van de accountantskamer.
+1. De voorzitter, de leden en de secretaris zijn geen lid van het bestuur van of werknemer bij de Autoriteit Financiële Markten, een klachtencommissie belast met het behandelen van klachten inzake externe accountants, accountants of de beroepsorganisatie. Onze Minister kan regels stellen ten aanzien van functies of betrekkingen die zich niet verhouden tot het lidmaatschap van de accountantskamer.
 
 2. Tussen de voorzitter, de leden en de secretaris mag niet bestaan een verhouding van werkgever tot werknemer. Zij mogen niet met elkaar in de uitoefening van een beroep voor gemene rekening of onder gemeenschappelijke naam optreden.
 
@@ -205,9 +203,9 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 
 ##### Artikel 19
 
-1. De voorzitter, de leden en de plaatsvervangende leden die rechterlijk ambtenaar met rechtspraak belast zijn, worden voor hun werkzaamheden voor de accountantskamer vrijgesteld.
+1. De voorzitter, de leden, de plaatsvervangende leden die rechterlijk ambtenaar met rechtspraak belast zijn, alsmede de secretaris en de plaatsvervangend-secretarissen, worden voor hun werkzaamheden bij de accountantskamer vrijgesteld.
 
-2. Onze Minister compenseert het betrokken gerecht voor de vrijgestelde tijd overeenkomstig de bezoldiging die de voorzitter, de leden en de plaatsvervangende leden, bedoeld in het eerste lid, op grond van de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) ontvangen.
+2. Onze Minister compenseert het betrokken gerecht voor de vrijgestelde tijd overeenkomstig de bezoldiging die de personen, bedoeld in het eerste lid, op grond van de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) ontvangen. Onze Minister compenseert het betrokken gerecht voorts voor de vrijgestelde tijd overeenkomstig de bezoldiging die de secretaris en de plaatsvervangend-secretarissen ontvangen op grond van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) dan wel het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 3. De overige leden en plaatsvervangende leden ontvangen van Onze Minister een vacatiegeld voor hun werkzaamheden voor de accountantskamer volgens bij ministeriële regeling te stellen regels.
 
@@ -215,9 +213,9 @@ De voorzitter, de leden en de secretaris zijn verplicht tot geheimhouding van de
 
 ##### Artikel 20
 
-1. De [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=14&z=2009-05-01&g=2009-05-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter, de leden en de secretaris.
+1. De [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter, de leden en de secretaris.
 
-2. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2009-05-01&g=2009-05-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=35&z=2009-05-01&g=2009-05-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter en de leden.
+2. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2013-01-01&g=2013-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=35&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de plaatsvervangers van de voorzitter en de leden.
 
 ##### Artikel 21
 
@@ -251,15 +249,15 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de inrichting van d
 
 ##### Artikel 21d
 
-1. De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2009-05-01&g=2009-05-01) in hoger beroep heeft gedaan.
+1. De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2013-01-01&g=2013-01-01) in hoger beroep heeft gedaan.
 
-2. De secretaris van de accountantskamer verstrekt desgevraagd aan de accountantskamer en het College, de leden van de rechterlijke macht en de ambtenaren van het openbaar ministerie inlichtingen omtrent onherroepelijke beslissingen.
+2. De secretaris van de accountantskamer verstrekt desgevraagd aan de accountantskamer en het College, de leden van de rechterlijke macht en de ambtenaren van het openbaar ministerie inlichtingen omtrent beslissingen.
 
 3. Bij algemene maatregel van bestuur kunnen omtrent het in het eerste en het tweede lid bepaalde nadere regels worden gesteld. Daarbij kunnen de in het eerste lid gestelde verplichtingen, voor zover zulks uit het oogpunt van een goede rechtsbedeling toelaatbaar is, worden beperkt.
 
 ##### Artikel 21e
 
-De secretaris van de accountantskamer kan aan degene die daarom verzoekt, tegen betaling der kosten, afschriften van onherroepelijke beslissingen van de accountantskamer en het College verstrekken. Zodanige afschriften worden niet dan na machtiging van de voorzitter van het college dat de desbetreffende beslissing heeft gegeven, verstrekt. Een verzoek daartoe wordt alleen toegestaan ingeval de verzoeker heeft aangetoond dat hij daarbij belang heeft. In de afschriften worden de in de desbetreffende beslissingen vermelde namen, voornamen en woonplaatsen van de klagers, degenen over wie is geklaagd, de getuigen en de deskundigen weggelaten.
+De secretaris van de accountantskamer kan aan degene die daarom verzoekt, tegen betaling der kosten, afschriften van onherroepelijke beslissingen van de accountantskamer en het College verstrekken. Zodanige afschriften worden niet dan na machtiging van de voorzitter van het college dat de desbetreffende beslissing heeft gegeven, verstrekt. Een verzoek daartoe wordt alleen toegestaan ingeval de verzoeker heeft aangetoond dat hij daarbij belang heeft. In de afschriften worden de in de desbetreffende beslissingen vermelde namen, voornamen en woonplaatsen van de klagers, de getuigen en de deskundigen weggelaten. De namen, voornamen en woonplaatsen van degenen over wie is geklaagd worden weggelaten, voor zover hun belang door publicatie in het afschrift onevenredig kan worden geschaad.
 
 ### Hoofdstuk IV. Het tuchtgeding in eerste aanleg
 
@@ -291,7 +289,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2
 
-1. De tuchtrechtelijke maatregelen die de accountantskamer kan opleggen bij handelen of nalaten als bedoeld in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51), [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31), zijn:
+1. De tuchtrechtelijke maatregelen die de accountantskamer kan opleggen bij handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31), zijn:
 
 - a. waarschuwing;
 
@@ -301,21 +299,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. tijdelijke doorhaling van de inschrijving van de accountant in het register voor ten hoogste één jaar;
 
-- e. doorhaling van de inschrijving van de accountant in het register.
+- e. doorhaling van de inschrijving van de accountant in de registers.
 
 2. Een geldboete kan gezamenlijk met een tuchtrechtelijke maatregel als genoemd in het eerste lid onder a, b, d en e, worden opgelegd.
 
-3. Bij de beslissing tot oplegging van een maatregel als bedoeld in het eerste lid kan worden bepaald dat deze beslissing op kosten van betrokkene wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51), [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) beschermd belang dat vordert.
+3. Bij de beslissing tot oplegging van een maatregel als bedoeld in het eerste lid kan worden bepaald dat deze beslissing op kosten van betrokkene wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) beschermd belang dat vordert.
 
-4. Bij de beslissing tot het opleggen van de maatregel van tijdelijke doorhaling van de accountant kan de termijn die is gehanteerd ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2009-05-01&g=2009-05-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2009-05-01&g=2009-05-01), op de periode van de tijdelijke doorhaling in mindering worden gebracht.
+4. Bij de beslissing tot het opleggen van de maatregel van tijdelijke doorhaling van de inschrijving van de accountant kan de termijn die is gehanteerd ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2013-01-01&g=2013-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2013-01-01&g=2013-01-01), op de periode van de tijdelijke doorhaling in mindering worden gebracht.
 
 ##### Artikel 3
 
-De tuchtrechtelijke maatregel van waarschuwing bestaat uit een schriftelijke waarschuwing van de betrokkene in verband met het begane feit.
+Vervallen
 
 ##### Artikel 4
 
-De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke vermaning tot de betrokkene in verband met het begane feit.
+Vervallen
 
 ##### Artikel 5
 
@@ -325,7 +323,7 @@ De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke verman
 
 3. Een beslissing tot oplegging van een geldboete bevat de termijn waarbinnen deze moet zijn voldaan. Op verzoek van de betrokkene kan de voorzitter de termijn verlengen. De opgelegde boete komt ten bate van de Staat.
 
-4. Wordt de boete niet binnen de gestelde termijn voldaan, dan kan de accountantskamer na het horen van betrokkene, ambtshalve beslissen een tuchtrechtelijke maatregel als bedoeld in [artikel 2, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), op te leggen.
+4. Wordt de boete niet binnen de gestelde termijn voldaan, dan kan de accountantskamer na het horen van betrokkene of het daartoe behoorlijk oproepen, ambtshalve beslissen een tuchtrechtelijke maatregel als bedoeld in [artikel 2, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01), op te leggen.
 
 ##### Artikel 6
 
@@ -335,21 +333,21 @@ De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke verman
 
 ##### Artikel 7
 
-1. In het geval waarin de accountantskamer tijdelijke doorhaling van de inschrijving van betrokkene in het register gelast, vermeldt zij in haar uitspraak wanneer de tijdelijke doorhaling ingaat en wanneer deze eindigt.
+1. In het geval waarin de accountantskamer tijdelijke doorhaling van de inschrijving van betrokkene in de registers gelast, vermeldt zij in haar uitspraak wanneer de tijdelijke doorhaling ingaat en wanneer deze eindigt.
 
-2. Terstond na het doen van de uitspraak informeert de accountantskamer de Autoriteit Financiële Markten en de voorzitter van de NOvAA onderscheidenlijk de voorzitter van het NIVRA over de naam van de betrokkene, het tijdstip waarop de tijdelijke doorhaling ingaat en het tijdstip waarop deze eindigt.
+2. Terstond na het doen van de uitspraak informeert de accountantskamer de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie over de naam van de betrokkene, het tijdstip waarop de tijdelijke doorhaling ingaat en het tijdstip waarop deze eindigt.
 
 ##### Artikel 8
 
-1. In het geval waarin de accountantskamer doorhaling van de inschrijving van betrokkene in het register gelast, bepaalt zij tevens de termijn waarbinnen betrokkene niet opnieuw in het register kan worden ingeschreven. Deze termijn bedraagt maximaal 10 jaren.
+1. In het geval waarin de accountantskamer doorhaling van de inschrijving van betrokkene in de registers gelast, bepaalt zij tevens de termijn waarbinnen betrokkene niet opnieuw in de registers kan worden ingeschreven. Deze termijn bedraagt maximaal 10 jaren.
 
-2. Terstond na het doen van de uitspraak informeert de accountantskamer de Autoriteit Financiële Markten en de voorzitter van de NOvAA onderscheidenlijk de voorzitter van het NIVRA over de naam van de betrokkene, het tijdstip waarop de doorhaling ingaat en de termijn waarbinnen betrokkene niet opnieuw in het register kan worden ingeschreven.
+2. Terstond na het doen van de uitspraak informeert de accountantskamer de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie over de naam van de betrokkene, het tijdstip waarop de doorhaling ingaat en de termijn waarbinnen betrokkene niet opnieuw in het register kan worden ingeschreven.
 
 ##### Artikel 9
 
-1. De accountantskamer informeert terstond na het doen van de uitspraak de Autoriteit Financiële Markten, de voorzitter van het NIVRA dan wel de voorzitter van de NOvAA omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
+1. De accountantskamer informeert terstond na het doen van de uitspraak de Autoriteit Financiële Marktenen de voorzitter van de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
 
-2. De Autoriteit Financiële Markten, de voorzitter van het NIVRA dan wel de voorzitter van de NOvAA dragen na het onherroepelijk worden van de uitspraak, zorg voor opname van de tuchtrechtelijke maatregel in het register.
+2. De Autoriteit Financiële Marktenen de voorzitter van de beroepsorganisatie dragen na het onherroepelijk worden van de uitspraak, zorg voor opname van de tuchtrechtelijke maatregel in de registers.
 
 ### Hoofdstuk IV. Het tuchtgeding in eerste aanleg
 
@@ -357,21 +355,19 @@ De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke verman
 
 1. Een ieder kan bij een vermoeden van handelen of nalaten:
 
-- a. als bedoeld in [artikel 31, eerste lid, van Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) door een externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1),
+- a. als bedoeld in [artikel 31, eerste lid, van Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) door een externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1), of
 
-- b. als bedoeld in [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) door een registeraccountant, of
-
-- c. als bedoeld in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51) door een Accountant-Administratieconsulent,
+- b. als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) door een accountant,
 
 binnen drie jaar na de constatering van het handelen of nalaten door middel van een klaagschrift een klacht indienen bij de accountantskamer. De accountantskamer neemt de klacht niet in behandeling indien tussen het moment van het handelen of nalaten en het moment van indiening van de klacht een periode van zes jaar is verstreken.
 
-2. De voorzitter van de NOvAA respectievelijk het NIVRA, kan ingeval betrokkene is veroordeeld voor een strafbaar feit en dit feit raakt aan de werkzaamheden die een accountant verricht, de zaak binnen drie jaar na de veroordeling aanhangig maken bij de accountantskamer door middel van een klaagschrift.
+2. De voorzitter van de beroepsorganisatie kan ingeval betrokkene is veroordeeld voor een strafbaar feit en dit feit raakt aan de werkzaamheden die een accountant verricht, de zaak binnen drie jaar na de veroordeling aanhangig maken bij de accountantskamer door middel van een klaagschrift.
 
 3. Het klaagschrift vermeldt de naam van de klager, de naam van betrokkene en de feiten waarvoor een tuchtrechtelijke maatregel wordt gevraagd. In het klaagschrift wordt vermeld of de klacht is voorgelegd aan de organisatie waarbinnen de betrokken accountant werkzaam is, of aan een klachten- of geschillencommissie waarbij deze organisatie aangesloten is. Indien de klacht niet is voorgelegd, worden de redenen daarvoor in het klaagschrift vermeld. Bij het klaagschrift worden alle op de zaak betrekking hebbende stukken aan de accountantskamer overgelegd.
 
 4. De accountantskamer kan zaken over hetzelfde of een verwant onderwerp ter behandeling voegen en de de behandeling van gevoegde zaken splitsen.
 
-5. Indien een klaagschrift is gebaseerd op [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) of op [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51), maar tevens betrekking heeft op [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31), is de accountantskamer gehouden deze klacht ambtshalve aan te vullen.
+5. Indien een klaagschrift is gebaseerd op [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42), maar tevens betrekking heeft op [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31), is de accountantskamer gehouden deze klacht ambtshalve aan te vullen.
 
 ##### Artikel 23
 
@@ -381,19 +377,13 @@ binnen drie jaar na de constatering van het handelen of nalaten door middel van 
 
 3. Indien de klacht wordt ingetrokken omdat betrokkene geheel of gedeeltelijk aan de klacht van de klager tegemoet is gekomen, wordt het door de klager betaalde griffierecht vergoed door betrokkene. Indien de klacht gegrond wordt verklaard wordt het door de klager betaalde griffierecht vergoed door betrokkene.
 
-4. In afwijking van het eerste lid, wordt geen griffierecht geheven indien een klaagschrift wordt ingediend door:
-
-- a. de Autoriteit Financiële Markten;
-
-- b. de voorzitter van het NIVRA;
-
-- c. de voorzitter van de NOvAA.
+4. In afwijking van het eerste lid, wordt geen griffierecht geheven indien een klaagschrift wordt ingediend door de Autoriteit Financiële Markten of de voorzitter van de beroepsorganisatie.
 
 5. Onze Minister kan het in het eerste lid genoemde bedrag wijzigen voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
 ##### Artikel 24
 
-Een lid dan wel plaatsvervangend lid van de accountantskamer dat externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1), registeraccountant of Accountant-Administratieconsulent is, wordt ingeval tegen hem een klacht is ingediend, vervangen door een door de voorzitter aan te wijzen ander lid dan wel plaatsvervangend lid.
+Een lid dan wel plaatsvervangend lid van de accountantskamer dat accountant is, wordt ingeval tegen hem een klacht is ingediend, vervangen door een door de voorzitter aan te wijzen ander lid dan wel plaatsvervangend lid.
 
 ##### Artikel 25
 
@@ -407,11 +397,11 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat externe account
 
 ##### Artikel 26
 
-1. De betrokkene wordt binnen een termijn van ten hoogste tien weken nadat de zaak bij de accountantskamer aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. Indien de voorzitter van de accountantskamer gebruik maakt van de bevoegdheid in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2009-05-01&g=2009-05-01), kan hij bepalen dat de termijn van tien weken wordt verlengd, waarbij de termijn voor verlenging niet langer kan zijn dan de tijd die is gebruikt voor de procedure in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2009-05-01&g=2009-05-01).
+1. De betrokkene wordt binnen een termijn van ten hoogste tien weken nadat de zaak bij de accountantskamer aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. Indien de voorzitter van de accountantskamer gebruik maakt van de bevoegdheid in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2013-01-01&g=2013-01-01), kan hij bepalen dat de termijn van tien weken wordt verlengd, waarbij de termijn voor verlenging niet langer kan zijn dan de tijd die is gebruikt voor de procedure in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2013-01-01&g=2013-01-01).
 
 2. De oproeping wordt ten minste vier weken voor de dag van de zitting aan de betrokkene gezonden en vermeldt de plaats van de zitting.
 
-3. De oproeping gaat vergezeld van een afschrift van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2009-05-01&g=2009-05-01) bedoelde klaagschrift en van alle op de zaak betrekking hebbende stukken.
+3. De oproeping gaat vergezeld van een afschrift van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=22&z=2013-01-01&g=2013-01-01) bedoelde klaagschrift en van alle op de zaak betrekking hebbende stukken.
 
 4. De oproeping houdt in:
 
@@ -425,7 +415,7 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat externe account
 
 1. De voorzitter van de accountantskamer kan bevelen dat betrokkene in persoon verschijnt.
 
-2. Indien de betrokkene wiens persoonlijke verschijning is bevolen, niet op de oproeping verschijnt, kan de voorzitter van de accountantskamer de officier van justitie bij de rechtbank Zwolle-Lelystad verzoeken de betrokkene ter terechtzitting van de accountantskamer te dagvaarden en daarbij te voegen een bevel tot medebrenging.
+2. Indien de betrokkene wiens persoonlijke verschijning is bevolen, niet op de oproeping verschijnt, kan de voorzitter van de accountantskamer de officier van justitie bij het arrondissementsparket Oost-Nederland verzoeken de betrokkene ter terechtzitting van de accountantskamer te dagvaarden en daarbij te voegen een bevel tot medebrenging.
 
 ##### Artikel 28
 
@@ -459,17 +449,15 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat externe account
 
 In geval van intrekking van de klacht wordt de behandeling daarvan gestaakt, tenzij de accountantskamer beslist dat de behandeling van de klacht om redenen aan het algemeen belang ontleend, moet worden voortgezet. In dat laatste geval wordt de klacht verder behandeld als ware deze afkomstig van:
 
-- a. de Autoriteit Financiële Markten, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31);
+- a. de Autoriteit Financiële Markten, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31); of
 
-- b. de voorzitter van de NOvAA, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51);
-
-- c. de voorzitter van het NIVRA, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 33, eerste lid, van de Wet op de registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33).
+- b. de voorzitter van de beroepsorganisatie, bij een vermoeden van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42).
 
 ##### Artikel 31
 
 1. De accountantskamer kan de behandeling ter zitting schorsen.
 
-2. In het geval de behandeling ter zitting is geschorst, bepaalt de accountantskamer zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en stelt de secretaris de betrokkene en de klager hiervan op de hoogte tenzij het tijdstip van de hervatting op de zitting door de accountantskamer reeds mondeling is vastgesteld en mondeling aan klager en de betrokkene is aangezegd. Indien zulks niet mondeling is aangezegd zijn het tweede tot en met het vijfde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2009-05-01&g=2009-05-01) van overeenkomstige toepassing, voor zover daaraan niet reeds eerder is voldaan.
+2. In het geval de behandeling ter zitting is geschorst, bepaalt de accountantskamer zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en stelt de secretaris de betrokkene en de klager hiervan op de hoogte tenzij het tijdstip van de hervatting op de zitting door de accountantskamer reeds mondeling is vastgesteld en mondeling aan klager en de betrokkene is aangezegd. Indien zulks niet mondeling is aangezegd zijn het tweede tot en met het vijfde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing, voor zover daaraan niet reeds eerder is voldaan.
 
 ##### Artikel 32
 
@@ -497,13 +485,13 @@ Op verzoek van betrokkene of de klager, kan de voorzitter of elk van de leden di
 
 ##### Artikel 35
 
-Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2009-05-01&g=2009-05-01) kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) zijn van overeenkomstige toepassing.
+Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=34&z=2013-01-01&g=2013-01-01) kan een voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met artikel 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) zijn van overeenkomstige toepassing.
 
 ##### Artikel 36
 
 1. De accountantskamer kan ambtshalve of op verzoek van de betrokkene of de klager getuigen oproepen.
 
-2. Ieder die als getuige is opgeroepen, is verplicht voor de accountantskamer te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2009-05-01&g=2009-05-01), is van overeenkomstige toepassing.
+2. Ieder die als getuige is opgeroepen, is verplicht voor de accountantskamer te verschijnen. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=27&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=217) van overeenkomstige toepassing.
 
@@ -525,29 +513,29 @@ Op grond van feiten en omstandigheden als bedoeld in [artikel 34](https://wetten
 
 3. De accountantskamer kan een klacht niet-ontvankelijk verklaren.
 
-4. De accountantskamer spreekt de beslissing, bedoeld in het tweede en het derde lid, in het openbaar uit.
+4. De accountantskamer, dan wel de voorzitter daarvan, spreekt de beslissing, bedoeld in het tweede en het derde lid, in het openbaar uit.
 
 5. In afwijking van het eerste lid, kan de accountantskamer na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.
 
 6. De secretaris maakt van de mondelinge uitspraak een proces-verbaal op.
 
-7. De uitspraak wordt onverwijld aan de betrokkene, de klager, de Autoriteit Financiële Markten, de voorzitter van de NOvAA, onderscheidenlijk de voorzitter van het NIVRA gezonden.
+7. De uitspraak wordt onverwijld aan de betrokkene, de klager, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie gezonden.
 
 ##### Artikel 38a
 
-1. De voorzitter van de accountantskamer kan een klacht alvorens deze in behandeling te nemen doorsturen naar de instantie die daarvoor bij verordening van het NIVRA of de NOvAA is aangewezen, in het geval de klacht zich daar naar haar oordeel toe leent en indien uit het klaagschrift blijkt, dat de klacht niet aan deze instantie is voorgelegd. De voorzitter van de accountantskamer kan hierbij zonodig toepassing geven aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2009-05-01&g=2009-05-01). De op de zaak betrekking hebbende stukken worden meegezonden met het klaagschrift.
+1. De voorzitter van de accountantskamer kan een klacht alvorens deze in behandeling te nemen doorsturen naar de instantie die daarvoor bij verordening van de beroepsorganisatie is aangewezen, in het geval de klacht zich daar naar haar oordeel toe leent en indien uit het klaagschrift blijkt, dat de klacht niet aan deze instantie is voorgelegd. De voorzitter van de accountantskamer kan hierbij zonodig toepassing geven aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2013-01-01&g=2013-01-01). De op de zaak betrekking hebbende stukken worden meegezonden met het klaagschrift.
 
-2. Indien de voorzitter van de accountantskamer toepassing geeft aan het eerste lid, stelt hij de klager daarvan in kennis en vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de betrokken instantie opnieuw een klacht bij de accountantskamer in te dienen. [Artikel 38, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2009-05-01&g=2009-05-01), is van overeenkomstige toepassing.
+2. Indien de voorzitter van de accountantskamer toepassing geeft aan het eerste lid, stelt hij de klager daarvan in kennis en vermeldt hij de bevoegdheid van de klager om na ommekomst van de behandeling door de betrokken instantie opnieuw een klacht bij de accountantskamer in te dienen. [Artikel 38, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-3. De instantie waaraan de klacht overeenkomstig het eerste lid is toegezonden, behandelt de klacht overeenkomstig het bepaalde bij of krachtens de toepasselijke verordening van het NIVRA onderscheidenlijk de NOvAA.
+3. De instantie waaraan de klacht overeenkomstig het eerste lid is toegezonden, behandelt de klacht overeenkomstig het bepaalde bij of krachtens de toepasselijke verordening van de beroepsorganisatie.
 
 ##### Artikel 39
 
-1. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, kan de voorzitter de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2009-05-01&g=2009-05-01) is van overeenkomstige toepassing.
+1. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, kan de voorzitter de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
-2. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht gegrond is, maar geen andere tuchtmaatregel dan een waarschuwing, berisping of een geldboete van ten hoogste € 225 dient te worden opgelegd, kan de voorzitter na betrokkene te hebben gehoord, de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2009-05-01&g=2009-05-01) is van overeenkomstige toepassing.
+2. Indien naar het oordeel van de voorzitter van de accountantskamer een klacht gegrond is, maar geen andere tuchtmaatregel dan een waarschuwing, berisping of een geldboete dient te worden opgelegd, kan de voorzitter na betrokkene te hebben gehoord, de zaak zonder zitting afdoen. [Artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
-3. Tegen de uitspraak, bedoeld in het eerste en tweede lid, kan de betrokkene of de klager binnen zes weken na verzending van de uitspraak verzet doen. In dat geval vervalt de uitspraak en wordt de zaak verder overeenkomstig de [artikelen 26 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=26&z=2009-05-01&g=2009-05-01) behandeld.
+3. Tegen de uitspraak, bedoeld in het eerste en tweede lid, kan de betrokkene of de klager binnen zes weken na verzending van de uitspraak verzet doen. In dat geval vervalt de uitspraak en wordt de zaak verder overeenkomstig de [artikelen 25 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=25&z=2013-01-01&g=2013-01-01) behandeld.
 
 ##### Artikel 40
 
@@ -555,33 +543,31 @@ Vervallen.
 
 ##### Artikel 41
 
-1. De accountantskamer is bij wijze van voorlopige voorziening bevoegd de inschrijving van de betrokkene tijdelijk door te halen, op verzoek van:
+1. De accountantskamer is bij wijze van voorlopige voorziening bevoegd tot het opleggen een tijdelijke doorhaling van de inschrijving van de betrokkene in de registers, op verzoek van:
 
-- a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) en daardoor zwaarwegende openbare belangen in het geding zijn;
+- a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) en daardoor zwaarwegende openbare belangen in het geding zijn; of
 
-- b. de voorzitter van de NOvAA, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 51, eerste lid, van de Wet Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51) en daardoor zwaarwegende openbare belangen in het geding zijn;
-
-- c. de voorzitter van het NIVRA, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) en daardoor zwaarwegende openbare belangen in het geding zijn.
+- b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) en daardoor zwaarwegende belangen in het geding zijn.
 
 2. De accountantskamer kan tot en met het moment van de uitspraak de tijdelijke doorhaling opheffen.
 
-3. De secretaris van de accountantskamer stelt de Autoriteit Financiële Markten, de voorzitter van de NOvAA, onderscheidenlijk de voorzitter van het NIVRA en de betrokkene onverwijld in kennis van een tijdelijke doorhaling als bedoeld in het eerste lid dan wel de opheffing daarvan.
+3. De secretaris van de accountantskamer stelt de Autoriteit Financiële Markten, de voorzitter van de beroepsorganisatie en de betrokkene onverwijld in kennis van een beslissing tot tijdelijke doorhaling als bedoeld in het eerste lid, dan wel tot opheffing daarvan.
 
 4. Over het voornemen tot tijdelijke doorhaling van de inschrijving wordt de betrokkene gehoord.
 
-5. Ingeval de accountantskamer naar aanleiding van de in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51), [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan zij de periode van tijdelijke doorhaling ingevolge het eerste lid in mindering brengen op die termijn.
+5. Ingeval de accountantskamer naar aanleiding van de in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) of [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan zij de periode van tijdelijke doorhaling ingevolge het eerste lid in mindering brengen op die termijn.
 
 6. Het eerste lid is van overeenkomstige toepassing, indien tegen betrokkene een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het uitoefenen van het beroep van betrokkene raakt.
 
 7. In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen.
 
-8. Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. [Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2009-05-01&g=2009-05-01) is van overeenkomstige toepassing.
+8. Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. [Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=43&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 42
 
-De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2009-05-01&g=2009-05-01), vervalt op het moment dat:
+De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2013-01-01&g=2013-01-01), vervalt op het moment dat:
 
-- a. de accountantskamer op grond van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2009-05-01&g=2009-05-01), de tijdelijke doorhaling opheft; of
+- a. de accountantskamer op grond van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2013-01-01&g=2013-01-01), de tijdelijke doorhaling opheft; of
 
 - b. de uitspraak van de accountantskamer onherroepelijk wordt; of
 
@@ -595,41 +581,41 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 41, eerste lid
 
 1. De [artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=31) zijn ten aanzien van de behandeling van een uitspraak van de accountantskamer in hoger beroep van overeenkomstige toepassing met dien verstande dat:
 
-- a. in plaats van «de voorzitter van het bedrijfslichaam» wordt gelezen: de klager, of de voorzitter van het NIVRA, voor zover het een registeraccountant betreft, dan wel de voorzitter van de NOvAA, voor zover het een Accountant-Administratieconsulent betreft;
+- a. in plaats van «de voorzitter van het bedrijfslichaam» wordt gelezen: de klager of de voorzitter van de beroepsorganisatie;
 
 - b. in plaats van «het tuchtgerecht» wordt gelezen: de accountantskamer;
 
 - c. in plaats van «het betrokken tuchtgerecht» wordt gelezen: de accountantskamer.
 
-2. Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer en tegen de uitspraak, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38a&z=2009-05-01&g=2009-05-01).
+2. Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer, tegen de uitspraak, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=38a&z=2013-01-01&g=2013-01-01) en tegen de verklaring, bedoeld in artikel 42a.
 
-3. Het College informeert de accountantskamer, de Autoriteit Financiële Markten, de voorzitter van het NIVRA, voor zover het een registeraccountant betreft, dan wel de voorzitter van de NOvAA, voor zover het een Accountant-Administratieconsulent betreft, over het feit dat beroep is ingesteld en vermeldt daarbij welke zaak het betreft.
+3. Het College informeert de accountantskamer, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie, over het feit dat beroep is ingesteld en vermeldt daarbij welke zaak het betreft.
 
 ##### Artikel 44
 
-1. Het College is bij wijze van voorziening, in afwachting van een uitspraak in hoger beroep, bevoegd de inschrijving van betrokkene in het register tijdelijk door te halen op verzoek van:
+1. Het College is bij wijze van voorlopige voorziening bevoegd tot het opleggen van een tijdelijke doorhaling van de inschrijving van de betrokkene in de registers:
 
 - a. de Autoriteit Financiële Markten, ingeval jegens de betrokkene een ernstig vermoeden is gerezen dat hij heeft gehandeld of heeft nagelaten als bedoeld in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) en daardoor zwaarwegende openbare belangen in het geding zijn;
 
-- b. de voorzitter van de NOvAA, ingeval jegens de betrokkene een ernstig vermoeden is gerezen dat hij heeft gehandeld of heeft nagelaten als bedoeld in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51) en daardoor zwaarwegende openbare belangen in het geding zijn;
-
-- c. de voorzitter van het NIVRA, ingeval jegens de betrokkene een ernstig vermoeden is gerezen dat hij heeft gehandeld of heeft nagelaten als bedoeld in [artikel 33, eerste lid, van de Wet op de registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) en daardoor zwaarwegende openbare belangen in het geding zijn.
+- b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ernstig vermoeden is gerezen van handelen of nalaten als bedoeld in [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42) en daardoor zwaarwegende openbare belangen in het geding zijn.
 
 2. Het College kan tot en met het moment van de uitspraak de tijdelijke doorhaling opheffen.
 
-3. De griffier stelt de Autoriteit Financiële Markten, de voorzitter van de NOvAA onderscheidenlijk de voorzitter van het NIVRA en de betrokkene onverwijld in kennis van een tijdelijke doorhaling als bedoeld in het eerste lid en dan wel een beslissing tot opheffing daarvan.
+3. De griffier stelt de accountantskamer, de Autoriteit Financiële Markten, de voorzitter van de beroepsorganisatie en de betrokkene onverwijld in kennis van een beslissing tot tijdelijke doorhaling als bedoeld in het eerste lid, dan wel tot opheffing daarvan.
 
 4. Over het voornemen tot tijdelijke doorhaling van de inschrijving wordt de betrokkene gehoord.
 
-5. Ingeval het College naar aanleiding van de in [artikel 51, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=51), [artikel 33, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=33) of [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31), bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan het de periode van de tijdelijke doorhaling van de inschrijving ingevolge het eerste lid in mindering brengen op die termijn.
+5. Ingeval het College naar aanleiding van de in [artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=31) of [artikel 42, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=42), bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan het de periode van de tijdelijke doorhaling van de inschrijving ingevolge het eerste lid in mindering brengen op die termijn.
 
 6. Het eerste lid is van overeenkomstige toepassing indien tegen betrokkene een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het beroep van betrokkene raakt.
 
+7. In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen.
+
 ##### Artikel 45
 
-De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2009-05-01&g=2009-05-01), vervalt op het moment dat:
+De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2013-01-01&g=2013-01-01), vervalt op het moment dat:
 
-- a. het College op grond van [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2009-05-01&g=2009-05-01), de tijdelijke doorhaling opheft; of
+- a. het College op grond van [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2013-01-01&g=2013-01-01), de tijdelijke doorhaling opheft; of
 
 - b. het College de zaak zelf afdoet op grond van [artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=40); of
 
@@ -639,27 +625,29 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in [artikel 44, eerste lid
 
 ##### Artikel 46
 
-1. Het College informeert terstond na het doen van de uitspraak de Accountantskamer, de Autoriteit Financiële Markten, de voorzitter van het NIVRA dan wel de voorzitter van de NOvAA omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
+1. Het College informeert terstond na het doen van de uitspraak de Accountantskamer, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.
 
-2. De Autoriteit Financiële Markten, het bestuur van het NIVRA dan wel het bestuur van de NOvAA dragen zorg voor de opname van de opgelegde tuchtrechtelijke maatregel in het register.
+2. De Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie dragen zorg voor de opname van de opgelegde tuchtrechtelijke maatregel in de registers.
 
 ### Hoofdstuk VI. De tenuitvoerlegging
 
 ##### Artikel 47
 
-De tenuitvoerlegging van uitspraken van de accountantskamer en van het College geschiedt op last van de voorzitter van de accountantskamer.
+De tenuitvoerlegging van uitspraken van de accountantskamer en van het College geschiedt op last van de voorzitter van de accountantskamer. Tegen deze last staat geen voorziening open.
 
 ##### Artikel 48
 
-Een uitspraak wordt, met uitzondering van de uitspraak bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2009-05-01&g=2009-05-01), niet ten uitvoer gelegd voordat deze onherroepelijk is.
+1. Een uitspraak wordt, met uitzondering van uitspraken als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=IV&artikel=41&z=2013-01-01&g=2013-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=V&artikel=44&z=2013-01-01&g=2013-01-01), niet ten uitvoer gelegd voordat deze onherroepelijk is, tenzij de accountantskamer vanwege zwaarwegende openbare belangen verklaart dat de uitspraak uitvoerbaar bij voorraad is.
+
+2. Indien een hoger beroep is ingesteld tegen een uitspraak van de accountantskamer dat uitvoerbaar bij voorraad is verklaard, kan het College op verzoek van de betrokkene de tenuitvoerlegging van die uitspraak schorsen.
 
 ### Hoofdstuk VII. Wijziging in andere wetten
 
 ### Hoofdstuk VIII. Slot- en overgangsbepalingen
 
-## Bijlage. als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2009-05-01&g=2009-05-01), van de Wet tuchtrechtspraak accountants
+## Bijlage. als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01), van de Wet tuchtrechtspraak accountants
 
-Formulier voor het afleggen van de eed of belofte als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2009-05-01&g=2009-05-01), van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers;
+Formulier voor het afleggen van de eed of belofte als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01), van de Wet tuchtrechtspraak accountants door de voorzitter, de leden, de secretaris en hun plaatsvervangers;
 
 Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten zal onderhouden en nakomen.
 
