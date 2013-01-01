@@ -4,7 +4,7 @@ identifier: "BWBR0012859"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012859"
 soort: "wet"
@@ -178,7 +178,7 @@ Deze wet en andere wettelijke voorschriften in verband met de vervanging van de 
 
 ##### Artikel 3
 
-Indien voor 1 januari 2002 beroep bij de administratieve rechter is ingesteld, blijft het recht zoals dat voor dit tijdstip gold, van toepassing ten aanzien van het verschuldigde griffierecht of de te stellen zekerheid.
+Indien voor 1 januari 2002 beroep bij de bestuursrechter is ingesteld, blijft het recht zoals dat voor dit tijdstip gold, van toepassing ten aanzien van het verschuldigde griffierecht of de te stellen zekerheid.
 
 ##### Artikel 3a
 
