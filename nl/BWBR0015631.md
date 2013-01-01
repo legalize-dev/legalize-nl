@@ -4,7 +4,7 @@ identifier: "BWBR0015631"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2003-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015631"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ De functionaris, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het 
 
 ##### Artikel 2
 
-De ambtenaar, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het arrondissement Amsterdam, is bevoegd tot het verrichten van het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in [artikel 9, zesde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=9).
+De ambtenaar, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het arrondissement Amsterdam, is bevoegd tot het verrichten van het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in [artikel 9, zesde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=9).
 
 ##### Artikel 3
 
