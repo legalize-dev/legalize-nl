@@ -4,7 +4,7 @@ identifier: "BWBR0005219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005219"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De opleiding tot verkeersbrigadier vindt plaats onder verantwoordelijkheid van de betrokken korpschef van het regionale politiekorps.
+De opleiding tot verkeersbrigadier vindt plaats onder verantwoordelijkheid van de korpschef.
 
 ##### Artikel 2
 
@@ -80,7 +80,7 @@ Vervallen
 
 - a. indien de betrokken verkeersbrigadier het praktische gedeelte van de opleiding niet met succes heeft afgerond;
 
-- b. indien de betrokken korpschef van het regionale politiekorps van oordeel is dat de betrokken verkeersbrigadier niet meer geschikt is om de taak van verkeersbrigadier uit te oefenen;
+- b. indien de korpschef van oordeel is dat de betrokken verkeersbrigadier niet meer geschikt is om de taak van verkeersbrigadier uit te oefenen;
 
 - c. indien het niet langer noodzakelijk is, dat de betrokken verkeersbrigadier als zodanig werkzaam is;
 
@@ -106,7 +106,7 @@ Verkeersbrigadiers mogen voor de uitoefening van hun taak slechts worden ingezet
 
 ##### Artikel 10
 
-Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse kinderen zich naar en van school begeven en overigens gedurende de perioden waarin hun hulp naar het oordeel van door de betrokken korpschef van het regionale politiekorps aangewezen politiefunctionarissen noodzakelijk is in het kader van het laten oversteken van voetgangers.
+Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse kinderen zich naar en van school begeven en overigens gedurende de perioden waarin hun hulp naar het oordeel van door de korpschef aangewezen politiefunctionarissen noodzakelijk is in het kader van het laten oversteken van voetgangers.
 
 #### Paragraaf 5. Uitrusting
 
@@ -128,7 +128,7 @@ Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse
 
 ##### Artikel 12
 
-Op verkeersbrigadiers wordt geregeld toezicht gehouden onder verantwoordelijkheid van de betrokken korpschef van het regionale politiekorps.
+Op verkeersbrigadiers wordt geregeld toezicht gehouden onder verantwoordelijkheid van de korpschef.
 
 #### Paragraaf 7. Slotbepalingen
 
