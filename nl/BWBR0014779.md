@@ -4,7 +4,7 @@ identifier: "BWBR0014779"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2008-03-26"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014779"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: de Minister van Justitie;
 
-- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2008-03-26&g=2008-03-26);
+- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2008-03-26&g=2013-01-01);
 
 - c. collectieve beheersorganisatie: de door Onze Minister aangewezen rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van vergoedingen, verschuldigd op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), of op grond van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), of de rechtspersoon die met toestemming van Onze Minister als bedrijf bemiddeling verleent inzake muziekauteursrecht op grond van [artikel 30a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a).
 
@@ -210,5 +210,19 @@ Deze wet wordt aangehaald als: Wet toezicht collectieve beheersorganisaties aute
 ##### Artikel 19
 
 Deze wet treedt in werking op een bij koninklijk besluit vast te stellen tijdstip.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 25a
+
+1. De [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=5) alsmede de [artikelen 7.3, leden 1, 3, 6, 7, 8 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3), en [7.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.5) en de daarop berustende algemene maatregelen van bestuur alsmede de ministeriële regeling, bedoeld in [artikel 1.9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9), zijn van overeenkomstige toepassing op collectieve beheersorganisaties, met dien verstande dat:
+
+- a. wordt verstaan onder topfunctionaris: de leden van de uitvoerende, adviserende en toezichthoudende organen van een collectieve beheersorganisatie alsmede de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die is of zijn belast met de dagelijkse leiding van een collectieve beheersorganisatie.
+
+- b. de op grond van [artikel 5.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5) opgeëiste bedragen beschikbaar komen voor verdeling aan rechthebbenden, en
+
+- c. voor [artikel 7.3, elfde lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) wordt gelezen: Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die is of wordt overeengekomen tussen 18 januari 2012 en het tijdstip waarop deze wet in werking treedt.
+
+2. De op grond van [paragraaf 5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=5) aan de Minister wie het aangaat toekomende bevoegdheden worden, in afwijking van [artikel 5.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1), voor de overeenkomstige toepassing van die wet op collectieve beheersorganisaties uitgeoefend door het College van Toezicht. De in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2), [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.2), en [5.3 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.3) bedoelde informatie wordt, in afwijking van die artikelen, verstrekt aan het College van Toezicht.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
