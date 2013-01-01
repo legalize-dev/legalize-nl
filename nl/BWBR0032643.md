@@ -4,7 +4,7 @@ identifier: "BWBR0032643"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2012-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032643"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2013-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -56,15 +56,15 @@ Het [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit fiscale eenheid 2003.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
 ##### Artikel VII
 
@@ -72,60 +72,88 @@ Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belasting zware motorrijtuigen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit accijns.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Besluit vrijstelling energiebelasting op elektriciteit bij convenanten](https://wetten.overheid.nl/jci1.3:c:BWBR0016872) wordt ingetrokken.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Douane- en Accijnswet BES.
 
 ##### Artikel XXI
 
-Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2012-11-01), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
+Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
+
+- a. [artikel II, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=II&z=2013-01-01&g=2013-01-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=III&z=2013-01-01&g=2013-01-01) terugwerken tot en met 1 januari 2012;
+
+- b. [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), terugwerkt tot en met 1 september 2012;
+
+- c. [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), en [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XXI&z=2013-01-01&g=2013-01-01) terugwerken tot en met 1 november 2012;
+
+- d. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=IV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.
+
+2. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=V&z=2013-01-01&g=2013-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werkt terug tot en met 1 januari 2013.
+
+3. In afwijking van het eerste lid treedt [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+4. In afwijking van het eerste lid treedt [artikel VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen van het te wijzigen artikel verschillend kan worden vastgesteld.
+
+5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XII&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 juli 2013.
+
+Op de voordracht van de Staatssecretaris van Financiën van 26 november 2012, DV/2012/459;
+
+Gelet op de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) en [10.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8), de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a)en [32bd van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bd), de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) en [15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), [artikel 21 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13) en [15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8) en [12 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14) en [14b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), de [artikelen 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) en [73 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73), [artikel 15 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=15), de [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70), [71g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), [71h](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=85) en [91 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91), [artikel 29 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [artikel 28 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) en [59 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [artikel 8 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), [artikel 38 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=38), [artikel 8.39 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39) en de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26), [2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.99), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.4), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.5), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.49), [4.50a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.50a) en [4.58 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.58);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 12 december 2012, nr. W06.12.0479/III);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 17 december 2012, nr. DB/2012/494 U;
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
