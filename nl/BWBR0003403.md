@@ -4,7 +4,7 @@ identifier: "BWBR0003403"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003403"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van deze wet met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2012-01-01&g=2012-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=8&z=2012-01-01&g=2012-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=9&z=2012-01-01&g=2012-01-01) en 19 wordt verstaan onder:
+Voor de toepassing van deze wet met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01) en 19 wordt verstaan onder:
 
 - a. woning: een gebouwde onroerende zaak of een gedeelte daarvan, die een zelfstandige woongelegenheid vormt;
 
@@ -58,23 +58,23 @@ Voor de toepassing van deze wet met uitzondering van de [artikelen 4](https://we
 
 - e. Onze Minister: Onze Minister, belast met de zorg voor de volkshuisvesting;
 
-- f. leegstandverordening: leegstandverordening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01).
+- f. leegstandverordening: leegstandverordening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 4
 
-1. Burgemeester en wethouders voeren binnen drie maanden na ontvangst van de melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2012-01-01&g=2012-01-01), overleg met de eigenaar van het gebouw omtrent het gebruik van dat gebouw respectievelijk dat gedeelte van het gebouw.
+1. Burgemeester en wethouders voeren binnen drie maanden na ontvangst van de melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2013-01-01&g=2013-01-01), overleg met de eigenaar van het gebouw omtrent het gebruik van dat gebouw respectievelijk dat gedeelte van het gebouw.
 
 2. Burgemeester en wethouders kunnen na het overleg, bedoeld in het eerste lid, of zonder overleg indien de eigenaar aan dat overleg geen medewerking verleent, in een leegstandsbeschikking vaststellen of het gebouw respectievelijk het gedeelte daarvan geschikt is voor gebruik.
 
 ##### Artikel 5
 
-1. Burgemeester en wethouders kunnen aan de eigenaar van een leegstaand gebouw, respectievelijk het leegstaand gedeelte daarvan, dat is aangewezen overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2012-01-01&g=2012-01-01), een gebruiker voordragen zodra die leegstand langer duurt dan een in de leegstandverordening aangegeven termijn van ten minste twaalf maanden.
+1. Burgemeester en wethouders kunnen aan de eigenaar van een leegstaand gebouw, respectievelijk het leegstaand gedeelte daarvan, dat is aangewezen overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2013-01-01&g=2013-01-01), een gebruiker voordragen zodra die leegstand langer duurt dan een in de leegstandverordening aangegeven termijn van ten minste twaalf maanden.
 
-2. Een voordracht als bedoeld in het eerste lid wordt slechts gedaan als voordien in een leegstandbeschikking als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2012-01-01&g=2012-01-01), is vastgesteld dat het gebouw respectievelijk het gedeelte daarvan geschikt is voor gebruik.
+2. Een voordracht als bedoeld in het eerste lid wordt slechts gedaan als voordien in een leegstandbeschikking als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2013-01-01&g=2013-01-01), is vastgesteld dat het gebouw respectievelijk het gedeelte daarvan geschikt is voor gebruik.
 
 ##### Artikel 6
 
-Burgemeester en wethouders kunnen in hun besluit, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2012-01-01&g=2012-01-01):
+Burgemeester en wethouders kunnen in hun besluit, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2013-01-01&g=2013-01-01):
 
 - a. een of meer natuurlijke personen of rechtspersonen als gebruiker voordragen;
 
@@ -146,7 +146,7 @@ Vervallen
 
 - c. woonruimte in een voor de verhuur bestemde woning welke ten tijde van het aanvragen van de vergunning bestemd is voor afbraak of voor vernieuwbouw.
 
-In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in de vorige zin is verleend, vindt [artikel 16, negende lid, laatste zin, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2012-01-01&g=2012-01-01), overeenkomstige toepassing en blijft, indien het gaat om woonruimte welke een zelfstandige woning als bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234) vormt [artikel 269 lid 1 en lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=269) buiten toepassing.
+In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in de vorige zin is verleend, vindt [artikel 16, negende lid, laatste zin, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2013-01-01&g=2013-01-01), overeenkomstige toepassing en blijft, indien het gaat om woonruimte welke een zelfstandige woning als bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234) vormt [artikel 269 lid 1 en lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=269) buiten toepassing.
 
 2. De vergunning wordt door de eigenaar aangevraagd door het indienen van een volledig en naar waarheid ingevuld formulier, dat van gemeentewege overeenkomstig een door Onze Minister vastgesteld model beschikbaar wordt gesteld.
 
@@ -164,27 +164,27 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 5. Een verzoek tot verlenging kan uiterlijk tot het tijdstip waarop de vergunning haar geldigheid verliest, worden ingediend. Het bepaalde in het derde lid, onder **b, c** en **d**, is van overeenkomstige toepassing.
 
-6. Beslissen burgemeester en wethouders op een verzoek tot verlenging eerst na het tijdstip waarop de vergunning haar geldigheid verliest, dan blijft een huurovereenkomst als bedoeld in het eerste lid, eerste zin, welke op dat tijdstip voortduurt, in afwijking van het bepaalde in [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2012-01-01&g=2012-01-01), van kracht uiterlijk totdat burgemeester en wethouders hebben beslist.
+6. Beslissen burgemeester en wethouders op een verzoek tot verlenging eerst na het tijdstip waarop de vergunning haar geldigheid verliest, dan blijft een huurovereenkomst als bedoeld in het eerste lid, eerste zin, welke op dat tijdstip voortduurt, in afwijking van het bepaalde in [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2013-01-01&g=2013-01-01), van kracht uiterlijk totdat burgemeester en wethouders hebben beslist.
 
 7. Indien burgemeester en wethouders het verzoek tot verlenging toewijzen, loopt een huurovereenkomst als bedoeld in het eerste lid, eerste zin, welke op dat tijdstip voortduurt, tenzij uit die overeenkomst een bepaalde tijd voortvloeit of partijen een bepaalde tijd overeenkomen, voor onbepaalde tijd door, doch uiterlijk tot het tijdstip waarop de vergunning opnieuw haar geldigheid verliest.
 
-8. [Afdeling 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de voorbereiding van de beschikking op de aanvraag om een vergunning als bedoeld in het eerste lid en van de beschikking op het verzoek om verlenging als bedoeld in het vijfde lid.
+8. Elk beding dat strijdig is met dit artikel of met [artikel 8:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5) in samenhang met artikel 1 van de bij die wet behorende [Bevoegdheidsregeling bestuursrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2), is nietig.
 
-9. Een vergunning als bedoeld in het eerste lid die van rechtswege is verleend vervalt van rechtswege twee jaren na het tijdstip van inwerkingtreding van de beschikking tot verlening van de vergunning, indien de duur waarvoor de vergunning is aangevraagd meer dan twee jaren bedraagt dan wel in de aanvraag de duur waarvoor de vergunning wordt aangevraagd niet is aangegeven.
+9. Door vernummering vervallen.
 
 10. Een beschikking tot verlenging als bedoeld in het vierde lid die van rechtswege is gegeven vervalt van rechtswege een jaar na het tijdstip van inwerkingtreding van de beschikking tot verlenging, indien de duur waarvoor de verlenging is aangevraagd meer dan een jaar bedraagt, of, indien als gevolg van die verlenging de gehele duur van de vergunning meer dan vijf jaren zou bedragen, op het tijdstip waarop de gehele duur van de vergunning vijf jaren bedraagt.
 
 11. Burgemeester en wethouders kunnen een vergunning als bedoeld in het eerste lid die van rechtswege is verleend intrekken, indien ten aanzien van hetzelfde gebouw of dezelfde woning al eerder een zodanige vergunning is verleend. [Artikel 4:20f, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:20f) is van overeenkomstige toepassing.
 
-12. Tegen de beslissing van burgemeester en wethouders tot weigering van de vergunning of tot afwijzing van het verzoek tot verlenging, alsmede tegen een beslissing door burgemeester en wethouders betreffende de huurprijs als bedoeld in [artikel 16, negende lid, eerste zin, of tiende lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2012-01-01&g=2012-01-01), staat geen beroep open.
+12. Tegen de beslissing van burgemeester en wethouders tot weigering van de vergunning of tot afwijzing van het verzoek tot verlenging, alsmede tegen een beslissing door burgemeester en wethouders betreffende de huurprijs als bedoeld in [artikel 16, negende lid, eerste zin, of tiende lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=16&z=2013-01-01&g=2013-01-01), staat geen beroep open.
 
 13. Elk met dit artikel strijdig beding is nietig.
 
 ##### Artikel 16
 
-1. Ten aanzien van de huur en verhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2012-01-01&g=2012-01-01), is verleend, blijven de [artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=232) en [247 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=247) buiten toepassing.
+1. Ten aanzien van de huur en verhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2013-01-01&g=2013-01-01), is verleend, blijven de [artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=232) en [247 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=247) buiten toepassing.
 
-2. Ten aanzien van huurovereenkomsten, als bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2012-01-01&g=2012-01-01), gelden de volgende bijzondere bepalingen.
+2. Ten aanzien van huurovereenkomsten, als bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2013-01-01&g=2013-01-01), gelden de volgende bijzondere bepalingen.
 
 3. De huurovereenkomst wordt aangegaan voor ten minste zes maanden.
 
@@ -202,9 +202,9 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 10. Indien de vergunning van rechtswege is verleend, verbinden burgemeester en wethouders alsnog een voorschrift aan de vergunning, inhoudende de huurprijs tegen welke ten hoogste mag worden verhuurd. Aan de eerste zin wordt uitvoering gegeven binnen zes weken na de bekendmaking van de vergunning van rechtswege. Het negende lid, tweede en derde zin, is van toepassing.
 
-11. De huurovereenkomst moet bij geschrifte worden aangegaan. Daarbij moet melding worden gemaakt van de vergunning bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2012-01-01&g=2012-01-01), het tijdvak waarvoor deze is verleend en de daarin vermelde huurprijs.
+11. De huurovereenkomst moet bij geschrifte worden aangegaan. Daarbij moet melding worden gemaakt van de vergunning bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2013-01-01&g=2013-01-01), het tijdvak waarvoor deze is verleend en de daarin vermelde huurprijs.
 
-12. Indien aan het bepaalde in het elfde lid niet is voldaan, kan de verhuurder zich niet beroepen op het buiten toepassing blijven van de artikelen genoemd in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2012-01-01&g=2012-01-01), en op het van toepassing zijn van het bepaalde in het derde tot en met achtste lid van dit artikel.
+12. Indien aan het bepaalde in het elfde lid niet is voldaan, kan de verhuurder zich niet beroepen op het buiten toepassing blijven van de artikelen genoemd in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2013-01-01&g=2013-01-01), en op het van toepassing zijn van het bepaalde in het derde tot en met achtste lid van dit artikel.
 
 ##### Artikel 17
 
@@ -214,7 +214,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 18
 
-1. De gemeenteraad kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd terzake van overtreding van de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2012-01-01&g=2012-01-01), en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=7&z=2012-01-01&g=2012-01-01). Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.
+1. De gemeenteraad kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd terzake van overtreding van de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2013-01-01&g=2013-01-01), en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=7&z=2013-01-01&g=2013-01-01). Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.
 
 2. De bestuurlijke boete kan niet hoger zijn dan € 7 500.
 
@@ -234,9 +234,9 @@ Vervallen
 
 ##### Artikel 21
 
-1. Van deze wet, welke kan worden aangehaald als Leegstandwet, treden de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=I&artikel=1&z=2012-01-01&g=2012-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2012-01-01&g=2012-01-01), hoofdstuk V, paragraaf E van artikel 18 en hoofdstuk VII in werking op een door Ons te bepalen tijdstip.
+1. Van deze wet, welke kan worden aangehaald als Leegstandwet, treden de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2013-01-01&g=2013-01-01), hoofdstuk V, paragraaf E van artikel 18 en hoofdstuk VII in werking op een door Ons te bepalen tijdstip.
 
-2. De [paragrafen A-D van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=VI&artikel=18&z=2012-01-01&g=2012-01-01) treden in werking twaalf maanden na het tijdstip, bedoeld in het eerste lid.
+2. De [paragrafen A-D van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=VI&artikel=18&z=2013-01-01&g=2013-01-01) treden in werking twaalf maanden na het tijdstip, bedoeld in het eerste lid.
 
 3. De overige bepalingen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat is gelegen na het tijdstip, bedoeld in het eerste lid.
 
@@ -258,13 +258,13 @@ De gemeenteraad kan een leegstandverordening vaststellen.
 
 3. In de leegstandverordening worden nadere regels gegeven omtrent het melden, bedoeld in het eerste en tweede lid.
 
-4. De termijnen, bedoeld in het eerste lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2012-01-01&g=2012-01-01), vangen aan op de dag na de datum van inwerkingtreding van de leegstandverordening, bedoeld in dat lid.
+4. De termijnen, bedoeld in het eerste lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2013-01-01&g=2013-01-01), vangen aan op de dag na de datum van inwerkingtreding van de leegstandverordening, bedoeld in dat lid.
 
 ### Hoofdstuk IV. Voordracht gebruiker
 
 ##### Artikel 7
 
-1. De eigenaar is verplicht om de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2012-01-01&g=2012-01-01) voorgedragen gebruiker binnen drie maanden na de voordracht, een overeenkomst tot ingebruikname van het gebouw, respectievelijk het leegstaand gedeelte daarvan, aan te bieden.
+1. De eigenaar is verplicht om de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2013-01-01&g=2013-01-01) voorgedragen gebruiker binnen drie maanden na de voordracht, een overeenkomst tot ingebruikname van het gebouw, respectievelijk het leegstaand gedeelte daarvan, aan te bieden.
 
 2. Het eerste lid is niet van toepassing indien de eigenaar binnen de termijn, bedoeld in het eerste lid, een overeenkomst is aangegaan met een andere gebruiker, die het gebouw, respectievelijk het gedeelte ervan, binnen redelijke termijn in gebruik neemt.
 
