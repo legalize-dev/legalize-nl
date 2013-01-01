@@ -4,7 +4,7 @@ identifier: "BWBR0029478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-01"
-last_updated: "2011-01-27"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029478"
 soort: "ministeriele-regeling"
@@ -45,11 +45,11 @@ In dit besluit wordt verstaan onder Rijksdienst Caribisch Nederland:het organisa
 
 ##### Artikel 2
 
-Als ambtenaren, belast met het toezicht op de naleving van de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642), voor zover van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, en de [Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292) worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat en de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in voornoemde openbare lichamen.
+Als ambtenaren, belast met het toezicht op de naleving van de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642), voor zover van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, en de [Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292) worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport en de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in voornoemde openbare lichamen.
 
 ##### Artikel 3
 
-Als ambtenaren, belast met het toezicht op de naleving van de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550) en de [Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453) worden aangewezen de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in de openbare lichamen Bonaire, Sint Eustatius en Saba, de ambtenaren van de Inspectie Verkeer en Waterstaat en de ambtenaren van het directoraat-generaal Rijkswaterstaat.
+Als ambtenaren, belast met het toezicht op de naleving van de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550) en de [Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453) worden aangewezen de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in de openbare lichamen Bonaire, Sint Eustatius en Saba, de ambtenaren van de Inspectie Leefomgeving en Transport en de ambtenaren van het directoraat-generaal Rijkswaterstaat.
 
 ##### Artikel 4
 
@@ -62,5 +62,15 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en autorite
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 24, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=24).
+
+##### Artikel 4a
+
+Met het toezicht op de naleving van de [Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180) zijn belast en met de functie van inspecteur als bedoeld in [artikel 1, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=1), zijn bekleed de ambtenaren van de Inspectie Leefomgeving en Transport.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
