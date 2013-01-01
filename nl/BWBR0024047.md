@@ -4,7 +4,7 @@ identifier: "BWBR0024047"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2008-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024047"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Het fietsenregister, bedoeld in [artikel 70k van de Wegenverkeerswet 1994](https
 
 ##### Artikel 2. Verstrekking van gegevens
 
-1. Uit het fietsenregister worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan de politiekorpsen binnen Nederland, ten behoeve van de opsporing van gestolen en vermiste fietsen alsmede het traceren van de eigenaar van de fiets.
+1. Uit het fietsenregister worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan de politie binnen Nederland, ten behoeve van de opsporing van gestolen en vermiste fietsen alsmede het traceren van de eigenaar van de fiets.
 
 2. Het gegeven dat een fiets als gestolen staat geregistreerd kan onder opgave van het merk en het framenummer, dan wel onder opgave van het chipnummer op door de Dienst Wegverkeer te bepalen wijze aan een ieder worden verstrekt.
 
