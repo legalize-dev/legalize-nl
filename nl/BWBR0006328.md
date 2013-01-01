@@ -4,7 +4,7 @@ identifier: "BWBR0006328"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006328"
 soort: "wet"
@@ -164,7 +164,7 @@ Indien in een wettelijk voorschrift beroep op de Kroon is opengesteld, is de rec
 
 ##### Artikel IVA
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel V
 
