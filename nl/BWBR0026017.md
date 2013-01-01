@@ -4,7 +4,7 @@ identifier: "BWBR0026017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026017"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Bevoegdheid verrekening met werkgever
 
-Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2010-01-01&g=2010-01-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2013-01-01&g=2013-01-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
 ##### Artikel 3. Standaard regeling voor uitstel van betaling
 
@@ -116,7 +116,7 @@ Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.ov
 
 2. Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste 36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte van de volledige aflossingscapaciteit betaald of verrekend.
 
-3. In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de [artikelen 24, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [24, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [35, tweede lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [20, derde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [36, derde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [2:59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:59), of [3:56, derde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56), [63, derde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [57, derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [77, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77) of [33, derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33) niet mogelijk is.
+3. In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de [artikelen 24, vijfde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53, vijfde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [24, vijfde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [35, vierde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [20, vijfde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [36, vijfde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [2:59, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:59), of [3:56, vijfde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56), [63, vijfde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [57, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [77, vijfde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77) of [33, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33) niet mogelijk is.
 
 4. Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het UWV of de SVB de termijnen conform dit voorstel vast.
 
@@ -166,11 +166,11 @@ Het UWV en de SVB kunnen, in afwijking van de artikelen 3 en 4, uitstel van beta
 
 - b. de beschikking tot uitstel van betaling kan worden ingetrokken of gewijzigd indien wijziging plaatsvindt in de hoogte van de inkomsten van de schuldenaar.
 
-2. Het UWV en de SVB bepalen in de beschikking tot uitstel van betaling dat slechts wettelijke rente als bedoeld in artikel 4:98 van de Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is verstreken waarbinnen volgens die beschikking de betaling had moeten plaatsvinden of had moeten worden verrekend en dat deze rente slechts verschuldigd is over de resterende vordering.
+2. Het UWV en de SVB bepalen in de beschikking tot uitstel van betaling dat wettelijke rente als bedoeld in artikel 4:98 van de Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is verstreken waarbinnen volgens die beschikking de betaling had moeten plaatsvinden of had moeten worden verrekend en dat deze rente verschuldigd is over de resterende vordering.
 
-##### Artikel 8. Versoepeling betalingsregeling na vijf jaar
+##### Artikel 8. Versoepeling betalingsregeling na tien jaar
 
-Indien de schuldenaar de vordering na vijf jaren, waarin hij zich heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm.
+Indien de schuldenaar de vordering na tien jaren, waarin hij zich heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm.
 
 ##### Artikel 9. Toerekening van betalingen
 
@@ -199,5 +199,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 1a
 
 Deze regeling berust mede op de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
+
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2013-01-01&g=2013-01-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a. Regeling verrekening bestuurlijke boete bij recidive
+
+1. Indien [artikel 14h, vijfde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14h), [27h, vijfde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h), [54a, vijfde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=54a), [24a, vijfde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24a), [29h, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29h), [3:44, vijfde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:44), [97, vijfde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=97), [45h, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45h), [17h, vijfde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h), [45a, vijfde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=45a) of [17j, vijfde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17j) van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.
+
+2. Voor zover de hoogte van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor:
+
+- a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en
+
+- b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), dat gelet op het aantal kinderen van toepassing is.
+
+3. Van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a, is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
+
+4. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
+
+5. De vermeerdering, bedoeld in het vierde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
+
+6. Onder kale huur als bedoel in het vierde en vijfde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
+
+7. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en bij de SVB indien de verrekening plaatsvindt op grond van de [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
+
+8. Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
+
+9. Het op grond van het tweede, vierde en vijfde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vierde lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
