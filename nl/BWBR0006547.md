@@ -4,7 +4,7 @@ identifier: "BWBR0006547"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2009-08-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006547"
 soort: "wet"
@@ -93,7 +93,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 ##### Artikel 6
 
-1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-08-01&g=2009-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-08-01&g=2009-08-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
+1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2013-01-01&g=2013-01-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2013-01-01&g=2013-01-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
 
 2. In voorschriften waarbij verplichtingen worden opgelegd, kunnen regels worden gesteld inzake het verlenen van vrijstelling of ontheffing van die verplichting.
 
@@ -109,7 +109,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 - a. de samenstelling van de betalingsbalans van Nederland;
 
-- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-08-01&g=2009-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-08-01&g=2009-08-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-08-01&g=2009-08-01) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01).
+- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2013-01-01&g=2013-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2013-01-01&g=2013-01-01) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2013-01-01&g=2013-01-01).
 
 2. De in het eerste lid bedoelde inlichtingen en gegevens moeten tijdig, naar waarheid en op niet misleidende wijze worden verstrekt.
 
@@ -129,17 +129,17 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 ##### Artikel 9
 
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.
+Vervallen
 
 ##### Artikel 9a
 
-1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-08-01&g=2009-08-01).
+1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2013-01-01&g=2013-01-01).
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
 ##### Artikel 9b
 
-1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-08-01&g=2009-08-01).
+1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2013-01-01&g=2013-01-01).
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
@@ -205,7 +205,7 @@ De Nederlandse strafwet is ook van toepassing op overtredingen van voorschriften
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-08-01&g=2009-08-01), van deze wet.
+Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2013-01-01&g=2013-01-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2013-01-01&g=2013-01-01), van deze wet.
 
 ##### Artikel 14
 
