@@ -4,7 +4,7 @@ identifier: "BWBR0018298"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2005-07-27"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018298"
 soort: "AMvB"
@@ -49,31 +49,31 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Bij gelijktijdige levering aan eenzelfde eindafnemer van meerdere exemplaren van een boek of een muziekuitgave kan de verkoper een korting op de vaste prijs toepassen van:
+1. Bij gelijktijdige verkoop aan eenzelfde eindafnemer van meerdere exemplaren van een boek of een muziekuitgave kan de verkoper een korting op de vaste prijs toepassen van:
 
-- a. ten hoogste 5 procent bij levering van ten minste 10 exemplaren van een boek en van ten minste 2 exemplaren van een muziekuitgave;
+- a. ten hoogste 5 procent bij verkoop van ten minste 10 exemplaren van een boek en van ten minste 2 exemplaren van een muziekuitgave;
 
-- b. ten hoogste 10 procent bij levering van ten minste 30 exemplaren.
+- b. ten hoogste 10 procent bij verkoop van ten minste 30 exemplaren.
 
-2. Bij gelijktijdige levering aan eenzelfde eindafnemer van ten minste 100 exemplaren van een boek of een muziekuitgave kan de verkoper een door hem te bepalen korting op de vaste prijs toepassen.
+2. Bij gelijktijdige verkoop aan eenzelfde eindafnemer van ten minste 100 exemplaren van een boek of een muziekuitgave kan de verkoper een door hem te bepalen korting op de vaste prijs toepassen.
 
-3. Bij gelijktijdige levering van ten minste 2 exemplaren van een boek aan eenzelfde eindafnemer kan de verkoper een korting op de vaste prijs toepassen van ten hoogste 5 procent, indien de eindafnemer kan aantonen dat hij in het kalenderjaar waarin de levering plaatsvindt voor ten minste een bij ministeriële regeling te bepalen bedrag aan boeken van de desbetreffende verkoper afneemt.
+3. Bij gelijktijdige verkoop van ten minste 2 exemplaren van een boek aan eenzelfde eindafnemer kan de verkoper een korting op de vaste prijs toepassen van ten hoogste 5 procent, indien de eindafnemer kan aantonen dat hij in het kalenderjaar waarin de verkoop plaatsvindt voor ten minste een bij ministeriële regeling te bepalen bedrag aan boeken van de desbetreffende verkoper afneemt.
 
 ##### Artikel 2
 
 Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk wordt gegeven, voor zover die boeken en muziekuitgaven deel uitmaken van de voorgeschreven literatuur, kan de verkoper een korting op de vaste prijs toepassen van:
 
-- a. ten hoogste 10 procent bij gelijktijdige levering van meerdere exemplaren van die boeken of muziekuitgaven aan instellingen van onderwijs en aan door instellingen van onderwijs schriftelijk gemandateerde natuurlijke personen of rechtspersonen;
+- a. ten hoogste 10 procent bij gelijktijdige verkoop van meerdere exemplaren van die boeken of muziekuitgaven aan instellingen van onderwijs en aan door instellingen van onderwijs schriftelijk gemandateerde natuurlijke personen of rechtspersonen op basis van samengevoegde individuele bestellingen;
 
-- b. ten hoogste 5 procent bij gelijktijdige levering van meerdere verschillende van die boeken of muziekuitgaven aan een eindafnemer die is ingeschreven als leerling of student aan een instelling die valt onder de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- b. ten hoogste 5 procent bij gelijktijdige verkoop van meerdere verschillende van die boeken of muziekuitgaven aan een eindafnemer die is ingeschreven als leerling of student aan een instelling die valt onder de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 3
 
-1. Bij levering ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij levering aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige levering van ten minste 15 exemplaren van een boek of een muziekuitgave een korting op de vaste prijs toepassen van ten hoogste 10 procent voor boeken en ten hoogste 5 procent voor muziekuitgaven.
+1. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van ten minste 15 exemplaren van een boek of een muziekuitgave een korting op de vaste prijs toepassen van ten hoogste 10 procent voor boeken en ten hoogste 5 procent voor muziekuitgaven.
 
-2. Bij levering ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, kan de verkoper bij gelijktijdige levering van minder dan 15 exemplaren van een boek een korting op de vaste prijs toepassen van ten hoogste 5 procent.
+2. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van minder dan 15 exemplaren van een boek een korting op de vaste prijs toepassen van ten hoogste 5 procent.
 
-3. De verkoper wiens activiteiten geheel of nagenoeg geheel bestaan uit het verkopen aan openbare bibliotheken van voor gebruik door openbare bibliotheken geschikt gemaakte boeken, kan bij levering daarvan aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie een korting op de vaste prijs toepassen van ten hoogste 25 procent.
+3. De verkoper wiens activiteiten geheel of nagenoeg geheel bestaan uit het verkopen aan openbare bibliotheken van voor gebruik door openbare bibliotheken geschikt gemaakte boeken, kan bij verkoop daarvan aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie een korting op de vaste prijs toepassen van ten hoogste 25 procent.
 
 ##### Artikel 4
 
@@ -87,9 +87,9 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 - d. waarbij eindafnemers, zijnde natuurlijke personen, een spaartegoed in de vorm van spaarpunten met een vooraf vastgestelde geldwaarde kunnen opbouwen dat bij alle deelnemende verkopers besteedbaar is voor de koop van boeken of muziekuitgaven zonder beperking naar titel of genre.
 
-2. De verkoper kan alleen bij deelname aan een collectieve spaaractie bij levering van boeken of muziekuitgaven aan een eindafnemer, zijnde een natuurlijke persoon, een korting op de vaste prijs toepassen in de vorm van het verstrekken van spaarpunten met een geldwaarde van ten hoogste 2 procent van de vaste prijs van de geleverde boeken of muziekuitgaven.
+2. De verkoper kan alleen bij deelname aan een collectieve spaaractie bij verkoop van boeken of muziekuitgaven aan een eindafnemer, zijnde een natuurlijke persoon, een korting op de vaste prijs toepassen in de vorm van het verstrekken van spaarpunten met een geldwaarde van ten hoogste 2 procent van de vaste prijs van de geleverde boeken of muziekuitgaven.
 
-3. De verkoper kan alleen bij deelname aan een collectieve spaaractie bij levering van een boek of een muziekuitgave aan een eindafnemer een korting op de vaste prijs toepassen in de vorm van aanvaarding van betaling ten laste van een door de eindafnemer in het kader van een collectieve spaaractie opgebouwd spaartegoed.
+3. De verkoper kan alleen bij deelname aan een collectieve spaaractie bij verkoop van een boek of een muziekuitgave aan een eindafnemer een korting op de vaste prijs toepassen in de vorm van aanvaarding van betaling ten laste van een door de eindafnemer in het kader van een collectieve spaaractie opgebouwd spaartegoed.
 
 ##### Artikel 5
 
@@ -105,37 +105,41 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 - e. waaraan alle verkopers onder gelijke, door de organiserende rechtspersoon te stellen voorwaarden met betrekking tot de omvang, aard en bestendigheid van het assortiment kunnen deelnemen.
 
-2. De verkoper kan alleen bij deelname aan een collectieve promotieactie bij levering van boeken of muziekuitgaven aan een eindafnemer in het kader van de collectieve promotieactie een korting op de vaste prijs toepassen in de vorm van een of meer op geld waardeerbare geschenken, mits de geschenken behoren tot het door de organiserende rechtspersoon ontwikkelde promotiepakket.
+2. De verkoper kan alleen bij deelname aan een collectieve promotieactie bij verkoop van boeken of muziekuitgaven aan een eindafnemer in het kader van de collectieve promotieactie een korting op de vaste prijs toepassen in de vorm van een of meer op geld waardeerbare geschenken, mits de geschenken behoren tot het door de organiserende rechtspersoon ontwikkelde promotiepakket.
 
 ##### Artikel 6
 
-1. Kortingen als bedoeld in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=1&z=2005-07-27&g=2005-07-27) kunnen niet gelijktijdig worden toegepast.
+1. Kortingen als bedoeld in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01) kunnen niet gelijktijdig worden toegepast.
 
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in de [artikelen 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=4&z=2005-07-27&g=2005-07-27), en [5, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=5&z=2005-07-27&g=2005-07-27).
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in de [artikelen 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=4&z=2013-01-01&g=2013-01-01), en [5, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=5&z=2013-01-01&g=2013-01-01).
 
 ### Hoofdstuk 2. Bijzondere prijzen
 
 ##### Artikel 7
 
-1. De uitgever of importeur kan voor een boek of een muziekuitgave in het kader van een individuele promotieactie eenmalig tijdelijk een van de vaste prijs afwijkende actieprijs vaststellen.
+1. De uitgever of importeur kan voor een boek of een muziekuitgave in het kader van een individuele promotieactie tijdelijk een van de vaste prijs afwijkende actieprijs vaststellen.
 
 2. Een actieprijs geldt voor een periode van ten hoogste drie aaneengesloten maanden.
 
 3. De uitgever of importeur kan aan de toepassing van een actieprijs nadere voorwaarden verbinden.
 
+4. Indien voor een boek of muziekuitgave reeds een actieprijs is vastgesteld, stelt de uitgever of importeur geen nieuwe actieprijs voor dat boek onderscheidenlijk die muziekuitgave vast dan twaalf maanden na de ingangsdatum van de laatste actieprijs.
+
 ##### Artikel 8
 
-1. De uitgever of importeur kan voor een boek of een muziekuitgave eenmalig een van de vaste prijs afwijkende combinatieprijs vaststellen.
+1. De uitgever of importeur kan voor een boek of een muziekuitgave een van de vaste prijs afwijkende combinatieprijs vaststellen.
 
-2. Een combinatieprijs geldt uitsluitend voor gelijktijdige levering van meerdere, door de uitgever of importeur aangewezen verschillende boeken of muziekuitgaven, of bij levering van één of meerdere boeken of muziekuitgaven in combinatie met een of meer door de uitgever of importeur aangewezen andere artikelen.
+2. Een combinatieprijs geldt uitsluitend voor gelijktijdige verkoop van meerdere, door de uitgever of importeur aangewezen boeken of muziekuitgaven, of bij verkoop van één of meerdere boeken of muziekuitgaven in combinatie met een of meer door de uitgever of importeur aangewezen andere producten.
 
 3. Een combinatieprijs geldt voor een periode van ten hoogste zes aaneengesloten maanden.
+
+4. [Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=2&artikel=7&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9
 
 1. De uitgever of importeur kan voor individuele boeken of muziekuitgaven die door hun uniforme uiterlijk en vormgeving of door een duidelijke vermelding op het titelblad kenbaar zijn als behorende tot een serie, een van de vaste prijs afwijkende serieprijs vaststellen.
 
-2. Een serieprijs geldt uitsluitend bij gelijktijdige levering van verschillende titels van de serie aan dezelfde eindafnemer of bij levering aan een eindafnemer die zich vooraf schriftelijk verplicht heeft tot afname van de gehele serie of meerdere verschillende titels van de serie.
+2. Een serieprijs geldt uitsluitend bij gelijktijdige verkoop van verschillende titels van de serie aan dezelfde eindafnemer of bij verkoop aan een eindafnemer die zich vooraf schriftelijk verplicht heeft tot afname van de gehele serie of meerdere verschillende titels van de serie.
 
 ##### Artikel 10
 
@@ -143,7 +147,7 @@ Voor boeken en muziekuitgaven die voor rekening van of met aanmerkelijke steun v
 
 ##### Artikel 11
 
-Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vaststellen van de in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=2&artikel=7&z=2005-07-27&g=2005-07-27) bedoelde bijzondere prijzen.
+Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vaststellen van de in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=2&artikel=7&z=2013-01-01&g=2013-01-01) bedoelde bijzondere prijzen.
 
 ### Hoofdstuk 3. De boekenclub
 
@@ -155,7 +159,7 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vasts
 
 - b. verkoopt uitsluitend aan eindafnemers die als lid een jaarlijkse koopverplichting voor ten minste vier door de boekenclub te leveren producten zijn aangegaan; en
 
-- c. levert ten hoogste twee exemplaren van een boek aan een lid.
+- c. verkoopt ten hoogste twee exemplaren van een boek aan een lid.
 
 2. Indien een verkoper zowel in de hoedanigheid als boekenclub als anderszins boeken verkoopt:
 
@@ -167,9 +171,11 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vasts
 
 1. De boekenclub stelt ten minste eenmaal per jaar zijn leden schriftelijk op de hoogte van het boekenclubaanbod.
 
-2. In het boekenclubaanbod wijst de boekenclub aan welk product verplicht geleverd wordt indien een lid niet zelf een keuze maakt ter nakoming van zijn jaarlijkse koopverplichting.
+2. In het boekenclubaanbod wijst de boekenclub aan welke producten verplicht geleverd worden indien een lid niet zelf een keuze maakt ter nakoming van zijn jaarlijkse koopverplichting.
 
-3. De boekenclub kan aan zijn leden de mogelijkheid bieden om, in plaats van levering van de in het tweede lid bedoelde producten, ter nakoming van de koopverplichting een waardebon met een bij ministeriële regeling vast te stellen minimale waarde aan te schaffen. Deze waardebonnen zijn maximaal een jaar geldig en kunnen uitsluitend worden gebruikt voor aankopen bij de boekenclub naast de aankopen ter nakoming van de koopverplichting.
+3. De boekenclub kan aan zijn leden de mogelijkheid bieden om, in plaats van levering van de in het tweede lid bedoelde producten, ter nakoming van de koopverplichting per product een waardebon met een bij ministeriële regeling vast te stellen minimale waarde aan te schaffen. Deze waardebonnen zijn maximaal een jaar geldig en kunnen uitsluitend worden gebruikt voor aankopen bij de boekenclub naast de aankopen ter nakoming van de koopverplichting.
+
+4. Met betrekking tot de koopverplichting, bedoeld in [artikel 12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01), kan bij ministeriële regeling per product een minimale waarde worden vastgesteld.
 
 ##### Artikel 14
 
@@ -185,7 +191,7 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vasts
 
 kan de uitgever of importeur in afwijking van het eerste lid een boekenclubprijs vaststellen die niet lager is dan 60 procent van de vaste prijs.
 
-3. Voor boeken die met toestemming van de uitgever of importeur in het boekenclubaanbod zijn aangewezen als eenmalige welkomstaanbieding voor uitsluitend nieuwe leden en die ten minste twee achtereenvolgende kwartalen in het boekenaanbod zijn opgenomen, kan de uitgever of importeur in afwijking van het eerste en tweede lid een lagere boekenclubprijs vaststellen.
+3. Voor boeken die met toestemming van de uitgever of importeur in het boekenclubaanbod zijn aangewezen als eenmalige welkomstaanbieding voor uitsluitend nieuwe leden en die ten minste twee achtereenvolgende maanden in het boekenclubaanbod zijn opgenomen, kan de uitgever of importeur in afwijking van het eerste en tweede lid een lagere boekenclubprijs vaststellen.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de samenstelling en maximale geldwaarde van de welkomstaanbieding, bedoeld in het derde lid.
 
