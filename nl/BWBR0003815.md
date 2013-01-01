@@ -4,7 +4,7 @@ identifier: "BWBR0003815"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "1985-07-03"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003815"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Gedeelten van kalenderjaren, gedurende welke de pensioengerechtigde na het bereiken van de 15-jarige, doch voor het bereiken van de 65-jarige leeftijd, niet verzekerd is geweest, worden voor de vaststelling van de korting, bedoeld in [artikel 13, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengesteld en herleid tot gehele kalenderjaren.
+1. Gedeelten van kalenderjaren, gedurende welke de pensioengerechtigde na het bereiken van de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), doch voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, niet verzekerd is geweest, worden voor de vaststelling van de korting, bedoeld in [artikel 13, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengesteld en herleid tot gehele kalenderjaren.
 
-2. Gedeelten van kalenderjaren, gedurende welke de echtgenoot van de pensioengerechtigde na het bereiken van de 15-jarige leeftijd, doch vóór het bereiken van de 65-jarige leeftijd van die pensioengerechtigden niet verzekerd is geweest, worden voor de vaststelling van de korting, bedoeld in [artikel 13, tweede lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengesteld en herleid tot gehele kalenderjaren.
+2. Gedeelten van kalenderjaren, gedurende welke de echtgenoot van de pensioengerechtigde na het bereiken van de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), doch vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet van die pensioengerechtigden niet verzekerd is geweest, worden voor de vaststelling van de korting, bedoeld in [artikel 13, tweede lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengesteld en herleid tot gehele kalenderjaren.
 
 3. De samenstelling en herleiding, in het eerste en tweede lid bedoeld, geschiedt met inachtneming van het volgende:
 
@@ -64,7 +64,7 @@ Besluit:
 
 1. Gedeelten van jaarpremies, welke de pensioengerechtigde schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting, bedoeld in [artikel 13, eerste lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengesteld en herleid tot gehele jaarpremies.
 
-2. Gedeelten van jaarpremies, welke de echtgenoot van de pensioengerechtigde na het bereiken van de 15-jarige leeftijd, doch vóór het bereiken van de 65-jarige leeftijd van die pensioengerechtigde schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting, bedoeld in [artikel 13, tweede lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengeteld en herleid tot gehele jaarpremies.
+2. Gedeelten van jaarpremies, welke de echtgenoot van de pensioengerechtigde na het bereiken van de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), doch vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet van die pensioengerechtigde schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting, bedoeld in [artikel 13, tweede lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), samengeteld en herleid tot gehele jaarpremies.
 
 3. Voor de samenstelling, in het eerste en tweede lid bedoeld, wordt elk gedeelte van een jaarpremie uitgedrukt in honderdsten van een jaarpremie. Daarbij wordt een gedeelte van een jaarpremie, dat minder bedraagt dan een honderdste jaarpremie, verwaarloosd.
 
