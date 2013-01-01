@@ -4,7 +4,7 @@ identifier: "BWBR0033575"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2011-08-03"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033575"
 soort: "AMvB"
@@ -38,11 +38,11 @@ entry_into_force: "2013-07-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit burgemeesters.
 
 ##### Artikel III
 
@@ -54,19 +54,19 @@ Wijzigt het Rechtspositiebesluit wethouders.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit staten- en commissieleden.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Waterschapsbesluit.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 ##### Artikel IX
 
@@ -79,15 +79,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 mei 2013, nr. 2013-0000282194, CZW;
-
-Gelet op de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44), en [66, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=66), de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=43), en [65, tweede lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=65) en de [artikelen 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=32a), en [44, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=44) en [artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=193);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 31 mei 2013, no. W04.13.0142/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2013, nr. 2013-0000331515;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
