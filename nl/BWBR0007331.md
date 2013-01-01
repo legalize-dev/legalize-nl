@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2011-09-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - c. de Texelstroom, ten noorden van de lijn gevormd door de verbinding tussen de tonnen T 12 en T 14, en ten zuiden van de haven van Oudeschild;
 
-- d. het Marsdiep, ten zuiden van de lijn gevormd door de verbinding tussen de tonnen T 1 en T 3, en ten westen van de haven van Den Helder;
+- d. vervallen;
 
 - e. het IJsselmeer en het Markermeer, met uitzondering van:
 
@@ -494,4 +494,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2011-09-22&g=2011-09-22), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
