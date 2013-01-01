@@ -4,7 +4,7 @@ identifier: "BWBR0026112"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-07-16"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026112"
 soort: "wet"
@@ -65,9 +65,11 @@ De leden van het bestuur van de Nederlandse Programma Stichting, bedoeld in [art
 
 1. In afwijking van [artikel 2.19, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19) geldt de concessie voor de Stichting Nederlandse Publieke Omroep, genoemd in [artikel 2.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.2), die aanvangt na de concessie voor de periode 2005–2010, voor tien jaar en vier maanden.
 
-2. In afwijking van [artikel 2.29, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.29) geldt de erkenning of de voorlopige erkenning voor de omroepverenigingen, bedoeld in [artikel 2.24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24), en voor de instelling, bedoeld in [artikel 2.28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), die aanvangt na de erkenningperiode 2005–2010, voor vijf jaar en vier maanden.
+2. In afwijking van [artikel 2.19, derde lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19) bestaat de concessieperiode die aanvangt na de concessieperiode 2000–2010, uit een periode van vijf jaar en vier maanden en een periode van vijf jaar.
 
-3. In afwijking van [artikel 2.43, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.43) geldt de aanwijzing van de kerkgenootschappen en de genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.42), die aanvangt na de aanwijzingsperiode 2005–2010, voor vijf jaar en vier maanden.
+3. In afwijking van [artikel 2.29, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.29) geldt de erkenning of de voorlopige erkenning voor de omroepverenigingen, bedoeld in [artikel 2.24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24), en voor de instelling, bedoeld in [artikel 2.28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), die aanvangt na de erkenningperiode 2005–2010, voor vijf jaar en vier maanden.
+
+4. In afwijking van [artikel 2.43, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.43) geldt de aanwijzing van de kerkgenootschappen en de genootschappen op geestelijke grondslag, bedoeld in [artikel 2.42 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.42), die aanvangt na de aanwijzingsperiode 2005–2010, voor vijf jaar en vier maanden.
 
 ##### Artikel V
 
@@ -75,6 +77,6 @@ Indien deze wet na 31 juli 2009 in werking treedt, worden de aanvragen om verlen
 
 ##### Artikel VI
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat [artikel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0026112&artikel=Ia&z=2011-07-16&g=2011-07-16) in werking treedt twee jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat [artikel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0026112&artikel=Ia&z=2013-01-01&g=2013-01-01) in werking treedt twee jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
