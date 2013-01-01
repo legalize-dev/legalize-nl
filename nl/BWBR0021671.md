@@ -4,7 +4,7 @@ identifier: "BWBR0021671"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2006-12-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021671"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie KLPD verstaan onder:
+Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid verstaan onder:
 
 - 1. medewerker: de ambtenaar genoemd in [artikel 1, lid 1, sub c en d van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - 2. plaatsgebonden consignatie: een aaneengesloten tijdruimte van ten hoogste 24 uren waarin de medewerker, zo nodig naast het verrichten van de bedongen arbeid, verplicht is op de arbeidsplaats aanwezig te zijn om op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;
 
-- 3. bevoegd gezag: de korpschef van het Korps landelijke politiediensten namens de minister van Binnenlandse Zaken en Koninkrijksrelaties als beheerder KLPD.
+- 3. bevoegd gezag: de korpschef.
 
 ##### Artikel 2. Toepassing
 
@@ -88,7 +88,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 ##### Artikel 4. Slotbepalingen
 
-1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie KLPD’.
+1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid’.
 
 2.
 
