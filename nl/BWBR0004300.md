@@ -4,7 +4,7 @@ identifier: "BWBR0004300"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1987-12-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004300"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 ##### Artikel 4. Leeftijd
 
-1. De contante-waardefactoren voor leeftijden in gebroken jaren worden verkregen door lineaire interpolatie in de tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=1987-12-01&g=1987-12-01).
+1. De contante-waardefactoren voor leeftijden in gebroken jaren worden verkregen door lineaire interpolatie in de tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
 
 2. Tenzij uit de desbetreffende bepalingen het tegendeel blijkt, wordt voor de toepassing van dit besluit onder de leeftijd van de deelgenoot of gewezen deelgenoot verstaan de werkelijke leeftijd in gehele maanden nauwkeurig op de datum waarop het verzoek tot overname of overdracht van de wiskundige reserve door het fonds is ontvangen, verhoogd met zes maanden. Vijftien dagen of meer worden gerekend als een maand, veertien dagen of minder worden niet meegeteld.
 
@@ -124,7 +124,7 @@ waarin
 
 OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de 65-jarige leeftijd.
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
 ##### Artikel 7. Ouderdomspensioen gehuwde vrouw
 
@@ -134,21 +134,21 @@ waarin
 
 OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de 65-jarige leeftijd;
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
 
 GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder **a** en **b**, van de wet;
 
-= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de 65-jarige leeftijd van de vrouw.
+= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), van de vrouw.
 
 ##### Artikel 8. Ouderdomspensioen ongehuwde man
 
-Behoudens [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=2&artikel=11&z=1987-12-01&g=1987-12-01), bedraagt de wiskundige reserve van het ouderdomspensioen voor een x-jarige mannelijke gewezen deelgenoot die ongehuwd is:
+Behoudens [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), bedraagt de wiskundige reserve van het ouderdomspensioen voor een x-jarige mannelijke gewezen deelgenoot die ongehuwd is:
 
 waarin
 
 OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de 65-jarige leeftijd.
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
 ##### Artikel 9. Ouderdomspensioen gehuwde man
 
@@ -158,11 +158,11 @@ waarin
 
 OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
-= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de 65-jarige leeftijd;
+= de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
 
 GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de diensttijd voor 1 januari 1986 met 0,02 maal het verschil tussen het algemeen pensioen bedoeld in artikel J 4 van de wet voor gehuwden en dat voor ongehuwden en van de diensttijd na 31 december 1985 met 0,0175 maal het verschil tussen de franchises bedoeld in artikel F 6a, derde lid, onder **a** en **b**, van de wet;
 
-= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de 65-jarige leeftijd van de man.
+= de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), van de man.
 
 ##### Artikel 10. Weduwenpensioen
 
@@ -170,11 +170,11 @@ GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de di
 
 waarin
 
-WP = het bedrag van het weduwenpensioen waarop recht zou bestaan, indien de gewezen deelgenoot zou zijn overleden op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=1987-12-01&g=1987-12-01);
+WP = het bedrag van het weduwenpensioen waarop recht zou bestaan, indien de gewezen deelgenoot zou zijn overleden op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01);
 
 = de contante-waardefactor per een gulden weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot; TWP het bedrag van de toeslag ingevolge artikel H 9**a** van de wet; bij de berekening van deze toeslag wordt eventueel rekening gehouden met artikel H 5, derde lid, van de wet;
 
-= de contante-waardefactor per een gulden toeslag op het weduwenpensioen tot het bereiken van de 65-jarige leeftijd.
+= de contante-waardefactor per een gulden toeslag op het weduwenpensioen tot het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
 2. Indien recht zou bestaan op zowel weduwenpensioen als bijzonder weduwenpensioen, wordt de wiskundige reserve van het bijzonder weduwenpensioen in mindering gebracht op de wiskundige reserve van het weduwenpensioen overeenkomstig het eerste lid.
 
@@ -184,11 +184,11 @@ WP = het bedrag van het weduwenpensioen waarop recht zou bestaan, indien de gewe
 
 waarin
 
-WP = het bedrag van het bijzonder weduwenpensioen waarop recht zou bestaan, indien de gewezen deelgenoot zou zijn overleden op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=1987-12-01&g=1987-12-01);
+WP = het bedrag van het bijzonder weduwenpensioen waarop recht zou bestaan, indien de gewezen deelgenoot zou zijn overleden op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01);
 
 = de contante-waardefactor per een gulden bijzonder weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige gescheiden man.
 
-2. Indien de gewezen deelgenoot ongehuwd is en recht zou bestaan op bijzonder weduwenpensioen, wordt de wiskundige reserve daarvan in mindering gebracht op de wiskundige reserve van het ouderdomspensioen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=2&artikel=8&z=1987-12-01&g=1987-12-01).
+2. Indien de gewezen deelgenoot ongehuwd is en recht zou bestaan op bijzonder weduwenpensioen, wordt de wiskundige reserve daarvan in mindering gebracht op de wiskundige reserve van het ouderdomspensioen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01).
 
 #### § 3. Overname van wiskundige reserve
 
@@ -200,9 +200,9 @@ W : CWP waarin
 
 W = het bedrag van de door de pensioeninstantie beschikbaar gestelde wiskundige reserve;
 
-CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=1987-12-01&g=1987-12-01); ten aanzien van de gehuwde mannelijke deelgenoot omvat CWP bovendien de contante waarde van het weduwenpensioen per dienstjaar.
+CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01); ten aanzien van de gehuwde mannelijke deelgenoot omvat CWP bovendien de contante waarde van het weduwenpensioen per dienstjaar.
 
-2. Voor de toepassing van het eerste lid geldt als aangepaste middelsom van berekeningsgrondslagen voor het ouderdomspensioen het inkomen als deelgenoot op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=1987-12-01&g=1987-12-01).
+2. Voor de toepassing van het eerste lid geldt als aangepaste middelsom van berekeningsgrondslagen voor het ouderdomspensioen het inkomen als deelgenoot op de datum bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01).
 
 #### § 4. Rentestandskorting
 
@@ -210,7 +210,7 @@ CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld m
 
 1. Indien de pensioeninstantie bedoeld in artikel N 6, derde lid, van de wet bij overname van een wiskundige reserve van het fonds een rentestandskorting toepast, wordt de over te dragen wiskundige reserve vermenigvuldigd met de factor (100 - X) : 100.
 
-2. Indien de pensioeninstantie bedoeld in artikel N 9, derde lid, van de wet bij overdracht van een wiskundige reserve aan het fonds een rentestandskorting toepast, wordt voor de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=1987-12-01&g=1987-12-01) het bedrag van de beschikbaar gestelde wiskundige reserve vermenigvuldigd met de factor 100 : (100 - X).
+2. Indien de pensioeninstantie bedoeld in artikel N 9, derde lid, van de wet bij overdracht van een wiskundige reserve aan het fonds een rentestandskorting toepast, wordt voor de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) het bedrag van de beschikbaar gestelde wiskundige reserve vermenigvuldigd met de factor 100 : (100 - X).
 
 3. Voor de toepassing van het eerste of tweede lid wordt de grootte van X bepaald aan de hand van de volgende tabel, uitgaande van het geldende rendement **t**, vastgesteld overeenkomstig het vierde lid.
 
@@ -253,11 +253,11 @@ Onder aflossingskoers wordt verstaan de koers waartegen algehele aflossing kan g
 
 ##### Artikel 15. Overgangsbepalingen
 
-De tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=1987-12-01&g=1987-12-01), die voor de eerste maal na de inwerkingtreding van dit besluit worden vastgesteld, werken terug tot en met het tijdstip genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=6&artikel=17&z=1987-12-01&g=1987-12-01).
+De tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), die voor de eerste maal na de inwerkingtreding van dit besluit worden vastgesteld, werken terug tot en met het tijdstip genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=6&artikel=17&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 16
 
-Wanneer [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=1987-12-01&g=1987-12-01) toepassing vindt ten aanzien van een deelgenoot wiens deelgenootschap is aangevangen voor 1 januari 1986 wordt de middelsom bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=1987-12-01&g=1987-12-01), berekend met toepassing van artikel F 5, vierde en vijfde lid, van de wet.
+Wanneer [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) toepassing vindt ten aanzien van een deelgenoot wiens deelgenootschap is aangevangen voor 1 januari 1986 wordt de middelsom bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01), berekend met toepassing van artikel F 5, vierde en vijfde lid, van de wet.
 
 ##### Artikel 17. Slotbepalingen
 
