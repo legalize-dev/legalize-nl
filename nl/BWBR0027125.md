@@ -4,7 +4,7 @@ identifier: "BWBR0027125"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-12-10"
-last_updated: "2011-07-14"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027125"
 soort: "zbo"
@@ -112,7 +112,7 @@ Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afs
 
 1. De boete, die met inachtneming van de voorgaande artikelen is vastgesteld, wordt verlaagd, indien de belanghebbende voldoende aannemelijk maakt dat, gelet op de financiële omstandigheden waarin hij verkeert, de boete niet binnen twaalf maanden na oplegging kan zijn voldaan, rekening houdend met het eventuele vermogen en de aflossingscapaciteit van de belanghebbende.
 
-2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2011-07-14&g=2011-07-14) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2011-07-14&g=2011-07-14) van toepassing is.
+2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2011-07-14&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2011-07-14&g=2013-01-01) van toepassing is.
 
 ##### Artikel 9. Spontane inlichtingenverplichting
 
@@ -141,5 +141,11 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel Boete werknemer 2010.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 13a
+
+Met ingang van 1 januari 2013 geldt deze beleidsregel alleen nog maar voor gevallen die, op grond van het in de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) van 4 oktober 2012 (Staatsblad 462, 2012) opgenomen overgangsrecht, nog onder het recht, geldend op 31 december 2012, vallen.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
