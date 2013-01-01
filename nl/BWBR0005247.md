@@ -4,7 +4,7 @@ identifier: "BWBR0005247"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005247"
 soort: "wet"
@@ -65,7 +65,7 @@ Verzoeken waarvan de toezending niet is geschied overeenkomstig de voorschriften
 
 ##### Artikel 6
 
-Is de rechter die moet beslissen op een verzoek om uitvoerbaarverklaring van een veroordeling in de kosten van het geding, van oordeel dat het verzoek niet voldoet aan de bepalingen van het Verdrag of van de Overeenkomst, dan deelt de rechter zijn beslissing mede aan de ontvangende centrale autoriteit en doet daarbij nauwkeurig opgave van de bezwaren die tegen het verzoek zijn gerezen. De ontvangende centrale autoriteit handelt vervolgens met betrekking tot het verzoek zo nodig overeenkomstig de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=I&artikel=5&z=2010-07-01&g=2010-07-01).
+Is de rechter die moet beslissen op een verzoek om uitvoerbaarverklaring van een veroordeling in de kosten van het geding, van oordeel dat het verzoek niet voldoet aan de bepalingen van het Verdrag of van de Overeenkomst, dan deelt de rechter zijn beslissing mede aan de ontvangende centrale autoriteit en doet daarbij nauwkeurig opgave van de bezwaren die tegen het verzoek zijn gerezen. De ontvangende centrale autoriteit handelt vervolgens met betrekking tot het verzoek zo nodig overeenkomstig de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=I&artikel=5&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 7
 
@@ -87,7 +87,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. De ontvangende centrale autoriteit stelt de bevoegde autoriteit van de verzoekende Staat in kennis van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=II&artikel=8&z=2010-07-01&g=2010-07-01) bedoelde beslissing.
+1. De ontvangende centrale autoriteit stelt de bevoegde autoriteit van de verzoekende Staat in kennis van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=II&artikel=8&z=2013-01-01&g=2013-01-01) bedoelde beslissing.
 
 2. De in het eerste lid bedoelde mededelingen moeten zijn gesteld of vertaald in een van de talen bedoeld in artikel 7, derde lid, van het Verdrag of in artikel 6, tweede lid, van de Overeenkomst.
 
@@ -117,13 +117,13 @@ De verzendende autoriteit doet de verzoeker om rechtsbijstand mededeling van de 
 
 ##### Artikel 16
 
-1. De ontvangende centrale autoriteit zendt het verzoek om uitvoerbaarverklaring, indien dit naar haar oordeel voldoet aan de bepalingen van het Verdrag, ter behandeling toe aan de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=IV&artikel=17&z=2010-07-01&g=2010-07-01) genoemde rechtbank. Bij dit verzoek is de bijstand van een advocaat niet vereist.
+1. De ontvangende centrale autoriteit zendt het verzoek om uitvoerbaarverklaring, indien dit naar haar oordeel voldoet aan de bepalingen van het Verdrag, ter behandeling toe aan de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005247&hoofdstuk=IV&artikel=17&z=2013-01-01&g=2013-01-01) genoemde rechtbank. Bij dit verzoek is de bijstand van een advocaat niet vereist.
 
 2. De ontvangende centrale autoriteit stelt de verzendende autoriteit van de Staat waaruit het verzoek afkomstig is in kennis van de op het verzoek gegeven beslissing en, indien deze strekt tot afwijzing van het verzoek, van de redenen daarvan. De mededeling moet zijn gesteld of vertaald in een van de talen, bedoeld in artikel 7, derde lid, van het Verdrag.
 
 ##### Artikel 17
 
-1. Tot de kennisneming van een verzoek om uitvoerbaarverklaring van een veroordeling in de kosten van het geding is uitsluitend bevoegd de rechtbank te ’s-Gravenhage. Tegen de op het verzoek gegeven beschikking staat geen hogere voorziening open.
+1. Tot de kennisneming van een verzoek om uitvoerbaarverklaring van een veroordeling in de kosten van het geding is uitsluitend bevoegd de rechtbank Den Haag. Tegen de op het verzoek gegeven beschikking staat geen hogere voorziening open.
 
 2. De rechtbank doet zo spoedig mogelijk uitspraak en zendt door de zorg van de griffier onverwijld een afschrift van haar beschikking aan de ontvangende centrale autoriteit, alsmede aan de partij tegen wie de beschikking is gewezen.
 
