@@ -4,7 +4,7 @@ identifier: "BWBR0019058"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019058"
 soort: "wet"
@@ -235,15 +235,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.2. Verruiming grondslag overige lagere regelgeving
 
-Het [besluit van de Staatssecretaris van Sociale Zaken van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43 van de Algemene Arbeidsongeschiktheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003064) (Stb. 526) berust met ingang van de dag van inwerkingtreding van [artikel 1.6, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.6&z=2011-01-01&g=2011-01-01), mede op de [artikelen 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59), en [59a, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a).
+Het [besluit van de Staatssecretaris van Sociale Zaken van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43 van de Algemene Arbeidsongeschiktheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003064) (Stb. 526) berust met ingang van de dag van inwerkingtreding van [artikel 1.6, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.6&z=2013-01-01&g=2013-01-01), mede op de [artikelen 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59), en [59a, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a).
 
 ##### Artikel 2.3. Overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-1. De artikelen van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de dag waarop deze op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01), vervallen, blijven van toepassing op de persoon, instelling of organisatie die op of voor die dag in aanmerking is gebracht voor een instrument op grond van die wet of een aanvraag daartoe heeft ingediend, zolang dat instrument in dezelfde vorm wordt verstrekt.
+1. De artikelen van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de dag waarop deze op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01), vervallen, blijven van toepassing op de persoon, instelling of organisatie die op of voor die dag in aanmerking is gebracht voor een instrument op grond van die wet of een aanvraag daartoe heeft ingediend, zolang dat instrument in dezelfde vorm wordt verstrekt.
 
 2. Het eerste lid is niet van toepassing indien het instrument waarvoor de persoon in aanmerking is gebracht:
 
-- a. op grond van het artikel van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) dat na inwerkingtreding van [artikel 1.1, onderdeel JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2011-01-01&g=2011-01-01), in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt ingevoegd,
+- a. op grond van het artikel van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) dat na inwerkingtreding van [artikel 1.1, onderdeel JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2013-01-01&g=2013-01-01), in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt ingevoegd,
 
 - b. [artikel 98b van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=98b),
 
@@ -251,7 +251,7 @@ Het [besluit van de Staatssecretaris van Sociale Zaken van 19 oktober 1976, houd
 
 - d. [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=129) of [132 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=132), of
 
-- e. [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7&z=2011-01-01&g=2011-01-01),
+- e. [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7&z=2013-01-01&g=2013-01-01),
 
 wordt aangemerkt als instrument op grond van de desbetreffende wet.
 
@@ -259,13 +259,13 @@ wordt aangemerkt als instrument op grond van de desbetreffende wet.
 
 ##### Artikel 2.4. Oud overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-1. Artikel 57 van de Algemene arbeidsongeschiktheidswet en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), blijven van toepassing op de persoon die voor die dag een aanvraag heeft ingediend of in aanmerking is gebracht voor een voorziening tot behoud, herstel of ter bevordering van de arbeidsgeschiktheid, zolang die voorziening verkeert in de staat waarin de voorziening verkeerde op de dag voorafgaande aan de dag waarop [artikel 75, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=75) vervalt als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01) of, indien op de aanvraag niet voor die dag is beslist, op de dag waarop de voorziening wordt verstrekt.
+1. Artikel 57 van de Algemene arbeidsongeschiktheidswet en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), blijven van toepassing op de persoon die voor die dag een aanvraag heeft ingediend of in aanmerking is gebracht voor een voorziening tot behoud, herstel of ter bevordering van de arbeidsgeschiktheid, zolang die voorziening verkeert in de staat waarin de voorziening verkeerde op de dag voorafgaande aan de dag waarop [artikel 75, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=75) vervalt als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01) of, indien op de aanvraag niet voor die dag is beslist, op de dag waarop de voorziening wordt verstrekt.
 
 2. Artikel 57a van de Algemene arbeidsongeschiktheidswet en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), blijven van toepassing op de persoon die voor de dag een aanvraag heeft ingediend of in aanmerking is gebracht voor vergoeding van kosten als bedoeld in dat artikel, zolang deze vergoeding niet daadwerkelijk geheel is verleend.
 
 3. Vervallen.
 
-4. Beschikkingen op grond van de artikelen 57 en 57a van de Algemene arbeidsongeschiktheidswet worden na het vervallen van [artikel 85, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=85) als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01), aangemerkt als beschikkingen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving).
+4. Beschikkingen op grond van de artikelen 57 en 57a van de Algemene arbeidsongeschiktheidswet worden na het vervallen van [artikel 85, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=85) als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01), aangemerkt als beschikkingen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving).
 
 5. [Titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is niet van toepassing op aanspraken als bedoeld in dit artikel.
 
@@ -283,9 +283,9 @@ Wijzigt de Goedkeuringswet voornemen tot opzegging Verdrag betreffende de gelijk
 
 ##### Artikel 2.7. Overgangsrecht Experimentele prb-regeling
 
-1. Het persoonsgebonden reïntegratiebudget dat op de dag voorafgaand aan de dag waarop [artikel 33 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=33), op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01), vervalt op grond van de eerstgenoemde wet was toegekend, wordt voor de duur van het tijdvak waarvoor dat budget is toegekend, aangemerkt als een persoonsgebonden reïntegratiebudget als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2011-01-01&g=2011-01-01), met dien verstande dat personen die met toepassing van [artikel 77 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=77) geacht werden verzekerd te zijn voor de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) ook na het vervallen van [artikel 77 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=77) als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01), voor de toepassing van [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2011-01-01&g=2011-01-01) met betrekking tot en voor de duur van het tijdvak van de subsidie geacht worden verzekerd te zijn voor de [Wet op de arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
+1. Het persoonsgebonden reïntegratiebudget dat op de dag voorafgaand aan de dag waarop [artikel 33 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=33), op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01), vervalt op grond van de eerstgenoemde wet was toegekend, wordt voor de duur van het tijdvak waarvoor dat budget is toegekend, aangemerkt als een persoonsgebonden reïntegratiebudget als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01), met dien verstande dat personen die met toepassing van [artikel 77 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=77) geacht werden verzekerd te zijn voor de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) ook na het vervallen van [artikel 77 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=77) als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01), voor de toepassing van [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01) met betrekking tot en voor de duur van het tijdvak van de subsidie geacht worden verzekerd te zijn voor de [Wet op de arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-2. De [Experimentele regeling subsidieverstrekking arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009957) berust met ingang van de dag waarop [artikel 33 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=33), op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2011-01-01&g=2011-01-01) vervalt, op [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2011-01-01&g=2011-01-01) van deze wet.
+2. De [Experimentele regeling subsidieverstrekking arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009957) berust met ingang van de dag waarop [artikel 33 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=33), op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2013-01-01&g=2013-01-01) vervalt, op [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01) van deze wet.
 
 ##### Artikel 2.7a. Persoonsgebonden reïntegratiebudget voor zieke werknemer in dienstbetrekking
 
@@ -293,11 +293,11 @@ Vervallen
 
 ##### Artikel 2.7b. Overgangsrecht persoonsgebonden re-integratiebudget voor zieke werknemer in dienstbetrekking
 
-[Artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2011-01-01&g=2011-01-01) zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169), blijft van toepassing op de werknemer aan wie subsidie is verstrekt in de vorm van een op zijn arbeidsinschakeling gericht persoonsgebonden re-integratiebudget als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2011-01-01&g=2011-01-01) of ten behoeve van wie een overeenkomst die is gericht op zijn arbeidsinschakeling als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2011-01-01&g=2011-01-01) is gesloten en op de werknemer die een aanvraag daartoe heeft ingediend voor de datum van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169).
+[Artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2013-01-01&g=2013-01-01) zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169), blijft van toepassing op de werknemer aan wie subsidie is verstrekt in de vorm van een op zijn arbeidsinschakeling gericht persoonsgebonden re-integratiebudget als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2013-01-01&g=2013-01-01) of ten behoeve van wie een overeenkomst die is gericht op zijn arbeidsinschakeling als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2013-01-01&g=2013-01-01) is gesloten en op de werknemer die een aanvraag daartoe heeft ingediend voor de datum van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169).
 
 ##### Artikel 2.8. Overgang vermogensbestanddelen Reïntegratiefonds
 
-Alle vermogenbestanddelen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), afzonderlijk worden beheerd en geadministreerd in de vorm van het Reïntegratiefonds, bedoeld in [artikel 2.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7c&z=2011-01-01&g=2011-01-01), zoals dat luidde op de dag voor de inwerkingtreding van [artikel XVI, onderdeel A, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=XVI), gaan over op het Arbeidsongeschiktheidsfonds, bedoeld in [artikel 112 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=112), overeenkomstig door Onze Minister te stellen regels.
+Alle vermogenbestanddelen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), afzonderlijk worden beheerd en geadministreerd in de vorm van het Reïntegratiefonds, bedoeld in [artikel 2.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7c&z=2013-01-01&g=2013-01-01), zoals dat luidde op de dag voor de inwerkingtreding van [artikel XVI, onderdeel A, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=XVI), gaan over op het Arbeidsongeschiktheidsfonds, bedoeld in [artikel 112 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=112), overeenkomstig door Onze Minister te stellen regels.
 
 ##### Artikel 2.9. Uitgaven ten laste van het Reïntegratiefonds
 
@@ -307,9 +307,9 @@ Vervallen
 
 De [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) wordt op een bij koninklijk besluit te bepalen tijdstip ingetrokken, waarbij het tijdstip waarop de verschillende artikelen of onderdelen daarvan vervallen, verschillend kan worden vastgesteld.
 
-##### Artikel 2.11. Slotbepaling betreffende [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2011-01-01&g=2011-01-01), [artikel 76a Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a)
+##### Artikel 2.11. Slotbepaling betreffende [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2013-01-01&g=2013-01-01), [artikel 76a Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a)
 
-Tot het tijdstip van inwerkingtreding van [artikel 23 van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=23) wordt in het in [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2011-01-01&g=2011-01-01), voorgestelde [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a) «het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17)» gelezen: het maximum dagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9).
+Tot het tijdstip van inwerkingtreding van [artikel 23 van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=23) wordt in het in [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2013-01-01&g=2013-01-01), voorgestelde [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a) «het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17)» gelezen: het maximum dagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9).
 
 ##### Artikel 2.12. Slotbepaling betreffende de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -327,11 +327,11 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 Wijzigt de Werkloosheidswet.
 
-##### Artikel 2.15a. Slotbepaling betreffende [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.22&z=2011-01-01&g=2011-01-01)
+##### Artikel 2.15a. Slotbepaling betreffende [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.22&z=2013-01-01&g=2013-01-01)
 
 Wijzigt deze wet.
 
-##### Artikel 2.16. Slotbepaling betreffende [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.9&z=2011-01-01&g=2011-01-01)
+##### Artikel 2.16. Slotbepaling betreffende [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.9&z=2013-01-01&g=2013-01-01)
 
 Wijzigt deze wet.
 
@@ -343,7 +343,7 @@ Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
 Vervallen
 
-##### Artikel 2.17a. Slotbepaling betreffende [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.17&z=2011-01-01&g=2011-01-01)
+##### Artikel 2.17a. Slotbepaling betreffende [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.17&z=2013-01-01&g=2013-01-01)
 
 Wijzigt deze wet.
 
@@ -463,6 +463,6 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.10a. Afzien van horen belanghebbende
 
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.
+Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
