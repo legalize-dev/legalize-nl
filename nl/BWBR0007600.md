@@ -4,7 +4,7 @@ identifier: "BWBR0007600"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "1995-10-27"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007600"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-De ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), die over opsporingsbevoegdheid beschikt, is bevoegd in plaats van een legitimatiebewijs als bedoeld in [artikel 26, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=26) het legitimatiebewijs bij zich te dragen dat hem op de voet van de [Regeling politielegitimatiebewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0006559) is uitgereikt.
+De ambtenaar van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die over opsporingsbevoegdheid beschikt, is bevoegd in plaats van een legitimatiebewijs als bedoeld in [artikel 26, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=26) het legitimatiebewijs bij zich te dragen dat hem op de voet van de [Regeling politielegitimatiebewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0006559) is uitgereikt.
 
 ##### Artikel 2
 
