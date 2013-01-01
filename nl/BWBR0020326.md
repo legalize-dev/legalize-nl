@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2012-10-24"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -82,25 +82,23 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - d. hulpmiddelenzorg;
 
-- e. vervoer, anders dan ten aanzien waarvan de [Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) van toepassing is;
+- e. vervoer, anders dan ten aanzien waarvan de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) van toepassing is;
 
 - f. vervoer als omschreven in [artikel 10 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=10);
 
-- g. het gebruik van een verpleegartikel als omschreven in [artikel 11 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=11);
+- g. doventolkzorg als omschreven in [artikel 12 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=12);
 
-- h. doventolkzorg als omschreven in [artikel 12 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=12);
+- h. orthoptie;
 
-- i. orthoptie;
+- i. podotherapie;
 
-- j. podotherapie;
+- j. ergotherapie;
 
-- k. ergotherapie;
+- k. huidtherapie;
 
-- l. huidtherapie;
+- l. optometrie.
 
-- m. optometrie.
-
-2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f, g en i tot en met m, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.
+2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f en h tot en met l, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.
 
 ##### Artikel 4
 
