@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2020-05-21"
 Gelet op de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=6), [11, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=11), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=21), en [24, zesde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24), [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62) en de [artikelen 27i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27i) en [30z van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z);
 
 Besluiten:
+
+Treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en financieren van terrorisme in werking treedt.
 
 ##### Artikel 1
 
@@ -159,5 +161,11 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Wet ter voorkoming van w
 ##### Artikel 13
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) in werking treedt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
