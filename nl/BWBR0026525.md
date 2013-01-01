@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2012-04-24"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 - **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2012-04-24&g=2012-04-24);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01);
 
 - **micro light aeroplane:** MLA als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922);
 
@@ -148,11 +148,11 @@ Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als
 
 ##### Artikel 7
 
-1. Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Verkeer en Waterstaat worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.
+1. Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Infrastructuur en Milieu worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.
 
 2. Bij de ministeriële regeling kan worden bepaald welke grenswaarden voor de geluidbelasting voor dit luchthavenluchtverkeer ter beschikking moeten worden gesteld.
 
-3. Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Verkeer en Waterstaat naar voren te brengen.
+3. Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Infrastructuur en Milieu naar voren te brengen.
 
 ## Titel 3. Luchthavenbesluit voor een luchthaven van regionale betekenis
 
@@ -238,7 +238,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2012-04-24&g=2012-04-24), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -276,7 +276,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de vliegveiligheid is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2012-04-24&g=2012-04-24), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -284,7 +284,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2012-04-24&g=2012-04-24), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -308,7 +308,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2012-04-24&g=2012-04-24), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -346,7 +346,7 @@ Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https:/
 
 - i. vrije ballonnen bestemd en ingericht voor het vervoer van bemande vluchten voor zover het betreft de landing daarvan;
 
-- j. helikopters die worden gebruikt ten behoeve van de uitoefening van politietaken als bedoeld in [artikel 2 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2);
+- j. helikopters die worden gebruikt ten behoeve van de uitoefening van politietaken als bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3);
 
 - k. helikopters die worden gebruikt ten behoeve van het voorkomen, beperken of bestrijden van brand;
 
@@ -382,7 +382,7 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 ##### Artikel 22
 
-De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), worden bepaald bij regeling van Onze Minister van Verkeer en Waterstaat.
+De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), worden bepaald bij regeling van Onze Minister van Infrastructuur en Milieu.
 
 ### Hoofdstuk 6. Overige besluiten
 
