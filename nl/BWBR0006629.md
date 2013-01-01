@@ -4,7 +4,7 @@ identifier: "BWBR0006629"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "1994-06-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006629"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als personen, bedoeld in [artikel 6, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6), worden aangewezen:
+Als personen, bedoeld in [artikel 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), worden aangewezen:
 
 - a. de echtgenoten van de personen die behoren tot de andere strijdkrachten of internationale militaire hoofdkwartieren, voor zover deze echtgenoten niet de Nederlandse nationaliteit bezitten;
 
@@ -55,5 +55,15 @@ Als personen, bedoeld in [artikel 6, tweede lid, van de Politiewet 1993](https:/
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot en met 1 april 1994.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3
+
+Dit besluit berust op [artikel 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+
+##### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit aanwijzing van de personen, bedoeld in artikel 4, tweede lid, van de Politiewet 2012.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
