@@ -4,7 +4,7 @@ identifier: "BWBR0020302"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2008-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020302"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) van deze wet wordt verstaan onder:
+Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01) van deze wet wordt verstaan onder:
 
 - a. Verordening: de [Verordening (EG) nr. 1435/2003](32003R1435) van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207);
 
@@ -79,9 +79,9 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ##### Artikel 6
 
-1. De zetelverplaatsing van een Europese coöperatieve vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Unie heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. Tegen het verzet staat voor de Europese coöperatieve vennootschap beroep open bij het College van beroep voor het bedrijfsleven. De verklaring in de zin van artikel 7, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
+1. De zetelverplaatsing van een Europese coöperatieve vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Unie heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. De verklaring in de zin van artikel 7, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
 
-2. Voor de toepassing van artikel 7, veertiende lid, tweede alinea, van de Verordening zijn de laatste twee zinnen van het eerste lid van overeenkomstige toepassing.
+2. Voor de toepassing van artikel 7, veertiende lid, tweede alinea, van de Verordening is de tweede zin van het eerste lid van overeenkomstige toepassing.
 
 ##### Artikel 7
 
@@ -95,7 +95,7 @@ De statuten van een Europese coöperatieve vennootschap met statutaire zetel in 
 
 ##### Artikel 9
 
-Een coöperatie met statutaire zetel in Nederland kan niet aan de oprichting van een Europese coöperatieve vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 24, tweede lid, van de Verordening. Tegen het verzet staat voor de coöperatie beroep open bij het College van beroep voor het bedrijfsleven. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
+Een coöperatie met statutaire zetel in Nederland kan niet aan de oprichting van een Europese coöperatieve vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 24, tweede lid, van de Verordening. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
 
 ##### Artikel 10
 
@@ -118,6 +118,8 @@ De statuten van de Europese coöperatieve vennootschap met statutaire zetel in N
 2. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=7) en [45 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=45) zijn van overeenkomstige toepassing op een Europese coöperatieve vennootschap met statutaire zetel in Nederland.
 
 3. Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een onderlinge taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn.
+
+3. Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn.
 
 ##### Artikel 14
 
@@ -149,7 +151,7 @@ Als bevoegde autoriteit in de zin van artikel 7, achtste lid, artikel 29, tweede
 
 ##### Artikel 21
 
-Als bevoegde autoriteit in de zin van artikel 73, vijfde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket te Amsterdam.
+Als bevoegde autoriteit in de zin van artikel 73, vijfde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket.
 
 ### Hoofdstuk 2. Wijziging van andere wetten
 
