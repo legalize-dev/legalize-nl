@@ -4,7 +4,7 @@ identifier: "BWBR0003823"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2012-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003823"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De herziening van het aan een gehuwde pensioengerechtigde toegekende ouderdomspensioen, bedoeld in artikel 9, eerste lid, onderdeel a, in een ouderdomspensioen bedoeld in [artikel 9, eerste lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), alsmede de intrekking van de aan de pensioengerechtigde toegekende toeslag vindt in afwijking van [artikel 17, vierde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17) plaats met ingang van de dag waarop de echtgenoot de 65-jarige leeftijd heeft bereikt.
+De herziening van het aan een gehuwde pensioengerechtigde toegekende ouderdomspensioen, bedoeld in artikel 9, eerste lid, onderdeel a, in een ouderdomspensioen bedoeld in [artikel 9, eerste lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), alsmede de intrekking van de aan de pensioengerechtigde toegekende toeslag vindt in afwijking van [artikel 17, vierde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17) plaats met ingang van de dag waarop de echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt.
 
 ##### Artikel 1a
 
@@ -50,7 +50,7 @@ In afwijking van [artikel 17, vierde lid, van de Algemene Ouderdomswet](https://
 
 ##### Artikel 2
 
-De herziening van het ouderdomspensioen, toegekend aan de gehuwde pensioengerechtigde die duurzaam gescheiden is gaan leven of van echt is gescheiden, gaat, indien zijn vroegere echtgenoot in dezelfde maand waarin doch nadat het duurzaam gescheiden leven een aanvang nam of de echtscheiding plaatsvond, de 65-jarige leeftijd heeft bereikt, in op de eerste dag van die maand.
+De herziening van het ouderdomspensioen, toegekend aan de gehuwde pensioengerechtigde die duurzaam gescheiden is gaan leven of van echt is gescheiden, gaat, indien zijn vroegere echtgenoot in dezelfde maand waarin doch nadat het duurzaam gescheiden leven een aanvang nam of de echtscheiding plaatsvond, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt, in op de eerste dag van die maand.
 
 ##### Artikel 3
 
