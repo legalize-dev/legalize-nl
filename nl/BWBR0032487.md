@@ -79,5 +79,3 @@ Wijzigt deze regeling.
 Deze regeling wordt aangehaald als: Regeling tijdelijke aanwijzing bevoegde gerechten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
