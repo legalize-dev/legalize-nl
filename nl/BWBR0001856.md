@@ -4,7 +4,7 @@ identifier: "BWBR0001856"
 country: "nl"
 rank: "kb"
 publication_date: "2013-01-01"
-last_updated: "1994-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001856"
 soort: "KB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De koopman, bedoeld in artikel 439, n°. 2, van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), is verplicht een register te houden, waarvan de bladen van een doorloopend nommer zijn voorzien en door den burgemeester of den commissaris van politie zijner woonplaats worden gewaarmerkt.
+1. De koopman, bedoeld in [artikel 439, n°. 2, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=439), is verplicht een register te houden, waarvan de bladen van een doorloopend nommer zijn voorzien en door de burgemeester van zijn woonplaats of de korpschef worden gewaarmerkt.
 
 2. In dit register zal door hem, onmiddellijk nadat de goederen door hem in ontvang zijn genomen, aanteekening worden gedaan van iederen koop, iedere inruiling, aanneming als geschenk, in pand, gebruik of bewaring van goederen, behoorende tot de kleeding, uitrusting of wapening van een krijgsman beneden den rang van officier, alsmede van zoodanige goederen, welke hij voor een krijgsman beneden den rang van officier verkoopt, ruilt, ten geschenke, in pand, gebruik of bewaring geeft.
 
