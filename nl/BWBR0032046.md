@@ -124,5 +124,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 Deze wet wordt aangehaald als: Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
