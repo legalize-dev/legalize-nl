@@ -4,7 +4,7 @@ identifier: "BWBR0019262"
 country: "nl"
 rank: "kb"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019262"
 soort: "KB"
@@ -44,25 +44,25 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Onze Minister van Justitie is belast met de taken en de uitoefening van de daaruit voortvloeiende bevoegdheden die ingevolge de in de bijlage bij dit besluit genoemde bepalingen toekomen aan een andere minister, voorzover de onverwijlde uitoefening daarvan noodzakelijk is om maatregelen te nemen ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) of om op voorhand de gevolgen daarvan te beperken en indien overleg of overeenstemming over die maatregelen tussen Onze Minister van Justitie en die andere minister niet mogelijk is binnen de beschikbare tijd.
+Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefening van de daaruit voortvloeiende bevoegdheden die ingevolge de in de bijlage bij dit besluit genoemde bepalingen toekomen aan een andere minister, voorzover de onverwijlde uitoefening daarvan noodzakelijk is om maatregelen te nemen ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) of om op voorhand de gevolgen daarvan te beperken en indien overleg of overeenstemming over die maatregelen tussen Onze Minister van Veiligheid en Justitie en die andere minister niet mogelijk is binnen de beschikbare tijd.
 
 ##### Artikel 2
 
-1. Onze Minister van Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) toe te passen.
+1. Onze Minister van Veiligheid en Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) toe te passen.
 
-2. Indien de beschikbare tijd waarbinnen de maatregelen genomen moeten worden toepassing van het eerste lid niet toelaat, stelt Onze Minister van Justitie, onverwijld nadat hij de maatregelen heeft genomen, Onze Minister-President en Onze Minister wie het aangaat daarvan in kennis.
+2. Indien de beschikbare tijd waarbinnen de maatregelen genomen moeten worden toepassing van het eerste lid niet toelaat, stelt Onze Minister van Veiligheid en Justitie, onverwijld nadat hij de maatregelen heeft genomen, Onze Minister-President en Onze Minister wie het aangaat daarvan in kennis.
 
-3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
+3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Veiligheid en Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
 
 ##### Artikel 3
 
-In voorkomende gevallen oefent Onze Minister van Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Doorzettingsmacht Terrorismebestrijding.
+In voorkomende gevallen oefent Onze Minister van Veiligheid en Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Crisisbeheersing.
 
 ##### Artikel 4
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. Dit besluit vervalt op het tijdstip waarop een wet, houdende regeling van de bevoegdheid van Onze Minister van Justitie om maatregelen te nemen ter voorkoming van een terroristisch misdrijf, of om op voorhand de gevolgen daarvan te beperken, in werking treedt.
+2. Dit besluit vervalt op het tijdstip waarop een wet, houdende regeling van de bevoegdheid van Onze Minister van Veiligheid en Justitie om maatregelen te nemen ter voorkoming van een terroristisch misdrijf, of om op voorhand de gevolgen daarvan te beperken, in werking treedt.
 
 ## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2005-12-21&g=2005-12-21) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
@@ -102,36 +102,28 @@ Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Justitie
 
 Wijzigt dit besluit.
 
-## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
-- 1. [Artikel 9, eerste lid, van de Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=9).
+- 1. [Artikel 5 van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=5).
 
-- 2. [Artikel 5 van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=5).
+- 2. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=42), [43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=43a), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=46), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=47) en [48, eerste en tweede lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=48).
 
-- 3. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=42), [43a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=43a), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=46), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=47) en [48, eerste en tweede lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=48).
+- 3. [Artikel 67 van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=67).
 
-- 4. De [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=16), [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=55), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=57), [58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=58), [59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=59), en [60, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60).
+- 4. De [artikelen 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.1) en [18.9, eerste en tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.9).
 
-- 5. [Artikel 18 van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=18).
+- 5. [Artikel 2 van de Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2).
 
-- 6. De [artikelen 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.1) en [18.9, eerste en tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.9).
+- 6. De [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=48), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), [62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62), en [63, tweede lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=63).
 
-- 7. [Artikel 2 van de Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2).
+- 7. De [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21), [32l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32l), en [32m van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32m).
 
-- 8. De [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=48), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), [62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62), en [63, tweede lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=63).
+- 8. [Artikel 23 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=23).
 
-- 9. De [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21), [32l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32l), en [32m van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32m).
+- 9. [Artikel 5.31, derde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.31).
 
-- 10. [Artikel 23 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=23).
+- 10. De [artikelen 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10), en [9.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.1).
 
-- 11. De [artikelen 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=75) en [76 van de Waterstaatwet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=76).
-
-- 12. [Artikel 18 van de Wet geneeskundige hulpverlening bij ongevallen en rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0005276&artikel=18).
-
-- 13. De [artikelen 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10), en [9.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.1).
-
-- 14. [Artikel 17.19 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.19).
-
-- 15. De [artikelen 11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=11a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=17) en [18 van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=18).
+- 11. [Artikel 17.19 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.19).
 
 Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Justitie en Onze Ministers wie het aangaat, zijn belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba en de ministeries.
