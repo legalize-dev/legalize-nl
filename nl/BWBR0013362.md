@@ -4,7 +4,7 @@ identifier: "BWBR0013362"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2010-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013362"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Treedt in werking op het tijdstip waarop Stb. 2001/532 in werking treedt.
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Justitie;
+- a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
 - b. confrontatie: een onderzoek waarbij het uiterlijk van een verdachte door een getuige wordt geobserveerd om vast te stellen of de verdachte door deze persoon wordt herkend als betrokkene bij een strafbaar feit;
 
@@ -78,7 +78,7 @@ Vervallen
 
 ##### Artikel 4
 
-Het maken van een of meer foto’s of video-opnamen geschiedt door daartoe door de korpsbeheerder onderscheidenlijk werkgever aangewezen terzake deskundige personen.
+Het maken van een of meer foto’s of video-opnamen geschiedt door daartoe door de korpschef onderscheidenlijk werkgever aangewezen terzake deskundige personen.
 
 #### § 3. De toepassing van een confrontatie
 
@@ -88,7 +88,7 @@ Degene die een bevel tot een confrontatie geeft kan daarbij aanwijzingen geven o
 
 ##### Artikel 6
 
-De confrontatie wordt geleid door een daartoe door de korpsbeheerder onderscheidenlijk werkgever aangewezen terzake deskundige politieambtenaar als bedoeld in [artikel 3 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) of een daartoe aangewezen terzake deskundige militair van de Koninklijke marechaussee.
+De confrontatie wordt geleid door een daartoe door de korpschef onderscheidenlijk werkgever aangewezen terzake deskundige ambtenaar van politie als bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) of een daartoe aangewezen terzake deskundige militair van de Koninklijke marechaussee.
 
 ##### Artikel 7
 
@@ -114,7 +114,7 @@ De confrontatie wordt geleid door een daartoe door de korpsbeheerder onderscheid
 
 ##### Artikel 9
 
-De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2010-10-01&g=2010-10-01), bedoelde proces-verbaal of rapport.
+De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), bedoelde proces-verbaal of rapport.
 
 ##### Artikel 10
 
@@ -128,7 +128,7 @@ Degene die een bevel tot een geuridentificatieproef geeft kan daarbij aanwijzing
 
 ##### Artikel 12
 
-De geuridentificatieproef wordt uitgevoerd door een combinatie van een geleider en een politiespeurhond die in het bezit is van een krachtens [artikel 9 van de Regeling politiespeurhonden 1997](onbekend) verstrekt certificaat voor de geuridentificatie.
+De geuridentificatieproef wordt uitgevoerd door een combinatie van een geleider en een politiespeurhond die in het bezit is van een krachtens [artikel 24, derde lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=24) verstrekt certificaat voor de geuridentificatie.
 
 ##### Artikel 13
 
@@ -136,7 +136,7 @@ Als helper bij het uitvoeren van de geuridentificatieproef kunnen optreden opspo
 
 ##### Artikel 14
 
-De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2010-10-01&g=2010-10-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2010-10-01&g=2010-10-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
+De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2013-01-01&g=2013-01-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2013-01-01&g=2013-01-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
 
 - a. een verslag van de helper omtrent de gevolgde procedure;
 
