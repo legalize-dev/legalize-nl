@@ -4,7 +4,7 @@ identifier: "BWBR0002718"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2011-02-17"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002718"
 soort: "wet"
@@ -80,7 +80,7 @@ Deze wet verstaat onder:
 
 - a. op een met redenen omkleed verzoek van het bevoegd gezag;
 
-- b. door Onze minister indien niet meer wordt voldaan aan de regelen en voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2011-02-17&g=2011-02-17);
+- b. door Onze minister indien niet meer wordt voldaan aan de regelen en voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2013-01-01&g=2013-01-01);
 
 - c. door Onze minister indien het experiment niet tot de daarmee beoogde doeleinden blijkt te leiden;
 
@@ -88,15 +88,15 @@ Deze wet verstaat onder:
 
 ##### Artikel 3
 
-1. Indien toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17), wordt verlangd voor een gemeentelijke , voor een bijzondere school of voor een openbare school in het openbaar lichaam Bonaire, Sint Eustatius of Saba, dient het bevoegd gezag bij Onze minister een verzoek in onder bijvoeging van een experimenteerplan en een begroting van uitgaven.
+1. Indien toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01), wordt verlangd voor een gemeentelijke , voor een bijzondere school of voor een openbare school in het openbaar lichaam Bonaire, Sint Eustatius of Saba, dient het bevoegd gezag bij Onze minister een verzoek in onder bijvoeging van een experimenteerplan en een begroting van uitgaven.
 
 2. Het experimenteerplan geeft een duidelijke omschrijving van de doeleinden en de achtergronden van het experiment, van de werkmethode, de wetenschappelijke begeleiding, de evaluatie en de rapportering.
 
 ##### Artikel 4
 
-1. Op een school bekostigd ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17), zijn de door Onze minister bij zijn beslissing aangewezen regelen en voorwaarden, gegeven bij of krachtens een der onderwijswetten, van toepassing. Voor zover niet krachtens de vorige volzin geregeld, bepaalt Onze minister bij zijn beslissing welke regelen en voorwaarden voor de bekostiging zullen gelden, alsmede de wijze van bekostiging.
+1. Op een school bekostigd ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01), zijn de door Onze minister bij zijn beslissing aangewezen regelen en voorwaarden, gegeven bij of krachtens een der onderwijswetten, van toepassing. Voor zover niet krachtens de vorige volzin geregeld, bepaalt Onze minister bij zijn beslissing welke regelen en voorwaarden voor de bekostiging zullen gelden, alsmede de wijze van bekostiging.
 
-2. Indien de bekostiging van een experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17), uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment.
+2. Indien de bekostiging van een experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01), uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment.
 
 3. Indien de bekostiging wordt beëindigd van een experiment waarop het tweede lid niet van toepassing is, zijn voor het uit de openbare kas bekostigde personeel dat ten gevolge daarvan wordt ontslagen, de regelingen, geldend bij ontslag van personeel van een vergelijkbare, in een der onderwijswetten geregelde schoolsoort van overeenkomstige toepassing. In geval van twijfel welke de vergelijkbare schoolsoort is, beslist Onze minister.
 
@@ -104,7 +104,7 @@ Deze wet verstaat onder:
 
 ##### Artikel 4a
 
-1. Over aangelegenheden van algemeen belang voor de rechtstoestand van het personeel van een school, niet zijnde een school voor voortgezet onderwijs, waarvoor ingevolge [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2011-02-17&g=2011-02-17), de bekostiging wordt vastgesteld, wordt volgens bij algemene maatregel van bestuur te stellen regels overleg gevoerd met de daarvoor in aanmerking komende personeelsorganisaties en, voor zover zij daarbij belang hebben, organisaties van gemeente- school- en eilandsbesturen.
+1. Over aangelegenheden van algemeen belang voor de rechtstoestand van het personeel van een school, niet zijnde een school voor voortgezet onderwijs, waarvoor ingevolge [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2013-01-01&g=2013-01-01), de bekostiging wordt vastgesteld, wordt volgens bij algemene maatregel van bestuur te stellen regels overleg gevoerd met de daarvoor in aanmerking komende personeelsorganisaties en, voor zover zij daarbij belang hebben, organisaties van gemeente- school- en eilandsbesturen.
 
 2. Over aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel van een school, niet zijnde een school voor voortgezet onderwijs, wordt door of namens het bevoegd gezag volgens bij algemene maatregel van bestuur te stellen regels overleg gevoerd met de daarvoor in aanmerking komende personeelsorganisaties.
 
@@ -118,13 +118,11 @@ Deze wet verstaat onder:
 
 ##### Artikel 5
 
-1. Tegen een besluit genomen op grond van deze wet kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
-
-2. De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 6
 
-Onze minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, diploma’s of verklaringen van een school die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17) uit de openbare kas wordt bekostigd.
+Onze minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, diploma’s of verklaringen van een school die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01) uit de openbare kas wordt bekostigd.
 
 ##### Artikel 7
 
@@ -142,7 +140,7 @@ Ten aanzien van educatie en beroepsonderwijs waarop deze wet van toepassing is o
 
 ##### Artikel 7c
 
-1. Indien aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2011-02-17&g=2011-02-17), toepassing wordt gegeven voor een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of voor een instelling voor speciaal en voortgezet speciaal onderwijs, zijn op die school onderscheidenlijk instelling de bepalingen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) van toepassing, voor zover die betreffen de bekostiging door de gemeente.
+1. Indien aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2013-01-01&g=2013-01-01), toepassing wordt gegeven voor een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of voor een instelling voor speciaal en voortgezet speciaal onderwijs, zijn op die school onderscheidenlijk instelling de bepalingen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) van toepassing, voor zover die betreffen de bekostiging door de gemeente.
 
 2. Voor de toepassing van het eerste lid bepaalt Onze minister of de experimentele school of instelling wordt gelijkgesteld met een schoolsoort als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) dan wel of deze door de gemeente als een eigensoortige school voor speciaal onderwijs of voor voortgezet speciaal onderwijs, dan wel een eigensoortige school of instelling voor speciaal en voortgezet speciaal onderwijs dient te worden beschouwd.
 
