@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2012-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), [556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587) worden aangewezen:
 
-- a. ambtenaren van politie, bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3);
+- a. ambtenaren van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
 - b. ambtenaren, werkzaam bij de gerechten en genoemd in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [artikel 145, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145);
 
