@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,15 +125,17 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2012-01-01&g=2012-01-01));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2013-01-01&g=2013-01-01));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
 - e. als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
 
-- f. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een vierjarige subsidie dan wel een meerjarige productiesubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;
+- f. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;
 
-- g. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording.
+- g. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
+
+- h. als voor de activiteit waarvoor wordt aangevraagd reeds op een andere grond subsidie is verstrekt door het Fonds Podiumkunsten.
 
 #### Paragraaf 2. : Subsidie Nederlandse voorstellingen of concerten in het buitenland
 
@@ -207,17 +209,15 @@ Een aanvraag heeft betrekking op het programmeren van een of meer bijzondere voo
 
 ##### Artikel 3.5. Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria:
+Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 - a. artistieke kwaliteit;
 
-- b. productionele kwaliteit van het plan;
+- b. ondernemerschap;
 
 - c. bijdrage aan het Internationaal Cultuurbeleid;
 
-- d. ondernemerschap;
-
-- e. bijdrage aan de diversiteit of verscheidenheid van het podiumkunstenaanbod in Nederland.
+- d. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland.
 
 ##### Artikel 3.6. Hoogte subsidie
 
@@ -253,17 +253,15 @@ Een aanvraag kan uitsluitend worden gedaan door een instelling met een artistiek
 
 ##### Artikel 4.5. Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria:
+Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 - a. artistieke kwaliteit;
 
-- b. productionele kwaliteit van het plan;
+- b. ondernemerschap;
 
 - c. bijdrage aan het Internationaal Cultuurbeleid;
 
-- d. ondernemerschap;
-
-- e. relevantie voor de podiumkunstpraktijk in Nederland.
+- d. relevantie voor de podiumkunstpraktijk in Nederland.
 
 ##### Artikel 4.6. Hoogte subsidie
 
@@ -297,7 +295,7 @@ Het bestuur verstrekt subsidies ter dekking van de reis- en transportkosten die 
 
 1. Subsidie voor het geven van voorstellingen of concerten kan worden aangevraagd door een groep of performer die voorstellingen of concerten wil geven in het buitenland en in een periode van 18 maanden voorafgaand aan de aanvraag minimaal 10 voorstellingen of concerten hebben gegeven op podia of festivals in Nederland die in de disciplines of genres waarbinnen zij opereren een relevante programmering verzorgen.
 
-2. Subsidie voor het bijwonen van een of meer voorstellingen of concerten kan worden aangevraagd door een componist, toneelschrijver, librettist of choreograaf die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland. Het bepaalde in [artikel 1:8 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=1&artikel=1.8&z=2012-01-01&g=2012-01-01) is in dit geval niet van toepassing.
+2. Subsidie voor het bijwonen van een of meer voorstellingen of concerten kan worden aangevraagd door een componist, toneelschrijver, librettist of choreograaf die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland. Het bepaalde in [artikel 1:8 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=1&artikel=1.8&z=2013-01-01&g=2013-01-01) is in dit geval niet van toepassing.
 
 3. Subsidie kan eveneens worden aangevraagd door een instelling die op grond van de statuten of de feitelijke activiteiten kan worden aangemerkt als vertegenwoordiger van een groep of performer als bedoeld in het eerste lid.
 
