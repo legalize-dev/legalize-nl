@@ -4,7 +4,7 @@ identifier: "BWBR0034538"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2012-10-29"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034538"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2013-12-24"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -188,7 +188,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XXVIIb
 
@@ -265,11 +265,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2014 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het regeerakkoord en maatregelen te treffen ter voorkoming van fraude en ontduiking;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
