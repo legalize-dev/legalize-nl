@@ -4,7 +4,7 @@ identifier: "BWBR0025038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-06-26"
-last_updated: "2009-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025038"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **auditor:** de medewerker van de auditinstelling die de privacy audit namens de auditinstelling uitvoert;
 
-- g. **auditee:** het regionaal politiekorps, het Korps landelijke politiediensten, de Rijksrecherche of de Koninklijke marechaussee, of het onderdeel daarvan, dat onderworpen wordt aan een audit;
+- g. **auditee:** de politie, de Rijksrecherche of de Koninklijke marechaussee, of het onderdeel daarvan, dat onderworpen wordt aan een audit;
 
 - h. **interne audit:** de interne audit, bedoeld in [artikel 6:5, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5);
 
