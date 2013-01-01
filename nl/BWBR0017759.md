@@ -4,7 +4,7 @@ identifier: "BWBR0017759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017759"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling berust op [artikel 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4a), [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=7a), en [artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8a).
+Deze regeling berust op de [artikelen 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4a), en [22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=22).
 
 ### Hoofdstuk 1. Definitiebepaling
 
@@ -54,25 +54,15 @@ Deze regeling verstaat onder wet: [Wet op de internationale bijstandsverlening b
 
 ##### Artikel 3
 
-1. Ingeval een bevoegde autoriteit een verzoek doet tot de notificatie van stukken, beslist de Minister van Financiën zo spoedig mogelijk omtrent het aan het verzoek te verlenen gevolg.
+1. De Minister van Financiën draagt zorg voor de uitvoering van een verzoek van een bevoegde autoriteit van een lidstaat tot betekening van stukken met toepassing van de wettelijke voorschriften betreffende de betekening van stukken van een overeenkomstig Nederlands document.
 
-2. Het verzoek tot notificatie van stukken vermeldt ten aanzien van de geadresseerde zowel diens naam en adres als het bij het verzoek gevoegde document, bedoeld in [artikel 7a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=7a).
-
-3. De bevoegde autoriteit, bedoeld in het eerste lid, wordt onverwijld op de hoogte gesteld van de redenen die zich verzetten tegen de bewilliging in het verzoek tot notificatie van stukken. In een verzoek tot notificatie van stukken wordt in ieder geval niet bewilligd indien het verzoek niet voldoet aan de vereisten, gesteld in het tweede lid.
-
-4. Ingeval een verzoek tot notificatie van stukken voor bewilliging vatbaar is, brengt de Minister van Financiën de bevoegde autoriteit, bedoeld in het eerste lid, daarvan onverwijld op de hoogte. Met het oog op het daaraan te verlenen gevolg draagt de Minister van Financiën zorg voor de uitvoering van het verzoek tot notificatie van stukken met toepassing van de wettelijke voorschriften betreffende de notificatie van stukken van een overeenkomstig Nederlands document.
-
-5. De bevoegde autoriteit, bedoeld in het eerste lid, wordt onverwijld op de hoogte gesteld van het gevolg van de uitvoering van het verzoek tot notificatie van stukken. In ieder geval wordt deze autoriteit in kennis gesteld van de datum waarop de notificatie van stukken heeft plaatsgevonden.
+2. Ingeval het niet mogelijk is in een verzoek tot betekening van stukken te bewilligen, stelt de Minister van Financiën de bevoegde autoriteit, bedoeld in het eerste lid, onverwijld op de hoogte van de redenen die zich verzetten tegen de bewilliging in het verzoek.
 
 #### Paragraaf 2. Gelijktijdig onderzoek
 
 ##### Artikel 4
 
-1. Ingeval een bevoegde autoriteit een voorstel doet tot een gelijktijdig onderzoek, beslist de Minister van Financiën na het in [artikel 8a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8a) bedoelde overleg zo spoedig mogelijk omtrent het aan het voorstel te verlenen gevolg.
-
-2. De bevoegde autoriteit, bedoeld in het eerste lid, wordt onverwijld op de hoogte gesteld van de redenen die zich verzetten tegen de instemming met een voorstel tot gelijktijdig onderzoek.
-
-3. Indien met een voorstel tot gelijktijdig onderzoek kan worden ingestemd, brengt de Minister van Financiën de bevoegde autoriteit, bedoeld in het eerste lid, daarvan onverwijld op de hoogte. Daarbij maakt de Minister van Financiën de functionaris bekend die in Nederland is belast met de leiding en coördinatie van het gelijktijdige onderzoek.
+Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -127,6 +117,10 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 #### Paragraaf 1. Notificatie van stukken
 
 #### Paragraaf 2. Gelijktijdig onderzoek
+
+### Hoofdstuk 3. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Slotbepalingen
 
