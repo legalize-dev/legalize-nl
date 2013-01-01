@@ -4,7 +4,7 @@ identifier: "BWBR0007978"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1996-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007978"
 soort: "wet"
@@ -87,7 +87,7 @@ Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel VI
 
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van artikel 4**a**, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de Dienst Wegverkeer, waarbij in ieder geval aan de orde komen de rechtsvorm van de dienst, het arbeidsvoorwaardenregime en het proces van afstoten van taken naar de marktsector. De Dienst Wegverkeer is gehouden aan deze evaluatie medewerking te verlenen.
+Vervallen
 
 ##### Artikel VII
 
