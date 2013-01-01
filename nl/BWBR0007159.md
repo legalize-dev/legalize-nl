@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [80, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28i, eerste lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i).
+1. Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [27, derde lid, en eerste lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -55,11 +55,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 - b. **het besluit:** het [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178);
 
-- c. vervallen;
-
-- d. **een krat:** een verpakking met zes vlakken waarvan minimaal een vlak open is, zodat er zonder aanpassing van de verpakking een product kan worden in- of uitgepakt;
-
-- e. **een doos:** een gesloten verpakking met zes vlakken, waaruit alleen met aanpassing van de verpakking een product kan worden in- of uitgepakt.
+- c. **de EAN-code:** de EAN-code, bedoeld in [artikel 1, onderdeel f, van de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016979&artikel=1).
 
 ### Hoofdstuk II. Grondwaterbelasting
 
@@ -691,7 +687,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -733,7 +729,43 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 ##### Artikel 23
 
-Vervallen
+1. Het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), heeft betrekking op slechts één aansluiting en wordt gedaan binnen dertien weken na afloop van het kalenderjaar waarover teruggaaf wordt verzocht.
+
+2. In het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden ten minste de volgende gegevens vermeld:
+
+- a. het kalenderjaar waarover teruggaaf wordt verzocht;
+
+- b. naam en adres van de verbruiker;
+
+- c. naam en adres van de leverancier of leveranciers;
+
+- d. de EAN-code van de aansluiting via welke de elektriciteit geleverd is waarop het verzoek betrekking heeft;
+
+- e. de hoeveelheid elektriciteit die in het kalenderjaar waarover teruggaaf wordt verzocht via de aansluiting, bedoeld in onderdeel d, geleverd is, voor zover deze elektriciteit zakelijk is verbruikt en niet op grond van [artikel 64, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) van energiebelasting is vrijgesteld.
+
+3. Bij het verzoek worden overgelegd:
+
+- a. de factuur of facturen waaruit blijkt hoeveel energiebelasting ter zake van de in het tweede lid, onderdeel e, bedoelde elektriciteit in rekening is gebracht;
+
+- b. de verklaringen, bedoeld in [artikel 66, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66).
+
+4. De verklaring, bedoeld in [artikel 66, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), wordt door de verbruiker ondertekend en bevat ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van de verbruiker.
+
+5. De verklaringen, bedoeld in [artikel 66, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden door de verbruiker ondertekend en bevatten ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van de verbruiker;
+
+- c. de EAN-code van de aansluiting waarop de verklaringen betrekking hebben;
+
+- d. het kalenderjaar waarop de verklaringen betrekking hebben.
+
+6. De verbruiker richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van de teruggaafregeling, bedoeld in [artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), van belang zijnde bedrijfshandelingen.
 
 ##### Artikel 24
 
@@ -773,11 +805,11 @@ Vervallen
 
 1. De teruggaafregeling, bedoeld in [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is van toepassing mits:
 
-- a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69);
+- a. de instelling verklaart dat is voldaan aan de voorwaarden, bedoeld in [artikel 69, tweede lid, onderdelen a, b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69);
 
 - b. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet;
 
-- c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.
+- c. de instelling die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), verklaart dat aan die voorwaarden en aan de voorwaarde, bedoeld in [artikel 69, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is voldaan, en de in artikel 5c, onderdeel a, van de Algemene wet inzake rijksbelastingen genoemde regelgeving desgevraagd wordt overgelegd.
 
 2. De teruggaafregeling, bedoeld in [artikel 69, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), is van toepassing mits:
 
@@ -787,7 +819,7 @@ Vervallen
 
 - c. de over te leggen eindfactuur op naam van de instelling staat die het verzoek om teruggaaf doet, en
 
-- d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), en [artikel 69, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69).
+- d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), en [artikel 69, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69).
 
 ##### Artikel 27
 
@@ -859,7 +891,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2012-01-01&g=2012-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2013-01-01&g=2013-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -877,41 +909,7 @@ Vervallen
 
 ##### Artikel 32
 
-1. Als logistieke hulpmiddelen, bedoeld in [artikel 80, onderdeel a, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80) worden aangemerkt:
-
-- a. pallets, inclusief opzetranden, palletboxen en tussenplaten, bedoeld om in combinatie met een pallet te worden gebruikt en met eenzelfde oppervlakte als de pallet;
-
-- b. glasbokken;
-
-- c. Intermediate Bulk Containers;
-
-- d. rolcontainers;
-
-- e. vaten, jerrycans en gasflessen met een inhoud vanaf 20 liter;
-
-- f. kratten met een inhoud vanaf 8 liter;
-
-- g. dozen met een inhoud vanaf 1 m3;
-
-- h. big bags met een inhoud vanaf 250 liter;
-
-- i. kernen, spoelen en haspels met een lengte vanaf 50 cm.
-
-2. Voor de toepassing van het eerste lid wordt de inhoud bepaald aan de hand van de binnenmaten.
-
-3. Als producten die wel voldoen aan de definitie van verpakking, maar die naar hun aard hoofdzakelijk een andere functie dan een verpakkingsfunctie hebben, bedoeld in [artikel 80, onderdeel a, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80) worden aangemerkt:
-
-- a. niet-navulbare aansteker;
-
-- b. injectiespuit;
-
-- c. niet-navulbare pen;
-
-- d. schrijfstift, daaronder begrepen markeringsstift;
-
-- e. correctieroller;
-
-- f. toner- en inktcartridges.
+Vervallen
 
 ### Hoofdstuk IX. Algemene bepaling
 
@@ -935,7 +933,7 @@ Uitvoeringsregeling belastingen op milieugrondslag.
 
 ##### Artikel 32a
 
-Het percentage, bedoeld in [artikel 86, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86) is 50%.
+Vervallen
 
 ### Hoofdstuk IX. Algemene bepaling
 
@@ -943,98 +941,10 @@ Het percentage, bedoeld in [artikel 86, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 32b
 
-De producentenorganisatie, bedoeld in [artikel 28i van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i), wordt aangewezen in de bij deze regeling behorende bijlage.
+Vervallen
 
 ### Hoofdstuk X. Slotbepalingen
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
-**Coöperatieve Telersvereniging Batavia U.A.**
-
-Postbus 1150
-
-2990 CA BARENDRECHT
-
-**Telerscoöperatie Best Growers Benelux U.A.**
-
-Postbus 204
-
-2665 ZL BLEISWIJK
-
-**Coöperatie Koninklijke Fruitmasters Groep U.A.**
-
-Postbus 222
-
-4190 CE GELDERMALSEN
-
-**Telerscoöperatie Fossa Eugeniana U.A.**
-
-Postbus 1056
-
-5900 BB VENLO
-
-**Telerscoöperatie FresQ u.a.**
-
-Postbus 125
-
-2670 AC NAALDWIJK
-
-**Coöperatie Funghi U.A**
-
-Postbus 28
-
-6590 AA GENNEP
-
-**Coöperatie The Greenery U.A.**
-
-Postbus 79
-
-2990 AB BARENDRECHT
-
-**Coöperatie Komosa U.A.**
-
-Postbus 3021
-
-5902 RA VENLO
-
-**Coöperatie Nautilus U.A.**
-
-Havenweg 11-C
-
-8251 KB DRONTEN
-
-**Coöperatie Unistar B.A.**
-
-Daalder 13
-
-8305 BE EMMELOORD
-
-**Telerscoöperatie Versdirect.nl U.A.**
-
-Ebweg 12C
-
-2991 LT BARENDRECHT
-
-**Coöperatie WestVeg U.A.**
-
-Postbus 11
-
-2678 ZG DE LIER
-
-**Coöperatieve Tuinbouwveiling ‘Zaltbommel en Omstreken’ B.A.**
-
-Postbus 7
-
-5300 AA ZALTBOMMEL
-
-**Coöperatieve Veiling Zuidoost Nederland U.A.**
-
-Postbus 3200
-
-5902 RE VENLO
-
-**Coöperatieve Fruitveiling Zuid-Limburg B.A.**
-
-Aan de Fremme 33
-
-6269 BK MARGRATEN
+Vervallen
