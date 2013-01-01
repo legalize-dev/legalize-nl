@@ -4,7 +4,7 @@ identifier: "BWBR0003734"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2012-02-08"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003734"
 soort: "wet"
@@ -60,7 +60,7 @@ De bij deze wet aan Onze Minister van Economische Zaken, Landbouw en Innovatie v
 
 ##### Artikel 3
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2012-02-08&g=2012-02-08) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2012-02-08&g=2012-02-08) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2013-01-01&g=2013-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -132,7 +132,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College.
+Vervallen
 
 ##### Artikel 18
 
@@ -158,8 +158,8 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als: Prijzennoodwet.
 
-2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2012-02-08&g=2012-02-08) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2012-02-08&g=2012-02-08) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
