@@ -4,7 +4,7 @@ identifier: "BWBR0019122"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2008-06-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019122"
 soort: "AMvB"
@@ -72,9 +72,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2008-06-01&g=2008-06-01), geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting als bedoeld in [artikel 2 van het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0012337&artikel=2).
+1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2013-01-01&g=2013-01-01), geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), voor zover zich in de inrichting een installatie, een bestaande installatie of een kleine installatie bevindt.
 
-2. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2008-06-01&g=2008-06-01) geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2008-06-01&g=2008-06-01) en die kennelijk zijn geproduceerd vóór die data.
+2. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2013-01-01&g=2013-01-01) geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.
 
 ##### Artikel 4
 
@@ -82,7 +82,7 @@ De methoden, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage
 
 ##### Artikel 5
 
-1. Een wijziging van [richtlijn 2004/42](32004L0042) gaat voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=1&z=2008-06-01&g=2008-06-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van [richtlijn 2004/42](32004L0042) gaat voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=1&z=2013-01-01&g=2013-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. Een wijziging van een van de bijlagen bij [richtlijn 2004/42](32004L0042) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
