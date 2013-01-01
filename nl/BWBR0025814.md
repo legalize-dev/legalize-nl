@@ -4,7 +4,7 @@ identifier: "BWBR0025814"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2009-05-13"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025814"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **loopbaangerichte opleiding:** een opleiding die noodzakelijk is voor het verrichten van een toekomstige functie en die past in de ontwikkelafspraken die het bevoegd gezag en de ambtenaar in een gesprek over een persoonlijk ontwikkelingsplan als bedoeld in [artikel 72 Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=72) hebben gemaakt;
 
-- e. **niet-functiegerichte opleiding:** een opleiding die niet functie- of loopbaangericht is, maar toch in enige mate in het belang is van zowel het politiekorps als de ambtenaar;
+- e. **niet-functiegerichte opleiding:** een opleiding die niet functie- of loopbaangericht is, maar toch in enige mate in het belang is van zowel de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) als de ambtenaar;
 
 - f. **zelfstudie-opleiding:** een opleiding die bestaat uit het zelfstandig bestuderen van voorgeschreven studiemateriaal zonder contactonderwijs op locatie;
 
@@ -126,7 +126,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 3. Het bevoegd gezag kan tijdens de duur van de opleiding de op grond van het vorige lid bepaalde mate van organisatiebelang wijzigen ten gunste van de ambtenaar.
 
-4. Het bevoegd gezag betrekt bij de vaststelling van het organisatiebelang het belang van het eigen politiekorps, het belang van de politiedienst en het belang van een loopbaanpad buiten de politiedienst.
+4. Het bevoegd gezag betrekt bij de vaststelling van het organisatiebelang het belang van de eigen regionale eenheid, landelijke eenheid, of ondersteunende dienst, het belang van de politiedienst en het belang van een loopbaanpad buiten de politiedienst.
 
 ##### Artikel 7
 
@@ -144,7 +144,7 @@ Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding in de 
 
 - a. zelfstudieverlof van 75% onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
-- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van het politiekorps, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
+- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale eenheid, landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
 - c. een vergoeding van de reis- en verblijfskosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064), waarbij de reis van en naar de onderwijsinstelling ten behoeve van het afleggen van examens en het bijwonen van informatiedagen wordt aangemerkt als dienstreis;
 
@@ -156,7 +156,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 - a. zelfstudieverlof voor 50% onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
-- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van het politiekorps, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
+- b. zelfstudieverlof van 100% indien de zelfstudie-opleiding alleen vanaf een aangewezen digitale werkplek van de desbetreffende regionale eenheid, landelijke eenheid of ondersteunende dienst, niet zijnde een thuiswerkplek, kan worden verricht en onder voorwaarde dat de ambtenaar de opleiding met een positief resultaat afrondt;
 
 - c. een vergoeding van de reis- en verblijfskosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064), waarbij de reis van en naar de onderwijsinstelling ten behoeve van het afleggen van examens en het bijwonen van informatiedagen wordt aangemerkt als dienstreis;
 
@@ -182,7 +182,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 1. De terugbetalingsverplichting, bedoeld in [artikel 67, eerste lid, van Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67), wordt niet opgelegd bij functiegerichte opleidingen, met uitzondering van functiegerichte opleidingen waarvan de kennis niet specifiek de politie betreft en die meer dan € 12.500 per opleiding kosten.
 
-2. De Minister van Binnenlandse Zaken en Koninkrijksrelaties herziet iedere drie jaar de hoogte van het in het eerste lid genoemde bedrag.
+2. De Minister van Veiligheid en Justitie herziet iedere drie jaar de hoogte van het in het eerste lid genoemde bedrag.
 
 3. Het terug te betalen bedrag door de ambtenaar, bedoeld in [artikel 67, eerste lid, onder c, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67), aan wie een terugbetalingsverplichting is opgelegd omdat hij binnen een periode van 36 maanden na afronding van de opleiding de politie verlaat, wordt gesteld op 1/36 van het totaal aan hem vergoede bedrag voor elke maand die na het verlaten van de politie resteert van de bedoelde periode.
 
@@ -212,7 +212,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 
-## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2009-05-13&g=2009-05-13), van de Regeling studiefaciliteiten politie
+## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01), van de Regeling studiefaciliteiten politie
 
 ### Verklaring
 
@@ -223,5 +223,7 @@ Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 **
 
 [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=11&z=2009-05-13&g=2009-05-13)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
