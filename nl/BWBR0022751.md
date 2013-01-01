@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-06-23"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -48,15 +48,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister voor Jeugd en Gezin;
+- a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - b. kindgebonden budget: een financiële bijdrage van het Rijk in de kosten voor kinderen;
 
 - c. ouder: de verzekerde in de zin van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-2. De hoogte van het kindgebonden budget is afhankelijk van de draagkracht.
+2. De hoogte van het kindgebonden budget is afhankelijk van de draagkracht op basis van het inkomen en het vermogen.
 
 3. [Artikel 4 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=4) is niet van toepassing.
+
+4. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) bestaat geen aanspraak op kindgebonden budget indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van de ouder in het berekeningsjaar meer bedraagt dan € 80 000 dan wel, ingeval de belanghebbende het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001, van de ouder en zijn partner in het berekeningsjaar meer bedraagt dan € 80 000. Bij de bepaling van de grondslag, bedoeld in de vorige volzin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
 
 ##### Artikel 2. Aanspraak en hoogte kindgebonden budget
 
@@ -66,11 +68,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. indien de ouder aanspraak heeft voor één kind : € 1017,–;
 
-- b. indien de ouder aanspraak heeft voor twee kinderen: € 1478,–;
+- b. indien de ouder aanspraak heeft voor twee kinderen: € 1478,– per 1 januari 2013: € 1553,–;
 
-- c. indien de ouder aanspraak heeft voor drie kinderen: € 1661,–;
+- c. indien de ouder aanspraak heeft voor drie kinderen: € 1661,– per 1 januari 2013: € 1736,–;
 
-- d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 1661,–, verhoogd met zoveel maal € 106,– als het aantal kinderen meer bedraagt dan drie.
+- d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 1661,– per 1 januari 2013: € 1736,–, verhoogd met zoveel maal € 106,– als het aantal kinderen meer bedraagt dan drie.
 
 3. Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.
 
@@ -78,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 296.
 
-6. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 28 897 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 7,6% van het verschil tussen het gezamenlijke toetsingsinkomen en € 28 897.
+6. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 26 147 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 7,6% van het verschil tussen het gezamenlijke toetsingsinkomen en € 26 147.
 
 7. Een ouder als bedoeld in het eerste en derde lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
 
@@ -86,13 +88,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 9. De aanspraak op een kindgebonden budget wordt voor iedere kalendermaand afzonderlijk bepaald.
 
+10. Indien de ouder:
+
+- a. aanspraak heeft op kindgebonden budget voor een kind, en
+
+- b. voor dat kind voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,
+
+bedraagt het kindgebonden budget een bij ministeriële regeling vastgesteld percentage van de in het tweede lid, onderdeel a, vierde, vijfde en zesde lid bedoelde bedragen. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen en dat van Nederland. Het percentage bedraagt maximaal 100.
+
+11. Indien de ouder:
+
+- a. aanspraak heeft op kindgebonden budget voor meer dan een kind, en
+
+- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland als woonland in aanmerking wordt genomen,
+
+bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stellen regels vastgesteld bedrag. Dat bedrag is gebaseerd op de in het tweede, vierde, vijfde en zesde lid, opgenomen bedragen en de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen voor het desbetreffende kind of voor de desbetreffende kinderen en dat van Nederland uitgedrukt in procenten. Het percentage bedraagt maximaal 100.
+
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2012-06-23&g=2012-06-23), en [2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2013-01-01&g=2013-01-01), en [2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2012-06-23&g=2012-06-23), en [2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2013-01-01&g=2013-01-01), en [2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -116,11 +134,11 @@ wordt geacht een aanvraag als bedoeld in [artikel 15 van de Algemene wet inkomen
 
 ##### Artikel 6. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23).
+2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01).
 
-3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
+3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
 ##### Artikel 6a. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
@@ -132,7 +150,7 @@ wordt geacht een aanvraag als bedoeld in [artikel 15 van de Algemene wet inkomen
 
 ##### Artikel 7. Niet-indexeren bedragen in berekeningsjaren 2010 tot en met 2015
 
-Bij het begin van het jaar 2010 tot en met 2015 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2012-06-23&g=2012-06-23), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, voor de berekeningsjaren 2010 tot en met 2015 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2012-06-23&g=2012-06-23).
+Bij het begin van het jaar 2010 tot en met 2015 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2013-01-01&g=2013-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, voor de berekeningsjaren 2010 tot en met 2015 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 8. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
