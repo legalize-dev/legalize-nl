@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2010-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -86,7 +86,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 2. De leden van een kamer kunnen zich met instemming van het bestuur onderscheidenlijk de president van de Hoge Raad laten vervangen door een andere rechterlijke ambtenaar met rechtspraak belast, tenzij de goede gang van zaken binnen het gerecht zich daartegen verzet.
 
-3. Een rechterlijk ambtenaar met rechtspraak belast heeft, indien hij dit wenst, niet langer dan vier achtereenvolgende jaren zitting in dezelfde sector.
+3. Een rechterlijk ambtenaar met rechtspraak belast heeft, indien hij dit wenst, niet langer dan vier achtereenvolgende jaren zitting in dezelfde kamer.
 
 4. Het derde lid is niet van toepassing, indien een rechterlijk ambtenaar wordt herplaatst in het kader van een reorganisatie als bedoeld in [hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a).
 
@@ -112,17 +112,15 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01), ten behoeve van de betekening.
 
-2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
+2. Zo nodig geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
 ##### Artikel 10
 
-1. De openingstijden van de griffie worden, met inachtneming van het tweede lid, door het bestuur van een gerecht vastgesteld bij reglement.
+1. De griffie is in de zittingsplaatsen, bedoeld in [artikel 21b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b) op de dagen waarop terechtzittingen worden gehouden ten behoeve van de bij die zittingen betrokken procespartijen en hun advocaten en gemachtigden tenminste een kwartier voor de aanvang van een zitting en een kwartier na afloop daarvan geopend.
 
-2. De griffie is in de hoofdplaats, de nevenvestigingsplaats en de nevenzittingsplaats op de dagen waarop terechtzittingen worden gehouden ten behoeve van de bij die zittingen betrokken procespartijen en hun advocaten en gemachtigden tenminste een kwartier voor de aanvang van een zitting en een kwartier na afloop daarvan geopend.
-
-3. Bij de behandeling van zaken in een nevenzittingsplaats buiten het rechtsgebied treedt de griffie van het gerecht binnen wiens rechtsgebied de nevenzittingsplaats is gelegen op als griffie van de hoofdplaats als bedoeld in de [artikelen 41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), en [59, zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59). De besturen van de betrokken gerechten dragen er zorg voor dat de griffie, de griffierwerkzaamheden en de administratie van zaken van het gerecht op de nevenzittingsplaats gescheiden en als zodanig herkenbaar worden uitgevoerd van de griffie, de griffierwerkzaamheden en administratie van zaken van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen.
+2. Bij de behandeling van zaken in een zittingsplaats buiten het rechtsgebied, treedt de griffie van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen op als griffie van het gerecht. De besturen van de betrokken gerechten dragen er zorg voor dat de griffie, de griffierwerkzaamheden en de administratie van zaken van het gerecht op de betreffende zittingsplaats gescheiden en als zodanig herkenbaar worden uitgevoerd van de griffie, de griffierwerkzaamheden en administratie van zaken van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen.
 
 ##### Artikel 11
 
@@ -136,7 +134,7 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 ##### Artikel 12
 
-1. Indien door feitelijke omstandigheden van tijdelijke aard het niet mogelijk is dat griffierswerkzaamheden worden uitgevoerd in de hoofdplaats, de nevenvestigingsplaats of de nevenzittingsplaats, kan het bestuur van een gerecht bepalen dat voor de duur van die omstandigheden griffierswerkzaamheden elders worden verricht.
+1. Indien door feitelijke omstandigheden van tijdelijke aard het niet mogelijk is dat griffierswerkzaamheden worden uitgevoerd in een zittingsplaats, kan het bestuur van een gerecht bepalen dat voor de duur van die omstandigheden griffierswerkzaamheden elders worden verricht.
 
 2. Het besluit wordt gepubliceerd in de Staatscourant.
 
@@ -156,11 +154,11 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 - e. bij elke zaak aantekening wordt gehouden van het verloop van de procedure en van hetgeen verder dienstig wordt geacht.
 
-2. Een kamer kan, met instemming van het bestuur van het gerecht, bij haar aanhangige zaken verwijzen naar een andere kamer van gelijk getal binnen dezelfde sector.
+2. Een kamer kan, met instemming van het bestuur van het gerecht, bij haar aanhangige zaken verwijzen naar een andere kamer van gelijk getal.
 
 ##### Artikel 14
 
-1. Het bestuur van een rechtbank of gerechtshof geeft voor burgerlijke zaken die met een dagvaarding worden ingeleid en die in een nevenvestigings- of nevenzittingsplaats worden of kunnen worden behandeld, in het bestuursreglement, bedoeld in [artikel 19 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=19), aan in welke plaats de rolbehandeling plaatsvindt.
+1. Het bestuur van een rechtbank of gerechtshof geeft voor burgerlijke zaken die met een dagvaarding worden ingeleid in het bestuursreglement, bedoeld in [artikel 20, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), aan in welke zittingsplaats de rolbehandeling plaatsvindt.
 
 2. Het eerste lid is niet van toepassing op zaken die door de kantonrechter worden behandeld.
 
@@ -244,7 +242,7 @@ wordt de kennisneming onder toezicht gehouden.
 
 ##### Artikel 22
 
-1. De ambtenaren van het openbaar ministerie werkzaam bij de arrondissementsparketten en bij de ressortsparketten zenden een afschrift van een in kracht van gewijsde gegane uitspraak van een rechtbank of gerechtshof in burgerlijke zaken en belastingzaken naar de procureur-generaal bij de Hoge Raad, indien deze uitspraak naar hun mening in aanmerking komt voor cassatie in het belang der wet.
+1. De ambtenaren van het openbaar ministerie werkzaam bij de arrondissementsparketten en bij het ressortsparket zenden een afschrift van een in kracht van gewijsde gegane uitspraak van een rechtbank of gerechtshof in burgerlijke zaken en belastingzaken naar de procureur-generaal bij de Hoge Raad, indien deze uitspraak naar hun mening in aanmerking komt voor cassatie in het belang der wet.
 
 2. De inzending van de afschriften, bedoeld in het eerste lid, wordt met redenen omkleed.
 
@@ -288,7 +286,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2010-07-01&g=2010-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2010-07-01&g=2010-07-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2013-01-01&g=2013-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2013-01-01&g=2013-01-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
@@ -348,7 +346,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 12a
 
-Griffierswerkzaamheden voor strafzaken van het gerechtshof te Amsterdam worden met ingang van 13 oktober 2003 tijdelijk mede verricht te Amstelveen.
+Vervallen
 
 #### § 5. Administratie van aanhangige zaken
 
@@ -374,7 +372,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 19a
 
-Kennisneming van processtukken van strafzaken van het gerechtshof te Amsterdam door een verdachte die niet rechtens van zijn vrijheid is beroofd of diens raadsman, vindt met ingang van 13 oktober 2003 tijdelijk plaats in Amstelveen.
+Vervallen
 
 ### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
