@@ -4,7 +4,7 @@ identifier: "BWBR0024507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-26"
-last_updated: "2008-09-25"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024507"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-De taken en bevoegdheden van de Minister van Justitie, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.
+De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.
 
 ### Hoofdstuk 2. Erkenning van beroepskwalificaties
 
