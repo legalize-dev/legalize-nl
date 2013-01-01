@@ -4,7 +4,7 @@ identifier: "BWBR0007677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007677"
 soort: "ministeriele-regeling"
@@ -53,13 +53,13 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 - a. het internationale digitale aangiftepunt op internetadres https://www.eurovignettes.eu;
 
-- b. de aangiftepunten opgenomen op een door mij bijgehouden lijst van aangiftepunten, te raadplegen op internetadres www.belastingdienst.nl/tiny/61623_073.
+- b. de aangiftepunten opgenomen op een door mij bijgehouden lijst van aangiftepunten, te raadplegen op internetadres http://www.belastingdienst.nl.
 
 2. Voor bedrijven die daarvoor een overeenkomst hebben afgesloten met de Belastingdienst wordt naast de aangiftepunten in het eerste lid als aangiftepunt, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11) aangewezen het digitale aangiftepunt van de Belastingdienst op internetadres https://secure.eurovignet.nl/nluserportal/login.
 
 ##### Artikel 3a
 
-1. Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres www.belastingdienst.nl/tiny/61623_080.
+1. Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres http://www.belastingdienst.nl.
 
 2. Het verzoek om teruggaaf van belasting, bedoeld in [artikel 14a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a), bevat de volgende gegevens:
 
