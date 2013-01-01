@@ -4,7 +4,7 @@ identifier: "BWBR0011643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2004-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011643"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 - a. de zelfstandige en zijn in het buitenland verblijvende gezinsleden: de voor hen geldende bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2);
 
-- b. de zelfstandige van 21 jaar of ouder doch jonger dan 65 jaar die alleenstaande of alleenstaande ouder is: de voor hem geldende bijstandsnorm, [hoofdstuk 3, paragraaf 3.2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2), verhoogd met de toeslag, bedoeld in [artikel 25, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=25).
+- b. de zelfstandige van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) die alleenstaande of alleenstaande ouder is: de voor hem geldende bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2), verhoogd met de toeslag, bedoeld in [artikel 25, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=25).
 
 ##### Artikel 4
 
-De bijstand kan worden betaald door tussenkomst van het hoofd van de Nederlandse diplomatieke of consulaire post, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011643&artikel=2&z=2004-01-01&g=2004-01-01).
+De bijstand kan worden betaald door tussenkomst van het hoofd van de Nederlandse diplomatieke of consulaire post, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011643&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 5
 
-1. De bijstand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011643&artikel=3&z=2004-01-01&g=2004-01-01), die op grond van [artikel 11, tweede lid, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=11), niet wordt omgezet in een bedrag om niet, wordt uiterlijk binnen een jaar na afloop van het boekjaar waarin de bijstand is verleend, terugbetaald.
+1. De bijstand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011643&artikel=3&z=2013-01-01&g=2013-01-01), die op grond van [artikel 11, tweede lid, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=11), niet wordt omgezet in een bedrag om niet, wordt uiterlijk binnen een jaar na afloop van het boekjaar waarin de bijstand is verleend, terugbetaald.
 
 2. De zelfstandige legt hiertoe binnen 6 maanden na afloop van het boekjaar zijn administratie over aan de minister.
 
