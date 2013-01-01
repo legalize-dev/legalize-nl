@@ -4,7 +4,7 @@ identifier: "BWBR0020421"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020421"
 soort: "AMvB"
@@ -103,7 +103,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **dekkingspercentage:** een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt;
 
-**deposito**: tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt;
+**deposito:** tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt;
+
+**distributiekosten:** kosten voor het completeren van het dossier ten behoeve van de aanvraag van de offerte, het ondersteunen van de consument of, indien het een verzekering betreft, de cliënt bij de aanvraag en bij het aangaan van een overeenkomst met betrekking tot een financieel product en de kosten voor het maken van reclame-uitingen voor de genoemde werkzaamheden en voor advies;
 
 **doorlopende provisie**:
 
@@ -121,13 +123,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **eindtermen**: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product;
 
-**essentiële beleggersinformatie:** een kort document waarin informatie over de in [artikel 66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66a&z=2012-01-01&g=2012-01-01), genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling die niet verhandelbaar zijn of op verzoek van een deelnemer ten laste van de activa direct of indirect worden ingekocht of terugbetaald;
+**essentiële beleggersinformatie:** een kort document waarin informatie over de in [artikel 66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66a&z=2013-01-01&g=2013-01-01), genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling die niet verhandelbaar zijn of op verzoek van een deelnemer ten laste van de activa direct of indirect worden ingekocht of terugbetaald;
 
 **financieel analist**: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht;
 
 **financieel derivaat**: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:60);
 
-**financiële bijsluiter:** een document waarin informatie over de in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66&z=2012-01-01&g=2012-01-01), genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, is weergegeven;
+**financiële bijsluiter:** een document waarin informatie over de in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66&z=2013-01-01&g=2013-01-01), genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, is weergegeven;
 
 **geldmarktinstrument**: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
@@ -161,7 +163,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **internationale jaarrekeningstandaarden**: internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van [Verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243);
 
-**jaarlijks kostenpercentage:** totale kosten van een consumptief krediet voor de consument, uitgedrukt in een percentage op jaarbasis van het totale kredietbedrag, berekend volgens de basisvergelijking en aanvullende hypothesen, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2012-01-01&g=2012-01-01), of de bij de uitvoering van een overeenkomst inzake hypothecair krediet overeenkomstig de betalingsregeling aan de consument in rekening te brengen effectieve kredietvergoeding, uitgedrukt in een percentage op jaarbasis van het uitstaand saldo, berekend op bij ministeriële regeling vast te stellen wijze;
+**jaarlijks kostenpercentage:** totale kosten van een consumptief krediet voor de consument, uitgedrukt in een percentage op jaarbasis van het totale kredietbedrag, berekend volgens de basisvergelijking en aanvullende hypothesen, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2013-01-01&g=2013-01-01), of de bij de uitvoering van een overeenkomst inzake hypothecair krediet overeenkomstig de betalingsregeling aan de consument in rekening te brengen effectieve kredietvergoeding, uitgedrukt in een percentage op jaarbasis van het uitstaand saldo, berekend op bij ministeriële regeling vast te stellen wijze;
 
 **kosten**: bedragen die een financiële onderneming in rekening brengt of ten laste laat komen van een cliënt, consument of deelnemer;
 
@@ -196,12 +198,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 **op- en afslagen**: bedragen waarmee de door de deelnemers voor rechten van deelneming in een beleggingsinstelling betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming;
 
 **pensioenverzekering:** levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1);
-
-**PE-onderwijsprogramma:** onderwijsprogramma voor permanente educatie;
-
-**PE-toets:** toets voor permanente educatie;
-
-**PE-toetstermen:** criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eisen voor permanente educatie;
 
 **persoonlijke transactie**: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij:
 
@@ -243,7 +239,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **totale kredietbedrag:** de kredietlimiet of de kredietsom;
 
-**uitstaand saldo**:
+**uitstaand saldo:**
 
 - 1°. indien het geldkrediet betreft: op enig tijdstip bestaand totaal van de tot en met dat tijdstip door de consument opgenomen geldsommen, vermeerderd met de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;
 
@@ -251,7 +247,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **uitvaartverzekering:** levensverzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een natura-uitvaartverzekering;
 
-**wet**: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+**wet**: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
+
+**woning:** een gebouw of een afzonderlijk gedeelte daarvan en de bij dat gebouw behorende grond, een duurzaam aan een plaats gebonden woonschip of een woonwagen als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Huisvestingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=1) en de daarbij behorende standplaats als bedoeld in artikel 1, eerste lid, onderdeel e, van de Huisvestingswet.
 
 #### § 1.2. Bijzondere bepalingen
 
@@ -265,13 +263,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
 3. De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
-4. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+4. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -279,9 +277,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. informeert, alvorens een overeenkomst aan te gaan terzake van het als tussenpersoon verrichten van werkzaamheden ten behoeve van het buiten besloten kring aantrekken of ter beschikking verkrijgen van opvorderbare gelden van anderen dan professionele marktpartijen zijn wederpartij duidelijk en volledig over diens rechten en plichten met betrekking tot de overeenkomst;
 
-- b. meldt aan de Autoriteit Financiële Markten iedere wijzing in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2012-01-01&g=2012-01-01). De houder meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen; en
+- b. meldt aan de Autoriteit Financiële Markten iedere wijzing in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2013-01-01&g=2013-01-01). De houder meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen; en
 
-- c. meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van de personen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2012-01-01&g=2012-01-01).
+- c. meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van de personen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2013-01-01&g=2013-01-01).
 
 2. De houder van een ontheffing geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, onderdeel c, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid:
 
@@ -297,7 +295,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
@@ -321,21 +319,21 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 ##### Artikel 5
 
-1. De personen, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), zijn vakbekwaam, indien zij voldoen aan de in [onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01) genoemde eindtermen alsmede, voorzover zij zich rechtstreeks bezighouden met het verlenen van financiële diensten met betrekking tot de hierna in de onderdelen a tot en met e genoemde onderwerpen, aan de eindtermen genoemd in het daarop betrekking hebbende onderdeel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01):
+1. De personen, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), zijn vakbekwaam, indien zij voldoen aan de in [onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) genoemde eindtermen alsmede, voorzover zij zich rechtstreeks bezighouden met het verlenen van financiële diensten met betrekking tot de hierna in de onderdelen a tot en met e genoemde onderwerpen, aan de eindtermen genoemd in het daarop betrekking hebbende onderdeel van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01):
 
-- a. hypothecair krediet, al dan niet gecombineerd met opstal-, inboedel-, arbeidsongeschiktheids-, kapitaal- of overlijdensrisicoverzekeringen, waarbij de verplichting van de aanbieder tot het doen van een uitkering of een reeks van uitkeringen alleen dan ontstaat, indien het overlijden van degene op wiens leven de verzekering betrekking heeft plaatsvindt voor de in de polis genoemde datum: [onderdeel 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01);
+- a. hypothecair krediet, al dan niet gecombineerd met opstal-, inboedel-, arbeidsongeschiktheids-, kapitaal- of overlijdensrisicoverzekeringen, waarbij de verplichting van de aanbieder tot het doen van een uitkering of een reeks van uitkeringen alleen dan ontstaat, indien het overlijden van degene op wiens leven de verzekering betrekking heeft plaatsvindt voor de in de polis genoemde datum: [onderdeel 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01);
 
-- b. consumptief krediet, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01);
+- b. consumptief krediet, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01);
 
-- c. schadeverzekeringen: [onderdeel 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01);
+- c. schadeverzekeringen: [onderdeel 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01);
 
-- d. levensverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdeel 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01);
+- d. levensverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdeel 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01);
 
-- e. pensioenverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdelen 5 en 7 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01); of
+- e. pensioenverzekeringen, al dan niet gecombineerd met arbeidsongeschiktheidsverzekeringen: [onderdelen 5 en 7 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01); of
 
-- f. premiepensioenvorderingen: [onderdeel 7 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01).
+- f. premiepensioenvorderingen: [onderdeel 7 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01).
 
-2. Indien de financiëledienstverlener, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), optreedt als gevolmachtigde agent of als ondergevolmachtigde agent, zijn de in dat lid bedoelde personen vakbekwaam, indien zij voldoen aan de in [onderdeel 6 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01) genoemde eindtermen en de in het eerste lid bedoelde onderdelen van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01), met betrekking tot het financiële product waarmee zij zich rechtstreeks bezighouden.
+2. Indien de financiëledienstverlener, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), optreedt als gevolmachtigde agent of als ondergevolmachtigde agent, zijn de in dat lid bedoelde personen vakbekwaam, indien zij voldoen aan de in [onderdeel 6 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) genoemde eindtermen en de in het eerste lid bedoelde onderdelen van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01), met betrekking tot het financiële product waarmee zij zich rechtstreeks bezighouden.
 
 3. Het eerste lid is niet van toepassing op het verlenen van financiële diensten met betrekking tot een arbeidsongeschiktheidsverzekeringverzekering als bedoeld in het eerste lid, onderdeel a, b, d of e, of een opstal-, inboedel-, of overlijdensrisicoverzekering als bedoeld in het eerste lid, onderdeel a, die wordt gecombineerd met het in het desbetreffende onderdeel genoemde onderwerp.
 
@@ -345,13 +343,13 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 1. Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), indien:
 
-- a. zijn werknemers en andere personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met financiële dienstverlening, met uitzondering van feitelijk leidinggevenden, allen beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-01-01&g=2012-01-01), afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2012-01-01&g=2012-01-01) of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=5); of
+- a. zijn werknemers en andere personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met financiële dienstverlening, met uitzondering van feitelijk leidinggevenden, allen beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01), afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2013-01-01&g=2013-01-01) of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=5); of
 
 - b. hij zijn bedrijfsvoering zodanig heeft ingericht dat deze een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende waarborgt.
 
 2. Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), indien:
 
-- a. de in die volzin bedoelde feitelijk leidinggevenden beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-01-01&g=2012-01-01), afgegeven door een door Onze Minister erkend exameninstituut of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=5); of
+- a. de in die volzin bedoelde feitelijk leidinggevenden beschikken over een geldig diploma voor de in hun geval relevante eindtermen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01), afgegeven door een door Onze Minister erkend exameninstituut of over een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=5); of
 
 - b. hij een financiëledienstverlener is met een op jaarbasis gemiddeld aantal voltijdse werknemers van meer dan 50 en hij zijn bedrijfsvoering zodanig heeft ingericht dat deze een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten, voldoende waarborgt.
 
@@ -365,9 +363,9 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 1. Een diploma of een erkenning van beroepskwalificaties is geldig, tenzij de houder ervan:
 
-- a. niet binnen achttien maanden na de inwerkingtreding, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-01-01&g=2012-01-01), op de door Onze Minister vastgestelde wijze heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-01-01&g=2012-01-01); of
+- a. niet voor 1 januari 2014 op de door Onze Minister vastgestelde wijze heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2013-01-01&g=2013-01-01); of
 
-- b. niet binnen achttien maanden na de inwerkingtreding, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-01-01&g=2012-01-01), van toetstermen voor permanente educatie met goed gevolg een examen heeft afgelegd van een door Onze Minister erkend exameninstituut dat voldoet aan de in zijn geval relevante toetstermen die tegelijkertijd met toetstermen voor permanente educatie openbaar zijn gemaakt.
+- b. niet voor 1 januari 2014 met goed gevolg een examen heeft afgelegd van een door Onze Minister erkend exameninstituut dat voldoet aan de in zijn geval relevante toetstermen die tegelijkertijd met toetstermen voor permanente educatie openbaar zijn gemaakt.
 
 2. Indien een houder van een diploma of een erkenning van beroepskwalificaties niet binnen de in het eerste lid bedoelde termijn heeft voldaan aan de in zijn geval relevante toetstermen voor permanente educatie, is het diploma of de erkenning van beroepskwalificaties ongeldig vanaf het einde van die termijn tot hij alsnog daaraan voldoet.
 
@@ -375,7 +373,7 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 ##### Artikel 8
 
-1. Bij ministeriële regeling worden toetstermen vastgesteld voor de examens die leiden tot afgifte van een diploma als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2012-01-01&g=2012-01-01).
+1. Bij ministeriële regeling worden toetstermen vastgesteld voor de examens die leiden tot afgifte van een diploma als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2013-01-01&g=2013-01-01).
 
 2. Indien ontwikkelingen op de financiële markten of relevante wettelijke voorschriften daartoe aanleiding geven worden bij ministeriële regeling toetstermen vastgesteld met betrekking tot permanente educatie, alsmede de wijze waarop aan deze toetstermen kan worden voldaan.
 
@@ -385,7 +383,7 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 ##### Artikel 9
 
-1. Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager heeft aangetoond te kunnen voldoen aan [artikel 10, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2012-01-01&g=2012-01-01), voorzover het in die leden bepaalde op de aanvrager van toepassing is.
+1. Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager heeft aangetoond te kunnen voldoen aan [artikel 10, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2013-01-01&g=2013-01-01), voorzover het in die leden bepaalde op de aanvrager van toepassing is.
 
 2. Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.
 
@@ -397,7 +395,7 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 - b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning na de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of
 
-- c. indien het exameninstituut niet langer voldoet aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2012-01-01&g=2012-01-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2012-01-01&g=2012-01-01) of aan een voorschrift, verbonden aan de erkenning.
+- c. indien het exameninstituut niet langer voldoet aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2013-01-01&g=2013-01-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2013-01-01&g=2013-01-01) of aan een voorschrift, verbonden aan de erkenning.
 
 5. Van een besluit tot erkenning of tot intrekking van de erkenning van een exameninstituut doet Onze Minister mededeling in de Staatscourant.
 
@@ -413,7 +411,7 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 3. Een erkend exameninstituut stelt de door hem aangeboden examens open voor een ieder.
 
-4. Een door een erkend exameninstituut af te nemen examen voldoet binnen zes maanden na de openbaarmaking ervan aan de door Onze Minister vastgestelde toetstermen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2012-01-01&g=2012-01-01).
+4. Een door een erkend exameninstituut af te nemen examen voldoet binnen zes maanden na de openbaarmaking ervan aan de door Onze Minister vastgestelde toetstermen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2013-01-01&g=2013-01-01).
 
 5. Een erkend exameninstituut neemt ten aanzien van de wijze van examinering de maatregelen die redelijkerwijs nodig zijn om te bevorderen dat examens op een correcte en eerlijke wijze worden afgelegd.
 
@@ -459,7 +457,7 @@ De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](https://wette
 
 1. Een erkend exameninstituut verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van zijn in dit hoofdstukomschreven taken.
 
-2. Met het toezicht op de naleving van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2012-01-01&g=2012-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2012-01-01&g=2012-01-01) zijn belast de bij besluit van Onze Minister aangewezen personen.
+2. Met het toezicht op de naleving van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2013-01-01&g=2013-01-01) zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -471,21 +469,21 @@ De Autoriteit Financiële Markten stelt vast of de betrouwbaarheid van een perso
 
 ##### Artikel 13
 
-De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01), in ieder geval de volgende antecedenten in aanmerking:
+De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01), in ieder geval de volgende antecedenten in aanmerking:
 
-- a. de in de [onderdelen 1 en 2 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01) genoemde strafrechtelijke antecedenten;
+- a. de in de [onderdelen 1 en 2 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01) genoemde strafrechtelijke antecedenten;
 
-- b. de in [onderdeel 3 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01) genoemde financiële antecedenten;
+- b. de in [onderdeel 3 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01) genoemde financiële antecedenten;
 
-- c. de in [onderdeel 4 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01) genoemde toezichtantecedenten;
+- c. de in [onderdeel 4 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01) genoemde toezichtantecedenten;
 
-- d. de in [onderdeel 5 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01) genoemde fiscaal bestuursrechtelijke antecedenten; en
+- d. de in [onderdeel 5 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01) genoemde fiscaal bestuursrechtelijke antecedenten; en
 
-- e. de in [onderdeel 6 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01) genoemde overige antecedenten.
+- e. de in [onderdeel 6 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01) genoemde overige antecedenten.
 
 ##### Artikel 14
 
-1. De Autoriteit Financiële Markten verkrijgt inzicht in de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Autoriteit Financiële Markten verkrijgt inzicht in de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -503,7 +501,7 @@ De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde persoon betrokken is geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01) bedoelde persoon betrokken is geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -519,13 +517,21 @@ De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel
 
 ##### Artikel 15
 
-1. De betrouwbaarheid van een persoon als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01) staat niet buiten twijfel indien deze veroordeeld is terzake van een misdrijf, genoemd in [onderdeel 1 van bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2012-01-01&g=2012-01-01), tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+1. De betrouwbaarheid van een persoon als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01) staat niet buiten twijfel indien:
 
-2. De Autoriteit Financiële Markten kan op grond van de omstandigheden of belangen, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=16&z=2012-01-01&g=2012-01-01), afwijken van het eerste lid.
+- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01), waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
+
+- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01), waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
+
+- c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) of [artikel 65 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of
+
+- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=C&z=2013-01-01&g=2013-01-01), en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
+
+2. De Autoriteit Financiële Markten kan op grond van de omstandigheden of belangen, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
 ##### Artikel 16
 
-De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01), in aanmerking:
+De Autoriteit Financiële Markten neemt bij de vaststelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -589,15 +595,15 @@ Een beheerder, beleggingsinstelling, bewaarder of pensioenbewaarder als bedoeld 
 
 2. De beleggingsinstelling verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek, binnen een door de Autoriteit Financiële Markten vast te stellen termijn, aan de Autoriteit Financiële Markten.
 
-#### § 4.2. Beleggingsondernemingen
+#### § 4.1. Beheerders, beleggingsinstellingen, bewaarders en pensioenbewaarders
 
 ##### Artikel 23
 
 1. Een beleggingsonderneming draagt er, met het oog op de integere uitoefening van haar bedrijf, zorg voor dat het beleid, bedoeld in [artikel 4:11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), zijn neerslag vindt in procedures en maatregelen.
 
-2. De beleggingsonderneming draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen, bedoeld in het eerste lid, en beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de personen die belast zijn met de taak, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2012-01-01&g=2012-01-01).
+2. De beleggingsonderneming draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen, bedoeld in het eerste lid, en beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de personen die belast zijn met de taak, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2013-01-01&g=2013-01-01).
 
-3. De beleggingsonderneming beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf onder toezicht van de personen die zijn belast met de taak, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2012-01-01&g=2012-01-01), tot een gepaste bijstelling leiden.
+3. De beleggingsonderneming beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf onder toezicht van de personen die zijn belast met de taak, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2013-01-01&g=2013-01-01), tot een gepaste bijstelling leiden.
 
 ##### Artikel 24
 
@@ -683,23 +689,35 @@ De financiële onderneming voorziet erin dat gesignaleerde tekortkomingen worden
 
 3. Voor de toepassing van het eerste en tweede lid wordt rekening gehouden met de aard, omvang en risico’s van de financiële onderneming en de werkzaamheden van de beheerder respectievelijk de beleggingsonderneming.
 
-#### § 5.2. Gedragsaspecten van de bedrijfsvoering
+#### § 4.3. Financiëledienstverleners
 
 ##### Artikel 32
 
-1. Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+1. Een financiële onderneming als bedoeld in [artikel 4:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) of [4:15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die financiële producten aanbiedt of samenstelt en in de markt verkrijgbaar stelt, beschikt over adequate procedures en maatregelen die waarborgen dat bij de ontwikkeling van het financieel product op een evenwichtige wijze rekening wordt gehouden met de belangen van de consument, cliënt en, indien van toepassing, de begunstigde van het financieel product en dat het financieel product aantoonbaar het resultaat is van deze belangenafweging.
 
-2. Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+2. De procedures en maatregelen, bedoeld in het eerste lid, worden vastgelegd en waarborgen in ieder geval dat:
 
-3. Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+- a. de doelgroep van het financieel product is afgebakend, waarbij is geanalyseerd en omschreven wat de beoogde doelstelling van de doelgroep is;
 
-4. Het eerste, tweede en derde lid zijn niet van toepassing op financiële ondernemingen die bij de advisering uitsluitend te werk gaan volgens een gestandaardiseerde en gesystematiseerde procedure die voor de Autoriteit Financiële Markten verifieerbaar is, en die aan de hand van deze procedure aan de Autoriteit Financiële Markten kunnen aantonen welke informatie zij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) over consumenten onderscheidenlijk cliënten inwinnen en welke adviezen consumenten onderscheidenlijk cliënten op basis van de aldus ingewonnen informatie worden gegeven.
+- b. analyses worden uitgevoerd waarin de werking van het financieel product als geheel en de afzonderlijke onderdelen daarvan in verschillende scenario’s wordt vastgesteld en waaruit blijkt dat het financieel product, gelet op de aard van het product, geen afbreuk doet aan de doelstelling, bedoeld in onderdeel a;
 
-5. Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste één jaar na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.
+- c. de productinformatie en, voor zover redelijkerwijs mag worden verwacht, de distributie van het financieel product is afgestemd op de doelgroep, bedoeld in onderdeel a; en
+
+- d. regelmatig een controle en indien nodig een gepaste bijstelling van de procedures en maatregelen, bedoeld in het eerste lid, plaatsvindt.
+
+3. De financiële onderneming past periodiek, op door haar te bepalen tijdstippen of als daar aanleiding toe is, de procedures en maatregelen, bedoeld in het eerste lid, toe op de financiële producten die door haar worden aangeboden, of zijn samengesteld en in de markt verkrijgbaar worden gesteld.
+
+4. Indien een financieel product afbreuk doet aan de belangen van de consument, cliënt of begunstigde voor wie het product ontwikkeld is, past de financiele onderneming zo spoedig mogelijk het product aan of staakt zij het aanbieden of samenstellen en het in de markt verkrijgbaar stellen van het financieel product.
+
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.
+
+6. Het vierde lid is niet van toepassing op het beheren of uitvoeren van overeenkomsten als bedoeld in de onderdelen a, b en c van de definitie van aanbieden in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+7. Dit artikel is niet van toepassing op beheerders van een beleggingsinstelling die rechten van deelneming in een beleggingsinstelling aanbieden aan professionele beleggers, beheerders van een instelling voor collectieve belegging in effecten en beleggingsondernemingen.
 
 ##### Artikel 33
 
-Een aanbieder van krediet als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) bewaart de informatie die hij ingevolge de [artikelen 4:34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:34) en [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.2&artikel=113&z=2012-01-01&g=2012-01-01) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.2&artikel=114&z=2012-01-01&g=2012-01-01) heeft ingewonnen, alsmede de door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, ten minste gedurende vijf jaren na de dag waarop die overeenkomst is afgewikkeld.
+Een aanbieder van krediet als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) bewaart de informatie die hij ingevolge de [artikelen 4:34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:34) en [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.2&artikel=113&z=2013-01-01&g=2013-01-01) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.2&artikel=114&z=2013-01-01&g=2013-01-01) heeft ingewonnen, alsmede de door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, ten minste gedurende vijf jaren na de dag waarop die overeenkomst is afgewikkeld.
 
 ##### Artikel 34
 
@@ -779,79 +797,101 @@ Een financiële onderneming gaat niet over tot het uitbesteden van werkzaamheden
 
 ##### Artikel 39
 
-Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) stelt aan alle personen die binnen haar onderscheidenlijk zijn onderneming betrokken zijn bij de afhandeling van klachten van cliënten of consumenten over financiële diensten of financiële producten van de financiële onderneming, een beschrijving beschikbaar van de te volgen procedure voor de afhandeling van die klachten.
+Deze paragraaf is van toepassing op financiële ondernemingen waarvoor op grond van [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) de verplichting geldt om over een interne klachtenprocedure te beschikken.
 
 ##### Artikel 40
 
-Met het oog op een adequate behandeling van klachten van cliënten of consumenten over financiële diensten of financiële producten van een beheerder, beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), beschikt de beheerder, beleggingsonderneming of financiëledienstverlener over een behoorlijke administratie van die klachten, waarin ten minste worden vastgelegd:
-
-- a. de naam en het adres van de cliënt of consument die een klacht heeft ingediend;
-
-- b. de klacht, met de daarbij behorende dagtekening van ontvangst;
-
-- c. een omschrijving van de klacht; en
-
-- d. een beschrijving van de wijze waarop de financiële onderneming de klacht heeft behandeld.
+De financiële onderneming stelt aan alle personen die binnen de onderneming betrokken zijn bij de afhandeling van klachten van consumenten, cliënten of deelnemers over betaaldiensten, financiële diensten of financiële producten van de financiële onderneming, een beschrijving beschikbaar van de te volgen procedure voor de afhandeling van die klachten.
 
 ##### Artikel 41
 
-Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) bewaart de gegevens, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.1&artikel=40&z=2012-01-01&g=2012-01-01), gedurende een periode van ten minste een jaar nadat de klacht door haar onderscheidenlijk hem is afgehandeld.
+1. De financiële onderneming beschikt met het oog op een adequate behandeling van klachten als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.1&artikel=40&z=2013-01-01&g=2013-01-01) over een behoorlijke administratie van klachten, waarin ten minste worden vastgelegd:
+
+- a. de naam en het adres van de klager;
+
+- b. de klacht, met daarbij behorende dagtekening van ontvangst;
+
+- c. een omschrijving van de klacht;
+
+- d. een beschrijving van de wijze waarop zij de klacht heeft behandeld.
+
+2. De financiële onderneming bewaart de gegevens, bedoeld in het eerste lid, gedurende een periode van ten minste een jaar nadat de klacht door haar is afgehandeld.
 
 ##### Artikel 42
 
-1. Een beheerder als bedoeld in [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) voorziet in procedures en maatregelen die waarborgen dat klachten van deelnemers in door hem beheerde beleggingsinstellingen zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.
-
-2. De beheerder stelt kosteloos informatie over de procedures, bedoeld in het eerste lid, ter beschikking aan de deelnemers in een door hem beheerde beleggingsinstelling.
-
-3. Een betaaldienstverlener voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten door deze betaaldienstverlener, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.
-
-4. Een elektronischgeldinstelling voorziet in procedures en maatregelen die waarborgen dat klachten van cliënten over het verlenen van betaaldiensten dan wel over de uitgifte van elektronisch geld door deze elektronischgeldinstelling, zorgvuldig, verifieerbaar, consistent en binnen een redelijke termijn worden afgehandeld.
+De financiële onderneming informeert de klager bij een gehele of een gedeeltelijke afwijzing van diens klacht over financiële diensten of financiële producten over de mogelijkheid om de klacht voor te leggen aan de erkende geschilleninstantie waarbij zij is aangesloten, onder vermelding van de geldende termijnen. Daarbij wordt tevens vermeld dat een geschil ook direct bij een burgerlijke rechter aanhangig kan worden gemaakt. Indien de afwijzing schriftelijk geschiedt, wordt de desbetreffende informatie eveneens schriftelijk verstrekt.
 
 #### § 7.2. Erkende geschilleninstantie
 
 ##### Artikel 43
 
-1. Onze Minister erkent een geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) op aanvraag, indien de aanvrager heeft aangetoond te kunnen voldoen aan de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-01-01&g=2012-01-01).
+1. De financiële onderneming draagt er zorg voor dat klachten binnen een redelijke termijn worden afgehandeld.
 
-2. Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.
+2. De financiële onderneming bevestigt de ontvangst van de klacht en bericht de klager binnen twee weken na ontvangst van de klacht binnen welke termijn de klacht zal worden afgehandeld.
 
-3. Onze Minister kan aan een erkenning voorschriften verbinden.
+3. De klager kan vanaf zes weken na ontvangst van de ontvangstbevestiging of acht weken na het indienen van de klacht, de klacht rechtstreeks voorleggen aan de erkende geschilleninstantie waarbij de financiële onderneming is aangesloten.
 
-4. Een erkende geschilleninstantie verstrekt aan Onze Minister binnen een half jaar na afloop van elk kalenderjaar een opgave van:
-
-- a. de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten betaaldienstverleners en financiëledienstverleners; en
-
-- b. een opgave van het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen, alsmede een algemene weergave van de aard van de geschillen en de uitkomst van de geschilbeslechting.
-
-5. Een erkende geschilleninstantie informeert Onze Minister onverwijld over wijzigingen in het reglement, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=45&z=2012-01-01&g=2012-01-01), en van de samenstelling van het orgaan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-01-01&g=2012-01-01). Bij wijzigingen van de samenstelling van dit orgaan vermeldt de geschilleninstantie de leeftijd, genoten opleiding en professionele achtergrond van het betrokken lid.
-
-6. Een erkende geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.
-
-7. Onze Minister kan een erkenning intrekken:
-
-- a. op verzoek van de geschilleninstantie;
-
-- b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest;
-
-- c. indien de geschilleninstantie niet voldoet aan het vierde of zesde lid, [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-01-01&g=2012-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=45&z=2012-01-01&g=2012-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=46&z=2012-01-01&g=2012-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=47&z=2012-01-01&g=2012-01-01) of [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=48&z=2012-01-01&g=2012-01-01) of een voorschrift, verbonden aan de erkenning.
-
-8. Van een beslissing tot erkenning of tot intrekking van de erkenning van een geschilleninstantie wordt door Onze Minister mededeling gedaan in de Staatscourant.
+4. Indien de financiële onderneming voor de afwikkeling van de klacht nadere informatie nodig heeft van de klager, verzoekt zij deze informatie van de klager en geeft een termijn voor de beantwoording. De termijnen als bedoeld in het derde lid worden verlengd met de termijn voor beantwoording, of met de termijn waarbinnen de verzochte informatie wordt ontvangen door de financiële onderneming.
 
 ##### Artikel 44
 
-1. Een erkende geschilleninstantie draagt zorg voor de onafhankelijkheid en deskundigheid van het orgaan dat binnen haar organisatie verantwoordelijk is voor de behandeling van het geschil.
-
-2. De onafhankelijkheid van het orgaan wordt voldoende gewaarborgd indien de leden:
-
-- a. gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet gewerkt hebben voor of enige functie bekleed hebben bij een beroepsorganisatie voor betaaldienstverleners of financiëledienstverleners of voor, onderscheidenlijk bij een betaaldienstverlener of financiëledienstverlener, ten aanzien van wiens betaaldiensten, financiële producten en financiële diensten geschillen ter behandeling aan de geschilleninstantie kunnen worden voorgelegd; en
-
-- b. vanaf de aanvaarding van hun functie niet werkzaam zijn voor of enige functie bekleden bij een beroepsorganisatie voor betaaldienstverleners of financiëledienstverleners, of voor, onderscheidenlijk bij een betaaldienstverlener of financiëledienstverlener, ten aanzien van wiens betaaldiensten, financiële producten en financiële diensten geschillen ter behandeling aan de geschilleninstantie kunnen worden voorgelegd.
-
-3. Ter waarborging van de deskundigheid van het orgaan bezit in ieder geval de voorzitter van het orgaan de hoedanigheid van meester in de rechten.
-
-4. De bij de benoeming van een lid van het orgaan te volgen procedure is schriftelijk vastgelegd.
+De financiële onderneming voorziet in procedures en maatregelen die waarborgen dat klachten van klagers zorgvuldig, verifieerbaar, consistent en binnen de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.1&artikel=43&z=2013-01-01&g=2013-01-01) gestelde termijn worden afgehandeld.
 
 ##### Artikel 45
+
+1. Onze Minister kan een geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), slechts erkennen indien:
+
+- a. de bij die geschilleninstantie aangesloten financiële ondernemingen een groep van voldoende betekenis en veelsoortigheid vormen of aannemelijk gemaakt kan worden dat dit op korte termijn na erkenning het geval zal zijn;
+
+- b. de geschilleninstantie in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;
+
+- c. de geschilleninstantie over een adequate financieringssystematiek beschikt en een adequate bezettingsgraad kan realiseren; en
+
+- d. de geschilleninstantie heeft aangetoond te kunnen voldoen aan de [artikelen 45 tot en met 48f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=45&z=2013-01-01&g=2013-01-01).
+
+2. Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.
+
+3. Aan een erkenning kunnen voorschriften worden verbonden.
+
+4. Onze Minister kan een erkenning intrekken:
+
+- a. op verzoek van de geschilleninstantie;
+
+- b. indien naar zijn oordeel de geschillencommissie niet in voldoende mate bijdraagt tot het oplossen van geschillen die hun oorsprong vinden in klachten over financiële producten en diensten;
+
+- c. indien de geschilleninstantie niet over een adequate financieringssystematiek beschikt of geen adequate bezettingsgraad weet te realiseren;
+
+- d. indien de bij de geschilleninstantie aangesloten financiële ondernemingen niet langer een groep van voldoende betekenis vormen;
+
+- e. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd, dan wel niet zonder het verbinden van voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of
+
+- f. indien de geschilleninstantie niet voldoet aan het eerste of derde lid, de [artikelen 45 tot en met 48f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=45&z=2013-01-01&g=2013-01-01) of een voorschrift, verbonden aan de erkenning.
+
+5. Van een beslissing tot erkenning of tot intrekking van de erkenning van een geschilleninstantie wordt door Onze Minister mededeling gedaan in de Staatscourant.
+
+6. Onze Minister kan bij de beoordeling van een aanvraag tot erkenning als een geschilleninstantie in de zin van de wet een uitzondering maken op het eerste lid, onderdeel a, indien de groep financiële ondernemingen dezelfde financiële producten of financiële diensten aanbiedt en deze niet verweven zijn met andere financiële producten of financiële diensten.
+
+##### Artikel 46
+
+1. Een erkende geschilleninstantie heeft een onafhankelijk en naar behoren samengesteld bestuur.
+
+2. De onafhankelijkheid van het bestuur vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of zijn geweest voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.
+
+3. De bij de benoeming van bestuursleden te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.
+
+##### Artikel 47
+
+1. Een erkende geschilleninstantie draagt zorg voor de onafhankelijkheid en deskundigheid van het orgaan dat binnen haar organisatie verantwoordelijk is voor de behandeling van het geschil.
+
+2. De onafhankelijkheid van het orgaan vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of gewerkt hebben voor of enige functie bekleden of bekleed hebben bij een financiële onderneming of een beroepsorganisatie daarvan.
+
+3. Binnen het orgaan is voldoende kennis en ervaring aanwezig op het gebied van geschillenbeslechting, toepasselijke wet- en regelgeving en financiële producten en diensten.
+
+4. De bij de benoeming van een lid van het orgaan, bedoeld in het eerste lid, te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.
+
+5. Indien de erkende geschilleninstantie een bemiddelende voorfase kent, is het eerste tot en met vierde lid van overeenkomstige toepassing.
+
+##### Artikel 48
 
 1. Een erkende geschilleninstantie beschikt over en handelt in overeenstemming met een reglement voor de behandeling van geschillen dat ten minste omvat:
 
@@ -859,7 +899,7 @@ Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4
 
 - b. regels met betrekking tot het aanhangig maken van een geschil en een duidelijke omschrijving van de partijen die een geschil aanhangig kunnen maken;
 
-- c. indien de mogelijkheid daartoe wordt geboden: de regels met betrekking tot wraking van een lid van het orgaan, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2012-01-01&g=2012-01-01), door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken;
+- c. indien de mogelijkheid daartoe wordt geboden: regels met betrekking tot wraking van een lid van het orgaan, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=47&z=2013-01-01&g=2013-01-01), door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken;
 
 - d. regels met betrekking tot de behandeling van een geschil door de geschilleninstantie;
 
@@ -873,11 +913,11 @@ Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4
 
 - i. regels met betrekking tot de voorwaarden waaronder een geschil door middel van een verkorte schriftelijke procedure of een voorlopig oordeel kan worden afgedaan;
 
-- j. regels met betrekking tot het soort regels waarop de geschilleninstantie haar beslissingen baseert;
+- j. regels op grond waarvan de geschilleninstantie haar beslissingen baseert;
 
 - k. regels met betrekking tot de mogelijkheid dat de beslechting van een geschil resulteert in een niet-bindend advies;
 
-- l. de bepaling dat de beslechting van een geschil slechts resulteert in een bindend advies indien de betaaldienstverlener of financiële dienstverlener daarmee uitdrukkelijk vooraf heeft ingestemd;
+- l. de bepaling dat de beslechting van een geschil slechts resulteert in een bindend advies indien de financiële onderneming daarmee uitdrukkelijk vooraf heeft ingestemd;
 
 - m. regels met betrekking tot de vaststelling van de hoogte van het bedrag dat, zo dit verschuldigd is, bij het aanhangig maken van het geschil dient te worden voldaan;
 
@@ -885,21 +925,9 @@ Een beleggingsonderneming of financiëledienstverlener als bedoeld in [artikel 4
 
 - o. regels met betrekking tot de vorm, inhoud en bekendmaking van de uitkomst van het advies, bedoeld in de onderdelen k en l, waarbij in ieder geval is bepaald dat deze uitkomst, met redenen omkleed, ondertekend en schriftelijk aan partijen wordt medegedeeld; en
 
-- p. indien beroep tegen een uitspraak mogelijk is, de regels met betrekking tot het mededelen van de mogelijkheid van beroep, de wijze en termijn van het instellen, alsmede de behandeling van dit beroep.
+- p. indien beroep tegen een uitspraak mogelijk is: regels met betrekking tot het mededelen van de mogelijkheid van beroep, de wijze en termijn van het instellen, alsmede de behandeling van dit beroep.
 
-2. Een erkende geschilleninstantie houdt het reglement, bedoeld in het eerste lid, beschikbaar en verstrekt het kosteloos op verzoek aan iedere belanghebbende.
-
-##### Artikel 46
-
-Een erkende geschilleninstantie draagt er zorg voor dat de kosten voor het aanhangig maken van een geschil zodanig beperkt blijven dat de toegang tot de geschilleninstantie niet onredelijk wordt belemmerd.
-
-##### Artikel 47
-
-Een erkende geschilleninstantie draagt er zorg voor dat de behandeling van een geschil binnen een redelijke termijn wordt voltooid.
-
-##### Artikel 48
-
-Een erkende geschilleninstantie stelt aan een betaaldienstverlener of financiëledienstverlener die zich bij haar wil aansluiten niet als voorwaarde voor aansluiting dat de betaaldienstverlener of financiëledienstverlener andere regels naleeft dan die welke betrekking hebben op het aanhangig maken van een geschil bij de geschilleninstantie of de verdere behandeling van een geschil door de geschilleninstantie.
+2. De geschilleninstantie houdt het reglement, bedoeld in het eerste lid, beschikbaar en verstrekt het kosteloos op verzoek aan iedere belanghebbende.
 
 ### Hoofdstuk 6. Uitbesteden van werkzaamheden
 
@@ -909,7 +937,7 @@ Een erkende geschilleninstantie stelt aan een betaaldienstverlener of financiël
 
 ##### Artikel 49
 
-1. Een financiële onderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:72), en [4:73, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73) aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.
+1. Een financiële onderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:25a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25a), en [4:25b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25b) aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.
 
 2. De financiële onderneming verstrekt de informatie, bedoeld in het eerste lid, in de Nederlandse taal. De informatie kan in een andere taal worden verstrekt:
 
@@ -979,7 +1007,7 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 7. Indien een financiële onderneming voorafgaande aan de totstandkoming van een overeenkomst inzake een complex product informatie verstrekt over een gegarandeerd rendement, verstrekt zij daarbij of, indien de informatie wordt verstrekt in een reclame-uiting, op enig ander moment voorafgaande aan de totstandkoming van de overeenkomst inzake dat product, informatie over de belangrijkste voorwaarden van die garantie.
 
-8. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.
+8. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.
 
 9. Het eerste tot en met achtste lid zijn niet van toepassing indien het een complex product betreft, niet zijnde een recht van deelneming in een beleggingsinstelling, ten aanzien waarvan uitsluitend financiële diensten worden verleend aan personen die handelen in de uitoefening van hun bedrijf of beroep.
 
@@ -997,7 +1025,7 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 - d. de duur van de kredietovereenkomst;
 
-- e. in geval van goederenkrediet, de contante waarde en contante betalingen, genoemd in de definitie van kredietsom in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01);
+- e. in geval van goederenkrediet, de contante waarde en contante betalingen, genoemd in de definitie van kredietsom in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01);
 
 - f. het totale door de consument te betalen bedrag; en
 
@@ -1015,7 +1043,9 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 7. Een financiële onderneming neemt in een reclame-uiting over krediet een waarschuwing op met betrekking tot de gevolgen die aan het krediet zijn verbonden, tenzij het een reclame-uiting voor hypothecair krediet betreft waarbij geen relatie met een ander bestedingsdoel wordt gelegd dan de verwerving van de eigen woning.
 
-8. Een financiële onderneming:
+8. Een financiële onderneming neemt in een reclame-uiting over hypothecair krediet met een variabele debetrentevoet een waarschuwing op met betrekking tot de risico’s die aan een dergelijk krediet zijn verbonden.
+
+9. Een financiële onderneming:
 
 - a. neemt in een reclame-uiting over krediet geen mededelingen op die gericht zijn op het gemak of de snelheid waarmee het krediet wordt verstrekt;
 
@@ -1025,13 +1055,13 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 - d. geeft in een reclame-uiting over krediet geen kenmerken van het krediet weer waarin fiscale voordelen zijn verwerkt.
 
-9. Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.
+10. Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.
 
-10. Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.
+11. Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.
 
-11. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.
+12. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.
 
-12. Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens:
+13. Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens:
 
 - a. dat een doorlopend krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten, en de kredietlimiet afhankelijk is van de waarde daarvan;
 
@@ -1039,7 +1069,7 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 - c. indien een contract voor een nevendienst verplicht is om het effectenkrediet, in voorkomend geval op de geadverteerde voorwaarden te verkrijgen, en de kosten van die dienst niet vooraf bepaald kunnen worden, de verplichting tot het sluiten van die overeenkomst op een duidelijke, beknopte en opvallende wijze,
 
-13. Onverminderd het eerste tot en met twaalfde lid meldt een bemiddelaar in krediet in een reclame-uiting over krediet tevens dat hij:
+14. Onverminderd het eerste tot en met twaalfde lid meldt een bemiddelaar in krediet in een reclame-uiting over krediet tevens dat hij:
 
 - a. adviseert op grond van een objectieve analyse;
 
@@ -1049,7 +1079,7 @@ De beheerder verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aa
 
 ##### Artikel 54
 
-De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2012-01-01&g=2012-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=53&z=2012-01-01&g=2012-01-01), wordt gepresenteerd of geformuleerd, de wijze van berekening van historische of toekomstige rendementen, kosten en risico’s als bedoeld in [artikel 52, eerste, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2012-01-01&g=2012-01-01), en de wijze van berekening van de kosten van verzekeringen en zekerheidsrechten als bedoeld in [53, eerste lid, onderdeel e, en tweede lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=53&z=2012-01-01&g=2012-01-01).
+De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2013-01-01&g=2013-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=53&z=2013-01-01&g=2013-01-01), wordt gepresenteerd of geformuleerd, de wijze van berekening van historische of toekomstige rendementen, kosten en risico’s als bedoeld in [artikel 52, eerste, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2013-01-01&g=2013-01-01), en de wijze van berekening van de kosten van verzekeringen en zekerheidsrechten als bedoeld in [53, eerste lid, onderdeel e, en tweede lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=53&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 55
 
@@ -1065,7 +1095,7 @@ De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze
 
 2. Het eerste lid, onderdelen c en d, is niet van toepassing op reclame-uitingen op radio en televisie.
 
-3. Onverminderd [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2012-01-01&g=2012-01-01) wordt in een reclame-uiting anders dan via de televisie of radio over een instelling voor collectieve belegging in effecten, indien van toepassing, duidelijk de aandacht gevestigd op het feit dat:
+3. Onverminderd [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2013-01-01&g=2013-01-01) wordt in een reclame-uiting anders dan via de televisie of radio over een instelling voor collectieve belegging in effecten, indien van toepassing, duidelijk de aandacht gevestigd op het feit dat:
 
 - a. de instelling voor collectieve belegging in effecten voornamelijk belegt in financiële derivaten;
 
@@ -1073,7 +1103,7 @@ De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze
 
 - c. de waarde van de activa van de instelling voor collectieve belegging in effecten als gevolg van het beleggingsbeleid sterk kan fluctueren; of
 
-- d. aan de instelling voor collectieve belegging in effecten een ontheffing als bedoeld in [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), is verleend onder vermelding van de staat, het openbaar lichaam of de internationale organisatie die de financiële instrumenten, bedoeld in het [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), uitgeeft of garandeert waarin de instelling voor collectieve belegging in effecten beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt.
+- d. aan de instelling voor collectieve belegging in effecten een ontheffing als bedoeld in [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), is verleend onder vermelding van de staat, het openbaar lichaam of de internationale organisatie die de financiële instrumenten, bedoeld in het [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), uitgeeft of garandeert waarin de instelling voor collectieve belegging in effecten beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt.
 
 ##### Artikel 56
 
@@ -1093,21 +1123,11 @@ De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot d
 
 - d. zijn inschrijving in het door de toezichthouder gehouden register.
 
-2. In afwijking van [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), kan de informatie, bedoeld in het eerste lid, en in [artikel 4:73, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73), op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), aan de cliënt.
+2. In afwijking van [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), kan de informatie, bedoeld in het eerste lid, en in [artikel 4:25b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25b), op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), aan de cliënt.
 
 ##### Artikel 58
 
-1. Voorafgaand aan de totstandkoming van een overeenkomst inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering verstrekt een bemiddelaar een consument informatie over de hoogte van de provisie, de afsluitprovisie, het jaarlijkse bedrag aan doorlopende provisie en het aantal termijnen daarvan die de desbetreffende aanbieder rechtstreeks of middellijk zal betalen in verband met de betalingsbeschermer, het complexe product, het hypothecair krediet, onderscheidenlijk de uitvaartverzekering.
-
-2. Het eerste lid is van overeenkomstige toepassing op bemiddelaars die complexe producten als bedoeld in [artikel 1, onderdeel d, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), samenstellen of in de markt verkrijgbaar stellen, voor zover het betreft de financiële producten die onderdeel zijn van die complexe producten.
-
-3. Voorafgaand aan het zonder tussenkomst van een bemiddelaar doen van een voorstel tot het aangaan van een overeenkomst inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, verstrekt een aanbieder een consument informatie over het feit dat hij kosten maakt ten behoeve van de distributie met inbegrip van het adviseren en dat deze kosten onderdeel uitmaken van de prijs van het product of verwerkt kunnen zijn in het rentepercentage, alsmede informatie over de aard en reikwijdte van zijn dienstverlening.
-
-4. Het in het eerste tot en met derde lid bepaalde is van overeenkomstige toepassing op bemiddelaars die complexe producten als bedoeld in [artikel 1, onderdeel d, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), samenstellen of in de markt verkrijgbaar stellen en bemiddelen in de financiële producten die onderdeel zijn van die complexe producten. Indien een bemiddelaar als bedoeld in de vorige volzin niet kan voldoen aan het tweede lid, verstrekt hij aan de consument de in het derde lid bedoelde informatie.
-
-5. Het eerste tot en met het derde lid zijn niet van toepassing op beleggingsondernemingen voor zover zij beleggingsdiensten of nevendiensten verlenen met betrekking tot deelnemingsrechten in beleggingsinstellingen.
-
-5. De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de informatie, bedoeld in het eerste en derde lid, wordt geformuleerd of gepresenteerd.
+Vervallen
 
 ##### Artikel 59
 
@@ -1121,7 +1141,7 @@ Een beleggingsonderneming verstrekt een niet-professionele belegger voorafgaand 
 
 ##### Artikel 60
 
-1. Onverminderd de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58&z=2012-01-01&g=2012-01-01) verstrekt een levensverzekeraar een cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een levensverzekering, voorzover van toepassing, ten minste de volgende informatie:
+1. Onverminderd de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58&z=2013-01-01&g=2013-01-01) verstrekt een levensverzekeraar een cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een levensverzekering, voorzover van toepassing, ten minste de volgende informatie:
 
 - a. zijn rechtsvorm;
 
@@ -1189,7 +1209,7 @@ Een beleggingsonderneming verstrekt een niet-professionele belegger voorafgaand 
 
 ##### Artikel 61
 
-1. Onverminderd [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01) verstrekt een schadeverzekeraar een cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een schadeverzekering, voorzover van toepassing, ten minste de volgende informatie:
+1. Onverminderd [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01) verstrekt een schadeverzekeraar een cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een schadeverzekering, voorzover van toepassing, ten minste de volgende informatie:
 
 - a. zijn rechtsvorm;
 
@@ -1205,7 +1225,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 ##### Artikel 63
 
-1. Onverminderd [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01) verstrekt een natura-uitvaartverzekeraar voorafgaande aan de totstandkoming van een overeenkomst inzake een natura-uitvaartverzekering of een overeenkomst die strekt tot fondsvorming ter voldoening van de verzorging van de uitvaart van een natuurlijke persoon, voorzover van toepassing, ten minste de volgendeinformatie:
+1. Onverminderd [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01) verstrekt een natura-uitvaartverzekeraar voorafgaande aan de totstandkoming van een overeenkomst inzake een natura-uitvaartverzekering of een overeenkomst die strekt tot fondsvorming ter voldoening van de verzorging van de uitvaart van een natuurlijke persoon, voorzover van toepassing, ten minste de volgendeinformatie:
 
 - a. zijn rechtsvorm;
 
@@ -1257,7 +1277,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 3. Het eerste lid is niet van toepassing op complexe producten ten aanzien waarvan uitsluitend financiële diensten worden verleend aan anderen dan consumenten.
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
 
 ##### Artikel 66
 
@@ -1373,7 +1393,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 - g. informatie over corporate actions waardoor rechten worden verkregen die verband houden met financiële instrumenten in de portefeuille;
 
-- h. voor elke in de rapportageperiode uitgevoerde transactie, voor zover van toepassing, de informatie, bedoeld in [artikel 69, zesde lid, onderdelen c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2012-01-01&g=2012-01-01), tenzij de cliënt per transactie informatie wenst te ontvangen overeenkomstig het vijfde lid.
+- h. voor elke in de rapportageperiode uitgevoerde transactie, voor zover van toepassing, de informatie, bedoeld in [artikel 69, zesde lid, onderdelen c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2013-01-01&g=2013-01-01), tenzij de cliënt per transactie informatie wenst te ontvangen overeenkomstig het vijfde lid.
 
 3. De beleggingsonderneming verstrekt het periodieke overzicht, bedoeld in het eerste lid, voor zover het betrekking heeft op het vermogen van een niet-professionele belegger eenmaal per zes maanden.
 
@@ -1389,7 +1409,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 6. Indien de cliënt per uitgevoerde transactie informatie wenst te ontvangen, verstrekt de beleggingsonderneming onmiddellijk na uitvoering van de transactie de belangrijkste informatie over deze transactie.
 
-7. Indien de cliënt een niet-professionele belegger is en per uitgevoerde transactie informatie wenst te ontvangen, zendt de beleggingsonderneming de cliënt een bevestiging van de transactie waarin de informatie, bedoeld in [artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2012-01-01&g=2012-01-01), is opgenomen, uiterlijk op de eerste werkdag na de uitvoering van die transactie of, indien de beleggingsonderneming een bevestiging van de uitvoering ontvangt van een derde, uiterlijk op de eerste werkdag na ontvangst van de bevestiging van deze derde. De eerste volzin is niet van toepassing wanneer de derde onmiddellijk na het uitvoeren van de transactie een bevestiging die dezelfde informatie bevat aan de cliënt zendt.
+7. Indien de cliënt een niet-professionele belegger is en per uitgevoerde transactie informatie wenst te ontvangen, zendt de beleggingsonderneming de cliënt een bevestiging van de transactie waarin de informatie, bedoeld in [artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2013-01-01&g=2013-01-01), is opgenomen, uiterlijk op de eerste werkdag na de uitvoering van die transactie of, indien de beleggingsonderneming een bevestiging van de uitvoering ontvangt van een derde, uiterlijk op de eerste werkdag na ontvangst van de bevestiging van deze derde. De eerste volzin is niet van toepassing wanneer de derde onmiddellijk na het uitvoeren van de transactie een bevestiging die dezelfde informatie bevat aan de cliënt zendt.
 
 ##### Artikel 71
 
@@ -1417,7 +1437,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 - b. iedere wijziging van de polisvoorwaarden;
 
-- c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere wijziging van de overeenkomst met betrekking tot de in de [artikelen 57, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01), en [artikel 60, eerste lid, onderdelen b tot en met m, en o tot en met s](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01), bedoelde onderwerpen of van de op die onderdelen van toepassing zijnde regelgeving;
+- c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere wijziging van de overeenkomst met betrekking tot de in de [artikelen 57, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01), en [artikel 60, eerste lid, onderdelen b tot en met m, en o tot en met s](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01), bedoelde onderwerpen of van de op die onderdelen van toepassing zijnde regelgeving;
 
 - d. de jaarlijkse winstdeling;
 
@@ -1425,9 +1445,9 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 - 1°. de waarde-ontwikkeling van het opgebouwde kapitaal;
 
-- 2°. de door de cliënt betaalde premies, bedoeld in [artikel 60, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01);
+- 2°. de door de cliënt betaalde premies, bedoeld in [artikel 60, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01);
 
-- 3°. de met de cliënt verrekende kosten, bedoeld in [artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01);
+- 3°. de met de cliënt verrekende kosten, bedoeld in [artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01);
 
 - 4°. het op het opgebouwde kapitaal behaalde rendement;
 
@@ -1437,7 +1457,7 @@ Indien in geval van een overeenkomst inzake een schadeverzekering een risico is 
 
 - h. indien de cliënt daarom verzoekt: een opgave van de premievrije waarde op de einddatum van de verzekering, onder vermelding van het voor de berekening gehanteerde rendementspercentage, of een opgave van de wegens afkoop verschuldigde kosten en de actuele afkoopwaarde.
 
-2. Indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling verstrekt de levensverzekeraar, onverminderd het eerste lid, aanhef en onderdeel h, aan de cliënt die verzoekt zijn premie te verhogen of te verlagen of zijn polis premievrij te maken: een aan de nieuwe premie aangepaste opgave overeenkomstig [artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01).
+2. Indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling verstrekt de levensverzekeraar, onverminderd het eerste lid, aanhef en onderdeel h, aan de cliënt die verzoekt zijn premie te verhogen of te verlagen of zijn polis premievrij te maken: een aan de nieuwe premie aangepaste opgave overeenkomstig [artikel 60, eerste lid, onderdeel l, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01).
 
 3. Het eerste lid, aanhef en onderdelen e, f en h, en het tweede lid zijn niet van toepassing indien de cliënt een werkgever is die de overeenkomst heeft afgesloten ten behoeve van zijn werknemers in verband met een door hem toegezegd pensioen.
 
@@ -1449,7 +1469,7 @@ Gedurende de looptijd van een overeenkomst inzake een natura-uitvaartverzekering
 
 - b. iedere wijziging van de polisvoorwaarden; en
 
-- c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere wijziging van de overeenkomst ten aanzien van de in de [artikelen 57, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01), en [63, eerste lid, onderdelen b tot en met h, j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=63&z=2012-01-01&g=2012-01-01) bedoelde onderwerpen of van de op die onderdelen van toepassing zijnde regelgeving.
+- c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere wijziging van de overeenkomst ten aanzien van de in de [artikelen 57, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01), en [63, eerste lid, onderdelen b tot en met h, j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=63&z=2013-01-01&g=2013-01-01) bedoelde onderwerpen of van de op die onderdelen van toepassing zijnde regelgeving.
 
 ##### Artikel 75
 
@@ -1463,7 +1483,7 @@ Vervallen
 
 ##### Artikel 77
 
-1. In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2012-01-01&g=2012-01-01) en onverminderd de [artikelen 60 tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01) verstrekt een financiëledienstverlener een consument voorafgaand aan de totstandkoming van een overeenkomst op afstand, voorzover van toepassing, ten minste de volgende informatie:
+1. In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=57&z=2013-01-01&g=2013-01-01) en onverminderd de [artikelen 60 tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01) verstrekt een financiëledienstverlener een consument voorafgaand aan de totstandkoming van een overeenkomst op afstand, voorzover van toepassing, ten minste de volgende informatie:
 
 - a. zijn naam en adres, de hoedanigheid waarin hij optreedt tegenover de consument en, indien de financiëledienstverlener een rechtspersoon is, de statutaire naam en handelsnaam of handelsnamen;
 
@@ -1505,19 +1525,19 @@ Vervallen
 
 - t. indien hij gebruik maakt van een andere beroepsbeoefenaar, de naam en adres van deze beroepsbeoefenaar en, indien deze een rechtspersoon is, diens statutaire naam en handelsnaam of handelsnamen, en de hoedanigheid waarin deze tegenover de consument optreedt
 
-2. Een financiëledienstverlener die financiële diensten verleent met betrekking tot levensverzekeringen voldoet aan het eerste lid, aanhef en onderdelen f, g, h, m, n en s, door het verstrekken van de informatie, bedoeld in [artikel 60, eerste lid, onderdelen h, i, l, m, n, o, p, r, s en t](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2012-01-01&g=2012-01-01).
+2. Een financiëledienstverlener die financiële diensten verleent met betrekking tot levensverzekeringen voldoet aan het eerste lid, aanhef en onderdelen f, g, h, m, n en s, door het verstrekken van de informatie, bedoeld in [artikel 60, eerste lid, onderdelen h, i, l, m, n, o, p, r, s en t](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=60&z=2013-01-01&g=2013-01-01).
 
-3. Een financiëledienstverlener die financiële diensten verleent met betrekking tot natura-uitvaartverzekeringen voldoet aan het eerste lid, aanhef en onderdeel n, door het verstrekken van de informatie, bedoeld in [artikel 63, eerste lid, onderdelen h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=63&z=2012-01-01&g=2012-01-01).
+3. Een financiëledienstverlener die financiële diensten verleent met betrekking tot natura-uitvaartverzekeringen voldoet aan het eerste lid, aanhef en onderdeel n, door het verstrekken van de informatie, bedoeld in [artikel 63, eerste lid, onderdelen h, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=63&z=2013-01-01&g=2013-01-01).
 
-4. Een financiëledienstverlener die financiële diensten verleent met betrekking tot consumptief krediet voldoet aan het eerste lid door het verstrekken van de informatie, bedoeld in [artikel 112, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112&z=2012-01-01&g=2012-01-01), of, indien het krediet in de vorm van een geoorloofde debetstand wordt verleend waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, door het verstrekken van de informatie, bedoeld in [artikel 112a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2012-01-01&g=2012-01-01).
+4. Een financiëledienstverlener die financiële diensten verleent met betrekking tot consumptief krediet voldoet aan het eerste lid door het verstrekken van de informatie, bedoeld in [artikel 112, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112&z=2013-01-01&g=2013-01-01), of, indien het krediet in de vorm van een geoorloofde debetstand wordt verleend waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, door het verstrekken van de informatie, bedoeld in [artikel 112a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2013-01-01&g=2013-01-01).
 
-5. Een financiëledienstverlener die financiële diensten verleent met betrekking tot effectenkrediet voldoet aan het eerste lid door het verstrekken van de informatie zoals opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=F&z=2012-01-01&g=2012-01-01) van dit besluit.
+5. Een financiëledienstverlener die financiële diensten verleent met betrekking tot effectenkrediet voldoet aan het eerste lid door het verstrekken van de informatie zoals opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=F&z=2013-01-01&g=2013-01-01) van dit besluit.
 
 ##### Artikel 78
 
-1. Indien een overeenkomst op afstand op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waarmee de in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2012-01-01&g=2012-01-01) bedoelde informatie niet schriftelijk of via een andere duurzame drager als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, kan de financiëledienstverlener de informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument verstrekken.
+1. Indien een overeenkomst op afstand op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waarmee de in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2013-01-01&g=2013-01-01) bedoelde informatie niet schriftelijk of via een andere duurzame drager als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, kan de financiëledienstverlener de informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument verstrekken.
 
-2. In afwijking van [artikel 77, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2012-01-01&g=2012-01-01), verstrekt de financiëledienstverlener een consument de in dat artikel bedoelde informatie:
+2. In afwijking van [artikel 77, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2013-01-01&g=2013-01-01), verstrekt de financiëledienstverlener een consument de in dat artikel bedoelde informatie:
 
 - a. indien het een overeenkomst op afstand inzake een schadeverzekering betreft, uiterlijk tegelijk met het afgeven van de polis;
 
@@ -1529,7 +1549,7 @@ Vervallen
 
 ##### Artikel 79
 
-1. Een financiëledienstverlener deelt aan een consument bij het gebruik van de telefoon voor het doen van ongevraagde oproepen ter bevordering van de totstandkoming van een overeenkomst op afstand, aan het begin van elk gesprek duidelijk de identiteit van de financiëledienstverlener, alsmede het commerciële oogmerk van de oproep mee. In afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2012-01-01&g=2012-01-01), kan de financiëledienstverlener in dergelijke oproepen, indien de consument daarmee uitdrukkelijk instemt, volstaan met het informeren van de consument over:
+1. Een financiëledienstverlener deelt aan een consument bij het gebruik van de telefoon voor het doen van ongevraagde oproepen ter bevordering van de totstandkoming van een overeenkomst op afstand, aan het begin van elk gesprek duidelijk de identiteit van de financiëledienstverlener, alsmede het commerciële oogmerk van de oproep mee. In afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2013-01-01&g=2013-01-01), kan de financiëledienstverlener in dergelijke oproepen, indien de consument daarmee uitdrukkelijk instemt, volstaan met het informeren van de consument over:
 
 - a. de identiteit van de persoon die in contact staat met de consument en de relatie van deze persoon met de financiëledienstverlener;
 
@@ -1559,7 +1579,7 @@ Vervallen
 
 - g. het bedrag, het aantal en de frequentie van de door de consument te verrichten betalingen, en, indien van toepassing, de volgorde waarin de betalingen aan de verschillende openstaande saldi tegen verschillende debetrentevoeten worden toegerekend met het oog op de aflossing.
 
-3. Ten aanzien van consumptief krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de in [artikel 112a, tweede lid, onderdelen c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2012-01-01&g=2012-01-01), bedoelde gegevens.
+3. Ten aanzien van consumptief krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de in [artikel 112a, tweede lid, onderdelen c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2013-01-01&g=2013-01-01), bedoelde gegevens.
 
 4. Ten aanzien van effectenkrediet zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de volgende gegevens:
 
@@ -1569,9 +1589,9 @@ Vervallen
 
 - c. welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten.
 
-5. Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2012-01-01&g=2012-01-01), bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is [artikel 78, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=78&z=2012-01-01&g=2012-01-01), onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.
+5. Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=77&z=2013-01-01&g=2013-01-01), bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is [artikel 78, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=78&z=2013-01-01&g=2013-01-01), onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.
 
-6. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01), is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.
+6. [Artikel 49, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01), is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.
 
 ##### Artikel 80
 
@@ -1595,7 +1615,7 @@ Gedurende de looptijd van een overeenkomst op afstand verstrekt een financiëled
 
 ##### Artikel 82
 
-1. Een beheerder, beleggingsmaatschappij of beleggingsonderneming benadert personen die geen professionele belegger zijn, die geen deelnemer zijn in de beleggingsinstelling of aan wie de beleggingsonderneming nog geen beleggingsdienst heeft verleend, direct noch indirect in persoon, anders dan door middel van een techniek voor communicatie op afstand als bedoeld in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=81&z=2012-01-01&g=2012-01-01), tenzij:
+1. Een beheerder, beleggingsmaatschappij of beleggingsonderneming benadert personen die geen professionele belegger zijn, die geen deelnemer zijn in de beleggingsinstelling of aan wie de beleggingsonderneming nog geen beleggingsdienst heeft verleend, direct noch indirect in persoon, anders dan door middel van een techniek voor communicatie op afstand als bedoeld in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=81&z=2013-01-01&g=2013-01-01), tenzij:
 
 - a. de betrokkene daarmee vooraf uitdrukkelijk schriftelijk dan wel elektronisch mee heeft ingestemd; of
 
@@ -1639,7 +1659,7 @@ Een beleggingsonderneming verricht geen transactie voor rekening van een cliënt
 
 ### Afdeling 9.1. Melding wijzigingen door financiële ondernemingen
 
-#### § 9.1.1. Beheerders
+#### § 8.1.1a. Cliëntenclassificatie
 
 ##### Artikel 87
 
@@ -1659,15 +1679,15 @@ Deze paragraaf is niet van toepassing op beheerders van instellingen voor collec
 
 1. Een beheerder meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48), voorzover het betreft gegevens over:
 
-- a. de activiteiten van de beheerder en de soorten beleggingsinstellingen die hij beheert of voornemens is te beheren, bedoeld in [onderdeel 1.b. van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01);
+- a. de activiteiten van de beheerder en de soorten beleggingsinstellingen die hij beheert of voornemens is te beheren, bedoeld in [onderdeel 1.b. van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01);
 
-- b. de personen die het dagelijks beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen, bedoeld in [onderdeel 2.1.a van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01);
+- b. de personen die het dagelijks beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen, bedoeld in [onderdeel 2.1.a van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01);
 
-- c. de personen die het beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen of mede bepalen, bedoeld in [onderdeel 2.1.b. van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01);
+- c. de personen die het beleid van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling bepalen of mede bepalen, bedoeld in [onderdeel 2.1.b. van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01);
 
-- d. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling, bedoeld in [onderdeel 2.1.c van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01); of
+- d. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beheerder of van een bewaarder die is verbonden aan een door hem beheerde beleggingsinstelling, bedoeld in [onderdeel 2.1.c van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01); of
 
-- e. de algemene gegevens betreffende de beheerder en de bewaarders, bedoeld in [onderdeel 3 van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01).
+- e. de algemene gegevens betreffende de beheerder en de bewaarders, bedoeld in [onderdeel 3 van bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01).
 
 2. De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, aanhef en onderdeel a, voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent de instemming binnen vier weken na ontvangst van de melding.
 
@@ -1697,7 +1717,7 @@ Deze paragraaf is niet van toepassing op beheerders van instellingen voor collec
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
@@ -1791,7 +1811,7 @@ Deze paragraaf is niet van toepassing op beleggingsondernemingen met zetel in ee
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
@@ -1839,7 +1859,7 @@ Deze paragraaf is niet van toepassing op beleggingsondernemingen met zetel in ee
 
 - d. het voornemen om het verlenen van beleggingsdiensten vanuit het bijkantoor te staken.
 
-2. Het eerste lid, aanhef en onderdelen b en c, is niet van toepassing op beleggingsondernemingen die hebben voldaan aan [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=92&z=2012-01-01&g=2012-01-01).
+2. Het eerste lid, aanhef en onderdelen b en c, is niet van toepassing op beleggingsondernemingen die hebben voldaan aan [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=92&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 98
 
@@ -1871,7 +1891,7 @@ Een beleggingsonderneming met zetel in Nederland die door middel van het verrich
 
 5. De melding, bedoeld in het eerste en tweede lid, gaat vergezeld van een vertaling van de desbetreffende gegevens, voorzover de Autoriteit Financiële Markten dat verlangt.
 
-#### § 9.1.3. Collectieve vergunninghouders
+#### § 8.1.4. Verplichte precontractuele informatie
 
 ##### Artikel 100
 
@@ -1919,7 +1939,7 @@ Deze paragraaf is niet van toepassing op:
 
 - b. een persoon die onderdeel is van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiëledienstverlener.
 
-2. Een financiëledienstverlener geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid:
+2. Een financiëledienstverlener geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat en deze persoon geschikt is. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid en geschiktheid:
 
 - a. binnen zes weken na ontvangst van de melding; of
 
@@ -1929,15 +1949,15 @@ Deze paragraaf is niet van toepassing op:
 
 4. Bij de melding legt de financiëledienstverlener ten aanzien van de betrokken persoon de volgende gegevens over:
 
-- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer, curriculum vitae, een opgave van de relevante geldige diploma's en de functie;
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
-5. Het tweede en vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de voorgenomen benoeming een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet reeds is vastgesteld.
+5. Het vierde lid, onderdelen b, c en d, is niet van toepassing indien de voorgenomen benoeming een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet reeds is vastgesteld.
 
 ##### Artikel 104
 
@@ -1983,7 +2003,7 @@ Een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkhei
 
 ##### Artikel 108
 
-1. Een accountant die voornemens is gegevens als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=9&afdeling=9.2&artikel=107&z=2012-01-01&g=2012-01-01) te verstrekken, stelt de financiële onderneming daarvan in kennis.
+1. Een accountant die voornemens is gegevens als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=9&afdeling=9.2&artikel=107&z=2013-01-01&g=2013-01-01) te verstrekken, stelt de financiële onderneming daarvan in kennis.
 
 2. Indien de financiële onderneming dat wenst, kan zij zelf de gegevens aan de Autoriteit Financiële Markten verstrekken. In dat geval stelt zij de accountant daarvan in kennis. De accountant vergewist zich ervan dat de Autoriteit Financiële Markten de gegevens heeft ontvangen en dat de inhoud van de gegevens hem geen aanleiding geeft alsnog gegevens aan de Autoriteit Financiële Markten te verstrekken.
 
@@ -1995,7 +2015,7 @@ Een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkhei
 
 ##### Artikel 109
 
-In deze afdeling en de daarop berustende bepalingen wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), verstaan onder gelieerde partij:
+In deze afdeling en de daarop berustende bepalingen wordt in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), verstaan onder gelieerde partij:
 
 - a. persoon die met een aanbieder van beleggingsobjecten in een formele of feitelijke zeggenschapsstructuur is verbonden;
 
@@ -2039,7 +2059,7 @@ In deze afdeling en de daarop berustende bepalingen wordt in afwijking van [arti
 
 - j. de gegevens op jaarbasis per serie van beleggingsobjecten waarvan het beleggingsobject deel uitmaakt, betreffende de brutowaarde, de financieringen, de prestatievergoedingen, en de rentebaten, met inbegrip van de daarbij gehanteerde waarderingsgrondslagen, waarbij als uitgangspunt geldt dat de brutowaarde wordt gebaseerd op de vrije verkoopwaarde per serie van beleggingsobjecten.
 
-2. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing op het verstrekken van het beleggingsobjectprospectus door de aanbieder van het beleggingsobject onderscheidenlijk de bemiddelaar.
+2. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.1&artikel=49&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing op het verstrekken van het beleggingsobjectprospectus door de aanbieder van het beleggingsobject onderscheidenlijk de bemiddelaar.
 
 3. De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in het eerste lid, in het beleggingsobjectprospectus worden opgenomen alsmede met betrekking tot de wijze van berekening van de kosten, risico’s en opbrengsten, bedoeld in het eerste lid.
 
@@ -2059,7 +2079,7 @@ In deze afdeling en de daarop berustende bepalingen wordt in afwijking van [arti
 
 ##### Artikel 112
 
-1. De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot andere vormen van krediet dan bedoeld in de [artikelen 112a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2012-01-01&g=2012-01-01) en [112b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112b&z=2012-01-01&g=2012-01-01), wordt schriftelijk of op een andere duurzame drager verstrekt in de vorm van het in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01) bij dit besluit opgenomen formulier en bevat de in die bijlage bedoelde gegevens.
+1. De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot andere vormen van krediet dan bedoeld in de [artikelen 112a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2013-01-01&g=2013-01-01) en [112b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112b&z=2013-01-01&g=2013-01-01), wordt schriftelijk of op een andere duurzame drager verstrekt in de vorm van het in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01) bij dit besluit opgenomen formulier en bevat de in die bijlage bedoelde gegevens.
 
 2. De informatie, bedoeld in het eerste lid, wordt gebaseerd op de door de consument kenbaar gemaakte voorkeur en verstrekte informatie.
 
@@ -2077,11 +2097,11 @@ In deze afdeling en de daarop berustende bepalingen wordt in afwijking van [arti
 
 - b. de voornaamste kenmerken van het voorgestelde krediet,
 
-- c. indien van toepassing, informatie inzake het goed of de dienst, bedoeld in [bijlage D, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2012-01-01&g=2012-01-01), van dit besluit en van de verzekering of de rekening, bedoeld in onderdeel 3 van die bijlage;
+- c. indien van toepassing, informatie inzake het goed of de dienst, bedoeld in [bijlage D, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=D&z=2013-01-01&g=2013-01-01), van dit besluit en van de verzekering of de rekening, bedoeld in onderdeel 3 van die bijlage;
 
 - d. de specifieke gevolgen van het krediet voor de consument, met inbegrip van de gevolgen indien de consument niet betaalt.
 
-8. Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in [bijlage A, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2012-01-01&g=2012-01-01).
+8. Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in [bijlage A, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2013-01-01&g=2013-01-01).
 
 #### § 10.2.2. Verplichting tot inwinnen van informatie
 
@@ -2106,6 +2126,20 @@ Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan h
 1. Ter voorkoming van overkreditering legt een aanbieder van krediet de criteria vast die hij ten grondslag legt aan de beoordeling van een kredietaanvraag van een consument en past hij deze criteria toe bij de beoordeling van een kredietaanvraag.
 
 2. Het eerste lid is niet van toepassing op aanbieders van krediet voor zover zij krediet aanbieden in de vorm van een geoorloofde debetstand die binnen drie maanden dient te worden afgelost en die niet hoger is dan het bedrag dat maandelijks op de rekening wordt gestort.
+
+3. Bij ministeriële regeling worden de inkomenscriteria vastgesteld en de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning.
+
+4. In aanvulling op het eerste lid past een aanbieder van hypothecair krediet de bij ministeriële regeling vastgestelde inkomenscriteria toe bij de beoordeling van een aanvraag voor een hypothecair krediet.
+
+5. Een aanbieder van hypothecair krediet houdt bij de beoordeling van de kredietaanvraag rekening met het bij ministeriële regeling bepaalde maximale hypothecair krediet in verhouding tot de waarde van de woning.
+
+6. De waarde van de woning is:
+
+- 1°. het aankoopbedrag van de woning zoals blijkt uit een koopovereenkomst, die is ondertekend door de consument en de verkoper, een akte van levering of een veilingakte indien de woning is gekocht op een veiling;
+
+- 2°. de koopsom of aannemingsom dan wel de kosten volgens de begroting van een bouwkundig bedrijf, eventueel vermeerderd met de kosten van de grond, kosten van de bouw, inclusief de kosten voor meerwerk, bouwrente en renteverlies tijdens de bouwperiode, en de aansluiting op nutsvoorzieningen; of
+
+- 3°. de marktwaarde van de woning blijkens een door een deskundig taxateur opgemaakt taxatierapport dat op het moment van aangaan van het hypothecair krediet niet ouder is dan een jaar, eventueel na verbouwing.
 
 ### Afdeling 10.3. Rechten van deelneming in een beleggingsinstelling
 
@@ -2141,11 +2175,11 @@ De tussen een beheerder en een bewaarder te sluiten overeenkomst, bedoeld in [ar
 
 ##### Artikel 117
 
-Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48), bevat ten minste de gegevens, genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=H&z=2012-01-01&g=2012-01-01).
+Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48), bevat ten minste de gegevens, genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=H&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 118
 
-1. Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49), de gegevens, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=I&z=2012-01-01&g=2012-01-01).
+1. Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49), de gegevens, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=I&z=2013-01-01&g=2013-01-01).
 
 2. In het prospectus worden in afzonderlijke paragrafen de gegevens opgenomen over:
 
@@ -2153,11 +2187,11 @@ Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](https
 
 - b. de aan de beleggingsinstelling verbonden risico’s.
 
-3. De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop in het prospectus inzicht wordt verschaft in het niveau van de kosten van de beleggingsinstelling en de daaraan ten grondslag liggende berekening. Voorts kan de Autoriteit Financiële Markten nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=I&z=2012-01-01&g=2012-01-01), worden opgenomen in het prospectus.
+3. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=I&z=2013-01-01&g=2013-01-01), worden opgenomen in het prospectus.
 
 ##### Artikel 119
 
-Een beheerder, beleggingsinstelling of bewaarder verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:51), wat de indeling en inhoud betreft, onverminderd de [artikelen 121 tot en met 124](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=121&z=2012-01-01&g=2012-01-01) en [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=146&z=2012-01-01&g=2012-01-01), in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
+Een beheerder, beleggingsinstelling of bewaarder verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:51), wat de indeling en inhoud betreft, onverminderd de [artikelen 121 tot en met 124](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=121&z=2013-01-01&g=2013-01-01) en [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=146&z=2013-01-01&g=2013-01-01), in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
 
 ##### Artikel 120
 
@@ -2301,7 +2335,7 @@ Een beheerder, beleggingsinstelling of bewaarder verstrekt de jaarrekening, het 
 
 - c. een opgave van de intrinsieke waarde van de beleggingsinstelling en het aantal uitstaande rechten van deelneming en de intrinsieke waarde per recht van deelneming;
 
-- d. indien van toepassing: de vermelding, bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2012-01-01&g=2012-01-01); en
+- d. indien van toepassing: de vermelding, bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2013-01-01&g=2013-01-01); en
 
 - e. indien van toepassing: een mededeling dat de beleggingsinstelling interimdividend heeft uitgekeerd of voornemens is dat te doen.
 
@@ -2329,9 +2363,9 @@ Een beheerder, beleggingsinstelling of bewaarder verstrekt de jaarrekening, het 
 
 ##### Artikel 127
 
-1. Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01) draagt een accountant op om zich ten minste eenmaal per kwartaal ervan te vergewissen dat de berekening van de waarde van rechten van deelneming plaatsvindt overeenkomstig haar statuten en dit besluit en dat de activa van de beleggingsmaatschappij zijn belegd in overeenstemming met haar statuten en met de [artikelen 130 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01), waarbij tussen elk van de tijdstippen van vergewissing een periode van ten minste een week ligt.
+1. Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01) draagt een accountant op om zich ten minste eenmaal per kwartaal ervan te vergewissen dat de berekening van de waarde van rechten van deelneming plaatsvindt overeenkomstig haar statuten en dit besluit en dat de activa van de beleggingsmaatschappij zijn belegd in overeenstemming met haar statuten en met de [artikelen 130 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01), waarbij tussen elk van de tijdstippen van vergewissing een periode van ten minste een week ligt.
 
-2. Een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01) koopt of verkoopt al dan niet door tussenkomst van een derde haar rechten van deelneming dan wel geeft deze uit, om te voorkomen dat de waarde van haar rechten van deelneming op het handelsplatform meer dan vijf procent afwijkt van de intrinsieke waarde.
+2. Een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01) koopt of verkoopt al dan niet door tussenkomst van een derde haar rechten van deelneming dan wel geeft deze uit, om te voorkomen dat de waarde van haar rechten van deelneming op het handelsplatform meer dan vijf procent afwijkt van de intrinsieke waarde.
 
 ##### Artikel 128
 
@@ -2391,7 +2425,7 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 ##### Artikel 131
 
-1. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01) kan het beheerde vermogen van een instelling voor collectieve belegging in effecten:
+1. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01) kan het beheerde vermogen van een instelling voor collectieve belegging in effecten:
 
 - a. voor ten hoogste tien procent worden belegd in effecten en geldmarktinstrumenten die niet zijn toegelaten tot of worden verhandeld op een gereglementeerde markt of een andere markt in financiële instrumenten;
 
@@ -2399,9 +2433,9 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 - c. worden aangehouden in accessoir liquide middelen.
 
-2. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01) kan het beheerd vermogen van een feeder-instelling voor collectieve belegging in effecten voor maximaal vijftien procent:
+2. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01) kan het beheerd vermogen van een feeder-instelling voor collectieve belegging in effecten voor maximaal vijftien procent:
 
-- a. worden belegd in financiële derivaten, bedoeld in [artikel 130, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01), die alleen met het doel om risico af te dekken mogen worden gebruikt;
+- a. worden belegd in financiële derivaten, bedoeld in [artikel 130, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01), die alleen met het doel om risico af te dekken mogen worden gebruikt;
 
 - b. indien het een beleggingsmaatschappij betreft: worden belegd in zaken die rechtstreeks noodzakelijk zijn voor de uitoefening van haar werkzaamheid; of
 
@@ -2419,7 +2453,7 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 3. Het totale risico van een instelling voor collectieve belegging in effecten wordt dagelijks berekend.
 
-4. Voor de berekening van het totale risico in financiële derivaten van een feeder-instelling voor collectieve belegging in effecten wordt het eigen directe risico in financiële derivaten, bedoeld in [artikel 131, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=131&z=2012-01-01&g=2012-01-01), van de feeder-instelling voor collectieve belegging gecombineerd met:
+4. Voor de berekening van het totale risico in financiële derivaten van een feeder-instelling voor collectieve belegging in effecten wordt het eigen directe risico in financiële derivaten, bedoeld in [artikel 131, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=131&z=2013-01-01&g=2013-01-01), van de feeder-instelling voor collectieve belegging gecombineerd met:
 
 - a. het reële risico in financiële derivaten van de master-instelling voor collectieve belegging in effecten naar evenredigheid van de belegging van de feeder-instelling voor collectieve belegging in effecten in rechten van deelneming in de master-instelling voor collectieve belegging in effecten; of
 
@@ -2429,7 +2463,7 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 6. Het totale risico van de instelling voor collectieve belegging in effecten in financiële derivaten overschrijdt niet de totale nettowaarde van de activa. Voor de berekening van het risico worden de dagwaarde van de onderliggende activa, het tegenpartijrisico, toekomstige marktbewegingen en de voor de liquidatie van de posities beschikbare tijd in aanmerking genomen.
 
-7. Het beheerde vermogen van de instelling voor collectieve belegging in effecten kan in het kader van het beleggingsbeleid en binnen de in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01) gestelde begrenzingen worden belegd in financiële derivaten voorzover het risico met betrekking tot de onderliggende activa in totaal niet de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01) gestelde begrenzingen overschrijdt. Indien het beheerde vermogen van de instelling voor collectieve belegging in effecten in op een index gebaseerde financiële derivaten wordt belegd, worden die beleggingen voor de toepassing van de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01) gestelde begrenzingen bepaalde bovengrens niet samengeteld.
+7. Het beheerde vermogen van de instelling voor collectieve belegging in effecten kan in het kader van het beleggingsbeleid en binnen de in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01) gestelde begrenzingen worden belegd in financiële derivaten voorzover het risico met betrekking tot de onderliggende activa in totaal niet de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01) gestelde begrenzingen overschrijdt. Indien het beheerde vermogen van de instelling voor collectieve belegging in effecten in op een index gebaseerde financiële derivaten wordt belegd, worden die beleggingen voor de toepassing van de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01) gestelde begrenzingen bepaalde bovengrens niet samengeteld.
 
 8. De Autoriteit Financiële Markten kan regels stellen met betrekking tot de berekening van het risico, de wijze van vaststelling van de dagwaarde van de onderliggende activa, de soorten verplichtingen die leiden tot een tegenpartijrisico, het meewegen van toekomstige marktbewegingen bij de vaststelling en de methodes die mede afhankelijk van de aard van het financiële instrument waarin wordt belegd, voor berekening van de risico’s kunnen worden gehanteerd.
 
@@ -2457,13 +2491,13 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 ##### Artikel 135
 
-1. In afwijking van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01) kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) van een bepaalde uitgevende bank.
+1. In afwijking van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01) kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) van een bepaalde uitgevende bank.
 
 2. Indien het beheerde vermogen van een instelling voor collectieve belegging in effecten voor meer dan vijf procent wordt belegd in obligaties als bedoeld in het eerste lid die door één instelling zijn uitgegeven, bedraagt de totale waarde van deze beleggingen niet meer dan tachtig procent van de activa van die uitgevende instelling.
 
 ##### Artikel 136
 
-1. In afwijking van [artikel 134, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfendertig procent worden belegd in effecten en geldmarktinstrumenten die zijn uitgegeven of gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is, of een internationale organisatie waarin een of meer lidstaten deelnemen.
+1. In afwijking van [artikel 134, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste vijfendertig procent worden belegd in effecten en geldmarktinstrumenten die zijn uitgegeven of gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is, of een internationale organisatie waarin een of meer lidstaten deelnemen.
 
 2. De Autoriteit Financiële Markten kan een instelling voor collectieve belegging in effecten op aanvraag ontheffing verlenen van het eerste lid indien:
 
@@ -2473,21 +2507,21 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 - c. de uitgevende staat, het openbaar lichaam of de internationale organisatie in de statuten of het fondsreglement van de instelling voor collectieve belegging in effecten wordt genoemd; en
 
-- d. de deelnemers in de instelling voor collectieve belegging in effecten bescherming genieten die gelijkwaardig is aan de bescherming die voortvloeit uit het eerste lid en de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01).
+- d. de deelnemers in de instelling voor collectieve belegging in effecten bescherming genieten die gelijkwaardig is aan de bescherming die voortvloeit uit het eerste lid en de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 137
 
-1. De in de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01) en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), bedoelde financiële instrumenten worden niet in aanmerking genomen voor de toepassing van de in [artikel 134, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), bedoelde begrenzing van veertig procent.
+1. De in de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01) en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), bedoelde financiële instrumenten worden niet in aanmerking genomen voor de toepassing van de in [artikel 134, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), bedoelde begrenzing van veertig procent.
 
-2. De overeenkomstig de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), verrichte beleggingen in door één instelling uitgegeven effecten en geldmarktinstrumenten dan wel in deposito’s bij of financiële derivaten van die instelling, bedragen samen in geen geval meer dan vijfendertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.
+2. De overeenkomstig de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), verrichte beleggingen in door één instelling uitgegeven effecten en geldmarktinstrumenten dan wel in deposito’s bij of financiële derivaten van die instelling, bedragen samen in geen geval meer dan vijfendertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.
 
-3. Voor de berekening van de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), gestelde begrenzingen worden ondernemingen die tot een groep worden gerekend voor de opstelling van geconsolideerde jaarrekeningen, overeenkomstig de richtlijn geconsolideerde jaarrekening of andere erkende internationale financiële verslagleggingsregels, tezamen als een instelling beschouwd, met dien verstande dat de beleggingen, bedoeld in [artikel 134, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), in de afzonderlijke ondernemingen die tot die groep behoren ten hoogste twintig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten kunnen bedragen.
+3. Voor de berekening van de in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), en [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), gestelde begrenzingen worden ondernemingen die tot een groep worden gerekend voor de opstelling van geconsolideerde jaarrekeningen, overeenkomstig de richtlijn geconsolideerde jaarrekening of andere erkende internationale financiële verslagleggingsregels, tezamen als een instelling beschouwd, met dien verstande dat de beleggingen, bedoeld in [artikel 134, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), in de afzonderlijke ondernemingen die tot die groep behoren ten hoogste twintig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten kunnen bedragen.
 
-4. De activa van beleggingsinstellingen in wier rechten van deelneming de instelling voor collectieve belegging in effecten belegt worden voor het vaststellen van de in [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01) bedoelde begrenzingen niet opgeteld bij de beleggingen van de instelling voor collectieve belegging in effecten.
+4. De activa van beleggingsinstellingen in wier rechten van deelneming de instelling voor collectieve belegging in effecten belegt worden voor het vaststellen van de in [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01) bedoelde begrenzingen niet opgeteld bij de beleggingen van de instelling voor collectieve belegging in effecten.
 
 ##### Artikel 138
 
-1. In afwijking van [artikel 134, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste twintig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling indien in het fondsreglement of de statuten van de instelling voor collectieve belegging in effecten is bepaald dat het beleggingsbeleid van de instelling voor collectieve belegging in effecten erop is gericht de samenstelling van een bepaalde aandelen- of obligatie-index te volgen, en deze index voldoet aan de volgende voorwaarden:
+1. In afwijking van [artikel 134, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten tot ten hoogste twintig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling indien in het fondsreglement of de statuten van de instelling voor collectieve belegging in effecten is bepaald dat het beleggingsbeleid van de instelling voor collectieve belegging in effecten erop is gericht de samenstelling van een bepaalde aandelen- of obligatie-index te volgen, en deze index voldoet aan de volgende voorwaarden:
 
 - a. de samenstelling van de index is gediversifieerd;
 
@@ -2499,9 +2533,9 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 ##### Artikel 139
 
-1. Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen als bedoeld in [artikel 130, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01), die zijn uitgegeven door dezelfde beleggingsinstelling.
+1. Het beheerde vermogen van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen als bedoeld in [artikel 130, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01), die zijn uitgegeven door dezelfde beleggingsinstelling.
 
-2. De beleggingen in rechten van deelneming in beleggingsinstellingen als bedoeld in [artikel 130, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01), bedragen in totaal niet meer dan dertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.
+2. De beleggingen in rechten van deelneming in beleggingsinstellingen als bedoeld in [artikel 130, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01), bedragen in totaal niet meer dan dertig procent van het beheerde vermogen van de instelling voor collectieve belegging in effecten.
 
 ##### Artikel 140
 
@@ -2521,19 +2555,19 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 ##### Artikel 141
 
-[Artikel 140, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=140&z=2012-01-01&g=2012-01-01), is niet van toepassing op het verwerven van onderscheidenlijk het beleggen in:
+[Artikel 140, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=140&z=2013-01-01&g=2013-01-01), is niet van toepassing op het verwerven van onderscheidenlijk het beleggen in:
 
 - a. effecten en geldmarktinstrumenten die zijn uitgegeven of worden gegarandeerd door een lidstaat, een openbaar lichaam met verordenende bevoegdheid in een lidstaat, een staat die geen lidstaat is of een internationale organisatie waarin een of meer lidstaten deelnemen;
 
-- b. aandelen in het kapitaal van een rechtspersoon, gevestigd in een staat die geen lidstaat is, die met inachtneming van de begrenzingen, bedoeld in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2012-01-01&g=2012-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2012-01-01&g=2012-01-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=139&z=2012-01-01&g=2012-01-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=140&z=2012-01-01&g=2012-01-01) zijn vermogen in hoofdzaak belegt in effecten van uitgevende instellingen, gevestigd in die staat, wanneer krachtens de wet van die staat een dergelijke deelneming voor de instelling voor collectieve belegging in effecten de enige mogelijkheid is om in effecten van uitgevende instellingen in die staat te beleggen; of
+- b. aandelen in het kapitaal van een rechtspersoon, gevestigd in een staat die geen lidstaat is, die met inachtneming van de begrenzingen, bedoeld in de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=135&z=2013-01-01&g=2013-01-01), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=137&z=2013-01-01&g=2013-01-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=139&z=2013-01-01&g=2013-01-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=140&z=2013-01-01&g=2013-01-01) zijn vermogen in hoofdzaak belegt in effecten van uitgevende instellingen, gevestigd in die staat, wanneer krachtens de wet van die staat een dergelijke deelneming voor de instelling voor collectieve belegging in effecten de enige mogelijkheid is om in effecten van uitgevende instellingen in die staat te beleggen; of
 
 - c. aandelen in het kapitaal van een dochteronderneming van de beleggingsmaatschappij die uitsluitend ten behoeve van de beleggingsmaatschappij bepaalde beheers-, advies- of verhandelingswerkzaamheden verricht in de staat waar de dochteronderneming is gevestigd, met het oog op de inkoop van rechten van deelneming op verzoek van deelnemers.
 
 ##### Artikel 142
 
-1. De [artikelen 134 tot en met 139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01) zijn gedurende zes maanden na het eerste aanbod van de rechten van deelneming in een instelling voor collectieve belegging in effecten niet van toepassing. De instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.
+1. De [artikelen 134 tot en met 139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01) zijn gedurende zes maanden na het eerste aanbod van de rechten van deelneming in een instelling voor collectieve belegging in effecten niet van toepassing. De instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.
 
-2. De [artikelen 134 tot en met 139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2012-01-01&g=2012-01-01) zijn gedurende zes maanden na een fusie niet van toepassing op een verkrijgende instelling voor collectieve belegging in effecten. De verkrijgende instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.
+2. De [artikelen 134 tot en met 139](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=134&z=2013-01-01&g=2013-01-01) zijn gedurende zes maanden na een fusie niet van toepassing op een verkrijgende instelling voor collectieve belegging in effecten. De verkrijgende instelling voor collectieve belegging in effecten neemt gedurende die periode de beginselen van risicospreiding in haar beleggingen in acht.
 
 ##### Artikel 143
 
@@ -2543,7 +2577,7 @@ Het beheerde vermogen van een instelling voor collectieve belegging in effecten 
 
 ##### Artikel 144
 
-Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de instelling voor collectieve belegging in effecten in overeenstemming heeft gehandeld met de [artikelen 130 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01).
+Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de instelling voor collectieve belegging in effecten in overeenstemming heeft gehandeld met de [artikelen 130 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 145
 
@@ -2557,15 +2591,15 @@ Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:
 
 - a. tegoeden bij banken;
 
-- b. een onderscheid in de overzichten van de beleggingen, bedoeld in [artikel 122, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2012-01-01&g=2012-01-01), naar:
+- b. een onderscheid in de overzichten van de beleggingen, bedoeld in [artikel 122, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2013-01-01&g=2013-01-01), naar:
 
 - 1°. financiële instrumenten die zijn toegelaten tot de notering op een gereglementeerde markt;
 
 - 2°. financiële instrumenten die op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld;
 
-- 3°. effecten als bedoeld in [artikel 130, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2012-01-01&g=2012-01-01); en
+- 3°. effecten als bedoeld in [artikel 130, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=130&z=2013-01-01&g=2013-01-01); en
 
-- 4°. financiële instrumenten als bedoeld in [artikel 131, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=131&z=2012-01-01&g=2012-01-01);
+- 4°. financiële instrumenten als bedoeld in [artikel 131, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=131&z=2013-01-01&g=2013-01-01);
 
 - c. een sluitend overzicht van de gesaldeerde mutaties in de verslagperiode in het eigen vermogen van de beleggingsmaatschappij of het beheerde vermogen van het beleggingsfonds ten gevolge van en uitgesplitst naar:
 
@@ -2585,15 +2619,15 @@ Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:
 
 - d. het bedrag van de verplichtingen onderscheiden naar soort aan het einde van het boekjaar die voortvloeien uit verrichtingen met betrekking tot financiële derivaten en voorzover deze niet reeds in de balans en de winst- en verliesrekening zijn opgenomen.
 
-2. Onverminderd [artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=125&z=2012-01-01&g=2012-01-01), neemt een instelling voor collectieve belegging in effecten in de halfjaarcijfers de gegevens op, bedoeld in het eerste lid, onderdelen a en b, zoals deze luidden aan het einde van de eerste helft van het boekjaar.
+2. Onverminderd [artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=125&z=2013-01-01&g=2013-01-01), neemt een instelling voor collectieve belegging in effecten in de halfjaarcijfers de gegevens op, bedoeld in het eerste lid, onderdelen a en b, zoals deze luidden aan het einde van de eerste helft van het boekjaar.
 
 ##### Artikel 147
 
 1. Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) publiceert telkens wanneer zij of haar beheerder rechten van deelneming aanbiedt, verkoopt, inkoopt, of daarop terugbetaalt de koers, de verkoop- onderscheidenlijk inkoopprijs en het bedrag van de terugbetaling op de website van haar beheerder. De Autoriteit Financiële Markten kan op verzoek besluiten dat de instelling voor collectieve belegging in effecten deze bekendmaking eenmaal per maand doet, indien de belangen van de deelnemers daardoor niet worden geschaad.
 
-2. Het eerste lid is niet van toepassing op instellingen voor collectieve beleggingen in effecten als bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01).
+2. Het eerste lid is niet van toepassing op instellingen voor collectieve beleggingen in effecten als bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01).
 
-3. Onverminderd [artikel 4:46a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:46a) brengt een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01) de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.
+3. Onverminderd [artikel 4:46a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:46a) brengt een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01) de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.
 
 4. Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) verschaft desgevraagd aan een deelnemer gegevens betreffende kwantitatieve begrenzingen die van toepassing zijn op het risicobeheer, de daartoe gekozen methodes en de recente ontwikkeling van de risico’s en rendementen van de voornaamste categorie financiële instrumenten.
 
@@ -2617,19 +2651,11 @@ Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:
 
 ##### Artikel 150
 
-1. Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.
-
-2. Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.
-
-3. Het eerste en tweede lid zijn niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.
-
-4. Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.
+Vervallen
 
 ##### Artikel 151
 
-1. Indien een overeenkomst met een consument inzake een complex product of hypothecair krediet tijdens de eerste vijf jaar na de totstandkoming vroegtijdig wordt beëindigd, anders dan door overlijden van de verzekerde of anders dan door verkoop van de onroerende zaak waarop het complex product of hypothecair krediet betrekking heeft, wordt de afsluitprovisie of provisie evenredig verminderd.
-
-2. Het eerste lid is niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.
+Vervallen
 
 ### Afdeling 11.2. Krediet
 
@@ -2647,7 +2673,7 @@ Een instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:
 
 ##### Artikel 153
 
-1. De [artikelen 154 tot en met 158](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.2&artikel=154&z=2012-01-01&g=2012-01-01) zijn uitsluitend van toepassing op het verlenen van financiële diensten met betrekking tot consumptief krediet.
+1. De [artikelen 154 tot en met 158](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.2&artikel=154&z=2013-01-01&g=2013-01-01) zijn uitsluitend van toepassing op het verlenen van financiële diensten met betrekking tot consumptief krediet.
 
 2. Het in deze afdeling bepaalde met betrekking tot de verhouding tussen een aanbieder en een bemiddelaar is van overeenkomstige toepassing op de verhouding tussen een bemiddelaar en een onderbemiddelaar.
 
@@ -2709,7 +2735,7 @@ Een bemiddelaar heeft over de periode waarin een consument ten minste twee maand
 
 ##### Artikel 161
 
-De [artikelen 159](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.3&artikel=159&z=2012-01-01&g=2012-01-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.3&artikel=160&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op de beroepsaansprakelijkheidsverzekering en de vergelijkbare voorziening, bedoeld in [artikel 4:76, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76).
+De [artikelen 159](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.3&artikel=159&z=2013-01-01&g=2013-01-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.3&artikel=160&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de beroepsaansprakelijkheidsverzekering en de vergelijkbare voorziening, bedoeld in [artikel 4:76, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76).
 
 ### Hoofdstuk 13. Aanvullende regels betreffende optreden als clearinginstelling
 
@@ -2751,9 +2777,9 @@ De [artikelen 159](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&
 
 - c. gaat regelmatig na of de onder a bedoelde gegevens en rekeningen overeenstemmen met die van eventuele derden door wie deze financiële instrumenten en gelden worden aangehouden;
 
-- d. draagt er zorg voor dat financiële instrumenten van cliënten die overeenkomstig [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165a&z=2012-01-01&g=2012-01-01) bij een derde worden aangehouden, door middel van verschillend getitelde rekeningen in de boeken van de derde of door middel van andere vergelijkbare maatregelen waarmee hetzelfde beschermingsniveau wordt bereikt, kunnen worden onderscheiden van de financiële instrumenten die aan de beleggingsonderneming zelf toebehoren, en van de financiële instrumenten die aan de derde toebehoren;
+- d. draagt er zorg voor dat financiële instrumenten van cliënten die overeenkomstig [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165a&z=2013-01-01&g=2013-01-01) bij een derde worden aangehouden, door middel van verschillend getitelde rekeningen in de boeken van de derde of door middel van andere vergelijkbare maatregelen waarmee hetzelfde beschermingsniveau wordt bereikt, kunnen worden onderscheiden van de financiële instrumenten die aan de beleggingsonderneming zelf toebehoren, en van de financiële instrumenten die aan de derde toebehoren;
 
-- e. draagt er zorg voor dat de gelden van cliënten die overeenkomstig [artikel 165b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165b&z=2012-01-01&g=2012-01-01) worden aangehouden op een rekening of rekeningen die kan of kunnen worden onderscheiden van alle rekeningen die worden gebruikt voor het aanhouden van gelden die aan de beleggingsonderneming zelf toebehoren;
+- e. draagt er zorg voor dat de gelden van cliënten die overeenkomstig [artikel 165b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165b&z=2013-01-01&g=2013-01-01) worden aangehouden op een rekening of rekeningen die kan of kunnen worden onderscheiden van alle rekeningen die worden gebruikt voor het aanhouden van gelden die aan de beleggingsonderneming zelf toebehoren;
 
 - f. treft passende organisatorische maatregelen om het risico van verlies of vermindering van de financiële instrumenten en gelden van cliënten, dan wel van hun rechten daarop, als gevolg van misbruik van financiële instrumenten en gelden, fraude, wanbeheer, het bijhouden van ontoereikende gegevens of nalatigheid tot een minimum te beperken.
 
@@ -2821,61 +2847,47 @@ Het beleid, bedoeld in [artikel 4:88, eerste lid, van de wet](https://wetten.ove
 
 ##### Artikel 169
 
-[Artikel 3, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2012-01-01&g=2012-01-01), is niet van toepassing op houders van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) die is verleend voor 15 september 2004.
+[Artikel 3, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2013-01-01&g=2013-01-01), is niet van toepassing op houders van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) die is verleend voor 15 september 2004.
 
 ##### Artikel 170
 
-Tot 1 oktober 2007 is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01) niet van toepassing op financiëledienstverleners die niet bemiddelen in verzekeringen, optreden als gevolmachtigde agent of optreden als ondergevolmachtigde agent, voorzover zij op 1 januari 2006 niet voldeden aan [artikel 17 van het Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283&artikel=17) en aannemelijk kunnen maken dat zij vanaf 1 oktober 2007 wel zullen voldoen aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01).
+Tot 1 oktober 2007 is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-01-01&g=2013-01-01) niet van toepassing op financiëledienstverleners die niet bemiddelen in verzekeringen, optreden als gevolmachtigde agent of optreden als ondergevolmachtigde agent, voorzover zij op 1 januari 2006 niet voldeden aan [artikel 17 van het Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283&artikel=17) en aannemelijk kunnen maken dat zij vanaf 1 oktober 2007 wel zullen voldoen aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 171
 
-1. Een diploma is voor de toepassing van [artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01), geldig, indien het diploma:
+1. Een financiëledienstverlener die op 31 december 2013 over een vergunning beschikt en op die datum voldoet aan [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), hoeft tot en met 30 juni 2015 niet te voldoen aan artikel 4:9, tweede lid, van de wet.
 
-- a. tussen 1 januari 2000 en 1 oktober 2007 is behaald; en
+2. Een financiëledienstverlener die voor 1 juli 2014 een vergunning heeft aangevraagd voor het verlenen van financiële diensten, hoeft vanaf de datum dat de vergunning is aangevraagd tot en met 30 juni 2014 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9).
 
-- b. wordt genoemd in de eerste kolom van [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=K&z=2012-01-01&g=2012-01-01), en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel.
+3. Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-01-01&g=2013-01-01), in dienst heeft, hoeft voor die personen tot en met 30 juni 2015 niet te voldoen aan [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover die personen op 31 december 2013 een geldig diploma of geldige erkenning van beroepskwalificaties bezitten.
 
-2. Een diploma is voor de toepassing van [artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01), geldig, indien het diploma:
-
-- a. vóór 1 januari 2000 is behaald;
-
-- b. wordt genoemd in de eerste kolom van [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=K&z=2012-01-01&g=2012-01-01), en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel; en
-
-- c. wordt gehouden door een persoon die in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.
-
-3. Indien het diploma, bedoeld in het eerste of tweede lid, een diploma betreft voor hypothecair krediet of levensverzekering, voldoet de houder van het diploma vanaf 1 oktober 2007 tevens op de door Onze Minister bij ministeriële regeling vast te stellen wijze aan de eindtermen, opgenomen in de [onderdelen 2.5 tot en met 2.7 onderscheidenlijk 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01).
-
-4. Onze Minister kan in aanvulling op het eerste en tweede lid bij ministeriële regeling een ander diploma aanwijzen als geldig diploma, bedoeld in [artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01). Indien een op grond van de vorige volzin aangewezen diploma is behaald voor 1 januari 2000 is het slechts geldig indien de houder van het diploma in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.
-
-5. De instellingen, genoemd in de tweede kolom van [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=K&z=2012-01-01&g=2012-01-01) beschikken van rechtswege over een erkenning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.4&artikel=9&z=2012-01-01&g=2012-01-01) voor het afgeven van diploma’s genoemd in de eerste kolom. Onverminderd het eerste en tweede lid, is een diploma als genoemd in de eerste kolom van bijlage K dat wordt afgegeven na 1 januari 2006, slechts geldig voor de toepassing van 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, indien de in de tweede kolom genoemde instelling op het moment van het afgeven van het diploma over een erkenning beschikt.
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 172
 
-[Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2012-01-01&g=2012-01-01), is niet van toepassing ten aanzien van personen die zich op 1 januari 2006 reeds onder de verantwoordelijkheid van de financiëledienstverlener, bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2012-01-01&g=2012-01-01), rechtstreeks bezighielden met het verlenen van financiële diensten.
+[Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2013-01-01&g=2013-01-01), is niet van toepassing ten aanzien van personen die zich op 1 januari 2006 reeds onder de verantwoordelijkheid van de financiëledienstverlener, bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=4&paragraaf=4.3&artikel=28&z=2013-01-01&g=2013-01-01), rechtstreeks bezighielden met het verlenen van financiële diensten.
 
 ##### Artikel 173
 
-Tot 1 april 2007 is [artikel 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2012-01-01&g=2012-01-01), niet van toepassing op financiële ondernemingen voorzover zij:
+Tot 1 april 2007 is [artikel 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.3&artikel=52&z=2013-01-01&g=2013-01-01), niet van toepassing op financiële ondernemingen voorzover zij:
 
-- a. onverminderd [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=65&z=2012-01-01&g=2012-01-01), aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt een financiële bijsluiter verstrekken voorafgaande aan de totstandkoming van de overeenkomst;
+- a. onverminderd [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=65&z=2013-01-01&g=2013-01-01), aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt een financiële bijsluiter verstrekken voorafgaande aan de totstandkoming van de overeenkomst;
 
 - b. in de informatie die zij aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt verstrekken over het complexe product geen financiële bijsluiter opnemen die is opgesteld op grond van het [Besluit financiële bijsluiter](https://wetten.overheid.nl/jci1.3:c:BWBR0013263), zoals dat gold voor het tijdstip van inwerkingtreding van het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283); en
 
-- c. de consument adequaat schriftelijk informeren over de verschillen tussen de berekening van de rendementen, kosten en risico’s ten behoeve van de financiële bijsluiter, bedoeld in [artikel 66, eerste lid, onderdelen c en g, onderscheidenlijk tweede lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66&z=2012-01-01&g=2012-01-01), en de berekeningen die ten grondslag liggen aan de overige informatie die zij aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt verstrekken.
+- c. de consument adequaat schriftelijk informeren over de verschillen tussen de berekening van de rendementen, kosten en risico’s ten behoeve van de financiële bijsluiter, bedoeld in [artikel 66, eerste lid, onderdelen c en g, onderscheidenlijk tweede lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.5&artikel=66&z=2013-01-01&g=2013-01-01), en de berekeningen die ten grondslag liggen aan de overige informatie die zij aan de consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt verstrekken.
 
 ##### Artikel 174
 
-1. De [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.1&artikel=150&z=2012-01-01&g=2012-01-01) en [151](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.1&artikel=151&z=2012-01-01&g=2012-01-01) zijn uitsluitend van toepassing op overeenkomsten aangegaan na inwerkingtreding van dit besluit.
-
-2. In afwijking van [artikel 150, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.1&artikel=150&z=2012-01-01&g=2012-01-01), betaalt een aanbieder aan een bemiddelaar ter zake van overeenkomsten die voor 1 januari 2008 zijn aangegaan geen afsluitprovisie die meer bedraagt dan tachtig procent van de som van die afsluitprovisie en de doorlopende provisie ter zake van de desbetreffende overeenkomst. Voor overeenkomsten die vanaf 1 januari 2008 tot en met 31 december 2009 en vanaf 1 januari 2010 tot 31 december 2010 worden aangegaan bedraagt het in de vorige volzin benoemde percentage zeventig onderscheidenlijk zestig.
+Vervallen
 
 ##### Artikel 175
 
-De [artikelen 153 tot en met 157](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.2&artikel=153&z=2012-01-01&g=2012-01-01) zijn niet van toepassing op overeenkomsten inzake krediet, niet zijnde doorlopend krediet, die zijn afgesloten voor 1 januari 1992.
+De [artikelen 153 tot en met 157](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.2&artikel=153&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op overeenkomsten inzake krediet, niet zijnde doorlopend krediet, die zijn afgesloten voor 1 januari 1992.
 
 ##### Artikel 176
 
-De [artikelen 122, eerste lid, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2012-01-01&g=2012-01-01), [123, eerste lid, aanhef en onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=123&z=2012-01-01&g=2012-01-01), en [124, eerste lid, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=124&z=2012-01-01&g=2012-01-01), zijn van toepassing met ingang van het boekjaar dat aanvangt op of na het tijdstip van inwerkingtreding van dit besluit.
+De [artikelen 122, eerste lid, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=122&z=2013-01-01&g=2013-01-01), [123, eerste lid, aanhef en onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=123&z=2013-01-01&g=2013-01-01), en [124, eerste lid, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=124&z=2013-01-01&g=2013-01-01), zijn van toepassing met ingang van het boekjaar dat aanvangt op of na het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 177
 
@@ -3291,33 +3303,33 @@ Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gesteld
 
 5.2. De personen zijn in staat:
 
-5.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) gelden met betrekking tot levensverzekeringen de eindtermen genoemd in de onderdelen 5.2 tot en met 5.8.
+Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
 5.2. De personen zijn in staat:
 
 5.3. De personen zijn in staat met betrekking tot bemiddelen in en adviseren over levensverzekeringen:
 
-5.4. De personen zijn in staat met betrekking beheer en mutatie van de overeenkomst inzake levensverzekeringen:
+Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-5.5. De personen zijn in staat bij een mogelijke aanspraak/vordering op een bestaande (aanvullende) levensverzekering:
+– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
 
-5.6. De personen zijn in staat met betrekking tot financiële instrumenten:
+Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
-5.7. De personen zijn in staat met betrekking tot de totstandkoming van transacties in financiële instrumenten:
+Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
 5.8. De personen zijn in staat met betrekking tot het beheer en mutatie van de overeenkomst inzake financiële instrumenten:
 
-6.1.2. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), gelden voor de personen, werkzaam bij een gevolmachtigde agent inzake levensverzekeringen de eindtermen genoemd in 6.2, 6.6 en 6.7 tot en met 6.9.
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), [artikel 76 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.
 
-### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
+### 2.3. **(Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging**
 
-6.1.2. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), gelden voor de personen, werkzaam bij een gevolmachtigde agent inzake levensverzekeringen de eindtermen genoemd in 6.2, 6.6 en 6.7 tot en met 6.9.
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
-6.2. De personen beschikken over:
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
 6.3. De personen beschikken met betrekking tot brandverzekeringen over:
 
-6.4. De personen beschikken met betrekking tot transportverzekeringen over:
+Andere feiten of omstandigheden die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
 
 6.5. De personen beschikken met betrekking tot variaverzekeringen over:
 
@@ -3325,13 +3337,13 @@ Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gesteld
 
 6.7. De personen beschikken over:
 
-### 9. Gegevens over het behaalde rendement van de beleggingsinstelling
+### 3.3. **Andere feiten of omstandigheden**
 
-6.9. De personen beschikken over:
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 5.1. De wijze waarop de beheerder periodiek informatie verschaft.
 
-### 6. Gegevens over vervanging van de beheerder of de bewaarder
+### 4.1. **Toezichtantecedenten**
 
 7.2. De personen zijn in staat om:
 
@@ -3345,7 +3357,7 @@ Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gesteld
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
 Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), [artikel 76 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.
 
@@ -3359,77 +3371,13 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2007-01-01&g=2007-01-01)
-
-| Diploma | Instelling | Eindtermen |
-| --- | --- | --- |
-| **Algemeen** |   |   |
-| Oriëntatie Financiële instellingen | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Algemene Opleiding Bankbedrijf | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Oriëntatie Bankbedrijf | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Inleiding verzekeringsbedrijf | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Basiscursus Intermediair | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| A-Algemeen | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiële planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Consumptief krediet** |   |   |
-| Consumentenkrediet | NIBE-SVV | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiering | SEA/SEFD | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiële planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Consumptief krediet | SEA/SEFD | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Consumentenkrediet | Innovam | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Hypothecair krediet** |   |   |
-| Erkend hypotheekadviseur2 | SEH | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). |
-| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Hypotheekadviseur en Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Woningfinanciering 2 en Assurantiebemiddeling B | NIBE-SVV/ SEA/SEFD | Onderdelen 1 en 2, voorzover dit onderdeel geen betrekking heeft op kapitaalverzekeringen, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Beleggingsproducten (variant b)** |   |   |
-| DSI-registratie als (senior) Beleggingsadviseur | (DSI) | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| DSI-registratie als (senior) Vermogensbeheerder | (DSI) | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Beleggingsproducten (variant a)** |   |   |
-| DSI-registratie als (senior) Beleggingsadviseur | (DSI) | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| DSI-registratie als (senior) Vermogensbeheerder | (DSI) | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Vermogensplanning | NIBE-SVV | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Gevolmachtigd agent** |   |   |
-| Assurantiebemiddeling A en Gevolmachtigde Agent | SEA/SEFD | [Onderdelen 1 en 6 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Schadeverzekeringen** |   |   |
-| Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Erkend Assurantieagent (B) | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Assurantiebemiddeling A | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, Wabb](https://wetten.overheid.nl/jci1.3:c:BWBR0004993&artikel=4) | Sociaal-Economische Raad | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| A-modules: Algemeen, Brand, Transport en Varia | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Branchediploma’s: Brand, Transport, M&S en Varia | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-|   |   |   |
-| **Levensverzekeringen** |   |   |
-| Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Erkend assurantieagent (B) | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Assurantiebemiddeling A | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, van de Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993&artikel=4) | Sociaal-Economische Raad | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| A-modules: Algemeen en Leven | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Branche diploma Leven | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-| VP-leven en Pensioenpraktijk | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2007-01-01&g=2007-01-01) |
-
-1 Of daaraan door de FFP tot en met 2002 gelijk gestelde diplomavereisten.
-
-2 Of anderszins bij de SEH geregistreerd als Erkend Hypotheekadviseur.
+## Bijlage G. , behorend bij [artikel 116a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=116a&z=2013-01-01&g=2013-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 31a
 
-Het organisatieonderdeel, bedoeld in [artikel 30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=30&z=2012-01-01&g=2012-01-01), heeft als taak:
+Het organisatieonderdeel, bedoeld in [artikel 30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=30&z=2013-01-01&g=2013-01-01), heeft als taak:
 
 - a. het vaststellen en uitvoeren van een controleplan om de deugdelijkheid en effectiviteit van de systemen, interne controleprocedures en regels van de financiële onderneming te onderzoeken en te beoordelen;
 
@@ -3505,19 +3453,19 @@ Vervallen
 
 - c. geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die anderszins in strijd is of in strijd kan zijn met hetgeen ter uitvoering van de herziene richtlijn beleggingsinstellingen of de richtlijn markten voor financiële instrumenten ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is bepaald;
 
-- d. de relevante persoon niet, anders dan in de normale uitoefening van zijn beroep of bedrijf, een andere persoon adviseert om een transactie in een financieel instrument aan te gaan die, wanneer dit een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan op grond van onderdeel a, b of c, of onder [artikel 35h, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35h&z=2012-01-01&g=2012-01-01) of [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=164&z=2012-01-01&g=2012-01-01) zou vallen; en
+- d. de relevante persoon niet, anders dan in de normale uitoefening van zijn beroep of bedrijf, een andere persoon adviseert om een transactie in een financieel instrument aan te gaan die, wanneer dit een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan op grond van onderdeel a, b of c, of onder [artikel 35h, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35h&z=2013-01-01&g=2013-01-01) of [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=164&z=2013-01-01&g=2013-01-01) zou vallen; en
 
-- e. de relevante persoon geen informatie of advies aan een andere persoon bekendmaakt anders dan in de normale uitoefening van zijn beroep of bedrijf, indien de relevante persoon weet of redelijkerwijs behoort te weten dat de andere persoon een transactie in een financieel instrument zal of zou kunnen aangaan die, wanneer dit een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan op grond van onderdeel a, b of c, of onder [artikel 35h, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35h&z=2012-01-01&g=2012-01-01) of [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=164&z=2012-01-01&g=2012-01-01) zou vallen;
+- e. de relevante persoon geen informatie of advies aan een andere persoon bekendmaakt anders dan in de normale uitoefening van zijn beroep of bedrijf, indien de relevante persoon weet of redelijkerwijs behoort te weten dat de andere persoon een transactie in een financieel instrument zal of zou kunnen aangaan die, wanneer dit een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan op grond van onderdeel a, b of c, of onder [artikel 35h, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35h&z=2013-01-01&g=2013-01-01) of [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=164&z=2013-01-01&g=2013-01-01) zou vallen;
 
 - f. de relevante persoon geen informatie of advies aan een andere persoon bekendmaakt anders dan in de normale uitoefening van zijn beroep of bedrijf indien de relevante persoon weet of redelijkerwijs behoort te weten dat de andere persoon een derde zal of zou kunnen adviseren een transactie in een financieel instrument aan te gaan die, wanneer het een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan.
 
 ##### Artikel 35d
 
-Een beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in [artikel 35c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2012-01-01&g=2012-01-01).
+Een beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in [artikel 35c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 35e
 
-1. De procedures en maatregelen bedoeld in [artikel 35c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2012-01-01&g=2012-01-01), houden in dat de beheerder of beleggingsonderneming onverwijld in kennis wordt gesteld van elke persoonlijke transactie.
+1. De procedures en maatregelen bedoeld in [artikel 35c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2013-01-01&g=2013-01-01), houden in dat de beheerder of beleggingsonderneming onverwijld in kennis wordt gesteld van elke persoonlijke transactie.
 
 2. De beheerder of beleggingsonderneming houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.
 
@@ -3527,15 +3475,15 @@ Een beheerder van een instelling voor collectieve belegging in effecten of beleg
 
 ##### Artikel 35f
 
-De [artikelen 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2012-01-01&g=2012-01-01), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35d&z=2012-01-01&g=2012-01-01) en [35e, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35e&z=2012-01-01&g=2012-01-01), zijn niet van toepassing op:
+De [artikelen 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35c&z=2013-01-01&g=2013-01-01), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35d&z=2013-01-01&g=2013-01-01) en [35e, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35e&z=2013-01-01&g=2013-01-01), zijn niet van toepassing op:
 
-- a. persoonlijke transacties verricht in het kader van het beheer van een individueel vermogen of collectief beheer van een beleggingsportefeuille waarbij het vermogen respectievelijk de portefeuille op discretionaire basis wordt beheerd en waarbij over de transactie geen voorafgaande communicatie heeft plaatsgevonden tussen de vermogensbeheerder en de relevante persoon of een andere persoon als bedoeld in de definitie van **persoonlijke transactie**, [onder 3° of 4°, in artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), voor wiens rekening de transactie wordt uitgevoerd;
+- a. persoonlijke transacties verricht in het kader van het beheer van een individueel vermogen of collectief beheer van een beleggingsportefeuille waarbij het vermogen respectievelijk de portefeuille op discretionaire basis wordt beheerd en waarbij over de transactie geen voorafgaande communicatie heeft plaatsgevonden tussen de vermogensbeheerder en de relevante persoon of een andere persoon als bedoeld in de definitie van **persoonlijke transactie**, [onder 3° of 4°, in artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), voor wiens rekening de transactie wordt uitgevoerd;
 
-- b. persoonlijke transacties in rechten van deelneming in instellingen voor collectieve belegging in effecten, indien noch de relevante persoon, noch een persoon als bedoeld in de definitie van **persoonlijke transactie**, [onder 3° of 4°, in artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), voor wiens rekening de transacties worden uitgevoerd, bij de leiding van de betreffende instelling betrokken is.
+- b. persoonlijke transacties in rechten van deelneming in instellingen voor collectieve belegging in effecten, indien noch de relevante persoon, noch een persoon als bedoeld in de definitie van **persoonlijke transactie**, [onder 3° of 4°, in artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), voor wiens rekening de transacties worden uitgevoerd, bij de leiding van de betreffende instelling betrokken is.
 
 ##### Artikel 35g
 
-1. Indien een beleggingsonderneming onderzoek op beleggingsgebied verricht of laat verrichten waarvan het de bedoeling is of aangenomen mag worden dat het daarna onder eigen verantwoordelijkheid of onder de verantwoordelijkheid van een rechtspersoon die deel uitmaakt van dezelfde groep als de beleggingsonderneming onder cliënten of onder het publiek wordt verspreid, is [artikel 35a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35a&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing ten aanzien van de financieel analisten die betrokken zijn bij het verrichten van onderzoek op beleggingsgebied, en andere relevante personen wier verantwoordelijkheden of zakelijke belangen in strijd kunnen zijn met de belangen van degenen onder wie het onderzoek op beleggingsgebied wordt verspreid.
+1. Indien een beleggingsonderneming onderzoek op beleggingsgebied verricht of laat verrichten waarvan het de bedoeling is of aangenomen mag worden dat het daarna onder eigen verantwoordelijkheid of onder de verantwoordelijkheid van een rechtspersoon die deel uitmaakt van dezelfde groep als de beleggingsonderneming onder cliënten of onder het publiek wordt verspreid, is [artikel 35a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing ten aanzien van de financieel analisten die betrokken zijn bij het verrichten van onderzoek op beleggingsgebied, en andere relevante personen wier verantwoordelijkheden of zakelijke belangen in strijd kunnen zijn met de belangen van degenen onder wie het onderzoek op beleggingsgebied wordt verspreid.
 
 2. De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van de ingevolge het eerste lid toepasselijke bepalingen indien de beleggingsonderneming voornemens is door een derde, die geen deel uitmaakt van de groep waartoe de beleggingsonderneming behoort, verricht onderzoek op beleggingsgebied te verspreiden en de beleggingsonderneming:
 
@@ -3551,7 +3499,7 @@ Een beleggingsonderneming die onderzoek op beleggingsgebied verricht of laat ver
 
 - a. de bij het onderzoek betrokken financieel analisten of andere relevante personen geen transacties verrichten namens de beleggingsonderneming of andere personen, in financiële instrumenten waarop het onderzoek op beleggingsgebied betrekking heeft, dan wel in daarmee gelieerde financiële instrumenten, behalve als marketmaker, indien zij op de hoogte zijn van het tijdstip van verspreiding of de inhoud van het onderzoek op beleggingsgebied en deze kennis niet openbaar is, totdat de ontvangers van het onderzoek een redelijke kans hebben gehad ernaar te handelen;
 
-- b. de bij het onderzoek betrokken financieel analisten of andere relevante personen die bij het verrichten van onderzoek op beleggingsgebied zijn betrokken, geen met de gangbare aanbevelingen strijdige persoonlijke transacties verrichten in financiële instrumenten waarop het onderzoek op beleggingsgebied betrekking heeft, dan wel in daarmee gelieerde financiële instrumenten, behalve in uitzonderingsgevallen en in die gevallen met voorafgaande instemming van het organisatieonderdeel dat de compliancefunctie, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2012-01-01&g=2012-01-01), uitoefent;
+- b. de bij het onderzoek betrokken financieel analisten of andere relevante personen die bij het verrichten van onderzoek op beleggingsgebied zijn betrokken, geen met de gangbare aanbevelingen strijdige persoonlijke transacties verrichten in financiële instrumenten waarop het onderzoek op beleggingsgebied betrekking heeft, dan wel in daarmee gelieerde financiële instrumenten, behalve in uitzonderingsgevallen en in die gevallen met voorafgaande instemming van het organisatieonderdeel dat de compliancefunctie, bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2013-01-01&g=2013-01-01), uitoefent;
 
 - c. zijzelf, financieel analisten en andere relevante personen die bij het verrichten van het onderzoek zijn betrokken, geen vergoeding aanvaarden van degenen die een wezenlijk belang hebben bij het onderwerp van het onderzoek;
 
@@ -3565,7 +3513,7 @@ Een beleggingsonderneming die onderzoek op beleggingsgebied verricht of laat ver
 
 1. Indien een beheerder van een instelling voor collectieve belegging in effecten voornemens is werkzaamheden uit te besteden, stelt hij de Autoriteit Financiële Markten daarvan in kennis. De Autoriteit Financiële Markten geeft deze informatie onverwijld door aan de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten.
 
-2. Onverminderd [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38&z=2012-01-01&g=2012-01-01) draagt een beheerder die het beheer van een instelling voor collectieve belegging in effecten uitbesteedt aan een derde er zorg voor dat:
+2. Onverminderd [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38&z=2013-01-01&g=2013-01-01) draagt een beheerder die het beheer van een instelling voor collectieve belegging in effecten uitbesteedt aan een derde er zorg voor dat:
 
 - a. uitbesteding van het beheer van beleggingengeschiedt aan een derde waaraan voor het beheren van beleggingsinstellingen of het beheren van individuele vermogens een vergunning of erkenning is verleend en die aan prudentieel toezicht is onderworpen;
 
@@ -3583,7 +3531,7 @@ Een beleggingsonderneming die onderzoek op beleggingsgebied verricht of laat ver
 
 ##### Artikel 38b
 
-1. Een beleggingsonderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in [artikel 31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2012-01-01&g=2012-01-01).
+1. Een beleggingsonderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in [artikel 31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2013-01-01&g=2013-01-01).
 
 2. Het eerste lid is niet van toepassing op banken die een vergunning hebben als bedoeld in [artikel 2:11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
 
@@ -3653,7 +3601,7 @@ Een beleggingsonderneming die onderzoek op beleggingsgebied verricht of laat ver
 
 1. Een beleggingsonderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:90b, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:90b), en [artikel 4:90c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:90c) aan de cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling of die artikelen anders wordt bepaald. De beleggingsonderneming kan na toestemming van de cliënt, de informatie op een andere duurzame drager verstrekken, indien dat past in de context waarin zij met de cliënt zaken doet.
 
-2. Een beleggingsonderneming kan, na toestemming van de cliënt, de op grond van de [artikelen 58a tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2012-01-01&g=2012-01-01) en 59a te verschaffen informatie die niet persoonlijk tot de cliënt is gericht via haar website verstrekken indien:
+2. Een beleggingsonderneming kan, na toestemming van de cliënt, de op grond van de [artikelen 58a tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2013-01-01&g=2013-01-01) en 59a te verschaffen informatie die niet persoonlijk tot de cliënt is gericht via haar website verstrekken indien:
 
 - a. het gebruik van de website past in de context waarin zij met de cliënt zaken doet;
 
@@ -3733,7 +3681,7 @@ Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een 
 
 #### § 8.1.2. Algemene informatie over beheerders, beleggingsinstellingen, bewaarders, beleggingsondernemingen en kredietinstellingen
 
-#### § 8.1.2. Algemene informatie over beheerders, beleggingsinstellingen, bewaarders, beleggingsondernemingen en kredietinstellingen
+#### § 7.2. Erkende geschilleninstantie
 
 ##### Artikel 58a
 
@@ -3741,23 +3689,23 @@ Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een 
 
 - a. informatie over de wederzijdse rechten en verplichtingen die voortvloeien uit de overeenkomst met betrekking tot de beleggings- of nevendienst;
 
-- b. de in [artikel 58b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2012-01-01&g=2012-01-01) bedoelde informatie over de overeenkomst of de beleggingsdiensten of nevendiensten;
+- b. de in [artikel 58b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2013-01-01&g=2013-01-01) bedoelde informatie over de overeenkomst of de beleggingsdiensten of nevendiensten;
 
-- c. de overige op grond van de [artikelen 58b tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2012-01-01&g=2012-01-01) vereiste informatie.
+- c. de overige op grond van de [artikelen 58b tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2013-01-01&g=2013-01-01) vereiste informatie.
 
 2. In afwijking van het eerste lid mag een beleggingsonderneming de informatie bedoeld in het eerste lid verstrekken onmiddellijk na aanvang van het verlenen van een beleggingsdienst of nevendienst, indien:
 
 - a. zij de in het eerste lid genoemde termijnen niet in acht heeft kunnen nemen omdat de overeenkomst op verzoek van de niet-professionele belegger is gesloten door middel van een techniek voor communicatie op afstand die haar belet de informatie overeenkomstig het eerste lid te leveren; of
 
-- b. de beleggingsonderneming ten aanzien van de niet-professionele belegger voldoet aan [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=79&z=2012-01-01&g=2012-01-01), als ware deze belegger een consument en de beleggingsonderneming een financiële dienstverlener.
+- b. de beleggingsonderneming ten aanzien van de niet-professionele belegger voldoet aan [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.7&artikel=79&z=2013-01-01&g=2013-01-01), als ware deze belegger een consument en de beleggingsonderneming een financiële dienstverlener.
 
-3. Indien een reclame-uiting van een beleggingsonderneming een aanbod bevat om een overeenkomst met betrekking tot een financieel instrument of een beleggings- of nevendienst aan te gaan, of de uitnodiging bevat om een dergelijk aanbod te doen en vermeldt hoe hierop kan worden gereageerd, wordt daarin tevens de voor het aanbod of de uitnodiging van belang zijnde informatie als bedoeld in de [artikelen 58b tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2012-01-01&g=2012-01-01) opgenomen.
+3. Indien een reclame-uiting van een beleggingsonderneming een aanbod bevat om een overeenkomst met betrekking tot een financieel instrument of een beleggings- of nevendienst aan te gaan, of de uitnodiging bevat om een dergelijk aanbod te doen en vermeldt hoe hierop kan worden gereageerd, wordt daarin tevens de voor het aanbod of de uitnodiging van belang zijnde informatie als bedoeld in de [artikelen 58b tot en met 58e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58b&z=2013-01-01&g=2013-01-01) opgenomen.
 
 4. Het derde lid is niet van toepassing indien het aanbod of de uitnodiging is gericht tot een niet-professionele belegger en deze voor een reactie wordt verwezen naar een ander document of andere documenten die afzonderlijk of tezamen deze informatie bevatten.
 
 ##### Artikel 58b
 
-1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2012-01-01&g=2012-01-01), omvat de volgende gegevens:
+1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2013-01-01&g=2013-01-01), omvat de volgende gegevens:
 
 - a. de naam, het adres en de contactgegevens van de beleggingsonderneming;
 
@@ -3769,11 +3717,11 @@ Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een 
 
 - e. een verklaring dat de beleggingsonderneming door tussenkomst van een verbonden agent beleggingsdiensten verleent en in welke lidstaat deze agent in een register staat ingeschreven;
 
-- f. aard, frequentie en tijdschema van de rapporten over de verrichting van de dienst die overeenkomstig de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2012-01-01&g=2012-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=70&z=2012-01-01&g=2012-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71&z=2012-01-01&g=2012-01-01) en [71a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71a&z=2012-01-01&g=2012-01-01) door de beleggingsonderneming aan de cliënt worden toegezonden;
+- f. aard, frequentie en tijdschema van de rapporten over de verrichting van de dienst die overeenkomstig de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=69&z=2013-01-01&g=2013-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=70&z=2013-01-01&g=2013-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71&z=2013-01-01&g=2013-01-01) en [71a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71a&z=2013-01-01&g=2013-01-01) door de beleggingsonderneming aan de cliënt worden toegezonden;
 
 - g. indien de beleggingsonderneming financiële instrumenten of gelden van cliënten aanhoudt, een korte beschrijving van de maatregelen die zij heeft genomen om deze financiële instrumenten of gelden te beschermen, alsmede beknopte gegevens over de vangnetregeling die op de onderneming van toepassing is;
 
-- h. een beschrijving, die in beknopte vorm mag worden verstrekt, van het beleid inzake belangenconflicten dat de onderneming overeenkomstig [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35a&z=2012-01-01&g=2012-01-01) voert;
+- h. een beschrijving, die in beknopte vorm mag worden verstrekt, van het beleid inzake belangenconflicten dat de onderneming overeenkomstig [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=35a&z=2013-01-01&g=2013-01-01) voert;
 
 - i. indien de cliënt daarom verzoekt, nadere bijzonderheden over het beleid inzake belangenconflicten.
 
@@ -3793,7 +3741,7 @@ Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een 
 
 ##### Artikel 58c
 
-1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2012-01-01&g=2012-01-01), omvat een algemene beschrijving van de aard en risico’s van financiële instrumenten die gedetailleerd genoeg is om de niet-professionele belegger in staat te stellen een beleggingsbeslissing te nemen.
+1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2013-01-01&g=2013-01-01), omvat een algemene beschrijving van de aard en risico’s van financiële instrumenten die gedetailleerd genoeg is om de niet-professionele belegger in staat te stellen een beleggingsbeslissing te nemen.
 
 2. De beschrijving van de risico’s, bedoeld in het eerste lid, omvat, indien van toepassing, mede:
 
@@ -3815,7 +3763,7 @@ Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een 
 
 ##### Artikel 58d
 
-1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2012-01-01&g=2012-01-01), omvat, indien van toepassing, gegevens over de omstandigheid dat een derde namens de beleggingsonderneming financiële instrumenten of gelden die toebehoren aan de niet-professionele belegger kan aanhouden, alsmede gegevens over haar wettelijke verantwoordelijkheid voor het handelen of nalaten van de derde en voor de gevolgen die insolventie van de derde voor de cliënt heeft.
+1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2013-01-01&g=2013-01-01), omvat, indien van toepassing, gegevens over de omstandigheid dat een derde namens de beleggingsonderneming financiële instrumenten of gelden die toebehoren aan de niet-professionele belegger kan aanhouden, alsmede gegevens over haar wettelijke verantwoordelijkheid voor het handelen of nalaten van de derde en voor de gevolgen die insolventie van de derde voor de cliënt heeft.
 
 2. Indien een derde namens een beleggingsonderneming, voor zover het toepasselijke recht dit toelaat, financiële instrumenten die toebehoren aan een niet-professionele belegger op een omnibusrekening mag aanhouden, brengt de beleggingsonderneming de cliënt daarvan op de hoogte en waarschuwt zij op duidelijke wijze voor de risico’s die daaruit voortvloeien.
 
@@ -3831,7 +3779,7 @@ namens een beleggingsonderneming aangehouden financiële instrumenten die toebeh
 
 ##### Artikel 58e
 
-1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2012-01-01&g=2012-01-01), omvat gegevens over de kosten en bijbehorende lasten, die voor zover van toepassing bestaat uit de volgende elementen:
+1. De informatie, bedoeld in [artikel 58a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58a&z=2013-01-01&g=2013-01-01), omvat gegevens over de kosten en bijbehorende lasten, die voor zover van toepassing bestaat uit de volgende elementen:
 
 - a. de totale prijs van het financiële instrument, de beleggingsdienst of nevendienst, met inbegrip van alle bijbehorende kosten en als geen exacte prijs kan worden gegeven de grondslag voor de berekening van de totale prijs.
 
@@ -3849,7 +3797,7 @@ namens een beleggingsonderneming aangehouden financiële instrumenten die toebeh
 
 1. De beleggingsonderneming verstrekt aan een professionele belegger een algemene beschrijving van de aard en risico’s van financiële instrumenten die gedetailleerd genoeg is om hem in staat te stellen een beleggingsbeslissing te nemen.
 
-2. [Artikel 58c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58c&z=2012-01-01&g=2012-01-01), zijn van overeenkomstige toepassing op de beschrijving van de aard en risico’s bedoeld in het eerste lid.
+2. [Artikel 58c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58c&z=2013-01-01&g=2013-01-01), zijn van overeenkomstige toepassing op de beschrijving van de aard en risico’s bedoeld in het eerste lid.
 
 3. Indien op een rekening waarop financiële instrumenten of gelden worden aangehouden die aan een professionele belegger toebehoren, het recht van toepassing is van een staat die geen lidstaat is, brengt de beleggingsonderneming de cliënt daarvan op de hoogte en wijst zij erop dat dit van invloed kan zijn op de rechten die aan deze financiële instrumenten of gelden verbonden zijn.
 
@@ -3857,11 +3805,11 @@ namens een beleggingsonderneming aangehouden financiële instrumenten die toebeh
 
 5. Een beleggingsonderneming verstrekt de in dit artikel bedoelde informatie aan een professionele belegger voorafgaand aan het verlenen van een beleggingsdienst of nevendienst.
 
-6. [Artikel 58c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58c&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+6. [Artikel 58c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58c&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 #### § 8.1.5. Financiële bijsluiter
 
-#### § 8.1.6. Informatie gedurende de looptijd van een overeenkomst
+#### § 8.1.2. Algemene informatie over financiële ondernemingen
 
 ##### Artikel 71a
 
@@ -3959,7 +3907,7 @@ Als financieel instrument in de zin van [artikel 4:24, vierde lid, onderdeel e, 
 
 ### Afdeling 10.2. Krediet
 
-#### § 8.2.2. Bepalingen ter uitvoering van [artikel 4:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25)
+#### § 8.1.7. Informatieverstrekking in het kader van een overeenkomst op afstand
 
 #### § 9.1.2. Beleggingsondernemingen
 
@@ -4005,9 +3953,9 @@ Als financieel instrument in de zin van [artikel 4:24, vierde lid, onderdeel e, 
 
 2. Indien een beleggingsonderneming een order van een cliënt samenvoegt met een transactie voor eigen rekening en de samengevoegde order slechts ten dele wordt uitgevoerd, geeft zij de order van de cliënt bij de toewijzing van de desbetreffende transactie voorrang op haar eigen transactie.
 
-Het is de beleggingsonderneming slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig haar orderuitvoeringsbeleid, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59&z=2012-01-01&g=2012-01-01), indien zij kan aantonen dat de order van de cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.
+Het is de beleggingsonderneming slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig haar orderuitvoeringsbeleid, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59&z=2013-01-01&g=2013-01-01), indien zij kan aantonen dat de order van de cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.
 
-3. Een beleggingsonderneming beschikt in het kader van het ordertoewijzingsbeleid, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59&z=2012-01-01&g=2012-01-01), over procedures die voorkomen dat transacties voor eigen rekening die samen met orders van cliënten worden uitgevoerd, op een voor de cliënt nadelige wijze opnieuw worden toegewezen.
+3. Een beleggingsonderneming beschikt in het kader van het ordertoewijzingsbeleid, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59&z=2013-01-01&g=2013-01-01), over procedures die voorkomen dat transacties voor eigen rekening die samen met orders van cliënten worden uitgevoerd, op een voor de cliënt nadelige wijze opnieuw worden toegewezen.
 
 ##### Artikel 165a
 
@@ -4059,7 +4007,7 @@ Het is de beleggingsonderneming slechts toegestaan een transactie als bedoeld in
 
 ##### Artikel 165d
 
-Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de [artikelen 165 tot en met 165c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165&z=2012-01-01&g=2012-01-01).
+Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de [artikelen 165 tot en met 165c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=14&paragraaf=14.1&artikel=165&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 167a
 
@@ -4305,7 +4253,7 @@ Een beleggingsonderneming als bedoeld in [artikel 4:88, tweede lid, van de wet](
 
 ### 5.2. **Zakelijk**
 
-### 1. Gegevens over de werkzaamheden van de beheerder
+### 2.1. **Veroordelingen**
 
 6.1.1. Voor de vaststelling van de vakbekwaamheid, bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), gelden voor de personen, werkzaam bij een gevolmachtigde agent inzake schadeverzekeringen de eindtermen genoemd in 6.2 tot en met 6.5 en 6.7 tot en met 6.9.
 
@@ -4313,9 +4261,9 @@ Een beleggingsonderneming als bedoeld in [artikel 4:88, tweede lid, van de wet](
 
 7.1. De personen baseren hun advisering met betrekking tot pensioenverzekeringen en premiepensioenvorderingen op:
 
-Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
+Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
-1.1. De rechtsvorm van de beleggingsinstelling.
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
 
@@ -4325,7 +4273,7 @@ Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https:/
 
 1.8. Een verklaring dat de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook wanneer de bewaarder de bij hem in bewaring gegeven activa geheel of ten dele aan een derde heeft toevertrouwd.
 
-### 3.3. **Andere feiten of omstandigheden**
+### 3. **Indien de beheerder of bewaarder het voornemen heeft om werkzaamheden uit te besteden aan een derde:**
 
 Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
@@ -4335,77 +4283,77 @@ Andere feiten of omstandigheden die redelijkerwijs voor de Autoriteit Financiël
 
 De namen van de personen die het beleid van de beleggingsmaatschappij bepalen of mede bepalen of die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beleggingsmaatschappij, vermelding van de voornaamste door deze personen buiten de beleggingsmaatschappij uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beleggingsmaatschappij.
 
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-3.1. De wijze waarop de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers kunnen worden gewijzigd.
-
-3.2. Vermelding van het feit dat een voorstel tot wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder en dat het voorstel tot wijziging op de website van de beheerder wordt toegelicht.
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-3.4. Dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat drie maanden zijn verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
-
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-4.1. De wijze waarop de beleggingsinstelling periodiek informatie verstrekt.
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beleggingsinstelling op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
-
-4.3. De plaatsen waar de vergunning van de beheerder van de beleggingsinstelling en het fondsreglement of de statuten van de beleggingsinstelling verkrijgbaar zijn.
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.2. **Zakelijk**
-
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de beleggingsinstelling, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s.
-
-5.2. De wijze waarop wordt bepaald of de opbrengsten van de beleggingsinstelling worden uitgekeerd of herbelegd.
-
-5.3. De eventueel aan de beleggingsactiviteiten gestelde grenzen en de wijze waarop hierin wijziging kan worden aangebracht.
-
-5.4. Indien van toepassing: de bevoegdheid om als debiteur leningen aan te gaan of financiële instrumenten uit te lenen.
-
-### 1. Gegevens over de werkzaamheden van de beheerder
-
 De werkzaamheden van de beheerder, te onderscheiden in:
 
-5.7. Indien van toepassing: een verklaring dat de beleggingsinstelling in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen kan beleggen.
-
-### 3. **Indien de beheerder of bewaarder het voornemen heeft om werkzaamheden uit te besteden aan een derde:**
-
-2.2. Vermelding van de voornaamste door de personen, bedoeld onder 2.1, buiten de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder.
-
-### 5. **Overige gegevens met betrekking tot de overeenkomst:**
-
-3.1. De naam en rechtsvorm van de beheerder, de statutaire zetel en plaats van het hoofdkantoor van de beheerder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersoon is opgericht die de functie van beheerder vervult indien deze niet voor onbepaalde tijd is aangegaan.
-
-3.2. Het nummer van inschrijving van de beheerder in het handelsregister en de plaats van inschrijving.
-
-### 12. Gegevens over waardering activa
-
-3.4. Indien van toepassing: de naam en rechtsvorm van iedere bewaarder, de statutaire zetel en plaats van het hoofdkantoor van iedere bewaarder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersonen zijn opgericht die de functie van bewaarder vervullen indien deze niet voor onbepaalde tijd zijn aangegaan.
+3.1. De wijze waarop de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers kunnen worden gewijzigd.
 
 2.1. De namen van:
 
 2.2. Vermelding van de voornaamste door de personen, bedoeld onder 2.1, buiten de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder.
 
-### 3. Algemene gegevens over de beheerder en de bewaarders
+3.4. Dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat drie maanden zijn verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
 
 3.1. De naam en rechtsvorm van de beheerder, de statutaire zetel en plaats van het hoofdkantoor van de beheerder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersoon is opgericht die de functie van beheerder vervult indien deze niet voor onbepaalde tijd is aangegaan.
 
 3.2. Het nummer van inschrijving van de beheerder in het handelsregister en de plaats van inschrijving.
 
-### 6. Gegevens over kosten en vergoedingen
+3.3. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beheerder met andere personen is verbonden.
 
 3.4. Indien van toepassing: de naam en rechtsvorm van iedere bewaarder, de statutaire zetel en plaats van het hoofdkantoor van iedere bewaarder indien deze plaats afwijkt van die van de statutaire zetel alsmede de oprichtingsdatum en de tijd waarvoor de rechtspersonen zijn opgericht die de functie van bewaarder vervullen indien deze niet voor onbepaalde tijd zijn aangegaan.
+
+3.5. Indien van toepassing: het nummer van inschrijving van iedere bewaarder in het handelsregister en de plaats van inschrijving.
+
+3.6. Indien van toepassing: een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin iedere bewaarder met andere personen is verbonden.
+
+### 5.2. **Zakelijk**
+
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
+
+4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de [artikelen 3:53](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) en [3:57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is voldaan.
+
+4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder en iedere bewaarder is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld.
+
+5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s.
+
+5.1. De wijze waarop de beheerder periodiek informatie verschaft.
+
+5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moeten zijn afgesloten.
+
+5.3. De datum waarop de jaarrekening van iedere bewaarder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moet zijn afgesloten.
+
+### 1. Gegevens over de werkzaamheden van de beheerder
+
+De werkzaamheden van de beheerder, te onderscheiden in:
+
+6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder of de bewaarder.
+
+### 3. **Indien de beheerder of bewaarder het voornemen heeft om werkzaamheden uit te besteden aan een derde:**
+
+2.2. Vermelding van de voornaamste door de personen, bedoeld onder 2.1, buiten de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beheerder, de door hem beheerde beleggingsinstellingen en iedere bewaarder.
+
+### 1. Algemene gegevens over de beleggingsinstelling
+
+1.1. De rechtsvorm van de beleggingsinstelling.
+
+1.2. De naam van de beleggingsinstelling, de statutaire zetel en plaats van het hoofdkantoor van de beleggingsinstelling, de oprichtingsdatum, de tijd waarvoor de beleggingsinstelling is opgericht indien deze niet voor onbepaalde tijd is aangegaan, en, indien van toepassing, het nummer van de inschrijving van de beleggingsinstelling in het handelsregister en de plaats van de inschrijving.
+
+### 12. Gegevens over waardering activa
+
+1.4. De naam van adviseurs en adviesbureaus van wier diensten de beleggingsinstelling ter zake van haar beleggingen gebruik maakt. Indien het een instelling voor collectieve belegging in effecten betreft: de werkzaamheden van de adviseurs en adviesbureaus, voor zover het beroep op hun diensten bij overeenkomst is vastgelegd, en op welke wijze de kosten van de werkzaamheden ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling, en de vermelding van belang kan zijn voor de deelnemers.
+
+1.5. Indien van toepassing: de naam en het kantooradres van de accountant die de jaarrekening van de beleggingsinstelling over het laatste boekjaar heeft gecontroleerd.
+
+1.6. Indien van toepassing: de naam van de bewaarder die de activa van de beleggingsinstelling bewaart.
+
+### 3. Algemene gegevens over de beheerder en de bewaarders
+
+1.8. Een verklaring dat de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook wanneer de bewaarder de bij hem in bewaring gegeven activa geheel of ten dele aan een derde heeft toevertrouwd.
+
+1.9. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beleggingsmaatschappij met andere personen is verbonden.
+
+### 6. Gegevens over kosten en vergoedingen
+
+1.11. De wijze waarop deelnemers klachten over de beleggingsinstelling kunnen indienen bij de beheerder.
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2008-07-01&g=2008-07-01)
 
@@ -4605,23 +4553,23 @@ Vervallen
 
 ### 1. Gegevens over de werkzaamheden van de beheerder
 
-7.3. De personen demonstreren en bewijzen dat zij:
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Autoriteit Financiële Markten van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Gegevens over vervanging van de beheerder of de bewaarder
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
 Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
-### 3. Gegevens over wijzigingen in de voorwaarden
+### 4. **Gegevens betreffende mogelijke wijzigingen in en de beëindiging van de overeenkomst:**
 
-4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de beleggingsinstelling en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt.
+3.7. Indien van toepassing: de organisatiestructuur van iedere bewaarder die de activa van meer dan een beleggingsinstelling bewaart.
 
-### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
+### 4. Financiële gegevens over de beheerder en de bewaarders
 
-5.5. Indien van toepassing: een beschrijving van de hoofdlijnen van overeenkomsten met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.
+5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder en iedere bewaarder en de halfjaarcijfers van de beheerder op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
 
-### 1. **Gegevens betreffende de door de partijen bij de overeenkomst te verrichten diensten en te volgen procedures:**
+### 6. Gegevens over vervanging van de beheerder of de bewaarder
 
-2.1. De namen van:
+6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
 
 ### 4. **Gegevens betreffende mogelijke wijzigingen in en de beëindiging van de overeenkomst:**
 
@@ -4629,15 +4577,15 @@ Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde str
 
 ### 11. Gegevens over de vergadering van deelnemers
 
-De werkzaamheden van de beheerder, te onderscheiden in:
+1.3. Indien in het kader van het beheer of de bewaring van de activa van de beleggingsinstelling werkzaamheden zijn of worden uitbesteed ten minste de volgende gegevens:
 
 ### 2. Gegevens over de personen die het (dagelijks) beleid van de beheerder en iedere bewaarder (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder en iedere bewaarder
 
-3.7. Indien van toepassing: de organisatiestructuur van iedere bewaarder die de activa van meer dan een beleggingsinstelling bewaart.
+1.7. Indien van toepassing: een beschrijving van de hoofdlijnen van de overeenkomst ter zake van beheer en bewaring tussen de beheerder en de bewaarder van de beleggingsinstelling en mededeling dat op verzoek een afschrift van de overeenkomst kan worden verkregen tegen ten hoogste de kostprijs.
 
 ### 4. Financiële gegevens over de beheerder en de bewaarders
 
-3.3. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beheerder met andere personen is verbonden.
+1.10. De namen van eventuele andere beleggingsinstellingen die worden beheerd door de beheerder van de beleggingsinstelling.
 
 ### 5. Gegevens over informatieverstrekking
 
@@ -4713,23 +4661,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 149a
 
-1. Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt, voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet, schadeverzekering of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de betreffende dienst of deze mogelijk maakt.
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt, tenzij de hoogte van de provisies die de bemiddelaar of adviseur bij de cliënt of degene die namens hem optreedt in rekening brengt kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;
-
-- b. afsluitprovisies of doorlopende provisies ter zake van betalingsbeschermers, complexe producten, hypothecaire kredieten of uitvaartverzekeringen, die worden verschaft door of aan een derde of degene die namens hem optreedt, indien:
-
-- 1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en
-
-- 2°. de verschaffing van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;
-
-- c. afsluitprovisies en doorlopende provisies ter zake van schadeverzekeringen die worden verschaft door of aan een derde of degene die namens hem optreedt, en de bemiddelaar of adviseur op verzoek van de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de desbetreffende dienst wordt verleend;
-
-- d. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.
-
-3. Voor de toepassing van het tweede lid, onderdelen b en c, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), mede verstaan een cliënt, niet zijnde een consument.
+Vervallen
 
 ##### Artikel 149b
 
@@ -4757,9 +4689,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 173a
 
-1. De [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=58&z=2012-01-01&g=2012-01-01) en [149a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.1&artikel=149a&z=2012-01-01&g=2012-01-01) zijn uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na 1 januari 2009, met uitzondering van overeenkomsten inzake schadeverzekeringen.
-
-2. De [artikelen 86b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86b&z=2012-01-01&g=2012-01-01) en [149a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=11&afdeling=11.1&artikel=149a&z=2012-01-01&g=2012-01-01), voorzover van toepassing op overeenkomsten inzake schadeverzekeringen, zijn uitsluitend van toepassing op overeenkomsten die aangegaan zijn op of na 1 januari 2012.
+[Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=32&z=2013-01-01&g=2013-01-01) is niet van toepassing op financiële producten ter zake waarvan na 31 december 2012 geen nieuwe overeenkomsten worden aangegaan met een consument of, indien het een verzekering betreft, een cliënt.
 
 ## Bijlage A. behorend bij [artikel 1, onderdeel dd](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2009-10-01&g=2009-10-01)
 
@@ -4811,23 +4741,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 4. Schadeverzekeringen
 
-### 6. Overige antecedenten als bedoeld in [artikel 13, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2011-07-01&g=2011-07-01)
+### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
 ### 6. Volmacht
 
-### 1.1. **Veroordelingen**
-
-### 3. Financiële antecedenten als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01)
-
-### 6. Overige antecedenten als bedoeld in [artikel 13, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01)
+### 5.2. **Zakelijk**
 
 ### 1. Gegevens over de werkzaamheden van de beheerder
 
-3.6. Indien van toepassing: een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin iedere bewaarder met andere personen is verbonden.
+### 5. Gegevens over informatieverstrekking
 
-### 14. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
+### 1. Gegevens over de werkzaamheden van de beheerder
 
-5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder en iedere bewaarder en de halfjaarcijfers van de beheerder op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
+De namen van de personen die het beleid van de beleggingsmaatschappij bepalen of mede bepalen of die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beleggingsmaatschappij, vermelding van de voornaamste door deze personen buiten de beleggingsmaatschappij uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beleggingsmaatschappij.
+
+### 3. Gegevens over wijzigingen in de voorwaarden
+
+3.1. De wijze waarop de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers kunnen worden gewijzigd.
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2009-10-01&g=2009-10-01)
 
@@ -4899,7 +4829,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 38f
 
-1. Een beleggingsonderneming die het beheren van een individueel vermogen van een niet-professionele belegger uitbesteedt aan een derde in een staat die geen lidstaat is, draagt er, onverminderd de [artikelen 38c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38c&z=2012-01-01&g=2012-01-01) en [38d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38d&z=2012-01-01&g=2012-01-01), zorg voor dat:
+1. Een beleggingsonderneming die het beheren van een individueel vermogen van een niet-professionele belegger uitbesteedt aan een derde in een staat die geen lidstaat is, draagt er, onverminderd de [artikelen 38c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38c&z=2013-01-01&g=2013-01-01) en [38d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38d&z=2013-01-01&g=2013-01-01), zorg voor dat:
 
 - a. de derde in de staat van herkomst voor het beheren van individueel vermogen een vergunning heeft of in een register is ingeschreven en onder prudentieel toezicht staat; en
 
@@ -4917,7 +4847,7 @@ Een betaalinstelling of elektronischgeldinstelling besteedt de taken en werkzaam
 
 ##### Artikel 38h
 
-Een betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38g&z=2012-01-01&g=2012-01-01) gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van de interne controle van de betaalinstelling of elektronischgeldinstelling.
+Een betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38g&z=2013-01-01&g=2013-01-01) gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van de interne controle van de betaalinstelling of elektronischgeldinstelling.
 
 ##### Artikel 38i
 
@@ -4943,11 +4873,11 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 ##### Artikel 59a
 
-1. Een aanbieder verstrekt voorafgaand aan de totstandkoming van een overeenkomst met een consument inzake een complex product of hypothecair krediet, aan de consument informatie over de totale prijs van het complexe product of hypothecaire krediet, met inbegrip van alle bijbehorende kosten.
+1. Een aanbieder verstrekt voorafgaand aan de totstandkoming van een overeenkomst inzake een complex product of hypothecair krediet aan de consument informatie over de totale prijs van het desbetreffende product met uitzondering van de advieskosten en distributiekosten, maar met inbegrip van alle bijbehorende kosten.
 
 2. Onverminderd het eerste lid verstrekt een aanbieder voorafgaand aan de totstandkoming van een overeenkomst met een consument inzake een complex product dat strekt tot vermogensopbouw, aan de consument, voor zover van toepassing, ten minste de volgende informatie:
 
-- a. het bedrag van de totale kosten;
+- a. het bedrag van de totale kosten, met uitzondering van de advieskosten en distributiekosten;
 
 - b. de kosten die worden ingehouden op de inleg of de premie, onderverdeeld naar soorten kosten, zoals in elk geval eerste kosten, doorlopende kosten en aan- en verkoopkosten;
 
@@ -4967,11 +4897,11 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 4. Het tweede lid, aanhef en de onderdelen b tot en met f, zijn niet van toepassing op een levensverzekeraar die een levensverzekering aanbiedt waarbij de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling.
 
-5. Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onderdeel d, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01) samenstellen en dat product in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
+5. Het eerste en tweede lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onderdeel d, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01) samenstellen en dat product in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
 
 ##### Artikel 59b
 
-1. Een betaaldienstverlener stelt een betaaldienstgebruiker voordat deze is gebonden door een overeenkomst betreffende een eenmalige betalingstransactie op gemakkelijk toegankelijke wijze de in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden ter beschikking.
+1. Een betaaldienstverlener stelt een betaaldienstgebruiker voordat deze is gebonden door een overeenkomst betreffende een eenmalige betalingstransactie op gemakkelijk toegankelijke wijze de in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden ter beschikking.
 
 2. Op verzoek van de betaaldienstgebruiker verstrekt de betaaldienstaanbieder hem de informatie en voorwaarden op papier of op een andere duurzame drager.
 
@@ -4979,7 +4909,7 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 4. Indien de overeenkomst betreffende een eenmalige betalingstransactie op verzoek van de betaaldienstgebruiker is gesloten met gebruikmaking van een techniek voor communicatie op afstand welke het de betaaldienstverlener onmogelijk maakt aan het eerste lid te voldoen, voldoet deze onmiddellijk na de uitvoering van de betalingstransactie aan zijn verplichtingen ingevolge het genoemde lid.
 
-5. Aan het eerste tot en met het derde lid kan ook worden voldaan door het verstrekken van een exemplaar van het ontwerpcontract betreffende een eenmalige betalingstransactie of de ontwerpbetaalopdracht waarin de in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden zijn opgenomen.
+5. Aan het eerste tot en met het derde lid kan ook worden voldaan door het verstrekken van een exemplaar van het ontwerpcontract betreffende een eenmalige betalingstransactie of de ontwerpbetaalopdracht waarin de in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden zijn opgenomen.
 
 ##### Artikel 59c
 
@@ -4993,17 +4923,17 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 - d. voor zover van toepassing, de bij de betalingstransactie toe te passen feitelijke of referentiewisselkoers.
 
-2. Voor zover van toepassing stelt de betaaldienstverlener de overige in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden op gemakkelijk toegankelijke wijze aan de betaaldienstgebruiker ter beschikking.
+2. Voor zover van toepassing stelt de betaaldienstverlener de overige in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden op gemakkelijk toegankelijke wijze aan de betaaldienstgebruiker ter beschikking.
 
 ##### Artikel 59d
 
-1. Een betaaldienstverlener verstrekt een betaaldienstgebruiker ruimschoots voordat deze is gebonden aan een raamovereenkomst voor betaaldiensten op papier of op een andere duurzame drager de in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden.
+1. Een betaaldienstverlener verstrekt een betaaldienstgebruiker ruimschoots voordat deze is gebonden aan een raamovereenkomst voor betaaldiensten op papier of op een andere duurzame drager de in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden.
 
 2. De betaaldienstverlener verstrekt de informatie en voorwaarden in gemakkelijk te begrijpen bewoordingen en in duidelijke en bevattelijke vorm. Indien de betaaldienstverlener de betaaldienst verleent aan een betaaldienstgebruiker in een lidstaat, verstrekt hij de in de vorige volzin bedoelde informatie en voorwaarden in een officiële taal van die lidstaat of in een andere taal die door de partijen is overeengekomen.
 
 3. Indien de raamovereenkomst voor betaaldiensten op verzoek van de betaaldienstgebruiker is gesloten met gebruikmaking van een techniek voor communicatie op afstand welke het de betaaldienstverlener onmogelijk maakt te voldoen aan het eerste lid, voldoet deze onmiddellijk na de sluiting van de raamovereenkomst aan zijn verplichtingen ingevolge het genoemde lid.
 
-4. Aan het eerste lid kan ook worden voldaan door het verstrekken van een exemplaar van de ontwerpraamovereenkomst waarin de in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden zijn opgenomen.
+4. Aan het eerste lid kan ook worden voldaan door het verstrekken van een exemplaar van de ontwerpraamovereenkomst waarin de in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden zijn opgenomen.
 
 ##### Artikel 59e
 
@@ -5063,23 +4993,23 @@ Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldien
 
 ##### Artikel 59f
 
-1. Een betaaldienstverlener verstrekt, in afwijking van de [artikelen 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2012-01-01&g=2012-01-01) en [59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2012-01-01&g=2012-01-01), met betrekking tot betaalinstrumenten die overeenkomstig een raamovereenkomst voor betaaldiensten uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen, de betaler uitsluitend informatie over de voornaamste kenmerken van de betaaldienst, met inbegrip van de wijze waarop van het betaalinstrument gebruik kan worden gemaakt, de aansprakelijkheid, alle in rekening gebrachte kosten en andere belangrijke informatie die nodig is om een weloverwogen besluit te nemen, en geeft tevens aan waar andere in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2012-01-01&g=2012-01-01) bedoelde informatie en voorwaarden op gemakkelijk toegankelijke wijze beschikbaar zijn gesteld.
+1. Een betaaldienstverlener verstrekt, in afwijking van de [artikelen 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2013-01-01&g=2013-01-01) en [59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2013-01-01&g=2013-01-01), met betrekking tot betaalinstrumenten die overeenkomstig een raamovereenkomst voor betaaldiensten uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen, de betaler uitsluitend informatie over de voornaamste kenmerken van de betaaldienst, met inbegrip van de wijze waarop van het betaalinstrument gebruik kan worden gemaakt, de aansprakelijkheid, alle in rekening gebrachte kosten en andere belangrijke informatie die nodig is om een weloverwogen besluit te nemen, en geeft tevens aan waar andere in [artikel 59d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59d&z=2013-01-01&g=2013-01-01) bedoelde informatie en voorwaarden op gemakkelijk toegankelijke wijze beschikbaar zijn gesteld.
 
 2. Voor nationale betalingstransacties worden de in het eerste lid genoemde bedragen verdubbeld.
 
 3. Voor vooraf betaalde betaalinstrumenten, bedoeld voor nationale betalingstransacties, worden de in het eerste lid genoemde bedragen verhoogd tot € 500.
 
-#### § 8.1.5. Financiële bijsluiter
+#### § 8.1.3. Reclame-uitingen en andere onverplichte precontractuele informatie
 
 ##### Artikel 71b
 
-1. In het tweede lid en de [artikelen 71c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71c&z=2012-01-01&g=2012-01-01) en [71d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71d&z=2012-01-01&g=2012-01-01) wordt onder eenmalige betalingstransacties verstaan een betalingstransactie waarop niet een raamovereenkomst voor betaaldiensten van toepassing is.
+1. In het tweede lid en de [artikelen 71c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71c&z=2013-01-01&g=2013-01-01) en [71d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71d&z=2013-01-01&g=2013-01-01) wordt onder eenmalige betalingstransacties verstaan een betalingstransactie waarop niet een raamovereenkomst voor betaaldiensten van toepassing is.
 
 2. Indien een betaalopdracht voor een eenmalige betalingstransactie wordt doorgegeven via een onder een raamovereenkomst voor betaaldiensten vallend betaalinstrument, is de betaaldienstverlener niet verplicht informatie te verstrekken of beschikbaar te stellen die reeds uit hoofde van een raamovereenkomst voor betaaldiensten met een andere betaaldienstverlener aan de betaaldienstgebruiker is verstrekt of volgens de raamovereenkomst aan hem zal worden verstrekt.
 
 ##### Artikel 71c
 
-Onmiddellijk na de ontvangst van een betaalopdracht voor een eenmalige betalingstransactie verstrekt de betaaldienstverlener van de betaler op dezelfde wijze als in [artikel 59a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2012-01-01&g=2012-01-01), is bepaald, aan de betaler de volgende informatie of stelt hij deze aan hem ter beschikking:
+Onmiddellijk na de ontvangst van een betaalopdracht voor een eenmalige betalingstransactie verstrekt de betaaldienstverlener van de betaler op dezelfde wijze als in [artikel 59a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2013-01-01&g=2013-01-01), is bepaald, aan de betaler de volgende informatie of stelt hij deze aan hem ter beschikking:
 
 - a. een referentie aan de hand waarvan de betaler kan bepalen om welke betalingstransactie het gaat, en, in voorkomend geval, de informatie betreffende de betalingsbegunstigde;
 
@@ -5087,13 +5017,13 @@ Onmiddellijk na de ontvangst van een betaalopdracht voor een eenmalige betalings
 
 - c. het bedrag van de voor de betalingstransactie door de betaler verschuldigde kosten en, voor zover van toepassing, de splitsing van de bedragen van dergelijke kosten;
 
-- d. voor zover van toepassing, de bij de betalingstransactie gehanteerde wisselkoers, of een desbetreffende referentie, indien deze verschilt van de overeenkomstig [artikel 59b, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59b&z=2012-01-01&g=2012-01-01), aangeboden wisselkoers, en het bedrag van de betalingstransactie na die valutawissel; en
+- d. voor zover van toepassing, de bij de betalingstransactie gehanteerde wisselkoers, of een desbetreffende referentie, indien deze verschilt van de overeenkomstig [artikel 59b, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59b&z=2013-01-01&g=2013-01-01), aangeboden wisselkoers, en het bedrag van de betalingstransactie na die valutawissel; en
 
 - e. de datum van ontvangst van de betaalopdracht.
 
 ##### Artikel 71d
 
-Een betaaldienstverlener verstrekt onmiddellijk na de uitvoering van een eenmalige betalingstransactie de volgende informatie aan de betalingsbegunstigde op dezelfde wijze als in [artikel 59a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2012-01-01&g=2012-01-01), is bepaald, of stelt deze aan hem ter beschikking:
+Een betaaldienstverlener verstrekt onmiddellijk na de uitvoering van een eenmalige betalingstransactie de volgende informatie aan de betalingsbegunstigde op dezelfde wijze als in [artikel 59a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2013-01-01&g=2013-01-01), is bepaald, of stelt deze aan hem ter beschikking:
 
 - a. de referentie aan de hand waarvan de betalingsbegunstigde kan bepalen welke betalingstransactie en, in voorkomend geval, welke betaler het betreft, en alle bij de betalingstransactie gevoegde informatie;
 
@@ -5111,7 +5041,7 @@ In geval van een door de betaler geïnitieerde afzonderlijke betalingstransactie
 
 ##### Artikel 71f
 
-1. Nadat het bedrag van een afzonderlijke betalingstransactie uit hoofde van een raamovereenkomst voor betaaldiensten van de betaalrekening van de betaler is gedebiteerd of, indien de betaler geen betaalrekening gebruikt, na ontvangst van de betaalopdracht, verstrekt de betaaldienstverlener van de betaler op de wijze bepaald in [artikel 59c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2012-01-01&g=2012-01-01), de betaler onverwijld de volgende informatie:
+1. Nadat het bedrag van een afzonderlijke betalingstransactie uit hoofde van een raamovereenkomst voor betaaldiensten van de betaalrekening van de betaler is gedebiteerd of, indien de betaler geen betaalrekening gebruikt, na ontvangst van de betaalopdracht, verstrekt de betaaldienstverlener van de betaler op de wijze bepaald in [artikel 59c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2013-01-01&g=2013-01-01), de betaler onverwijld de volgende informatie:
 
 - a. een referentie aan de hand waarvan de betaler kan bepalen welke betalingstransactie het betreft en, in voorkomend geval, informatie betreffende de betalingsbegunstigde;
 
@@ -5127,7 +5057,7 @@ In geval van een door de betaler geïnitieerde afzonderlijke betalingstransactie
 
 ##### Artikel 71g
 
-1. Na de uitvoering van een afzonderlijke betalingstransactie verstrekt de betaaldienstverlener van de betalingsbegunstigde op de wijze als bepaald in [artikel 59c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2012-01-01&g=2012-01-01), de betalingsbegunstigde onverwijld de volgende informatie:
+1. Na de uitvoering van een afzonderlijke betalingstransactie verstrekt de betaaldienstverlener van de betalingsbegunstigde op de wijze als bepaald in [artikel 59c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59c&z=2013-01-01&g=2013-01-01), de betalingsbegunstigde onverwijld de volgende informatie:
 
 - a. de referentie aan de hand waarvan de betalingsbegunstigde kan bepalen welke betalingstransactie het betreft en, in voorkomend geval, welke betaler het betreft, en alle bij de betalingstransactie gevoegde informatie;
 
@@ -5143,15 +5073,15 @@ In geval van een door de betaler geïnitieerde afzonderlijke betalingstransactie
 
 ##### Artikel 71h
 
-1. Een betaaldienstverlener verstrekt de betaaldienstgebruiker op diens verzoek de in de [artikelen 71f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71f&z=2012-01-01&g=2012-01-01), en [71g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71g&z=2012-01-01&g=2012-01-01), bedoelde informatie eenmaal per maand schriftelijk.
+1. Een betaaldienstverlener verstrekt de betaaldienstgebruiker op diens verzoek de in de [artikelen 71f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71f&z=2013-01-01&g=2013-01-01), en [71g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71g&z=2013-01-01&g=2013-01-01), bedoelde informatie eenmaal per maand schriftelijk.
 
 2. Het eerste lid is niet van toepassing ten aanzien van betaaldienstgebruikers aan wie via de website van de betaaldienstverlener de in het eerste lid bedoelde informatie wordt verstrekt, mits de betaaldienstgebruiker geheel of nagenoeg geheel via de website van deze betaaldienstverlener gebruik maakt van de door de desbetreffende betaaldienstverlener verleende betaaldiensten.
 
 ##### Artikel 71i
 
-1. Met betrekking tot betaalinstrumenten die overeenkomstig een raamovereenkomst voor betaaldiensten uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen verstrekt de betaaldienstverlener, in afwijking van [artikel 71e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71e&z=2012-01-01&g=2012-01-01), de betaler uitsluitend informatie over de voornaamste kenmerken van de betaaldienst, met inbegrip van de wijze waarop van het betaalinstrument gebruik kan worden gemaakt, de aansprakelijkheid, alle in rekening gebrachte kosten en andere belangrijke informatie die nodig is om een weloverwogen besluit te nemen;
+1. Met betrekking tot betaalinstrumenten die overeenkomstig een raamovereenkomst voor betaaldiensten uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen verstrekt de betaaldienstverlener, in afwijking van [artikel 71e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71e&z=2013-01-01&g=2013-01-01), de betaler uitsluitend informatie over de voornaamste kenmerken van de betaaldienst, met inbegrip van de wijze waarop van het betaalinstrument gebruik kan worden gemaakt, de aansprakelijkheid, alle in rekening gebrachte kosten en andere belangrijke informatie die nodig is om een weloverwogen besluit te nemen;
 
-2. Een betaaldienstverlener kan, in afwijking van de [artikelen 71f tot en met 71h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71f&z=2012-01-01&g=2012-01-01), met de betaaldienstgebruiker overeenkomen dat de betaaldienstverlener na uitvoering van een betalingstransactie:
+2. Een betaaldienstverlener kan, in afwijking van de [artikelen 71f tot en met 71h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71f&z=2013-01-01&g=2013-01-01), met de betaaldienstgebruiker overeenkomen dat de betaaldienstverlener na uitvoering van een betalingstransactie:
 
 - 1°. uitsluitend een referentie verstrekt of beschikbaar stelt waarmee de betaaldienstgebruiker van de betaaldienst de betalingstransactie, het daarmee gemoeide bedrag en de kosten ervan kan identificeren, of in het geval van verschillende gelijkaardige betalingstransacties aan dezelfde betalingsbegunstigde, uitsluitend informatie over het totale bedrag en de kosten van deze betalingstransacties;
 
@@ -5169,7 +5099,7 @@ In geval van een door de betaler geïnitieerde afzonderlijke betalingstransactie
 
 ##### Artikel 71k
 
-[Artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59f&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing op de ingevolge de [artikelen 71b tot en met 71j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71b&z=2012-01-01&g=2012-01-01) te verstrekken of ter beschikking te stellen informatie.
+[Artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59f&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing op de ingevolge de [artikelen 71b tot en met 71j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.6&artikel=71b&z=2013-01-01&g=2013-01-01) te verstrekken of ter beschikking te stellen informatie.
 
 ##### Artikel 71l
 
@@ -5209,7 +5139,7 @@ Een betaalinstelling of een elektronischgeldinstelling draagt er zorg voor dat b
 
 ### Afdeling 10.3. Rechten van deelneming in een beleggingsinstelling
 
-#### § 10.3.1. Regels voor alle beheerders, belegginginstellingen en bewaarders
+#### § 8.2.3. Provisies inzake overeenkomsten betreffende betalingsbeschermers, complexe producten, hypothecair krediet en uitvaartverzekeringen die zijn aangegaan voor de inwerkingtreding van [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01)
 
 #### § 10.2.2. Verplichting tot inwinnen van informatie en ten hoogste toegelaten kredietvergoeding
 
@@ -5360,11 +5290,11 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ### 1. Algemene gegevens over de beleggingsinstelling
 
-### 4. Financiële gegevens over de beheerder en de bewaarders
+### 2.4. **Andere feiten of omstandigheden**
 
-### 1. Algemene gegevens over de beleggingsinstelling
+### 3. Financiële antecedenten als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01)
+### 5.3. **Andere feiten of omstandigheden**
 
 ### 4.2. **Andere feiten of omstandigheden**
 
@@ -5374,49 +5304,49 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 3.7. Indien van toepassing: de organisatiestructuur van iedere bewaarder die de activa van meer dan een beleggingsinstelling bewaart.
 
-4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de [artikelen 3:53](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) en [3:57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is voldaan.
+3.2. Vermelding van het feit dat een voorstel tot wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder en dat het voorstel tot wijziging op de website van de beheerder wordt toegelicht.
 
-4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder en iedere bewaarder is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld.
+3.3. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder, en dat de wijziging op de website van de beheerder wordt toegelicht.
 
-6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
+3.4. Dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
 
-5.1. De wijze waarop de beheerder periodiek informatie verschaft.
+3.5. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor het beleggingsbeleid wordt gewijzigd niet wordt ingevoerd voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
 
 5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moeten zijn afgesloten.
 
 ### 7. Gegevens over de rechten van deelneming
 
-5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder en iedere bewaarder en de halfjaarcijfers van de beheerder op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
+4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beleggingsinstelling op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
 
-1.3. Indien in het kader van het beheer of de bewaring van de activa van de beleggingsinstelling werkzaamheden zijn of worden uitbesteed ten minste de volgende gegevens:
+4.3. De plaatsen waar de vergunning van de beheerder van de beleggingsinstelling en het fondsreglement of de statuten van de beleggingsinstelling verkrijgbaar zijn.
 
 ### 7. Gegevens over de rechten van deelneming
 
-6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
+4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de beleggingsinstelling en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt.
 
 ### 11. Gegevens over de vergadering van deelnemers
 
-1.7. Indien van toepassing: een beschrijving van de hoofdlijnen van de overeenkomst ter zake van beheer en bewaring tussen de beheerder en de bewaarder van de beleggingsinstelling en mededeling dat op verzoek een afschrift van de overeenkomst kan worden verkregen tegen ten hoogste de kostprijs.
+4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de beleggingsinstelling, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
 
 1.1. De rechtsvorm van de beleggingsinstelling.
 
 ### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
 
-1.3. Indien in het kader van het beheer of de bewaring van de activa van de beleggingsinstelling werkzaamheden zijn of worden uitbesteed ten minste de volgende gegevens:
+5.2. De wijze waarop wordt bepaald of de opbrengsten van de beleggingsinstelling worden uitgekeerd of herbelegd.
 
-1.4. De naam van adviseurs en adviesbureaus van wier diensten de beleggingsinstelling ter zake van haar beleggingen gebruik maakt. Indien het een instelling voor collectieve belegging in effecten betreft: de werkzaamheden van de adviseurs en adviesbureaus, voor zover het beroep op hun diensten bij overeenkomst is vastgelegd, en op welke wijze de kosten van de werkzaamheden ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling, en de vermelding van belang kan zijn voor de deelnemers.
+5.3. De eventueel aan de beleggingsactiviteiten gestelde grenzen en de wijze waarop hierin wijziging kan worden aangebracht.
 
-1.5. Indien van toepassing: de naam en het kantooradres van de accountant die de jaarrekening van de beleggingsinstelling over het laatste boekjaar heeft gecontroleerd.
+5.4. Indien van toepassing: de bevoegdheid om als debiteur leningen aan te gaan of financiële instrumenten uit te lenen.
 
 ### 13. Gegevens over het belastingstelsel
 
-1.7. Indien van toepassing: een beschrijving van de hoofdlijnen van de overeenkomst ter zake van beheer en bewaring tussen de beheerder en de bewaarder van de beleggingsinstelling en mededeling dat op verzoek een afschrift van de overeenkomst kan worden verkregen tegen ten hoogste de kostprijs.
+5.6. Indien transacties worden verricht met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen:
 
-1.8. Een verklaring dat de bewaarder volgens het recht van de staat waar de beleggingsinstelling haar zetel heeft jegens de beleggingsinstelling en de deelnemers aansprakelijk is voor door hen geleden schade voorzover de schade het gevolg is van verwijtbare niet-nakoming of gebrekkige nakoming van zijn verplichtingen, ook wanneer de bewaarder de bij hem in bewaring gegeven activa geheel of ten dele aan een derde heeft toevertrouwd.
+5.7. Indien van toepassing: een verklaring dat de beleggingsinstelling in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen kan beleggen.
 
 ### 14. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
 
-1.10. De namen van eventuele andere beleggingsinstellingen die worden beheerd door de beheerder van de beleggingsinstelling.
+5.9. Indien de beleggingsinstelling twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling:
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2009-11-01&g=2009-11-01)
 
@@ -5490,7 +5420,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 11a
 
-Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2012-01-01&g=2012-01-01), voldoet degene die binnen achttien maanden na inwerkingtreding van PE-toetstermen:
+Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2013-01-01&g=2013-01-01), voldoet degene die binnen achttien maanden na inwerkingtreding van PE-toetstermen:
 
 - 1. beschikt over een certificaat dat is afgegeven door een door Onze Minister erkend instituut voor permanente educatie waaruit blijkt dat hij met goed gevolg een PE-onderwijsprogramma heeft gevolgd met betrekking tot de in zijn geval relevante toetstermen;
 
@@ -5502,7 +5432,7 @@ Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoof
 
 ##### Artikel 11b
 
-1. Onze Minister erkent een instituut voor permanente educatie op aanvraag, indien de aanvrager heeft aangetoond te zullen voldoen aan [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2012-01-01&g=2012-01-01), voor zover het in dat artikel bepaalde op de aanvrager van toepassing is.
+1. Onze Minister erkent een instituut voor permanente educatie op aanvraag, indien de aanvrager heeft aangetoond te zullen voldoen aan [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2013-01-01&g=2013-01-01), voor zover het in dat artikel bepaalde op de aanvrager van toepassing is.
 
 2. Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.
 
@@ -5514,7 +5444,7 @@ Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoof
 
 - b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning, na de erkenning zodanig onjuist of onvolledig blijken, dat de erkenning zou zijn geweigerd of zonder voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest; of
 
-- c. indien het instituut voor permanente educatie niet langer voldoet aan [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2012-01-01&g=2012-01-01) of [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11d&z=2012-01-01&g=2012-01-01) of aan een voorschrift of voorwaarde, verbonden aan de erkenning.
+- c. indien het instituut voor permanente educatie niet langer voldoet aan [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2013-01-01&g=2013-01-01) of [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11d&z=2013-01-01&g=2013-01-01) of aan een voorschrift of voorwaarde, verbonden aan de erkenning.
 
 ##### Artikel 11c
 
@@ -5530,7 +5460,7 @@ Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoof
 
 - e. een adequaat kwaliteitsborgingssysteem.
 
-2. Een erkend instituut voor permanente educatie biedt een PE-onderwijsprogramma meerdere malen in Nederland aan waarbij kandidaten die beschikken over het relevante diploma, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2012-01-01&g=2012-01-01), worden toegelaten.
+2. Een erkend instituut voor permanente educatie biedt een PE-onderwijsprogramma meerdere malen in Nederland aan waarbij kandidaten die beschikken over het relevante diploma, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-01-01&g=2013-01-01), worden toegelaten.
 
 3. Een erkend instituut voor permanente educatie stemt in met een door Onze Minister te organiseren controle.
 
@@ -5570,17 +5500,17 @@ Aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoof
 
 ##### Artikel 11d
 
-1. Een erkend instituut voor permanente educatie verstrekt aan Onze Minister twee maanden na de periode, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2012-01-01&g=2012-01-01), een opgave van het aantal afgenomen PE-onderwijsprogramma’s, de geanonimiseerde klachten over de PE-onderwijsprogramma’s, de slagingspercentages die zijn geregistreerd door het instituut voor permanente educatie en een analyse daarvan.
+1. Een erkend instituut voor permanente educatie verstrekt aan Onze Minister twee maanden na de periode, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2013-01-01&g=2013-01-01), een opgave van het aantal afgenomen PE-onderwijsprogramma’s, de geanonimiseerde klachten over de PE-onderwijsprogramma’s, de slagingspercentages die zijn geregistreerd door het instituut voor permanente educatie en een analyse daarvan.
 
 2. Een erkend instituut voor permanente educatie verstrekt aan Onze Minister op diens verzoek de gegevens die Onze Minister nodig heeft voor de uitoefening van zijn in dit hoofdstuk omschreven taken.
 
-3. Met het toezicht op de naleving van de [artikelen 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11b&z=2012-01-01&g=2012-01-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2012-01-01&g=2012-01-01) zijn belast de bij besluit van Onze Minister aangewezen personen.
+3. Met het toezicht op de naleving van de [artikelen 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11b&z=2013-01-01&g=2013-01-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11c&z=2013-01-01&g=2013-01-01) zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 4. Van een besluit als bedoeld in het derde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 11e
 
-Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling permanente educatie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0023907&artikel=3) berust na de inwerkingtreding van het [Wijzigingsbesluit financiële markten 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026789) op [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11b&z=2012-01-01&g=2012-01-01).
+Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling permanente educatie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0023907&artikel=3) berust na de inwerkingtreding van het [Wijzigingsbesluit financiële markten 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026789) op [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=2&paragraaf=2.5&artikel=11b&z=2013-01-01&g=2013-01-01).
 
 ### Hoofdstuk 4. Integere uitoefening van het bedrijf
 
@@ -5612,7 +5542,7 @@ Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling 
 
 ##### Artikel 59g
 
-1. Een betaaldienstverlener brengt een betaaldienstgebruiker geen kosten in rekening voor de ingevolge de [artikelen 59a tot en met 59e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2012-01-01&g=2012-01-01) te verstrekken informatie.
+1. Een betaaldienstverlener brengt een betaaldienstgebruiker geen kosten in rekening voor de ingevolge de [artikelen 59a tot en met 59e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.1&paragraaf=8.1.4&artikel=59a&z=2013-01-01&g=2013-01-01) te verstrekken informatie.
 
 2. Een betaaldienstverlener en een betaaldienstgebruiker kunnen overeenkomen dat kosten in rekening worden gebracht voor door de betaaldienstgebruiker gevraagde aanvullende informatie of voor informatie die frequenter of met andere communicatiemiddelen wordt verstrekt dan in de raamovereenkomst voor betaaldiensten is bepaald.
 
@@ -5628,7 +5558,7 @@ Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling 
 
 ### Afdeling 9.1. Melding wijzigingen door financiële ondernemingen
 
-#### § 9.1.4. Financiëledienstverleners
+#### § 8.2.2. Bepalingen ter uitvoering van de [artikelen 4:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25a), en [4:25b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25b)
 
 #### § 9.1.2. Beleggingsondernemingen
 
@@ -5642,9 +5572,9 @@ Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling 
 
 #### § 10.2.1. Kredietprospectus
 
-### Afdeling 9.2. Meldingsplicht accountant
+### Afdeling 9.1. Melding wijzigingen door financiële ondernemingen
 
-#### § 10.2.2. Verplichting tot inwinnen van informatie
+#### § 9.1.1. Beheerders
 
 #### § 10.2.1. Precontractuele informatie inzake krediet
 
@@ -5714,7 +5644,7 @@ Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling 
 
 ### 3. Consumptief krediet
 
-### 5. Levensverzekeringen
+### 1.1. **Veroordelingen**
 
 ### 2. Gegevens over de personen die het (dagelijks) beleid van de beheerder en iedere bewaarder (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder en iedere bewaarder
 
@@ -5722,41 +5652,41 @@ Een erkenning die is verleend op grond van [artikel 3 van de Erkenningsregeling 
 
 ### 6. Volmacht
 
-### 2.3. **(Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging**
+### 2. **Gegevens betreffende de uitwisseling van informatie, de verplichtingen inzake vertrouwelijkheid en het witwassen van geld en de financiering van terrorisme:**
 
 ### 2. **Gegevens betreffende de uitwisseling van informatie, de verplichtingen inzake vertrouwelijkheid en het witwassen van geld en de financiering van terrorisme:**
 
 ### 7. Gegevens over de rechten van deelneming
 
-6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder of de bewaarder.
+4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt.
 
-1.6. Indien van toepassing: de naam van de bewaarder die de activa van de beleggingsinstelling bewaart.
+4.6. Vermelding van het feit dat aan de deelnemers in de beleggingsinstelling op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt:
 
 ### 2. Gegevens over de personen die het (dagelijks) beleid van de beleggingsmaatschappij (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beleggingsmaatschappij
 
-1.6. Indien van toepassing: de naam van de bewaarder die de activa van de beleggingsinstelling bewaart.
+5.5. Indien van toepassing: een beschrijving van de hoofdlijnen van overeenkomsten met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.
 
 ### 3. Gegevens over wijzigingen in de voorwaarden
 
-1.9. Een beschrijving van de formele of feitelijke zeggenschapsstructuur waarin de beleggingsmaatschappij met andere personen is verbonden.
+5.8. Indien van toepassing: een verklaring dat de beleggingsinstelling direct of indirect kan beleggen in andere beleggingsinstellingen.
 
 ### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
 
-1.11. De wijze waarop deelnemers klachten over de beleggingsinstelling kunnen indienen bij de beheerder.
+5.10. Indien van toepassing: een verklaring dat de beleggingsinstelling belegt in een andere beleggingsmaatschappij die een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij is of in een andere beleggingsinstelling die beheerd wordt door een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij en de voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling plaatsvindt.
 
-3.5. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor het beleggingsbeleid wordt gewijzigd niet wordt ingevoerd voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
+5.11. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: een beschrijving van het beleggingsbeleid van de andere beleggingsinstelling.
 
-De namen van de personen die het beleid van de beleggingsmaatschappij bepalen of mede bepalen of die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beleggingsmaatschappij, vermelding van de voornaamste door deze personen buiten de beleggingsmaatschappij uitgeoefende activiteiten voor zover deze activiteiten verband houden met de werkzaamheden van de beleggingsmaatschappij.
+5.12. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling:
 
 ### 3. Gegevens over wijzigingen in de voorwaarden
 
-3.1. De wijze waarop de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers kunnen worden gewijzigd.
+5.14. Indien van toepassing: de wijze waarop en de voorwaarden waaronder derden in opdracht van de beleggingsmaatschappij of in opdracht van haar beheerder de markt in deelnemingsrechten onderhouden.
 
-3.2. Vermelding van het feit dat een voorstel tot wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder en dat het voorstel tot wijziging op de website van de beheerder wordt toegelicht.
+5.15. Indien het een instelling voor collectieve belegging in effecten betreft: het profiel van het type belegger tot wie de beleggingsinstelling zich richt.
 
 ### 14. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
 
-3.4. Dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd tegenover de deelnemers niet wordt ingeroepen voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
+5.17. Indien het een instelling voor collectieve belegging in effecten betreft: de categorieën effecten, geldmarktinstrumenten of financiële derivaten waarin de beleggingsinstelling mag beleggen; een verklaring of de beleggingsinstelling transacties met betrekking tot financiële derivaten mag verrichten en zo ja, dan wordt duidelijk vermeld of dat gebruik van de financiële derivaten mag dienen voor risicodekking dan wel ter verwezenlijking van beleggingsdoelstellingen, alsmede het mogelijke effect van het gebruik van deze effecten, geldmarktinstrumenten of financiële derivaten op het risicoprofiel.
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2010-01-01&g=2010-01-01)
 
@@ -5828,7 +5758,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 35i
 
-1. Een financiële onderneming legt het beleid inzake beloningen als bedoeld in [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86a&z=2012-01-01&g=2012-01-01) schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van de financiële onderneming en aan de aard, omvang en complexiteit van haar bedrijf.
+1. Een financiële onderneming legt het beleid inzake beloningen als bedoeld in [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86a&z=2013-01-01&g=2013-01-01) schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van de financiële onderneming en aan de aard, omvang en complexiteit van haar bedrijf.
 
 2. Het beleid inzake beloningen omschrijft, onder verwijzing naar de specifieke financiële diensten of andere activiteiten die door of in naam van de financiële onderneming worden verleend respectievelijk verricht, de beloningscomponenten en beloningsstructuren die kunnen leiden tot het risico van onzorgvuldige behandeling van consumenten, cliënten of deelnemers, alsmede de te volgen procedures en maatregelen die dat risico voorkomen en beheersen.
 
@@ -5858,7 +5788,7 @@ Een financiële onderneming maakt een beschrijving van haar beleid inzake beloni
 
 #### § 8.1.1a. Cliëntenclassificatie
 
-#### § 8.1.2a. Informatieverstrekking door beleggingsondernemingen
+#### § 8.1.1. Inleidende bepalingen
 
 #### § 8.1.5. Financiële bijsluiter
 
@@ -5996,11 +5926,11 @@ Een overeenkomst als bedoeld in [artikel 4:71c, tweede lid, van de wet](https://
 
 ### 3.1. **Persoonlijk**
 
-5.3. De datum waarop de jaarrekening van iedere bewaarder op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moet zijn afgesloten.
+4.1. De wijze waarop de beleggingsinstelling periodiek informatie verstrekt.
 
 ### 1. Algemene gegevens over de beleggingsinstelling
 
-1.2. De naam van de beleggingsinstelling, de statutaire zetel en plaats van het hoofdkantoor van de beleggingsinstelling, de oprichtingsdatum, de tijd waarvoor de beleggingsinstelling is opgericht indien deze niet voor onbepaalde tijd is aangegaan, en, indien van toepassing, het nummer van de inschrijving van de beleggingsinstelling in het handelsregister en de plaats van de inschrijving.
+5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s.
 
 ### 9. Gegevens over het behaalde rendement van de beleggingsinstelling
 
@@ -6008,23 +5938,23 @@ Een overeenkomst als bedoeld in [artikel 4:71c, tweede lid, van de wet](https://
 
 ### 4. Gegevens over informatieverstrekking
 
-4.1. De wijze waarop de beleggingsinstelling periodiek informatie verstrekt.
+5.13. Indien van toepassing: de gereglementeerde markt en de andere markten in financiële instrumenten waar de financiële instrumenten worden verhandeld waarin de beleggingsinstelling belegt.
 
 ### 12. Gegevens over waardering activa
 
-3.3. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers bekend wordt gemaakt in een advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder, en dat de wijziging op de website van de beheerder wordt toegelicht.
+5.16. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: de staat, het openbaar lichaam met verordende bevoegdheid of de internationale organisatie waarin een of meer lidstaten deelnemen, die effecten of geldmarktinstrumenten uitgeeft of garandeert waarin de beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt alsmede van de ontheffing daartoe ingevolge [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2013-01-01&g=2013-01-01).
 
-3.5. Vermelding van het feit dat een wijziging van de voorwaarden die gelden tussen de beleggingsinstelling en de deelnemers waardoor het beleggingsbeleid wordt gewijzigd niet wordt ingevoerd voordat een maand is verstreken na bekendmaking van de wijziging als bedoeld onder 3.3 en dat deelnemers binnen deze periode onder de gebruikelijke voorwaarden kunnen uittreden.
+5.18. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de beleggingsinstelling voornamelijk in financiële derivaten belegt of een aandelen- of obligatie-index als bedoeld in [artikel 138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=138&z=2013-01-01&g=2013-01-01), volgt.
 
 ### 4. Gegevens over informatieverstrekking
 
-4.1. De wijze waarop de beleggingsinstelling periodiek informatie verstrekt.
+5.20 Indien het een feeder-instelling voor collectieve belegging in effecten betreft:
 
 4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beleggingsinstelling op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn.
 
 ### 11. Gegevens over de vergadering van deelnemers
 
-4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt.
+6.2. De kosten gemoeid met het beheer van de beleggingsinstelling, de bewaring van de activa van de beleggingsinstelling, de accountant, het toezicht en de marketing, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2011-01-01&g=2011-01-01)
 
@@ -6098,11 +6028,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Een beheerder van een instelling voor collectieve belegging in effecten stelt procedures en regelingen vast en past die toe zodat hij in staat is om de Autoriteit Financiële Markten op verzoek zo spoedig mogelijk financiële verslagen te verstrekken die een getrouw beeld geven van zijn financiële positie en die aan alle toepasselijke standaarden en regels voor financiële verslaggeving voldoen.
 
-2. Onverminderd [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2012-01-01&g=2012-01-01) wordt de administratie van een instelling voor collectieve belegging in effecten zodanig gevoerd dat de activa en passiva van de instelling voor collectieve belegging in effecten te allen tijde rechtstreeks kunnen worden geïdentificeerd.
+2. Onverminderd [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2013-01-01&g=2013-01-01) wordt de administratie van een instelling voor collectieve belegging in effecten zodanig gevoerd dat de activa en passiva van de instelling voor collectieve belegging in effecten te allen tijde rechtstreeks kunnen worden geïdentificeerd.
 
-3. Een beheerder van een instelling voor collectieve belegging in effecten onderwerpt de waardevaststelling van financiële derivaten, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2012-01-01&g=2012-01-01), aan een adequate, accurate en onafhankelijke toetsing.
+3. Een beheerder van een instelling voor collectieve belegging in effecten onderwerpt de waardevaststelling van financiële derivaten, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2013-01-01&g=2013-01-01), aan een adequate, accurate en onafhankelijke toetsing.
 
-4. De procedure met betrekking tot de waardevaststelling van financiële derivaten, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2012-01-01&g=2012-01-01), is adequaat en evenredig gelet op de aard en complexiteit van de desbetreffende financiële derivaten.
+4. De procedure met betrekking tot de waardevaststelling van financiële derivaten, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2013-01-01&g=2013-01-01), is adequaat en evenredig gelet op de aard en complexiteit van de desbetreffende financiële derivaten.
 
 5. De procedure, bedoeld in het vierde lid, wordt op adequate wijze vastgelegd.
 
@@ -6110,7 +6040,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 38k
 
-1. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=37&z=2012-01-01&g=2012-01-01), [38g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38g&z=2012-01-01&g=2012-01-01), [38h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38h&z=2012-01-01&g=2012-01-01) en [38j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38j&z=2012-01-01&g=2012-01-01) zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.
+1. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=37&z=2013-01-01&g=2013-01-01), [38g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38g&z=2013-01-01&g=2013-01-01), [38h](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38h&z=2013-01-01&g=2013-01-01) en [38j](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=6&artikel=38j&z=2013-01-01&g=2013-01-01) zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.
 
 2. Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling of de elektronischgeldinstelling van de vergunningsvereisten, als bedoeld in [artikel 2:3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3b) respectievelijk [artikel 2:10b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10b), of van andere verplichtingen ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=7b), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten of uitgifte van elektronisch geld.
 
@@ -6156,7 +6086,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 10.3.1. Regels voor alle beheerders, belegginginstellingen en bewaarders
 
-#### § 10.2.2. Verplichting tot inwinnen van informatie en ten hoogste toegelaten kredietvergoeding
+#### § 9.1.3. Collectieve vergunninghouders
 
 ### Afdeling 10.4. Verzekeringen
 
@@ -6210,13 +6140,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage D. behorend bij [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=117&z=2011-03-26&g=2011-03-26)
 
-### 3. Algemene gegevens over de beheerder en de bewaarders
+### 2.2. **Transacties**
 
 ## Bijlage E. behorend bij [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=118&z=2011-03-26&g=2011-03-26)
 
-### 4. Financiële gegevens over de beheerder en de bewaarders
+### 3.2. **Zakelijk**
 
-### 3. Gegevens over wijzigingen in de voorwaarden
+### 6. Overige antecedenten als bedoeld in [artikel 13, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
 ### 3.3. **Andere feiten of omstandigheden**
 
@@ -6224,15 +6154,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 9. Gegevens over het behaalde rendement van de beleggingsinstelling
 
-4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de beleggingsinstelling, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
+5.19. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de waarde van de activa als gevolg van het beleggingsbeleid sterk kan fluctueren.
 
-### 9. Gegevens over het behaalde rendement van de beleggingsinstelling
+### 6. Gegevens over kosten en vergoedingen
 
-4.3. De plaatsen waar de vergunning van de beheerder van de beleggingsinstelling en het fondsreglement of de statuten van de beleggingsinstelling verkrijgbaar zijn.
+6.1. De kosten van oprichting van de beleggingsinstelling en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling en welk gedeelte ten goede komt aan de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, de bewaarder of aan met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.
 
 ### 10. Gegevens over opheffing van de beleggingsinstelling
 
-4.6. Vermelding van het feit dat aan de deelnemers in de beleggingsinstelling op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt:
+6.4. Indien van toepassing: de kosten die worden gemaakt of vergoedingen die worden gevraagd in verband met het in- en uitlenen van financiële instrumenten, en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling, onderscheidenlijk aan wie deze vergoedingen ten goede komen.
 
 ## Bijlage F. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2011-03-26&g=2011-03-26)
 
@@ -6304,7 +6234,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 68a
 
-Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een variabele kredietvergoeding informeert de aanbieder de consument over elke wijziging van de kredietvergoeding, waarbij hij de consument tevens informeert over het gewijzigde jaarlijks kostenpercentage.
+Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een variabele debetrentevoet informeert de aanbieder de consument over elke wijziging van de debetrentevoet, waarbij hij de consument tevens informeert over:
+
+- a. het gewijzigde jaarlijks kostenpercentage; en
+
+- b. de component of componenten waardoor de debetrentevoet is gewijzigd.
 
 ### Afdeling 8.2. Overige bepalingen met betrekking tot zorgvuldige dienstverlening
 
@@ -6356,21 +6290,21 @@ Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een va
 
 - l. voor zover van toepassing, de periode gedurende welke de aanbieder van het krediet door de precontractuele informatie is gebonden.
 
-3. De informatie kan worden verstrekt door gebruikmaking van het formulier, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=E&z=2012-01-01&g=2012-01-01) van dit besluit. Alle informatie wordt even opvallend weergegeven.
+3. De informatie kan worden verstrekt door gebruikmaking van het formulier, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=E&z=2013-01-01&g=2013-01-01) van dit besluit. Alle informatie wordt even opvallend weergegeven.
 
 4. De aanbieder verstrekt aan de consument op zijn verzoek een kosteloos exemplaar van de ontwerpovereenkomst inzake krediet, tenzij de aanbieder op het tijdstip van het verzoek niet voornemens is de overeenkomst met de consument aan te gaan.
 
 5. Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder, in afwijking van het eerste lid, de informatie, bedoeld in [artikel 7:61 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=61), onmiddellijk na de totstandkoming van de overeenkomst aan de consument.
 
-6. Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in [bijlage A, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2012-01-01&g=2012-01-01).
+6. Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in [bijlage A, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=A&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 112b
 
-De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot effectenkrediet kan worden verstrekt door gebruikmaking van het formulier, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=F&z=2012-01-01&g=2012-01-01) van dit besluit. De informatie bevat de in die bijlage bedoelde gegevens. Alle informatie wordt even opvallend weergegeven.
+De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot effectenkrediet kan worden verstrekt door gebruikmaking van het formulier, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=F&z=2013-01-01&g=2013-01-01) van dit besluit. De informatie bevat de in die bijlage bedoelde gegevens. Alle informatie wordt even opvallend weergegeven.
 
 ##### Artikel 112c
 
-De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in [artikel 112a, tweede lid, onderdelen c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2012-01-01&g=2012-01-01), bedoelde gegevens met betrekking tot de kenmerken van het krediet.
+De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33), met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in [artikel 112a, tweede lid, onderdelen c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.2&paragraaf=10.2.1&artikel=112a&z=2013-01-01&g=2013-01-01), bedoelde gegevens met betrekking tot de kenmerken van het krediet.
 
 ##### Artikel 115a
 
@@ -6442,182 +6376,63 @@ Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van 
 
 ### 3.2. **Zakelijk**
 
-## Bijlage D. Standaardinformatie inzake consumptief krediet
+## Bijlage A. , inhoudende de basisvergelijking en aanvullende hypothesen, bedoeld in de definitie van jaarlijks kostenpercentage in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01)
 
-| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
-| --- | --- |
-| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+- I. **De basisvergelijking die de gelijkwaardigheid van de kredietopnemingen enerzijds en de aflossingen en kosten anderzijds weergeeft.** De basisvergelijking ter bepaling van het jaarlijks kostenpercentage (JKP) geeft op jaarbasis de gelijkheid weer tussen de som van de geactualiseerde waarden van de kredietopnemingen enerzijds, en de som van de geactualiseerde waarden van de aflossingen en kosten anderzijds: waarin: X = het JKP; m = het volgnummer van de laatste kredietopneming; k = het volgnummer van een kredietopneming, waarbij 1 ≤ k ≤ m; Ck = het bedrag van kredietopneming nummer k; tk = het tijdsinterval, uitgedrukt in jaren en fracties van jaren, tussen de datum van de eerste kredietopneming en de datum van elke latere kredietopneming, waarbij t1 = 0; m’ = het volgnummer van de laatste aflossing of betaling; l = het volgnummer van een aflossing of betaling; Dl = het bedrag van een aflossing of betaling; sl = het tijdsinterval, uitgedrukt in jaren en fracties van jaren, tussen de datum van de eerste kredietopneming en de datum van elke aflossing of betaling. Opmerkingen:
 
-(*) Deze informatie is voor de aanbieder van krediet facultatief
+- a). de door beide partijen op diverse tijdstippen betaalde bedragen zijn niet noodzakelijk gelijk en worden niet noodzakelijk met gelijke tussenpozen betaald.
 
-Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+- b). de aanvangsdatum is die van de eerste kredietopneming.
 
-De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+- c). het verschil tussen de data die bij de berekeningsmethoden worden gebruikt, wordt uitgedrukt in jaren of fracties van jaren. Een jaar wordt geacht 365 dagen (voor schrikkeljaren 366 dagen), 52 weken of twaalf gelijke maanden te tellen. Een gelijke maand wordt geacht 30,41666 dagen te tellen (dat wil zeggen 365/12), zowel voor gewone jaren als schrikkeljaren.
 
-| Het soort krediet |   |
-| --- | --- |
-| Het totale kredietbedrag **Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.** |   |
-| De voorwaarden voor kredietopneming **Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.** |   |
-| De duur van de kredietovereenkomst |   |
-| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend | U dient het volgende te betalen: [Het bedrag, het aantal en de periodiciteit van de door de consument te verrichten betalingen.] Rente en/of kosten zijn als volgt te betalen: |
-| Totaal door u te betalen bedrag **Bedoeld wordt het bedrag van het geleende kapitaal, vermeerderd met de rente en eventuele kosten in verband met uw krediet.** | [Som van het totale kredietbedrag en de totale kredietkosten] |
-| Indien van toepassing Het krediet wordt verleend in de vorm van uitstel van betaling voor een goed of dienst of wordt gekoppeld aan de levering van een bepaald goed of het aanbieden van een dienst. Naam van het goed/de dienst Contante prijs |   |
-| Indien van toepassing |   |
-| Gevraagde zekerheden | [Soort zekerheden] |
-| Beschrijving van de door u in verband met de kredietovereenkomst te verstrekken zekerheden. |   |
-| Indien van toepassing Betalingen geven geen aanleiding tot directe aflossing van het kapitaal. |   |
+- d). de uitkomst van de berekening wordt ten minste tot op de eerste decimaal weergegeven. Als de volgende decimaal groter is dan of gelijk is aan 5, wordt de eerste decimaal met 1 vermeerderd.
 
-| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst | [% – vast, of – variabel (met de index of referentierente-voet die betrekking heeft op de aanvankelijke debetrentevoet) – perioden] |
-| --- | --- |
-| Jaarlijks kostenpercentage (JKP) **Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag.** **Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.** | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen] |
-| Is het, met het oog op het verkrijgen van het krediet, in voorkomend geval op de geadverteerde voorwaarden, verplicht om |   |
-| – een verzekering ter waarborging van het krediet, of | Ja/neen [zo ja, soort verzekering aangeven] |
-| – een andere nevendienst af te nemen? | Ja/neen [zo ja, soort nevendienst aangeven] |
-| **Indien de kosten van deze diensten de aanbieder van krediet niet bekend zijn, worden zij niet in het JKP opgenomen.** |   |
-|   |   |
-| **Met het krediet verbonden kosten** |   |
-| Indien van toepassing Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen |   |
-| Indien van toepassing Bedrag van de kosten voor het gebruik van een specifiek betaalmiddel (bijvoorbeeld een kredietkaart) |   |
-| Indien van toepassing Eventuele andere kosten die voortvloeien uit de kredietovereenkomst |   |
-| Indien van toepassing Voorwaarden waaronder de hierboven genoemde aan de kredietovereenkomst verbonden kosten voor wijziging vatbaar zijn |   |
-| Indien van toepassing Verplichting tot betaling van notariskosten |   |
-| Kosten in het geval van betalingsachterstand |   |
-| **Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.** | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
+- e). de vergelijking kan met slechts één sommatie worden herschreven aan de hand van het begrip flux (Ak). De flux is positief of negatief, dat wil zeggen wordt gedurende de perioden 1 tot en met k respectievelijk betaald of ontvangen, en wordt uitgedrukt in jaren: S is het saldo van de geactualiseerde flux en bedraagt nul indien de flux gelijkwaardig is.
 
-| Herroepingsrecht **U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.** | Ja/Neen |
-| --- | --- |
-| Vervroegde aflossing **U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.** |   |
-| Indien van toepassing De aanbieder van krediet heeft het recht op vergoeding bij vervroegde aflossing | [Bepaling van de vergoeding (berekeningsmethode) overeenkomstig de uitvoeringsbepalingen van artikel 16 van Richtlijn 2008/48/EG] |
-| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
-| Recht om een ontwerpkredietovereenkomst te ontvangen **U hebt het recht om op verzoek kosteloos een exemplaar van de ontwerpkredietovereenkomst te verkrijgen. Deze bepaling is niet van toepassing indien de aanbieder van krediet ten tijde van het verzoek niet voornemens is de overeenkomst met u aan te gaan.** |   |
-| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
+- II. **Aanvullende hypothesen voor de berekening van het jaarlijks kostenpercentage:**
 
-**Indien van toepassing**
+- a). indien de consument op grond van de overeenkomst inzake krediet vrij kan kiezen hoeveel krediet hij opneemt, wordt verondersteld dat het totale kredietbedrag onmiddellijk volledig wordt opgenomen;
 
-| **a) betreffende de aanbieder van krediet** |   |
-| --- | --- |
-| Indien van toepassing |   |
-| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont | [Identiteit] |
-| Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Geografisch adres voor gebruik door de consument] |
-| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
-| Indien van toepassing De toezichthoudende autoriteit |   |
-|   |   |
-| **b) betreffende de kredietovereenkomst** |   |
-| Indien van toepassing Uitoefening van het herroepingsrecht | [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere de termijn waarbinnen het kan worden uitgeoefend, het adres waarnaar de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht] |
-| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
-| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
-| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
-|   |   |
-| **c) betreffende beroepsprocedures** |   |
-| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
+- b). indien een overeenkomst inzake krediet de consument in het algemeen de vrijheid biedt om te kiezen hoeveel krediet hij opneemt, maar bij de verschillende wijzen van kredietopneming een beperking oplegt met betrekking tot het bedrag en de termijn, wordt verondersteld dat het kredietbedrag op de vroegste datum waarin de overeenkomst voorziet, overeenkomstig deze opnemingsbeperkingen wordt opgenomen;
 
-(*) Deze informatie is voor de aanbieder van krediet facultatief.
+- c). indien een overeenkomst inzake krediet mogelijkheden van kredietopneming met verschillende kosten of debetrentevoeten biedt, wordt verondersteld dat het totale kredietbedrag tegen de hoogste kosten en debetrentevoet wordt opgenomen, toegepast op het meest gebruikelijke mechanisme voor kredietopneming waarvan in het kader van dat soort overeenkomst inzake krediet wordt gebruikgemaakt;
 
-## Bijlage E. Consumptief kredietinformatie voor geoorloofde debetstand op een rekening
+- d). in geval van een geoorloofde debetstand op een rekening wordt verondersteld dat het totale kredietbedrag volledig en voor de volledige duur van de overeenkomst inzake krediet wordt opgenomen. Indien de duur van de geoorloofde debetstand onbekend is, wordt bij de berekening van het jaarlijks kostenpercentage uitgegaan van de hypothese dat de duur van het krediet drie maanden bedraagt;
 
-| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
-| --- | --- |
-| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+- e) in geval van een andere overeenkomst inzake krediet voor onbepaalde tijd dan een geoorloofde debetstand wordt geacht dat: In dit punt wordt onder een overeenkomst inzake krediet voor onbepaalde tijd een doorlopend krediet verstaan, met inbegrip van een krediet dat binnen of na een bepaalde periode volledig moet worden terugbetaald, maar vervolgens, na terugbetaling, weer beschikbaar is om te worden opgenomen.
 
-(*) Deze informatie is voor de aanbieder van krediet facultatief
+- i). het krediet vanaf de datum van de eerste kredietopneming voor een periode van één jaar wordt verstrekt en dat de laatste betaling door de consument het saldo van het kapitaal, de rente en de eventuele overige kosten dekt; en
 
-Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+- ii). het kapitaal vanaf één maand na de datum van de eerste kredietopneming door de consument in gelijke maandelijkse termijnen wordt terugbetaald. In gevallen waarin het kapitaal binnen elke betalingstermijn uitsluitend volledig in één betaling moet worden terugbetaald, worden achtereenvolgende kredietopnemingen en terugbetalingen door de consument van het gehele kapitaal geacht over de periode van één jaar plaats te vinden. Rente en overige kosten worden overeenkomstig deze kredietopnemingen en terugbetalingen van kapitaal toegepast zoals in de overeenkomst inzake krediet vastgelegd.
 
-De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+- f). in geval van andere overeenkomsten inzake krediet dan geoorloofde debetstanden en kredieten voor onbepaalde tijd zoals bedoeld in de hypothesen in de onderdelen d en e:
 
-| Het soort krediet |   |
-| --- | --- |
-| Het totale kredietbedrag | [Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.] |
-| De duur van de kredietovereenkomst |   |
-| Indien van toepassing U kunt te allen tijde verzocht worden het kredietbedrag volledig terug te betalen |   |
+- i). indien de datum of het bedrag van een door de consument te verrichten terugbetaling van kapitaal niet kan worden vastgesteld, wordt de terugbetaling geacht te zijn verricht op de vroegste datum en met het laagste bedrag waarin de overeenkomst inzake krediet voorziet;
 
-| De debetrentevoet of, in voorkomend geval, de verschillende debetrentevoeten die voor de kredietovereenkomst gelden. | [% – vast, of – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet)] |
-| --- | --- |
-| Indien van toepassing |   |
-| Jaarlijks kostenpercentage (JKP) **Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag. Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.** | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen] |
-| Indien van toepassing |   |
-| Kosten Indien van toepassing De voorwaarden waaronder deze kosten kunnen worden gewijzigd | [De vanaf het sluiten van de kredietovereenkomst in rekening te brengen kosten.] |
-| Kosten in het geval van betalingsachterstand | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
+- ii). indien de datum waarop de overeenkomst inzake krediet is gesloten, niet bekend is, wordt de datum van de eerste kredietopneming geacht de datum te zijn met de kortste tijdspanne tussen deze datum en de datum waarop de consument de eerste betaling moet verrichten.
 
-| Beëindiging van de kredietovereenkomst | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst] |
-| --- | --- |
-| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
-| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
+- g). wanneer de datum of het bedrag van een door de consument te verrichten betaling op basis van de overeenkomst inzake krediet of op basis van de hypothesen in onderdeel d, e of f niet kan worden vastgesteld, wordt de betaling geacht te zijn verricht overeenkomstig de data en voorwaarden van de schuldeiser en, indien deze onbekend zijn:
 
-**Indien van toepassing**
+- i). wordt de rente samen met de terugbetalingen van kapitaal betaald;
 
-| **a) betreffende de aanbieder van krediet** |   |
-| --- | --- |
-| Indien van toepassing |   |
-| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont | [Identiteit] |
-| Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Geografisch adres voor gebruik door de consument] |
-| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
-| Indien van toepassing De toezichthoudende autoriteit |   |
-|   |   |
-| **b) betreffende de kredietovereenkomst** |   |
-| Herroepingsrecht **U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.** Indien van toepassing Uitoefening van het herroepingsrecht | Ja/neen [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere naar welk adres de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht] |
-| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
-| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
-| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
-|   |   |
-| **c) betreffende beroepsprocedures** |   |
-| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
+- ii). worden in één bedrag uitgedrukte niet-rentekosten betaald op de datum waarop de overeenkomst inzake krediet wordt gesloten;
 
-(*) Deze informatie is voor de aanbieder van krediet facultatief.
+- iii). worden in verschillende betalingen uitgedrukte niet-rentekosten in periodieke termijnen betaald, te beginnen op de datum van de eerste terugbetaling van kapitaal, en indien het bedrag van dergelijke betalingen onbekend is, worden deze geacht gelijke bedragen te zijn; en
 
-## Bijlage F. Standaardinformatie inzake effectenkrediet
+- iv). dekt de laatste betaling het saldo van het kapitaal, de rente en de eventuele overige kosten;
 
-| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
-| --- | --- |
-| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+- h). indien het plafond dat op het krediet van toepassing is, nog niet is overeengekomen, wordt het geacht € 1500 te bedragen;
 
-(*) Deze informatie is voor de aanbieder in krediet facultatief.
+- i). indien voor een beperkte termijn of een beperkt bedrag verschillende debetrentevoeten en kosten worden aangeboden, worden de hoogste rentevoet en de hoogste kosten geacht de debetrentevoet en de kosten voor de gehele duur van de overeenkomst inzake krediet te zijn;
 
-Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+- j). met betrekking tot overeenkomsten inzake krediet waarvoor een vaste debetrentevoet voor de eerste periode is overeengekomen en waarvoor aan het eind van deze periode een nieuwe debetrentevoet wordt vastgesteld die vervolgens periodiek wordt aangepast volgens een overeengekomen indicator, wordt bij de berekening van het jaarlijks kostenpercentage uitgegaan van de hypothese dat vanaf het eind van de periode met vaste debetrentevoet de debetrentevoet dezelfde is als op het ogenblik van de berekening van het jaarlijks kostenpercentage, gebaseerd op de waarde van de overeengekomen indicator op dat moment.
 
-De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+## Bijlage B. behorend bij artikel 5
 
-| Het soort krediet | [doorlopend krediet] |
-| --- | --- |
-| Aangeven dat het krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en, indien van toepassing, bepaalde spreidingseisen. |   |
-| Welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten. |   |
-| De dekkingspercentages per soort financieel instrument en indien van toepassing de eisen ten aanzien van de samenstelling van de in onderpand gegeven financiële instrumenten. |   |
-| De voorwaarden voor kredietopneming **Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.** |   |
-| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend | Wijze waarop rente en/of kosten in rekening worden gebracht [bijvoorbeeld: rente en/of kosten worden bijgeschreven ten laste van het krediet] [De periodiciteit van de door de consument te verrichten betalingen.] |
-| Gevraagde zekerheden | [Soort zekerheden] |
+Vervallen
 
-| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst | [% – vast, of – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet) – perioden] |
-| --- | --- |
-| Vier representatieve voorbeeldberekeningen van de totale kosten van het effectenkrediet gebaseerd op verschillende kredietlimieten. |   |
-| Indien van toepassing Met het krediet verband houdende kosten |   |
-| Indien van toepassing Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen |   |
-| Kosten in het geval van betalingsachterstand **Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.** | Voor wanbetaling wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
-
-| Beëindiging van de kredietovereenkomst | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst] |
-| --- | --- |
-| Herroepingsrecht | Neen |
-| Vervroegde aflossing **U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.** |   |
-| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
-| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
-
-**Indien van toepassing**
-
-| **a) betreffende de aanbieder van krediet** |   |
-| --- | --- |
-| Indien van toepassing Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
-| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
-| Indien van toepassing De toezichthoudende autoriteit |   |
-|   |   |
-| **b) betreffende de kredietovereenkomst** |   |
-| Herroepingsrecht | Neen |
-| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
-| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
-| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
-|   |   |
-| **c) betreffende beroepsprocedures** |   |
-| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
-
-(*) Deze informatie is voor de aanbieder van krediet facultatief.
+## Bijlage C. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
 ## Bijlage D. Standaardinformatie inzake consumptief krediet
 
@@ -6690,13 +6505,13 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 (*) Deze informatie is voor de aanbieder van krediet facultatief.
 
-### 2. Gegevens over de personen die het (dagelijks) beleid van de beheerder en iedere bewaarder (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder en iedere bewaarder
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
-### 4. Financiële gegevens over de beheerder en de bewaarders
+### 3.1. **Persoonlijk**
 
 ## Bijlage H. behorend bij [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=118&z=2011-06-02&g=2011-06-02)
 
-### 6. Gegevens over vervanging van de beheerder of de bewaarder
+### 5.1. **Persoonlijk**
 
 ### 5. Gegevens over de activiteiten en het beleggingsbeleid
 
@@ -6704,25 +6519,25 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ### 5. Gegevens over de activiteiten en het beleggingsbeleid
 
-4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de beleggingsinstelling en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt.
+6.3. De transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
 
 ### 11. Gegevens over de vergadering van deelnemers
 
-4.7. Vermelding van het feit dat de betaalbaarstelling van uitkeringen aan deelnemers in de beleggingsinstelling, de samenstelling van de uitkeringen alsmede de wijze van betaalbaarstelling worden bekendgemaakt per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.
+6.5. Indien van toepassing: de kosten van het verlenen van opdrachten aan derden om een of meer werkzaamheden in het kader van het beheer van de beleggingsinstelling of de bewaring van de activa van de beleggingsinstelling te verrichten en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
 
-5.7. Indien van toepassing: een verklaring dat de beleggingsinstelling in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen kan beleggen.
+6.6. Alle andere dan onder 6.1 tot en met 6.5 bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
 
-5.1. Een beschrijving van de beleggingsdoeleinden met inbegrip van de financiële doelstellingen, zoals kapitaalgroei of inkomsten, de beleggingsportefeuille en het beleggingsbeleid, zoveel mogelijk onderverdeeld naar economische sector en geografische spreiding, de aard van de goederen waarin wordt belegd en de aan het beleggingsbeleid en de aard van de goederen waarin wordt belegd, verbonden risico’s.
+6.7. Indien de hoogte van de in 6.1 tot en met 6.6 bedoelde kosten nog niet bekend is: het maximum van deze kosten.
 
 ### 12. Gegevens over waardering activa
 
-5.3. De eventueel aan de beleggingsactiviteiten gestelde grenzen en de wijze waarop hierin wijziging kan worden aangebracht.
+6.9. De naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen.
 
-5.4. Indien van toepassing: de bevoegdheid om als debiteur leningen aan te gaan of financiële instrumenten uit te lenen.
+6.10. De wijze waarop de op- en afslagen worden berekend en aan wie de op- en afslagen ten goede komen, alsmede alle overige eenmalige bedragen die de deelnemers in de beleggingsinstelling betalen bij toe- en uittreding, inclusief de berekeningsgrondslag.
 
 ### 13. Gegevens over het belastingstelsel
 
-5.6. Indien transacties worden verricht met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen:
+6.12. Indien van toepassing: beschrijving van afspraken over goederen die de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beheerder of de beleggingsinstelling ontvangen of in het vooruitzicht worden gesteld.
 
 ## Bijlage I. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2011-06-02&g=2011-06-02)
 
@@ -6810,7 +6625,7 @@ Vervallen
 
 #### § 10.3.2. Aanvullende regels voor instellingen voor collectieve belegging in effecten
 
-### Afdeling 10.4. Verzekeringen
+### Afdeling 10.3. Rechten van deelneming in een beleggingsinstelling
 
 ### Hoofdstuk 11. Aanvullende regels betreffende bemiddelen
 
@@ -6942,7 +6757,7 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ### 2.2. **Transacties**
 
-### 2.4. **Andere feiten of omstandigheden**
+### 5. **Overige gegevens met betrekking tot de overeenkomst:**
 
 ### 4.1. **Toezichtantecedenten**
 
@@ -6954,13 +6769,13 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ### 12. Gegevens over waardering activa
 
-5.2. De wijze waarop wordt bepaald of de opbrengsten van de beleggingsinstelling worden uitgekeerd of herbelegd.
+6.8. De som van de in 6.1 tot en met 6.6 bedoelde kosten.
 
 5.7. Indien van toepassing: een verklaring dat de beleggingsinstelling in met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen kan beleggen.
 
 ### 14. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
 
-5.9. Indien de beleggingsinstelling twintig procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling:
+7.2. De aard en de voornaamste kenmerken van de rechten van deelneming in de beleggingsinstelling, waaronder een beschrijving van het eventuele aan de rechten van deelneming verbonden stemrecht alsmede van de vorm waarin en de eventuele beperkingen waaronder zij verhandeld kunnen worden.
 
 ## Bijlage I. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2011-06-30&g=2011-06-30)
 
@@ -7032,7 +6847,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 116a
 
-1. Onverminderd [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=116&z=2012-01-01&g=2012-01-01) bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:43) tussen een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat en een bewaarder met zetel in een andere lidstaat, tevens de gegevens, genoemd in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=G&z=2012-01-01&g=2012-01-01).
+1. Onverminderd [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=116&z=2013-01-01&g=2013-01-01) bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:43) tussen een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat en een bewaarder met zetel in een andere lidstaat, tevens de gegevens, genoemd in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=G&z=2013-01-01&g=2013-01-01).
 
 2. Verplichtingen tot vertrouwelijkheid die op de beheerder en de bewaarder bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:43) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de instelling voor collectieve belegging in effecten tot relevante informatie.
 
@@ -7060,7 +6875,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage G. behorend bij [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=117&z=2011-07-01&g=2011-07-01)
 
-### 7. Pensioenverzekeringen en premiepensioenvorderingen
+### 4. Toezichtantecedenten als bedoeld in [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01)
 
 ## Bijlage H. behorend bij [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=118&z=2011-07-01&g=2011-07-01)
 
@@ -7070,15 +6885,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 11. Gegevens over de vergadering van deelnemers
 
-5.5. Indien van toepassing: een beschrijving van de hoofdlijnen van overeenkomsten met de met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.
+6.11. Indien van toepassing: beschrijving van afspraken over retourprovisies met vermelding van degenen aan wie de retourprovisies ten goede komen.
 
 ### 13. Gegevens over het belastingstelsel
 
-5.8. Indien van toepassing: een verklaring dat de beleggingsinstelling direct of indirect kan beleggen in andere beleggingsinstellingen.
+7.1. De wijze waarop en voorwaarden waaronder het aanbieden van de rechten van deelneming plaatsvindt.
 
 ### 14. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
 
-5.10. Indien van toepassing: een verklaring dat de beleggingsinstelling belegt in een andere beleggingsmaatschappij die een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij is of in een andere beleggingsinstelling die beheerd wordt door een met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partij en de voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling plaatsvindt.
+7.3. Een verklaring omtrent een eventuele notering van de beleggingsinstelling op een gereglementeerde markt of een andere markt in financiële instrumenten.
 
 ## Bijlage I. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2011-07-01&g=2011-07-01)
 
@@ -7156,7 +6971,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. toezicht houden op de goedkeuring van beleggingsstrategieën voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten;
 
-- c. erop toezien dat de beheerder over een effectieve compliancefunctie beschikt als bedoeld in [artikel 31c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2012-01-01&g=2012-01-01), heeft, ook al wordt deze functie door een derde uitgeoefend;
+- c. erop toezien dat de beheerder over een effectieve compliancefunctie beschikt als bedoeld in [artikel 31c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.1&artikel=31c&z=2013-01-01&g=2013-01-01), heeft, ook al wordt deze functie door een derde uitgeoefend;
 
 - d. ervoor zorgen en zich periodiek van vergewissen dat het algemene beleggingsbeleid, de beleggingsstrategieën en de risicolimieten voor elke door de beheerder beheerde instelling voor collectieve belegging in effecten op behoorlijke en doeltreffende wijze worden uitgevoerd en in acht genomen, ook al wordt de risicobeheerfunctie door een derde uitgeoefend;
 
@@ -7168,7 +6983,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 34b
 
-1. Een beheerder van een instelling voor collectieve belegging in effecten treft maatregelen die waarborgen dat gegevens ten behoeve van de reconstructie van elke transactie, bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2012-01-01&g=2012-01-01), worden bijgehouden.
+1. Een beheerder van een instelling voor collectieve belegging in effecten treft maatregelen die waarborgen dat gegevens ten behoeve van de reconstructie van elke transactie, bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2013-01-01&g=2013-01-01), worden bijgehouden.
 
 2. De gegevens, bedoeld in het eerste lid, omvatten in ieder geval:
 
@@ -7222,7 +7037,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 34d
 
-1. Een beheerder van een instelling voor collectieve belegging in effecten bewaart de gegevens, bedoeld in de [artikelen 34b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34b&z=2012-01-01&g=2012-01-01), en [34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34c&z=2012-01-01&g=2012-01-01), gedurende tenminste vijf jaar.
+1. Een beheerder van een instelling voor collectieve belegging in effecten bewaart de gegevens, bedoeld in de [artikelen 34b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34b&z=2013-01-01&g=2013-01-01), en [34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=5&paragraaf=5.2&artikel=34c&z=2013-01-01&g=2013-01-01), gedurende tenminste vijf jaar.
 
 2. Een beheerder van een instelling voor collectieve belegging in effecten bewaart de gegevens op een duurzame drager in en zodanige vorm en op zodanige wijze dat:
 
@@ -7286,7 +7101,7 @@ Indien een premiepensioeninstelling of pensioenbewaarder in het kader van het be
 
 4. Een aanbieder van rechten van deelneming in een beleggingsinstelling of degene die beleggingsdiensten verleent als bedoeld in artikel 1, onderdelen a, b, of d, van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling, verstrekt geruime tijd voorafgaand aan een inschrijving op de rechten van deelneming in een beleggingsinstelling kosteloos de essentiële beleggersinformatie aan de cliënt. De essentiële beleggersinformatie wordt schriftelijk, op een duurzame drager of via een website verstrekt. Op verzoek wordt de essentiële beleggersinformatie kosteloos schriftelijk aan de cliënt verstrekt.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01), samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in [artikel 1, onder 1°, 4° of 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënten.
 
 ##### Artikel 66a
 
@@ -7462,7 +7277,7 @@ Een beheerder die door middel van het verrichten van diensten een instelling voo
 
 1. Een beheerder die een transactie voor eigen rekening samenvoegt met een order van een instelling voor collectieve belegging in effecten of cliënt, wijst de desbetreffende transactie niet toe op een voor de instelling voor collectieve belegging in effecten respectievelijk cliënt nadelige wijze.
 
-2. Indien een beheerder een order van een instelling voor collectieve belegging in effecten of cliënt samenvoegt met een transactie voor eigen rekening en de samengevoegde order slechts ten dele wordt uitgevoerd, geeft hij de order van de instelling voor collectieve belegging in effecten of cliënt bij de toewijzing van de desbetreffende transactie voorrang op zijn eigen transactie. Het is de beheerder slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig zijn orderuitvoeringsbeleid, bedoeld in [artikel 126f, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126f&z=2012-01-01&g=2012-01-01), indien hij kan aantonen dat de order van de instelling voor collectieve belegging in effecten of cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.
+2. Indien een beheerder een order van een instelling voor collectieve belegging in effecten of cliënt samenvoegt met een transactie voor eigen rekening en de samengevoegde order slechts ten dele wordt uitgevoerd, geeft hij de order van de instelling voor collectieve belegging in effecten of cliënt bij de toewijzing van de desbetreffende transactie voorrang op zijn eigen transactie. Het is de beheerder slechts toegestaan een transactie als bedoeld in de vorige volzin naar evenredigheid toe te wijzen overeenkomstig zijn orderuitvoeringsbeleid, bedoeld in [artikel 126f, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126f&z=2013-01-01&g=2013-01-01), indien hij kan aantonen dat de order van de instelling voor collectieve belegging in effecten of cliënt niet of niet op dezelfde gunstige voorwaarden had kunnen uitvoeren als deze niet was samengevoegd.
 
 ##### Artikel 126h
 
@@ -7496,7 +7311,7 @@ Een beheerder die door middel van het verrichten van diensten een instelling voo
 
 ##### Artikel 147a
 
-1. In afwijking van [artikel 139, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=139&z=2012-01-01&g=2012-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten voor meer dan twintig procent worden belegd in een bepaalde master-instelling voor collectieve belegging in effecten indien de Autoriteit Financiële Markten daarmee heeft ingestemd. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen vijftien werkdagen na ontvangst van de aanvraag van instemming.
+1. In afwijking van [artikel 139, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=139&z=2013-01-01&g=2013-01-01), kan het beheerde vermogen van een instelling voor collectieve belegging in effecten voor meer dan twintig procent worden belegd in een bepaalde master-instelling voor collectieve belegging in effecten indien de Autoriteit Financiële Markten daarmee heeft ingestemd. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen vijftien werkdagen na ontvangst van de aanvraag van instemming.
 
 2. De Autoriteit Financiële Markten stemt met de aanvraag in, indien de beheerder aantoont dat de feeder-instelling voor collectieve belegging in effecten, haar bewaarder, haar accountant en de master-instelling voor collectieve belegging in effecten zullen voldoen aan het bepaalde ingevolge de [artikelen 4:57a tot en met 4:57c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57a), [4:61a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61a) en [4:61b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61b) en het bepaalde in deze paragraaf.
 
@@ -7506,9 +7321,9 @@ Een beheerder die door middel van het verrichten van diensten een instelling voo
 
 - b. het prospectus en de essentiële beleggersinformatie van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten;
 
-- c. de overeenkomst tot uitwisseling van informatie tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), of de interne regels met betrekking tot de bedrijfsvoering, bedoeld in artikel 147b, vierde lid;
+- c. de overeenkomst tot uitwisseling van informatie tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), of de interne regels met betrekking tot de bedrijfsvoering, bedoeld in artikel 147b, vierde lid;
 
-- d. indien van toepassing, de aan de deelnemers te verstrekken informatie, bedoeld in [artikel 147f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2012-01-01&g=2012-01-01);
+- d. indien van toepassing, de aan de deelnemers te verstrekken informatie, bedoeld in [artikel 147f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2013-01-01&g=2013-01-01);
 
 - e. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b) tussen de bewaarder van de feeder-instelling voor collectieve belegging in effecten en de bewaarder van de master-instelling voor collectieve belegging in effecten;
 
@@ -7528,23 +7343,23 @@ Een beheerder die door middel van het verrichten van diensten een instelling voo
 
 4. Indien de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten worden beheerd door dezelfde beheerder, kan in afwijking van het eerste lid, worden volstaan met bedrijfsvoeringsregels van de beheerder die waarborgen dat uitwisseling van informatie plaatsvindt tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten. Het tweede lid is van overeenkomstige toepassing op de interne bedrijfsvoeringsregels.
 
-5. Onverminderd het tweede lid voorziet de overeenkomst, bedoeld in het eerste lid, respectievelijk voorzien de bedrijfsvoeringsregels, bedoeld in het vierde lid, in het bepaalde in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=J&z=2012-01-01&g=2012-01-01).
+5. Onverminderd het tweede lid voorziet de overeenkomst, bedoeld in het eerste lid, respectievelijk voorzien de bedrijfsvoeringsregels, bedoeld in het vierde lid, in het bepaalde in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=J&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 147c
 
-De overeenkomst tot uitwisseling van informatie tussen de bewaarders als bedoeld in de [artikel 4:57b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b) en een overeenkomst tot uitwisseling van informatie tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) bevatten de gegevens, genoemd in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=J&z=2012-01-01&g=2012-01-01).
+De overeenkomst tot uitwisseling van informatie tussen de bewaarders als bedoeld in de [artikel 4:57b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b) en een overeenkomst tot uitwisseling van informatie tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) bevatten de gegevens, genoemd in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=J&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 147d
 
-1. Indien een feeder-instelling voor collectieve belegging in effecten en haar master-instelling voor collectieve belegging in effecten beide hun zetel in Nederland hebben is uitsluitend het Nederlands recht van toepassing op de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01).
+1. Indien een feeder-instelling voor collectieve belegging in effecten en haar master-instelling voor collectieve belegging in effecten beide hun zetel in Nederland hebben is uitsluitend het Nederlands recht van toepassing op de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01).
 
-2. Indien de feeder-instelling voor collectieve belegging in effecten of de master-instelling voor collectieve belegging in effecten haar zetel in een andere lidstaat heeft, dan bepaalt de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), dat uitsluitend het Nederlands recht of het recht van die andere lidstaat van toepassing is op die overeenkomst.
+2. Indien de feeder-instelling voor collectieve belegging in effecten of de master-instelling voor collectieve belegging in effecten haar zetel in een andere lidstaat heeft, dan bepaalt de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), dat uitsluitend het Nederlands recht of het recht van die andere lidstaat van toepassing is op die overeenkomst.
 
 3. Het recht van de lidstaat dat op grond van het eerste of tweede lid van toepassing is op een overeenkomst tot uitwisseling van informatie is eveneens van toepassing op een overeenkomst tussen de bewaarders van de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:57b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b) en een overeenkomst tussen de accountants van de feeder-instelling voor collectieve belegging in effecten en master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c).
 
-4. Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), voorziet een overeenkomst tussen bewaarders als bedoeld [artikel 4:57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b), respectievelijk tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) erin dat het recht van de lidstaat van de zetel van de feeder-instelling voor collectieve belegging in effecten of het recht van de lidstaat van de zetel van de master-instelling voor collectieve belegging in effecten bij uitsluiting van toepassing is op de overeenkomst.
+4. Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet een overeenkomst tussen bewaarders als bedoeld [artikel 4:57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b), respectievelijk tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) erin dat het recht van de lidstaat van de zetel van de feeder-instelling voor collectieve belegging in effecten of het recht van de lidstaat van de zetel van de master-instelling voor collectieve belegging in effecten bij uitsluiting van toepassing is op de overeenkomst.
 
-5. De overeenkomsten, bedoeld in de [artikelen 4:57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b), en [4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) en [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), bepalen dat de rechter van de lidstaat waarvan het recht van toepassing is op de overeenkomst, wordt aangewezen voor de kennisneming van geschillen welke naar aanleiding van de overeenkomst ontstaan of zullen ontstaan.
+5. De overeenkomsten, bedoeld in de [artikelen 4:57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b), en [4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) en [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), bepalen dat de rechter van de lidstaat waarvan het recht van toepassing is op de overeenkomst, wordt aangewezen voor de kennisneming van geschillen welke naar aanleiding van de overeenkomst ontstaan of zullen ontstaan.
 
 ##### Artikel 147e
 
@@ -7638,7 +7453,7 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 - 3°. de wijzigingen van het prospectus en de essentiële beleggersinformatie; en
 
-- 4°. de documenten, bedoeld in [artikel 147a, derde lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147a&z=2012-01-01&g=2012-01-01);
+- 4°. de documenten, bedoeld in [artikel 147a, derde lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147a&z=2013-01-01&g=2013-01-01);
 
 - b. indien de feeder-instelling voor collectieve belegging in effecten voornemens is zich om te zetten in een instelling voor collectieve belegging in effecten, niet zijnde een feeder-instelling voor collectieve belegging in effecten:
 
@@ -7654,19 +7469,19 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 ##### Artikel 147q
 
-1. De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens een besluit op een aanvraag van instemming als bedoeld in [artikel 147p, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2012-01-01&g=2012-01-01).
+1. De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens een besluit op een aanvraag van instemming als bedoeld in [artikel 147p, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2013-01-01&g=2013-01-01).
 
 2. De feeder-instelling voor collectieve belegging in effecten informeert de master-instelling voor collectieve belegging in effecten over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.
 
-3. De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming, bedoeld in [artikel 147p, eerste lid, onderdeel a, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2012-01-01&g=2012-01-01), zo spoedig mogelijk maatregelen om aan het bepaalde in [artikel 147f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2012-01-01&g=2012-01-01) te voldoen.
+3. De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming, bedoeld in [artikel 147p, eerste lid, onderdeel a, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2013-01-01&g=2013-01-01), zo spoedig mogelijk maatregelen om aan het bepaalde in [artikel 147f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2013-01-01&g=2013-01-01) te voldoen.
 
-4. Uitbetaling van liquidatieopbrengsten van de master-instelling voor collectieve belegging in effecten aan de feeder-instelling voor collectieve belegging in effecten die plaatsvindt voorafgaand aan de datum waarop de feeder-instelling voor collectieve belegging in effecten haar beleggingsbeleid overeenkomstig [artikel 147p, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2012-01-01&g=2012-01-01), wijzigt, behoeft instemming van de Autoriteit Financiële Markten. De Autoriteit Financiële Markten stemt in met de uitbetaling indien:
+4. Uitbetaling van liquidatieopbrengsten van de master-instelling voor collectieve belegging in effecten aan de feeder-instelling voor collectieve belegging in effecten die plaatsvindt voorafgaand aan de datum waarop de feeder-instelling voor collectieve belegging in effecten haar beleggingsbeleid overeenkomstig [artikel 147p, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147p&z=2013-01-01&g=2013-01-01), wijzigt, behoeft instemming van de Autoriteit Financiële Markten. De Autoriteit Financiële Markten stemt in met de uitbetaling indien:
 
 - a. de feeder-instelling voor collectieve belegging in effecten de uitbetaling van de liquidatieopbrengsten ontvangt:
 
 - 1°. in contanten; of
 
-- 2°. in de vorm van een gehele of gedeeltelijke overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en voor zover de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, en het besluit tot liquidatie daarin voorzien; en
+- 2°. in de vorm van een gehele of gedeeltelijke overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en voor zover de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, en het besluit tot liquidatie daarin voorzien; en
 
 - b. de feeder-instelling voor collectieve belegging in effecten de contanten uitsluitend herbelegd met het oog op een efficiënt contantenbeheer.
 
@@ -7692,7 +7507,7 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 - 3°. de wijzigingen van het prospectus en de essentiële beleggersinformatie; en
 
-- 4°. de documenten, bedoeld in [artikel 147a, derde lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147a&z=2012-01-01&g=2012-01-01);
+- 4°. de documenten, bedoeld in [artikel 147a, derde lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147a&z=2013-01-01&g=2013-01-01);
 
 - c. indien de feeder-instelling voor collectieve belegging in effecten voornemens is zich om te zetten in een instelling voor collectieve belegging in effecten, niet zijnde een feeder-instelling voor collectieve belegging in effecten:
 
@@ -7720,15 +7535,15 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 ##### Artikel 147s
 
-1. De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens, een besluit op een aanvraag van instemming als bedoeld in [artikel 147r, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2012-01-01&g=2012-01-01).
+1. De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens, een besluit op een aanvraag van instemming als bedoeld in [artikel 147r, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2013-01-01&g=2013-01-01).
 
 2. De feeder-instelling voor collectieve belegging in effecten informeert de master-instelling voor collectieve belegging in effecten over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.
 
-3. De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming op een aanvraag, als bedoeld in [artikel 147r, eerste lid, onderdeel b, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2012-01-01&g=2012-01-01), zo spoedig mogelijk de maatregelen om aan het bepaalde in [artikel 147f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2012-01-01&g=2012-01-01) te voldoen.
+3. De feeder-instelling voor collectieve belegging in effecten neemt na ontvangst van de instemming op een aanvraag, als bedoeld in [artikel 147r, eerste lid, onderdeel b, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2013-01-01&g=2013-01-01), zo spoedig mogelijk de maatregelen om aan het bepaalde in [artikel 147f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2013-01-01&g=2013-01-01) te voldoen.
 
-4. Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in [artikel 147r, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2012-01-01&g=2012-01-01), biedt de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten ter inkoop of terugbetaling aan op grond van de [artikelen 4:61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61b), en [4:62h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62h), op de werkdag voorafgaand aan de laatste dag waarop de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging ter inkoop of terugbetaling kan aanbieden.
+4. Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in [artikel 147r, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147r&z=2013-01-01&g=2013-01-01), biedt de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten ter inkoop of terugbetaling aan op grond van de [artikelen 4:61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61b), en [4:62h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:62h), op de werkdag voorafgaand aan de laatste dag waarop de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in de master-instelling voor collectieve belegging ter inkoop of terugbetaling kan aanbieden.
 
-5. De feeder-instelling voor collectieve belegging in effecten biedt haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in [artikel 147f, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2012-01-01&g=2012-01-01).
+5. De feeder-instelling voor collectieve belegging in effecten biedt haar rechten van deelneming in de master-instelling voor collectieve belegging in effecten op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in [artikel 147f, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2013-01-01&g=2013-01-01).
 
 6. Alvorens de feeder-instelling voor collectieve belegging in effecten haar rechten van deelneming in een master-instelling voor collectieve belegging in effecten op grond van het vierde lid ter inkoop of terugbetaling aanbiedt, onderzoekt zij alternatieve oplossingen die kunnen bijdragen de transactiekosten of andere negatieve effecten voor haar eigen deelnemers te vermijden of te verminderen.
 
@@ -7736,7 +7551,7 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 - a. in contanten; of
 
-- b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, daarin voorzien.
+- b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, indien de feeder-instelling voor collectieve belegging in effecten dit wenst en de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), onderscheidenlijk de bedrijfsvoeringsregels, bedoeld in artikel 147b, vierde lid, daarin voorzien.
 
 8. De feeder-instelling voor collectieve belegging in effecten heeft het recht de overgedragen activa in natura geheel of gedeeltelijk te verzilveren.
 
@@ -7752,7 +7567,7 @@ Een master-instelling voor collectieve belegging in effecten brengt geen inschri
 
 - b. een actuele versie van het prospectus en de essentiële beleggersinformatie van de verkrijgende instelling voor collectieve belegging in effecten indien deze haar zetel heeft in een andere lidstaat;
 
-- c. een verklaring van elk van de betrokken bewaarders van de instellingen voor collectieve belegging in effecten waarin wordt bevestigd dat de in [artikel 147u, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147u&z=2012-01-01&g=2012-01-01), bedoelde gegevens in overeenstemming zijn met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten; en
+- c. een verklaring van elk van de betrokken bewaarders van de instellingen voor collectieve belegging in effecten waarin wordt bevestigd dat de in [artikel 147u, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147u&z=2013-01-01&g=2013-01-01), bedoelde gegevens in overeenstemming zijn met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten; en
 
 - d. de informatie over de voorgenomen fusie die de betrokken instellingen voor collectieve belegging in effecten aan hun deelnemers voornemens zijn te verstrekken.
 
@@ -7780,7 +7595,7 @@ Het gemeenschappelijk fusievoorstel, bedoeld in [artikel 4:62e, eerste lid, van 
 
 ##### Artikel 147v
 
-Een bewaarder van een verdwijnende instelling voor collectieve belegging in effecten en de bewaarder van een verkrijgende instelling voor collectieve belegging in effecten gaat na of de in het gemeenschappelijk fusievoorstel opgenomen gegevens, bedoeld in [artikel 147u, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147u&z=2012-01-01&g=2012-01-01), in overeenstemming zijn met hetgeen ingevolge de wet is bepaald en met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten.
+Een bewaarder van een verdwijnende instelling voor collectieve belegging in effecten en de bewaarder van een verkrijgende instelling voor collectieve belegging in effecten gaat na of de in het gemeenschappelijk fusievoorstel opgenomen gegevens, bedoeld in [artikel 147u, onderdelen a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147u&z=2013-01-01&g=2013-01-01), in overeenstemming zijn met hetgeen ingevolge de wet is bepaald en met het fondsreglement of de statuten van de desbetreffende instelling voor collectieve belegging in effecten.
 
 ##### Artikel 147w
 
@@ -7802,11 +7617,11 @@ Een bewaarder van een verdwijnende instelling voor collectieve belegging in effe
 
 3. Indien aan het begin van het document met informatie over de voorgenomen fusie een samenvatting van de hoofdpunten van het fusievoorstel wordt verstrekt, wordt verwezen naar de delen van het document waar nadere informatie over die hoofdpunten is opgenomen.
 
-4. [Artikel 147f, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing op het verstrekken van informatie over de voorgenomen fusie, bedoeld in het eerste lid.
+4. [Artikel 147f, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147f&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op het verstrekken van informatie over de voorgenomen fusie, bedoeld in het eerste lid.
 
 ##### Artikel 147x
 
-1. De te verstrekken informatie, bedoeldin [artikel 147w, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten omvat:
+1. De te verstrekken informatie, bedoeldin [artikel 147w, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten omvat:
 
 - a. alle verschillen in de rechten van de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten voordat en nadat de voorgenomen fusie van kracht wordt;
 
@@ -7822,11 +7637,11 @@ Een bewaarder van een verdwijnende instelling voor collectieve belegging in effe
 
 - g. een toelichting of de beheerder van de verdwijnende instelling voor collectieve belegging in effecten voornemens is een herschikking van de portefeuille door te voeren voordat de fusie van kracht wordt.
 
-2. De aan de deelnemers van de verkrijgende instelling voor collectieve belegging in effecten te verstrekken informatie, bedoeld in [artikel 147w, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), omvat tevens een toelichting of de beheerder van de verkrijgende instelling voor collectieve belegging in effecten verwacht dat de fusie enig materieel effect op de portefeuille van de verkrijgende instelling voor collectieve belegging in effecten zal hebben en of het voornemen bestaat een herschikking van de portefeuille door te voeren voordat of nadat de fusie ingaat.
+2. De aan de deelnemers van de verkrijgende instelling voor collectieve belegging in effecten te verstrekken informatie, bedoeld in [artikel 147w, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), omvat tevens een toelichting of de beheerder van de verkrijgende instelling voor collectieve belegging in effecten verwacht dat de fusie enig materieel effect op de portefeuille van de verkrijgende instelling voor collectieve belegging in effecten zal hebben en of het voornemen bestaat een herschikking van de portefeuille door te voeren voordat of nadat de fusie ingaat.
 
 ##### Artikel 147y
 
-1. De te verstrekken informatie aan de deelnemers, bedoeldin [artikel 147w, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01),omvat:
+1. De te verstrekken informatie aan de deelnemers, bedoeldin [artikel 147w, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01),omvat:
 
 - a. informatie over hoe zal worden omgegaan met alle nog te ontvangen inkomsten in de instellingen voor collectieve belegging in effecten; en
 
@@ -7836,7 +7651,7 @@ Een bewaarder van een verdwijnende instelling voor collectieve belegging in effe
 
 ##### Artikel 147z
 
-1. De te verstrekken informatie aan de deelnemers, bedoeld in [artikel 147w, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), omvat:
+1. De te verstrekken informatie aan de deelnemers, bedoeld in [artikel 147w, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), omvat:
 
 - a. indien van toepassing de procedure op grond waarvan de algemene vergadering zal worden gevraagd een besluit tot fusie te nemen en op welke wijze de deelnemers over het resultaat zullen worden geïnformeerd;
 
@@ -7848,7 +7663,7 @@ Een bewaarder van een verdwijnende instelling voor collectieve belegging in effe
 
 ##### Artikel 147aa
 
-Onverminderd de [artikelen 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), [147x, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147x&z=2012-01-01&g=2012-01-01), [147y](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147y&z=2012-01-01&g=2012-01-01) en [147z](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147z&z=2012-01-01&g=2012-01-01) omvat de te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten tevens:
+Onverminderd de [artikelen 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), [147x, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147x&z=2013-01-01&g=2013-01-01), [147y](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147y&z=2013-01-01&g=2013-01-01) en [147z](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147z&z=2013-01-01&g=2013-01-01) omvat de te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de verdwijnende instelling voor collectieve belegging in effecten tevens:
 
 - a. de termijn waarbinnen het inschrijven op of vragen om terugbetaling van rechten van deelneming in de verdwijnende instelling voor collectieve belegging in effecten mogelijk blijft;
 
@@ -7866,11 +7681,11 @@ Onverminderd de [artikelen 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421
 
 ##### Artikel 147cc
 
-Indien de informatie over de voorgenomen fusie, bedoeld in [artikel 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), aan de deelnemers van de betrokken instellingen voor collectieve belegging in effecten is verstrekt, wordt dezelfde informatie verstrekt tot de dag waarop de fusie van kracht wordt aan een ieder die rechten van deelneming in de verdwijnende of verkrijgende instelling voor collectieve belegging in effecten aankoopt of daarop inschrijft of verzoekt om het fondsreglement of de statuten, het prospectus of essentiële beleggersinformatie van een van de betrokken instellingen voor collectieve belegging in effecten.
+Indien de informatie over de voorgenomen fusie, bedoeld in [artikel 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), aan de deelnemers van de betrokken instellingen voor collectieve belegging in effecten is verstrekt, wordt dezelfde informatie verstrekt tot de dag waarop de fusie van kracht wordt aan een ieder die rechten van deelneming in de verdwijnende of verkrijgende instelling voor collectieve belegging in effecten aankoopt of daarop inschrijft of verzoekt om het fondsreglement of de statuten, het prospectus of essentiële beleggersinformatie van een van de betrokken instellingen voor collectieve belegging in effecten.
 
 ##### Artikel 147dd
 
-Indien de beheerder van een verdwijnende instelling voor collectieve belegging in effecten of een verkrijgende instelling voor collectieve belegging in effecten op grond van de [artikelen 2:123](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:123) en [2:124a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124a) rechten van deelneming in een door hem beheerde instelling voor collectieve belegging in effecten aanbiedt in een andere lidstaat verstrekt de desbetreffende instelling voor collectieve belegging in effecten de informatie, bedoeld in [artikel 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2012-01-01&g=2012-01-01), aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal.
+Indien de beheerder van een verdwijnende instelling voor collectieve belegging in effecten of een verkrijgende instelling voor collectieve belegging in effecten op grond van de [artikelen 2:123](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:123) en [2:124a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124a) rechten van deelneming in een door hem beheerde instelling voor collectieve belegging in effecten aanbiedt in een andere lidstaat verstrekt de desbetreffende instelling voor collectieve belegging in effecten de informatie, bedoeld in [artikel 147w](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.2&artikel=147w&z=2013-01-01&g=2013-01-01), aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal.
 
 ### Afdeling 10.4. Verzekeringen
 
@@ -7938,13 +7753,13 @@ Indien de beheerder van een verdwijnende instelling voor collectieve belegging i
 
 ## Bijlage C. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2011-07-22&g=2011-07-22)
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2011-07-22&g=2011-07-22)
+### 4.2. **Andere feiten of omstandigheden**
 
-### 3.1. **Persoonlijk**
+### 1. **Gegevens betreffende de door de partijen bij de overeenkomst te verrichten diensten en te volgen procedures:**
 
-### 3.2. **Zakelijk**
+### 2. Gegevens over de personen die het (dagelijks) beleid van de beheerder en iedere bewaarder (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beheerder en iedere bewaarder
 
-### 4. Toezichtantecedenten als bedoeld in [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01)
+### 3. Algemene gegevens over de beheerder en de bewaarders
 
 ### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 13, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01)
 
@@ -8189,75 +8004,21 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ## Bijlage I. behorend bij [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=118&z=2011-07-22&g=2011-07-22)
 
-### 1. Algemene gegevens over de beleggingsinstelling
-
-5.11. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling: een beschrijving van het beleggingsbeleid van de andere beleggingsinstelling.
-
-5.12. Indien de beleggingsinstelling 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling:
-
-5.13. Indien van toepassing: de gereglementeerde markt en de andere markten in financiële instrumenten waar de financiële instrumenten worden verhandeld waarin de beleggingsinstelling belegt.
-
-### 6. Gegevens over kosten en vergoedingen
-
-5.15. Indien het een instelling voor collectieve belegging in effecten betreft: het profiel van het type belegger tot wie de beleggingsinstelling zich richt.
-
-5.16. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: de staat, het openbaar lichaam met verordende bevoegdheid of de internationale organisatie waarin een of meer lidstaten deelnemen, die effecten of geldmarktinstrumenten uitgeeft of garandeert waarin de beleggingsinstelling voor meer dan vijfendertig procent van het beheerde vermogen belegt alsmede van de ontheffing daartoe ingevolge [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=136&z=2012-01-01&g=2012-01-01).
-
-5.17. Indien het een instelling voor collectieve belegging in effecten betreft: de categorieën effecten, geldmarktinstrumenten of financiële derivaten waarin de beleggingsinstelling mag beleggen; een verklaring of de beleggingsinstelling transacties met betrekking tot financiële derivaten mag verrichten en zo ja, dan wordt duidelijk vermeld of dat gebruik van de financiële derivaten mag dienen voor risicodekking dan wel ter verwezenlijking van beleggingsdoelstellingen, alsmede het mogelijke effect van het gebruik van deze effecten, geldmarktinstrumenten of financiële derivaten op het risicoprofiel.
-
-5.18. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de beleggingsinstelling voornamelijk in financiële derivaten belegt of een aandelen- of obligatie-index als bedoeld in [artikel 138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=138&z=2012-01-01&g=2012-01-01), volgt.
-
-5.19. Indien het een instelling voor collectieve belegging in effecten betreft en indien van toepassing: vermelding van het feit dat de waarde van de activa als gevolg van het beleggingsbeleid sterk kan fluctueren.
-
-5.20 Indien het een feeder-instelling voor collectieve belegging in effecten betreft:
-
-6.7. Indien de hoogte van de in 6.1 tot en met 6.6 bedoelde kosten nog niet bekend is: het maximum van deze kosten.
-
-6.1. De kosten van oprichting van de beleggingsinstelling en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling en welk gedeelte ten goede komt aan de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, de bewaarder of aan met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen.
-
-6.2. De kosten gemoeid met het beheer van de beleggingsinstelling, de bewaring van de activa van de beleggingsinstelling, de accountant, het toezicht en de marketing, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
-
-6.3. De transactiekosten die geïdentificeerd en gekwantificeerd kunnen worden en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
-
-6.4. Indien van toepassing: de kosten die worden gemaakt of vergoedingen die worden gevraagd in verband met het in- en uitlenen van financiële instrumenten, en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling, onderscheidenlijk aan wie deze vergoedingen ten goede komen.
-
-6.5. Indien van toepassing: de kosten van het verlenen van opdrachten aan derden om een of meer werkzaamheden in het kader van het beheer van de beleggingsinstelling of de bewaring van de activa van de beleggingsinstelling te verrichten en de wijze waarop deze kosten ten laste komen van het resultaat, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
-
-### 7. Gegevens over de rechten van deelneming
-
-6.7. Indien de hoogte van de in 6.1 tot en met 6.6 bedoelde kosten nog niet bekend is: het maximum van deze kosten.
-
-6.8. De som van de in 6.1 tot en met 6.6 bedoelde kosten.
-
-6.9. De naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen.
-
-6.10. De wijze waarop de op- en afslagen worden berekend en aan wie de op- en afslagen ten goede komen, alsmede alle overige eenmalige bedragen die de deelnemers in de beleggingsinstelling betalen bij toe- en uittreding, inclusief de berekeningsgrondslag.
-
-6.11. Indien van toepassing: beschrijving van afspraken over retourprovisies met vermelding van degenen aan wie de retourprovisies ten goede komen.
-
-6.12. Indien van toepassing: beschrijving van afspraken over goederen die de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beheerder of de beleggingsinstelling ontvangen of in het vooruitzicht worden gesteld.
-
-7.6. Een beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden.
-
-7.1. De wijze waarop en voorwaarden waaronder het aanbieden van de rechten van deelneming plaatsvindt.
-
-7.2. De aard en de voornaamste kenmerken van de rechten van deelneming in de beleggingsinstelling, waaronder een beschrijving van het eventuele aan de rechten van deelneming verbonden stemrecht alsmede van de vorm waarin en de eventuele beperkingen waaronder zij verhandeld kunnen worden.
-
-7.3. Een verklaring omtrent een eventuele notering van de beleggingsinstelling op een gereglementeerde markt of een andere markt in financiële instrumenten.
+### 4. Gegevens over informatieverstrekking
 
 7.4. De wijze waarop en voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming plaatsvindt.
 
 7.5. Indien van toepassing: de wijze waarop de bepaling plaatsvindt van de prijs bij het aanbieden, de verkoop- of inkoopprijs, alsmede van het bedrag bij terugbetaling van de waarde van de rechten van deelneming, in het bijzonder:
 
-Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de rechten van deelneming zijn toegelaten tot de notering op een door de Autoriteit Financiële Markten aangewezen gereglementeerde markt of andere markt in financiële instrumenten of waarvan aannemelijk is dat die rechten van deelneming daartoe spoedig zullen worden toegelaten; deze verplichting is evenmin van toepassing op de in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01), bedoelde beleggingsmaatschappijen.
+Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de rechten van deelneming zijn toegelaten tot de notering op een door de Autoriteit Financiële Markten aangewezen gereglementeerde markt of andere markt in financiële instrumenten of waarvan aannemelijk is dat die rechten van deelneming daartoe spoedig zullen worden toegelaten; deze verplichting is evenmin van toepassing op de in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01), bedoelde beleggingsmaatschappijen.
 
-7.6. Een beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden.
+### 6. Gegevens over kosten en vergoedingen
 
 7.7. Een verklaring dat elk recht van deelneming van dezelfde soort recht geeft op een evenredig aandeel in het vermogen van de beleggingsinstelling voor zover dit aan de deelgerechtigden toekomt.
 
-### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
+7.8. Een verklaring dat behalve ingeval van gratis verstrekking, rechten van deelneming slechts worden aangeboden indien de nettoprijs binnen de vastgestelde termijnen in het vermogen van de beleggingsinstelling is gestort.
 
-7.9. Indien het een instelling voor collectieve belegging in effecten betreft: een verklaring dat de beleggingsinstelling gehouden is om, op verzoek van de deelnemers, haar rechten van deelneming ten laste van de activa direct of indirect in te kopen of de waarde van de rechten van deelneming terug te betalen. Deze verplichting geldt niet voor de beleggingsmaatschappij, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01).
+7.9. Indien het een instelling voor collectieve belegging in effecten betreft: een verklaring dat de beleggingsinstelling gehouden is om, op verzoek van de deelnemers, haar rechten van deelneming ten laste van de activa direct of indirect in te kopen of de waarde van de rechten van deelneming terug te betalen. Deze verplichting geldt niet voor de beleggingsmaatschappij, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01).
 
 7.10. Indien het een instelling voor collectieve belegging in effecten betreft: de plaatsen in elke lidstaat waar de beleggingsinstelling haar rechten van deelneming in de handel brengt dan wel doet brengen.
 
@@ -8267,17 +8028,71 @@ Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de re
 
 7.13. Indien het een beleggingsinstelling betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald: een verklaring dat er voldoende waarborgen aanwezig zijn opdat, behoudens wettelijke bepalingen en de in 7.12 bedoelde gevallen, aan de verplichting om in te kopen en terug te betalen kan worden voldaan.
 
-7.14. Indien het een beleggingsmaatschappij als bedoeld in [artikel 126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01), betreft: de gereglementeerde markt of de andere markt in financiële instrumenten in de staat van verhandeling waarvan de notering de prijs bepaalt voor de transacties die door de beleggingsmaatschappij in die staat buiten de gereglementeerde markt of de markt in financiële instrumenten om worden verricht.
+7.14. Indien het een beleggingsmaatschappij als bedoeld in [artikel 126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2013-01-01&g=2013-01-01), betreft: de gereglementeerde markt of de andere markt in financiële instrumenten in de staat van verhandeling waarvan de notering de prijs bepaalt voor de transacties die door de beleggingsmaatschappij in die staat buiten de gereglementeerde markt of de markt in financiële instrumenten om worden verricht.
 
-8.7. Indien de beleggingsinstelling belegt met namens of voor rekening en risico van de deelnemers geleend geld:
+6.2. De kosten gemoeid met het beheer van de beleggingsinstelling, de bewaring van de activa van de beleggingsinstelling, de accountant, het toezicht en de marketing, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
 
-### 9. Gegevens over opheffing van de beleggingsinstelling
+8.1. De mededeling dat de waarde van de beleggingen zowel kan stijgen als kan dalen en dat de beleggers mogelijk minder terugkrijgen dan zij hebben ingelegd.
 
 8.2. Een beschrijving van elk risico dat beleggers kunnen lopen met hun deelneming, voor zover dit risico van betekenis en relevant is in het licht van de gevolgen en de waarschijnlijkheid ervan. Deze beschrijving dient een korte en begrijpelijke uitleg te bevatten over ieder specifiek risico dat voortvloeit uit een gegeven beleggingsbeleid of dat verband houdt met specifieke voor de beleggingsinstelling relevante markten of beleggingen, waaronder:
 
-### 10. Gegevens over de vergadering van deelnemers
+8.3. De in 8.2 bedoelde beschrijving besteedt, voorzover van toepassing, ook aandacht aan de volgende factoren die van invloed kunnen zijn op de beleggingsinstelling:
 
-8.4. De informatie, bedoeld in 8.1 tot en met 8.3 wordt geordend volgens de belangrijkheid ervan, welke wordt bepaald op basis van de omvang en relevantie van de risico’s.
+### 7. Gegevens over de rechten van deelneming
+
+8.5. Indien van toepassing: een afzonderlijke en herkenbare melding dat een beleggingsinstelling is onderverdeeld in te onderscheiden categorieën van deelnemers, waarbij voor de categorieën een afzonderlijk beleggingsbeleid geldt en een of meerdere categorieën van deelnemers op grond van het beleggingsbeleid financiële risico’s lopen die verder gaan dan het door hen ter belegging in de beleggingsinstelling bijeengebrachte vermogen.
+
+8.6. Indien de beleggingsinstelling financiële instrumenten in- of uitleent:
+
+8.7. Indien de beleggingsinstelling belegt met namens of voor rekening en risico van de deelnemers geleend geld:
+
+6.10. De wijze waarop de op- en afslagen worden berekend en aan wie de op- en afslagen ten goede komen, alsmede alle overige eenmalige bedragen die de deelnemers in de beleggingsinstelling betalen bij toe- en uittreding, inclusief de berekeningsgrondslag.
+
+Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en vereffening van de beleggingsinstelling plaatsvindt, in het bijzonder ten aanzien van de rechten van de deelnemers in de beleggingsinstelling.
+
+6.12. Indien van toepassing: beschrijving van afspraken over goederen die de beheerder, de bewaarder, de bestuurders van de beheerder, beleggingsmaatschappij of bewaarder, met de beheerder, beleggingsmaatschappij of bewaarder gelieerde partijen of derden voor het uitvoeren van opdrachten ten behoeve van de beheerder of de beleggingsinstelling ontvangen of in het vooruitzicht worden gesteld.
+
+10.1. De gevallen waarin vergaderingen van deelnemers in de beleggingsinstelling worden gehouden, de regelingen voor het oproepen van deze vergaderingen en de wijze waarop het stemrecht is geregeld.
+
+10.2. Een verklaring dat een oproeping voor een vergadering van deelnemers in de beleggingsinstelling ten minste veertien dagen voor de aanvang van die vergadering, per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, alsmede op de website van de beheerder, geschiedt.
+
+7.2. De aard en de voornaamste kenmerken van de rechten van deelneming in de beleggingsinstelling, waaronder een beschrijving van het eventuele aan de rechten van deelneming verbonden stemrecht alsmede van de vorm waarin en de eventuele beperkingen waaronder zij verhandeld kunnen worden.
+
+11.1. Een beschrijving van de intrinsieke waardebepaling van de beleggingsinstelling met een opgave van de regelmaat waarmee deze waardebepaling plaatsvindt alsmede de valuta waarin de intrinsieke waarde van de beleggingsinstelling wordt berekend. De waardering van de activa en passiva geschiedt naar maatstaven die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
+
+11.2. Vermelding van het feit dat de intrinsieke waarde van de rechten van deelneming in de beleggingsinstelling bekend wordt gemaakt op de website van de beheerder.
+
+11.3. Vermelding van de omstandigheden waaronder en wijze waarop deelnemers gecompenseerd worden voor een onjuist berekende intrinsieke waarde, in het bijzonder het eventuele maximale afwijkingspercentage ten opzichte van de juist berekende intrinsieke waarde dat gecompenseerd wordt.
+
+Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de rechten van deelneming zijn toegelaten tot de notering op een door de Autoriteit Financiële Markten aangewezen gereglementeerde markt of andere markt in financiële instrumenten of waarvan aannemelijk is dat die rechten van deelneming daartoe spoedig zullen worden toegelaten; deze verplichting is evenmin van toepassing op de in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01), bedoelde beleggingsmaatschappijen.
+
+12.1. Een beknopte beschrijving van het op de beleggingsinstelling toepasselijke belastingstelsel met, voor zover van toepassing, vermelding van inhouding van bronbelasting op inkomsten en kapitaalwinsten welke door de beleggingsinstelling aan houders van rechten van deelneming worden uitgekeerd.
+
+12.2. Officieel bekend gemaakte aanpassingen in het toepasselijke belastingstelsel waarvan vaststaat dat zij ongewijzigd qua vorm en inhoud in werking zullen treden, een en ander voor zover deze voor de deelnemers in de beleggingsinstelling van rechtstreeks belang zijn.
+
+### 13. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
+
+Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aandelen in andere ondernemingen door de beleggingsinstelling.
+
+7.10. Indien het een instelling voor collectieve belegging in effecten betreft: de plaatsen in elke lidstaat waar de beleggingsinstelling haar rechten van deelneming in de handel brengt dan wel doet brengen.
+
+7.11. Indien het een instelling voor collectieve belegging in effecten betreft die rechten van deelneming aanbiedt met een verschillend risicoprofiel:
+
+7.12. Indien het een beleggingsinstelling betreft waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, voorzover redelijkerwijs voorzienbaar: de gevallen waarin in het belang van de deelnemers de inkoop van de rechten van deelneming of de terugbetaling van de waarde van de rechten van deelneming kunnen worden opgeschort, alsmede de wijze waarop onderscheidenlijk inkoop en terugbetaling kan worden opgeschort.
+
+Een overeenkomst tot uitwisseling van informatie tussen een feeder-instelling voor collectieve belegging in effecten en een master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet met betrekking tot de toegang tot de informatie in het volgende:
+
+7.14. Indien het een beleggingsmaatschappij als bedoeld in [artikel 126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&artikel=126&z=2012-01-01&g=2012-01-01), betreft: de gereglementeerde markt of de andere markt in financiële instrumenten in de staat van verhandeling waarvan de notering de prijs bepaalt voor de transacties die door de beleggingsmaatschappij in die staat buiten de gereglementeerde markt of de markt in financiële instrumenten om worden verricht.
+
+Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-instelling voor collectieve belegging in effecten in het volgende:
+
+### 1.3. **Standaardregelingen voor verhandeling**
+
+Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet ten aanzien van standaardregelingen voor verhandeling in het volgende:
+
+### 1.4. **Op regelingen voor verhandeling van invloed zijnde gebeurtenissen**
+
+Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet ten aanzien van op regelingen voor verhandeling van invloed zijnde gebeurtenissen in het volgende:
 
 8.5. Indien van toepassing: een afzonderlijke en herkenbare melding dat een beleggingsinstelling is onderverdeeld in te onderscheiden categorieën van deelnemers, waarbij voor de categorieën een afzonderlijk beleggingsbeleid geldt en een of meerdere categorieën van deelnemers op grond van het beleggingsbeleid financiële risico’s lopen die verder gaan dan het door hen ter belegging in de beleggingsinstelling bijeengebrachte vermogen.
 
@@ -8285,13 +8100,13 @@ Deze verplichting is niet van toepassing op beleggingsinstellingen waarvan de re
 
 8.7. Indien de beleggingsinstelling belegt met namens of voor rekening en risico van de deelnemers geleend geld:
 
-11.2. Vermelding van het feit dat de intrinsieke waarde van de rechten van deelneming in de beleggingsinstelling bekend wordt gemaakt op de website van de beheerder.
+Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet ten aanzien van wijzigingen van doorlopende regelingen in het volgende:
 
 Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en vereffening van de beleggingsinstelling plaatsvindt, in het bijzonder ten aanzien van de rechten van de deelnemers in de beleggingsinstelling.
 
-### 10. Gegevens over de vergadering van deelnemers
+### 2.1. **Belangenconflicten**
 
-10.1. De gevallen waarin vergaderingen van deelnemers in de beleggingsinstelling worden gehouden, de regelingen voor het oproepen van deze vergaderingen en de wijze waarop het stemrecht is geregeld.
+Voor zover de door de beheerder genomen maatregelen om te voldoen aan de [artikelen 3:17, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), en [4:14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) daarin niet voorzien, wordt in de regels omtrent de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorzien in maatregelen om te waarborgen dat belangenconflicten tussen de feeder-instelling voor collectieve belegging in effecten en de master-instelling voor collectieve belegging in effecten of tussen de feeder-instelling voor collectieve belegging in effecten en andere deelnemers van de master-instelling voor collectieve belegging in effecten worden beperkt.
 
 10.2. Een verklaring dat een oproeping voor een vergadering van deelnemers in de beleggingsinstelling ten minste veertien dagen voor de aanvang van die vergadering, per advertentie in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, alsmede op de website van de beheerder, geschiedt.
 
@@ -8301,7 +8116,7 @@ Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en ve
 
 ## Bijlage J. , behorend bij de [artikelen 147b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2011-07-22&g=2011-07-22), en [147c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147c&z=2011-07-22&g=2011-07-22)
 
-### 1. Inhoud van een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2011-07-22&g=2011-07-22)
+### 2.4. **Op regelingen voor verhandeling van invloed zijnde gebeurtenissen**
 
 ### 12. Gegevens over het belastingstelsel
 
@@ -8311,11 +8126,11 @@ Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en ve
 
 Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2011-07-22&g=2011-07-22), voorziet ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-instelling voor collectieve belegging in effecten in het volgende:
 
-### 1.3. **Standaardregelingen voor verhandeling**
+### 3.1. **Bewaarders**
 
-Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2011-07-22&g=2011-07-22), voorziet ten aanzien van standaardregelingen voor verhandeling in het volgende:
+Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b) voorziet in het volgende:
 
-### 1. Inhoud van een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01)
+### 4. Inhoud van een overeenkomst als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c)
 
 Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2011-07-22&g=2011-07-22), voorziet ten aanzien van op regelingen voor verhandeling van invloed zijnde gebeurtenissen in het volgende:
 
@@ -8457,13 +8272,7 @@ Indien een premiepensioeninstelling of pensioenbewaarder in het kader van het be
 
 ##### Artikel 86b
 
-1. Een aanbieder, gevolmachtigde agent of ondergevolmachtigde agent verschaft of ontvangt voor het optreden als gevolmachtigde agent of ondergevolmachtigde agent rechtstreeks of middellijk geen commissie die niet noodzakelijk is voor het verlenen van de dienst of deze mogelijk maakt.
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. commissies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien de verschaffing van de commissie geen afbreuk doet aan de verplichting van de aanbieder, gevolmachtigde agent of ondergevolmachtigde agent om zich in te zetten voor de belangen van de cliënt; en
-
-- b. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.
+[Artikelen 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01) is uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na inwerkingtreding van dat artikel.
 
 ### Hoofdstuk 9. Meldingsplichten
 
@@ -8479,7 +8288,7 @@ Indien een premiepensioeninstelling of pensioenbewaarder in het kader van het be
 
 ### Afdeling 10.3. Rechten van deelneming in een beleggingsinstelling
 
-#### § 10.3.1. Regels voor alle beheerders, beleggingsinstellingen en bewaarders
+#### § 9.1.5. Verzekeraars
 
 ##### Artikel 116b
 
@@ -8527,15 +8336,7 @@ De advertentie en mededeling op de website van de beheerder, bedoeld in [artikel
 
 ##### Artikel 171a
 
-1. Een financiëledienstverlener die op 31 december 2011 voldeed aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), ten aanzien van het verlenen van financiële diensten met betrekking tot levensverzekeringen, wordt geacht vanaf 1 januari 2012 tot en met 31 december 2013 te voldoen aan het bepaalde ingevolge artikel 4:9, tweede lid, van de wet ten aanzien van het verlenen van financiële diensten met betrekking tot pensioenverzekeringen, indien hij voldoet aan het derde en vierde lid.
-
-2. Een financiëledienstverlener die op 31 december 2011 financiële diensten verleent met betrekking tot premiepensioenvorderingen, wordt geacht vanaf 1 januari 2012 tot 1 januari 2014 te voldoen aan het bepaalde ingevolge artikel [4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) ten aanzien van het verlenen van financiële diensten met betrekking tot premiepensioenvorderingen, indien hij voldoet aan het derde en vierde lid.
-
-3. De financiëledienstverlener, bedoeld in het eerste of tweede lid, geeft voor 1 februari 2012 bij de Autoriteit Financiële Markten aan dat hij voornemens is zijn financiële dienstverlening met betrekking tot pensioenverzekeringen of premiepensioenvorderingen te continueren. Hij doet dit op de door de Autoriteit Financiële Markten voorgeschreven wijze.
-
-4. De financiëledienstverlener, bedoeld in het eerste en tweede lid, toont voor 1 juli 2012 op een door de Autoriteit Financiële Markten voorgeschreven wijze aan dat en op welke wijze hij zal voldoen aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) ten aanzien van het verlenen van financiële diensten met betrekking tot pensioenverzekeringen of premiepensioenvorderingen.
-
-5. Het eerste tot en met vierde lid zijn van toepassing op de financiëledienstverlener totdat hij, op een door de Autoriteit Financiële Markten voorgeschreven wijze, heeft aangetoond te voldoen aan het bepaalde ingevolge [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover het betreft het verlenen van financiële diensten met betrekking tot pensioenverzekeringen of premiepensioenvorderingen.
+Vervallen
 
 ## Bijlage A. , inhoudende de basisvergelijking en aanvullende hypothesen, bedoeld in de definitie van jaarlijks kostenpercentage in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2012-01-01&g=2012-01-01)
 
@@ -8720,11 +8521,11 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 ### 5. Gegevens over de activiteiten en het beleggingsbeleid
 
-5.14. Indien van toepassing: de wijze waarop en de voorwaarden waaronder derden in opdracht van de beleggingsmaatschappij of in opdracht van haar beheerder de markt in deelnemingsrechten onderhouden.
+7.6. Een beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden.
 
 ### 6. Gegevens over kosten en vergoedingen
 
-6.6. Alle andere dan onder 6.1 tot en met 6.5 bedoelde naar soort onderscheiden kosten die hoger zijn dan tien procent van de totale kosten, inclusief de berekeningsgrondslag, en de wijze waarop deze kosten ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins ten laste komen van de deelnemers in de beleggingsinstelling.
+8.4. De informatie, bedoeld in 8.1 tot en met 8.3 wordt geordend volgens de belangrijkheid ervan, welke wordt bepaald op basis van de omvang en relevantie van de risico’s.
 
 ### 7. Gegevens over de rechten van deelneming
 
@@ -8736,25 +8537,25 @@ De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van kredie
 
 8.3. De in 8.2 bedoelde beschrijving besteedt, voorzover van toepassing, ook aandacht aan de volgende factoren die van invloed kunnen zijn op de beleggingsinstelling:
 
-8.6. Indien de beleggingsinstelling financiële instrumenten in- of uitleent:
+Een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorziet ten aanzien van standaardregelingen voor het accountantsverslag in het volgende:
 
 ### 9. Gegevens over opheffing van de beleggingsinstelling
 
-11.2. Vermelding van het feit dat de intrinsieke waarde van de rechten van deelneming in de beleggingsinstelling bekend wordt gemaakt op de website van de beheerder.
+De regels over de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorzien met betrekking tot standaardregelingen voor verhandeling in het volgende:
 
 11.3. Vermelding van de omstandigheden waaronder en wijze waarop deelnemers gecompenseerd worden voor een onjuist berekende intrinsieke waarde, in het bijzonder het eventuele maximale afwijkingspercentage ten opzichte van de juist berekende intrinsieke waarde dat gecompenseerd wordt.
 
-12.2. Officieel bekend gemaakte aanpassingen in het toepasselijke belastingstelsel waarvan vaststaat dat zij ongewijzigd qua vorm en inhoud in werking zullen treden, een en ander voor zover deze voor de deelnemers in de beleggingsinstelling van rechtstreeks belang zijn.
+De regels over de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorzien ten aanzien van standaardregelingen voor het accountantsverslag in het volgende:
 
-### 13. Gegevens over het beleid ten aanzien van stemrechten en -gedrag
+### 3. Inhoud van een overeenkomst als bedoeld in [artikel 4:57b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57b)
 
 Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aandelen in andere ondernemingen door de beleggingsinstelling.
 
 ## Bijlage J. , behorend bij de [artikelen 147b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), en [147c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147c&z=2012-01-01&g=2012-01-01)
 
-### 1.1. **Informatie**
+### 4.1. **Accountants**
 
-Een overeenkomst tot uitwisseling van informatie tussen een feeder-instelling voor collectieve belegging in effecten en een master-instelling voor collectieve belegging in effecten als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2012-01-01&g=2012-01-01), voorziet met betrekking tot de toegang tot de informatie in het volgende:
+Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:57c) voorziet in het volgende:
 
 ### 1.2. **Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-instelling voor collectieve belegging in effecten**
 
@@ -8851,6 +8652,631 @@ Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57c, 
 | FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01) |
 | Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01) |
 | VP-leven en Pensioenpraktijk | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2012-01-01&g=2012-01-01) |
+
+1 Of daaraan door de FFP tot en met 2002 gelijk gestelde diplomavereisten.
+
+2 Of anderszins bij de SEH geregistreerd als Erkend Hypotheekadviseur.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+[Artikel 1:20, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:20) is van toepassing indien:
+
+- a. een financiëledienstverlener die adviseert een krediet verleent voor de betaling van de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst inzake een financieel product als bedoeld in [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01) waarbij de consument of, indien het een verzekering betreft, de cliënt is gehouden binnen twee jaar af te lossen;
+
+- b. een financiëledienstverlener, voor zover hij niet adviseert, een krediet verleent aan een consument of, indien het een verzekering betreft, de cliënt ten behoeve van de betaling van de distributiekosten gericht op het tot stand brengen van een overeenkomst inzake een financieel product als bedoeld in [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01).
+
+### Hoofdstuk 2. Vakbekwaamheid van medewerkers
+
+#### § 2.1. Eindtermen van vakbekwaamheid
+
+#### § 2.2. Bewijs van vakbekwaamheid
+
+#### § 2.3. Vaststellen toetstermen
+
+#### § 2.4. Exameninstituten
+
+#### § 2.5. Instituten voor permanente educatie
+
+### Hoofdstuk 3. Betrouwbaarheid
+
+### Hoofdstuk 4. Integere uitoefening van het bedrijf
+
+#### § 4.2. Beleggingsondernemingen
+
+### Hoofdstuk 5. Beheerste uitoefening van het bedrijf
+
+#### § 5.1. Algemene aspecten van de bedrijfsvoering
+
+#### § 5.2. Gedragsaspecten van de bedrijfsvoering
+
+##### Artikel 32a
+
+1. Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+
+2. Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+
+3. Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste één jaar vanaf het moment van advisering.
+
+4. Het eerste, tweede en derde lid zijn niet van toepassing op financiële ondernemingen die bij de advisering uitsluitend te werk gaan volgens een gestandaardiseerde en gesystematiseerde procedure die voor de Autoriteit Financiële Markten verifieerbaar is, en die aan de hand van deze procedure aan de Autoriteit Financiële Markten kunnen aantonen welke informatie zij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) over consumenten onderscheidenlijk cliënten inwinnen en welke adviezen consumenten onderscheidenlijk cliënten op basis van de aldus ingewonnen informatie worden gegeven.
+
+5. Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15) die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste één jaar na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.
+
+##### Artikel 34f
+
+De bedrijfsvoering van een premiepensioeninstelling als bedoeld in [artikel 4:14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14) omvat ten minste procedures en maatregelen die waarborgen dat:
+
+- a. er een systematische, toegankelijke en actuele administratie van pensioendeelnemers en pensioengerechtigden is waarin, voor zover van toepassing, de rechten en verplichtingen van die deelnemers en gerechtigden en de daarmee verband houdende afspraken inzichtelijk worden gemaakt;
+
+- b. de administratie, bedoeld in onderdeel a, zodanig is dat deze geen belemmering vormt of kan vormen voor de toepassing van de regeling van [artikel 4:71a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:71a).
+
+### Hoofdstuk 6. Uitbesteden van werkzaamheden
+
+### Hoofdstuk 7. Klachtenafhandeling
+
+#### § 7.1. Interne klachtenprocedure
+
+##### Artikel 48a
+
+Een erkende geschilleninstantie kan voorgenomen wijzigingen in de samenstelling van het bestuur, het orgaan bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=47&z=2013-01-01&g=2013-01-01), of het reglement, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=48&z=2013-01-01&g=2013-01-01), niet doorvoeren dan na instemming van Onze Minister. Bij voorgenomen wijzigingen in de samenstelling van het bestuur of het orgaan, bedoeld in artikel 47, eerste lid, vermeldt de geschilleninstantie de leeftijd, genoten opleidingen en professionele achtergrond van de nieuwe leden.
+
+##### Artikel 48b
+
+Een erkende geschilleninstantie draagt er zorg voor dat de kosten voor het aanhangig maken van een geschil zodanig beperkt blijven dat de toegang tot de geschilleninstantie niet onredelijk wordt belemmerd.
+
+##### Artikel 48c
+
+Een erkende geschilleninstantie draagt er zorg voor dat de behandeling van een geschil binnen een redelijke termijn wordt voltooid.
+
+##### Artikel 48d
+
+Een erkende geschilleninstantie stelt aan een financiële onderneming die zich bij haar wil aansluiten niet als voorwaarde voor aansluiting dat de financiële onderneming andere regels naleeft dan die welke betrekking hebben op het aanhangig maken van een geschil bij de geschilleninstantie of de verdere behandeling van een geschil door de geschilleninstantie.
+
+##### Artikel 48e
+
+Een erkende geschilleninstantie publiceert de bindende adviezen, bedoeld in [artikel 48, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=7&paragraaf=7.2&artikel=48&z=2013-01-01&g=2013-01-01), en houdt deze elektronisch beschikbaar en algemeen toegankelijk.
+
+##### Artikel 48f
+
+1. Een erkende geschilleninstantie verstrekt aan Onze Minister jaarlijks voor 1 juli een opgave van:
+
+- a. de in het afgelopen kalenderjaar bij de geschilleninstantie aangesloten financiële ondernemingen;
+
+- b. het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen, alsmede een algemene weergave van de aard van de geschillen en de uitkomst van de geschilbeslechting.
+
+2. Een erkende geschilleninstantie verstrekt aan Onze Minister op diens verzoek de gegevens en inlichtingen die Onze Minister nodig heeft voor de uitoefening van diens in deze paragraaf omschreven taken.
+
+3. Een erkende geschilleninstantie verstrekt de Autoriteit Financiële Markten en de Nederlandsche Bank de gegevens en inlichtingen die zij nodig hebben voor de uitoefening van hun taken.
+
+4. Een erkende geschilleninstantie stelt jaarlijks een begroting op en zendt deze voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan Onze Minister.
+
+5. Een erkende geschilleninstantie stelt jaarlijks een jaarverslag en een jaarrekening op. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de geschilleninstantie aangewezen accountant.
+
+6. Een erkende geschilleninstantie zendt de jaarrekening voor 1 mei van het op het boekjaar volgende jaar ter instemming aan Onze Minister.
+
+7. Een erkende geschilleninstantie laat iedere vijf jaar een evaluatieonderzoek uitvoeren door een onafhankelijke onderzoeksinstantie en voert periodiek klanttevredenheidsonderzoeken uit. Van deze onderzoeken wordt een afschrift aan Onze Minister versterkt.
+
+8. Onze minister kan de termijn van vijf jaar, bedoeld in het zevende lid, verkorten en, op kosten van de erkende geschilleninstantie, het opdrachtgeverschap van het evaluatieonderzoek, bedoeld in het zevende lid, overnemen.
+
+### Hoofdstuk 8. Zorgvuldige dienstverlening
+
+### Afdeling 8.1. Informatieverstrekking
+
+#### § 8.1.2a. Informatieverstrekking door beleggingsondernemingen en aanbieders van hypothecair krediet
+
+##### Artikel 51b
+
+Een aanbieder van hypothecair krediet publiceert op zijn website de actuele vaste debetrentevoet voor hypothecair krediet bij verschillende rentevastperiodes en, indien van toepassing, de variabele debetrentevoet.
+
+##### Artikel 59aa
+
+1. Een aanbieder verstrekt een consument voorafgaand aan de totstandkoming van een overeenkomst inzake een hypothecair krediet met een variabele debetrentevoet, ten minste informatie over:
+
+- a. de componenten waaruit de variabele debetrentevoet is opgebouwd;
+
+- b. of deze componenten een vast of variabel bestanddeel vormen van de debetrentevoet; en
+
+- c. de risico’s die verbonden zijn aan een variabele debetrentevoet.
+
+2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de door een aanbieder in de informatieverstrekking aan de consument te gebruiken aanduiding van de componenten waaruit de variabele debetrentevoet is opgebouwd.
+
+#### § 8.1.5. Financiële bijsluiter en essentiële beleggersinformatie
+
+#### § 8.1.6. Informatie gedurende de looptijd van een overeenkomst
+
+##### Artikel 68b
+
+1. Indien de rentevastperiode van een overeenkomst inzake hypothecair krediet met een vaste debetrentevoet afloopt na 1 april 2013 informeert de aanbieder de consument ten minste drie maanden voor het aflopen van de rentevastperiode over het aflopen van die periode en verstrekt informatie over de maximale debetrentevoet die zal gelden voor de komende rentevastperiode waarbij de maximale debetrentevoet bij minimaal drie rentevastperiodes, indien aangeboden, wordt aangegeven.
+
+2. Gelijktijdig met het aanbod, bedoeld in het eerste lid, verstrekt de aanbieder tevens informatie over de mogelijkheid:
+
+- a. om boetevrij over te sluiten bij het aflopen van de rentevastperiode; en
+
+- b. om advies over oversluitmogelijkheden in te winnen bij de aanbieder of een andere financiëledienstverlener.
+
+### Afdeling 8.2. Overige bepalingen met betrekking tot zorgvuldige dienstverlening
+
+#### § 8.2.1. Inwinnen van informatie door beleggingsondernemingen en financiëledienstverleners
+
+##### Artikel 80e
+
+1. Een financiëledienstverlener die, zonder daarbij te adviseren, een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering of een bij ministeriële regeling aan te wijzen ander financieel product aanbiedt, bemiddelt of ten aanzien van dit financieel product optreedt als gevolmachtigde agent, stelt bij de beoordeling van de passendheid, bedoeld in [artikel 4:24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24), voorafgaand aan de dienstverlening vast of de consument of cliënt over voldoende kennis en ervaring beschikt om te begrijpen welke risico’s zijn verbonden aan het desbetreffende financieel product en het verlenen van de betrokken financiële dienst.
+
+2. Het inwinnen van informatie over de kennis en ervaring van de consument of cliënt, bedoeld in [artikel 4:24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24), is wat de hoeveelheid betreft evenredig aan de aard van het financieel product, de complexiteit daarvan en de daarmee samenhangende risico’s. In ieder geval wordt informatie ingewonnen over:
+
+- a. de financiële producten waarmee de consument of cliënt bekend is;
+
+- b. het inzicht van de consument of cliënt in de eigenschappen en risico’s van het desbetreffende financieel product en de financiële dienst;
+
+- c. de mate waarin de consument of cliënt inzicht heeft in zijn eigen financiële situatie; en
+
+- d. de behoefte van de consument of cliënt aan advies over het desbetreffende financieel product.
+
+3. In de waarschuwing, bedoeld in [artikel 4:24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24) wijst de financiëledienstverlener de consument of cliënt erop dat het inwinnen van advies raadzaam is.
+
+4. Een financiëledienstverlener mag vertrouwen op de door de consument of de cliënt verstrekte informatie over de in het tweede lid genoemde onderwerpen, tenzij hij weet of redelijkerwijs kan vermoeden dat deze informatie gedateerd, onnauwkeurig of onvolledig is.
+
+5. Indien meerdere financiëledienstverleners betrokken zijn bij het verlenen van de financiële dienst aan de consument of cliënt wordt de informatie, bedoeld in het eerste lid, ingewonnen door de financiëledienstverlener die rechtstreeks door de consument of cliënt is benaderd voor het verlenen van de financiële dienst.
+
+6. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de informatie over de kennis en ervaring, bedoeld in het eerste lid, wordt ingewonnen van de consument of cliënt, de informatie, bedoeld in het tweede lid, alsmede de formulering van de waarschuwing, bedoeld in het derde lid.
+
+##### Artikel 81a
+
+Een aanbieder van een hypothecair krediet offreert voor een consument die voornemens is een overeenkomst inzake een hypothecair krediet aan te gaan dezelfde debetrentevoet bij dezelfde rentevastperiode als voor een consument aan wie op dat moment een aanbod wordt gedaan voor de komende rentevastperiode bij een vergelijkbaar risicoprofiel.
+
+##### Artikel 86c
+
+1. Een financiëledienstverlener verschaft of ontvangt, rechtstreeks of middellijk, geen provisie voor het bemiddelen of adviseren van een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering of bij ministeriële regeling aan te wijzen ander financieel product.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. provisies die rechtstreeks worden verschaft door de consument of, voor zover het een verzekering betreft, de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;
+
+- b. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende financiële dienst of de desbetreffende financiële dienst mogelijk maken;
+
+- c. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;
+
+- d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die, in combinatie met een complex product of een hypothecair krediet, beleggingsdiensten verleent als bedoeld in onderdeel a of d van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet.
+
+##### Artikel 86d
+
+1. Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt voor het bemiddelen of adviseren inzake een schadeverzekering, niet zijnde een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of een overlijdensrisicoverzekering, geen andere provisies dan:
+
+- a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de financiële dienstverlening;
+
+- b. afsluitprovisies of doorlopende provisies, mits de bemiddelaar of adviseur kosteloos op verzoek van de cliënt op begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de desbetreffende financiële dienst wordt verleend;
+
+- c. provisies die noodzakelijk zijn voor het verlenen van de financiële dienst of de desbetreffende dienst mogelijk maken; of
+
+- d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.
+
+2. Voor de toepassing van het eerste lid, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), mede verstaan een cliënt, niet zijnde een consument.
+
+3. Dit artikel is van toepassing op overeenkomsten inzake schadeverzekeringen die zijn aangegaan op of na 1 januari 2012.
+
+##### Artikel 86e
+
+1. Een aanbieder, gevolmachtigde agent of ondergevolmachtigde agent verschaft of ontvangt voor het optreden als gevolmachtigde agent of ondergevolmachtigde agent rechtstreeks of middellijk geen commissie die niet noodzakelijk is voor het verlenen van de dienst of deze mogelijk maakt.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. commissies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien de verschaffing van de commissie geen afbreuk doet aan de verplichting van de aanbieder, gevolmachtigde agent of ondergevolmachtigde agent om zich in te zetten voor de belangen van de cliënt; en
+
+- b. relatiegeschenken, voor zover deze gezamenlijk op jaarbasis de waarde van € 100 niet overstijgen.
+
+3. Dit artikel is van toepassing op overeenkomsten die aangegaan zijn op of na 1 januari 2012.
+
+##### Artikel 86f
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 86g
+
+1. Een aanbieder die een dienstverleningsdocument dient te verstrekken, stelt een kostprijsmodel op. Dit kostprijsmodel wordt gebruikt voor de berekening van de advieskosten en distributiekosten die zijn gericht op het tot stand brengen van een overeenkomst ten aanzien van producten als bedoeld in [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01) met een consument of, indien het een verzekering betreft, cliënt.
+
+2. De aanbieder laat de juistheid van het kostprijsmodel controleren door een accountant. Tevens controleert een accountant jaarlijks of de begrote advieskosten en distributiekosten juist en volledig zijn toegerekend aan de financiële producten, bedoeld in het eerste lid.
+
+##### Artikel 86h
+
+1. Een directe aanbieder brengt de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst met betrekking tot een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering, of bij ministeriële regeling aan te wijzen ander financieel product rechtstreeks in rekening bij de consument of, indien het een verzekering betreft, de cliënt.
+
+2. De aanbieder brengt geen andere kosten dan de advieskosten en distributiekosten in rekening bij de consument onderscheidenlijk cliënt voor de werkzaamheden gericht op het tot stand brengen van een overeenkomst met betrekking tot de financiële producten, bedoeld in het eerste lid.
+
+##### Artikel 86i
+
+1. Een adviseur die de aanbevolen schadeverzekering niet tevens aanbiedt, informeert de cliënt uiterlijk tegelijk met zijn advies inzake een schadeverzekering, niet zijnde een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of overlijdensrisicoverzekering, over de volgende onderwerpen:
+
+- a. of hij adviseert op grond van een objectieve analyse;
+
+- b. of hij een contractuele verplichting heeft uitsluitend voor een of meer aanbieders te adviseren, in welk geval hij de cliënt desgevraagd tevens de namen van deze aanbieders meedeelt;
+
+- c. of hij geen contractuele verplichting heeft uitsluitend voor een of meer aanbieders te adviseren en hij niet adviseert op grond van een objectieve analyse, in welk geval hij de cliënt desgevraagd tevens de namen meedeelt van de aanbieders waarvoor hij adviseert of kan adviseren;
+
+- d. op welke wijze hij wordt beloond;
+
+- e. of hij een gekwalificeerde deelneming in een bepaalde aanbieder houdt; en
+
+- f. of een bepaalde aanbieder of een bepaalde moedermaatschappij van een aanbieder een gekwalificeerde deelneming in hem houdt.
+
+2. Een bemiddelaar informeert de cliënt voorafgaande aan de totstandkoming van een overeenkomst inzake een schadeverzekering, met uitzondering van een betalingsbeschermer, individuele arbeidsongeschiktheidsverzekering of een overlijdensrisicoverzekering, over de onderwerpen, bedoeld in het eerste lid.
+
+3. Een objectieve analyse als bedoeld in het eerste lid is een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare schadeverzekeringen die de adviseur of bemiddelaar in staat stelt een schadeverzekering aan te bevelen dat aan de behoeften van de cliënt voldoet.
+
+##### Artikel 86j
+
+1. [Artikel 86k](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&artikel=86k&z=2013-01-01&g=2013-01-01) is van toepassing op overeenkomsten inzake betalingsbeschermers en uitvaartverzekeringen die zijn aangegaan vanaf 1 januari 2010 tot de inwerkingtreding van [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01).
+
+2. [Artikel 86k](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&artikel=86k&z=2013-01-01&g=2013-01-01) is van toepassing op overeenkomsten inzake complexe producten en hypothecair kredieten die zijn aangegaan vanaf 1 januari 2007 tot de inwerkingtreding van [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01).
+
+3. De [artikelen 86l](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&artikel=86l&z=2013-01-01&g=2013-01-01) en [86m](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&artikel=86m&z=2013-01-01&g=2013-01-01) zijn van toepassing op overeenkomsten die zijn aangegaan vanaf 1 januari 2007 tot de inwerkingtreding van [artikel 86c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=86c&z=2013-01-01&g=2013-01-01).
+
+##### Artikel 86k
+
+1. Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de desbetreffende dienst of deze mogelijk maakt.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt; of
+
+- b. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien:
+
+- 1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en
+
+- 2°. het verschaffen van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;
+
+- c. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.
+
+3. Voor de toepassing van het tweede lid, onderdeel b, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2013-01-01&g=2013-01-01), mede verstaan een cliënt, niet zijnde een consument.
+
+##### Artikel 86l
+
+1. Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.
+
+2. Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.
+
+3. Het tweede lid is niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.
+
+4. Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.
+
+##### Artikel 86m
+
+1. Indien een overeenkomst met een consument inzake een complex product of hypothecair krediet tijdens de eerste vijf jaar na de totstandkoming vroegtijdig wordt beëindigd, anders dan door overlijden van de verzekerde of anders dan door verkoop van de onroerende zaak waarop het complexe product of hypothecair krediet betrekking heeft, wordt de afsluitprovisie of provisie evenredig verminderd.
+
+2. Het eerste lid is niet van toepassing op overeenkomsten inzake complexe producten, voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.
+
+### Hoofdstuk 9. Meldingsplichten
+
+#### § 9.1.2. Beleggingsondernemingen
+
+#### § 9.1.4. Financiëledienstverleners
+
+### Afdeling 9.2. Meldingsplicht accountant
+
+### Hoofdstuk 10. Aanvullende regels betreffende aanbieden
+
+### Afdeling 10.1. Beleggingsobjecten
+
+### Afdeling 10.1a. Elektronisch geld
+
+### Afdeling 10.2. Krediet
+
+#### § 10.2.1. Precontractuele informatie inzake krediet
+
+#### § 10.2.2. Verplichting tot inwinnen van informatie en ten hoogste toegelaten kredietvergoeding
+
+#### § 10.3.1. Regels voor alle beheerders, beleggingsinstellingen en bewaarders
+
+#### § 10.3.2. Aanvullende regels voor beheerders van instellingen voor collectieve belegging in effecten en instellingen voor collectieve belegging in effecten
+
+#### § 10.3.2.1. Aanvullende regels voor master-instellingen voor collectieve belegging in effecten en feeder-instellingen voor collectieve belegging in effecten en de overeenkomst tussen de betrokken accountants en bewaarders
+
+#### § 10.3.2.2. Fusies tussen instellingen voor collectieve belegging in effecten
+
+### Afdeling 10.4. Verzekeringen
+
+### Hoofdstuk 11. Aanvullende regels betreffende bemiddelen
+
+### Afdeling 11.1. Algemeen
+
+### Afdeling 11.2. Krediet
+
+### Afdeling 11.3. Verzekeringen
+
+### Hoofdstuk 12. Aanvullende regels betreffende herverzekeringsbemiddelen
+
+### Hoofdstuk 13. Aanvullende regels betreffende optreden als clearinginstelling
+
+### Hoofdstuk 14. Aanvullende regels betreffende verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
+
+#### § 14.1. Algemeen
+
+### Hoofdstuk 14a. Premiepensioeninstellingen
+
+### Hoofdstuk 15. Slotbepalingen
+
+## Bijlage D. Standaardinformatie inzake consumptief krediet
+
+| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+| --- | --- |
+| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief
+
+Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+
+De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+
+| Het soort krediet |   |
+| --- | --- |
+| Het totale kredietbedrag **Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.** |   |
+| De voorwaarden voor kredietopneming **Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.** |   |
+| De duur van de kredietovereenkomst |   |
+| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend | U dient het volgende te betalen: [Het bedrag, het aantal en de periodiciteit van de door de consument te verrichten betalingen.] Rente en/of kosten zijn als volgt te betalen: |
+| Totaal door u te betalen bedrag **Bedoeld wordt het bedrag van het geleende kapitaal, vermeerderd met de rente en eventuele kosten in verband met uw krediet.** | [Som van het totale kredietbedrag en de totale kredietkosten] |
+| Indien van toepassing Het krediet wordt verleend in de vorm van uitstel van betaling voor een goed of dienst of wordt gekoppeld aan de levering van een bepaald goed of het aanbieden van een dienst. Naam van het goed/de dienst Contante prijs |   |
+| Indien van toepassing |   |
+| Gevraagde zekerheden | [Soort zekerheden] |
+| Beschrijving van de door u in verband met de kredietovereenkomst te verstrekken zekerheden. |   |
+| Indien van toepassing Betalingen geven geen aanleiding tot directe aflossing van het kapitaal. |   |
+
+| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst | [% – vast, of – variabel (met de index of referentierente-voet die betrekking heeft op de aanvankelijke debetrentevoet) – perioden] |
+| --- | --- |
+| Jaarlijks kostenpercentage (JKP) **Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag.** **Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.** | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen] |
+| Is het, met het oog op het verkrijgen van het krediet, in voorkomend geval op de geadverteerde voorwaarden, verplicht om |   |
+| – een verzekering ter waarborging van het krediet af te nemen, of | Ja/neen [zo ja, soort verzekering aangeven] |
+| – een andere overeenkomst voor nevendiensten te sluiten? **Indien de kosten van deze diensten de aanbieder van krediet niet bekend zijn, worden zij niet in het JKP opgenomen.** | Ja/neen [zo ja, soort nevendienst aangeven] |
+| **Met het krediet verbonden kosten** |   |
+| Indien van toepassing Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen |   |
+| Indien van toepassing Bedrag van de kosten voor het gebruik van een specifiek betaalmiddel (bijvoorbeeld een kredietkaart) |   |
+| Indien van toepassing Eventuele andere kosten die voortvloeien uit de kredietovereenkomst |   |
+| Indien van toepassing Voorwaarden waaronder de hierboven genoemde aan de kredietovereenkomst verbonden kosten voor wijziging vatbaar zijn |   |
+| Indien van toepassing Verplichting tot betaling van notariskosten |   |
+| Kosten in het geval van betalingsachterstand |   |
+| **Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.** | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
+
+| Herroepingsrecht **U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.** | Ja/Neen |
+| --- | --- |
+| Vervroegde aflossing **U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.** |   |
+| Indien van toepassing De aanbieder van krediet heeft het recht op vergoeding bij vervroegde aflossing | [Bepaling van de vergoeding (berekeningsmethode) overeenkomstig de uitvoeringsbepalingen van artikel 16 van Richtlijn 2008/48/EG] |
+| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
+| Recht om een ontwerpkredietovereenkomst te ontvangen **U hebt het recht om op verzoek kosteloos een exemplaar van de ontwerpkredietovereenkomst te verkrijgen. Deze bepaling is niet van toepassing indien de aanbieder van krediet ten tijde van het verzoek niet voornemens is de overeenkomst met u aan te gaan.** |   |
+| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
+
+**Indien van toepassing**
+
+| **a) betreffende de aanbieder van krediet** |   |
+| --- | --- |
+| Indien van toepassing |   |
+| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont | [Identiteit] |
+| Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Geografisch adres voor gebruik door de consument] |
+| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
+| Indien van toepassing De toezichthoudende autoriteit |   |
+|   |   |
+| **b) betreffende de kredietovereenkomst** |   |
+| Indien van toepassing Uitoefening van het herroepingsrecht | [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere de termijn waarbinnen het kan worden uitgeoefend, het adres waarnaar de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht] |
+| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
+| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
+| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
+|   |   |
+| **c) betreffende beroepsprocedures** |   |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief.
+
+## Bijlage E. Consumptief kredietinformatie voor geoorloofde debetstand op een rekening
+
+| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+| --- | --- |
+| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief
+
+Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+
+De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+
+| Het soort krediet |   |
+| --- | --- |
+| Het totale kredietbedrag | [Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.] |
+| De duur van de kredietovereenkomst |   |
+| Indien van toepassing U kunt te allen tijde verzocht worden het kredietbedrag volledig terug te betalen |   |
+
+| De debetrentevoet of, in voorkomend geval, de verschillende debetrentevoeten die voor de kredietovereenkomst gelden. | [% – vast, of – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet)] |
+| --- | --- |
+| Indien van toepassing |   |
+| Jaarlijks kostenpercentage (JKP) **Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag. Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.** | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen] |
+| Indien van toepassing |   |
+| Kosten Indien van toepassing De voorwaarden waaronder deze kosten kunnen worden gewijzigd | [De vanaf het sluiten van de kredietovereenkomst in rekening te brengen kosten.] |
+| Kosten in het geval van betalingsachterstand | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
+
+| Beëindiging van de kredietovereenkomst | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst] |
+| --- | --- |
+| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
+| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
+
+**Indien van toepassing**
+
+| **a) betreffende de aanbieder van krediet** |   |
+| --- | --- |
+| Indien van toepassing |   |
+| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont | [Identiteit] |
+| Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Geografisch adres voor gebruik door de consument] |
+| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
+| Indien van toepassing De toezichthoudende autoriteit |   |
+|   |   |
+| **b) betreffende de kredietovereenkomst** |   |
+| Herroepingsrecht **U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.** Indien van toepassing Uitoefening van het herroepingsrecht | Ja/neen [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere naar welk adres de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht] |
+| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
+| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
+| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
+|   |   |
+| **c) betreffende beroepsprocedures** |   |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief.
+
+## Bijlage F. Standaardinformatie inzake effectenkrediet
+
+| Aanbieder van krediet Adres Telefoonnummer E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+| --- | --- |
+| Indien van toepassing: Bemiddelaar in krediet Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+
+(*) Deze informatie is voor de aanbieder in krediet facultatief.
+
+Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie.
+
+De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.
+
+| Het soort krediet | [doorlopend krediet] |
+| --- | --- |
+| Aangeven dat het krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en, indien van toepassing, bepaalde spreidingseisen. |   |
+| Welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten. |   |
+| De dekkingspercentages per soort financieel instrument en indien van toepassing de eisen ten aanzien van de samenstelling van de in onderpand gegeven financiële instrumenten. |   |
+| De voorwaarden voor kredietopneming **Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.** |   |
+| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend | Wijze waarop rente en/of kosten in rekening worden gebracht [bijvoorbeeld: rente en/of kosten worden bijgeschreven ten laste van het krediet] [De periodiciteit van de door de consument te verrichten betalingen.] |
+| Gevraagde zekerheden | [Soort zekerheden] |
+
+| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst | [% – vast, of – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet) – perioden] |
+| --- | --- |
+| Vier representatieve voorbeeldberekeningen van de totale kosten van het effectenkrediet gebaseerd op verschillende kredietlimieten. |   |
+| Indien van toepassing Met het krediet verband houdende kosten |   |
+| Indien van toepassing Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen |   |
+| Kosten in het geval van betalingsachterstand **Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.** | Voor wanbetaling wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend. |
+
+| Beëindiging van de kredietovereenkomst | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst] |
+| --- | --- |
+| Herroepingsrecht | Neen |
+| Vervroegde aflossing **U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.** |   |
+| Raadpleging van een gegevensbank **De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.** |   |
+| Indien van toepassing De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden. | De informatie is gelding van....tot en met.... |
+
+**Indien van toepassing**
+
+| **a) betreffende de aanbieder van krediet** |   |
+| --- | --- |
+| Indien van toepassing Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont Adres Telefoonnummer (*) E-mailadres (*) Fax (*) Webadres (*) | [Identiteit] [Geografisch adres voor gebruik door de consument] |
+| Indien van toepassing Registratie | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register] |
+| Indien van toepassing De toezichthoudende autoriteit |   |
+|   |   |
+| **b) betreffende de kredietovereenkomst** |   |
+| Herroepingsrecht | Neen |
+| Indien van toepassing De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst |   |
+| Indien van toepassing Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter | [Desbetreffende clausule hier op te nemen] |
+| Indien van toepassing Taalregeling | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen] |
+|   |   |
+| **c) betreffende beroepsprocedures** |   |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden] |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief.
+
+## Bijlage H. behorend bij [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=117&z=2013-01-01&g=2013-01-01)
+
+## Bijlage I. behorend bij [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.1&artikel=118&z=2013-01-01&g=2013-01-01)
+
+### 2. Gegevens over de personen die het (dagelijks) beleid van de beleggingsmaatschappij (mede) bepalen of onderdeel zijn van een toezichthoudend orgaan van de beleggingsmaatschappij
+
+### 5. Gegevens over de activiteiten en het beleggingsbeleid
+
+### 7. Gegevens over de rechten van deelneming
+
+### 8. Gegevens over het risicoprofiel van de beleggingsinstelling
+
+### 9. Gegevens over opheffing van de beleggingsinstelling
+
+### 10. Gegevens over de vergadering van deelnemers
+
+### 11. Gegevens over waardering activa
+
+### 12. Gegevens over het belastingstelsel
+
+## Bijlage J. , behorend bij de [artikelen 147b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), en [147c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147c&z=2013-01-01&g=2013-01-01)
+
+### 1. Inhoud van een overeenkomst als bedoeld in [artikel 147b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01)
+
+### 1.1. **Informatie**
+
+### 1.2. **Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-instelling voor collectieve belegging in effecten**
+
+### 1.5. **Standaardregelingen voor een accountantsverslag**
+
+### 1.6. **Wijzigingen van doorlopende regelingen**
+
+### 2. Inhoud van de regels over de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01)
+
+### 2.2. **Grondslag voor een belegging in en vervreemding van rechten van deelneming door een feeder-instelling voor collectieve belegging in effecten**
+
+De regels over de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorzien ten aanzien van de grondslag voor de belegging in en vervreemding van rechten van deelneming door de feeder-instelling voor collectieve belegging in effecten in het volgende:
+
+### 2.3. **Standaardregelingen voor verhandeling**
+
+De regels over de bedrijfsvoering, bedoeld in [artikel 147b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=10&afdeling=10.3&paragraaf=10.3.2&sub-paragraaf=10.3.2.1&artikel=147b&z=2013-01-01&g=2013-01-01), voorzien ten aanzien van op regelingen voor verhandeling van invloed zijnde gebeurtenissen in het volgende:
+
+### 2.5. **Standaardregelingen voor een accountantsverslag**
+
+## Bijlage K. behorend bij [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&hoofdstuk=15&artikel=171&z=2013-01-01&g=2013-01-01)
+
+| Diploma | Instelling | Eindtermen |
+| --- | --- | --- |
+| **Algemeen** |   |   |
+| Oriëntatie Financiële instellingen | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Algemene Opleiding Bankbedrijf | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Oriëntatie Bankbedrijf | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Inleiding verzekeringsbedrijf | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Basiscursus Intermediair | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| A-Algemeen | SEA/SEFD | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiële planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Consumptief krediet** |   |   |
+| Consumentenkrediet | NIBE-SVV | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiering | SEA/SEFD | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiële planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Consumptief krediet | SEA/SEFD | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Consumentenkrediet | Innovam | [Onderdelen 1 en 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Hypothecair krediet** |   |   |
+| Erkend hypotheekadviseur2 | SEH | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). |
+| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Hypotheekadviseur en Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 2 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Woningfinanciering 2 en Assurantiebemiddeling B | NIBE-SVV/ SEA/SEFD | Onderdelen 1 en 2, voorzover dit onderdeel geen betrekking heeft op kapitaalverzekeringen, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01). [Onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in [onderdeel 3 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Beleggingsproducten (variant b)** |   |   |
+| DSI-registratie als (senior) Beleggingsadviseur | (DSI) | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| DSI-registratie als (senior) Vermogensbeheerder | (DSI) | [Onderdeel 1 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Beleggingsproducten (variant a)** |   |   |
+| DSI-registratie als (senior) Beleggingsadviseur | (DSI) | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| DSI-registratie als (senior) Vermogensbeheerder | (DSI) | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Vermogensplanning | NIBE-SVV | [Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Gevolmachtigd agent** |   |   |
+| Assurantiebemiddeling A en Gevolmachtigde Agent | SEA/SEFD | [Onderdelen 1 en 6 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Schadeverzekeringen** |   |   |
+| Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Erkend Assurantieagent (B) | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Assurantiebemiddeling A | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, Wabb](https://wetten.overheid.nl/jci1.3:c:BWBR0004993&artikel=4) | Sociaal-Economische Raad | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| A-modules: Algemeen, Brand, Transport en Varia | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Branchediploma’s: Brand, Transport, M&S en Varia | SEA/SEFD | [Onderdelen 1 en 4 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+|   |   |   |
+| **Levensverzekeringen** |   |   |
+| Assurantiebemiddeling B | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Erkend assurantieagent (B) | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Assurantiebemiddeling A | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, van de Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993&artikel=4) | Sociaal-Economische Raad | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| A-modules: Algemeen en Leven | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Branche diploma Leven | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| FFP diploma1 en aansluitende ononderbroken FFP PE | FFP | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| Financiële Planning (IFAP1 en IFAP2) | NIBE-SVV | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
+| VP-leven en Pensioenpraktijk | SEA/SEFD | [Onderdelen 1 en 5 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&bijlage=B&z=2013-01-01&g=2013-01-01) |
 
 1 Of daaraan door de FFP tot en met 2002 gelijk gestelde diplomavereisten.
 
