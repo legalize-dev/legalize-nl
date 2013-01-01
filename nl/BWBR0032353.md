@@ -193,29 +193,3 @@ Een voorbeeld kan dit verduidelijken. Stel dat een werknemer, na een rust van 12
 De arbeidstijdovertreding zal alleen in een boeterapport worden opgenomen als de rusttijd korter is dan 6 uur en de rusttijdovertreding een overtreding is, waarvoor direct een boete wordt opgelegd. Indien de rusttijd korter is dan 6 uur is er geen relevante werkonderbreking geweest. Er is dan sprake van één dienst.
 
 Deze beleidsregel wordt met de toelichting en de bijlagen in de Staatscourant geplaatst.
-
-### Week
-
-In deze beleidsregel wordt onder ‘week’ verstaan het tijdvak dat gelegen is tussen maandag 00.00 uur en de eerstvolgende zondag 24.00 uur. Onder ‘dag’ wordt verstaan de tijdruimte van 00.00 tot 24.00 uur.
-
-### Ruimere normering in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
-
-In het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) wordt voor een aantal sectoren of typen werkzaamheden voorzien in een ruimere normering dan is voorgeschreven in de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671). In sommige gevallen is de norm in het Arbeidstijdenbesluit ruimer dan de norm voor overtredingen waarvoor direct een bestuurlijke boete wordt opgelegd. Overtreding van deze ruime normering is in dat geval een overtreding waarvoor direct een boete wordt opgelegd.
-
-### Aanwezigheidsdiensten
-
-Indien er wel een opt-out is getekend is er geen sprake van een overtreding als meer dan gemiddeld 48 uur per week, maar niet meer dan gemiddeld 60 uur per week arbeid wordt verricht (ongeacht voor hoeveel meer uren de ‘opt-out’ is getekend). Als bij een inspectie blijkt dat meer dan gemiddeld 60 uur per week arbeid wordt verricht, wordt dat aangemerkt als een overtreding waarvoor direct een boete wordt opgelegd.
-
-### Arbeids- en rusttijdenregistratie
-
-Indien de arbeids- en rusttijdenregistratie niet deugdelijk is, maar een inspectie hierdoor niet gehinderd wordt, is er geen sprake van een overtreding waarvoor direct een boete wordt opgelegd. Er wordt dan eerst een waarschuwing gegeven en niet direct een boete opgelegd. In ieder geval moet zijn aangegeven welke werknemer op een bepaald tijdstip met de arbeid begint en wanneer hij die arbeid heeft beëindigd, alsmede de daartussen gelegen pauzes. Het gaat bij deze verplichting om de feitelijk gewerkte uren en de feitelijk genoten rust, alsmede om de fictieve arbeidsuren op grond van [artikel 5:2 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:2). Ook de identiteit van de werknemer, bijvoorbeeld het zijn van een jeugdige of kind moet zijn aangegeven, vanwege het feit, dat voor dergelijke categorieën van personen bijzondere voorschriften ten aanzien van het verrichten van arbeid worden voorgeschreven. De manier waarop de werkgever de gegevens registreert is vormvrij, maar de “verschillende soorten arbeidstijd” moeten er wel uit blijken of herleidbaar zijn.
-
-### Kinderarbeid
-
-Het verrichten van toegestane arbeid door een kind van 13 tot en met 15 jaar is slechts een overtreding waarvoor direct een boete wordt opgelegd als het kind onvoldoende heeft gerust, laat werkt of te lang werkt zoals omschreven in bijlage 2, onder d.
-
-### Telling bij doorlopende diensten
-
-De arbeidstijdovertreding zal alleen in een boeterapport worden opgenomen als de rusttijd korter is dan 6 uur en de rusttijdovertreding een overtreding is, waarvoor direct een boete wordt opgelegd. Indien de rusttijd korter is dan 6 uur is er geen relevante werkonderbreking geweest. Er is dan sprake van één dienst.
-
-Deze beleidsregel wordt met de toelichting en de bijlagen in de Staatscourant geplaatst.
