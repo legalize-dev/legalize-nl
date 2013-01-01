@@ -4,7 +4,7 @@ identifier: "BWBR0035898"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2008-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035898"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2015-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel IX
 
@@ -100,7 +100,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVII
 
@@ -112,7 +112,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2012.
 
 ##### Artikel XX
 
@@ -137,11 +137,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXV
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten en enige andere wetten enkele wijzigingen van overwegend technische aard aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
