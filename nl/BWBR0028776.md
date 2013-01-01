@@ -4,7 +4,7 @@ identifier: "BWBR0028776"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028776"
 soort: "ministeriele-regeling-BES"
@@ -40,7 +40,7 @@ entry_into_force: "2016-06-23"
 
 ##### Artikel 1. Aanmelding pensioenfonds
 
-Het bestuur van een pensioenfonds meldt de oprichting van het pensioenfonds overeenkomstig [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4) door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=1&z=2012-07-01&g=2012-07-01) bij deze regeling is gevoegd.
+Het bestuur van een pensioenfonds meldt de oprichting van het pensioenfonds overeenkomstig [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4) door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=1&z=2013-01-01&g=2013-01-01) bij deze regeling is gevoegd.
 
 #### Paragraaf 2. Toetsing betrouwbaarheid beleidsbepalers
 
@@ -72,7 +72,7 @@ In deze paragraaf wordt verstaan onder:
 
 - –. rechtschapenheid.
 
-- c. antecedenten: voornemens, handelingen, en strafrechtelijke-, financiële-, toezichts- en overige antecedenten. De strafrechtelijke-, financiële-, toezichts- en overige antecedenten omvatten de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2012-07-01&g=2012-07-01) genoemde feiten en omstandigheden.
+- c. antecedenten: voornemens, handelingen, en strafrechtelijke-, financiële-, toezichts- en overige antecedenten. De strafrechtelijke-, financiële-, toezichts- en overige antecedenten omvatten de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2013-01-01&g=2013-01-01) genoemde feiten en omstandigheden.
 
 - d. betrokkenen:beleidsbepalers bij onder toezicht staande pensioenfondsen.
 
@@ -82,7 +82,7 @@ De betrouwbaarheidstoetsing:
 
 - a. is gebaseerd op het antecedentenonderzoek zoals in de wet bepaald;
 
-- b. is toepasbaar op alle betrokkenen als bedoeld in [artikel 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2012-07-01&g=2012-07-01); en
+- b. is toepasbaar op alle betrokkenen als bedoeld in [artikel 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01); en
 
 - c. dient ter waarborging van de integriteit van een pensioenfonds, door middel van toetsing van bovengenoemde betrokkenen.
 
@@ -96,9 +96,9 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 ##### Artikel 5. Onverenigbaarheid van belangen
 
-1. Gelet op aard en de ernst van de misdrijven genoemd in [bijlage 2.A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2012-07-01&g=2012-07-01), worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de wet beoogt te beschermen.
+1. Gelet op aard en de ernst van de misdrijven genoemd in [bijlage 2.A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2013-01-01&g=2013-01-01), worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de wet beoogt te beschermen.
 
-2. Indien de antecedenten van de betrokkene kunnen worden gekwalificeerd als feiten en omstandigheden in de zin van zowel [bijlage 2.A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2012-07-01&g=2012-07-01) als bijlage 2.A.2, dan geldt het bepaalde van het eerste lid, tenzij sedert de dag waarop deze uitspraak onherroepelijk is geworden acht jaren of meer zijn verstreken.
+2. Indien de antecedenten van de betrokkene kunnen worden gekwalificeerd als feiten en omstandigheden in de zin van zowel [bijlage 2.A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2013-01-01&g=2013-01-01) als bijlage 2.A.2, dan geldt het bepaalde van het eerste lid, tenzij sedert de dag waarop deze uitspraak onherroepelijk is geworden acht jaren of meer zijn verstreken.
 
 #### Paragraaf 3. Continuïteitsanalyse
 
@@ -114,9 +114,9 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 ##### Artikel 7. Hoogte bedrag en consumentenprijsindexcijfer
 
-1. Het bedrag, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), wordt vastgesteld op 1446.55 USD.
+1. Het bedrag, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), wordt vastgesteld op 1479,82 USD.
 
-2. Het consumentenprijsindexcijfer dat door het Centraal Bureau voor de Statistiek is vastgesteld voor Bonaire voor het jaar 2012 wordt aangewezen als consumentenprijsindexcijfer, bedoeld in [artikel 7b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b).
+2. Het consumentenprijsindexcijfer dat door het Centraal Bureau voor de Statistiek is vastgesteld voor Bonaire op 2,3% wordt aangewezen als consumentenprijsindexcijfer, bedoeld in [artikel 7b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b).
 
 ##### Artikel 8. Uitzondering op afkoop
 
@@ -170,7 +170,7 @@ De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](http
 
 De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wanneer aan de volgende voorwaarden is voldaan:
 
-- a. de gewezen deelnemer verstrekt de in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=10&z=2012-07-01&g=2012-07-01), bedoelde opgave aan de ontvangende pensioenuitvoerder;
+- a. de gewezen deelnemer verstrekt de in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=10&z=2013-01-01&g=2013-01-01), bedoelde opgave aan de ontvangende pensioenuitvoerder;
 
 - b. de ontvangende pensioenuitvoerder verstrekt aan de gewezen deelnemer een opgave van de aanspraken die de gewezen deelnemer in de nieuwe pensioenregeling in verband met de waardeoverdracht zal ontvangen; en
 
@@ -178,7 +178,7 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 ##### Artikel 12. Realisatie waardeoverdracht
 
-1. De overdragende pensioenuitvoerder draagt de overdrachtswaarde over aan de ontvangende pensioenuitvoerder binnen drie maanden na ontvangst van het in [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=11&z=2012-07-01&g=2012-07-01), bedoelde verzoek.
+1. De overdragende pensioenuitvoerder draagt de overdrachtswaarde over aan de ontvangende pensioenuitvoerder binnen drie maanden na ontvangst van het in [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=11&z=2013-01-01&g=2013-01-01), bedoelde verzoek.
 
 2. Door de overdracht vervallen de pensioenaanspraken van de gewezen deelnemer jegens de overdragende pensioenuitvoerder.
 
@@ -204,19 +204,19 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 1. Indien de overdragende pensioenuitvoerder een rentestandskorting toepast, wordt de over te dragen overdrachtswaarde vermenigvuldigd met de factor (100 - X ) : 100, waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
-2. Indien ontvangende pensioenuitvoerder een rentestandskorting toepast, wordt voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=16&z=2012-07-01&g=2012-07-01) het bedrag van de beschikbaar gestelde overdrachtswaarde vermenigvuldigd met de factor 100 : ( 100 - X ), waarin X de waarde van de bedoelde rentestandskorting voorstelt.
+2. Indien ontvangende pensioenuitvoerder een rentestandskorting toepast, wordt voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=16&z=2013-01-01&g=2013-01-01) het bedrag van de beschikbaar gestelde overdrachtswaarde vermenigvuldigd met de factor 100 : ( 100 - X ), waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
 ##### Artikel 16. Berekening deelnemingsjaren
 
 1. De ontvangende pensioenuitvoerder berekent fictieve deelnemingsjaren gelijk aan W: CWP, waarin:
 
-W = het bedrag van de beschikbaar gestelde overdrachtswaarde, na toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=15&z=2012-07-01&g=2012-07-01); en
+W = het bedrag van de beschikbaar gestelde overdrachtswaarde, na toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01); en
 
-CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de contante-waardefactoren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=14&z=2012-07-01&g=2012-07-01).
+CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld met gebruikmaking van de contante-waardefactoren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01).
 
 Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en weduwnaarspensioen per dienstjaar.
 
-2. Voor de toepassing van het eerste lid wordt gebruik gemaakt van het inkomen op de datum, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=13&z=2012-07-01&g=2012-07-01).
+2. Voor de toepassing van het eerste lid wordt gebruik gemaakt van het inkomen op de datum, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=13&z=2013-01-01&g=2013-01-01).
 
 3. De fictieve deelnemingsjaren, bedoeld in het eerste lid, worden door de ontvangende pensioenuitvoerder behandeld alsof zij zijn opgebouwd in de pensioenovereenkomst met de nieuwe werkgever.
 
@@ -282,17 +282,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Paragraaf 8. Begroting, jaarverslag, verantwoording van de Bank
+#### Paragraaf 8. Slotbepalingen
 
-##### Artikel 25. Indienen van de begroting
+##### Artikel 25. Citeertitel
 
-1. De begroting, bedoeld in artikel 23 van de wet, is voorzien van:
-
-- a. een exploitatiebegroting en een meerjarenraming;
-
-- b. een toelichting; en
-
-- c. de bevindingen van de raad van commissarissen.
+Deze regeling wordt aangehaald als: Regeling Pensioenwet BES.
 
 ##### Artikel 26. Eisen aan de begroting
 
@@ -470,23 +464,23 @@ Formulier pensioenfonds als bedoeld in [artikel 4, tweede lid, Pensioenwet BES](
 
 Onder strafrechtelijke antecedenten worden in ieder geval verstaan:
 
-De betrokkene is bij rechterlijke uitspraak veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokken van medeplegen van en/of medeplichtigheid aan een of meer van de hieronder opgesomde strafbare feiten uit:
+Onder financiële antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden voor de betrokkene in ieder geval verstaan:
 
-Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 De betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 76 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten.
 
-Onder transacties wordt ook verstaan in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Onder toezichtsantecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden in ieder geval voor de betrokkene verstaan:
 
 De betrokkene wordt terzake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet of niet verder vervolgd, dan wel vrijgesproken of ontslagen van rechtsvervolging.
 
-Onder voorwaardelijke of onvoorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen buiten de openbare lichamen ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Onder fiscaal bestuurlijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden voor de betrokkene in ieder geval verstaan:
 
 ### Bijlage 2.A.2:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2012-07-01&g=2012-07-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2012-07-01&g=2012-07-01)
 
 Veroordelingen binnen of buiten de openbare lichamen
 
-De betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld voor (poging tot, voorbereiding van, doen plegen van, uitlokken van en/of medeplichtigheid aan) een of meer van de hieronder opgesomde strafbare feiten:
+Onder overige antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval voor de betrokkene verstaan:
 
 ### Bijlage 2.B:. Financiële antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2012-07-01&g=2012-07-01)
 
@@ -496,17 +490,17 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ### Bijlage 2.C:. Toezichtsantecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2012-07-01&g=2012-07-01)
 
-Onder toezichtsantecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden in ieder geval voor de betrokkene verstaan:
+S1 voor het vereist eigen vermogen voor het renterisico.
 
 ### Bijlage 2.D:. Fiscaal bestuursrechtelijke antecedenten
 
-Onder fiscaal bestuurlijke antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging of gedragingen, worden voor de betrokkene in ieder geval verstaan:
+S3 voor het vereist eigen vermogen voor het valutarisico.
 
-Aan betrokkene is op grond van de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) een straf opgelegd ter zake van één of meer van de hierna genoemde strafbare feiten:
+S4 voor het vereist eigen vermogen voor het grondstoffenrisico.
 
 ### Bijlage 2.E:. Overige antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2012-07-01&g=2012-07-01)
 
-Onder overige antecedenten, van belang voor de beoordeling van de daaraan ten grondslag liggende gedraging(en), worden in ieder geval voor de betrokkene verstaan:
+S6 voor het vereist eigen vermogen voor het verzekeringstechnische risico.
 
 ## Bijlage 3. behorend bij [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&z=2012-07-01&g=2012-07-01)
 
@@ -514,21 +508,21 @@ Onder overige antecedenten, van belang voor de beoordeling van de daaraan ten gr
 
 ### Artikel 2. Formules en procedure standaardmodel
 
-Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2012-07-01&g=2012-07-01) wordt als volgt aangeduid:
+Het vereist eigen vermogen wordt bepaald aan de hand van de volgende formule en op basis van onderstaande procedure:
 
-S1 voor het vereist eigen vermogen voor het renterisico.
+•
 
-S2 voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico.
+• waarbij ρ = 0,50.
 
-S3 voor het vereist eigen vermogen voor het valutarisico.
+Daarbij zal deze formule worden aangepast als aan de risicofactoren S7, S8 en S9 waarden worden toegekend.
 
-S4 voor het vereist eigen vermogen voor het grondstoffenrisico.
+Het vereist eigen vermogen van het fonds, als bedoeld in [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c), wordt bepaald aan de hand van een iteratief proces. Dit proces bestaat uit het herhaald toepassen van het standaardmodel. Het beleggingsbeleid met de bijbehorende beleggingskarakteristieken blijft daarbij gelijk. Het belegde vermogen in de tweede toepassing en in iedere daaropvolgende herhaalde toepassing is gelijk aan het belegde vermogen in de daaraan voorafgaande toepassing minus het aan het eind van de daaraan voorafgaande toepassing bepaalde verschil tussen het eigen vermogen en de uitkomst van de formule. De herhalingsprocedure stopt indien dit verschil niet langer significant is. Dit is doorgaans het geval na twee herhalingen. De uitkomst van de formule is dan gelijk aan het vereist eigen vermogen.
 
-S5 voor het vereist eigen vermogen voor het kredietrisico.
+In deze formule komt het vereist vermogen voor het aandelen- en vastgoedrisico S 2 als volgt tot stand. In is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten en indirect vastgoed (S 2A ), aandelen opkomende markten (S 2B ), niet-beursgenoteerde aandelen (S 2C ) en direct vastgoed (S 2D ) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S 2 ) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S 2A tot en met S 2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S 2 aan de hand van de formule:
 
-S6 voor het vereist eigen vermogen voor het verzekeringstechnische risico.
+•
 
-S7 voor het vereist eigen vermogen voor het liquiditeitsrisico.
+Waarbij ρ’ = 0,75.
 
 S8 voor het vereist eigen vermogen voor het concentratierisico.
 
@@ -549,3 +543,121 @@ In deze formule komt het vereist vermogen voor het aandelen- en vastgoedrisico S
 •
 
 Waarbij ρ’ = 0,75.
+
+## Bijlage 1. behorend bij [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=1&z=2013-01-01&g=2013-01-01)
+
+Formulier pensioenfonds als bedoeld in [artikel 4, tweede lid, Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4)
+
+| **1. Algemene gegevens** |   |   |
+| --- | --- | --- |
+| a. Bedrijfstakpensioenfonds of ondernemingspensioenfonds? |   |   |
+| b. naam |   |   |
+| postadres |   |   |
+| bezoekadres |   |   |
+| telefoon |   |   |
+| Fax |   |   |
+| e-mail |   |   |
+| Inschrijfnummer Kamer van Koophandel en Nijverheid |   |   |
+| Administrateur/contactpersoon |   |   |
+| c. bij bedrijfstakpensioenfondsen: Ten behoeve van welke bedrijftak of gedeelte daarvan werkt het fonds? |   |   |
+|   |   |   |
+| bij ondernemingspensioenfondsen: Naam van de onderneming of instelling waaraan het fonds is verbonden. |   |   |
+| d. Aantal werknemers dat als deelnemers is opgenomen |   |   |
+| e. Aantal ondernemingen dat bij het fonds is aangesloten |   |   |
+| **2. Financiële structuur van het fonds** |   |   |
+| a. Worden de pensioenverplichtingen (bijvoorbeeld ouderdomspensioen, nabestaandenpensioen en arbeidsongeschikteheidspensioen) herverzekerd? | O ja | O nee |
+| Zo ja, welke? |   |   |
+| b. Worden overlijdensrisico’s herverzekerd? | O ja | O nee |
+| c. Worden arbeidsongeschiktheidsrisico’s herverzekerd? | O ja | O nee |
+| **3. Externe adviseurs** naam van de externe deskundige |   |   |
+| Naam van de actuaris |   |   |
+| **4. Beleidsbepalers (artikel 5a Pensioenwet BES)** |   |   |
+| a. naam en functie van bestuursleden en andere personen die het beleid van het fonds (mede) bepalen |   |   |
+| Naam | functie |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+| 4b. Naam en functie van de personen die het dagelijks beleid bepalen |   |   |
+| Naam | functie |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+| **5. Ondertekening** |   |   |
+| Namens het bestuur van het fonds |   |   |
+| datum |   |   |
+| plaats |   |   |
+| Voorzitter |   |   |
+| Naam |   |   |
+| handtekening |   |   |
+| secretaris |   |   |
+| Naam |   |   |
+| handtekening |   |   |
+
+## Bijlage 2. behorend bij [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&z=2013-01-01&g=2013-01-01)
+
+### Bijlage 2.A.1:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01)
+
+Onder strafrechtelijke antecedenten worden in ieder geval verstaan:
+
+De betrokkene is bij rechterlijke uitspraak veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokken van medeplegen van en/of medeplichtigheid aan een of meer van de hieronder opgesomde strafbare feiten uit:
+
+Onder veroordelingen wordt ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+De betrokkene heeft een vrijwillige betaling als bedoeld in [artikel 76 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten.
+
+Onder transacties wordt ook verstaan in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+De betrokkene wordt terzake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet of niet verder vervolgd, dan wel vrijgesproken of ontslagen van rechtsvervolging.
+
+Onder voorwaardelijke of onvoorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging wordt ook verstaan soortgelijke uitspraken en maatregelen buiten de openbare lichamen ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+### Bijlage 2.A.2:. Strafrechtelijke antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01)
+
+Veroordelingen binnen of buiten de openbare lichamen
+
+De betrokkene is bij onherroepelijke rechterlijke uitspraak veroordeeld voor (poging tot, voorbereiding van, doen plegen van, uitlokken van en/of medeplichtigheid aan) een of meer van de hieronder opgesomde strafbare feiten:
+
+### Bijlage 2.B:. Financiële antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01)
+
+### Bijlage 2.C:. Toezichtsantecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01)
+
+### Bijlage 2.D:. Fiscaal bestuursrechtelijke antecedenten
+
+Aan betrokkene is op grond van de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) een straf opgelegd ter zake van één of meer van de hierna genoemde strafbare feiten:
+
+### Bijlage 2.E:. Overige antecedenten als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01)
+
+## Bijlage 3. behorend bij [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&z=2013-01-01&g=2013-01-01)
+
+### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
+
+### Artikel 2. Formules en procedure standaardmodel
+
+Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2013-01-01&g=2013-01-01) wordt als volgt aangeduid:
+
+S2 voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico.
+
+S5 voor het vereist eigen vermogen voor het kredietrisico.
+
+S7 voor het vereist eigen vermogen voor het liquiditeitsrisico.
+
+S8 voor het vereist eigen vermogen voor het concentratierisico.
+
+S9 voor het vereist eigen vermogen voor het operationeel risico.
