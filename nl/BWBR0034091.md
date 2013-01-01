@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -48,11 +48,11 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
@@ -72,7 +72,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel X
 
@@ -112,7 +112,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Wet belastingen op milieugrondslag.
 
 ##### Artikel XX
 
@@ -124,15 +124,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XXIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XXIIB
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mijnbouwwet.
 
 ##### Artikel XXIII
 
@@ -144,7 +144,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XXVI
 
