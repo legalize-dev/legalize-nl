@@ -4,7 +4,7 @@ identifier: "BWBR0005199"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2006-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005199"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen, waarover de werknemer:
+1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen, waarover de werknemer:
 
 - a. van zijn werkgever geen loon doch vakantiegeld heeft ontvangen; of
 
@@ -58,15 +58,15 @@ gelijkgesteld met dagen waarover loon is ontvangen.
 
 ##### Artikel 2
 
-Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen waarover een werknemer geen loon heeft ontvangen wegens werkstaking of uitsluiting gelijkgesteld met dagen waarover loon is ontvangen.
+Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen waarover een werknemer geen loon heeft ontvangen wegens werkstaking of uitsluiting gelijkgesteld met dagen waarover loon is ontvangen.
 
 ##### Artikel 3
 
 1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) wordt de persoon, die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
 
-2. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
+2. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
 
-3. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die was toegelaten tot de vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), zoals deze wet luidde op de dag voorafgaand aan de dag waarop [artikel 15 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) in werking is getreden, geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
+3. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die was toegelaten tot de vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), zoals deze wet luidde op de dag voorafgaand aan de dag waarop [artikel 15 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) in werking is getreden, geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
 
 ##### Artikel 4
 
@@ -84,7 +84,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 3a
 
-Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt:
+Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt:
 
 - a. de werknemer die uitsluitend als gevolg van ploegendienst op minder dan vijf dagen per week arbeid verrichtte, geacht over het tijdvak waarin hij in ploegendienst werkzaam was, over vijf dagen per week loon te hebben genoten;
 
@@ -95,5 +95,41 @@ Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheid
 ##### Artikel 6
 
 Vervallen
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk 1. Bepaling en gelijkstelling loondagen voor 1 januari 2013
+
+##### Artikel 3b
+
+Dit hoofdstuk is van toepassing ten aanzien van loondagen gelegen voor 1 januari 2013.
+
+### Hoofdstuk 2. Bepaling en gelijkstelling uren vanaf 1 januari 2013
+
+##### Artikel 3c
+
+1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden uren gelijkgesteld met uren waarover loon is ontvangen, indien de werknemer:
+
+- a. van zijn werkgever geen loon maar wel vakantiegeld heeft ontvangen; of
+
+- b. tijdens dienstbetrekking vakantiebonnen of daarmee overeenkomende aanspraken bestemd voor die uren heeft verkregen.
+
+2. Het eerste lid is niet van toepassing indien de in onderdeel b van dat lid bedoelde vakantiebonnen of daarmee overeenkomende aanspraken bestemd zijn voor uren, waarover recht op uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) dan wel [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) bestaat of bestemd zijn voor uren, waarin dat recht wegens vakantie of het in aanmerking nemen van deze aanspraken wordt onderbroken.
+
+##### Artikel 3d
+
+Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen waarover een werknemer geen loon heeft ontvangen wegens werkstaking of uitsluiting gelijkgesteld met dagen waarover loon is ontvangen, waarbij een dag gelijkgesteld wordt met acht uren.
+
+##### Artikel 3e
+
+1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) wordt de persoon, die is toegelaten tot de vrijwillige verzekering op grond van die wet, geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald, waarbij een tijdvak van een dag gelijkgesteld wordt met acht uren.
+
+2. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die is toegelaten tot de vrijwillige verzekering op grond van die wet, geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald, waarbij een tijdvak van een dag gelijkgesteld wordt met acht uren.
+
+3. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die was toegelaten tot de vrijwillige verzekering op grond van de Wet op de arbeidsongeschiktheidsverzekering, zoals deze wet luidde op de dag voorafgaand aan de dag waarop artikel 15 van de Wet werk en inkomen naar arbeidsvermogen in werking is getreden, geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald, waarbij een tijdvak van een dag gelijkgesteld wordt met acht uren.
+
+##### Artikel 3f
+
+Dit hoofdstuk is van toepassing ten aanzien van uren vanaf 1 januari 2013.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
