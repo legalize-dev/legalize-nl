@@ -4,7 +4,7 @@ identifier: "BWBR0002622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2007-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002622"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 - b. op grond van [artikel 44, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=44), mits de periode, waarover op grond van dit artikel geen ziekengeld wordt verleend, voorafgaat aan of een onderbreking vormt van een periode, waarover wel ziekengeld wordt verleend, dan wel volgt op een periode, waarover ziekengeld wordt verleend, en onmiddellijk voorafgaat aan een tijdvak, waarover recht bestaat op arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van ten minste 45%, of waarover recht bestaat op een arbeidsongeschiktheidsuitkering als bedoeld in [hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) of een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) voor zover de verzekerde in staat is met arbeid ten hoogste 55% te verdienen van het maatmaninkomen per uur.
 
-2. Voor de toepassing van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is het bepaalde in het vorige lid niet van toepassing, indien de betrokkene de leeftijd van 65 jaar heeft bereikt.
+2. Voor de toepassing van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is het bepaalde in het vorige lid niet van toepassing, indien de betrokkene de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt.
 
 ##### Artikel 2
 
