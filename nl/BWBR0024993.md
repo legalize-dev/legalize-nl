@@ -4,7 +4,7 @@ identifier: "BWBR0024993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2011-01-20"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024993"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie;
+- a. **Minister:** de Minister van Veiligheid en Justitie;
 
 - b. **raad:** de raad voor rechtsbijstand;
 
