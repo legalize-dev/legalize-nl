@@ -4,7 +4,7 @@ identifier: "BWBR0003030"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-27"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003030"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-bijzondere kamer: de bijzondere kamer bij het gerechtshof te Arnhem, bedoeld in [artikel 67, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67);
+bijzondere kamer: de bijzondere kamer bij het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 67, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67);
 
 raden: de niet tot de rechterlijke macht behorende personen die als deskundige leden deel uitmaken van de bijzondere kamer;
 
@@ -58,7 +58,7 @@ plaatsvervangende raden: de voor de raden benoemde plaatsvervangers.
 
 2. De rang van benoeming van verschillende op éénzelfde dag benoemde raden of plaatsvervangende raden wordt, indien hun benoeming bij hetzelfde besluit plaatsvindt, bepaald door de volgorde hunner namen, en, indien zij bij verschillende besluiten benoemd zijn, door de volgorde dezer besluiten.
 
-De griffier van het gerechtshof te Arnhem houdt een lijst waarop de namen van de raden en de plaatsvervangende raden in de bijzondere kamer geplaatst worden met vermelding van ieders rang van benoeming.
+De griffier van het gerechtshof Arnhem-Leeuwarden houdt een lijst waarop de namen van de raden en de plaatsvervangende raden in de bijzondere kamer geplaatst worden met vermelding van ieders rang van benoeming.
 
 ##### Artikel 3
 
@@ -70,19 +70,19 @@ De griffier van het gerechtshof houdt een lijst waarop de namen van de raden en 
 
 ##### Artikel 4
 
-1. De deskundige leden, bedoeld in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof te Arnhem. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.
+1. De deskundige leden, bedoeld in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof Arnhem-Leeuwarden. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.
 
 2. Het formulier, bedoeld in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.
 
 ##### Artikel 5
 
-1. Het bestuur van het gerechtshof te Arnhem houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde raden en plaatsvervangende raden en de formulieren betreffende de afgelegde eed of belofte worden bewaard.
+1. Het bestuur van het gerechtshof Arnhem-Leeuwarden houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde raden en plaatsvervangende raden en de formulieren betreffende de afgelegde eed of belofte worden bewaard.
 
 2. Een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt aan de raden en plaatsvervangende raden uitgereikt.
 
 ##### Artikel 6
 
-De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2010-07-01&g=2012-07-01).
+De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 8
 
@@ -114,17 +114,17 @@ Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met ov
 
 ##### Artikel 14
 
-1. De raden en plaatsvervangende raden genieten, zowel voor het bijwonen van de bijeenkomsten van de bijzondere kamer als voor het volbrengen van verrichtingen welke hun door de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen van het Reisbesluit 1971 en worden daarbij ingedeeld in categorie A.
+1. De raden en plaatsvervangende raden genieten, zowel voor het bijwonen van de bijeenkomsten van de bijzondere kamer als voor het volbrengen van verrichtingen welke hun door de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen die hieromtrent gelden voor burgerlijke rijksambtenaren.
 
 2. Reis- en verblijfkosten worden hun overeenkomstig het vorige lid eveneens vergoed ter gelegenheid van hun beëdiging en installatie.
 
 ##### Artikel 15
 
-1. Aan het Ministerie van Justitie worden maandelijks ingezonden:
+1. Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden:
 
-- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=2010-07-01&g=2012-07-01);
+- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=2013-01-01&g=2013-01-01);
 
-- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=2010-07-01&g=2012-07-01).
+- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=2013-01-01&g=2013-01-01).
 
 2. De in het eerste lid onder **a** genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en bevatten een verklaring van de voorzitter der bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond.
 
@@ -132,7 +132,7 @@ Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met ov
 
 ##### Artikel 16
 
-1. Dit besluit kan worden aangehaald als: Reglement voor de bijzondere kamer bij het gerechtshof te Arnhem.
+1. Dit besluit kan worden aangehaald als: Reglement voor de bijzondere kamer bij het gerechtshof Arnhem-Leeuwarden.
 
 2. Het treedt in werking met ingang van 1 mei 1976.
 
@@ -144,4 +144,4 @@ Dit besluit berust op de [artikelen 67, vijfde en zesde lid, van de Wet op de re
 
 ##### Artikel 7
 
-De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2010-07-01&g=2012-07-01) zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54), met dien verstande dat in plaats van «gerechtshof te Arnhem» wordt gelezen: rechtbank te ’s-Gravenhage, gerechtshof te ’s-Gravenhage onderscheidenlijk rechtbank te ’s-Gravenhage.
+De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54), met dien verstande dat in plaats van «gerechtshof Arnhem-Leeuwarden» wordt gelezen: rechtbank Den Haag, gerechtshof Den Haag onderscheidenlijk rechtbank Den Haag.
