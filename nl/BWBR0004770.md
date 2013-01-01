@@ -4,7 +4,7 @@ identifier: "BWBR0004770"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004770"
 soort: "wet"
@@ -67,7 +67,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 4°. **BES eilanden:** de openbare lichamen Bonaire, Sint Eustatius en Saba, met daaronder begrepen, met inachtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028093), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op, of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
 
-- b. heffingsrente en revisierente: de heffingsrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA);
+- b. belastingrente en revisierente: de belastingrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA);
 
 - c. Communautair douanewetboek: [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (**PbEG** L 302);
 
@@ -77,7 +77,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. kosten van ambtelijke werkzaamheden: de kosten, bedoeld in [paragraaf 1.2.3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&paragraaf=1.2.3);
 
-- g. bestuurlijke boeten: de verzuimboeten en de vergrijpboeten, bedoeld in [hoofdstuk VIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa&z=2012-01-01&g=2012-01-01) van deze wet, [hoofdstuk VIIIA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA) of [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), dan wel in enig ander wettelijk voorschrift betreffende de heffing van rijksbelastingen;
+- g. bestuurlijke boeten: de verzuimboeten en de vergrijpboeten, bedoeld in [hoofdstuk VIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa&z=2013-01-01&g=2013-01-01) van deze wet, [hoofdstuk VIIIA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA) of [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), dan wel in enig ander wettelijk voorschrift betreffende de heffing van rijksbelastingen;
 
 - h. Onze Minister: Onze Minister van Financiën;
 
@@ -99,7 +99,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Deze wet verstaat mede onder:
 
-- a. rijksbelastingen: de heffingsrente, de revisierente, de compenserende rente, de kosten van ambtelijke werkzaamheden, alsmede de bestuurlijke boeten;
+- a. rijksbelastingen: de belastingrente, de revisierente, de compenserende rente, de kosten van ambtelijke werkzaamheden, alsmede de bestuurlijke boeten;
 
 - b. wettelijke regeling betreffende de heffing van rijksbelastingen: de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), voor zover deze betrekking hebben op de heffing van rijksbelastingen;
 
@@ -137,7 +137,7 @@ Tot het verrichten van de bij of krachtens de wet aan een deurwaarder opgedragen
 
 1. De bevoegdheid van een directeur, inspecteur of ontvanger is niet bepaald naar een geografische indeling van het Rijk.
 
-2. Bij ministeriële regeling worden regels gesteld omtrent de functionaris, bedoeld in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), onder wie een belastingschuldige ressorteert.
+2. Bij ministeriële regeling worden regels gesteld omtrent de functionaris, bedoeld in [artikel 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), onder wie een belastingschuldige ressorteert.
 
 ##### Artikel 6
 
@@ -179,9 +179,9 @@ Tot het verrichten van de bij of krachtens de wet aan een deurwaarder opgedragen
 
 2. In afwijking van het eerste lid is een navorderingsaanslag, alsmede een conserverende navorderingsaanslag invorderbaar één maand na de dagtekening van het aanslagbiljet en een naheffingsaanslag invorderbaar veertien dagen na de dagtekening van het aanslagbiljet.
 
-3. Een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), met een belastingaanslag gelijkgestelde beschikking inzake een bestuurlijke boete die gelijktijdig en in verband met de vaststelling van een belastingaanslag als bedoeld in [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), is opgelegd, is invorderbaar overeenkomstig de bepalingen die gelden voor die belastingaanslag. Een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), met een belastingaanslag gelijkgestelde beschikking inzake heffings- of revisierente is invorderbaar overeenkomstig de bepalingen die gelden voor de belastingaanslag, bedoeld in [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), waarop de heffings- of revisierente betrekking heeft.
+3. Een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), met een belastingaanslag gelijkgestelde beschikking inzake een bestuurlijke boete die gelijktijdig en in verband met de vaststelling van een belastingaanslag als bedoeld in [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), is opgelegd, is invorderbaar overeenkomstig de bepalingen die gelden voor die belastingaanslag. Een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), met een belastingaanslag gelijkgestelde beschikking inzake heffings- of revisierente is invorderbaar overeenkomstig de bepalingen die gelden voor de belastingaanslag, bedoeld in [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), waarop de heffings- of revisierente betrekking heeft.
 
-4. Een uitnodiging tot betaling, alsmede een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), met een belastingaanslag gelijkgestelde beschikking inzake compenserende rente, inzake kosten van ambtelijke werkzaamheden of inzake een bestuurlijke boete als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), is invorderbaar tien dagen na de dagtekening van het aanslagbiljet.
+4. Een uitnodiging tot betaling, alsmede een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), met een belastingaanslag gelijkgestelde beschikking inzake compenserende rente, inzake kosten van ambtelijke werkzaamheden of inzake een bestuurlijke boete als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), is invorderbaar tien dagen na de dagtekening van het aanslagbiljet.
 
 5. In afwijking van het eerste lid is een voorlopige aanslag in de inkomstenbelasting of in de vennootschapsbelasting en een voorlopige conserverende aanslag in de inkomstenbelasting, waarvan het aanslagbiljet een dagtekening heeft die ligt in het jaar waarover deze is vastgesteld, invorderbaar in zoveel gelijke termijnen als er na de maand, die in de dagtekening van het aanslagbiljet is vermeld, nog maanden van het jaar overblijven. De eerste termijn vervalt één maand na de dagtekening van het aanslagbiljet en elk van de volgende termijnen telkens een maand later. Indien de toepassing van de eerste volzin niet leidt tot meer dan één termijn, vindt het eerste lid toepassing.
 
@@ -203,7 +203,7 @@ Tot het verrichten van de bij of krachtens de wet aan een deurwaarder opgedragen
 
 ##### Artikel 10
 
-1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01) is een belastingaanslag van de belastingschuldige die een te innen bedrag behelst terstond en tot het volle bedrag invorderbaar indien:
+1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01) is een belastingaanslag van de belastingschuldige die een te innen bedrag behelst terstond en tot het volle bedrag invorderbaar indien:
 
 - a. de belastingschuldige in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en die belastingaanslag onder de werking van de schuldsaneringsregeling valt;
 
@@ -217,13 +217,13 @@ Tot het verrichten van de bij of krachtens de wet aan een deurwaarder opgedragen
 
 - f. goederen van de belastingschuldige worden verkocht ten gevolge van een beslaglegging namens derden;
 
-- g. ten laste van de belastingschuldige een vordering wordt gedaan als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2012-01-01&g=2012-01-01), tenzij hij aannemelijk maakt dat de belastingschuld kan worden verhaald;
+- g. ten laste van de belastingschuldige een vordering wordt gedaan als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2013-01-01&g=2013-01-01), tenzij hij aannemelijk maakt dat de belastingschuld kan worden verhaald;
 
 - h. met inachtneming van artikel 198 van het Communautair douanewetboek ten laste van de belastingschuldige aanvulling of vervanging van een gestelde zekerheid is geëist, doch die aanvulling of vervanging niet tijdig overeenkomstig het krachtens [artikel 2:1, aanhef en onder j, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1) bepaalde, wordt verricht.
 
 2. Het eerste lid is in de gevallen bedoeld in de onderdelen a, e, f en g niet van toepassing op een voorlopige aanslag in de inkomstenbelasting of in de vennootschapsbelasting waarvan het aanslagbiljet een dagtekening heeft die ligt in het jaar waarover deze is vastgesteld.
 
-3. Het eerste lid is in het geval, bedoeld in onderdeel h, uitsluitend van toepassing op een uitnodiging tot betaling en op een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), met een belastingaanslag gelijkgestelde beschikking inzake compenserende rente, inzake kosten van ambtelijke werkzaamheden of inzake een bestuurlijke boete als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9).
+3. Het eerste lid is in het geval, bedoeld in onderdeel h, uitsluitend van toepassing op een uitnodiging tot betaling en op een ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), met een belastingaanslag gelijkgestelde beschikking inzake compenserende rente, inzake kosten van ambtelijke werkzaamheden of inzake een bestuurlijke boete als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9).
 
 ### Hoofdstuk III. Dwanginvordering
 
@@ -243,25 +243,25 @@ Indien de belastingschuldige een belastingaanslag niet binnen de gestelde termij
 
 2. Indien de betekening geschiedt overeenkomstig [artikel 47 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=2), vermeldt de envelop, in afwijking van de tweede volzin van het tweede lid van dat artikel, in plaats van de naam, de hoedanigheid, het kantooradres en telefoonnummer van de deurwaarder, welke ontvanger de opdracht tot betekening heeft verstrekt, alsmede diens kantooradres en telefoonnummer.
 
-3. In afwijking van [artikel 4:123 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123) kan de betekening van het dwangbevel met bevel tot betaling ook geschieden door het ter post bezorgen van een voor de belastingschuldige bestemd afschrift van het dwangbevel met bevel tot betaling door de ontvanger. Indien het dwangbevel ten uitvoer wordt gelegd als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01), wordt het bevel tot betaling geacht te zijn betekend door de belastingdeurwaarder die belast is met de tenuitvoerlegging. Uit de ongeopende envelop waarin het afschrift ter post wordt bezorgd, blijkt de naam en het adres van de belastingschuldige, alsmede een aanduiding dat de inhoud de onmiddellijke aandacht behoeft.
+3. In afwijking van [artikel 4:123 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123) kan de betekening van het dwangbevel met bevel tot betaling ook geschieden door het ter post bezorgen van een voor de belastingschuldige bestemd afschrift van het dwangbevel met bevel tot betaling door de ontvanger. Indien het dwangbevel ten uitvoer wordt gelegd als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01), wordt het bevel tot betaling geacht te zijn betekend door de belastingdeurwaarder die belast is met de tenuitvoerlegging. Uit de ongeopende envelop waarin het afschrift ter post wordt bezorgd, blijkt de naam en het adres van de belastingschuldige, alsmede een aanduiding dat de inhoud de onmiddellijke aandacht behoeft.
 
 4. Betekening op de voet van het derde lid is niet mogelijk ingeval:
 
 - a. de ontvanger is gebleken dat de aanmaning de belastingschuldige niet heeft bereikt, of
 
-- b. de invordering geschiedt met toepassing van [artikel 15, eerste lid, aanhef en onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=15&z=2012-01-01&g=2012-01-01).
+- b. de invordering geschiedt met toepassing van [artikel 15, eerste lid, aanhef en onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01).
 
-5. Voor de toepassing van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2012-01-01&g=2012-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=20&z=2012-01-01&g=2012-01-01) wordt het dwangbevel met bevel tot betaling dat op de voet van het derde lid is betekend, geacht te zijn betekend twee dagen na de datum van de terpostbezorging van het dwangbevel met bevel tot betaling.
+5. Voor de toepassing van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2013-01-01&g=2013-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=20&z=2013-01-01&g=2013-01-01) wordt het dwangbevel met bevel tot betaling dat op de voet van het derde lid is betekend, geacht te zijn betekend twee dagen na de datum van de terpostbezorging van het dwangbevel met bevel tot betaling.
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116) geschiedt de tenuitvoerlegging van een dwangbevel, dat op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01), is betekend, niet dan na betekening van een hernieuwd bevel tot betaling. De betekening van het hernieuwd bevel tot betaling geschiedt overeenkomstig de regels van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) met betrekking tot de betekening van exploten, met dien verstande dat indien de betekening geschiedt overeenkomstig [artikel 47 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=47) het exploot van de belastingdeurwaarder een bevel inhoudt om binnen twee dagen te betalen; [artikel 13, tweede li](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01)d, is van overeenkomstige toepassing.
+1. In afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116) geschiedt de tenuitvoerlegging van een dwangbevel, dat op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01), is betekend, niet dan na betekening van een hernieuwd bevel tot betaling. De betekening van het hernieuwd bevel tot betaling geschiedt overeenkomstig de regels van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) met betrekking tot de betekening van exploten, met dien verstande dat indien de betekening geschiedt overeenkomstig [artikel 47 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=47) het exploot van de belastingdeurwaarder een bevel inhoudt om binnen twee dagen te betalen; [artikel 13, tweede li](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01)d, is van overeenkomstige toepassing.
 
-2. Het eerste lid vindt geen toepassing ingeval het dwangbevel met toepassing van [artikel 15, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=15&z=2012-01-01&g=2012-01-01), terstond ten uitvoer kan worden gelegd.
+2. Het eerste lid vindt geen toepassing ingeval het dwangbevel met toepassing van [artikel 15, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01), terstond ten uitvoer kan worden gelegd.
 
 ##### Artikel 15
 
-1. Met betrekking tot een naheffingsaanslag als bedoeld in [artikel 9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2012-01-01&g=2012-01-01) kan:
+1. Met betrekking tot een naheffingsaanslag als bedoeld in [artikel 9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2013-01-01&g=2013-01-01) kan:
 
 - a. een dwangbevel zonder voorafgaande aanmaning worden uitgevaardigd, of indien reeds een aanmaning is verzonden, in afwijking van de daarbij gestelde betalingstermijn, terstond worden uitgevaardigd;
 
@@ -269,7 +269,7 @@ Indien de belastingschuldige een belastingaanslag niet binnen de gestelde termij
 
 - c. een dwangbevel indien het bevel tot betaling reeds is gedaan, voor zover nodig in afwijking van de daarbij gestelde betalingstermijn, terstond ten uitvoer worden gelegd;
 
-- d. een dwangbevel indien het hernieuwd bevel tot betaling, bedoeld in [artikel 14, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01) reeds is gedaan, in afwijking van de daarbij gestelde betalingstermijn, terstond ten uitvoer worden gelegd;
+- d. een dwangbevel indien het hernieuwd bevel tot betaling, bedoeld in [artikel 14, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01) reeds is gedaan, in afwijking van de daarbij gestelde betalingstermijn, terstond ten uitvoer worden gelegd;
 
 - e. de betekening en de tenuitvoerlegging van een dwangbevel, in afwijking van [artikel 64, eerste en tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=64), en [artikel 438b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438b), in bij of krachtens algemene maatregel van bestuur te bepalen situaties geschieden op alle dagen en uren.
 
@@ -277,7 +277,7 @@ Indien de belastingschuldige een belastingaanslag niet binnen de gestelde termij
 
 ##### Artikel 16
 
-Indien executoriaal beslag is gelegd op een in een of meer termijnen door de ontvanger uit te betalen bedrag op grond van een voorlopige aanslag in de inkomstenbelasting als bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), wordt het beslag geacht mede te omvatten een in termijnen uit te betalen bedrag op grond van een voorlopige aanslag in de inkomstenbelasting als bedoeld in artikel 9, zesde lid, over een volgend jaar voor zover:
+Indien executoriaal beslag is gelegd op een in een of meer termijnen door de ontvanger uit te betalen bedrag op grond van een voorlopige aanslag in de inkomstenbelasting als bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), wordt het beslag geacht mede te omvatten een in termijnen uit te betalen bedrag op grond van een voorlopige aanslag in de inkomstenbelasting als bedoeld in artikel 9, zesde lid, over een volgend jaar voor zover:
 
 - a. de uit te betalen termijnen van de voorlopige aanslagen op elkaar aansluiten, en
 
@@ -289,7 +289,7 @@ Indien executoriaal beslag is gelegd op een in een of meer termijnen door de ont
 
 2. Het verzet vangt aan met dagvaarding door de belastingschuldige als eiser aan de ontvanger die het dwangbevel heeft uitgevaardigd als gedaagde. Het verzet schorst de tenuitvoerlegging van het dwangbevel voor zover deze door het verzet wordt bestreden.
 
-3. Het verzet kan niet zijn gegrond op de stelling dat het aanslagbiljet, de aanmaning, het op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01), betekende dwangbevel of de schriftelijke mededeling, genoemd in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=27&z=2012-01-01&g=2012-01-01), niet is ontvangen, tenzij de belastingschuldige aannemelijk maakt dat ontvangst redelijkerwijs moet worden betwijfeld. Bovendien kan het verzet niet zijn gegrond op de stelling dat de belastingaanslag ten onrechte of tot een te hoog bedrag is vastgesteld.
+3. Het verzet kan niet zijn gegrond op de stelling dat het aanslagbiljet, de aanmaning, het op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01), betekende dwangbevel of de schriftelijke mededeling, genoemd in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=27&z=2013-01-01&g=2013-01-01), niet is ontvangen, tenzij de belastingschuldige aannemelijk maakt dat ontvangst redelijkerwijs moet worden betwijfeld. Bovendien kan het verzet niet zijn gegrond op de stelling dat de belastingaanslag ten onrechte of tot een te hoog bedrag is vastgesteld.
 
 ##### Artikel 23
 
@@ -323,9 +323,9 @@ verschuldigd is aan een belastingschuldige, is op vordering van de ontvanger ver
 
 4. Een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) is op vordering van de ontvanger verplicht, in zoverre onder blokkering van onttrekkingen aan de rekening, uit het tegoed van een rekening die een belastingschuldige bij haar heeft alsmede, indien de bank en de belastingschuldige in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, uit het ingevolge die overeenkomst verstrekte krediet, de belastingaanslagen van de belastingschuldige te betalen. De bank is verplicht aan de vordering te voldoen, zonder zich daarbij op verrekening te kunnen beroepen. De verplichting tot betaling vervalt een week na de dag van bekendmaking van de vordering aan de bank.
 
-5. De vordering geschiedt bij beschikking. Voor het doen van een vordering dient de ontvanger te beschikken over een aan de belastingschuldige betekend dwangbevel met bevel tot betaling. Indien de vordering op de voet van het eerste lid, onderdeel a, wordt gedaan (loonvordering) en het dwangbevel op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01), is betekend, moet de vordering vooraf worden gegaan door een schriftelijke aankondiging van de ontvanger aan de belastingschuldige, inhoudende dat hij voornemens is een loonvordering te doen. De loonvordering wordt in dat geval niet eerder gedaan dan zeven dagen na de dagtekening van de vooraankondiging. De in de derde volzin bedoelde aankondiging blijft achterwege indien de vordering wordt gedaan jegens degene die reeds op vordering van de ontvanger een belastingaanslag van de belastingschuldige betaalt of zou moeten betalen. De beschikking heeft rechtsgevolg zodra zij is bekendgemaakt aan degene jegens wie de vordering is gedaan. De ontvanger maakt de beschikking tevens bekend aan de belastingschuldige. Indien de vordering wordt gedaan jegens de curator in een faillissement vindt de tweede volzin geen toepassing en blijft bekendmaking van de beschikking aan de belastingschuldige achterwege.
+5. De vordering geschiedt bij beschikking. Voor het doen van een vordering dient de ontvanger te beschikken over een aan de belastingschuldige betekend dwangbevel met bevel tot betaling. Indien de vordering op de voet van het eerste lid, onderdeel a, wordt gedaan (loonvordering) en het dwangbevel op de voet van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01), is betekend, moet de vordering vooraf worden gegaan door een schriftelijke aankondiging van de ontvanger aan de belastingschuldige, inhoudende dat hij voornemens is een loonvordering te doen. De loonvordering wordt in dat geval niet eerder gedaan dan zeven dagen na de dagtekening van de vooraankondiging. De in de derde volzin bedoelde aankondiging blijft achterwege indien de vordering wordt gedaan jegens degene die reeds op vordering van de ontvanger een belastingaanslag van de belastingschuldige betaalt of zou moeten betalen. De beschikking heeft rechtsgevolg zodra zij is bekendgemaakt aan degene jegens wie de vordering is gedaan. De ontvanger maakt de beschikking tevens bekend aan de belastingschuldige. Indien de vordering wordt gedaan jegens de curator in een faillissement vindt de tweede volzin geen toepassing en blijft bekendmaking van de beschikking aan de belastingschuldige achterwege.
 
-6. De belastingschuldige kan op de voet van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2012-01-01&g=2012-01-01) in verzet komen tegen de vordering als ware deze de tenuitvoerlegging van een dwangbevel.
+6. De belastingschuldige kan op de voet van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2013-01-01&g=2013-01-01) in verzet komen tegen de vordering als ware deze de tenuitvoerlegging van een dwangbevel.
 
 7. Degene jegens wie een vordering is gedaan is verplicht aan die vordering te voldoen zonder daartoe een verificatie en beëdiging van schuldvordering, een rangregeling of rechterlijke uitspraak te mogen afwachten. De eerste volzin vindt geen toepassing in zoverre onder hem beslag is gelegd of verzet is gedaan ter zake van schulden waaraan voorrang boven vorderingen wegens rijksbelastingen is toegekend. Voldoening aan de vordering geldt als betaling aan de belastingschuldige.
 
@@ -349,7 +349,7 @@ verschuldigd is aan een belastingschuldige, is op vordering van de ontvanger ver
 
 1. ’s Rijks schatkist heeft een voorrecht op alle goederen van de belastingschuldige.
 
-2. Het voorrecht gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284) voor zover de kosten zijn gemaakt na de dagtekening van het aanslagbiljet. Het voorrecht gaat tevens boven pand, voor zover het pandrecht rust op een zaak als is bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2012-01-01&g=2012-01-01), die zich op de bodem van de belastingschuldige bevindt en tegen inbeslagneming waarvan derden zich op die grond niet kunnen verzetten. Het behoudt deze rang in geval van faillissement van de belastingschuldige of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, ongeacht of tevoren inbeslagneming heeft plaatsgevonden.
+2. Het voorrecht gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284) voor zover de kosten zijn gemaakt na de dagtekening van het aanslagbiljet. Het voorrecht gaat tevens boven pand, voor zover het pandrecht rust op een zaak als is bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2013-01-01&g=2013-01-01), die zich op de bodem van de belastingschuldige bevindt en tegen inbeslagneming waarvan derden zich op die grond niet kunnen verzetten. Het behoudt deze rang in geval van faillissement van de belastingschuldige of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, ongeacht of tevoren inbeslagneming heeft plaatsgevonden.
 
 ##### Artikel 22
 
@@ -379,7 +379,7 @@ alsmede tegen de beslaglegging ter zake van:
 
 - -. uitnodigingen tot betaling; en
 
-- -. ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2012-01-01&g=2012-01-01), met een belastingaanslag gelijkgestelde beschikkingen inzake heffingsrente, inzake bestuurlijke boeten die worden opgelegd in verband met vorenbedoelde naheffingsaanslagen, inzake bestuurlijke boeten als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), inzake compenserende rente of inzake kosten van ambtelijke werkzaamheden,
+- -. ingevolge [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), met een belastingaanslag gelijkgestelde beschikkingen inzake belastingrente, inzake bestuurlijke boeten die worden opgelegd in verband met vorenbedoelde naheffingsaanslagen, inzake bestuurlijke boeten als bedoeld in [hoofdstuk 9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9), inzake compenserende rente of inzake kosten van ambtelijke werkzaamheden,
 
 indien de ingeoogste of nog niet ingeoogste vruchten, of roerende zaken tot stoffering van een huis of landhoef, of tot bebouwing of gebruik van het land, zich tijdens de beslaglegging op de bodem van de belastingschuldige bevinden.
 
@@ -411,25 +411,25 @@ Verrekening op grond van de onderdelen a en b is eveneens mogelijk wanneer op ee
 
 De [artikelen 53 tot en met 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=53), [234](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=234), [235](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=235) en [307 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=307) zijn van overeenkomstige toepassing. Met betrekking tot door de ontvanger uit te betalen en te innen bedragen welker verschuldigdheid materieel is ontstaan over dan wel in een tijdvak waarin de belastingschuldige deel uitmaakt of uitmaakte van een fiscale eenheid als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), of [artikel 15a, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15a), kunnen aan die belastingschuldige uit te betalen bedragen, behalve met van deze te innen bedragen, worden verrekend met te innen bedragen van een andere maatschappij die in dat tijdvak deel uitmaakt of uitmaakte van vorenbedoelde fiscale eenheid. De vorige volzin vindt toepassing, ongeacht het in staat van surseance van betaling of van faillissement geraken van de in die volzin bedoelde belastingschuldige of andere maatschappij.
 
-Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In afwijking van [artikel 4:93, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) geldt als tijdstip van verrekening de dagtekening van het aanslagbiljet waaruit van het te betalen bedrag blijkt. In afwijking van de vorige volzin geldt met betrekking tot een verrekening van een termijn van een voorlopige aanslag als bedoeld in [artikel 9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), als tijdstip van verrekening het tijdstip waarop de desbetreffende termijn vervalt.
+Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In afwijking van [artikel 4:93, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) geldt als tijdstip van verrekening de dagtekening van het aanslagbiljet waaruit van het te betalen bedrag blijkt. In afwijking van de vorige volzin geldt met betrekking tot een verrekening van een termijn van een voorlopige aanslag als bedoeld in [artikel 9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), als tijdstip van verrekening het tijdstip waarop de desbetreffende termijn vervalt.
 
-2. De verrekening is ook mogelijk ingeval de termijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), nog niet is verstreken, met dien verstande dat indien het betreft belastingaanslagen als bedoeld in [artikel 9, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), verrekening alleen mogelijk is met belastingaanslagen die op dezelfde belasting en hetzelfde tijdvak betrekking hebben.
+2. De verrekening is ook mogelijk ingeval de termijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), nog niet is verstreken, met dien verstande dat indien het betreft belastingaanslagen als bedoeld in [artikel 9, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), verrekening alleen mogelijk is met belastingaanslagen die op dezelfde belasting en hetzelfde tijdvak betrekking hebben.
 
-3. De ontvanger verrekent de in [artikel 27a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2012-01-01&g=2012-01-01), bedoelde betalingskorting met het bedrag van de belastingaanslag ter zake waarvan de betalingskorting wordt verleend. Voorts verrekent de ontvanger de in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2012-01-01&g=2012-01-01), bedoelde betalingskorting met het uit te betalen bedrag van de vermindering van de belastingaanslag ter zake waarvan de betalingskorting is verleend. Op de in dit lid bedoelde verrekeningen zijn het eerste en tweede lid niet van toepassing. Als tijdstip van verrekening geldt het tijdstip waarop de betalingskorting wordt verleend of de dagtekening van de kennisgeving waarmee de vermindering wordt bekendgemaakt.
+3. De ontvanger verrekent de in [artikel 27a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2013-01-01&g=2013-01-01), bedoelde betalingskorting met het bedrag van de belastingaanslag ter zake waarvan de betalingskorting wordt verleend. Voorts verrekent de ontvanger de in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2013-01-01&g=2013-01-01), bedoelde betalingskorting met het uit te betalen bedrag van de vermindering van de belastingaanslag ter zake waarvan de betalingskorting is verleend. Op de in dit lid bedoelde verrekeningen zijn het eerste en tweede lid niet van toepassing. Als tijdstip van verrekening geldt het tijdstip waarop de betalingskorting wordt verleend of de dagtekening van de kennisgeving waarmee de vermindering wordt bekendgemaakt.
 
 4. Verrekening is niet mogelijk met betrekking tot een door de ontvanger uit te betalen bedrag indien deze vordering door de gerechtigde onder bijzondere titel is overgedragen, mits de ontvanger met de overdracht heeft ingestemd. Verrekening is voorts niet mogelijk met betrekking tot een door de ontvanger uit te betalen bedrag indien op deze vordering een pandrecht als bedoeld in [artikel 239 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=239) is gevestigd, mits de ontvanger op het tijdstip waarop het pandrecht hem wordt medegedeeld met het pandrecht heeft ingestemd. De ontvanger is verplicht bij beschikking met de overdracht of het pandrecht in te stemmen indien op het tijdstip van de mededeling van de akte van overdracht of van het pandrecht ten name van de belastingschuldige geen voor verrekening vatbare schuld invorderbaar is. De ontvanger kan bij beschikking instemming met de overdracht of het pandrecht weigeren. De ontvanger maakt de beschikking bekend door middel van een gedagtekende kennisgeving waarin, bij weigering tot instemming met de overdracht of het pandrecht, de grond is vermeld waarop de weigering berust.
 
 5. In afwijking in zoverre van het vierde lid is ook na de instemming, bedoeld in dat lid, verrekening mogelijk van:
 
-- a. de in [artikel 27a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2012-01-01&g=2012-01-01), bedoelde betalingskorting met het bedrag van de belastingaanslag ter zake waarvan de betalingskorting wordt verleend;
+- a. de in [artikel 27a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2013-01-01&g=2013-01-01), bedoelde betalingskorting met het bedrag van de belastingaanslag ter zake waarvan de betalingskorting wordt verleend;
 
-- b. de in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2012-01-01&g=2012-01-01), bedoelde betalingskorting met het uit te betalen bedrag van de vermindering van de belastingaanslag ter zake waarvan de betalingskorting is verleend;
+- b. de in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=27a&z=2013-01-01&g=2013-01-01), bedoelde betalingskorting met het uit te betalen bedrag van de vermindering van de belastingaanslag ter zake waarvan de betalingskorting is verleend;
 
 - c. belastingaanslagen die een uit te betalen bedrag behelzen met belastingaanslagen die op dezelfde belasting en hetzelfde tijdvak betrekking hebben.
 
 6. De belastingschuldige kan binnen een week na de dagtekening van de in het vierde lid bedoelde kennisgeving waarmee de beschikking is bekendgemaakt beroep instellen bij de directeur. Het beroepschrift wordt ingediend bij de ontvanger tegen een door deze af te geven ontvangbewijs. De directeur neemt zo spoedig mogelijk een beslissing en maakt deze bekend aan de belastingschuldige door middel van een gedagtekende kennisgeving. Indien op het beroepschrift afwijzend wordt beslist, vindt verrekening niet eerder plaats dan nadat na de dagtekening van de kennisgeving waarmee de beslissing van de directeur is bekendgemaakt acht dagen zijn verstreken.
 
-7. Met betrekking tot het bedrag waarvoor krachtens [artikel 25, derde tot en met zesde, achtste, negende, elfde tot en met veertiende, zestiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), uitstel van betaling is verleend, is gedurende het uitstel verrekening niet mogelijk, tenzij de belastingschuldige dit verzoekt.
+7. Met betrekking tot het bedrag waarvoor krachtens [artikel 25, derde tot en met zesde, achtste, negende, elfde tot en met veertiende, zestiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), uitstel van betaling is verleend, is gedurende het uitstel verrekening niet mogelijk, tenzij de belastingschuldige dit verzoekt.
 
 8. De ontvanger maakt de verrekening onverwijld bekend.
 
@@ -449,13 +449,7 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 5. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van de [artikelen 3.83, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.133, tweede lid, onderdelen h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.136, eerste, tweede, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2). Het in de eerste volzin bedoelde uitstel wordt verleend tot uiterlijk het begin van het tiende jaar na afloop van het kalenderjaar waarop de belastingaanslag betrekking heeft. De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd indien zich een omstandigheid voordoet als genoemd in [artikel 19b, eerste lid, of tweede lid, eerste volzin, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19b), [artikel 3.133, tweede lid, onderdelen a tot en met g, i en k](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), of [artikel 3.135, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135).
 
-6. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.116, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a). De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd:
-
-- a. indien zich een omstandigheid voordoet waardoor de woning ophoudt een eigen woning te zijn in de zin van [artikel 3 111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111);
-
-- b. indien de belastingschuldige een voordeel geniet als bedoeld in [artikel 3.116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a);
-
-- c. indien zich een omstandigheid voordoet als bedoeld in [artikel 3.116, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a).
+6. Vervallen.
 
 7. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het verlenen van uitstel van betaling als bedoeld in artikel 224 van het Communautair douanewetboek.
 
@@ -545,7 +539,7 @@ Het uitstel wordt beëindigd:
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit lid.
 
-20. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling, mits voldoende zekerheid is gesteld, voor belastingaanslagen betreffende de erfbelasting ter zake van de verkrijging van de blote eigendom van een woning, bedoeld in [artikel 35g van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35g), alsmede ter zake van de verkrijging van een onderbedelingsvordering, bedoeld in het vierde lid van dat artikel. Het uitstel wordt slechts verleend voor zover degene van wie op grond van de bevoegdheid, bedoeld in [artikel 78, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=78), wordt gevorderd de erfbelasting ter zake van de blote eigendom voor te schieten of uit de met vruchtgebruik bezwaarde goederen te voldoen, onderscheidenlijk degene die op grond van [artikel 14, eerste lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=14) dan wel op grond van het testament gehouden is tot voldoening van de erfbelasting ter zake van de onderbedelingsvordering, niet in staat is anders dan met buitengewoon bezwaar als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=26&z=2012-01-01&g=2012-01-01) de erfbelasting te betalen, waarbij het vruchtgebruik van de woning, dan wel – voor zover de hiervoor bedoelde persoon de eigendom van de woning heeft – de woning, bedoeld in [artikel 35g van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35g), buiten beschouwing blijft. Het uitstel wordt beëindigd:
+20. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling, mits voldoende zekerheid is gesteld, voor belastingaanslagen betreffende de erfbelasting ter zake van de verkrijging van de blote eigendom van een woning, bedoeld in [artikel 35g van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35g), alsmede ter zake van de verkrijging van een onderbedelingsvordering, bedoeld in het vierde lid van dat artikel. Het uitstel wordt slechts verleend voor zover degene van wie op grond van de bevoegdheid, bedoeld in [artikel 78, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=78), wordt gevorderd de erfbelasting ter zake van de blote eigendom voor te schieten of uit de met vruchtgebruik bezwaarde goederen te voldoen, onderscheidenlijk degene die op grond van [artikel 14, eerste lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=14) dan wel op grond van het testament gehouden is tot voldoening van de erfbelasting ter zake van de onderbedelingsvordering, niet in staat is anders dan met buitengewoon bezwaar als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=26&z=2013-01-01&g=2013-01-01) de erfbelasting te betalen, waarbij het vruchtgebruik van de woning, dan wel – voor zover de hiervoor bedoelde persoon de eigendom van de woning heeft – de woning, bedoeld in [artikel 35g van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35g), buiten beschouwing blijft. Het uitstel wordt beëindigd:
 
 - a. ingeval de woning voor de vruchtgebruiker niet langer een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111);
 
@@ -557,35 +551,35 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassin
 
 - e. voor zover de onderbedelingsvordering, bedoeld in de eerste volzin, wordt afgelost.
 
-21. Voor de toepassing van het vierde, vijfde, zesde, achtste en zeventiende lid wordt de heffingsrente en voor de toepassing van het vijfde lid wordt voorts de revisierente gelijkgesteld met de inkomstenbelasting waarmee deze samenhangen. Voor de toepassing van het negende, elfde, veertiende, zestiende en achttiende lid wordt de heffingsrente voorzover deze samenhangt met de inkomstenbelasting waarvoor op de voet van die leden uitstel van betaling wordt verleend, gelijkgesteld met die belasting. Voor de toepassing van het twaalfde lid, wordt de heffingsrente gelijkgesteld met de erfbelasting waarmee deze samenhangt. Voor de toepassing van het dertiende lid wordt de heffingsrente voor zover deze samenhangt met de erfbelasting waarvoor op de voet van dat lid uitstel van betaling wordt verleend, gelijkgesteld met die belasting.
+21. Voor de toepassing van het vierde, vijfde, zesde, achtste en zeventiende lid wordt de belastingrente en voor de toepassing van het vijfde lid wordt voorts de revisierente gelijkgesteld met de inkomstenbelasting waarmee deze samenhangen. Voor de toepassing van het negende, elfde, veertiende, zestiende en achttiende lid wordt de belastingrente voorzover deze samenhangt met de inkomstenbelasting waarvoor op de voet van die leden uitstel van betaling wordt verleend, gelijkgesteld met die belasting. Voor de toepassing van het twaalfde lid, wordt de belastingrente gelijkgesteld met de erfbelasting waarmee deze samenhangt. Voor de toepassing van het dertiende lid wordt de belastingrente voor zover deze samenhangt met de erfbelasting waarvoor op de voet van dat lid uitstel van betaling wordt verleend, gelijkgesteld met die belasting.
 
 ##### Artikel 26
 
 1. Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige die niet in staat is anders dan met buitengewoon bezwaar een belastingaanslag geheel of gedeeltelijk te betalen, gehele of gedeeltelijke kwijtschelding kan worden verleend.
 
-2. Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van [artikel 25, vijfde of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend indien dit uitstel eindigt doordat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken. Kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan het nog openstaande bedrag nadat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken.
+2. Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van [artikel 25, vijfde of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend indien dit uitstel eindigt doordat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken. Kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan het nog openstaande bedrag nadat de termijn, bedoeld in artikel 25, vijfde lid, tweede volzin, onderscheidenlijk de termijn, bedoeld in artikel 25, achtste lid, tweede volzin, is verstreken.
 
-3. Indien de ontvanger het op de voet van [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), verleende uitstel van betaling beëindigt omdat zich met betrekking tot een aanspraak uit een overeenkomst van levensverzekering of een aanspraak ingevolge een pensioenregeling een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), kan krachtens bij ministeriële regeling te stellen regels aan de belastingschuldige kwijtschelding van belasting worden verleend voor zover:
+3. Indien de ontvanger het op de voet van [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), verleende uitstel van betaling beëindigt omdat zich met betrekking tot een aanspraak uit een overeenkomst van levensverzekering of een aanspraak ingevolge een pensioenregeling een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), kan krachtens bij ministeriële regeling te stellen regels aan de belastingschuldige kwijtschelding van belasting worden verleend voor zover:
 
 - a. die belasting hoger is dan de belasting die zou zijn geheven ter zake van de hiervoor bedoelde omstandigheid indien de belastingschuldige op het moment waarop die omstandigheid zich voordeed in Nederland zou hebben gewoond;
 
-- b. de omstandigheid die ingevolge [artikel 25, vijfde lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), tot beëindiging van het uitstel van betaling heeft geleid, ingevolge een regeling ter voorkoming van dubbele belasting niet belastbaar is in Nederland.
+- b. de omstandigheid die ingevolge [artikel 25, vijfde lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), tot beëindiging van het uitstel van betaling heeft geleid, ingevolge een regeling ter voorkoming van dubbele belasting niet belastbaar is in Nederland.
 
 De eerste volzin is van overeenkomstige toepassing voorzover de waarde in het economische verkeer van de in die volzin bedoelde aanspraak is gedaald in vergelijking met het ingevolge [artikel 3.136, tweede, derde of vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136) ter zake van die aanspraak als negatieve uitgaven voor inkomensvoorzieningen in aanmerking genomen bedrag.
 
-4. Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan de in Nederland verschuldigde dividendbelasting of, indien dit meer bedraagt, aan de in Nederland verschuldigde inkomstenbelasting wegens reguliere voordelen in de zin van [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) met betrekking tot de aandelen of winstbewijzen waarop het uitstel betrekking heeft.
+4. Bij ministeriële regeling worden regels gesteld krachtens welke aan de belastingschuldige ter zake van belasting waarvoor op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), uitstel van betaling is verleend, kwijtschelding van belasting kan worden verleend tot een bedrag gelijk aan de in Nederland verschuldigde dividendbelasting of, indien dit meer bedraagt, aan de in Nederland verschuldigde inkomstenbelasting wegens reguliere voordelen in de zin van [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) met betrekking tot de aandelen of winstbewijzen waarop het uitstel betrekking heeft.
 
-5. Voorzover de ontvanger het op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), verleende uitstel van betaling beëindigt omdat aandelen of winstbewijzen worden vervreemd in de zin van [artikel 25, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), kan krachtens bij ministeriële regeling te stellen regels kwijtschelding worden verleend:
+5. Voorzover de ontvanger het op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), verleende uitstel van betaling beëindigt omdat aandelen of winstbewijzen worden vervreemd in de zin van [artikel 25, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), kan krachtens bij ministeriële regeling te stellen regels kwijtschelding worden verleend:
 
 - a. indien de waarde in het economische verkeer van die aandelen of winstbewijzen is gedaald, anders dan door uitkering van winstreserves of teruggaaf van wat is gestort of ingelegd, in vergelijking tot die waarde ten tijde van het belastbare feit ter zake waarvan de belastingaanslag is vastgesteld – tot een bedrag gelijk aan een vierde van de in deze volzin bedoelde waardedaling;
 
 - b. indien het heffingsrecht wegens vervreemding van die aandelen of winstbewijzen ingevolge de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting aan een ander land van het Koninkrijk, aan een ander heffingsgebied binnen het Rijk, respectievelijk aan een andere mogendheid is toegewezen – tot een bedrag gelijk aan de aldaar ter zake van die vervreemding feitelijk geheven belasting;
 
-- c. voor zover de belasting waarvoor op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van die vervreemding in Nederland zou hebben gewoond.
+- c. voor zover de belasting waarvoor op de voet van [artikel 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van die vervreemding in Nederland zou hebben gewoond.
 
 Het in de eerste volzin bedoelde bedrag aan kwijtschelding bedraagt niet meer dan het bedrag van de belasting waarvoor ter zake van de aandelen of winstbewijzen nog uitstel van betaling is verleend.
 
-6. Indien de ontvanger het op de voet van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), verleende uitstel van betaling beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor op de voet van artikel 25, zesde lid, uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.
+6. Indien de ontvanger het op de voet van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), verleende uitstel van betaling beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor op de voet van artikel 25, zesde lid, uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.
 
 7. Voor de toepassing van dit artikel zijn de [artikelen 4.3 tot en met 4.5a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.3) en [artikel 2, derde lid, onderdeel f, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) van overeenkomstige toepassing.
 
@@ -595,35 +589,31 @@ Het in de eerste volzin bedoelde bedrag aan kwijtschelding bedraagt niet meer da
 
 1. De ontvanger kan de verjaring van een rechtsvordering tot betaling stuiten door een schriftelijke mededeling waarin hij zich ondubbelzinnig zijn recht op betaling voorhoudt.
 
-2. Indien een belastingschuldige is opgehouden te bestaan en voor zover voor zijn belastingschuld een aansprakelijkstelling als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), heeft plaatsgevonden, treedt de aansprakelijk gestelde voor die belastingschuld in de plaats van de belastingschuldige, voor zover het betreft de stuiting van de verjaring of de verlenging van de verjaringstermijn van de rechtsvordering tot betaling.
+2. Indien een belastingschuldige is opgehouden te bestaan en voor zover voor zijn belastingschuld een aansprakelijkstelling als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), heeft plaatsgevonden, treedt de aansprakelijk gestelde voor die belastingschuld in de plaats van de belastingschuldige, voor zover het betreft de stuiting van de verjaring of de verlenging van de verjaringstermijn van de rechtsvordering tot betaling.
 
 ### Hoofdstuk V. Betalingskorting en rente
 
 ##### Artikel 27a
 
-1. Ingeval op een belastingaanslag als bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), die een te innen bedrag behelst en invorderbaar is in meer dan één termijn, op de eerste vervaldag ten minste het bedrag van de belastingaanslag verminderd met het bedrag van de te verlenen betalingskorting is betaald, wordt een betalingskorting verleend over het bedrag van de belastingaanslag. De te verlenen betalingskorting wordt berekend over de helft van het tijdvak dat aanvangt op de dag na de vervaldag van de voor de belastingaanslag geldende eerste betalingstermijn en eindigt op de vervaldag van de voor de belastingaanslag geldende laatste betalingstermijn.
+1. Ingeval op een belastingaanslag als bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), die een te innen bedrag behelst en invorderbaar is in meer dan één termijn, op de eerste vervaldag ten minste het bedrag van de belastingaanslag verminderd met het bedrag van de te verlenen betalingskorting is betaald, wordt een betalingskorting verleend over het bedrag van de belastingaanslag. De te verlenen betalingskorting wordt berekend over de helft van het tijdvak dat aanvangt op de dag na de vervaldag van de voor de belastingaanslag geldende eerste betalingstermijn en eindigt op de vervaldag van de voor de belastingaanslag geldende laatste betalingstermijn.
 
 2. Ingeval een belastingaanslag ter zake waarvan de betalingskorting is verleend, wordt verminderd, wordt de betalingskorting teruggenomen over het bedrag van de vermindering, doch ten hoogste over het positieve bedrag van die belastingaanslag. De terug te nemen betalingskorting wordt berekend over de helft van het tijdvak dat aanvangt op de dag na de dagtekening van het afschrift van de uitspraak of de dagtekening van de kennisgeving waarmee de vermindering wordt bekendgemaakt en eindigt op de vervaldag van de voor de belastingaanslag geldende laatste betalingstermijn.
 
-3. De betalingskorting wordt berekend naar het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=29&z=2012-01-01&g=2012-01-01) bedoelde percentage dat geldt op de vervaldag van de voor de belastingaanslag geldende eerste betalingstermijn.
+3. De betalingskorting wordt berekend naar het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=29&z=2013-01-01&g=2013-01-01) bedoelde percentage dat geldt op de vervaldag van de voor de belastingaanslag geldende eerste betalingstermijn.
 
 ##### Artikel 28
 
-1. Bij overschrijding van de voor de belastingaanslag geldende enige of laatste betalingstermijn wordt aan de belastingschuldige rente - invorderingsrente - in rekening gebracht over het op de belastingaanslag openstaande bedrag, met dien verstande dat voor het gehele tijdvak waarover de rente wordt berekend dit bedrag wordt verlaagd ingeval de belastingaanslag wordt verminderd.
+1. Bij overschrijding van de voor de belastingaanslag geldende enige of laatste betalingstermijn wordt aan de belastingschuldige rente – invorderingsrente – in rekening gebracht over het op de belastingaanslag openstaande bedrag met dien verstande dat invorderingsrente niet in rekening wordt gebracht voor zover met de belastingaanslag wordt verrekend een belastingaanslag die op dezelfde belasting en hetzelfde tijdvak betrekking heeft.
 
-2. Invorderingsrente wordt niet in rekening gebracht over de tijd voor welke de belastingschuldige krachtens [artikel 25, derde, vijfde, zesde, achtste, negende, elfde, of zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), uitstel van betaling is verleend. In afwijking in zoverre van de eerste volzin wordt invorderingsrente in rekening gebracht voor zover het krachtens [artikel 25, vijfde, zesde, achtste, negende, elfde, of zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), verleende uitstel door de ontvanger wordt beëindigd of voor zover betaling niet plaatsvindt binnen de termijn waarvoor uitstel van betaling is verleend.
+2. De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag waarop de belastingaanslag invorderbaar is ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01) en eindigt op de dag voorafgaand aan die van de betaling. Voor de toepassing van de eerste volzin blijft [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2013-01-01&g=2013-01-01) buiten toepassing.
 
-3. Invorderingsrente is niet verschuldigd over de tijd voor welke de belastingschuldige uitstel van betaling is verleend als bedoeld in artikel 224 van het Communautair douanewetboek.
+3. Invorderingsrente wordt niet in rekening gebracht over de tijd voor welke de belastingschuldige krachtens [artikel 25, derde, vijfde, zesde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), uitstel van betaling is verleend en over de tijd voor welke hem uitstel van betaling is verleend als bedoeld in artikel 224 van het Communautair Douanewetboek.
 
-4. Ingeval bij vermindering van de belastingaanslag het bedrag van de vermindering meer beloopt dan het op de belastingaanslag nog openstaande bedrag, wordt aan de belastingschuldige invorderingsrente vergoed over het verschil, doch ten hoogste over het bedrag dat op de belastingaanslag is betaald.
-
-5. De invorderingsrente wordt enkelvoudig berekend. Het begin en het einde van het tijdvak waarover invorderingsrente wordt berekend, worden bij algemene maatregel van bestuur bepaald.
-
-6. De vorige leden vinden geen toepassing bij een vermindering van de belastingaanslag voor zover die het gevolg is van de verrekening van een verlies van een volgend jaar.
+4. In afwijking in zoverre van het derde lid wordt invorderingsrente in rekening gebracht voor zover het krachtens [artikel 25, vijfde, zesde, achtste, negende, elfde, zeventiende, achttiende of negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), verleende uitstel door de ontvanger wordt beëindigd of voor zover betaling niet plaatsvindt binnen de termijn waarvoor uitstel van betaling is verleend. Bij algemene maatregel van bestuur wordt het tijdvak bepaald waarover in deze situaties invorderingsrente wordt berekend.
 
 ##### Artikel 29
 
-Het percentage van de invorderingsrente in een kalenderkwartaal is gelijk aan de op de eerste werkdag van de tweede kalendermaand voorafgaande aan dat kwartaal door de Europese Centrale Bank voor basisherfinancieringstransacties toegepaste interestvoet (de minimale biedrente), dan wel, indien dit lager is, het naar de gemiddelde koers van die dag door Onze Minister berekende, ongewogen gemiddelde effectieve rendement van de laatste drie uitgegeven staatsleningen die zijn toegelaten tot de handel op een gereglementeerde markt waarvoor een vergunning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) is verleend waarbij dit effectieve rendement naar beneden wordt afgerond op een vijfvoud van honderdstenprocenten en vervolgens wordt verminderd met 0,5 procentpunt, met dien verstande dat het aldus bepaalde percentage van de invorderingsrente vervolgens wordt vermeerderd met 1,50 procentpunt.
+Het percentage van de invorderingsrente is gelijk aan dat van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119).
 
 ##### Artikel 30
 
@@ -637,7 +627,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de bij de berekenin
 
 ##### Artikel 31a
 
-Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (**Trb.** 1990, 173), de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=29&z=2012-01-01&g=2012-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=30&z=2012-01-01&g=2012-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=31&z=2012-01-01&g=2012-01-01).
+Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (**Trb.** 1990, 173), de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=28&z=2013-01-01&g=2013-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=29&z=2013-01-01&g=2013-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=30&z=2013-01-01&g=2013-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=31&z=2013-01-01&g=2013-01-01).
 
 ### Hoofdstuk VI. Aansprakelijkheid
 
@@ -667,7 +657,7 @@ Onze Minister kan in het kader van een regeling voor onderling overleg op grond 
 
 ##### Artikel 34
 
-1. Ingeval een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld aan een derde, de inlener, om onder diens toezicht of leiding werkzaam te zijn, is de inlener hoofdelijk aansprakelijk voor de loonbelasting welke de uitlener verschuldigd is in verband met het verrichten van die werkzaamheden door die werknemer alsmede voor de omzetbelasting welke de uitlener, dan wel – in geval doorlening plaatsvindt – de in het tweede lid bedoelde doorlener verschuldigd is in verband met dat ter beschikking stellen. In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2012-01-01&g=2012-01-01), is de inlener niet aansprakelijk voor de in verband met de heffing van loonbelasting of van omzetbelasting opgelegde bestuurlijke boete.
+1. Ingeval een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld aan een derde, de inlener, om onder diens toezicht of leiding werkzaam te zijn, is de inlener hoofdelijk aansprakelijk voor de loonbelasting welke de uitlener verschuldigd is in verband met het verrichten van die werkzaamheden door die werknemer alsmede voor de omzetbelasting welke de uitlener, dan wel – in geval doorlening plaatsvindt – de in het tweede lid bedoelde doorlener verschuldigd is in verband met dat ter beschikking stellen. In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2013-01-01&g=2013-01-01), is de inlener niet aansprakelijk voor de in verband met de heffing van loonbelasting of van omzetbelasting opgelegde bestuurlijke boete.
 
 2. Onder inlener wordt mede verstaan:
 
@@ -691,9 +681,9 @@ Onze Minister kan in het kader van een regeling voor onderling overleg op grond 
 
 - a. die de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer verschuldigd is in verband met het verrichten van werkzaamheden door zijn werknemers ter zake van dat werk;
 
-- b. voor de betaling waarvan de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2012-01-01&g=2012-01-01) hoofdelijk aansprakelijk is ter zake van dat werk.
+- b. voor de betaling waarvan de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2013-01-01&g=2013-01-01) hoofdelijk aansprakelijk is ter zake van dat werk.
 
-In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2012-01-01&g=2012-01-01), is de aannemer niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete.
+In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2013-01-01&g=2013-01-01), is de aannemer niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete.
 
 2. In dit artikel wordt verstaan onder:
 
@@ -725,15 +715,15 @@ In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/
 
 - a. die de aannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer verschuldigd is in verband met het verrichten van werkzaamheden door zijn werknemers ter zake van dat werk;
 
-- b. voor de betaling waarvan de aannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01) hoofdelijk aansprakelijk is ter zake van dat werk.
+- b. voor de betaling waarvan de aannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01) hoofdelijk aansprakelijk is ter zake van dat werk.
 
-In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2012-01-01&g=2012-01-01), is de opdrachtgever niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete.
+In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2013-01-01&g=2013-01-01), is de opdrachtgever niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete.
 
 2. In dit artikel wordt onder opdrachtgever verstaan degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf met een ander, de aannemer, een overeenkomst heeft gesloten om voor hem een werk als bedoeld in het eerste lid uit te voeren tegen een te betalen prijs.
 
 3. Voor de toepassing van dit artikel wordt met een opdrachtgever gelijkgesteld degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf kleding, andere dan schoeisel, koopt die nog geheel of gedeeltelijk vervaardigd moet worden en met een aannemer de verkoper daarvan.
 
-4. [Artikel 35, tweede lid, derde lid, onderdelen a en c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing, met dien verstande dat:
+4. [Artikel 35, tweede lid, derde lid, onderdelen a en c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing, met dien verstande dat:
 
 - a. in het tweede lid, onderdeel a, van dat artikel voor een werk van stoffelijke aard moet worden gelezen: een werk, inhoudende de vervaardiging en elke daarop gerichte handeling van kleding, andere dan schoeisel;
 
@@ -745,7 +735,7 @@ In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/
 
 ##### Artikel 35b
 
-Indien de belastingschuld betrekking heeft op een werk als bedoeld in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01), is degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf vervaardigde kleding koopt, hoofdelijk aansprakelijk voor de loonbelasting welke verschuldigd is ter zake van dat werk, tenzij aannemelijk is dat hij op het tijdstip van de koop niet wist of behoorde te weten dat ter zake van dat werk te weinig of geen loonbelasting zou worden betaald. In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2012-01-01&g=2012-01-01), is degene die op grond van de eerste volzin aansprakelijk is niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+Indien de belastingschuld betrekking heeft op een werk als bedoeld in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01), is degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf vervaardigde kleding koopt, hoofdelijk aansprakelijk voor de loonbelasting welke verschuldigd is ter zake van dat werk, tenzij aannemelijk is dat hij op het tijdstip van de koop niet wist of behoorde te weten dat ter zake van dat werk te weinig of geen loonbelasting zou worden betaald. In afwijking in zoverre van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=32&z=2013-01-01&g=2013-01-01), is degene die op grond van de eerste volzin aansprakelijk is niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
 ##### Artikel 36
 
@@ -773,7 +763,7 @@ Indien de belastingschuld betrekking heeft op een werk als bedoeld in [artikel 3
 
 ##### Artikel 36a
 
-1. Hoofdelijk aansprakelijk is voor de venootschapsbelasting die een lichaam is verschuldigd ingevolge [artikel 23a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23a): ieder van de bestuurders. [Artikel 36, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+1. Hoofdelijk aansprakelijk is voor de venootschapsbelasting die een lichaam is verschuldigd ingevolge [artikel 23a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23a): ieder van de bestuurders. [Artikel 36, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 2. Degene die op grond van het eerste lid aansprakelijk is, is niet aansprakelijk voor zover hij bewijst dat:
 
@@ -783,13 +773,13 @@ Indien de belastingschuld betrekking heeft op een werk als bedoeld in [artikel 3
 
 ##### Artikel 37
 
-1. Voor zover zulks niet reeds uit [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), volgt is hoofdelijk aansprakelijk:
+1. Voor zover zulks niet reeds uit [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), volgt is hoofdelijk aansprakelijk:
 
 - a. voor de loonbelasting verschuldigd door een niet in Nederland wonende of gevestigde inhoudingsplichtige,
 
 - b. voor de omzetbelasting verschuldigd door een niet in Nederland wonende of gevestigde ondernemer,
 
-- c. voor de loonbelasting die een niet in Nederland wonende of gevestigde aannemer, opdrachtgever of koper is verschuldigd op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01) of [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2012-01-01&g=2012-01-01): de leider van de vaste inrichting in Nederland, de in Nederland wonende of gevestigde vaste vertegenwoordiger, of degene die de leiding heeft van de in Nederland verrichte werkzaamheden.
+- c. voor de loonbelasting die een niet in Nederland wonende of gevestigde aannemer, opdrachtgever of koper is verschuldigd op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01) of [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2013-01-01&g=2013-01-01): de leider van de vaste inrichting in Nederland, de in Nederland wonende of gevestigde vaste vertegenwoordiger, of degene die de leiding heeft van de in Nederland verrichte werkzaamheden.
 
 2. Hoofdelijk aansprakelijk voor de loonbelasting met betrekking tot de gage van de niet in Nederland wonende artiest of beroepssporter dan wel het buitenlandse gezelschap is de persoon die of het lichaam dat het optreden of de sportbeoefening in Nederland organiseert, mede organiseert of doet organiseren.
 
@@ -861,7 +851,7 @@ Indien krachtens [artikel 12**a** van de Wet op de omzetbelasting 1968](https://
 
 1. Natuurlijke personen en lichamen in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), die ingevolge [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) zijn aangemerkt als één ondernemer, zijn hoofdelijk aansprakelijk voor de omzetbelasting welke verschuldigd is door deze ondernemer, dan wel - indien de inspecteur niet schriftelijk ervan in kennis is gesteld dat op grond van gewijzigde omstandigheden niet langer een eenheid bestaat als is bedoeld in die bepaling - door deze personen en lichamen.
 
-2. Indien aan de ondernemer bedoeld in het eerste lid een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, met inachtneming van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=54&z=2012-01-01&g=2012-01-01), deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen bedoeld in het eerste lid.
+2. Indien aan de ondernemer bedoeld in het eerste lid een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, met inachtneming van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=54&z=2013-01-01&g=2013-01-01), deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen bedoeld in het eerste lid.
 
 ##### Artikel 44
 
@@ -901,19 +891,13 @@ Indien krachtens [artikel 12**a** van de Wet op de omzetbelasting 1968](https://
 
 ##### Artikel 44c
 
-1. Indien ingevolge [artikel 3.116, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116) een kapitaalverzekering eigen woning wordt geacht tot uitkering te zijn gekomen, is de verzekeraar van die uitkering tot ten hoogste de waarde in het economische verkeer daarvan aansprakelijk voor de belasting die terzake door de gerechtigde is verschuldigd. Indien ingevolge [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a) een spaarrekening eigen woning of een beleggingsrecht eigen woning geacht wordt te zijn gedeblokkeerd, is de bank waarbij die rekening wordt aangehouden onderscheidenlijk de beheerder waarbij dat recht wordt aangehouden aansprakelijk voor de belasting die ter zake door de rekeninghouder onderscheidenlijk eigenaar is verschuldigd.
-
-2. Het bedrag van de verschuldigde belasting wordt gesteld op het evenredig gedeelte van de belasting die meer is verschuldigd ter zake van alle kapitaalverzekeringen eigen woning, alle spaarrekeningen eigen woning en alle beleggingsrechten eigen woning die in het jaar ingevolge [artikel 3.116, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), onderscheidenlijk [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a) worden geacht tot uitkering te zijn gekomen of worden geacht te zijn gedeblokkeerd.
-
-3. [Artikel 2.16, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.16) is van overeenkomstige toepassing.
-
-4. Zo spoedig mogelijk nadat de aansprakelijkheid ingevolge het eerste lid is ontstaan, wordt aan de verzekeraar, de bank of de beheerder van de beleggingsinstelling schriftelijk mededeling gedaan van het bedrag waarvoor deze aansprakelijk is.
+Vervallen
 
 ##### Artikel 45
 
-1. Voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd ter zake van geconserveerd inkomen als bedoeld in [artikel 2.8, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.8) is aansprakelijk degene aan wie de belastingschuldige de aandelen of winstbewijzen heeft vervreemd en welke vervreemding heeft geleid tot het geconserveerde inkomen, of, voor zover aandelen of winstbewijzen nadien zijn geschonken waarbij het uitstel op grond van [artikel 25, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), is voortgezet, degene die deze aandelen of winstbewijzen heeft verkregen, voor zover de belastingschuld aan die aandelen of winstbewijzen kan worden toegerekend.
+1. Voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd ter zake van geconserveerd inkomen als bedoeld in [artikel 2.8, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.8) is aansprakelijk degene aan wie de belastingschuldige de aandelen of winstbewijzen heeft vervreemd en welke vervreemding heeft geleid tot het geconserveerde inkomen, of, voor zover aandelen of winstbewijzen nadien zijn geschonken waarbij het uitstel op grond van [artikel 25, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), is voortgezet, degene die deze aandelen of winstbewijzen heeft verkregen, voor zover de belastingschuld aan die aandelen of winstbewijzen kan worden toegerekend.
 
-2. Aansprakelijkheid op grond van het eerste lid ontstaat indien het uitstel van betaling op grond van [artikel 25, achtste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), is beëindigd.
+2. Aansprakelijkheid op grond van het eerste lid ontstaat indien het uitstel van betaling op grond van [artikel 25, achtste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), is beëindigd.
 
 ##### Artikel 46
 
@@ -935,9 +919,9 @@ Indien krachtens [artikel 12**a** van de Wet op de omzetbelasting 1968](https://
 
 - a. navorderings- en naheffingsaanslagen die na het overlijden van de belastingschuldige worden vastgesteld;
 
-- b. bedragen die na het overlijden van de hoofdelijk aansprakelijk gestelde worden vastgesteld op de voet van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01).
+- b. bedragen die na het overlijden van de hoofdelijk aansprakelijk gestelde worden vastgesteld op de voet van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01).
 
-2. In afwijking in zoverre van het eerste lid, onderdeel **b**, zijn erfgenamen niet aansprakelijk voor bedragen waarvoor de ontvanger de erflater op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36a&z=2012-01-01&g=2012-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2012-01-01&g=2012-01-01) na diens overlijden aansprakelijk stelt.
+2. In afwijking in zoverre van het eerste lid, onderdeel **b**, zijn erfgenamen niet aansprakelijk voor bedragen waarvoor de ontvanger de erflater op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36a&z=2013-01-01&g=2013-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2013-01-01&g=2013-01-01) na diens overlijden aansprakelijk stelt.
 
 ### Afdeling 2. Formele bepalingen
 
@@ -971,7 +955,7 @@ Vervallen
 
 2. Het beslag vervalt van rechtswege indien:
 
-- a. de aansprakelijk gestelde bezwaar heeft gemaakt tegen de beschikking, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), en de ontvanger niet binnen vier maanden na de dagtekening van de beschikking uitspraak heeft gedaan op het bezwaarschrift; of
+- a. de aansprakelijk gestelde bezwaar heeft gemaakt tegen de beschikking, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), en de ontvanger niet binnen vier maanden na de dagtekening van de beschikking uitspraak heeft gedaan op het bezwaarschrift; of
 
 - b. vóór het leggen van het beslag geen aansprakelijkstelling heeft plaatsgevonden en aansprakelijkstelling niet alsnog plaatsvindt binnen drie maanden na het leggen van het beslag.
 
@@ -981,15 +965,15 @@ Vervallen
 
 ##### Artikel 52
 
-1. Het bedrag, vermeld in een beschikking als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), is invorderbaar zes weken na de dagtekening van de beschikking. De [artikelen 9, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=11&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=12&z=2012-01-01&g=2012-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing.
+1. Het bedrag, vermeld in een beschikking als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), is invorderbaar zes weken na de dagtekening van de beschikking. De [artikelen 9, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=11&z=2013-01-01&g=2013-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=12&z=2013-01-01&g=2013-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=13&z=2013-01-01&g=2013-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
 
-2. De aansprakelijk gestelde kan tegen de tenuitvoerlegging van een dwangbevel inzake de invordering van een aansprakelijkheidsschuld in verzet komen op overeenkomstige wijze als een belastingschuldige op de voet van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2012-01-01&g=2012-01-01), met dien verstande dat het bepaalde in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2012-01-01&g=2012-01-01) eveneens geldt voor het niet ontvangen zijn van de beschikking, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), en voor de omstandigheden die aan de orde zijn of hadden kunnen worden gesteld bij het maken van bezwaar tegen de in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), bedoelde beschikking, bij het instellen van beroep ter zake van een uitspraak op het desbetreffende bezwaar of bij het instellen van beroep in cassatie ter zake van een uitspraak op het desbetreffende beroep.
+2. De aansprakelijk gestelde kan tegen de tenuitvoerlegging van een dwangbevel inzake de invordering van een aansprakelijkheidsschuld in verzet komen op overeenkomstige wijze als een belastingschuldige op de voet van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2013-01-01&g=2013-01-01), met dien verstande dat het bepaalde in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2013-01-01&g=2013-01-01) eveneens geldt voor het niet ontvangen zijn van de beschikking, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), en voor de omstandigheden die aan de orde zijn of hadden kunnen worden gesteld bij het maken van bezwaar tegen de in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), bedoelde beschikking, bij het instellen van beroep ter zake van een uitspraak op het desbetreffende bezwaar of bij het instellen van beroep in cassatie ter zake van een uitspraak op het desbetreffende beroep.
 
 ##### Artikel 53
 
-1. De bepalingen van de [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&z=2012-01-01&g=2012-01-01) en de [tweede afdeling van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&z=2012-01-01&g=2012-01-01) inzake verhaalsrechten en verrekening, met uitzondering van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2012-01-01&g=2012-01-01), vinden overeenkomstige toepassing ten aanzien van de aansprakelijk gestelde.
+1. De bepalingen van de [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&z=2013-01-01&g=2013-01-01) en de [tweede afdeling van hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&z=2013-01-01&g=2013-01-01) inzake verhaalsrechten en verrekening, met uitzondering van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2013-01-01&g=2013-01-01), vinden overeenkomstige toepassing ten aanzien van de aansprakelijk gestelde.
 
-2. Het bepaalde in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01) met betrekking tot de mogelijkheid van uitstel van betaling vindt overeenkomstige toepassing ten aanzien van de aansprakelijk gestelde.
+2. Het bepaalde in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01) met betrekking tot de mogelijkheid van uitstel van betaling vindt overeenkomstige toepassing ten aanzien van de aansprakelijk gestelde.
 
 3. Bij ministeriële regeling worden regels gesteld krachtens welke de aansprakelijk gestelde die niet in staat is anders dan met buitengewoon bezwaar het bedrag waarvoor hij aansprakelijk is gesteld geheel of gedeeltelijk te voldoen, geheel of gedeeltelijk wordt ontslagen van zijn betalingsverplichting.
 
@@ -1007,9 +991,9 @@ Vervallen
 
 ##### Artikel 55
 
-1. Indien verhaal op de belastingschuldige door degene die ingevolge [artikel 33, eerste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2012-01-01&g=2012-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2012-01-01&g=2012-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36a&z=2012-01-01&g=2012-01-01), [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2012-01-01&g=2012-01-01), of [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=37&z=2012-01-01&g=2012-01-01) belasting heeft voldaan geheel of gedeeltelijk onmogelijk blijkt en ter zake van de belastingschuld twee of meer personen ingevolge de desbetreffende bepaling hoofdelijk aansprakelijk zijn, dragen dezen onderling voor gelijke delen in het onverhaald gebleven deel bij. Indien [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01) of [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2012-01-01&g=2012-01-01) van toepassing is en het aandeel in het totaal van het uit te voeren werk dat ieder van de hoofdelijk aansprakelijken heeft laten uitvoeren kan worden vastgesteld, draagt, in afwijking in zoverre van de eerste volzin, ieder in evenredigheid met dat aandeel bij. Voor de toepassing van dit artikel worden voorts de opdrachtgever en de koper geacht dat werk geheel te hebben laten uitvoeren door een onderaannemer.
+1. Indien verhaal op de belastingschuldige door degene die ingevolge [artikel 33, eerste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2013-01-01&g=2013-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2013-01-01&g=2013-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36a&z=2013-01-01&g=2013-01-01), [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2013-01-01&g=2013-01-01), of [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=37&z=2013-01-01&g=2013-01-01) belasting heeft voldaan geheel of gedeeltelijk onmogelijk blijkt en ter zake van de belastingschuld twee of meer personen ingevolge de desbetreffende bepaling hoofdelijk aansprakelijk zijn, dragen dezen onderling voor gelijke delen in het onverhaald gebleven deel bij. Indien [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01) of [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2013-01-01&g=2013-01-01) van toepassing is en het aandeel in het totaal van het uit te voeren werk dat ieder van de hoofdelijk aansprakelijken heeft laten uitvoeren kan worden vastgesteld, draagt, in afwijking in zoverre van de eerste volzin, ieder in evenredigheid met dat aandeel bij. Voor de toepassing van dit artikel worden voorts de opdrachtgever en de koper geacht dat werk geheel te hebben laten uitvoeren door een onderaannemer.
 
-2. Indien de opdrachtgever ingevolge [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01) belasting heeft voldaan, draagt, in afwijking in zoverre van het eerste lid, tevens een aannemer bij die met betrekking tot het desbetreffende werk ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01) aansprakelijk is. Indien een koper ingevolge [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2012-01-01&g=2012-01-01) belasting heeft voldaan, dragen, in afwijking in zoverre van het eerste lid, tevens de opdrachtgever onderscheidenlijk een aannemer bij die met betrekking tot het desbetreffende werk ingevolge [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01) onderscheidenlijk [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01) aansprakelijk zijn.
+2. Indien de opdrachtgever ingevolge [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01) belasting heeft voldaan, draagt, in afwijking in zoverre van het eerste lid, tevens een aannemer bij die met betrekking tot het desbetreffende werk ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01) aansprakelijk is. Indien een koper ingevolge [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2013-01-01&g=2013-01-01) belasting heeft voldaan, dragen, in afwijking in zoverre van het eerste lid, tevens de opdrachtgever onderscheidenlijk een aannemer bij die met betrekking tot het desbetreffende werk ingevolge [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01) onderscheidenlijk [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01) aansprakelijk zijn.
 
 3. In afwijking in zoverre van de voorgaande leden bedraagt de bijdrage niet meer dan het bedrag waarvoor ieders aansprakelijkheid ingevolge de desbetreffende bepaling bestaat. Een als gevolg van de toepassing van de vorige volzin ontstaan tekort wordt met inachtneming van de voorgaande leden over de anderen verdeeld.
 
@@ -1021,17 +1005,17 @@ Vervallen
 
 ##### Artikel 56
 
-1. Degene die op de voet van de [artikelen 33, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2012-01-01&g=2012-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2012-01-01&g=2012-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2012-01-01&g=2012-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2012-01-01&g=2012-01-01) of [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=37&z=2012-01-01&g=2012-01-01) voor de voldoening van een belastingschuld geheel of ten dele aansprakelijk is gesteld, kan voor hetgeen hij in de belasting heeft bijgedragen verhaal nemen op ieder van degenen, die ingevolge de [artikelen 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2012-01-01&g=2012-01-01) voor die belastingschuld hoofdelijk aansprakelijk is.
+1. Degene die op de voet van de [artikelen 33, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2013-01-01&g=2013-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2013-01-01&g=2013-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35b&z=2013-01-01&g=2013-01-01) of [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=37&z=2013-01-01&g=2013-01-01) voor de voldoening van een belastingschuld geheel of ten dele aansprakelijk is gesteld, kan voor hetgeen hij in de belasting heeft bijgedragen verhaal nemen op ieder van degenen, die ingevolge de [artikelen 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2013-01-01&g=2013-01-01) voor die belastingschuld hoofdelijk aansprakelijk is.
 
-2. Ten aanzien van degene die een ingevolge [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=3&artikel=55&z=2012-01-01&g=2012-01-01) verschuldigd bedrag heeft voldaan, is het eerste lid van overeenkomstige toepassing.
+2. Ten aanzien van degene die een ingevolge [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=3&artikel=55&z=2013-01-01&g=2013-01-01) verschuldigd bedrag heeft voldaan, is het eerste lid van overeenkomstige toepassing.
 
-3. Degene die het ingevolge het eerste lid verschuldigde bedrag heeft voldaan, wordt geacht tot dit bedrag de belasting van de belastingschuldige ingevolge de [artikelen 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2012-01-01&g=2012-01-01) te hebben voldaan.
+3. Degene die het ingevolge het eerste lid verschuldigde bedrag heeft voldaan, wordt geacht tot dit bedrag de belasting van de belastingschuldige ingevolge de [artikelen 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) of [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36b&z=2013-01-01&g=2013-01-01) te hebben voldaan.
 
 4. Van het eerste, tweede en derde lid kan bij overeenkomst worden afgeweken.
 
 ##### Artikel 57
 
-De aansprakelijke die in de belasting heeft bijgedragen, is bij zijn verhaal op de belastingschuldige of de mede-aansprakelijke uitsluitend gesubrogeerd in het voorrecht van ’s Rijks schatkist overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=21&z=2012-01-01&g=2012-01-01). De eerste volzin is van overeenkomstige toepassing ten aanzien van de belastingschuldige en de aansprakelijke die in de belasting heeft bijgedragen indien [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=54&z=2012-01-01&g=2012-01-01) toepassing heeft gevonden.
+De aansprakelijke die in de belasting heeft bijgedragen, is bij zijn verhaal op de belastingschuldige of de mede-aansprakelijke uitsluitend gesubrogeerd in het voorrecht van ’s Rijks schatkist overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=21&z=2013-01-01&g=2013-01-01). De eerste volzin is van overeenkomstige toepassing ten aanzien van de belastingschuldige en de aansprakelijke die in de belasting heeft bijgedragen indien [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=54&z=2013-01-01&g=2013-01-01) toepassing heeft gevonden.
 
 ### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
@@ -1047,7 +1031,7 @@ De aansprakelijke die in de belasting heeft bijgedragen, is bij zijn verhaal op 
 
 ##### Artikel 59
 
-1. De in [artikel 58, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2012-01-01&g=2012-01-01), bedoelde verplichting geldt onverminderd voor een derde bij wie zich gegevensdragers bevinden van degene die gehouden is deze, of de inhoud daarvan, aan de ontvanger voor raadpleging beschikbaar te stellen.
+1. De in [artikel 58, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2013-01-01&g=2013-01-01), bedoelde verplichting geldt onverminderd voor een derde bij wie zich gegevensdragers bevinden van degene die gehouden is deze, of de inhoud daarvan, aan de ontvanger voor raadpleging beschikbaar te stellen.
 
 2. De ontvanger stelt degene wiens gegevensdragers hij bij een derde voor raadpleging vordert, gelijktijdig hiervan in kennis.
 
@@ -1059,11 +1043,11 @@ De aansprakelijke die in de belasting heeft bijgedragen, is bij zijn verhaal op 
 
 ##### Artikel 61
 
-Voor een weigering om te voldoen aan de in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2012-01-01&g=2012-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2012-01-01&g=2012-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2012-01-01&g=2012-01-01) omschreven verplichtingen kan niemand zich met vrucht beroepen op de omstandigheid dat hij uit enigerlei hoofde tot geheimhouding verplicht is, zelfs niet indien deze hem bij een wettelijke bepaling is opgelegd.
+Voor een weigering om te voldoen aan de in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2013-01-01&g=2013-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2013-01-01&g=2013-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2013-01-01&g=2013-01-01) omschreven verplichtingen kan niemand zich met vrucht beroepen op de omstandigheid dat hij uit enigerlei hoofde tot geheimhouding verplicht is, zelfs niet indien deze hem bij een wettelijke bepaling is opgelegd.
 
 ##### Artikel 62
 
-1. Met betrekking tot administratieplichtigen als bedoeld in [artikel 52 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), zijn de in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2012-01-01&g=2012-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2012-01-01&g=2012-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2012-01-01&g=2012-01-01) geregelde verplichtingen van overeenkomstige toepassing ten behoeve van de invordering van derden.
+1. Met betrekking tot administratieplichtigen als bedoeld in [artikel 52 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), zijn de in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2013-01-01&g=2013-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2013-01-01&g=2013-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2013-01-01&g=2013-01-01) geregelde verplichtingen van overeenkomstige toepassing ten behoeve van de invordering van derden.
 
 2. Het bepaalde in het eerste lid is niet van toepassing op de personen en de lichamen als bedoeld in [artikel 55 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.
 
@@ -1093,13 +1077,13 @@ De verplichtingen welke volgens dit hoofdstuk bestaan jegens de ontvanger, gelde
 
 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-2. Degene die niet voldoet aan de hem bij [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2012-01-01&g=2012-01-01), opgelegde verplichting, wordt gestraft met geldboete van de tweede categorie.
+2. Degene die niet voldoet aan de hem bij [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2013-01-01&g=2013-01-01), opgelegde verplichting, wordt gestraft met geldboete van de tweede categorie.
 
 ##### Artikel 65
 
-1. Degene die opzettelijk een der feiten begaat, omschreven in [artikel 64, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2012-01-01&g=2012-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt ingevorderd, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig ingevorderde belasting.
+1. Degene die opzettelijk een der feiten begaat, omschreven in [artikel 64, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2013-01-01&g=2013-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt ingevorderd, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig ingevorderde belasting.
 
-2. Degene die opzettelijk het feit begaat, omschreven in [artikel 64, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2012-01-01&g=2012-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt ingevorderd, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig ingevorderde belasting.
+2. Degene die opzettelijk het feit begaat, omschreven in [artikel 64, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2013-01-01&g=2013-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt ingevorderd, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig ingevorderde belasting.
 
 3. Het recht tot strafvervolging op de voet van dit artikel vervalt, indien de schuldige alsnog juiste en volledige inlichtingen of gegevens verstrekt voordat hij weet of redelijkerwijs moet vermoeden dat een of meer van de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen of een of meer ambtenaren van de rijksbelastingdienst de onjuistheid of onvolledigheid bekend is of bekend zal worden, mits het niet tijdig verstrekken van de gevraagde inlichtingen of gegevens niet van invloed is geweest op de verhaalsmogelijkheden met betrekking tot de belastingschuld.
 
@@ -1113,7 +1097,7 @@ De in deze wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn
 
 ##### Artikel 66
 
-Hoofdstuk IX, afdeling 2 - met uitzondering van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=X&artikel=72&z=2012-01-01&g=2012-01-01) - en [afdeling 3, van de Algemene wet inzake rijksbelastingen](onbekend) is van toepassing met betrekking tot de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2012-01-01&g=2012-01-01) strafbaar gestelde feiten, met dien verstande dat voor belastingwet wordt gelezen Invorderingswet 1990.
+Hoofdstuk IX, afdeling 2 - met uitzondering van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=X&artikel=72&z=2013-01-01&g=2013-01-01) - en [afdeling 3, van de Algemene wet inzake rijksbelastingen](onbekend) is van toepassing met betrekking tot de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIII&artikel=64&z=2013-01-01&g=2013-01-01) strafbaar gestelde feiten, met dien verstande dat voor belastingwet wordt gelezen Invorderingswet 1990.
 
 ### Hoofdstuk VIIa. Bestuurlijke boeten
 
@@ -1141,7 +1125,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering va
 
 ##### Artikel 70
 
-[Artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2012-01-01&g=2012-01-01), vervalt op 1 januari 1993, tenzij voordien een wetsvoorstel, houdende een definitieve regeling omtrent het fiscaal bodemrecht bij de Tweede Kamer der Staten-Generaal is ingediend, dan wel een wetsvoorstel houdende een verlenging van de geldigheidsduur van voornoemde bepaling voor een tijd van niet langer dan een jaar.
+[Artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2013-01-01&g=2013-01-01), vervalt op 1 januari 1993, tenzij voordien een wetsvoorstel, houdende een definitieve regeling omtrent het fiscaal bodemrecht bij de Tweede Kamer der Staten-Generaal is ingediend, dan wel een wetsvoorstel houdende een verlenging van de geldigheidsduur van voornoemde bepaling voor een tijd van niet langer dan een jaar.
 
 ### Hoofdstuk VIIa. Bestuurlijke boeten
 
@@ -1159,7 +1143,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. De ontvanger is mede belast met de invordering van de strafbeschikking.
 
-2. Bij de invordering zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=4&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=6&z=2012-01-01&g=2012-01-01), [9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2012-01-01&g=2012-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2012-01-01&g=2012-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=20&z=2012-01-01&g=2012-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2012-01-01&g=2012-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2012-01-01&g=2012-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=27&z=2012-01-01&g=2012-01-01) en [28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2012-01-01&g=2012-01-01), een geldboete invorderbaar is veertien dagen na de uitreiking in persoon of toezending van het afschrift van de strafbeschikking.
+2. Bij de invordering zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=6&z=2013-01-01&g=2013-01-01), [9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=17&z=2013-01-01&g=2013-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=19&z=2013-01-01&g=2013-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=20&z=2013-01-01&g=2013-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2013-01-01&g=2013-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=25&z=2013-01-01&g=2013-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=3&artikel=27&z=2013-01-01&g=2013-01-01) en [28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V&artikel=28&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), een geldboete invorderbaar is veertien dagen na de uitreiking in persoon of toezending van het afschrift van de strafbeschikking.
 
 ### Hoofdstuk II. Invordering in eerste aanleg
 
@@ -1205,7 +1189,7 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 9. In afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) is verrekening ook mogelijk van een voorlopige aanslag tot een negatief bedrag als bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13).
 
-### Afdeling 3. Uitstel van betaling, kwijtschelding en verjaring
+### Afdeling 2. Verrekening
 
 ### Hoofdstuk V. Betalingskorting en rente
 
@@ -1215,7 +1199,7 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 ### Afdeling 2. Formele bepalingen
 
-### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
+### Afdeling 2. Formele bepalingen
 
 ### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
@@ -1223,23 +1207,23 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 ### Hoofdstuk VIIa. Bestuurlijke boeten
 
-### Hoofdstuk VIII. Strafrechtelijke bepalingen
+### Hoofdstuk VIIa. Bestuurlijke boeten
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 36b
 
-1. Hoofdelijk aansprakelijk is voor de loonbelasting of de omzetbelasting waarvoor een rechtspersoonlijkheid bezittend lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) dat volledig rechtsbevoegd is, voorzover het aan de heffing van de vennootschapsbelasting is onderworpen, bij beschikking als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2012-01-01&g=2012-01-01), aansprakelijk is gesteld (aansprakelijkheidsschuld): ieder van de bestuurders van dat lichaam.
+1. Hoofdelijk aansprakelijk is voor de loonbelasting of de omzetbelasting waarvoor een rechtspersoonlijkheid bezittend lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) dat volledig rechtsbevoegd is, voorzover het aan de heffing van de vennootschapsbelasting is onderworpen, bij beschikking als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=2&artikel=49&z=2013-01-01&g=2013-01-01), aansprakelijk is gesteld (aansprakelijkheidsschuld): ieder van de bestuurders van dat lichaam.
 
-2. [Artikel 36, tweede tot en met zesde lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing, met dien verstande dat:
+2. [Artikel 36, tweede tot en met zesde lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in het [tweede lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) voor «loonbelasting, omzetbelasting, accijns, verbruiksbelasting voor alcoholvrije dranken, verbruiksbelasting van pruimtabak of snuiftabak, een van de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen of de kansspelbelasting» moet worden gelezen: de aansprakelijkheidsschuld;
+- a. in het [tweede lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) voor «loonbelasting, omzetbelasting, accijns, verbruiksbelasting voor alcoholvrije dranken, verbruiksbelasting van pruimtabak of snuiftabak, een van de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen of de kansspelbelasting» moet worden gelezen: de aansprakelijkheidsschuld;
 
-- b. in het [derde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) voor «belastingschuld» moet worden gelezen «aansprakelijkheidsschuld», en voor «drie jaren»: zeven jaren;
+- b. in het [derde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) voor «belastingschuld» moet worden gelezen «aansprakelijkheidsschuld», en voor «drie jaren»: zeven jaren;
 
-- c. in het [vierde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) voor «drie jaren» moet worden gelezen: zeven jaren;
+- c. in het [vierde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) voor «drie jaren» moet worden gelezen: zeven jaren;
 
-- d. in het [vijfde lid, onderdeel a, van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2012-01-01&g=2012-01-01) voor «belastingschuld» moet worden gelezen: aansprakelijkheidsschuld.
+- d. in het [vijfde lid, onderdeel a, van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) voor «belastingschuld» moet worden gelezen: aansprakelijkheidsschuld.
 
 ### Afdeling 2. Formele bepalingen
 
@@ -1247,7 +1231,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
-### Hoofdstuk VIII. Strafrechtelijke bepalingen
+### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
 ### Hoofdstuk VIIa. Bestuurlijke boeten
 
@@ -1257,7 +1241,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 43a
 
-[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=43&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in [artikel 80, onderdeel g, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80).
+[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=43&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in [artikel 80, onderdeel g, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80).
 
 ### Afdeling 2. Formele bepalingen
 
@@ -1281,29 +1265,29 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VIIa. Bestuurlijke boeten
 
-### Hoofdstuk IX. Aanvullende regelingen
+### Hoofdstuk VIII. Strafrechtelijke bepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 57a
 
-1. De ontvanger houdt op zijn naam een rekening aan bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen (vrijwaringsrekening) waarop de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2023-01-01&g=2012-01-01), [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2023-01-01&g=2012-01-01) en [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2023-01-01&g=2012-01-01) bedoelde inleners, onderscheidenlijk aannemers en opdrachtgevers, bedragen kunnen storten ten behoeve van het door hun uitleners, onderscheidenlijk onderaannemers en aannemers, bij de ontvanger aan te houden depot.
+1. De ontvanger houdt op zijn naam een rekening aan bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen (vrijwaringsrekening) waarop de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2014-01-01&g=2013-01-01), [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2014-01-01&g=2013-01-01) en [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2014-01-01&g=2013-01-01) bedoelde inleners, onderscheidenlijk aannemers en opdrachtgevers, bedragen kunnen storten ten behoeve van het door hun uitleners, onderscheidenlijk onderaannemers en aannemers, bij de ontvanger aan te houden depot.
 
 2. Een uitlener, een onderaannemer of een aannemer die voldoet aan bij ministeriële regeling te stellen voorwaarden, kan de ontvanger verzoeken ten behoeve van hem een depot aan te houden. De ontvanger beslist op het verzoek bij een voor bezwaar vatbare beschikking. Ook het opheffen van een depot geschiedt bij een voor bezwaar vatbare beschikking. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake deze beschikkingen is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
-3. Degene ten behoeve van wie de ontvanger een depot aanhoudt (de depotbegunstigde), kan over het tegoed van het depot beschikken voor de voldoening van loonbelasting, omzetbelasting of sociale verzekeringspremies. Indien de depotbegunstigde na aanmaning in gebreke blijft en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2023-01-01&g=2012-01-01), is de ontvanger ook zelf bevoegd tot een zodanige aanwending over te gaan.
+3. Degene ten behoeve van wie de ontvanger een depot aanhoudt (de depotbegunstigde), kan over het tegoed van het depot beschikken voor de voldoening van loonbelasting, omzetbelasting of sociale verzekeringspremies. Indien de depotbegunstigde na aanmaning in gebreke blijft en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2014-01-01&g=2013-01-01), is de ontvanger ook zelf bevoegd tot een zodanige aanwending over te gaan.
 
-4. De depotbegunstigde kan tevens over het tegoed van het depot beschikken voor het overboeken naar andere depots, een en ander als bedoeld in [artikel 34, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2023-01-01&g=2012-01-01), [artikel 35, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2023-01-01&g=2012-01-01) en [artikel 35a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2023-01-01&g=2012-01-01). Voor zover de overboeking geen betrekking heeft op loonbelasting, omzetbelasting of sociale verzekeringspremies als aldaar bedoeld, is de depotbegunstigde naar wie is overgeboekt, verplicht de overboeking ongedaan te maken door terugboeking naar het depot waarvan de overboeking afkomstig is. Voor zover de depotbegunstigde naar wie is overgeboekt, zich niet houdt aan deze verplichting, is de ontvanger bevoegd de overboeking ongedaan te maken.
+4. De depotbegunstigde kan tevens over het tegoed van het depot beschikken voor het overboeken naar andere depots, een en ander als bedoeld in [artikel 34, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=34&z=2014-01-01&g=2013-01-01), [artikel 35, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35&z=2014-01-01&g=2013-01-01) en [artikel 35a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=35a&z=2014-01-01&g=2013-01-01). Voor zover de overboeking geen betrekking heeft op loonbelasting, omzetbelasting of sociale verzekeringspremies als aldaar bedoeld, is de depotbegunstigde naar wie is overgeboekt, verplicht de overboeking ongedaan te maken door terugboeking naar het depot waarvan de overboeking afkomstig is. Voor zover de depotbegunstigde naar wie is overgeboekt, zich niet houdt aan deze verplichting, is de ontvanger bevoegd de overboeking ongedaan te maken.
 
-5. Voor zover het tegoed van het depot uitgaat boven hetgeen de depotbegunstigde verschuldigd is aan loonbelasting, omzetbelasting en sociale verzekeringspremies, en hetgeen hij naar verwachting binnenkort aan zodanige schulden zal moeten voldoen, kan hij de ontvanger verzoeken het tegoed aan te wenden voor de voldoening van andere belastingen of heffingen waarvan de invordering aan de ontvanger is opgedragen. Indien de depotbegunstigde na aanmaning in gebreke blijft en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2023-01-01&g=2012-01-01), is de ontvanger ook zelf bevoegd tot een zodanige aanwending over te gaan.
+5. Voor zover het tegoed van het depot uitgaat boven hetgeen de depotbegunstigde verschuldigd is aan loonbelasting, omzetbelasting en sociale verzekeringspremies, en hetgeen hij naar verwachting binnenkort aan zodanige schulden zal moeten voldoen, kan hij de ontvanger verzoeken het tegoed aan te wenden voor de voldoening van andere belastingen of heffingen waarvan de invordering aan de ontvanger is opgedragen. Indien de depotbegunstigde na aanmaning in gebreke blijft en in de gevallen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=10&z=2014-01-01&g=2013-01-01), is de ontvanger ook zelf bevoegd tot een zodanige aanwending over te gaan.
 
-6. Bij opheffing van een depot keert de ontvanger het tegoed ervan uit aan de depotbegunstigde. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2023-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+6. Bij opheffing van een depot keert de ontvanger het tegoed ervan uit aan de depotbegunstigde. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=2&artikel=24&z=2014-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 7. Over het tegoed van een depot vergoedt de ontvanger aan de depotbegunstigde een rente als bedoeld in [artikel 9 van de Wet op de consignatie van gelden](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=9), welke rente wordt bijgeschreven bij het tegoed en wordt berekend volgens de regels van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003338).
 
 8. Het tegoed van een depot is niet vatbaar voor beslag of verpanding en kan niet worden overgedragen.
 
-9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel, waaronder regels dat de ontvanger in afwijking van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=7a&z=2023-01-01&g=2012-01-01) terug te geven bedragen aan loonbelasting, omzetbelasting en sociale verzekeringspremies kan uitbetalen door bijboeking op het depot van degene die recht heeft op de terugbetaling.
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel, waaronder regels dat de ontvanger in afwijking van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=I&artikel=7a&z=2014-01-01&g=2013-01-01) terug te geven bedragen aan loonbelasting, omzetbelasting en sociale verzekeringspremies kan uitbetalen door bijboeking op het depot van degene die recht heeft op de terugbetaling.
 
 ### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
@@ -1367,13 +1351,13 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 ### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
 
-### Afdeling 4. Door de ontvanger aan te houden vrijwaringsrekening bij een bank ten behoeve van depots bij de ontvanger
+### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
 
 ##### Artikel 63b
 
 1. Indien de belastingschuldige de belasting welke bij wege van aanslag wordt geheven niet, gedeeltelijk niet dan wel niet binnen de op het aanslagbiljet vermelde termijn of termijnen heeft betaald, vormt dit een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 4920 kan opleggen.
 
-2. Degene die niet voldoet aan de verplichting hem opgelegd bij [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2012-01-01&g=2012-01-01), begaat een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 4920 kan opleggen.
+2. Degene die niet voldoet aan de verplichting hem opgelegd bij [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=60&z=2013-01-01&g=2013-01-01), begaat een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 4920 kan opleggen.
 
 3. Het opleggen van de boete, bedoeld in het eerste en tweede lid, geschiedt met overeenkomstige toepassing van de [artikelen 67g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67g), [67pa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67pa), en [67pb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67pb).
 
@@ -1383,7 +1367,7 @@ Op verzoek van de belastingschuldige is de ontvanger verplicht te verrekenen. In
 
 ##### Artikel 63c
 
-1. Het in [artikel 63b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa&artikel=63b&z=2012-01-01&g=2012-01-01), genoemde bedrag wordt elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
+1. Het in [artikel 63b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VIIa&artikel=63b&z=2013-01-01&g=2013-01-01), genoemde bedrag wordt elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
 
 2. De gewijzigde bedragen vinden voor het eerst toepassing met betrekking tot verzuimen die zijn begaan na het begin van het kalenderjaar bij de aanvang waarvan de bedragen zijn gewijzigd.
 
@@ -1393,13 +1377,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk IX. Aanvullende regelingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 62a
 
-1. Ingeval een persoon als bedoeld in de [artikelen 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2012-01-01&g=2012-01-01), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2012-01-01&g=2012-01-01) en [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=62&z=2012-01-01&g=2012-01-01), een door de ontvanger op een van die leden gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De ontvanger beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.
+1. Ingeval een persoon als bedoeld in de [artikelen 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=58&z=2013-01-01&g=2013-01-01), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=59&z=2013-01-01&g=2013-01-01) en [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VII&artikel=62&z=2013-01-01&g=2013-01-01), een door de ontvanger op een van die leden gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De ontvanger beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.
 
 2. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in het eerste lid bedoelde beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
@@ -1425,7 +1409,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. De in het eerste en het derde lid bedoelde verzoeken worden gedaan tegelijk met de aangifte waarin een voordeel als bedoeld in het eerste lid is opgenomen.
 
-### Hoofdstuk V. Betalingskorting en rente
+### Hoofdstuk V. Betalingskorting en invorderingsrente
 
 ### Hoofdstuk VI. Aansprakelijkheid
 
@@ -1451,7 +1435,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. De tenuitvoerlegging van een dwangbevel op de voet van het eerste lid en de daaraan voorafgaande betekening van het hernieuwde bevel tot betaling kunnen, in afwijking van de [artikelen 64, eerste en tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=64), en [438b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438b), geschieden op alle dagen en uren.
 
-3. In afwijking van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01), kan een hernieuwd bevel tot betaling ook worden betekend aan de bestuurder van het motorrijtuig, bedoeld in het eerste lid.
+3. In afwijking van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=III&artikel=14&z=2013-01-01&g=2013-01-01), kan een hernieuwd bevel tot betaling ook worden betekend aan de bestuurder van het motorrijtuig, bedoeld in het eerste lid.
 
 4. In afwijking van [artikel 434 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434) kan machtiging van de belastingdeurwaarder ook plaatsvinden door middel van het beschikbaar stellen van de gegevens van een dwangbevel waarvan de tenuitvoerlegging op de voet van het eerste lid dient plaats te vinden.
 
@@ -1459,11 +1443,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 28a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de ontvanger een aan een belastingplichtige uit te betalen bedrag niet binnen 6 weken na de dagtekening van de daartoe strekkende belastingaanslag uitbetaalt of verrekent, wordt aan de belastingplichtige invorderingsrente vergoed.
+
+2. De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na de dagtekening van de tot uitbetaling strekkende belastingaanslag of beschikking en eindigt op de dag voorafgaand aan die van de betaling. In afwijking van de eerste volzin wordt invorderingsrente niet berekend over dagen waarover ingevolge [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA) reeds belastingrente is vergoed.
+
+3. Invorderingsrente wordt niet vergoed voor zover het aan de belastingplichtige is te wijten dat de uitbetaling niet tijdig is geschied.
+
+4. Dit artikel is niet van toepassing op een voorlopige aanslag als bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01), die een uit te betalen bedrag behelst als bedoeld in het zesde lid van dat artikel.
+
+5. De in het eerste lid bedoelde periode van 6 weken wordt vervangen door een periode van 3 maanden ingeval het betreft de terugbetaling van rechten bij invoer als bedoeld in titel VII, hoofdstuk 5, van het Communautair douanewetboek.
 
 ##### Artikel 28b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien een belastingaanslag wordt verminderd of herzien tot een lager bedrag dan inmiddels op die aanslag is betaald en de belastingschuldige eerder een verzoek om uitstel van betaling met betrekking tot het door hem bestreden bedrag van die aanslag heeft gedaan dat door de ontvanger bij beschikking is afgewezen, wordt aan de belastingschuldige invorderingsrente vergoed.
+
+2. De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt de dag na de dag waarop de belastingaanslag waarvoor een verzoek om uitstel van betaling bij beschikking is afgewezen, invorderbaar is ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01) en eindigt 6 weken na de dagtekening van de vermindering of de herziening en heeft als grondslag het terug te geven bedrag.
 
 ### Hoofdstuk VI. Aansprakelijkheid
 
@@ -1483,10 +1477,106 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk IX. Aanvullende regelingen
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk X. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk X. Slot- en overgangsbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 22bis
+
+1. In dit artikel wordt verstaan onder bodemzaak: een zaak als bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2013-01-01&g=2013-01-01), die zich op de bodem van de belastingschuldige bevindt.
+
+2. Houders van pandrechten of overige derden die geheel of gedeeltelijk recht hebben op een bodemzaak, zijn gehouden de ontvanger mededeling te doen van het voornemen hun rechten met betrekking tot deze bodemzaak uit te oefenen, dan wel van het voornemen enigerlei andere handeling te verrichten of te laten verrichten waardoor die zaak niet meer kwalificeert als bodemzaak.
+
+3. Handelingen die worden verricht in de normale uitoefening van het bedrijf of beroep van de belastingschuldige behoeven niet te worden gemeld.
+
+4. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de in het tweede lid bedoelde mededeling door de houders van pandrechten of overige derden moet worden gedaan.
+
+5. Gedurende vier weken na de mededeling, bedoeld in het tweede lid, mag de pandhouder of overige derde die de mededeling heeft gedaan, zijn rechten op de bodemzaak niet uitoefenen alsmede geen andere handeling verrichten of laten verrichten waardoor de ontvanger beperkt wordt in zijn recht met betrekking tot de bodemzaak.
+
+6. Indien de ontvanger na een mededeling als bedoeld in het tweede lid besluit geen beslag te leggen op de bodemzaak, doet hij de pandhouder of de overige derde, bedoeld in dat lid, daarvan zo spoedig mogelijk kennisgeving. Gedurende vier weken na de dagtekening van de kennisgeving zijn de houders van pandrechten of de overige derden, bedoeld in het tweede lid, tot wie die kennisgeving is gericht, bevoegd hun rechten met betrekking tot die bodemzaak uit te oefenen, dan wel enigerlei handeling te verrichten dan wel te laten verrichten waardoor de zaak niet meer als bodemzaak kwalificeert. Na verloop van vier weken na de dagtekening van de kennisgeving is op handelingen die door de pandhouder of de derde, bedoeld in het tweede lid, worden verricht dit artikel onverkort van toepassing. De vorige volzin is van overeenkomstige toepassing indien de ontvanger geen kennisgeving doet, waarbij de termijn van vier weken aanvangt na afloop van de in het vijfde lid genoemde termijn.
+
+7. De pandhouder of de overige derde, bedoeld in het tweede lid, die in gebreke is gebleven om de mededeling, bedoeld in dat lid, te doen, dan wel die handelt in strijd met het vijfde lid, is op vordering van de ontvanger verplicht een met bescheiden gestaafde verklaring te doen omtrent de executiewaarde van de bodemzaak.
+
+8. De verklaring, bedoeld in het zevende lid, moet geschieden binnen veertien dagen na de dagtekening van de brief van de ontvanger waarin om verklaring wordt verzocht.
+
+9. De ontvanger stelt de executiewaarde van de bodemzaak vast bij voor bezwaar vatbare beschikking.
+
+10. De pandhouder of de overige derde, bedoeld in het tweede lid, is verplicht tot betaling van een bedrag bestaande uit de executiewaarde van de bodemzaak tot een beloop van maximaal het bedrag van de al dan niet in een naheffingsaanslag vervatte belastingschulden ter zake van rijksbelastingen, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2013-01-01&g=2013-01-01), voor zover deze belastingschulden zijn ontstaan in de periode voorafgaande aan het tijdstip waarop de zaak niet meer als bodemzaak kwalificeert. De ontvanger stelt het beloop van de betalingsverplichting vast in de beschikking, bedoeld in het negende lid.
+
+11. Voor de uit de beschikking, bedoeld in het tiende lid, voortvloeiende betalingsverplichting geldt een betalingstermijn van veertien dagen na de dagtekening van de beschikking.
+
+12. Indien de pandhouder of de overige derde, bedoeld in het tweede lid, het bedrag, bedoeld in het tiende lid, niet binnen de gestelde termijn betaalt, vordert de ontvanger dat bedrag in, als ware dat bedrag een rijksbelasting.
+
+13. Betalingen gedaan ingevolge het elfde lid door de pandhouder of de overige derde, bedoeld in het tweede lid, komen in mindering op de belastingschulden, bedoeld in het tiende lid, van de belastingschuldige wiens bodemzaak het betrof, met uitzondering van rente, kosten en boeten die zijn verschuldigd door de pandhouder of de overige derde, bedoeld in het tweede lid.
+
+14. De bevoegdheden van de ontvanger op grond van het zevende, negende, tiende en twaalfde lid vervallen één jaar na het tijdstip waarop de zaak niet meer als bodemzaak kwalificeert, tenzij de ontvanger binnen dat jaar van de pandhouder of de overige derde, bedoeld in het tweede lid, een met bescheiden gestaafde verklaring heeft gevorderd omtrent de executiewaarde van de zaak.
+
+15. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking, bedoeld in het negende lid, is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
+
+16. De pandhouder of de overige derde, bedoeld in het tweede lid, die op grond van het achtste lid tijdig heeft verklaard en tijdig heeft betaald ingevolge het elfde lid, heeft voor het bedrag dat hij aan de ontvanger heeft betaald verhaal op belastingschuldige, bedoeld in het eerste lid. Bij dit verhaal vindt geen subrogatie plaats in het voorrecht van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=21&z=2013-01-01&g=2013-01-01).
+
+17. Dit artikel is niet van toepassing indien de waarde van de bodemzaken bij het aangaan van de overeenkomst tussen belastingschuldige en pandhouder of derden als bedoeld in het tweede lid onder een bij ministeriële regeling vast te stellen drempel blijft.
+
+18. Dit artikel vindt overeenkomstige toepassing tijdens de afkoelingsperiode.
+
+### Afdeling 3. Uitstel van betaling, kwijtschelding en verjaring
+
+##### Artikel 70a
+
+Bij toepassing van de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=IV&afdeling=1&artikel=22&z=2013-01-01&g=2013-01-01), en [36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01), blijft [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) van toepassing, zoals dat artikel luidde:
+
+- a. op 31 december 2011, voor belastingaanslagen grondwaterbelasting en afvalstoffenbelasting; en
+
+- b. op 31 december 2012, voor belastingaanslagen verpakkingenbelasting.
+
+##### Artikel 70b
+
+Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.116, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk door de toepassing van [artikel 10bis.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4), of [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5). De in de eerste volzin bedoelde regels kunnen mede betrekking hebben op het stellen van voldoende zekerheid. Het uitstel wordt beëindigd:
+
+- a. indien zich een omstandigheid voordoet waardoor de woning ophoudt een eigen woning te zijn in de zin van [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111);
+
+- b. indien de belastingschuldige een voordeel geniet als bedoeld in [artikel 3.116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk als bedoeld in [artikel 10bis.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4), of [artikel 10bis.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5);
+
+- c. indien zich een omstandigheid voordoet als bedoeld in [artikel 3.116, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), of [artikel 3.116a, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a), zoals die artikelen luidden op 31 december 2012, onderscheidenlijk als bedoeld in [artikel 10bis.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4), of [artikel 10bis.5, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5).
+
+##### Artikel 70c
+
+1. Indien ingevolge [artikel 10bis.4, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4) een kapitaalverzekering eigen woning wordt geacht tot uitkering te zijn gekomen, is de verzekeraar van die uitkering tot ten hoogste de waarde in het economische verkeer daarvan aansprakelijk voor de belasting die ter zake door de gerechtigde is verschuldigd. Indien ingevolge [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) een spaarrekening eigen woning of een beleggingsrecht eigen woning geacht wordt te zijn gedeblokkeerd, is de bank waarbij die rekening wordt aangehouden, onderscheidenlijk de beheerder waarbij dat recht wordt aangehouden, aansprakelijk voor de belasting die ter zake door de rekeninghouder, onderscheidenlijk eigenaar, is verschuldigd.
+
+2. Het bedrag van de verschuldigde belasting wordt gesteld op het evenredig gedeelte van de belasting die meer is verschuldigd ter zake van alle kapitaalverzekeringen eigen woning, alle spaarrekeningen eigen woning en alle beleggingsrechten eigen woning die in het jaar ingevolge [artikel 10bis.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4), onderscheidenlijk [artikel 10bis.5, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) worden geacht tot uitkering te zijn gekomen, onderscheidenlijk worden geacht te zijn gedeblokkeerd.
+
+3. [Artikel 2.16, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.16) is van overeenkomstige toepassing.
+
+4. Zo spoedig mogelijk nadat de aansprakelijkheid ingevolge het eerste lid is ontstaan, wordt aan de verzekeraar, de bank, onderscheidenlijk de beheerder van de beleggingsinstelling, schriftelijk mededeling gedaan van het bedrag waarvoor deze aansprakelijk is.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk V. Betalingskorting en invorderingsrente
+
+### Hoofdstuk VI. Aansprakelijkheid
+
+### Afdeling 1. Aansprakelijkheid
+
+### Afdeling 4. Door de ontvanger aan te houden vrijwaringsrekening bij een bank ten behoeve van depots bij de ontvanger
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk X. Slot- en overgangsbepalingen
+
+##### Artikel 70aa
+
+[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=43&z=2014-01-01&g=2013-01-01) is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in [artikel 80, onderdeel g, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), zoals dat artikel luidde op 31 december 2012.
+
+##### Artikel 70ba
+
+Indien de ontvanger het verleende uitstel van betaling, bedoeld in [artikel 70b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=X&artikel=70b&z=2014-01-01&g=2013-01-01), beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.
+
+##### Artikel 70d
+
+Op een kapitaalverzekering eigen woning die voor 1 januari 2013 ingevolge [artikel 3.116, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), zoals dat luidde op 31 december 2012, wordt geacht tot uitkering te zijn gekomen of op een spaarrekening eigen woning of een beleggingsrecht eigen woning die voor 1 januari 2013 ingevolge [artikel 3.116a, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a), zoals dat luidde op 31 december 2012, wordt geacht te zijn gedeblokkeerd, blijft [artikel 44c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=VI&afdeling=1&artikel=44c&z=2014-01-01&g=2013-01-01), zoals dat luidde op 31 december 2012, van toepassing.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
