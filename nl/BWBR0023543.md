@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2012-12-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -68,19 +68,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. **direct-leidinggevende:** degene die binnen het Ministerie belast is met de dagelijkse leiding van medewerkers en ten aanzien van die medewerkers personeelsbevoegdheden heeft,
 
-- l. **budget:** aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,
+- l. **naasthogere leidinggevende:** de direct-leidinggevende van de functionaris, bedoeld in onderdeel k,
 
-- m. **Bestedingsplan:** bestedingsplan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan:
+- m. **managementteam:** managementteam van het ministerie bestaat uit de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het Onderwijs,
 
-- –. in het kader van de reguliere of aanvullende bekostiging,
+- n. **budget:** aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,
 
-- –. in het kader van het aangaan van verplichtingen uit hoofde van de cultuurnota,
+- o. **bestedingsplan:** plan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan in het kader van:
 
-- –. subsidies op grond van [artikel 34 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34),
+- –. de reguliere of aanvullende bekostiging van onderwijs en onderzoek,
 
-- n. **managementafspraak:** afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,
+- –. de verstrekking van subsidies als bedoeld in de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [4c van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c), en
 
-- o. **personele besluiten:** besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ten aanzien van personele aangelegenheden.
+- –. de verstrekking van subsidies als bedoeld in [artikel 34 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34),
+
+- p. **managementafspraak:** afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,
+
+- q. **personele besluiten:** besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ten aanzien van personele aangelegenheden.
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -132,19 +136,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - h. houdende beslissingen op een beroepschrift,
 
-- i. betreffende het nemen van beloningsbesluiten ten aanzien van ambtenaren waarbij de secretaris-generaal als direct-leidinggevende optreedt,
+- i. houdende algemeen verbindende voorschriften,
 
-- j. houdende algemeen verbindende voorschriften,
+- j. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan, en
 
-- k. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan, en
+- k. betreffende het uitoefenen van de bevoegdheid, genoemd in [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), voor zover het archiefbescheiden betreft die zijn overgebracht door de zorgdragers als bedoeld in [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) en die betrekking hebben op het Koninklijk Huis.
 
-- l. betreffende het uitoefenen van de bevoegdheid, genoemd in [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), voor zover het archiefbescheiden betreft die zijn overgebracht door de zorgdragers als bedoeld in [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) en die betrekking hebben op het Koninklijk Huis.
-
-2. Aan de minister is voorbehouden het afdoen en ondertekenen van stukken:
-
-- a. houdende het sluiten van huur-, huurkoop- en lease-overeenkomsten voor een bedrag van meer dan € 2.500.000 voor de duur van de overeenkomst, en
-
-- b. de goedkeuring van het departementale bestedingsplan.
+2. Aan de minister is voorbehouden het afdoen en ondertekenen van stukken houdende het sluiten van huur-, huurkoop- en leaseovereenkomsten voor een bedrag van meer dan € 2.500.000 voor de duur van de overeenkomst.
 
 3. De secretaris-generaal kan de stukken, bedoeld in het eerste lid, onderdelen a tot en met h, afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen een bewindspersoon en de secretaris-generaal. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de afspraken, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
 
@@ -192,21 +190,15 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-12-05&g=2012-12-05), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2013-01-01&g=2013-01-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
-##### Artikel 9. Mandaat aan directeuren en direct-leidinggevenden
+##### Artikel 9. Mandaat aan directeuren
 
 1. De directeuren hebben, onverminderd de mandaatverlening aan de secretaris-generaal en de directeuren-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van de aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein.
 
-2. Direct-leidinggevenden hebben, onverminderd de mandaatverlening aan de secretaris-generaal, de directeuren-generaal en de directeuren, binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
-
-3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
-
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-12-05&g=2012-12-05), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-12-05&g=2012-12-05), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-12-05&g=2012-12-05) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2012-12-05&g=2012-12-05).
-
-5. Het verlenen van ondermandaat ten aanzien van de in lid 1 en lid 2 bedoelde bevoegdheden is, indien deze betrekking hebben op personele aangelegenheden, niet mogelijk.
+2. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
 ##### Artikel 10. Managementafspraken
 
@@ -236,39 +228,15 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. de afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2013-01-01&g=2013-01-01),
 
-- e. het nemen van personele besluiten ten aanzien van leidinggevende ambtenaren, voor zover deze niet ressorteren onder de directeur-generaal DUO en lager ingeschaald zijn dan schaal 15, en niet-leidinggevende ambtenaren in schaal 17 en hoger voor zover het betreft:
+- e. de afwikkeling van een gemeld vermoeden van een misstand,
 
-- 1. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
+- f. voorstellen tot verzelfstandiging van een organisatieonderdeel,
 
-- 2. toekenning van een salarisschaal en functiewaardering,
+- g. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en lease-overeenkomsten, een en ander voor een bedrag van meer dan € 500.000 voor de duur van de overeenkomst,
 
-- 3. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73), en
-
-- 4. ontslagbesluiten.
-
-- f. besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), voorwaardelijk en onvoorwaardelijk strafontslag,
-
-- g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
-
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-12-05&g=2012-12-05),
-
-- i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
-
-- j. het openstellen van externe vacatures,
-
-- k. de afwikkeling van een gemeld vermoeden van een misstand,
-
-- l. voorstellen tot verzelfstandiging van een organisatieonderdeel,
-
-- m. de opstelling van het departementale bestedingsplan, waaronder inbegrepen het doen van voorstellen aan de minister met betrekking tot verschuiven van delen van budgetten tussen directeuren-generaal, hoofden van inspecties en het hoofd van het Nationaal Archief,
-
-- n. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en lease-overeenkomsten, een en ander voor een bedrag van meer dan € 500.000 voor de duur van de overeenkomst,
-
-- o. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is, en
-
-- p. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–
+- h. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–
 
 2. Het verlenen van ondermandaat van de bevoegdheden in dit artikel is niet mogelijk, met uitzondering van de bevoegdheid bedoeld in het eerste lid onder c.
 
@@ -278,41 +246,63 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - a. het instellen van bezwaar tegen besluiten van andere bestuursorganen,
 
-- b. goedkeuring van het voorbereiden van een reorganisatie door een directeur,
+- b. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
+- c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-12-05&g=2012-12-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-12-05&g=2012-12-05) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2012-12-05&g=2012-12-05),
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2013-01-01&g=2013-01-01), en [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2013-01-01&g=2013-01-01).
 
-- e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
+3. Met uitzondering van de bevoegdheid bedoeld in het tweede lid is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
-- f. de verdeling van de hen toegekende personeelscapaciteit over de onder hen ressorterende organisatieonderdelen,
+##### Artikel 14. Personele bevoegdheden
 
-- g. het aangaan van verplichtingen op basis van het door de minister goedgekeurde departementale bestedingsplan die hoger zijn dan het met betrekking tot Europese aanbestedingen geldende drempelbedrag, voor zover die niet herkenbaar zijn opgenomen in een goedgekeurd bestedingsplan of niet passen binnen het beschikbare budget, en
+1. De secretaris-generaal is met uitsluiting van anderen gemandateerd met betrekking tot:
 
-- h. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
+- a. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden;
 
-2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
+- b. besluiten inhoudende:
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2012-12-05&g=2012-12-05), en [artikel 12, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-12-05&g=2012-12-05).
+- 1°. het toepassen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=40) en [40a van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=40a);
 
-4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
+- 2°. voorwaardelijk en onvoorwaardelijk strafontslag;
 
-##### Artikel 14. Voorbehouden aan de directeur-generaal DUO en de directeur P&O
+- 3°. reorganisatieontslag;
 
-1. De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-12-05&g=2012-12-05), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-12-05&g=2012-12-05), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-12-05&g=2012-12-05) en het tweede lid, voor zover het betreft:
+- 4°. ontslag als bedoeld in [artikel 98b van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98b);
 
-- a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
+- 5°. ontslag als bedoeld in [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99);
 
-- b. toekenning van een salarisschaal en functiewaardering,
+- 6°. de toekenning van financiële tegemoetkomingen als onderdeel van sociaal flankerende maatregelen;
 
-- c. ontslagbesluiten, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) en voorwaardelijk en onvoorwaardelijk strafontslag,
+- c. het afkondigen van een vacaturestop voor het ministerie;
 
-- d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
+- d. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is;
 
-2. De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-12-05&g=2012-12-05) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-12-05&g=2012-12-05), voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.
+- e. besluiten als genoemd in het tweede lid ten aanzien van medewerkers voor wie hij als direct-leidinggevende optreedt, voor zover niet bij of krachtens wet anders is of wordt bepaald.
 
-3. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2012-12-05&g=2012-12-05) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. Onverminderd het eerste lid zijn naasthogere leidinggevenden ten aanzien van het onder hen ressorterende personeel met uitzondering van de medewerkers aan wie zij rechtstreeks leiding geven gemandateerd met betrekking tot:
+
+- a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben;
+
+- b. ontslagbesluiten niet zijnde besluiten tot ontslag op eigen verzoek, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in de [artikelen 98b](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98b) en [99 van het algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) en voorwaardelijk en onvoorwaardelijk strafontslag;
+
+- c. toekenning van een salarisschaal en functiewaardering,
+
+- d. toekenning en intrekking van een salarisverhoging als bedoeld in [artikel 8 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8);
+
+- e. toekenning en intrekking van een periodieke toeslag als bedoeld in [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22a);
+
+- f. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag;
+
+- g. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade;
+
+- h. besluiten als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
+
+3. Onverminderd het eerste en tweede lid hebben de directeuren-generaal, de inspecteur-generaal van het onderwijs, het hoofd van de Erfgoedinspectie, het hoofd van het Nationaal Archief en de directeuren mandaat voor het nemen van personele besluiten ten behoeve van het onder hen ressorterende personeel.
+
+4. Direct-leidinggevenden hebben binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
+
+5. Het verlenen van ondermandaat van het in dit artikel bepaalde is uitsluitend mogelijk voor de personele besluiten, bedoeld in het derde lid, en voor zover het betreft de mandaten aan de directeur-generaal DUO, de inspecteur-generaal van het onderwijs, het hoofd van het Nationaal Archief en de directeur van de Rijksdienst voor het Cultureel Erfgoed.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -338,7 +328,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2012-12-05&g=2012-12-05) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2013-01-01&g=2013-01-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
@@ -1022,11 +1012,29 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
 
-Dit onderdeel is nog niet inwerking getreden
+De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen tot gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de Wet openbaarheid van bestuur. Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 14c. Bestedingsplan
 
-Dit onderdeel is nog niet inwerking getreden
+1. Aan de minister is voorbehouden het vaststellen van het departementale bestedingsplan.
+
+2. Aan de secretaris-generaal is voorbehouden het opstellen van het departementale bestedingsplan op basis van de bestedingsplannen van de directeuren-generaal.
+
+3. De secretaris-generaal heeft mandaat tot het aangaan van verplichtingen bij wijzigingen van het door de minister vastgestelde departementale bestedingsplan tussen € 2.000.000 en € 5.000.000.
+
+4. Aan de directeuren-generaal is voorbehouden het opstellen van het bestedingsplan voor hun directoraat-generaal op basis van de bestedingsplannen van de onder hen ressorterende organisatieonderdelen.
+
+5. De directeuren-generaal hebben mandaat tot het aangaan van verplichtingen bij wijzigingen van het door de minister vastgestelde departementale bestedingsplan tussen € 500.000 en € 2.000.000.
+
+6. Aan de directeuren is voorbehouden het opstellen van het bestedingsplan voor hun directie.
+
+7. De directeuren hebben mandaat tot het aangaan van verplichtingen op basis van het door de minister vastgestelde departementale bestedingsplan met dien verstande dat indien een verplichting zou leiden tot een verschuiving tussen de budgetten voor de verschillende thema's van het departementale bestedingsplan dit:
+
+- a. wordt voorgelegd aan de desbetreffende directeur-generaal indien deze verschuiving groter is dan € 500.000,
+
+- b. wordt voorgelegd aan de secretaris-generaal indien deze verschuiving groter is dan € 2.000.000,
+
+- c. wordt voorgelegd aan het managementteam indien deze verschuiving groter is dan € 5.000.000.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -1051,6 +1059,8 @@ De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en 
 De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directies Kennis en IB is de SG echter eerste aanspreekpunt.
 
 Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen.
+
+De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM. De SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM zijn direct-leidinggevende van de medewerkers van de stafbureaus.
 
 Het Ministerie bestaat uit de volgende dienstonderdelen:
 
