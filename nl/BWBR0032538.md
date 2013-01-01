@@ -103,9 +103,3 @@ Deze beleidsregel treedt op 1 januari 2013 in werking.
 Deze beleidsregel wordt aangehaald als: Beleidsregel uitzonderingsscholen VO 2013.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Omhang
-
-Deze beleidsregel is mede gebaseerd op [artikel 4.25, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.25).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
