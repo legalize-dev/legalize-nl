@@ -4,7 +4,7 @@ identifier: "BWBV0001441"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001441"
 soort: "verdrag"
@@ -415,11 +415,11 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 - d). de som van de geïnde verwijderingsbijdragen;
 
-- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2012-07-01&g=2012-07-01) bedoelde maatregelen.
+- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2013-01-01&g=2013-01-01) bedoelde maatregelen.
 
 De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.
 
-2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2012-07-01&g=2012-07-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
+2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2013-01-01&g=2013-01-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
@@ -427,7 +427,7 @@ De modaliteiten van deze procedure worden door het internationale verevenings- e
 
 1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
-2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2012-07-01&g=2012-07-01), te verrichten.
+2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2013-01-01&g=2013-01-01), te verrichten.
 
 ##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
@@ -533,6 +533,30 @@ Dit Deel B geldt niet voor het laden en lossen van zeeschepen in zeehavens aan z
 5. Het vierde lid is niet van toepassing op schepen die eenheidstransporten uitvoeren.
 
 6. Indien laadruimen of ladingtanks gewassen worden en indien het waswater ingevolge de losstandaarden en de afgifte- en innamevoorschriften ingevolge Aanhangsel III niet in het water mag worden geloosd, mag het schip de reis pas voortzetten nadat de schipper in de losverklaring heeft bevestigd dat dit waswater overgenomen is dan wel dat hem een ontvangstinrichting is aangewezen.
+
+7. Het eerste en vierde lid zijn niet van toepassing op schepen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor:
+
+- a). het vervoer van containers,
+
+- b). het vervoer van verrijdbare lading (Ro-Ro), stukgoed, bijzonder- of zwaar transport, of grote apparaten,
+
+- c). de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen (bevoorradingsschepen),
+
+- d). de verzameling van olie- en vethoudend afval van zee- en binnenschepen,
+
+- e). het vervoer van vloeibare gassen (ADN, type G),
+
+- f). het vervoer van zwavel in vloeibare toestand (bij 180°C), cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is;
+
+- g). het vervoer van zand, grint of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer,
+
+en voor zover het betreffende schip de genoemde goederen of ladingen ook daadwerkelijk uitsluitend vervoert of als laatste lading heeft vervoerd.
+
+Deze bepaling vindt geen toepassing wanneer het schip meerdere soorten lading tegelijkertijd vervoert.
+
+In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandigheden een schip in het kader van het uitvoeren van specifiek vervoer ontheffen van de toepassing van het eerste en vierde lid. Het bewijs van deze ontheffing dient aan boord aanwezig te zijn.
+
+8. Het eerste en vierde lid zijn eveneens niet van toepassing in het geval van een lossing van de lading in een zeeschip. De schipper dient de hier bedoelde lossing te kunnen staven met desbetreffende vervoersdocumenten en moet deze op verzoek aan toezichthoudende autoriteiten tonen.
 
 ### HOOFDSTUK VII. VERPLICHTINGEN VAN DE VERVOERDER, DE VERLADER, DE LADINGONTVANGER EN DE EXPLOITANT VAN DE OVERSLAGINSTALLATIE
 
@@ -692,7 +716,7 @@ GEDAAN te Straatsburg, op 9 september 1996.
 
 2. Het transactiebewijs met betrekking tot de verwijderingsbijdrage dat door het SPE-CDNI wordt afgegeven, moet aan deze bunkerverklaring worden gehecht. De schipper ontvangt een afschrift van beide voornoemde documenten die hij ten minste twaalf maanden aan boord moet bewaren. Een ander afschrift van beide moet ten minste twaalf maanden bij het bunkerbedrijf worden bewaard.
 
-3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2012-07-01&g=2012-07-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
+3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2013-01-01&g=2013-01-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
 
 4. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de hoogte van de betaalde verwijderingsbijdragen wordt door het nationale instituut of de bevoegde autoriteit gecontroleerd aan de hand van de door de bunkerbedrijven te overleggen afschriften van de bunkerverklaringen.
 
