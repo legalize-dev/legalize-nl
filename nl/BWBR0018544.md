@@ -4,7 +4,7 @@ identifier: "BWBR0018544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018544"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ In deze regeling wordt, in afwijking van [artikel, 2.1:1, eerste lid, van het Ar
 
 - b. in het bezit is van een aan hem afgegeven, geldig rijbewijs voor het besturen van een voertuig in de zin van [artikel 2.3:1, aanhef en onder a en b, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.3:1);
 
-- c. nog geen houder is van een bestuurderskaart, tenzij het een aanvraag betreft overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2012-01-01&g=2012-01-01), of het een aanvraag betreft om vernieuwing van de bestuurderskaart.
+- c. nog geen houder is van een bestuurderskaart, tenzij het een aanvraag betreft overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01), of het een aanvraag betreft om vernieuwing van de bestuurderskaart.
 
 2. Een bedrijfskaart wordt op aanvraag verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), tot een maximum van 62 exemplaren per aanvrager.
 
@@ -71,7 +71,7 @@ In deze regeling wordt, in afwijking van [artikel, 2.1:1, eerste lid, van het Ar
 
 - c. nog geen houder is van een werkplaatskaart, tenzij het een aanvraag betreft:
 
-- 1°. overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2012-01-01&g=2012-01-01);
+- 1°. overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01);
 
 - 2°. van een werkplaatskaart ten behoeve van werkzaamheden onder gezag van een andere erkenninghouder dan degene onder wiens gezag de aanvrager reeds een kaart bezit;
 
@@ -83,7 +83,7 @@ In deze regeling wordt, in afwijking van [artikel, 2.1:1, eerste lid, van het Ar
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2012-01-01&g=2012-01-01), kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, al dan niet uitsluitend bestemd voor of afkomstig van eigen onderneming of bedrijf, indien aan zijn werkgever voor hem is afgegeven:
+In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, al dan niet uitsluitend bestemd voor of afkomstig van eigen onderneming of bedrijf, indien aan zijn werkgever voor hem is afgegeven:
 
 - a. een bestuurdersattest als bedoeld in de [Regeling bestuurdersattest](https://wetten.overheid.nl/jci1.3:c:BWBR0014749); of
 
@@ -93,15 +93,15 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 1. De Minister van Verkeer en Waterstaat beslist op aanvraag van een tachograafkaart binnen 6 weken nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
 
-2. Voor het in behandeling nemen van een aanvraag voor een tachograafkaart wordt een vergoeding in rekening gebracht van € 98,– per tachograafkaart.
+2. Voor het in behandeling nemen van een aanvraag voor een tachograafkaart wordt een vergoeding in rekening gebracht van € 100,– per tachograafkaart.
 
 ##### Artikel 5
 
 1. In geval een bestuurderskaart of werkplaatskaart zoek raakt door verlies of diefstal, of defect of beschadigd is, vraagt de aanvrager binnen zeven kalenderdagen na het tijdstip van vaststelling daarvan een vervangende tachograafkaart aan.
 
-2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2012-01-01&g=2012-01-01), beslist de Minister van Verkeer en Waterstaat op de in het eerste lid bedoelde aanvraag van een bestuurderskaart of werkplaatskaart binnen vijf werkdagen nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
+2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), beslist de Minister van Verkeer en Waterstaat op de in het eerste lid bedoelde aanvraag van een bestuurderskaart of werkplaatskaart binnen vijf werkdagen nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
 
-3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2012-01-01&g=2012-01-01), beslist de Minister van Verkeer en Waterstaat op aanvraag van een bestuurderskaart of werkplaatskaart die in de plaats komt van een kaart met een resterende geldigheidsduur van ten minste twee weken, binnen de termijn van de resterende geldigheidsduur gerekend vanaf het moment dat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen voorzover die termijn nog ten minste een week is.
+3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), beslist de Minister van Verkeer en Waterstaat op aanvraag van een bestuurderskaart of werkplaatskaart die in de plaats komt van een kaart met een resterende geldigheidsduur van ten minste twee weken, binnen de termijn van de resterende geldigheidsduur gerekend vanaf het moment dat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen voorzover die termijn nog ten minste een week is.
 
 #### § 3. Inleverplicht tachograafkaart
 
@@ -123,7 +123,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - a. bij zodanig misbruik van de kaart dat een deugdelijke registratie van rij- en rusttijden in gevaar komt;
 
-- b. indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in [artikel 2, tweede en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2012-01-01&g=2012-01-01).
+- b. indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in [artikel 2, tweede en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 8
 
@@ -135,7 +135,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - c. drie maanden, na de datum van dagtekening van het bericht waarin de aanvrager wordt geïnformeerd dat zijn kaart gereed ligt, zijn verstreken en de kaart in die periode niet is afgehaald; of
 
-- d. het bestuurdersattest dat of de tewerkstellingsvergunning die ten grondslag ligt aan de verlening van een bestuurderskaart op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01) zijn geldigheid verliest.
+- d. het bestuurdersattest dat of de tewerkstellingsvergunning die ten grondslag ligt aan de verlening van een bestuurderskaart op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) zijn geldigheid verliest.
 
 2. De onderdelen a en b van het eerste lid zijn van overeenkomstige toepassing op de bedrijfskaart.
 
@@ -145,35 +145,25 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 1. De wijze van afgifte van een tachograafkaart wordt schriftelijk aan de aanvrager gemeld.
 
-2. Afgifte van een bestuurderskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig rijbewijs als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2012-01-01&g=2012-01-01), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
+2. Afgifte van een bestuurderskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig rijbewijs als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
 
 3. Afgifte van een werkplaatskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
 
 4. Een bestuurderskaart of werkplaatskaart die is aangevraagd in verband met een defect of beschadiging of vernieuwing van de oude kaart wordt niet eerder afgegeven dan na inlevering van de te vervangen kaart op de plaats van afgifte.
 
-5. Bij afgifte van een bestuurderskaart aan een bestuurder die een geldig rijbewijs heeft zonder pasfoto en aan een bestuurder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2012-01-01&g=2012-01-01) toont de aanvrager naast de in het tweede lid genoemde documenten ook een geldig paspoort.
+5. Bij afgifte van een bestuurderskaart aan een bestuurder die een geldig rijbewijs heeft zonder pasfoto en aan een bestuurder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) toont de aanvrager naast de in het tweede lid genoemde documenten ook een geldig paspoort.
 
 #### § 6. Gebruik van de tachograafkaart en andere registratiemiddelen
 
 ##### Artikel 10
 
-1. Indien de bestuurder zijn bestuurderskaart bij verlies, diefstal, een defect of beschadiging niet kan gebruiken maakt hij in aanvulling op artikel 16, tweede lid, van verordening (EEG) nr. 3821/85 ook aan het begin van de rit, een afdruk van alle gegevens die in het controleapparaat zijn opgeslagen en voorziet hij deze van:
-
-- a. zijn naam, zijn handtekening en rijbewijsnummer of nummer van bestuurderskaart; en
-
-- b. de in artikel 15, derde lid, tweede streepje, onder b, c en d, van verordening (EEG) nr. 3821/85 aangegeven tijdgroepen.
-
-2. Wanneer de bestuurder niet bij het voertuig is en daardoor het controleapparaat in het voertuig niet kan bedienen, moeten de in artikel 15, derde lid, tweede streepje, onder b, c en d, van verordening (EEG) nr. 3821/85 aangegeven tijdgroepen op de bestuurderskaart worden geregistreerd met behulp van de voorziening voor handmatige invoer waarmee het controleapparaat is uitgerust op het moment dat het voertuig wel aanwezig is.
-
-3. In afwijking van het tweede lid, tekent de bestuurder, indien hij zijn bestuurderskaart bij verlies, diefstal, een defect of beschadiging niet kan gebruiken, op de in het eerste lid bedoelde afdruk de in artikel 15, derde lid, tweede streepje, onder b, c en d, van verordening (EEG) nr. 3821/85 aangegeven tijdgroepen met de hand leesbaar op zonder dat die afdruk wordt bevuild op het moment dat het voertuig wel aanwezig is.
-
-4. Indien, in de situatie beschreven in het tweede lid, het voertuig door meer dan één bestuurder wordt bemand, steken deze bestuurders hun bestuurderskaarten in de juiste lezer van het controleapparaat.
+De bestuurder tekent, indien hij niet bij het voertuig is en hij zijn bestuurderskaart vanwege verlies, diefstal, een defect of beschadiging niet kan gebruiken, op de afdruk van de gegevens uit het controleapparaat de in artikel 15, derde lid, tweede streepje, onder b, c en d, van verordening (EEG) nr. 3821/85 aangegeven tijdgroepen met de hand leesbaar op zonder dat die afdruk wordt bevuild, onmiddellijk nadat hij bij het voertuig aanwezig is.
 
 ##### Artikel 11
 
-1. De in het controleapparaat geregistreerde gegevens worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) tenminste elke drie maanden met behulp van de bedrijfskaart overgebracht naar de vestiging van die werkgever of die persoon.
+1. De in het controleapparaat geregistreerde gegevens worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) tenminste elke 90 dagen met behulp van de bedrijfskaart overgebracht naar de vestiging van die werkgever of die persoon.
 
-2. De gegevens op een bestuurderskaart worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) tenminste elke drie weken overgebracht naar de vestiging van die werkgever of die persoon.
+2. De gegevens op een bestuurderskaart worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) tenminste elke 28 dagen overgebracht naar de vestiging van die werkgever of die persoon.
 
 3. Indien de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) vanwege verlies, diefstal, defect of beschadiging van de bedrijfskaart of vanwege een defect aan het controleapparaat niet aan zijn verplichting op grond van het eerste lid kan voldoen, is hij verplicht een erkenninghouder als bedoeld in [artikel 1, onderdeel d, van de Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540&artikel=1) schriftelijk te verzoeken de gegevens over te brengen naar een computer of ander opslagmedium.
 
