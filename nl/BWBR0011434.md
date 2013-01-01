@@ -4,7 +4,7 @@ identifier: "BWBR0011434"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-01-01"
-last_updated: "2000-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011434"
 soort: "pbo"
@@ -55,7 +55,7 @@ stelt de navolgende verordening vast:
 
 3. De notaris geeft de kandidaat-notaris tijdens de stage de mogelijkheid om zich in alle gebruikelijke notariële werkzaamheden te bekwamen.
 
-4. De notaris geeft de kandidaat-notaris voldoende gelegenheid om vanaf de aanvaarding van het dienstverband de beroepsopleiding te volgen, de daarbij behorende examens af te leggen en om aan de in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011434&artikel=3&z=2000-10-01&g=2000-10-01) bedoelde cursussen deel te nemen die behoren bij zijn opleiding tijdens de stage.
+4. De notaris geeft de kandidaat-notaris voldoende gelegenheid om vanaf de aanvaarding van het dienstverband de beroepsopleiding te volgen, de daarbij behorende examens af te leggen en om aan de in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011434&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde cursussen deel te nemen die behoren bij zijn opleiding tijdens de stage.
 
 5. Wanneer de kandidaat-notaris tot waarnemer benoembaar is en zich daartoe bereid heeft verklaard dient de notaris, behoudens bijzondere omstandigheden, een verzoek in om hem tot waarnemer te benoemen als bedoeld in [artikel 29 lid 2 eerste zin van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=29).
 
@@ -90,3 +90,13 @@ Deze verordening wordt aangehaald als Stageverordening.
 ##### Artikel 6
 
 Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
+
+##### Artikel 5a. Verzoek verkorting stage en waardering relevante werkzaamheden
+
+1. Het bestuur van de KNB stelt een commissie in, die als taak heeft het bestuur te adviseren over verzoeken tot verkorting van de stage, indien bepaalde werkzaamheden van de verzoeker, anders dan een stage op één of meer notariskantoren in Nederland, relevant zijn voor de voorbereiding op het notarisambt.
+
+2. Het bestuur van de KNB stelt een reglement vast voor de waardering van de werkzaamheden van verzoeker, genoemd in het eerste lid. Hierin geeft het bestuur aan welke werkzaamheden in beginsel gelijk zijn te stellen aan de praktische en theoretische werkzaamheden die een kandidaat-notaris tijdens zijn stage op een notariskantoor verricht.
+
+3. Het bestuur van de KNB stelt een reglement vast voor de behandeling van verzoeken tot verkorting van de stage, waarin de te volgen procedure en de wijze van bekendmaken van het beleid worden geregeld.
+
+4. Over de in de voorgaande leden genoemde reglementen wordt de ledenraad geraadpleegd. De reglementen worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
