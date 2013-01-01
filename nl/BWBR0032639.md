@@ -60,9 +60,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 Dit besluit wordt aangehaald als: Beleidsregel kosten aanvraag deskundigenoordeel 2013.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032639&artikel=1&z=2015-07-01&g=2015-07-01) brengt het UWV geen kosten in rekening aan de werkgever wiens verzoek om het instellen van een onderzoek is gedaan ten behoeve van het indienen van een verzoek om ontbinding van de arbeidsovereenkomst als bedoeld in [artikel 671b, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
