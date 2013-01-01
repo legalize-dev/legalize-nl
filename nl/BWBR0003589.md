@@ -4,7 +4,7 @@ identifier: "BWBR0003589"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1983-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003589"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Dit besluit verstaat onder:
 
 "het Verdrag": het op 24 november 1977 te Straatsburg ondertekende Europees Verdrag inzake de rechtspositie van migrerende werknemers (**Trb.** 1978, 70);
 
-"de raad": de raad voor de kinderbescherming in het arrondissement 's-Gravenhage.
+"de raad": de raad voor de kinderbescherming in het arrondissement Den Haag.
 
 ##### Artikel 2
 
@@ -74,7 +74,7 @@ Alvorens tot het nemen van maatregelen ter verzekering van het verhaal van onder
 
 ##### Artikel 6
 
-1. De Staatssecretaris van Justitie kan omtrent de inrichting van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003589&artikel=3&z=1983-05-01&g=1983-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003589&artikel=5&z=1983-05-01&g=1983-05-01) bedoelde administratie voorschriften geven.
+1. De Staatssecretaris van Justitie kan omtrent de inrichting van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003589&artikel=3&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003589&artikel=5&z=2013-01-01&g=2013-01-01) bedoelde administratie voorschriften geven.
 
 2. Hij kan deze administratie met de daarbij behorende bewijsstukken te allen tijde doen inzien.
 
