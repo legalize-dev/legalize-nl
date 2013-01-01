@@ -4,7 +4,7 @@ identifier: "BWBR0010963"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-16"
-last_updated: "2000-01-21"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010963"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Melding bijzondere voorvallen
 
-1. Bijzondere voorvallen die zeer spoedig door het hoofd van de inrichting telefonisch aan de Minister van Justitie worden gemeld, zijn de volgende:
+1. Bijzondere voorvallen die zeer spoedig door het hoofd van de inrichting telefonisch aan de Minister van Veiligheid en Justitie worden gemeld, zijn de volgende:
 
 - a). gevallen van natuurlijke dood van een verpleegde;
 
@@ -67,15 +67,15 @@ In deze regeling wordt verstaan onder:
 
 In gevallen als bedoeld onder e) wordt het bijzonder voorval gemeld door het hoofd van de zendende inrichting.
 
-2. Bijzondere voorvallen die uiterlijk de eerstvolgende werkdag telefonisch aan de Minister van Justitie worden gemeld zijn de volgende:
+2. Bijzondere voorvallen die uiterlijk de eerstvolgende werkdag telefonisch aan de Minister van Veiligheid en Justitie worden gemeld zijn de volgende:
 
 - a). onttrekking aan het op hem uitgeoefende toezicht door een verpleegde uit een niet-gesloten gebouw of vanaf een niet-beveiligd terrein;
 
 - b). niet terugkeren van onbegeleid verlof door een verpleegde.
 
-3. Bijzondere voorvallen worden aansluitend aan de telefonische melding, per fax of elektronische post gemeld. Daarbij wordt gebruik gemaakt van het Protocol melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=1&z=2000-01-21&g=2000-01-21) bij deze regeling is gevoegd.
+3. Bijzondere voorvallen worden aansluitend aan de telefonische melding, per fax of elektronische post gemeld. Daarbij wordt gebruik gemaakt van het Protocol melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=1&z=2013-01-01&g=2013-01-01) bij deze regeling is gevoegd.
 
-4. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het Protocol afloop/afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=2&z=2000-01-21&g=2000-01-21) bij deze regeling is gevoegd.
+4. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het Protocol afloop/afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=2&z=2013-01-01&g=2013-01-01) bij deze regeling is gevoegd.
 
 ##### Artikel 3. Inwerkingtreding
 
