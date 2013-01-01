@@ -4,7 +4,7 @@ identifier: "BWBR0030923"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030923"
 soort: "wet"
@@ -118,9 +118,9 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIX
 
-1. Op 1 januari 2013 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVII&z=2012-01-01&g=2012-01-01) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2012-01-01&g=2012-01-01).
+1. Op 1 januari 2013 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVII&z=2013-01-01&g=2013-01-01) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2013-01-01&g=2013-01-01).
 
-2. Op 1 januari 2014 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2012-01-01&g=2012-01-01).
+2. Op 1 januari 2014 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel XX
 
