@@ -4,7 +4,7 @@ identifier: "BWBR0002228"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002228"
 soort: "AMvB"
@@ -218,7 +218,7 @@ Vervallen
 
 ##### Artikel 38
 
-De griffier is hoofd van de griffie. Voor zover hij niet optreedt tot bijstand van de rechter in diens verrichtingen, is hij verplicht de voorschriften te volgen, welke hem door Onze Minister van Justitie worden gegeven.
+De griffier is hoofd van de griffie. Voor zover hij niet optreedt tot bijstand van de rechter in diens verrichtingen, is hij verplicht de voorschriften te volgen, welke hem door Onze Minister van Veiligheid en Justitie worden gegeven.
 
 ##### Artikel 39
 
@@ -238,15 +238,7 @@ Vervallen.
 
 ##### Artikel 43
 
-1. De griffier houdt de griffie open op de uren, door de Centrale Raad van Beroep met inachtneming van de volgende leden te bepalen.
-
-2. De griffie is gesloten op zondagen en dagen die bij of krachtens de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) zijn aangemerkt als algemeen erkende feestdagen, tenzij op een dergelijke dag een terechtzitting wordt gehouden.
-
-3. Op zaterdagen is de griffie geopend, mits op een dergelijke dag een terechtzitting wordt gehouden.
-
-4. Op de overige dagen is de griffie geopend gedurende ten minste zes uren per dag.
-
-5. Op de dagen waarop terechtzittingen worden gehouden is de griffie ten minste een half uur voor de aanvang daarvan geopend.
+De griffie is op de dagen waarop terechtzittingen worden gehouden ten behoeve van de bij die zittingen betrokken procespartijen en hun advocaten en gemachtigden tenminste een kwartier voor de aanvang van een zitting en een kwartier na afloop daarvan geopend.
 
 ##### Artikel 44
 
@@ -262,7 +254,7 @@ Vervallen.
 
 ##### Artikel 46
 
-Bij ontstentenis van de griffier treedt als hoofd van de griffie op een substituut-griffier, dan wel bij ontstentenis van dien een plaatsvervangende griffier, een en ander volgens een rooster door de griffier opgemaakt in overleg met de president. Bij gebreke van een zodanige voorziening wijst Onze Minister van Justitie de substituut- of plaatsvervangende griffier aan, die optreedt als hoofd van de griffie.
+Bij ontstentenis van de griffier treedt als hoofd van de griffie op een substituut-griffier, dan wel bij ontstentenis van dien een plaatsvervangende griffier, een en ander volgens een rooster door de griffier opgemaakt in overleg met de president. Bij gebreke van een zodanige voorziening wijst Onze Minister van Veiligheid en Justitie de substituut- of plaatsvervangende griffier aan, die optreedt als hoofd van de griffie.
 
 ### Hoofdstuk IV. Voorbereidend onderzoek
 
