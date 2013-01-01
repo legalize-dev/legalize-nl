@@ -4,7 +4,7 @@ identifier: "BWBR0018492"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-12-19"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018492"
 soort: "AMvB"
@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. **kosten van overige prestaties:** de kosten van onder de dekking van een zorgverzekering vallende prestaties die niet als tot een ander cluster behorende kosten worden aangemerkt;
 
-- m. **macro-deelbedrag:** een in de ministeriële regeling, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2012-12-19&g=2012-12-19), voor een cluster van prestaties genoemd bedrag dat ex ante over de zorgverzekeraars wordt verdeeld;
+- m. **macro-deelbedrag:** een in de ministeriële regeling, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2013-01-01&g=2013-01-01), voor een cluster van prestaties genoemd bedrag dat ex ante over de zorgverzekeraars wordt verdeeld;
 
 - n. **deelbedrag:** een bedrag dat een zorgverzekeraar voor een cluster van prestaties ontvangt;
 
@@ -114,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - aa. **nominale rekenpremie:** een bij de berekening van de vereveningsbijdrage in aanmerking te nemen bedrag, ter hoogte van de door Onze Minister geraamde premie die een zorgverzekeraar op jaarbasis bij een premieplichtige verzekerde voor verzekerde prestaties in rekening brengt;
 
-- bb. **geraamde kosten:** de bij de ministeriële regeling, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2012-12-19&g=2012-12-19), bepaalde macro-deelbedragen, vermeerderd of verminderd met na vaststelling van deze deelbedragen maar voor 1 januari van het vereveningsjaar geraamde, bij ministeriële regeling te bepalen kosten die het gevolg zijn van wijzigingen in de over het vereveningsjaar op grond van een zorgverzekering te verzekeren prestaties waarmee bij het opstellen van de ministeriële regeling, bedoeld in artikel 3.1, derde lid, nog geen rekening kon worden gehouden;
+- bb. **geraamde kosten:** de bij de ministeriële regeling, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2013-01-01&g=2013-01-01), bepaalde macro-deelbedragen, vermeerderd of verminderd met na vaststelling van deze deelbedragen maar voor 1 januari van het vereveningsjaar geraamde, bij ministeriële regeling te bepalen kosten die het gevolg zijn van wijzigingen in de over het vereveningsjaar op grond van een zorgverzekering te verzekeren prestaties waarmee bij het opstellen van de ministeriële regeling, bedoeld in artikel 3.1, derde lid, nog geen rekening kon worden gehouden;
 
 - cc. **hogekostencompensatie:** het verrekenen met het Zorgverzekeringsfonds van een bij ministeriële regeling te bepalen percentage van de kosten van verzekerden met betrekking tot in dit besluit aangewezen deelbedragen, voor zover zij uitgaan boven een bij ministeriële regeling te omschrijven drempel;
 
@@ -128,19 +128,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. De zorg en overige diensten, bedoeld in [artikel 11, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19).
+1. De zorg en overige diensten, bedoeld in [artikel 11, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01).
 
 2. De inhoud en omvang van de vormen van zorg of diensten worden mede bepaald door de stand van de wetenschap en praktijk en, bij ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.
 
-3. Onverminderd hetgeen is bepaald in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19), heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.
+3. Onverminderd hetgeen is bepaald in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01), heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.
 
 4. Onder de zorg en overige diensten, bedoeld in het eerste lid, valt niet forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2).
 
-5. In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19), ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal vier jaar, voor zover er sprake is van verantwoorde zorg en diensten.
+5. In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01), ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal vier jaar, voor zover er sprake is van verantwoorde zorg en diensten.
 
 ##### Artikel 2.2
 
-1. De vergoeding van kosten, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19).
+1. De vergoeding van kosten, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01).
 
 2. Bij het bepalen van de vergoeding worden in mindering gebracht:
 
@@ -154,19 +154,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid geldt slechts indien de zorgverzekeraar waarbij de verzekerde zijn zorgverzekering heeft, zijn verplichtingen die in geval van terroristische handelingen uit de zorgverzekering voortvloeien, heeft herverzekerd bij de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V.
 
-3. Indien na een terroristische handeling op grond van [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2012-12-19&g=2012-12-19) van dit besluit een aanvullende bijdrage ter beschikking wordt gesteld, heeft de verzekerde in aanvulling op de prestaties, bedoeld in het eerste lid, recht op prestaties van een bij de regeling, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2012-12-19&g=2012-12-19) van dit besluit, te bepalen omvang.
+3. Indien na een terroristische handeling op grond van [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2013-01-01&g=2013-01-01) van dit besluit een aanvullende bijdrage ter beschikking wordt gesteld, heeft de verzekerde in aanvulling op de prestaties, bedoeld in het eerste lid, recht op prestaties van een bij de regeling, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2013-01-01&g=2013-01-01) van dit besluit, te bepalen omvang.
 
 ##### Artikel 2.4
 
-1. Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, met uitzondering van de zorg zoals tandarts-specialisten die plegen te bieden, alsmede dyslexiezorg als bedoeld in [artikel 2.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5a&z=2012-12-19&g=2012-12-19) en paramedische zorg als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2012-12-19&g=2012-12-19), met dien verstande dat:
+1. Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, dyslexiezorg als bedoeld in [artikel 2.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5a&z=2013-01-01&g=2013-01-01), zorg bij stoppen-met-rokenprogramma als bedoeld in [artikel 2.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5b&z=2013-01-01&g=2013-01-01), geriatrische revalidatie als bedoeld in [artikel 2.5c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5c&z=2013-01-01&g=2013-01-01) en paramedische zorg als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2013-01-01&g=2013-01-01), met dien verstande dat:
 
 - a. de zorg niet omvat:
 
-- 1°. het vaccineren ten behoeve van grieppreventie,
+- 1°. het vaccineren ten behoeve van grieppreventie;
 
 - 2°. prenatale screening naar aangeboren afwijkingen, anders dan via een structureel echoscopisch onderzoek in het tweede trimester van de zwangerschap, indien de verzekerde jonger is dan 36 jaar en hiervoor geen medische indicatie heeft;
 
 - 3°. de vierde of volgende in-vitrofertilisatiepoging per te realiseren zwangerschap, nadat drie pogingen zijn geëindigd tussen het moment dat een follikelpunctie is geslaagd en het moment dat er sprake is van een doorgaande zwangerschap van tien weken te rekenen vanaf het moment van de follikelpunctie en indien de implantatie van gecryopreserveerde embryo’s niet heeft geleid tot een doorgaande zwangerschap van negen weken en drie dagen te rekenen vanaf de implantatie;
+
+- 4°. de eerste en tweede in-vitrofertilisatiepoging bij een verzekerde jonger dan achtendertig jaar, indien er meer dan één embryo wordt teruggeplaatst;
+
+- 5°. vruchtbaarheidsgerelateerde zorg, indien de verzekerde vrouw drieënveertig jaar of ouder is, behoudens voor zover het een in-vitrofertilisatiepoging betreft die reeds is aangevangen voordat de verzekerde vrouw de leeftijd van drieënveertig jaar heeft bereikt;
+
+- 6°. zorg zoals tandarts-specialisten plegen te bieden;
 
 - b. behandeling van plastisch-chirurgische aard slechts onder de zorg valt indien die strekt tot correctie van:
 
@@ -180,17 +186,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 5°. primaire geslachtskenmerken bij een vastgestelde transsexualiteit;
 
-- c. transplantaties van weefsels en organen slechts tot de zorg behoren indien de transplantatie is verricht in een lidstaat van de Europese Unie, in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in een andere staat indien de donor woonachtig is in die staat en de echtgenoot, de geregistreerde partner of een bloedverwant in de eerste, tweede of derde graad van de verzekerde is.
+- c. transplantaties van weefsels en organen slechts tot de zorg behoren indien de transplantatie is verricht in een lidstaat van de Europese Unie, in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in een andere staat indien de donor woonachtig is in die staat en de echtgenoot, de geregistreerde partner of een bloedverwant in de eerste, tweede of derde graad van de verzekerde is;
 
 - d. de zorg ten hoogste vijf zittingen eerstelijnspsychologische zorg per kalenderjaar omvat.
 
 2. Bij ministeriële regeling kunnen vormen van zorg, worden uitgezonderd.
 
-3. Bij ministeriële regeling wordt bepaald dat de verzekerde voor zorg op het terrein van de geestelijke gezondheidszorg een eigen bijdrage betaalt. Daarbij kan worden bepaald dat hij die bijdrage betaalt tot een bij die regeling aangeven maximum.
-
 ##### Artikel 2.5
 
-De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19), omvat tevens vergoeding van de kosten van:
+De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01), omvat tevens vergoeding van de kosten van:
 
 - a. specialistisch geneeskundige zorg in verband met de selectie van de donor;
 
@@ -208,7 +212,7 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 
 1. Paramedische zorg omvat fysiotherapie, oefentherapie, logopedie, ergotherapie en dieetadvisering.
 
-2. Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&bijlage=1&z=2012-12-19&g=2012-12-19) aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste twintig behandelingen.
+2. Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&bijlage=1&z=2013-01-01&g=2013-01-01) aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste twintig behandelingen.
 
 3. Fysiotherapie omvat tevens bekkenfysiotherapie in verband met urine-incontinentie. Deze zorg omvat voor de verzekerden van achttien jaar of ouder ten hoogste negen behandelingen.
 
@@ -218,7 +222,7 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 
 6. Ergotherapie omvat zorg zoals ergotherapeuten die plegen te bieden, mits deze als doel heeft de zelfzorg en de zelfredzaamheid van de verzekerde te bevorderen en te herstellen, tot een maximum van tien behandeluren per kalenderjaar.
 
-7. Dieetadvisering omvat voorlichting met een medisch doel over voeding en eetgewoonten, zoals diëtisten die plegen te bieden, tot een maximum van vier behandeluren per kalenderjaar, indien de dieetadvisering onderdeel is van de gecoördineerde, multidisciplinaire zorg aan een verzekerde die lijdt aan een chronische obstructieve longziekte, of aan diabetes of die een cardiovasculair risico heeft.
+7. Dieetadvisering omvat voorlichting met een medisch doel over voeding en eetgewoonten, zoals diëtisten die plegen te bieden, tot een maximum van drie behandeluren per kalenderjaar.
 
 ##### Artikel 2.7
 
@@ -242,7 +246,7 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 
 - c. het verwijderen van tandsteen;
 
-- d. fluorideapplicatie aan verzekerden vanaf de leeftijd van zes jaar, maximaal tweemaal per jaar, tenzij de verzekerde tandheelkundig meer keren per jaar op die hulp is aangewezen;
+- d. fluorideapplicatie, maximaal tweemaal per jaar, tenzij de verzekerde tandheelkundig meer keren per jaar op die hulp is aangewezen;
 
 - e. sealing;
 
@@ -269,8 +273,6 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 - a. chirurgische tandheelkundige hulp van specialistische aard en het daarbij behorende röntgenonderzoek, met uitzondering van parodontale chirurgie, het aanbrengen van een tandheelkundig implantaat en ongecompliceerde extracties;
 
 - b. uitneembare volledige prothetische voorzieningen voor de boven- of onderkaak.
-
-6. Bij ministeriële regeling wordt bepaald dat de verzekerde een eigen bijdrage betaalt voor de zorg, bedoeld in het eerste of vijfde lid, onderdeel b.
 
 ##### Artikel 2.8
 
@@ -308,9 +310,7 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 
 In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzing geregeld, worden regels gesteld met betrekking tot de systematiek van de indeling in groepen van onderling vervangbare geneesmiddelen en worden regels gesteld met betrekking tot de vaststelling van een vergoedingslimiet voor elke groep van onderling vervangbare geneesmiddelen.
 
-6. De verzekerde betaalt een eigen bijdrage voor een geneesmiddel dat is ingedeeld in een groep van onderling vervangbare geneesmiddelen, indien de inkoopprijs hoger is dan de vergoedingslimiet. Een eigen bijdrage wordt ook betaald voor zover een geneesmiddel is bereid uit een geneesmiddel waarvoor een eigen bijdrage is verschuldigd. Bij ministeriële regeling wordt geregeld hoe de eigen bijdrage wordt berekend.
-
-7. In afwijking van het vijfde lid kan bij ministeriële regeling worden bepaald dat voor bij die regeling aangewezen groepen van onderling vervangbare geneesmiddelen de vergoedinglimiet kan worden herberekend of buiten werking kan worden gesteld.
+6. In afwijking van het vijfde lid kan bij ministeriële regeling worden bepaald dat voor bij die regeling aangewezen groepen van onderling vervangbare geneesmiddelen de vergoedinglimiet kan worden herberekend of buiten werking kan worden gesteld.
 
 ##### Artikel 2.9
 
@@ -322,37 +322,27 @@ In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzi
 
 2. De kosten van normaal gebruik van hulpmiddelen komen, tenzij bij ministeriële regeling anders is bepaald, voor rekening van de verzekerde.
 
-3. Bij ministeriële regeling wordt bepaald dat de verzekerde voor een hulpmiddel een eigen bijdrage betaalt ter grootte van:
-
-- a. het verschil tussen de aanschaffingskosten en het bij dat hulpmiddel vermelde bedrag, dat kan verschillen naar gelang de groep van verzekerden, waartoe de verzekerde behoort;
-
-- b. een daarbij vermeld bedrag wegens besparing van kosten.
-
 ##### Artikel 2.10
 
-1. Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2012-12-19&g=2012-12-19), of in verband met chirurgische tandheelkundige hulp van specialistische aard als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2012-12-19&g=2012-12-19), al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.
+1. Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-01-01&g=2013-01-01), of in verband met chirurgische tandheelkundige hulp van specialistische aard als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2013-01-01&g=2013-01-01), al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.
 
 2. Een onderbreking van ten hoogste dertig dagen wordt niet als onderbreking beschouwd, maar deze dagen tellen niet mee voor de berekening van de 365 dagen.
 
 3. In afwijking van het tweede lid tellen onderbrekingen wegens weekend- en vakantieverlof mee voor de berekening van de 365 dagen.
 
-4. Bij ministeriële regeling wordt bepaald dat de verzekerde een eigen bijdrage betaalt voor zorg als bedoeld in het eerste lid.
-
 ##### Artikel 2.11
 
-1. Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2012-12-19&g=2012-12-19) bedoelde verpleging, omvat verpleging tevens zorg zoals verpleegkundigen die plegen te bieden, zonder dat die zorg gepaard gaat met verblijf, en die noodzakelijk is in verband met medisch-specialistische zorg.
+1. Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2013-01-01&g=2013-01-01) bedoelde verpleging, omvat verpleging tevens zorg zoals verpleegkundigen die plegen te bieden, zonder dat die zorg gepaard gaat met verblijf, en die noodzakelijk is in verband met medisch-specialistische zorg.
 
 2. De zorg, bedoeld in het eerste lid, omvat niet verpleging die noodzakelijk is in verband met thuisbeademing of die noodzakelijk is in verband met palliatieve terminale zorg.
 
 ##### Artikel 2.12
 
-1. Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2012-12-19&g=2012-12-19) bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.
-
-2. Bij ministeriële regeling wordt bepaald dat de verzekerde een eigen bijdrage betaalt voor de zorg, bedoeld in het eerste lid.
+Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2013-01-01&g=2013-01-01) bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.
 
 ##### Artikel 2.13
 
-1. Vervoer omvat ziekenvervoer per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1), van de verzekerde over een afstand van maximaal 200 kilometer:
+1. Vervoer omvat ziekenvervoer per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1), van de verzekerde over een afstand van maximaal 200 kilometer:
 
 - a. naar een persoon bij wie of een instelling waarin hij zorg zal ontvangen waarvan de kosten geheel of gedeeltelijk ten laste van de zorgverzekering komen;
 
@@ -370,7 +360,7 @@ In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzi
 
 ##### Artikel 2.14
 
-1. Het vervoer omvat tevens ziekenvervoer per auto, anders dan per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.13&z=2012-12-19&g=2012-12-19), over een enkele reisafstand van maximaal 200 kilometer voor zover:
+1. Het vervoer omvat tevens ziekenvervoer per auto, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.13&z=2013-01-01&g=2013-01-01), over een enkele reisafstand van maximaal 200 kilometer voor zover:
 
 - a. de verzekerde nierdialyses moet ondergaan;
 
@@ -388,13 +378,13 @@ In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzi
 
 ##### Artikel 2.15
 
-1. In gevallen waarin ziekenvervoer per ambulance, per auto of met een openbaar middel van vervoer niet mogelijk is, kan de zorgverzekeraar toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel.
+1. De zorgverzekeraar kan toestaan dat het ziekenvervoer plaatsvindt met een ander door de zorgverzekeraar aan te geven vervoermiddel dan een motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1), auto of openbaar middel van vervoer.
 
 2. Het ziekenvervoer omvat tevens vervoer van een begeleider, indien begeleiding noodzakelijk is, of indien het betreft begeleiding van kinderen beneden zestien jaar. In bijzondere gevallen kan de zorgverzekeraar vervoer van twee begeleiders toestaan.
 
 ##### Artikel 2.16
 
-Bij ministeriële regeling wordt bepaald dat de verzekerde voor ziekenvervoer, anders dan ambulancevervoer als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1), een eigen bijdrage betaalt tot een bij die regeling aangeven maximum.
+De verzekerde betaalt voor eerstelijnspsychologische zorg een eigen bijdrage per zitting of per internetbehandeltraject.
 
 #### § 2. Het eigen risico
 
@@ -408,7 +398,7 @@ Bij ministeriële regeling wordt bepaald dat de verzekerde voor ziekenvervoer, a
 
 - c. zorg die wordt bekostigd met toepassing van de op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde beleidsregel voor de prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen, en
 
-- d. nacontroles van de donor nadat de periode, bedoeld in [artikel 2.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2012-12-19&g=2012-12-19), is verstreken.
+- d. nacontroles van de donor nadat de periode, bedoeld in [artikel 2.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2013-01-01&g=2013-01-01), is verstreken.
 
 2. De zorgverzekeraar kan bepalen dat kosten van het gebruik van zorg en overige diensten als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) geheel of gedeeltelijk buiten het verplicht eigen risico vallen, indien:
 
@@ -422,7 +412,7 @@ Bij ministeriële regeling wordt bepaald dat de verzekerde voor ziekenvervoer, a
 
 4. In afwijking van het derde lid is de zorgverzekeraar gerechtigd het verplicht eigen risico in rekening te brengen indien het aan de verzekerde te wijten is dat de rekening niet voor de in het derde lid genoemde dag is ingediend.
 
-#### § 2. Het eigen risico
+#### § 1a. De eigen bijdragen
 
 ##### Artikel 2.18
 
@@ -470,7 +460,7 @@ Het percentage, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.o
 
 ##### Artikel 3.3
 
-Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2012-12-19&g=2012-12-19) genoemde macro-deelbedragen op de bij en krachtens de [artikelen 3.4 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2012-12-19&g=2012-12-19) bepaalde wijze in deelbedragen.
+Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2013-01-01&g=2013-01-01) genoemde macro-deelbedragen op de bij en krachtens de [artikelen 3.4 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2013-01-01&g=2013-01-01) bepaalde wijze in deelbedragen.
 
 ##### Artikel 3.4
 
@@ -502,51 +492,51 @@ Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overhe
 
 3. De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.
 
-#### § 1.3. De herberekening van het normatieve bedrag ten behoeve van een zorgverzekeraar en de vaststelling van de bijdrage aan een zorgverzekeraar
+#### § 1.1. De onderverdeling van het macro-prestatiebedrag in macro-deelbedragen, de totale geraamde opbrengst van de nominale rekenpremie en de totale geraamde opbrengst van het verplicht eigen risico
 
 ##### Artikel 3.8
 
-In afwijking van de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2012-12-19&g=2012-12-19), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2012-12-19&g=2012-12-19) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2012-12-19&g=2012-12-19) worden verzekerden die in het buitenland wonen ingedeeld in de klassen «Geen FKG», «Geen FKG psychische aandoeningen», respectievelijk «DKG «0»» en worden de bij deze klasse behorende gewichten voor deze verzekerden op bij ministeriële regeling bepaalde wijze door het College zorgverzekeringen vastgesteld.
+In afwijking van de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2013-01-01&g=2013-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2013-01-01&g=2013-01-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2013-01-01&g=2013-01-01) worden verzekerden die in het buitenland wonen ingedeeld in de klassen «Geen FKG», «Geen FKG psychische aandoeningen», respectievelijk «DKG «0»» en worden de bij deze klasse behorende gewichten voor deze verzekerden op bij ministeriële regeling bepaalde wijze door het College zorgverzekeringen vastgesteld.
 
 ##### Artikel 3.9
 
-Het College zorgverzekeringen sommeert de ingevolge de [artikelen 3.3 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2012-12-19&g=2012-12-19) aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag per zorgverzekeraar.
+Het College zorgverzekeringen sommeert de ingevolge de [artikelen 3.3 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2013-01-01&g=2013-01-01) aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag per zorgverzekeraar.
 
 ##### Artikel 3.10
 
-1. Het College zorgverzekeringen brengt vervolgens op het normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2012-12-19&g=2012-12-19), in mindering, de voor de zorgverzekeraar geraamde opbrengst van de nominale rekenpremie en de voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico.
+1. Het College zorgverzekeringen brengt vervolgens op het normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2013-01-01&g=2013-01-01), in mindering, de voor de zorgverzekeraar geraamde opbrengst van de nominale rekenpremie en de voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico.
 
 2. De raming van de opbrengst van de nominale rekenpremie en van het verplicht eigen risico vindt plaats op een bij ministeriële regeling te bepalen wijze.
 
 3. Het College zorgverzekeringen kent aan de zorgverzekeraar een vereveningsbijdrage toe ter hoogte van de uitkomst van de berekening, bedoeld in het eerste lid.
 
-4. Het College zorgverzekeringen deelt aan de zorgverzekeraar het berekende normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2012-12-19&g=2012-12-19), en de toegekende vereveningsbijdrage, bedoeld in het derde lid, mee, en geeft hierbij aan welke bedragen, bedoeld in het eerste lid, bij de toekenning van de vereveningsbijdrage zijn betrokken.
+4. Het College zorgverzekeringen deelt aan de zorgverzekeraar het berekende normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2013-01-01&g=2013-01-01), en de toegekende vereveningsbijdrage, bedoeld in het derde lid, mee, en geeft hierbij aan welke bedragen, bedoeld in het eerste lid, bij de toekenning van de vereveningsbijdrage zijn betrokken.
 
 ##### Artikel 3.11
 
-1. Na het vereveningsjaar herberekent het College zorgverzekeringen de deelbedragen, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2012-12-19&g=2012-12-19), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2012-12-19&g=2012-12-19) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2012-12-19&g=2012-12-19), op de bij en krachtens dit artikel en de [artikelen 3.12 tot en met 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) bepaalde wijze.
+1. Na het vereveningsjaar herberekent het College zorgverzekeringen de deelbedragen, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2013-01-01&g=2013-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2013-01-01&g=2013-01-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2013-01-01&g=2013-01-01), op de bij en krachtens dit artikel en de [artikelen 3.12 tot en met 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) bepaalde wijze.
 
-2. Met inachtneming van het bepaalde bij en krachtens de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2012-12-19&g=2012-12-19), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.14&z=2012-12-19&g=2012-12-19) en [3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2012-12-19&g=2012-12-19), bepaalt het College zorgverzekeringen de over het vereveningsjaar gerealiseerde kosten per cluster van prestaties voor alle zorgverzekeraars tezamen.
+2. Met inachtneming van het bepaalde bij en krachtens de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2013-01-01&g=2013-01-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.14&z=2013-01-01&g=2013-01-01) en [3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2013-01-01&g=2013-01-01), bepaalt het College zorgverzekeringen de over het vereveningsjaar gerealiseerde kosten per cluster van prestaties voor alle zorgverzekeraars tezamen.
 
-3. Tot de gerealiseerde kosten behoren niet kosten waarvoor bijdragen als bedoeld in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2012-12-19&g=2012-12-19) zijn verstrekt.
+3. Tot de gerealiseerde kosten behoren niet kosten waarvoor bijdragen als bedoeld in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.23&z=2013-01-01&g=2013-01-01) zijn verstrekt.
 
 4. Het College zorgverzekeringen corrigeert de geraamde kosten per cluster van prestaties voor het werkelijke aantal verzekerden in het vereveningsjaar en hun werkelijke verzekerdenkenmerken.
 
-5. Met inachtneming van bij ministeriële regeling te bepalen regels herberekent het College zorgverzekeringen, uitgaande van de door alle zorgverzekeraars tezamen gerealiseerde kosten voor het destreffende cluster van prestaties, de gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2012-12-19&g=2012-12-19), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2012-12-19&g=2012-12-19), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2012-12-19&g=2012-12-19), en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.8&z=2012-12-19&g=2012-12-19), door deze te vermenigvuldigen met een factor die gelijk is aan het quotiënt van de gerealiseerde kosten, bedoeld in het tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in het vierde lid.
+5. Met inachtneming van bij ministeriële regeling te bepalen regels herberekent het College zorgverzekeringen, uitgaande van de door alle zorgverzekeraars tezamen gerealiseerde kosten voor het destreffende cluster van prestaties, de gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2013-01-01&g=2013-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2013-01-01&g=2013-01-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2013-01-01&g=2013-01-01), en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.8&z=2013-01-01&g=2013-01-01), door deze te vermenigvuldigen met een factor die gelijk is aan het quotiënt van de gerealiseerde kosten, bedoeld in het tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in het vierde lid.
 
 6. Bij ministeriële regeling wordt bepaald in welke mate een verzekerde die niet gedurende het gehele vereveningsjaar bij een zorgverzekeraar verzekerd is of die gedurende het vereveningsjaar bij meerdere zorgverzekeraars tegelijk verzekerd is, voor de vaststelling van de vereveningsbijdrage meetelt.
 
 ##### Artikel 3.12
 
-1. Ten behoeve van de herberekening, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2012-12-19&g=2012-12-19), berekent het College zorgverzekeringen allereerst de deelbedragen, bedoeld in de [artikelen 3.4 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2012-12-19&g=2012-12-19), uitgaande van:
+1. Ten behoeve van de herberekening, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2013-01-01&g=2013-01-01), berekent het College zorgverzekeringen allereerst de deelbedragen, bedoeld in de [artikelen 3.4 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.4&z=2013-01-01&g=2013-01-01), uitgaande van:
 
 - a. de werkelijke verzekerdenaantallen en de werkelijke verzekerdenkenmerken per zorgverzekeraar;
 
-- b. de herberekende gewichten, bedoeld in [artikel 3.11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2012-12-19&g=2012-12-19).
+- b. de herberekende gewichten, bedoeld in [artikel 3.11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2013-01-01&g=2013-01-01).
 
 2. Het College zorgverzekeringen vermindert ieder op grond van het eerste lid voor een zorgverzekeraar berekend deelbedrag met een bedrag dat het als volgt berekent:
 
-- a. het College zorgverzekeringen berekent het verschil tussen de gerealiseerde kosten, bedoeld in [artikel 3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2012-12-19&g=2012-12-19), en de gecorrigeerde geraamde kosten, bedoeld in artikel 3.11, vierde lid, voor het met het deelbedrag overeenkomende cluster van prestaties;
+- a. het College zorgverzekeringen berekent het verschil tussen de gerealiseerde kosten, bedoeld in [artikel 3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2013-01-01&g=2013-01-01), en de gecorrigeerde geraamde kosten, bedoeld in artikel 3.11, vierde lid, voor het met het deelbedrag overeenkomende cluster van prestaties;
 
 - b. het College zorgverzekeringen deelt de onder a verkregen uitkomst door het totaal aantal in het vereveningsjaar ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
@@ -570,21 +560,21 @@ Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepal
 
 1. Het College zorgverzekeringen merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als vaste zorgkosten.
 
-2. Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de vaste zorgkosten in het betreffende jaar enerzijds, en het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) herberekende deelbedrag vaste zorgkosten anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.
+2. Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de vaste zorgkosten in het betreffende jaar enerzijds, en het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) herberekende deelbedrag vaste zorgkosten anderzijds, leidende tot een nieuw deelbedrag per zorgverzekeraar.
 
 ##### Artikel 3.16
 
-1. Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen op het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, op een bij die regeling te bepalen wijze hogekostencompensatie toepast.
+1. Bij ministeriële regeling kan worden bepaald dat het College zorgverzekeringen op het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, op een bij die regeling te bepalen wijze hogekostencompensatie toepast.
 
-2. Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg enerzijds, en het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg dan wel, indien het eerste lid is toegepast, het resultaat na de daar bedoelde hogekostencompensatie anderzijds.
+2. Het College zorgverzekeringen calculeert in een bij ministeriële regeling te bepalen mate na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg enerzijds, en het op grond van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg dan wel, indien het eerste lid is toegepast, het resultaat na de daar bedoelde hogekostencompensatie anderzijds.
 
 3. Het resultaat van toepassing van het tweede lid leidt tot een nieuw, in een deelbedrag voor verzekerden jonger dan achttien jaar enerzijds en een deelbedrag voor verzekerden van achttien jaar en ouder anderzijds te onderscheiden, deelbedrag per zorgverzekeraar.
 
 ##### Artikel 3.17
 
-1. Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die regeling te bepalen percentage na.
+1. Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die regeling te bepalen percentage na.
 
-2. Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in [artikel 3.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2012-12-19&g=2012-12-19), voor verzekerden van achttien jaar en ouder en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder», calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die regeling te bepalen percentage na.
+2. Indien voor een zorgverzekeraar het verschil tussen het deelbedrag, bedoeld in [artikel 3.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2013-01-01&g=2013-01-01), voor verzekerden van achttien jaar en ouder en de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder», calculeert het College zorgverzekeringen de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die regeling te bepalen percentage na.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -720,7 +710,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.18
 
-Het College zorgverzekeringen sommeert de ingevolge [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2012-12-19&g=2012-12-19) herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg» en «overige prestaties», de op grond van de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2012-12-19&g=2012-12-19) en [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2012-12-19&g=2012-12-19) berekende nieuwe deelbedragen en, voor zover van toepassing, de op grond van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.17&z=2012-12-19&g=2012-12-19) berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
+Het College zorgverzekeringen sommeert de ingevolge [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.12&z=2013-01-01&g=2013-01-01) herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg» en «overige prestaties», de op grond van de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2013-01-01&g=2013-01-01) en [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2013-01-01&g=2013-01-01) berekende nieuwe deelbedragen en, voor zover van toepassing, de op grond van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.17&z=2013-01-01&g=2013-01-01) berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
 
 ### Hoofdstuk 3a. De compensatie voor het verplicht eigen risico
 
@@ -840,7 +830,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.16a
 
-Vervallen
+De verzekerde van achttien jaar of ouder betaalt een eigen bijdrage voor mondzorg, bedoeld in [artikel 2.7, eerste en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2013-01-01&g=2013-01-01).
 
 #### § 2. Het eigen risico
 
@@ -1280,13 +1270,13 @@ Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overhe
 
 ##### Artikel 3.19
 
-1. Het College zorgverzekeringen brengt vervolgens op het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2012-12-19&g=2012-12-19), in mindering, de voor de zorgverzekeraar naar gerealiseerde verzekerdenaantallen berekende opbrengst van de nominale rekenpremie en de voor de zorgverzekeraar naar gerealiseerde verzekerdenaantallen genormeerde opbrengst van het verplicht eigen risico.
+1. Het College zorgverzekeringen brengt vervolgens op het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2013-01-01&g=2013-01-01), in mindering, de voor de zorgverzekeraar naar gerealiseerde verzekerdenaantallen berekende opbrengst van de nominale rekenpremie en de voor de zorgverzekeraar naar gerealiseerde verzekerdenaantallen genormeerde opbrengst van het verplicht eigen risico.
 
 2. De berekening van de naar gerealiseerde verzekerdenaantallen berekende opbrengst van de nominale rekenpremie en van de naar gerealiseerde verzekerdenaantallen genormeerde opbrengst van het verplicht eigen risico, vindt plaats op een bij ministeriële regeling te bepalen wijze.
 
 3. Het College zorgverzekeringen stelt de vereveningsbijdrage vast op de uitkomst van de berekening, bedoeld in het eerste lid.
 
-4. Het College zorgverzekeringen deelt aan de zorgverzekeraar het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2012-12-19&g=2012-12-19), en de vastgestelde vereveningsbijdrage, bedoeld in het derde lid, mee, en geeft hierbij aan welke bedragen, bedoeld in het eerste lid, bij de vaststelling van de vereveningsbijdrage zijn betrokken.
+4. Het College zorgverzekeringen deelt aan de zorgverzekeraar het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2013-01-01&g=2013-01-01), en de vastgestelde vereveningsbijdrage, bedoeld in het derde lid, mee, en geeft hierbij aan welke bedragen, bedoeld in het eerste lid, bij de vaststelling van de vereveningsbijdrage zijn betrokken.
 
 #### § 1.5. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -1298,19 +1288,19 @@ Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overhe
 
 ##### Artikel 3.20
 
-1. Het College zorgverzekeringen kan het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2012-12-19&g=2012-12-19), en de vereveningsbijdrage, bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2012-12-19&g=2012-12-19), ten behoeve van een zorgverzekeraar voorlopig vaststellen.
+1. Het College zorgverzekeringen kan het normatieve bedrag, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2013-01-01&g=2013-01-01), en de vereveningsbijdrage, bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2013-01-01&g=2013-01-01), ten behoeve van een zorgverzekeraar voorlopig vaststellen.
 
-2. Het College zorgverzekeringen kan bij een voorlopige vaststelling als bedoeld in het eerste lid de hogekostencompensatie, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2012-12-19&g=2012-12-19), of de nacalculatie, bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2012-12-19&g=2012-12-19), 3.16 of [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.17&z=2012-12-19&g=2012-12-19), achterwege laten.
+2. Het College zorgverzekeringen kan bij een voorlopige vaststelling als bedoeld in het eerste lid de hogekostencompensatie, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.16&z=2013-01-01&g=2013-01-01), of de nacalculatie, bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.15&z=2013-01-01&g=2013-01-01), 3.16 of [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.17&z=2013-01-01&g=2013-01-01), achterwege laten.
 
-3. [Artikel 3.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2012-12-19&g=2012-12-19), is van overeenkomstige toepassing.
+3. [Artikel 3.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3.21
 
-1. Waar het College zorgverzekeringen bij de berekening van het normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2012-12-19&g=2012-12-19) of [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2012-12-19&g=2012-12-19), ten behoeve van een zorgverzekeraar gebruik maakt van historische gegevens, kan hij, indien die gegevens niet beschikbaar zijn, uitgaan van een andere basis die een goede benadering geeft van de ontbrekende historische gegevens.
+1. Waar het College zorgverzekeringen bij de berekening van het normatieve bedrag, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.9&z=2013-01-01&g=2013-01-01) of [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.18&z=2013-01-01&g=2013-01-01), ten behoeve van een zorgverzekeraar gebruik maakt van historische gegevens, kan hij, indien die gegevens niet beschikbaar zijn, uitgaan van een andere basis die een goede benadering geeft van de ontbrekende historische gegevens.
 
 2. Indien het toepassen van historische gegevens tot onredelijke en niet-beoogde uitkomsten leidt, is het College zorgverzekeringen bevoegd om uit te gaan van een alternatieve basis.
 
-#### § 1.5. Aanvullingen op de bijdrage aan een zorgverzekeraar
+#### § 1.4. Nadere bepalingen met betrekking tot [§1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&z=2013-01-01&g=2013-01-01)
 
 ##### Artikel 3.15
 
@@ -1348,13 +1338,13 @@ Bij ministeriële regeling kan worden bepaald dat de bijdrage, bedoeld in de [ar
 
 ##### Artikel 3.22
 
-1. In aanvulling op de vereveningsbijdrage, bedoeld in de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.10&z=2012-12-19&g=2012-12-19) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2012-12-19&g=2012-12-19), verstrekt het College zorgverzekeringen een uitkering in verband met uitvoeringskosten voor verzekerden jonger dan achttien jaar.
+1. In aanvulling op de vereveningsbijdrage, bedoeld in de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.10&z=2013-01-01&g=2013-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2013-01-01&g=2013-01-01), verstrekt het College zorgverzekeringen een uitkering in verband met uitvoeringskosten voor verzekerden jonger dan achttien jaar.
 
 2. De uitkering is gelijk aan een jaarlijks bij ministeriële regeling te bepalen bedrag, vermenigvuldigd met het aantal verzekerden jonger dan achttien jaar op 1 juli van het jaar waarop de vereveningsbijdrage betrekking heeft.
 
 ##### Artikel 3.23
 
-1. In aanvulling op de vereveningsbijdrage, bedoeld in de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.10&z=2012-12-19&g=2012-12-19) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2012-12-19&g=2012-12-19), kan het College zorgverzekeringen een bijdrage verstrekken in verband met een substantieel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.
+1. In aanvulling op de vereveningsbijdrage, bedoeld in de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.10&z=2013-01-01&g=2013-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.19&z=2013-01-01&g=2013-01-01), kan het College zorgverzekeringen een bijdrage verstrekken in verband met een substantieel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.
 
 2. Ingevolge het eerste lid worden geen bijdragen verstrekt dan nadat bij ministeriële regeling is vastgesteld dat sprake is van een ramp die niet opgevangen kan worden binnen de reguliere wijze van vaststelling van de vereveningsbijdrage aan zorgverzekeraars.
 
@@ -1752,7 +1742,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a.4
 
-Indien het CAK op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt het budget, bedoeld in [artikel 3a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3a&artikel=3a.2&z=2012-12-19&g=2012-12-19), voor het desbetreffende kalenderjaar door het College zorgverzekeringen verlaagd met het door de zorgautoriteit aangegeven bedrag van die besparing.
+Indien het CAK op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt het budget, bedoeld in [artikel 3a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3a&artikel=3a.2&z=2013-01-01&g=2013-01-01), voor het desbetreffende kalenderjaar door het College zorgverzekeringen verlaagd met het door de zorgautoriteit aangegeven bedrag van die besparing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -1874,7 +1864,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.5b
 
-Vervallen
+1. Zorg bij stoppen-met-rokenprogramma omvat geneeskundige en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken.
+
+2. De zorg, bedoeld in het eerste lid, omvat het één keer per kalenderjaar volgen van een programma.
 
 ### Hoofdstuk 3. Zorgverzekeraars
 
@@ -2002,7 +1994,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3b. Aanwijzing van vormen van zorg die niet medisch noodzakelijk zijn voor bepaalde groepen vreemdelingen
 
-### Hoofdstuk 3b. Aanwijzing van vormen van zorg die niet medisch noodzakelijk zijn voor bepaalde groepen vreemdelingen
+### Hoofdstuk 3a. De compensatie voor het verplicht eigen risico
 
 ## Bijlage 1. van het Besluit zorgverzekering
 
@@ -2234,7 +2226,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.5c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Geriatrische revalidatie omvat integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid, complexe multimorbiditeit en afgenomen leer- en trainbaarheid, gericht op het dusdanig verminderen van de functionele beperkingen van de verzekerde dat terugkeer naar de thuissituatie mogelijk is.
+
+2. De geriatrische revalidatie valt slechts onder de zorg, bedoeld in het eerste lid, indien:
+
+- a. de zorg aansluit op verblijf als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2013-01-01&g=2013-01-01) in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9) gepaard gaande met behandeling als bedoeld in [artikel 8 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=8) in dezelfde instelling, en
+
+- b. de zorg bij aanvang gepaard gaat met verblijf als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2013-01-01&g=2013-01-01).
+
+3. De duur van de geriatrische revalidatie, bedoeld in het tweede lid, bedraagt maximaal zes maanden. In bijzondere gevallen kan de zorgverzekeraar een langere periode toestaan.
 
 #### § 2. Het eigen risico
 
@@ -2323,6 +2323,158 @@ Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.
 - d. of een van de volgende aandoeningen:
 
 - 1°. chronic obstructive pulmonary disease indien sprake is van een FEV1/VC kleiner dan 60%;
+
+- 2°. aangeboren afwijking van de tractus respiratorius;
+
+- 3°. lymfoedeem;
+
+- 4°. littekenweefsel van de huid al dan niet na een trauma;
+
+- 5°. status na opname in een ziekenhuis, een verpleeginrichting of een instelling voor revalidatie dan wel na dagbehandeling in een instelling voor revalidatie en de hulp dient ter bespoediging van het herstel na ontslag naar huis of de beëindiging van de dagbehandeling;
+
+- 6°. claudicatio intermittens (vasculair) graad 2 of 3 Fontaine;
+
+- 7°. weke delen tumoren;
+
+- 8°. diffuse interstitiële longaandoening indien sprake is van ventilatoire beperking of diffusiestoornis.
+
+- 2. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel a, subonderdeel 10, of onderdeel b, subonderdeel 17, is de duur van behandeling maximaal drie maanden.
+
+- 3. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel b, subonderdeel 18, is de duur van behandeling maximaal zes maanden na conservatieve behandeling.
+
+- 4. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel b, subonderdeel 7, of onderdeel d, subonderdeel 6, is de duur van behandeling maximaal twaalf maanden.
+
+- 5. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel d, subonderdeel 5, is de duur van de behandeling maximaal twaalf maanden in aansluiting op ontslag naar huis of beëindiging van de behandeling in de instelling, bedoeld in het eerste lid, onderdeel d, subonderdeel 5.
+
+- 6. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel b, subonderdeel 16, is de duur van de behandeling maximaal drie maanden. Indien hierna nog sprake is van de trias bewegingsverlies, conditieverlies en cognitieve stoornissen, kan deze periode verlengd worden met maximaal zes maanden.
+
+- 7. Indien het een aandoening betreft als bedoeld in het eerste lid, onderdeel d, subonderdeel 7, is de duur van behandeling maximaal twee jaren na bestraling.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.16b
+
+1. De verzekerde betaalt een eigen bijdrage voor een geneesmiddel als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2013-01-01&g=2013-01-01), dat is ingedeeld in een groep van onderling vervangbare geneesmiddelen, indien de inkoopprijs hoger is dan de vergoedingslimiet. Een eigen bijdrage wordt ook betaald voor zover een geneesmiddel is bereid uit een geneesmiddel waarvoor een eigen bijdrage is verschuldigd.
+
+2. Bij ministeriële regeling wordt geregeld hoe de eigen bijdrage wordt berekend.
+
+##### Artikel 2.16c
+
+De verzekerde betaalt voor een bij ministeriële regeling aan te wijzen hulpmiddel als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2013-01-01&g=2013-01-01), een eigen bijdrage ter grootte van:
+
+- a. een daarbij vermeld bedrag wegens besparing van kosten,
+
+- b. het verschil tussen de aanschaffingskosten en het bij dat hulpmiddel vermelde bedrag, dat kan verschillen naar gelang de groep van verzekerden, waartoe de verzekerde behoort, of
+
+- c. een bij die regeling te bepalen percentage van de kosten van het hulpmiddel.
+
+##### Artikel 2.16d
+
+1. De verzekerde betaalt voor verzorging als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.12&z=2013-01-01&g=2013-01-01), een eigen bijdrage per uur, indien het betreft verzorging ten huize van de verzekerde.
+
+2. De verzekerde en haar kind betalen ieder voor verzorging als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.12&z=2013-01-01&g=2013-01-01), die verleend wordt in een instelling zonder dat verblijf in de instelling medisch noodzakelijk is, een eigen bijdrage per dag, vermeerderd met een bij ministeriële regeling te bepalen bedrag waarmee het tarief van de instelling per dag te boven gaat.
+
+##### Artikel 2.16e
+
+1. De verzekerde is voor ziekenvervoer, anders dan per motorvoertuig als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1), een eigen bijdrage per kalenderjaar verschuldigd.
+
+2. Bij ministeriële regeling kan worden bepaald in welke situaties de eigen bijdrage niet van toepassing is.
+
+##### Artikel 2.16f
+
+Bij ministeriële regeling wordt de hoogte van de eigen bijdragen, bedoeld in de [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1a&artikel=2.16&z=2013-01-01&g=2013-01-01), [2.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1a&artikel=2.16a&z=2013-01-01&g=2013-01-01) en [2.16c tot en met 2.16e](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1a&artikel=2.16c&z=2013-01-01&g=2013-01-01), vastgesteld.
+
+#### § 2. Het eigen risico
+
+### Hoofdstuk 3. Zorgverzekeraars
+
+#### § 1. De vereveningsbijdrage
+
+#### § 1.2. De verdeling van de macro-deelbedragen en de berekening van het normatieve bedrag ten behoeve van de toekenning van de verevenings-bijdrage (ex ante) aan een zorgverzekeraar
+
+#### § 1.3. De herberekening van het normatieve bedrag ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) aan een zorgverzekeraar
+
+#### § 1.5. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
+
+### Hoofdstuk 3b. Aanwijzing van vormen van zorg die niet medisch noodzakelijk zijn voor bepaalde groepen vreemdelingen
+
+### Hoofdstuk 4. Slotbepalingen
+
+## Bijlage 1. van het Besluit zorgverzekering
+
+Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2013-01-01&g=2013-01-01).
+
+- 1. De aandoeningen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2013-01-01&g=2013-01-01), betreffen:
+
+- a. een van de volgende aandoeningen van het zenuwstelsel:
+
+- 1°. cerebrovasculair accident;
+
+- 2°. ruggemergaandoening;
+
+- 3°. multipele sclerose;
+
+- 4°. perifere zenuwaandoening indien sprake is van motorische uitval;
+
+- 5°. extrapyramidale aandoening;
+
+- 6°. motorische retardatie of een ontwikkelingsstoornis van het zenuwstelsel en hij jonger is dan 17 jaar;
+
+- 7°. aangeboren afwijking van het centraal zenuwstelsel;
+
+- 8°. cerebellaire aandoening;
+
+- 9°. uitvalsverschijnselen als gevolg van een tumor in de hersenen of het ruggenmerg dan wel als gevolg van hersenletsel;
+
+- 10°. radiculair syndroom met motorische uitval;
+
+- 11°. spierziekte;
+
+- 12°. myasthenia gravis;
+
+- b. of een van de volgende aandoeningen van het bewegingsapparaat:
+
+- 1°. aangeboren afwijking;
+
+- 2°. progressieve scoliose;
+
+- 3°. juveniele osteochondrose en hij jonger is dan 22 jaar;
+
+- 4°. reflexdystrofie;
+
+- 5°. vervallen;
+
+- 6°. fractuur als gevolg van morbus Kahler, botmetastase of morbus Paget;
+
+- 7°. frozen shoulder (capsulitis adhaesiva);
+
+- 8°. vervallen;
+
+- 9°. vervallen;
+
+- 10°. vervallen;
+
+- 11°. vervallen;
+
+- 12°. vervallen;
+
+- 13°. hyperostotische spondylose (morbus Forestier);
+
+- 14°. collageenziekten;
+
+- 15°. status na amputatie;
+
+- 16°. whiplash;
+
+- 17°. postpartum bekkeninstabiliteit;
+
+- 18°. fracturen indien deze conservatief worden behandeld;
+
+- c. vervallen;
+
+- d. of een van de volgende aandoeningen:
+
+- 1°. Chronic obstructive pulmonary disease indien sprake is van stadium II of hoger van de GOLD Classificatie voor COPD;
 
 - 2°. aangeboren afwijking van de tractus respiratorius;
 
