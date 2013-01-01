@@ -4,7 +4,7 @@ identifier: "BWBR0012761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2002-02-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012761"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 Met het toezicht op de naleving van het bij of krachtens de Zeevaartbemanningswet bepaalde zijn belast:
 
-- a. de ambtenaren van het district Rivierpolitie van het regionale politiekorps Rotterdam-Rijnmond die zijn aangesteld voor de uitvoering van de politietaak;
+- a. de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de dienst Zeehavenpolitie van de regionale eenheid Rotterdam;
 
-- b. de ambtenaren van de dienst Waterpolitie van de divisie Mobiliteit van het Korps landelijke politiediensten die zijn aangesteld voor de uitvoering van de politietaak;
+- b. de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de dienst Waterpolitie van de Landelijke eenheid;
 
-- c. de ambtenaren van de Koninklijke Marechaussee die belast zijn met de grensbewaking;
+- c. de ambtenaren van de Koninklijke marechaussee die belast zijn met de grensbewaking;
 
 - d. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
 
