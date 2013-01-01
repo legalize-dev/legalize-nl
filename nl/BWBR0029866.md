@@ -4,7 +4,7 @@ identifier: "BWBR0029866"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2018-01-01"
-last_updated: "2012-06-06"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029866"
 soort: "beleidsregel"
@@ -50,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. **beroepsopleiding:** opleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, c, d, of e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
 
-- c. **erkenning van een beroepskwalificatie:** het aanwijzen van een beroepsopleiding waardoor de aanvrager, indien hij in het bezit is van een getuigschrift van die beroepsopleiding, voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis;
+- c. **erkenning van een beroepskwalificatie:** het aanwijzen van een beroepsopleiding waardoor de aanvrager, indien hij in het bezit is van een getuigschrift van die beroepsopleiding, voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis;
 
 - d. **gastouder:** gastouder, bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
 
@@ -64,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. Reikwijdte
 
-Deze beleidsregel heeft betrekking op de wijze waarop de Minister, dan wel een namens de Minister gemandateerde functionaris, gebruik maakt van zijn bevoegdheid om, op aanvraag, te besluiten om een beroepsopleiding, die vergelijkbaar is met een opleiding genoemd in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a) en [10b, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b) aan te wijzen als opleiding waarmee de aanvrager, indien de aanvrager in het bezit is van een getuigschrift van deze opleiding, voldoet aan de in [artikel 2, onder a, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
+Deze beleidsregel heeft betrekking op de wijze waarop de Minister, dan wel een namens de Minister gemandateerde functionaris, gebruik maakt van zijn bevoegdheid om, op aanvraag, te besluiten om een beroepsopleiding, die vergelijkbaar is met een opleiding genoemd in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a) en [10b, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b) aan te wijzen als opleiding waarmee de aanvrager, indien de aanvrager in het bezit is van een getuigschrift van deze opleiding, voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
 ### Hoofdstuk 2. Beoordeling diploma’s beroepsopleidingen
 
@@ -106,7 +106,7 @@ Indien de Minister of een namens de Minister gemandateerde functionaris constate
 
 ##### Artikel 7. Beslissing op de aanvraag
 
-De Minister, of een namens de Minister gemandateerde functionaris beslist op de ingediende aanvraag en stuurt het besluit tot aanwijzing als identiek of vergelijkbaar diploma zo spoedig mogelijk na het voltooien van het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=4&z=2011-04-15&g=2012-06-06) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=5&z=2011-04-15&g=2012-06-06) toe aan de aanvrager.
+De Minister, of een namens de Minister gemandateerde functionaris beslist op de ingediende aanvraag en stuurt het besluit tot aanwijzing als identiek of vergelijkbaar diploma zo spoedig mogelijk na het voltooien van het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=4&z=2013-01-01&g=2013-01-01) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029866&hoofdstuk=2&artikel=5&z=2013-01-01&g=2013-01-01) toe aan de aanvrager.
 
 ### Hoofdstuk 3. Slotbepalingen
 
