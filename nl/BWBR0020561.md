@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,39 +54,26 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2012 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van de jaren 2013 en 2014 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-- a. de gemeente Amsterdam: € 2.487.592,– twee behandeleenheden, 145 behandelplaatsen;
-
-- b. de gemeente Den Haag: € 1.493.607,– één behandeleenheid, 75 behandelplaatsen;
-
-- c. de gemeente Groningen: € 1.107.796,– één behandeleenheid, 50 behandelplaatsen;
-
-- d. de gemeente Heerlen: € 758.902,– één behandeleenheid, 35 behandelplaatsen;
-
-- e. de gemeente Rotterdam: € 2.406.680,– twee behandeleenheden, 140 behandelplaatsen;
-
-- f. de gemeente Utrecht: € 959.181,– één behandeleenheid, 45 behandelplaatsen;
-
-- g. de gemeente Apeldoorn: € 558.511,– één behandeleenheid, 30 behandelplaatsen;
-
-- h. de gemeente Arnhem: € 462.949,– één behandeleenheid, 25 behandelplaatsen;
-
-- i. de gemeente ’s-Hertogenbosch: € 380.199,– één behandeleenheid, 20 behandelplaatsen;
-
-- j. de gemeente Deventer: € 467.561,– één behandeleenheid, 25 behandelplaatsen;
-
-- k. de gemeente Enschede: € 558.511,– één behandeleenheid, 30 behandelplaatsen;
-
-- l. de gemeente Eindhoven: € 471.148,– één behandeleenheid, 25 behandelplaatsen;
-
-- m. de gemeente Leeuwarden: € 475.247,– één behandeleenheid, 25 behandelplaatsen;
-
-- n. de gemeente Maastricht: € 462.949,– één behandeleenheid, 25 behandelplaatsen;
-
-- o. de gemeente Tilburg: € 380.199,– één behandeleenheid, 20 behandelplaatsen;
-
-- p. de gemeente Nijmegen: € 461.196,– één behandeleenheid, 25 behandelplaatsen.
+| Naam gemeente | aantal behandel-eenheden | maximum aantal behandel-plaatsen | maximale uitkering 2013 | maximale uitkering 2014 |
+| --- | --- | --- | --- | --- |
+| Amsterdam | 2 | 145 | € 2.470.000 | € 2.310.000 |
+| Apeldoorn | 1 | 30 | € 600.000 | € 670.000 |
+| Arnhem | 1 | 25 | € 510.000 | € 590.000 |
+| Den Haag | 1 | 75 | € 1.420.000 | € 1.180.000 |
+| Deventer | 1 | 25 | € 510.000 | € 590.000 |
+| Eindhoven | 1 | 25 | € 520.000 | € 590.000 |
+| Enschede | 1 | 30 | € 600.000 | € 670.000 |
+| Groningen | 1 | 50 | € 1.060.000 | € 930.000 |
+| Heerlen | 1 | 35 | € 765.000 | € 740.000 |
+| 's-Hertogenbosch | 1 | 20 | € 425.000 | € 500.000 |
+| Leeuwarden | 1 | 25 | € 520.000 | € 590.000 |
+| Maastricht | 1 | 25 | € 510.000 | € 590.000 |
+| Nijmegen | 1 | 25 | € 515.000 | € 590.000 |
+| Rotterdam | 2 | 140 | € 2.400.000 | € 2.260.000 |
+| Tilburg | 1 | 20 | € 425.000 | € 500.000 |
+| Utrecht | 1 | 45 | € 940.000 | € 870.000 |
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -164,7 +151,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2012-01-01&g=2012-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2013-01-01&g=2013-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
