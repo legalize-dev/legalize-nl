@@ -4,7 +4,7 @@ identifier: "BWBR0006463"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2008-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006463"
 soort: "wet"
@@ -49,13 +49,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01);
+- **bestuur:** bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01);
 
-- b. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01);
 
-- c. bestuur: het bestuur, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-07-01&g=2008-07-01);
+- **kamer:** rechtszekerheidskamer of geoinformatiekamer als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01);
 
-- d. raad van toezicht: de raad van toezicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-07-01&g=2008-07-01).
+- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+
+- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2
 
@@ -79,37 +81,27 @@ De Dienst heeft een bestuur en een raad van toezicht.
 
 ##### Artikel 4
 
-1. Onze Minister benoemt de leden van het bestuur.
-
-2. De raad van toezicht doet Onze Minister voor iedere te vervullen plaats in het bestuur een voordracht van ten minste twee personen. Onze Minister wijkt niet van de voordracht af dan na overleg met de raad van toezicht.
-
-3. In geval van ontstentenis of belet van een lid van het bestuur, kan de raad van toezicht voorzien in de waarneming van diens functie.
+Vervallen
 
 ##### Artikel 5
 
-De bezoldiging van de leden van het bestuur wordt vastgesteld door de raad van toezicht en behoeft de goedkeuring van Onze Minister.
+Vervallen
 
 ##### Artikel 6
 
-1. Iedere bestuurder kan te allen tijde worden geschorst door de raad van toezicht of door Onze Minister. Een schorsing door de raad van toezicht kan te allen tijde door Onze Minister worden opgeheven.
-
-2. Iedere bestuurder kan te allen tijde worden ontslagen door Onze Minister, de raad van toezicht gehoord.
+Vervallen
 
 ##### Artikel 7
 
-1. Behoudens beperkingen, voortvloeiend uit het bij of krachtens deze wet bepaalde, is het bestuur belast met het besturen van de Dienst.
-
-2. Het bestuur is voorts belast met het vaststellen van de regels en het nemen van de beslissingen waartoe het krachtens de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) of enige andere wet verplicht of bevoegd is.
+Het bestuur is belast met het besturen van de Dienst.
 
 ##### Artikel 8
 
-1. Behoudens het bepaalde in het tweede lid, vertegenwoordigt het bestuur de Dienst in en buiten rechte. De bevoegdheid tot vertegenwoordiging komt mede toe aan ieder der bestuurders.
-
-2. In alle gevallen waarin de Dienst een tegenstrijdig belang heeft met een of meer bestuurders, wordt de Dienst vertegenwoordigd door de raad van toezicht of door een door die raad daartoe aangewezen lid van die raad.
+Het bestuur vertegenwoordigt de Dienst in en buiten rechte. De bevoegdheid tot vertegenwoordiging komt mede toe aan ieder bestuurslid.
 
 ##### Artikel 9
 
-Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling van de hem opgedragen taak. Indien het een aangelegenheid betreft die tot de werkkring van twee of meer bestuurders behoort, is ieder van hen voor het geheel aansprakelijk ter zake van een tekortkoming, tenzij deze niet aan hem is te wijten en hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen daarvan af te wenden.
+Het bestuur stelt een bestuursreglement vast.
 
 #### § 3. De raad van toezicht
 
@@ -117,21 +109,21 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 1. De raad van toezicht bestaat uit ten minste drie en ten hoogste vijf leden.
 
-2. Een persoon, in dienst van de Dienst, kan niet tevens lid zijn van de raad van toezicht.
+2. De leden van de raad van toezicht hebben op persoonlijke titel zitting in de raad en oefenen hun functie uit zonder last of ruggespraak.
 
 ##### Artikel 11
 
 1. Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden van de raad van toezicht.
 
-2. De raad van toezicht doet Onze Minister voor iedere te vervullen plaats in de raad een voordracht van één persoon. De voordracht is met redenen omkleed. Onze Minister wijkt niet van de voordracht af, dan na overleg met de raad.
+2. Onze Minister stelt de raad van toezicht in de gelegenheid voor iedere te vervullen plaats in de raad een voordracht te doen van één persoon. Onze Minister wijkt niet af van de voordracht dan na overleg met de raad.
 
-3. Het medezeggenschapsorgaan, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=2&artikel=18&z=2008-07-01&g=2008-07-01), en het bestuur kunnen aan de raad van toezicht personen voor plaatsing op de voordracht aanbevelen. De raad van toezicht deelt hun daartoe tijdig mee wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
+3. De ondernemingsraad en het bestuur kunnen aan de raad van toezicht personen voor plaatsing op de voordracht aanbevelen. De raad van toezicht deelt hun daartoe tijdig mee wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
 
-4. De raad van toezicht geeft aan het medezeggenschapsorgaan kennis van een voorgenomen voordracht. Binnen acht weken na verzending van deze kennisgeving kan het medezeggenschapsorgaan bedenkingen uiten tegen benoeming van de voor te dragen persoon op grond van de verwachting dat die persoon ongeschikt zal zijn voor de vervulling van de taak van lid van de raad van toezicht, of dat de raad bij benoeming van die persoon niet naar behoren zal zijn samengesteld.
+4. De raad van toezicht geeft aan de ondernemingsraad kennis van een voorgenomen voordracht. Binnen vier weken na verzending van deze kennisgeving kan de ondernemingsraad bedenkingen uiten tegen benoeming van de voor te dragen persoon op grond van de verwachting dat die persoon ongeschikt zal zijn voor de vervulling van de taak van lid van de raad van toezicht, of dat de raad bij benoeming van die persoon niet naar behoren zal zijn samengesteld.
 
-5. Indien het medezeggenschapsorgaan binnen de in het vierde lid genoemde termijn geen bedenkingen uit, draagt de raad van toezicht de betrokken persoon voor. De raad draagt een persoon, tegen de benoeming waarvan het medezeggenschapsorgaan bedenkingen heeft geuit, niet voor dan nadat hij daarover overleg heeft gevoerd met het medezeggenschapsorgaan. Bij een zodanige voordracht stelt de raad Onze Minister op de hoogte van de bedenkingen en doet hij Onze Minister verslag van het overleg met het medezeggenschapsorgaan.
+5. Indien de ondernemingsraad binnen de in het vijfde lid genoemde termijn geen bedenkingen uit, draagt de raad van toezicht de betrokken persoon voor. De raad draagt een persoon, tegen de benoeming waarvan de ondernemingsraad bedenkingen heeft geuit, niet voor dan nadat hij daarover overleg heeft gevoerd met de ondernemingsraad. Bij een zodanige voordracht stelt de raad Onze Minister op de hoogte van de bedenkingen en doet hij Onze Minister verslag van het overleg met de ondernemingsraad.
 
-6. De leden van de raad van toezicht worden benoemd voor een periode van ten hoogste vier jaar. Zij kunnen eenmaal worden herbenoemd.
+6. De voorzitter en de overige leden van de raad van toezicht worden benoemd voor een tijdvak van vier jaren en zijn aansluitend éénmalig voor een tijdvak van vier jaren herbenoembaar.
 
 7. Zolang niet is voorzien in een vacature in de raad van toezicht, vormen de overblijvende leden de raad van toezicht. Indien alle leden ontbreken, benoemt Onze Minister onverwijld een of meer personen die tijdelijk de taken van de raad van toezicht vervullen.
 
@@ -141,41 +133,25 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 2. Bij de vervulling van zijn taak richt de raad zich naar het belang van de Dienst, daaronder begrepen het belang van de behoorlijke vervulling van de bij of krachtens de wet aan de Dienst opgedragen taken.
 
-3. Ten aanzien van de taakvervulling door de raad van toezicht is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
-
-4. Het bestuur verstrekt de raad van toezicht tijdig de voor de uitoefening van diens taak noodzakelijke gegevens. Het ziet erop toe dat aan de leden van de raad desgevraagd toegang wordt verleend tot de lokaliteiten van de Dienst en inzage wordt verleend van boeken en bescheiden van de Dienst.
+3. Het bestuur verstrekt de raad van toezicht tijdig de voor de uitoefening van diens taak noodzakelijke gegevens. Het ziet erop toe dat aan de leden van de raad desgevraagd toegang wordt verleend tot de lokaliteiten van de Dienst en inzage wordt verleend van boeken en bescheiden van de Dienst.
 
 ##### Artikel 13
 
-1. Aan goedkeuring dan wel instemming van de raad van toezicht zijn onderworpen beslissingen van het bestuur met betrekking tot:
+1. Onze Minister kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) of dat het bestuur, ingeval hij een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
-- a. de reglementen, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2008-07-01&g=2008-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2008-07-01&g=2008-07-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=2&artikel=18&z=2008-07-01&g=2008-07-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=1&artikel=20&z=2008-07-01&g=2008-07-01);
+2. Het bestuur heeft in ieder geval de voorafgaande instemming nodig van de raad van toezicht met betrekking tot:
 
-- b. de begroting, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=1&artikel=21&z=2008-07-01&g=2008-07-01);
+- a. de reglementen, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2013-01-01&g=2013-01-01);
 
-- c. investeringen die een door de raad van toezicht vast te stellen bedrag te boven gaan;
+- b. belangrijke reorganisaties.
 
-- d. het aangaan of garanderen van geldleningen die een door de raad van toezicht vast te stellen bedrag te boven gaan;
-
-- e. het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01);
-
-- f. het aangaan of verbreken van duurzame samenwerking met een andere rechtspersoon, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de Dienst;
-
-- g. het oprichten of mede-oprichten van een privaatrechtelijke rechtspersoon of het deelnemen in een vennootschap;
-
-- h. belangrijke reorganisaties;
-
-- i. periodieke rapportages aan Onze Minister, als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=6&artikel=31&z=2008-07-01&g=2008-07-01).
-
-2. De raad van toezicht verleent geen goedkeuring aan beslissingen als bedoeld in het eerste lid, onder **e** en **g**, dan nadat Onze Minister heeft verklaard daartegen geen bedenkingen te hebben.
-
-3. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing ten aanzien van de instemming van de raad van toezicht.
+3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
 ##### Artikel 14
 
 1. De raad van toezicht kan geen beslissingen nemen indien niet ten minste de helft van het aantal leden ter vergadering aanwezig is.
 
-2. De raad van toezicht regelt bij reglement zijn werkwijze, waaronder in ieder geval de openbaarheid van zijn vergaderingen.
+2. De raad van toezicht regelt bij reglement zijn werkwijze, waaronder in ieder geval de openbaarheid van zijn vergaderingen. Het reglement behoeft de goedkeuring van Onze Minister.
 
 ##### Artikel 15
 
@@ -183,7 +159,7 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 2. De leden van de raad hebben aanspraak op vergoeding door de Dienst van de door hen in de uitoefening van hun functie gemaakte reis- en verblijfkosten.
 
-3. De raad van toezicht heeft een eigen secretariaat.
+3. Het bestuur stelt aan de raad van toezicht een secretaris ter beschikking. De secretaris is wat betreft de werkzaamheden ten behoeve van de raad van toezicht uitsluitend verantwoording verschuldigd aan de voorzitter van de raad.
 
 ### Hoofdstuk 3. Overleg met gebruikers
 
@@ -191,9 +167,9 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 1. Er is een gebruikersraad.
 
-2. De gebruikersraad bestaat uit een kamer voor de diensten die verband houden met in elk geval de taken, bedoeld in [artikel 3, eerste lid, onderdelen a, b, d, e, i, j, k en l, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3), en een kamer voor de diensten die verband houden met in elk geval de taken, bedoeld in [artikel 3, eerste lid, onderdelen c, f, h, j, k en l, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3).
+2. Het bestuur kan bij reglement bepalen dat de gebruikersraad bestaat uit een rechtszekerheidskamer voor de taken van de Dienst op het gebied van rechtszekerheid en een geoinformatiekamer voor de taken van de Dienst op het gebied van geoinformatie.
 
-3. Bij het reglement, bedoeld in het zesde lid, kan het bestuur de werkzaamheden van een kamer uitbreiden tot diensten die verband houden met een taak die aan de Dienst is opgedragen krachtens [artikel 3, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3) of bij of krachtens een andere wet.
+3. Ingeval bij wettelijk voorschrift aan de Dienst een andere taak wordt opgedragen, dan bedoeld in het tweede lid, kan het bestuur bij reglement de werkzaamheden van een kamer uitbreiden met die andere taak.
 
 4. Tot de personen die zitting hebben in de gebruikersraad behoren in elk geval een vertegenwoordiger van:
 
@@ -201,7 +177,7 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 - b. tussenpersonen in onroerende zaken;
 
-- c. iedere minister die gebruik maakt van geografische gegevens;
+- c. Onze Ministers van Infrastructuur en Milieu en van Defensie;
 
 - d. provincies;
 
@@ -209,19 +185,21 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 - f. waterschappen;
 
-- g. grondroerders als bedoeld in [artikel 1, onderdeel g, van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=1) en
+- g. grondroerders als bedoeld in [artikel 1, onderdeel g, van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=1);
 
-- h. beheerders als bedoeld in [artikel 1, onderdeel h, van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=1).
+- h. beheerders als bedoeld in [artikel 1, onderdeel h, van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=1), en
 
-5. De gebruikersraad heeft een secretariaat.
+- i. eigenaren van registergoederen.
+
+5. Het bestuur stelt aan de gebruikersraad een secretaris ter beschikking. De secretaris is wat betreft de werkzaamheden ten behoeve van de gebruikersraad uitsluitend verantwoording verschuldigd aan de voorzitter van de gebruikersraad.
 
 6. Het bestuur regelt nader bij reglement:
 
 - a. de samenstelling van de gebruikersraad;
 
-- b. de wijze waarop de organisaties van gebruikers van door de Dienst geleverde diensten gerechtigd zijn een vertegenwoordiger en een plaatsvervangend vertegenwoordiger in een of beide kamers van de gebruikersraad aan te wijzen en
+- b. de wijze waarop de organisaties van gebruikers van door de Dienst geleverde diensten gerechtigd zijn een vertegenwoordiger en een plaatsvervangend vertegenwoordiger aan te wijzen in de gebruikersraad of, indien het bestuur gebruik maakt van de mogelijkheid, bedoeld in het tweede lid, in één of beide kamers, en
 
-- c. de gevallen waarin en de voorwaarden waaronder een kamer van de gebruikersraad voor een of meer taken een commissie kan instellen.
+- c. de gevallen waarin en de voorwaarden waaronder de gebruikersraad of, indien het bestuur gebruik maakt van de mogelijkheid, bedoeld in het tweede lid, een kamer een commissie kan instellen.
 
 ### Hoofdstuk 4. Organisatie en personeel
 
@@ -229,45 +207,15 @@ Elke bestuurder is tegenover de Dienst gehouden tot een behoorlijke vervulling v
 
 ##### Artikel 17
 
-Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de organisatie van de Dienst, met inachtneming van het bepaalde krachtens [artikel 4 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4).
+Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de organisatie van de Dienst.
 
-#### § 2. Het personeel
+#### § 1. De organisatie
 
 ##### Artikel 18
 
 1. Het personeel van de Dienst, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947), behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.
 
-2. Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, stelt het bestuur voor de ambtenaren, door of vanwege de Dienst aangesteld, bij reglement voorschriften vast betreffende:
-
-- a. aanstelling, schorsing en ontslag;
-
-- b. het onderzoek naar de geschiktheid en de bekwaamheid;
-
-- c. bezoldiging en wachtgeld;
-
-- d. diensttijden;
-
-- e. verlof en vakantie;
-
-- f. voorzieningen in verband met ziekte;
-
-- g. bescherming bij de arbeid;
-
-- h. woon- verblijfs- en bereikbaarheidsverplichtingen;
-
-- i. medezeggenschap;
-
-- j. overige rechten en verplichtingen;
-
-- k. disciplinaire straffen;
-
-- l. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gevoerd over aangelegenheden van algemeen belang voor de rechtstoestand van het personeel;
-
-- m. de behandeling van geschillen inzake de onderwerpen, genoemd in de onderdelen **i** en **l**.
-
-3. De voorschriften, bedoeld in het tweede lid, onder **i**, voorzien in elk geval in de instelling van een medezeggenschapsorgaan dat de bevoegdheden uitoefent, daaraan in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=3&artikel=11&z=2008-07-01&g=2008-07-01) toegekend.
-
-4. [Artikel 126, eerste tot en met derde lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=126) is van overeenkomstige toepassing, met dien verstande, dat voor Gedeputeerde Staten wordt gelezen: de raad van toezicht.
+2. Het bestuur stelt voor de door de Dienst aangestelde ambtenaren voorschriften vast betreffende de onderwerpen, genoemd in de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [125quinquies van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125quinquies), voor zover die onderwerpen niet reeds bij of krachtens de wet zijn geregeld.
 
 ### Hoofdstuk 5. Financieel beheer en verslaglegging
 
@@ -275,107 +223,63 @@ Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de org
 
 ##### Artikel 19
 
-De baten van de Dienst bestaan uit:
+1. Het bestuur stelt de begroting vast als onderdeel van het door hem vast te stellen meerjarenbeleidsplan.
 
-- a. de opbrengsten uit het kadastraal recht, bedoeld in [artikel 108 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=108);
+2. Het besluit tot vaststelling van het meerjarenbeleidsplan behoeft de voorafgaande instemming van de raad van toezicht.
 
-- b. de opbrengsten uit vergoedingen voor andere bij of krachtens de wet aan de Dienst opgedragen taken;
-
-- c. de opbrengsten uit andere werkzaamheden, uit deelnemingen en uit samenwerkingen met derden;
-
-- d. andere baten, hoe ook genoemd.
+3. Het meerjarenbeleidsplan geeft een overzicht van de door de Dienst te verrichten werkzaamheden en een zo getrouw mogelijke doorkijk van het geschetste beeld in de begroting over de volgende vier jaren na het begrotingsjaar.
 
 ##### Artikel 20
 
-1. Het bestuur houdt zodanige aantekeningen omtrent de vermogenstoestand van de Dienst, dat daaruit te allen tijde zijn rechten en verplichtingen kunnen worden gekend.
-
-2. Het bestuur stelt bij reglement de werkwijze vast voor het financiële beheer en de administratieve organisatie van de Dienst.
-
-3. Het boekjaar van de Dienst is het kalenderjaar.
+[Artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) is van toepassing op het meerjarenbeleidsplan.
 
 ##### Artikel 21
 
-Het bestuur stelt tijdig voor afloop van een boekjaar een financiële begroting vast voor het volgende boekjaar. De begroting is in overeenstemming met het meerjarenbeleidsplan, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=1&artikel=22&z=2008-07-01&g=2008-07-01).
+Het bestuur stelt de jaarrekening vast nadat de raad van toezicht daarmee heeft ingestemd.
 
 ##### Artikel 22
 
-1. Tegelijk met de opstelling van de begroting stelt het bestuur een meerjarenbeleidsplan op. Het meerjarenbeleidsplan wordt vastgesteld door de raad van toezicht.
-
-2. Het meerjarenbeleidsplan geeft voor de eerstvolgende vijf boekjaren in elk geval:
-
-- a. een overzicht van de door de Dienst te verrichten werkzaamheden ter uitvoering van de aan de Dienst bij of krachtens de wet opgedragen taken en een raming van de daarmee gemoeide kosten en opbrengsten;
-
-- b. een overzicht van de voorgenomen andere werkzaamheden van de Dienst, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), en een raming van de daarmee gemoeide kosten en opbrengsten.
+Vervallen
 
 ##### Artikel 23
 
-1. De raad van toezicht zendt de begroting waarmee hij heeft ingestemd en het door hem vastgestelde meerjarenbeleidsplan voor 1 oktober van het daaraan voorafgaande boekjaar toe aan Onze Minister.
-
-2. Bij de toezending van de in het eerste lid genoemde stukken kan de raad van toezicht aan Onze Minister een beredeneerd voorstel doen tot wijziging van het kadastraal recht, bedoeld in [artikel 108 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=108). Daarbij voegt de raad een verslag van het overleg dat ter zake is gevoerd met de gebruikersraad, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2008-07-01&g=2008-07-01).
+Vervallen
 
 ##### Artikel 24
 
-1. Het meerjarenbeleidsplan behoeft de instemming van Onze Minister. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing, met dien verstande dat Onze Minister aan de instemming voorwaarden kan verbinden.
-
-2. Indien Onze Minister het voornemen heeft aan het meerjarenbeleidsplan geheel of gedeeltelijk instemming te onthouden, dan wel voorwaarden aan de instemming te verbinden, wordt de raad van toezicht daarvan in kennis gesteld en gedurende ten hoogste vier weken in de gelegenheid gesteld wijzigingen in het meerjarenbeleidsplan aan te brengen.
+Vervallen
 
 #### § 2. De jaarrekening en het jaarverslag
 
 ##### Artikel 25
 
-1. Jaarlijks stelt het bestuur een jaarrekening op. De jaarrekening omvat een balans en een winst- en verliesrekening met een toelichting. De [artikelen 362 tot en met 390](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) en [405 tot en met 414 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=405) zijn van overeenkomstige toepassing, met uitzondering van de daarin opgenomen bepalingen die betrekking hebben op het in aandelen verdeeld zijn van het kapitaal van een vennootschap.
-
-2. Jaarlijks stelt het bestuur een jaarverslag vast. Het jaarverslag wordt vastgesteld met overeenkomstige toepassing van [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391). Het bestuur van de Dienst doet in het jaarverslag in beknopte vorm mededeling van de opzet en de uitkomsten van de controle van de toereikendheid van de genomen en ten uitvoer gelegde beveiligingsmaatregelen, bedoeld in [artikel 3d, vierde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3d).
+Vervallen
 
 ##### Artikel 26
 
-1. Onze Minister verleent opdracht tot onderzoek van de jaarrekening aan een openbaar accountant, die hetzij registeraccountant is, hetzij Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36). De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken. De opdracht kan te allen tijde worden ingetrokken.
-
-2. [Artikel 393, derde tot en met zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) zijn op het in te stellen onderzoek van overeenkomstige toepassing.
-
-3. De kosten van het onderzoek komen ten laste van de Dienst.
+Vervallen
 
 ##### Artikel 27
 
-Het bestuur legt de jaarrekening en het jaarverslag over aan de raad van toezicht, vergezeld van:
-
-- a. de verklaring van de accountant omtrent de getrouwheid van de jaarrekening;
-
-- b. een opgave van de gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de Dienst, onder mededeling van de omvang van die gevolgen.
+Vervallen
 
 ##### Artikel 28
 
-1. De jaarrekening wordt vastgesteld door de raad van toezicht. [Artikel 25, eerste lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=2&artikel=25&z=2008-07-01&g=2008-07-01), is van toepassing.
-
-2. De jaarrekening behoeft de goedkeuring van Onze Minister.
-
-3. De raad van toezicht zendt de jaarrekening en het jaarverslag binnen vier maanden na afloop van het boekjaar toe aan Onze Minister, vergezeld van de verklaring van de accountant en van de opgave, bedoeld in [artikel 27, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=2&artikel=27&z=2008-07-01&g=2008-07-01).
-
-4. De jaarrekening is ondertekend door de leden van het bestuur en door de leden van de raad van toezicht. Indien van een of meer van deze leden de ondertekening ontbreekt, wordt daarvan onder opgave van reden melding gemaakt aan Onze Minister.
-
-5. Onze Minister kan de termijn, genoemd in het derde lid, in bijzondere omstandigheden verlengen, doch ten hoogste met zes maanden.
+Vervallen
 
 ##### Artikel 29
 
-1. Binnen acht dagen nadat de raad van toezicht in kennis is gesteld van de goedkeuring van de jaarrekening maakt het bestuur de jaarrekening, het jaarverslag en de stukken, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=2&artikel=27&z=2008-07-01&g=2008-07-01), openbaar. De openbaarmaking geschiedt door terinzagelegging van de genoemde stukken ten kantore van het bestuur. Van de terinzagelegging wordt mededeling gedaan in de **Staatscourant**.
-
-2. Het bestuur ziet erop toe dat aan een ieder die daarom verzoekt, inzage wordt verleend in de in het eerste lid genoemde stukken, en een volledig of gedeeltelijk afschrift daarvan wordt verstrekt tegen ten hoogste de kostprijs van het maken van een zodanig afschrift.
+Vervallen
 
 ##### Artikel 30
 
-1. Indien door de jaarrekening, door tussentijdse cijfers die de Dienst bekend heeft gemaakt of door het jaarverslag een misleidende voorstelling wordt gegeven van de toestand van de Dienst, zijn de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder die bewijst dat dit aan hem niet te wijten is, is niet aansprakelijk.
-
-2. Indien door de jaarrekening een misleidende voorstelling wordt gegeven van de toestand van de Dienst, zijn de leden van de raad van toezicht naast de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. Het lid dat bewijst dat zulks niet aan een tekortkoming zijnerzijds in het toezicht is te wijten, is niet aansprakelijk.
+Vervallen
 
 ### Hoofdstuk 6. Inlichtingen en onderzoek
 
 ##### Artikel 31
 
-1. Het bestuur en de raad van toezicht verstrekken Onze Minister desgevraagd alle gegevens waarover hij naar zijn oordeel moet beschikken met het oog op de uitoefening van zijn bevoegdheden krachtens deze wet of krachtens andere wetten, voor zover bij of krachtens die andere wetten taken zijn opgedragen aan de Dienst. Van door het bestuur aan Onze Minister verstrekte gegevens wordt door het bestuur mededeling gedaan aan de raad van toezicht.
-
-2. Onze Minister kan bepalen dat het bestuur daarbij aangegeven gegevens als bedoeld in het eerste lid, aan hem verstrekt in de vorm van een periodieke rapportage.
-
-3. Onze Minister kan de accountant, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=2&artikel=26&z=2008-07-01&g=2008-07-01), opdracht verlenen daarbij aangegeven gegevens als bedoeld in het eerste lid, te onderzoeken. De kosten van het onderzoek komen ten laste van de Dienst. Het bestuur ziet erop toe dat aan de accountant de naar diens oordeel voor het onderzoek nodige toegang tot de lokaliteiten van de Dienst en inzage van boeken en bescheiden van de Dienst wordt verleend.
+De raad van toezicht verschaft Onze Minister alle verlangde inlichtingen, met inachtneming van het door Onze Minister vastgestelde informatiestatuut.
 
 ### Hoofdstuk 7. Geheimhouding
 
@@ -471,7 +375,7 @@ Vervallen
 
 ##### Artikel 53
 
-Tot het tijdstip waarop de reglementen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2008-07-01&g=2008-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=2&artikel=18&z=2008-07-01&g=2008-07-01) en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=5&paragraaf=1&artikel=20&z=2008-07-01&g=2008-07-01), in werking treden, blijven de voorschriften van kracht die ter zake golden, onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet.
+Vervallen
 
 ##### Artikel 54
 
@@ -483,7 +387,7 @@ Vervallen
 
 ##### Artikel 56
 
-De tekst van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) wordt in het **Staatsblad** geplaatst.
+Vervallen
 
 ##### Artikel 57
 
@@ -497,13 +401,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 16a
 
-1. Het bestuur voert overleg met elke kamer van de gebruikersraad over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
+1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
 
-2. Het bestuur kan in afwijking van het eerste lid met beide kamers van de gebruikersraad gezamenlijk overleg voeren over de onderwerpen, bedoeld in het eerste lid.
+2. De gebruikersraad of een kamer kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen de gebruikersraad of de kamer levende standpunten over een onderwerp als bedoeld in het eerste lid.
 
-3. De kamers van de gebruikersraad kunnen het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen de betrokken kamer levende standpunten over de onderwerpen, bedoeld in het eerste lid.
+3. Een commissie als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01), kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen die commissie levende standpunten over een onderwerp, waarvoor zij is ingesteld.
 
-4. Indien een kamer van de gebruikersraad voor een of meer taken een commissie heeft ingesteld, kan die commissie overeenkomstig het derde lid het bestuur in kennis stellen van de binnen die commissie levende standpunten over die taak of taken.
+4. Onder de dienstverlening, bedoeld in het eerste lid, wordt niet verstaan het beheer van een landelijke voorziening.
 
 ### Hoofdstuk 4. Organisatie en personeel
 
@@ -517,13 +421,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 2. De jaarrekening en het jaarverslag
 
-### Hoofdstuk 6. Inlichtingen, onderzoek en sturing
+### Hoofdstuk 6. Sturing en toezicht
 
 ### Hoofdstuk 7. Evaluatie
 
 ##### Artikel 32
 
-Onze Minister zendt telkens na vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de Dienst.
+Vervallen
 
 ### Hoofdstuk 8. Wijziging van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) en van de [Invoeringswet Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005107)
 
@@ -535,11 +439,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 31a
 
-1. Indien naar het oordeel van Onze Minister de Dienst een of meer van zijn taken ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.
-
-2. De in het eerste lid bedoelde voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de Dienst in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.
-
-3. Onze Minister stelt de beide Kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
+Onze Minister stelt regels over de uitoefening van het toezicht op de Dienst door Onze Minister en de raad van toezicht.
 
 ### Hoofdstuk 8. Wijziging van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) en van de [Invoeringswet Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005107)
 
@@ -548,3 +448,27 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op de Dienst, met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
+
+### Hoofdstuk 2. Het bestuur en het toezicht op het bestuur
+
+#### § 1. Algemeen
+
+#### § 2. Het bestuur
+
+#### § 3. De raad van toezicht
+
+### Hoofdstuk 3. Overleg met gebruikers
+
+### Hoofdstuk 4. Organisatie en personeel
+
+#### § 2. Het personeel
+
+##### Artikel 18a
+
+Het bestuur voert overeenkomstig [artikel 125quater van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125quater) een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en draagt zorg voor de totstandkoming van een gedragscode voor goed ambtelijk handelen.
+
+### Hoofdstuk 5. Begroting en jaarrekening
