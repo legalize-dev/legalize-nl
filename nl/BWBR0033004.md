@@ -4,7 +4,7 @@ identifier: "BWBR0033004"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-07"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033004"
 soort: "wet"
@@ -52,11 +52,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 - a. een basisbedrag van € 178 384, per kamerzetel van de politieke partij een bedrag van € 51 740 en per lid van de politieke partij een bedrag dat gelijk is aan € 1 953 202 gedeeld door het totale aantal leden van de politieke partijen die op de peildatum subsidie ontvangen;
 
-- b. indien de politieke partij op de peildatum een politiek-wetenschappelijk instituut heeft aangewezen als neveninstelling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=2&z=2014-11-29&g=2012-01-01), een basisbedrag van € 125 287 en een bedrag van € 12 877 per kamerzetel van de politieke partij;
+- b. indien de politieke partij op de peildatum een politiek-wetenschappelijk instituut heeft aangewezen als neveninstelling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=2&z=2014-11-29&g=2013-01-01), een basisbedrag van € 125 287 en een bedrag van € 12 877 per kamerzetel van de politieke partij;
 
-- c. indien de politieke partij op de peildatum een politieke jongerenorganisatie heeft aangewezen als neveninstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=3&z=2014-11-29&g=2012-01-01), een bedrag per kamerzetel van de politieke partij en een bedrag per lid van de politieke jongerenorganisatie, berekend overeenkomstig het tweede lid;
+- c. indien de politieke partij op de peildatum een politieke jongerenorganisatie heeft aangewezen als neveninstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=3&z=2014-11-29&g=2013-01-01), een bedrag per kamerzetel van de politieke partij en een bedrag per lid van de politieke jongerenorganisatie, berekend overeenkomstig het tweede lid;
 
-- d. indien de politieke partij op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen als neveninstelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=4&z=2014-11-29&g=2012-01-01), een basisbedrag en een bedrag per kamerzetel van de politieke partij, berekend overeenkomstig het derde lid.
+- d. indien de politieke partij op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen als neveninstelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=4&z=2014-11-29&g=2013-01-01), een basisbedrag en een bedrag per kamerzetel van de politieke partij, berekend overeenkomstig het derde lid.
 
 2. Het bedrag per kamerzetel, bedoeld in het eerste lid, onder c, wordt berekend door € 502 223 te delen door het totale aantal kamerzetels van de politieke partijen die op de peildatum een politieke jongerenorganisatie hebben aangewezen. Het bedrag per lid van de politieke jongerenorganisatie wordt berekend door € 502 223 te delen door het totale aantal leden van alle aangewezen politieke jongerenorganisaties.
 
