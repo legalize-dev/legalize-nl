@@ -4,7 +4,7 @@ identifier: "BWBR0025261"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2012-03-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025261"
 soort: "ministeriele-regeling"
@@ -184,8 +184,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Overgangsrecht
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025261&artikel=3&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
-
-2. Dit artikel vervalt met ingang van 1 januari 2013.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
