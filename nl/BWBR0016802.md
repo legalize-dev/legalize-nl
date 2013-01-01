@@ -4,7 +4,7 @@ identifier: "BWBR0016802"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2007-06-20"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016802"
 soort: "AMvB"
@@ -57,7 +57,7 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad, bedoeld in
 
 1. De raad wordt bijgestaan door een secretaris, die de leiding heeft over het bureau van de raad.
 
-2. Het bureau van de raad is ondergebracht bij de Politie Nederland.
+2. Het bureau van de raad is ondergebracht bij een ondersteunende dienst als bedoeld in [artikel 25, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
 
 3. De secretaris en de overige leden van het bureau zijn geen lid van de raad.
 
@@ -95,19 +95,19 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 ##### Artikel 7. Middelen, begroting, jaarrekening
 
-1. De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties ter beschikking worden gesteld.
+1. De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het Ministerie van Veiligheid en Justitie ter beschikking worden gesteld.
 
 2. De raad legt jaarlijks voor 1 oktober de begroting voor het komende kalenderjaar aan Onze Minister voor.
 
 3. De begroting behoeft de goedkeuring van Onze Minister.
 
-4. De verantwoording vindt plaats in de jaarrekening van de Politie Nederland, waarbij niet bestede middelen van het verslagjaar als openstaande rijksbijdragen zichtbaar in de jaarrekening verwerkt worden.
+4. De verantwoording vindt plaats in de jaarrekening van de politie, waarbij niet bestede middelen van het verslagjaar als openstaande rijksbijdragen zichtbaar in de jaarrekening verwerkt worden.
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 8. Archief
 
-1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2007-06-20&g=2007-06-20), op overeenkomstige wijze als bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
