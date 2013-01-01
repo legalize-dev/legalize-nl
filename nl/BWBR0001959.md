@@ -4,7 +4,7 @@ identifier: "BWBR0001959"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001959"
 soort: "wet"
@@ -68,11 +68,11 @@ Alle stukken, opgemaakt om gevolg te geven aan het verzoek om mededeeling van ee
 
 ##### Artikel 5
 
-1. Om overeenkomstig artikel 3 van het verdrag eenig stuk te doen mededeelen wordt, in afwijking van het bepaalde bij artikel 55, eerste lid, van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827), het exploit steeds gedaan aan den officier van justitie, met dien verstande, dat:
+1. Om overeenkomstig artikel 3 van het verdrag eenig stuk te doen mededeelen wordt, in afwijking van het bepaalde bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), het exploit steeds gedaan aan den officier van justitie, met dien verstande, dat:
 
-indien het exploit een rechtsgeding betreft te voeren of aanhangig voor den Hoogen Raad, het gedaan wordt aan den officier van justitie bij de rechtbank te 's-Gravenhage, voor een gerechtshof aan den officier van justitie ter plaatse waar de zetel van dit hof is;
+indien het exploit een rechtsgeding betreft te voeren of aanhangig voor den Hoogen Raad, het gedaan wordt aan de officier van justitie bij het arrondissementsparket Den Haag, voor een gerechtshof aan de advocaat-generaal bij het ressortsparket;
 
-indien het exploit niet reeds een te voeren of aanhangig rechtsgeding betreft, het gedaan wordt aan den officier van justitie bij de rechtbank, binnen welker rechtsgebied de verzoeker zijne woonplaats heeft.
+indien het exploit niet reeds een te voeren of aanhangig rechtsgeding betreft, het gedaan wordt aan de officier van justitie in het arrondissement waar de verzoeker zijn woonplaats heeft.
 
 2. Onverminderd de vereischten bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) voor het exploit gesteld, zullen daarbij in ieder geval worden vermeld de volledige namen en hoedanigheden van de partijen en de volledige namen, het adres, en de hoedanigheid van dengeen voor wien het stuk bestemd is. Tevens wordt vermeld, dat het exploit overeenkomstig artikel 3 van het verdrag moet worden medegedeeld, met opgave of eene bijzondere wijze van mededeeling wordt verlangd.
 
@@ -84,9 +84,9 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 ##### Artikel 7
 
-1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2002-01-01&g=2002-01-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
+1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2013-01-01&g=2013-01-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
 
-2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2002-01-01&g=2002-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2002-01-01&g=2002-01-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
+2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2013-01-01&g=2013-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2013-01-01&g=2013-01-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
 
 ##### Artikel 8
 
@@ -102,7 +102,7 @@ Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eisch
 
 ##### Artikel 10
 
-1. Behoudens het bepaalde bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=11&z=2002-01-01&g=2002-01-01) zendt de officier van justitie, wien eene rogatoire commissie overeenkomstig artikel 7 van het verdrag is overgemaakt, deze door aan de kantonrechter van de rechtbank, binnen welks rechtsgebied de uitvoering, geheel of gedeeltelijk, moet plaats vinden. Deze geeft aan de rogatoire commissie uitvoering, voor zoover deze binnen zijn gebied moet geschieden.
+1. Behoudens het bepaalde bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=11&z=2013-01-01&g=2013-01-01) zendt de officier van justitie, wien eene rogatoire commissie overeenkomstig artikel 7 van het verdrag is overgemaakt, deze door aan de kantonrechter van de rechtbank, binnen welks rechtsgebied de uitvoering, geheel of gedeeltelijk, moet plaats vinden. Deze geeft aan de rogatoire commissie uitvoering, voor zoover deze binnen zijn gebied moet geschieden.
 
 2. Moet de uitvoering binnen het gebied van meer rechtbanken geschieden, dan zendt de kantonrechter, door wien de rogatoire commissie, voor zooveel hem betreft, reeds is uitgevoerd, deze met de stukken onverwijld aan de kantonrechter van de rechtbank van het arrondissement waarin de uitvoering alsnog geschieden moet, met gelijktijdige mededeeling van deze doorzending aan den officier van justitie.
 
@@ -118,7 +118,7 @@ Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eisch
 
 ##### Artikel 12
 
-Oordeelt de officier van justitie, wien de rogatoire commissie is overgemaakt, of de rechter, wien zij is doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2002-01-01&g=2002-01-01) dezer wet overeenkomstige toepassing.
+Oordeelt de officier van justitie, wien de rogatoire commissie is overgemaakt, of de rechter, wien zij is doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2013-01-01&g=2013-01-01) dezer wet overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -126,7 +126,7 @@ Indien een persoon, die ter zake van eene rogatoire commissie moet worden gehoor
 
 ##### Artikel 14
 
-Zoodra de rechter de rogatoire commissie heeft afgedaan, zendt hij aan den bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=10&z=2002-01-01&g=2002-01-01) dezer wet bedoelden officier van justitie de ontvangen stukken terug, vermeerderd met de stukken, waaruit van de uitvoering blijkt, en met eene opgave van kosten als bedoeld bij letter **b** van artikel 10 van het verdrag.
+Zoodra de rechter de rogatoire commissie heeft afgedaan, zendt hij aan den bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=10&z=2013-01-01&g=2013-01-01) dezer wet bedoelden officier van justitie de ontvangen stukken terug, vermeerderd met de stukken, waaruit van de uitvoering blijkt, en met eene opgave van kosten als bedoeld bij letter **b** van artikel 10 van het verdrag.
 
 ##### Artikel 15
 
