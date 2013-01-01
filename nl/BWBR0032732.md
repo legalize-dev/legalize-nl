@@ -88,17 +88,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet vereenvoudiging regelingen UWV.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel V. Wijziging van het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.
-
-Wijzigt de Buitengewoon Besluit Arbeidsverhoudingen 1945.
-
-##### Artikel VIIIb. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.
-
-Wijzigt de Wet financiering sociale verzekeringen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
