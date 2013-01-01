@@ -4,7 +4,7 @@ identifier: "BWBR0026720"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "2009-11-28"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026720"
 soort: "ministeriele-regeling"
@@ -44,17 +44,17 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt onder gezamenlijke inzet verstaan, een inzet van de mobiele eenheid van de Koninklijke marechaussee samen met een mobiele eenheid van een politiekorps ten behoeve van taken, genoemd in [artikel 6, eerste lid, van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=6).
+In deze regeling wordt onder gezamenlijke inzet verstaan, een inzet van de mobiele eenheid van de Koninklijke marechaussee samen met een mobiele eenheid van de politie ten behoeve van taken, genoemd in [artikel 16 van de Regeling beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032673&artikel=1).
 
 ##### Artikel 2
 
 1. Voor een gezamenlijke inzet zijn vier pelotons mobiele eenheid van de Koninklijke marechaussee beschikbaar welke ook per sectie ingezet kunnen worden. De pelotons mobiele eenheid kunnen desgewenst worden ondersteund door BRATRA-groepen en aanhoudingseenheden van de Koninklijke marechaussee.
 
-2. De commandant van de Koninklijke marechaussee stelt jaarlijks het maximaal aantal gezamenlijke inzetten vast. Deze vaststelling laat onverlet dat de mobiele eenheid van de Koninklijke marechaussee, indien noodzakelijk, vaker kan worden ingezet op grond van [artikel 58 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=58).
+2. De commandant van de Koninklijke marechaussee stelt jaarlijks het maximaal aantal gezamenlijke inzetten vast. Deze vaststelling laat onverlet dat de mobiele eenheid van de Koninklijke marechaussee, indien noodzakelijk, vaker kan worden ingezet op grond van [artikel 57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57).
 
 ##### Artikel 3
 
-De coördinatie van een gezamenlijke inzet berust bij het Landelijk Operationeel Coördinatie Centrum van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+De coördinatie van een gezamenlijke inzet berust bij het Landelijk Operationeel Coördinatie Centrum van het ministerie van Veiligheid en Justitie.
 
 ##### Artikel 4
 
@@ -69,5 +69,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Samenwerkingsregeling mobiele eenheden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+Deze regeling berust op [artikel 5 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
