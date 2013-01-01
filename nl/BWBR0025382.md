@@ -4,7 +4,7 @@ identifier: "BWBR0025382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-05"
-last_updated: "2009-03-11"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025382"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Besluit:
 
 1. Uit het register van mobiele objecten worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan:
 
-- a. de politiekorpsen binnen Nederland, ten behoeve van de opsporing van gestolen, verduisterde en vermiste mobiele objecten alsmede het traceren van de eigenaar van de mobiele objecten;
+- a. de politie binnen Nederland, ten behoeve van de opsporing van gestolen, verduisterde en vermiste mobiele objecten alsmede het traceren van de eigenaar van de mobiele objecten;
 
 - b. de Stichting Aanpak Voertuigcriminaliteit, ten behoeve van het formuleren van strategisch beleid op nationaal- en internationaal niveau met betrekking tot gestolen of vermiste mobiele objecten;
 
