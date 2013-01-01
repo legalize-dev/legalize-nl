@@ -4,7 +4,7 @@ identifier: "BWBR0005904"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2010-10-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005904"
 soort: "wet"
@@ -50,15 +50,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. cultuuruitingen: de cultuuruitingen op de terreinen van de cultuur waarover het beleid van Onze Minister zich uitstrekt;
 
-- c. fonds: een privaatrechtelijke rechtspersoon die is opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2010-10-10&g=2010-10-10);
+- c. fonds: een privaatrechtelijke rechtspersoon die is opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01);
 
 - d. openbare bibliotheek: een voor ieder bestemde en toegankelijke bibliotheek die in overwegende mate door het Rijk, een provincie, een gemeente of het openbaar lichaam Bonaire, Sint Eustatius of Saba wordt bekostigd dan wel in stand wordt gehouden;
 
 - e. provinciale bibliotheekcentrale: een voorziening van bibliotheekwerk, bekostigd of in stand gehouden door een of meer provincies en werkzaam ten behoeve van openbare bibliotheken in die provincie of provincies;
 
-- f. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&artikel=2a&z=2010-10-10&g=2010-10-10).
+- f. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&artikel=2a&z=2013-01-01&g=2013-01-01).
 
-2. De [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op het verstrekken van subsidies ten behoeve van cultuuruitingen voorzover daarvoor bij of krachtens een andere wet regels zijn gesteld.
+2. De [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op het verstrekken van subsidies ten behoeve van cultuuruitingen voorzover daarvoor bij of krachtens een andere wet regels zijn gesteld.
 
 ##### Artikel 2
 
@@ -78,7 +78,7 @@ Vervallen
 
 ##### Artikel 2c
 
-1. Onder de Raad ressorteren drie commissies ter voorbereiding van de adviezen die Onze Minister vraagt ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) onderscheidenlijk de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659).
+1. Onder de Raad ressorteren twee commissies ter voorbereiding van de adviezen die Onze Minister vraagt ingevolge de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) onderscheidenlijk de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659).
 
 2. De commissies, bedoeld in het eerste lid, kunnen in afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) geheel of gedeeltelijk bestaan uit andere personen dan leden van de Raad.
 
@@ -160,7 +160,7 @@ Onze Minister kan op aanvraag ten behoeve van cultuuruitingen specifieke uitkeri
 
 ##### Artikel 7
 
-Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen dan die bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=6&z=2010-10-10&g=2010-10-10), verstrekken van tenminste € 4 500.
+Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen dan die bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2013-01-01&g=2013-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), verstrekken van tenminste € 4 500.
 
 ##### Artikel 8
 
@@ -186,7 +186,7 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 3. Indien bij of krachtens een algemene maatregel van bestuur, bedoeld in het eerste lid, wordt voorzien in een subsidieplafond, worden daarbij regels gesteld omtrent de wijze van verdeling.
 
-4. Onverminderd de [artikelen 4a tot en met 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4a&z=2010-10-10&g=2010-10-10) en [5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), kan bij een maatregel als bedoeld in het eerste lid worden bepaald dat een subsidie kan worden verstrekt voor perioden van ten hoogste vier jaren.
+4. Onverminderd de [artikelen 4a tot en met 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4a&z=2013-01-01&g=2013-01-01) en [5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2013-01-01&g=2013-01-01), kan bij een maatregel als bedoeld in het eerste lid worden bepaald dat een subsidie kan worden verstrekt voor perioden van ten hoogste vier jaren.
 
 5. Onze Minister kan bij het verstrekken van een subsidie de ontvanger daarvan verplichtingen opleggen met inachtneming van het bepaalde bij of krachtens de maatregel, bedoeld in het eerste lid.
 
@@ -226,7 +226,7 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 ##### Artikel 11
 
-Het bestuur van een fonds verstrekt subsidies als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2010-10-10&g=2010-10-10), bij beschikking.
+Het bestuur van een fonds verstrekt subsidies als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01), bij beschikking.
 
 ### Hoofdstuk IV. Fondsen
 
@@ -276,11 +276,11 @@ Voor het uitlenen van gedrukte werken in openbare bibliotheken aan personen bene
 
 ##### Artikel 12
 
-1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (**Stb.** 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2010-10-10&g=2010-10-10) van deze wet.
+1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (**Stb.** 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01) van deze wet.
 
-2. De Stichting Fonds voor de letteren, opgericht bij akte van 28 juli 1965, en de Stichting Productiefonds voor Nederlandse Films, opgericht bij akte van 8 november 1956, gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2010-10-10&g=2010-10-10) van deze wet.
+2. De Stichting Fonds voor de letteren, opgericht bij akte van 28 juli 1965, en de Stichting Productiefonds voor Nederlandse Films, opgericht bij akte van 8 november 1956, gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01) van deze wet.
 
-3. De besturen van de fondsen, bedoeld in het eerste en tweede lid, dragen er zorg voor dat de statuten en reglementen als bedoeld in [artikel 10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2010-10-10&g=2010-10-10), binnen een jaar na inwerkingtreding van deze wet voldoen aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2010-10-10&g=2010-10-10).
+3. De besturen van de fondsen, bedoeld in het eerste en tweede lid, dragen er zorg voor dat de statuten en reglementen als bedoeld in [artikel 10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2013-01-01&g=2013-01-01), binnen een jaar na inwerkingtreding van deze wet voldoen aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 13
 
@@ -302,7 +302,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 17
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2010-10-10&g=2010-10-10) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01) in werking treedt.
 
 ##### Artikel 18
 
@@ -328,23 +328,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4b
 
-1. Onze Minister kan instellingen of groepen van instellingen aanwijzen ten behoeve waarvan hij telkens voor een periode van vier kalenderjaren een subsidie verstrekt.
-
-2. De criteria op grond waarvan Onze Minister beoordeelt of een instelling of een groep van instellingen wordt aangewezen, zijn:
-
-- a. de onderlinge samenhang binnen een groep van instellingen;
-
-- b. de continuïteit van de activiteiten van een instelling of een groep van instellingen, of
-
-- c. het specifieke belang van de activiteiten van een te subsidiëren instelling of een groep van instellingen voor de cultuur in Nederland.
-
-3. Een aanwijzing of de intrekking van een aanwijzing wordt bekend gemaakt in de Staatscourant.
-
-4. Onze Minister kan een aanwijzing intrekken:
-
-- a. indien een instelling of groep van instellingen niet meer voldoet aan een of meer van de in het tweede lid bedoelde criteria, of
-
-- b. om bijzondere redenen.
+Vervallen
 
 ##### Artikel 4c
 
@@ -360,17 +344,29 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 1a
 
-1. Met uitzondering van de [hoofdstukken IA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&z=2010-10-10&g=2010-10-10) en [IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IVA&z=2010-10-10&g=2010-10-10) is deze wet mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+1. Met uitzondering van de [hoofdstukken IA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&z=2013-01-01&g=2013-01-01) en [IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IVA&z=2013-01-01&g=2013-01-01) is deze wet mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. [Hoofdstuk IA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&z=2010-10-10&g=2010-10-10) is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+2. [Hoofdstuk IA](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&z=2013-01-01&g=2013-01-01) is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-3. [Artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IVA&artikel=11a&z=2010-10-10&g=2010-10-10) is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+3. [Artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IVA&artikel=11a&z=2013-01-01&g=2013-01-01) is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk IA. Raad voor cultuur
 
 ### Hoofdstuk II. Wijziging hoofdlijnen cultuurbeleid
 
 ### Hoofdstuk III. Subsidies ten behoeve van cultuuruitingen
+
+### Hoofdstuk IVA. Bibliotheekwerk
+
+### Hoofdstuk V. Overgangsbepalingen
+
+### Hoofdstuk VI. Slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9a
+
+De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op een fonds, met uitzondering van [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), voor zover het besluiten betreft die het bestuur van een fonds neemt ter uitvoering van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2013-01-01&g=2013-01-01), bedoelde taak.
 
 ### Hoofdstuk IVA. Bibliotheekwerk
 
