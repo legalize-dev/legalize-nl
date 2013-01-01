@@ -4,7 +4,7 @@ identifier: "BWBR0007923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007923"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Deze regeling is niet van toepassing op mandaat met betrekking tot personeelsaan
 
 ##### Artikel 1b. Machtiging
 
-Hetgeen in deze regeling is bepaald met betrekking tot mandaat is, behoudens [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1a&z=2012-01-19&g=2012-09-01), van overeenkomstige toepassing op machtiging.
+Hetgeen in deze regeling is bepaald met betrekking tot mandaat is, behoudens [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing op machtiging.
 
 #### Hoofdstuk 2. Algemene bepalingen
 
@@ -94,15 +94,15 @@ Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de
 
 ##### Artikel 8. De Secretaris-Generaal
 
-De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2012-01-19&g=2012-09-01) door de Minister dienen te worden ondertekend.
+De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01) door de Minister dienen te worden ondertekend.
 
 ##### Artikel 9. De plaatsvervangend Secretaris-Generaal
 
-De plaatsvervangend Secretaris-Generaal heeft mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
+Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2013-01-01&g=2013-01-01), heeft de plaatsvervangend Secretaris-Generaal mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
 
 ##### Artikel 10
 
-De volgende functionarissen hebben mandaat ten aanzien van stukken die tot hun werkterrein behoren:
+Behoudens de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2013-01-01&g=2013-01-01) hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren:
 
 - a. de Directeuren-Generaal en de Directeuren van een beleidsdirectie, stafeenheid of een facilitaire eenheid van het kernministerie;
 
@@ -128,19 +128,19 @@ De volgende functionarissen hebben mandaat ten aanzien van stukken die tot hun w
 
 ##### Artikel 11. Minister
 
-1. De stukken gericht aan:
+1. De Minister ondertekent de stukken gericht aan:
 
-- a. de Koningin,
+- a. de Koningin;
 
-- b. de Eerste en Tweede Kamer der Staten-Generaal,
+- b. de Eerste en Tweede Kamer der Staten-Generaal;
 
-- c. de Ministerraad of daaruit gevormde vaste colleges,
+- c. de Ministerraad of daaruit gevormde vaste colleges;
 
-- d. de Raad van State,
+- d. de Raad van State;
 
-- e. de Algemene Rekenkamer, worden ondertekend door de Minister.
+- e. de Algemene Rekenkamer.
 
-2. Ten aanzien van de in het eerste lid, onder d en e, genoemde colleges geldt het in de aanhef van het eerste lid gestelde niet voor zover het gaat om administratiefrechtelijke procedures onderscheidenlijk stukken van ondergeschikt beleidsmatig of politiek belang.
+2. Ten aanzien van de in het eerste lid, onder d en e, genoemde colleges geldt het in de aanhef van het eerste lid gestelde niet voor zover het gaat om bestuursrechtelijke procedures onderscheidenlijk stukken van ondergeschikt beleidsmatig of politiek belang.
 
 3. Voorts worden de volgende stukken door de Minister ondertekend:
 
@@ -158,7 +158,7 @@ De volgende functionarissen hebben mandaat ten aanzien van stukken die tot hun w
 
 ##### Artikel 12. Secretaris-Generaal
 
-In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2012-01-19&g=2012-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken:
+In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken:
 
 - a. bestemd voor de Nationale ombudsman;
 
@@ -166,7 +166,7 @@ In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR000792
 
 ##### Artikel 13
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10 onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01), ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10 onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01), ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
 
 - a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;
 
@@ -176,19 +176,23 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met g ieder voor zijn eigen werkterrein, machtiging ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter en ten aanzien van het verlenen van machtigingen ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter.
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01) hebben ten aanzien van verweerschriften en beroepschriften ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
 
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) heeft de Directeur Wetgeving en Juridische Zaken machtiging op het werkterrein van de Directies Langdurige Zorg; Curatieve Zorg; Voeding, Gezondheidsbescherming en Preventie; Geneesmiddelen en Medische Technologie; Maatschappelijke Ondersteuning, en Sport ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter en ten aanzien van het verlenen van machtigingen ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter.
+- a. de Secretaris-Generaal;
 
-3. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar.
+- b. de Directeur Wetgeving en Juridische Zaken, met uitzondering van het werkterrein van de Directie Bedrijfsvoering;
 
-4. In afwijking van het derde lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.
+- c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in [artikel 10, eerste lid, onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01).
 
-5. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures, zijn de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&artikel=16&z=2012-01-19&g=2012-09-01), voor zover het de goedkeuring van de Secretaris-Generaal betreft, en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=6&artikel=17&z=2012-01-19&g=2012-09-01) niet van toepassing.
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01) hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar.
+
+3. In afwijking van het tweede lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.
+
+4. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&artikel=16&z=2013-01-01&g=2013-01-01), voor zover het de goedkeuring van de Secretaris-Generaal betreft, en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=6&artikel=17&z=2013-01-01&g=2013-01-01) niet van toepassing.
 
 ##### Artikel 15. [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01) heeft de Directeur Communicatie mandaat ten aanzien van stukken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), niet inhoudende geheel of gedeeltelijk afwijzende besluiten.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01) heeft de Directeur Communicatie mandaat ten aanzien van stukken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), niet inhoudende geheel of gedeeltelijk afwijzende besluiten.
 
 #### Hoofdstuk 5. Ondermandaat
 
@@ -196,9 +200,9 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de directeur van een facilitaire eenheid. In een dergelijk geval kan de betrokken directeur van de facilitaire eenheid op zijn beurt die bevoegdheid verlenen aan een ondergeschikte.
 
-2. De directeuren van facilitaire eenheden kunnen aan andere ondergeschikten dan hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in [artikel 10, onder a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2012-01-19&g=2012-09-01).
+2. De directeuren van facilitaire eenheden kunnen aan andere ondergeschikten dan hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in [artikel 10, onder a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2013-01-01&g=2013-01-01).
 
-3. De functionarissen, als bedoeld in [artikel 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2012-01-19&g=2012-09-01), zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.
+3. De functionarissen, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2013-01-01&g=2013-01-01), zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.
 
 4. Ondermandaat kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -210,7 +214,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 16a. Bijzonder ondermandaat
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2012-01-19&g=2012-09-01), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2012-01-19&g=2012-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2012-01-19&g=2012-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2012-01-19&g=2012-09-01) bevoegde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2013-01-01&g=2013-01-01) bevoegde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
 
 2. Bijzonder ondermandaat aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
@@ -218,9 +222,9 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 17
 
-1. De Directeur Bestuursondersteuning houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat
+1. De Directeur Bestuurlijke en Politieke Zaken houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat
 
-2. Bij beëindiging of wijziging van een mandaat wordt een kopie van het besluit tot beëindiging c.q. wijziging toegezonden aan de Directeur Bestuursondersteuning.
+2. Bij beëindiging of wijziging van een mandaat wordt een kopie van het besluit tot beëindiging c.q. wijziging toegezonden aan de Directeur Bestuurlijke en Politieke Zaken.
 
 #### Hoofdstuk 7. Overgangs- en slotbepalingen
 
