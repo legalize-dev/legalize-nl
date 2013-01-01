@@ -4,7 +4,7 @@ identifier: "BWBR0004844"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1997-06-30"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004844"
 soort: "AMvB"
@@ -56,7 +56,7 @@ De gijzeling wordt ten uitvoer gelegd in het huis van bewaring. Ten aanzien van 
 
 ##### Artikel 3
 
-De officier van justitie kan, voor de tenuitvoerlegging van de gijzeling de nodige bijzondere of algemene last geven aan de deurwaarders en aan de ambtenaren, aangesteld voor de uitvoering van de politietaak. Zij zijn verplicht onmiddellijk aan de vordering van de officier van justitie te voldoen.
+De officier van justitie kan, voor de tenuitvoerlegging van de gijzeling de nodige bijzondere of algemene last geven aan de deurwaarders en aan de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak. Zij zijn verplicht onmiddellijk aan de vordering van de officier van justitie te voldoen.
 
 ##### Artikel 4
 
