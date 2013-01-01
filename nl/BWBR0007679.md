@@ -4,7 +4,7 @@ identifier: "BWBR0007679"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007679"
 soort: "AMvB"
@@ -105,7 +105,7 @@ indien:
 
 ##### Artikel 5
 
-Vrijstelling van belasting wordt verleend voor motorrijtuigen die behoren tot een bedrijfsvoorraad als bedoeld in [artikel 2, onderdeel **g**, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), mits met die motorrijtuigen slechts van de autosnelweg gebruik wordt gemaakt met een ten behoeve van die motorrijtuigen opgegeven kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), en met die motorrijtuigen niet bedrijfsmatig goederen worden vervoerd.
+Vrijstelling van belasting wordt verleend voor motorrijtuigen die behoren tot een bedrijfsvoorraad als bedoeld in [artikel 2, onderdeel i, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), mits met die motorrijtuigen slechts van de autosnelweg gebruik wordt gemaakt met een ten behoeve van die motorrijtuigen opgegeven kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), en met die motorrijtuigen niet bedrijfsmatig goederen worden vervoerd.
 
 ##### Artikel 6
 
