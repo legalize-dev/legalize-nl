@@ -4,7 +4,7 @@ identifier: "BWBR0016609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-01"
-last_updated: "2004-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016609"
 soort: "ministeriele-regeling"
@@ -39,9 +39,11 @@ Gelet op [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffe
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit inzamelen afvalstoffen in werking treedt.
+
 ##### Artikel 1
 
-Als instantie als bedoeld in [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=11) en [artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5) is erkend de Stichting Examenbureau Beroepsvervoer.
+Als instantie als bedoeld in [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=11) en [artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5) is erkend het Centraal Bureau Rijvaardigheidsbewijzen.
 
 ##### Artikel 2
 
