@@ -4,7 +4,7 @@ identifier: "BWBR0016131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016131"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 1. Een betaling die wordt verricht op een g-rekening wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), en [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) in aanmerking genomen indien:
 
-- a. de factuur welke de uitlener, de onderaannemer of de confectie-aannemer ter zake van de door hem aan de inlener, aannemer of opdrachtgever geleverde prestatie of prestaties heeft doen toekomen, voldoet aan de eisen, voorzover toepasselijk, die [artikel 35 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35) daaraan stelt alsmede de vermelding bevat van:
+- a. de factuur welke de uitlener, de onderaannemer of de confectie-aannemer ter zake van de door hem aan de inlener, aannemer of opdrachtgever geleverde prestatie of prestaties heeft doen toekomen, voldoet aan de eisen, voorzover toepasselijk, die [artikel 35a van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a) daaraan stelt alsmede de vermelding bevat van:
 
 - 1°. het nummer of het kenmerk, voorzover aanwezig, van de overeenkomst ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de gefactureerde prestatie of prestaties heeft verricht;
 
@@ -142,7 +142,7 @@ Naast de bevoegdheid over te gaan tot uitwinning van het op het saldo van een g-
 
 ##### Artikel 9. Grenzen aansprakelijkstelling
 
-Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het gezamenlijke bedrag aan loonbelasting en omzetbelasting waarvoor bij de inlener, aannemer of opdrachtgever in eerste aanleg aansprakelijkheid is ontstaan en het gezamenlijke bedrag van de terzake door de inlener, aannemer of opdrachtgever op de g-rekening van de uitlener, de onderaannemer of de confectie-aannemer gestorte bedragen. Deze bedragen komen slechts in mindering op het gezamenlijke bedrag aan loonbelasting en omzetbelasting waarvoor in eerste aanleg aansprakelijkheid is ontstaan, indien aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6&z=2012-01-01&g=2012-01-01) is voldaan.
+Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het gezamenlijke bedrag aan loonbelasting en omzetbelasting waarvoor bij de inlener, aannemer of opdrachtgever in eerste aanleg aansprakelijkheid is ontstaan en het gezamenlijke bedrag van de terzake door de inlener, aannemer of opdrachtgever op de g-rekening van de uitlener, de onderaannemer of de confectie-aannemer gestorte bedragen. Deze bedragen komen slechts in mindering op het gezamenlijke bedrag aan loonbelasting en omzetbelasting waarvoor in eerste aanleg aansprakelijkheid is ontstaan, indien aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6&z=2013-01-01&g=2013-01-01) is voldaan.
 
 ##### Artikel 10. Deblokkering
 
@@ -158,9 +158,9 @@ Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het geza
 
 - a. de rekeninghouder geen of op onjuiste wijze gebruik maakt van de g-rekening;
 
-- b. de rekeninghouder niet of niet meer de hoedanigheid blijkt te bezitten van ondernemer, uitlener of doorlener als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2012-01-01&g=2012-01-01);
+- b. de rekeninghouder niet of niet meer de hoedanigheid blijkt te bezitten van ondernemer, uitlener of doorlener als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2013-01-01&g=2013-01-01);
 
-- c. het samenwerkingsverband, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2012-01-01&g=2012-01-01), is beëindigd;
+- c. het samenwerkingsverband, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2013-01-01&g=2013-01-01), is beëindigd;
 
 - d. met de rekeninghouder meer dan één g-rekening is gesloten en de rekeninghouder niet aannemelijk maakt dat het aanhouden van meer dan één g-rekening voor zijn bedrijfsvoering noodzakelijk is;
 
@@ -176,7 +176,7 @@ Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het geza
 
 4. Na opzegging van de g-rekeningovereenkomst blijft die overeenkomst niettemin van toepassing op het saldo van de g-rekening ten tijde van de opzegging, alsmede op hetgeen nadien op die rekening wordt gestort, een en ander voorzover daardoor geen strijdigheid ontstaat met de gevolgen die rechtens zijn verbonden aan het in staat van faillissement verklaren van de rekeninghouder, van het aan hem verlenen van surséance van betaling of van het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen.
 
-5. Een betaling die wordt verricht op een rekening die oorspronkelijk is geopend ingevolge een g-rekeningovereenkomst doch met betrekking waartoe een opzegging van die overeenkomst van kracht is geworden, wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), of [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) niet aangemerkt als betaling die in mindering wordt gebracht op het bedrag aan loonbelasting of omzetbelasting, waarvoor aansprakelijkheid is ontstaan, tenzij die betaling deel is gaan uitmaken van het saldo op die rekening of het gedeelte van dat saldo op die rekening waarop ondanks die opzegging ingevolge het vierde lid het in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1&z=2012-01-01&g=2012-01-01), bedoelde pandrecht is komen te rusten.
+5. Een betaling die wordt verricht op een rekening die oorspronkelijk is geopend ingevolge een g-rekeningovereenkomst doch met betrekking waartoe een opzegging van die overeenkomst van kracht is geworden, wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), of [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) niet aangemerkt als betaling die in mindering wordt gebracht op het bedrag aan loonbelasting of omzetbelasting, waarvoor aansprakelijkheid is ontstaan, tenzij die betaling deel is gaan uitmaken van het saldo op die rekening of het gedeelte van dat saldo op die rekening waarop ondanks die opzegging ingevolge het vierde lid het in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde pandrecht is komen te rusten.
 
 ##### Artikel 12. Intrekking regelingen en vervallen van artikelen
 
@@ -186,7 +186,7 @@ Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het geza
 
 ##### Artikel 13. Overgangsbepaling
 
-G-rekeningovereenkomsten die voldoen aan de voorschriften van de regelingen en artikelen, die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=12&z=2012-01-01&g=2012-01-01) worden ingetrokken respectievelijk vervallen, worden aangemerkt als g-rekeningovereenkomsten, bedoeld in deze regeling.
+G-rekeningovereenkomsten die voldoen aan de voorschriften van de regelingen en artikelen, die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=12&z=2013-01-01&g=2013-01-01) worden ingetrokken respectievelijk vervallen, worden aangemerkt als g-rekeningovereenkomsten, bedoeld in deze regeling.
 
 ##### Artikel 14. Inwerkingtreding
 
