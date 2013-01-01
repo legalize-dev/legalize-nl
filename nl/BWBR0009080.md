@@ -4,7 +4,7 @@ identifier: "BWBR0009080"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2007-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009080"
 soort: "AMvB"
@@ -62,9 +62,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9), af te geven door de behandelende arts, luidt als in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&bijlage=I&z=2007-01-01&g=2007-01-01) is aangegeven.
+1. Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9), af te geven door de behandelende arts, luidt als in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&bijlage=I&z=2013-01-01&g=2013-01-01) is aangegeven.
 
-2. Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9), af te geven door de gemeentelijke lijkschouwer, luidt als in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&bijlage=II&z=2007-01-01&g=2007-01-01)is aangegeven.
+2. Het model van de verklaring van overlijden, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9), af te geven door de gemeentelijke lijkschouwer, luidt als in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&bijlage=II&z=2013-01-01&g=2013-01-01)is aangegeven.
 
 #### Paragraaf 3. De wijze van begraven
 
@@ -76,13 +76,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een kist of ander omhulsel mag niet zijn vervaardigd met toepassing van kunststoffen of metalen.
+1. Een kist of ander omhulsel wordt slechts voor begraving gebruikt indien deze is vervaardigd met toepassing van biologisch afbreekbare materialen die het doel van begraving niet belemmeren.
 
-2. Het eerste lid is niet van toepassing ten aanzien van:
-
-- a. kunststoffen of metalen die worden gebruikt voor handvatten, ornamenten en verbindingselementen als spijkers, schroeven, nieten of klemmen;
-
-- b. door Onze Minister van Binnenlandse Zaken aangewezen kunststoffen of toepassingen van kunststoffen.
+2. Het eerste lid is niet van toepassing ten aanzien van materialen die worden gebruikt voor handvatten en ornamenten voor zover die van buitenaf verwijderd kunnen worden en verbindingselementen als lijm, spijkers, schroeven, nieten of klemmen.
 
 #### Paragraaf 4. De inrichting van een graf en de afstand tussen de graven onderling
 
@@ -98,29 +94,27 @@ In dit besluit wordt verstaan onder:
 
 5. Het derde en vierde lid zijn niet van toepassing op bestaande graven.
 
-6. Dit artikel is niet van toepassing op grafkelders.
-
 ##### Artikel 6
 
 De afstand van een graf tot de erfscheiding van de begraafplaats bedraagt ten minste één meter.
 
 ##### Artikel 7
 
-De constructie van grafkelders is zodanig dat lucht tot de grafruimte kan toetreden en hieruit ook afgevoerd kan worden. De afvoer van lucht uit de grafruimte geschiedt op zodanige wijze dat daarvan geen hinder kan worden ondervonden.
+1. De constructie van grafkelders, waaronder tevens wordt begrepen een graf in een bovengrondse constructie, is zodanig dat lucht tot de grafruimte kan toetreden en hieruit ook afgevoerd kan worden. De afvoer van lucht uit de grafruimte geschiedt op zodanige wijze dat daarvan geen hinder kan worden ondervonden.
 
-#### Paragraaf 5. De wijze van verbranding en de wijze van de registratie van verbranding en van bestemming van de as
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=4&artikel=5&z=2013-01-01&g=2013-01-01) is niet van toepassing op grafkelders als bedoeld in het eerste lid.
+
+#### Paragraaf 5. De wijze van crematie en de wijze van de registratie van crematie en van bestemming van de as
 
 ##### Artikel 8
 
-1. Een lijk wordt verbrand in een kist.
+1. Een lijk wordt gecremeerd in een kist.
 
-2. Verbranding mag geschieden zonder kist, mits het lijk zich bevindt in een ander omhulsel. Dit omhulsel moet op het doel van verbranding zijn afgestemd.
-
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=4&z=2007-01-01&g=2007-01-01) is van toepassing.
+2. Crematie mag geschieden zonder kist, mits het lijk zich bevindt in een ander omhulsel. Dit omhulsel moet op het doel van crematie zijn afgestemd.
 
 ##### Artikel 9
 
-De verbranding geschiedt op zodanige wijze, dat vermenging of verwisseling van de as met die van andere lijken niet mogelijk is.
+De crematie geschiedt op zodanige wijze, dat vermenging of verwisseling van de as met die van andere lijken niet mogelijk is.
 
 ##### Artikel 10
 
@@ -140,9 +134,9 @@ De verbranding geschiedt op zodanige wijze, dat vermenging of verwisseling van d
 
 2. Het register, bedoeld in [artikel 65, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=65) vermeldt:
 
-- a. de naam en voornamen van de overledene, onderscheidelijk de naam van de doodgeborene, alsmede het registratienummer van de asbus;
+- a. de naam en voornamen van de overledene, onderscheidenlijk de naam van de doodgeborene, alsmede het registratienummer van de asbus;
 
-- b. de naam en het adres van de houder van het crematorium waar de verbranding heeft plaatsgevonden;
+- b. de naam en het adres van de houder van het crematorium waar de crematie heeft plaatsgevonden;
 
 - c. de plaats van bijzetting van de asbus;
 
@@ -158,49 +152,47 @@ De verbranding geschiedt op zodanige wijze, dat vermenging of verwisseling van d
 
 2. Het vervoer naar Nederland van een lijk, afkomstig uit een staat die eveneens partij is in de Overeenkomst van Straatsburg geschiedt ongehinderd, mits bij het lijk aanwezig is het laissez-passer voor lijken, bedoeld in artikel 3 van die overeenkomst, afgegeven door de bevoegde autoriteit van de staat van herkomst.
 
-3. Het vervoer te land van een lijk, afkomstig uit Nederland, naar België of Luxemburg ter bezorging aldaar, of omgekeerd, geschiedt ongehinderd, indien de bevoegde autoriteit van de gemeente van overlijden ingevolge de wettelijke voorschriften een verlof tot begraving of verbranding heeft afgegeven en te zamen met het lijk niets wordt vervoerd dan grafkransen, bloemen en persoonlijke bezittingen van de overledene.
+3. Het vervoer te land van een lijk, afkomstig uit Nederland, naar België of Luxemburg ter bezorging aldaar, of omgekeerd, geschiedt ongehinderd, indien de bevoegde autoriteit van de gemeente van overlijden ingevolge de wettelijke voorschriften een verlof tot begraving of crematie heeft afgegeven en te zamen met het lijk niets wordt vervoerd dan grafkransen, bloemen en persoonlijke bezittingen van de overledene.
 
 4. In de overige gevallen geschiedt het vervoer van een lijk uit Nederland naar het buitenland of omgekeerd ongehinderd, mits bij het lijk aanwezig is een verklaring, afgegeven door de bevoegde autoriteit van het land vanwaar het lijk wordt aangebracht, vermeldende de naam van de overledene en de plaats waarheen het lijk wordt vervoerd.
 
-5. Bij binnenkomst van een lijk in Nederland dient het in het tweede en derde lid bedoelde laissez-passer, onderscheidenlijk het verlof tot begraving of verbranding, dan wel de in het vierde lid bedoelde verklaring, te worden overgelegd aan de douane.
+5. Bij binnenkomst van een lijk in Nederland dient het in het tweede en derde lid bedoelde laissez-passer, onderscheidenlijk het verlof tot begraving of crematie, dan wel de in het vierde lid bedoelde verklaring, te worden overgelegd aan de douane.
 
 ##### Artikel 12
 
 1. Indien een lijk wordt vervoerd uit Nederland naar of door een van de staten heen die eveneens partij zijn in de Overeenkomst van Straatsburg of uit of door een van die staten heen naar Nederland wordt vervoerd, geschiedt dit in een kist die voldoet aan de bij of krachtens de artikelen 6 en 7 van die overeenkomst gestelde eisen.
 
-2. In het geval van vervoer van een lijk, afkomstig uit Nederland, naar België en Luxemburg ter bezorging aldaar, of omgekeerd, en in de overige gevallen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=6&artikel=11&z=2007-01-01&g=2007-01-01), geschiedt het vervoer van een lijk naar of uit het buitenland in een waterdichte kist.
+2. In het geval van vervoer van een lijk, afkomstig uit Nederland, naar België en Luxemburg ter bezorging aldaar, of omgekeerd, en in de overige gevallen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=6&artikel=11&z=2013-01-01&g=2013-01-01), geschiedt het vervoer van een lijk naar of uit het buitenland in een waterdichte kist.
 
 #### Paragraaf 7. Lijken die Nederland worden binnengebracht
 
 ##### Artikel 13
 
-Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begraving of verbranding binnen de door [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=16) gestelde termijn van de vijfde dag na die van het overlijden niet mogelijk is, vindt de begraving of verbranding zo spoedig mogelijk daarna plaats.
+Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begraving of crematie binnen de door [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=16) gestelde termijn van de zesde werkdag na die van het overlijden niet mogelijk is, vindt de begraving of crematie zo spoedig mogelijk daarna plaats.
 
 ##### Artikel 14
 
-1. De ambtenaar van de burgerlijke stand van een gemeente waar een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Straatsburg, moet worden begraven of verbrand, verleent verlof tot begraving of verbranding van dat lijk, indien hem het document, bedoeld in artikel 3 van die overeenkomst, wordt overgelegd.
+1. De ambtenaar van de burgerlijke stand van een gemeente waar een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Straatsburg, moet worden begraven of gecremeerd, verleent verlof tot begraving of crematie van dat lijk, indien hem het document, bedoeld in artikel 3 van die overeenkomst, wordt overgelegd.
 
 2. Hij verleent het verlof eveneens voor een lijk dat afkomstig is uit een der staten die partij zijn in de Overeenkomst van Berlijn, indien hem het document, bedoeld in artikel 1 van die overeenkomst, wordt overgelegd.
 
-3. Hij verleent het verlof eveneens voor een lijk dat afkomstig is uit enige andere staat, indien hem een verklaring als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=6&artikel=11&z=2007-01-01&g=2007-01-01), wordt overgelegd.
+3. Hij verleent het verlof eveneens voor een lijk dat afkomstig is uit enige andere staat, indien hem een verklaring als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=6&artikel=11&z=2013-01-01&g=2013-01-01), wordt overgelegd.
 
 4. Het overgelegde document of de overgelegde verklaring wordt door de ambtenaar van de burgerlijke stand bewaard.
 
-5. In afwijking van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=11) kan begraving of verbranding van een uit België of Luxemburg afkomstig lijk plaatsvinden, indien aan de houder van een crematorium of een begraafplaats een door de bevoegde autoriteiten van de gemeente van overlijden ingevolge de wettelijke voorschriften afgegeven verlof tot begraving of verbranding wordt overgelegd.
+5. In afwijking van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=11) kan begraving of crematie van een uit België of Luxemburg afkomstig lijk plaatsvinden, indien aan de houder van een crematorium of een begraafplaats een door de bevoegde autoriteiten van de gemeente van overlijden ingevolge de wettelijke voorschriften afgegeven verlof tot begraving of crematie wordt overgelegd.
 
 ##### Artikel 15
 
-[Artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=8) is niet van toepassing ten aanzien van een lijk dat Nederland is binnengebracht ter begraving, verbranding of ontleding.
+[Artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=8) is niet van toepassing ten aanzien van een lijk dat Nederland is binnengebracht ter begraving, crematie of ontleding.
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=4&z=2007-01-01&g=2007-01-01) is niet van toepassing op begraving of verbranding in een kist waarin overeenkomstig de bepalingen van de Overeenkomsten van Straatsburg en van Berlijn lijken Nederland zijn binnengebracht.
-
-2. In het geval van begraving dient de ondoordringbaarheid van de kist te worden opgeheven.
+Vervallen
 
 ##### Artikel 17
 
-1. De burgemeester beslist uiterlijk op de derde dag na die van het binnenbrengen van het lijk op een aanvraag om een verlof tot ontleding als bedoeld in [artikel 68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=68), indien hem een der in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=7&artikel=14&z=2007-01-01&g=2007-01-01) genoemde documenten wordt overgelegd.
+1. De burgemeester beslist uiterlijk op de derde dag na die van het binnenbrengen van het lijk op een aanvraag om een verlof tot ontleding als bedoeld in [artikel 68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=68), indien hem een der in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=7&artikel=14&z=2013-01-01&g=2013-01-01) genoemde documenten wordt overgelegd.
 
 2. Het overgelegde document wordt door de burgemeester bewaard.
 
@@ -208,13 +200,13 @@ Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begravin
 
 ##### Artikel 18
 
-1. Met de lijken van personen, aan boord van een Nederlands schip op zee overleden, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de overledene. Indien zijn wens niet bekend is, geschiedt de lijkbezorging overeenkomstig de wens van de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of andere levensgezel dan wel, bij onstentenis of onbereikbaarheid van deze, de naaste onmiddellijk bereikbare meerderjarige bloed- of aanverwanten tot en met de derde graad.
+1. Met de lijken van personen, aan boord van een Nederlands schip op zee overleden, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de overledene. Indien zijn wens niet bekend is, geschiedt de lijkbezorging overeenkomstig de wens van de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of andere levensgezel dan wel, bij ontstentenis of onbereikbaarheid van deze, de naaste onmiddellijk bereikbare meerderjarige bloed- of aanverwanten tot en met de derde graad.
 
 2. Met de lijken van doodgeborenen, aan boord van een Nederlands schip op zee ter wereld gekomen, wordt zo gehandeld dat in de wijze van lijkbezorging alsmede de plaats daarvan kan worden voorzien overeenkomstig de wens van de moeder of beide ouders.
 
 ##### Artikel 19
 
-Voor zover geen wilsuiting als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2007-01-01&g=2007-01-01) bekend is en niet anders is bepaald in de artikelen 20 tot en met 25 van deze paragraaf, wordt er zorg voor gedragen dat het lijk wordt teruggevoerd naar het land waar de overledene dan wel de moeder van de doodgeborene thuishoort, opdat in de lijkbezorging kan worden voorzien.
+Voor zover geen wilsuiting als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2013-01-01&g=2013-01-01) bekend is en niet anders is bepaald in de artikelen 20 tot en met 25 van deze paragraaf, wordt er zorg voor gedragen dat het lijk wordt teruggevoerd naar het land waar de overledene dan wel de moeder van de doodgeborene thuishoort, opdat in de lijkbezorging kan worden voorzien.
 
 ##### Artikel 20
 
@@ -228,11 +220,11 @@ Afhankelijk van de te verwachten duur van de periode waarin het lijk aan boord z
 
 ##### Artikel 21
 
-Indien overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2007-01-01&g=2007-01-01) de wens te kennen is gegeven dat het lijk overboord wordt gezet, geschiedt dit niet eerder dan 36 uur na het overlijden of dood ter wereld komen.
+Indien overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2013-01-01&g=2013-01-01) de wens te kennen is gegeven dat het lijk overboord wordt gezet, geschiedt dit niet eerder dan 36 uur na het overlijden of dood ter wereld komen.
 
 ##### Artikel 22
 
-Wanneer de gezondheidstoestand aan boord dit vordert, dan wel uitvoering van het bepaalde in een of meer van de artikelen 18 tot en met 21 van deze paragraaf in redelijkheid niet gevergd kan worden, kan de gezagvoerder, in afwijking van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2007-01-01&g=2007-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=19&z=2007-01-01&g=2007-01-01), na overleg met een arts of, bij gebreke van deze, na overleg met leden van de bemanning het lijk binnen 36 uur na het overlijden overboord doen zetten.
+Wanneer de gezondheidstoestand aan boord dit vordert, dan wel uitvoering van het bepaalde in een of meer van de artikelen 18 tot en met 21 van deze paragraaf in redelijkheid niet gevergd kan worden, kan de gezagvoerder, in afwijking van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=18&z=2013-01-01&g=2013-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=19&z=2013-01-01&g=2013-01-01), na overleg met een arts of, bij gebreke van deze, na overleg met leden van de bemanning het lijk binnen 36 uur na het overlijden overboord doen zetten.
 
 ##### Artikel 23
 
@@ -244,7 +236,7 @@ Wanneer tekenen of aanduidingen van een niet-natuurlijke dood aanwezig zijn of w
 
 ##### Artikel 25
 
-Van het overlijden of dood geboren worden, van de wijze van bewaren van het lijk en van de duur daarvan, van de positie van het schip op het moment van het overboord zetten van het lijk, van de redenen daartoe en van het in voorkomende gevallen daaraan voorafgaande overleg, alsmede van de bevindingen van het in het [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde onderzoek, wordt melding gemaakt in het scheepsdagboek.
+Van het overlijden of dood geboren worden, van de wijze van bewaren van het lijk en van de duur daarvan, van de positie van het schip op het moment van het overboord zetten van het lijk, van de redenen daartoe en van het in voorkomende gevallen daaraan voorafgaande overleg, alsmede van de bevindingen van het in het [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=8&artikel=24&z=2013-01-01&g=2013-01-01) bedoelde onderzoek, wordt melding gemaakt in het scheepsdagboek.
 
 #### Paragraaf 9. De wijze waarop wordt gehandeld met lijken van personen, overleden op installaties ter zee
 
@@ -258,7 +250,7 @@ Bij vermoeden van overlijden van een op een installatie verblijvende persoon ste
 
 ##### Artikel 28
 
-Onverminderd [artikel 9 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), stelt degene die is belast met de leiding der werkzaamheden op de installatie, de officier van justitie te Amsterdam onverwijld in kennis van het overlijden van een persoon op de installatie, onder vermelding van de naam van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=9&artikel=27&z=2007-01-01&g=2007-01-01) bedoelde arts.
+Onverminderd [artikel 9 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), stelt degene die is belast met de leiding der werkzaamheden op de installatie, de officier van justitie te Amsterdam onverwijld in kennis van het overlijden van een persoon op de installatie, onder vermelding van de naam van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=9&artikel=27&z=2013-01-01&g=2013-01-01) bedoelde arts.
 
 ##### Artikel 29
 
@@ -288,7 +280,7 @@ Wanneer tekenen of aanduidingen van een niet-natuurlijke dood aanwezig zijn of w
 
 ##### Artikel 33
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=3&z=2007-01-01&g=2007-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=4&z=2007-01-01&g=2007-01-01), of [8 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=5&artikel=8&z=2007-01-01&g=2007-01-01) is een strafbaar feit in de zin van [artikel 81, onderdeel 8°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=81).
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), of [8 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009080&paragraaf=5&artikel=8&z=2013-01-01&g=2013-01-01) is een strafbaar feit in de zin van [artikel 81, onderdeel 8°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=81).
 
 ##### Artikel 34
 
