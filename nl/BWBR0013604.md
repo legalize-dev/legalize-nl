@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -48,15 +48,17 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking voor Nederland. Treedt op 1 mei 2006 in werking voor Aruba (Stb. 2006/202). Treedt op 1 oktober 2007 in werking voor de Nederlandse Antillen (Stb. 2007/310).
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Justitie in zijn hoedanigheid van minister van het Koninkrijk;
+- a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in zijn hoedanigheid van minister van het Koninkrijk;
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2011-01-01&g=2011-01-01);
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2013-01-01&g=2013-01-01);
 
 - d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -72,11 +74,9 @@ In dit besluit wordt verstaan onder:
 
 - b. luistervaardigheid;
 
-- c. schrijfvaardigheid;
+- c. schrijfvaardigheid; en
 
-- d. leesvaardigheid; en
-
-- e. in het Europese deel van Nederland: gespreksvaardigheid.
+- d. leesvaardigheid.
 
 4. Onze Minister wijst de ambtenaren, autoriteiten of instellingen aan die de naturalisatietoets afnemen. Indien de plaatselijke omstandigheden daartoe aanleiding geven, kan Onze Minister in overeenstemming met de Minister die het aangaat de beoordeling of de verzoeker beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, opdragen aan de autoriteit of ambtenaar die het verzoek om verlening van het Nederlanderschap in ontvangst neemt.
 
@@ -102,9 +102,9 @@ In dit besluit wordt verstaan onder:
 
 - g. hij met toepassing van [artikel 3, derde lid, onder a, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) wegens psychische of lichamelijke redenen voor onbepaalde duur is ontheven van de verplichting een inburgeringsprogramma te volgen;
 
-- h. hij in het bezit is van het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven,
+- h. hij in het bezit is van het diploma, bedoeld in [artikel 7, vierde lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) dan wel het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven;
 
-- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7);
+- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7), zoals dat besluit luidde voor de inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032034) (Stb. 2012, 432);
 
 - j. hij ten minste acht jaren tijdens de leerplichtige leeftijd in het Europese deel van Nederland heeft verbleven als bedoeld in [artikel 5, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5);
 
@@ -130,9 +130,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
+1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het diploma, bedoeld in [artikel 7, vierde lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) dan wel het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
 
-2. Het in het eerste lid bedoelde inburgeringsdiploma alsmede het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal worden in het kader van een verzoek om naturalisatie in het gehele Koninkrijk erkend.
+2. Het in het eerste lid bedoelde diploma alsmede het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal worden in het kader van een verzoek om naturalisatie in het gehele Koninkrijk erkend.
 
 3. Het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Engelse of Papiamentse taal wordt in het kader van zijn verzoek om naturalisatie alleen erkend op de eilanden waar die taal naast het Nederlands gangbaar is.
 
