@@ -4,7 +4,7 @@ identifier: "BWBR0002431"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002431"
 soort: "wet"
@@ -45,7 +45,7 @@ In deze wet wordt onder "het verdrag" verstaan het op 30 augustus 1962 te 's-Gra
 
 ##### Artikel 2
 
-Als Nederlandse rechterlijke autoriteiten, bedoeld in artikel 1, eerste lid onder **a** van het verdrag, treden op de Officieren van Justitie bij de arrondissementsrechtbanken.
+Als Nederlandse rechterlijke autoriteiten, bedoeld in artikel 1, eerste lid onder **a** van het verdrag, treden op de officieren van justitie bij de arrondissementsparketten.
 
 ##### Artikel 3
 
