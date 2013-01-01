@@ -4,7 +4,7 @@ identifier: "BWBR0031814"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-01"
-last_updated: "2012-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031814"
 soort: "wet"
@@ -157,9 +157,9 @@ Indien de veroordeelde zich in Nederland bevindt, stelt Onze Minister hem door m
 
 2. De beslissing van Onze Minister kan slechts worden uitgesteld:
 
-- a. totdat een vertaling beschikbaar is als bedoeld in [artikel 2:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2012-11-01&g=2012-11-01);
+- a. totdat een vertaling beschikbaar is als bedoeld in [artikel 2:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2013-01-01&g=2013-01-01);
 
-- b. totdat binnen redelijke termijn is voldaan aan het verzoek, bedoeld in [artikel 2:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2012-11-01&g=2012-11-01);
+- b. totdat binnen redelijke termijn is voldaan aan het verzoek, bedoeld in [artikel 2:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2013-01-01&g=2013-01-01);
 
 - c. indien het vanwege uitzonderlijke omstandigheden niet mogelijk is de termijn, bedoeld in het eerste lid, te halen.
 
@@ -167,13 +167,13 @@ Indien de veroordeelde zich in Nederland bevindt, stelt Onze Minister hem door m
 
 ##### Artikel 2:11. (betrokkenheid rechter; aanpassing sanctie)
 
-1. Tenzij Onze Minister reeds aanstonds van oordeel is dat er gronden zijn om de erkenning van de rechterlijke uitspraak te weigeren, doet hij de rechterlijke uitspraak en het certificaat toekomen aan de advocaat-generaal van het ressortsparket te Arnhem.
+1. Tenzij Onze Minister reeds aanstonds van oordeel is dat er gronden zijn om de erkenning van de rechterlijke uitspraak te weigeren, doet hij de rechterlijke uitspraak en het certificaat toekomen aan de advocaat-generaal bij het ressortsparket.
 
-2. De advocaat-generaal legt de rechterlijke uitspraak en het certificaat onverwijld voor aan de bijzondere kamer van het gerechtshof te Arnhem, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67). De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd, in bij de bijzondere kamer van het gerechtshof.
+2. De advocaat-generaal legt de rechterlijke uitspraak en het certificaat onverwijld voor aan de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67). De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd, in bij de bijzondere kamer van het gerechtshof.
 
 3. De bijzondere kamer van het gerechtshof beoordeelt:
 
-- a. of er gronden zijn om de erkenning van de rechterlijke uitspraak met toepassing van [artikel 2:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:13&z=2012-11-01&g=2012-11-01), te weigeren;
+- a. of er gronden zijn om de erkenning van de rechterlijke uitspraak met toepassing van [artikel 2:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:13&z=2013-01-01&g=2013-01-01), te weigeren;
 
 - b. of de ten uitvoer te leggen vrijheidsbenemende sanctie is opgelegd voor een feit dat ook naar Nederlands recht strafbaar is en zo ja, welk strafbaar feit dit oplevert;
 
@@ -201,9 +201,9 @@ Indien de veroordeelde zich in Nederland bevindt, stelt Onze Minister hem door m
 
 1. De erkenning van de rechterlijke uitspraak wordt geweigerd indien:
 
-- a. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de rechterlijke uitspraak en niet binnen redelijke termijn aan het verzoek, bedoeld in [artikel 2:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2012-11-01&g=2012-11-01), is voldaan;
+- a. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de rechterlijke uitspraak en niet binnen redelijke termijn aan het verzoek, bedoeld in [artikel 2:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:8&z=2013-01-01&g=2013-01-01), is voldaan;
 
-- b. niet is voldaan aan de voorwaarden voor erkenning, bedoeld in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2:3&z=2012-11-01&g=2012-11-01);
+- b. niet is voldaan aan de voorwaarden voor erkenning, bedoeld in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2:3&z=2013-01-01&g=2013-01-01);
 
 - c. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf jaren nog niet had bereikt;
 
@@ -253,7 +253,7 @@ Indien de veroordeelde zich in Nederland bevindt, stelt Onze Minister hem door m
 
 1. Nadat de rechterlijke uitspraak is erkend, draagt Onze Minister er zorg voor dat deze zo spoedig mogelijk, overeenkomstig de regels van het Nederlandse recht en met inachtneming van de erkenningsbeslissing, ten uitvoer wordt gelegd.
 
-2. Bij de tenuitvoerlegging van de vrijheidsbenemende sanctie wordt de door de bevoegde autoriteit van de uitvaardigende lidstaat in het certificaat aangegeven tijd die al in detentie is doorgebracht in mindering gebracht. Eveneens wordt de tijd die in Nederland in detentie is doorgebracht als gevolg van de toepassing van de voorlopige maatregelen, bedoeld in de [artikelen 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2012-11-01&g=2012-11-01) en [2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:20&z=2012-11-01&g=2012-11-01), in mindering gebracht.
+2. Bij de tenuitvoerlegging van de vrijheidsbenemende sanctie wordt de door de bevoegde autoriteit van de uitvaardigende lidstaat in het certificaat aangegeven tijd die al in detentie is doorgebracht in mindering gebracht. Eveneens wordt de tijd die in Nederland in detentie is doorgebracht als gevolg van de toepassing van de voorlopige maatregelen, bedoeld in de [artikelen 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2013-01-01&g=2013-01-01) en [2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:20&z=2013-01-01&g=2013-01-01), in mindering gebracht.
 
 ##### Artikel 2:16. (overbrenging)
 
@@ -321,7 +321,7 @@ Onze Minister stelt de bevoegde autoriteit van de uitvaardigende lidstaat onverw
 
 1. De rechter-commissaris in het arrondissement waar de veroordeelde in verzekering is gesteld, kan op vordering van de officier van justitie de bewaring van de veroordeelde bevelen. Alvorens een dergelijk bevel te geven, hoort de rechter-commissaris zo mogelijk de veroordeelde.
 
-2. Aan de veroordeelde die overeenkomstig het eerste lid in bewaring wordt gesteld, wordt, zo hij nog geen raadsman heeft, een raadsman toegevoegd door het bureau rechtsbijstandvoorziening op last van de voorzitter van de rechtbank van het arrondissement waar hij zich bevindt. De officier van justitie geeft de voorzitter onverwijld schriftelijk kennis dat toevoeging moet plaats hebben.
+2. Aan de veroordeelde die overeenkomstig het eerste lid in bewaring wordt gesteld, wordt, zo hij nog geen raadsman heeft, een raadsman toegevoegd door het bureau rechtsbijstandvoorziening op last van de voorzitter van de rechtbank in het arrondissement waarin hij zich bevindt. De officier van justitie geeft de voorzitter onverwijld schriftelijk kennis dat toevoeging moet plaats hebben.
 
 ##### Artikel 2:21. (beëindiging bewaring)
 
@@ -337,19 +337,19 @@ Onze Minister stelt de bevoegde autoriteit van de uitvaardigende lidstaat onverw
 
 1. De rechter-commissaris kan ambtshalve, op vordering van de officier van justitie of op verzoek van de veroordeelde bevelen dat de bewaring voorwaardelijk wordt opgeschort of geschorst.
 
-2. De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie in kennis is gesteld van de beslissing van Onze Minister, bedoeld in [artikel 2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:12&z=2012-11-01&g=2012-11-01).
+2. De opschorting of schorsing eindigt van rechtswege zodra de officier van justitie in kennis is gesteld van de beslissing van Onze Minister, bedoeld in [artikel 2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:12&z=2013-01-01&g=2013-01-01).
 
 3. Op bevelen tot voorwaardelijke opschorting en schorsing, krachtens het eerste lid gegeven, zijn de [artikelen 80, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80), [81 tot en met 85](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=81) en [88 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=88) van overeenkomstige toepassing.
 
 ##### Artikel 2:23. (formaliteiten; tenuitvoerlegging)
 
-1. De krachtens de [artikelen 2:19 tot en met 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2012-11-01&g=2012-11-01) gegeven bevelen tot inverzekeringstelling, bewaring dan wel de opschorting, schorsing of beëindiging van de bewaring worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan de veroordeelde op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.
+1. De krachtens de [artikelen 2:19 tot en met 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2013-01-01&g=2013-01-01) gegeven bevelen tot inverzekeringstelling, bewaring dan wel de opschorting, schorsing of beëindiging van de bewaring worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan de veroordeelde op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.
 
 2. De bevelen, bedoeld in het eerste lid, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van deze bevelen zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 564 tot en met 570 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=564) van overeenkomstige toepassing.
 
 3. Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn gesteld worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan een overeenkomstige maatregel zijn onderworpen.
 
-4. Van elke beslissing, genomen krachtens een van de [artikelen 2:19 tot en met 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2012-11-01&g=2012-11-01), geeft de officier van justitie onverwijld kennis aan Onze Minister.
+4. Van elke beslissing, genomen krachtens een van de [artikelen 2:19 tot en met 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2013-01-01&g=2013-01-01), geeft de officier van justitie onverwijld kennis aan Onze Minister.
 
 ### Afdeling 3. Erkenning en tenuitvoerlegging van Nederlandse rechterlijke uitspraken in het buitenland
 
@@ -393,7 +393,7 @@ Toezending van de rechterlijke uitspraak kan zonder de instemming van de veroord
 
 2. Het eerste lid blijft buiten toepassing, indien de veroordeelde zich niet in Nederland bevindt of zelf om de toezending van de rechterlijke uitspraak heeft verzocht.
 
-3. De veroordeelde kan binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift indienen bij de bijzondere kamer van het gerechtshof te Arnhem, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67).
+3. De veroordeelde kan binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift indienen bij de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67).
 
 4. Zo spoedig mogelijk na ontvangst van een tijdig ingediend bezwaarschrift onderzoekt de bijzondere kamer van het gerechtshof of Onze Minister bij afweging van de betrokken belangen in redelijkheid tot de voorgenomen beslissing kan komen.
 
@@ -427,7 +427,7 @@ Toezending van de rechterlijke uitspraak kan zonder de instemming van de veroord
 
 1. Onze Minister kan de bevoegde autoriteit van de uitvoerende lidstaat verzoeken om de veroordeelde aan te houden of andere maatregelen te treffen ter voorkoming van zijn vlucht.
 
-2. Indien het verzoek wordt gedaan voorafgaand aan de toezending van de rechterlijke uitspraak en het certificaat, bedoeld in [artikel 2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2:28&z=2012-11-01&g=2012-11-01), bevat het verzoek een vermelding van het strafbare feit waarop de rechterlijke uitspraak betrekking heeft, de vrijheidsbenemende sanctie die is opgelegd en een beknopte beschrijving van de feiten en omstandigheden waaronder het feit is begaan. Het verzoek bevat tevens een zo nauwkeurig mogelijk signalement van de veroordeelde. Onze Minister zendt de rechterlijke uitspraak en het certificaat zo spoedig mogelijk nadat hij het verzoek heeft gedaan, maar in ieder geval binnen een termijn van zeven dagen na de aanhouding van de veroordeelde of zoveel eerder als op aangeven van de bevoegde autoriteit van de uitvoerende lidstaat nodig is, aan de bevoegde autoriteit van de uitvoerende lidstaat.
+2. Indien het verzoek wordt gedaan voorafgaand aan de toezending van de rechterlijke uitspraak en het certificaat, bedoeld in [artikel 2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2:28&z=2013-01-01&g=2013-01-01), bevat het verzoek een vermelding van het strafbare feit waarop de rechterlijke uitspraak betrekking heeft, de vrijheidsbenemende sanctie die is opgelegd en een beknopte beschrijving van de feiten en omstandigheden waaronder het feit is begaan. Het verzoek bevat tevens een zo nauwkeurig mogelijk signalement van de veroordeelde. Onze Minister zendt de rechterlijke uitspraak en het certificaat zo spoedig mogelijk nadat hij het verzoek heeft gedaan, maar in ieder geval binnen een termijn van zeven dagen na de aanhouding van de veroordeelde of zoveel eerder als op aangeven van de bevoegde autoriteit van de uitvoerende lidstaat nodig is, aan de bevoegde autoriteit van de uitvoerende lidstaat.
 
 ##### Artikel 2:30. (intrekken certificaat)
 
@@ -487,9 +487,9 @@ Onze Minister stelt de bevoegde autoriteit van de uitvoerende lidstaat onverwijl
 
 ##### Artikel 2:37. (vervoer door de lucht)
 
-1. De toestemming van Onze Minister, bedoeld in [artikel 2:35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=4&artikel=2:35&z=2012-11-01&g=2012-11-01), is niet vereist voor vervoer door de lucht waarbij geen landing op Nederlands grondgebied wordt gemaakt.
+1. De toestemming van Onze Minister, bedoeld in [artikel 2:35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=4&artikel=2:35&z=2013-01-01&g=2013-01-01), is niet vereist voor vervoer door de lucht waarbij geen landing op Nederlands grondgebied wordt gemaakt.
 
-2. In geval van een onvoorziene landing op Nederlands grondgebied kan de veroordeelde, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier of hulpofficier van justitie. [Artikel 2:19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2012-11-01&g=2012-11-01), is van overeenkomstige toepassing.
+2. In geval van een onvoorziene landing op Nederlands grondgebied kan de veroordeelde, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier van justitie of hulpofficier van justitie. [Artikel 2:19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2:19&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Het vervoer van de voorlopig aangehouden veroordeelde kan worden voortgezet, zodra Onze Minister daartoe alsnog toestemming verleent. Is de toestemming na afloop van de termijn van inverzekeringstelling nog niet verleend, of binnen die termijn geweigerd, dan wordt de veroordeelde terstond in vrijheid gesteld, behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde.
 
@@ -505,11 +505,11 @@ Onze Minister stelt de bevoegde autoriteit van de uitvoerende lidstaat onverwijl
 
 - b. op grond waarvan een vrijheidsbenemende sanctie ten uitvoer is gelegd en aan de veroordeelde voorwaardelijke invrijheidstelling is verleend;
 
-- c. waarbij of op grond waarvan een verplichting als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2012-11-01&g=2012-11-01) is opgelegd, die door de veroordeelde moet worden nageleefd, bij gebreke waarvan een vrijheidsbenemende sanctie ten uitvoer kan worden gelegd.
+- c. waarbij of op grond waarvan een verplichting als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2013-01-01&g=2013-01-01) is opgelegd, die door de veroordeelde moet worden nageleefd, bij gebreke waarvan een vrijheidsbenemende sanctie ten uitvoer kan worden gelegd.
 
 - d. waarbij de oplegging van een sanctie aan de veroordeelde voorwaardelijk is opgeschort.
 
-2. Voor de toepassing van dit hoofdstuk wordt onder rechterlijke uitspraak mede begrepen een op grond van die uitspraak genomen beslissing waarbij verplichtingen als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2012-11-01&g=2012-11-01) aan een veroordeelde zijn opgelegd, voor zover niet uit enige bepaling het tegendeel volgt.
+2. Voor de toepassing van dit hoofdstuk wordt onder rechterlijke uitspraak mede begrepen een op grond van die uitspraak genomen beslissing waarbij verplichtingen als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2013-01-01&g=2013-01-01) aan een veroordeelde zijn opgelegd, voor zover niet uit enige bepaling het tegendeel volgt.
 
 ##### Artikel 3:2. (soorten verplichtingen)
 
@@ -557,7 +557,7 @@ Een in de uitvaardigende lidstaat gedane rechterlijke uitspraak kan worden erken
 
 - b. het openbaar ministerie heeft ingestemd met de toezending van de rechterlijke uitspraak, tenzij deze instemming niet vereist is; en
 
-- c. de rechterlijke uitspraak geen andere verplichtingen bestrijkt dan die op grond van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2012-11-01&g=2012-11-01) in Nederland ten uitvoer kunnen worden gelegd.
+- c. de rechterlijke uitspraak geen andere verplichtingen bestrijkt dan die op grond van [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:2&z=2013-01-01&g=2013-01-01) in Nederland ten uitvoer kunnen worden gelegd.
 
 ##### Artikel 3:5. (instemming openbaar ministerie niet vereist)
 
@@ -595,9 +595,9 @@ Het openbaar ministerie kan, al dan niet op verzoek van de veroordeelde, verzoek
 
 2. De beslissing van het openbaar ministerie kan slechts worden uitgesteld:
 
-- a. totdat een vertaling beschikbaar is als bedoeld in [artikel 3:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2012-11-01&g=2012-11-01);
+- a. totdat een vertaling beschikbaar is als bedoeld in [artikel 3:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2013-01-01&g=2013-01-01);
 
-- b. totdat binnen redelijke termijn is voldaan aan het verzoek, bedoeld in [artikel 3:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2012-11-01&g=2012-11-01);
+- b. totdat binnen redelijke termijn is voldaan aan het verzoek, bedoeld in [artikel 3:8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2013-01-01&g=2013-01-01);
 
 - c. indien het vanwege uitzonderlijke omstandigheden niet mogelijk is de termijn, bedoeld in het eerste lid, te halen.
 
@@ -605,15 +605,15 @@ Het openbaar ministerie kan, al dan niet op verzoek van de veroordeelde, verzoek
 
 ##### Artikel 3:10. (beslissing openbaar ministerie)
 
-1. Het openbaar ministerie erkent de rechterlijke uitspraak en geeft zo nodig toepassing aan [artikel 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:11&z=2012-11-01&g=2012-11-01), tenzij er gronden zijn om de erkenning te weigeren.
+1. Het openbaar ministerie erkent de rechterlijke uitspraak en geeft zo nodig toepassing aan [artikel 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:11&z=2013-01-01&g=2013-01-01), tenzij er gronden zijn om de erkenning te weigeren.
 
 2. Het openbaar ministerie stelt de bevoegde autoriteit van de uitvaardigende lidstaat onverwijld schriftelijk en met redenen omkleed in kennis van zijn beslissing op grond van het eerste lid.
 
-3. Het openbaar ministerie stelt eveneens de veroordeelde schriftelijk en met redenen omkleed in kennis van zijn beslissing op grond van het eerste lid. Indien het openbaar ministerie de rechterlijke uitspraak erkent, stelt het de veroordeelde in kennis van zijn beslissing, nadat de termijn, bedoeld in [artikel 3:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3:14&z=2012-11-01&g=2012-11-01), is verstreken of zoveel eerder als duidelijk is geworden dat de bevoegde autoriteit van de uitvaardigende lidstaat het certificaat niet intrekt.
+3. Het openbaar ministerie stelt eveneens de veroordeelde schriftelijk en met redenen omkleed in kennis van zijn beslissing op grond van het eerste lid. Indien het openbaar ministerie de rechterlijke uitspraak erkent, stelt het de veroordeelde in kennis van zijn beslissing, nadat de termijn, bedoeld in [artikel 3:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3:14&z=2013-01-01&g=2013-01-01), is verstreken of zoveel eerder als duidelijk is geworden dat de bevoegde autoriteit van de uitvaardigende lidstaat het certificaat niet intrekt.
 
 ##### Artikel 3:11. (aanpassing)
 
-1. Indien de aan de veroordeelde opgelegde verplichting, de proeftijd, de termijn waarbinnen de verplichting moet zijn uitgevoerd dan wel de vrijheidsbenemende sanctie die ten uitvoer kan worden gelegd indien de verplichting niet is nageleefd, een langere duur heeft dan de maximumduur die op grond van het Nederlandse recht is toegestaan, verlaagt het openbaar ministerie de duur tot dat maximum, met dien verstande dat in het geval, bedoeld in [artikel 3:1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2012-11-01&g=2012-11-01), de periode waarover in de uitvaardigende lidstaat voorwaardelijke invrijheidstelling is verleend, niet wordt aangepast.
+1. Indien de aan de veroordeelde opgelegde verplichting, de proeftijd, de termijn waarbinnen de verplichting moet zijn uitgevoerd dan wel de vrijheidsbenemende sanctie die ten uitvoer kan worden gelegd indien de verplichting niet is nageleefd, een langere duur heeft dan de maximumduur die op grond van het Nederlandse recht is toegestaan, verlaagt het openbaar ministerie de duur tot dat maximum, met dien verstande dat in het geval, bedoeld in [artikel 3:1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2013-01-01&g=2013-01-01), de periode waarover in de uitvaardigende lidstaat voorwaardelijke invrijheidstelling is verleend, niet wordt aangepast.
 
 2. Indien de aard van de aan de veroordeelde opgelegde verplichting, dan wel de vrijheidsbenemende sanctie die ten uitvoer kan worden gelegd, indien de verplichting niet is nageleefd, onverenigbaar is met het Nederlandse recht, past het openbaar ministerie deze zodanig aan dat tenuitvoerlegging in Nederland mogelijk is op een wijze die zoveel mogelijk overeenstemt met de in de uitvaardigende lidstaat opgelegde verplichting dan wel vrijheidsbenemende sanctie.
 
@@ -623,9 +623,9 @@ Het openbaar ministerie kan, al dan niet op verzoek van de veroordeelde, verzoek
 
 1. Het openbaar ministerie weigert de erkenning van de rechterlijke uitspraak indien:
 
-- a. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de rechterlijke uitspraak en niet binnen redelijke termijn aan het verzoek, bedoeld in [artikel 3:8., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2012-11-01&g=2012-11-01), is voldaan;
+- a. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de rechterlijke uitspraak en niet binnen redelijke termijn aan het verzoek, bedoeld in [artikel 3:8., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:8&z=2013-01-01&g=2013-01-01), is voldaan;
 
-- b. niet is voldaan aan de voorwaarden voor erkenning, bedoeld in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:4&z=2012-11-01&g=2012-11-01);
+- b. niet is voldaan aan de voorwaarden voor erkenning, bedoeld in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:4&z=2013-01-01&g=2013-01-01);
 
 - c. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf jaren nog niet had bereikt;
 
@@ -675,17 +675,17 @@ Het openbaar ministerie kan, al dan niet op verzoek van de veroordeelde, verzoek
 
 1. Nadat de rechterlijke uitspraak is erkend, draagt het openbaar ministerie er zorg voor dat deze zo spoedig mogelijk, overeenkomstig de regels van het Nederlandse recht en met inachtneming van de erkenningsbeslissing, ten uitvoer wordt gelegd.
 
-2. Met de tenuitvoerlegging van de rechterlijke uitspraak wordt niet begonnen dan nadat tien dagen zijn verstreken na de kennisgeving aan de bevoegde autoriteit in de uitvaardigende lidstaat, bedoeld in [artikel 3:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2012-11-01&g=2012-11-01), tenzij deze autoriteit vóór het verstrijken van deze termijn heeft aangegeven het certificaat niet in te trekken.
+2. Met de tenuitvoerlegging van de rechterlijke uitspraak wordt niet begonnen dan nadat tien dagen zijn verstreken na de kennisgeving aan de bevoegde autoriteit in de uitvaardigende lidstaat, bedoeld in [artikel 3:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2013-01-01&g=2013-01-01), tenzij deze autoriteit vóór het verstrijken van deze termijn heeft aangegeven het certificaat niet in te trekken.
 
 3. Voor zover de opdracht hiertoe niet reeds uit de rechterlijke uitspraak voortvloeit, kan het openbaar ministerie aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de aan de veroordeelde opgelegde verplichtingen en hem ten behoeve daarvan te begeleiden.
 
-4. De proeftijd vangt aan op de dag van de kennisgeving, bedoeld in [artikel 3:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2012-11-01&g=2012-11-01). De proeftijd wordt verkort met de tijd dat deze in de uitvaardigende lidstaat heeft gelopen.
+4. De proeftijd vangt aan op de dag van de kennisgeving, bedoeld in [artikel 3:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2013-01-01&g=2013-01-01). De proeftijd wordt verkort met de tijd dat deze in de uitvaardigende lidstaat heeft gelopen.
 
 5. In afwijking van [artikel 14f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14f) is de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen bevoegd tot het nemen van de in dat artikel genoemde beslissingen. In afwijking van [artikel 14g, derde lid, eerste volzin, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14g) is tot behandeling van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.
 
 6. In afwijking van [artikel 15i, derde lid, eerste volzin, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=15i) is tot kennisneming van de vordering bevoegd de rechtbank in het arrondissement waar toezicht wordt gehouden op de naleving van de aan de veroordeelde opgelegde verplichtingen.
 
-7. Indien de erkenning ertoe strekt dat een taakstraf ten uitvoer wordt gelegd, vangt de termijn, bedoeld in [artikel 22c, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22c), aan op de dag van de kennisgeving, bedoeld in [artikel 3:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2012-11-01&g=2012-11-01).
+7. Indien de erkenning ertoe strekt dat een taakstraf ten uitvoer wordt gelegd, vangt de termijn, bedoeld in [artikel 22c, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22c), aan op de dag van de kennisgeving, bedoeld in [artikel 3:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:10&z=2013-01-01&g=2013-01-01).
 
 8. In afwijking van de [artikelen 22f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22f), en [22g, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22g) wordt het bezwaarschrift ingediend bij de rechtbank in het arrondissement waar de tenuitvoerlegging van de taakstraf plaatsvindt.
 
@@ -693,9 +693,9 @@ Het openbaar ministerie kan, al dan niet op verzoek van de veroordeelde, verzoek
 
 1. De tenuitvoerlegging van de rechterlijke uitspraak strekt niet verder dan het houden van toezicht op de naleving van de aan de veroordeelde opgelegde verplichtingen, indien:
 
-- a. de erkenning een rechterlijke uitspraak als bedoeld in [artikel 3:1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2012-11-01&g=2012-11-01), betreft en in de uitspraak geen vrijheidsbenemende sanctie is bepaald die ten uitvoer kan worden gelegd indien een verplichting niet is nageleefd;
+- a. de erkenning een rechterlijke uitspraak als bedoeld in [artikel 3:1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2013-01-01&g=2013-01-01), betreft en in de uitspraak geen vrijheidsbenemende sanctie is bepaald die ten uitvoer kan worden gelegd indien een verplichting niet is nageleefd;
 
-- b. de erkenning een rechterlijke uitspraak als bedoeld in [artikel 3:1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2012-11-01&g=2012-11-01), betreft.
+- b. de erkenning een rechterlijke uitspraak als bedoeld in [artikel 3:1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=1&artikel=3:1&z=2013-01-01&g=2013-01-01), betreft.
 
 2. Indien het openbaar ministerie van oordeel is dat een aan de veroordeelde opgelegde verplichting niet is nageleefd of de veroordeelde verdenkt van het plegen van een nieuw strafbaar feit, stelt het openbaar ministerie de bevoegde autoriteit van de uitvaardigende lidstaat daarvan onverwijld in kennis door middel van het formulier dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model.
 
@@ -767,7 +767,7 @@ Toezending van de rechterlijke uitspraak kan zonder de instemming van de bevoegd
 
 1. Zolang de tenuitvoerlegging van de rechterlijke uitspraak in de uitvoerende lidstaat niet is aangevangen, kan het openbaar ministerie het certificaat intrekken naar aanleiding van:
 
-- a. de informatie, bedoeld in [artikel 3:20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3:20&z=2012-11-01&g=2012-11-01);
+- a. de informatie, bedoeld in [artikel 3:20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3:20&z=2013-01-01&g=2013-01-01);
 
 - b. de kennisgeving betreffende de beslissing van de bevoegde autoriteit van de uitvoerende lidstaat tot aanpassing van de aan de veroordeelde opgelegde verplichtingen, de proeftijd, de termijn waarbinnen de verplichting moet zijn uitgevoerd dan wel de vrijheidsbenemende sanctie die ten uitvoer kan worden gelegd indien de verplichting niet is nageleefd.
 
@@ -829,7 +829,7 @@ Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn d
 
 2. Het eerste lid is niet van toepassing in relatie tot een andere lidstaat van de Europese Unie voor zover en voor zolang die lidstaat niet de maatregelen heeft getroffen die noodzakelijk zijn om te voldoen aan het kaderbesluit 2008/909/JBZ van de Raad van de Europese Unie van 27 november 2008 inzake de toepassing van het beginsel van wederzijdse erkenning op strafvonnissen waarbij vrijheidsstraffen of tot vrijheidsbeneming strekkende maatregelen zijn opgelegd, met het oog op tenuitvoerlegging ervan in de Europese Unie (PbEU L 327) of het kaderbesluit 2008/947/JBZ van de Raad van de Europese Unie van 27 november 2008 inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en proeftijdbeslissingen met het oog op het toezicht op proeftijdvoorwaarden en alternatieve straffen (PbEU L 337).
 
-3. Deze wet is niet van toepassing op rechterlijke uitspraken als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=1&artikel=2:1&z=2012-11-01&g=2012-11-01) die voor 5 december 2011 onherroepelijk zijn geworden.
+3. Deze wet is niet van toepassing op rechterlijke uitspraken als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&hoofdstuk=2&afdeling=1&artikel=2:1&z=2013-01-01&g=2013-01-01) die voor 5 december 2011 onherroepelijk zijn geworden.
 
 4. Deze wet is van toepassing indien de garantie van teruglevering, bedoeld in [artikel 6, eerste lid, van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=6), voor de inwerkingtreding van deze wet is gegeven, maar de teruglevering plaatsvindt na de inwerkingtreding van deze wet.
 
