@@ -4,7 +4,7 @@ identifier: "BWBR0002074"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-10-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002074"
 soort: "wet"
@@ -48,9 +48,9 @@ Elke plaats in gebruik bij de staat of bij een staatsbedrijf kan ter bescherming
 
 ##### Artikel II
 
-1. Elke plaats, waar krachtens overeenkomst met de staat werkzaamheden worden verricht of goederen worden bewaard, die van belang zijn voor de veiligheid van de staat, kan ter bescherming van gegevens als bedoeld in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=I&z=2010-10-10&g=2010-10-10) voor het tijdvak, waarin de werkzaamheden worden verricht of de goederen worden bewaard, door Ons als verboden plaats worden aangewezen.
+1. Elke plaats, waar krachtens overeenkomst met de staat werkzaamheden worden verricht of goederen worden bewaard, die van belang zijn voor de veiligheid van de staat, kan ter bescherming van gegevens als bedoeld in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=I&z=2013-01-01&g=2013-01-01) voor het tijdvak, waarin de werkzaamheden worden verricht of de goederen worden bewaard, door Ons als verboden plaats worden aangewezen.
 
-2. Een aanwijzing als bedoeld in het voorgaande lid vindt buiten de in [artikel III, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=III&z=2010-10-10&g=2010-10-10), bedoelde buitengewone omstandigheden niet plaats, tenzij het voornemen daartoe vóór het tot stand komen van de overeenkomst van regeringswege aan de wederpartij is medegedeeld dan wel de wederpartij na het tot stand komen van de overeenkomst verklaart tegen zodanige aanwijzing geen bezwaar te hebben.
+2. Een aanwijzing als bedoeld in het voorgaande lid vindt buiten de in [artikel III, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=III&z=2013-01-01&g=2013-01-01), bedoelde buitengewone omstandigheden niet plaats, tenzij het voornemen daartoe vóór het tot stand komen van de overeenkomst van regeringswege aan de wederpartij is medegedeeld dan wel de wederpartij na het tot stand komen van de overeenkomst verklaart tegen zodanige aanwijzing geen bezwaar te hebben.
 
 ##### Artikel IIA
 
@@ -72,7 +72,9 @@ Onder de veiligheid van de Staat wordt in de voorgaande artikelen mede verstaan 
 
 ##### Artikel III A
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+Elk werk van openbaar verkeer en elk werk van openbaar nut kan ter bescherming van gegevens als bedoeld in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=I&z=2013-01-01&g=2013-01-01) bij koninklijk besluit of door bij algemene maatregel van bestuur aan te wijzen autoriteiten als verboden plaats worden aangewezen.
 
 ##### Artikel IV
 
@@ -80,7 +82,7 @@ Bij elk besluit, waarbij een plaats als verboden plaats wordt aangewezen, wordt 
 
 ##### Artikel V
 
-1. Hij die ingevolge enige wettelijke bepaling bevoegd is enige plaats tegen de wil van de rechthebbende te betreden, oefent deze bevoegdheid met betrekking tot een plaats, die ingevolge deze wet als verboden plaats is aangewezen, niet uit dan voorzover hij daartoe schriftelijk is gemachtigd door de advocaat-generaal bij het gerechtshof.
+1. Hij die ingevolge enige wettelijke bepaling bevoegd is enige plaats tegen de wil van de rechthebbende te betreden, oefent deze bevoegdheid met betrekking tot een plaats, die ingevolge deze wet als verboden plaats is aangewezen, niet uit dan voorzover hij daartoe schriftelijk is gemachtigd door de advocaat-generaal bij het ressortsparket.
 
 2. Het voorgaande lid is niet van toepassing op hem, die als officier van justitie, als rechter-commissaris of ingevolge de wet van 23 Mei 1899, **Staatsblad** n°. 128, bevoegd is enige plaats tegen de wil van de rechthebbende te betreden.
 
@@ -104,6 +106,6 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel Va
 
-Deze wet is mede van toepassing op Bonaire, Sint Eustatius en Saba, met dien verstande dat de schriftelijke machtiging, bedoeld in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=V&z=2010-10-10&g=2010-10-10), wordt verleend door de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba.
+Deze wet is mede van toepassing op Bonaire, Sint Eustatius en Saba, met dien verstande dat de schriftelijke machtiging, bedoeld in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=V&z=2013-01-01&g=2013-01-01), wordt verleend door de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
