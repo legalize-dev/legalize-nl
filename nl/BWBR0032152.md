@@ -4,7 +4,7 @@ identifier: "BWBR0032152"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-04"
-last_updated: "2012-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032152"
 soort: "AMvB"
@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I. Wijziging [Besluit participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit participatiebudget.
 
 ##### Artikel II. Wijziging [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit WEB.
 
 ##### Artikel III. Wijziging [Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit referentieniveaus Nederlandse taal en rekenen.
 
 ##### Artikel IV. Wijziging [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)
 
@@ -64,14 +64,18 @@ Wijzigt het Staatsexamenbesluit Nederlands als tweede taal.
 
 ##### Artikel V. Overgangsbepaling verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2009 tot en met 2012
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&artikel=1) en [3 van het Besluit participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&artikel=3) zoals luidend op 31 december 2012 blijven van toepassing op uitkeringen over de jaren 2009 tot en met 2012 en daarop betrekking hebbende geschillen.
 
 ##### Artikel VI. Overgangsbepaling examengeld staatsexamen Nederlands als tweede taal
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5) zoals luidend voor de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013.
 
 ##### Artikel VII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt met uitzondering van [artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-01-01&g=2013-01-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) in werking met ingang van 1 januari 2013.
+
+2. [Artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-01-01&g=2013-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot een in dat besluit te bepalen tijdstip.
+
+3. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
