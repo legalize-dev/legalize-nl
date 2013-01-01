@@ -4,7 +4,7 @@ identifier: "BWBR0009771"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "1998-08-12"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009771"
 soort: "ministeriele-regeling"
@@ -57,15 +57,15 @@ Gelet op [artikel 9 Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.
 
 1. De hoofdofficier van justitie draagt er zorg voor dat de uit infiltratie verkregen ontvangsten worden afgedragen aan het Korps Landelijke Politiediensten, divisie CRI, ANCPI.
 
-2. De korpschef van het Korps Landelijke Politie Diensten doet de uit infiltratie verkregen ontvangsten aan de Justitiebegroting (artikel 01.02 geheime ontvangsten) ter beschikking stellen. Hij bedient zich hiervoor van de ANCPI.
+2. De korpschef van het Korps Landelijke Politie Diensten doet de uit infiltratie verkregen ontvangsten aan de begroting Veiligheid en Justitie (artikel 01.02 geheime ontvangsten) ter beschikking stellen. Hij bedient zich hiervoor van de ANCPI.
 
-3. De directeur-generaal Rechtshandhaving is verantwoordelijk voor het beheer van de onder dit begrotingsartikel vallende gelden. Hiertoe draagt deze zorg voor een adequate registratie en voor een financiële verantwoording.
+3. De directeur-generaal Rechtspleging en Rechtshandhaving is verantwoordelijk voor het beheer van de onder dit begrotingsartikel vallende gelden. Hiertoe draagt deze zorg voor een adequate registratie en voor een financiële verantwoording.
 
 4. Verrekening van criminele ontvangsten met gedane uitgaven is op geen enkele wijze toegestaan.
 
 ##### Artikel 5. Controle DADJ
 
-1. De Departementale Accountants Dienst van het Ministerie van Justitie (DADJ) draagt zorg voor een accountantscontrole na afloop van de evaluatie als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009771&artikel=3&z=1998-08-12&g=1998-08-12).
+1. De Departementale Accountants Dienst van het Ministerie van Veiligheid en Justitie (DADJ) draagt zorg voor een accountantscontrole na afloop van de evaluatie als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009771&artikel=3&z=2013-01-01&g=2013-01-01).
 
 2. Slechts adequaat gescreende register-accountants hebben de bevoegdheid de controles als bedoeld in lid 1 uit te voeren.
 
