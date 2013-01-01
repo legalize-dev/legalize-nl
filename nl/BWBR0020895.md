@@ -4,7 +4,7 @@ identifier: "BWBR0020895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2008-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020895"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 - b. een toelichting op de aanvraag tot verplichtstelling;
 
-- c. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- c. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - d. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel c, in viervoud;
 
-- e. een digitale tekst van de integrale beroepspensioenregeling op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- e. een digitale tekst van de integrale beroepspensioenregeling, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - f. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel e, in viervoud;
 
@@ -64,7 +64,7 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag van de verplichtstelling betrekking heeft; en
 
-- h. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel g, die in ieder geval het volgende bevat:
+- h. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel g, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel g, onder 1° en 2°;
 
@@ -78,7 +78,9 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 ##### Artikel 2. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingediende zienswijzen daartoe aanleiding geven, wordt van de aanvrager een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in artikel 1, onderdeel h, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
 
@@ -88,7 +90,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 - b. een toelichting op de aanvraag tot wijziging van de verplichtstelling;
 
-- c. een digitale tekst van de integrale omschrijving van de werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste wijziging, op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- c. een digitale tekst van de integrale omschrijving van de werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste wijziging, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - d. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel c, in viervoud;
 
@@ -98,7 +100,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot wijziging van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft; en
 
-- f. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel e, die in ieder geval het volgende bevat:
+- f. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel e, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel e, onder 1° en 2°;
 
@@ -112,7 +114,9 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 ##### Artikel 4. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigd van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen wijziging van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen als bedoeld in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen wijziging van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 5. Aanvraag tot intrekking van de verplichtstelling
 
@@ -128,7 +132,7 @@ Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wette
 
 - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot intrekking van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft; en
 
-- d. een toelichting op de wijze van verzameling van de representativiteitgegevens, die in ieder geval het volgende bevat:
+- d. een toelichting op de wijze van verzameling van de representativiteitgegevens, waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens, dat als bijlage bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
 - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel c, onder 1° en 2°;
 
@@ -142,7 +146,7 @@ Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wette
 
 2. Onverminderd het eerste lid, bevat de aanvraag tot intrekking van de verplichtstelling voor één of meer bepaalde groepen van beroepsgenoten, bedoeld in [artikel 13, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), tevens:
 
-- a. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste intrekking van de verplichtstelling voor één of meer bepaalde groepen van beroepsgenoten, op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
+- a. een digitale tekst van de integrale omschrijving van de gewenste werkingssfeer van de verplichtstelling zoals deze zou komen te luiden na de gewenste intrekking van de verplichtstelling voor één of meer bepaalde groepen van beroepsgenoten, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur;
 
 - b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, in viervoud; en
 
@@ -150,7 +154,9 @@ Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wette
 
 ##### Artikel 6. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen intrekking van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen intrekking van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+
+2. De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 7. Aanvraag tot ontheffing
 
@@ -170,15 +176,15 @@ Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](h
 
 ##### Artikel 8. Behandeling aanvragen
 
-De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=7&z=2008-01-01&g=2008-01-01) worden eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvragen zijn gevoegd.
+De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=7&z=2013-01-01&g=2013-01-01) worden eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvragen zijn gevoegd.
 
 ##### Artikel 9. Termijnen
 
-1. Onze Minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van de verplichtstelling.
+1. De Minister van Sociale Zaken en Werkgelegenheid beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van de verplichtstelling.
 
 2. Indien in verband met het nemen van een besluit als bedoeld in het eerste lid informatie of advies is gevraagd aan een persoon of instantie kan de termijn, bedoeld in het eerste lid, ten hoogste twee maal worden verlengd met een periode van maximaal dertien weken en worden verzoekende partijen van deze verlenging schriftelijk in kennis gesteld.
 
-3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van Onze Minister of De Nederlandsche Bank N.V. om aanvullende informatie dan wel binnen zes weken in geval van een verzoek van De Nederlandsche Bank N.V. om wijziging van statuten of reglementen, wordt de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de Minister van Sociale Zaken en Werkgelegenheid of De Nederlandsche Bank om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van De Nederlandsche Bank om wijziging van statuten of reglementen, krijgen zij vier weken om alsnog te reageren. Indien ook na deze periode niet of niet volledig is gereageerd wordt de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01) niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
 
 #### Paragraaf 2. Gemoedsbezwaren
 
@@ -190,7 +196,7 @@ De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 11. Indienen van de aanvraag
 
-1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=10&z=2008-01-01&g=2008-01-01) bedoelde verklaring wordt ingediend bij de pensioenuitvoerder.
+1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01) bedoelde verklaring wordt ingediend bij de pensioenuitvoerder.
 
 2. De pensioenuitvoerder onderzoekt of de verklaring overeenkomstig de waarheid is.
 
@@ -208,7 +214,7 @@ De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschu
 
 ##### Artikel 14. Spaarrekening
 
-1. De op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=13&z=2008-01-01&g=2008-01-01) betaalde spaarbijdragen worden door of namens de pensioenuitvoerder geboekt op een de persoon die een ontheffing heeft betreffende spaarrekening.
+1. De op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=13&z=2013-01-01&g=2013-01-01) betaalde spaarbijdragen worden door of namens de pensioenuitvoerder geboekt op een de persoon die een ontheffing heeft betreffende spaarrekening.
 
 2. In de beroepspensioenregeling wordt aangegeven in welke gevallen en tot welke bedragen de persoon die een ontheffing heeft gerechtigd is gelden van de spaarbijdragen op te nemen.
 
@@ -241,5 +247,21 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling verplichtstelling beroepspensioenregeling.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a. Elektronische verzending
+
+1. Indien de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de door de Minister van Sociale Zaken en Werkgelegenheid ter beschikking gestelde elektronische formulieren en de door hem erkende elektronische handtekening.
+
+2. Bij elektronische verzending van de aanvraag als bedoeld in het eerste lid is [artikel 1, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), of [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), niet van toepassing
+
+3. De Minister van Sociale Zaken en Werkgelegenheid zorgt voor de voor elektronische aanvragen noodzakelijke elektronische infrastructuur met behulp waarvan die aanvragen betrouwbaar en vertrouwelijk kunnen worden verzonden.
+
+#### Paragraaf 2. Gemoedsbezwaren
+
+## Bijlage
+
+Ligt ter inzage bij de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW) van het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op szw.cao.nl.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
