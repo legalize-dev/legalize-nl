@@ -4,7 +4,7 @@ identifier: "BWBR0001875"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2008-12-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001875"
 soort: "wet"
@@ -42,7 +42,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-Als de autoriteit, die, overeenkomstig de voorschriften van het op 17 Juli 1905 te 's-Gravenhage gesloten en bij de wet van den 15den Juli 1907 (**Staatsblad** n°. 197) goedgekeurd verdrag betreffende de burgerlijke rechtsvordering, zorg draagt voor de mededeeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de arrondissements-rechtbank binnen welker rechtsgebied de mededeeling verlangd wordt.
+Als de autoriteit, die, overeenkomstig de voorschriften van het op 17 Juli 1905 te 's-Gravenhage gesloten en bij de wet van den 15den Juli 1907 (**Staatsblad** n°. 197) goedgekeurd verdrag betreffende de burgerlijke rechtsvordering, zorg draagt voor de mededeeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de rechtbank binnen welker rechtsgebied de mededeeling verlangd wordt.
 
 ##### Artikel 2
 
@@ -50,13 +50,13 @@ Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is
 
 ##### Artikel 3
 
-1. De ontvangbewijzen en verklaringen, bedoeld in artikel 5 van het verdrag, af te geven ter zake van de mededeeling van stukken, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=1&z=2008-12-01&g=2008-12-01) dezer wet bedoeld, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt gewenscht, kosteloos geregistreerd. Is de mededeeling ingevolge artikel 3 van het verdrag geschied bij beteekening door een deurwaarder, dan is het exploit van beteekening vrij van zegel en wordt het kosteloos geregistreerd.
+1. De ontvangbewijzen en verklaringen, bedoeld in artikel 5 van het verdrag, af te geven ter zake van de mededeeling van stukken, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=1&z=2013-01-01&g=2013-01-01) dezer wet bedoeld, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt gewenscht, kosteloos geregistreerd. Is de mededeeling ingevolge artikel 3 van het verdrag geschied bij beteekening door een deurwaarder, dan is het exploit van beteekening vrij van zegel en wordt het kosteloos geregistreerd.
 
 2. Artikel 8 der wet van 3 October 1843 (**Staatsblad** n°. 47) en artikel 42 der wet van 22 Frimaire, jaar VII, zijn niet van toepassing op deze ontvangbewijzen, verklaringen en exploiten. Gemeld artikel 8 blijft van toepassing, wanneer de mededeeling betreft hier te lande opgemaakte stukken, welke dadelijk op gezegeld papier hadden moeten zijn gesteld, doch die niet of niet behoorlijk van zegel zijn voorzien.
 
 ##### Artikel 4
 
-1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededeelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze, aangegeven bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=6&z=2008-12-01&g=2008-12-01) dezer wet, en met dien verstande, dat, indien het exploit een rechtsgeding betreft, te voeren of aanhangig voor den Hoogen Raad, het zal gedaan worden aan den officier van justitie bij de rechtbank te 's-Gravenhage; voor een gerechtshof, aan den officier van justitie ter plaatse waar de zetel is van dat gerechtshof; voor een kantonrechter, aan den officier van justitie bij de desbetreffende rechtbank.
+1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededeelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze, aangegeven bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=6&z=2013-01-01&g=2013-01-01) dezer wet, en met dien verstande, dat, indien het exploit een rechtsgeding betreft, te voeren of aanhangig voor den Hoogen Raad, het zal gedaan worden aan de officier van justitie bij het arrondissementsparket Den Haag; voor een gerechtshof, aan de advocaat-generaal bij het ressortsparket; voor een kantonrechter, aan de officier van justitie bij het desbetreffende arrondissementsparket.
 
 2. Behalve de vereischten, bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) voor het exploit gesteld, zal daarbij worden vermeld het beroep of de maatschappelijke betrekking der partijen, zoomede het adres van dengene, aan wien de mededeeling wordt verlangd. Tevens wordt vermeld, dat het exploit overeenkomstig het verdrag moet worden medegedeeld, met opgave of verlangd wordt:
 
@@ -78,7 +78,7 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 1. De officier van justitie zendt de stukken onverwijld aan den betrokken Nederlandschen diplomatieken of consulairen ambtenaar. Is het exploit of het afzonderlijk stuk vergezeld van eene vertaling in eene der talen, bedoeld bij artikel 3 van het verdrag, dan verzoekt de officier van justitie den diplomatieken of consulairen ambtenaar, zoo de vertaling niet voor overeenstemmend is verklaard door een beëedigd vertaler in het land van bestemming, zelf die vertaling voor overeenstemmend te verklaren.
 
-2. Indien niet voldaan is aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2008-12-01&g=2008-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=5&z=2008-12-01&g=2008-12-01) dezer wet, weigert de officier van justitie de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van die artikelen zooveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=5&z=2013-01-01&g=2013-01-01) dezer wet, weigert de officier van justitie de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van die artikelen zooveel mogelijk te bevorderen.
 
 3. De diplomatieke of consulaire ambtenaar doet onverwijld de stukken, na, zoo noodig, aan het bij de tweede zinsnede van dit artikel bedoeld verzoek te hebben voldaan, aan de bevoegde autoriteit toekomen; de diplomatieke ambtenaar doet zulks door tusschenkomst van den bevoegden consulairen ambtenaar.
 
@@ -94,7 +94,7 @@ Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eisch
 
 ##### Artikel 9
 
-Een exploit, gedaan overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2008-12-01&g=2008-12-01) dezer wet, zal niet kunnen worden nietig verklaard op grond, dat daarbij niet zijn in acht genomen die bepalingen van [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), waarvan bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2008-12-01&g=2008-12-01) dezer wet is afgeweken.
+Een exploit, gedaan overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2013-01-01&g=2013-01-01) dezer wet, zal niet kunnen worden nietig verklaard op grond, dat daarbij niet zijn in acht genomen die bepalingen van [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), waarvan bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2013-01-01&g=2013-01-01) dezer wet is afgeweken.
 
 #### Rogatoire commissiën aan den Nederlandschen rechter opgedragen
 
@@ -198,23 +198,23 @@ De rechter stelt bij zijn vonnis den dag vast, waarop de zaak weder ter rolle za
 
 ##### Artikel 26
 
-1. Onze voornoemde Minister zendt de stukken, in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2008-12-01&g=2008-12-01) dezer wet genoemd, langs den weg, in artikel 18 van het verdrag vermeld, aan de bevoegde autoriteit van den Staat, waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van eene bevestiging, overeenkomstig artikel 19, derde lid, van het verdrag, en eene vertaling daarvan in eene der talen, bedoeld in artikel 19, tweede lid, sub 3°. van het verdrag. Deze vertaling is voor overeenstemmend verklaard door een beëedigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëedigd vertaler in Nederland.
+1. Onze voornoemde Minister zendt de stukken, in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2013-01-01&g=2013-01-01) dezer wet genoemd, langs den weg, in artikel 18 van het verdrag vermeld, aan de bevoegde autoriteit van den Staat, waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van eene bevestiging, overeenkomstig artikel 19, derde lid, van het verdrag, en eene vertaling daarvan in eene der talen, bedoeld in artikel 19, tweede lid, sub 3°. van het verdrag. Deze vertaling is voor overeenstemmend verklaard door een beëedigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëedigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2008-12-01&g=2008-12-01) dezer wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van dat artikel zooveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2013-01-01&g=2013-01-01) dezer wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van dat artikel zooveel mogelijk te bevorderen.
 
 ##### Artikel 27
 
-De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag geschiedt in Nederland door de arrondissements-rechtbank van de woonplaats, van dengene, tegen wien de uitspraak is gewezen, of, zoo van eene woonplaats in Nederland niet blijkt, door de arrondissements-rechtbank, door Onzen voornoemden Minister aan te wijzen.
+De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag geschiedt in Nederland door de rechtbank van de woonplaats, van dengene, tegen wien de uitspraak is gewezen, of, zoo van eene woonplaats in Nederland niet blijkt, door de rechtbank, door Onzen voornoemden Minister aan te wijzen.
 
 ##### Artikel 28
 
-1. De arrondissements-rechtbank doet zoo spoedig mogelijk uitspraak en zendt onverwijld expeditie van hare beschikking aan Onzen voornoemden Minister, die deze langs diplomatieken weg aan de verzoekende partij doet toekomen.
+1. De rechtbank doet zoo spoedig mogelijk uitspraak en zendt onverwijld expeditie van hare beschikking aan Onzen voornoemden Minister, die deze langs diplomatieken weg aan de verzoekende partij doet toekomen.
 
 2. Hetzelfde geldt in geval van hooger beroep of cassatie voor het gerechtshof of den Hoogen Raad.
 
 ##### Artikel 29
 
-1. Hooger beroep van de afwijzende beschikking der arrondissements-rechtbank, en beroep in cassatie van zoodanige beschikking van het gerechtshof kunnen worden ingesteld door de verzoekende partij binnen ééne maand na den dag waarop de expeditie dier beschikking aan Onzen Minister van Justitie is toegezonden.
+1. Hooger beroep van de afwijzende beschikking der rechtbank, en beroep in cassatie van zoodanige beschikking van het gerechtshof kunnen worden ingesteld door de verzoekende partij binnen ééne maand na den dag waarop de expeditie dier beschikking aan Onzen Minister van Justitie is toegezonden.
 
 2. De instelling van hooger beroep of beroep in cassatie geschiedt door eene daartoe strekkende schriftelijke mededeeling aan Onzen voornoemden Minister. Deze mededeeling bevat de gronden of middelen, waarop het beroep steunt.
 
@@ -224,7 +224,7 @@ De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het 
 
 ##### Artikel 30
 
-1. Hooger beroep van de beschikking der arrondissements-rechtbank, waarbij de uitspraak is uitvoerbaar verklaard, en beroep in cassatie van zoodanige beschikking van het gerechtshof, kunnen worden ingesteld binnen veertien dagen na beteekening door eene daartoe strekkende schriftelijke verklaring ter griffie van het college, dat de beschikking heeft genomen.
+1. Hooger beroep van de beschikking der rechtbank, waarbij de uitspraak is uitvoerbaar verklaard, en beroep in cassatie van zoodanige beschikking van het gerechtshof, kunnen worden ingesteld binnen veertien dagen na beteekening door eene daartoe strekkende schriftelijke verklaring ter griffie van het college, dat de beschikking heeft genomen.
 
 2. De gronden of middelen, waarop het beroep steunt, worden in de verklaring opgenomen, of uiteengezet in een nader verzoekschrift, binnen veertien dagen na aanteekening van het beroep te richten tot het college, dat van het beroep heeft kennis te nemen.
 
