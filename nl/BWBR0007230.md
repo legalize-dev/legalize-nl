@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -64,7 +64,11 @@ Hebben goedgevonden en verstaan:
 
 - e. verwerkbare gegevens: gegevens voor de afnemers die voldoen aan de door de Waarderingskamer vastgestelde kwaliteitseisen;
 
-- f. belastingen: belastingen geheven door het Rijk, de gemeenten en de waterschappen.
+- f. belastingen: belastingen geheven door het Rijk, de gemeenten en de waterschappen;
+
+- g. Dienst: Dienst voor het kadaster en de openbare registers als genoemd in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+
+- h. landelijke voorziening WOZ: een geautomatiseerde voorziening die gehouden wordt door de Dienst, waarin de gegevens uit de door de gemeenten gehouden basisregistratie WOZ zijn opgenomen.
 
 ### Hoofdstuk 2. Kostenverrekening
 
@@ -74,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 2. De kosten van de waardering komen ten laste van de afnemers.
 
-3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 23 659 134 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
+3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 23 659 134 Per 1-1-2013: € 24 345 249.voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
 
 4. Ingeval het in het derde lid genoemde bedrag hoger is dan € 21 810 013, wordt het verschil toegevoegd aan de algemene middelen van het Rijk.
 
@@ -82,11 +86,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2012-01-01&g=2012-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -104,15 +108,27 @@ Vervallen
 
 ##### Artikel 5
 
-1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=12&z=2012-01-01&g=2012-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
+1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
 
 2. De afnemers voldoen hun aandeel in de begrote kosten binnen vier weken.
 
-3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=13&z=2012-01-01&g=2012-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
+3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), vindt de definitieve kostenverrekening plaats.
 
 ##### Artikel 6
 
-Vervallen
+1. De kosten van de landelijke voorziening WOZ komen ten laste van de afnemers. Het Rijk betaalt 40 percent, de gemeenten 45 percent en de waterschappen 15 percent.
+
+2. De Waarderingskamer draagt zorg voor de verrekening van de vergoeding van de kosten van de landelijke voorziening WOZ door de afnemers met de Dienst.
+
+3. De begroting voor de kosten van de landelijke voorziening WOZ wordt uiterlijk vastgesteld door de Waarderingskamer op 30 november van het jaar dat voorafgaat aan het jaar waarop die kosten betrekking hebben.
+
+4. Het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ wordt overgeheveld met een structurele uitname uit het gemeentefonds.
+
+5. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+
+6. Het Rijk voldoet zijn aandeel in de begrote kosten binnen vier weken na vaststelling van de begroting aan de Waarderingskamer.
+
+7. Na de goedkeuring door Onze Minister van de jaarrekening van de landelijke voorziening zoals opgemaakt door de Dienst, vindt de definitieve kostenverrekening plaats.
 
 ### Hoofdstuk 3. Gegevensbeheer
 
@@ -128,19 +144,23 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2012-01-01&g=2012-01-01) bedoelde gegevens aan de afnemers.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01) bedoelde gegevens aan de afnemers of aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ. Met de levering van de in artikel 7 bedoelde gegevens aan de Dienst heeft het college van burgemeester en wethouders aan de leveringsplicht richting de afnemers voldaan.
 
-2. De levering van gegevens aan de afnemers vindt plaats:
+2. De levering van gegevens aan de afnemers of aan de Dienst vindt plaats:
 
 - a. ter zake van een beschikking als bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22) en [26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=26): binnen acht weken na de aanvang van het eerste kalenderjaar waarvoor die beschikking geldt;
 
 - b. ter zake van een beschikking als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=28) en [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=29): binnen vier weken na de vaststelling van de beschikking, met dien verstande dat gegevens betreffende een beschikking die is verminderd krachtens een beslissing op een bezwaarschrift of een rechterlijke uitspraak, worden geleverd binnen twee weken nadat die uitspraak onherroepelijk is komen vast te staan.
 
-3. Het college van burgemeester en wethouders stelt de afnemers binnen vier weken op de hoogte van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en de invordering van hun belastingen.
+3. Ingeval het college van burgemeester en wethouders de gegevens levert aan de afnemers, worden de afnemers binnen vier weken op de hoogte gebracht van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en invordering van hun belastingen.
+
+4. Ingeval het college van burgemeester en wethouders de gegevens levert aan de Dienst, wordt de Dienst onverwijld op de hoogte gebracht van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en invordering van hun belastingen.
+
+5. Bij levering door het college van burgemeester en wethouders van de gegevens aan de Dienst, draagt de Dienst onverwijld zorg voor de levering van de gegevens, feiten en omstandigheden, bedoeld in dit artikel, aan de afnemers.
 
 ##### Artikel 9
 
-Onze Minister stelt in overleg met de Waarderingskamer een standaard-uitwisselingsformaat voor de levering van gegevens aan de afnemers vast.
+Voor het geval de levering van gegevens door het college van burgemeester en wethouders aan de afnemers plaatsvindt, stelt Onze Minister in overleg met de Waarderingskamer een standaard-uitwisselingsformaat voor de levering van gegevens aan de afnemers vast. Voor het geval de levering van gegevens door het college van burgemeester en wethouders plaatsvindt aan de Dienst, worden de specificaties voor de aanlevering van gegevens door de Waarderingskamer vastgesteld in overleg met de afnemers en de Dienst en gepubliceerd door de Waarderingskamer.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -181,6 +201,10 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegeve
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+– Voor ieder WOZ-object:
+
+(01.01) uniek WOZ-objectnummer
 
 – Voor ieder WOZ-object:
 
@@ -410,10 +434,6 @@ Volledig postadres van subject voorzover noodzakelijk bestaande uit:
 
 (91.40) versie Stuf-WOZ
 
-(92.10) aanmaakdatum
-
-(92.20) bijgewerkt tot en met maand
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ##### Artikel 2a
@@ -422,13 +442,13 @@ Vervallen
 
 ### Hoofdstuk 3. Gegevensbeheer
 
-### Hoofdstuk 4. Gegevensverstrekking
+### Hoofdstuk 3a. Beheer landelijke voorziening WOZ
 
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
 
-(92.30) datum vorige aanlevering
+(92.10) aanmaakdatum
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -437,6 +457,26 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(92.20) bijgewerkt tot en met maand
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 9a
+
+1. De Dienst beheert de landelijke voorziening WOZ in overleg met de afnemers.
+
+2. Het overleg met de afnemers vindt plaats in de Waarderingskamer.
+
+### Hoofdstuk 4. Gegevensverstrekking
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(92.30) datum vorige aanlevering
 
 (93.30) aard leveringsbestand
 
