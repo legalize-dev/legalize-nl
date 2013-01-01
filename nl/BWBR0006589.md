@@ -4,7 +4,7 @@ identifier: "BWBR0006589"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-06-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006589"
 soort: "AMvB"
@@ -51,25 +51,25 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder ambtenaar:
 
-- a. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder a en c, en tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3);
+- a. de ambtenaar van politie, bedoeld in [artikel 2, onder a, c en d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- b. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) voor zover het betreft de[artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2007-06-01&g=2007-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2007-06-01&g=2007-06-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5&z=2007-06-01&g=2007-06-01); In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&z=2007-06-01&g=2007-06-01) van dit besluit wordt onder ambtenaar mede verstaan de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), dan wel een andere persoon, voor zover die ambtenaar van politie of die persoon tevens buitengewoon opsporingsambtenaar is en door de korpsbeheerder is belast met de verzorging van ingeslotenen.
+- b. de ambtenaar van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft de[artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5&z=2013-01-01&g=2013-01-01); In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&z=2013-01-01&g=2013-01-01) van dit besluit wordt onder ambtenaar mede verstaan de ambtenaar van politie, bedoeld in artikel 2, onder b, van de Politiewet 2012, dan wel een andere persoon, voor zover die ambtenaar van politie of die persoon tevens buitengewoon opsporingsambtenaar is en door de korpschef is belast met de verzorging van ingeslotenen.
 
 - c. degene die is benoemd tot adspirant voor de duur dat hij de praktijkstage volgt;
 
-- d. de militair van de Koninklijke marechaussee in de uitvoering van de politietaken, bedoeld in [artikel 6, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6);
+- d. de militair van de Koninklijke marechaussee in de uitvoering van de politietaken, bedoeld in [artikel 4, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4);
 
-- e. de militair van de krijgsmacht, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=59), en [artikel 60 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60).
+- e. de militair van de krijgsmacht, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58), en [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
 
 2. In dit besluit wordt verstaan onder meerdere:
 
 - a. de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel heeft over de taakuitvoering;
 
-- b. indien op grond van het bepaalde onder **a**, geen meerdere kan worden aangewezen de ambtenaar van politie die een hogere rang heeft of, bij gelijkheid in rang, degene met de meeste dienstjaren, dan wel bij optreden door militairen van de Koninklijke marechaussee of van enig ander krijgsmachtonderdeel degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is.
+- b. indien op grond van het bepaalde onder a, geen meerdere kan worden aangewezen de ambtenaar van politie die een hogere rang heeft of, bij gelijkheid in rang, degene met de meeste dienstjaren, dan wel bij optreden door militairen van de Koninklijke marechaussee of van enig ander krijgsmachtonderdeel degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is.
 
 3. In dit besluit wordt verstaan onder:
 
-- a. bevoegd gezag: het gezag, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=13) en [15 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=15);
+- a. bevoegd gezag: het gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14);
 
 - b. geweld: elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
@@ -77,33 +77,29 @@ Hebben goedgevonden en verstaan:
 
 - d. geweldmiddel:
 
-- 1o. de krachtens [artikel 49, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=49) toegelaten uitrusting en bewapening waarmee geweld kan worden uitgeoefend, en
+- 1°. de krachtens artikel 22 van de Politiewet 2012 toegelaten uitrusting en bewapening waarmee geweld kan worden uitgeoefend, en.
 
-- 2o. de door Onze Minister van Defensie ter beschikking gestelde uitrusting en bewapening waarmee geweld kan worden uitgeoefend in de uitvoering van de politietaken, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=59) en [60 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60);
+- 2°. de door Onze Minister van Defensie ter beschikking gestelde uitrusting en bewapening waarmee geweld kan worden uitgeoefend in de uitvoering van de politietaken, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) en [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
 
 - e. hulpmiddelen ten behoeve van uitzetting:
 
-- 1º. de krachtens [artikel 49, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=49), aan de ambtenaar van politie, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, ter beschikking gestelde uitrusting ten behoeve van de uitzetting van vreemdelingen, en
+- 1º. de krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22), aan de ambtenaar van politie, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, ter beschikking gestelde uitrusting ten behoeve van de uitzetting van vreemdelingen, en
 
-- 2º. de door Onze Minister van Defensie, in overeenstemming met Onze Minister voor Vreemdelingenzaken en Integratie, aan de ambtenaar van de Koninklijke marechaussee, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, ter beschikking gestelde uitrusting ten behoeve van de uitzetting van vreemdelingen;
+- 2º. de door Onze Minister van Defensie, in overeenstemming met Onze Minister voor Immigratie, Integratie en Asiel, aan de ambtenaar van de Koninklijke marechaussee, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, ter beschikking gestelde uitrusting ten behoeve van de uitzetting van vreemdelingen;
 
 - f. vuurwapen waarmee automatisch vuur kan worden afgegeven: vuurwapen waarmee met één druk op het afvuurmechanisme meer schoten kunnen worden gelost dan wel een vuurwapen waarmee naar keus hetzij één schot, hetzij meer schoten kunnen worden gelost;
 
-- g. mobiele eenheid: een eenheid van ambtenaren van politie als bedoeld in [artikel 6 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=6) en de eenheden van de Koninklijke marechaussee die met dezelfde taken als bedoeld in genoemd besluit zijn belast;
+- g. de arts: de dienstdoend adviserend arts;
 
-- h. de arts: de dienstdoend adviserend arts;
+- h. buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- i. buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- i. het gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
 
-- j. het gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+- j. niet-penetrerende munitie: munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
 
-- k. niet-penetrerende munitie: munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
+- k. AOE-hond: hond in eigendom van de politie met als doel in politiedienst te worden ingezet bij het optreden van een aanhoudings- en ondersteuningseenheid of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
 
-- l. AOE: eenheid van ambtenaren van politie als bedoeld in [artikel 8 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=8) en de eenheid van de Koninklijke marechaussee die met dezelfde taken als bedoeld in genoemd besluit is belast;
-
-- m. AOE-hond: hond in eigendom van de Staat of een regio met als doel in politiedienst te worden ingezet bij het optreden van een AOE of een bijstandseenheid als bedoeld in [artikel 60 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60);
-
-- n. ambtenaar van een bijzondere opsporingsdienst: ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3).
+- l. ambtenaar van een bijzondere opsporingsdienst: ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3).
 
 4. In dit besluit wordt onder ingeslotene verstaan degene die rechtens van zijn vrijheid is beroofd. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
 
@@ -117,7 +113,7 @@ De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt
 
 ##### Artikel 3
 
-De ambtenaar die bijstand verleent ingevolge de bepalingen van [Hoofdstuk IX van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&hoofdstuk=IX) staat onder bevel van het bevoegd gezag ter plaatse of een door deze aangewezen ambtenaar.
+De ambtenaar die bijstand verleent ingevolge de bepalingen van [hoofdstuk 5 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5) staat onder bevel van het bevoegd gezag ter plaatse of een door deze aangewezen ambtenaar.
 
 ### Hoofdstuk 2. Geweld
 
@@ -137,13 +133,13 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 2. Het eerste lid is niet van toepassing in het geval de meerdere, bedoeld in het eerste lid, vooraf anders heeft bepaald.
 
-3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-06-01&g=2007-06-01), voor zover de last redelijkerwijs niet kan worden afgewacht.
+3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), voor zover de last redelijkerwijs niet kan worden afgewacht.
 
 ##### Artikel 6
 
-1. De korpschef of de daartoe door hem aangewezen ambtenaar van politie zet de eenheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=6) of [8 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=8), slechts in na toestemming van het bevoegd gezag.
+1. De korpschef of de daartoe door hem aangewezen ambtenaar van politie zet de mobiele eenheid of de aanhoudings- en ondersteuningseenheid slechts in na toestemming van het bevoegd gezag.
 
-2. De door het bevoegd gezag aangewezen ambtenaar zet de eenheden, bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=58) en [59 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=59) slechts in na toestemming van het bevoegd gezag.
+2. De door het bevoegd gezag aangewezen ambtenaar zet de eenheden, bedoeld in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57) en [58 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) slechts in na toestemming van het bevoegd gezag.
 
 #### § 2. Vuurwapens
 
@@ -189,7 +185,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 1. Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, is slechts geoorloofd bij zeer ernstige misdrijven ter afwending van direct gevaar voor het leven van personen.
 
-2. Het gebruik, bedoeld in het eerste lid, vindt plaats onder bevel van de commandant van een bijstandseenheid als bedoeld in [artikel 60 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60).
+2. Het gebruik, bedoeld in het eerste lid, vindt plaats onder bevel van de commandant van een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
 
 3. Een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven mag slechts worden meegevoerd ten behoeve van de opleiding dan wel ten behoeve van de daadwerkelijke bestrijding van zeer ernstige misdrijven waarbij sprake is van direct levensbedreigende omstandigheden.
 
@@ -207,7 +203,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 ##### Artikel 11
 
-De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-06-01&g=2007-06-01) zijn niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
+De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
 
 ##### Artikel 12
 
@@ -271,9 +267,9 @@ Het gebruik van een waterwerper is slechts geoorloofd bij optreden van de mobiel
 
 - b. het optreden van de mobiele eenheid na toestemming van het bevoegd gezag.
 
-2. Het inzetten van een AOE-hond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van een AOE of een bijstandseenheid als bedoeld in [artikel 60 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60).
+2. Het inzetten van een AOE-hond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van een AOE of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
 
-3. De geleider dient in het bezit te zijn van een krachtens [artikel 49, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=49) vastgesteld certificaat.
+3. De geleider dient in het bezit te zijn van een krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) vastgesteld certificaat.
 
 ##### Artikel 16
 
@@ -285,11 +281,11 @@ Het gebruik van een elektrische wapenstok is slechts geoorloofd als afweermiddel
 
 1. De ambtenaar die geweld heeft aangewend, meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere.
 
-2. De melding, bedoeld in het eerste lid, wordt door de meerdere terstond vastgelegd op een daartoe door Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties bij ministeriële regeling vastgestelde wijze.
+2. De melding, bedoeld in het eerste lid, wordt door de meerdere terstond vastgelegd op een daartoe door Onze Minister vastgestelde wijze.
 
-3. De melding, bedoeld in het tweede lid, wordt door de korpschef binnen 48 uur ter kennis gebracht van de officier van justitie van het arrondissement waarbinnen het geweld is aangewend, dan wel door de commandant van de Koninklijke marechaussee van de officier van justitie te Arnhem belast met militaire zaken ingeval het een militair betreft, indien:
+3. De melding, bedoeld in het tweede lid, wordt door de politiechef binnen 48 uur ter kennis gebracht van de officier van justitie in het arrondissement waarin de rechtbank is gelegen waarbinnen het geweld is aangewend, dan wel door de commandant van de Koninklijke marechaussee van de officier van justitie te Arnhem belast met militaire zaken ingeval het een militair betreft, indien:
 
-- a. de gevolgen van het aanwenden van geweld daartoe naar het oordeel van de korpschef of de commandant aanleiding geven,
+- a. de gevolgen van het aanwenden van geweld daartoe naar het oordeel van de politiechef of de commandant aanleiding geven,
 
 - b. het aanwenden van geweld lichamelijk letsel van meer dan geringe betekenis dan wel de dood heeft veroorzaakt, of
 
@@ -307,13 +303,13 @@ De meerdere licht de ambtenaar zo spoedig mogelijk in over de afhandeling van de
 
 ##### Artikel 20
 
-1. Het onderzoek, bedoeld in [artikel 8, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), geschiedt door het oppervlakkig aftasten van de kleding en wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
+1. Het onderzoek, bedoeld in [artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), geschiedt door het oppervlakkig aftasten van de kleding en wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
-2. Het onderzoek, bedoeld in [artikel 8, vierde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), wordt uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
+2. Het onderzoek, bedoeld in [artikel 7, vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) wordt uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
 ##### Artikel 21
 
-De ambtenaar die een onderzoek als bedoeld in [artikel 8, derde of vierde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8) heeft uitgevoerd, meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
+De ambtenaar die een onderzoek als bedoeld in [artikel 7, derde of vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) heeft uitgevoerd, meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
 
 ### Hoofdstuk 4. Handboeien
 
@@ -331,7 +327,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 8, derde of vierde lid, v
 
 ##### Artikel 23
 
-De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2007-06-01&g=2007-06-01), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
+De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2013-01-01&g=2013-01-01), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
 
 ### Hoofdstuk 4a. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
 
@@ -355,9 +351,31 @@ De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22
 
 ##### Artikel 26
 
-1. De ambtenaar handelt jegens de ingeslotene overeenkomstig het gestelde bij of krachtens [artikel 15 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=15).
+1. De korpschef treft voorzieningen opdat de ingeslotene in ieder geval beschikt over:
 
-2. De ambtenaar registreert de gegevens die krachtens [artikel 15, zesde lid, van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=15) zijn aangewezen.
+- a. slaapgelegenheid,
+
+- b. eten en drinken in overeenstemming met medische en levensbeschouwelijke of godsdienstige eisen,
+
+- c. sanitair,
+
+- d. de noodzakelijke medische zorg en
+
+- e. informatie over de gang van zaken in het politiecellencomplex.
+
+2. Tenzij het politiecellencomplex geen luchtplaats heeft, draagt de korpschef er zorg voor dat de ingeslotene tweemaal daags wordt gelucht.
+
+3. In verband met het eerste lid, onder d, treft de korpschef een regeling met artsen ten einde van hulp verzekerd te zijn voor de medische zorg van ingeslotenen.
+
+4. Met inachtneming van het bij of krachtens de wet bepaalde treft de korpschef een regeling met betrekking tot het roken, de ontspanning, het telefoneren en het ontvangen van bezoek van de ingeslotene.
+
+5. Bij ministeriële regeling worden regels gesteld over de inrichting van een politiecellencomplex.
+
+6. Bij ministeriële regeling worden de gegevens over ingeslotenen aangewezen die door de ambtenaar worden geregistreerd.
+
+7. In geval van overlijden of poging tot zelfdoding van een ingeslotene draagt de korpschef er zorg voor dat het openbaar ministerie hiervan onverwijld in kennis wordt gesteld.
+
+8. De ambtenaar handelt jegens de ingeslotene overeenkomstig het bepaalde bij of krachtens dit artikel.
 
 ##### Artikel 27
 
@@ -369,7 +387,7 @@ De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22
 
 ##### Artikel 28
 
-1. De ambtenaar onderzoekt de ingeslotene direct voorafgaand aan de insluiting op het politie- of brigadebureau, door het aftasten en doorzoeken van diens kleding op de aanwezigheid van voorwerpen die tijdens de insluiting een gevaar voor de veiligheid van de betrokkene of voor anderen kunnen vormen.
+1. De ambtenaar onderzoekt de ingeslotene direct voorafgaand aan de insluiting, door het aftasten en doorzoeken van diens kleding op de aanwezigheid van voorwerpen die tijdens de insluiting een gevaar voor de veiligheid van de betrokkene of voor anderen kunnen vormen.
 
 2. Bij het aantreffen van voorwerpen als bedoeld in het eerste lid, neemt de ambtenaar deze in bewaring.
 
@@ -387,7 +405,7 @@ De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22
 
 ##### Artikel 30
 
-1. De ambtenaar die een onderzoek als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=2&artikel=28&z=2007-06-01&g=2007-06-01), heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de meerdere.
+1. De ambtenaar die een onderzoek als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=2&artikel=28&z=2013-01-01&g=2013-01-01), heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de meerdere.
 
 2. De ambtenaar tekent nauwkeurig alle voorwerpen en kledingstukken die hij in bewaring heeft genomen, op. Bij voorwerpen van een geringe omvang en waarde kan worden volstaan met een globale aanduiding.
 
@@ -433,7 +451,7 @@ De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkinge
 
 ##### Artikel 35
 
-Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2007-06-01&g=2007-06-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2007-06-01&g=2007-06-01) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2007-06-01&g=2007-06-01), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
+Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2013-01-01&g=2013-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2013-01-01&g=2013-01-01) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2013-01-01&g=2013-01-01), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
 
 #### § 3. Permanente camera-observatie
 
@@ -445,13 +463,13 @@ De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zich
 
 ##### Artikel 37
 
-1. Indien Onze Minister van Justitie ingevolge [artikel 8, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van de bevoegdheden, bedoeld in het [eerste en derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), handelt de desbetreffende buitengewoon opsporingsambtenaar overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2007-06-01&g=2007-06-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2007-06-01&g=2007-06-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2007-06-01&g=2007-06-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2007-06-01&g=2007-06-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2007-06-01&g=2007-06-01) van dit besluit. In [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2007-06-01&g=2007-06-01), wordt voor «de korpschef» gelezen: de meerdere.
+1. Indien Onze Minister ingevolge [artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van bevoegdheden, bedoeld in het eerste en derde lid van dat artikel, handelt de desbetreffende buitengewoon opsporingsambtenaar overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2013-01-01&g=2013-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2013-01-01&g=2013-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2013-01-01&g=2013-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2013-01-01&g=2013-01-01) van dit besluit. In artikel 17, derde lid, wordt voor «de politiechef» gelezen: de meerdere.
 
-2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond dan wel handboeien handelt de desbetreffende buitengewoon opsporingsambtenaar mede overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-06-01&g=2007-06-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-06-01&g=2007-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2007-06-01&g=2007-06-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-06-01&g=2007-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-06-01&g=2007-06-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2007-06-01&g=2007-06-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2007-06-01&g=2007-06-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2007-06-01&g=2007-06-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2007-06-01&g=2007-06-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2007-06-01&g=2007-06-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2007-06-01&g=2007-06-01) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2007-06-01&g=2007-06-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2007-06-01&g=2007-06-01) van dit besluit.
+2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond dan wel handboeien handelt de desbetreffende buitengewoon opsporingsambtenaar mede overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2013-01-01&g=2013-01-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2013-01-01&g=2013-01-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2013-01-01&g=2013-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2013-01-01&g=2013-01-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-01-01&g=2013-01-01) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2013-01-01&g=2013-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2013-01-01&g=2013-01-01) van dit besluit.
 
 3. Voor de toepassing van het eerste en tweede lid wordt verstaan onder:
 
-- a. bevoegd gezag: het gezag, bedoeld in [artikel 13 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=13);
+- a. bevoegd gezag: het gezag, bedoeld in [artikel 12 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12);
 
 - b. de meerdere: de direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1).
 
@@ -459,11 +477,11 @@ De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zich
 
 ##### Artikel 38
 
-De buitengewoon opsporingsambtenaar die bevoegd is tot het gebruik van een wapen of handboeien, maakt bij de uitoefening van zijn dienst uitsluitend gebruik van het door Onze Minister van Justitie voorgeschreven geweldmiddel of handboeien.
+De buitengewoon opsporingsambtenaar die bevoegd is tot het gebruik van een wapen of handboeien, maakt bij de uitoefening van zijn dienst uitsluitend gebruik van het door Onze Minister voorgeschreven geweldmiddel of handboeien.
 
 ##### Artikel 39
 
-De buitengewoon opsporingsambtenaar is niet eerder bevoegd tot de uitoefening van de in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8) bedoelde bevoegdheden dan nadat die bevoegdheid is aangetekend op de akte van beëdiging en is gebleken van zijn bekwaamheid in de uitoefening daarvan.
+De buitengewoon opsporingsambtenaar is niet eerder bevoegd tot de uitoefening van de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) bedoelde bevoegdheden dan nadat die bevoegdheid is aangetekend op de akte van beëdiging en is gebleken van zijn bekwaamheid in de uitoefening daarvan.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -493,7 +511,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 23b
 
-1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4a&artikel=23a&z=2007-06-01&g=2007-06-01), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
+1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4a&artikel=23a&z=2013-01-01&g=2013-01-01), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
 
 2. De meerdere draagt zorg voor registratie van de melding, bedoeld in het eerste lid.
 
@@ -535,7 +553,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen dat i
 
 ##### Artikel 11c
 
-De [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11a&z=2007-06-01&g=2007-06-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11b&z=2007-06-01&g=2007-06-01) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
+De [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11a&z=2013-01-01&g=2013-01-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11b&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
 
 #### § 3. Overige geweldmiddelen
 
@@ -559,7 +577,7 @@ De [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&p
 
 ##### Artikel 39a
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt in overeenstemming met Onze Minister van Justitie binnen drie jaar na de inwerkingtreding van het besluit van 25 augustus 2006 tot wijziging van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar in verband met de invoering van niet-penetrerende munitie (Stb. 2006, 407) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 11 tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11&z=2007-06-01&g=2007-06-01) in de praktijk.
+Dit besluit berust op [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), en [artikel 9 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=9) en [artikel 6, vijfde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -575,7 +593,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 36a
 
-1. De ambtenaarvan een bijzondere opsporingsdienst handelt overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2007-06-01&g=2007-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-06-01&g=2007-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2007-06-01&g=2007-06-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-06-01&g=2007-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-06-01&g=2007-06-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2007-06-01&g=2007-06-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2007-06-01&g=2007-06-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2007-06-01&g=2007-06-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2007-06-01&g=2007-06-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2007-06-01&g=2007-06-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2007-06-01&g=2007-06-01),[17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2007-06-01&g=2007-06-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2007-06-01&g=2007-06-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2007-06-01&g=2007-06-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2007-06-01&g=2007-06-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2007-06-01&g=2007-06-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2007-06-01&g=2007-06-01) van dit besluit. In [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2007-06-01&g=2007-06-01), wordt voor «de korpschef» gelezen: het hoofd van de bijzondere opsporingsdienst. In [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2007-06-01&g=2007-06-01), wordt voor «[artikel 8, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6). In [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2007-06-01&g=2007-06-01) wordt voor «[artikel 8, derde of vierde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
+1. De ambtenaarvan een bijzondere opsporingsdienst handelt overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2013-01-01&g=2013-01-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2013-01-01&g=2013-01-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2013-01-01&g=2013-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2013-01-01&g=2013-01-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-01-01&g=2013-01-01),[17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2013-01-01&g=2013-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2013-01-01&g=2013-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2013-01-01&g=2013-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2013-01-01&g=2013-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2013-01-01&g=2013-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2013-01-01&g=2013-01-01) van dit besluit. In [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2013-01-01&g=2013-01-01), wordt voor «de politiechef» gelezen: het hoofd van de bijzondere opsporingsdienst. In [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2013-01-01&g=2013-01-01), wordt voor «[artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6). In [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2013-01-01&g=2013-01-01) wordt voor «artikel 7, derde of vierde lid, van de Politiewet 2012» gelezen: artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten.
 
 2. Voor de toepassing van het eerste lid wordt verstaan onder:
 
@@ -592,5 +610,7 @@ De ambtenaar van een bijzondere opsporingsdienst maakt bij de uitoefening van zi
 ### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
 
 ### Hoofdstuk 8. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
