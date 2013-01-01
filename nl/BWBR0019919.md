@@ -4,7 +4,7 @@ identifier: "BWBR0019919"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2008-03-26"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019919"
 soort: "wet"
@@ -49,9 +49,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. bijzondere opsporingsdienst: een van de diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=I&artikel=2&z=2008-03-26&g=2008-03-26);
+- a. bijzondere opsporingsdienst: een van de diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01);
 
-- b. opsporingsambtenaar: een ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26);
+- b. opsporingsambtenaar: een ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01);
 
 - c. Onze betrokken Minister: Onze minister onder wie een bijzondere opsporingsdienst ressorteert.
 
@@ -61,9 +61,9 @@ Er zijn vier bijzondere opsporingsdiensten, te weten:
 
 - a. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Financiën;
 
-- b. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- b. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Infrastructuur en Milieu;
 
-- c. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- c. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
 - d. een bijzondere opsporingsdienst, ressorterend onder Onze Minister van Sociale Zaken en Werkgelegenheid.
 
@@ -75,7 +75,7 @@ Een bijzondere opsporingsdienst is onder gezag van de officier van justitie bela
 
 - a. de strafrechtelijke handhaving van de rechtsorde op de beleidsterreinen waarvoor Onze betrokken Minister verantwoordelijkheid draagt;
 
-- b. de strafrechtelijke handhaving van de rechtsorde op een beleidsterrein waarvoor een andere minister dan de onder a. bedoelde, verantwoordelijkheid draagt en die door die minister in overeenstemming met Onze betrokken Minister en Onze Minister van Justitie aan die bijzondere opsporingsdienst is opgedragen;
+- b. de strafrechtelijke handhaving van de rechtsorde op een beleidsterrein waarvoor een andere minister dan de onder a. bedoelde, verantwoordelijkheid draagt en die door die minister in overeenstemming met Onze betrokken Minister en Onze Minister van Veiligheid en Justitie aan die bijzondere opsporingsdienst is opgedragen;
 
 - c. opsporingshandelingen in verband met strafbare feiten die zijn geconstateerd in het kader van de taakuitoefening bedoeld onder a. en b., en die met die taakuitoefening verband houden;
 
@@ -83,7 +83,7 @@ Een bijzondere opsporingsdienst is onder gezag van de officier van justitie bela
 
 ##### Artikel 4
 
-De officier van justitie kan, onverlet de toepassing van [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), de betrokken opsporingsambtenaren de nodige aanwijzingen geven voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26) bedoelde taken.
+De officier van justitie kan, onverlet de toepassing van [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), de betrokken opsporingsambtenaren de nodige aanwijzingen geven voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde taken.
 
 ##### Artikel 5
 
@@ -99,13 +99,13 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
 4. De uitoefening van de bevoegdheden, bedoeld in het eerste en derde lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 
-5. Met overeenkomstige toepassing van [artikel 9 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=9) wordt een ambtsinstructie voor de opsporingsambtenaren vastgesteld.
+5. Met overeenkomstige toepassing van [artikel 9 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=9) wordt een ambtsinstructie voor de opsporingsambtenaren vastgesteld.
 
 ### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
 
 ##### Artikel 7
 
-1. Het College van procureurs-generaal ziet erop toe dat de bijzondere opsporingsdiensten de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26), naar behoren uitvoeren.
+1. Het College van procureurs-generaal ziet erop toe dat de bijzondere opsporingsdiensten de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), naar behoren uitvoeren.
 
 2. Het hoofd van het functioneel parket heeft tot taak erop toe te zien dat:
 
@@ -113,7 +113,7 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
 - b. de opsporingsambtenaar zijn taak op de juiste wijze uitoefent.
 
-3. Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Justitie, worden regels gegeven met betrekking tot de bekwaamheid en betrouwbaarheid die noodzakelijk zijn voor de uitoefening van opsporingsbevoegdheden.
+3. Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Veiligheid en Justitie, worden regels gegeven met betrekking tot de bekwaamheid en betrouwbaarheid die noodzakelijk zijn voor de uitoefening van opsporingsbevoegdheden.
 
 ##### Artikel 8
 
@@ -125,15 +125,15 @@ Het College van procureurs-generaal kan Onze betrokken Minister adviseren over d
 
 1. De bijzondere opsporingsdienst is als afzonderlijke organisatorische eenheid geplaatst in de organisatie van het ministerie waartoe deze behoort.
 
-2. De aanstelling van het hoofd van de bijzondere opsporingsdienst, op voordracht van Onze betrokken Minister, geschiedt na overleg met Onze Minister van Justitie.
+2. De aanstelling van het hoofd van de bijzondere opsporingsdienst, op voordracht van Onze betrokken Minister, geschiedt na overleg met Onze Minister van Veiligheid en Justitie.
 
 ##### Artikel 10
 
-Onze betrokken Minister en Onze Minister van Justitie stellen, gehoord het College van procureurs-generaal, periodiek de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten vast.
+Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, gehoord het College van procureurs-generaal, periodiek de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten vast.
 
 ##### Artikel 11
 
-1. Jaarlijks stellen Onze betrokken Minister en het College van procureurs-generaal voor het komende jaar, met inachtneming van de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=IV&artikel=10&z=2008-03-26&g=2008-03-26), een handhavingsarrangement vast, waarin de wederzijdse afspraken over opsporing en afhandeling van de opsporingsonderzoeken zijn opgenomen.
+1. Jaarlijks stellen Onze betrokken Minister en het College van procureurs-generaal voor het komende jaar, met inachtneming van de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=IV&artikel=10&z=2013-01-01&g=2013-01-01), een handhavingsarrangement vast, waarin de wederzijdse afspraken over opsporing en afhandeling van de opsporingsonderzoeken zijn opgenomen.
 
 2. Onze betrokken Minister en het College van procureurs-generaal stellen jaarlijks een jaarverslag vast over de verwezenlijking van de afspraken in het handhavingsarrangement.
 
@@ -141,21 +141,21 @@ Onze betrokken Minister en Onze Minister van Justitie stellen, gehoord het Colle
 
 ##### Artikel 12
 
-1. Er is een eenheid binnen de bijzondere opsporingsdienst die, onder gezag van de officier van justitie, persoonsgegevens verwerkt ten behoeve van het voorkomen en opsporen van misdrijven die gezien hun ernst, frequentie of het georganiseerd verband waarin ze worden gepleegd, een ernstige inbreuk kunnen maken op de rechtsorde op de terreinen waarop de bijzondere opsporingsdienst een taak heeft als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26).
+1. Er is een eenheid binnen de bijzondere opsporingsdienst die, onder gezag van de officier van justitie, persoonsgegevens verwerkt ten behoeve van het voorkomen en opsporen van misdrijven die gezien hun ernst, frequentie of het georganiseerd verband waarin ze worden gepleegd, een ernstige inbreuk kunnen maken op de rechtsorde op de terreinen waarop de bijzondere opsporingsdienst een taak heeft als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01).
 
-2. Bij regeling van Onze betrokken Minister in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties worden regels gesteld omtrent de werkzaamheden van de eenheid.
+2. Bij regeling van Onze betrokken Minister in overeenstemming met Onze Minister van Veiligheid en Justitie worden regels gesteld omtrent de werkzaamheden van de eenheid.
 
 ### Hoofdstuk V. Samenwerking met de politie en andere diensten
 
 ##### Artikel 13
 
-1. Onze betrokken Minister, Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen tezamen bij ministeriële regeling regels geven over de samenwerking tussen de bijzondere opsporingsdienst en de politie.
+1. Onze betrokken Minister en Onze Minister van Veiligheid en Justitie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking tussen de bijzondere opsporingsdienst en de politie.
 
-2. Onze betrokken Minister, Onze Minister van Justitie en Onze Minister van Defensie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking tussen de bijzondere opsporingsdienst en de Koninklijke marechaussee.
+2. Onze betrokken Minister, Onze Minister van Veiligheid en Justitie en Onze Minister van Defensie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking tussen de bijzondere opsporingsdienst en de Koninklijke marechaussee.
 
-3. Onze betrokken Ministers en Onze Minister van Justitie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten onderling.
+3. Onze betrokken Ministers en Onze Minister van Veiligheid en Justitie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten onderling.
 
-4. Onze betrokken Ministers en Onze Minister van Justitie, eventueel in overeenstemming met andere terzake verantwoordelijke ministers kunnen, op de terreinen waarop de bijzondere opsporingsdiensten een taak hebben als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26), tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten met toezichthoudende instanties.
+4. Onze betrokken Ministers en Onze Minister van Veiligheid en Justitie, eventueel in overeenstemming met andere terzake verantwoordelijke ministers kunnen, op de terreinen waarop de bijzondere opsporingsdiensten een taak hebben als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten met toezichthoudende instanties.
 
 ### Hoofdstuk VI. Behandeling van klachten
 
