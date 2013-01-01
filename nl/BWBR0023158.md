@@ -4,7 +4,7 @@ identifier: "BWBR0023158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-24"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023158"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 3. Onverenigbare functies
 
-1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01) kan niet tevens zijn:
+1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01) kan niet tevens zijn:
 
 - a. werknemer in dienst van de gemeente waarvan de aanvrager ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
 
@@ -98,7 +98,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 5. Garantiestelling
 
-1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 94 voor het jaar 2012.
+1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 94 voor het jaar 2013.
 
 2. Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt:
 
@@ -110,7 +110,9 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 - –. voor het jaar 2011 623,13;
 
-- –. voor het jaar 2012 275,82.
+- –. voor het jaar 2012 275,82;
+
+- –. voor het jaar 2013 270,65.
 
 ##### Artikel 6. Betaalbaarstelling
 
@@ -136,27 +138,19 @@ Het college draagt er zorg voor dat de minister desgevraagd aanvullende informat
 
 ##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
-Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2012-01-01&g=2012-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
+Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
-##### Artikel 11. Statistische basisgegevens gemeente
+##### Artikel 11. Statistiek sociale werkvoorziening
 
-1. Het college registreert over elke halfjaarsperiode ten behoeve van de uitvoering van [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=14) de in de bijlage bij deze regeling vastgestelde gegevens ten aanzien van personen die in de desbetreffende halfjaarsperiode:
+1. De minister ontvangt van het college en het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van de statistiek overeenkomstig het in de bijlage bij deze regeling opgenomen model, over een periode van een half jaar gegevens over de indicatie, de wachtlijst, de dienstbetrekkingen in de zin van de wet en de uitstroom uit de dienstbetrekkingen op grond van de wet en over de personen die het betreft.
 
-- a. tot de doelgroep zijn toegelaten;
+2. Het college en het Uitvoeringsinstituut werknemersverzekeringen verstrekken binnen zes weken na afloop van de desbetreffende halfjaarsperiode de gegevens, bedoeld in het eerste lid, aan een daartoe aan de minister aangewezen bewerker op een door de bewerker te bepalen wijze.
 
-- b. op de wachtlijst staan;
-
-- c. een dienstbetrekking hebben als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of
-
-- d. een dienstbetrekking hebben als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7).
-
-2. De in het eerste lid bedoelde persoonsgegevens worden telkenmale binnen zes weken na afloop van de desbetreffende halfjaarsperiode door het college rechtstreeks verstrekt aan een daartoe door de minister aangewezen bewerker. Als bewerker is aangewezen Research voor Beleid.
-
-3. Het college verstrekt de in het eerste lid bedoelde persoonsgegevens op een door de bewerker, bedoeld in het tweede lid, te bepalen wijze.
+3. Als bewerker is aangewezen Research voor Beleid.
 
 ##### Artikel 12. De bewerker
 
-1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2012-01-01&g=2012-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
+1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
 2. De persoonsgegevens worden slechts in opdracht van de minister aan derden verstrekt ten behoeve van onderzoek waarvoor de persoonsgegevens noodzakelijk zijn.
 
@@ -174,8 +168,46 @@ Deze regeling treedt in werking met ingang van 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2008.
 
-## Bijlage
+## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2008
 
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid te Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
+
+### Statistiek Wsw
+
+### Toelichting op de Statistiek
+
+### Welke personen
+
+De personen over wie de statistische gegevens worden verstrekt, zijn dezelfde als die waarover gemeenten tevens de financiële verantwoordingsinformatie verstrekken. Voor de onderscheiden groepen uit de doelgroep betekent dit concreet het volgende:
+
+### Eenheid van berichtgeving
+
+Van elke persoon omtrent wie een indicatiebesluit is opgesteld, die op de wachtlijst staat of die tot het werknemersbestand behoort, wordt een apart record aangemaakt. Het record bevat de waarden van alle kenmerken die van de betrokkene bekend kunnen zijn.
+
+Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
+
+In overleg met de externe bewerker kan tot een andere wijze van berichtgeving worden besloten (bijvoorbeeld uitsluitend de verstrekking van gegevens over mutaties).
+
+### Begin en einde van berichtgeving over een persoon
+
+Over een persoon wordt begonnen met informatieverstrekking in de volgende gevallen:
+
+De berichtgeving wordt in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
+
+Over dezelfde persoon vindt over een halfjaarsperiode afzonderlijke berichtgeving plaats als sprake is van uitstroom uit het werknemersbestand, direct gevolgd door:
+
+### Wijzigingen van kenmerken en peildatum voor berichtgeving
+
+Een nieuw indicatiebesluit leidt tot een actualisering van de gegevens bij het onderdeel besluit/advies. Dit geldt zowel voor een herindicatie van personen die op de wachtlijst zijn geplaatst als, voor zover sprake is plaatsing in het werknemersbestand vanaf 1 januari 1998, van personen met een dienstbetrekking of arbeidsovereenkomst.
+
+Bij gegevens waarin zich een wijziging kan voordoen, is de situatie op de laatste dag van het betreffende halfjaar bepalend (c.q. de situatie direct voorafgaand aan uitstroom).
+
+### Aantallen
+
+Aantallen worden, waar van toepassing, afgerond op hele eenheden.
+
+### Niet van toepassing zijnde gegevens
+
+Als een gegeven (nog) niet van toepassing is, wordt het met nullen gevuld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
