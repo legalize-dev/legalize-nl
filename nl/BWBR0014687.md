@@ -4,7 +4,7 @@ identifier: "BWBR0014687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2011-06-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014687"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ De bezoldiging tijdens het buitengewoon verlof wordt berekend naar een arbeidsti
 
 ##### Artikel 3
 
-Het Rijk vergoedt aan de desbetreffende politieregio de werkgeverslasten ten aanzien van de betrokkene en de overige aan deze regeling verbonden kosten, voor zover deze worden voldaan door de politieregio.
+Het Rijk vergoedt aan de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) de werkgeverslasten ten aanzien van de betrokkene en de overige aan deze regeling verbonden kosten, voor zover deze worden voldaan door de politie.
 
 ##### Artikel 4
 
@@ -83,7 +83,7 @@ Het Rijk vergoedt aan de desbetreffende politieregio de werkgeverslasten ten aan
 
 1. De aanspraak van de betrokkene op de overige voorzieningen ingevolge deze regeling vangt aan op de dag van vertrek vanuit Nederland naar het missiegebied.
 
-2. De aanspraak van de betrokkene op voorzieningen ingevolge deze regeling eindigt op de dag van terugkeer in Nederland vanuit het missiegebied, behoudens de periode van recuperatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=10&z=2011-06-10&g=2011-06-10), en behoudens de aanspraken, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=11&z=2011-06-10&g=2011-06-10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=16&z=2011-06-10&g=2011-06-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=17&z=2011-06-10&g=2011-06-10).
+2. De aanspraak van de betrokkene op voorzieningen ingevolge deze regeling eindigt op de dag van terugkeer in Nederland vanuit het missiegebied, behoudens de periode van recuperatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=10&z=2013-01-01&g=2013-01-01), en behoudens de aanspraken, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=11&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=16&z=2013-01-01&g=2013-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0014687&artikel=17&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 6
 
