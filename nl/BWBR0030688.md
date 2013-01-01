@@ -4,7 +4,7 @@ identifier: "BWBR0030688"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030688"
 soort: "wet"
@@ -126,7 +126,7 @@ Wijzigt de Natuurschoonwet 1928.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel XXII
 
@@ -150,21 +150,21 @@ Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heff
 
 1. Deze wet treedt in werking met ingang van 1 januari 2012.
 
-2. [Artikel IX, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=IX&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 juli 2011.
+2. [Artikel IX, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=IX&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 juli 2011.
 
-3. [Artikel I, onderdelen D, R, U, V, W, X, Z en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2012-01-01&g=2012-01-01), [artikel III, onderdelen B, C, D, E, F, G, H, I, J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=III&z=2012-01-01&g=2012-01-01), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=IV&z=2012-01-01&g=2012-01-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=VII&z=2012-01-01&g=2012-01-01), [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XIV&z=2012-01-01&g=2012-01-01), en [artikel XXIII, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XXIII&z=2012-01-01&g=2012-01-01), werken terug tot en met 1 januari 2011.
+3. [Artikel I, onderdelen D, R, U, V, W, X, Z en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2013-01-01&g=2013-01-01), [artikel III, onderdelen B, C, D, E, F, G, H, I, J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=III&z=2013-01-01&g=2013-01-01), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=IV&z=2013-01-01&g=2013-01-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=VII&z=2013-01-01&g=2013-01-01), [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XIV&z=2013-01-01&g=2013-01-01), en [artikel XXIII, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XXIII&z=2013-01-01&g=2013-01-01), werken terug tot en met 1 januari 2011.
 
-4. [Artikel I, onderdelen J, K en CC, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 december 2010.
+4. [Artikel I, onderdelen J, K en CC, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 december 2010.
 
-5. [Artikel I, onderdelen O, P en Yb](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2012-01-01&g=2012-01-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=VI&z=2012-01-01&g=2012-01-01) werken terug tot en met 1 januari 2010.
+5. [Artikel I, onderdelen O, P en Yb](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2013-01-01&g=2013-01-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=VI&z=2013-01-01&g=2013-01-01) werken terug tot en met 1 januari 2010.
 
-6. [Artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XV&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 juli 2009.
+6. [Artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XV&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 juli 2009.
 
-7. [Artikel I, onderdelen B, N en Ya](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2012-01-01&g=2012-01-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=II&z=2012-01-01&g=2012-01-01) en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=III&z=2012-01-01&g=2012-01-01), werken terug tot en met 1 januari 2009.
+7. [Artikel I, onderdelen B, N en Ya](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=I&z=2013-01-01&g=2013-01-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=II&z=2013-01-01&g=2013-01-01) en [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=III&z=2013-01-01&g=2013-01-01), werken terug tot en met 1 januari 2009.
 
-8. [Artikel V, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=V&z=2012-01-01&g=2012-01-01), werkt terug tot en met 1 januari 2006.
+8. [Artikel V, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=V&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 2006.
 
-9. In afwijking van het eerste lid treedt [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XXI&z=2012-01-01&g=2012-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+9. In afwijking van het eerste lid treedt [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XXI&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XXVII
 
