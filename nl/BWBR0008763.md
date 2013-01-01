@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 ##### Artikel 3
 
-1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), kan op voet van [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), slechts door de Belastingdienst/Toeslagen worden aangewezen indien:
+1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), kan op voet van artikel 11, tweede lid, van de wet, slechts door de Belastingdienst/Toeslagen worden aangewezen indien:
 
 - a. de desbetreffende woonruimten geschikt en bestemd zijn voor:
 
@@ -94,7 +94,7 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 - b. het begeleid wonen of de daarmee vergelijkbare woonvorm gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;
 
-- c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van laatstgenoemde wet;
 
 - d. er een gescheiden huur- en zorgovereenkomst is, en
 
@@ -106,7 +106,7 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 - b. in de desbetreffende woonruimten ten minste drie huishoudens zijn gehuisvest, en
 
-- c. ten minste 80 procent van de huurders van de desbetreffende woonruimten 65 jaar of ouder is.
+- c. ten minste 80 procent van de huurders van de desbetreffende woonruimten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt.
 
 4. De Belastingdienst/Toeslagen kan de aanwijzing intrekken indien niet langer wordt voldaan aan het eerste, tweede of derde lid.
 
@@ -190,9 +190,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a);
 
-- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 850 en
+- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3 945 en
 
-- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 42 250.
+- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 43 275.
 
 3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
 
@@ -218,9 +218,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2012-01-01&g=2012-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2012-01-01&g=2012-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2013-01-01&g=2013-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2013-01-01&g=2013-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2012-01-01&g=2012-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2012-01-01&g=2012-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2013-01-01&g=2013-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2013-01-01&g=2013-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
