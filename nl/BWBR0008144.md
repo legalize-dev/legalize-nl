@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-11-09"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -43,6 +43,22 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
+- **de minister:** de Minister van Infrastructuur en Milieu;
+
+- **de dienst:** de Dienst Wegverkeer;
+
+- **derden:** personen en organisaties binnen en buiten de Rijksoverheid;
+
+- **richtlijn nr. 2000/30/EG** [richtlijn nr. 2000/30/EG](32000L0030) van het Europees Parlement en de Raad van de Europese Unie van 6 juni 2000 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Gemeenschap deelnemen aan het verkeer (PbEG L 203);
+
+- **richtlijn 2004/52/EG:** Richtlijn 2004/52/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer in de Gemeenschap (PbEU 2004, L 166);
+
+- **beschikking 2009/750/EG:** Beschikking 2009/750/EG van de Commissie van 6 oktober 2009 tot definiëring van de Europese elektronische tolheffingsdienst en de bijbehorende technische onderdelen (PbEU 2009, L 268);
+
+- **verordening 1071/2009/EG:** Verordening (EU) nr. 1071/2009/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU 2009, L 300);
+
+- **VN/ECE-reglement 110:** Reglement nr. 110 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme bepalingen voor de goedkeuring van specifieke onderdelen van motorvoertuigen die gecomprimeerd aardgas (cng) als brandstof gebruiken en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (cng) als brandstof1Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html)..
+
 ##### Artikel 1a
 
 Een wijziging van [richtlijn nr. 2000/30/EG](32000L0030) gaat voor de toepassing van deze regeling gelden met ingang van de datum waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
@@ -55,7 +71,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - b. het verrichten van testen en keuringen van voertuigen en voertuigonderdelen voor zover deze testen en keuringen weliswaar niet worden voorgeschreven voor de toelating of het gebruik van de voertuigen en voertuigonderdelen in Nederland doch waarom wordt verzocht ten behoeve van de toelating en het gebruik van deze voertuigen en voertuigonderdelen in andere landen;
 
-- c. het op verzoek verstrekken van een zwaar transportverklaring, een draagvermogensbrief, of voor samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton, af te geven keuringscertificaten of andere documenten dan wel te verrichten handelingen, ten behoeve van het door gemeenten, provincies of de dienst verlenen van ontheffingen op basis van de [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) en [149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a);
+- c. het op verzoek verstrekken van een SERT document, een ontheffingsattest, of voor samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton, af te geven keuringscertificaten of andere documenten dan wel te verrichten handelingen, ten behoeve van het door gemeenten, provincies of de dienst verlenen van ontheffingen op basis van de [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) en [149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a);
 
 - d. het op verzoek van gemeenten en provincies bemiddelen bij het verlenen van ontheffingen als bedoeld in [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149);
 
@@ -83,7 +99,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - p. het toezien op de uitvoering van de overeenkomsten door middel waarvan een natuurlijke persoon of rechtspersoon is aangemerkt als gekwalificeerd voor het verrichten van de inbouw van emissieverminderende voertuigonderdelen en het opnemen van de in dit kader noodzakelijke gegevens in het kentekenregister;
 
-- q. Het verzenden van brieven naar houders van een kentekenbewijs in het kader van een terugroepactie als bedoeld in [artikel 2, tweede lid, onderdeel e, van de Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2) tegen een door de Dienst Wegverkeer vastgesteld tarief:
+- q. het verzenden van brieven naar houders van een kentekenbewijs in het kader van een terugroepactie als bedoeld in [artikel 2, tweede lid, onderdeel e, van de Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2) tegen een door de Dienst Wegverkeer vastgesteld tarief:
 
 - 1°. op uitdrukkelijk verzoek van de producent of importeur van motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen, of
 
@@ -93,13 +109,27 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - s. het bewaren van strafrechtelijk in beslag genomen rijbewijzen en kentekenbewijzen;
 
-- t. het verlenen van erkenningen als bedoeld in de [artikelen 132f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132f), en [132k, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132k).
+- t. het verlenen van erkenningen als bedoeld in de [artikelen 132f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132f), en [132k, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132k);
+
+- u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110;
+
+- v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG in de hoedanigheid van nationaal contactpunt met andere lidstaten uitwisselen van gegevens over veroordelingen en sancties met betrekking tot ondernemingen en vervoersmanagers in het wegvervoer en de status van geschiktheid van vervoermanagers;
+
+- w. het beoordelen op zijn technische kenmerken van een voertuig in het kader van de procedure tot aanwijzing voor toelating tot de weg van een motorrijtuig als bedoeld in [artikel 20b, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b);
+
+- x. het ter uitvoering van richtlijn 2004/52/EG beoordelen van aanvragen voor registratie als aanbieder van een elektronisch heffingssysteem, het registreren daarvan conform het bepaalde in artikel 3 van de beschikking 2009/750/EG, het bijhouden en publiceren van een elektronisch register met de in Nederland geregistreerde aanbieders, het uitvoeren van artikel 19, eerste lid, onderdeel b, van de beschikking 2009/750/EG en indien die uitvoering hiertoe aanleiding geeft, het intrekken van de registratie;
+
+- y. dit onderdeel is nog niet in werking getreden;
+
+- z. het op basis van [artikel 25b, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
+
+- aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, en p tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-11-09&g=2011-11-09), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2013-01-01&g=2013-01-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-11-09&g=2011-11-09) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
@@ -109,7 +139,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 4. Informatie-uitwisseling
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=9) en [11 van het Informatiestatuut Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=11) zijn van overeenkomstige toepassing.
+De artikelen 5, 8 en 9 van de Regeling sturing van en toezicht op de Dienst Wegverkeer en [artikel 18 van de Beleidsregel sturing van en toezicht op de Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0032371&artikel=18) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5. Inwerkingtreding
 
