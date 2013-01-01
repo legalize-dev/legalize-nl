@@ -4,7 +4,7 @@ identifier: "BWBR0022832"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2007-11-18"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022832"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doelgroep
 
-Voor verlof met elektronisch volgsysteem kan in aanmerking komen iedere ter beschikking gestelde of anderszins verpleegde, die beschikt over een verlofmachtiging van de Minister van Justitie, zoals bedoeld in artikel 50, eerste lid, van de wet.
+Voor verlof met elektronisch volgsysteem kan in aanmerking komen iedere ter beschikking gestelde of anderszins verpleegde, die beschikt over een verlofmachtiging van de Minister van Veiligheid en Justitie, zoals bedoeld in [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=50).
 
 ##### Artikel 3. Criteria
 
