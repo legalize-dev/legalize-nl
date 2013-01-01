@@ -155,9 +155,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 Deze regeling wordt aangehaald als: Gelijkstellingsregeling arbeidsuren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Overgangsrecht
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
