@@ -4,7 +4,7 @@ identifier: "BWBR0029916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-17"
-last_updated: "2012-02-11"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029916"
 soort: "ministeriele-regeling"
@@ -102,9 +102,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling brandstoffen luchtverontreiniging.
 
-## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2012-02-11&g=2012-02-11), van de Regeling brandstoffen luchtverontreiniging
+## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2012-02-11&g=2013-01-01), van de Regeling brandstoffen luchtverontreiniging
 
 Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
+
+In de kop van de rapportage worden aangegeven:
 
 In de kop van de rapportage worden aangegeven:
 
@@ -122,7 +124,7 @@ De rapportage gebeurt met behulp van de volgende tabellen, waarbij ladingen met 
 
 1 Standaardreferentiewaarde EU voor 2010.
 
-2 Biogas wordt uitgedrukt in kg
+Richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van 13 oktober 1998 betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG 1998, L 350) (hierna: richtlijn 98/70/EG) schrijft voor dat brandstofleveranciers met ingang van 1 januari 2011 jaarlijks verslag doen aan de door de lidstaat aangewezen autoriteit over de broeikasgasintensiteit van in die lidstaat geleverde brandstof en energie, door minimaal de volgende informatie te verstrekken:
 
 Richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van 13 oktober 1998 betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG 1998, L 350) (hierna: richtlijn 98/70/EG) schrijft voor dat brandstofleveranciers met ingang van 1 januari 2011 jaarlijks verslag doen aan de door de lidstaat aangewezen autoriteit over de broeikasgasintensiteit van in die lidstaat geleverde brandstof en energie, door minimaal de volgende informatie te verstrekken:
 
@@ -136,19 +138,19 @@ In afwachting van definitieve uitvoeringsmaatregelen van de Europese Commissie w
 
 De inzet van biobrandstoffen op basis van richtlijn 2009/28/EG leidt tot reductie van de broeikasgasemissie gedurende de levenscyclus per eenheid energie. Met de oplopende jaarverplichting voor biobrandstoffen wordt voldaan aan de eis in artikel 7 bis, tweede lid, van richtlijn 98/70/EG dat zo geleidelijk mogelijk wordt toegewerkt naar het doel voor 2020.
 
-2Bij ETBE en MTBE wordt rekening gehouden met het percentage waarvoor het meetelt.
+In tabel 1 van de rapportage wordt de broeikasgasemissie gedurende de levenscyclus vermeld. Voor de in deze tabel op te nemen broeikasgasemissie per energie-eenheid van fossiele brandstoffen dienen rapportageplichtigen voor de rapportage over de jaren 2011 en 2012 gebruik te maken van onderstaande tabel. Voor de rapportage over de jaren 2013 en verder, zal de Nederlandse Emissieautoriteit voorafgaand aan het betreffende jaar de waarden bekendmaken.
 
 In tabel 1 van de rapportage wordt de broeikasgasemissie gedurende de levenscyclus vermeld. Voor de in deze tabel op te nemen broeikasgasemissie per energie-eenheid van fossiele brandstoffen dienen rapportageplichtigen voor de rapportage over de jaren 2011 en 2012 gebruik te maken van onderstaande tabel. Voor de rapportage over de jaren 2013 en verder, zal de Nederlandse Emissieautoriteit voorafgaand aan het betreffende jaar de waarden bekendmaken.
 
 Voor de in tabel 1 te vermelden energie-inhoud per volume van fossiele brandstoffen kunnen rapportageplichtigen gebruik maken van onderstaande tabel. Voor benzine en diesel zijn onderstaande waarden overgenomen uit Bijlage III bij richtlijn 2009/28/EG.
 
-1Biogas wordt uitgedrukt in [kg] en [MJ/kg], elektriciteit in [kWh].
+Tabel 2 vermeldt de gemiddelde broeikasgasemissie (BKG-emissie) gedurende de levenscyclus per eenheid energie van door de rapportageplichtige geleverde brandstof en energie met inbegrip van gekochte en verkochte biotickets.
 
 Tabel 2 vermeldt de gemiddelde broeikasgasemissie (BKG-emissie) gedurende de levenscyclus per eenheid energie van door de rapportageplichtige geleverde brandstof en energie met inbegrip van gekochte en verkochte biotickets.
 
-De te rapporteren gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie wordt berekend als de som van de totale broeikasgasemissie gedeeld door de som van de totale hoeveelheid geleverde energie. De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie =
-
 ### Toelichting
+
+Voor elke soort fossiele brandstof of biobrandstof worden de totale broeikasgasemissie gedurende de levenscyclus (totale rbroeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
 
 Totale broeikasgasemissie x = hoeveelheid x energie-inhoud per volume x broeikasgasemissies gedurende de levenscyclus per eenheid energie
 
@@ -158,25 +160,23 @@ Uitgaande van de in punt 19 van deel C van bijlage IV bij richtlijn 98/70/EG gen
 
 Broeikasgasemissies gedurende de levenscyclus per eenheid energie =
 
-(100% – Standaardwaarde voor de broeikasgasemissiereductie) × 83,8
-
 ### Tabel 1 Fossiele brandstoffen
+
+Voor elektriciteit worden de totale broeikasgasemissie (totale broeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
 
 Totale broeikasgasemissie x = hoeveelheid elektriciteit x broeikasgasemissies per energie-eenheid
 
 Totale hoeveelheid energie x = 2,5 × 3,6 × hoeveelheid elektriciteit
 
-De hoeveelheid elektriciteit wordt hierbij uitgedrukt in kWh en de broeikasgasemissies per energie-eenheid in g CO2eq/kWh. De factor 2,5 dient ter verrekening van de bijdrage van elektriciteit in de energievoorziening van het verkeer. De factor 3,6 dient voor de omrekening van de hoeveelheid elektriciteit uitgedrukt in kWh naar de hoeveelheid elektriciteit uitgedrukt in MJ. Volgens de Europese Commissie moet voor de broeikasgasemissie per energie-eenheid voor elektriciteit uit worden gegaan van de gemiddelde waarde van een lidstaat: in Nederland: 716 g CO2eq/kWh.
-
 ### Tabel 2 Biobrandstoffen
+
+De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie van de geleverde brandstof en energie kan worden beschouwd als het naar energie-inhoud gewogen gemiddelde van de totale broeikasgasemissie per eenheid energie van de verschillende soorten brandstoffen en energie, die door de registratieplichtige op de markt worden gebracht.
 
 Tot slot wordt in de rapportage de reductie van de broeikasgasemissies gedurende de levenscyclus per eenheid energie van geleverde brandstof en energie vermeld. Deze waarde wordt als volgt berekend:
 
 Reductie van de broeikasgasemissies = ([uitgangsnorm 2010] – gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie) / [uitgangsnorm 2010] × 100%
 
 De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie van geleverde brandstof en energie wordt in deze formule uitgedrukt in g CO2eq/MJ. De reductie van de broeikasgasemissies wordt berekend ten opzichte van de op grond van richtlijn 98/70/EG bepaalde uitgangsnorm voor brandstof op basis van de broeikasgasemissies gedurende de levenscyclus per eenheid energie van fossiele brandstoffen in 2010, deze wordt naar verwachting door de Europese Commissie vastgesteld op: 88,3 g CO2eq.
-
-Tussenproducten moeten worden genoemd zolang het over producten of waardevolle coproducten gaat. Zo kan ‘melasse’ afkomstig zijn uit suikerbiet en uit suikerriet. Er kan dus niet worden volstaan met vermelding van alleen de code voor melasse 1703. In dat geval gaat namelijk de informatie over de grondstof verloren. In dit geval moet dus 1212 91 (suikerbiet) of 1212 99 20 (suikerriet) gebruikt worden.
 
 ‘Tussenproducten’ moeten wel worden genoemd als het om reststromen of afval gaat, zoals glycerine of used cooking oil. In dat geval maakt het niet meer uit of dit uit koolzaad, soja, palm of zonnebloem (of een combinatie) afkomstig is, die informatie is waarschijnlijk in veel gevallen ook niet meer te achterhalen.
 
@@ -264,8 +264,26 @@ Voor deze uitgangsnorm moet worden uitgegaan van een waarde van 86,6 g CO2eq.
 
 ### **Tabel 2 Berekende broeikasgasemissiereductie van geleverde brandstof en energie**
 
-Voor elke soort fossiele brandstof of biobrandstof worden de totale broeikasgasemissie gedurende de levenscyclus (totale rbroeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
+De te rapporteren gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie wordt berekend als de som van de totale broeikasgasemissie gedeeld door de som van de totale hoeveelheid geleverde energie. De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie =
 
-Voor elektriciteit worden de totale broeikasgasemissie (totale broeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
+(100% – Standaardwaarde voor de broeikasgasemissiereductie) × 83,8
 
-De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie van de geleverde brandstof en energie kan worden beschouwd als het naar energie-inhoud gewogen gemiddelde van de totale broeikasgasemissie per eenheid energie van de verschillende soorten brandstoffen en energie, die door de registratieplichtige op de markt worden gebracht.
+De hoeveelheid elektriciteit wordt hierbij uitgedrukt in kWh en de broeikasgasemissies per energie-eenheid in g CO2eq/kWh. De factor 2,5 dient ter verrekening van de bijdrage van elektriciteit in de energievoorziening van het verkeer. De factor 3,6 dient voor de omrekening van de hoeveelheid elektriciteit uitgedrukt in kWh naar de hoeveelheid elektriciteit uitgedrukt in MJ. Volgens de Europese Commissie moet voor de broeikasgasemissie per energie-eenheid voor elektriciteit uit worden gegaan van de gemiddelde waarde van een lidstaat: in Nederland: 716 g CO2eq/kWh.
+
+##### Artikel 4a
+
+De hoeveelheid, bedoeld in [artikel 2.9a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9a), is voor:
+
+- a. benzine, diesel, LPG, en gasolie voor mobiele machines: 50.000 liter;
+
+- b. CNG en LNG, bestemd voor wegvoertuigen: 50.000 Nm3.
+
+## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2013-06-05&g=2013-01-01), van de Regeling brandstoffen luchtverontreiniging
+
+### Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
+
+### Toelichting
+
+### **Tabel 1 Geleverde brandstoffen**
+
+### **Tabel 2 Berekende broeikasgasemissiereductie van geleverde brandstof en energie**
