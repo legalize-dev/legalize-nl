@@ -165,5 +165,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
