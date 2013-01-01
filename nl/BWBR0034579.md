@@ -4,7 +4,7 @@ identifier: "BWBR0034579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-30"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034579"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2014-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -122,7 +122,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel XXIII
 
