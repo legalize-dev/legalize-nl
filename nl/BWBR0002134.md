@@ -4,7 +4,7 @@ identifier: "BWBR0002134"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002134"
 soort: "wet"
@@ -74,29 +74,29 @@ De overlevering aan een andere staat kan slechts geschieden, indien deze partij 
 
 ##### Artikel 3
 
-1. Personen van wie de overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2012-04-01&g=2012-04-01) door een andere staat wordt verzocht, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
+1. Personen van wie de overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2013-01-01&g=2013-01-01) door een andere staat wordt verzocht, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
 
 2. Het bevel van aanhouding moet hun binnen tweemaal vierentwintig uren worden betekend.
 
 3. De op en bij hen zijnde voorwerpen kunnen worden in beslag genomen.
 
-4. Binnen vierentwintig uren na de aanhouding wordt daarvan kennis gegeven aan de officier van justitie bij het arrondissementsparket te ‘s-Gravenhage.
+4. Binnen vierentwintig uren na de aanhouding wordt daarvan kennis gegeven aan de officier van justitie bij het arrondissementsparket Den Haag.
 
-5. Het vierde lid blijft buiten toepassing indien de aanhouding in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft plaatsgevonden. In dat geval wordt de officier van justitie bij het arrondissementsparket te Amsterdam binnen vierentwintig uren na de aanhouding daarvan kennis gegeven.
+5. Het vierde lid blijft buiten toepassing indien de aanhouding in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft plaatsgevonden. In dat geval wordt de officier van justitie bij het arrondissementsparket Amsterdam binnen vierentwintig uren na de aanhouding daarvan kennis gegeven.
 
 ##### Artikel 4
 
-1. Alvorens over een verzoek tot overlevering te beslissen, wordt het advies ingewonnen van de rechtbank te ‘s-Gravenhage.
+1. Alvorens over een verzoek tot overlevering te beslissen, wordt het advies ingewonnen van de rechtbank Den Haag.
 
 2. De rechtbank beslist bij zijn advies, welke van de in beslag genomen voorwerpen, in geval van overlevering, aan de opgeëiste persoon zullen worden teruggegeven, en welke, als stukken van overtuiging, zullen worden afgegeven.
 
 3. Overlevering vindt in geen geval plaats, indien de rechtbank adviseert de overlevering niet toe te staan.
 
-4. Voor de toepassing van de voorgaande leden treedt de rechtbank te Amsterdam in de plaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, indien dat gerecht bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
+4. Voor de toepassing van de voorgaande leden treedt de rechtbank Amsterdam in de plaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, indien dat gerecht bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
 
 ##### Artikel 5
 
-1. Onze Minister van Veiligheid en Justitie kan toestemming verlenen tot het over Nederlands grondgebied vervoeren van een persoon wiens overlevering ter zake van één van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2012-04-01&g=2012-04-01) genoemde misdrijven door een andere staat aan een derde staat is toegestaan.
+1. Onze Minister van Veiligheid en Justitie kan toestemming verlenen tot het over Nederlands grondgebied vervoeren van een persoon wiens overlevering ter zake van één van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2013-01-01&g=2013-01-01) genoemde misdrijven door een andere staat aan een derde staat is toegestaan.
 
 2. Indien het vervoer plaatsvindt ten behoeve van overlevering aan een derde staat, geldt de voorwaarde dat de toestemming alleen kan worden gegeven indien die derde staat partij is bij het geschonden verdrag.
 
