@@ -4,7 +4,7 @@ identifier: "BWBR0012074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012074"
 soort: "ministeriele-regeling"
@@ -163,7 +163,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 ##### Artikel 6. Behandeling aanvragen
 
-De aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5&z=2012-01-01&g=2012-01-01) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvraag zijn gevoegd.
+De aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5&z=2013-01-01&g=2013-01-01) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvraag zijn gevoegd.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -177,28 +177,38 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a. Meerderheid van minder dan 60%
 
-1. Indien op grond van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 2, onderdeel h, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+1. Indien op grond van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 2, onderdeel h, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
 
-2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 3a. Meerderheid van minder dan 60%
 
-1. Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen wijziging van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 3, onderdeel f, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
+1. Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikelonderdeel dan wel, indien tegen wijziging van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 3, onderdeel f, gegeven aan de hand van het in dat artikelonderdeel bedoelde formulier representativiteitsgegevens.
 
-2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 4a. Meerderheid van minder dan 60%
 
-1. Indien op grond van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel, indien tegen intrekking van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 4, eerste lid, onderdeel d, gegeven aan de hand van het in dat artikellidonderdeel bedoelde formulier representativiteitsgegevens.
+1. Indien op grond van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), het aantal werknemers in dienst van georganiseerde werkgevers een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal werknemers als bedoeld in dat artikellidonderdeel dan wel, indien tegen intrekking van de verplichtstelling ingebrachte zienswijzen daartoe aanleiding geven, wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 4, eerste lid, onderdeel d, gegeven aan de hand van het in dat artikellidonderdeel bedoelde formulier representativiteitsgegevens.
 
-2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
+2. De minister kan naar aanleiding van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
 ##### Artikel 6a. Termijnen
 
-1. De minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van een verplichtstelling.
+1. De minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van een verplichtstelling.
 
 2. Indien in verband met het nemen van een besluit als bedoeld in het eerste lid informatie of advies is gevraagd aan een persoon of instantie kan de termijn, bedoeld in het eerste lid, ten hoogste twee maal worden verlengd met een periode van maximaal dertien weken en worden verzoekende partijen van deze verlenging schriftelijk in kennis gesteld.
 
-3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de minister of de Nederlandsche Bank om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van de Nederlandsche Bank om wijziging van statuten of reglementen, krijgen zij vier weken om alsnog te reageren. Indien ook na deze periode niet of niet volledig is gereageerd wordt de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2012-01-01&g=2012-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2012-01-01&g=2012-01-01), niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de minister of de Nederlandsche Bank om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van de Nederlandsche Bank om wijziging van statuten of reglementen, krijgen zij vier weken om alsnog te reageren. Indien ook na deze periode niet of niet volledig is gereageerd wordt de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6b. Elektronische verzending
+
+1. Indien de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en een door hem erkende elektronische handtekening.
+
+2. Bij elektronische verzending van de aanvraag als bedoeld in het eerste lid is [artikel 2, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2013-01-01&g=2013-01-01), [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2013-01-01&g=2013-01-01), of [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2013-01-01&g=2013-01-01), niet van toepassing.
+
+3. De minister zorgt voor de voor elektronische aanvragen noodzakelijke elektronische infrastructuur met behulp waarvan die aanvragen betrouwbaar en vertrouwelijk kunnen worden verzonden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
