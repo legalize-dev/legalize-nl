@@ -4,7 +4,7 @@ identifier: "BWBR0026117"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2009-07-17"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026117"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 1. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het bij [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van [artikel 10, eerste lid, de onderdelen b en c, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), [artikel 16, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en de [artikelen 37 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=37).
 
-2. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het in het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, e, f, i, j, k, o en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6).
+2. Onverminderd [artikel 46, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) is het in het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) bepaalde met betrekking tot de verwerking van politiegegevens van overeenkomstige toepassing op de verwerking van persoonsgegevens door de bijzondere opsporingsdiensten, met uitzondering van de [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:4), [2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), [2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:7), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=3:2), [4:1, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:1), [4:2, eerste lid, de onderdelen a, c, d, e, f, i, j, k, o, q en y](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=4:2), en [6:6 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:6).
 
 ##### Artikel 3. Autorisaties
 
