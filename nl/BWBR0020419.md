@@ -4,7 +4,7 @@ identifier: "BWBR0020419"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2011-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020419"
 soort: "AMvB"
@@ -84,13 +84,13 @@ en voorts, voor de eerste drie boekjaren:
 
 - g. een raming van de liquiditeitspositie; en
 
-- h. een raming van de financiële middelen tot dekking van de verplichtingen en, voorzover van toepassing, tot dekking van de solvabiliteitsmarge bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01).
+- h. een raming van de financiële middelen tot dekking van de verplichtingen en, voorzover van toepassing, tot dekking van de solvabiliteitsmarge bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01).
 
-3. Indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01) van toepassing is worden tevens bewijsstukken overgelegd waaruit blijkt dat de onderlinge waarborgmaatschappij voldoet aan [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01), en is het ingevolge [artikel 3:57, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) bepaalde van toepassing.
+3. Indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01) van toepassing is worden tevens bewijsstukken overgelegd waaruit blijkt dat de onderlinge waarborgmaatschappij voldoet aan [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01), en is het ingevolge [artikel 3:57, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) bepaalde van toepassing.
 
 ##### Artikel 3
 
-1. De Nederlandsche Bank verleent een verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=2&z=2011-07-01&g=2011-07-01) aan onderlinge waarborgmaatschappijen waarvan:
+1. De Nederlandsche Bank verleent een verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=2&z=2013-01-01&g=2013-01-01) aan onderlinge waarborgmaatschappijen waarvan:
 
 - a. de statuten bepalen dat de leden tijdens de bedrijfsuitoefening verplicht zijn of kunnen worden volledig bij te dragen in de tekorten of dat de schadevergoedingsplicht naar gelang van de beschikbare middelen kan worden beperkt en dat bij de ontbinding de leden en zij die binnen de in de statuten bepaalde termijn hebben opgehouden leden te zijn, aansprakelijk zijn voor tekorten of dat de schadevergoedingsplicht naargelang de beschikbare middelen kan worden beperkt;
 
@@ -108,7 +108,7 @@ en voorts, voor de eerste drie boekjaren:
 
 ##### Artikel 4
 
-1. De Nederlandsche Bank verleent een verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=2&z=2011-07-01&g=2011-07-01) aan onderlinge waarborgmaatschappijen die niet voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) en waarvan:
+1. De Nederlandsche Bank verleent een verklaring als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=2&z=2013-01-01&g=2013-01-01) aan onderlinge waarborgmaatschappijen die niet voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) en waarvan:
 
 - a. de statuten bepalen dat de leden tijdens de bedrijfsuitoefening verplicht zijn of kunnen worden volledig bij te dragen in de tekorten, of dat de schadevergoedingsplicht naargelang de beschikbare middelen kan worden beperkt en dat bij de ontbinding de leden en zij die binnen de in de statuten bepaalde termijn hebben opgehouden leden te zijn, aansprakelijk zijn voor tekorten, of dat de schadevergoedingsplicht naar gelang van de beschikbare middelen kan worden beperkt;
 
@@ -122,25 +122,25 @@ en voorts, voor de eerste drie boekjaren:
 
 ##### Artikel 5
 
-1. Een onderlinge waarborgmaatschappij waaraan op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) een verklaring is verleend, dient binnen de door [artikel 58, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=58) bepaalde termijnen de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), onderscheidenlijk [391, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391), en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), bij de Nederlandsche Bank in.
+1. Een onderlinge waarborgmaatschappij waaraan op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) een verklaring is verleend, dient binnen de door [artikel 58, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=58) bepaalde termijnen de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), onderscheidenlijk [391, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391), en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), bij de Nederlandsche Bank in.
 
 2. Het eerste lid is niet van toepassing op onderlinge waarborgmaatschappijen waarvan het aantal verzekeringnemers niet groter is dan tweehonderd en het jaarlijkse bruto premie-inkomen niet meer dan € 91.000 beloopt.
 
 ##### Artikel 6
 
-1. Een onderlinge waarborgmaatschappij waaraan op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01) een verklaring is verleend, dient binnen zes maanden na afloop van het boekjaar bij de Nederlandsche Bank een opgave in met betrekking tot de vanuit de vestigingen in Nederland gesloten schadeverzekeringen met betrekking tot in andere lidstaten gelegen risico’s.
+1. Een onderlinge waarborgmaatschappij waaraan op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01) een verklaring is verleend, dient binnen zes maanden na afloop van het boekjaar bij de Nederlandsche Bank een opgave in met betrekking tot de vanuit de vestigingen in Nederland gesloten schadeverzekeringen met betrekking tot in andere lidstaten gelegen risico’s.
 
 2. In de opgave worden per lidstaat en per branchegroep de in dat boekjaar geboekte premies, schaden en provisies vermeld, telkens zonder aftrek van herverzekering. De Nederlandsche Bank stelt regels met betrekking tot de branchegroepen en het model van de opgave.
 
 ##### Artikel 7
 
-1. Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), [1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:6), [1:10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:24), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:36), [1:40 tot en met 1:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40), [1:51](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:51), [1:52](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:52), [1:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:59), [1:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:65), [1:68](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:68), [1:72 tot en met 1:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72), [1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), [1:76, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76), [1:89 tot en met 1:91](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:89), [1:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:92), [1:93](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93), [1:110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:110), [2:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), [2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:28), [3:8 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17 eerste en tweede lid, aanhef en onderdelen a en b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29), [3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38), en [3:70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70) van toepassing.
+1. Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), [1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:6), [1:10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:24), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:36), [1:40 tot en met 1:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40), [1:51](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:51), [1:52](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:52), [1:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:59), [1:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:65), [1:68](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:68), [1:72 tot en met 1:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72), [1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), [1:76, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76), [1:89 tot en met 1:91](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:89), [1:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:92), [1:93](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93), [1:110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:110), [2:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), [2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:28), [3:8 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17 eerste en tweede lid, aanhef en onderdelen a en b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29), [3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38), en [3:70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70) van toepassing.
 
 2. Met betrekking tot het verzekeren van bijkomende risico’s is het ingevolge [artikel 3:36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:36) bepaalde van toepassing met dien verstande dat de risico’s van de branche Rechtsbijstand uitsluitend als bijkomende risico’s mogen worden gecombineerd met branches waarbij risico’s worden verzekerd die verband houden met het gebruik van zeeschepen. Risico’s die verband houden met aansprakelijkheden ten aanzien waarvan de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) van toepassing is worden evenwel niet als bijkomend risico verzekerd.
 
 ##### Artikel 8
 
-1. Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01) een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), [1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:6), [1:10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:24), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:36), [1:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40), [1:41](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:41), [1:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:42), [1:51](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:51), [1:52](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:52), [1:55](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:55), [1:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:59), [1:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:65), [1:68](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:68), [1:72 tot en met 1:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72), [1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), [1:76, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76), [1:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78), [1:89 tot en met 1:91](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:89), [1:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:92), [1:93](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93), [1:110](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:110), [2:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), [2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:28), [2:117 eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:117), [2:119](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:119), [3:8 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17, eerste lid, tweede lid, aanhef en onderdelen a en b en vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29),[3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38), [3:67, eerste lid, derde lid en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), [3:70](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70), [3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71), [3:72, derde en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), [3:73](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), [3:88](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:88), [3:89](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:89), [3:114](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:114), [3:115 eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:115), [3:116](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:116), [3:117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:117), [3:118](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:118), [3:120, eerste tot en met derde lid, en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:120), [3:121](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:121), [3:128](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:128), [3:130](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:130), [3:132](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:132), [3:136, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136), [3:138](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:138), [3:139](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:139), [3:161](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:161), [3:162 tot en met 3:167](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:162), [3:169](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:169), [3:170](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:170), [3:171, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:171), [3:172 tot en met 3:176](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:172), [3:177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:177), [3:178 tot en met 3:193](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:178), [3:195, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:195), en [3:196 tot en met 3:198, eerste, tweede, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:196) van toepassing. [Artikel 108 van de Invoerings- en aanpassingswet Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&artikel=108) is van overeenkomstige toepassing.
+1. Ten aanzien van een onderlinge waarborgmaatschappij waaraan op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01) een verklaring is verleend, is het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), [1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:6), [1:10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:24), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:36), [1:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40), [1:41](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:41), [1:42](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:42), [1:51](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:51), [1:52](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:52), [1:55](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:55), [1:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:59), [1:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:65), [1:68](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:68), [1:72 tot en met 1:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72), [1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), [1:76, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76), [1:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78), [1:89 tot en met 1:91](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:89), [1:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:92), [1:93](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93), [1:110](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:110), [2:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), [2:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:28), [2:117 eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:117), [2:119](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:119), [3:8 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17, eerste lid, tweede lid, aanhef en onderdelen a en b en vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29),[3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38), [3:67, eerste lid, derde lid en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), [3:70](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70), [3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71), [3:72, derde en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), [3:73](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), [3:88](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:88), [3:89](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:89), [3:114](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:114), [3:115 eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:115), [3:116](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:116), [3:117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:117), [3:118](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:118), [3:120, eerste tot en met derde lid, en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:120), [3:121](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:121), [3:128](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:128), [3:130](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:130), [3:132](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:132), [3:136, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136), [3:138](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:138), [3:139](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:139), [3:161](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:161), [3:162 tot en met 3:167](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:162), [3:169](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:169), [3:170](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:170), [3:171, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:171), [3:172 tot en met 3:176](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:172), [3:177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:177), [3:178 tot en met 3:193](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:178), [3:195, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:195), en [3:196 tot en met 3:198, eerste, tweede, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:196) van toepassing. [Artikel 108 van de Invoerings- en aanpassingswet Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&artikel=108) is van overeenkomstige toepassing.
 
 2. De waarden die dienen tot dekking van de technische voorzieningen moeten in toereikende mate in dezelfde muntsoort kunnen worden geïnd of te gelde gemaakt als die waarin de verplichtingen luiden. Deze waarden zijn in Nederland aanwezig, met dien verstande dat met betrekking tot een overeenkomst van communautaire co-assurantie deze waarden ter keuze van de onderlinge waarborgmaatschappij ook aanwezig mogen zijn in de andere lidstaten van waaruit de overige co-assuradeuren deelnemen aan de overeenkomst. De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het bepaalde in dit lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit lid beoogt te beschermen anderszins worden bereikt.
 
@@ -152,17 +152,17 @@ Voor de toepassing van het ingevolge het [Deel Gedragstoezicht financiële onder
 
 ##### Artikel 10
 
-Indien een onderlinge waarborgmaatschappij voorziet of redelijkerwijs kan voorzien dat zij niet meer voldoet of zal voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01), geeft zij hiervan onverwijld kennis aan de Nederlandsche Bank.
+Indien een onderlinge waarborgmaatschappij voorziet of redelijkerwijs kan voorzien dat zij niet meer voldoet of zal voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01), geeft zij hiervan onverwijld kennis aan de Nederlandsche Bank.
 
 ##### Artikel 11
 
 1. [Artikel 1:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) is van overeenkomstige toepassing.
 
-2. De Nederlandsche Bank brengt de intrekking van een verklaring, verleend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01), ter kennis van de toezichthoudende autoriteiten van de lidstaten waarnaar de onderlinge waarborgmaatschappij vanuit Nederland diensten verricht.
+2. De Nederlandsche Bank brengt de intrekking van een verklaring, verleend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01), ter kennis van de toezichthoudende autoriteiten van de lidstaten waarnaar de onderlinge waarborgmaatschappij vanuit Nederland diensten verricht.
 
 ##### Artikel 12
 
-De Nederlandsche Bank kan onverminderd het bepaalde in [artikel 1:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) een verklaring weigeren of intrekken indien een onderlinge waarborgmaatschappij deel uitmaakt of zal uitmaken van een groep en met het deel uitmaken van die groep naar het oordeel van de Nederlandsche Bank uitsluitend of in hoofdzaak wordt beoogd te bewerkstelligen dat een andere in die groep verbonden onderlinge waarborgmaatschappij voldoet of zal blijven voldoen aan [artikel 3, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01), of [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01).
+De Nederlandsche Bank kan onverminderd het bepaalde in [artikel 1:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) een verklaring weigeren of intrekken indien een onderlinge waarborgmaatschappij deel uitmaakt of zal uitmaken van een groep en met het deel uitmaken van die groep naar het oordeel van de Nederlandsche Bank uitsluitend of in hoofdzaak wordt beoogd te bewerkstelligen dat een andere in die groep verbonden onderlinge waarborgmaatschappij voldoet of zal blijven voldoen aan [artikel 3, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01), of [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 13
 
@@ -178,11 +178,11 @@ De Nederlandsche Bank kan onverminderd het bepaalde in [artikel 1:104, eerste en
 
 1. Op een onderneming op onderlinge grondslag van beperkte omvang met zetel buiten Nederland die vanuit een vestiging buiten Nederland door middel van dienstverrichting naar Nederland het bedrijf van schadeverzekeraar uitoefent of uit wil oefenen en niet in het bezit is van een vergunning die overeenkomt met de in [artikel 2:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), bedoelde vergunning, zijn de [artikelen 2:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:34),[2:37 tot en met 2:47](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), [3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:24), [3:58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), [3:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:78), en [3:83 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:83) niet van toepassing, indien de onderneming aan de Nederlandsche Bank aantoont dat:
 
-- a. zij voldoet aan voorwaarden die overeenkomen met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01);
+- a. zij voldoet aan voorwaarden die overeenkomen met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01);
 
 - b. indien de betrokken vestiging zich in een lidstaat bevindt, op deze vestiging toezicht wordt uitgeoefend dat in voldoende mate overeenkomt met het toezicht ingevolge dit besluit of, indien de betrokken vestiging zich bevindt in een staat die geen lidstaat is, zij in de staat van haar zetel bevoegd is tot uitoefening van het bedrijf van schadeverzekeraar en dit bedrijf vanuit een vestiging in die staat daadwerkelijk uitoefent.
 
-2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=9&z=2011-07-01&g=2011-07-01) is van overeenkomstige toepassing.
+2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=9&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 ### Afdeling 2.2. Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10)
 
@@ -192,7 +192,7 @@ Het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 16
 
-Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.2&artikel=15&z=2011-07-01&g=2011-07-01):
+Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.2&artikel=15&z=2013-01-01&g=2013-01-01):
 
 - a. legt in zijn statuten vast zich bij het uitoefenen van het bedrijf van schadeverzekeraar te beperken tot de werkzaamheden die ingevolge [artikel 3 van de Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3) verricht mogen worden;
 
@@ -212,7 +212,7 @@ Met uitzondering van de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 18
 
-Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf van schadeverzekeraar wil uitoefenen vanuit een in Nederland gevestigd bijkantoor zijn de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2011-07-01&g=2011-07-01) van toepassing.
+Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf van schadeverzekeraar wil uitoefenen vanuit een in Nederland gevestigd bijkantoor zijn de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2013-01-01&g=2013-01-01) van toepassing.
 
 #### § 2.4.1. De toegang tot het bedrijf van schadeverzekering
 
@@ -228,9 +228,9 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ##### Artikel 20
 
-1. Bij de notificatie legt een schadeverzekeraar met zetel in Zwitserland aan de Nederlandsche Bank een programma van werkzaamheden over als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=21&z=2011-07-01&g=2011-07-01).
+1. Bij de notificatie legt een schadeverzekeraar met zetel in Zwitserland aan de Nederlandsche Bank een programma van werkzaamheden over als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=21&z=2013-01-01&g=2013-01-01).
 
-2. De Nederlandsche Bank legt het programma van werkzaamheden, zonodig vergezeld van haar opmerkingen, binnen twee maanden na ontvangst van de vereiste gegevens, bewijsstukken en inlichtingen voor advies voor aan de toezichthoudende instantie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2011-07-01&g=2011-07-01).
+2. De Nederlandsche Bank legt het programma van werkzaamheden, zonodig vergezeld van haar opmerkingen, binnen twee maanden na ontvangst van de vereiste gegevens, bewijsstukken en inlichtingen voor advies voor aan de toezichthoudende instantie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2013-01-01&g=2013-01-01).
 
 3. Indien de toezichthoudende instantie haar advies niet binnen drie maanden nadat zij het programma van werkzaamheden heeft ontvangen aan de Nederlandsche Bank heeft uitgebracht, wordt zij geacht geen bezwaar te hebben.
 
@@ -290,7 +290,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ##### Artikel 25
 
-1. De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.2&artikel=24&z=2011-07-01&g=2011-07-01) uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136).
+1. De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.2&artikel=24&z=2013-01-01&g=2013-01-01) uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136).
 
 2. De schadeverzekeraar kan de ongeldigheid van een rechtshandeling, verricht in strijd met de beperking of het verbod, inroepen indien de wederpartij de maatregel kende of daarvan niet onkundig kon zijn.
 
@@ -306,7 +306,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ##### Artikel 27
 
-1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01), worden verleend indien;
+1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01), worden verleend indien;
 
 - a. de nakoming van alle verplichtingen van de aanvrager die zijn ontstaan door het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen, wordt gegarandeerd door:
 
@@ -320,13 +320,13 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 - b. de aanvrager een door de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) verleende vergunning heeft.
 
-2. De aanvrager van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), toont aan dat zal worden voldaan aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01), en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over:
+2. De aanvrager van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), toont aan dat zal worden voldaan aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01), en legt ten aanzien van de in dat lid bedoelde personen de volgende gegevens over:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
@@ -338,15 +338,15 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 2. De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
-3. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
+3. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 29
 
-De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01), buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
+De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01), buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
 
 ##### Artikel 30
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2011-07-01&g=2011-07-01), in ieder geval in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2013-01-01&g=2013-01-01), in ieder geval in aanmerking:
 
 - a. de in onderdelen 1 en 2 van de bijlage genoemde strafrechtelijke antecedenten;
 
@@ -360,7 +360,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 31
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2011-07-01&g=2011-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2013-01-01&g=2013-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -378,7 +378,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01) bedoelde personen betrokken zijn geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01) bedoelde personen betrokken zijn geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -394,11 +394,21 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 32
 
-De betrouwbaarheid van een persoon als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+1. De betrouwbaarheid van een persoon als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2013-01-01&g=2013-01-01) staat niet buiten twijfel indien:
+
+- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
+
+- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
+
+- c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) of [artikel 65 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of
+
+- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
+
+2. De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=33&z=2013-01-01&g=2013-01-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
 ##### Artikel 33
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2011-07-01&g=2011-07-01), in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2013-01-01&g=2013-01-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -412,9 +422,9 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - a. informeert, alvorens een overeenkomst aan te gaan terzake van het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen zijn wederpartij duidelijk en volledig over diens rechten en plichten met betrekking tot de overeenkomst;
 
-- b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01); en
+- b. deelt de Nederlandsche Bank schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen een wijziging mede in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01); en
 
-- c. deelt de Nederlandsche Bank schriftelijk het voornemen tot wijziging van de personen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2011-07-01&g=2011-07-01), mede.
+- c. deelt de Nederlandsche Bank schriftelijk het voornemen tot wijziging van de personen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2013-01-01&g=2013-01-01), mede.
 
 2. De houder van een ontheffing geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, onderdeel c, voordat de Nederlandsche Bank heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Nederlandsche Bank neemt een besluit omtrent de betrouwbaarheid:
 
@@ -430,7 +440,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01); en
 
 - d. een opgave van referenten.
 
@@ -518,13 +528,13 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 38
 
-1. Een verklaring die is verleend ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=2) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) of ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=2) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) en die op het tijdstip waarop dit besluit in werking treedt niet is ingetrokken, wordt beschouwd te zijn verleend ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2011-07-01&g=2011-07-01) onderscheidenlijk [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2011-07-01&g=2011-07-01) van dit besluit.
+1. Een verklaring die is verleend ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=2) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) of ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=2) of [3 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) en die op het tijdstip waarop dit besluit in werking treedt niet is ingetrokken, wordt beschouwd te zijn verleend ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=3&z=2013-01-01&g=2013-01-01) onderscheidenlijk [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.1&artikel=4&z=2013-01-01&g=2013-01-01) van dit besluit.
 
-2. Een onderneming op onderlinge grondslag als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=14&z=2011-07-01&g=2011-07-01) die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 9a van het Besluit vrijgestelde onderlinge waarborgmaatschappijen of op grond van [artikel 13 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=13) bevoegd is diensten te verrichten naar Nederland vanuit een vestiging buiten Nederland en tevens daadwerkelijk zulke diensten verricht, wordt beschouwd bevoegd te zijn ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=14&z=2011-07-01&g=2011-07-01) van dit besluit.
+2. Een onderneming op onderlinge grondslag als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=14&z=2013-01-01&g=2013-01-01) die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 9a van het Besluit vrijgestelde onderlinge waarborgmaatschappijen of op grond van [artikel 13 van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=13) bevoegd is diensten te verrichten naar Nederland vanuit een vestiging buiten Nederland en tevens daadwerkelijk zulke diensten verricht, wordt beschouwd bevoegd te zijn ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=14&z=2013-01-01&g=2013-01-01) van dit besluit.
 
 ##### Artikel 39
 
-1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=5&artikel=38&z=2011-07-01&g=2011-07-01) blijven op onderlinge waarborgmaatschappijen die op 20 maart 2002 in het bezit waren van een verklaring als bedoeld in [artikel 3, eerste lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3), tot 20 maart 2007 de ingevolge [artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) van toepassing verklaarde eisen van toepassing zoals deze luidden op 2 december 2003.
+1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=5&artikel=38&z=2013-01-01&g=2013-01-01) blijven op onderlinge waarborgmaatschappijen die op 20 maart 2002 in het bezit waren van een verklaring als bedoeld in [artikel 3, eerste lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3), tot 20 maart 2007 de ingevolge [artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) van toepassing verklaarde eisen van toepassing zoals deze luidden op 2 december 2003.
 
 2. Indien de onderlinge waarborgmaatschappij op 20 maart 2007 nog niet volledig voldoet aan de ingevolge [artikel 3, tweede lid, van het Besluit vrijgestelde onderlinge waarborgmaatschappijen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006624&artikel=3) van toepassing verklaarde eisen, kan de Nederlandsche Bank een aanvullende termijn van ten hoogste twee jaar toestaan, mits de onderlinge waarborgmaatschappij voor genoemde datum de maatregelen die zij voornemens is te nemen om de vereiste solvabiliteitsmarge te bereiken overeenkomstig [artikel 3:136, eerste, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136) ter toestemming bij de Nederlandsche Bank heeft ingediend en de Nederlandsche Bank die toestemming heeft verleend.
 
@@ -536,15 +546,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit reikwijdtebepalingen Wft.
 
-## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
-### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 ### 1.1. Veroordelingen
 
 Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 ### 2.1. Veroordelingen
 
@@ -588,7 +598,7 @@ Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of o
 
 ### 3.1. Persoonlijk
 
-### 3. Financiële antecedenten als bedoeld in [artikel 30, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 3. Financiële antecedenten als bedoeld in [artikel 30, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 ### 3.1. Persoonlijk
 
@@ -598,7 +608,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ### 4.1. Toezichtantecedenten
 
-### 4. Toezichtantecedenten als bedoeld in [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 4. Toezichtantecedenten als bedoeld in [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
@@ -636,10 +646,10 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten als bedoeld in [artikel 30, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2011-07-01&g=2011-07-01)
+### 6. Overige antecedenten als bedoeld in [artikel 30, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
