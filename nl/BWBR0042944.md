@@ -4,7 +4,7 @@ identifier: "BWBR0042944"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042944"
 soort: "AMvB"
@@ -49,8 +49,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -131,15 +129,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Financiën van 15 november 2019, nr. 2019-0000191387;
-
-Gelet op de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21), [5.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16b), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6) en [10.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8), [hoofdstuk 2, artikel I, van de Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=I), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) en [34 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=34), [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28), [artikel 67 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67), de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9) en [12 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), [artikel 1:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), [artikel 65 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [artikel 4 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) en [70a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), de [artikelen 37h](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39) en [40a van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), [artikel 38 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=38), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) en 10h van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en [artikel 4 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 5 december 2019, nr. W06.19.0371/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 17 december 2019, nr. 2019-0000214518;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
