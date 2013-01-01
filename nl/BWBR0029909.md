@@ -4,7 +4,7 @@ identifier: "BWBR0029909"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2012-12-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029909"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.7
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2012-12-05&g=2012-12-05), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2012-12-05&g=2012-12-05), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2012-12-05&g=2012-12-05), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2013-01-01&g=2013-01-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2013-01-01&g=2013-01-01), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -150,7 +150,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 5. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2012-12-05&g=2012-12-05), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2012-12-05&g=2012-12-05) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2012-12-05&g=2012-12-05) zijn niet van toepassing op brandstof, waarvoor:
+6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2013-01-01&g=2013-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2013-01-01&g=2013-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op brandstof, waarvoor:
 
 - a. een ontheffing als bedoeld in dit artikel is verleend, of
 
@@ -158,7 +158,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.8
 
-De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2012-12-05&g=2012-12-05), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2012-12-05&g=2012-12-05), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2012-12-05&g=2012-12-05) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2012-12-05&g=2012-12-05) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
+De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2013-01-01&g=2013-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2013-01-01&g=2013-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 2.9
 
@@ -198,7 +198,7 @@ Dit hoofdstuk is van toepassing op het zwavelgehalte van dieselolie voor de sche
 
 - a. de stoffen, naar redelijkerwijs moet worden aangenomen, anders dan als brandstof dan wel niet in de Europese Unie gebruikt;
 
-- b. op grond van een krachtens [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&artikel=3.5&z=2012-12-05&g=2012-12-05) verleende ontheffing bevoegd is de stoffen als brandstof te gebruiken, of
+- b. op grond van een krachtens [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&artikel=3.5&z=2013-01-01&g=2013-01-01) verleende ontheffing bevoegd is de stoffen als brandstof te gebruiken, of
 
 - c. op grond van het bepaalde krachtens [artikel 5, eerste lid, onderdeel c, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=5) bevoegd is de stoffen, bedoeld in het eerste lid, als brandstof te gebruiken.
 
@@ -232,7 +232,7 @@ Het zwavelgehalte van de in dit hoofdstuk bedoelde brandstoffen wordt vastgestel
 
 ##### Artikel 3.5
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 5 van [richtlijn 1999/32/EG](31999L0032) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&artikel=3.2&z=2012-12-05&g=2012-12-05), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.2, eerste lid.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 5 van [richtlijn 1999/32/EG](31999L0032) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&artikel=3.2&z=2013-01-01&g=2013-01-01), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.2, eerste lid.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -268,25 +268,25 @@ Het zwavelgehalte van de in dit hoofdstuk bedoelde brandstoffen wordt vastgestel
 
 ##### Artikel 4.2
 
-1. Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2012-12-05&g=2012-12-05), wordt vastgesteld overeenkomstig het bepaalde in artikel 6 van [richtlijn 1999/32/EG](31999L0032).
+1. Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2013-01-01&g=2013-01-01), wordt vastgesteld overeenkomstig het bepaalde in artikel 6 van [richtlijn 1999/32/EG](31999L0032).
 
-2. Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2012-12-05&g=2012-12-05), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
+2. Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2013-01-01&g=2013-01-01), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
 
 ##### Artikel 4.3
 
-Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een vergunning voor een inrichting een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2012-12-05&g=2012-12-05), opgenomen waarden, doch geen lagere waarde dan 0,3%.
+Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een vergunning voor een inrichting een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2013-01-01&g=2013-01-01), opgenomen waarden, doch geen lagere waarde dan 0,3%.
 
 ### Hoofdstuk 5. Overige en slotbepalingen
 
 ##### Artikel 5.1
 
-1. Het bestuur van de emissieautoriteit controleert de gerapporteerde gegevens, bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.9&z=2012-12-05&g=2012-12-05).
+1. Het bestuur van de emissieautoriteit controleert de gerapporteerde gegevens, bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.9&z=2013-01-01&g=2013-01-01).
 
 2. Bij de controle, bedoeld in het eerste lid, wordt in elk geval nagegaan of:
 
 - a. de gegevens in overeenstemming zijn met de op grond van het Besluit hernieuwbare energie vervoer in het register, bedoeld in [artikel 12.31, eerste lid, van de Wet milieubeheer,](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=12.31) opgenomen gegevens, en
 
-- b. aan het bepaalde in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.9&z=2012-12-05&g=2012-12-05), is voldaan.
+- b. aan het bepaalde in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.9&z=2013-01-01&g=2013-01-01), is voldaan.
 
 3. Het bestuur van de emissieautoriteit verstrekt de gecontroleerde gegevens elektronisch aan Onze Minister.
 
@@ -320,7 +320,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.9a
 
-Dit onderdeel is nog niet inwerking getreden
+Op de rapportageplichtige die in enig kalenderjaar minder dan een bij ministeriële regeling vastgestelde hoeveelheid van bij die regeling aangewezen brandstoffen uitslaat tot verbruik als bedoeld in [artikel 2, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2) is in dat kalenderjaar het bepaalde bij of krachtens [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.9&z=2013-01-01&g=2013-01-01) niet van toepassing.
 
 ### Hoofdstuk 3. Uitvoering van [richtlijn 1999/32/EG](31999L0032) betreffende het zwavelgehalte van brandstoffen
 
