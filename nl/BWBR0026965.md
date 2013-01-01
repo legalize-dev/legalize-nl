@@ -4,7 +4,7 @@ identifier: "BWBR0026965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026965"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - f. **internaat:** gebouw of een samenstel van gebouwen waarin kinderen huisvesting, verzorging en opvoeding wordt geboden of een gezinshuis;
 
-- g. **Exploitant:** Stichting van Protestants-christelijke en Rooms-katholieke opvoeding, verzorging en huisvesting van kinderen van ouders met een trekkend en/of varend bestaan ‘Meanderstichting’, Stichting ‘Limena’, Vereniging Christelijk Internaat voor Schipperskinderen ‘De Merwede’ en Stichting ‘De Zuidwester’;
+- g. **exploitant:** een privaatrechtelijke rechtspersoon die een of meerdere voorzieningen in stand houdt die zijn gericht op het huisvesten, verzorgen en opvoeden van kinderen in een internaat of in een pleeggezin;
 
 - h. **pleeggezin:** gezin van een ander dan de binnenschipper, kermisexploitant of circusartiest, waarin het kind van die binnenschipper, kermisexploitant of circusartiest huisvesting, verzorging en opvoeding wordt geboden;
 
@@ -70,7 +70,7 @@ Besluit:
 
 - –. binnenschipper, kermisexploitant of circusartiest waarvan het kind een internaat of pleeggezin wordt gehuisvest, verzorgd en opgevoed;
 
-- k. **instellingssubsidie:** instellingssubsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=4&z=2012-01-05&g=2012-01-05).
+- k. **instellingssubsidie:** instellingssubsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01).
 
 2. De minister kan voor de toepassing van deze regeling een persoon die in vergelijkbare omstandigheden verkeert, gelijk stellen met een binnenschipper, kermisexploitant of circusexploitant.
 
@@ -86,7 +86,9 @@ De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947
 
 - b. voor wie op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) een leerplicht of kwalificatieplicht geldt en die is ingeschreven op een school of instelling als bedoeld in die wet.
 
-2. In afwijking van het eerste lid, onderdeel b, wordt de subsidie bij wijze van uitzondering ook verstrekt ten behoeve van een kind voor wie:
+2. In afwijking van het eerste lid,onderdeel a, wordt de subsidie bij wijze van uitzondering ook verstrekt ten behoeve van een kind waarvan de ouders vóór 1 januari 2010 in Nederland woonachtig zijn, maar buitenlands belastingplichtig zijn.
+
+3. In afwijking van het eerste lid, onderdeel b, wordt de subsidie bij wijze van uitzondering ook verstrekt ten behoeve van een kind voor wie:
 
 - a. op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) nog geen leerplicht of kwalificatieplicht geldt, maar voor wie wegens bijzondere omstandigheden ten behoeve van zijn ontwikkeling de huisvesting, verzorging en opvoeding in een internaat of pleeggezin noodzakelijk is of
 
@@ -114,31 +116,33 @@ De minister kan aan een exploitant een instellingssubsidie verstrekken:
 
 ##### Artikel 5
 
-1. Bij de verlening van de instellingssubsidie wordt het bedrag van de instellingssubsidie ten behoeve van het kalenderjaar 2012 berekend met de formule Σ(A x B)n+Σ(A x C)n+(D x E) – F, waarbij wordt verstaan onder de letter:
+1. Bij de verlening van de instellingssubsidie wordt het bedrag van de instellingssubsidie ten behoeve van het kalenderjaar 2013 berekend met de formule Σ(A x B)n+Σ(A x C)n+(D x E) – F, waarbij wordt verstaan onder de letter:
 
 - A:. het aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, in het internaat van de exploitant werd gehuisvest, verzorgd en opgevoed;
 
 - B:. indien de exploitant:
 
-- 1°. het internaat huurt: een bedrag van € 24.873;
+- 1°. het internaat huurt: een bedrag van € 25.460;
 
-- 2°. eigenaar is van het internaat en in verband met een op of na 1 januari 2001 op het internaat gevestigde hypotheek rente- en aflossingskosten verschuldigd is: € 29.202;
+- 2°. eigenaar is van het internaat en in verband met een op of na 1 januari 2001 op het internaat gevestigde hypotheek rente- en aflossingskosten verschuldigd is: € 29.891;
 
-- 3°. eigenaar is van het internaat, doch niet of niet langer rente- en aflossingskosten verschuldigd is in verband met een daarop gevestigde hypotheek: € 23.305;
+- 3°. eigenaar is van het internaat, doch niet of niet langer rente- en aflossingskosten verschuldigd is in verband met een daarop gevestigde hypotheek: € 23.855;
 
-- 4°. eigenaar is van het internaat, doch niet van de onroerende zaak waarop het internaat is gebouwd: € 23.429;
+- 4°. eigenaar is van het internaat, doch niet van de onroerende zaak waarop het internaat is gebouwd: € 23.982;
 
 - n:. het aantal internaten van de exploitant;
 
-- C:. een bedrag dat wordt berekend door € 1.100.000 te delen door het totaal aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, in de internaten van de exploitanten werd gehuisvest, verzorgd en opgevoed;
+- C:. een bedrag dat wordt berekend door € 1.000.000 te delen door het totaal aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, in de internaten van de exploitanten werd gehuisvest, verzorgd en opgevoed;
 
 - D:. het aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, door bemiddeling van de exploitant in pleeggezinnen werd gehuisvest, verzorgd en opgevoed;
 
-- E:. een bedrag van € 5.574;
+- E:. een bedrag van € 5.738;
 
-- F:. een door de minister goed te keuren raming van het totale bedrag aan ouderbijdragen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2012-01-05&g=2012-01-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2012-01-05&g=2012-01-05).
+- F:. een door de minister goed te keuren raming van het totale bedrag aan ouderbijdragen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2013-01-01&g=2013-01-01).
 
 2. Indien een internaat bestaat uit een samenstel van gebouwen en deze gebouwen onder meer dan één categorie vallen, zoals omschreven in het eerste lid, letter B, wordt voor de toepassing van dit artikel uitgegaan van het gebouw waarin het kind overnacht.
+
+3. Indien een exploitant voor de eerste maal een instellingssubsidie aanvraagt, wordt de subsidie eenmalig verstrekt voor het tijdvak van 1 september tot en met 31 december van het jaar waarop de aanvraag betrekking heeft. De subsidie wordt alsdan overeenkomstig het eerste lid berekend met dien verstande dat voor de berekening onder de letters **A, C** en **D** van de in aanhef van het eerste lid vermelde formule het aantal kinderen wordt verstaan dat hij voornemens is in een internaat dan wel pleeggezin te huisvesten, verzorgen en opvoeden. De subsidie wordt voorts naar evenredigheid berekend voor vier maanden.
 
 #### Paragraaf 3. Aanvraag
 
@@ -148,11 +152,13 @@ Voor de aanvraag van een instellingssubsidie wordt een door de minister vastgest
 
 ##### Artikel 7
 
-De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in [artikel 5, eerste lid onder de letters A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=5&z=2012-01-05&g=2012-01-05). Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
+De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in [artikel 5, eerste lid onder de letters A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01). Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
 ##### Artikel 8
 
-De aanvraag van een instellingssubsidie wordt ingediend voor 1 november van het kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
+1. De aanvraag van een instellingssubsidie wordt ingediend voor 1 november van het kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
+
+2. Indien een exploitant voor de eerste maal een aanvraag om instellingssubsidie indient, wordt de aanvraag ingediend vóór 1 juli van enig kalenderjaar. Bij de aanvraag wordt opgave gedaan van het aantal kinderen dat hij voornemens is in een internaat dan wel pleeggezin te huisvesten, verzorgen en opvoeden. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=3&artikel=7&z=2013-01-01&g=2013-01-01) is op een dergelijke aanvraag niet van toepassing.
 
 #### Paragraaf 4. Subsidieverplichtingen
 
@@ -160,33 +166,33 @@ De aanvraag van een instellingssubsidie wordt ingediend voor 1 november van het 
 
 1. De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het internaat een ouderbijdrage is verschuldigd aan de exploitant.
 
-2. De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het jaar 2012:
+2. De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2013:
 
-- a. voor het eerste kind uit een gezin € 1.520,34, vermeerderd met 3% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.757,04;
+- a. voor het eerste kind uit een gezin € 1.565,19, vermeerderd met 3% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.838,37;
 
-- b. voor het tweede en elk volgend kind uit een gezin € 1.013,39, vermeerderd met 1,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.628,45.
+- b. voor het tweede en elk volgend kind uit een gezin € 1.043,29, vermeerderd met 1,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.679,86
 
 ##### Artikel 10
 
 1. De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het pleeggezin een ouderbijdrage is verschuldigd aan de exploitant.
 
-2. De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het jaar 2012:
+2. De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2013:
 
-- a. voor het eerste kind uit een gezin € 1.520,34, vermeerderd met 1% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.932,58;
+- a. voor het eerste kind uit een gezin € 1.565,19 vermeerderd met 1% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00. te boven gaat, tot een maximum van € 1.989,59;
 
-- b. voor het tweede en elk volgend kind uit een gezin € 1.013,39, vermeerderd met 0,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.219,48.
+- b. voor het tweede en elk volgend kind uit een gezin € 1.043,29 , vermeerderd met 0,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.255,45
 
 ##### Artikel 11
 
-Het belastbare inkomen, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2012-01-05&g=2012-01-05), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2012-01-05&g=2012-01-05), is het belastbare inkomen dat is vermeld op de belastingaanslag over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
+Het belastbare inkomen, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2013-01-01&g=2013-01-01), is het belastbare inkomen dat is vermeld op de belastingaanslag over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
 ##### Artikel 12
 
-De ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2012-01-05&g=2012-01-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2012-01-05&g=2012-01-05), is verschuldigd naar evenredigheid van het aantal schoolweken van het jaar dat het kind is geplaatst in een internaat of een pleeggezin.
+De ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2013-01-01&g=2013-01-01), is verschuldigd naar evenredigheid van het aantal schoolweken van het jaar dat het kind is geplaatst in een internaat of een pleeggezin.
 
 ##### Artikel 13
 
-De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2012-01-05&g=2012-01-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2012-01-05&g=2012-01-05).
+De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 14
 
@@ -196,7 +202,7 @@ De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.o
 
 ##### Artikel 15
 
-1. De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2012-01-05&g=2012-01-05).
+1. De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01).
 
 2. Het verslag, bedoeld in het eerste lid, wordt gedaan overeenkomstig een door de minister vastgesteld model.
 
@@ -204,7 +210,7 @@ De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.o
 
 ##### Artikel 16
 
-Met het toezicht op de naleving van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2012-01-05&g=2012-01-05) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=15&z=2012-01-05&g=2012-01-05) zijn belast de ambtenaren van de Inspectie jeugdzorg, bedoeld in [artikel 47 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=47).
+Met het toezicht op de naleving van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=15&z=2013-01-01&g=2013-01-01) zijn belast de ambtenaren van de Inspectie jeugdzorg, bedoeld in [artikel 47 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=47).
 
 ##### Artikel 17
 
@@ -220,7 +226,7 @@ Vervallen
 
 ##### Artikel 19
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=18&z=2012-01-05&g=2012-01-05) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=18&z=2013-01-01&g=2013-01-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 ##### Artikel 20
 
