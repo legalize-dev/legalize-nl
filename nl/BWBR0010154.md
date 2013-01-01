@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2009-11-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2009-11-05&g=2009-11-05).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -235,7 +235,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2009-11-05&g=2009-11-05), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2013-01-01&g=2013-01-01), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -257,7 +257,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - c. commissie luchtverkeersincidenten;
 
-- d. Luchtvaartpolitie van het Korps Landelijke Politiediensten;
+- d. dienst Operationele samenwerking van de Landelijke eenheid;
 
 - e. de Inspectie Verkeer en Waterstaat.
 
