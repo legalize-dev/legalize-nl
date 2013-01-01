@@ -4,7 +4,7 @@ identifier: "BWBR0026839"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026839"
 soort: "AMvB"
@@ -176,9 +176,9 @@ die betrekking heeft op de bodem of oever van een oppervlaktewaterlichaam, die d
 
 1. Nadere eisen, gesteld krachtens het [Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430) vóór 1 oktober 2009, worden gelijkgesteld met maatwerkvoorschriften krachtens dat besluit, zoals het luidt met ingang van die datum.
 
-2. Maatwerkvoorschriften als bedoeld in [bijlage 3, voorschrift 1, derde lid, van het Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430&bijlage=3), die door het Wvo-bevoegd gezag, bedoeld in dat besluit, zijn gesteld vóór het tijdstip van inwerkingtreding van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=VII&z=2010-01-01&g=2010-01-01), worden gelijkgesteld met maatwerkvoorschriften, gesteld door het Wm-bevoegd gezag, bedoeld in dat besluit.
+2. Maatwerkvoorschriften als bedoeld in [bijlage 3, voorschrift 1, derde lid, van het Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430&bijlage=3), die door het Wvo-bevoegd gezag, bedoeld in dat besluit, zijn gesteld vóór het tijdstip van inwerkingtreding van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=VII&z=2013-01-01&g=2013-01-01), worden gelijkgesteld met maatwerkvoorschriften, gesteld door het Wm-bevoegd gezag, bedoeld in dat besluit.
 
-3. Maatwerkvoorschriften als bedoeld in [bijlage 3, de voorschriften 5, derde lid, 6, vierde lid, 7, vijfde lid, 8, vierde lid, 11, vijfde lid, 12, derde lid, 13, derde lid, 14, tiende lid, of 15, vijfde lid, van het Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430&bijlage=3), die door het Wvo-bevoegd gezag, bedoeld in dat besluit, zijn gesteld vóór het tijdstip van inwerkingtreding van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=VII&z=2010-01-01&g=2010-01-01), worden gelijkgesteld met maatwerkvoorschriften, gesteld door het Wm-bevoegd gezag, bedoeld in dat besluit, tenzij bijlage 3, voorschrift 3, tweede lid, van dat besluit van toepassing is.
+3. Maatwerkvoorschriften als bedoeld in [bijlage 3, de voorschriften 5, derde lid, 6, vierde lid, 7, vijfde lid, 8, vierde lid, 11, vijfde lid, 12, derde lid, 13, derde lid, 14, tiende lid, of 15, vijfde lid, van het Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430&bijlage=3), die door het Wvo-bevoegd gezag, bedoeld in dat besluit, zijn gesteld vóór het tijdstip van inwerkingtreding van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=VII&z=2013-01-01&g=2013-01-01), worden gelijkgesteld met maatwerkvoorschriften, gesteld door het Wm-bevoegd gezag, bedoeld in dat besluit, tenzij bijlage 3, voorschrift 3, tweede lid, van dat besluit van toepassing is.
 
 4. Het Wvo-bevoegd gezag, bedoeld in het tweede en derde lid, draagt de archiefbescheiden die betrekking hebben op maatwerkvoorschriften als bedoeld in die leden over aan het Wm-bevoegd gezag, bedoeld in die leden.
 
@@ -198,7 +198,7 @@ Nadere eisen, gesteld krachtens het [Besluit landbouw milieubeheer](https://wett
 
 ##### Artikel XXXIII
 
-Maatwerkvoorschriften als bedoeld in [artikel 2.2, derde lid, van het Besluit algemene regels voor inrichtingen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.2) met betrekking tot het lozen in het oppervlaktewater, gesteld vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=II&z=2010-01-01&g=2010-01-01), worden gelijkgesteld met een vergunning voor het brengen van stoffen in een oppervlaktewaterlichaam als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2).
+Maatwerkvoorschriften als bedoeld in [artikel 2.2, derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.2) met betrekking tot het lozen in het oppervlaktewater, gesteld vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=II&z=2013-01-01&g=2013-01-01), worden gelijkgesteld met een vergunning voor het brengen van stoffen in een oppervlaktewaterlichaam als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2).
 
 ##### Artikel XXXIV
 
@@ -214,7 +214,7 @@ Dit besluit wordt aangehaald als: Invoeringsbesluit Waterwet.
 
 ##### Artikel XXXVII
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen XXVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXVII&z=2010-01-01&g=2010-01-01), [XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXX&z=2010-01-01&g=2010-01-01), en [XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXXII&z=2010-01-01&g=2010-01-01) kunnen terugwerken tot een bij dat besluit te bepalen tijdstip.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen XXVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXVII&z=2013-01-01&g=2013-01-01), [XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXX&z=2013-01-01&g=2013-01-01), en [XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXXII&z=2013-01-01&g=2013-01-01) kunnen terugwerken tot een bij dat besluit te bepalen tijdstip.
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 17 februari 2009, nr. CEND/HDJZ-2009/133 sector WAT, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
