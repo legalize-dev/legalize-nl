@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2012-08-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -82,13 +82,13 @@ De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer
 
 1. De artikelen van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 1 januari 2008.
 
-2. In afwijking van het eerste lid werkt [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), terug tot en met 1 januari 2009;
+2. In afwijking van het eerste lid werkt [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), terug tot en met 1 januari 2009;
 
-3. In afwijking van het eerste lid werkt [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), terug tot en met 1 januari 2010;
+3. In afwijking van het eerste lid werkt [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), terug tot en met 1 januari 2010;
 
-4. In afwijking van het eerste lid werkt [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), terug tot en met 1 januari 2011;
+4. In afwijking van het eerste lid werkt [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), terug tot en met 1 januari 2011;
 
-5. In afwijking van het eerste lid werkt [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), terug tot en met 1 januari 2012.
+5. In afwijking van het eerste lid werkt [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), terug tot en met 1 januari 2012.
 
 ##### Artikel 9
 
@@ -102,7 +102,7 @@ Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechter
 
 Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechterlijke ambtenaren.
 
-## Bijlage. als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 De onkostenvergoeding voor het jaar 2009 bedraagt:
 
@@ -120,7 +120,7 @@ De onkostenvergoeding voor het jaar 2009 bedraagt:
 | griffier (+ substituut-griffiers) Hoge Raad | **€ 725,00** | **€ 60,42** |
 | (senior-)gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 521,00** | **€ 43,42** |
 
-## Bijlage. als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 De onkostenvergoeding voor het jaar 2010 bedraagt:
 
@@ -138,7 +138,7 @@ De onkostenvergoeding voor het jaar 2010 bedraagt:
 | griffier (+ substituut-griffiers) Hoge Raad | **€ 732,00** | **€ 61,00** |
 | (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 526,00** | **€ 43,83** |
 
-## Bijlage. als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 De onkostenvergoeding voor het jaar 2011 bedraagt:
 
@@ -156,7 +156,7 @@ De onkostenvergoeding voor het jaar 2011 bedraagt:
 | griffier (+ substituut-griffiers) Hoge Raad | **€ 741,00** | **€ 61,75** |
 | (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 532,00** | **€ 44,33** |
 
-## Bijlage. als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 De onkostenvergoeding voor het jaar 2012 bedraagt:
 
@@ -175,13 +175,28 @@ De onkostenvergoeding voor het jaar 2012 bedraagt:
 | griffier (+ substituut-griffiers) Hoge Raad | **€ 758,00** | **€ 63,17** |
 | (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 544,00** | **€ 45,33** |
 
-## Bijlage 5. Algemene onkostenvergoeding voor het jaar 2012
+## Bijlage. als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2013-06-13&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
-bij de Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren ([artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=7)).
+De onkostenvergoeding voor het jaar 2012 bedraagt:
+
+| Functie | Totaal per jaar | Totaal per maand |
+| --- | --- | --- |
+| president Hoge Raad procureur-generaal Hoge Raad | **€ 4.852,00** | **€ 404,33** |
+| procureurs-generaal die het College van PG 's vormen | **€ 4.702,00** | **€ 391,83** |
+| plaatsvervangend procureur-generaal bij de Hoge Raad | **€ 2.711,00** | **€ 225,92** |
+| hoofdadvocaat-generaal hoofdofficier van justitie fungerend hoofdofficier van justitie | **€ 2.562,00** | **€ 213,50** |
+| plaatsvervangend hoofdadvocaat-generaal plaatsvervangend hoofdofficier van justitie | **€ 1.958,00** | **€ 163,17** |
+| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer centrale raad van beroep senior raadsheer college van beroep voor het bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | **€ 1.807,00** | **€ 150,58** |
+| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat-generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | **€ 1.657,00** | **€ 138,08** |
+| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zittingen | **€ 1.507,00** | **€ 125,58** |
+| raadsheer Hoge Raad | **€ 1.358,00** | **€ 113,17** |
+| raadsheer gerechtshof rechter raadsheer centrale raad van beroep raadsheer college van beroep voor het bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een arrondissementsrechtbank waarbij hij is aangesteld |   |   |
+| griffier (+ substituut-griffiers) Hoge Raad | **€ 758,00** | **€ 63,17** |
+| (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 544,00** | **€ 45,33** |
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2012-08-22), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=4&z=2012-08-22&g=2013-01-01), van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 De onkostenvergoeding voor het jaar 2008 bedraagt:
 
