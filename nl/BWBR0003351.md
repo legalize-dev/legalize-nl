@@ -4,7 +4,7 @@ identifier: "BWBR0003351"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2008-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003351"
 soort: "wet"
@@ -42,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### artikel Enig
 
-1. Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (**Trb.** 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank te 's-Gravenhage.
+1. Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (**Trb.** 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank Den Haag.
 
 2. Indien bij het verzoek een overeenkomstig artikel 54 van dat verdrag gewaarmerkt afschrift wordt overgelegd, stelt de voorzieningenrechter daarop de woorden "In naam des Konings" en "Uitgegeven voor eerste grosse", met de dagtekening, de vermelding van zijn ambt en zijn handtekening.
 
