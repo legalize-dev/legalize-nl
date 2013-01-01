@@ -4,7 +4,7 @@ identifier: "BWBR0009658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2006-08-26"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009658"
 soort: "ministeriele-regeling"
@@ -43,13 +43,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **het bevoegd gezag:** het bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder k, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. **het bevoegd gezag:** het bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **ambtenaar:** de ambtenaar als bedoeld in [artikel 1, eerste lid, onder h, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- b. **ambtenaar:** de ambtenaar als bedoeld in [artikel 1, eerste lid, onder i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2
 
-Onverminderd [artikel 62, eerste lid, onderdelen a tot en met e, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62), kan het bevoegd gezag een ambtenaar detacheren bij:
+Onverminderd [artikel 62, onderdelen a tot en met c, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62), kan het bevoegd gezag een ambtenaar detacheren bij:
 
 - a. de stichting Inpact te Houten;
 
@@ -57,15 +57,15 @@ Onverminderd [artikel 62, eerste lid, onderdelen a tot en met e, van het Besluit
 
 - c. de stichting Beheersinstituut Politiekeurmerk Veilig Wonen;
 
-- d. een andere organisatie dan genoemd onder a tot en met c, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een regionaal politiekorps, het korps landelijke politiediensten dan wel het LSOP.
+- d. een andere organisatie dan genoemd onder a tot en met c, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een onderdeel van de politie, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), dan wel het LSOP.
 
 ##### Artikel 3
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2006-08-26&g=2006-08-26) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2013-01-01&g=2013-01-01) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
 
-##### Artikel 4
+##### Artikel 5
 
-Vervallen
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1997.
 
 ##### Artikel 5
 
@@ -76,3 +76,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 Deze regeling wordt aangehaald als: Regeling detachering politie.
 
 Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden geplaatst.
+
+##### Artikel 4
+
+Deze regeling berust op [artikel 62, eerste lid, onder c, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62).
