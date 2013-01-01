@@ -4,7 +4,7 @@ identifier: "BWBR0007748"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2008-08-20"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007748"
 soort: "AMvB"
@@ -78,31 +78,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De zorgdrager betrekt bij het ontwerpen van een selectielijst ten minste:
 
-- a. één of meer personen die deskundig zijn ten aanzien van de organisatie en taken van het desbetreffende overheidsorgaan;
+- a. de persoon die hij binnen zijn organisatie uit hoofde van diens verantwoordelijkheid voor de informatiehuishouding daartoe heeft aangewezen;
 
-- b. één of meer personen die deskundig zijn ten aanzien van het beheer van de nog niet naar een archiefbewaarplaats overgebrachte archiefbescheiden van het desbetreffende overheidsorgaan;
+- b. indien deze is benoemd de archivaris die de beheerder is van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager;
 
-- c. de algemene rijksarchivaris;
+- c. in afwijking van onderdeel b de algemene rijksarchivaris indien de in dat onderdeel bedoelde archiefbewaarplaats een rijksarchiefbewaarplaats is;
 
-- d. indien het archiefbescheiden van een provincie of archiefbescheiden als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=40), van de wet betreft, tevens de provinciaal inspecteur;
+- d. een deskundige op het terrein van de relatie tussen burger en overheid en de betekenis van overheidsinformatie voor deze relatie.
 
-- e. indien het archiefbescheiden van een gemeente of waterschap betreft, tevens de provinciaal inspecteur en, indien benoemd, de gemeentearchivaris onderscheidenlijk waterschapsarchivaris.
-
-2. Indien gedeputeerde staten van twee of meer provincies gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **d**, volstaan worden met de betrokkenheid van een provinciaal inspecteur.
-
-3. Indien de colleges van burgemeester en wethouders van twee of meer gemeenten of de besturen van twee of meer waterschappen gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **e**, volstaan worden met de betrokkenheid van een provinciaal inspecteur en een gemeentearchivaris, onderscheidenlijk waterschapsarchivaris.
+2. Indien de gedeputeerde staten van twee of meer provincies, de colleges van burgemeester en wethouders van twee of meer gemeenten, of de besturen van twee of meer waterschappen gezamenlijk een selectielijst ontwerpen, kan volstaan worden met de betrokkenheid van een aangewezen persoon als bedoeld in het eerste lid, onderdeel a, en met de betrokkenheid van een provinciearchivaris, onderscheidenlijk gemeentearchivaris of waterschapsarchivaris.
 
 ##### Artikel 4
 
 1. Op de voorbereiding van een selectielijst is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Onze minister geeft toepassing aan deze procedure.
 
-2. De termijn voor het uitbrengen van een advies door de Raad voor cultuur bedraagt acht weken.
-
-3. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+2. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
 ##### Artikel 5
 
-Een selectielijst bestaat ten minste uit:
+1. Een selectielijst bestaat ten minste uit:
 
 - a. een titel waaruit blijkt op welk overheidsorgaan de selectielijst betrekking heeft;
 
@@ -112,25 +106,29 @@ Een selectielijst bestaat ten minste uit:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2008-08-20&g=2008-08-20),
+- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01),
 
-- 2°. een verslag van de wijze waarop derden en met name de deskundigen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2008-08-20&g=2008-08-20), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
+- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
 
-- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2008-08-20&g=2008-08-20);
+- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2013-01-01&g=2013-01-01);
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
+
+2. De systematische opsomming, bedoeld in het eerste lid, onderdeel c, is in overeenstemming met de voor het archief geldende ordeningsstructuur.
 
 ##### Artikel 6
 
 1. De zorgdrager besluit tot vervanging van archiefbescheiden door reprodukties slechts indien de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2008-08-20&g=2008-08-20).
+2. De zorgdrager maakt bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01).
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de vervanging, bedoeld in het eerste lid.
 
 ##### Artikel 7
 
-1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2008-08-20&g=2008-08-20), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
+1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden personen als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de deskundigen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2008-08-20&g=2008-08-20).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de personen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 8
 
@@ -148,7 +146,7 @@ De zorgdrager maakt van de vernietiging, vervanging of vervreemding een verklari
 
 ##### Artikel 10
 
-Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2008-08-20&g=2008-08-20).
+Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01).
 
 ### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
 
@@ -212,7 +210,7 @@ Vervallen
 
 ##### Artikel 20
 
-[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2008-08-20&g=2008-08-20), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
+[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2013-01-01&g=2013-01-01), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
 ##### Artikel 21
 
@@ -230,7 +228,7 @@ Dit besluit wordt aangehaald als: Archiefbesluit 1995.
 
 1. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) treedt in werking met ingang van 1 januari 1996.
 
-2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2008-08-20&g=2008-08-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2008-08-20&g=2008-08-20) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2008-08-20&g=2008-08-20), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
+2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2013-01-01&g=2013-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2013-01-01&g=2013-01-01) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2013-01-01&g=2013-01-01), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -238,10 +236,28 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a
 
-Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2008-08-20&g=2008-08-20).
+Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 20b
 
 Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de benoembaarheidsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3a
+
+1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
+
+2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
+
+### Hoofdstuk III. Overbrenging van archiefbescheiden
+
+### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
+
+### Hoofdstuk V. Zorg voor de archiefbescheiden van het rijk en van de in artikel 41, eerste lid, van de wet bedoelde overheidsorganen, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats
+
+### Hoofdstuk VI. Opleiding tot en het verkrijgen van diploma’s in de archivistiek
+
+### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
