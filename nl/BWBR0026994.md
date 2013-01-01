@@ -4,7 +4,7 @@ identifier: "BWBR0026994"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026994"
 soort: "ministeriele-regeling"
@@ -37,25 +37,25 @@ Besluit:
 
 ##### Artikel 1
 
-- 1. **DSI:** Dienst Speciale Interventies, bijstandseenheid als bedoeld in [artikel 60, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60);
+- 1. **DSI:** Dienst Speciale Interventies, bijstandseenheid als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
 
 - 2. **UIM:** Unit Interventie Mariniers, eenheid van de DSI, in beheer bij het ministerie van Defensie.
 
 ##### Artikel 2
 
-Er is een Beleidsteam voor de advisering en ondersteuning van de Minister van Justitie bij de inzet van de DSI, hierna te noemen het Beleidsteam.
+Er is een Beleidsteam voor de advisering en ondersteuning van de Minister van Veiligheid en Justitie bij de inzet van de DSI, hierna te noemen het Beleidsteam.
 
 ##### Artikel 3
 
-1. Het Beleidsteam adviseert en ondersteunt de Minister van Justitie bij de inzet van de DSI, met uitzondering van die situaties waarin de voorzitter van het College van procureurs-generaal bevoegd is deze beslissing in naam van de Minister van Justitie te nemen.
+1. Het Beleidsteam adviseert en ondersteunt de Minister van Veiligheid en Justitie bij de inzet van de DSI, met uitzondering van die situaties waarin de voorzitter van het College van procureurs-generaal bevoegd is deze beslissing in naam van de Minister van Veiligheid en Justitie te nemen.
 
 2. De advisering en ondersteuning heeft betrekking op het plan van inzet van de DSI en de voorwaarden en kaders waarbinnen de inzet plaats dient te vinden.
 
 ##### Artikel 4
 
-1. De voorzitter van het Beleidsteam is de Nationaal Coördinator Terrorismebestrijding. Het Beleidsteam is voorts samengesteld uit:
+1. De voorzitter van het Beleidsteam is de Nationaal Coördinator Terrorismebestrijding en Veiligheid. Het Beleidsteam is voorts samengesteld uit:
 
-- a. De Korpschef van het Korps landelijke politiediensten;
+- a. de korpschef;
 
 - b. de Voorzitter van het College van procureurs-generaal.
 
@@ -65,7 +65,7 @@ Er is een Beleidsteam voor de advisering en ondersteuning van de Minister van Ju
 
 4. In het geval de leden van het Beleidsteam om zwaarwegende redenen niet aanwezig kunnen zijn, kunnen zij zich laten vertegenwoordigen.
 
-5. Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding.
+5. Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid.
 
 ##### Artikel 5
 
