@@ -4,7 +4,7 @@ identifier: "BWBR0018114"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018114"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2012-10-01&g=2012-10-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
+Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
 
 ##### Artikel 2
 
@@ -70,9 +70,9 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ##### Artikel 5
 
-1. De zetelverplaatsing van een Europese naamloze vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Gemeenschap heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. Tegen het verzet staat voor de Europese naamloze vennootschap beroep open bij het College van beroep voor het bedrijfsleven. De verklaring in de zin van artikel 8, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
+1. De zetelverplaatsing van een Europese naamloze vennootschap met statutaire zetel in Nederland naar een andere lidstaat van de Europese Gemeenschap heeft geen rechtsgevolg wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister, binnen twee maanden na de aankondiging van de nederlegging van het voorstel. De verklaring in de zin van artikel 8, achtste lid, van de Verordening mag eerst worden afgegeven, zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
 
-2. Voor de toepassing van artikel 8, veertiende lid, tweede alinea, van de Verordening zijn de laatste twee zinnen van het eerste lid van overeenkomstige toepassing.
+2. Voor de toepassing van artikel 8, veertiende lid, tweede alinea, van de Verordening is de tweede zin van het eerste lid van overeenkomstige toepassing.
 
 ##### Artikel 6
 
@@ -82,7 +82,7 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ##### Artikel 7
 
-Een vennootschap met statutaire zetel in Nederland kan niet aan de oprichting van een Europese naamloze vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 21 van de Verordening. Tegen het verzet staat voor de vennootschap beroep open bij het College van beroep voor het bedrijfsleven. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
+Een vennootschap met statutaire zetel in Nederland kan niet aan de oprichting van een Europese naamloze vennootschap door fusie deelnemen wanneer Onze Minister van Justitie zich daartegen verzet om redenen van algemeen belang door nederlegging van een daarop betrekking hebbende verklaring ten kantore van het handelsregister binnen een maand na de bekendmaking van de gegevens als bedoeld in artikel 21 van de Verordening. De deelneming aan de fusie heeft eerst rechtsgevolg zodra het verzet is ingetrokken of de opheffing van het verzet onherroepelijk is.
 
 ##### Artikel 8
 
@@ -154,7 +154,7 @@ Als bevoegde autoriteit in de zin van artikel 55, derde lid, van de Verordening 
 
 ##### Artikel 22
 
-Als bevoegde autoriteit in de zin van artikel 64, vierde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket te Amsterdam.
+Als bevoegde autoriteit in de zin van artikel 64, vierde lid, van de Verordening wordt aangewezen: het hoofd van het ressortsparket.
 
 ### Hoofdstuk 2. Wijziging van andere wetten
 
