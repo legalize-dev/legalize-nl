@@ -4,7 +4,7 @@ identifier: "BWBR0028846"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2010-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028846"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 - a. spoedeisende hulpverlening;
 
-- b. de uitoefening van politietaken als bedoeld in [artikel 2 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2).
+- b. de uitoefening van politietaken als bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3).
 
 2. De in het eerste lid bedoelde vrijstelling wordt verleend met betrekking tot:
 
