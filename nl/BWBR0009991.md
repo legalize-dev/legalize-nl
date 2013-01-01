@@ -4,7 +4,7 @@ identifier: "BWBR0009991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-24"
-last_updated: "2004-05-19"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009991"
 soort: "ministeriele-regeling"
@@ -40,11 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als beheerders van de alarmnummers voor publieke diensten, bedoeld in [artikel 11.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), worden aangewezen de korpsbeheerders, bedoeld in [artikel 23 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=23), en de Minister van Justitie als beheerder van het Korps landelijke politiediensten.
+Als beheerder van de alarmnummers voor publieke diensten, bedoeld in [artikel 11.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), wordt aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
 ##### Artikel 2
 
-Als publieke diensten belast met hulpverleningstaken, bedoeld in [artikel 11.10, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), worden aangewezen de gemeentelijke en regionale brandweerkorpsen, de ambulancediensten aan wie krachtens de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend voor het verrichten van ambulancevervoer, de regionale politiekorpsen en het Korps landelijke politiediensten.
+Als publieke diensten belast met hulpverleningstaken, bedoeld in [artikel 11.10, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), worden aangewezen de gemeentelijke en regionale brandweerkorpsen, de Regionale Ambulancevoorzieningen, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4), en de politie.
 
 ##### Artikel 3
 
