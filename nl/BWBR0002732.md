@@ -4,7 +4,7 @@ identifier: "BWBR0002732"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-27"
-last_updated: "2010-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002732"
 soort: "AMvB"
@@ -46,11 +46,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. **gerechtshof:** het gerechtshof te Amsterdam of 's-Gravenhage;
+- –. **gerechtshof:** het gerechtshof Amsterdam of het gerechtshof Den Haag;
 
-- –. **ondernemingskamer:** de ondernemingskamer van het gerechtshof te Amsterdam, bedoeld in [artikel 66, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66);
+- –. **ondernemingskamer:** de ondernemingskamer van het gerechtshof Amsterdam, bedoeld in [artikel 66, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66);
 
-- –. **bijzondere kamer:** de bijzondere kamer van het gerechtshof te ’s-Gravenhage, bedoeld in [artikel 66, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66).
+- –. **bijzondere kamer:** de bijzondere kamer van het gerechtshof Den Haag, bedoeld in [artikel 66, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66).
 
 ##### Artikel 3
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-De installatie van de deskundige leden en plaatsvervangende deskundige leden in de ondernemingskamer en de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=4&z=2010-07-01&g=2010-07-01).
+De installatie van de deskundige leden en plaatsvervangende deskundige leden in de ondernemingskamer en de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=4&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 7
 
@@ -120,17 +120,17 @@ Aan de deskundige leden en plaatsvervangende deskundige leden wordt een vergoedi
 
 ##### Artikel 15
 
-1. De deskundige leden en plaatsvervangende deskundige leden genieten, zowel voor het bijwonen van de bijeenkomsten van de ondernemingskamer of de bijzondere kamer als voor het volbrengen van verrichtingen welke hun, ook buiten eigenlijk rechtsgeding, door de ondernemingskamer of de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen van het Reisbesluit 1956 of het Besluit vergoeding plaatselijk vervoer en verblijf, en worden daarbij ingedeeld in categorie A.
+1. De deskundige leden en plaatsvervangende deskundige leden genieten, zowel voor het bijwonen van de bijeenkomsten van de ondernemingskamer of de bijzondere kamer als voor het volbrengen van verrichtingen welke hun, ook buiten eigenlijk rechtsgeding, door de ondernemingskamer of de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen die hieromtrent gelden voor burgerlijke rijksambtenaren.
 
 2. Reis- en verblijfkosten worden hun overeenkomstig het vorige lid eveneens vergoed ter gelegenheid van hun beëdiging en installatie.
 
 ##### Artikel 16
 
-1. Aan het Ministerie van Justitie worden maandelijks ingezonden:
+1. Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden:
 
-- a. de declaraties wegens vergoedingen, bedoeld in de [artikelen no. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=13&z=2010-07-01&g=2010-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=14&z=2010-07-01&g=2010-07-01);
+- a. de declaraties wegens vergoedingen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=13&z=2013-01-01&g=2013-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=14&z=2013-01-01&g=2013-01-01);
 
-- b. de declaraties wegens reis- en verblijfkosten bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=15&z=2010-07-01&g=2010-07-01).
+- b. de declaraties wegens reis- en verblijfkosten bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=15&z=2013-01-01&g=2013-01-01).
 
 2. De in het eerste lid onder **a** genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en aan de gerechtelijke plaatsopneming en bezichtiging is deelgenomen, en bevatten een verklaring van de voorzitter der ondernemingskamer of de bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond of aan de plaatsopneming of bezichtiging heeft deelgenomen voor de daarbij aangegeven tijdsduur.
 
