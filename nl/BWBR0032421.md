@@ -89,9 +89,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet normering bezoldigi
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit WNT.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Als incidenteel inkomensbestanddeel als bedoeld in [artikel 1.9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9), dat geen onderdeel van de bezoldiging vormt, wordt aangemerkt een uitkering of verstrekking als bedoeld in [artikel 11, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
