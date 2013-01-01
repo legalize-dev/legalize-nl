@@ -4,7 +4,7 @@ identifier: "BWBR0033114"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2012-12-31"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033114"
 soort: "wet"
@@ -43,7 +43,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
