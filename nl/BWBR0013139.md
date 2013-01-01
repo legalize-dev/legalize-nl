@@ -4,7 +4,7 @@ identifier: "BWBR0013139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-02-25"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013139"
 soort: "ministeriele-regeling"
@@ -50,15 +50,15 @@ In deze regeling wordt verstaan onder:
 
 Uitkeringen die na 31 december 2001 worden toegekend, dan wel met toepassing van artikel 42 van de AOR met ingang van een voor deze datum gelegen tijdstip worden herzien, worden als volgt berekend:
 
-- a. voor de periode tot 1 januari 2002 wordt de uitkering berekend overeenkomstig de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2011-02-25&g=2011-02-25) van de tot 1 januari 2002 geldende Algemene bij- en toeslagbeschikking AOR;
+- a. voor de periode tot 1 januari 2002 wordt de uitkering berekend overeenkomstig de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2013-01-01&g=2013-01-01) van de tot 1 januari 2002 geldende Algemene bij- en toeslagbeschikking AOR;
 
-- b. voor de periode van 1 januari 2002 tot 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2011-02-25&g=2011-02-25), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2011-02-25&g=2011-02-25), zoals dat luidde tot 1 januari 2011;
+- b. voor de periode van 1 januari 2002 tot 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2013-01-01&g=2013-01-01), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2013-01-01&g=2013-01-01), zoals dat luidde tot 1 januari 2011;
 
-- c. voor de periode vanaf 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder b genoemde artikelen voor betrokkene berekende bedrag per 31 december 2010 aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2011-02-25&g=2011-02-25).
+- c. voor de periode vanaf 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder b genoemde artikelen voor betrokkene berekende bedrag per 31 december 2010 aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 4
 
-De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2011-02-25&g=2011-02-25) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=3&z=2011-02-25&g=2011-02-25) berekende uitkering wordt verminderd met de krachtens artikel 21 van de AOR voor aftrek vatbare inkomsten.
+De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2013-01-01&g=2013-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=3&z=2013-01-01&g=2013-01-01) berekende uitkering wordt verminderd met de krachtens artikel 21 van de AOR voor aftrek vatbare inkomsten.
 
 ##### Artikel 5
 
@@ -70,7 +70,7 @@ De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR001313
 
 ##### Artikel 6
 
-Degene die recht heeft op een uitkering heeft, zolang hij de leeftijd van 65 jaar nog niet heeft bereikt, over de uitkeringsjaren vanaf 2001 recht op een toeslag:
+Degene die recht heeft op een uitkering heeft, zolang hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, over de uitkeringsjaren vanaf 2001 recht op een toeslag:
 
 - a. ter grootte van 5,6% van die uitkering, met een maximum van € 2.066,97 per jaar, indien het recht op die uitkering reeds voor 1 januari 1999 bestond;
 
