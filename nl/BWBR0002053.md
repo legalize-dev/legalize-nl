@@ -4,7 +4,7 @@ identifier: "BWBR0002053"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002053"
 soort: "wet"
@@ -46,7 +46,7 @@ Onder het opperbeheer van Onze Minister van Financiën is de zorg voor het houde
 
 ##### Artikel 2
 
-Hij, te wiens name in een schuldregister, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=1&z=2002-01-01&g=2002-01-01) bedoeld, een rekening is geopend, wordt aangemerkt als eigenaar der op die rekening geboekte inschrijving.
+Hij, te wiens name in een schuldregister, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=1&z=2013-01-01&g=2013-01-01) bedoeld, een rekening is geopend, wordt aangemerkt als eigenaar der op die rekening geboekte inschrijving.
 
 ##### Artikel 3
 
@@ -74,11 +74,11 @@ De Agent is bevoegd voor te schrijven dat voor handelingen, welke te zijner kenn
 
 ##### Artikel 9
 
-Iedere belanghebbende zal binnen een termijn van één maand na het in werking treden van deze wet de inschrijving in de schuldregisters kunnen vorderen van rechten, vóór het in werking treden daarvan verkregen, zonder dat derden hem het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=2&z=2002-01-01&g=2002-01-01) kunnen tegenwerpen.
+Iedere belanghebbende zal binnen een termijn van één maand na het in werking treden van deze wet de inschrijving in de schuldregisters kunnen vorderen van rechten, vóór het in werking treden daarvan verkregen, zonder dat derden hem het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=2&z=2013-01-01&g=2013-01-01) kunnen tegenwerpen.
 
 ##### Artikel 10
 
-Het is aan de Agent en aan de verdere ambtenaren en beambten van het Agentschap van het Ministerie van Financiën verboden om aan bijzondere personen, lichamen en instellingen inzage van de schuldregisters te geven of enige mededeling te doen van hetgeen hun uit hoofde van hun ambt bekend is omtrent andere inschrijvingen dan waarop die personen, lichamen of instellingen recht hebben, tenzij daartoe een bevelschrift van de voorzieningenrechter van de rechtbank te Amsterdam is verkregen.
+Het is aan de Agent en aan de verdere ambtenaren en beambten van het Agentschap van het Ministerie van Financiën verboden om aan bijzondere personen, lichamen en instellingen inzage van de schuldregisters te geven of enige mededeling te doen van hetgeen hun uit hoofde van hun ambt bekend is omtrent andere inschrijvingen dan waarop die personen, lichamen of instellingen recht hebben, tenzij daartoe een bevelschrift van de voorzieningenrechter van de rechtbank Amsterdam is verkregen.
 
 ##### Artikel 11
 
