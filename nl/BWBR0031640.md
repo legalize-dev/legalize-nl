@@ -4,7 +4,7 @@ identifier: "BWBR0031640"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031640"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet wordt, tenzij anders bepaald, verstaan onder:
 
 ##### Artikel 2
 
-1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2012-10-01&g=2012-10-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
+1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
 
 2. Een aanwijzing wordt gegeven:
 
@@ -94,7 +94,7 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 1. Een aanwijzing wordt niet gegeven dan nadat aan de publieke entiteit gelegenheid tot overleg is geboden.
 
-2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2012-10-01&g=2012-10-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2012-10-01&g=2012-10-01), alsnog na te komen.
+2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2013-01-01&g=2013-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01), alsnog na te komen.
 
 3. De motivering van de aanwijzing verwijst naar hetgeen in het overleg aan de orde is gekomen.
 
@@ -102,13 +102,11 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 ##### Artikel 5
 
-Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2012-10-01&g=2012-10-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2012-10-01&g=2012-10-01), wordt hersteld of voorkomen.
+Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2013-01-01&g=2013-01-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01), wordt hersteld of voorkomen.
 
 ##### Artikel 6
 
-1. Tegen een aanwijzing of een besluit op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=5&z=2012-10-01&g=2012-10-01) kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
-
-2. In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:2) kan geen beroep worden ingesteld tegen de weigering om een aanwijzing te geven of een besluit op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=5&z=2012-10-01&g=2012-10-01) te nemen.
+Vervallen
 
 ##### Artikel 7
 
