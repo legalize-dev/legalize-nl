@@ -4,7 +4,7 @@ identifier: "BWBR0040467"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040467"
 soort: "wet"
@@ -45,8 +45,6 @@ Wijzigt de Wet inkomstenbelasting 2001.
 ##### Artikel II
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
