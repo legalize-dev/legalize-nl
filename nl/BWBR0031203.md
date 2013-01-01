@@ -4,7 +4,7 @@ identifier: "BWBR0031203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-15"
-last_updated: "2012-02-02"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031203"
 soort: "ministeriele-regeling"
@@ -86,11 +86,11 @@ Aan de Raad wordt volmacht en machtiging verleend tot het nemen van besluiten, h
 
 ##### Artikel 4
 
-De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=2&z=2012-02-02&g=2012-02-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=3&z=2012-02-02&g=2012-02-02) verleende bevoegdheden uit te oefenen.
+De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=3&z=2013-01-01&g=2013-01-01) verleende bevoegdheden uit te oefenen.
 
 ##### Artikel 5
 
-De [regeling van de Staatssecretaris van Justitie van 22 april 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025761), nr. 5599506/09, houdende verlening van mandaat en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding wegens overschrijding van de redelijke termijn (Stcrt. 2009, 81) wordt ingetrokken.
+De [regeling van de Staatssecretaris van Veiligheid en Justitie van 22 april 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025761), nr. 5599506/09, houdende verlening van mandaat en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding wegens overschrijding van de redelijke termijn (Stcrt. 2009, 81) wordt ingetrokken.
 
 ##### Artikel 6
 
