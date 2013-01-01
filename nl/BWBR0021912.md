@@ -4,7 +4,7 @@ identifier: "BWBR0021912"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021912"
 soort: "wet"
@@ -93,7 +93,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 2. Onverminderd hetgeen elders is bepaald, kunnen de in het vorige lid genoemde personen worden ontslagen:
 
-- a. bij overtreding van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2012-10-01&g=2012-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2012-10-01&g=2012-10-01);
+- a. bij overtreding van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2013-01-01&g=2013-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2013-01-01&g=2013-01-01);
 
 - b. wanneer zij in staat van faillissement zijn verklaard, ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.
 
@@ -111,7 +111,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 ##### Artikel 7
 
-1. Het is de voorzitter en de secretaris verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij enige grondkamer of pachtkamer, bij de Centrale Grondkamer of bij de pachtkamer van het gerechtshof te Arnhem aanhangig zijn, of waarvan zij weten of vermoeden, dat deze daarbij aanhangig zullen worden.
+1. Het is de voorzitter en de secretaris verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij enige grondkamer of pachtkamer, bij de Centrale Grondkamer of bij de pachtkamer van het gerechtshof Arnhem-Leeuwarden aanhangig zijn, of waarvan zij weten of vermoeden, dat deze daarbij aanhangig zullen worden.
 
 2. Het is de plaatsvervangende voorzitter, de plaatsvervangende secretaris, de leden en de plaatsvervangende leden verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke aanhangig zijn of waarvan zij weten of vermoeden, dat deze aanhangig zullen worden bij de grondkamer, waartoe zij behoren, of bij de Centrale Grondkamer, in het laatste geval voor zover het betreft zaken, aan de behandeling waarvan zij in de grondkamer hebben deelgenomen.
 
@@ -133,7 +133,7 @@ Er is een Centrale Grondkamer, gevestigd te Arnhem.
 
 ##### Artikel 11
 
-De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsvervangende deskundige leden van de pachtkamer van het gerechtshof te Arnhem zijn van rechtswege tevens lid, onderscheidenlijk plaatsvervangend lid, van de Centrale Grondkamer.
+De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsvervangende deskundige leden van de pachtkamer van het gerechtshof Arnhem-Leeuwarden zijn van rechtswege tevens lid, onderscheidenlijk plaatsvervangend lid, van de Centrale Grondkamer.
 
 ##### Artikel 12
 
@@ -153,7 +153,7 @@ De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsve
 
 ##### Artikel 14
 
-De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2012-10-01&g=2012-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2012-10-01&g=2012-10-01) vinden ten aanzien van de leden, de plaatsvervangende leden, de griffier en de plaatsvervangende griffier van de Centrale Grondkamer overeenkomstige toepassing.
+De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2013-01-01&g=2013-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2013-01-01&g=2013-01-01) vinden ten aanzien van de leden, de plaatsvervangende leden, de griffier en de plaatsvervangende griffier van de Centrale Grondkamer overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -257,13 +257,13 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ##### Artikel 27
 
-1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2012-10-01&g=2012-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2012-10-01&g=2012-10-01) bedoelde gevallen naar het oordeel van de grondkamer behalve de verzoeker ook anderen belang hebben, deelt de grondkamer, onder gelijktijdige kennisgeving van de eventuele bezwaren, aan de verzoeker en de andere belanghebbenden mede, binnen welke termijn zij schriftelijke opmerkingen aan de grondkamer kunnen inzenden en een mondelinge behandeling kunnen verzoeken.
+1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2013-01-01&g=2013-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2013-01-01&g=2013-01-01) bedoelde gevallen naar het oordeel van de grondkamer behalve de verzoeker ook anderen belang hebben, deelt de grondkamer, onder gelijktijdige kennisgeving van de eventuele bezwaren, aan de verzoeker en de andere belanghebbenden mede, binnen welke termijn zij schriftelijke opmerkingen aan de grondkamer kunnen inzenden en een mondelinge behandeling kunnen verzoeken.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker en de andere belanghebbenden, tegelijk met haar mededeling, een afschrift van het rapport van het onderzoek toe.
 
 ##### Artikel 28
 
-1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2012-10-01&g=2012-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2012-10-01&g=2012-10-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
+1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2013-01-01&g=2013-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2013-01-01&g=2013-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker, tegelijk met haar oproep voor de mondelinge behandeling, een afschrift van het rapport van het onderzoek toe.
 
@@ -285,7 +285,7 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 
 3. De grondkamer kan bevelen, dat getuigen, die, hoewel bij deurwaardersexploot opgeroepen, niet zijn verschenen, door de openbare macht voor haar worden gebracht.
 
-4. De ingevolge [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-10-01&g=2012-10-01) ter zitting meegebrachte getuigen worden gehoord, voor zover de grondkamer hun verhoor dienstig oordeelt.
+4. De ingevolge [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2013-01-01&g=2013-01-01) ter zitting meegebrachte getuigen worden gehoord, voor zover de grondkamer hun verhoor dienstig oordeelt.
 
 5. De [artikelen 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=164), [171 tot en met 173](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=177) en [179 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=179) zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.
 
@@ -295,7 +295,7 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 
 ##### Artikel 32
 
-Bij de behandeling van een verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst vinden de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=29&z=2012-10-01&g=2012-10-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2012-10-01&g=2012-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=31&z=2012-10-01&g=2012-10-01) overeenkomstige toepassing.
+Bij de behandeling van een verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst vinden de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=29&z=2013-01-01&g=2013-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2013-01-01&g=2013-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=31&z=2013-01-01&g=2013-01-01) overeenkomstige toepassing.
 
 ##### Artikel 33
 
@@ -303,7 +303,7 @@ Indien de grondkamer de pachtovereenkomst of de overeenkomst tot wijziging of be
 
 ##### Artikel 34
 
-1. De beschikkingen van de grondkamer zijn met redenen omkleed, met uitzondering van de beschikkingen die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=33&z=2012-10-01&g=2012-10-01) zijn genomen.
+1. De beschikkingen van de grondkamer zijn met redenen omkleed, met uitzondering van de beschikkingen die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=33&z=2013-01-01&g=2013-01-01) zijn genomen.
 
 2. Een expeditie van de beschikking wordt aan de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen of belanghebbenden alsmede aan de verzoeker toegezonden. De dag van verzending wordt op de expeditie aangetekend.
 
@@ -333,7 +333,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 5. De griffier zendt een afschrift van het beroepschrift onverwijld aan elk van de wederpartijen of belanghebbenden, als deze er zijn, toe en voegt daarbij een kennisgeving, die de tijd vermeldt waarbinnen een schriftelijk antwoord kan worden ingezonden.
 
-6. Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=2&z=2012-10-01&g=2012-10-01) en van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&z=2012-10-01&g=2012-10-01) overeenkomstige toepassing.
+6. Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=2&z=2013-01-01&g=2013-01-01) en van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&z=2013-01-01&g=2013-01-01) overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -351,7 +351,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 1. Onze Minister van Economische Zaken, Landbouw en Innovatie kan beroep tegen een beschikking van de grondkamer instellen.
 
-2. Het beroep kan slechts worden ingesteld na verloop van de termijn, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=4&artikel=36&z=2012-10-01&g=2012-10-01).
+2. Het beroep kan slechts worden ingesteld na verloop van de termijn, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=4&artikel=36&z=2013-01-01&g=2013-01-01).
 
 3. Vernietiging van de beschikking van de grondkamer op dit beroep brengt geen nadeel toe aan de rechten, bij de beschikking verkregen.
 
@@ -381,7 +381,7 @@ Vervallen
 
 ##### Artikel 45
 
-Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof te Arnhem wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.
+Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof Arnhem-Leeuwarden wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.
 
 ### Hoofdstuk 6. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
