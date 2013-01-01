@@ -4,7 +4,7 @@ identifier: "BWBR0020268"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2006-08-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020268"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. De politie en de Koninklijke marechaussee maken gebruik van de informatie- en communicatievoorzieningen C2000 en het Gemeenschappelijk Meldkamer Systeem (GMS).
 
-2. Politie Nederland draagt zorg voor het tactische en operationele beheer van de in het eerste lid bedoelde voorzieningen.
+2. De korpschef draagt zorg voor het tactische en operationele beheer van de in het eerste lid bedoelde voorzieningen.
 
 ##### Artikel 2
 
@@ -55,5 +55,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling C2000 en GMS.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 23, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
