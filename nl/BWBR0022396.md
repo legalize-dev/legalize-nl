@@ -4,7 +4,7 @@ identifier: "BWBR0022396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-17"
-last_updated: "2009-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022396"
 soort: "ministeriele-regeling"
@@ -42,11 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
-
-- –. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-- –. provincie: provincie die als secretariaat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01).
+Vervallen
 
 ##### Artikel 2
 
@@ -86,63 +82,37 @@ In deze regeling wordt verstaan onder:
 
 - –. Zuid-Kennemerland.
 
-2. De nationale parken, bedoeld in het eerste lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) bij deze regeling.
+2. De nationale parken, bedoeld in het eerste lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in de bijlage bij deze regeling.
 
 #### § 2. Het overlegorgaan
 
 ##### Artikel 3
 
-De nationale parken hebben elk een overlegorgaan.
+Vervallen
 
 ##### Artikel 4
 
-Het overlegorgaan heeft tot taak zorg te dragen voor de inrichting en het beheer en het functioneren van het nationaal park overeenkomstig een door gedeputeerde staten van de provincie goedgekeurd beheer- en inrichtingsplan. Daartoe behoort onder meer:
-
-- a. het actualiseren van het beheer- en inrichtingsplan;
-
-- b. het streven naar onderlinge afstemming van alle voor de inrichting en het beheer van belang zijnde plannen en activiteiten;
-
-- c. het doen van voorstellen aan de provincie voor de besteding van de voor het nationaal park beschikbare middelen in het kader van een jaarlijks voortschrijdend meerjarenprogramma met bijbehorende begroting;
-
-- d. besteding van gelden op basis van een door de provincie goed te keuren meerjarenprogramma, het opstellen van jaarplannen, controle op de bestedingen van gelden en coördinatie van de uitvoering van projecten binnen het kader van het beheer- en inrichtingsplan;
-
-- e. het opstellen van een meerjarenprogramma voorlichting en educatie, ter bevordering en coördinatie van voorlichting en educatie met betrekking tot het nationaal park.
+Vervallen
 
 ##### Artikel 5
 
-In het overlegorgaan nemen zitting:
-
-- a. een voorzitter, tevens lid van het overlegorgaan;
-
-- b. de vertegenwoordigers van de organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01);
-
-- c. de directeur van de Directie Regionale Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, van de regio waarin het nationaal park grotendeels is gelegen.
+Vervallen
 
 ##### Artikel 6
 
-1. De organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01), wijzen een vertegenwoordiger aan.
-
-2. Van de aanwijzing van de vertegenwoordigers, bedoeld in het eerste lid, wordt door de organisaties mededeling gedaan aan de secretaris van het overlegorgaan, die hiervan mededeling doet aan de Minister.
+Vervallen
 
 ##### Artikel 7
 
-1. De voorzitter wordt op voordracht van het overlegorgaan benoemd door de Minister.
-
-2. De voorzitter wordt benoemd voor een periode van vier jaar, waarna eenmalig herbenoeming voor een periode van vier jaar mogelijk is.
-
-3. De directeur van de Directie Regionale Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, van de regio waarin het nationaal park grotendeels gelegen is, is adviseur van het overlegorgaan en neemt deel aan de vergadering van het overlegorgaan.
+Vervallen
 
 ##### Artikel 8
 
-1. Het secretariaat van het overlegorgaan berust bij een door de provincie, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01), te benoemen ambtenaar in dienst van deze provincie.
-
-2. Het overlegorgaan regelt de openbaarheid en de plaats van zijn vergadering, alsmede de overige aspecten van zijn inrichting en werkwijze.
-
-3. Het overlegorgaan brengt jaarlijks van zijn werkzaamheden en de daarmee samenhangende ontwikkelingen in het nationaal park verslag uit aan de provincie.
+Vervallen
 
 ##### Artikel 9
 
-Indien in het overlegorgaan belangrijke verschillen van inzicht blijken te bestaan, doet de voorzitter van het overlegorgaan daarvan mededeling aan de provincie en de Minister, die daarop de naar hun oordeel nodige stappen ondernemen.
+Vervallen
 
 #### § 3. Nationaal park in oprichting
 
@@ -158,9 +128,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. De benoemingstermijn vangt voor voorzitters van het overlegorgaan, die reeds zijn benoemd voor inwerkingtreding van deze regeling, aan op het tijdstip van inwerkingtreding van deze regeling.
-
-2. Voorzitters, bedoeld in het eerste lid, die na afloop van de eerste benoemingtermijn reeds acht jaar of langer voorzitter zijn, komen niet in aanmerking voor een tweede termijn.
+Vervallen
 
 ##### Artikel 13
 
@@ -206,7 +174,7 @@ Deze regeling treedt in werking met ingang van 1 september 2007.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing nationale parken.
 
-## Bijlage 1
+## Bijlage
 
 ## Bijlage 2
 
@@ -359,3 +327,5 @@ Aangewezen per 1 september 2007
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
