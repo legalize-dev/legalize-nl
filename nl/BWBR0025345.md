@@ -4,7 +4,7 @@ identifier: "BWBR0025345"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2009-03-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025345"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Het verslag, bedoeld in [artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15), wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025345&bijlage=1&z=2009-03-01&g=2009-03-01).
+Het verslag, bedoeld in [artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15), wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025345&bijlage=1&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2
 
-Het verslag, bedoeld in [artikel 9.6, tiende lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=9.6), wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025345&bijlage=2&z=2009-03-01&g=2009-03-01).
+Vervallen
 
 ##### Artikel 3
 
@@ -108,6 +108,8 @@ Toename van de beheersing van de vaardigheid luisteren van de nieuwkomers die hu
 
 ## Bijlage 2
 
+Vervallen
+
 ### Inhoudelijk verslag nieuwkomers 2007 en 2008 (niet-G31 gemeenten)
 
 Het inhoudelijk verslag nieuwkomers bestaat uit 3 delen:
@@ -161,5 +163,7 @@ Toename van de beheersing van de vaardigheid spreken van de nieuwkomers die hun 
 ### 3e. Luisteren
 
 Toename van de beheersing van de vaardigheid luisteren van de nieuwkomers die hun traject hebben afgerond in in 2007 en 2008.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
