@@ -4,7 +4,7 @@ identifier: "BWBR0024380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2008-08-21"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. wet: [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- b. Minister: Minister van Binnenlandse zaken en Koninkrijksrelaties;
+- b. Minister: de Minister van Veiligheid en Justitie;
 
 - c. aanvrager: migrerende beroepsbeoefenaar die erkenning van een beroepskwalificatie vraagt;
 
@@ -96,11 +96,11 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 2. Een aanpassingsstage kan worden gedaan bij:
 
-- a. een regionaal politiekorps, of
+- a. een regionale eenheid, of
 
-- b. het Korps Landelijke Politiediensten.
+- b. de Landelijke eenheid.
 
-3. Het regionale politiekorps of het Korps Landelijke Politiediensten waarbij de aanvrager de aanpassingsstage volgt, wijst een begeleider aan.
+3. De korpschef wijst een begeleider aan.
 
 4. De begeleider brengt een rapport en een advies uit aan de Minister. De Minister stelt op basis hiervan het resultaat van de aanpassingsstage vast.
 
