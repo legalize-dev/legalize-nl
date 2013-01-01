@@ -120,32 +120,3 @@ Wijzigt dit besluit.
 | Zuid-West-Nederland | 7,351% |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-1. In afwijking van de [artikelen 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2023-01-01&g=2023-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2023-01-01&g=2023-01-01) kan de korpschef bepalen dat een percentage van de te realiseren operationele sterkte van een eenheid in een begrotingsjaar en maximaal twee daaropvolgende jaren niet wordt gerealiseerd. Ten aanzien van een regionale eenheid geschiedt deze beslissing in overeenstemming met de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie.
-
-2. Voor de toepassing van het eerste lid worden aspiranten als bedoeld in [artikel 1, onder b, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) niet meegerekend bij de operationele sterkte.
-
-3. Het percentage, bedoeld in het eerste lid, bedraagt maximaal twee procent per begrotingsjaar.
-
-4. De uitkomst van de vermenigvuldiging van het met toepassing van het eerste lid niet te realiseren deel van de operationele sterkte van een eenheid per begrotingsjaar met de daarbij behorende loonsom wordt door de korpschef in hetzelfde begrotingsjaar uitsluitend binnen deze eenheid besteed aan andere uitgaven. Ten aanzien van een regionale eenheid geschiedt deze beslissing in overeenstemming met de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie.
-
-5. Onder de loonsom, bedoeld in het vierde lid, wordt verstaan de loonsom, vastgesteld in de begroting voor het begrotingsjaar waarin toepassing wordt gegeven aan het eerste lid.
-
-## Bijlage
-
-| Regionale eenheid | aandeel |
-| --- | --- |
-| Noord-Nederland | 8,665% |
-| Oost-Nederland | 15,137% |
-| Noord-West-Nederland | 7,531% |
-| Amsterdam | 11,600% |
-| Midden-Nederland | 10,579% |
-| Den Haag | 12,818% |
-| Rotterdam | 13,167% |
-| Oost-Brabant | 7,042% |
-| Limburg | 6,110% |
-| Zuid-West-Nederland | 7,351% |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
