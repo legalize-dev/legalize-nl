@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2011-12-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -319,5 +319,7 @@ Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde
 - 103. alleen rijden in een motorrijtuig waarin een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) is ingebouwd en waarvan het kenteken is gekoppeld aan de naam van de rijbewijshouder
 
 - 104. Alleen motorrijtuigen van de categorie AM op drie of vier wielen.
+
+- 105. uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
 
 Deze regeling zal worden geplaatst in de Staatscourant.
