@@ -4,7 +4,7 @@ identifier: "BWBR0029321"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-12-30"
-last_updated: "2010-12-30"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029321"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=2&z=2010-12-30&g=2010-12-30).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2
 
@@ -74,23 +74,23 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij Arrondissementsparket Amsterdam.
 
-2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef van de regiopolitie Amsterdam-Amstelland.
+2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
 ##### Artikel 6
 
 1. Het hoofd van de afdeling Veiligheid, Kabinet en Handhaving van de gemeente Amstelveen brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=2&z=2010-12-30&g=2010-12-30) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=2&z=2013-01-01&g=2013-01-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=5&z=2010-12-30&g=2010-12-30) bedoelde toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029321&artikel=5&z=2013-01-01&g=2013-01-01) bedoelde toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8) omschreven bevoegdheden uitoefenen en daarbiij gebruikmaken van handboeien.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen en daarbiij gebruikmaken van handboeien.
 
 ##### Artikel 8
 
