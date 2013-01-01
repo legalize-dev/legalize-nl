@@ -4,7 +4,7 @@ identifier: "BWBR0032671"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-19"
-last_updated: "2012-07-20"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032671"
 soort: "wet"
@@ -40,63 +40,63 @@ entry_into_force: "2013-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IVb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de kansspelen.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belasting zware motorrijtuigen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XIII
 
@@ -108,112 +108,144 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet fiscaal stelsel BES.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werken aan winst.
 
 ##### Artikel XXIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (invoering basisregistratie inkomen en basisregistratie waarde onroerende zaken) (Stb. 2008/269).
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+[vervallen]
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2011.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uniformering loonbegrip.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2012.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Het koninklijk besluit van 24 augustus 2004 tot wijziging van het [Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002636) (Stb. 2004, 435) wordt goedgekeurd.
 
 ##### Artikel XXVIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de zorgtoeslag.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXXIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Pensioenwet.
 
 ##### Artikel XXXIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Pensioenwet.
 
 ##### Artikel XXXIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XXXId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met betrekking tot kolen die vóór 1 januari 2013 zijn uitgeslagen of ingevoerd met vrijstelling van kolenbelasting op grond van [artikel 44, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) en die op of na 1 januari 2013 in een opslagplaats voorhanden zijn, wordt kolenbelasting geheven naar het tarief, genoemd in [artikel 43 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=43), zoals dit geldt op 1 januari 2013 na indexering.
+
+2. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a), met uitzondering van het eerste lid, eerste alinea en het tweede lid, onderdeel b, is van overeenkomstige toepassing op de heffing van kolenbelasting, bedoeld in het eerste lid, met dien verstande dat de verwijzing in [artikel 84a, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) naar het eerste lid van dat artikel moet worden gelezen als een verwijzing naar het eerste lid van dit artikel.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86) en [87a tot en met 87d van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87a) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2012, blijven van toepassing op verpakkingen als bedoeld in [artikel 87a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87a), zoals deze luidde op 31 december 2012, van producten die na 31 december 2012 maar vóór 1 april 2013 door een producent ter beschikking worden gesteld aan een belastingplichtige of ondernemer als bedoeld in [hoofdstuk VIII van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII) zoals dit luidde op 31 december 2012. Het voorgaande geldt niet voor producten waarop vóór 1 januari 2013 een regeling krachtens [artikel 88a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=88a) van toepassing was.
+
+2. [Artikel 89, vierde en vijfde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89), zoals deze luidden op 31 december 2012, blijven van toepassing voor zover de verschuldigdheid van de verpakkingenbelasting vóór 1 januari 2013 is ontstaan.
+
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot verzoeken om teruggaaf ingevolge het eerste lid.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
 
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
+
+- a. met betrekking tot de heffing van kansspelheffing over tijdvakken die voor 1 januari 2013 zijn geëindigd:
+
+- 1°. [artikel 33f, derde tot en met zesde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, van toepassing blijft;
+
+- 2°. [artikel 33f, derde tot en met zesde lid en achtste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) niet van toepassing is;
+
+- b. aanmaningen of dwangbevelen die door de ontvanger, bedoeld in [artikel 33f, zevende lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, voor 1 januari 2013 zijn verzonden, onderscheidenlijk uitgevaardigd, geacht worden te zijn verzonden, onderscheidenlijk uitgevaardigd, door het met ingang van 1 januari 2013 bevoegde bestuursorgaan;
+
+- c. [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XVII&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot tegemoetkomingen waarvoor een verzoek om opgaaf is gedaan op of na 1 januari 2013;
+
+- d. [artikel XXV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXV&z=2013-01-01&g=2013-01-01), toepassing vindt voordat de [artikelen II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=II), [III, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=III), en [XXX, onderdeel G, van de Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXX) worden toegepast;
+
+- e. [artikel XXVI, onderdelen Ba en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXVI&z=2013-01-01&g=2013-01-01), toepassing vindt voordat de [artikelen XXVIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII), en [XXXIV van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXXIV) worden toegepast.
+
+2. [Artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIV&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 2012.
+
+3. [Artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIII&z=2013-01-01&g=2013-01-01), werkt terug tot en met 20 juli 2012.
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2013.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2013 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
