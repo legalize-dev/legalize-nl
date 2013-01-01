@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-03-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Besluit:
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 34.134.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 34.816.
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
@@ -118,11 +118,11 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 - b. vanaf de datum waarop hij 18 jaar wordt, het inkomen in aanmerking genomen dat in aanmerking zou zijn genomen indien hij gedurende het gehele kalenderjaar reeds de leeftijd van 18 jaar had bereikt.
 
-##### Artikel 10. Vaststelling van het inkomen in het jaar van het bereiken van de leeftijd van 65 jaar
+##### Artikel 10. Vaststelling van het inkomen in het jaar van het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a)
 
-1. Indien een persoon aan wie een vervoersvoorziening is toegekend de leeftijd van 65 jaar bereikt, wordt voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) onder inkomen verstaan het inkomen dat deze persoon over dat kalenderjaar zou hebben genoten indien hij in dat jaar niet de 65-jarige leeftijd had bereikt.
+1. Indien een persoon aan wie een vervoersvoorziening is toegekend de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) bereikt, wordt voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) onder inkomen verstaan het inkomen dat deze persoon over dat kalenderjaar zou hebben genoten indien hij in dat jaar niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet had bereikt.
 
-2. Indien de echtgenoot van de persoon, bedoeld in het eerste lid, in hetzelfde jaar als het jaar, bedoeld in het eerste lid, de leeftijd van 65 jaar bereikt, wordt voor de toepassing van artikel 3 van deze regeling onder inkomen van zijn echtgenoot verstaan, het inkomen dat de echtgenoot over dat kalenderjaar zou hebben genoten indien de echtgenoot in dat jaar niet de 65-jarige leeftijd had bereikt.
+2. Indien de echtgenoot van de persoon, bedoeld in het eerste lid, in hetzelfde jaar als het jaar, bedoeld in het eerste lid, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) bereikt, wordt voor de toepassing van artikel 3 van deze regeling onder inkomen van zijn echtgenoot verstaan, het inkomen dat de echtgenoot over dat kalenderjaar zou hebben genoten indien de echtgenoot in dat jaar niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet had bereikt.
 
 ##### Artikel 11. Afwijking inkomensgrens
 
@@ -210,7 +210,7 @@ Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](h
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2012-03-01&g=2012-03-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-03-01&g=2012-03-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2013-01-01&g=2013-01-01).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
@@ -218,17 +218,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. Overgangsrecht
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
-
-2. Dit artikel vervalt met ingang van 1 januari 2013.
+Vervallen
 
 #### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
 ##### Artikel 12ab. Overgangsrecht
 
-1. In afwijking van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
-
-2. Dit artikel vervalt met ingang van 1 januari 2013.
+Vervallen
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
