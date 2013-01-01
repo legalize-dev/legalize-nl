@@ -4,7 +4,7 @@ identifier: "BWBR0031351"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-09"
-last_updated: "2012-03-17"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031351"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artike
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Scheepsafvalstoffenbesluit Rijn- en binnenvaart (implementatie van internationale voorschriften (Stb. 2012/101)) in werking treedt.
+
 #### Paragraaf 1. **Algemeen**
 
 ##### Artikel 1
@@ -48,7 +50,7 @@ In deze regeling wordt verstaan onder besluit: [Scheepsafvalstoffenbesluit Rijn-
 
 ##### Artikel 2
 
-De schepen die in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) zijn uitgezonderd, zijn:
+De schepen die ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) zijn uitgezonderd, zijn:
 
 - a. zeeschepen die zich bevinden in zeehavens of op daarheen leidende zeetoegangswegen;
 
@@ -68,7 +70,7 @@ De ECO-kaart is toepasbaar in het elektronische betalingssysteem SPE-CDNI, bedoe
 
 ##### Artikel 5
 
-1. De betaling aan de leverancier van de verschuldigde bijdrage geschiedt onmiddellijk bij levering van de gasolie door middel van de betaalterminal, die deel uitmaakt van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=2&artikel=4&z=2012-03-17&g=2012-03-17) bedoelde betalingssysteem.
+1. De betaling aan de leverancier van de verschuldigde bijdrage geschiedt onmiddellijk bij levering van de gasolie door middel van de betaalterminal, die deel uitmaakt van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) bedoelde betalingssysteem.
 
 2. De eigenaar van het schip draagt zorg dat het saldo op zijn rekening bij het nationaal instituut steeds toereikend is voor digitale betaling van de verschuldigde bijdrage.
 
@@ -138,7 +140,7 @@ Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goede
 
 ##### Artikel 13
 
-In afwijking van [artikel 42, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42), wordt de restlading zodanig verwijderd, dat de losstandaard ‘vacuümschoon’ wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2012-03-17&g=2012-03-17), alsmede [47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
+In afwijking van [artikel 42, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42), wordt de restlading zodanig verwijderd, dat de losstandaard ‘vacuümschoon’ wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), alsmede [47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
 
 ##### Artikel 14
 
@@ -176,19 +178,19 @@ Indien uit een laadruim of een ladingtank van een schip:
 
 ##### Artikel 17
 
-1. Indien uit een laadruim of een ladingtank van een schip lading wordt gelost en zich na het lossen of wassen afvalwater dat ladingrestanten bevat in dat laadruim of die ladingtank bevindt, doch de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2012-03-17&g=2012-03-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2012-03-17&g=2012-03-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2012-03-17&g=2012-03-17), alsmede [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47) niet van toepassing zijn, wordt het afvalwater daar achtergelaten en wordt de schipper in overleg met de exploitant van het schip een ontvangstvoorziening toegewezen voor het afgeven van dat afvalwater.
+1. Indien uit een laadruim of een ladingtank van een schip lading wordt gelost en zich na het lossen of wassen afvalwater dat ladingrestanten bevat in dat laadruim of die ladingtank bevindt, doch de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2013-01-01&g=2013-01-01), alsmede [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47) niet van toepassing zijn, wordt het afvalwater daar achtergelaten en wordt de schipper in overleg met de exploitant van het schip een ontvangstvoorziening toegewezen voor het afgeven van dat afvalwater.
 
 2. De aangewezen ontvangstvoorziening is gelegen in de nabijheid van de losplaats of op de route van het schip.
 
 ##### Artikel 18
 
-De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2012-03-17&g=2012-03-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2012-03-17&g=2012-03-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2012-03-17&g=2012-03-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2012-03-17&g=2012-03-17), alsmede [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), zijn van overeenkomstige toepassing, indien uit een laadruim stukgoederen dan wel verpakte ladinggoederen of op pallets vervoerde goederen worden gelost en als gevolg van beschadigingen of lekkages lading, behorende tot een goederensoort als bedoeld in die artikelen, is vrijgekomen.
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2013-01-01&g=2013-01-01), alsmede [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), zijn van overeenkomstige toepassing, indien uit een laadruim stukgoederen dan wel verpakte ladinggoederen of op pallets vervoerde goederen worden gelost en als gevolg van beschadigingen of lekkages lading, behorende tot een goederensoort als bedoeld in die artikelen, is vrijgekomen.
 
 ##### Artikel 19
 
-1. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat en voor een van die goederensoorten in kolom 5 van de tabel een bijzondere behandeling is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2012-03-17&g=2012-03-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2012-03-17&g=2012-03-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2012-03-17&g=2012-03-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2012-03-17&g=2012-03-17), of [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
+1. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat en voor een van die goederensoorten in kolom 5 van de tabel een bijzondere behandeling is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2013-01-01&g=2013-01-01), of [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
 
-2. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat waarop het eerste lid niet van toepassing is en voor een van die goederensoorten in kolom 4 van de tabel een losstandaard is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2012-03-17&g=2012-03-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2012-03-17&g=2012-03-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2012-03-17&g=2012-03-17) of [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
+2. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat waarop het eerste lid niet van toepassing is en voor een van die goederensoorten in kolom 4 van de tabel een losstandaard is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=16&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=17&z=2013-01-01&g=2013-01-01) of [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
 
 ##### Artikel 20
 
@@ -227,5 +229,49 @@ Deze regeling treedt in werking tegelijk met besluit van 22 februari 2012 houden
 ##### Artikel 27
 
 Deze regeling wordt aangehaald als: Scheepsafvalstoffenregeling Rijn- en binnenvaart.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) uitgezonderd vaartuigen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor:
+
+- a. het vervoer van containers;
+
+- b. het vervoer van lading die op en van het schip kan worden gereden, stukgoed, bijzonder of zwaar transport, dan wel grote apparaten;
+
+- c. de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen door bevoorradingsschepen;
+
+- d. de verzameling van olie- en vethoudende scheepsafvalstoffen;
+
+- e. het vervoer van vloeibare gassen (ADN, type G);
+
+- f. het vervoer van zwavel in vloeibare toestand, bij 180°C of meer, cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is en
+
+- g. het vervoer van zand, grind of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer;
+
+een en ander indien het schip de genoemde goederen of ladingen ook daadwerkelijk vervoert of als laatste lading heeft vervoerd en niet meerdere soorten lading tegelijkertijd vervoert of als laatste lading heeft vervoerd.
+
+2. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) voorts uitgezonderd vaartuigen voor zover die een lading lossen in een zeeschip, indien dat door de schipper kan worden gestaafd met desbetreffende vervoersdocumenten.
+
+#### Paragraaf 2. **Betaling van de afvalbeheersbijdrage**
+
+#### Paragraaf 3. **Olie-afgifteboekje**
+
+#### Paragraaf 4. **Nalenssysteem**
+
+#### Paragraaf 5. **Losstandaarden en lozing van water**
+
+#### Paragraaf 6. **Losverklaring**
+
+##### Artikel 20a
+
+1. De bevoegde autoriteit kan voor een schip in vergelijkbare omstandigheden als genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=1&artikel=2a&z=2013-01-01&g=2013-01-01) in het kader van het uitvoeren van specifiek vervoer ontheffing verlenen van de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53).
+
+2. Degene die lost of degene de overslaginrichting drijft geeft geen toepassing aan [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) indien de schipper hem bewijs van de ontheffing toont.
+
+#### Paragraaf 7. **Boordzuiveringsinstallaties**
+
+#### Paragraaf 8. **Slotbepalingen**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
