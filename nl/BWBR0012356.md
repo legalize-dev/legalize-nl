@@ -4,7 +4,7 @@ identifier: "BWBR0012356"
 country: "nl"
 rank: "kb"
 publication_date: "2019-07-01"
-last_updated: "2005-08-24"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012356"
 soort: "KB"
@@ -48,9 +48,9 @@ Hebben goedgevonden en verstaan:
 
 - b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=100), ter handhaving of bevordering van de vrede;
 
-- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2005-08-24&g=2005-08-24);
+- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-01-01&g=2013-01-01);
 
-- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2005-08-24&g=2005-08-24);
+- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-01-01&g=2013-01-01);
 
 - e. versierselen: herinneringsmedaille dan wel gesp.
 
@@ -68,7 +68,7 @@ Er wordt ingesteld een Herinneringsmedaille Vredesoperaties, waaraan een of meer
 
 ##### Artikel 4
 
-1. Onze Minister kan, in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties, gespen instellen die worden verbonden aan de herinneringsmedaille.
+1. Onze Minister kan, in overeenstemming met Onze Ministers van Buitenlandse Zaken en van Veiligheid en Justitie, gespen instellen die worden verbonden aan de herinneringsmedaille.
 
 2. De gesp is vervaardigd van bronskleurig metaal en wordt op het lint bevestigd. Op de gesp is in kapitale letters een aanduiding van de vredesoperatie vermeld, eventueel gevolgd door een jaartal.
 
