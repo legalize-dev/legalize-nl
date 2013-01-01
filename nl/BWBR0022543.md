@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -64,17 +64,11 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-07-01&g=2012-07-01) bij deze regeling.
-
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2012-07-01&g=2012-07-01) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+Vervallen
 
 ##### Artikel 5
 
-De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt telkens na het houden van een koppel pluimvee:
-
-- a. 60 dagen voor legkippen;
-
-- b. 30 dagen voor vleeskuikens.
+Vervallen
 
 ##### Artikel 6
 
@@ -83,10 +77,6 @@ De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in art
 2. De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.
 
 3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.
-
-4. De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor het aanbinden van runderen overeenkomstig artikel 95, eerste lid, van verordening (EG) 889/2008.
-
-5. De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor de bezetting van de uitloop voor vleeskuikens overeenkomstig artikel 95, tweede lid, van verordening (EG) 889/2008.
 
 ##### Artikel 7
 
@@ -140,79 +130,61 @@ De Stichting KCB is belast met:
 
 ##### Artikel 15
 
-Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting COKZ.
+Vervallen
 
 ##### Artikel 16
 
-Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldingen en aanduidingen vastgesteld op grond van artikelen 10 en 11 van verordening (EG) 543/2008 voert, gaat dit vlees vergezeld van een certificaat dat is afgegeven door de bevoegde autoriteit van het land van oorsprong overeenkomstig artikel 14 van verordening (EG) 543/2008.
+Vervallen
 
 ### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
 ##### Artikel 17
 
-Een aanvraag tot registratie als bedoeld in artikel 5 van [verordening (EG) 510/2006](32006R0510) dan wel in artikel 7 van [verordening (EG) 509/2006](32006R0509), alsmede een verzoek tot wijziging van een productdossier als bedoeld in artikel 9, eerste lid, van [verordening (EG) 510/2006](32006R0510) dan wel artikel 11, eerste lid, van verordening (EG) 509/2006, alsmede een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van [verordening (EG) 510/2006](32006R0510) wordt ingediend bij het Hoofdproductschap Akkerbouw.
+1. Bij het Hoofdproductschap Akkerbouw worden ingediend:
+
+- a. een aanvraag tot registratie als bedoeld in artikel 7 van verordening (EG) nr. 509/2006 en artikel 5 van verordening (EG) nr. 510/2006;
+
+- b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 11, eerste lid, van verordening (EG) nr. 509/2006 en artikel 9, eerste lid, van verordening(EG) nr. 510/2006;
+
+- c. een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van verordening (EG) nr. 510/2006.
+
+2. Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot wijziging of annulering in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
+
+3. Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 7, vijfde lid, van verordening (EG) nr. 509/2006 of artikel 5 van verordening (EG) nr. 510/2006 bezwaar maken als bedoeld in die artikelen tegen de aanvraag of het verzoek door middel van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
+
+4. Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EG) nr. 509/2006 of verordening (EG) nr. 510/2006 voldoet, zendt de minister deze door naar de Europese Commissie.
 
 ##### Artikel 18
 
-1. De aanvragen tot registratie, de verzoeken tot wijziging van een productdossier dan wel de verzoeken tot annulering van een registratie, worden door het Hoofdproductschap Akkerbouw bekendgemaakt in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
+1. Het Hoofdproductschap Akkerbouw geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
 
-2. Iedere belanghebbende kan binnen vier weken na de bekendmaking als bedoeld in het eerste lid in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie van een aanvraag tot registratie, een verzoek tot wijziging van een productdossier of een verzoek tot annulering van een registratie, bezwaar als bedoeld in artikel 5, vijfde lid, van [verordening 510/2006](32006R0510), dan wel bezwaar als bedoeld in artikel 7, vijfde lid, van [verordening 509/2006](32006R0509) indienen bij het Hoofdproductschap Akkerbouw.
+2. Binnen vier maanden na de datum van bekendmaking in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 9, tweede lid, van verordening (EG) nr. 509/2006 of artikel 7, tweede lid, van verordening (EG) nr. 510/2006 bedenkingen tegen de voorgenomen registratie, wijziging van een productdossier of annulering van een registratie kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
 
-3. De Minister beslist met inachtneming van de voorgaande leden en de artikelen 7 en 11 van [verordening (EG) 509/2006](32006R0509) en de artikelen 5, 9 en 12 van [verordening (EG) 510/2006](32006R0510) omtrent:
-
-- a. de doorzending aan de Commissie van de aanvragen tot registratie;
-
-- b. de doorzending aan de Commissie van verzoeken tot wijziging van een productdossier;
-
-- c. de doorzending aan de Commissie van verzoeken tot annulering van een registratie.
+3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie, wijziging van een productdossier of annulering van een registratie bij de Europese Commissie als bedoeld in artikel 9, eerste lid, van verordening (EG) nr. 509/2006 en artikel 7, eerste lid, van verordening (EG) nr. 510/2006.
 
 ##### Artikel 19
 
-1. Door de Commissie voorgenomen registraties, alsmede door de Commissie voorgenomen wijzigingen van een productdossier of voorgenomen annuleringen van registraties worden door het Hoofdproductschap Akkerbouw onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie, bekendgemaakt in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
-
-2. Door de Commissie ingeschreven registraties, alsmede door de Commissie ingeschreven wijzigingen van een productdossier alsmede door de Commissie geannuleerde registraties worden door het Hoofdproductschap Akkerbouw onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie, bekendgemaakt in het Mededelingen en Verordeningenblad Bedrijfsorganisatie.
+Vervallen
 
 ##### Artikel 20
 
-1. Iedere belanghebbende kan binnen 4 maanden na de datum van bekendmaking in het Publicatieblad van de Europese Unie, zijn bedenkingen daartegen kenbaar maken overeenkomstig artikel 9, tweede lid van [verordening (EG) 509/2006](32006R0509) dan wel artikel 7, tweede lid van [verordening (EG) 510/2006](32006R0510) door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
-
-2. De Minister betrekt de in het eerste lid bedoelde verklaring in zijn overweging om al dan niet bezwaar tegen de registratie, wijziging of annulering aan te tekenen bij de Commissie als bedoeld in artikel 9, eerste lid, van [verordening (EG) 509/2006](32006R0509) dan wel artikel 7, eerste lid, van [verordening (EG) 510/2006](32006R0510).
+Vervallen
 
 ##### Artikel 21
 
-Als producten als bedoeld in [artikel 16, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) worden aangewezen:
-
-- a. Boeren-Leidse met sleutels in relatie tot het productdossier Boeren-Leidse met sleutels op grond van [verordening (EG) 510/2006](32006R0510);
-
-- b. Kanterkaas, Kanternagelkaas, Kanterkomijnekaas in relatie tot het productdossier Kanterkaas, Kanternagelkaas, Kanterkomijnekaas op grond van [verordening (EG) 510/2006](32006R0510);
-
-- c. Noord-Hollandse Edammer in relatie tot het productdossier Noord-Hollandse Edammer op grond van [verordening (EG) 510/2006](32006R0510);
-
-- d. Noord-Hollandse Gouda in relatie tot het productdossier Noord-Hollandse Gouda op grond van [verordening (EG) 510/2006](32006R0510);
-
-- e. Boerenkaas in relatie tot het productdossier Boerenkaas op grond van [verordening (EG) 509/2006](32006R0509);
-
-- f. Edam Holland in relatie tot het productdossier Edam Holland op grond van verordening (EG) 510/2006;
-
-- g. Gouda Holland in relatie tot het productdossier Gouda Holland op grond van verordening (EG) 510/2006.
+Vervallen
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
 ##### Artikel 22
 
-Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nederland uitgevoerd naar derde landen indien deze voldoen aan:
-
-- a. de [Warenwetregeling zuigelingenvoeding 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021907);
-
-- b. hetgeen de Codex Alimentarius voorschrijft inzake volledige zuigelingenvoeding dan wel opvolgzuigelingenvoeding, of
-
-- c. de regels van het land van bestemming.
+Vervallen
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2012-07-01&g=2012-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2013-01-01&g=2013-01-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -234,19 +206,17 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 - a. de keurmeesters van de Stichting BKD;
 
-- b. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
+- b. de daartoe gekwalificeerde medewerkers van de Stichting KCB;
 
-- c. de daartoe gekwalificeerde medewerkers van de Stichting KCB;
+- c. de inspecteurs van de Stichting Skal;
 
-- d. de inspecteurs van de Stichting Skal;
-
-- e. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;
+- d. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;
 
 ### Hoofdstuk 8. Overige bepalingen
 
 ##### Artikel 27
 
-Het RIKILT-Instituut voor Voedselveiligheid te Wageningen wordt aangewezen als erkend nationaal referentielaboratorium voor onderzoek naar watergehalte pluimveevlees als bedoeld in artikel 14bis, tiende lid, van [verordening (EEG) 1538/91](31991R1538).
+Vervallen
 
 ##### Artikel 28
 
@@ -1063,11 +1033,7 @@ Bij het in de handel brengen van of het maken van reclame voor diervoeders voor 
 
 ##### Artikel 16a
 
-1. In afwijking van de in bijlage XIV bij verordening (EG) 1234/2007, deel B, onderdeel II, punt 2, vastgestelde temperatuurvoorschriften, mag de temperatuur van vers vlees van pluimvee, voor zover dat nodig is, gedurende een periode van ten hoogste 24 uur omlaag worden gebracht, tot een temperatuur van ten laagste -8°C in de kern, voor:
-
-- a. het snijden en behandelen in detailhandelszaken of in aan verkooppunten grenzende lokalen, waar het vlees uitsluitend wordt versneden en behandeld om het ter plaatse rechtstreeks aan de consument te kunnen leveren; en
-
-- b. het snijden en behandelen van vers vlees van pluimvee in de fabriek tijdens de productie van bereidingen op basis van vers vlees van pluimvee.
+Vervallen
 
 ### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
 
@@ -1500,7 +1466,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
 
@@ -1595,7 +1561,7 @@ In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toeg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1998,7 +1964,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2012-07-01&g=2012-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
