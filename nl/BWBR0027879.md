@@ -4,7 +4,7 @@ identifier: "BWBR0027879"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2010-08-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027879"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Referentieniveaus Nederlandse taal
 
-Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Nederlandse taal, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1&z=2010-08-01&g=2010-08-01) van dit besluit, vastgesteld:
+Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Nederlandse taal, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1&z=2013-01-01&g=2013-01-01) van dit besluit, vastgesteld:
 
 - a. het basisonderwijs, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420): de referentieniveaus 1F en 2F;
 
@@ -82,13 +82,15 @@ Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Ne
 
 - j. de vakopleiding, bedoeld in [artikel 7.2.2, onderdeel c, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 2F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;
 
-- k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten, en
+- k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten;
 
-- l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten.
+- l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, met uitzondering van het onderdeel Fictionele, narratieve en literaire teksten, en
+
+- m. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1): de referentieniveaus 1F en 2F.
 
 ##### Artikel 3. Referentieniveaus rekenen
 
-Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus rekenen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2&z=2010-08-01&g=2010-08-01) van dit besluit, vastgesteld:
+Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus rekenen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2&z=2013-01-01&g=2013-01-01) van dit besluit, vastgesteld:
 
 - a. het basisonderwijs, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420): de referentieniveaus 1F en 1S;
 
@@ -110,9 +112,11 @@ Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus re
 
 - j. de vakopleiding, bedoeld in [artikel 7.2.2, onderdeel c, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 2F;
 
-- k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, en
+- k. de middenkaderopleiding, bedoeld in [artikel 7.2.2, onderdeel d, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F;
 
-- l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F.
+- l. de specialistenopleiding, bedoeld in [artikel 7.2.2, onderdeel e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2): het referentieniveau 3F, en
+
+- m. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1): de referentieniveaus 1F en 2F.
 
 ##### Artikel 4. Inwerkingtreding
 
@@ -122,7 +126,7 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 2 van de Wet refer
 
 Dit besluit wordt aangehaald als: Besluit referentieniveaus Nederlandse taal en rekenen.
 
-## Bijlage 1. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2&z=2010-08-01&g=2010-08-01) van het Besluit referentieniveaus Nederlandse taal en rekenen
+## Bijlage 1. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2&z=2013-01-01&g=2013-01-01) van het Besluit referentieniveaus Nederlandse taal en rekenen
 
 ### Referentieniveaus Nederlandse taal
 
@@ -210,7 +214,7 @@ De moeilijkheid van spelling is op twee manieren te ordenen. Er zijn empirische 
 
 **In schema: zie tabel 2 op de volgende pagina**
 
-## Bijlage 2. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=3&z=2010-08-01&g=2010-08-01) van het Besluit referentieniveaus Nederlandse taal en rekenen
+## Bijlage 2. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=3&z=2013-01-01&g=2013-01-01) van het Besluit referentieniveaus Nederlandse taal en rekenen
 
 ### Referentieniveaus rekenen
 
