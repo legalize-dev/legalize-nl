@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
+1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32).
 
 2. Deze regeling verstaat onder:
 
@@ -52,9 +52,7 @@ Besluit:
 
 - b. het UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2);
 
-- c. **detachering:** terbeschikkingstelling van een werknemer door de inhoudingsplichtige met wie een arbeidsovereenkomst bestaat, ten behoeve van een derde;
-
-- d. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.
+- c. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.
 
 ##### Artikel 1a
 
@@ -104,15 +102,15 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 | Indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 5 578 |
-| 16 jaren | 17 jaren: | € 6 415 |
-| 17 jaren | 18 jaren: | € 7 344 |
-| 18 jaren | 19 jaren: | € 8 460 |
-| 19 jaren | 20 jaren: | € 9 761 |
-| 20 jaren | 21 jaren: | € 11 434 |
-| 21 jaren | 22 jaren: | € 13 480 |
-| 22 jaren | 23 jaren: | € 15 803 |
-| 23 jaren |   | € 18 592 |
+| 15 jaren | 16 jaren: | € 5 290 |
+| 16 jaren | 17 jaren: | € 6 084 |
+| 17 jaren | 18 jaren: | € 6 965 |
+| 18 jaren | 19 jaren: | € 8 024 |
+| 19 jaren | 20 jaren: | € 9 258 |
+| 20 jaren | 21 jaren: | € 10 845 |
+| 21 jaren | 22 jaren: | € 12 784 |
+| 22 jaren | 23 jaren: | € 14 988 |
+| 23 jaren |   | € 17 633 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -122,7 +120,7 @@ De inhoudingsplichtige die met betrekking tot een door hem aangewezen categorie 
 
 ##### Artikel 8
 
-De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de de afdrachtvermindering onderwijs.
+De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de afdrachtvermindering onderwijs.
 
 ### Hoofdstuk III. Afdrachtvermindering langdurig werklozen
 
@@ -494,7 +492,7 @@ Met betrekking tot gevallen waarin [artikel 2 van de Wet belasting- en premiefac
 
 ##### Artikel 26a
 
-Met betrekking tot de gevallen waarin [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33) afdrachtvermindering langdurig werklozen nog wordt genoten, blijven in zoverre de bepalingen van deze regeling naar de tekst zoals die luidde op 31 december 2002, na die datum toepassing vinden.
+Vervallen
 
 ##### Artikel 27
 
