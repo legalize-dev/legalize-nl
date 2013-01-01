@@ -4,7 +4,7 @@ identifier: "BWBR0002419"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1998-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002419"
 soort: "wet"
@@ -70,7 +70,7 @@ In deze Wet wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Met het toezicht op de naleving van de voorschriften van de artikelen 11 en 13 van de Verordening en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002419&artikel=2&z=1998-01-01&g=1998-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002419&artikel=3&z=1998-01-01&g=1998-01-01) van deze wet, alsmede van de ter uitvoering daarvan gegeven voorschriften zijn belast de door Onze Minister en Onze Minister van Justitie gezamenlijk aan te wijzen ambtenaren. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+1. Met het toezicht op de naleving van de voorschriften van de artikelen 11 en 13 van de Verordening en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002419&artikel=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002419&artikel=3&z=2013-01-01&g=2013-01-01) van deze wet, alsmede van de ter uitvoering daarvan gegeven voorschriften zijn belast de door Onze Minister en Onze Minister van Justitie gezamenlijk aan te wijzen ambtenaren. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 2. Zij staan de lasthebbers van de Commissie, bedoeld in artikel 14, tweede lid, van de Verordening, bij in de uitvoering van hun opdracht.
 
@@ -80,7 +80,7 @@ In deze Wet wordt verstaan onder:
 
 ##### Artikel 5
 
-In elk geval, waarin de Regering ingevolge het bepaalde in artikel 79, vierde lid, van het Verdrag tot oprichting van de Europese Economische Gemeenschap of ingevolge het bepaalde in artikel 18, derde lid, van de Verordening wordt geraadpleegd in verband met een voorgenomen sanctie tegen een in Nederland gevestigde ondernemer, wint Onze Minister van Justitie het advies in van het Gerechtshof te 's-Gravenhage.
+In elk geval, waarin de Regering ingevolge het bepaalde in artikel 79, vierde lid, van het Verdrag tot oprichting van de Europese Economische Gemeenschap of ingevolge het bepaalde in artikel 18, derde lid, van de Verordening wordt geraadpleegd in verband met een voorgenomen sanctie tegen een in Nederland gevestigde ondernemer, wint Onze Minister van Justitie het advies in van het gerechtshof Den Haag.
 
 ##### Artikel 6
 
