@@ -4,7 +4,7 @@ identifier: "BWBR0012066"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012066"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
 
-1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
+1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
 
 2. Onder een kiezende belastingplichtige wordt verstaan:
 
@@ -66,11 +66,11 @@ Hebben goedgevonden en verstaan:
 
 - b. een buitenlandse belastingplichtige, die volgens [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) kiest voor toepassing van de regels van de wet voor binnenlandse belastingplichtigen.
 
-3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
+3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
 
 ##### Artikel 3. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
 
-1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2012-01-01&g=2012-01-01)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
+1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
 
 2. Onder het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen wordt verstaan: de som van:
 
@@ -98,15 +98,15 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 ##### Artikel 5. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
 
-1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2013-01-01&g=2013-01-01) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
 
 3. [Artikel 26 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) is van overeenkomstige toepassing.
 
 ##### Artikel 6. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
 
-1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
+1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2013-01-01&g=2013-01-01) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
 
 2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) en [27 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=27) zijn van overeenkomstige toepassing.
 
@@ -120,7 +120,7 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. de inkomensbestanddelen die daartoe wel behoren maar waarover het heffingsrecht op grond van een regeling ter voorkoming van dubbele belasting niet of tot een beperkt tarief aan Nederland is toegewezen.
 
-[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. De vermindering van het eerste lid wordt bij de aanwezigheid van in het tweede lid, onderdeel b, bedoelde inkomensbestanddelen die Nederland volgens regelingen ter voorkoming van dubbele belasting slechts tegen een beperkt tarief mag belasten, verlaagd met de belasting die Nederland volgens die regelingen over de inkomensbestanddelen mag heffen.
 
@@ -132,7 +132,7 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. verminderd met de – met overeenkomstige toepassing van [afdeling 4.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.10) – te verrekenen negatieve bedragen aan noemerinkomen uit andere jaren.
 
-6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
 
@@ -152,7 +152,7 @@ De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behore
 
 Bij een belastingplichtige die niet het gehele jaar in Nederland woont, wordt de naar tijdsgelang herleide gemiddelde waarde van de rendementsgrondslag buiten Nederland over de periode dat hij niet in Nederland woonde, in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij als volle maand beschouwd.
 
-4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij voordeel uit sparen en beleggen
 
@@ -271,9 +271,9 @@ verminderd met:
 
 - f. de waardedaling van de aandelen of winstbewijzen bij de belastingplichtige in de periode dat hij niet in Nederland belastingplichtig was, voor zover blijkt dat de waardedaling in die periode is ontstaan.
 
-Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende aanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2012-01-01&g=2012-01-01), de verminderingen en vermeerderingen van de eerste volzin toegepast.
+Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende aanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2013-01-01&g=2013-01-01), de verminderingen en vermeerderingen van de eerste volzin toegepast.
 
-[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 11. Indien de belastingplichtige een aanmerkelijk belang in een vennootschap heeft die middellijk of onmiddellijk aandelen in of winstbewijzen van een in Nederland gevestigde vennootschap heeft en deze aandelen of winstbewijzen, al dan niet rechtstreeks, zijn verkregen van de belastingplichtige bij wie die aandelen of winstbewijzen tot een aanmerkelijk belang behoorden, wordt de verkrijgingsprijs volgens [artikel 4.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) van het eerstbedoelde aanmerkelijk belang verminderd met een bedrag, waarbij deze vermindering kan leiden tot een negatieve verkrijgingsprijs; de vermindering is gelijk aan het bedrag waarmee op het tijdstip van bedoelde verkrijging door de vennootschap de waarde in het economische verkeer van de door de vennootschap van de belastingplichtige verkregen aandelen of winstbewijzen de verkrijgingsprijs van de belastingplichtige van die aandelen of winstbewijzen overtreft. De eerste volzin is niet van toepassing voorzover in Nederland inkomstenbelasting of in een ander land naar het inkomen geheven belasting is betaald over de waardeaangroei van laatstgenoemde aandelen of winstbewijzen die naar Nederlandse maatstaven redelijk is. Voor de berekening van de in het slot van de eerste volzin bedoelde vermindering, wordt de verkrijgingsprijs van de door de belastingplichtige aan de vennootschap vervreemde aandelen of winstbewijzen vermeerderd met de waardeaangroei, bedoeld in het derde lid, tot op het tijdstip van de in het slot van de in de eerste volzin bedoelde verkrijging door die vennootschap onderscheidenlijk verminderd met de waardedaling als bedoeld in het vierde lid tot op het tijdstip van die verkrijging.
 
@@ -287,7 +287,7 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 
 ##### Artikel 18. Waardering; waardering genotsrechten
 
-1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2012-01-01&g=2012-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
+1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2013-01-01&g=2013-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
@@ -448,25 +448,39 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 - 5°. de in het kalenderjaar ten laste van de belastingplichtige geheven dividendbelasting en ingehouden buitenlandse bronbelasting;
 
-- b. met betrekking tot schulden als bedoeld in [artikel 3.119a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) en schulden als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3):
+- b. met betrekking tot schulden als bedoeld in [artikel 3.119a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a):
 
 - 1°. de waarde in het economische verkeer aan het einde van het kalenderjaar;
 
 - 2°. de rente die in het kalenderjaar is betaald, is verrekend, ter beschikking is gesteld of rentedragend is geworden;
 
-- c. met betrekking tot een kapitaalverzekering eigen woning als bedoeld in [artikel 3.116, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116):
+- 3°. de datum van aangaan van de schuld;
+
+- 4°. het startbedrag van de schuld;
+
+- 5°. de maandelijkse rentevoet aan het einde van het kalenderjaar;
+
+- 6°. de resterende maximale looptijd in maanden aan het einde van het kalenderjaar;
+
+- c. met betrekking tot schulden als bedoeld in [artikel 10bis.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1) en schulden als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3):
+
+- 1°. de waarde in het economische verkeer aan het einde van het kalenderjaar;
+
+- 2°. de rente die in het kalenderjaar is betaald, is verrekend, ter beschikking is gesteld of rentedragend is geworden;
+
+- d. met betrekking tot een kapitaalverzekering eigen woning als bedoeld in [artikel 10bis.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.2):
 
 - 1°. het in het kalenderjaar genoten bedrag aan uitkering;
 
-- 2°. indien de verzekering op grond van [artikel 3.116, derde lid, onderdeel a, b, c, e, f of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116) in het kalenderjaar wordt geacht tot uitkering te zijn gekomen: de waarde in het economische verkeer van de verzekering op het tijdstip waarop die verzekering wordt geacht tot uitkering te zijn gekomen;
+- 2°. indien de verzekering op grond van [artikel 10bis.4, derde lid, onderdelen a, b, c, e, f of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4) in het kalenderjaar wordt geacht tot uitkering te zijn gekomen: de waarde in het economische verkeer van de verzekering op het tijdstip waarop die verzekering wordt geacht tot uitkering te zijn gekomen;
 
-- d. met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning als bedoeld in [artikel 3.116a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a), onderscheidenlijk artikel 3.116a, derde lid, van de wet:
+- e. met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning als bedoeld in [artikel 10bis.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.2) van de wet:
 
 - 1°. het in het kalenderjaar gedeblokkeerde tegoed, onderscheidenlijk de in het kalenderjaar gedeblokkeerde waarde;
 
-- 2°. indien de spaarrekening of het beleggingsrecht op grond van [artikel 3.116a, vierde lid, onderdeel a, b, d, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116a) in het kalenderjaar wordt geacht te zijn gedeblokkeerd: het tegoed op de spaarrekening onderscheidenlijk de waarde in het economische verkeer van het beleggingsrecht op het tijdstip waarop die spaarrekening of dat beleggingsrecht wordt geacht te zijn gedeblokkeerd;
+- 2°. indien de spaarrekening of het beleggingsrecht op grond van [artikel 10bis.5, vierde lid, onderdelen a, b, d, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) in het kalenderjaar wordt geacht te zijn gedeblokkeerd: het tegoed op de spaarrekening onderscheidenlijk de waarde in het economische verkeer van het beleggingsrecht op het tijdstip waarop die spaarrekening of dat beleggingsrecht wordt geacht te zijn gedeblokkeerd;
 
-- e. met betrekking tot een lijfrente als bedoeld in de [artikelen 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.124) en [3.125 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125):
+- f. met betrekking tot een lijfrente als bedoeld in de [artikelen 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.124) en [3.125 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125):
 
 - 1°. de in het kalenderjaar betaalde of verrekende premies;
 
@@ -474,15 +488,15 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 - 3°. de restituties in het kalenderjaar van in een eerder kalenderjaar betaalde of verrekende premies indien de restitutie geen afkoop is in de zin van [artikel 3.133, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133);
 
-- f. met betrekking tot een lijfrentespaarrekening of een lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a):
+- g. met betrekking tot een lijfrentespaarrekening of een lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a):
 
 - 1°. de in het kalenderjaar overgemaakte bedragen;
 
 - 2°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.133, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) in samenhang met artikel 3.133, tweede lid, onderdeel a, b, c, d voor zover betrekking hebbend op vervreemding, e, g, h, i of j, van de wet: de omstandigheid die zich heeft voorgedaan en de waarde in het economische verkeer van de aanspraak bepaald met toepassing van [artikel 3.137 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.137);
 
-- g. met betrekking tot een recht of een tegoed als bedoeld in [artikel 5.10, eerste lid, onderdeel a onderscheidenlijk onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10): waarde in het economische verkeer van het recht onderscheidenlijk het tegoed aan het begin van het kalenderjaar;
+- h. met betrekking tot een recht of een tegoed als bedoeld in [artikel 5.10, eerste lid, onderdeel a onderscheidenlijk onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10): waarde in het economische verkeer van het recht onderscheidenlijk het tegoed aan het begin van het kalenderjaar;
 
-- h. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 1999 bestaande levensverzekering:
+- i. met betrekking tot een recht op kapitaaluitkering uit een op 14 september 1999 bestaande levensverzekering:
 
 - 1°. de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;
 
@@ -490,15 +504,15 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 - 3°. het in het kalenderjaar genoten bedrag aan uitkering;
 
-- i. met betrekking tot een recht op kapitaaluitkering uit een op 31 december 2000 bestaande levensverzekering, niet zijnde een recht als bedoeld in onderdeel h:
+- j. met betrekking tot een recht op kapitaaluitkering uit een op 31 december 2000 bestaande levensverzekering, niet zijnde een recht als bedoeld in onderdeel i:
 
 - 1°. de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;
 
 - 2°. het in het kalenderjaar genoten bedrag aan uitkering;
 
-- j. met betrekking tot een recht op kapitaaluitkering of prestatie uit levensverzekering, niet zijnde een recht als bedoeld in de onderdelen c, g, h en i en niet zijnde een recht als bedoeld in [artikel 5.10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10): de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;
+- k. met betrekking tot een recht op kapitaaluitkering of prestatie uit levensverzekering, niet zijnde een recht als bedoeld in de onderdelen d, h, i en j en niet zijnde een recht als bedoeld in [artikel 5.10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10): de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;
 
-- k. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen ter zake van invaliditeit, ziekte of ongeval als bedoeld in [artikel 3.124, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.124):
+- l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen ter zake van invaliditeit, ziekte of ongeval als bedoeld in [artikel 3.124, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.124):
 
 - 1°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.133, tweede lid, onderdeel a, d voor zover betrekking hebbend op vervreemding, e, g of i, laatstgenoemd onderdeel in samenhang met het vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133): de omstandigheid die zich heeft voorgedaan en de waarde in het economische verkeer van de aanspraak bepaald met toepassing van [artikel 3.137 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.137);
 
@@ -506,9 +520,9 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 - 3°. de restituties in het kalenderjaar van betaalde of verrekende premies indien de restitutie geen afkoop is in de zin van [artikel 3.133, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133);
 
-- l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen e, f en k: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.
+- m. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen f, g en l: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.
 
-3. Onder rente als bedoeld in het tweede lid, onderdelen a en b, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.
+3. Onder rente als bedoeld in het tweede lid, onderdelen a, b en c, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.
 
 4. Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door de inspecteur voorgeschreven wijze en met een door de inspecteur voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
@@ -524,7 +538,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 - b. naar het oordeel van de inspecteur de administratieplichtige tijdelijk niet in staat is de gegevens en inlichtingen te verstrekken of niet in de gelegenheid is tijdig de gegevens en inlichtingen te verstrekken en de administratieplichtige met de inspecteur een tijdstip is overeengekomen waarop hij geacht wordt daartoe wel weer in staat onderscheidenlijk in de gelegenheid te zijn;
 
-- c. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen g en h, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10), of
+- c. de waarde in het economische verkeer van het recht, bedoeld in het tweede lid, onderdelen h en i, onder 1°, lager is dan het bedrag, genoemd in [artikel 5.10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.10), of
 
 - d. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de voor die vrijstelling verbonden voorwaarden is voldaan.
 
@@ -548,7 +562,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 ##### Artikel 24
 
-[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
+[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
 ##### Artikel 25. Overgangsbepaling opgave waardeaangroei
 
@@ -616,7 +630,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de belastingplichtige wordt gesteld, waarbij de belastingplichtige tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van de aanspraken op het tegoed van een lijfrentespaarrekening, onderscheidenlijk van de aanspraken op de waarde van een lijfrentebeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.
 
-4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
@@ -693,14 +707,14 @@ verminderd met:
 | meer dan | maar niet meer dan | bedraagt de leegwaarderatio |
 | --- | --- | --- |
 | 0% | 1,0% | 50% |
-| 1,0% | 1,5% | 54% |
-| 1,5% | 2,0% | 58% |
-| 2,0% | 2,5% | 63% |
-| 2,5% | 3,0% | 67% |
-| 3,0% | 3,5% | 72% |
-| 3,5% | 4,0% | 76% |
-| 4,0% | 5,0% | 81% |
-| 5,0% | – | 85% |
+| 1,0% | 1,5% | 53% |
+| 1,5% | 2,0% | 56% |
+| 2,0% | 2,5% | 59% |
+| 2,5% | 3,0% | 62% |
+| 3,0% | 3,5% | 66% |
+| 3,5% | 4,0% | 69% |
+| 4,0% | 5,0% | 73% |
+| 5,0% | – | 78% |
 
 3. De jaarlijkse huur of pacht, bedoeld in het tweede lid, wordt gesteld op twaalf maal de maandelijkse huur, onderscheidenlijk pacht, zoals die geldt aan het begin van het kalenderjaar. Indien de huurprijs, onderscheidenlijk pachtprijs, zoals die tussen gelieerde partijen is overeengekomen zodanig is dat deze tussen willekeurige derden niet overeengekomen zou zijn, wordt de huurprijs, onderscheidenlijk pachtprijs, voor de toepassing van het tweede lid gesteld op 3,5% van de WOZ-waarde.
 
@@ -710,7 +724,7 @@ verminderd met:
 
 ##### Artikel 17b. Waardering woningen; correctie voor erfpachtcanon
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2012-01-01&g=2012-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2013-01-01&g=2013-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
