@@ -4,7 +4,7 @@ identifier: "BWBR0030544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-31"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030544"
 soort: "ministeriele-regeling"
@@ -60,13 +60,13 @@ Besluit:
 
 - g. **onderzoek:** haalbaarheidsonderzoek dan wel interactief of procesgericht onderzoek;
 
-- h. **haalbaarheidsonderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-10-01&g=2012-10-01);
+- h. **haalbaarheidsonderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01);
 
-- i. **interactief of procesgericht onderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-10-01&g=2012-10-01);
+- i. **interactief of procesgericht onderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01);
 
-- j. **tijdelijke maatregel:** maatregel als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2012-10-01&g=2012-10-01);
+- j. **tijdelijke maatregel:** maatregel als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2013-01-01&g=2013-01-01);
 
-- k. **subsidiabele kosten:** kosten als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2012-10-01&g=2012-10-01);
+- k. **subsidiabele kosten:** kosten als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2013-01-01&g=2013-01-01);
 
 - l. **subsidietijdvak:** tijdvak van 1 oktober tot en met 30 september in enig jaar;
 
@@ -92,9 +92,9 @@ Subsidie kan worden verstrekt ten behoeve van een op grond van de [Monumentenwet
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **subsidie:** een subsidie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-10-01&g=2012-10-01);
+- a. **subsidie:** een subsidie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01);
 
-- b. **aanvraag:** een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2012-10-01&g=2012-10-01).
+- b. **aanvraag:** een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 5. Te subsidiëren activiteiten
 
@@ -134,7 +134,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Indien in enig subsidietijdvak een beschikbaar bedrag niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan:
 
-- a. het subsidieplafond, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2012-10-01&g=2012-10-01), voor het zelfde subsidietijdvak, of
+- a. het subsidieplafond, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2013-01-01&g=2013-01-01), voor het zelfde subsidietijdvak, of
 
 - b. het subsidieplafond, bedoeld in het eerste lid, voor het volgende subsidietijdvak.
 
@@ -156,7 +156,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. op welk monument of welke monumenten dan wel op welk zelfstandig onderdeel of welke zelfstandige onderdelen het onderzoek betrekking heeft,
 
-- c. tot welke soort monumenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=1&artikel=2&z=2012-10-01&g=2012-10-01), het monument behoort, en
+- c. tot welke soort monumenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01), het monument behoort, en
 
 - d. of, voor zover van toepassing, de eigenaar van het monument heeft ingestemd met het instellen van een onderzoek.
 
@@ -180,33 +180,33 @@ In dit hoofdstuk wordt verstaan onder:
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover:
 
-- a. de in de offerte, bedoeld in [artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2012-10-01&g=2012-10-01), opgenomen kosten naar het oordeel van de minister niet redelijk zijn,
+- a. de in de offerte, bedoeld in [artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-01-01&g=2013-01-01), opgenomen kosten naar het oordeel van de minister niet redelijk zijn,
 
 - b. met betrekking tot de kosten subsidie is verstrekt op grond van een andere rijkssubsidieregeling,
 
 - c. met de werkzaamheden voor een onderzoek is begonnen, voordat de aanvraag is ingediend, of
 
-- d. de rechtspersoon, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2012-10-01&g=2012-10-01), naar het oordeel van de minister onvoldoende of geen belang bij de herbestemming van het monument heeft.
+- d. de rechtspersoon, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2013-01-01&g=2013-01-01), naar het oordeel van de minister onvoldoende of geen belang bij de herbestemming van het monument heeft.
 
 ##### Artikel 12. Wijze van verdeling van de beschikbare middelen
 
-1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2012-10-01&g=2012-10-01).
+1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01).
 
 2. De minister rangschikt de aanvragen in de volgorde als hierna vermeld:
 
-- a. aanvragen ingediend door organisaties als bedoeld in [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33), die eigenaar van het desbetreffende monument zijn,
+- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), die eigenaar van het desbetreffende monument zijn,
 
 - b. aanvragen ingediend door andere eigenaren dan die, bedoeld in onderdeel a,
 
-- c. aanvragen ingediend door organisaties als bedoeld in [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33), die geen eigenaar van het desbetreffende monument zijn, en
+- c. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), die geen eigenaar van het desbetreffende monument zijn, en
 
 - d. aanvragen ingediend door andere rechtspersonen dan die, bedoeld in onderdeel c.
 
-3. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2012-10-01&g=2012-10-01), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in [artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2012-10-01&g=2012-10-01), waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.
+3. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2013-01-01&g=2013-01-01), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in [artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-01-01&g=2013-01-01), waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.
 
 ##### Artikel 13. Beschikking tot subsidievaststelling
 
-1. De minister beslist binnen 13 weken na afloop van de periode, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2012-10-01&g=2012-10-01), op de aanvragen in de volgorde van de rangschikking, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2012-10-01&g=2012-10-01), en zonodig met toepassing van artikel 12, derde lid.
+1. De minister beslist binnen 13 weken na afloop van de periode, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2013-01-01&g=2013-01-01), op de aanvragen in de volgorde van de rangschikking, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2013-01-01&g=2013-01-01), en zonodig met toepassing van artikel 12, derde lid.
 
 2. De subsidie wordt vastgesteld zonder voorafgaande subsidieverlening.
 
@@ -216,9 +216,9 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 14. Subsidieverplichtingen
 
-1. De ontvanger van een subsidie voltooit het onderzoek uiterlijk op het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2012-10-01&g=2012-10-01).
+1. De ontvanger van een subsidie voltooit het onderzoek uiterlijk op het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2013-01-01&g=2013-01-01).
 
-2. De ontvanger van een subsidie doet onmiddellijk schriftelijk mededeling aan de minister, indien aannemelijk is dat de activiteiten waarvoor de subsidie is verstrekt niet voor het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2012-10-01&g=2012-10-01), zijn verricht dan wel niet of niet geheel zullen worden verricht.
+2. De ontvanger van een subsidie doet onmiddellijk schriftelijk mededeling aan de minister, indien aannemelijk is dat de activiteiten waarvoor de subsidie is verstrekt niet voor het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2013-01-01&g=2013-01-01), zijn verricht dan wel niet of niet geheel zullen worden verricht.
 
 ##### Artikel 15. Desgevraagd verantwoorden
 
@@ -226,7 +226,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - a. de activiteiten waarvoor de subsidie is verstrekt, zijn verricht, en
 
-- b. is voldaan aan de verplichting, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2012-10-01&g=2012-10-01).
+- b. is voldaan aan de verplichting, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2013-01-01&g=2013-01-01).
 
 2. Aan het eerste lid, aanhef en onderdeel a, is in elk geval toepassing gegeven, indien de ontvanger van een subsidie een rapport overlegt waarin de resultaten van het onderzoek zijn vastgelegd.
 
@@ -238,9 +238,9 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **subsidie:** een subsidie als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2012-10-01&g=2012-10-01);
+- a. **subsidie:** een subsidie als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2013-01-01&g=2013-01-01);
 
-- b. **aanvraag:** een aanvraag als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2012-10-01&g=2012-10-01).
+- b. **aanvraag:** een aanvraag als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 17. Te subsidiëren activiteiten
 
@@ -248,7 +248,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Subsidie wordt uitsluitend verstrekt, indien met betrekking tot een monument recent een onderzoek is ingesteld of een aanvraag om subsidie voor een onderzoek is ingediend. Onder een onderzoek als bedoeld in de eerste volzin wordt mede begrepen een ander vergelijkbaar haalbaarheidsonderzoek.
 
-3. Voor zover een subsidie betrekking heeft op een woonhuis als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2012-10-01&g=2012-10-01), wordt die subsidie onverminderd het tweede lid uitsluitend verstrekt, indien met betrekking tot het desbetreffende samenstel van monumenten dan wel een of meer onderdelen daarvan recent een onderzoek is ingesteld of een aanvraag om subsidie voor een onderzoek is ingediend. De tweede volzin van het tweede lid is van toepassing.
+3. Voor zover een subsidie betrekking heeft op een woonhuis als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2013-01-01&g=2013-01-01), wordt die subsidie onverminderd het tweede lid uitsluitend verstrekt, indien met betrekking tot het desbetreffende samenstel van monumenten dan wel een of meer onderdelen daarvan recent een onderzoek is ingesteld of een aanvraag om subsidie voor een onderzoek is ingediend. De tweede volzin van het tweede lid is van toepassing.
 
 4. Maatregelen als bedoeld in het eerste lid hebben betrekking op een of meer monumenten dan wel op een of meer zelfstandige onderdelen.
 
@@ -266,7 +266,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Indien in enig subsidietijdvak een beschikbaar bedrag niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan:
 
-- a. het subsidieplafond, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2012-10-01&g=2012-10-01), voor het zelfde subsidietijdvak, of
+- a. het subsidieplafond, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2013-01-01&g=2013-01-01), voor het zelfde subsidietijdvak, of
 
 - b. het subsidieplafond, bedoeld in het eerste lid, voor het volgende subsidietijdvak.
 
@@ -322,7 +322,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. op welk monument of welke monumenten dan wel op welk zelfstandig onderdeel of welke zelfstandige onderdelen de tijdelijke maatregelen betrekking hebben, en
 
-- b. tot welke soort monumenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=1&artikel=2&z=2012-10-01&g=2012-10-01), het monument behoort.
+- b. tot welke soort monumenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01), het monument behoort.
 
 3. De aanvraag gaat vergezeld van:
 
@@ -332,7 +332,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - c. een opgave van de kosten waarvoor subsidie wordt aangevraagd en een offerte of een begroting van de uit te voeren werkzaamheden die is opgesteld volgens de hoofdstructuur van het Standaardbestek voor de burgerlijke en utiliteitsbouw, vastgesteld door de Stichting Stabu,
 
-- d. een actueel rapport als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2012-10-01&g=2012-10-01), met betrekking tot het monument of een daarmee gelijk te stellen document dan wel de mededeling dat een aanvraag om subsidie voor een haalbaarheidsonderzoek dan wel een interactief of procesgericht onderzoek met betrekking tot het monument is ingediend, en
+- d. een actueel rapport als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2013-01-01&g=2013-01-01), met betrekking tot het monument of een daarmee gelijk te stellen document dan wel de mededeling dat een aanvraag om subsidie voor een haalbaarheidsonderzoek dan wel een interactief of procesgericht onderzoek met betrekking tot het monument is ingediend, en
 
 - e. in geval van een monument dat niet op grond van de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471), een provinciale verordening of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.
 
@@ -340,7 +340,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
 
-2. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2012-10-01&g=2012-10-01), is van toepassing.
+2. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2013-01-01&g=2013-01-01), is van toepassing.
 
 #### Paragraaf 3.3. **Subsidieverstrekking**
 
@@ -348,7 +348,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover:
 
-- a. de in de offerte of begroting, bedoeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2012-10-01&g=2012-10-01), opgenomen kosten naar het oordeel van de minister niet redelijk zijn,
+- a. de in de offerte of begroting, bedoeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2013-01-01&g=2013-01-01), opgenomen kosten naar het oordeel van de minister niet redelijk zijn,
 
 - b. met betrekking tot de subsidiabele kosten subsidie is verstrekt op grond van een andere rijkssubsidieregeling,
 
@@ -358,21 +358,21 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 26. Wijze van verdeling van de beschikbare middelen
 
-1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2012-10-01&g=2012-10-01).
+1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2013-01-01&g=2013-01-01).
 
 2. De minister rangschikt de aanvragen in de volgorde als hierna vermeld:
 
-- a. aanvragen ingediend door organisaties als bedoeld in [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33), en
+- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), en
 
 - b. aanvragen ingediend door andere eigenaaren dan die, bedoeld in onderdeel a.
 
-3. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2012-10-01&g=2012-10-01), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2012-10-01&g=2012-10-01), waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.
+3. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2013-01-01&g=2013-01-01), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2013-01-01&g=2013-01-01), waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.
 
 ##### Artikel 27. Beschikking op de subsidieaanvraag
 
-1. Indien de te verstrekken subsidie € 25.000 of meer bedraagt, geeft de minister de beschikking tot subsidieverlening binnen 13 weken na afloop van de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2012-10-01&g=2012-10-01), in de volgorde van de rangschikking, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2012-10-01&g=2012-10-01), en zonodig met toepassing van artikel 26, derde lid.
+1. Indien de te verstrekken subsidie € 25.000 of meer bedraagt, geeft de minister de beschikking tot subsidieverlening binnen 13 weken na afloop van de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2013-01-01&g=2013-01-01), in de volgorde van de rangschikking, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2013-01-01&g=2013-01-01), en zonodig met toepassing van artikel 26, derde lid.
 
-2. Indien de te verstrekken subsidie minder dan € 25.000 bedraagt, stelt de minister de subsidie zonder voorafgaande subsidieverlening vast binnen 13 weken na afloop van de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2012-10-01&g=2012-10-01), in de volgorde van de rangschikking, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2012-10-01&g=2012-10-01), en zonodig met toepassing van artikel 26, derde lid.
+2. Indien de te verstrekken subsidie minder dan € 25.000 bedraagt, stelt de minister de subsidie zonder voorafgaande subsidieverlening vast binnen 13 weken na afloop van de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2013-01-01&g=2013-01-01), in de volgorde van de rangschikking, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2013-01-01&g=2013-01-01), en zonodig met toepassing van artikel 26, derde lid.
 
 3. De beschikking vermeldt de aard van de werkzaamheden waarvoor subsidie wordt verstrekt, het subsidiebedrag en het tijdstip waarop de werkzaamheden uiterlijk zijn afgerond.
 
@@ -380,35 +380,35 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 28. Bevoorschotting
 
-Indien de subsidie € 25.000 of meer bedraagt, verstrekt de minister een voorschot van 90 procent van het verleende subsidiebedrag onmiddellijk na de verlening van de subsidie. De minister verstrekt het resterende voorschot onmiddellijk na indiening van de prestatieverklaring, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=31&z=2012-10-01&g=2012-10-01).
+Indien de subsidie € 25.000 of meer bedraagt, verstrekt de minister een voorschot van 90 procent van het verleende subsidiebedrag onmiddellijk na de verlening van de subsidie. De minister verstrekt het resterende voorschot onmiddellijk na indiening van de prestatieverklaring, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=31&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 29. Subsidieverplichtingen
 
-1. De ontvanger van een subsidie voltooit de werkzaamheden uiterlijk op het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2012-10-01&g=2012-10-01).
+1. De ontvanger van een subsidie voltooit de werkzaamheden uiterlijk op het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2013-01-01&g=2013-01-01).
 
-2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2012-10-01&g=2012-10-01), is van overeenkomstige toepassing.
+2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 #### Paragraaf 3.5. **Subsidievaststelling en verantwoording**
 
 ##### Artikel 30. Aanvraag tot subsidievaststelling
 
-1. Indien de subsidie € 25.000 of meer bedraagt, dient de ontvanger van een subsidie binnen 13 weken na het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2012-10-01&g=2012-10-01), een aanvraag tot vaststelling van de subsidie in.
+1. Indien de subsidie € 25.000 of meer bedraagt, dient de ontvanger van een subsidie binnen 13 weken na het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2013-01-01&g=2013-01-01), een aanvraag tot vaststelling van de subsidie in.
 
 2. De aanvraag wordt ingediend bij de Rijksdienst voor het Cultureel Erfgoed te Amersfoort.
 
 ##### Artikel 31. Verantwoording
 
-1. Indien de subsidie € 25.000 of meer bedraagt, toont de ontvanger van een subsidie aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan. De minister stelt voor de prestatieverklaring een model vast. De prestatieverklaring wordt gevoegd bij de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2012-10-01&g=2012-10-01).
+1. Indien de subsidie € 25.000 of meer bedraagt, toont de ontvanger van een subsidie aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan. De minister stelt voor de prestatieverklaring een model vast. De prestatieverklaring wordt gevoegd bij de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2013-01-01&g=2013-01-01).
 
-2. Indien de subsidie minder dan € 25.000 bedraagt, is [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2012-10-01&g=2012-10-01), van toepassing. Aan de eerste volzin is in elk geval toepassing gegeven, indien de ontvanger van een subsidie een prestatieverklaring als bedoeld in het eerste lid overlegt.
+2. Indien de subsidie minder dan € 25.000 bedraagt, is [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2013-01-01&g=2013-01-01), van toepassing. Aan de eerste volzin is in elk geval toepassing gegeven, indien de ontvanger van een subsidie een prestatieverklaring als bedoeld in het eerste lid overlegt.
 
 ##### Artikel 32. Subsidievaststelling
 
-Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie vast binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2012-10-01&g=2012-10-01).
+Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie vast binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 33. Terugvordering
 
-1. De subsidieontvanger is na de subsidievaststelling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=32&z=2012-10-01&g=2012-10-01), verplicht onverschuldigd betaalde subsidiebedragen onmiddellijk terug te betalen, tenzij de minister tot verrekening heeft besloten.
+1. De subsidieontvanger is na de subsidievaststelling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=32&z=2013-01-01&g=2013-01-01), verplicht onverschuldigd betaalde subsidiebedragen onmiddellijk terug te betalen, tenzij de minister tot verrekening heeft besloten.
 
 2. In geval van terugvordering van onverschuldigde subsidiebedragen kan de minister de subsidieontvanger verplichten de met de terugvordering verband houdende kosten te voldoen. Tevens kan de minister in dat geval de wettelijke rente vorderen.
 
@@ -430,6 +430,6 @@ Deze regeling vervalt met ingang van 1 oktober 2016.
 
 ##### Artikel 33b. Overgangsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Voor het subsidietijdvak 1 oktober 2012 tot en met 30 september 2013 wordt in afwijking van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2013-01-01&g=2013-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2013-01-01&g=2013-01-01), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2013-01-01&g=2013-01-01), en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2013-01-01&g=2013-01-01), bij de vaststelling van de volgorde van de rangschikking, bedoeld in die bepalingen, uitgegaan van de rechtspersonen die voor 1 januari 2013 waren aangewezen op grond van [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
