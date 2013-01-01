@@ -4,7 +4,7 @@ identifier: "BWBR0024867"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-15"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024867"
 soort: "ministeriele-regeling"
@@ -46,21 +46,19 @@ Besluit:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **CIE-regeling:** [Regeling criminele inlichtingen eenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011685);
+- a. **nationale criminele inlichtingen eenheid:** eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
 
-- b. **nationale criminele inlichtingen eenheid:** eenheid, genoemd in [artikel 1, onderdeel b, van de CIE-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011685&artikel=1);
+- b. **informantgegevens:** gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
 
-- c. **informantgegevens:** gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
+- c. **criminele inlichtingen:** gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **criminele inlichtingen:** gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- d. **CIE-officier van justitie:** de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid VROM-IOD;
 
-- e. **CIE-officier van justitie:** de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid VROM-IOD;
+- e. **VROM-IOD:** inlichtingen- en opsporingsdienst van het Ministerie van Infrastructuur en Milieu;
 
-- f. **VROM-IOD:** inlichtingen- en opsporingsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- f. **verantwoordelijke:** Minister van Infrastructuur en Milieu.
 
-- g. **verantwoordelijke:** minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
-
-2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de Directeur van de VROM-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=5&z=2008-12-18&g=2012-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=7&z=2008-12-18&g=2012-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=8&z=2008-12-18&g=2012-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=9&z=2008-12-18&g=2012-01-01).
+2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de Directeur van de VROM-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=5&z=2013-01-01&g=2013-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=7&z=2013-01-01&g=2013-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=8&z=2013-01-01&g=2013-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=9&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2
 
@@ -90,9 +88,9 @@ Besluit:
 
 - f. het verwerken van gegevens over informanten, overeenkomstig het bepaalde in [artikel 12 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), onder gelijktijdige codetoekenning.
 
-2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen geautomatiseerde verwijsindex.
+2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Minister van Veiligheid en Justitie aangewezen geautomatiseerde verwijsindex.
 
-3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=1&z=2008-12-18&g=2012-01-01), wordt binnen de VROM-IOD uitsluitend verricht door de criminele-inlichtingeneenheid VROM-IOD.
+3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=1&z=2013-01-01&g=2013-01-01), wordt binnen de VROM-IOD uitsluitend verricht door de criminele-inlichtingeneenheid VROM-IOD.
 
 ##### Artikel 4
 
@@ -100,11 +98,11 @@ De criminele-inlichtingeneenheid VROM-IOD streeft naar een zo doelmatig mogelijk
 
 ##### Artikel 5
 
-1. De criminele-inlichtingeneenheid VROM-IOD verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=I&z=2008-12-18&g=2012-01-01) bij dit besluit.
+1. De criminele-inlichtingeneenheid VROM-IOD verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=I&z=2013-01-01&g=2013-01-01) bij dit besluit.
 
 2. Van de overeenkomstig [artikel 46, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) aangewezen ambtenaren van de criminele-inlichtingeneenheid VROM-IOD worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), ten aanzien van het bestand met criminele inlichtingen bij de overige criminele inlichtingeneenheden.
 
-3. De verantwoordelijke draagt ervoor zorg dat aan de op grond van [artikel 6, tweede lid, van de CIE-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011685&artikel=6) bekend gemaakte ambtenaren van elke criminele-inlichtingeneenheid alsmede de twee geautoriseerde ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde autorisatie wordt verleend.
+3. De verantwoordelijke draagt ervoor zorg dat aan de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7) bekend gemaakte ambtenaren van elke criminele-inlichtingeneenheid alsmede de twee geautoriseerde ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde autorisatie wordt verleend.
 
 ##### Artikel 6
 
@@ -118,13 +116,13 @@ De criminele-inlichtingeneenheid VROM-IOD streeft naar een zo doelmatig mogelijk
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door de nationale criminele inlichtingen eenheid.
 
-2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=2&z=2008-12-18&g=2012-01-01) van dit besluit maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen geautomatiseerde verwijsindex.
+2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=2&z=2013-01-01&g=2013-01-01) van dit besluit maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Minister van Veiligheid en Justitie aangewezen geautomatiseerde verwijsindex.
 
 ##### Artikel 7
 
 1. De verantwoordelijke draagt er zorg voor dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele-inlichtingeneenheid VROM-IOD, worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=3&z=2008-12-18&g=2012-01-01), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid VROM-IOD.
+2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=3&z=2013-01-01&g=2013-01-01), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid VROM-IOD.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
@@ -159,8 +157,8 @@ Het Criminele inlichtingenrapport dient de volgende verplichte rubrieken te beva
 | Herkomstbron | Tekstveld |
 | --- | --- |
 | Openbron | Welke bron + datum |
-| Verkennend onderzoek | Korps + Landelijk parketnummer en/of naam onderzoek |
-| Opsporingsonderzoek | Korps + PV-nummer en/of naam onderzoek onderzoe |
+| Verkennend onderzoek | Korps / eenheid + Landelijk parketnummer en/of naam onderzoek |
+| Opsporingsonderzoek | Korps / eenheid + PV-nummer en/of naam onderzoek onderzoe |
 | Buitenlands opsporingsonderzoek | Land + uniek nummer en/of naam onderzoek + ontvangstregio |
 | Informant | Geen veld, niet relevant |
 | Anonieme bron | Naam opsporingsambtenaar die bericht ontvangt en PV-nummer |
