@@ -4,7 +4,7 @@ identifier: "BWBR0030840"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030840"
 soort: "wet"
@@ -81,7 +81,7 @@ De [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel IX. Overgangsrecht in verband met de intrekking van de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816)
 
-A. De natuurlijke persoon, rechtspersoon of vennootschap die in de uitoefening van zijn bedrijf geldtransacties als bedoeld in [artikel 1, onderdeel c, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1) uitvoert en die op het tijdstip van inwerkingtreding van deze wet is ingeschreven in het register, bedoeld in [artikel 2, eerste lid, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=2), wordt vanaf dat tijdstip geacht te beschikken over een vergunning als bedoeld in [artikel 2:54i, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) voor het verrichten van met die geldtransacties overeenkomende wisseltransacties overeenkomstig [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+A. De natuurlijke persoon, rechtspersoon of vennootschap die in de uitoefening van zijn bedrijf geldtransacties als bedoeld in [artikel 1, onderdeel c, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1) uitvoert en die op het tijdstip van inwerkingtreding van deze wet is ingeschreven in het register, bedoeld in [artikel 2, eerste lid, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=2), wordt vanaf dat tijdstip voor het verrichten van met die geldtransacties overeenkomende wisseltransacties overeenkomstig de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te beschikken over een vergunning als bedoeld in [artikel 2:54i, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i), indien de persoon of vennootschap is gevestigd in Nederland danwel een vergunning als bedoeld in [artikel 2:54l van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l), indien deze zijn of haar zetel heeft buiten Nederland.
 
 B. De kosten van werkzaamheden die op grond van [artikel 1:40 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) in rekening worden gebracht, kunnen mede betrekking hebben op de werkzaamheden die zijn verricht in verband met het toezicht op het uitvoeren van geldtransacties als bedoeld in [artikel 1, onderdeel c, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1) door geldtransactiekantoren als bedoeld in [artikel 7, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=7). Onder toepassing van de bedragen die direct voorafgaande aan het tijdstip van deze wet golden op grond van de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816), brengt de in artikel 1:40 van de Wet op het financieel toezicht bedoelde toezichthouder de hier bedoelde kosten in rekening bij de geldtransactiekantoren ten aanzien waarvan die werkzaamheden zijn verricht, voor zover deze kosten niet ten laste komen van de Rijksbegroting.
 
@@ -113,7 +113,7 @@ M. Vanaf het tijdstip van inwerkingtreding van deze wet is [afdeling 1.5.1 van d
 
 ##### Artikel X. Intrekking [Tijdelijke regeling introductie premiepensioeninstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029285)
 
-De [Tijdelijke regeling introductie premiepensioeninstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029285) wordt ingetrokken op het tijdstip waarop [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030840&artikel=I&z=2012-07-01&g=2012-07-01), van deze wet in werking treedt.
+De [Tijdelijke regeling introductie premiepensioeninstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029285) wordt ingetrokken op het tijdstip waarop [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030840&artikel=I&z=2013-01-01&g=2013-01-01), van deze wet in werking treedt.
 
 ##### Artikel XI. Inwerkingtreding
 
