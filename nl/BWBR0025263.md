@@ -4,7 +4,7 @@ identifier: "BWBR0025263"
 country: "nl"
 rank: "wet"
 publication_date: "2018-07-01"
-last_updated: "2010-10-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025263"
 soort: "wet"
@@ -80,9 +80,9 @@ Op verzoek van het Speciaal Tribunaal kunnen personen aan het Speciaal Tribunaal
 
 ##### Artikel 4
 
-1. Tot het in behandeling nemen van verzoeken van het Speciaal Tribunaal tot overlevering is de rechtbank te ’s-Gravenhage bij uitsluiting bevoegd.
+1. Tot het in behandeling nemen van verzoeken van het Speciaal Tribunaal tot overlevering is de rechtbank Den Haag bij uitsluiting bevoegd.
 
-2. De [artikelen 21 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=21) – met uitzondering van [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=26), – en [28, eerste lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=28) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=22a) wordt in plaats van officier van justitie bij het arrondissementsparket te Amsterdam gelezen de officier van justitie bij het arrondissementsparket te ’s-Gravenhage.
+2. De [artikelen 21 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=21) – met uitzondering van [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=26), – en [28, eerste lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=28) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=22a) wordt in plaats van officier van justitie bij het arrondissementsparket Amsterdam gelezen de officier van justitie bij het arrondissementsparket Den Haag.
 
 3. De rechtbank kan bij zijn uitspraak over de vatbaarheid voor inwilliging van het verzoek van het Speciaal Tribunaal de overlevering slechts ontoelaatbaar verklaren indien:
 
@@ -92,7 +92,7 @@ Op verzoek van het Speciaal Tribunaal kunnen personen aan het Speciaal Tribunaal
 
 4. De uitspraak van de rechtbank is onmiddellijk uitvoerbaar.
 
-5. De [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=29), [30, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=32), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=36), [41 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) – met uitzondering van de verwijzing in [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=47), naar [artikel 552d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – en [52 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=52) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 41, vijfde lid, tweede volzin, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) wordt in plaats van officier van justitie bij het arrondissementsparket te Amsterdam gelezen de officier van justitie bij het arrondissementsparket te ’s-Gravenhage.
+5. De [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=29), [30, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=32), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=36), [41 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) – met uitzondering van de verwijzing in [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=47), naar [artikel 552d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – en [52 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=52) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 41, vijfde lid, tweede volzin, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) wordt in plaats van officier van justitie bij het arrondissementsparket Amsterdam gelezen de officier van justitie bij het arrondissementsparket Den Haag.
 
 ##### Artikel 5
 
@@ -114,7 +114,7 @@ Personen die zich in Nederland bevinden en wier medebrenging als getuige of desk
 
 ##### Artikel 8
 
-Politiegegevens kunnen, ook zonder een daartoe strekkend verzoek, worden verstrekt aan het Speciaal Tribunaal indien dit voor de goede uitvoering van diens taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van het Korps landelijke politiediensten.
+Politiegegevens kunnen, ook zonder een daartoe strekkend verzoek, worden verstrekt aan het Speciaal Tribunaal indien dit voor de goede uitvoering van diens taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van een of meerdere landelijke eenheden van de politie.
 
 ##### Artikel 9
 
