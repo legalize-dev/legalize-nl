@@ -4,7 +4,7 @@ identifier: "BWBR0005494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2006-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005494"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De voorschriften, die bij de dienst voor werknemers bestaan, gelden, voor zover 
 
 2. De vakantieuitkering wordt berekend over een periode van 12 maanden, aanvangende met de maand juni van het voorafgaande jaar. De uitkering wordt in de maand mei uitbetaald.
 
-3. In afwijking van het in het tweede lid bepaalde wordt, indien de tewerkgestelde de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01) dan wel aan hem groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt verleend, de vakantieuitkering berekend over de periode waarover deze nog niet is genoten, en zo spoedig mogelijk uitbetaald.
+3. In afwijking van het in het tweede lid bepaalde wordt, indien de tewerkgestelde de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01) dan wel aan hem groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt verleend, de vakantieuitkering berekend over de periode waarover deze nog niet is genoten, en zo spoedig mogelijk uitbetaald.
 
 #### Paragraaf 2. Huisvesting en voeding van rijkswege
 
@@ -114,7 +114,7 @@ De voorschriften, die bij de dienst voor werknemers bestaan, gelden, voor zover 
 
 4. De vergoeding wordt maandelijks ingehouden op het zakgeld en berekend naar het aantal werkdagen in de desbetreffende maand.
 
-5. De tewerkgestelde heeft geen aanspraak op huisvesting en voeding van rijkswege over de periode gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat.
+5. De tewerkgestelde heeft geen aanspraak op huisvesting en voeding van rijkswege over de periode gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat.
 
 #### Paragraaf 3. Voorzieningen in verband met de gezondheidszorg
 
@@ -168,7 +168,7 @@ Ten aanzien van de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart
 
 1. De tewerkgestelde, die in het bezit is gesteld van een DOV-kaart en die in Nederland op de normale reisroute tussen zijn woonplaats/woonadres en de plaats van tewerkstelling, gebruikmakend van een openbaar middel van vervoer, noodzakelijkerwijs kosten heeft gemaakt ter zake van een overvaart, heeft aanspraak op vergoeding van die kosten.
 
-2. Geen aanspraak op de in het eerste lid bedoelde vergoeding bestaat voor reizen, die de tewerkgestelde heeft gemaakt in een periode gedurende welke hij, ingevolge het bepaalde in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), geen aanspraak op zakgeld heeft.
+2. Geen aanspraak op de in het eerste lid bedoelde vergoeding bestaat voor reizen, die de tewerkgestelde heeft gemaakt in een periode gedurende welke hij, ingevolge het bepaalde in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), geen aanspraak op zakgeld heeft.
 
 ##### Artikel 15. **Kosten reizen buiten Nederland**
 
@@ -176,15 +176,15 @@ Ten aanzien van de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart
 
 2. De tewerkgestelde, die in het bezit is gesteld van een DOV-kaart en aan wie huisvesting van rijkswege is verleend, heeft, indien zijn woonplaats is gelegen buiten Nederland, doch binnen Europa, en daar reeds was gelegen vóór de datum van aanvang van de tewerkstelling, eenmaal per 4 weken aanspraak op vergoeding van de kosten voor het reizen vanaf het in de normale reisroute liggende grensstation naar zijn woonplaats en terug. De aanspraak op de in de eerste volzin bedoelde vergoeding vervalt, indien de tewerkgestelde de reis niet aanvangt binnen 2 weken nadat hij de reis, naar het oordeel van de minister, redelijkerwijs had kunnen aanvangen.
 
-3. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op de vergoedingen, bedoeld in het eerste en tweede lid.
+3. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de vergoedingen, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 16. **Verminking vermissing DOV-kaart c.q. legitimatiebewijs na uitreiking**
 
-1. Bij verminking van de DOV-kaart c.q. het legitimatiebewijs dient de tewerkgestelde de DOV-kaart c.q. het legitimatiebewijs onverwijld op te zenden naar de Directie TEGMD. Bij vermissing van de DOV-kaart c.q. het legitimatiebewijs dient de tewerkgestelde onverwijld een proces-verbaal van vermissing te laten opmaken door de spoorwegpolitie.
+1. Bij verminking van de DOV-kaart c.q. het legitimatiebewijs dient de tewerkgestelde de DOV-kaart c.q. het legitimatiebewijs onverwijld op te zenden naar de Directie TEGMD. Bij vermissing van de DOV-kaart c.q. het legitimatiebewijs dient de tewerkgestelde onverwijld een proces-verbaal van vermissing te laten opmaken door de dienst Spoorwegpolitie van de Landelijke eenheid.
 
 2. Na overlegging aan de Directie TEGMD van de verminkte DOV-kaart c.q. het verminkte legitimatiebewijs dan wel (een afschrift van) het in het eerste lid bedoelde proces-verbaal verstrekt de Directie TEGMD een duplicaat. Bij verstrekking van een duplicaat DOV-kaart geschiedt zulks onder inhouding op het aan de tewerkgestelde toekomende zakgeld van de door de NV Nederlandse Spoorwegen in rekening te brengen aanmaakkosten. Verstrekking van een duplicaat DOV-kaart blijft echter achterwege, indien de nog resterende duur van de tewerkstelling minder dan 30 dagen bedraagt.
 
-3. Na overlegging aan de Directie TEGMD van de verminkte DOV-kaart c.q. het verminkte legitimatiebewijs dan wel (een afschrift van) het in het eerste lid bedoelde proces-verbaal en voor zolang geen duplicaat, bedoeld in het tweede lid, is verstrekt, heeft de tewerkgestelde aanspraak op vergoeding van de kosten voor het reizen in de gevallen genoemd in paragraaf 5. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op de in de eerste volzin bedoelde vergoeding.
+3. Na overlegging aan de Directie TEGMD van de verminkte DOV-kaart c.q. het verminkte legitimatiebewijs dan wel (een afschrift van) het in het eerste lid bedoelde proces-verbaal en voor zolang geen duplicaat, bedoeld in het tweede lid, is verstrekt, heeft de tewerkgestelde aanspraak op vergoeding van de kosten voor het reizen in de gevallen genoemd in paragraaf 5. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de in de eerste volzin bedoelde vergoeding.
 
 ##### Artikel 17. **Inname DOV-kaart**
 
@@ -196,7 +196,7 @@ Ten aanzien van de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart
 
 1. In individuele gevallen, waarin het gebruik van een openbaar middel van vervoer wat de reistijd betreft voor de tewerkgestelde tot onaanvaardbare consequenties zou leiden, dienen, op verzoek van de tewerkgestelde die in het bezit is gesteld van een DOV-kaart, door het hoofd van dienst voorzieningen, anders dan een tegemoetkoming in de kosten voor het reizen, ter voorkoming of verlichting van die consequenties te worden getroffen, voor zover het dienstbelang zich daartegen niet verzet.
 
-2. Indien de in het eerste lid bedoelde voorzieningen niet toereikend zijn, kan, op verzoek van de tewerkgestelde en door tussenkomst van het hoofd van dienst, door de minister een tegemoetkoming in de kosten ter zake van het reizen met een eigen middel van vervoer worden gegeven overeenkomstig het bepaalde in deze regeling. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op de in de eerste volzin bedoelde tegemoetkoming.
+2. Indien de in het eerste lid bedoelde voorzieningen niet toereikend zijn, kan, op verzoek van de tewerkgestelde en door tussenkomst van het hoofd van dienst, door de minister een tegemoetkoming in de kosten ter zake van het reizen met een eigen middel van vervoer worden gegeven overeenkomstig het bepaalde in deze regeling. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de in de eerste volzin bedoelde tegemoetkoming.
 
 ##### Artikel 19. **(Voorshands) ongeoorloofde afwezigheid**
 
@@ -222,7 +222,7 @@ Ten aanzien van de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart
 
 wordt verleend, is verplicht de DOV-kaart in te leveren bij zijn hoofd van dienst op de laatste werkdag voor de datum van groot verlof, dan wel ontslag, voor het einde van de werkzaamheden. Alsdan heeft de tewerkgestelde aanspraak op vergoeding van de kosten voor het reizen van de plaats van tewerkstelling naar zijn woonplaats.
 
-Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de tewerkgestelde de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01).
+Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de tewerkgestelde de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01).
 
 2. Bij niet-nakoming van de in het eerste lid bedoelde verplichting zal door de minister, voor iedere dag dat hij nalatig is de DOV-kaart in te leveren en tot het verstrijken van de op de DOV-kaart vermelde uiterste datum, een bedrag in rekening worden gebracht ter grootte van de dan geldende waarde van de DOV-kaart gedeeld door 365.
 
@@ -230,7 +230,7 @@ Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de te
 
 ##### Artikel 21. **Verstrekking (nieuwe) DOV-kaart bij tussentijds uitstel, etc.**
 
-1. Indien de erkende gewetensbezwaarde, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01), nadat hem:
+1. Indien de erkende gewetensbezwaarde, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=11&z=2013-01-01&g=2013-01-01), nadat hem:
 
 - a. tussentijds uitstel,
 
@@ -238,13 +238,13 @@ Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de te
 
 - c. groot verlof in afwachting van de beslissing omtrent de geschiktheid voor de vervangende dienst,
 
-is verleend, alsnog het onvervuld gedeelte van de gewone vervangende dienst dient te voltooien, wordt hij in het bezit gesteld van een (nieuwe) DOV-kaart. Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de erkende gewetensbezwaarde de tewerkstelling voortijdig heeft beëindigd met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01).
+is verleend, alsnog het onvervuld gedeelte van de gewone vervangende dienst dient te voltooien, wordt hij in het bezit gesteld van een (nieuwe) DOV-kaart. Het bepaalde in de eerste volzin is van overeenkomstige toepassing, indien de erkende gewetensbezwaarde de tewerkstelling voortijdig heeft beëindigd met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01).
 
-2. Verstrekking van een (nieuwe) DOV-kaart blijft echter achterwege, indien de duur van het nog resterende gedeelte van de gewone vervangende dienst minder dan 30 dagen bedraagt. Alsdan heeft de erkende gewetensbezwaarde aanspraak op vergoeding van de kosten voor het reizen in de gevallen, genoemd in paragraaf 5. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op de in de tweede volzin bedoelde vergoeding.
+2. Verstrekking van een (nieuwe) DOV-kaart blijft echter achterwege, indien de duur van het nog resterende gedeelte van de gewone vervangende dienst minder dan 30 dagen bedraagt. Alsdan heeft de erkende gewetensbezwaarde aanspraak op vergoeding van de kosten voor het reizen in de gevallen, genoemd in paragraaf 5. Het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de in de tweede volzin bedoelde vergoeding.
 
 ##### Artikel 22. **Verstrekking (nieuwe) DOV-kaart bij verlenging van de tewerkstelling**
 
-Indien de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart, na het verstrijken van de op de DOV-kaart vermelde uiterste datum, nog gewone vervangende dienst moet verrichten ingevolge het bepaalde in [artikel 25, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2006-01-01&g=2006-01-01) en/of 31, eerste lid, onder c, van de wet, wordt hij in het bezit gesteld van een nieuwe DOV-kaart. Verstrekking van een nieuwe DOV-kaart blijft echter achterwege, indien de duur van de dan nog te verrichten gewone vervangende dienst minder dan 30 dagen bedraagt. Alsdan is het bepaalde in het [tweede lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=21&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+Indien de tewerkgestelde, die in het bezit is gesteld van een DOV-kaart, na het verstrijken van de op de DOV-kaart vermelde uiterste datum, nog gewone vervangende dienst moet verrichten ingevolge het bepaalde in [artikel 25, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2013-01-01&g=2013-01-01) en/of 31, eerste lid, onder c, van de wet, wordt hij in het bezit gesteld van een nieuwe DOV-kaart. Verstrekking van een nieuwe DOV-kaart blijft echter achterwege, indien de duur van de dan nog te verrichten gewone vervangende dienst minder dan 30 dagen bedraagt. Alsdan is het bepaalde in het [tweede lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=4&artikel=21&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 5. Reiskostenvergoedingen
 
@@ -272,7 +272,7 @@ Vergoeding blijft achterwege:
 
 1. De tewerkgestelde heeft recht op vergoeding van de reiskosten voor het dagelijks reizen tussen zijn woonadres en de plaats van tewerkstelling.
 
-2. Op de vergoeding wordt, behoudens ten aanzien van de tewerkgestelde aan wie ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01), huisvesting en voeding van rijkswege is verleend, een bedrag van € 34,94 per maand ingehouden. Ingeval het resterende bedrag minder dan € 2,27 per maand bedraagt, wordt geen vergoeding toegekend.
+2. Op de vergoeding wordt, behoudens ten aanzien van de tewerkgestelde aan wie ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), huisvesting en voeding van rijkswege is verleend, een bedrag van € 34,94 per maand ingehouden. Ingeval het resterende bedrag minder dan € 2,27 per maand bedraagt, wordt geen vergoeding toegekend.
 
 3. Voor de toepassing van dit artikel wordt, voor zover de tewerkgestelde niet in staat is om met het openbaar vervoer te reizen, onder reiskosten mede begrepen een bedrag van € 4,15 per maand voor het gebruik van een eigen motorvoertuig of bromfiets, indien de tewerkgestelde daarmee in die maand op tenminste 18 dagen tussen zijn woonadres en de plaats van tewerkstelling heeft moeten reizen, zulks met een maximum van 42 retourkilometers per maand.
 
@@ -296,7 +296,7 @@ Vergoeding blijft achterwege:
 
 5. De tewerkgestelde heeft geen recht op vergoeding:
 
-- a. voor reizen die hij maakt in een periode, gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat;
+- a. voor reizen die hij maakt in een periode, gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat;
 
 - b. indien hij voor het bereiken van de plaats van bestemming de grens van de gemeente waarin zijn woonadres is gelegen, niet behoeft te overschrijden.
 
@@ -310,9 +310,9 @@ Vergoeding blijft achterwege:
 
 1. De tewerkgestelde heeft recht op vergoeding van reiskosten:
 
-- a. indien hem buitengewoon verlof is verleend om een in [artikel 39 onder d, g, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=39&z=2006-01-01&g=2006-01-01) genoemde reden: voor het reizen van zijn woonadres naar de plaats van bestemming en terug. Indien de plaats van bestemming buiten Nederland is gelegen, wordt echter slechts vergoed het gedeelte van de reis, dat ligt tussen het woonadres en het te passeren grensstation, en terug;
+- a. indien hem buitengewoon verlof is verleend om een in [artikel 39 onder d, g, h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=39&z=2013-01-01&g=2013-01-01) genoemde reden: voor het reizen van zijn woonadres naar de plaats van bestemming en terug. Indien de plaats van bestemming buiten Nederland is gelegen, wordt echter slechts vergoed het gedeelte van de reis, dat ligt tussen het woonadres en het te passeren grensstation, en terug;
 
-- b. bij deelname aan een bezinningsbijeenkomst, waarvoor [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=44&z=2006-01-01&g=2006-01-01) toepassing heeft gevonden: voor het reizen van zijn woonadres naar de plaats van bestemming en terug. Indien de plaats van bestemming buiten Nederland is gelegen, wordt echter slechts vergoed het gedeelte van de reis, dat ligt tussen het woonadres en het te passeren grensstation, en terug;
+- b. bij deelname aan een bezinningsbijeenkomst, waarvoor [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=44&z=2013-01-01&g=2013-01-01) toepassing heeft gevonden: voor het reizen van zijn woonadres naar de plaats van bestemming en terug. Indien de plaats van bestemming buiten Nederland is gelegen, wordt echter slechts vergoed het gedeelte van de reis, dat ligt tussen het woonadres en het te passeren grensstation, en terug;
 
 - c. indien [artikel 24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002465&artikel=24) toepassing vindt: voor het reizen van zijn woonadres naar de plaats van bestemming en terug;
 
@@ -322,13 +322,13 @@ Vergoeding blijft achterwege:
 
 - f. ter uitvoering van de hem door de minister gegeven opdrachten en aanwijzingen: voor het reizen van zijn woonadres naar de plaats van bestemming en terug;
 
-- g. indien hij de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01): voor het reizen van zijn woonadres naar de vaste woonplaats van het gezin, dan wel de plaats waar zijn eigen huishouding is gevestigd, als bedoeld in het tweede en derde lid, van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2006-01-01&g=2006-01-01);
+- g. indien hij de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01): voor het reizen van zijn woonadres naar de vaste woonplaats van het gezin, dan wel de plaats waar zijn eigen huishouding is gevestigd, als bedoeld in het tweede en derde lid, van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2013-01-01&g=2013-01-01);
 
-- h. bij aan hem verleend groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst: voor het reizen van zijn woonadres naar de vaste woonplaats van het gezin, dan wel de plaats waar zijn eigen huishouding is gevestigd, als bedoeld in het tweede en derde lid, van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2006-01-01&g=2006-01-01).
+- h. bij aan hem verleend groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst: voor het reizen van zijn woonadres naar de vaste woonplaats van het gezin, dan wel de plaats waar zijn eigen huishouding is gevestigd, als bedoeld in het tweede en derde lid, van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2013-01-01&g=2013-01-01).
 
 2. De tewerkgestelde heeft geen recht op vergoeding:
 
-- a. voor reizen die hij maakt in een periode gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat;
+- a. voor reizen die hij maakt in een periode gedurende welke hij ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), geen recht heeft op zakgeld, dan wel een vrijheidsstraf, voorlopige hechtenis of gijzeling ondergaat;
 
 - b. indien hij voor het bereiken van de plaats van bestemming de grens van de gemeente waarin zijn woonadres is gelegen, niet behoeft te overschrijden.
 
@@ -340,7 +340,7 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 ##### Artikel 28. **Tegemoetkoming in kosten bezinningsbijeenkomsten**
 
-1. De tewerkgestelde die met toepassing van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=44&z=2006-01-01&g=2006-01-01) deelneemt aan een bezinningsbijeenkomst, heeft recht op vergoeding van de door de organiserende instelling aan hem in rekening gebrachte deelnamekosten over één dag, met een maximum van € 21,33. De minister stelt het bedrag jaarlijks met ingang van van 1 februari bij, voor zover de kostenontwikkeling in het vormingswerk in internaatsverband daartoe aanleiding geeft.
+1. De tewerkgestelde die met toepassing van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=44&z=2013-01-01&g=2013-01-01) deelneemt aan een bezinningsbijeenkomst, heeft recht op vergoeding van de door de organiserende instelling aan hem in rekening gebrachte deelnamekosten over één dag, met een maximum van € 21,33. De minister stelt het bedrag jaarlijks met ingang van van 1 februari bij, voor zover de kostenontwikkeling in het vormingswerk in internaatsverband daartoe aanleiding geeft.
 
 2. Het bedrag van de vergoeding wordt berekend door de kosten die aan deelname aan de gehele bezinningsbijeenkomst zijn verbonden, te delen door het aantal dagen dat de bijeenkomst duurt.
 
@@ -356,7 +356,7 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 2. De tewerkgestelde die op het tijdstip waarop zijn tewerkstelling aanvangt, reeds een cursus volgt, kan deze voortzetten onder verlening van een tegemoetkoming als bedoeld in het eerste lid, mits aan het overigens in dit artikel bepaalde wordt voldaan.
 
-3. Om voor een tegemoetkoming in aanmerking te komen dient de tewerkgestelde ten minste 4 maanden vóór het tijdstip, waarop hij de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01) dan wel aan hem groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt verleend, met de cursus te zijn begonnen en een aanvraagformulier bij de Directie TEGMD te hebben ingediend.
+3. Om voor een tegemoetkoming in aanmerking te komen dient de tewerkgestelde ten minste 4 maanden vóór het tijdstip, waarop hij de tewerkstelling voortijdig beëindigt met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01) dan wel aan hem groot verlof of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt verleend, met de cursus te zijn begonnen en een aanvraagformulier bij de Directie TEGMD te hebben ingediend.
 
 4. De tegemoetkoming wordt uitsluitend verleend, indien naar het oordeel van de minister:
 
@@ -402,7 +402,7 @@ De arbeidsduur per week is voor de tewerkgestelde gelijk aan de arbeidsduur die 
 
 ##### Artikel 34. **Werk- en rusttijden**
 
-1. Het hoofd van dienst stelt, met inachtneming van het in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=33&z=2006-01-01&g=2006-01-01) bepaalde en op overeenkomstige wijze als hij ten aanzien van de werknemers bij de dienst doet, de tijdstippen vast waarop de dagelijkse dienst en de pauzes aanvangen en eindigen.
+1. Het hoofd van dienst stelt, met inachtneming van het in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=33&z=2013-01-01&g=2013-01-01) bepaalde en op overeenkomstige wijze als hij ten aanzien van de werknemers bij de dienst doet, de tijdstippen vast waarop de dagelijkse dienst en de pauzes aanvangen en eindigen.
 
 2. Onverminderd het in het eerste lid bepaalde, houdt het hoofd van dienst bij het vaststellen van de tijdstippen waarop de dagelijkse dienst aanvangt en eindigt, zoveel mogelijk rekening met de wekelijkse rustdag zoals die geldt voor de geloofsgemeenschap, waartoe de tewerkgestelde behoort.
 
@@ -414,7 +414,7 @@ De arbeidsduur per week is voor de tewerkgestelde gelijk aan de arbeidsduur die 
 
 2. De omvang van de compensatie in tijd wordt berekend door op het aantal arbeidsuren gedurende welke de tewerkgestelde overwerk heeft verricht, de overwerktoeslag toe te passen die voor de werknemers geldt. De berekening geschiedt door het hoofd van dienst.
 
-3. Op de compensatie in tijd is het bepaalde in de [artikelen 37, tweede, derde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=1&artikel=37&z=2006-01-01&g=2006-01-01), en [38, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=2&artikel=38&z=2006-01-01&g=2006-01-01), van overeenkomstige toepassing.
+3. Op de compensatie in tijd is het bepaalde in de [artikelen 37, tweede, derde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=1&artikel=37&z=2013-01-01&g=2013-01-01), en [38, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=2&artikel=38&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 36. **Compensatie voor onregelmatige diensten**
 
@@ -450,7 +450,7 @@ De arbeidsduur per week is voor de tewerkgestelde gelijk aan de arbeidsduur die 
 
 - b. buitengewoon verlof;
 
-- c. extra verlof als bedoeld in [artikel 63, lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=4&artikel=63&z=2006-01-01&g=2006-01-01).
+- c. extra verlof als bedoeld in [artikel 63, lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=4&artikel=63&z=2013-01-01&g=2013-01-01).
 
 2. Verlof wordt verleend door het hoofd van dienst tenzij anders is bepaald.
 
@@ -474,7 +474,7 @@ Het hoofd van dienst houdt aantekening van het verlof dat hij aan de tewerkgeste
 
 1. De tewerkgestelde heeft recht op evenveel dagen vakantieverlof per kalenderjaar als hem zouden zijn toegekend, indien hij bij de dienst als werknemer in een overeenkomstige voltijdfunctie werkzaam zou zijn geweest, en ten minste 20 dagen.
 
-2. Bij overplaatsing naar een andere dienst, bij voortijdige beëindiging van de tewerkstelling met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01) en bij het verlenen van vrijstelling, uitstel, groot verlof in afwachting van de beslissing omtrent de geschiktheid voor de vervangende dienst of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt het tegoed aan vakantieverlof opgenomen vóór de datum van overplaatsing, de datum van beëindiging met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2006-01-01&g=2006-01-01), of de datum waarop de vrijstelling, het uitstel, het evenbedoelde groot verlof of het ontslag ingaat.
+2. Bij overplaatsing naar een andere dienst, bij voortijdige beëindiging van de tewerkstelling met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01) en bij het verlenen van vrijstelling, uitstel, groot verlof in afwachting van de beslissing omtrent de geschiktheid voor de vervangende dienst of tussentijds ontslag van alle verplichtingen uit de vervangende dienst wordt het tegoed aan vakantieverlof opgenomen vóór de datum van overplaatsing, de datum van beëindiging met toepassing van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=47&z=2013-01-01&g=2013-01-01), of de datum waarop de vrijstelling, het uitstel, het evenbedoelde groot verlof of het ontslag ingaat.
 
 3. De minister kan, ingeval de toepassing van het tweede lid tot een onbillijke situatie leidt, een afwijkende regeling treffen.
 
@@ -522,7 +522,7 @@ Aan de tewerkgestelde wordt, op verzoek, buitengewoon verlof verleend in de volg
 
 - p. tot het verkrijgen van woonruimte: eenmaal gedurende de tewerkstelling, voor ten hoogste 2 dagen;
 
-- q. bij verhuizing: eenmaal gedurende de tewerkstelling mits hij een eigen huishouding voert als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2006-01-01&g=2006-01-01), voor ten hoogste 2 dagen.
+- q. bij verhuizing: eenmaal gedurende de tewerkstelling mits hij een eigen huishouding voert als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=5&artikel=25&z=2013-01-01&g=2013-01-01), voor ten hoogste 2 dagen.
 
 ##### Artikel 40. **Buitengewoon verlof in verband met adoptie**
 
@@ -578,7 +578,7 @@ Voor de onder c, bedoelde gevallen kan alleen buitengewoon verlof worden verleen
 
 ##### Artikel 45. **Buitengewoon verlof in verband met het behartigen van zaken**
 
-1. Aan de tewerkgestelde kan, indien hij de enige is, die kan optreden als vervanger van een door ziekte of ongeval getroffen persoon, genoemd in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=41&z=2006-01-01&g=2006-01-01), door de minister buitengewoon verlof worden verleend voor het behartigen van zaken, mits de zieke of getroffene bedrijfshoofd is en het bedrijf zo de tewerkgestelde niet als vervanger zou optreden ernstige stagnatie zou ondervinden. Het tweede lid van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=41&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
+1. Aan de tewerkgestelde kan, indien hij de enige is, die kan optreden als vervanger van een door ziekte of ongeval getroffen persoon, genoemd in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=41&z=2013-01-01&g=2013-01-01), door de minister buitengewoon verlof worden verleend voor het behartigen van zaken, mits de zieke of getroffene bedrijfshoofd is en het bedrijf zo de tewerkgestelde niet als vervanger zou optreden ernstige stagnatie zou ondervinden. Het tweede lid van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=4&paragraaf=3&artikel=41&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
 2. Het buitengewoon verlof wordt verleend voor ten hoogste 10 dagen gedurende de tewerkstelling en buiten bezwaar van 's rijks schatkist.
 
@@ -610,7 +610,7 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 7. De in het zesde lid bedoelde beslissing wordt zo spoedig mogelijk schriftelijk aan de tewerkgestelde meegedeeld.
 
-8. De ongeoorloofde afwezigheid eindigt op het moment waarop de tewerkgestelde weer deelneemt aan de dagelijkse dienst. Indien de ongeoorloofde afwezigheid wordt beëindigd op een maandag voor de aanvang van de dagelijkse dienst, wordt de ongeoorloofde afwezigheid geacht te zijn beëindigd op de zaterdag daaraan voorafgaand, tenzij de tewerkgestelde voordien onregelmatige diensten, als bedoeld in [artikel 32, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=32&z=2006-01-01&g=2006-01-01), verrichtte. Alsdan eindigt de ongeoorloofde afwezigheid op maandag, ongeacht de vraag of de tewerkgestelde op de zaterdag of zondag daaraan voorafgaand wel aan de dagelijkse dienst zou hebben moeten deelnemen.
+8. De ongeoorloofde afwezigheid eindigt op het moment waarop de tewerkgestelde weer deelneemt aan de dagelijkse dienst. Indien de ongeoorloofde afwezigheid wordt beëindigd op een maandag voor de aanvang van de dagelijkse dienst, wordt de ongeoorloofde afwezigheid geacht te zijn beëindigd op de zaterdag daaraan voorafgaand, tenzij de tewerkgestelde voordien onregelmatige diensten, als bedoeld in [artikel 32, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=32&z=2013-01-01&g=2013-01-01), verrichtte. Alsdan eindigt de ongeoorloofde afwezigheid op maandag, ongeacht de vraag of de tewerkgestelde op de zaterdag of zondag daaraan voorafgaand wel aan de dagelijkse dienst zou hebben moeten deelnemen.
 
 9. Indien de ongeoorloofde afwezigheid wordt beëindigd op een tijdstip van de dag waarop de tewerkgestelde reeds aan de dagelijkse dienst had behoren deel te nemen, wordt de ongeoorloofde afwezigheid geacht te zijn beëindigd op het tijdstip dat voor de aanvang van de dagelijkse dienst is bepaald.
 
@@ -628,7 +628,7 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 2. Indien de tewerkgestelde de dagelijkse dienst reeds heeft aangevangen doch door ziekte de hem door het hoofd van dienst opgedragen werkzaamheden niet verder kan vervullen, is hij verplicht zich bij de Directie TEGMD ziek te melden of te doen melden alvorens de plaats waar hij zich ter vervulling van de op hem rustende dienstverplichtingen behoort te bevinden, te verlaten, zulks onder opgave van het adres waarnaar hij zich begeeft.
 
-3. In afwijking van het in het eerste lid bepaalde geschiedt de ziekmelding die plaatsvindt op een tijdstip vallend in de buiten de normale werktijd vallende arbeidsuren als bedoeld in [artikel 32, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=32&z=2006-01-01&g=2006-01-01), aan het hoofd van dienst. Alsdan doet het hoofd van dienst op de eerstvolgende werkdag vóór 09.00 uur mededeling van de ziekmelding aan de Directie TEGMD.
+3. In afwijking van het in het eerste lid bepaalde geschiedt de ziekmelding die plaatsvindt op een tijdstip vallend in de buiten de normale werktijd vallende arbeidsuren als bedoeld in [artikel 32, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=3&paragraaf=1&artikel=32&z=2013-01-01&g=2013-01-01), aan het hoofd van dienst. Alsdan doet het hoofd van dienst op de eerstvolgende werkdag vóór 09.00 uur mededeling van de ziekmelding aan de Directie TEGMD.
 
 4. De tewerkgestelde die zich ziek heeft gemeld of doen melden, is verplicht:
 
@@ -724,7 +724,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 1. Indien de tewerkgestelde overlijdt, bestaat voor alle in Nederland wonende of verblijvende betrekkingen van de tewerkgestelde recht op een tegemoetkoming in de reis- en/of verblijfkosten wegens één bezoek op de dag van danwel de dag voorafgaand aan de begrafenis of crematie, aan de plaats in Nederland waar het stoffelijk overschot zich bevindt.
 
-2. Het bepaalde in [artikel 52, tweede, zevende en achtste lid, negende lid onderdeel a, en tiende, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=1&artikel=52&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 52, tweede, zevende en achtste lid, negende lid onderdeel a, en tiende, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=1&artikel=52&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 #### Paragraaf 2. Uitkeringen ter zake van derving van inkomsten uit arbeid en bij overlijden
 
@@ -754,7 +754,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - b. op de uitkering een suppletie verlenen.
 
-5. Op de uitkering is het bepaalde in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), van overeenkomstige toepassing.
+5. Op de uitkering is het bepaalde in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 55. **Uitkering bij overlijden tewerkgestelde**
 
@@ -778,7 +778,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 56. **Uitkering bij overlijden gewezen tewerkgestelde**
 
-1. Na het overlijden van hem die op de dag van het overlijden in het genot was van een uitkering als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=2&artikel=54&z=2006-01-01&g=2006-01-01), wordt een bedrag uitgekeerd gelijk aan de uitkering die de overledene op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden:
+1. Na het overlijden van hem die op de dag van het overlijden in het genot was van een uitkering als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=2&artikel=54&z=2013-01-01&g=2013-01-01), wordt een bedrag uitgekeerd gelijk aan de uitkering die de overledene op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden:
 
 - a. aan zijn levenspartner, tenzij zij duurzaam gescheiden leefden;
 
@@ -788,7 +788,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 2. Indien de overledene geen betrekkingen als bedoeld in het eerste lid nalaat, kan de minister het bedrag geheel of gedeeltelijk doen aanwenden voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.
 
-3. Op de uitkering worden de eventueel aan de overledene ingevolge [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=7&artikel=31&z=2006-01-01&g=2006-01-01) verleende voorschotten die nog niet zijn terugbetaald, ingehouden.
+3. Op de uitkering worden de eventueel aan de overledene ingevolge [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=2&paragraaf=7&artikel=31&z=2013-01-01&g=2013-01-01) verleende voorschotten die nog niet zijn terugbetaald, ingehouden.
 
 ### Artikel 7. Hoofdstuk 7 Andere rechten en verplichtingen
 
@@ -802,7 +802,7 @@ Het hoofd van dienst kan de tewerkgestelde niet detacheren, indelen in een ander
 
 ##### Artikel 58. **Algemeen**
 
-De tewerkstelling van een tewerkgestelde bij een dienst kan door het hoofd van dienst slechts worden beëindigd met inachtneming van het bepaalde in de [artikelen 59 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=59&z=2006-01-01&g=2006-01-01).
+De tewerkstelling van een tewerkgestelde bij een dienst kan door het hoofd van dienst slechts worden beëindigd met inachtneming van het bepaalde in de [artikelen 59 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=59&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 59. **Beëindiging tewerkstelling algemeen**
 
@@ -816,7 +816,7 @@ De tewerkstelling van een tewerkgestelde bij een dienst kan door het hoofd van d
 
 ##### Artikel 60. **Beëindiging tewerkstelling binnen twee maanden na aanvang**
 
-1. In afwijking van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=59&z=2006-01-01&g=2006-01-01) kan een tewerkstelling binnen twee maanden na aanvang van die tewerkstelling terstond zonder voorafgaand onderzoek van de minister door het hoofd van dienst worden beëindigd.
+1. In afwijking van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=59&z=2013-01-01&g=2013-01-01) kan een tewerkstelling binnen twee maanden na aanvang van die tewerkstelling terstond zonder voorafgaand onderzoek van de minister door het hoofd van dienst worden beëindigd.
 
 2. Een beëindiging als bedoeld in het eerste lid kan slechts plaatsvinden onder gelijktijdige, schriftelijke of mondelinge mededeling van die beëindiging aan de tewerkgestelde en aan de directie TEGMD onder opgaaf van redenen. Een mondelinge mededeling wordt door het hoofd van dienst onverwijld schriftelijk aan de tewerkgestelde en aan de directie TEGMD bevestigd.
 
@@ -828,7 +828,7 @@ De tewerkstelling van een tewerkgestelde bij een dienst kan door het hoofd van d
 
 ##### Artikel 61. **Beëindiging tewerkstelling wegens dringende redenen**
 
-[Artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=60&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing ten aanzien van de beëindiging van de tewerkstelling op grond van dringende redenen.
+[Artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&artikel=7&paragraaf=2&artikel=60&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing ten aanzien van de beëindiging van de tewerkstelling op grond van dringende redenen.
 
 #### Paragraaf 3. Maatregelen bij ongeval
 
@@ -838,7 +838,7 @@ De tewerkstelling van een tewerkgestelde bij een dienst kan door het hoofd van d
 
 - a. bij dat ongeval een derde is betrokken;
 
-- b. hij zich ten gevolge van dat ongeval ziek meldt als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=5&artikel=49&z=2006-01-01&g=2006-01-01).
+- b. hij zich ten gevolge van dat ongeval ziek meldt als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=5&artikel=49&z=2013-01-01&g=2013-01-01).
 
 2. Onverminderd het in het eerste lid bepaalde doet het hoofd van dienst van elk ongeval dat de tewerkgestelde tijdens het vervullen van de aan hem opgedragen werkzaamheden overkomt, onverwijld mededeling aan de Directie TEGMD. Hij maakt voorts van elk ongeval zo spoedig mogelijk proces-verbaal op, dat hij in tweevoud aan de Directie TEGMD zendt. Dit proces-verbaal bevat:
 
@@ -904,9 +904,9 @@ De tewerkgestelde aan wie groot verlof wordt verleend, wordt in het bezit gestel
 
 2. Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling in het genot is van klein verlof voor zaken of oogstverlof, blijven van toepassing de artikelen 14 en 15 van de Beschikking gewetensbezwaren militaire dienst.
 
-3. Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling afwezig is ten gevolge van een ziekte of een hem overkomen ongeval, blijft [artikel 49, tiende tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=5&artikel=49&z=2006-01-01&g=2006-01-01), buiten toepassing.
+3. Ten aanzien van de tewerkgestelde, die voor het tijdstip van inwerkingtreding van deze regeling afwezig is ten gevolge van een ziekte of een hem overkomen ongeval, blijft [artikel 49, tiende tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=5&artikel=49&z=2013-01-01&g=2013-01-01), buiten toepassing.
 
-4. Ten aanzien van hem aan wie groot verlof is verleend, dan wel die ingevolge [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=28) is ontslagen van zijn verplichtingen uit de vervangende dienst, voor het tijdstip van inwerkingtreding van deze regeling, blijft [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=2&artikel=54&z=2006-01-01&g=2006-01-01) buiten toepassing.
+4. Ten aanzien van hem aan wie groot verlof is verleend, dan wel die ingevolge [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=28) is ontslagen van zijn verplichtingen uit de vervangende dienst, voor het tijdstip van inwerkingtreding van deze regeling, blijft [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005494&hoofdstuk=6&paragraaf=2&artikel=54&z=2013-01-01&g=2013-01-01) buiten toepassing.
 
 ##### Artikel 69. **Datum inwerkingtreding**
 
