@@ -4,7 +4,7 @@ identifier: "BWBR0011406"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2001-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011406"
 soort: "wet"
@@ -50,11 +50,11 @@ De op 18 december 1997 te Brussel totstandgekomen Overeenkomst opgesteld op gron
 
 ##### Artikel 2
 
-Indien een vraag die betrekking heeft op de uitlegging van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011406&artikel=1&z=2001-09-01&g=2001-09-01) genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor een hoger beroep, en deze instantie een beslissing nodig acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.
+Indien een vraag die betrekking heeft op de uitlegging van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011406&artikel=1&z=2013-01-01&g=2013-01-01) genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een bestuursrechter waarvan de beslissingen niet vatbaar zijn voor een hoger beroep, en deze instantie een beslissing nodig acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.
 
 ##### Artikel 3
 
-Het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51), houdt toezicht op de naleving van artikel 25 van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011406&artikel=1&z=2001-09-01&g=2001-09-01) bedoelde verdrag.
+Het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51), houdt toezicht op de naleving van artikel 25 van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011406&artikel=1&z=2013-01-01&g=2013-01-01) bedoelde verdrag.
 
 ##### Artikel 4
 
