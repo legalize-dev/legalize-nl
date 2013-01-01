@@ -4,7 +4,7 @@ identifier: "BWBR0006570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "1994-04-14"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006570"
 soort: "ministeriele-regeling"
@@ -53,3 +53,7 @@ De Koninklijke marechaussee voert de politietaak uit op de volgende luchtvaartte
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994.
 
 Deze regeling wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 4, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
