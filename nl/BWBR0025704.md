@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 
 ##### Artikel 5
 
-1. Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door de Stichting Examenbureau Beroepsvervoer (SEB), waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.
+1. Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.
 
 2. Aan de eis van vakbekwaamheid wordt tevens voldaan door degene die een verklaring van vakbekwaamheid overlegt die op grond van artikel 3, vierde lid, van de beroepsrichtlijn voor het wegvervoer door een andere lidstaat, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland is afgegeven.
 
@@ -92,7 +92,7 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 
 1. Ter voldoening aan de eis van financiële draagkracht beschikt de vervoerder aan kapitaal en reserves over een bedrag van € 9000 wanneer slechts één voertuig wordt gebruikt en € 5000 voor ieder volgend voertuig.
 
-2. Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een belegging in durfkapitaal, zoals geregeld bij of krachtens de [artikelen 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17) en [5.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18).
+2. Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen.
 
 3. Ingeval van verlenging van de vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een ten opzichte van alle andere schulden achtergestelde lening.
 
@@ -104,7 +104,7 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 
 7. In afwijking van het zesde lid kunnen ingeval van verlenging van een vergunning de verklaringen ook zijn afgegeven door een belastingdeskundige, aangesloten bij een door de NIWO daartoe aangewezen instelling.
 
-8. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2009-05-01&g=2009-05-01) van de beroepsrichtlijn voor het wegvervoer.
+8. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) van de beroepsrichtlijn voor het wegvervoer.
 
 9. De NIWO kan de vervoerder een uitstel van ten hoogste een jaar verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -240,7 +240,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2009-05-01&g=2009-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2009-05-01&g=2009-05-01) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2013-01-01&g=2013-01-01) vormt een strafbaar feit.
 
 2. Als bepalingen, bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 72, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) en [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
