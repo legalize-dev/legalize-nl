@@ -131,5 +131,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
