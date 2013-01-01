@@ -4,7 +4,7 @@ identifier: "BWBR0026153"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2010-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026153"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ De Minister dient slechts een projectvoorstel in bij de Europese Commissie nadat
 
 ##### Artikel 4. Verlening en voorschot
 
-1. Wanneer de Europese Commissie het projectvoorstel goedkeurt, verleent de Minister de aanvrager subsidie ter hoogte van het door de Europese Commissie toegekende bedrag, onder de voorwaarden gesteld bij en krachtens de verordening, en de voorwaarden genoemd in het convenant als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2010-07-01&g=2010-07-01).
+1. Wanneer de Europese Commissie het projectvoorstel goedkeurt, verleent de Minister de aanvrager subsidie ter hoogte van het door de Europese Commissie toegekende bedrag, onder de voorwaarden gesteld bij en krachtens de verordening, en de voorwaarden genoemd in het convenant als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2013-01-01&g=2013-01-01).
 
 2. De Minister verstrekt het volledige van de Europese Commissie ontvangen bedrag als voorschot op de projectsubsidie aan de aanvrager, tenzij er gegronde redenen bestaan om aan te nemen dat het project niet volledig overeenkomstig de aanvraag zal worden uitgevoerd.
 
@@ -76,15 +76,17 @@ Gedurende de looptijd van het project kan de Minister verzoeken om een tussenrap
 
 ##### Artikel 6. Controle
 
-De aanvrager richt de nodige beheers- en controle systemen in conform de eisen die worden gesteld bij en krachtens de Verordening en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2010-07-01&g=2010-07-01) bedoelde convenant, en werkt volledig mee aan de controle door de Minister op de naleving daarvan.
+De aanvrager richt de nodige beheers- en controle systemen in conform de eisen die worden gesteld bij en krachtens de Verordening en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde convenant, en werkt volledig mee aan de controle door de Minister op de naleving daarvan.
 
 ##### Artikel 7. Verzoek tot vaststelling van de subsidie
 
-1. Uiterlijk drie maanden na afloop van het project dient de aanvrager bij de Minister een verzoek in tot vaststelling van de subsidie. Dit verzoek bestaat uit een eindverslag over de uitvoering van de projectactiviteiten en een einddeclaratie van de kosten.
+1. Uiterlijk zes weken na afloop van het project dient de aanvrager bij de Minister een verzoek in tot vaststelling van de subsidie. Dit verzoek bestaat uit een eindverslag over de uitvoering van de projectactiviteiten en een einddeclaratie van de kosten.
 
 2. Uiterlijk zes maanden na afloop van het project dient de Minister bij de Europese Commissie een verslag in over de uitvoering van de financiële bijdrage, samen met een verklaring waarin de uitgaven worden verantwoord conform de in de Verordening gestelde eisen.
 
 3. Indien de Minister tot het oordeel komt dat bepaalde kosten in de einddeclaratie van de aanvrager niet subsidieabel zijn onder de voorwaarden van de verordening deelt hij dit aan de aanvrager mee met het verzoek de einddeclaratie op dit punt te wijzigen.
+
+4. Met betrekking tot projectvoorstellen die bij de Minister zijn ingediend voor 1 juni 2011 dient de aanvrager, in afwijking van het eerste lid, uiterlijk drie maanden na afloop van het project bij de Minister een verzoek in tot vaststelling van de subsidie.
 
 ##### Artikel 8. Vaststelling
 
