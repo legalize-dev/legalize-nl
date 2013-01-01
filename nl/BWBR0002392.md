@@ -4,7 +4,7 @@ identifier: "BWBR0002392"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2009-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002392"
 soort: "wet"
@@ -84,7 +84,7 @@ Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijze
 
 ##### Artikel 4
 
-1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -132,7 +132,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15
 
-1. Ten aanzien van de uitoefening van bevoegdheden, welke hem toekomen ingevolge het bepaalde bij of krachtens deze wet en de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997), kan Onze Minister de medewerking vorderen van een bestuur van een bedrijfslichaam. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+1. Ten aanzien van de uitoefening van bevoegdheden, welke hem toekomen ingevolge het bepaalde bij of krachtens deze wet en de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997), kan Onze Minister de medewerking vorderen van een bestuur van een bedrijfslichaam. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 2. Indien de van het bestuur van het bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister en indien het voorschrift waarbij de medewerking gevorderd is, door Onze Minister is vastgesteld in overeenstemming met Onze Minister van Economische Zaken, mede van die Minister.
 
@@ -144,7 +144,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 16
 
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Vervallen
 
 ##### Artikel 17
 
@@ -152,13 +152,13 @@ Bij algemene maatregel van bestuur worden regelen gesteld betreffende tegemoetko
 
 ##### Artikel 18
 
-Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daarbij vast te stellen regelen in enig gebied de bevoegdheden, welke krachtens deze wet, de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389), de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393), de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) en de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aan Onze Minister toekomen, uitoefenen voor zolang in een der in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=4&z=2009-07-01&g=2009-07-01), genoemde gevallen de verbinding tussen dat gebied en Onze Minister verbroken is. Ons besluit wordt mede bekend gemaakt in de Staatscourant.
+Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daarbij vast te stellen regelen in enig gebied de bevoegdheden, welke krachtens deze wet, de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389), de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393), de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) en de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aan Onze Minister toekomen, uitoefenen voor zolang in een der in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=4&z=2013-01-01&g=2013-01-01), genoemde gevallen de verbinding tussen dat gebied en Onze Minister verbroken is. Ons besluit wordt mede bekend gemaakt in de Staatscourant.
 
 ### Hoofdstuk V. Beroep
 
 ##### Artikel 19
 
-Tegen een op grond van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2009-07-01&g=2009-07-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=29&z=2009-07-01&g=2009-07-01) genomen besluit, kan, behoudens in geval van toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=IV&artikel=18&z=2009-07-01&g=2009-07-01), een belanghebbende beroep instellen bij het College.
+Vervallen
 
 ##### Artikel 20
 
@@ -172,21 +172,21 @@ In afwijking van [artikel 8:72, tweede lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 22
 
-1. Zolang de [artikelen 6-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01) in werking zijn, is een ieder verplicht bij het verrichten van gedragingen, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), ten aanzien van de desbetreffende produkten die zorg aan te wenden, welke onder de met betrekking tot de voedselvoorziening bestaande omstandigheden redelijkerwijze kan worden verwacht.
+1. Zolang de [artikelen 6-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01) in werking zijn, is een ieder verplicht bij het verrichten van gedragingen, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), ten aanzien van de desbetreffende produkten die zorg aan te wenden, welke onder de met betrekking tot de voedselvoorziening bestaande omstandigheden redelijkerwijze kan worden verwacht.
 
-2. Het bepaalde bij het vorige lid is van overeenkomstige toepassing bij het verrichten van gedragingen, in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), genoemd.
+2. Het bepaalde bij het vorige lid is van overeenkomstige toepassing bij het verrichten van gedragingen, in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01), genoemd.
 
 ##### Artikel 23
 
-1. Onze Minister kan ten aanzien van degenen, die een of meer der in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), en [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), genoemde gedragingen verrichten of plegen te verrichten, regelen vaststellen betreffende het beantwoorden van vragen en verstrekken van gegevens, welke naar het oordeel van Onze Minister nodig zijn ter voorbereiding of uitvoering van enige krachtens deze wet te nemen of genomen maatregel, aan lichamen, organen of personen, die Onze Minister daartoe heeft aangewezen.
+1. Onze Minister kan ten aanzien van degenen, die een of meer der in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), en [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01), genoemde gedragingen verrichten of plegen te verrichten, regelen vaststellen betreffende het beantwoorden van vragen en verstrekken van gegevens, welke naar het oordeel van Onze Minister nodig zijn ter voorbereiding of uitvoering van enige krachtens deze wet te nemen of genomen maatregel, aan lichamen, organen of personen, die Onze Minister daartoe heeft aangewezen.
 
-2. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+2. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 24
 
 1. Ieder, die ingevolge het bij of krachtens deze wet bepaalde in het bezit dient te zijn van een of meer bescheiden, is verplicht die bescheiden steeds bij zich te hebben bij gedragingen met betrekking tot welke het bezit van zodanige bescheiden verplicht is gesteld.
 
-2. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister of bij besluit van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2009-07-01&g=2009-07-01) onderscheidenlijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2009-07-01&g=2009-07-01) bedoelde voedselcommissaris aangewezen personen.
+2. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister of bij besluit van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01) onderscheidenlijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde voedselcommissaris aangewezen personen.
 
 ##### Artikel 25
 
@@ -194,13 +194,13 @@ Het is verboden ter zake van een aanvraag om een ontheffing, vergunning of resti
 
 ##### Artikel 26
 
-1. In afwijking van [artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2009-07-01&g=2009-07-01) vastgestelde verplichtingen.
+1. In afwijking van [artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2013-01-01&g=2013-01-01) vastgestelde verplichtingen.
 
-2. Voor de in bezit genomen produkten wordt als schadeloosstelling toegekend een bedrag, gelijk aan de prijs, onderscheidenlijk vergoeding, welke bij inlevering, onderscheidenlijk terbeschikkinghouding ter nakoming van een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2009-07-01&g=2009-07-01) opgelegde verplichting zou zijn uitgekeerd, een en ander verminderd met de op de inbezitneming vallende kosten.
+2. Voor de in bezit genomen produkten wordt als schadeloosstelling toegekend een bedrag, gelijk aan de prijs, onderscheidenlijk vergoeding, welke bij inlevering, onderscheidenlijk terbeschikkinghouding ter nakoming van een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2013-01-01&g=2013-01-01) opgelegde verplichting zou zijn uitgekeerd, een en ander verminderd met de op de inbezitneming vallende kosten.
 
 ##### Artikel 27
 
-Hetgeen krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01) is verschuldigd, kan door Onze Minister, onderscheidenlijk door de voorzitter van het betrokken bedrijfslichaam bij dwangbevel worden ingevorderd.
+Hetgeen krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01) is verschuldigd, kan door Onze Minister, onderscheidenlijk door de voorzitter van het betrokken bedrijfslichaam bij dwangbevel worden ingevorderd.
 
 ##### Artikel 28
 
@@ -222,7 +222,7 @@ Krachtens deze wet vastgestelde regelen treden, tenzij daarbij anders is bepaald
 
 ##### Artikel 32
 
-1. Besluiten, door Onze Minister krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=12&z=2009-07-01&g=2009-07-01), 13, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=IV&artikel=15&z=2009-07-01&g=2009-07-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=23&z=2009-07-01&g=2009-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=29&z=2009-07-01&g=2009-07-01) vastgesteld, worden in de **Staatscourant** bekend gemaakt.
+1. Besluiten, door Onze Minister krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=7&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2013-01-01&g=2013-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=12&z=2013-01-01&g=2013-01-01), 13, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=IV&artikel=15&z=2013-01-01&g=2013-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=23&z=2013-01-01&g=2013-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=29&z=2013-01-01&g=2013-01-01) vastgesteld, worden in de **Staatscourant** bekend gemaakt.
 
 2. Indien het landsbelang dit naar zijn oordeel noodzakelijk maakt, kan Onze Minister een besluit, bedoeld in het eerste lid, op andere wijze bekend maken.
 
@@ -240,6 +240,6 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als: Noodwet voedselvoorziening.
 
-2. Met uitzondering van de [artikelen 6-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
+2. Met uitzondering van de [artikelen 6-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2013-01-01&g=2013-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
