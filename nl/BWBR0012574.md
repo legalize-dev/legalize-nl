@@ -4,7 +4,7 @@ identifier: "BWBR0012574"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-27"
-last_updated: "2001-08-15"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012574"
 soort: "wet"
@@ -84,10 +84,10 @@ Indien en voorzover in de[Algemene pensioenwet politieke ambtsdragers](https://w
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
 
-- a. [artikel I, de onderdelen B,2, K,2](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2001-08-15) en V,2, terugwerkt tot en met 1 juli 1996;
+- a. [artikel I, de onderdelen B,2, K,2](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2013-01-01) en V,2, terugwerkt tot en met 1 juli 1996;
 
-- b. [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2001-08-15), terugwerkt tot en met 1 januari 1997;
+- b. [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2013-01-01), terugwerkt tot en met 1 januari 1997;
 
-- c. [artikel I, de onderdelen A, B,1, C, K,1, L, T, U](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2001-08-15), V,1, W en DD, terugwerkt tot en met 1 januari 1998.
+- c. [artikel I, de onderdelen A, B,1, C, K,1, L, T, U](https://wetten.overheid.nl/jci1.3:c:BWBR0012574&artikel=I&z=2001-08-15&g=2013-01-01), V,1, W en DD, terugwerkt tot en met 1 januari 1998.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
