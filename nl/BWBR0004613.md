@@ -4,7 +4,7 @@ identifier: "BWBR0004613"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2010-10-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004613"
 soort: "AMvB"
@@ -46,7 +46,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder werknemersverzekeringen: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+In dit besluit wordt verstaan onder:
+
+- a. **werknemersverzekeringen:** de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- b. **in Nederland arbeid verrichten, dan wel werkzaam zijn:** in Nederland of op het continentaal plat arbeid verrichten;
+
+- c. **buiten Nederland arbeid verrichten, dan wel werkzaam zijn:** buiten Nederland en het continentaal plat arbeid verrichten.
 
 #### Uitbreiding van de kring van verzekerden
 
@@ -82,7 +88,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 ##### Artikel 4b
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2010-10-10&g=2010-10-10), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
+1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2013-01-01&g=2013-01-01), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
 
 - a. ten tijde van aanwerving niet in Nederland woonde;
 
@@ -96,7 +102,15 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 ##### Artikel 4c
 
-Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder f tot en met k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien hij in overeenstemming met de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) arbeid in dienstbetrekking verricht.
+Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de vreemdeling die:
+
+rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder f tot en met k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8),
+
+indien hij:
+
+- a. in Nederland, met uitzondering van het continentaal plat, in overeenstemming met de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) arbeid in dienstbetrekking verricht;
+
+- b. op het continentaal plat arbeid in dienstbetrekking verricht.
 
 #### Beperking van de kring van verzekerden
 
@@ -188,9 +202,9 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 ##### Artikel 14
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2010-10-10&g=2010-10-10) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2010-10-10&g=2010-10-10), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
+1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2013-01-01&g=2013-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2013-01-01&g=2013-01-01), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
 
-2. Onze Minister is bevoegd in bepaalde gevallen van het eerste lid en de aldaar genoemde termijn af te wijken. Een buiten Nederland doorgebrachte verlofperiode geldt niet als onderbreking van zowel de termijn, genoemd in het eerste lid, als de termijn, vastgesteld na toepassing van de eerste volzin.
+2. Onze Minister is bevoegd in bepaalde gevallen van het eerste lid en de aldaar genoemde termijn af te wijken. Een buiten Nederland en op het continentaal plat doorgebrachte verlofperiode geldt niet als onderbreking van zowel de termijn, genoemd in het eerste lid, als de termijn, vastgesteld na toepassing van de eerste volzin.
 
 ##### Artikel 15
 
@@ -212,7 +226,7 @@ Vervallen
 
 ##### Artikel 16a
 
-Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien hij arbeid in dienstbetrekking verricht zonder dat aan de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) is voldaan.
+Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien hij in Nederland, met uitzondering van het continentaal plat, arbeid in dienstbetrekking verricht zonder dat aan de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) is voldaan.
 
 #### Slotbepalingen
 
