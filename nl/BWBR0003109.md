@@ -4,7 +4,7 @@ identifier: "BWBR0003109"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2011-07-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003109"
 soort: "wet"
@@ -70,13 +70,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister kan nadere regels vaststellen betreffende dit toezicht. Deze regels worden bekend gemaakt in de Nederlandse Staatscourant.
 
-5. De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van zijn taak op grond van deze wet in rekening bij het centraal instituut. De kosten worden gebaseerd op de begroting. [Artikel 1:40 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) is van overeenkomstige toepassing.
+5. vervallen.
 
 6. Wijziging van de statuten van het centraal instituut behoeft de voorafgaande instemming van Onze Minister.
 
 ##### Artikel 3
 
-1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2011-07-22&g=2011-07-22) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
+1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2013-01-01&g=2013-01-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
 
 2. Een voordracht tot vernietiging moet worden gedaan binnen tien dagen na die waarop de toezichthouder van het besluit heeft kennis gekregen. Hangende de beslissing op de voordracht is het besluit geschorst.
 
@@ -134,7 +134,7 @@ Tot een verzameldepot behoren:
 
 - b. het ten name van de intermediair staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere intermediair;
 
-- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2011-07-22&g=2011-07-22) bedoelde girodepot van effecten van de betreffende soort;
+- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2013-01-01&g=2013-01-01) bedoelde girodepot van effecten van de betreffende soort;
 
 - d. het ten name van de intermediair staande tegoed terzake van effecten van de betreffende soort, die berusten onder of bewaard worden voor instellingen in het buitenland;
 
@@ -274,13 +274,13 @@ Levert de intermediair aan een deelgenoot meer effecten uit dan waartoe hij inge
 
 ##### Artikel 31
 
-1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-07-22&g=2011-07-22) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
+1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2013-01-01&g=2013-01-01) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-07-22&g=2011-07-22) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2011-07-22&g=2011-07-22), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2011-07-22&g=2011-07-22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-07-22&g=2011-07-22) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-07-22&g=2011-07-22) uit te oefenen.
+Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2013-01-01&g=2013-01-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2013-01-01&g=2013-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2013-01-01&g=2013-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2013-01-01&g=2013-01-01) uit te oefenen.
 
 ## Titel 4. Faillissement
 
@@ -352,7 +352,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 39
 
-Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2011-07-22&g=2011-07-22) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
+Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2013-01-01&g=2013-01-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
 
 ## Titel 2. Vervreemding en bezwaring
 
@@ -372,7 +372,7 @@ Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoe
 
 1. Vestiging van een pandrecht ten behoeve van een andere aangesloten instelling op een aandeel in een girodepot geschiedt door bijschrijving ten name van de andere instelling in de administratie van het centraal instituut.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2011-07-22&g=2011-07-22), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2011-07-22&g=2011-07-22) zijn van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2013-01-01&g=2013-01-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -402,7 +402,7 @@ Beslag onder het centraal instituut op een ten name van een aangesloten instelli
 
 ##### Artikel 46
 
-De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-07-22&g=2011-07-22).
+De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 47
 
@@ -416,7 +416,7 @@ Het centraal instituut is tot uitlevering bevoegd zonder medewerking van de ande
 
 1. Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-07-22&g=2011-07-22) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -458,7 +458,7 @@ Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal i
 
 ## Titel 3. Uitlevering en verdeling
 
-### Hoofdstuk 4. Overgangs- en slotbepalingen
+### Hoofdstuk 3a. Identificatie van investeerders
 
 ##### Artikel 50b
 
@@ -470,16 +470,20 @@ Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal i
 
 ##### Artikel 50c
 
-In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-07-22&g=2011-07-22) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2011-07-22&g=2011-07-22) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
+In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2013-01-01&g=2013-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2013-01-01&g=2013-01-01) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
 
 ##### Artikel 50d
 
-1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2011-07-22&g=2011-07-22) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2011-07-22&g=2011-07-22).
+1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2013-01-01&g=2013-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2013-01-01&g=2013-01-01).
 
 2. Een instelling die effecten aan toonder heeft uitgegeven die zijnopgenomen in een verzameldepot of een girodepot zet deze effecten voor 1 januari 2013 om in een verzamelbewijs of in effecten op naam.
 
 3. Indien de voorwaarden waaronder effecten aan toonder zijn uitgegeven niet voorzien in de mogelijkheid die effecten om te zetten in verzamelbewijzen of een procedure om de voorwaarden aan te passen, kan de uitgevende instelling van die effecten eenzijdig de voorwaarden wijzigen om een omzetting als bedoeld in het tweede lid mogelijk te maken.
 
-4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2011-07-22&g=2011-07-22) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2011-07-22&g=2011-07-22).
+4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2013-01-01&g=2013-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2013-01-01&g=2013-01-01).
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
