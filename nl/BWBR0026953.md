@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -58,27 +58,29 @@ Besluit:
 
 - e. projectdirecties.
 
-2. De Minister van Verkeer en Waterstaat stelt de in het eerste lid genoemde diensten en directies in.
+2. De directeur-generaal Rijkswaterstaat stelt de in het eerste lid genoemde diensten en directies in en kan deze nader onderverdelen.
 
-3. De directeur-generaal Rijkswaterstaat kan de in het eerste lid genoemde diensten en directies nader onderverdelen.
-
-4. De directeur-generaal Rijkswaterstaat wijst de directeuren en de direct onder hen ressorterende leidinggevende functionarissen van de in het eerste lid genoemde diensten en directies aan.
+3. De directeur-generaal Rijkswaterstaat wijst de directeuren van de in het eerste lid genoemde diensten en directies aan.
 
 ##### Artikel 3
 
-Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de Minister van Verkeer en Waterstaat is opgedragen, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten:
+Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de minister van Infrastructuur en Milieu is opgedragen, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten:
 
 - a. de aanleg, het beheer en het onderhoud van rijkswaterstaatswerken;
 
-- b. het verrichten dan wel bevorderen van onderzoek en het adviseren van de Minister van Verkeer en Waterstaat over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdeel a;
+- b. de uitvoering van beleid met betrekking tot milieu en leefomgeving, mobiliteit en klimaat voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd;
 
-- c. het adviseren over en het toetsen van de uitvoerbaarheid van nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in onderdeel a, van belang is;
+- c. het verrichten dan wel bevorderen van onderzoek en het adviseren van de minister van Infrastructuur en Milieu over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdelen a en b;
 
-- d. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Verkeer en Waterstaat is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de Minister van Verkeer en Waterstaat bevoegd gezag is; en
+- d. het adviseren over en het toetsen van de uitvoerbaarheid van nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in onderdelen a en b, van belang is;
 
-- e. de toetsing van de uitvoerbaarheid van plannen, regelingen en projectenvan andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van de taken genoemd in onderdeel a;
+- e. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Infrastructuur en Milieu is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de minister van Infrastructuur en Milieu bevoegd gezag is;
 
-- f. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842).
+- f. de toetsing van de uitvoerbaarheid van plannen, regelingen en projecten van andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van taken genoemd in onderdeel a;
+
+- g. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), en
+
+- h. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.
 
 ##### Artikel 4
 
