@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2012-06-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In dit besluit wordt verstaan onder:
 
 2. Met het toezicht op de naleving van [artikel 15.1, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), zijn tevens belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie, Telecom en Mededinging.
 
-3. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn voorts belast de ambtenaren van politie, bedoeld in [3, eerste lid, onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), van:
+3. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn voorts belast de ambtenaren van politie, bedoeld in [2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die zijn tewerkgesteld bij:
 
-- a. de dienst Waterpolitie van het Korps Landelijke politiediensten, en
+- a. de dienst Waterpolitie van de Landelijke eenheid, en
 
-- b. dienst zeehavenpolitie van het regionale politiekorps Rotterdam-Rijnmond.
+- b. de dienst Zeehavenpolitie van de regionale eenheid Rotterdam.
 
 ##### Artikel 3
 
