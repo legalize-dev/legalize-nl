@@ -4,7 +4,7 @@ identifier: "BWBR0023022"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2008-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023022"
 soort: "AMvB"
@@ -64,6 +64,6 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt 1 januari 2013.
+Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt met ingang van 1 januari 2018.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
