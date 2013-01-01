@@ -4,7 +4,7 @@ identifier: "BWBR0016763"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2005-10-15"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016763"
 soort: "wet"
@@ -72,7 +72,7 @@ In deze wet wordt verstaan onder:
 
 1. Als centraal orgaan wordt voor Nederland aangewezen de Raad voor de rechtspraak.
 
-2. Als bevoegde autoriteit wordt voor Nederland aangewezen de rechtbank te `s-Gravenhage.
+2. Als bevoegde autoriteit wordt voor Nederland aangewezen de rechtbank Den Haag.
 
 3. Bij regeling van Onze Minister van Justitie kunnen nadere regels worden gesteld met betrekking tot de wijze waarop het centrale orgaan zijn taken, bedoeld in artikel 3, eerste lid, van de verordening, uitvoert.
 
@@ -110,7 +110,7 @@ In geval van doorzending van een verzoek om een handeling tot het verkrijgen van
 
 ##### Artikel 10
 
-De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten waarvan ingevolge artikel 18, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2005-10-15&g=2005-10-15), voor rekening van partijen komen.
+De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten waarvan ingevolge artikel 18, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2013-01-01&g=2013-01-01), voor rekening van partijen komen.
 
 ##### Artikel 11
 
