@@ -259,25 +259,3 @@ Dit besluit wordt aangehaald als: Rechtspositiebesluit politieke gezagdragers BE
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. De eilandsraad kan bij eilandsverordening bepalen dat aan een lid van het kiescollege een vergoeding voor het bijwonen van de vergaderingen van het kiescollege wordt toegekend tot het maximumbedrag van 71 USD.
-
-2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
-
-#### § 4. Vergoeding leden van een commissie
-
-#### § 5. Toelagen, eenmalige uitkeringen, vakantie- en eindejaarsuitkering
-
-#### § 6. Ambtstoelagen
-
-#### § 7. Neveninkomsten
-
-#### § 8. Waarneming gezaghebber
-
-#### § 9. Overige bepalingen met betrekking tot de gezaghebber
-
-#### § 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
