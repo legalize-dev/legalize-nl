@@ -4,7 +4,7 @@ identifier: "BWBR0002306"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2008-12-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002306"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Als de autoriteit, die, overeenkomstig de voorschriften van het verdrag zorg draagt voor de mededeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de arrondissements-rechtbank binnen welker rechtsgebied de mededeling verlangd wordt.
+Als de autoriteit, die, overeenkomstig de voorschriften van het verdrag zorg draagt voor de mededeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de rechtbank binnen welker rechtsgebied de mededeling verlangd wordt.
 
 ##### Artikel 2
 
@@ -105,7 +105,7 @@ Vervallen
 
 ##### Artikel 10
 
-Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2008-12-01&g=2008-12-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2013-01-01&g=2013-01-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 11
 
@@ -169,43 +169,43 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weder ter rolle zal
 
 - 2°. een expeditie van de uitspraak;
 
-- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2008-12-01&g=2008-12-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
+- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2013-01-01&g=2013-01-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
 
 2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend); van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 ##### Artikel 21
 
-1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-12-01&g=2008-12-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2013-01-01&g=2013-01-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-12-01&g=2008-12-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2013-01-01&g=2013-01-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
 
 ##### Artikel 22
 
-De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag geschiedt in Nederland door de arrondissements-rechtbank van de woonplaats van degene, tegen wie de uitspraak is gewezen, of, zo van een woonplaats in Nederland niet blijkt, door de arrondissements-rechtbank, door Onze Minister van Justitie aan te wijzen.
+De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag geschiedt in Nederland door de rechtbank van de woonplaats van degene, tegen wie de uitspraak is gewezen, of, zo van een woonplaats in Nederland niet blijkt, door de rechtbank, door Onze Minister van Justitie aan te wijzen.
 
 ##### Artikel 23
 
-1. De arrondissements-rechtbank doet zo spoedig mogelijk uitspraak en zendt onverwijld expeditie van haar beschikking aan Onze Minister van Justitie, die deze langs diplomatieke weg aan de verzoekende partij doet toekomen.
+1. De rechtbank doet zo spoedig mogelijk uitspraak en zendt onverwijld expeditie van haar beschikking aan Onze Minister van Justitie, die deze langs diplomatieke weg aan de verzoekende partij doet toekomen.
 
 2. Hetzelfde geldt in geval van beroep in cassatie voor de Hoge Raad.
 
 ##### Artikel 24
 
-1. Beroep in cassatie van de afwijzende beschikking der arrondissements-rechtbank kan worden ingesteld door de verzoekende partij binnen twee maanden na de dag waarop de expeditie van die beschikking aan Onze Minister van Justitie is toegezonden.
+1. Beroep in cassatie van de afwijzende beschikking der rechtbank kan worden ingesteld door de verzoekende partij binnen twee maanden na de dag waarop de expeditie van die beschikking aan Onze Minister van Justitie is toegezonden.
 
 2. De instelling van beroep in cassatie geschiedt door een daartoe strekkende schriftelijke mededeling aan Onze Minister van Justitie. Deze mededeling bevat de middelen, waarop het beroep steunt.
 
-3. Onze Minister van Justitie stelt de griffier van de arrondissements-rechtbank, die de beschikking heeft gegeven, in kennis met het ingestelde beroep in cassatie. Tevens doet hij daarvan mededeling aan de Hoge Raad.
+3. Onze Minister van Justitie stelt de griffier van de rechtbank, die de beschikking heeft gegeven, in kennis met het ingestelde beroep in cassatie. Tevens doet hij daarvan mededeling aan de Hoge Raad.
 
-4. De griffier van de arrondissements-rechtbank, die de aangevallen beschikking heeft gegeven, doet de overgelegde stukken met een afschrift der afwijzende beschikking aan de Hoge Raad toekomen.
+4. De griffier van de rechtbank, die de aangevallen beschikking heeft gegeven, doet de overgelegde stukken met een afschrift der afwijzende beschikking aan de Hoge Raad toekomen.
 
 ##### Artikel 25
 
-1. Beroep in cassatie van de beschikking der arrondissements-rechtbank, waarbij de uitspraak is uitvoerbaar verklaard, kan worden ingesteld binnen veertien dagen na de betekening door een daartoe strekkende schriftelijke verklaring ter griffie van de arrondissements-rechtbank, die de beschikking heeft genomen.
+1. Beroep in cassatie van de beschikking der rechtbank, waarbij de uitspraak is uitvoerbaar verklaard, kan worden ingesteld binnen veertien dagen na de betekening door een daartoe strekkende schriftelijke verklaring ter griffie van de rechtbank, die de beschikking heeft genomen.
 
 2. De middelen, waarop het beroep steunt, worden in de verklaring opgenomen, of uiteengezet in een nader verzoekschrift, binnen veertien dagen na aantekening van het beroep te richten tot de Hoge Raad.
 
-3. Binnen drie dagen geeft de griffier van de arrondissements-rechtbank, die de aangevallen beschikking heeft genomen, van dit beroep per aangetekende brief kennis aan de partij die het verzoek heeft gedaan, en zendt aan de Hoge Raad de overgelegde stukken met een afschrift van de aangevallen beschikking en van de aantekening van het beroep.
+3. Binnen drie dagen geeft de griffier van de rechtbank, die de aangevallen beschikking heeft genomen, van dit beroep per aangetekende brief kennis aan de partij die het verzoek heeft gedaan, en zendt aan de Hoge Raad de overgelegde stukken met een afschrift van de aangevallen beschikking en van de aantekening van het beroep.
 
 ##### Artikel 26
 
