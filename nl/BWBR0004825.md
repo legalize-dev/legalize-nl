@@ -4,7 +4,7 @@ identifier: "BWBR0004825"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004825"
 soort: "AMvB"
@@ -52,129 +52,125 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. aanhangwagens: voertuigen die door een voertuig worden voortbewogen of kennelijk bestemd zijn om aldus te worden voortbewogen, alsmede opleggers;
+- **aanhangwagens**: voertuigen die door een voertuig worden voortbewogen of kennelijk bestemd zijn om aldus te worden voortbewogen, alsmede opleggers;
 
-- a1. ambulance: motorvoertuig, ingericht en bestemd om te worden gebruikt voor ambulancevervoer als bedoeld in de [Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757);
+- **ambulance**: motorvoertuig, ingericht en bestemd om te worden gebruikt voor ambulancezorg als bedoeld in de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557);
 
-- b. autobus: motorvoertuig, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen;
+- **autobus**: motorvoertuig, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen;
 
-- c. autosnelweg: weg, aangeduid door bord G1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01); langs autosnelwegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autosnelweg uit;
+- **autosnelweg**: weg, aangeduid door bord G1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01); langs autosnelwegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autosnelweg uit;
 
-- d. autoweg: weg, aangeduid door bord G3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01); langs autowegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autoweg uit;
+- **autoweg**: weg, aangeduid door bord G3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01); langs autowegen gelegen parkeerplaatsen, tankstations en bushalteplaatsen maken geen deel van de autoweg uit;
 
-- da. bedrijfsauto: bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- **bedrijfsauto**: bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- db. bestelauto: motorvoertuig, bestemd voor het vervoer van goederen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg;
+- **bestelauto**: motorvoertuig, bestemd voor het vervoer van goederen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg;
 
-- e. bestemmingsverkeer: bestuurders wier reisdoel één of meer bepaalde percelen betreft die zijn gelegen aan of in de directe nabijheid van een weg met een door verkeerstekens aangegeven geslotenverklaring voor bepaalde categorieën bestuurders en die slechts via deze weg zijn te bereiken alsmede bestuurders van lijnbussen;
+- **bestemmingsverkeer**: bestuurders wier reisdoel één of meer bepaalde percelen betreft die zijn gelegen aan of in de directe nabijheid van een weg met een door verkeerstekens aangegeven geslotenverklaring voor bepaalde categorieën bestuurders en die slechts via deze weg zijn te bereiken alsmede bestuurders van lijnbussen;
 
-- f. bestuurder van een motorvoertuig:
+- **bestuurder van een motorvoertuig**:
 
 - 1. hij die het motorvoertuig bestuurt of
 
 - 2. voor zover het betreft een motorvoertuig voor het besturen waarvan een rijbewijs AM, B, C, D of E, is vereist en dat is voorzien van een dubbele bediening, hij die rijonderricht geeft of toezicht houdt in het kader van een vanwege de overheid ingesteld onderzoek naar de rijvaardigheid, niet zijnde een onderzoek als bedoeld in [artikel 131, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131);
 
-- g. bestuurders: alle weggebruikers behalve voetgangers;
+- **bestuurders**: alle weggebruikers behalve voetgangers;
 
-- h. bevoegd gezag: gezag als bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=18);
+- **bevoegd gezag**: gezag als bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=18);
 
-- ha. brombakfiets: bromfiets op drie symmetrisch geplaatste wielen, met twee voorwielen met een diameter van meer dan 0,40 m, uitsluitend ingericht voor het vervoer van de bestuurder en van goederen en eventueel van een achter de bestuurder gezeten passagier;
+- **brombakfiets**: bromfiets op drie symmetrisch geplaatste wielen, met twee voorwielen en uitsluitend ingericht voor het vervoer van de bestuurder en van goederen en eventueel van een achter de bestuurder gezeten passagier;
 
-- i. vervallen;
+- **brommobiel**: bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;
 
-- ia. brommobiel: bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;
+- **busbaan**: rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;
 
-- j. busbaan: rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;
+- **busstrook**: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;
 
-- k. busstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop het woord «BUS» of «LIJNBUS» is aangebracht;
+- **dag**: de periode tussen zonsopgang en zonsondergang;
 
-- l. dag: de periode tussen zonsopgang en zonsondergang;
+- **diensten voor spoedeisende medische hulpverlening**: de ambulancediensten waaraan krachtens de [Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend voor het verrichten van ambulancevervoer, alsmede daartoe uitgeruste voertuigen van andere hulpverleningsdiensten die zich in opdracht van een centrale post als bedoeld in [artikel 1 van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1) bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;
 
-- l1. diensten voor spoedeisende medische hulpverlening: de ambulancediensten waaraan krachtens de [Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend voor het verrichten van ambulancevervoer, alsmede daartoe uitgeruste voertuigen van andere hulpverleningsdiensten die zich in opdracht van een centrale post als bedoeld in [artikel 1 van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1) bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;
+- **dierenambulance**: motorvoertuig, ingericht en bestemd om te worden gebruikt voor het vervoer van zieke en gewonde dieren;
 
-- l2. dierenambulance: motorvoertuig, ingericht en bestemd om te worden gebruikt voor het vervoer van zieke en gewonde dieren;
+- **doorgaande rijbaan**: rijbaan zonder de invoeg- en uitrijstroken;
 
-- m. doorgaande rijbaan: rijbaan zonder de invoeg- en uitrijstroken;
+- **driewielig motorvoertuig**: driewielig motorrijtuig als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- ma. driewielig motorvoertuig: driewielig motorrijtuig als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- **fietsstrook**: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop afbeeldingen van een fiets zijn aangebracht;
 
-- n. fietsstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan waarop afbeeldingen van een fiets zijn aangebracht;
+- **geslotenverklaring**: verbod de betrokken weg in te rijden of in te gaan alsmede de betrokken weg te gebruiken;
 
-- o. geslotenverklaring: verbod de betrokken weg in te rijden of in te gaan alsmede de betrokken weg te gebruiken;
+- **haaietanden**: voorrangsdriehoeken op het wegdek;
 
-- p. haaietanden: voorrangsdriehoeken op het wegdek;
+- **gehandicaptenvoertuig**: voertuig dat is ingericht voor het vervoer van een gehandicapte, niet breder is dan 1,10 meter en niet is uitgerust met een motor, dan wel is uitgerust met een motor waarvan de door de constructie bepaalde maximumsnelheid niet meer dan 45 km per uur bedraagt, en geen bromfiets is;
 
-- q. vervallen;
+- **invoegstrook**: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan oprijden;
 
-- r. gehandicaptenvoertuig: voertuig dat is ingericht voor het vervoer van een gehandicapte, niet breder is dan 1,10 meter en niet is uitgerust met een motor, dan wel is uitgerust met een motor waarvan de door de constructie bepaalde maximumsnelheid niet meer dan 45 km per uur bedraagt, en geen bromfiets is;
+- **kruispunt**: kruising of splitsing van wegen;
 
-- s. invoegstrook: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan oprijden;
+- **ligplaats:** ligplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- t. kruispunt: kruising of splitsing van wegen;
+- **lijnbus**: motorvoertuig, gebezigd voor het verrichten van openbaar vervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470);
 
-- u. **ligplaats:** ligplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- **militaire kolonne**: een aantal zich achter elkaar bevindende militaire dan wel bij een onderdeel van de rampenbestrijdingsorganisatie in gebruik zijnde motorvoertuigen, onder één commandant, die de door Onze Minister in overeenstemming met Onze Minister van Defensie vastgestelde herkenningstekens voeren;
 
-- v. lijnbus: motorvoertuig, gebezigd voor het verrichten van openbaar vervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470);
+- **motorfiets**: motorvoertuig op twee wielen al dan niet met zijspan- of aanhangwagen;
 
-- w. vervallen;
+- **motorvoertuigen**: alle gemotoriseerde voertuigen behalve bromfietsen, fietsen met trapondersteuning en gehandicaptenvoertuigen, bestemd om anders dan langs rails te worden voortbewogen;
 
-- x. militaire kolonne: een aantal zich achter elkaar bevindende militaire dan wel bij een onderdeel van de rampenbestrijdingsorganisatie in gebruik zijnde motorvoertuigen, onder één commandant, die de door Onze Minister in overeenstemming met Onze Minister van Defensie vastgestelde herkenningstekens voeren;
+- **nacht**: de periode tussen zonsondergang en zonsopgang;
 
-- y. motorfiets: motorvoertuig op twee wielen al dan niet met zijspan- of aanhangwagen;
+- **overweg**: kruising van een weg en een spoorweg die wordt aangeduid door middel van bord J12 of J13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01);
 
-- z. motorvoertuigen: alle gemotoriseerde voertuigen behalve bromfietsen, fietsen met trapondersteuning en gehandicaptenvoertuigen, bestemd om anders dan langs rails te worden voortbewogen;
+- **parkeerhaven of parkeerstrook**: langs de rijbaan gelegen verharding die is bestemd voor stilstaande of geparkeerde voertuigen;
 
-- aa. nacht: de periode tussen zonsondergang en zonsopgang;
+- **parkeren**: het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen;
 
-- aab. overweg: kruising van een weg en een spoorweg die wordt aangeduid door middel van bord J12 of J13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01);
+- **personenauto**: personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- ab. parkeerhaven of parkeerstrook: langs de rijbaan gelegen verharding die is bestemd voor stilstaande of geparkeerde voertuigen;
+- **puntstuk**: meerhoekig vlak op het wegdek, opgenomen bij splitsingen of samenvoegingen van wegen, rijstroken of rijbanen;
 
-- ac. parkeren: het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen;
+- **richtlijn 97/24/EG:** richtlijn nr. 97/24/EG van het Europees Parlement en de Raad van 17 juni 1997 betreffende bepaalde onderdelen of eigenschappen van motorvoertuigen op twee of drie wielen (PbEG L 226);
 
-- aca. personenauto: personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- **rijbaan**: elk voor rijdende voertuigen bestemd weggedeelte met uitzondering van de fietspaden en de fiets/bromfietspaden;
 
-- acb. puntstuk: meerhoekig vlak op het wegdek, opgenomen bij splitsingen of samenvoegingen van wegen, rijstroken of rijbanen;
+- **rijstrook**: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan van zodanige breedte dat bestuurders van motorvoertuigen op meer dan twee wielen daarvan gebruik kunnen maken;
 
-- ad. rijbaan: elk voor rijdende voertuigen bestemd weggedeelte met uitzondering van de fietspaden en de fiets/bromfietspaden;
+- **snorfiets**: bromfiets die blijkens de gegevens in het kentekenregister of het voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die niet meer bedraagt dan 25 km per uur of bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
-- ae. rijstrook: door doorgetrokken of onderbroken strepen gemarkeerd gedeelte van de rijbaan van zodanige breedte dat bestuurders van motorvoertuigen op meer dan twee wielen daarvan gebruik kunnen maken;
+- **spitsstrook**: de vluchtstrook die als rijstrook is aangewezen blijkens bord C23-01 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01);
 
-- af. snorfiets: bromfiets die blijkens de gegevens in het kentekenregister of het voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die niet meer bedraagt dan 25 km per uur of bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
+- **T100-bus**: autobus, ten aanzien waarvan uit een aantekening op het kentekenbewijs of uit het kentekenregister blijkt dat hij zodanig is ingericht dat hij in aanmerking komt voor een maximumsnelheid van 100 kilometer per uur. Met een T100-bus als bedoeld in dit besluit wordt gelijkgesteld een autobus die is geregistreerd in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en ten aanzien waarvan uit het kentekenbewijs of uit een verklaring afgegeven door een onafhankelijke keuringsinstelling, afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd, blijkt dat de autobus geschikt is voor een maximumsnelheid van 100 kilometer per uur;
 
-- afa. spitsstrook: de vluchtstrook die als rijstrook is aangewezen blijkens bord C23-01 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01);
+- **uitrijstrook**: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan verlaten;
 
-- afb. T100-bus: autobus, ten aanzien waarvan uit een aantekening op het kentekenbewijs of uit het kentekenregister blijkt dat hij zodanig is ingericht dat hij in aanmerking komt voor een maximumsnelheid van 100 kilometer per uur. Met een T100-bus als bedoeld in dit besluit wordt gelijkgesteld een autobus die is geregistreerd in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en ten aanzien waarvan uit het kentekenbewijs of uit een verklaring afgegeven door een onafhankelijke keuringsinstelling, afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd, blijkt dat de autobus geschikt is voor een maximumsnelheid van 100 kilometer per uur;
+- **uitvaartstoet van motorvoertuigen:** een stoet, bestaande uit motorvoertuigen, die een lijk als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=2) of de as van een gecremeerd lijk begeleiden en die de in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30c&z=2013-01-01&g=2013-01-01) bedoelde herkenningstekens voeren;
 
-- ag. uitrijstrook: door een blokmarkering van de doorgaande rijbaan afgescheiden weggedeelte dat is bestemd voor bestuurders die de doorgaande rijbaan verlaten;
+- **veiligheidscel**: onderdeel van de constructie van een bromfiets, een motorfiets of een driewielig motorvoertuig dat de bestuurder of passagiers beschermt tegen hoofdletsel;
 
-- aga. **uitvaartstoet van motorvoertuigen:** een stoet, bestaande uit motorvoertuigen, die een lijk als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=2) of de as van een gecremeerd lijk begeleiden en die de in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30c&z=2012-09-01&g=2012-09-01) bedoelde herkenningstekens voeren;
+- **verdrijvingsvlak**: gedeelte van de rijbaan waarop schuine strepen zijn aangebracht;
 
-- ah. veiligheidscel: onderdeel van de constructie van een bromfiets, een motorfiets of een driewielig motorvoertuig dat de bestuurder of passagiers beschermt tegen hoofdletsel;
+- **verkeer**: alle weggebruikers;
 
-- ai. verdrijvingsvlak: gedeelte van de rijbaan waarop schuine strepen zijn aangebracht;
+- **verkeersregelaar**: persoon als bedoeld in [artikel 1, onderdeel f, van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1);
 
-- aj. verkeer: alle weggebruikers;
+- **verlicht transparant**: verlicht transparant als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- aja. verkeersregelaar: persoon als bedoeld in [artikel 1, onderdeel f, van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1);
+- **vluchthaven of vluchtstrook**: door een doorgetrokken streep van de rijbaan van de autosnelweg of autoweg afgescheiden weggedeelte, dat bestemd is voor gebruik in noodgevallen, behoudens voor de duur van openstelling als spitsstrook;
 
-- aj1. verlicht transparant: verlicht transparant als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- **voertuigen**: fietsen, bromfietsen, gehandicaptenvoertuigen, motorvoertuigen, trams en wagens;
 
-- ak. vluchthaven of vluchtstrook: door een doorgetrokken streep van de rijbaan van de autosnelweg of autoweg afgescheiden weggedeelte, dat bestemd is voor gebruik in noodgevallen, behoudens voor de duur van openstelling als spitsstrook;
+- **voorrang verlenen**: het de betrokken bestuurders in staat stellen ongehinderd hun weg te vervolgen;
 
-- al. voertuigen: fietsen, bromfietsen, gehandicaptenvoertuigen, motorvoertuigen, trams en wagens;
+- **voorrangsvoertuig**: motorvoertuig dat de optische en geluidssignalen voert als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2013-01-01&g=2013-01-01);
 
-- am. voorrang verlenen: het de betrokken bestuurders in staat stellen ongehinderd hun weg te vervolgen;
+- **vrachtauto**: motorvoertuig, niet ingericht voor het vervoer van personen, waarvan de toegestane maximum massa meer bedraagt dan 3500 kg;
 
-- an. voorrangsvoertuig: motorvoertuig dat de optische en geluidssignalen voert als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2012-09-01&g=2012-09-01);
+- **weggebruikers**: voetgangers, fietsers, bromfietsers, bestuurders van een gehandicaptenvoertuig, van een motorvoertuig of van een tram, ruiters, geleiders van rij- of trekdieren of vee en bestuurders van een bespannen of onbespannen wagen;
 
-- ao. vrachtauto: motorvoertuig, niet ingericht voor het vervoer van personen, waarvan de toegestane maximum massa meer bedraagt dan 3500 kg;
+- **wet**: [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622);
 
-- ap. weggebruikers: voetgangers, fietsers, bromfietsers, bestuurders van een gehandicaptenvoertuig, van een motorvoertuig of van een tram, ruiters, geleiders van rij- of trekdieren of vee en bestuurders van een bespannen of onbespannen wagen;
-
-- aq. wet: [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622);
-
-- ar. zitplaats: zitplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
+- **zitplaats**: zitplaats als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
 
 ##### Artikel 1a
 
@@ -224,11 +220,11 @@ De regels van dit besluit betreffende fietsen en fietsers zijn, in plaats van de
 
 3. Zij mogen het onverplichte fietspad gebruiken. Bestuurders van snorfietsen uitgerust met een verbrandingsmotor mogen het onverplichte fietspad slechts gebruiken met uitgeschakelde motor.
 
-4. Bestuurders van fietsen op meer dan twee wielen en fietsen met aanhangwagen, die met inbegrip van de lading breder zijn dan 0,75 meter, mogen de rijbaan gebruiken.
+4. Bestuurders van fietsen op meer dan twee wielen die met inbegrip van de lading breder zijn dan 0,75 meter en van fietsen met aanhangwagen die met inbegrip van de lading breder zijn dan 0,75 meter mogen de rijbaan gebruiken.
 
-5. Bestuurders vanaf 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) die beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten mogen het trottoir en het voetpad gebruiken.
+5. Bestuurders vanaf 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) mogen het trottoir en het voetpad gebruiken indien zij beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten.
 
-6. Bestuurders jonger dan 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) die beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten gebruiken het trottoir of het voetpad.
+6. Bestuurders jonger dan 16 jaar van snorfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) gebruiken het trottoir of het voetpad indien zij beschikken over een gehandicaptenparkeerkaart of een bij ministeriële regeling aangewezen kaart ten behoeve van het vervoer van gehandicapten.
 
 7. Het eerste lid, het tweede lid en het vierde lid gelden niet voor bestuurders als bedoeld in het zesde lid.
 
@@ -256,7 +252,7 @@ Voetgangers mogen de rijbaan gebruiken, indien zij een kolonne, een optocht of e
 
 ##### Artikel 10
 
-1. Andere bestuurders dan die genoemd in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-09-01&g=2012-09-01) gebruiken de rijbaan. Deze bestuurders en voetgangers die een aanhangwagen voortbewegen die kennelijk bestemd is om door een motorvoertuig te worden voortbewogen, mogen voor het parkeren van hun voertuig tevens andere weggedeelten gebruiken, behalve het trottoir, het voetpad, het fietspad, het fiets/bromfietspad of het ruiterpad.
+1. Andere bestuurders dan die genoemd in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01) gebruiken de rijbaan. Deze bestuurders en voetgangers die een aanhangwagen voortbewegen die kennelijk bestemd is om door een motorvoertuig te worden voortbewogen, mogen voor het parkeren van hun voertuig tevens andere weggedeelten gebruiken, behalve het trottoir, het voetpad, het fietspad, het fiets/bromfietspad of het ruiterpad.
 
 2. Andere bestuurders dan fietsers en bestuurders van een gehandicaptenvoertuig mogen fietsstroken met doorgetrokken strepen niet gebruiken.
 
@@ -336,7 +332,9 @@ Weggebruikers mogen militaire kolonnes en uitvaartstoeten van motorvoertuigen ni
 
 2. Bestuurders die naar links afslaan, moeten tegemoetkomende bestuurders die op hetzelfde kruispunt naar rechts afslaan voor laten gaan.
 
-3. Het eerste en het tweede lid gelden niet voor bestuurders van een tram.
+3. In afwijking van het eerste lid moeten bestuurders die zich dicht achter een bestuurder bevinden die links of rechts is voorgesorteerd of die op de uiterste rechter- of linkerrijstrook van zijn weggedeelte rijdt en die te kennen heeft gegeven dat hij wil afslaan, die bestuurder voor laten gaan.
+
+4. Het eerste tot en met derde lid gelden niet voor bestuurders van een tram.
 
 #### § 8. Maximumsnelheid
 
@@ -436,13 +434,13 @@ Voor zover niet ingevolge andere artikelen van dit besluit een lagere maximumsne
 
 - f. op een gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen;
 
-- g. op een parkeerplaats voor vergunninghouders, aangeduid door verkeersbord E9 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), indien voor zijn voertuig geen vergunning tot parkeren op die plaats is verleend.
+- g. op een parkeerplaats voor vergunninghouders, aangeduid door verkeersbord E9 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), indien voor zijn voertuig geen vergunning tot parkeren op die plaats is verleend.
 
-2. Indien onder de verkeersborden E4 tot en met E8, E12 en E13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), op een onderbord dagen of uren zijn vermeld, gelden de uit het bord of onderbord voortvloeiende geboden of verboden slechts gedurende de aangegeven dagen of uren.
+2. Indien onder de verkeersborden E4 tot en met E8, E12 en E13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), op een onderbord dagen of uren zijn vermeld, gelden de uit het bord of onderbord voortvloeiende geboden of verboden slechts gedurende de aangegeven dagen of uren.
 
 3. De bestuurder mag zijn voertuig niet dubbel parkeren.
 
-4. Indien een parkeergelegenheid, aangeduid met een van de verkeersborden E 4 tot en met E 13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), is voorzien van parkeervakken, mag slechts in die vakken worden geparkeerd.
+4. Indien een parkeergelegenheid, aangeduid met een van de verkeersborden E4 tot en met E9 of E11 tot en met E13 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), is voorzien van parkeervakken, mag slechts in die vakken worden geparkeerd.
 
 ##### Artikel 25
 
@@ -466,7 +464,7 @@ Voor zover niet ingevolge andere artikelen van dit besluit een lagere maximumsne
 
 - c. indien de gehandicaptenparkeerplaats is gereserveerd voor een bepaald voertuig, dat voertuig.
 
-2. Indien op een onderbord een maximale parkeerduur is vermeld, is [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2012-09-01&g=2012-09-01), van overeenkomstige toepassing, met dien verstande dat de parkeerplaats niet hoeft te zijn voorzien van een blauwe streep.
+2. Indien op een onderbord een maximale parkeerduur is vermeld, is [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing, met dien verstande dat de parkeerplaats niet hoeft te zijn voorzien van een blauwe streep.
 
 #### § 11. Het plaatsen van fietsen en bromfietsen
 
@@ -490,13 +488,13 @@ Bestuurders mogen slechts geluidssignalen en knippersignalen geven ter afwending
 
 ##### Artikel 30
 
-1. Bestuurders van motorvoertuigen die voor nader aan te geven werkzaamheden worden gebruikt, voeren onder nader aan te geven omstandigheden geel of groen zwaai-, flits- of knipperlicht. De in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2012-09-01&g=2012-09-01), genoemde bestuurders voeren in die gevallen geel of groen zwaai-, flits- of knipperlicht in plaats van blauw zwaai-, flits- of knipperlicht. De bestuurder van het motorvoertuig die als eerste of enige de plek bereikt om de daar aan hem opgedragen taak uit te voeren, mag in plaats van dat licht, blauw zwaai-, flits- of knipperlicht voeren.
+1. Bestuurders van motorvoertuigen die voor nader aan te geven werkzaamheden worden gebruikt, voeren onder nader aan te geven omstandigheden geel of groen zwaai-, flits- of knipperlicht. De in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2013-01-01&g=2013-01-01), genoemde bestuurders voeren in die gevallen geel of groen zwaai-, flits- of knipperlicht in plaats van blauw zwaai-, flits- of knipperlicht. De bestuurder van het motorvoertuig die als eerste of enige de plek bereikt om de daar aan hem opgedragen taak uit te voeren, mag in plaats van dat licht, blauw zwaai-, flits- of knipperlicht voeren.
 
 2. Bij ministeriële regeling worden voorschriften vastgesteld betreffende het geel of groen zwaai-, flits- of knipperlicht en de werkzaamheden en omstandigheden waarbij deze signalen worden gevoerd.
 
 ##### Artikel 31
 
-Signalen mogen niet worden gegeven en de in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30c&z=2012-09-01&g=2012-09-01) bedoelde herkenningstekens mogen niet worden gevoerd in andere gevallen of op andere wijze dan bij of krachtens de artikelen in deze paragraaf is bepaald.
+Signalen mogen niet worden gegeven en de in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30c&z=2013-01-01&g=2013-01-01) bedoelde herkenningstekens mogen niet worden gevoerd in andere gevallen of op andere wijze dan bij of krachtens de artikelen in deze paragraaf is bepaald.
 
 #### § 13. Gebruik van lichten tijdens het rijden
 
@@ -564,7 +562,7 @@ Stilstaande wagens moeten buiten de bebouwde kom op de rijbaan bij dag, indien h
 
 ##### Artikel 41
 
-1. Onverminderd [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=32&z=2012-09-01&g=2012-09-01), mogen bestuurders van een motorvoertuig bij dag dagrijlicht voeren. Het dagrijlicht wordt niet tegelijk met enig ander licht aan de voorzijde van het voertuig gevoerd.
+1. Onverminderd [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=32&z=2013-01-01&g=2013-01-01), mogen bestuurders van een motorvoertuig bij dag dagrijlicht voeren. Het dagrijlicht wordt niet tegelijk met enig ander licht aan de voorzijde van het voertuig gevoerd.
 
 2. Bestuurders van een motorvoertuig mogen tegelijk met dimlicht of mistlicht aan de voorzijde bermlicht, bochtlicht, hoeklicht, richtlicht, markeringslichten of staaklichten voeren.
 
@@ -594,13 +592,13 @@ Voetgangers mogen wegen gelegen binnen een erf over de volle breedte gebruiken.
 
 ##### Artikel 45
 
-Bestuurders mogen binnen een erf niet sneller rijden dan stapvoets.
+Bestuurders mogen binnen een erf niet sneller rijden dan 15 km per uur.
 
 ##### Artikel 46
 
 1. Het is bestuurders van een motorvoertuig verboden binnen een erf te parkeren anders dan op parkeerplaatsen die als zodanig zijn aangeduid of aangegeven.
 
-2. Indien het erf tevens is aangeduid als parkeerschijf-zone, is ten aanzien van het parkeren van voertuigen [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2012-09-01&g=2012-09-01) van toepassing.
+2. Indien het erf tevens is aangeduid als parkeerschijf-zone, is ten aanzien van het parkeren van voertuigen [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2013-01-01&g=2013-01-01) van toepassing.
 
 #### § 16. Autosnelwegen en autowegen
 
@@ -622,7 +620,7 @@ Het is bestuurders toegestaan vlak voor of op rotondes rechts in te halen.
 
 3. Het tweede lid geldt niet voor bestuurders van een motorvoertuig dat behoort tot een militaire kolonne of een uitvaartstoet van motorvoertuigen.
 
-4. Het tweede lid geldt evenmin, indien voor de voetgangers en de bestuurders van een gehandicaptenvoertuig een rood voetgangerslicht of een geel knipperlicht als bedoeld in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=74&z=2012-09-01&g=2012-09-01), van toepassing is.
+4. Het tweede lid geldt evenmin, indien voor de voetgangers en de bestuurders van een gehandicaptenvoertuig een rood voetgangerslicht of een geel knipperlicht als bedoeld in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=74&z=2013-01-01&g=2013-01-01), van toepassing is.
 
 #### § 19. Voetgangers
 
@@ -692,13 +690,19 @@ Bestuurders van een motorvoertuig, bromfietsers en snorfietsers mogen met hun vo
 
 3. Passagiers die jonger zijn dan 18 jaar, worden niet in een naar achteren gericht kinderbeveiligingssysteem op een passagierszitplaats met een voorairbag vervoerd, tenzij deze airbag is uitgeschakeld of automatisch op toereikende wijze wordt uitgeschakeld.
 
-4. Het eerste lid geldt niet voor passagiers die gebruik maken van een rolstoel. Deze passagiers worden vervoerd in een rolstoel die in het voertuig wordt vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt. Deze passagiers maken gebruik van de veiligheidsgordel die deel uitmaakt van het voertuig of van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd, tenzij gebruik gemaakt wordt van een door Onze Minister aangewezen constructie.
+4. Het eerste lid geldt niet voor passagiers die gebruik maken van een rolstoel. Deze passagiers worden vervoerd in een rolstoel die in het voertuig wordt vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt. Deze passagiers maken gebruik van:
+
+- a. de voor hen beschikbare veiligheidsgordel die deel uitmaakt van het voertuig,
+
+- b. de veiligheidsgordel die deel uitmaakt van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd, of
+
+- c. een door Onze Minister aangewezen constructie.
 
 5. Het eerste lid, tweede volzin, en het tweede lid zijn niet van toepassing tijdens vervoer in taxi’s. In taxi’s waarin geen kinderbeveiligingssysteem aanwezig is, worden passagiers die jonger zijn dan 18 jaar en met een lengte van minder dan 1,35 meter op een andere zitplaats dan een van de voorste zitplaatsen vervoerd.
 
 6. Het eerste lid voor zover dat op bestuurders betrekking heeft en het vierde lid gelden niet tijdens het vervoer van passagiers tegen vergoeding in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) en tijdens vraagafhankelijk openbaar vervoer in taxi’s, anders dan in de gevallen waarin een overeenkomst is gesloten als bedoeld in [artikel 84, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=84), of anders dan tijdens taxivervoer in een taxi die is ingericht voor rolstoelvervoer overeenkomstig de daaromtrent gestelde eisen in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798).
 
-7. De autogordel of het kinderbeveiligingssysteem wordt gebruikt op een wijze die de beschermende werking ervan niet negatief beïnvloedt of kan beïnvloeden. Personen van 18 jaar en ouder en personen onder de 18 jaar die in de betrokken omstandigheden geen gebruik hoeven maken van een kinderbeveiligingssysteem, kunnen een voorziening gebruiken door middel waarvan het diagonale deel van de autogordel over de schouder wordt geleid. Onze Minister kan aan een dergelijke voorziening nadere eisen stellen.
+7. De autogordel, de veiligheidsgordel of het kinderbeveiligingssysteem wordt gebruikt op een wijze die de beschermende werking ervan niet negatief beïnvloedt of kan beïnvloeden. Personen van 18 jaar en ouder en personen onder de 18 jaar die in de betrokken omstandigheden geen gebruik hoeven maken van een kinderbeveiligingssysteem, kunnen een voorziening gebruiken door middel waarvan het diagonale deel van de autogordel over de schouder wordt geleid. Onze Minister kan aan een dergelijke voorziening nadere eisen stellen.
 
 8. Het is bestuurders van de in het eerste lid genoemde voertuigen verboden passagiers jonger dan 12 jaar en passagiers die gebruik maken van een rolstoel te vervoeren op een andere wijze dan in dit artikel is voorgeschreven.
 
@@ -708,7 +712,7 @@ Bestuurders van een motorvoertuig, bromfietsers en snorfietsers mogen met hun vo
 
 ##### Artikel 60
 
-1. De bestuurder en de passagiers van bromfietsen, brommobielen zonder gesloten carrosserie, motorfietsen en driewielige motorvoertuigen moeten een goed passende helm dragen, die door middel van een sluiting op deugdelijke wijze op het hoofd is bevestigd en die is voorzien van een goedkeuringsmerk als bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22).
+1. De bestuurder en de passagiers van bromfietsen, brommobielen zonder gesloten carrosserie, motorfietsen en driewielige motorvoertuigen zonder gesloten carrosserie moeten een goed passende helm dragen, die door middel van een sluiting op deugdelijke wijze op het hoofd is bevestigd en die is voorzien van een goedkeuringsmerk als bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22).
 
 2. Het eerste lid geldt niet voor:
 
@@ -716,9 +720,9 @@ Bestuurders van een motorvoertuig, bromfietsers en snorfietsers mogen met hun vo
 
 - b. de bestuurder en de achter hem zittende passagier van een brombakfiets;
 
-- c. de bestuurder of de passagier van een door de Dienst Wegverkeer aangewezen type bromfiets, niet zijnde een brommobiel, of motorfiets van wie de zitplaats beschermd wordt door een veiligheidscel en voorzien is van autogordels. Bij de aanwijzing kan onderscheid gemaakt worden tussen de bestuurder en de passagiers ten aanzien van de gelding van het eerste lid. Bij ministeriële regeling worden regels gesteld betreffende de eisen waaraan een type bromfiets of motorfiets moet voldoen om te kunnen worden aangewezen. Deze regels zien in elk geval op de eisen die gesteld worden aan de veiligheidscel en de autogordels;
+- c. de bestuurder of de passagier van een door de Dienst Wegverkeer aangewezen type bromfiets, niet zijnde een brommobiel, of motorfiets van wie de zitplaats beschermd wordt door een veiligheidscel en voorzien is van een autogordel, mits van deze autogordel gebruik gemaakt wordt. Bij de aanwijzing kan onderscheid gemaakt worden tussen de bestuurder en de passagiers ten aanzien van de gelding van het eerste lid. Bij ministeriële regeling worden regels gesteld betreffende de eisen waaraan een type bromfiets of motorfiets moet voldoen om te kunnen worden aangewezen. Deze regels zien in elk geval op de eisen die gesteld worden aan de veiligheidscel en de autogordels;
 
-- d. de bestuurder of de passagiers van een brommobiel zonder gesloten carrosserie of een driewielig motorvoertuig, van wie de zitplaats in deze brommobiel of dat motorvoertuig is voorzien van bevestigingspunten voor autogordels overeenkomstig het bepaalde in [richtlijn 97/24/EG](31997L0024), zoals deze gold op de datum waarop het voertuig in gebruik is genomen, en van autogordels die voldoen aan het bepaalde in [artikel 5.2.47, vijfde en zesde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.2.47).
+- d. de bestuurder of de passagiers van een brommobiel zonder gesloten carrosserie of een driewielig motorvoertuig zonder gesloten carrosserie van wie de zitplaats in deze brommobiel of dat motorvoertuig is voorzien van bevestigingspunten voor een autogordel overeenkomstig richtlijn 97/24/EG, zoals deze gold op de datum waarop het voertuig in gebruik is genomen, en van een autogordel die voldoet aan [artikel 5.6.47, derde en vierde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.47) of aan [artikel 5.5.47, vierde en vijfde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.5.47), mits van deze autogordel gebruik gemaakt wordt.
 
 3. Het is bestuurders verboden passagiers beneden de twaalf jaren te vervoeren op een andere wijze dan in dit artikel is voorgeschreven.
 
@@ -760,7 +764,7 @@ Verkeerslichten gaan boven verkeerstekens die de voorrang regelen.
 
 1. Ingeval een weg is verdeeld in rijstroken, kan de toepassing van een verkeersbord worden beperkt tot één of meer rijstroken.
 
-2. De verkeersborden E1, E2 en E3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01) gelden slechts voor de zijde van de weg alwaar zij zijn geplaatst.
+2. De verkeersborden E1, E2 en E3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01) gelden slechts voor de zijde van de weg alwaar zij zijn geplaatst.
 
 3. Het parkeren van een voertuig en het plaatsen van een fiets en van een bromfiets is echter toegestaan op de daartoe bestemde weggedeelten.
 
@@ -770,7 +774,7 @@ Verkeerslichten gaan boven verkeerstekens die de voorrang regelen.
 
 2. Indien boven een verkeersbord het woord «zone» is aangebracht zonder aanduiding van het gebied van de zone, geldt het verkeersbord in een gebied dat wordt begrensd door het verkeersbord en een of meer in samenhang met dat verkeersbord geplaatste borden waarmee het einde van de zone wordt aangeduid.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing, als bord E 10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01) is geplaatst.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing, als bord E 10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01) is geplaatst.
 
 ##### Artikel 67
 
@@ -784,7 +788,7 @@ Verkeerslichten gaan boven verkeerstekens die de voorrang regelen.
 
 2. Indien het beoogde verkeersgedrag wordt aangegeven door middel van teksten of tekens al dan niet in combinatie met symbolen, blijkt het beoogde verkeersgedrag uit het onderbord.
 
-3. Symbolen op onderborden hebben dezelfde betekenis als die welke in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01) zijn opgenomen.
+3. Symbolen op onderborden hebben dezelfde betekenis als die welke in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01) zijn opgenomen.
 
 #### § 30. Gebruik van mobiele telecommunicatieapparatuur
 
@@ -818,7 +822,7 @@ Verkeerslichten gaan boven verkeerstekens die de voorrang regelen.
 
 - b. rood licht: stop.
 
-2. Het tweede tot en met zevende lid van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=68&z=2012-09-01&g=2012-09-01) zijn van overeenkomstige toepassing.
+2. Het tweede tot en met zevende lid van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=68&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 70
 
@@ -852,7 +856,7 @@ Bij bruglichten betekent rood licht of rood knipperlicht: stop.
 
 Bij rijstrooklichten betekent:
 
-- a. groene pijl of maximumsnelheid, aangeduid door bord A3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01): de rijstrook mag worden gebruikt;
+- a. groene pijl of maximumsnelheid, aangeduid door bord A3 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01): de rijstrook mag worden gebruikt;
 
 - b. rood kruis: de rijstrook mag niet worden gebruikt. De vluchtstrook mag alleen in noodgevallen worden gebruikt;
 
@@ -872,7 +876,7 @@ Bij rijstrooklichten betekent:
 
 - c. rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.
 
-2. Indien het rode licht is vervangen door een geel knipperlicht als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=75&z=2012-09-01&g=2012-09-01), mogen voetgangers oversteken, mits zij het overige verkeer ter plaatse voor laten gaan.
+2. Indien het rode licht is vervangen door een geel knipperlicht als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=75&z=2013-01-01&g=2013-01-01), mogen voetgangers oversteken, mits zij het overige verkeer ter plaatse voor laten gaan.
 
 ##### Artikel 75
 
@@ -882,17 +886,15 @@ Geel knipperlicht betekent: gevaarlijk punt; voorzichtigheid geboden.
 
 ##### Artikel 76
 
-1. Een doorgetrokken streep die zich niet langs de rand van de rijbaanverharding bevindt, mag niet worden overschreden.
+1. Een doorgetrokken streep die zich niet langs de rand van de rijbaanverharding bevindt, mag niet worden overschreden. Bestuurders mogen zich niet links van een doorgetrokken streep bevinden, indien die streep is aangebracht tussen rijstroken of paden met verkeer in beide richtingen.
 
-2. Het eerste lid is niet van toepassing als:
+2. Het eerste lid is niet van toepassing:
 
-- a. de streep wordt overschreden om een naast de gevolgde rijstrook gelegen vluchthaven, vluchtstrook of spitsstrook te bereiken of te verlaten;
+- a. indien de streep wordt overschreden om een naast de gevolgde rijstrook gelegen vluchthaven, vluchtstrook of spitsstrook te bereiken of te verlaten;
 
-- b. aan de zijde vanwaar men de streep overschrijdt een onderbroken streep is aangebracht;
+- b. indien aan de zijde vanwaar men de streep overschrijdt een onderbroken streep is aangebracht;
 
-- c. zich een doorgetrokken streep bevindt tussen rijstroken voor verkeer in tegenovergestelde richtingen en aan de rechterzijde van de doorgetrokken streep een onderbroken streep is aangebracht;
-
-- d. zich een doorgetrokken streep bevindt tussen een rijstrook en een fietsstrook, voor bestuurders die ingevolge [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=10&z=2012-09-01&g=2012-09-01), de fietsstrook mogen gebruiken.
+- c. op bestuurders die een fietsstrook mogen gebruiken, indien er tussen die fietsstrook en de ernaast gelegen rijstrook een doorgetrokken streep is aangebracht.
 
 ##### Artikel 77
 
@@ -938,9 +940,9 @@ Busbanen en busstroken waarop het woord «BUS» is aangebracht mogen slechts wor
 
 2. Bij het geven van aanwijzingen door middel van gebaren worden, voor zover mogelijk, de in bijlage II vastgestelde aanwijzingen gegeven.
 
-3. Bestuurders zijn tevens verplicht de in [bijlage II, onderdeel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2&z=2012-09-01&g=2012-09-01), vastgestelde aanwijzing om te stoppen op te volgen die wordt gegeven door daartoe bevoegde en als zodanig kenbare verkeersbrigadiers.
+3. Bestuurders zijn tevens verplicht de in [bijlage II, onderdeel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2&z=2013-01-01&g=2013-01-01), vastgestelde aanwijzing om te stoppen op te volgen die wordt gegeven door daartoe bevoegde en als zodanig kenbare verkeersbrigadiers.
 
-4. Weggebruikers zijn voorts verplicht te stoppen indien hen door een begeleider van een railvoertuig een stopteken volgens model F10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), een rode vlag of een rode lamp wordt getoond.
+4. Weggebruikers zijn voorts verplicht te stoppen indien hen door een begeleider van een railvoertuig een stopteken volgens model F10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), een rode vlag of een rode lamp wordt getoond.
 
 ##### Artikel 83
 
@@ -958,9 +960,9 @@ Aanwijzingen gaan boven verkeerstekens en verkeersregels.
 
 ##### Artikel 85
 
-1. Op bestuurders van een motorvoertuig op meer dan twee wielen waarin op de door Onze Minister voorgeschreven wijze een geldige en behoorlijk leesbare gehandicaptenparkeerkaart is aangebracht, zijn [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2012-09-01&g=2012-09-01) en, indien niet langer wordt geparkeerd dan drie uren, de [artikelen 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2012-09-01&g=2012-09-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2012-09-01&g=2012-09-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2012-09-01&g=2012-09-01), voor zover het betreft bord E1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), niet van toepassing.
+1. Op bestuurders van een motorvoertuig op meer dan twee wielen waarin op de door Onze Minister voorgeschreven wijze een geldige en behoorlijk leesbare gehandicaptenparkeerkaart is aangebracht, zijn [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2013-01-01&g=2013-01-01) en, indien niet langer wordt geparkeerd dan drie uren, de [artikelen 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2013-01-01&g=2013-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2013-01-01&g=2013-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2013-01-01&g=2013-01-01), voor zover het betreft bord E1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), niet van toepassing.
 
-2. Op bestuurders van gehandicaptenvoertuigen, zijn [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2012-09-01&g=2012-09-01) en, indien niet langer wordt geparkeerd dan drie uren, de [artikelen 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2012-09-01&g=2012-09-01), en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2012-09-01&g=2012-09-01), voor zover het betreft bord E1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), niet van toepassing.
+2. Op bestuurders van gehandicaptenvoertuigen, zijn [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2013-01-01&g=2013-01-01) en, indien niet langer wordt geparkeerd dan drie uren, de [artikelen 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2013-01-01&g=2013-01-01), en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2013-01-01&g=2013-01-01), voor zover het betreft bord E1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), niet van toepassing.
 
 3. In de gevallen, waarin niet langer dan drie uren mag worden geparkeerd, moet het motorvoertuig overeenkomstig het bij ministeriële regeling bepaalde zijn voorzien van een duidelijk zichtbare parkeerschijf waarop het tijdstip staat aangegeven waarop met parkeren is begonnen.
 
@@ -974,7 +976,7 @@ Met een gehandicaptenparkeerkaart worden gelijkgesteld de door het daartoe bevoe
 
 ##### Artikel 86a
 
-1. In geval van een ernstige verstoring van de olieaanvoer kan bij regeling van Onze Minister worden bepaald dat op autosnelwegen en op autowegen, in afwijking van [artikel 21, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=21&z=2012-09-01&g=2012-09-01), voor motorvoertuigen een maximumsnelheid geldt van 90 kilometer per uur.
+1. In geval van een ernstige verstoring van de olieaanvoer kan bij regeling van Onze Minister worden bepaald dat op autosnelwegen en op autowegen, in afwijking van [artikel 21, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=21&z=2013-01-01&g=2013-01-01), voor motorvoertuigen een maximumsnelheid geldt van 90 kilometer per uur.
 
 2. Het eerste lid is niet van toepassing op vrachtauto’s, motorvoertuigen met aanhangwagen of autobussen, niet zijnde T100-bussen.
 
@@ -984,7 +986,7 @@ Met een gehandicaptenparkeerkaart worden gelijkgesteld de door het daartoe bevoe
 
 ##### Artikel 86b
 
-Het is de bestuurders van de in [artikel 86a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2012-09-01&g=2012-09-01), bedoelde motorvoertuigen verboden de ingevolge [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2012-09-01&g=2012-09-01) bepaalde maximumsnelheid te overschrijden.
+Het is de bestuurders van de in [artikel 86a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2013-01-01&g=2013-01-01), bedoelde motorvoertuigen verboden de ingevolge [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2013-01-01&g=2013-01-01) bepaalde maximumsnelheid te overschrijden.
 
 ### Hoofdstuk IV. Aanwijzingen
 
@@ -992,7 +994,7 @@ Het is de bestuurders van de in [artikel 86a, eerste lid](https://wetten.overhei
 
 ##### Artikel 87
 
-Door het bevoegd gezag kan ontheffing worden verleend van de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-09-01&g=2012-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=4&z=2012-09-01&g=2012-09-01), [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-09-01&g=2012-09-01), [6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=6&z=2012-09-01&g=2012-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=8&z=2012-09-01&g=2012-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=10&z=2012-09-01&g=2012-09-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=9&artikel=23&z=2012-09-01&g=2012-09-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2012-09-01&g=2012-09-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2012-09-01&g=2012-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=26&z=2012-09-01&g=2012-09-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=16&artikel=42&z=2012-09-01&g=2012-09-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=16&artikel=43&z=2012-09-01&g=2012-09-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2012-09-01&g=2012-09-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=23&artikel=53&z=2012-09-01&g=2012-09-01), [61b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=31&artikel=61b&z=2012-09-01&g=2012-09-01), alsmede [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2012-09-01&g=2012-09-01) voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C21, C22a, D2, D4 tot en met D7, E1 tot en met E3, F7 en de verkeerstekens genoemd in de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=73&z=2012-09-01&g=2012-09-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=76&z=2012-09-01&g=2012-09-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=77&z=2012-09-01&g=2012-09-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=78&z=2012-09-01&g=2012-09-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=81&z=2012-09-01&g=2012-09-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VIII&artikel=98&z=2012-09-01&g=2012-09-01).
+Door het bevoegd gezag kan ontheffing worden verleend van de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), [6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=8&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=9&artikel=23&z=2013-01-01&g=2013-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=24&z=2013-01-01&g=2013-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=25&z=2013-01-01&g=2013-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=10&artikel=26&z=2013-01-01&g=2013-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=16&artikel=42&z=2013-01-01&g=2013-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=16&artikel=43&z=2013-01-01&g=2013-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2013-01-01&g=2013-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=23&artikel=53&z=2013-01-01&g=2013-01-01), [61b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=31&artikel=61b&z=2013-01-01&g=2013-01-01), alsmede [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2013-01-01&g=2013-01-01) voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C21, C22a, D2, D4 tot en met D7, E1 tot en met E3, F7 en de verkeerstekens genoemd in de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=73&z=2013-01-01&g=2013-01-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=76&z=2013-01-01&g=2013-01-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=77&z=2013-01-01&g=2013-01-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=78&z=2013-01-01&g=2013-01-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=4&artikel=81&z=2013-01-01&g=2013-01-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VIII&artikel=98&z=2013-01-01&g=2013-01-01).
 
 #### § 1. Verplichtingen weggebruikers
 
@@ -1030,7 +1032,7 @@ Bestuurders van een voorrangsvoertuig mogen afwijken van de voorschriften van di
 
 ##### Artikel 92
 
-1. Overtreding van de [artikelen 3 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-09-01&g=2012-09-01), [14 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=4&artikel=14&z=2012-09-01&g=2012-09-01), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30&z=2012-09-01&g=2012-09-01), [31 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=31&z=2012-09-01&g=2012-09-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=45&z=2012-09-01&g=2012-09-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2012-09-01&g=2012-09-01), [49 tot en met 61b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=19&artikel=49&z=2012-09-01&g=2012-09-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2012-09-01&g=2012-09-01), met uitzondering van verkeersbord C22 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01), [68, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=68&z=2012-09-01&g=2012-09-01), [74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=74&z=2012-09-01&g=2012-09-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=82&z=2012-09-01&g=2012-09-01), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=82a&z=2012-09-01&g=2012-09-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=83&z=2012-09-01&g=2012-09-01) en [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86b&z=2012-09-01&g=2012-09-01) is een strafbaar feit.
+1. Overtreding van de [artikelen 3 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), [14 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-01-01&g=2013-01-01), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=30&z=2013-01-01&g=2013-01-01), [31 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=31&z=2013-01-01&g=2013-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=45&z=2013-01-01&g=2013-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=46&z=2013-01-01&g=2013-01-01), [49 tot en met 61b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=19&artikel=49&z=2013-01-01&g=2013-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=1&artikel=62&z=2013-01-01&g=2013-01-01), met uitzondering van verkeersbord C22 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01), [68, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=68&z=2013-01-01&g=2013-01-01), [74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=III&paragraaf=3&artikel=74&z=2013-01-01&g=2013-01-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=82&z=2013-01-01&g=2013-01-01), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=82a&z=2013-01-01&g=2013-01-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=IV&paragraaf=1&artikel=83&z=2013-01-01&g=2013-01-01) en [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86b&z=2013-01-01&g=2013-01-01) is een strafbaar feit.
 
 2. Bij de veroordeling van de bestuurder van een motorvoertuig, een bromfietser of een snorfietser wegens een overtreding als bedoeld in het eerste lid kan hem de bevoegdheid om motorvoertuigen, bromfietsen en snorfietsen te besturen voor ten hoogste twee jaren worden ontzegd.
 
@@ -1050,7 +1052,7 @@ Vervallen
 
 ##### Artikel 96
 
-1. De in de rechterkolom genoemde borden volgens het model van bijlage 2, behorende bij het met ingang van 1 november 1991 ingetrokken Reglement verkeersregels en verkeerstekens (Stb. 1966, 181), blijven van kracht. Zij hebben de betekenis die is toegekend aan de overeenkomstige in de linker kolom genoemde borden opgenomen in [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01).
+1. De in de rechterkolom genoemde borden volgens het model van bijlage 2, behorende bij het met ingang van 1 november 1991 ingetrokken Reglement verkeersregels en verkeerstekens (Stb. 1966, 181), blijven van kracht. Zij hebben de betekenis die is toegekend aan de overeenkomstige in de linker kolom genoemde borden opgenomen in [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01).
 
 2. In afwijking van het eerste lid behouden de in de rechter kolom genoemde borden 46 en 47 de betekenis die daaraan is toegekend in het in het eerste lid, eerste volzin, genoemde reglement. Zij blijven van kracht tot 1 januari 2009.
 
@@ -1147,7 +1149,7 @@ Vervallen
 
 ##### Artikel 97
 
-Bewegwijzeringsborden, geplaatst voor 1 november 1991, blijven van kracht totdat zij door in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01) vastgestelde borden zijn vervangen.
+Bewegwijzeringsborden, geplaatst voor 1 november 1991, blijven van kracht totdat zij door in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01) vastgestelde borden zijn vervangen.
 
 ##### Artikel 98
 
@@ -1407,7 +1409,9 @@ Vervallen
 
 - c. op het vervoer van een persoon op de bestuurderszitplaats in een motorvoertuig of op een bromfiets op meer dan twee wielen die door een ander motorvoertuig of een andere bromfiets op meer dan twee wielen wordt voortgetrokken en op het vervoer van passagiers van het getrokken voertuig als hier bedoeld, voor wie geen zitplaats in het trekkende voertuig als hier bedoeld beschikbaar is;
 
-- d. in het geval het vervoer van personen geschiedt in het kader van een evenement of optocht waarvoor een vergunning op grond van een gemeentelijke verordening is afgegeven.
+- d. in het geval het vervoer van personen geschiedt in het kader van een evenement of optocht waarvoor een vergunning op grond van een gemeentelijke verordening is afgegeven;
+
+- e. op het vervoer van personen met een motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km per uur, met niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, niet zijnde een bromfiets, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen indien voor dit vervoer een vergunning door het bevoegd gezag is afgegeven.
 
 ### Hoofdstuk III. Verkeerstekens
 
@@ -1465,9 +1469,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 59b
 
-1. In afwijking van [artikel 59, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2012-09-01&g=2012-09-01), mag anders dan op de voorste zitplaatsen in personenauto’s en bestelauto’s, wanneer het na installatie van twee kinderbeveiligingssystemen niet mogelijk is nog een derde kinderbeveiligingssysteem te installeren en deze beveiligingssystemen in gebruik zijn, een derde passagier die 3 jaren of ouder is en met een lengte van minder dan 1,35 meter, worden vervoerd wanneer deze een autogordel gebruikt. [Artikel 59, zevende lid, is van toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2012-09-01&g=2012-09-01).
+1. In afwijking van [artikel 59, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2013-01-01&g=2013-01-01), mag anders dan op de voorste zitplaatsen in personenauto’s en bestelauto’s, wanneer het na installatie van twee kinderbeveiligingssystemen niet mogelijk is nog een derde kinderbeveiligingssysteem te installeren en deze beveiligingssystemen in gebruik zijn, een derde passagier die 3 jaren of ouder is en met een lengte van minder dan 1,35 meter, worden vervoerd wanneer deze een autogordel gebruikt. [Artikel 59, zevende lid, is van toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2013-01-01&g=2013-01-01).
 
-2. In afwijking van [artikel 59, eerste lid, tweede volzin, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2012-09-01&g=2012-09-01), mogen in incidentele gevallen en over korte afstand in personenauto's en bestelauto's op andere dan de voorste zitplaatsen passagiers die 3 jaar of ouder zijn en met een lengte van minder dan 1,35 meter worden vervoerd wanneer deze passagiers een autogordel gebruiken. Dit geldt niet met betrekking tot passagiers waarvan een ouder de auto bestuurt dan wel daarvan eigenaar of houder is.
+2. In afwijking van [artikel 59, eerste lid, tweede volzin, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2013-01-01&g=2013-01-01), mogen in incidentele gevallen en over korte afstand in personenauto's en bestelauto's op andere dan de voorste zitplaatsen passagiers die 3 jaar of ouder zijn en met een lengte van minder dan 1,35 meter worden vervoerd wanneer deze passagiers een autogordel gebruiken. Dit geldt niet met betrekking tot passagiers waarvan een ouder de auto bestuurt dan wel daarvan eigenaar of houder is.
 
 #### § 30. Gebruik van mobiele telecommunicatieapparatuur
 
@@ -1515,13 +1519,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. passagiers van autobussen zonder staanplaatsen bij incidenteel gebruik van het gangpad of toilet;
 
-- c. passagiers die worden vervoerd overeenkomstig [artikel 61b, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=31&artikel=61b&z=2012-09-01&g=2012-09-01);
+- c. passagiers die worden vervoerd overeenkomstig [artikel 61b, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=31&artikel=61b&z=2013-01-01&g=2013-01-01);
 
 - d. passagiers, jonger dan 3 jaar, in autobussen;
 
 - e. passagiers jonger dan 18 jaar en met een lengte van minder dan 1,35 meter die gebruik maken van een voor deze passagiers geschikte zitgelegenheid die deel uitmaakt van de constructie van het voertuig, hierin deugdelijk is bevestigd en is voorzien van autogordels;
 
-- f. het vervoer van passagiers die gebruik maken van een rolstoel als bedoeld in [artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2012-09-01&g=2012-09-01);
+- f. het vervoer van passagiers die gebruik maken van een rolstoel als bedoeld in [artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=27&artikel=59&z=2013-01-01&g=2013-01-01);
 
 - g. het vervoer van één persoon van 8 jaar of ouder op de bagagedrager door fietsers met uitzondering van snorfietsers.
 
@@ -1541,11 +1545,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Wanneer verkeerstekens die een maximumsnelheid aanduiden een hogere snelheid aangeven dan :
 
-- a. de in de [artikelen 20, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=20&z=2012-09-01&g=2012-09-01), [21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=21&z=2012-09-01&g=2012-09-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=22&z=2012-09-01&g=2012-09-01) vastgestelde maximumsnelheden, of
+- a. de in de [artikelen 20, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=20&z=2013-01-01&g=2013-01-01), [21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=21&z=2013-01-01&g=2013-01-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=8&artikel=22&z=2013-01-01&g=2013-01-01) vastgestelde maximumsnelheden, of
 
-- b. de ingevolge een ministeriële regeling krachtens [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2012-09-01&g=2012-09-01) geldende maximumsnelheid, of
+- b. de ingevolge een ministeriële regeling krachtens [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VA&artikel=86a&z=2013-01-01&g=2013-01-01) geldende maximumsnelheid, of
 
-- c. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=45&z=2012-09-01&g=2012-09-01) aangegeven snelheid,
+- c. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=17&artikel=45&z=2013-01-01&g=2013-01-01) aangegeven snelheid,
 
 geldt de laagste aangegeven snelheid.
 
@@ -1609,9 +1613,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - 6°. die worden gebruikt voor het geven van rijonderricht of het afleggen van een rijproef;
 
-- 7°. die worden gebruikt door ambulancediensten waaraan krachtens de [Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) een vergunning is verleend voor het verrichten van ambulancevervoer;
+- 7°. die worden gebruikt door de Regionale Ambulancevoorzieningen, bedoeld in [artikel 4, eerste lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4);
 
-- 8°. van hulpverleningsdiensten die zich in opdracht van een meldkamer als bedoeld in [artikel 35 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35) bezighouden met het verlenen van eerstelijns spoedeisende hulpverlening;
+- 8°. van hulpverleningsdiensten die zich in opdracht van een meldkamer als bedoeld in [artikel 1, eerste lid, onder e, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=1) bezig houden met het verlenen van eerstelijns spoedeisende hulpverlening;
 
 - b. autobussen van openbaar vervoerdiensten;
 
@@ -1657,7 +1661,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 82a
 
-Weggebruikers zijn voorts verplicht de aanwijzingen op te volgen die worden gegeven door middel van de verlichte transparanten op personenauto’s, bedrijfsauto’s en motorfietsen in gebruik bij de in [artikel 41a, eerste lid, onderdeel a, onder 1° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=15&artikel=41a&z=2012-09-01&g=2012-09-01), genoemde diensten en op bedrijfsauto’s van transportbegeleiders.
+Weggebruikers zijn voorts verplicht de aanwijzingen op te volgen die worden gegeven door middel van de verlichte transparanten op personenauto’s, bedrijfsauto’s en motorfietsen in gebruik bij de in [artikel 41a, eerste lid, onderdeel a, onder 1° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=15&artikel=41a&z=2013-01-01&g=2013-01-01), genoemde diensten en op bedrijfsauto’s van transportbegeleiders.
 
 ### Hoofdstuk V. Bijzondere bepalingen ten behoeve van gehandicapten
 
@@ -1679,11 +1683,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 35a
 
-1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2012-09-01&g=2012-09-01) bedoelde verlichting mag andere weggebruikers niet verblinden.
+1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2013-01-01&g=2013-01-01) bedoelde verlichting mag andere weggebruikers niet verblinden.
 
-2. De in [artikel 35, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2012-09-01&g=2012-09-01), bedoelde verlichting mag niet knipperen.
+2. De in [artikel 35, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2013-01-01&g=2013-01-01), bedoelde verlichting mag niet knipperen.
 
-3. De in [artikel 35, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2012-09-01&g=2012-09-01), bedoelde verlichting moet:
+3. De in [artikel 35, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2013-01-01&g=2013-01-01), bedoelde verlichting moet:
 
 - a. aan de voorzijde voortdurend zichtbaar zijn voor tegemoetkomende weggebruikers;
 
@@ -1719,13 +1723,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 30a
 
-1. Bestuurders van de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2012-09-01&g=2012-09-01), bedoelde motorvoertuigen mogen onder nader aan te geven omstandigheden extra richtingaanwijzers voeren.
+1. Bestuurders van de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2013-01-01&g=2013-01-01), bedoelde motorvoertuigen mogen onder nader aan te geven omstandigheden extra richtingaanwijzers voeren.
 
 2. Bij ministeriële regeling kunnen voorschriften worden vastgesteld betreffende de in het eerste lid bedoelde richtingaanwijzers en de omstandigheden waarin deze worden gebruikt.
 
 ##### Artikel 30b
 
-De [artikelen 29 tot en met 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2012-09-01&g=2012-09-01) zijn niet van toepassing op Belgische en Duitse motorvoertuigen in gebruik bij politie en brandweer, in gebruik bij diensten voor eerstelijns spoedeisende hulpverlening alsmede motorvoertuigen van Belgische en Duitse hulpverleningsdiensten, aangewezen bij of krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2012-09-01&g=2012-09-01), mits deze voertuigen elk de signalen voeren overeenkomstig de voor hen in hun eigen land geldende wettelijke regels.
+De [artikelen 29 tot en met 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op Belgische en Duitse motorvoertuigen in gebruik bij politie en brandweer, in gebruik bij diensten voor eerstelijns spoedeisende hulpverlening alsmede motorvoertuigen van Belgische en Duitse hulpverleningsdiensten, aangewezen bij of krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=12&artikel=29&z=2013-01-01&g=2013-01-01), mits deze voertuigen elk de signalen voeren overeenkomstig de voor hen in hun eigen land geldende wettelijke regels.
 
 #### § 13. Gebruik van lichten tijdens het rijden
 
@@ -1805,11 +1809,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - h. **Euronorm IV:** richtlijn 2005/55/EG (de grenswaarden in rij B1 van de tabellen in punt 6.2.1 van bijlage I bij die richtlijn);
 
-2. Een wijziging van de in het eerste lid, onderdeel e, genoemde richtlijn gaat voor de toepassing van [artikel 86d](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VB&artikel=86d&z=2012-09-01&g=2012-09-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+2. Een wijziging van de in het eerste lid, onderdeel e, genoemde richtlijn gaat voor de toepassing van [artikel 86d](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=VB&artikel=86d&z=2013-01-01&g=2013-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 86d
 
-1. De geslotenverklaring krachtens bord C22a van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2012-09-01&g=2012-09-01) is niet van toepassing:
+1. De geslotenverklaring krachtens bord C22a van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1&z=2013-01-01&g=2013-01-01) is niet van toepassing:
 
 - a. tot 1 januari 2010 op vrachtauto’s,
 
@@ -1893,7 +1897,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 35c
 
-De [artikelen 35, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2012-09-01&g=2012-09-01), en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35a&z=2012-09-01&g=2012-09-01) zijn van overeenkomstige toepassing op bestuurders van snorfietsen, zijnde bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
+De [artikelen 35, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35&z=2013-01-01&g=2013-01-01), en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=35a&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op bestuurders van snorfietsen, zijnde bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
 
 #### § 31. Vervoer van personen in of op aanhangwagens en in laadruimten
 
