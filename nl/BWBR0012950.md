@@ -4,7 +4,7 @@ identifier: "BWBR0012950"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2012-06-06"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012950"
 soort: "wet"
@@ -104,7 +104,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 10
 
-Tegen een op grond van deze wet genomen beschikking kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.
+Vervallen
 
 ##### Artikel 11
 
@@ -122,7 +122,7 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 
 ##### Artikel 14
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2012-06-06&g=2012-06-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2012-06-06&g=2012-06-06), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2012-06-06&g=2012-06-06), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2012-06-06&g=2012-06-06) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2012-06-06&g=2012-06-06), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2013-01-01&g=2013-01-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2013-01-01&g=2013-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 2. Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.
 
