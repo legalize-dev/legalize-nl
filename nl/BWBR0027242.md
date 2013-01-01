@@ -4,7 +4,7 @@ identifier: "BWBR0027242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027242"
 soort: "ministeriele-regeling"
@@ -72,33 +72,33 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 
 Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2012-07-01&g=2012-07-01)
+## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2013-01-01&g=2013-01-01)
 
-### Hoofdstuk 1. – Vergunningstelsels en eisen van de Rijksoverheid
+### HOOFDSTUK 1. – VERGUNNINGSTELSELS EN EISEN VAN DE RIJKSOVERHEID
 
 ### § 1.1. – Vergunningstelsels van de Rijksoverheid
 
 ### § 1.2. – Eisen van de Rijksoverheid
 
-### Hoofdstuk 2. – Vergunningstelsels en eisen van Provincies
+### HOOFDSTUK 2. – VERGUNNINGSTELSELS EN EISEN VAN PROVINCIES
 
 ### § 2.1. – Vergunningstelsels van Provincies
 
 ### § 2.2. – Eisen van Provincies
 
-### Hoofdstuk 3. – Vergunningstelsels en eisen van Gemeenten
+### HOOFDSTUK 3. – VERGUNNINGSTELSELS EN EISEN VAN GEMEENTEN
 
 ### § 3.1. – Vergunningstelsels van Gemeenten
 
 ### § 3.2. – Eisen van Gemeenten
 
-### Hoofdstuk 4. – Eisen en vergunningstelsels van Waterschappen
+### HOOFDSTUK 4. – EISEN EN VERGUNNINGSTELSELS VAN WATERSCHAPPEN
 
 ### § 4.1. – Vergunningstelsels van Waterschappen
 
 ### § 4.2. – Eisen van Waterschappen
 
-### Hoofdstuk 5. – Eisen en vergunningstelsels van andere openbare lichamen
+### HOOFDSTUK 5. – EISEN EN VERGUNNINGSTELSELS VAN ANDERE OPENBARE LICHAMEN
 
 ### § 5.1. – Vergunningstelsels van andere openbare lichamen
 
