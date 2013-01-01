@@ -4,7 +4,7 @@ identifier: "BWBR0009067"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-04-01"
-last_updated: "2012-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009067"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Aan een vergunning, krachtens [artikel 3 van de wet](https://wetten.overheid.nl/
 
 - 1°. een Accountant-Administratieconsulent, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500, doch niet groter dan € 45 000;
 
-- 2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.
+- 2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van die wet, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.
 
 ##### Artikel 3
 
@@ -106,7 +106,7 @@ De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van
 
 ##### Artikel 5
 
-1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2012-04-01&g=2012-04-01) de prijsbepaling dient te geschieden.
+1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2013-01-01&g=2013-01-01) de prijsbepaling dient te geschieden.
 
 2. Constateert degene, te wiens overstaan de prijsbepaling geschiedt, enige onregelmatigheid, dan verklaart hij, zo nodig, de gehele prijsbepaling ongeldig en doet hij onverwijld een nieuwe prijsbepaling plaats vinden.
 
