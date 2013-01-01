@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2012-06-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e. meerjarige aanvullende uitkering: de meerjarige aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74);
 
-- f. toetsingscommissie: de toetsingscommissie, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
+- f. toetsingscommissie: de toetsingscommissie Wet werk en bijstand, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
 
 - g. WIJ: [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);
 
@@ -146,60 +146,60 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9. Reikwijdte
 
-Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2012.
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2013.
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2012-02-17&g=2012-06-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2012-02-17&g=2012-06-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2012-02-17&g=2012-06-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2012-02-17&g=2012-06-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2013-01-01&g=2013-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2013-01-01&g=2013-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2013-01-01&g=2013-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2013-01-01&g=2013-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
-##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
+##### Artikel 11. Vakantieaanspraak voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
-Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 467,00 |   | 8,00% | x ink |   |   |   |
-| € | 467,00 | € | 506,57 |   | 5,17% | x ink |   |   |   |
-| € | 506,57 | € | 615,62 |   | 7,76% | x ink | – € | 13,15 |   |
-| € | 615,62 | € | 1163,74 |   | 6,56% | x ink | – € | 5,73 |   |
-| € | 1163,74 |   |   |   | 5,59% | x ink | – € | 4,88 |   |
-
-##### Artikel 12. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit vroegere arbeid
-
-Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
-
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 442,52 |   | 8,00% | x ink |   |   |   |
-| € | 442,52 | € | 477,90 |   | 5,17% | x ink |   |   |   |
-| € | 477,90 | € | 1.051,82 |   | 8,00% | x ink | – € | 13,56 |   |
-| € | 1.051,82 |   |   |   | 6,82% | x ink | – € | 11,57 |   |
-
-##### Artikel 13. Vakantieaanspraak voor personen jonger dan 65 jaar voor wie geen rekening is gehouden met de algemene heffingskorting
-
-Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
-
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 882,40 |   | 8,00% | x ink |   |   |   |
-| € | 882,40 |   |   |   | 6,83% | x ink |   |   |   |
-
-##### Artikel 14. Vakantieaanspraak voor personen van 65 jaar of ouder
-
-1. Indien de belanghebbende 65 jaar of ouder is en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende de aanspraak op vakantietoeslag voor:
-
-| a. alleenstaande | a. alleenstaande | a. alleenstaande | a. alleenstaande | 5,81% | x ink; |   |   |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |   |
-| – het inkomen € 1.022,10 of meer bedraagt | – het inkomen € 1.022,10 of meer bedraagt | – het inkomen € 1.022,10 of meer bedraagt | – het inkomen € 1.022,10 of meer bedraagt | 5,91% | x ink; | – € 10,45 |   |
-| – het inkomen lager is dan € 1.022,10 | – het inkomen lager is dan € 1.022,10 | – het inkomen lager is dan € 1.022,10 | – het inkomen lager is dan € 1.022,10 | 4,94% | x ink; |   |   |
-| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 6,05% | x ink; |   |   |
-| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |
-| – het inkomen € 814,54 of meer bedraagt | – het inkomen € 814,54 of meer bedraagt | – het inkomen € 814,54 of meer bedraagt | – het inkomen € 814,54 of meer bedraagt | 6,06% | x ink | – € 8,10 |   |
-| – het inkomen lager is dan € 814,54 | – het inkomen lager is dan € 814,54 | – het inkomen lager is dan € 814,54 | – het inkomen lager is dan € 814,54 | 6,05% | x ink. |   |   |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 437,81 | 8,00% | x ink |   |   |
+| € | 437,81 | € | 474,71 | 5,04% | x ink |   |   |
+| € | 474,71 | € | 632,59 | 7,77% | x ink | – € | 12,96 |
+| € | 632,59 | € | 1242,41 | 6,61% | x ink | – € | 5,60 |
+| € | 1242,41 | € |   | 6,08% | x ink | – € | 5,15 |
+
+##### Artikel 12. Vakantieaanspraak voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit vroegere arbeid
+
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 417,38 | 8,00% | x ink |   |   |
+| € | 417,38 | € | 450,68 | 5,04% | x ink |   |   |
+| € | 450,68 | € | 1.123,24 | 8,00% | x ink | – € | 13,34 |
+| € | 1.123,24 |   |   | 7,37% | x ink | – € | 12,28 |
+
+##### Artikel 13. Vakantieaanspraak voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) voor wie geen rekening is gehouden met de algemene heffingskorting
+
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 956,49 | 8,00% | x ink |
+| € | 956,49 |   |   | 7,37% | x ink |
+
+##### Artikel 14. Vakantieaanspraak voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt
+
+1. Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:
+
+| a. alleenstaande | a. alleenstaande | a. alleenstaande | a. alleenstaande | 6,54% | x ink |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |
+| – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | 6,66% | x ink | – € 13,81 |
+| – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | 5,31% | x ink |   |
+| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 6,84% | x ink |   |
+| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |
+| – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | 6,84% | x ink | – € 11,77 |
+| – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | 6,84% | x ink |   |
 
 2. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
 
@@ -217,11 +217,11 @@ Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheff
 
 - a. een uitzonderlijke situatie op de arbeidsmarkt, en
 
-- b. de overstijging, bedoeld in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van:
+- b. een overstijging als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), die niet het gevolg is van:
 
 - 1°. onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), of
 
-- 2°. beleidskeuzen van, dan wel handelen door het college of de gemeenteraad van de tekortgemeente.
+- 2°. beleidskeuzen van, dan wel handelen door het college of de gemeenteraad van de tekortgemeente, met inbegrip van een ontoereikend gemeentelijk handhavings- en sanctiebeleid, dan wel de uitvoering daarvan.
 
 5. Van een uitzonderlijke situatie op de arbeidsmarkt is in ieder geval sprake, indien:
 
@@ -229,11 +229,11 @@ Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheff
 
 - b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde uitstroom van de tekortgemeente in de jaren [t-1], [t-2] en [t-3] lager is dan de landelijke uitstroom in jaar [t] ten opzichte van de gemiddelde landelijke uitstroom in de jaren [t-1], [t-2] en [t-3].
 
-6. Het vierde lid, onderdeel b, sub 2, is niet van toepassing op gemeenten met 40.000 of minder inwoners.
+6. Het vierde lid, onderdeel b, onder 2°, is niet van toepassing op gemeenten met 40.000 of minder inwoners.
 
-7. Het vierde lid, onderdeel b, onder ten eerste, is niet van toepassing, indien de onrechtmatige uitvoering in 2012 geheel of grotendeels verband houdt met de uitvoering van het op 1 januari 2012 in werking getreden [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=32) in samenhang met de vaststelling van het gezin, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=4).
+7. Het vierde lid, onderdeel b, onder 1°, is niet van toepassing, indien de onrechtmatige uitvoering in 2012 geheel of grotendeels verband houdt met de uitvoering van de op 1 januari 2012 in werking getreden en bij de Wet afschaffing huishoudinkomenstoets met terugwerkende kracht tot en met 1 januari 2012 weer aangepaste bepalingen van de wet, die betrekking hebben op het inkomen van een gezin.
 
-8. Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het derde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen.
+8. Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het vierde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen, tenzij het gemeentelijk handhavings- en sanctiebeleid, dan wel de uitvoering daarvan naar het oordeel van de toetsingscommissie ontoereikend is.
 
 9. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
 
@@ -289,7 +289,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2012-02-17&g=2012-06-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2013-01-01&g=2013-01-01), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
@@ -321,7 +321,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 - b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.
 
-6. Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a), bedraagt 4,3% voor het kalenderjaar 2009, 4,2% voor het kalenderjaar 2010 en 4,2% voor het kalenderjaar 2011.
+6. Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a), bedraagt 4,2% voor de kalenderjaren 2010 en 2011 en 0% voor het kalenderjaar 2012.
 
 #### § 8. Slotbepalingen
 
@@ -335,41 +335,106 @@ De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007
 
 ##### Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
 
-1. Indien de minister toepassing geeft aan [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=72) schort hij de betaling van de vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
+1. Indien de minister toepassing geeft aan [artikel 76, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=76) schort hij de betaling van de vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
 
-2. De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=72) heeft vastgesteld is verstreken.
+2. De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van [artikel 76, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=76) heeft vastgesteld is verstreken.
 
 #### § 6. Vakantietoeslag
 
-#### § 8. Slotbepalingen
+#### § 7a. Verrekening IOAW en IOAZ
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2012-02-17&g=2012-06-01) van de Regeling WWB
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) van de Regeling WWB
 
 Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
 
-| Verdeelmaatstaf | Verdeelmaatstaf |   | Peiljaar | Peildatum | Gewicht |
-| --- | --- | --- | --- | --- | --- |
-| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
-| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) |   | 2006–2008 | – | 28,858 |
-| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15–64 jaar) |   | 2009–2011 | – | 84,022 |
-| 3. | Arbeidsongeschiktheidsuitkeringen: [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) (in % van inwoners van 15–64 jaar) |   | 2010 | 31 december | –25,609 |
-| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15–64 jaar) |   | 2009–2011 | – | 4,110 |
-| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15–64 jaar) |   | 2008–2010 | – | 7,545 |
-| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
-| 6. | Huurwoningen (in % van het totaal aantal woningen) |   | 2010 | 1 januari | 4,292 |
-| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) |   | 2010 | 1 januari | 1,753 |
-| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) |   | 2010 | 1 januari | –1,919 |
-| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
-| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau |   | 2008–2010 | – | –52,472 |
-| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) |   | 2009 | 31 december | –20,339 |
-| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio |   | 2007–2009 | – | –0,206 |
-| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) |   | 2009 | 31 december | –2,000 |
-| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar |   | 2006–2010 | – | –27,062 |
-| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
-| 14. | Vaste voet per huishouden van 15–64 jaar |   | - | – | 5044,261 |
-|   |   |   |   |   |   |
-| Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens | Overige berekeningsgegevens |
-| Totaal aantal inwoners | Totaal aantal inwoners |   | 2011 | 1 januari |   |
-| Aantal huishoudens 15–64 jaar | Aantal huishoudens 15–64 jaar |   | 2011 | 1 januari |   |
+| Verdeelmaatstaf | Verdeelmaatstaf | Peiljaar | Peildatum | Gewicht |
+| --- | --- | --- | --- | --- |
+| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
+| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) | 2007–2009 | – | 30,799 |
+| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15–64 jaar) | 2010–2012 | – | 88,162 |
+| 3. | Arbeidsongeschiktheidsuitkeringen: [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) (in % van inwoners van 15–64 jaar) | 2011 | 31 december | –25,521 |
+| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15–64 jaar) | 2010–2012 | - | 3,738 |
+| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15–64 jaar) | 2009–2011 | - | 7,324 |
+| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
+| 6. | Huurwoningen (in % van het totaal aantal woningen) | 2011 | 1 januari | 5,193 |
+| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) | 2011 | 1 januari | 1,716 |
+| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) | 2011 | 1 januari | –1,819 |
+| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
+| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau | 2009–2011 | – | –62,053 |
+| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) | 2010 | december | –21,905 |
+| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio | 2008–2010 | – | –3,234 |
+| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) | 2010 | december | –2,571 |
+| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar | 2007–2011 | – | –23,872 |
+| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
+| 14. | Vaste voet per huishouden van 15–64 jaar | – | – | 5.979,985 |
+|   |   |   |   |   |
+| **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** |
+| Totaal aantal inwoners | Totaal aantal inwoners | 2012 | 1 januari |   |
+| Aantal huishoudens 15–64 jaar | Aantal huishoudens 15–64 jaar | 2012 | 1 januari |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+
+##### Artikel 15b. Regeling verrekening bestuurlijke boete bij recidive
+
+1. Indien [artikel 29, zesde lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=29) of [artikel 29, zesde lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=29) van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de uitkering vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.
+
+2. Voor zover de hoogte van de uitkering daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor:
+
+- a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en
+
+- b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), dat gelet op het aantal kinderen van toepassing is.
+
+3. Van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a, is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
+
+4. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
+
+5. De vermeerdering, bedoeld in het vierde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
+
+6. Onder kale huur als bedoel in het derde en vierde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
+
+7. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het college van burgemeester en wethouders dat het recht op uitkering heeft vastgesteld.
+
+8. Door het college van burgemeester en wethouders kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
+
+9. Het op grond van het tweede, vierde en vijfde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vierde lid.
+
+#### § 8. Slotbepalingen
+
+##### Artikel 15c. Grondslag
+
+Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), en [29, zesde lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=29) en [20a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a), en [29, zesde lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=29).
+
+## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](onbekend)
+
+Vervallen
+
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-06-11&g=2013-01-01) van de Regeling WWB
+
+Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
+
+| Verdeelmaatstaf | Verdeelmaatstaf | Peiljaar | Peildatum | Gewicht |
+| --- | --- | --- | --- | --- |
+| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
+| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15–64 jaar met inkomen) | 2007–2009 | – | 30,799 |
+| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15–64 jaar) | 2010–2012 | – | 88,162 |
+| 3. | Arbeidsongeschiktheidsuitkeringen: [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) (in % van inwoners van 15–64 jaar) | 2011 | 31 december | –25,521 |
+| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15–64 jaar) | 2010–2012 | - | 3,738 |
+| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15–64 jaar) | 2009–2011 | - | 7,324 |
+| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
+| 6. | Huurwoningen (in % van het totaal aantal woningen) | 2011 | 1 januari | 5,193 |
+| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) | 2011 | 1 januari | 1,716 |
+| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) | 2011 | 1 januari | –1,819 |
+| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
+| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau | 2009–2011 | – | –62,053 |
+| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) | 2010 | december | –21,905 |
+| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio | 2008–2010 | – | –3,234 |
+| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) | 2010 | december | –2,571 |
+| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar | 2007–2011 | – | –23,872 |
+| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
+| 14. | Vaste voet per huishouden van 15–64 jaar | – | – | 5.979,985 |
+|   |   |   |   |   |
+| **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** |
+| Totaal aantal inwoners | Totaal aantal inwoners | 2012 | 1 januari |   |
+| Aantal huishoudens 15–64 jaar | Aantal huishoudens 15–64 jaar | 2012 | 1 januari |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
