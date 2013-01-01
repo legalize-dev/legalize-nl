@@ -4,7 +4,7 @@ identifier: "BWBR0001947"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001947"
 soort: "wet"
@@ -55,7 +55,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 2
 
-1. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&z=2012-10-01&g=2012-10-01) is niet van toepassing op:
+1. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&z=2013-01-01&g=2013-01-01) is niet van toepassing op:
 
 - –. ministers en staatssecretarissen;
 
@@ -85,15 +85,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - –. de leden van de Raden van bestuur van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- –. de voorzitter en de plaatsvervangende voorzitter van het Nederlands Instituut van Registeraccountants, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) ingestelde colleges;
+- –. de Nederlandse beroepsorganisatie van accountants, de leden van het bestuur van dit lichaam en de leden van andere bij of krachtens de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) ingestelde colleges;
 
 - –. de voorzitter, de ondervoorzitter en de andere leden van het bestuur van de Organisatie ter verbetering van de binnenvisserij;
 
 - –. de voorzitter en de leden van het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - –. de voorzitter en de leden van het College bouw zorginstellingen en het College sanering zorginstellingen, bedoeld in de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
-
-- –. de voorzitter en de plaatsvervangende voorzitter van de Nederlandse Orde van Accountants-Administratieconsulenten, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) ingestelde colleges;
 
 - –. de voorzitter en de leden van de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
@@ -121,9 +119,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - –. de leden van zelfstandige bestuursorganen aan wie een schadeloosstelling als bedoeld in [artikel 14, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) is toegekend;
 
-- –. de buitengriffiers en de waarnemend griffiers, bedoeld in de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=14), en [73, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73).
+- –. de buitengriffiers en de waarnemend griffiers, bedoeld in de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=14), en [73, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73);
 
-2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2012-10-01&g=2012-10-01), [125ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125ter&z=2012-10-01&g=2012-10-01), [125quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quater&z=2012-10-01&g=2012-10-01), [125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2012-10-01&g=2012-10-01), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2012-10-01&g=2012-10-01), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2012-10-01&g=2012-10-01), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2012-10-01&g=2012-10-01), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2012-10-01&g=2012-10-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2012-10-01&g=2012-10-01) zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=1), en de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145).
+- –. de voorzitter en de leden van het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=48).
+
+2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2013-01-01&g=2013-01-01), [125ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125ter&z=2013-01-01&g=2013-01-01), [125quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quater&z=2013-01-01&g=2013-01-01), [125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2013-01-01&g=2013-01-01), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2013-01-01&g=2013-01-01), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2013-01-01&g=2013-01-01), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2013-01-01&g=2013-01-01), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2013-01-01&g=2013-01-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=1), en de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145).
 
 ##### Artikel 3
 
@@ -637,7 +637,7 @@ Vervallen
 
 1. Met de door de Staat of de openbare lichamen verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan hen zelf verschuldigd is.
 
-2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2012-10-01&g=2012-10-01).
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2013-01-01&g=2013-01-01).
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in [artikel 475**d** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
 
@@ -651,7 +651,7 @@ Vervallen
 
 ##### Artikel 119
 
-Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2012-10-01&g=2012-10-01), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2012-10-01&g=2012-10-01), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2013-01-01&g=2013-01-01), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2013-01-01&g=2013-01-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 120
 
@@ -721,7 +721,7 @@ De bepalingen van deze titel vinden overeenkomstige toepassing op de bezoldiging
 
 ##### Artikel 125bis
 
-Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01), alsmede hun plaatsvervangers verboden:
+Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01), alsmede hun plaatsvervangers verboden:
 
 - a. hetgeen zij als zodanig te weten zijn gekomen verder bekend te maken dan voor de uitoefening van hun functie wordt gevorderd;
 
@@ -783,9 +783,9 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 ##### Artikel 126
 
-1. Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2012-10-01&g=2012-10-01), zijn de [artikelen 121 tot en met 121g van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) van overeenkomstige toepassing.
+1. Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2013-01-01&g=2013-01-01), zijn de [artikelen 121 tot en met 121g van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) van overeenkomstige toepassing.
 
-2. [Hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2012-10-01&g=2012-10-01) vastgestelde uitvoeringsvoorschriften.
+2. [Hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2013-01-01&g=2013-01-01) vastgestelde uitvoeringsvoorschriften.
 
 ##### Artikel 127
 
@@ -817,17 +817,17 @@ Vervallen
 
 ##### Artikel 133
 
-1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01) moet aan dit artikel uitvoering zijn gegeven.
+1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01) moet aan dit artikel uitvoering zijn gegeven.
 
-2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2012-10-01&g=2012-10-01) te zijn gegeven.
+2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2013-01-01&g=2013-01-01) te zijn gegeven.
 
 #### § 2. Slotbepalingen
 
 ##### Artikel 134
 
-1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2012-10-01&g=2012-10-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2013-01-01&g=2013-01-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
-2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2012-10-01&g=2012-10-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2012-10-01&g=2012-10-01) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2012-10-01&g=2012-10-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2013-01-01&g=2013-01-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2013-01-01&g=2013-01-01) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2013-01-01&g=2013-01-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
 3. Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
