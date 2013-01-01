@@ -4,7 +4,7 @@ identifier: "BWBR0006298"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2006-12-13"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006298"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet wordt verstaan onder:
 
 - b. zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
 
-2. Door de stichting wordt op de daartoe gedane aanvraag tevens een garantiepensioen toegekend aan degene die niet als rechthebbende in de zin van [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=1&z=2006-12-13&g=2006-12-13), kan worden aangemerkt, maar aan wie voor 1 januari 1992 door de stichting voorschotten zijn verstrekt op zijn Surinaams pensioen, op voorwaarde dat hij zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
+2. Door de stichting wordt op de daartoe gedane aanvraag tevens een garantiepensioen toegekend aan degene die niet als rechthebbende in de zin van [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=1&z=2013-01-01&g=2013-01-01), kan worden aangemerkt, maar aan wie voor 1 januari 1992 door de stichting voorschotten zijn verstrekt op zijn Surinaams pensioen, op voorwaarde dat hij zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
 
 3. Voorts wordt door de stichting op de daartoe gedane aanvraag een garantiepensioen toegekend aan degene of degenen die aanspraak hebben op een Surinaams nabestaandenpensioen ingevolge het overlijden van degene op wie het tweede lid van toepassing was, eveneens op voorwaarde dat de aanspraak op Surinaams pensioen aan de Nederlandse Staat is gecedeerd.
 
@@ -84,7 +84,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onverminderd het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=4&z=2006-12-13&g=2006-12-13) wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met:
+1. Onverminderd het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=4&z=2013-01-01&g=2013-01-01) wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met:
 
 - a. de wisselkoers van de Surinaamse gulden: en met
 
@@ -114,7 +114,7 @@ In deze wet wordt verstaan onder:
 
 Het bedrag van het garantiepensioen van degene:
 
-- a. op wie [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=2&z=2006-12-13&g=2006-12-13), van toepassing is, of
+- a. op wie [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=2&z=2013-01-01&g=2013-01-01), van toepassing is, of
 
 - b. die krachtens de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0002574) een toeslag ontvangt op zijn pensioen, wordt vastgesteld door het bruto bedrag van het gecedeerde Surinaamse pensioen te vermenigvuldigen met 0,505.
 
@@ -132,7 +132,7 @@ Voorzover ter zake van het genot van een garantiepensioen premie krachtens de [A
 
 ##### Artikel 6a
 
-1. Indien recht is ontstaan op pensioen na 31 december 2000 heeft de rechthebbende die de leeftijd van 65 jaar nog niet heeft bereikt, in afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.
+1. Indien recht is ontstaan op pensioen na 31 december 2000 heeft de rechthebbende die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, in afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.
 
