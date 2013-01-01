@@ -4,7 +4,7 @@ identifier: "BWBR0002389"
 country: "nl"
 rank: "wet"
 publication_date: "2020-07-17"
-last_updated: "2012-02-08"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002389"
 soort: "wet"
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2012-02-08&g=2012-02-08) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2013-01-01&g=2013-01-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -70,13 +70,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5
 
-1. Een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2012-02-08&g=2012-02-08), of een regeling tot wijziging of intrekking daarvan, en een besluit als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=4&z=2012-02-08&g=2012-02-08), treden niet in werking alvorens te zijn bekendgemaakt door plaatsing in de **Staatscourant** of op een andere door Onze betrokken Minister bepaalde wijze.
+1. Een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2013-01-01&g=2013-01-01), of een regeling tot wijziging of intrekking daarvan, en een besluit als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=4&z=2013-01-01&g=2013-01-01), treden niet in werking alvorens te zijn bekendgemaakt door plaatsing in de **Staatscourant** of op een andere door Onze betrokken Minister bepaalde wijze.
 
-2. Een besluit als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=4&z=2012-02-08&g=2012-02-08), treedt niet in werking alvorens het is bekendgemaakt door plaatsing in de **Staatscourant** of op een andere door Onze betrokken Minister bepaalde wijze.
+2. Een besluit als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=4&z=2013-01-01&g=2013-01-01), treedt niet in werking alvorens het is bekendgemaakt door plaatsing in de **Staatscourant** of op een andere door Onze betrokken Minister bepaalde wijze.
 
 ##### Artikel 6
 
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Vervallen
 
 ##### Artikel 7
 
@@ -104,9 +104,9 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als "Hamsterwet".
 
-2. Met uitzondering van de [artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2012-02-08&g=2012-02-08) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2013-01-01&g=2013-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-3. De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2012-02-08&g=2012-02-08) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=2013-01-01&g=2013-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
