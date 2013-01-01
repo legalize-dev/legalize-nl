@@ -4,7 +4,7 @@ identifier: "BWBR0008222"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "1997-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008222"
 soort: "AMvB"
@@ -50,7 +50,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de toepassing van het bij of krachtens de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) bepaalde wordt onder dienstbetrekking als bedoeld in artikel 2, eerste lid, van die wet mede verstaan de arbeidsverhouding van degene die krachtens een overeenkomst tegen beloning arbeid verricht voor ten hoogste twee anderen, tenzij deze overeenkomst is aangegaan in beroep en bedrijf.
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
+
+##### Artikel 2
+
+1. Voor de toepassing van het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) bepaalde wordt onder dienstbetrekking als bedoeld in [artikel 2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=2) mede verstaan de arbeidsverhouding van degene die krachtens een overeenkomst tegen beloning arbeid verricht voor ten hoogste twee anderen, tenzij deze overeenkomst is aangegaan in beroep en bedrijf.
 
 2. De in het eerste lid bedoelde persoon verricht de aldaar bedoelde arbeid persoonlijk dan wel uitsluitend met behulp van zijn echtgenoot of bij hem inwonende bloedverwanten of aanverwanten of pleegkinderen.
 
@@ -62,8 +66,40 @@ Hebben goedgevonden en verstaan:
 
 6. De duur van de in het eerste lid bedoelde arbeid bedraagt gemiddeld ten minste vijf uren per week.
 
-##### Artikel 2
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+##### Artikel 3
+
+1. Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in [artikel 18i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i) en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.
+
+2. Indien een ernstige overtreding is geconstateerd, wordt in afwijking van het eerste lid, een waarschuwing als bedoeld in [artikel 18i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i) gegeven bij de eerste overtreding en wordt, indien opnieuw dezelfde of een soortgelijke overtreding is geconstateerd die eveneens ernstig is, een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.
+
+3. Als een ernstige overtreding als bedoeld in het tweede lid wordt aangemerkt de overtreding waarbij:
+
+- a. ten minste 20 werknemers zijn betrokken en de onderbetaling ten minste 25 procent bedraagt;
+
+- b. de onderbetaling ten minste 50 procent bedraagt; of
+
+- c. [artikel 18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) niet is nageleefd.
+
+4. Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.
+
+##### Artikel 4
+
+Ernstige overtredingen in de zin van [artikel 18f, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) zijn de overtredingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2013-01-01&g=2013-01-01).
+
+##### Artikel 5
+
+Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2013-01-01&g=2013-01-01), worden aangepast.
+
+##### Artikel 6
+
+1. Als soortgelijke verplichtingen als bedoeld in [artikel 18f, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) worden aangewezen de verplichtingen op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) en [18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b).
+
+2. Als een soortgelijke overtreding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2013-01-01&g=2013-01-01), wordt beschouwd het door de werkgever niet of onvoldoende nakomen van de op hem op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) en [18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) rustende verplichtingen.
+
+##### Artikel 7
+
+Dit besluit wordt aangehaald als: Besluit minimumloon en minimumvakantiebijslag.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
