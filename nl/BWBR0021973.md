@@ -4,7 +4,7 @@ identifier: "BWBR0021973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2010-07-08"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021973"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. de opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), niet zijnde de buitengewoon opsporingsambtenaar voor wie de commandant van de Koninklijke marechaussee als direct toezichthouder is aangewezen, indien hij optreedt in de uitoefening van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), dan wel indien die rechtens is uitgerust met een of meer geweldsmiddelen alsmede de opsporingsambtenaar in dienst van een bijzondere opsporingsdienst;
+- a. de opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), niet zijnde de buitengewoon opsporingsambtenaar voor wie de commandant van de Koninklijke marechaussee als direct toezichthouder is aangewezen, indien hij optreedt in de uitoefening van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), dan wel indien die rechtens is uitgerust met een of meer geweldsmiddelen alsmede de opsporingsambtenaar in dienst van een bijzondere opsporingsdienst;
 
 - b. bijzondere opsporingsdienst: de diensten, genoemd in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- c. de Ambtsinstructie: [Ambtsinstructie voor de politie, de Koninklijke marechaussee, de ambtenaar van een bijzondere opsporingsdienst en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589);
+- c. de Ambtsinstructie: [Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589);
 
 - d. geweldsmiddel: geweldsmiddel als bedoeld in [artikel 1, derde lid, onderdeel d, van de Ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1) ;
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een opsporingsambtenaar is steeds voor de duur van een kalenderjaar geoefend in het gebruik van de bevoegdheden als genoemd in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), dan wel een geweldsmiddel als bedoeld in [artikel 4, onderdeel b, van de Ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=4), indien hij in het daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd:
+1. Een opsporingsambtenaar is steeds voor de duur van een kalenderjaar geoefend in het gebruik van de bevoegdheden als genoemd in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), dan wel een geweldsmiddel als bedoeld in [artikel 4, onderdeel b, van de Ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=4), indien hij in het daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd:
 
 - 1°. de toets geweldsbeheersing, en
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. Onverminderd het eerste en tweede lid, wordt de opsporingsambtenaar van wie een geweldsmiddel op grond van het vierde lid is ingenomen, voor de resterende duur van het lopende kalenderjaar of kalenderhalfjaar, geacht wederom geoefend te zijn in het gebruik van dat geweldsmiddel, vanaf het moment dat hij de toetsen die hij niet of niet met voldoende resultaat had afgelegd, alsnog met voldoende resultaat heeft afgelegd.
 
-4. De werkgever draagt er, in overeenstemming met de direct toezichthouder, zorg voor dat de opsporingsambtenaar slechts gebruik maakt van de bevoegdheden genoemd in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), dan wel de bevoegdheden genoemd in [artikel 6, eerste en derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6), indien hij geoefend is in de toepassing van deze bevoegdheden. Indien een opsporingsambtenaar op de laatste dag van een kalenderjaar de in het eerste lid bedoelde toetsen nog niet of niet met voldoende resultaat heeft afgelegd, is de opsporingsambtenaar niet bevoegd gebruik te maken van voornoemde bevoegdheden.
+4. De werkgever draagt er, in overeenstemming met de direct toezichthouder, zorg voor dat de opsporingsambtenaar slechts gebruik maakt van de bevoegdheden genoemd in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), dan wel de bevoegdheden genoemd in [artikel 6, eerste en derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6), indien hij geoefend is in de toepassing van deze bevoegdheden. Indien een opsporingsambtenaar op de laatste dag van een kalenderjaar de in het eerste lid bedoelde toetsen nog niet of niet met voldoende resultaat heeft afgelegd, is de opsporingsambtenaar niet bevoegd gebruik te maken van voornoemde bevoegdheden.
 
 5. De direct toezichthouder draagt er, in overeenstemming met de werkgever, zorg voor dat de opsporingsambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een opsporingsambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet of niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door de direct toezichthouder ingenomen.
 
@@ -94,13 +94,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2010-07-08&g=2010-07-08) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2010-07-08&g=2010-07-08) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
+Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
 
 ##### Artikel 5
 
-1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2010-07-08&g=2010-07-08) bedoelde toetsen.
+1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen.
 
-2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Justitie een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2010-07-08&g=2010-07-08) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Veiligheid en Justitie een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
