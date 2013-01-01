@@ -4,7 +4,7 @@ identifier: "BWBR0028445"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2013-01-01"
-last_updated: "2010-10-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028445"
 soort: "AMvB-BES"
@@ -73,19 +73,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-De zorgdrager betrekt bij het ontwerpen van een selectielijst ten minste:
+1. De zorgdrager betrekt bij het ontwerpen van een selectielijst ten minste:
 
-- a. één of meer personen die deskundig zijn ten aanzien van de organisatie en taken van het betreffende overheidsorgaan;
+- a. de persoon die hij binnen zijn organisatie uit hoofde van diens verantwoordelijkheid voor de informatiehuishouding daartoe heeft aangewezen;
 
-- b. één of meer personen die deskundig zijn ten aanzien van het beheer van de nog niet naar de archiefbewaarplaats overgebrachte archiefbescheiden van het desbetreffende overheidsorgaan;
+- b. indien deze is benoemd de eilandarchivaris die de beheerder is van de archiefbewaarplaats die is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager;
 
-- c. Onze Minister;
+- c. een deskundige op het terrein van de relatie tussen burger en overheid en de betekenis van overheidsinformatie voor deze relatie.
 
-- d. indien benoemd, de eilandarchivaris.
+2. Indien de bestuurscolleges van twee of alle openbare lichamen Bonaire, Sint Eustatius en Saba gezamenlijk een selectielijst ontwerpen, kan volstaan worden met de betrokkenheid van een aangewezen persoon als bedoeld in het eerste lid, onderdeel a, en met de betrokkenheid van een eilandarchivaris.
 
 ##### Artikel 5
 
-Een selectielijst bestaat tenminste uit:
+1. Een selectielijst bestaat tenminste uit:
 
 - a. een titel waaruit blijkt op welk overheidsorgaan de selectielijst betrekking heeft;
 
@@ -95,11 +95,13 @@ Een selectielijst bestaat tenminste uit:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10);
+- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01);
 
-- 2°. een verslag van de wijze waarop derden en met name de deskundigen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg; en
+- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg; en
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
+
+2. De systematische opsomming, bedoeld in het eerste lid, onderdeel c, is in overeenstemming met het voor het archief geldende documentair structuurplan.
 
 ##### Artikel 6
 
@@ -123,21 +125,21 @@ Een selectielijst bestaat tenminste uit:
 
 #### § 2. Toezicht
 
-#### § 3. Zorg
+#### § 2. Toezicht
 
-#### § 4. Vervanging en vervreemding
+#### § 3. Zorg
 
 ##### Artikel 16
 
 1. De zorgdrager besluit tot vervanging van archiefbescheiden door reproducties slechts indien de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 3, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 3, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 16a
 
-1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
+1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden personen als bedoeld in [artikel 4, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=9), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de deskundigen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=9), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de personen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 16b
 
@@ -221,15 +223,15 @@ Aan het benoembaarheidsvereiste, bedoeld in [artikel 28a van de wet](https://wet
 
 ##### Artikel 27
 
-Een besluit tot aanwijzing als opleiding ter verkrijging van het diploma archivistiek A of B dat is genomen krachtens de Archiefwet 1995 geldt als een besluit op grond van [artikel 17, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=3&artikel=17&z=2010-10-10&g=2010-10-10).
+Een besluit tot aanwijzing als opleiding ter verkrijging van het diploma archivistiek A of B dat is genomen krachtens de Archiefwet 1995 geldt als een besluit op grond van [artikel 17, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=3&artikel=17&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 28
 
-[Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2010-10-10&g=2010-10-10), blijft ten aanzien van op het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
+[Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2013-01-01&g=2013-01-01), blijft ten aanzien van op het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
 ##### Artikel 29
 
-De [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=22&z=2010-10-10&g=2010-10-10), en [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2010-10-10&g=2010-10-10), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor deze artikelen verschillend kan worden vastgesteld, doch niet later dan vijf jaar na het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1).
+De [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=22&z=2013-01-01&g=2013-01-01), en [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2013-01-01&g=2013-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor deze artikelen verschillend kan worden vastgesteld, doch niet later dan vijf jaar na het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1).
 
 ##### Artikel 30
 
