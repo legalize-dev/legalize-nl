@@ -4,7 +4,7 @@ identifier: "BWBR0026981"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026981"
 soort: "wet"
@@ -112,13 +112,13 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
-1. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel IX, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2010-01-01&g=2010-01-01), opgenomen verhoging van de accijns.
+1. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel IX, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2013-01-01&g=2013-01-01), opgenomen verhoging van de accijns.
 
-2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de uit [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2010-01-01&g=2010-01-01) voortvloeiende verlaging van de energiebelasting op halfzware olie, gasolie en vloeibaar gemaakt petroleumgas.
+2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de uit [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2013-01-01&g=2013-01-01) voortvloeiende verlaging van de energiebelasting op halfzware olie, gasolie en vloeibaar gemaakt petroleumgas.
 
 ##### Artikel XIV
 
-De bij de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2010-01-01&g=2010-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2010-01-01&g=2010-01-01) van deze wet gewijzigde artikelen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven van toepassing voor zover zij betrekking hebben op:
+De bij de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2013-01-01&g=2013-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2013-01-01&g=2013-01-01) van deze wet gewijzigde artikelen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven van toepassing voor zover zij betrekking hebben op:
 
 - a. de heffing van accijns en energiebelasting waarvan de feiten die aanleiding geven tot het ontstaan van de verschuldigdheid van die accijns of energiebelasting zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet;
 
@@ -146,7 +146,7 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XX
 
@@ -154,7 +154,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de huurtoeslag.
 
 ##### Artikel XXII
 
@@ -182,7 +182,7 @@ Wijzigt de Wijzigingswet Wet op de accijns, enz. (Implementatie horizontale rich
 
 ##### Artikel XXVIa
 
-Met betrekking tot een op 31 december 2010 bestaande kapitaalverzekering die op grond van [artikel 3.116 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), zoals dat artikel luidde op 31 december 2010, als kapitaalverzekering eigen woning wordt aangemerkt en op grond van artikel 3.116 van de Wet inkomstenbelasting 2001, zoals dat artikel luidt op 1 januari 2011, niet meer als kapitaalverzekering eigen woning wordt aangemerkt, blijft artikel 3.116, derde lid, onderdeel a, van de Wet inkomstenbelasting 2001 buiten toepassing indien de verzekering niet meer voldoet aan de voorwaarden van het tweede lid van dat artikel uitsluitend doordat degene met wie de belastingplichtige tot 1 januari 2011 een gezamenlijke huishouding voerde, vanaf 1 januari 2011 niet als partner als bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) of [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2) van de belastingplichtige wordt aangemerkt.
+Met betrekking tot een op 31 december 2010 bestaande kapitaalverzekering die op grond van [artikel 3.116 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.116), zoals dat artikel luidde op 31 december 2010, als kapitaalverzekering eigen woning wordt aangemerkt en op grond van artikel 3.116 van de Wet inkomstenbelasting 2001, zoals dat artikel luidt op 1 januari 2011, niet meer als kapitaalverzekering eigen woning wordt aangemerkt, blijft [artikel 10bis.4, derde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4) buiten toepassing indien de verzekering niet meer voldoet aan de voorwaarden van het tweede lid van dat artikel uitsluitend doordat degene met wie de belastingplichtige tot 1 januari 2011 een gezamenlijke huishouding voerde, vanaf 1 januari 2011 niet als partner als bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) of [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2) van de belastingplichtige wordt aangemerkt.
 
 ##### Artikel XXVIb
 
@@ -196,15 +196,15 @@ Met betrekking tot een op 31 december 2010 bestaande kapitaalverzekering die op 
 
 1. Deze wet treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 
-- a. [artikel I, onderdelen S en T](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=I&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+- a. [artikel I, onderdelen S en T](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=I&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
 
-- b. [artikel XV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
+- b. [artikel XV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
 
-- c. [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+- c. [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
 
-- d. [artikel XV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2010-01-01&g=2010-01-01), en [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XVII&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010.
+- d. [artikel XV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), en [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XVII&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010.
 
-2. In afwijking van het eerste lid treden de [artikelen XIX tot en met XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XIX&z=2010-01-01&g=2010-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid treden de [artikelen XIX tot en met XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XIX&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
 ##### Artikel XXVIII
 
