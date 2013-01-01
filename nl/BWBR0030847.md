@@ -4,7 +4,7 @@ identifier: "BWBR0030847"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030847"
 soort: "wet"
@@ -50,13 +50,13 @@ Wijzigt de Overige fiscale maatregelen 2009.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel III
 
 1. Deze wet treedt in werking met ingang van 1 januari 2012.
 
-2. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030847&artikel=II&z=2012-01-01&g=2012-01-01) in werking met ingang van 1 januari 2013.
+2. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030847&artikel=II&z=2013-01-01&g=2013-01-01) in werking met ingang van 1 januari 2013.
 
 ##### Artikel IV
 
