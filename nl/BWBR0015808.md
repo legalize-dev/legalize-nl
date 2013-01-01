@@ -4,7 +4,7 @@ identifier: "BWBR0015808"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-05-01"
-last_updated: "2009-09-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015808"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - c. bevoegde autoriteit:
 
-- 1°. de officier van justitie of de door de korpsbeheerder voor zijn korps, dan wel door het hoofd van een andere opsporingsdienst voor zijn dienst aangewezen opsporingsambtenaar;
+- 1°. de officier van justitie of de door de korpschef voor zijn korps, dan wel door het hoofd van een andere opsporingsdienst voor zijn dienst aangewezen opsporingsambtenaar;
 
 - 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
+De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
 
 - a. welke informatie of gegevens het betreft;
 
@@ -128,7 +128,7 @@ met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij i
 
 ##### Artikel 8
 
-1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
+1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
 
 - a. de desbetreffende gegevens en informatie te beveiligen tegen kennisneming door onbevoegden;
 
@@ -220,7 +220,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01)
+## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2013-01-01&g=2013-01-01)
 
 ### I. Beveiligingseis algemeen
 
