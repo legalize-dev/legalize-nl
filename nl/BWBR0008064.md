@@ -4,7 +4,7 @@ identifier: "BWBR0008064"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008064"
 soort: "wet"
@@ -43,6 +43,8 @@ Alzo Wij in overweging genomen hebben, dat het, gelet op de uit de [Wet bruterin
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Treedt in werking m.i.v. 1 januari van een krachtens art. 9, tweede lid, van de Wet Bol bepaalde jaar.
+
 ### HOOFDSTUK 1. DEFINITIES
 
 ##### Artikel 1
@@ -61,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. de ZW: de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- g. de WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- g. de WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
 - h. de AAW: de Algemene Arbeidsongeschiktheidswet;
 
@@ -71,7 +73,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. de WAMil: de [Wet Arbeidsongeschiktheidsvoorziening Militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822);
 
-- l. dienstbetrekking: de dienstbetrekking en de arbeidsverhouding die als zodanig wordt beschouwd ingevolge het bepaalde bij of krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- l. dienstbetrekking: de dienstbetrekking en de arbeidsverhouding die als zodanig wordt beschouwd ingevolge het bepaalde bij of krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
 - m. vervaljaar: het krachtens [artikel 9 van de Wet BOL](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=9) vastgestelde jaar met ingang waarvan de verplichting tot betaling van een overhevelingstoeslag komt te vervallen.
 
@@ -107,7 +109,7 @@ wordt verhoogd met het percentage, vastgesteld op grond van [artikel 3 van de We
 
 ##### Artikel 4
 
-1. Een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) of de AAW, al dan niet vermeerderd met een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die betrekking heeft op een periode gelegen vóór het vervaljaar en die in of na het vervaljaar wordt betaald, wordt verhoogd met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=5).
+1. Een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de AAW, al dan niet vermeerderd met een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die betrekking heeft op een periode gelegen vóór het vervaljaar en die in of na het vervaljaar wordt betaald, wordt verhoogd met het percentage, vastgesteld op grond van [artikel 5 van de Wet BOL](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=5).
 
 2. Bij de in het eerste lid bedoelde verhoging wordt rekening gehouden met het op grond van [artikel 3, tweede lid, van de Wet BOL](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=3) vastgestelde maximum.
 
@@ -131,11 +133,11 @@ Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 67, onderdeel **b**, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=67)wordt onder vakantiegeld en vakantiebijslag die betrekking hebben op een periode gelegen vóór het vervaljaar en die op grond van [artikel 64 WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=64) in of na het vervaljaar worden betaald, verstaan het vakantiegeld en de vakantiebijslag, berekend op basis van het overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=7&z=2006-01-01&g=2006-01-01) verhoogde loon.
+1. In afwijking van [artikel 67, onderdeel **b**, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=67)wordt onder vakantiegeld en vakantiebijslag die betrekking hebben op een periode gelegen vóór het vervaljaar en die op grond van [artikel 64 WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=64) in of na het vervaljaar worden betaald, verstaan het vakantiegeld en de vakantiebijslag, berekend op basis van het overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=7&z=2013-01-01&g=2013-01-01) verhoogde loon.
 
 ##### Artikel 9
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=7&z=2006-01-01&g=2006-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=8&z=2006-01-01&g=2006-01-01) worden niet toegepast op loon dat betrekking heeft op de periode die aanvangt met de eerste dag van de maand waarin de werknemer de leeftijd van 65 jaar heeft bereikt.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=7&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&artikel=8&z=2013-01-01&g=2013-01-01) worden niet toegepast op loon dat betrekking heeft op de periode die aanvangt met de eerste dag van de maand waarin de werknemer de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt.
 
 ##### Artikel 10
 
@@ -153,7 +155,7 @@ Voor de toepassing van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13
 
-Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk IV ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV) worden onder «de overige artikelen van deze wet», bedoeld in [artikel 72 ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=72), voor zover van toepassing, mede verstaan de bepalingen van [artikel 2, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2006-01-01&g=2006-01-01) en de bepalingen van deze paragraaf.
+Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk IV ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV) worden onder «de overige artikelen van deze wet», bedoeld in [artikel 72 ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=72), voor zover van toepassing, mede verstaan de bepalingen van [artikel 2, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01) en de bepalingen van deze paragraaf.
 
 ##### Artikel 14
 
@@ -167,7 +169,7 @@ Voor de toepassing van [artikel 57 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 16
 
-Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk VI WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=VI) worden onder «de bepalingen van de overige hoofdstukken», bedoeld in [artikel 86 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=86), voor zover van toepassing, mede verstaan de bepalingen van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2006-01-01&g=2006-01-01) en de bepalingen van deze paragraaf.
+Voor de toepassing van de bepalingen inzake de vrijwillige verzekering ingevolge [hoofdstuk VI WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=VI) worden onder «de bepalingen van de overige hoofdstukken», bedoeld in [artikel 86 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=86), voor zover van toepassing, mede verstaan de bepalingen van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01) en de bepalingen van deze paragraaf.
 
 ##### Artikel 17
 
@@ -213,23 +215,23 @@ Wijzigt de Beroepswet.
 
 ##### Artikel 24
 
-De [artikelen 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=2a) en [129 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=129) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel **a**, en artikel 4 van hoofdstuk 2 en ingevolge [paragraaf 1 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+De [artikelen 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=2a) en [129 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=129) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel **a**, en artikel 4 van hoofdstuk 2 en ingevolge [paragraaf 1 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=1&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 25
 
-De [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=2b) en [73**a** ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=73) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel **b**, en artikel 4 van hoofdstuk 2 en ingevolge [paragraaf 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=2&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+De [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=2b) en [73**a** ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=73) zijn met betrekking tot beschikkingen ingevolge artikel 2, eerste lid, onderdeel **b**, en artikel 4 van hoofdstuk 2 en ingevolge [paragraaf 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=2&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 26
 
-De [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=2b)en [88 WAO](onbekend) zijn met betrekking tot beschikkingen ingevolge [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), en [artikel 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2006-01-01&g=2006-01-01) en ingevolge [paragraaf 3 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=3&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+De [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=2b)en [88 WAO](onbekend) zijn met betrekking tot beschikkingen ingevolge [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01) en ingevolge [paragraaf 3 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=3&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 27
 
-De artikelen 4b en 79 AAW zijn met betrekking tot beschikkingen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01) en [4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2006-01-01&g=2006-01-01) en ingevolge [paragraaf 4 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=4&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+De artikelen 4b en 79 AAW zijn met betrekking tot beschikkingen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) en [4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01) en ingevolge [paragraaf 4 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=4&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 28
 
-[Artikel 38 TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=38) is met betrekking tot beschikkingen ingevolge [artikel 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2006-01-01&g=2006-01-01) en ingevolge [paragraaf 5 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=5&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+[Artikel 38 TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=38) is met betrekking tot beschikkingen ingevolge [artikel 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=2&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01) en ingevolge [paragraaf 5 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008064&hoofdstuk=3&paragraaf=5&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 29
 
