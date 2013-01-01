@@ -4,7 +4,7 @@ identifier: "BWBV0005658"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-04-01"
-last_updated: "2011-12-09"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005658"
 soort: "verdrag"
@@ -106,7 +106,7 @@ Toegang tot archieven en documenten ten behoeve van opsporing en onderzoek in de
 
 - a. Informatie ten behoeve van opsporing wordt op verzoek en kosteloos verstrekt.
 
-- b. Toegang tot de archieven en documenten voor onderzoek in de gebouwen van de Internationale Opsporingsdienst wordt verleend op voorwaarde dat alle passende maatregelen zijn genomen, teneinde te waarborgen dat de werkzaamheden die verband houden met dit onderzoek niet wezenlijk ten koste gaan van de uitvoering van de taken van de Internationale Opsporingsdienst met betrekking tot zijn humanitaire mandaat in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=I&artikel=3&z=2011-12-09&g=2011-12-09) van deze Overeenkomst.
+- b. Toegang tot de archieven en documenten voor onderzoek in de gebouwen van de Internationale Opsporingsdienst wordt verleend op voorwaarde dat alle passende maatregelen zijn genomen, teneinde te waarborgen dat de werkzaamheden die verband houden met dit onderzoek niet wezenlijk ten koste gaan van de uitvoering van de taken van de Internationale Opsporingsdienst met betrekking tot zijn humanitaire mandaat in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01) van deze Overeenkomst.
 
 - c. Gebruik voor onderzoeksdoeleinden van de archieven en documenten die in het bezit zijn van de Internationale Opsporingsdienst wordt op verzoek toegestaan. De voorwaarden voor dergelijk gebruik worden vastgesteld door de Internationale Commissie in met eenparigheid van stemmen aangenomen richtlijnen inzake het gebruik, met inbegrip van een overzicht van de tarieven. Als algemeen beginsel geldt dat het gebruik wordt beperkt tot archieven en documenten in digitale vorm. Bij toegang tot originele archieven en documenten wordt naar behoren rekening gehouden met hun staat van conservering. De onderzoeker verklaart schriftelijk de door de Internationale Commissie vastgestelde voorschriften voor toegang na te leven.
 
@@ -210,7 +210,7 @@ Niet-gouvernementele organisaties die een duidelijk omschreven belang hebben bij
 
 ##### Artikel 20. Benoeming van de directeur
 
-a. De Internationale Commissie benoemt de directeur van de Internationale Opsporingsdienst en neemt dit besluit met eenparigheid van stemmen. De Internationale Commissie raadpleegt de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VI&artikel=16&z=2011-12-09&g=2011-12-09) van deze Overeenkomst genoemde institutionele partner alvorens dit besluit te nemen.
+a. De Internationale Commissie benoemt de directeur van de Internationale Opsporingsdienst en neemt dit besluit met eenparigheid van stemmen. De Internationale Commissie raadpleegt de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VI&artikel=16&z=2013-01-01&g=2013-01-01) van deze Overeenkomst genoemde institutionele partner alvorens dit besluit te nemen.
 
 b. De procedure voor de benoeming van de directeur van de Internationale Opsporingsdienst wordt omschreven in het reglement van orde van de Internationale Commissie.
 
@@ -242,7 +242,7 @@ Alle partijen bij deze Overeenkomst en het Internationale Comité van het Rode K
 
 ##### Artikel 24. Ondersteuning door het gastheerland
 
-a. De reguliere begroting van de Internationale Opsporingsdienst met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=I&artikel=1&z=2011-12-09&g=2011-12-09) van deze Overeenkomst genoemde doelstellingen en taken wordt, op basis van de jaarlijkse voorlopige begroting, goedgekeurd door de Internationale Commissie, in overeenstemming met [artikel 21, lid b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VI&artikel=21&z=2011-12-09&g=2011-12-09), van deze Overeenkomst, gezonden aan de regering van de Bondsrepubliek Duitsland en gefinancierd uit een bijdrage uit de begroting van de Bondsrepubliek Duitsland.
+a. De reguliere begroting van de Internationale Opsporingsdienst met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01) van deze Overeenkomst genoemde doelstellingen en taken wordt, op basis van de jaarlijkse voorlopige begroting, goedgekeurd door de Internationale Commissie, in overeenstemming met [artikel 21, lid b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VI&artikel=21&z=2013-01-01&g=2013-01-01), van deze Overeenkomst, gezonden aan de regering van de Bondsrepubliek Duitsland en gefinancierd uit een bijdrage uit de begroting van de Bondsrepubliek Duitsland.
 
 b. De Federale Rekenkamer van de Bondsrepubliek Duitsland, kan, in samenwerking met de directeur van de Internationale Opsporingsdienst, de boekhouding van de Internationale Opsporingsdienst controleren en het functioneren, de rechtmatigheid en de naleving op het gebied van financieel beheer onderzoeken.
 
@@ -250,7 +250,7 @@ b. De Federale Rekenkamer van de Bondsrepubliek Duitsland, kan, in samenwerking 
 
 ##### Artikel 25. Vrijwillige bijdragen
 
-In aanvulling op de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VII&artikel=24&z=2011-12-09&g=2011-12-09) van deze Overeenkomst genoemde financiering, kan de Internationale Opsporingsdienst verzoeken om vrijwillige bijdragen uit zowel openbare als particuliere bronnen en deze aannemen, teneinde zijn doelstellingen en taken te verwezenlijken. De Internationale Opsporingsdienst stelt de Internationale Commissie in kennis van deze bijdragen en de herkomst ervan.
+In aanvulling op de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005658&hoofdstuk=VII&artikel=24&z=2013-01-01&g=2013-01-01) van deze Overeenkomst genoemde financiering, kan de Internationale Opsporingsdienst verzoeken om vrijwillige bijdragen uit zowel openbare als particuliere bronnen en deze aannemen, teneinde zijn doelstellingen en taken te verwezenlijken. De Internationale Opsporingsdienst stelt de Internationale Commissie in kennis van deze bijdragen en de herkomst ervan.
 
 ### IX. SLOTBEPALINGEN
 
