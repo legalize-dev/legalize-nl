@@ -92,5 +92,3 @@ Op de volgende voorwerpen, bestemd om een werk ten gehore te brengen, te vertone
 | PC/Laptop |   | € 5,00 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad worden geplaatst.
