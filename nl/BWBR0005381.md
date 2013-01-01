@@ -4,7 +4,7 @@ identifier: "BWBR0005381"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1994-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005381"
 soort: "AMvB"
@@ -44,11 +44,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De handelaren, bedoeld in [artikel 437, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437), zijn opkopers en handelaren in gebruikte en ongeregelde goederen, platina, goud, zilver, edelstenen, uurwerken, kunstvoorwerpen, auto's, motorfietsen, bromfietsen, fietsen, foto-, film-, radio-, audio- en videoapparatuur en apparatuur voor automatische registratie.
+1. De handelaren, bedoeld in [artikel 437, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437), zijn opkopers en handelaren in gebruikte en ongeregelde goederen, metalen, edelstenen, uurwerken, kunstvoorwerpen, auto's, motorfietsen, bromfietsen, fietsen, foto-, film-, radio-, audio- en videoapparatuur en apparatuur voor automatische registratie.
+
+2. In het eerste lid wordt onder metalen mede verstaan: legeringen en metalloïden.
 
 ##### Artikel 2
 
-De handelaar, aangewezen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005381&artikel=1&z=1994-04-01&g=1994-04-01) van dit besluit, voldoet aan de verplichting ingevolge artikel 437, eerste lid, onder **a**, van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) tot het aantekening houden van alle gebruikte of ongeregelde goederen die hij heeft verworven of voorhanden heeft indien hij een doorlopend en een door of namens de burgemeester gewaarmerkt register houdt en daarin onverwijld vermeldt:
+1. Indien de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005381&artikel=1&z=2013-01-01&g=2013-01-01) aangewezen handelaar de koopprijs van koper en koperlegeringen in contant geld voldoet, controleert hij de identiteit van de aanbieder aan de hand van een identiteitsbewijs in de zin van [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+
+2. De handelaar, aangewezen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005381&artikel=1&z=2013-01-01&g=2013-01-01) van dit besluit, voldoet aan de verplichting ingevolge [artikel 437, eerste lid, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437) tot het aantekening houden van alle gebruikte of ongeregelde goederen die hij heeft verworven of voorhanden heeft indien hij een doorlopend en een door of namens de burgemeester gewaarmerkt register houdt en daarin onverwijld vermeldt:
 
 - a. het volgnummer van de aantekening met betrekking tot het goed;
 
@@ -58,7 +62,9 @@ De handelaar, aangewezen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - d. de koopprijs of andere voorwaarden van verkrijging van het goed;
 
-- e. de naam en het adres van degene van wie het goed is verkregen.
+- e. de naam en het adres van degene van wie het goed is verkregen;
+
+- f. zowel een omschrijving als het nummer van het document bedoeld in het eerste lid waarmee hij de identiteit van de aanbieder heeft vastgesteld, voor zover het de inkoop van koper en koperlegeringen betreft en de koopprijs van dat goed in contant geld wordt uitbetaald.
 
 ##### Artikel 3
 
