@@ -1,0 +1,402 @@
+---
+title: "Regeling van de Minister van Financiën van 12 december 2012, kenmerk: FM/2012/1887 M, houdende de inkomenscriteria voor het verstrekken van hypothecair krediet en regels voor het vaststellen van de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning (Tijdelijke regeling hypothecair krediet)"
+identifier: "BWBR0032503"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032503"
+soort: "ministeriele-regeling"
+stam_id: "11971013"
+version_id: "21808092"
+internal_id: "C31297121"
+label_id: "11942904"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032503/2026-01-01/0"
+intitule_bron: "Stcrt.2012-26433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32620"
+original_signed_date: "2014-11-10"
+original_published_date: "2014-11-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-32620"
+entry_into_force_date: "2014-11-10"
+jci_1_3: "jci1.3:c:BWBR0032503&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032503&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling hypothecair krediet"
+signed_date: "2014-11-10"
+entry_into_force: "2014-11-10"
+---
+# Regeling van de Minister van Financiën van 12 december 2012, kenmerk: FM/2012/1887 M, houdende de inkomenscriteria voor het verstrekken van hypothecair krediet en regels voor het vaststellen van de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning (Tijdelijke regeling hypothecair krediet)
+
+De Minister van Financiën,
+
+Gelet op [artikel 115, derde lid, van het Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115);
+
+Besluit:
+
+#### § 1. Inleidende bepalingen
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- a. **het besluit:** het [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421);
+
+- b. **energiebesparende voorzieningen:** gevelisolatie, dakisolatie, vloerisolatie, leidingisolatie, energiezuinige kozijnen, deuren en daarmee gelijk te stellen constructieonderdelen, hoog rendement beglazing (HR++), installatie voor warmteterugwinning, energiezuinige ventilatie, inclusief hoog-rendement-ventilatoren, hoogrendementketels, warmtepompen, zonneboilers, zonnecellen of een combinatie daarvan;
+
+- c. **toetsinkomen:** het inkomen waarvan een aanbieder van hypothecair krediet uitgaat bij het bepalen van het maximale hypothecair krediet.
+
+#### § 2. Vaststelling inkomenscriteria
+
+##### Artikel 2
+
+1. Een aanbieder houdt bij het vaststellen van het toetsinkomen rekening met de huidige vaste en bestendige inkomsten van de consument.
+
+2. Indien de consument geen vaste inkomsten heeft, kan de aanbieder van hypothecair krediet rekening houden met de gemiddelde inkomsten van de consument over de laatste drie kalenderjaren, voorafgaand aan het jaar waarin het toetsinkomen wordt vastgesteld. Indien de consument in een of meer van de laatste drie kalenderjaren geen vaste inkomsten heeft gehad, kan de aanbieder van hypothecair krediet naast de wel beschikbare kalenderjaren uitgaan van een door een terzake deskundige onderbouwde prognose van de toekomstige inkomsten van de consument.
+
+3. Bij het vaststellen van het toetsinkomen kan een aanbieder van hypothecair krediet tevens rekening houden met:
+
+- a. toekomstige beschikbare inkomsten uit vrij beschikbaar vermogen van de consument, indien die inkomsten redelijkerwijs te verwachten zijn;
+
+- b. een te verwachten structurele inkomensstijging binnen een redelijke termijn.
+
+##### Artikel 3
+
+1. De financieringslast van een hypothecair krediet mag niet hoger zijn dan de toegestane financieringslast.
+
+2. Als financieringslast van het hypothecair krediet geldt, ongeacht de vorm van het hypothecair krediet, het berekende bruto jaarlijkse bedrag aan debetrente en aflossing behorende bij een hypothecair krediet met een annuïtaire aflossingsschema gedurende dertig jaar. Bij de berekening van de financieringslast wordt ervan uitgegaan dat de rente en aflossing maandelijks achteraf worden betaald.
+
+3. De toegestane financieringslast wordt door de aanbieder van hypothecair krediet vastgesteld aan de hand van het toetsinkomen van de consument en het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2013-01-01&g=2013-01-01) toepasselijke financieringslastpercentage.
+
+4. Indien een hypothecair krediet bedoeld is voor meerdere consumenten, kan rekening worden gehouden met het gezamenlijke toetsinkomen en wordt het financieringslastpercentage gehanteerd dat behoort bij het hoogste toetsinkomen, vermeerderd met 33,33 procent van het lagere toetsinkomen.
+
+5. Bij het vaststellen van de toegestane financieringslast, houdt de aanbieder van hypothecair krediet rekening met:
+
+- a. de geoffreerde debetrentevoet, indien het hypothecair krediet een rentevastperiode heeft van tien jaar of langer; of
+
+- b. een door de aanbieder vast te stellen debetrentevoet voor hypothecair krediet met een looptijd van tenminste tien jaar gebaseerd op een gemiddelde van de debetrentevoet die wordt gehanteerd door de tien grootste aanbieders.
+
+6. Andere financiële verplichtingen van de consument worden door de aanbieder:
+
+- a. opgeteld bij de financieringslast; of
+
+- b. in mindering gebracht op de toegestane financieringslast.
+
+##### Artikel 4
+
+1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), afwijken indien:
+
+- a. het toetsinkomen, de financieringslast en de toegestane financieringslast zijn bepaald op grond van deze paragraaf;
+
+- b. de motivering van de afwijking wordt vastgelegd, met documenten wordt onderbouwd en berekeningen bevat waaruit blijkt dat de afwijkende situatie getoetst is op de in deze regeling gestelde normen en waarin wordt aangegeven waarom het verstrekken van het hypothecair krediet in de specifieke situatie verantwoord is;
+
+- c. de aanbieder kan aantonen dat hij de juistheid van de gegevens waarop de afwijking is gebaseerd heeft gecontroleerd; en
+
+- d. de aanbieder aantoonbaar heeft beoordeeld dat het aannemelijk is dat de aanleiding voor de afwijking een bestendige situatie is.
+
+2. Een aanbieder van hypothecair krediet kan tevens van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), afwijken bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet.
+
+3. Een aanbieder van hypothecair krediet kan bij het treffen van energiebesparende voorzieningen in een woning het deel van het hypothecair krediet dat daarvoor is aangewend tot een bedrag van ten hoogste € 8.000 buiten beschouwing laten bij het vaststellen van de financieringslast. Tevens kan een bedrag van ten hoogste € 8.000 buiten beschouwing worden gelaten, zonder dat sprake is van energiebesparende voorzieningen, indien het een aankoop van een woning met een (A++) label betreft.
+
+4. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet de lopende verplichtingen onder een hypothecair krediet voor de financiering van een nog niet verkochte woning, inclusief de kosten die verband houden met het afsluiten van een overbruggingskrediet, buiten beschouwing laten bij het vaststellen van de financieringslast, indien aannemelijk is gemaakt dat de verplichtingen uit de hypothecaire kredieten door de consument kunnen worden nagekomen gedurende een door de aanbieder van hypothecair krediet in redelijkheid te bepalen periode.
+
+#### § 3. Maximale hypothecair krediet in verhouding tot de waarde van de woning
+
+##### Artikel 5
+
+1. De maximale hoogte van het hypothecair krediet ten opzichte van de waarde van de woning bedraagt:
+
+- a. 105 procent vanaf 1 januari 2013;
+
+- b. 104 procent vanaf 1 januari 2014;
+
+- c. 103 procent vanaf 1 januari 2015;
+
+- d. 102 procent vanaf 1 januari 2016;
+
+- e. 101 procent vanaf 1 januari 2017.
+
+2. De maximale hoogte van het hypothecair krediet ten opzichte van de waarde van de woning bedraagt honderd procent vanaf 1 januari 2018.
+
+3. Een aanbieder van hypothecair krediet kan van het eerste en tweede lid afwijken indien een consument na de verkoop van een woning en aanwending van de verkoopopbrengst voor de aflossing van een hypothecair krediet verstrekt voor die woning, een schuld overhoudt. In dat geval mag het bedrag van die schuld worden meegefinancierd in een nieuw hypothecair krediet en buiten beschouwing worden gelaten bij het berekenen van de ratio, bedoeld in het eerste en tweede lid.
+
+4. Een aanbieder van hypothecair krediet kan voorts van het eerste en tweede lid afwijken indien energiebesparende voorzieningen worden getroffen in de woning. In dat geval mogen de kosten van deze voorzieningen worden meegefinancierd in een hypothecair krediet voor zover het hypothecair krediet niet meer dan 106 procent bedraagt van de waarde van de woning.
+
+5. Een aanbieder van hypothecair krediet kan tevens van het eerste en tweede lid afwijken:
+
+- a. bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet;
+
+- b. bij het betalen van achterstallige betalingen door de consument aan de Vereniging van Eigenaren, voor zover de betalingsachterstand bij de aankoop van de woning een negatieve invloed heeft gehad op de waarde van de woning; of
+
+- c. indien de financieringslast van een hypothecair krediet substantieel lager ligt dan de toegestane financieringslast, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01).
+
+#### § 4. Slotbepalingen
+
+##### Artikel 6
+
+1. Deze regeling treedt in werking op 1 januari 2013.
+
+2. Deze regeling wordt aangehaald als: Tijdelijke regeling hypothecair krediet.
+
+## Bijlage 1. behorende bij het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01)
+
+|   | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages |
+| --- | --- | --- | --- | --- | --- |
+| Bruto jaarinkomen in € | <=5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >=6,501% |
+| 19000 | 18,5% | 19,0% | 19,5% | 20,0% | 20,5% |
+| 19500 | 20,0% | 20,5% | 21,0% | 21,5% | 22,0% |
+| 20000 | 21,5% | 22,0% | 22,5% | 23,0% | 23,5% |
+| 20500 | 22,5% | 23,0% | 23,5% | 24,0% | 24,5% |
+| 21000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,5% |
+| 21500 | 24,0% | 24,5% | 25,0% | 25,5% | 26,0% |
+| 22000 | 24,5% | 25,0% | 25,5% | 26,0% | 26,5% |
+| 22500 | 25,5% | 26,0% | 26,5% | 27,0% | 27,5% |
+| 23000 | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% |
+| 23500 | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% |
+| 24000 | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% |
+| 27000 | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% |
+| 44000 | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% |
+| 51000 | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% |
+| 57000 | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% |
+| 59000 | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% |
+| 61000 | 30,0% | 31,0% | 32,0% | 33,0% | 34,0% |
+| 63000 | 30,5% | 31,5% | 32,5% | 33,5% | 34,5% |
+| 65000 | 31,0% | 32,0% | 33,0% | 34,0% | 35,0% |
+| 68000 | 31,5% | 32,5% | 33,5% | 34,5% | 35,5% |
+| 70000 | 32,0% | 33,0% | 34,0% | 35,0% | 36,0% |
+| 72000 | 32,5% | 33,5% | 34,5% | 35,5% | 36,5% |
+| 76000 | 33,0% | 34,0% | 35,0% | 36,0% | 37,0% |
+| 81000 | 33,5% | 34,5% | 35,5% | 36,5% | 37,5% |
+| 85000 | 33,5% | 35,0% | 36,5% | 38,0% | 39,5% |
+| 90000 | 34,0% | 35,5% | 37,0% | 38,5% | 40,0% |
+| 90000–110000 | 34,0% | 35,5% | 37,0% | 38,5% | 40,0% |
+
+|   | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages | Toetsrentepercentages |
+| --- | --- | --- | --- | --- | --- |
+| Bruto jaarinkomen in € | <=5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >=6,501% |
+| 20000 | 20,5% | 20,5% | 20,5% | 20,5% | 20,5% |
+| 20500 | 22,0% | 22,0% | 22,0% | 22,0% | 22,0% |
+| 21000 | 23,5% | 23,5% | 23,5% | 23,5% | 23,5% |
+| 21500 | 24,0% | 24,0% | 24,0% | 24,0% | 24,0% |
+| 22000 | 24,5% | 25,0% | 25,5% | 26,0% | 26,5% |
+| 22500 | 25,0% | 25,5% | 26,0% | 26,5% | 27,0% |
+| 23000 | 25,5% | 26,0% | 26,5% | 27,0% | 27,5% |
+| 23500 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% |
+| 24000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% |
+| 25000 | 27,5% | 28,0% | 28,5% | 29,0% | 29,5% |
+| 26000 | 28,0% | 28,5% | 29,0% | 29,5% | 30,0% |
+| 27000 | 28,5% | 29,0% | 29,5% | 30,0% | 30,5% |
+| 29000 | 29,0% | 29,5% | 30,0% | 30,5% | 31,0% |
+| 30000 | 29,5% | 30,0% | 30,5% | 31,0% | 31,5% |
+| 31000 | 30,0% | 30,5% | 31,0% | 31,5% | 32,0% |
+| 32000 | 30,5% | 31,0% | 31,5% | 32,0% | 32,5% |
+| 33000 | 31,0% | 31,5% | 32,0% | 32,5% | 33,0% |
+| 35000 | 31,5% | 32,0% | 32,5% | 33,0% | 33,5% |
+| 36000 | 32,0% | 32,5% | 33,0% | 33,5% | 34,0% |
+| 38000 | 32,5% | 33,0% | 33,5% | 34,0% | 34,5% |
+| 40000 | 33,0% | 33,5% | 34,0% | 34,5% | 35,0% |
+| 41000 | 33,0% | 34,0% | 35,0% | 36,0% | 37,0% |
+| 43000 | 33,5% | 34,5% | 35,5% | 36,5% | 37,5% |
+| 44000 | 34,0% | 35,0% | 36,0% | 37,0% | 38,0% |
+| 45000 | 34,5% | 35,5% | 36,5% | 37,5% | 38,5% |
+| 46000 | 35,0% | 36,0% | 37,0% | 38,0% | 39,0% |
+| 47000 | 35,5% | 36,5% | 37,5% | 38,5% | 39,5% |
+| 48000 | 36,0% | 37,0% | 38,0% | 39,0% | 40,0% |
+| 50000 | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% |
+| 51000 | 37,0% | 38,0% | 39,0% | 40,0% | 41,0% |
+| 53000 | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| 54000 | 38,0% | 39,0% | 40,0% | 41,0% | 42,0% |
+| 57000 | 38,5% | 39,5% | 40,5% | 41,5% | 42,5% |
+| 58000 | 39,0% | 40,0% | 41,0% | 42,0% | 43,0% |
+| 65000 | 39,0% | 40,5% | 42,0% | 43,5% | 45,0% |
+| 76000 | 39,5% | 41,0% | 42,5% | 44,0% | 45,5% |
+| 95000 | 40,0% | 41,5% | 43,0% | 44,5% | 46,0% |
+| 104000 | 40,5% | 42,0% | 43,5% | 45,0% | 46,5% |
+| 110000 | 40,5% | 42,0% | 43,5% | 45,0% | 46,5% |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. Vereenvoudigde financieringslastpercentages
+
+| Debetrente | <=3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | > 5,000% |
+| --- | --- | --- | --- | --- | --- |
+| Toetsinkomen |   |   |   |   |   |
+| – | 10,0% | 10,5% | 11,0% | 11,0% | 11,5% |
+| 19.500 | 10,0% | 10,5% | 11,0% | 11,0% | 11,5% |
+| 20.000 | 11,5% | 12,0% | 12,0% | 12,5% | 13,0% |
+| 20.500 | 12,5% | 13,0% | 13,5% | 14,0% | 14,0% |
+| 21.000 | 13,5% | 14,0% | 14,5% | 15,0% | 15,5% |
+| 21.500 | 14,5% | 15,0% | 15,5% | 16,0% | 16,5% |
+| 22.000 | 15,0% | 16,0% | 16,5% | 17,0% | 17,5% |
+| 22.500 | 16,0% | 16,5% | 17,5% | 18,0% | 18,5% |
+| 23.000 | 16,5% | 17,0% | 18,0% | 19,0% | 19,5% |
+| 23.500 | 17,0% | 18,0% | 18,5% | 19,5% | 20,5% |
+| 24.000 | 17,5% | 18,5% | 19,0% | 20,0% | 21,0% |
+| 25.000 | 18,5% | 19,5% | 20,5% | 21,0% | 22,0% |
+| 26.000 | 19,5% | 20,5% | 21,5% | 22,5% | 23,0% |
+| 27.000 | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% |
+| 28.000 | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% |
+| 29.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% |
+| 30.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% |
+| 34.000 | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% |
+| 47.000 | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% |
+| 55.000 | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% |
+| 56.000 | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% |
+| 57.000 | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% |
+| 58.000 | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% |
+| 59.000 | 24,5% | 26,0% | 26,5% | 27,5% | 28,5% |
+| 60.000 | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% |
+| 61.000 | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% |
+| 62.000 | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% |
+| 63.000 | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% |
+| 64.000 | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% |
+| 65.000 | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% |
+| 66.000 | 26,0% | 27,0% | 28,5% | 29,5% | 30,0% |
+| 67.000 | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% |
+| 68.000 | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% |
+| 69.000 | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% |
+| 70.000 | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% |
+| 71.000 | 26,5% | 28,0% | 29,0% | 30,0% | 31,0% |
+| 72.000 | 26,5% | 28,0% | 29,0% | 30,5% | 31,5% |
+| 73.000 | 26,5% | 28,0% | 29,0% | 30,5% | 31,5% |
+| 74.000 | 26,5% | 28,0% | 29,5% | 30,5% | 31,5% |
+| 75.000 | 27,0% | 28,0% | 29,5% | 30,5% | 32,0% |
+| 76.000 | 27,0% | 28,0% | 29,5% | 30,5% | 32,0% |
+| 77.000 | 27,0% | 28,0% | 29,5% | 31,0% | 32,0% |
+| 78.000 | 27,0% | 28,5% | 29,5% | 31,0% | 32,0% |
+| 79.000 | 27,0% | 28,5% | 29,5% | 31,0% | 32,0% |
+| 80.000 | 27,0% | 28,5% | 29,5% | 31,0% | 32,0% |
+| 81.000 | 27,0% | 28,5% | 30,0% | 31,0% | 32,0% |
+| 82.000 | 27,0% | 28,5% | 30,0% | 31,0% | 32,5% |
+| 83.000 | 27,5% | 28,5% | 30,0% | 31,0% | 32,5% |
+| 85.000 | 27,5% | 28,5% | 30,0% | 31,5% | 32,5% |
+| 86.000 | 27,5% | 29,0% | 30,0% | 31,5% | 32,5% |
+| 87.000 | 27,5% | 29,0% | 30,0% | 31,5% | 32,5% |
+| 88.000 | 27,5% | 29,0% | 30,0% | 31,5% | 32,5% |
+| 89.000 | 27,5% | 29,0% | 30,5% | 31,5% | 32,5% |
+| 90.000 | 27,5% | 29,0% | 30,5% | 31,5% | 33,0% |
+| 91.000 | 28,0% | 29,0% | 30,5% | 31,5% | 33,0% |
+| 92.000 | 28,0% | 29,0% | 30,5% | 32,0% | 33,0% |
+| 93.000 | 28,0% | 29,5% | 30,5% | 32,0% | 33,0% |
+| 95.000 | 28,0% | 29,5% | 31,0% | 32,0% | 33,5% |
+| 96.000 | 28,0% | 29,5% | 31,0% | 32,0% | 33,5% |
+| 110.000 | 28,0% | 29,5% | 31,0% | 32,0% | 33,5% |
+
+1 Voor gedeelten van het hypothecair krediet waarvan de debetrente niet fiscaal aftrekbaar is, wordt het financieringslastpercentage verminderd met 1,6 keer de debetrentevoet en 0,1% [F- 1.6 x debetrentevoet – 0,1%].
+
+| Debetrente | <=3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | > 5,000% |
+| --- | --- | --- | --- | --- | --- |
+| Toetsinkomen |   |   |   |   |   |
+| – | 13,5% | 14,0% | 14,0% | 14,0% | 14,0% |
+| 20.000 | 13,5% | 14,0% | 14,0% | 14,0% | 14,0% |
+| 20.500 | 15,0% | 15,5% | 15,5% | 15,5% | 16,0% |
+| 21.000 | 16,5% | 17,0% | 17,0% | 17,0% | 17,5% |
+| 21.500 | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% |
+| 22.000 | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% |
+| 22.500 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% |
+| 23.000 | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% |
+| 23.500 | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% |
+| 24.000 | 23,5% | 24,0% | 24,0% | 24,5% | 25,0% |
+| 25.000 | 25,0% | 25,5% | 26,0% | 26,5% | 27,0% |
+| 26.000 | 25,0% | 26,0% | 26,5% | 27,5% | 28,0% |
+| 27.000 | 25,5% | 26,0% | 27,0% | 27,5% | 28,0% |
+| 28.000 | 25,5% | 26,5% | 27,0% | 28,0% | 28,5% |
+| 29.000 | 26,0% | 26,5% | 27,5% | 28,0% | 28,5% |
+| 30.000 | 26,5% | 27,0% | 28,0% | 28,5% | 29,0% |
+| 31.000 | 26,5% | 27,5% | 28,0% | 29,0% | 29,5% |
+| 32.000 | 27,0% | 28,0% | 28,5% | 29,0% | 30,0% |
+| 33.000 | 27,0% | 28,0% | 29,0% | 29,5% | 30,0% |
+| 34.000 | 27,5% | 28,0% | 29,0% | 29,5% | 30,5% |
+| 35.000 | 27,5% | 28,5% | 29,0% | 30,0% | 30,5% |
+| 36.000 | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% |
+| 37.000 | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% |
+| 40.000 | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% |
+| 43.000 | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% |
+| 44.000 | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% |
+| 45.000 | 28,5% | 29,0% | 30,0% | 31,0% | 32,0% |
+| 46.000 | 29,5% | 30,0% | 31,0% | 32,0% | 32,5% |
+| 47.000 | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% |
+| 48.000 | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% |
+| 49.000 | 30,5% | 31,5% | 32,5% | 33,0% | 33,5% |
+| 50.000 | 31,0% | 32,0% | 32,5% | 33,5% | 34,0% |
+| 51.000 | 31,5% | 32,5% | 33,0% | 34,0% | 34,5% |
+| 52.000 | 31,5% | 32,5% | 33,5% | 34,5% | 35,0% |
+| 53.000 | 31,5% | 33,0% | 34,0% | 34,5% | 35,5% |
+| 54.000 | 31,5% | 33,0% | 34,0% | 35,0% | 36,0% |
+| 55.000 | 31,5% | 33,0% | 34,5% | 35,5% | 36,0% |
+| 56.000 | 31,5% | 33,0% | 34,5% | 36,0% | 36,5% |
+| 57.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,0% |
+| 58.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,0% |
+| 59.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,0% |
+| 60.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 61.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 62.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 63.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 64.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 65.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 66.000 | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 67.000 | 32,0% | 33,0% | 34,5% | 36,0% | 37,5% |
+| 68.000 | 32,0% | 33,5% | 34,5% | 36,0% | 37,5% |
+| 69.000 | 32,0% | 33,5% | 35,0% | 36,0% | 37,5% |
+| 70.000 | 32,5% | 34,0% | 35,0% | 36,0% | 37,5% |
+| 71.000 | 32,5% | 34,0% | 35,0% | 36,5% | 37,5% |
+| 72.000 | 32,5% | 34,0% | 35,5% | 36,5% | 38,0% |
+| 73.000 | 33,0% | 34,5% | 35,5% | 37,0% | 38,0% |
+| 74.000 | 33,0% | 34,5% | 35,5% | 37,0% | 38,0% |
+| 75.000 | 33,0% | 34,5% | 36,0% | 37,0% | 38,5% |
+| 76.000 | 33,5% | 34,5% | 36,0% | 37,5% | 38,5% |
+| 77.000 | 33,5% | 35,0% | 36,0% | 37,5% | 38,5% |
+| 78.000 | 33,5% | 35,0% | 36,5% | 37,5% | 39,0% |
+| 79.000 | 34,0% | 35,0% | 36,5% | 37,5% | 39,0% |
+| 80.000 | 34,0% | 35,5% | 36,5% | 38,0% | 39,0% |
+| 81.000 | 34,0% | 35,5% | 36,5% | 38,0% | 39,0% |
+| 83.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,0% |
+| 84.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 94.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 95.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 97.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 98.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 100.000 | 34,0% | 35,5% | 37,0% | 38,0% | 39,5% |
+| 102.000 | 34,0% | 35,5% | 37,0% | 38,5% | 39,5% |
+| 103.000 | 34,0% | 35,5% | 37,0% | 38,5% | 40,0% |
+| 104.000 | 34,0% | 35,5% | 37,0% | 38,5% | 40,0% |
+| 107.000 | 34,0% | 35,5% | 37,0% | 38,5% | 40,0% |
+| 110.000 | 34,0% | 35,5% | 37,0% | 39,0% | 40,5% |
+
+2 Voor gedeelten van het hypothecair krediet waarvan de debetrente niet fiscaal aftrekbaar is, wordt het financieringslastpercentage verminderd met eenmaal de debetrentevoet en 0,25% [F- 1.0 x debetrentevoet – 0,25%].
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Voor de toepassing van [artikel 3, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01), wordt de wegingsfactor voor studieleningen bepaald op grond van onderstaande tabel en wordt de wegingsfactor vermenigvuldigd met het oorspronkelijke bedrag van de studielening.
+
+| Rentepercentage op studielening (in %) vastgesteld op grond van [artikel 6.3. van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) | Wegingsfactor bij aflosperiode studielening van 15 jaar (in %) behorend bij rentepercentage, bedoeld in [artikel 6.3, eerste lid, van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) | Wegingsfactor bij aflosperiode studielening van 35 jaar (in %) behorend bij rentepercentage, bedoeld in [artikel 6.3, tweede lid, van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) |
+| --- | --- | --- |
+| <1 | 0,65 | 0,35 |
+| 1 – <1,5 | 0,70 | 0,40 |
+| 1,5 – <2 | 0,75 | 0,45 |
+| 2 – <2,5 | 0,80 | 0,50 |
+| 2,5 – <3 | 0,85 | 0,55 |
+| 3 – <3,5 | 0,85 | 0,60 |
+| 3,5 – <4 | 0,90 | 0,65 |
+| 4 – <4,5 | 0,95 | 0,70 |
+| 4,5 – <5 | 1,00 | 0,75 |
+
+#### § 3. Maximale hypothecair krediet in verhouding tot de waarde van de woning
+
+#### § 4. Slotbepalingen
+
+## Bijlage 2. Vereenvoudigde financieringslastpercentages
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
