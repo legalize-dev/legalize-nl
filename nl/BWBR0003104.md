@@ -4,7 +4,7 @@ identifier: "BWBR0003104"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "1999-02-17"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003104"
 soort: "wet"
@@ -110,11 +110,11 @@ Onze Minister kan een vergunning of een ontheffing intrekken, indien de te harer
 
 1. Onze Minister kan de vergunningen of ontheffingen, behorende tot een door hem aangewezen groep, gezamenlijk intrekken, indien een gewichtige reden dit naar zijn oordeel noodzakelijk maakt.
 
-2. Op een besluit krachtens het eerste lid is het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=4&z=1999-02-17&g=1999-02-17), van overeenkomstige toepassing.
+2. Op een besluit krachtens het eerste lid is het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=4&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 9
 
-1. Van een krachtens [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=1999-02-17&g=1999-02-17), opgelegde heffing wordt door Onze Minister schriftelijk mededeling gedaan aan de gezagvoerder van het zeeschip.
+1. Van een krachtens [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=2013-01-01&g=2013-01-01), opgelegde heffing wordt door Onze Minister schriftelijk mededeling gedaan aan de gezagvoerder van het zeeschip.
 
 De mededeling bevat een opgave van de wijze waarop het bedrag der heffing is berekend.
 
@@ -126,7 +126,7 @@ De mededeling bevat een opgave van de wijze waarop het bedrag der heffing is ber
 
 1. Onze Minister kan, wanneer hij overweegt een voordracht tot vaststelling, wijziging of intrekking van een wedervergeldingsbesluit te doen en naar zijn oordeel een gewichtige reden een onmiddellijke voorziening vereist, in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Economische Zaken, van Landbouw en Visserij en voor Ontwikkelingssamenwerking, bij regeling, in deze wet verder genoemd wedervergeldingsregeling, overeenkomstig de in overweging zijnde maatregel regelen stellen en in het bestaande besluit vervatte regelen buiten werking stellen.
 
-2. De [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=1999-02-17&g=1999-02-17), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=4&z=1999-02-17&g=1999-02-17) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=9&z=1999-02-17&g=1999-02-17) zijn van overeenkomstige toepassing.
+2. De [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=2013-01-01&g=2013-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=4&z=2013-01-01&g=2013-01-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=9&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11
 
@@ -134,7 +134,7 @@ Een wedervergeldingsregeling blijft, behoudens eerdere intrekking, van kracht to
 
 ##### Artikel 11a
 
-1. Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=1999-02-17&g=1999-02-17) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=10&z=1999-02-17&g=1999-02-17).
+1. Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=2&z=2013-01-01&g=2013-01-01) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=10&z=2013-01-01&g=2013-01-01).
 
 2. Onze Minister kan, indien een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee dit vereist, van een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, inlichtingen verlangen die hij nodig acht om te kunnen voldoen aan de in die afspraak of dat besluit neergelegde verplichtingen.
 
@@ -150,29 +150,21 @@ Een wedervergeldingsregeling blijft, behoudens eerdere intrekking, van kracht to
 
 ##### Artikel 11c
 
-1. Een ieder van wie op grond van [artikel 11**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11a&z=1999-02-17&g=1999-02-17) inlichtingen zijn verlangd, is verplicht de verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen.
+1. Een ieder van wie op grond van [artikel 11**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11a&z=2013-01-01&g=2013-01-01) inlichtingen zijn verlangd, is verplicht de verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen.
 
-2. Een ieder van wie op grond van [artikel 11**b**, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=1999-02-17&g=1999-02-17), inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister te geven aanwijzingen.
+2. Een ieder van wie op grond van [artikel 11**b**, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=2013-01-01&g=2013-01-01), inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister te geven aanwijzingen.
 
-3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in [artikel 11**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=1999-02-17&g=1999-02-17), bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt.
+3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in [artikel 11**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=2013-01-01&g=2013-01-01), bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt.
 
 ##### Artikel 11d
 
-1. Onze Minister kan in de gevallen als bedoeld in [artikel 11**b**, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=1999-02-17&g=1999-02-17), bij regeling bepalen dat een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, verplicht is een daarbij nader te omschrijven administratie te voeren.
+1. Onze Minister kan in de gevallen als bedoeld in [artikel 11**b**, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b&z=2013-01-01&g=2013-01-01), bij regeling bepalen dat een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, verplicht is een daarbij nader te omschrijven administratie te voeren.
 
 2. Een ieder die ingevolge een regeling op grond van het eerste lid een administratie voert of heeft gevoerd, is verplicht de bescheiden, waaruit die administratie bestaat, gedurende twee jaren na het kalenderjaar, waarop zij betrekking hebben, in Nederland te bewaren.
 
 ##### Artikel 12
 
-Tegen een beschikking tot:
-
-- a. verlening of weigering van een vergunning of een ontheffing, of
-
-- b. intrekking van een vergunning of een ontheffing krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=7&z=1999-02-17&g=1999-02-17), of
-
-- c. oplegging van een heffing,
-
-kan de belanghebbende beroep instellen bij het College.
+Vervallen
 
 ##### Artikel 13
 
