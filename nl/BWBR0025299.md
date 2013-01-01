@@ -4,7 +4,7 @@ identifier: "BWBR0025299"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2009-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025299"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 2. Het praktijkexamen wordt afgenomen in aanwezigheid van een vertegenwoordiger van de politie.
 
-3. Bij het praktijkexamen wordt de geschiktheid van de kandidaat om als verkeersregelaar als bedoeld in het eerste lid op te treden, beoordeeld aan de hand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=1&z=2009-05-01&g=2009-05-01) opgenomen criteria.
+3. Bij het praktijkexamen wordt de geschiktheid van de kandidaat om als verkeersregelaar als bedoeld in het eerste lid op te treden, beoordeeld aan de hand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=1&z=2013-01-01&g=2013-01-01) opgenomen criteria.
 
 4. Voor aanstelling als eenmalige evenementenverkeersregelaar dient een standaardinstructie te zijn gevolgd.
 
@@ -90,7 +90,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 1. Een getuigschrift wordt afgegeven nadat alle vereiste examens met goed gevolg zijn afgelegd.
 
-2. Op het getuigschrift worden in ieder geval opgenomen: naam, voorletters, geboortedatum en adres van de betrokkene, de datum van afgifte van het getuigschrift en de naam van de afgevende instantie. Het getuigschrift dient door de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), bedoelde vertegenwoordiger te zijn voorzien van een waarmerk.
+2. Op het getuigschrift worden in ieder geval opgenomen: naam, voorletters, geboortedatum en adres van de betrokkene, de datum van afgifte van het getuigschrift en de naam van de afgevende instantie. Het getuigschrift dient door de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), bedoelde vertegenwoordiger te zijn voorzien van een waarmerk.
 
 #### § 3. Aanstelling transportbegeleiders en verkeersregelaars met in het kader van het beroep verkeersregelende werkzaamheden
 
@@ -108,7 +108,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 - e. in het bezit zijn van een met het oog op het optreden als transportbegeleider afgegeven verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die op de dag van de aanvraag niet ouder is dan twee maanden, of voorzover het betreft migrerende beroepsbeoefenaars, een hiermee overeenkomend document, afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst.
 
-2. De in het eerste lid, onder d, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de transportbegeleider onder wiens verantwoordelijkheid de stage is doorlopen.
+2. De in het eerste lid, onder d, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de transportbegeleider onder wiens verantwoordelijkheid de stage is doorlopen.
 
 ##### Artikel 6
 
@@ -124,7 +124,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 2. Verkeersregelaars met in het kader van het beroep verkeersregelende taken die in aanmerking komen voor een aanstelling ingevolge [artikel 56, eerste lid, onder a, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=56), dienen in afwijking van het eerste lid, onder c, in het bezit te zijn van een verklaring van de werkgever waaruit blijkt dat deze betrokkene in het kader van diens beroep frequent in meerdere niet-aangrenzende gemeenten en niet uitsluitend in één provincie wenst in te zetten als verkeersregelaar. Deze verklaring is niet vereist voor de aanstelling van personen die als weginspecteur in dienst zijn van Rijkswaterstaat.
 
-3. De in het eerste lid, onder b, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de verkeersregelaar onder wiens verantwoordelijkheid de stage is doorlopen.
+3. De in het eerste lid, onder b, bedoelde proeve van bekwaamheid wordt overeenkomstig [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), afgelegd bij een opleidingsinstituut in Nederland. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing. De in het eerste lid, onder d, bedoelde verklaring wordt afgelegd door de verkeersregelaar onder wiens verantwoordelijkheid de stage is doorlopen.
 
 ##### Artikel 7
 
@@ -164,7 +164,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 1. Evenementenverkeersregelaars dienen voor elke inzet de specifiek daarop toegesneden instructie te hebben gevolgd.
 
-2. Instructies voor evenementenverkeersregelaars vinden plaats onder verantwoordelijkheid van de korpschef van het betrokken regionale politiekorps.
+2. Instructies voor evenementenverkeersregelaars vinden plaats onder verantwoordelijkheid van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
 ##### Artikel 11
 
@@ -186,13 +186,13 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 ##### Artikel 14
 
-1. Tijdens de uitoefening van hun taak dragen verkeersregelaars, alsmede personen die optreden tijdens praktijklessen of praktijkexamens in het kader van een opleiding tot verkeersregelaar, voor de duur van hun werkzaamheden, respectievelijk van deze praktijklessen of het praktijkexamen, een jas of hes, die voldoet aan de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=2&z=2009-05-01&g=2009-05-01).
+1. Tijdens de uitoefening van hun taak dragen verkeersregelaars, alsmede personen die optreden tijdens praktijklessen of praktijkexamens in het kader van een opleiding tot verkeersregelaar, voor de duur van hun werkzaamheden, respectievelijk van deze praktijklessen of het praktijkexamen, een jas of hes, die voldoet aan de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=2&z=2013-01-01&g=2013-01-01).
 
-2. Transportbegeleiders maken voor het begeleiden van transporten waarvoor een ontheffing als bedoeld in artikel 149 van de wet is verleend, voor zover die begeleiding uit de ontheffing voortvloeit, gebruik van een begeleidingsvoertuig dat voldoet aan de omschrijving in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2009-05-01&g=2009-05-01).
+2. Transportbegeleiders maken voor het begeleiden van transporten waarvoor een ontheffing als bedoeld in artikel 149 van de wet is verleend, voor zover die begeleiding uit de ontheffing voortvloeit, gebruik van een begeleidingsvoertuig dat voldoet aan de omschrijving in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2013-01-01&g=2013-01-01).
 
-3. In het in het tweede lid bedoelde begeleidingsvoertuig zijn de hulpmiddelen, genoemd in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2009-05-01&g=2009-05-01), aanwezig.
+3. In het in het tweede lid bedoelde begeleidingsvoertuig zijn de hulpmiddelen, genoemd in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2013-01-01&g=2013-01-01), aanwezig.
 
-4. Gedurende het in het tweede lid bedoelde transport wordt de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2009-05-01&g=2009-05-01), bedoelde verlichting gevoerd.
+4. Gedurende het in het tweede lid bedoelde transport wordt de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=3&z=2013-01-01&g=2013-01-01), bedoelde verlichting gevoerd.
 
 #### § 6. Intrekking van de aanstelling
 
@@ -218,9 +218,9 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 ##### Artikel 16
 
-1. [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2009-05-01&g=2009-05-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op jassen en hessen die voor 1 januari 2010 in gebruik zijn genomen.
+1. [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op jassen en hessen die voor 1 januari 2010 in gebruik zijn genomen.
 
-2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2009-05-01&g=2009-05-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op begeleidingsvoertuigen die op de datum van inwerkingtreding van deze regeling feitelijk in gebruik zijn als begeleidingsvoertuig.
+2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01), is gedurende vijf jaren na inwerkingtreding van deze regeling niet van toepassing op begeleidingsvoertuigen die op de datum van inwerkingtreding van deze regeling feitelijk in gebruik zijn als begeleidingsvoertuig.
 
 #### § 8. Slotbepalingen
 
@@ -246,7 +246,7 @@ Deze regeling wordt aangehaald als: Regeling verkeersregelaars 2009.
 
 ## Bijlage 1
 
-Criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01):
+Criteria, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01):
 
 - 1. De kandidaat-verkeersregelaar toont zich tijdens het praktijkexamen gedurende 15 minuten bedreven in het op adequate en veilige wijze regelen van het verkeer. Dit wordt aangetoond door het kiezen van de juiste positie(s) bij het geven van aanwijzingen aan de verkeersdeelnemers tijdens het regelen van het verkeer op een kruising waar het verkeersaanbod, naar het oordeel van de examinatoren, gelijkmatig is verdeeld over kruisende wegen en de intensiteit hiervan zodanig is dat bedoelde bedrevenheid in redelijkheid is vast te stellen.
 
@@ -298,7 +298,7 @@ De jas die gebruikt wordt door verkeersregelaars die in functie zijn als weginsp
 
 ## Bijlage 3
 
-Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2009-05-01&g=2009-05-01)
+Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=5&artikel=14&z=2013-01-01&g=2013-01-01)
 
 - 1). Het begeleidingsvoertuig heeft over een lengte van tenminste 2,50 meter een minimale daklijnhoogte van 1,75 meter.
 
@@ -348,7 +348,7 @@ Onderdeel A: eisen als bedoeld in [artikel 14, tweede lid](https://wetten.overhe
 
 - 7). Het begeleidingsvoertuig is aan de voor- en achterkant voorzien van de aanduiding ‘convoi exceptionnel’. De aanduiding heeft een hoogte van ten hoogste 0,20 m en mag niet breder zijn dan het begeleidingsvoertuig. De aanduiding is niet retroreflecterend uitgevoerd.
 
-Onderdeel B: eisen bedoeld als in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=6&artikel=15&z=2009-05-01&g=2009-05-01)
+Onderdeel B: eisen bedoeld als in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&paragraaf=6&artikel=15&z=2013-01-01&g=2013-01-01)
 
 In het begeleidingsvoertuig zijn tenminste aanwezig:
 
