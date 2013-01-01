@@ -4,7 +4,7 @@ identifier: "BWBR0031776"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-07-14"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031776"
 soort: "wet"
@@ -86,7 +86,7 @@ Wijzigt de Wet op de rechterlijke indeling.
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+Vervallen
 
 ##### Artikel 8
 
@@ -110,6 +110,6 @@ Wijzigt deze wet.
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031776&paragraaf=1&artikel=2&z=2012-07-14&g=2012-07-14)
+## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031776&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01)
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
