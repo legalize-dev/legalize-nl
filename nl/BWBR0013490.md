@@ -4,7 +4,7 @@ identifier: "BWBR0013490"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2012-05-09"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013490"
 soort: "AMvB"
@@ -47,6 +47,8 @@ Gezien het nader rapport van Onze Minister van Justitie van 25 februari 2002, nr
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip dat de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding in werking treedt.
+
 ##### Artikel I
 
 ### Hoofdstuk I. Begripsomschrijvingen
@@ -73,15 +75,15 @@ In dit besluit wordt verstaan onder:
 
 Tot toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding is bevoegd:
 
-- a. de commissie te Groningen indien het overlijden heeft plaatsgevonden in de arrondissementen Groningen, Leeuwarden, of Assen;
+- a. de commissie te Groningen indien het overlijden heeft plaatsgevonden in de provincies Groningen, Friesland of Drenthe;
 
-- b. de commissie te Arnhem indien het overlijden heeft plaatsgevonden in de arrondissementen Zwolle, Arnhem, Almelo, Zutphen of Utrecht;
+- b. de commissie te Arnhem indien het overlijden heeft plaatsgevonden in de provincies Overijssel, Gelderland, Flevoland of Utrecht;
 
-- c. de commissie te Haarlem indien het overlijden heeft plaatsgevonden in de arrondissementen Alkmaar, Amsterdam of Haarlem;
+- c. de commissie te Haarlem indien het overlijden heeft plaatsgevonden in de provincie Noord-Holland;
 
-- d. de commissie te Rijswijk indien het overlijden heeft plaatsgevonden in de arrondissementen 's-Gravenhage, Rotterdam, Dordrecht of Middelburg;
+- d. de commissie te Rijswijk indien het overlijden heeft plaatsgevonden in de provincies Zuid-Holland of Zeeland;
 
-- e. de commissie te 's-Hertogenbosch indien het overlijden heeft plaatsgevonden in de arrondissementen 's-Hertogenbosch, Breda, Roermond of Maastricht.
+- e. de commissie te 's-Hertogenbosch indien het overlijden heeft plaatsgevonden in de provincies Noord-Brabant of Limburg.
 
 ##### Artikel 4
 
@@ -95,7 +97,7 @@ Tot toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hul
 
 - c. het vertegenwoordigen van de voorzitters;
 
-- d. het geven van aanwijzingen aan de algemeen secretaris, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013490&hoofdstuk=II&artikel=6&z=2012-05-09&g=2012-05-09).
+- d. het geven van aanwijzingen aan de algemeen secretaris, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013490&hoofdstuk=II&artikel=6&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 5
 
