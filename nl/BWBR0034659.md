@@ -4,7 +4,7 @@ identifier: "BWBR0034659"
 country: "nl"
 rank: "wet"
 publication_date: "2016-08-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034659"
 soort: "wet"
@@ -47,7 +47,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoerings- en aanpassingwet Zorgverzekeringswet.
 
 ##### Artikel IIIa
 
@@ -67,7 +67,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Drank- en Horecawet.
 
 ##### Artikel VIII
 
@@ -211,7 +211,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXXII
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=22) juncto [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2017.
 
 ##### Artikel XXXXIII
 
