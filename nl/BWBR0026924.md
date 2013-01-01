@@ -4,7 +4,7 @@ identifier: "BWBR0026924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026924"
 soort: "ministeriele-regeling"
@@ -60,10 +60,10 @@ Voor de verdeelmaatstaven, bedoeld in [bijlage 1 bij het Besluit participatiebud
 
 | Verdeelmaatstaf | Peiljaar | Gewicht |
 | --- | --- | --- |
-| Aantal bijstandsontvangers | 2009 | 1,62 |
-| Aantal WW-ontvangers | 2009 | -0,20 |
-| Omvang beroepsbevolking | 2008-2010 | -0,01 |
-| Kwalitatieve discrepantie laaggeschoolde arbeid | 2008-2010 | 0,31 |
+| Aantal bijstandsontvangers | 2010 | 1,62 |
+| Aantal WW-ontvangers | 2010 | -0,20 |
+| Omvang beroepsbevolking | 2009-2011 | -0,01 |
+| Kwalitatieve discrepantie laaggeschoolde arbeid | 2009-2011 | 0,31 |
 
 ##### Artikel 3. Inwerkingtreding
 
