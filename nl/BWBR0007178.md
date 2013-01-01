@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [88a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=88a) en [88b, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=88b).
+1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en [70, vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -399,7 +399,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2012-01-01&g=2012-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2013-01-01&g=2013-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -419,9 +419,9 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 17
 
-1. De vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), worden verleend, indien:
+1. De vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), worden verleend, indien:
 
-- a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de in [artikel 44, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) bedoelde wijze;
+- a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de wijze, bedoeld in [artikel 44, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
 
 - b. de verklaring geschiedt met gebruikmaking van een door de vergunninghouder van de inrichting opgesteld bescheid in geval van uitslag of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;
 
@@ -429,9 +429,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 - d. de verklaring op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer.
 
-2. De vrijstelling, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), wordt niet verleend indien de kolen worden gebruikt in een installatie voor het opwekken van elektriciteit met een elektrisch vermogen van minder dan 60 kW.
-
-3. Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), van belang zijnde bedrijfshandelingen.
+2. Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), van belang zijnde bedrijfshandelingen.
 
 ##### Artikel 18
 
@@ -439,15 +437,13 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken:
 
-- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een in [artikel 44, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) bedoelde wijze;
+- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een wijze, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
 
 - b. nadat de kolen de in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) bedoelde bestemming hebben gevolgd.
 
 3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
 
-4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) met betrekking tot kolen die worden gebruikt op een in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) bedoelde wijze.
-
-5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+4. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
 ### Hoofdstuk VI. Energiebelasting
 
@@ -485,15 +481,15 @@ De buitenlandse leverancier wordt van de intrekking van de vergunning in kennis 
 
 ##### Artikel 20
 
-1. De tarieven voor zakelijk verbruik, bedoeld in [artikel 59, eerste lid, onderdelen a en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), zijn van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas of de elektriciteit aan hem levert, dat het verbruik van dat aardgas of die elektriciteit zakelijk verbruik betreft als bedoeld in [artikel 47, eerste lid, onderdeel t, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
+1. Het tarief voor zakelijk verbruik, genoemd in [artikel 59, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die de elektriciteit aan hem levert dat het verbruik van die elektriciteit zakelijk verbruik betreft als bedoeld in [artikel 47, eerste lid, onderdeel t, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
 
 2. De verbruiker dient:
 
 - a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van het tarief voor zakelijk verbruik van belang zijnde bedrijfshandelingen;
 
-- b. ter vaststelling van de hoeveelheid aardgas of elektriciteit waarop de tarieven bedoeld in het eerste lid zien, deze hoeveelheid te meten met behulp van meters indien het aardgas of de elektriciteit mede betrokken wordt voor niet-zakelijk verbruik als bedoeld in [artikel 47, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
+- b. ter vaststelling van de hoeveelheid elektriciteit waarop het tarief, bedoeld in het eerste lid, ziet deze hoeveelheid te meten met behulp van meters indien de elektriciteit mede betrokken wordt voor niet-zakelijk verbruik als bedoeld in [artikel 47, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
 
-3. Wijzigingen in de situatie die van invloed zijn op de toepassing van de tarieven, bedoeld in het eerste lid, worden onmiddellijk gemeld aan degene die het aardgas of de elektriciteit levert.
+3. Wijzigingen in de situatie die van invloed zijn op de toepassing van het tarief, bedoeld in het eerste lid, worden onmiddellijk gemeld aan degene die de elektriciteit levert.
 
 ##### Artikel 21
 
@@ -553,17 +549,13 @@ Vervallen
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
 ##### Artikel 28
 
-Voor de toepassing van deze afdeling wordt verstaan onder:
-
-- a. **sierteeltproducten:** snijbloemen beginnend met GN-code 0603 en planten met GN-code 06029091 en 06029099, telkens inclusief het daarbij behorende uitgangsmateriaal, en
-
-- b. **verpakte sierteeltproducten:** sierteeltproducten die verpakt zijn in voor eenmalig gebruik bestemde verpakkingen.
+Vervallen
 
 ### Hoofdstuk VIII. Algemene bepaling
 
@@ -599,57 +591,45 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 ##### Artikel 28a
 
-De regels, genoemd in deze afdeling, gelden voor de producent van sierteeltproducten die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van sierteeltproducten die ter beschikking stelt in de hoedanigheid van veilingcoöperatie of bloemenveiling.
+Vervallen
 
 ##### Artikel 28b
 
-Voor zover de producent, genoemd in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2012-01-01&g=2012-01-01), verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 70%.
+Vervallen
 
 ##### Artikel 28c
 
-Voor zover de producent verpakte sierteeltproducten bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII), met uitzondering van [afdeling 5a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a) voor hem van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 28d
 
-Op de producent, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2012-01-01&g=2012-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+Vervallen
 
 ### Afdeling 1. Sierteelt
 
 ##### Artikel 28e
 
-Voor de toepassing van deze afdeling wordt verstaan onder:
-
-- a. **verse groenten en vers fruit:** de producten, genoemd in artikel 1, lid 1, onderdeel i, van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten («Integrale-GMO-verordening»), al dan niet bewerkt en bananen met GN-code 0803 00 19, al dan niet bewerkt;
-
-- b. **bewerkte verse groenten en bewerkt vers fruit:** de producten, bedoeld in onderdeel a, die zijn gesneden, gewassen, gemengd of verpakt;
-
-- c. **verpakte verse groenten of verpakt vers fruit:** verse groenten of vers fruit, verpakt in voor eenmalig gebruik bestemde verpakkingen; en
-
-- d. **producentenorganisatie:** de producentenorganisatie in de sector groenten en fruit die op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=15), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=19) en [23 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=23) in verbinding met [artikel 2, onderdeel e, sub 1, van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0020360&artikel=2) door het Productschap Tuinbouw als zodanig is erkend in Nederland.
+Vervallen
 
 ##### Artikel 28f
 
-De regels, genoemd in deze afdeling, gelden voor de producent van verse groenten of vers fruit die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van verse groenten of vers fruit die ter beschikking stelt in de hoedanigheid van producentenorganisatie.
+Vervallen
 
 ##### Artikel 28g
 
-1. Voor zover de producent, bedoeld in [artikel 28f,](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2012-01-01&g=2012-01-01) verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 73%.
-
-2. In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 69%.
+Vervallen
 
 ##### Artikel 28h
 
-Voor zover de producent verpakte verse groenten of verpakt vers fruit bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII), met uitzondering van [afdeling 5a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a) voor hem van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 28i
 
-1. Ingeval een producent tevens de teler is van de verse groenten of het vers fruit, en hij deze producten in een verpakking aan een, bij ministeriële regeling aangewezen producentenorganisatie, ter beschikking stelt, wordt de verpakkingenbelasting met betrekking tot die terbeschikkingstelling geheven van deze producentenorganisatie.
-
-2. Ingeval het eerste lid toepassing vindt, kan de producentenorganisatie de belastingvermindering, bedoeld in [artikel 87 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87), één maal toepassen.
+Vervallen
 
 ##### Artikel 28j
 
-Op de producent, bedoeld in [artikel 28f](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2012-01-01&g=2012-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+Vervallen
 
 ### Hoofdstuk VIII. Algemene bepaling
 
