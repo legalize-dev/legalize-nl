@@ -515,37 +515,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 Dit besluit wordt aangehaald als: Besluit bewapening en uitrusting politie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 25a
-
-1. Bij ministeriële regeling worden regels gesteld omtrent de kleding van de directeur van de Politieacademie en zijn plaatsvervanger.
-
-2. De directeur van de Politieacademie draagt er zorg voor dat de aan de ambtenaren, bedoeld in het eerste lid, verstrekte kleding niet in handen van onbevoegden terecht komt.
-
-### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 29a
-
-Dit besluit berust op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22), [59, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), en [81, vijfde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 20a
-
-Bij ministeriële regeling kan worden bepaald dat in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2018-07-01&g=2018-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2018-07-01&g=2018-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2018-07-01&g=2018-07-01), [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2018-07-01&g=2018-07-01), [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=8&z=2018-07-01&g=2018-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2018-07-01&g=2018-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2018-07-01&g=2018-07-01) niet bewapend zijn:
-
-- a. een ambtenaar, aangesteld voor de uitvoering van de politietaak, die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](onbekend) aangewezen politieopleiding heeft voltooid, in een van de door Onze Minister aangewezen functies, en
-
-- b. een ambtenaar in opleiding die na het voltooien van een politieopleiding als bedoeld onder a wordt geplaatst in een functie als bedoeld onder a.
-
-### Hoofdstuk 2. Politiehonden
-
-### Hoofdstuk 3. Kleding
-
-### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
