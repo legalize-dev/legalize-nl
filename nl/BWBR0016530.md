@@ -4,7 +4,7 @@ identifier: "BWBR0016530"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2011-03-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016530"
 soort: "AMvB"
@@ -98,11 +98,11 @@ Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschied
 
 ##### Artikel 4
 
-Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
+Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
 
 ##### Artikel 5
 
-De instantie legt de gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=4&z=2011-03-05&g=2011-03-05), gedurende vier weken voor een ieder ter inzage.
+De instantie legt de gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), gedurende vier weken voor een ieder ter inzage.
 
 ##### Artikel 6
 
@@ -170,11 +170,11 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 3. In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager de volgende gegevens verstrekken:
 
-- a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 5, eerste, respectievelijk derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5);
+- a. het registratienummer van de communautaire vergunning, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1), of van de vergunning, bedoeld in [artikel 7.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.1);
 
 - b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in [verordening (EEG) nr. 881/92](31992R0881) van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);
 
-- c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) en een veiligheidsattest als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
+- c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) en een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
 
 4. In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager een afschrift verstrekken van het bewijs van vakbekwaamheid, bedoeld in [artikel 6, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=6).
 
@@ -196,13 +196,13 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vergunning is vereist, maar waarvoor voor dat tijdstip geen vergunning was vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag om een vergunning in.
 
-2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2011-03-05&g=2011-03-05) totdat op de aanvraag is beslist.
+2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2013-01-01&g=2013-01-01) totdat op de aanvraag is beslist.
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05).
+1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2013-01-01&g=2013-01-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2013-01-01&g=2013-01-01), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2013-01-01&g=2013-01-01).
 
-2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05).
+2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2013-01-01&g=2013-01-01), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 15
 
@@ -262,7 +262,7 @@ II. Afgewerkte olie behoort tot categorie II, indien:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2011-03-05&g=2011-03-05) van het Besluit inzamelen afvalstoffen
+## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2013-01-01&g=2013-01-01) van het Besluit inzamelen afvalstoffen
 
 ### Categorieën van afgewerkte olie
 
