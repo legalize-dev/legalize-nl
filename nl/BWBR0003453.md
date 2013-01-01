@@ -4,7 +4,7 @@ identifier: "BWBR0003453"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "1997-01-29"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003453"
 soort: "AMvB"
@@ -74,9 +74,9 @@ In de commissie hebben zitting;
 
 ##### Artikel 3
 
-1. De leden hebben zitting voor het tijdvak van vijf jaren, doch uiterlijk totdat zij de leeftijd van vijfenzestig jaren hebben bereikt.
+1. De leden hebben zitting voor het tijdvak van vijf jaren, doch uiterlijk totdat zij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt.
 
-2. De aftredende leden, met uitzondering van hen, die de leeftijd van vijfenzestig jaar hebben bereikt, zijn terstond herbenoembaar.
+2. De aftredende leden, met uitzondering van hen, die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt, zijn terstond herbenoembaar.
 
 3. Degene, die in de commissie de plaats inneemt van een lid, wiens zittingsduur nog niet verstreken was, heeft zitting tot het einde van die duur.
 
