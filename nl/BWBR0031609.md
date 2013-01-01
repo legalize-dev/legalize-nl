@@ -4,7 +4,7 @@ identifier: "BWBR0031609"
 country: "nl"
 rank: "wet"
 publication_date: "2013-03-15"
-last_updated: "2012-06-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031609"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Wet op de onafhankelijke post en telecommunicatie autoriteit.
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mediawet 2008.
 
 ##### Artikel IV
 
@@ -79,12 +79,12 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIb
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 7.4a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.4a) is tot een jaar na de datum van inwerkingtreding van dat artikel niet van toepassing op overeenkomsten gesloten vóór de datum van inwerkingtreding van dat artikel.
 
 ##### Artikel VII
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In het koninklijk besluit kan worden bepaald dat [artikel I, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0031609&artikel=I&z=2012-06-05&g=2012-06-05), terugwerkt tot een in dat besluit te bepalen tijdstip.
+2. In het koninklijk besluit kan worden bepaald dat [artikel I, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0031609&artikel=I&z=2013-01-01&g=2013-01-01), terugwerkt tot een in dat besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
