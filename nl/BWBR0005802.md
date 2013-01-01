@@ -4,7 +4,7 @@ identifier: "BWBR0005802"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2012-06-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005802"
 soort: "wet"
@@ -248,7 +248,7 @@ De belasting wordt geheven van de vergunninghouder van de inrichting.
 
 ##### Artikel 17
 
-In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=16&z=2012-06-01&g=2012-06-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2012-06-01&g=2012-06-01), geheven van degene die de alcoholvrije dranken, pruimtabak of snuiftabak voorhanden heeft.
+In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=16&z=2013-01-01&g=2013-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), geheven van degene die de alcoholvrije dranken, pruimtabak of snuiftabak voorhanden heeft.
 
 ##### Artikel 18
 
@@ -256,7 +256,7 @@ De belasting wordt verschuldigd op het tijdstip van de uitslag.
 
 ##### Artikel 19
 
-In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=18&z=2012-06-01&g=2012-06-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2012-06-01&g=2012-06-01), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de alcoholvrije dranken, pruimtabak of snuiftabak.
+In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=18&z=2013-01-01&g=2013-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de alcoholvrije dranken, pruimtabak of snuiftabak.
 
 ##### Artikel 20
 
@@ -268,9 +268,9 @@ In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&ho
 
 ##### Artikel 21
 
-1. Bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2012-06-01&g=2012-06-01) dient in afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) uiterlijk op de dag na het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2012-06-01&g=2012-06-01) bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.
+1. Bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2013-01-01&g=2013-01-01) dient in afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) uiterlijk op de dag na het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2013-01-01&g=2013-01-01) bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.
 
-2. In afwijking van het eerste lid kan de inspecteur, bij toepassing van [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2012-06-01&g=2012-06-01), op verzoek toestemming verlenen om de in een week op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2012-06-01&g=2012-06-01) verschuldigd geworden belasting uiterlijk op de vrijdag van de week daaropvolgend op aangifte te voldoen.
+2. In afwijking van het eerste lid kan de inspecteur, bij toepassing van [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), op verzoek toestemming verlenen om de in een week op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2013-01-01&g=2013-01-01) verschuldigd geworden belasting uiterlijk op de vrijdag van de week daaropvolgend op aangifte te voldoen.
 
 ##### Artikel 22
 
@@ -296,7 +296,7 @@ De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=54) en
 
 ##### Artikel 25
 
-De vervoerder van alcoholvrije dranken, pruimtabak of snuiftabak is hoofdelijk aansprakelijk voor het bedrag aan belasting dat wordt vertegenwoordigd door de hoeveelheid van die goederen waarvan de belasting niet is geheven die door hem wordt vervoerd naar het buitenland, naar een inrichting of naar een persoon of lichaam als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2012-06-01&g=2012-06-01), indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.
+De vervoerder van alcoholvrije dranken, pruimtabak of snuiftabak is hoofdelijk aansprakelijk voor het bedrag aan belasting dat wordt vertegenwoordigd door de hoeveelheid van die goederen waarvan de belasting niet is geheven die door hem wordt vervoerd naar het buitenland, naar een inrichting of naar een persoon of lichaam als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.
 
 ### Hoofdstuk IV. Invoer
 
@@ -328,7 +328,7 @@ Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van belasting verleend ter zake van de uitslag en de invoer van:
 
-- a. vruchte- en groentesappen waarvan de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2012-06-01&g=2012-06-01) aangegeven bestemming niet of niet voldoende blijkt uit die dranken als zodanig, indien degene die die dranken betrekt deze gebruikt voor het vervaardigen van vruchte- of groentesappen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2012-06-01&g=2012-06-01);
+- a. vruchte- en groentesappen waarvan de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2013-01-01&g=2013-01-01) aangegeven bestemming niet of niet voldoende blijkt uit die dranken als zodanig, indien degene die die dranken betrekt deze gebruikt voor het vervaardigen van vruchte- of groentesappen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2013-01-01&g=2013-01-01);
 
 - b. alcoholvrije dranken, pruimtabak of snuiftabak die door degene die die goederen betrekt, worden gebruikt als grondstof voor het vervaardigen van andere goederen dan alcoholvrije dranken, pruimtabak of snuiftabak.
 
@@ -362,7 +362,7 @@ De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68) en
 
 - b. artikel 30.
 
-2. De in het eerste lid, onderdeel **a**, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2012-06-01&g=2012-06-01).
+2. De in het eerste lid, onderdeel **a**, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2013-01-01&g=2013-01-01).
 
 3. De in het eerste lid, onderdeel **b**, bedoelde teruggaaf wordt verleend aan degene die de levering heeft verricht.
 
@@ -424,7 +424,7 @@ De [artikelen 2, vijfde, zesde, zevende en tiende lid](https://wetten.overheid.n
 
 Het is verboden:
 
-- a. anders dan als particulier voor eigen verbruik, alcoholvrije dranken, pruimtabak of snuiftabak te vervaardigen buiten een inrichting die voor dat soort goed als zodanig is aangewezen, tenzij deze vervaardiging plaatsvindt overeenkomstig de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2012-06-01&g=2012-06-01) bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen, dan wel alcoholvrije dranken worden vervaardigd uit andere alcoholvrije dranken en het bedrag van de belasting die eerstbedoelde alcoholvrije dranken vertegenwoordigen niet hoger is dan het bedrag van de belasting dat de alcoholvrije dranken vertegenwoordigen waaruit zij zijn vervaardigd;
+- a. anders dan als particulier voor eigen verbruik, alcoholvrije dranken, pruimtabak of snuiftabak te vervaardigen buiten een inrichting die voor dat soort goed als zodanig is aangewezen, tenzij deze vervaardiging plaatsvindt overeenkomstig de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2013-01-01&g=2013-01-01) bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen, dan wel alcoholvrije dranken worden vervaardigd uit andere alcoholvrije dranken en het bedrag van de belasting die eerstbedoelde alcoholvrije dranken vertegenwoordigen niet hoger is dan het bedrag van de belasting dat de alcoholvrije dranken vertegenwoordigen waaruit zij zijn vervaardigd;
 
 - b. alcoholvrije dranken, pruimtabak of snuiftabak voorhanden te hebben die niet overeenkomstig de bepalingen van deze wet in de heffing zijn betrokken, met uitzondering van alcoholvrije dranken, pruimtabak of snuiftabak die door particulieren voor eigen verbruik zijn betrokken uit een andere lid-staat.
 
@@ -436,7 +436,7 @@ Met betrekking tot pruimtabak en snuiftabak zijn de [artikelen 93 tot en met 96 
 
 ##### Artikel 41
 
-Degene die opzettelijk een in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=39&z=2012-06-01&g=2012-06-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
+Degene die opzettelijk een in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=39&z=2013-01-01&g=2013-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
 
 ##### Artikel 42
 
@@ -444,7 +444,7 @@ Degene die opzettelijk alcoholvrije dranken, pruimtabak of snuiftabak waarvoor v
 
 ##### Artikel 43
 
-1. Met betrekking tot degene die een bij [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=40&z=2012-06-01&g=2012-06-01) van overeenkomstige toepassing verklaard verbod overtreedt, zijn de in [artikel 101 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=101) opgenomen strafbepalingen van overeenkomstige toepassing.
+1. Met betrekking tot degene die een bij [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=40&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing verklaard verbod overtreedt, zijn de in [artikel 101 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=101) opgenomen strafbepalingen van overeenkomstige toepassing.
 
 2. Degene die pruimtabak of snuiftabak die in strijd met de wettelijke bepalingen niet is voorzien van de voorgeschreven belastingzegels uitslaat of invoert, wordt gestraft met geldboete van de derde categorie.
 
@@ -459,5 +459,55 @@ Deze wet treedt in werking met ingang van 1 januari 1993.
 ##### Artikel 45
 
 Deze wet kan worden aangehaald als Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+In afwijking van [artikel 1, eerste lid, onderdeel b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), zijn deze wet en de daarop berustende bepalingen met ingang van 1 januari 2013 uitsluitend van toepassing op alcoholvrije dranken.
+
+### Hoofdstuk II. Definities van de goederen en tarieven
+
+### Afdeling 1. Alcoholvrije dranken
+
+### Afdeling 2. Pruimtabak en snuiftabak
+
+### Hoofdstuk III. Uitslag
+
+### Afdeling 1. Inrichting
+
+### Afdeling 2. Vergunning
+
+### Afdeling 3. Wijze van heffing en voldoening
+
+### Afdeling 4. Zekerheid
+
+### Afdeling 5. Voorrecht
+
+### Afdeling 6. Hoofdelijke aansprakelijkheid
+
+### Hoofdstuk IV. Invoer
+
+### Hoofdstuk V. Vrijstellingen en teruggaven
+
+### Afdeling 1. Vrijstellingen
+
+### Afdeling 2. Teruggaven
+
+### Hoofdstuk VI. Bijzondere bepalingen
+
+### Afdeling 1. Belastingzegels
+
+### Afdeling 2. Controlebepalingen
+
+### Afdeling 3. Overige bepalingen
+
+### Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
+
+### Afdeling 1. Verbodsbepalingen
+
+### Afdeling 2. Strafbepalingen
+
+### Hoofdstuk VIII. Slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
