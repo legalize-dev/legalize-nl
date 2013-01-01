@@ -4,7 +4,7 @@ identifier: "BWBR0007211"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-10"
-last_updated: "2011-02-23"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007211"
 soort: "wet"
@@ -73,9 +73,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. loon:
 
-- 1°. voor zover het betreft [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23), het loon zoals bepaald in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=22&z=2011-02-23&g=2011-02-23);
+- 1°. voor zover het betreft [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01), het loon zoals bepaald in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=22&z=2013-01-01&g=2013-01-01);
 
-- 2°. voor zover het betreft [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2011-02-23&g=2011-02-23), het loon zoals bepaald in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2011-02-23&g=2011-02-23);
+- 2°. voor zover het betreft [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2013-01-01&g=2013-01-01), het loon zoals bepaald in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2013-01-01&g=2013-01-01);
 
 - m. Onze Minister: Onze Minister van Binnenlandse Zaken;
 
@@ -91,15 +91,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - s. vervallen;
 
-- t. werkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) dan wel, indien het een gewezen overheidswerknemer betreft die de leeftijd van 65 jaar nog niet heeft bereikt, de instantie die het loon of het ambtelijk inkomen van de gewezen overheidswerknemer betaalt en voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2011-02-23&g=2011-02-23) de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau voor zover het personeel betreft van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=1);
+- t. werkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) dan wel, indien het een gewezen overheidswerknemer betreft die de leeftijd van 65 jaar nog niet heeft bereikt, de instantie die het loon of het ambtelijk inkomen van de gewezen overheidswerknemer betaalt en voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2013-01-01&g=2013-01-01) de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau voor zover het personeel betreft van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=1);
 
 - u. werknemer:
 
-- 1°. voor zover het betreft de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=8&z=2011-02-23&g=2011-02-23), de werknemer zoals bepaald in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=22&z=2011-02-23&g=2011-02-23);
+- 1°. voor zover het betreft de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=8&z=2013-01-01&g=2013-01-01), de werknemer zoals bepaald in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=22&z=2013-01-01&g=2013-01-01);
 
-- 2°. voor zover het betreft [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2011-02-23&g=2011-02-23), de werknemer zoals bepaald in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2011-02-23&g=2011-02-23);
+- 2°. voor zover het betreft [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2013-01-01&g=2013-01-01), de werknemer zoals bepaald in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2013-01-01&g=2013-01-01);
 
-- 3°. voor zover het betreft [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&z=2011-02-23&g=2011-02-23), de werknemer zoals bepaald in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=33&z=2011-02-23&g=2011-02-23).
+- 3°. voor zover het betreft [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&z=2013-01-01&g=2013-01-01), de werknemer zoals bepaald in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=33&z=2013-01-01&g=2013-01-01).
 
 #### § 2. De financiering van het ABP
 
@@ -265,7 +265,7 @@ Vervallen
 
 - 2°. een aan de militair ambtenaar, bedoeld in het eerste lid, onderdeel **b**, onder 2°, na diens ontslag toe te kennen herplaatsingstoelage;
 
-- 3°. en de inhouding, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=31&z=2011-02-23&g=2011-02-23);
+- 3°. en de inhouding, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=31&z=2013-01-01&g=2013-01-01);
 
 3. In afwijking van het eerste en tweede lid wordt voor de toepassing van het bij of krachtens deze paragraaf bepaalde ten aanzien van de werknemer die een deeltijdbetrekking vervult dan wel uit een deeltijdbetrekking een WAO-uitkering of uitkering, als bedoeld in het vierde lid, onderdeel **a**, onder 3°, ontvangt, onder loon verstaan: het in het eerste lid bedoelde loon, gedeeld door de deeltijdfactor, onderscheidenlijk de deeltijdfactor die gold voor de oorspronkelijke betrekking.
 
@@ -287,9 +287,7 @@ Vervallen
 
 ##### Artikel 29
 
-1. De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.
-
-2. In afwijking van het eerste lid wordt voor de vaststelling van de inhouding inzake werkloosheid, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=31&z=2011-02-23&g=2011-02-23), de heffingsgrondslag, bedoeld in het eerste lid en herleid naar een jaarbedrag, voor zoveel mogelijk verminderd met het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.
+De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.
 
 ##### Artikel 30
 
@@ -347,15 +345,15 @@ Vervallen
 
 ##### Artikel 35
 
-1. De aanpassing van de salarissen ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23), is geen algemene bezoldigingswijziging als bedoeld in de [artikelen A 8 van de Abp-wet](onbekend) en L 1 van de Amp-wet.
+1. De aanpassing van de salarissen ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01), is geen algemene bezoldigingswijziging als bedoeld in de [artikelen A 8 van de Abp-wet](onbekend) en L 1 van de Amp-wet.
 
-2. In afwijking van [artikel 2, derde lid, van de Vut-wet](onbekend) wordt de volgens het eerste en tweede lid van dat artikel vastgestelde bezoldiging met ingang van 1 januari 1995 gewijzigd overeenkomstig de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23).
+2. In afwijking van [artikel 2, derde lid, van de Vut-wet](onbekend) wordt de volgens het eerste en tweede lid van dat artikel vastgestelde bezoldiging met ingang van 1 januari 1995 gewijzigd overeenkomstig de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01).
 
-3. De berekeningsgrondslagen van uitkeringen op grond van een ontslag[uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) die zijn afgeleid van de laatstelijk genoten bezoldiging, worden gewijzigd overeenkomstig de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23).
+3. De berekeningsgrondslagen van uitkeringen op grond van een ontslag[uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) die zijn afgeleid van de laatstelijk genoten bezoldiging, worden gewijzigd overeenkomstig de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 36
 
-De wijziging van het ambtelijk inkomen, bedoeld in [artikel C 1 van de Abp-wet](onbekend), en van de pensioengrondslag, bedoeld in artikel C 1 van de Amp-wet, die het gevolg is van de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23), wordt buiten beschouwing gelaten voor de toepassing van de bepalingen van die pensioenwetten betreffende de pensioenberekening, voor zover dat ambtelijk inkomen, onderscheidenlijk die pensioengrondslag betrekking heeft op de pensioenberekening ter zake van diensttijd voor 1 januari 1995.
+De wijziging van het ambtelijk inkomen, bedoeld in [artikel C 1 van de Abp-wet](onbekend), en van de pensioengrondslag, bedoeld in artikel C 1 van de Amp-wet, die het gevolg is van de salarisaanpassing, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01), wordt buiten beschouwing gelaten voor de toepassing van de bepalingen van die pensioenwetten betreffende de pensioenberekening, voor zover dat ambtelijk inkomen, onderscheidenlijk die pensioengrondslag betrekking heeft op de pensioenberekening ter zake van diensttijd voor 1 januari 1995.
 
 ##### Artikel 37
 
@@ -491,27 +489,25 @@ De volgende wetten worden ingetrokken:
 
 ##### Artikel 65
 
-De ministeriële regeling, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=31&z=2011-02-23&g=2011-02-23), wordt tot stand gebracht in overeenstemming met de Raad voor het Overheidspersoneelsbeleid.
+De ministeriële regeling, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=31&z=2013-01-01&g=2013-01-01), wordt tot stand gebracht in overeenstemming met de Raad voor het Overheidspersoneelsbeleid.
 
 ##### Artikel 66
 
-De militair, bedoeld in [artikel 28, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2011-02-23&g=2011-02-23), is met ingang van 1 januari 1995 maandelijks een premie, bijdrage of vergoeding verschuldigd, waarvan de grootte dezelfde is als het vut-bijdrageverhaal dat zou zijn ingehouden op het loon, indien het een overheidswerknemer in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) betrof die werkzaam is binnen de sector Defensie. De doelstelling en de wijze van inhouding of verrekening van die premie, bijdrage of vergoeding worden vastgesteld bij algemene maatregel van bestuur.
+De militair, bedoeld in [artikel 28, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&artikel=28&z=2013-01-01&g=2013-01-01), is met ingang van 1 januari 1995 maandelijks een premie, bijdrage of vergoeding verschuldigd, waarvan de grootte dezelfde is als het vut-bijdrageverhaal dat zou zijn ingehouden op het loon, indien het een overheidswerknemer in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) betrof die werkzaam is binnen de sector Defensie. De doelstelling en de wijze van inhouding of verrekening van die premie, bijdrage of vergoeding worden vastgesteld bij algemene maatregel van bestuur.
 
 ##### Artikel 67
 
-1. Ten aanzien van betalingen na 1 januari 1995 van ambtelijk inkomen onderscheidenlijk loon dat betrekking heeft op tijd voor die datum, in verband met nabetaling of herberekening van ambtelijk inkomen of loon, zijn de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=2&z=2011-02-23&g=2011-02-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=3&z=2011-02-23&g=2011-02-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2011-02-23&g=2011-02-23), alsmede de desbetreffende nadere regels, van toepassing, tenzij het betreft:
+1. Ten aanzien van betalingen na 1 januari 1995 van ambtelijk inkomen onderscheidenlijk loon dat betrekking heeft op tijd voor die datum, in verband met nabetaling of herberekening van ambtelijk inkomen of loon, zijn de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5&z=2013-01-01&g=2013-01-01), alsmede de desbetreffende nadere regels, van toepassing, tenzij het betreft:
 
 - a. betalingen van ambtelijk inkomen of loon dat reeds voor 1 januari 1995 vorderbaar en inbaar was;
 
-- b. de in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=74&z=2011-02-23&g=2011-02-23) bedoelde uitbetaling van vakantie-uitkering.
+- b. de in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=74&z=2013-01-01&g=2013-01-01) bedoelde uitbetaling van vakantie-uitkering.
 
 2. De in het eerste lid bedoelde betalingen worden, voor zover het loon betreft als bedoeld in [hoofdstuk 3, afdeling 1, paragraaf 1, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&paragraaf=1), verhoogd met 1,86 procent.
 
 ##### Artikel 68
 
-1. Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=2&z=2011-02-23&g=2011-02-23) en [artikel 80 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=80&z=2011-02-23&g=2011-02-23), van het bestuur van het Vut-fonds ingevolge het bepaalde in [paragraaf 3 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=3&z=2011-02-23&g=2011-02-23), of van het bestuur van het FAOP ingevolge het bepaalde in [paragraaf 4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23), gelijkgesteld met een besluit.
-
-2. In afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen op grond van deze wet ingesteld de rechtbank te 's-Gravenhage bevoegd.
+Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=2&z=2013-01-01&g=2013-01-01) en [artikel 80 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=80&z=2013-01-01&g=2013-01-01), van het bestuur van het Vut-fonds ingevolge het bepaalde in [paragraaf 3 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=3&z=2013-01-01&g=2013-01-01), of van het bestuur van het FAOP ingevolge het bepaalde in [paragraaf 4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01), gelijkgesteld met een besluit.
 
 ##### Artikel 69
 
@@ -519,7 +515,7 @@ De militair, bedoeld in [artikel 28, eerste lid, onderdeel b, onder 2°](https:/
 
 ##### Artikel 70
 
-1. In afwijking van [artikel B 7 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel C, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van kracht ten aanzien van diensttijd voor die dag.
+1. In afwijking van [artikel B 7 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel C, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van kracht ten aanzien van diensttijd voor die dag.
 
 2. In de ministeriële regeling, bedoeld in [artikel B 7 van de Abp-wet](onbekend), kan tot uiterlijk 1 augustus 1994 tevens worden bepaald dat personen of groepen van personen geen ambtenaar zijn uit hoofde van de korte duur van hun dienstverhouding.
 
@@ -539,7 +535,7 @@ Vervallen
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze van betaling van de pensioenbijdrage over het jaar 1994.
 
-3. [Artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=72&z=2011-02-23&g=2011-02-23), is van overeenkomstige toepassing.
+3. [Artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=72&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 74
 
@@ -551,15 +547,15 @@ Vervallen
 
 ##### Artikel 75
 
-In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft het derde lid van genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel F, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van kracht ten aanzien van diensttijd tussen 30 september 1986 en de datum van die inwerkingtreding, onverminderd artikel III, onderdeel B, van de wet van 3 juli 1986, tot wijziging van de Algemene burgerlijke pensioenwet en de Spoorwegpensioenwet met betrekking tot aanspraken van deelgerechtigden die de leeftijd van 25 jaar nog niet hebben bereikt (**Stb.** 393).
+In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft het derde lid van genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel F, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van kracht ten aanzien van diensttijd tussen 30 september 1986 en de datum van die inwerkingtreding, onverminderd artikel III, onderdeel B, van de wet van 3 juli 1986, tot wijziging van de Algemene burgerlijke pensioenwet en de Spoorwegpensioenwet met betrekking tot aanspraken van deelgerechtigden die de leeftijd van 25 jaar nog niet hebben bereikt (**Stb.** 393).
 
 ##### Artikel 76
 
-1. De [artikelen D 1](onbekend) en [D 2 van de Abp-wet](onbekend), zoals deze artikelen luidden op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdelen F en G, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), blijven van toepassing ten aanzien van de belanghebbende die op het vorenbedoelde tijdstip tijd als bedoeld in [artikel D 1, tweede lid, onderdeel **a**, van de Abp-wet](onbekend), niet zijnde tijd als bedoeld in [artikel D 2, derde lid, van die wet](onbekend), zoals deze artikelen luidden op het vorenbedoelde tijdstip, mede als diensttijd in de zin van de [Abp-wet](onbekend) in aanmerking zou kunnen doen brengen.
+1. De [artikelen D 1](onbekend) en [D 2 van de Abp-wet](onbekend), zoals deze artikelen luidden op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdelen F en G, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), blijven van toepassing ten aanzien van de belanghebbende die op het vorenbedoelde tijdstip tijd als bedoeld in [artikel D 1, tweede lid, onderdeel **a**, van de Abp-wet](onbekend), niet zijnde tijd als bedoeld in [artikel D 2, derde lid, van die wet](onbekend), zoals deze artikelen luidden op het vorenbedoelde tijdstip, mede als diensttijd in de zin van de [Abp-wet](onbekend) in aanmerking zou kunnen doen brengen.
 
 2. Zodra de belanghebbende dit wenst kan hij om overname verzoeken van de in het eerste lid bedoelde tijd.
 
-3. In afwijking van het eerste en tweede lid kan de belanghebbende die op de dag voorafgaande aan de inwerkingtreding van [artikel 53, onderdelen F en G, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23) ambtenaar is, het verzoek, bedoeld in het tweede lid, uitsluitend indienen tot uiterlijk twee jaar na het tijdstip van die inwerkingtreding.
+3. In afwijking van het eerste en tweede lid kan de belanghebbende die op de dag voorafgaande aan de inwerkingtreding van [artikel 53, onderdelen F en G, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01) ambtenaar is, het verzoek, bedoeld in het tweede lid, uitsluitend indienen tot uiterlijk twee jaar na het tijdstip van die inwerkingtreding.
 
 4. Indien het in het tweede lid bedoelde verzoek wordt gedaan, wordt daarvan door het bestuur van het ABP mededeling gedaan aan de Minister van Defensie.
 
@@ -569,7 +565,7 @@ In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge dez
 
 ##### Artikel 77
 
-1. Artikel D 2 van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 56, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2011-02-23&g=2011-02-23), van deze wet, blijft van toepassing ten aanzien van de belanghebbende die:
+1. Artikel D 2 van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 56, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2013-01-01&g=2013-01-01), van deze wet, blijft van toepassing ten aanzien van de belanghebbende die:
 
 - a. op het vorenbedoelde tijdstip voor pensioen geldende tijd in de zin van de [Abp-wet](onbekend) mede als diensttijd in de zin van de Amp-wet in aanmerking zou kunnen doen brengen;
 
@@ -601,7 +597,7 @@ In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge dez
 
 ##### Artikel 79
 
-1. De bepalingen inzake de invaliditeitspensioenen ingevolge de [Abp-wet](onbekend) en de pensioenen ingevolge de Amp-wet uit hoofde van ziekten en gebreken, zoals deze van toepassing waren op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), blijven van toepassing ten aanzien van:
+1. De bepalingen inzake de invaliditeitspensioenen ingevolge de [Abp-wet](onbekend) en de pensioenen ingevolge de Amp-wet uit hoofde van ziekten en gebreken, zoals deze van toepassing waren op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), blijven van toepassing ten aanzien van:
 
 - a. degene die op die dag reeds een dergelijk pensioen ontvangt;
 
@@ -613,9 +609,9 @@ In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge dez
 
 - 3°. geheel of gedeeltelijk algemeen invalide is in de zin van [artikel F 8a, tweede lid, van de Abp-wet](onbekend), onderscheidenlijk geheel of gedeeltelijk arbeidsongeschikt is in de zin van artikel E 6 van de Amp-wet.
 
-- c. degene aan wie na de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet een dergelijk pensioen wordt toegekend naar aanleiding van een reeds voor die inwerkingtreding ontstaan recht daarop;
+- c. degene aan wie na de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet een dergelijk pensioen wordt toegekend naar aanleiding van een reeds voor die inwerkingtreding ontstaan recht daarop;
 
-- d. degene die op de dag voorafgaande aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet recht heeft op een herplaatsingswachtgeld als bedoeld in [artikel K 4, tweede lid, van de Abp-wet](onbekend) dan wel een herplaatsingstoelage als bedoeld in [artikel K 4, vierde lid, van die wet](onbekend).
+- d. degene die op de dag voorafgaande aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet recht heeft op een herplaatsingswachtgeld als bedoeld in [artikel K 4, tweede lid, van de Abp-wet](onbekend) dan wel een herplaatsingstoelage als bedoeld in [artikel K 4, vierde lid, van die wet](onbekend).
 
 2. Ten aanzien van de in het eerste lid bedoelde belanghebbenden is [artikel F 8f van de Abp-wet](onbekend) onderscheidenlijk artikel E 6, zesde lid, van de Amp-wet van overeenkomstige toepassing, met dien verstande dat daarbij onder het invaliditeitspensioen dan wel arbeidsongeschiktheidspensioen tevens wordt begrepen de toeslag, bedoeld in:
 
@@ -625,7 +621,7 @@ In afwijking van [artikel D 1 van de Abp-wet](onbekend), zoals dat ingevolge dez
 
 - c. artikel 10 van de in artikel 60 genoemde wet,
 
-zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet.
+zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet.
 
 ##### Artikel 80
 
@@ -633,7 +629,7 @@ zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van [a
 
 - a. op of na 1 augustus 1993 in dienst is van een lichaam, als bedoeld in de [artikelen B 1](onbekend), [B 2](onbekend) of [B 3 van de Abp-wet](onbekend),
 
-- b. geen ambtenaar is vanwege de omstandigheid dat hij voor niet langer dan zes maanden in dienst is genomen, dan wel vanwege de geringe omvang van zijn werkzaamheden, bedoeld in [artikel B 7 van de Abp-wet](onbekend), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet, en
+- b. geen ambtenaar is vanwege de omstandigheid dat hij voor niet langer dan zes maanden in dienst is genomen, dan wel vanwege de geringe omvang van zijn werkzaamheden, bedoeld in [artikel B 7 van de Abp-wet](onbekend), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet, en
 
 - c. tijdens het vorenbedoeld dienstverband voor ten minste 15 procent arbeidsongeschikt is geworden en in verband daarmee een uitkering ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) ontvangt,
 
@@ -651,33 +647,33 @@ heeft recht op een aanvulling van zijn WAO-uitkering overeenkomstig [artikel F 8
 
 ##### Artikel 81
 
-1. Degene die op het tijdstip van inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet ambtenaar is en die kiest voor de verlaging van het pensioenbijdrageverhaal, bedoeld in [artikel F 8f, derde lid, van de Abp-wet](onbekend), dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.
+1. Degene die op het tijdstip van inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet ambtenaar is en die kiest voor de verlaging van het pensioenbijdrageverhaal, bedoeld in [artikel F 8f, derde lid, van de Abp-wet](onbekend), dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.
 
 2. Degene die na het in het eerste lid bedoelde tijdstip, maar voor 1 januari 1995 ambtenaar wordt, dient de in het eerste lid bedoelde keuze terstond bij de aanvang van de dienstverhouding waaraan die hoedanigheid wordt ontleend, op de voorgeschreven wijze kenbaar te maken.
 
 3. Ten aanzien van degene op wie het eerste of tweede lid van toepassing is, gaat de verlaging van het pensioenbijdrageverhaal, bedoeld in [artikel F 8f van de Abp-wet](onbekend), in per 1 januari 1995.
 
-4. In afwijking van het eerste lid en van [artikel F 8f van de Abp-wet](onbekend) wordt degene die op het tijdstip van inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet ambtenaar is en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in [artikel F 8f, derde lid, van de Abp-wet](onbekend) bedoelde verlaging van het pensioenbijdrageverhaal, met behoud van de aanspraak op de aanvulling, bedoeld in het eerste lid van dat artikel.
+4. In afwijking van het eerste lid en van [artikel F 8f van de Abp-wet](onbekend) wordt degene die op het tijdstip van inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet ambtenaar is en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in [artikel F 8f, derde lid, van de Abp-wet](onbekend) bedoelde verlaging van het pensioenbijdrageverhaal, met behoud van de aanspraak op de aanvulling, bedoeld in het eerste lid van dat artikel.
 
 ##### Artikel 82
 
-1. Degene die op het tijdstip van inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2011-02-23&g=2011-02-23), van deze wet beroepsmilitair of gewezen beroepsmilitair is in de zin van de Amp-wet, en die kiest voor de verlaging van de pensioenbijdrage, bedoeld in artikel F 6c, tweede lid, van de Amp-wet, dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.
+1. Degene die op het tijdstip van inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2013-01-01&g=2013-01-01), van deze wet beroepsmilitair of gewezen beroepsmilitair is in de zin van de Amp-wet, en die kiest voor de verlaging van de pensioenbijdrage, bedoeld in artikel F 6c, tweede lid, van de Amp-wet, dient voor 1 december 1994 zijn keuze op de voorgeschreven wijze kenbaar te maken.
 
 2. Degene die na het in het eerste lid bedoelde tijdstip, maar voor 1 januari 1995 beroepsmilitair in de zin van de Amp-wet wordt, dient de in het eerste lid bedoelde keuze terstond bij de aanvang van de dienstverhouding waaraan die hoedanigheid wordt ontleend, op de voorgeschreven wijze kenbaar te maken.
 
 3. Ten aanzien van degene op wie het eerste of tweede lid van toepassing is, gaat de verlaging van de pensioenbijdrage, bedoeld in artikel F 6c van de Amp-wet, in per 1 januari 1995.
 
-4. In afwijking van het eerste lid en van artikel F 6c van de Amp-wet wordt degene die op het tijdstip van inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2011-02-23&g=2011-02-23), van deze wet beroepsmilitair of gewezen beroepsmilitair is in de zin van de Amp-wet en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in artikel F 6c, tweede lid, van de Amp-wet bedoelde verlaging van de pensioenbijdrage, met behoud van de aanspraak op de aanvulling, bedoeld in artikel E 6, zesde lid, van die wet.
+4. In afwijking van het eerste lid en van artikel F 6c van de Amp-wet wordt degene die op het tijdstip van inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2013-01-01&g=2013-01-01), van deze wet beroepsmilitair of gewezen beroepsmilitair is in de zin van de Amp-wet en de leeftijd van 58 jaar reeds heeft bereikt, met ingang van 1 januari 1995 in aanmerking gebracht voor de in artikel F 6c, tweede lid, van de Amp-wet bedoelde verlaging van de pensioenbijdrage, met behoud van de aanspraak op de aanvulling, bedoeld in artikel E 6, zesde lid, van die wet.
 
 ##### Artikel 83
 
 1. Degene die ingevolge de [Abp-wet](onbekend) een invaliditeitspensioen ontvangt, niet zijnde een pensioen als bedoeld in [artikel F 12 van die wet](onbekend), en wiens pensioen niet is berekend met toepassing van [artikel F 1**a**, tweede lid, van de Abp-wet](onbekend), heeft recht op een toeslag ter grootte van een percentage van dat pensioen, welk percentage in kolom 2 van de bij deze wet behorende tabel II is opgenomen achter de daarbij in kolom 1 genoemde pensioengrenzen.
 
-2. [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=7&artikel=39&z=2011-02-23&g=2011-02-23), is van overeenkomstige toepassing.
+2. [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=7&artikel=39&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 3. Wanneer het invaliditeitspensioen met toepassing van de [artikelen J 18](onbekend), [J 19](onbekend) of [J 20 van de Abp-wet](onbekend) een vermindering heeft ondergaan, wordt de toeslag berekend over het aldus verminderde pensioen.
 
-4. Het eerste lid is niet van toepassing ten aanzien van degene wiens invaliditeitspensioen ingevolge [artikel F 9, negende lid, van de Abp-wet](onbekend), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet, 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximumsalaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) vermeerderd met de daarbij behorende vakantie-uitkering.
+4. Het eerste lid is niet van toepassing ten aanzien van degene wiens invaliditeitspensioen ingevolge [artikel F 9, negende lid, van de Abp-wet](onbekend), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet, 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximumsalaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) vermeerderd met de daarbij behorende vakantie-uitkering.
 
 ##### Artikel 84
 
@@ -685,11 +681,11 @@ heeft recht op een aanvulling van zijn WAO-uitkering overeenkomstig [artikel F 8
 
 2. Wanneer het invaliditeitspensioen met toepassing van de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen ter zake van samenloop met andere inkomsten een vermindering heeft ondergaan, wordt de toeslag berekend over het aldus verminderde pensioen.
 
-3. Het eerste lid is niet van toepassing ten aanzien van degene wiens pensioen wegens ziekten of gebreken ingevolge artikel F 6, zevende lid, van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2011-02-23&g=2011-02-23), van deze wet 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximum-salaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) vermeerderd met de daarbij behorende vakantie-uitkering.
+3. Het eerste lid is niet van toepassing ten aanzien van degene wiens pensioen wegens ziekten of gebreken ingevolge artikel F 6, zevende lid, van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 56, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2013-01-01&g=2013-01-01), van deze wet 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximum-salaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) vermeerderd met de daarbij behorende vakantie-uitkering.
 
 ##### Artikel 85
 
-In afwijking van [artikel F 12 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft het eerste lid van genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), van deze wet, van kracht ten aanzien van diensttijd tussen 30 september 1986 en de datum van die inwerkingtreding, onverminderd artikel III, onderdeel B, van de wet van 3 juli 1986, tot wijziging van de Algemene burgerlijke pensioenwet en de Spoorwegpensioenwet met betrekking tot aanspraken van deelgerechtigden die de leeftijd van 25 jaar nog niet hebben bereikt (**Stb.** 393).
+In afwijking van [artikel F 12 van de Abp-wet](onbekend), zoals dat ingevolge deze wet is komen te luiden, blijft het eerste lid van genoemd artikel, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 53, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), van deze wet, van kracht ten aanzien van diensttijd tussen 30 september 1986 en de datum van die inwerkingtreding, onverminderd artikel III, onderdeel B, van de wet van 3 juli 1986, tot wijziging van de Algemene burgerlijke pensioenwet en de Spoorwegpensioenwet met betrekking tot aanspraken van deelgerechtigden die de leeftijd van 25 jaar nog niet hebben bereikt (**Stb.** 393).
 
 ##### Artikel 86
 
@@ -705,7 +701,7 @@ De pensioenen die ingevolge de artikelen J 1a en J 2a van de Amp-wet, zoals deze
 
 ##### Artikel 89
 
-Voor de toepassing van [artikel K 5, tweede lid, van de Abp-wet](onbekend) wordt het ambtelijk inkomen uit de oorspronkelijke betrekking, voor zover dat inkomen betrekking had of kan worden geacht betrekking te hebben gehad op een tijdvak gelegen voor 1 januari 1995, aangepast overeenkomstig de aanpassing van de salarissen ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23) van deze wet.
+Voor de toepassing van [artikel K 5, tweede lid, van de Abp-wet](onbekend) wordt het ambtelijk inkomen uit de oorspronkelijke betrekking, voor zover dat inkomen betrekking had of kan worden geacht betrekking te hebben gehad op een tijdvak gelegen voor 1 januari 1995, aangepast overeenkomstig de aanpassing van de salarissen ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01) van deze wet.
 
 ##### Artikel 90
 
@@ -713,33 +709,33 @@ In afwijking van [artikel 6, tweede lid, van de Vut-wet](onbekend) bedraagt de u
 
 ##### Artikel 91
 
-Artikel 10 van de wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsregelingen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel, (**Stb.** 657) blijft van toepassing ten aanzien van de invaliditeitspensioenen, bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=79&z=2011-02-23&g=2011-02-23).
+Artikel 10 van de wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsregelingen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel, (**Stb.** 657) blijft van toepassing ten aanzien van de invaliditeitspensioenen, bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=79&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 92
 
 1. Deze wet treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst voor zover het betreft:
 
-- a. [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=1&z=2011-02-23&g=2011-02-23);
+- a. [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=1&z=2013-01-01&g=2013-01-01);
 
-- b. [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2011-02-23&g=2011-02-23), met uitzondering van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=26&z=2011-02-23&g=2011-02-23);
+- b. [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&z=2013-01-01&g=2013-01-01), met uitzondering van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=4&artikel=26&z=2013-01-01&g=2013-01-01);
 
-- c. [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=8&z=2011-02-23&g=2011-02-23);
+- c. [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=8&z=2013-01-01&g=2013-01-01);
 
-- d. [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&z=2011-02-23&g=2011-02-23), met uitzondering van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), de onderdelen B, E, H, L, N, V, onder 4 tot en met 6, Z, AA, EE tot en met HH, en MM;
+- d. [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&z=2013-01-01&g=2013-01-01), met uitzondering van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), de onderdelen B, E, H, L, N, V, onder 4 tot en met 6, Z, AA, EE tot en met HH, en MM;
 
-- e. [paragraaf 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&z=2011-02-23&g=2011-02-23), met uitzondering van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2011-02-23&g=2011-02-23), de onderdelen H, L, N, O, Q, onder 4, 5 en 6, R, onder 2, T, U, V, W, IJ, Z, AA en BB;
+- e. [paragraaf 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&z=2013-01-01&g=2013-01-01), met uitzondering van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=10&artikel=56&z=2013-01-01&g=2013-01-01), de onderdelen H, L, N, O, Q, onder 4, 5 en 6, R, onder 2, T, U, V, W, IJ, Z, AA en BB;
 
-- f. [paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&z=2011-02-23&g=2011-02-23), met uitzondering van de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=59&z=2011-02-23&g=2011-02-23), de onderdelen B en E, [62](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=62&z=2011-02-23&g=2011-02-23) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=64&z=2011-02-23&g=2011-02-23);
+- f. [paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&z=2013-01-01&g=2013-01-01), met uitzondering van de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=59&z=2013-01-01&g=2013-01-01), de onderdelen B en E, [62](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=62&z=2013-01-01&g=2013-01-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=11&artikel=64&z=2013-01-01&g=2013-01-01);
 
-- g. [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&z=2011-02-23&g=2011-02-23), met uitzondering van de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=78&z=2011-02-23&g=2011-02-23), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=83&z=2011-02-23&g=2011-02-23), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=84&z=2011-02-23&g=2011-02-23), [89](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=89&z=2011-02-23&g=2011-02-23) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=90&z=2011-02-23&g=2011-02-23).
+- g. [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&z=2013-01-01&g=2013-01-01), met uitzondering van de [artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=78&z=2013-01-01&g=2013-01-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=83&z=2013-01-01&g=2013-01-01), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=84&z=2013-01-01&g=2013-01-01), [89](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=89&z=2013-01-01&g=2013-01-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=90&z=2013-01-01&g=2013-01-01).
 
 2. Deze wet treedt voor het overige in werking met ingang van 1 januari 1995.
 
-3. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=72&z=2011-02-23&g=2011-02-23) werkt terug tot en met 1 januari 1993.
+3. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=72&z=2013-01-01&g=2013-01-01) werkt terug tot en met 1 januari 1993.
 
-4. De [artikelen 53, onderdeel I, onder 1, 63, 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=80&z=2011-02-23&g=2011-02-23) werken terug tot en met 1 augustus 1993.
+4. De [artikelen 53, onderdeel I, onder 1, 63, 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=80&z=2013-01-01&g=2013-01-01) werken terug tot en met 1 augustus 1993.
 
-5. De [artikelen 53, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2011-02-23&g=2011-02-23), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=73&z=2011-02-23&g=2011-02-23) werken terug tot en met 1 januari 1994.
+5. De [artikelen 53, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=9&artikel=53&z=2013-01-01&g=2013-01-01), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=73&z=2013-01-01&g=2013-01-01) werken terug tot en met 1 januari 1994.
 
 6. Indien het bij koninklijke boodschap van 17 mei 1993 ingediende voorstel van wet houdende wijziging van de Algemene burgerlijke pensioenwet en andere overheidspensioenwetten (reparatie overheidspensioenen; Kamerstukken II 1992/93, 23 155, nrs. 1-2) tot wet wordt verheven en gelijktijdig met een of meer onderdelen van deze wet in werking treedt, wordt dat onderdeel of worden die onderdelen geacht in werking te zijn getreden na eerstbedoelde wet.
 
@@ -747,7 +743,7 @@ Artikel 10 van de wet van 20 december 1984, houdende aanpassing van uitkeringspe
 
 Deze wet wordt aangehaald als: Wet financiële voorzieningen privatisering ABP.
 
-## Bijlage 1. bij Wet financiële voorzieningen privatisering ABP Tabel I zoals bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2011-02-23&g=2011-02-23) (bruteringstabel)
+## Bijlage 1. bij Wet financiële voorzieningen privatisering ABP Tabel I zoals bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=6&artikel=34&z=2013-01-01&g=2013-01-01) (bruteringstabel)
 
 | nrs. | kolom 1 van | tot en met | kolom 2 percentage |
 | --- | --- | --- | --- |
@@ -844,7 +840,7 @@ Deze wet wordt aangehaald als: Wet financiële voorzieningen privatisering ABP.
 | 91 | 7945,01 | 8639 | -0,70 |
 | 92 | 8639,01 | 999999 | -0,90 |
 
-## Bijlage 2. bij Wet financiële voorzieningen privatisering ABP Tabel II zoals bedoeld in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=83&z=2011-02-23&g=2011-02-23) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=84&z=2011-02-23&g=2011-02-23) (correctie IP)
+## Bijlage 2. bij Wet financiële voorzieningen privatisering ABP Tabel II zoals bedoeld in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=83&z=2013-01-01&g=2013-01-01) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=84&z=2013-01-01&g=2013-01-01) (correctie IP)
 
 | nrs. | kolom 1 van | tot en met | kolom 2 percentage |
 | --- | --- | --- | --- |
@@ -929,7 +925,7 @@ Deze wet wordt aangehaald als: Wet financiële voorzieningen privatisering ABP.
 | 79 | 12845,01 | 13118 | 0,58 |
 | 80 | 13118,01 | 99999 | 0,46 |
 
-## Bijlage 3. bij Wet financiële voorzieningen privatisering ABP Tabel III zoals bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=90&z=2011-02-23&g=2011-02-23) (correctie VUT)
+## Bijlage 3. bij Wet financiële voorzieningen privatisering ABP Tabel III zoals bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=12&artikel=90&z=2013-01-01&g=2013-01-01) (correctie VUT)
 
 | nrs. | kolom 1 van | tot en met | kolom 2 percentage |
 | --- | --- | --- | --- |
