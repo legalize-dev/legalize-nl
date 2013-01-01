@@ -4,7 +4,7 @@ identifier: "BWBR0031628"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031628"
 soort: "wet"
@@ -271,9 +271,9 @@ Wijzigt de Politiewet 1993.
 
 ##### Artikel 10.1
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor [artikel 2.1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=II&artikel=2.1&z=2012-10-01&g=2012-10-01), en [artikel 5.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=V&artikel=5.2&z=2012-10-01&g=2012-10-01), afwijkend kan worden vastgesteld.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor [artikel 2.1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=II&artikel=2.1&z=2013-01-01&g=2013-01-01), en [artikel 5.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=V&artikel=5.2&z=2013-01-01&g=2013-01-01), afwijkend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treedt [artikel 1.2, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=I&artikel=1.2&z=2012-10-01&g=2012-10-01), in werking met ingang van 1 augustus 2014.
+2. In afwijking van het eerste lid treedt [artikel 1.2, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0031628&hoofdstuk=I&artikel=1.2&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 augustus 2014.
 
 ##### Artikel 10.2
 
