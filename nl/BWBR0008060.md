@@ -4,7 +4,7 @@ identifier: "BWBR0008060"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "1996-05-25"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008060"
 soort: "ministeriele-regeling"
@@ -44,15 +44,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **Noodcommunicatievoorziening:** het telecommunicatienetwerk dat door PTT-Telecom B.V. is ontwikkeld als noodcommunicatievoorziening.
+
 ##### Artikel 2
 
-1. Elke regio heeft ten minste twee aansluitingen op het Nationaal Noodnet.
+1. Elke regionale eenheid en de Landelijke eenheid politiediensten hebben ten minste twee aansluitingen op de Noodcommunicatievoorziening.
 
-2. De jaarlijkse abonnementskosten voor twee aansluitingen op het Nationaal Noodnet worden door de Minister van Binnenlandse Zaken vergoed.
+2. De jaarlijkse abonnementskosten voor twee aansluitingen op het Noodcommunicatievoorziening worden door de Minister van Veiligheid en Justitie vergoed.
 
 ##### Artikel 3
 
-Met ingang van 1 januari 1997 worden de gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regio toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 2 van het Besluit financiën regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006562&artikel=2).
+De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 14 van de Regeling financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032664&artikel=14).
 
 ##### Artikel 4
 
@@ -60,6 +62,12 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Regeling Nationaal Noodnet.
+Deze regeling wordt aangehaald als: Regeling Noodcommunicatievoorziening.
+
+Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden geplaatst.
+
+##### Artikel 3a
+
+Deze regeling berust op [artikel 23, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
 
 Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden geplaatst.
