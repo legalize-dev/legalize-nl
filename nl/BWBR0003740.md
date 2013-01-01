@@ -4,7 +4,7 @@ identifier: "BWBR0003740"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2012-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003740"
 soort: "wet"
@@ -100,15 +100,15 @@ Vervallen
 
 1. De regeling vermeldt het belang of de belangen ter behartiging waarvan zij is getroffen of gewijzigd.
 
-2. Een regeling, waarbij gebruik wordt gemaakt van de bevoegdheid, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), geeft aan welke bevoegdheden de besturen van de deelnemende gemeenten aan het bestuur van het openbaar lichaam onderscheidenlijk aan het gemeenschappelijk orgaan bij het aangaan van de regeling overdragen. Een regeling als hier bedoeld kan bepalingen inhouden omtrent de wijze waarop verandering kan worden gebracht in de overgedragen bevoegdheden.
+2. Een regeling, waarbij gebruik wordt gemaakt van de bevoegdheid, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), geeft aan welke bevoegdheden de besturen van de deelnemende gemeenten aan het bestuur van het openbaar lichaam onderscheidenlijk aan het gemeenschappelijk orgaan bij het aangaan van de regeling overdragen. Een regeling als hier bedoeld kan bepalingen inhouden omtrent de wijze waarop verandering kan worden gebracht in de overgedragen bevoegdheden.
 
 3. Een regeling als bedoeld in het tweede lid houdt bepalingen in omtrent de inrichting en samenstelling van het bestuur van het openbaar lichaam onderscheidenlijk de samenstelling van het gemeenschappelijk orgaan en wijst de plaats van vestiging aan.
 
-4. Een regeling als bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), kan aangeven dat een ombudsman of ombudscommissie van een van de deelnemers aan de gemeenschappelijke regeling als bedoeld in [artikel 81p, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), [artikel 79q, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q) of [artikel 51b, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) bevoegd is tot de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18). Indien een regeling de hiervoor bedoelde bevoegdheid instelt, dan wel deze beëindigt, zendt het bestuur de regeling aan de Nationale ombudsman.
+4. Een regeling als bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), kan aangeven dat een ombudsman of ombudscommissie van een van de deelnemers aan de gemeenschappelijke regeling als bedoeld in [artikel 81p, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), [artikel 79q, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q) of [artikel 51b, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) bevoegd is tot de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18). Indien een regeling de hiervoor bedoelde bevoegdheid instelt, dan wel deze beëindigt, zendt het bestuur de regeling aan de Nationale ombudsman.
 
 ##### Artikel 10a
 
-1. De deelnemers aan een regeling waarbij gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), verlenen hun medewerking aan de uitvoering van besluiten die het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan neemt in verband met de uitoefening van de aan dat bestuur of orgaan overgedragen bevoegdheden.
+1. De deelnemers aan een regeling waarbij gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), verlenen hun medewerking aan de uitvoering van besluiten die het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan neemt in verband met de uitoefening van de aan dat bestuur of orgaan overgedragen bevoegdheden.
 
 2. Indien een deelnemer naar het oordeel van het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan de in het eerste lid bedoelde medewerking niet of niet in voldoende mate verleent, kan het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan namens en ten laste van de betrokken deelnemer een besluit uitvoeren of doen uitvoeren.
 
@@ -168,7 +168,7 @@ In de regeling kan een termijn worden aangegeven gedurende welke een of meer van
 
 ##### Artikel 15
 
-Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2012-10-01&g=2012-10-01) van overeenkomstige toepassing.
+Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 16
 
@@ -178,11 +178,11 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 3. De regeling houdt bepalingen in omtrent de wijze waarop een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan door de raad die dit lid heeft aangewezen, ter verantwoording kan worden geroepen voor het door hem in dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.
 
-4. Ingeval toepassing is gegeven aan het bepaalde in [artikel 13, vijfde lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2012-10-01&g=2012-10-01), houdt de regeling bepalingen in omtrent de wijze waarop aan de raad die geen lid van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan aanwijst, de door een of meer leden van die raad gevraagde inlichtingen worden verstrekt en de door die raad gevraagde verantwoording wordt afgelegd voor het door dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.
+4. Ingeval toepassing is gegeven aan het bepaalde in [artikel 13, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2013-01-01&g=2013-01-01), houdt de regeling bepalingen in omtrent de wijze waarop aan de raad die geen lid van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan aanwijst, de door een of meer leden van die raad gevraagde inlichtingen worden verstrekt en de door die raad gevraagde verantwoording wordt afgelegd voor het door dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.
 
-5. De regeling houdt bepalingen in omtrent de bevoegdheid van de raad, een door hem aangewezen lid van het algemeen bestuur van het openbaar lichaam of een door hem aangewezen lid van het gemeenschappelijk orgaan, ontslag te verlenen, indien dit lid het vertrouwen van de raad niet meer bezit. Op het ontslagbesluit is [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
+5. De regeling houdt bepalingen in omtrent de bevoegdheid van de raad, een door hem aangewezen lid van het algemeen bestuur van het openbaar lichaam of een door hem aangewezen lid van het gemeenschappelijk orgaan, ontslag te verlenen, indien dit lid het vertrouwen van de raad niet meer bezit.
 
-6. Bij het verstrekken van inlichtingen ingevolge het eerste of het vierde lid, of het afleggen van verantwoording ingevolge het derde of het vierde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01) geheimhouding is opgelegd slechts informatie, indien krachtens [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) geheimhouding is opgelegd. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.
+6. Bij het verstrekken van inlichtingen ingevolge het eerste of het vierde lid, of het afleggen van verantwoording ingevolge het derde of het vierde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01) geheimhouding is opgelegd slechts informatie, indien krachtens [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) geheimhouding is opgelegd. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.
 
 ##### Artikel 17
 
@@ -190,13 +190,13 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 ##### Artikel 18
 
-[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01) is van overeenkomstige toepassing op regelingen die uitsluitend getroffen zijn door colleges van burgemeester en wethouders.
+[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing op regelingen die uitsluitend getroffen zijn door colleges van burgemeester en wethouders.
 
 ##### Artikel 19
 
-1. Ingeval de regeling uitsluitend is getroffen door colleges van burgemeester en wethouders is het bepaalde in het [eerste, derde, vierde en zesde lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), van overeenkomstige toepassing ten aanzien van de gemeenteraden respectievelijk een of meer leden van die raden.
+1. Ingeval de regeling uitsluitend is getroffen door colleges van burgemeester en wethouders is het bepaalde in het [eerste, derde, vierde en zesde lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing ten aanzien van de gemeenteraden respectievelijk een of meer leden van die raden.
 
-2. Ingeval de regeling uitsluitend is getroffen door burgemeesters is het bepaalde in het [eerste, derde en zesde lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01) van overeenkomstige toepassing ten aanzien van gemeenteraden respectievelijk een of meer leden van die raden.
+2. Ingeval de regeling uitsluitend is getroffen door burgemeesters is het bepaalde in het [eerste, derde en zesde lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing ten aanzien van gemeenteraden respectievelijk een of meer leden van die raden.
 
 ##### Artikel 20
 
@@ -258,13 +258,13 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 1. Het algemeen bestuur kan in een besloten vergadering, op grond van de belangen, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken welke aan het algemeen bestuur worden overgelegd, geheimhouding opleggen. Deze wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennisdragen, in acht genomen, totdat het algemeen bestuur haar opheft.
 
-2. Op grond van de belangen genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur en de voorzitter van het openbaar lichaam en door een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van het algemeen bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
+2. Op grond van de belangen genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur en de voorzitter van het openbaar lichaam en door een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van het algemeen bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
 
 3. De krachtens het tweede lid aan het algemeen bestuur opgelegde verplichting tot geheimhouding vervalt, indien de oplegging niet door het algemeen bestuur in zijn eerstvolgende vergadering, die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden, te zamen vertegenwoordigend meer dan de helft van het aantal stemmen, is bezocht, wordt bekrachtigd.
 
 4. De krachtens het tweede lid aan leden van het algemeen bestuur opgelegde verplichting tot geheimhouding wordt door hen in acht genomen totdat het orgaan, dat de verplichting heeft opgelegd, dan wel, indien het onderwerp waaromtrent geheimhouding is opgelegd aan het algemeen bestuur is voorgelegd, totdat het algemeen bestuur haar opheft. Het algemeen bestuur kan deze beslissing alleen nemen in een vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden, te zamen vertegenwoordigend meer dan de helft van het aantal stemmen, is bezocht.
 
-5. Het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01) en in het eerste lid van dit artikel is eveneens van toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door gemeenteraden.
+5. Het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01) en in het eerste lid van dit artikel is eveneens van toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door gemeenteraden.
 
 ##### Artikel 24
 
@@ -278,15 +278,15 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 ##### Artikel 25
 
-1. Het algemeen bestuur van het openbaar lichaam kan commissies instellen met het oog op de behartiging van bepaalde belangen indien de regeling in deze mogelijkheid voorziet. Het algemeen bestuur regelt de bevoegdheden en de samenstelling. [Artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01) en [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01) van deze wet zijn van overeenkomstige toepassing.
+1. Het algemeen bestuur van het openbaar lichaam kan commissies instellen met het oog op de behartiging van bepaalde belangen indien de regeling in deze mogelijkheid voorziet. Het algemeen bestuur regelt de bevoegdheden en de samenstelling. [Artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01) en [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01) van deze wet zijn van overeenkomstige toepassing.
 
 2. Het algemeen bestuur gaat niet over tot het instellen van een commissie als bedoeld in het eerste lid dan na verkregen toestemming van de raden van elk der deelnemende gemeenten. De toestemming kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
 3. Het algemeen bestuur kan aan een commissie als bedoeld in het eerste lid bevoegdheden van het algemeen bestuur en van het dagelijks bestuur van het openbaar lichaam overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet. Het algemeen bestuur kan in ieder geval niet overdragen de bevoegdheid tot:
 
-- a. het vaststellen van de begroting of van de jaarrekening, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=3&artikel=34&z=2012-10-01&g=2012-10-01);
+- a. het vaststellen van de begroting of van de jaarrekening, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=3&artikel=34&z=2013-01-01&g=2013-01-01);
 
-- b. het heffen van rechten, bedoeld in [artikel 30, eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=3&artikel=30&z=2012-10-01&g=2012-10-01);
+- b. het heffen van rechten, bedoeld in [artikel 30, eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=3&artikel=30&z=2013-01-01&g=2013-01-01);
 
 - c. het vaststellen van verordeningen door strafbepaling of politiedwang te handhaven.
 
@@ -306,7 +306,7 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 - f. de verantwoording aan het algemeen bestuur.
 
-6. Ten aanzien van de vergadering van een commissie waaraan bevoegdheden van het algemeen bestuur zijn overgedragen is [artikel 22, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01) van overeenkomstige toepassing, met inachtneming van door het algemeen bestuur vastgestelde nadere regels.
+6. Ten aanzien van de vergadering van een commissie waaraan bevoegdheden van het algemeen bestuur zijn overgedragen is [artikel 22, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing, met inachtneming van door het algemeen bestuur vastgestelde nadere regels.
 
 7. Indien de commissie zich ter zake van het behandelde waarvoor een verplichting tot geheimhouding geldt tot het algemeen bestuur heeft gericht, wordt de geheimhouding in acht genomen totdat het algemeen bestuur haar opheft.
 
@@ -318,7 +318,7 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 3. Het bepaalde in het eerste en tweede lid is mede van toepassing op besluiten tot wijziging, verlenging of opheffing van de regeling, alsmede op besluiten tot toetreding en uittreding.
 
-4. Het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt een besluit tot verandering in de overgedragen bevoegdheden, dat tot stand is gekomen met toepassing van [artikel 10, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2012-10-01&g=2012-10-01), aan gedeputeerde staten. Indien aan de regeling ook gemeenten deelnemen die in andere provincies zijn gelegen, wordt dit besluit tevens toegezonden aan gedeputeerde staten van die provincies.
+4. Het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt een besluit tot verandering in de overgedragen bevoegdheden, dat tot stand is gekomen met toepassing van [artikel 10, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), aan gedeputeerde staten. Indien aan de regeling ook gemeenten deelnemen die in andere provincies zijn gelegen, wordt dit besluit tevens toegezonden aan gedeputeerde staten van die provincies.
 
 ##### Artikel 27
 
@@ -330,7 +330,7 @@ De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het
 
 - b. de wettelijke voorschriften waardoor de bevoegdheden van het samenwerkingsverband worden beheerst
 
-- c. de bevoegdheden die bij de regeling dan wel, met toepassing van [artikel 10, tweede lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2012-10-01&g=2012-10-01), krachtens de regeling zijn overgedragen
+- c. de bevoegdheden die bij de regeling dan wel, met toepassing van [artikel 10, tweede lid tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), krachtens de regeling zijn overgedragen
 
 - d. het adres en de plaats van vestiging
 
@@ -436,29 +436,29 @@ Vervallen
 
 ##### Artikel 41
 
-1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), en met dien verstande dat:
+1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), en met dien verstande dat:
 
-- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) wordt gelezen [artikel 25 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=25);
+- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) wordt gelezen [artikel 25 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=25);
 
-- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
+- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
 
-- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
+- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
 
-- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
+- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
 
-- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93).
+- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93).
 
-- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
+- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
 
-- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2012-10-01&g=2012-10-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
+- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2013-01-01&g=2013-01-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
 
-- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2012-10-01&g=2012-10-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
+- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2013-01-01&g=2013-01-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
 
-2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
+2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
 ##### Artikel 42
 
@@ -534,17 +534,17 @@ Vervallen
 
 ##### Artikel 50a
 
-1. De [artikelen 8 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) en [26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing, met dien verstande dat:
+1. De [artikelen 8 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) en [26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het reglement van het waterschap dat het lid heeft aangewezen;
+- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het reglement van het waterschap dat het lid heeft aangewezen;
 
-- b. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor de woorden "[Artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99)" wordt gelezen: Hetgeen in de voor de deelnemende waterschappen geldende reglementen overigens omtrent vergoedingen en tegemoetkomingen is bepaald;
+- b. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor de woorden "[Artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99)" wordt gelezen: Hetgeen in de voor de deelnemende waterschappen geldende reglementen overigens omtrent vergoedingen en tegemoetkomingen is bepaald;
 
-- c. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), voor de woorden "De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28)" wordt gelezen: De desbetreffende bepalingen uit de voor de deelnemende waterschappen geldende reglementen;
+- c. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), voor de woorden "De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28)" wordt gelezen: De desbetreffende bepalingen uit de voor de deelnemende waterschappen geldende reglementen;
 
-- d. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2012-10-01&g=2012-10-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: in hun provincie gelegen waterschappen.
+- d. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2013-01-01&g=2013-01-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: in hun provincie gelegen waterschappen.
 
-2. Wanneer bij de toepassing van voor de deelnemende waterschappen geldende reglementen als bedoeld in het vorige lid, onderdeel b en c en in [artikel 50e](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=3&artikel=50e&z=2012-10-01&g=2012-10-01) de desbetreffende bepalingen in die reglementen onderling verschillen, wordt in de regeling aangegeven welke bepalingen van toepassing zijn.
+2. Wanneer bij de toepassing van voor de deelnemende waterschappen geldende reglementen als bedoeld in het vorige lid, onderdeel b en c en in [artikel 50e](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=3&artikel=50e&z=2013-01-01&g=2013-01-01) de desbetreffende bepalingen in die reglementen onderling verschillen, wordt in de regeling aangegeven welke bepalingen van toepassing zijn.
 
 #### § 2. Algemene bepalingen
 
@@ -600,19 +600,19 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt vo
 
 ##### Artikel 50h
 
-Een regeling behoeft de goedkeuring van gedeputeerde staten indien gebruik is gemaakt van een bevoegdheid als bedoeld in de [artikelen 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=2&artikel=50a&z=2012-10-01&g=2012-10-01) juncto [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), danwel indien één der voor de deelnemende waterschappen geldende reglementen dat voorschrijft.
+Een regeling behoeft de goedkeuring van gedeputeerde staten indien gebruik is gemaakt van een bevoegdheid als bedoeld in de [artikelen 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=2&artikel=50a&z=2013-01-01&g=2013-01-01) juncto [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), danwel indien één der voor de deelnemende waterschappen geldende reglementen dat voorschrijft.
 
 ##### Artikel 50i
 
-Een regeling waaraan in verschillende provincies gelegen waterschappen deelnemen behoeft, indien gebruik is gemaakt van een bevoegdheid als bedoeld in de [artikelen 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=2&artikel=50a&z=2012-10-01&g=2012-10-01) juncto [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), de goedkeuring van gedeputeerde staten van de provincie, waarin de plaats van vestiging is gelegen, de andere betrokken colleges van gedeputeerde staten gehoord.
+Een regeling waaraan in verschillende provincies gelegen waterschappen deelnemen behoeft, indien gebruik is gemaakt van een bevoegdheid als bedoeld in de [artikelen 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=2&artikel=50a&z=2013-01-01&g=2013-01-01) juncto [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), de goedkeuring van gedeputeerde staten van de provincie, waarin de plaats van vestiging is gelegen, de andere betrokken colleges van gedeputeerde staten gehoord.
 
 ##### Artikel 50j
 
-De in [artikel 50**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50i&z=2012-10-01&g=2012-10-01) bedoelde goedkeuring treedt in de plaats van de goedkeuring door gedeputeerde staten, bedoeld in [artikel 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2012-10-01&g=2012-10-01).
+De in [artikel 50**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50i&z=2013-01-01&g=2013-01-01) bedoelde goedkeuring treedt in de plaats van de goedkeuring door gedeputeerde staten, bedoeld in [artikel 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 50k
 
-1. Op wijziging van, alsmede uittreding uit en toetreding tot een regeling als bedoeld in [artikel 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2012-10-01&g=2012-10-01), zijn de [artikelen 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2012-10-01&g=2012-10-01), [50**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50i&z=2012-10-01&g=2012-10-01) en [50**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50j&z=2012-10-01&g=2012-10-01) van overeenkomstige toepassing.
+1. Op wijziging van, alsmede uittreding uit en toetreding tot een regeling als bedoeld in [artikel 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2013-01-01&g=2013-01-01), zijn de [artikelen 50**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50h&z=2013-01-01&g=2013-01-01), [50**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50i&z=2013-01-01&g=2013-01-01) en [50**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&paragraaf=4&artikel=50j&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
 
 2. Een besluit tot opheffing van een regeling wordt aan gedeputeerde staten toegezonden.
 
@@ -636,29 +636,29 @@ Vervallen
 
 ##### Artikel 52
 
-1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), en met dien verstande dat:
+1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), en met dien verstande dat:
 
-- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
+- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
 
-- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
+- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
 
-- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
+- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
 
-- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
+- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
 
-- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
+- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
 
-- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
+- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
 
-- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2012-10-01&g=2012-10-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
+- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2013-01-01&g=2013-01-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
 
-- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2012-10-01&g=2012-10-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
+- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2013-01-01&g=2013-01-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
 
-2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
+2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
 ##### Artikel 53
 
@@ -736,7 +736,7 @@ Vervallen
 
 ##### Artikel 62
 
-De [artikelen 8 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing met dien verstande dat bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor de woorden "artikel 25 van de Gemeentewet" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen.
+De [artikelen 8 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing met dien verstande dat bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor de woorden "artikel 25 van de Gemeentewet" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen.
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
@@ -828,29 +828,29 @@ Vervallen
 
 ##### Artikel 74
 
-1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), en met dien verstande dat:
+1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), en met dien verstande dat:
 
-- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
+- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
 
-- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
+- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
 
-- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
+- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
 
-- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
+- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
 
-- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
+- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
 
-- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
+- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
 
-- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2012-10-01&g=2012-10-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
+- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2013-01-01&g=2013-01-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
 
-- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2012-10-01&g=2012-10-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
+- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2013-01-01&g=2013-01-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
 
-2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
+2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
 ##### Artikel 75
 
@@ -928,29 +928,29 @@ Vervallen
 
 ##### Artikel 84
 
-1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), en met dien verstande dat:
+1. De [artikelen 8 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), en met dien verstande dat:
 
-- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
+- a. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor de woorden "[artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25)" wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;
 
-- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
+- b. de ontheffing bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), wordt verleend door Onze Minister van Binnenlandse Zaken;
 
-- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- c. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
+- d. bij de toepassing van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), voor de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) worden gelezen de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=26) en [28 tot en met 33 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=28);
 
-- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
+- e. bij de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor [artikel 94 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) wordt gelezen [artikel 92 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92);
 
-- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
+- f. bij de toepassing van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), voor de [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
 
-- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
+- g. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), voor de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=94) en [139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) wordt gelezen de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=92) en [136 tot en met 140 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=136);
 
-- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
+- h. bij de toepassing van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01) jo [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) wordt gelezen [artikel 96 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=96);
 
-- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2012-10-01&g=2012-10-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
+- i. bij de toepassing van [artikel 26, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=26&z=2013-01-01&g=2013-01-01), voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;
 
-- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2012-10-01&g=2012-10-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
+- j. bij de toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=27&z=2013-01-01&g=2013-01-01), voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.
 
-2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
+2. Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
 ##### Artikel 85
 
@@ -1016,7 +1016,7 @@ Vervallen
 
 ##### Artikel 93
 
-Aan een regeling als bedoeld in de [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2012-10-01&g=2012-10-01) kunnen, indien zij daartoe overigens bevoegd zijn, tevens deelnemen:
+Aan een regeling als bedoeld in de [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2013-01-01&g=2013-01-01) kunnen, indien zij daartoe overigens bevoegd zijn, tevens deelnemen:
 
 - a. een of meer andere openbare lichamen dan gemeenten, provincies en waterschappen;
 
@@ -1026,11 +1026,11 @@ Aan een regeling als bedoeld in de [hoofdstukken I tot en met VII](https://wette
 
 1. Deelneming vanwege het Rijk geschiedt bij besluit van Onze betrokken minister. Het besluit regelt mede de gevolgen van de deelneming.
 
-2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
+2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
 
 ##### Artikel 95
 
-Het bepaalde in de [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2012-10-01&g=2012-10-01) is van overeenkomstige toepassing, met dien verstande dat, wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 93, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=93&z=2012-10-01&g=2012-10-01) en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=94&z=2012-10-01&g=2012-10-01), de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing zijn.
+Het bepaalde in de [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing, met dien verstande dat, wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 93, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=93&z=2013-01-01&g=2013-01-01) en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=94&z=2013-01-01&g=2013-01-01), de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing zijn.
 
 ### Hoofdstuk IX. Regelingen tussen één gemeente, provincie of waterschap en een of meer andere openbare lichamen en rechtspersonen
 
@@ -1046,11 +1046,11 @@ De raad en het college van burgemeester en wethouders van een gemeente, provinci
 
 1. Deelneming vanwege het Rijk geschiedt bij besluit van Onze betrokken minister. Het besluit regelt mede de gevolgen van de deelneming.
 
-2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
+2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
 
 ##### Artikel 98
 
-Van overeenkomstige toepassing is [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2012-10-01&g=2012-10-01), indien een gemeente de regeling aangaat, [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&z=2012-10-01&g=2012-10-01), indien een provincie de regeling aangaat, of [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&z=2012-10-01&g=2012-10-01), indien een waterschap de regeling aangaat. Wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 96, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=96&z=2012-10-01&g=2012-10-01) en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=97&z=2012-10-01&g=2012-10-01), zijn de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing.
+Van overeenkomstige toepassing is [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2013-01-01&g=2013-01-01), indien een gemeente de regeling aangaat, [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&z=2013-01-01&g=2013-01-01), indien een provincie de regeling aangaat, of [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&z=2013-01-01&g=2013-01-01), indien een waterschap de regeling aangaat. Wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 96, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=96&z=2013-01-01&g=2013-01-01) en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=97&z=2013-01-01&g=2013-01-01), zijn de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing.
 
 ### Hoofdstuk X. Verplichte samenwerking
 
@@ -1076,7 +1076,7 @@ Vervallen
 
 ##### Artikel 100
 
-1. Gedeputeerde staten leggen uiterlijk binnen zes maanden na het verstrijken van de termijn, bedoeld in [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), een regeling op overeenkomstig de aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), indien geen regeling aan hen is gezonden, of indien uit de ter kennisneming toegezonden regeling blijkt dat aan de aanwijzing onvoldoende gevolg is gegeven.
+1. Gedeputeerde staten leggen uiterlijk binnen zes maanden na het verstrijken van de termijn, bedoeld in [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), een regeling op overeenkomstig de aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), indien geen regeling aan hen is gezonden, of indien uit de ter kennisneming toegezonden regeling blijkt dat aan de aanwijzing onvoldoende gevolg is gegeven.
 
 2. Een oplegging kan ook betreffen de oplegging van een wijziging of opheffing van een bestaande regeling, alsmede de oplegging van een toetreding tot of uittreding uit een bestaande regeling.
 
@@ -1084,11 +1084,11 @@ Vervallen
 
 ##### Artikel 101
 
-Indien het een regeling betreft tussen gemeenten die in meer dan een provincie liggen, vindt de toepassing van de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2012-10-01&g=2012-10-01) plaats bij gelijkluidende besluiten van gedeputeerde staten van de betrokken provincies.
+Indien het een regeling betreft tussen gemeenten die in meer dan een provincie liggen, vindt de toepassing van de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2013-01-01&g=2013-01-01) plaats bij gelijkluidende besluiten van gedeputeerde staten van de betrokken provincies.
 
 ##### Artikel 102
 
-1. Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, gedeputeerde staten uitnodigen tot het geven van een aanwijzing als bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01).
+1. Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, gedeputeerde staten uitnodigen tot het geven van een aanwijzing als bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01).
 
 2. Een uitnodiging wordt niet gedaan dan nadat Onze Minister wie het aangaat gedeputeerde staten heeft gehoord.
 
@@ -1100,15 +1100,15 @@ Vervallen
 
 ##### Artikel 103a
 
-De commissaris van de Koning treedt voor de toepassing van de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01) in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.
+De commissaris van de Koning treedt voor de toepassing van de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01) in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.
 
 ##### Artikel 103b
 
-De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V&z=2012-10-01&g=2012-10-01) en [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&z=2012-10-01&g=2012-10-01), voor zover daaraan geen provincies deelnemen. De artikel 99, derde lid, en [100 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing.
+De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V&z=2013-01-01&g=2013-01-01) en [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&z=2013-01-01&g=2013-01-01), voor zover daaraan geen provincies deelnemen. De artikel 99, derde lid, en [100 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 103c
 
-1. De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IV&z=2012-10-01&g=2012-10-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VI&z=2012-10-01&g=2012-10-01), alsmede [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VII&z=2012-10-01&g=2012-10-01), voor zover daaraan provincies deelnemen, met dien verstande dat de aanwijzing wordt gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. [Artikel 99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), is van overeenkomstige toepassing.
+1. De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IV&z=2013-01-01&g=2013-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VI&z=2013-01-01&g=2013-01-01), alsmede [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VII&z=2013-01-01&g=2013-01-01), voor zover daaraan provincies deelnemen, met dien verstande dat de aanwijzing wordt gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. [Artikel 99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
 2. Bij de aanwijzing, bedoeld in het eerste lid, stelt Onze Minister wie het aangaat een termijn binnen welke een regeling ter kennisneming aan hem dient te worden gezonden.
 
@@ -1116,17 +1116,17 @@ De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 103d
 
-Voor de toepassing van de [artikelen 103**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103b&z=2012-10-01&g=2012-10-01) en [103**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103c&z=2012-10-01&g=2012-10-01) wordt onder oplegging van een regeling begrepen de oplegging van een toetreding tot en een uittreding uit een bestaande regeling.
+Voor de toepassing van de [artikelen 103**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103b&z=2013-01-01&g=2013-01-01) en [103**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103c&z=2013-01-01&g=2013-01-01) wordt onder oplegging van een regeling begrepen de oplegging van een toetreding tot en een uittreding uit een bestaande regeling.
 
 ##### Artikel 103e
 
-Voor zover in dit hoofdstuk niet anders is bepaald, is bij de oplegging van een regeling het bepaalde in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2012-10-01&g=2012-10-01), dan wel IV, V, VI of VIII van toepassing.
+Voor zover in dit hoofdstuk niet anders is bepaald, is bij de oplegging van een regeling het bepaalde in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2013-01-01&g=2013-01-01), dan wel IV, V, VI of VIII van toepassing.
 
 ##### Artikel 103f
 
-1. Tegen een besluit tot aanwijzing als bedoeld in de [artikelen 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2012-10-01&g=2012-10-01), [103b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103b&z=2012-10-01&g=2012-10-01) en [103c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103c&z=2012-10-01&g=2012-10-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. Tegen een besluit tot aanwijzing als bedoeld in de [artikelen 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2013-01-01&g=2013-01-01), [103b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103b&z=2013-01-01&g=2013-01-01) en [103c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103c&z=2013-01-01&g=2013-01-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
-2. Tegen een besluit tot oplegging als bedoeld in de [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2012-10-01&g=2012-10-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+2. Tegen een besluit tot oplegging als bedoeld in de [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2013-01-01&g=2013-01-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 3. Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwaar of beroep tegen het aanwijzingsbesluit.
 
@@ -1204,17 +1204,17 @@ Indien een plusregio in meer dan één provincie is gelegen, oefenen gedeputeerd
 
 ##### Artikel 107
 
-Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en zij geen verzoek als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2012-10-01&g=2012-10-01) ontvangen, treden gedeputeerde staten in overleg met de desbetreffende gemeentebesturen, waarna zij de deelnemers aan het overleg een uitnodiging als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2012-10-01&g=2012-10-01), kunnen doen toekomen.
+Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en zij geen verzoek als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2013-01-01&g=2013-01-01) ontvangen, treden gedeputeerde staten in overleg met de desbetreffende gemeentebesturen, waarna zij de deelnemers aan het overleg een uitnodiging als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2013-01-01&g=2013-01-01), kunnen doen toekomen.
 
 ##### Artikel 108
 
-1. De besturen van de gemeenten die een uitnodiging als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2012-10-01&g=2012-10-01), hebben ontvangen, treffen binnen 26 weken een gemeenschappelijke regeling waarbij een plusregio wordt ingesteld.
+1. De besturen van de gemeenten die een uitnodiging als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2013-01-01&g=2013-01-01), hebben ontvangen, treffen binnen 26 weken een gemeenschappelijke regeling waarbij een plusregio wordt ingesteld.
 
 2. De regeling wordt gezonden aan gedeputeerde staten en aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 109
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een register van alle gemeenschappelijke regelingen waarbij een plusregio is ingesteld in overeenstemming met de uitnodiging, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2012-10-01&g=2012-10-01).
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een register van alle gemeenschappelijke regelingen waarbij een plusregio is ingesteld in overeenstemming met de uitnodiging, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2013-01-01&g=2013-01-01).
 
 2. De regeling waarbij een plusregio is ingesteld, treedt niet in werking dan na opneming in het register. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties doet van de opneming in het register mededeling in de Staatscourant.
 
@@ -1224,13 +1224,13 @@ Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en
 
 1. De besturen van gemeenten besluiten tot toetreding tot, uittreding uit of opheffing van een plusregio, met dien verstande dat met betrekking tot een plusregio die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, opheffing van de plusregio bij wet geschiedt.
 
-2. De [artikelen 107](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=107&z=2012-10-01&g=2012-10-01), [108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2012-10-01&g=2012-10-01), en [109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=109&z=2012-10-01&g=2012-10-01), zijn van overeenkomstige toepassing op een besluit als bedoeld in het eerste lid.
+2. De [artikelen 107](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=107&z=2013-01-01&g=2013-01-01), [108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2013-01-01&g=2013-01-01), en [109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=109&z=2013-01-01&g=2013-01-01), zijn van overeenkomstige toepassing op een besluit als bedoeld in het eerste lid.
 
 ##### Artikel 111
 
-1. In afwijking van [artikel 13, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2012-10-01&g=2012-10-01), kan het algemeen bestuur van een plusregio een voorzitter aanwijzen van buiten de kring van het algemeen bestuur.
+1. In afwijking van [artikel 13, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=13&z=2013-01-01&g=2013-01-01), kan het algemeen bestuur van een plusregio een voorzitter aanwijzen van buiten de kring van het algemeen bestuur.
 
-2. Indien toepassing wordt gegeven aan het eerste lid, is [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01) op de voorzitter niet van toepassing. Bij of krachtens regeling van het algemeen bestuur, wordt in ieder geval de bezoldiging van de voorzitter geregeld.
+2. Indien toepassing wordt gegeven aan het eerste lid, is [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01) op de voorzitter niet van toepassing. Bij of krachtens regeling van het algemeen bestuur, wordt in ieder geval de bezoldiging van de voorzitter geregeld.
 
 3. Indien toepassing wordt gegeven aan het eerste lid, zijn de [artikelen 66, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=66), en [67 tot en met 71 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=67) van overeenkomstige toepassing.
 
@@ -1238,15 +1238,15 @@ Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en
 
 1. In een regeling kan worden bepaald dat het algemeen bestuur van de plusregio commissies kan instellen ter behartiging van een of meer belangen van een deel van de gemeenten in die plusregio. Het algemeen bestuur regelt de bevoegdheden en samenstelling.
 
-2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01), en [25, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01), van deze wet en de [artikelen 139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) zijn van overeenkomstige toepassing.
+2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01), en [25, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01), van deze wet en de [artikelen 139 tot en met 144 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) zijn van overeenkomstige toepassing.
 
 ##### Artikel 113
 
-Bij een oplegging als bedoeld in deze paragraaf treedt [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=4&artikel=114&z=2012-10-01&g=2012-10-01) in de plaats van [hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&z=2012-10-01&g=2012-10-01).
+Bij een oplegging als bedoeld in deze paragraaf treedt [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=4&artikel=114&z=2013-01-01&g=2013-01-01) in de plaats van [hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 114
 
-1. Indien niet binnen de termijn, bedoeld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2012-10-01&g=2012-10-01), door de besturen van de desbetreffende gemeenten een regeling aan gedeputeerde staten is gezonden, kunnen gedeputeerde staten besluiten binnen 13 weken een regeling op te leggen.
+1. Indien niet binnen de termijn, bedoeld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2013-01-01&g=2013-01-01), door de besturen van de desbetreffende gemeenten een regeling aan gedeputeerde staten is gezonden, kunnen gedeputeerde staten besluiten binnen 13 weken een regeling op te leggen.
 
 2. Gedeputeerde staten zenden een afschrift van de opgelegde regeling aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -1292,25 +1292,25 @@ Een regeling voorziet erin dat het algemeen bestuur van de plusregio ter beharti
 
 ##### Artikel 120
 
-1. Een geschil omtrent de uitnodiging van gedeputeerde staten, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2012-10-01&g=2012-10-01), wordt beslist door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Indien het geschilpunt daartoe aanleiding geeft, beslist hij in overeenstemming met Onze Ministers wie het mede aangaat.
+1. Een geschil omtrent de uitnodiging van gedeputeerde staten, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=106&z=2013-01-01&g=2013-01-01), wordt beslist door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Indien het geschilpunt daartoe aanleiding geeft, beslist hij in overeenstemming met Onze Ministers wie het mede aangaat.
 
-2. De termijn, genoemd in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2012-10-01&g=2012-10-01), wordt opgeschort totdat op het geschil is beslist.
+2. De termijn, genoemd in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=2&artikel=108&z=2013-01-01&g=2013-01-01), wordt opgeschort totdat op het geschil is beslist.
 
 #### In de plaats treding door hoger gezag
 
 ##### Artikel 121
 
-Indien het bestuur van een gemeente in een plusregio beroep instelt tegen een besluit van het bestuur van de plusregio, is [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
+Vervallen
 
 #### Het van rechtswege vervallen van regelingen
 
 ##### Artikel 122
 
-Tegen een besluit als bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=4&artikel=114&z=2012-10-01&g=2012-10-01) en tegen een aanwijzing als bedoeld in de [artikelen 116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=5&artikel=116&z=2012-10-01&g=2012-10-01), en [117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=XI&paragraaf=5&artikel=117&z=2012-10-01&g=2012-10-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+Vervallen
 
 ##### Artikel 123
 
-In een regeling kan worden bepaald dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2012-10-01&g=2012-10-01) niet van toepassing is. In dat geval voorziet de regeling anderszins in de beslechting van geschillen als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2012-10-01&g=2012-10-01).
+In een regeling kan worden bepaald dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2013-01-01&g=2013-01-01) niet van toepassing is. In dat geval voorziet de regeling anderszins in de beslechting van geschillen als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2013-01-01&g=2013-01-01).
 
 #### § 2. Wijzigingen in andere wetten
 
@@ -1332,7 +1332,7 @@ In een regeling kan worden bepaald dat [artikel 28](https://wetten.overheid.nl/j
 
 ##### Artikel 126
 
-De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=9&z=2012-10-01&g=2012-10-01) zijn van overeenkomstige toepassing met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2012-10-01&g=2012-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2012-10-01&g=2012-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2012-10-01&g=2012-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2012-10-01&g=2012-10-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2012-10-01&g=2012-10-01), met dien verstande dat:
+De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=9&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=20&z=2013-01-01&g=2013-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=22&z=2013-01-01&g=2013-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=24&z=2013-01-01&g=2013-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=25&z=2013-01-01&g=2013-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=28&z=2013-01-01&g=2013-01-01), met dien verstande dat:
 
 - a. telkens in die bepalingen wordt gelezen voor:
 
@@ -1366,19 +1366,19 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 - –. gedeputeerde staten: Rijksvertegenwoordiger, bedoeld in artikel 1, eerste lid, onder d, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. bij de toepassing van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2012-10-01&g=2012-10-01), voor [artikel 81p, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), [artikel 79q, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q) of [artikel 51b eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) wordt gelezen: artikel 107, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
+- b. bij de toepassing van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), voor [artikel 81p, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), [artikel 79q, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q) of [artikel 51b eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) wordt gelezen: artikel 107, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- c. bij de toepassing van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=14&z=2012-10-01&g=2012-10-01), voor dezelfde gemeente wordt gelezen: hetzelfde openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- c. bij de toepassing van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=14&z=2013-01-01&g=2013-01-01), voor dezelfde gemeente wordt gelezen: hetzelfde openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- d. bij de toepassing van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) wordt gelezen: [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en artikel 7, eerste lid, van de Wet administratieve rechtspraak BES;
+- d. bij de toepassing van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) wordt gelezen: [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en artikel 7, eerste lid, van de Wet administratieve rechtspraak BES;
 
-- e. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2012-10-01&g=2012-10-01), voor [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) wordt gelezen: artikel 26 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
+- e. bij de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), voor [artikel 25 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=25) wordt gelezen: artikel 26 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- f. bij de toepassing van [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 44, vijfde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44), wordt gelezen: artikel 56, vijfde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
+- f. bij de toepassing van [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 44, vijfde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44), wordt gelezen: artikel 56, vijfde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- g. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2012-10-01&g=2012-10-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99), wordt gelezen: artikel 123 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
+- g. bij de toepassing van [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=21&z=2013-01-01&g=2013-01-01), voor [artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99), wordt gelezen: artikel 123 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- h. bij de toepassing van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01), voor [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) telkens wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES.
+- h. bij de toepassing van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01), voor [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) telkens wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES.
 
 ##### Artikel 127
 
@@ -1402,9 +1402,9 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 6. Het algemeen bestuur regelt op welke wijze ambtelijke bijstand wordt verleend aan de leden van het algemeen bestuur.
 
-7. Het eerste tot en met zesde lid en [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01), zijn van overeenkomstige toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door eilandsraden.
+7. Het eerste tot en met zesde lid en [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01), zijn van overeenkomstige toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door eilandsraden.
 
-8. De artikelen 62, 63, 64, 65, 67, 68, 69, 70, 71 en 72 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba en [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2012-10-01&g=2012-10-01), van deze wet zijn, voor zover bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het gemeenschappelijk van overeenkomstige toepassing, indien de regeling uitsluitend is getroffen door bestuurscolleges of gezaghebbers.
+8. De artikelen 62, 63, 64, 65, 67, 68, 69, 70, 71 en 72 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba en [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=23&z=2013-01-01&g=2013-01-01), van deze wet zijn, voor zover bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het gemeenschappelijk van overeenkomstige toepassing, indien de regeling uitsluitend is getroffen door bestuurscolleges of gezaghebbers.
 
 ##### Artikel 129
 
