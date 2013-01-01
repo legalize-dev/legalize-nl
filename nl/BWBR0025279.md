@@ -4,7 +4,7 @@ identifier: "BWBR0025279"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2009-02-13"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025279"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet vergoedingen adviescolleges en commissies in werking treedt.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder de wet: de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
@@ -56,7 +58,7 @@ De vergoeding per vergadering, bedoeld in [artikel 2, eerste lid, van de wet](ht
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2009-02-13&g=2009-02-13) wordt als een vergadering beschouwd:
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2013-01-01&g=2013-01-01) wordt als een vergadering beschouwd:
 
 - a. een vergadering van een adviescollege of een commissie;
 
@@ -74,11 +76,11 @@ Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00252
 
 ##### Artikel 5
 
-In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2009-02-13&g=2009-02-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4&z=2009-02-13&g=2009-02-13) kan in een besluit als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), in overeenstemming met het gevoelen van de ministerraad, een hogere vergoeding worden toegekend.
+In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4&z=2013-01-01&g=2013-01-01) kan in een besluit als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), in overeenstemming met het gevoelen van de ministerraad, een hogere vergoeding worden toegekend.
 
 ##### Artikel 6
 
-1. Indien de som van de vergoedingen op grond van dit besluit en inkomsten uit hoofde van het vervullen van een of meer functies bij instellingen of organisaties als bedoeld in de [artikelen 2 tot en met 5 van de Wet openbaarmaking met publieke middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562&artikel=2) per maand meer bedraagt dan de bezoldiging van de ministers, bedoeld in [artikel 1, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1), wordt de vergoeding verminderd met dat meerdere.
+1. Indien in een kalenderjaar de som van de aan dat kalenderjaar toe te rekenen vergoedingen op grond van dit besluit en de beloning in de zin van [artikel 1.1, onderdeel f, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1) uit hoofde van het vervullen van een of meer functies bij instellingen of organisaties als bedoeld in de [artikelen 1.2 tot en met 1.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2) meer bedraagt dan twaalf maal het bedrag, genoemd in [artikel 1, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1), vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, bedoeld in [artikel 2, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2), wordt de hoogste aan dat kalenderjaar toe te rekenen vergoeding verminderd met dat meerdere.
 
 2. Van inkomsten die leiden tot toepasselijkheid van het eerste lid, doet betrokkene terstond mededeling aan Onze Minister.
 
@@ -90,7 +92,7 @@ Het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317)
 
 ##### Artikel 8
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6&z=2009-02-13&g=2009-02-13) van dit besluit is niet van toepassing op leden van een adviescollege of een commissie die zijn benoemd voor de datum van inwerkingtreding van dit besluit.
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6&z=2013-01-01&g=2013-01-01) van dit besluit is niet van toepassing op leden van een adviescollege of een commissie die zijn benoemd voor de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 9
 
