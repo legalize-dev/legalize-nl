@@ -4,7 +4,7 @@ identifier: "BWBR0029323"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029323"
 soort: "AMvB-BES"
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.1
 
-Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2011-01-01&g=2011-01-01).
+Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2.2
 
@@ -102,7 +102,9 @@ Verschuldigd is:
 
 - e. voor het aanplakken van een exploot: USD 3;
 
-- f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3.
+- f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3;
+
+- g. voor het verzenden van een aanmaning tot betaling: USD 1.
 
 ##### Artikel 2.3
 
@@ -130,7 +132,7 @@ Verschuldigd is:
 
 ##### Artikel 2.5
 
-Naast de in de [artikelen 2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2011-01-01&g=2011-01-01) genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.
+Naast de in de [artikelen 2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01) genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.
 
 ### Hoofdstuk 3. Van inleners- en ketenaansprakelijkheid uitgezonderde sectoren
 
@@ -196,15 +198,15 @@ Een vergoeding van de kosten als bedoeld in de [artikelen 8.95](https://wetten.o
 
 1. Het bedrag van de kosten wordt bij de beslissing op het bezwaar, onderscheidenlijk bij de uitspraak van de rechter bepaald:
 
-- a. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01): overeenkomstig het in de bijlage bij dit besluit opgenomen tarief;
+- a. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01): overeenkomstig het in de bijlage bij dit besluit opgenomen tarief;
 
-- b. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01): op de vergoeding die ingevolge [artikel 40, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=40) is verschuldigd;
+- b. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01): op de vergoeding die ingevolge [artikel 40, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=40) is verschuldigd;
 
-- c. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01): overeenkomstig [artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&artikel=15);
+- c. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01): overeenkomstig [artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&artikel=15);
 
-- d. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01): overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen USD 2,25 en USD 36,30 per uur bedraagt;
+- d. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01): overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen USD 2,25 en USD 36,30 per uur bedraagt;
 
-- e. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01): op de werkelijke kosten.
+- e. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01): op de werkelijke kosten.
 
 2. Indien een partij door de rechter gedeeltelijk in het gelijk wordt gesteld, kan het op grond van het eerste lid vastgestelde bedrag worden verminderd.
 
@@ -214,21 +216,21 @@ Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminde
 
 ##### Artikel 5.3
 
-1. Samenhangende zaken worden voor de toepassing van [artikel 5.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.2&z=2011-01-01&g=2011-01-01), beschouwd als één zaak.
+1. Samenhangende zaken worden voor de toepassing van [artikel 5.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.2&z=2013-01-01&g=2013-01-01), beschouwd als één zaak.
 
-2. Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01), is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.
+2. Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01), is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.
 
 ### Hoofdstuk 6. Bijstelling bedragen
 
 ##### Artikel 6.1
 
-De in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&z=2011-01-01&g=2011-01-01) voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.
+De in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&z=2013-01-01&g=2013-01-01) voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.
 
 ### Hoofdstuk 7. Sectoren ten aanzien waarvan [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) geen toepassing vindt
 
 ##### Artikel 7.1
 
-Ten aanzien van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=3&artikel=3.1&z=2011-01-01&g=2011-01-01) van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) niet van toepassing.
+Ten aanzien van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=3&artikel=3.1&z=2013-01-01&g=2013-01-01) van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) niet van toepassing.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -242,9 +244,9 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit Belastingwet BES.
 
 ## Bijlage
 
-### Tarief als bedoeld in [artikel 5.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01), van het Uitvoeringsbesluit Belastingwet BES
+### Tarief als bedoeld in [artikel 5.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01), van het Uitvoeringsbesluit Belastingwet BES
 
-Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2011-01-01&g=2011-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
+Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2013-01-01&g=2013-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
 
 ### A. **Punten per proceshandeling**
 
@@ -274,7 +276,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage
 
-Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2011-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
+Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2013-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
 
 ### B. Waarde per punt
 
