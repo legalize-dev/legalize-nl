@@ -4,7 +4,7 @@ identifier: "BWBR0011436"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-05-13"
-last_updated: "2000-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011436"
 soort: "pbo"
@@ -65,7 +65,7 @@ De overdracht dient plaats te vinden zo spoedig mogelijk nadat de verplichting d
 
 ##### Artikel 4
 
-Bij de overdracht onderzoekt de protocolontvanger of alle minuten en overige delen van het protocol aanwezig zijn. De protocolhouder dan wel degene die het protocol onder zich heeft wordt ten minste drie dagen tevoren opgeroepen om bij dat onderzoek tegenwoordig te zijn. Bij het onderzoek moeten de leden van de kamer van toezicht desverlangd worden toegelaten. Van het onderzoek wordt door de protocolontvanger een verklaring opgemaakt die door alle aanwezigen wordt ondertekend. Er worden zoveel exemplaren van deze verklaring opgemaakt als noodzakelijk zijn ter overhandiging aan de aanwezigen en aan de kamer van toezicht.
+Bij de overdracht onderzoekt de protocolontvanger of alle minuten en overige delen van het protocol aanwezig zijn. De protocolhouder dan wel degene die het protocol onder zich heeft wordt ten minste drie dagen tevoren opgeroepen om bij dat onderzoek tegenwoordig te zijn. Bij het onderzoek moeten de leden van de kamer voor het notariaat desverlangd worden toegelaten. Van het onderzoek wordt door de protocolontvanger een verklaring opgemaakt die door alle aanwezigen wordt ondertekend. Er worden zoveel exemplaren van deze verklaring opgemaakt als noodzakelijk zijn ter overhandiging aan de aanwezigen en aan de kamer voor het notariaat.
 
 ##### Artikel 5
 
@@ -83,7 +83,7 @@ De protocolhouder dient ter gelegenheid van zijn defungeren de door hem verricht
 
 ##### Artikel 8
 
-Met het oog op de overdracht als in de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2000-10-01&g=2000-10-01) aangegeven is de protocolhouder verplicht zo veel mogelijk de voorbereidende werkzaamheden te verrichten voorafgaand aan de overdracht Is dit niet c.q. niet voldoende geschied en heeft de protocolhouder een maand na de dag van bevoegdheid nog steeds niet aan zijn verplichtingen terzake voldaan, dan u de protocolontvanger bevoegd deze werkzaamheden voor rekening van de protocolhouder te (doen) verrichten.
+Met het oog op de overdracht als in de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2013-01-01&g=2013-01-01) aangegeven is de protocolhouder verplicht zo veel mogelijk de voorbereidende werkzaamheden te verrichten voorafgaand aan de overdracht Is dit niet c.q. niet voldoende geschied en heeft de protocolhouder een maand na de dag van bevoegdheid nog steeds niet aan zijn verplichtingen terzake voldaan, dan u de protocolontvanger bevoegd deze werkzaamheden voor rekening van de protocolhouder te (doen) verrichten.
 
 ##### Artikel 9
 
@@ -95,9 +95,9 @@ De protocolontvanger is verplicht de protocolhouder inzage te verlenen in door l
 
 ##### Artikel 11
 
-De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2000-10-01&g=2000-10-01) zijn van toepassing indien een notaris is aangewezen om een protocol over te nemen als bedoeld in [artikel 15 lid 1 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=15), indien een waarnemer is benoemd in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoelde gevallen alsmede indien de schorsing van een notaris wordt opgeheven.
+De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2013-01-01&g=2013-01-01) zijn van toepassing indien een notaris is aangewezen om een protocol over te nemen als bedoeld in [artikel 15 lid 1 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=15), indien een waarnemer is benoemd in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoelde gevallen alsmede indien de schorsing van een notaris wordt opgeheven.
 
-Een waarnemer benoemd in een in [artikel 28 onderdeel c Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoeld geval, alsmede een waarnemer benoemd ter vervanging van een waarnemer in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoelde gevallen kunnen van een of meer van de verplichtingen als vermeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2000-10-01&g=2000-10-01) worden ontheven in het besluit tot benoeming van de voorzitter van de kamer van toezicht.
+Een waarnemer benoemd in een in [artikel 28 onderdeel c Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoeld geval, alsmede een waarnemer benoemd ter vervanging van een waarnemer in de in [artikel 28 onderdelen c, d en e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28) bedoelde gevallen kunnen van een of meer van de verplichtingen als vermeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011436&artikel=2&z=2013-01-01&g=2013-01-01) worden ontheven in het besluit tot benoeming van de voorzitter van de kamer van toezicht.
 
 ##### Artikel 12
 
