@@ -4,7 +4,7 @@ identifier: "BWBR0031614"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-06-06"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031614"
 soort: "wet"
@@ -80,7 +80,7 @@ Wijzigt de Invoeringswet Waterwet.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel XII
 
@@ -100,15 +100,15 @@ Wijzigt de Telecommunicatiewet.
 
 ##### Artikel XV
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen I, onderdelen Aa en E](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=I&z=2012-06-06&g=2012-06-06), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XI&z=2012-06-06&g=2012-06-06).
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de [artikelen I, onderdelen Aa en E](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=I&z=2013-01-01&g=2013-01-01), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XI&z=2013-01-01&g=2013-01-01).
 
-2. De [artikelen I, onderdelen Aa en E](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=I&z=2012-06-06&g=2012-06-06), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XI&z=2012-06-06&g=2012-06-06) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. De [artikelen I, onderdelen Aa en E](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=I&z=2013-01-01&g=2013-01-01), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XI&z=2013-01-01&g=2013-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-3. [Artikel II, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=II&z=2012-06-06&g=2012-06-06), werkt terug tot en met 1 januari 2011.
+3. [Artikel II, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=II&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 2011.
 
-4. [Artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=V&z=2012-06-06&g=2012-06-06), werkt terug tot en met 1 juli 2009.
+4. [Artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=V&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 juli 2009.
 
-5. Indien de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) eerder in werking treedt dan [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XII&z=2012-06-06&g=2012-06-06) van deze wet, werkt artikel XII terug tot en met het tijdstip van inwerkingtreding van de Wet algemene bepalingen omgevingsrecht.
+5. Indien de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) eerder in werking treedt dan [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0031614&artikel=XII&z=2013-01-01&g=2013-01-01) van deze wet, werkt artikel XII terug tot en met het tijdstip van inwerkingtreding van de Wet algemene bepalingen omgevingsrecht.
 
 ##### Artikel XVI
 
