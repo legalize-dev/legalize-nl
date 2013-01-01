@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **resterende verdiencapaciteit**: de resterende verdiencapaciteit, bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2);
 
-- **uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut, de werknemer of de IOW-gerechtigde;
+- **uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut, de werknemer, de IOW-gerechtigde, of de persoon die ziekengeld ontvangt op grond van de ZW;
 
 - **verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die recht heeft op een WGA-uitkering;
 
@@ -67,6 +67,8 @@ In deze regeling wordt verstaan onder:
 - **IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
 - **IOW-gerechtigde:** de uitkeringsgerechtigde, bedoeld in [artikel 1 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=1);
+
+- **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
 - **Pensioen:** een uitkering op grond van een pensioenregeling als bedoeld in [artikel 18, eerste lid, onderdeel a, onder 1°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18).
 
@@ -94,7 +96,9 @@ Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https
 
 2. Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de verzekerde die zijn resterende verdiencapaciteit niet volledig benut en die vakantie geniet tot een maximum van 20 werkdagen per jaar waarbij onder werkdagen wordt verstaan de dagen maandag tot en met vrijdag.
 
-3. De verzekerde, bedoeld in het tweede lid, geniet vakantie indien:
+3. Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), is vrijgesteld de persoon die ziekengeld ontvangt op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en die vakantie geniet tot een maximum van 20 werkdagen per jaar waarbij onder werkdagen wordt verstaan de dagen maandag tot en met vrijdag.
+
+4. De verzekerde, bedoeld in het tweede lid, of de persoon, bedoeld in het derde lid, geniet vakantie indien:
 
 - a. hij verklaard heeft vakantie te genieten; of
 
@@ -102,31 +106,19 @@ Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https
 
 ##### Artikel 5. Vrijstelling in verband met vrijwilligerswerk of mantelzorg
 
-1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 57,5 jaar of ouder is op 31 december 2003, gedurende een periode van minimaal drie maanden gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg en:
-
-- a. wiens eerste werkloosheidsdag is gelegen voor 1 januari 2004;
-
-- b. wiens eerste werkloosheidsdag is gelegen op of na 1 januari 2004, indien ten minste een jaar is verstreken gerekend vanaf de eerste werkloosheidsdag; of
-
-- c. indien ten minste een jaar is verstreken gerekend vanaf de eerste dag waarop hij recht heeft op een WGA-uitkering en hij zijn resterende verdiencapaciteit niet volledig benut, tenzij het UWV ten behoeve van die uitkeringsgerechtigde werkzaamheden laat verrichten met als doel de bevordering van de inschakeling in het arbeidsproces.
-
-2. De IOW-gerechtigde die op grond van het eerste lid is vrijgesteld van de verplichtingen, bedoeld in dat lid, op de dag voor ingang van het recht op een uitkering op grond van de [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) is vrijgesteld van de verplichtingen, bedoeld in de [artikelen 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), indien hij gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg.
-
-3. De uitkeringsgerechtigde die op grond van het eerste of het tweede lid is vrijgesteld van de verplichtingen, bedoeld in die leden, in verband met het verrichten van mantelzorg, blijft vrijgesteld van die verplichtingen tot een maand na de dag, waarop hij die mantelzorg niet langer verricht.
-
-4. Het UWV stelt het recht op vrijstelling, bedoeld in het eerste lid, op aanvraag vast.
+Vervallen
 
 ##### Artikel 6. Vrijstelling in verband met scholing en proefplaatsing
 
-1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [15, onderdelen b tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15) of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld, de uitkeringsgerechtigde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt.
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [15, onderdelen b tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld, de uitkeringsgerechtigde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt.
 
 2. De in het eerste lid bedoelde vrijstelling eindigt twee maanden voor het tijdstip waarop de in het eerste lid bedoelde opleiding of scholing naar verwachting zal eindigen, tenzij de scholing, blijkens een intentieverklaring van de toekomstige werkgever, een reëel uitzicht geeft op een op de scholing aansluitende dienstbetrekking van dezelfde of grotere omvang dan de scholing en met een duur van ten minste zes maanden.
 
-3. De uitkeringsgerechtigde die werkzaamheden verricht op een proefplaats als bedoeld in [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a) of [artikel 37 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), is vrijgesteld van de verplichtingen, bedoeld in de [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), voorzover het andere werkzaamheden betreft dan die op de proefplaats.
+3. De uitkeringsgerechtigde die werkzaamheden verricht op een proefplaats als bedoeld in [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [artikel 52e van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52e) of [artikel 37 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), is vrijgesteld van de verplichtingen, bedoeld in de [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), voorzover het andere werkzaamheden betreft dan die op de proefplaats.
 
 ##### Artikel 7. Vrijstelling om andere redenen
 
-Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), of de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 64 jaar of ouder is op de eerste dag van werkloosheid respectievelijk op de eerste dag dat hij recht heeft op een WGA-uitkering.
+Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), of de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 64 jaar of ouder is op de eerste dag van werkloosheid respectievelijk op de eerste dag dat hij recht heeft op een WGA-uitkering.
 
 ##### Artikel 8. Overgangsbepaling in verband met de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -178,7 +170,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Aanvulling wettelijke grondslag
 
-Deze regeling berust mede op [artikel 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16).
+Deze regeling berust mede op de [artikelen 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16) en [30aa, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30aa).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
