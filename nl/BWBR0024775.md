@@ -4,7 +4,7 @@ identifier: "BWBR0024775"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2009-02-13"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024775"
 soort: "wet"
@@ -67,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Van de toekenning van vergoedingen als bedoeld in het eerste en tweede lid zijn uitgesloten:
 
-- a. personen die een functie vervullen bij instellingen of organisaties als bedoeld in de [artikelen 2 tot en met 5 van de Wet openbaarmaking met publieke middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562&artikel=2), indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen;
+- a. personen die een functie vervullen bij instellingen of organisaties als bedoeld in de [artikelen 1.2 tot en met 1.5 van de Wet normering uit publieke middelen bekostigde bezoldiging topfunctionarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen;
 
 - b. vertegenwoordigers van organisaties die gelegenheid hebben op te komen voor groepen of individuele personen wier belangen bij de arbeid van de commissie zijn betrokken, tenzij door Onze Minister in bijzondere gevallen anders wordt beslist.
 
