@@ -4,7 +4,7 @@ identifier: "BWBR0020483"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020483"
 soort: "AMvB"
@@ -110,13 +110,13 @@ Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een
 
 ##### Artikel 5. Eenmalige ontheffing
 
-1. Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2010-01-01&g=2010-01-01) kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in [artikel 2:15 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.
+1. Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2010-01-01&g=2013-01-01) kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in [artikel 2:15 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.
 
-2. Een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2010-01-01&g=2010-01-01) of een ontheffing als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2010-01-01&g=2010-01-01) kan eenmalig worden verleend per toestand of gebeurtenis.
+2. Een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2010-01-01&g=2013-01-01) of een ontheffing als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2010-01-01&g=2013-01-01) kan eenmalig worden verleend per toestand of gebeurtenis.
 
 ##### Artikel 6. Nadere regelgeving
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2010-01-01&g=2010-01-01) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2010-01-01&g=2013-01-01) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
 
 ##### Artikel 7. Inwerkingtreding
 
