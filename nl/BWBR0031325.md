@@ -4,7 +4,7 @@ identifier: "BWBR0031325"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-04-07"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031325"
 soort: "wet"
@@ -61,6 +61,6 @@ Indien vóór de inwerkingtreding van deze wet een overeenkomst als bedoeld in [
 
 ##### Artikel IV
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij [artikel IIA, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0031325&artikel=IIa&z=2012-04-07&g=2012-04-07), terugwerkt tot en met 1 januari 2011.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij [artikel IIA, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0031325&artikel=IIa&z=2013-01-01&g=2013-01-01), terugwerkt tot en met 1 januari 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
