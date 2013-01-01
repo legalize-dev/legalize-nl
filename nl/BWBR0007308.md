@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst.
+1. De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst. Voor de toepassing van dit lid wordt, ingeval de open laadbak van een motorrijtuig van het type pick-up is voorzien van een al dan niet eenvoudig te demonteren overkapping, de laadruimte in aanmerking genomen met gesloten overkapping, tenzij deze overkapping slechts bestaat uit een platte deksel die direct op de opstaande zijkanten van de laadbak is geplaatst.
 
 2. Het verschil in hoogte tussen de cabine en de laadruimte is de verticale afstand tussen het denkbeeldige horizontale vlak waarin de beide hoogste punten van de dagopening van de deuren bij de voorzitplaatsen zijn gelegen, en het hoogste gedeelte van het dak van de laadruimte, gemeten over een breedte van ten minste 20 cm.
 
@@ -105,25 +105,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De nummerplaat, bedoeld in [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII) en in [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a), bestaat uit een op zijn punt geplaatste vierkante plaat met zijden van 21 centimeter, waarop in witte onuitwisbare tekens op een rode achtergrond, volgens RAL standaardkleur nr. 3000, de kentekens van het registratiebewijs dat krachtens [artikel 5 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5) voor het voertuig is afgegeven, en een gewichtscode zijn aangebracht. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede van de onderlinge afstand daarvan, zijn die welke in de [Bijlage bij de Regeling kentekens en kentekenplaten](onbekend) als model A.2. voor het kenteken van motorrijwielen zijn voorgeschreven. De plaatsing van de tekens op de plaat geschiedt overeenkomstig het model van de bijlage bij deze regeling.
-
-2. De in het eerste lid bedoelde gewichtscode geeft het tot het naaste honderdtal kilogrammen afgeronde gewicht aan, waarbij 50 kilogram naar beneden wordt afgerond. De gewichtscode bestaat uit twee cijfers of uit één letter en één cijfer. Het eerste cijfer geeft de duizendtallen aan van het gewicht in kilogrammen. Het tweede cijfer geeft de honderdtallen aan van het afgeronde gewicht in kilogrammen. Indien het gewicht tienduizend kilogram of meer bedraagt, begint de code met een letter die de duizendtallen aangeeft van het gewicht overeenkomstig de volgende tabel:
-
-A is 10;G is 16;N is 22;V is 28;
-
-B is 11;H is 17;P is 23;W is 29;
-
-C is 12;J is 18;R is 24;X is 30
-
-D is 13;K is 19;S is 25;Z is 31;
-
-E is 14;L is 20;T is 26;
-
-F is 15;M is 21;U is 27;
-
-XX is meer dan 31950 kilogram.
-
-3. De plaat moet duidelijk als zodanig kenbaar worden aangebracht aan de achterzijde van het voertuig. Indien het motorrijtuig is verbonden met meer dan één voertuig, dienen de platen van die voertuigen op het achterste voertuig te zijn aangebracht. De plaat mag niet hoger zijn aangebracht dan 2 meter boven het wegdek en niet in de onmiddellijke nabijheid van de op het rij- of voertuig aangebrachte kentekenplaat met het kenteken van het motorrijtuig.
+Vervallen
 
 ##### Artikel 5a
 
@@ -131,13 +113,11 @@ XX is meer dan 31950 kilogram.
 
 2. Het verzoek om toepassing van [artikel 37b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b) gaat vergezeld van
 
-- a. afschriften van de kentekenbewijzen van de vrachtauto’s die deel uit zullen maken van het bedrijfsvoertuigenpark;
+- a. afschriften van de kentekenbewijzen van de vrachtauto’s en aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;
 
-- b. afschriften van het registratiebewijs of de registratiebewijzen van de aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;
+- b. een schriftelijke verklaring van de houder dat geen van de vrachtauto’s die deel zullen uitmaken van het bedrijfsvoertuigenpark zal worden verbonden met een aanhangwagen die daarvan geen deel uitmaakt; en
 
-- c. een schriftelijke verklaring van de houder dat geen van de vrachtwagens die deel zullen uitmaken van het bedrijfsvoertuigenpark zal worden verbonden met een aanhangwagen die daarvan geen deel uitmaakt; en
-
-- d. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.
+- c. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.
 
 ##### Artikel 6
 
