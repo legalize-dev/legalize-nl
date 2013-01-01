@@ -4,7 +4,7 @@ identifier: "BWBR0011103"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2009-03-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011103"
 soort: "ministeriele-regeling"
@@ -43,7 +43,21 @@ Besluit:
 
 ##### Artikel 1
 
-1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=28) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42) tot en met [55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=55), gelden de volgende nadere regels:
+Deze regeling berust op [artikel 1a, derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a).
+
+##### Artikel 2
+
+Deze regeling treedt in werking op het tijdstip waarop het Besluit van 1 december 1998, houdende enige voorzieningen met betrekking tot onbemande luchtvaartuigen (Stb. 1998, 674) in werking treedt.
+
+##### Artikel 3
+
+Deze regeling wordt aangehaald als: Regeling vluchten militaire onbemande luchtvaartuigen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=28) en [42 tot en met 55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), gelden de volgende nadere regels:
 
 - a. de vlucht wordt uitgevoerd in een gebied waar het uitoefenen van de burgerluchtvaart is verboden tijdens het gebruik van het gebied ten behoeve van militaire oefeningen;
 
@@ -64,13 +78,5 @@ Besluit:
 - c. voorafgaand aan de vlucht wordt per NOTAM bekend gesteld in welk gebied en voor welke duur gebruik wordt gemaakt van het betreffende gebied door het militaire onbemande luchtvaartuig;
 
 - d. de vlucht wordt afgestemd met eventueel ander luchtverkeer in het gebied.
-
-##### Artikel 2
-
-Deze regeling treedt in werking op het tijdstip waarop het Besluit van 1 december 1998, houdende enige voorzieningen met betrekking tot onbemande luchtvaartuigen (Stb. 1998, 674) in werking treedt.
-
-##### Artikel 3
-
-Deze regeling wordt aangehaald als: Regeling vluchten militaire onbemande luchtvaartuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
