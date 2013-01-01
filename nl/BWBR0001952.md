@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-06-22"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -93,7 +93,7 @@ Vervallen
 
 ##### Artikel 4
 
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.
+Vervallen
 
 ##### Artikel 5
 
@@ -451,7 +451,7 @@ Een ontslagaanvraag van een militair ambtenaar kan worden afgewezen en een reeds
 
 #### § 1. Overgangsbepaling
 
-#### § 2. Slotbepalingen
+#### § 1. Overgangsbepaling
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -476,6 +476,16 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 ## Titel V. Overgangs- en slotbepalingen
 
 #### § 1. Overgangsbepaling
+
+#### § 2. Slotbepalingen
+
+Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12n
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Titel V. Overgangs- en slotbepalingen
 
 #### § 2. Slotbepalingen
 
