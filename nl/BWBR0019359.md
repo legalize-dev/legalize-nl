@@ -4,7 +4,7 @@ identifier: "BWBR0019359"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2006-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019359"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: de Minister van Justitie;
+- a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
 - b. College: het College van procureurs-generaal;
 
@@ -58,15 +58,15 @@ In dit besluit wordt verstaan onder:
 
 - d. officier van justitie: de officier van justitie bij het landelijk parket, belast met getuigenbescherming;
 
-- e. onderdeel getuigenbescherming: het onderdeel bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=2&z=2006-04-01&g=2006-04-01).
+- e. onderdeel getuigenbescherming: het onderdeel bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=2&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 2
 
-1. Er is een onderdeel getuigenbescherming bij het Korps landelijke politiediensten, belast met:
+1. Er is een onderdeel belast met getuigenbescherming bij een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), belast met:
 
 - a. het opstellen van dreigingsanalyses;
 
-- b. het adviseren van het bevoegde gezag omtrent de bescherming van personen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=3&z=2006-04-01&g=2006-04-01);
+- b. het adviseren van het bevoegde gezag omtrent de bescherming van personen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=3&z=2013-01-01&g=2013-01-01);
 
 - c. de uitvoering van beschermingsmaatregelen.
 
@@ -78,7 +78,7 @@ Beschermingsmaatregelen kunnen worden getroffen ten aanzien van een getuige als 
 
 ##### Artikel 4
 
-1. Het College kan het onderdeel getuigenbescherming opdragen ten aanzien van een persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=3&z=2006-04-01&g=2006-04-01) een dreigingsanalyse op te stellen en advies uit te brengen omtrent de te treffen beschermingsmaatregelen en de uitvoerbaarheid daarvan.
+1. Het College kan het onderdeel getuigenbescherming opdragen ten aanzien van een persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=3&z=2013-01-01&g=2013-01-01) een dreigingsanalyse op te stellen en advies uit te brengen omtrent de te treffen beschermingsmaatregelen en de uitvoerbaarheid daarvan.
 
 2. De opdracht, bedoeld in het eerste lid, geschiedt schriftelijk en kan zonodig mede betrekking hebben op de echtgenoot of levensgezel van de bedreigde persoon, diens kinderen, naaste familieleden of andere personen, voor zover zij een nauwe betrekking onderhouden met de bedreigde persoon.
 
@@ -86,17 +86,17 @@ Beschermingsmaatregelen kunnen worden getroffen ten aanzien van een getuige als 
 
 1. Indien uit de dreigingsanalyse een dringende noodzaak tot het treffen van beschermingsmaatregelen blijkt en het onderdeel getuigenbescherming over de uitvoerbaarheid van de maatregelen advies heeft uitgebracht, kan het College het onderdeel getuigenbescherming opdragen maatregelen te treffen ter bescherming van de bedreigde persoon. In de bij besluit van Onze Minister aangewezen gevallen stelt het College Onze Minister terstond in kennis van het voornemen tot het verstrekken van een opdracht tot het treffen van beschermingsmaatregelen.
 
-2. De opdracht tot het treffen van beschermingsmaatregelen geschiedt schriftelijk en vermeldt haar geldigheidsduur. De opdracht kan zonodig mede betrekking hebben op de personen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2006-04-01&g=2006-04-01).
+2. De opdracht tot het treffen van beschermingsmaatregelen geschiedt schriftelijk en vermeldt haar geldigheidsduur. De opdracht kan zonodig mede betrekking hebben op de personen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 6
 
-In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2006-04-01&g=2006-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=5&z=2006-04-01&g=2006-04-01), kan in spoedeisende gevallen Onze Minister, het College of een lid daarvan het onderdeel getuigenbescherming mondeling opdracht verstrekken tot het treffen van tijdelijke noodmaatregelen. Zo spoedig mogelijk na de mondelinge opdracht wordt deze op schrift gesteld en wordt een opdracht als bedoeld in[artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2006-04-01&g=2006-04-01), verstrekt.
+In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=5&z=2013-01-01&g=2013-01-01), kan in spoedeisende gevallen Onze Minister, het College of een lid daarvan het onderdeel getuigenbescherming mondeling opdracht verstrekken tot het treffen van tijdelijke noodmaatregelen. Zo spoedig mogelijk na de mondelinge opdracht wordt deze op schrift gesteld en wordt een opdracht als bedoeld in[artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=4&z=2013-01-01&g=2013-01-01), verstrekt.
 
 ##### Artikel 7
 
 1. Indien een opdracht tot het treffen van beschermingsmaatregelen is verstrekt, sluit de officier van justitie met de te beschermen persoon een schriftelijke overeenkomst waarin in ieder geval bepalingen zijn opgenomen omtrent de verplichtingen van de te beschermen persoon en van het onderdeel getuigenbescherming alsmede de gevolgen van niet-nakoming daarvan.
 
-2. Behoudens spoedeisende gevallen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=6&z=2006-04-01&g=2006-04-01), vangt de uitvoering van de beschermingsmaatregelen niet aan alvorens een overeenkomst als bedoeld in het eerste lid is gesloten.
+2. Behoudens spoedeisende gevallen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019359&artikel=6&z=2013-01-01&g=2013-01-01), vangt de uitvoering van de beschermingsmaatregelen niet aan alvorens een overeenkomst als bedoeld in het eerste lid is gesloten.
 
 ##### Artikel 8
 
