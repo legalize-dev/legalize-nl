@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2010-10-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -64,11 +64,7 @@ De commissaris brengt met redelijke tussenpozen bezoeken aan de gemeenten in de 
 
 ##### Artikel 4
 
-1. De commissaris brengt uit eigen beweging, dan wel op verzoek advies uit aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in [artikel 116, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=116).
-
-2. De commissaris brengt zijn advies over de in [artikel 23, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=23) bedoelde besluiten ter zake van de benoeming, de herbenoeming, de schorsing en het ontslag van de korpsbeheerder, alsmede omtrent de benoeming van een waarnemend korpsbeheerder uit binnen vier weken, nadat Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties hem om advies heeft gevraagd.
-
-3. De commissaris brengt zijn advies over de in [artikel 25, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde aanbeveling voor de benoeming van een korpschef of van een van de in [artikel 25, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde ambtenaren van politie uit binnen vier weken, nadat Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties hem om advies heeft gevraagd.
+De commissaris brengt uit eigen beweging, dan wel op verzoek advies uit aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in [artikel 116, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=116).
 
 ##### Artikel 5
 
@@ -112,13 +108,11 @@ De commissaris coördineert de voorbereiding van de civiele verdediging door de 
 
 ##### Artikel 9
 
-1. Van het beroepschrift, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=32), eerste lid, [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=34), derde lid, en [35, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=35) zendt de commissaris onverwijld een afschrift aan het College van procureurs-generaal. Binnen tien weken na ontvangst van het beroepschrift zendt de commissaris het ontwerp van het op het beroep te nemen besluit aan het College van procureurs-generaal.
-
-2. Indien de commissaris over het ontwerp van het besluit geen overeenstemming met het College van procureurs-generaal bereikt, stelt hij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld schriftelijk daarvan in kennis.
+Vervallen
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2010-10-01&g=2010-10-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2013-01-01&g=2013-01-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
