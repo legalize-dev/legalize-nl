@@ -4,7 +4,7 @@ identifier: "BWBR0020486"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-12"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020486"
 soort: "AMvB"
@@ -50,9 +50,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369);
+- a. wet: [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369).
 
-- b. exploitatiesaldo: exploitatiesaldo als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=13).
+- b. vervallen.
 
 ##### Artikel 2
 
@@ -76,27 +76,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Ter bepaling van de jaarlijks in rekening te brengen kosten, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=18), worden de kosten die gebaseerd zijn op de begroting verminderd of vermeerderd met het positieve, onderscheidenlijk negatieve exploitatiesaldo.
+Vervallen
 
 ##### Artikel 6
 
-1. De kosten, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=18), worden toegerekend aan de volgende categorieën van effectenuitgevende instellingen, voor zover het niet betreft een effectenuitgevende instelling die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:1) uitgeeft met een nominale waarde per eenheid van ten minste € 100.000:
-
-- a. effectenuitgevende instellingen die een geconsolideerde jaarrekening opstellen;
-
-- b. effectenuitgevende instellingen die geen geconsolideerde jaarrekening opstellen,.
-
-2. Voor de categorie van effectenuitgevende instellingen als bedoeld in het eerste lid, onderdeel a, stelt de minister jaarlijks voor 15 juli een verdeelsleutel vast op basis van de gemiddelde marktkapitalisatie van de effectenuitgevende instellingen in de eerste drie maanden van het lopende kalenderjaar. In uitzondering daarop wordt voor de effectenuitgevende instellingen, behorende tot die categorie, waarvan uitsluitend obligaties zijn toegelaten tot de handel op een gereglementeerde markt, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is de verdeelsleutel vastgesteld op basis van het eigen vermogen in het voorafgaande boekjaar. De minister kan daarbij bandbreedtes bepalen en per bandbreedte een verdeelsleutel vaststellen.
-
-3. Voor een effectenuitgevende instelling als bedoeld in het eerste lid, onderdeel a, bestaat de hoogte van het in rekening te brengen bedrag uit een jaarlijks voor 15 juli door de minister vast te stellen minimumbedrag, vermeerderd met een tarief:
-
-- a. dat is gebaseerd op de aan die categorie toe te rekenen kosten op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2012-01-01&g=2012-01-01), onder aftrek van het totaal van het aan de categorie in rekening te brengen minimumbedragen, en
-
-- b. dat is berekend naar rato van de verdeelsleutel, bedoeld in het tweede lid.
-
-4. Voor een effectenuitgevende instelling, bedoeld in het eerste lid, onderdeel b, bestaat de hoogte van het in rekening te brengen bedrag uit een jaarlijks voor 15 juli door de minister vast te stellen bedrag dat is gebaseerd op de aan die categorie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2012-01-01&g=2012-01-01) toe te rekenen kosten.
-
-5. Voor de verdeelsleutel, bedoeld in het tweede lid, het minimumtarief, bedoeld in het derde lid, en het (vaste) bedrag, bedoeld in het vierde lid, wordt door de Autoriteit Financiële Markten jaarlijks voor 15 juni aan Onze Minister een voorstel gedaan.
+Vervallen
 
 ##### Artikel 7
 
