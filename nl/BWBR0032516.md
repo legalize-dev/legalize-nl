@@ -75,11 +75,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde ambtenaren.
-
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2021-04-21&g=2021-04-21), bedoelde personen.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
