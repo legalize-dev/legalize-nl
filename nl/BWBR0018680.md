@@ -4,7 +4,7 @@ identifier: "BWBR0018680"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2009-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018680"
 soort: "AMvB"
@@ -76,7 +76,7 @@ De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
 - a. de gegevens betreffende de infrastructuur en overige informatie opgenomen in een door die dienst daartoe aangehouden gegevensbestand;
 
-- b. in de daarvoor in aanmerking komende gevallen, een door de wegbeheerder verleende toestemming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01);
+- b. in de daarvoor in aanmerking komende gevallen, een door de wegbeheerder verleende toestemming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01);
 
 - c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.
 
@@ -84,23 +84,23 @@ De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
 De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b), aan de wegbeheerder:
 
-- a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), of
+- a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), of
 
-- b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=3&artikel=6&z=2009-05-01&g=2009-05-01), toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.
+- b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.
 
 ##### Artikel 5
 
 1. De Dienst Wegverkeer weigert een ontheffing indien:
 
-- a. een wegbeheerder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) bedoelde toestemming weigert;
+- a. een wegbeheerder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) bedoelde toestemming weigert;
 
 - b. het verlenen daarvan strijd oplevert met verdragen dan wel besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk.
 
 2. De Dienst Wegverkeer kan een ontheffing weigeren:
 
-- a. indien gegevens betreffende de infrastructuur en overige informatie uit het in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), bedoelde gegevensbestand hiertoe aanleiding geven;
+- a. indien gegevens betreffende de infrastructuur en overige informatie uit het in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), bedoelde gegevensbestand hiertoe aanleiding geven;
 
-- b. indien de voertuigtechnische gegevens als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), hiertoe aanleiding geven;
+- b. indien de voertuigtechnische gegevens als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), hiertoe aanleiding geven;
 
 - c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2) aangegeven belangen.
 
@@ -108,7 +108,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 ##### Artikel 6
 
-1. De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
+1. De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
 
 2. De wegbeheerder draagt zorg voor de juistheid en volledigheid van de gegevens en voor onmiddellijke doorgifte van wijzigingen daarin.
 
@@ -122,9 +122,9 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 - a. twee vertegenwoordigers van de Dienst Wegverkeer, van wie er een optreedt als voorzitter;
 
-- b. twee vertegenwoordigers van het Ministerie van Verkeer en Waterstaat;
+- b. twee vertegenwoordigers van het Ministerie van Infrastructuur en Milieu;
 
-- c. één vertegenwoordiger van de politie namens de portefeuillehouder verkeer van de Raad van Hoofdcommissarissen;
+- c. één vertegenwoordiger van de politie;
 
 - d. één vertegenwoordiger van het openbaar ministerie;
 
