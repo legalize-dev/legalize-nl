@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan [artikel 8, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8).
+1. Dit besluit geeft uitvoering aan [artikel 8, vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8).
 
 2. Dit besluit verstaat onder wet: de [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954).
 
 ##### Artikel 2
 
-1. Als administratieplichtigen als bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+1. Als administratieplichtigen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-2. Als gegevens en inlichtingen als bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen de gegevens en inlichtingen, bedoeld in [artikel 22, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22). Artikel 22, derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.
+2. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen de gegevens en inlichtingen, bedoeld in [artikel 22, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22). Artikel 22, derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.
 
 3. Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
@@ -78,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2012-01-01&g=2012-01-01), zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
+De administratieplichtigen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2013-01-01&g=2013-01-01), zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
 
 ##### Artikel 4
 
