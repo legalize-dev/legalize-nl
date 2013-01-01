@@ -4,7 +4,7 @@ identifier: "BWBR0023289"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2008-07-16"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023289"
 soort: "wet"
@@ -161,11 +161,11 @@ Wijzigt de Opiumwet.
 
 1. De artikelen van deze wet, met uitzondering van artikel XXIV, dat in werking treedt met ingang van 1 januari 2009, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=I&z=2008-07-16&g=2008-07-16), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=II&z=2008-07-16&g=2008-07-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=IV&z=2008-07-16&g=2008-07-16), [VI, onderdelen A tot en met E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=VI&z=2008-07-16&g=2008-07-16), [XX, onderdelen C, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XX&z=2008-07-16&g=2008-07-16), [XXVI, onderdelen D, J en O](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVI&z=2008-07-16&g=2008-07-16), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVII&z=2008-07-16&g=2008-07-16) werken terug tot en met 1 januari 2006.
+2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=I&z=2013-01-01&g=2013-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=II&z=2013-01-01&g=2013-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=IV&z=2013-01-01&g=2013-01-01), [VI, onderdelen A tot en met E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=VI&z=2013-01-01&g=2013-01-01), [XX, onderdelen C, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XX&z=2013-01-01&g=2013-01-01), [XXVI, onderdelen D, J en O](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVI&z=2013-01-01&g=2013-01-01), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVII&z=2013-01-01&g=2013-01-01) werken terug tot en met 1 januari 2006.
 
-3. [Artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXV&z=2008-07-16&g=2008-07-16) werkt terug tot het tijdstip van inwerkingtreding van de [Wet van 23 juni 2006 tot wijziging van de Wet op de orgaandonatie (evaluatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0020000) (Stb. 311).
+3. [Artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXV&z=2013-01-01&g=2013-01-01) werkt terug tot het tijdstip van inwerkingtreding van de [Wet van 23 juni 2006 tot wijziging van de Wet op de orgaandonatie (evaluatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0020000) (Stb. 311).
 
-4. Indien deze wet niet eerder in werking treedt dan 1 januari 2007, werkt [Artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVIII&z=2008-07-16&g=2008-07-16) terug tot dit tijdstip.
+4. Indien deze wet niet eerder in werking treedt dan 1 januari 2007, werkt [Artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVIII&z=2013-01-01&g=2013-01-01) terug tot dit tijdstip.
 
 ##### Artikel XXXI
 
