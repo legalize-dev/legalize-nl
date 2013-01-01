@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-06-06"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -46,17 +46,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621);
+- a. **basisgroep:** vaste groep kinderen in de buitenschoolse opvang in een passend ingerichte ruimte;
 
-- b. **bruto-oppervlakte:** het aantal vierkante meters (lengte maal breedte) van een ruimte;
+- b. **besluit:** [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621);
 
-- c. **peuterspeelzaalgroep:** een vaste groep kinderen met één of meer beroepskrachten in een passend ingerichte vaste groepsruimte;
+- c. **peuterspeelzaalgroep:** vaste groep kinderen in een passend ingerichte vaste groepsruimte in een peuterspeelzaal;
 
-- d. **stamgroepruimte:** de ruimte waarin de kinderen in de dagopvang het grootste deel van de dag aanwezig zijn;
+- d. **stamgroep:** vaste groep kinderen in de dagopvang in een passend ingerichte vaste groepsruimte;
 
-- e. **basisgroep:** een vaste groep kinderen in de buitenschoolse opvang in een passend ingerichte ruimte;
-
-- f. **stamgroep:** een vaste groep kinderen in de dagopvang in een passend ingerichte vaste groepsruimte.
+- e. **stamgroepruimte:** ruimte waarin kinderen het grootste deel van de dag aanwezig zijn.
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
@@ -80,9 +78,9 @@ In deze regeling wordt verstaan onder:
 
 - b. een duidelijke uitsplitsing van verantwoordelijkheden per organisatielaag in taken en bevoegdheden;
 
-- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen, evaluatie, nazorg en dat is voorzien van een heldere toelichting;
+- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen en dat is voorzien van een heldere toelichting;
 
-- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan;
+- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan, de evaluatie en de nazorg;
 
 - e. een lijst van signalen per ontwikkelingsgebied uitgesplitst voor kinderen in de leeftijd tot vier jaar en kinderen in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt;
 
@@ -110,11 +108,11 @@ In deze regeling wordt verstaan onder:
 
 2. De houder deelt de ouder en het kind mee tot welke stamgroep het kind behoort en welke beroepskrachten op welke dag aan welke groep zijn toegewezen.
 
-3. Aan een kind worden ten hoogste drie vaste beroepskrachten toegewezen, waarvan per dag ten minste één beroepskracht werkzaam is in de groep van dat kind. Indien er vanwege de grootte van de groep met drie beroepskrachten tegelijkertijd gewerkt wordt dan worden er ten hoogste vier beroepskrachten toegewezen aan een kind. Deze beroepskrachten zijn tevens aanspreekpunt voor de ouders van het kind.
+3. Aan een kind worden ten hoogste drie vaste beroepskrachten toegewezen, waarvan per dag ten minste één beroepskracht werkzaam is in de groep van dat kind. Indien er vanwege de grootte van de groep met drie beroepskrachten tegelijkertijd gewerkt wordt dan worden er ten hoogste vier beroepskrachten toegewezen aan een kind.
 
 4. Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.
 
-5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2012-06-06&g=2012-06-06).
+5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01).
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.
 
@@ -128,19 +126,21 @@ In deze regeling wordt verstaan onder:
 
 - d. één beroepskracht per acht kinderen in de leeftijd van drie tot vier jaar.
 
-8. Het minimale aantal beroepskrachten, bedoeld in het zevende lid, wordt bij een gemengde leeftijdsgroep bepaald aan de hand van de voor de aanwezige leeftijdscategorieën geldende maximale aantallen kinderen, waarbij aan het eind van de berekening naar boven kan worden afgerond.
+8. Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen bij een gemengde leeftijdsgroep wordt, met in achtneming van het eerste en het zevende lid en de rekenregels in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.
 
 9. Indien kinderen bij (spel)activiteiten de stamgroep verlaten, is het eerste lid niet van toepassing.
 
 10. Indien bij dagopvang per dag ten minste tien aaneengesloten uren opvang wordt geboden, kunnen, in afwijking van het zevende, achtste of negende lid, voor ten hoogste drie uren per dag, met uitzondering van de uren tussen 9.30 en 12.30 uur en 15.00 en 16.30 uur, minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten, vereist op grond van het zevende of achtste lid, wordt ingezet. In de periode vóór 9.30 uur en na 16.30 uur kan de in de eerste volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste anderhalf uur aaneengesloten bedragen en in de (pauze)periode tussen 12.30 uur en 15.00 uur, ten hoogste twee uren aaneengesloten en niet langer dan de daadwerkelijke duur van de middagpauze.
 
-11. Indien op grond van het tiende lid slechts één beroepskracht in het kindercentrum wordt ingezet, dient ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig te zijn.
+11. Indien op grond van het tiende lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
-12. Indien op grond van het zevende of achtste lid slechts één beroepskracht in een kindercentrum aanwezig is, dan dient de ondersteuning van deze beroepskracht door een andere volwassene in geval van calamiteiten te zijn geregeld.
+12. Indien op grond van het zevende of achtste lid slechts één beroepskracht in het kindercentrum aanwezig is, is tevens een volwassene beschikbaar die telefonisch bereikbaar is en die binnen 15 minuten in het kindercentrum aanwezig kan zijn in geval van een calamiteit. De houder informeert de bij het kindercentrum werkzame personen over de naam en het telefoonnummer van deze persoon.
+
+13. Met vooraf gegeven schriftelijke toestemming van de ouder kan een kind gedurende een tussen houder en ouder overeengekomen periode, in afwijking van het tweede, derde en het vierde lid, worden opgevangen in één andere stamgroep dan de stamgroep, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 6. Aantal beroepskrachten en de groepsgrootte in buitenschoolse opvang
 
-1. Bij buitenschoolse opvang vindt de opvang plaats in groepen, met dien verstande dat een basisgroep uit ten hoogste twintig kinderen bestaat in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt.
+1. Bij buitenschoolse opvang vindt de opvang plaats in basisgroepen, met dien verstande dat een basisgroep uit ten hoogste twintig kinderen bestaat in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt.
 
 2. In afwijking van het eerste lid kan een basisgroep, voor kinderen in de leeftijd van acht jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt, bestaan uit ten hoogste dertig kinderen.
 
@@ -148,15 +148,19 @@ In deze regeling wordt verstaan onder:
 
 4. Bij buitenschoolse opvang voor kinderen in de leeftijd van acht jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt in een basisgroep met ten hoogste dertig kinderen, bedraagt de verhouding tussen het aantal beroepskrachten en het feitelijke aantal aanwezige kinderen, in afwijking van het derde lid, ten minste twee beroepskrachten, waarbij de beroepskrachten bij hun werkzaamheden worden ondersteund door een andere volwassene.
 
-5. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
+5. Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen bij een gemengde leeftijdsgroep wordt, met in achtneming van het eerste tot en met vierde lid en de rekenregels in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.
 
-6. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2012-06-06&g=2012-06-06), aantoonbaar extra aandacht aan de omgang met de basisgroep.
+6. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
 
-7. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2012-06-06&g=2012-06-06), is van overeenkomstige toepassing.
+7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
 
-8. Indien op grond van het zevende lid slechts één beroepskracht in het kindercentrum wordt ingezet, dient ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig te zijn.
+8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-9. Indien ingevolge het derde of vierde lid slechts één beroepskracht in een kindercentrum aanwezig is, dan dient de ondersteuning van deze beroepskracht door een andere volwassene in geval van calamiteiten te zijn geregeld.
+9. Indien op grond van het achtste lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
+
+10. Indien op grond van het derde, vierde of vijfde lid slechts één beroepskracht in het kindercentrum aanwezig is, is tevens een volwassene beschikbaar die telefonisch bereikbaar is en die binnen 15 minuten in het kindercentrum aanwezig kan zijn in geval van een calamiteit. De houder informeert de bij het kindercentrum werkzame personen over de naam en het telefoonnummer van deze persoon.
+
+11. Met vooraf gegeven schriftelijke toestemming van de ouder kan een kind gedurende een tussen houder en ouder overeengekomen periode worden opgevangen in één andere basisgroep dan de basisgroep, bedoeld in het eerste lid.
 
 ##### Artikel 7. Pedagogisch beleidsplan
 
@@ -164,29 +168,35 @@ In deze regeling wordt verstaan onder:
 
 - a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke- en sociale competentie, en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;
 
-- b. de werkwijze, maximale omvang en leeftijdsopbouw van de stamgroepen;
+- b. de werkwijze, maximale omvang en leeftijdsopbouw van de stamgroepen en basisgroepen;
 
-- c. de (spel)activiteiten die kinderen buiten de stamgroep kunnen verrichten;
+- c. de (spel)activiteiten die kinderen buiten de stamgroepen en basisgroepen kunnen verrichten;
 
-- d. de wijze waarop beroepskrachten bij hun werkzaamheden worden ondersteund door andere volwassenen.
+- d. de wijze waarop beroepskrachten bij hun werkzaamheden worden ondersteund door andere volwassenen;
+
+- e. de wijze waarop kinderen kunnen wennen aan een nieuwe basisgroep of stamgroep waarin zij zullen worden opgevangen;
+
+- f. het beleid ten aanzien van het gebruik maken van kinderopvang gedurende extra dagdelen;
+
+- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-01-01&g=2013-01-01), is vormgegeven.
 
 2. Waar nodig wordt in een pedagogisch beleidsplan onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
 
 ##### Artikel 8. Verblijfruimten voor kinderen
 
-1. Bij dagopvang beschikt elke stamgroep over een afzonderlijke vaste groepsruimte. Per kind is minimaal 3,5 m2 bruto-oppervlakte passend ingerichte binnenspeelruimte beschikbaar. Passend voor spelactiviteiten ingerichte binnenruimtes buiten de groepsruimte worden naar evenredigheid aan de groepen van het kindercentrum toebedeeld.
+1. Bij dagopvang beschikt elke stamgroep over een afzonderlijke vaste groepsruimte. Per in het kindercentrum aanwezig kind is ten minste 3,5 m2 passend ingerichte binnenspeelruimte beschikbaar. Passend voor spelactiviteiten ingerichte binnenruimtes buiten de groepsruimte worden naar evenredigheid aan de groepen van het kindercentrum toebedeeld.
 
-2. Voor de buitenschoolse opvang is per kind ten minste 3,5 m2 bruto-oppervlakte passend ingerichte binnen(speel)ruimte beschikbaar.
+2. Voor de buitenschoolse opvang is per in het kindercentrum aanwezig kind ten minste 3,5 m2 passend ingerichte binnenspeelruimte beschikbaar.
 
 ##### Artikel 9. Slaapruimten voor kinderen
 
-Een kindercentrum, waar dagopvang wordt geboden, beschikt voor kinderen tot de leeftijd van 1,5 jaar over een op het aantal kinderen afgestemde afzonderlijke slaapruimte.
+Een kindercentrum beschikt voor kinderen tot de leeftijd van 1,5 jaar over een op het aantal kinderen afgestemde afzonderlijke slaapruimte.
 
 ##### Artikel 10. Buitenspeelterrein
 
-1. Voor dagopvang beschikt een kindercentrum over aangrenzende, voor kinderen veilige en toegankelijke, alsmede op de leeftijd van de kinderen passend ingerichte buitenspeelruimte, waarvan de oppervlakte ten minste 3 m2 bruto-oppervlakte speelruimte per aanwezig kind bedraagt.
+1. Voor dagopvang beschikt een kindercentrum over aangrenzende, voor kinderen veilige en toegankelijke, alsmede op de leeftijd van de kinderen passend ingerichte buitenspeelruimte, waarvan de oppervlakte ten minste 3 m2 speelruimte per in het kindercentrum aanwezig kind bedraagt.
 
-2. Voor buitenschoolse opvang beschikt een kindercentrum over voor kinderen veilige en toegankelijke, vaste en op de leeftijd van de kinderen passend ingerichte buitenspeelruimte, bij voorkeur aangrenzend aan het kindercentrum, waarvan de oppervlakte ten minste 3 m2 bruto oppervlakte speelruimte per aanwezig kind bedraagt. In het geval een buitenspeelruimte niet aangrenzend is, is deze gelegen in de directe nabijheid van een kindercentrum en voor kinderen toegankelijk en veilig bereikbaar.
+2. Voor buitenschoolse opvang beschikt een kindercentrum over voor kinderen veilige en toegankelijke, vaste en op de leeftijd van de kinderen passend ingerichte buitenspeelruimte, bij voorkeur aangrenzend aan het kindercentrum, waarvan de oppervlakte ten minste 3 m2 speelruimte per in het kindercentrum aanwezig kind bedraagt. In het geval een buitenspeelruimte niet aangrenzend is, is deze gelegen in de directe nabijheid van een kindercentrum en voor kinderen toegankelijk en veilig bereikbaar.
 
 #### Paragraaf 3. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
 
@@ -200,15 +210,15 @@ Een kindercentrum, waar dagopvang wordt geboden, beschikt voor kinderen tot de l
 
 ##### Artikel 12. Adequate vervanging bij calamiteiten
 
-Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), houdt in dat in ieder geval bij de opvang van meer dan drie aanwezige kinderen een achterwachtregeling wordt getroffen waarin een achterwacht beschikbaar is die bij calamiteiten binnen aanrijtijd van een ambulance bij het opvangadres aanwezig is. Deze persoon is tijdens opvangtijden altijd telefonisch bereikbaar.
+Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), houdt in dat in ieder geval bij de opvang van meer dan drie aanwezige kinderen een achterwachtregeling wordt getroffen waarin een achterwacht beschikbaar is die bij calamiteiten binnen 15 minuten bij het opvangadres aanwezig is. Deze persoon is tijdens opvangtijden altijd telefonisch bereikbaar.
 
 ##### Artikel 13. Aantal op te vangen kinderen
 
-1. Bij een gastouder worden maximaal vijf kinderen gelijktijdig opgevangen, als de kinderen (op te vangen én eigen kinderen) allemaal jonger zijn dan 4 jaar.
+1. Bij een gastouder worden maximaal zes kinderen in de leeftijd tot 13 jaar gelijktijdig opgevangen. Eigen kinderen tot 10 jaar worden meegerekend.
 
-2. Bij een gastouder worden maximaal zes kinderen gelijktijdig opgevangen, als de op te vangen kinderen in de leeftijd van 0 tot 13 jaar zijn. Eigen kinderen tot 10 jaar worden meegerekend.
+2. In de groep, bedoeld in het eerste lid, worden maximaal vijf kinderen tot 4 jaar gelijktijdig opgevangen.
 
-3. In de groep, bedoeld in het eerste en tweede lid, mogen maximaal 4 kinderen van 0 en 1 jaar aanwezig zijn, waarvan maximaal 2 kinderen van 0 jaar.
+3. In de groep, bedoeld in het eerste en tweede lid, worden maximaal 4 kinderen tot 2 jaar gelijktijdig opgevangen, waarvan maximaal 2 kinderen tot 1 jaar.
 
 ##### Artikel 14. Eisen ruimtes gastouderopvang
 
@@ -244,9 +254,9 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 - b. een duidelijke uitsplitsing van verantwoordelijkheden per organisatielaag in taken en bevoegdheden;
 
-- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen, evaluatie, nazorg en dat is voorzien van een heldere toelichting;
+- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen en dat is voorzien van een heldere toelichting;
 
-- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan;
+- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan, de evaluatie en de nazorg;
 
 - e. een lijst van signalen per ontwikkelingsgebied uitgesplitst voor kinderen in de leeftijd tot vier jaar en kinderen in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt;
 
@@ -270,7 +280,7 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 2. De houder van een peuterspeelzaal deelt de ouder en het kind mee tot welke peuterspeelzaalgroep het kind behoort en welke beroepskrachten op welke dag voor welke peuterspeelzaalgroep verantwoordelijk zijn en welke vrijwilligers op deze dag aanwezig zijn.
 
-3. Aan een kind worden ten hoogste drie vaste beroepskrachten in een peuterspeelzaal toegewezen, waarvan per dag ten minste één beroepskracht in een peuterspeelzaal werkzaam is in de peuterspeelzaalgroep van dat kind. Deze beroepskrachten zijn tevens aanspreekpunt voor de ouders van het kind.
+3. Aan een kind worden ten hoogste drie vaste beroepskrachten in een peuterspeelzaal toegewezen, waarvan per dag ten minste één beroepskracht in een peuterspeelzaal werkzaam is in de peuterspeelzaalgroep van dat kind.
 
 4. In een peuterspeelzaalgroep is ten minste één beroepskracht aanwezig.
 
@@ -278,7 +288,7 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 ##### Artikel 19. Adequate vervanging bij calamiteiten
 
-Een adequate vervanging bij calamiteiten, bedoeld in [artikel 19, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=19), houdt in ieder geval in dat zodra er slechts één beroepskracht in een peuterspeelzaal aanwezig is op het moment dat er kinderen aanwezig zijn in de peuterspeelzaal, er een volwassen achterwacht beschikbaar is, die in geval van calamiteiten binnen ambulance-aanrijtijden in de peuterspeelzaal aanwezig kan zijn. De houder van een peuterspeelzaal maakt inzichtelijk wie deze persoon is en waar deze telefonisch te bereiken is.
+Een adequate vervanging bij calamiteiten, bedoeld in [artikel 19, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=19), houdt in ieder geval in dat zodra er slechts één beroepskracht in een peuterspeelzaal aanwezig is op het moment dat er kinderen aanwezig zijn in de peuterspeelzaal, er een volwassen achterwacht beschikbaar is, die in geval van calamiteiten binnen 15 minuten in de peuterspeelzaal aanwezig kan zijn. De houder van een peuterspeelzaal informeert de bij de peuterspeelzaal werkzame personen over de naam en het telefoonnummer van deze persoon.
 
 ##### Artikel 20. Pedagogisch beleidsplan
 
@@ -319,5 +329,27 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit kwaliteit ki
 ##### Artikel 23. Citeertitel
 
 Deze Regeling wordt aangehaald als: Regeling kwaliteit kinderopvang en peuterspeelzalen 2012
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Vierogenprincipe bij dagopvang
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 3. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
+
+#### Paragraaf 4. Kwaliteitseisen peuterspeelzalen
+
+#### Paragraaf 5. Slotbepalingen
+
+## Bijlage. als bedoeld in de [artikelen 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-01-01&g=2013-01-01), van deze regeling
+
+In deze bijlage zijn de rekenregels van de rekentool opgenomen.
+
+### Dagopvang
+
+### Buitenschoolse opvang
+
+### Combinatiegroepen dagopvang/buitenschoolse opvang
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
