@@ -4,7 +4,7 @@ identifier: "BWBR0012649"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012649"
 soort: "AMvB"
@@ -100,13 +100,11 @@ Het college van burgemeester en wethouders zendt de tekst van de verordening, be
 
 - a. de officier van justitie;
 
-- b. de korpschef van het regionale politiekorps;
+- b. de korpschef;
 
 - c. de betrokken wegbeheerders;
 
-- d. indien de taak van de politie ten aanzien van het verkeer in de gemeente mede wordt vervuld door het Korps Landelijke politiediensten, de korpschef van dat politiekorps;
-
-- e. indien in de gemeente een luchtvaartterrein als bedoeld in [artikel 6, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6), is gelegen, de commandant van de Koninklijke marechaussee.
+- d. indien in de gemeente een luchtvaartterrein als bedoeld in [artikel 4, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), is gelegen, de commandant van de Koninklijke marechaussee.
 
 #### § 2. Registratie
 
@@ -134,7 +132,7 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 1. In het bewaringsregister worden zo spoedig mogelijk na de inbewaringstelling opgenomen:
 
-- a. een afschrift van het proces-verbaal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=2&artikel=5&z=2002-01-01&g=2002-01-01);
+- a. een afschrift van het proces-verbaal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01);
 
 - b. een zo nauwkeurig mogelijke omschrijving van het voertuig, en
 
@@ -174,11 +172,11 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 2. In het geval dat een in bewaring gesteld voertuig om niet aan een derde is overgedragen, worden in het bewaringsregister opgenomen: de naam en het adres van degene aan wie het voertuig is overgedragen.
 
-3. In het geval dat een in bewaring gesteld voertuig wordt vernietigd, wordt in het bewaringsregister opgenomen: de waarde, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=4&artikel=15&z=2002-01-01&g=2002-01-01).
+3. In het geval dat een in bewaring gesteld voertuig wordt vernietigd, wordt in het bewaringsregister opgenomen: de waarde, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=4&artikel=15&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 9
 
-Indien de gemeente kosten geheel of gedeeltelijk terugbetaalt binnen de termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=2&artikel=10&z=2002-01-01&g=2002-01-01), worden in het bewaringsregister opgenomen:
+Indien de gemeente kosten geheel of gedeeltelijk terugbetaalt binnen de termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), worden in het bewaringsregister opgenomen:
 
 - a. de datum waarop is terugbetaald;
 
@@ -234,13 +232,13 @@ Bij de vaststelling van de kosten, verbonden aan de toepassing van bestuursdwang
 
 ##### Artikel 14
 
-1. In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) kan op basis van een jaarlijkse raming met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=12&z=2002-01-01&g=2002-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=13&z=2002-01-01&g=2002-01-01) worden bepaald dat voor de vaststelling van de kosten, verbonden aan het overbrengen, wordt uitgegaan van:
+1. In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) kan op basis van een jaarlijkse raming met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=13&z=2013-01-01&g=2013-01-01) worden bepaald dat voor de vaststelling van de kosten, verbonden aan het overbrengen, wordt uitgegaan van:
 
 - a. in de verordening opgenomen tarieven per overbrenging, waarvan de hoogte is gerelateerd aan de dag van de week, het tijdstip van overbrenging, de tijdsduur van de overbrenging en het in het kader van de overbrenging gereden aantal kilometers, dan wel
 
 - b. een in de verordening opgenomen vast tarief per overbrenging.
 
-2. In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) kan op basis van een jaarlijkse raming met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=12&z=2002-01-01&g=2002-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=13&z=2002-01-01&g=2002-01-01) worden bepaald dat voor de vaststelling van de kosten, verbonden aan het bewaren, wordt uitgegaan van een in de verordening opgenomen tarief per etmaal of een tarief per deel van een etmaal.
+2. In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) kan op basis van een jaarlijkse raming met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=13&z=2013-01-01&g=2013-01-01) worden bepaald dat voor de vaststelling van de kosten, verbonden aan het bewaren, wordt uitgegaan van een in de verordening opgenomen tarief per etmaal of een tarief per deel van een etmaal.
 
 3. Bij de vaststelling van de kosten, verbonden aan het bewaren, kan voor een niet voltooid etmaal, onderscheidenlijk niet voltooid deel van een etmaal, het tarief onverkort worden toegepast.
 
