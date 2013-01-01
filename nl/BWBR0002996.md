@@ -4,7 +4,7 @@ identifier: "BWBR0002996"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002996"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Vervallen
 
 ##### Artikel 7
 
-De commissie geeft richtlijnen betreffende de werkzaamheden van de meervoudige kamer en de enkelvoudige kamers, alsmede van de secretaris.
+De commissie stelt een bestuursreglement vast, waarin onder andere wordt opgenomen een regeling betreffende de werkzaamheden van de meervoudige kamer en de enkelvoudige kamers, alsmede van de secretaris.
 
 ##### Artikel 8
 
@@ -156,7 +156,7 @@ Lasten en bevelen, dat dit besluit, met de nota van toelichting, in het **Staats
 
 - c. indien mogelijk, een indicatie van de verwachte beslissingstermijn.
 
-2. Op de in het eerste lid bedoelde informatie is [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002996&paragraaf=2a&artikel=12a&z=2012-07-01&g=2012-07-01), van overeenkomstige toepassing.
+2. Op de in het eerste lid bedoelde informatie is [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002996&paragraaf=2a&artikel=12a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
 3. Het fonds zendt de beslissing op de aanvraag zo spoedig mogelijk aan de aanvrager en aan de bevoegde instantie bedoeld in het eerste lid.
 
