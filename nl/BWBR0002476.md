@@ -4,7 +4,7 @@ identifier: "BWBR0002476"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002476"
 soort: "wet"
@@ -45,7 +45,7 @@ In deze wet wordt onder "het verdrag" verstaan het op 23 juli 1964 te Wenen onde
 
 ##### Artikel 2
 
-De aanvragen om overmaking van stukken en de verzending van rogatoire commissies op de voet van de artikelen 1 en 3 van het verdrag geschieden aan Nederlandse zijde door de Officieren van Justitie bij de arrondissementsrechtbanken.
+De aanvragen om overmaking van stukken en de verzending van rogatoire commissies op de voet van de artikelen 1 en 3 van het verdrag geschieden aan Nederlandse zijde door de officieren van justitie bij de arrondissementsparketten.
 
 ##### Artikel 3
 
