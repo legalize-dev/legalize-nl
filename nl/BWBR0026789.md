@@ -4,7 +4,7 @@ identifier: "BWBR0026789"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2011-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026789"
 soort: "AMvB"
@@ -84,9 +84,7 @@ De [Erkenningsregeling permanente educatie Wft](https://wetten.overheid.nl/jci1.
 
 ##### Artikel X
 
-1. Dit besluit treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt, met uitzondering van de [onderdelen A tot en met N en S tot en met V van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=III&z=2011-07-01&g=2011-07-01), de [onderdelen B tot en met F en I tot en met M van artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=IV&z=2011-07-01&g=2011-07-01), [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=V&z=2011-07-01&g=2011-07-01), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=VI&z=2011-07-01&g=2011-07-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=VII&z=2011-07-01&g=2011-07-01) en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=IX&z=2011-07-01&g=2011-07-01) die in werking treden met ingang van 1 januari 2010.
-
-2. Indien het bij koninklijke boodschap van 18 juli 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht, de Wet giraal effectenverkeer en het Burgerlijk Wetboek naar aanleiding van het advies van de Monitoring Commissie Corporate Governance Code van 30 mei 2007 (Kamerstukken 32 014) tot wet wordt verheven en die wet later in werking treedt dan het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), treedt [artikel I, onderdeel A, onderdeel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=I&z=2011-07-01&g=2011-07-01), in afwijking van het eerste lid, in werking op het tijdstip waarop de eerstgenoemde wet in werking treedt.
+1. Dit besluit treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt, met uitzondering van de [onderdelen A tot en met N en S tot en met V van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=III&z=2013-01-01&g=2013-01-01), de [onderdelen B tot en met F en I tot en met M van artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=IV&z=2013-01-01&g=2013-01-01), [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=V&z=2013-01-01&g=2013-01-01), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=VI&z=2013-01-01&g=2013-01-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=VII&z=2013-01-01&g=2013-01-01) en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026789&artikel=IX&z=2013-01-01&g=2013-01-01) die in werking treden met ingang van 1 januari 2010.
 
 ##### Artikel XI
 
