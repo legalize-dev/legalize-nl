@@ -351,15 +351,3 @@ Dit besluit wordt aangehaald als: Besluit pensioen politieke ambtsdragers.
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk 4. Het partner- en wezenpensioen
-
-### Hoofdstuk 5. De afkoop van een klein pensioen met ingang van 1 januari 2014
-
-### Hoofdstuk 6. De verlaging van pensioenaanspraken en pensioenen
-
-### Hoofdstuk 7. De betaling
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
