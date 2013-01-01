@@ -4,7 +4,7 @@ identifier: "BWBR0032676"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2012-10-29"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032676"
 soort: "wet"
@@ -44,47 +44,51 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2004.
 
 ##### Artikel VIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2010.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Fiscale vereenvoudigingswet 2010.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2011.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2013, met dien verstande dat [artikel VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0032676&artikel=VIIa&z=2013-01-01&g=2013-01-01) en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0032676&artikel=IX&z=2013-01-01&g=2013-01-01) toepassing vinden voordat [artikel II van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=II) en [artikel III van het Belastingplan 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=III) worden toegepast.
+
+2. [Artikel I, onderdeel Ma](https://wetten.overheid.nl/jci1.3:c:BWBR0032676&artikel=I&z=2013-01-01&g=2013-01-01), werkt terug tot en met 29 oktober 2012, waarbij [artikel 3.120a, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120a) in de periode van 29 oktober tot en met 31 december 2012 als volgt wordt gelezen:
+
+- 4. Artikel 3.120, zevende lid, is van overeenkomstige toepassing.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet herziening fiscale behandeling eigen woning.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
