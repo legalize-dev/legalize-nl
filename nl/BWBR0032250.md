@@ -4,7 +4,7 @@ identifier: "BWBR0032250"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-02"
-last_updated: "2013-01-01"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032250"
 soort: "wet"
@@ -43,21 +43,23 @@ Alzo Wij in overweging genomen hebben, dat op grond van [artikel V, eerste lid, 
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+[...opmerking...]
+
 ##### Artikel I
 
 Het [Besluit aanpassing wetten inzake verhoging AOW-leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0031888) wordt goedgekeurd.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verhoging AOW- en pensioenrichtleeftijd.
 
 ##### Artikel III
 
-1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-01&g=2013-01-01) treedt in werking op het tijdstip waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II) en [V, van de Wet verhoging AOW- en pensioenrichtleeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V) in werking treden.
+1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-02&g=2013-01-02) treedt in werking op het tijdstip waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II) en [V, van de Wet verhoging AOW- en pensioenrichtleeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V) in werking treden.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=II&z=2013-01-01&g=2013-01-01) treedt in werking op de dag na het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-01&g=2013-01-01).
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=II&z=2013-01-02&g=2013-01-02) treedt in werking op de dag na het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-02&g=2013-01-02).
 
-3. Indien deze wet in het Staatsblad wordt geplaatst op een tijdstip gelegen na het tijdstip genoemd in het eerste lid, dan treedt deze wet in werking met ingang van de dag na plaatsing in het Staatsblad en werkt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-01&g=2013-01-01) van deze wet terug tot het tijdstip genoemd in het eerste lid.
+3. Indien deze wet in het Staatsblad wordt geplaatst op een tijdstip gelegen na het tijdstip genoemd in het eerste lid, dan treedt deze wet in werking met ingang van de dag na plaatsing in het Staatsblad en werkt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032250&artikel=I&z=2013-01-02&g=2013-01-02) van deze wet terug tot het tijdstip genoemd in het eerste lid.
 
 ##### Artikel IV
 
