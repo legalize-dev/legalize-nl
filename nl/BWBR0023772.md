@@ -4,7 +4,7 @@ identifier: "BWBR0023772"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-01-02"
-last_updated: "2009-04-01"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023772"
 soort: "zbo"
@@ -146,7 +146,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de Minister en het college een verslag betreffende het financiële verloop, alsmede andere door de Minister noodzakelijk geachte gegevens, over dat kwartaal.
 
-- 1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
+- 1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de holding, zolang in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
 - 2. De vennootschap verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het [vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.
 
