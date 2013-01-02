@@ -4,7 +4,7 @@ identifier: "BWBR0029744"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-08-06"
-last_updated: "2011-08-01"
+last_updated: "2013-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029744"
 soort: "zbo"
@@ -62,7 +62,7 @@ In deze beschikking wordt verstaan onder:
 
 - f. **de stichting aandelen:** Stichting Aandelen Nationale Goede Doelen Loterijen, gevestigd te Amsterdam;
 
-- g. **begunstigden:** de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2011-08-01&g=2011-08-01), toegelaten instellingen;
+- g. **begunstigden:** de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2013-01-02&g=2013-01-02), toegelaten instellingen;
 
 - h. **Vriendenloterij:** een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Vriendenloterij wordt gespeeld als de ‘Vriendenloterij’ waarvan de deelnemers meedoen middels aan hen toegekend lotnummer, waarbij het mobiele nummer van de deelnemer beginnend met 06 dan wel een fictief toegewezen nummer, aangevuld met twee letters, deel uitmaakt van het lotnummer;
 
@@ -78,7 +78,7 @@ In deze beschikking wordt verstaan onder:
 
 2. De vergunning wordt verleend onder de voorwaarde dat en is slechts geldig indien de holding enig aandeelhouder van de vennootschap is, en onder gehoudenheid van de stichting aandelen respectievelijk de holding in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
-3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=3&z=2011-08-01&g=2011-08-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
+3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=3&z=2013-01-02&g=2013-01-02) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 - a. de naam van de vennootschap en het adres waar inlichtingen omtrent de Vriendenloterij en het toegevoegde spel verkrijgbaar zijn;
 
-- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2011-08-01&g=2011-08-01);
+- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2013-01-02&g=2013-01-02);
 
 - c. het bedrag van de inleg;
 
@@ -130,7 +130,7 @@ Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt
 
 ##### Artikel 8
 
-Alle houders van een sponsorcertificaat als bedoeld in [artikel 1, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=1&z=2011-08-01&g=2011-08-01), hebben recht op restitutie van de volledige inleg. De vennootschap houdt een reserve aan om claims op nog niet ingeloste sponsorcertificaten te kunnen honoreren.
+Alle houders van een sponsorcertificaat als bedoeld in [artikel 1, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=1&z=2013-01-02&g=2013-01-02), hebben recht op restitutie van de volledige inleg. De vennootschap houdt een reserve aan om claims op nog niet ingeloste sponsorcertificaten te kunnen honoreren.
 
 ##### Artikel 9
 
@@ -164,7 +164,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 3. Als begunstigden worden door de vennootschap slechts toegelaten instellingen die hun aandeel in de opbrengst aanwenden in overeenstemming met het bepaalde in het eerste lid.
 
-4. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=14&z=2011-08-01&g=2011-08-01), bedoelde jaarrekening.
+4. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=14&z=2013-01-02&g=2013-01-02), bedoelde jaarrekening.
 
 ##### Artikel 14
 
@@ -172,7 +172,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de st
 
 ##### Artikel 15
 
-1. De vennootschap stelt een jaar rekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=2). De staatssecretaris kan, gehoord het college, aanwijzingen geven ontrent de inrichting van de jaarrekening en het jaarverslag.
+1. De vennootschap stelt een jaar rekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=2). De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de holding, zolang in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De staatssecretaris kan, gehoord het college, aanwijzingen geven ontrent de inrichting van de jaarrekening en het jaarverslag.
 
 2. De vennootschap verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.
 
@@ -182,7 +182,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de st
 
 ##### Artikel 16
 
-1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=9&z=2011-08-01&g=2011-08-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=11&z=2011-08-01&g=2011-08-01), en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=5&z=2011-08-01&g=2011-08-01), zijn voor rekening van de vennootschap.
+1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=9&z=2013-01-02&g=2013-01-02), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=11&z=2013-01-02&g=2013-01-02), en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=5&z=2013-01-02&g=2013-01-02), zijn voor rekening van de vennootschap.
 
 2. De jaarlijkse vergoeding bedoeld in [artikel 3a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=3a) bedraagt € 2.268,– en dient binnen vier weken na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de staatssecretaris.
 
