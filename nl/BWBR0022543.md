@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2013-01-01"
+last_updated: "2013-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -45,6 +45,8 @@ Besluit:
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+- **de Minister:** de Minister van Economische Zaken;
 
 - **traaggroeiend pluimveeras:** pluimveeras waarvan de daartoe behorende dieren gemiddeld met maximaal 40 gram per dag groeien;
 
@@ -142,25 +144,29 @@ Vervallen
 
 1. Bij het Hoofdproductschap Akkerbouw worden ingediend:
 
-- a. een aanvraag tot registratie als bedoeld in artikel 7 van verordening (EG) nr. 509/2006 en artikel 5 van verordening (EG) nr. 510/2006;
+- a. een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012;
 
-- b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 11, eerste lid, van verordening (EG) nr. 509/2006 en artikel 9, eerste lid, van verordening(EG) nr. 510/2006;
+- b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012;
 
-- c. een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van verordening (EG) nr. 510/2006.
+- c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van verordening (EU) 1151/2012.
 
-2. Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot wijziging of annulering in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
+2. Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 49 dan wel 53 van verordening (EU) 1151/2012 in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
 
-3. Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 7, vijfde lid, van verordening (EG) nr. 509/2006 of artikel 5 van verordening (EG) nr. 510/2006 bezwaar maken als bedoeld in die artikelen tegen de aanvraag of het verzoek door middel van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
+3. Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij het Hoofdproductschap Akkerbouw.
 
-4. Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EG) nr. 509/2006 of verordening (EG) nr. 510/2006 voldoet, zendt de minister deze door naar de Europese Commissie.
+4. Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EU) 1151/2012 voldoet, zendt de minister deze door naar de Europese Commissie.
+
+5. Indien de Minister besluit tot doorzending van een aanvraag tot registratie of van een verzoek tot niet-minimale wijziging van een productdossier, wordt dit besluit tezamen met de versie van het productdossier waarop het besluit betrekking heeft, gepubliceerd in de Staatscourant.
+
+6. Het Hoofdproductschap Akkerbouw voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.
 
 ##### Artikel 18
 
 1. Het Hoofdproductschap Akkerbouw geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
 
-2. Binnen vier maanden na de datum van bekendmaking in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 9, tweede lid, van verordening (EG) nr. 509/2006 of artikel 7, tweede lid, van verordening (EG) nr. 510/2006 bedenkingen tegen de voorgenomen registratie, wijziging van een productdossier of annulering van een registratie kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
+2. Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
 
-3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie, wijziging van een productdossier of annulering van een registratie bij de Europese Commissie als bedoeld in artikel 9, eerste lid, van verordening (EG) nr. 509/2006 en artikel 7, eerste lid, van verordening (EG) nr. 510/2006.
+3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) 1151/2012.
 
 ##### Artikel 19
 
@@ -184,7 +190,7 @@ Vervallen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2013-01-01&g=2013-01-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2013-01-03&g=2013-01-03) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -1466,7 +1472,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2013-01-03&g=2013-01-03) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
 
@@ -1561,7 +1567,7 @@ In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toeg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2013-01-03&g=2013-01-03) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1964,7 +1970,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2013-01-01&g=2013-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2013-01-03&g=2013-01-03) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
