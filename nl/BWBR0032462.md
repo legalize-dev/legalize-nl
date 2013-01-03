@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2013-01-01"
+last_updated: "2013-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -166,9 +166,7 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 
 - –. **verordening (EG) nr. 1760/2000:** [verordening (EG) nr. 1760/2000](onbekend) van het Europees Parlement en de Raad van de Europese Gemeenschappen van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [Verordening (EG) nr. 820/97](onbekend) van de Raad (PbEG 2000 L 204);
 
-- –. **verordening (EG) nr. 509/2006:** [verordening (EG) nr. 509/2006](onbekend) van de Raad van 20 maart 2006 inzake gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen (PbEU 2006 L 93);
-
-- –. **verordening (EG) nr. 510/2006:** [verordening (EG) nr. 510/2006](onbekend) van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU 2006 L 93);
+- –. **verordening (EU) nr. 1151/2012**: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
 - –. **verordening (EG) nr. 1234/2007:** [verordening (EG) nr. 1234/2007](onbekend) van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007 L 299);
 
@@ -226,41 +224,39 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.19. Stichting COKZ
 
-De Stichting COKZ is ten aanzien van nationale productdossiers voor zuivelproducten, eieren en vlees van pluimvee verantwoordelijk voor de controles met betrekking tot de in [verordening (EG) nr. 509/2006](onbekend) en [verordening (EG) nr. 510/2006](onbekend) gestelde verplichtingen en voor de verificatie inzake de inachtneming van productdossiers voordat een product op de markt wordt gebracht.
+De Stichting COKZ is ten aanzien van nationale productdossiers voor zuivelproducten, eieren en vlees van pluimvee verantwoordelijk voor de controles met betrekking tot de in verordening (EU) nr. 1151/2012 gestelde verplichtingen en voor de verificatie inzake de inachtneming van productdossiers voordat een product op de markt wordt gebracht.
 
 ##### Artikel 2.20. Verbodsbepalingen EU-verordeningen
 
-1. Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn:
-
-- a. de artikelen 12 en 13 van [verordening (EG) nr. 509/2006](onbekend);
-
-- b. de artikelen 8, 13, eerste, derde en vierde lid, en 14, eerste lid, van [verordening (EG) nr. 510/2006](onbekend).
-
-2. Het is verboden misbruik of misleidend gebruik te maken van het begrip ‘gegarandeerde traditionele specialiteit’, de afkorting ‘GTS’ of het bijbehorende communautaire symbool of overeenkomstig artikel 13, tweede lid, van [verordening (EG) nr. 509/2006](onbekend) geregistreerde en gereserveerde benamingen na te bootsen.
+Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de bij of krachtens de artikelen 12, 13, 14, 15, 23, 24 en 33 van verordening (EU) nr. 1151/2012 gestelde voorschriften.
 
 ##### Artikel 2.21. In Nederland ingediende aanvraag tot registratie of wijziging productdossier
 
 1. Bij het Hoofdproductschap Akkerbouw worden ingediend:
 
-- a. een aanvraag tot registratie als bedoeld in artikel 7 van [verordening (EG) nr. 509/2006](onbekend) en artikel 5 van [verordening (EG) nr. 510/2006](onbekend);
+- a. een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012;
 
-- b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 11, eerste lid, van [verordening (EG) nr. 509/2006](onbekend) en artikel 9, eerste lid, van [verordening(EG) nr. 510/2006](onbekend);
+- b. een verzoek tot wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012;
 
-- c. een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van [verordening (EG) nr. 510/2006](onbekend).
+- c. een verzoek tot annulering van een registratie als bedoeld in artikel 54 van verordening (EU) nr. 1151/2012.
 
-2. Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie en een verzoek tot wijziging of annulering in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
+2. Het Hoofdproductschap Akkerbouw geeft kennis van een aanvraag tot registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012 en een verzoek tot niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012 in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
 
-3. Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 7, vijfde lid, van [verordening (EG) nr. 509/2006](onbekend) of artikel 5 van [verordening (EG) nr. 510/2006](onbekend) bezwaar maken als bedoeld in die artikelen tegen de aanvraag of het verzoek door middel van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
+3. Binnen vier weken na de kennisgeving, bedoeld in het tweede lid, kan een belanghebbende als bedoeld in artikel 49, derde lid, van verordening (EU) nr. 1151/2012 bedenkingen tegen de aanvraag of het verzoek kenbaar maken bij het Hoofdproductschap Akkerbouw.
 
-4. Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van [verordening (EG) nr. 509/2006](onbekend) of [verordening (EG) nr. 510/2006](onbekend) voldoet, zendt de minister deze door naar de Europese Commissie.
+4. Indien de aanvraag tot registratie of het verzoek tot wijziging of annulering aan de voorschriften van verordening (EU) nr. 1151/2012 voldoet, zendt de minister deze door naar de Europese Commissie.
+
+5. Indien de minister besluit tot doorzending van een aanvraag tot registratie of van een verzoek tot niet-minimale wijziging van een productdossier, wordt dit besluit tezamen met de versie van het productdossier waarop het besluit betrekking heeft, gepubliceerd in de Staatscourant.
+
+6. Het Hoofdproductschap Akkerbouw voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) nr. 1151/2012.
 
 ##### Artikel 2.22. Door Europese Commissie voorgenomen registratie, wijziging of annulering
 
 1. Het Hoofdproductschap Akkerbouw geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in het Mededelingen- en Verordeningenblad Bedrijfsorganisatie.
 
-2. Binnen vier maanden na de datum van bekendmaking in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 9, tweede lid, van [verordening (EG) nr. 509/2006](onbekend) of artikel 7, tweede lid, van [verordening (EG) nr. 510/2006](onbekend) bedenkingen tegen de voorgenomen registratie, wijziging van een productdossier of annulering van een registratie kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
+2. Binnen 8 weken na de datum van publicatie in het Publicatieblad van de Europese Unie kan een belanghebbende als bedoeld in artikel 51, eerste lid, tweede alinea, van verordening (EU) nr. 1151/2012 bedenkingen tegen een voorgenomen registratie als bedoeld in artikel 49 van verordening (EU) nr. 1151/2012 of niet-minimale wijziging van een productdossier als bedoeld in artikel 53 van verordening (EU) nr. 1151/2012 kenbaar maken door middel van toezending van een gemotiveerde verklaring aan het Hoofdproductschap Akkerbouw.
 
-3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie, wijziging van een productdossier of annulering van een registratie bij de Europese Commissie als bedoeld in artikel 9, eerste lid, van [verordening (EG) nr. 509/2006](onbekend) en artikel 7, eerste lid, van [verordening (EG) nr. 510/2006](onbekend).
+3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) nr. 1151/2012.
 
 #### § 2.4. Handelsnormen voor dierlijke producten
 
@@ -420,7 +416,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2013-01-01&g=2013-01-01);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2013-01-03&g=2013-01-03);
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
 
@@ -588,7 +584,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](onbekend), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2013-01-01&g=2013-01-01) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2013-01-03&g=2013-01-03) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -634,15 +630,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-01&g=2013-01-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-03&g=2013-01-03), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-01&g=2013-01-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-03&g=2013-01-03), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-01&g=2013-01-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-03&g=2013-01-03), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-01&g=2013-01-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2013-01-03&g=2013-01-03) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -666,7 +662,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2013-01-01&g=2013-01-01).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2013-01-03&g=2013-01-03).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
@@ -678,13 +674,13 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2013-01-01&g=2013-01-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2013-01-01&g=2013-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2013-01-01&g=2013-01-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2013-01-01&g=2013-01-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2013-01-03&g=2013-01-03), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2013-01-03&g=2013-01-03), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2013-01-03&g=2013-01-03) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2013-01-03&g=2013-01-03), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling dierlijke producten.
 
-## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2013-01-01&g=2013-01-01) van de Regeling dierlijke producten
+## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2013-01-03&g=2013-01-03) van de Regeling dierlijke producten
 
 In deze bijlage wordt verstaan onder:
 
