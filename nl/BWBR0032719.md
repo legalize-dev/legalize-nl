@@ -91,9 +91,3 @@ Het besluit van 12 september 2005, kenmerk PG-2.612.655, wordt ingetrokken.
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Dit besluit wordt in de Staatscourant geplaatst.
-
-##### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit RIVM.
-
-Dit besluit wordt in de Staatscourant geplaatst.
