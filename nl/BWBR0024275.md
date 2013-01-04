@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 Als staat in de zin van [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=6) worden aangewezen:
 
-Argentinië, Aruba, Australië, Brazilië, Canada, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, de Nederlandse Antillen, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.
+Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, Guernsey, Hongkong, Japan, Jersey, het eiland Man, Mayotte, Mexico, Nieuw Zeeland, de Russische Federatie, Singapore, Sint Maarten, Sint Pierre en Miquelon, de Verenigde Staten van Amerika, de Wallis-archipel en Futuna-eiland, Zuid-Afrika en Zwitserland.
 
 ##### Artikel 4
 
