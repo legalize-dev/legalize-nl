@@ -440,35 +440,3 @@ De Nederlandse Orde van Advocaten heeft, op grond van de te beschermen onafhanke
 ## Bijlage 5
 
 Dit onderdeel is nog niet inwerking getreden
-
-### Voorwaarden voor toevoegingen in jeugdstrafzaken en bij verzoeken voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg
-
-### Toelichting
-
-De rechtspraak wil in het kader van effectieve(re) rechtspraak meer samenhang aanbrengen in de behandeling en afdoening van jeugdstrafzaken en civiele jeugdzaken. Daartoe worden onder meer binnen de rechtbanken jeugdteams geformeerd en vaker combi-zittingen georganiseerd. Het komt steeds vaker voor dat in het jeugdrecht straf- en civiele aspecten met elkaar samenhangen c.q. naast elkaar spelen.
-
-De Raad voor Rechtsbijstand, de Nederlandse Orde van Advocaten en de rechtspraak achten het van groot belang dat de rechtsbijstand in zaken waarin minderjarigen zijn betrokken, wordt verleend door advocaten die voldoende kennis en ervaring in beide rechtsgebieden hebben. Het gaat hierbij specifiek om jeugdstrafzaken en machtigingen uithuisplaatsing in een accommodatie voor gesloten jeugdzorg.
-
-Teneinde een minimum kwaliteitsniveau te waarborgen heeft de Raad voor Rechtsbijstand na overleg met de Nederlandse Orde van Advocaten en de rechtspraak na te noemen criteria vastgesteld, waaraan een advocaat dient te voldoen om door de rechtbank te kunnen worden toegevoegd in jeugdstrafzaken danwel uithuisplaatsingen in een accommodatie voor gesloten jeugdzorg. De na te noemen criteria gelden tevens voor de toelating op een jeugdpiketrooster.
-
-Een toe te laten advocaat moet minimaal drie jaar relevante beroepservaring hebben en de beroepsopleiding advocatuur met goed gevolg afgerond hebben.
-
-Deze ervaringseis wordt gesteld om ervoor te zorgen dat advocaten die jeugdigen bijstaan over ervaring beschikken.
-
-Onder relevante beroepservaring wordt verstaan: drie jaar werkervaring als beëdigd advocaat. Een kortere werkervaring als advocaat volstaat, mits die gecombineerd wordt met relevante werkervaring elders. Bijvoorbeeld in een beroep bij het Openbaar Ministerie, de Rechterlijke Macht, de Politie of de Jeugdzorg.
-
-Advocaten die voor het begin van hun advocatenstage elders in een relevante werkkring hebben gewerkt, kunnen dus na voltooiing van de beroepsopleiding instromen wanneer zij, gecombineerd met andere relevante werkervaring, aan de driejaars-eis hebben voldaan. Zij moeten uiteraard ook de overige voorwaarden (opleidingspunten, meelopen) hebben nageleefd.
-
-Een eenmaal ingeschreven advocaat is overigens niet verplicht om ook aan het jeugdpiketrooster deel te gaan nemen.
-
-De landelijke lijst met advocaten wordt beheerd door de Raad voor Rechtsbijstand; de Raad voor Rechtsbijstand zal de rechtbanken periodiek een actuele lijst doen toekomen.
-
-De inschrijvingsvoorwaarden treden op 1 juli 2013 in werking. Advocaten hebben tot 1 juli 2013 de tijd om te voldoen aan de inschrijvingsvoorwaarden om opgenomen te worden op de lijst. De advocaat die per 1 juli 2013 toegelaten wil worden tot de lijst dient een schriftelijke aanvraag in bij de Raad voor Rechtsbijstand.
-
-In de tweede helft van 2015 wordt door de Raad voor Rechtsbijstand getoetst of de advocaten die tot de lijst zijn toegelaten het aantal toevoegingszaken en het aantal opleidingspunten hebben behaald dat volgens de artikelen 7, 8 en 9 nodig is om op de lijst te kunnen blijven staan. Dan zal ook een evaluatie plaatsvinden van de gestelde vereisten door vertegenwoordigers van de Raad voor Rechtsbijstand, de Nederlandse Orde van Advocaten en de rechtspraak.
-
-Om op de lijst te staan, dienen advocaten aan de volgende criteria te voldoen:
-
-### Inschrijvingsvoorwaarden om op de lijst opgenomen te worden:
-
-### Inschrijvingsvoorwaarden om op de lijst opgenomen te blijven:
