@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2013-01-01"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **groep 1:** rijbewijzen van de categorieën A, B en B+E;
+- a. **groep 1:** rijbewijzen van de categorieën A1, A2, A, B en B+E;
 
 - b. **groep 2:** rijbewijzen van de categorieën C, C1, C+E, C1+E, D, D1, D+E en D1+E.
 
