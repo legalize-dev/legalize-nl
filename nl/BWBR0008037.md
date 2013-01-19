@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -220,7 +220,7 @@ Geharmoniseerde communautaire codes
 
 42.01 Linker- of rechterbuitenspiegel
 
-42.02 Rechterbuitenspiegel op voorspatbord
+42.02 Buitenspiegel op voorspatbord
 
 42.03 Extra binnenspiegel voor goed zicht op het verkeer
 
@@ -284,7 +284,7 @@ b) de aanhangwagen niet wordt gebruikt om personen te vervoeren (D1+E)
 
 78. Alleen geldig voor voertuigen zonder koppelingspedaal of voor voertuigen van de categorie A zonder handbediende koppelingshendel
 
-79. (…) Alleen voertuigen conform de specificaties tussen haken, in het kader van de toepassing van artikel 10, lid 1, van de richtlijn:
+79. (…) Alleen voertuigen conform de specificaties tussen haken, in het kader van de toepassing van artikel 10, lid 1, van richtlijn 91/439/EEG:
 
 90.01: links van
 
@@ -308,7 +308,9 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 
 « ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
 
-Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012).
+Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012);
+
+96: bestuurder heeft een opleiding voltooid of is geslaagd voor een examen inzake rijvaardigheid en rijgedrag overeenkomstig de bepalingen van bijlage V bij richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEG L 403).
 
 - 100. Alleen tijdens privé-gebruik
 
