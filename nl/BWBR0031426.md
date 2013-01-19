@@ -337,13 +337,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=1&z=2013-12-31&g=2013-12-31) zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
-
-#### § 3. Eisen voor de praktijkexamens voor de rijbewijscategorie A
-
-#### § 4. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
