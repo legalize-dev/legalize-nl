@@ -75,23 +75,3 @@ Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscate
 ### Eind- en toetstermen voor het praktijk-examen rijbewijs voor categorie D, D1
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Toelichting
-
-Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
-
-Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
-
-Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
-
-Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
-
-F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
-
-B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
-
-R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
-
-P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
