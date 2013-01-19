@@ -4,7 +4,7 @@ identifier: "BWBR0032759"
 country: "nl"
 rank: "kb"
 publication_date: "2013-01-19"
-last_updated: "2013-01-01"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032759"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het ministerie van Economische Zaken en van het ministerie van Volk
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032759&artikel=1&z=2013-01-19&g=2013-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032759&artikel=2&z=2013-01-19&g=2013-01-01) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Economische Zaken en Onze Minister voor Wonen en Rijksdienst.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032759&artikel=1&z=2013-01-19&g=2013-01-19) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032759&artikel=2&z=2013-01-19&g=2013-01-19) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Economische Zaken en Onze Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 4
 
