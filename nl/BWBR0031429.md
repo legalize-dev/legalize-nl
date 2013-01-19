@@ -193,23 +193,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën C1 en C.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. De aanvrager van het theorie-examen voor de rijbewijscategorie C1 die het onderdeel rijbewijs/vakbekwaamheid 1 van het theorie-examen voor de rijbewijscategorie C1 vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C1 door het overgangsexamen rijbewijs C1 met goed gevolg af te leggen.
-
-2. De aanvrager van het theorie-examen voor de rijbewijscategorie C1 die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie C1 vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C1 door het theorie-examen, bedoeld in de [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-07-01), met goed gevolg af te leggen.
-
-3. De eisen van het overgangsexamen rijbewijs C1, bedoeld in het eerste lid, betreffen de eisen, genoemd in de [artikelen 4, aanhef en onderdelen b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=4&z=2022-09-14&g=2022-07-01), en [5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=5&z=2022-09-14&g=2022-07-01), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
-
-4. Dit artikel vervalt met ingang van 1 juli 2024.
-
-#### § 2. Eisen theorie-examen rijbewijscategorie C
-
-#### § 3. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. Citeertitel
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
