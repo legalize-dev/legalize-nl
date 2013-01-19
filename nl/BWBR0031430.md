@@ -201,23 +201,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën D1 en D.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 3. Vaststelling toetsmatrijzen
-
-##### Artikel 10
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 2. **Eisen theorie-examen rijbewijscategorie D**
-
-#### § 3. Vaststelling toetsmatrijzen
-
-#### § 4. Citeertitel
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
