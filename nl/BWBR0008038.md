@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2012-01-01"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -81,6 +81,8 @@ Model 6F: Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vana
 
 Model 6G: Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-10-2006);
 
+Model 6H: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013);
+
 Model 7A: Nederlands Omwisselingscertificaat basiskwalificatie vakbekwaamheid voor rijbewijscategorie D (afgegeven m.i.v. 10-09-2008);
 
 Model 7B: Nederlands Omwisselingscertificaat basiskwalificatie vakbekwaamheid voor rijbewijscategorie C (afgegeven m.i.v. 10-09-2009);
@@ -95,7 +97,7 @@ Model 8a: Begeleiderspas.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2012-01-01&g=2012-01-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2013-01-19&g=2013-01-19) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -303,11 +305,15 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
+### Model 6H. Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013)
+
 ### Model 7A: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie D
 
 ### Model 7B: Nederlands Omwisselingscertificaat vakbekwaamheid voor rijbewijscategorie C
 
 ### Model 7C: Nationaal Certificaat
+
+Deze regeling zal worden geplaatst in de Staatscourant.
 
 ### Model 7D: Deelcertificaat
 
