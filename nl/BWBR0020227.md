@@ -4,7 +4,7 @@ identifier: "BWBR0020227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2008-09-10"
+last_updated: "2013-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020227"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 ##### Artikel 4. Het transport en de aflevering van bestelde rijbewijzen
 
-1. De bestelde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2008-09-10&g=2008-09-10) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de bestelling een spoedaanvraag betreft, die op een werkdag vóór 16.00 uur door de leverancier is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
+1. De bestelde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2013-01-19&g=2013-01-19) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de bestelling een spoedaanvraag betreft, die op een werkdag vóór 16.00 uur door de leverancier is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
 
 2. De leverancier zorgt voor de aflevering van de bestelde rijbewijzen door middel van een beveiligd transport.
 
@@ -100,7 +100,7 @@ Besluit:
 
 ##### Artikel 5. Het inklaren van de ontvangen rijbewijzen
 
-1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2008-09-10&g=2008-09-10), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
+1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2013-01-19&g=2013-01-19), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
 
 2. De afgeleverde rijbewijzen worden op de dag van aflevering in het rijbewijzenregister geregistreerd.
 
@@ -120,7 +120,7 @@ Rijbewijzen die niet binnen drie maanden na de datum waarop het besluit tot afgi
 
 ##### Artikel 9. Procesbeschrijvingen
 
-De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte van rijbewijzen de procesbeschrijvingen rijbewijzen in acht die als [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&bijlage=1&z=2008-09-10&g=2008-09-10) bij deze regeling zijn opgenomen.
+De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte de procesbeschrijving rijbewijzen in acht die als bijlage bij deze regeling is opgenomen.
 
 ##### Artikel 10. Aanvraagformulieren
 
@@ -180,29 +180,9 @@ Deze regeling wordt aangehaald als: Regeling bestelling, transport en beveiligin
 
 Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, C, D tot en met F, G, H tot en met K, L, M, N, O, P en Pa, van de wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de wijziging in de procedure betreffende de aanvraag en afgifte van rijbewijzen (Stb. 321) in werking treedt.
 
-## Bijlage 1
+## Bijlage
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 3. Procesbeschrijving Omwisseling buitenlands rijbewijs
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 4
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 5
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 6
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu, Hoofddirectie Bestuurlijke en Juridische Zaken, Koningskade 4, te Den Haag.
 
 ## Bijlage 7
 
@@ -221,5 +201,17 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 ## Bijlage 14
 
 ## Bijlage 15
+
+## Bijlage 11
+
+## Bijlage 12
+
+## Bijlage 13
+
+## Bijlage 14
+
+## Bijlage 15
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
