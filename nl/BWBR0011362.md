@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2013-01-19"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -230,7 +230,7 @@ Het medisch onderzoek ten behoeve van de beoordeling van de geschiktheid kan bes
 
 ### 3.2. Gezichtsvermogen
 
-Waar hierna sprake is van een specialistisch rapport, is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie een persoon door het CBR is verwezen. Hieronder wordt tevens verstaan het rapport van een keuring in de eigen-verklaringsprocedure of onderzoek in de vorderingsprocedure, uitgevoerd door een arts onder supervisie en verantwoordelijkheid van een specialist naar wie de persoon is verwezen.
+Waar hierna sprake is van een specialistisch rapport is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie de persoon is verwezen. Dit rapport is opgesteld en ondertekend door de specialist, waarbij het is toegestaan dat delen van het onderzoek onder supervisie en verantwoordelijkheid van de specialist zijn uitgevoerd door een derde.
 
 Rijbewijzen van groep 2: het binoculaire horizontale gezichtsveld dient minstens 140 graden te zijn.
 
