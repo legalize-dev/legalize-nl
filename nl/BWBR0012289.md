@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2013-01-01"
+last_updated: "2013-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -17328,3 +17328,253 @@ Werkloosheid is van invloed op de verblijfsrechtelijke positie van de houder van
 De houder van een Europese blauwe kaart moet in alle gevallen melding maken van zijn werkloosheid (zie [artikel 4.43 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.43)). Een beroep op de algemene middelen kan gevolgen hebben op het verblijfsrecht.
 
 De vreemdeling die niet meer voldoet aan de beperking verband houdend met het doel waarvoor de oorspronkelijke verblijfsvergunning is verleend, kan een aanvraag indienen tot wijziging van de beperking van de verblijfsvergunning.
+
+### 22. Langdurig verblijvende kinderen
+
+### 1. Inleiding
+
+In het Regeerakkoord van 29 oktober 2012 is opgenomen dat langdurig in Nederland verblijvende kinderen en alleenstaande minderjarige vreemdelingen, onder voorwaarden in aanmerking kunnen komen voor een verblijfsvergunning. Daartoe wordt een definitieve regeling getroffen, met als onderdeel daarvan een overgangsregeling. In dit hoofdstuk zijn de beleidsregels van beide regelingen opgenomen. Voor zover in dit hoofdstuk niet anders is bepaald, gelden de bepalingen van hoofdstuk B1 onverkort.
+
+### 2. Definitieve regeling
+
+### 2.1. Voorwaarden voor verlening van een verblijfsvergunning
+
+De IND verleent een vergunning aan de vreemdeling die in het kader van de regeling als hoofdpersoon kan worden beschouwd:
+
+De IND verleent ook een vergunning aan gezinsleden die op het moment van de beoordeling deel uitmaken van het gezin van de vreemdeling aan wie een vergunning wordt verleend, tenzij de feitelijke gezinsband inmiddels is verbroken. De IND beoordeelt of de gezinsband is verbroken aan de hand van het bepaalde in hoofdstuk B2. Het toetsmoment is het moment van de aanvraag.
+
+Het is aan de vreemdeling om bij het indienen van de aanvraag aan te geven wie er feitelijk tot zijn gezin hoort. Indien blijkt dat de vreemdeling gegevens heeft achtergehouden, dan wel onjuiste of onvolledige informatie heeft verstrekt, kan dit consequenties hebben voor zijn verblijfsaanspraken en die van zijn gezinsleden.
+
+Ten aanzien van een alleenstaande minderjarige vreemdeling (amv) geldt dat indien bij de beoordeling van de aanvraag blijkt dat door de amv onjuiste gegevens zijn verstrekt met betrekking tot zijn ouder(s), de IND geen vergunning op grond van deze regeling verleent. Wanneer de betreffende amv inmiddels een verblijfsvergunning heeft gekregen op grond van deze regeling en blijkt dat door de amv onjuiste gegevens zijn verstrekt met betrekking tot zijn ouder(s) kan dat leiden tot intrekking van zijn verblijfsvergunning.
+
+Onder gezinsleden verstaat de IND:
+
+En indien de feitelijke gezinsband met bovenstaande perso(o)n(en) is verbroken:
+
+De IND werpt niet tegen dat door of namens de vreemdeling geen asielaanvraag is ingediend indien een ouder van de vreemdeling een asielaanvraag heeft ingediend en de vreemdeling na de start van de asielprocedure is geboren. De overige voorwaarden gelden onverkort.
+
+Indien de vreemdeling voldoet aan de voorwaarde genoemd in onderdeel c (niet langdurig onttrekken aan toezicht) én hij tenminste vijf jaar voor het bereiken van de leeftijd van 18 jaar een asielaanvraag heeft ingediend, neemt de IND aan dat de vreemdeling sinds dat moment tenminste vijf jaar in Nederland heeft verbleven tenzij één van de omstandigheden als neergelegd in paragraaf B1/5.3.2 (verplaatsing hoofdverblijf) zich voordoet.
+
+De IND neemt aan dat sprake is van niet langdurig onttrekken aan het toezicht indien de vreemdeling of zijn eventuele gezinsleden:
+
+Indien sprake is van meerdere perioden, alle korter dan drie maanden, waarbij de vreemdeling uit beeld is geweest, werpt de IND dit niet tegen ook al is het totaal aantal drie of meer maanden.
+
+Indien de vreemdeling of een gezinslid naar een andere Europese lidstaat is vertrokken en deze lidstaat de verantwoordelijkheid voor de vreemdeling of het gezinslid overneemt ingevolge [artikel 30, eerste lid onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), dan neemt de IND aan dat sprake is van langdurig onttrekken aan het toezicht ongeacht de termijn van drie maanden.
+
+Indien de gezinsband is verbroken, geldt deze contra-indicatie uitsluitend voor het betreffende gezinslid.
+
+De vreemdeling en eventuele gezinsleden dienen voorafgaand aan vergunningverlening schriftelijk aan te geven dat lopende procedures onvoorwaardelijk worden ingetrokken bij vergunningverlening op grond van de regeling. De IND zal eventueel al betaalde leges of griffierechten niet restitueren.
+
+### 2.2. Contra-indicaties
+
+De IND verleent de vergunning niet als bij de hoofdpersoon of een gezinslid sprake is van de volgende contra-indicaties, zoals die ten tijde van de beoordeling van de aanvraag geconstateerd worden:
+
+De IND verleent de vergunning niet indien de vreemdeling of een gezinslid een gevaar vormt voor de openbare orde. Dit is het geval indien:
+
+In die gevallen dat sprake is van een lopend onderzoek naar gedragingen als bedoeld in artikel 1F Vluchtelingenverdrag, wordt dit onderzoek afgerond alvorens een beoordeling in het kader van de regeling plaats zal vinden.
+
+In geval van een veroordeling tot een taakstraf wegens drugs-, zeden- dan wel geweldsmisdrijven wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen bij de beoordeling.
+
+Bij de berekening of er sprake is van een straf of maatregel van ten minste één maand, worden meerdere veroordelingen bij elkaar opgeteld. Het is niet vereist dat de uitspraak waarbij de vreemdeling is veroordeeld wegens een misdrijf onherroepelijk is geworden.
+
+Strafbare feiten die in het buitenland zijn gepleegd of bestraft, worden eveneens bij de beoordeling van het gevaar voor de openbare orde betrokken, doch slechts voor zover het gaat om strafbare feiten die naar Nederlands recht misdrijven zijn. Dat geldt ook indien het strafbare feit naar buitenlands recht een overtreding, maar naar Nederlands recht een misdrijf is. Of het feit naar Nederlands recht een misdrijf is, wordt beoordeeld aan de hand van de strafbepalingen in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of de bijzondere Nederlandse strafwetten.
+
+Wanneer er sprake is van openbare orde-aspecten van één van de gezinsleden dan wordt aan het gehele gezin een vergunning onthouden, tenzij de gezinsband is verbroken.
+
+Indien het betreffende gezinslid dat feitelijk tot het gezin behoort en bij wie sprake is van openbare orde-aspecten niet wordt opgenomen bij het indienen van de aanvraag, beoordeelt de IND dit ook als een contra-indicatie en wordt de vergunning niet verleend.
+
+Indien het betreffende gezinslid later in het kader van gezinshereniging dan wel op grond van artikel 8 EVRM een aanvraag indient voor een vergunning, zal de IND bezien of de vergunning van de overige gezinsleden wordt ingetrokken.
+
+Indien bij beschikking van de IND artikel 1F van het Vluchtelingenverdrag is tegengeworpen, geldt geen verjaringstermijn.
+
+Een eens gepleegd misdrijf wordt – gelijk het staande beleid inzake eerste toelating – niet blijvend tegengeworpen. Hierbij maakt de IND onderscheid tussen drugs-, zeden- en geweldsmisdrijven enerzijds en overige misdrijven anderzijds.
+
+Ingeval van een veroordeling wegens drugs-, zeden- dan wel geweldsmisdrijven bedraagt de termijn, gedurende welke de veroordeling een contra-indicatie vormt voor vergunningverlening, tien jaren. Ingeval van een veroordeling wegens een ander misdrijf bedraagt die termijn vijf jaren.
+
+De termijn vangt aan op de dag van de invrijheidstelling na tenuitvoerlegging van de vrijheidsbenemende straf of maatregel.
+
+De termijn van vijf, onderscheidenlijk tien jaren, is niet van toepassing indien sprake is van het bij herhaling plegen van misdrijven of van ernstige redenen om te veronderstellen dat de vreemdeling (of diens gezinslid) zich schuldig heeft gemaakt aan gedragingen als bedoeld in artikel 1F van het Vluchtelingenverdrag.
+
+De IND verleent de verblijfsvergunning niet indien de vreemdeling of een gezinslid mogelijk een gevaar vormt voor de nationale veiligheid. Hiervoor is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling mogelijk een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de Algemene Inlichtingen- en Veiligheidsdienst.
+
+In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere (buitenlandse) ministeries of inlichtingendiensten.
+
+Indien een gezinslid al houder is van een verblijfsvergunning, geldt deze contra-indicatie uitsluitend voor dat gezinslid.
+
+Indien de vreemdeling of een gezinslid rechtmatig verblijf heeft op grond van [artikel 8 onder j, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) (uitstel van vertrek wegens medische redenen) dan werpt de IND dit niet tegen.
+
+Ingevolge het bepaalde in [artikel 31, tweede lid onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) moet de vreemdeling bij zijn asielaanvraag in beginsel zijn identiteit aantonen met documenten. Indien dat niet kan, dan moet hij consistent en naar waarheid verklaard hebben over zijn identiteit en nationaliteit.
+
+Wanneer de vreemdeling of een gezinslid zich na vergunningverlening in de GBA inschrijft met andere gegevens, dan trekt de IND de vergunning in.
+
+Voor de vaststelling of de vreemdeling al dan niet heeft meegewerkt aan zijn vertrek toetst de IND of de vreemdeling in redelijkheid de stappen heeft ondernomen om invulling te geven aan de wettelijke vertrekplicht. Hierbij wordt in elk geval van de vreemdeling verlangd dat hij aannemelijk maakt dat hij zich, met het oog op zijn vertrek, heeft gewend tot:
+
+De IND beschouwt in het kader van deze regeling de landen Zwitserland, Noorwegen, IJsland en Liechtenstein als landen die deel uitmaken van de Europese Unie.
+
+Aantoonbaar vertrek buiten de Europese Unie wordt altijd tegengeworpen ook als dit plaatsvond voor 27 juli 2010. De duur van het verblijf buiten de Europese Unie is hierbij niet van belang.
+
+Uitsluitend in het geval dat de vreemdeling in het bezit van een terugkeervisum is vertrokken, wordt deze contra-indicatie niet tegengeworpen.
+
+Indien de gezinsband is verbroken, beschouwt de IND dit niet als een contra-indicatie ten aanzien van de overige gezinsleden.
+
+### 2.3. Overige vereisten
+
+De IND beoordeelt op grond van de aanvraag of de vreemdeling in aanmerking komt voor verblijf. Voor het indienen van de aanvraag zijn geen leges verschuldigd. De IND verleent vrijstelling van het paspoortvereiste en de inkomenseis.
+
+In aanvulling op het bepaalde in paragraaf B1/4.1.1. merkt de IND de groep vreemdelingen die voldoet aan de voorwaarden van de regeling aan als bijzondere groep aan wie in het kader van de hardheidsclausule als bedoeld in [artikel 3.71, vierde lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) vrijstelling van het mvv-vereiste wordt verleend.
+
+Indien de vreemdeling niet voldoet aan de voorwaarden van de regeling en ook overigens niet is gebleken van omstandigheden als neergelegd in paragraaf B1/4.1.1, wijst de IND de aanvraag af wegens het ontbreken van een mvv met toepassing van het bepaalde in [artikel 16, eerste lid onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16).
+
+### 2.4. Procedureke bepalingen
+
+De verblijfsvergunning op grond van de regeling wordt op aanvraag verleend. De vreemdeling moet eerst telefonisch een afspraak maken met de IND alvorens de aanvraag in persoon, met gebruikmaking van een daartoe vastgesteld formulier, in te dienen bij een IND-loket.
+
+Het kind, dat in het kader van de regeling als hoofdpersoon kan worden beschouwd, kan bij zijn aanvraag tevens verblijf aanvragen voor zijn gezinsleden, tenzij de gezinsband inmiddels is verbroken.
+
+De IND verleent de verblijfsvergunning aan zowel de hoofdpersoon als het gezinslid onder de beperking ‘definitieve regeling langdurig verblijvende kinderen’.
+
+De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist.’, wat inhoud dat de betreffende vreemdeling vrij is op de arbeidsmarkt en er geen tewerkstellingsvergunning nodig is.
+
+Op het verblijfsdocument wordt vermeld: 'verblijf onder beperking cf. beschikking Staatssecretaris. Arbeid vrij toegestaan. TWV niet vereist.'
+
+Ingevolge [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) verleent de IND de verblijfsvergunning met ingang van de datum waarop de aanvraag is ontvangen. De verblijfsvergunning wordt verleend voor de duur van een jaar.
+
+De verblijfsvergunning regulier onder de beperking ‘definitieve regeling langdurig verblijvende kinderen’ betreft een niet-tijdelijk verblijfsrecht als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
+
+### 3. Overgangsregeling
+
+### 3.1. Voorwaarden voor verlening van een verblijfsvergunning
+
+De IND verleent een vergunning aan de vreemdeling die in het kader van de regeling als hoofdpersoon kan worden beschouwd:
+
+De IND verleent ook een vergunning aan gezinsleden die deel uitmaken van het gezin van de vreemdeling aan wie een vergunning wordt verleend, tenzij de feitelijke gezinsband inmiddels is verbroken. De gezinsleden en de gezinsband wordt beoordeeld naar de stand van zaken op 29 oktober 2012 (startdatum peilperiode). De IND beoordeelt of de gezinsband is verbroken aan de hand van het bepaalde in hoofdstuk B2.
+
+Het is aan de vreemdeling om bij het indienen van de aanvraag aan te geven wie er feitelijk tot zijn gezin hoort. Indien blijkt dat de vreemdeling gegevens heeft achtergehouden, dan wel onjuiste of onvolledige informatie heeft vertrekt kan dit consequenties hebben voor zijn verblijfsaanspraken en die van zijn gezinsleden.
+
+Ten aanzien van een alleenstaande minderjarige vreemdeling (amv) geldt dat indien bij de beoordeling van de aanvraag blijkt dat door de amv onjuiste gegevens zijn verstrekt met betrekking tot zijn ouder(s), de IND geen vergunning op grond van deze regeling verleent. Wanneer de betreffende amv inmiddels een verblijfsvergunning heeft gekregen op grond van deze regeling en blijkt dat door de amv onjuiste gegevens zijn verstrekt met betrekking tot zijn ouder(s) kan dat leiden tot intrekking van zijn verblijfsvergunning.
+
+Onder gezinsleden verstaat de IND:
+
+En indien de feitelijke gezinsband met bovenstaande perso(o)n(en) is verbroken:
+
+De IND hanteert als peilperiode 29 oktober 2012 (de datum van het Regeerakkoord) en de datum inwerkingtreding van de overgangsregeling.
+
+Indien de vreemdeling tussen 29 oktober 2012 en de datum van inwerkingtreding van deze regeling 21 jaar wordt, werpt de IND dit niet tegen.
+
+Indien de termijn van vijf jaar verblijf in Nederland eerst wordt bereikt op de datum van inwerkingtreding van deze regeling, werpt de IND dit eveneens niet tegen.
+
+Indien de vreemdeling op startdatum van de peilperiode niet voldoet aan de overige voorwaarden, wijst de IND de aanvraag af.
+
+De IND werpt niet tegen dat door of namens de vreemdeling geen asielaanvraag is ingediend indien een ouder van de vreemdeling een asielaanvraag heeft ingediend en de vreemdeling na de start van de asielprocedure is geboren.
+
+De overige voorwaarden gelden onverkort.
+
+Indien de vreemdeling voldoet aan de voorwaarde genoemd in onderdeel c (niet langdurig onttrekken aan toezicht) én hij ten minste vijf jaar voor het bereiken van de leeftijd van 18 jaar een asielaanvraag heeft ingediend, neemt de IND aan dat de vreemdeling vijf jaar in Nederland heeft verbleven tenzij één van de omstandigheden als neergelegd in paragraaf B1/5.3.2 (verplaatsing hoofdverblijf) zich voordoet.
+
+De IND neemt aan dat sprake is van niet langdurig onttrokken aan het toezicht indien de vreemdeling en zijn eventuele gezinsleden:
+
+Indien sprake is van meerdere perioden, alle korter dan drie maanden, waarbij de vreemdeling uit beeld is geweest, werpt de IND dit niet tegen ook al is het totaal aantal drie of meer maanden.
+
+Indien de vreemdeling of een gezinslid naar een andere Europese lidstaat is vertrokken en deze lidstaat de verantwoordelijkheid overneemt voor de vreemdeling of het gezinslid ingevolge [artikel 30, eerste lid onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), dan neemt de IND aan dat sprake is van langdurig onttrekken aan het toezicht ongeacht de termijn van drie maanden.
+
+Indien de gezinsband is verbroken, geldt deze contra-indicatie uitsluitend voor het betreffende gezinslid.
+
+Indien de vreemdeling of een gezinslid naar een andere Europese lidstaat is vertrokken en dit land een uiteindelijk gehonoreerde claim legt op Nederland om de behandeling over te nemen, geldt dat de claim binnen drie maanden na 27 juli 2010 bekend moet zijn bij de Nederlandse autoriteiten en dient de vreemdeling voor de startdatum van de peilperiode (29 oktober 2012) succesvol te zijn overgedragen aan Nederland.
+
+Wanneer de vreemdeling of een gezinslid op 27 juli 2010 in beeld was en vervolgens naar een andere Europese lidstaat is vertrokken, geldt dat de claim op Nederland binnen drie maanden nadat de vreemdeling of het gezinslid uit beeld is geraakt, bekend moet zijn bij de Nederlandse autoriteiten. Daarnaast geldt onverkort de algemene voorwaarde dat de vreemdeling of het gezinslid voor de startdatum van de peilperiode (29 oktober 2012) succesvol dient te zijn overgedragen aan Nederland.
+
+De vreemdeling en eventuele gezinsleden dienen voorafgaand aan vergunningverlening schriftelijk aan te geven dat lopende procedures onvoorwaardelijk worden ingetrokken bij vergunningverlening op grond van de regeling. De IND zal eventueel al betaalde leges of griffierechten niet restitueren.
+
+### 3.2. Contra-indicaties
+
+De IND verleent de vergunning niet als bij de hoofdpersoon of een gezinslid sprake is van de volgende contra-indicaties, zoals die ten tijde van de beoordeling van de aanvraag geconstateerd worden:
+
+De IND verleent de vergunning niet indien de vreemdeling of een gezinslid een gevaar vormt voor de openbare orde. Dit is het geval indien
+
+In die gevallen dat sprake is van een lopend onderzoek naar gedragingen als bedoeld in artikel 1F Vluchtelingenverdrag, wordt dit onderzoek afgerond alvorens een beoordeling in het kader van de regeling plaats zal vinden.
+
+In geval van een veroordeling tot een taakstraf wegens drugs-, zeden- dan wel geweldsmisdrijven wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen bij de beoordeling. Bij de berekening of er sprake is van een straf of maatregel van ten minste één maand, worden meerdere veroordelingen bij elkaar opgeteld. Het is niet vereist dat de uitspraak waarbij de vreemdeling is veroordeeld wegens een misdrijf onherroepelijk is geworden.
+
+Strafbare feiten die in het buitenland zijn gepleegd of bestraft, worden eveneens bij de beoordeling van het gevaar voor de openbare orde betrokken, doch slechts voor zover het gaat om strafbare feiten die naar Nederlands recht misdrijven zijn. Dat geldt ook indien het strafbare feit naar buitenlands recht een overtreding, maar naar Nederlands recht een misdrijf is. Of het feit naar Nederlands recht een misdrijf is, wordt beoordeeld aan de hand van de strafbepalingen in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of de bijzondere Nederlandse strafwetten.
+
+Wanneer er sprake is van openbare orde-aspecten van één van de gezinsleden dan wordt aan het gehele gezin een vergunning onthouden, tenzij de gezinsband is verbroken. Indien het betreffende gezinslid dat feitelijk tot het gezin behoort en bij wie sprake is van openbare orde-aspecten niet wordt opgenomen bij het indienen van de aanvraag, beoordeelt de IND dit ook als een contra-indicatie. De IND verleent in dat geval de vergunning niet aan de vreemdeling en de overige gezinsleden.
+
+Indien het betreffende gezinslid later in het kader van gezinshereniging dan wel op grond van artikel 8 EVRM een aanvraag indient voor een vergunning, zal de IND bezien of de vergunning van de overige gezinsleden wordt ingetrokken.
+
+Indien bij beschikking van de IND artikel 1F van het Vluchtelingenverdrag is tegengeworpen, geldt geen verjaringstermijn.
+
+Een eens gepleegd misdrijf wordt – gelijk het staande beleid inzake eerste toelating – niet blijvend tegengeworpen. Hierbij maakt de IND onderscheid tussen drugs-, zeden- en geweldsmisdrijven enerzijds en overige misdrijven anderzijds.
+
+Ingeval van een veroordeling wegens drugs-, zeden- dan wel geweldsmisdrijven bedraagt de termijn, gedurende welke de veroordeling een contra-indicatie vormt voor vergunningverlening, tien jaren. Ingeval van een veroordeling wegens een ander misdrijf bedraagt die termijn vijf jaren.
+
+De termijn vangt aan op de dag van de invrijheidstelling na tenuitvoerlegging van de vrijheidsbenemende straf of maatregel.
+
+De termijn van vijf, onderscheidenlijk tien jaren, is niet van toepassing indien sprake is van het bij herhaling plegen van misdrijven of van ernstige redenen om te veronderstellen dat de vreemdeling (of diens gezinslid) zich schuldig heeft gemaakt aan gedragingen als bedoeld in artikel 1F van het Vluchtelingenverdrag.
+
+Voor de beoordeling of sprake is van verjaring met het oog op deze regeling neemt de IND de datum van inwerkingtreding van deze regeling aan als het bepalende toetsmoment. Indien na deze datum sprake is van verjaring in het kader van de openbare orde, is er geen aanspraak op een vergunning in het kader van deze regeling.
+
+De IND verleent de verblijfsvergunning niet indien de vreemdeling of een gezinslid mogelijk een gevaar vormt voor de nationale veiligheid. Hiervoor is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling mogelijk een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de Algemene Inlichtingen- en Veiligheidsdienst.
+
+In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere (buitenlandse) ministeries of inlichtingendiensten.
+
+Indien een gezinslid al houder is van een verblijfsvergunning, geldt deze contra-indicatie uitsluitend voor dat gezinslid.
+
+Indien de vreemdeling of een gezinslid rechtmatig verblijf heeft op grond van [artikel 8 onder j, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) (uitstel van vertrek wegens medische redenen) dan werpt de IND dit niet tegen.
+
+Vreemdelingen die al in het bezit zijn van een verblijfsvergunning, komen niet in aanmerking voor een verblijfsvergunning op grond van deze overgangsregeling. Zij hebben immers al duidelijkheid over hun verblijf.
+
+Een uitzondering wordt gevormd door de vreemdeling die voldoet aan de voorwaarden van de overgangsregeling en die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd op grond van een beleid van categoriale bescherming danwel een verblijfsvergunning regulier voor bepaalde tijd op medische gronden, B9, alleenstaande minderjarige vreemdeling, vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken of het volgen van studie.
+
+Deze vergunningen zijn meestal verleend in het verlengde van een asielaanvraag of hebben specifiek betrekking op de doelgroep jongeren.
+
+De houder van een dergelijke vergunning kan éénmalig een aanvraag indienen tot wijziging van die vergunning in een verblijfsvergunning op grond van deze regeling.
+
+Deze mogelijkheid geldt eveneens voor een eventueel gezinslid van de hoofdpersoon.
+
+De vreemdeling die tijdig een aanvraag op grond van deze regeling heeft ingediend en die niet meer dan één keer een identiteit heeft opgegeven waarover twijfel bestaat, wordt door de IND eenmalig de gelegenheid geboden om alsnog de juiste identiteitsgegevens naar voren te brengen.
+
+Op deze wijze kan op basis van de juiste identiteitsgegevens een vergunning worden verleend. In de overige gevallen is identiteitsherstel niet aan de orde.
+
+Voorwaarde voor identiteitsherstel is dat voorafgaand aan het identiteitsherstel reeds is voldaan aan alle overige voorwaarden van de overgangsregeling. Het is dus niet mogelijk om enkel door het identiteitsherstel alsnog te voldoen aan de voorwaarden van de regeling.
+
+Er is sprake van twijfel indien:
+
+Ten behoeve van het identiteitsherstel dienen primair documenten overgelegd te worden waaruit de identiteit blijkt. Indien de vreemdeling zijn identiteit niet door middel van documenten kan aantonen, stelt de IND hem in de gelegenheid om een verklaring af te leggen en de schriftelijke vastlegging hiervan te ondertekenen.
+
+Indien op enig moment blijkt dat de op deze wijze door de vreemdeling naar voren gebrachte identiteit niet juist is, kan de IND de verblijfsvergunning intrekken of de geldigheidsduur daarvan niet verlengen.
+
+De IND beschouwt in het kader van deze regeling de landen Zwitserland, Noorwegen, IJsland en Liechtenstein als landen die deel uitmaken van de Europese Unie.
+
+Aantoonbaar vertrek buiten de Europese Unie wordt altijd tegengeworpen, ook als dit plaatsvond voor 27 juli 2010. De duur van het verblijf buiten de Europese Unie is hierbij niet van belang.
+
+Uitsluitend in het geval dat de vreemdeling in het bezit van een terugkeervisum is vertrokken, wordt deze contra-indicatie niet tegengeworpen.
+
+Indien de gezinsband is verbroken, beschouwt de IND dit niet als een contra-indicatie ten aanzien van de overige gezinsleden.
+
+### 3.3. Overige vereisten
+
+De IND beoordeelt op grond van de aanvraag of de vreemdeling in aanmerking komt voor verblijf. Voor het indienen van de aanvraag zijn geen leges verschuldigd. De IND verleent vrijstelling van het paspoortvereiste en de inkomenseis.
+
+In aanvulling op het bepaalde in paragraaf B1/4.1.1. merkt de IND de groep vreemdelingen die voldoet aan de voorwaarden van de regeling aan als bijzondere groep aan wie in het kader van de hardheidsclausule als bedoeld in [artikel 3.71, vierde lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) vrijstelling van het mvv-vereiste wordt verleend.
+
+Indien de vreemdeling niet voldoet aan de voorwaarden van de regeling en ook overigens niet is gebleken van omstandigheden als neergelegd in paragraaf B1/4.1.1, wijst de IND de aanvraag af wegens het ontbreken van een mvv met toepassing van het bepaalde in [artikel 16, eerste lid onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16).
+
+### 3.4. Procedurele bepalingen
+
+De verblijfsvergunning op grond van de regeling wordt op aanvraag verleend.
+
+De vreemdeling moet eerst telefonisch een afspraak maken met de IND alvorens de aanvraag in persoon, met gebruikmaking van een daartoe vastgesteld formulier, in te dienen bij een IND-loket.
+
+De aanvraag moet uiterlijk drie maanden na inwerkingtreding van deze overgangsregeling zijn ingediend bij de IND. De IND neemt aan dat een aanvraag tijdig is ingediend, als de vreemdeling binnen deze termijn telefonisch een afspraak heeft gemaakt.
+
+Het kind, dat in het kader van de regeling als hoofdpersoon kan worden beschouwd, kan bij zijn aanvraag tevens verblijf aanvragen voor zijn gezinsleden, tenzij de gezinsband inmiddels is verbroken.
+
+De IND verleent de verblijfsvergunning aan zowel de hoofdpersoon als het gezinslid onder de beperking ‘overgangsregeling langdurig verblijvende kinderen’.
+
+De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist.’, wat inhoud dat de betreffende vreemdeling vrij is op de arbeidsmarkt en er geen tewerkstellingsvergunning nodig is.
+
+Op het verblijfsdocument wordt vermeld: 'verblijf onder beperking cf. beschikking Staatssecretaris. Arbeid vrij toegestaan. TWV niet vereist.'
+
+Ingevolge [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) verleent de IND de verblijfsvergunning met ingang van de datum waarop de aanvraag is ontvangen. De verblijfsvergunning wordt verleend voor de duur van een jaar.
+
+De verblijfsvergunning regulier onder de beperking 'overgangsregeling langdurig verblijvende kinderen' betreft een niet-tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
