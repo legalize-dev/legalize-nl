@@ -4,7 +4,7 @@ identifier: "BWBR0029331"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-04-01"
-last_updated: "2013-01-01"
+last_updated: "2013-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029331"
 soort: "ministeriele-regeling-BES"
@@ -47,27 +47,27 @@ Deze regeling geeft uitvoering aan de [artikelen 8](https://wetten.overheid.nl/j
 
 Als loonbelasting- en premietabellen worden vastgesteld:
 
-- a. de halvedagtabel, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2011-01-01&g=2013-01-01);
+- a. de halvedagtabel, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2013-02-06&g=2013-02-06);
 
-- b. de dagtabel, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=B&z=2011-01-01&g=2013-01-01);
+- b. de dagtabel, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=B&z=2013-02-06&g=2013-02-06);
 
-- c. de weektabel, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=C&z=2011-01-01&g=2013-01-01);
+- c. de weektabel, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=C&z=2013-02-06&g=2013-02-06);
 
-- d. de tweeweken(quincena)tabel, opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=D&z=2011-01-01&g=2013-01-01);
+- d. de tweeweken(quincena)tabel, opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=D&z=2013-02-06&g=2013-02-06);
 
-- e. de maandtabel, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=E&z=2011-01-01&g=2013-01-01);
+- e. de maandtabel, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=E&z=2013-02-06&g=2013-02-06);
 
-- f. de kwartaaltabel, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=F&z=2011-01-01&g=2013-01-01).
+- f. de kwartaaltabel, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=F&z=2013-02-06&g=2013-02-06).
 
-- g. de tabel bijzondere beloningen, opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=G&z=2011-01-01&g=2013-01-01).
+- g. de tabel bijzondere beloningen, opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=G&z=2013-02-06&g=2013-02-06).
 
 ##### Artikel 3
 
-De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2011-01-01&g=2013-01-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
+De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2013-02-06&g=2013-02-06), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
 
 ##### Artikel 4
 
-De bij deze regeling behorende [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2011-01-01&g=2013-01-01) liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën.
+De bij deze regeling behorende [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2013-02-06&g=2013-02-06) liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën.
 
 ##### Artikel 5
 
@@ -79,30 +79,30 @@ Deze regeling treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de
 
 ## Bijlage A
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage B
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage C
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage D
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage E
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage F
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 ## Bijlage G
 
-Ligt ter inzage bij het Ministerie van Financiën.
+Niet opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
