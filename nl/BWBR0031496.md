@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2012-04-26"
+last_updated: "2013-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste en vierde lid, artikel 4, artikel 5, eerste lid en tweede lid, artikel 8, eerste lid, artikel 9, artikel 11, eerste lid, artikel 13, eerste lid, artikel 15, eerste lid, artikel 16, artikel 17, eerste en vierde lid, artikel 18, eerste lid, artikel 22, artikel 23, eerste tot en met vierde lid, artikel 30, eerste lid, artikel 31, eerste lid, artikel 32, eerste lid, artikel 33 tot en met artikel 35, eerste en vierde lid, artikel 36, eerste lid, artikel 37, eerste en tweede lid, artikel 40, eerste lid, en artikel 41 van Verordening (EU) nr. 267/2012 van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
+1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste en vierde lid, artikel 4, artikel 5, eerste lid en tweede lid, artikel 8, eerste lid, artikel 9, artikel 10 bis, artikel 10 ter, artikel 10 quinquies, eerste lid, artikel 10 sexies, artikel 11, eerste lid, artikel 13, eerste lid, artikel 14 bis, eerste lid, artikel 15, eerste lid, artikel 15 bis, eerste lid, artikel 15 ter, eerste lid, artikel 16, artikel 17, eerste en vierde lid, artikel 18, eerste lid, artikel 22, artikel 23, eerste tot en met vierde lid, artikel 30, eerste lid, derde tot en met zesde lid, artikel 30 bis, artikel 31, eerste lid, artikel 33 tot en met artikel 35, eerste en vierde lid, artikel 36, eerste lid, artikel 37, eerste en tweede lid, artikel 37 bis, artikel 37 ter, eerste lid, artikel 40, eerste lid, en artikel 41 van Verordening (EU) nr. 267/2012 van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 6, artikel 7, eerste lid, artikel 10, artikel 12, artikel 14, artikel 19, eerste lid, artikel 20, artikel 21, artikel 24 tot en met artikel 28, artikel 29, eerste en tweede lid, of artikel 35, tweede en derde lid, van Verordening (EU) nr. 267/2012 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 6, artikel 7, eerste lid, artikel 10, artikel 10 quater, artikel 10 septies, artikel 12, artikel 14, artikel 14 bis, tweede lid, artikel 15 bis, derde lid, artikel 15 ter, tweede lid, artikel 15 quater, artikel 19, eerste lid, artikel 20, artikel 21, artikel 24 tot en met artikel 28 bis, artikel 29, eerste en tweede lid, artikel 30, tweede lid, artikel 35, tweede en derde lid, artikel 37 ter, tweede lid, of artikel 43 bis, eerste en tweede lid, van Verordening (EU) nr. 267/2012 van toepassing is.
 
 ##### Artikel 2
 
@@ -64,27 +64,27 @@ Besluit:
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit, bedoeld in artikel 3, artikel 5, tweede lid, onder a, artikel 7, artikel 18, artikel 19 en artikel 39 van Verordening (EU) nr. 267/2012, is de Minister van Economische Zaken, Landbouw en Innovatie.
+1. De bevoegde autoriteit, bedoeld in artikel 3, artikel 5, tweede lid, onder a, artikel 7, artikel 18, artikel 19, artikel 39 en artikel 43 bis van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 5, tweede lid, onder b, artikel 10, artikel 12, artikel 14, artikel 20 en artikel 21 van Verordening (EU) nr. 267/2012, is de Minister van Economische Zaken, Landbouw en Innovatie of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
+2. De bevoegde autoriteit, bedoeld in artikel 5, tweede lid, onder b, artikel 10, artikel 12, artikel 14, artikel 20 en artikel 21 van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
-3. De bevoegde autoriteit, bedoeld in de artikelen 24 tot en met 29 van Verordening (EU) nr. 267/2012 is de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden en de Minister van Economische Zaken, Landbouw en Innovatie wat betreft de vrijgave of beschikbaarstelling van economische middelen.
+3. De bevoegde autoriteit, bedoeld in de artikelen 24 tot en met 29 van Verordening (EU) nr. 267/2012 is de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft de vrijgave of beschikbaarstelling van economische middelen.
 
-4. De bevoegde autoriteit, bedoeld in artikel 32 van Verordening (EU) nr. 267/2012, is de Financial Intelligence Unit-Nederland.
+4. De bevoegde autoriteit, bedoeld in artikel 30, zesde lid van Verordening (EU) nr. 267/2012, is de Financial Intelligence Unit-Nederland.
 
-5. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van Verordening (EU) nr. 267/2012, is, afhankelijk van de aard van de informatie, de Minister van Economische Zaken, Landbouw en Innovatie, de Minister van Financiën dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+5. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van Verordening (EU) nr. 267/2012, is, afhankelijk van de aard van de informatie, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister van Financiën dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
-6. De bevoegde autoriteit, bedoeld in artikel 30, eerste, derde en vierde lid, artikel 31, eerste lid, en artikel 36 van Verordening (EU) nr. 267/2012, is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+6. De bevoegde autoriteit, bedoeld in artikel 30, derde en vijfde lid, artikel 30 bis, artikel 30 ter, artikel 31, eerste lid, en artikel 36 van Verordening (EU) nr. 267/2012, is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
-7. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, van Verordening (EU) nr. 359/2011, is de Minister van Economische Zaken, Landbouw en Innovatie, en de bevoegde autoriteit, bedoeld in artikel 1 quater, eerste lid, van Verordening (EU) nr. 359/2011, is de Minister van Economische Zaken, Landbouw en Innovatie of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
+7. De bevoegde autoriteit, bedoeld in artikel 1 bis, tweede lid, en artikel 1 ter, tweede lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en de bevoegde autoriteit, bedoeld in artikel 1 quater, eerste lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 8. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, tweede lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van bepaalde tegoeden de Minister van Financiën.
 
-9. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van economische middelen de Minister van Economische Zaken, Landbouw en Innovatie.
+9. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van economische middelen de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 10. De bevoegde autoriteiten, bedoeld in artikel 9, eerste lid, van Verordening (EU) nr. 359/2011 zijn, elk voor het gebied waartoe hun competenties zich uitstrekt:
 
-- –. de Minister van Economische Zaken, Landbouw en Innovatie;
+- –. de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - –. de Minister van Financiën.
 
@@ -110,7 +110,7 @@ De [Sanctieregeling Iran 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028951) 
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2012-04-26&g=2012-04-26)
+## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2013-02-07&g=2013-02-07)
 
 ### Natuurwetenschappen
 
