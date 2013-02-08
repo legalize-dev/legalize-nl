@@ -4,7 +4,7 @@ identifier: "BWBR0032872"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032872"
 soort: "zbo"
@@ -115,7 +115,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 ##### Artikel 7. : Afwijkende vergoeding tolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=4&z=2013-02-08&g=2013-01-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=6&z=2013-02-08&g=2013-01-01) en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=4&z=2013-02-08&g=2013-02-08), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=6&z=2013-02-08&g=2013-02-08) en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
 2. Indien er sprake is van teamtolken, waarbij maximaal twee tolken tegelijkertijd voor één cliënt optreden, wordt tot 150% van het geldende normbedrag per team vergoed, uit te keren als 75% per tolk, indien wordt aangetoond dat is voldaan aan de volgende voorwaarden:
 
@@ -135,7 +135,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 5. Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk en in ieder geval uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend.
 
-6. Leden 1 t/m 5 zijn niet van toepassing op de personen die doof én blind of doof én slechtziend zijn als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=6&z=2013-02-08&g=2013-01-01).
+6. Leden 1 t/m 5 zijn niet van toepassing op de personen die doof én blind of doof én slechtziend zijn als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=6&z=2013-02-08&g=2013-02-08).
 
 7. Onder tolk op afstand wordt verstaan de gediplomeerde tolk die vanuit een eigen werklocatie tolkdiensten verleent aan een gebruiker, die op de locatie dan wel op derde locatie van de tolkdiensten gebruik maakt. De tolk op afstand kan, met uitzondering van de in de toelichting genoemde pilotsituatie, naast de uurvergoeding en naast de aanvulling als bedoeld in het achtste lid geen aanspraak maken op de reisvergoeding.
 
