@@ -4,7 +4,7 @@ identifier: "BWBR0032880"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-02-11"
-last_updated: "2013-01-01"
+last_updated: "2013-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032880"
 soort: "zbo"
@@ -65,7 +65,7 @@ heeft in zijn vergadering van 21 januari 2013 besloten:
 
 ##### Artikel 3. Betaling voorschotten beheerskosten in termijnen
 
-De betaling van het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=2&artikel=2&z=2013-02-11&g=2013-01-01), geschiedt in twaalf opeenvolgende maandelijkse gelijke termijnen en vangt aan in de maand februari van het jaar t met als betaaldag de eerste werkdag van de maand.
+De betaling van het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=2&artikel=2&z=2013-02-11&g=2013-02-11), geschiedt in twaalf opeenvolgende maandelijkse gelijke termijnen en vangt aan in de maand februari van het jaar t met als betaaldag de eerste werkdag van de maand.
 
 ### Hoofdstuk 3. Vaststelling en bevoorschotting vergoeding aan zorgverzekeraars en verbindingskantoren van kosten van verstrekkingen en vergoedingen
 
@@ -89,7 +89,7 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 - b. de opbrengsten van eigen bijdragen in het kader van de bijzondere ziektekostenverzekering.
 
-4. Het college keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=3&artikel=4&z=2013-02-11&g=2013-01-01).
+4. Het college keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=3&artikel=4&z=2013-02-11&g=2013-02-11).
 
 ##### Artikel 6. De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
@@ -111,13 +111,13 @@ Het CAK stort de opbrengsten van bijdragen voor zorg zonder verblijf vierwekelij
 
 2. Indien het definitief vastgestelde beheerskostenbudget hoger is dan het nader vastgestelde beheerskostenbudget, betaalt het college de zorgverzekeraar of het verbindingskantoor het verschil vermeerderd met de rentekosten en indien het definitief vastgestelde budget lager is dan het nader vastgestelde budget vordert het college het verschil, vermeerderd met de rentekosten.
 
-3. Voor een zorgverzekeraar, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=2&artikel=2&z=2013-02-11&g=2013-01-01), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen hiervóór in het eerste lid en tweede lid is bepaald, aan die bevoorschotting aangepast.
+3. Voor een zorgverzekeraar, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=2&artikel=2&z=2013-02-11&g=2013-02-11), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen hiervóór in het eerste lid en tweede lid is bepaald, aan die bevoorschotting aangepast.
 
 4. Bij de betaling van het bedrag van de voorlopige vaststelling van de kosten van verstrekkingen en vergoedingen brengt het college aan het verbindingskantoor of de zorgverzekeraar met ingang van de betaaldatum van het voorschot rente in rekening, voor zover het voorschot de werkelijke kosten van verstrekkingen en vergoedingen, die het verbindingskantoor of de zorgverzekeraar aan het college voor het jaar t opgeeft, overschrijdt. De rente wordt berekend over de periode tussen het moment van de voorschotverstrekking (ook als het een deelvoorschot is) en de afrekening.
 
 ##### Artikel 9. Berekening hoogte rente
 
-1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=5&artikel=8&z=2013-02-11&g=2013-01-01). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032880&hoofdstuk=5&artikel=8&z=2013-02-11&g=2013-02-11). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
 
 2. De rente betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
