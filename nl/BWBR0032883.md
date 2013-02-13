@@ -4,7 +4,7 @@ identifier: "BWBR0032883"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-02-20"
-last_updated: "2013-01-01"
+last_updated: "2013-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032883"
 soort: "zbo"
@@ -66,7 +66,7 @@ Dit besluit verstaat onder:
 
 ##### Artikel 4
 
-Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=3&z=2013-02-13&g=2013-01-01), genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=3&z=2013-02-13&g=2013-02-13), genoemde totaalbedrag als volgt:
 
 - a. een bedrag van 24,182 miljoen euro op basis van een bedrag van € 188,62 per budgethouder uitgaande van 128.204 budgethouders op grond van het aantal budgethouders per verbindingskantoor;
 
@@ -82,7 +82,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 5
 
-Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-01-01) resterende bedrag als volgt:
+Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-02-13) resterende bedrag als volgt:
 
 - a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen;
 
@@ -90,7 +90,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 ##### Artikel 6
 
-1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=5&z=2013-02-13&g=2013-01-01) herrekent het college per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-02-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=5&z=2013-02-13&g=2013-02-13) herrekent het college per regio.
 
 2. Ter verkrijging van het voorlopige beheerskostenbudget AWBZ per verbindingskantoor sommeert het college het berekende bedrag per regio voor de regio’s waarvoor het verbindingskantoor is aangewezen.
 
@@ -100,7 +100,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 ##### Artikel 7
 
-1. Uiterlijk op de eerste werkdag van mei 2014 stelt het college het beheerskostenbudget over het jaar 2013 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-01-01) nader vast. Het college doet dit op basis van:
+1. Uiterlijk op de eerste werkdag van mei 2014 stelt het college het beheerskostenbudget over het jaar 2013 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2013-02-13&g=2013-02-13) nader vast. Het college doet dit op basis van:
 
 - a. de werkelijke inwoneraantallen per 1 januari 2013, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners baseert het college zich op de gegevens van het Centraal Bureau voor de Statistiek;
 
