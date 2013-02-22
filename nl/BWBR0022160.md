@@ -4,7 +4,7 @@ identifier: "BWBR0022160"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022160"
 soort: "ministeriele-regeling"
@@ -58,39 +58,37 @@ In deze regeling wordt verstaan onder:
 
 - e. QP: de persoon die door de fabrikant is belast met de taken, bedoeld in [artikel 28, eerste lid, onder d of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=28);
 
-- f. coördinatiegroep: de coördinatiegroep, bedoeld in artikel 27 van [richtlijn 2001/83](32001L0083);
+- f. referentielidstaat: de instantie die in een lidstaat bevoegd is te beslissen op aanvragen voor het in de handel brengen van geneesmiddelen en op verzoek van degene die in meer dan één lidstaat zodanige vergunning voor een bepaald geneesmiddel aanvraagt, leiding geeft aan de procedure die in dat geval moet worden gevolgd;
 
-- g. referentielidstaat: de instantie die in een lidstaat bevoegd is te beslissen op aanvragen voor het in de handel brengen van geneesmiddelen en op verzoek van degene die in meer dan één lidstaat zodanige vergunning voor een bepaald geneesmiddel aanvraagt, leiding geeft aan de procedure die in dat geval moet worden gevolgd;
+- g. samenvatting van de productkenmerken: de lijst van gegevens omtrent een geneesmiddel, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2013-02-22&g=2013-02-22);
 
-- h. samenvatting van de productkenmerken: de lijst van gegevens omtrent een geneesmiddel, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2012-01-01&g=2012-01-01);
+- h. gevestigde apotheker: een apotheker die staat ingeschreven in het register van gevestigde apothekers, bedoeld in [artikel 61, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61);
 
-- i. gevestigde apotheker: een apotheker die staat ingeschreven in het register van gevestigde apothekers, bedoeld in [artikel 61, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61);
+- i. apotheekhoudende huisarts: een huisarts aan wie krachtens [artikel 61, tiende of elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) vergunning is verleend om geneesmiddelen ter hand te stellen;
 
-- j. apotheekhoudende huisarts: een huisarts aan wie krachtens [artikel 61, tiende of elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) vergunning is verleend om geneesmiddelen ter hand te stellen;
+- j. apotheekhoudende: een gevestigde apotheker of een apotheekhoudende huisarts;
 
-- k. apotheekhoudende: een gevestigde apotheker of een apotheekhoudende huisarts;
+- k. ziekenhuis: een instelling voor medisch-specialistische zorg in de zin van het [Uitvoerinsgbesluit WTZI](https://wetten.overheid.nl/jci1.3:c:BWBR0018983);
 
-- l. ziekenhuis: een instelling voor medisch-specialistische zorg in de zin van het Uitvoerinsgbesluit WTZI;
+- l. gebruik in schrijnende gevallen: gebruik van geneesmiddelen als bedoeld in artikel 3, eerste en tweede lid, van de verordening, door patiënten die lijden aan een chronische ziekte of aan een ziekte die de gezondheid ondermijnt of levensbedreigend moet worden geacht en die niet op bevredigende wijze kan worden behandeld met een geneesmiddel waarvoor een handelsvergunning is verleend, en waarvoor bij de Gemeenschap een aanvraag om een handelsvergunning is ingediend dan wel waarmee nog klinische proeven worden uitgevoerd met het oog op het bij de Gemeenschap indienen van een aanvraag om een handelsvergunning;
 
-- m. gebruik in schrijnende gevallen: gebruik van geneesmiddelen als bedoeld in artikel 3, eerste en tweede lid, van de verordening, door patiënten die lijden aan een chronische ziekte of aan een ziekte die de gezondheid ondermijnt of levensbedreigend moet worden geacht en die niet op bevredigende wijze kan worden behandeld met een geneesmiddel waarvoor een handelsvergunning is verleend, en waarvoor bij de Gemeenschap een aanvraag om een handelsvergunning is ingediend dan wel waarmee nog klinische proeven worden uitgevoerd met het oog op het bij de Gemeenschap indienen van een aanvraag om een handelsvergunning;
+- m. vergiften: geneesmiddelen, stoffen voor de bereiding van geneesmiddelen en middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) of [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), niet zijnde geneesmiddelen, die gevaarlijk kunnen zijn voor de gezondheid van een persoon indien deze in handen komen van anderen dan beroepsbeoefenaren op het gebied van de individuele gezondheidszorg die gekwalificeerd zijn om met zodanige producten in hun werk om te gaan;
 
-- n. vergiften: geneesmiddelen, stoffen voor de bereiding van geneesmiddelen en middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) of [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), niet zijnde geneesmiddelen, die gevaarlijk kunnen zijn voor de gezondheid van een persoon indien deze in handen komen van anderen dan beroepsbeoefenaren op het gebied van de individuele gezondheidszorg die gekwalificeerd zijn om met zodanige producten in hun werk om te gaan;
+- n. allergeen: een geneesmiddel waarmee wordt beoogd een specifieke wijziging in de immunologische reactie op een allergie veroorzakende agens vast te stellen of teweeg te brengen;
 
-- o. allergeen: een geneesmiddel waarmee wordt beoogd een specifieke wijziging in de immunologische reactie op een allergie veroorzakende agens vast te stellen of teweeg te brengen;
+- o. vaccins, toxinen en sera: stoffen die worden gebruikt om een actieve immuniteit teweeg te brengen, om immuniteit vast te stellen of om passieve immuniteit teweeg te brengen;
 
-- p. vaccins, toxinen en sera: stoffen die worden gebruikt om een actieve immuniteit teweeg te brengen, om immuniteit vast te stellen of om passieve immuniteit teweeg te brengen;
+- p. nieuwe werkzame stof: een werkzame stof die niet eerder is gebruikt in een geneesmiddel dat in de Gemeenschap in de handel is of is geweest;
 
-- q. nieuwe werkzame stof: een werkzame stof die niet eerder is gebruikt in een geneesmiddel dat in de Gemeenschap in de handel is of is geweest;
+- q. bekende werkzame stof: een werkzame stof die eerder is gebruikt in een geneesmiddel dat in de Gemeenschap in de handel is of is geweest;
 
-- r. bekende werkzame stof: een werkzame stof die eerder is gebruikt in een geneesmiddel dat in de Gemeenschap in de handel is of is geweest;
+- r. duplex-aanvraag: een aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel die vergezeld gaat van een dossier dat identiek is aan het dossier op grond waarvan de handelsvergunning voor het geneesmiddel is verleend, met uitzondering van de naam van het geneesmiddel, het nummer van de handelsvergunning, de naam van de houder van de vergunning, de naam van de verantwoordelijke voor de geneesmiddelenbewaking, het voor de geneesmiddelenbewaking ingerichte systeem, alsmede de met deze uitzonderingen samenhangende afwijkingen in de samenvatting van de productkenmerken, de bijsluiter en de verpakking;
 
-- s. duplex-aanvraag: een aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel die vergezeld gaat van een dossier dat identiek is aan het dossier op grond waarvan de handelsvergunning voor het geneesmiddel is verleend, met uitzondering van de naam van het geneesmiddel, het nummer van de handelsvergunning, de naam van de houder van de vergunning, de naam van de verantwoordelijke voor de geneesmiddelenbewaking, het voor de geneesmiddelenbewaking ingerichte systeem, alsmede de met deze uitzonderingen samenhangende afwijkingen in de samenvatting van de productkenmerken, de bijsluiter en de verpakking;
+- s. kopie-aanvraag: een door een natuurlijke persoon of rechtspersoon ingediende aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel die vergezeld gaat van een dossier dat identiek is aan het dossier behorende bij een eerdere door hem ingediende aanvraag waarvan de behandeling nog niet door het College is afgerond, met uitzondering van de naam van het geneesmiddel, het door het College aan de eerder ingediende aanvraag gegeven nummer en de met deze uitzondering samenhangende afwijkingen in de samenvatting van de productkenmerken, de bijsluiter en de verpakking;
 
-- t. kopie-aanvraag: een door een natuurlijke persoon of rechtspersoon ingediende aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel die vergezeld gaat van een dossier dat identiek is aan het dossier behorende bij een eerdere door hem ingediende aanvraag waarvan de behandeling nog niet door het College is afgerond, met uitzondering van de naam van het geneesmiddel, het door het College aan de eerder ingediende aanvraag gegeven nummer en de met deze uitzondering samenhangende afwijkingen in de samenvatting van de productkenmerken, de bijsluiter en de verpakking;
+- t. wetenschappelijk advies: een advies als bedoeld in [artikel 9, onder h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=9).
 
-- u. wetenschappelijk advies: een advies als bedoeld in [artikel 9, onder h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=9).
-
-- v. [verordening 1084/2003](32003R1084): Verordening (EG) nr. 1084/2003 van de Commissie van 3 juni 2003 betreffende het onderzoek van wijzigingen van de voorwaarden van een door een bevoegde instantie van een lidstaat verleende vergunning voor het in de handel brengen van geneesmiddelen voor menselijk gebruik en geneesmiddelen voor diergeneeskundig gebruik (PbEG L 159).
+- u. [verordening 1084/2003](32003R1084): Verordening (EG) nr. 1084/2003 van de Commissie van 3 juni 2003 betreffende het onderzoek van wijzigingen van de voorwaarden van een door een bevoegde instantie van een lidstaat verleende vergunning voor het in de handel brengen van geneesmiddelen voor menselijk gebruik en geneesmiddelen voor diergeneeskundig gebruik (PbEG L 159).
 
 ### Hoofdstuk 2. Goede praktijken bij de industriële bereiding van en de groothandel in geneesmiddelen
 
@@ -136,7 +134,7 @@ experimentele natuurkunde, algemene en anorganische scheikunde, organische schei
 
 ##### Artikel 2.6
 
-Een QP heeft ten minste twee jaren bij een fabrikant werkzaamheden uitgevoerd, bestaande uit het verrichten van kwalitatieve analyses van geneesmiddelen, kwantitatieve analyses van de werkzame stoffen alsmede proeven en controles die noodzakelijk zijn om de kwaliteit van geneesmiddelen te waarborgen. Indien een QP een universitaire opleiding als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2012-01-01&g=2012-01-01) van ten minste vijf dan wel zes jaren met goed gevolg heeft afgesloten, is het voldoende indien de hij werkzaamheden als bedoeld in de eerste volzin, heeft uitgevoerd gedurende een periode van één jaar onderscheidenlijk zes maanden.
+Een QP heeft ten minste twee jaren bij een fabrikant werkzaamheden uitgevoerd, bestaande uit het verrichten van kwalitatieve analyses van geneesmiddelen, kwantitatieve analyses van de werkzame stoffen alsmede proeven en controles die noodzakelijk zijn om de kwaliteit van geneesmiddelen te waarborgen. Indien een QP een universitaire opleiding als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2013-02-22&g=2013-02-22) van ten minste vijf dan wel zes jaren met goed gevolg heeft afgesloten, is het voldoende indien de hij werkzaamheden als bedoeld in de eerste volzin, heeft uitgevoerd gedurende een periode van één jaar onderscheidenlijk zes maanden.
 
 ##### Artikel 2.7
 
@@ -206,15 +204,15 @@ De fabrikant draagt ervoor zorg dat de lokalen en de uitrusting zodanig zijn ont
 
 ##### Artikel 2.13
 
-Degene die een wetenschappelijke onderzoek als bedoeld in [artikel 2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.12&z=2012-01-01&g=2012-01-01), verricht, draagt ervoor zorg dat de blindering van geneesmiddelen voor onderzoek in elk geval snel wordt opgeheven indien dat noodzakelijk is om die middelen snel terug te halen.
+Degene die een wetenschappelijke onderzoek als bedoeld in [artikel 2.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.12&z=2013-02-22&g=2013-02-22), verricht, draagt ervoor zorg dat de blindering van geneesmiddelen voor onderzoek in elk geval snel wordt opgeheven indien dat noodzakelijk is om die middelen snel terug te halen.
 
 ##### Artikel 2.14
 
-De fabrikant voert op gezette tijden inspecties uit binnen zijn bedrijf op de toepassing en de naleving van de [artikelen 2.1 tot en met 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2012-01-01&g=2012-01-01) en treft zonodig corrigerende maatregelen. De inspecties en de getroffen maatregelen worden geregistreerd.
+De fabrikant voert op gezette tijden inspecties uit binnen zijn bedrijf op de toepassing en de naleving van de [artikelen 2.1 tot en met 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2013-02-22&g=2013-02-22) en treft zonodig corrigerende maatregelen. De inspecties en de getroffen maatregelen worden geregistreerd.
 
 ##### Artikel 2.15
 
-Degene die vóór het tijdstip van inwerkingtreding van deze regeling de taken, bedoeld [28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=28), verrichtte en die niet voldoet aan de eisen, bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2012-01-01&g=2012-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2012-01-01&g=2012-01-01), worden voor de toepassing van deze regeling gelijkgesteld met degenen die wel aan die eisen voldoen.
+Degene die vóór het tijdstip van inwerkingtreding van deze regeling de taken, bedoeld [28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=28), verrichtte en die niet voldoet aan de eisen, bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2013-02-22&g=2013-02-22) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2013-02-22&g=2013-02-22), worden voor de toepassing van deze regeling gelijkgesteld met degenen die wel aan die eisen voldoen.
 
 #### Paragraaf 2. Groothandel
 
@@ -230,7 +228,7 @@ Degene die vóór het tijdstip van inwerkingtreding van deze regeling de taken, 
 
 ##### Artikel 3.1
 
-1. De bij de aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel aan het College over te leggen gegevens en bescheiden, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&z=2012-01-01&g=2012-01-01) van dit hoofdstuk, worden aangeleverd door middel van een elektronische gegevensdrager waarvan de specificaties door het College zijn vastgesteld. De aanvraag wordt schriftelijk ondertekend, tenzij de aanvrager en het College de mogelijkheid tot het zetten van een elektronische handtekening zijn overeengekomen.
+1. De bij de aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel aan het College over te leggen gegevens en bescheiden, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&z=2013-02-22&g=2013-02-22) van dit hoofdstuk, worden aangeleverd door middel van een elektronische gegevensdrager waarvan de specificaties door het College zijn vastgesteld. De aanvraag wordt schriftelijk ondertekend, tenzij de aanvrager en het College de mogelijkheid tot het zetten van een elektronische handtekening zijn overeengekomen.
 
 2. Het eerste lid is van overeenkomstige toepassing op de gegevens en bescheiden die door de houder van een handelsvergunning als bedoeld in het eerste lid, aan het College worden overgelegd bij een aanvraag om een wijziging van zodanige vergunning.
 
@@ -244,9 +242,9 @@ Indien een natuurlijke persoon of een rechtspersoon zowel bij het College als bi
 
 1. Indien een aanvrager het College heeft verzocht om als referentielidstaat op te treden, verzoekt hij het College tevens een rapport op te stellen inzake de beoordeling van het geneesmiddel, het ontwerp van de samenvatting van de productkenmerken, de ontwerpetikettering en de ontwerpbijsluiter.
 
-2. Het College stelt naar aanleiding van het verzoek van de aanvrager het beoordelingsrapport op en doet deze binnen 120 dagen na het verzoek toekomen aan de aanvrager en aan de bevoegde instanties in de andere betrokken lidstaten, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01)
+2. Het College stelt naar aanleiding van het verzoek van de aanvrager het beoordelingsrapport op en doet deze binnen 120 dagen na het verzoek toekomen aan de aanvrager en aan de bevoegde instanties in de andere betrokken lidstaten, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22)
 
-3. Zodra alle in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01) bedoelde instanties binnen 90 dagen na de verzending van de documenten, bedoeld in het eerste lid, aan het College hebben gemeld dat zij deze documenten goedkeuren en het College heeft besloten de handelsvergunning te verlenen, sluit het College de gevolgde aanvraagprocedure af en stelt hij de aanvrager hiervan in kennis. Het College verleent alsdan binnen 30 dagen een handelsvergunning in overeenstemming met het beoordelingsrapport, de samenvatting van de productkenmerken, de etikettering en de bijsluiter, zoals deze zijn goedgekeurd.
+3. Zodra alle in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22) bedoelde instanties binnen 90 dagen na de verzending van de documenten, bedoeld in het eerste lid, aan het College hebben gemeld dat zij deze documenten goedkeuren en het College heeft besloten de handelsvergunning te verlenen, sluit het College de gevolgde aanvraagprocedure af en stelt hij de aanvrager hiervan in kennis. Het College verleent alsdan binnen 30 dagen een handelsvergunning in overeenstemming met het beoordelingsrapport, de samenvatting van de productkenmerken, de etikettering en de bijsluiter, zoals deze zijn goedgekeurd.
 
 4. Indien het College van oordeel is dat de handelsvergunning moet worden geweigerd wegens een mogelijk ernstig risico voor de volksgezondheid dan wel dat de documenten, bedoeld in het eerste lid, moeten worden goedgekeurd, en een of meer andere lidstaten aan het College hebben gemeld dat zij van mening zijn dat het tegenovergestelde moet gebeuren, deelt het College de punten waarover verschil van mening bestaat tussen de betrokken lidstaten, mee aan de Coördinatiegroep.
 
@@ -260,11 +258,11 @@ Indien een natuurlijke persoon of een rechtspersoon zowel bij het College als bi
 
 2. Het College verzendt het bijgewerkte beoordelingsrapport binnen 90 dagen na ontvangst van het verzoek van de houder van de handelsvergunning, vergezeld van het verzoek aan de in het eerste lid bedoelde instanties om de handelsvergunning te erkennen.
 
-3. Zodra de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01) bedoelde instanties van de andere betrokken lidstaten binnen 90 dagen na de verzending van het bijgewerkte beoordelingsrapport aan het College hebben gemeld dat zij dat rapport goedkeuren en daarmee de handelsvergunning erkennen, sluit het College de gevolgde aanvraagprocedure af en stelt hij de aanvrager hiervan in kennis. Het College brengt, indien nodig, binnen 30 dagen nadien de handelsvergunning in overeenstemming met het bijgewerkte beoordelingsrapport, de samenvatting van de productkenmerken, de etikettering en de bijsluiter zoals deze zijn goedgekeurd.
+3. Zodra de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22) bedoelde instanties van de andere betrokken lidstaten binnen 90 dagen na de verzending van het bijgewerkte beoordelingsrapport aan het College hebben gemeld dat zij dat rapport goedkeuren en daarmee de handelsvergunning erkennen, sluit het College de gevolgde aanvraagprocedure af en stelt hij de aanvrager hiervan in kennis. Het College brengt, indien nodig, binnen 30 dagen nadien de handelsvergunning in overeenstemming met het bijgewerkte beoordelingsrapport, de samenvatting van de productkenmerken, de etikettering en de bijsluiter zoals deze zijn goedgekeurd.
 
-4. Indien een of meer van de betrokken lidstaten aan het College hebben gemeld dat zij de handelsvergunning niet erkennen, deelt het College de punten waarover verschil van mening bestaat tussen de betrokken lidstaten, mee aan de Coördinatiegroep. [Artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+4. Indien een of meer van de betrokken lidstaten aan het College hebben gemeld dat zij de handelsvergunning niet erkennen, deelt het College de punten waarover verschil van mening bestaat tussen de betrokken lidstaten, mee aan de Coördinatiegroep. [Artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2013-02-22&g=2013-02-22), is van overeenkomstige toepassing.
 
-5. Indien de betrokken lidstaten in de Coördinatiegroep niet binnen 60 dagen na de mededeling van het College, bedoeld in het vierde lid, overeenstemming hebben bereikt, en de daarop volgende arbitrageprocedure, bedoeld in [artikel 3.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2012-01-01&g=2012-01-01), uitmondt in een beschikking van de Commissie die inhoudt dat de handelsvergunning wordt geweigerd, trekt het College de verleende handelsvergunning in.
+5. Indien de betrokken lidstaten in de Coördinatiegroep niet binnen 60 dagen na de mededeling van het College, bedoeld in het vierde lid, overeenstemming hebben bereikt, en de daarop volgende arbitrageprocedure, bedoeld in [artikel 3.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2013-02-22&g=2013-02-22), uitmondt in een beschikking van de Commissie die inhoudt dat de handelsvergunning wordt geweigerd, trekt het College de verleende handelsvergunning in.
 
 ##### Artikel 3.5
 
@@ -278,147 +276,33 @@ Indien een natuurlijke persoon of een rechtspersoon zowel bij het College als bi
 
 ##### Artikel 3.6
 
-De [artikelen 3.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2012-01-01&g=2012-01-01), [3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2012-01-01&g=2012-01-01), en [3.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2012-01-01&g=2012-01-01), zijn niet van toepassing op homeopathische geneesmiddelen als bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42). De [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01) zijn niet van toepassing op homeopathische geneesmiddelen als bedoeld in [artikel 42, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42).
+De [artikelen 3.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2013-02-22&g=2013-02-22), [3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2013-02-22&g=2013-02-22), en [3.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2013-02-22&g=2013-02-22), zijn niet van toepassing op homeopathische geneesmiddelen als bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42). De [artikelen 3.2 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22) zijn niet van toepassing op homeopathische geneesmiddelen als bedoeld in [artikel 42, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42).
 
 #### Paragraaf 3. Over te leggen gegevens en bescheiden
 
 ##### Artikel 3.7
 
-1. Bij de aanvraag om een vergunning voor het in de handel brengen van een geneesmiddel, niet zijnde een kruidengeneesmiddel als bedoeld in [artikel 42, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42) worden, met inachtneming van de volgorde en de inhoud van Bijlage 1 bij [richtlijn 2001/83](32001L0083) en de krachtens die richtlijn door de Commissie gepubliceerde richtsnoeren, de volgende gegevens en bescheiden overgelegd:
-
-- a. de naam of de handelsnaam en de woonplaats of de maatschappelijke zetel van de aanvrager en van de fabrikant indien de aanvrager niet de fabrikant is van het geneesmiddel;
-
-- b. de naam van het geneesmiddel;
-
-- c. de kwalitatieve en kwantitatieve samenstelling van de bestanddelen van het geneesmiddel, met vermelding van de algemene benaming van het geneesmiddel;
-
-- d. gegevens omtrent de milieu-effecten van het in de handel zijn van het geneesmiddel alsmede een beoordeling van die effecten en de maatregelen die moeten worden genomen om deze effecten te voorkomen of te beperken;
-
-- e. een beschrijving van de bereidingswijze;
-
-- f. de therapeutische indicaties, contra-indicaties en bijwerkingen;
-
-- g. de dosering, farmaceutische vorm, wijze van gebruik en wijze van toediening alsmede de vermoedelijke houdbaarheid;
-
-- h. de redenen voor voorzorgs- en veiligheidsmaatregelen die bij de opslag van het geneesmiddel, de toediening ervan aan de patiënt en de verwijdering van de afvalproducten ervan moeten worden genomen;
-
-- i. een beschrijving van de door de fabrikant toegepaste controlemethoden;
-
-- j. de testresultaten van:
-
-- –. de farmaceutische proeven, bestaande uit fysisch-chemische, biologische of microbiologische proeven,
-
-- –. de preklinische proeven, bestaande uit toxicologische en farmacologische proeven, en
-
-- –. de klinische proeven;
-
-- k. een uitvoerige beschrijving van het systeem van geneesmiddelenbewaking en, indien van toepassing, het risicomanagement dat de aanvrager zal invoeren;
-
-- l. een verklaring dat de klinische proeven die buiten de Europese Unie zijn uitgevoerd, voldoen aan de ethische vereisten, bedoeld in het bij en krachtens [Richtlijn 2001/20](32001L0020) bepaalde;
-
-- m. de samenvatting van de productkenmerken;
-
-- n. een model van de buitenverpakking waarop de in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=69) bedoelde gegevens zijn vermeld, een model van de primaire verpakking waarop de desbetreffende in [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=70) bedoelde gegevens zijn vermeld, een kopie van de bijsluiter waarin de in [artikel 71, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=71) bedoelde gegevens zijn vermeld en het verslag van het overleg, bedoeld in [artikel 71, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=71);
-
-- o. een document waaruit blijkt dat de fabrikant in het land waarin hij gevestigd is, vergunning is verleend om geneesmiddelen te bereiden;
-
-- p. een kopie van elke in een andere lidstaat of in een derde land voor het geneesmiddel verkregen vergunning voor het in de handel brengen, alsmede een lijst van de lidstaten waar de ingediende aanvraag voor een dergelijke vergunning in behandeling is;
-
-- q. indien een samenvatting van de productkenmerken is ingediend bij of is goedgekeurd door de bevoegde autoriteit van een andere lidstaat, een kopie van die samenvatting;
-
-- r. een kopie van de bijsluiter die is voorgelegd of door de bevoegde autoriteit van een andere lidstaat is goedgekeurd;
-
-- s. bijzonderheden omtrent elke in de Gemeenschap of in een derde land genomen besluit waarbij een vergunning is geweigerd en de redenen van zodanig besluit;
-
-- t. een kopie van iedere aanwijzing van het geneesmiddel als weesgeneesmiddel, vergezeld van een kopie van het advies van het Bureau daaromtrent;
-
-- u. het bewijs dat de aanvrager beschikt over een persoon als bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=77), die over de noodzakelijke middelen beschikt om een bijwerking te melden die zich voordoet in de Gemeenschap of een derde land.
-
-2. De gegevens en bescheiden aangaande de resultaten van de in het eerste lid, onder j , bedoelde farmaceutische, preklinische en klinische proeven gaan vergezeld van een uitvoerige samenvatting die is opgesteld en ondertekend door een persoon die deskundig is op het gebied van zodanige proeven en wiens technische capaciteiten of beroepskwalificaties zijn omschreven in een bij de aanvraag over te leggen curriculum vitae.
+Bij de aanvraag van een vergunning voor het in de handel brengen van een geneesmiddel, niet zijnde een kruidengeneesmiddel als bedoeld in [artikel 42, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42) neemt de aanvrager de artikelen 8, derde lid, 9, 11 en 12 van richtlijn 2001/83 in acht.
 
 ##### Artikel 3.8
 
-De samenvatting van de productkenmerken bevat de volgende gegevens in onderstaande volgorde:
-
-- a. de naam van het geneesmiddel, gevolgd door de concentratie en de farmaceutische vorm;
-
-- b. de kwalitatieve en kwantitatieve samenstelling van de werkzame stoffen en van de hulpstoffen waarvan de kennis onmisbaar is voor een juiste toediening van het geneesmiddel, aangeduid met de algemene benamingen of de scheikundige benamingen;
-
-- c. de farmaceutische vorm;
-
-- d. de volgende klinische gegevens:
-
-- 1°. de therapeutische indicaties,
-
-- 2°. de dosering en de wijze van toediening voor volwassenen en, voor zover noodzakelijk, voor kinderen,
-
-- 3°. de contra-indicaties,
-
-- 4°. een speciale waarschuwing en voorzorgsmaatregelen bij gebruik en, indien het een immunologisch geneesmiddel betreft, speciale voorzorgsmaatregelen die moeten worden getroffen door degenen die met immunologische geneesmiddelen omgaan en door degenen die deze aan patiënten toedienen, alsmede voorzorgsmaatregelen indien deze door de patiënt moeten worden getroffen,
-
-- 5°. de interacties met andere geneesmiddelen en andere interacties,
-
-- 6°. de wijze van gebruik tijdens zwangerschap en lactatie,
-
-- 7°. de invloed op de bekwaamheid om een voertuig te besturen en machines te gebruiken,
-
-- 8°. de ongewenste effecten,
-
-- 9°. symptomen van overdosering en de spoedbehandeling met tegengiffen in geval van overdosering;
-
-- e. de volgende farmacologische eigenschappen:
-
-- 1°. de farmacodynamische eigenschappen,
-
-- 2°. de farmacokinetische eigenschappen,
-
-- 3°. preklinische gegevens over de veiligheid;
-
-- f. de volgende farmaceutische gegevens:
-
-- 1°. een lijst van de hulpstoffen,
-
-- 2°. de belangrijkste onverenigbaarheden,
-
-- 3°. de houdbaarheid in het algemeen dan wel, zo nodig, na reconstitutie van het geneesmiddel of wanneer de verpakking voor het eerst open is,
-
-- 4°. bijzondere voorzorgsmaatregelen bij opslag,
-
-- 5°. aard en inhoud van de primaire verpakking,
-
-- 6°. bijzondere voorzorgsmaatregelen bij de verwijdering van gebruikte geneesmiddelen of van die geneesmiddelen afgeleide afvalstoffen, indien van toepassing;
-
-- g. de naam en het adres van de houder van de vergunning voor het in de handel brengen;
-
-- h. het nummer of de nummers van de vergunning voor het in de handel brengen;
-
-- i. de datum van de eerste vergunning of van een hernieuwing van de vergunning;
-
-- j. de datum van laatste herziening van de tekst van de samenvatting van de productkenmerken;
-
-- k. de nadere gegevens over de interne stralingsdosimetrie, indien het radiofarmaceutica betreft;
-
-- l. gedetailleerde voorschriften voor bereiding extempore en kwaliteitscontrole van de bereiding van radiofarmaceutica, alsmede, voor zover van belang, de maximale opslagtijd gedurende welke een intermediaire bereiding voldoet aan de op zodanige bereiding betrekking hebbende specificaties.
+Vervallen
 
 ##### Artikel 3.9
 
-Indien de aanvraag om een vergunning voor het in de handel brengen betrekking heeft op een generiek geneesmiddel, kan de vermelding achterwege blijven van de delen van de samenvatting van de productkenmerken van het referentiegeneesmiddel die betrekking hebben op de therapeutische indicaties of doseringsvormen die onder de bescherming van een octrooi of een aanvullend beschermingscertificaat vielen op het tijdstip waarop een generiek van het referentiegeneesmiddel in de handel werd gebracht.
+Vervallen
 
 ##### Artikel 3.10
 
-Onverminderd de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2012-01-01&g=2012-01-01), bevat een aanvraag om een vergunning voor het in de handel brengen van een generator van radionucliden de volgende gegevens en bescheiden:
-
-- a. een algemene beschrijving van het systeem tezamen met een gedetailleerde beschrijving van de bestanddelen ervan die van invloed kunnen zijn op de samenstelling of de kwaliteit van de dochteradionuclide;
-
-- b. kwalitatieve en kwantitatieve gegevens van de elutie of het sublimaat.
+Vervallen
 
 ##### Artikel 3.11
 
-Een beschrijving van de preklinische en klinische proeven als bedoeld in [artikel 3.7, eerste lid, onder j, tweede en derde gedachtestreepje,en onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01), hoeft niet te worden overgelegd indien de aanvraag betrekking heeft op:
+Een beschrijving van de preklinische en klinische proeven als bedoeld in [artikel 3.7, eerste lid, onder j, tweede en derde gedachtestreepje,en onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2013-02-22&g=2013-02-22), hoeft niet te worden overgelegd indien de aanvraag betrekking heeft op:
 
 - a. een homeopathisch geneesmiddel als bedoeld in [artikel 42, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42), dat noch op de verpakking noch in de bijsluiter een therapeutische indicatie vermeldt;
 
-- b. een homeopathisch geneesmiddel dat op de verpakking of in de bijsluiter een therapeutische indicatie vermeldt, indien door de aanvrager van de handelsvergunning wordt voldaan aan de voorwaarden en de procedure van [artikel 3.12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2012-01-01&g=2012-01-01), en het College nog niet heeft beslist over de therapeutische werking van het desbetreffende geneesmiddel.
+- b. een homeopathisch geneesmiddel dat op de verpakking of in de bijsluiter een therapeutische indicatie vermeldt, indien door de aanvrager van de handelsvergunning wordt voldaan aan de voorwaarden en de procedure van [artikel 3.12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2013-02-22&g=2013-02-22), en het College nog niet heeft beslist over de therapeutische werking van het desbetreffende geneesmiddel.
 
 ##### Artikel 3.12
 
@@ -434,7 +318,7 @@ Een beschrijving van de preklinische en klinische proeven als bedoeld in [artike
 
 ##### Artikel 3.13
 
-Onverminderd de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01) en [3.11, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2012-01-01&g=2012-01-01), worden bij de aanvraag om een handelsvergunning voor een reeks van homeopathische geneesmiddelen als bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42), die van dezelfde homeopathische grondstoffen zijn afgeleid, de volgende gegevens en bescheiden overgelegd:
+Onverminderd de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2013-02-22&g=2013-02-22) en [3.11, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2013-02-22&g=2013-02-22), worden bij de aanvraag om een handelsvergunning voor een reeks van homeopathische geneesmiddelen als bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42), die van dezelfde homeopathische grondstoffen zijn afgeleid, de volgende gegevens en bescheiden overgelegd:
 
 - a. de wetenschappelijke benaming of een andere in een farmacopee voorkomende benaming van de homeopathische grondstoffen, onder vermelding van de verschillende toedieningswijzen, farmaceutische vormen en verdunningsgraden;
 
@@ -450,11 +334,11 @@ Onverminderd de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&
 
 1. Bij de aanvraag om een handelsvergunning voor een traditioneel kruidengeneesmiddel als bedoeld in [artikel 42, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42), worden, met inachtneming van de inhoud van Bijlage 1 bij [richtlijn 2001/83](32001L0083) betreffende traditionele kruidengeneesmiddelen, de volgende gegevens en bescheiden overgelegd:
 
-- a. de gegevens en bescheiden, bedoeld in [artikel 3.7, eerste lid, onder a tot en met i, en onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01);
+- a. de gegevens en bescheiden, bedoeld in [artikel 3.7, eerste lid, onder a tot en met i, en onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2013-02-22&g=2013-02-22);
 
-- b. de resultaten van farmaceutische proeven als bedoeld in van [artikel 3.7, eerste lid, onder j, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01);
+- b. de resultaten van farmaceutische proeven als bedoeld in van [artikel 3.7, eerste lid, onder j, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2013-02-22&g=2013-02-22);
 
-- c. de samenvatting van de productkenmerken, met uitzondering van de in [artikel 3.8, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2012-01-01&g=2012-01-01), bedoelde gegevens;
+- c. de samenvatting van de productkenmerken, met uitzondering van de in [artikel 3.8, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.8&z=2013-02-22&g=2013-02-22), bedoelde gegevens;
 
 - d. in geval van combinaties van een of meer kruidensubstanties en een of meer kruidenpreparaten of combinaties van zodanige substanties of preparaten met vitaminen of mineralen, de gegevens omtrent het traditionele gebruik van deze combinaties;
 
@@ -478,15 +362,15 @@ Onverminderd de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&
 
 ##### Artikel 3.15
 
-1. Indien de aanvraag om een handelsvergunning voor een traditioneel kruidengeneesmiddel betrekking heeft op een krachtens artikel 16 septies, eerste lid, van [richtlijn 2001/83](32001L0083) door de Europese Commissie vastgestelde lijst van kruidensubstanties, kruidenpreparaten en combinaties daarvan, hoeven bij de aanvraag de in [artikel 3.14, eerste lid, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2012-01-01&g=2012-01-01), bedoelde gegevens niet te worden overgelegd.
+1. Indien de aanvraag om een handelsvergunning voor een traditioneel kruidengeneesmiddel betrekking heeft op een krachtens artikel 16 septies, eerste lid, van [richtlijn 2001/83](32001L0083) door de Europese Commissie vastgestelde lijst van kruidensubstanties, kruidenpreparaten en combinaties daarvan, hoeven bij de aanvraag de in [artikel 3.14, eerste lid, onder f, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2013-02-22&g=2013-02-22), bedoelde gegevens niet te worden overgelegd.
 
-2. De handelsvergunning wordt in elk geval ingetrokken indien een kruidensubstantie, een kruidenpreparaat of een combinatie daarvan niet langer voorkomt op de lijst, bedoeld in het eerste lid. De intrekking wordt ongedaan gemaakt indien binnen drie maanden na de intrekking de in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2012-01-01&g=2012-01-01), bedoelde gegevens worden overgelegd.
+2. De handelsvergunning wordt in elk geval ingetrokken indien een kruidensubstantie, een kruidenpreparaat of een combinatie daarvan niet langer voorkomt op de lijst, bedoeld in het eerste lid. De intrekking wordt ongedaan gemaakt indien binnen drie maanden na de intrekking de in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2013-02-22&g=2013-02-22), bedoelde gegevens worden overgelegd.
 
 ##### Artikel 3.16
 
-Voor de toepassing van [artikel 3.7, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2012-01-01&g=2012-01-01), wordt, wat betreft bloedproducten, de kwantitatieve samenstelling van een bloedproduct uitgedrukt in eenheden van massa, internationale eenheden of eenheden van biologische werking.
+Voor de toepassing van [artikel 3.7, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2013-02-22&g=2013-02-22), wordt, wat betreft bloedproducten, de kwantitatieve samenstelling van een bloedproduct uitgedrukt in eenheden van massa, internationale eenheden of eenheden van biologische werking.
 
-#### Paragraaf 4. Uitzonderingen op de verplichting te beschikken over een handelsvergunning
+#### Paragraaf 4. Besluitvorming en openbaarmaking door het College
 
 ##### Artikel 3.17
 
@@ -604,7 +488,7 @@ In dit hoofdstuk wordt verstaan onder ‘vrijgeven’: de beslissing van het Rij
 
 ##### Artikel 6.3
 
-1. [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2012-01-01&g=2012-01-01) is niet van toepassing op een bloedproduct of een immunologisch geneesmiddel indien dat wordt betrokken uit een andere lidstaat en de daartoe bevoegde autoriteit van die lidstaat de charge waartoe het behoort, heeft onderzocht en schriftelijk heeft verklaard dat de charge voldoet aan de eisen die zijn beschreven in het dossier op grond waarvan de handelsvergunning voor het bloedproduct of het immunologische geneesmiddel is verleend.
+1. [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2013-02-22&g=2013-02-22) is niet van toepassing op een bloedproduct of een immunologisch geneesmiddel indien dat wordt betrokken uit een andere lidstaat en de daartoe bevoegde autoriteit van die lidstaat de charge waartoe het behoort, heeft onderzocht en schriftelijk heeft verklaard dat de charge voldoet aan de eisen die zijn beschreven in het dossier op grond waarvan de handelsvergunning voor het bloedproduct of het immunologische geneesmiddel is verleend.
 
 2. De verklaring, bedoeld in het eerste lid, wordt gezonden aan de Minister. Het daadwerkelijk binnen het grondgebied van Nederland brengen van het middel wordt bij hem terstond aangemeld, onder vermelding van de naam van het middel, het nummer van de charge waartoe het behoort en de hoeveelheid van de charge.
 
@@ -612,7 +496,7 @@ In dit hoofdstuk wordt verstaan onder ‘vrijgeven’: de beslissing van het Rij
 
 Op de aanvraag om het vrijgeven van een immunologisch geneesmiddel of een bloedproduct wordt binnen 60 dagen beslist.
 
-#### Paragraaf 2. Terhandstelling van geneesmiddelen door anderen dan apotheekhoudenden
+#### Paragraaf 1. Afleveren na vrijgeven
 
 ##### Artikel 6.5
 
@@ -648,7 +532,7 @@ De apotheker stelt, op schriftelijk verzoek, zonder overlegging van een recept U
 
 - b. personen of instellingen die de desbetreffende geneesmiddelen nodig hebben voor wetenschappelijk onderzoek of voor het onderwijs in de farmacie.
 
-#### Paragraaf 4. Geneesmiddelen zonder herhaalrecept
+#### Paragraaf 2. Terhandstelling van geneesmiddelen door anderen dan apotheekhoudenden
 
 ##### Artikel 6.8
 
@@ -664,7 +548,7 @@ Aan de kapitein van een schip als bedoeld in [artikel 1, derde lid, onder b, van
 
 ##### Artikel 7.1
 
-Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2012-01-01&g=2012-01-01), is de aanvrager de volgende vergoeding verschuldigd:
+Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2013-02-22&g=2013-02-22), is de aanvrager de volgende vergoeding verschuldigd:
 
 - a. € 43.900 indien het een geneesmiddel met een nieuwe werkzame stof betreft;
 
@@ -680,7 +564,7 @@ Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [ar
 
 ##### Artikel 7.2
 
-1. Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01), waarbij het College optreedt als referentielidstaat, is de aanvrager de volgende vergoeding verschuldigd:
+1. Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22), waarbij het College optreedt als referentielidstaat, is de aanvrager de volgende vergoeding verschuldigd:
 
 - a. € 43.900 indien het een geneesmiddel met een nieuwe werkzame stof betreft;
 
@@ -690,7 +574,7 @@ Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [ar
 
 - d. € 28.790 indien het een uitbreiding van het assortiment van een geneesmiddel door de houder van de handelsvergunning betreft die bestaat uit een verandering als bedoeld in punt 1 of punt 2 van Bijlage II bij [verordening 1084/2003](32003R1084);
 
-2. Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2012-01-01&g=2012-01-01), waarbij het College niet optreedt als referentielidstaat, is de aanvrager aan het College de volgende vergoeding verschuldigd:
+2. Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2013-02-22&g=2013-02-22), waarbij het College niet optreedt als referentielidstaat, is de aanvrager aan het College de volgende vergoeding verschuldigd:
 
 - a. € 31.735 indien het een geneesmiddel met een nieuwe werkzame stof betreft;
 
@@ -706,7 +590,7 @@ Voor de behandeling van een aanvraag om een handelsvergunning als bedoeld in [ar
 
 ##### Artikel 7.3
 
-Voor de behandeling van een verzoek aan het College als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2012-01-01&g=2012-01-01), is de verzoeker de volgende vergoeding verschuldigd:
+Voor de behandeling van een verzoek aan het College als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2013-02-22&g=2013-02-22), is de verzoeker de volgende vergoeding verschuldigd:
 
 - a. € 19.570 indien het verzoek betrekking heeft op een geneesmiddel met een nieuw werkzame stof;
 
@@ -718,7 +602,7 @@ Voor de behandeling van een verzoek aan het College als bedoeld in [artikel 3.4,
 
 - e. € 1.200 indien het verzoek een homeopathisch geneesmiddel als bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=42) betreft;
 
-- f. € 2.600 indien het verzoek een kruidengeneesmiddel betreft als bedoeld in [artikel 7.2, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=7&artikel=7.2&z=2012-01-01&g=2012-01-01).
+- f. € 2.600 indien het verzoek een kruidengeneesmiddel betreft als bedoeld in [artikel 7.2, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=7&artikel=7.2&z=2013-02-22&g=2013-02-22).
 
 ##### Artikel 7.4
 
@@ -800,27 +684,33 @@ Voor de behandeling door het College van een aanvraag om een advies als bedoeld 
 
 ##### Artikel 7.12
 
-Voor de behandeling van een verzoek om goedkeuring als bedoeld in [artikel 3.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=4&artikel=3.18&z=2012-01-01&g=2012-01-01), is de verzoeker een vergoeding verschuldigd van € 3.300.
+Voor de behandeling van een verzoek om goedkeuring als bedoeld in [artikel 3.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=3&paragraaf=5&artikel=3.18&z=2013-02-22&g=2013-02-22), is de verzoeker een vergoeding verschuldigd van € 3.300.
 
 ##### Artikel 7.13
 
-Voor de behandeling van een verzoek om vrijgeven als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2012-01-01&g=2012-01-01), is de verzoeker een vergoeding van € 4.400,– verschuldigd.
+Voor de behandeling van een verzoek om vrijgeven als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2013-02-22&g=2013-02-22), is de verzoeker een vergoeding van € 4.400,– verschuldigd.
 
 ### Hoofdstuk 8. Bepaling inzake overtreding van [hoofdstuk 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&hoofdstuk=9)
 
 ##### Artikel 8.1
 
-Een gedraging als bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=84), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=85), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=88), [89](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=89), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=93), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=94), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=95) of [96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=96) die tevens een strafbaar feit is wordt niet aan het openbaar Ministerie voorgelegd.
+Het College neemt bij de uitoefening van zijn geneesmiddelenbewakingstaken de artikelen 101, tweede lid, 102, onderdelen a tot en met f, van richtlijn 2001/83 in acht. Het College beschikt over de bevoegdheden, bedoeld in artikelen 104, vierde lid, en 104bis, tweede lid, van die richtlijn. De houder van de handelsvergunning beschikt daarbij over het recht, bedoeld in artikel 104bis, derde lid, van die richtlijn.
 
 ### Hoofdstuk 9. Slotbepalingen
 
 ##### Artikel 9.1
 
-Indien het bij koninklijke boodschap van 8 december 2003 ingediende [voorstel van Wet, houdende vaststelling van een nieuwe Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) (Kamerstukken II, 2003/2004. 29 359), nadat het tot wet is verheven, in werking treedt, treedt deze regeling op hetzelfde tijdstip in werking.
+Het College ter beoordeling van geneesmiddelen heeft zijn zetel in de gemeente Utrecht.
 
 ##### Artikel 9.2
 
-Deze regeling wordt aangehaald als: Regeling Geneesmiddelenwet.
+1. De schadeloosstelling voor de leden van het College ter beoordeling van geneesmiddelen bedraagt:
+
+- a. voor ten behoeve van het College buiten de vergaderingen te verrichten werkzaamheden een bedrag ter grootte van het salaris voor 25 uur per maand op basis van het bruto maandsalaris dat behoort bij **schaal 18, salarisnummer 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984**;
+
+- b. een vacatiegeld van € 235,– per bijgewoonde vergadering.
+
+2. Voor de uitoefening van extra taken ontvangt een lid van het College een aanvullende schadeloosstelling, ter hoogte van maximaal het jaarsalaris van de in het eerste lid genoemde schaal verminderd met de in het eerste lid bedoelde schadeloosstelling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -891,6 +781,230 @@ Indien de arts een in de bijlage bij deze regeling opgenomen werkzame stof voors
 ## Bijlage
 
 Ingevolge [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=6&artikel=6.11&z=2012-01-01&g=2012-01-01) van de Regeling Geneesmiddelenwet wordt bij het voorschrijven van de volgende stoffen de reden van voorschrijven op het recept vermeld:
+
+- 1. Acetylcysteine
+
+- 2. Aciclovir
+
+- 3. Albendazol
+
+- 4. Amantadine
+
+- 5. Amitriptyline
+
+- 6. Carbamazepine
+
+- 7. Cloroquine
+
+- 8. Cimetidine
+
+- 9. Ciproflozacine
+
+- 10. Clonidine
+
+- 11. Colchicine
+
+- 12. Esomeprazol
+
+- 13. Estradiol
+
+- 14. Feytoinezuur
+
+- 15. Fluconazol
+
+- 16. Foliumzuur (als enkelvoudig product)
+
+- 17. Gabapentine
+
+- 18. Haloperidol
+
+- 19. Hydroxychloroquine
+
+- 20. Imipramine
+
+- 21. Itraconazol
+
+- 22. Lansoprazol
+
+- 23. Mebendazol
+
+- 24. Methadon
+
+- 25. Metronidazol
+
+- 26. Minocycline
+
+- 27. Nizatidine
+
+- 28. Norfloxacine
+
+- 29. Nortriptyline
+
+- 30. Omeprazol
+
+- 31. Pantoprazol
+
+- 32. Pramipexol
+
+- 33. Rabeprazol
+
+- 34. Ranitidine
+
+- 35. Sulfasalazine
+
+- 36. Tetracycline
+
+- 37. Tranexaminezuur
+
+- 38. Vlaciclovir
+
+- 39. Valproinezuur
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.16a
+
+1. Het College kan voorschriften aan een handelsvergunning verbinden. Het College neemt daarbij de artikelen 21bis en 22bis van richtlijn 2001/83 in acht.
+
+2. Indien een voorschrift als bedoeld in het eerste lid aan de handelsvergunning wordt verbonden, beschikt de houder van de handelsvergunning over het recht, bedoeld in artikel 22bis, tweede lid, van richtlijn 2001/83, en neemt hij artikel 22quater, eerste lid, van die richtlijn in acht.
+
+##### Artikel 3.16b
+
+Met betrekking tot de omstandigheden waaronder en de wijze waarop het College tot verlening van een voorwaardelijke handelsvergunning kan overgaan, is artikel 22 van richtlijn 2001/83 van toepassing.
+
+##### Artikel 3.16c
+
+1. Het beoordelingsrapport van het College bevat ten aanzien van het betreffende geneesmiddel een beoordeling van:
+
+- a. de resultaten van farmaceutische, preklinische en klinische proeven met het desbetreffende geneesmiddel;
+
+- b. het risicomanagementsysteem;
+
+- c. het geneesmiddelenbewakingssysteem;
+
+- d. de motivering van zijn besluit per afzonderlijke aangevraagde indicatie, met weglating van alle commercieel vertrouwelijke gegevens.
+
+2. Het College werkt het beoordelingsrapport bij zodra nieuwe gegevens met betrekking tot de beoordeling van de kwaliteit, de veiligheid of de werkzaamheid van het geneesmiddel beschikbaar worden.
+
+##### Artikel 3.16d
+
+1. Bij verlening van een handelsvergunning maakt het College, steeds met weglating van alle commercieel vertrouwelijke informatie, zo spoedig mogelijk toegankelijk voor het Staatstoezicht voor de volksgezondheid en het publiek:
+
+- a. de handelsvergunning, alsmede, indien van toepassing, de op grond van [artikelen 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=45a) of [45b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=45b) gestelde voorschriften en termijnen;
+
+- b. de samenvatting van de productkenmerken;
+
+- c. het openbare beoordelingsrapport, inhoudende een voor het publiek begrijpelijke samenvatting en een sectie over de gebruiksvoorschriften van het geneesmiddel;
+
+- d. de bijsluiter.
+
+2. Onder weglating van alle commercieel vertrouwelijke informatie, maakt het College tevens toegankelijk voor het Staatstoezicht op de volksgezondheid en het publiek:
+
+- a. besluiten strekkende tot het weigeren, schorsen of intrekken van een handelsvergunning;
+
+- b. de intrekking van een aanvraag van een handelsvergunning of een aanvraag tot uitbreiding van een handelsvergunning met een nieuwe indicatie.
+
+3. Het College stelt het Bureau terstond in kennis van maatregelen op grond van [artikel 115, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=115) en de volgende besluiten, steeds vergezeld van de betreffende samenvatting van de productkenmerken van het geneesmiddel:
+
+- a. besluiten strekkende tot het verlenen, weigeren, schorsen of intrekken van een handelsvergunning;
+
+- b. besluiten strekkende tot het vernietigen van een besluit tot weigering of intrekking van een handelsvergunning.
+
+#### Paragraaf 5. Uitzonderingen op de verplichting te beschikken over een handelsvergunning
+
+### Hoofdstuk 4. Indeling van geneesmiddelen
+
+### Hoofdstuk 5. Bewaring van vergiften en recepten
+
+### Hoofdstuk 6. Aflevering, terhandstelling en voorschrijven van geneesmiddelen
+
+#### Paragraaf 3. Terhandstelling UR-geneesmiddelen zonder recept
+
+#### Paragraaf 4. Geneesmiddelen zonder herhaalrecept
+
+#### Paragraaf 5. Geneesmiddelen aan boord van zeeschepen en vissersvaartuigen
+
+#### Paragraaf 6. Uitwisseling van laboratoriumgegevens en vermelding van de reden van voorschrijven op het recept
+
+### Hoofdstuk 7. Vergoedingen
+
+### Hoofdstuk 8. Geneesmiddelenbewaking
+
+#### Paragraaf 1. Het geneesmiddelenbewakingssysteem
+
+##### Artikel 8.2
+
+De houder van de handelsvergunning neemt bij de uitoefening van zijn geneesmiddelenbewakingstaken de artikelen 104, tweede en derde lid, van richtlijn 2001/83 in acht.
+
+##### Artikel 8.3
+
+Onverminderd het bepaalde in artikelen 8.1 en 8.2, is artikel 104, derde lid, onderdeel c, van richtlijn 2001/83 niet van toepassing op handelsvergunningen die vóór 21 juli 2012 zijn verleend.
+
+#### Paragraaf 2. Transparantie en communicatie
+
+##### Artikel 8.4
+
+Via het nationaal webportaal voor geneesmiddelen maakt het College ten minste de volgende gegevens openbaar:
+
+- a. openbare beoordelingsverslagen en de bijbehorende samenvatting;
+
+- b. samenvattingen van de productkenmerken;
+
+- c. bijsluiters;
+
+- d. samenvattingen van risicomanagementplannen;
+
+- e. de lijst van geneesmiddelen, bedoeld in artikel 23 van de verordening; en
+
+- f. de wijze waarop door beroepsbeoefenaars, onderscheidenlijk patiënten meldingen van vermoedelijke bijwerkingen kunnen worden gedaan.
+
+##### Artikel 8.5
+
+1. De houder van de handelsvergunning neemt bij het doen van openbare mededelingen op basis van geneesmiddelenbewakingsgegevens over risico’s in het gebruik van geneesmiddelen artikel 106bis van richtlijn 2001/83 in acht.
+
+2. Openbaarmaking van mededelingen als bedoeld in het eerste lid geschiedt steeds met weglating van commercieel vertrouwelijke informatie, tenzij de bescherming van de volksgezondheid daaraan in de weg staat.
+
+#### Paragraaf 3. Registratie, melding en beoordeling van geneesmiddelenbewakingsgegevens
+
+##### Artikel 8.6
+
+1. De houder van de handelsvergunning neemt bij de registratie en melding van vermoedelijke bijwerkingen artikel 107 van richtlijn 2001/83 in acht.
+
+2. Het College neemt bij de registratie en melding van vermoedelijke bijwerkingen artikel 107bis van richtlijn 2001/83 in acht.
+
+##### Artikel 8.7
+
+1. De houder van de handelsvergunning dient elektronisch periodieke veiligheidsverslagen in bij het Bureau overeenkomstig artikel 107ter van richtlijn 2001/83. Hij neemt daarbij artikel 107octies, tweede lid, van die richtlijn in acht. De houder van de handelsvergunning beschikt over het recht, bedoeld in artikel 107quater, zesde lid van die richtlijn.
+
+2. Het College legt de indieningsfrequentie voor periodieke veiligheidsverslagen overeenkomstig artikel 107quater, eerste lid, van richtlijn 2001/83 vast.
+
+3. Indien een handelsvergunning vóór 21 juli 2012 is verleend of sprake is van een geneesmiddel dat slechts in één lidstaat is toegelaten en waarop artikel 107quater, vierde lid, van richtlijn 2001/83 niet van toepassing is, dient de houder van de handelsvergunning, in afwijking van het bepaalde in artikel 8.7, eerste lid, periodieke veiligheidsverslagen in overeenkomstig artikel 107quater, tweede lid, van die richtlijn.
+
+#### Paragraaf 4. Uitvoering van niet-interventionele veiligheidsstudies na toelating
+
+##### Artikel 8.8
+
+1. De houder van de handelsvergunning handelt bij de uitvoering van niet-interventionele veiligheidsstudies na toelating overeenkomstig artikelen 107quaterdecies, zesde en zevende lid, en 107quindecies tot en met 107octodecies van richtlijn 2001/83. Het College, beschikt daarbij over de bevoegdheid, bedoeld in artikel 107quaterdecies, vijfde lid, van richtlijn 2001/83.
+
+2. De centrale commissie voor medisch-wetenschappelijk onderzoek, bedoeld in artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen, is belast met de beoordeling van ontwerpprotocollen van niet-interventionele veiligheidsstudies na toelating als bedoeld in artikel 107quindecies van richtlijn 2001/83 die uitsluitend in Nederland plaatsvinden.
+
+### Hoofdstuk 9. Het College ter beoordeling van geneesmiddelen
+
+### Hoofdstuk 10. Toezicht
+
+##### Artikel 10.1
+
+Met het toezicht op de naleving van het bij of krachtens de Geneesmiddelenwet bepaalde zijn belast de hoofdinspecteurs, de inspecteurs en de onder hun bevelen werkzame ambtenaren van het Staatstoezicht op de volksgezondheid.
+
+### Hoofdstuk 11. Slotbepalingen
+
+##### Artikel 11.1
+
+Deze regeling wordt aangehaald als: Regeling Geneesmiddelenwet.
+
+## Bijlage
+
+Ingevolge [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&hoofdstuk=6&paragraaf=6&artikel=6.11&z=2013-02-22&g=2013-02-22) van de Regeling Geneesmiddelenwet wordt bij het voorschrijven van de volgende stoffen de reden van voorschrijven op het recept vermeld:
 
 - 1. Acetylcysteine
 
