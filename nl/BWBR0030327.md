@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2013-01-01"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -92,17 +92,19 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - a. het ontwikkelen van het departementale persvoorlichtingsbeleid en het leveren van een bijdrage aan het interdepartementale persvoorlichtingsbeleid;
 
-- b. het ten behoeve van de beleidsontwikkeling beoordelen en signaleren van publicitaire aspecten van beleidsvoornemens en het adviseren van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directies over de presentatie van beleid aan de pers;
+- b. het ten behoeve van de beleidsontwikkeling beoordelen en signaleren van publicitaire aspecten van beleidsvoornemens en het strategisch adviseren van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren over de presentatie van beleid aan de pers;
 
-- c. het adviseren van de bewindspersonen over contacten met de pers en externe optredens;
+- c. het adviseren en begeleiden van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren over en tijdens contacten met de pers en bij externe optredens;
 
-- d. het coördineren en uitvoeren van de persvoorlichting en de woordvoering en het organiseren en tot stand brengen van externe optredens en toespraken van de bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal;
+- d. het coördineren en uitvoeren van de persvoorlichting en de woordvoering en het organiseren en tot stand brengen van externe optredens en toespraken van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Sociale Zaken en Werkgelegenheid en de directeuren;
 
 - e. het waarborgen van een goede technische, organisatorische en sociale infrastructuur voor de communicatie met de pers;
 
-- f. het leveren van bijdragen aan de internetsites van het ministerie, met name gericht op de nieuwsrubrieken;
+- f. het leveren van bijdragen aan de internetsites en sociale media van het ministerie, met name gericht op de nieuwsrubrieken;
 
-- g. het registreren van de uitnodigingen van de bewindspersonen.
+- g. het registreren van en adviseren over de uitnodigingen van de bewindspersonen;
+
+- h. het onderhouden van contacten met de afdelingen persvoorlichting van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.
 
 2. Het hoofd van de afdeling Woordvoering en Publiciteit wordt bijgestaan door onder hem ressorterende teamleiders.
 
@@ -140,7 +142,13 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - o. het vergaren, analyseren en duiden van omgevingskennis;
 
-- p. het verzorgen van de eindredactie en het coördineren van de samenstelling van het personeelsblad van het ministerie.
+- p. het verzorgen van de eindredactie en het coördineren van de samenstelling van het personeelsblad van het ministerie;
+
+- q. het verzorgen van de eindredactie van het intranet;
+
+- r. het verzorgen van de nieuwsvoorziening op het intranet;
+
+- s. het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.
 
 ##### Artikel 6
 
@@ -152,17 +160,11 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - c. het opzetten en onderhouden van diverse internetsites en voeren van de eindredactie van de internetsites;
 
-- d. het samenstellen, afstemmen en logistiek coördineren van brochures voor diverse doelgroepen;
+- d. het beantwoorden van specialistische vragen die via de telefoon, per e-mail en de backoffice binnenkomen bij de Arbeidsinspectie, Postbus 51 en Antwoordvoorbedrijven;
 
-- e. het beantwoorden van specialistische vragen die via de telefoon, per e-mail en de backoffice binnenkomen bij de Arbeidsinspectie, Postbus 51 en Antwoordvoorbedrijven;
+- e. het publiceren van persberichten;
 
-- f. het verzorgen van de eindredactie van het Intranet;
-
-- g. het verzorgen van de nieuwsvoorziening op het Intranet;
-
-- h. het publiceren van persberichten;
-
-- i. het publiceren van kamerstukken.
+- f. het publiceren van kamerstukken.
 
 2. Het hoofd van de afdeling Publiek en Informatie wordt bijgestaan door een onder hem ressorterende teamleider.
 
@@ -180,7 +182,7 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - e. het monitoren van de implementatie van de taakstelling binnen de directie Communicatie.
 
-2. Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.
+2. Het hoofd van de afdeling Stafbureau is verantwoordelijk voor de Secretariaatsunit. Op de Secretariaatsunit worden secretariaatstaken uitgevoerd, zoals het agendabeheer, de digitale postverwerking, het beantwoorden van de telefoon, het voorbereiden van vergaderingen, het archiveren en administreren van stukken, het notuleren, het coördineren van de huisvesting en het beheren van kantoorartikelen.
 
 #### § 3. Bevoegdheden
 
@@ -190,7 +192,7 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende teamleiders.
 
-3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2011-08-02&g=2013-01-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2011-08-02&g=2013-01-01), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2013-02-22&g=2013-02-22) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2013-02-22&g=2013-02-22), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -200,7 +202,11 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-4. In aanvulling op het eerste lid wordt mandaat en machtiging verleend aan het hoofd en de teamleider van de afdeling Publiek en Informatie met betrekking tot het paraferen van concepten van antwoorden op persoonlijke brieven van burgers, die direct aan bewindspersonen gericht zijn.
+4. In aanvulling op het eerste lid wordt aan het hoofd en de teamleider van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
+
+- a. het paraferen van concepten van antwoorden op persoonlijke brieven en e-mails van burgers, die direct aan bewindspersonen gericht zijn;
+
+- b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven en e-mails van burgers die aan bewindspersonen gericht zijn en persoonlijke brieven en e-mails die aan het ministerie gericht zijn.
 
 ##### Artikel 9
 
