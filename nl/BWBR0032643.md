@@ -4,7 +4,7 @@ identifier: "BWBR0032643"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032643"
 soort: "AMvB"
@@ -124,27 +124,27 @@ Wijzigt het Uitvoeringsbesluit Douane- en Accijnswet BES.
 
 ##### Artikel XXI
 
-Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
+Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-02-22&g=2013-02-22), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
 
 ##### Artikel XXII
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 
-- a. [artikel II, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=II&z=2013-01-01&g=2013-01-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=III&z=2013-01-01&g=2013-01-01) terugwerken tot en met 1 januari 2012;
+- a. [artikel II, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=II&z=2013-02-22&g=2013-02-22), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=III&z=2013-02-22&g=2013-02-22) terugwerken tot en met 1 januari 2012;
 
-- b. [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), terugwerkt tot en met 1 september 2012;
+- b. [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-02-22&g=2013-02-22), terugwerkt tot en met 1 september 2012;
 
-- c. [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-01-01&g=2013-01-01), en [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XXI&z=2013-01-01&g=2013-01-01) terugwerken tot en met 1 november 2012;
+- c. [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-02-22&g=2013-02-22), en [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XXI&z=2013-02-22&g=2013-02-22) terugwerken tot en met 1 november 2012;
 
-- d. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=IV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.
+- d. [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=IV&z=2013-02-22&g=2013-02-22), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.
 
-2. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=V&z=2013-01-01&g=2013-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werkt terug tot en met 1 januari 2013.
+2. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=V&z=2013-02-22&g=2013-02-22) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werkt terug tot en met 1 januari 2013.
 
-3. In afwijking van het eerste lid treedt [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. In afwijking van het eerste lid treedt [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-02-22&g=2013-02-22), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-4. In afwijking van het eerste lid treedt [artikel VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen van het te wijzigen artikel verschillend kan worden vastgesteld.
+4. In afwijking van het eerste lid treedt [artikel VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VIII&z=2013-02-22&g=2013-02-22), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen van het te wijzigen artikel verschillend kan worden vastgesteld.
 
-5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XII&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 juli 2013.
+5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=XII&z=2013-02-22&g=2013-02-22), in werking met ingang van 1 juli 2013.
 
 Op de voordracht van de Staatssecretaris van Financiën van 26 november 2012, DV/2012/459;
 
