@@ -4,7 +4,7 @@ identifier: "BWBR0030188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-06"
-last_updated: "2013-01-01"
+last_updated: "2013-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030188"
 soort: "ministeriele-regeling"
@@ -54,7 +54,19 @@ In deze regeling wordt verstaan onder:
 
 - e. **casuïstieksectie:** een sectie van de Raad waarin beslissingen op de aanvragen, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4), alsmede de adviezen, bedoeld in [artikel 4, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) worden voorbereid;
 
-- f. **bestuurssectie:** een sectie van de Raad waarin onderwerpen die niet direct samenhangen met beleid of casuïstiek worden voorbereid.
+- f. **bestuurssectie:** een sectie van de Raad waarin onderwerpen die niet direct samenhangen met beleid of casuïstiek worden voorbereid;
+
+- g. **product:** een product als bedoeld in de bijlage bij deze regeling;
+
+- h. **begrote productie:** het geraamde aantal te realiseren eenheden product;
+
+- i. **realisatie productie:** het aantal tot stand gekomen eenheden product;
+
+- j. **tarief:** de vergoeding per eenheid product;
+
+- k. **normbegroting:** de begroting die is opgesteld op grond van genormeerde financiële uitgangspunten;
+
+- l. **normproductie:** het aantal eenheden product dat wordt gehanteerd bij de vaststelling van het tarief.
 
 ##### Artikel 2
 
@@ -82,17 +94,19 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 ##### Artikel 4
 
-1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2013-01-01), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
+1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
 
-2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2013-01-01), bestaat uit de werkelijk gemaakte kosten.
+2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2013-02-26), bestaat uit de werkelijk gemaakte kosten.
 
 ##### Artikel 5
 
-1. De voorzitter van de Raad wordt naar rato bezoldigd volgens het hoogste salarisnummer behorende bij schaal 17 als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), uitgaande van een gemiddelde arbeidsduur van 20 uur per week.
+1. De voorzitter van de Raad wordt naar rato bezoldigd volgens het hoogste salarisnummer behorende bij schaal 17 als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), uitgaande van een gemiddelde arbeidsduur van 18 uur per week.
 
-2. De plaatsvervangend voorzitter van de Raad wordt naar rato bezoldigd volgens het hoogste salarisnummer behorende bij schaal 16 als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), uitgaande van een gemiddelde arbeidsduur van 12 uur per week.
+2. De plaatsvervangend voorzitter van de Raad wordt naar rato bezoldigd volgens het hoogste salarisnummer behorende bij schaal 16 als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), uitgaande van een gemiddelde arbeidsduur van 9 uur per week.
 
-3. De leden van de Raad, niet zijnde de voorzitter of de plaatsvervangend voorzitter, ontvangen voor hun werkzaamheden voor de Raad een schadeloosstelling. Gebaseerd op een uurloon dat is afgeleid van het hoogste salarisnummer behorende bij schaal 14, als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), bedraagt deze voor:
+3. De voorzitter en plaatsvervangend voorzitter van de Raad hebben recht op een vakantie-uitkering overeenkomstig de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=21) en [22 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22) en een eindejaarsuitkering overeenkomstig [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=20a) van dat besluit.
+
+4. De leden van de Raad, niet zijnde de voorzitter of de plaatsvervangend voorzitter, ontvangen voor hun werkzaamheden voor de Raad een schadeloosstelling. Gebaseerd op een uurloon dat is afgeleid van het hoogste salarisnummer behorende bij schaal 14, als vermeld in [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), bedraagt deze voor:
 
 - a. de werkzaamheden verbonden aan een plenaire vergadering € 393,68;
 
@@ -106,15 +120,15 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 - f. andere dan de onder a tot en met e genoemde werkzaamheden € 39,37 per uur.
 
-4. Indien een van de in het derde lid bedoelde leden de voorzitter vervangt bij:
+5. Indien een van de in het derde lid bedoelde leden de voorzitter vervangt bij:
 
 - a. een plenaire vergadering, wordt het in dat lid onder a genoemde bedrag verhoogd met een toeslag van 30 procent;
 
 - b. een vergadering van de casuïstieksectie, wordt het in dat lid onder b of c genoemde bedrag verhoogd met een toeslag van 10 procent.
 
-5. De bedragen genoemd in het derde lid worden aangepast overeenkomstig de aanpassing van de salarissen van de rijksambtenaren.
+6. De bedragen genoemd in het derde lid worden aangepast overeenkomstig de aanpassing van de salarissen van de rijksambtenaren.
 
-6. De leden van de Raad hebben recht op een vergoeding voor reiskosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+7. De leden van de Raad hebben recht op een vergoeding voor reiskosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
 
 ##### Artikel 6
 
@@ -132,7 +146,7 @@ De Sociale verzekeringsbank zendt de minister jaarlijks vóór 1 oktober een beg
 
 ##### Artikel 8
 
-In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2011-07-01&g=2013-01-01), worden de volgende onderdelen onderscheiden:
+In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), worden de volgende onderdelen onderscheiden:
 
 - a. de reguliere kosten;
 
@@ -142,15 +156,21 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 - 2. kosten verbonden aan de vergoeding voor verificatiewerkzaamheden door het Nederlands Instituut voor Oorlogsdocumentatie, de Stichting Administratie Indonesische Pensioenen en het Nederlandse Rode Kruis;
 
-- 3. kosten verbonden aan keuringen door medisch specialisten en het opvragen van medische informatie;
+- 3. kosten verbonden aan keuringen door medisch specialisten, het opvragen van medische informatie, buitenlandse posten, door derden verrichtte incidentele werkzaamheden en proceskosten;
 
-- 4. kosten projecten.
+- 4. kosten projecten;
+
+- 5. kosten verbonden aan het extern beheer van de informatie en communicatie technologie;
+
+- 6. kosten verbonden aan de afbouw van de Afdeling Verzetsdeelnemers en Oorlogsgetroffenen;
+
+- 7. kosten verbonden aan de ondersteuning van de Raad.
 
 ##### Artikel 9
 
-1. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdelen a, en b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2013-01-01), een door de minister jaarlijks voor 1 december vastgesteld bedrag.
+1. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit een door de minister jaarlijks vastgesteld bedrag.
 
-2. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdeel b, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2013-01-01), een vergoeding van de werkelijk gemaakte kosten.
+2. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 1, 2, 3, 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten.
 
 ##### Artikel 10
 
@@ -162,9 +182,7 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 ##### Artikel 11
 
-1. Ten behoeve van de opbouw van de egalisatiereserve ontvangt de Sociale verzekeringsbank in 2011 een bijdrage van € 500 000. Indien uit de jaarrekening 2011 blijkt dat de egalisatiereserve per 31 december 2011 hoger is dan 10% van de vergoeding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2013-01-01), stort de Sociale verzekeringsbank het meerdere in 2012 terug.
-
-2. Indien de egalisatiereserve per 31 december 2011 gelijk is aan 10% van de vergoeding bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2013-01-01), wordt er in 2012 geen bijdrage aan de opbouw van de egalisatiereserve uitgekeerd. Indien de egalisatiereserve per 31 december 2011 lager is dan 10% van de vergoeding bedoeld in artikel 9, eerste lid, wordt een bijdrage uitgekeerd die de egalisatiereserve per 31 december 2011 aanvult tot maximaal 10% van de vergoeding, bedoeld in artikel 9, eerste lid, met dien verstande dat de bijdrage aan de egalisatiereserve in 2012 maximaal € 500 000 bedraagt.
+De egalisatiereserve per 31 december van enig jaar mag niet meer bedragen dan 10% van de laatste vaststelling van de bijdragen bedoeld in [artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8e&z=2013-02-26&g=2013-02-26).
 
 ##### Artikel 12
 
@@ -206,7 +224,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-1. Op basis van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-01-01), stelt de minister ten behoeve van de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-01-01), een normbegroting vast. De minister kan kosten aanwijzen die niet onder de normbegroting vallen.
+1. Op basis van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), stelt de minister ten behoeve van de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), een normbegroting vast. De minister kan kosten aanwijzen die niet onder de normbegroting vallen.
 
 2. Op basis van de normbegroting stelt de minister per product een tarief vast.
 
@@ -222,7 +240,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8c
 
-1. De bijdrage in de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-01-01), bestaat uit de som van de per product volgens de navolgende formule berekende bedragen:
+1. De bijdrage in de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat uit de som van de per product volgens de navolgende formule berekende bedragen:
 
 Pb x T.
 
@@ -232,29 +250,29 @@ In deze formule is:
 
 - T:. het tarief.
 
-2. In afwijking van het eerste lid kan de minister, na overleg met de Sociale verzekeringsbank, voor een naar aard te specificeren aantal eenheden van de begrote productie van een product, welke zich gezien de daaraan verbonden werklast en kosten onderscheiden van de gemiddelde werklast en kosten op basis waarvan het tarief, genoemd in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-01-01), is vastgesteld, de bijdrage in de kosten op een andere wijze vaststellen. In de formule, genoemd in het eerste lid, wordt daartoe Pb verlaagd met het aantal eenheden waarvoor de bijdrage op een andere wijze wordt vastgesteld.
+2. In afwijking van het eerste lid kan de minister, na overleg met de Sociale verzekeringsbank, voor een naar aard te specificeren aantal eenheden van de begrote productie van een product, welke zich gezien de daaraan verbonden werklast en kosten onderscheiden van de gemiddelde werklast en kosten op basis waarvan het tarief, genoemd in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-02-26), is vastgesteld, de bijdrage in de kosten op een andere wijze vaststellen. In de formule, genoemd in het eerste lid, wordt daartoe Pb verlaagd met het aantal eenheden waarvoor de bijdrage op een andere wijze wordt vastgesteld.
 
 ##### Artikel 8d
 
-De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01), kan in de loop van enig jaar worden aangepast indien de ontwikkeling van de lonen of prijzen daartoe aanleiding geven.
+De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), kan in de loop van enig jaar worden aangepast indien de ontwikkeling van de lonen of prijzen daartoe aanleiding geven.
 
 ##### Artikel 8e
 
-1. De minister beslist na de indiening van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-01-01), over de goedkeuring van deze begroting en doet de Sociale verzekeringsbank voor 1 december een vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01) toekomen.
+1. De minister beslist na de indiening van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), over de goedkeuring van deze begroting en doet de Sociale verzekeringsbank voor 1 december een vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26) toekomen.
 
-2. De vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01), is voorlopig.
+2. De vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), is voorlopig.
 
-3. De vaststelling van de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01), is definitief.
+3. De vaststelling van de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), is definitief.
 
-4. Met betrekking tot de bijdrage bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01), wordt in ieder geval medegedeeld de begrote productie en, voor zover van toepassing, het aantal eenheden waarop het bepaalde in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01), van toepassing is en de wijze waarop de bijdrage zal worden vastgesteld.
+4. Met betrekking tot de bijdrage bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), wordt in ieder geval medegedeeld de begrote productie en, voor zover van toepassing, het aantal eenheden waarop het bepaalde in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), van toepassing is en de wijze waarop de bijdrage zal worden vastgesteld.
 
-5. Met betrekking tot de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01), wordt in ieder geval het door de minister vastgestelde bedrag medegedeeld.
+5. Met betrekking tot de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), wordt in ieder geval het door de minister vastgestelde bedrag medegedeeld.
 
 ##### Artikel 8f
 
-1. Na ontvangst van de bescheiden, genoemd in [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), worden de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01), definitief vastgesteld.
+1. Na ontvangst van de bescheiden, genoemd in [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), worden de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), definitief vastgesteld.
 
-2. De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-01-01), wordt verhoogd dan wel verlaagd met de som van de per product volgens de navolgende formule berekende bedragen:
+2. De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), wordt verhoogd dan wel verlaagd met de som van de per product volgens de navolgende formule berekende bedragen:
 
 (Pr – Pb)T.
 
@@ -270,15 +288,15 @@ In deze formule is:
 
 ##### Artikel 9a
 
-De minister kan op verzoek van de Sociale verzekeringsbank de [artikelen 8a tot en met 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-01-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-01-01), buiten toepassing laten of daarvan afwijken voor zover strikte toepassing gelet op het belang dat deze artikelen beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+De minister kan op verzoek van de Sociale verzekeringsbank de [artikelen 8a tot en met 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-02-26) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), buiten toepassing laten of daarvan afwijken voor zover strikte toepassing gelet op het belang dat deze artikelen beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling Wuvo.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-01-01) van de Bekostigingsregeling Wuvo
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-02-26) van de Bekostigingsregeling Wuvo
 
-Onder product als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-01-01), wordt verstaan:
+Onder product als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-02-26), wordt verstaan:
 
 ### 1. Een eerste aanvraag
 
