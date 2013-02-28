@@ -4,7 +4,7 @@ identifier: "BWBR0030500"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-02-28"
-last_updated: "2012-12-20"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030500"
 soort: "zbo"
@@ -45,6 +45,8 @@ Gelet op de [artikelen 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&arti
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
@@ -69,7 +71,7 @@ In deze beschikking wordt verstaan onder:
 
 1. Aan de stichting wordt voor de duur van drie jaar en drie maanden, te rekenen van 1 oktober 2011 tot en met 31 december 2014 vergunning verleend tot het organiseren van instantloterijen.
 
-2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=3&z=2012-12-20&g=2012-12-20) vervatte voorschriften verbonden.
+2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=3&z=2013-02-28&g=2013-02-28) vervatte voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -125,7 +127,7 @@ De stichting is gerechtigd tot het organiseren van instantloterijen ten behoeve 
 
 - b. de loten worden door deze derde om niet uitgegeven;
 
-- c. de loten mogen door deze derde niet worden uitgegeven via de inrichtingen als genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=7&z=2012-12-20&g=2012-12-20).
+- c. de loten mogen door deze derde niet worden uitgegeven via de inrichtingen als genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=7&z=2013-02-28&g=2013-02-28).
 
 ##### Artikel 9
 
@@ -191,7 +193,7 @@ Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3
 
 - b. voor 72,46% aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie, gevestigd te Arnhem.
 
-3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar dient de stichting de gehele afdracht over dat kalenderjaar te hebben afgedragen aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=16&z=2012-12-20&g=2012-12-20), bedoelde jaarrekening.
+3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar dient de stichting de gehele afdracht over dat kalenderjaar te hebben afgedragen aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=16&z=2013-02-28&g=2013-02-28), bedoelde jaarrekening.
 
 ##### Artikel 16
 
@@ -209,7 +211,7 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de staat
 
 ##### Artikel 18
 
-De kosten verbonden aan de controle ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=5&z=2012-12-20&g=2012-12-20), de goedkeuring en controle ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=11&z=2012-12-20&g=2012-12-20), en het onderzoek als bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=16&z=2012-12-20&g=2012-12-20) zijn voor rekening van de stichting.
+De kosten verbonden aan de controle ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=5&z=2013-02-28&g=2013-02-28), de goedkeuring en controle ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=11&z=2013-02-28&g=2013-02-28), en het onderzoek als bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030500&artikel=16&z=2013-02-28&g=2013-02-28) zijn voor rekening van de stichting.
 
 ##### Artikel 19
 
