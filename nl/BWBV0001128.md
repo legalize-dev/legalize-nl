@@ -4,7 +4,7 @@ identifier: "BWBV0001128"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-03-01"
-last_updated: "1996-03-01"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001128"
 soort: "verdrag"
@@ -37,13 +37,13 @@ entry_into_force: "1996-03-01"
 
 De Staten die Partij zijn bij dit Verdrag, hierna te noemen de „Verdragsluitende Partijen";
 
-De groeiende vraag erkennend wat het radiofrequentiespectrum betreft en de noodzaak optimaal gebruik te maken van deze schaarse natuurlijke hulpbron;
+Vastbesloten een permanente instelling zonder winstoogmerk op te richten die de Europese Conferentie van PTT-administraties, hierna te noemen de „CEPT", moet bijstaan in de verrichting van haar taken met betrekking tot het intensiveren van de betrekkingen tussen haar Leden, het bevorderen van hun samenwerking en het bijdragen aan het creëren van een dynamische markt op het gebied van postale en elektronische communicatie in Europa,
 
-Derhalve onderstrepend dat de huidige mechanismen, ingesteld door de Europese Conferentie van PTT-administraties, hierna te noemen de „CEPT", moeten worden versterkt en toegerust met de noodzakelijke permanente middelen om lange-termijnanalyses te kunnen maken van de behoeften aan frequenties, gericht op een optimaal gebruik van het frequentiespectrum, daarbij rekening houdend met de actuele behoeften van diensten en gebruikers in het licht van de ontwikkelingen in de industrie en het vastleggen van normen;
-
-Vastbesloten een permanente instelling zonder winstoogmerk op te richten, die het Europees Comité voor Radiocommunicatie van de CEPT, hierna te noemen de „ECR", moet bijstaan in de verrichting van haar taken met betrekking tot het te voeren beleid inzake radiocommunicatie en de coördinatie van de regelgeving betreffende frequenties en technische aangelegenheden van het radioverkeer, met inbegrip van ruimtecommunicatie;
+Vaststellend dat dit Verdrag de gewijzigde tekst vormt van het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie en dat het Bureau dat bij dit Verdrag wordt opgericht de voormalige verantwoordelijkheden en taken van het Europees Bureau voor Radiocommunicatie (EBR) en het Europees Bureau voor Telecommunicatie (ETO) op zich neemt,
 
 Zijn het volgende overeengekomen:
+
+Voor inwerkingtreding zie ook Trb. 1997/286.
 
 ##### Artikel 1. Oprichting van het EBR
 
