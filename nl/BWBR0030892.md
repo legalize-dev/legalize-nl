@@ -4,7 +4,7 @@ identifier: "BWBR0030892"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2012-01-01"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030892"
 soort: "AMvB"
@@ -106,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4. Beheer van de registers
 
-1. Ten behoeve van de verantwoordelijken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2012-01-01&g=2012-01-01), wijst Onze Minister een bewerker in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan.
+1. Ten behoeve van de verantwoordelijken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=1&artikel=3&z=2013-03-01&g=2013-03-01), wijst Onze Minister een bewerker in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan.
 
 2. Bij de bewerker berust in ieder geval het beheer van de registers, waarbij zorg gedragen wordt voor een goede beschikbaarheid, betrouwbaarheid, werking en beveiliging van de registers.
 
@@ -164,13 +164,13 @@ Hebben goedgevonden en verstaan:
 
 - f. een risico-inventarisatie als bedoeld in [artikel 1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51).
 
-4. De gegevens die bij de aanvraag worden verstrekt dan wel op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2012-01-01&g=2012-01-01) worden gemeld, worden aan het college verstrekt door opname in het door Onze Minister vast te stellen formulier.
+4. De gegevens die bij de aanvraag worden verstrekt dan wel op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2013-03-01&g=2013-03-01) worden gemeld, worden aan het college verstrekt door opname in het door Onze Minister vast te stellen formulier.
 
 ##### Artikel 6. In het register kinderopvang op te nemen gegevens
 
 In het register kinderopvang neemt het college onder het unieke registratienummer de volgende gegevens op:
 
-- a. het KvK-nummer, het burgerservicenummer, het vestigingsnummer en de andere gegevens, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01);
+- a. het KvK-nummer, het burgerservicenummer, het vestigingsnummer en de andere gegevens, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2013-03-01&g=2013-03-01);
 
 - b. het adres en telefoonnummer van de vestiging, of het adres waar de opvang door de gastouder plaatsvindt en het woonadres en telefoonnummer van de gastouder;
 
@@ -182,7 +182,7 @@ In het register kinderopvang neemt het college onder het unieke registratienumme
 
 - f. de datum met ingang waarvan de exploitatie plaatsvindt, bedoeld in [artikel 1.46, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.46);
 
-- g. de datum van de wijziging van gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2012-01-01&g=2012-01-01), vijfde lid;
+- g. de datum van de wijziging van gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2013-03-01&g=2013-03-01), vijfde lid;
 
 - h. in geval van verwijdering uit het register kinderopvang: vermelding van deze verwijdering, alsmede de datum van deze verwijdering;
 
@@ -192,7 +192,7 @@ In het register kinderopvang neemt het college onder het unieke registratienumme
 
 ##### Artikel 7. Wijziging verstrekte gegevens
 
-1. Indien de gegevens, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), wijzigen doet de houder van het kindercentrum of het gastouderbureau hiervan onverwijld mededeling aan het college met het verzoek deze aan te passen.
+1. Indien de gegevens, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2013-03-01&g=2013-03-01), wijzigen doet de houder van het kindercentrum of het gastouderbureau hiervan onverwijld mededeling aan het college met het verzoek deze aan te passen.
 
 2. Het college beoordeelt na een verzoek tot aanpassing als bedoeld in het eerste lid in hoeverre een onderzoek als bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of ander onderzoek noodzakelijk is voordat besloten wordt over aanpassing van de gegevens met betrekking tot de kinderopvangvoorziening.
 
@@ -204,7 +204,7 @@ In het register kinderopvang neemt het college onder het unieke registratienumme
 
 6. Indien uit onderzoek als bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of uit ander onderzoek is gebleken dat wijziging van gegevens of verwijdering als bedoeld in dit artikel noodzakelijk is, kan het college daartoe ambtshalve besluiten.
 
-7. Indien de houder van een kindercentrum of van een gastouderbureau wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van dat kindercentrum of gastouderbureau in het register kinderopvang aan te passen met ingang van die datum. Het college behandelt dit verzoek om aanpassing als een aanvraag tot exploitatie van de kinderopvangvoorziening door de toekomstige houder als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de kinderopvangvoorziening met de status geregistreerd en met ongewijzigd uniek registratienummer in het register ingeschreven staan. Na een negatieve beschikking wordt de kinderopvangvoorziening uit het register kinderopvang verwijderd met onmiddellijke ingang indien de nieuwe houder de voorziening al exploiteert of met ingang van de datum van wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
+7. Indien de houder van een kindercentrum of van een gastouderbureau wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van dat kindercentrum of gastouderbureau in het register kinderopvang aan te passen met ingang van die datum. Het college behandelt dit verzoek om aanpassing als een aanvraag tot exploitatie van de kinderopvangvoorziening door de toekomstige houder als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=5&z=2013-03-01&g=2013-03-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de kinderopvangvoorziening met de status geregistreerd en met ongewijzigd uniek registratienummer in het register ingeschreven staan. Na een negatieve beschikking wordt de kinderopvangvoorziening uit het register kinderopvang verwijderd met onmiddellijke ingang indien de nieuwe houder de voorziening al exploiteert of met ingang van de datum van wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
 
 8. Indien het adres van een vestiging van een kindercentrum wijzigt, en daarmee de opvanglocatie, verzoekt de houder voorafgaand aan de datum van deze wijziging aan het college de vestiging uit het register kinderopvang te verwijderen met ingang van de datum van de wijziging en dient de houder voor de nieuwe opvanglocatie een nieuwe aanvraag tot exploitatie in.
 
@@ -216,7 +216,7 @@ In het register kinderopvang neemt het college onder het unieke registratienumme
 
 - a. op verzoek van de houder;
 
-- b. indien is gebleken dat de houder niet langer de kinderopvangvoorziening exploiteert, zonder dat er een aanpassingsverzoek als bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2012-01-01&g=2012-01-01), is ingediend;
+- b. indien is gebleken dat de houder niet langer de kinderopvangvoorziening exploiteert, zonder dat er een aanpassingsverzoek als bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=7&z=2013-03-01&g=2013-03-01), is ingediend;
 
 - c. indien uit onderzoek als bedoeld in [artikel 1.62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of anderszins is gebleken dat de houder naar verwachting niet, dan wel niet langer voldoet aan de bij en krachtens [Hoofdstuk I, Afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften.
 
@@ -236,11 +236,13 @@ In het register kinderopvang neemt het college onder het unieke registratienumme
 
 ##### Artikel 9. Verstrekking gegevens uit register kinderopvang
 
-1. De gegevens, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01), die in het register kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd, met uitzondering van burgerservicenummers, het woonadres van gastouders, voor zover op dat adres geen voorziening voor gastouderopvang gevestigd is, en het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijke persoon is.
+1. De gegevens, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=6&z=2013-03-01&g=2013-03-01), die in het register kinderopvang zijn opgenomen kunnen door een ieder worden geraadpleegd, met uitzondering van burgerservicenummers, het woonadres van gastouders, voor zover op dat adres geen voorziening voor gastouderopvang gevestigd is, en het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijke persoon is.
 
-2. Na verwijdering van een kinderopvangvoorziening kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=8&z=2012-01-01&g=2012-01-01), uitsluitend worden geraadpleegd: de naam en het adres van de vestiging en het unieke registratienummer van de kinderopvangvoorziening, de status «niet meer geregistreerd» en de datum van ingang van deze status alsmede de daaraan voorafgaande datum van inschrijving.
+2. Na verwijdering van een kinderopvangvoorziening kunnen door een ieder gedurende een periode van zeven jaren na de datum van de verwijdering, bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=2&artikel=8&z=2013-03-01&g=2013-03-01), uitsluitend worden geraadpleegd: de naam en het adres van de vestiging en het unieke registratienummer van de kinderopvangvoorziening, de status «niet meer geregistreerd» en de datum van ingang van deze status alsmede de daaraan voorafgaande datum van inschrijving.
 
 3. De gegevens die verwerkt worden in het register kinderopvang worden verstrekt aan de Belastingdienst/Toeslagen, voor zover de kennisneming daarvan noodzakelijk is voor de uitvoering van de Algemene wet inkomensafhankelijke regelingen en aan de rijksbelastingdienst voor de heffing of invordering van enige rijksbelasting.
+
+4. De gegevens van de houder die worden verwerkt in het register kinderopvang, worden verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen om te kunnen bepalen welke personen werkzaam zijn in de kinderopvang.
 
 ##### Artikel 10. Bewaartermijn gegevens register kinderopvang
 
@@ -274,13 +276,13 @@ De gegevens van een kinderopvangvoorziening in het register kinderopvang worden 
 
 2. Ten behoeve van het onderzoek door de toezichthouder, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), verstrekt de aanvrager aan het college een kopie van de verklaring omtrent het gedrag van de houder alsmede een kopie van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van de houder of van degene die namens de houder de aanvraag indient.
 
-3. De gegevens die bij de aanvraag worden verstrekt dan wel op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01) worden gemeld, worden aan het college verstrekt door opname in het door Onze Minister vast te stellen formulier.
+3. De gegevens die bij de aanvraag worden verstrekt dan wel op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2013-03-01&g=2013-03-01) worden gemeld, worden aan het college verstrekt door opname in het door Onze Minister vast te stellen formulier.
 
 ##### Artikel 12. In het register peuterspeelzaalwerk op te nemen gegevens
 
 In het register peuterspeelzaalwerk neemt het college ten aanzien van elke peuterspeelzaal de volgende gegevens op:
 
-- a. het KvK-nummer, het burgerservicenummer, het vestigingsnummer en de andere gegevens, genoemd in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2012-01-01&g=2012-01-01);
+- a. het KvK-nummer, het burgerservicenummer, het vestigingsnummer en de andere gegevens, genoemd in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2013-03-01&g=2013-03-01);
 
 - b. het adres en telefoonnummer van de peuterspeelzaal;
 
@@ -288,7 +290,7 @@ In het register peuterspeelzaalwerk neemt het college ten aanzien van elke peute
 
 - d. de datum met ingang waarvan de exploitatie plaatsvindt, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.3);
 
-- e. de datum van de wijziging van gegevens, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01);
+- e. de datum van de wijziging van gegevens, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2013-03-01&g=2013-03-01);
 
 - f. in geval van verwijdering van de peuterspeelzaal uit het register peuterspeelzaalwerk: vermelding van deze verwijdering, alsmede de datum van deze verwijdering;
 
@@ -298,13 +300,13 @@ In het register peuterspeelzaalwerk neemt het college ten aanzien van elke peute
 
 ##### Artikel 13. Wijziging verstrekte gegevens
 
-1. Indien de gegevens, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2012-01-01&g=2012-01-01), wijzigen doet de houder hiervan onverwijld mededeling aan het college met het verzoek deze aan te passen.
+1. Indien de gegevens, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2013-03-01&g=2013-03-01), wijzigen doet de houder hiervan onverwijld mededeling aan het college met het verzoek deze aan te passen.
 
 2. Indien het college besluit tot aanpassing naar aanleiding van een verzoek tot aanpassing, stelt het college in de beschikking de datum van ingang van de wijzigingen vast. [Artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.3) is van overeenkomstige toepassing.
 
 3. Indien uit onderzoek als bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) of uit ander onderzoek is gebleken dat wijziging van gegevens of verwijdering van de peuterspeelzaal als bedoeld in dit artikel noodzakelijk is, kan het college daartoe ambtshalve besluiten.
 
-4. Indien de houder van een peuterspeelzaal wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van de peuterspeelzaal in het register peuterspeelzaalwerk aan te passen met ingang van die datum. Het college behandelt dit verzoek tot aanpassing als een aanvraag tot exploitatie van de peuterspeelzaal door de toekomstige houder als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2012-01-01&g=2012-01-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de peuterspeelzaal met de status geregistreerd in het register peuterspeelzaalwerk ingeschreven staan. Na een negatieve beschikking wordt deze peuterspeelzaal uit het register verwijderd met onmiddellijke ingang indien de nieuwe houder de peuterspeelzaal al exploiteert of met ingang van de datum van de wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
+4. Indien de houder van een peuterspeelzaal wijzigt, verzoeken de bestaande en de toekomstige houder voorafgaand aan de datum van deze wijziging gezamenlijk aan het college, de houdergegevens van de peuterspeelzaal in het register peuterspeelzaalwerk aan te passen met ingang van die datum. Het college behandelt dit verzoek tot aanpassing als een aanvraag tot exploitatie van de peuterspeelzaal door de toekomstige houder als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=11&z=2013-03-01&g=2013-03-01), waarbij het college bepaalt waarop het onderzoek, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), betrekking heeft. Vanaf de datum van deze aanvraag tot de datum van de beschikking op deze aanvraag en na een positieve beschikking blijft de peuterspeelzaal met de status geregistreerd in het register peuterspeelzaalwerk ingeschreven staan. Na een negatieve beschikking wordt deze peuterspeelzaal uit het register verwijderd met onmiddellijke ingang indien de nieuwe houder de peuterspeelzaal al exploiteert of met ingang van de datum van de wijziging van de houder in het handelsregister, indien die wijziging nog niet heeft plaatsgevonden.
 
 5. Indien het adres van een peuterspeelzaal wijzigt, en daarmee de locatie waarop het peuterspeelzaalwerk plaatsvindt, verzoekt de houder voorafgaand aan de datum van deze wijziging aan het college de peuterspeelzaal uit het register peuterspeelzaalwerk te verwijderen met ingang van de datum van de wijziging en dient de houder voor de nieuwe locatie een nieuwe aanvraag tot exploitatie in.
 
@@ -316,7 +318,7 @@ In het register peuterspeelzaalwerk neemt het college ten aanzien van elke peute
 
 - a. op verzoek van de houder;
 
-- b. indien is gebleken dat de houder niet langer de peuterspeelzaal exploiteert, zonder dat er een verzoek tot aanpassing als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2012-01-01&g=2012-01-01), is ingediend, of
+- b. indien is gebleken dat de houder niet langer de peuterspeelzaal exploiteert, zonder dat er een verzoek tot aanpassing als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=13&z=2013-03-01&g=2013-03-01), is ingediend, of
 
 - c. indien uit onderzoek als [bedoeld in artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) of anderszins is gebleken dat de houder naar verwachting niet dan wel niet langer voldoet aan de bij en krachtens [hoofdstuk 2, afdeling 2, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften.
 
@@ -332,9 +334,11 @@ In het register peuterspeelzaalwerk neemt het college ten aanzien van elke peute
 
 ##### Artikel 15. Verstrekking gegevens uit register peuterspeelzaalwerk
 
-1. De gegevens, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=12&z=2012-01-01&g=2012-01-01), die in het register peuterspeelzaalwerk zijn opgenomen, kunnen door een ieder worden geraadpleegd, met uitzondering van het burgerservicenummer en woonadres van de houder van een peuterspeelzaal, wanneer die houder een natuurlijke persoon is.
+1. De gegevens, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&hoofdstuk=3&artikel=12&z=2013-03-01&g=2013-03-01), die in het register peuterspeelzaalwerk zijn opgenomen, kunnen door een ieder worden geraadpleegd, met uitzondering van het burgerservicenummer en woonadres van de houder van een peuterspeelzaal, wanneer die houder een natuurlijke persoon is.
 
 2. Na verwijdering van een peuterspeelzaal kunnen door een ieder gedurende een periode van zeven jaren na de datum van deze verwijdering uitsluitend worden geraadpleegd: de naam en het adres van de peuterspeelzaal, de status «niet meer geregistreerd», de datum van ingang van deze status en de daaraan voorafgaande datum van inschrijving.
+
+3. De gegevens van de houder die verwerkt worden in het register peuterspeelzaalwerk, worden verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen om te kunnen bepalen welke personen werkzaam zijn bij een peuterspeelzaal.
 
 ##### Artikel 16. Bewaartermijn gegevens register peuterspeelzaalwerk
 
@@ -357,5 +361,27 @@ Dit besluit treedt in werking met ingang van 1 januari 2012.
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit registers kinderopvang en peuterspeelzaalwerk.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a. Verstrekking gegevens ten behoeve van continue screening in de kinderopvang
+
+Gegevens van personen als bedoeld in de [artikelen 1.50](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56) en [1.56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), die op grond van [artikel 5.9, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.9) van het Uitvoeringsinstituut werknemersverzekeringen zijn verkregen, worden verstrekt aan Onze Minister van Veiligheid en Justitie ten behoeve van de continue controle op nieuwe gegevens in de justitiële documentatie voor deze personen.
+
+##### Artikel 9b. Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
+
+Indien het college op basis van een melding als bedoeld in [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22b) van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is bij een kinderopvangvoorziening of een huisgenoot van de gastouder van 18 jaar en ouder niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder, de persoon die werkzaam is bij een kinderopvangvoorziening of de huisgenoot van de gastouder aangewezen is.
+
+### Hoofdstuk 3. Register peuterspeelzaalwerk
+
+##### Artikel 15a. Verstrekking gegevens ten behoeve van continue screening in het peuterspeelzaalwerk
+
+Gegevens van personen als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.6), die op grond van [artikel 5.9, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.9) van het Uitvoeringsinstituut werknemersverzekeringen zijn verkregen, worden verstrekt aan Onze Minister van Veiligheid en Justitie ten behoeve van de continue controle op nieuwe gegevens in de justitiële documentatie voor deze personen.
+
+##### Artikel 15b. Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
+
+Indien het college op basis van een melding als bedoeld in [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22b) van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is in een peuterspeelzaal niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder of de persoon, die werkzaam is bij de peuterspeelzaal aangewezen is.
+
+### Hoofdstuk 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
