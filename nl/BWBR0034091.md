@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -80,15 +80,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Het toe te passen tarief op de levering van diensten, genoemd in [Tabel I, onderdeel b, posten 19 en 21, behorende bij de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), is het tarief dat van kracht is op het tijdstip waarop het belastbare feit zich voordoet.
 
 ##### Artikel XIV
 
