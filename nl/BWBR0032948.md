@@ -250,25 +250,3 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 ### C. Schema opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=9), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=12), en [13 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=13), [artikel 7, eerste lid, van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7), de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9), en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10), en [artikel 19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
-
-#### § 2. Speciaal-BvL
-
-#### § 3. Vluchtuitvoering
-
-#### § 4. Bewijs van bevoegdheid en bevoegdverklaring
-
-#### § 5. Overgangsbepaling
-
-#### § 6. Wijziging van de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882)
-
-#### § 7. Slotbepalingen
-
-## Bijlage 2. bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2020-10-01&g=2020-10-01), van de Regeling Yakovlev-52 vliegtuigen
-
-### C. Schema opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
