@@ -4,7 +4,7 @@ identifier: "BWBR0005022"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2009-03-01"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005022"
 soort: "AMvB"
@@ -58,9 +58,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2009-03-01), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2009-03-01), tot een bedrag van 1400 rekeneenheden.
+1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), tot een bedrag van 1400 rekeneenheden.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2009-03-01), beperkt tot een bedrag van € 9100 per voertuig of schip.
+2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), beperkt tot een bedrag van € 9100 per voertuig of schip.
 
 ##### Artikel 3
 
