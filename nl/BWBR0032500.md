@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-02-22"
+last_updated: "2013-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 | 1.6 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma) | 5.2 |   |   |   |
 | 1.7 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   |   |   |
-| 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
+| 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (garantie scheepsnieuwbouwfinanciering) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.3 |   |   |   |
 | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** |
 | 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) (Eurostars-projecten) | 2.2 |   | 10-01 t/m 24-01 | 4.560.000 |
