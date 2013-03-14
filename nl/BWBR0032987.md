@@ -55,13 +55,3 @@ Als ambtenaren die kunnen worden belast met de tenuitvoerlegging van rechterlijk
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3
-
-Deze regeling wordt aangehaald als: Regeling tot aanwijzing van vermogenstraceerders en bijzondere opsporingsambtenaren.
-
-##### Artikel 4
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
