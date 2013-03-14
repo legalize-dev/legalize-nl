@@ -4,7 +4,7 @@ identifier: "BWBR0005022"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2013-03-01"
+last_updated: "2013-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005022"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 1. De schadevergoeding, die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 105 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=105) is beperkt tot een bedrag van:
 
-- a. € 1.000.000 per reiziger met een maximum van € 15.000.000 per gebeurtenis in geval van vervoer over de weg of over krachtens [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=1) aangewezen locaalspoorwegen, stadsspoorwegen of tramwegen;
+- a. € 1.000.000 per reiziger met een maximum van € 15.000.000 per gebeurtenis in geval van vervoer over de weg of over krachtens [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=1) aangewezen locaalspoorwegen, stadsspoorwegen of tramwegen. In geval van vervoersdiensten als bedoeld in artikel 2, eerste en derde lid, van Verordening (EU) Nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (Pb EU L 55), waarbij de schadevergoeding die de vervoerder uit hoofde van [artikel 105 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=105) is verschuldigd meer bedraagt dan € 15.000.000 per gebeurtenis en de schadevergoeding voor een reiziger meer bedraagt dan € 220.000, mag de vervoerder zijn aansprakelijkheid niet verder beperken dan tot € 220.000 per reiziger;
 
 - b. 175.000 rekeneenheden per reiziger in geval van vervoer over krachtens [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2) aangewezen hoofdspoorwegen;
 
@@ -58,9 +58,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), tot een bedrag van 1400 rekeneenheden.
+1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage is in de gevallen bedoeld in [artikel 1, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2013-03-14&g=2013-03-14), beperkt tot een bedrag van € 1500 en in het geval bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2013-03-14&g=2013-03-14), tot een bedrag van 1400 rekeneenheden. In geval van vervoersdiensten als bedoeld in artikel 2, eerste en derde lid, van Verordening (EU) Nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (Pb EU L 55) is de schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van handbagage beperkt tot een bedrag van € 1500 per stuk.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2009-03-01&g=2013-03-01), beperkt tot een bedrag van € 9100 per voertuig of schip.
+2. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is in het geval bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005022&artikel=1&z=2013-03-14&g=2013-03-14), beperkt tot een bedrag van € 9100 per voertuig of schip.
 
 ##### Artikel 3
 
