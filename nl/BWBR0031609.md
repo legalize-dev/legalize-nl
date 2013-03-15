@@ -4,7 +4,7 @@ identifier: "BWBR0031609"
 country: "nl"
 rank: "wet"
 publication_date: "2013-03-15"
-last_updated: "2013-01-01"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031609"
 soort: "wet"
@@ -65,7 +65,7 @@ Wijzigt de Wet handhaving consumentenbescherming.
 
 ##### Artikel V
 
-1. Dit lid is nog niet in werking getreden.
+1. [Artikel 3.14, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.14), zoals dit luidt met ingang van het tijdstip van inwerkingtreding van deze wet, is tot en met 24 mei 2016 niet van toepassing op een vergunning voor het gebruik van frequentieruimte die is verleend voor 25 mei 2011.
 
 2. [Artikel 3.5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.5), zoals dit luidt met ingang van het tijdstip van inwerkingtreding van deze wet, is tot en met 24 mei 2016 niet van toepassing op een vergunning voor het gebruik van frequentieruimte die is verleend voor 25 mei 2011.
 
@@ -75,7 +75,7 @@ Na inwerkingtreding van deze wet berust het [Besluit Interoperabiliteit](https:/
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Vergunningen voor het verspreiden van programma-aanbod anders dan ter uitvoering van de publieke mediaopdracht die zijn verleend of verlengd op grond van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) zoals die luidde tussen 1 januari 2009 en het tijdstip van inwerkingtreding van artikel I, onderdeel A, van het bij koninklijke boodschap van 9 april 2008 ingediende voorstel van wet houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (31 412) worden geacht te zijn getoetst aan [artikel 3.18 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) zoals dat luidde na dat tijdstip.
 
 ##### Artikel VIb
 
@@ -85,6 +85,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In het koninklijk besluit kan worden bepaald dat [artikel I, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0031609&artikel=I&z=2013-01-01&g=2013-01-01), terugwerkt tot een in dat besluit te bepalen tijdstip.
+2. In het koninklijk besluit kan worden bepaald dat [artikel I, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0031609&artikel=I&z=2013-03-15&g=2013-03-15), terugwerkt tot een in dat besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
