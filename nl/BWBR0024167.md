@@ -4,7 +4,7 @@ identifier: "BWBR0024167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2011-10-01"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024167"
 soort: "ministeriele-regeling"
@@ -102,11 +102,11 @@ De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de
 
 - d. het bewijs van bevoegdheid of bewijs van gelijkstelling, bedoeld in [artikel 2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1);
 
-- e. het journaal, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=4&z=2011-10-01&g=2011-10-01);
+- e. het journaal, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=4&z=2013-03-15&g=2013-03-15);
 
 - f. indien van toepassing: het geluidscertificaat of de geluidsverklaring, bedoeld in [artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19a);
 
-- g. indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3);
+- g. indien het luchtvaartuig is uitgerust met vast ingebouwde radioapparatuur: de vergunning voor gebruik van frequentieruimte, bedoeld in [artikel 3.13 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13);
 
 - h. bij een internationale vlucht:
 
@@ -150,7 +150,7 @@ Een vlucht met een vrije ballon tegen vergoeding wordt uitgevoerd met inachtnemi
 
 2. Het journaal vermeldt:
 
-- a. de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=4&z=2011-10-01&g=2011-10-01), bedoelde gegevens;
+- a. de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=4&z=2013-03-15&g=2013-03-15), bedoelde gegevens;
 
 - b. de meteorologische invloeden die de navigatie hebben bemoeilijkt.
 
@@ -158,7 +158,7 @@ Een vlucht met een vrije ballon tegen vergoeding wordt uitgevoerd met inachtnemi
 
 ##### Artikel 9
 
-[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=5&z=2011-10-01&g=2011-10-01) is van overeenkomstige toepassing op een vlucht met een vrije ballon tegen vergoeding.
+[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=5&z=2013-03-15&g=2013-03-15) is van overeenkomstige toepassing op een vlucht met een vrije ballon tegen vergoeding.
 
 #### § 4. Slotbepalingen
 
