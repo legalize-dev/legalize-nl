@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2008-03-03"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -54,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte door middel van de procedure op volgorde van binnenkomst of bij wijze van voorrang.
+Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte door middel van de procedure als bedoeld in [artikel 3.10, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
 ##### Artikel 3
 
 1. Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte geschiedt door middel van een daartoe strekkend formulier.
 
-2. De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij het Agentschap Telecom. Van aanvragen die betrekking hebben op openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten verstrekt de minister een afschrift aan het college.
+2. De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij het Agentschap Telecom.
 
 3. Een aanvraag voor de verlening van een vergunning voor het gebruik van frequentieruimte ten dienste van singlepoint-singlepoint-straalverbindingen, alsmede een aanvraag voor de verlening, wijziging of intrekking van een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie of voor het gebruik van frequentieruimte ten dienste van het doen van onderzoekingen kan bij het Agentschap Telecom worden ingediend langs elektronische weg met gebruikmaking van een daartoe strekkend elektronisch aanvraagformulier.
 
@@ -70,7 +70,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2008-03-03&g=2008-03-03).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2013-03-15&g=2013-03-15).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -112,7 +112,7 @@ Vervallen
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2008-03-03&g=2008-03-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&artikel=5&z=2008-03-03&g=2008-03-03) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2013-03-15&g=2013-03-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&artikel=5&z=2013-03-15&g=2013-03-15) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -126,7 +126,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 10
 
-Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte.
+Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.
 
 ## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
