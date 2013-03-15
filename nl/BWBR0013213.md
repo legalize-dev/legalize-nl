@@ -4,7 +4,7 @@ identifier: "BWBR0013213"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013213"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De apparatuur waarmee op grond van [artikel 3.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) een gebruik van frequentieruimte is toegestaan dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) voldoet aan de volgende eisen:
+1. De apparatuur waarmee op grond van [artikel 3.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) een gebruik van frequentieruimte is toegestaan dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) voldoet aan de volgende eisen:
 
 - a. de apparatuur is voorzien van een inrichting die de nummergegevens, bedoeld in [artikel 13.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) zodanig selecteert dat het selectieproces niet meer dan een plaatselijke, zeer geringe verandering van de functionaliteiten van het desbetreffende netwerk veroorzaakt;
 
@@ -80,19 +80,19 @@ In dit besluit wordt verstaan onder:
 
 - d. de apparatuur is geregistreerd bij Onze Minister.
 
-2. De apparatuur, bedoeld in het eerste lid, is opgeslagen bij een door de korpschef aangewezen onderdeel van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+2. Door of namens de korpschef of Onze Minister van Defensie wordt een plaats aangewezen voor de opslag van de apparatuur, bedoeld in het eerste lid, en wordt ervoor zorg gedragen dat deze plaats beveiligd is en uitsluitend toegankelijk is voor of onder begeleiding van daartoe geautoriseerd personeel.
 
 ##### Artikel 3
 
-Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die aan tenminste gelijkwaardige technische eisen voldoet.
+Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-03-15&g=2013-03-15) bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die aan tenminste gelijkwaardige technische eisen voldoet.
 
 ##### Artikel 4
 
-1. Bevoegd tot het gebruik van de apparatuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), is de door de korpschef aangewezen opsporingsambtenaar die is tewerkgesteld bij een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.
+1. Bevoegd tot het gebruik van de apparatuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-03-15&g=2013-03-15), is de door de korpschef of Onze Minister van Defensie aangewezen opsporingsambtenaar die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.
 
 2. De opsporingsambtenaar maakt van het gebruik van de apparatuur proces-verbaal op. Het proces-verbaal vermeldt:
 
-- a. of gebruik is gemaakt van apparatuur als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), en of de inrichting die het mogelijk maakt om telecommunicatie af te luisteren of op te nemen is uitgeschakeld en vergrendeld,
+- a. of gebruik is gemaakt van apparatuur als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2013-03-15&g=2013-03-15), en of de inrichting die het mogelijk maakt om telecommunicatie af te luisteren of op te nemen is uitgeschakeld en vergrendeld,
 
 - b. de data en de tijdstippen waarop en de plaatsen waar de apparatuur is gebruikt, en
 
@@ -122,11 +122,11 @@ Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=
 
 ##### Artikel 6
 
-1. De aanbieder achterhaalt het nummer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-01-01&g=2013-01-01), door een bewerking toe te passen op de gegevens betreffende het gebruik van het door hem aangeboden openbare telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.
+1. De aanbieder achterhaalt het nummer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-03-15&g=2013-03-15), door een bewerking toe te passen op de gegevens betreffende het gebruik van het door hem aangeboden openbare telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.
 
-2. Nadat de aanbieder het verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-01-01&g=2013-01-01), heeft ontvangen, verstrekt hij het nummer onverwijld aan de bevoegde autoriteit. De verstrekking is schriftelijk en vermeldt het nummer, dan wel indien de bewerking meer dan één nummer heeft opgeleverd, de nummers. In geval van spoed vindt de verstrekking mondeling plaats, waarna deze schriftelijk wordt bevestigd.
+2. Nadat de aanbieder het verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-03-15&g=2013-03-15), heeft ontvangen, verstrekt hij het nummer onverwijld aan de bevoegde autoriteit. De verstrekking is schriftelijk en vermeldt het nummer, dan wel indien de bewerking meer dan één nummer heeft opgeleverd, de nummers. In geval van spoed vindt de verstrekking mondeling plaats, waarna deze schriftelijk wordt bevestigd.
 
-3. De aanbieder verstrekt, in afwijking van het tweede lid, het nummer zo spoedig mogelijk indien het verzoek niet ten minste de gegevens bevat, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-01-01&g=2013-01-01).
+3. De aanbieder verstrekt, in afwijking van het tweede lid, het nummer zo spoedig mogelijk indien het verzoek niet ten minste de gegevens bevat, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2013-03-15&g=2013-03-15).
 
 ##### Artikel 7
 
