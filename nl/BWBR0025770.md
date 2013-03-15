@@ -4,7 +4,7 @@ identifier: "BWBR0025770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2011-01-01"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025770"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ entry_into_force: "2008-12-05"
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegde plaatselijke autoriteit:** de autoriteit aangeduid in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=1&z=2011-01-01&g=2011-01-01);
+- a. **bevoegde plaatselijke autoriteit:** de autoriteit aangeduid in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=1&z=2013-03-15&g=2013-03-15);
 
 - b. **IMO:** de Internationale Maritieme Organisatie van de Verenigde Naties;
 
@@ -111,7 +111,7 @@ Deze regeling is van toepassing op de scheepvaartwegen gelegen tussen de zee en:
 
 ##### Artikel 3
 
-De in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) genoemde handelingen zijn, tenzij in deze regeling anders wordt bepaald, op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) genoemde scheepvaartwegen toegestaan met betrekking tot het vervoer van gevaarlijke stoffen door een zeeschip of een tankschip, voor zover daarbij het bepaalde in deze regeling in acht wordt genomen.
+De in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) genoemde handelingen zijn, tenzij in deze regeling anders wordt bepaald, op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=2&z=2013-03-15&g=2013-03-15) genoemde scheepvaartwegen toegestaan met betrekking tot het vervoer van gevaarlijke stoffen door een zeeschip of een tankschip, voor zover daarbij het bepaalde in deze regeling in acht wordt genomen.
 
 ##### Artikel 4
 
@@ -129,7 +129,7 @@ De kapitein van een zeeschip of een tankschip is verantwoordelijk voor de nalevi
 
 ##### Artikel 6. In acht nemen IMDG-Code, IMSBC-Code, [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) en [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
 
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde handelingen worden, voor wat het vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip betreft, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, of door degene die verantwoordelijk is voor de belading van een container of een vrachtwagen die met een zeeschip wordt vervoerd, verricht met inachtneming van de bepalingen van de IMDG-Code, dan wel de bepalingen van de IMSBC-Code, en voor een zeeschip onder Nederlandse vlag met inachtneming van het bepaalde bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of bij of krachtens de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642).
+De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2013-03-15&g=2013-03-15) bedoelde handelingen worden, voor wat het vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip betreft, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, of door degene die verantwoordelijk is voor de belading van een container of een vrachtwagen die met een zeeschip wordt vervoerd, verricht met inachtneming van de bepalingen van de IMDG-Code, dan wel de bepalingen van de IMSBC-Code, en voor een zeeschip onder Nederlandse vlag met inachtneming van het bepaalde bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of bij of krachtens de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642).
 
 ##### Artikel 7. Verpakking die niet aan de eisen voldoet
 
@@ -141,7 +141,7 @@ Aan boord van een zeeschip dat beladen is, of beladen is geweest met gevaarlijke
 
 ##### Artikel 9. Aanwezigheid certificaten
 
-Aan boord van een zeeschip zijn, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) genoemde regelgeving, geldige bescheiden aanwezig, afgegeven door of vanwege de bevoegde autoriteit van de Staat waarvan het schip de vlag voert, waaruit kan worden afgeleid dat de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) bedoelde maatregelen zijn genomen.
+Aan boord van een zeeschip zijn, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2013-03-15&g=2013-03-15) genoemde regelgeving, geldige bescheiden aanwezig, afgegeven door of vanwege de bevoegde autoriteit van de Staat waarvan het schip de vlag voert, waaruit kan worden afgeleid dat de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2013-03-15&g=2013-03-15) bedoelde maatregelen zijn genomen.
 
 ##### Artikel 10. Voorkomen brandgevaar, verhalen, betreden en verlaten
 
@@ -219,19 +219,19 @@ Een zeeschip dat gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk aan 
 
 ##### Artikel 14. Overeenkomstige bepalingen voor tankschepen
 
-De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), [10, onderdelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing op een tankschip.
+De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2013-03-15&g=2013-03-15), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=9&z=2013-03-15&g=2013-03-15), [10, onderdelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=10&z=2013-03-15&g=2013-03-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=12&z=2013-03-15&g=2013-03-15) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=13&z=2013-03-15&g=2013-03-15) zijn van overeenkomstige toepassing op een tankschip.
 
 ##### Artikel 15. In acht nemen GC-Code, IGC-Code, BCH-Code en IBC-Code, [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) en [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde handelingen worden, voor wat betreft het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, verricht met inachtneming van de bepalingen van de GC-Code, de IGC-Code, de BCH-Code en de IBC-Code, en voor een tankschip onder Nederlandse vlag tevens met inachtneming van het bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642) daarenboven bepaalde.
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2013-03-15&g=2013-03-15) bedoelde handelingen worden, voor wat betreft het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, verricht met inachtneming van de bepalingen van de GC-Code, de IGC-Code, de BCH-Code en de IBC-Code, en voor een tankschip onder Nederlandse vlag tevens met inachtneming van het bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642) daarenboven bepaalde.
 
-2. In afwijking van het eerste lid, is het vervoer van vloeibaar gemaakte gassen die vallen binnen de criteria genoemd in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=2&z=2011-01-01&g=2011-01-01), daaronder begrepen de in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=2&z=2011-01-01&g=2011-01-01) met name genoemde vloeibaar gemaakte gassen, verboden.
+2. In afwijking van het eerste lid, is het vervoer van vloeibaar gemaakte gassen die vallen binnen de criteria genoemd in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=2&z=2013-03-15&g=2013-03-15), daaronder begrepen de in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=2&z=2013-03-15&g=2013-03-15) met name genoemde vloeibaar gemaakte gassen, verboden.
 
 3. In afwijking van het tweede lid, is het toegestaan na overleg met de bevoegde plaatselijke autoriteit de stoffen uit de IGC-Code met de VN-nummers 1017, 1032 en 1079 te vervoeren. De bevoegde plaatselijke autoriteit kan aan een dergelijk vervoer operationele voorschriften verbinden en er operationele beperkingen aan opleggen.
 
 ##### Artikel 16. Aanwezigheid certificaten
 
-Aan boord van een tankschip als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2011-01-01&g=2011-01-01), zijn, overeenkomstig de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2011-01-01&g=2011-01-01), genoemde regelgeving, geldige bescheiden aanwezig afgegeven door of vanwege de bevoegde autoriteit van de Staat waarvan het schip de vlag voert, waaruit kan worden afgeleid dat aan de in dat artikellid gestelde eisen wordt voldaan.
+Aan boord van een tankschip als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2013-03-15&g=2013-03-15), zijn, overeenkomstig de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2013-03-15&g=2013-03-15), genoemde regelgeving, geldige bescheiden aanwezig afgegeven door of vanwege de bevoegde autoriteit van de Staat waarvan het schip de vlag voert, waaruit kan worden afgeleid dat aan de in dat artikellid gestelde eisen wordt voldaan.
 
 ##### Artikel 17. Schoonmaken, gasvrij maken en spoelen van tanks
 
@@ -243,7 +243,7 @@ Aan boord van een tankschip als bedoeld in [artikel 15, eerste lid](https://wett
 
 ##### Artikel 18
 
-De [artikelen 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=4&z=2011-01-01&g=2011-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), [11, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=14&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2011-01-01&g=2011-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=16&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing op een Belgiëvaarder.
+De [artikelen 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=4&z=2013-03-15&g=2013-03-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=5&z=2013-03-15&g=2013-03-15), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=6&z=2013-03-15&g=2013-03-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2013-03-15&g=2013-03-15), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=9&z=2013-03-15&g=2013-03-15), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=10&z=2013-03-15&g=2013-03-15), [11, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=11&z=2013-03-15&g=2013-03-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=13&z=2013-03-15&g=2013-03-15), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=14&z=2013-03-15&g=2013-03-15), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2013-03-15&g=2013-03-15) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=16&z=2013-03-15&g=2013-03-15) zijn van overeenkomstige toepassing op een Belgiëvaarder.
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -261,9 +261,9 @@ De [artikelen 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&pa
 
 Aan een in deze regeling bedoelde toestemming kunnen door de bevoegde plaatselijke autoriteit voorschriften of beperkingen worden verbonden.
 
-## Bijlage 1. , bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2011-01-01&g=2011-01-01), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
+## Bijlage 1. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2013-03-15&g=2013-03-15), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
 
-De bevoegde plaatselijke autoriteit, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2011-01-01&g=2011-01-01), is:
+De bevoegde plaatselijke autoriteit, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2013-03-15&g=2013-03-15), is:
 
 - 1. De havenmeester van de gemeente of het havenschap, binnen welks beheersgebied de desbetreffende haven, overlaadplaats of ankerplaats is gelegen;
 
@@ -277,11 +277,11 @@ De bevoegde plaatselijke autoriteit, bedoeld in [artikel 1, onderdeel a](https:/
 
 - 6. Voor de bij het Havenschap Moerdijk in beheer zijnde havens, overlaadplaatsen en ankerplaatsen: de havenmeester van het Havenschap Moerdijk;
 
-- 7. Voor de Noordzeesluizen: de hoofdingenieur- directeur van Rijkswaterstaat Noord-Holland;
+- 7. Voor het Noordzeekanaalgebied met inbegrip van de Noordzeesluizen tot en met het afgesloten IJ: de directeur-generaal Rijkswaterstaat;
 
 - 8. Voor IJmuiden: voor de hoogovenhavens, de 1e, 2e en 3e Rijksbinnenhaven, de kade van de papierfabriek van Gelder, de Vissershaven en de Haringhaven: de burgemeester van de gemeente Velsen.
 
-## Bijlage 2. bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2011-01-01&g=2011-01-01), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
+## Bijlage 2. bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2013-03-15&g=2013-03-15), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
 
 Criteria voor vloeibaar gemaakte gassen die niet mogen worden vervoerd.
 
