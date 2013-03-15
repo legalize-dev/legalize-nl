@@ -4,7 +4,7 @@ identifier: "BWBR0009992"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-03-15"
-last_updated: "1998-12-15"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009992"
 soort: "AMvB"
@@ -148,7 +148,7 @@ Vergunningen behouden hun werkingsduur, zoals deze krachtens de Wet op de teleco
 
 ##### Artikel 10
 
-1. Een toekenning van radiofrequenties als bedoeld in [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=21) wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3).
+1. Een toekenning van radiofrequenties als bedoeld in [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=21) wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13).
 
 2. Een toekenning van radiofrequenties als bedoeld in het eerste lid behoudt haar werkingsduur, zoals deze krachtens [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=21) is bepaald.
 
