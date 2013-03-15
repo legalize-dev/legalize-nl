@@ -4,7 +4,7 @@ identifier: "BWBR0018355"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-03-15"
-last_updated: "2011-10-01"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018355"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- c. een afwijkend gebruik van de frequentieruimte: een afwijkend gebruik van de frequentieruime als bedoeld in [artikel 3.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) dat bestaat uit scannen of jammen;
+- c. een afwijkend gebruik van de frequentieruimte: een afwijkend gebruik van de frequentieruimte dat bestaat uit scannen of jammen, ter uitvoering van de taken, bedoeld in [artikel 3.22, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22);
 
 - d. scannen: het met daartoe geschikte apparatuur automatisch en herhaald systematisch aftasten van een bepaalde frequentieband teneinde informatie te vergaren met betrekking tot een bepaald nummer of bepaalde nummers in een bepaald gebied;
 
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Voor een afwijkend gebruik van de frequentieruimte is geen toestemming als bedoeld in [artikel 3.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) vereist voor zover de desbetreffende frequentieruimte ingevolge het frequentieplan als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1) is bestemd voor openbare mobiele telecommunicatiediensten en wordt voldaan aan de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2011-10-01&g=2011-10-01) van deze regeling.
+Voor een afwijkend gebruik van de frequentieruimte is geen ontheffing als bedoeld in [artikel 3.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22) vereist voor zover de desbetreffende frequentieruimte ingevolge het frequentieplan als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1) is bestemd voor openbare mobiele telecommunicatiediensten en wordt voldaan aan de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2013-03-15&g=2013-03-15) van deze regeling.
 
 ##### Artikel 3
 
@@ -79,11 +79,11 @@ Voor een afwijkend gebruik van de frequentieruimte is geen toestemming als bedoe
 
 2. Het besluit tot een afwijkend gebruik dat uit jammen bestaat, wordt voorafgaand aan de tenuitvoerlegging in ieder geval mondeling gemeld.
 
-3. Bij de melding worden de gegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2011-10-01&g=2011-10-01), en voor zover mogelijk, tevens de te hanteren vermogens van de te gebruiken apparatuur verstrekt.
+3. Bij de melding worden de gegevens, bedoeld in [artikel 3, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2013-03-15&g=2013-03-15), en voor zover mogelijk, tevens de te hanteren vermogens van de te gebruiken apparatuur verstrekt.
 
 ##### Artikel 5
 
-1. De periode als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2011-10-01&g=2011-10-01), bedraagt:
+1. De periode als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2013-03-15&g=2013-03-15), bedraagt:
 
 - a. in geval van scannen ten hoogste drie maanden;
 
@@ -99,7 +99,7 @@ Voor een afwijkend gebruik van de frequentieruimte is geen toestemming als bedoe
 
 ##### Artikel 7
 
-Met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=6&z=2011-10-01&g=2011-10-01) bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=6&z=2013-03-15&g=2013-03-15) bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 ##### Artikel 8
 
@@ -107,9 +107,9 @@ Bevoegd tot het bedienen van de apparatuur waarmee een afwijkend gebruik van de 
 
 ##### Artikel 9
 
-1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=8&z=2011-10-01&g=2011-10-01) bedoelde ambtenaar maakt na een afwijkend gebruik van de frequentieruimte een verslag op. Het verslag vermeldt:
+1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=8&z=2013-03-15&g=2013-03-15) bedoelde ambtenaar maakt na een afwijkend gebruik van de frequentieruimte een verslag op. Het verslag vermeldt:
 
-- a. de gegevens, bedoeld in [artikel 3, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2011-10-01&g=2011-10-01);
+- a. de gegevens, bedoeld in [artikel 3, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0018355&artikel=3&z=2013-03-15&g=2013-03-15);
 
 - b. de vorm van afwijkend gebruik van de frequentieruimte die heeft plaatsgevonden en in geval van jammen, op welke wijze dit heeft plaatsgevonden;
 
