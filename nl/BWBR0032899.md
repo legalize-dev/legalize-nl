@@ -421,5 +421,3 @@ Deze regeling wordt aangehaald als: Regeling verdeling op afroep.
 ### Instructies
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
