@@ -4,7 +4,7 @@ identifier: "BWBR0029752"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-17"
-last_updated: "2011-03-23"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029752"
 soort: "ministeriele-regeling"
@@ -64,23 +64,23 @@ Besluit:
 
 1. De verkrijger of houder van een vergunning voor landelijke commerciële radio die verleend is respectievelijk waarvan de geldigheidsduur is verlengd met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) is voor het gebruik van de desbetreffende frequentieruimte gedurende de periode van 1 september 2011 tot 1 september 2017 een eenmalig bedrag verschuldigd, waarvan de hoogte is:
 
-- a. voor de vergunning voor kavel A1 en een vergunning voor digitale radio-omroep: € 25.726.000;
+- a. voor de vergunning voor kavel A1 en een vergunning voor digitale radio-omroep: € 25.592.000;
 
 - b. voor de vergunning voor kavel A2 en een vergunning voor digitale radio-omroep: € 20.385.000;
 
-- c. voor de vergunning voor kavel A3 en een vergunning voor digitale radio-omroep: € 26.935.000;
+- c. voor de vergunning voor kavel A3 en een vergunning voor digitale radio-omroep: € 26.804.000;
 
-- d. voor de vergunning voor kavel A6 en een vergunning voor digitale radio-omroep: € 26.581.000.
+- d. voor de vergunning voor kavel A6 en een vergunning voor digitale radio-omroep: € 26.473.000.
 
 2. Indien de verlenging en verlening van vergunningen met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) plaats vindt na 1 september 2011, is voor de resterende periode tot 1 september 2017 een eenmalig bedrag verschuldigd waarvan de hoogte wordt bepaald door het desbetreffende eenmalig bedrag, genoemd in het eerste lid, te vermenigvuldigen met een breuk waarvan de teller wordt gevormd door het aantal hele maanden dat na het tijdstip van vergunningverlening resteert tot 1 september 2017 en de noemer door het getal 72.
 
 ##### Artikel 3
 
-1. De verkrijger of de houder van de vergunningen betaalt het op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2011-03-23&g=2011-03-23) verschuldigde bedrag uiterlijk op 1 september 2011 of, indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, uiterlijk zes weken na dat tijdstip.
+1. De verkrijger of de houder van de vergunningen betaalt het op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2013-03-16&g=2013-03-16) verschuldigde bedrag uiterlijk op 1 september 2011 of, indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, uiterlijk zes weken na dat tijdstip.
 
 2. Indien op verzoek van de verkrijger of de houder van de vergunningen in afwijking van het eerste lid uitstel van betaling wordt verleend, worden aan de beschikking tot uitstel van betaling de voorschriften verbonden dat het verschuldigde bedrag wordt betaald in zes gelijke termijnen die steeds jaarlijks vervallen op 1 september, voor het eerst op 1 september 2011, en dat de verkrijger respectievelijk de houder van de vergunningen een waarborgsom verstrekt of een bankgarantie volgens het model, opgenomen in de bijlage, overlegt ter hoogte van een zesde deel van het verschuldigde bedrag. Indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, vervalt de eerste termijn uiterlijk zes weken na dat tijdstip.
 
-3. Voor de betaling door de verkrijger of de houder van het door hem op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2011-03-23&g=2011-03-23) verschuldigde bedrag wordt mede:
+3. Voor de betaling door de verkrijger of de houder van het door hem op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2013-03-16&g=2013-03-16) verschuldigde bedrag wordt mede:
 
 - a. de waarborgsom aangewend die op grond van [artikel 3, eerste lid, van de Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751&artikel=3) is verstrekt, of
 
@@ -88,7 +88,7 @@ Besluit:
 
 4. De betalingen worden verricht door overmaking op het bankrekeningnummer 56.99.94.039, ten name van Ministerie van Economische Zaken, Landbouw en Innovatie; Agentschap Telecom, onder vermelding van de desbetreffende kavel in de FM-band en van ‘vergunning voor digitale radio-omroep’.
 
-5. De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2011-03-23&g=2011-03-23).
+5. De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2013-03-16&g=2013-03-16).
 
 ##### Artikel 4
 
@@ -106,9 +106,9 @@ m: het aantal aaneengesloten perioden van vier weken is gedurende welke het aant
 
 1. Indien de aanvraag op grond van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) wordt afgewezen, wordt de door de aanvrager op grond van [artikel 3, eerste lid, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029751&artikel=3) verstrekte waarborgsom of bankgarantie door de minister teruggestort, respectievelijk teruggegeven.
 
-2. Bij toepassing van het eerste lid vergoedt de minister de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2011-03-23&g=2011-03-23), met dien verstande dat de rente wordt vergoed tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort.
+2. Bij toepassing van het eerste lid vergoedt de minister de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2013-03-16&g=2013-03-16), met dien verstande dat de rente wordt vergoed tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort.
 
-3. Bij toepassing van [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2011-03-23&g=2011-03-23), vergoedt de minister de rente over de gestorte waarborgsom vanaf de dag waarop het besluit tot vaststelling van dit bedrag aan hem bekend is gemaakt tot en met 31 augustus 2011.
+3. Bij toepassing van [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2013-03-16&g=2013-03-16), vergoedt de minister de rente over de gestorte waarborgsom vanaf de dag waarop het besluit tot vaststelling van dit bedrag aan hem bekend is gemaakt tot en met 31 augustus 2011.
 
 4. De rente wordt berekend volgens actual/360 op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 4 basispunten.
 
@@ -120,7 +120,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011.
 
-## Bijlage. Model voor een bankgarantie als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2011-03-23&g=2011-03-23), van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011
+## Bijlage. Model voor een bankgarantie als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2013-03-16&g=2013-03-16), van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011
 
 ### Modelbankgarantie
 
