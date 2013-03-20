@@ -4,7 +4,7 @@ identifier: "BWBR0029403"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-03-20"
-last_updated: "2013-01-01"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029403"
 soort: "AMvB"
@@ -52,7 +52,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **de wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+- a. **de wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+
+- b. **operationele capaciteit:** het deel van de capaciteit waar jeugdigen geplaatst worden en waar – afhankelijk van de bestemming van [artikel 8 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8) – alle activiteiten plaatsvinden;
+
+- c. **reservecapaciteit:** het deel van de capaciteit waar in principe geen jeugdigen worden geplaatst en dat operationeel gemaakt wordt indien de reeds vastgestelde operationele capaciteit tijdens een subsidiejaar onvoldoende blijkt te zijn;
+
+- d. **buitengebruikstelling:** het deel van de capaciteit dat er toe strekt om een gebouw in stand te houden voor een eventueel later hergebruik.
 
 ### Hoofdstuk 2. Subsidies
 
@@ -66,21 +72,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitatiesubsidie wordt bepaald door de door Onze Minister vast te stellen normprijzen per plaats te vermenigvuldigen met de vastgestelde capaciteit. Bij de vaststelling van de normprijzen per plaats wordt de bestemming van de particuliere inrichting, zoals omschreven in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), in aanmerking genomen. Onder de bestemming van de inrichting kan worden begrepen het met die bestemming verband houdende open of gesloten karakter van de inrichting. Op het aldus bepaalde bedrag kunnen toeslagen worden verstrekt.
+1. De exploitatiesubsidie wordt bepaald door de door Onze Minister per plaats vastgestelde normprijzen te vermenigvuldigen met de door Onze Minister vast te stellen operationele capaciteit, vermeerderd met een subsidie voor reservecapaciteit, vermeerderd met een subsidie voor tijdelijk buiten gebruik gestelde locaties of afdelingen van een particuliere inrichting. Bij de vaststelling van de normprijzen per plaats wordt de bestemming van de particuliere inrichting, zoals omschreven in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), in aanmerking genomen. Onder de bestemming van de inrichting kan worden begrepen het met die bestemming verband houdende open of gesloten karakter van de inrichting. Op het aldus bepaalde bedrag kunnen toeslagen worden verstrekt.
 
-2. Een procentuele verlaging van het bedrag van de exploitatiesubsidie vindt plaats, indien de gemiddelde jaarbezetting uitgedrukt in verblijfdagen minder bedraagt dan 90% van de voor de particuliere inrichting vastgestelde capaciteit. De procentuele verlaging wordt bepaald met behulp van de volgende formule:
+2. Een procentuele verlaging van het bedrag van de exploitatiesubsidie vindt plaats, indien de gemiddelde jaarbezetting uitgedrukt in verblijfdagen minder bedraagt dan 90% van de voor de particuliere inrichting vastgestelde operationele capaciteit. De procentuele verlaging wordt bepaald met behulp van de volgende formule:
 
-Voor particuliere inrichtingen met een vastgestelde capaciteit tot 100 plaatsen:
+Voor particuliere inrichtingen met een vastgestelde operationele capaciteit tot 100 plaatsen:
 
-| (90% – gerealiseerde bezettingsgraad) x | vastgestelde capaciteit | x 50% |
+| (90% – gerealiseerde bezettingsgraad) x | vastgestelde operationele capaciteit | x 50% |
 | --- | --- | --- |
 | (90% – gerealiseerde bezettingsgraad) x | ——————— | x 50% |
 |   | 100 |   |
 
-voor particuliere inrichtingen met een vastgestelde capaciteit vanaf 100 plaatsen:
+voor particuliere inrichtingen met een vastgestelde operationele capaciteit vanaf 100 plaatsen:
 
 | (90% – gerealiseerde bezetingsgraad) x 50% | (90% – gerealiseerde bezetingsgraad) x 50% | (90% – gerealiseerde bezetingsgraad) x 50% |
 | --- | --- | --- |
+
+3. Onze Minister kan de uitkomst van het tweede lid matigen, voor zover toepassing van het tweede lid, gelet op het belang van de continuïteit van de inrichting en daarmee de kwaliteit van de uitvoering van haar wettelijke taken, zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 4
 
@@ -118,7 +126,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de e
 
 2. Nadat Onze Minister met de voorlopige begroting en het ontwerp heeft ingestemd, worden de bestektekeningen en de uitgewerkte begroting ingediend. De begroting geeft inzicht in de aard, omvang, baten en lasten in verband met het bouwproject.
 
-3. [Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.2.8.5) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029403&hoofdstuk=4&artikel=10&z=2011-01-12&g=2013-01-01) zijn van toepassing op de subsidie voor een bouwproject.
+3. [Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.2.8.5) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029403&hoofdstuk=4&artikel=10&z=2013-03-20&g=2013-03-20) zijn van toepassing op de subsidie voor een bouwproject.
 
 ### Hoofdstuk 4. Verplichtingen van de subsidieontvanger
 
@@ -158,7 +166,7 @@ De particuliere inrichting verstrekt Onze Minister maandelijks inzicht in de cap
 
 ##### Artikel 14
 
-De particuliere inrichting behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen c en d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
+De particuliere inrichting behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), alsmede voor de vorming van voorzieningen in de zin van [artikel 374 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=374).
 
 ##### Artikel 15
 
