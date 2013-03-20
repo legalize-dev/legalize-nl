@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-03-07"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -85,7 +85,7 @@ Besluit:
 | 3.2 | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | **2**.2 | Opkomende markten innovatieprojecten |   |   |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | CATRENE-innovatieprojecten |   |   |
-|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | ITEA2-innovatieprojecten |   |   |
+|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | ITEA2-innovatieprojecten | 22-03 t/m 05-04 | 7.000.000 |
 | 3.3 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics (periode vooraanmelding) |   |   |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics |   |   |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | EMVT (periode vooraanmelding) |   |   |
@@ -196,5 +196,11 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2013.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
