@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-03-20"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -201,6 +201,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
+
+2. Activiteiten komen slechts in aanmerking voor subsidie wanneer zij passen binnen de in kolom 3 genoemde thema’s, opgenomen in het programma in de in kolom 2 genoemde bijlage bij de [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881).
+
+3. Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste en tweede lid wordt per in kolom 4 genoemde periode vastgesteld: het daarbij behorende in kolom 5 genoemde bedrag in euro’s of voucheraantal.
+
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| artikel | programma | thema’s | openstelling 2013 | plafond |
+| [1b.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1b.4) (Netwerkactiviteiten) | [Bijlage 1 HTSM](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1_HTSM) | 1 t/m 9 | 15-05 t/m 01-07 | 100.000 |
+| 1b.4 (Netwerkactiviteiten) | Bijlage 1 HTSM | 10 t/m 16 | 15-05 t/m 01-07 | 100.000 |
+| [1c.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.8) (MIT-kennisvouchers) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | Aantal beschikbare vouchers: 506 |
+| [1c.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.19) (MIT-R&D-samenwerkingsprojecten) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | 1.900.000 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 2 T&U](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=2_T&U) | 1 t/m 4 | 15-05 t/m 01-07 | 100.000 |
+| [1b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1b.7) (Innovatiemakelaars) | Bijlage 2 T&U | 1 t/m 4 | 15-05 t/m 01-07 | 250.000 |
+| [1c.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.4) (Haalbaarheidsstudies) | Bijlage 2 T&U | 1 t/m 4 | 15-05 t/m 01-07 | 100.000 |
+| 1c.19 (MIT-R&D-samenwerkingsprojecten) | Bijlage 2 T&U | 1 t/m 3 | 15-05 t/m 01-07 | 1.200.000 |
+| 1c.19 (MIT-samenwerkingsprojecten) | Bijlage 2 T&U | 4 | 15-05 t/m 01-07 | 350.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
