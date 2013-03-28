@@ -4,7 +4,7 @@ identifier: "BWBR0033076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-23"
-last_updated: "2013-03-23"
+last_updated: "2013-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033076"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2013-03-28"
 
 #### § 1. Begripsbepaling
 
-#### § 2. Correctiebedragen hernieuwbare elektriciteit
+#### § 1. Begripsbepaling
 
 ##### Artikel 2
 
@@ -110,13 +110,18 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
+
+| 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- |
+| Artikel regeling windenergie op zee 2009 | Omschrijving categorie | Correctiebedrag [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22) | Correctiebedrag artikel 22, eerste lid, onderdelen b en c van het besluit |
+| [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&artikel=2) | Wind op zee | € 0,054962 per kWh | € 0 per kWh |
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### § 5. Slotbepalingen
+#### § 3. Correctiebedragen hernieuwbaar gas
 
 Gelet op de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31) en [47, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
 
