@@ -4,7 +4,7 @@ identifier: "BWBR0033095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-03-29"
-last_updated: "2012-12-01"
+last_updated: "2013-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033095"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Als leden van de Werkgroep worden benoemd:
 
 ##### Artikel 9. Einde Werkgroep
 
-Zodra de Werkgroep advies heeft uitgebracht aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘Ruimte voor geven’, als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033095&artikel=3&z=2013-03-29&g=2012-12-01), eindigen de werkzaamheden van de Werkgroep.
+Zodra de Werkgroep advies heeft uitgebracht aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘Ruimte voor geven’, als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033095&artikel=3&z=2013-03-29&g=2013-03-29), eindigen de werkzaamheden van de Werkgroep.
 
 ##### Artikel 10. Archief
 
