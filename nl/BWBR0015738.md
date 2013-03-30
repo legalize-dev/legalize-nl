@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2013-02-26"
+last_updated: "2013-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -152,7 +152,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2013-02-26&g=2013-02-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2013-02-26&g=2013-02-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2013-02-26&g=2013-02-26) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2013-02-26&g=2013-02-26) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand of de inkomensvoorziening op grond van de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2013-03-30&g=2013-03-30), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2013-03-30&g=2013-03-30), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2013-03-30&g=2013-03-30) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2013-03-30&g=2013-03-30) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -198,8 +198,8 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |
 | – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | – het inkomen € 797,44 of meer bedraagt | 6,66% | x ink | – € 13,81 |
 | – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | – het inkomen lager is dan € 797,44 | 5,31% | x ink |   |
-| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 6,84% | x ink |   |
-| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |
+| c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | 6,84% | x ink |   |
+| d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien |   |   |   |
 | – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | – het inkomen € 802,81 of meer bedraagt | 6,84% | x ink | – € 11,77 |
 | – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | – het inkomen lager is dan € 802,81 | 6,84% | x ink |   |
 
@@ -291,7 +291,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2013-02-26&g=2013-02-26), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2013-03-30&g=2013-03-30), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
@@ -347,7 +347,7 @@ De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007
 
 #### § 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-02-26&g=2013-02-26) van de Regeling WWB
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-03-30&g=2013-03-30) van de Regeling WWB
 
 Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
 
@@ -412,7 +412,7 @@ Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](https://wetten
 
 Vervallen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-06-11&g=2013-02-26) van de Regeling WWB
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2013-06-11&g=2013-03-30) van de Regeling WWB
 
 Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
 
