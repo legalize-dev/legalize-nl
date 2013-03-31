@@ -4,7 +4,7 @@ identifier: "BWBR0033106"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-01-01"
+last_updated: "2013-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033106"
 soort: "pbo"
@@ -61,9 +61,9 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer, die hovenierswerkzaamheden uitoefent, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=3&artikel=3&z=2013-03-31&g=2013-01-01) vermelde heffingsgrondslag met het bijbehorend tarief.
+1. De ondernemer, die hovenierswerkzaamheden uitoefent, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) vermelde heffingsgrondslag met het bijbehorend tarief.
 
-2. De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=4&artikel=4&z=2013-03-31&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=4&artikel=5&z=2013-03-31&g=2013-01-01) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+2. De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=4&artikel=4&z=2013-03-31&g=2013-03-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033106&paragraaf=4&artikel=5&z=2013-03-31&g=2013-03-31) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 3. Ter uitvoering van het eerste lid doet de ondernemer desgevraagd aangifte bij het productschap van de door hem in het kalenderjaar 2013 behaalde omzet.
 
