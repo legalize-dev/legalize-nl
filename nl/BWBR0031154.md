@@ -4,7 +4,7 @@ identifier: "BWBR0031154"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-06-23"
-last_updated: "2012-10-14"
+last_updated: "2013-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031154"
 soort: "pbo"
@@ -56,7 +56,7 @@ Deze verordening verstaat onder:
 | afzetorganisatie/bemiddelaar | : | de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld; |
-| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2012-10-14&g=2012-10-14) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : | de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
@@ -186,7 +186,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 4
 
-1. Bij het vaststellen van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2012-10-14&g=2012-10-14) genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
+1. Bij het vaststellen van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -196,7 +196,7 @@ Deze verordening verstaat onder:
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Bij het vaststellen van de heffing in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2012-10-14&g=2012-10-14) wordt per productgroep een gedeelte van een hectare of een are afgerond tot een veelvoud van respectievelijk een are en een centiare.
+2. Bij het vaststellen van de heffing in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) wordt per productgroep een gedeelte van een hectare of een are afgerond tot een veelvoud van respectievelijk een are en een centiare.
 
 ##### Artikel 5
 
@@ -204,11 +204,11 @@ Deze verordening verstaat onder:
 
 2. In afwijking van het eerste lid is de ondernemer die groenten en fruit, die niet afkomstig zijn uit de Europese Unie, importeert, een heffing verschuldigd over de CIF-waarde.
 
-3. De in het eerste en tweede lid genoemde heffingen bedragen 0,011% van de aankoopwaarde handel respectievelijk de CIF waarde in het kalenderjaar 2012.
+3. De in het eerste en tweede lid genoemde heffingen bedragen 0,009 % van de aankoopwaarde handel respectievelijk de CIF- waarde in het kalenderjaar 2012.
 
 4. In afwijking van het eerste en het tweede lid, is de ondernemer die in het kalenderjaar 2012 handelt in uien een heffing verschuldigd met als grondslag het gewicht van de aangekochte uien.
 
-5. De in het vierde lid genoemde heffing bedraagt € 0,87 per 100.000 aangekochte netto kilogram uien.
+5. De in het vierde lid genoemde heffing bedraagt € 0,75 per 100.000 aangekochte netto kilogram uien.
 
 6. Geen heffing wordt opgelegd over aangekochte groenten en fruit die zijn verkocht aan consumenten voor hun persoonlijke behoefte, tenzij de ondernemer dit aan consumenten verkochte product:
 
@@ -234,7 +234,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 8
 
-Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=4&artikel=7&z=2012-10-14&g=2012-10-14), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031154&paragraaf=4&artikel=7&z=2013-03-31&g=2013-03-31), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
