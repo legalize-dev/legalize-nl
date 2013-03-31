@@ -4,7 +4,7 @@ identifier: "BWBR0033105"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-01-01"
+last_updated: "2013-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033105"
 soort: "pbo"
@@ -75,15 +75,15 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-01-01) vermelde heffingsgrondslagen.
+1. De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-03-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-03-31) vermelde heffingsgrondslagen.
 
-2. De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=4&artikel=6&z=2013-03-31&g=2013-01-01) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+2. De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=4&artikel=6&z=2013-03-31&g=2013-03-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
-3. Voor het berekenen van de heffingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-01-01), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.
+3. Voor het berekenen van de heffingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.
 
-4. Ter uitvoering van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-01-01) doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet.
+4. Ter uitvoering van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-03-31) doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet.
 
-5. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-01-01) doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.
+5. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-03-31) doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.
 
 #### § 3. Grondslag en hoogte
 
@@ -232,7 +232,7 @@ In deze verordening wordt verstaan onder:
 
 1. De krachtens deze verordening verschuldigde heffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd in of na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer.
 
-2. Indien geen aangifte of opgave is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=2&artikel=2&z=2013-03-31&g=2013-01-01), dan kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen aangifte of opgave is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=2&artikel=2&z=2013-03-31&g=2013-03-31), dan kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 7
 
