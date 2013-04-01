@@ -4,7 +4,7 @@ identifier: "BWBR0031347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2012-03-15"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031347"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-Als personen in de zin van [artikel 14, tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14) worden aangewezen de ambtenaren van de gemeente Amsterdam werkzaam bij de Nautische Sector van Haven Amsterdam en de medewerkers van de divisie havenmeester van Havenbedrijf Rotterdam N.V.
+Als personen in de zin van [artikel 14, tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14) worden aangewezen de medewerkers van de divisie Havenmeester van Havenbedrijf Amsterdam N.V. en de medewerkers van de divisie havenmeester van Havenbedrijf Rotterdam N.V.
 
 ##### Artikel 2
 
-De ambtenaren en medewerkers, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031347&artikel=1&z=2012-03-15&g=2012-03-15), informeren de inspecteur-generaal onverwijld indien zich een situatie als bedoeld in [artikel 20, eerste lid, onderdelen a tot en met h, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20) voordoet.
+De medewerkers, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031347&artikel=1&z=2013-04-01&g=2013-04-01), informeren de inspecteur-generaal onverwijld indien zich een situatie als bedoeld in [artikel 20, eerste lid, onderdelen a tot en met h, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20) voordoet.
 
 ##### Artikel 3
 
-De havenmeester van Haven Amsterdam en de havenmeester van Rotterdam, zijnde het hoofd van de divisie havenmeester van Havenbedrijf Rotterdam N.V., brengen jaarlijks, voor 1 april, over het jaar daaraan voorafgaand aan de inspecteur-generaal verslag uit over het door de ambtenaren en medewerkers, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031347&artikel=1&z=2012-03-15&g=2012-03-15), gehouden toezicht en over de resultaten daarvan.
+De Havenmeester van Amsterdam, zijnde het hoofd van de divisie Havenmeester van Havenbedrijf Amsterdam N.V. en de Havenmeester van Rotterdam, zijnde het hoofd van de divisie Havenmeester van Havenbedrijf Rotterdam N.V., brengen jaarlijks, voor 1 april, over het jaar daaraan voorafgaand aan de inspecteur-generaal verslag uit over het door de medewerkers, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031347&artikel=1&z=2013-04-01&g=2013-04-01), gehouden toezicht en over de resultaten daarvan.
 
 ##### Artikel 4
 
