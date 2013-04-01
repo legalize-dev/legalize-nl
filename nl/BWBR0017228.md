@@ -4,7 +4,7 @@ identifier: "BWBR0017228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-01"
-last_updated: "2010-12-31"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017228"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ Gelet op [Bijlagen I](onbekend), [II](onbekend), [IV](onbekend) en [V van het op
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Wet voorkoming verontreiniging door schepen, enz. in verband met richtlijn 2000/59/EG betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332) en het Besluit havenontvangstvoorzieningen in werking treedt.
+
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
@@ -53,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als richtlijn havenontvangstvoorzieningen, bedoeld in [artikel 1, onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1) wordt aangewezen richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), zoals deze laatstelijk is gewijzigd bij richtlijn nr. 2002/84/EG van het Europees Parlement en de Raad van de Europese Unie van 5 november 2002 houdende wijziging van de richtlijnen op het gebied van maritieme veiligheid en voorkoming van verontreiniging door schepen (PbEG L 324).
+Als richtlijn havenontvangstvoorzieningen, bedoeld in [artikel 1, onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1) wordt aangewezen richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), zoals deze laatstelijk is gewijzigd bij Verordening (EG) nr. 1137/2008 van het Europees Parlement en de Raad van 22 oktober 2008 tot aanpassing aan Besluit 1999/468/EG van de Raad van een aantal besluiten waarop de procedure van artikel 251 van het Verdrag van toepassing is, wat de regelgevingsprocedure met toetsing betreft (PbEU 2008, L 311).
 
 #### § 3. Melding gegevens
 
@@ -77,7 +79,7 @@ De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek 
 
 - a. de aanmelding van de door de inspecteur-generaal aangegeven schepen;
 
-- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2010-12-31&g=2010-12-31), vermelde gegevens.
+- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2013-04-01&g=2013-04-01), vermelde gegevens.
 
 #### § 4. Rapportageverplichtingen
 
@@ -147,7 +149,7 @@ Als rechtspersoon, bedoeld in [artikel 9, tweede lid, van het Besluit havenontva
 
 ##### Artikel 12
 
-Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2010-12-31&g=2010-12-31) bij deze regeling.
+Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2013-04-01&g=2013-04-01) bij deze regeling.
 
 #### § 11. Wijziging en intrekking van andere regelingen
 
@@ -163,7 +165,7 @@ De circulaire van de Minister van Verkeer en Waterstaat inzake melding door de s
 
 ##### Artikel 15
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2010-12-31&g=2010-12-31) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2013-04-01&g=2013-04-01) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
 
 ##### Artikel 16
 
@@ -173,7 +175,7 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 6 juli 2004 to
 
 Deze regeling wordt aangehaald als: Regeling havenontvangstvoorzieningen.
 
-## Bijlage. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=8&artikel=10&z=2010-12-31&g=2010-12-31) van de Regeling havenontvangstvoorzieningen
+## Bijlage. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=8&artikel=10&z=2013-04-01&g=2013-04-01) van de Regeling havenontvangstvoorzieningen
 
 | Haven | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: |
 | --- | --- | --- | --- | --- |
