@@ -4,7 +4,7 @@ identifier: "BWBR0033253"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-05-15"
-last_updated: "2011-01-28"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033253"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze beleidsregels verstaat het college onder:
+In deze beleidsregels verstaat de Autoriteit Consument en Markt onder:
 
 - **Mobile Global Title (MGT):** internationale standaard voor het doorgeven van IMSI-nummers zoals beschreven in ITU Aanbeveling E.214 ‘Structure of the land Mobile Global Title for the signalling connection control Part (SCCP)’.
 
@@ -52,7 +52,7 @@ In deze beleidsregels verstaat het college onder:
 
 ##### Artikel 2
 
-Het college kent mobiele nummers alleen toe aan aanvragers die:
+De Autoriteit Consument en Markt kent mobiele nummers alleen toe aan aanvragers die:
 
 - a. aantoonbaar beschikken over een geldende licentie voor de betreffende Nederlandse radiofrequenties voor mobiele communicatie, of
 
@@ -60,17 +60,17 @@ Het college kent mobiele nummers alleen toe aan aanvragers die:
 
 ##### Artikel 3
 
-Bij de beoordeling van een vervolgaanvraag voor mobiele nummers betrekt het college de manier waarop de aanvrager zijn bedrijfsprocessen heeft ingericht en of deze tot een efficiënt gebruik van eerder toegekende en nog toe te kennen nummers leidt.
+Bij de beoordeling van een vervolgaanvraag voor mobiele nummers betrekt de Autoriteit Consument en Markt de manier waarop de aanvrager zijn bedrijfsprocessen heeft ingericht en of deze tot een efficiënt gebruik van eerder toegekende en nog toe te kennen nummers leidt.
 
 ##### Artikel 4
 
-1. Het college kent mobiele nummers toe in blokken van een veelvoud van 100.000 nummers, ongeacht welke aanbieder naastgelegen nummerblokken toegekend heeft gekregen.
+1. De Autoriteit Consument en Markt kent mobiele nummers toe in blokken van een veelvoud van 100.000 nummers, ongeacht welke aanbieder naastgelegen nummerblokken toegekend heeft gekregen.
 
-2. Bij de toekenning bedoeld in het eerste lid concentreert het college de toegekende blokken van 100.000 nummers in zo min mogelijk blokken van 1.000.000 nummers.
+2. Bij de toekenning bedoeld in het eerste lid concentreert de Autoriteit Consument en Markt de toegekende blokken van 100.000 nummers in zo min mogelijk blokken van 1.000.000 nummers.
 
 ##### Artikel 5
 
-De cijfers en de lengte van de MGT van nummerhouders die een eigen MGT gebruiken, dient in overeenstemming zijn met de door het college aan hen toegekende nummers met mobiele bestemming in die zin dat:
+De cijfers en de lengte van de MGT van nummerhouders die een eigen MGT gebruiken, dient in overeenstemming zijn met de door de Autoriteit Consument en Markt aan hen toegekende nummers met mobiele bestemming in die zin dat:
 
 - a. voor nummerhouders aan wie ten minste een aaneengesloten blok met een grootte van 1.000.000 nummers toegekend is, is een 5-cijferige MGT toegestaan
 
@@ -86,11 +86,11 @@ Nummerhouders die op het moment van publicatie van deze beleidsregels minder dan
 
 ##### Artikel 7
 
-Het college kan in bijzondere omstandigheden, bedoeld in [artikel 4.84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), van deze beleidsregels afwijken.
+De Autoriteit Consument en Markt kan in bijzondere omstandigheden, bedoeld in [artikel 4.84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), van deze beleidsregels afwijken.
 
 ##### Artikel 8
 
-Deze beleidsregels bevatten het beleid van het college inzake uitgifte en beheer van nummers met mobiele bestemming op grond van [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4). Het college behoudt zich uitdrukkelijk de mogelijkheid wijzigingen aan te brengen in deze beleidsregels. Toepassing van deze beleidsregels in de praktijk en voorschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden.
+Deze beleidsregels bevatten het beleid van de Autoriteit Consument en Markt inzake uitgifte en beheer van nummers met mobiele bestemming op grond van [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4). De Autoriteit Consument en Markt behoudt zich uitdrukkelijk de mogelijkheid wijzigingen aan te brengen in deze beleidsregels. Toepassing van deze beleidsregels in de praktijk en voorschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden.
 
 ##### Artikel 9
 
