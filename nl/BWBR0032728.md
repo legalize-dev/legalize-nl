@@ -4,7 +4,7 @@ identifier: "BWBR0032728"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2013-04-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032728"
 soort: "AMvB-BES"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder college: college, genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder Autoriteit Consument en Markt: Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
 
 ##### Artikel 2
 
-Het college heeft tot taak:
+De Autoriteit Consument en Markt heeft tot taak:
 
 - a. het houden van toezicht op de naleving van het bepaalde bij of krachtens de [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263) betreffende het vervoer van postzendingen, uitgezonderd het bepaalde in [artikel 19 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=19);
 
@@ -68,21 +68,21 @@ Het college heeft tot taak:
 
 ##### Artikel 3
 
-Het college is bevoegd geschillen te beslechten tussen concessiehouders, tussen andere aanbieders van openbare telecommunicatiediensten en tussen concessiehouders en andere aanbieders van openbare telecommunicatiediensten inzake de nakoming van een verplichting ingevolge de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III) of [4 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV). De beslissing van het college is bindend.
+De Autoriteit Consument en Markt is bevoegd geschillen te beslechten tussen concessiehouders, tussen andere aanbieders van openbare telecommunicatiediensten en tussen concessiehouders en andere aanbieders van openbare telecommunicatiediensten inzake de nakoming van een verplichting ingevolge de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III) of [4 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV). De beslissing van de Autoriteit Consument en Markt is bindend.
 
 ##### Artikel 4
 
-Indien concessiehouders of andere aanbieders van openbare telecommunicatiediensten een geschil hebben, kunnen zij zich onder opgaaf van redenen schriftelijk richten tot het college met het verzoek hieromtrent een beslissing te nemen. Een zodanig verzoek wordt ingediend bij het college.
+Indien concessiehouders of andere aanbieders van openbare telecommunicatiediensten een geschil hebben, kunnen zij zich onder opgaaf van redenen schriftelijk richten tot de Autoriteit Consument en Markt met het verzoek hieromtrent een beslissing te nemen. Een zodanig verzoek wordt ingediend bij de Autoriteit Consument en Markt.
 
 ##### Artikel 5
 
-1. Binnen één maand na de indiening van het verzoek om een beslissing verstrekken beide partijen in het geschil het college alle gegevens die benodigd zijn om een beslissing te kunnen nemen.
+1. Binnen één maand na de indiening van het verzoek om een beslissing verstrekken beide partijen in het geschil de Autoriteit Consument en Markt alle gegevens die benodigd zijn om een beslissing te kunnen nemen.
 
-2. Indien het college niettemin de verstrekte gegevens onvoldoende acht, verzoekt het de betrokken partij binnen twee weken aanvullende informatie te verstrekken.
+2. Indien de Autoriteit Consument en Markt niettemin de verstrekte gegevens onvoldoende acht, verzoekt zij de betrokken partij binnen twee weken aanvullende informatie te verstrekken.
 
 ##### Artikel 6
 
-Het college toetst een geschil inzake de toegang tot of de koppeling van infrastructuur in ieder geval aan de volgende uitgangspunten:
+De Autoriteit Consument en Markt toetst een geschil inzake de toegang tot of de koppeling van infrastructuur in ieder geval aan de volgende uitgangspunten:
 
 - a. de voorwaarden voor toegang en koppeling dienen non-discriminatoir te zijn; dat wil zeggen dat toegang en koppeling steeds in overeenkomstige situaties tegen overeenkomstige voorwaarden en tarieven worden aangeboden;
 
@@ -92,7 +92,7 @@ Het college toetst een geschil inzake de toegang tot of de koppeling van infrast
 
 ##### Artikel 7
 
-Binnen drie maanden na de indiening van het verzoek neemt het college een beslissing.
+Binnen drie maanden na de indiening van het verzoek neemt de Autoriteit Consument en Markt een beslissing.
 
 ##### Artikel 8
 
