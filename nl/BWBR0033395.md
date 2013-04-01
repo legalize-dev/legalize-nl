@@ -4,7 +4,7 @@ identifier: "BWBR0033395"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-04-01"
-last_updated: "2007-10-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033395"
 soort: "zbo"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Bij het toepassen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) en [41 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41), zoals deze zullen luiden nadat de [Wet van 28 juni 2007, houdende wijziging van de Mededingingswet als gevolg van de evaluatie van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022401) (Stb. 284), in werking is getreden, zal de Raad van Bestuur aansluiten bij de mededeling van de Commissie van de Europese Gemeenschappen van 5 februari 2004, getiteld ‘Richtsnoeren voor de beoordeling van horizontale fusies op grond van de Verordening van de Raad inzake de controle op concentraties van ondernemingen’ (Pb 2004, C 31, blz. 5 - 18).
+Bij het toepassen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) en [41 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41), zoals deze zullen luiden nadat de [Wet van 28 juni 2007, houdende wijziging van de Mededingingswet als gevolg van de evaluatie van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022401) (Stb. 284), in werking is getreden, zal de Autoriteit Consument en Markt aansluiten bij de mededeling van de Commissie van de Europese Gemeenschappen van 5 februari 2004, getiteld ‘Richtsnoeren voor de beoordeling van horizontale fusies op grond van de Verordening van de Raad inzake de controle op concentraties van ondernemingen’ (Pb 2004, C 31, blz. 5 - 18).
 
 ##### Artikel 2
 
-Dit besluit wordt aangehaald als: ‘Beleidsregel NMa beoordeling horizontale concentraties’.
+Dit besluit wordt aangehaald als: ‘Beleidsregel ACM beoordeling horizontale concentraties’.
 
 ##### Artikel 3
 
