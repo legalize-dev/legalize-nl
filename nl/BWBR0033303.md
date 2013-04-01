@@ -4,7 +4,7 @@ identifier: "BWBR0033303"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-04-01"
-last_updated: "2008-03-24"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033303"
 soort: "zbo"
@@ -32,17 +32,19 @@ entry_into_force: "2008-03-24"
 ---
 # Beleidsregels uitgifte bedrijfsnummers
 
-Het college van de Onafhankelijke Post- en Telecommunicatieautoriteit (OPTA) maakt hierbij op grond van zijn bevoegdheden uit [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4) beleidsregels bekend over de uitgifte van nummers voor toegang tot ondernemingen en instellingen (088-nummers). Deze beleidsregels treden per 24 maart 2008 in werking. Deze beleidsregels vervangen de [in de bekendmaking van 6 september 2004 onder B genoemde beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033297) (OPTA/NER/2004/203044).
+De Autoriteit Consument en Markt maakt hierbij op grond van haar bevoegdheden uit [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4) beleidsregels bekend over de uitgifte van nummers voor toegang tot ondernemingen en instellingen (088-nummers). Deze beleidsregels treden per 24 maart 2008 in werking. Deze beleidsregels vervangen de [in de bekendmaking van 6 september 2004 onder B genoemde beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033297) (OPTA/NER/2004/203044).
 
-In het kader van een snelle behandeling van aanvragen, efficiënt nummerbeheer en het tegengaan van nummerhandel hanteert OPTA de volgende regels bij de uitgifte van nummers voor toegang tot ondernemingen en instellingen (kortweg: bedrijfsnummers):
+Treedt in werking op het tijdstip waarop artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt in werking treedt.
+
+In het kader van een snelle behandeling van aanvragen, efficiënt nummerbeheer en het tegengaan van nummerhandel hanteert Autoriteit Consument en Markt de volgende regels bij de uitgifte van nummers voor toegang tot ondernemingen en instellingen (kortweg: bedrijfsnummers):
 
 - 1. voor aanvragen van nummers voor toegang tot ondernemingen en instellingen moeten aanvragers gebruik maken van het aanvraagformulier voor nummers voor toegang tot ondernemingen en instellingen;
 
-- 2. aanvragers kunnen in hun aanvraag eenmalig hun voorkeur voor bepaalde nummers kenbaar maken. Wijzigingen en/of aanvullingen van voorkeuren worden door OPTA niet gehonoreerd;
+- 2. aanvragers kunnen in hun aanvraag eenmalig hun voorkeur voor bepaalde nummers kenbaar maken. Wijzigingen en/of aanvullingen van voorkeuren worden door Autoriteit Consument en Markt niet gehonoreerd;
 
 - 3. uitgifte van nummers voor toegang tot ondernemingen en instellingen vindt plaats in blokken van tenminste honderd aaneengesloten nummers waarvan het eerste nummer eindigt met de cijfers 00. Dit houdt in dat ook aanvragers voor een kleinere hoeveelheid dan honderd nummers een aaneengesloten blok van honderd nummers krijgen toegewezen;
 
-- 4. de hoofdregel bij de uitgifte van aanvragen voor meer dan honderd nummers voor toegang tot ondernemingen en instellingen is dat dit zoveel mogelijk plaatsvindt in aaneengesloten reeksen. Aanvragers met een voorkeur voor een niet aaneengesloten reeks moeten bij hun aanvraag deze voorkeur toelichten. OPTA kan op grond van het belang van een aanvrager van de hoofdregel afwijken en niet aaneengesloten reeksen uitgeven in het geval de aanvrager in zijn toelichting aannemelijk maakt dat op die manier zijn huidige interne nummerplan zoveel mogelijk kan worden gehandhaafd. Voor aanvragen voor minder dan honderd nummers wijst OPTA alleen aaneengesloten blokken van honderd nummers toe.
+- 4. de hoofdregel bij de uitgifte van aanvragen voor meer dan honderd nummers voor toegang tot ondernemingen en instellingen is dat dit zoveel mogelijk plaatsvindt in aaneengesloten reeksen. Aanvragers met een voorkeur voor een niet aaneengesloten reeks moeten bij hun aanvraag deze voorkeur toelichten. Autoriteit Consument en Markt kan op grond van het belang van een aanvrager van de hoofdregel afwijken en niet aaneengesloten reeksen uitgeven in het geval de aanvrager in zijn toelichting aannemelijk maakt dat op die manier zijn huidige interne nummerplan zoveel mogelijk kan worden gehandhaafd. Voor aanvragen voor minder dan honderd nummers wijst Autoriteit Consument en Markt alleen aaneengesloten blokken van honderd nummers toe.
 
 - 5. de in tabel 1 genoemde nummerblokken worden slechts als blokken van 10.000 nummers uitgegeven aan aanvragers die deze hoeveelheid nummers nodig hebben. Aanvragen voor minder dan 10.000 nummers worden alleen gehonoreerd uit reeds aangebroken blokken van 10.000 nummers.
 
