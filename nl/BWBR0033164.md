@@ -4,7 +4,7 @@ identifier: "BWBR0033164"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-04-01"
-last_updated: "2008-03-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033164"
 soort: "zbo"
@@ -49,11 +49,11 @@ Hierna treft u de het Aanwijzingsbesluit en de Beleidsregels Nummerportabiliteit
 
 ### Aanwijzingsbesluit Nummerportabiliteit 2008
 
-1. Het college wijst op grond van [artikel 4.10, vierde lid, Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) (hierna: Tw) geografische nummers, nummers voor mobiele telefonie en nummers met de dienstcodes 084, 085, 087 en 091 aan als nummers waarvoor geldt dat, in het geval dat een nummer uit die categorie na een overgang op grond van het derde lid van dat wetsartikel niet langer in gebruik is, de toekenning van het nummer teruggaat naar de aanbieder aan wie het nummer op basis van een aanvraag was toegekend.
+1. De Autoriteit Consument en Markt wijst op grond van [artikel 4.10, vierde lid, Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) (hierna: Tw) geografische nummers, nummers voor mobiele telefonie en nummers met de dienstcodes 084, 085, 087 en 091 aan als nummers waarvoor geldt dat, in het geval dat een nummer uit die categorie na een overgang op grond van het derde lid van dat wetsartikel niet langer in gebruik is, de toekenning van het nummer teruggaat naar de aanbieder aan wie het nummer op basis van een aanvraag was toegekend.
 
 ### Beleidsregels Nummerportabiliteit 2008
 
-2. Aanbieders dienen een portering, zoals genoemd in [artikel 4.10, vijfde en zesde lid, Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10), (behoudens interne nummerporteringen) aan het college mee te delen. Indien een aanbieder de portering (direct of indirect) uitvoert met gebruikmaking van het netwerk van de vereniging COIN, geschiedt deze mededeling aan het college automatisch.
+2. Aanbieders dienen een portering, zoals genoemd in [artikel 4.10, vijfde en zesde lid, Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10), (behoudens interne nummerporteringen) aan de Autoriteit Consument en Markt mee te delen. Indien een aanbieder de portering (direct of indirect) uitvoert met gebruikmaking van het netwerk van de vereniging COIN, geschiedt deze mededeling aan de Autoriteit Consument en Markt automatisch.
 
 3. Het recht op nummerbehoud geldt zowel bij het wisselen van aanbieder als bij het wisselen van contractsvorm bij één aanbieder.
 
@@ -61,7 +61,7 @@ Hierna treft u de het Aanwijzingsbesluit en de Beleidsregels Nummerportabiliteit
 
 5. Aanbieders zijn verantwoordelijk voor de informatie aan en voor het gedrag van de personen en bedrijven die zij inschakelen bij het sluiten, wijzigen en beëindigen van contracten met eindgebruikers van de voor nummerbehoud aangewezen openbare elektronische communicatiediensten.
 
-6. Bij de overgang van een afnemer van de ene aanbieder naar de andere aanbieder met behoud van een nummer dienen beide aanbieders op grond van [artikel 4.10 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) hun medewerking te verlenen. Het college is van oordeel dat beide aanbieders dienen mee te werken aan het binnen tien werkdagen afronden van de overgang van het nummer of uiterlijk op de eerste werkdag na afloop van het contract als het verzoek meer dan tien dagen voor de afloop van het contract is gedaan.
+6. Bij de overgang van een afnemer van de ene aanbieder naar de andere aanbieder met behoud van een nummer dienen beide aanbieders op grond van [artikel 4.10 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) hun medewerking te verlenen. De Autoriteit Consument en Markt is van oordeel dat beide aanbieders dienen mee te werken aan het binnen tien werkdagen afronden van de overgang van het nummer of uiterlijk op de eerste werkdag na afloop van het contract als het verzoek meer dan tien dagen voor de afloop van het contract is gedaan.
 
 7. De nummergebruiker kan ook een beroep doen op het recht op nummerbehoud als de nummergebruiker gebruik maakt van een nummer dat aan hem zelf is toegekend.
 
