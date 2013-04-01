@@ -4,7 +4,7 @@ identifier: "BWBR0023123"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2008-10-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023123"
 soort: "AMvB"
@@ -58,7 +58,7 @@ binnenhaven: een haven die niet in de bijlage bij dit besluit als zeehaven is aa
 
 call: een combinatie van een loodsreis van zee naar een zeehavengebied en een loodsreis naar zee vanuit hetzelfde zeehavengebied via dezelfde vaarroute;
 
-frequentiekorting: een korting op de loodsgeldtarieven als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2008-10-01&g=2008-10-01);
+frequentiekorting: een korting op de loodsgeldtarieven als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2013-04-01&g=2013-04-01);
 
 cluster van zusterschepen: twee of meer zusterschepen die door dezelfde natuurlijke of rechtspersoon worden geëxploiteerd;
 
@@ -124,7 +124,7 @@ Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in [ar
 
 ##### Artikel 2.5
 
-Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2008-10-01&g=2008-10-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2008-10-01&g=2008-10-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
+Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2013-04-01&g=2013-04-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2013-04-01&g=2013-04-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
 
 ##### Artikel 2.6
 
@@ -160,11 +160,11 @@ Het kostentoerekeningssysteem bevat:
 
 5. De toerekening van niet-duurzame productiemiddelen is gebaseerd op de werkelijke kosten.
 
-6. De berekening van vermogenskosten is gebaseerd op een methode, met inbegrip van de daarvan deel uitmakende parameters, die voldoet aan algemeen aanvaarde bedrijfseconomische principes. De raad van bestuur stelt deze methode en parameters bij besluit vast.
+6. De berekening van vermogenskosten is gebaseerd op een methode, met inbegrip van de daarvan deel uitmakende parameters, die voldoet aan algemeen aanvaarde bedrijfseconomische principes. De Autoriteit Consument en Markt stelt deze methode en parameters bij besluit vast.
 
 ##### Artikel 2.10
 
-1. De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebied en vervolgens met inachtneming van de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&z=2008-10-01&g=2008-10-01) vastgestelde maatstaven.
+1. De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebied en vervolgens met inachtneming van de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&z=2013-04-01&g=2013-04-01) vastgestelde maatstaven.
 
 2. Bij de toerekening van de kosten gemoeid met het loodsen van zeeschepen wordt inzicht gegeven in de kosten voor de onderscheiden krachtens artikel VII van de Wet markttoezicht registerloodsen vast te stellen klassen van schepen.
 
@@ -172,9 +172,9 @@ Het kostentoerekeningssysteem bevat:
 
 ##### Artikel 2.11
 
-1. De algemene raad zendt een door de ledenvergadering overeenkomstig [artikel 27b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b) vastgesteld kostentoerekeningssysteem ten minste een jaar voorafgaand aan het tijdstip waarop het van kracht zijnde kostentoerekeningssysteem zijn geldigheid verliest aan de raad van bestuur.
+1. De algemene raad zendt een door de ledenvergadering overeenkomstig [artikel 27b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b) vastgesteld kostentoerekeningssysteem ten minste een jaar voorafgaand aan het tijdstip waarop het van kracht zijnde kostentoerekeningssysteem zijn geldigheid verliest aan de Autoriteit Consument en Markt.
 
-2. Indien de raad van bestuur toepassing geeft aan [artikel 27b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), stelt hij daarbij de termijn vast waarbinnen de ledenvergadering het toerekeningssysteem wijzigt. De algemene raad zendt het door de ledenvergadering vastgestelde kostentoerekeningssysteem binnen een week na de datum van vaststelling aan de raad van bestuur.
+2. Indien de Autoriteit Consument en Markt toepassing geeft aan [artikel 27b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), stelt zij daarbij de termijn vast waarbinnen de ledenvergadering het toerekeningssysteem wijzigt. De algemene raad zendt het door de ledenvergadering vastgestelde kostentoerekeningssysteem binnen een week na de datum van vaststelling aan de Autoriteit Consument en Markt.
 
 ### Hoofdstuk 3. Index uurtarief arbeidsvergoeding
 
@@ -264,7 +264,7 @@ Indien kapiteins van andere dan zeeschepen van de diensten van een loods gebruik
 
 ##### Artikel 4.12
 
-1. De raad van bestuur stelt bij besluit een verhogings- of verlagingsfactor vast voor het in rekening te brengen tarief in verband met bijzondere loodsreizen.
+1. De Autoriteit Consument en Markt stelt bij besluit een verhogings- of verlagingsfactor vast voor het in rekening te brengen tarief in verband met bijzondere loodsreizen.
 
 2. Een verhogings- of verlagingsfactor kan betrekking hebben op het in rekening te brengen Z-tarief, het in rekening te brengen B-tarief of de in rekening te brengen loodsvergoedingen.
 
@@ -280,7 +280,7 @@ Als bijzondere loodsreis worden de volgende loodsreizen aangemerkt:
 
 - c. het loodsen op afstand vanaf de wal onder omstandigheden als bedoeld in [artikel 10, eerste lid, onder a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=10);
 
-- d. het terugkeren van een schip tijdens een loodsreis, zonder dat de loodsreis eindigt op de wijze, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2008-10-01&g=2008-10-01);
+- d. het terugkeren van een schip tijdens een loodsreis, zonder dat de loodsreis eindigt op de wijze, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2013-04-01&g=2013-04-01);
 
 - e. het loodsen van een naar het oordeel van de bevoegde autoriteit niet behoorlijk bestuurbaar schip;
 
@@ -300,7 +300,7 @@ Als bijzondere loodsreis worden de volgende loodsreizen aangemerkt:
 
 ##### Artikel 4.14
 
-1. De raad van bestuur stelt afzonderlijke Z- en B-tarieven vast voor de zeehavengebieden, genoemd in [artikel 1.1, onder 1°. tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-10-01&g=2008-10-01).
+1. De Autoriteit Consument en Markt stelt afzonderlijke Z- en B-tarieven vast voor de zeehavengebieden, genoemd in [artikel 1.1, onder 1°. tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2013-04-01&g=2013-04-01).
 
 2. Aan deze zeehavengebieden worden ten behoeve van de tarifering achtereenvolgens de volgende benamingen toegekend:
 
@@ -320,7 +320,7 @@ Als bijzondere loodsreis worden de volgende loodsreizen aangemerkt:
 
 ##### Artikel 4.15
 
-1. De organisatie verleent op het toepasselijke Z- en B-tarief volgens een bij besluit van de raad van bestuur vastgesteld schema in de volgende gevallen een korting:
+1. De organisatie verleent op het toepasselijke Z- en B-tarief volgens een bij besluit van de Autoriteit Consument en Markt vastgesteld schema in de volgende gevallen een korting:
 
 - a. indien een individueel schip binnen een kalenderjaar de in het schema aangegeven frequentie in calls haalt;
 
@@ -348,7 +348,7 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 ##### Artikel 4.19
 
-1. De raad van bestuur stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
+1. De Autoriteit Consument en Markt stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
 
 - a. het bestellen van een loods buiten kantooruren;
 
@@ -372,7 +372,7 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 ##### Artikel 4.20
 
-1. De raad van bestuur stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
+1. De Autoriteit Consument en Markt stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
 
 - a. reis- en verblijfkosten voor reizen binnen een regio als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=10);
 
@@ -386,23 +386,23 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 ##### Artikel 4.21
 
-1. Een voorstel van de algemene raad met betrekking tot de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop die tarieven betrekking hebben aan de raad van bestuur gezonden. De raad van bestuur kan op verzoek van de algemene raad een latere datum vaststellen.
+1. Een voorstel van de algemene raad met betrekking tot de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop die tarieven betrekking hebben aan de Autoriteit Consument en Markt gezonden. De Autoriteit Consument en Markt kan op verzoek van de algemene raad een latere datum vaststellen.
 
-2. De raad van bestuur neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in het eerste lid een beslissing op dat voorstel.
+2. De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in het eerste lid een beslissing op dat voorstel.
 
 3. Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), en dat de bijbehorende ramingen correct zijn opgesteld.
 
 ##### Artikel 4.22
 
-1. Een voorstel van de algemene raad met betrekking tot andere tarieven dan de loodsgeldtarieven wordt door de algemene raad ten minste zeventien weken voorafgaand aan de beoogde datum van inwerkingtreding aan de raad van bestuur gezonden.
+1. Een voorstel van de algemene raad met betrekking tot andere tarieven dan de loodsgeldtarieven wordt door de algemene raad ten minste zeventien weken voorafgaand aan de beoogde datum van inwerkingtreding aan de Autoriteit Consument en Markt gezonden.
 
 2. Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b).
 
 ##### Artikel 4.23
 
-1. De raad van bestuur stelt in een uitnodiging als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.
+1. De Autoriteit Consument en Markt stelt in een uitnodiging als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.
 
-2. De raad van bestuur neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een beslissing op dat voorstel.
+2. De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een beslissing op dat voorstel.
 
 ### Hoofdstuk 5. Verantwoording
 
@@ -434,7 +434,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2008.
 
 Dit besluit wordt aangehaald als: Besluit markttoezicht registerloodsen.
 
-## Bijlage. als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-10-01&g=2008-10-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2008-10-01&g=2008-10-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2008-10-01&g=2008-10-01) van het Besluit markttoezicht registerloodsen
+## Bijlage. als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2013-04-01&g=2013-04-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2013-04-01&g=2013-04-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2013-04-01&g=2013-04-01) van het Besluit markttoezicht registerloodsen
 
 Als zeehaven worden aangewezen:
 
