@@ -4,7 +4,7 @@ identifier: "BWBR0018380"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2013-04-01"
-last_updated: "2005-06-11"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018380"
 soort: "beleidsregel"
@@ -47,7 +47,9 @@ Besluit:
 
 - a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. prijsmaatregel: een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7) betreffende het beheersen van tarieven, een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13), de verplichting, bedoeld in [artikel 6a.17, vierde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.17), of de verplichting, bedoeld in [artikel 3, eerste lid, van de Regeling minimumpakket huurlijnen](https://wetten.overheid.nl/jci1.3:c:BWBR0016708&artikel=3);
+- b. prijsmaatregel: een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7) betreffende het beheersen van tarieven of een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13);
+
+- c. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
 
 2. De definities, bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en [artikel 1.1 van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1), zijn van toepassing.
 
@@ -57,27 +59,27 @@ Besluit:
 
 1. Het onderzoek als bedoeld in [artikel 6a.1, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.1) heeft mede betrekking op de gevolgen van een voorgenomen verplichting voor investeringen in alternatieve elektronische communicatienetwerken en bijbehorende faciliteiten.
 
-2. Het college oefent de krachtens [artikel 6a.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.2) aan hem verleende bevoegdheid om passende verplichtingen op te leggen zo uit dat aanbieders van alternatieve elektronische communicatienetwerken of bijbehorende faciliteiten zo min mogelijk de stimulans ontnomen wordt om te investeren in die netwerken en faciliteiten.
+2. De ACM oefent de krachtens [artikel 6a.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.2) aan haar verleende bevoegdheid om passende verplichtingen op te leggen zo uit dat aanbieders van alternatieve elektronische communicatienetwerken of bijbehorende faciliteiten zo min mogelijk de stimulans ontnomen wordt om te investeren in die netwerken en faciliteiten.
 
 #### § 3. Efficiënte kosten
 
 ##### Artikel 3
 
-Indien een onderneming moet voldoen aan een prijsmaatregel, kan het college voor het aantonen van efficiënte kosten in ieder geval gebruikmaken van:
+Indien een onderneming moet voldoen aan een prijsmaatregel, kan de ACM voor het aantonen van efficiënte kosten in ieder geval gebruikmaken van:
 
-- a. een door hem of een onafhankelijke derde uitgevoerde maatstafvergelijking, of
+- a. een door haar of een onafhankelijke derde uitgevoerde maatstafvergelijking, of
 
-- b. een door het college bepaald kostentoerekeningssysteem dat losstaat van een door de onderneming gebruikt systeem.
+- b. een door de ACM bepaald kostentoerekeningssysteem dat losstaat van een door de onderneming gebruikt systeem.
 
 #### § 4. Kwaliteit en toegang
 
 ##### Artikel 4
 
-1. Teneinde concurrentie op kwaliteit tussen aanbieders van elektronische communicatiediensten te bevorderen, oefent het college zijn bij of krachtens [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) verleende bevoegdheden zo uit dat ondernemingen met aanmerkelijke marktmacht zoveel mogelijk worden gestimuleerd om aan die concurrentie op kwaliteit bij te dragen.
+1. Teneinde concurrentie op kwaliteit tussen aanbieders van elektronische communicatiediensten te bevorderen, oefent de ACM haar bij of krachtens [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) verleende bevoegdheden zo uit dat ondernemingen met aanmerkelijke marktmacht zoveel mogelijk worden gestimuleerd om aan die concurrentie op kwaliteit bij te dragen.
 
 2. Een onderneming die krachtens [artikel 6a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.2) aan redelijke verzoeken tot toegang moet voldoen, komt die verplichting in elk geval niet na indien zij dat verzoek afwijst op andere dan objectieve gronden. Objectieve gronden zijn onder meer de technische en economische haalbaarheid en de noodzaak om de integriteit van het netwerk te handhaven.
 
-3. Het college oefent de bij of krachtens [hoofdstuk 6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) verleende bevoegdheden zo uit dat ondernemingen die beschikken over een aanmerkelijke marktmacht de bij of krachtens de wet gestelde kwaliteitsvoorschriften kunnen naleven.
+3. De ACM oefent de bij of krachtens [hoofdstuk 6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) verleende bevoegdheden zo uit dat ondernemingen die beschikken over een aanmerkelijke marktmacht de bij of krachtens de wet gestelde kwaliteitsvoorschriften kunnen naleven.
 
 #### § 5. Tarieftransparantie
 
@@ -101,6 +103,12 @@ Deze beleidsregels treden in werking de tweede dag na de dagtekening van de Staa
 
 ##### Artikel 7
 
-Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken over door het college uit te oefenen taken in de elektronische communicatiesector.
+Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken over door de ACM uit te oefenen taken in de elektronische communicatiesector.
+
+Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Deze beleidsregels berusten op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) en [artikel 3.2 van de Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&artikel=3.2).
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
