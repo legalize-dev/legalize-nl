@@ -211,31 +211,3 @@ Deze regeling treedt in werking met ingang van 1 april 2013.
 Deze regeling wordt aangehaald als: Regeling gegevensuitwisseling ACM en ministers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De ACM zendt de Minister jaarlijks voor 1 december een overzicht op hoofdlijnen van de verwachte werkzaamheden per sector voor het daaropvolgende jaar en een vergelijking van de verwachte werkzaamheden met de werkzaamheden van het lopende jaar.
-
-#### § 2. Werkzaamheden in internationaal verband
-
-#### § 3. Uitvoeringstoets en rapportage inzake effecten voor de mededinging
-
-#### § 4. Beleidsregels
-
-#### § 5. Interne organisatie ACM
-
-#### § 6. Voorstel bedragen doorberekening kosten ACM
-
-#### § 7. Jaarverslag, aanvullende financiële gegevens en rapportage ConsuWijzer
-
-##### Artikel 14a
-
-1. Onverminderd [artikel 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=30) informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.
-
-2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033092&paragraaf=3&artikel=6&z=2015-10-01&g=2015-10-01), waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
-
-#### § 8. Concentraties
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
