@@ -4,7 +4,7 @@ identifier: "BWBR0014124"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-01"
-last_updated: "2008-05-19"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014124"
 soort: "AMvB"
@@ -64,13 +64,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Indien er meerdere aanvragen om toekenning van een nummer waarop de procedure van veiling van toepassing is, bij het college zijn ingediend, stelt het college de aanvragers in kennis van het feit dat meerdere aanvragen zijn ingediend en dat de procedure van veiling wordt toegepast.
+1. Indien er meerdere aanvragen om toekenning van een nummer waarop de procedure van veiling van toepassing is, bij de Autoriteit Consument en Markt zijn ingediend, stelt de Autoriteit Consument en Markt de aanvragers in kennis van het feit dat meerdere aanvragen zijn ingediend en dat de procedure van veiling wordt toegepast.
 
-2. Indien er op dezelfde dag meerdere aanvragen om toekenning van een nummer waarop de procedure van loting van toepassing is, bij het college zijn ingediend, stelt het college de aanvragers in kennis van het feit dat meerdere aanvragen zijn ingediend en dat de procedure van loting wordt toegepast.
+2. Indien er op dezelfde dag meerdere aanvragen om toekenning van een nummer waarop de procedure van loting van toepassing is, bij de Autoriteit Consument en Markt zijn ingediend, stelt de Autoriteit Consument en Markt de aanvragers in kennis van het feit dat meerdere aanvragen zijn ingediend en dat de procedure van loting wordt toegepast.
 
-3. Bij toepassing van de procedure van veiling of van loting stelt het college het tijdstip vast waarop de veiling of de loting aanvangt alsmede de periode waarbinnen de veiling of de loting moet zijn beëindigd.
+3. Bij toepassing van de procedure van veiling of van loting stelt de Autoriteit Consument en Markt het tijdstip vast waarop de veiling of de loting aanvangt alsmede de periode waarbinnen de veiling of de loting moet zijn beëindigd.
 
-4. In de in het eerste en tweede lid bedoelde kennisgevingen wordt door het college mededeling gedaan van:
+4. In de in het eerste en tweede lid bedoelde kennisgevingen wordt door de Autoriteit Consument en Markt mededeling gedaan van:
 
 - a. het tijdstip van aanvang van de veiling onderscheidenlijk de loting;
 
@@ -84,21 +84,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Tot de veiling worden slechts toegelaten aanvragers die:
 
-- a. een aanvraag bij het college hebben ingediend voor toekenning van een nummer waarop de procedure van veiling van toepassing is en aan wie het college overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2008-05-19&g=2008-05-19) mededeling heeft gedaan, en
+- a. een aanvraag bij de Autoriteit Consument en Markt hebben ingediend voor toekenning van een nummer waarop de procedure van veiling van toepassing is en aan wie de Autoriteit Consument en Markt overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-04-01&g=2013-04-01) mededeling heeft gedaan, en
 
 - b. op grond van bij of krachtens de wet gestelde regels in aanmerking komen voor toekenning van het aangevraagde nummer.
 
 2. Tot de loting worden slechts toegelaten aanvragers die:
 
-- a. een aanvraag bij het college hebben ingediend voor toekenning van een nummer waarop de procedure van loting van toepassing is en aan wie het college overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2008-05-19&g=2008-05-19) mededeling heeft gedaan, en
+- a. een aanvraag bij de Autoriteit Consument en Markt hebben ingediend voor toekenning van een nummer waarop de procedure van loting van toepassing is en aan wie de Autoriteit Consument en Markt overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-04-01&g=2013-04-01) mededeling heeft gedaan, en
 
 - b. op grond van bij of krachtens de wet gestelde regels in aanmerking komen voor toekenning van het aangevraagde nummer.
 
 ##### Artikel 4
 
-1. Indien uit [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-05-19&g=2008-05-19), voorvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van veiling van toepassing is, kent het college dat nummer aan deze aanvrager toe zonder toepassing van een veiling.
+1. Indien uit [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2013-04-01&g=2013-04-01), voorvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van veiling van toepassing is, kent de Autoriteit Consument en Markt dat nummer aan deze aanvrager toe zonder toepassing van een veiling.
 
-2. Indien uit [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-05-19&g=2008-05-19), voortvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van loting van toepassing is, kent het college dat nummer aan deze aanvrager toe zonder toepassing van een loting.
+2. Indien uit [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2013-04-01&g=2013-04-01), voortvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van loting van toepassing is, kent de Autoriteit Consument en Markt dat nummer aan deze aanvrager toe zonder toepassing van een loting.
 
 ##### Artikel 5
 
