@@ -4,7 +4,7 @@ identifier: "BWBR0032736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-02-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032736"
 soort: "ministeriele-regeling"
@@ -50,10 +50,10 @@ Wijzigt de Regeling taxibestuurders 2005.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Van het bepaalde in [artikel 76, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), voor zover het de in dat lid bedoelde zichtbare aanwezigheid van het vergunningbewijs voor de reiziger betreft, wordt vrijstelling gegeven.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 april 2013, met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0032736&artikel=I&z=2013-04-01&g=2013-04-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0032736&artikel=II&z=2013-04-01&g=2013-04-01) die in werking treden met ingang van 1 februari 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
