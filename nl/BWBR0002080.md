@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -43,27 +43,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Er zijn tien rechtbanken, die als volgt worden aangeduid:
+Er zijn elf rechtbanken, die als volgt worden aangeduid:
 
 - a. de rechtbank Amsterdam;
 
 - b. de rechtbank Den Haag;
 
-- c. de rechtbank Limburg;
+- c. de rechtbank Gelderland;
 
-- d. de rechtbank Midden-Nederland;
+- d. de rechtbank Limburg;
 
-- e. de rechtbank Noord-Holland;
+- e. de rechtbank Midden-Nederland;
 
-- f. de rechtbank Noord-Nederland;
+- f. de rechtbank Noord-Holland;
 
-- g. de rechtbank Oost-Brabant;
+- g. de rechtbank Noord-Nederland;
 
-- h. de rechtbank Oost-Nederland;
+- h. de rechtbank Oost-Brabant;
 
-- i. de rechtbank Rotterdam;
+- i. de rechtbank Overijssel;
 
-- j. de rechtbank Zeeland-West-Brabant.
+- j. de rechtbank Rotterdam;
+
+- k. de rechtbank Zeeland-West-Brabant.
 
 ##### Artikel 2
 
@@ -79,7 +81,7 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2013-01-01&g=2013-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2013-01-01&g=2013-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2013-04-01&g=2013-04-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2013-04-01&g=2013-04-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
@@ -99,7 +101,7 @@ Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flev
 
 ##### Artikel 8
 
-Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Anna Paulowna, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Graft-De Rijp, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Niedorp, Oostzaan, Opmeer, Purmerend, Schagen, Schermer, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wieringen, Wieringermeer, Wormerland, Zaanstad, Zandvoort en Zeevang.
+Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Graft-De Rijp, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Schermer, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad, Zandvoort en Zeevang.
 
 ##### Artikel 9
 
@@ -111,7 +113,7 @@ Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Be
 
 ##### Artikel 11
 
-Het arrondissement Oost-Nederland omvat het grondgebied van de provincies Gelderland en Overijssel.
+Het arrondissement Overijssel omvat het grondgebied van de provincie Overijssel.
 
 ##### Artikel 12
 
@@ -129,11 +131,13 @@ Het ressort Amsterdam omvat de volgende arrondissementen:
 
 Het ressort Arnhem-Leeuwarden omvat de volgende arrondissementen:
 
-- a. Midden-Nederland;
+- a. Gelderland;
 
-- b. Noord-Nederland;
+- b. Midden-Nederland;
 
-- c. Oost-Nederland.
+- c. Noord-Nederland;
+
+- d. Overijssel.
 
 ##### Artikel 16
 
@@ -174,5 +178,15 @@ Indien een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onderdeel
 ##### Artikel 19
 
 Deze wet wordt aangehaald als: Wet op de rechterlijke indeling.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+Het arrondissement Gelderland omvat het grondgebied van de provincie Gelderland.
+
+#### § 3. Ressorten
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
