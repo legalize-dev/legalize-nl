@@ -4,7 +4,7 @@ identifier: "BWBR0023167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2012-11-02"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023167"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1
 
 - c. het Centraal Nautisch Beheer Noordzeekanaalgebied;
 
-- d. de gemeente Amsterdam;
+- d. het Havenbedrijf Amsterdam N.V. namens de gemeente Amsterdam;
 
 - e. de gemeente Den Helder;
 
@@ -90,13 +90,13 @@ Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1
 
 Voor de toepassing van [artikel 27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c), en [27d, vierde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) worden vier regionale overlegcommissies ingesteld die, naast het bestuur van de desbetreffende regionale loodsencorporatie bestaan uit:
 
-- a. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen a en b,](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2012-11-02&g=2012-11-02) en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2012-11-02&g=2012-11-02), in de regio Noord;
+- a. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen a en b,](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2013-04-01&g=2013-04-01) en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2013-04-01&g=2013-04-01), in de regio Noord;
 
-- b. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2012-11-02&g=2012-11-02), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2012-11-02&g=2012-11-02), in de regio Amsterdam-IJmond;
+- b. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2013-04-01&g=2013-04-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2013-04-01&g=2013-04-01), in de regio Amsterdam-IJmond;
 
-- c. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2012-11-02&g=2012-11-02), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2012-11-02&g=2012-11-02), in de regio Rotterdam-Rijnmond;
+- c. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2013-04-01&g=2013-04-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2013-04-01&g=2013-04-01), in de regio Rotterdam-Rijnmond;
 
-- d. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2012-11-02&g=2012-11-02), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2012-11-02&g=2012-11-02), in de regio Scheldemonden.
+- d. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2013-04-01&g=2013-04-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2013-04-01&g=2013-04-01), in de regio Scheldemonden.
 
 ##### Artikel 4. Correctiefactor
 
