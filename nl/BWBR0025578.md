@@ -4,7 +4,7 @@ identifier: "BWBR0025578"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-07"
-last_updated: "2011-04-28"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025578"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid, kan de verlener van de universele postdienst in de algemene voorwaarden bepalen dat gedurende een aaneengesloten periode van ten hoogste 21 dagen in de maand december de poststukken zijnde losse brieven enkel worden vervoerd met de standaard overnight service indien deze brieven tijdig op een dienstverleningspunt zijn aangeboden en voldoende gefrankeerd zijn.
 
-3. De verlener van de universele postdienst maakt jaarlijks voor 1 november de periode, bedoeld in het tweede lid, aan het college bekend.
+3. De verlener van de universele postdienst maakt jaarlijks voor 1 november de periode, bedoeld in het tweede lid, aan de Autoriteit Consument en Markt bekend.
 
 4. De verlener van de universele postdienst kondigt de periode, bedoeld in het tweede lid, op genoegzame wijze aan het publiek aan.
 
@@ -80,9 +80,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een volledig assortiment van diensten als bedoeld in [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=1&z=2011-04-28&g=2011-04-28).
+1. Een volledig assortiment van diensten als bedoeld in [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=1&z=2013-04-01&g=2013-04-01).
 
-2. Een nagenoeg volledig assortiment van diensten bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=2&z=2011-04-28&g=2011-04-28).
+2. Een nagenoeg volledig assortiment van diensten bevat de diensten en activiteiten die zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&bijlage=2&z=2013-04-01&g=2013-04-01).
 
 3. De verlener van de universele postdienst kan een dienstverleningspunt in een woonkern met minder dan 5000 inwoners zonder winkelgebied sluiten indien:
 
@@ -168,11 +168,11 @@ In deze regeling wordt verstaan onder:
 
 1. De boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=22), wordt ingericht overeenkomstig consequent toegepaste, objectief gerechtvaardigde en algemeen aanvaardbare normen voor bedrijfsadministratie.
 
-2. De boekhouding van de verlener van universele postdienst geeft de kosten, zoals toegerekend op grond van het kostentoerekeningssysteem bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28), en de opbrengsten van de universele postdienst weer.
+2. De boekhouding van de verlener van universele postdienst geeft de kosten, zoals toegerekend op grond van het kostentoerekeningssysteem bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01), en de opbrengsten van de universele postdienst weer.
 
 ##### Artikel 9
 
-De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor 1 juni aan het college. De rapportage heeft betrekking op het kalenderjaar voorafgaand aan de indiening ervan en bevat ten minste:
+De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor 1 juni aan de Autoriteit Consument en Markt. De rapportage heeft betrekking op het kalenderjaar voorafgaand aan de indiening ervan en bevat ten minste:
 
 - a. het aantal dienstverleningspunten, uitgesplitst naar soort, aan het einde van elk kwartaal;
 
@@ -194,7 +194,7 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 2. De verlener van de universele postdienst laat de meting, bedoeld in het eerste lid, maandelijks uitvoeren door een onafhankelijke en deskundige instelling.
 
-3. De verlener van de universele postdienst legt aan het college voor 1 juni van het kalenderjaar na de meting over:
+3. De verlener van de universele postdienst legt aan de Autoriteit Consument en Markt voor 1 juni van het kalenderjaar na de meting over:
 
 - a. de algehele uitkomsten van de meting;
 
@@ -204,11 +204,11 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 ##### Artikel 11
 
-1. De jaarlijkse rapportage gaat vergezeld van een financiële verantwoording van de verlener van de universele postdienst over de activiteiten ter uitvoering van de universele postdienst die is gebaseerd op de boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2011-04-28&g=2011-04-28).
+1. De jaarlijkse rapportage gaat vergezeld van een financiële verantwoording van de verlener van de universele postdienst over de activiteiten ter uitvoering van de universele postdienst die is gebaseerd op de boekhouding van de verlener van de universele postdienst, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2013-04-01&g=2013-04-01).
 
 2. De financiële verantwoording bevat:
 
-- a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28);
+- a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01);
 
 - b. een overzicht van de gerealiseerde volumes;
 
@@ -218,33 +218,33 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 ##### Artikel 12
 
-1. De jaarlijkse rapportage gaat vergezeld van een verklaring van een, door het college aan te wijzen, openbaar accountant.
+1. De jaarlijkse rapportage gaat vergezeld van een verklaring van een, door de Autoriteit Consument en Markt aan te wijzen, openbaar accountant.
 
 2. De verklaring heeft betrekking op de controle van de accountant op:
 
-- a. de wijze van inrichting en toepassing van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28);
+- a. de wijze van inrichting en toepassing van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01);
 
-- b. de vaststelling van de kosten en opbrengsten van de universele postdienst op grond van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28);
+- b. de vaststelling van de kosten en opbrengsten van de universele postdienst op grond van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01);
 
-- c. de inrichting van de boekhouding, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2011-04-28&g=2011-04-28);
+- c. de inrichting van de boekhouding, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=8&z=2013-04-01&g=2013-04-01);
 
-- d. het beleid ten aanzien van de dienstverleningspunten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=9&z=2011-04-28&g=2011-04-28);
+- d. het beleid ten aanzien van de dienstverleningspunten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=9&z=2013-04-01&g=2013-04-01);
 
-- e. de kwaliteit van de overnight service, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=10&z=2011-04-28&g=2011-04-28);
+- e. de kwaliteit van de overnight service, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=10&z=2013-04-01&g=2013-04-01);
 
-- f. de financiële verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2011-04-28&g=2011-04-28).
+- f. de financiële verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2013-04-01&g=2013-04-01).
 
 3. De verklaring gaat vergezeld van het controleplan, het controleverslag van de accountant en het oordeel van de accountant over zijn controle.
 
-4. Indien de in het eerste lid bedoelde accountant tevens de onafhankelijke accountant is die de in [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) voorgeschreven accountantscontrole verricht met betrekking tot de jaarrekening en het jaarverslag van de vennootschap die de verlener van de universele postdienst is, kan het college een andere openbaar accountant aanwijzen voor het verrichten van een vakgenootschappelijke toetsing van de uitvoering van de controletaken, bedoeld in het tweede lid.
+4. Indien de in het eerste lid bedoelde accountant tevens de onafhankelijke accountant is die de in [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) voorgeschreven accountantscontrole verricht met betrekking tot de jaarrekening en het jaarverslag van de vennootschap die de verlener van de universele postdienst is, kan de Autoriteit Consument en Markt een andere openbaar accountant aanwijzen voor het verrichten van een vakgenootschappelijke toetsing van de uitvoering van de controletaken, bedoeld in het tweede lid.
 
-5. De accountant die de vakgenootschappelijke toetsing, bedoeld in het derde lid, uitvoert deelt als resultaat van zijn toetsing aan het college mede of de verklaring, bedoeld in het tweede lid, op voldoende deugdelijke grondslag berust.
+5. De accountant die de vakgenootschappelijke toetsing, bedoeld in het derde lid, uitvoert deelt als resultaat van zijn toetsing aan de Autoriteit Consument en Markt mede of de verklaring, bedoeld in het tweede lid, op voldoende deugdelijke grondslag berust.
 
-6. Het college zendt een afschrift van het resultaat van de vakgenootschappelijke toetsing aan de minister.
+6. de Autoriteit Consument en Markt zendt een afschrift van het resultaat van de vakgenootschappelijke toetsing aan de minister.
 
-7. Indien het resultaat van de vakgenootschappelijke toetsing inhoudt dat naar het oordeel van de accountant die de vakgenootschappelijke toetsing heeft verricht, de verklaring, bedoeld in het tweede lid, niet of niet geheel op een voldoende deugdelijke grondslag berust, geeft deze in zijn mededeling aan het college de zakelijke gronden aan waarop zijn beoordeling berust, zonder dat hij daarbij melding maakt van of in bijzonderheden treedt over de inhoud van de controledossiers waarin hij ter uitvoering van zijn vakgenootschappelijke toetsing inzage heeft gehad.
+7. Indien het resultaat van de vakgenootschappelijke toetsing inhoudt dat naar het oordeel van de accountant die de vakgenootschappelijke toetsing heeft verricht, de verklaring, bedoeld in het tweede lid, niet of niet geheel op een voldoende deugdelijke grondslag berust, geeft deze in zijn mededeling aan de Autoriteit Consument en Markt de zakelijke gronden aan waarop zijn beoordeling berust, zonder dat hij daarbij melding maakt van of in bijzonderheden treedt over de inhoud van de controledossiers waarin hij ter uitvoering van zijn vakgenootschappelijke toetsing inzage heeft gehad.
 
-8. De mededeling, bedoeld in het vierde lid, wordt gedaan binnen zes maanden na de datum waarop de verklaring, bedoeld in het tweede lid, aan het college is overgelegd.
+8. De mededeling, bedoeld in het vierde lid, wordt gedaan binnen zes maanden na de datum waarop de verklaring, bedoeld in het tweede lid, aan de Autoriteit Consument en Markt is overgelegd.
 
 ### Hoofdstuk 4. Tarieven universele postdienst
 
@@ -252,65 +252,65 @@ De verlener van de universele postdienst verstrekt de jaarlijkse rapportage voor
 
 ##### Artikel 13
 
-1. De daadwerkelijke kosten, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), zijn de aan de universele postdienst toe te rekenen kosten, bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28).
+1. De daadwerkelijke kosten, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), zijn de aan de universele postdienst toe te rekenen kosten, bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01).
 
-2. De verlener van de universele postdienst berekent de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28), op grond van de kosten die zijn gemaakt in het kalenderjaar voorafgaand aan het jaar waarin de tarieven door het college worden aangepast.
+2. De verlener van de universele postdienst berekent de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01), op grond van de kosten die zijn gemaakt in het kalenderjaar voorafgaand aan het jaar waarin de tarieven door de Autoriteit Consument en Markt worden aangepast.
 
 ##### Artikel 14
 
-Het redelijk rendement per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28), van de verlener van de universele postdienst, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), is 11,11 procent van de daadwerkelijke kosten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-04-28&g=2011-04-28), van de betreffende categorie in het jaar voorafgaand aan de aanpassing van de tarieven door het college.
+Het redelijk rendement per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01), van de verlener van de universele postdienst, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), is 11,11 procent van de daadwerkelijke kosten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2013-04-01&g=2013-04-01), van de betreffende categorie in het jaar voorafgaand aan de aanpassing van de tarieven door de Autoriteit Consument en Markt.
 
 ##### Artikel 15
 
-1. Het college past in 2011 en vervolgens vierjaarlijks uiterlijk 1 oktober de tarieven, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), aan.
+1. De Autoriteit Consument en Markt past in 2011 en vervolgens vierjaarlijks uiterlijk 1 oktober de tarieven, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), aan.
 
-2. In het jaar waarin de tarieven door het college worden aangepast, legt de verlener van de universele postdienst uiterlijk 1 juni aan het college over:
+2. In het jaar waarin de tarieven door de Autoriteit Consument en Markt worden aangepast, legt de verlener van de universele postdienst uiterlijk 1 juni aan de Autoriteit Consument en Markt over:
 
-- a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28), in het jaar voorafgaand aan de aanpassing van de tarieven door het college, berekend op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-04-28&g=2011-04-28);
+- a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01), in het jaar voorafgaand aan de aanpassing van de tarieven door de Autoriteit Consument en Markt, berekend op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2013-04-01&g=2013-04-01);
 
-- b. een overzicht van de gerealiseerde volumes in het kalenderjaar voorafgaand aan de aanpassing van de tarieven door het college;
+- b. een overzicht van de gerealiseerde volumes in het kalenderjaar voorafgaand aan de aanpassing van de tarieven door de Autoriteit Consument en Markt;
 
-- c. een voorstel voor de door het college aan te passen tarieven, waarbij de vermenigvuldiging van de tarieven met de gerealiseerde volumes, bedoeld in onderdeel b, niet groter is dan de daadwerkelijke kosten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2011-04-28&g=2011-04-28), vermeerderd met het redelijk rendement, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=14&z=2011-04-28&g=2011-04-28).
+- c. een voorstel voor de door de Autoriteit Consument en Markt aan te passen tarieven, waarbij de vermenigvuldiging van de tarieven met de gerealiseerde volumes, bedoeld in onderdeel b, niet groter is dan de daadwerkelijke kosten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=13&z=2013-04-01&g=2013-04-01), vermeerderd met het redelijk rendement, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=14&z=2013-04-01&g=2013-04-01).
 
-3. Het tweede lid, onderdeel a, is niet van toepassing indien de financiële verantwoording bij de jaarlijkse rapportage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2011-04-28&g=2011-04-28), over het jaar voorafgaand aan de aanpassing van de tarieven door het college, reeds is overgelegd.
+3. Het tweede lid, onderdeel a, is niet van toepassing indien de financiële verantwoording bij de jaarlijkse rapportage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=11&z=2013-04-01&g=2013-04-01), over het jaar voorafgaand aan de aanpassing van de tarieven door de Autoriteit Consument en Markt, reeds is overgelegd.
 
-4. Het college kan na ontvangst van het voorstel, de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij of verzoeken om het overleggen van nadere gegevens.
+4. De Autoriteit Consument en Markt kan na ontvangst van het voorstel, de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij of verzoeken om het overleggen van nadere gegevens.
 
 5. De verlener van de universele postdienst voldoet binnen vier weken aan het verzoek.
 
-6. Uiterlijk per 1 januari van het kalenderjaar na afloop van het jaar waarin de tarieven door het college zijn aangepast, verricht de verlener van de universele postdienst de postvervoerdiensten binnen de universele postdienst tegen deze tarieven.
+6. Uiterlijk per 1 januari van het kalenderjaar na afloop van het jaar waarin de tarieven door de Autoriteit Consument en Markt zijn aangepast, verricht de verlener van de universele postdienst de postvervoerdiensten binnen de universele postdienst tegen deze tarieven.
 
 ##### Artikel 16
 
-1. De verlener van de universele postdienst legt op het tijdstip, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2011-04-28&g=2011-04-28), tevens aan het college een verklaring van een onafhankelijke, door het college aan te wijzen, accountant over, die betrekking heeft op de controle van de accountant op:
+1. De verlener van de universele postdienst legt op het tijdstip, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2013-04-01&g=2013-04-01), tevens aan de Autoriteit Consument en Markt een verklaring van een onafhankelijke, door de Autoriteit Consument en Markt aan te wijzen, accountant over, die betrekking heeft op de controle van de accountant op:
 
 - a. de wijze van de berekening en de vaststelling van de daadwerkelijke kosten, bedoeld in artikel 13;
 
-- b. de vaststelling van de gerealiseerde volumes, bedoeld in [artikel 15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2011-04-28&g=2011-04-28);
+- b. de vaststelling van de gerealiseerde volumes, bedoeld in [artikel 15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2013-04-01&g=2013-04-01);
 
-- c. de wijze van inrichting en toepassing van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2011-04-28&g=2011-04-28).
+- c. de wijze van inrichting en toepassing van het kostentoerekeningssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=7&z=2013-04-01&g=2013-04-01).
 
 2. De verklaring gaat vergezeld van het controleplan, het controleverslag van de accountant en het oordeel van de accountant over zijn controle.
 
-3. [Artikel 12, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2011-04-28&g=2011-04-28), zijn van overeenkomstige toepassing, tenzij de vakgenootschappelijke toetsing, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2011-04-28&g=2011-04-28), reeds is verricht.
+3. [Artikel 12, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2013-04-01&g=2013-04-01), zijn van overeenkomstige toepassing, tenzij de vakgenootschappelijke toetsing, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2013-04-01&g=2013-04-01), reeds is verricht.
 
-4. Het eerste en tweede lid zijn niet van toepassing indien de accountantsverklaring bij de jaarlijkse rapportage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2011-04-28&g=2011-04-28), over het jaar voorafgaand aan de aanpassing van de tarieven door het college, reeds is overgelegd.
+4. Het eerste en tweede lid zijn niet van toepassing indien de accountantsverklaring bij de jaarlijkse rapportage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2013-04-01&g=2013-04-01), over het jaar voorafgaand aan de aanpassing van de tarieven door de Autoriteit Consument en Markt, reeds is overgelegd.
 
 #### § 2. Aanpassing tarieven universele postdienst
 
 ##### Artikel 17
 
-1. Het college gaat bij de toetsing of tariefwijzigingen voldoen aan [artikel 25, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), uit van de gewogen gemiddelde tarieven van enerzijds:
+1. De Autoriteit Consument en Markt gaat bij de toetsing of tariefwijzigingen voldoen aan [artikel 25, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), uit van de gewogen gemiddelde tarieven van enerzijds:
 
 - a. de enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van brieven als bedoeld in [artikel 16, eerste lid, onderdeel a, tweede lid, onderdeel a, derde lid, onderdeel a en b, en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), en anderzijds;
 
 - b. de enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken niet zijnde brieven als bedoeld in [artikel 16, eerste lid, onderdeel b, tweede lid, onderdeel b en c, derde lid, onderdeel a en b, en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16).
 
-2. Het percentage bedoeld in [artikel 25, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), waarmee de gewogen gemiddelde tarieven, bedoeld in het eerste lid, voor de universele postdienst in de periode vanaf de meest recente aanpassing van de tarieven op basis van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2011-04-28&g=2011-04-28), tot aan de voorgestelde ingangsdatum van de tariefswijziging jaarlijks mogen worden gewijzigd, is voor alle tariefswijzigingen over voornoemde periode tezamen ten hoogste gelijk aan de gecumuleerde ontwikkeling van de door het Centraal Planbureau gepubliceerde consumentenprijsindex in de periode vanaf de eerste dag van het kalenderjaar waarin de meest recente vaststelling van de tarieven op basis van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25) heeft plaatsgevonden tot en met de laatste dag van het kalenderjaar waarin de voorgestelde tariefswijziging ingaat.
+2. Het percentage bedoeld in [artikel 25, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), waarmee de gewogen gemiddelde tarieven, bedoeld in het eerste lid, voor de universele postdienst in de periode vanaf de meest recente aanpassing van de tarieven op basis van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2013-04-01&g=2013-04-01), tot aan de voorgestelde ingangsdatum van de tariefswijziging jaarlijks mogen worden gewijzigd, is voor alle tariefswijzigingen over voornoemde periode tezamen ten hoogste gelijk aan de gecumuleerde ontwikkeling van de door het Centraal Planbureau gepubliceerde consumentenprijsindex in de periode vanaf de eerste dag van het kalenderjaar waarin de meest recente vaststelling van de tarieven op basis van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25) heeft plaatsgevonden tot en met de laatste dag van het kalenderjaar waarin de voorgestelde tariefswijziging ingaat.
 
-3. Het college toetst of een tariefswijziging van de verlener van de universele dienst voldoet aan het tweede lid.
+3. De Autoriteit Consument en Markt toetst of een tariefswijziging van de verlener van de universele dienst voldoet aan het tweede lid.
 
-4. De weging, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de binnen het postvervoer, bedoeld in het eerste lid, onderdeel a onderscheidenlijk onderdeel b, te onderscheiden postdiensten van het kalenderjaar voorafgaand aan het jaar waarin door het college de tarieven worden aangepast op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2011-04-28&g=2011-04-28).
+4. De weging, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de binnen het postvervoer, bedoeld in het eerste lid, onderdeel a onderscheidenlijk onderdeel b, te onderscheiden postdiensten van het kalenderjaar voorafgaand aan het jaar waarin door de Autoriteit Consument en Markt de tarieven worden aangepast op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=1&artikel=15&z=2013-04-01&g=2013-04-01).
 
 5. In afwijking van het vierde lid, kan de weging, bedoeld in het eerste lid, gebaseerd worden op de omzetaandelen van een later kalenderjaar:
 
@@ -318,27 +318,27 @@ Het redelijk rendement per categorie poststukken, genoemd in [artikel 7, vierde 
 
 - b. indien de indeling van de diensten binnen een in het eerste lid genoemde categorie is of wordt gewijzigd.
 
-6. De verlener van de universele dienst dient een verzoek, als bedoeld in het vijfde lid, onderdeel a, voor 1 juni in bij het college. Bij het verzoek legt hij een verklaring over van de openbaar accountant, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2011-04-28&g=2011-04-28), aangaande de juistheid en de volledigheid van de verstrekte omzetaandelen.
+6. De verlener van de universele dienst dient een verzoek, als bedoeld in het vijfde lid, onderdeel a, voor 1 juni in bij de Autoriteit Consument en Markt. Bij het verzoek legt hij een verklaring over van de openbaar accountant, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=3&artikel=12&z=2013-04-01&g=2013-04-01), aangaande de juistheid en de volledigheid van de verstrekte omzetaandelen.
 
 #### § 3. Tariefwijzigingen
 
 ##### Artikel 18
 
-1. De verlener van de universele postdienst legt bij de toezending aan het college, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27), gegevens over waaruit blijkt dat de tarieven en de wijziging van de tarieven in overeenstemming zijn met de vereisten van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), en [artikel 25, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25).
+1. De verlener van de universele postdienst legt bij de toezending aan de Autoriteit Consument en Markt, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27), gegevens over waaruit blijkt dat de tarieven en de wijziging van de tarieven in overeenstemming zijn met de vereisten van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), en [artikel 25, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25).
 
-Indien de indeling van de diensten binnen een in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=17&z=2011-04-28&g=2011-04-28), genoemde categorie is of wordt gewijzigd overlegt de verlener van de universele postdienst gegevens over waaruit blijkt wat de effecten van de nieuwe indeling zijn op de gewogen gemiddelde tarieven.
+Indien de indeling van de diensten binnen een in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025578&hoofdstuk=4&paragraaf=2&artikel=17&z=2013-04-01&g=2013-04-01), genoemde categorie is of wordt gewijzigd overlegt de verlener van de universele postdienst gegevens over waaruit blijkt wat de effecten van de nieuwe indeling zijn op de gewogen gemiddelde tarieven.
 
-2. De verlener van de universele postdienst legt bij de gegevens, bedoeld in het eerste lid, een verklaring over van een onafhankelijke, door het college aan te wijzen, accountant. De verklaring heeft betrekking op de controle van de accountant van de gegevens, bedoeld in het eerste lid, aan de vereisten van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), en [artikel 25, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25).
+2. De verlener van de universele postdienst legt bij de gegevens, bedoeld in het eerste lid, een verklaring over van een onafhankelijke, door de Autoriteit Consument en Markt aan te wijzen, accountant. De verklaring heeft betrekking op de controle van de accountant van de gegevens, bedoeld in het eerste lid, aan de vereisten van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=24), en [artikel 25, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25).
 
 ##### Artikel 19
 
-1. Binnen twee weken na de ontvangst van de tarieven of de wijziging van de tarieven, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27), kan het college de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij, en verzoeken om het overleggen van nadere gegevens.
+1. Binnen twee weken na de ontvangst van de tarieven of de wijziging van de tarieven, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27), kan de Autoriteit Consument en Markt de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij, en verzoeken om het overleggen van nadere gegevens.
 
 2. De verlener van de universele postdienst voldoet binnen een week aan het verzoek.
 
-3. Indien naar het oordeel van het college de voorgestelde tarieven niet in overeenstemming zijn met het bepaalde bij of krachtens [paragraaf 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&paragraaf=4.5), deelt het college dit binnen drie weken na de ontvangst van de tarieven of de wijziging van de tarieven, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27) mee aan de verlener van de universele postdienst.
+3. Indien naar het oordeel van de Autoriteit Consument en Markt de voorgestelde tarieven niet in overeenstemming zijn met het bepaalde bij of krachtens [paragraaf 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&paragraaf=4.5), deelt de Autoriteit Consument en Markt dit binnen drie weken na de ontvangst van de tarieven of de wijziging van de tarieven, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27) mee aan de verlener van de universele postdienst.
 
-4. De termijn, bedoeld in het derde lid, wordt opgeschort met de periode vanaf de dag na de datum waarop het college de verlener van de universele dienst schriftelijk heeft verzocht om de informatie, bedoeld in het eerste lid, tot en met de dag waarop de gevraagde informatie door het college is ontvangen.
+4. De termijn, bedoeld in het derde lid, wordt opgeschort met de periode vanaf de dag na de datum waarop de Autoriteit Consument en Markt de verlener van de universele dienst schriftelijk heeft verzocht om de informatie, bedoeld in het eerste lid, tot en met de dag waarop de gevraagde informatie door de Autoriteit Consument en Markt is ontvangen.
 
 ### Hoofdstuk 5. Slotbepalingen
 
