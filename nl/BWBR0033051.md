@@ -207,9 +207,3 @@ Bij een niet-openbare procedure en onderhandelingsprocedure met aankondiging kan
 Wanneer een speciale-sectorbedrijf bij de niet-openbare procedure of de onderhandelingsprocedure met aankondiging het aantal gegadigden terugbrengt, dient hij dit op grond van de in de aankondiging vermelde selectiecriteria te doen. Het speciale-sectorbedrijf zal bij de vraag of en welke selectiecriteria hij stelt, moeten afwegen of het criterium proportioneel is in het licht van de opdracht. Indien het speciale-sectorbedrijf selectiecriteria stelt, dient het speciale-sectorbedrijf de selectiecriteria in bijlage 1 van de Eigen verklaring weer te geven. De ondernemer dient vervolgens in bijlage 1 van de Eigen verklaring aan te geven hoe hij aan de selectiecriteria voldoet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 2. , behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&artikel=1&z=2016-07-01&g=2016-07-01) van de Regeling modellen eigen verklaring
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
