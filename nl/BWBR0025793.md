@@ -4,7 +4,7 @@ identifier: "BWBR0025793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2012-06-28"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025793"
 soort: "ministeriele-regeling"
@@ -59,5 +59,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Vergoedingenregeling Raad voor cultuur.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal in de Staatscourant worden geplaatst.
