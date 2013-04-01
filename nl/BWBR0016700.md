@@ -4,7 +4,7 @@ identifier: "BWBR0016700"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2012-06-05"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016700"
 soort: "AMvB"
@@ -74,17 +74,17 @@ Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder v
 
 op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
-2. Het college maakt jaarlijks op genoegzame wijze bekend welke hem bekende openbare telefoonnetwerken binnen de Europese Unie een serving netwerk betreffen als bedoeld in NEN-EN 301160.
+2. De Autoriteit Consument en Markt maakt jaarlijks op genoegzame wijze bekend welke haar bekende openbare telefoonnetwerken binnen de Europese Unie een serving netwerk betreffen als bedoeld in NEN-EN 301160.
 
 ##### Artikel 4
 
 1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:
 
-- a. een zich in Nederland bevindende abonnee die gebruik maakt van een door het college toegekend nummer op dat nummer kan worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers, en
+- a. een zich in Nederland bevindende abonnee die gebruik maakt van een door de Autoriteit Consument en Markt toegekend nummer op dat nummer kan worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers, en
 
 - b. een zich in een andere lidstaat van de Europese Unie bevindende abonnee die gebruik maakt van een nummer, toegekend door een nationale regelgevende instantie, op dat nummer kan worden opgeroepen door zich in Nederland bevindende eindgebruikers.
 
-2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op aanbieders van andere openbare elektronische communicatiediensten dan de openbare telefoondienst die abonnees die gebruik maken van een door het college toegekend niet-geografisch nummer de mogelijkheid bieden om binnenkomende oproepen te ontvangen en aanbieders van openbare elektronische communicatienetwerken wier medewerking noodzakelijk is om die dienst aan te bieden.
+2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op aanbieders van andere openbare elektronische communicatiediensten dan de openbare telefoondienst die abonnees die gebruik maken van een door de Autoriteit Consument en Markt toegekend niet-geografisch nummer de mogelijkheid bieden om binnenkomende oproepen te ontvangen en aanbieders van openbare elektronische communicatienetwerken wier medewerking noodzakelijk is om die dienst aan te bieden.
 
 3. De verplichting, bedoeld in het eerste en tweede lid, geldt niet:
 
