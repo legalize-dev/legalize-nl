@@ -4,7 +4,7 @@ identifier: "BWBR0032316"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032316"
 soort: "AMvB"
@@ -54,21 +54,23 @@ Als zittingsplaatsen van de volgende rechtbanken worden aangewezen:
 
 - b. rechtbank Den Haag: Gouda, ’s-Gravenhage en Leiden;
 
-- c. rechtbank Limburg: Maastricht en Roermond;
+- c. rechtbank Gelderland: Apeldoorn, Arnhem, Nijmegen en Zutphen;
 
-- d. rechtbank Midden-Nederland: Almere, Amersfoort, Lelystad en Utrecht;
+- d. rechtbank Limburg: Maastricht en Roermond;
 
-- e. rechtbank Noord-Holland: Alkmaar, Haarlem, Haarlemmermeer en Zaanstad;
+- e. rechtbank Midden-Nederland: Almere, Amersfoort, Lelystad en Utrecht;
 
-- f. rechtbank Noord-Nederland: Assen, Groningen en Leeuwarden;
+- f. rechtbank Noord-Holland: Alkmaar, Haarlem, Haarlemmermeer en Zaanstad;
 
-- g. rechtbank Oost-Brabant: Eindhoven en ‘s-Hertogenbosch;
+- g. rechtbank Noord-Nederland: Assen, Groningen en Leeuwarden;
 
-- h. rechtbank Oost-Nederland: Almelo, Apeldoorn, Arnhem, Enschede, Nijmegen, Zutphen en Zwolle;
+- h. rechtbank Oost-Brabant: Eindhoven en ‘s-Hertogenbosch;
 
-- i. rechtbank Rotterdam: Dordrecht en Rotterdam;
+- i. rechtbank Overijssel: Almelo, Enschede en Zwolle;
 
-- j. rechtbank Zeeland-West-Brabant: Bergen op Zoom, Breda, Middelburg en Tilburg.
+- j. rechtbank Rotterdam: Dordrecht en Rotterdam;
+
+- k. rechtbank Zeeland-West-Brabant: Bergen op Zoom, Breda, Middelburg en Tilburg.
 
 ##### Artikel 2
 
