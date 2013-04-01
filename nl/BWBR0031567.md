@@ -4,7 +4,7 @@ identifier: "BWBR0031567"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-27"
-last_updated: "2012-05-19"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031567"
 soort: "ministeriele-regeling"
@@ -62,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 1. Als bevoegde autoriteit worden aangewezen voor de toepassing van:
 
-- a. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=5) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=7) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12) en [13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=13), de personen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=1&z=2012-05-19&g=2012-05-19), onder I, bij deze regeling; en voor
+- a. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=5) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=7) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12) en [13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=13), de personen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=1&z=2013-04-01&g=2013-04-01), onder I, bij deze regeling; en voor
 
-- b. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=1) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3), en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=14) en [21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=21) de personen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=1&z=2012-05-19&g=2012-05-19), onder II, bij deze regeling.
+- b. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=1) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=3), en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=14) en [21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=21) de personen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=1&z=2013-04-01&g=2013-04-01), onder II, bij deze regeling.
 
-2. Voor de toepassing van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560) worden als plaatselijk bevoegde autoriteit aangewezen de personen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=2&z=2012-05-19&g=2012-05-19) bij deze regeling.
+2. Voor de toepassing van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560) worden als plaatselijk bevoegde autoriteit aangewezen de personen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&bijlage=2&z=2013-04-01&g=2013-04-01) bij deze regeling.
 
 ### Hoofdstuk 2. Meldingsformaliteiten zeescheepvaart
 
@@ -100,15 +100,15 @@ Van een schip als bedoeld in [artikel 12a, eerste lid, van de Wet voorkoming ver
 
 Een plaatselijk bevoegde autoriteit kan voor een zeeschip dat in lijndienst vaart:
 
-- a. namens een bevoegde autoriteit, ontheffing verlenen van een meldplicht als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2012-05-19&g=2012-05-19), indien en voor zolang door dat zeeschip wordt voldaan aan dat artikellid;
+- a. namens een bevoegde autoriteit, ontheffing verlenen van een meldplicht als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2013-04-01&g=2013-04-01), indien en voor zolang door dat zeeschip wordt voldaan aan dat artikellid;
 
-- b. namens de bevoegde autoriteit ontheffing verlenen van de meldingsformaliteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2012-05-19&g=2012-05-19), indien en voor zolang door dat zeeschip wordt voldaan aan artikel 7 van de verordening scheeps- en havenbeveiliging;
+- b. namens de bevoegde autoriteit ontheffing verlenen van de meldingsformaliteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2013-04-01&g=2013-04-01), indien en voor zolang door dat zeeschip wordt voldaan aan artikel 7 van de verordening scheeps- en havenbeveiliging;
 
 - c. dit onderdeel is nog niet in werking getreden.
 
 ##### Artikel 8. Tijdstip melding
 
-1. De meldingen, bedoeld in de [artikelen 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2012-05-19&g=2012-05-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2012-05-19&g=2012-05-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2012-05-19&g=2012-05-19) geschieden:
+1. De meldingen, bedoeld in de [artikelen 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2013-04-01&g=2013-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2013-04-01&g=2013-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2013-04-01&g=2013-04-01) geschieden:
 
 - 1°. ten minste 24 uur voor aankomst; of
 
@@ -116,19 +116,19 @@ Een plaatselijk bevoegde autoriteit kan voor een zeeschip dat in lijndienst vaar
 
 - 3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is.
 
-2. De melding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2012-05-19&g=2012-05-19), geschiedt ten minste 72 uur voor de verwachte aankomst in de haven, of voor het vertrek uit de vorige haven, als de reis naar verwachting minder dan 72 uur in beslag zal nemen.
+2. De melding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2013-04-01&g=2013-04-01), geschiedt ten minste 72 uur voor de verwachte aankomst in de haven, of voor het vertrek uit de vorige haven, als de reis naar verwachting minder dan 72 uur in beslag zal nemen.
 
-3. De melding, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2012-05-19&g=2012-05-19), geschiedt voor de afvaart.
+3. De melding, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2013-04-01&g=2013-04-01), geschiedt voor de afvaart.
 
 ##### Artikel 9. Doorgeven van wijzigingen in de gemelde gegevens
 
-Wijzigingen in de op grond van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2012-05-19&g=2012-05-19) gemelde gegevens en wijzigingen van meer dan 30 minuten in de eerder gemelde aankomst- of vertrektijd worden tot het moment van aankomst onderscheidenlijk vertrek onmiddellijk doorgegeven.
+Wijzigingen in de op grond van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2013-04-01&g=2013-04-01) gemelde gegevens en wijzigingen van meer dan 30 minuten in de eerder gemelde aankomst- of vertrektijd worden tot het moment van aankomst onderscheidenlijk vertrek onmiddellijk doorgegeven.
 
 ##### Artikel 10. Wijze van melding
 
 1. Dit onderdeel is nog niet in werking getreden.
 
-2. De meldingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2012-05-19&g=2012-05-19), worden zo mogelijk elektronisch gedaan, via het in het eerste lid bedoelde portaal of op een door de plaatselijk bevoegde autoriteit van de haven waarnaar het schip onderweg is, bekend gemaakte alternatieve wijze.
+2. De meldingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2013-04-01&g=2013-04-01), worden zo mogelijk elektronisch gedaan, via het in het eerste lid bedoelde portaal of op een door de plaatselijk bevoegde autoriteit van de haven waarnaar het schip onderweg is, bekend gemaakte alternatieve wijze.
 
 3. Dit onderdeel is nog niet in werking getreden.
 
@@ -170,11 +170,11 @@ Bij de melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](https://w
 
 ##### Artikel 13. Loodsmeldingen op de Westerschelde
 
-In afwijking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2012-05-19&g=2012-05-19) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=12&z=2012-05-19&g=2012-05-19), geschiedt de melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=9), voor schepen die loodsplichtig zijn tijdens de vaart op de scheepvaartwegen die worden bedoeld in punt IV van de [bijlage bij artikel 10 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), overeenkomstig artikel 13 respectievelijk 14 van het Scheldereglement en de daarop berustende bepalingen.
+In afwijking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-04-01&g=2013-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=12&z=2013-04-01&g=2013-04-01), geschiedt de melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=9), voor schepen die loodsplichtig zijn tijdens de vaart op de scheepvaartwegen die worden bedoeld in punt IV van de [bijlage bij artikel 10 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), overeenkomstig artikel 13 respectievelijk 14 van het Scheldereglement en de daarop berustende bepalingen.
 
 ##### Artikel 14. Doorgeven van wijzigingen in de gemelde gegevens
 
-Wijzigingen in de op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2012-05-19&g=2012-05-19) aangeleverde gegevens en wijzigingen van meer dan 30 minuten in de eerder medegedeelde aankomst- of vertrektijd worden onmiddellijk doorgegeven.
+Wijzigingen in de op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-04-01&g=2013-04-01) aangeleverde gegevens en wijzigingen van meer dan 30 minuten in de eerder medegedeelde aankomst- of vertrektijd worden onmiddellijk doorgegeven.
 
 #### Paragraaf 2. Incidentmeldingen aan het kustwachtcentrum
 
@@ -194,7 +194,7 @@ De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tev
 
 ##### Artikel 17. Wijze van doorzenden naar SSN
 
-1. De in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12) bedoelde gegevens worden door de desbetreffende plaatselijk bevoegde autoriteit namens de in artikel 12 van het besluit genoemde ontvangers van gegevens en de havenbeheerder, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2012-05-19&g=2012-05-19), overeenkomstig de daaraan in het IFCD gestelde eisen aan SafeSeaNet doorgegeven.
+1. De in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12) bedoelde gegevens worden door de desbetreffende plaatselijk bevoegde autoriteit namens de in artikel 12 van het besluit genoemde ontvangers van gegevens en de havenbeheerder, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=5&z=2013-04-01&g=2013-04-01), overeenkomstig de daaraan in het IFCD gestelde eisen aan SafeSeaNet doorgegeven.
 
 2. Onverminderd het eerste lid geschiedt de uitwisseling van gegevens, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=13) en [16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=16), op de tussen de Minister van Infrastructuur en Milieu en de desbetreffende plaatselijk bevoegde autoriteit, binnen de randvoorwaarden van het IFCD, schriftelijk overeengekomen wijze.
 
@@ -256,9 +256,9 @@ Wijzigt de Regeling communicatie rijksbinnenwateren.
 
 ##### Artikel 26. Overgangsbepaling
 
-1. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2012-05-19&g=2012-05-19), worden de meldingen bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2012-05-19&g=2012-05-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2012-05-19&g=2012-05-19), tot 1 juni 2015 zo mogelijk elektronisch gedaan op de door de desbetreffende bevoegde autoriteit of plaatselijk bevoegde autoriteit aan de scheepvaart bekend gemaakte wijze. Door een bevoegde autoriteit onderscheidenlijk een plaatselijk bevoegde autoriteit wordt tevens een alternatieve wijze van melden bekendgemaakt.
+1. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2013-04-01&g=2013-04-01), worden de meldingen bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2013-04-01&g=2013-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2013-04-01&g=2013-04-01), tot 1 juni 2015 zo mogelijk elektronisch gedaan op de door de desbetreffende bevoegde autoriteit of plaatselijk bevoegde autoriteit aan de scheepvaart bekend gemaakte wijze. Door een bevoegde autoriteit onderscheidenlijk een plaatselijk bevoegde autoriteit wordt tevens een alternatieve wijze van melden bekendgemaakt.
 
-2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2012-05-19&g=2012-05-19), wordt de melding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2012-05-19&g=2012-05-19), tot 1 juni 2015 gedaan op de door de desbetreffende havenbeheerder of plaatselijk bevoegde autoriteit aangegeven wijze.
+2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2013-04-01&g=2013-04-01), wordt de melding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2013-04-01&g=2013-04-01), tot 1 juni 2015 gedaan op de door de desbetreffende havenbeheerder of plaatselijk bevoegde autoriteit aangegeven wijze.
 
 ##### Artikel 27. Intrekken regelingen
 
@@ -274,9 +274,9 @@ De volgende regelingen worden ingetrokken:
 
 - e. het besluit van de Minister van Infrastructuur en Milieu van 11 maart 2011, nr. IENM/BSK-2011/20583, houdende aanwijzing DG RWS als nationaal bevoegde autoriteit SSN en bevoegde instantie RIS.
 
-##### Artikel 28. Omhangbepaling ten behoeve van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2012-05-19&g=2012-05-19)
+##### Artikel 28. Omhangbepaling ten behoeve van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2013-04-01&g=2013-04-01)
 
-Na inwerkingtreding van deze regeling berust de op grond van [artikel 3, tweede lid, van de Regeling verstrekking gegevens scheepvaart 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022579&artikel=3) of de op grond van [artikel 2, tweede lid, van de Regeling verstrekking gegevens scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0017890&artikel=2), door de Minister van Infrastructuur en Milieu en de desbetreffende autoriteit, overeengekomen wijze van melden, op [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2012-05-19&g=2012-05-19), van deze regeling.
+Na inwerkingtreding van deze regeling berust de op grond van [artikel 3, tweede lid, van de Regeling verstrekking gegevens scheepvaart 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022579&artikel=3) of de op grond van [artikel 2, tweede lid, van de Regeling verstrekking gegevens scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0017890&artikel=2), door de Minister van Infrastructuur en Milieu en de desbetreffende autoriteit, overeengekomen wijze van melden, op [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2013-04-01&g=2013-04-01), van deze regeling.
 
 ##### Artikel 29. Citeertitel
 
@@ -284,13 +284,13 @@ Deze regeling wordt aangehaald als: Regeling meldingen en communicatie scheepvaa
 
 ##### Artikel 30. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 19 mei 2012, met uitzondering van de [artikelen 7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=7&z=2012-05-19&g=2012-05-19), en [10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2012-05-19&g=2012-05-19), die met ingang van 1 juni 2015 in werking treden.
+1. Deze regeling treedt in werking met ingang van 19 mei 2012, met uitzondering van de [artikelen 7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=7&z=2013-04-01&g=2013-04-01), en [10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2013-04-01&g=2013-04-01), die met ingang van 1 juni 2015 in werking treden.
 
-2. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=8&artikel=26&z=2012-05-19&g=2012-05-19) vervalt met ingang van 1 juni 2015.
+2. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=8&artikel=26&z=2013-04-01&g=2013-04-01) vervalt met ingang van 1 juni 2015.
 
 ## Bijlage 1
 
-Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=1&artikel=2&z=2012-05-19&g=2012-05-19), zijn:
+Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=1&artikel=2&z=2013-04-01&g=2013-04-01), zijn:
 
 - I.
 
@@ -314,13 +314,13 @@ Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.over
 
 - a. de havenmeester van de havendienst van de desbetreffende haven of van de gemeente waarbinnen de ankerplaats is gelegen, maar
 
-- b. voor wat betreft Terneuzen: de havenmeester van het havenschap Zeeland Seaports;
+- b. voor wat betreft Terneuzen: de havenmeester werkzaam bij Zeeland Seaports N.V.;
 
 - c. de Westerschelde, voor wat betreft ten anker komende schepen: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
 
-- d. voor wat betreft Vlissingen: de havenmeester van het havenschap Zeeland Seaports;
+- d. voor wat betreft Vlissingen: de havenmeester werkzaam bij Zeeland Seaports N.V.;
 
-- e. voor wat betreft het Kanaal van Gent naar Terneuzen: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2) maar voor de daaraan liggende zijkanalen de havenmeester van het havenschap Zeeland Seaports;
+- e. voor wat betreft het Kanaal van Gent naar Terneuzen: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2) maar voor de daaraan liggende zijkanalen de havenmeester werkzaam bij Zeeland Seaports N.V.;
 
 - f. voor wat betreft Dordrecht: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;
 
@@ -342,7 +342,7 @@ Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.over
 
 ## Bijlage 2
 
-Plaatselijk bevoegde autoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=1&artikel=2&z=2012-05-19&g=2012-05-19), tweede lid, zijn:
+Plaatselijk bevoegde autoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=1&artikel=2&z=2013-04-01&g=2013-04-01), tweede lid, zijn:
 
 - a. de directeur van het havenschap Groningen Seaports: voor schepen die onderweg zijn van of naar de havens van Delfzijl en Eemshaven, en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied Brandaris en het aanloopgebied Eemsmonding;
 
@@ -350,13 +350,13 @@ Plaatselijk bevoegde autoriteit als bedoeld in [artikel 2](https://wetten.overhe
 
 - c. degene die belast is met de taak van havenmeester voor de haven van Den Helder: voor schepen die onderweg zijn van of naar de haven van Den Helder en de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied Den Helder;
 
-- d. degene die bij het havenbedrijf van Amsterdam belast is met de taak van havenmeester tevens directeur van het Centraal Nautisch beheer Noordzeegebied: voor schepen die onderweg zijn van of naar de havens van Amsterdam, Zaandam, Beverwijk, IJmuiden en Velsen en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied IJmuiden;
+- d. degene die bij het Havenbedrijf Amsterdam N.V. belast is met de taak van havenmeester tevens directeur van het Centraal Nautisch beheer Noordzeegebied: voor schepen die onderweg zijn van of naar de havens van Amsterdam, Zaandam, Beverwijk, IJmuiden en Velsen en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied IJmuiden;
 
 - e. degene die belast is met de taak van havenmeester voor de haven van Scheveningen: voor schepen die onderweg zijn van of naar de haven van Scheveningen en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied Scheveningen;
 
 - f. degene die werkzaam is bij het havenbedrijf Rotterdam NV en belast is met de taak van havenmeester: voor schepen die onderweg zijn van of naar de havens van Rotterdam, Schiedam, Vlaardingen, Maassluis, Dordrecht en Moerdijk en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied van Rotterdam;
 
-- g. de directeur Zeeland Seaports: voor schepen die onderweg zijn van of naar de havens van Vlissingen, Terneuzen, Sas van Gent en Sluiskil en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied Scheldemonden;
+- g. de directeur Zeeland Seaports N.V.: voor schepen die onderweg zijn van of naar de havens van Vlissingen, Terneuzen, Sas van Gent en Sluiskil en voor de in de Nederlandse territoriale zee gelegen ankerplaatsen, laad- of losrichtingen voor het aanloopgebied Scheldemonden;
 
 - h. degene die als Rijkshavenmeester Westerschelde is belast met de taken van havenmeester: voor schepen die onderweg zijn van of naar de havens van Hansweert en Breskens en de ankergebieden Everingen en Put van Terneuzen; en
 
