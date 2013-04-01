@@ -4,7 +4,7 @@ identifier: "BWBR0033090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2013-03-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033090"
 soort: "ministeriele-regeling"
@@ -46,7 +46,13 @@ Permanent Commissaris van toezicht op de Scheldevaart zijn:
 
 ##### Artikel 2. Benoeming leden Permanente Nederlands-Duitse Eemscommissie
 
-Dit onderdeel is nog niet inwerking getreden
+Lid van de Eemscommissie zijn:
+
+- –. een directeur van het Ministerie van Infrastructuur en Milieu belast met maritieme zaken;
+
+- –. de Hoofdingenieur-Directeur van het Directoraat-Generaal Rijkswaterstaat onder wiens verantwoordelijkheid het nautisch beheer van de Eems valt; en
+
+- –. een door de Directeur Generaal Ruimte en Water aan te wijzen ambtenaar.
 
 ##### Artikel 3. Intrekken besluiten
 
@@ -60,7 +66,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 4. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang 1 april 2013 met dien verstande dat [artikel 1, aanhef en tweede gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0033090&artikel=1&z=2013-04-01&g=2013-04-01), en [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033090&artikel=3&z=2013-04-01&g=2013-04-01), terugwerken tot en met 1 maart 2013.
 
 Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
 
