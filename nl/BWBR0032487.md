@@ -4,7 +4,7 @@ identifier: "BWBR0032487"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032487"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Voor de behandeling van verzoeken om een Europees betalingsbevel als bedoeld in 
 
 ##### Artikel 2
 
-1. Voor de behandeling van beroepen als bedoeld in [afdeling 2 van hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) wordt de rechtbank Oost-Nederland aangewezen als andere rechtbank als bedoeld in [artikel 46a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=46a), indien:
+1. Voor de behandeling van beroepen als bedoeld in [afdeling 2 van hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) wordt de rechtbank Gelderland aangewezen als andere rechtbank als bedoeld in [artikel 46a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=46a), indien:
 
 - a. de indiener van het beroepschrift zijn woonplaats heeft in de provincie Gelderland, de provincie Noord-Holland voor zover het betreft de gemeenten Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp en Wijdemeren, de provincie Overijssel of de provincie Utrecht, of
 
