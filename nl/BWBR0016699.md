@@ -4,7 +4,7 @@ identifier: "BWBR0016699"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-01"
-last_updated: "2012-06-05"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016699"
 soort: "AMvB"
@@ -44,6 +44,8 @@ De Raad van State gehoord (advies van 14 augustus 2003, nr. W10.03.0308/II);
 Gezien het nader rapport van Onze Minister van Economische Zaken van 3 mei 2004, nr. WJZ 4028534;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt. De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 #### Paragraaf 1. Systemen voor voorwaardelijke toegang
 
@@ -89,7 +91,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-1. Het college laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen.
+1. De Autoriteit Consument en Markt laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen.
 
 2. Het eerste lid is van overeenkomstige toepassing indien een onderneming moet voldoen aan een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13).
 
