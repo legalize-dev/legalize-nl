@@ -224,15 +224,3 @@ In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&art
 ### Voorbehouden en beperkingen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.
-
-##### Artikel 14a
-
-Op verleende bevoegdheden in mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat of aan een andere functionaris binnen Rijkswaterstaat door een ander bestuursorgaan dan de Minister van Infrastructuur en Waterstaat, is dit besluit van overeenkomstige toepassing, tenzij betreffend besluit tot verlening van bevoegdheden in mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
-
-## Bijlage. bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2019-05-11&g=2019-05-11) van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
-
-In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2019-05-11&g=2019-05-11) wordt, conform deze bijlage, het uitoefenen van de bevoegdheden voor bepaalde categorieën besluiten voorbehouden aan de bepaalde functionarissen en/of beperkt door de eis van voorafgaande instemming van een functionaris op een hoger niveau.
-
-### Voorbehouden en beperkingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.
