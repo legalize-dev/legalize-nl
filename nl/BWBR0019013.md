@@ -4,7 +4,7 @@ identifier: "BWBR0019013"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2008-07-03"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019013"
 soort: "ministeriele-regeling"
@@ -40,15 +40,15 @@ Gelet op [artikel 149b, zevende lid, van de Wegenverkeerswet 1994](https://wette
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, F tot en met H, en artikel IV van de Wijzigingswet Wegenverkeerswet 1994 (verlenen ontheffingen door Dienst Wegverkeer) in werking treden.
+
 ##### Artikel 1
 
-1. Een wegbeheerder ontvangt van de Dienst Wegverkeer voor elke ontheffing die wordt verleend ingevolge [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), voor een of meer transporten die over een weg voeren die onder zijn beheer staat, een vergoeding ter hoogte van:
+1. Een wegbeheerder ontvangt van de Dienst Wegverkeer voor elke incidentele ontheffing die wordt verleend ingevolge [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), voor een of meer transporten die over een weg voeren die onder zijn beheer staat, een vergoeding ter hoogte van € 16,–.
 
-- a. € 16,– indien het een incidentele ontheffing betreft;
+2. Een wegbeheerder ontvangt van de Dienst Wegverkeer voor langlopende ontheffingen die worden verleend ingevolge [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), voor een of meer transporten die over een weg voeren die onder zijn beheer staat, een vergoeding ter hoogte van:
 
-- b. € 2,– indien het een langlopende ontheffing betreft.
-
-2. In afwijking van het eerste lid, ontvangt een wegbeheerder van de Dienst Wegverkeer een vergoeding van nihil voor ontheffingen verleend voor samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton.
+3. In afwijking van het eerste en tweede lid, ontvangt een wegbeheerder van de Dienst Wegverkeer een vergoeding van nihil voor ontheffingen verleend voor samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton.
 
 ##### Artikel 2
 
