@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2013-01-01"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -48,19 +48,19 @@ Besluit:
 
 1. Het directoraat-generaal Rijkswaterstaat is samengesteld uit:
 
-- a. een stafdienst van de directeur-generaal;
+- a. de RWS Bestuursstaf;
 
-- b. regionale diensten;
+- b. regionale organisatieonderdelen;
 
-- c. landelijke diensten;
+- c. centrale organisatieonderdelen;
 
 - d. programmadirecties en
 
 - e. projectdirecties.
 
-2. De directeur-generaal Rijkswaterstaat stelt de in het eerste lid genoemde diensten en directies in en kan deze nader onderverdelen.
+2. De directeur-generaal Rijkswaterstaat stelt de in het eerste lid genoemde organisatieonderdelen en directies in en kan deze nader onderverdelen.
 
-3. De directeur-generaal Rijkswaterstaat wijst de directeuren van de in het eerste lid genoemde diensten en directies aan.
+3. De directeur-generaal Rijkswaterstaat wijst de directeuren van de in het eerste lid genoemde organisatieonderdelen en directies aan.
 
 ##### Artikel 3
 
@@ -78,9 +78,11 @@ Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de mi
 
 - f. de toetsing van de uitvoerbaarheid van plannen, regelingen en projecten van andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van taken genoemd in onderdeel a;
 
-- g. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), en
+- g. het beheer van de territoriale zee en de exclusieve economische zone, bedoeld in de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550), voor zover dit niet bij of krachtens wet aan anderen is opgedragen of gemandateerd;
 
-- h. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.
+- h. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), en
+
+- i. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.
 
 ##### Artikel 4
 
@@ -88,7 +90,7 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de Waterwe
 
 ##### Artikel 5
 
-Dit besluit wordt aangehaald als: Instellingsbesluit directoraat-generaal Rijkswaterstaat.
+Dit besluit wordt aangehaald als: Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013.
 
 Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en wordt in afschrift gezonden aan de Algemene Rekenkamer, de secretaris-generaal, diens plaatsvervanger en de diensthoofden.
 
