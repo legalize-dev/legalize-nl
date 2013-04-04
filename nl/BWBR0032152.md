@@ -4,7 +4,7 @@ identifier: "BWBR0032152"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-04"
-last_updated: "2013-01-01"
+last_updated: "2013-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032152"
 soort: "AMvB"
@@ -68,14 +68,14 @@ De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&artikel=1) en [
 
 ##### Artikel VI. Overgangsbepaling examengeld staatsexamen Nederlands als tweede taal
 
-[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5) zoals luidend voor de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013.
+[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5) zoals luidend voor de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-04-04&g=2013-04-04) van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013.
 
 ##### Artikel VII. Inwerkingtreding
 
-1. Dit besluit treedt met uitzondering van [artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-01-01&g=2013-01-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) in werking met ingang van 1 januari 2013.
+1. Dit besluit treedt met uitzondering van [artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-04-04&g=2013-04-04), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-04-04&g=2013-04-04) in werking met ingang van 1 januari 2013.
 
-2. [Artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-01-01&g=2013-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot een in dat besluit te bepalen tijdstip.
+2. [Artikel II, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=II&z=2013-04-04&g=2013-04-04), treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot een in dat besluit te bepalen tijdstip.
 
-3. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-01-01&g=2013-01-01) treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+3. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032152&artikel=IV&z=2013-04-04&g=2013-04-04) treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
