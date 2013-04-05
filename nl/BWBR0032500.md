@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-03-22"
+last_updated: "2013-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ Besluit:
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Duurzame technische ontwikkelingsprojecten |   |   |
 | 2.3 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.3 |   |   |   |
 | 2.4 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.10 |   | 09-01 t/m 06-11 | **750.000** |
-| 2.5 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.18 |   |   |   |
+| 2.5 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.18 |   | 01/05 t/m 20/06 | 7.000.000 |
 | 2.6 | Subsidieregeling innoveren (innovatievouchers) | 5.2 | Aantal beschikbare grote vouchers |   |   |
 | 2.7 | Subsidieregeling innoveren (innovatievouchers) | 5.3 | Aantal beschikbare kleine vouchers |   |   |
 | 2.8 | Subsidieregeling innoveren (innovatievouchers) | 5.7 |   |   |   |
