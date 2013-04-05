@@ -4,7 +4,7 @@ identifier: "BWBR0033135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-05"
-last_updated: "2013-03-11"
+last_updated: "2013-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033135"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033135&artikel=2&z=2013-04-05&g=2013-03-11);
+- a. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033135&artikel=2&z=2013-04-05&g=2013-04-05);
 
 - b. **Minister:** de Minister van Financiën;
 
@@ -90,7 +90,7 @@ De leden van de commissie ontvangen voor de duur van het onderzoek een vaste ver
 
 ##### Artikel 7
 
-1. De leden van de commissie, de algemeen secretaris en overige personen die de commissie ondersteunen zijn, behoudens de rapportage(s) aan de RvC DNB en de Minister, verplicht tot geheimhouding van de gegevens en inlichtingen die zij in het kader van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033135&artikel=3&z=2013-04-05&g=2013-03-11) bedoelde onderzoeken ontvangen.
+1. De leden van de commissie, de algemeen secretaris en overige personen die de commissie ondersteunen zijn, behoudens de rapportage(s) aan de RvC DNB en de Minister, verplicht tot geheimhouding van de gegevens en inlichtingen die zij in het kader van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033135&artikel=3&z=2013-04-05&g=2013-04-05) bedoelde onderzoeken ontvangen.
 
 2. Het eerste lid is niet van toepassing op gegevens en inlichtingen die reeds op andere wijze openbaar zijn gemaakt.
 
