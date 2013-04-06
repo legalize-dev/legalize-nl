@@ -4,7 +4,7 @@ identifier: "BWBR0025355"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-06"
-last_updated: "2009-03-05"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025355"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 1. Er is voor het uitvoeren van preïmplantatie genetische diagnostiek als bedoeld in [artikel 1, onder h, vijfde streepje, van het Besluit aanwijzing bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) behoefte aan één centrum.
 
-2. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=1&z=2009-03-05&g=2009-03-05) is neergelegd hoe in de behoefte kan worden voorzien.
+2. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=1&z=2013-04-06&g=2013-04-06) is neergelegd hoe in de behoefte kan worden voorzien.
 
 ##### Artikel 2
 
-Voor het uitvoeren of gaan uitvoeren van preïmplantatie genetische diagnostiek gelden de voorschriften, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=2&z=2009-03-05&g=2009-03-05).
+Voor het uitvoeren of gaan uitvoeren van preïmplantatie genetische diagnostiek gelden de voorschriften, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=2&z=2013-04-06&g=2013-04-06).
 
 ##### Artikel 3
 
@@ -126,7 +126,7 @@ Toepassing van bovenstaande criteria moet er toe leiden dat alleen voor PGD in a
 
 PGD voor dragerschap is alleen toelaatbaar als er geen aanvullende handelingen nodig zijn. Dragerschap als diagnostisch criterium is alleen aan de orde als PGD uitgevoerd wordt met als doel een ernstige genetische aandoening zoals hierboven geschetst bij het kind te voorkomen.
 
-### Exclusie test en non disclosure test bij ziekte van Huntington
+### Non-disclosuretest bij ziekte van Huntington
 
 In bovengenoemde gevallen dienen ouders bereid te zijn over hun eigen situatie geïnformeerd te worden.
 
