@@ -4,7 +4,7 @@ identifier: "BWBR0033112"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-06"
-last_updated: "2013-01-02"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033112"
 soort: "ministeriele-regeling"
@@ -48,17 +48,17 @@ De directeur van het Instituut Fysieke Veiligheid, genoemd in [artikel 68, tweed
 
 ##### Artikel 2
 
-De voorzitter van het bestuur van het Instituut Fysieke Veiligheid, genoemd in [artikel 67, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=67), is bevoegd om namens de Minister van Veiligheid en Justitie voor het brandweerpersoneel besluiten te nemen betreffende bezwaarschriften op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-01-02).
+De voorzitter van het bestuur van het Instituut Fysieke Veiligheid, genoemd in [artikel 67, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=67), is bevoegd om namens de Minister van Veiligheid en Justitie voor het brandweerpersoneel besluiten te nemen betreffende bezwaarschriften op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-04-06).
 
 ##### Artikel 3
 
-Afschriften van besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-01-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=2&z=2013-04-06&g=2013-01-02), worden verstuurd naar de directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het ministerie van Veiligheid en Justitie.
+Afschriften van besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-04-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=2&z=2013-04-06&g=2013-04-06), worden verstuurd naar de directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het ministerie van Veiligheid en Justitie.
 
 ### Hoofdstuk 2. Aanwijzingsbevoegdheid
 
 ##### Artikel 4
 
-De directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het ministerie van Veiligheid en Justitie kan de nodige aanwijzingen geven bij het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-01-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=2&z=2013-04-06&g=2013-01-02).
+De directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het ministerie van Veiligheid en Justitie kan de nodige aanwijzingen geven bij het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=1&z=2013-04-06&g=2013-04-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033112&hoofdstuk=1&artikel=2&z=2013-04-06&g=2013-04-06).
 
 ### Hoofdstuk 3. Slotbepalingen
 
