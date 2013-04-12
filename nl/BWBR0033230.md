@@ -4,7 +4,7 @@ identifier: "BWBR0033230"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033230"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Wet milieubeheer.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel IIA
 
@@ -64,7 +64,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel IV
 
-1. Deze wet treedt in werking op 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij – met uitzondering van [artikel I, de onderdelen AA, BB en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0033230&artikel=I&z=2013-04-12&g=2013-01-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033230&artikel=II&z=2013-04-12&g=2013-01-01) – terug tot en met 1 januari 2013.
+1. Deze wet treedt in werking op 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij – met uitzondering van [artikel I, de onderdelen AA, BB en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0033230&artikel=I&z=2013-04-12&g=2013-04-12), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033230&artikel=II&z=2013-04-12&g=2013-04-12) – terug tot en met 1 januari 2013.
 
 2. De bepalingen van [titel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.1) en [16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.2), de [artikelen 18.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), [18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a) en [21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6) en [artikel 1a van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a), zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van deze wet, blijven van toepassing op [titel 16.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.3).
 
