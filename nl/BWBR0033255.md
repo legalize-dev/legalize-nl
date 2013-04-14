@@ -4,7 +4,7 @@ identifier: "BWBR0033255"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-01-01"
+last_updated: "2013-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033255"
 soort: "pbo"
@@ -58,11 +58,11 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die groenten, fruit of daaruit verkregen producten verduurzaamt is over het kalenderjaar 2013 een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=3&artikel=3&z=2013-04-14&g=2013-01-01) vermelde heffingsgrondslag.
+1. De ondernemer die groenten, fruit of daaruit verkregen producten verduurzaamt is over het kalenderjaar 2013 een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=3&artikel=3&z=2013-04-14&g=2013-04-14) vermelde heffingsgrondslag.
 
 2. Uit de opbrengst van de bestemmingsheffing, als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy,Voeding & Gezondheid, Energie en CO2, Groen & Welbevinden en Arbeid.
 
-3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=4&artikel=4&z=2013-04-14&g=2013-01-01) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 4. Ter uitvoering van het bepaalde in het eerste lid, doet de ondernemer desgevraagd aangifte bij het productschap van de door hem in het kalenderjaar 2013 behaalde omzet.
 
@@ -84,7 +84,7 @@ In deze verordening wordt verstaan onder:
 
 1. De krachtens deze verordening verschuldigde bestemmingsheffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota.
 
-2. Indien geen aangifte is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=2&artikel=2&z=2013-04-14&g=2013-01-01), kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen aangifte is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033255&paragraaf=2&artikel=2&z=2013-04-14&g=2013-04-14), kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 5
 
