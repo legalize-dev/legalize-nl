@@ -4,7 +4,7 @@ identifier: "BWBR0031159"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-04-14"
-last_updated: "2012-01-01"
+last_updated: "2013-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031159"
 soort: "pbo"
@@ -92,7 +92,7 @@ Deze verordening verstaat onder:
 
 7. In afwijking van het eerste lid en het vierde lid, is de ondernemer die handelt in uien een heffing verschuldigd met als grondslag het aantal aangekochte netto kilogrammen uien.
 
-8. De heffing bedraagt € 14,56 per 100.000 kilogrammen aangekochte uien.
+8. De heffing bedraagt € 2,06 per 100.000 kilogrammen aangekochte uien.
 
 #### § 4. Oplegging en inning
 
@@ -104,7 +104,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 5
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031159&paragraaf=4&artikel=4&z=2012-01-01&g=2012-01-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031159&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
