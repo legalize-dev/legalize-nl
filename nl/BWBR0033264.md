@@ -4,7 +4,7 @@ identifier: "BWBR0033264"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-01-01"
+last_updated: "2013-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033264"
 soort: "pbo"
@@ -69,13 +69,13 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer, die in 2013 bloemkwekerijproducten teelt of importeert, is een bestemmingsheffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=3&artikel=3&z=2013-04-14&g=2013-01-01) vermelde heffingsgrondslag met bijbehorend tarief.
+1. De ondernemer, die in 2013 bloemkwekerijproducten teelt of importeert, is een bestemmingsheffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=3&artikel=3&z=2013-04-14&g=2013-04-14) vermelde heffingsgrondslag met bijbehorend tarief.
 
 2. Uit de opbrengst van de bestemmingsheffing, bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheidsfonds, Maatschappelijk Verantwoord Ondernemen & Biobased economy, Voeding & Gezondheid, Energie & C02, Groen en Welbevinden en Arbeid.
 
-3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=4&artikel=4&z=2013-04-14&g=2013-01-01) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
-4. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=4&artikel=4&z=2013-04-14&g=2013-01-01) doet de ondernemer bij het productschap desgevraagd aangifte van het door hem in het kalenderjaar 2013 verkochte zelfgekweekte bloemkwekerijproduct en van het door hem geïmporteerde bloemkwekerijproduct.
+4. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14) doet de ondernemer bij het productschap desgevraagd aangifte van het door hem in het kalenderjaar 2013 verkochte zelfgekweekte bloemkwekerijproduct en van het door hem geïmporteerde bloemkwekerijproduct.
 
 #### § 3. Grondslag en hoogte
 
@@ -106,7 +106,7 @@ In deze verordening wordt verstaan onder:
 
 1. De krachtens deze verordening verschuldigde bestemmingsheffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingnota aan de ondernemer.
 
-2. Indien de ondernemer geen aangifte heeft gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=2&artikel=2&z=2013-04-14&g=2013-01-01) kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien de ondernemer geen aangifte heeft gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033264&paragraaf=2&artikel=2&z=2013-04-14&g=2013-04-14) kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 5
 
