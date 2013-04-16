@@ -4,7 +4,7 @@ identifier: "BWBR0033233"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-16"
-last_updated: "2013-03-01"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033233"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de Minister:** de Minister van Veiligheid en Justitie;
 
-- b. **de Commissie:** de Commissie Toekomst Forensisch Onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=2&z=2013-04-16&g=2013-03-01)
+- b. **de Commissie:** de Commissie Toekomst Forensisch Onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=2&z=2013-04-16&g=2013-04-16)
 
 ##### Artikel 2. Instelling
 
@@ -66,7 +66,7 @@ En de minister over deze twee onderdelen van advies te voorzien.
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste drie andere leden.
 
-2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=3&z=2013-04-16&g=2013-03-01) genoemde taken.
+2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=3&z=2013-04-16&g=2013-04-16) genoemde taken.
 
 3. De leden van de Commissie worden op eigen aanvraag door de Minister tussentijds ontslagen.
 
