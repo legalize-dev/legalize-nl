@@ -4,7 +4,7 @@ identifier: "BWBR0031842"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-08-01"
-last_updated: "2012-02-01"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031842"
 soort: "zbo"
@@ -210,7 +210,7 @@ Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor 
 
 ### artikel 32. Inwerkingtreding
 
-Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op alle ontslagen die zijn of worden geëffectueerd per of na 1 augustus 2012. Dit reglement is voor onbepaalde tijd van kracht.
+Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op niet voortgezette en beëindigde dienstverbanden die zijn of worden geëffectueerd in de periode van 1 augustus 2012 tot en met 31 juli 2013. Voor genoemde niet voortgezette en beëindigde dienstverbanden is dit reglement voor onbepaalde tijd van kracht.
 
 ### artikel 33. Bekendmaking
 
