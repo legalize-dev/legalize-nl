@@ -4,7 +4,7 @@ identifier: "BWBR0031840"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-08-01"
-last_updated: "2012-02-01"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031840"
 soort: "zbo"
@@ -144,11 +144,11 @@ Vervallen
 
 ### Artikel 14–15. Nieuwe feiten en omstandigheden/Medewerking controle
 
-### Toelichting op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=14&z=2012-02-01&g=2012-02-01)
+### Toelichting op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=14&z=2013-04-16&g=2013-04-16)
 
 **Er zijn geen toelichtingen.**
 
-### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=15&z=2012-02-01&g=2012-02-01)
+### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=15&z=2013-04-16&g=2013-04-16)
 
 **De in artikel 15 bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren.**
 
@@ -198,7 +198,7 @@ Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor 
 
 ### artikel 32. Inwerkingtreding
 
-Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op alle ontslagen die zijn of worden geëffectueerd per of na 1 augustus 2012. Dit reglement is voor onbepaalde tijd van kracht.
+Dit reglement treedt in werking op 1 februari 2012 en heeft betrekking op niet voortgezette en beëindigde dienstverbanden die zijn of worden geëffectueerd in de periode van 1 augustus 2012 tot en met 31 juli 2013. Voor genoemde niet voortgezette en beëindigde dienstverbanden is dit reglement voor onbepaalde tijd van kracht.
 
 ### artikel 33. Bekendmaking
 
