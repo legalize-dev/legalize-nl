@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-04-05"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -212,12 +212,52 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | artikel | programma | thema’s | openstelling 2013 | plafond |
 | [1b.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1b.4) (Netwerkactiviteiten) | [Bijlage 1 HTSM](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1_HTSM) | 1 t/m 9 | 15-05 t/m 01-07 | 100.000 |
 | 1b.4 (Netwerkactiviteiten) | Bijlage 1 HTSM | 10 t/m 16 | 15-05 t/m 01-07 | 100.000 |
-| [1c.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.8) (MIT-kennisvouchers) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | Aantal beschikbare vouchers: 506 |
-| [1c.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.19) (MIT-R&D-samenwerkingsprojecten) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | 1.900.000 |
+| [1c.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.9) (MIT-kennisvouchers) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | Aantal beschikbare vouchers: 506 |
+| [1c.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.21) (MIT-R&D-samenwerkingsprojecten) | Bijlage 1 HTSM | 1 t/m 16 | 15-05 t/m 01-07 | 1.900.000 |
 | 1b.4 (Netwerkactiviteiten) | [Bijlage 2 T&U](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=2_T&U) | 1 t/m 4 | 15-05 t/m 01-07 | 100.000 |
 | [1b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1b.7) (Innovatiemakelaars) | Bijlage 2 T&U | 1 t/m 4 | 15-05 t/m 01-07 | 250.000 |
 | [1c.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.4) (Haalbaarheidsstudies) | Bijlage 2 T&U | 1 t/m 4 | 15-05 t/m 01-07 | 100.000 |
-| 1c.19 (MIT-R&D-samenwerkingsprojecten) | Bijlage 2 T&U | 1 t/m 3 | 15-05 t/m 01-07 | 1.200.000 |
-| 1c.19 (MIT-samenwerkingsprojecten) | Bijlage 2 T&U | 4 | 15-05 t/m 01-07 | 350.000 |
+| 1c.21 (MIT-R&D-samenwerkingsprojecten) | Bijlage 2 T&U | 1 t/m 3 | 15-05 t/m 01-07 | 1.200.000 |
+| 1c.21 (MIT-R&D-samenwerkingsprojecten) | Bijlage 2 T&U | 4 | 15-05 t/m 01-07 | 350.000 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 3 Logistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=3) | 1 t/m 6 | 22-05 t/m 01-07 | 100.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 3 Logistiek | 1 t/m 6 | 22-05 t/m 01-07 | 50.000 |
+| 1c.9 (MIT-kennisvouchers) | Bijlage 3 Logistiek | 1 t/m 5 | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 80 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 3 Logistiek | 1 | 22-05 t/m 01-07 | 450.000 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 3 Logistiek | 2 | 22-05 t/m 01-07 | 275.000 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 3 Logistiek | 3 | 22-05 t/m 01-07 | 275.000 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 3 Logistiek | 4 | 22-05 t/m 01-07 | 275.000 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 3 Logistiek | 5 | 22-05 t/m 01-07 | 275.000 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 4 Life Sciences and Health](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4) | 1 t/m 10 | 22-05 t/m 01-07 | 100.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 4 Life Sciences and Health | 1 t/m 10 | 22-05 t/m 01-07 | 200.000 |
+| 1c.4 (MIT-haalbaarheidsstudies) | Bijlage 4 Life Sciences and Health | 1 t/m 10 | 22-05 t/m 01-07 | 500.000 |
+| 1c.21 (MIT- R&D samenwerkingsprojecten) | Bijlage 4 Life Sciences and Health | 1 t/m 10 | 22-05 t/m 01-07 | 1.200.000 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 5 Water](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=5) | 1 t/m 4 | 22-05 t/m 01-07 | 50.000 |
+| 1b.4 (Netwerkactiviteiten) | Bijlage 5 Water | 5 t/m 7 | 22-05 t/m 01-07 | 50.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 5 Water | 5 t/m 7 | 22-05 t/m 01-07 | 47.250 |
+| 1c.4 (MIT-haalbaarheidsstudies) | Bijlage 5 Water | 1 t/m 4 | 22-05 t/m 01-07 | 500.000 |
+| 1c.4 (MIT-haalbaarheidsstudies) | Bijlage 5 Water | 5 t/m 7 | 22-05 t/m 01-07 | 400.000 |
+| 1c.9 (MIT- kennisvoucher) | Bijlage 5 Water | 1 t/m 4 | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 31 |
+| 1c.9 (MIT- kennisvouchers) | Bijlage 5 Water | 5 t/m 7 | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 45 |
+| 1c.9 (MIT- kennisvouchers) | Bijlage 5 Water | 8 t/m 11 | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 10 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 5 Water | 8 t/m 11 | 22-05 t/m 01-07 | 628.500 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 6 Chemie, Biobased en Energie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6) | 1C t/m 7C | 22-05 t/m 01-07 | 100.000 |
+| 1b.4 (Netwerkactiviteiten) | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 22-05 t/m 01-07 | 100.000 |
+| 1b.4 (Netwerkactiviteiten) | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 22-05 t/m 01-07 | 100.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 22-05 t/m 01-07 | 300.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 22-05 t/m 01-07 | 300.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 22-05 t/m 01-07 | 300.000 |
+| 1c.4 (MIT-haalbaarheidsstudies) | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 22-05 t/m 01-07 | 350.000 |
+| 1c.4 (MIT-haalbaarheidsstudies | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 22-05 t/m 01-07 | 500.000 |
+| 1c.4 (MIT-haalbaarheidsstudies) | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 22-05 t/m 01-07 | 500.000 |
+| 1c.21 (MIT- R&D samenwerkingsprojecten) | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 22-05 t/m 01-07 | 1.000.000 |
+| 1c.21 (MIT- R&D samenwerkingsprojecten) | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 22-05 t/m 01-07 | 1.000.000 |
+| 1c.21 (MIT- R&D samenwerkingsprojecten) | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 22-05 t/m 01-07 | 1.100.000 |
+| 1c.9 (MIT- kennisvouchers) | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 40 |
+| [1c.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=1c.17) (Hooggekwalificeerd personeel) | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 22-05 t/m 01-07 | 100.000 |
+| 1c.17 (Hooggekwalificeerd personeel) | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 22-05 t/m 01-07 | 100.000 |
+| 1b.4 (Netwerkactiviteiten) | [Bijlage 7 Creatief](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7) | 1 t/m 7 | 22-05 t/m 01-07 | 100.000 |
+| 1b.7 (Innovatiemakelaars) | Bijlage 7 Creatief | 1 t/m 7 | 22-05 t/m 01-07 | 50.000 |
+| 1c.9 (MIT-kennisvouchers) | Bijlage 7 Creatief | 1 t/m 7 | 22-05 t/m 01-07 | Aantal beschikbare vouchers: 227 |
+| 1c.21 (MIT-R&D samenwerkingsprojecten) | Bijlage 7 Creatief | 1 t/m 5 | 22-05 t/m 01-07 | 1.000.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
