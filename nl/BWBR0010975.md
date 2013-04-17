@@ -4,7 +4,7 @@ identifier: "BWBR0010975"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010975"
 soort: "AMvB"
@@ -88,13 +88,15 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de mededelingen, bedoeld in het eerste lid, zijn gedaan door of aan een geheimhouder die als verdachte is aangemerkt, wint de officier van justitie het oordeel in van een gezaghebbend lid van de beroepsgroep waartoe de geheimhouder behoort, omtrent de vraag of de mededelingen zijn aan te merken als mededelingen in de zin van [artikel 126aa, tweede lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa). Indien de officier van justitie besluit af te wijken van het oordeel van het gezaghebbende lid van de beroepsgroep, wordt dit besluit met redenen omkleed.
 
+4. In afwijking van het eerste lid kan de officier van justitie bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), bevelen dat processen-verbaal en andere voorwerpen die naar het oordeel van de opsporingsambtenaar mededelingen, bedoeld in het eerste lid, bevatten, terstond worden vernietigd, voor zover zij deze mededelingen behelzen. Het generieke bevel tot vernietiging is schriftelijk. Van de vernietiging wordt proces-verbaal opgemaakt dat de nummers van de vernietigde gesprekken en de datum en het tijdstip van de communicatie en van de vernietiging daarvan bevat. Het proces-verbaal van vernietiging wordt aan de officier van justitie gezonden.
+
 ##### Artikel 5
 
 1. Indien het proces-verbaal is opgeslagen op een afzonderlijke gegevensdrager, staat met de vernietiging van het proces-verbaal gelijk het op zodanige wijze bewerken van de gegevensdrager dat de gegevens die daaraan voor die bewerking konden worden ontleend, niet meer kenbaar zijn.
 
 2. Met vernietiging van een voorwerp staat gelijk het op zodanige wijze bewerken van een voorwerp dat de gegevens die daaraan voor de bewerking konden worden ontleend, niet meer kenbaar zijn.
 
-3. Met vernietiging van de gegevens, bedoeld in [artikel 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-01-01&g=2013-01-01), staat gelijk het op zodanige wijze bewerken van de gegevens dat deze niet meer kenbaar zijn.
+3. Met vernietiging van de gegevens, bedoeld in [artikel 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-04-17&g=2013-04-17), staat gelijk het op zodanige wijze bewerken van de gegevens dat deze niet meer kenbaar zijn.
 
 ##### Artikel 6
 
@@ -108,13 +110,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4&z=2013-01-01&g=2013-01-01) wordt, indien bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), een nummer wordt herkend dat in overeenstemming met het tweede lid is aangemeld, het opnemen van de communicatie onmiddellijk beëindigd en worden uitsluitend de gegevens, bedoeld in [artikel 126n, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n) verwerkt. Indien communicatie is opgenomen voordat het nummer is herkend, worden de voorwerpen die deze communicatie behelzen onmiddellijk langs geautomatiseerde weg vernietigd.
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4&z=2013-04-17&g=2013-04-17) wordt, indien bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), een nummer wordt herkend dat in overeenstemming met het tweede lid is aangemeld, het opnemen van de communicatie onmiddellijk beëindigd en worden uitsluitend de gegevens, bedoeld in [artikel 126n, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n) verwerkt. Indien communicatie is opgenomen voordat het nummer is herkend, worden de voorwerpen die deze communicatie behelzen onmiddellijk langs geautomatiseerde weg vernietigd.
 
 2. Uitsluitend de in de bij dit besluit behorende bijlage aangewezen nummers kunnen door de orde langs geautomatiseerde weg worden aangemeld bij de door de korpschef aangewezen dienst van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), ten behoeve van nummerherkenning. De aangemelde nummers worden vernietigd zodra deze niet meer nodig zijn voor dit doel.
 
 3. De korpschef legt gegevens vast over de raadpleging en de vernietiging van de door de orde ten behoeve van nummerherkenning aangemelde nummers. De vastgelegde gegevens worden drie jaar bewaard na de datum van de vastlegging, en vervolgens vernietigd.
 
-## Bijlage. behorende bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-01-01&g=2013-01-01) van het Besluit bewaren en vernietigen niet-gevoegde stukken
+## Bijlage. behorende bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-04-17&g=2013-04-17) van het Besluit bewaren en vernietigen niet-gevoegde stukken
 
 - 1. In deze bijlage wordt verstaan onder:
 
@@ -128,7 +130,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - e. **bundelnummer:** het nummer dat op signaleringsniveau aan gesprekken via een uitgaande telefoonlijn wordt meegegeven en dat wordt bepaald in de telefooncentrale van het advocatenkantoor dan wel de nummercentrale van een aanbieder van een communicatiedienst.
 
-- 2. In deze bijlage worden als nummer, bedoeld in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-01-01&g=2013-01-01), van het besluit, aangewezen de volgende nummers:
+- 2. In deze bijlage worden als nummer, bedoeld in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2013-04-17&g=2013-04-17), van het besluit, aangewezen de volgende nummers:
 
 - A. De orde kan namens een advocaat de volgende nummers opgeven:
 
