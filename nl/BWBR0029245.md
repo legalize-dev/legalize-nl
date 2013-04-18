@@ -4,7 +4,7 @@ identifier: "BWBR0029245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-18"
-last_updated: "2013-04-03"
+last_updated: "2013-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029245"
 soort: "ministeriele-regeling"
@@ -78,19 +78,21 @@ In deze regeling wordt verstaan onder:
 
 - c. voldoet aan de eisen, bedoeld in artikel 6, eerste lid, onderdeel b, van het NER-besluit;
 
-- d. innovatief is, als bedoeld in artikel 6, eerste lid, onderdeel c, van het NER-besluit en
-
-- e. waarvan de totale projectkosten ten minste € 50.000.000,– bedragen.
+- d. innovatief is, als bedoeld in artikel 6, eerste lid, onderdeel c, van het NER-besluit.
 
 - –. **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
 
-- –. **toekenningsbesluit:** het besluit van de Europese Commissie bedoeld in artikel 5, vijfde lid, van het NER-besluit.
+- –. **toekenningsbesluit:** het besluit van de Europese Commissie bedoeld in artikel 5, vijfde lid, van het NER-besluit;
+
+- –. **uitnodiging:** de uitnodiging van de Europese Commissie van 3 april 2013 (PbEU 2013, C 94) tot het indienen van voorstellen zoals bedoeld in artikel 5, eerste lid, van het NER-besluit;
+
+- –. **voorwaardelijk toekenningsbesluit:** het toekenningsbesluit dat nog afhankelijk wordt gesteld van de in de artikel 9 van het NER-besluit genoemde voorwaarden en nog geen rechtskracht heeft.
 
 #### § 2. CCS-projecten
 
 ##### Artikel 2
 
-1. De minister verstrekt op aanvraag subsidie aan een ondernemer die of aan een deelnemer in een samenwerkingsverband dat een CCS-project uitvoert in Nederland, op het Nederlandse continentale plat of in de Nederlandse exclusieve economische zone.
+De minister verstrekt op aanvraag subsidie aan een ondernemer die of aan een deelnemer in een samenwerkingsverband dat een CCS-project uitvoert in Nederland, op het Nederlandse continentale plat of in de Nederlandse exclusieve economische zone.
 
 ##### Artikel 3
 
@@ -100,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies op grond van de EERP en op grond van deze regeling niet meer bedraagt dan 50% van de subsidiabele kosten.
+Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP wordt gecombineerd met subsidie op grond van deze regeling wordt de subsidie op grond van de EERP in mindering gebracht op de subsidie op grond van deze regeling.
 
 ##### Artikel 5
 
@@ -118,7 +120,7 @@ Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstre
 
 ##### Artikel 7
 
-1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=1&z=2010-12-25&g=2013-04-03) bij deze regeling is gevoegd.
+1. Een aanvraag om subsidie voor een CCS-project wordt uiterlijk ingediend op 15 mei 2013 om 17.00 uur met gebruikmaking van een formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=1&z=2013-04-18&g=2013-04-18) bij deze regeling is gevoegd.
 
 2. De aanvraag wordt in de Engelse taal gedaan.
 
@@ -148,13 +150,15 @@ Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen z
 
 ##### Artikel 10
 
-1. De minister dient de aanvragen waarop op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=9&z=2010-12-25&g=2013-04-03) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
+1. De minister dient de aanvragen waarop op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=9&z=2013-04-18&g=2013-04-18) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
 ##### Artikel 11
 
-De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een CCS-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
+1. De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een CCS-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
+
+2. De beschikking tot subsidieverlening wordt in overeenstemming met het NER-besluit en het voorwaardelijk toekenningsbesluit opgesteld.
 
 ##### Artikel 12
 
@@ -162,7 +166,7 @@ Indien uit andere hoofde subsidie wordt verstrekt als cofinanciering aan een CCS
 
 ##### Artikel 13
 
-De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het CCS-project rechtskracht heeft.
+De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het CCS-project geen rechtskracht heeft.
 
 ##### Artikel 14
 
@@ -170,19 +174,17 @@ De subsidieontvanger deelt de kennis betreffende de in bijlage II bij het NER-be
 
 ##### Artikel 15
 
-De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
+1. De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
+
+2. De minister kan andere subsidieverplichtingen opleggen voor zover deze voortvloeien uit het NER-besluit of het toekenningsbesluit of door de Europese Commissie worden opgelegd.
 
 ##### Artikel 16
 
-De minister kan bij de beschikking tot subsidieverlening bepalen dat ambtshalve voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend.
+De minister kan bij de beschikking tot subsidieverlening bepalen dat voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend voor zover dit strookt met het voorwaardelijk toekenningsbesluit.
 
 ##### Artikel 17
 
-1. De subsidieontvanger dient zijn aanvraag om subsidievaststelling in uiterlijk dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
-
-2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2013-04-03) bij de regeling is gevoegd.
-
-3. De aanvraag gaat, overeenkomstig in het formulier is vermeld, vergezeld van de in het formulier aangegeven bescheiden.
+Na overlegging van de in de subsidiebeschikking aangegeven gegevens en documenten wordt de subsidie ambtshalve vastgesteld.
 
 #### § 3. RES-projecten
 
@@ -198,7 +200,7 @@ De minister verstrekt op aanvraag subsidie aan een ondernemer die of aan een dee
 
 ##### Artikel 20
 
-Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies op grond van de EERP e op grond van deze regeling niet meer bedraagt dan 50% van de subsidiabele kosten.
+Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP wordt gecombineerd met subsidie op grond van deze regeling wordt de subsidie op grond van de EERP in mindering gebracht op de subsidie op grond van deze regeling.
 
 ##### Artikel 21
 
@@ -216,7 +218,7 @@ Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstre
 
 ##### Artikel 23
 
-1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2013-04-03) bij deze regeling is gevoegd.
+1. Een aanvraag om subsidie voor een RES-project wordt uiterlijk ingediend op 15 mei 2013 om 17.00 uur met gebruikmaking van een formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=2&z=2013-04-18&g=2013-04-18) bij deze regeling is gevoegd.
 
 2. De aanvraag wordt in de Engelse taal gedaan.
 
@@ -246,27 +248,19 @@ Indien de aanvragers van subsidie samenwerken in een samenwerkingsverband, diene
 
 ##### Artikel 26
 
-1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate het RES-project:
-
-- a. de Nederlandse economie meer versterkt;
-
-- b. het meer bijdraagt aan het Nederlandse innovatiebeleid;
-
-- c. het meer bijdraagt aan de realisatie van de duurzame energiedoelstelling van Nederland in 2020.
-
-2. Voor de rangschikking wegen de in het eerste lid vermelde cirteria even zwaar.
-
-3. De vijf hoogst gerangschikte aanvragen worden door de minister op grond van [artike 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=27&z=2010-12-25&g=2013-04-03) ingediend.
+Vervallen
 
 ##### Artikel 27
 
-1. De minister dient de aanvragen waarop op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=25&z=2010-12-25&g=2013-04-03) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=26&z=2010-12-25&g=2013-04-03) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
+1. De minister dient de aanvragen waarop op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=25&z=2013-04-18&g=2013-04-18) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
 ##### Artikel 28
 
-1. De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een RES-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
+1. 1. De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een RES-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
+
+2. De beschikking tot subsidieverlening wordt in overeenstemming met het NER-besluit en het voorwaardelijk toekenningsbesluit opgesteld.
 
 ##### Artikel 29
 
@@ -274,7 +268,7 @@ Indien uit andere hoofde subsidie wordt verstrekt als cofinanciering aan een RES
 
 ##### Artikel 30
 
-De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het RES-project rechtskracht heeft.
+De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het RES-project geen rechtskracht heeft.
 
 ##### Artikel 31
 
@@ -282,19 +276,17 @@ De subsidieontvanger deelt de kennis betreffende de in bijlage II bij het NER-be
 
 ##### Artikel 32
 
-1. De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
+1. De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
+
+2. De minister kan andere subsidieverplichtingen opleggen voor zover deze voortvloeien uit het NER-besluit of het toekenningsbesluit of door de Europese Commissie worden opgelegd.
 
 ##### Artikel 33
 
-De minister kan bij de beschikking tot subsidieverlening bepalen dat ambtshalve voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend.
+De minister kan bij de beschikking tot subsidieverlening bepalen dat voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend voor zover dit strookt met het voorwaardelijk toekenningsbesluit.
 
 ##### Artikel 34
 
-1. De subsidieontvanger dient zijn aanvraag om subsidievaststelling in uiterlijk dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
-
-2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2013-04-03) bij de regeling is gevoegd.
-
-3. De aanvraag gaat, overeenkomstig in het formulier is vermeld, vergezeld van de in het formulier aangegeven bescheiden.
+Na overlegging van de in de subsidiebeschikking aangegeven gegevens en documenten wordt de subsidie ambtshalve vastgesteld.
 
 #### § 4. Slotbepalingen
 
@@ -306,11 +298,212 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Subsidieregeling NER 300.
 
-## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=7&z=2010-12-25&g=2013-04-03), van de Subsidieregeling NER 300
+## Bijlage 1. zoals bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=7&z=2013-04-18&g=2013-04-18), van de Subsidieregeling NER 300
 
 ## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2010-12-25&g=2013-04-03), van de Subsidieregeling NER300
 
 ## Bijlage 3. als bedoeld in [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=17&z=2010-12-25&g=2013-04-03), en [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=34&z=2010-12-25&g=2013-04-03), van de Subsidieregeling NER 300
+
+## Controleprotocol aangaande het geven van aanwijzingen over de reikwijdte en intensiteit van de accountantscontrole van EL&I subsidies
+
+Postal address:
+
+Postcode and place:
+
+Visit address:
+
+Postcode and place:
+
+### 1. Uitgangspunten
+
+### 1.1. Doelstelling
+
+Chamber of Commerce registration nr:
+
+De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+
+### 1.2. Procedures
+
+**Project name**: ....................................................
+
+De Auditdienst van EL&I kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden1Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister bij - commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt - het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden.Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie.
+
+### 1.3. Wet- en regelgeving
+
+Voor de controle van de rechtmatigheid volgens dit protocol is in ieder geval van toepassing:
+
+### 5. Signature
+
+### 2.1. Eisen voor de controleaanpak
+
+In case that the application is being submitted by a number of co-operating companies, the participants declare by signing this application that they have authorized the applicant/secretariat of the cooperation toacton their behalfand to submitthisapplication.
+
+Joint applicant 1 (participant of the cooperation)
+
+### 2.2. Goedkeuringstoleranties en gewenste zekerheid
+
+Joint applicant 3 (participant of the cooperation)
+
+Joint applicant 4 (participant of the cooperation)
+
+Joint applicant 5 (participant of the cooperation)
+
+### 2.3. Definitie rechtmatigheidsfouten en -onzekerheden
+
+The Ministry of Economic Affairs,
+
+Attn. Ir. K. Sagel
+
+NL Agency
+
+Postal address
+
+P.O. Box 10073
+
+8000 GB Zwolle, The Netherlands
+
+Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
+
+**Omgaan met geconstateerde fouten en onzekerheden**
+
+Onderscheid moet gemaakt worden tussen materiële en niet-materiële fouten.
+
+Full name of Project Sponsor (applying legal body/organization of applicant):
+
+Postal address:
+
+### 3. Verslaglegging
+
+Visit address:
+
+### Ad 1.:
+
+IBAN nr:
+
+## Bijlage
+
+| **10.3 Voorbeeldtekst basis goedkeurende accountantsverklaring bij een subsidiedeclaratie in de publieke sector** 1 |
+| --- |
+
+1 Gezien de diversiteit aan subsidieregelingen zal de basisverklaring nog aangepast moeten worden aan de specifieke situatie. Deze voorbeeldtekst is de versie per 20 februari 2008. Voor de actuele versie wordt verwezen naar de website van het NIVRA.
+
+Aan: Opdrachtgever
+
+Accountantsverklaring ...2Eventueel aan te vullen met de naam van de betreffende subsidieregeling.
+
+Afgegeven ten behoeve van ... (naam subsidiegever).
+
+Opdracht
+
+Wij hebben bijgevoegde3Indien voorgeschreven aanvullen met: ‘(en) door ons gewaarmerkte’., subsidiedeclaratie4Afhankelijk van de subsidieregeling te vervangen door een meer passende benaming.ingevolge ...5Aan te vullen met een verwijzing naar de betreffende subsidieregeling.van ... (naam entiteit) te ... (statutaire vestigingsplaats) over...(periode/jaar) gecontroleerd De subsidiedeclaratie is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit6Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’ (B.V./N.V.), ‘vereniging’, ‘stichting’ enz.. Het is onze verantwoordelijkheid een accountantsverklaring inzake de declaratie te verstrekken.
+
+Werkzaamheden
+
+Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder/en ...7Aan te vullen met een verwijzing naar de controlecriteria zoals vermeld in de relevante wet- en regelgeving, het van toepassing zijnde referentiekader of het controleprotocol. Afhankelijk van de status daarvan wordt ‘waaronder’ of ‘en’ gebruikt.Dienovereenkomstig dienen wij onze controle zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de subsidiedeclaratie geen afwijkingen van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens.
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+
+Oordeel
+
+Naar ons oordeel geeft de subsidiedeclaratie de ... in alle van materieel belang zijnde aspecten juist weer8Gekozen is voor een algemene formulering. Afhankelijk van de subsidieregeling kan het oordeel anders worden geformuleerd. Het aspect volledigheid is meestal niet van toepassing., in overeenstemming met ...9Aan te vullen met een verwijzing naar de controlecriteria zoals vastgelegd in de relevante wet- en regelgeving, in het van toepassing zijnde referentiekader of in het controleprotocol.
+
+Overige aspecten- beperking in het gebruik (en verspreidingskring)10Deze paragraaf kan, vooruitlopend op de implementatie van ISA 800 (revised) optioneel worden toegepast.
+
+De subsidiedeclaratie van ... (naam entiteit) en onze verklaring daarbij zijn uitsluitend bedoeld voor ... (naam entiteit) ter verantwoording aan ... (naam subsidiegever) en kunnen derhalve niet voor andere doeleinden worden gebruikt.
+
+Plaats, datum
+
+Naam accountantspraktijk
+
+Naam externe accountant en ondertekening met die naam
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Application form CCS-project
+
+### 1. Applicant (Project Sponsor)
+
+Full name of Project Sponsor (legal body/organization of applicant):
+
+IBAN nr:
+
+BIC-code:
+
+### 2. Project
+
+**Transboundary project □**yes □ no
+
+### 3. Form of cooperation (if applicable)
+
+**Joint applicants, i.e. participants of the cooperation if the application is made on behalf of a number of companies (if applicable):**
+
+### 4. Additional information that needs to be submitted together with this form
+
+Applicant (or the secretariat of the co-operating companies when the application is being submitted by a number of co-operating companies)
+
+Joint applicant 2 (participant of the cooperation)
+
+**This form is provided by and must be handed in at:**
+
+## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2013-04-18&g=2013-04-18), van de Subsidieregeling NER300
+
+### Application form RES-project
+
+### 1. Applicant (Project Sponsor)
+
+Postcode and place:
+
+Postcode and place:
+
+BIC-code:
+
+Chamber of Commerce registration nr:
+
+### 2. Project
+
+**Transboundary project**□ yes □ no
+
+**Project name**: ....................................................
+
+### 3. Form of cooperation (if applicable)
+
+**Joint applicants, i.e. participants of the cooperation if the application is made on behalf of a number of companies (if applicable):**
+
+### 4. Additional information that needs to be submitted together with this form
+
+### 5. Signature
+
+Applicant (or the secretariat of the co-operating companies when the application is being submitted by a number of co-operating companies)
+
+In case that the application is being submitted by a number of co-operating companies, the participants declare by signing this application that they have authorized the applicant/secretariat of the cooperation toacton their behalfand to submitthisapplication.
+
+Joint applicant 1 (participant of the cooperation)
+
+Joint applicant 2 (participant of the cooperation)
+
+Joint applicant 3 (participant of the cooperation)
+
+Joint applicant 4 (participant of the cooperation)
+
+Joint applicant 5 (participant of the cooperation)
+
+**This form is provided by and must be handed in at:**
+
+The Ministry of Economic Affairs,
+
+Attn. Ir. K. Sagel
+
+NL Agency
+
+Postal address
+
+P.O. Box 10073
+
+8000 GB Zwolle, The Netherlands
+
+## Bijlage 3. als bedoeld in artikelen 17, tweede lid, en 34, tweede lid, van de Subsidieregeling NER 300
+
+Vervallen
 
 ## Controleprotocol aangaande het geven van aanwijzingen over de reikwijdte en intensiteit van de accountantscontrole van EL&I subsidies
 
