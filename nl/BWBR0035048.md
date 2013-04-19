@@ -4,7 +4,7 @@ identifier: "BWBR0035048"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-04-19"
-last_updated: "2007-12-17"
+last_updated: "2013-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035048"
 soort: "zbo"
@@ -40,13 +40,13 @@ entry_into_force: "2007-12-17"
 
 ##### Artikel 1
 
-De Stichting draagt de naam: “Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw”, bij afkorting Naktuinbouw; zij is gevestigd te Roelofarendsveen (gemeente Alkemade).
+De Stichting draagt de naam: “Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw”, bij afkorting Naktuinbouw; zij is gevestigd te Roelofarendsveen (gemeente Kaag en Braassem).
 
 ##### Artikel 2
 
-1. De Statuten en Reglementen van de Stichting nemen over de terminologie van de [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) en de daarop gebaseerde uitvoeringsvoorschriften, tenzij anders bepaald.
+1. De Statuten en Reglementen van de Stichting nemen over de terminologie van de [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en de daarop gebaseerde uitvoeringsvoorschriften, tenzij anders bepaald.
 
-2. Naktuinbouw is voor de uitvoering van de in [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=3&z=2007-12-17&g=2007-12-17) bedoelde werkzaamheden als inspectie-instelling aangewezen als bedoeld in de [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) dan wel zijn de daartoe bij Naktuinbouw in dienst zijnde nader omschreven functionarissen gemandateerd door de Minister van Landbouw, Natuur en Voedselkwaliteit.
+2. Naktuinbouw is voor de uitvoering van de in [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=3&z=2013-04-19&g=2013-04-19) bedoelde werkzaamheden als inspectie-instelling aangewezen als bedoeld in de [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) dan wel zijn de daartoe bij Naktuinbouw in dienst zijnde nader omschreven functionarissen gemandateerd door de Minister van Economische Zaken.
 
 #### Doel en middelen
 
@@ -58,7 +58,7 @@ De Stichting stelt zich ten doel:
 
 - 2. het gebruik van betrouwbaar teeltmateriaal als in lid 1 van dit artikel omschreven alsmede de verbetering van dat teeltmateriaal te bevorderen;
 
-- 3. om op basis van hetzij de wet, hetzij een ministerieel mandaat controle- en inspectiewerkzaamheden te verrichten op planten en plantaardige producten. Onder deze werkzaamheden worden in het bijzonder begrepen het toezicht op de naleving van de bij of krachtens de [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) en [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften en de uitvoering van fytosanitaire inspecties en het waarmerken van fytosanitaire en kwaliteitscertificaten;
+- 3. om op basis van hetzij de wet, hetzij een ministerieel mandaat controle- en inspectiewerkzaamheden te verrichten op planten en plantaardige producten. Onder deze werkzaamheden worden in het bijzonder begrepen het toezicht op de naleving van de bij of krachtens de [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften en de uitvoering van fytosanitaire inspecties en het verstrekken van fytosanitaire documenten en kwaliteitscertificaten;
 
 - 4. rassenregistratie- en kwekersrechtonderzoek te verrichten in cultuurgewassen.
 
@@ -66,25 +66,25 @@ De Stichting stelt zich ten doel:
 
 1. De Stichting verricht uitsluitend werkzaamheden van openbaar belang en streeft haar doelstelling na met onder meer de navolgende middelen:
 
-- a. het doen van voorstellen tot wijziging van keuringsnormen en keuringsvoorschriften aan de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. het doen van voorstellen tot wijziging van keuringsnormen en keuringsvoorschriften aan de Minister van Economische Zaken;
 
 - b. het stellen van voorschriften met betrekking tot de wijze waarop de keuring wordt uitgevoerd en de wijze waarop het uitreiken van kentekenen en bewijsstukken plaatsvindt;
 
-- c. het verrichten of doen verrichten van keuringen en het uitoefenen van toezicht op de naleving van door haar en/of bij of krachtens de [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) en de [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften;
+- c. het verrichten of doen verrichten van keuringen en het uitoefenen van toezicht op de naleving van door haar en/of bij of krachtens de [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en de [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften;
 
-- d. het verrichten van rassenregistratie- en kwekersrechtonderzoek, de administratieve verwerking van aanvragen voor rassenregistratie en kwekersrechtverlening en het voorbereiden van door de Minister van Landbouw, Natuur en Voedselkwaliteit dan wel de Raad voor plantenrassen te nemen beslissingen;
+- d. het verrichten van rassenregistratie- en kwekersrechtonderzoek, de administratieve verwerking van aanvragen voor rassenregistratie en kwekersrechtverlening en het voorbereiden van door de Minister van Economische Zaken dan wel de Raad voor plantenrassen te nemen beslissingen;
 
-- e. het verstrekken van informatie aan sectoren en (organisaties van) het bedrijfsleven over aangelegenheden die op het werkterrein van de Stichting liggen;
+- e. het verstrekken van informatie en adviezen aan sectoren en (organisaties van) het bedrijfsleven over aangelegenheden die op het werkterrein van de Stichting liggen;
 
 - f. het bevorderen van die proefnemingen en onderzoekingen, waarbij de Stichting, gezien haar doelstelling, belang heeft alsmede het bevorderen van het gebruik van goedgekeurd Nederlands teeltmateriaal in binnen- en buitenland;
 
-- g. het beoordelen en onderzoeken van monsters op identiteit, gezondheid en kwaliteit;
+- g. het beoordelen en onderzoeken van monsters op identiteit, gezondheid en kwaliteit, onder meer met het oog op de toepassing van laboratoriummethoden;
 
 - h. het uitoefenen van toezicht op de naleving van door haar gestelde voorschriften om te bevorderen, dat hoogwaardig en gezond teeltmateriaal beschikbaar komt;
 
 - i. andere middelen, welke tot het bereiken van het doel bevorderlijk kunnen zijn, uitgezonderd het drijven van handel in teeltmateriaal.
 
-2. De Stichting onderwerpt zich aan Rijkstoezicht, uit te oefenen vanwege de Minister van Landbouw, Natuur en Voedselkwaliteit volgens door deze en het Bestuur op te stellen regelen. Het Bestuur en de directie verplichten zich ten behoeve van het welslagen daarvan alle inlichtingen te verstrekken en alle medewerking te verlenen.
+2. De Stichting onderwerpt zich aan Rijkstoezicht, uit te oefenen vanwege de Minister van Economische Zaken volgens door deze en het Bestuur op te stellen regelen. Het Bestuur en de directie verplichten zich ten behoeve van het welslagen daarvan alle inlichtingen te verstrekken en alle medewerking te verlenen.
 
 #### Het Bestuur van de stichting
 
@@ -92,21 +92,19 @@ De Stichting stelt zich ten doel:
 
 1. Alle bevoegdheden, voor zover niet uitdrukkelijk aan andere organen opgedragen, komen toe aan het Bestuur.
 
-2. Het Bestuur is zodanig samengesteld dat daarin belanghebbenden uit de onderscheiden sectoren als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=11&z=2007-12-17&g=2007-12-17) van deze Statuten genoegzaam zijn vertegenwoordigd. Het Bestuur bestaat met inachtneming daarvan uit een voorzitter en ten minste twee leden uit elk der sectoren bloemisterijgewassen, boomkwekerijgewassen en groentegewassen.
+2. Het Bestuur is zodanig samengesteld dat daarin belanghebbenden uit de onderscheiden sectoren als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=11&z=2013-04-19&g=2013-04-19) van deze Statuten genoegzaam zijn vertegenwoordigd. Het Bestuur bestaat met inachtneming daarvan uit tenminste zes leden en een voorzitter. De sectorbesturen bloemisterijgewassen, boomkwekerijgewassen en groentegewassen benoemen elk twee leden.
 
 3. Het Bestuur kan bepalen:
 
-- a. dat van een sector meer dan twee aangeslotenen in het Bestuur zitting zullen hebben. Daarbij dient door het Bestuur het aantal te worden aangegeven;
+- a. dat van een sector meer dan twee afgevaardigden in het Bestuur zitting zullen hebben. Daarbij dient door het Bestuur het aantal te worden aangegeven;
 
-- b. dat eindgebruikers van teeltmateriaal van bloemisterij-, boomkwekerijen/ of groentegewassen in het Bestuur zitting zullen hebben, onder bepaling van het aantal.
+- b. dat eindgebruikers van teeltmateriaal van bloemisterij-, boomkwekerij- en/of groentegewassen in het Bestuur zitting zullen hebben, onder bepaling van het aantal.
 
-4. De besluiten als in lid 3 onder a. en b. bedoeld, zomede hun wijziging en de intrekking daarvan behoeven, alvorens van kracht te zijn, de goedkeuring van de Minister van Landbouw, Natuur en Voedselkwaliteit.
-
-5. Het Bestuur wordt bijgestaan door een secretaris, wiens taak nader wordt geregeld in het Huishoudelijk Reglement. Indien de secretaris geen bestuurslid is als bedoeld in lid 2 van dit artikel, heeft hij een adviserende stem.
+4. Het Bestuur wordt bijgestaan door een secretaris, wiens taak nader wordt geregeld in het Huishoudelijk Reglement.
 
 ##### Artikel 6
 
-1. Het Bestuur benoemt en ontslaat de voorzitter. De benoeming en het ontslag behoeven de voorafgaande goedkeuring van de Minister van Landbouw, Natuur en Voedselkwaliteit. De benoeming vindt plaats voor een periode van vijf jaren. De voorzitter is na zijn aftreden terstond herbenoembaar.
+1. Het Bestuur benoemt en ontslaat de voorzitter. De benoeming en het ontslag behoeven de voorafgaande goedkeuring van de Minister van Economische Zaken. De benoeming vindt plaats voor een periode van vijf jaren. De voorzitter is na zijn aftreden terstond herbenoembaar.
 
 2. De voorzitter van het Bestuur is tevens voorzitter van elk der sectorbesturen.
 
@@ -128,7 +126,7 @@ De Stichting stelt zich ten doel:
 
 - e. vrijwillige ontslagname;
 
-- f. beëindiging van het lidmaatschap van het sectorbestuur, welke hem in het Bestuur heeft benoemd;
+- f. beëindiging van het lidmaatschap van dan wel het intrekken van de benoeming door het sectorbestuur, welke hem in het Bestuur heeft benoemd;
 
 - g. niet-vrijwillig ontslag door het Bestuur;
 
@@ -156,45 +154,45 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, alsmede het aang
 
 ##### Artikel 10
 
-1. De bestuursleden zijn alle natuurlijke personen. Zij stemmen zonder last en ruggespraak; zij zijn met name niet gebonden aan het inzicht of enige opdracht van de representatieve vakorganisatie die of het Sectorbestuur dat hen heeft benoemd.
+1. De bestuursleden zijn allen natuurlijke personen. Zij stemmen zonder last en ruggespraak; zij zijn met name niet gebonden aan het inzicht of enige opdracht van de representatieve vakorganisatie die of het Sectorbestuur dat hen heeft benoemd.
 
 2. Het Bestuur besluit bij volstrekte meerderheid van geldig uitgebrachte stemmen, tenzij in deze Statuten of krachtens deze Statuten vastgestelde voorschriften anders is bepaald.
 
 3. Blanco stemmen worden geacht niet te zijn uitgebracht.
 
-4. De voorzitter brengt geen stem uit.
+4. De voorzitter heeft stemrecht.
 
 5. De stemming over personen geschiedt schriftelijk; alle andere stemmingen mondeling.
 
 6. De vacatiegelden, alsmede de vergoeding van reis- en verblijfkosten van de leden van het Bestuur, de sectorbesturen en de adviescommissies zullen bij bestuursbesluit worden vastgesteld. Het Bestuur regelt de toe te kennen vergoedingen aan en/of de bezoldiging van de voorzitter.
 
-#### Sectoren en Groepen
+#### Sectoren
 
 ##### Artikel 11
 
-1. De Stichting kent de volgende sectoren:
+1. De Stichting heeft de volgende sectorbesturen:
 
-- a. Bloemisterijgewassen;
+- a. een sectorbestuur Bloemisterijgewassen;
 
-- b. Boomkwekerijgewassen en
+- b. een sectorbestuur Boomkwekerijgewassen en
 
-- c. Groentegewassen
+- c. een sectorbestuur Groentegewassen.
 
-2. Het Bestuur is bevoegd om andere sectoren en/of groepen in te stellen.
-
-3. Instelling van Groepen als in lid 2 bedoeld heeft in beginsel betrekking op alle sectoren. Bij de instelling van een Groep is het Bestuur bevoegd te bepalen, dat indeling daarin slechts betrekking kan hebben op de sector(en) als door het Bestuur daarbij aangegeven.
+2. Het Bestuur is bevoegd om andere sectorbesturen- en/of groepen in te stellen.
 
 #### Sectorbesturen
 
 ##### Artikel 12
 
-1. Een cultuurgewas (of een groep van cultuurgewassen) dat in de keuring betrokken is, zal het Bestuur naar gelang de aard van het gewas of de groep van gewassen onderbrengen in één van de sectoren, als in [artikel 11 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=11&z=2007-12-17&g=2007-12-17) bedoeld.
+1. Een cultuurgewas (of een groep van cultuurgewassen) dat in de keuring betrokken is, zal het Bestuur naar gelang de aard van het gewas of de groep van gewassen onderbrengen in één van de sectoren, bloem/boom of groente.
 
-2. In elke sector wordt een sectorbestuur ingesteld, welke op het terrein van die sector het Bestuur adviseert over al hetgeen betrekking heeft op de keuring van de betreffende cultuurgewas( sen) en op het toezicht op de bedrijven, die teeltmateriaal van dit/deze cultuurgewas(sen) voortbrengen en/of verhandelen.
+2. In elke sector wordt een sectorbestuur ingesteld, welke op het terrein van die sector het Bestuur adviseert over alle aangelegenheden die betrekking hebben op het (de) betreffende cultuurgewas- (sen) en op het toezicht op de bedrijven, die teeltmateriaal van dit/deze cultuurgewas(sen) voortbrengen en/of verhandelen.
 
-3. Een sectorbestuur is zodanig samengesteld, dat daarin (groepen van) belanghebbenden genoegzaam vertegenwoordigd zijn. Met inachtneming daarvan hebben in een sectorbestuur zitting leden/geregistreerden of erkenden, zijnde producenten en handelsbedrijven, die zijn ingedeeld in de betreffende sector en leden/eindgebruikers van teeltmateriaal, een en ander in aantallen als door het Bestuur bepaald, welke rechtstreeks door voor deze geregistreerden of erkenden respectievelijk eindgebruikers representatieve vakorganisaties, als door het Bestuur aangewezen, worden benoemd.
+3.
 
-4. Het sectorbestuur dient telkenjare bij het Bestuur ter goedkeuring en vaststelling een begroting in van baten en lasten van de sector, die betrekking hebben op de werkzaamheden van Naktuinbouw als bedoeld in [artikel 19 van de Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=19), vergezeld van voorstellen over de daaraan ten grondslag gelegde bijdragen en vergoedingen, als bedoeld in [artikel 21 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=21), van de bij haar sector ingedeelde geregistreerde en erkende leveranciers.
+Een sectorbestuur is zodanig samengesteld, dat daarin (groepen van) belanghebbenden genoegzaam vertegenwoordigd zijn. Met inachtneming daarvan hebben in een sectorbestuur zitting leden/geregistreerden of erkenden, zijnde producenten en handelsbedrijven, die zijn ingedeeld in de betreffende sector en leden/eindgebruikers van teeltmateriaal, een en ander in aantallen als door het Bestuur bepaald, welke rechtstreeks door voor deze geregistreerden of erkenden respectievelijk eindgebruikers representatieve vakorganisaties, als door het Bestuur aangewezen, worden benoemd.
+
+4. Het sectorbestuur dient telkenjare bij het Bestuur ter goedkeuring en vaststelling een begroting in van baten en lasten van de sector, die betrekking hebben op de werkzaamheden van Naktuinbouw als bedoeld in [artikel 19 van de Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19), vergezeld van voorstellen over de daaraan ten grondslag gelegde bijdragen en vergoedingen, als bedoeld in [artikel 21 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21), van de bij haar sector ingedeelde geregistreerde en erkende leveranciers.
 
 5. Het Sectorbestuur kan zich laten bijstaan door één of meer adviserende leden.
 
@@ -204,7 +202,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, alsmede het aang
 
 ##### Artikel 13
 
-1. Op voorstel van de betrokken sectorbesturen kan het Bestuur een adviescommissie instellen voor een bepaald gewas of groep van gewassen ter advisering van het sectorbestuur op het gebied van de inrichting en uitvoering van de keuringen en de certificering ten aanzien van dat gewas c.q. die groep van gewassen of ten aanzien van andere technische aangelegenheden, die het Bestuur wenselijk acht.
+1. De directie kan, indien zij zulks wenselijk acht, een adviescommissie instellen voor een bepaald gewas, een groep van gewassen, een technische aangelegenheid of een activiteit welke Naktuinbouw verricht binnen kaders van openbaar belang, ter advisering van directie of management.
 
 2. De werkwijze, samenstelling en de wijze van benoeming van de leden van de adviescommissies worden in het Huishoudelijk Reglement geregeld.
 
@@ -214,7 +212,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, alsmede het aang
 
 ##### Artikel 14
 
-1. De dagelijkse leiding van de stichting berust bij de directie, bestaande uit één of meer personen.
+1. De dagelijkse leiding van de stichting berust bij de directie, bestaande uit één of **meer personen**.
 
 2. Taak en bevoegdheden van de leden van de directie worden nader geregeld bij een door het Bestuur vast te stellen directiereglement.
 
@@ -228,15 +226,21 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, alsmede het aang
 
 1. De inkomsten van de Stichting bestaan uit:
 
-- a. tarieven van de geregistreerde en erkende leveranciers als bedoeld in [artikel 21 van de Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=21);
+- a. tarieven van de geregistreerde en erkende leveranciers als bedoeld in [artikel 21 van de Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21);
 
-- b. vergoedingen voor verrichte diensten;
+- b. tarieven van de geregistreerde en erkende leveranciers ter zake van door Naktuinbouw op mandaat van de Minister van Economische Zaken verrichte fytosanitaire inspectiewerkzaamheden, steunend op de [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075);
 
-- c. overige baten.
+- c. vergoedingen voor het verrichten van rassenregistratie- en kwekersrecht-onderzoek;
 
-2. De tarieven als genoemd in het vorige lid onder a. worden vastgesteld door het Bestuur. Deze tarieven behoeven, alvorens van kracht te zijn, de goedkeuring van de Minister van Landbouw, Natuur en Voedselkwaliteit.
+- d. vergoedingen voor verrichte diensten;
 
-3. Ter zake van de geldelijke verplichtingen, de wijze van betalen en de inning van gelden als bedoeld in lid 1, onderdeel b. kan het Bestuur nadere voorschriften geven.
+- e. overige baten.
+
+2. De tarieven als genoemd in lid 1 onder a. worden vastgesteld door het Bestuur. Deze tarieven behoeven, alvorens van kracht te zijn, de goedkeuring van de Minister van Economische Zaken.
+
+3. De tarieven als genoemd in lid 1 onder b. worden vastgesteld door de Minister van Economische Zaken.
+
+4. Ter zake van de geldelijke verplichtingen, de wijze van betalen en de inning van gelden als bedoeld in lid 1, onderdeel d. kan het Bestuur nadere voorschriften geven.
 
 ##### Artikel 16
 
@@ -248,21 +252,23 @@ De Stichting beoogt niet het behalen van winst. Haar inkomsten strekken tot best
 
 ##### Artikel 18
 
-1. Telkenjare wordt door het Bestuur een begroting vastgesteld, omvattend onder meer gespecificeerde begrotingen van de sectoren als bedoeld in [artikel 12 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=12&z=2007-12-17&g=2007-12-17). Met het oog op het bepaalde in [artikel 15 leden 1, onderdeel a. en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=15&z=2007-12-17&g=2007-12-17) wordt de begroting overgelegd aan de Minister van Landbouw, Natuur en Voedselkwaliteit.
+1. Telkenjare wordt door het Bestuur een begroting vastgesteld, omvattend onder meer gespecificeerde begrotingen van de sectorbesturen als bedoeld in [artikel 12 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=12&z=2013-04-19&g=2013-04-19).
+
+Met het oog op het bepaalde in [artikel 15 leden 1, onderdeel a. en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035048&artikel=15&z=2013-04-19&g=2013-04-19) wordt de begroting overgelegd aan de Minister van Economische Zaken en dient het besluit tot vaststelling van de begroting door genoemde Minister te worden goedgekeurd.
 
 2. De controle op het financiële beheer en op de rekening en verantwoording in het bijzonder, wordt uitgeoefend door een door het Bestuur te benoemen registeraccountant. Diens goedkeuring strekt tot décharge van het gevoerde financiële beheer.
 
-3. Het Bestuur stelt de jaarrekening vast en legt deze ter goedkeuring voor aan de Minister van Landbouw, Natuur en Voedselkwaliteit.
+3. Het Bestuur stelt de jaarrekening vast en legt deze ter goedkeuring voor aan de Minister van Economische Zaken.
 
 #### Statutenwijziging en opheffing
 
 ##### Artikel 19
 
-1. Op voorstel van het Bestuur of van meer dan de helft van de bestuursleden kan worden besloten de Stichting op te heffen, gehoord elk sectorbestuur. Een dergelijk voorstel kan slechts behandeld worden als het in de oproepbrief is vermeld en deze drie weken voor de vergadering aan de bestuursleden is verzonden. In de eerste vergadering, waar een voorstel als hier bedoeld in behandeling is genomen, moeten voor een geldig besluit alle stemgerechtigde bestuursleden aanwezig zijn.
+1. Op voorstel van het Bestuur of van meer dan de helft van de bestuursleden kan worden besloten de Stichting op te heffen, gehoord elk sectorbestuur. Een dergelijk voorstel kan slechts behandeld worden als het in de oproepbrief is vermeld en deze ten minste drie weken voor de vergadering aan de bestuursleden is verzonden. In de eerste vergadering, waar een voorstel als hier bedoeld in behandeling is genomen, moeten voor een geldig besluit alle stemgerechtigde bestuursleden aanwezig zijn.
 
 2. Is het quorum als in lid 1 bepaald niet aanwezig, dan kan het voorstel in de volgende vergadering, waarvoor dezelfde oproeptermijn in acht moet worden genomen en waarvoor de beperking betreffende het aantal leden niet geldt, opnieuw in behandeling worden genomen.
 
-3. Het voorstel als in lid 1 bedoeld behoeft ten minste drie/vierde van het aantal geldig uitgebrachte stemmen van ter vergadering aanwezige leden om te worden aangenomen. Een besluit tot opheffing behoeft, alvorens van kracht te zijn, de goedkeuring van de Minister van Landbouw, Natuur en Voedselkwaliteit.
+3. Het voorstel als in lid 1 bedoeld behoeft ten minste drie/vierde van het aantal geldig uitgebrachte stemmen van ter vergadering aanwezige leden om te worden aangenomen. Een besluit tot opheffing behoeft, alvorens van kracht te zijn, de goedkeuring van de Minister van Economische Zaken.
 
 4. Voor wijziging van deze Statuten is het bepaalde in de leden 1, 2 en 3 van dit artikel van overeenkomstige toepassing.
 
@@ -270,7 +276,7 @@ De Stichting beoogt niet het behalen van winst. Haar inkomsten strekken tot best
 
 1. Na opheffing zal de liquidatie geschieden door het Bestuur, tenzij in het opheffingsbesluit anders mocht worden bepaald.
 
-2. De liquidatie geschiedt met inachtneming van het bepaalde in [titel 6, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=6). Een batig saldo wordt onder goedkeuring van de Minister van Landbouw, Natuur en Voedselkwaliteit aangewend voor een doel, verband houdende met het doel van de opgeheven Stichting.
+2. De liquidatie geschiedt met inachtneming van het bepaalde in [titel 6, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=6). Een batig saldo wordt onder goedkeuring van de Minister van Economische Zaken aangewend voor een doel, verband houdende met het doel van de opgeheven Stichting.
 
 #### Uitvoerings- en slotbepalingen
 
@@ -278,7 +284,7 @@ De Stichting beoogt niet het behalen van winst. Haar inkomsten strekken tot best
 
 1. Het Bestuur stelt binnen de door deze Statuten gegeven grenzen een Huishoudelijk Reglement vast.
 
-2. De bestuursleden, de adviserende leden, de functionarissen van de Stichting of van een van haar organen en de leden van de commissies zijn verplicht tot geheimhouding tegenover derden van al hetgeen bij de uitoefening van hun functie omtrent persoonlijke en zakelijke omstandigheden alsmede omtrent het bedrijf van de geregistreerde of erkende leverancier te hunner kennis komt.
+2. De bestuursleden, de adviserende leden, de functionarissen van de Stichting of van een van haar organen zijn verplicht tot geheimhouding tegenover derden van al hetgeen bij de uitoefening van hun functie omtrent persoonlijke en zakelijke omstandigheden alsmede omtrent het bedrijf van de geregistreerde of erkende leverancier te hunner kennis komt.
 
 3. Het Bestuur, de bestuursleden, de leden van de directie en andere leidinggevenden onthouden zich van aanwijzingen of anderszins van handelingen, uitingen of gedragingen, gericht op beïnvloeding vooraf van de oordeelsvorming en besluitvorming bij de uitvoering van wettelijke taken, al dan niet op basis van mandaat, van het met die uitvoering van die taken belast personeel zodanig, dat dat zou dienen te handelen in afwijking van vigerende instructies.
 
