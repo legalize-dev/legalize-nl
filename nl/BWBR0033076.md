@@ -4,7 +4,7 @@ identifier: "BWBR0033076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-23"
-last_updated: "2013-03-28"
+last_updated: "2013-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033076"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | --- | --- | --- | --- |
 | Artikel regeling 2008 | Omschrijving categorie | Correctiebedrag [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14) | Correctiebedrag, artikel 14, eerste lid, onderdelen b en c van het besluit |
 | [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=3) | Wind op land | € 0,053 per kWh | € 0 per kWh |
-| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=9) | Zon pv > 0,6 kWp en ≤ 3,5 kWp | € 0,0224 per kWh | € 0 per kWh |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=9) | Zon pv > 0,6 kWp en ≤ 3,5 kWp | € 0,224 per kWh | € 0 per kWh |
 | [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=15) | AVI | € 0,093 per kWh | € 0 per kWh |
 | [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=22) | Stortgas, AWZI, RWZI | € 0,048 per kWh | € 0 per kWh |
 | [Artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&artikel=29) | Biomassa co-vergisting, gft vergisting en thermische conversie | € 0,048 per kWh | € 0 per kWh |
