@@ -4,7 +4,7 @@ identifier: "BWBR0014740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-26"
-last_updated: "2011-05-27"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014740"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentieruimte in de kavel A9, bedoeld in tabel 2 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.
 
-3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2011-05-27&g=2011-05-27) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
+3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2013-04-24&g=2013-04-24) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
 
 4. Bij de toepassing van het eerste lid, onderdelen b tot en met d, wordt de zendtijd besteed aan reclameboodschappen en nieuws buiten beschouwing gelaten.
 
@@ -144,23 +144,19 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 - c. verzorgd wordt door een commerciële omroepinstelling, waarvan alle door haar verzorgde en via omroepnetwerken uitgezonden programma's tezamen door niet meer dan 30 procent van het aantal inwoners van Nederland kunnen worden ontvangen.
 
-2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen:
-
-- a. de frequentieruimte in de kavels B1 tot en met B26, bedoeld in [tabel 3 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&bijlage=1);
-
-- b. de frequentieruimte in de kavels B27 tot en met B38, bedoeld in [tabel A van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022818&bijlage=1).
+2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen de voor niet-landelijke commerciële radio-omroep bestemde kavels B1 tot en met B38.
 
 3. Bij de toepassing van het eerste lid, onderdeel b, wordt de zendtijd besteed aan reclameboodschappen buiten beschouwing gelaten.
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 6:24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-05-27&g=2011-05-27), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
+1. In afwijking van [artikel 6:24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2013-04-24&g=2013-04-24), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
 
-- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee kavels, bedoeld in [artikel 2, eerste en tweede lid, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=2) en het besluit van de Minister van Economische Zaken, Landbouw en Innovatie van .26 april 2011, nr. AT-EL&I/ 6614918, houdende de vaststelling van twee vergunningen voor landelijke commerciële radio-omroep (kavels A7 en A8) alsmede twee vergunningen voor digitale radio-omroep (Stcrt. 2011, 7602) voor zover het de kavels A7 en A8 betreft, voor zover het de kavels A7 en A8 betreft, en
+- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee van de voor landelijke commerciële radio-omroep bestemde kavels A1 tot en met A9, en
 
-- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=2&z=2011-05-27&g=2011-05-27), [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=3&z=2011-05-27&g=2011-05-27), [artikel 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2011-05-27&g=2011-05-27), [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=5&z=2011-05-27&g=2011-05-27), of [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2011-05-27&g=2011-05-27), van toepassing is.
+- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=2&z=2013-04-24&g=2013-04-24), [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=3&z=2013-04-24&g=2013-04-24), [artikel 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2013-04-24&g=2013-04-24), [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=5&z=2013-04-24&g=2013-04-24), of [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2013-04-24&g=2013-04-24), van toepassing is.
 
-2. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-05-27&g=2011-05-27), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-05-27&g=2011-05-27), aangewezen frequentieruimte, worden gebruikt, mits
+2. In afwijking van [artikel 6.24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2013-04-24&g=2013-04-24), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2013-04-24&g=2013-04-24), aangewezen frequentieruimte, worden gebruikt, mits
 
 - a. het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent; en
 
