@@ -4,7 +4,7 @@ identifier: "BWBR0007471"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-15"
-last_updated: "2009-01-07"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007471"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Het verslag, bedoeld in artikel 25, derde lid, van de wet, brengt het hoofd, bed
 
 "Ik zweer/verklaar, dat ik middellijk of onmiddellijk, onder welke vorm of onder welk voorwendsel, tot het verkrijgen mijner benoeming aan niemand, wie hij ook zij, iets heb gegeven of beloofd of zal geven of beloven. Ik zweer/beloof, dat ik, om iets hoegenaamd in mijn betrekking te doen of te laten, van niemand hoegenaamd, middellijk of onmiddellijk, enige beloften of geschenken zal aannemen. Zo waarlijk helpe mij God almachtig! (Dat verklaar en beloof ik)". Daarna wordt door de ambtenaar de volgende eed of belofte afgelegd:
 
-"Ik zweer/beloof trouw aan de Koningin, aan de Grondwet en aan de wetten des Rijks. Ik zweer/beloof, dat ik krachtens de wet uitgevaardigde voorschriften en de verordeningen zal nakomen en handhaven, dat ik de mij verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben, en dat ik mij als een nauwgezet en ijverig ambtenaar zal gedragen. Zo waarlijk helpe mij God almachtig! (Dat beloof ik!)".
+"Ik zweer/beloof trouw aan de Koning, aan de Grondwet en aan de wetten des Rijks. Ik zweer/beloof, dat ik krachtens de wet uitgevaardigde voorschriften en de verordeningen zal nakomen en handhaven, dat ik de mij verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben, en dat ik mij als een nauwgezet en ijverig ambtenaar zal gedragen. Zo waarlijk helpe mij God almachtig! (Dat beloof ik!)".
 
 2. Wanneer de eed (verklaring en belofte) van zuivering, bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) van zuivering als volgt:
 
@@ -114,7 +114,7 @@ Het verslag, bedoeld in artikel 25, derde lid, van de wet, brengt het hoofd, bed
 
 Wanneer de daarop volgende eed of belofte, bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van die volgende eed of belofte als volgt:
 
-‘Ik swar/ûnthjit trou oan ’e Keninginne, oan ’e Grûnwet en oan ’e wetten fan it Ryk. Ik swar/ûnthjit dat ik de foarskriften en oarderingen útfeardige út krêft fan ’e wet neikomme en bewarje sil, dat ik de opdrachten dy’t my jûn wurde, berêde sil en de saken, dêr’t ik troch myn amt fan op ’e hichte bin en dy’t my as geheim tabetroud binne of dêr’t ik it fertroulik karakter fan begripe moat, net iepenbier meitsje sil oan oaren, útsein oan dyjingen, oan wa’t ik neffens de wet of fan amtswegen ta meidieling ferplichte bin, en dat ik my as in sekuer en iverich amtner hâlde en drage sil. Sa wier helpe my God almachtich! (Dat ûnthjit ik!)’
+‘Ik swar/ûnthjit trou oan ’e Kening, oan ’e Grûnwet en oan ’e wetten fan it Ryk. Ik swar/ûnthjit dat ik de foarskriften en oarderingen útfeardige út krêft fan ’e wet neikomme en bewarje sil, dat ik de opdrachten dy’t my jûn wurde, berêde sil en de saken, dêr’t ik troch myn amt fan op ’e hichte bin en dy’t my as geheim tabetroud binne of dêr’t ik it fertroulik karakter fan begripe moat, net iepenbier meitsje sil oan oaren, útsein oan dyjingen, oan wa’t ik neffens de wet of fan amtswegen ta meidieling ferplichte bin, en dat ik my as in sekuer en iverich amtner hâlde en drage sil. Sa wier helpe my God almachtich! (Dat ûnthjit ik!)’
 
 ##### Artikel 10. Intrekking
 
