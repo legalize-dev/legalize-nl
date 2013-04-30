@@ -4,7 +4,7 @@ identifier: "BWBR0012067"
 country: "nl"
 rank: "kb"
 publication_date: "2014-10-29"
-last_updated: "2001-02-17"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012067"
 soort: "KB"
@@ -52,9 +52,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. Buitenlands Bezoek: Buitenlands Bezoek van het Staatshoofd en Inkomend Bezoek aan het Staatshoofd;
 
-- c. de medaille: de Herinneringsmedaille Buitenlandse Bezoeken zoals omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012067&bijlage=1&z=2001-02-17&g=2001-02-17);
+- c. de medaille: de Herinneringsmedaille Buitenlandse Bezoeken zoals omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012067&bijlage=1&z=2001-02-17&g=2013-04-30);
 
-- d. de oorkonde: de oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012067&bijlage=2&z=2001-02-17&g=2001-02-17).
+- d. de oorkonde: de oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012067&bijlage=2&z=2001-02-17&g=2013-04-30).
 
 ##### Artikel 2
 
