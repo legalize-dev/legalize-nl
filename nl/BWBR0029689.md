@@ -4,7 +4,7 @@ identifier: "BWBR0029689"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2013-04-30"
-last_updated: "2011-03-08"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029689"
 soort: "ministeriele-regeling-BES"
@@ -74,19 +74,19 @@ Het bestuurscollege van een openbaar lichaam draagt zorg voor een administratie 
 
 ##### Artikel 5. Jaarlijkse opgave bestuurscollege
 
-De opgave, bedoeld in [artikel 37, tweede lid, van de wet](onbekend), brengt het bestuurscollege van een openbaar lichaam uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=1&z=2011-03-08&g=2011-03-08).
+De opgave, bedoeld in [artikel 37, tweede lid, van de wet](onbekend), brengt het bestuurscollege van een openbaar lichaam uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=1&z=2013-04-30&g=2013-04-30).
 
 ##### Artikel 6. Jaarlijkse opgave hoofd
 
-De opgave, bedoeld in [artikel 37, derde lid, van de wet](onbekend), brengt het hoofd uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=2&z=2011-03-08&g=2011-03-08).
+De opgave, bedoeld in [artikel 37, derde lid, van de wet](onbekend), brengt het hoofd uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=2&z=2013-04-30&g=2013-04-30).
 
 ##### Artikel 7. Wijze van kennisgeving
 
-1. De kennisgeving van beroep op vrijstelling, bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=15), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=3&z=2011-03-08&g=2011-03-08).
+1. De kennisgeving van beroep op vrijstelling, bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=15), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=3&z=2013-04-30&g=2013-04-30).
 
-2. De kennisgeving van de in- en afschrijving, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=31), geschiedt op verzamellijsten, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=4&z=2011-03-08&g=2011-03-08).
+2. De kennisgeving van de in- en afschrijving, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=31), geschiedt op verzamellijsten, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=4&z=2013-04-30&g=2013-04-30).
 
-3. De kennisgeving van relatief verzuim, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=33), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=5&z=2011-03-08&g=2011-03-08).
+3. De kennisgeving van relatief verzuim, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=33), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=5&z=2013-04-30&g=2013-04-30).
 
 ##### Artikel 8. Ambtseed
 
@@ -96,7 +96,7 @@ Alvorens zijn ambt te aanvaarden, legt de ambtenaar, bedoeld in [artikel 28 van 
 
 Daarna wordt door de ambtenaar de volgende eed of belofte afgelegd:
 
-‘Ik zweer/beloof trouw aan de Koningin, aan de Grondwet en aan de wetten des Rijks. Ik zweer/beloof, dat ik krachtens de wet uitgevaardigde voorschriften en de verordeningen zal nakomen en handhaven, dat ik de mij verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben, en dat ik mij als een nauwgezet en ijverig ambtenaar zal gedragen. Zo waarlijk helpe mij God almachtig! (Dat beloof ik!)’.
+‘Ik zweer/beloof trouw aan de Koning, aan de Grondwet en aan de wetten des Rijks. Ik zweer/beloof, dat ik krachtens de wet uitgevaardigde voorschriften en de verordeningen zal nakomen en handhaven, dat ik de mij verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben, en dat ik mij als een nauwgezet en ijverig ambtenaar zal gedragen. Zo waarlijk helpe mij God almachtig! (Dat beloof ik!)’.
 
 ##### Artikel 9. Inwerkingtreding
 
