@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2013-01-01"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1. Aan de bewindspersoon is voorbehouden het afdoen en ondertekenen van stukken:
 
-- a. gericht aan de Koningin,
+- a. gericht aan de Koning,
 
 - b. gericht aan de Raad van Ministers van het Koninkrijk, de Raad van Ministers en de daaruit gevormde colleges,
 
@@ -134,13 +134,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. gericht aan de Algemene Rekenkamer,
 
-- h. houdende beslissingen op een beroepschrift,
+- h. houdende algemeen verbindende voorschriften,
 
-- i. houdende algemeen verbindende voorschriften,
+- i. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan, en
 
-- j. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan, en
-
-- k. betreffende het uitoefenen van de bevoegdheid, genoemd in [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), voor zover het archiefbescheiden betreft die zijn overgebracht door de zorgdragers als bedoeld in [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) en die betrekking hebben op het Koninklijk Huis.
+- j. betreffende het uitoefenen van de bevoegdheid, genoemd in [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), voor zover het archiefbescheiden betreft die zijn overgebracht door de zorgdragers als bedoeld in [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) en die betrekking hebben op het Koninklijk Huis.
 
 2. Aan de minister is voorbehouden het afdoen en ondertekenen van stukken houdende het sluiten van huur-, huurkoop- en leaseovereenkomsten voor een bedrag van meer dan € 2.500.000 voor de duur van de overeenkomst.
 
@@ -190,7 +188,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2013-01-01&g=2013-01-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2013-04-30&g=2013-04-30), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -228,7 +226,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2013-01-01&g=2013-01-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2013-04-30&g=2013-04-30),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -250,7 +248,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2013-01-01&g=2013-01-01), en [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2013-01-01&g=2013-01-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2013-04-30&g=2013-04-30), en [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2013-04-30&g=2013-04-30).
 
 3. Met uitzondering van de bevoegdheid bedoeld in het tweede lid is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
@@ -328,7 +326,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2013-01-01&g=2013-01-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2013-04-30&g=2013-04-30) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
