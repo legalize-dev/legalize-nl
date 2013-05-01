@@ -4,7 +4,7 @@ identifier: "BWBV0001506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2012-07-11"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001506"
 soort: "verdrag"
@@ -1463,6 +1463,8 @@ De Raad of een lidstaat kan de Commissie verzoeken een aanbeveling of een voorst
 2. Met betrekking tot de in lid 1 bedoelde maatregelen hebben alleen leden van de Raad die lidstaten vertegenwoordigen welke de euro als munt hebben, stemrecht.
 
 De gekwaliﬁceerde meerderheid van deze leden wordt bepaald overeenkomstig artikel 238, lid 3, onder a).
+
+3. De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn.
 
 ##### Artikel 137
 
@@ -3842,9 +3844,9 @@ Voor de toepassing van [artikel 7 van het Verdrag betreffende de Europese Unie](
 
 Naast de bepalingen van [artikel 52 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=52) over het territoriale toepassingsgebied van de Verdragen, gelden onderstaande bepalingen:
 
-- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=ZEVENDE&artikel=349&z=2012-07-11&g=2012-07-11).
+- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=ZEVENDE&artikel=349&z=2013-05-01&g=2013-05-01).
 
-- 2. De landen en gebieden overzee waarvan de lijst als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II&z=2012-07-11&g=2012-07-11) is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
+- 2. De landen en gebieden overzee waarvan de lijst als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II&z=2013-05-01&g=2013-05-01) is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
 
 - 3. De bepalingen van de Verdragen zijn van toepassing op de Europese grondgebieden welker buitenlandse betrekkingen door een lidstaat worden behartigd.
 
