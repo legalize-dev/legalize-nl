@@ -4,7 +4,7 @@ identifier: "BWBR0009362"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2026-04-01"
-last_updated: "2010-10-10"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009362"
 soort: "rijksKB"
@@ -52,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. de medaille: de vrijwilligersmedaille openbare orde en veiligheid en de daarbij behorende oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&bijlage=1&z=2010-10-10&g=2010-10-10);
+- a. de medaille: de vrijwilligersmedaille openbare orde en veiligheid en de daarbij behorende oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&bijlage=1&z=2010-10-10&g=2013-05-01);
 
-- b. het jaarteken: het jaarteken en de daarbij behorende oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&bijlage=2&z=2010-10-10&g=2010-10-10);
+- b. het jaarteken: het jaarteken en de daarbij behorende oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&bijlage=2&z=2010-10-10&g=2013-05-01);
 
-- c. de vrijwilliger: de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2010-10-10);
+- c. de vrijwilliger: de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2013-05-01);
 
 - d. het bevoegd gezag: het bevoegd gezag van de vrijwilliger.
 
@@ -86,9 +86,9 @@ Het bevoegd gezag kent een medaille toe aan degene die aaneensluitend of met een
 
 1. Het bevoegd gezag dient een aanvraag voor een medaille in bij de Kanselarij der Nederlandse Orden.
 
-2. Het bevoegd gezag vermeldt bij de aanvraag de naam van de vrijwilliger en legt een verklaring over waaruit blijkt dat het een vrijwilliger betreft als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2010-10-10).
+2. Het bevoegd gezag vermeldt bij de aanvraag de naam van de vrijwilliger en legt een verklaring over waaruit blijkt dat het een vrijwilliger betreft als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2013-05-01).
 
-3. De Kanselarij der Nederlandse Orden verstrekt het bevoegd gezag de medaille indien de vrijwilliger waarvoor de aanvraag is ingediend, een vrijwilliger is als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2010-10-10).
+3. De Kanselarij der Nederlandse Orden verstrekt het bevoegd gezag de medaille indien de vrijwilliger waarvoor de aanvraag is ingediend, een vrijwilliger is als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2013-05-01).
 
 4. De verstrekking van de medaille geschiedt kosteloos.
 
@@ -100,7 +100,7 @@ De medaille wordt door het bevoegd gezag uitgereikt aan de vrijwilliger.
 
 1. Het bevoegd gezag kent een jaarteken toe aan de vrijwilliger die aaneensluitend of met een onderbreking van ten hoogste twee maanden gedurende een periode van vijftien, twintig, vijfentwintig, dertig, vijfendertig respectievelijk veertig jaren taken heeft verricht als vrijwilliger op grond waarvan hem de medaille is toegekend.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=4&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing, met dien verstande dat het bevoegd gezag bij de aanvraag voor een jaarteken tevens de datum waarop de medaille is toegekend en het aantal dienstjaren van de vrijwilliger vermeldt.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=3&z=2010-10-10&g=2013-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=4&z=2010-10-10&g=2013-05-01) zijn van overeenkomstige toepassing, met dien verstande dat het bevoegd gezag bij de aanvraag voor een jaarteken tevens de datum waarop de medaille is toegekend en het aantal dienstjaren van de vrijwilliger vermeldt.
 
 ##### Artikel 6
 
@@ -124,7 +124,7 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 
 Dit besluit wordt aangehaald als: Besluit vrijwilligersmedaille openbare orde en veiligheid.
 
-## Bijlage 1. als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=1&z=2010-10-10&g=2010-10-10)
+## Bijlage 1. als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=1&z=2010-10-10&g=2013-05-01)
 
 ### Vrijwilligersmedaille openbare orde en veiligheid
 
@@ -152,13 +152,13 @@ voor de wijze waarop hij gedurende tien jaar werkzaamheden heeft verricht als
 
 ...............................................................................................................................................................................
 
-............................................................................................................................................................................. 3= de hoedanigheid van de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2010-10-10)
+............................................................................................................................................................................. 3= de hoedanigheid van de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2013-05-01)
 
 Gegeven te .........................................., op .............................................
 
 ............................................................... 1= het bevoegd gezag
 
-## Bijlage 2. als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=1&z=2010-10-10&g=2010-10-10)
+## Bijlage 2. als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=1&z=2010-10-10&g=2013-05-01)
 
 ### Jaarteken
 
@@ -186,7 +186,7 @@ werkzaamheden heeft verricht als
 
 ................................................................................................................................................................................
 
-.............................................................................................................................................................................. 4= de hoedanigheid van de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2010-10-10)
+.............................................................................................................................................................................. 4= de hoedanigheid van de vrijwilliger, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=2&z=2010-10-10&g=2013-05-01)
 
 Gegeven te ....................................., op ...................................................
 
