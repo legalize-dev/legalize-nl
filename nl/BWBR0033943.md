@@ -4,7 +4,7 @@ identifier: "BWBR0033943"
 country: "nl"
 rank: "pbo"
 publication_date: "2014-12-31"
-last_updated: "2013-01-01"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033943"
 soort: "pbo"
@@ -37,7 +37,7 @@ entry_into_force: "2013-09-22"
 
 #### § 1. Begripsbepalingen
 
-#### § 2. Heffing
+#### § 1. Begripsbepalingen
 
 #### § 3. Grondslag en hoogte
 
@@ -55,7 +55,7 @@ entry_into_force: "2013-09-22"
 
 - c. om niet in gebruik is ontvangen, of
 
-- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2013-01-01).
+- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2013-09-22&g=2013-05-01).
 
 4. De bestemmingsheffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per bloembolgewas, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor:
 
