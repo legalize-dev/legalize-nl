@@ -4,7 +4,7 @@ identifier: "BWBR0016722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2011-11-09"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016722"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1b
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Irak of voor gebruik in of ten behoeve van Irak, ongeacht het land van oorsprong.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Irak of voor gebruik in of ten behoeve van Irak, ongeacht het land van oorsprong.
 
 2. Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op de verkoop, levering, overdracht of uitvoer van wapentuig en aanverwant materiaal dat door de regering van Irak of de bij Resolutie 1151 (2003) van de Veiligheidsraad ingestelde multinationale troepenmacht is benodigd ter uitvoering van Resolutie 1546 (2004) van de Veiligheidsraad.
 
