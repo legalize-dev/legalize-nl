@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2013-02-07"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Besluit:
 
 ##### Artikel 4
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Iran of voor gebruik in of ten behoeve van Iran, ongeacht het land van oorsprong. Dit verbod geldt niet voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Iran.
+Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Iran of voor gebruik in of ten behoeve van Iran, ongeacht het land van oorsprong. Dit verbod geldt niet voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Iran.
 
 ##### Artikel 5
 
@@ -110,7 +110,7 @@ De [Sanctieregeling Iran 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028951) 
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2013-02-07&g=2013-02-07)
+## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2013-05-02&g=2013-05-02)
 
 ### Natuurwetenschappen
 
