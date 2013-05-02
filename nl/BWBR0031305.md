@@ -4,7 +4,7 @@ identifier: "BWBR0031305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-05"
-last_updated: "2012-11-01"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031305"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Syrië of voor gebruik in of ten behoeve van Syrië, ongeacht het land van oorsprong.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Syrië of voor gebruik in of ten behoeve van Syrië, ongeacht het land van oorsprong.
 
 2. Het eerste lid is niet van toepassing bij vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op:
 
