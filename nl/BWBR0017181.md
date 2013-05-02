@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2009-03-05"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
+1. Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
 
 2. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in bijlage II bij [Verordening (EG) nr. 314/2004](32004R0314) van:
 
