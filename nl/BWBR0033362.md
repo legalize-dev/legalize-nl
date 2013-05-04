@@ -4,7 +4,7 @@ identifier: "BWBR0033362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-05-04"
-last_updated: "2012-01-01"
+last_updated: "2013-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033362"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - f. **verantwoordelijke:** de Minister van Economische Zaken.
 
-2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de NVWA-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=5&z=2013-05-04&g=2012-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=7&z=2013-05-04&g=2012-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=8&z=2013-05-04&g=2012-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=9&z=2013-05-04&g=2012-01-01).
+2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de NVWA-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=5&z=2013-05-04&g=2013-05-04), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=7&z=2013-05-04&g=2013-05-04), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=8&z=2013-05-04&g=2013-05-04), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=9&z=2013-05-04&g=2013-05-04).
 
 ##### Artikel 2
 
@@ -90,7 +90,7 @@ Besluit:
 
 2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, onder a tot en met e, maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.
 
-3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=1&z=2013-05-04&g=2012-01-01), wordt binnen NVWA-IOD uitsluitend verricht door de criminele-inlichtingeneenheid NVWA-IOD.
+3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=1&z=2013-05-04&g=2013-05-04), wordt binnen NVWA-IOD uitsluitend verricht door de criminele-inlichtingeneenheid NVWA-IOD.
 
 ##### Artikel 4
 
@@ -98,7 +98,7 @@ De criminele-inlichtingeneenheid NVWA-IOD streeft naar een zo doelmatig mogelijk
 
 ##### Artikel 5
 
-1. De criminele-inlichtingeneenheid NVWA-IOD verstrekt criminele-inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&bijlage=I&z=2013-05-04&g=2012-01-01) bij deze regeling.
+1. De criminele-inlichtingeneenheid NVWA-IOD verstrekt criminele-inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&bijlage=I&z=2013-05-04&g=2013-05-04) bij deze regeling.
 
 2. Van de overeenkomstig [artikel 46, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) aangewezen ambtenaren van de criminele-inlichtingeneenheid NVWA-IOD worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), ten aanzien van het bestand met criminele-inlichtingen bij de overige criminele-inlichtingeneenheden.
 
@@ -112,17 +112,17 @@ De criminele-inlichtingeneenheid NVWA-IOD streeft naar een zo doelmatig mogelijk
 
 - b. personalia of bedrijfsgegevens van overeenkomstig [artikel 10, tweede lid, onderdelen a en b, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) geregistreerde personen;
 
-- c. codes als bedoeld in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=3&z=2013-05-04&g=2012-01-01);
+- c. codes als bedoeld in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=3&z=2013-05-04&g=2013-05-04);
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door de nationale criminele-inlichtingeneenheid.
 
-2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&bijlage=II&z=2013-05-04&g=2012-01-01) van deze regeling maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.
+2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&bijlage=II&z=2013-05-04&g=2013-05-04) van deze regeling maakt de criminele-inlichtingeneenheid NVWA-IOD gebruik van de door de Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen centrale verwijsindex.
 
 ##### Artikel 7
 
 1. De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele-inlichtingeneenheid NVWA-IOD, worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=3&z=2013-05-04&g=2012-01-01), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid NVWA-IOD.
+2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=3&z=2013-05-04&g=2013-05-04), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid NVWA-IOD.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
