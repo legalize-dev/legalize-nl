@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-05-04"
+last_updated: "2013-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -155,7 +155,8 @@ Besluit:
 |   | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Pilotproject bioraffinage |   |   |
 | 5.9 | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Voorbereidingsstudies vergassing |   |   |
 |   | Subsidieregeling energie en innovatie (vergassing) | 3.6.2 | Demonstratieprojecten vergassing |   |   |
-| 5.10 | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 |   |   |   |
+| 5.10 | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 | fundamenteel en industrieel wind op zee-project | t/m 6 juni 2013 17.00 uur | 5.050.000 |
+| 5.10a | Subsidieregeling energie en innovatie (Wind op Zee-projecten) | 3.7.2 | experimenteel en demonstratie wind op zee-project | 1 juli t/m 12 september 2013 17.00 uur | 5.300.000 |
 | 5.11 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.2 |   |   |   |
 | 5.12 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.8 |   |   |   |
 | 5.13 | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen |   |   |
