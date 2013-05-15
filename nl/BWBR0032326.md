@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2013-01-01"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -48,7 +48,7 @@ Besluit:
 
 - b. een **overtreding met directe boete** (**ODB**), oftewel een overtreding die in de bijlage als **ODB** is aangemerkt en waarvoor direct een bestuurlijke boete wordt gegeven; en
 
-- c. een **overige overtreding** (**OO**), oftewel een overtreding die in de bijlage als **OO** is aangemerkt en waarvoor eerst een waarschuwing wordt gegeven of een eis wordt gesteld en pas in tweede instantie, nadat is geconstateerd dat de betreffende tekortkoming niet is opgeheven, wordt overgegaan tot boeteoplegging.
+- c. een overige overtreding (OO), oftewel een overtreding die in de bijlage als OO is aangemerkt en waarvoor eerst een waarschuwing wordt gegeven of een eis wordt gesteld en pas, nadat dezelfde of soortgelijke overtreding opnieuw wordt geconstateerd, wordt overgegaan tot boeteoplegging.
 
 2. Hiernaast geldt in deze beleidsregel als overtreding met directe boete de overtreding die de directe aanleiding is geweest voor een arbeidsongeval als bedoeld in artikel 9, eerste lid, van de Arbeidsomstandighedenwet.
 
