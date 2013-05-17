@@ -115,15 +115,3 @@ Het [Besluit reorganisatie openbaar ministerie en instelling landelijk parket](h
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-1. De officier van justitie bij het parket centrale verwerking openbaar ministerie is belast met de vervolging van strafbare feiten waarvoor een strafbeschikking kan worden uitgevaardigd.
-
-2. Hij is voorts belast met het bij de rechter aanbrengen en behandelen van strafzaken ingeval:
-
-- a. tegen de in het eerste lid bedoelde strafbeschikking verzet is gedaan;
-
-- b. de in het eerste lid bedoelde strafbeschikking niet of niet volledig ten uitvoer gelegd is kunnen worden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
