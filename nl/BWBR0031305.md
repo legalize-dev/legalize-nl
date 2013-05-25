@@ -4,7 +4,7 @@ identifier: "BWBR0031305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-05"
-last_updated: "2013-05-02"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031305"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 2 bis, eerste lid, artikel 2 ter, eerste lid, artikel 2 quater, eerste lid, artikel 3, eerste en vierde lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, eerste lid, artikel 9, artikel 11, artikel 11 bis, artikel 11 ter, eerste lid, artikel 12, eerste lid, artikel 13, eerste en tweede lid, artikel 14, artikel 19, tweede lid, artikel 24, artikel 25, artikel 26, eerste en vierde lid, en artikel 29, eerste lid, van Verordening (EU) nr. 36/2012 van de Raad van de Europese Unie van 18 januari 2012 (Pb L16).
+1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 2 bis, eerste lid, artikel 2 ter, eerste lid, artikel 2 quater, eerste lid, artikel 3, eerste en vierde lid, artikel 3 bis, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 8, eerste lid, artikel 9, artikel 11, artikel 11 bis, artikel 11 ter, eerste lid, artikel 12, eerste lid, artikel 13, eerste en tweede lid, artikel 14, artikel 19, tweede lid, artikel 24, artikel 25, artikel 26, eerste en vierde lid, artikel 26 bis, eerste lid aanhef en derde lid en artikel 29, eerste lid, van Verordening (EU) nr. 36/2012 van de Raad van de Europese Unie van 18 januari 2012 (Pb L16).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede of derde lid, artikel 2 bis, tweede lid, artikel 3, tweede of derde lid, artikel 7, artikel 10, artikel 11 ter, tweede lid, artikel 12, tweede lid, artikel 13, vierde lid, artikel 16 tot en met artikel 21, artikel 21 bis of artikel 26, tweede of derde lid, van Verordening (EU) nr. 36/2012 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede of derde lid, artikel 2 bis, tweede lid, artikel 3, tweede of derde lid, artikel 7, artikel 10, artikel 11 ter, tweede lid, artikel 12, tweede lid, artikel 13, vierde lid, artikel 16 tot en met artikel 21, artikel 21 bis, artikel 21 ter of artikel 26, tweede of derde lid, artikel 26 bis, eerste lid onder a en b of tweede lid van Verordening (EU) nr. 36/2012 van toepassing is.
 
 ##### Artikel 2
 
@@ -72,9 +72,9 @@ Besluit:
 
 - a. leveringen en technische ondersteuning die uitsluitend bedoeld zijn voor de ondersteuning van of het gebruik door de Troepenmacht van de Verenigde Naties voor het toezicht op het troepenscheidingsakkoord (UNDOF);
 
-- b. de verkoop, levering, overdracht of uitvoer van niet-dodelijke militaire uitrusting die uitsluitend bestemd is voor humanitaire of beschermende doeleinden, voor programma’s voor institutionele opbouw of voor crisisbeheersingsoperaties van de Verenigde Naties en de Europese Unie;
+- b. de verkoop, levering, overdracht of uitvoer van niet-dodelijke militaire uitrusting alsmede uitrusting die kan worden gebruikt voor binnenlandse repressie en die uitsluitend bestemd is voor humanitaire of beschermende doeleinden, voor bescherming van burgers of voor programma’s voor institutionele opbouw of crisisbeheersingsoperaties van de Verenigde Naties, de Europese Unie of voor de Syrische Nationale Coalitie van de Revolutionairen en Oppositiekrachten bestemd voor de bescherming van burgers;
 
-- c. de verkoop, levering, overdracht of uitvoer van andere voertuigen dan gevechtsvoertuigen die gemaakt zijn van, of uitgerust zijn met, materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Syrië.
+- c. de verkoop, levering, overdracht of uitvoer van andere voertuigen dan gevechtsvoertuigen die gemaakt zijn van, of uitgerust zijn met, materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Syrië of voor de Syrische Nationale Coalitie van de Revolutionairen en Oppositiekrachten bestemd voor de bescherming van burgers.
 
 3. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer van beschermende kleding, met inbegrip van scherfwerende vesten en militaire helmen, die voor louter persoonlijk gebruik door personeel van de Verenigde Naties, de Europese Unie of haar lidstaten, vertegenwoordigers van de media of medewerkers van humanitaire en ontwikkelingsorganisaties en aanverwant personeel tijdelijk naar Syrië worden uitgevoerd.
 
