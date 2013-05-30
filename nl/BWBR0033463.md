@@ -119,31 +119,3 @@ De syllabi voor de centrale examens h.a.v.o. 2014 die bij Regeling syllabi centr
 ### Nadere vaststelling syllabi v.m.b.o. 2014
 
 De syllabi voor de centrale examens v.m.b.o. 2014 die bij Regeling syllabi centrale examens VO 2014 zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
-
-## Bijlage 3a. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 3b. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 3c. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 1b. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 1c. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 3a. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
-
-## Bijlage 3b. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
-
-Vervallen
