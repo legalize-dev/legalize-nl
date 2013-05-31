@@ -4,7 +4,7 @@ identifier: "BWBV0006083"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-05-31"
-last_updated: "1997-04-11"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006083"
 soort: "verdrag"
@@ -300,13 +300,23 @@ Niettegenstaande de bepalingen van de artikelen 15 en 16 mogen voordelen of inko
 
 ##### Artikel 19. Pensioenen
 
-Onder voorbehoud van de bepalingen van artikel 20, eerste lid, zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een van de Staten ter zake van een vroegere dienstbetrekking slechts in die Staat belastbaar.
+Onder voorbehoud van de bepalingen van artikel 20, tweede lid, zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een van de Staten ter zake van een vroegere dienstbetrekking slechts in die Staat belastbaar.
 
 ##### Artikel 20. Overheidsfuncties
 
-1. Beloningen, daaronder begrepen pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijk persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of dat plaatselijke publiekrechtelijke lichaam daarvan in de uitoefening van overheidsfuncties, mogen in die Staat worden belast.
+- a). Salarissen, lonen en andere soortgelijke beloningen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten verleend aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
 
-2. De bepalingen van de artikelen 16, 17 en 19 zijn evenwel van toepassing op beloningen of pensioenen ter zake van diensten, bewezen in het kader van een op winst gericht bedrijf uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
+- b). Deze salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden verleend en de natuurlijke persoon een inwoner is van die Staat die:
+
+- (i). onderdaan is van die Staat; of
+
+- (ii). niet uitsluitend voor het verlenen van de diensten inwoner van die Staat werd.
+
+- a). Niettegenstaande de bepalingen van het eerste lid mogen pensioenen en andere soortgelijke beloningen betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten verleend aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, in die Staat worden belast.
+
+- b). Deze pensioenen en andere soortgelijke beloningen zijn echter slechts in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
+
+3. De bepalingen van de artikelen 16, 17 en 19 zijn van toepassing op salarissen, lonen, pensioenen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
 ##### Artikel 21. Professoren en leraren
 
@@ -342,7 +352,7 @@ Overeengekomen wordt dat dubbele belasting op de volgende wijze wordt vermeden:
 
 - 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Tsjechoslowakije mogen worden belast.
 
-- 2. Onder voorbehoud van de toepassing van de bepalingen betreffende de verliescompensatie in de eenzijdige voorschriften tot het vermijden van dubbele belasting, verleent Nederland een vermindering op het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag. Deze vermindering is gelijk aan dat gedeelte van het belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat, als het gedeelte van het inkomen of het vermogen dat in de in het eerste lid van dit artikel bedoelde grondslag is begrepen en dat volgens de artikelen 6, 7, 10, zevende lid, 11, derde lid, 12, vijfde lid, 14, eerste en tweede lid, 15, 16, eerste lid, 17, eerste lid, 20 en 24, eerste en tweede lid, van deze Overeenkomst in Tsjechoslowakije mag worden belast, staat tot het bedrag van het gehele inkomen of vermogen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+- 2. Onder voorbehoud van de toepassing van de bepalingen betreffende de verliescompensatie in de eenzijdige voorschriften tot het vermijden van dubbele belasting, verleent Nederland een vermindering op het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag. Deze vermindering is gelijk aan dat gedeelte van het belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat, als het gedeelte van het inkomen of het vermogen dat in de in het eerste lid van dit artikel bedoelde grondslag is begrepen en dat volgens de artikelen 6, 7, 10, zevende lid, 11, derde lid, 12, vijfde lid, 14, eerste en tweede lid, 15, 16, eerste lid, 17, eerste lid, artikel 20, eerste lid, onderdeel a, en tweede lid, onderdeel a, en 24, eerste en tweede lid, van deze Overeenkomst in Tsjechoslowakije mag worden belast, staat tot het bedrag van het gehele inkomen of vermogen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 - 3. Nederland verleent voorts een vermindering op de overeenkomstig de voorgaande leden van dit artikel berekende belasting met betrekking tot de bestanddelen van het inkomen die volgens de artikelen 10, tweede lid, 12, tweede lid, 14, vijfde lid en 18, in Tsjechoslowakije mogen worden belast en die in de in het eerste lid van dit artikel bedoelde grondslag zijn begrepen. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
@@ -352,11 +362,9 @@ Overeengekomen wordt dat dubbele belasting op de volgende wijze wordt vermeden:
 
 - B. Wat betreft Tsjechoslowakije:
 
-- 1. Inkomen, met uitzondering van het in het tweede lid bedoelde inkomen, is vrijgesteld van de Tsjechoslowaakse belastingen, indien het inkomen overeenkomstig de bepalingen van deze Overeenkomst in Nederland mag worden belast.
+- 1. Met inachtneming van de bepalingen van het nationale recht tot het vermijden van dubbele belasting, mogen de bestanddelen van het inkomen of van het vermogen die volgens de bepalingen van deze Overeenkomst ook in Nederland mogen worden belast, bij het heffen van belastingen van inwoners, worden begrepen in de belastinggrondslag waarover deze belastingen worden geheven, maar het is toegestaan van de op grond daarvan berekende belasting een bedrag af te trekken dat gelijk is aan de belasting betaald in Nederland. Deze aftrek is echter niet hoger dan het deel van de nationale belasting, zoals is berekend voordat de aftrek is verleend, dat is toe te rekenen aan de inkomsten die of het vermogen dat in overeenstemming met de bepalingen van deze Overeenkomst in Nederland mogen of mag worden belast.
 
-- 2. Met betrekking tot inkomen, bedoeld in de artikelen 10, 12, 14, 17 en 18, waarover overeenkomstig de bepalingen van deze artikelen Nederlandse belasting is geheven, verleent Tsjechoslowakije aan een inwoner van Tsjechoslowakije die zodanig inkomen uit Nederland ontvangt, een verrekening van belasting, overeenkomende met het bedrag van de in Nederland geheven belasting; deze belasting wordt verrekend met de Tsjechoslowaakse belastingen, in de grondslagen waarvan dit inkomen is begrepen, tot een bedrag, dat de in Nederland over dit inkomen geheven belasting niet overschrijdt.
-
-- 3. Niettegenstaande de bepalingen van het eerste en tweede lid mag de Tsjechoslowaakse belasting over inkomen, dat krachtens deze Overeenkomst in Tsjechoslowakije belastbaar is, worden berekend naar het tarief dat behoort bij het totale inkomen dat volgens de Tsjechoslowaakse wetgeving belastbaar is.
+- 2. Indien in overeenstemming met een bepaling van de Overeenkomst inkomsten verworven door of vermogen in het bezit van een inwoner hier is vrijgesteld van belasting, kan het vrijgestelde inkomen of vermogen niettemin in aanmerking worden genomen bij het berekenen van het bedrag aan belasting over het resterende inkomen of vermogen van die inwoner.
 
 ### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
 
@@ -386,17 +394,23 @@ Overeengekomen wordt dat dubbele belasting op de volgende wijze wordt vermeden:
 
 4. De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
 
-##### Artikel 28. Uitwisseling van inlichtingen
+##### Artikel 28. Uitwisseling van informatie
 
-1. De bevoegde autoriteiten van de Staten wisselen zodanige inlichtingen uit (zijnde inlichtingen die deze autoriteiten geordend voorhanden hebben) als nodig zijn om uitvoering te geven aan deze Overeenkomst, in het bijzonder om fraude te voorkomen en om uitvoering te geven aan wettelijke voorzieningen tegen wetsontduiking met betrekking tot de belastingen waarop deze Overeenkomst van toepassing is. Elke aldus uitgewisselde inlichting wordt geheim gehouden en niet ter kennis gebracht van andere personen of autoriteiten dan die belast met de vaststelling of invordering van de belastingen die het onderwerp van deze Overeenkomst uitmaken.
+1. De bevoegde autoriteiten van de Staten wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van deze Overeenkomst of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van de Staten, of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, voor zover de heffing van die belastingen niet in strijd is met de Overeenkomst. De uitwisseling van informatie wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006083&hoofdstuk=I&artikel=1&z=2013-05-31&g=2013-05-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006083&hoofdstuk=I&artikel=2&z=2013-05-31&g=2013-05-31).
 
-2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
+2. Alle uit hoofde van het eerste lid door een Staat ontvangen informatie wordt op dezelfde wijze geheim gehouden als informatie die volgens de nationale wetgeving van die Staat is verkregen en wordt alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke en bestuursrechtelijke instanties) die betrokken zijn bij de vaststelling of invordering van, de handhaving of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen alleen voor deze doeleinden van de informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen.
 
-- a). maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
+3. In geen geval worden de bepalingen van de voorgaande leden zo uitgelegd dat zij een Staat de verplichting opleggen:
 
-- b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- a). bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of de bestuurlijke praktijk van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- b). informatie te verstrekken die niet verkrijgbaar is volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere Staat;
+
+- c). informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of een handelsproces zou onthullen, dan wel informatie waarvan de bekendmaking in strijd zou zijn met de openbare orde (ordre public).
+
+4. Indien informatie wordt verzocht door een Staat in overeenstemming met dit artikel, wendt de andere Staat zijn maatregelen inzake het verzamelen van informatie aan om de verzochte informatie te verkrijgen, ongeacht het feit dat de andere Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke informatie behoeft te beschikken. Op de in de vorige volzin vervatte verplichting zijn de beperkingen van het derde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een Staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke informatie te weigeren informatie te verstrekken.
+
+5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een Staat toegestaan is het verstrekken van informatie te weigeren uitsluitend op grond van het feit dat de informatie berust bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking heeft op eigendomsbelangen in een persoon.
 
 ##### Artikel 29. Diplomatieke en consulaire ambtenaren
 
@@ -438,7 +452,7 @@ Het is wel te verstaan dat, wat de Nederlandse inkomstenbelasting of vennootscha
 
 ##### IV. Ad Artikel 28
 
-De verplichting tot het uitwisselen van inlichtingen strekt zich niet uit tot inlichtingen die verkregen zijn van banken of van daarmede gelijkgestelde instellingen. De uitdrukking „daarmede gelijkgestelde instellingen” betekent onder andere verzekeringsmaatschappijen.
+Vervallen
 
 DONE at Prague, on 4 March 1974, in two originals, each in the Netherlands, Czech and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Czech texts, the English text shall prevail.
 
