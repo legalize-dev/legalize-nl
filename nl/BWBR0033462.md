@@ -73,11 +73,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling Birma 2013.
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Het is verboden om militaire opleidingen te verstrekken aan, dan wel militair samen te werken met, het leger van Birma (Tatmadaw) of de grenswachtpolitie.
-
-2. Het verbod, bedoeld in het eerste lid, geldt niet voor een opleiding of een samenwerking met als doel het versterken van democratische beginselen, het versterken van de rechtstaat of de eerbiediging van het internationale recht, waaronder de internationale mensenrechten in Birma.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
