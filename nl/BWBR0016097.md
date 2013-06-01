@@ -4,7 +4,7 @@ identifier: "BWBR0016097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-08"
-last_updated: "2013-02-01"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016097"
 soort: "ministeriele-regeling"
@@ -135,57 +135,49 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - 5°. aanvragen tot het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 140.
 
-- 6°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba:
+- 6°. aanvragen voor Toegang en Verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba:
 
-- −. met het oog op gezinshereniging of gezinsvorming: € 225,
+- –. voor verblijf als familie- of gezinslid: € 225,
 
-- −. met het oog op gezinshereniging of gezinsvorming als gezinslid: € 225,
+- –. voor arbeid als zelfstandige: € 1.250,
 
-- −. met het oog op verblijf als adoptie- of pleegkind: € 225,
+- –. als kennismigrant: € 850,
 
-- −. met het oog op het verrichten van arbeid in loondienst: € 600,
+- –. als houder van de Europese blauwe kaart: € 850,
 
-- −. met het oog op verblijf als kennismigrant: € 750,
+- –. voor seizoenarbeid: € 750,
 
-- −. met het oog op verblijf als houder van de Europese blauwe kaart: € 750,
+- –. voor arbeid in loondienst: € 850,
 
-- −. met het oog op het verrichten van arbeid als zelfstandige: € 950,
+- –. voor grensoverschrijdende dienstverlening: € 850,
 
-- −. met het oog op verblijf als geestelijk voorganger, godsdienstleraar, of met het oog op verblijf op religieuze of levensbeschouwelijke gronden: € 950,
+- –. voor wetenschappelijk onderzoek (Richtlijn 2005/71/EG): € 300,
 
-- −. met het oog op verblijf als stagiair, practicant, gastdocent, onderzoeker of onbezoldigd wetenschappelijk onderzoeker: € 600,
+- –. voor lerend werken: € 750,
 
-- −. met het oog op het doorbrengen van verlof in Nederland door werknemers op een mijnbouwinstallatie op het continentaal plat: € 60,
+- –. voor studie: € 300,
 
-- −. met het oog op het doorbrengen van verlof in Nederland door werknemers op een zeeschip: € 600,
+- –. voor het zoeken naar en verrichten van arbeid al dan niet in loondienst: € 600,
 
-- −. met het oog op verblijf in het kader van een zoekjaar voor hoogopgeleiden: € 600,
+- –. voor uitwisseling (al dan niet in het kader van een verdrag): € 600,
 
-- –. met het oog op verblijf als wetenschappelijk onderzoeker op grond van richtlijn 2005/71/EG: € 300,
+- –. voor medische behandeling: € 950,
 
-- –. met het oog op het volgen van een studie: € 300,
+- –. voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada en Nieuw Zeeland) en Young Workers Exchange Programme (Canada): € 42,
 
-- −. In het kader van een uitwisseling: € 600 en in geval de verkorte procedure van toepassing is: € 350,
+- –. voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8): € 950,
 
-- −. met het oog op verblijf als au pair: € 600 en in geval de verkorte procedure van toepassing is: € 350,
+- –. voor voortgezet verblijf om humanitaire redenen in verband met achterlating: € 350,
 
-- −. met het oog op wedertoelating met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van artikel 8 van de Remigratiewet: € 950,
+- –. voor alle overige verblijfsdoelen: € 950,
 
-- −. met het oog op verblijf op medische gronden: € 950,
+- –. ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft, met het oog op het verrichten van de daarbedoelde werkzaamheden: € 60,
 
-- −. met het oog op voortgezet verblijf: € 950,
+- –. ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 60,
 
-- −. ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft, met het oog op het verrichten van de daarbedoelde werkzaamheden: € 60,
+- –. ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EG-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 60,
 
-- −. ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 60,
-
-- −. ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van het Associatierecht EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 60,
-
-- −. met het oog op gezinshereniging of gezinsvorming met een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 60,
-
-- −. met het oog op bijzondere individuele omstandigheden: € 950,
-
-- −. in overige gevallen: € 600.
+- –. voor verblijf als familie- of gezinslid in de zin van de Associatieovereenkomst EG-Turkije van een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 60.
 
 - 7°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf voor verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba:
 
@@ -215,9 +207,9 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ##### Artikel 3
 
-1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2013-02-01&g=2013-02-01), is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
+1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2013-06-01&g=2013-06-01), is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
 
-2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
+2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
 ##### Artikel 4
 
@@ -231,7 +223,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° tot en met onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), is niet verschuldigd door:
+1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° tot en met onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), is niet verschuldigd door:
 
 - a. kinderen jonger dan zes jaar,
 
@@ -239,23 +231,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. wetenschappelijke onderzoekers die onderdaan zijn van derde landen en die zich met het oog op wetenschappelijk onderzoek verplaatsen.
 
-2. Tot 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), € 35 voor aanvragen ten behoeve van onderdanen uit Rusland, Oekraïne, Albanië, Macedonië, Montenegro, Servië, Bosnië-Herzegovina en Moldavië.
+2. Tot 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), € 35 voor aanvragen ten behoeve van onderdanen uit Rusland, Oekraïne, Albanië, Macedonië, Montenegro, Servië, Bosnië-Herzegovina en Moldavië.
 
-3. Na 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), € 35 voor aanvragen ten behoeve van onderdanen uit de landen, bedoeld in het eerste lid, indien die landen met de Europese Gemeenschap een visumfaciliteringsovereenkomst hebben gesloten als bedoeld in artikel 2 van de Beschikking (EG) nr. (2006/440/EC) van de Raad van 1 juni 2006 visumaanvragen (PbEG 2006 L 175).
+3. Na 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), € 35 voor aanvragen ten behoeve van onderdanen uit de landen, bedoeld in het eerste lid, indien die landen met de Europese Gemeenschap een visumfaciliteringsovereenkomst hebben gesloten als bedoeld in artikel 2 van de Beschikking (EG) nr. (2006/440/EC) van de Raad van 1 juni 2006 visumaanvragen (PbEG 2006 L 175).
 
-4. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01):
+4. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01):
 
 - a. is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1), en
 
-- b. bedraagt € 40 voor Turkse onderdanen, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01).
+- b. bedraagt € 40 voor Turkse onderdanen, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01).
 
-5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
+5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
 
 - a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
-- b. met het oog op uitwisseling binnen het kader van het ‘Working Holiday Scheme’ of het ‘Working Holiday Programme’ ten behoeve van een vreemdeling die de nationaliteit van Australië, Canada respectievelijk van Nieuw-Zeeland bezit;
+- b. vervallen;
 
-- c. met het oog op het verrichten van arbeid binnen het kader van het ‘Young Workers Exchange Programme’ ten behoeve van een vreemdeling die de Canadese nationaliteit bezit, of;
+- c. vervallen;
 
 - d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend dan wel met het oog daarop een verzoek om advies is ingediend en de belanghebbende voldoet aan alle voorwaarden voor gezinshereniging in het kader van [artikel 29, eerste lid, onder e en f, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), dan wel de belanghebbende niet dezelfde nationaliteit bezit als de hoofdpersoon en louter om deze reden niet in aanmerking komt voor een verblijfsvergunning asiel op grond van artikel 29, eerste lid, onder e en f, van de Vreemdelingenwet 2000;
 
@@ -263,9 +255,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8).
 
-6. De vergoeding, genoemd in [artikel 1, aanhef, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
+6. De vergoeding, genoemd in [artikel 1, aanhef, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
 
-7. De vergoeding, genoemd in [artikel 1, onderdeel s, onder7°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), is niet verschuldigd door:
+7. De vergoeding, genoemd in [artikel 1, onderdeel s, onder7°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), is niet verschuldigd door:
 
 - a. de vreemdeling die in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder k, van het Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2);
 
@@ -281,13 +273,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. de vreemdeling met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel.
 
-Het zesde lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 7°’.
+Het zesde lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 7°’.
 
 8. In aanvulling op het zesde lid kan de Minister voor Immigratie en Asiel in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
 
 ##### Artikel 3b
 
-Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-02-01&g=2013-02-01), niet verschuldigd indien de belanghebbende:
+Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2013-06-01&g=2013-06-01), niet verschuldigd indien de belanghebbende:
 
 - a. een, ter beoordeling van de Minister voor Vreemdelingenzaken en Integratie, gerechtvaardigd beroep op artikel 8 van het Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden (Trb. 1951, 154) doet;
 
