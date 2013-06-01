@@ -4,7 +4,7 @@ identifier: "BWBV0004999"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-06-01"
-last_updated: "2010-12-02"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004999"
 soort: "verdrag"
@@ -78,7 +78,7 @@ Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis
 
 - a. onder „Verdrag” wordt verstaan het onderhavige Verdrag en elke wijziging hiervan, tenzij anders bepaald;
 
-- b. onder „betreffende luchtruim” wordt verstaan het luchtruim boven het grondgebied van de Verdragsluitende Staten en dat onder hun verantwoordelijkheid, in overeenstemming met de regels van de Internationale Burgerluchtvaartorganisatie (ICAO), zoals bepaald in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=I&artikel=3&z=2010-12-02&g=2010-12-02) van dit Verdrag;
+- b. onder „betreffende luchtruim” wordt verstaan het luchtruim boven het grondgebied van de Verdragsluitende Staten en dat onder hun verantwoordelijkheid, in overeenstemming met de regels van de Internationale Burgerluchtvaartorganisatie (ICAO), zoals bepaald in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=I&artikel=3&z=2013-06-01&g=2013-06-01) van dit Verdrag;
 
 - c. onder „Het Verdrag van Chicago” wordt verstaan de **Convention on International Civil Aviation**, die op 7 december 1944 in Chicago werd ondertekend, alsook:
 
@@ -338,7 +338,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 7. De Verdragsluitende Staten zorgen ervoor dat de in overeenstemming met dit artikel genomen beslissingen ten uitvoer worden gebracht.
 
-8. In laatste instantie behoudt elke Verdragsluitende Staat het recht om de toestemming die in overeenstemming met [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=16&z=2010-12-02&g=2010-12-02), is gegeven op te schorten of te herroepen, nadat de betreffende Verdragsluitende Staat en de FABEC-Raad daarvan op de hoogte zijn gebracht.
+8. In laatste instantie behoudt elke Verdragsluitende Staat het recht om de toestemming die in overeenstemming met [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=16&z=2013-06-01&g=2013-06-01), is gegeven op te schorten of te herroepen, nadat de betreffende Verdragsluitende Staat en de FABEC-Raad daarvan op de hoogte zijn gebracht.
 
 ### HOOFDSTUK VIII. PRESTATIES
 
@@ -454,19 +454,19 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ##### Artikel 25. Het Luchtruimcomité
 
-Het Luchtruimcomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=8&z=2010-12-02&g=2010-12-02) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=9&z=2010-12-02&g=2010-12-02) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
+Het Luchtruimcomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=8&z=2013-06-01&g=2013-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=9&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
 ##### Artikel 26. Het Harmonisatie- en Adviescomité
 
-Het Harmonisatie- en Adviescomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=III&artikel=10&z=2010-12-02&g=2010-12-02) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=12&z=2010-12-02&g=2010-12-02) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
+Het Harmonisatie- en Adviescomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=III&artikel=10&z=2013-06-01&g=2013-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=12&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
 ##### Artikel 27. Het Financieel en Prestatiecomité
 
-Het Financieel en Prestatiecomité staat de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VI&artikel=18&z=2010-12-02&g=2010-12-02) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2010-12-02&g=2010-12-02) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
+Het Financieel en Prestatiecomité staat de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VI&artikel=18&z=2013-06-01&g=2013-06-01) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
 ##### Artikel 28. Comité van de Nationale Toezichthoudende Instanties
 
-Onverminderd [artikel 24, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IX&artikel=24&z=2010-12-02&g=2010-12-02), en de specifieke verantwoordelijkheden die rechtstreeks aan de nationale toezichthoudende instanties zijn verleend, staat het Comité van de Nationale Toezichthoudende Instanties de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VII&artikel=19&z=2010-12-02&g=2010-12-02) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2010-12-02&g=2010-12-02) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
+Onverminderd [artikel 24, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IX&artikel=24&z=2013-06-01&g=2013-06-01), en de specifieke verantwoordelijkheden die rechtstreeks aan de nationale toezichthoudende instanties zijn verleend, staat het Comité van de Nationale Toezichthoudende Instanties de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VII&artikel=19&z=2013-06-01&g=2013-06-01) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
 ### HOOFDSTUK X. RAADPLEGING VAN VERLENERS VAN LUCHTVAARTNAVIGATIEDIENSTEN
 
@@ -492,7 +492,7 @@ Onverminderd [artikel 24, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004999
 
 - a. zich heeft voorgedaan in het luchtruim boven zijn grondgebied of dat onder zijn verantwoordelijkheid in overeenstemming met de regels van ICAO; en
 
-- b. is veroorzaakt door de fout van een verlener van luchtverkeersdiensten die is aangewezen in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=12&z=2010-12-02&g=2010-12-02) of die van zijn medewerkers of van elke andere persoon die in zijn naam optreedt, en die niet de verlener is waarvan de hoofdvestiging zich bevindt op het grondgebied van de betrokken Verdragsluitende Staat.
+- b. is veroorzaakt door de fout van een verlener van luchtverkeersdiensten die is aangewezen in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=12&z=2013-06-01&g=2013-06-01) of die van zijn medewerkers of van elke andere persoon die in zijn naam optreedt, en die niet de verlener is waarvan de hoofdvestiging zich bevindt op het grondgebied van de betrokken Verdragsluitende Staat.
 
 De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve verlener van luchtverkeersdiensten genoemd.
 
@@ -506,7 +506,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 6. De effectieve verlener van luchtverkeersdiensten vergoedt aan de betrokken Verdragsluitende Staat alle overeenkomstig lid 1 betaalde vergoedingen door of opgelopen kosten van deze Verdragsluitende Staat. De Verdragsluitende Staat van de effectieve verlener van luchtverkeersdiensten zorgt ervoor dat deze verplichting wordt nagekomen en neemt, indien de effectieve verlener van luchtverkeersdiensten in gebreke blijft, bij het eerste verzoek diens plaats in om de betrokken Verdragsluitende Staat te vergoeden.
 
-7. Elk geschil betreffende de terugbetaling zoals bepaald in lid 6, tussen de Verdragsluitende Staat van de effectieve verlener van luchtverkeersdiensten en de Verdragsluitende Staat waarnaar wordt verwezen in lid 1 kan door elk van de twee Verdragsluitende Staten worden verwezen naar arbitrage krachtens het „Facultatieve Reglement voor Arbitrage van Geschillen tussen twee Staten van het Permanente Hof van Arbitrage”. De relevante nationale materiële wetten en voorschriften waarnaar in lid 5 wordt verwezen zijn in het geschil van toepassing. De [leden 3 en 4 van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2010-12-02&g=2010-12-02) zijn van toepassing.
+7. Elk geschil betreffende de terugbetaling zoals bepaald in lid 6, tussen de Verdragsluitende Staat van de effectieve verlener van luchtverkeersdiensten en de Verdragsluitende Staat waarnaar wordt verwezen in lid 1 kan door elk van de twee Verdragsluitende Staten worden verwezen naar arbitrage krachtens het „Facultatieve Reglement voor Arbitrage van Geschillen tussen twee Staten van het Permanente Hof van Arbitrage”. De relevante nationale materiële wetten en voorschriften waarnaar in lid 5 wordt verwezen zijn in het geschil van toepassing. De [leden 3 en 4 van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2013-06-01&g=2013-06-01) zijn van toepassing.
 
 8. Niets in dit Verdrag verhindert dat de Verdragsluitende Staat waarnaar in lid 1 wordt verwezen en de Verdragsluitende Staat van de effectieve verlener van luchtverkeersdiensten een overeenkomst bereiken om de kosten die voortvloeien uit de schade waarnaar in lid 1 wordt verwezen, te delen.
 
@@ -562,7 +562,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 4. De Verdragsluitende Staat die dit Verdrag opzegt, draagt in beginsel de kosten die met die opzegging gepaard gaan. De financiële gevolgen van die opzegging worden vastgelegd in een speciale overeenkomst tussen de opzeggende Verdragsluitende Staat en de andere Verdragsluitende Staten. Het recht van een Verdragsluitende Staat om op te zeggen blijft onaangetast.
 
-5. De opzegging ontheft de zich terugtrekkende Verdragsluitende Staat niet van de verplichting om te voldoen aan lid 4 en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2010-12-02&g=2010-12-02).
+5. De opzegging ontheft de zich terugtrekkende Verdragsluitende Staat niet van de verplichting om te voldoen aan lid 4 en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2013-06-01&g=2013-06-01).
 
 ##### Artikel 35. Wijzigingen van dit Verdrag
 
@@ -588,7 +588,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 6. De Verdragsluitende Staat die de toepassing van dit Verdrag geheel of gedeeltelijk opschort, draagt in beginsel de kosten van die opschorting. De financiële gevolgen van de opschorting worden bepaald in een speciale overeenkomst tussen de Verdragsluitende Staat die de toepassing van dit Verdrag opschort en de andere Verdragsluitende Staten.
 
-7. De beëindiging en de opschorting ontheffen de betreffende Verdragsluitende Staat/Staten niet van de verplichting om te voldoen aan [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2010-12-02&g=2010-12-02).
+7. De beëindiging en de opschorting ontheffen de betreffende Verdragsluitende Staat/Staten niet van de verplichting om te voldoen aan [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2013-06-01&g=2013-06-01).
 
 ##### Artikel 37. Registratie bij de Internationale Burgerluchtvaartorganisatie
 
