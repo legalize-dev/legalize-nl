@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2013-01-01"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -66,9 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. verordening (EU) 543/2011: uitvoeringsverordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PbEU 2011, L 157);
 
-- –. verordening (EG) 509/2006: verordening (EG) nr. 509/2006 van de Raad van 20 maart 2006 inzake gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen (PbEU L 93);
-
-- –. verordening (EG) 510/2006: verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93);
+- –. verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
 - –. verordening (EG) 1234/2007: verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU L 299);
 
@@ -84,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. krenten en rozijnen: krenten en rozijnen als bedoeld in de bijlage, onder 1, van verordening (EG) 1666/99;
 
-- –. geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten: geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten als bedoeld in artikel 2, eerste lid, van verordening (EG) 510/2006 en in artikel 2, eerste lid, van verordening (EG) 509/2006;
+- –. kwaliteitsaanduidingen: geografische aanduidingen, geografische oorsprongsbenamingen, gegarandeerde traditionele specialiteiten als bedoeld in artikel 18 van verordening (EU) 1151/2012 en facultatieve kwaliteitsaanduidingen als bedoeld in titel IV van verordening (EU) 1151/2012;
 
 - –. derde landen: gebied dat geen deel uitmaakt van het grondgebied van de Europese Unie of een gebied waarop de Overeenkomst betreffende de Europese Economische Ruimte niet van toepassing is;
 
@@ -116,7 +114,7 @@ Vervallen
 
 ##### Artikel 6
 
-De bescherming van oorsprongsbenamingen en geografische aanduidingen, alsmede de bescherming als gegarandeerde traditionele specialiteit van landbouwproducten en levensmiddelen geschiedt overeenkomstig de bepalingen van verordening (EG) 509/2006 en verordening (EG) 510/2006 en bij of krachtens dit besluit gestelde regels.
+De bescherming van kwaliteitsaanduidingen geschiedt overeenkomstig het bij of krachtens verordening (EU) 1151/2012 bepaalde en de bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 7
 
@@ -132,7 +130,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2013-01-01&g=2013-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2013-01-01&g=2013-01-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2013-01-01&g=2013-01-01) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2013-06-01&g=2013-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2013-06-01&g=2013-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2013-06-01&g=2013-06-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2013-06-01&g=2013-06-01) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -144,7 +142,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2013-01-01&g=2013-01-01).
+- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2013-06-01&g=2013-06-01).
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde EU-verordeningen en EU-richtlijn zich daartegen niet verzet.
 
@@ -182,7 +180,7 @@ Vervallen
 
 - d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de onder b en c bedoelde verordeningen.
 
-2. De Stichting KCB is de bevoegde autoriteit, bedoeld in artikel 14, eerste lid, en artikel 15, eerste lid, van verordening (EG) 509/2006 en artikel 10, eerste lid, en artikel 11, eerste lid, van verordening (EG) 510/2006 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
+2. De Stichting KCB is de bevoegde autoriteit, bedoeld in de artikelen 36 en 37 van verordening (EU) 1151/2012 alsmede voor de controles, bedoeld in artikel 38, van verordening (EU) 1151/2012 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
 
 ##### Artikel 15
 
@@ -200,11 +198,13 @@ Vervallen
 
 ##### Artikel 17
 
-1. Onze Minister is de bevoegde autoriteit, bedoeld in:
+1. Onze Minister is de bevoegde autoriteit, voor:
 
-- a. artikel 14, eerste lid, en artikel 15, eerste lid, van verordening (EG) nr. 509/2006 en artikel 10, eerste lid, en artikel 11, eerste lid, van verordening (EG) nr. 510/2006 ten aanzien van producten die naar hun aard niet onder de bevoegdheid van de Stichting KCB, bedoeld in artikel 14, tweede lid, vallen;
+- a. de artikelen 36 en 37 van verordening (EU) 1151/2012 alsmede voor de controle, bedoeld in artikel 38, van verordening (EU) 1151/2012 ten aanzien van producten die naar hun aard niet onder de bevoegdheid van de Stichting KCB, bedoeld in artikel 14, tweede lid, vallen;
 
-- b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007.
+- b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007;
+
+- c. artikel 34 van verordening (EU) 1151/2012.
 
 2. In afwijking van het eerste lid is de Stichting Skal de bevoegde autoriteit, bedoeld in artikel 17, eerste lid, onderdeel a, en artikel 28, eerste lid, onderdeel a, van verordening (EG) nr. 834/2007.
 
