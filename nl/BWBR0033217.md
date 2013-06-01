@@ -4,7 +4,7 @@ identifier: "BWBR0033217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-06-01"
-last_updated: "2013-04-02"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033217"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ Besluit:
 
 ##### Artikel 1. Mandaatverlening
 
-1. De Directeur-Generaal Rijkswaterstaat verleent mandaat voor de nautische rijkstaken en bevoegdheden genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-04-02) aan de directeur van het Centraal Nautisch Beheer Noordzeekanaalgebied, voor zover deze worden uitgeoefend in het Noordzeekanaalgebied zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=2&z=2013-06-01&g=2013-04-02) van dit besluit.
+1. De Directeur-Generaal Rijkswaterstaat verleent mandaat voor de nautische rijkstaken en bevoegdheden genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-06-01) aan de directeur van het Centraal Nautisch Beheer Noordzeekanaalgebied, voor zover deze worden uitgeoefend in het Noordzeekanaalgebied zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=2&z=2013-06-01&g=2013-06-01) van dit besluit.
 
 2. De mandatering laat onverlet dat de Directeur-Generaal Rijkswaterstaat bevoegd blijft zelf te beslissen in de hieronder genoemde nautische aangelegenheden.
 
-3. Aan de Directeur-Generaal Rijkswaterstaat blijft voorbehouden het vaststellen van beleidsregels met betrekking tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-04-02) genoemde bevoegdheden.
+3. Aan de Directeur-Generaal Rijkswaterstaat blijft voorbehouden het vaststellen van beleidsregels met betrekking tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-06-01) genoemde bevoegdheden.
 
 4. Onder ‘directeur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied’ wordt tevens verstaan diens plaatsvervanger, voor zover deze als (onbezoldigd) rijksambtenaar van Rijkswaterstaat is aangesteld.
 
@@ -120,7 +120,7 @@ Het namens het bevoegde gezag in spoedeisende gevallen opleggen van een last ond
 
 ##### Artikel 5. Aanwijzing toezichthouders
 
-Aan te wijzen als toezichthouders in het kader van de uitoefening van de bevoegdheden zoals vermeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-04-02), de nautische medewerkers die onder de verantwoordelijkheid van Havenmeester Amsterdam vallen, met uitzondering van hen die alleen administratieve werkzaamheden uitoefenen.
+Aan te wijzen als toezichthouders in het kader van de uitoefening van de bevoegdheden zoals vermeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-06-01), de nautische medewerkers die onder de verantwoordelijkheid van Havenmeester Amsterdam vallen, met uitzondering van hen die alleen administratieve werkzaamheden uitoefenen.
 
 ##### Artikel 6. Bekendmaking
 
