@@ -4,7 +4,7 @@ identifier: "BWBR0033191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-06-01"
-last_updated: "2013-04-10"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033191"
 soort: "ministeriele-regeling"
@@ -48,14 +48,14 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Het document, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.1), of de verklaring, bedoeld in [artikel 9, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), afgegeven voor inwerkingtreding van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) blijft geldig tot de daarop aangegeven datum, dan wel tot de vervanging van dat document door een document afgegeven op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking op het tijdstip waarop de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) in werking treedt, met uitzondering van [artikel I, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0033191&artikel=I&z=2013-06-01&g=2013-06-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
