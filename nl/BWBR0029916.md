@@ -4,7 +4,7 @@ identifier: "BWBR0029916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-17"
-last_updated: "2013-01-01"
+last_updated: "2013-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029916"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Het tijdstip, bedoeld in [artikel 2.4, tweede lid, van het besluit](https://wett
 
 3. Voor zover een hoeveelheid elektriciteit is geleverd ten behoeve van wegvoertuigen wordt die hoeveelheid geleverde elektriciteit voor het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), vermenigvuldigd met tweeënhalf.
 
-4. De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt langs elektronische weg verzonden en voldoet aan de vereisten van de bijlage bij deze regeling.
+4. De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt ingediend door middel van een door de Minister van Infrastructuur en Milieu vastgesteld en door het bestuur van de emissieautoriteit op elektronische wijze ter beschikking gesteld model.
 
 ##### Artikel 5
 
@@ -278,7 +278,9 @@ De hoeveelheid, bedoeld in [artikel 2.9a, van het besluit](https://wetten.overhe
 
 - b. CNG en LNG, bestemd voor wegvoertuigen: 50.000 Nm3.
 
-## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2013-06-05&g=2013-01-01), van de Regeling brandstoffen luchtverontreiniging
+## Bijlage. bij artikel 4, vierde lid, van de Regeling brandstoffen luchtverontreiniging
+
+Vervallen
 
 ### Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
 
