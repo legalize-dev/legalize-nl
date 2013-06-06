@@ -4,7 +4,7 @@ identifier: "BWBR0022309"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022309"
 soort: "ministeriele-regeling"
@@ -56,6 +56,8 @@ In deze regeling wordt verstaan onder:
 
 2. Het UWV vormt zich onverwijld een oordeel over het desbetreffende ziektegeval indien eerst na zes weken blijkt dat het ziekteverzuim van de vangnetter naar verwachting langdurig dreigt te zijn.
 
+3. In afwijking van het eerste en tweede lid vormt het UWV zich onverwijld een oordeel over het desbetreffende ziektegeval, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim en de aangifte, bedoeld in [artikel 38, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), of de melding, bedoeld in [artikel 38ab, eerste lid van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38ab), later wordt gedaan dan binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid.
+
 ##### Artikel 3. Houden van aantekening
 
 1. Het UWV houdt vanaf het moment waarop naar verwachting sprake is van dreigend langdurig ziekteverzuim aantekening als bedoeld in [artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25).
@@ -64,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Plan van aanpak
 
-1. Indien uit het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-01-01&g=2013-01-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het UWV, in overleg met die vangnetter, binnen twee weken na het oordeel een plan van aanpak op.
+1. Indien uit het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-06-06&g=2013-06-06), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het UWV, in overleg met die vangnetter, binnen twee weken na het oordeel een plan van aanpak op.
 
 2. Het plan van aanpak omvat in ieder geval:
 
@@ -80,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Periodieke herijking
 
-1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-01-01&g=2013-01-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-06-06&g=2013-06-06), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-06-06&g=2013-06-06), is van overeenkomstige toepassing.
 
 2. Het plan van aanpak wordt bijgesteld indien de periodieke herijking daartoe aanleiding geeft.
 
 ##### Artikel 6. Afwijken van termijnen
 
-Van de termijnen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2013-01-01&g=2013-01-01), kan door het UWV, na overleg met de vangnetter, gemotiveerd worden afgeweken.
+Van de termijnen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-06-06&g=2013-06-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-06-06&g=2013-06-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2013-06-06&g=2013-06-06), kan door het UWV, na overleg met de vangnetter, gemotiveerd worden afgeweken.
 
 ##### Artikel 7. Inhoud van het re-integratieverslag
 
@@ -100,11 +102,11 @@ Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en 
 
 - d. vermelding van de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;
 
-- e. het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-01-01&g=2013-01-01);
+- e. het oordeel van het UWV, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=2&z=2013-06-06&g=2013-06-06);
 
-- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-01-01&g=2013-01-01);
+- f. het plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2013-06-06&g=2013-06-06);
 
-- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2013-01-01&g=2013-01-01);
+- g. de resultaten van iedere periodieke herijking als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=5&z=2013-06-06&g=2013-06-06);
 
 - h. de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
 
@@ -130,7 +132,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. Afspraken over werkhervatting bij oude werkgever
 
-Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst als bedoeld in [artikel 7:690 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) in dienst was, indien:
+Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst met een uitzendbeding als bedoeld in [artikel 7:691, lid 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) in dienst was, indien:
 
 - a. de werkgever op grond van [artikel 5.2 van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.2) is aangesloten bij sector 52;
 
