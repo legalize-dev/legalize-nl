@@ -4,7 +4,7 @@ identifier: "BWBR0020032"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-06-06"
-last_updated: "2007-01-01"
+last_updated: "2013-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020032"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van 2007 in aanmerking genomen op de wijze, bedoeld in [artikel 42a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42a).
 
-2. Voor de toepassing van [artikel 15, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden niet reeds in aanmerking genomen kalenderjaren vanaf en met inbegrip van 2007 in aanmerking genomen op de wijze, bedoeld in [artikel 15, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15).
+2. Voor de toepassing van [artikel 15, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden niet reeds in aanmerking genomen kalenderjaren vanaf en met inbegrip van 2007 in aanmerking genomen op de wijze, bedoeld in [artikel 15, zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15).
 
 ##### Artikel 2. Inwerkingtreding
 
