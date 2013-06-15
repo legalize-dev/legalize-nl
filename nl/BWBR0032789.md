@@ -4,7 +4,7 @@ identifier: "BWBR0032789"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2012-03-23"
+last_updated: "2013-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032789"
 soort: "wet"
@@ -131,11 +131,5 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het wenselijk is een algemeen wettelijk kader te stellen met betrekking tot de verstrekking van subsidies door Onze Minister van Infrastructuur en Milieu en wijziging aan te brengen in het wettelijk kader met betrekking tot de verstrekking van subsidies door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister voor Immigratie en Asiel en Onze Minister van Veiligheid en Justitie;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a. (delegatiebevoegdheid)
-
-Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling over het verstrekken van subsidies voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3&z=2024-01-01&g=2024-01-01) genoemde activiteiten met inbegrip van het nemen van besluiten op grond van die regels delegeren aan bestuursorganen van provincie of gemeente.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
