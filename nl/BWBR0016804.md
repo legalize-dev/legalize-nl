@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2013-01-01"
+last_updated: "2013-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), [556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587) worden aangewezen:
 
-- a. ambtenaren van politie, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
+- a. ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
 - b. ambtenaren, werkzaam bij de gerechten en genoemd in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [artikel 145, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145);
 
 - c. ambtenaren werkzaam bij het openbaar ministerie;
 
-- d. ambtenaren, werkzaam bij de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst van het Ministerie van Financiën, welke opsporingsbevoegdheid bezitten;
+- d. ambtenaren, werkzaam bij de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst, welke opsporingsbevoegdheid bezitten;
 
-- e. ambtenaren, werkzaam bij de Nederlandse Voedsel en Waren Autoriteit (NVWA), welke opsporingsbevoegdheid bezitten;
+- e. ambtenaren, werkzaam bij de Nederlandse Voedsel- en Waren Autoriteit (NVWA), welke opsporingsbevoegdheid bezitten;
 
 - f. ambtenaren, werkzaam bij de Inspectie Sociale Zaken en Werkgelegenheid (Inspectie SZW), welke opsporingsbevoegdheid bezitten;
 
@@ -60,15 +60,17 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 - h. ambtenaren, werkzaam in een penitentiaire inrichting;
 
-- i. ambtenaren, werkzaam in een rijksinrichting voor justitiële kinderbescherming;
+- i. ambtenaren, werkzaam in een rijksinrichting, als bedoeld in [artikel 1, onderdeel d, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
 
-- j. ambtenaren, werkzaam in een rijksinrichting voor verpleging van ter beschikking gestelden;
+- j. functionarissen, werkzaam in een particuliere jeugdinrichting, als bedoeld in [artikel 1, onderdeel c, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
 
-- k. functionarissen, werkzaam in een particulier justitiële inrichting voor verpleging van ter beschikking gestelden;
+- k. functionarissen, werkzaam in een niet-justitiële inrichting voor verpleging van ter beschikking gestelden;
 
-- l. functionarissen, werkzaam in een niet-justitiële inrichting voor verpleging van ter beschikking gestelden;
+- l. functionarissen, werkzaam in een rijksinrichting voor verpleging van ter beschikking gestelden;
 
-- m. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties.
+- m. functionarissen werkzaam in een particuliere justitiële inrichting voor verpleging van ter beschikking gestelden;
+
+- n. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties.
 
 ##### Artikel 2
 
