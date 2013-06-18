@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2011-10-18"
+last_updated: "2013-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -173,5 +173,11 @@ EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’
 EN 16156:2010 ‘Sigaretten – Vaststellen van het ontstekend vermogen – Veiligheidseis’
 
 EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten’
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+EN 60065:2002/A12:2011 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen
+
+EN 60950-1:2006/A12:2011 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
