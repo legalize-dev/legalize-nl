@@ -4,7 +4,7 @@ identifier: "BWBR0033565"
 country: "nl"
 rank: "kb"
 publication_date: "2013-06-21"
-last_updated: "2013-06-01"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033565"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het Ministerie van Veiligheid en Justitie en van het Ministerie van
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033565&artikel=1&z=2013-06-21&g=2013-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033565&artikel=2&z=2013-06-21&g=2013-06-01) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Veiligheid en Justitie, Onze Minister van Buitenlandse Zaken en Onze Minister voor Wonen en Rijksdienst.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033565&artikel=1&z=2013-06-21&g=2013-06-21) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033565&artikel=2&z=2013-06-21&g=2013-06-21) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Veiligheid en Justitie, Onze Minister van Buitenlandse Zaken en Onze Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 4
 
