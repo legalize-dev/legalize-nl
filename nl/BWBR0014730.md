@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2013-05-02"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -60,19 +60,15 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
 
-- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door AMISOM overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties, of slechts bestemd is voor gebruik door landen en regionale organisaties die maatregelen treffen overeenkomstig het onder 6 gestelde van Resolutie 1851 (2008) en het onder 10 gestelde van Resolutie 1846 (2008) van de Veiligheidsraad van de Verenigde Naties;
+- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door AMISOM overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties, of uitsluitend bestemd is voor gebruik door landen en regionale organisaties die maatregelen treffen overeenkomstig het onder 6 gestelde van Resolutie 1851 (2008) en het onder 10 gestelde van Resolutie 1846 (2008) van de Veiligheidsraad van de Verenigde Naties;
 
-- b. materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
+- b. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de strategische partners van AMISOM, die uitsluitend optreden op grond van het African Union Strategic Concept van 5 januari 2012, alsmede in samenwerking en in samenspraak met AMISON;
 
-- c.
+- c. materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
 
-- –. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden;
+- d. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden, of materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie, de Europese Gemeenschap of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door vorenbedoeld Sanctie comité goedkeuring is verleend, of beschermende kledij, waaronder kogelwerende vesten en militaire helmen die door het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië wordt verzonden;
 
-- –. materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door het bij punt 11 van Resolutie 751 (1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité goedkeuring is verleend;
-
-- –. beschermende kledij, waaronder kogelwerende vesten en militaire helmen die het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië worden verzonden;
-
-- d. materieel dat uitsluitend bestemd is ter ondersteuning van of voor gebruik door het politieke kantoor van de Verenigde Naties voor Somalië en waaraan vooraf door het Sanctiecomité, bedoeld onder c, goedkeuring is verleend.
+- e. materieel, met uitzondering van goederen, genoemd in bijlage II van Besluit 2013/201/GBVB, dat uitsluitend bestemd is voor de ontwikkeling van de veiligheidstroepen van de Federale regering van Somalië, en om de veiligheid van de Somalische bevolking te garanderen, mits het Sanctiecomité hiervan vijf dagen voorafgaand aan de levering, verkoop of overdracht in kennis is gesteld overeenkomstig het onder 38 gestelde van Resolutie 2093 (2013).
 
 ##### Artikel 3
 
@@ -86,17 +82,17 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 bis onder a en b, van Verordening (EG) nr. 147/2003, is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 2 bis onder a, en de Minister van Economische Zaken voor zover het betreft technisch advies, bijstand of opleiding, bedoeld in voornoemd artikel 2 bis onder a. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis onder b, is de Minister van Economische Zaken. De bevoegde autoriteit, bedoeld in artikel 3 bis van Verordening (EG) nr. 147/2003 is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+1. De bevoegde autoriteit, bedoeld in artikel 2 bis van Verordening (EG) nr. 147/2003 is, wat betreft de onderdelen a, b, c en e, de Minister van Financiën voor zover het betreft financiering en financiële bijstand, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technisch advies, bijstand of opleiding. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis, onder d, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking. De bevoegde autoriteit, bedoeld in artikel 3 bis van Verordening (EG) nr. 147/2003 is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
 2. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van Verordening (EU) nr. 356/2010 is de Minister van Financiën.
 
 3. De bevoegde autoriteit, bedoeld in artikel 5, eerste en tweede lid, en artikel 6, aanhef, van Verordening (EU) nr. 356/2010 is, wat betreft de beschikbaarstelling van bepaalde tegoeden, bedoeld in voornoemde artikelen, de Minister van Financiën.
 
-4. De bevoegde autoriteit, bedoeld in artikel 5, eerste en tweede lid, en artikel 6, aanhef, van Verordening (EU) nr. 356/2010 is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de Minister van Economische Zaken.
+4. De bevoegde autoriteit, bedoeld in artikel 5, eerste en tweede lid, en artikel 6, aanhef, van Verordening (EU) nr. 356/2010 is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 5. De bevoegde autoriteiten, bedoeld in artikel 9, eerste lid, van Verordening (EG) nr. 356/2010 zijn, elk voor het gebied waartoe hun competentie zich op grond van dat lid uitstrekt:
 
-- -. de Minister van Economische Zaken;
+- -. de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - -. de Minister van Financiën.
 
