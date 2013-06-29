@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-03-09"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -44,23 +44,23 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder wet: [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
+In deze regeling wordt verstaan onder:
+
+- **besluit:** Besluit wegvervoer goederen;
+
+- **wet:** Wet wegvervoer goederen.
 
 ##### Artikel 2
 
-1. Als beroepsrichtlijn voor het wegvervoer wordt aangewezen: [richtlijn 96/26/EG](31996L0026) van de raad van 29 april 1996 inzake de toegang tot het beroep van ondernemer van goederen-, respectievelijk personenvervoer over de weg, nationaal en internationaal, en inzake de wederzijdse erkenning van diploma’s, certificaten en andere titels ter vergemakkelijking van de uitoefening van het recht van vrije vestiging van bedoelde vervoerondernemer (PbEG L 124).
+1. Als beroepsverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1071/2009 van het Europees parlement en de Raad van de Europese Unie van 21 oktober 2009 tot vaststelling van gemeenschappelijke voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU L 300).
 
-2. Als cabotageverordening voor het wegvervoer wordt aangewezen [verordening (EEG) nr. 3118/93](31993R3118) van de Raad van Europese Gemeenschappen van 25 oktober 1993 tot vaststelling van de voorwaarden waaronder vervoerders worden toegelaten tot het binnenlands goederenvervoer over de weg in een lidstaat waarin zij niet gevestigd zijn (PbEG L 279).
-
-3. Als marktverordening voor het wegvervoer wordt aangewezen [verordening (EEG) nr. 881/92](31992R0881) van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lidstaat of over het grondgebied van een of meer lidstaten (PbEG L 95).
-
-4. Als vrijstellingsrichtlijn voor het wegvervoer wordt aangewezen [richtlijn nr. 2006/94/EG](32006L0094) van het Europees parlement en de Raad van 12 december 2006 betreffende de vaststelling van gemeenschappelijke regels voor bepaalde soorten goederenvervoer (PbEU L 374).
+2. Als marktverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1072/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU L 300).
 
 ### Hoofdstuk 2. Toegang tot de markt
 
 ##### Artikel 3
 
-Als vervoer, bedoeld in [artikel 2.1, derde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.1), wordt aangewezen:
+Als vervoer, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033600&artikel=4) wordt aangewezen:
 
 - a. vervoer bij de verwijdering van huishoudelijke afvalstoffen die vrijkomen uit percelen waar zodanige stoffen geregeld in particuliere huishoudens ontstaan;
 
@@ -78,15 +78,13 @@ Als vervoer, bedoeld in [artikel 2.1, derde lid, onder a, van de wet](https://we
 
 ##### Artikel 4
 
-Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toegestaan voor vervoer door een in Nederland gevestigde ondernemer binnen Bulgarije en Roemenië, alsmede binnen Nederland door een in Bulgarije of Roemenië gevestigde ondernemer.
+Vervallen
 
 ### Hoofdstuk 3. Toegang tot het beroep
 
 ##### Artikel 5
 
-1. Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.
-
-2. Aan de eis van vakbekwaamheid wordt tevens voldaan door degene die een verklaring van vakbekwaamheid overlegt die op grond van artikel 3, vierde lid, van de beroepsrichtlijn voor het wegvervoer door een andere lidstaat, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland is afgegeven.
+Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I, deel I, van de beroepsverordening voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.
 
 ##### Artikel 6
 
@@ -108,9 +106,9 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2013-03-09&g=2013-03-09) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2013-06-29&g=2013-06-29) van de beroepsrichtlijn voor het wegvervoer.
 
-8. De NIWO kan de vervoerder een uitstel van ten hoogste een jaar verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
+8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
 9. Een vervoerder, wiens land van herkomst of oorsprong een andere lidstaat, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland is, voldoet aan de eis van financiële draagkracht, indien een verklaring overgelegd wordt die overeenkomstig artikel 9 van de beroepsrichtlijn voor het wegvervoer in die andere staat is afgegeven en die niet ouder is dan drie maanden.
 
@@ -244,9 +242,17 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2013-03-09&g=2013-03-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2013-03-09&g=2013-03-09) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2013-06-29&g=2013-06-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2013-06-29&g=2013-06-29) vormt een strafbaar feit.
 
-2. Als bepalingen, bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 72, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) en [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
+2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
+
+- a. [artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [72, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), en [107, eerste lid, en tweede lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107);
+
+- b. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.15);
+
+- c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
+
+- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
 3. Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
