@@ -4,7 +4,7 @@ identifier: "BWBR0005812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005812"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ Een plaats waar geen alcoholvrije dranken worden vervaardigd, kan uitsluitend al
 
 In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
 
-- a. plaatsen vanwaaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2013-01-01&g=2013-01-01);
+- a. plaatsen vanwaaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2013-07-01&g=2013-07-01);
 
 - b. plaatsen vanwaaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers.
 
@@ -182,15 +182,15 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - gemiddeld in een aangiftetijdvak wordt uitgeslagen;
 
-- gemiddeld in een aangiftetijdvak met een vervoersopdracht of een ander daartoe aangewezen bescheid wordt overgebracht naar een andere inrichting, een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lid-staat of een derde land;
+- gemiddeld in een aangiftetijdvak met een vervoersopdracht of een ander daartoe aangewezen bescheid wordt overgebracht naar een andere inrichting, een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat of een derde land;
 
 - gemiddeld in een aangiftetijdvak met toepassing van artikel 2, vijfde lid, van het besluit wordt overgebracht naar een andere inrichting;
 
-- gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een communautaire douaneregeling wordt overgebracht naar de inrichting.
+- gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een EU-douaneregeling wordt overgebracht naar de inrichting.
 
 3. Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in het in artikel 35, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 76, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) van het bedrag aan belasting dat aangevraagde belastingzegels vertegenwoordigen, is het belastingbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.
 
-4. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2013-01-01&g=2013-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.
+4. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2013-07-01&g=2013-07-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.
 
 5. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
 
@@ -284,7 +284,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
 
-- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2013-01-01&g=2013-01-01).
+- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2013-07-01&g=2013-07-01).
 
 - d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
 
@@ -440,7 +440,7 @@ Op de sluitzegels mogen op de daarvoor aangewezen plaats aanduidingen als bedoel
 
 1. De inspecteur kan op verzoek van degene die de belastingzegels heeft aangevraagd, toestaan dat op de belastingzegel in plaats van de naam een fabrieks- of handelsmerk of een door het Ministerie van Financiën vastgesteld nummer wordt vermeld.
 
-2. De belastingzegels worden afgeleverd zonder vermelding van de in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=27&z=2013-01-01&g=2013-01-01), bedoelde naam of van het in het eerste lid bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen wordt door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze aangebracht op de in artikel 27, vierde lid, genoemde plaats van de belastingzegel.
+2. De belastingzegels worden afgeleverd zonder vermelding van de in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=27&z=2013-07-01&g=2013-07-01), bedoelde naam of van het in het eerste lid bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen wordt door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze aangebracht op de in artikel 27, vierde lid, genoemde plaats van de belastingzegel.
 
 3. Door degene die de accijnszegels heeft aangevraagd mag een code worden aangebracht, bestaande uit letters dan wel uit een nummer voorafgegaan door een letter. Deze code dient te worden vermeld rechts van het zegelbeeld.
 
@@ -468,7 +468,7 @@ Vervallen
 
 1. De verpakking van pruimtabak of snuiftabak omgeeft de inhoud geheel en kan zonder beschadiging niet anders worden geopend dan op één duidelijk herkenbare plaats.
 
-2. Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2013-01-01&g=2013-01-01).
+2. Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2013-07-01&g=2013-07-01).
 
 3. De verpakking bevat uitsluitend pruimtabak of snuiftabak en is zodanig van aard en vorm dat daarmee geen later gebruik voor andere doeleinden wordt beoogd.
 
@@ -478,7 +478,7 @@ De verpakking van pruimtabak of snuiftabak waarop belastingzegels worden aangebr
 
 ##### Artikel 36
 
-Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen waarvan de nettomassa afwijkt van hetgeen in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01) is bepaald, mogen worden voorzien van zegels, mits de voldoening van de belasting plaats heeft naar de op 5 g afgeronde nettomassa, die de werkelijke massa het meest nabij komt en zegels worden gebruikt waarop de nettomassa niet is vermeld doch waarop voor de massa wordt verwezen naar de op de verpakking vermelde nettomassa. In het vak van de belastingzegel wordt alsdan in verticale stand het aantal grammen massa vermeld waarnaar de voldoening van de belasting heeft plaatsgevonden.
+Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen waarvan de nettomassa afwijkt van hetgeen in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2013-07-01&g=2013-07-01) is bepaald, mogen worden voorzien van zegels, mits de voldoening van de belasting plaats heeft naar de op 5 g afgeronde nettomassa, die de werkelijke massa het meest nabij komt en zegels worden gebruikt waarop de nettomassa niet is vermeld doch waarop voor de massa wordt verwezen naar de op de verpakking vermelde nettomassa. In het vak van de belastingzegel wordt alsdan in verticale stand het aantal grammen massa vermeld waarnaar de voldoening van de belasting heeft plaatsgevonden.
 
 ##### Artikel 37
 
@@ -598,9 +598,9 @@ In afwijking van het in [artikel 40 van de wet](https://wetten.overheid.nl/jci1.
 
 Strafbare feiten zijn:
 
-- a. het overtreden van het in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2013-01-01&g=2013-01-01), bedoelde verbod;
+- a. het overtreden van het in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2013-07-01&g=2013-07-01), bedoelde verbod;
 
-- b. het niet voldoen aan een in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=32&z=2013-01-01&g=2013-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=33&z=2013-01-01&g=2013-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2013-01-01&g=2013-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=36&z=2013-01-01&g=2013-01-01) opgelegde verplichting.
+- b. het niet voldoen aan een in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=32&z=2013-07-01&g=2013-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=33&z=2013-07-01&g=2013-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2013-07-01&g=2013-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=36&z=2013-07-01&g=2013-07-01) opgelegde verplichting.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
