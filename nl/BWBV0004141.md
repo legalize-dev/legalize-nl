@@ -4,7 +4,7 @@ identifier: "BWBV0004141"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "1995-01-31"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004141"
 soort: "verdrag"
@@ -116,19 +116,19 @@ Wanneer de tussenkomende staat redelijke gronden heeft om te vermoeden dat een v
 
 ##### Artikel 7. Besluit inzake het verzoek om machtiging
 
-De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=1995-01-31&g=1995-01-31) bedoelde verzoek om machtiging en deelt zo spoedig mogelijk en, voor zover mogelijk binnen vier uur na ontvangst van het verzoek, mede welk besluit hij heeft genomen naar aanleiding van het verzoek.
+De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=2013-07-01&g=2013-07-01) bedoelde verzoek om machtiging en deelt zo spoedig mogelijk en, voor zover mogelijk binnen vier uur na ontvangst van het verzoek, mede welk besluit hij heeft genomen naar aanleiding van het verzoek.
 
 ##### Artikel 8. Voorwaarden
 
 1. Indien de vlaggestaat het verzoek inwilligt, kan deze machtiging worden onderworpen aan voorwaarden of beperkingen. In dergelijke voorwaarden of beperkingen kan met name worden bepaald dat de vlaggestaat uitdrukkelijk machtiging moet hebben verleend voordat de tussenkomende staat specifieke maatregelen neemt.
 
-2. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring verklaren dat hij, wanneer hij optreedt als tussenkomende staat, zijn tussenkomst afhankelijk stelt van de voorwaarde dat de personen die zijn nationaliteit bezitten en die krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=15&z=1995-01-31&g=1995-01-31) worden overgedragen aan de vlaggestaat en daar worden veroordeeld voor een relevant strafbaar feit, de mogelijkheid moeten hebben om te worden overgebracht naar de tussenkomende staat om de opgelegde straf te ondergaan.
+2. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring verklaren dat hij, wanneer hij optreedt als tussenkomende staat, zijn tussenkomst afhankelijk stelt van de voorwaarde dat de personen die zijn nationaliteit bezitten en die krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=15&z=2013-07-01&g=2013-07-01) worden overgedragen aan de vlaggestaat en daar worden veroordeeld voor een relevant strafbaar feit, de mogelijkheid moeten hebben om te worden overgebracht naar de tussenkomende staat om de opgelegde straf te ondergaan.
 
 ## TITEL 3. VOORSCHRIFTEN BETREFFENDE DE MAATREGELEN
 
 ##### Artikel 9. Toegestane maatregelen
 
-1. Na de machtiging van de vlaggestaat te hebben ontvangen en met inachtneming van de eventuele krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=8&z=1995-01-31&g=1995-01-31), daaraan verbonden voorwaarden en beperkingen, kan de tussenkomende staat de volgende maatregelen nemen:
+1. Na de machtiging van de vlaggestaat te hebben ontvangen en met inachtneming van de eventuele krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=8&z=2013-07-01&g=2013-07-01), daaraan verbonden voorwaarden en beperkingen, kan de tussenkomende staat de volgende maatregelen nemen:
 
 - i.
 
@@ -156,7 +156,7 @@ De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https:
 
 ##### Artikel 10. Uitvoeringsmaatregelen
 
-1. Indien, naar aanleiding van maatregelen genomen uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31), de tussenkomende staat over bewijsmateriaal beschikt betreffende een begaan relevant strafbaar feit, welk bewijsmateriaal overeenkomstig zijn wetgeving de aanhouding van de betrokkenen of de vasthouding van het vaartuig, dan wel beide, zou rechtvaardigen, kan hij hiertoe overgaan.
+1. Indien, naar aanleiding van maatregelen genomen uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01), de tussenkomende staat over bewijsmateriaal beschikt betreffende een begaan relevant strafbaar feit, welk bewijsmateriaal overeenkomstig zijn wetgeving de aanhouding van de betrokkenen of de vasthouding van het vaartuig, dan wel beide, zou rechtvaardigen, kan hij hiertoe overgaan.
 
 2. De tussenkomende staat stelt de vlaggestaat onverwijld in kennis van de ingevolge het eerste lid hierboven genomen maatregelen.
 
@@ -166,13 +166,13 @@ De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https:
 
 ##### Artikel 11. Tenuitvoerlegging van maatregelen
 
-1. De maatregelen genomen krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=1995-01-31&g=1995-01-31) worden beheerst door de wetgeving van de tussenkomende staat.
+1. De maatregelen genomen krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=2013-07-01&g=2013-07-01) worden beheerst door de wetgeving van de tussenkomende staat.
 
-2. De maatregelen genomen krachtens [artikel 9, eerste lid, letters a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31), worden slechts ten uitvoer gelegd door oorlogsschepen of militaire luchtvaartuigen, dan wel door andere vaartuigen of luchtvaartuigen die duidelijke merktekens tonen waaruit blijkt dat zij in staatsdienst zijn en dat zij hiertoe gemachtigd zijn.
+2. De maatregelen genomen krachtens [artikel 9, eerste lid, letters a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01), worden slechts ten uitvoer gelegd door oorlogsschepen of militaire luchtvaartuigen, dan wel door andere vaartuigen of luchtvaartuigen die duidelijke merktekens tonen waaruit blijkt dat zij in staatsdienst zijn en dat zij hiertoe gemachtigd zijn.
 
 - a. Een ambtenaar van de tussenkomende staat mag in de vlaggestaat niet worden vervolgd wegens in de uitoefening van zijn functie verrichte handelingen. In een dergelijk geval is de ambtenaar vatbaar voor vervolging in de tussenkomende staat alsof de feiten die het strafbare feit opleveren binnen de rechtsmacht van die staat waren begaan.
 
-- b. In alle in de vlaggestaat ingestelde procedures worden strafbare feiten die zijn gericht tegen een ambtenaar van de tussenkomende staat met betrekking tot maatregelen die zijn uitgevoerd ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=1995-01-31&g=1995-01-31), geacht te zijn gericht tegen een ambtenaar van de vlaggestaat.
+- b. In alle in de vlaggestaat ingestelde procedures worden strafbare feiten die zijn gericht tegen een ambtenaar van de tussenkomende staat met betrekking tot maatregelen die zijn uitgevoerd ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=2013-07-01&g=2013-07-01), geacht te zijn gericht tegen een ambtenaar van de vlaggestaat.
 
 4. De kapitein van het vaartuig dat is aangehouden in overeenstemming met dit Verdrag is gerechtigd contact op te nemen met de autoriteiten van de vlaggestaat alsmede met de eigenaars of exploitanten van het vaartuig om hen van de aanhouding van het vaartuig in kennis te stellen. De autoriteiten van de tussenkomende staat kunnen elk contact met de eigenaars of exploitanten van het vaartuig beletten of uitstellen indien zij redelijke gronden hebben om aan te nemen dat dit contact het onderzoek betreffende een relevant strafbaar feit zou kunnen belemmeren.
 
@@ -196,7 +196,7 @@ De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https:
 
 ##### Artikel 13. Bewijsmateriaal betreffende strafbare feiten
 
-1. Teneinde de vlaggestaat in staat te stellen te besluiten of hij al dan niet zijn primaire rechtsmacht zal uitoefenen in overeenstemming met de bepalingen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=1995-01-31&g=1995-01-31), zendt de tussenkomende staat de vlaggestaat onverwijld een samenvatting van het bewijsmateriaal betreffende alle strafbare feiten dat naar aanleiding van krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31) genomen maatregelen is ontdekt. De vlaggestaat dient de ontvangst daarvan terstond te bevestigen.
+1. Teneinde de vlaggestaat in staat te stellen te besluiten of hij al dan niet zijn primaire rechtsmacht zal uitoefenen in overeenstemming met de bepalingen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=2013-07-01&g=2013-07-01), zendt de tussenkomende staat de vlaggestaat onverwijld een samenvatting van het bewijsmateriaal betreffende alle strafbare feiten dat naar aanleiding van krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01) genomen maatregelen is ontdekt. De vlaggestaat dient de ontvangst daarvan terstond te bevestigen.
 
 2. Indien de tussenkomende staat bewijsmateriaal ontdekt op grond waarvan hij van oordeel is dat er strafbare feiten zijn begaan die buiten de reikwijdte van dit Verdrag vallen, of dat er verdachte personen aan boord van het vaartuig zijn die niet bij de relevante strafbare feiten zijn betrokken, stelt hij de vlaggestaat daarvan in kennis. Waar nodig plegen de betrokken partijen overleg.
 
@@ -210,7 +210,7 @@ De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https:
 
 1. Een vlaggestaat die zijn primaire rechtsmacht wenst uit te oefenen, doet dat in overeenstemming met de bepalingen van dit artikel.
 
-2. Hij stelt de tussenkomende staat zo spoedig mogelijk, doch uiterlijk binnen 14 dagen na de ontvangst van de samenvatting van het bewijsmateriaal als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=13&z=1995-01-31&g=1995-01-31), daarvan in kennis. Indien de vlaggestaat dit nalaat, wordt hij geacht afstand te hebben gedaan van het recht tot uitoefening van zijn primaire rechtsmacht.
+2. Hij stelt de tussenkomende staat zo spoedig mogelijk, doch uiterlijk binnen 14 dagen na de ontvangst van de samenvatting van het bewijsmateriaal als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=13&z=2013-07-01&g=2013-07-01), daarvan in kennis. Indien de vlaggestaat dit nalaat, wordt hij geacht afstand te hebben gedaan van het recht tot uitoefening van zijn primaire rechtsmacht.
 
 3. Wanneer de vlaggestaat de tussenkomende staat ervan in kennis heeft gesteld dat hij zijn primaire rechtsmacht uitoefent, wordt de uitoefening van de rechtsmacht van de tussenkomende staat opgeschort, behoudens ten behoeve van de overlevering van personen, vaartuigen, ladingen en bewijsmateriaal in overeenstemming met dit Verdrag.
 
@@ -232,27 +232,27 @@ De vlaggestaat bevestigt onmiddellijk de ontvangst van het in [artikel 6](https:
 
 ##### Artikel 16. Doodstraf
 
-Indien het strafbare feit waarvoor de vlaggestaat besluit zijn primaire rechtsmacht uit te oefenen in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=1995-01-31&g=1995-01-31), krachtens de wetgeving van die staat met de doodstraf wordt bedreigd en indien op dat strafbare feit niet de doodstraf is gesteld krachtens de wetgeving van de tussenkomende staat, of indien deze straf daar gewoonlijk niet ten uitvoer wordt gelegd, kan de overlevering van een persoon worden geweigerd, tenzij de vlaggestaat naar het oordeel van de tussenkomende staat voldoende waarborgen biedt dat de doodstraf niet ten uitvoer zal worden gelegd.
+Indien het strafbare feit waarvoor de vlaggestaat besluit zijn primaire rechtsmacht uit te oefenen in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=2013-07-01&g=2013-07-01), krachtens de wetgeving van die staat met de doodstraf wordt bedreigd en indien op dat strafbare feit niet de doodstraf is gesteld krachtens de wetgeving van de tussenkomende staat, of indien deze straf daar gewoonlijk niet ten uitvoer wordt gelegd, kan de overlevering van een persoon worden geweigerd, tenzij de vlaggestaat naar het oordeel van de tussenkomende staat voldoende waarborgen biedt dat de doodstraf niet ten uitvoer zal worden gelegd.
 
 ## TITEL 5. PROCEDURELE EN ANDERE ALGEMENE REGELS
 
 ##### Artikel 17. Bevoegde autoriteiten
 
-1. Elke partij wijst een autoriteit aan die is belast met de verzending en beantwoording van verzoeken ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=1995-01-31&g=1995-01-31) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=7&z=1995-01-31&g=1995-01-31) van dit Verdrag. Voor zover mogelijk treft elke partij voorzieningen om deze autoriteit in staat te stellen dag en nacht, op elk willekeurig tijdstip verzoeken te ontvangen en deze te beantwoorden.
+1. Elke partij wijst een autoriteit aan die is belast met de verzending en beantwoording van verzoeken ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=2013-07-01&g=2013-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=7&z=2013-07-01&g=2013-07-01) van dit Verdrag. Voor zover mogelijk treft elke partij voorzieningen om deze autoriteit in staat te stellen dag en nacht, op elk willekeurig tijdstip verzoeken te ontvangen en deze te beantwoorden.
 
-2. De partijen wijzen daarnaast een centrale autoriteit aan die is belast met de kennisgeving van de uitoefening van de primaire rechtsmacht krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=1995-01-31&g=1995-01-31) en voor alle andere mededelingen of kennisgevingen uit hoofde van dit Verdrag.
+2. De partijen wijzen daarnaast een centrale autoriteit aan die is belast met de kennisgeving van de uitoefening van de primaire rechtsmacht krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=2013-07-01&g=2013-07-01) en voor alle andere mededelingen of kennisgevingen uit hoofde van dit Verdrag.
 
 3. Elke partij deelt bij de ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de Secretaris-Generaal van de Raad van Europa de namen en adressen mede van de ingevolge dit artikel aangewezen autoriteiten, tezamen met alle andere informatie die de communicatie uit hoofde van dit Verdrag vergemakkelijkt. Een eventuele latere wijziging met betrekking tot de naam, het adres of andere relevante informatie betreffende deze autoriteiten wordt eveneens medegedeeld aan de Secretaris-Generaal.
 
 ##### Artikel 18. Communicatie tussen aangewezen autoriteiten
 
-1. De ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=1995-01-31&g=1995-01-31) aangewezen autoriteiten communiceren rechtstreeks met elkaar.
+1. De ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=2013-07-01&g=2013-07-01) aangewezen autoriteiten communiceren rechtstreeks met elkaar.
 
 2. Wanneer, om welke reden dan ook, rechtstreekse communicatie niet mogelijk is, kunnen de partijen overeenkomen gebruik te maken van het verbindingsnetwerk van de ICPO-Interpol of de Internationale Douaneraad.
 
 ##### Artikel 19. Vorm van de verzoeken en talen
 
-1. Alle mededelingen uit hoofde van de [artikelen 4 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=1995-01-31&g=1995-01-31) worden schriftelijk gedaan. Er kan gebruik worden gemaakt van moderne telecommunicatiemiddelen, zoals telefax.
+1. Alle mededelingen uit hoofde van de [artikelen 4 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=2013-07-01&g=2013-07-01) worden schriftelijk gedaan. Er kan gebruik worden gemaakt van moderne telecommunicatiemiddelen, zoals telefax.
 
 2. Behoudens het in het derde lid van dit artikel bepaalde, zijn vertalingen van verzoeken en andere mededelingen of ondersteunende documenten niet vereist.
 
@@ -264,7 +264,7 @@ Uit hoofde van dit Verdrag toegezonden documenten zijn vrijgesteld van alle form
 
 ##### Artikel 21. Inhoud van het verzoek
 
-In elk verzoek ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=1995-01-31&g=1995-01-31) dient te worden vermeld:
+In elk verzoek ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=2013-07-01&g=2013-07-01) dient te worden vermeld:
 
 - a. de autoriteit van wie het verzoek afkomstig is en de autoriteit die het onderzoek of de procedure uitvoert;
 
@@ -280,7 +280,7 @@ Elke partij neemt de maatregelen die noodzakelijk zijn om de eigenaars en kapite
 
 ##### Artikel 23. Beperking van het gebruik
 
-De vlaggestaat kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=1995-01-31&g=1995-01-31) bedoelde machtiging afhankelijk stellen van de voorwaarde dat de verkregen informatie of het verkregen bewijsmateriaal niet zonder zijn voorafgaande toestemming door de autoriteiten van de tussenkomende staat zal worden gebruikt of doorgezonden ten behoeve van andere onderzoeken of procedures dan die welke betrekking hebben op relevante strafbare feiten.
+De vlaggestaat kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=6&z=2013-07-01&g=2013-07-01) bedoelde machtiging afhankelijk stellen van de voorwaarde dat de verkregen informatie of het verkregen bewijsmateriaal niet zonder zijn voorafgaande toestemming door de autoriteiten van de tussenkomende staat zal worden gebruikt of doorgezonden ten behoeve van andere onderzoeken of procedures dan die welke betrekking hebben op relevante strafbare feiten.
 
 ##### Artikel 24. Vertrouwelijkheid
 
@@ -290,17 +290,17 @@ Voor zover zulks niet in strijd is met de grondbeginselen van hun nationale rech
 
 ##### Artikel 25. Kosten
 
-1. Tenzij de betrokken partijen anders zijn overeengekomen, zijn de met de tenuitvoerlegging van maatregelen uit hoofde van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=1995-01-31&g=1995-01-31) gemoeide kosten voor rekening van de tussenkomende staat, en zijn de met de tenuitvoerlegging van maatregelen uit hoofde van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=1995-01-31&g=1995-01-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=5&z=1995-01-31&g=1995-01-31) gemoeide kosten gewoonlijk voor rekening van de partij die bijstand verleent.
+1. Tenzij de betrokken partijen anders zijn overeengekomen, zijn de met de tenuitvoerlegging van maatregelen uit hoofde van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=2013-07-01&g=2013-07-01) gemoeide kosten voor rekening van de tussenkomende staat, en zijn de met de tenuitvoerlegging van maatregelen uit hoofde van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=2013-07-01&g=2013-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=5&z=2013-07-01&g=2013-07-01) gemoeide kosten gewoonlijk voor rekening van de partij die bijstand verleent.
 
-2. Wanneer de vlaggestaat zijn primaire rechtsmacht heeft uitgeoefend in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=1995-01-31&g=1995-01-31), zijn de kosten van de terugkeer van het vaartuig en de kosten van het vervoer van verdachten en bewijsmateriaal voor rekening van die staat.
+2. Wanneer de vlaggestaat zijn primaire rechtsmacht heeft uitgeoefend in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=4&artikel=14&z=2013-07-01&g=2013-07-01), zijn de kosten van de terugkeer van het vaartuig en de kosten van het vervoer van verdachten en bewijsmateriaal voor rekening van die staat.
 
 ##### Artikel 26. Schadevergoeding
 
-1. Indien, in het kader van maatregelen uit hoofde van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=1995-01-31&g=1995-01-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=1995-01-31&g=1995-01-31) hierboven, een natuurlijk persoon of rechtspersoon verlies of schade lijdt of hem letsel wordt toegebracht ten gevolge van nalatigheid of enige andere tekortkoming die de tussenkomende staat kan worden toegerekend, is deze staat verplicht om schadevergoeding te betalen.
+1. Indien, in het kader van maatregelen uit hoofde van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=9&z=2013-07-01&g=2013-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=3&artikel=10&z=2013-07-01&g=2013-07-01) hierboven, een natuurlijk persoon of rechtspersoon verlies of schade lijdt of hem letsel wordt toegebracht ten gevolge van nalatigheid of enige andere tekortkoming die de tussenkomende staat kan worden toegerekend, is deze staat verplicht om schadevergoeding te betalen.
 
 2. Wanneer de maatregelen worden genomen op een wijze die, gelet op de bepalingen van het Verdrag, niet gerechtvaardigd is, is de tussenkomende staat verplicht om schadevergoeding te betalen voor elk daaruit voortvloeiend verlies, schade of letsel. De tussenkomende staat is ook verplicht om schadevergoeding te betalen voor elk zodanig verlies, schade of letsel, indien de verdenking ongegrond blijkt en mits het aangehouden vaartuig, de reder of de bemanning geen enkele handeling heeft verricht die deze verdenking rechtvaardigde.
 
-3. De aansprakelijkheid voor schade ten gevolge van maatregelen uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=1995-01-31&g=1995-01-31) berust bij de verzoekende staat, die kan trachten de schade te verhalen op de aangezochte staat, wanneer de schade het gevolg was van nalatigheid of enige andere tekortkoming die deze staat kan worden toegerekend.
+3. De aansprakelijkheid voor schade ten gevolge van maatregelen uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=4&z=2013-07-01&g=2013-07-01) berust bij de verzoekende staat, die kan trachten de schade te verhalen op de aangezochte staat, wanneer de schade het gevolg was van nalatigheid of enige andere tekortkoming die deze staat kan worden toegerekend.
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
@@ -330,7 +330,7 @@ Voor zover zulks niet in strijd is met de grondbeginselen van hun nationale rech
 
 2. Iedere staat kan op een latere datum, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, zijn instemming door dit Verdrag te worden gebonden, uitbreiden tot een ander in de verklaring aangegeven grondgebied. Ten aanzien van dat grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van deze verklaring door de Secretaris-Generaal.
 
-3. Ten aanzien van een grondgebied dat valt onder een verklaring ingevolge het eerste en tweede lid hierboven, kunnen autoriteiten worden aangewezen overeenkomstig [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=1995-01-31&g=1995-01-31).
+3. Ten aanzien van een grondgebied dat valt onder een verklaring ingevolge het eerste en tweede lid hierboven, kunnen autoriteiten worden aangewezen overeenkomstig [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=2013-07-01&g=2013-07-01).
 
 4. Een ingevolge de voorgaande leden afgelegde verklaring kan ten aanzien van ieder in die verklaring aangegeven grondgebied worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
@@ -344,7 +344,7 @@ Voor zover zulks niet in strijd is met de grondbeginselen van hun nationale rech
 
 ##### Artikel 31. Voorbehouden
 
-1. Iedere staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=3&z=1995-01-31&g=1995-01-31), [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=19&z=1995-01-31&g=1995-01-31), en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=34&z=1995-01-31&g=1995-01-31). Er kan geen enkel ander voorbehoud worden gemaakt.
+1. Iedere staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=3&z=2013-07-01&g=2013-07-01), [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=19&z=2013-07-01&g=2013-07-01), en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=34&z=2013-07-01&g=2013-07-01). Er kan geen enkel ander voorbehoud worden gemaakt.
 
 2. Iedere staat die ingevolge het voorgaande lid een voorbehoud heeft gemaakt kan dit geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
@@ -364,7 +364,7 @@ Voor zover zulks niet in strijd is met de grondbeginselen van hun nationale rech
 
 ##### Artikel 33. Wijzigingen
 
-1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door iedere partij en deze worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa en aan iedere staat die geen lid is en die is toegetreden of is uitgenodigd om toe te treden tot het Verdrag in overeenstemming met de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=28&z=1995-01-31&g=1995-01-31).
+1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door iedere partij en deze worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa en aan iedere staat die geen lid is en die is toegetreden of is uitgenodigd om toe te treden tot het Verdrag in overeenstemming met de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=28&z=2013-07-01&g=2013-07-01).
 
 2. Een door een partij voorgestelde wijziging wordt medegedeeld aan de Europese Commissie voor Strafrechtelijke Vraagstukken, die haar oordeel over de voorgestelde wijziging voorlegt aan het Comité van Ministers.
 
@@ -404,15 +404,15 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad, ie
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. de naam van de iedere autoriteit en alle andere informatie, medegedeeld ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=1995-01-31&g=1995-01-31);
+- c. de naam van de iedere autoriteit en alle andere informatie, medegedeeld ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=17&z=2013-07-01&g=2013-07-01);
 
-- d. ieder voorbehoud gemaakt in overeenstemming met [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=31&z=1995-01-31&g=1995-01-31);
+- d. ieder voorbehoud gemaakt in overeenstemming met [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=31&z=2013-07-01&g=2013-07-01);
 
-- e. de datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=27&z=1995-01-31&g=1995-01-31) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=28&z=1995-01-31&g=1995-01-31);
+- e. de datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=27&z=2013-07-01&g=2013-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=28&z=2013-07-01&g=2013-07-01);
 
-- f. ieder verzoek gedaan ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=32&z=1995-01-31&g=1995-01-31), en de datum van iedere ingevolge dat lid belegde vergadering;
+- f. ieder verzoek gedaan ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=32&z=2013-07-01&g=2013-07-01), en de datum van iedere ingevolge dat lid belegde vergadering;
 
-- g. iedere verklaring afgelegd ingevolge [artikel 3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=3&z=1995-01-31&g=1995-01-31), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=8&z=1995-01-31&g=1995-01-31), [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=19&z=1995-01-31&g=1995-01-31), [artikel 34, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=34&z=1995-01-31&g=1995-01-31);
+- g. iedere verklaring afgelegd ingevolge [artikel 3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=1&artikel=3&z=2013-07-01&g=2013-07-01), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=2&artikel=8&z=2013-07-01&g=2013-07-01), [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=II&titeldeel=5&artikel=19&z=2013-07-01&g=2013-07-01), [artikel 34, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004141&hoofdstuk=III&artikel=34&z=2013-07-01&g=2013-07-01);
 
 - h. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
