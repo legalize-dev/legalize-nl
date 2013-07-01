@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -387,7 +387,7 @@ De in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&a
 
 ##### Artikel 14
 
-1. Het brengen, bedoeld in [artikel 35, tweede lid, onderdelen a en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting, alsmede het brengen, bedoeld in [artikel 35, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen die zijn geplaatst onder een communautaire douaneregeling naar een inrichting, wordt bij het aangeven voor het vrije verkeer van de kolen op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), aangetoond met een vervoersopdracht. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht, dan wel in diens opdracht.
+1. Het brengen, bedoeld in [artikel 35, tweede lid, onderdelen a en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting, alsmede het brengen, bedoeld in [artikel 35, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen die zijn geplaatst onder een EU-douaneregeling naar een inrichting, wordt bij het aangeven voor het vrije verkeer van de kolen op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), aangetoond met een vervoersopdracht. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht, dan wel in diens opdracht.
 
 2. Op de in het eerste lid bedoelde vervoersopdracht wordt een verklaring gesteld van de vergunninghouder van de inrichting waarnaar de kolen zullen worden overgebracht dat de kolen worden overgebracht naar zijn inrichting en in de administratie van zijn inrichting worden opgenomen.
 
@@ -395,11 +395,11 @@ De in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&a
 
 ##### Artikel 15
 
-Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een communautaire douaneregeling van vanuit een derde land binnengebrachte kolen, bedoeld in [artikel 35, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), alsmede het onder ambtelijk toezicht vernietigen van kolen die onder een communautaire douaneregeling zijn geplaatst, bedoeld in [artikel 35, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), geschiedt met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), moeten worden vervuld.
+Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een EU-douaneregeling van vanuit een derde land binnengebrachte kolen, bedoeld in [artikel 35, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), alsmede het onder ambtelijk toezicht vernietigen van kolen die onder een EU-douaneregeling zijn geplaatst, bedoeld in [artikel 35, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), geschiedt met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), moeten worden vervuld.
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2013-01-01&g=2013-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2013-07-01&g=2013-07-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -549,7 +549,7 @@ Vervallen
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
