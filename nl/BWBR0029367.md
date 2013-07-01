@@ -4,7 +4,7 @@ identifier: "BWBR0029367"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-19"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029367"
 soort: "zbo"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - **maker:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en artistiek-inhoudelijk eindverantwoordelijk is voor het totstandkomen van voorstellingen of concerten.
 
-##### Artikel 1.2. Subsidievormen
+##### Artikel 1.2
 
-Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie of een subsidie compositieopdracht voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
+Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie, een subsidie nieuwe maker of een subsidie voor het verlenen van een opdracht voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
 
 ##### Artikel 1.3. De aanvraag
 
@@ -186,43 +186,47 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 ##### Artikel 4.1. Doel
 
-Het bestuur verstrekt subsidies compositieopdracht voor het verlenen van een opdracht tot het vervaardigen van een compositie om bij te dragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
+Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het vervaardigen van een compositie, libretto of theatertekst om bij te dragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
 
 ##### Artikel 4.2. Aanvrager
 
-1. Een subsidie compositieopdracht kan worden aangevraagd door een instelling die voornemens is vanuit een artistiek-inhoudelijk uitgangspunt activiteiten te organiseren die zullen leiden tot voorstellingen of concerten en in dat kader een compositie wil laten vervaardigen.
+1. Een subsidie voor het verlenen van een opdracht kan worden aangevraagd door een instelling die voornemens is vanuit een artistiek-inhoudelijk uitgangspunt activiteiten te organiseren die zullen leiden tot voorstellingen of concerten en in dat kader een compositie, libretto of theatertekst wil laten vervaardigen.
 
 2. Een aanvrager kan per aanvraagronde maximaal 3 aanvragen indienen.
 
 ##### Artikel 4.3. Subsidieaanvraag
 
-1. Een aanvraag heeft betrekking op één opdracht aan een specifiek door de aanvrager gekozen componist.
+1. Een aanvraag heeft betrekking op één opdracht aan een door de aanvrager gekozen componist of auteur.
 
-2. Als er sprake is van meerdere samenhangende opdrachten kunnen deze door middel van een gebundelde aanvraag worden ingediend, rekening houdend met het maximum van drie aanvragen per aanvrager per aanvraagronde.
+2. Als er sprake is van samenhangende opdrachten kunnen deze door middel van een gebundelde aanvraag worden ingediend, rekening houdend met het maximum aantal aanvragen per aanvrager per aanvraagronde.
 
 ##### Artikel 4.4. Vereisten
 
-1. Een subsidie compositieopdracht kan worden verstrekt als de aanvraag voldoende aannemelijk maakt dat het te componeren werk minimaal tweemaal zal worden uitgevoerd. Hiervan is in ieder geval sprake als de aanvraag vergezeld gaat van een of meer bevestigingen van instellingen die primair gericht zijn op het presenteren van voorstellingen of concerten waaruit blijkt dat het te componeren werk door hen zal worden geprogrammeerd.
+1. Een subsidie voor het verlenen van een opdracht kan worden verstrekt als:
 
-2. Maximaal één uitvoering kan worden vervangen door een televisie- of radio-uitzending van een opname van een onder verantwoordelijkheid van de opdrachtgever verzorgde uitvoering van de compositie of een andere publieke openbaarmaking die daaraan minimaal gelijk gesteld kan worden.
+- a). een nieuw werk tot stand komt dat onder de naam van de componist of auteur wordt gepresenteerd;
+
+- b). de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.
+
+2. Het bestuur kan in bijzondere gevallen besluiten een aanvraag die niet voldoet aan de vereisten uit het eerste lid in behandeling te nemen als de aanvrager niet kan worden tegengeworpen dat niet aan het vereiste wordt voldaan en het resultaat van de opdracht een bijzondere bijdrage kan leveren aan het doel van deze subsidievorm.
 
 ##### Artikel 4.5. Beoordeling
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a. motivering van de keuze voor de componist;
+- a). motivering van de keuze voor de componist of auteur;
 
-- b. programmering(sbeleid) waarbinnen de opdracht tot stand komt;
+- b). programmering(sbeleid) waarbinnen de opdracht tot stand komt;
 
-- c. verwachte uitvoeringsmogelijkheden;
+- c). verwachte uitvoeringsmogelijkheden;
 
-- d. bijdrage aan de pluriformiteit van het muziekrepertoire in Nederland.
+- d). bijdrage aan de pluriformiteit van het podiumkunstenrepertoire in Nederland.
 
 ##### Artikel 4.6. Hoogte subsidie
 
-1. Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van het subsidie wordt bepaald.
+1. Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van de subsidie wordt bepaald.
 
-2. Het bestuur kan bepalen dat een subsidie compositieopdracht nooit meer bedraagt dan een bepaald bedrag.
+2. Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.
 
 #### Paragraaf 5:. Overige bepalingen
 
@@ -320,11 +324,11 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 1. Het subsidie bedraagt nooit meer dan 50 % van de subsidiabele kosten als deze € 100.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 100.000 bedragen.
 
-2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
+2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing.
 
 3. Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.
 
-#### Paragraaf 4:. Subsidie compositieopdrachten
+#### Paragraaf 4:. Subsidie voor het verlenen van een opdracht
 
 #### Paragraaf 5:. Overige bepalingen
 
