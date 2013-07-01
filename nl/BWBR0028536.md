@@ -4,7 +4,7 @@ identifier: "BWBR0028536"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2013-07-01"
-last_updated: "2010-10-10"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028536"
 soort: "wet-BES"
@@ -47,17 +47,15 @@ De openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in het openbaa
 
 ##### Artikel 3
 
-1. Onze Minister voorziet in:
+1. Onze Minister voorziet in het toezicht op de juiste naleving van de wettelijke regelingen, betrekking hebbende op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028536&artikel=2&z=2013-07-01&g=2013-07-01) bedoelde arbeidsbemiddeling.
 
-- a. het toezicht op de juiste naleving van de wettelijke regelingen op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028536&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde arbeidsbemiddeling betrekking hebbende;
+2. Onze Minister kan voorzien in:
 
-- b. een voorziening voor de openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in de verschillende openbare lichamen Bonaire, Sint Eustatius en Saba woonachtig, alsmede tussen werkgevers gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba en Eerste Kamer, vergaderjaar 2009–2010, 31 959, A, 435 werkzoekenden in andere delen van het Koninkrijk of het buitenland en omgekeerd;
+- a. een voorziening voor de openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in de verschillende openbare lichamen Bonaire, Sint Eustatius en Saba woonachtig, alsmede tussen werkgevers gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba en werkzoekenden in andere delen van het Koninkrijk of het buitenland en omgekeerd;
 
-- c. een voorziening voor het verzamelen en verstrekken van gegevens omtrent de stand der arbeidsmarkt voor zover noodzakelijk in verband met de openbare arbeidsbemiddeling.
+- b. een voorziening voor het verzamelen en verstrekken van gegevens omtrent de stand der arbeidsmarkt voor zover noodzakelijk in verband met de openbare arbeidsbemiddeling.
 
-2. De bestuurscolleges zijn verplicht aan Onze Minister alle door deze in verband met het vorige lid verlangde inlichtingen kosteloos te verstrekken.
-
-3. [vervallen]
+3. De bestuurscolleges zijn verplicht aan Onze Minister alle door deze in verband met het eerste en tweede lid verlangde inlichtingen kosteloos te verstrekken.
 
 4. Onder openbare arbeidsbemiddeling in een eilandgebied wordt verstaan:
 
@@ -87,7 +85,7 @@ De openbare arbeidsbemiddeling draagt geenerlei verantwoordelijkheid met betrekk
 
 ##### Artikel 9
 
-Het bestuurscollege stelt regels ten aanzien van de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028536&artikel=2&z=2010-10-10&g=2010-10-10) van deze wet.
+Het bestuurscollege stelt regels ten aanzien van de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028536&artikel=2&z=2013-07-01&g=2013-07-01) van deze wet.
 
 ##### Artikel 10
 
