@@ -4,7 +4,7 @@ identifier: "BWBR0032634"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032634"
 soort: "wet"
@@ -877,7 +877,7 @@ Wijzigt deze wet.
 
 ##### Artikel 1a
 
-Onze Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties zenden binnen vijf jaar na de inwerkingtreding van [deel A,artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032634&deel=A&artikel=I&z=2013-01-01&g=2013-01-01), onderdeel YYY, aan de Staten-Generaal een verslag over de wijze waarop [artikel 8:69a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69a) is toegepast.
+Onze Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties zenden binnen vijf jaar na de inwerkingtreding van [deel A,artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032634&deel=A&artikel=I&z=2013-07-01&g=2013-07-01), onderdeel YYY, aan de Staten-Generaal een verslag over de wijze waarop [artikel 8:69a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69a) is toegepast.
 
 ##### Artikel 2
 
