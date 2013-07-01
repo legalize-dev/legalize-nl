@@ -4,7 +4,7 @@ identifier: "BWBR0032033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2012-10-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032033"
 soort: "ministeriele-regeling"
@@ -48,10 +48,16 @@ De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van h
 
 ##### Artikel 2
 
-Deze regeling treedt in werking met ingang van 1 oktober 2012.
+De vertrouwensinspecteurs, bedoeld in [artikel 6, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=6), worden aangewezen als deskundige als bedoeld in de [artikelen 1.51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51b), en [2.9b, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.9b).
 
 ##### Artikel 3
 
-Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+Deze regeling treedt in werking met ingang van 1 oktober 2012.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4
+
+Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht en deskundigen Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
