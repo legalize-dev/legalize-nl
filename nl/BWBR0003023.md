@@ -4,7 +4,7 @@ identifier: "BWBR0003023"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2011-08-24"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003023"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De geldigheidsduur van een certificaat als bedoeld in [artikel 15 van de Wet aan
 
 ##### Artikel 3
 
-Vervallen
+Voor de afgifte of waarmerking van een certificaat als bedoeld in [artikel 529c, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=529c) is een tarief verschuldigd van € 129.
 
 ##### Artikel 4
 
