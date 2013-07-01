@@ -4,7 +4,7 @@ identifier: "BWBR0028577"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2013-07-01"
-last_updated: "2010-10-10"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028577"
 soort: "wet-BES"
@@ -43,17 +43,17 @@ De ambtenaren of personen, die krachtens de [artikelen 184](https://wetten.overh
 
 ##### Artikel 2
 
-1. Aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028577&artikel=1&z=2010-10-10&g=2010-10-10) bedoelde ambtenaren of personen, belast met de opsporing der strafbare feiten, verstrekt Onze Minister van Justitie een legitimatiebewijs.
+1. Aan de ambtenaren of personen, belast met de opsporing der strafbare feiten, verstrekt Onze Minister van Justitie een legitimatiebewijs.
 
 2. De vorm en de inrichting van het legitimatiebewijs worden bij ministeriële regeling vastgesteld.
 
-3. Onze Minister van Justitie stelt bij ministeriële regeling bepalingen vast betreffende de wijze van afgifte en administratie der legitimatiebewijzen.
+3. Onze Minister van Veiligheid en Justitie stelt bij ministeriële regeling bepalingen vast betreffende de wijze van afgifte en administratie der legitimatiebewijzen.
 
 4. De in het eerste lid van dit artikel bedoelde ambtenaren en personen zijn verplicht hun legitimatiebewijs bij de uitoefening van hun opsporingstaak desgevraagd duidelijk zichtbaar te tonen.
 
 ##### Artikel 3
 
-De ambtenaren of personen die reeds als opsporingsambtenaar zijn beëdigd leggen bij de inwerkingtreding van deze wet niet opnieuw de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028577&artikel=1&z=2010-10-10&g=2010-10-10) bedoelde eed of belofte af.
+De ambtenaren of personen die reeds als opsporingsambtenaar zijn beëdigd leggen bij de inwerkingtreding van deze wet niet opnieuw de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028577&artikel=1&z=2013-07-01&g=2013-07-01) bedoelde eed of belofte af.
 
 ##### Artikel 4
 
