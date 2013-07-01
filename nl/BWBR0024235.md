@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2012-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -190,7 +190,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 ##### Artikel 2:1
 
-1. Bij regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie kunnen ter uitvoering van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen en ter implementatie van dwingende bepalingen uit overeenkomsten, gesloten door de Europese Gemeenschappen, non-tarifaire handelspolitieke maatregelen worden gesteld inzake goederen met betrekking tot:
+1. Bij regeling van Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kunnen ter uitvoering van bindende EU-rechtshandelingen non-tarifaire handelspolitieke maatregelen worden gesteld inzake goederen met betrekking tot:
 
 - a. het binnenbrengen in het douanegebied;
 
@@ -200,15 +200,15 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 - d. het verlaten van het douanegebied.
 
-2. Het eerste lid is niet van toepassing op producten als bedoeld in bijlage 1 bij het Verdrag tot oprichting van de Europese Gemeenschap.
+2. Het eerste lid is niet van toepassing op producten als bedoeld in bijlage 1 bij het Verdrag betreffende de werking van de Europese Unie.
 
-3. Het eerste lid geldt niet voor [verordening (EG) nr. 1334/2000](32000R1334) van de Raad van de Europese Unie van 22 juni 2000 tot instelling van communautaire regeling voor controle op de uitvoer van producten en technologie voor tweeërlei gebruik (PbEG L 159).
+3. Het eerste lid geldt niet voor Verordening (EG) nr. 1334/2000 van de Raad van 22 juni 2000 tot instelling van communautaire regeling voor controle op de uitvoer van producten en technologie voor tweeërlei gebruik (PbEG 2000, L 159).
 
 ##### Artikel 2:2
 
-1. Bij regeling van Onze Minister van Economische Zaken, Landbouw en Innovatie kunnen regels worden gesteld met betrekking tot van in het internationale verkeer te bezigen verklaringen inzake de oorsprong van goederen.
+1. Bij regeling van Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kunnen regels worden gesteld met betrekking tot van in het internationale verkeer te bezigen verklaringen inzake de oorsprong van goederen.
 
-2. Onze Minister van Economische Zaken, Landbouw en Innovatie kan bij regeling bestuursorganen aanwijzen die met het verstrekken van deze verklaringen zijn belast.
+2. Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kan bij regeling bestuursorganen aanwijzen die met het verstrekken van deze verklaringen zijn belast.
 
 ### Hoofdstuk 3. Landbouw- en houtproducten
 
@@ -216,7 +216,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 Voor de toepassing van dit hoofdstuk en voor de daarop gebaseerde bepalingen wordt verstaan onder:
 
-- a. **Onze minister**: Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- a. **Onze minister**: Onze Minister van Economische Zaken;
 
 - b. **landbouwproducten**: de volgende goederen:
 
@@ -224,29 +224,29 @@ Voor de toepassing van dit hoofdstuk en voor de daarop gebaseerde bepalingen wor
 
 - 2°. de niet reeds onder 1° begrepen voortbrengselen van akkerbouw, weidebouw, veehouderij, pluimveehouderij en tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen, alsmede van de teelt van griendhout en van elke andere vorm van bodemcultuur, zoals die hier te lande wordt uitgeoefend, met uitzondering van bosbouw;
 
-- c. **communautaire verplichting**: een door de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen vastgestelde verordening of beschikking, houdende maatregelen voor het handelsverkeer van landbouwgoederen tussen de Gemeenschap en derde landen of tussen de lidstaten van de Gemeenschap onderling;
+- c. **EU-verplichting**: een EU-verordening of EU-besluit, houdende maatregelen voor het handelsverkeer van landbouwgoederen tussen de Europese Unie en derde landen of tussen de lidstaten van de Europese Unie onderling;
 
-- d. **invoercertificaat**: een document dat ingevolge een communautaire verplichting bij de invoer van een in die verplichting omschreven of aangeduid landbouwproduct wordt overgelegd en dat het recht en de plicht meebrengt tot het invoeren van het in het document omschreven of aangeduide landbouwproduct tijdens de geldigheidsduur van dat document;
+- d. **invoercertificaat**: een document dat ingevolge een EU-verplichting bij de invoer van een in die verplichting omschreven of aangeduid landbouwproduct wordt overgelegd en dat het recht en de plicht meebrengt tot het invoeren van het in het document omschreven of aangeduide landbouwproduct tijdens de geldigheidsduur van dat document;
 
-- e. **uitvoercertificaat**: een document dat ingevolge een communautaire verplichting bij de uitvoer van een in die verplichting omschreven of aangeduid landbouwproduct wordt overgelegd en dat het recht en de plicht meebrengt tot het uitvoeren van het in het document omschreven of aangeduide landbouwproduct tijdens de geldigheidsduur van dat document;
+- e. **uitvoercertificaat**: een document dat ingevolge een EU-verplichting bij de uitvoer van een in die verplichting omschreven of aangeduid landbouwproduct wordt overgelegd en dat het recht en de plicht meebrengt tot het uitvoeren van het in het document omschreven of aangeduide landbouwproduct tijdens de geldigheidsduur van dat document;
 
-- f. **restitutie**: elk bedrag dat ingevolge een communautaire verplichting als compenserend bedrag, als subsidie of onder welke benaming ook, ter zake van de uitvoer van een landbouwproduct wordt verstrekt;
+- f. **restitutie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als subsidie of onder welke benaming ook, ter zake van de uitvoer van een landbouwproduct wordt verstrekt;
 
-- g. **subsidie**: elk bedrag dat ingevolge een communautaire verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;
+- g. **subsidie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;
 
 - h. **bedrijfslichaam**: bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66);
 
-- i. **verordening (EG) nr. 2173/2005:** verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);
+- i. **Verordening (EG) nr. 2173/2005:** Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);
 
-- j. **verordening (EG) nr. 1024/2008:** verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).
+- j. **Verordening (EG) nr. 1024/2008:** Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).
 
 ##### Artikel 3:2
 
-1. Het is verboden landbouwproducten in te voeren of uit te voeren zonder invoercertificaat onderscheidenlijk uitvoercertificaat, voor zover een communautaire verplichting de overlegging van een invoercertificaat of uitvoercertificaat bij de invoer onderscheidenlijk de uitvoer van landbouwproducten vereist.
+1. Het is verboden landbouwproducten in te voeren of uit te voeren zonder invoercertificaat onderscheidenlijk uitvoercertificaat, voor zover een EU-verplichting de overlegging van een invoercertificaat of uitvoercertificaat bij de invoer onderscheidenlijk de uitvoer van landbouwproducten vereist.
 
 2. Onze minister is bevoegd tot verlening van een invoercertificaat en een uitvoercertificaat.
 
-3. Bij regeling van Onze minister kunnen, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, regels worden gesteld met betrekking tot het afgeven van een invoercertificaat en een uitvoercertificaat.
+3. Bij regeling van Onze minister kunnen, voor zover het voor een goede uitvoering van een EU-verplichting nodig is, regels worden gesteld met betrekking tot het afgeven van een invoercertificaat en een uitvoercertificaat.
 
 ##### Artikel 3:3
 
@@ -258,13 +258,13 @@ Onze minister is bevoegd:
 
 - c. regelen te stellen met betrekking tot de aanspraak op restitutie of subsidie, de bij het aanvragen daarvan te verstrekken gegevens of over te leggen bewijsstukken, de vaststelling van de grondslagen waarnaar de berekening van de uit te keren bedragen plaatsvindt en de wijze van verstrekking van de restituties;
 
-- d. sancties op te leggen als bedoeld in de artikelen 48 en 49 van verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU L 186).
+- d. sancties op te leggen als bedoeld in de artikelen 48 en 49 van Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU 2009, L 186).
 
 ##### Artikel 3:4
 
-1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2012-01-01&g=2012-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2012-01-01&g=2012-01-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
+1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2013-07-01&g=2013-07-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
 
-2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2012-01-01&g=2012-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2012-01-01&g=2012-01-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
+2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een EU-verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2013-07-01&g=2013-07-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
 
 ### Hoofdstuk 4. Administratie
 
@@ -294,11 +294,11 @@ Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening C
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2012-01-01&g=2012-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2013-07-01&g=2013-07-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2012-01-01&g=2012-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -308,11 +308,11 @@ De belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communau
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2012-01-01&g=2012-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2013-07-01&g=2013-07-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2012-01-01&g=2012-01-01), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2012-01-01&g=2012-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2013-07-01&g=2013-07-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -328,7 +328,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2012-01-01&g=2012-01-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2012-01-01&g=2012-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2012-01-01&g=2012-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2013-07-01&g=2013-07-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2013-07-01&g=2013-07-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2013-07-01&g=2013-07-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -338,9 +338,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3:5
 
-1. Het is verboden te handelen in strijd met de voorschriften, genoemd in artikel 4, eerste lid, van verordening (EG) nr. 2173/2005.
+1. Het is verboden te handelen in strijd met de voorschriften, genoemd in artikel 4, eerste lid, van Verordening (EG) nr. 2173/2005.
 
-2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, kunnen regels worden gesteld voor een goede uitvoering van verordening (EG) nr. 2173/2005 en verordening (EG) nr. 1024/2008.
+2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, kunnen regels worden gesteld voor een goede uitvoering van Verordening (EG) nr. 2173/2005 en Verordening (EG) nr. 1024/2008.
 
 ### Hoofdstuk 4. Administratie
 
