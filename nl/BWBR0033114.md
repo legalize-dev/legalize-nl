@@ -4,7 +4,7 @@ identifier: "BWBR0033114"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2013-04-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033114"
 soort: "wet"
@@ -59,6 +59,8 @@ Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel V. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Va. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
@@ -67,7 +69,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel VIa. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
@@ -91,13 +93,13 @@ Wijzigt de Samenloopregeling indonesische pensioenen 1960.
 
 ##### Artikel X. Wijziging van de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
 ##### Artikel XI. Inwerkingtreding
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Bij het vaststellen van het in het eerste lid genoemde tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033114&artikel=II&z=2013-04-01&g=2013-04-01) wordt in acht genomen dat dat artikel voor personen die voor de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst recht hebben op een halfwezenuitkering niet eerder in werking treedt dan zes maanden na die datum van uitgifte.
+2. Bij het vaststellen van het in het eerste lid genoemde tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033114&artikel=II&z=2013-07-01&g=2013-07-01) wordt in acht genomen dat dat artikel voor personen die voor de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst recht hebben op een halfwezenuitkering niet eerder in werking treedt dan zes maanden na die datum van uitgifte.
 
 ##### Artikel XII. Citeertitel
 
