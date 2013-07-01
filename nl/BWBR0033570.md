@@ -103,15 +103,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang
 Deze regeling wordt aangehaald als: Subsidieregeling Kenniscentrum Europa decentraal 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-1. Het Kenniscentrum kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
-
-2. De jaarlijkse toevoegingen aan de egalisatiereserve bedraagt ten hoogste 5 procent van de over het boekjaar verleende subsidie. De egalisatiereserve bedraagt ten hoogste 10 procent van de over het boekjaar verleende subsidie.
-
-3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033570&paragraaf=1&artikel=2&z=2014-09-27&g=2014-09-27).
-
-#### § 5. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
