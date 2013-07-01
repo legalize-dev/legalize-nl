@@ -4,7 +4,7 @@ identifier: "BWBR0032523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032523"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Deze regeling wordt aangehaald als: Regeling handhaving en overige zaken Wet die
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-## Bijlage. als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.1&z=2013-01-01&g=2013-01-01) van de Regeling handhaving en overige zaken Wet Dieren
+## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1&artikel=1.2&z=2013-07-01&g=2013-07-01) van de Regeling handhaving en overige zaken Wet dieren
 
 | [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) | Categorie |
 | --- | --- |
@@ -159,7 +159,23 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 | Artikel 8.10, tweede lid | 4 |
 | Artikel 8.12 | 3 |
 | Artikel 9A.8, eerste, derde en vierde lid | 3 |
+| [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335) |   |
+| Artikel 2.2 | 3 |
+| Artikel 2.3 | 3 |
+| Artikel 2.4, eerste tot en met vierde lid | 3 |
+| Artikel 2.4, zesde lid | 2 |
 | [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462) |   |
+| Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op artikel 8, derde lid, en bijlage V, punt 7, punt 8.1, onderdelen a tot en met e en punt 11.3, onderdeel b, van verordening (EG) nr. 999/2001 | 4 |
+| Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op bijlage V, punt 8.1, onderdeel f, van verordening (EG) nr. 999/2001 | 3 |
+| Artikel 2.4, eerste lid, onderdeel a, voor zover dat onderdeel betrekking heeft op bijlage V, punt 11.3, onderdelen a en c, van verordening (EG) nr. 999/2001 | 2 |
+| Artikel 2.4, eerste lid, onderdeel b | 3 |
+| Artikel 2.4, eerste lid, onderdeel c, voor zover dat onderdeel betrekking heeft op de artikelen 3, 4, eerste tot en met derde lid, 5, tweede lid, laatste alinea, en vierde lid, onderdelen a en b, en artikel 6, derde lid, van verordening (EG) nr. 852/2004 | 3 |
+| Artikel 2.4, eerste lid, onderdeel c, voor zover dat onderdeel betrekking heeft op artikel 5, eerste lid, van verordening (EG) nr. 852/2004 | 4 |
+| Artikel 2.4, eerste lid, onderdeel c, voor zover dat onderdeel betrekking heeft op de artikelen 5, vierde lid, onderdeel c, en 6, tweede lid, laatste alinea, van verordening (EG) nr. 852/2004 | 2 |
+| Artikel 2.4, eerste lid, onderdeel d | 3 |
+| Artikel 2.4, eerste lid, onderdeel e | 3 |
+| Artikel 2.4, eerste lid, onderdeel g, voor zover dat onderdeel betrekking heeft op de artikelen 2 en 4 van verordening (EG) nr. 2075/2005 | 4 |
+| Artikel 2.5 | 3 |
 | Artikel 3.3, eerste lid, onderdeel a, voor zover dat artikel betrekking heeft op de artikelen 4, eerste lid, 11, eerste lid, onderdeel c, 14, 21, eerste tot en met derde lid, 22, eerste en tweede lid, 23, eerste en tweede lid, 24, 25, 26, eerste en tweede lid, 28, 29, eerste tot en met derde lid, 31, eerste lid, 32, eerste lid, 35, 36, 41, eerste lid en tweede lid, onderdelen c en d, en 48, eerste, vierde en vijfde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 3 |
 | Artikel 3.3, eerste lid, onderdeel a, voor zover dat artikel betrekking heeft op de artikelen 6, eerste lid, 11, eerste lid, onderdelen a, b en d, 12, 13, 43, eerste tot en met derde lid, en 44, derde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 4 |
 | Artikel 3.3, eerste lid, onderdeel b, voor zover dat artikel betrekking heeft op de artikelen 3, 5, tweede lid, 6, derde, vierde en vijfde lid, 10, eerste lid, 11, tweede en derde lid, 12, tweede en derde lid, 13, 15, 17, 19, onderdelen b en c, 20, eerste en tweede lid, 22, eerste lid, 23, 24, 25, eerste en derde lid, 27, tweede en derde lid, 28, tweede en vierde lid, van verordening (EU) nr. 142/2011 | 3 |
