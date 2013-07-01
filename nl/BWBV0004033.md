@@ -4,7 +4,7 @@ identifier: "BWBV0004033"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2009-12-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004033"
 soort: "verdrag"
@@ -1140,7 +1140,7 @@ Vervallen
 
 Het Comité moet worden geraadpleegd in de door dit Verdrag bepaalde gevallen. Het kan worden geraadpleegd in alle gevallen waarin de Commissie dit gewenst acht.
 
-2. Het Comité bestaat uit eenenveertig leden, benoemd door de Raad na raadpleging van de Commissie.
+2. Het comité bestaat uit tweeënveertig leden, benoemd door de Raad na raadpleging van de Commissie.
 
 De leden van het Comité worden in hun persoonlijke hoedanigheid benoemd voor de tijd van vijf jaar. Zij zijn herbenoembaar. Zij mogen niet gebonden zijn door enig imperatief mandaat.
 
@@ -1694,7 +1694,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ned
 
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
-Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
+Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Kroatische, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse, de Tsjechische en de Zweedse taal eveneens gelijkelijk authentiek.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
 
