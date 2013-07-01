@@ -4,7 +4,7 @@ identifier: "BWBR0032394"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2013-02-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032394"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
 ##### Artikel V
 
-Op een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=1), blijft de [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876) van toepassing zoals die vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032394&artikel=II&z=2013-02-01&g=2013-02-01) van deze wet luidde, voor zover de uit dat beperkingenbesluit voortvloeiende publiekrechtelijke beperking onmiddellijk voor dat tijdstip nog van kracht was.
+Op een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=1), blijft de [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876) van toepassing zoals die vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032394&artikel=II&z=2013-07-01&g=2013-07-01) van deze wet luidde, voor zover de uit dat beperkingenbesluit voortvloeiende publiekrechtelijke beperking onmiddellijk voor dat tijdstip nog van kracht was.
 
 ##### Artikel VI
 
