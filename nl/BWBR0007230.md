@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -86,11 +86,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-07-01&g=2013-07-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2013-07-01&g=2013-07-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-07-01&g=2013-07-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -124,7 +124,7 @@ Vervallen
 
 4. Het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ wordt overgeheveld met een structurele uitname uit het gemeentefonds.
 
-5. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+5. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing.
 
 6. Het Rijk voldoet zijn aandeel in de begrote kosten binnen vier weken na vaststelling van de begroting aan de Waarderingskamer.
 
@@ -144,7 +144,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01) bedoelde gegevens aan de afnemers of aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ. Met de levering van de in artikel 7 bedoelde gegevens aan de Dienst heeft het college van burgemeester en wethouders aan de leveringsplicht richting de afnemers voldaan.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2013-07-01&g=2013-07-01) bedoelde gegevens aan de afnemers of aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ. Met de levering van de in artikel 7 bedoelde gegevens aan de Dienst heeft het college van burgemeester en wethouders aan de leveringsplicht richting de afnemers voldaan.
 
 2. De levering van gegevens aan de afnemers of aan de Dienst vindt plaats:
 
@@ -174,7 +174,7 @@ Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven op grond
 
 - c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken;
 
-- d. de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in [artikel 70l van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70l);
+- d. de Minister voor Wonen en Rijksdienst ten behoeve van de uitoefening van zijn wettelijke taken, bedoeld in [artikel 70l van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70l);
 
 - e. Staatsbosbeheer ten behoeve van de vaststelling van de waarde van onroerende zaken die in erfpacht of opstal zijn of worden uitgegeven;
 
