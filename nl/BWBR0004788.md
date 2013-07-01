@@ -4,7 +4,7 @@ identifier: "BWBR0004788"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "2010-10-10"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004788"
 soort: "rijkswet"
@@ -44,39 +44,39 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-De zowel in deze wet als in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) voorkomende uitdrukkingen hebben in beide dezelfde betekenis. [Artikel 61 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=61) is van toepassing.
+De zowel in deze rijkswet als in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) voorkomende uitdrukkingen hebben in beide dezelfde betekenis. [Artikel 61 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=61) is van toepassing.
 
 ##### Artikel 2
 
-De straffen, in deze wet voorzien, zijn van toepassing op de militair die een gedragsregel van deze wet schendt.
+De straffen, in deze rijkswet voorzien, zijn van toepassing op de militair die een gedragsregel van deze rijkswet schendt.
 
 ##### Artikel 3
 
-1. De gedragsregels van deze wet zijn van toepassing:
+1. De gedragsregels van deze rijkswet zijn van toepassing:
 
 - a. gedurende de tijd waarin de militair dienst doet of behoort te doen;
 
 - b. op een militaire plaats;
 
-- c. anders dan in de gevallen, genoemd onder **a** en **b**, indien en voorzover de wet de toepassing voorschrijft.
+- c. anders dan in de gevallen, genoemd onder a en b, indien en voorzover de rijkswet de toepassing voorschrijft.
 
-2. Onder de tijd waarin de militair dienst doet of behoort te doen, wordt in deze wet mede verstaan de tijd waarin de militair in uniform gekleed gaat.
+2. Onder de tijd waarin de militair dienst doet of behoort te doen, wordt in deze rijkswet mede verstaan de tijd waarin de militair in uniform gekleed gaat.
 
-3. Onder militaire plaats wordt in deze wet verstaan een gebouw, terrein, vaartuig, luchtvaartuig of voertuig, dat in gebruik is bij of ten behoeve van de krijgsmacht, of dat de militair tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband of waar de militair zich in krijgsgevangenschap bevindt.
+3. Onder militaire plaats wordt in deze rijkswet verstaan een gebouw, terrein, vaartuig, luchtvaartuig of voertuig, dat in gebruik is bij of ten behoeve van de krijgsmacht, of dat de militair tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband of waar de militair zich in krijgsgevangenschap bevindt.
 
 ##### Artikel 4
 
-1. In deze wet wordt onder commandant verstaan de militair die ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2010-10-10&g=2010-10-10) tot straffen bevoegd is.
+1. In deze rijkswet wordt onder commandant verstaan de militair die ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2013-07-01&g=2013-07-01) tot straffen bevoegd is.
 
-2. In deze wet wordt onder beklagmeerdere verstaan de onmiddellijk boven de commandant gestelde bevelvoerende meerdere. Onze Minister van Defensie kan bij ministeriële regeling andere militairen aanwijzen als beklagmeerderen. In dat geval treedt de onmiddellijk boven de commandant gestelde bevelvoerende meerdere niet meer op als beklagmeerdere.
+2. In deze rijkswet wordt onder beklagmeerdere verstaan de onmiddellijk boven de commandant gestelde bevelvoerende meerdere. Onze Minister van Defensie kan bij ministeriële regeling andere militairen aanwijzen als beklagmeerderen. In dat geval treedt de onmiddellijk boven de commandant gestelde bevelvoerende meerdere niet meer op als beklagmeerdere.
 
 ##### Artikel 5
 
-In deze wet wordt onder beschuldigde verstaan de militair aan wie een beschuldiging is uitgereikt op grond van het op feiten of omstandigheden gebaseerde vermoeden dat hij een in deze wet omschreven gedragsregel heeft geschonden.
+In deze rijkswet wordt onder beschuldigde verstaan de militair aan wie een beschuldiging is uitgereikt op grond van het op feiten of omstandigheden gebaseerde vermoeden dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden.
 
 ##### Artikel 5a
 
-Indien een Nederlandse militair behoort tot een internationaal militair samenwerkingsverband wordt ten aanzien van die Nederlandse militair voor de toepassing van [Hoofdstuk II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&z=2010-10-10&g=2010-10-10) mede verstaan onder:
+Indien een Nederlandse militair behoort tot een internationaal militair samenwerkingsverband wordt ten aanzien van die Nederlandse militair voor de toepassing van [Hoofdstuk II van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&z=2013-07-01&g=2013-07-01) mede verstaan onder:
 
 - a. andere militair: de vreemde militair die behoort tot dat internationaal militair samenwerkingsverband;
 
@@ -192,9 +192,9 @@ In strijd met de militaire tucht gedraagt zich de militair die een mededeling, d
 
 1. In strijd met de militaire tucht gedraagt zich de militair die door gift, belofte, bedreiging of misleiding een andere militair:
 
-- a. weerhoudt van het ter kennis van de commandant brengen van een inbreuk op een gedragsregel, omschreven in deze wet;
+- a. weerhoudt van het ter kennis van de commandant brengen van een inbreuk op een gedragsregel, omschreven in deze rijkswet;
 
-- b. overhaalt tot het valselijk ter kennis van de commandant brengen van een inbreuk op een gedragsregel, omschreven in deze wet;
+- b. overhaalt tot het valselijk ter kennis van de commandant brengen van een inbreuk op een gedragsregel, omschreven in deze rijkswet;
 
 - c. overhaalt tot of weerhoudt van het instellen van beroep, het doen van een beklag of het indienen van een verzoek.
 
@@ -202,7 +202,7 @@ In strijd met de militaire tucht gedraagt zich de militair die een mededeling, d
 
 ##### Artikel 27
 
-In strijd met de militaire tucht gedraagt zich de militair die, wetende dat een mindere inbreuk maakt of heeft gemaakt op een gedragsregel van deze wet, nalaat maatregelen te nemen.
+In strijd met de militaire tucht gedraagt zich de militair die, wetende dat een mindere inbreuk maakt of heeft gemaakt op een gedragsregel van deze rijkswet, nalaat maatregelen te nemen.
 
 ##### Artikel 28
 
@@ -216,7 +216,7 @@ In strijd met de militaire tucht gedraagt zich de militair die wanordelijkheden 
 
 ##### Artikel 30
 
-1. In strijd met de militaire tucht gedraagt zich de militair die een andere militair mondeling of bij geschrifte opruit tot een inbreuk op enige in deze wet omschreven gedragsregel, alsmede de militair die een dergelijk geschrift verspreidt.
+1. In strijd met de militaire tucht gedraagt zich de militair die een andere militair mondeling of bij geschrifte opruit tot een inbreuk op enige in deze rijkswet omschreven gedragsregel, alsmede de militair die een dergelijk geschrift verspreidt.
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
@@ -352,9 +352,9 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 4. Een militair ondergaat per kalendermaand de straf van uitgaansverbod niet gedurende meer dan acht dagen, en voor zover de tenuitvoerlegging geheel of ten dele in het weekend plaatsvindt, gedurende niet meer dan twee opeenvolgende weekenden.
 
-5. Het [derde, vijfde, zevende, achtste, negende, tiende en elfde lid van artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=47&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing. Het [zesde lid van artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=47&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing met dien verstande dat de tenuitvoerlegging ook plaatsvindt op vrije dagen niet zijnde verlofdagen.
+5. Het [derde, vijfde, zevende, achtste, negende, tiende en elfde lid van artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=47&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing. Het [zesde lid van artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=47&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing met dien verstande dat de tenuitvoerlegging ook plaatsvindt op vrije dagen niet zijnde verlofdagen.
 
-6. Ingeval schending van de gedragsregel van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) wordt afgedaan met toepassing van [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2010-10-10&g=2010-10-10), of indien er nog geen 90 dagen zijn verlopen nadat aan de militair een uitspraak is uitgereikt waarin hij schuldig werd verklaard aan schending van diezelfde gedragsregel is, indien de straf van uitgaansverbod wordt opgelegd, in afwijking van het derde en vierde lid, het aantal op te leggen dagen ten hoogste acht en het aantal in een kalendermaand te ondergane dagen uitgaansverbod ten hoogste twaalf.
+6. Ingeval schending van de gedragsregel van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=2&artikel=7&z=2013-07-01&g=2013-07-01) wordt afgedaan met toepassing van [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2013-07-01&g=2013-07-01), of indien er nog geen 90 dagen zijn verlopen nadat aan de militair een uitspraak is uitgereikt waarin hij schuldig werd verklaard aan schending van diezelfde gedragsregel is, indien de straf van uitgaansverbod wordt opgelegd, in afwijking van het derde en vierde lid, het aantal op te leggen dagen ten hoogste acht en het aantal in een kalendermaand te ondergane dagen uitgaansverbod ten hoogste twaalf.
 
 ### Hoofdstuk IV. Strafbevoegdheid
 
@@ -368,13 +368,13 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 2. Aan boord van een oorlogsschip komt de bevoegdheid tot het opleggen van straffen aan militairen, die op dat schip zijn ingescheept, uitsluitend toe aan de bevelvoerende militair van dat schip.
 
-3. Indien een bevelvoerende militair als bedoeld in het eerste lid, onder a of b, zelf degene is van wie wordt vermoed dat hij een in deze wet omschreven gedragsregel heeft geschonden, komt de bevoegdheid tot het opleggen van straffen toe aan de onmiddellijk boven hem gestelde bevelvoerende meerdere.
+3. Indien een bevelvoerende militair als bedoeld in het eerste lid, onder a of b, zelf degene is van wie wordt vermoed dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden, komt de bevoegdheid tot het opleggen van straffen toe aan de onmiddellijk boven hem gestelde bevelvoerende meerdere.
 
-4. De bevoegdheid tot het opleggen van straffen komt toe aan de onmiddellijk boven een in het eerste lid bedoelde bevelvoerende militair gestelde bevelvoerende meerdere indien het betreft een in een van de [artikelen 20-23](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=6&artikel=20&z=2010-10-10&g=2010-10-10) omschreven gedraging tegen de persoon van de in het eerste lid bedoelde bevelvoerende militair.
+4. De bevoegdheid tot het opleggen van straffen komt toe aan de onmiddellijk boven een in het eerste lid bedoelde bevelvoerende militair gestelde bevelvoerende meerdere indien het betreft een in een van de [artikelen 20-23](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=6&artikel=20&z=2013-07-01&g=2013-07-01) omschreven gedraging tegen de persoon van de in het eerste lid bedoelde bevelvoerende militair.
 
-5. Indien een militair van wie wordt vermoed dat hij een in deze wet omschreven gedragsregel heeft geschonden hoger of ouder in rang is dan de in het eerste lid bedoelde bevelvoerende militair komt de bevoegdheid tot het opleggen van straffen toe aan de onmiddellijk boven laatstbedoelde militair gestelde bevelvoerende meerdere van hogere rang dan eerstbedoelde militair.
+5. Indien een militair van wie wordt vermoed dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden hoger of ouder in rang is dan de in het eerste lid bedoelde bevelvoerende militair komt de bevoegdheid tot het opleggen van straffen toe aan de onmiddellijk boven laatstbedoelde militair gestelde bevelvoerende meerdere van hogere rang dan eerstbedoelde militair.
 
-6. Indien in de gevallen bedoeld in het derde, vierde of vijfde lid de aldaar aangewezen bevelvoerende militair geen tuchtproces kan doen aanvangen binnen de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2010-10-10&g=2010-10-10), genoemde termijn, wordt:
+6. Indien in de gevallen bedoeld in het derde, vierde of vijfde lid de aldaar aangewezen bevelvoerende militair geen tuchtproces kan doen aanvangen binnen de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2013-07-01&g=2013-07-01), genoemde termijn, wordt:
 
 - a. het tuchtproces gehouden door de in het eerste lid bedoelde bevelvoerende militair zelf in het geval bedoeld in het vierde lid;
 
@@ -382,13 +382,13 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 ##### Artikel 50
 
-1. De bevoegdheid om, hetzij de tenuitvoerlegging van een straf van een geldboete hoger dan € 35, ANG 75, AWG 75, onderscheidenlijk USD 42, van strafdienst of van uitgaansverbod op te schorten of te schorsen, hetzij, na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), en buiten het geval dat tegen de uitspraak beklag is gedaan, een strafoplegging teniet te doen, te wijzigen in de straf van berisping, binnen de opgelegde strafsoort de strafmaat te verminderen of te wijzigen in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2010-10-10&g=2010-10-10), komt toe aan:
+1. De bevoegdheid om, hetzij de tenuitvoerlegging van een straf van een geldboete hoger dan € 35, ANG 75, AWG 75, onderscheidenlijk USD 42, van strafdienst of van uitgaansverbod op te schorten of te schorsen, hetzij, na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), en buiten het geval dat tegen de uitspraak beklag is gedaan, een strafoplegging teniet te doen, te wijzigen in de straf van berisping, binnen de opgelegde strafsoort de strafmaat te verminderen of te wijzigen in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2013-07-01&g=2013-07-01), komt toe aan:
 
 - a. de commandant;
 
 - b. de beklagmeerdere.
 
-2. Bij tenietdoening of vermindering van de straf dan wel wijziging in de straf van berisping of in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2010-10-10&g=2010-10-10), is [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=98&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, met dien verstande dat voor gerecht wordt gelezen degene die vermindert, teniet doet, wijzigt of beslist geen straf op te leggen.
+2. Bij tenietdoening of vermindering van de straf dan wel wijziging in de straf van berisping of in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2013-07-01&g=2013-07-01), is [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=98&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing, met dien verstande dat voor gerecht wordt gelezen degene die vermindert, teniet doet, wijzigt of beslist geen straf op te leggen.
 
 ### Hoofdstuk V. Het tuchtproces
 
@@ -398,7 +398,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 ##### Artikel 51
 
-1. Het tuchtproces in eerste aanleg vangt aan met de uitreiking door of namens de commandant aan de militair, van wie wordt vermoed dat hij een in deze wet omschreven gedragsregel heeft geschonden, van een schriftelijk stuk, de beschuldiging, hetwelk een omschrijving inhoudt van deze schending.
+1. Het tuchtproces in eerste aanleg vangt aan met de uitreiking door of namens de commandant aan de militair, van wie wordt vermoed dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden, van een schriftelijk stuk, de beschuldiging, hetwelk een omschrijving inhoudt van deze schending.
 
 2. De commandant behoudt een afschrift van de beschuldiging.
 
@@ -406,7 +406,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 4. Terzake van dezelfde gedraging kan slechts eenmaal een beschuldiging worden uitgereikt.
 
-5. Wijziging van de beschuldiging is voor de aanvang van het onderzoek mogelijk. In geen geval worden wijzigingen toegelaten die ten gevolge hebben dat de beschuldiging niet langer dezelfde gedraging in de zin van [artikel 52, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=52&z=2010-10-10&g=2010-10-10) zou inhouden. De wijziging wordt onverwijld, doch in ieder geval voor de aanvang van het onderzoek, aan de beschuldigde schriftelijk meegedeeld.
+5. Wijziging van de beschuldiging is voor de aanvang van het onderzoek mogelijk. In geen geval worden wijzigingen toegelaten die ten gevolge hebben dat de beschuldiging niet langer dezelfde gedraging in de zin van [artikel 52, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=52&z=2013-07-01&g=2013-07-01) zou inhouden. De wijziging wordt onverwijld, doch in ieder geval voor de aanvang van het onderzoek, aan de beschuldigde schriftelijk meegedeeld.
 
 ##### Artikel 52
 
@@ -422,7 +422,7 @@ De beschuldiging vermeldt:
 
 ##### Artikel 53
 
-1. Behoudens [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2010-10-10&g=2010-10-10), wordt geen beschuldiging uitgereikt indien er 21 dagen zijn verlopen nadat de gedraging heeft plaatsgevonden of, voor zover het betreft een vermoedelijke schending van een van de gedragsregels omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=6&artikel=23&z=2010-10-10&g=2010-10-10), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=7&artikel=26&z=2010-10-10&g=2010-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=37&z=2010-10-10&g=2010-10-10) of [39](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=39&z=2010-10-10&g=2010-10-10), indien er 21 dagen zijn verlopen nadat de gedraging werd ontdekt of, indien toepassing is gegeven aan [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2010-10-10&g=2010-10-10), of [79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2010-10-10&g=2010-10-10), indien er 21 dagen zijn verlopen nadat de beslissing van het openbaar ministerie ter kennis is gekomen van de commandant.
+1. Behoudens [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2013-07-01&g=2013-07-01), wordt geen beschuldiging uitgereikt indien er 21 dagen zijn verlopen nadat de gedraging heeft plaatsgevonden of, voor zover het betreft een vermoedelijke schending van een van de gedragsregels omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=1&artikel=6&z=2013-07-01&g=2013-07-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=6&artikel=23&z=2013-07-01&g=2013-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=7&artikel=26&z=2013-07-01&g=2013-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=37&z=2013-07-01&g=2013-07-01) of [39](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=39&z=2013-07-01&g=2013-07-01), indien er 21 dagen zijn verlopen nadat de gedraging werd ontdekt of, indien toepassing is gegeven aan [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2013-07-01&g=2013-07-01), of [79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2013-07-01&g=2013-07-01), indien er 21 dagen zijn verlopen nadat de beslissing van het openbaar ministerie ter kennis is gekomen van de commandant.
 
 2. Geen beschuldiging wordt uitgereikt aan degene die feitelijk niet meer onder de wapenen verblijft.
 
@@ -432,7 +432,7 @@ De beschuldiging vermeldt:
 
 5. Geen beschuldiging wordt uitgereikt indien uit feiten of omstandigheden blijkt of redelijkerwijze moet worden vermoed dat er 60 dagen zijn verlopen nadat de gedraging heeft plaatsgevonden.
 
-6. Ingeval toepassing is gegeven aan [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2010-10-10&g=2010-10-10), of [79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2010-10-10&g=2010-10-10), wordt de in het vijfde lid genoemde termijn met 30 dagen verlengd.
+6. Ingeval toepassing is gegeven aan [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2013-07-01&g=2013-07-01), of [79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2013-07-01&g=2013-07-01), wordt de in het vijfde lid genoemde termijn met 30 dagen verlengd.
 
 7. Een beschuldiging, uitgereikt in strijd met de voorgaande leden, wordt ingetrokken.
 
@@ -440,17 +440,17 @@ De beschuldiging vermeldt:
 
 1. Het tuchtproces in eerste aanleg eindigt:
 
-- a. met een beslissing als bedoeld in de [artikelen 53, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2010-10-10&g=2010-10-10), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2010-10-10&g=2010-10-10), [78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2010-10-10&g=2010-10-10), of [80, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2010-10-10&g=2010-10-10);
+- a. met een beslissing als bedoeld in de [artikelen 53, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2013-07-01&g=2013-07-01), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2013-07-01&g=2013-07-01), [78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2013-07-01&g=2013-07-01), of [80, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2013-07-01&g=2013-07-01);
 
-- b. van rechtswege indien er na 21 dagen sedert de aanvang van het tuchtproces geen beslissing is genomen als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2010-10-10&g=2010-10-10), behoudens de verlenging van deze termijn ingevolge de [artikelen 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2010-10-10&g=2010-10-10), [64, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=64&z=2010-10-10&g=2010-10-10), of [80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2010-10-10&g=2010-10-10);
+- b. van rechtswege indien er na 21 dagen sedert de aanvang van het tuchtproces geen beslissing is genomen als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2013-07-01&g=2013-07-01), behoudens de verlenging van deze termijn ingevolge de [artikelen 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2013-07-01&g=2013-07-01), [64, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=64&z=2013-07-01&g=2013-07-01), of [80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2013-07-01&g=2013-07-01);
 
 - c. van rechtswege bij ontslag uit de militaire dienst.
 
-2. Behoudens in het geval uitspraak is gedaan als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2010-10-10&g=2010-10-10), deelt de commandant aan de beschuldigde schriftelijk mee dat het tuchtproces is geëindigd.
+2. Behoudens in het geval uitspraak is gedaan als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2013-07-01&g=2013-07-01), deelt de commandant aan de beschuldigde schriftelijk mee dat het tuchtproces is geëindigd.
 
 ##### Artikel 55
 
-Het feitelijk verblijf onder de wapenen kan door de beklagmeerdere worden verlengd voor het houden van een tuchtproces in eerste aanleg, behoudens in het geval bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2010-10-10&g=2010-10-10).
+Het feitelijk verblijf onder de wapenen kan door de beklagmeerdere worden verlengd voor het houden van een tuchtproces in eerste aanleg, behoudens in het geval bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2013-07-01&g=2013-07-01).
 
 #### § 2. De vertrouwensman
 
@@ -474,7 +474,7 @@ Medebeschuldigden in dezelfde zaak worden niet als vertrouwensman toegelaten.
 
 1. De commandant kan de vertrouwensman voor de verdere duur van het tuchtproces in eerste aanleg uitsluiten wegens verstoring van de ordelijke behandeling van de zaak.
 
-2. Ingeval van uitsluiting van zijn vertrouwensman wordt de beschuldigde op zijn verzoek in de gelegenheid gesteld binnen 24 uur een nieuwe vertrouwensman te kiezen. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2010-10-10&g=2010-10-10), wordt in dat geval met een dag verlengd.
+2. Ingeval van uitsluiting van zijn vertrouwensman wordt de beschuldigde op zijn verzoek in de gelegenheid gesteld binnen 24 uur een nieuwe vertrouwensman te kiezen. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2013-07-01&g=2013-07-01), wordt in dat geval met een dag verlengd.
 
 ##### Artikel 60
 
@@ -484,7 +484,7 @@ Het optreden als vertrouwensman is dienst.
 
 ##### Artikel 61
 
-1. De commandant kan de beschuldigde doen horen ter voorbereiding van het onderzoek. [Artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=67&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+1. De commandant kan de beschuldigde doen horen ter voorbereiding van het onderzoek. [Artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=67&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing.
 
 2. De commandant kan getuigen en deskundigen horen of doen horen in ieder stadium van het tuchtproces.
 
@@ -508,7 +508,7 @@ De beschuldigde en zijn vertrouwensman kunnen na de uitreiking van de beschuldig
 
 1. De beschuldigde is verplicht te verschijnen.
 
-2. Indien de beschuldigde niet verschijnt wegens een gewichtige reden van verhindering, schort de commandant het onderzoek op of schorst hij dit. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2010-10-10&g=2010-10-10), wordt in dat geval voor de duur van de opschorting of schorsing, doch ten hoogste 21 dagen verlengd.
+2. Indien de beschuldigde niet verschijnt wegens een gewichtige reden van verhindering, schort de commandant het onderzoek op of schorst hij dit. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2013-07-01&g=2013-07-01), wordt in dat geval voor de duur van de opschorting of schorsing, doch ten hoogste 21 dagen verlengd.
 
 3. Indien de beschuldigde niet verschijnt zonder een gewichtige reden van verhindering, schort de commandant het onderzoek op of schorst hij dit voor bepaalde tijd en wordt de beschuldigde nogmaals schriftelijk opgeroepen. Hij is bevoegd de medebrenging van de beschuldigde te gelasten. De tweede volzin van het voorgaande lid is van toepassing.
 
@@ -580,13 +580,13 @@ Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
 ##### Artikel 73
 
-Na sluiting van het onderzoek beraadt de commandant zich of hij door de inhoud van de in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=5&artikel=70&z=2010-10-10&g=2010-10-10) genoemde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de beschuldigde heeft plaatsgevonden en, in bevestigend geval, of zulks de schending van een gedragsregel oplevert.
+Na sluiting van het onderzoek beraadt de commandant zich of hij door de inhoud van de in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=5&artikel=70&z=2013-07-01&g=2013-07-01) genoemde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de beschuldigde heeft plaatsgevonden en, in bevestigend geval, of zulks de schending van een gedragsregel oplevert.
 
 ##### Artikel 74
 
 1. Is de commandant van oordeel dat een gedragsregel is geschonden, dan beraadt hij zich over de oplegging van straf.
 
-2. Acht de commandant de beschuldigde strafbaar, dan legt hij een straf voorzien in deze wet op.
+2. Acht de commandant de beschuldigde strafbaar, dan legt hij een straf voorzien in deze rijkswet op.
 
 3. Indien de commandant dit in verband met de geringe betekenis van de gedraging of gelet op de persoon van de beschuldigde of zijn persoonlijke omstandigheden raadzaam acht, legt hij geen straf op.
 
@@ -594,7 +594,7 @@ Na sluiting van het onderzoek beraadt de commandant zich of hij door de inhoud v
 
 ##### Artikel 75
 
-Bij bestraffing van een militair die een of meer in deze wet genoemde gedragsregels heeft geschonden, wordt slechts een straf opgelegd.
+Bij bestraffing van een militair die een of meer in deze rijkswet genoemde gedragsregels heeft geschonden, wordt slechts een straf opgelegd.
 
 ##### Artikel 76
 
@@ -626,23 +626,23 @@ De uitspraak vermeldt in ieder geval:
 
 ##### Artikel 79
 
-1. Indien een gedraging naar het oordeel van de commandant een van de strafbare feiten oplevert omschreven in de [artikelen 267, aanhef en onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267), [300, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [311, aanhef en onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321) of [350 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350) of omschreven in de [artikelen 96, aanhef en onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96), [98, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=166) of [169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) met dien verstande dat de duur van de in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96) en [98 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98) genoemde ongeoorloofde afwezigheid ten hoogste acht dagen is en het openbaar ministerie bij het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), bedoelde gerecht de commandant mededeelt dat het voorshands instemt met tuchtrechtelijke afdoening, kan de commandant een beschuldiging uitreiken, voor zover de gedraging tevens de schending van een gedragsregel van deze wet inhoudt. Van de mededeling van het openbaar ministerie wordt aantekening gedaan in het stuk, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2010-10-10&g=2010-10-10).
+1. Indien een gedraging naar het oordeel van de commandant een van de strafbare feiten oplevert omschreven in de [artikelen 267, aanhef en onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267), [300, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [311, eerste lid, aanhef en onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321) of [350 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350) of omschreven in de [artikelen 96, aanhef en onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96), [98, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=166) of [169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) met dien verstande dat de duur van de in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96) en [98 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98) genoemde ongeoorloofde afwezigheid ten hoogste acht dagen is en het openbaar ministerie bij het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), bedoelde gerecht de commandant mededeelt dat het voorshands instemt met tuchtrechtelijke afdoening, kan de commandant een beschuldiging uitreiken, voor zover de gedraging tevens de schending van een gedragsregel van deze rijkswet inhoudt. Van de mededeling van het openbaar ministerie wordt aantekening gedaan in het stuk, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2013-07-01&g=2013-07-01).
 
-2. De commandant zendt na het einde van het tuchtproces in eerste aanleg bericht omtrent de afloop daarvan aan het openbaar ministerie bij het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), bedoelde gerecht.
+2. De commandant zendt na het einde van het tuchtproces in eerste aanleg bericht omtrent de afloop daarvan aan het openbaar ministerie bij het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), bedoelde gerecht.
 
-3. De toepassing van het bepaalde in het eerste lid doet niet af aan het formele recht tot strafvordering van het openbaar ministerie. Indien het strafbare feit wordt afgedaan met toepassing van [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of indien een vervolging terzake leidt tot een schuldigverklaring door de rechter, wordt bij het stellen van voorwaarden onderscheidenlijk bij de oplegging van een straf rekening gehouden met de wegens de schending van een gedragsregel van deze wet opgelegde straf.
+3. De toepassing van het bepaalde in het eerste lid doet niet af aan het formele recht tot strafvordering van het openbaar ministerie. Indien het strafbare feit wordt afgedaan met toepassing van [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of indien een vervolging terzake leidt tot een schuldigverklaring door de rechter, wordt bij het stellen van voorwaarden onderscheidenlijk bij de oplegging van een straf rekening gehouden met de wegens de schending van een gedragsregel van deze rijkswet opgelegde straf.
 
 ##### Artikel 80
 
-1. Indien de commandant gedurende het tuchtproces meent dat een in de beschuldiging omschreven gedraging niet de schending van een dienstvoorschrift oplevert, omdat dit dienstvoorschrift naar zijn oordeel in strijd is met een hogere regeling, schorst hij het tuchtproces, voorzover het deze gedraging betreft. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2010-10-10&g=2010-10-10), wordt in dat geval met de duur van de schorsing verlengd.
+1. Indien de commandant gedurende het tuchtproces meent dat een in de beschuldiging omschreven gedraging niet de schending van een dienstvoorschrift oplevert, omdat dit dienstvoorschrift naar zijn oordeel in strijd is met een hogere regeling, schorst hij het tuchtproces, voorzover het deze gedraging betreft. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2013-07-01&g=2013-07-01), wordt in dat geval met de duur van de schorsing verlengd.
 
-2. Hij roept over de vermeende strijdigheid schriftelijk de beslissing in van het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), bedoelde gerecht onder overlegging van de op de zaak betrekking hebbende stukken.
+2. Hij roept over de vermeende strijdigheid schriftelijk de beslissing in van het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), bedoelde gerecht onder overlegging van de op de zaak betrekking hebbende stukken.
 
 3. Indien het gerecht beslist dat het dienstvoorschrift niet in strijd is met een hogere regeling, deelt het deze beslissing mee aan de commandant. Deze hervat het tuchtproces met inachtneming van die beslissing.
 
-4. Indien het tuchtproces terzake van andere gedragingen inmiddels is voortgezet en geëindigd met een uitspraak, hervat de commandant, nadat hij de beslissing van het gerecht heeft ontvangen, het op grond van het eerste lid geschorste tuchtproces. De commandant neemt daarbij de door hem gegeven uitspraak in acht. [Artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=75&z=2010-10-10&g=2010-10-10) is niet van toepassing met dien verstande dat een op te leggen straf gelijksoortig moet zijn aan de al opgelegde straf en het totaal het maximum niet te boven mag gaan.
+4. Indien het tuchtproces terzake van andere gedragingen inmiddels is voortgezet en geëindigd met een uitspraak, hervat de commandant, nadat hij de beslissing van het gerecht heeft ontvangen, het op grond van het eerste lid geschorste tuchtproces. De commandant neemt daarbij de door hem gegeven uitspraak in acht. [Artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=75&z=2013-07-01&g=2013-07-01) is niet van toepassing met dien verstande dat een op te leggen straf gelijksoortig moet zijn aan de al opgelegde straf en het totaal het maximum niet te boven mag gaan.
 
-5. Indien de commandant reeds een beslissing heeft genomen als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2010-10-10&g=2010-10-10), of de straf van berisping heeft opgelegd, kan alsnog een straf of een andere straf worden opgelegd.
+5. Indien de commandant reeds een beslissing heeft genomen als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2013-07-01&g=2013-07-01), of de straf van berisping heeft opgelegd, kan alsnog een straf of een andere straf worden opgelegd.
 
 6. Indien het gerecht beslist dat het dienstvoorschrift waaromtrent zijn beslissing is gevraagd in strijd is met een hogere regeling, spreekt het de beschuldigde vrij met betrekking tot de in het eerste lid bedoelde gedraging.
 
@@ -656,7 +656,7 @@ De uitspraak vermeldt in ieder geval:
 
 1. De gestrafte kan binnen vijf dagen na de uitreiking van het afschrift van de uitspraak beklag doen bij de beklagmeerdere.
 
-2. Onder de gestrafte wordt mede verstaan degene ten wiens aanzien een beslissing is genomen als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2010-10-10&g=2010-10-10).
+2. Onder de gestrafte wordt mede verstaan degene ten wiens aanzien een beslissing is genomen als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2013-07-01&g=2013-07-01).
 
 3. De gestrafte kan in beklag ook de beslissing van de commandant met betrekking tot de wijze van tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod aan het oordeel van de beklagmeerdere onderwerpen.
 
@@ -676,7 +676,7 @@ De uitspraak vermeldt in ieder geval:
 
 ##### Artikel 80d
 
-1. Indien het beklagschrift na de beklagtermijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), is ingediend, verklaart de beklagmeerdere het beklag niet ontvankelijk. Deze verklaring wordt vastgelegd in een schriftelijk stuk dat aan de gestrafte wordt uitgereikt. De datum van de uitreiking wordt op het schriftelijk stuk aangetekend.
+1. Indien het beklagschrift na de beklagtermijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), is ingediend, verklaart de beklagmeerdere het beklag niet ontvankelijk. Deze verklaring wordt vastgelegd in een schriftelijk stuk dat aan de gestrafte wordt uitgereikt. De datum van de uitreiking wordt op het schriftelijk stuk aangetekend.
 
 2. Ten aanzien van een na afloop van de beklagtermijn ingediend beklagschrift blijft niet-ontvankelijkverklaring achterwege indien redelijkerwijs niet kan worden geoordeeld dat de gestrafte in verzuim is geweest. Een beslissing ter zake is gemotiveerd.
 
@@ -684,13 +684,13 @@ De uitspraak vermeldt in ieder geval:
 
 1. De gestrafte kan zich in ieder stadium van de beklagprocedure doen bijstaan door een vertrouwensman.
 
-2. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=57&z=2010-10-10&g=2010-10-10), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=58&z=2010-10-10&g=2010-10-10), [59, met uitzondering van de laatste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2010-10-10&g=2010-10-10), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=60&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing met dien verstande dat voor commandant wordt gelezen beklagmeerdere.
+2. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=57&z=2013-07-01&g=2013-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=58&z=2013-07-01&g=2013-07-01), [59, met uitzondering van de laatste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2013-07-01&g=2013-07-01), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=60&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing met dien verstande dat voor commandant wordt gelezen beklagmeerdere.
 
 ##### Artikel 80f
 
 1. De beklagmeerdere kan de gestrafte doen horen ter voorbereiding van het onderzoek op beklag.
 
-2. De gestrafte is verplicht te verschijnen. [Artikel 80i, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80i&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. De gestrafte is niet verplicht te antwoorden. Dit wordt hem voor of bij aanvang van het ter voorbereiding horen ter kennis gebracht.
+2. De gestrafte is verplicht te verschijnen. [Artikel 80i, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80i&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing. De gestrafte is niet verplicht te antwoorden. Dit wordt hem voor of bij aanvang van het ter voorbereiding horen ter kennis gebracht.
 
 3. De beklagmeerdere kan de commandant, getuigen en deskundigen horen of doen horen in ieder stadium van de beklagprocedure.
 
@@ -706,19 +706,19 @@ De uitspraak vermeldt in ieder geval:
 
 ##### Artikel 80h
 
-1. De gestrafte wordt door of namens de beklagmeerdere schriftelijk opgeroepen voor het onderzoek op beklag. Dit onderzoek vangt niet eerder aan dan op de tweede dag na de dag waarop de oproeping aan de gestrafte is uitgereikt, tenzij de gestrafte om eerdere behandeling verzoekt.[Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=3&artikel=62&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing met dien verstande dat voor beschuldiging wordt gelezen oproeping.
+1. De gestrafte wordt door of namens de beklagmeerdere schriftelijk opgeroepen voor het onderzoek op beklag. Dit onderzoek vangt niet eerder aan dan op de tweede dag na de dag waarop de oproeping aan de gestrafte is uitgereikt, tenzij de gestrafte om eerdere behandeling verzoekt.[Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=3&artikel=62&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing met dien verstande dat voor beschuldiging wordt gelezen oproeping.
 
 2. De beklagmeerdere roept de commandant, de getuigen en deskundigen op wier verschijning hij nodig oordeelt.
 
 3. De gestrafte en zijn vertrouwensman kunnen verzoeken dat ook andere getuigen en deskundigen worden gehoord. De beklagmeerdere voldoet aan dit verzoek, tenzij het onderzoek daardoor wordt geschaad of het verzoek kennelijk onredelijk is.
 
-4. [Artikel 65, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2010-10-10&g=2010-10-10), is van toepassing.
+4. [Artikel 65, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2013-07-01&g=2013-07-01), is van toepassing.
 
 ##### Artikel 80i
 
-1. De beklagmeerdere is verplicht de gestrafte in persoon te horen tijdens het onderzoek op beklag, tenzij deze is gehoord als bedoeld in [artikel 80f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80f&z=2010-10-10&g=2010-10-10), en te kennen heeft gegeven op horen in persoon geen prijs te stellen en de beklagmeerdere het horen in persoon niet nodig oordeelt.
+1. De beklagmeerdere is verplicht de gestrafte in persoon te horen tijdens het onderzoek op beklag, tenzij deze is gehoord als bedoeld in [artikel 80f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80f&z=2013-07-01&g=2013-07-01), en te kennen heeft gegeven op horen in persoon geen prijs te stellen en de beklagmeerdere het horen in persoon niet nodig oordeelt.
 
-2. Indien de gestrafte niet verschijnt wegens een gewichtige reden van verhindering schort de beklagmeerdere het onderzoek op beklag op of schorst hij dit. De termijn bedoeld in [artikel 80r, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80r&z=2010-10-10&g=2010-10-10), wordt in dat geval voor de duur van de opschorting of schorsing verlengd.
+2. Indien de gestrafte niet verschijnt wegens een gewichtige reden van verhindering schort de beklagmeerdere het onderzoek op beklag op of schorst hij dit. De termijn bedoeld in [artikel 80r, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80r&z=2013-07-01&g=2013-07-01), wordt in dat geval voor de duur van de opschorting of schorsing verlengd.
 
 3. Indien de gestrafte niet verschijnt zonder een gewichtige reden van verhindering, doet de beklagmeerdere het beklag verder af.
 
@@ -750,9 +750,9 @@ Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I
 
 ##### Artikel 80o
 
-1. Na sluiting van het onderzoek beraadt de beklagmeerdere zich of hij door de inhoud van de in [artikel 80n](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80n&z=2010-10-10&g=2010-10-10) bedoelde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de gestrafte heeft plaatsgevonden en of zulks een schending van een gedragsregel oplevert.
+1. Na sluiting van het onderzoek beraadt de beklagmeerdere zich of hij door de inhoud van de in [artikel 80n](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80n&z=2013-07-01&g=2013-07-01) bedoelde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de gestrafte heeft plaatsgevonden en of zulks een schending van een gedragsregel oplevert.
 
-2. Met betrekking tot een beklag als bedoeld in [artikel 80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), wordt door de beklagmeerdere aan de hand van de door de commandant opgegeven motivering beoordeeld of de wijze van de tenuitvoerlegging als passend kan worden beschouwd.
+2. Met betrekking tot een beklag als bedoeld in [artikel 80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), wordt door de beklagmeerdere aan de hand van de door de commandant opgegeven motivering beoordeeld of de wijze van de tenuitvoerlegging als passend kan worden beschouwd.
 
 ##### Artikel 80p
 
@@ -770,19 +770,19 @@ Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I
 
 - e. vrijspraak;
 
-- f. bevestiging van de bestreden schuldigverklaring, zonodig met verbetering of aanvulling, met verklaring dat ten onrechte geen straf is opgelegd of dat de opgelegde straf ontoereikend is en verwijzing naar het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), bedoelde gerecht.
+- f. bevestiging van de bestreden schuldigverklaring, zonodig met verbetering of aanvulling, met verklaring dat ten onrechte geen straf is opgelegd of dat de opgelegde straf ontoereikend is en verwijzing naar het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), bedoelde gerecht.
 
-3. Indien een beklag is gedaan als bedoeld in [artikel 80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), verklaart de beklagmeerdere dit beklag bij gemotiveerde schriftelijke beslissing geheel of gedeeltelijk gegrond of ongegrond. Indien een beklag geheel of gedeeltelijk gegrond is verklaard, bepaalt de beklagmeerdere, volgens bij of krachtens algemene maatregel van Rijksbestuur te stellen regelen, op welke wijze het door de gestrafte geleden nadeel zal worden hersteld.
+3. Indien een beklag is gedaan als bedoeld in [artikel 80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), verklaart de beklagmeerdere dit beklag bij gemotiveerde schriftelijke beslissing geheel of gedeeltelijk gegrond of ongegrond. Indien een beklag geheel of gedeeltelijk gegrond is verklaard, bepaalt de beklagmeerdere, volgens bij of krachtens algemene maatregel van Rijksbestuur te stellen regelen, op welke wijze het door de gestrafte geleden nadeel zal worden hersteld.
 
 4. De beslissing in eerste aanleg wordt vernietigd:
 
-- a. indien enige in [Titel I van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&z=2010-10-10&g=2010-10-10) voorgeschreven termijn is geschonden;
+- a. indien enige in [Titel I van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&z=2013-07-01&g=2013-07-01) voorgeschreven termijn is geschonden;
 
 - b. indien enige andere vorm dan onder a bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
 
 ##### Artikel 80q
 
-1. De beslissing wordt vastgelegd in een schriftelijk stuk, de uitspraak op beklag. [Artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=77&z=2010-10-10&g=2010-10-10) is van toepassing.
+1. De beslissing wordt vastgelegd in een schriftelijk stuk, de uitspraak op beklag. [Artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=77&z=2013-07-01&g=2013-07-01) is van toepassing.
 
 2. De uitspraak op beklag wordt door de beklagmeerdere onverwijld aan de commandant toegezonden. Door of namens de commandant wordt onverwijld een afschrift van de uitspraak op beklag uitgereikt aan de gestrafte. De datum van uitreiking wordt aangetekend op de uitspraak en op het uitgereikte afschrift.
 
@@ -790,21 +790,21 @@ Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I
 
 ##### Artikel 80r
 
-1. De beklagprocedure eindigt met een beslissing als bedoeld in de [artikelen 80d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80d&z=2010-10-10&g=2010-10-10), of [80p, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2010-10-10&g=2010-10-10).
+1. De beklagprocedure eindigt met een beslissing als bedoeld in de [artikelen 80d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80d&z=2013-07-01&g=2013-07-01), of [80p, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2013-07-01&g=2013-07-01).
 
 2. De beklagprocedure eindigt van rechtswege en de beslissing waartegen beklag is gedaan, is van rechtswege vernietigd:
 
-- a. indien er binnen de ingevolge [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80g&z=2010-10-10&g=2010-10-10) voorgeschreven termijn geen onderzoek op beklag is aangevangen;
+- a. indien er binnen de ingevolge [artikel 80g](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80g&z=2013-07-01&g=2013-07-01) voorgeschreven termijn geen onderzoek op beklag is aangevangen;
 
-- b. indien er 30 dagen zijn verlopen nadat het onderzoek op beklag is aangevangen en er geen beslissing als bedoeld in [artikel 80p, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2010-10-10&g=2010-10-10), is genomen.
+- b. indien er 30 dagen zijn verlopen nadat het onderzoek op beklag is aangevangen en er geen beslissing als bedoeld in [artikel 80p, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2013-07-01&g=2013-07-01), is genomen.
 
 Het feit dat de beklagprocedure van rechtswege is geëindigd, wordt vastgelegd in een schriftelijk stuk dat aan de gestrafte wordt uitgereikt.
 
-3. [Artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=50&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing met dien verstande dat de beklagmeerdere is belast met de uitvoering.
+3. [Artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=50&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing met dien verstande dat de beklagmeerdere is belast met de uitvoering.
 
 ##### Artikel 80s
 
-1. Nadat aan de gestrafte een afschrift van de uitspraak op beklag als bedoeld in [artikel 80p, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2010-10-10&g=2010-10-10), is uitgereikt, zendt de commandant de uitspraak op beklag onverwijld naar het gerecht.
+1. Nadat aan de gestrafte een afschrift van de uitspraak op beklag als bedoeld in [artikel 80p, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2013-07-01&g=2013-07-01), is uitgereikt, zendt de commandant de uitspraak op beklag onverwijld naar het gerecht.
 
 2. Bij de behandeling en afdoening van het beklag na verwijzing zijn de bepalingen van paragraaf 2 van Titel II van overeenkomstige toepassing.
 
@@ -820,15 +820,15 @@ Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, w
 
 1. De gestrafte kan beroep instellen bij het gerecht, dat ingevolge de bepalingen van de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789) bevoegd zou zijn geweest, indien de desbetreffende gedraging een misdrijf zou hebben opgeleverd. Dit beroep wordt ingesteld binnen vijf dagen na de uitreiking:
 
-- a. van een schriftelijk stuk als bedoeld in [artikel 80d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80d&z=2010-10-10&g=2010-10-10);
+- a. van een schriftelijk stuk als bedoeld in [artikel 80d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80d&z=2013-07-01&g=2013-07-01);
 
 - b. van een afschrift van een uitspraak op beklag.
 
-2. [Artikel 80a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. [Artikel 80a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing.
 
-3. De beklagmeerdere kan binnen vijf dagen na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), en er geen beklag is gedaan, bij het in het eerste lid bedoelde gerecht beroep instellen op de grond dat naar zijn oordeel ten onrechte geen straf is opgelegd of de opgelegde straf ontoereikend is.
+3. De beklagmeerdere kan binnen vijf dagen na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), en er geen beklag is gedaan, bij het in het eerste lid bedoelde gerecht beroep instellen op de grond dat naar zijn oordeel ten onrechte geen straf is opgelegd of de opgelegde straf ontoereikend is.
 
-4. Indien de beklagmeerdere een oordeel heeft gegeven over de wijze van tenuitvoerlegging als bedoeld in [het derde lid van artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2010-10-10&g=2010-10-10), kan in beroep eveneens de wijze van tenuitvoerlegging van de straf van strafdienst of van uitgaansverbod aan het oordeel van het gerecht worden onderworpen.
+4. Indien de beklagmeerdere een oordeel heeft gegeven over de wijze van tenuitvoerlegging als bedoeld in [het derde lid van artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2013-07-01&g=2013-07-01), kan in beroep eveneens de wijze van tenuitvoerlegging van de straf van strafdienst of van uitgaansverbod aan het oordeel van het gerecht worden onderworpen.
 
 ##### Artikel 82
 
@@ -848,7 +848,7 @@ Ten aanzien van een na afloop van de beroepstermijn ingediend beroepschrift blij
 
 ##### Artikel 85
 
-Zodra het beroepschrift is ingediend, kan de voorzitter van de militaire kamer, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2010-10-10&g=2010-10-10), de tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod opschorten of schorsen. Hiervan wordt aantekening gesteld op het beroepschrift.
+Zodra het beroepschrift is ingediend, kan de voorzitter van de militaire kamer, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2013-07-01&g=2013-07-01), de tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod opschorten of schorsen. Hiervan wordt aantekening gesteld op het beroepschrift.
 
 ##### Artikel 86
 
@@ -858,7 +858,7 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 ##### Artikel 87
 
-1. Het beroep wordt zo spoedig mogelijk behandeld door een meervoudige militaire kamer bij het in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10) bedoelde gerecht.
+1. Het beroep wordt zo spoedig mogelijk behandeld door een meervoudige militaire kamer bij het in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01) bedoelde gerecht.
 
 2. De voorzitter van de militaire kamer bepaalt op welke dag het beroep wordt behandeld.
 
@@ -884,15 +884,15 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 ##### Artikel 90
 
-1. De voorzitter bepaalt welke getuigen en deskundigen zullen worden opgeroepen. [Artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing met dien verstande dat het verzoek tenminste drie dagen voor de behandeling dient te zijn binnengekomen.
+1. De voorzitter bepaalt welke getuigen en deskundigen zullen worden opgeroepen. [Artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing met dien verstande dat het verzoek tenminste drie dagen voor de behandeling dient te zijn binnengekomen.
 
 2. De oproepingen geschieden door de griffier.
 
 3. Getuigen en deskundigen zijn verplicht te verschijnen.
 
-4. Voor getuigen is [artikel 284, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=284), en voor deskundigen is [artikel 296, eerste lid, onder 1°, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=296) van overeenkomstige toepassing.
+4. Voor getuigen is [artikel 290, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=290), en voor deskundigen is [artikel 51m, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51m) van overeenkomstige toepassing.
 
-5. [Artikel 65, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2010-10-10&g=2010-10-10), is van toepassing.
+5. [Artikel 65, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2013-07-01&g=2013-07-01), is van toepassing.
 
 ##### Artikel 91
 
@@ -902,7 +902,7 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 1. De gestrafte kan zich bij de behandeling van zijn beroep doen bijstaan door een vertrouwensman.
 
-2. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=57&z=2010-10-10&g=2010-10-10), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=58&z=2010-10-10&g=2010-10-10), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2010-10-10&g=2010-10-10), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=60&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+2. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=57&z=2013-07-01&g=2013-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=58&z=2013-07-01&g=2013-07-01), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2013-07-01&g=2013-07-01), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=60&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing.
 
 3. Als vertrouwensman kan ook een advocaat optreden.
 
@@ -918,9 +918,9 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 1. De behandeling van het beroep geschiedt ter openbare terechtzitting. De voorzitter heeft de leiding van de behandeling. Hij kan op verzoek van de gestrafte, de commandant of de beklagmeerdere, of om redenen aan de openbare orde ontleend gelasten dat de behandeling achter gesloten deuren plaatsvindt.
 
-2. De [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=3&artikel=62&z=2010-10-10&g=2010-10-10), [67-69](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=67&z=2010-10-10&g=2010-10-10), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2010-10-10&g=2010-10-10) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=75&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing, met dien verstande dat voor commandant gelezen wordt militaire kamer.
+2. De [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=3&artikel=62&z=2013-07-01&g=2013-07-01), [67-69](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=67&z=2013-07-01&g=2013-07-01), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2013-07-01&g=2013-07-01) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=75&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing, met dien verstande dat voor commandant gelezen wordt militaire kamer.
 
-3. Ten aanzien van de bewijsmiddelen is [artikel 80n](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80n&z=2010-10-10&g=2010-10-10) van toepassing. Als bewijsmiddel wordt tevens erkend de eigen waarneming door de militaire kamer tijdens het onderzoek.
+3. Ten aanzien van de bewijsmiddelen is [artikel 80n](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80n&z=2013-07-01&g=2013-07-01) van toepassing. Als bewijsmiddel wordt tevens erkend de eigen waarneming door de militaire kamer tijdens het onderzoek.
 
 4. Na sluiting van het onderzoek beraadt de militaire kamer zich of zij door de inhoud van de in het derde lid genoemde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de gestrafte heeft plaatsgevonden en, in bevestigend geval, of zulks de schending van een gedragsregel oplevert.
 
@@ -946,19 +946,19 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 1. Het gerecht verklaart zich onbevoegd van het beroep kennis te nemen, verklaart het beroep niet ontvankelijk, of bevestigt de beslissing waartegen beroep is ingesteld, zonodig met verbetering of aanvulling daarvan, of doet de zaak af met gehele of gedeeltelijke vernietiging van die beslissing.
 
-2. Indien een beroep is ingesteld als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), verklaart het gerecht bij gemotiveerde beslissing dit beroep geheel of gedeeltelijk gegrond of ongegrond.
+2. Indien een beroep is ingesteld als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), verklaart het gerecht bij gemotiveerde beslissing dit beroep geheel of gedeeltelijk gegrond of ongegrond.
 
 ##### Artikel 97
 
 De beslissing waartegen beroep is ingesteld wordt vernietigd:
 
-- a. Indien enige in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&z=2010-10-10&g=2010-10-10) of[IA van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&z=2010-10-10&g=2010-10-10) voorgeschreven termijn is geschonden;
+- a. Indien enige in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&z=2013-07-01&g=2013-07-01) of[IA van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&z=2013-07-01&g=2013-07-01) voorgeschreven termijn is geschonden;
 
 - b. indien enige andere vorm dan onder **a** bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
 
 ##### Artikel 98
 
-Indien bij de beslissing in beroep een reeds geheel of gedeeltelijk tenuitvoergelegde straf van strafdienst of van uitgaansverbod wordt tenietgedaan of verminderd, of een beroep als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10), geheel of gedeeltelijk gegrond wordt verklaard, bepaalt het gerecht, volgens bij of krachtens algemene maatregel van Rijksbestuur te stellen regelen, op welke wijze het door de gestrafte geleden nadeel zal worden hersteld.
+Indien bij de beslissing in beroep een reeds geheel of gedeeltelijk tenuitvoergelegde straf van strafdienst of van uitgaansverbod wordt tenietgedaan of verminderd, of een beroep als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01), geheel of gedeeltelijk gegrond wordt verklaard, bepaalt het gerecht, volgens bij of krachtens algemene maatregel van Rijksbestuur te stellen regelen, op welke wijze het door de gestrafte geleden nadeel zal worden hersteld.
 
 ##### Artikel 99
 
@@ -984,37 +984,37 @@ Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in dez
 
 ##### Artikel 103
 
-1. De commandant is bevoegd een geschrift als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=30&z=2010-10-10&g=2010-10-10) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=31&z=2010-10-10&g=2010-10-10), dan wel een ander voorwerp waarvan hij redelijkerwijs mag aannemen dat het tot bewijs kan dienen van de schending van een gedragsregel, in te nemen of te doen innemen.
+1. De commandant is bevoegd een geschrift als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=30&z=2013-07-01&g=2013-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=31&z=2013-07-01&g=2013-07-01), dan wel een ander voorwerp waarvan hij redelijkerwijs mag aannemen dat het tot bewijs kan dienen van de schending van een gedragsregel, in te nemen of te doen innemen.
 
-2. Indien de commandant niet aanwezig is en zijn optreden niet kan worden afgewacht, dan wel indien degene die wordt verdacht van de schending van een gedragsregel onbekend is, komt de in het vorige lid genoemde bevoegdheid mede toe aan door Onze Minister van Defensie aangewezen functionarissen.
+2. Indien de commandant niet aanwezig is en zijn optreden niet kan worden afgewacht, dan wel indien de dader van de schending van een gedragsregel onbekend is, komt de in het vorige lid genoemde bevoegdheid mede toe aan door Onze Minister van Defensie aangewezen functionarissen.
 
 3. Het in het eerste lid bedoelde geschrift of voorwerp wordt zo spoedig mogelijk ter beschikking gesteld van de rechthebbende, doch in elk geval:
 
 - a. zodra de commandant beslist geen beschuldiging uit te reiken;
 
-- b. zodra blijkt dat geen beschuldiging kan worden uitgereikt op grond van het bepaalde in [artikel 53, eerste, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2010-10-10&g=2010-10-10);
+- b. zodra blijkt dat geen beschuldiging kan worden uitgereikt op grond van het bepaalde in [artikel 53, eerste, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=53&z=2013-07-01&g=2013-07-01);
 
 - c. tien dagen na de uitreiking van de uitspraak in eerste aanleg, indien geen beklag is gedaan of beroep is ingesteld;
 
-- d. vijf dagen na de uitreiking van een uitspraak op beklag die geen verwijzing inhoudt als bedoeld in [artikel 80p, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2010-10-10&g=2010-10-10), indien geen beroep is ingesteld;
+- d. vijf dagen na de uitreiking van een uitspraak op beklag die geen verwijzing inhoudt als bedoeld in [artikel 80p, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2013-07-01&g=2013-07-01), indien geen beroep is ingesteld;
 
 - e. zodra het tuchtproces op een andere wijze eindigt;
 
 - f. bij de uitspraak in beroep.
 
-4. Indien toepassing is gegeven aan [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2010-10-10&g=2010-10-10) wordt, in afwijking van het gestelde in het derde lid, het geschrift of voorwerp ter beschikking gesteld van de opsporingsambtenaar. Deze terbeschikkingstelling geldt als een inbeslagneming door een opsporingsambtenaar als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+4. Indien toepassing is gegeven aan [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2013-07-01&g=2013-07-01) wordt, in afwijking van het gestelde in het derde lid, het geschrift of voorwerp ter beschikking gesteld van de opsporingsambtenaar. Deze terbeschikkingstelling geldt als een inbeslagneming door een opsporingsambtenaar als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 5. Het in het eerste lid bedoelde geschrift of voorwerp wordt op de wijze te bepalen bij algemene maatregel van Rijksbestuur gedurende zes maanden ter beschikking gehouden van de rechthebbende. Is teruggave alsdan niet mogelijk gebleken dan wordt het geschrift of voorwerp vernietigd.
 
 ##### Artikel 104
 
-1. Over de inneming van een geschrift of voorwerp als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VI&artikel=103&z=2010-10-10&g=2010-10-10) kan de rechthebbende zich binnen 5 dagen schriftelijk beklagen bij de voorzitter van de militaire kamer als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2010-10-10&g=2010-10-10).
+1. Over de inneming van een geschrift of voorwerp als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VI&artikel=103&z=2013-07-01&g=2013-07-01) kan de rechthebbende zich binnen 5 dagen schriftelijk beklagen bij de voorzitter van de militaire kamer als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2013-07-01&g=2013-07-01).
 
-2. Met betrekking tot de wijze van indiening van het klaagschrift zijn de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=82&z=2010-10-10&g=2010-10-10), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=83&z=2010-10-10&g=2010-10-10) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=84&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. Met betrekking tot de wijze van indiening van het klaagschrift zijn de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=82&z=2013-07-01&g=2013-07-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=83&z=2013-07-01&g=2013-07-01) en [84](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=84&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing.
 
 3. De voorzitter van de militaire kamer geeft zo spoedig mogelijk een met redenen omklede beschikking, nadat de klager in de gelegenheid is gesteld te worden gehoord.
 
-4. Acht de voorzitter van de militaire kamer het beklag gegrond, dan gelast hij dat het geschrift of voorwerp zo spoedig mogelijk ter beschikking wordt gesteld van de rechthebbende, indien dat nog niet is geschied op grond van het bepaalde in [artikel 103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VI&artikel=103&z=2010-10-10&g=2010-10-10).
+4. Acht de voorzitter van de militaire kamer het beklag gegrond, dan gelast hij dat het geschrift of voorwerp zo spoedig mogelijk ter beschikking wordt gesteld van de rechthebbende, indien dat nog niet is geschied op grond van het bepaalde in [artikel 103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VI&artikel=103&z=2013-07-01&g=2013-07-01).
 
 5. Een afschrift van de beschikking wordt uitgereikt aan de klager en aan degene die het geschrift of voorwerp heeft ingenomen of doen innemen.
 
@@ -1024,15 +1024,15 @@ Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in dez
 
 ##### Artikel 105
 
-Onverminderd de bepalingen van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949, is deze wet, met uitzondering van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing op krijgsgevangenen en andere geïnterneerde personen die ingevolge [artikel 65 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=65) gedeeltelijk met Nederlandse militairen zijn gelijkgesteld, met dien verstande dat:
+Onverminderd de bepalingen van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949, is deze rijkswet, met uitzondering van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&z=2013-07-01&g=2013-07-01), van overeenkomstige toepassing op krijgsgevangenen en andere geïnterneerde personen die ingevolge [artikel 65 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=65) gedeeltelijk met Nederlandse militairen zijn gelijkgesteld, met dien verstande dat:
 
-- a. de straffen, omschreven in [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2010-10-10&g=2010-10-10), van vorengenoemd verdrag, worden geacht te zijn voorzien in deze wet;
+- a. de straffen, omschreven in [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2013-07-01&g=2013-07-01), van vorengenoemd verdrag, worden geacht te zijn voorzien in deze rijkswet;
 
-- b. met betrekking tot de tenuitvoerlegging van de straf, omschreven in [artikel 89, eerste lid, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2010-10-10&g=2010-10-10) van vorengenoemd verdrag, de [artikelen 44-46 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=44&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing zijn;
+- b. met betrekking tot de tenuitvoerlegging van de straf, omschreven in [artikel 89, eerste lid, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2013-07-01&g=2013-07-01) van vorengenoemd verdrag, de [artikelen 44-46 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&artikel=44&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing zijn;
 
-- c. de tenuitvoerlegging van de straf, omschreven in [artikel 89, eerste lid, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2010-10-10&g=2010-10-10) van vorengenoemd verdrag, geschiedt volgens regelen te stellen bij algemene maatregel van Rijksbestuur;
+- c. de tenuitvoerlegging van de straf, omschreven in [artikel 89, eerste lid, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=89&z=2013-07-01&g=2013-07-01) van vorengenoemd verdrag, geschiedt volgens regelen te stellen bij algemene maatregel van Rijksbestuur;
 
-- d. de vergrijpen, bedoeld in [artikel 93, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=93&z=2010-10-10&g=2010-10-10), van vorengenoemd verdrag, worden geacht in te houden schendingen van gedragsregels van deze wet, terwijl ten aanzien van die feiten het gestelde in [artikel 78 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2010-10-10&g=2010-10-10) buiten toepassing blijft.
+- d. de vergrijpen, bedoeld in [artikel 93, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=93&z=2013-07-01&g=2013-07-01), van vorengenoemd verdrag, worden geacht in te houden schendingen van gedragsregels van deze rijkswet, terwijl ten aanzien van die feiten het gestelde in [artikel 78 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2013-07-01&g=2013-07-01) buiten toepassing blijft.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -1044,21 +1044,21 @@ De Wet op de Krijgstucht wordt ingetrokken, behoudens het bepaalde in de volgend
 
 1. De op het tijdstip van inwerkingtreden van deze Rijkswet bij de ingevolge de artikelen 39-43 van de Wet op de Krijgstucht tot straffen bevoegde autoriteiten, of bij de ingevolge artikel 61 van die wet tot behandeling van een beklag bevoegde meerdere, aanhangige zaken betreffende krijgstuchtelijke vergrijpen als bedoeld in artikel 2 van die wet, worden behandeld en afgedaan op de wijze, als bepaald in die wet, door die autoriteit onderscheidenlijk meerdere. Andere straffen dan die voorzien bij deze wet kunnen niet worden opgelegd.
 
-2. Indien op het tijdstip van inwerkingtreden van deze Rijkswet de termijn van beklag als bedoeld in artikel 62 van de Wet op de Krijgstucht, dan wel van de mogelijkheid om ingevolge artikel 67 van die wet de eindbeslissing van het Hoog Militair Gerechtshof in te roepen, nog niet is verstreken, dient dit beklag onderscheidenlijk deze inroeping te worden gedaan in de vorm van een beroep, in te stellen naar de regels, gesteld in [hoofdstuk V, titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&z=2010-10-10&g=2010-10-10), van deze Rijkswet, en met toepassing van die regels te worden behandeld en afgedaan.
+2. Indien op het tijdstip van inwerkingtreden van deze Rijkswet de termijn van beklag als bedoeld in artikel 62 van de Wet op de Krijgstucht, dan wel van de mogelijkheid om ingevolge artikel 67 van die wet de eindbeslissing van het Hoog Militair Gerechtshof in te roepen, nog niet is verstreken, dient dit beklag onderscheidenlijk deze inroeping te worden gedaan in de vorm van een beroep, in te stellen naar de regels, gesteld in [hoofdstuk V, titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&z=2013-07-01&g=2013-07-01), van deze Rijkswet, en met toepassing van die regels te worden behandeld en afgedaan.
 
-3. Zaken betreffende de inroeping van een eindbeslissing ingevolge artikel 67 van de Wet op de Krijgstucht, die op het tijdstip van inwerkingtreden van deze Rijkswet bij het Hoog Militair Gerechtshof aanhangig zijn, worden in de stand waarin zij zich bevinden overgedragen aan het gerecht dat uit hoofde van [artikel 81 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10) bevoegd is het beroep inzake tuchtrechtelijke uitspraken te behandelen, en door dat gerecht behandeld en afgedaan.
+3. Zaken betreffende de inroeping van een eindbeslissing ingevolge artikel 67 van de Wet op de Krijgstucht, die op het tijdstip van inwerkingtreden van deze Rijkswet bij het Hoog Militair Gerechtshof aanhangig zijn, worden in de stand waarin zij zich bevinden overgedragen aan het gerecht dat uit hoofde van [artikel 81 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01) bevoegd is het beroep inzake tuchtrechtelijke uitspraken te behandelen, en door dat gerecht behandeld en afgedaan.
 
 ##### Artikel 108
 
 1. Tegen beslissingen van het Hoog Militair Gerechtshof, genomen ingevolge artikel 67 van de Wet op de Krijgstucht, die op het tijdstip van inwerkingtreden van deze Rijkswet nog niet onherroepelijk zijn geworden en waartegen nog geen beroep in cassatie is ingesteld, kan binnen 14 dagen na de uitspraak zulk beroep worden ingesteld op de wijze als voorgeschreven voor het instellen van cassatie tegen arresten van het Gerechtshof te Arnhem.
 
-2. Indien de Hoge Raad een beslissing van het Hoog Militair Gerechtshof, genomen ingevolge artikel 67 van de Wet op de Krijgstucht, na het tijdstip van inwerkingtreden van deze Rijkswet in cassatie vernietigt, wordt de zaak, indien zij niet door de Hoge Raad zelf wordt afgedaan, verwezen naar het gerecht dat uit hoofde van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2010-10-10&g=2010-10-10) van deze Rijkswet bevoegd is.
+2. Indien de Hoge Raad een beslissing van het Hoog Militair Gerechtshof, genomen ingevolge artikel 67 van de Wet op de Krijgstucht, na het tijdstip van inwerkingtreden van deze Rijkswet in cassatie vernietigt, wordt de zaak, indien zij niet door de Hoge Raad zelf wordt afgedaan, verwezen naar het gerecht dat uit hoofde van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2013-07-01&g=2013-07-01) van deze Rijkswet bevoegd is.
 
-3. In de zaken, waarin toepassing is gegeven aan [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2010-10-10&g=2010-10-10), van deze Rijkswet, voorzover deze een strafbaar feit betreffen, blijven de bepalingen van de Rijkswet van 22 februari 1979 (**Stb.** 69) tot invoering van de rechtsmiddelen van cassatie, cassatie in het belang der wet en herziening in het militair strafprocesrecht op de beslissing van het gerecht van kracht. Het voorgaande lid is van overeenkomstige toepassing.
+3. In de zaken, waarin toepassing is gegeven aan [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2013-07-01&g=2013-07-01), van deze Rijkswet, voorzover deze een strafbaar feit betreffen, blijven de bepalingen van de Rijkswet van 22 februari 1979 (**Stb.** 69) tot invoering van de rechtsmiddelen van cassatie, cassatie in het belang der wet en herziening in het militair strafprocesrecht op de beslissing van het gerecht van kracht. Het voorgaande lid is van overeenkomstige toepassing.
 
 ##### Artikel 109
 
-De krijgstuchtelijke straffen, op grond van de Wet op de Krijgstucht opgelegd voor het tijdstip van inwerkingtreden van deze Rijkswet, of met toepassing van [artikel 107, eerste lid, van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2010-10-10&g=2010-10-10) opgelegd, worden ten uitvoer gelegd op de wijze als bij of krachtens die wet bepaald.
+De krijgstuchtelijke straffen, op grond van de Wet op de Krijgstucht opgelegd voor het tijdstip van inwerkingtreden van deze Rijkswet, of met toepassing van [artikel 107, eerste lid, van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2013-07-01&g=2013-07-01) opgelegd, worden ten uitvoer gelegd op de wijze als bij of krachtens die wet bepaald.
 
 ##### Artikel 110
 
