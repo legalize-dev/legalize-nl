@@ -4,7 +4,7 @@ identifier: "BWBR0031331"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-07-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031331"
 soort: "wet"
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. welke maatregelen de gemeenteraad en het college nemen om de kwaliteit te borgen van de wijze waarop de integrale schuldhulpverlening wordt uitgevoerd;
 
-- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2012-07-01&g=2012-07-01), genoemde periode, en
+- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2013-07-01&g=2013-07-01), genoemde periode, en
 
 - d. hoe schuldhulpverlening aan gezinnen met inwonende minderjarige kinderen wordt vormgegeven.
 
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Verantwoordelijkheid college
 
-1. Het college is verantwoordelijk voor de uitvoering van het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2012-07-01&g=2012-07-01).
+1. Het college is verantwoordelijk voor de uitvoering van het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2013-07-01&g=2013-07-01).
 
 2. Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon al eerder gebruik heeft gemaakt van schuldhulpverlening.
 
@@ -136,7 +136,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel 11. Wijziging van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel 12. Evaluatie
 
