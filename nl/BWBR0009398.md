@@ -4,7 +4,7 @@ identifier: "BWBR0009398"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2011-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009398"
 soort: "AMvB"
@@ -164,7 +164,7 @@ Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen b
 
 ##### Artikel 10
 
-1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01).
+1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2013-07-01&g=2013-07-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=70) en [71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71) zijn van overeenkomstige toepassing.
 
@@ -185,6 +185,8 @@ Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen b
 - c. een medicus;
 
 - d. een deskundige uit de kring van het maatschappelijk werk.
+
+4. Indien de commissie toezicht houdt op een inrichting of afdeling waar geneeskundige behandeling als bedoeld in de [artikelen 46a tot en met 46e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46a) wordt verricht, maakt ook een psychiater van de commissie deel uit.
 
 ##### Artikel 12
 
@@ -276,29 +278,39 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 ##### Artikel 21
 
-1. Voordat de directeur beslist dat de door de arts noodzakelijk geachte geneeskundige handeling onder dwang zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de gedetineerde verblijft. Indien de handeling door een andere arts wordt verricht, wordt bovendien met hem overlegd.
+In dit hoofdstuk wordt verstaan onder:
 
-2. Indien de toepassing van een geneeskundige handeling onder dwang noodzakelijk is ter afwending van ernstig gevaar dat voortvloeit uit een stoornis van de geestvermogens van de gedetineerde, pleegt de aan de inrichting verbonden arts overleg met een psychiater.
+- a. **a-dwangbehandeling:** een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46d);
 
-3. In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het ernstige gevaar voor de gezondheid of de veiligheid van de gedetineerde of van anderen niet op een andere wijze kan worden afgewend. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de gedetineerde minst ingrijpende handeling.
+- b. **b-dwangbehandeling:** een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
 
-4. De verantwoordelijke arts draagt zorg dat de melding van de toepassing van [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=32), de resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
+- c. **gedwongen geneeskundige handeling:** de gedwongen geneeskundige handeling, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=32);
+
+- d. **geneeskundige behandeling:** de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in [artikel 46c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c);
+
+- e. **geneeskundig behandelingsplan:** het geneeskundig behandelingsplan, bedoeld in [artikel 46b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
+
+- f. **inspecteur:** de inspecteur, bedoeld in [artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=1);
+
+- g. **voorzetting van a-dwangbehandeling:** de voortzetting van a-dwangbehandeling, bedoeld in [artikel 46e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e).
 
 ##### Artikel 22
 
-1. De gedwongen geneeskundige handeling wordt toegepast in een daartoe geschikte ruimte, onder verantwoordelijkheid van de arts.
+1. Ingeval van een a- of b-dwangbehandeling wordt in het geneeskundig behandelingsplan eveneens opgenomen:
 
-2. Van de toepassing van een gedwongen geneeskundige handeling wordt onverwijld melding gedaan aan Onze Minister en de commissie van toezicht. Indien de geneeskundige handeling wordt toegepast ter afwending van ernstig gevaar dat voortvloeit uit een stoornis van de geestvermogens van de gedetineerde wordt tevens onverwijld melding gedaan aan de bevoegde regionale inspecteur voor de gezondheidszorg.
+- a. welke minder bezwarende middelen zijn aangewend om het gevaar dat de stoornis van de geestvermogens de gedetineerde doet veroorzaken weg te nemen dan wel af te wenden; en
 
-3. De gedetineerde wordt gedurende de periode die volgt op de gedwongen geneeskundige handeling zo vaak als nodig is bezocht door een arts dan wel in diens opdracht door een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.
+- b. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling.
+
+2. Het deel van het geneeskundig behandelingsplan waarover geen overeenstemming kan worden bereikt met de gedetineerde dan wel diens curator of mentor, wordt slechts vastgesteld door een psychiater nadat een multidisciplinair overleg heeft plaatsgehad waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige hebben deelgenomen.
+
+3. Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in [artikel 46e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e), bij het in het tweede lid bedoelde overleg betrokken.
 
 ##### Artikel 23
 
-1. Zo spoedig mogelijk na de toepassing van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van de aan de inrichting verbonden arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de gedetineerde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het medische dossier.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2013-07-01&g=2013-07-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
-2. Indien de toepassing van een gedwongen geneeskundige handeling als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21&z=2011-01-01&g=2011-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een arts of een psychiater en een psycholoog.
-
-3. De in het tweede lid bedoelde commissie brengt binnen twee dagen na de in het tweede lid bedoelde termijn en, indien de gedwongen geneeskundige handeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van de gedwongen geneeskundige handeling.
+2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
 ### Hoofdstuk 6. Geestelijke verzorging
 
@@ -314,11 +326,11 @@ Aan een inrichting zijn geestelijke verzorgers van verschillende godsdiensten of
 
 ##### Artikel 26
 
-De aanstelling van een geestelijke verzorger van protestantse of rooms-katholieke gezindte of een geestelijke verzorger behorend tot het humanistisch verbond bij een inrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2011-01-01&g=2011-01-01).
+De aanstelling van een geestelijke verzorger van protestantse of rooms-katholieke gezindte of een geestelijke verzorger behorend tot het humanistisch verbond bij een inrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2013-07-01&g=2013-07-01).
 
 ##### Artikel 27
 
-1. Een geestelijke verzorger van een andere dan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2011-01-01&g=2011-01-01) genoemde gezindte of levensovertuiging kan door de directeur aan een inrichting worden verbonden anders dan bij wijze van een aanstelling. De directeur neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijke verzorgers.
+1. Een geestelijke verzorger van een andere dan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2013-07-01&g=2013-07-01) genoemde gezindte of levensovertuiging kan door de directeur aan een inrichting worden verbonden anders dan bij wijze van een aanstelling. De directeur neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijke verzorgers.
 
 2. Onze Minister kan functievereisten vaststellen ten aanzien van geestelijke verzorgers als bedoeld in de eerste volzin van het eerste lid.
 
@@ -362,7 +374,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 4. Het beroepschrift vermeldt zo nauwkeurig mogelijk het medisch handelen waarover wordt geklaagd en de redenen van het beroep.
 
-5. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2011-01-01&g=2011-01-01).
+5. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2013-07-01&g=2013-07-01).
 
 ##### Artikel 31
 
@@ -382,7 +394,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 8. De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens regelen te stellen bij algemene maatregel van bestuur.
 
-9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2011-01-01&g=2011-01-01).
+9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2013-07-01&g=2013-07-01).
 
 10. Tijdens de beroepsprocedure staat de beroepscommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
 
@@ -390,7 +402,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 1. De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de arts wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.
 
-2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2011-01-01&g=2011-01-01).
+2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2013-07-01&g=2013-07-01).
 
 3. De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
 
@@ -408,7 +420,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 ##### Artikel 34
 
-1. De in de [artikelen 28 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7&artikel=28&z=2011-01-01&g=2011-01-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
+1. De in de [artikelen 28 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7&artikel=28&z=2013-07-01&g=2013-07-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
 
 - a. de curator, indien de gedetineerde onder curatele is gesteld;
 
@@ -434,7 +446,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - c. registratiekaarten;
 
-- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2011-01-01&g=2011-01-01) genoemde bescheiden, gerangschikt per inrichting.
+- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2013-07-01&g=2013-07-01) genoemde bescheiden, gerangschikt per inrichting.
 
 2. Het dossier wordt in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -482,7 +494,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 2. De directeur zendt het penitentiair dossier gelijktijdig met de formele overplaatsing van de gedetineerde aan de directeur van de inrichting of afdeling waar de gedetineerde verder zal verblijven.
 
-3. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01).
+3. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2013-07-01&g=2013-07-01).
 
 4. Bij invrijheidstelling, ontvluchting of overlijden van een gedetineerde zendt de directeur het penitentiair dossier naar Onze Minister.
 
@@ -494,7 +506,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien de gedetineerde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw wordt gedetineerd vervalt de bewaartermijn.
 
-4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2011-01-01&g=2011-01-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
+4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2013-07-01&g=2013-07-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
 
 ##### Artikel 40
 
@@ -568,7 +580,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 44c
 
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2011-01-01&g=2011-01-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
+[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2013-07-01&g=2013-07-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
 
 ##### Artikel 44d
 
@@ -600,7 +612,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het verblijfsplan bestrijkt de wijze van tenuitvoerlegging van de maatregel. Het plan wordt in zijn geheel of in gedeelten vastgesteld door de directeur. Het verblijfsplan voor de laatste fase van de maatregel buiten de inrichting wordt vastgesteld door de directeur en het college van burgemeester en wethouders.
 
-2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2011-01-01&g=2011-01-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
+2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2013-07-01&g=2013-07-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
 
 ##### Artikel 44h
 
@@ -608,7 +620,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 
-3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
+3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 44i
 
@@ -624,7 +636,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. de voorwaarden die zijn verbonden aan deelneming aan het programma, de afspraken met betrokkene over deelneming daaraan en de gevolgen van het niet nakomen van die afspraken;
 
-- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2011-01-01&g=2011-01-01).
+- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2013-07-01&g=2013-07-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde afspraken houden in ieder geval in dat betrokkene zich schriftelijk bereid verklaart deel te nemen aan het programma en te voldoen aan de daaraan verbonden voorwaarden.
 
@@ -702,7 +714,7 @@ De trajectcoördinator heeft tot taak:
 
 ##### Artikel 44n
 
-1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2011-01-01&g=2011-01-01), bedoelde voorwaarden kan de directeur beslissen tot:
+1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2013-07-01&g=2013-07-01), bedoelde voorwaarden kan de directeur beslissen tot:
 
 - a. het geven van een waarschuwing aan betrokkene;
 
@@ -716,11 +728,11 @@ Van de overtreding van de voorwaarden en een beslissing als bedoeld in het eerst
 
 ##### Artikel 44o
 
-De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2011-01-01&g=2011-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
+De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2013-07-01&g=2013-07-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2013-07-01&g=2013-07-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
 
 ##### Artikel 44p
 
-1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2011-01-01&g=2011-01-01).
+1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2013-07-01&g=2013-07-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), en [68 tot en met 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68) zijn van overeenkomstige toepassing.
 
@@ -842,7 +854,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
 
-### Hoofdstuk 5. Gedwongen geneeskundige handelingen
+### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
 
 ### Hoofdstuk 5a. Toezicht op telefoongesprekken
 
@@ -899,6 +911,112 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
 
 ### Hoofdstuk 12. Wijziging andere regelgeving
+
+### Hoofdstuk 12. Wijziging andere regelgeving
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 21a
+
+1. Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.
+
+2. In een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.
+
+3. Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.
+
+4. Eens per twee weken, of vaker indien het belang van de gedetineerde dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. De resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
+
+##### Artikel 21b
+
+1. In het geneeskundig behandelingsplan worden ten minste opgenomen:
+
+- a. de diagnose van de stoornis van de geestvermogens van de gedetineerde;
+
+- b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de gedetineerde te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) aangewezen afdeling of inrichting behoeft te verblijven, wordt weggenomen;
+
+- c. of er overeenstemming over het geneeskundig behandelingsplan is.
+
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2013-07-01&g=2013-07-01), betrokken.
+
+3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
+
+##### Artikel 22a
+
+1. Voordat de directeur beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de gedetineerde verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.
+
+2. Ingeval van b-dwangbehandeling of indien het verrichten van een gedwongen geneeskundige handeling noodzakelijk is ter afwending van gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde, pleegt de directeur bovendien overleg met de voor de behandeling verantwoordelijke psychiater.
+
+3. In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.
+
+##### Artikel 22b
+
+1. Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de gedetineerde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het geneeskundig behandelingsplan.
+
+2. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de gedetineerde minst ingrijpende handeling.
+
+##### Artikel 22c
+
+1. Voordat de directeur de beslissing tot verlenging van a-dwangbehandeling neemt, pleegt hij in ieder geval overleg met de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de gedetineerde verblijft.
+
+2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
+
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2013-07-01&g=2013-07-01), worden bij de beslissing meegenomen.
+
+##### Artikel 22d
+
+De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.
+
+##### Artikel 22e
+
+1. De directeur stelt de voorzitter van de commissie van toezicht, de raadsman van de gedetineerde, de curator en de mentor in kennis van een voorgenomen beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.
+
+2. De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de gedetineerde.
+
+3. Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van een a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van a- en b- dwangbehandeling en indien een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de verpleegde, wordt bovendien melding gedaan aan de inspecteur.
+
+4. Bij de aanvang van een a-dwangbehandeling geeft de directeur daarvan eveneens kennis aan de in het eerste lid genoemde personen.
+
+5. De directeur zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt:
+
+- a. in verband met welk gevaar is besloten tot een a- of b-dwangbehandeling, dan wel een gedwongen geneeskundige handeling;
+
+- b. welke minder bezwarende middelen zijn aangewend om het gevaar dat de gedetineerde doet veroorzaken weg te nemen dan wel af te wenden;
+
+- c. welke personen, bedoeld in [artikel 46c, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c), zich tegen de behandeling verzetten;
+
+- d. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling; en
+
+- e. indien een behandeling plaatsvindt in een situatie waarin het de gedetineerde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de [hoofdstukken XI–XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI) respectievelijk [XIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII).
+
+6. Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling en een beslissing tot voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in [artikel 46c, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c) te komen. Ingeval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.
+
+7. Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling of gedwongen geneeskundige handeling geeft de directeur kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.
+
+##### Artikel 22f
+
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2013-07-01&g=2013-07-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2013-07-01&g=2013-07-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2013-07-01&g=2013-07-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+
+##### Artikel 22g
+
+1. De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in [artikel 46e, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e), een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.
+
+2. De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling indien die handeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde.
+
+### Hoofdstuk 5a. Toezicht op telefoongesprekken
+
+### Hoofdstuk 6. Geestelijke verzorging
+
+### Hoofdstuk 7. Beroep tegen medisch handelen
+
+### Hoofdstuk 8. Dossiers
+
+### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
+
+### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
+
+### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
 
 ### Hoofdstuk 13. Slotbepalingen
 
