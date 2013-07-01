@@ -4,7 +4,7 @@ identifier: "BWBR0014964"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-08-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014964"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder «wet»: de [Wet bevordering integriteitsbeo
 
 ##### Artikel 2
 
-Als aanbestedende dienst als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen.
+Als rechtspersoon met een overheidstaak als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen.
 
 ##### Artikel 3
 
@@ -66,19 +66,7 @@ Als sectoren als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 4
 
-Als inrichtingen of bedrijven als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7), worden aangewezen:
-
-- a. inrichtingen waarin bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet, logies wordt verstrekt, dranken worden geschonken, of rookwaren of spijzen voor directe consumptie worden verstrekt,
-
-- b. voor het publiek toegankelijke, besloten ruimten waarin bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet seksuele handelingen worden verricht, seksuele diensten worden aangeboden of vertoningen van erotisch-pornografische aard plaatsvinden,
-
-- c. een natuurlijke persoon, een groep van natuurlijke personen of een rechtspersoon die bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet seksuele handelingen verricht of seksuele diensten aanbiedt in een andere ruimte dan de bedrijfsruimte,
-
-- d. inrichtingen die in het maatschappelijk verkeer worden aangeduid als smartshops, headshops of growshops, en
-
-- e. inrichtingen die zijn bestemd om het publiek de gelegenheid te geven een spel door middel van speelautomaten te beoefenen als bedoeld in [artikel 30c, eerste lid, onderdeel b, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c),
-
-- f. een natuurlijk persoon, een groep van natuurlijke personen of een rechtspersoon die bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet, evenementen organiseert.
+Vervallen
 
 ##### Artikel 5
 
@@ -96,29 +84,29 @@ Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in [
 
 Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), worden aangewezen:
 
-- a. Onze Minister van Justitie, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door het Centraal Justitieel Incasso Bureau;
+- a. Onze Minister van Veiligheid en Justitie, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door het Centraal Justitieel Incasso Bureau;
 
-- b. Onze Minister van Verkeer en Waterstaat, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door de Inspectie Verkeer en Waterstaat, divisie Vervoer;
+- b. Onze Minister van Infrastructuur en Milieu, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door de Inspectie Leefomgeving en Transport, domeinen Transport;
 
-- c. de Inspectie Verkeer en Waterstaat, divisie Vervoer;
+- c. de Inspectie Leefomgeving en Transport, domeinen Transport;
 
 - d. de Dienst Wegverkeer.
 
 ##### Artikel 7
 
-1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2013-01-01&g=2013-01-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
+1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2013-07-01&g=2013-07-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), alsmede de gerechten bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27a), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2013-01-01&g=2013-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2013-07-01&g=2013-07-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Bibob.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2013-01-01&g=2013-01-01) van het Besluit Bibob
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2013-07-01&g=2013-07-01) van het Besluit Bibob
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
 
