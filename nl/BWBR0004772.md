@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Indien het krachtens [artikel 25, vijfde, zesde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.
+1. Indien het krachtens [artikel 25, vijfde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.
 
 2. Indien het krachtens [artikel 25, negende, elfde of zeventiende tot en met negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
 
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2013-01-01&g=2013-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2013-01-01&g=2013-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2013-07-01&g=2013-07-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2013-07-01&g=2013-07-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2013-07-01&g=2013-07-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2013-07-01&g=2013-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
