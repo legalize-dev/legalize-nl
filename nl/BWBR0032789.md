@@ -4,7 +4,7 @@ identifier: "BWBR0032789"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2013-06-15"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032789"
 soort: "wet"
@@ -88,15 +88,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Justitie-subsidies.
 
 ##### Artikel 14
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet overige BZK-subsidies.
 
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Woningwet.
 
 ##### Artikel 16
 
@@ -108,7 +108,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 18
 
-Dit onderdeel is nog niet inwerking getreden
+1. Algemene maatregelen van bestuur en ministeriële regelingen die voor het tijdstip van inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens de [Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121) of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van de [Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756), vanaf het tijdstip van inwerkingtreding van deze wet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3) en [4 van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) of mede op die artikelen.
+
+2. Algemene maatregelen van bestuur en ministeriële regelingen die voor het tijdstip van inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=14) of [15 van de Wet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=15), berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van [hoofdstuk 4E van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&hoofdstuk=4E), vanaf het tijdstip van inwerkingtreding van deze wet op [artikel 48s](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s) onderscheidenlijk [artikel 48t van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48t) of mede op die artikelen.
 
 ##### Artikel 19
 
