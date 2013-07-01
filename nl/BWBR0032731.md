@@ -4,7 +4,7 @@ identifier: "BWBR0032731"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-18"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032731"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Wijzigt het Besluit marktmisbruik Wft.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
 ##### Artikel V
 
@@ -86,13 +86,13 @@ Wijzigt het Besluit reikwijdtebepalingen Wft.
 
 Dit besluit treedt in werking met ingang van 1 januari 2013, met uitzondering van:
 
-- a. [artikel VI, onderdeel B, onder 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=VI&z=2013-01-01&g=2013-01-01), dat in werking treedt met ingang van 1 april 2013;
+- a. [artikel VI, onderdeel B, onder 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=VI&z=2013-07-01&g=2013-07-01), dat in werking treedt met ingang van 1 april 2013;
 
-- b. [artikel I, onderdelen BB, II en JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=I&z=2013-01-01&g=2013-01-01), en de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=IV&z=2013-01-01&g=2013-01-01) en [V, onderdelen H, I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=V&z=2013-01-01&g=2013-01-01), die in werking treden met ingang van 1 juli 2013;
+- b. [artikel I, onderdelen BB, II en JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=I&z=2013-07-01&g=2013-07-01), en de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=IV&z=2013-07-01&g=2013-07-01) en [V, onderdelen H, I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=V&z=2013-07-01&g=2013-07-01), die in werking treden met ingang van 1 juli 2013;
 
-- c. [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=I&z=2013-01-01&g=2013-01-01), dat in werking treedt met ingang van 1 januari 2014;
+- c. [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=I&z=2013-07-01&g=2013-07-01), dat in werking treedt met ingang van 1 januari 2014;
 
-- d. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=VIII&z=2013-01-01&g=2013-01-01), dat, indien het bij koninklijke boodschap van 19 april 2012 ingediende voorstel van wet tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en de Wet ter voorkoming van witwassen en financieren van terrorisme BES in verband met de implementatie van aanbevelingen van de Financial Action Task Force (33 238) tot wet is of wordt verheven, in werking treedt op het tijdstip waarop artikel I van die wet in werking treedt.
+- d. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=VIII&z=2013-07-01&g=2013-07-01), dat, indien het bij koninklijke boodschap van 19 april 2012 ingediende voorstel van wet tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en de Wet ter voorkoming van witwassen en financieren van terrorisme BES in verband met de implementatie van aanbevelingen van de Financial Action Task Force (33 238) tot wet is of wordt verheven, in werking treedt op het tijdstip waarop artikel I van die wet in werking treedt.
 
 ##### Artikel XI
 
