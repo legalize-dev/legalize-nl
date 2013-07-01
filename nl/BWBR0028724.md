@@ -4,7 +4,7 @@ identifier: "BWBR0028724"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2013-07-01"
-last_updated: "2011-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028724"
 soort: "wet-BES"
@@ -87,7 +87,7 @@ In deze wet wordt verstaan:
 
 3. Het werkboekje vermeldt de namen, de voornamen, den geboortedatum, de plaats van geboorte, het geslacht, de woonplaats, de nationaliteit, den burgerlijken staat, het aantal kinderen tot wie hij in familierechtelijke betrekking staat, welke te zijnen laste zijn en het beroep of ambacht van den arbeider. Indien de geboortedatum of de nationaliteit niet vaststaat, wordt zulks in het werkboekje aangeteekend.
 
-4. Het werkboekje, hetwelk binnen twee maal vier en twintig uren, nadat de dienstbetrekking een aanvang heeft genomen, aan den werkgever overhandigd moet worden, blijft tot op het tijdstip, in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=8&z=2011-01-01&g=2011-01-01) bepaald, onder berusting van den werkgever. De houder van het werkboekje moet dit op aanvrage van de controleerende ambtenaren onmiddellijk ter inzage toonen.
+4. Het werkboekje, hetwelk binnen twee maal vier en twintig uren, nadat de dienstbetrekking een aanvang heeft genomen, aan den werkgever overhandigd moet worden, blijft tot op het tijdstip, in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=8&z=2013-07-01&g=2013-07-01) bepaald, onder berusting van den werkgever. De houder van het werkboekje moet dit op aanvrage van de controleerende ambtenaren onmiddellijk ter inzage toonen.
 
 5. Bij verlies of in ongereede raken van het werkboekje kan een nieuw boekje worden uitgereikt. Indien aan den arbeider een of meer werkboekjes reeds werden uitgereikt, moet het nieuwe daarvan melding maken.
 
@@ -103,13 +103,13 @@ In deze wet wordt verstaan:
 
 ##### Artikel 5
 
-Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2011-01-01&g=2011-01-01), wordt door of namens den arbeider binnen tien dagen, nadat die wijziging heeft plaats gevonden, aangifte gedaan bij de autoriteit, die hem het werkboekje heeft uitgereikt.
+Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2013-07-01&g=2013-07-01), wordt door of namens den arbeider binnen tien dagen, nadat die wijziging heeft plaats gevonden, aangifte gedaan bij de autoriteit, die hem het werkboekje heeft uitgereikt.
 
 ##### Artikel 6
 
-1. Het is den werkgever verboden een arbeider in zijn dienst te hebben, die niet voldoet aan het gestelde in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2011-01-01&g=2011-01-01), dezer wet.
+1. Het is den werkgever verboden een arbeider in zijn dienst te hebben, die niet voldoet aan het gestelde in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2013-07-01&g=2013-07-01), dezer wet.
 
-2. De werkgever is verplicht binnen acht maal vier en twintig uren, nadat hij een arbeider in zijn dienst heeft genomen, hiervan melding te maken in het werkboekje van den arbeider. Deze verplichting bestaat niet, indien de dienstverhouding minder dan zes achtereenvolgende dagen (Zon- en feestdagen niet medegerekend) heeft geduurd. Indien de werkgever den dag van indiensttreding heeft ingeschreven, moet hij ook den dag van uitdiensttreding inschrijven. Onder feestdagen worden ten deze verstaan de Nieuwjaarsdag, Goede Vrijdag, Christelijke tweede Paaschdag, Hemelvaartsdag, Christelijke tweede Pinksterdag, Verjaardag der Koningin en de beide Kerstdagen.
+2. De werkgever is verplicht binnen acht maal vier en twintig uren, nadat hij een arbeider in zijn dienst heeft genomen, hiervan melding te maken in het werkboekje van den arbeider. Deze verplichting bestaat niet, indien de dienstverhouding minder dan zes achtereenvolgende dagen (Zon- en feestdagen niet medegerekend) heeft geduurd. Indien de werkgever den dag van indiensttreding heeft ingeschreven, moet hij ook den dag van uitdiensttreding inschrijven. Onder feestdagen worden ten deze verstaan de Nieuwjaarsdag, Goede Vrijdag, Christelijke tweede Paaschdag, Hemelvaartsdag, Christelijke tweede Pinksterdag, verjaardag van de Koning en de beide Kerstdagen.
 
 3. Ingeval van overlijden van den werkgever en in alle gevallen, waar deze in de onmogelijkheid zou zijn om in het werkboekje den datum van uitdiensttreding te schrijven, geschiedt zulks door de autoriteit, die den arbeider het werkboekje uitreikte.
 
@@ -169,7 +169,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 ##### Artikel 10
 
-Niet naleving van een van de voorschriften van deze wet of van de voorschriften door het bestuurscollege uit te vaardigen krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=2&z=2011-01-01&g=2011-01-01), en [9, leden 1a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=9&z=2011-01-01&g=2011-01-01), wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
+Niet naleving van een van de voorschriften van deze wet of van de voorschriften door het bestuurscollege uit te vaardigen krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=2&z=2013-07-01&g=2013-07-01), en [9, leden 1a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=9&z=2013-07-01&g=2013-07-01), wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
 
 ##### Artikel 11
 
