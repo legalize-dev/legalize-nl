@@ -4,7 +4,7 @@ identifier: "BWBR0016700"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2013-04-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016700"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 25 september 2003, nr. W 10.03.0307/II);
 Gezien het nader rapport van Onze Minister van Economische Zaken van 3 mei 2004, nr. WJZ 4028513;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt. De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 ##### Artikel 1
 
@@ -94,7 +96,11 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) in werking treedt.
+1. Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, waarborgt dat eindgebruikers gebruik kunnen maken van diensten met gebruikmaking van niet-geografische nummers binnen de Europese Unie.
+
+2. De verplichting, bedoeld in het eerste lid, houdt in ieder geval in dat de in het eerste lid bedoelde aanbieders van openbare telefoondiensten en van openbare elektronische communicatienetwerken voor oproepen naar een nummer uit de reeks 0800, 084, 085, 087, 088, 0900, 0906, 0909, 116, 14 of 18 tarieven of andere vergoedingen hanteren die vergelijkbaar zijn met de tarieven of andere vergoedingen die deze aanbieders hanteren voor oproepen naar geografische nummers, en zij uitsluitend een afwijkend tarief of afwijkende vergoeding hanteren indien dit noodzakelijk is om de extra kosten te dekken die gemoeid zijn met de oproepen naar deze niet-geografische nummers. Bij ministeriële regeling kan worden bepaald dat deze verplichting van toepassing is op andere categorieën aanbieders of op andere categorieën niet-geografische nummers.
+
+3. Bij ministeriële regeling kunnen ten aanzien van de in het eerste lid bedoelde verplichting nadere regels worden gesteld.
 
 ##### Artikel 6
 
