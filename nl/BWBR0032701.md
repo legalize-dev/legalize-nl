@@ -4,7 +4,7 @@ identifier: "BWBR0032701"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032701"
 soort: "wet"
@@ -48,7 +48,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-1. Voor een opleiding of studie in het studiejaar 2012–2013 waarvoor de belastingplichtige in 2012 aanspraak heeft op studiefinanciering volgens de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) worden in afwijking in zoverre van [artikel I, onderdelen D, E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=I&z=2013-01-01&g=2013-01-01), uitgaven voor lesgeld, cursusgeld of collegegeld als bedoeld in [artikel 6.27, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27) en uitgaven voor de middelen, bedoeld in artikel 6.27, eerste lid, onderdeel b, van die wet, voor elke maand in het kalenderjaar 2013 waarin aanspraak op studiefinanciering bestaat in aanmerking genomen tot het op grond van [artikel 6.29, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.29), zoals dat op 31 december 2012 luidde, van toepassing zijnde bedrag.
+1. Voor een opleiding of studie in het studiejaar 2012–2013 waarvoor de belastingplichtige in 2012 aanspraak heeft op studiefinanciering volgens de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) worden in afwijking in zoverre van [artikel I, onderdelen D, E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=I&z=2013-07-01&g=2013-07-01), uitgaven voor lesgeld, cursusgeld of collegegeld als bedoeld in [artikel 6.27, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27) en uitgaven voor de middelen, bedoeld in artikel 6.27, eerste lid, onderdeel b, van die wet, voor elke maand in het kalenderjaar 2013 waarin aanspraak op studiefinanciering bestaat in aanmerking genomen tot het op grond van [artikel 6.29, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.29), zoals dat op 31 december 2012 luidde, van toepassing zijnde bedrag.
 
 2. Het eerste lid is niet van toepassing indien op scholingsuitgaven voor het studiejaar 2012–2013 die zijn gedaan in het kalenderjaar 2012 [artikel 6.29, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.29), zoals dat op 31 december 2012 luidde, van toepassing is.
 
@@ -78,6 +78,8 @@ Ter zake van verzekeringen waarvan de laatste prolongatiedatum of datum van stil
 
 ##### Artikel VIIb
 
+Wijzigt deze wet.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIc
@@ -86,15 +88,17 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel VIId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel VIIe
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel VIIf
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op verzoek wordt teruggaaf verleend van omzetbelasting die is geheven van tabaksproducten als bedoeld in [artikel 29 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=29) die bij aanvang van 1 juli 2013 tot de handelsvoorraad behoren van ondernemers die handelen in tabaksproducten. Met betrekking tot de teruggaaf is [artikel 31 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31) van toepassing.
+
+2. Bij ministeriële regeling kunnen voorwaarden en beperkingen worden gesteld inzake de toepassing van dit artikel.
 
 ##### Artikel VIII
 
@@ -132,27 +136,27 @@ Ingeval de samenloop van wetten die in 2012 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 
-- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=V&z=2013-01-01&g=2013-01-01), eerst toepassing vindt nadat [artikel 30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a) bij het begin van het kalenderjaar 2013 is toegepast;
+- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=V&z=2013-07-01&g=2013-07-01), eerst toepassing vindt nadat [artikel 30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a) bij het begin van het kalenderjaar 2013 is toegepast;
 
-- b. [artikel V, onderdelen M, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=V&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot in het kalenderjaar 2013 aan speur- en ontwikkelingswerk bestede uren;
+- b. [artikel V, onderdelen M, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=V&z=2013-07-01&g=2013-07-01), voor het eerst toepassing vindt met betrekking tot in het kalenderjaar 2013 aan speur- en ontwikkelingswerk bestede uren;
 
-- c. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VI&z=2013-01-01&g=2013-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013;
+- c. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VI&z=2013-07-01&g=2013-07-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013;
 
-- d. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IX&z=2013-01-01&g=2013-01-01) voor het eerst toepassing vindt met betrekking tot belastingschulden die zijn ontstaan na 31 december 2012, en tot 1 april 2013 niet van toepassing is met betrekking tot pandrechten en de andere rechten, bedoeld in [artikel 22bis, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), die zijn ontstaan voor 1 januari 2013;
+- d. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IX&z=2013-07-01&g=2013-07-01) voor het eerst toepassing vindt met betrekking tot belastingschulden die zijn ontstaan na 31 december 2012, en tot 1 april 2013 niet van toepassing is met betrekking tot pandrechten en de andere rechten, bedoeld in [artikel 22bis, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), die zijn ontstaan voor 1 januari 2013;
 
-- e. [artikel IXd](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXd&z=2013-01-01&g=2013-01-01) toepassing vindt voordat de [artikelen II, onderdelen A, B, C, D, E, F, I, P, R en T](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=II), [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=III), [VI, onderdelen D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VI), [VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VII), [XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XI), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XIV) en [XXVIII, onderdeel Ga, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII) worden toegepast;
+- e. [artikel IXd](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXd&z=2013-07-01&g=2013-07-01) toepassing vindt voordat de [artikelen II, onderdelen A, B, C, D, E, F, I, P, R en T](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=II), [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=III), [VI, onderdelen D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VI), [VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VII), [XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XI), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XIV) en [XXVIII, onderdeel Ga, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII) worden toegepast;
 
-- f. [artikel IXe](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXe&z=2013-01-01&g=2013-01-01) toepassing vindt voordat de [artikelen XV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032208&artikel=XV), en [XIX, eerste lid, van de Fiscale verzamelwet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032208&artikel=XIX) worden toegepast.
+- f. [artikel IXe](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXe&z=2013-07-01&g=2013-07-01) toepassing vindt voordat de [artikelen XV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032208&artikel=XV), en [XIX, eerste lid, van de Fiscale verzamelwet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032208&artikel=XIX) worden toegepast.
 
-2. In afwijking van het eerste lid treden de [artikelen VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIId&z=2013-01-01&g=2013-01-01), [VIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIe&z=2013-01-01&g=2013-01-01) en [VIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIf&z=2013-01-01&g=2013-01-01) in werking met ingang van 1 juli 2013.
+2. In afwijking van het eerste lid treden de [artikelen VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIId&z=2013-07-01&g=2013-07-01), [VIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIe&z=2013-07-01&g=2013-07-01) en [VIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIf&z=2013-07-01&g=2013-07-01) in werking met ingang van 1 juli 2013.
 
-3. In afwijking van het eerste lid treden de [artikelen VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIb&z=2013-01-01&g=2013-01-01) en [VIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIc&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor deze artikelen verschillend kan worden vastgesteld.
+3. In afwijking van het eerste lid treden de [artikelen VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIb&z=2013-07-01&g=2013-07-01) en [VIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VIIc&z=2013-07-01&g=2013-07-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor deze artikelen verschillend kan worden vastgesteld.
 
-4. [Artikel IXa, onderdelen A, C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXa&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 2011.
+4. [Artikel IXa, onderdelen A, C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=IXa&z=2013-07-01&g=2013-07-01), werkt terug tot en met 1 januari 2011.
 
-5. [Artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VII&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 september 2012.
+5. [Artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VII&z=2013-07-01&g=2013-07-01), werkt terug tot en met 1 september 2012.
 
-6. [Artikel VII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VII&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 november 2012.
+6. [Artikel VII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032701&artikel=VII&z=2013-07-01&g=2013-07-01), werkt terug tot en met 1 november 2012.
 
 ##### Artikel XII
 
