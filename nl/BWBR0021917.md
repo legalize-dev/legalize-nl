@@ -4,7 +4,7 @@ identifier: "BWBR0021917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-05-01"
-last_updated: "2011-06-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021917"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ In deze regeling wordt verstaan onder:
 
 - c. gemandateerde: degene aan wie mandaat is verleend;
 
-- d. volmacht: de bevoegdheid om ten behoeve van de Minister namens de Staat der Nederlanden privaatrechtelijke rechtshandelingen te verrichten;
+- d. besluit: [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605);
 
-- e. besluit: [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605);
+- e. door verlettering vervallen;
 
 - f. retributie: retributie als bedoeld in [artikel 4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4).
 
 ##### Artikel 2
 
-1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2011-06-01&g=2011-06-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
+1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2013-07-01&g=2013-07-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
 
 - a. besluiten te nemen op aanvragen van vergunningen als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3);
 
 - b. vergunningen in te trekken als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=5);
 
-- c. de hoogte vast te stellen van de retributie.
+- c. de hoogte vast te stellen van de retributie;
 
-2. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2011-06-01&g=2011-06-01) bij deze regeling genoemde functionarissen of instanties wordt volmacht verleend om de retributies te innen, die zijn vastgesteld op basis van het eerste lid, onderdeel c.
+- d. de retributie op te leggen en te innen.
 
-3. De functionarissen en instanties bedoeld in onderscheidenlijk het eerste en het tweede lid, zijn bevoegd ondermandaat of ondervolmacht te verlenen tot het geheel of gedeeltelijk uitoefenen van de op grond van deze regeling toegekende bevoegdheden.
+2. De functionarissen en instanties bedoeld in het eerste lid, zijn bevoegd ondermandaat of ondervolmacht te verlenen tot het geheel of gedeeltelijk uitoefenen van de op grond van deze regeling toegekende bevoegdheden.
 
-4. Het verlenen van ondermandaat of ondervolmacht als bedoeld in het derde lid leidt niet tot een hogere retributie.
+3. Het verlenen van ondermandaat of ondervolmacht als bedoeld in het tweede lid leidt niet tot een hogere retributie.
 
 ##### Artikel 3
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2011-06-01&g=2011-06-01), bedoelde besluiten worden als volgt ondertekend:
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2013-07-01&g=2013-07-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -88,7 +88,7 @@ namens deze:
 
 (gevolgd door handtekening en naam van de gemandateerde)
 
-2. De in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2011-06-01&g=2011-06-01), bedoelde besluiten worden als volgt ondertekend:
+2. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2013-07-01&g=2013-07-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -102,7 +102,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2007.
 
 ##### Artikel 6
 
-Deze regeling wordt aangehaald als: Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen.
+Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen.
 
 ## Bijlage 1. Functionarissen/instanties aan wie mandaat wordt verleend
 
@@ -110,33 +110,30 @@ Deze regeling wordt aangehaald als: Regeling mandaat- en volmachtverlening aan d
 | --- | --- |
 | GGD Amsterdam | algemeen directeur |
 | GGD Drenthe | dagelijks bestuur |
-| GGD Eemland | voorzitter bestuurscommissie |
 | GGD Flevoland | algemeen directeur |
-| GGD Gelre-IJssel | dagelijks bestuur |
+| GGD Noord- en Oost Gelderland | dagelijks bestuur |
 | GGD Hart voor Brabant | directie |
 | GGD Hollands Midden | algemeen bestuur Regionale Dienst Openbare Gezondheidszorg Hollands Midden |
 | GGD Hollands Noorden | dagelijks bestuur |
-| GGD Rivierenland | directeur |
-| GGD Rotterdam-Rijnmond | algemeen directeur |
+| GGD Rotterdam-Rijnmond | directeur Publieke Gezondheid |
 | GGD West-Brabant | dagelijks bestuur Regeling Openbare Gezondheidszorg West-Brabant |
 | GGD Zaanstreek-Waterland | algemeen bestuur |
 | GGD Zeeland | directeur |
-| GGD Zuid-Holland-Zuid | directeur |
-| GGD Zuidhollandse Eilanden | dagelijks bestuur |
-| Hulpverlening Gelderland Midden | directeur Volksgezondheid/GGD |
-| GGD Limburg-Noord | dagelijks bestuur Regio Limburg-Noord |
-| GGD Regio Nijmegen | bestuurscommissie |
+| Dienst Gezondheid en Jeugd | directeur |
+| Hulpverlening Gelderland Midden | directeur Publieke Gezondheid |
+| GGD Limburg-Noord | directeur Publieke Gezondheid |
 | GGD Zuid- Holland West | directeur |
 | GGD Gooi & Vechtstreek | dagelijks bestuur Gewest Gooi & Vechtstreek |
 | GGD Zuid Limburg | dagelijks bestuur |
-| GGD Groningen | bestuurscommissie GGD |
+| GGD Gr. | bestuurscommissie GGD |
 | GGD Midden-Nederland | dagelijks bestuur |
-| GGD IJsselland | dagelijks bestuur GGD IJsselland |
+| GGD IJsselland | directeur Publieke Gezondheid |
 | GGD Regio Twente | bestuurscommissie Publieke Gezondheid |
 | Veiligheids Regio Kennemerland | dagelijks bestuur |
 | GGD Brabant-Zuidoost | dagelijks bestuur |
 | GG&GD Utrecht | directeur |
 | Gemeente Den Haag, Dienst Onderwijs, Cultuur en Welzijn | directeur Volksgezondheid, GGD Den Haag |
-| GGD Fryslân | algemeen bestuur Hulpverleningsdienst Fryslân |
+| GGD Fryslân | algemeen bestuur |
+| GGD Gelderland-Zuid | directeur Publieke Gezondheid |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
