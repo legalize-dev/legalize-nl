@@ -4,7 +4,7 @@ identifier: "BWBV0001506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2013-05-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001506"
 soort: "verdrag"
@@ -644,7 +644,7 @@ De bepalingen van de artikelen 51 tot en met 54 zijn van toepassing op het onder
 
 ##### Artikel 64
 
-1. Het bepaalde in artikel 63 doet geen afbreuk aan de toepassing op derde landen van beperkingen die op 31 december 1993 bestaan uit hoofde van het nationale recht of het recht van de Unie inzake het kapitaalverkeer naar of uit derde landen in verband met directe investeringen – met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten. Voor beperkingen uit hoofde van nationaal recht in Bulgarije, Estland en Hongarije geldt als datum 31 december 1999.
+1. Het bepaalde in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=DERDE&titeldeel=IV&hoofdstuk=4&artikel=63&z=2013-07-01&g=2013-07-01) doet geen afbreuk aan de toepassing op derde landen van beperkingen die op 31 december 1993 bestaan uit hoofde van het nationale recht of het recht van de Unie inzake het kapitaalverkeer naar of uit derde landen in verband met directe investeringen – met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten. Voor beperkingen uit hoofde van nationaal recht in Bulgarije, Estland en Hongarije geldt als datum 31 december 1999. Voor beperkingen uit hoofde van nationaal recht in Kroatië geldt als datum 31 december 2002.
 
 2. Hoewel het Europees Parlement en de Raad trachten de doelstelling van een niet aan beperkingen onderworpen vrij kapitaalverkeer tussen lidstaten en derde landen zoveel mogelijk te bereiken, stellen zij, onverminderd het bepaalde in de overige hoofdstukken van de Verdragen, volgens de gewone wetgevingsprocedure maatregelen vast betreffende het kapitaalverkeer naar of uit derde landen in verband met directe investeringen met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten.
 
@@ -3844,9 +3844,9 @@ Voor de toepassing van [artikel 7 van het Verdrag betreffende de Europese Unie](
 
 Naast de bepalingen van [artikel 52 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=52) over het territoriale toepassingsgebied van de Verdragen, gelden onderstaande bepalingen:
 
-- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=ZEVENDE&artikel=349&z=2013-05-01&g=2013-05-01).
+- 1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=ZEVENDE&artikel=349&z=2013-07-01&g=2013-07-01).
 
-- 2. De landen en gebieden overzee waarvan de lijst als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II&z=2013-05-01&g=2013-05-01) is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
+- 2. De landen en gebieden overzee waarvan de lijst als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II&z=2013-07-01&g=2013-07-01) is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.
 
 - 3. De bepalingen van de Verdragen zijn van toepassing op de Europese grondgebieden welker buitenlandse betrekkingen door een lidstaat worden behartigd.
 
