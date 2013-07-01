@@ -4,7 +4,7 @@ identifier: "BWBR0024139"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-05"
-last_updated: "2012-07-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024139"
 soort: "AMvB"
@@ -132,9 +132,9 @@ Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid 
 
 ##### Artikel 6
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-07-01&g=2012-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2012-07-01&g=2012-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -234,9 +234,9 @@ Onze Minister kan een door hem afgegeven vergunning als bedoeld in artikel 9, tw
 
 ##### Artikel 12
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2012-07-01&g=2012-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2013-07-01&g=2013-07-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2012-07-01&g=2012-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2013-07-01&g=2013-07-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -302,9 +302,9 @@ Vervallen
 
 ##### Artikel 19
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2012-07-01&g=2012-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2013-07-01&g=2013-07-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2012-07-01&g=2012-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2013-07-01&g=2013-07-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -402,15 +402,19 @@ Vervallen
 
 ##### Artikel 28
 
-Vergunningen en ontheffingen die verleend zijn op grond van het [In- en uitvoerbesluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0002408) worden geacht te zijn verleend op grond van dit besluit.
+1. Een vergunning als bedoeld in de [artikelen 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4b&z=2013-07-01&g=2013-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4c&z=2013-07-01&g=2013-07-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=7&z=2013-07-01&g=2013-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=8&z=2013-07-01&g=2013-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=14&z=2013-07-01&g=2013-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=15&z=2013-07-01&g=2013-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=21&z=2013-07-01&g=2013-07-01), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=23&z=2013-07-01&g=2013-07-01), kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+
+2. Een ontheffing als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2013-07-01&g=2013-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=12&z=2013-07-01&g=2013-07-01), en [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=19&z=2013-07-01&g=2013-07-01), kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+
+3. Voordat toepassing wordt gegeven aan het eerste of tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
 ##### Artikel 29
 
-Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
+Vergunningen en ontheffingen die verleend zijn op grond van het [In- en uitvoerbesluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0002408) worden geacht te zijn verleend op grond van dit besluit.
 
 ##### Artikel 30
 
-Dit besluit wordt aangehaald als: Besluit strategische goederen.
+Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -440,6 +444,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5. Overdracht van militaire goederen
 
-#### § 6. Slotbepalingen
+#### § 6. Integriteit
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 7. Slotbepalingen
+
+##### Artikel 31
+
+Dit besluit wordt aangehaald als: Besluit strategische goederen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
