@@ -4,7 +4,7 @@ identifier: "BWBR0032155"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032155"
 soort: "wet"
@@ -87,19 +87,19 @@ Indien bij de verlening van een subsidie tevens voorschotten van in totaal per j
 
 ##### Artikel 5
 
-Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-01-01&g=2013-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-01-01&g=2013-01-01) aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet.
+Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-07-01&g=2013-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-07-01&g=2013-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-07-01&g=2013-07-01) aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet.
 
 ##### Artikel 6
 
-1. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-01-01&g=2013-01-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-07-01&g=2013-07-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-01-01&g=2013-01-01) of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-01-01&g=2013-01-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+2. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-07-01&g=2013-07-01) of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-07-01&g=2013-07-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 ##### Artikel 7
 
 1. Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-2. Dit lid is nog niet in werking getreden.
+2. Vervallen.
 
 ##### Artikel 8
 
