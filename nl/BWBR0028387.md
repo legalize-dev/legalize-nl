@@ -4,7 +4,7 @@ identifier: "BWBR0028387"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028387"
 soort: "wet-BES"
@@ -193,10 +193,6 @@ per maand.
 
 6. Onze Minister is bevoegd uitkering van weduwenpensioen voor invaliditeit te weigeren, indien de weduwe, die een dergelijk pensioen geniet, zonder deugdelijke grond weigert zich aan een door Onze Minister gewenst geneeskundig onderzoek te onderwerpen.
 
-7. De pensioenbedragen worden bij ministeriële regeling, met inachtneming van het volgende lid, aangepast aan de ontwikkeling van de consumentenprijsindexcijfers.
-
-8. De aanpassing van de pensioenbedragen op grond van het zevende lid vindt plaats met ingang van de eerste dag van enig kalenderjaar op basis van de stijging die het consumentenprijsindexcijfer van het derde kwartaal daaraan voorafgaande aangeeft ten opzichte van het consumentenprijsindexcijfer van het derde kwartaal van het voorafgaande jaar. Onze Minister bepaalt welk consumentenprijsindexcijfer, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin wordt gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
-
 ##### Artikel 12
 
 1. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde ouderloos is geworden, USD 134
@@ -243,7 +239,7 @@ per 1 januari 2013 indien belanghebbende woonachtig is buiten de openbare licham
 
 per maand indien het tien jaar of ouder, doch nog geen 15 jaar is.
 
-3. Het wezenpensioen bedraagt voor een kind, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), USD 146
+3. Het wezenpensioen bedraagt voor een kind, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2013-07-01&g=2013-07-01), USD 146
 
 per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 227;
 
@@ -265,11 +261,11 @@ per 1 januari 2013 indien belanghebbende woonachtig is buiten de openbare licham
 
 per maand, voor zover het voldoet aan artikel 9, eerste lid, onderdelen c of d.
 
-[Artikel 11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op een wezenpensioen terzake van invaliditeit.
+[Artikel 11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing op een wezenpensioen terzake van invaliditeit.
 
 4. Indien op grond van meer dan één overlijden aanspraak op wezenpensioen kan worden gemaakt, wordt het hoogste wezenpensioen toegekend.
 
-#### § 3. Toekenning, ingang, betaling en einde van het weduwen- en wezenpensioen
+#### § 2a. Aanpassing en herziening van het weduwen- en wezenpensioen
 
 ##### Artikel 13
 
@@ -303,7 +299,7 @@ Het pensioen gaat in op de eerste dag van de maand volgende op de maand, waarin 
 
 1. Indien een op grond van deze wet gepensioneerde in een inrichting voor verpleging van geesteszieken en zwakzinnigen of door een instelling van weldadigheid, die door het openbare lichaam Bonaire, Sint Eustatius of Saba is erkend wordt verzorgd of verpleegd en de kosten van verzorging of verpleging geheel of gedeeltelijk ten laste komen van dat openbare lichaam of erkende instelling van weldadigheid, kan op verzoek van het desbetreffende orgaan het pensioen over volle kalendermaanden, gelegen binnen de duur van de verzorging of verpleging, voorzover het over die maanden nog niet is uitbetaald, aan het desbetreffende orgaan worden uitbetaald, met dien verstande dat aan dat orgaan niet meer wordt uitbetaald dan de te zijnen laste komende kosten van verzorging of verpleging bedragen.
 
-2. Voorzover in verband met het bepaalde in het voorgaande lid het pensioen niet werd uitbetaald aan de gepensioneerde of diens wettelijke vertegenwoordiger, wordt het na het overlijden van de gepensioneerde voorzover nodig in afwijking van het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2013-01-01&g=2013-01-01) bepaalde, tot en met de laatste dag van de maand, waarin het overlijden heeft plaats gehad, uitbetaald aan het in het voorgaande lid bedoelde orgaan.
+2. Voorzover in verband met het bepaalde in het voorgaande lid het pensioen niet werd uitbetaald aan de gepensioneerde of diens wettelijke vertegenwoordiger, wordt het na het overlijden van de gepensioneerde voorzover nodig in afwijking van het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2013-07-01&g=2013-07-01) bepaalde, tot en met de laatste dag van de maand, waarin het overlijden heeft plaats gehad, uitbetaald aan het in het voorgaande lid bedoelde orgaan.
 
 ##### Artikel 18
 
@@ -333,7 +329,7 @@ De termijnen van het pensioen, welke niet zijn ingevorderd binnen twee jaar na d
 
 ##### Artikel 22
 
-Aan de weduwe, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=19&z=2013-01-01&g=2013-01-01), wordt een uitkering ineens verleend ter grootte van het bedrag, dat haar aan weduwenpensioen zou toekomen, indien zij niet was hertrouwd, doch ten hoogste ter grootte van het jaarbedrag van het weduwenpensioen.
+Aan de weduwe, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=19&z=2013-07-01&g=2013-07-01), wordt een uitkering ineens verleend ter grootte van het bedrag, dat haar aan weduwenpensioen zou toekomen, indien zij niet was hertrouwd, doch ten hoogste ter grootte van het jaarbedrag van het weduwenpensioen.
 
 ##### Artikel 23
 
@@ -365,7 +361,7 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 
 ##### Artikel 24a
 
-1. Onze Minister is bevoegd om op grond van verdragen, convenanten andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van sociale voorzieningen.
+1. Onze Minister is bevoegd om op grond van verdragen, convenanten en andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van sociale voorzieningen.
 
 2. Onze Minister is eveneens bevoegd om het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van de door Onze Minister uitgevoerde sociale verzekeringswetten.
 
@@ -411,11 +407,11 @@ Vervallen
 
 ##### Artikel 30
 
-Het percentage van de premie, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2013-01-01&g=2013-01-01), wordt door Onze Minister met ingang van elk kalenderjaar voor de periode van één jaar bij ministeriële regeling vastgesteld in overeenstemming met Onze Minister van Financiën.
+Het percentage van de premie, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2013-07-01&g=2013-07-01), wordt door Onze Minister met ingang van elk kalenderjaar voor de periode van één jaar bij ministeriële regeling vastgesteld in overeenstemming met Onze Minister van Financiën.
 
 ##### Artikel 31
 
-Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2013-01-01&g=2013-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2013-07-01&g=2013-07-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -441,7 +437,7 @@ Vervallen
 
 ##### Artikel 35
 
-1. De gepensioneerde en zijn wettelijke vertegenwoordiger of het orgaan waaraan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=17&z=2013-01-01&g=2013-01-01) pensioen wordt uitbetaald, zijn verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat die van invloed kunnen zijn op het recht op pensioen, de hoogte van het pensioen of op het bedrag van het pensioen dat wordt betaald.
+1. De gepensioneerde en zijn wettelijke vertegenwoordiger of het orgaan waaraan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=17&z=2013-07-01&g=2013-07-01) pensioen wordt uitbetaald, zijn verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat die van invloed kunnen zijn op het recht op pensioen, de hoogte van het pensioen of op het bedrag van het pensioen dat wordt betaald.
 
 2. De verplichting, bedoeld in het eerste lid, geldt niet indien feiten en omstandigheden door Onze Minister kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kan worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling kan worden bepaald voor welke gegevens de vorige zin van toepassing is.
 
@@ -465,7 +461,7 @@ Vervallen
 
 1. Aan de belanghebbende wordt schriftelijk kennis gegeven van een beslissing op grond van deze wet, die verband houdt met het recht op en de uitbetaling van pensioen of uitkering.
 
-2. Een kennisgeving, bedoeld in het eerste lid, vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, en, behalve in het geval van een beslissing op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2013-01-01&g=2013-01-01), waar beroep kan worden ingesteld en de termijn voor het instellen van beroep.
+2. Een kennisgeving, bedoeld in het eerste lid, vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, en, behalve in het geval van een beslissing op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2013-07-01&g=2013-07-01), waar beroep kan worden ingesteld en de termijn voor het instellen van beroep.
 
 ##### Artikel 39
 
@@ -479,7 +475,7 @@ Vervallen
 
 3. Met betrekking tot een naheffingsaanslag, die geheel of gedeeltelijk berust op feiten, die mede tot het opleggen van een naheffingsaanslag in de inkomstenbelasting ten laste van belanghebbende aanleiding hebben gegeven, neemt de termijn voor het instellen van beroep eerst een aanvang op de datum, waarop laatstbedoelde naheffingsaanslag onherroepelijk is komen vast te staan.
 
-4. Tegen hetgeen omtrent de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01) dezer wet, alsmede omtrent het zuiver inkomen in de zin van de [Wet op de inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) voor de heffing van die belasting onherroepelijk is komen vast te staan, is beroep niet toegelaten.
+4. Tegen hetgeen omtrent de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=I&artikel=2&z=2013-07-01&g=2013-07-01) dezer wet, alsmede omtrent het zuiver inkomen in de zin van de [Wet op de inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) voor de heffing van die belasting onherroepelijk is komen vast te staan, is beroep niet toegelaten.
 
 ### Hoofdstuk VII. Overgangsbepalingen
 
@@ -499,7 +495,7 @@ Vervallen
 
 Bij algemene maatregel van bestuur kan onder nader daarbij te stellen voorwaarden worden bepaald, dat:
 
-- a. voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VII&artikel=41&z=2013-01-01&g=2013-01-01) niet-Nederlanders met Nederlanders worden gelijkgesteld;
+- a. voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VII&artikel=41&z=2013-07-01&g=2013-07-01) niet-Nederlanders met Nederlanders worden gelijkgesteld;
 
 - b. het wonen buiten Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba met het wonen in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba wordt gelijkgesteld.
 
@@ -523,13 +519,11 @@ Bij algemene maatregel van bestuur kan onder nader daarbij te stellen voorwaarde
 
 5. Een ieder is verplicht aan de op grond van het eerste lid aangewezen functionarissen alle medewerking te verlenen die in het kader van de toezicht uitoefening op grond van het tweede lid wordt gevorderd.
 
-### Hoofdstuk VIII. Strafbepalingen
+### Hoofdstuk VIIa
 
 ##### Artikel 43
 
-1. Hij, die niet voldoet aan een van de verplichtingen opgelegd in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2013-01-01&g=2013-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=36&z=2013-01-01&g=2013-01-01) wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie.
-
-2. De werkgever, die niet voldoet aan de verplichting, opgelegd in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IX&artikel=52&z=2013-01-01&g=2013-01-01), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie. Deze straf kan worden opgelegd voor elk geval waarin een werkgever voor een zijner werknemers de in dit lid bedoelde verplichting niet nakomt.
+Hij, die niet voldoet aan een van de verplichtingen opgelegd in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2013-07-01&g=2013-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=36&z=2013-07-01&g=2013-07-01) wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie.
 
 ##### Artikel 44
 
@@ -559,7 +553,7 @@ Overtredingen van bepalingen van een op grond van deze wet vastgestelde algemene
 
 ##### Artikel 50
 
-1. De in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=48&z=2013-01-01&g=2013-01-01) bedoelde personen zijn verplicht tot geheimhouding van hetgeen hun bij het toezicht op de naleving van de bij of op grond van deze wet vastgestelde bepalingen is bekend geworden, voor zover die geheimhouding niet in strijd is met enige wettelijk voorschrift.
+1. De in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=48&z=2013-07-01&g=2013-07-01) bedoelde personen zijn verplicht tot geheimhouding van hetgeen hun bij het toezicht op de naleving van de bij of op grond van deze wet vastgestelde bepalingen is bekend geworden, voor zover die geheimhouding niet in strijd is met enige wettelijk voorschrift.
 
 2. Hij, die de bij het vorige lid opgelegde geheimhouding opzettelijk schendt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de eerste categorie.
 
@@ -569,7 +563,7 @@ Overtredingen van bepalingen van een op grond van deze wet vastgestelde algemene
 
 ##### Artikel 51
 
-De in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=44&z=2013-01-01&g=2013-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=45&z=2013-01-01&g=2013-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=50&z=2013-01-01&g=2013-01-01) bedoelde strafbare feiten worden als misdrijven, de in de [artikelen 43, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=43&z=2013-01-01&g=2013-01-01), en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=46&z=2013-01-01&g=2013-01-01) bedoelde strafbare feiten als overtredingen beschouwd.
+De in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=44&z=2013-07-01&g=2013-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=45&z=2013-07-01&g=2013-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=50&z=2013-07-01&g=2013-07-01) bedoelde strafbare feiten worden als misdrijven, de in de [artikelen 43, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=43&z=2013-07-01&g=2013-07-01), en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=46&z=2013-07-01&g=2013-07-01) bedoelde strafbare feiten als overtredingen beschouwd.
 
 ### Hoofdstuk IX. Slotbepalingen
 
@@ -602,3 +596,29 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 ##### Artikel 58
 
 Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
+
+##### Artikel 12a
+
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2013-07-01&g=2013-07-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2013-07-01&g=2013-07-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+
+2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.
+
+3. De overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2013-07-01&g=2013-07-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2013-07-01&g=2013-07-01).
+
+4. Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.
+
+#### § 3. Toekenning, ingang, betaling en einde van het weduwen- en wezenpensioen
+
+#### § 4. Waarborg pensioenbetaling
+
+### Hoofdstuk IV. De op te brengen middelen
+
+### Hoofdstuk V. Het verstrekken van inlichtingen
+
+### Hoofdstuk VI. Bezwaar en beroep
+
+### Hoofdstuk VII. Overgangsbepalingen
+
+### Hoofdstuk VIII. Strafbepalingen
+
+### Hoofdstuk IX. Slotbepalingen
