@@ -4,7 +4,7 @@ identifier: "BWBR0027975"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-07-01"
-last_updated: "2010-10-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027975"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Het tarief voor het afleggen van een kennis- en vaardighedentoets voor artsen, apothekers, gezondheidzorgspsychologen, klinisch fysici, psychotherapeuten en tandartsen bedraagt:
 
-- a. € 525,– voor zover het betreft het algemene deel van de toets;
+- a. € 650,– voor zover het betreft het algemene deel van de toets;
 
 - b. € 1700,– voor zover het betreft het beroepsinhoudelijke deel van de toets voor artsen;
 
