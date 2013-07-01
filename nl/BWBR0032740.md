@@ -4,7 +4,7 @@ identifier: "BWBR0032740"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-07-01"
-last_updated: "2013-01-14"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032740"
 soort: "zbo"
@@ -143,7 +143,7 @@ De advocaat dient desgevraagd informatie te verstrekken en verantwoording af te 
 
 - e. In geval van schorsing van de advocaat wordt het maximum-aantal toevoegingen naar evenredigheid met de duur van de schorsing verminderd.
 
-- f. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&artikel=5&z=2013-01-14&g=2013-01-14) onder a geldt een afwijkend en lager maximum aantal toevoegingseenheden voor advocaten die in de twee jaren voorafgaand aan het huidig jaar van inschrijving gemiddeld meer dan 2000 punten hebben gedeclareerd. Dit lagere aantal eenheden wordt bepaald volgens de volgende formule: (2000 punten : het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren) x 250. Voor de berekening van dit lager maximum voor 2013 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 september 2010 tot 1 september 2012. Voor de berekening van dit lager maximum voor 2014 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 september 2011 tot 1 september 2013. Voor de berekening van het aantal punten tellen ook de punten voor toeslagen en extra uren mee. Indien een lager aantal eenheden geldt, wordt dit lagere aantal aan het begin van het kalenderjaar aan de advocaat meegedeeld. De Deken van de Orde van Advocaten in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van 2000 gedeclareerde punten.
+- f. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&artikel=5&z=2013-07-01&g=2013-07-01) onder a geldt een afwijkend en lager maximum aantal toevoegingseenheden voor advocaten die in de twee jaren voorafgaand aan het huidig jaar van inschrijving gemiddeld meer dan 2000 punten hebben gedeclareerd. Dit lagere aantal eenheden wordt bepaald volgens de volgende formule: (2000 punten : het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren) x 250. Voor de berekening van dit lager maximum voor 2013 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 september 2010 tot 1 september 2012. Voor de berekening van dit lager maximum voor 2014 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 september 2011 tot 1 september 2013. Voor de berekening van het aantal punten tellen ook de punten voor toeslagen en extra uren mee. Indien een lager aantal eenheden geldt, wordt dit lagere aantal aan het begin van het kalenderjaar aan de advocaat meegedeeld. De Deken van de Orde van Advocaten in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van 2000 gedeclareerde punten.
 
 ##### Artikel 6. Deskundigheid op bepaalde rechtsterreinen ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
@@ -183,7 +183,9 @@ De Raad kan in uitzonderlijke gevallen afwijken van het vereiste dat het onderde
 
 ##### Artikel 6b. Deskundigheidsvereisten voor de rechtsbijstandverlening in jeugdstrafzaken en bij verzoeken voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg (in werking treding: 1 juli 2013)
 
-Dit onderdeel is nog niet inwerking getreden
+**De vereisten voor de verstrekking van toevoegingen voor jeugdstrafzaken en voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg zijn:**
+
+- –. toelating op grond van de inschrijvingsvoorwaarden die zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=5&z=2013-07-01&g=2013-07-01).
 
 ##### Artikel 6c. Deskundigheidsvereisten voor de rechtsbijstandverlening aan psychiatrische patiënten
 
@@ -223,7 +225,7 @@ In verband met het noodzakelijke onderhouden van de ervaring wordt waar nodig ee
 
 - 2. het voldoen aan de voor deelname aan de piketregeling gestelde deskundigheidseisen.
 
-In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=1&z=2013-01-14&g=2013-01-14) zijn de Inschrijvingsvoorwaarden voor vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaringszaken opgenomen.
+In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=1&z=2013-07-01&g=2013-07-01) zijn de Inschrijvingsvoorwaarden voor vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaringszaken opgenomen.
 
 ##### Artikel 6e. Deskundigheidsvereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken
 
@@ -231,7 +233,7 @@ In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=1&z=2013-
 
 - –. toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor Asiel- en vluchtelingenrecht.
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=2&z=2013-01-14&g=2013-01-14) zijn de Inschrijvingsvoorwaarden voor het Asiel- en vluchtelingenecht opgenomen.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=2&z=2013-07-01&g=2013-07-01) zijn de Inschrijvingsvoorwaarden voor het Asiel- en vluchtelingenecht opgenomen.
 
 ##### Artikel 6f. Deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende internationale kinderontvoering
 
@@ -251,7 +253,7 @@ In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=2&z=2013-
 
 - –. toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor het Personen- en Familierecht.
 
-In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=3&z=2013-01-14&g=2013-01-14) zijn de Inschrijvingsvoorwaarden voor het Personen- en Familierecht opgenomen.
+In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&bijlage=3&z=2013-07-01&g=2013-07-01) zijn de Inschrijvingsvoorwaarden voor het Personen- en Familierecht opgenomen.
 
 ##### Artikel 7. Voorschotten ([art. 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) en [36 Bvr 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=36))
 
@@ -345,7 +347,7 @@ Voor deelname aan het rooster op het AC dient de advocaat terzake:
 
 De Raad kan nadere regels stellen met betrekking tot de frequentie van deelname, de flexibele inzet, de buitenressortelijke inzet en de beschikbaarheid voor een schaduwrooster.
 
-Indien een advocaat vóór 1 november op enig moment in het kalenderjaar de grens bereikt van 200 eenheden wordt hij van het rooster op het AC verwijderd. Voor de definitie van het begrip eenheid wordt verwezen naar [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&artikel=5&z=2013-01-14&g=2013-01-14).
+Indien een advocaat vóór 1 november op enig moment in het kalenderjaar de grens bereikt van 200 eenheden wordt hij van het rooster op het AC verwijderd. Voor de definitie van het begrip eenheid wordt verwezen naar [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032740&artikel=5&z=2013-07-01&g=2013-07-01).
 
 De advocaat kan door de Raad bij wijze van maatregel van deelneming aan de spreekuurvoorziening op het AC uitgesloten worden. De deelname eindigt eveneens indien de advocaat niet langer aan de voorwaarden voor de verstrekking van toevoegingen op het terrein van het asiel- en vluchtelingenrecht voldoet.
 
@@ -439,4 +441,34 @@ De Nederlandse Orde van Advocaten heeft, op grond van de te beschermen onafhanke
 
 ## Bijlage 5
 
-Dit onderdeel is nog niet inwerking getreden
+### Voorwaarden voor toevoegingen in jeugdstrafzaken en bij verzoeken voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg
+
+### Toelichting
+
+De rechtspraak wil in het kader van effectieve(re) rechtspraak meer samenhang aanbrengen in de behandeling en afdoening van jeugdstrafzaken en civiele jeugdzaken. Daartoe worden onder meer binnen de rechtbanken jeugdteams geformeerd en vaker combi-zittingen georganiseerd. Het komt steeds vaker voor dat in het jeugdrecht straf- en civiele aspecten met elkaar samenhangen c.q. naast elkaar spelen.
+
+De Raad voor Rechtsbijstand, de Nederlandse Orde van Advocaten en de rechtspraak achten het van groot belang dat de rechtsbijstand in zaken waarin minderjarigen zijn betrokken, wordt verleend door advocaten die voldoende kennis en ervaring in beide rechtsgebieden hebben. Het gaat hierbij specifiek om jeugdstrafzaken en machtigingen uithuisplaatsing in een accommodatie voor gesloten jeugdzorg.
+
+Teneinde een minimum kwaliteitsniveau te waarborgen heeft de Raad voor Rechtsbijstand na overleg met de Nederlandse Orde van Advocaten en de rechtspraak na te noemen criteria vastgesteld, waaraan een advocaat dient te voldoen om door de rechtbank te kunnen worden toegevoegd in jeugdstrafzaken danwel uithuisplaatsingen in een accommodatie voor gesloten jeugdzorg. De na te noemen criteria gelden tevens voor de toelating op een jeugdpiketrooster.
+
+Een toe te laten advocaat moet minimaal drie jaar relevante beroepservaring hebben en de beroepsopleiding advocatuur met goed gevolg afgerond hebben.
+
+Deze ervaringseis wordt gesteld om ervoor te zorgen dat advocaten die jeugdigen bijstaan over ervaring beschikken.
+
+Onder relevante beroepservaring wordt verstaan: drie jaar werkervaring als beëdigd advocaat. Een kortere werkervaring als advocaat volstaat, mits die gecombineerd wordt met relevante werkervaring elders. Bijvoorbeeld in een beroep bij het Openbaar Ministerie, de Rechterlijke Macht, de Politie of de Jeugdzorg.
+
+Advocaten die voor het begin van hun advocatenstage elders in een relevante werkkring hebben gewerkt, kunnen dus na voltooiing van de beroepsopleiding instromen wanneer zij, gecombineerd met andere relevante werkervaring, aan de driejaars-eis hebben voldaan. Zij moeten uiteraard ook de overige voorwaarden (opleidingspunten, meelopen) hebben nageleefd.
+
+Een eenmaal ingeschreven advocaat is overigens niet verplicht om ook aan het jeugdpiketrooster deel te gaan nemen.
+
+De landelijke lijst met advocaten wordt beheerd door de Raad voor Rechtsbijstand; de Raad voor Rechtsbijstand zal de rechtbanken periodiek een actuele lijst doen toekomen.
+
+De inschrijvingsvoorwaarden treden op 1 juli 2013 in werking. Advocaten hebben tot 1 juli 2013 de tijd om te voldoen aan de inschrijvingsvoorwaarden om opgenomen te worden op de lijst. De advocaat die per 1 juli 2013 toegelaten wil worden tot de lijst dient een schriftelijke aanvraag in bij de Raad voor Rechtsbijstand.
+
+In de tweede helft van 2015 wordt door de Raad voor Rechtsbijstand getoetst of de advocaten die tot de lijst zijn toegelaten het aantal toevoegingszaken en het aantal opleidingspunten hebben behaald dat volgens de artikelen 7, 8 en 9 nodig is om op de lijst te kunnen blijven staan. Dan zal ook een evaluatie plaatsvinden van de gestelde vereisten door vertegenwoordigers van de Raad voor Rechtsbijstand, de Nederlandse Orde van Advocaten en de rechtspraak.
+
+Om op de lijst te staan, dienen advocaten aan de volgende criteria te voldoen:
+
+### Inschrijvingsvoorwaarden om op de lijst opgenomen te worden:
+
+### Inschrijvingsvoorwaarden om op de lijst opgenomen te blijven:
