@@ -79,7 +79,3 @@ De in [artikel 17, tweede lid, van de Wet toezicht en geschillenbeslechting coll
 2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033622&artikel=1&z=2013-07-01&g=2013-07-01) vervalt met ingang van 1 januari 2015.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
