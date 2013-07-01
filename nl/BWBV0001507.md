@@ -4,7 +4,7 @@ identifier: "BWBV0001507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2012-09-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001507"
 soort: "verdrag"
@@ -799,7 +799,7 @@ De protocollen en bijlagen bij de Verdragen maken een integrerend deel daarvan u
 
 ##### Artikel 52
 
-1. De Verdragen zijn van toepassing op het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
+1. De Verdragen zijn van toepassing op het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
 2. Het territoriale toepassingsgebied van de Verdragen wordt omschreven in [artikel 355 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=355).
 
@@ -1311,7 +1311,7 @@ In afwijking van artikel 20, vierde alinea, kan de advocaat-generaal zijn met re
 
 ##### Artikel 55
 
-1. Dit Verdrag, opgesteld in één exemplaar, in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, zal worden nedergelegd in het archief van de regering van de Italiaanse Republiek die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende staten.
+1. Dit Verdrag, opgesteld in één exemplaar, in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, zal worden nedergelegd in het archief van de regering van de Italiaanse Republiek die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende staten.
 
 2. Dit Verdrag kan ook worden vertaald in andere talen die door de lidstaten zijn gekozen uit de talen die overeenkomstig hun constitutionele bestel op hun gehele grondgebied of een deel daarvan als officiële taal gelden. Van dergelijke vertalingen wordt door de betrokken lidstaat een gewaarmerkt afschrift nedergelegd in de archieven van de Raad.
 
@@ -6615,9 +6615,9 @@ De bepalingen van de artikelen 2 tot en met 7 zijn van toepassing op de advocate
 
 ##### Artikel 9
 
-De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft beurtelings betrekking op veertien en op dertien rechters.
+1. De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft betrekking op veertien rechters.
 
-De gedeeltelijke vervanging van de advocaten-generaal, die om de drie jaar plaatsvindt, heeft telkens betrekking op vier advocaten-generaal.
+2. De gedeeltelijke vervanging van de advocaten-generaal, die om de drie jaar plaatsvindt, heeft telkens betrekking op vier advocaten-generaal.
 
 ##### Artikel 10
 
@@ -9393,13 +9393,13 @@ Dit artikel is tevens van toepassing op vorderingen tegen de Europese Centrale B
 
 ##### Artikel 47
 
-Artikel 9, eerste alinea, [artikel 9 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=9_bis&z=2012-09-01&g=2012-09-01), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=14&z=2012-09-01&g=2012-09-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=15&z=2012-09-01&g=2012-09-01), [artikel 17, eerste, tweede, vierde en vijfde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=17&z=2012-09-01&g=2012-09-01), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=18&z=2012-09-01&g=2012-09-01) zijn van overeenkomstige toepassing op het Gerecht en de leden ervan.
+Artikel 9, eerste alinea, [artikel 9 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=9_bis&z=2013-07-01&g=2013-07-01), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=14&z=2013-07-01&g=2013-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=15&z=2013-07-01&g=2013-07-01), [artikel 17, eerste, tweede, vierde en vijfde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=17&z=2013-07-01&g=2013-07-01), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=18&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing op het Gerecht en de leden ervan.
 
-Artikel 3, vierde alinea, en de artikelen 10, 11 en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=14&z=2012-09-01&g=2012-09-01) zijn van overeenkomstige toepassing op de griffier van het Gerecht.
+Artikel 3, vierde alinea, en de artikelen 10, 11 en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II&artikel=14&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing op de griffier van het Gerecht.
 
 ##### Artikel 48
 
-Het Gerecht bestaat uit zevenentwintig rechters.
+Het Gerecht bestaat uit achtentwintig rechters.
 
 ##### Artikel 49
 
@@ -10093,7 +10093,7 @@ Overeenkomstig [artikel 308 van het Verdrag betreffende de werking van de Europe
 
 ##### Artikel 4
 
-1. Het kapitaal van de Bank bedraagt 164 808 169 000 euro, waarin door de lidstaten voor de volgende bedragen wordt deelgenomen
+1. Het kapitaal van de Bank bedraagt 233 247 390 000 EUR, waarin door de lidstaten voor de volgende bedragen wordt deelgenomen:
 
 | Duitsland | 26 649 532 500 |
 | --- | --- |
@@ -10113,6 +10113,7 @@ Overeenkomstig [artikel 308 van het Verdrag betreffende de werking van de Europe
 | Tsjechië | 1 258 785 500 |
 | Hongarije | 1 190 868 500 |
 | Roemenië | 863 514 500 |
+| Kroatië | 854 400 000. |
 | Ierland | 935 070 000 |
 | Slowakije | 428 490 500 |
 | Slovenië | 397 815 000 |
@@ -10160,9 +10161,9 @@ Hij ziet erop toe dat deze richtlijnen worden opgevolgd.
 
 - b. hij stelt, ter ﬁne van artikel 9, lid 1, vast volgens welke beginselen ﬁnancieringsverrichtingen door de Bank in het kader van haar taak geschieden;
 
-- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2012-09-01&g=2012-09-01) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
+- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2013-07-01&g=2013-07-01) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
 
-- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2012-09-01&g=2012-09-01), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
+- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2013-07-01&g=2013-07-01), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
 
 - e. hij keurt het door de Raad van bewind opgestelde jaarverslag goed;
 
@@ -10190,29 +10191,29 @@ De Raad van bewind ziet toe op een goed bestuur van de Bank en zorgt ervoor dat 
 
 Na het boekjaar brengt hij verslag uit aan de Raad van gouverneurs en maakt dit verslag na goedkeuring bekend.
 
-2. De Raad van bewind bestaat uit zesentwintig bewindvoerders en zestien plaatsvervangers.
+2. De Raad van bewind bestaat uit negenentwintig bewindvoerders en negentien plaatsvervangers.
 
 De bewindvoerders worden voor de tijd van vijf jaar door de Raad van gouverneurs benoemd; door elke lidstaat en door de Commissie wordt een bewindvoerder aangewezen.
 
-De plaatsvervangers worden voor een tijdvak van vijf jaar door de Raad van gouverneurs benoemd, en wel als volgt:
+De plaatsvervangende bewindvoerders worden door de Raad van gouverneurs voor een periode van vijf jaar benoemd, en wel als volgt:
 
-- –. twee plaatsvervangers aangewezen door de Bondsrepubliek Duitsland,
+- –. twee plaatsvervangers aangewezen door de Bondsrepubliek Duitsland;
 
-- –. twee plaatsvervangers aangewezen door de Franse Republiek,
+- –. twee plaatsvervangers aangewezen door de Franse Republiek;
 
-- –. twee plaatsvervangers aangewezen door de Italiaanse Republiek,
+- –. twee plaatsvervangers aangewezen door de Italiaanse Republiek;
 
-- –. twee plaatsvervangers aangewezen door het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+- –. twee plaatsvervangers aangewezen door het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
 
-- –. een plaatsvervanger aangewezen in onderlinge overeenstemming door het Koninkrijk Spanje en de Portugese Republiek,
+- –. een plaatsvervanger aangewezen in onderlinge overeenstemming door het Koninkrijk Spanje en de Portugese Republiek;
 
-- –. een plaatsvervanger aangewezen in onderlinge overeenstemming door het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden,
+- –. een plaatsvervanger in onderlinge overeenstemming aangewezen door het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
 
-- –. twee plaatsvervangers aangewezen in onderlinge overeenstemming door het Koninkrijk Denemarken, de Helleense Republiek en Ierland en Roemenië,
+- –. twee plaatsvervangers in onderlinge overeenstemming aangewezen door het Koninkrijk Denemarken, de Helleense Republiek, Ierland en Roemenië;
 
-- –. twee plaatsvervangers aangewezen in onderlinge overeenstemming door de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden,
+- –. twee plaatsvervangers in onderlinge overeenstemming aangewezen door de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden;
 
-- –. drie plaatsvervangers aangewezen in onderlinge overeenstemming door de de Republiek Bulgarije, deTsjechische Republiek, de Republiek Cyprus, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië, de Slowaakse Republiek,
+- –. vier plaatsvervangers aangewezen in onderlinge overeenstemming door de Republiek Bulgarije, de Tsjechische Republiek, de Republiek Kroatië, de Republiek Cyprus, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek;
 
 - –. een plaatsvervanger aangewezen door de Commissie.
 
@@ -11144,13 +11145,13 @@ In dit Protocol wordt onder „de Verdragen” verstaan het Verdrag betreffende 
 
 ##### Artikel 3
 
-1. Overeenkomstig artikel 16, lid 4, van het Verdrag betreffende de Europese Unie worden de bepalingen van dat lid en van [artikel 238, lid 2, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=238) inzake de bepaling van de gekwaliﬁceerde meerderheid van stemmen in de Europese Raad en de Raad van kracht op 1 november 2014.
+1. Overeenkomstig [artikel 16, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=III&artikel=16&z=2013-07-01&g=2013-07-01), van het Verdrag betreffende de Europese Unie worden de bepalingen van dat lid en van [artikel 238, lid 2, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=238) inzake de bepaling van de gekwaliﬁceerde meerderheid van stemmen in de Europese Raad en de Raad van kracht op 1 november 2014.
 
 2. Wanneer, tussen 1 november 2014 en 31 maart 2017, een besluit moet worden genomen met gekwaliﬁceerde meerderheid van stemmen, kan een lid van de Raad verzoeken dat het besluit wordt genomen met de in lid 3 omschreven gekwaliﬁceerde meerderheid. In dat geval zijn de leden 3 en 4 van toepassing.
 
 3. Tot en met 31 oktober 2014 zijn de volgende bepalingen van kracht, onverminderd [artikel 235, lid 1, tweede alinea, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=235):
 
-Voor de besluiten van de Europese Raad en de Raad waarvoor een gekwaliﬁceerde meerderheid van stemmen vereist is, worden de stemmen van de leden als volgt gewogen:
+Vóór de besluiten van de Europese Raad en de Raad waarvoor een gekwalificeerde meerderheid van stemmen vereist is, worden de stemmen van de leden als volgt gewogen:
 
 | België | 12 |
 | --- | --- |
@@ -11159,10 +11160,11 @@ Voor de besluiten van de Europese Raad en de Raad waarvoor een gekwaliﬁceerde 
 | Denemarken | 7 |
 | Duitsland | 29 |
 | Estland | 4 |
+| Ierland | 7 |
 | Griekenland | 12 |
 | Spanje | 27 |
 | Frankrijk | 29 |
-| Ierland | 7 |
+| Kroatië | 7 |
 | Italië | 29 |
 | Cyprus | 4 |
 | Letland | 4 |
@@ -11181,11 +11183,11 @@ Voor de besluiten van de Europese Raad en de Raad waarvoor een gekwaliﬁceerde 
 | Zweden | 10 |
 | Verenigd Koninkrijk | 29 |
 
-De besluiten komen tot stand wanneer zij ten minste 255 stemmen hebben verkregen en de meerderheid van de leden voorstemt, indien zij krachtens de Verdragen op voorstel van de Commissie moeten worden genomen. In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 255 stemmen hebben verkregen en ten minste twee derde van de leden voorstemmen.
+De besluiten komen tot stand wanneer zij ten minste 260 stemmen hebben verkregen en de meerderheid van de leden voor stemt, indien zij krachtens de Verdragen op voorstel van de Commissie moeten worden genomen. In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 260 stemmen hebben verkregen en ten minste twee derde van de leden voor stemt.
 
-Een lid van de Europese Raad of van de Raad kan verlangen dat, in de gevallen waarin de Europese Raad of de Raad met gekwaliﬁceerde meerderheid van stemmen een handeling vaststelt, wordt nagegaan of de lidstaten welke die gekwaliﬁceerde meerderheid vormen ten minste 62% van de bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde is voldaan, is de handeling niet vastgesteld.
+Een lid van de Europese Raad of van de Raad kan verlangen dat, in de gevallen waarin de Europese Raad of de Raad met gekwalificeerde meerderheid van stemmen een handeling vaststelt, wordt nagegaan of de lidstaten welke die gekwalificeerde meerderheid vormen ten minste 62% van de bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde is voldaan, is de handeling niet vastgesteld.
 
-4. Tot en met 31 oktober 2014 geldt, in gevallen waarin overeenkomstig de Verdragen niet alle leden van de Raad aan de stemming deelnemen, namelijk in de gevallen waarin verwezen wordt naar de gekwaliﬁceerde meerderheid omschreven in [artikel 238, lid 3, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=238), de gekwaliﬁceerde meerderheid van stemmen als het overeenkomstige aandeel van gewogen stemmen en het overeenkomstige aandeel van het aantal leden van de Raad alsmede, in voorkomend geval, het overeenkomstige aandeel van het percentage van de bevolking van de betrokken lidstaten, als vastgesteld in lid 3 van het huidige artikel.
+4. Tot en met 31 oktober 2014 geldt, in gevallen waarin overeenkomstig de Verdragen niet alle leden van de Raad aan de stemming deelnemen, namelijk in de gevallen waarin verwezen wordt naar de gekwaliﬁceerde meerderheid omschreven in [artikel 238, lid 3, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=238), de gekwaliﬁceerde meerderheid van stemmen als hetzelfde aantal gewogen stemmen en hetzelfde aantal leden van de Raad alsmede, in voorkomend geval, hetzelfde percentage van de bevolking van de betrokken lidstaten, als vastgesteld in lid 3 van het huidige artikel.
 
 ##### Artikel 4
 
@@ -11201,43 +11203,71 @@ De ambtstermijnen van de secretaris-generaal van de Raad, hoge vertegenwoordiger
 
 ##### Artikel 7
 
-Tot aan de inwerkingtreding van het in artikel 301 van het Verdrag betreffende de werking van de Europese Unie bedoelde besluit is de zetelverdeling van de leden van het Economisch en Sociaal Comité als volgt:
+Tot aan de inwerkingtreding van het in [artikel 301 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=301) bedoelde besluit is de zetelverdeling van de leden van het Economisch en Sociaal Comité als volgt:
 
-| België | 12 | Zweden | 12 |
-| --- | --- | --- | --- |
-| Bulgarije | 12 | Tsjechië | 12 |
-| Denemarken | 9 | Duitsland | 24 |
-| Estland | 7 | Griekenland | 12 |
-| Spanje | 21 | Frankrijk | 24 |
-| Ierland | 9 | Italië | 24 |
-| Cyprus | 6 | Letland | 7 |
-| Litouwen | 9 | Luxemburg | 6 |
-| Hongarije | 12 | Malta | 5 |
-| Nederland | 12 | Oostenrijk | 12 |
-| Polen | 21 | Portugal | 12 |
-| Roemenië | 15 | Slovenië | 7 |
-| Slowakije | 9 | Finland | 9 |
-|   |   | Verenigd Koninkrijk | 24 |
+| België | 12 |
+| --- | --- |
+| Bulgarije | 12 |
+| Tsjechië | 12 |
+| Denemarken | 9 |
+| Duitsland | 24 |
+| Estland | 7 |
+| Ierland | 9 |
+| Griekenland | 12 |
+| Spanje | 21 |
+| Frankrijk | 24 |
+| Kroatië | 9 |
+| Italië | 24 |
+| Cyprus | 6 |
+| Letland | 7 |
+| Litouwen | 9 |
+| Luxemburg | 6 |
+| Hongarije | 12 |
+| Malta | 5 |
+| Nederland | 12 |
+| Oostenrijk | 12 |
+| Polen | 21 |
+| Portugal | 12 |
+| Roemenië | 15 |
+| Slovenië | 7 |
+| Slowakije | 9 |
+| Finland | 9 |
+| Zweden | 12 |
+| Verenigd Koninkrijk | 24 |
 
 ##### Artikel 8
 
-Tot aan de inwerkingtreding van het in artikel 305 van het Verdrag betreffende de werking van de Europese Unie bedoelde besluit is de zetelverdeling van de leden van het Comité van de Regio’s als volgt:
+Tot aan de inwerkingtreding van het in [artikel 305 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=305) bedoelde besluit is de zetelverdeling van de leden van het Comité van de Regio's als volgt:
 
-| België | 12 | Zweden | 12 |
-| --- | --- | --- | --- |
-| Bulgarije | 12 | Tsjechië | 12 |
-| Denemarken | 9 | Duitsland | 24 |
-| Estland | 7 | Griekenland | 12 |
-| Spanje | 21 | Frankrijk | 24 |
-| Ierland | 9 | Italië | 24 |
-| Cyprus | 6 | Letland | 7 |
-| Litouwen | 9 | Luxemburg | 6 |
-| Hongarije | 12 | Malta | 5 |
-| Nederland | 12 | Oostenrijk | 12 |
-| Polen | 21 | Portugal | 12 |
-| Roemenië | 15 | Slovenië | 7 |
-| Slowakije | 9 | Finland | 9 |
-|   |   | Verenigd Koninkrijk | 24 |
+| België | 12 |
+| --- | --- |
+| Bulgarije | 12 |
+| Tsjechië | 12 |
+| Denemarken | 9 |
+| Duitsland | 24 |
+| Estland | 7 |
+| Ierland | 9 |
+| Griekenland | 12 |
+| Spanje | 21 |
+| Frankrijk | 24 |
+| Kroatië | 9 |
+| Italië | 24 |
+| Cyprus | 6 |
+| Letland | 7 |
+| Litouwen | 9 |
+| Luxemburg | 6 |
+| Hongarije | 12 |
+| Malta | 5 |
+| Nederland | 12 |
+| Oostenrijk | 12 |
+| Polen | 21 |
+| Portugal | 12 |
+| Roemenië | 15 |
+| Slovenië | 7 |
+| Slowakije | 9 |
+| Finland | 9 |
+| Zweden | 12 |
+| Verenigd Koninkrijk | 24 |
 
 ##### Artikel 9
 
