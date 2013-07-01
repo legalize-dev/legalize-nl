@@ -4,7 +4,7 @@ identifier: "BWBR0002622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002622"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 ##### Artikel 3
 
-Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene wiens dienstbetrekking is geëindigd anders dan door opzegging met inachtneming van de rechtens geldende termijn, doch aan wie geen uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt verleend, aangezien hij in verband met die beëindiging recht heeft op inkomsten die worden gelijkgesteld met het recht op onverminderde doorbetaling van zijn loon als bedoeld in [artikel 16, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16).
+Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene wiens dienstbetrekking is geëindigd anders dan door opzegging met inachtneming van de rechtens geldende termijn, doch aan wie geen uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt verleend, doordat op grond van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1), en [artikel 2, van de Gelijkstellingsregeling arbeidsuren](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=2) geen verlies van arbeidsuren optreedt.
 
 ##### Artikel 4
 
