@@ -4,7 +4,7 @@ identifier: "BWBV0005638"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2011-12-09"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005638"
 soort: "verdrag"
@@ -170,21 +170,21 @@ Overeenstemming hebben bereikt:
 
 ##### Artikel 2
 
-De bepalingen betreffende de rechten en verplichtingen van de lidstaten, alsmede de algemene en bijzondere bevoegdheden van de instellingen van de Unie, zoals die zijn neergelegd in de Verdragen waarbij de Republiek Kroatië uit hoofde van [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=1&z=2011-12-09&g=2011-12-09), partij wordt, zijn van toepassing ten aanzien van dit Verdrag.
+De bepalingen betreffende de rechten en verplichtingen van de lidstaten, alsmede de algemene en bijzondere bevoegdheden van de instellingen van de Unie, zoals die zijn neergelegd in de Verdragen waarbij de Republiek Kroatië uit hoofde van [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=1&z=2013-07-01&g=2013-07-01), partij wordt, zijn van toepassing ten aanzien van dit Verdrag.
 
 ##### Artikel 3
 
 1. Dit Verdrag zal door de hoge verdragsluitende partijen worden bekrachtigd overeenkomstig hun onderscheidene grondwettelijke bepalingen. De akten van bekrachtiging zullen uiterlijk op 30 juni 2013 worden neergelegd bij de Regering van de Italiaanse Republiek.
 
-2. Door middel van het bekrachtigen van dit Verdrag wordt de Republiek Kroatië tevens geacht alle wijzigingen van de in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=1&z=2011-12-09&g=2011-12-09), genoemde Verdragen die op het moment waarop de Republiek Kroatië dit Verdrag bekrachtigt open staan voor bekrachtiging of goedkeuring door de lidstaten volgens [artikel 48 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), alsmede de besluiten van de instellingen die op dat moment worden of reeds eerder zijn vastgesteld en pas in werking treden nadat zij door de lidstaten overeenkomstig hun onderscheidene grondwettelijke bepalingen zijn goedgekeurd, te hebben bekrachtigd of goedgekeurd.
+2. Door middel van het bekrachtigen van dit Verdrag wordt de Republiek Kroatië tevens geacht alle wijzigingen van de in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=1&z=2013-07-01&g=2013-07-01), genoemde Verdragen die op het moment waarop de Republiek Kroatië dit Verdrag bekrachtigt open staan voor bekrachtiging of goedkeuring door de lidstaten volgens [artikel 48 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), alsmede de besluiten van de instellingen die op dat moment worden of reeds eerder zijn vastgesteld en pas in werking treden nadat zij door de lidstaten overeenkomstig hun onderscheidene grondwettelijke bepalingen zijn goedgekeurd, te hebben bekrachtigd of goedgekeurd.
 
 3. Dit Verdrag treedt in werking op 1 juli 2013, mits alle akten van bekrachtiging voor die datum zijn neergelegd.
 
-4. Onverminderd lid 3, kunnen de instellingen van de Unie vóór de toetreding de maatregelen vaststellen als bedoeld in [artikel 3, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=3&z=2011-12-09&g=2011-12-09), [artikel 6, lid 2, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=6&z=2011-12-09&g=2011-12-09), artikel 6, lid 3, tweede alinea, artikel 6, lid 6, tweede en derde alinea, artikel 6, lid 7, tweede alinea, artikel 6, lid 8, derde alinea, [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=17&z=2011-12-09&g=2011-12-09), [artikel 29, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=29&z=2011-12-09&g=2011-12-09), [artikel 30, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=30&z=2011-12-09&g=2011-12-09), [artikel 31, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=31&z=2011-12-09&g=2011-12-09), [artikel 35, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=35&z=2011-12-09&g=2011-12-09), de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=38&z=2011-12-09&g=2011-12-09), [39](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=39&z=2011-12-09&g=2011-12-09), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=41&z=2011-12-09&g=2011-12-09), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=42&z=2011-12-09&g=2011-12-09), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=43&z=2011-12-09&g=2011-12-09), [44](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=44&z=2011-12-09&g=2011-12-09), [49](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=49&z=2011-12-09&g=2011-12-09), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=50&z=2011-12-09&g=2011-12-09) en [51](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=51&z=2011-12-09&g=2011-12-09), en [bijlagen IV tot en met VI van de in artikel 1, lid 3, bedoelde Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IV&z=2011-12-09&g=2011-12-09).
+4. Onverminderd lid 3, kunnen de instellingen van de Unie vóór de toetreding de maatregelen vaststellen als bedoeld in [artikel 3, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=3&z=2013-07-01&g=2013-07-01), [artikel 6, lid 2, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=6&z=2013-07-01&g=2013-07-01), artikel 6, lid 3, tweede alinea, artikel 6, lid 6, tweede en derde alinea, artikel 6, lid 7, tweede alinea, artikel 6, lid 8, derde alinea, [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=17&z=2013-07-01&g=2013-07-01), [artikel 29, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=29&z=2013-07-01&g=2013-07-01), [artikel 30, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=30&z=2013-07-01&g=2013-07-01), [artikel 31, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=31&z=2013-07-01&g=2013-07-01), [artikel 35, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=35&z=2013-07-01&g=2013-07-01), de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=38&z=2013-07-01&g=2013-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=39&z=2013-07-01&g=2013-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=41&z=2013-07-01&g=2013-07-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=42&z=2013-07-01&g=2013-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=43&z=2013-07-01&g=2013-07-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=44&z=2013-07-01&g=2013-07-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=49&z=2013-07-01&g=2013-07-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=50&z=2013-07-01&g=2013-07-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=II&artikel=51&z=2013-07-01&g=2013-07-01), en [bijlagen IV tot en met VI van de in artikel 1, lid 3, bedoelde Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IV&z=2013-07-01&g=2013-07-01).
 
 Deze maatregelen treden slechts in werking onder voorbehoud en op de datum van inwerkingtreding van het onderhavige Verdrag.
 
-5. Onverminderd lid 3, is [artikel 36 van de in artikel 1, lid 3, bedoelde Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=36&z=2011-12-09&g=2011-12-09) van toepassing bij de ondertekening van het onderhavige Verdrag.
+5. Onverminderd lid 3, is [artikel 36 van de in artikel 1, lid 3, bedoelde Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=36&z=2013-07-01&g=2013-07-01) van toepassing bij de ondertekening van het onderhavige Verdrag.
 
 ##### Artikel 4
 
@@ -222,17 +222,17 @@ Wanneer wijzigingen in de oorspronkelijke Verdragen door de vertegenwoordigers v
 
 3. Kroatië bevindt zich ten aanzien van de verklaringen, resoluties of andere standpuntbepalingen van de Europese Raad of de Raad, alsmede ten aanzien van die welke betrekking hebben op de Unie en in onderling overleg tussen de lidstaten zijn aanvaard, in dezelfde situatie als de huidige lidstaten; Kroatië zal derhalve de beginselen en beleidslijnen die hieruit voortvloeien eerbiedigen en de maatregelen treffen die nodig zouden kunnen blijken ter verzekering van de toepassing daarvan.
 
-4. Kroatië treedt toe tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2011-12-09&g=2011-12-09) opgesomde verdragen, overeenkomsten en protocollen. Deze verdragen, overeenkomsten en protocollen treden in werking ten aanzien van Kroatië op de datum die door de Raad wordt bepaald in de in lid 5 bedoelde besluiten.
+4. Kroatië treedt toe tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2013-07-01&g=2013-07-01) opgesomde verdragen, overeenkomsten en protocollen. Deze verdragen, overeenkomsten en protocollen treden in werking ten aanzien van Kroatië op de datum die door de Raad wordt bepaald in de in lid 5 bedoelde besluiten.
 
 5. De Raad besluit op aanbeveling van de Commissie en na raadpleging van het Europees Parlement met eenparigheid van stemmen de ingevolge de toetreding vereiste aanpassingen aan te brengen in de verdragen, overeenkomsten en protocollen als bedoeld in lid 4, en de aangepaste tekst bekend te maken in het Publicatieblad van de Europese Unie.
 
 6. Kroatië verbindt zich ertoe om met betrekking tot de verdragen, overeenkomsten en protocollen als bedoeld in lid 4 administratieve en andere regelingen in te voeren zoals de regelingen die de huidige lidstaten of de Raad voor de datum van toetreding hebben vastgesteld, en de praktische samenwerking tussen de instellingen en organisaties van de lidstaten te faciliteren.
 
-7. De Raad kan op voorstel van de Commissie met eenparigheid van stemmen [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2011-12-09&g=2011-12-09) aanvullen met de verdragen, overeenkomsten en protocollen die vóór de datum van toetreding zijn ondertekend.
+7. De Raad kan op voorstel van de Commissie met eenparigheid van stemmen [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2013-07-01&g=2013-07-01) aanvullen met de verdragen, overeenkomsten en protocollen die vóór de datum van toetreding zijn ondertekend.
 
 ##### Artikel 4
 
-1. De bepalingen van het Schengenacquis als bedoeld in het aan het VEU en het VWEU gehechte [Protocol betreffende het in het kader van de Europese Unie geïntegreerde Schengenacquis](onbekend) (hierna het „Schengenprotocol” genoemd), en de daarop voortbouwende of op een andere wijze daaraan gerelateerde rechtsbesluiten die zijn opgesomd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=II&z=2011-12-09&g=2011-12-09), evenals alle andere dergelijke rechtsbesluiten die eventueel worden vastgesteld vóór de toetredingsdatum, zijn vanaf de datum van toetreding verbindend voor en toepasselijk in Kroatië.
+1. De bepalingen van het Schengenacquis als bedoeld in het aan het VEU en het VWEU gehechte [Protocol betreffende het in het kader van de Europese Unie geïntegreerde Schengenacquis](onbekend) (hierna het „Schengenprotocol” genoemd), en de daarop voortbouwende of op een andere wijze daaraan gerelateerde rechtsbesluiten die zijn opgesomd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=II&z=2013-07-01&g=2013-07-01), evenals alle andere dergelijke rechtsbesluiten die eventueel worden vastgesteld vóór de toetredingsdatum, zijn vanaf de datum van toetreding verbindend voor en toepasselijk in Kroatië.
 
 2. De bepalingen van het Schengenacquis zoals dat in het kader van de Europese Unie is opgenomen, en de daarop voortbouwende of op een andere wijze daaraan gerelateerde rechtsbesluiten welke niet in lid 1 bedoeld worden, zijn vanaf de datum van toetreding verbindend voor Kroatië, maar zijn in Kroatië slechts toepasselijk op grond van een daartoe strekkend besluit van de Raad, nadat overeenkomstig de toepasselijke Schengenevaluatieprocedures is geconstateerd dat in Kroatië aan de nodige voorwaarden voor de toepassing van alle onderdelen van het betreffende acquis is voldaan, inclusief de effectieve toepassing van alle Schengenvoorschriften overeenkomstig de overeengekomen gemeenschappelijke normen en de grondbeginselen. De Raad besluit overeenkomstig de toepasselijke Schengenprocedures en houdt rekening met het verslag van de Commissie waarin wordt bevestigd dat Kroatië de in de toetredingsonderhandelingen aangegane verbintenissen die relevant zijn voor het Schengenacquis blijft nakomen.
 
@@ -338,11 +338,11 @@ Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992 en
 
 ##### Artikel 15
 
-Ten aanzien van de besluiten genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=III&z=2011-12-09&g=2011-12-09) vinden de aanpassingen plaats die in die bijlage worden omschreven.
+Ten aanzien van de besluiten genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=III&z=2013-07-01&g=2013-07-01) vinden de aanpassingen plaats die in die bijlage worden omschreven.
 
 ##### Artikel 16
 
-De in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IV&z=2011-12-09&g=2011-12-09) opgesomde maatregelen worden toegepast op de in die bijlage bepaalde voorwaarden.
+De in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IV&z=2013-07-01&g=2013-07-01) opgesomde maatregelen worden toegepast op de in die bijlage bepaalde voorwaarden.
 
 ##### Artikel 17
 
@@ -354,7 +354,7 @@ De Raad kan, met eenparigheid van stemmen, op voorstel van de Commissie en na ra
 
 ##### Artikel 18
 
-De in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=V&z=2011-12-09&g=2011-12-09) vermelde maatregelen zijn ten aanzien van Kroatië van toepassing onder de in die bijlage neergelegde voorwaarden.
+De in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=V&z=2013-07-01&g=2013-07-01) vermelde maatregelen zijn ten aanzien van Kroatië van toepassing onder de in die bijlage neergelegde voorwaarden.
 
 ## TITEL II. INSTITUTIONELE BEPALINGEN
 
@@ -416,7 +416,7 @@ Deze bijdrage wordt gestort in acht gelijke termijnen die vervallen op 30 novemb
 
 3. De in de leden 1 en 2 bedoelde stortingen worden door Kroatië verricht in contanten in euro's, behoudens een door de Raad van gouverneurs van de Europese Investeringsbank met eenparigheid van stemmen besloten afwijking.
 
-4. De in lid 1 en in [artikel 10, punt 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=I&artikel=10&z=2011-12-09&g=2011-12-09), bedoelde cijfers voor Kroatië kunnen bij besluit van de bestuursorganen van de Europese Investeringsbank worden aangepast op basis van de laatste definitieve bbp-gegevens die Eurostat vóór de toetreding heeft bekendgemaakt.
+4. De in lid 1 en in [artikel 10, punt 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=I&artikel=10&z=2013-07-01&g=2013-07-01), bedoelde cijfers voor Kroatië kunnen bij besluit van de bestuursorganen van de Europese Investeringsbank worden aangepast op basis van de laatste definitieve bbp-gegevens die Eurostat vóór de toetreding heeft bekendgemaakt.
 
 ##### Artikel 28
 
@@ -437,7 +437,7 @@ Deze bijdrage wordt gestort in acht gelijke termijnen die vervallen op 30 novemb
 
 ##### Artikel 29
 
-1. Vanaf de datum van toetreding worden overheidsopdrachten, subsidies en de betaling met betrekking tot pretoetredingsmiddelen uit hoofde van de afdelingen Omschakeling en institutionele opbouw en Grensoverschrijdende samenwerking van het Instrument voor pretoetredingssteun (IPA), opgericht bij [Verordening (EG) nr. 1085/2006](32006R1085) van de Raad van 17 juli 20068)PB L 210 van 31.7.2006, blz. 82. betreffende vóór de toetreding vastgelegde middelen, behoudens de grensoverschrijdende programma's Kroatië-Hongarije en Kroatië-Slovenië, alsmede de overgangsfaciliteit als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=30&z=2011-12-09&g=2011-12-09) beheerd door uitvoeringsinstanties in Kroatië.
+1. Vanaf de datum van toetreding worden overheidsopdrachten, subsidies en de betaling met betrekking tot pretoetredingsmiddelen uit hoofde van de afdelingen Omschakeling en institutionele opbouw en Grensoverschrijdende samenwerking van het Instrument voor pretoetredingssteun (IPA), opgericht bij [Verordening (EG) nr. 1085/2006](32006R1085) van de Raad van 17 juli 20068)PB L 210 van 31.7.2006, blz. 82. betreffende vóór de toetreding vastgelegde middelen, behoudens de grensoverschrijdende programma's Kroatië-Hongarije en Kroatië-Slovenië, alsmede de overgangsfaciliteit als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=III&artikel=30&z=2013-07-01&g=2013-07-01) beheerd door uitvoeringsinstanties in Kroatië.
 
 Van de voorafgaande goedkeuring door de Commissie van overheidsopdrachten en subsidies zal worden afgezien bij een besluit van de Commissie te dien einde nadat de Commissie zich ervan heeft vergewist dat de beheer- en controlesystemen doeltreffend functioneren overeenkomstig de criteria en voorwaarden in artikel 56, lid 2, van Verordening (EG, Euratom) nr. 1605/2002 van de Raad van 25 juni 2002 houdende het Financieel Reglement van toepassing op de algemene begroting van de Europese Gemeenschappen9)PB L 248 van 16.9.2002, blz. 1. en in artikel 18 van [Verordening (EG) nr. 718/2007](32007R0718) van de Commissie van 12 juni 2007 houdende uitvoeringsbepalingen van [Verordening (EG) nr. 1085/2006](32006R1085) van de Raad tot invoering van een instrument voor pretoetredingssteun10)PB L 170 van 29.6.2007, blz. 1..
 
@@ -447,7 +447,7 @@ Indien het besluit van de Commissie om af te zien van voorafgaande goedkeuring n
 
 3. De bepalingen inzake de uitvoering van begrotingsverplichtingen in het kader van financieringsovereenkomsten betreffende de in lid 1, eerste alinea bedoelde financiële pretoetredingssteun en de IPA-afdeling plattelandsontwikkeling, die betrekking hebben op vóór de toetreding genomen financiële besluiten, blijven na de datum van toetreding van toepassing. Zij vallen onder de regels en voorschriften van de financiële pretoetredingsinstrumenten. Desalniettemin worden na de toetreding ingeleide procedures inzake overheidsopdrachten uitgevoerd overeenkomstig de toepasselijke richtlijnen van de Unie.
 
-4. Pretoetredingsmiddelen ter dekking van administratieve uitgaven als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=44&z=2011-12-09&g=2011-12-09) kunnen gedurende de eerste twee jaar na de toetreding worden vastgelegd. Voor audit- en evaluatiekosten kunnen tot vijf jaar na de toetreding pretoetredingsmiddelen worden vastgelegd.
+4. Pretoetredingsmiddelen ter dekking van administratieve uitgaven als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&titeldeel=IV&artikel=44&z=2013-07-01&g=2013-07-01) kunnen gedurende de eerste twee jaar na de toetreding worden vastgelegd. Voor audit- en evaluatiekosten kunnen tot vijf jaar na de toetreding pretoetredingsmiddelen worden vastgelegd.
 
 ##### Artikel 30
 
@@ -529,11 +529,11 @@ Indien het besluit van de Commissie om af te zien van voorafgaande goedkeuring n
 
 In 2013 wordt aan Kroatië 27,7 miljoen EUR (huidige prijzen) toegewezen uit hoofde van de afdeling Plattelandsontwikkeling als bedoeld in artikel 12 van [Verordening (EG) nr. 1085/2006](32006R1085) van de Raad.
 
-2. De tijdelijke aanvullende plattelandsontwikkelingsmaatregelen voor Kroatië staan in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VI&z=2011-12-09&g=2011-12-09).
+2. De tijdelijke aanvullende plattelandsontwikkelingsmaatregelen voor Kroatië staan in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VI&z=2013-07-01&g=2013-07-01).
 
 3. De Commissie kan, door middel van uitvoeringshandelingen, de regels vaststellen die nodig zijn voor de toepassing van bijlage VI. Deze uitvoeringshandelingen worden vastgesteld volgens de procedure van artikel 90, lid 2, van [Verordening (EG) nr. 1698/2005](32005R1698) van de Raad, samen met artikel 13, lid 1, onder b) van Verordening (EU) nr. 182/2011 van het Europees Parlement en de Raad van 16 februari 2011 tot vaststelling van de algemene voorschriften en beginselen die van toepassing zijn op de wijze waarop de lidstaten de uitoefening van de uitvoeringsbevoegdheden door de Commissie controleren12)PB L 55 van 28.2.2011, blz. 3., of de desbetreffende procedure in de toepasselijke wetgeving.
 
-4. Indien nodig past de Raad, op voorstel van de Commissie en na raadpleging van het Europees Parlement, [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VI&z=2011-12-09&g=2011-12-09) aan teneinde voor samenhang met de verordeningen betreffende plattelandsontwikkeling te zorgen.
+4. Indien nodig past de Raad, op voorstel van de Commissie en na raadpleging van het Europees Parlement, [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VI&z=2013-07-01&g=2013-07-01) aan teneinde voor samenhang met de verordeningen betreffende plattelandsontwikkeling te zorgen.
 
 ## TITEL IV. OVERIGE BEPALINGEN
 
@@ -541,9 +541,9 @@ In 2013 wordt aan Kroatië 27,7 miljoen EUR (huidige prijzen) toegewezen uit hoo
 
 1. De Commissie ziet nauwlettend toe op alle verplichtingen die Kroatië tijdens de toetredingsonderhandelingen is aangegaan, waaronder die welke het vóór of uiterlijk op de datum van toetreding moet nakomen. Het door de Commissie uitgeoefende toezicht zal bestaan uit regelmatig geactualiseerde monitoringtabellen, de dialoog in het kader van de [Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Kroatië, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0001647)13)PB L 26 van 28.1.2005, blz. 3. (SAO), collegiale toetsingen, het economische pretoetredingsprogramma, begrotingskennisgevingen en, indien nodig, schriftelijke waarschuwingen aan de Kroatische autoriteiten. In het najaar van 2011 en 2012 legt de Commissie een voortgangsverslag voor aan het Europees Parlement en de Raad. In het najaar van 2012 legt zij een uitgebreid monitoringverslag voor aan het Europees Parlement en de Raad. De Commissie maakt tijdens het gehele monitoringproces ook gebruik van inbreng van de lidstaten en houdt, in voorkomend geval, rekening met de bijdrage van internationale en maatschappelijke organisaties.
 
-Het toezicht door de Commissie heeft in het bijzonder betrekking op de door Kroatië aangegane verplichtingen op het gebied van rechterlijke macht en grondrechten ([bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VII&z=2011-12-09&g=2011-12-09)), waarbij het land ook resultaten moet blijven voorleggen op het gebied van justitiële hervorming en efficiëntie, de onpartijdige behandeling van rechtszaken betreffende oorlogsmisdaden en de bestrijding van corruptie.
+Het toezicht door de Commissie heeft in het bijzonder betrekking op de door Kroatië aangegane verplichtingen op het gebied van rechterlijke macht en grondrechten ([bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=VII&z=2013-07-01&g=2013-07-01)), waarbij het land ook resultaten moet blijven voorleggen op het gebied van justitiële hervorming en efficiëntie, de onpartijdige behandeling van rechtszaken betreffende oorlogsmisdaden en de bestrijding van corruptie.
 
-Daarnaast zal de Commissie haar monitoring toespitsen op het gebied van vrijheid, veiligheid en recht, waaronder de implementatie en handhaving van de Unie-voorschriften inzake beheer van de buitengrenzen, politiële samenwerking, bestrijding van georganiseerde criminaliteit en justitiële samenwerking in burgerlijke en strafzaken, alsmede op de verplichtingen op het gebied van het mededingingsbeleid, waaronder de herstructurering van de scheepsbouw (bijlage VIII) en van de staalsector ([bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IX&z=2011-12-09&g=2011-12-09)).
+Daarnaast zal de Commissie haar monitoring toespitsen op het gebied van vrijheid, veiligheid en recht, waaronder de implementatie en handhaving van de Unie-voorschriften inzake beheer van de buitengrenzen, politiële samenwerking, bestrijding van georganiseerde criminaliteit en justitiële samenwerking in burgerlijke en strafzaken, alsmede op de verplichtingen op het gebied van het mededingingsbeleid, waaronder de herstructurering van de scheepsbouw (bijlage VIII) en van de staalsector ([bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=IX&z=2013-07-01&g=2013-07-01)).
 
 Als integrerend deel van haar regelmatige monitoringtabellen en -verslagen maakt de Commissie tot de datum van toetreding van Kroatië halfjaarlijkse beoordelingen bekend van de door Kroatië aangegane verplichtingen op deze gebieden.
 
@@ -575,7 +575,7 @@ Deze maatregelen kunnen de vorm aannemen van een tijdelijke schorsing van de toe
 
 ##### Artikel 40
 
-Teneinde de goede werking van de interne markt niet te verstoren mag de uitvoering van de nationale voorschriften van Kroatië gedurende de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=V&z=2011-12-09&g=2011-12-09) bedoelde overgangsperioden niet leiden tot grenscontroles tussen de lidstaten.
+Teneinde de goede werking van de interne markt niet te verstoren mag de uitvoering van de nationale voorschriften van Kroatië gedurende de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=V&z=2013-07-01&g=2013-07-01) bedoelde overgangsperioden niet leiden tot grenscontroles tussen de lidstaten.
 
 ##### Artikel 41
 
@@ -645,7 +645,7 @@ De teksten van de besluiten van de instellingen die vóór de toetreding zijn va
 
 ##### Artikel 53
 
-[Bijlagen I tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2011-12-09&g=2011-12-09), de aanhangsels en het Protocol maken een integrerend deel van deze Akte uit.
+[Bijlagen I tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&bijlage=I&z=2013-07-01&g=2013-07-01), de aanhangsels en het Protocol maken een integrerend deel van deze Akte uit.
 
 ##### Artikel 54
 
@@ -693,7 +693,7 @@ Geen overdracht mag in totaal groter zijn dan zeven miljoen AAU's.
 
 ##### Artikel 4
 
-Dit gedeelte is van toepassing op de door Kroatië te verstrekken compensatie voor de overdracht van AAU's overeenkomstig [deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&deel=I&z=2011-12-09&g=2011-12-09).
+Dit gedeelte is van toepassing op de door Kroatië te verstrekken compensatie voor de overdracht van AAU's overeenkomstig [deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&deel=I&z=2013-07-01&g=2013-07-01).
 
 ##### Artikel 5
 
