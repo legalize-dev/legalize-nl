@@ -4,7 +4,7 @@ identifier: "BWBR0003734"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003734"
 soort: "wet"
@@ -48,9 +48,7 @@ goederen: roerende of onroerende zaken of vermogensrechten;
 
 diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst;
 
-Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;
-
-College: het College van Beroep voor het bedrijfsleven.
+Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder prijzen niet verstaan de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van een rentevergoeding dragen.
 
@@ -60,7 +58,7 @@ De bij deze wet aan Onze Minister van Economische Zaken, Landbouw en Innovatie v
 
 ##### Artikel 3
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2013-01-01&g=2013-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-07-01&g=2013-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2013-07-01&g=2013-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -158,8 +156,8 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als: Prijzennoodwet.
 
-2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-07-01&g=2013-07-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-01-01&g=2013-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2013-07-01&g=2013-07-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
