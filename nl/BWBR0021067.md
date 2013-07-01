@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en beroepsconsulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
+2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2013-07-01&g=2013-07-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
 
 3. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
 
@@ -150,21 +150,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 ##### Artikel 6
 
-1. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) heeft uitsluitend de verzoeker, die ongeletterd is in de eigen en de Nederlandse taal, en van wie, gezien zijn leeftijd en overige omstandigheden, waaronder mede wordt verstaan aantoonbaar geleverde inspanning om zich te alfabetiseren in de Nederlandse taal, niet meer kan worden verwacht dat hij binnen een tijdsbestek van vijf jaar de schriftelijke vaardigheden in het Nederlands zal beheersen op het in deze Regeling gewenste niveau, en die het onderdeel spreekvaardigheid van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdeel d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met succes heeft afgelegd.
+1. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een beschikking van de minister van Sociale Zaken en Werkgelegenheid overlegt waaruit blijkt dat hij op grond van [artikel 6, eerste lid, aanhef en onder b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), is ontheven van de inburgeringsplicht wegens aantoonbaar geleverde inspanningen om aan die plicht te voldoen.
 
-2. Ten bewijze dat van verzoeker redelijkerwijs niet kan worden verwacht dat voor hem haalbaar is om binnen een periode van vijf jaar de schriftelijke vaardigheden te beheersen op het in deze Regeling gewenste niveau, legt de verzoeker een daartoe strekkende verklaring en advies van het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam over.
+2. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker die een advies van de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap overlegt inhoudende dat ondanks aantoonbaar geleverde inspanningen van hem niet kan worden verwacht dat hij de naturalisatietoets met succes aflegt.
 
-3. Aan de advisering door het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam als bedoeld in het tweede lid, zijn kosten verbonden die door de verzoeker voorafgaande aan de advisering voldaan dienen te worden.
+3. DUO geeft het in het tweede lid bedoelde advies op diens verzoek af aan de vreemdeling die:
 
-4. De in het derde lid bedoelde kosten bedragen € 287.
+- a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op Werk Keurmerk en ten minste 4 keer heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets; of
 
-5. Het bedrag wordt jaarlijks per 1 januari gewijzigd met een percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer en de CAO-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 juni van enig jaar en, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
+- b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een instelling met het Blik op Werk Keurmerk en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
 
-6. Het wijzigingspercentage wordt afgerond op tienden van een procent. Daarbij vindt, indien van het in het vijfde lid bedoelde procentuele verschil het tweede of een volgende cijfer achter de komma vijf of hoger bedraagt, voor wat betreft die cijfers afronding naar boven plaats.
+4. Ter zake van de door DUO afgenomen toets, bedoeld in het derde lid, onder b, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
 
-7. Het overeenkomstig het vijfde lid gewijzigde bedrag wordt afgerond op hele euro’s, waarbij bedragen eindigend op 50 cent of meer naar boven worden afgerond.
-
-8. De ministeriële beschikking en het nieuwe bedrag worden gepubliceerd in de Staatscourant.
+5. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker, die ongeletterd is in de eigen en de Nederlandse taal en die in het bezit is van een verklaring en een advies van het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan vijf jaar, inhoudende dat niettegenstaande de aantoonbaar geleverde inspanningen om zich te alfabetiseren in de Nederlandse taal van verzoeker niet meer kan worden verwacht dat hij binnen een tijdsbestek van vijf jaar de schriftelijke vaardigheden in het Nederlands zal beheersen op het in deze Regeling gewenste niveau en die het onderdeel spreekvaardigheid van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid onderdeel d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met succes heeft afgelegd.
 
 #### § 5. Overgangs- en slotbepalingen
 
