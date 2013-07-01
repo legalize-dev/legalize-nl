@@ -4,7 +4,7 @@ identifier: "BWBR0006629"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006629"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als personen, bedoeld in [artikel 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), worden aangewezen:
+Als personen, bedoeld in de [artikelen 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4) en [5, tweede lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=5), worden aangewezen:
 
 - a. de echtgenoten van de personen die behoren tot de andere strijdkrachten of internationale militaire hoofdkwartieren, voor zover deze echtgenoten niet de Nederlandse nationaliteit bezitten;
 
@@ -60,10 +60,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3
 
-Dit besluit berust op [artikel 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+Dit besluit berust op de [artikelen 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4) en [5, tweede lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=5).
 
 ##### Artikel 4
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing van de personen, bedoeld in artikel 4, tweede lid, van de Politiewet 2012.
+Dit besluit wordt aangehaald als: Besluit aanwijzing van personen over wie de politietaak van de Koninklijke marechaussee zich mede uitstrekt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
