@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -51,11 +51,11 @@ Wijzigt de Algemene ouderdomswet.
 
 ##### Artikel IIIa. [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidstijdenwet.
 
 ##### Artikel IV. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidswet 2000 BES.
 
 ##### Artikel IVa. [Buitengewoon besluit arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&wetgeving)
 
@@ -67,11 +67,11 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 ##### Artikel IVc. [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Pensioenwet BES.
 
 ##### Artikel IVd. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Remigratiewet.
 
 ##### Artikel V. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
@@ -83,7 +83,7 @@ Wijzigt de Werkloosheidswet.
 
 ##### Artikel VIa. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene ouderdomsverzekering BES.
 
 ##### Artikel VII. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
@@ -107,7 +107,7 @@ Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel XI. [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ##### Artikel XII. [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
@@ -119,15 +119,15 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel XIV. [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving.
 
 ##### Artikel XIVaa. Wet houdende wijziging van enkele socialezekerheidswetten in verband met een andere vormgeving van de exportbeperking in de Algemene kinderbijslagwet en het regelen van overgangsrecht voor de situatie van opzegging of wijziging van een verdrag dan wel een daarmee gelijk te stellen situatie
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet enkele socialezekerheidswetten (vormgeving exportbeperking Algemene kinderbijslagwet enz. (kst. 33162).
 
 ##### Artikel XIVa. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inburgering.
 
 ##### Artikel XV. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
@@ -143,19 +143,19 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 ##### Artikel XVIIaa. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XVIIa. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet minimumlonen BES.
 
 ##### Artikel XVIII. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ongevallenverzekering BES.
 
 ##### Artikel XVIIIa. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de ondernemingsraden.
 
 ##### Artikel XIX. [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
@@ -167,7 +167,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XXa. [Wet tot inschrijving van arbeidskrachten 1945 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028724)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tot inschrijving van arbeidskrachten 1945 BES en de Wet vereenvoudiging regelingen SVB.
 
 ##### Artikel XXI. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
@@ -175,7 +175,7 @@ Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel XXII. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -183,7 +183,7 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XXIV. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XXV. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
@@ -191,28 +191,36 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXVI. [Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters.
 
 ##### Artikel XXVIa. [Wet van 4 juli 1946 houdende de instelling van een arbeidsbureau BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028536)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet van 4 juli 1946 houdende de instelling van een arbeidsbureau BES.
 
 ##### Artikel XXVII. Samenloop [Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089) en [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XXVIII. Samenloop [Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089) en [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XXVIIIa. Wijziging van de [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424) (heroverweging Remigratiewet)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Remigratiewet.
 
 ##### Artikel XXIX. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XXX. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2013.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen in de wetgeving op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
