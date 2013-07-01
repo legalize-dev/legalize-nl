@@ -4,7 +4,7 @@ identifier: "BWBR0031720"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-01"
-last_updated: "2012-07-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031720"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Bij het indienen van een aanvraag als bedoeld in [artikel 5, eerste lid, eerste volzin van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5) wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 80,– betaald.
+Bij het indienen van een aanvraag als bedoeld in [artikel 5, eerste lid, eerste volzin van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5) wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 85,– betaald.
 
 ##### Artikel 2
 
