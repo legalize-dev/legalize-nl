@@ -4,7 +4,7 @@ identifier: "BWBR0023622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-07-02"
-last_updated: "2008-03-16"
+last_updated: "2013-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023622"
 soort: "ministeriele-regeling"
@@ -52,9 +52,11 @@ Het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/j
 
 - c. een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1),
 
-- d. een rechtspersoon als bedoeld in [artikel 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68), [artikel 69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69) onderscheidenlijk [artikel 53b van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53b), of
+- d. een rechtspersoon als bedoeld in [artikel 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68), [artikel 69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69) onderscheidenlijk [artikel 53b van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53b),
 
-- e. een rechtspersoon als bedoeld in [artikel 28b, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b),
+- e. een rechtspersoon als bedoeld in [artikel 28b, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), of
+
+- f. een hogeschool, genoemd in onderdeel g van de [bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend),
 
 indien dat personeel in beroep kan komen tegen beëindiging van het dienstverband bij een commissie van beroep als bedoeld in de genoemde wetten.
 
