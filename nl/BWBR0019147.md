@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2009-10-31"
+last_updated: "2013-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -44,7 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder een modelvliegtuig: een luchtvaartuig van geringe afmeting, waarvan de totale startmassa niet meer dan 25 kilogram bedraagt.
+1. Het is verboden deel te nemen aan het luchtverkeer:
+
+- a. met een licht onbemand luchtvaartuig als bedoeld in [artikel 1a, eerste lid, onderdeel c, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a);
+
+- b. met een modelluchtvaartuig als bedoeld in [artikel 1a, eerste lid, onderdeel d, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a) indien dit luchtvaartuig wordt gebruikt uit hoofde van een bedrijf of beroep dan wel tegen vergoeding of met baat.
+
+2. Het verbod, bedoeld in artikel 1, eerste lid, aanhef en onder b, is niet van toepassing op het gebruik van een modelluchtvaartuig voor vlieglessen.
+
+3. Deze regeling is niet van toepassing op vluchten met militaire onbemande luchtvaartuigen.
 
 ##### Artikel 2
 
@@ -107,5 +115,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling modelvliegen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
