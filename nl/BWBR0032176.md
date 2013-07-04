@@ -4,7 +4,7 @@ identifier: "BWBR0032176"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032176"
 soort: "wet"
@@ -159,7 +159,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2013-01-01&g=2013-01-01) ingediende verzoeken
+##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2013-07-04&g=2013-07-04) ingediende verzoeken
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -189,7 +189,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII. Samenloop met het wetsvoorstel tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs
 
-Dit onderdeel is nog niet inwerking getreden
+1. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).
+
+2. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).
+
+3. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).
+
+4. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).
+
+5. Wijzigt deze wet.
+
+6. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).
+
+7. Wijzigt deze wet.
+
+8. Wijzigt deze wet.
+
+9. Wijzigt deze wet.
+
+10. Wijzigt deze wet.
 
 ##### Artikel XXXIII. Samenloop met het wetsvoorstel tot wijziging van diverse onderwijswetten in verband met onder meer afschaffen van de verblijfsduurbeperking in het voortgezet onderwijs, bewaken van de examenkwaliteit in het voortgezet onderwijs en het voortgezet algemeen volwassenenonderwijs, alsmede uitbreiding van de staatsexamenmogelijkheden
 
