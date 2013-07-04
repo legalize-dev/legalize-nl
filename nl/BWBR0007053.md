@@ -4,7 +4,7 @@ identifier: "BWBR0007053"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007053"
 soort: "wet"
@@ -40,6 +40,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om in de Wet op het 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+In opdracht van artikel LV-3 van Stb. 1998/228 zijn de in considerans en in de artikelen III, IV en V voorkomende verwijzingen naar artikelen van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs omgezet naar de daarmee overeenkomende verwijzingen van artikelen van de Wet op het primair onderwijs en Wet op de expertisecentra.
+
 ##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
@@ -50,11 +52,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel III
 
-Ten behoeve van personen die zijn belast met het geven van het onderwijs bedoeld in [artikel 10, eerste lid, van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10) dan wel [artikel 18, eerste lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18) wordt een bij ministeriële regeling te bepalen bijdrage verstrekt in de kosten die
-
-- a. zijn gemoeid met het afleggen van de toets Nederlands als tweede taal voor OETC-leraren bij het Instituut voor Toetsontwikkeling en
-
-- b. in de periode van 1 augustus 1994 tot en met 31 juli 1997 zijn gemoeid met de voorbereiding op en het afleggen van onderdelen van het staatsexamen Nederlands als tweede taal volgens programma II.
+Vervallen
 
 ##### Artikel IV
 
