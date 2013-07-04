@@ -4,7 +4,7 @@ identifier: "BWBR0025364"
 country: "nl"
 rank: "wet"
 publication_date: "2024-08-01"
-last_updated: "2011-05-21"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025364"
 soort: "wet"
@@ -48,11 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- **college:** College voor examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2011-05-21&g=2011-05-21);
+- **college:** College voor examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-07-04&g=2013-07-04);
 
 - **Cito:** Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 12 van de Wet subsidiëring landelijke ondersteunende activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=12);
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
+- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.
 
 ##### Artikel 2
 
@@ -170,11 +170,11 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel 12
 
-De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2011-05-21&g=2011-05-21) worden overgedragen aan het college.
+De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2013-07-04&g=2013-07-04) worden overgedragen aan het college.
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2011-05-21&g=2011-05-21) van deze wet.
+Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-07-04&g=2013-07-04) van deze wet.
 
 ##### Artikel 14
 
