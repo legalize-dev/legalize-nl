@@ -4,7 +4,7 @@ identifier: "BWBR0006070"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006070"
 soort: "wet"
@@ -94,17 +94,17 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XIV
 
-In aanvulling op het bepaalde in de desbetreffende onderwijswetten zijn de bevoegde gezagsorganen van scholen als bedoeld in de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) (**Stb.** 1986, 256), de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) (**Stb.** 1987, 614) en de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) (**Stb.** 1986, 552) tot 1 augustus 1997 verplicht ten minste 4/5 deel van het jaarlijks uit ’s Rijks kas ontvangen bedrag ten behoeve van nascholing van het personeel te besteden bij openbare en uit ’s Rijks kas bekostigde bijzondere lerarenopleidingen. De bestedingsverplichting, bedoeld in de eerste volzin, is eveneens van toepassing op de bedragen ten behoeve van nascholing die tot en met 31 juli 1997 in een fonds zijn ondergebracht, en na die datum worden besteed. Het bepaalde in de vorige volzin is niet van toepassing op de bevoegde gezagsorganen van scholen voor middelbaar beroepsonderwijs en scholen voor voortgezet algemeen volwassenenonderwijs als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+Vervallen
 
 ##### Artikel XV
 
 Deze wet treedt in werking met ingang van 1 augustus 1993 met uitzondering van:
 
-- a. de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=VI&z=1998-08-01&g=1998-08-01), [VIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=VIII&z=1998-08-01&g=1998-08-01) en [X](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=X&z=1998-08-01&g=1998-08-01) die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst,
+- a. de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=VI&z=2013-07-04&g=2013-07-04), [VIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=VIII&z=2013-07-04&g=2013-07-04) en [X](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=X&z=2013-07-04&g=2013-07-04) die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst,
 
-- b. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=IX&z=1998-08-01&g=1998-08-01) dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, en terugwerkt tot en met 1 januari 1993, en
+- b. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=IX&z=2013-07-04&g=2013-07-04) dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, en terugwerkt tot en met 1 januari 1993, en
 
-- c. [artikel XI aanhef en onderdelen **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=XI&z=1998-08-01&g=1998-08-01) dat in werking treedt met ingang van 1 augustus 1993 en, indien de wet van 21 april 1993 (**Stb.** 253) voor 1 augustus 1993 in werking is getreden, terugwerkt tot en met het tijdstip van inwerkingtreding van genoemde wet.
+- c. [artikel XI aanhef en onderdelen **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006070&artikel=XI&z=2013-07-04&g=2013-07-04) dat in werking treedt met ingang van 1 augustus 1993 en, indien de wet van 21 april 1993 (**Stb.** 253) voor 1 augustus 1993 in werking is getreden, terugwerkt tot en met het tijdstip van inwerkingtreding van genoemde wet.
 
 ##### Artikel XVI
 
