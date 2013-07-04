@@ -4,7 +4,7 @@ identifier: "BWBR0005429"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005429"
 soort: "wet"
@@ -40,6 +40,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in de Wet op het bas
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+In opdracht van artikel LV-3 van Stb. 1998/228 zijn de in considerans en in de artikelen III, IV en V voorkomende verwijzingen naar artikelen van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs omgezet naar de daarmee overeenkomende verwijzingen van artikelen van de Wet op het primair onderwijs en Wet op de expertisecentra.
+
 ##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
@@ -56,43 +58,39 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel V. Overgangsbepaling m.b.t. bovenschoolse benoeming [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
+##### Artikel V. Overgangsbepaling m.b.t. bovenschoolse benoeming [WPO](onbekend)
 
-Indien op 31 juli 1992 een personeelslid, aangesteld ten behoeve van het openbaar onderwijs en belast met het geven van onderwijs in zintuiglijke en lichamelijke oefening of het onderwijs in eigen taal en cultuur, op grond van een overeenkomst, bedoeld in [artikel 17 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17)Artikel 17 van de WBO komt niet meer voor in de WPO., tevens is belast met dat onderwijs aan een of meer bijzondere scholen, kan deze overeenkomst tot 1 augustus 1993 niet als gevolg van het met ingang van 1 augustus 1992 vervallen van [artikel 17 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17)Artikel 17 van de WBO komt niet meer voor in de WPO. worden ontbonden met ingang van die datum indien de overeenkomst in stand zou blijven op grond van [artikel 17 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17)Artikel 17 van de WBO komt niet meer voor in de WPO. zoals dat luidde op 31 juli 1992.
+Vervallen
 
-##### Artikel VI. Overgangsbepaling m.b.t. bovenschoolse benoeming [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel VI. Overgangsbepaling m.b.t. bovenschoolse benoeming [WEC](onbekend)
 
-Indien op 31 juli 1992 een personeelslid, aangesteld ten behoeve van het openbaar onderwijs en belast met het geven van onderwijs in zintuiglijke of lichamelijke oefening of het onderwijs in eigen taal en cultuur, op grond van een overeenkomst, bedoeld in [artikel 24**a** van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24a)Artikel 24a van de ISOVSO komt niet meer voor in de WEC., tevens is belast met dat onderwijs aan een of meer bijzondere scholen, kan deze overeenkomst tot 1 augustus 1993 niet als gevolg van het met ingang van 1 augustus 1992 vervallen van [artikel 24**a** van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24a)Artikel 24a van de ISOVSO komt niet meer voor in de WEC. worden ontbonden met ingang van die datum indien de overeenkomst in stand zou blijven op grond van [artikel 24**a** van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24a)Artikel 24a van de ISOVSO komt niet meer voor in de WEC. zoals dat luidde op 31 juli 1992.
+Vervallen
 
 ##### Artikel VII. Overgangsregeling verrekening voorschotten
 
-Indien over het op 1 augustus 1992 lopende vijfjarig tijdvak een overschrijdingsbedrag wordt uitgekeerd als bedoeld in [artikel 146 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=146) en [artikel 140 van de Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=140), worden bij de bepaling van de som van de voorschotten tevens meegeteld de voorschotten die in dat tijdvak zijn uitgekeerd op grond van [artikel 136, negende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=136), onderscheidenlijk [artikel 130, negende lid, van de Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=130), zoals die luidden tot 1 augustus 1992.
+Vervallen
 
 ##### Artikel VIII. Overgangsregeling vergoedingen
 
-1. Ten aanzien van basisscholen en scholen voor speciaal onderwijs, voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs blijven de op 31 juli 1992 geldende voorschriften van of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), onderscheidenlijk de [Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01) betrekking hebben, van toepassing met betrekking tot de op 1 augustus 1992 door het Rijk of de gemeente nog niet vastgestelde of uitgekeerde bedragen, voor zover de aanspraken op vergoeding betrekking hebben op de periode voorafgaande aan 1 augustus 1992.
-
-2. In afwijking van het bepaalde in het eerste lid bestaan met betrekking tot het schooljaar 1992-1993 voor het bevoegd gezag van een bijzondere school geen aanspraken op grond van de in dat lid bedoelde voorschriften, op vergoedingen uit de gemeentekas als bedoeld in [artikel 49, tweede lid, van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=49)Artikel 49 van de WBO komt niet meer voor in de WPO., zoals luidend op 31 juli 1992, onderscheidenlijk op vergoedingen uit de gemeentekas als bedoeld in [artikel 57, tweede lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=57)Artikel 57 van de ISOVSO komt niet meer voor in de WEC., zoals luidend op 31 juli 1992.
-
-3. In afwijking van het bepaalde in het eerste lid heeft [artikel 144 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), onderscheidenlijk [artikel 138 van de Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=138) geen betrekking op in het vijfjarig tijdvak uitgekeerde vergoedingen als bedoeld in [artikel 49, tweede lid, van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=49)Artikel 49 van de WBO komt niet meer voor in de WPO., zoals luidend op 31 juli 1992, onderscheidenlijk op in het vijfjarig tijdvak uitgekeerde vergoedingen als bedoeld in [artikel 57, tweede lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=57)Artikel 57 van de ISOVSO komt niet meer voor in de WEC., zoals luidend op 31 juli 1992.
+Vervallen
 
 ##### Artikel IX. Invoeringsregeling voorlopige vaststelling ontvangsten en uitgaven t.b.v. overschrijding
 
-De voorlopige vaststelling van de ontvangsten en uitgaven, bedoeld in [artikel 136, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=136) zoals luidend op 31 juli 1992, onderscheidenlijk bedoeld in [artikel 130, eerste lid, van de Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=130), zoals luidend op 31 juli 1992, die in het begrotingsjaar 1991 hebben plaatsgevonden, geschiedt overeenkomstig de op 31 juli 1992 geldende voorschriften.
+Vervallen
 
 ##### Artikel X. Afhandeling geschillen
 
-Op geschillen die ingevolge de op 31 juli 1992 geldende voorschriften van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertsiecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01) betrekking hebben, in beroep of hoger beroep aanhangig zijn of worden gemaakt, blijven de op die datum geldende voorschriften van toepassing.
+Vervallen
 
 ##### Artikel XI. Inwerkingtreding
 
 1. Deze wet treedt in werking met ingang van 1 augustus 1992 met uitzondering van
 
-- a. [artikel I onderdelen E en I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01), en [artikel II onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01), die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst;
+- a. [artikel I onderdelen E en I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=2013-07-04&g=2013-07-04), en [artikel II onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=2013-07-04&g=2013-07-04), die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst;
 
-- b. [artikel I onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 96**d**, [artikel I onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 104, eerste lid onderdeel **c**, [artikel I onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 114**a**, tweede lid, [artikel II onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 93**e**, [artikel II onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 101, eerste lid onderdeel **c**, [artikel II onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 110**a**, tweede lid, [artikel III onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 84**b**, en [artikel III onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=1998-08-01&g=1998-08-01), voor zover het betreft artikel 96**d**, eerste lid onderdeel **c**, die in werking treden op een bij koninklijk besluit te bepalen tijdstip;
+- b. [artikel I onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 96**d**, [artikel I onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 104, eerste lid onderdeel **c**, [artikel I onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=I&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 114**a**, tweede lid, [artikel II onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 93**e**, [artikel II onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 101, eerste lid onderdeel **c**, [artikel II onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=II&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 110**a**, tweede lid, [artikel III onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 84**b**, en [artikel III onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=2013-07-04&g=2013-07-04), voor zover het betreft artikel 96**d**, eerste lid onderdeel **c**, die in werking treden op een bij koninklijk besluit te bepalen tijdstip;
 
-- c. [artikel III onderdelen H, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=1998-08-01&g=1998-08-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=IV&z=1998-08-01&g=1998-08-01), die in werking treden met ingang van 1 januari 1993.
+- c. [artikel III onderdelen H, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=III&z=2013-07-04&g=2013-07-04) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005429&artikel=IV&z=2013-07-04&g=2013-07-04), die in werking treden met ingang van 1 januari 1993.
 
 2. Tot het in het eerste lid onder **b** bedoelde tijdstip kunnen bij ministeriële regeling voorschriften worden gegeven met betrekking tot de kosten van vervanging.
 
