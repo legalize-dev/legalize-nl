@@ -4,7 +4,7 @@ identifier: "BWBR0008998"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008998"
 soort: "wet"
@@ -62,13 +62,11 @@ Wijzigt de Wet medezeggenschap onderwijs 1992.
 
 ##### ARTIKEL V
 
-1. Ten aanzien van overeenkomsten waarbij ouders of leerlingen worden verplicht tot het betalen van een geldelijke bijdrage en die reeds zijn aangegaan voor de datum van inwerkingtreding van deze wet, treden [artikel I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0008998&artikel=I&z=1998-08-01&g=1998-08-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008998&artikel=II&z=1998-08-01&g=1998-08-01) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008998&artikel=III&z=1998-08-01&g=1998-08-01) in werking op 1 augustus volgend op de datum van inwerkingtreding van deze wet.
-
-2. Indien een overeenkomst waarbij ouders of leerlingen worden verplicht tot het betalen van een geldelijke bijdrage is aangegaan voor het tijdstip van inwerkingtreding van deze wet en deze overeenkomst ten gevolge van een omstandigheid in deze wet, in tegenstelling tot het tevoren geldende recht, als nietig wordt aangemerkt, heeft de nietigheid slechts werking op de bedragen die verschuldigd zouden zijn voor voorzieningen in het tijdvak vanaf 1 augustus volgend op de datum waarop deze wet in werking is getreden.
+Vervallen
 
 ##### ARTIKEL VI
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de bepalingen in deze wet die de ouderbijdragen en sponsorgelden betreffen.
+Vervallen
 
 ##### ARTIKEL VII
 
