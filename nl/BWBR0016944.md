@@ -4,7 +4,7 @@ identifier: "BWBR0016944"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2008-10-22"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016944"
 soort: "wet"
@@ -132,7 +132,7 @@ De [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wet
 
 ##### Artikel XIX. Evaluatie
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) zoals gewijzigd door deze wet, in de praktijk.
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Economische Zaken, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) zoals gewijzigd door deze wet, in de praktijk.
 
 ##### Artikel XX. Inwerkingtreding
 
