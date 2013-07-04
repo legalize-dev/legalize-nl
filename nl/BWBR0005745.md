@@ -4,7 +4,7 @@ identifier: "BWBR0005745"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1993-07-30"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005745"
 soort: "wet"
@@ -104,16 +104,14 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XV. Overgangsbepaling bestuursaanstelling
 
-Zolang het bevoegd gezag niet de keuze voor benoeming in algemene dienst, bedoeld in [artikel 34, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=34), [artikel 34, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=34) of [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=39a), of [154, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=154) heeft gemaakt, blijft de aanstelling dan wel de benoeming bij een of meer scholen voor het personeel gehandhaafd.
+Vervallen
 
 ##### Artikel XVI. Evaluatie bestuursaanstelling
 
-1. Onze Ministers van Onderwijs en Wetenschappen en van Landbouw, Natuurbeheer en Visserij brengen drie jaar na de inwerkingtreding van de wet tot wijziging van een aantal onderwijswetten in verband met onder meer de invoering van de mogelijkheid van bestuursaanstelling, het decentraal georganiseerd overleg, de invoering van de mogelijkheid van centrale diensten en de uitbreiding van de bevoegdheden van de commissies van beroep verslag uit aan de beide Kamers der Staten-Generaal over de mate waarin bevoegde gezagsorganen gebruik hebben gemaakt van de mogelijkheid van benoeming van personeel in algemene dienst, bedoeld in [artikel 20**a** van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=20a) (**Stb.** 1986, 256), [artikel 28**a** van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28a) (**Stb.** 1987, 614) en [artikel 39**a** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=39a) (**Stb.** 1986, 552).
-
-2. Het bevoegd gezag van een uit 's Rijks kas bekostigde school voor basisonderwijs, voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs of voor voortgezet onderwijs geeft Onze voornoemde ministers alle inlichtingen die deze voor de vaststelling van het in het eerste lid bedoelde verslag verlangen.
+Vervallen
 
 ##### Artikel XVII. Inwerkingtreding
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, doch voor wat betreft de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=I&z=1993-07-30&g=1993-07-30), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=II&z=1993-07-30&g=1993-07-30) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=1993-07-30&g=1993-07-30) met ingang van 1 augustus 1992, met uitzondering van [artikel III, onderdelen M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=1993-07-30&g=1993-07-30), die in werking treden met ingang van 1 januari 1993. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 juli 1992, treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=I&z=1993-07-30&g=1993-07-30), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=II&z=1993-07-30&g=1993-07-30) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=1993-07-30&g=1993-07-30), in afwijking van het bepaalde in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, met uitzondering van [artikel III onderdelen M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=1993-07-30&g=1993-07-30), die in werking treden met ingang van 1 januari 1993.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, doch voor wat betreft de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=I&z=2013-07-04&g=2013-07-04), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=II&z=2013-07-04&g=2013-07-04) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=2013-07-04&g=2013-07-04) met ingang van 1 augustus 1992, met uitzondering van [artikel III, onderdelen M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=2013-07-04&g=2013-07-04), die in werking treden met ingang van 1 januari 1993. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 juli 1992, treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=I&z=2013-07-04&g=2013-07-04), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=II&z=2013-07-04&g=2013-07-04) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=2013-07-04&g=2013-07-04), in afwijking van het bepaalde in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, met uitzondering van [artikel III onderdelen M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0005745&artikel=III&z=2013-07-04&g=2013-07-04), die in werking treden met ingang van 1 januari 1993.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
