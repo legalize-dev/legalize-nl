@@ -4,7 +4,7 @@ identifier: "BWBR0007312"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007312"
 soort: "wet"
@@ -47,6 +47,8 @@ dat het in verband met die verantwoordelijkheid voor de kosten van de werklooshe
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+In opdracht van artikel LV-3 van Stb. 1998/228 zijn de in considerans en in de artikelen III, IV en V voorkomende verwijzingen naar artikelen van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs omgezet naar de daarmee overeenkomende verwijzingen van artikelen van de Wet op het primair onderwijs en Wet op de expertisecentra.
+
 ##### Artikel I. Wijziging [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
 Bevat wijzigingen in andere regelgeving.
@@ -81,13 +83,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IX. Afvloeiingsregelingen en invoering bestuursaanstelling
 
-De op de dag voorafgaand aan het tijdstip van inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=I&z=1998-08-01&g=1998-08-01), [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=II&z=1998-08-01&g=1998-08-01), [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=III&z=1998-08-01&g=1998-08-01), en [artikel IV, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=IV&z=1998-08-01&g=1998-08-01), geldende afvloeiingsregelingen, vastgesteld krachtens hoofdstuk I-G van het [Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771), alsmede de desbetreffende overgangsregelingen, vervallen met ingang van dat tijdstip. De eerste volzin is niet van toepassing ten aanzien van afvloeiingsregelingen en overgangsregelingen die ten behoeve van het personeel van een school of instelling van één onderwijssoort of een scholengemeenschap zijn vastgesteld door het bevoegd gezag dat slechts die school, instelling of scholengemeenschap in stand houdt.
+Vervallen
 
 ##### Artikel X. Overgangsbepalingen
 
-1. De benoeming van een personeelslid bij een of meer door het bevoegd gezag in stand gehouden scholen voor basisonderwijs, voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs, voor voortgezet onderwijs, voor beroepsbegeleidend onderwijs, dan wel bij een landelijk orgaan, bedoeld in respectievelijk [artikel 34 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=34), [artikel 34 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=34), [artikel 39**a** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=39a), artikel 2.47 of 2.56 van de Wet op het cursorisch beroepsonderwijs, zoals deze artikelen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van deze wet, wordt met ingang van het tijdstip van inwerkingtreding van deze wet van rechtswege omgezet in een benoeming in algemene dienst van het bevoegd gezag, dan wel van het bestuur van het landelijk orgaan, in de zin van de genoemde artikelen, zoals die artikelen luiden met ingang van het tijdstip van inwerkingtreding van deze wet.
-
-2. De akte van aanstelling of de akte van benoeming van een personeelslid als bedoeld in het eerste lid, wordt met ingang van het tijdstip van inwerkingtreding van deze wet geacht te voldoen aan respectievelijk [artikel 53, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=53), of [artikel 59, tweede lid, onderdeel h, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=59), [artikel 56, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=56), of [artikel 62, tweede lid, onderdeel h, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=62), artikel 43**a**, eerste lid, onderdeel **h**, of artikel 51, tweede lid, onderdeel **h**, van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), of artikel 2.47, eerste lid, onderdeel **h**, of artikel 2.56, eerste lid, onderdeel **h**, van de Wet op het cursorisch beroepsonderwijs, zoals die artikelen luiden met ingang van het tijdstip van inwerkingtreding van deze wet.
+Vervallen
 
 ##### Artikel XI. Invoering artikel 18a KVE 1991
 
@@ -95,10 +95,10 @@ Artikel 18**a** van de Kaderwet Volwasseneneducatie 1991 vindt toepassing naar a
 
 ##### Artikel XII. Functioneren rechtspersoon en vervallen Tijdelijke wet arbeidsbemiddeling onderwijs
 
-Zodra naar het oordeel van Onze Minister van Onderwijs, Cultuur en Wetenschappen de rechtspersoon, bedoeld in de [artikelen 184 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184), [170 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170), 98**b** van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), 3.53**a** en 3.72**a** van de Wet op het cursorisch beroepsonderwijs, 61, tweede lid, van de Kaderwet Volwasseneneducatie 1991 en 64 van de Wet op de onderwijsverzorging, zijn bij of krachtens de genoemde wetten opgedragen taken zodanig uitvoert dat de Tijdelijke wet arbeidsbemiddeling onderwijs niet langer noodzakelijk is, bevordert Onze Minister van Onderwijs, Cultuur en Wetenschappen de totstandkoming van een koninklijk besluit waarbij die wet vervalt, met dien verstande dat de artikelen met betrekking tot een vermindering van de rijksvergoeding van toepassing blijven op de vaststelling van die vergoeding.
+Vervallen
 
 ##### Artikel XIII. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel III, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=III&z=1998-08-01&g=1998-08-01), [artikel IV, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=IV&z=1998-08-01&g=1998-08-01) wat betreft de invoeging van "96**f**.4," en onderdeel O, en [artikel V, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=V&z=1998-08-01&g=1998-08-01), die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en terugwerken tot en met 1 augustus 1994.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel III, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=III&z=2013-07-04&g=2013-07-04), [artikel IV, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=IV&z=2013-07-04&g=2013-07-04) wat betreft de invoeging van "96**f**.4," en onderdeel O, en [artikel V, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0007312&artikel=V&z=2013-07-04&g=2013-07-04), die in werking treden met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en terugwerken tot en met 1 augustus 1994.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
