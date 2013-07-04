@@ -4,7 +4,7 @@ identifier: "BWBR0005538"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1995-05-17"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005538"
 soort: "wet"
@@ -982,75 +982,7 @@ Bij het verslag dat krachtens [artikel 9:1 van de Algemene wet bestuursrecht](ht
 
 ##### Artikel XIV2
 
-1. [Afdeling 7.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.1) vindt gedurende drie jaren na de datum van inwerkingtreding van deze wet geen toepassing ten aanzien van besluiten van Onze Minister van Onderwijs en Wetenschappen, genomen op grond van de volgende wetten:
-
-- a. [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), met uitzondering van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=121);
-
-- b. Wet op het leerlingwezen (**Stb.** 1966, 215);
-
-- d. Machtigingswet inschrijving studenten (**Stb.** 1985, 59);
-
-- d. [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) (**Stb.** 1970, 370);
-
-- e. Lager-onderwijswet 1920 (**Stb.** 1974, 565).
-
-2. [Afdeling 7.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.1) vindt gedurende drie jaren na de datum van inwerkingtreding van deze wet evenmin toepassing ten aanzien van besluiten van Onze Minister van Onderwijs en Wetenschappen, genomen op grond van de volgende wetten, voor zover tegen die besluiten krachtens de voor 1 januari 1994 geldende wetgeving beroep op de Kroon openstond:
-
-- a. [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) (**Stb.** 1986, 286);
-
-- b. [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving) (**Stb.** 1987, 614);
-
-- c. Wet op de Open Universiteit (**Stb.** 1984, 573);
-
-- d. Wet op het hoger beroepsonderwijs (**Stb.** 1986, 289);
-
-- e. [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821) (**Stb.** 1985, 407);
-
-- f. Wet op het wetenschappelijk onderwijs (**Stb.** 1986, 414);
-
-- g. [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906) (**Stb.** 1985, 762);
-
-- h. Wet op de onderwijsverzorging (**Stb.** 1986, 635)
-
-- i. [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191) (**Stb.** 1987, 369);
-
-- j. [Overgangswet WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002595) (**Stb.** 1967, 387);
-
-- k. Wet medezeggenschap onderwijs (**Stb.** 1981, 778);
-
-- l. Overgangswet WBO (**Stb.** 1986, 257);
-
-- m. [Invoeringswet WHBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003966) (**Stb.** 1986, 290);
-
-- n. [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188) (**Stb.** 1987, 343);
-
-- o. Wet maatregelen 1987-1991 inzake voorzieningen w.o. (**Stb.** 1987, 755);
-
-- p. Overgangswet ISOVSO (**Stb.** 1987, 615);
-
-- q. Wet op het wetenschappelijk onderwijs (**Stb.** 1975, 729);
-
-- r. Wet van 25 maart 1981 (**Stb.** 196), houdende wijziging van de Experimentenwet onderwijs;
-
-- s. [Wet invoering m.d.g.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0003522) (**Stb.** 1982, 579);
-
-- t. [Wet van 14 oktober 1982 (**Stb.** 589), houdende regeling en invoering van de opleidingsscholen voor leraren basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003523);
-
-- u. [Invoeringswet W.W.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003991) (**Stb.** 1986, 426);
-
-- v. Wet van 24 december 1986 (**Stb.** 719), houdende wijziging van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs;
-
-- w. Tijdelijk wet arbeidsbemiddeling onderwijs;
-
-- x. Wet op het cursorisch beroepsonderwijs;
-
-- y. Wet van 1 juli 1992, (**Stb.**364), houdende [tijdelijke wet beperking toewijzing huisvestingsvoorzieningen in het basisonderwijs en het (voortgezet) speciaal onderwijs](onbekend);
-
-- z. Tijdelijke wet bekostiging nieuwe basisscholen;
-
-- aa. [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
-
-- bb. [Wet van 27 februari 1992 (**Stb.** 112), houdende wijziging van de Wet op het voortgezet onderwijs in verband met de herziening van het bekostigingsstelsel voor scholen voor v.w.o., a.v.o., l.b.o. en m.b.o. (regeling herziening bekostigingsstelsel voortgezet onderwijs)](https://wetten.overheid.nl/jci1.3:c:BWBR0005428).
+Vervallen
 
 ##### Artikel XIV3
 
