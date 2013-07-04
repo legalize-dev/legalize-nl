@@ -4,7 +4,7 @@ identifier: "BWBR0005960"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1993-07-07"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005960"
 soort: "wet"
@@ -53,7 +53,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IV
 
-Onze Minister van Onderwijs en Wetenschappen zendt, in overeenstemming met Onze Minister van Welzijn, Volksgezondheid en Cultuur en Onze Minister van Landbouw, Natuurbeheer en Visserij, binnen vier jaar na inwerkingtreding van de wijzigingen die deze wet aanbrengt, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wijzigingen in de praktijk.
+Vervallen
 
 ##### Artikel V
 
