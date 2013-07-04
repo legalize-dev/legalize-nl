@@ -4,7 +4,7 @@ identifier: "BWBR0008330"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1997-02-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008330"
 soort: "wet"
@@ -60,7 +60,7 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### ARTIKEL IV
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk.
+Vervallen
 
 ##### ARTIKEL V
 
