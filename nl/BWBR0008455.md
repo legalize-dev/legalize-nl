@@ -4,7 +4,7 @@ identifier: "BWBR0008455"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-12-30"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008455"
 soort: "wet"
@@ -64,25 +64,19 @@ Wijzigt de Overgangswet ISOVSO.
 
 ##### ARTIKEL V
 
-Een school die in stand wordt gehouden op basis van een gemeenschappelijke regeling wordt voor de toepassing van de overschrijdingsregeling voor de periode voorafgaand aan de inwerkingtreding van deze wet aangemerkt als een door de gemeente in stand gehouden school.
+Vervallen
 
 ##### ARTIKEL VI
 
 Wijzigt de Wet op het primair onderwijs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### ARTIKEL VII
 
 Wijzigt de Wet op de expertisecentra.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### ARTIKEL VIII
 
 Wijzigt de Wet op het voortgezet onderwijs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### ARTIKEL IX
 
@@ -98,8 +92,8 @@ Wijzigt de Wet van 14 november 1996 tot wijziging van de Wet op het basisonderwi
 
 ##### ARTIKEL XII
 
-1. Deze wet treedt met uitzondering van de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=1998-12-30&g=1998-12-30), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=1998-12-30&g=1998-12-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=1998-12-30&g=1998-12-30) in werking met ingang van 1 januari 1997. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt deze wet met uitzondering van de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=1998-12-30&g=1998-12-30), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=1998-12-30&g=1998-12-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=1998-12-30&g=1998-12-30) in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat zij voor wat betreft [artikel I, onderdelen B tot en met J, N punt 2, O punt 3 , S punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=I&z=1998-12-30&g=1998-12-30), [artikel II, onderdelen B tot en met K, R punt 2, T punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=II&z=1998-12-30&g=1998-12-30), [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=III&z=1998-12-30&g=1998-12-30), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=IV&z=1998-12-30&g=1998-12-30) en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=IX&z=1998-12-30&g=1998-12-30) terugwerkt tot en met 1 januari 1997.
+1. Deze wet treedt met uitzondering van de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=2013-07-04&g=2013-07-04), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=2013-07-04&g=2013-07-04) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=2013-07-04&g=2013-07-04) in werking met ingang van 1 januari 1997. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt deze wet met uitzondering van de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=2013-07-04&g=2013-07-04), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=2013-07-04&g=2013-07-04) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=2013-07-04&g=2013-07-04) in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat zij voor wat betreft [artikel I, onderdelen B tot en met J, N punt 2, O punt 3 , S punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=I&z=2013-07-04&g=2013-07-04), [artikel II, onderdelen B tot en met K, R punt 2, T punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=II&z=2013-07-04&g=2013-07-04), [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=III&z=2013-07-04&g=2013-07-04), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=IV&z=2013-07-04&g=2013-07-04) en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=IX&z=2013-07-04&g=2013-07-04) terugwerkt tot en met 1 januari 1997.
 
-2. De [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=1998-12-30&g=1998-12-30), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=1998-12-30&g=1998-12-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=1998-12-30&g=1998-12-30) van deze wet treden in werking met ingang van een bij wet te bepalen tijdstip.
+2. De [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VI&z=2013-07-04&g=2013-07-04), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VII&z=2013-07-04&g=2013-07-04) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008455&artikel=VIII&z=2013-07-04&g=2013-07-04) van deze wet treden in werking met ingang van een bij wet te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
