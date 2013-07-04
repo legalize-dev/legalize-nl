@@ -4,7 +4,7 @@ identifier: "BWBR0008552"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008552"
 soort: "wet"
@@ -66,11 +66,11 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### ARTIKEL VI. OVERGANGSREGELING
 
-Een document als bedoeld in de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0008552&artikel=I&z=1998-08-01&g=1998-08-01) tot en met [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008552&artikel=V&z=1998-08-01&g=1998-08-01) wordt in geval van ondervertegenwoordiging voor de eerste maal opgesteld binnen 1 jaar na het tijdstip van inwerkingtreding van deze wet.
+Vervallen
 
 ##### ARTIKEL VII. EVALUATIE
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij binnen 7 jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Vervallen
 
 ##### ARTIKEL VIII. INWERKINGTREDING
 
