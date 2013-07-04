@@ -4,7 +4,7 @@ identifier: "BWBR0007680"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007680"
 soort: "wet"
@@ -70,7 +70,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel VI. Overgangsbepaling
 
-Uiterlijk zes maanden na de inwerkingtreding van deze wet stelt het bevoegd gezag van een school voor basisonderwijs, een school voor speciaal onderwijs of voortgezet speciaal onderwijs, een school voor voortgezet onderwijs of een school voor beroepsbegeleidend onderwijs een directiestatuut vast.
+Vervallen
 
 ##### Artikel VII. Inwerkingtreding
 
