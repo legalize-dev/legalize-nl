@@ -4,7 +4,7 @@ identifier: "BWBR0008016"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-04"
-last_updated: "1998-08-01"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008016"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in geval van samenvo
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze;
 
+Werkt terug tot en met 1 augustus 1996.
+
 ##### ARTIKEL I
 
 Wijzigt de Wet op het primair onderwijs.
@@ -62,31 +64,15 @@ Wijzigt de Wet algemene regels herindeling.
 
 ##### ARTIKEL V
 
-In plaats van [artikel 163, vijfde lid, aanhef en onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163) is op een bekostigde school die vóór 1 augustus 1996 met toepassing van [artikel 85 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=85) als nevenvestiging in bekostiging is genomen, [artikel 163, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163) rechtstreeks van toepassing.
+Vervallen
 
 ##### ARTIKEL VI
 
-1. Het bevoegd gezag van een school, bedoeld in [artikel 163, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163), waarvan de bekostiging is beëindigd of die is opgeheven, als gevolg van samenvoeging met een of meer andere scholen in de periode van 1 augustus 1985 tot het tijdstip van inwerkingtreding van deze wet, boekt de uit ’s Rijks kas ontvangen niet bestede vergoedingen over naar de school of scholen waarmee de samenvoeging heeft plaatsgevonden indien bij de samenvoeging geen toepassing is gegeven aan [artikel 163, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163).
-
-2. Het bevoegd gezag van een school, bedoeld in het eerste lid, waarvan de bekostiging is beëindigd of die is opgeheven verstrekt een schriftelijke verklaring aan Onze Minister dat de samenvoeging en de overboeking van de uit ’s Rijks kas ontvangen niet bestede vergoedingen hebben plaatsgevonden, waarbij de naam van de school waarnaar de overboeking heeft plaatsgevonden en de omvang van de overgeboekte uit ’s Rijks kas ontvangen niet bestede vergoedingen worden vermeld. Het bevoegd gezag voegt bij deze verklaring een bewijs van betaling waaruit de overboeking blijkt.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de scholen bedoeld in [artikel 163, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163).
-
-4. Het bevoegd gezag van een school, bedoeld in [artikel 163, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163), waarvan de bekostiging is beëindigd of die is opgeheven, als gevolg van samenvoeging met een of meer andere scholen in de periode van 1 augustus 1985 tot het tijdstip van inwerkingtreding van deze wet, kan binnen drie maanden na het tijdstip van inwerkingtreding van deze wet aan Onze Minister verzoeken de niet bestede vergoedingen over te dragen aan de school waarmee de samenvoeging heeft plaatsgevonden indien bij de samenvoeging toepassing is gegeven aan [artikel 163, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163). Het verzoek gaat vergezeld van een verklaring dat de samenvoeging heeft plaatsgevonden en bevat de naam van de school waaraan de overdracht dient plaats te vinden en de omvang van de over te dragen uit ’s Rijks kas ontvangen niet bestede vergoedingen.
-
-5. Het vierde lid is van overeenkomstige toepassing op de scholen, bedoeld in [artikel 163, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163).
+Vervallen
 
 ##### ARTIKEL VII
 
-1. Het bevoegd gezag van een school, bedoeld in [artikel 150, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150), waarvan de bekostiging is beëindigd of die is opgeheven, als gevolg van samenvoeging met een of meer andere scholen in de periode van 1 augustus 1985 tot het tijdstip van inwerkingtreding van deze wet, boekt de uit ’s Rijks kas ontvangen niet bestede vergoedingen over naar de school of scholen waarmee de samenvoeging heeft plaatsgevonden indien bij de samenvoeging geen toepassing is gegeven aan [artikel 150, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150).
-
-2. Het bevoegd gezag van een school, bedoeld in het eerste lid, waarvan de bekostiging is beëindigd of die is opgeheven verstrekt een schriftelijke verklaring aan Onze Minister dat de samenvoeging en de overboeking van de uit ’s Rijks kas ontvangen niet bestede vergoedingen hebben plaatsgevonden, waarbij de naam van de school waarnaar de overboeking heeft plaatsgevonden en de omvang van de overgeboekte uit ’s Rijks kas ontvangen niet bestede vergoedingen worden vermeld. Het bevoegd gezag voegt bij deze verklaring een bewijs van betaling waaruit de overboeking blijkt.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de scholen bedoeld in [artikel 150, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150).
-
-4. Het bevoegd gezag van een school, bedoeld in [artikel 150, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150), waarvan de bekostiging is beëindigd of die is opgeheven, als gevolg van samenvoeging met een of meer andere scholen in de periode van 1 augustus 1985 tot het tijdstip van inwerkingtreding van deze wet, kan binnen drie maanden na het tijdstip van inwerkingtreding van deze wet aan Onze Minister verzoeken deze niet bestede vergoedingen over te dragen aan de school waarmee de samenvoeging heeft plaatsgevonden indien bij de samenvoeging toepassing is gegeven aan [artikel 150, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150). Het verzoek gaat vergezeld van een verklaring dat de samenvoeging heeft plaatsgevonden en bevat de naam van de school waaraan de overdracht dient plaats te vinden en de omvang van de over te dragen uit ’s Rijks kas ontvangen niet bestede vergoedingen.
-
-5. Het vierde lid is van overeenkomstige toepassing op de scholen bedoeld in [artikel 150, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150).
+Vervallen
 
 ##### ARTIKEL VIII
 
@@ -94,8 +80,8 @@ Wijzigt de wet van 15 december 1993, houdende wijziging van het stelsel van stic
 
 ##### ARTIKEL IX
 
-1. Indien deze wet vóór 1 augustus 1996 in het **Staatsblad** wordt geplaatst, treedt deze wet, met uitzondering van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=I&z=1998-08-01&g=1998-08-01), in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat de artikelen III en IV terugwerken tot en met 1 augustus 1995 en treedt [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=I&z=1998-08-01&g=1998-08-01), in werking met ingang van 1 augustus 1996.
+1. Indien deze wet vóór 1 augustus 1996 in het **Staatsblad** wordt geplaatst, treedt deze wet, met uitzondering van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=I&z=2013-07-04&g=2013-07-04), in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat de artikelen III en IV terugwerken tot en met 1 augustus 1995 en treedt [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=I&z=2013-07-04&g=2013-07-04), in werking met ingang van 1 augustus 1996.
 
-2. Indien deze wet op of na 1 augustus 1996 in het **Staatsblad** wordt geplaatst, treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat artikel I, onderdeel F, terugwerkt tot en met 1 augustus 1996 en de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=III&z=1998-08-01&g=1998-08-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=IV&z=1998-08-01&g=1998-08-01) terugwerken tot en met 1 augustus 1995.
+2. Indien deze wet op of na 1 augustus 1996 in het **Staatsblad** wordt geplaatst, treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat artikel I, onderdeel F, terugwerkt tot en met 1 augustus 1996 en de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=III&z=2013-07-04&g=2013-07-04) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008016&artikel=IV&z=2013-07-04&g=2013-07-04) terugwerken tot en met 1 augustus 1995.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
