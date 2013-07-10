@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2013-05-15"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -200,7 +200,9 @@ Het werken op plaatsen, waar ernstig gevaar bestaat voor instorten, verschuiven,
 
 21 De ZO luidt: Het aanwezig zijn van niet afgeschermde, direct aanraakbare spanningvoerende delen met een spanning hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning.
 
-22 De ZO luidt: Het verrichten van werkzaamheden aan of in de nabijheid van onder spanning staande elektrische installaties, toestellen of leidingen met een spanning van hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning zonder het treffen van de nodige veiligheidsmaatregelen.
+22 De ZO luiden: Het verrichten van werkzaamheden aan of in de nabijheid van onder spanning staande elektrische installaties, toestellen of leidingen met een spanning van hoger dan 50 volt bij wisselspanning of 120 volt bij zuivere gelijkspanning zonder het treffen van de nodige veiligheidsmaatregelen (lid 3 en lid 4), en
+
+Het verrichten van werkzaamheden aan of in de nabijheid van onder hoogspanning staande elektrische installaties, toestellen of leidingen zonder het treffen van de nodige veiligheidsmaatregelen (lid 7).
 
 23 De ZO luiden: Het ontbreken van doeltreffende maatregelen om het ontstaan van een explosieve atmosfeer op de arbeidsplaats te voorkomen. (artikel 3.5d, lid 1, Arbobesluit)
 
@@ -214,7 +216,7 @@ b. de schadelijke gevolgen van een explosie worden beperkt. (artikel 3.5d, lid 2
 
 a. vrijkomende gassen, dampen, nevels of brandbaar stof die explosiegevaar kunnen doen ontstaan, worden op passende wijze afgevoerd en onschadelijk gemaakt;
 
-b. indien een explosieve atmosfeer meerdere soorten brandbare stoffen bevat, wordt bij de veiligheidsmaatregelen uitgegaan van het grootste mogelijke risico. (artikel 3.5e, onder a. en b., Arbobesluit)
+b. indien een explosieve atmosfeer meerdere soorten brandbare stoffen bevat, wordt bij de veiligheidsmaatregelen uitgegaan van het grootste mogelijke risico. (artikel 3.5e, onder a. en b, Arbobesluit)
 
 Het in de gevarenzones niet gebruiken en toepassen van apparaten en beveiligingssystemen overeenkomstig de categorieën als bedoeld in het Warenwetbesluit explosieveilig materieel volgens de navolgende principes:
 
@@ -240,7 +242,7 @@ Het niet nemen van doeltreffende maatregelen indien uit onderzoek blijkt dat er 
 
 De ZO voor lid 2 luidt: Het werken op arbeidsplaatsen waarbij een nooduitgang niet kan worden geopend en waarbij ernstig gevaar bestaat op brand, explosie of plotselinge blootstelling aan gevaarlijke stoffen.
 
-31 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen vallen.
+31 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen vallen (lid 1).
 
 N.B. Indien het valgevaar gepaard gaat met risicoverhogende omstandigheden, zoals het gevaar te vallen op of langs uitstekende delen, de aanwezigheid van verkeer, het vallen in water e.d., dan kan er, afhankelijk van de toename van het risico, ook bij geringere werkhoogte sprake zijn van een ZO.
 
@@ -286,7 +288,7 @@ Het ontbreken van deskundig toezicht op jeugdige werknemers die arbeid verrichte
 
 Het ontbreken van maatregelen bij aanwezigheid van gevaarlijke stoffen waardoor ernstig gevaar bestaat voor brand of explosie of gezondheidsbedreigende blootstelling aan gevaarlijke stoffen, dampen en gassen.
 
-48 De ZO luidt: Na een onvoorziene toename van het blootstellingsniveau aan kankerverwekkende of mutagene stoffen, er niet voor gezorgd hebben dat werknemers uit de gevarenzone zijn verwijderd.
+48 De ZO luidt: Na een onvoorziene toename van het blootstellingniveau aan kankerverwekkende of mutagene stoffen, er niet voor gezorgd hebben dat werknemers uit de gevarenzone zijn verwijderd.
 
 49 De ODB luiden: gebruik van springstoffen zonder dat hierop voortdurend toezicht plaatsvindt door een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester (lid 2).
 
@@ -676,11 +678,9 @@ Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verpl
 
 156 De ZO luidt: Het onvoldoende er voor zorgen dat werknemers aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers.
 
-157 De ODB luidt: Het op de openbare weg besturen van een trekker en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen door een jeugdige werknemer die niet in het bezit is van een certificaat van vakbekwaamheid.
-
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
+158 De ODB luidt: Het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
 ### Werknemersverplichtingen
 
@@ -694,19 +694,49 @@ In de bijlage zijn de verschillende typen overtredingen aangegeven.
 
 De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
 
-Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
+In de bijlage zijn de verschillende typen overtredingen aangegeven.
 
 Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
+
+De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
+
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
+
+### Overtreding waarvoor Direct een Boete volgt (ODB)
 
 Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
 
 Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van artikel 28 Arbowet te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
 
+Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
+
+### Overige Overtredingen (OO)
+
+Het gaat hierbij om feiten met betrekking tot:
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+157 De ODB luidt: Het op de openbare weg besturen van een trekker en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen door een jeugdige werknemer die niet in het bezit is van een certificaat van vakbekwaamheid.
+
+159 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen de gevolgen van vallen (lid 5).
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
+
+### Werknemersverplichtingen
+
+In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
+
+### Verschillende typen overtredingen
+
+### Zware Overtredingen (ZO)
+
+Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
+
 ### Overtreding waarvoor Direct een Boete volgt (ODB)
 
 Er bestaat een aantal overtredingen in de Arbeidsomstandighedenwet, het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen.
-
-Het gaat hierbij om feiten met betrekking tot:
 
 Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
