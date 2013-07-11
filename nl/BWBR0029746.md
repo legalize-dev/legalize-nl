@@ -4,7 +4,7 @@ identifier: "BWBR0029746"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-03-01"
-last_updated: "2013-01-11"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029746"
 soort: "AMvB"
@@ -58,39 +58,57 @@ In dit besluit wordt verstaan onder [verordening (EG) 1223/2009](32009R1223): Ve
 
 1. Het is verboden te handelen in strijd met de volgende artikelen van [verordening (EG) 1223/2009](32009R1223):
 
-- a. dit onderdeel is nog niet in werking getreden;
+- a. artikel 3;
 
-- b. dit onderdeel is nog niet in werking getreden;
+- b. artikel 4, eerste en tweede lid;
 
-- c. dit onderdeel is nog niet in werking getreden;
+- c. artikel 5;
 
-- d. dit onderdeel is nog niet in werking getreden;
+- d. artikel 6;
 
-- e. dit onderdeel is nog niet in werking getreden;
+- e. artikel 7;
 
-- f. dit onderdeel is nog niet in werking getreden;
+- f. artikel 8, eerste lid;
 
-- g. dit onderdeel is nog niet in werking getreden;
+- g. artikel 10, eerste lid, eerste tot en met derde alinea, tweede en derde lid;
 
-- h. dit onderdeel is nog niet in werking getreden;
+- h. artikel 11, eerste tot en met derde lid;
 
-- i. dit onderdeel is nog niet in werking getreden;
+- i. artikel 12, eerste lid;
 
-- j. dit onderdeel is nog niet in werking getreden;
+- j. artikel 13, eerste tot en met vierde lid en zevende lid;
 
 - k. artikel 14, eerste lid en tweede lid, eerste alinea:
 
-- 1°. voorzover dit noodzakelijk is voor de toepassing van artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea, van [verordening (EG) 1223/2009](32009R1223);
+- 1°. voorzover dit noodzakelijk is voor de toepassing van artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea, van verordening (EG) 1223/2009;
 
-- 2°. dit onderdeel is nog niet in werking getreden;
+- 2°. voorzover dit noodzakelijk is voor de toepassing van andere bepalingen dan artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea, van verordening (EG) 1223/2009;
 
 - l. artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea;
 
-2. Dit lid is nog niet in werking getreden.
+- m. artikel 16, eerste en derde lid;
+
+- n. artikel 18 eerste lid;
+
+- o. artikel 19, eerste tot en met derde lid en zesde lid;
+
+- p. artikel 20, eerste en derde lid,
+
+- q. artikel 21;
+
+- r. artikel 23, eerste lid; en
+
+- s. artikel 25, derde lid.
+
+2. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=3&z=2013-07-11&g=2013-07-11).
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het productinformatiedossier, bedoeld in artikel 11, eerste lid, van [verordening (EG) 1223/2009](32009R1223) is in ieder geval gesteld in de Nederlandse of Engelse taal.
+
+2. De aanduidingen, bedoeld in artikel 19, eerste lid, onder b, c, d en f, en tweede tot en met vierde lid, van [verordening (EG) 1223/2009](32009R1223) zijn in ieder geval gesteld in de Nederlandse taal.
+
+3. De aanduidingen, bedoeld in artikel 19, eerste lid, van [verordening (EG) 1223/2009](32009R1223) worden bij niet-voorverpakte cosmetische producten of bij cosmetische producten die op de plaats van verkoop op verzoek van de koper worden verpakt of worden voorverpakt met het oog op de onmiddellijke verkoop daarvan, aangebracht op een mededeling in de onmiddellijke nabijheid van het te koop aangeboden product dan wel op een informatieblad of folder die aan de koper wordt meegegeven.
 
 ##### Artikel 4
 
@@ -98,7 +116,7 @@ Als nationale bevoegde autoriteit, bedoeld in artikel 34, eerste lid, van [veror
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 6
 
@@ -110,26 +128,32 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 8
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+Vervallen
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Warenwetbesluit cosmetische producten](https://wetten.overheid.nl/jci1.3:c:BWBR0007603) wordt ingetrokken.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Kruidenpreparaten.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 11 juli 2013.
+
+2. In afwijking van het eerste lid treden [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=1&z=2013-07-11&g=2013-07-11), [artikel 2, eerste lid, aanhef en onder k, 1°, en l](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=2&z=2013-07-11&g=2013-07-11), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=4&z=2013-07-11&g=2013-07-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+
+3. In afwijking van het eerste lid treedt [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=8&z=2013-07-11&g=2013-07-11) in werking met ingang van acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt en vervalt met ingang van 11 juli 2013.
+
+4. In afwijking van het eerste lid treden [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=6&z=2013-07-11&g=2013-07-11) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=7&z=2013-07-11&g=2013-07-11) in werking met ingang van 11 januari 2013.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Warenwetbesluit cosmetische producten 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
