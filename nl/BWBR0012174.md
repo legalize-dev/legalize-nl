@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2011-01-20"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - b. geneesmiddelen als bedoeld onder a;
 
-- c. cosmetische producten als bedoeld in het [Warenwetbesluit Kosmetische produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0007603);
+- c. cosmetische producten als bedoeld in het [Warenwetbesluit cosmetische producten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029746);
 
 - d. specerijen en kruiden als genoemd in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -110,9 +110,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2011-01-20&g=2011-01-20) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2013-07-11&g=2013-07-11) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2011-01-20&g=2011-01-20), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2013-07-11&g=2013-07-11), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -120,7 +120,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2011-01-20&g=2011-01-20).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2013-07-11&g=2013-07-11).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
