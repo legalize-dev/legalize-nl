@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-07-03"
+last_updated: "2013-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -52,13 +52,14 @@ Besluit:
 | --- | --- | --- | --- | --- | --- |
 | Nr. | Regeling | Artikel | Groep | Openstelling 2013 | Plafond € |
 | **Subsidieregeling starten, groeien en overdragen van ondernemingen** | **Subsidieregeling starten, groeien en overdragen van ondernemingen** | **Subsidieregeling starten, groeien en overdragen van ondernemingen** | **Subsidieregeling starten, groeien en overdragen van ondernemingen** | **Subsidieregeling starten, groeien en overdragen van ondernemingen** | **Subsidieregeling starten, groeien en overdragen van ondernemingen** |
-| 1.1 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 1.000.000.000 |
+| 1.1 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES) | 01-01 t/m 31-12 | 680.000.000 |
+|   | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) | 15-07 t/m 31-12 | 25.000.000 |
 |   | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bodemsaneringsborgstellings-kredieten |   |   |
 | 1.2 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 50.000.000 |
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemersfinanciering en garantstelling gericht op bankgaranties) | 3.12b en 3.12v |   | 01-01 t/m 31-12 | 150.000.000 |
 | 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (tijdelijke garantie ondernemingsfinanciering curatieve zorg) | 3.12m |   |   |   |
-| 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 30-03 | 16.000.000 |
-|   | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 | Creatieve industrie | 01-01 t/m 30-03 | 4.000.000 |
+| 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 15-07 t/m 30-09 | 12.000.000 |
+|   | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 | Creatieve industrie | 15-07 t/m 30-09 | 4.000.000 |
 | 1.6 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma) | 5.2 |   |   |   |
 | 1.7 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   |   |   |
