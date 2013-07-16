@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-07-12"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Besluit:
 | 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (garantie scheepsnieuwbouwfinanciering) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.3 |   |   |   |
 | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** | **Subsidieregeling innoveren** |
-| 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) (Eurostars-projecten) | 2.2 |   | 10-01 t/m 24-01 | 4.560.000 |
+| 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) (Eurostars Projecten) | 2.2 |   | 18-07 t/m 30-07 | 6.560.000 |
 | 2.2 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 25.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 55.000.000 |
 |   | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Duurzame technische ontwikkelingsprojecten |   |   |
