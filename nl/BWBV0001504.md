@@ -4,7 +4,7 @@ identifier: "BWBV0001504"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-19"
-last_updated: "2010-05-26"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001504"
 soort: "verdrag"
@@ -520,7 +520,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **164 PP-98** (SUP)
 
-**165 PP-98** 5. Wanneer een Lidstaat zijn contributieklasse kiest, mag hij deze niet verlagen met meer dan twee contributieklassen en de Raad geeft hem aan hoe deze vermindering over het tijdvak tussen de Plenipotentiaire Conferenties moet worden gespreid. In geval van uitzonderlijke omstandigheden, zoals natuurrampen waarvoor internationale hulpprogramma's nodig zijn, kan de Plenipotentiaire Conferentie evenwel een grotere verlaging van het aantal contributie-eenheden toestaan, wanneer een Lidstaat die heeft aangetoond dat hij zijn contributie niet langer in de oorspronkelijk gekozen klasse kan handhaven, daarom verzoekt.
+**165 PP-98** 5 Wanneer een Lidstaat zijn contributieklasse kiest, mag hij deze niet verlagen met meer dan 15 procent van het aantal eenheden dat door de Lidstaat is gekozen voor het tijdvak voorafgaande aan de vermindering, afgerond tot het dichtstbijzijnde lagere aantal eenheden in de schaal, voor bijdragen van drie of meer eenheden; of met meer dan één contributieklasse, voor bijdragen lager dan drie eenheden. De Raad geeft de Lidstaat aan hoe deze vermindering over het tijdvak tussen de Plenipotentiaire Conferenties geleidelijk moet worden gerealiseerd. In geval van uitzonderlijke omstandigheden, zoals natuurrampen waarvoor internationale hulpprogramma’s nodig zijn, kan de Plenipotentiaire Conferentie evenwel een grotere verlaging van het aantal contributie-eenheden toestaan, wanneer een Lidstaat die heeft aangetoond dat hij zijn contributie niet langer in de oorspronkelijk gekozen klasse kan handhaven, daarom verzoekt
 
 **165A PP-98** 5bis In geval van uitzonderlijke omstandigheden, zoals natuurrampen waarvoor internationale hulpprogramma's nodig zijn, kan de Raad een verlaging van het aantal contributie-eenheden toestaan, wanneer een Lidstaat die heeft aangetoond dat hij zijn contributie niet langer in de oorspronkelijk gekozen klasse kan handhaven, daarom verzoekt.
 
@@ -2755,21 +2755,25 @@ Vervallen
 
 ##### Artikel 33. Financiën
 
-**468 PP-98** 1 1) De schaal waaruit elke Lidstaat, onverminderd de bepalingen van nummer 468A hieronder, en elk Sectorlid, onverminderd de bepalingen van nummer 468B hieronder, zijn contributieklasse kiest, in overeenstemming met de desbetreffende bepalingen van artikel 28 van het Statuut, is de volgende:
+**468 PP-98 PP-06**1 1) De schaal waaruit elke Lidstaat, onverminderd de bepalingen van nummer 468A hieronder, en elk Sectorlid, onverminderd de bepalingen van nummer 468B hieronder, zijn contributieklasse kiest, in overeenstemming met de desbetreffende bepalingen van artikel 28 van het Statuut, is de volgende:
 
-| klasse van 40 eenheden | klasse van 8 eenheden |
-| --- | --- |
-| klasse van 35 eenheden | klasse van 6 eenheden |
-| klasse van 30 eenheden | klasse van 5 eenheden |
-| klasse van 28 eenheden | klasse van 4 eenheden |
-| klasse van 25 eenheden | klasse van 3 eenheden |
-| klasse van 23 eenheden | klasse van 2 eenheden |
-| klasse van 20 eenheden | klasse van 1½ eenheid |
-| klasse van 18 eenheden | klasse van 1 eenheid |
-| klasse van 15 eenheden | klasse van ½ eenheid |
-| klasse van 13 eenheden | klasse van ¼ eenheid |
-| klasse van 11 eenheden | klasse van 1/8 eenheid |
-| klasse van 10 eenheden | klasse van 1/16 eenheid |
+Van de klasse van 40 eenheden tot de klasse van 2 eenheden:
+
+in stappen van één eenheid
+
+Onder de klasse van 2 eenheden als volgt:
+
+klasse van 1 1/2 eenheid
+
+klasse van 1 eenheid
+
+klasse van 1/2 eenheid
+
+klasse van 1/4 eenheid
+
+klasse van 1/8 eenheid
+
+klasse van 1/16 eenheid
 
 **468A PP-98** 1bis) Uitsluitend Lidstaten die door de Verenigde Naties worden aangemerkt als minstontwikkelde landen en die welke door de Raad worden bepaald, mogen de contributieklasse van een 1/8 eenheid of 1/16 eenheid kiezen.
 
