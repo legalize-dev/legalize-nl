@@ -4,7 +4,7 @@ identifier: "BWBR0028754"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028754"
 soort: "ministeriele-regeling-BES"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaren die als Inspecteur SZW op het kantoor van het Regionaal Service Centrum BES gepositioneerde eenheid van het ministerie van Sociale Zaken en Werkgelegenheid zijn aangesteld, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
+1. Het hoofd van de RCN-unit Sociale Zaken, welke is gevestigd te Bonaire, Sint Eustatius en Saba, alsmede zijn plaatsvervanger en de ambtenaren die als Inspecteur SZW aldaar zijn aangesteld, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
 
 - a. de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437);
 
@@ -70,7 +70,7 @@ Besluit:
 
 - m. het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595).
 
-2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Arbeidsinspectie van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
+2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Inspectie SZW van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
 
 ##### Artikel 2
 
