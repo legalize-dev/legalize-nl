@@ -4,7 +4,7 @@ identifier: "BWBR0012356"
 country: "nl"
 rank: "kb"
 publication_date: "2019-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012356"
 soort: "KB"
@@ -48,13 +48,17 @@ Hebben goedgevonden en verstaan:
 
 - b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=100), ter handhaving of bevordering van de vrede;
 
-- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-01-01&g=2013-01-01);
+- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-07-19&g=2013-07-19);
 
-- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-01-01&g=2013-01-01);
+- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-07-19&g=2013-07-19);
 
 - e. versierselen: herinneringsmedaille dan wel gesp.
 
 2. Met een vredesoperatie als bedoeld in het eerste lid, onder b, wordt gelijkgesteld de uitzending van politie, in overeenstemming met Onze Minister, ter handhaving of bevordering van de vrede.
+
+3. Onze Minister kan operaties, niet zijnde een vredesoperatie als bedoeld in het eerste lid onder b, waarbij niet tot de krijgsmacht behorende personen die vanwege de Staat zijn uitgezonden ter handhaving of bevordering van de vrede, gelijkstellen met een vredesoperatie.
+
+4. Onze Minister kan operaties waarbij inzet of ter beschikking stellen van de krijgsmacht ten behoeve van de verdediging en ter bescherming van de belangen van het Koninkrijk heeft plaatsgevonden, gelijkstellen met een vredesoperatie.
 
 ##### Artikel 2
 
