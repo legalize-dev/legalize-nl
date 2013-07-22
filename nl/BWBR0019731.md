@@ -4,7 +4,7 @@ identifier: "BWBR0019731"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2012-07-01"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019731"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 2. Een toelichtend verslag omtrent de mededelingen bedoeld in het eerste lid wordt opgenomen in het jaarverslag.
 
-3. Het eerste lid is niet van toepassing op een beleggingsmaatschappij in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij direct of indirect worden ingekocht of terugbetaald.
+3. Het eerste lid is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten direct of indirect worden ingekocht of terugbetaald.
 
 ##### Artikel 2
 
