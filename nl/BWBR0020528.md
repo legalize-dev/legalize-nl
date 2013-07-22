@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2008-07-19"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -48,21 +48,11 @@ Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.n
 
 1. Als staat in de zin van [artikel 2:66, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66) worden aangewezen:
 
-- a. Frankrijk;
+- a. Guernsey;
 
-- b. Guernsey;
+- b. Jersey;
 
-- c. Ierland;
-
-- d. Jersey;
-
-- e. Luxemburg;
-
-- f. Malta;
-
-- g. het Verenigd Koninkrijk van Groot Brittannië en Noord-Ierland;
-
-- h. de Verenigde Staten van Amerika, voor zover het betreft het toezicht op beleggingsinstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
+- c. de Verenigde Staten van Amerika, voor zover het betreft het toezicht op beleggingsinstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
 
 2. Het eerste lid is niet van toepassing voor zover het betreft het aanbieden van rechten van deelneming in een beleggingsinstelling waaraan in de desbetreffende staat beperkingen zijn gesteld met betrekking tot de personen aan wie rechten van deelneming mogen worden aangeboden.
 
