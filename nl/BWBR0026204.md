@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2013-04-01"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2013-04-01&g=2013-04-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2013-07-22&g=2013-07-22) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -108,7 +108,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | **Wet op het financieel toezicht** |   |
 | [Algemeen deel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1) |   |
 | 1:10 | 2 |
-| 1:12, vierde en vijfde lid | 2 |
 | 1:28, tweede en derde lid | 3 |
 | 1:58, tweede lid | 3 |
 | 1:58a, tweede lid | 3 |
@@ -175,7 +174,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:54n, vierde lid | 2 |
 | 2:55, eerste lid | 3 |
 | 2:60, eerste lid | 3 |
-| 2:65, eerste lid en tweede lid | 3 |
+| 2:65 | 3 |
+| 2:66a, derde lid | 3 |
+| 2:66a, zesde lid | 2 |
+| 2:67b, derde lid | 1 |
+| 2:69b, eerste en tweede lid | 3 |
+| 2:70 | 3 |
+| 2:70a, derde lid | 3 |
 | 2:71, eerste lid | 1 |
 | 2:72, eerste lid | 1 |
 | 2:73, eerste en tweede lid | 1 |
@@ -207,6 +212,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:120, eerste lid | 1 |
 | 2:121, eerste lid | 1 |
 | 2:121a, eerste lid | 1 |
+| 2:121c, eerste, vijfde en zesde lid | 2 |
+| 2:121d, eerste, vijfde en zesde lid | 2 |
+| 2:121e | 3 |
+| 2:121f | 2 |
+| 2:121g | 3 |
+| 2:121h | 3 |
 | 2:122, eerste en vierde lid | 1 |
 | 2:122a, eerste lid | 1 |
 | 2:123, eerste, derde en vierde lid | 1 |
@@ -216,6 +227,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:128, vijfde lid | 1 |
 | 2:129, eerste en derde lid | 1 |
 | 2:130, eerste lid | 1 |
+| 5:19a | 2 |
+| 5:25c, zesde lid | 2 |
 |   |   |
 | [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) |   |
 | 3:5, eerste lid | 3 |
@@ -232,6 +245,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:16, eerste tot en met derde lid | 2 |
 | 3:17, eerste lid | 2 |
 | 3:18, eerste en tweede lid | 2 |
+| 3:18b, eerste lid | 3 |
 | 3:19, eerste en tweede lid | 2 |
 | 3:19a, | 2 |
 | 3:20 | 2 |
@@ -287,6 +301,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:74a, eerste, tweede en vierde lid | 2 |
 | 3:74a, derde lid | 1 |
 | 3:74b, eerste en tweede lid | 2 |
+| 3:74c | 2 |
 | 3:75 | 2 |
 | 3:76, eerste en tweede lid | 1 |
 | 3:77 | 2 |
@@ -401,7 +416,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:25, eerste lid | 2 |
 | 4:25b, eerste en tweede lid | 2 |
 | 4:25d | 2 |
-| 4:26, eerste tot en met zevende lid | 2 |
+| 4:26, eerste en derde tot en met achtste lid | 2 |
 | 4:26, tweede lid | 1 |
 | 4:27, eerste, tweede en vierde lid | 2 |
 | 4:29, vierde lid | 2 |
@@ -412,9 +427,26 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | artikel 4:33, eerste lid | 2 |
 | 4:34, eerste en tweede lid | 3 |
 | 4:35 | 3 |
+| 4:37c | 2 |
+| 4:37d, eerste en derde lid | 2 |
+| 4:37e, eerste en tweede lid | 2 |
+| 4:37f, eerste en tweede lid | 2 |
+| 4:37h, eerste lid | 2 |
+| 4:37i | 2 |
+| 4:37j | 2 |
+| 4:37k, eerste tot en met vierde lid | 2 |
+| 4:37l, eerste tot en met derde lid | 3 |
+| 4:37m, eerste lid | 2 |
+| 4:37n | 1 |
+| 4:37o, eerste tot en met vierde lid | 1 |
+| 4:37s, eerste lid | 2 |
+| 4:37t | 2 |
+| 4:37u | 2 |
+| 4:37v, eerste, derde en vierde lid | 2 |
+| 4:37y | 2 |
+| 4:37z, eerste, derde en vierde lid | 2 |
 | 4:39 | 2 |
 | 4:40 | 2 |
-| 4:41 | 2 |
 | 4:42 | 2 |
 | 4:43, eerste lid | 2 |
 | 4:44, eerste en tweede lid | 2 |
@@ -433,7 +465,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:53 | 2 |
 | 4:55 | 1 |
 | 4:55a | 2 |
-| 4:56, eerste lid | 2 |
+| 4:56, eerste en tweede lid | 2 |
 | 4:57, eerste en tweede lid | 2 |
 | 4:57a, eerste lid | 2 |
 | 4:57b, eerste en tweede lid | 2 |
@@ -513,6 +545,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:100b, eerste tot en met het derde lid | 2 |
 | 4:100c | 2 |
 | 4:100d, eerste en tweede lid | 2 |
+| 4:100f | 3 |
 | 4:103, eerste en vierde lid | 2 |
 | 4:104, eerste en derde lid | 1 |
 |   |   |
@@ -650,6 +683,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 24b, eerste tot en met vijfde lid | 2 |
 | 25 | 2 |
 | 26, eerste tot en met vijfde lid | 2 |
+| 26.1, eerste en tweede lid | 2 |
 | 27, eerste en tweede lid | 2 |
 | 28 | 2 |
 | 29, | 2 |
@@ -688,6 +722,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 62e, eerste lid | 3 |
 | 63, eerste en tweede lid | 2 |
 | 63a, eerste, tweede en vierde lid | 2 |
+| 63b, eerste en tweede lid | 2 |
 | 64, vierde lid | 2 |
 | 64a | 2 |
 | 64b, eerste tot en met derde lid | 2 |
@@ -740,6 +775,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 134, eerste lid | 1 |
 | 134, tweede lid | 2 |
 | 135, eerste tot en met vierde lid | 2 |
+| 135a, eerste lid | 1 |
 | 136, eerste en tweede lid | 2 |
 | 138 | 2 |
 |   |   |
@@ -761,6 +797,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 27, eerste en tweede lid | 2 |
 | 28, eerste lid | 2 |
 | 29, eerste tot en met derde lid | 2 |
+| 29a | 2 |
 | 30, eerste tot en met zesde lid | 2 |
 | 31, eerste tot en met derde lid | 2 |
 | 31a | 2 |
@@ -771,6 +808,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 32, derde lid | 1 |
 | 32, vierde lid | 3 |
 | 33 | 1 |
+| 33a, eerste en tweede lid | 2 |
 | 34, eerste en vierde lid | 2 |
 | 34a, eerste tot en met vijfde lid | 2 |
 | 34b, eerste en tweede lid | 2 |
@@ -789,6 +827,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 35h | 2 |
 | 35i | 3 |
 | 37 | 3 |
+| 37a | 2 |
 | 38, eerste en tweede lid | 2 |
 | 38, derde lid | 1 |
 | 38a, eerste tot en met derde lid | 3 |
@@ -877,6 +916,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 81a | 2 |
 | 82, eerste lid | 1 |
 | 83, eerste tot en met derde lid | 2 |
+| 83a, eerste lid | 2 |
+| 83b, eerste en tweede lid | 3 |
+| 83c | 2 |
 | 84 | 3 |
 | 85 | 2 |
 | 86, eerste en tweede lid | 2 |
@@ -893,9 +935,11 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 86l, eerste en tweede lid | 2 |
 | 86m, eerste lid | 2 |
 | 88, eerste en tweede lid | 2 |
+| 88a | 2 |
+| 88b, eerste, tweede en vierde lid | 2 |
 | 89, eerste tot en met derde lid | 2 |
 | 90 | 1 |
-| 91, eerste tot en met vijfde lid | 1 |
+| 91 | 1 |
 | 92, eerste tot en met derde lid | 1 |
 | 92a | 1 |
 | 94, eerste lid | 2 |
@@ -921,13 +965,38 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 114 | 3 |
 | 115, eerste lid | 3 |
 | 115a | 3 |
+| 115b | 1 |
+| 115c | 2 |
+| 115d | 2 |
+| 115e | 1 |
+| 115i, eerste en tweede lid | 2 |
+| 115j | 1 |
+| 115k, eerste en derde lid | 1 |
+| 115l | 1 |
+| 115m | 1 |
+| 115n | 1 |
+| 115o | 1 |
+| 115q | 2 |
+| 115r, eerste lid | 2 |
+| 115s | 2 |
+| 115t | 2 |
+| 115u | 2 |
+| 115v | 2 |
+| 115w | 1 |
+| 115x | 2 |
+| 115y, eerste tot en met negende lid | 1 |
+| 115bb | 1 |
+| 115cc | 2 |
+| 115dd | 2 |
+| 115ee | 2 |
+| 115ff | 2 |
 | 116 | 2 |
 | 116a, eerste en tweede lid | 2 |
 | 117 | 2 |
 | 118, eerste en tweede lid | 1 |
 | 119 | 1 |
 | 120, eerste, tweede en vierde lid | 2 |
-| 121, eerste lid | 2 |
+| 121 | 2 |
 | 122, eerste en tweede lid | 2 |
 | 123, eerste en vierde tot en met zesde lid | 2 |
 | 124, eerste lid | 2 |
