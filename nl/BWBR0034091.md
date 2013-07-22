@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2013-03-01"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -56,7 +56,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VI
 
