@@ -4,7 +4,7 @@ identifier: "BWBR0037254"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037254"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2015-07-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -120,11 +120,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten en enige andere wetten enkele wijzigingen van overwegend technische aard aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
