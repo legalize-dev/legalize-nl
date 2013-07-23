@@ -4,7 +4,7 @@ identifier: "BWBR0026019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-20"
-last_updated: "2013-07-01"
+last_updated: "2013-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026019"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het opleidingen op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2011-10-01&g=2013-07-01);
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2013-07-23&g=2013-07-23);
 
 - d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie.
 
@@ -74,35 +74,15 @@ De commissie heeft tot taak:
 
 1. De commissie wordt ingesteld met ingang van 1 juli 2009.
 
-2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2011-10-01&g=2013-07-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
+2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2013-07-23&g=2013-07-23), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
 
 ##### Artikel 5. Lidmaatschap
 
-1. De commissie, inclusief voorzitter, bestaat uit minimaal 5 en maximaal 7 leden.
-
-2. De leden worden door de minister benoemd voor een periode van vier jaar. Zij zijn eenmaal herbenoembaar.
-
-3. Een lid van de commissie kan niet tevens lid van het college van bestuur van een bekostigde universiteit of bekostigde hogeschool zijn.
-
-4. In het geval een commissielid tevens werknemer of toezichthouder is of anderszins betrokken is bij een universiteit of hogeschool, zal hij of zij niet worden belast met de behandeling van zaken waarbij die universiteit of hogeschool een belang heeft of kan hebben en waarbij zijn onpartijdigheid in het geding kan zijn. In dit geval onthoudt het betreffende commissielid zich van stemming bij de plenaire vaststelling van een advies van de commissie.
+De leden van de commissie worden door de minister benoemd en ontslagen. De leden worden benoemd voor een periode van ten hoogste vier jaar. Zij zijn slechts eenmaal herbenoembaar.
 
 ##### Artikel 6. Leden
 
-Tot leden van de commissie worden benoemd:
-
-- 1. de heer drs. N. M. Verbraak, tevens voorzitter,
-
-- 2. mevrouw mr. R.G.K. Voss,
-
-- 3. de heer dr. A Mosterd,
-
-- 4. de heer ir. F. Kuipers,
-
-- 5. de heer prof. dr. J. A. Bruijn,
-
-- 6. de heer mr. E.M. d’Hondt,
-
-- 7. mevrouw J.G. Stam.
+Vervallen
 
 ##### Artikel 7. Werkwijze
 
