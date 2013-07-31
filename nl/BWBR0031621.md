@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2012-06-06"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -54,17 +54,27 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
+- a. **advies- en meldpunt kindermishandeling:** stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=10);
 
-- b. **buitenschoolse opvang:** kinderopvang verzorgd door een kindercentrum voor kinderen in de leeftijd dat ze naar het basisonderwijs kunnen gaan, waarbij opvang wordt geboden voor of na de dagelijkse schooltijd evenals gedurende vrije dagen of middagen en in schoolvakanties;
+- b. **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
 
-- c. **dagopvang:** kinderopvang verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;
+- c. **buitenschoolse opvang:** kinderopvang verzorgd door een kindercentrum voor kinderen in de leeftijd dat ze naar het basisonderwijs kunnen gaan, waarbij opvang wordt geboden voor of na de dagelijkse schooltijd evenals gedurende vrije dagen of middagen en in schoolvakanties;
 
-- d. **groep:** een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;
+- d. **dagopvang:** kinderopvang verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;
 
-- e. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
+- e. **groep:** een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;
 
-- f. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
+- f. **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1);
+
+- g. **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
+
+- h. **meldcode:** meldcode huiselijk geweld en kindermishandeling;
+
+- i. **steunpunt huiselijk geweld:** steunpunt huiselijk geweld als bedoeld in [artikel 21b van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=21b);
+
+- j. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
+
+- k. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
@@ -76,15 +86,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een plan van aanpak, waarin is aangegeven welke maatregelen en binnen welke termijn deze maatregelen zijn respectievelijk worden genomen in verband de in onderdeel a bedoelde risico's en de samenhang daartussen.
 
-2. De houder van een kindercentrum stelt voor elk door hem geëxploiteerd kindercentrum een meldcode kindermishandeling vast ten behoeve van de personen die werkzaam zijn in het kindercentrum en zorgt dat deze personen daarvan op de hoogte zijn.
-
-3. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
+2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
 
 - a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat;
 
-- b. de wijze waarop de houder van een kindercentrum de inventarisatie openbaar maakt;
-
-- c. welke bepalingen een meldcode in ieder geval bevat of uit welke elementen een meldcode in ieder geval bestaat.
+- b. de wijze waarop de houder van een kindercentrum de inventarisatie openbaar maakt.
 
 ##### Artikel 3. Opleidingseisen beroepskrachten en inzet beroepskrachten in opleiding
 
@@ -150,29 +156,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Op de adressen waar opvang plaatsvindt, wordt door de houder van een gastouderbureau in een samen met de gastouder opgesteld plan van aanpak aangegeven welke maatregelen binnen welke termijn zijn respectievelijk worden genomen in verband met de in het tweede en derde lid bedoelde risico’s.
 
-##### Artikel 8. Meldcode kindermishandeling
+##### Artikel 8. Meldcode huiselijk geweld en kindermishandeling
 
-1. De houder van een gastouderbureau hanteert voor elk door hem geëxploiteerd gastouderbureau een meldcode kindermishandeling. In deze meldcode is opgenomen:
+1. De door de houder van een gastouderbureau voor de gastouders vast te stellen meldcode bevat ten minste de volgende elementen:
 
-- a. een definitie van kindermishandeling als bedoeld in de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637);
+- a. een stappenplan, inhoudende een omschrijving van de stappen voor het omgaan door gastouders met signalen van huiselijk geweld of kindermishandeling;
 
-- b. een duidelijke uitsplitsing van verantwoordelijkheden per organisatielaag in taken en bevoegdheden;
+- b. een toebedeling van verantwoordelijkheden per gastouder bij de stappen, bedoeld onder a, inclusief vermelding van de gastouder die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
 
-- c. een duidelijk stappenplan voorzien van een heldere toelichting dat ten minste ingaat op de volgende te onderscheiden stappen: het vermoeden, het overleg, het plan van aanpak, het beslissen, het handelen, de evaluatie, de nazorg;
+- c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van gastouders vereisen;
 
-- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan;
+- d. specifieke aandacht voor de wijze waarop gastouders moeten omgaan met gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden.
 
-- e. een lijst van signalen per ontwikkelingsgebied uitgesplitst voor kinderen in de leeftijd tot vier jaar en kinderen in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt;
+2. Het in het eerste lid, onder a, bedoelde stappenplan, bevat ten minste de volgende stappen:
 
-- f. praktische informatie over de Bureaus Jeugdzorg en het Advies & Meldpunt Kindermishandeling.
+- a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
 
-2. In de meldcode wordt aandacht besteed aan:
+- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
 
-- a. de mogelijke situatie waarin een persoon, werkzaam bij het gastouderbureau, een gastouder of een volwassen huisgenoot van de gastouder de vermoedelijke dader is;
+- c. een gesprek met de ouders en, indien mogelijk, het kind;
 
-- b. de omgang met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
 
-3. De houder van een gastouderbureau zorgt ervoor dat de personen, werkzaam bij het gastouderbureau, en de gastouders op de hoogte zijn van de meldcode kindermishandeling.
+- e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
 ##### Artikel 9. Gesprekken gastouderbureau
 
@@ -190,15 +196,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 10. Zorgplicht gastouderbureaus
 
-1. De houder van een gastouderbureau draagt er zorg voor dat per gastouder wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2012-06-06&g=2012-06-06), verantwoord is.
+1. De houder van een gastouderbureau draagt er zorg voor dat per gastouder wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-07-31&g=2013-07-31), verantwoord is.
 
 2. De houder van een gastouderbureau draagt er zorg voor dat per aangesloten gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
 
-- a. het intakegesprek, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2012-06-06&g=2012-06-06);
+- a. het intakegesprek, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
 
 - b. werving van de gastouder;
 
-- c. het intakegesprek, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2012-06-06&g=2012-06-06);
+- c. het intakegesprek, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
 
 - d. scholing en begeleiding van de gastouder;
 
@@ -206,13 +212,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. de koppeling van gastouder en vraagouder;
 
-- g. het koppelingsgesprek, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2012-06-06&g=2012-06-06);
+- g. het koppelingsgesprek, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
 
-- h. het evaluatiegesprek, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2012-06-06&g=2012-06-06);
+- h. het evaluatiegesprek, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
 
 - i. vraagbaak voor gastouders;
 
-- j. de bezoeken, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2012-06-06&g=2012-06-06);
+- j. de bezoeken, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
 
 - k. interne/externe opleiding/training; en
 
@@ -226,7 +232,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke en sociale competentie en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;
 
-- b. de samenstelling van het aantal kinderen dat door een gastouder wordt opgevangen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2012-06-06&g=2012-06-06) gesteld worden aan de groepsgrootte;
+- b. de samenstelling van het aantal kinderen dat door een gastouder wordt opgevangen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-07-31&g=2013-07-31) gesteld worden aan de groepsgrootte;
 
 - c. de eisen die aan de adressen waar opvang plaatsvindt worden gesteld.
 
@@ -248,7 +254,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2012-06-06&g=2012-06-06) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2013-07-31&g=2013-07-31) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -288,7 +294,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2012-06-06&g=2012-06-06).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2013-07-31&g=2013-07-31).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
@@ -300,15 +306,11 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 - b. een plan van aanpak, waarin is aangegeven welke maatregelen en binnen welke termijn deze maatregelen zijn respectievelijk worden genomen in verband de in onderdeel a bedoelde risico’s en de samenhang daartussen.
 
-2. De houder van een peuterspeelzaal stelt voor elke door hem geëxploiteerde peuterspeelzaal een meldcode kindermishandeling vast ten behoeve van de personen die werkzaam zijn in de peuterspeelzaal en zorgt dat deze personen daarvan op de hoogte zijn.
-
-3. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
+2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
 
 - a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat;
 
-- b. de wijze waarop de houder van een peuterspeelzaal de inventarisatie openbaar maakt;
-
-- c. welke bepalingen een meldcode in ieder geval bevat of uit welke elementen een meldcode in ieder geval bestaat.
+- b. de wijze waarop de houder van een peuterspeelzaal de inventarisatie openbaar maakt.
 
 ##### Artikel 18. Opleidingseisen beroepskrachten en inzet van vrijwilligers
 
@@ -364,11 +366,11 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2014 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
-2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2012-06-06&g=2012-06-06), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2012-06-06&g=2012-06-06), van dit besluit bedoelde deskundigheidseis.
+2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2013-07-31&g=2013-07-31), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2013-07-31&g=2013-07-31), van dit besluit bedoelde deskundigheidseis.
 
 3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.
 
-#### Paragraaf 2. Slotbepalingen
+#### Paragraaf 1. Overgangsbepaling
 
 ##### Artikel 22. Intrekking besluit
 
@@ -376,7 +378,7 @@ Het [Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overhei
 
 ##### Artikel 23. Grondslag
 
-Indien het bij Koninklijke boodschap van 27 oktober 2011 ingediende voorstel van wet tot wijziging van diverse wetten in verband met de invoering van de verplichting voor bepaalde instanties waar professionals werken en voor bepaalde zelfstandige professionals om te beschikken over een meldcode voor huiselijk geweld en kindermishandeling en de kennis en het gebruik daarvan te bevorderen, onderscheidenlijk die meldcode te hanteren (verplichte meldcode huiselijk geweld en kindermishandeling), (Kamerstukken 33 062), tot wet is of wordt verheven en artikel X van die wet in werking is getreden of treedt dan berust dit besluit mede op de [artikelen 1.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51a) en 2.91 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+Vervallen
 
 ##### Artikel 24. Inwerkingtreding
 
@@ -385,5 +387,65 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 25. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit kinderopvang en peuterspeelzalen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a. Meldcode huiselijk geweld en kindermishandeling
+
+1. De door de houder van een kindercentrum voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
+
+- a. een stappenplan, inhoudende een omschrijving van de stappen voor het omgaan door personeelsleden met signalen van huiselijk geweld of kindermishandeling;
+
+- b. een toebedeling van verantwoordelijkheden aan de diverse personeelsleden bij de stappen, bedoeld onder a, inclusief vermelding van de degene die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
+
+- c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van personeel vereisen;
+
+- d. specifieke aandacht voor de wijze waarop personeel moet omgaan met gegevens waarvan zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden.
+
+2. Het in het eerste lid, onder a, bedoelde stappenplan, bevat ten minste de volgende stappen:
+
+- a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
+
+- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+
+- c. een gesprek met de ouders en, indien mogelijk, het kind;
+
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+
+- e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
+
+#### Paragraaf 3. Kwaliteitseisen gastouderbureaus
+
+#### Paragraaf 4. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
+
+### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
+
+##### Artikel 17a. Meldcode huiselijk geweld en kindermishandeling
+
+1. De door de houder van een peuterspeelzaal voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
+
+- a. een stappenplan, inhoudende een omschrijving van de stappen voor het omgaan door personeelsleden met signalen van huiselijk geweld of kindermishandeling;
+
+- b. een toebedeling van verantwoordelijkheden aan de diverse personeelsleden werkzaam bij de peuterspeelzaal bij de stappen, bedoeld onder a, inclusief vermelding van de degene die eindverantwoordelijk is voor de beslissing over het al dan niet doen van een melding;
+
+- c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van personeel vereisen;
+
+- d. specifieke aandacht voor de wijze waarop personeel moet omgaan met gegevens waarvan zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden.
+
+2. Het in het eerste lid, onder a, bedoelde stappenplan, bevat ten minste de volgende stappen:
+
+- a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
+
+- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+
+- c. een gesprek met de ouders en, indien mogelijk, het kind;
+
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+
+- e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
+
+### Hoofdstuk 3. Overgangs- en slotbepalingen
+
+#### Paragraaf 2. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
