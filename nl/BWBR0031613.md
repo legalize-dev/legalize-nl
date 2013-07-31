@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -72,25 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Meldcode kindermishandeling
 
-1. In een meldcode als bedoeld in [artikel 2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=2) is in ieder geval opgenomen:
-
-- a. een definitie van kindermishandeling als bedoeld in de [Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637);
-
-- b. een duidelijke uitsplitsing van verantwoordelijkheden per organisatielaag in taken en bevoegdheden;
-
-- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen en dat is voorzien van een heldere toelichting;
-
-- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan, de evaluatie en de nazorg;
-
-- e. een lijst van signalen per ontwikkelingsgebied uitgesplitst voor kinderen in de leeftijd tot vier jaar en kinderen in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt;
-
-- f. praktische informatie over de Bureaus Jeugdzorg en het Advies & Meldpunt Kindermishandeling (AMK).
-
-2. In de meldcode wordt aandacht besteed aan:
-
-- a. de mogelijke situatie waarin een beroepskracht of een andere, bij het kindercentrum werkzame, persoon de vermoedelijke dader is;
-
-- b. de omgang met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+Vervallen
 
 ##### Artikel 4. Beroepskwalificatie personeel
 
@@ -112,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.
 
-5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-07-01&g=2013-07-01).
+5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-07-31&g=2013-07-31).
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.
 
@@ -152,9 +134,9 @@ In deze regeling wordt verstaan onder:
 
 6. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
 
-7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-07-01&g=2013-07-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
+7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-07-31&g=2013-07-31), aantoonbaar extra aandacht aan de omgang met de basisgroep.
 
-8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing.
+8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-31&g=2013-07-31), is van overeenkomstige toepassing.
 
 9. Indien op grond van het achtste lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
@@ -178,9 +160,9 @@ In deze regeling wordt verstaan onder:
 
 - f. het beleid ten aanzien van het gebruik maken van kinderopvang gedurende extra dagdelen;
 
-- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-01&g=2013-07-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-07-01&g=2013-07-01), is vormgegeven;
+- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-31&g=2013-07-31), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-07-31&g=2013-07-31), is vormgegeven;
 
-- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2013-07-01&g=2013-07-01) is vormgegeven, indien sprake is van dagopvang.
+- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2013-07-31&g=2013-07-31) is vormgegeven, indien sprake is van dagopvang.
 
 2. Waar nodig wordt in een pedagogisch beleidsplan onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
 
@@ -250,25 +232,7 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 ##### Artikel 16. Meldcode kindermishandeling
 
-1. In een meldcode als bedoeld in [artikel 17, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=17) is in ieder geval opgenomen:
-
-- a. een definitie van kindermishandeling als bedoeld in de [Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637);
-
-- b. een duidelijke uitsplitsing van verantwoordelijkheden per organisatielaag in taken en bevoegdheden;
-
-- c. een duidelijk stappenplan dat ten minste ingaat op de te onderscheiden stappen vermoeden, overleg, plan van aanpak, beslissen, handelen en dat is voorzien van een heldere toelichting;
-
-- d. aandachtspunten voor de gesprekvoering met verschillende partijen en hulpmiddelen voor het doorlopen van het stappenplan, de evaluatie en de nazorg;
-
-- e. een lijst van signalen per ontwikkelingsgebied uitgesplitst voor kinderen in de leeftijd tot vier jaar en kinderen in de leeftijd van vier jaar tot de leeftijd waarop het basisonderwijs voor die kinderen eindigt;
-
-- f. praktische informatie over de Bureaus Jeugdzorg en het Advies & Meldpunt Kindermishandeling (AMK).
-
-2. In de meldcode wordt aandacht besteed aan:
-
-- a. de mogelijke situatie waarin een beroepskracht of een andere, bij de peuterspeelzaal werkzame, persoon de vermoedelijke dader is;
-
-- b. de omgang met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+Vervallen
 
 ##### Artikel 17. Beroepskwalificatie personeel
 
@@ -344,7 +308,7 @@ De houder van een kindercentrum organiseert de dagopvang op zodanige wijze, dat 
 
 #### Paragraaf 5. Slotbepalingen
 
-## Bijlage. als bedoeld in de [artikelen 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-01&g=2013-07-01) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-07-01&g=2013-07-01), van deze regeling
+## Bijlage. als bedoeld in de [artikelen 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-07-31&g=2013-07-31) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-07-31&g=2013-07-31), van deze regeling
 
 In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
