@@ -4,7 +4,7 @@ identifier: "BWBR0025364"
 country: "nl"
 rank: "wet"
 publication_date: "2024-08-01"
-last_updated: "2013-07-04"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025364"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- **college:** College voor examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-07-04&g=2013-07-04);
+- **college:** College voor examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-08-01&g=2013-08-01);
 
 - **Cito:** Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 12 van de Wet subsidiëring landelijke ondersteunende activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=12);
 
@@ -73,6 +73,8 @@ In deze wet wordt verstaan onder:
 - f. het tot stand brengen en bij regeling vaststellen van syllabi, overeenkomstig het examenprogramma; en
 
 - g. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.
+
+2a. Het tweede lid is van overeenkomstige toepassing op de rekentoets, bedoeld in de [artikelen 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29), en [60, zesde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60), en [artikel 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.11) en de daarop berustende bepalingen.
 
 3. Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de daarop berustende bepalingen en de staatsexamens, bedoeld in [artikel 116 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=116) en de daarop berustende bepalingen:
 
@@ -170,11 +172,11 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel 12
 
-De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2013-07-04&g=2013-07-04) worden overgedragen aan het college.
+De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2013-08-01&g=2013-08-01) worden overgedragen aan het college.
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-07-04&g=2013-07-04) van deze wet.
+Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-08-01&g=2013-08-01) van deze wet.
 
 ##### Artikel 14
 
