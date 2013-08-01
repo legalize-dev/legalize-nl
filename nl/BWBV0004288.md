@@ -4,7 +4,7 @@ identifier: "BWBV0004288"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-08-01"
-last_updated: "1966-03-03"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004288"
 soort: "verdrag"
@@ -162,8 +162,10 @@ Na het afsluiten van de rekening wordt het in voorkomend geval te veel gestorte 
 
 Over elk jaar wordt het bedrag, waarmede, blijkens de door het Comité van Ministers afgesloten rekening, de uitgaven de ontvangsten overschrijden, in de volgende verhouding tussen de Hoge Verdragsluitende Partijen verdeeld:
 
-| België Luxemburg Nederland | 48,5 procent 3 procent 48,5 procent |
-| --- | --- |
+| België | 41 | procent |
+| --- | --- | --- |
+| Luxemburg | 6 | procent |
+| Nederland | 53 | procent |
 
 ### HOOFDSTUK V. Slotbepalingen
 
