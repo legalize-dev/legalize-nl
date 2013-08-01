@@ -173,35 +173,3 @@ Het gebied dat gemeden dient te worden, bedoeld in [artikel 9](https://wetten.ov
 Het gebied dat gemeden dient te worden, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=4&artikel=11&z=2013-08-01&g=2013-08-01), wordt begrensd door een lijn die volgende geografische posities verbindt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### F. Verkeersscheidingsstelsel ’Oost Friesland’
-
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2022-07-06&g=2022-07-06) van deze regeling
-
-De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic System 84 (WGS 84), in graden en minuten
-
-### Gebieden die dienen te worden gemeden
-
-Het gebied dat gemeden dient te worden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2022-07-06&g=2022-07-06), wordt begrensd door een lijn die volgende geografische posities verbindt:
-
-### 2. Bij Maas Noord
-
-Het gebied dat gemeden dient te worden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2022-07-06&g=2022-07-06), wordt begrensd door een lijn die volgende geografische posities verbindt:
-
-### 3. Windpark Borssele corridor
-
-Het gebied dat gemeden dient te worden, bedoeld in artikel 8, door schepen groter dan 45 meter en schepen die gevaarlijke stoffen vervoeren, wordt begrensd door een lijn die de volgende geografische posities verbindt:
-
-*Deze geografische posities worden verbonden door cirkelbogen gecentreerd rondom de volgende geografische posities:
-
-### 4. Bij De Ruyter, ten westen van Rijnveld
-
-Het gebied dat gemeden dient te worden, bedoeld in artikel 8, met uitzondering van daartoe geautoriseerde schepen, wordt begrensd door een lijn die volgende geografische posities verbindt:
-
-### 5. Ter hoogte van Friesland
-
-Het gebied dat gemeden dient te worden, bedoeld in artikel 8, wordt begrensd door een lijn die volgende geografische posities verbindt:
-
-Het gebied dat eveneens gemeden dient te worden, bedoeld in artikel 8, wordt begrensd door een lijn die volgende geografische posities verbindt:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
