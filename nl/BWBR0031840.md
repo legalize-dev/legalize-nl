@@ -4,7 +4,7 @@ identifier: "BWBR0031840"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-08-01"
-last_updated: "2013-04-16"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031840"
 soort: "zbo"
@@ -144,11 +144,11 @@ Vervallen
 
 ### Artikel 14–15. Nieuwe feiten en omstandigheden/Medewerking controle
 
-### Toelichting op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=14&z=2013-04-16&g=2013-04-16)
+### Toelichting op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=14&z=2013-08-01&g=2013-08-01)
 
 **Er zijn geen toelichtingen.**
 
-### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=15&z=2013-04-16&g=2013-04-16)
+### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031840&deel=3&artikel=14–15&artikel=15&z=2013-08-01&g=2013-08-01)
 
 **De in artikel 15 bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren.**
 
