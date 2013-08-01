@@ -4,7 +4,7 @@ identifier: "BWBR0032176"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2013-07-04"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032176"
 soort: "wet"
@@ -87,9 +87,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. De rechtspersoon, bedoeld in [artikel in 17a, vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a), wordt uiterlijk op 1 november volgend op de datum van inwerkingtreding van dat artikel opgericht.
 
+3. Het eerste ondersteuningsplan van het samenwerkingsverband wordt voor 1 mei volgend op de datum van inwerkingtreding van de artikelen, bedoeld in het eerste en tweede lid, toegezonden aan de inspectie.
+
 ##### Artikel IXa. Eerste ondersteuningsplan
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het samenwerkingsverband legt een voorstel voor het eerste ondersteuningsplan uiterlijk op 1 februari volgend op de datum van inwerkingtreding van [artikel 18a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a) voor aan de ondersteuningsplanraad. De ondersteuningsplanraad spreekt zich binnen vier weken uit over dit voorstel.
+
+2. Indien aan het te nemen besluit van het samenwerkingsverband over het eerste ondersteuningsplan de instemming is onthouden, wordt het voorstel door het samenwerkingsverband binnen twee weken voorgelegd aan de commissie voor geschillen, bedoeld in de [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685).
+
+3. De commissie voor geschillen doet in geschillen over het eerste ondersteuningsplan uiterlijk op 15 april volgend op de datum van inwerkingtreding, bedoeld in het eerste lid, uitspraak.
+
+4. Van een uitspraak van de commissie voor geschillen als bedoeld in het derde lid staat, in afwijking van [artikel 36 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=36), geen beroep open bij de ondernemingskamer van het gerechtshof te Amsterdam.
 
 ##### Artikel X. Overgangsbekostiging samenwerkingsverbanden in verband met afschaffing leerlinggebonden financiering
 
@@ -159,7 +167,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2013-07-04&g=2013-07-04) ingediende verzoeken
+##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2013-08-01&g=2013-08-01) ingediende verzoeken
 
 Dit onderdeel is nog niet inwerking getreden
 
