@@ -4,7 +4,7 @@ identifier: "BWBR0033753"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-11"
-last_updated: "2013-01-01"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033753"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Het na een ramp in het land Nederland opsporen, redden of in veiligheid brengen van mensen of dieren.
 
-3. In de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=6&z=2013-08-14&g=2013-01-01) van dit besluit bedoelde gevallen kan USAR.NL ook buiten het land Nederland worden ingezet.
+3. In de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=6&z=2013-08-14&g=2013-08-14) van dit besluit bedoelde gevallen kan USAR.NL ook buiten het land Nederland worden ingezet.
 
 4. USAR.NL voldoet aan de kwalificatie ‘heavy’, bedoeld in E 7.3 van de Richtlijn.
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 1. De Minister benoemt en ontslaat de landelijk commandant USAR.NL en zijn plaatsvervanger, gehoord hebbende de leden van de Stuurgroep USAR.NL, bedoeld in artikel 8, met uitzondering van de landelijke commandant USAR.NL.
 
-2. De landelijk commandant USAR.NL legt jaarlijks schriftelijk verantwoording af over de taakuitvoering aan de Minister en zendt daarvan afschrift aan de Stuurgroep USAR.NL, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=8&z=2013-08-14&g=2013-01-01).
+2. De landelijk commandant USAR.NL legt jaarlijks schriftelijk verantwoording af over de taakuitvoering aan de Minister en zendt daarvan afschrift aan de Stuurgroep USAR.NL, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=8&z=2013-08-14&g=2013-08-14).
 
 3. De directeur Risico’s en Dreigingen van het Ministerie van Veiligheid en Justitie is focal point voor de INSARAG. Hij kan deze bevoegdheid mandateren aan de landelijk commandant, bedoeld in het eerste lid.
 
@@ -108,9 +108,9 @@ De Minister beslist over de inzet van USAR.NL binnen het land Nederland.
 
 ##### Artikel 7
 
-1. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2013-08-14&g=2013-01-01), staat USAR.NL bij de inzet in Nederland onder operationeel bevel van de burgemeester of van de voorzitter van de betrokken veiligheidsregio’s.
+1. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2013-08-14&g=2013-08-14), staat USAR.NL bij de inzet in Nederland onder operationeel bevel van de burgemeester of van de voorzitter van de betrokken veiligheidsregio’s.
 
-2. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2013-08-14&g=2013-01-01), staat USAR.NL bij de inzet in het buitenland onder operationeel bevel van de daartoe bevoegde lokale autoriteiten.
+2. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2013-08-14&g=2013-08-14), staat USAR.NL bij de inzet in het buitenland onder operationeel bevel van de daartoe bevoegde lokale autoriteiten.
 
 ##### Artikel 8
 
