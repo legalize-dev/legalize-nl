@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-12-31"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna ge
 
 - –. de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), [8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8b), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=21), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=22), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=24) en [25, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=25);
 
-- –. [artikel 49, eerste lid, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49);
+- –. [artikel 49, eerste lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49);
 
 - –. [artikel 27, derde en vierde lid, van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=27);
 
@@ -82,7 +82,7 @@ Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna ge
 
 - –. [artikel 12, onder 2°, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=12);
 
-- –. [artikel 55, onderdeel b, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55).
+- –. [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55).
 
 ##### Artikel 3
 
@@ -91,5 +91,11 @@ Deze regeling treedt in werking met ingang van 31 december 2010. Indien de Staat
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing toezichthoudende ambtenaren Inspectie Verkeer en Waterstaat op het domein scheepvaart.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Deze regeling – voor zover die berustte op de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) – berust op [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49), en [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
