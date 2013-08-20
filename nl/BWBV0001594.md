@@ -4,7 +4,7 @@ identifier: "BWBV0001594"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-08-20"
-last_updated: "2004-06-16"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001594"
 soort: "verdrag"
@@ -74,63 +74,51 @@ neemt heden, de tweeëntwintigste oktober van het jaar negentienhonderd zesenneg
 
 ##### Artikel 1
 
-1. Elk Lid dat dit Protocol bekrachtigt, breidt de lijst van Verdragen in de [Bijlage bij het Hoofdverdrag](onbekend) uit met de Verdragen in Deel A van de Aanvullende Bijlage en, in voorkomend geval, met die in Deel B van de Aanvullende Bijlage genoemde Verdragen die het aanvaardt in overeenstemming met artikel 3 hieronder.
-
-2. De uitbreiding met een in Deel A van de Aanvullende Bijlage genoemd Verdrag dat nog niet in werking is, wordt pas van kracht wanneer dat Verdrag in werking treedt.
+Vervallen
 
 ##### Artikel 2
 
-Een Lid kan dit Protocol tegelijk met het [Hoofdverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003738) bekrachtigen of te eniger tijd daarna, door zijn formele bekrachtiging van het Protocol ter registratie mede te delen aan de Directeur-Generaal van het Internationaal Arbeidsbureau.
+Vervallen
 
 ##### Artikel 3
 
-1. Elk Lid dat dit Protocol bekrachtigt vermeldt, waar van toepassing, in een verklaring die de akte van bekrachtiging vergezelt, welk Verdrag of welke Verdragen genoemd in Deel B van de Aanvullende Bijlage, het aanvaardt.
-
-2. Een Lid dat niet alle in Deel B van de Aanvullende Bijlage genoemde Verdragen heeft aanvaard, kan in een latere verklaring gericht aan de Directeur-Generaal van het Internationaal Arbeidsbureau vermelden welk ander Verdrag of welke andere Verdragen het aanvaardt.
+Vervallen
 
 ##### Artikel 4
 
-1. Voor de toepassing van artikel 1, eerste lid, en artikel 3 van dit Protocol, voert de bevoegde autoriteit vooraf overleg met de representatieve organisaties van reders en zeevarenden.
-
-2. De bevoegde autoriteit stelt, zodra het uitvoerbaar is, aan de representatieve organisaties van reders en zeevarenden informatie beschikbaar met betrekking tot de bekrachtigingen, verklaringen en opzeggingen die door de Directeur-Generaal van het Internationaal Arbeidsbureau overeenkomstig artikel 8, eerste lid, zijn medegedeeld.
+Vervallen
 
 ##### Artikel 5
 
-Voor de toepassing van dit Protocol wordt het Verdrag betreffende de repatriëring van zeevarenden (herzien), 1987, ingeval een Lid dit Verdrag heeft aanvaard, beschouwd als een vervanging van het Verdrag betreffende repatriëring van schepelingen, 1926.
+Vervallen
 
 ##### Artikel 6
 
-1. Dit Protocol is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging bij de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
-
-2. Dit Protocol treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van vijf Leden, waarvan drie elk een koopvaardijvloot hebben met een brutotonnage van ten minste een miljoen, zijn geregistreerd.
-
-3. Vervolgens treedt dit Protocol voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+Vervallen
 
 ##### Artikel 7
 
-Elk Lid dat dit Protocol heeft bekrachtigd, kan het opzeggen wanneer het [Hoofdverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003738) zelf voor opzegging openstaat in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003738&artikel=7) daarvan, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging van dit Protocol wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+Vervallen
 
 ##### Artikel 8
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, verklaringen en akten van opzegging die de Leden van de Organisatie hem hebben doen toekomen.
-
-2. Wanneer aan de in artikel 6, tweede lid, genoemde voorwaarden is voldaan, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Protocol in werking treedt.
+Vervallen
 
 ##### Artikel 9
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en akten van opzegging die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
+Vervallen
 
 ##### Artikel 10
 
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Protocol en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
+Vervallen
 
 ##### Artikel 11
 
-Voor de herziening van dit Protocol en voor de sluiting ervan voor bekrachtiging, zijn de bepalingen van [artikel 11 van het Hoofdverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003738&artikel=11) mutatis mutandis van toepassing.
+Vervallen
 
 ##### Artikel 12
 
-De Engelse en de Franse tekst van dit Protocol zijn gelijkelijk authentiek.
+Vervallen
 
 IN FAITH WHEREOF we have appended our signatures this twenty-second day of October 1996.
 
