@@ -4,7 +4,7 @@ identifier: "BWBR0010024"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-08-20"
-last_updated: "2000-03-02"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010024"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Als model voor de werklijst, bedoeld in artikel 6.4:2, [eerste lid](https://wett
 
 ##### Artikel 3
 
-Het werkrooster en de werklijst worden volledig en duidelijk leesbaar ingevuld met vulpen, balpen of schrijfmachine. Op de werklijst wordt in de kolom ’opmerkingen’ in elk geval melding gemaakt van het verrichten van bergingswerkzaamheden en van de gevallen waarin een jeugdige schepeling heeft wachtgelopen dan wel arbeid heeft verricht tussen 00.00 en 05.00 uur.
+Het werkrooster en de werklijst worden volledig en duidelijk leesbaar ingevuld. Op de werklijst wordt melding gemaakt van het verrichten van bergingswerkzaamheden en van de gevallen waarin een jeugdige zeevarende heeft wachtgelopen dan wel arbeid heeft verricht tussen 00.00 en 05.00 uur.
 
 ##### Artikel 4
 
@@ -56,7 +56,7 @@ De toezichthoudende ambtenaren kunnen de kapitein aanwijzingen geven met betrekk
 
 ##### Artikel 5
 
-Deze regeling treedt inwerking met ingang van 1 december 1998.
+Deze regeling wordt aangehaald als: Regeling werkrooster en werklijst zeevarenden.
 
 ## Bijlage 1
 
