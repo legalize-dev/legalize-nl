@@ -4,7 +4,7 @@ identifier: "BWBR0027945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-19"
-last_updated: "2010-10-01"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027945"
 soort: "ministeriele-regeling"
@@ -165,9 +165,9 @@ In deze regeling wordt verstaan onder:
 
 - g. een verplaatsingsopnemer, een interface voor de bewegingsopnemer;
 
-- h. een gegevensoverbrengingsinterface als beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2010-10-01&g=2010-10-01);
+- h. een gegevensoverbrengingsinterface als beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2013-08-21&g=2013-08-21);
 
-- i. een interface voor de taxameter als beschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=3&z=2010-10-01&g=2010-10-01);
+- i. een interface voor de taxameter als beschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=3&z=2013-08-21&g=2013-08-21);
 
 - j. een leesvenster;
 
@@ -177,7 +177,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een verbinding of integratie met de boordcomputer, als bedoeld in het tweede lid, leidt er niet toe dat de boordcomputer niet langer voldoet aan deze regeling.
 
-4. De boordcomputer voldoet aan de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2010-10-01&g=2010-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2010-10-01&g=2010-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=3&z=2010-10-01&g=2010-10-01) bij deze regeling.
+4. De boordcomputer voldoet aan de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2013-08-21&g=2013-08-21), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2013-08-21&g=2013-08-21) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=3&z=2013-08-21&g=2013-08-21) bij deze regeling.
 
 ##### Artikel 3
 
@@ -227,7 +227,7 @@ In deze regeling wordt verstaan onder:
 | Keuringskaart | Activerings- en keuringsmodus | WERKPLAATS |
 | Ondernemerskaart | Bedrijfsmodus | VERVOERDER |
 
-5. In afwijking van de tabel, bedoeld in het vierde lid, leidt het invoeren van een inspectiekaart tijdens de deactivering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=23&z=2010-10-01&g=2010-10-01), niet tot het automatisch selecteren van de controlemodus.
+5. In afwijking van de tabel, bedoeld in het vierde lid, leidt het invoeren van een inspectiekaart tijdens de deactivering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=23&z=2013-08-21&g=2013-08-21), niet tot het automatisch selecteren van de controlemodus.
 
 6. De boordcomputer wisselt na een handmatig verzoek van de bestuurder daartoe tussen de werkingsniveaus van de operationele modus. Het werkingsniveau basis is daarbij altijd ingeschakeld.
 
@@ -277,7 +277,7 @@ In deze regeling wordt verstaan onder:
 
 5. De boordcomputer stelt op basis van de door de positiebepalingsensor geleverde informatie eenmaal per minuut de positie van de auto vast en registreert deze positie.
 
-6. De positiegegevens, bedoeld in het vijfde lid worden zodanig opgeslagen dat zij alleen overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=23&z=2010-10-01&g=2010-10-01), overgebracht kunnen worden.
+6. De positiegegevens, bedoeld in het vijfde lid worden zodanig opgeslagen dat zij alleen overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=23&z=2013-08-21&g=2013-08-21), overgebracht kunnen worden.
 
 ##### Artikel 7
 
@@ -377,7 +377,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 2. In de bedrijfsmodus kunnen alleen de gegevens die zijn vastgelegd behorende bij de actieve bedrijfsvergrendeling worden overgebracht.
 
-3. De overbrenging van deze gegevens en de overbrengingsinterface, bedoeld in het eerste lid, voldoen aan de eisen die zijn vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2010-10-01&g=2010-10-01).
+3. De overbrenging van deze gegevens en de overbrengingsinterface, bedoeld in het eerste lid, voldoen aan de eisen die zijn vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2013-08-21&g=2013-08-21).
 
 4. In de bedrijfsmodus kan de overbrenging van deze gegevens tevens via een andere overbrengingsinterface plaatsvinden.
 
@@ -385,7 +385,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 ##### Artikel 13
 
-1. Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.4&artikel=12&z=2010-10-01&g=2010-10-01) is het toegestaan om in elke modus gegevens via een andere verbinding naar een voor deze verbinding geautoriseerd bedrijf over te brengen.
+1. Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.4&artikel=12&z=2013-08-21&g=2013-08-21) is het toegestaan om in elke modus gegevens via een andere verbinding naar een voor deze verbinding geautoriseerd bedrijf over te brengen.
 
 2. Op een overbrenging als bedoeld in het eerste lid, zijn de gegevenstoegangsrechten van de bedrijfsmodus van toepassing.
 
@@ -429,7 +429,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 7. De boordcomputer authenticeert de houder van de boordcomputerkaart direct bij het inbrengen van de boordcomputerkaart op basis van een persoonlijk identificatie nummer.
 
-8. De boordcomputer geeft selectieve toegangsrechten tot gegevens en functies op basis van het type boordcomputerkaart dat wordt ingevoerd, zoals beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2010-10-01&g=2010-10-01).
+8. De boordcomputer geeft selectieve toegangsrechten tot gegevens en functies op basis van het type boordcomputerkaart dat wordt ingevoerd, zoals beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2013-08-21&g=2013-08-21).
 
 9. De boordcomputer zorgt ervoor dat een kaartsessie kan worden geblokkeerd. Het blokkeren van een kaartsessie, bedoeld in bijlage 1, artikel 6.2, vindt plaats wanneer een boordcomputerkaart wordt uitgenomen zonder dat door de gebruiker is aangegeven dat de sessie beëindigd dient te worden.
 
@@ -439,7 +439,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - b. het nummer van de ondernemerskaart van de vervoerder zoals vastgelegd in de ingeschakelde bedrijfsvergrendeling.
 
-11. De boordcomputer werkt op het moment van optreden de gegevens die op een geldige chauffeurskaart zijn opgeslagen bij met de gegevens, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2010-10-01&g=2010-10-01).
+11. De boordcomputer werkt op het moment van optreden de gegevens die op een geldige chauffeurskaart zijn opgeslagen bij met de gegevens, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2013-08-21&g=2013-08-21).
 
 12. Indien zich een fout voordoet bij het schrijven van gegevens naar de boordcomputerkaart, voert de boordcomputer dezelfde schrijfopdracht maximaal drie keer uit.
 
@@ -447,13 +447,13 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 14. De verwerking, bedoeld in het dertiende lid, neemt maximaal vijf seconden in beslag.
 
-15. De boordcomputer stelt de bestuurder in staat de op de chauffeurskaart opgeslagen gegevens, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2010-10-01&g=2010-10-01), over te brengen naar de boordcomputer, conform hetgeen gesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2010-10-01&g=2010-10-01), artikel 8.
+15. De boordcomputer stelt de bestuurder in staat de op de chauffeurskaart opgeslagen gegevens, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2013-08-21&g=2013-08-21), over te brengen naar de boordcomputer, conform hetgeen gesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2013-08-21&g=2013-08-21), artikel 8.
 
 ##### Artikel 18
 
 1. De boordcomputer functioneert op correcte wijze met de systeemkaart.
 
-2. De boordcomputer gaat tijdens de inschakeling na of het serienummer, bedoeld in [artikel 22, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01), overeenkomt met het serienummer van de boordcomputer, zoals vastgelegd op chip van de systeemkaart.
+2. De boordcomputer gaat tijdens de inschakeling na of het serienummer, bedoeld in [artikel 22, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21), overeenkomt met het serienummer van de boordcomputer, zoals vastgelegd op chip van de systeemkaart.
 
 ##### Artikel 19
 
@@ -467,7 +467,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. Een bedrijfsvergrendeling schakelt automatisch uit wanneer een andere vervoerder de vergrendeling inschakelt.
 
-6. Bij de eerste bedrijfsvergrendeling voor de betreffende vervoerder stelt de boordcomputer de ondernemer in staat handmatig de gegevens, bedoeld in [artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.3&artikel=11&z=2010-10-01&g=2010-10-01), in te voeren.
+6. Bij de eerste bedrijfsvergrendeling voor de betreffende vervoerder stelt de boordcomputer de ondernemer in staat handmatig de gegevens, bedoeld in [artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.3&artikel=11&z=2013-08-21&g=2013-08-21), in te voeren.
 
 7. De boordcomputer stelt de vervoerder in staat om via de bedrijfsvergrendeling de gegevens, bedoeld in het zesde lid, te wijzigen.
 
@@ -475,27 +475,27 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 1. De boordcomputer kan alle geregistreerde gegevens lezen.
 
-2. Het geheugen houdt bij normaal gebruik alle geregistreerde gegevens ten minste 52 weken vast, met uitzondering van de gegevens, bedoeld in de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-10-01&g=2010-10-01), en [22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01).
+2. Het geheugen houdt bij normaal gebruik alle geregistreerde gegevens ten minste 52 weken vast, met uitzondering van de gegevens, bedoeld in de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2013-08-21&g=2013-08-21), en [22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21).
 
-3. De gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-10-01&g=2010-10-01), worden gedurende 104 weken in het geheugen vastgehouden.
+3. De gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2013-08-21&g=2013-08-21), worden gedurende 104 weken in het geheugen vastgehouden.
 
-4. Wanneer de geheugencapaciteit volledig gebruikt is komen de meest recente gegevens in de plaats van de oudste gegevens, met uitzondering van de gegevens bedoeld in [artikel 22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01).
+4. Wanneer de geheugencapaciteit volledig gebruikt is komen de meest recente gegevens in de plaats van de oudste gegevens, met uitzondering van de gegevens bedoeld in [artikel 22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21).
 
 5. Een stroomonderbreking van minder dan twaalf maanden beïnvloedt de in het geheugen opgeslagen gegevens niet.
 
-6. De identificatiegegevens, bedoeld in het [artikel 22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01), worden nooit beïnvloed door een stroomonderbreking.
+6. De identificatiegegevens, bedoeld in het [artikel 22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21), worden nooit beïnvloed door een stroomonderbreking.
 
 ##### Artikel 21
 
 1. Indien op basis van deze regeling geen andere informatie getoond behoeft te worden, toont de boordcomputer standaard de volgende gegevens:
 
-- a. de werkingsmodus en eventueel het werkingsniveau, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=4&z=2010-10-01&g=2010-10-01);
+- a. de werkingsmodus en eventueel het werkingsniveau, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=4&z=2013-08-21&g=2013-08-21);
 
 - b. de kilometerstand, en
 
 - c. de plaatselijke datum en tijd.
 
-2. Op verzoek van de gebruiker toont de boordcomputer de gegevens, bedoeld in [artikel 22 tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01).
+2. Op verzoek van de gebruiker toont de boordcomputer de gegevens, bedoeld in [artikel 22 tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21).
 
 3. Op verzoek van de gebruiker toont de boordcomputer, naast de gegevens bedoeld in het eerste lid en tweede lid, gegevens waarvoor de gebruiker geautoriseerd is.
 
@@ -553,11 +553,11 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 1. De deactivering van de boordcomputer vindt plaats in de activerings- en keuringsmodus.
 
-2. Bij de deactivering van de boordcomputer worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-10-01&g=2010-10-01).
+2. Bij de deactivering van de boordcomputer worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2013-08-21&g=2013-08-21).
 
-3. Onverminderd het tweede lid kunnen de gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-10-01&g=2010-10-01), na een verzoek daartoe, uitsluitend bij deactivering worden overgebracht nadat naast de authenticatie op basis van een keuringskaart tevens een authenticatie op basis van een inspectiekaart heeft plaatsgevonden.
+3. Onverminderd het tweede lid kunnen de gegevens, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2013-08-21&g=2013-08-21), na een verzoek daartoe, uitsluitend bij deactivering worden overgebracht nadat naast de authenticatie op basis van een keuringskaart tevens een authenticatie op basis van een inspectiekaart heeft plaatsgevonden.
 
-4. De ingevolge het tweede en derde lid overgebrachte gegevens worden na een succesvolle overbrenging ervan gewist, met uitzondering van de gegevens, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01).
+4. De ingevolge het tweede en derde lid overgebrachte gegevens worden na een succesvolle overbrenging ervan gewist, met uitzondering van de gegevens, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21).
 
 ##### Artikel 24
 
@@ -571,9 +571,9 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - c. het resultaat van het onderzoek en eventuele opmerkingen.
 
-3. Tijdens het onderzoek kunnen de gegevens, bedoeld in [artikel 22, vijfde lid, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01), aangepast worden. De nieuw ingevoerde gegevens worden tot deactivering geregistreerd en door de boordcomputer gebruikt.
+3. Tijdens het onderzoek kunnen de gegevens, bedoeld in [artikel 22, vijfde lid, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21), aangepast worden. De nieuw ingevoerde gegevens worden tot deactivering geregistreerd en door de boordcomputer gebruikt.
 
-4. Indien de gegevens, bedoeld in [artikel 22, vijfde lid, onderdelen e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2010-10-01&g=2010-10-01), worden aangepast, worden de oude gegevens niet overschreven.
+4. Indien de gegevens, bedoeld in [artikel 22, vijfde lid, onderdelen e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2013-08-21&g=2013-08-21), worden aangepast, worden de oude gegevens niet overschreven.
 
 #### § 2.6. Gebeurtenissen, fouten en storingen
 
@@ -581,15 +581,15 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 1. De boordcomputer is voorzien van een diagnosemechanisme dat ten minste het volgende vaststelt:
 
-- a. gebeurtenissen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2010-10-01&g=2010-10-01), artikel 6.5, onderdeel FAU_GEN1.1;
+- a. gebeurtenissen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2013-08-21&g=2013-08-21), artikel 6.5, onderdeel FAU_GEN1.1;
 
-- b. fouten als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01);
+- b. fouten als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21);
 
-- c. storingen als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+- c. storingen als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
 2. Het diagnosemechanisme is niet toegankelijk voor de gebruiker of uitschakelbaar door de gebruiker.
 
-3. Bij het opstarten voert de boordcomputer een zelfbeproeving uit. De zelfbeproeving bevat ten minste een verificatie van de integriteit van de uitvoercode van de boordcomputer, een verificatie van de integriteit van geregistreerde systeemgegevens en het bestaan van storingen als bedoeld in [artikel 26, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+3. Bij het opstarten voert de boordcomputer een zelfbeproeving uit. De zelfbeproeving bevat ten minste een verificatie van de integriteit van de uitvoercode van de boordcomputer, een verificatie van de integriteit van geregistreerde systeemgegevens en het bestaan van storingen als bedoeld in [artikel 26, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
 4. Naast de zelfbeproeving als bedoeld in het derde lid, kan op ieder gewenst moment een ingebouwde beproeving worden gestart. De ingebouwde beproeving stelt de gebruiker in staat vast te stellen of de boordcomputer op correcte wijze functioneert.
 
@@ -613,7 +613,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - e. een fout in de registratiefunctie;
 
-- f. een fout die de beveiliging, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2010-10-01&g=2010-10-01), van de boordcomputer in gevaar brengt;
+- f. een fout die de beveiliging, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2013-08-21&g=2013-08-21), van de boordcomputer in gevaar brengt;
 
 - g. een fout bij de gegevensuitvoer naar externe inrichtingen;
 
@@ -643,15 +643,15 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - f. een storing in de werking van de boordcomputerkaarten.
 
-5. Bij het vastleggen van gebeurtenissen, fouten en storingen koppelt de boordcomputer daar een code aan, zoals beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2010-10-01&g=2010-10-01), artikel 6, zevende lid.
+5. Bij het vastleggen van gebeurtenissen, fouten en storingen koppelt de boordcomputer daar een code aan, zoals beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=2&z=2013-08-21&g=2013-08-21), artikel 6, zevende lid.
 
-6. Zolang de correcte werking van de beveiligingsfuncties, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2010-10-01&g=2010-10-01), gegarandeerd is, blijft de boordcomputer na het detecteren van een fout doorgaan met het registreren van gegevens. Deze gegevens worden zodanig in de boordcomputer geregistreerd dat ze herkenbaar zijn als zijnde geregistreerd gedurende een periode waarin zich één of meerdere fouten hebben voorgedaan.
+6. Zolang de correcte werking van de beveiligingsfuncties, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2013-08-21&g=2013-08-21), gegarandeerd is, blijft de boordcomputer na het detecteren van een fout doorgaan met het registreren van gegevens. Deze gegevens worden zodanig in de boordcomputer geregistreerd dat ze herkenbaar zijn als zijnde geregistreerd gedurende een periode waarin zich één of meerdere fouten hebben voorgedaan.
 
 7. De boordcomputer staakt het uitvoeren van verdere handelingen wanneer een storing wordt gedetecteerd als bedoeld in het vierde lid, onderdelen a, b, c en e.
 
 ##### Artikel 27
 
-1. Het optreden van de onderstaande gebeurtenissen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01):
+1. Het optreden van de onderstaande gebeurtenissen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21):
 
 - a. het inbrengen van een ongeldige boordcomputerkaart;
 
@@ -667,41 +667,41 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - g. het gedurende een periode van 28 kalenderdagen gebruiken van de operationele modus, werkingsniveau arbeidstijd, zonder geldige boordcomputerkaart.
 
-2. .*Het optreden van de onderstaande gebeurtenissen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01):
+2. .*Het optreden van de onderstaande gebeurtenissen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21):
 
 - a. het ontstaan van onvoldoende opslagcapaciteit op het geheugen van de boordcomputer, en
 
 - b. een onderbreking van ten minste vijf seconden in de stroomvoorziening van de boordcomputer.
 
-3. Het optreden van een toestand verplaatsen zonder dat er een toestand rijden wordt waargenomen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01), tenzij er een toestand rijden is vastgesteld in de 20 seconden voor of na het optreden van de toestand verplaatsen.
+3. Het optreden van een toestand verplaatsen zonder dat er een toestand rijden wordt waargenomen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21), tenzij er een toestand rijden is vastgesteld in de 20 seconden voor of na het optreden van de toestand verplaatsen.
 
-4. Het gedurende vijf minuten niet kunnen verkrijgen van positiegegevens leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+4. Het gedurende vijf minuten niet kunnen verkrijgen van positiegegevens leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
-5. Een afwijking die de waarden, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=7&z=2010-10-01&g=2010-10-01), overschrijdt leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdelen j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+5. Een afwijking die de waarden, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.1&artikel=7&z=2013-08-21&g=2013-08-21), overschrijdt leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdelen j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
-6. Het optreden van gebeurtenissen die kunnen duiden op het in gevaar brengen van de beveiliging van de boordcomputer, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2010-10-01&g=2010-10-01), leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+6. Het optreden van gebeurtenissen die kunnen duiden op het in gevaar brengen van de beveiliging van de boordcomputer, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.8&artikel=31&z=2013-08-21&g=2013-08-21), leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
-7. Het vanuit de bedrijfsmodus gedurende 365 kalenderdagen niet overbrengen van gegevens bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+7. Het vanuit de bedrijfsmodus gedurende 365 kalenderdagen niet overbrengen van gegevens bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=1&artikel=1&z=2013-08-21&g=2013-08-21), leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
 ##### Artikel 28
 
-1. Het optreden van fouten als bedoeld in [artikel 26 tweede lid onderdelen a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01), leidt tot een storing bedoeld in artikel 26 vierde lid, onderdeel b.
+1. Het optreden van fouten als bedoeld in [artikel 26 tweede lid onderdelen a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21), leidt tot een storing bedoeld in artikel 26 vierde lid, onderdeel b.
 
-2. Het meer dan tien maal optreden binnen 30 kalenderdagen van een gebeurtenis als bedoeld in [artikel 27, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=27&z=2010-10-01&g=2010-10-01), leidt tot een storing als bedoeld in [artikel 26 vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+2. Het meer dan tien maal optreden binnen 30 kalenderdagen van een gebeurtenis als bedoeld in [artikel 27, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=27&z=2013-08-21&g=2013-08-21), leidt tot een storing als bedoeld in [artikel 26 vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
-3. Het langer dan 24 uur bestaan van de fout, bedoeld in [artikel 26, tweede lid, onderdeel j of onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel c.
+3. Het langer dan 24 uur bestaan van de fout, bedoeld in [artikel 26, tweede lid, onderdeel j of onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel c.
 
-4. Het optreden van de fout, bedoeld in [artikel 26, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel b.
+4. Het optreden van de fout, bedoeld in [artikel 26, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel b.
 
-5. Het meer dan 100 maal optreden binnen een kalenderdag van een gebeurtenis als bedoeld in [artikel 26, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel c.
+5. Het meer dan 100 maal optreden binnen een kalenderdag van een gebeurtenis als bedoeld in [artikel 26, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel c.
 
 ##### Artikel 29
 
 1. De boordcomputer waarschuwt de gebruiker zodra het volgende wordt gedetecteerd:
 
-- a. het optreden en eindigen van fouten in de werking van de boordcomputer genoemd in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01);
+- a. het optreden en eindigen van fouten in de werking van de boordcomputer genoemd in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21);
 
-- b. het optreden en eindigen van storingen in de werking van de boordcomputer genoemd in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2010-10-01&g=2010-10-01).
+- b. het optreden en eindigen van storingen in de werking van de boordcomputer genoemd in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2013-08-21&g=2013-08-21).
 
 2. De waarschuwingssignalen worden in ieder geval in visuele vorm weergegeven.
 
@@ -729,7 +729,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 1. De boordcomputer is voorzien van beveiligingsfuncties die de juiste en betrouwbare werking van de boordcomputer waarborgen.
 
-2. De beveiligingsfuncties, bedoeld in het eerste lid, voldoen aan de beveiligings-doelstellingen en de beveiligingseisen bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2010-10-01&g=2010-10-01).
+2. De beveiligingsfuncties, bedoeld in het eerste lid, voldoen aan de beveiligings-doelstellingen en de beveiligingseisen bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2013-08-21&g=2013-08-21).
 
 3. De boordcomputer verifieert programmatuurrevisies door middel van een programmatuur veiligheidscertificatie, voordat deze in de boordcomputer geïmplementeerd worden.
 
@@ -741,23 +741,23 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 ##### Artikel 32
 
-1. De Dienst Wegverkeer kan op aanvraag en na betaling van het daarvoor door deze dienst vastgestelde tarief een typegoedkeuring verlenen aan een fabrikant voor een boordcomputer die voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&z=2010-10-01&g=2010-10-01) opgenomen eisen.
+1. De Dienst Wegverkeer kan op aanvraag en na betaling van het daarvoor door deze dienst vastgestelde tarief een typegoedkeuring verlenen aan een fabrikant voor een boordcomputer die voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&z=2013-08-21&g=2013-08-21) opgenomen eisen.
 
 2. De aanvraag en behandeling van een typegoedkeuring als bedoeld in het eerste lid geschieden met inachtneming van de in [richtlijn 2007/46/EG](32007L0046) daaromtrent gegeven voorschriften.
 
 ##### Artikel 33
 
-1. Bij een aanvraag als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=3&artikel=32&z=2010-10-01&g=2010-10-01), overlegt de fabrikant in elk geval de volgende bescheiden in de Nederlandse of Engelse taal:
+1. Bij een aanvraag als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=3&artikel=32&z=2013-08-21&g=2013-08-21), overlegt de fabrikant in elk geval de volgende bescheiden in de Nederlandse of Engelse taal:
 
 - a. de specificaties volgens welke de boordcomputer is gebouwd;
 
-- b. een certificaat dat is afgegeven door een voor Common Criteria geaccrediteerd certificatielichaam dat door Nederland is erkend, waaruit blijkt dat de boordcomputer voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2010-10-01&g=2010-10-01) bij deze regeling opgenomen specificaties;
+- b. een certificaat dat is afgegeven door een voor Common Criteria geaccrediteerd certificatielichaam dat door Nederland is erkend, waaruit blijkt dat de boordcomputer voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=1&z=2013-08-21&g=2013-08-21) bij deze regeling opgenomen specificaties;
 
 - c. de documenten die behoren bij het in onderdeel b bedoelde certificaat waarin de beveiligingsdoelstellingen en de door de certificerende instelling gemaakte opmerkingen zijn opgenomen;
 
 - d. één of meerdere testrapporten die zijn opgesteld door een testinstelling die werkt overeenkomstig ISO-IEC 17025, dan wel overeenkomstig kwaliteitsstandaarden die aantoonbaar een vergelijkbaar beschermingsniveau bieden, waaruit eenduidig blijkt:
 
-- 1°. dat de boordcomputer voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&z=2010-10-01&g=2010-10-01) opgenomen eisen voor zover deze eisen niet vallen onder het certificaat als bedoeld in onderdeel b, en
+- 1°. dat de boordcomputer voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&z=2013-08-21&g=2013-08-21) opgenomen eisen voor zover deze eisen niet vallen onder het certificaat als bedoeld in onderdeel b, en
 
 - 2°. op welke wijze dat is vastgesteld;
 
@@ -767,11 +767,13 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - g. een gebruikers- en installatiehandleiding.
 
-2. Bij een aanvraag als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=3&artikel=32&z=2010-10-01&g=2010-10-01), wordt door de fabrikant voor de keuring een exemplaar van de boordcomputer ter beschikking van de Dienst Wegverkeer gesteld.
+2. Bij een aanvraag als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=3&artikel=32&z=2013-08-21&g=2013-08-21), wordt door de fabrikant voor de keuring een exemplaar van de boordcomputer ter beschikking van de Dienst Wegverkeer gesteld.
 
 3. De Dienst Wegverkeer kan in verband met de uitvoering van de typegoedkeuring bij de testinstelling die één of meerdere door de fabrikant overgelegde testrapporten, bedoeld in het eerste lid, onderdeel d, heeft opgesteld, nadere gegevens opvragen of een onderzoek ter plaatse uitvoeren voor zover dit nodig is voor de beoordeling van deze testrapporten.
 
 4. De fabrikant draagt zorg voor de medewerking van de door hem ingeschakelde testinstellingen aan het in het vorige lid bedoelde opvragen van gegevens of uit te voeren nader onderzoek.
+
+5. Na verlening van typegoedkeuring door de Dienst Wegverkeer, verstrekt de minister op aanvraag en na betaling van het daarvoor verschuldigde tarief, aan de betreffende fabrikant systeemkaarten die alleen ten behoeve van inbouw in de te produceren typegoedgekeurde boordcomputers mogen worden aangewend.
 
 ##### Artikel 34
 
