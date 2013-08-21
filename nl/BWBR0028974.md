@@ -4,7 +4,7 @@ identifier: "BWBR0028974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-01"
-last_updated: "2011-10-16"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028974"
 soort: "ministeriele-regeling"
@@ -113,17 +113,19 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 - b. de op de buitenkant van de chauffeurskaart vermelde gegevens, of de in de chauffeurskaart opgeslagen elektronische gegevens die ten tijde van de afgifte van de kaart door de Minister reeds op de kaart zijn opgeslagen niet meer juist zijn;
 
-- c. de bij de kaart behorende pukcode bij derden bekend is geworden.
+- c. de bij de kaart behorende pukcode bij derden bekend is geworden;
+
+- d. zich verlies of diefstal van de chauffeurskaart heeft voorgedaan, als bedoeld in [artikel 83, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83).
 
 3. Na de melding, bedoeld in het tweede lid, onderscheidenlijk de melding, bedoeld in [artikel 83, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), mag de bestuurder, zo lang nog niet is beslist omtrent zijn aanvraag om een vervangende kaart, taxivervoer verrichten, mits hij:
 
 - a. die aanvraag binnen vier werkdagen na de melding indient;
 
-- b. het nummer, bedoeld in [artikel 6 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=6&z=2011-10-16&g=2011-10-16), in de boordcomputer invoert;
+- b. het nummer, bedoeld in [artikel 6 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=6&z=2013-08-21&g=2013-08-21), in de boordcomputer invoert;
 
 - c. een handmatig ondertekende registratie bijhoudt van zijn arbeids- en rusttijden onder vermelding van de gegevens, bedoeld in [artikel 79, vijfde lid, onder a en b van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79); en
 
-- d. uiterlijk op de derde werkdag na de dag van ontvangst van het bericht, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=7&z=2011-10-16&g=2011-10-16), de vervangende kaart afhaalt.
+- d. uiterlijk op de derde werkdag na de dag van ontvangst van het bericht, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=7&z=2013-08-21&g=2013-08-21), de vervangende kaart afhaalt.
 
 4. Bij de in het derde lid bedoelde aanvraag wordt in geval van een melding als bedoeld in [artikel 83, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), een door de aanvrager ondertekende verklaring overgelegd dat de kaart verloren is geraakt of gestolen is, met een omschrijving van de omstandigheden waaronder dit is gebeurd.
 
@@ -131,13 +133,13 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 ##### Artikel 9
 
-1. In geval van een melding als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2011-10-16&g=2011-10-16), levert de aanvrager zijn te vervangen kaart in bij de afgifte van de vervangende kaart.
+1. In geval van een melding als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2013-08-21&g=2013-08-21), levert de aanvrager zijn te vervangen kaart in bij de afgifte van de vervangende kaart.
 
 2. Indien de aanvrager na een melding als bedoeld in [artikel 83, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), zijn kaart na de melding weer in zijn bezit krijgt, zendt hij deze onmiddellijk terug aan de Minister.
 
 ##### Artikel 10
 
-1. De chauffeurskaart en de chauffeurskaart onder beperkingen worden ingetrokken in de gevallen bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2011-10-16&g=2011-10-16).
+1. De chauffeurskaart en de chauffeurskaart onder beperkingen worden ingetrokken in de gevallen bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2013-08-21&g=2013-08-21).
 
 2. De chauffeurskaart onder beperkingen wordt ingetrokken indien aan de houder een chauffeurskaart is verstrekt.
 
@@ -151,7 +153,7 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 - d. indien de kaart door een andere persoon dan de houder wordt gebruikt of
 
-- e. indien is gehandeld in strijd met het bij [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=1&artikel=4&z=2011-10-16&g=2011-10-16), dan wel het bij of krachtens het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) bepaalde omtrent de chauffeurskaart.
+- e. indien is gehandeld in strijd met het bij [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=1&artikel=4&z=2013-08-21&g=2013-08-21), dan wel het bij of krachtens het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) bepaalde omtrent de chauffeurskaart.
 
 4. Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het derde lid.
 
@@ -247,7 +249,7 @@ De vervoerder draagt er zorg voor dat te allen tijde:
 
 3. Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder d, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=26) laat de vervoerder deze binnen drie werkdagen door een erkenninghouder herstellen, en de in de boordcomputer geregistreerde gegevens door die erkenninghouder veilig stellen.
 
-4. Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder f, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=26), draagt de vervoerder er zorg voor dat de bestuurder handelt in overeenstemming met [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2011-10-16&g=2011-10-16).
+4. Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder f, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=26), draagt de vervoerder er zorg voor dat de bestuurder handelt in overeenstemming met [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2013-08-21&g=2013-08-21).
 
 5. Indien er een waarschuwing wordt gegeven van het ontstaan van onvoldoende opslagcapaciteit in het geheugen van de boordcomputer, draagt de vervoerder onmiddellijk zorg voor een overbrenging van de gegevens uit de boordcomputer naar zijn vestiging.
 
