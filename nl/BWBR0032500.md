@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-07-16"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -85,7 +85,7 @@ Besluit:
 | 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (TKI-toeslag) | 1a.2 |   |   |   |
 | 3.2 | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | **2**.2 | Opkomende markten innovatieprojecten |   |   |
-|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | CATRENE-innovatieprojecten |   |   |
+|   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | CATRENE-innovatieprojecten | 06-09 t/m 20-09 | 8.600.000 |
 |   | Subsidieregeling sterktes in innovatie (internationaal innoveren) | 2.2 | ITEA2-innovatieprojecten | 22-03 t/m 05-04 | 7.000.000 |
 | 3.3 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics (periode vooraanmelding) |   |   |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Genomics |   |   |
