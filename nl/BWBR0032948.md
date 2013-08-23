@@ -4,7 +4,7 @@ identifier: "BWBR0032948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2013-03-01"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032948"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - e. een onderhoudshandboek in de Nederlandse of Engelse taal.
 
-3. Het model van het speciaal-BvL is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=1&z=2013-03-01&g=2013-03-01) bij deze regeling.
+3. Het model van het speciaal-BvL is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=1&z=2013-08-23&g=2013-08-23) bij deze regeling.
 
 ##### Artikel 3
 
@@ -98,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een verklaring van de in onderdeel a bedoelde bevoegde onderhoudstechnicus waaruit blijkt dat wordt voldaan aan de van toepassing zijnde luchtwaardigheidsaanwijzingen en door de minister uitgebrachte bijzondere luchtwaardigheidsaanwijzingen, en
 
-- c. een verklaring van een bevoegd onderhoudstechnicus waaruit blijkt dat het luchtvaartuig is onderhouden conform het onderhoudshandboek, bedoeld in [artikel 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2013-03-01&g=2013-03-01).
+- c. een verklaring van een bevoegd onderhoudstechnicus waaruit blijkt dat het luchtvaartuig is onderhouden conform het onderhoudshandboek, bedoeld in [artikel 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2013-08-23&g=2013-08-23).
 
 #### § 3. Vluchtuitvoering
 
@@ -136,11 +136,11 @@ In deze regeling wordt verstaan onder:
 
 - a. voorafgaand aan de opleiding bedoeld in onderdeel b, ten minste 200 uren vliegervaring heeft waarvan 70 uren in de hoedanigheid van gezagvoerder op vliegtuigen, en
 
-- b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond voor de Yak-52 typebevoegdverklaring conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=2&z=2013-03-01&g=2013-03-01) bij deze regeling.
+- b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond voor de Yak-52 typebevoegdverklaring conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=2&z=2013-08-23&g=2013-08-23) bij deze regeling.
 
 ##### Artikel 6
 
-1. De opleiding bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-03-01&g=2013-03-01), wordt afgesloten met een vaardigheidstoets afgenomen door een vlieginstructeur Yak-52 die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.
+1. De opleiding bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-08-23&g=2013-08-23), wordt afgesloten met een vaardigheidstoets afgenomen door een vlieginstructeur Yak-52 die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.
 
 2. Het toetsen van theoretische kennis teneinde het type veilig te kunnen vliegen maakt onderdeel uit van de vaardigheidstoets.
 
@@ -204,7 +204,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 
-## Bijlage 1. bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2013-03-01&g=2013-03-01), van de Regeling Yakovlev-52 vliegtuigen
+## Bijlage 1. bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2013-08-23&g=2013-08-23), van de Regeling Yakovlev-52 vliegtuigen
 
 | **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** |
 | --- | --- | --- | --- |
@@ -229,7 +229,7 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 |   |   |   |   |
 | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** |
 
-## Bijlage 2. , bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-03-01&g=2013-03-01), van de Regeling Yakovlev-52 vliegtuigen
+## Bijlage 2. bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-08-23&g=2013-08-23), van de Regeling Yakovlev-52 vliegtuigen
 
 ### Opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
