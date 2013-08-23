@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2010-06-05"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Minister:** Minister van Verkeer en Waterstaat;
+- **Minister:** Minister van Infrastructuur en Milieu;
 
 - **typebevoegdheid:** bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder.
 
@@ -54,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Vervallen
+Deze regeling berust op Verordening (EG) nr. 2042/2003 en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16).
 
 ### Hoofdstuk 3. Examencommissie
 
 ##### Artikel 3
 
-De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML.
+De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de Regeling bijzondere bevoegdverklaringen AML en Part-66 AML en bijlage III bij verordening (EG) nr. 2042/2003.
 
 ##### Artikel 4
 
@@ -100,27 +100,25 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 7
 
-1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2010-06-05&g=2010-06-05), of het examenreglement.
+1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2013-08-23&g=2013-08-23), of het examenreglement.
 
-2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2010-06-05&g=2010-06-05), of het examenreglement.
+2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2013-08-23&g=2013-08-23), of het examenreglement.
 
-### Hoofdstuk 4. Examenreglement en examen
+### Hoofdstuk 4. Examenreglement
 
 ##### Artikel 8
 
-1. Ten behoeve van het examen wordt door de examencommissie een examenreglement opgesteld.
-
-2. Het examenreglement wordt ter vaststelling voorgelegd aan de Minister.
+Vervallen
 
 ##### Artikel 9
 
-1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2010-06-05&g=2010-06-05).
+1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2013-08-23&g=2013-08-23).
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2010-06-05&g=2010-06-05) | tabel 2 |
-| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2010-06-05&g=2010-06-05) | tabel 2 |
-| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2010-06-05&g=2010-06-05) | tabel 2 |
+| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2013-08-23&g=2013-08-23) | tabel 2 |
+| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2013-08-23&g=2013-08-23) | tabel 2 |
+| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2013-08-23&g=2013-08-23) | tabel 2 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- |
@@ -173,6 +171,8 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 • = examenmodule die deel uitmaakt van het examen.
 
+3. Het examen, bedoeld in het eerste lid is met goed gevolg afgelegd indien wordt voldaan aan de hiertoe gestelde eisen in bijlage III bij verordening (EG) nr. 2042/2003.
+
 ##### Artikel 11
 
 1. Als regel wordt tweemaal per jaar gelegenheid gegeven tot het afleggen van het examen.
@@ -191,7 +191,7 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2010-06-05&g=2010-06-05).
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2013-08-23&g=2013-08-23).
 
 2. De voorzitter wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
@@ -199,7 +199,7 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De voorzitter is evenwel bevoegd een andere examinator voor de beoordeling van het examenresultaat aan te wijzen.
 
-2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2010-06-05&g=2010-06-05), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2013-08-23&g=2013-08-23), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
@@ -219,9 +219,7 @@ Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklari
 
 ## Bijlage 1. Basiskenniseisen bevoegdverklaring A
 
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+## Bijlage 1. Basiskenniseisen bevoegdverklaring A
 
 ## Bijlage 3
 
@@ -253,17 +251,17 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 Korte omschrijving modules
 
+Korte omschrijving modules
+
 Module Voorschriften
 
 Module Vliegtuigen
 
 Module Vliegtuiginstrumenten
 
-Module Elektrische installaties
-
 ### Korte omschrijving modules
 
-### Voorschriften
+### Korte omschrijving modules
 
 De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
 
@@ -281,15 +279,17 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen van onderd
 
 ### Voorschriften
 
+### Voorschriften
+
 ### Vliegtuigen
 
 ### Vliegtuiginstrumenten
 
-### Elektrische installaties
-
 ## Bijlage 2. Basiskenniseisen bevoegdverklaring B
 
 ### Inhoud
+
+Korte omschrijving modules
 
 Korte omschrijving modules
 
@@ -301,11 +301,9 @@ Module Motoren
 
 Module Motorinstrumenten
 
-Module Elektrische installaties
-
 ### Korte omschrijving modules
 
-### Voorschriften
+### Korte omschrijving modules
 
 De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
 
@@ -327,13 +325,13 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen van onderd
 
 ### Voorschriften
 
+### Voorschriften
+
 ### Vliegtuigen
 
 ### Motoren
 
 ### Motorinstrumenten
-
-### Elektrische installaties
 
 ## Bijlage 3. Basiskenniseisen bevoegdverklaring C
 
@@ -341,15 +339,15 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen van onderd
 
 Korte omschrijving modules
 
+Korte omschrijving modules
+
 Module Voorschriften
 
 Module Vliegtuigen
 
-Module Elektrische en elektronische installaties
-
 ### Korte omschrijving modules
 
-### Voorschriften
+### Korte omschrijving modules
 
 De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
 
@@ -363,9 +361,13 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen en testen 
 
 ### Voorschriften
 
+### Voorschriften
+
 ### Vliegtuigen
 
-### Elektrische en elektronische installaties
+## Bijlage 4
+
+Vervallen
 
 ## Bijlage 4
 
@@ -382,6 +384,86 @@ Vervallen
 ## Bijlage 7
 
 Vervallen
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+### Hoofdstuk 2. Vervallen
+
+##### Artikel 14a
+
+Ten behoeve van een ordentelijk verloop van het examen stelt de examencommissie een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.
+
+### Hoofdstuk 5. Slotbepalingen
+
+### Inhoud
+
+Module Elektrische installaties
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, het monteren en demonteren van het zweefvliegtuig, het verwisselen van onderdelen, de uitvoering van installaties, de uitvoering van het onderhoud, de uitvoering van eenvoudige herstellingen, het vinden en verhelpen van storingen.
+
+### Vliegtuiginstrumenten
+
+De indeling, de constructie en werking, de uitvoering van de installaties, het verwisselen van instrumenten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen van onderdelen, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+## Bijlage 2. Basiskenniseisen bevoegdverklaring B
+
+### Inhoud
+
+Module Elektrische installaties
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, de uitvoering van het onderhoud.
+
+### Motoren
+
+De constructie, de materialen, de brandstoffen, de smeeroliën, de werking, de bediening, het verwisselen van de motor, het verwisselen van onderdelen, de uitvoering van de installaties, het vinden en verhelpen van storingen, het afstellen.
+
+### Motorinstrumenten
+
+De indeling, de constructie en werking, de uitvoering van de installaties, het verwisselen van instrumenten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen van onderdelen, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+## Bijlage 3. Basiskenniseisen bevoegdverklaring C
+
+### Inhoud
+
+Module Elektrische en elektronische installaties
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, de uitvoering van het onderhoud.
+
+### Elektrische en elektronische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen en testen van apparaten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische en elektronische installaties
 
 ## Bijlage 8
 
