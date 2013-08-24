@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-08-21"
+last_updated: "2013-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -266,11 +266,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3b
 
-1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&wetgeving) voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
 2. Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 3 genoemde periode vastgesteld: het daarbij behorende in kolom 4 genoemde bedrag in euro’s.
 
-| 1. Paragraaf van de [Subsidieregeling Energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&wetgeving) | 2. Project | 3. openstellingsperiode in 2013 | 4. subsidieplafond |
+| 1. Paragraaf van de [Subsidieregeling Energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | 2. Project | 3. openstellingsperiode in 2013 | 4. subsidieplafond |
 | --- | --- | --- | --- |
 | [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.1) | BBE innovatieproject | t/m 19 september | 3,7 mln |
 | [2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.2) | BBE KEW-project | t/m 19 september | 6,7 mln |
@@ -280,11 +280,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | [2.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.6) | UGas-project | t/m 5 september | 0,5 mln |
 | [2.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.7) | LNG-project | t/m 5 september | 1,5 mln |
 | [2.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.8) | SGas-project | t/m 5 september | 0,9 mln |
-| [2.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.8) | SDGas-project | t/m 5 september | 0,4 mln |
+| [2.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.9) | SDGas-project | t/m 5 september | 0,4 mln |
 | [2.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.10) | GAS-project | t/m 5 september | 0,3 mln |
 | [2.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.11) | WBS-project | t/m 19 september | 3,5 mln |
 | [2.4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.12) | ZEGO-project | t/m 19 september | 7 mln |
 | [2.4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.13) | EnerGO-project | t/m 19 september | 4,8 mln |
+| [2.4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&sub-paragraaf=2.4.14) | DFP-project | t/m 19 september | 1,2 mln |
 | [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&paragraaf=3.10) | Smartgrids-project | t/m 12 september | 5,35 mln |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
