@@ -4,7 +4,7 @@ identifier: "BWBR0023923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2008-06-01"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023923"
 soort: "ministeriele-regeling"
@@ -88,7 +88,15 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 ##### Artikel 6
 
-Er zal gedurende een periode van drie jaar gerekend vanaf de datum van inwerkingtreding van deze regeling geen vergoeding in rekening worden gebracht voor toegangsmiddelen, als bedoeld in [artikel 18, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=18).
+1. Voor een toegangsmiddel wordt een vergoeding voor drie jaar in rekening gebracht van:
+
+- a. 357 euro voor een pas.
+
+- b. 522 euro voor een certificaat.
+
+2. De vergoedingen, bedoeld in het eerste lid, kunnen periodiek worden geïndexeerd.
+
+3. Restitutie van betaalde vergoedingen, bedoeld in het eerste lid, is niet mogelijk, tenzij naar het oordeel van Onze Minister sprake is van een omstandigheid die niet kan worden toegerekend aan degene ten behoeve van wie de pas of het certificaat is geproduceerd.
 
 ##### Artikel 7
 
