@@ -1,0 +1,299 @@
+---
+title: "Besluit van de manager divisie CCV van het CBR houdende vaststelling van beleidsregels betreffende het afgeven, schorsen en intrekken van erkenningen van opleidingsinstituten en certificeringen van nascholingscursussen (Raamwerk nascholingscursussen Code 95 en ADR/ADN)"
+identifier: "BWBR0033798"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-08-31"
+last_updated: "2013-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033798"
+soort: "zbo"
+stam_id: "12342413"
+version_id: "20708372"
+internal_id: "C29743461"
+label_id: "12314374"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033798/2013-08-31/0"
+intitule_bron: "Stcrt.2013-23827"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-19"
+intitule_published: "2013-08-30"
+intitule_in_force: "2013-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23827"
+original_signed_date: "2013-08-19"
+original_published_date: "2013-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23827"
+entry_into_force_date: "2013-08-31"
+jci_1_3: "jci1.3:c:BWBR0033798&z=2013-08-31&g=2013-08-31"
+jci_1_0: "1.0:c:BWBR0033798&g=2013-08-31"
+citeertitel_status: "redactioneel"
+short_title: "Raamwerk nascholingscursussen Code 95 en ADR/ADN"
+signed_date: "2013-08-19"
+entry_into_force: "2013-08-31"
+---
+# Besluit van de manager divisie CCV van het CBR houdende vaststelling van beleidsregels betreffende het afgeven, schorsen en intrekken van erkenningen van opleidingsinstituten en certificeringen van nascholingscursussen (Raamwerk nascholingscursussen Code 95 en ADR/ADN)
+
+De manager divisie CCV van het CBR,
+
+Gelet op de [artikelen 156x Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156x) en [hoofdstuk III Regeling vakbekwaamheid bestuurders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III);
+
+Besluit:
+
+Tot vaststelling van:
+
+**Raamwerk nascholingscursussen Code 95 en ADR/ADN**
+
+**Versie 1.1**
+
+### Hoofdstuk 1. : Toelichting op het raamwerk
+
+Het onderhavige raamwerk is een document als bedoeld in [artikel 156s Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156s). In het raamwerk staan de eisen die worden gesteld aan de certificering van nascholingscursussen en de erkenning van opleidingsinstituten ([artikel 156x Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156x) en [Hoofdstuk III Regeling vakbekwaamheid bestuurders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III)). Dit raamwerk is van overeenkomstige toepassing op de erkenning als ADR opleidingsinstituut in het kader van de [wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), gelet op de [Regeling vervoer over land van gevaarlijke stoffen, Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3). Het raamwerk is ook van overeenkomstige toepassing op het toezicht op de ADN herhalingstoetsen.
+
+Dit raamwerk beschrijft hoe de divisie CCV van het CBR (hierna: CCV) toezicht houdt op de naleving van de nascholingseisen en erkenning van opleidingsinstituten en welke bezwaar- en beroepsmogelijkheden er zijn tegen opgelegde maatregelen.
+
+Wijzigingen in het raamwerk worden door CCV (periodiek) vastgesteld en actief gecommuniceerd.
+
+In dit raamwerk wordt ingegaan op de positie van CCV, de aanvraagprocedure voor erkenning en certificering, de erkennings- en certificeringseisen, de geldigheidsduur, de wijze waarop het toezicht uitgeoefend wordt en hoe beroep en bezwaar geregeld is en de minimumeisen die gelden voor de verschillende nascholingscursussen.
+
+### Hoofdstuk 2. : Positie van de divisie CCV
+
+CCV is aangewezen als exameninstituut dat besluit tot erkenning van opleidingsinstituten voor het uitvoeren van nascholingscursussen en tot certificering van nascholingscursussen. Daarnaast houdt CCV toezicht op de naleving van de eisen die hieraan worden gesteld. Dit gebeurt op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) en de [Regeling vakbekwaamheid bestuurders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031458) en de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), gelet op de [Regeling vervoer over land van gevaarlijke stoffen artikel 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2), juncto Hoofdstuk 8 van het ADR.
+
+### Hoofdstuk 3. : Aanvraagprocedure
+
+Alvorens een opleidingsinstituut een erkenning kan aanvragen, dient deze een aparte overeenkomst met CBR te sluiten ten aanzien van de rekening-courant en de geldende voorwaarden daarbij.
+
+Een opleidingsinstituut vraagt een erkenning en certificering aan door het invullen van een aanvraagformulier dat te downloaden is van de CBR website. Het formulier dient volledig en correct ingevuld bij CCV te worden ingediend. CCV neemt een besluit op de aanvraag en informeert het opleidingsinstituut daarover. De kosten van de erkenning en certificering worden afgeboekt van de rekening-courant van het opleidingsinstituut.
+
+Gegevens omtrent afgegeven erkenningen en certificeringen publiceert CCV periodiek op de CBR website. Indien een erkenning en/of certificering wordt geschorst of ingetrokken, dan wordt deze door CCV verwijderd van de website.
+
+Ruim voor het aflopen van de certificeringtermijn, kan het opleidingsinstituut een nieuwe aanvraag indienen bij CCV, indien de opleider een nieuwe certificering wenst. De aanvraagprocedure wordt opnieuw volledig doorlopen.
+
+Na intrekking van een erkenning en/of certificering, kan pas een nieuwe aanvraag ingediend worden op het moment dat de periode waarop de intrekking betrekking heeft is afgelopen.
+
+Bovendien moet het opleidingsinstituut aantonen dat er voldoende maatregelen zijn getroffen die voorkomen dat in de toekomst opnieuw zal worden gehandeld in strijd met de gestelde eisen.
+
+### Hoofdstuk 4. : Erkennings- en certificeringseisen
+
+Bij de erkenning van een opleidingsinstituut en de certificering van nascholingscursussen hanteert CCV de volgende eisen:
+
+### 4.1. Erkenning opleidingsinstituut
+
+Voor het verkrijgen en behouden van de erkenning voor nascholing dient het opleidingsinstituut aan de volgende eisen te voldoen.
+
+### 4.1.1. Eisen algemeen
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### 4.1.2. Eisen locatie
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### 4.1.3. Eisen legitimatie
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### 4.2. Certificering nascholingscursus
+
+Voor het verkrijgen en behouden van de certificering van een nascholingscursus dient het opleidingsinstituut aan de volgende eisen te voldoen.
+
+### 4.2.1. Eisen algemeen
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### 4.2.2. Eisen docenten
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### 4.2.3. Eisen Cursusdag
+
+Het opleidingsinstituut zorgt ervoor dat:
+
+### Hoofdstuk 5. : Geldigheidsduur
+
+Een erkenning als opleidingsinstituut en certificering van een nascholingscursus hebben een geldigheidsduur van maximaal vijf jaren. Een tussentijdse opzegging of het stellen van aanvullende eisen aan een erkenning/certificering door CBR is mogelijk indien de actualiteit of bijzondere omstandigheden daar aanleiding toe geven.
+
+### Hoofdstuk 6. : Toezicht
+
+CCV houdt op twee manieren toezicht op de nascholing, namelijk:
+
+Als in strijd met de gestelde eisen en verplichtingen wordt gehandeld, kan CCV de maatregelen opleggen, die in artikel 6.2. zijn genoemd.
+
+Welke maatregel wordt opgelegd is afhankelijk van de zwaarte van de overtreding.
+
+Het resultaat van een steekproef wordt schriftelijk aan het opleidingsinstituut bevestigd.
+
+### 6.1. Overtredingen
+
+CCV onderscheidt vier categorieën overtredingen. Twee categorieën bij de erkenning van opleidingsinstituten en twee bij de certificering van nascholingscursussen.
+
+Het is mogelijk dat het opleidingsinstituut een overtreding begaat die niet specifiek is benoemd. Dit betekent niet dat er geen maatregel zal worden opgelegd. CCV zal in dat geval de niet benoemde overtreding alsnog categoriseren en sanctioneren.
+
+### 6.1.1. Categorieën overtredingen erkenning opleidingsinstituut
+
+Categorie A. overtredingen zijn onder meer:
+
+Categorie B. overtredingen zijn onder meer:
+
+### 6.1.2. Categorieën overtredingen certificering nascholingscursussen
+
+Categorie 1. overtredingen zijn onder meer:
+
+Categorie 2. overtredingen zijn onder meer:
+
+### 6.2. Sanctionering
+
+Afhankelijk van de categorie van de overtreding en het aantal gepleegde overtredingen wordt een maatregel opgelegd. Het betreft een systeem van in ernst oplopende sancties, waarbij in algemene zin rekening is gehouden met de bedrijfseconomische belangen van de opleidingsinstituten.
+
+Er is sprake van een tweede (en volgende) overtreding, als deze binnen 24 maanden na de eerste overtreding heeft plaatsgevonden.
+
+CCV kan de volgende maatregelen opleggen:
+
+### 6.2.1. Waarschuwing
+
+De waarschuwingen worden schriftelijk aan de opleider bekend gemaakt.
+
+### 6.2.2. Waarschuwing met verscherpt toezicht.
+
+Aan de waarschuwing wordt verscherpt toezicht toegevoegd. Aanvullende steekproeven worden op kosten van het opleidingsinstituut uitgevoerd. De kosten van de steekproeven staan op de website van het CBR.
+
+### 6.2.3. Schorsen van de certificering voor een nascholingscursus voor 12 weken.
+
+De schorsing van de certificering geldt voor een periode van 12 weken. Deze schorsing kan betrekking hebben op één of meerdere nascholingscursussen.
+
+### 6.2.4. Intrekken van de certificering voor een nascholingscursus
+
+Na intrekking van een certificering kan het opleidingsinstituut na verloop van tenminste 6 maanden opnieuw een aanvraag voor certificering van de betrokken nascholingscursus indienen.
+
+### 6.2.5. Schorsen van een erkenning als opleidingsinstituut voor 12 weken
+
+De schorsing van de erkenning als opleidingsinstituut geldt voor een periode van 12 weken.
+
+### 6.2.6. Intrekken van een erkenning als opleidingsinstituut
+
+Na intrekking van een erkenning kan het opleidingsinstituut na verloop van tenminste 6 maanden opnieuw een aanvraag voor erkenning indienen.
+
+Als uw erkenning en/of certificering is ingetrokken, dient u binnen 12 weken aan te tonen dat er voldoende maatregelen zijn genomen om te voorkomen dat er in de toekomst opnieuw in strijd met het raamwerk gehandeld zal worden. Zolang deze maatregelen niet zijn getroffen blijft de intrekking van kracht.
+
+### 6.3. Flowchart overtredingen Erkenning opleidingsinstituut
+
+### 6.4. Flowchart overtredingen Certificering nascholingscursussen
+
+Een intrekking van de erkenning of certificering treedt direct in werking na het genomen besluit. Cursusdagen waarvoor al kandidaten zijn opgevoerd in TOP kunnen nog gegeven worden.
+
+### Hoofdstuk 7. : Bezwaar en beroep
+
+### 7.1. Bezwaar
+
+Op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) kunt u tegen een besluit tot intrekking of schorsing van een erkenning of certificering bezwaar indienen bij de afdeling Juridische Zaken van het CBR. U moet dit doen binnen zes weken na de dag van verzending van het besluit. In uw bezwaarschrift moet u aangegeven waarom u het niet eens bent met de beslissing. Tevens moet u een kopie van de beslissing waartegen u bezwaar maakt meesturen. Onderaan de beslissing vindt u informatie over hoe u in bezwaar kunt gaan.
+
+### 7.2. Geen bezwaar mogelijk
+
+Tegen een brief met een waarschuwing (met verscherpt toezicht) kunt u geen bezwaarschrift indienen, omdat dit geen besluit betreft in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), maar een voorbereidingshandeling.
+
+### 7.3. Hoorzitting
+
+Als u bezwaar maakt tegen een besluit kunt u worden uitgenodigd voor een hoorzitting om uw bezwaarschrift mondeling toe te lichten. Dit is op het kantoor van het CBR in Rijswijk. Indien u dit wenst kan de hoorzitting ook telefonisch plaatsvinden.
+
+### 7.4. Schorsende werking
+
+Het indienen van bezwaar en beroep tegen een besluit heeft geen schorsende werking.
+
+### 7.5. Beroep
+
+Tegen een beslissing op bezwaar kunt u in beroep bij de rechtbank. Onderaan de beslissing staat informatie over hoe in beroep gegaan kan worden.
+
+### Hoofdstuk 8. : E-learning
+
+Een deel van de nascholing kan met behulp van E-learning uitgevoerd worden. In dit hoofdstuk zijn de eisen en randvoorwaarden aangegeven die gelden voor E-learning in het kader van nascholing.
+
+### 8.1. Randvoorwaarden E-learning
+
+Bij het uitvoeren van nascholingscursussen met behulp van E-learning gelden de volgende randvoorwaarden:
+
+Dagdeel 2 bestaat uit:
+
+### 8.2. Systeemeisen E-learning
+
+Om te borgen dat bij de inzet van E-learning gebruik gemaakt wordt van een adequaat systeem, zijn er een aantal systeemeisen/criteria opgesteld.
+
+Alleen systemen die aan deze eisen voldoen, kunnen t.b.v. de Nascholing ingezet worden.
+
+### 8.2.1. Algemeen
+
+Een E-learningsysteem is een online leersysteem, waarin leerstof aan deelnemers wordt aangeboden en deelnemers leerstof kunnen verwerken.
+
+Het online leersysteem bevat:
+
+### 8.2.2. Inhoudelijk
+
+De E-learning cursus heeft de volgende kenmerken:
+
+### 8.2.3. Ondersteuning
+
+Het systeem biedt de volgende ondersteuning voor de deelnemers:
+
+### 8.2.4. Veiligheidsmaatregelen/borging
+
+Het systeem kent de volgende functies, ter borging van een juist gebruik:
+
+### 8.2.5. Verantwoordelijkheden (rollen)
+
+De eigenaar van het E-learning systeem waarborgt:
+
+De opleider, die E-learning inzet bij de nascholing, is verantwoordelijk voor:
+
+### 8.2.6. Rapportages
+
+De eigenaar van het E-learning systeem levert per kwartaal de volgende rapportages op aan CCV:
+
+Per opleider en per registratiecode:
+
+CCV krijgt, op haar eerste verzoek, toegang tot het E-learning systeem.
+
+De opleider beschikt over een overzicht per deelnemersgroep met de inlogfrequentie, inlogtijden en (in)actieftijden op deelnemersniveau. Dit overzicht van de betreffende groep is beschikbaar bij de uitvoering van het tweede deel van de nascholing.
+
+### Hoofdstuk 9. : Simulatoren
+
+### 9.1. Technische eisen Simulatoren
+
+**Belangrijk:**
+
+Bovenstaande lijst is een overzicht van de minimale technische eisen voor simulators die zullen worden gebruikt bij de toets voor het behalen van de basiskwalificatie en voor de nascholing.
+
+Tijdens de toetsen ten behoeve van het behalen van de basiskwalificatie wordt uitgegaan van de simulatie van een solo voertuig (C1, C, D1 of D). In de nascholing kan ook gebruik worden gemaakt van gecombineerde voertuigen (CE of DE).
+
+Een simulator dient te voldoen aan alle bovenstaande eisen en aan de database eisen (zie ander document). Indien een simulator voldoet aan de essentiële en aan 80% van de database eisen dan kan deze voorlopig gecertificeerd worden onder het overgangsregime, indien en uitsluitend als de aanvrager van de certificering een onderbouwd projectplan aanlevert waarin wordt aangegeven hoe in een periode van maximaal 5 jaar in gelijkwaardige stappen de ontbrekende belangrijke en database eisen worden gerealiseerd. De voortgang van de uitvoering van dit projectplan zal door middel van een jaarlijkse audit worden gecontroleerd. Aan deze audits zijn kosten verbonden.
+
+Bovenstaand document is ten behoeve van de duidelijkheid overzichtelijk gehouden. Leidraad is dat de realiteit zo dicht mogelijk benaderd wordt.
+
+### 9.2. Database eisen simulatoren
+
+Om de simulatortoets in een voor de chauffeur realistische virtuele wereld uit te laten voeren zal de geotypische (Nederlandse m.u.v. bergen) database van de simulator aan een aantal minimum eisen moeten voldoen.
+
+Voor het ontwerp van wegen en weginfrastructuur binnen de database genieten de volgende richtlijnen de voorkeur:
+
+De daarin genoemde lay-out en type wegen, vluchtheuvels, drempels, belijning, bebording enz. is volgens de Nederlandse normen en gebruiken.
+
+Gelet op de realiteit kunnen afwijkingen zoals te scherpe bochten bij uitvoegstroken, onhandig gepositioneerde vluchtheuvels en ander straatmeubilair, te lage viaducten enz. binnen een database voorkomen.
+
+Om in aanmerking te komen voor een voorlopige certificering onder het overgangsregime moet een simulator, naast voldoen aan de essentiële technische eisen, voor wat betreft de database eisen voldoen aan 80% van de algemene eisen en eveneens 80% van ieder onderdeel van de specifieke eisen (met uitzondering van bergen en industrieterrein).
+
+Indien een simulator hieraan voldoet dan kan deze voorlopig gecertificeerd worden onder het overgangsregime, indien en uitsluitend als de aanvrager van de certificering een onderbouwd projectplan aanlevert waarin wordt aangegeven hoe in een periode van maximaal 5 jaar in gelijkwaardige stappen de ontbrekende belangrijke en database eisen worden gerealiseerd. De voortgang van de uitvoering van dit projectplan zal door middel van een jaarlijkse audit worden gecontroleerd. Aan deze audits zijn kosten verbonden.
+
+### 9.2.1. Algemene eisen:
+
+Naast de algemene eisen is uitbreiding van de database met heuvelachtig- en bergachtig gebied mogelijk (optie).
+
+Binnen de bovengenoemde algemene eisen gelden de volgende minimale specifieke eisen:
+
+### 9.2.2. Specifieke eisen
+
+### Hoofdstuk 10. : Minimumeisen
+
+Zie www.cbr.nl voor de minimumeisen.
+
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
