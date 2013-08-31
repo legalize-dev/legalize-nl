@@ -4,7 +4,7 @@ identifier: "BWBR0007041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-04-06"
+last_updated: "2013-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007041"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ De aanvraag van een schorsing als bedoeld in [artikel 67 van de wet](https://wet
 
 ##### Artikel 3
 
-De aanvraag op de wijze als bedoeld in [artikel 51, eerste lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51) van een nieuw deel I B dan wel, voor wat betreft een voor 31 mei 2004 afgegeven kentekenbewijs, een deel I B van het kentekenbewijs bij het einde van de schorsing geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een postvestiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007041&artikel=1&z=2009-04-06&g=2009-04-06), zulks met inachtneming van het bepaalde bij en krachtens [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51).
+De aanvraag op de wijze als bedoeld in [artikel 51, eerste lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51) van een nieuw deel I B dan wel, voor wat betreft een voor 31 mei 2004 afgegeven kentekenbewijs, een deel I B van het kentekenbewijs bij het einde van de schorsing geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een postvestiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007041&artikel=1&z=2013-08-31&g=2013-08-31), zulks met inachtneming van het bepaalde bij en krachtens [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51).
 
 ##### Artikel 4
 
@@ -67,3 +67,7 @@ Deze regeling wordt aangehaald als:
 Regeling schorsing geldigheid kentekenbewijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+De schorsing eindigt door verloop van een jaar nadat de schorsing is verleend.
