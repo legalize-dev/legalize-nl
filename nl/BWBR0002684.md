@@ -4,7 +4,7 @@ identifier: "BWBR0002684"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-01"
-last_updated: "2012-01-01"
+last_updated: "2013-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002684"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 - b. ter inschrijving van een rechterlijke uitspraak als bedoeld in de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=86) en [91 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=91): een authentiek afschrift van de uitspraak;
 
-- c. ter inschrijving van verzoeken tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed of opheffing van de gemeenschap als bedoeld in [artikel 99, eerste lid, onder b, c en d, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99): een afschrift van het verzoekschrift, gewaarmerkt en voorzien van de datum van indiening door de griffier van de rechtbank waar het is ingediend;
+- c. ter inschrijving van verzoeken tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed of opheffing van de gemeenschap als bedoeld in [artikel 99, eerste lid, onder b, c en d, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99): een afschrift van het verzoekschrift, gewaarmerkt en voorzien van de datum en het tijdstip van indiening door de griffier van de rechtbank waar het is ingediend;
 
 - d. ter inschrijving van een overeenkomst als bedoeld in [artikel 99, eerste lid, onder e, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99): een verklaring als bedoeld in [artikel 80c, eerste lid, onder c, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80c);
 
@@ -74,9 +74,9 @@ Een verlenging overeenkomstig [artikel 106 van Boek 1 van het Burgerlijk Wetboek
 
 1. Voor elk echtpaar of elk geregistreerd paar te wiens aanzien een inschrijving geschiedt, wordt een kaart en zo nodig een omslag aangehouden, vermeldende de naam en voornamen van de beide personen, alsmede plaats en datum van de huwelijksvoltrekking of het geregistreerd partnerschap dat is aangegaan.
 
-2. Op de kaart worden de inschrijvingen, met vermelding van hun dagtekening, aangebracht en door de griffier ondertekend.
+2. Op de kaart worden de inschrijvingen, met vermelding van hun dagtekening, aangebracht en door de griffier ondertekend. Bij inschrijvingen als bedoeld in [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2013-09-01&g=2013-09-01), wordt mede het tijdstip van inschrijving vermeld.
 
-3. In het omslag worden de stukken, bedoeld in [artikel 1, eerste lid onder a, b, e en f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2012-01-01&g=2012-01-01), bewaard.
+3. In het omslag worden de stukken, bedoeld in [artikel 1, eerste lid onder a, b, e en f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2013-09-01&g=2013-09-01), bewaard.
 
 4. De kaarten dragen een nummer en worden zodanig gerangschikt dat zij eenvoudig kunnen worden teruggevonden. Het nummer van de kaart wordt op het omslag aangebracht.
 
@@ -100,11 +100,11 @@ Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in h
 
 ##### Artikel 1a
 
-Op verzoek van één of beide echtgenoten of (geregistreerde) partners wordt door de griffier in het register aangetekend dat het verzoek of de overeenkomst, bedoeld in [artikel 99, derde lid, eerste zin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99), niet meer tot het daar bedoelde gevolg kan leiden. Het verzoek is gedateerd en is behalve door de echtgenoot of echtgenoten dan wel (geregistreerde) partner of partners ondertekend door een advocaat of notaris.
+Op verzoek van één of beide echtgenoten of (geregistreerde) partners wordt door de griffier in het register aangetekend dat het verzoek of de overeenkomst, bedoeld in [artikel 99, derde lid, eerste zin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99), niet meer tot het daar bedoelde gevolg kan leiden. Het verzoek, voorzien van datum en tijdstip, is behalve door de echtgenoot of echtgenoten dan wel (geregistreerde) partner of partners ondertekend door een advocaat of notaris.
 
 ##### Artikel 3a
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2012-01-01&g=2012-01-01) genoemde stukken die voor een inschrijving in het huwelijksgoederenregister dienen te worden overgelegd, maken geen deel uit van het huwelijksgoederenregister. Zij worden ter griffie van de rechtbank op zodanige wijze bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2013-09-01&g=2013-09-01) genoemde stukken die voor een inschrijving in het huwelijksgoederenregister dienen te worden overgelegd, maken geen deel uit van het huwelijksgoederenregister. Zij worden ter griffie van de rechtbank op zodanige wijze bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
 
 ##### Artikel 4a
 
