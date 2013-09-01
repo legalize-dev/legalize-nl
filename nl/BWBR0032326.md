@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2013-07-10"
+last_updated: "2013-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -450,17 +450,29 @@ Het door een zwangere werknemer of een werknemer tijdens de lactatie arbeid late
 
 84 De ZO luidt: Het door een zwangere werknemer arbeid laten verrichten waarbij zij kan worden blootgesteld aan de biologische agentia Toxoplasma en Rubellavirus, bedoeld in afdeling 9 van hoofdstuk 4 van het Arbeidsomstandighedenbesluit, tenzij is gebleken dat zij hiervoor immuun is.
 
-85 De ODB’s gelden voor de volgende werkzaamheden: blokkenstellen ruwbouw, betonstaalvlechten, metselen, monteren van metalen dak- en gevelelementen, glaszetten, en luidden:
+85 De ODB’s gelden voor de volgende werkzaamheden: blokkenstellen ruwbouw, betonstaalvlechten, metselen, monteren van metalen dak- en gevelelementen, glaszetten, dakdekken platte daken, gipsblokkenstellen, wandplatenstellen, plafondplatenstellen, stukadoren traditioneel/mechanisch en het leggen van zandcementdekvloeren, en luiden:
 
-Bij blokkenstellen ruwbouw, blokken van 14 kilogram of meer hanteren zonder gebruik van een elementenstelselmachine of zonder mechanisch opperen en/of zonder verhoogde plaatsing van de blokken en de lijmkuip op minimaal 20 cm hoogte. Blokkenstellen boven 150 cm met uitzondering van de binnenmuren net onder de verdiepingsvloer; Blokken-stellen onder staoppervlak, met uitzondering van het vloer- en funderingsniveau.;
+Bij blokkenstellen ruwbouw, blokken van 14 kilogram of meer hanteren zonder gebruik van een elementenstelselmachine of zonder mechanisch opperen of zonder verhoogde plaatsing van de blokken en de lijmkuip op minimaal 20 cm hoogte; blokkenstellen boven 150 cm met uitzondering van de binnenmuren net onder de verdiepingsvloer; blokkenstellen onder staoppervlak, met uitzondering van het vloer- en funderingsniveau.
 
-Bij betonstaalvlechten als volgt werken: door een werknemer meer dan 25 kilo tillen; bo-ven schouderhoogte binden; handmatig knippen van 8 mm met een handschaar korter dan 75 cm, handmatig knippen boven de 8 mm met een handschaar korter dan 90 cm; Handmatig knippen van meer dan 10 mm; werken zonder werktafel waar dit wel mogelijk is.
+Bij betonstaalvlechten 25 kilogram of meer tillen; boven schouderhoogte binden; handmatig knippen van 8 mm met een handschaar korter dan 75 cm; handmatig knippen boven de 8 mm met een handschaar korter dan 90 cm; handmatig knippen van meer dan 10 mm; werken zonder werktafel waar dit wel mogelijk is.
 
-Metselen zonder verhoogde plaatsing van de te verwerken metselstenen en speciekuip op 20 cm hoogte; metselen boven 170 cm met uitzondering van de binnenmuren onder de verdiepingsvloer; metselen onder 20 cm, met uitzondering van het vloer- en funderings-niveau; een stenentang met één hand gebruiken; een kruiwagen (inclusief de last) van meer dan 60 kilo hanteren; eenhandig pakken van stenen met een steenbreedte van meer dan 105 mm.
+Metselen zonder verhoogde plaatsing van de te verwerken metselstenen en speciekuip op 20 cm hoogte; metselen boven 170 cm met uitzondering van de binnenmuren onder de verdiepingsvloer; metselen onder 20 cm, met uitzondering van het vloer- en funderingsniveau; een stenentang met één hand gebruiken; een kruiwagen (inclusief de last) van meer dan 60 kilogram hanteren; eenhandig pakken van stenen met een steenbreedte van meer dan 105 mm.
 
-Bij het monteren van metalen dak- en gevelelementen als volgt werken: platen handmatig lostrekken of omklappen; platen boven 118 kg niet mechanisch in het werk brengen; platen onder de 118 kg handmatig verslepen zonder een daartoe aangewezen hulpmiddel; platen onder 118 kg verder dan gemiddeld 8 meter handmatig verslepen. Platen onder 118 kg door één werknemer verslepen.
+Bij het monteren van metalen dak- en gevelelementen, platen handmatig lostrekken of omklappen; platen van 118 kg of meer niet mechanisch in het werk brengen; platen onder de 118 kg handmatig verslepen zonder een daartoe aangewezen hulpmiddel; platen onder 118 kg verder dan gemiddeld 8 meter handmatig verslepen; platen onder 118 kg verslepen.
 
-Bij glaszetten als volgt werken: glas door één werknemer boven de 25 kilo handmatig tillen/plaatsen, met twee werknemers meer dan 50 kilo’s handmatig tillen/plaatsen; glas zonder mechanische hulpmiddelen boven de 50 kilo’s plaatsen; geen gebruik maken van transportmiddelen voor het (ver)plaatsen van glas boven de 25 kg door één werknemer, met twee werknemers boven 50 kg; geen gebruik maken van persoonsgebonden hulpmiddelen voor het plaatsen van glas.
+Bij glaszetten, glas van 25 kilogram of meer handmatig tillen/plaatsen; met meer personen 50 kilogram of meer per persoon handmatig tillen/plaatsen; handmatig tillen/plaatsen glas zonder mechanische hulpmiddelen boven de 50 kilogram plaatsen; geen gebruik maken van transportmiddelen voor het (ver)plaatsen van glas van 25 kg of meer; met meer personen meer dan 25 kg per persoon; geen gebruik maken van persoonsgebonden hulpmiddelen voor het plaatsen van glas.
+
+Bij het dakdekken van platte daken meer dan 25 kilogram tillen; dakrollen en andere lasten van 25 kilogram of meer niet mechanisch transporteren; geen gereedschap gebruiken met een verlengde of instelbare steel, zodat rechtop gewerkt kan worden; hulpmiddelen zoals een kraan, lift, ladderlift en (steek)wagentje voor het op en over het dak verplaatsen van materialen niet verstrekken of gebruiken.
+
+Bij het gipsblokkenstellen 25 kilogram of meer tillen; niet mechanisch opperen; elementen van 18 kilogram of meer niet mechanisch/machinaal verwerken; verpakkingseenheden gips, cement, granietkorrels, marmerkorrels of andere grondstoffen van 25 kilogram of meer op het werk voorhanden hebben; de blokken en de lijmmortelkuip niet op een verhoging van 20 cm of meer plaatsen; werken onder de gestelde werkhoogte van 20 cm of meer (met uitzondering van de eerste laag).
+
+Bij het wandplatenstellen 25 kilogram of meer handmatig tillen/plaatsen/transporteren; met meer personen 50 kilogram of meer per persoon handmatig tillen/plaatsen/transporteren; hulpmiddelen (zoals materialenlift, kraan en/of verreiker, platenkar) voor het verticaal en horizontaal transport van materialen, apparatuur en gereedschap niet inzetten; wandplaten niet vertikaal op bokken in tussenopslag zetten.
+
+Bij het plafondplatenstellen 25 kilogram of meer handmatig tillen/transporteren; met meer personen 50 kilogram of meer handmatig tillen/transporteren; hulpmiddelen (zoals materialenlift, kraan en/of verreiker, platenkar) voor het verticaal en horizontaal transport van materialen, apparatuur en gereedschap niet inzetten; geen gebruik maken van een platenlift bij plaatsen plafondplaten; plafondplaten niet vertikaal op bokken in tussenopslag zetten.
+
+Bij het stukadoren 25 kilogram of meer traditioneel/mechanisch tillen; geen gebruik maken van (mechanische) hulpmiddelen bij het opperwerk; geen gebruik maken van een bordes, stukadoorstrapje of rolsteiger voor het aanbrengen van de stuc op hogere delen van de wand; geen gebruik maken van een mixer op statief, dan wel een mixer met 2 handvatten, dit ter voorkoming van het met de hand omsteken; geen gebruik maken van een (verrijdbare) mortelkuip op een verhoging van 20 cm of meer.
+
+Bij het leggen van zandcementdekvloeren per laag meer dan 100 m2 per persoon per dag verwerken bij machinaal aanmaken, mengen en transporteren van de specie; meer dan 80 m2 per persoon per dag verwerken bij semimachinaal mengen; meer dan 50 m2 per persoon per dag verwerken bij handmatig vullen van een vloerenpomp met een maximum van 120 m2 op een locatie; meer dan 20 m2 per persoon per dag verwerken bij volledig handmatig mengen en transporteren met een maximum van 40 m2 op een locatie; meer dan 10 liter per emmer handmatig water toevoegen; de grondstof meer dan 2 meter handmatig rondom de driepoot verspreiden; geen gebruik maken van een vlindermachine (aangedreven d.m.v. benzine, elektriciteit of gas) bij het afwerken van de smeervloer; geen aluminium rei (of lichter materiaal) gebruiken bij het afreien; een lei gebruiken waarvan de lengte niet is afgestemd op de ruimte waarin gewerkt wordt.
 
 86 De ZO luiden: Het door een zwangere werknemer of een werknemer tijdens de lactatie de volgende fysiek belastende bewegingen laten uitvoeren:
 
@@ -666,39 +678,27 @@ Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een
 
 151 De ODB luidt: Het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen.
 
-152 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in artikel 7.6 Arboregeling, door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 153 De ZO luiden: Het werken op een overbelaste steiger. (lid 2), en
 
-Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
+### Werknemersverplichtingen
 
 154 Het verrichten van trekkerarbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers zonder toezicht.
 
-155 De ZO luidt: Het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers.
+### Verschillende typen overtredingen
 
 156 De ZO luidt: Het onvoldoende er voor zorgen dat werknemers aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers.
 
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+### Zware Overtredingen (ZO)
 
 158 De ODB luidt: Het bij tijdelijke en incidentele dienstverlening in gereglementeerde beroepen onvoldoende beheersen van de Nederlandse taal.
 
-### Werknemersverplichtingen
-
-In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
-
-### Verschillende typen overtredingen
-
-In de bijlage zijn de verschillende typen overtredingen aangegeven.
-
-### Zware Overtredingen (ZO)
-
-De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
-
-In de bijlage zijn de verschillende typen overtredingen aangegeven.
+159 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen de gevolgen van vallen (lid 5).
 
 Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
 
-De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
+In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
 
 Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
@@ -706,37 +706,57 @@ Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in d
 
 Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
 
-Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van artikel 28 Arbowet te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+In de bijlage zijn de verschillende typen overtredingen aangegeven.
 
 Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
 ### Overige Overtredingen (OO)
 
-Het gaat hierbij om feiten met betrekking tot:
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-157 De ODB luidt: Het op de openbare weg besturen van een trekker en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen door een jeugdige werknemer die niet in het bezit is van een certificaat van vakbekwaamheid.
+152 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in artikel 7.6 Arboregeling, door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
 
-159 De ZO luidt: Het werken op hoogten van meer dan 2.50 meter waarbij geen of onvoldoende voorzieningen zijn getroffen tegen de gevolgen van vallen (lid 5).
+Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
+155 De ZO luidt: Het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers.
 
 ### Werknemersverplichtingen
 
-In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
+157 De ODB luidt: Het op de openbare weg besturen van een trekker en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen door een jeugdige werknemer die niet in het bezit is van een certificaat van vakbekwaamheid.
 
 ### Verschillende typen overtredingen
 
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
+
 ### Zware Overtredingen (ZO)
 
+De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
+
 Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
+
+### Overige Overtredingen (OO)
+
+Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van artikel 28 Arbowet te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Werknemersverplichtingen
+
+### Verschillende typen overtredingen
+
+Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
 
 ### Overtreding waarvoor Direct een Boete volgt (ODB)
 
 Er bestaat een aantal overtredingen in de Arbeidsomstandighedenwet, het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen.
+
+Het gaat hierbij om feiten met betrekking tot:
 
 Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
