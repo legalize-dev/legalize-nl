@@ -4,7 +4,7 @@ identifier: "BWBV0005131"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-09-01"
-last_updated: "1997-02-01"
+last_updated: "2013-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005131"
 soort: "verdrag"
@@ -47,7 +47,9 @@ Erkennend dat internationale samenwerking een belangrijke rol kan spelen bij het
 
 Overwegend dat de fundamentele beginselen die iedere persoon het recht geven op vaststelling van zijn rechten en verplichtingen in overeenstemming met een behoorlijke wettelijke procedure, dienen te worden erkend als van toepassing op fiscale aangelegenheden in alle Staten, en dat de Staten ernaar dienen te streven de legitieme belangen van belastingplichtigen te beschermen, en met name passende bescherming te bieden tegen discriminatie en dubbele belasting;
 
-Er derhalve van overtuigd dat Staten geen maatregelen dienen uit te voeren of inlichtingen dienen te verstrekken tenzij dit in overeenstemming is met hun nationale wetgeving en praktijk, gelet op de noodzaak van het beschermen van de vertrouwelijkheid van inlichtingen, en rekening houdend met internationale akten ter bescherming van de privacy en de stromen van persoonlijke gegevens;
+Er derhalve van overtuigd dat Staten maatregelen dienen uit te voeren of inlichtingen dienen te verstrekken, rekening houdend met de noodzaak van het beschermen van de vertrouwelijkheid van de inlichtingen en met internationale instrumenten ter bescherming van de privacy en de stromen van persoonsgegevens;
+
+Overwegend dat er een nieuw kader van samenwerking is ontstaan en dat het wenselijk is een multilateraal instrument beschikbaar te stellen om zoveel mogelijk Staten in de gelegenheid te stellen te profiteren van het nieuwe kader van samenwerking en tevens de hoogste internationale normen voor samenwerking op belastinggebied te implementeren;
 
 Geleid door de wens een verdrag te sluiten inzake wederzijdse administratieve bijstand in belastingzaken,
 
@@ -143,17 +145,11 @@ Voor iedere Partij die een daartoe strekkende verklaring heeft afgelegd, worden 
 
 ##### Artikel 4. Algemene bepaling
 
-1. De Partijen wisselen alle inlichtingen uit, met name zoals voorzien in dit Deel, waarvan te voorzien is dat zij van belang zijn voor:
+1. De Partijen wisselen alle inlichtingen uit, met name zoals voorzien in dit deel, die naar verwachting van belang zijn voor de toepassing of handhaving van hun nationale wetten ter zake van de belastingen waarop dit Verdrag van toepassing is.
 
-- a. de heffing en inning van belasting, en de invordering en dwanginvordering van verschuldigde belasting, en
+2. Geschrapt.
 
-- b. administratiefrechtelijke vervolging of het initiëren van strafrechtelijke vervolging.
-
-Inlichtingen waarvan het niet waarschijnlijk is dat zij van belang zijn voor deze doeleinden worden niet uitgewisseld krachtens dit Verdrag.
-
-2. Een Partij kan de krachtens dit Verdrag verkregen inlichtingen slechts als bewijsmateriaal voor een strafrechter gebruiken indien hiertoe vooraf toestemming is verleend door de Partij die de inlichtingen heeft verstrekt. Twee of meer Partijen kunnen echter overeenkomen af te zien van de voorwaarde van voorafgaande toestemming.
-
-3. Iedere Partij kan, door middel van een aan één van de Depositarissen gerichte verklaring, te kennen geven dat haar autoriteiten volgens haar nationale wetgeving een inwoner of onderdaan van die Partij in kennis kunnen stellen alvorens hem betreffende inlichtingen te verstrekken, in overeenstemming met de artikelen 5 en 7.
+3. Iedere Partij kan, door middel van een aan een van de Depositarissen gerichte verklaring, te kennen geven dat haar autoriteiten volgens haar nationale wetgeving haar inwoner of onderdaan in kennis kunnen stellen alvorens hem betreffende inlichtingen te verstrekken, in overeenstemming met de artikelen 5 en 7.
 
 ##### Artikel 5. Uitwisseling van inlichtingen op verzoek
 
@@ -269,7 +265,7 @@ De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan 
 
 - a. de autoriteit of instantie waarvan het door de bevoegde autoriteit ingediende verzoek afkomstig is;
 
-- b. de naam, het adres en overige bijzonderheden die bijdragen aan de identificatie van de persoon op wie het verzoek betrekking heeft;
+- b. de naam, het adres of overige bijzonderheden die bijdragen aan de identificatie van de persoon op wie het verzoek betrekking heeft;
 
 - c. in geval van een verzoek om inlichtingen, de vorm waarin de verzoekende Staat de inlichtingen bij voorkeur wenst te ontvangen;
 
@@ -277,13 +273,13 @@ De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan 
 
 - e. in geval van een verzoek om uitreiking van documenten, de aard en het onderwerp van het uit te reiken document;
 
-- f. de vraag of het verzoek in overeenstemming is met de wetgeving en de administratieve praktijk van de verzoekende Staat en of het verzoek gerechtvaardigd is gezien de vereisten van artikel 19.
+- f. de vraag of het verzoek in overeenstemming is met de wetgeving en de administratieve praktijk van de verzoekende Staat en of het verzoek gerechtvaardigd is gezien de vereisten van [artikel 21, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBV0005131&hoofdstuk=IV&artikel=21&z=2013-09-01&g=2013-09-01).
 
 2. Zodra de verzoekende Staat andere inlichtingen verkrijgt die verband houden met het verzoek om bijstand, zendt de verzoekende Staat deze aan de aangezochte Staat.
 
 ##### Artikel 19. De mogelijkheid een verzoek af te wijzen
 
-De aangezochte Staat is niet verplicht een verzoek in te willigen indien de verzoekende Staat niet alle op zijn eigen grondgebied beschikbare middelen heeft aangewend, tenzij aanwending van die middelen zou leiden tot onevenredige moeilijkheden.
+Vervallen
 
 ##### Artikel 20. Antwoord op het verzoek om bijstand
 
@@ -301,21 +297,29 @@ De aangezochte Staat is niet verplicht een verzoek in te willigen indien de verz
 
 - a. maatregelen te nemen die in strijd zijn met zijn eigen wetgeving of administratieve praktijk of met de wetgeving of de administratieve praktijk van de verzoekende Staat;
 
-- b. maatregelen uit te voeren die hij strijdig acht met de openbare orde of met zijn wezenlijke belangen;
+- b. maatregelen te nemen die in strijd zouden zijn met de openbare orde (**ordre public**);
 
-- c. inlichtingen te verstrekken die niet verkrijgbaar zijn volgens zijn eigen wetgeving of administratieve praktijk of krachtens de wetgeving of administratieve praktijk van de verzoekende Staat;
+- c. inlichtingen te verstrekken die niet verkrijgbaar zijn volgens zijn eigen wetgeving of administratieve praktijk of de wetgeving of administratieve praktijk van de verzoekende Staat;
 
-- d. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, of inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde of met zijn wezenlijke belangen;
+- d. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, of inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (**ordre public**);
 
-- e. administratieve bijstand te verlenen indien en voor zover hij de belasting in de verzoekende Staat in strijd acht met algemeen aanvaarde beginselen van belastingheffing of met de bepalingen van een overeenkomst tot vermijding van dubbele belasting, of met enige andere overeenkomst die de aangezochte Staat heeft gesloten met de verzoekende Staat;
+- e. administratieve bijstand te verlenen indien en voor zover hij de belasting in de verzoekende Staat in strijd acht met algemeen aanvaarde beginselen van belastingheffing of met de bepalingen van een verdrag tot het vermijden van dubbele belasting of met enig ander verdrag dat de aangezochte Staat heeft gesloten met de verzoekende Staat;
 
-- f. bijstand te verlenen indien de toepassing van dit Verdrag zou leiden tot discriminatie van een onderdaan van de aangezochte Staat ten opzichte van de onderdanen van de verzoekende Staat in dezelfde omstandigheden.
+- f. administratieve bijstand te verlenen ten behoeve van de toepassing of handhaving van een bepaling van de belastingwetgeving van de verzoekende Staat die, of elk daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte Staat ten opzichte van een onderdaan van de verzoekende Staat die zich in dezelfde omstandigheden bevindt;
+
+- g. administratieve bijstand te verlenen indien de verzoekende Staat niet alle redelijke maatregelen heeft aangewend die hem uit hoofde van zijn wetgeving of administratieve praktijk ter beschikking staan, tenzij aanwending van die middelen zou leiden tot onevenredige moeilijkheden;
+
+- h. bijstand bij de invordering te verlenen in gevallen waarin de administratieve last voor die Staat kennelijk niet in verhouding staat tot het voordeel te behalen door de verzoekende Staat.
+
+3. Indien in overeenstemming met dit Verdrag om inlichtingen wordt verzocht door de verzoekende Staat, wendt de aangezochte Staat zijn maatregelen inzake het verzamelen van inlichtingen aan om de verzochte inlichtingen te verkrijgen, ongeacht het feit dat de aangezochte Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke inlichtingen behoeft te beschikken. Op de in de vorige zin vervatte verplichting zijn de in dit Verdrag vervatte beperkingen van toepassing, maar deze beperkingen, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke inlichtingen te weigeren inlichtingen te verstrekken.
+
+4. De bepalingen van dit Verdrag, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.
 
 ##### Artikel 22. Geheimhouding
 
-1. Alle door een Partij krachtens dit Verdrag verkregen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die krachtens de nationale wetgeving van die Partij zijn verkregen, of krachtens de voorwaarden inzake geheimhouding die van toepassing zijn in de Partij die de inlichtingen heeft verstrekt, indien die voorwaarden meer beperkend zijn.
+1. Alle door een Partij krachtens dit Verdrag verkregen inlichtingen worden op dezelfde wijze geheim gehouden en beschermd als inlichtingen die krachtens de nationale wetgeving van die Partij zijn verkregen, en, voor zover nodig teneinde het noodzakelijke beschermingsniveau voor persoonsgegevens veilig te stellen, in overeenstemming met de waarborgen die de Partij die de gegevens verstrekt kan voorschrijven indien deze worden vereist krachtens haar nationale wetgeving.
 
-2. Zodanige gegevens worden in ieder geval slechts ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en bestuurlijke instanties of lichamen) die betrokken zijn bij de heffing of inning van belastingen van die Partij, of bij de invordering van belastingen, de tenuitvoerlegging, of de vervolging ter zake van of de beslissing in beroepszaken met betrekking tot belastingen van die Partij. Alleen de bovenbedoelde personen of autoriteiten mogen van die inlichtingen gebruik maken, en dan slechts voor die doeleinden. Zij mogen de inlichtingen, niettegenstaande de bepalingen van het eerste lid, bekend maken in openbare rechtszittingen of in rechterlijke beslissingen aangaande die belastingen, slechts na voorafgaande toestemming van de bevoegde autoriteit van de Partij die de inlichtingen heeft verstrekt. Twee of meer Partijen kunnen echter onderling overeenkomen af te zien van de voorwaarde van voorafgaande toestemming.
+2. Dergelijke inlichtingen worden in elk geval uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en bestuurlijke of toezichthoudende lichamen) die betrokken zijn bij de heffing of inning van belastingen van die Partij, of bij de invordering van belastingen, de tenuitvoerlegging, of de vervolging ter zake van of de beslissing in beroepszaken met betrekking tot belastingen van die Partij of bij het toezicht op het bovenstaande. Uitsluitend de bovenbedoelde personen of autoriteiten mogen van die inlichtingen gebruikmaken en uitsluitend voor die doeleinden. Niettegenstaande de bepalingen van het eerste lid mogen zij de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen aangaande die belastingen.
 
 3. Indien een Partij een voorbehoud heeft gemaakt als bedoeld in artikel 30, eerste lid, letter a, maakt geen enkele andere Partij die inlichtingen van die Partij verkrijgt, gebruik van deze inlichtingen ten aanzien van een belasting in een categorie waarop het voorbehoud van toepassing is. Evenzo maakt de Partij die het voorbehoud maakt geen gebruik van krachtens dit Verdrag verkregen inlichtingen ten aanzien van een belasting in een categorie waarop het voorbehoud van toepassing is.
 
@@ -363,7 +367,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 1. De mogelijkheden van bijstand voorzien bij dit Verdrag scheppen geen beperking voor en worden evenmin beperkt door mogelijkheden vervat in bestaande of toekomstige internationale overeenkomsten of andere regelingen tussen de betrokken Partijen of in andere akten die verband houden met samenwerking in belastingzaken.
 
-2. Niettegenstaande de voorschriften van dit Verdrag passen Partijen die lid zijn van de Europese Economische Gemeenschap in hun onderlinge betrekkingen de gemeenschappelijke voorschriften toe die van kracht zijn binnen die Gemeenschap.
+2. Niettegenstaande het eerste lid, kunnen Partijen die lid zijn van de Europese Unie in hun onderlinge betrekkingen de mogelijkheden voor bijstand voorzien in het Verdrag toepassen indien deze meer ruimte voor samenwerking bieden dan de mogelijkheden geboden door de van toepassing zijnde regelgeving van de Europese Unie.
 
 ##### Artikel 28. Ondertekening en inwerkingtreding van het Verdrag
 
@@ -372,6 +376,14 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 2. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op een tijdvak van drie maanden na de datum waarop vijf Staten hun instemming door dit Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig de bepalingen van het eerste lid.
 
 3. Ten aanzien van iedere lidstaat van de Raad van Europa of iedere lidstaat van de OESO die later zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+
+4. Elke lidstaat van de Raad van Europa of van de OESO die na de inwerkingtreding van het Protocol tot wijziging van dit Verdrag, dat vanaf 27 mei 2010 openstaat voor ondertekening (het „Protocol van 2010”), Partij wordt bij het Verdrag, wordt Partij bij het Verdrag zoals gewijzigd bij dat Protocol, tenzij in een schriftelijke mededeling aan een van de Depositarissen blijk wordt gegeven van een ander voornemen.
+
+5. Na de inwerkingtreding van het Protocol van 2010 kan elke Staat die geen lid is van de Raad van Europa of van de OESO verzoeken om een uitnodiging tot ondertekening en bekrachtiging van dit Verdrag zoals gewijzigd bij het Protocol van 2010. Verzoeken daartoe worden gericht aan een van de Depositarissen die deze doorzenden naar de Partijen. De Depositaris stelt ook het Comité van Ministers van de Raad van Europa en de Raad van de OESO hiervan in kennis. De beslissing om Staten, die om een uitnodiging hebben verzocht, uit te nodigen Partij te worden bij dit Verdrag wordt door de Partijen bij het Verdrag via het coördinerend lichaam genomen met eenparigheid van stemmen. Voor een Staat die het Verdrag zoals gewijzigd bij het Protocol van 2010 in overeenstemming met dit lid bekrachtigt, treedt dit Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging bij een van de Depositarissen.
+
+6. De bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, zijn van toepassing op administratieve bijstand ter zake van belastingtijdvakken beginnend op of na 1 januari van het jaar volgend op het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad, of bij ontbreken van een belastingtijdvak, op administratieve bijstand ter zake van belastingvorderingen ontstaan op of na 1 januari van het jaar volgend op het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad. Twee of meer Partijen kunnen onderling overeenkomen dat het Verdrag, zoals gewijzigd bij het Protocol van 2010, van toepassing is op administratieve bijstand ter zake van eerdere belastingtijdvakken of belastingvorderingen.
+
+7. Niettegenstaande het zesde lid zijn de bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, vanaf de datum van inwerkingtreding ter zake van een Partij met betrekking tot eerdere belastingtijdvakken of belastingvorderingen van toepassing op belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij.
 
 ##### Artikel 29. Territoriale toepassing van het Verdrag
 
@@ -393,7 +405,9 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 - d. geen bijstand te verlenen bij de uitreiking van documenten voor alle belastingen of slechts voor belastingen in één of meer van de categorieën opgesomd in artikel 2, eerste lid;
 
-- e. de uitreiking van documenten per post, zoals voorzien in artikel 17, derde lid, niet toe te staan.
+- e. de uitreiking van documenten per post, zoals voorzien in artikel 17, derde lid, niet toe te staan;
+
+- f. de bepalingen van artikel 28, zevende lid, uitsluitend toe te passen op administratieve bijstand ter zake van belastingtijdvakken beginnend op of na 1 januari van het derde jaar voorafgaand aan het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad, of bij ontbreken van een belastingtijdvak, op administratieve bijstand ter zake van belastingvorderingen ontstaan op of na 1 januari van het derde jaar voorafgaand aan het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad.
 
 2. Geen enkel ander voorbehoud kan worden gemaakt.
 
@@ -413,7 +427,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 ##### Artikel 32. De Depositarissen en hun functies
 
-1. De Depositaris bij wie een akte is nedergelegd dan wel een kennisgeving of mededeling is gedaan, stelt de lidstaten van de Raad van Europa en de lidstaten van de OESO in kennis van:
+1. De Depositaris bij wie een akte is nedergelegd dan wel een kennisgeving of mededeling is gedaan, stelt de lidstaten van de Raad van Europa en de lidstaten van de OESO en elke Partij bij dit Verdrag in kennis van:
 
 - a. iedere ondertekening;
 
