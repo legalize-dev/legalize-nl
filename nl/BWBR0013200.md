@@ -4,7 +4,7 @@ identifier: "BWBR0013200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-01"
-last_updated: "2013-01-01"
+last_updated: "2013-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013200"
 soort: "ministeriele-regeling"
@@ -70,31 +70,37 @@ Besluiten:
 
 2. Een ambtenaar is steeds voor de duur van een kalenderhalfjaar geoefend in het gebruik van een vuurwapen, indien hij, naast de in het eerste lid bedoelde toetsen, in het daaraan voorafgaande kalenderhalfjaar de toets schietvaardigheid met voldoende resultaat heeft afgelegd.
 
-3. Een ambtenaar die is belast met de uitoefening van specialistische of leidinggevende politietaken en daartoe een postinitiële opleiding heeft gevolgd, dient, alvorens geoefend te zijn in het gebruik van de bij de uitoefening van die taken behorende geweldsmiddelen, de in het eerste en tweede lid bedoelde toetsen tevens volgens de competentiegerichte eindtermen van de postinitiële opleiding met voldoende resultaat af te leggen. Indien het LSOP een dergelijke toets niet heeft samengesteld, dient de in de eerste volzin bedoelde ambtenaar de toetsen volgens de competentiegerichte eindtermen van de initiële opleiding met voldoende resultaat af te leggen.
+3. In afwijking van het in het tweede lid bepaalde is een ambtenaar geoefend in het gebruik van het vuurwapen als bedoeld in [artikel 2, eerste lid onder b, van het Aanwijzingsbesluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032609&artikel=2), voor een periode die het lopende en het daarop volgende kalenderhalfjaar omvat, zodra hij de toets schietvaardigheid voor dat wapen met voldoende resultaat heeft afgelegd.
 
-4. Onverminderd het eerste tot en met derde lid, wordt de ambtenaar van wie een geweldsmiddel op grond van het vijfde lid is ingenomen, voor de resterende duur van het lopende kalenderjaar of kalenderhalfjaar, geacht wederom geoefend te zijn in het gebruik van dat geweldsmiddel, vanaf het moment dat hij de toetsen die hij niet of niet met voldoende resultaat had afgelegd, alsnog met voldoende resultaat aflegt.
+4. Een ambtenaar die is belast met de uitoefening van specialistische of leidinggevende politietaken en daartoe een postinitiële opleiding heeft gevolgd, dient, alvorens geoefend te zijn in het gebruik van de bij de uitoefening van die taken behorende geweldsmiddelen, de in het eerste tot en met derde lid bedoelde toetsen tevens volgens de competentiegerichte eindtermen van de postinitiële opleiding met voldoende resultaat af te leggen. Indien het LSOP een dergelijke toets niet heeft samengesteld, dient de in de eerste volzin bedoelde ambtenaar de toetsen volgens de competentiegerichte eindtermen van de initiële opleiding met voldoende resultaat af te leggen.
 
-5. Het bevoegd gezag draagt er voor zorg dat de ambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een ambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door het bevoegd gezag ingenomen.
+5. Onverminderd het eerste tot en met vierde lid, wordt de ambtenaar van wie een geweldsmiddel op grond van het zesde lid is ingenomen, voor de resterende duur van het lopende kalenderjaar of kalenderhalfjaar, geacht wederom geoefend te zijn in het gebruik van dat geweldsmiddel, vanaf het moment dat hij de toetsen die hij niet of niet met voldoende resultaat had afgelegd, alsnog met voldoende resultaat aflegt.
+
+6. Het bevoegd gezag draagt er voor zorg dat de ambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. De ambtenaar die op de laatste dag van een kalenderjaar de in het eerste, tweede en vierde lid bedoelde toetsen niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door het bevoegd gezag ontnomen.
+
+7. De ambtenaar die de in het derde lid bedoelde toets niet met voldoende resultaat aflegt, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer geoefend is, door het bevoegd gezag terstond ontnomen.
+
+8. Met ingang van 1 januari 2014 zal de in het zevende lid bedoelde directe inname zich tevens uitstrekken tot de geweldsmiddelen genoemd in het zesde lid.
 
 ##### Artikel 3
 
 1. Het bevoegd gezag biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing.
 
-2. Vervallen.
+2. In aanvulling op het eerste lid biedt het bevoegd gezag de ambtenaar gelegenheid tot het volgen van acht uren additionele training ter voorbereiding op de voor de ambtenaar af te leggen toets schietvaardigheid met het pistool genoemd in [artikel 2, eerste lid, onderdeel b, van het Aanwijzingsbesluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032609&artikel=2). De ambtenaar is verplicht deze hem geboden trainingsuren volledig te volgen.
 
 3. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door het bevoegd gezag daartoe aangewezen toetser.
 
 ##### Artikel 4
 
-Indien een ambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde perioden, een van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan het bevoegd gezag.
+Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan het bevoegd gezag.
 
 ##### Artikel 5
 
-1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen.
+1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-09-11&g=2013-09-11) bedoelde toetsen.
 
-2. De korpschef publiceert jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen.
+2. De korpschef publiceert jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-09-11&g=2013-09-11) bedoelde toetsen.
 
-3. De korpschef verstrekt jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+3. De korpschef verstrekt jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-09-11&g=2013-09-11) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
@@ -104,9 +110,9 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2002. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2001, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2002.
 
-2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01), treedt met ingang van 1 januari 2003 in werking.
+2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-09-11&g=2013-09-11), treedt met ingang van 1 januari 2003 in werking.
 
-3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-01-01&g=2013-01-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2013-01-01&g=2013-01-01), vervallen met ingang van 1 januari 2004.
+3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2013-09-11&g=2013-09-11), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2013-09-11&g=2013-09-11), vervallen met ingang van 1 januari 2004.
 
 ##### Artikel 8
 
@@ -116,6 +122,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-Deze regeling berust op [artikel 3a van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) en [artikel 21 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21).
+Deze regeling vervalt op 1 januari 2016.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7b
+
+Deze regeling berust op [artikel 26, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=26).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
