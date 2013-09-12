@@ -4,7 +4,7 @@ identifier: "BWBV0002888"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-09-12"
-last_updated: "2012-08-22"
+last_updated: "2013-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002888"
 soort: "verdrag"
@@ -53,7 +53,7 @@ Zijn overeengekomen hierbij de Europese Bank voor wederopbouw en ontwikkeling (h
 
 ##### Artikel 1. Doel
 
-De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel ten doel de overgang naar een open markteconomie te bevorderen en het particuliere initiatief en de ondernemingsgeest aan te moedigen in de Midden- en Oost-Europese landen die de beginselen van een democratie met een meerpartijenstelsel, pluralisme en een markteconomie aanhangen en toepassen. Het doel van de Bank kan met inachtneming van dezelfde voorwaarden ook in Mongolië worden verwezenlijkt. Dienovereenkomstig heeft elke verwijzing in deze Overeenkomst en de Bijlagen daarbij naar „Midden- en Oost-Europese landen”, “landen in Midden- en Oost-Europa”, „ontvangend land (of ontvangende landen)” of „ontvangende lidstaat (of lidstaten)” tevens betrekking op Mongolië.
+De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel ten doel de overgang naar een open markteconomie te bevorderen en het particuliere initiatief en de ondernemingsgeest aan te moedigen in de Midden- en Oost-Europese landen die de beginselen van een democratie met een meerpartijenstelsel, pluralisme en een markteconomie aanhangen en toepassen. Het doel van de Bank kan met inachtneming van dezelfde voorwaarden ook in Mongolië worden verwezenlijkt en in landen in het zuidelijke en oostelijke gebied van de Middellandse Zee die lid zijn, zoals bepaald door de Bank na te zijn bevestigd bij stemming door ten minste twee derde van de Gouverneurs die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigen. Dienovereenkomstig heeft elke verwijzing in deze Overeenkomst en in de Bijlagen daarbij naar „Midden- en Oost-Europese landen”, „landen in Midden- en Oost-Europa”, „ontvangend land (of ontvangende landen)” of „ontvangende lidstaat (of lidstaten)” tevens betrekking op Mongolië, alsmede op elk van de landen in het zuidelijke en oostelijke gebied van de Middellandse Zee.
 
 ##### Artikel 2. Taken
 
