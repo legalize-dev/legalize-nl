@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-09-05"
+last_updated: "2013-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -150,7 +150,7 @@ Besluit:
 | 5.4 | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen) | 3.1.2 |   |   |   |
 | 5.5 | Subsidieregeling energie en innovatie (duurzame biomassa-import) | 3.2.2 |   |   |   |
 | 5.6 | Subsidieregeling energie en innovatie (investeringen verlaging elektriciteitsaansluiting warmtepomphouders) | 3.3.2 |   |   |   |
-| 5.7 | Subsidieregeling energie en innovatie (aardwarmteproject) | 3.4.2, eerste lid, onder a |   | 18-03 t/m 14-06 | 30.600.000 |
+| 5.7 | Subsidieregeling energie en innovatie (aardwarmteproject) | 3.4.2, eerste lid, onder a |   | 18-03 t/m 14-06 | 43.350.000 |
 | 5.7.a | Subsidieregeling energie en innovatie (diep aardwarmteproject) | 3.4.2, eerste lid, onder b |   | 18-03 t/m 13-05 | 12.750.000 |
 | 5.8 | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Demonstratieproject bioraffinage |   |   |
 |   | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Pilotproject bioraffinage |   |   |
