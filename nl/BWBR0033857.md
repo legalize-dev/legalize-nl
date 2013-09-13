@@ -4,7 +4,7 @@ identifier: "BWBR0033857"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2006-01-01"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033857"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling inhaaltoelage bezwarende functie politie.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033857&artikel=2&z=2013-09-13&g=2006-01-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033857&artikel=2&z=2013-09-13&g=2013-09-13)
 
 ### Stappenplan en rekenformule
 
