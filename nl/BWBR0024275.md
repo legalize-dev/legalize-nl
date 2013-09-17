@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-04"
+last_updated: "2013-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, G
 
 - f. het Bureau Financieel Toezicht;
 
-- g. de Belastingdienst/Holland-Midden;
+- g. de Belastingdienst/Grote ondernemingen;
 
 - h. de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische Controledienst;
 
