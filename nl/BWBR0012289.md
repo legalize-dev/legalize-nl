@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2013-07-13"
+last_updated: "2013-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -3213,7 +3213,7 @@ De hardheidsclausule kan ook toegepast worden in de situaties waarin de Minister
 
 ### 7.2.6. Onjuiste gegevens
 
-De IND verleent de verblijfsvergunning niet ambtshalve als;
+De IND verleent de verblijfsvergunning niet ambtshalve als:
 
 De IND kan aan een slachtoffer van mensenhandel op grond van [artikel 3.48, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) een verblijfsvergunning verlenen, als het slachtoffer aantoont dat hij geen aangifte kan of wil doen of anderszins medewerking kan of wil verlenen aan de strafrechtelijke opsporing en vervolging van de mensenhandelaar in verband met:
 
@@ -4243,7 +4243,7 @@ In artikel [3.96a, tweede lid, onder e, Vb](https://wetten.overheid.nl/jci1.3:c:
 
 Voor zover indicaties van mensenhandel zich voordoen bij een vreemdeling die via Schiphol Nederland inreist zijn de bevoegdheden van de Districtscommandant KMar Schiphol gelijkgesteld met die van de Korpschef van Politie.
 
-EU-/EER onderdanen en Zwitserse onderdanen kunnen rechten ontlenen aan de in deze paragraaf neergelegde bepalingen voor zover zij geen rechten ontlenen aan het gemeenschapsrecht.
+EU-/EER onderdanen en Zwitserse onderdanen kunnen rechten ontlenen aan de in deze paragraaf neergelegde bepalingen voor zover zij geen rechten ontlenen aan het Unierecht.
 
 De IND onderscheidt drie verblijfsrechtelijke situaties met betrekking tot het tijdelijke verblijfsrecht van slachtoffers en getuige-aangevers van mensenhandel:
 
