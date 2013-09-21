@@ -4,7 +4,7 @@ identifier: "BWBR0027930"
 country: "nl"
 rank: "wet"
 publication_date: "2013-09-21"
-last_updated: "2013-06-01"
+last_updated: "2013-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027930"
 soort: "wet"
@@ -99,7 +99,7 @@ Wijzigt deze wet.
 
 2. Gedurende vijf jaren na het tijdstip van inwerkingtreding van deze wet is het eerste lid niet van toepassing, indien de aanvraag tot het verlenen of wijzigen van de verblijfsvergunning is ingediend voor een bij algemene maatregel van bestuur vastgesteld tijdstip, met dien verstande dat de kosten van uitzetting, bedoeld in [artikel 66 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66), kunnen worden verhaald op de persoon of organisatie, bedoeld in het eerste lid, die in de periode van vijf jaar voordat deze kosten zijn gemaakt, ten behoeve van het verblijf van de vreemdeling een garantverklaring heeft ondertekend.
 
-3. Het tweede lid is niet van toepassing, indien de referent voor het tijdstip van inwerkingtreding van deze wet een convenant als bedoeld in [artikel XI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930&artikel=XI&z=2013-06-01&g=2013-06-01), van deze wet heeft gesloten, dan wel een verklaring als bedoeld in artikel XI, derde lid, heeft afgelegd.
+3. Het tweede lid is niet van toepassing, indien de referent voor het tijdstip van inwerkingtreding van deze wet een convenant als bedoeld in [artikel XI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930&artikel=XI&z=2013-09-21&g=2013-09-21), van deze wet heeft gesloten, dan wel een verklaring als bedoeld in artikel XI, derde lid, heeft afgelegd.
 
 4. Onze Minister stelt de persoon of organisatie, bedoeld in het eerste lid, binnen vier weken na inwerkingtreding van deze wet in kennis van diens positie als referent.
 
