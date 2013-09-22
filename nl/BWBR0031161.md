@@ -4,7 +4,7 @@ identifier: "BWBR0031161"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2012-12-30"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031161"
 soort: "pbo"
@@ -56,7 +56,7 @@ Deze verordening verstaat onder:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-12-30&g=2012-12-30) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | producten als bedoeld in [artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
 | ondernemer | : | de afzonderlijke natuurlijke- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
@@ -168,12 +168,16 @@ Deze verordening verstaat onder:
 | Zwarte bessen (Best.Verw.Ind.) | 499 | 18,21 | ha |
 | Overig kleinfruit | 500 | 153,61 | ha |
 | Overige pit- en steenvrucht | 501 | 81,52 | ha |
+|   |   |   |   |
+| **Champignons** |   |   |   |
+| Oppervlakte met de hand geoogst | 702 | 0,00 | m² |
+| Oppervlakte machinaal geoogst | 703 | 0,00 | m² |
 
 3. Aan de ondernemer die uitgangsmateriaal teelt wordt een heffing opgelegd uitgedrukt in een percentage van de omzet. De heffing bedraagt 0,068% van de omzet in 2012 van het geteelde uitgangsmateriaal.
 
 ##### Artikel 4
 
-1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2012-12-30&g=2012-12-30), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
+1. Bij de vaststelling van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22), genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -195,7 +199,7 @@ Deze verordening verstaat onder:
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2012-12-30&g=2012-12-30), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 7
 
