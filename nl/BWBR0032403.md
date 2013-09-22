@@ -4,7 +4,7 @@ identifier: "BWBR0032403"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2012-12-02"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032403"
 soort: "pbo"
@@ -73,20 +73,13 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ##### Artikel 3
 
-1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 42, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
-
-| a. | van € 0 tot en met € 900.000 | : | 0,364%; |
-| --- | --- | --- | --- |
-| b. | vanaf € 900.000 tot en met € 1.800.000 | : | 0,280%; |
-| c. | vanaf € 1.800.000 | : | 0,168%. |
+1. De heffing die de ondernemer is verschuldigd bedraagt € 0,00.
 
 2. Een negatieve heffingsgrondslag leidt tot een nota gelijk aan € 0,-.
 
 3. Voor de toepassing van het eerste lid kan een positieve heffingsgrondslag worden verrekend met een negatieve heffingsgrondslag over het voorafgaande kalenderjaar.
 
 4. Een heffing lager dan € 125,- wordt niet opgelegd.
-
-5. De over 2012 maximaal te betalen heffing bedraagt € 9.368. Dit bedrag wordt jaarlijks aangepast aan de hand van de jaarmutatie voorafgaand aan het jaar waarover de heffing wordt opgelegd.
 
 #### § 4. Oplegging en inning
 
@@ -98,7 +91,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ##### Artikel 5
 
-Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing aanbod bloemkwekerijproducten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031213) of de Verordening PT vakheffing handel bloemkwekerijproducten 2012, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032403&paragraaf=2&artikel=2&z=2012-12-02&g=2012-12-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032403&paragraaf=3&artikel=3&z=2012-12-02&g=2012-12-02) verschuldigde heffing.
+Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing aanbod bloemkwekerijproducten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031213) of de Verordening PT vakheffing handel bloemkwekerijproducten 2012, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032403&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032403&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) verschuldigde heffing.
 
 ##### Artikel 6
 
