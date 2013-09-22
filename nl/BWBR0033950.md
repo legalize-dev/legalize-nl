@@ -4,7 +4,7 @@ identifier: "BWBR0033950"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2011-06-01"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033950"
 soort: "pbo"
@@ -93,7 +93,7 @@ Besluit:
 
 - c. om niet in gebruik is ontvangen zoals bij landruil, of
 
-- d. door de ondernemer bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033950&paragraaf=2&artikel=2&z=2013-09-22&g=2011-06-01) wordt beteeld voor contractteelt waaronder verstaan wordt dat de teler (contractnemer) de gewasverzorging (grotendeels) uitvoert.
+- d. door de ondernemer bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033950&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22) wordt beteeld voor contractteelt waaronder verstaan wordt dat de teler (contractnemer) de gewasverzorging (grotendeels) uitvoert.
 
 4. Cultuurgrond wordt gerekend naar de gemeten maat.
 
@@ -121,7 +121,7 @@ Besluit:
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033950&paragraaf=4&artikel=5&z=2013-09-22&g=2011-06-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033950&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 7
 
