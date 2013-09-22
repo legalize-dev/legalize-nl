@@ -4,7 +4,7 @@ identifier: "BWBR0033108"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-03-31"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033108"
 soort: "pbo"
@@ -62,11 +62,11 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die boomkwekerijproducten kweekt of handelt in boomkwekerijproducten, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) vermelde heffingsgrondslag met het bijbehorend tarief.
+1. De ondernemer die boomkwekerijproducten kweekt of handelt in boomkwekerijproducten, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslag met het bijbehorend tarief.
 
-2. De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=4&artikel=4&z=2013-03-31&g=2013-03-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=4&artikel=5&z=2013-03-31&g=2013-03-31) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+2. De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=4&artikel=4&z=2013-09-22&g=2013-09-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
-3. Ter uitvoering van het bepaalde in het eerste lid, doet de ondernemer desgevraagd aangifte bij het productschap van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) bepaalde gegevens.
+3. Ter uitvoering van het bepaalde in het eerste lid, doet de ondernemer desgevraagd aangifte bij het productschap van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033108&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) bepaalde gegevens.
 
 #### § 3. Grondslag en hoogte
 
@@ -82,17 +82,15 @@ In deze verordening wordt verstaan onder:
 
 3. Indien de toepassing van het eerste lid leidt tot een negatieve grondslag kan deze negatieve grondslag worden verrekend met positieve grondslag van het jaar volgend op het jaar waarover deze negatieve grondslag is ontstaan.
 
-4. De heffing, als bedoeld in het eerste lid, bedraagt € 10,00 vermeerderd met:
+4. De heffing, als bedoeld in het eerste lid, bedraagt € 0,00 vermeerderd met:
 
-- a. 0,13 % over de grondslag hoger dan € 0,00 maar niet hoger dan € 900.000,00;
+- a. 0,00% over de grondslag hoger dan € 0,00 maar niet hoger dan € 900.000,00;
 
-- b. 0,10 % over de grondslag hoger dan € 900.000,00 maar niet hoger dan € 1.800.000,00, en
+- b. 0,00% over de grondslag hoger dan € 900.000,00 maar niet hoger dan € 1.800.000,00 en
 
-- c. 0,06 % over de grondslag hoger € 1.800.000,00.
+- c. 0,00% over de grondslag hoger dan € 1.800.000,00.
 
-5. De totale algemene heffing, als bedoeld in het vierde lid, bedraagt maximaal € 2.850,-.
-
-6. In het geval van contractteelt is de ondernemer heffingplichtig die het teeltrisico draagt.
+5. In het geval van contractteelt is de ondernemer heffingplichtig die het teeltrisico draagt.
 
 #### § 4. Vaststelling en oplegging
 
