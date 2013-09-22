@@ -4,7 +4,7 @@ identifier: "BWBR0033257"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-04-14"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033257"
 soort: "pbo"
@@ -61,13 +61,13 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer, die hovenierswerkzaamheden uitoefent, is over het kalenderjaar 2013 een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=3&artikel=3&z=2013-04-14&g=2013-04-14) vermelde heffingsgrondslag met het bijbehorend tarief.
+1. De ondernemer, die hovenierswerkzaamheden uitoefent, is over het kalenderjaar 2013 een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslag met het bijbehorend tarief.
 
 2. Uit de opbrengst van de bestemmingsheffing, als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap:
 
 Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy,Voeding & Gezondheid, Energie en CO2, Groen & Welbevinden en Arbeid.
 
-3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=4&artikel=5&z=2013-04-14&g=2013-04-14) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+3. De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=4&artikel=4&z=2013-09-22&g=2013-09-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033257&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 4. Ter uitvoering van het eerste lid doet de ondernemer desgevraagd aangifte bij het productschap van de door hem in het kalenderjaar 2013 behaalde omzet.
 
@@ -77,15 +77,9 @@ Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy,Voedi
 
 1. De bestemmingsheffing wordt berekend over de met de onderneming behaalde omzet in het kalenderjaar 2013 over de hovenierswerkzaamheden en leveringen. Deze heffing bestaat uit een basisheffing en een aanvullende heffing.
 
-2. De basisheffing bedraagt € 61,50 bij een omzet hoger dan € 32.500,-.
+2. De basisheffing bedraagt € 0,00.
 
-3. De aanvullende heffing bedraagt:
-
-- a. over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- 0,014 procent;
-
-- b. over de omzet hoger dan € 2.250.000,- maar niet hoger dan € 4.500.000,- 0,009 procent;
-
-- c. over de omzet hoger dan € 4.500.000,- 0,005 procent.
+3. De aanvullende heffing bedraagt € 0,00.
 
 4. De ondernemer kan de omzet die gerealiseerd is uit de door hem in onderaanneming uitgevoerde hovenierswerkzaamheden in mindering brengen op de behaalde omzet, als bedoeld in het eerste lid.
 
