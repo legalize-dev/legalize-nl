@@ -4,7 +4,7 @@ identifier: "BWBR0031642"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2012-06-01"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031642"
 soort: "pbo"
@@ -47,9 +47,9 @@ entry_into_force: "2012-06-01"
 
 2. De heffing, bedoeld in het eerste lid, bedraagt ten hoogste voor:
 
-| a. tulpenbollen: | € 1,00 per are en |
-| --- | --- |
-| b. narcissen: | € 1,00 per are. |
+| a. tulpenbollen: | € 0,40 | per are, |
+| --- | --- | --- |
+| b. narcissen: | € 0,34 | per are. |
 
 3. Heffingen beneden de € 25,00 worden niet opgelegd.
 
@@ -87,7 +87,7 @@ Besluit:
 
 2. De heffing bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
 
-3. Het bestuur neemt, met in achtneming van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031642&paragraaf=3&artikel=4&z=2012-06-01&g=2012-06-01), een besluit of en tot welk bedrag een heffing als bedoeld in het eerste lid wordt opgelegd.
+3. Het bestuur neemt, met in achtneming van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031642&paragraaf=3&artikel=4&z=2013-09-22&g=2013-09-22), een besluit of en tot welk bedrag een heffing als bedoeld in het eerste lid wordt opgelegd.
 
 ##### Artikel 3
 
