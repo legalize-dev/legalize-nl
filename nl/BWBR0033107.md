@@ -4,7 +4,7 @@ identifier: "BWBR0033107"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-03-31"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033107"
 soort: "pbo"
@@ -69,9 +69,9 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer, die handelt in bloemkwekerijproducten, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) vermelde heffingsgrondslag met het bijbehorend tarief.
+1. De ondernemer, die handelt in bloemkwekerijproducten, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslag met het bijbehorend tarief.
 
-2. De algemene heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=4&artikel=4&z=2013-03-31&g=2013-03-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=4&artikel=5&z=2013-03-31&g=2013-03-31) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+2. De algemene heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=4&artikel=4&z=2013-09-22&g=2013-09-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22) van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 3. Ter uitvoering van het bepaalde in het eerste lid doet de ondernemer desgevraagd bij het productschap aangifte van de door hem in het kalenderjaar 2013 aangekochte bloemkwekerijproducten.
 
@@ -91,12 +91,7 @@ In deze verordening wordt verstaan onder:
 
 5. De ondernemer is geen heffing verschuldigd over aangekocht bloemkwekerijproduct, waarover op basis van deze verordening een andere ondernemer wegens een voorafgaande transactie reeds een heffing verschuldigd is.
 
-6. De algemene heffing, als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt:
-
-| a. vanaf € 0,- | tot | € 11.000.000,- | 0,013% |
-| --- | --- | --- | --- |
-| b. vanaf € 11.000.000,- | tot | 50.000.000,- | 0,009% |
-| c. vanaf € 50.000.000,- | tot |   | 0,005% |
+6. De algemene heffing, als bedoeld in het eerste lid, bedraagt € 0,00.
 
 #### § 4. Vaststelling en oplegging
 
@@ -104,7 +99,7 @@ In deze verordening wordt verstaan onder:
 
 1. De krachtens deze verordening verschuldigde algemene heffing wordt op basis van de door de ondernemer verstrekte gegevens vastgesteld en aan de ondernemer opgelegd na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota.
 
-2. Indien geen aangifte als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=2&artikel=2&z=2013-03-31&g=2013-03-31) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen aangifte als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033107&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 3. Indien uit de ter beschikking van het productschap gekomen gegevens blijkt, dat de door de ondernemer verstrekte gegevens of de ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid, dan kan een opgelegde heffing aan de hand van deze werkelijke gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld.
 
