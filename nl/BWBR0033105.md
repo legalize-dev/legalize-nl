@@ -4,7 +4,7 @@ identifier: "BWBR0033105"
 country: "nl"
 rank: "pbo"
 publication_date: "2013-09-22"
-last_updated: "2013-03-31"
+last_updated: "2013-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033105"
 soort: "pbo"
@@ -75,15 +75,15 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-03-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-03-31) vermelde heffingsgrondslagen.
+1. De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-09-22&g=2013-09-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslagen.
 
-2. De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=4&artikel=6&z=2013-03-31&g=2013-03-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+2. De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=4&artikel=6&z=2013-09-22&g=2013-09-22) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
-3. Voor het berekenen van de heffingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.
+3. Voor het berekenen van de heffingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.
 
-4. Ter uitvoering van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-03-31&g=2013-03-31) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-03-31&g=2013-03-31) doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet.
+4. Ter uitvoering van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=5&z=2013-09-22&g=2013-09-22) doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet.
 
-5. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-03-31&g=2013-03-31) doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.
+5. Ter uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=3&artikel=4&z=2013-09-22&g=2013-09-22) doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.
 
 #### § 3. Grondslag en hoogte
 
@@ -108,20 +108,20 @@ In deze verordening wordt verstaan onder:
 | **Productgroep (tarieven nog aanpassen)** | **BRSnr.** | **Tarief** | **Eenh.** |
 | --- | --- | --- | --- |
 | **Glasgroenten** |   |   |   |
-| Andijvie | 648 | 1,22 | are |
-| Aubergines | 618 | 2,13 | are |
-| Courgette | 642 | 1,22 | are |
-| Komkommers | 605 | 2,13 | are |
-| Kropsla (alle sla in kropvorm) | 658 | 1,22 | are |
-| Paprika - Gele paprika | 633 | 2,13 | are |
-| Paprika - Groene paprika | 632 | 2,13 | are |
-| Paprika - Rode paprika | 631 | 2,13 | are |
-| Paprika - overig | 634 | 2,13 | are |
-| Radijs | 644 | 1,22 | are |
-| Tomaten - Losse tomaten (rond, vlees, tussentype) | 608 | 2,13 | are |
-| Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 2,13 | are |
-| Tomaten - Cherry-tomaten | 606 | 2,13 | are |
-| Overige groenten (inclusief meloenen) | 621 | 1,22 | are |
+| Andijvie | 648 | 0,36 | are |
+| Aubergines | 618 | 0,64 | are |
+| Courgette | 642 | 0,36 | are |
+| Komkommers | 605 | 0,64 | are |
+| Kropsla (alle sla in kropvorm) | 658 | 0,36 | are |
+| Paprika - Gele paprika | 633 | 0,64 | are |
+| Paprika - Groene paprika | 632 | 0,64 | are |
+| Paprika - Rode paprika | 631 | 0,64 | are |
+| Paprika - overig | 634 | 0,64 | are |
+| Radijs | 644 | 0,36 | are |
+| Tomaten - Losse tomaten (rond, vlees, tussentype) | 608 | 0,64 | are |
+| Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 0,64 | are |
+| Tomaten - Cherry-tomaten | 606 | 0,64 | are |
+| Overige groenten (inclusief meloenen) | 621 | 0,36 | are |
 | **Teelt in open grond** |   |   |   |
 | Aardbeien onder glas | 610 | 1,54 | are |
 | Aardbeien plastic tunnel | 611 | 1,54 | are |
@@ -196,11 +196,10 @@ In deze verordening wordt verstaan onder:
 
 6. Aan de ondernemer die de onder a, b en c vermelde groenten en fruit teelt, wordt een algemene heffing opgelegd uitgedrukt in een percentage van de omzet die is behaald met de verkoop van het betreffende product. De heffing bedraagt voor:
 
-- a. Champignons 0,036% van de omzet;
-
-- b. Overige paddenstoelen 0,036 % van de omzet en
-
-- c. Uitgangsmateriaal 0,015% van de omzet.
+| a. Champignons | 0,000% van de omzet; |
+| --- | --- |
+| b. Overige paddestoelen | 0,000% van de omzet en |
+| c. Uitgangsmateriaal | 0,015% van de omzet. |
 
 ##### Artikel 4
 
@@ -214,17 +213,17 @@ In deze verordening wordt verstaan onder:
 
 3. In afwijking van het eerste lid is de ondernemer die verse of bewerkte groenten en fruit aankoopt uit een derde land een heffing verschuldigd over de CIF-waarde van dit product.
 
-4. De heffingen, als bedoeld in het eerste en derde lid, worden uitgedrukt in een percentage van de aankoopwaarde respectievelijk de CIF-waarde in het kalenderjaar 2013 en bedragen 0,003%.
+4. De heffingen, als bedoeld in het eerste en derde lid, worden uitgedrukt in een percentage van de aankoopwaarde respectievelijk de CIF-waarde in het kalenderjaar 2013 en bedragen 0,00%.
 
 5. In afwijking van het eerste lid is de ondernemer die handelt in verse of bewerkte uien, met uitzondering van zilveruien, een heffing verschuldigd met als grondslag het aantal aangekochte netto kilogrammen uien.
 
-6. De heffing, als bedoeld in het vijfde lid, bedraagt â‚¬ 0,25 per 100.000 kilogrammen aangekochte uien.
+6. De heffing, als bedoeld in het vijfde lid, bedraagt € 0,00 per 100.000 kilogrammen aangekochte uien.
 
 ##### Artikel 5
 
 1. De ondernemer die groenten en fruit verduurzaamt is over het kalenderjaar 2013 een algemene heffing verschuldigd met als grondslag de omzet 'af fabriek' behaald over de verkoop van de door de ondernemer verduurzaamde groenten en fruit in 2013, met uitzondering van de verkoop van pindakaas, sauzen, natte en droge soepen, aroma's, limonades, salades, kindervoeding, kanten klaarmaaltijden en snoeprepen.
 
-2. De algemene heffing, als bedoeld in het eerste lid, bedraagt 0,013% van de omzet "af fabriek" in het kalenderjaar 2013.
+2. De algemene heffing, als bedoeld in het eerste lid, bedraagt 0,00% van de omzet "af fabriek" in het kalenderjaar 2013.
 
 #### § 4. Vaststelling en oplegging
 
@@ -232,7 +231,7 @@ In deze verordening wordt verstaan onder:
 
 1. De krachtens deze verordening verschuldigde heffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd in of na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer.
 
-2. Indien geen aangifte of opgave is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=2&artikel=2&z=2013-03-31&g=2013-03-31), dan kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen aangifte of opgave is gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033105&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22), dan kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 7
 
