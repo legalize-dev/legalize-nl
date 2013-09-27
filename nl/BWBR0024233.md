@@ -4,7 +4,7 @@ identifier: "BWBR0024233"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-27"
-last_updated: "2008-08-01"
+last_updated: "2013-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024233"
 soort: "AMvB"
@@ -90,9 +90,9 @@ Wijzigt het Besluit vrijstelling energiebelasting op elektriciteit bij convenant
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
 
-2. In afwijking van het eerste lid werken de [artikelen IX, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2008-08-01&g=2008-08-01), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=XI&z=2008-08-01&g=2008-08-01) terug tot en met 1 januari 2008.
+2. In afwijking van het eerste lid werken de [artikelen IX, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2013-09-27&g=2013-09-27), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=XI&z=2013-09-27&g=2013-09-27) terug tot en met 1 januari 2008.
 
-3. In afwijking van het eerste lid werkt [artikel IX, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2008-08-01&g=2008-08-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. In afwijking van het eerste lid werkt [artikel IX, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2013-09-27&g=2013-09-27), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XIV
 
@@ -107,5 +107,7 @@ De Raad van State gehoord 10 april 2008, nr. W06.08.005/III;
 Gezien het nader rapport van de staatssecretaris van Financiën van 2 juli 2008, nr. DV 2008/329U, uitgebracht mede namens de staatssecretaris van Economische Zaken;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
