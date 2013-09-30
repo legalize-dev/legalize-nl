@@ -4,7 +4,7 @@ identifier: "BWBR0033959"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-02-10"
-last_updated: "2013-01-01"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033959"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2013-10-18"
 
 ### Hoofdstuk 1. Definities en algemene bepalingen
 
-### Hoofdstuk 2. Regels ten behoeve van de toekenning van de vereveningsbijdrage (ex ante) aan een zorgverzekeraar
+### Hoofdstuk 1. Definities en algemene bepalingen
 
 ### Hoofdstuk 3. Regels ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) ten behoeve van een zorgverzekeraar
 
