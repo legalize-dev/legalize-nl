@@ -4,7 +4,7 @@ identifier: "BWBR0012875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-01"
-last_updated: "2001-12-13"
+last_updated: "2013-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012875"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een kabel, vervaardigd van nylon of van materiaal met overeenkomstige eigenschappen en van een zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=5) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig wordt voldaan;
 
-- b. een breukstuk als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2001-12-13&g=2001-12-13), aangebracht zo dicht mogelijk bij de sleephaak van het zweefvliegtuig en van een nominale sterkte als vermeld in het vlieghandboek van het zweefvliegtuig, welke de maximaal toegelaten waarde als vermeld in de sleepbijlage van het vlieghandboek van het sleepvliegtuig niet mag overschrijden;
+- b. een breukstuk als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2013-10-01&g=2013-10-01), aangebracht zo dicht mogelijk bij de sleephaak van het zweefvliegtuig en van een nominale sterkte als vermeld in het vlieghandboek van het zweefvliegtuig, welke de maximaal toegelaten waarde als vermeld in de sleepbijlage van het vlieghandboek van het sleepvliegtuig niet mag overschrijden;
 
 - c. gladde ringen, passend om de sleephaken van het zweefvliegtuig en het sleepvliegtuig. Deze ringen mogen het ontkoppelen niet belemmeren.
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een kabel van zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=5) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig kan worden voldaan. Indien de kabel wordt gebruikt voor het tijdens de vlucht oppikken van een sleep op de grond, mag de kabel echter niet zo lang zijn dat dit een bezwaar vormt voor het veilig uitvoeren van de oppikmanoeuvre;
 
-- b. een breukstuk, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2001-12-13&g=2001-12-13), van de voorgeschreven nominale sterkte. De afstand tussen breukstuk en sleephaak van het vliegtuig mag ten hoogste 2 meter bedragen;
+- b. een breukstuk, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2013-10-01&g=2013-10-01), van de voorgeschreven nominale sterkte. De afstand tussen breukstuk en sleephaak van het vliegtuig mag ten hoogste 2 meter bedragen;
 
 - c. een gladde ring, passend om de sleephaak van het sleepvliegtuig. Deze mag het ontkoppelen niet belemmeren.
 
