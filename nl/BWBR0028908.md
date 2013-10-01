@@ -4,7 +4,7 @@ identifier: "BWBR0028908"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-26"
-last_updated: "2012-01-01"
+last_updated: "2013-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028908"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - d. bemoeiingen van de kantonrechter welke voortvloeien uit de toepassing van [artikel 181](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=181) juncto [183 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=183);
 
-- e. benoemingen, welke voortvloeien uit de toepassing van de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=212) en [250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250);
+- e. benoemingen, welke voortvloeien uit de toepassing van de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=212) en [250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250); indien de bijzondere curator als bedoeld in deze artikelen een minderjarige in rechte vertegenwoordigt, wordt van hem evenmin griffierecht geheven;
 
 - f. de indiening van een verzoekschrift strekkende tot en in verband met de ondertoezichtstelling van minderjarigen alsmede strekkende tot en in verband met de ontheffing of de ontzetting uit het gezag of voogdij over minderjarigen;
 
