@@ -4,7 +4,7 @@ identifier: "BWBR0011901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2013-06-29"
+last_updated: "2013-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011901"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Als getuigschrift, bedoeld in [artikel 28, eerste lid, onder a, van het Besluit 
 
 - a. het door het Centraal Bureau Rijvaardigheidsbewijzen afgegeven getuigschrift examen vakbekwaamheid voor het verrichten van taxivervoer;
 
-- b. het getuigschrift, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=1&artikel=1&z=2013-06-29&g=2013-06-29).
+- b. het getuigschrift, bedoeld in [artikel 27 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=27).
 
 ##### Artikel 5
 
@@ -86,7 +86,7 @@ Onze Minister verstrekt een EG-verklaring taxivervoer:
 
 ##### Artikel 8
 
-1. Bij het beoordelen van de aanvraag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=6&z=2013-06-29&g=2013-06-29), kan Onze Minister advies inwinnen bij het Centraal Bureau Rijvaardigheidsbewijzen.
+1. Bij het beoordelen van de aanvraag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=6&z=2013-10-01&g=2013-10-01), kan Onze Minister advies inwinnen bij het Centraal Bureau Rijvaardigheidsbewijzen.
 
 2. Het advies, bedoeld in het eerste lid, bevat een aanduiding van de wezenlijke verschillen waarop de proeve van bekwaamheid onderscheidenlijk de aanpassingsstage betrekking dient te hebben, alsmede, in geval van een aanpassingsstage, een aanduiding van de duur daarvan.
 
@@ -100,7 +100,7 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid beroepspersonenvervo
 
 ## Bijlage
 
-(als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=5&z=2013-06-29&g=2013-06-29) van de Regeling vakbekwaamheid beroepspersonenvervoer)
+(als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=5&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid beroepspersonenvervoer)
 
 Bij het examen vakbekwaamheid voor het verrichten van taxivervoer wordt ten minste de kennis vastgesteld van de hiernavolgende onderwerpen.
 
