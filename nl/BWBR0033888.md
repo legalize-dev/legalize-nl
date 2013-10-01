@@ -111,9 +111,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2013.
 Deze regeling wordt aangehaald als: Regeling slepen en reclamesleepvliegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 11, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
