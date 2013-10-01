@@ -4,7 +4,7 @@ identifier: "BWBR0031458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-04-01"
+last_updated: "2013-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031458"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2013-04-01&g=2013-04-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2013-10-01&g=2013-10-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
 
 ##### Artikel 6
 
@@ -126,7 +126,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2013-04-01&g=2013-04-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=1&z=2013-10-01&g=2013-10-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.
 
 ##### Artikel 7
 
@@ -150,7 +150,7 @@ Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](https:
 
 - i. de markt van het goederenvervoer.
 
-2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=2&z=2013-04-01&g=2013-04-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).
+2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=2&z=2013-10-01&g=2013-10-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).
 
 ##### Artikel 8
 
@@ -182,7 +182,7 @@ De aanvrager die het theorie examen vakbekwaamheid D1 respectievelijk D met goed
 
 - i. de markt van het personenvervoer.
 
-2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=3&z=2013-04-01&g=2013-04-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).
+2. De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=3&z=2013-10-01&g=2013-10-01) bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).
 
 ##### Artikel 11
 
@@ -232,7 +232,7 @@ De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed
 
 - d. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=4&z=2013-04-01&g=2013-04-01) bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=4&z=2013-10-01&g=2013-10-01) bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.
 
 ##### Artikel 16
 
@@ -248,29 +248,29 @@ De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed
 
 - e. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=5&z=2013-04-01&g=2013-04-01) bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=5&z=2013-10-01&g=2013-10-01) bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.
 
 ##### Artikel 17
 
 1. Bij de praktijktoets vakbekwaamheid 2 voor de rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D wordt getoetst of de aanvrager in staat is de controle over het voertuig bij verschillende situaties te hebben.
 
-2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=6&z=2013-04-01&g=2013-04-01) bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.
+2. De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&bijlage=6&z=2013-10-01&g=2013-10-01) bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.
 
 ##### Artikel 18
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2013-04-01&g=2013-04-01), bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2013-10-01&g=2013-10-01), bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen.
 
 ##### Artikel 19
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2013-04-01&g=2013-04-01), bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 13, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=13&z=2013-10-01&g=2013-10-01), bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen.
 
 ##### Artikel 20
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-04-01&g=2013-04-01), bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-10-01&g=2013-10-01), bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen.
 
 ##### Artikel 21
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-04-01&g=2013-04-01), bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen.
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-10-01&g=2013-10-01), bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen.
 
 ##### Artikel 22
 
@@ -284,11 +284,19 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 ##### Artikel 23
 
-1. Een bestuurder die in het bezit is van de getuigschrift van vakbekwaamheid voor binnenlands beroepsvervoer of voor grensoverschrijdend beroepsvervoer bedoeld in de [Regeling erkenning getuigschrift beroepsvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0013569) is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie C1 of C.
+Een aanvrager die in het bezit is van:
 
-2. Een bestuurder die in het bezit is van het getuigschrift examen vakbekwaamheid voor het verrichten van openbaar vervoer, anders dan per trein, of besloten busvervoer bedoeld in de [Regeling vakbekwaamheid beroepspersonenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011901) is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D.
+- a. het getuigschrift van vakbekwaamheid, bedoeld in [artikel 5 van de Regeling wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&artikel=5),
 
-3. Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156q) wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie.
+- b. het getuigschrift van vakbekwaamheid voor binnenlands beroepsvervoer, afgegeven door de Stichting Examenbureau Beroepsvervoer voor 1 mei 2009,
+
+- c. het getuigschrift van vakbekwaamheid voor grensoverschrijdend beroepsvervoer, afgegeven door de Stichting Examenbureau Beroepsvervoer voor 1 mei 2009,
+
+- d. het diploma B voor rijbewijscategorie C afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2009, of
+
+- e. het diploma of het praktijkgetuigschrift voor rijbewijscategorie C afgegeven door de Stichting Vakopleiding Transport en Logistiek voor 10 september 2009,
+
+is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie C1 of C.
 
 ### Hoofdstuk III. Stelsel van nascholing
 
@@ -298,7 +306,7 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156t) tonen aan dat de bestuurder gedurende een bepaald aantal uren door de bevoegde autoriteit van de desbetreffende lidstaat gecertificeerde nascholing heeft gevolgd.
 
-#### § 2. Erkenningseisen opleidingscentra
+#### § 1. Eisen aan toekenning nascholing gevolgd in andere lidstaat
 
 ##### Artikel 25
 
@@ -306,7 +314,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 2. Om voor erkenning in aanmerking te komen voldoen de opleidingscentra aan de volgende eisen:
 
-- a. de aangeboden nascholingscursussen zijn door de aangewezen exameninstantie gecertificeerd overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2013-04-01&g=2013-04-01);
+- a. de aangeboden nascholingscursussen zijn door de aangewezen exameninstantie gecertificeerd overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2013-10-01&g=2013-10-01);
 
 - b. het opleidingscentrum draagt er zorg voor dat de nascholingscursussen in een daarvoor geschikte locatie worden gegeven;
 
@@ -324,7 +332,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 3. De aanvraag van een erkenning geschiedt op de door de aangewezen exameninstantie vastgestelde wijze.
 
-#### § 3. Certificering nascholingscursussen
+#### § 2. Erkenningseisen opleidingscentra
 
 ##### Artikel 26
 
@@ -342,7 +350,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 - f. de nascholingsdocenten en -instructeurs voldoen aan de eisen zoals deze per nascholingscursus zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in [artikel 156s, tweede lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156s);
 
-- g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=4&artikel=27&z=2013-04-01&g=2013-04-01);
+- g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=4&artikel=27&z=2013-10-01&g=2013-10-01);
 
 - h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in [artikel 156z van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156z);
 
@@ -354,7 +362,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 4. Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de certificering van nascholingscursussen vastgestelde tarief.
 
-#### § 3a. Certificaat praktijktrainer nascholing
+#### § 3. Certificering nascholingscursussen
 
 ##### Artikel 27
 
@@ -370,7 +378,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 ##### Artikel 28
 
-1. Met het toezicht op de naleving van [artikel 156n](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156n), de [paragrafen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=9) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=10) en [artikel 26 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2013-04-01&g=2013-04-01) zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.
+1. Met het toezicht op de naleving van [artikel 156n](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156n), de [paragrafen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=9) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&paragraaf=10) en [artikel 26 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=III&paragraaf=3&artikel=26&z=2013-10-01&g=2013-10-01) zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.
 
 2. Het erkende opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het toezicht vastgestelde tarief.
 
@@ -406,9 +414,9 @@ De NIWO verklaart een nationaal certificaat ongeldig indien na afgifte blijkt da
 
 - a. het nationaal certificaat is afgegeven op grond van onjuiste gegevens, dan wel
 
-- b. de aanvrager niet langer voldoet aan een of meer van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=V&artikel=29&z=2013-04-01&g=2013-04-01) genoemde vereisten.
+- b. de aanvrager niet langer voldoet aan een of meer van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=V&artikel=29&z=2013-10-01&g=2013-10-01) genoemde vereisten.
 
-### Hoofdstuk VI. Slotbepalingen
+### Hoofdstuk V. Nationale certificaten
 
 ##### Artikel 32
 
@@ -430,29 +438,29 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid bestuurders 2012.
 
 ### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid 1 (RV1 verkeer en techniek) voor categorie C, C1, C-Plus, D, D1, en D-Plus
 
-## Bijlage 2. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=7&z=2013-04-01&g=2013-04-01) van de Regeling vakbekwaamheid bestuurders, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-V3)
+## Bijlage 1. bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=5&z=2013-10-01&g=2013-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=6&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders 2012, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D
+
+### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid 1 (RV1 verkeer en techniek) voor categorie C, C1, C-Plus, D, D1, en D-Plus
+
+## Bijlage 2. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=7&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-V3)
 
 ### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie C en C1 (R2/V2-3C)
 
-## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2013-04-01&g=2013-04-01) van de Regeling vakbekwaamheid bestuurders, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-V3)
+De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
 
-### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie D en D1 (R2/V2-3D)
+De scenario's vindt u op de website www.ccvexamenhuis.nl.
+
+## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders 2012
+
+### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor categorie C, C1
 
 De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
 
 De scenario's vindt u op de website www.ccvexamenhuis.nl.
 
-## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2013-01-19&g=2013-01-19) van de Regeling vakbekwaamheid bestuurders 2012
+## Bijlage 5. bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=16&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders 2012
 
 ### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor categorie D, D1
-
-De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
-
-De scenario's vindt u op de website www.ccvexamenhuis.nl.
-
-## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2013-01-19&g=2013-01-19) van de Regeling vakbekwaamheid bestuurders 2012
-
-### Toetsmatrijs praktische toets besloten terrein of simulaor C1, C, E bij C1,E bij C, D1, D, E bij D1 of E bij D
 
 ### Eind- en toetstermen voor de toets besloten terrein / simulator voor categorie C, C1, D, D1
 
@@ -464,15 +472,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het certificaat praktijktrainer nascholing wordt afgegeven tegen betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het certificaat praktijktrainer nascholing vastgestelde tarief en indien wordt voldaan aan de eisen die zijn vastgesteld door de aangewezen exameninstantie.
 
-#### § 4. Eisen wagenpark
+#### § 3a. Certificaat praktijktrainer nascholing
 
-### Hoofdstuk V. Nationale certificaten
+### Hoofdstuk IV. Toezicht
 
 ### Hoofdstuk VI. Slotbepalingen
 
-## Bijlage 4. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=15&z=2013-04-01&g=2013-04-01) van de Regeling vakbekwaamheid bestuurders 2012
+## Bijlage 3. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=3&artikel=10&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders, toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-V3)
 
-### Eind- en toetstermen voor de praktische toets vakbekwaamheid voor categorie C, C1
+### Eind- en toetstermen voor het theorie-examen rijbewijs/vakbekwaamheid voor categorie D en D1 (R2/V2-3D)
 
 De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
 
@@ -487,6 +495,38 @@ De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
 De scenario's vindt u op de website www.ccvexamenhuis.nl.
 
 ## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2013-04-01&g=2013-04-01) van de Regeling vakbekwaamheid bestuurders 2012
+
+### Toetsmatrijs praktische toets besloten terrein of simulaor C1, C, E bij C1,E bij C, D1, D, E bij D1 of E bij D
+
+### Eind- en toetstermen voor de toets besloten terrein / simulator voor categorie C, C1, D, D1
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 23a
+
+Een aanvrager die in het bezit is van:
+
+- a. het getuigschrift, bedoeld in [artikel 27 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=27), of
+
+- b. het diploma B voor rijbewijscategorie D afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2008,
+
+is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D.
+
+##### Artikel 23b
+
+Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156q) wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie.
+
+### Hoofdstuk III. Stelsel van nascholing
+
+#### § 4. Eisen wagenpark
+
+### Hoofdstuk VI. Slotbepalingen
+
+De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.
+
+De scenario's vindt u op de website www.ccvexamenhuis.nl.
+
+## Bijlage 6. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031458&hoofdstuk=II&paragraaf=5&artikel=17&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid bestuurders 2012
 
 ### Toetsmatrijs praktische toets besloten terrein of simulaor C1, C, E bij C1,E bij C, D1, D, E bij D1 of E bij D
 
