@@ -4,7 +4,7 @@ identifier: "BWBV0005663"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-10-01"
-last_updated: "2012-01-12"
+last_updated: "2013-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005663"
 soort: "verdrag"
@@ -66,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 3. Aanwijzing van de bevoegde instanties
 
-1. Dit verdrag valt wat het Koninkrijk der Nederlanden betreft onder de verantwoordelijkheid van de instanties die ressorteren onder het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en wat de Bondsrepubliek Duitsland betreft onder de verantwoordelijkheid van de op federaal niveau verantwoordelijke instanties die ressorteren onder het Bondsministerie van Financiën en het Bondsministerie voor Arbeid en Sociale Zaken en belast zijn met de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2012-01-12&g=2012-01-12), omschreven taken.
+1. Dit verdrag valt wat het Koninkrijk der Nederlanden betreft onder de verantwoordelijkheid van de instanties die ressorteren onder het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en wat de Bondsrepubliek Duitsland betreft onder de verantwoordelijkheid van de op federaal niveau verantwoordelijke instanties die ressorteren onder het Bondsministerie van Financiën en het Bondsministerie voor Arbeid en Sociale Zaken en belast zijn met de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2013-10-01&g=2013-10-01), omschreven taken.
 
 2. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland wijzen centrale instanties aan die als hoofdverantwoordelijke met de samenwerking in het kader van dit verdrag belast zullen zijn.
 
@@ -76,15 +76,15 @@ Zijn het volgende overeengekomen:
 
 - 1. van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland; alsmede
 
-- 2. van de overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2012-01-12&g=2012-01-12), aangewezen instanties.
+- 2. van de overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01), aangewezen instanties.
 
-2. De voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2012-01-12&g=2012-01-12) genoemde taken bevoegde controlerende en toezichthoudende autoriteiten kunnen rechtstreeks met elkaar samenwerken voor zover dat door de in het eerste lid genoemde instanties is voorzien.
+2. De voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2013-10-01&g=2013-10-01) genoemde taken bevoegde controlerende en toezichthoudende autoriteiten kunnen rechtstreeks met elkaar samenwerken voor zover dat door de in het eerste lid genoemde instanties is voorzien.
 
 ##### Artikel 5. Vormen van samenwerking
 
 1. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland stellen elkaar onverwijld in kennis van wezenlijke wijzigingen van de wet- en regelgeving op het terrein van dit verdrag.
 
-2. De instanties genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2012-01-12&g=2012-01-12), ondersteunen elkaar in overeenstemming met het desbetreffende geldende nationale recht, in het bijzonder door
+2. De instanties genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01), ondersteunen elkaar in overeenstemming met het desbetreffende geldende nationale recht, in het bijzonder door
 
 - 1. het uitwisselen van informatie over de instelling en taken van de controlerende en toezichthoudende autoriteiten en de benoeming van bevoegde contactpersonen;
 
@@ -100,11 +100,11 @@ Zijn het volgende overeengekomen:
 
 - 7. het uitwisselen van medewerkers als stagiair(e)s.
 
-3. Het tweede lid is dienovereenkomstig van toepassing op rechtstreekse samenwerking tussen de controlerende en toezichthoudende autoriteiten overeenkomstig [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=4&z=2012-01-12&g=2012-01-12).
+3. Het tweede lid is dienovereenkomstig van toepassing op rechtstreekse samenwerking tussen de controlerende en toezichthoudende autoriteiten overeenkomstig [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=4&z=2013-10-01&g=2013-10-01).
 
 ##### Artikel 6. Verzoeken en spontane mededelingen
 
-1. Verzoeken en spontane mededelingen overeenkomstig [artikel 5, tweede lid, onderdelen 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=5&z=2012-01-12&g=2012-01-12), dienen ten minste de volgende gegevens te bevatten:
+1. Verzoeken en spontane mededelingen overeenkomstig [artikel 5, tweede lid, onderdelen 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=5&z=2013-10-01&g=2013-10-01), dienen ten minste de volgende gegevens te bevatten:
 
 - 1. gegevens met betrekking tot de desbetreffende ondernemingen of personen; en
 
@@ -148,7 +148,7 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 
 ##### Artikel 9. Gemengde commissie
 
-1. Een gemengde commissie bestaande uit vertegenwoordigers van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en van het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2012-01-12&g=2012-01-12) genoemde instanties komt twaalf maanden na de inwerkingtreding van dit verdrag voor de eerste maal en vervolgens op verzoek van de Verdragsluitende Partijen ten minste om de twee jaar bijeen. Doel is de op grond van dit verdrag bereikte resultaten te evalueren en alle kwesties omtrent de uitlegging of toepassing van het verdrag te behandelen.
+1. Een gemengde commissie bestaande uit vertegenwoordigers van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en van het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01) genoemde instanties komt twaalf maanden na de inwerkingtreding van dit verdrag voor de eerste maal en vervolgens op verzoek van de Verdragsluitende Partijen ten minste om de twee jaar bijeen. Doel is de op grond van dit verdrag bereikte resultaten te evalueren en alle kwesties omtrent de uitlegging of toepassing van het verdrag te behandelen.
 
 2. De gemengde commissie kan vertegenwoordigers van andere nationale instanties en van andere lidstaten van de Europese Unie die belang hebben bij het verwezenlijken van de doelstellingen van het verdrag uitnodigen deel te nemen aan haar werkzaamheden.
 
@@ -158,7 +158,7 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 
 2. De Verdragsluitende Partijen kunnen bij een afzonderlijke overeenkomst bijlagen toevoegen aan het verdrag en de bijlagen van het verdrag wijzigen. De bijlagen maken onderdeel uit van het verdrag.
 
-3. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën van de Bondsrepubliek Duitsland verplichten zich binnen drie maanden na de inwerkingtreding van dit verdrag een lijst met adressen en telefoonnummers van de in het kader van dit verdrag belaste centrale instanties, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2012-01-12&g=2012-01-12), uit te wisselen, alsmede een beschrijving van hun taken, verantwoordelijkheden en bevoegdheden, en deze gegevens regelmatig te actualiseren.
+3. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën van de Bondsrepubliek Duitsland verplichten zich binnen drie maanden na de inwerkingtreding van dit verdrag een lijst met adressen en telefoonnummers van de in het kader van dit verdrag belaste centrale instanties, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01), uit te wisselen, alsmede een beschrijving van hun taken, verantwoordelijkheden en bevoegdheden, en deze gegevens regelmatig te actualiseren.
 
 ##### Artikel 11. Toepassing van het verdrag
 
