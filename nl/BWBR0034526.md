@@ -4,7 +4,7 @@ identifier: "BWBR0034526"
 country: "nl"
 rank: "wet"
 publication_date: "2016-04-30"
-last_updated: "2013-07-22"
+last_updated: "2013-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034526"
 soort: "wet"
@@ -64,7 +64,7 @@ Wijzigt de Registratiewet 1970.
 
 ##### Artikel VIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel VII
 
