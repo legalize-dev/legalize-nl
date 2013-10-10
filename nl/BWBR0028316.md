@@ -4,7 +4,7 @@ identifier: "BWBR0028316"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2013-10-10"
-last_updated: "2013-01-01"
+last_updated: "2013-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028316"
 soort: "AMvB-BES"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 15 juli 2010, nr. W.12.10.0262/III);
 Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 23 augustus 2010, nr. AV/PB/2010/16654, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Definities
 
@@ -106,7 +108,7 @@ Voorafgaand aan de benoeming van een persoon die het beleid van een pensioenfond
 
 ##### Artikel 5. Bronnen
 
-1. De Bank verkrijgt inzicht in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Bank verkrijgt inzicht in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-10-10&g=2013-10-10) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. de door betrokkene verstrekte ingevulde vragenlijst volgens het door de Bank vastgestelde model;
 
@@ -122,7 +124,7 @@ Voorafgaand aan de benoeming van een persoon die het beleid van een pensioenfond
 
 - g. gegevens uit openbare bronnen;
 
-- h. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) bedoelde persoon betrokken is geweest;
+- h. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-10-10&g=2013-10-10) bedoelde persoon betrokken is geweest;
 
 - i. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -138,13 +140,13 @@ Voorafgaand aan de benoeming van een persoon die het beleid van een pensioenfond
 
 ##### Artikel 6. Strafrechtelijke veroordeling
 
-1. De betrouwbaarheid van een persoon als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, dat bij ministeriële regeling is aangewezen, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+1. De betrouwbaarheid van een persoon als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-10-10&g=2013-10-10) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, dat bij ministeriële regeling is aangewezen, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
 
-2. De Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), afwijken van het eerste lid.
+2. De Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=7&z=2013-10-10&g=2013-10-10), afwijken van het eerste lid.
 
 ##### Artikel 7. Vaststelling betrouwbaarheid
 
-De Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), in aanmerking:
+De Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=2&artikel=4&z=2013-10-10&g=2013-10-10), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -246,9 +248,9 @@ Vervallen
 
 ##### Artikel 19. Kostendekkende premie
 
-De benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=5&artikel=17&z=2013-01-01&g=2013-01-01), waarbij rekening gehouden wordt met:
+De benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=5&artikel=17&z=2013-10-10&g=2013-10-10), waarbij rekening gehouden wordt met:
 
-- a. dit onderdeel is nog niet in werking getreden;
+- a. de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen behorende vereist eigen vermogen als bedoeld in [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c);
 
 - b. de opslag die nodig is voor de bij de aangroei van de pensioenverplichtingen behorende uitvoeringskosten van het pensioenfonds; en
 
@@ -260,19 +262,77 @@ De benodigde premie in verband met de pensioenverplichtingen wordt berekend over
 
 ##### Artikel 20. Samenstelling eigen vermogen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het eigen vermogen van een pensioenfonds wordt met name gevormd door de volgende vermogensbestanddelen:
+
+- a. het gestorte aandelenkapitaal of waarborgkapitaal vermeerderd met de ledenrekeningen;
+
+- b. de reserves;
+
+- c. het onverdeelde positieve of negatieve resultaat; en
+
+- d. de achtergestelde leningen.
+
+2. Het eigen vermogen van een pensioenfonds wordt verminderd met het bedrag van de eigen aandelen die rechtstreeks door het pensioenfonds worden gehouden en met het bedrag van de immateriële activa.
 
 ##### Artikel 21. Ledenrekeningen
 
-Dit onderdeel is nog niet inwerking getreden
+1. De ledenrekeningen, bedoeld in [artikel 20, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=20&z=2013-10-10&g=2013-10-10), worden alleen meegeteld als onderdeel van het eigen vermogen, wanneer de statuten bepalen dat:
+
+- a. vanaf deze rekeningen alleen betalingen aan de leden plaatsvinden als het eigen vermogen daardoor niet negatief wordt, dan wel bij liquidatie van het pensioenfonds, als alle andere schulden zijn voldaan;
+
+- b. elke betaling vanaf deze ledenrekeningen voor andere doeleinden dan de individuele opzegging van het lidmaatschap niet eerder plaatsvindt dan nadat dertig dagen zijn verstreken na melding daarvan aan de Bank; en
+
+- c. de Bank kan besluiten dat een voorgenomen betaling niet mag plaatsvinden.
+
+2. De statutaire bepalingen met betrekking tot de ledenrekeningen worden niet gewijzigd dan nadat daarvoor toestemming van de Bank is verkregen.
 
 ##### Artikel 22. Achtergestelde leningen
 
-Dit onderdeel is nog niet inwerking getreden
+1. De achtergestelde leningen, bedoeld in [artikel 20, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=20&z=2013-10-10&g=2013-10-10), worden meegeteld tot een maximum van vijftig procent van het vereist eigen vermogen of van het eigen vermogen als dat lager is dan het vereist eigen vermogen, waarbij niet meer dan de helft van dat maximum in de vorm van achtergestelde leningen met vaste looptijd, mits bindende overeenkomsten gelden op grond waarvan, in geval van liquidatie van het pensioenfonds, de achtergestelde leningen achtergesteld worden bij de vorderingen van alle andere crediteuren en pas worden terugbetaald als alle andere schulden zijn voldaan.
+
+2. De achtergestelde leningen worden meegeteld voor zover bedragen zijn gestort.
+
+3. Achtergestelde leningen met een vaste looptijd worden meegeteld als de oorspronkelijke looptijd ten minste vijf jaar bedraagt. De hoogte tot welke de achtergestelde lening wordt meegeteld als onderdeel van het eigen vermogen wordt lineair verlaagd gedurende ten minste de vijf jaar die voorafgaan aan de datum van de aflossing.
+
+4. Achtergestelde leningen zonder een vaste looptijd worden meegeteld als deze worden of zullen worden afgelost met een opzeggingstermijn van ten minste vijf jaar of de Bank aflossing heeft toegestaan. Het verzoek om toestemming voor de aflossing ontvangt de Bank ten minste zes maanden voor de beoogde aflossingsdatum.
+
+5. De leningsovereenkomst bevat geen bepaling op grond waarvan de achtergestelde lening voor het einde van de looptijd, anders dan bij liquidatie van het pensioenfonds, wordt afgelost.
+
+6. In afwijking van het vijfde lid kan de Bank toestemming verlenen voor vervroegde terugbetaling van achtergestelde leningen met een vaste looptijd, wanneer het initiatief hiertoe uitgaat van het pensioenfonds en het eigen vermogen niet onder het vereiste niveau daalt.
+
+7. De leningsovereenkomst wordt niet gewijzigd dan nadat daarvoor toestemming van de Bank is verkregen.
 
 ##### Artikel 23. Vereist eigen vermogen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de berekening van het vereist eigen vermogen hanteert het pensioenfonds een standaardmodel waarin door middel van risicofactoren voor de gehele balans van activa en passiva rekening wordt gehouden met:
+
+- a. het renterisico;
+
+- b. het aandelen- en vastgoedrisico;
+
+- c. het valutarisico;
+
+- d. het grondstoffenrisico;
+
+- e. het kredietrisico;
+
+- f. het verzekeringstechnisch risico;
+
+- g. het liquiditeitsrisico;
+
+- h. het concentratierisico; en
+
+- i. het operationeel risico.
+
+2. In afwijking van het eerste lid kan een pensioenfonds, mits voorafgaande toestemming is verleend door de Bank, voor de berekening van het vereist eigen vermogen:
+
+- a. een vereenvoudigd model hanteren, of
+
+- b. een intern model hanteren.
+
+3. De Bank kan nadere regels stellen inzake de scenariomethode indien innovatieve beleggingsinstrumenten daartoe aanleiding geven.
+
+4. Bij ministeriële regeling kunnen regels gesteld met betrekking tot het standaardmodel en de omvang, de inhoud en de samenhang van de risicofactoren, bedoeld in het eerste lid, en met betrekking tot de in het tweede lid bedoelde situatie.
 
 #### § 8. Beleggingen en leningen
 
@@ -304,7 +364,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 26. Langetermijnherstelplan
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het langetermijnherstelplan, bedoeld in artikel 16a van de wet, bevat in ieder geval een beschrijving van:
+
+- a. de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c) gestelde vereisten ten aanzien van het vereist eigen vermogen;
+
+- b. de voorziene ontwikkeling van de technische voorzieningen en de waarden;
+
+- c. de concrete maatregelen waardoor het vereist eigen vermogen binnen maximaal vijftien jaar op het vereiste niveau komt, waarbij rekening wordt gehouden met de naar verwachting toe te kennen toeslagverlening en de overige verplichtingen van het pensioenfonds;
+
+en is ten aanzien van de onderdelen b en c gebaseerd op een recente continuïteitsanalyse als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=3&artikel=12&z=2013-10-10&g=2013-10-10).
+
+2. De in het eerste lid, onder c, bedoelde maatregelen mogen er niet toe leiden dat het risico dat niet wordt voldaan aan de in het eerste lid, onder a, genoemde vereisten ten aanzien van het vereist eigen vermogen, doelbewust wordt vergroot ten opzichte van de situatie waarin wel werd voldaan aan de in [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c) opgenomen vereisten.
+
+3. Een herstelplan vertoont ex ante een gestaag herstel.
 
 ##### Artikel 27. Kortetermijnherstelplan
 
@@ -326,7 +398,7 @@ Het kortetermijnherstelplan, bedoeld in artikel 16b van de wet, bevat in ieder g
 
 De actuariële en bedrijfstechnische nota, bedoeld in artikel 16e van de wet, bevat in ieder geval een beschrijving van:
 
-- a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens [artikel 5b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), en van de opzet van de administratieve organisatie en interne controle, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01);
+- a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens [artikel 5b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), en van de opzet van de administratieve organisatie en interne controle, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=3&artikel=8&z=2013-10-10&g=2013-10-10);
 
 - b. voor zover van toepassing procedures en criteria voor de aansluiting van werkgevers bij het betreffende pensioenfonds en voor het verkrijgen van het deelnemerschap van hun werknemers;
 
@@ -344,7 +416,7 @@ De actuariële en bedrijfstechnische nota, bedoeld in artikel 16e van de wet, be
 
 ##### Artikel 29. De financiële opzet
 
-1. De beschrijving van de financiële opzet, bedoeld in[artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=28&z=2013-01-01&g=2013-01-01), bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van:
+1. De beschrijving van de financiële opzet, bedoeld in[artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=28&z=2013-10-10&g=2013-10-10), bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van:
 
 - a. de technische voorzieningen en het vereist eigen vermogen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13) en [13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c);
 
@@ -358,11 +430,11 @@ De actuariële en bedrijfstechnische nota, bedoeld in artikel 16e van de wet, be
 
 ##### Artikel 30. De financiële sturingsmiddelen
 
-De beschrijving van de financiële sturingsmiddelen, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=28&z=2013-01-01&g=2013-01-01), bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het pensioenfonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt.
+De beschrijving van de financiële sturingsmiddelen, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=28&z=2013-10-10&g=2013-10-10), bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het pensioenfonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt.
 
 ##### Artikel 31. Het beleggingsbeleid
 
-De beschrijving van het beleggingsbeleid, bedoeld in [artikel 29, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=29&z=2013-01-01&g=2013-01-01), bevat in ieder geval een beschrijving van:
+De beschrijving van het beleggingsbeleid, bedoeld in [artikel 29, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=29&z=2013-10-10&g=2013-10-10), bevat in ieder geval een beschrijving van:
 
 - a. het strategisch beleggingsbeleid, waarin opgenomen een beschrijving van de beleggingsdoelstelling, de samenstelling van de beoogde beleggingsportefeuille alsmede de mate waarin van de beoogde beleggingsportefeuille mag worden afgeweken;
 
@@ -374,11 +446,11 @@ De beschrijving van het beleggingsbeleid, bedoeld in [artikel 29, onder c](https
 
 ##### Artikel 32. Afwijking in geval van overdracht of herverzekering van risico’s
 
-Voor zover risico’s zijn overgedragen of herverzekerd kunnen de beschrijvingen, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=30&z=2013-01-01&g=2013-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=31&z=2013-01-01&g=2013-01-01), beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of herverzekering afgesloten overeenkomsten is opgenomen.
+Voor zover risico’s zijn overgedragen of herverzekerd kunnen de beschrijvingen, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=30&z=2013-10-10&g=2013-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=31&z=2013-10-10&g=2013-10-10), beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of herverzekering afgesloten overeenkomsten is opgenomen.
 
 ##### Artikel 33. Uitgangspunten oordeelsvorming de Bank
 
-De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=27&z=2013-01-01&g=2013-01-01) zijn zodanig dat de Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e), [13 tot en met 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13).
+De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=27&z=2013-10-10&g=2013-10-10) zijn zodanig dat de Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e), [13 tot en met 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13).
 
 #### § 11. Informatieuitwisseling met de Bank
 
@@ -398,7 +470,7 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 - 4°. deskundigheidsbevordering van het bestuur;
 
-- 5°. de persoongegevens van de actuaris bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-01-01&g=2013-01-01), de externe deskundige, bedoeld in artikel 35, derde lid, en de adviserende actuaris;
+- 5°. de persoongegevens van de actuaris bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-10-10&g=2013-10-10), de externe deskundige, bedoeld in artikel 35, derde lid, en de adviserende actuaris;
 
 - 6°. de verklaring van een externe deskundige; en
 
@@ -528,11 +600,11 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 ##### Artikel 36. Uitwerking informatieverstrekking door pensioenfondsen
 
-De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-01-01&g=2013-01-01). Deze omvatten uitsluitend:
+De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-10-10&g=2013-10-10). Deze omvatten uitsluitend:
 
 - a. de modellen waarin de gegevens worden verstrekt;
 
-- b. de reikwijdte en de mate van detaillering van de te verstrekken gegevens; deze omvatten geen uitbreiding of nadere rubricering van de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-01-01&g=2013-01-01) geduide gegevens;
+- b. de reikwijdte en de mate van detaillering van de te verstrekken gegevens; deze omvatten geen uitbreiding of nadere rubricering van de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-10-10&g=2013-10-10) geduide gegevens;
 
 - c. de waardering van de posten;
 
@@ -546,11 +618,11 @@ De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [
 
 ##### Artikel 37. Verstrekking langs elektronische weg
 
-1. Het pensioenfonds verstrekt de gegevens, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-01-01&g=2013-01-01), langs elektronische weg aan de Bank.
+1. Het pensioenfonds verstrekt de gegevens, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=34&z=2013-10-10&g=2013-10-10), langs elektronische weg aan de Bank.
 
-2. De externe deskundige zendt een schriftelijke controleverklaring aan de Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de gegevens waaromtrent de externe deskundige een verklaring omtrent de getrouwheid als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-01-01&g=2013-01-01), heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt.
+2. De externe deskundige zendt een schriftelijke controleverklaring aan de Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de gegevens waaromtrent de externe deskundige een verklaring omtrent de getrouwheid als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-10-10&g=2013-10-10), heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt.
 
-3. De actuaris zendt een schriftelijke controleverklaring aan de Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in [artikel 35, eerste lid, onderdeel h en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-01-01&g=2013-01-01).
+3. De actuaris zendt een schriftelijke controleverklaring aan de Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in [artikel 35, eerste lid, onderdeel h en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-10-10&g=2013-10-10).
 
 4. Het bestuur van het pensioenfonds zendt een schriftelijke controleverklaring aan de Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de staten, bedoeld in [artikel 16f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f).
 
@@ -564,9 +636,9 @@ De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [
 
 ##### Artikel 38
 
-1. Het boetebedrag voor overtreding van een voorschrift op grond van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e), [16a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a), [16b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16c), [16f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f), [21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=21a) en [26b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26b) en op grond van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=26&z=2013-01-01&g=2013-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=33&z=2013-01-01&g=2013-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=37&z=2013-01-01&g=2013-01-01) bedraagt 50.000 USD.
+1. Het boetebedrag voor overtreding van een voorschrift op grond van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e), [16a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a), [16b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16c), [16f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f), [21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=21a) en [26b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26b) en op grond van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=26&z=2013-10-10&g=2013-10-10), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=33&z=2013-10-10&g=2013-10-10) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=37&z=2013-10-10&g=2013-10-10) bedraagt 50.000 USD.
 
-2. Het boetebedrag voor overtreding van een voorschrift op grond van de [artikelen 5a, eerste, tweede en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14), [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b) en [16e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e) en op grond van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=23&z=2013-01-01&g=2013-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=8&artikel=24&z=2013-01-01&g=2013-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=8&artikel=25&z=2013-01-01&g=2013-01-01) bedraagt 25.000 USD.
+2. Het boetebedrag voor overtreding van een voorschrift op grond van de [artikelen 5a, eerste, tweede en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14), [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b) en [16e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e) en op grond van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=23&z=2013-10-10&g=2013-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=8&artikel=24&z=2013-10-10&g=2013-10-10) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=8&artikel=25&z=2013-10-10&g=2013-10-10) bedraagt 25.000 USD.
 
 3. Voor overtreding van [artikel 21a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=21a) kan per dag dat men in overtreding is een boete worden opgelegd van USD 1.250 met een maximum van USD 25.000.
 
@@ -582,7 +654,7 @@ De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [
 
 1. De Bank houdt bij het vaststellen van een bestuurlijke boete voor pensioenuitvoerders rekening met schade voor derden.
 
-2. De Bank kan de op te leggen bestuurlijke boete, na inachtneming van de bepalingen, bedoeld in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=12&artikel=38&z=2013-01-01&g=2013-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=12&artikel=39&z=2013-01-01&g=2013-01-01) verlagen met maximaal 75 procent.
+2. De Bank kan de op te leggen bestuurlijke boete, na inachtneming van de bepalingen, bedoeld in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=12&artikel=38&z=2013-10-10&g=2013-10-10) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=12&artikel=39&z=2013-10-10&g=2013-10-10) verlagen met maximaal 75 procent.
 
 #### § 13. Kostenregeling
 
@@ -660,17 +732,17 @@ Een uitvoerder besteedt niet uit:
 
 1. Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt, met uitzondering van:
 
-- a. de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=13&z=2013-01-01&g=2013-01-01) voor zover zij dienen ter uitvoering van [artikel 16a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a);
+- a. de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=13&z=2013-10-10&g=2013-10-10) voor zover zij dienen ter uitvoering van [artikel 16a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a);
 
-- b. [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=6&artikel=19&z=2013-01-01&g=2013-01-01);
+- b. [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=6&artikel=19&z=2013-10-10&g=2013-10-10);
 
-- c. de [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=20&z=2013-01-01&g=2013-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=26&z=2013-01-01&g=2013-01-01);
+- c. de [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=7&artikel=20&z=2013-10-10&g=2013-10-10) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=9&artikel=26&z=2013-10-10&g=2013-10-10);
 
-- d. [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=29&z=2013-01-01&g=2013-01-01), voor zover daarin verwezen wordt naar het vereist vermogen, bedoeld in [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c);
+- d. [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=10&artikel=29&z=2013-10-10&g=2013-10-10), voor zover daarin verwezen wordt naar het vereist vermogen, bedoeld in [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c);
 
 die drie jaar na het genoemde tijdstip in werking treden.
 
-2. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=13&z=2013-01-01&g=2013-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=16&z=2013-01-01&g=2013-01-01) vervallen met ingang van 1 januari 2012.
+2. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=13&z=2013-10-10&g=2013-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=4&artikel=16&z=2013-10-10&g=2013-10-10) vervallen met ingang van 1 januari 2012.
 
 ##### Artikel 51. Citeertitel
 
