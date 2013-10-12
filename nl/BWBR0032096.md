@@ -4,7 +4,7 @@ identifier: "BWBR0032096"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-12"
-last_updated: "2012-10-18"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032096"
 soort: "ministeriele-regeling"
@@ -70,9 +70,9 @@ Besluit:
 
 ##### Artikel 4
 
-1. Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 2,8% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). Voor de voorzitter geldt een arbeidsduurfactor van 0,028.
+1. Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 5,7% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). Voor de voorzitter geldt een arbeidsduurfactor van 0,057.
 
-2. Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 2,6% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). Voor de leden geldt een arbeidsduurfactor van 0,026.
+2. Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 5,7% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). Voor de leden geldt een arbeidsduurfactor van 0,057.
 
 ##### Artikel 5
 
