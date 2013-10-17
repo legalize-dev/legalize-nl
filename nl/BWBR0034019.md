@@ -4,7 +4,7 @@ identifier: "BWBR0034019"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-10-17"
-last_updated: "2013-01-01"
+last_updated: "2013-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034019"
 soort: "zbo"
@@ -146,7 +146,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 17. Bij samenloop van FKG’s wijst het college alle toepasselijke FKG’s toe met inachtneming van de volgende uitzonderingen:
 
-- a. In geval van samenloop bij FKG’s Diabetes I, Diabetes II met hypertensie en Diabetes II zonder hypertensie deelt het college aan de hand van de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=2&z=2013-10-17&g=2013-01-01) van deze beleidsregels een verzekerde in bij een klasse van het criterium FKG’s;
+- a. In geval van samenloop bij FKG’s Diabetes I, Diabetes II met hypertensie en Diabetes II zonder hypertensie deelt het college aan de hand van de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=2&z=2013-10-17&g=2013-10-17) van deze beleidsregels een verzekerde in bij een klasse van het criterium FKG’s;
 
 - b. Indien een verzekerde is ingedeeld bij FKG Diabetes I, FKG Diabetes II met hypertensie of FKG Diabetes II zonder hypertensie, deelt het college deze verzekerde niet in bij FKG Hoog cholesterol;
 
@@ -250,7 +250,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 - d. de studenten, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 oktober 2012.
 
-8. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01).
+8. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17).
 
 9. Het college herschaalt het geraamde aantal verzekerden van achttien jaar en ouder voor het criterium aard van het inkomen naar de macroverzekerdenraming.
 
@@ -354,11 +354,11 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 4. Wanneer een verzekerde bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, bepaalt het college de verzekeringsduur voor die verzekerde naar rato van het aantal zorgverzekeraars waar de verzekerde over die periode ingeschreven is geweest.
 
-5. Het college baseert zich voor het geraamde aantal verzekerden van achttien jaar en ouder dat ingedeeld is in FKG 1 tot en met 23, ingedeeld is in DKG 1 tot en met 15 of ingedeeld is in MHK 1 tot en met 6, per zorgverzekeraar op [artikel 4, negentiende respectievelijk vierentwintigste en zesendertigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01) van deze Beleidsregels.
+5. Het college baseert zich voor het geraamde aantal verzekerden van achttien jaar en ouder dat ingedeeld is in FKG 1 tot en met 23, ingedeeld is in DKG 1 tot en met 15 of ingedeeld is in MHK 1 tot en met 6, per zorgverzekeraar op [artikel 4, negentiende respectievelijk vierentwintigste en zesendertigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17) van deze Beleidsregels.
 
 6. Het college herschaalt het geraamde aantal verzekerden, bedoeld in het vorige lid, naar de macroverzekerdenraming.
 
-7. Het college baseert zich voor het geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, per zorgverzekeraar op [artikel 4, negentiende respectievelijk vierentwintigste en zesendertigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01) van deze Beleidsregels.
+7. Het college baseert zich voor het geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, per zorgverzekeraar op [artikel 4, negentiende respectievelijk vierentwintigste en zesendertigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17) van deze Beleidsregels.
 
 8. Het college baseert zich voor het geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt voor het criterium leeftijd en geslacht per zorgverzekeraar op het PKB 2013 met als peildatum 1 juni 2013.
 
@@ -374,7 +374,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 - d. de studenten, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 oktober 2012.
 
-11. Het college deelt een verzekerde die in meerdere klassen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01) van deze Beleidsregels.
+11. Het college deelt een verzekerde die in meerdere klassen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17) van deze Beleidsregels.
 
 12. Het college herschaalt het geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt voor het criterium aard van het inkomen naar de macroverzekerdenraming.
 
@@ -392,27 +392,27 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg hanteert het college de volgende gewichten als uitgangspunten:
 
-- a. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=2&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- a. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=2&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- b. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per FKG klasse 2014, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=3&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- b. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per FKG klasse 2014, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=3&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - c. voor verzekerden woonachtig in het buitenland 55% van het normgewicht van de FKG klasse ‘Geen FKG’;
 
-- d. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per DKG klasse 2014, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=4&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- d. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per DKG klasse 2014, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=4&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - e. voor verzekerden woonachtig in het buitenland 50% van het normgewicht voor de DKG klasse ‘0’;
 
-- f. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per HKG klasse 2014, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=5&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- f. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per HKG klasse 2014, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=5&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - g. voor verzekerden woonachtig in het buitenland 0% van het normgewicht voor de HKG klasse ‘geen HKG’;
 
-- h. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per aard van het inkomen klasse 2014, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=6&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- h. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per aard van het inkomen klasse 2014, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=6&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- i. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per regio klasse 2014, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=7&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- i. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per regio klasse 2014, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=7&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- j. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per SES klasse 2014, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=8&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- j. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per SES klasse 2014, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=8&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- k. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per MHK klasse 2014, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=9&z=2013-10-17&g=2013-01-01) van deze beleidsregels.
+- k. de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per MHK klasse 2014, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=9&z=2013-10-17&g=2013-10-17) van deze beleidsregels.
 
 2. Het college vermenigvuldigt de gewichten variabele kosten van medisch-specialistische zorg per verzekerde per klasse naar leeftijd en geslacht 2014 per overeenkomstige klasse met het per zorgverzekeraar geraamde aantal verzekerden per klasse naar leeftijd en geslacht 2014. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -454,25 +454,25 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
-- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=10&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=10&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG GGZ klasse 2014, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=11&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG GGZ klasse 2014, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=11&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - c. voor verzekerden woonachtig in het buitenland 50% van het normgewicht voor de FKG GGZ klasse ‘Geen FKG GGZ psychische aandoeningen’;
 
-- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar DKG GGZ klasse 2014, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=12&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar DKG GGZ klasse 2014, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=12&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - e. voor verzekerden woonachtig in het buitenland 0% van het normgewicht voor de DKG GGZ klasse 0;
 
-- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=13&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=13&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- g. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2014, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=14&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- g. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2014, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=14&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- h. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per SES klasse 2014, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=15&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- h. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per SES klasse 2014, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=15&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- i. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2014, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=16&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- i. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2014, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=16&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- j. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten lage drempelklasse, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=17&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- j. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten lage drempelklasse, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=17&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 2. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per klasse 2014 naar leeftijd en geslacht worden per overeenkomstige klasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder per klasse naar leeftijd en geslacht 2014. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -496,27 +496,27 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. de gewichten kosten van overige prestaties per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=18&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- a. de gewichten kosten van overige prestaties per verzekerde per klasse 2014 naar leeftijd en geslacht, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=18&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- b. de gewichten kosten van overige prestaties per verzekerde per FKG klasse 2014, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=19&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- b. de gewichten kosten van overige prestaties per verzekerde per FKG klasse 2014, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=19&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - c. voor verzekerden woonachtig in het buitenland 55% van het normgewicht FKG klasse ‘Geen FKG’;
 
-- d. de gewichten kosten van overige prestaties per verzekerde per DKG klasse 2014, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=20&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- d. de gewichten kosten van overige prestaties per verzekerde per DKG klasse 2014, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=20&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - e. voor verzekerden woonachtig in het buitenland 50% van het normgewicht voor DKG klasse ‘0’;
 
-- f. de gewichten kosten van overige prestaties per verzekerde per HKG klasse 2014, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=21&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- f. de gewichten kosten van overige prestaties per verzekerde per HKG klasse 2014, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=21&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - g. voor verzekerden woonachtig in het buitenland 0% van het normgewicht voor HKG klasse ‘Geen HKG’;
 
-- h. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=22&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- h. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=22&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- i. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2014, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=23&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- i. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2014, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=23&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- j. de gewichten kosten van overige prestaties per verzekerde per SES klasse 2014, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=24&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- j. de gewichten kosten van overige prestaties per verzekerde per SES klasse 2014, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=24&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- k. de gewichten kosten van overige prestaties per verzekerde per MHK klasse 2014, genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=25&z=2013-10-17&g=2013-01-01) van deze beleidsregels.
+- k. de gewichten kosten van overige prestaties per verzekerde per MHK klasse 2014, genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=25&z=2013-10-17&g=2013-10-17) van deze beleidsregels.
 
 2. De gewichten kosten van de overige prestaties per verzekerde per klasse naar leeftijd en geslacht 2014 worden per overeenkomstige klasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per klasse naar leeftijd en geslacht 2014. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -538,23 +538,23 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 ##### Artikel 11. De raming van de normatieve eigen risico opbrengst
 
-1. Het college berekent de geraamde normatieve eigen risico opbrengst 2014 voor verzekerden van achttien jaar en ouder die ingedeeld zijn in FKG 1 tot en met 23, ingedeeld zijn in DKG 1 tot en met 15 of ingedeeld zijn in MHK 1 tot en met 6 2014 per zorgverzekeraar door het aantal verzekerden van achttien jaar en ouder dat ingedeeld is in FKG 1 tot en met 23, ingedeeld is in DKG 1 tot en met 15 of ingedeeld is in MHK 1 tot en met 6 2014, zoals bepaald op grond van [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-01-01) te vermenigvuldigen met een bedrag van EUR 338,48 per verzekerde.
+1. Het college berekent de geraamde normatieve eigen risico opbrengst 2014 voor verzekerden van achttien jaar en ouder die ingedeeld zijn in FKG 1 tot en met 23, ingedeeld zijn in DKG 1 tot en met 15 of ingedeeld zijn in MHK 1 tot en met 6 2014 per zorgverzekeraar door het aantal verzekerden van achttien jaar en ouder dat ingedeeld is in FKG 1 tot en met 23, ingedeeld is in DKG 1 tot en met 15 of ingedeeld is in MHK 1 tot en met 6 2014, zoals bepaald op grond van [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-10-17) te vermenigvuldigen met een bedrag van EUR 338,48 per verzekerde.
 
 2. Het college vermindert de uitkomst van het eerste lid met 0,07479 procent. Het college heeft dit percentage berekend door het geraamde aantal verzekerden, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) te delen door het geraamde aantal verzekerden van achttien jaar en ouder.
 
 3. Voor de raming van de normatieve eigen risico opbrengst voor verzekerden die zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ vallen 2014 hanteert het college als uitgangspunten:
 
-- a. de gewichten eigen risico opbrengst per verzekerde per klasse naar leeftijd en geslacht 2014, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=26&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- a. de gewichten eigen risico opbrengst per verzekerde per klasse naar leeftijd en geslacht 2014, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=26&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=27&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2014, genoemd in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=27&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2014, genoemd in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=28&z=2013-10-17&g=2013-01-01) van deze beleidsregels.
+- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2014, genoemd in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=28&z=2013-10-17&g=2013-10-17) van deze beleidsregels.
 
-4. De gewichten eigen risico opbrengst per verzekerde per klasse 2014 naar leeftijd en geslacht worden per overeenkomstige klasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, zoals bepaald op grond van [artikel 6, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-01-01) van deze Beleidsregels. De uitkomsten worden per klasse 2014 per zorgverzekeraar gesommeerd.
+4. De gewichten eigen risico opbrengst per verzekerde per klasse 2014 naar leeftijd en geslacht worden per overeenkomstige klasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, zoals bepaald op grond van [artikel 6, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-10-17) van deze Beleidsregels. De uitkomsten worden per klasse 2014 per zorgverzekeraar gesommeerd.
 
-5. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2014 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder per aard van het inkomenklasse 2014, zoals bepaald in [artikel 6, tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-01-01) van deze Beleidsregels. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vierde lid.
+5. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2014 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder per aard van het inkomenklasse 2014, zoals bepaald in [artikel 6, tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-10-17) van deze Beleidsregels. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vierde lid.
 
-6. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2014 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder per regioklasse 2014, zoals bepaald in [artikel 6, dertiende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-01-01) van deze Beleidsregels. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
+6. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2014 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van achttien jaar en ouder per regioklasse 2014, zoals bepaald in [artikel 6, dertiende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=6&z=2013-10-17&g=2013-10-17) van deze Beleidsregels. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
 
 7. Het college vermindert de uitkomst van het zesde lid met het percentage, genoemd in het tweede lid.
 
@@ -566,9 +566,9 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 2. Het college raamt de opbrengst 2014 van de nominale rekenpremie per zorgverzekeraar door de geraamde aantallen verzekerden van achttien jaar en ouder 2014 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2014.
 
-3. Het college vermindert het resultaat van het tweede lid met het percentage, genoemd in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-01-01).
+3. Het college vermindert het resultaat van het tweede lid met het percentage, genoemd in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-10-17).
 
-4. Het college berekent de vereveningsbijdrage 2014 voor een zorgverzekeraar door op het normatieve bedrag 2014, bedoeld in het eerste lid, de geraamde normatieve eigen risico opbrengst 2014 zoals bepaald in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-01-01) en de op grond van het tweede en derde lid geraamde opbrengst van de nominale rekenpremie 2014 in mindering te brengen.
+4. Het college berekent de vereveningsbijdrage 2014 voor een zorgverzekeraar door op het normatieve bedrag 2014, bedoeld in het eerste lid, de geraamde normatieve eigen risico opbrengst 2014 zoals bepaald in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-10-17) en de op grond van het tweede en derde lid geraamde opbrengst van de nominale rekenpremie 2014 in mindering te brengen.
 
 5. Het college berekent per zorgverzekeraar de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar 2014. Deze uitkering bedraagt het aantal geraamde verzekerden jonger dan achttien jaar vermenigvuldigd met EUR 50.
 
@@ -584,9 +584,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2014 besl
 
 2. Het college bepaalt de herberekening van de toegekende vereveningsbijdrage 2014 als volgt:
 
-Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid door het geraamde totaal aantal verzekerden 2014 en vermenigvuldigt de uitkomst hiervan met de vereveningsbijdrage 2014 zoals toegekend op grond van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-01-01) van deze Beleidsregels.
+Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid door het geraamde totaal aantal verzekerden 2014 en vermenigvuldigt de uitkomst hiervan met de vereveningsbijdrage 2014 zoals toegekend op grond van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-10-17) van deze Beleidsregels.
 
-3. Het college herziet de op grond van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-01-01), toegekende vereveningsbijdrage 2014 overeenkomstig de herberekening uit het tweede lid.
+3. Het college herziet de op grond van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-10-17), toegekende vereveningsbijdrage 2014 overeenkomstig de herberekening uit het tweede lid.
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
@@ -618,7 +618,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 - f. de studenten, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 oktober 2014.
 
-6. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen, is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01) van deze Beleidsregels.
+6. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen, is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17) van deze Beleidsregels.
 
 7. Het college baseert zich voor het aantal verzekerden voor het criterium regio per zorgverzekeraar met betrekking tot:
 
@@ -644,7 +644,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 11. In afwijking van het bepaalde in het tiende lid hanteert het college voor de FKG Kanker een drempel van ten minste 3 receptregels. Beneden deze drempel deelt het college een verzekerde niet in bij FKG Kanker.
 
-12. Het college koppelt de opgave bedoeld in het achtste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2014 en bepaalt op basis hiervan en met inachtneming van de drempels bedoeld in het tiende en elfde lid in welke FKG klassen 1 tot en met 23 de verzekerde valt, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 4, zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01).
+12. Het college koppelt de opgave bedoeld in het achtste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2014 en bepaalt op basis hiervan en met inachtneming van de drempels bedoeld in het tiende en elfde lid in welke FKG klassen 1 tot en met 23 de verzekerde valt, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 4, zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17).
 
 13. Als een verzekerde niet in een FKG klasse 1 tot en met 23 valt, deelt het college deze verzekerde in bij FKG klasse ‘Geen FKG’.
 
@@ -728,7 +728,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 - f. de studenten, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 oktober 2014.
 
-6. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01).
+6. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17).
 
 7. Het college baseert zich voor het aantal verzekerden van achttien jaar en ouder voor het criterium GGZ-regio per zorgverzekeraar met betrekking tot:
 
@@ -816,9 +816,9 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 3. Wanneer een verzekerde gedurende een bepaalde periode in 2014 bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, bepaalt het college de verzekeringsduur voor die verzekerde naar rato van het aantal zorgverzekeraars waar de verzekerde gedurende die periode ingeschreven is geweest.
 
-4. Het college bepaalt het aantal verzekerden van achttien jaar en ouder die ingedeeld zijn in een FKG 1 tot en met 23, ingedeeld zijn in een DKG 1 tot en met 15, of ingedeeld zijn in een MHK 1 tot en met 6, per zorgverzekeraar met inachtneming van [artikel 15, dertiende, zestiende en eenentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01).
+4. Het college bepaalt het aantal verzekerden van achttien jaar en ouder die ingedeeld zijn in een FKG 1 tot en met 23, ingedeeld zijn in een DKG 1 tot en met 15, of ingedeeld zijn in een MHK 1 tot en met 6, per zorgverzekeraar met inachtneming van [artikel 15, dertiende, zestiende en eenentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17).
 
-5. Het college bepaalt het aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt per zorgverzekeraar met inachtneming van [artikel 15, dertiende respectievelijk zestiende en eenentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01).
+5. Het college bepaalt het aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt per zorgverzekeraar met inachtneming van [artikel 15, dertiende respectievelijk zestiende en eenentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17).
 
 6. Het college baseert zich voor het aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ is ingedeeld voor het criterium leeftijd en geslacht per zorgverzekeraar op:
 
@@ -840,7 +840,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 - f. de studenten, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 oktober 2014.
 
-8. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-01-01) van deze beleidsregels.
+8. Het college deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=4&z=2013-10-17&g=2013-10-17) van deze beleidsregels.
 
 9. Het college baseert zich voor het aantal verzekerden van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt voor het criterium regio per zorgverzekeraar met betrekking tot:
 
@@ -864,7 +864,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 4. Het college herberekent het gewicht variabele kosten van medisch-specialistische zorg per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden per MHK klasse 1 tot en met 6 te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-5. Het college herberekent met inachtneming van de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01) bepaalde verzekerdenaantallen het normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=7&z=2013-10-17&g=2013-01-01).
+5. Het college herberekent met inachtneming van de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17) bepaalde verzekerdenaantallen het normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=7&z=2013-10-17&g=2013-10-17).
 
 6. Het college berekent de schalingsfactor voor variabele kosten van medisch-specialistische zorg 2014 door de variabele kosten van medisch-specialistische zorg 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor het totaal van de verzekerden 2014 van alle zorgverzekeraars.
 
@@ -886,7 +886,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 - a. De som van de vaste kosten van ziekenhuisverpleging 2013 en de kosten geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar 2013 wordt per zorgverzekeraar gedeeld door het aantal verzekerden 2013. Het resultaat is het bedrag vaste kosten per verzekerde 2013;
 
-- b. Het in onderdeel a berekende bedrag wordt vermenigvuldigd met het totaal aantal verzekerden 2014 per zorgverzekeraar, vastgesteld met toepassing van [artikel 15, lid 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01). Het resultaat is het deelbedrag vaste zorgkosten 2014.
+- b. Het in onderdeel a berekende bedrag wordt vermenigvuldigd met het totaal aantal verzekerden 2014 per zorgverzekeraar, vastgesteld met toepassing van [artikel 15, lid 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17). Het resultaat is het deelbedrag vaste zorgkosten 2014.
 
 3. Het college calculeert per zorgverzekeraar 100 procent na op het verschil tussen de vaste zorgkosten 2014, verkregen in het eerste lid, en het deelbedrag vaste zorgkosten, verkregen in het tweede lid.
 
@@ -900,7 +900,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 3. Het college herberekent het gewicht kosten van geneeskundige GGZ voor verzekerden van achttien jaar en ouder per verzekerde voor de risicoklasse GGZ kosten lage drempelklasse ‘Niet’ 2014 en voor de risicoklasse GGZ kosten lage drempel ‘Wel en DKG psychische aandoeningen is niet ‘0’’ door het totaal aantal verzekerden per GGZ kosten lage drempelklasse ‘Wel en DKG psychische aandoeningen is ‘0’’ te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door de som van het aantal verzekerden GGZ kosten lage drempelklasse ’Niet’ en het aantal verzekerden GGZ kosten lage drempelklasse ‘Wel en DKG psychische aandoeningen is niet ‘0’’ 2014, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-4. Het college herberekent met inachtneming van het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=16&z=2013-10-17&g=2013-01-01) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=9&z=2013-10-17&g=2013-01-01).
+4. Het college herberekent met inachtneming van het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=16&z=2013-10-17&g=2013-10-17) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=9&z=2013-10-17&g=2013-10-17).
 
 5. Het college berekent de schalingsfactor voor kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder 2014 door de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vierde lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars.
 
@@ -924,7 +924,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 4. Het college herberekent het gewicht kosten van overige prestaties per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden per MHK klasse 1 tot en met 6 te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-5. Het college herberekent met inachtneming van de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01) berekende verzekerdenaantallen het normatieve bedrag kosten van overige prestaties 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=10&z=2013-10-17&g=2013-01-01).
+5. Het college herberekent met inachtneming van de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17) berekende verzekerdenaantallen het normatieve bedrag kosten van overige prestaties 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=10&z=2013-10-17&g=2013-10-17).
 
 6. Het college berekent de schalingsfactor voor kosten van overige prestaties 2014 door de kosten van overige prestaties 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vijfde lid herberekende normatieve bedrag kosten van overige prestaties voor het totaal van de verzekerden 2014 van alle zorgverzekeraars.
 
@@ -938,9 +938,9 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 ##### Artikel 22. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2014
 
-1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-01-01), van de verzekerdenaantallen van de zorgverzekeraar.
+1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-10-17), van de verzekerdenaantallen van de zorgverzekeraar.
 
-2. Het college herberekent overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-01-01) de normatieve eigen risico opbrengst 2014 op basis van de verzekerdenaantallen 2014 van achttien jaar en ouder zoals bepaald in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-01-01).
+2. Het college herberekent overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-10-17) de normatieve eigen risico opbrengst 2014 op basis van de verzekerdenaantallen 2014 van achttien jaar en ouder zoals bepaald in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-10-17).
 
 3. In afwijking van het tweede lid bepaalt het college de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2014 per 1 mei 2015.
 
@@ -950,9 +950,9 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 2. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. betrekt het college het bedrag berekend in [artikel 18, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=18&z=2013-10-17&g=2013-01-01);
+- a. betrekt het college het bedrag berekend in [artikel 18, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=18&z=2013-10-17&g=2013-10-17);
 
-- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag variabele kosten van medisch-specialistische zorg. Het college berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=18&z=2013-10-17&g=2013-01-01) en de variabele kosten van medisch-specialistische zorg 2014 bedoeld in artikel 18, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag variabele kosten van medisch-specialistische zorg. Het college berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=18&z=2013-10-17&g=2013-10-17) en de variabele kosten van medisch-specialistische zorg 2014 bedoeld in artikel 18, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan EUR 40,00 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2014;
 
@@ -960,9 +960,9 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 3. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. betrekt het college het bedrag berekend in [artikel 20, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=20&z=2013-10-17&g=2013-01-01);
+- a. betrekt het college het bedrag berekend in [artikel 20, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=20&z=2013-10-17&g=2013-10-17);
 
-- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het college berekent het gemiddeld marktresultaat door voor totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=20&z=2013-10-17&g=2013-01-01) en de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder bedoeld in artikel 20, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het college berekent het gemiddeld marktresultaat door voor totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=20&z=2013-10-17&g=2013-10-17) en de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder bedoeld in artikel 20, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan EUR 12,50 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2014;
 
@@ -974,7 +974,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 6. Het college herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2014 te vermenigvuldigen met EUR 50.
 
-7. Het college herberekent de vereveningsbijdrage 2014 voorlopig door de som van het herberekende normatieve bedrag 2014 bedoeld in het eerste lid, met toepassing van het tweede en derde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het zesde lid, te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=24&z=2013-10-17&g=2013-01-01) en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde lid.
+7. Het college herberekent de vereveningsbijdrage 2014 voorlopig door de som van het herberekende normatieve bedrag 2014 bedoeld in het eerste lid, met toepassing van het tweede en derde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het zesde lid, te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=24&z=2013-10-17&g=2013-10-17) en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde lid.
 
 8. Het college stelt de vereveningsbijdrage 2014 in september 2015 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -986,7 +986,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 ##### Artikel 25. Bepaling van de verzekerdenaantallen 2014
 
-1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2014 bij de verzekerdenaantallen zoals berekend op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=16&z=2013-10-17&g=2013-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-01-01).
+1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2014 bij de verzekerdenaantallen zoals berekend op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=15&z=2013-10-17&g=2013-10-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=16&z=2013-10-17&g=2013-10-17) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=17&z=2013-10-17&g=2013-10-17).
 
 2. Voor het criterium SES betrekt het college voor het inkomen de opgave van de Belastingdienst over 2014 bij de verzekerdenaantallen. Indien een verzekerde niet is opgenomen in de opgave over 2014, maakt het college gebruik van de opgave over 2013.
 
@@ -1004,7 +1004,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 4. Het college herberekent het gewicht variabele kosten van medisch-specialistische zorg per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden per MHK klasse 1 tot en met 6 te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-01-01) bepaalde verzekerdenaantallen het normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=7&z=2013-10-17&g=2013-01-01).
+5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-10-17) bepaalde verzekerdenaantallen het normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=7&z=2013-10-17&g=2013-10-17).
 
 6. Het college berekent de schalingsfactor voor variabele kosten van medisch-specialistische zorg 2014 door de variabele kosten van medisch-specialistische zorg 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vijfde lid herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg 2014 voor het totaal van de verzekerden 2014 van alle zorgverzekeraars.
 
@@ -1020,31 +1020,31 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 ##### Artikel 27. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2014
 
-Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2014 overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=19&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=24&z=2013-10-17&g=2013-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-01-01).
+Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2014 overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=19&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=24&z=2013-10-17&g=2013-10-17) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 28. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2014
 
 1. Het college hanteert als uitgangspunten voor de verzekerden van achttien jaar en ouder:
 
-- a. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per klasse 2014 naar leeftijd en geslacht, zoals vermeld in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=29&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- a. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per klasse 2014 naar leeftijd en geslacht, zoals vermeld in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=29&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- b. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per FKG GGZ klasse 2014, zoals vermeld in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=30&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- b. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per FKG GGZ klasse 2014, zoals vermeld in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=30&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - c. voor verzekerden woonachtig in het buitenland 50% van het normgewicht voor de FKG GGZ klasse ‘Geen FKG GGZ psychische aandoeningen’;
 
-- d. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per DKG GGZ klasse 2014, zoals vermeld in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=31&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- d. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per DKG GGZ klasse 2014, zoals vermeld in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=31&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
 - e. voor verzekerden woonachtig in het buitenland 0% van het normgewicht voor de DKG GGZ klasse 0;
 
-- f. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2014, zoals vermeld in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=32&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- f. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2014, zoals vermeld in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=32&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- g. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ regioklasse 2014, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=33&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- g. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ regioklasse 2014, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=33&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- h. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per SES klasse 2014, genoemd in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=34&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- h. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per SES klasse 2014, genoemd in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=34&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- i. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2014, genoemd in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=35&z=2013-10-17&g=2013-01-01) van deze beleidsregels;
+- i. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2014, genoemd in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=35&z=2013-10-17&g=2013-10-17) van deze beleidsregels;
 
-- j. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten lage drempelklasse 2014, genoemd in [bijlage 36](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=36&z=2013-10-17&g=2013-01-01) van deze beleidsregels.
+- j. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten lage drempelklasse 2014, genoemd in [bijlage 36](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&bijlage=36&z=2013-10-17&g=2013-10-17) van deze beleidsregels.
 
 2. Het college bepaalt met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=12) en [13 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=13), de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1052,7 +1052,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgk
 
 4. Het college herberekent het gewicht kosten van geneeskundige GGZ voor verzekerden van achttien jaar en ouder per verzekerde voor de risicoklasse GGZ kosten lage drempelklasse ‘Niet’ 2014 en voor de risicoklasse GGZ kosten lage drempel ‘Wel en DKG psychische aandoeningen is niet ‘0’’ door het totaal aantal verzekerden per GGZ kosten lage drempelklasse ‘Wel en DKG psychische aandoeningen is ‘0’’ te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door de som van het aantal verzekerden GGZ kosten lage drempelklasse ’Niet’ en het aantal verzekerden GGZ kosten lage drempelklasse ‘Wel en DKG psychische aandoeningen is niet ‘0’’ 2014, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-01-01) bepaalde verzekerdenaantallen het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=9&z=2013-10-17&g=2013-01-01).
+5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-10-17) bepaalde verzekerdenaantallen het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=9&z=2013-10-17&g=2013-10-17).
 
 6. Het college berekent de schalingsfactor voor kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder 2014 door de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het in het vijfde lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor het totaal van de verzekerden van achttien jaar en ouder 2014 van alle zorgverzekeraars.
 
@@ -1078,7 +1078,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgk
 
 4. Het college herberekent het gewicht kosten van overige prestaties per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden per MHK klasse 1 tot en met 6 te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-01-01) bepaalde verzekerdenaantallen het normatieve bedrag kosten van overige prestaties 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=10&z=2013-10-17&g=2013-01-01).
+5. Het college herberekent met inachtneming van de op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-10-17) bepaalde verzekerdenaantallen het normatieve bedrag kosten van overige prestaties 2014 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de verzekerden 2014 van alle zorgverzekeraars overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=10&z=2013-10-17&g=2013-10-17).
 
 6. Het college berekent de schalingsfactor voor kosten van overige prestaties 2014 door de kosten van overige prestaties 2014 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vijfde lid herberekende normatieve bedrag kosten van overige prestaties 2014 voor het totaal van de verzekerden 2014 van alle zorgverzekeraars.
 
@@ -1092,7 +1092,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgk
 
 ##### Artikel 30. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2014
 
-Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2014 overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=22&z=2013-10-17&g=2013-01-01) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-01-01).
+Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2014 overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=11&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=22&z=2013-10-17&g=2013-10-17) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=25&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 31. De tweede voorlopige herberekening van het normatieve bedrag 2014 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2014
 
@@ -1100,9 +1100,9 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 2. Voor de toepassing van [artikel 3.17, eerste lid van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. betrekt het college het bedrag berekend in [artikel 26, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-01-01);
+- a. betrekt het college het bedrag berekend in [artikel 26, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-10-17);
 
-- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag variabele kosten van medisch-specialistische zorg. Het college berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-01-01) en de variabele kosten van medisch-specialistische zorg 2014 bedoeld in artikel 26, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag variabele kosten van medisch-specialistische zorg. Het college berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag variabele kosten van medisch-specialistische zorg bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-10-17) en de variabele kosten van medisch-specialistische zorg 2014 bedoeld in artikel 26, eerste lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan EUR 40,00 per verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2014;
 
@@ -1110,9 +1110,9 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 3. Voor de toepassing van [artikel 3.17, tweede lid van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. betrekt het college de uitkomst van [artikel 28, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-01-01);
+- a. betrekt het college de uitkomst van [artikel 28, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-10-17);
 
-- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder. Het college berekent het gemiddeld marktresultaat door voor totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder, bedoeld in [artikel 28, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-01-01) en de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder bedoeld in artikel 28, vijfde lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het college het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder. Het college berekent het gemiddeld marktresultaat door voor totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder, bedoeld in [artikel 28, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-10-17) en de kosten van geneeskundige geestelijke gezondheidszorg 2014 voor verzekerden van achttien jaar en ouder bedoeld in artikel 28, vijfde lid te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan EUR 12,50 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2014;
 
@@ -1124,7 +1124,7 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 6. Het college berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar te vermenigvuldigen met EUR 50.
 
-7. Het college berekent de vereveningsbijdrage 2014 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2014 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar als bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=23&z=2013-10-17&g=2013-01-01), te verminderen met de tweede voorlopige normatieve eigen risico opbrengst bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=30&z=2013-10-17&g=2013-01-01), en de opbrengst van de nominale rekenpremie, bedoeld in artikel 23, vijfde lid.
+7. Het college berekent de vereveningsbijdrage 2014 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2014 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar als bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=23&z=2013-10-17&g=2013-10-17), te verminderen met de tweede voorlopige normatieve eigen risico opbrengst bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=30&z=2013-10-17&g=2013-10-17), en de opbrengst van de nominale rekenpremie, bedoeld in artikel 23, vijfde lid.
 
 8. Het college stelt de vereveningsbijdrage 2014 voor de tweede keer voorlopig vast in september 2017 ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -1136,27 +1136,27 @@ Het college herberekent de vereveningsbijdrage definitief met inachtneming van d
 
 ##### Artikel 33. De definitieve herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2014
 
-Het college herberekent definitief het deelbedrag variabele kosten van medisch-specialistische zorg 2014 overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+Het college herberekent definitief het deelbedrag variabele kosten van medisch-specialistische zorg 2014 overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=26&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 34. De definitieve herberekening van het deelbedrag vaste zorgkosten 2014
 
-Het college herberekent definitief het deelbedrag vaste zorgkosten 2014 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=27&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+Het college herberekent definitief het deelbedrag vaste zorgkosten 2014 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=27&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 35. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2014
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2014 overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2014 overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=28&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 36. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2014
 
-Het college herberekent definitief het deelbedrag kosten van overige prestaties 2014 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=29&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+Het college herberekent definitief het deelbedrag kosten van overige prestaties 2014 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=29&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 37. De definitieve herberekening van de normatieve eigen risico opbrengst 2014
 
-Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=30&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=30&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 38. De definitieve herberekening van het normatieve bedrag 2014 en de definitieve herberekening en de vaststelling van de bijdrage 2014
 
-1. Het college herberekent definitief het normatieve bedrag 2014 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=31&z=2013-10-17&g=2013-01-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-01-01).
+1. Het college herberekent definitief het normatieve bedrag 2014 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=31&z=2013-10-17&g=2013-10-17), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=32&z=2013-10-17&g=2013-10-17).
 
 2. Het college stelt de bijdrage 2014 vast in april 2018 ter hoogte van de in het vorige lid definitief berekende bijdrage.
 
@@ -1164,17 +1164,17 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 39
 
-1. Bij gelegenheid van de vaststelling van de bijdrage 2014, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=38&z=2013-10-17&g=2013-01-01), stelt het college per zorgverzekeraar ook de uitkering 2014 vast voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed.
+1. Bij gelegenheid van de vaststelling van de bijdrage 2014, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&artikel=38&z=2013-10-17&g=2013-10-17), stelt het college per zorgverzekeraar ook de uitkering 2014 vast voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed.
 
-2. In afwachting van de vaststelling van de uitkering 2014 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2014, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=23&z=2013-10-17&g=2013-01-01), ook de voorlopige uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, vast.
+2. In afwachting van de vaststelling van de uitkering 2014 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2014, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&artikel=23&z=2013-10-17&g=2013-10-17), ook de voorlopige uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, vast.
 
-3. In afwachting van de vaststelling van de uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2014, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=31&z=2013-10-17&g=2013-01-01), ook de tweede voorlopige uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, vast.
+3. In afwachting van de vaststelling van de uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2014, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&artikel=31&z=2013-10-17&g=2013-10-17), ook de tweede voorlopige uitkering 2014 voor de kosten die op grond van de wet naar het werkelijke bedrag door het college worden vergoed, vast.
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
 ##### Artikel 40
 
-1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-01-01), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
+1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-10-17), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
 - a. het deel van het normatieve bedrag 2014 dat betrekking heeft op het deelbedrag variabele kosten van medisch-specialistische zorg en het deelbedrag vaste zorgkosten 2014;
 
@@ -1186,7 +1186,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 - e. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie 2014.
 
-2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-01-01), gelijktijdig met de betaling genoemd in het eerste lid uit.
+2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-10-17), gelijktijdig met de betaling genoemd in het eerste lid uit.
 
 3. Voor de betaling van de kosten, die op grond van de wet naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
 
@@ -1194,11 +1194,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 41. Betaling
 
-1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=40&z=2013-10-17&g=2013-01-01) en de uitkering genoemd in artikel 40, tweede lid.
+1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=40&z=2013-10-17&g=2013-10-17) en de uitkering genoemd in artikel 40, tweede lid.
 
-2. Het college deelt het resultaat van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-01-01), door het resultaat van het eerste lid.
+2. Het college deelt het resultaat van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=12&z=2013-10-17&g=2013-10-17), door het resultaat van het eerste lid.
 
-3. Het college vermenigvuldigt ieder van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=40&z=2013-10-17&g=2013-01-01) en de uitkering bedoeld in artikel 40, tweede lid, met het percentage dat het resultaat is van het tweede lid.
+3. Het college vermenigvuldigt ieder van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=40&z=2013-10-17&g=2013-10-17) en de uitkering bedoeld in artikel 40, tweede lid, met het percentage dat het resultaat is van het tweede lid.
 
 4. De resultaten van het derde lid worden respectievelijk genoemd als volgt:
 
@@ -1240,13 +1240,13 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 42
 
-1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2014 op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=14&z=2013-10-17&g=2013-01-01) herziet het college de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
+1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2014 op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=II&artikel=14&z=2013-10-17&g=2013-10-17) herziet het college de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
-2. Bij gelegenheid van de eerste voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&z=2013-10-17&g=2013-01-01), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
+2. Bij gelegenheid van de eerste voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=III&z=2013-10-17&g=2013-10-17), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
 
-3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&z=2013-10-17&g=2013-01-01), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
+3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=IV&z=2013-10-17&g=2013-10-17), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
 
-4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&z=2013-10-17&g=2013-01-01), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01).
+4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=V&z=2013-10-17&g=2013-10-17), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17).
 
 Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
 
@@ -1256,23 +1256,23 @@ Het college verrekent het verschil tussen de reeds betaalde termijnen en de defi
 
 ##### Artikel 43
 
-1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01).
+1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
 ##### Artikel 44
 
-1. Bij de verrekening van verschillen, bedoeld in [artikel 42, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+1. Bij de verrekening van verschillen, bedoeld in [artikel 42, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01) en artikel 42, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17) en artikel 42, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
 
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01) en artikel 42, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17) en artikel 42, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
 
-4. Bij de verrekening van de verschillen, bedoeld in [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01) en artikel 42 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17), berekent het college rente vanaf de betaaldata, genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17) en artikel 42 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
 
-5. Voor een zorgverzekeraar waarvoor krachtens [artikel 41, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-01-01), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
+5. Voor een zorgverzekeraar waarvoor krachtens [artikel 41, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=41&z=2013-10-17&g=2013-10-17), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
 
-6. Het college deelt het bedrag dat de zorgverzekeraar heeft terugbetaald op grond van [artikel 42, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-01-01), voor de renteberekening naar rato toe aan de eerste dag van de maand waarin is terugbetaald en de eerste dag van de daaropvolgende maand, waarbij het uitgangspunt is de dag van terugbetaling.
+6. Het college deelt het bedrag dat de zorgverzekeraar heeft terugbetaald op grond van [artikel 42, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034019&hoofdstuk=VII&artikel=42&z=2013-10-17&g=2013-10-17), voor de renteberekening naar rato toe aan de eerste dag van de maand waarin is terugbetaald en de eerste dag van de daaropvolgende maand, waarbij het uitgangspunt is de dag van terugbetaling.
 
 7. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede, derde en vierde lid. Voor de laatste kalendermaand vóór de betaling gaat het college uit van de rente over de voorafgaande kalendermaand.
 
