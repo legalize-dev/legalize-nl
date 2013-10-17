@@ -4,7 +4,7 @@ identifier: "BWBR0025680"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2009-04-15"
+last_updated: "2013-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025680"
 soort: "AMvB"
@@ -66,6 +66,8 @@ Hebben goedgevonden en verstaan:
 
 - **eerste lidstaat van doorvoer:** lidstaat van doorvoer waarin het douanekantoor is gelegen waarlangs de radioactieve afvalstoffen of de bestraalde splijtstoffen voor de eerste keer de Europese Unie binnenkomen;
 
+- **eindberging:** de plaatsing van radioactieve afvalstoffen of verbruikte splijtstoffen in een inrichting zonder de bedoeling die afvalstoffen of splijtstoffen terug te halen;
+
 - **houder:** degene die vóór de overbrenging verantwoordelijk is voor de radioactieve afvalstoffen of de bestraalde splijtstoffen en die voornemens is die stoffen over te brengen of te doen overbrengen;
 
 - **ingekapselde bron:** hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1), met dien verstande dat onder radioactieve stoffen mede wordt verstaan: splijtstoffen;
@@ -92,7 +94,9 @@ Hebben goedgevonden en verstaan:
 
 - **toestemming:** ingevolge dit besluit of de richtlijn vereiste toestemming met betrekking tot de aanvraag om een vergunning voor een overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen;
 
-- **uniform document:** door de Commissie van de Europese Gemeenschappen bij beschikking van 5 maart 2008 ter uitvoering van de richtlijn vastgesteld document (PbEU L 107).
+- **uniform document:** door de Commissie van de Europese Gemeenschappen bij beschikking van 5 maart 2008 ter uitvoering van de richtlijn vastgesteld document (PbEU L 107);
+
+- **verbruikte splijtstof:** kernsplijtstof die bestraald is en permanent uit een reactorkern is verwijderd.
 
 2. Voor de toepassing van dit besluit wordt als overbrengen aangemerkt alle verrichtingen voor het verplaatsen van radioactieve afvalstoffen of bestraalde splijtstoffen van de lidstaat of derde staat van herkomst naar de lidstaat of derde staat van bestemming.
 
@@ -118,13 +122,13 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 1. Het is verboden zonder vergunning van Onze Minister:
 
-- a. uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van Nederland naar de lidstaat van bestemming over te brengen;
+- a. uit Nederland afkomstige radioactieve afvalstoffen, bestraalde splijtstoffen of verbruikte splijtstoffen met een bestemming in een andere lidstaat, van Nederland naar de lidstaat van bestemming over te brengen;
 
 - b. uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland over te brengen;
 
 - c. uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van de derde staat van herkomst naar Nederland over te brengen;
 
-- d. uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, van Nederland naar de derde staat van bestemming over te brengen;
+- d. uit Nederland afkomstige radioactieve afvalstoffen, bestraalde splijtstoffen of verbruikte splijtstoffen met een bestemming in een derde staat, van Nederland naar de derde staat van bestemming over te brengen;
 
 - e. uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere derde staat, van de derde staat van herkomst via Nederland naar de derde staat van bestemming over te brengen, indien Nederland eerste lidstaat van doorvoer is.
 
@@ -132,19 +136,19 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 ##### Artikel 4. Vergunningaanvraag
 
-Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), wordt ingediend door:
+Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), wordt ingediend door:
 
-- a. in het geval van [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15): de houder;
+- a. in het geval van [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17): de houder;
 
-- b. in het geval van [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15): de ontvanger;
+- b. in het geval van [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17): de ontvanger;
 
-- c. in het geval van [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15): de beheerder.
+- c. in het geval van [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17): de beheerder.
 
 ##### Artikel 5. Gebruik uniform document
 
 Het uniforme document wordt gebruikt:
 
-- a. door de aanvrager bij het indienen van een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), en
+- a. door de aanvrager bij het indienen van een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), en
 
 - b. door Onze Minister:
 
@@ -152,17 +156,17 @@ Het uniforme document wordt gebruikt:
 
 - 2°. bij het verzenden van een ontvangstbevestiging op grond van dit besluit en
 
-- 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), en op een verzoek om toestemming als bedoeld in de richtlijn.
+- 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), en op een verzoek om toestemming als bedoeld in de richtlijn.
 
 ##### Artikel 6. Taal
 
-1. Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), en een verzoek om toestemming en de daarbij behorende verklaringen en overige bijlagen worden ingevuld onderscheidenlijk verstrekt in een taal die voor Onze Minister aanvaardbaar is.
+1. Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), en een verzoek om toestemming en de daarbij behorende verklaringen en overige bijlagen worden ingevuld onderscheidenlijk verstrekt in een taal die voor Onze Minister aanvaardbaar is.
 
 2. Indien naar het oordeel van het bevoegd gezag van de derde staat of lidstaat van bestemming of een lidstaat van doorvoer een authentieke vertaling van de in het eerste lid bedoelde documenten noodzakelijk is, draagt de houder zorg voor een authentieke vertaling in een voor dat bevoegd gezag aanvaardbare taal.
 
 ##### Artikel 7. Beslistermijn
 
-De beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), wordt genomen binnen zes maanden nadat Onze Minister overeenkomstig dit besluit de datum van ontvangst op het uniforme document heeft aangetekend.
+De beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), wordt genomen binnen zes maanden nadat Onze Minister overeenkomstig dit besluit de datum van ontvangst op het uniforme document heeft aangetekend.
 
 ##### Artikel 8. Uniform document vergezelt overbrenging
 
@@ -170,7 +174,7 @@ Het ingevulde en van de vereiste bijlagen voorziene uniforme document vergezelt 
 
 ##### Artikel 9. Vergunning voor meerdere overbrengingen
 
-Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), betrekking heeft op het meer dan één keer naar, van of via Nederland overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen, kan de vergunning worden verleend voor meerdere keren indien:
+Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), betrekking heeft op het meer dan één keer naar, van of via Nederland overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen, kan de vergunning worden verleend voor meerdere keren indien:
 
 - a. de betrokken stoffen in wezen dezelfde fysische, chemische en radioactieve kenmerken vertonen,
 
@@ -180,7 +184,7 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ##### Artikel 10. Geldigheidsduur vergunning
 
-1. Een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), wordt verleend voor een bij de vergunning te stellen termijn van ten hoogste drie jaar.
+1. Een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), wordt verleend voor een bij de vergunning te stellen termijn van ten hoogste drie jaar.
 
 2. Bij het stellen van de termijn wordt rekening gehouden met de eventuele voorwaarden die de bevoegde gezagsorganen van de andere bij de overbrenging betrokken lidstaten of de derde staat van bestemming aan hun toestemming hebben verbonden.
 
@@ -190,11 +194,11 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ##### Artikel 11. Dagtekening
 
-Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent Onze Minister op dat document de datum van ontvangst aan.
+Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent Onze Minister op dat document de datum van ontvangst aan.
 
 ##### Artikel 12. Beoordeling op volledigheid
 
-1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat van bestemming alsmede het bevoegd gezag van eventuele lidstaten van doorvoer:
+1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat van bestemming alsmede het bevoegd gezag van eventuele lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen en
 
@@ -212,7 +216,9 @@ Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [ar
 
 - b. wettelijke voorschriften inzake het beheer of vervoer van radioactieve afvalstoffen of bestraalde splijtstoffen zich tegen de overbrenging verzetten;
 
-- c. het beheer of vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen onnodige risico’s voor de openbare veiligheid of het milieu met zich meebrengt.
+- c. het beheer of vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen onnodige risico’s voor de openbare veiligheid of het milieu met zich meebrengt;
+
+- d. de radioactieve afvalstoffen of de verbruikte splijtstoffen bestemd zijn voor eindberging in een andere lidstaat en met deze lidstaat geen overeenkomst over het gebruik van een inrichting voor eindberging is gesloten.
 
 2. Indien Onze Minister van het bevoegd gezag van een lidstaat waaraan om toestemming is verzocht, niet binnen de in artikel 9, eerste lid, van de richtlijn bedoelde termijn een beslissing op dat verzoek heeft ontvangen, mag Onze Minister ervan uitgaan dat toestemming is verleend.
 
@@ -228,7 +234,7 @@ Onze Minister zendt de houder onverwijld een afschrift van het bericht van ontva
 
 1. Onze Minister kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -238,7 +244,7 @@ Onze Minister zendt de houder onverwijld een afschrift van het bericht van ontva
 
 ##### Artikel 16. Terugnameplicht
 
-1. Indien Onze Minister overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2009-04-15&g=2009-04-15), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien Onze Minister de houder een kennisgeving als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2009-04-15&g=2009-04-15), heeft gezonden, bepaalt hij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
+1. Indien Onze Minister overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2013-10-17&g=2013-10-17), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien Onze Minister de houder een kennisgeving als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2013-10-17&g=2013-10-17), heeft gezonden, bepaalt hij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
 2. Het eerste lid is niet van toepassing indien ten genoegen van Onze Minister een andere veilige regeling kan worden getroffen.
 
@@ -262,7 +268,7 @@ Onze Minister zendt de houder onverwijld een afschrift van het bericht van ontva
 
 ##### Artikel 18. Beslistermijn; toestemming van rechtswege
 
-1. Onze Minister beslist binnen twee maanden na de datum van de ontvangstbevestiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), en met inachtneming van het tweede lid, omtrent toestemming met betrekking tot de aanvraag om een vergunning. Hij zendt het besluit op een zodanig tijdstip aan het bevoegd gezag van de lidstaat van herkomst dat dit besluit voor het einde van de termijn van twee maanden door dat bevoegd gezag is ontvangen.
+1. Onze Minister beslist binnen twee maanden na de datum van de ontvangstbevestiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), en met inachtneming van het tweede lid, omtrent toestemming met betrekking tot de aanvraag om een vergunning. Hij zendt het besluit op een zodanig tijdstip aan het bevoegd gezag van de lidstaat van herkomst dat dit besluit voor het einde van de termijn van twee maanden door dat bevoegd gezag is ontvangen.
 
 2. Onze Minister kan de in het eerste lid bedoelde termijn met ten hoogste een maand verlengen. Hij doet hiervan mededeling aan het bevoegd gezag van de andere betrokken lidstaten.
 
@@ -288,7 +294,7 @@ Toestemming wordt geweigerd indien:
 
 - a. wettelijke voorschriften inzake het beheer van radioactieve afvalstoffen of bestraalde splijtstoffen;
 
-- b. de grond, genoemd in [artikel 19, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15);
+- b. de grond, genoemd in [artikel 19, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17);
 
 - c. nationale, communautaire of internationale wettelijke voorschriften inzake het vervoer van radioactieve afvalstoffen of bestraalde splijtstoffen.
 
@@ -314,37 +320,37 @@ Toestemming wordt geweigerd indien:
 
 ## Titel 3.3. Overbrenging van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming
 
-##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15)
+##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17)
 
-Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2009-04-15&g=2009-04-15), en met dien verstande dat:
+Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2013-10-17&g=2013-10-17), en met dien verstande dat:
 
-- a. in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), in plaats van «naar Nederland overbrengen» wordt gelezen «via Nederland overbrengen» en in plaats van «in Nederland» wordt gelezen: in de lidstaat van bestemming;
+- a. in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), in plaats van «naar Nederland overbrengen» wordt gelezen «via Nederland overbrengen» en in plaats van «in Nederland» wordt gelezen: in de lidstaat van bestemming;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), in plaats van «en het bevoegd gezag van eventuele lidstaten van doorvoer» wordt gelezen: , het bevoegd gezag van eventuele andere lidstaten van doorvoer en het bevoegd gezag van de lidstaat van bestemming.
+- e. in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), in plaats van «en het bevoegd gezag van eventuele lidstaten van doorvoer» wordt gelezen: , het bevoegd gezag van eventuele andere lidstaten van doorvoer en het bevoegd gezag van de lidstaat van bestemming.
 
 ##### Artikel 24. Toestemming voor terugzending
 
-Indien hij toestemming heeft verleend met betrekking tot een aanvraag om een vergunning, verleent Onze Minister, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=23&z=2009-04-15&g=2009-04-15), in de navolgende situaties toestemming met betrekking tot een aanvraag om een vergunning voor terugzending:
+Indien hij toestemming heeft verleend met betrekking tot een aanvraag om een vergunning, verleent Onze Minister, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=23&z=2013-10-17&g=2013-10-17), in de navolgende situaties toestemming met betrekking tot een aanvraag om een vergunning voor terugzending:
 
 - a. de oorspronkelijke toestemming had betrekking op materiaal dat werd overgebracht voor bewerkings-, verwerkings- of opwerkingsdoeleinden indien de terugzending betrekking heeft op radioactieve afvalstoffen of andere producten die gelijkwaardig zijn aan het oorspronkelijke materiaal na bewerking, verwerking of opwerking, en alle relevante voorschriften zijn nageleefd;
 
-- b. er is sprake van een niet-uitgevoerde overbrenging als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), of het bevoegd gezag van een andere betrokken lidstaat beslist op grond van artikel 12, eerste lid, van de richtlijn dat de overbrenging niet kan worden uitgevoerd, indien de terugzending op dezelfde voorwaarden en met dezelfde specificaties wordt verricht.
+- b. er is sprake van een niet-uitgevoerde overbrenging als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), of het bevoegd gezag van een andere betrokken lidstaat beslist op grond van artikel 12, eerste lid, van de richtlijn dat de overbrenging niet kan worden uitgevoerd, indien de terugzending op dezelfde voorwaarden en met dezelfde specificaties wordt verricht.
 
 ## Titel 3.4. Overbrenging van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland
 
-##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2009-04-15&g=2009-04-15)
+##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2013-10-17&g=2013-10-17)
 
-Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2009-04-15&g=2009-04-15) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2009-04-15&g=2009-04-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2009-04-15&g=2009-04-15), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2009-04-15&g=2009-04-15) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2009-04-15&g=2009-04-15), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15).
+Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2013-10-17&g=2013-10-17) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2013-10-17&g=2013-10-17) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2013-10-17&g=2013-10-17), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2013-10-17&g=2013-10-17) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2013-10-17&g=2013-10-17), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 26. Beoordeling op volledigheid; ontvangstbevestiging
 
-1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -372,7 +378,7 @@ Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bes
 
 ##### Artikel 28. Vergunningaanvraag; terugnameplicht
 
-De ontvanger doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat hij een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=33&z=2009-04-15&g=2009-04-15).
+De ontvanger doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat hij een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=33&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 29. Dagtekening
 
@@ -382,7 +388,7 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=29&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=29&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -426,13 +432,13 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 1. De ontvanger zendt Onze Minister binnen 15 dagen nadat hij de radioactieve afvalstoffen of de bestraalde splijtstoffen heeft ontvangen, een bericht van ontvangst.
 
-2. Onze Minister stuurt onverwijld een afschrift van het bericht van ontvangst aan de in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=31&z=2009-04-15&g=2009-04-15), genoemde bevoegde gezagsorganen.
+2. Onze Minister stuurt onverwijld een afschrift van het bericht van ontvangst aan de in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=31&z=2013-10-17&g=2013-10-17), genoemde bevoegde gezagsorganen.
 
 ##### Artikel 33. Niet-uitgevoerde overbrenging
 
 1. Onze Minister kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -446,35 +452,35 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in eerstgenoemde lidstaat, op volledigheid te beoordelen, beoordeelt Onze Minister of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15)
+##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2009-04-15&g=2009-04-15), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2013-10-17&g=2013-10-17), en met dien verstande dat:
 
-- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2009-04-15&g=2009-04-15), en [22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), in plaats van «de lidstaat van herkomst» wordt gelezen: de lidstaat van bestemming;
+- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2013-10-17&g=2013-10-17), en [22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), in plaats van «de lidstaat van herkomst» wordt gelezen: de lidstaat van bestemming;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
+- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
 
-- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), in plaats van «houder» wordt gelezen: ontvanger.
+- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), in plaats van «houder» wordt gelezen: ontvanger.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2009-04-15&g=2009-04-15) is van overeenkomstige toepassing.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2013-10-17&g=2013-10-17) is van overeenkomstige toepassing.
 
 ## Titel 4.3. Overbrenging van Nederland naar de derde staat van bestemming
 
 ##### Artikel 36. Dagtekening
 
-Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent Onze Minister op dat document de datum van ontvangst aan.
+Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent Onze Minister op dat document de datum van ontvangst aan.
 
 ##### Artikel 37. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -492,7 +498,7 @@ Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, 
 
 ##### Artikel 38. Verzoek om toestemming aan derde staat van bestemming
 
-Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onverwijld het bevoegd gezag van de derde staat van bestemming onder toezending van het uniforme document toestemming te verlenen met betrekking tot de aanvraag om een vergunning.
+Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onverwijld het bevoegd gezag van de derde staat van bestemming onder toezending van het uniforme document toestemming te verlenen met betrekking tot de aanvraag om een vergunning.
 
 ##### Artikel 39. Beslissing op vergunningaanvraag
 
@@ -508,7 +514,9 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 - e. wettelijke voorschriften inzake het beheer of vervoer van radioactieve afvalstoffen of bestraalde splijtstoffen zich tegen de overbrenging verzetten of
 
-- f. het beheer of vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen onnodige risico’s voor de openbare veiligheid of het milieu met zich meebrengt.
+- f. het beheer of vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen onnodige risico’s voor de openbare veiligheid of het milieu met zich meebrengt;
+
+- g. indien de radioactieve afvalstoffen of de verbruikte splijtstoffen bestemd zijn voor eindberging in een derde staat en met deze derde staat geen overeenkomst over het gebruik van een inrichting voor eindberging is gesloten.
 
 2. Indien Onze Minister van het bevoegd gezag van een lidstaat waaraan om toestemming is verzocht, niet binnen de in artikel 9, eerste lid, van de richtlijn bedoelde termijn een beslissing op dat verzoek heeft ontvangen, mag Onze Minister ervan uitgaan dat toestemming is verleend.
 
@@ -532,7 +540,7 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 1. Onze Minister kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -542,9 +550,9 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 ##### Artikel 42. Terugnameplicht
 
-1. Indien Onze Minister overeenkomstig [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2009-04-15&g=2009-04-15), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien Onze Minister de houder een kennisgeving als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2009-04-15&g=2009-04-15), heeft gezonden, bepaalt hij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
+1. Indien Onze Minister overeenkomstig [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2013-10-17&g=2013-10-17), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien Onze Minister de houder een kennisgeving als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2013-10-17&g=2013-10-17), heeft gezonden, bepaalt hij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
-2. [Artikel 16, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=16&z=2009-04-15&g=2009-04-15), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=16&z=2013-10-17&g=2013-10-17), is van overeenkomstige toepassing.
 
 ## Titel 4.4. Overbrenging van de lidstaat van herkomst via Nederland naar de derde staat van bestemming
 
@@ -552,19 +560,19 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt Onze Minister of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15)
+##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2009-04-15&g=2009-04-15), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2013-10-17&g=2013-10-17), en met dien verstande dat:
 
-- a. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- a. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- b. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- b. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- c. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), uitsluitend wordt gezonden aan het bevoegd gezag van de lidstaat van herkomst.
+- d. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), uitsluitend wordt gezonden aan het bevoegd gezag van de lidstaat van herkomst.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2009-04-15&g=2009-04-15) is van overeenkomstige toepassing.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2013-10-17&g=2013-10-17) is van overeenkomstige toepassing.
 
 ## Titel 4.5. Overbrenging van de derde staat van herkomst via Nederland naar de derde staat van bestemming
 
@@ -572,7 +580,7 @@ Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag o
 
 ##### Artikel 45. Vergunningaanvraag; terugnameplicht
 
-De beheerder doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid,aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat de in de derde staat van bestemming gevestigde ontvanger een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=50&z=2009-04-15&g=2009-04-15).
+De beheerder doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid,aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat de in de derde staat van bestemming gevestigde ontvanger een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=50&z=2013-10-17&g=2013-10-17).
 
 ##### Artikel 46. Dagtekening
 
@@ -582,7 +590,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer andere lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=46&z=2009-04-15&g=2009-04-15) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de andere lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=46&z=2013-10-17&g=2013-10-17) bedoelde dagtekening verzoekt Onze Minister onder toezending van het uniforme document onverwijld het bevoegd gezag van de andere lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -600,7 +608,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 ##### Artikel 48. Beslissing op vergunningaanvraag
 
-1. Op de beslissing op de aanvraag om een vergunning is [artikel 39, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2009-04-15&g=2009-04-15), van overeenkomstige toepassing.
+1. Op de beslissing op de aanvraag om een vergunning is [artikel 39, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2013-10-17&g=2013-10-17), van overeenkomstige toepassing.
 
 2. Aan de vergunning kunnen met het oog op het vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen voorschriften worden verbonden. Indien toestemming onder voorwaarden is verleend, worden aan de vergunning in elk geval de voorschriften verbonden die gelet op die voorwaarden noodzakelijk zijn.
 
@@ -616,7 +624,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 1. Onze Minister kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2009-04-15&g=2009-04-15), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2013-10-17&g=2013-10-17), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -630,23 +638,23 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 Indien het bevoegd gezag van de eerste lidstaat van doorvoer verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt Onze Minister of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15)
+##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2009-04-15&g=2009-04-15) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2009-04-15&g=2009-04-15), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2013-10-17&g=2013-10-17) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2013-10-17&g=2013-10-17), en met dien verstande dat:
 
-- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2009-04-15&g=2009-04-15), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), in plaats van «lidstaat van herkomst» wordt gelezen: eerste lidstaat van doorvoer;
+- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2013-10-17&g=2013-10-17), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), in plaats van «lidstaat van herkomst» wordt gelezen: eerste lidstaat van doorvoer;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2009-04-15&g=2009-04-15), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2013-10-17&g=2013-10-17), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2009-04-15&g=2009-04-15), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2013-10-17&g=2013-10-17), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
+- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
 
-- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2009-04-15&g=2009-04-15), in plaats van «houder» wordt gelezen: beheerder.
+- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2013-10-17&g=2013-10-17), in plaats van «houder» wordt gelezen: beheerder.
 
-2. De [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2009-04-15&g=2009-04-15) en [39, eerste lid, aanhef en onder b tot en met d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2009-04-15&g=2009-04-15), zijn van overeenkomstige toepassing.
+2. De [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2013-10-17&g=2013-10-17) en [39, eerste lid, aanhef en onder b tot en met d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2013-10-17&g=2013-10-17), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Slotbepalingen
 
