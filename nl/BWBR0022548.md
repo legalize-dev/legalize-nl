@@ -4,7 +4,7 @@ identifier: "BWBR0022548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-19"
-last_updated: "2011-12-20"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022548"
 soort: "ministeriele-regeling"
@@ -70,11 +70,13 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter deelt het Avt in commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.
 
-4. De voorzitter en de leden van het Avt worden benoemd door de Minister voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk.
+4. De voorzitter en de overige leden van het Avt worden benoemd door de Minister voor een periode van ten hoogste vier jaar. Herbenoeming is eenmaal mogelijk voor een aansluitende periode van ten hoogste vier jaren.
 
 5. Wanneer leden van het Avt vervangen moeten worden, brengt het aan de Minister voordrachten uit voor de benoeming van de nieuwe leden. De Minister benoemt de leden na kennisneming van de voordracht.
 
-6. In het Avt kunnen plaatsvervangende leden worden benoemd voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het vijfde lid is van overeenkomstige toepassing.
+6. In het Avt kunnen plaatsvervangende leden worden benoemd voor een periode van vier jaar, ongeacht of zij eerder zijn benoemd en herbenoemd als lid. Herbenoeming kan eenmaal en voor ten hoogste vier jaren aansluitend plaatsvinden. Het vijfde lid is van overeenkomstige toepassing.
+
+7. De periode dat iemand aan het Avt is verbonden is maximaal twaalf jaar.
 
 ##### Artikel 3. Ontslag
 
@@ -86,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 1. Het Avt heeft tot taak: het inhoudelijk beoordelen van alle verlofaanvragen inzake ter beschikking gestelden of anderszins verpleegden die in inrichtingen waar tbs met verpleging ten uitvoer wordt gelegd verblijven en daarover gemotiveerd advies uitbrengen aan de Minister.
 
-2. De procedurele toetsing van de verlofaanvragen bedoeld in het eerste lid, vindt plaats door DJI volgens de richtlijnen van het Verloftoetsingskader (Staatscourant nr. 123, 29 juni 2007).
+2. De procedurele toetsing van de verlofaanvragen bedoeld in het eerste lid, vindt plaats door DJI volgens de richtlijnen van het [Verlofregeling TBS](https://wetten.overheid.nl/jci1.3:c:BWBR0029361) (Staatscourant nr. 21597, 31 december 2010).
 
 ##### Artikel 5. Bevoegdheden
 
