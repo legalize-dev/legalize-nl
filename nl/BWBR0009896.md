@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2012-10-01"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -75,5 +75,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 1a
 
 Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a) is uitgezonderd: de Commissie advies- en verwijspunt klokkenluiden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1b
+
+Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) zijn uitgezonderd: regionale commissies voor de toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3), voor zover het betreft beoordelingen op grond van [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=8).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
