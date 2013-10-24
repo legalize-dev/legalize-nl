@@ -4,7 +4,7 @@ identifier: "BWBR0028773"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-08"
+last_updated: "2013-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028773"
 soort: "ministeriele-regeling-BES"
@@ -50,6 +50,6 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing aanvullende documenten i
 
 ##### Artikel 3
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2014.
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2019, tenzij het bij koninklijke boodschap van 13 oktober 2012 ingediende voorstel van rijkswet tot wijziging van de Paspoortwet in verband met een andere status van de Nederlandse identiteitskaart, het verlengen van de geldigheidsduur van reisdocumenten en Nederlandse identiteitskaarten, een andere grondslag voor de heffing van rechten door burgemeesters en gezaghebbers en het niet langer opslaan van vingerafdrukken in de reisdocumentenadministratie (Kamerstukken 33 440 (R 1990)) tot rijkswet is of wordt verheven en voor of op die datum in werking treedt, in welk geval deze regeling vervalt met ingang van de dag nadat tien jaren zijn verstreken na de datum van inwerkingtreding van die rijkswet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
