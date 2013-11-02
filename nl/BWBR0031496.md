@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2013-05-02"
+last_updated: "2013-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -94,13 +94,13 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 5
 
-1. Het is verboden om gespecialiseerde vorming of opleiding die kan bijdragen aan proliferatiegevoelige activiteiten van Iran en aan de ontwikkeling van systemen voor de overbrenging van kernwapens te verstrekken aan Iraanse onderdanen, die niet beschikken over een met het oog op deze verstrekking door de Minister van Onderwijs, Cultuur en Wetenschap verleende ontheffing of in afwijking van de aan deze ontheffing verleende beperkingen. Het verbod, bedoeld in de eerste volzin, strekt zich niet uit tot bacheloropleidingen, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+1. Het is verboden om gespecialiseerde kennis die rechtstreeks of middellijk bijdraagt of kan bijdragen aan proliferatiegevoelige activiteiten van Iran of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Iran aan te bieden aan personen die niet beschikken over een ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap.
 
-2. Een ontheffing wordt geweigerd, indien de Minister van Onderwijs, Cultuur en Wetenschap het risico dat het aanbieden van de bedoelde vorming of opleiding aan de Iraanse onderdaan voor wie de ontheffing is bestemd, zal bijdragen aan proliferatiegevoelige activiteiten van Iran of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Iran, onaanvaardbaar groot acht.
+2. Het verbod, bedoeld in het eerste lid, strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
-3. Een ontheffing op grond van het eerste lid kan onder beperkingen worden verleend.
+3. In de bij deze regeling behorende bijlage wordt vermeld op welke gebieden van onderwijs en onderzoek het verbod, bedoeld in het eerste lid, in elk geval betrekking heeft.
 
-4. In de bij deze regeling behorende bijlage wordt bepaald op welke gebieden van onderwijs en onderzoek het verbod, bedoeld in het eerste lid, in elk geval betrekking heeft.
+4. De Minister van Onderwijs, Cultuur en Wetenschap verleent de gevraagde ontheffing tenzij hij het risico onaanvaardbaar groot acht dat het aanbieden van de bedoelde kennis aan de persoon voor wie de ontheffing is gevraagd, zal bijdragen aan proliferatiegevoelige activiteiten van Iran of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Iran.
 
 ##### Artikel 6
 
@@ -115,5 +115,25 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ### Natuurwetenschappen
 
 ### Techniek
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2013-11-02&g=2013-11-02).
+
+## Bijlage. bij Sanctieregeling Iran 2012
+
+- –. Physics of Nuclear reactors (TU Delft);
+
+- –. Gespecialiseerde kennis over de inrichting en de werking van de reactorhal (Hoger Onderwijs Reactor, TU Delft);
+
+- –. Hypersonic aerodynamics experimenteel en theoretisch onderzoek (Luchtvaart- en Ruimtevaarttechniek, TU Delft);
+
+- –. Guidance Navigation & Control systemen, software en simulaties (Luchtvaart- en Ruimtevaarttechniek, TU Delft);
+
+- –. Re-entry technology (Luchtvaart- en Ruimtevaarttechniek, TU Delft);
+
+- –. Studentenproject DARE – Stratos (Luchtvaart- en Ruimtevaarttechniek, TU Delft).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
