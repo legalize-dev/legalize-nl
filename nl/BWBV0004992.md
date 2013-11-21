@@ -4,7 +4,7 @@ identifier: "BWBV0004992"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-11-21"
-last_updated: "1989-11-14"
+last_updated: "2013-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004992"
 soort: "verdrag"
@@ -92,9 +92,9 @@ Aanvaarden dit Statuut.
 
 Leden van de Organisatie zijn:
 
-- (a). de Staten die lid zijn van de Organisatie en die dit Statuut overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=X&artikel=34&z=1989-11-14&g=1989-11-14) hebben aanvaard, of op welke de bepalingen van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=X&artikel=35&z=1989-11-14&g=1989-11-14) van toepassing zijn
+- (a). de Staten die lid zijn van de Organisatie en die dit Statuut overeenkomstig artikel 34 per 21 november 2013: [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=X&artikel=29&z=2013-11-21&g=2013-11-21) hebben aanvaard, of op welke de bepalingen van artikel 35 per 21 november 2013: [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=X&artikel=30&z=2013-11-21&g=2013-11-21) van toepassing zijn
 
-- (b). andere Staten die aangetoond hebben dat zij belang hebben bij het beginsel van het vrije verkeer van personen, en die zich verbinden althans in de administratieve kosten van de Organisatie financieel bij te dragen; de omvang van de bijdrage zal worden overeengekomen tussen de Raad en de betrokken Staat onder voorwaarde dat de Raad een beslissing neemt met een tweederde meerderheid van stemmen en dat deze Staat dit Statuut aanvaardt.
+- (b). andere Staten die aangetoond hebben dat zij belang hebben bij het beginsel van het vrije verkeer van personen, en die zich verbinden althans in de administratieve kosten van de Organisatie financieel bij te dragen; de omvang van de bijdrage zal worden overeengekomen tussen de Raad en de betrokken Staat onder voorwaarde dat de Raad een beslissing neemt met een tweederde meerderheid van stemmen en dat deze Staat dit Statuut aanvaardt in overeenstemming met zijn constitutionele voorschriften.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ Een Lidstaat kan mededeling doen dat hij zich uit de Organisatie terugtrekt met 
 
 ##### Artikel 4
 
-1. Indien een Lidstaat gedurende twee opeenvolgende boekjaren niet aan zijn financiële verplichtingen tegenover de Organisatie voldoet, kan de Raad door een met een tweederde meerderheid van stemmen te nemen beslissing het stemrecht en alle of een deel van de diensten waarop deze Lidstaat recht heeft, opschorten. De Raad is bevoegd dit stemrecht en de verlening van deze diensten te herstellen door een met eenvoudige meerderheid van stemmen te nemen beslissing.
+1. Een Lidstaat die achterstallig is met de betaling van zijn financiële bijdragen aan de Organisatie, heeft geen stemrecht indien het achterstallige bedrag gelijk is aan of hoger is dan het bedrag van de bijdragen die over de twee voorgaande jaren door hem verschuldigd zijn. Het verlies van stemrecht wordt evenwel van kracht een jaar nadat de Raad ervan in kennis is gesteld dat het betrokken lid in zodanige mate achterstallig is dat dit het verlies van stemrecht tot gevolg heeft, indien de Lidstaat op dat tijdstip nog in dezelfde mate achterstallig is. De Raad kan niettemin door een met gewone meerderheid van stemmen te nemen beslissing het stemrecht van een dergelijke Lidstaat handhaven of herstellen, indien hij ervan overtuigd is dat het uitblijven van de betaling te wijten is aan omstandigheden buiten de macht van de Lidstaat.
 
 2. Een Lidstaat kan als lid worden geschorst door een met een tweederde meerderheid van stemmen te nemen beslissing van de Raad, indien hij bij voortduring inbreuk maakt op de beginselen van dit Statuut. De Raad is bevoegd het lidmaatschap te herstellen door een met eenvoudige meerderheid van stemmen te nemen beslissing.
 
@@ -114,9 +114,7 @@ Als organen van de Organisatie worden ingesteld:
 
 - (a). de Raad;
 
-- (b). het Uitvoerend Comité;
-
-- (c). de Administratie.
+- (b). de Administratie.
 
 ### HOOFDSTUK IV. DE RAAD
 
@@ -124,9 +122,9 @@ Als organen van de Organisatie worden ingesteld:
 
 De functies van de Raad, naast die welke in andere bepalingen van dit Statuut worden genoemd, zijn:
 
-- (a). het bepalen van het beleid van de Organisatie;
+- (a). het bepalen, onderzoeken en beoordelen van het beleid, de programma's en de activiteiten van de Organisatie;
 
-- (b). het bestuderen van de rapporten en het goedkeuren en leiden van de werkzaamheden van het Uitvoerend Comité;
+- (b). het bestuderen van de rapporten en het goedkeuren en leiden van de werkzaamheden van hulporganen;
 
 - (c). het bestuderen van de rapporten en het goedkeuren en leiden van de werkzaamheden van de Directeur-Generaal;
 
@@ -154,15 +152,13 @@ De Raad kan, op hun verzoek, niet-Lidstaten en gouvernementele of niet-gouvernem
 
 - (a). een derde van zijn leden;
 
-- (b). het Uitvoerend Comité;
-
-- (c). de Directeur-Generaal of de Voorzitter van de Raad, in dringende gevallen.
+- (b). de Directeur-Generaal of de Voorzitter van de Raad, in dringende gevallen.
 
 3. De Raad kiest aan het begin van iedere gewone zitting een Voorzitter en andere functionarissen voor een ambtstermijn van één jaar.
 
 ##### Artikel 10
 
-De Raad kan die subcommissies instellen die voor een juiste uitoefening van zijn functies noodzakelijk zijn.
+De Raad kan die hulporganen instellen die voor een juiste uitoefening van zijn functies noodzakelijk zijn.
 
 ##### Artikel 11
 
@@ -172,73 +168,19 @@ De Raad stelt zijn eigen huishoudelijk reglement vast.
 
 ##### Artikel 12
 
-De functies van het Uitvoerend Comité zijn:
-
-- (a). het onderzoeken en beoordelen van het beleid, de programma's en de activiteiten van de Organisatie, van de jaarverslagen van de Directeur-Generaal en van eventuele bijzondere rapporten;
-
-- (b). het onderzoeken van alle financiële of budgettaire vraagstukken die binnen de bevoegdheid van de Raad vallen;
-
-- (c). het bestuderen van alle vraagstukken die uitdrukkelijk door de Raad aan het Comité zijn voorgelegd, met inbegrip van de herziening van de begroting, en het nemen van alle ten aanzien daarvan nodig geachte maatregelen;
-
-- (d). het adviseren van de Directeur-Generaal ten aanzien van alle aangelegenheden die deze aan het Comité voorlegt;
-
-- (e). het nemen, in de tijdvakken tussen de zittingen van de Raad, van dringende beslissingen inzake aangelegenheden die binnen de bevoegdheid van de Raad vallen, welke beslissingen tijdens zijn volgende zitting ter goedkeuring aan de Raad worden voorgelegd.
-
-- (f). het eigener beweging uitbrengen van advies of doen van voorstellen aan de Raad of de Directeur-Generaal;
-
-- (g). het toezenden van verslagen en/of aanbevelingen aan de Raad inzake behandelde aangelegenheden.
+De Administratie bestaat uit een Directeur-Generaal, een Plaatsvervangend Directeur-Generaal en uit door de Raad vast te stellen personeel.
 
 ##### Artikel 13
 
-1. Het Uitvoerend Comité bestaat uit vertegenwoordigers van negen Lidstaten. Dit aantal kan door een met een tweederde meerderheid van stemmen te nemen beslissing van de Raad worden verhoogd, mits het niet groter wordt dan een derde van het totale aantal leden van de Organisatie.
+1. De Directeur-Generaal en de Plaatsvervangend Directeur-Generaal worden gekozen door de Raad met een tweederde meerderheid van stemmen en kunnen worden herkozen voor één extra ambtstermijn. Hun ambtstermijn is gewoonlijk vijf jaar, maar kan in uitzonderlijke gevallen korter zijn, als de Raad zulks met een tweederde meerderheid van stemmen beslist. Zij verrichten hun werkzaamheden op grond van door de Raad goedgekeurde contracten, die namens de Organisatie worden ondertekend door de Voorzitter van de Raad.
 
-2. Deze Lidstaten worden door de Raad voor twee jaar gekozen en zijn herkiesbaar.
-
-3. Elk lid van het Uitvoerend Comité heeft één vertegenwoordiger en zoveel plaatsvervangers en adviseurs als het nodig oordeelt.
-
-4. Elk lid van het Uitvoerend Comité heeft één stem.
+2. De Directeur-Generaal is verantwoording verschuldigd aan de Raad. De Directeur-Generaal oefent de administratieve en bestuurlijke functies van de Organisatie uit in overeenstemming met dit Statuut en met het beleid en de beslissingen van de Raad en de door deze vastgestelde regels en voorschriften. De Directeur-Generaal formuleert voorstellen met het oog op door de Raad te nemen maatregelen.
 
 ##### Artikel 14
 
-1. Het Uitvoerend Comité komt ten minste éénmaal per jaar bijeen.
-
-Indien nodig komt het bijeen voor de uitvoering van zijn functies op verzoek van:
-
-- (a). zijn Voorzitter;
-
-- (b). de Raad;
-
-- (c). de Directeur-Generaal na overleg met de Voorzitter van de Raad;
-
-- (d). een meerderheid van zijn leden.
-
-2. Het Uitvoerend Comité kiest uit zijn leden een Voorzitter en een Vice-Voorzitter voor een ambtstermijn van één jaar.
-
-##### Artikel 15
-
-Onder voorbehoud van toetsing door de Raad kan het Uitvoerend Comité de subcommissies instellen die voor een juiste uitoefening van zijn functies noodzakelijk zijn.
-
-##### Artikel 16
-
-Het Uitvoerend Comité stelt zijn eigen huishoudelijk reglement vast.
-
-### HOOFDSTUK VI. ADMINISTRATIE
-
-##### Artikel 17
-
-De Administratie bestaat uit een Directeur-Generaal, een Plaatsvervangend Directeur-Generaal en uit door de Raad vast te stellen personeel.
-
-##### Artikel 18
-
-1. De Directeur-Generaal en de Plaatsvervangend Directeur-Generaal worden gekozen door de Raad met een tweederde meerderheid van stemmen en zijn herkiesbaar. Hun ambtstermijn is gewoonlijk vijf jaar, maar kan in uitzonderlijke gevallen korter zijn, als de Raad zulks met een tweederde meerderheid van stemmen beslist. Zij verrichten hun werkzaamheden op grond van door de raad goedgekeurde contracten, die namens de Organisatie worden ondertekend door de Voorzitter van de Raad.
-
-2. De Directeur-Generaal is verantwoording verschuldigd aan de Raad en het Uitvoerend Comité. De Directeur-Generaal oefent de administratieve en bestuurlijke functies van de Organisatie uit in overeenstemming met dit Statuut en met het beleid en de beslissingen van de Raad en het Uitvoerend Comité en de door deze vastgestelde regels en voorschriften. De Directeur-Generaal formuleert voorstellen met het oog op door de Raad te nemen maatregelen.
-
-##### Artikel 19
-
 De Directeur-Generaal benoemt het personeel van de Administratie in overeenstemming met de personeelsvoorschriften die door de Raad zijn aangenomen.
 
-##### Artikel 20
+##### Artikel 15
 
 1. Bij de vervulling van hun taak vragen de Directeur-Generaal, de Plaatsvervangend Directeur-Generaal en het personeel geen instructies aan, noch ontvangen zij instructies van enige Staat of van enige autoriteit buiten de Organisatie. Zij onthouden zich van elke handeling die hun positie als internationale functionarissen nadelig zou kunnen beïnvloeden.
 
@@ -246,57 +188,55 @@ De Directeur-Generaal benoemt het personeel van de Administratie in overeenstemm
 
 3. Geschiktheid, bekwaamheid en onkreukbaarheid zijn de noodzakelijke maatstaven bij het aannemen en het in dienst hebben van het personeel dat, behalve in bijzondere omstandigheden, wordt aangeworven uit onderdanen van Lidstaten van de Organisatie, met inachtneming van het beginsel van een billijke geografische verdeling.
 
-##### Artikel 21
+##### Artikel 16
 
-De Directeur-Generaal is aanwezig, of wordt vertegenwoordigd door de Plaatsvervangend Directeur-Generaal of door een andere aangewezen functionaris, bij alle zittingen van de Raad, van het Uitvoerend Comité en van alle subcommissies. De Directeur-Generaal of de aangewezen vertegenwoordiger kan aan de besprekingen deelnemen, maar heeft geen stemrecht.
+De Directeur-Generaal is aanwezig, of wordt vertegenwoordigd door de Plaatsvervangend Directeur-Generaal of door een andere aangewezen functionaris, bij alle zittingen van de Raad, van alle hulporganen. De Directeur-Generaal of de aangewezen vertegenwoordiger kan aan de besprekingen deelnemen, maar heeft geen stemrecht.
 
-##### Artikel 22
+### HOOFDSTUK VI. ADMINISTRATIE
 
-Tijdens de gewone zitting van de Raad na het einde van elk boekjaar brengt de Directeur-Generaal, door bemiddeling van het Uitvoerend Comité, verslag uit aan de Raad over het werk van de Organisatie, waarbij een volledig overzicht van haar activiteiten gedurende het afgelopen jaar wordt gegeven.
+##### Artikel 17
 
-### HOOFDSTUK VII. ZETEL
+Tijdens de gewone zitting van de Raad na het einde van elk boekjaar brengt de Directeur-Generaal verslag uit aan de Raad over het werk van de Organisatie, waarbij een volledig overzicht van haar activiteiten gedurende het afgelopen jaar wordt gegeven.
 
-##### Artikel 23
+##### Artikel 18
 
 1. De Organisatie is gevestigd te Genève. De Raad kan met een tweederde meerderheid van stemmen besluiten de zetel elders te vestigen.
 
-2. De bijeenkomsten van de Raad en van het Uitvoerend Comité worden gehouden in Genève, tenzij tweederde van de leden van de Raad, onderscheidenlijk van het Uitvoerend Comité, ermede heeft ingestemd elders bijeen te komen.
+2. De bijeenkomsten van de Raad worden gehouden in Genève, tenzij tweederde van de leden van de Raad ermede heeft ingestemd elders bijeen te komen.
 
-### HOOFDSTUK VIII. FINANCIËN
+##### Artikel 19
 
-##### Artikel 24
+De Directeur-Generaal legt aan de Raad een jaarlijkse begroting voor, die de kosten van administratie en de werkzaamheden en de verwachte inkomsten van de Organisatie omvat, alsmede aanvullende voorzieningen indien deze nodig mochten zijn, en de jaarrekeningen of bijzondere rekeningen van de Organisatie.
 
-De Directeur-Generaal legt, door bemiddeling van het Uitvoerend Comité, aan de Raad een jaarlijkse begroting voor, die de kosten van administratie en de werkzaamheden en de verwachte inkomsten van de Organisatie omvat, alsmede aanvullende voorzieningen indien deze nodig mochten zijn, en de jaarrekeningen of bijzondere rekeningen van de Organisatie.
-
-##### Artikel 25
+##### Artikel 20
 
 1. De behoeften van de Organisatie worden als volgt gefinancierd:
 
 - (a). wat het administratieve deel van de begroting betreft, door geldelijke bijdragen van de Lidstaten, die verschuldigd zijn aan het begin van het boekjaar waarop zij betrekking hebben, en die onverwijld dienen te worden voldaan;
 
-- (b). wat het deel van de begroting betreft dat betrekking heeft op de werkzaamheden door bijdragen in geld, in natura of in diensten van de Lidstaten, van andere Staten, gouvernementele of niet-gouvernementele internationale organisaties, andere rechts-personen of personen, die zo spoedig mogelijk en volledig worden voldaan vóór het verstrijken van het boekjaar waarop zij betrekking hebben.
+- (b). wat het deel van de begroting betreft dat betrekking heeft op de werkzaamheden door bijdragen in geld, in natura of in diensten van de Lidstaten, van andere Staten, gouvernementele of niet-gouvernementele internationale organisaties, andere rechtspersonen of personen, die zo spoedig mogelijk en volledig worden voldaan vóór het verstrijken van het boekjaar waarop zij betrekking hebben.
 
 2. De Lidstaten dragen voor het administratieve deel van de begroting van de Organisatie bij in een omvang die wordt overeengekomen tussen de Raad en de betrokken Lidstaat.
 
 3. De bijdragen in de kosten van de werkzaamheden van de Organisatie zijn vrijwillig en ieder die bijdraagt voor het deel van de begroting dat betrekking heeft op de werkzaamheden, kan met de Organisatie de voorwaarden overeenkomen, verenigbaar met de doeleinden en functies van de Organisatie, waaronder zijn of haar bijdragen kunnen worden gebruikt.
 
-- (a). Alle administratieve kosten ter plaatse van de zetel en alle andere administratieve kosten, behalve die welke worden gemaakt ter uitoefening van de functies, genoemd in [artikel 1, eerste lid, letters (c) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=I&artikel=1&z=1989-11-14&g=1989-11-14), komen ten laste van het administratieve deel van de begroting;
+- (a). Alle administratieve kosten ter plaatse van de zetel en alle andere administratieve kosten, behalve die welke worden gemaakt ter uitoefening van de functies, genoemd in [artikel 1, eerste lid, letters (c) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=I&artikel=1&z=2013-11-21&g=2013-11-21), komen ten laste van het administratieve deel van de begroting;
 
-- (b). alle kosten van de werkzaamheden en die administratieve kosten welke worden gemaakt ter uitoefening van de functies, genoemd in [artikel 1, eerste lid, letter (c) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=I&artikel=1&z=1989-11-14&g=1989-11-14), komen ten laste van het deel van de begroting dat betrekking heeft op de werkzaamheden.
+- (b). alle kosten van de werkzaamheden en die administratieve kosten welke worden gemaakt ter uitoefening van de functies, genoemd in [artikel 1, eerste lid, letter (c) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=I&artikel=1&z=2013-11-21&g=2013-11-21), komen ten laste van het deel van de begroting dat betrekking heeft op de werkzaamheden.
 
 5. De raad ziet er op toe dat het beheer op een doeltreffende en economisch verantwoorde wijze wordt gevoerd.
 
-##### Artikel 26
+##### Artikel 21
 
 Het financieel reglement wordt vastgesteld door de Raad.
 
-### HOOFDSTUK IX. RECHTSPOSITIE
-
-##### Artikel 27
+##### Artikel 22
 
 De Organisatie bezit volledige rechtspersoonlijkheid. Zij bezit de wettelijke bevoegdheden die nodig zijn voor de uitoefening van haar functies en de verwezenlijking van haar doeleinden, en in het bijzonder de bevoegdheid om, in overeenstemming met de wetten van de Staat: (a) overeenkomsten te sluiten; (b) roerende en onroerende goederen te verwerven en er over te beschikken; (c) particuliere en openbare gelden te ontvangen en uit te geven; (d) in rechte op te treden.
 
-##### Artikel 28
+### HOOFDSTUK VII. ZETEL
+
+##### Artikel 23
 
 1. De Organisatie geniet de voorrechten en immuniteiten die nodig zijn voor de uitoefening van haar functies en de verwezenlijking van haar doeleinden.
 
@@ -304,25 +244,55 @@ De Organisatie bezit volledige rechtspersoonlijkheid. Zij bezit de wettelijke be
 
 3. Deze voorrechten en immuniteiten worden omschreven in overeenkomsten tussen de Organisatie en de betrokken Staten of vastgesteld door middel van andere door deze Staten genomen maatregelen.
 
+### HOOFDSTUK VIII. FINANCIËN
+
+##### Artikel 24
+
+1. Tenzij uitdrukkelijk anders is bepaald in dit Statuut of in door de Raad uitgevaardigde regels, worden alle besluiten van de Raad en van alle hulporganen met gewone meerderheid van stemmen genomen.
+
+2. Alle meerderheden, voorgeschreven in dit Statuut of in de door de Raad uitgevaardigde regels, hebben betrekking op het aantal aanwezige leden die hun stem uitbrengen.
+
+3. Een stemming is alleen geldig indien de meerderheid van de leden van de Raad of van de betrokken hulporganen aanwezig is.
+
+##### Artikel 25
+
+1. De teksten van voorgestelde wijzigingen van dit Statuut dienen door de Directeur-Generaal minstens drie maanden voordat zij door de Raad zullen worden besproken, aan de Regeringen van de Lidstaten te worden toegezonden.
+
+2. Wijzigingen die fundamentele veranderingen in het Statuut van de Organisatie of nieuwe verplichtingen voor de lidstaten inhouden worden van kracht wanneer zij door tweederde van de leden van de Raad zijn aangenomen en door tweederde van de lidstaten zijn aanvaard in overeenstemming met hun onderscheiden constitutionele procedures. Of een wijziging een fundamentele verandering in het Statuut inhoudt, wordt met een tweederde meerderheid van stemmen beslist door de Raad. Andere wijzigingen worden van kracht wanneer zij met een tweederde meerderheid van stemmen te nemen beslissing van de Raad worden aangenomen;
+
+##### Artikel 26
+
+Ieder geschil betreffende de uitlegging of toepassing van dit Statuut, dat niet door middel van onderhandelingen of door een met een tweederde meerderheid van stemmen genomen besluit van de Raad wordt geregeld, wordt overeenkomstig het Statuut van het Internationale Gerechtshof voorgelegd aan dit Hof, tenzij de betrokken Lidstaten binnen een redelijke termijn overeenstemming bereiken over een andere wijze van regeling van dit geschil.
+
+### HOOFDSTUK IX. RECHTSPOSITIE
+
+##### Artikel 27
+
+Onder voorbehoud van goedkeuring door tweederde van de leden van de Raad kan de Organisatie van iedere andere internationale organisatie of ieder ander internationaal lichaam waarvan de doeleinden en werkzaamheden binnen de doeleinden van de Organisatie liggen, de werkzaamheden, middelen en verplichtingen overnemen die in een internationale overeenkomst of in wederzijds aanvaardbare regelingen tussen de bevoegde autoriteiten van de onderscheiden organisaties worden vastgelegd.
+
+##### Artikel 28
+
+De Raad kan, met een meerderheid van stemmen van drievierde van zijn leden, besluiten de Organisatie te ontbinden.
+
 ### HOOFDSTUK X. DIVERSE BEPALINGEN
 
 ##### Artikel 29
 
-1. Tenzij uitdrukkelijk anders is bepaald in dit Statuut of in door de Raad of het Uitvoerend Comité uitgevaardigde regels, worden alle besluiten van de Raad, van het Uitvoerend Comité en van alle subcommissies met gewone meerderheid van stemmen genomen.
+*) De artikelen 34 [Red: per 21 november 2013: artikel 29] en 35 [Red: per 21 november 2013: artikel 30] werden tenuitvoergelegd op het tijdstip van de inwerkingtreding van het Statuut op 30 november 1954.Ten aanzien van de Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en dit Statuut hebben aanvaard in overeenstemming met hun onderscheiden constitutionele voorschriften, treedt dit Statuut in werking op de dag waarop deze Commissie voor het eerst bijeenkomt, nadat:
 
-2. Alle meerderheden, voorgeschreven in dit Statuut of in de door de Raad of het Uitvoerend Comité uitgevaardigde regels, hebben betrekking op het aantal aanwezige leden die hun stem uitbrengen.
+- (a). ten minste tweederde van de leden van de Commissie, en
 
-3. Een stemming is alleen geldig indien de meerderheid van de leden van de Raad, van het Uitvoerend Comité of van de betrokken subcommissies aanwezig is.
+- (b). een aantal leden waarvan de bijdragen ten minste 75 procent van het administratieve deel van de begroting uitmaken,
+
+de Directeur hebben medegedeeld dat zij dit Statuut aanvaarden.
 
 ##### Artikel 30
 
-1. De teksten van voorgestelde wijzigingen van dit Statuut dienen door de Directeur-Generaal minstens drie maanden voordat zij door de Raad zullen worden besproken, aan de Regeringen van de Lidstaten te worden toegezonden.
-
-2. De wijzigingen worden van kracht wanneer zij door tweederde van de leden van de Raad zijn aangenomen en door tweederde van de Lidstaten zijn aanvaard in overeenstemming met hun onderscheiden constitutionele voorschriften, met dien verstande evenwel dat wijzigingen die nieuwe verplichtingen voor de leden inhouden, slechts ten aanzien van een bepaald lid van kracht worden, wanneer dit lid deze wijzigingen aanvaardt.
+*) De artikelen 34 [Red: per 21 november 2013: artikel 29] en 35 [Red: per 21 november 2013: artikel 30] werden tenuitvoergelegd op het tijdstip van de inwerkingtreding van het Statuut op 30 november 1954.De Regeringen die lid zijn van de Intergouvernementele Commissie voor Europese Migratie en op de datum van inwerkingtreding van dit Statuut de Directeur nog niet in kennis hebben gesteld van hun aanvaarding van dit Statuut, kunnen gedurende een tijdvak van één jaar, te rekenen van deze datum, lid blijven van de Commissie, indien zij bijdragen in de administratieve kosten van de Commissie overeenkomstig [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&hoofdstuk=X&artikel=25&z=2013-11-21&g=2013-11-21)per 21 november 2013: artikel 20, tweede lid, en behouden gedurende dit tijdvak het recht het Statuut te aanvaarden.
 
 ##### Artikel 31
 
-Ieder geschil betreffende de uitlegging of toepassing van dit Statuut, dat niet door middel van onderhandelingen of door een met een tweederde meerderheid van stemmen genomen besluit van de Raad wordt geregeld, wordt overeenkomstig het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) voorgelegd aan dit Hof, tenzij de betrokken Lidstaten binnen een redelijke termijn overeenstemming bereiken over een andere wijze van regeling van dit geschil.
+De Engelse, de Franse en de Spaanse tekst van dit Statuut worden beschouwd als gelijkelijk authentiek.
 
 ##### Artikel 32
 
@@ -349,6 +319,46 @@ de Directeur hebben medegedeeld dat zij dit Statuut aanvaarden.
 ##### Artikel 36
 
 De Engelse, de Franse en de Spaanse tekst van dit Statuut worden beschouwd als gelijkelijk authentiek.
+
+De Regeringen, welke deze resolutie aanvaarden,
+
+Overwegende
+
+dat er in bepaalde landen van Europa een probleem bestaat tengevolge van overbevolking en de aanwezigheid van vluchtelingen, terwijl bepaalde overzeese landen gelegenheid bieden tot een systematische opname van bevolkingsoverschotten;
+
+dat het probleem een zodanige omvang heeft dat het een ernstige hinderpaal vormt voor de economische levensvatbaarheid en samenwerking in Europa;
+
+dat, terwijl een algemene verbetering van de economische omstandigheden en een verhoogde productie een verruiming met zich zouden brengen van de mogelijkheden voor tewerkstelling en vestiging in Europa, en door het vergemakkelijken van de migratie binnen Europa belangrijk zouden bijdragen tot de oplossing van het probleem, de verhoging van de Europese emigratie naar overzeese landen niettemin nog een noodzakelijk element blijft;
+
+dat er een nauw verband bestaat tussen de economische ontwikkeling en de immigratie;
+
+dat een internationale financiering van de Europese emigratie niet alleen zal bijdragen tot de oplossing van het bevolkingsprobleem in Europa, doch eveneens een stimulans zal zijn voor het scheppen van nieuwe economische mogelijkheden in landen waar gebrek aan arbeidskrachten bestaat;
+
+dat, terwijl de technische bijstand in belangrijke mate kan bijdragen tot de oplossing van de economische problemen in de minder ontwikkelde landen, de ontwikkeling van alle bestaande of latente mogelijkheden van immigratie in deze landen eveneens een belangrijke factor vormt voor de oplossing van deze problemen;
+
+dat de huidige omvang van de migratie onvoldoende is om te voldoen aan de behoeften van de emigratie-landen of om een volledig gebruik te kunnen maken van de door de immigratielanden geboden mogelijkheden;
+
+dat het noodzakelijk is dat de daarvoor in aanmerking komende internationale organisaties alle migratie-werkzaamheden welke binnen hun bevoegdheid liggen, voortzetten;
+
+dat het verschaffen van vervoersfaciliteiten voor migranten die zonder die faciliteiten niet vervoerd zouden kunnen worden, belangrijk kan bijdragen tot een verhoogde migratie;
+
+dat, hoewel het vervoer van migranten zo veel mogelijk door de normale scheepvaart- en luchtvaartmaatschappijen dient te geschieden, samenwerking op dit gebied noodzakelijk is teneinde het vervoer van een zo groot mogelijk aantal migranten door die maatschappijen mogelijk te maken en verder te verzekeren dat de vervoersmogelijkheden welke de Internationale Vluchtelingenorganisatie thans ten dienste staan in die mate gebruikt worden, dat een groter aantal migranten vervoerd kan worden;
+
+dat stappen ondernomen dienen te worden om vervoersgelegenheid te scheppen voor die vluchtelingen, die daarvan gebruik wensen te maken en die gelegenheid hebben om uit overbevolkte landen te emigreren; en
+
+dat, dientengevolge, voorlopige intergouvernementele regelingen noodzakelijk zijn tussen de democratische regeringen welke deze resolutie aanvaarden of later zullen aanvaarden, teneinde personen te vervoeren, die de beginselen aanhangen welke door deze regeringen worden onderschreven, en die wensen te emigreren naar overzeese landen, waar van hun diensten gebruik kan worden gemaakt in overeenstemming met algemeen aanvaarde normen ten aanzien van arbeids- en bestaansvoorwaarden, met volledige eerbied voor de rechten van de mens;
+
+Komen het volgende overeen:
+
+### HOOFDSTUK VI. ADMINISTRATIE
+
+### HOOFDSTUK VII. ZETEL
+
+### HOOFDSTUK VIII. FINANCIËN
+
+### HOOFDSTUK IX. RECHTSPOSITIE
+
+### HOOFDSTUK X. DIVERSE BEPALINGEN
 
 De Regeringen, welke deze resolutie aanvaarden,
 
