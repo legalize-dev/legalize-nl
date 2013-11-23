@@ -4,7 +4,7 @@ identifier: "BWBR0008446"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-11"
-last_updated: "1998-08-05"
+last_updated: "2013-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008446"
 soort: "beleidsregel"
@@ -46,35 +46,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1a
 
-De voorzitter en de overige leden van de Raad worden voor vier jaar benoemd en eenmaal herbenoemd.
+1. De voorzitter en de overige leden van de Raad worden voor vier jaar benoemd en herbenoeming voor twee jaar is eenmaal mogelijk.
+
+2. Voorafgaand aan de herbenoeming zoals bedoeld in het eerste lid, zal eerst advies worden gevraagd aan de benoemingenadviescommissie.
+
+3. De leden van de commissies, bedoeld in [artikel 2c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=2c), worden voor vier jaar benoemd en herbenoeming voor vier jaar is eenmaal mogelijk.
 
 ##### Artikel 1b
 
-1. Eenmaal per twee jaar worden twaalf leden benoemd.
-
-2. Voor ten hoogste zes van die twaalf leden kan de benoeming een herbenoeming zijn.
-
-3. Het eerste en het tweede lid zijn niet van toepassing op de voorzitter van de Raad.
+Vervallen
 
 #### Paragraaf 2. Benoemingsprocedure leden Raad voor cultuur
 
 ##### Artikel 2
 
-In geval van een vacature in de Raad vraagt de Minister aan de benoemingenadviescommissie een voorstel te doen voor de vervulling van die vacature.
+In geval van een vacature in de Raad vraagt de Minister eerst aan de Raad een profiel voor de in te vullen vacature en daarna vraagt hij aan de benoemingenadviescommissie een voorstel te doen voor de vervulling van die vacature.
 
 ##### Artikel 3
 
-Bij een voorstel voor de vervulling van een vacature geeft de benoemingenadvies-commissie in ieder geval aan op welke wijze:
+Bij een voorstel voor de vervulling van een vacature geeft de benoemingenadviescommissie in ieder geval aan op welke wijze rekening is gehouden met:
 
-- a. is zorggedragen dat de aandachtsgebieden, bedoeld in [artikel 2d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=2d), door middel van één of meer leden in de Raad herkenbaar aanwezig zijn;
+- a. evenredige deelname aan de Raad van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen;
 
-- b. is gestreefd naar:
+- b. deelname van een of meer leden die voldoende kennis dragen van het gemeentelijke of provinciale cultuurbeleid;
 
-- 1°. evenredige deelname aan de Raad van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen;
+- c. een spreiding van leden van de Raad over het gehele land; en
 
-- 2°. deelname aan de Raad van een of meer leden die voldoende kennis dragen van het gemeentelijke of provinciale cultuurbeleid; en
-
-- 3°. een spreiding van leden over het gehele land.
+- d. de onafhankelijkheid van de voorgedragen kandidaat.
 
 ##### Artikel 4
 
@@ -84,25 +82,23 @@ Alvorens de Minister op basis van het voorstel van de benoemingenadvies-commissi
 
 ##### Artikel 5
 
-Indien de Raad van mening is dat voor de voorbereiding van een advies door een vaste of tijdelijke commissie een specifieke deskundigheid is vereist die niet reeds in voldoende mate in de Raad aanwezig is, kan de Raad de Minister voorstellen doen voor de benoeming van andere personen dan leden van de Raad tot lid van een vaste of tijdelijke commissie van de Raad.
+Indien de Raad van mening is dat voor de voorbereiding van een advies door een vaste of tijdelijke commissie als bedoeld in [artikel 2c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=2c) een specifieke deskundigheid is vereist die nog niet in voldoende mate in de betreffende commissie aanwezig is, kan de Raad de Minister voorstellen doen voor de benoeming van leden van de Raad of andere personen, die beschikken over de gewenste deskundigheid, tot lid van de betreffende commissie.
 
 ##### Artikel 6
 
-Over een voorstel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=5&z=1998-08-05&g=1998-08-05) vraagt de Minister advies aan de benoemingenadviescommissie.
+De Minister kan over een voorstel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=5&z=2013-11-23&g=2013-11-23) advies vragen aan de benoemingenadviescommissie, met dien verstande dat in het geval het voorstel betrekking heeft op een voorzitter van een commissie, de Minister in elk geval advies vraagt aan de benoemingenadviescommissie.
 
 ##### Artikel 7
 
-In een advies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=6&z=1998-08-05&g=1998-08-05) geeft de benoemingenadviescommissie in ieder geval aan:
+In een advies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=6&z=2013-11-23&g=2013-11-23) geeft de benoemingenadviescommissie in ieder geval aan of bij het voorstel in voldoende mate rekening is gehouden met het streven naar:
 
-- a. in hoeverre zo’n benoeming naar haar oordeel noodzakelijk is; alsmede
+- a. evenredige deelname van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen;
 
-- b. of bij het voorstel in voldoende mate rekening is gehouden met het streven naar:
+- b. deelname van een of meer leden die voldoende kennis dragen van het gemeentelijke of provinciale cultuurbeleid;
 
-- 1°. evenredige deelname van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen;
+- c. een spreiding van leden over het gehele land; en
 
-- 2°. deelname aan een commissie van leden die voldoende kennis dragen van het gemeentelijke of provinciale cultuurbeleid; en
-
-- 3°. een spreiding van leden over het gehele land.
+- d. onafhankelijkheid van de Raad.
 
 #### Paragraaf 4. Instelling, samenstelling en werkwijze van de benoemingenadviescommissie
 
@@ -112,7 +108,7 @@ In een advies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. De benoemingenadviescommissie bestaat uit ten hoogste zes leden, waaronder de voorzitter, van wie uit hoofde van hun kennis van het terrein van de cultuur een nuttige bijdrage aan de werkzaamheden van de commissie kan worden verwacht.
 
-3. De voorzitter en de leden maken geen deel uit van het ministerie en zijn overigens niet werkzaam onder verantwoordelijkheid van de Minister.
+3. De voorzitter en de leden maken geen deel uit van het ministerie en zijn overigens niet werkzaam onder verantwoordelijkheid van de Minister. De voorzitter van de Raad is waarnemer bij de vergaderingen van de benoemingenadviescommissie.
 
 4. De Minister benoemt, schorst en ontslaat de voorzitter en de leden. Zij worden benoemd voor ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden.
 
@@ -128,19 +124,7 @@ De Minister voegt aan de benoemingenadviescommissie een secretaris toe.
 
 ##### Artikel 11
 
-Met ingang van 20 november 1996 zijn voor een periode van vier jaar als lid van de benoemingenadviescommissie benoemd:
-
-- de heer prof. drs. A. van der Staay, voorzitter;
-
-- mevrouw drs. J.L.M. Baartmans;
-
-- de heer E. Fallaux;
-
-- de heer J. Jessurun;
-
-- de heer mr. D.W. van Krevelen; en
-
-- de heer mr. J. de Ruiter.
+Vervallen
 
 ##### Artikel 12
 
