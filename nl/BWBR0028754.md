@@ -4,7 +4,7 @@ identifier: "BWBR0028754"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-07-19"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028754"
 soort: "ministeriele-regeling-BES"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het hoofd van de RCN-unit Sociale Zaken, welke is gevestigd te Bonaire, Sint Eustatius en Saba, alsmede zijn plaatsvervanger en de ambtenaren die als Inspecteur SZW aldaar zijn aangesteld, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
+1. Het hoofd van de RCN-unit Sociale Zaken, welke is gevestigd te Bonaire, Sint Eustatius en Saba, alsmede zijn plaatsvervanger en de ambtenaren die aldaar werkzaam zijn en die Inspecteur SZW of ambtenaar van de Inspectie SZW van het Ministerie van Sociale Zaken en Werkgelegenheid zijn, worden aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens:
 
 - a. de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437);
 
