@@ -4,7 +4,7 @@ identifier: "BWBR0022112"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-01-01"
-last_updated: "2007-07-01"
+last_updated: "2013-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022112"
 soort: "zbo"
@@ -112,23 +112,7 @@ Oproepen in het kader van verenigingsactiviteiten dienen beperkt te blijven tot 
 
 ##### Artikel 6
 
-1. Aan omroepinstellingen wordt ontheffing verleend van het bepaalde in het vierde lid van [artikel 52 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52) voor oproepen uitsluitend gericht op ledenwerving mits:
-
-- a. uit de oproepen naar voren komt dat nieuwe leden voor ten minste één jaar lid worden en contributie verschuldigd zijn;
-
-- b. de oproepen geen aanduiding van economische voordelen die verbonden zijn aan het lidmaatschap bevatten;
-
-- c. de oproepen telkens slechts eenmaal worden uitgezonden in een onderbreking tussen twee als zodanig aangekondigde onderscheiden programmaonderdelen;
-
-- d. de oproepen niet langer dan 30 seconden duren, en,
-
-- e. de totale duur van deze oproepen bedraagt per omroepvereniging niet meer dan:
-
-- –. op de radio: 7 minuten per week;
-
-- –. op de televisie: 24 minuten per kwartaal;
-
-- –. per zendernet: 2 minuten per dag.
+Vervallen
 
 ### Duur
 
