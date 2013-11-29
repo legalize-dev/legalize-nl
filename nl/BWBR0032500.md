@@ -4,7 +4,7 @@ identifier: "BWBR0032500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-29"
-last_updated: "2013-11-06"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032500"
 soort: "ministeriele-regeling"
@@ -111,7 +111,7 @@ Besluit:
 | 3.6 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   |   |   |
 | 3.7 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 03-06 t/m 23-09 | 600.000 |
 | 3.8 | Subsidieregeling sterktes in innovatie (FND innovatieprojecten) | 5.9 |   |   |   |
-| 3.9 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | 03-06 t/m 23-09 | 4.400.000 |
+| 3.9 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | 03-06 t/m 23-09 | 5.150.000 |
 | 3.10 | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten) | 6.2 |   |   |   |
 | 3.11 | Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten) | 6.9 |   |   |   |
 | 3.12 | Subsidieregeling sterktes in innovatie (HTAS-EVT-projecten) | 6.18 |   |   |   |
@@ -212,17 +212,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 | 1. Artikel | 2. Programma | 3. Thema’s | 4. Openstelling | 5. plafond |
 | --- | --- | --- | --- | --- |
-| 1c.21 MIT-R&D- samenwerkingsprojecten | Bijlage 1 HTSM | 1 t/m 16 | 25-09 t/m 03-10 | 1.540.000 |
+| 1c.21 MIT-R&D- samenwerkingsprojecten | Bijlage 1 HTSM | 1 t/m 16 | 25-09 t/m 03-10 | 1.557.756 |
 | 1c.4 MIT-haalbaarheidsstudies 1c.9 MIT-kennisvouchers 1c.17 inhuur personeel 1c.21 MIT-R&D samenwerkingsprojecten | Bijlage 3 Logistiek | 1 t/m 5 | 25-09 t/m 03-10 | 1.220.500 |
-| 1c.4 MIT-haalbaarheidsstudies | Bijlage 5 Water | 1 t/m 11 | 25-09 t/m 03-10 | 344.500 |
-| 1b.4 Netwerkactiviteiten | Bijlage 5 Water | 5 t/m 7 | 25-09 t/m 03-10 | 25.000 |
-| 1b.4 Netwerkactiviteiten | Bijlage 5 Water | 8 t/m 11 | 25-09 t/m 03-10 | 25.000 |
-| 1b.7 Innovatiemakelaars | Bijlage 5 Water | 8 t/m 11 | 25-09 t/m 03-10 | 12.500 |
+| 1c.4 MIT-haalbaarheidsstudies | Bijlage 5 Water | 1 t/m 11 | 25-09 t/m 03-10 | 510.343 |
+| 1b.4 Netwerkactiviteiten | Bijlage 5 Water | 5 t/m 7 | 25-11 t/m 28-11 | 25.000 |
+| 1b.4 Netwerkactiviteiten | Bijlage 5 Water | 8 t/m 11 | 25-11 t/m 28-11 | 25.000 |
+| 1b.7 Innovatiemakelaars | Bijlage 5 Water | 8 t/m 11 | 25-11 t/m 28-11 | 12.500 |
 | 1c.4 MIT- haalbaarheidsstudies | Bijlage 6 Chemie, Biobased en Energie | 1C t/m 7C | 25-09 t/m 03-10 | 169.500 |
 | 1c.4 MIT-haalbaarheidsstudies | Bijlage 6 Chemie, Biobased en Energie | 8B t/m 12B | 25-09 t/m 03-10 | 100.000 |
-| 1b.4 Netwerkactiviteiten | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 25-09 t/m 03-10 | 20.000 |
-| 1c.21 MIT-R&D- samenwerkingsverband | Bijlage 7 Creatief | 1 t/m 5 | 25-09 t/m 03-10 | 600.000 |
-| 1c.21 MIT-R&D- samenwerkingsverband | Bijlage 8 T&U | 1 t/m 4 | 25-09 t/m 03-10 | 1.400.000 |
+| 1b.4 Netwerkactiviteiten | Bijlage 6 Chemie, Biobased en Energie | 13E t/m 40E | 25-11 tm 28-11 | 20.000 |
+| 1c.21 MIT-R&D- samenwerkingsverband | Bijlage 7 Creatief | 1 t/m 5 | 25-09 t/m 03-10 | 723.457 |
+| 1c.21 MIT-R&D- samenwerkingsverband | Bijlage 8 T&U | 1 t/m 4 | 25-09 t/m 03-10 | 1.474.637 |
 | 1c.4 MIT-haalbaarheidsstudies | Bijlage 8 T&U | 1 t/m 4 | 25-09 t/m 03-10 | 350.000 |
 | 1c.9 MIT-kennisvouchers | Bijlage 8 T&U | 1 t/m 4 | 25-09 t/m 03-10 | 67 vouchers |
 
