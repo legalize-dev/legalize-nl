@@ -75,19 +75,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
-
-##### Artikel 3a. Sectorale bezoldigingsnorm en indeling in klassen 2015
-
-1. Voor het kalenderjaar 2015 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars met op 1 januari 2015:
-
-- a. minder dan 300.000 verzekerden: € 220.000;
-
-- b. tussen de 300.000 en 1.000.000 verzekerden: € 260.000; en
-
-- c. met meer dan 1.000.000 verzekerden: € 300.000.
-
-2. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034246&artikel=3&z=2014-11-29&g=2014-11-29), is van overeenkomstige toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
