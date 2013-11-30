@@ -4,7 +4,7 @@ identifier: "BWBR0002019"
 country: "nl"
 rank: "kb"
 publication_date: "2013-11-30"
-last_updated: "2002-10-09"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002019"
 soort: "KB"
@@ -50,7 +50,7 @@ Eerepenning voor menschlievend hulpbetoon.
 
 ##### Artikel 2
 
-1. Deze eerepenning bestaat uit een Koninklijke kroon, waaraan bevestigd een ovale draagpenning, metende een totale hoogte van 6 centimeter, op welks voorzijde voorkomt het beeld der Naastenliefde en de woorden: "Voor Menschlievend Hulpbetoon" en aan de keerzijde de woorden: "De Koningin aan", waaronder telkens de naam van den begiftigde zal worden gesteld, een en ander overeenkomstig de bij Ons besluit van 11 April 1912, no. 4, gevoegde teekening.
+1. Deze eerepenning bestaat uit een Koninklijke kroon, waaraan bevestigd een ovale draagpenning, metende een totale hoogte van 6 centimeter, op welks voorzijde voorkomt het beeld der Naastenliefde en de woorden: "Voor Menschlievend Hulpbetoon" en aan de keerzijde de woorden: "De Koning aan", waaronder telkens de naam van den begiftigde zal worden gesteld, een en ander overeenkomstig de bij Ons besluit van 11 April 1912, no. 4, gevoegde teekening.
 
 2. De eerepenning wordt op de linkerborst gedragen, aan een oranje-moiré lint van 3 centimeter breedte, hebbende in het midden een roode bies ter breedte van 0,7 centimeter.
 
