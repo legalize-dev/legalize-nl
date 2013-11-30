@@ -4,7 +4,7 @@ identifier: "BWBR0012948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-11-30"
-last_updated: "2001-11-17"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012948"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De Eenheid Persvoorlichting heeft tot taak:
 
 - b). indien er sprake is van een nationale crisis, die zich beperkt tot één departement; in dat geval kan de directeur Voorlichting van het betreffende departement een beroep doen op het NVC om voorlichters te leveren uit de pool van crisisvoorlichters ter ondersteuning;
 
-- c). bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koningin.
+- c). bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koning.
 
 ##### Artikel 6
 
