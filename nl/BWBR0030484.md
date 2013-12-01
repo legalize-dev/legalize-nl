@@ -4,7 +4,7 @@ identifier: "BWBR0030484"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-18"
-last_updated: "2013-01-06"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030484"
 soort: "pbo"
@@ -75,7 +75,9 @@ De notaris gedraagt zich in de uitoefening van zijn beroep en daarbuiten zodanig
 
 ##### Artikel 4. Geen ontslag geheimhoudingsplicht: doorbreking
 
-De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan.
+1. De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan.
+
+2. Een notaris is bevoegd om na verzoek van een andere notaris een afschrift van een tot zijn protocol behorende akte af te geven aan die andere notaris, mits die andere notaris op zijn beurt een verzoek om dat afschrift heeft gekregen van een persoon die op grond van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) gerechtigd is tot inzage in die akte. De controle op deze gerechtigdheid en de verantwoordelijkheid en aansprakelijkheid voor de inzage ligt na gedaan verzoek en bedoelde afgifte bij die andere notaris.
 
 ##### Artikel 5. Voorlichting over gevolgen
 
