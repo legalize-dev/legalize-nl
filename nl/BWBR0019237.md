@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -115,7 +115,29 @@ Vervallen
 
 ##### Artikel 6. Gegevensverkeer bij betaling op andere bankrekening
 
-Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belanghebbende.
+1. Als gevallen als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) worden aangewezen uitbetalingen door de Belastingdienst/Toeslagen:
+
+- a. van kinderopvangtoeslag op de bankrekening van een onderneming als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777), die een of meerdere kindercentra of een of meerdere gastouderbureaus exploiteert, als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
+
+- b. van huurtoeslag op de bankrekening van een toegelaten instelling, als bedoeld in [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70);
+
+- c. van zorgtoeslag op de bankrekening van een zorgverzekeraar, als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1); voor zover de onderneming, instelling of zorgverzekeraar voor dit doel een convenant heeft afgesloten met de Belastingdienst/Toeslagen.
+
+2. Als gevallen als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) worden voorts aangewezen uitbetalingen door de Belastingdienst/Toeslagen op de bankrekening:
+
+- a. van een lid van de Nederlandse Vereniging voor Volkskrediet voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer;
+
+- b. van een gemeente op grond van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer van de Nederlandse Vereniging voor Volkskrediet of overeenkomsten met dezelfde strekking;
+
+- c. van een curator in een faillissement;
+
+- d. van een bewindvoerder in een schuldsaneringsregeling natuurlijke personen;
+
+- e. van een derde indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.
+
+3. Bij gevallen als bedoeld [artikel 7a, vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a) is [artikel 25, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) niet van toepassing.
+
+4. Indien op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belanghebbende.
 
 ##### Artikel 7. Uitstel van betaling in verband met betalingsproblemen
 
@@ -205,7 +227,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2013-07-01&g=2013-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2013-12-01&g=2013-12-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -233,14 +255,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2013-12-01&g=2013-12-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9ter. Overgangsrecht vermogenstoets restantbedrag persoonsgebonden budget
+##### Artikel 9ter
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing ten aanzien van degene die aanspraak op huurtoeslag, onderscheidenlijk zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met het restant van een ontvangen persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6) en paragraaf 2 van de Wet maatschappelijke ondersteuning zoals deze op 31 december 2014 luidden, dat betrekking heeft op een subsidieperiode in het jaar voorafgaand aan het berekeningsjaar, en de met dat restant samenhangende verplichtingen.
-
-2. Een verzoek als bedoeld in het eerste lid wordt uiterlijk 31 december 2018 gedaan.
+Indien bij de Belastingdienst/Toeslagen op 1 december 2013 geen bankrekening op naam van de belanghebbende bekend is, wordt tot en met 30 juni 2014 als geval als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) aangewezen de uitbetaling van een verleend voorschot of toegekende tegemoetkoming door de Belastingdienst/Toeslagen op de bankrekening die vóór 1 december 2013 door de Belastingdienst/Toeslagen werd gebruikt voor de uitbetaling van een verleend voorschot of toegekende tegemoetkoming aan de belanghebbende.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
