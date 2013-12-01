@@ -4,7 +4,7 @@ identifier: "BWBR0010095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2005-07-29"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010095"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ In deze instructie wordt verstaan onder:
 
 - 1°. de semi-automatische uitvoering van de Heckler en Koch, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
 
-- 2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter;
+- 2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter of Walther P99Q van hetzelfde kaliber;
 
 - 3°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
 
