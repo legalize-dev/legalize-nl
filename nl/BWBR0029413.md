@@ -4,7 +4,7 @@ identifier: "BWBR0029413"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-01"
-last_updated: "2011-04-01"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029413"
 soort: "wet"
@@ -48,6 +48,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel II
+
+Wijzigt de Ambtenarenwet.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -123,6 +125,8 @@ Wijzigt de Wet op het LSOP en het politieonderwijs.
 
 ##### Artikel XIX
 
+Wijzigt de Wet Nationale ombudsman.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
@@ -134,6 +138,8 @@ De [Wet NV SDU](https://wetten.overheid.nl/jci1.3:c:BWBR0004400) wordt ingetrokk
 Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
 
 ##### Artikel XXII
+
+Wijzigt de Wet veiligheidsonderzoeken.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -165,7 +171,7 @@ Wijzigt de Uitvoeringswet EGTS-verordening.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029413&artikel=XXVI&z=2011-04-01&g=2011-04-01) werkt terug tot en met het tijdstip waarop [artikel 8 van de Wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025304&artikel=8) in werking is getreden.
+2. [Artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029413&artikel=XXVI&z=2013-12-01&g=2013-12-01) werkt terug tot en met het tijdstip waarop [artikel 8 van de Wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025304&artikel=8) in werking is getreden.
 
 ##### Artikel XXX
 
