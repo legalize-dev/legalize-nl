@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2013-07-31"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -196,15 +196,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 10. Zorgplicht gastouderbureaus
 
-1. De houder van een gastouderbureau draagt er zorg voor dat per gastouder wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-07-31&g=2013-07-31), verantwoord is.
+1. De houder van een gastouderbureau draagt er zorg voor dat per gastouder wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-12-01&g=2013-12-01), verantwoord is.
 
 2. De houder van een gastouderbureau draagt er zorg voor dat per aangesloten gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
 
-- a. het intakegesprek, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
+- a. het intakegesprek, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
 
 - b. werving van de gastouder;
 
-- c. het intakegesprek, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
+- c. het intakegesprek, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
 
 - d. scholing en begeleiding van de gastouder;
 
@@ -212,13 +212,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. de koppeling van gastouder en vraagouder;
 
-- g. het koppelingsgesprek, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
+- g. het koppelingsgesprek, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
 
-- h. het evaluatiegesprek, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
+- h. het evaluatiegesprek, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
 
 - i. vraagbaak voor gastouders;
 
-- j. de bezoeken, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-07-31&g=2013-07-31);
+- j. de bezoeken, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
 
 - k. interne/externe opleiding/training; en
 
@@ -232,7 +232,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke en sociale competentie en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;
 
-- b. de samenstelling van het aantal kinderen dat door een gastouder wordt opgevangen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-07-31&g=2013-07-31) gesteld worden aan de groepsgrootte;
+- b. de samenstelling van het aantal kinderen dat door een gastouder wordt opgevangen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-12-01&g=2013-12-01) gesteld worden aan de groepsgrootte;
 
 - c. de eisen die aan de adressen waar opvang plaatsvindt worden gesteld.
 
@@ -254,7 +254,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2013-07-31&g=2013-07-31) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2013-12-01&g=2013-12-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -294,7 +294,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2013-07-31&g=2013-07-31).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2013-12-01&g=2013-12-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
@@ -364,9 +364,9 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 ##### Artikel 21. Overgangsrecht
 
-1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2014 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
+1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
-2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2013-07-31&g=2013-07-31), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2013-07-31&g=2013-07-31), van dit besluit bedoelde deskundigheidseis.
+2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2013-12-01&g=2013-12-01), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2013-12-01&g=2013-12-01), van dit besluit bedoelde deskundigheidseis.
 
 3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.
 
