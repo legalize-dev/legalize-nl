@@ -62,5 +62,3 @@ Dit besluit treedt in werking met ingang van 1 december 2013 met dien verstande 
 - b. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0034264&artikel=III&z=2013-12-01&g=2013-12-01) vervalt met ingang van 1 maart 2014.
 
 Dit besluit wordt in de Staatscourant gepubliceerd.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.
