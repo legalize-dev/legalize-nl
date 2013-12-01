@@ -4,7 +4,7 @@ identifier: "BWBR0034579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-30"
-last_updated: "2013-01-01"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034579"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XXIV
 
