@@ -4,7 +4,7 @@ identifier: "BWBR0033664"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-30"
-last_updated: "2013-10-17"
+last_updated: "2013-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033664"
 soort: "wet"
@@ -55,7 +55,7 @@ Wijzigt de Kieswet.
 
 ##### Artikel IIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene regels herindeling.
 
 ##### Artikel III
 
@@ -63,7 +63,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Reparatiewet BZK 2010.
 
 ##### Artikel IVa
 
@@ -75,7 +75,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel VII
 
