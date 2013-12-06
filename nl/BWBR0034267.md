@@ -4,7 +4,7 @@ identifier: "BWBR0034267"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-06"
-last_updated: "2013-11-01"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034267"
 soort: "ministeriele-regeling"
@@ -81,7 +81,7 @@ In de ondertekening van de dwangsombesluiten wordt het mandaat tot uitdrukking g
 
 ##### Artikel 7
 
-De bevoegdheid tot het nemen van de besluiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=2&z=2013-12-06&g=2013-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=3&z=2013-12-06&g=2013-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=4&z=2013-12-06&g=2013-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=5&z=2013-12-06&g=2013-11-01), wordt niet in ondermandaat verleend.
+De bevoegdheid tot het nemen van de besluiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=2&z=2013-12-06&g=2013-12-06), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=3&z=2013-12-06&g=2013-12-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=4&z=2013-12-06&g=2013-12-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034267&artikel=5&z=2013-12-06&g=2013-12-06), wordt niet in ondermandaat verleend.
 
 ##### Artikel 8
 
