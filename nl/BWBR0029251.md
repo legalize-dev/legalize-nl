@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2013-01-01"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -66,7 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - b. **een medeoverheid:** een gemeente, een provincie of een openbaar lichaam dat is ingesteld op grond van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II), of [IV van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IV);
 
-- c. **de jaarstukken:** de jaarrekening en het jaarverslag, bedoeld in [artikel 198, eerste lid, Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=198), [artikel 202, eerste lid, Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=202) of de overeenkomstige stukken van een openbaar lichaam als bedoeld in onderdeel b.
+- c. **de jaarstukken:** de jaarrekening en het jaarverslag, bedoeld in [artikel 198, eerste lid, Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=198), [artikel 202, eerste lid, Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=202) of de overeenkomstige stukken van een openbaar lichaam als bedoeld in onderdeel b;
+
+- d. **het verslag van bevindingen:** het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), onderscheidenlijk [artikel 217, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) of het overeenkomstige stuk van een gemeenschappelijke regeling als bedoeld in onderdeel b;
+
+- e. **fouten en onzekerheden:** fouten en onzekerheden als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=2), en [5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5).
 
 ##### Artikel 2
 
@@ -74,31 +78,33 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-De rapportage, bedoeld in [artikel 5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2010-12-25&g=2013-01-01).
+1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2013-12-06&g=2013-12-06).
+
+2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2013-12-06&g=2013-12-06).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2010-12-25&g=2013-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2010-12-25&g=2013-01-01).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2013-12-06&g=2013-12-06) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2013-12-06&g=2013-12-06) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2013-12-06&g=2013-12-06).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2013-12-06&g=2013-12-06).
 
 #### § 4. Herziening
 
 ##### Artikel 6
 
-Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2010-12-25&g=2013-01-01) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2013-01-01), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
+Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2013-12-06&g=2013-12-06) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2013-12-06&g=2013-12-06), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 7
 
-1. De bijlagen bij deze regeling worden bekend gemaakt door terinzagelegging bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Schedeldoekshaven 200 te Den Haag.
+1. De bijlagen bij deze regeling worden ter inzage gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147.
 
-2. De bijlagen worden tevens op het internet bekend gemaakt, onder www.rijksoverheid.nl.
+2. De bijlagen worden tevens op het internet gepubliceerd, onder www.rijksoverheid.nl.
 
 ##### Artikel 8
 
@@ -114,13 +120,9 @@ Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ## Bijlage 1
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag en is gepubliceerd op www.rijksoverheid.nl.
 
 op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2012-01-01) van de Regeling informatieverstrekking sisa
 
@@ -496,7 +498,7 @@ Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij 
 
 ## Bijlage 3. Procedure aanlevering SiSa-verantwoordingsinformatie 2012
 
-op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2013-01-01) van de Regeling informatieverstrekking sisa
+op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2013-12-06) van de Regeling informatieverstrekking sisa
 
 ### Wat is SiSa?
 
