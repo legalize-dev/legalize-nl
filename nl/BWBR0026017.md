@@ -4,7 +4,7 @@ identifier: "BWBR0026017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2013-06-11"
+last_updated: "2013-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026017"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Bevoegdheid verrekening met werkgever
 
-Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2013-06-11&g=2013-06-11), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2013-12-07&g=2013-12-07), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
 ##### Artikel 3. Standaard regeling voor uitstel van betaling
 
@@ -204,7 +204,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
 
-Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2013-06-11&g=2013-06-11) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2013-12-07&g=2013-12-07) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -218,18 +218,20 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), dat gelet op het aantal kinderen van toepassing is.
 
-3. Van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a, is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
+3. Voor zover dit artikel berust op [artikel 27h, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h) of [artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h) wordt als echtgenoot of geregistreerd partner als bedoeld in het tweede lid, onderdeel a, mede aangemerkt de ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste graad. Voor de toepassing van de eerste zin wordt mede als ongehuwd aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
 
-4. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
+4. Voor zover dit artikel berust op [artikel 27h, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h) of [artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h) is sprake van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
 
-5. De vermeerdering, bedoeld in het vierde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
+5. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
 
-6. Onder kale huur als bedoel in het vierde en vijfde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
+6. De vermeerdering, bedoeld in het vijfde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
 
-7. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en bij de SVB indien de verrekening plaatsvindt op grond van de [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
+7. Onder kale huur als bedoel in het vijfde en zesde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
 
-8. Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
+8. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en bij de SVB indien de verrekening plaatsvindt op grond van de [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
-9. Het op grond van het tweede, vierde en vijfde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vierde lid.
+9. Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
+
+10. Het op grond van het tweede, vijfde en zesde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vijfde lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
