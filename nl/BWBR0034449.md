@@ -109,26 +109,3 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat 
 | Friesland | Directeur van de Omgevingsdienst Friesland/FUMO Afdelingshoofd Toezicht en Handhaving |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
-
-## Bijlage 2. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2024-01-01&g=2024-01-01)
-
-| Provincie | Functionaris |
-| --- | --- |
-| Groningen | Hoofd afdeling Omgeving en Milieu, provincie Groningen |
-| Friesland | Directeur Friese Uitvoeringdienst Milieu en Omgeving |
-| Drenthe | Directeur Regionale Uitvoeringsdienst Drenthe |
-| Flevoland | Directeur Omgevingsdienst Flevoland & Gooi en Vechtstreek |
-| Gelderland | Directeur Omgevingsdienst regio Arnhem |
-| Overijssel | Teamleider Handhaving, provincie Overijssel |
-| Utrecht | Directeur Regionale Uitvoeringsdienst Utrecht |
-| Noord-Holland | – Algemeen directeur Omgevingsdienst Noordzeekanaalgebied – Adjunct-directeur, portefeuille Toezicht en Handhaving Omgevingsdienst Noordzeekanaalgebied |
-| Zuid-Holland | Directeur DCMR Zuid-Holland, Directeur Omgevingsdienst West-Holland, Directeur Omgevingsdienst Midden-Holland, Directeur Omgevingsdienst Haaglanden, Directeur Omgevingsdienst Zuid-Holland-Zuid |
-| Zeeland | Directeur Regionale Uitvoeringsdienst Zeeland |
-| Noord-Brabant | Directeur Omgevingsdienst Midden- en West-Brabant |
-| Limburg | Directeur Regionale Uitvoeringsdienst Zuid-Limburg |
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
