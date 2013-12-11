@@ -101,13 +101,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit aanwijzing en taakvervulling toezichthouders Kernenergiewet 2013.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Met het toezicht op de naleving van het bepaalde bij of krachtens de Kernenergiewet zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu voor zover het hun werkterrein betreft.
-
-#### § 2. Taakvervulling
-
-#### § 3. Overgangs- en slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
