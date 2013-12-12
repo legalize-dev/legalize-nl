@@ -4,7 +4,7 @@ identifier: "BWBR0029676"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-12"
-last_updated: "2011-03-05"
+last_updated: "2013-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029676"
 soort: "wet"
@@ -68,11 +68,11 @@ Wijzigt deze wet.
 
 ##### Artikel VI
 
-1. Deze wet treedt in werking met ingang van 12 december 2010, met uitzondering van [artikel I, onderdelen H, J en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2011-03-05&g=2011-03-05). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 11 december 2010, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 12 december 2010, met uitzondering van [artikel I, onderdelen H, J en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2013-12-12&g=2013-12-12). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 11 december 2010, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, onderdelen H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2011-03-05&g=2011-03-05), treedt in werking met ingang van 12 december 2013.
+2. [Artikel I, onderdelen H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2013-12-12&g=2013-12-12), treedt in werking met ingang van 12 december 2013.
 
-3. [Artikel I, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2011-03-05&g=2011-03-05), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. [Artikel I, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029676&artikel=I&z=2013-12-12&g=2013-12-12), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel VII
 
