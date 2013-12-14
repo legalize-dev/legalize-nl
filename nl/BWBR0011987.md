@@ -4,7 +4,7 @@ identifier: "BWBR0011987"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-15"
-last_updated: "2009-01-01"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011987"
 soort: "wet"
@@ -88,11 +88,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. de renterisiconorm: een bedrag ter grootte van een percentage van het totaal van het begrotingstotaal van het openbare lichaam bij aanvang van het jaar;
 
-- i. 3%-norm voor het EMU-saldo van de overheid: de referentiewaarde voor het vorderingensaldo van de overheid zoals vastgelegd in artikel 104C en Protocol nr. 5 van het Verdrag betreffende de Europese Unie;
+- i. toezichthouder: het bestuursorgaan dat op grond van enige wettelijke bepaling is belast met het toezicht op de begroting van een openbaar lichaam;
 
-- j. toezichthouder: het bestuursorgaan dat op grond van enige wettelijke bepaling is belast met het toezicht op de begroting van een openbaar lichaam;
-
-- k. Onze Ministers:
+- j. Onze Ministers:
 
 - 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2° en 5° bedoelde lichamen en organen betreft;
 
@@ -100,7 +98,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Verkeer en Waterstaat voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
 
-- l. begrotingstotaal: de totale lasten op de begroting.
+- k. begrotingstotaal: de totale lasten op de begroting.
 
 ##### Artikel 2
 
@@ -122,7 +120,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het op basis van het eerste lid vast te stellen percentage voor de kasgeldlimiet en het op basis van het derde lid vast te stellen minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.
 
-5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2009-01-01&g=2009-01-01), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
+5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2013-12-14&g=2013-12-14), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
 
 ##### Artikel 4
 
@@ -156,11 +154,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Indien een dreigende overschrijding van de 3%-norm voor het EMU-saldo van de overheid door een ongewenste ontwikkeling van het EMU-saldo van de openbare lichamen wordt veroorzaakt, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ter beheersing van het EMU-saldo van de openbare lichamen.
-
-2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
-
-3. Indien aan Nederland een boete wegens overschrijding van de EMU-norm wordt opgelegd en de decentrale overheden daarin een aandeel hebben, kan de minister van Financiën vaststellen voor welk deel decentrale overheden bijdragen in de boete, na regulier bestuurlijk overleg tussen de fondsbeheerders en de instanties die representatief geacht kunnen worden voor de desbetreffende decentrale overheden.
+Vervallen
 
 ##### Artikel 8
 
@@ -208,7 +202,7 @@ De Wet financiering lagere overheid wordt ingetrokken.
 
 ##### Artikel 14
 
-Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2009-01-01&g=2009-01-01), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
+Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2013-12-14&g=2013-12-14), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
 
 ##### Artikel 15
 
@@ -217,5 +211,15 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet financiering decentrale overheden.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2b
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
