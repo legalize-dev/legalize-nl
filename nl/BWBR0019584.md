@@ -4,7 +4,7 @@ identifier: "BWBR0019584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-15"
-last_updated: "2008-07-01"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019584"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 2. De aanvraag voor een uitkering wordt aan de minister gericht en ingediend bij het Directoraat-Generaal Mobiliteit.
 
-3. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2008-07-01&g=2008-07-01) van deze regeling en is ondertekend door het bestuur van de gemeente.
+3. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2013-12-15&g=2013-12-15) van deze regeling en is ondertekend door het bestuur van de gemeente.
 
 4. De minister kan bepalen dat er in aanvulling op de in het derde lid bedoelde gegevens, andere voor de beoordeling van de aanvraag noodzakelijke gegevens worden overgelegd.
 
@@ -142,7 +142,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 ##### Artikel 7. Procedure
 
-1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2008-07-01&g=2008-07-01), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
+1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2013-12-15&g=2013-12-15), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
 
 - a. de bijdrage aan stedelijke bereikbaarheid;
 
@@ -152,7 +152,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 - d. de bijdrage aan het spoorgebruik.
 
-2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2008-07-01&g=2008-07-01) bij deze regeling.
+2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2013-12-15&g=2013-12-15) bij deze regeling.
 
 3. Om in de rangorde te kunnen worden opgenomen dient het project in ieder geval een bijdrage te leveren aan de stedelijke bereikbaarheid en een bijdrage aan een van de andere criteria bedoeld in het eerste lid.
 
@@ -170,7 +170,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 2. De uitkering wordt toegekend onder de voorwaarde dat voor het deel van de uitkering dat ten laste van een nog niet vastgestelde begroting komt, voldoende gelden ter beschikking worden gesteld.
 
-3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=3&z=2008-07-01&g=2008-07-01).
+3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=3&z=2013-12-15&g=2013-12-15).
 
 ##### Artikel 9. Verplichtingen bij verstrekken van de uitkering
 
@@ -192,14 +192,6 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 2. Het voorschot wordt voor aanvang van de uitvoering van het project betaalbaar gesteld. De uitkeringsontvanger dient hiertoe ten minste vier weken voor de aanvang schriftelijk een verzoek tot betaalbaarstelling in bij de minister.
 
-3. Het voorschot wordt in rekening-courant aangehouden bij ’s Rijks schatkist. De Minister van Financiën vergoedt de uitkeringsontvanger over het creditsaldo op de rekening-courant een marktconforme rente.
-
-4. Ten behoeve van de rekening-courantverhouding met ’s Rijks schatkist opent de uitkeringsontvanger speciaal daartoe een bankrekening, die in concernverband met ’s Rijks schatkist wordt gebracht.
-
-5. De modaliteiten van de rekening-courant bij ’s Rijks schatkist worden in een rekening-courantovereenkomst tussen de Minister van Financiën en de uitkeringsontvanger vastgelegd.
-
-6. Voor uitkeringsontvangers, die in 2006 een positieve beslissing op hun aanvraag van de minister hebben ontvangen, die in 2006 reeds gestart zijn met de werkzaamheden en waaraan in het jaar 2006 een voorschot zal worden uitbetaald, kan tijdelijk een van het vierde lid afwijkende procedure worden toegepast, teneinde de uitbetaling daadwerkelijk in het jaar 2006 kan plaatsvinden.
-
 ##### Artikel 12. Aanvraag vaststelling uitkering
 
 1. De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), informatie op over het project.
@@ -220,7 +212,7 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 1. [Artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing.
 
-2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=11&z=2008-07-01&g=2008-07-01), door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
+2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=11&z=2013-12-15&g=2013-12-15), door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
 
 ##### Artikel 15. Duur regeling
 
@@ -230,7 +222,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.
 
-## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2008-07-01&g=2008-07-01), van de Regeling eenmalige uitkering spoorse doorsnijdingen
+## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2013-12-15&g=2013-12-15), van de Regeling eenmalige uitkering spoorse doorsnijdingen
 
 ## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-02-23&g=2006-02-23)
 
@@ -350,7 +342,7 @@ Wat is het effect van de maatregelen op de kosten van beheer en instandhouding v
 
 Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald.
 
-## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2008-07-01&g=2008-07-01)
+## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2013-12-15&g=2013-12-15)
 
 ### **A. Stedelijke bereikbaarheid**
 
