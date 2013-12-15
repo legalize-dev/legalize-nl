@@ -4,7 +4,7 @@ identifier: "BWBR0034358"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-15"
-last_updated: "2012-06-05"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034358"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2013-12-15"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering decentrale overheden.
 
 ##### Artikel II
 
@@ -50,11 +50,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet BDU verkeer en vervoer.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op de tweede dag na de datum van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat [artikel II, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034358&artikel=II&z=2013-12-15&g=2013-12-15), terugwerkt tot 4 juni 2012, 18.00 uur.
 
 Allen die deze zullen zien of horen lezen, saluut! Doen te weten:
 
