@@ -4,7 +4,7 @@ identifier: "BWBR0011987"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-15"
-last_updated: "2013-12-14"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011987"
 soort: "wet"
@@ -56,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. waterschappen;
 
-- 4°. lichamen, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die bevoegd zijn tot het aangaan, garanderen en verstrekken van geldleningen;
+- 4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
 
 - 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;
 
@@ -94,21 +94,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2° en 5° bedoelde lichamen en organen betreft;
 
-- 2°. Onze Minister van Financiën en Onze Minister van Verkeer en Waterstaat indien het de in onderdeel a, onder 3°, bedoelde lichamen betreft;
+- 2°. Onze Minister van Financiën en Onze Minister van Infrastructuur en Milieu indien het de in onderdeel a, onder 3°, bedoelde lichamen betreft;
 
-- 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Verkeer en Waterstaat voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
+- 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Infrastructuur en Milieu voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
 
 - k. begrotingstotaal: de totale lasten op de begroting.
 
 ##### Artikel 2
 
-1. Openbare lichamen gaan leningen aan, zetten middelen uit of verlenen garanties uitsluitend ten behoeve van de uitoefening van de publieke taak.
+1. Openbare lichamen kunnen uitsluitend ten behoeve van de uitoefening van de publieke taak leningen aangaan, middelen uitzetten of garanties verlenen. Voor het overige houden zij hun liquide middelen in ’s Rijks schatkist aan.
 
-2. Openbare lichamen kunnen derivaten hanteren of, in afwijking van het eerste lid, middelen uitzetten anders dan ten behoeve van de publieke taak, indien deze uitzettingen of derivaten een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Terzake van de uitvoering van dit lid worden bij ministeriële regeling nadere regels gesteld.
+2. De middelen die een openbaar lichaam in ’s Rijks schatkist aanhoudt, blijven beschikbaar voor de uitoefening van zijn publieke taak.
 
-3. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
+3. In afwijking van het eerste lid kunnen openbare lichamen hun liquide middelen in de vorm van leningen uitzetten bij andere openbare lichamen, met dien verstande dat openbare lichamen geen leningen kunnen verstrekken aan openbare lichamen ten aanzien waarvan zij met het financiële toezicht zijn belast. Bij regeling van Onze Ministers worden met betrekking tot deze leningen nadere regels gesteld.
 
-4. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers van openbare lichamen geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door andere financiële instellingen.
+4. Bij regeling van Onze Ministers kunnen bepaalde middelen uitgezonderd worden van de verplichting deze aan te houden in ’s Rijks schatkist.
 
 ##### Artikel 3
 
@@ -120,7 +120,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het op basis van het eerste lid vast te stellen percentage voor de kasgeldlimiet en het op basis van het derde lid vast te stellen minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.
 
-5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2013-12-14&g=2013-12-14), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
+5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2013-12-15&g=2013-12-15), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
 
 ##### Artikel 4
 
@@ -202,7 +202,7 @@ De Wet financiering lagere overheid wordt ingetrokken.
 
 ##### Artikel 14
 
-Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2013-12-14&g=2013-12-14), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
+Vervallen
 
 ##### Artikel 15
 
@@ -216,10 +216,18 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
+
+2. Openbare lichamen kunnen derivaten hanteren of de ingevolge [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2013-12-15&g=2013-12-15), uitgezonderde middelen uitzetten indien deze derivaten of uitzettingen een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Bij regeling van Onze Ministers worden ter zake van de uitvoering van dit lid nadere regels gesteld.
+
+3. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.
 
 ##### Artikel 2b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Openbare lichamen ontvangen rente over de liquide middelen die zij in ’s Rijks schatkist aanhouden. De rente kan niet negatief zijn.
+
+2. Openbare lichamen hebben een rekening-courantovereenkomst met de Staat der Nederlanden, welke van rechtswege tot stand komt op de dag dat deze overeenkomst is ontvangen door het desbetreffende openbaar lichaam. De overeenkomst luidt overeenkomstig de modelovereenkomst die na overleg met Onze Ministers door Onze Minister van Financiën wordt vastgesteld.
+
+3. Onze Minister van Financiën kan na overleg met Onze Ministers regels stellen ten aanzien van de uitvoering van dit artikel.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
