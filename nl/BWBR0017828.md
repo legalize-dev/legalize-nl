@@ -4,7 +4,7 @@ identifier: "BWBR0017828"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2010-01-01"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017828"
 soort: "wet"
@@ -94,7 +94,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. dagelijks bestuur: het dagelijks bestuur van een regionaal openbaar lichaam;
 
-- e. uitkering: een brede doeluitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01) of [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2010-01-01&g=2010-01-01);
+- e. uitkering: een brede doeluitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2013-12-15&g=2013-12-15) of [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2013-12-15&g=2013-12-15);
 
 - f. uitkeringsjaar: het kalenderjaar waarvoor de uitkering wordt verstrekt;
 
@@ -164,7 +164,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. maatregelen met betrekking tot het provinciaal verkeer- en vervoerbeleid die worden uitgevoerd door de provincie; en
 
-- b. maatregelen met betrekking tot het gemeentelijk en intergemeentelijk verkeer- en vervoerbeleid die worden uitgevoerd door een inliggende gemeente of door een samenwerkingsverband van gemeenten, als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01).
+- b. maatregelen met betrekking tot het gemeentelijk en intergemeentelijk verkeer- en vervoerbeleid die worden uitgevoerd door een inliggende gemeente of door een samenwerkingsverband van gemeenten, als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2013-12-15&g=2013-12-15).
 
 5. Indien bestuurlijke overeenkomsten zijn gesloten als bedoeld in [artikel 12 van de Planwet verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009642&artikel=12), wordt hiermee bij het opstellen van het bestedingsplan rekening gehouden.
 
@@ -172,23 +172,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Gedeputeerde staten betrekken bij de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2010-01-01&g=2010-01-01), de naar zijn oordeel meest belanghebbende bestuursorganen. Daartoe behoren in ieder geval de besturen van de inliggende gemeenten.
+1. Gedeputeerde staten betrekken bij de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2013-12-15&g=2013-12-15), de naar zijn oordeel meest belanghebbende bestuursorganen. Daartoe behoren in ieder geval de besturen van de inliggende gemeenten.
 
 2. Indien het bestedingsplan afwijkt van de uitkomsten van het bestuurlijke overleg worden de redenen hiervoor in het bestedingsplan vermeld.
 
 ##### Artikel 8
 
-1. Ten behoeve van de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2010-01-01&g=2010-01-01), vindt door gedeputeerde staten in ieder geval afstemming plaats met de besturen van de aangrenzende provincies, de besturen van de in de provincie gelegen regionale openbare lichamen en de besturen van de waterschappen die zijn gelegen binnen een provincie en buiten een plusregio voor wegen waarvan het beheer bij reglement aan het waterschap is opgedragen;
+1. Ten behoeve van de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2013-12-15&g=2013-12-15), vindt door gedeputeerde staten in ieder geval afstemming plaats met de besturen van de aangrenzende provincies, de besturen van de in de provincie gelegen regionale openbare lichamen en de besturen van de waterschappen die zijn gelegen binnen een provincie en buiten een plusregio voor wegen waarvan het beheer bij reglement aan het waterschap is opgedragen;
 
-2. Ten behoeve van de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2010-01-01&g=2010-01-01), vindt door het dagelijks bestuur in ieder geval afstemming plaats met het bestuur van de provincie waarin de plusregio is gelegen en de besturen van de in de plusregio gelegen waterschappen voor wegen waarvan het beheer bij reglement aan het waterschap is opgedragen.
+2. Ten behoeve van de voorbereiding van het bestedingsplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2013-12-15&g=2013-12-15), vindt door het dagelijks bestuur in ieder geval afstemming plaats met het bestuur van de provincie waarin de plusregio is gelegen en de besturen van de in de plusregio gelegen waterschappen voor wegen waarvan het beheer bij reglement aan het waterschap is opgedragen.
 
 ##### Artikel 9
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een gedeelte van de uitkering reserveren voor het doen van uitgaven in de jaren die volgen op het uitkeringsjaar.
 
-2. Het saldo op 1 januari van het uitkeringsjaar van de gereserveerde bedragen met inbegrip van de daarover in de voorafgaande jaren berekende rente, wordt jaarlijks vermeerderd met rente.
+2. Vervallen.
 
-3. De rente, bedoeld in het tweede lid, is gelijk aan de herfinancieringsrente zoals die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringsrente welke geldt op de eerste kalenderdag van het desbetreffende uitkeringsjaar.
+3. Vervallen.
 
 ### Hoofdstuk 5. Verantwoording over de uitkering
 
@@ -200,7 +200,7 @@ De provincie onderscheidenlijk de plusregio legt financiële verantwoording af o
 
 1. Onze Minister kan een uitkering ten nadele van de provincie onderscheidenlijk de plusregio wijzigen indien:
 
-- a. uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het provinciale onderscheidenlijk het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat dit is gebeurd in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=9&z=2010-01-01&g=2010-01-01) of de reservering niet herkenbaar in de verantwoording is vastgelegd;
+- a. uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat de uitkering is besteed aan de voorbereiding en de uitvoering van het provinciale onderscheidenlijk het regionale verkeer- en vervoerbeleid en, indien een gedeelte van de uitkering is gereserveerd, uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), onderscheidenlijk uit de verantwoordingsinformatie niet blijkt dat dit is gebeurd in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=9&z=2013-12-15&g=2013-12-15) of de reservering niet herkenbaar in de verantwoording is vastgelegd;
 
 - b. geen verantwoording is afgelegd die overigens voldoet aan de bij of krachtens deze wet gestelde regels.
 
@@ -216,7 +216,7 @@ Onverschuldigde betalingen gedaan in het kader van de toepassing van deze wet ku
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verstrekken desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de door Onze Minister aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66).
 
-2. De ambtenaren van de accountantsdienst kunnen ten aanzien van de financiële verantwoording door de provincie onderscheidenlijk de plusregio tevens informatie inwinnen bij de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&artikel=10&z=2010-01-01&g=2010-01-01), bedoelde accountant.
+2. De ambtenaren van de accountantsdienst kunnen ten aanzien van de financiële verantwoording door de provincie onderscheidenlijk de plusregio tevens informatie inwinnen bij de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&artikel=10&z=2013-12-15&g=2013-12-15), bedoelde accountant.
 
 ##### Artikel 14
 
@@ -238,17 +238,17 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ##### Artikel 22
 
-1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2010-01-01&g=2010-01-01), kan de eerste verstrekking van de uitkering ook plaatsvinden in het jaar waarop de uitkering betrekking heeft.
+1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=2&z=2013-12-15&g=2013-12-15), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=3&z=2013-12-15&g=2013-12-15), kan de eerste verstrekking van de uitkering ook plaatsvinden in het jaar waarop de uitkering betrekking heeft.
 
-2. Indien toepassing wordt gegeven aan het eerste lid, wordt in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2010-01-01&g=2010-01-01) door gedeputeerde staten onderscheidenlijk het dagelijks bestuur binnen acht weken na het tijdstip van inwerkingtreding van deze wet een bestedingsplan vastgesteld.
+2. Indien toepassing wordt gegeven aan het eerste lid, wordt in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=4&artikel=6&z=2013-12-15&g=2013-12-15) door gedeputeerde staten onderscheidenlijk het dagelijks bestuur binnen acht weken na het tijdstip van inwerkingtreding van deze wet een bestedingsplan vastgesteld.
 
 3. Indien toepassing wordt gegeven aan het eerste lid, blijven de regels zoals die golden op de dag voor de inwerkingtreding van deze wet, van toepassing op de bijdrage voor de exploitatie van het openbaar vervoer, bedoeld in [artikel 76 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), die is verstrekt in het jaar voorafgaand aan de inwerkingtreding van deze wet, met dien verstande dat:
 
 - a. de bijdrage kan worden besteed aan of gereserveerd voor verkeer- en vervoerbeleid;
 
-- b. op de verantwoording van de bijdrage [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&z=2010-01-01&g=2010-01-01) van toepassing is.
+- b. op de verantwoording van de bijdrage [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&z=2013-12-15&g=2013-12-15) van toepassing is.
 
-4. In het geval toepassing wordt gegeven aan het eerste lid, wordt bij de berekening van de uitkering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=3&artikel=5&z=2010-01-01&g=2010-01-01), de bijdrage, bedoeld in het derde lid, in mindering gebracht.
+4. In het geval toepassing wordt gegeven aan het eerste lid, wordt bij de berekening van de uitkering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=3&artikel=5&z=2013-12-15&g=2013-12-15), de bijdrage, bedoeld in het derde lid, in mindering gebracht.
 
 ##### Artikel 23
 
@@ -264,7 +264,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over de reserveringster
 
 ##### Artikel 26
 
-De voordracht voor een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=4&z=2010-01-01&g=2010-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=3&artikel=5&z=2010-01-01&g=2010-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&artikel=10&z=2010-01-01&g=2010-01-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=7&artikel=25&z=2010-01-01&g=2010-01-01) vast te stellen maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=2&artikel=4&z=2013-12-15&g=2013-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=3&artikel=5&z=2013-12-15&g=2013-12-15), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=5&artikel=10&z=2013-12-15&g=2013-12-15) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=7&artikel=25&z=2013-12-15&g=2013-12-15) vast te stellen maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 27
 
@@ -280,9 +280,9 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 29
 
-1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=19&z=2010-01-01&g=2010-01-01) werkt terug tot en met 1 juli 2002.
+1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=19&z=2013-12-15&g=2013-12-15) werkt terug tot en met 1 juli 2002.
 
-2. [Artikel 20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=20&z=2010-01-01&g=2010-01-01), werkt terug tot en met de datum van inwerkingtreding van de in dat artikel genoemde bepalingen van de Spoorwegwet (Stb. 2003, 264).
+2. [Artikel 20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=20&z=2013-12-15&g=2013-12-15), werkt terug tot en met de datum van inwerkingtreding van de in dat artikel genoemde bepalingen van de Spoorwegwet (Stb. 2003, 264).
 
 ##### Artikel 30
 
