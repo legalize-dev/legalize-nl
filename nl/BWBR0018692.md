@@ -4,7 +4,7 @@ identifier: "BWBR0018692"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2012-08-01"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018692"
 soort: "AMvB"
@@ -752,7 +752,7 @@ De op grond van [artikel 3, eerste lid onder b.1°, van de Wet op de expertisece
 
 ##### Artikel 4.3. Aanwijzing onderwijsactiviteiten vakleerkrachten voortgezet speciaal onderwijs
 
-De op grond van [artikel 3, eerste lid onder b.1°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aan te wijzen onderdelen en vakken, genoemd en bedoeld in [artikel 14, eerste tot en met derde en vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), zijn alle in die leden genoemde en bedoelde onderdelen en vakken.
+De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aan te wijzen onderdelen en vakken ingevolge de [artikelen 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c) en [14f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), zijn alle in die bepalingen genoemde en bedoelde onderdelen en vakken.
 
 ### Hoofdstuk 5. Overige bepalingen
 
