@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2013-08-01"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -60,9 +60,19 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 **bevoegd gezag** voor wat betreft:
 
-- a. een openbare school: het college van burgemeester en wethouders voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen, dan wel het krachtens een gemeenschappelijke regeling bevoegde orgaan;
+- a. een openbare school:
 
-- b. een bijzondere school: de rechtspersoon bedoeld in [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=44);
+- 1°. het college van burgemeester en wethouders, voor zover de raad niet anders bepaalt, en, indien de raad dit besluit, met inachtneming van door hem te stellen regelen;
+
+- 2°. het krachtens de desbetreffende gemeenschappelijke regeling bevoegde orgaan;
+
+- 3°. de openbare rechtspersoon, bedoeld in [atikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=50); dan wel
+
+- 4°. de stichting, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28) of [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=51);
+
+- b. **een bijzondere school:** de rechtspersoon, bedoeld in [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=57);
+
+- c. **een samenwerkingsschool:** de stichting, bedoeld in [artikel 28j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28j);
 
 **ouders:** ouders, voogden of verzorgers;
 
@@ -80,7 +90,7 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 **stagebegeleider:** degene die is belast met de begeleiding van de leerling en werkzaam is bij de stagegever;
 
-**symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs, onderwijs ontvangt onderscheidenlijk ontvangen op een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
+**symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 14, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), en [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), van de wet, onderwijs ontvangt onderscheidenlijk ontvangen op een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
 
 **ambulante begeleiding**: de begeleiding, bedoeld in [artikel 8a, derde lid onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8a);
 
@@ -90,7 +100,7 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2008-08-01&g=2013-08-01) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2013-12-19&g=2013-12-19) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap, met dien verstande dat een van de handicaps de handicap is op grond waarvan zij tot de school waaraan de afdeling is verbonden, kunnen worden toegelaten.
 
@@ -100,45 +110,29 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 Aan scholen voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs aan slechthorende kinderen kan een afdeling voor speciaal onderwijs aan kinderen met ernstige spraakmoeilijkheden worden verbonden.
 
-##### Artikel 4. Afdelingen voor slechtziende kinderen
+##### Artikel 4. Inhoud ontwikkelingsperspectief speciaal onderwijs
 
-Vervallen
+1. Voor een leerling in het speciaal onderwijs bevat het ontwikkelingsperspectief, bedoeld in [artikel 41a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), ten minste informatie over naar welk uitstroomprofiel van het voortgezet speciaal onderwijs, bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), uitstroom van de leerling wordt verwacht dan wel of uitstroom naar het reguliere voortgezet onderwijs wordt verwacht, en de onderbouwing daarvan.
 
-##### Artikel 5. Afdelingen voor zeer moeilijk lerende kinderen
+2. De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.
 
-Vervallen
+##### Artikel 5. Inhoud ontwikkelingsperspectief voortgezet speciaal onderwijs
+
+1. Voor een leerling in het voortgezet speciaal onderwijs bevat het ontwikkelingsperspectief, bedoeld in [artikel 41a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), ten minste informatie over naar welk vervolgonderwijs, naar welke soort arbeid of naar welke vorm van dagbesteding uitstroom van de leerling wordt verwacht, en de onderbouwing daarvan.
+
+2. De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.
 
 ## Titel IIA. Vakken in het voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen
 
 ##### Artikel 5a. Vakken in het voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen
 
-1. Voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen omvat, waar mogelijk in samenhang, ten minste:
-
-- a. Nederlandse taal, waaronder in elk geval wordt verstaan een functionele communicatievaardigheid in de Nederlandse taal voor wat betreft het mondelinge taalgebruik en, afhankelijk van de ontwikkelingsmogelijkheden van de leerling, het schriftelijke taalgebruik, gericht op de huidige en de te verwachten leef- en werksituatie van de leerling;
-
-- b. kennisgebieden bestaande uit, in samenhang, aardrijkskunde, geschiedenis, maatschappijleer en kennis der natuur, waaronder in elk geval wordt verstaan een functioneel aanbod van deze gebieden, leidende tot fundamentele vaardigheden welke zinvolle toepassingen mogelijk maken als het zich oriënteren in ruimte en tijd, het omgaan met mensen in verschillende situaties en in verschillende maatschappelijke rollen, het omgaan met dieren en planten en het omgaan met voorwerpen en verschijnselen uit de natuur;
-
-- c. rekenen en wiskunde, waaronder in elk geval wordt verstaan de vaardigheid van het praktisch omgaan met rekenkundige grootheden en het toepassen van eenvoudige rekenvaardigheden;
-
-- d. bevordering van sociale redzaamheid, waaronder in elk geval worden verstaan de vaardigheden die van wezenlijk belang zijn voor het leggen van sociale contacten en deelname aan het maatschappelijk verkeer, daaronder begrepen aspecten van sanitaire en cosmetische zorg, zorg voor de woning, de voeding en de kleding, vormen van sociale omgang in de huidige en de te verwachten leef- en werksituatie van de leerling en gedrag in het verkeer;
-
-- e. muziek, waaronder in elk geval wordt verstaan een systematische muzikale vorming, gericht op het leren luisteren naar muziek, het leren uiten van de eigen belevingswereld van de leerling met behulp van stem en instrument en het leren omgaan met ritmische elementen;
-
-- f. tekenen, waaronder in elk geval wordt verstaan de vaardigheid van het hanteren van teken- en schildermaterialen, van eenvoudige plattevlak-technieken en van het creatief vormgeven op papier van de eigen belevingswereld van de leerling;
-
-- g. handvaardigheid, waaronder in elk geval wordt verstaan het leren omgaan met verschillende materialen, de beheersing van daarbij passende eenvoudige technieken en het door middel daarvan creatief vormgeven aan de eigen belevingswereld van de leerling;
-
-- h. lichamelijke oefening, waaronder in elk geval wordt verstaan een systematische bewegingsopvoeding, gericht op beheersing van motorische, sociale en cognitieve vaardigheden met betrekking tot verschillende spel- en bewegingsvormen, zwemmen daaronder begrepen, de ontwikkeling van een goede lichamelijke conditie en een positieve bewegingsbeleving.
-
-2. Voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen omvat voorts ten minste 2 van de vakken die gegeven worden in het lager beroepsonderwijs, het algemeen voortgezet onderwijs en het voorbereidend wetenschappelijk onderwijs, anders dan de vakken bedoeld in het eerste lid.
+Vervallen
 
 ## Titel III. Stage
 
-##### Artikel 6. Stage in het speciaal onderwijs en het voortgezet speciaal onderwijs
+##### Artikel 6. Stage in het voortgezet speciaal onderwijs
 
-1. Voor leerlingen die voortgezet speciaal onderwijs ontvangen, kan het onderwijs een stage omvatten die wordt doorlopen op een of meer stageplaatsen, ter beschikking gesteld door een of meer stagegevers.
-
-2. Voor leerlingen die speciaal onderwijs ontvangen kan het onderwijs de in het eerste lid bedoelde stage omvatten indien dit in het belang van de leerlingen is en deze de leeftijd hebben bereikt waarop zij stage mogen lopen.
+Een stage wordt doorlopen op een of meer stageplaatsen, ter beschikking gesteld door een of meer stagegevers.
 
 ##### Artikel 7. Stageplan
 
@@ -146,7 +140,7 @@ Indien het onderwijs een stage omvat, worden het doel, de inhoud, de omvang, de 
 
 ##### Artikel 8. Duur van de stage
 
-1. De duur van de stage bedraagt ten hoogste twintig weken per schooljaar, gedurende ten hoogste 3 schooljaren.
+1. De duur van de stage bedraagt gedurende de cursusduur gemiddeld ten hoogste 50% van het aantal uren waarin onderwijs wordt verzorgd.
 
 2. Ten behoeve van het voorzien in of de voltooiing van een stage kan de inspecteur op verzoek van het bevoegd gezag ontheffing verlenen van het bepaalde in het eerste lid. Hij kan daarbij voorschriften geven.
 
@@ -166,6 +160,8 @@ Indien het onderwijs een stage omvat, worden het doel, de inhoud, de omvang, de 
 
 - e. een regeling die de inspecteur in staat stelt zich op de hoogte te stellen van de leeractiviteiten die de leerling bij de stagegever ontplooit.
 
+3. Indien het bevoegd gezag de stagegever is, wordt de stage-overeenkomst enkel gesloten tussen het bevoegd gezag en de leerling of diens wettelijke vertegenwoordiger, en is het tweede lid daarop van overeenkomstige toepassing.
+
 ##### Artikel 10. Verzekering
 
 Het bevoegd gezag draagt zorg dat de leerling gedurende de stage en gedurende de reis van de school naar het terrein van de stagegever en omgekeerd, alsmede de stageleraar gedurende de tijd dat hij zich bevindt op het terrein van de stagegever, zijn verzekerd tegen het risico van ongevallen en wettelijke aansprakelijkheid. Van de verplichting bedoeld in de vorige volzin, kan Onze Minister op verzoek van het bevoegd gezag ontheffing verlenen, indien het godsdienstige of levensbeschouwelijke bezwaren heeft tegen verzekering. Onze Minister verleent de ontheffing slechts indien het bevoegd gezag aantoont dat een afdoende andere voorziening is getroffen waaruit de gevolgen van een ongeval of van aansprakelijkheid in geval van schade aan derden kunnen worden gedekt.
@@ -180,35 +176,53 @@ Vervallen
 
 ##### Artikel 11. Symbiose
 
-Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs gedurende ten minste 180 minuten per week onderwijs.
+Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan de andere school, de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs gedurende ten minste 180 minuten per week onderwijs.
 
 ##### Artikel 12. Symbiose-overeenkomst
 
-1. Voor symbiose is vereist dat tussen het bevoegd gezag van een school en het bevoegd gezag van een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs een schriftelijke overeenkomst inzake de uitvoering daarvan wordt gesloten.
+1. Voor symbiose is vereist dat tussen het bevoegd gezag van een school en het bevoegd gezag van een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs een schriftelijke overeenkomst inzake de uitvoering daarvan wordt gesloten.
 
 2. De overeenkomst bedoeld in het eerste lid, wordt aangegaan voor een termijn van ten minste 2 aaneengesloten schooljaren en bevat in elk geval:
 
 - a. de termijn waarvoor de overeenkomst is aangegaan;
 
-- b. de vakken waarin de leerling, dan wel de leerlingen van de school onderwijs zullen ontvangen op de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs;
+- b. de vakken waarin de leerling, dan wel de leerlingen van de school onderwijs zullen ontvangen op de andere school, de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs;
 
 - c. het aantal lesuren per week dat per vak als bedoeld in onderdeel b, ten minste zal kunnen worden geboden;
 
-- d. de afspraken welke worden gemaakt inzake de aanwezigheid bij de lessen van een leraar van de school;
+- d. de afspraken welke worden gemaakt inzake de aanwezigheid bij de lessen van een leraar van de school en inzake andere begeleiding van de leerling vanuit de school;
 
-- e. of en zo ja, welk bedrag voor door de leerling, dan wel de leerlingen van de school verbruikte materialen jaarlijks aan het bevoegd gezag van de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs zal worden betaald;
+- e. of en zo ja, welk bedrag voor door de leerling, dan wel de leerlingen van de school verbruikte materialen jaarlijks aan het bevoegd gezag van de andere school, de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs zal worden betaald;
 
-- f. of en zo ja, welk bedrag voor het gebruik van de lokalen van de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs jaarlijks aan het bevoegd gezag van die school of inrichting zal worden betaald.
+- f. of en zo ja, welk bedrag voor het gebruik van de lokalen van de andere school, de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs jaarlijks aan het bevoegd gezag van die school of inrichting zal worden betaald.
 
-##### Artikel 13. Omvang groep leerlingen bij symbiose
+3. Voor symbiose binnen hetzelfde bevoegd gezag is vereist dat het bevoegd gezag inzake de uitvoering daarvan de onderwerpen, bedoeld in het tweede lid, op overeenkomstige wijze regelt, met het oog op een termijn van ten minste twee aaneengesloten schooljaren.
 
-Vervallen
+##### Artikel 13. Vavo-examen vso-leerlingen
 
-## Titel V. Ambulante begeleiding, partieel en tijdelijk meetellen van leerlingen
+Het bevoegd gezag kan, in het kader van [artikel 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14b), leerlingen van 16 jaar en ouder in de gelegenheid stellen deel te nemen aan een examen van een opleiding voortgezet algemeen volwassenenonderwijs. Wat betreft leerlingen van 18 jaar en ouder, kan de eerste volzin enkel worden toegepast voor leerlingen die ononderbroken in het voortgezet speciaal onderwijs ingeschreven zijn geweest.
 
-##### Artikel 14. Ambulante begeleiding met betrekking tot het onderwijs als bedoeld in artikel 2, tweede lid onderdeel a tot en met c, f en n, van de wet
+## Titel V. Afwijkingen delen onderwijsprogramma
 
-Vervallen
+##### Artikel 14. Afwijkingen delen onderwijsprogramma arbeidsmarktgericht uitstroomprofiel en uitstroomprofiel dagbesteding
+
+1. Voor afwijkingen als bedoeld in [artikel 14c, negende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
+
+2. De commissie voor de begeleiding, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40b), dan wel de commissie van onderzoek, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41), adviseert het bevoegd gezag ten aanzien van welke leerlingen [artikel 14c, negende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk [artikel 14f, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) toepassing kan vinden.
+
+3. In haar advies doet de commissie aan het bevoegd gezag voorstellen ten aanzien van de aard van de in het tweede lid bedoelde afwijkingen. Daarbij geeft zij aan waarop deze voorstellen zijn gegrond.
+
+4. De commissie betrekt in elk geval bij haar oordeelsvorming:
+
+- a. in voorkomende gevallen het onderwijskundig rapport, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), dan wel in [artikel 42 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42);
+
+- b. het ontwikkelingsperspectief, bedoeld in [artikel 41a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a);
+
+- c. de zienswijze van de ouders van de leerlingen, welke zienswijze blijkt uit een schriftelijke verklaring;
+
+- d. de zienswijze van de leraar of leraren, belast met het betrokken onderwijs, welke zienswijze blijkt uit een schriftelijke verklaring.
+
+5. Het advies wordt schriftelijk uitgebracht aan het bevoegd gezag. Indien het bevoegd gezag voornemens is af te wijken van het advies van de commissie, overlegt het over dit voornemen met de commissie. De beslissing van het bevoegd gezag is met redenen omkleed. Het bevoegd gezag zendt een afschrift van zijn beslissing, vergezeld van het advies van de commissie en de daarbij gevoegde verklaringen, bedoeld in het vierde lid, aan de ouders van de betrokken leerlingen, aan de betrokken leraar of leraren en aan de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
 
 ##### Artikel 15. Partieel en tijdelijk meetellen van leerlingen met betrekking tot het onderwijs bedoeld in artikel 2, tweede lid, onderdeel h tot en met m, van de wet
 
@@ -275,3 +289,5 @@ Vervallen
 Vervallen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+
+## Titel IIA. Ontwikkelingsperspectief
