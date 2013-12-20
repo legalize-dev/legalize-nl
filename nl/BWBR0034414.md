@@ -4,7 +4,7 @@ identifier: "BWBR0034414"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2013-01-01"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034414"
 soort: "AMvB"
@@ -146,7 +146,7 @@ Indien een voor de berekening van de pensioenaanspraken of het pensioen toe te p
 
 ##### Artikel 2.2.1
 
-1. De inhouding op de bezoldiging terzake van aanspraken bij ouderdom en overlijden, bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=106) en [160, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=160), is gelijk aan het premieverhaal op een overheidswerknemer ter zake van de premie die aan het ABP verschuldigd is voor het ouderdoms- en nabestaandenpensioen en de Anw-compensatie, met inachtneming van de franchise, bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2013-12-20&g=2013-01-01).
+1. De inhouding op de bezoldiging terzake van aanspraken bij ouderdom en overlijden, bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=106) en [160, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=160), is gelijk aan het premieverhaal op een overheidswerknemer ter zake van de premie die aan het ABP verschuldigd is voor het ouderdoms- en nabestaandenpensioen en de Anw-compensatie, met inachtneming van de franchise, bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2013-12-20&g=2013-12-20).
 
 2. De inhouding op de bezoldiging ter zake van aanspraken bij arbeidsongeschiktheid, bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=106) en [160, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=160), is gelijk aan het premieverhaal op een overheidswerknemer ter zake van de premie die aan het ABP verschuldigd is voor het ABP Arbeidsongeschiktheidspensioen, met inachtneming van de daarvoor geldende franchise.
 
@@ -170,7 +170,7 @@ De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming v
 
 ##### Artikel 3.1.3
 
-1. Het pensioen bedraagt voor ieder dienstjaar 2 percent van de daarvoor geldende pensioengrondslag, zoals berekend op grond van de [artikelen 3.1.4 tot en met 3.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.4&z=2013-12-20&g=2013-01-01). Voor de toepassing van deze artikelen wordt verstaan onder wedde: de laatstelijk genoten wedde, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=8) aangepast volgens de regels, bedoeld in [artikel 105, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=105).
+1. Het pensioen bedraagt voor ieder dienstjaar 2 percent van de daarvoor geldende pensioengrondslag, zoals berekend op grond van de [artikelen 3.1.4 tot en met 3.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.4&z=2013-12-20&g=2013-12-20). Voor de toepassing van deze artikelen wordt verstaan onder wedde: de laatstelijk genoten wedde, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=8) aangepast volgens de regels, bedoeld in [artikel 105, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=105).
 
 2. In afwijking van het eerste lid behoort niet tot de wedde de verhoging van de wedde per 1 januari 2001 ingevolge dan wel op de voet van [artikel 3 van de Wet brutering overhevelingstoeslag lonen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=3).
 
@@ -202,7 +202,7 @@ De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming v
 
 2. De wedde wordt voor de toepassing van het eerste lid vermenigvuldigd met 100/110 indien deze laatstelijk is genoten tussen 31 december 1985 en 1 januari 1995. De aldus vastgestelde pensioengrondslag is echter niet lager dan de wedde verminderd met € 2.867,89. Het bedrag van € 2.867,89 wordt met ingang van 1 januari 2008 gewijzigd in € 4.434,37 en met ingang van 1 januari 2010 in € 4.446,79.
 
-3. De wedde wordt voor de toepassing van het eerste lid vermenigvuldigd met een debruteringsfactor zoals berekend op grond van [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2013-12-20&g=2013-01-01), indien deze laatstelijk is genoten na 31 december 1994. Op het aldus gevonden bedrag is het tweede lid van dit artikel van toepassing.
+3. De wedde wordt voor de toepassing van het eerste lid vermenigvuldigd met een debruteringsfactor zoals berekend op grond van [artikel 2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2013-12-20&g=2013-12-20), indien deze laatstelijk is genoten na 31 december 1994. Op het aldus gevonden bedrag is het tweede lid van dit artikel van toepassing.
 
 4. [Hoofdstuk 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=17) is van toepassing op het pensioen, indien of voor zover berekend over de in het eerste lid bedoelde tijd.
 
@@ -228,7 +228,7 @@ Voor de tijd tussen 1 januari 1995 en 1 januari 2004 zijn de ingevolge [artikel 
 
 ##### Artikel 3.1.7
 
-Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.5&z=2013-12-20&g=2013-01-01), van toepassing, met dien verstande dat de franchise als volgt wordt vastgesteld:
+Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.5&z=2013-12-20&g=2013-12-20), van toepassing, met dien verstande dat de franchise als volgt wordt vastgesteld:
 
 | Ingangsdatum | Franchise |
 | --- | --- |
@@ -245,11 +245,11 @@ Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.over
 
 ##### Artikel 3.1.8
 
-1. De betrokkene heeft recht op een toeslag op zijn pensioen indien dat pensioen is berekend met toepassing van de franchise bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-01-01) en indien de kalendertijd, waarin de voor de berekening van zijn pensioen meetellende diensttijd is gelegen, geheel of gedeeltelijk samenvalt met kalendertijd, die in aanmerking is genomen bij de berekening van enig pensioen waarop zijn echtgenoot recht heeft, mits op laatstbedoeld pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en indien de diensttijd valt tussen 31 december 1985 en 1 januari 1995.
+1. De betrokkene heeft recht op een toeslag op zijn pensioen indien dat pensioen is berekend met toepassing van de franchise bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-12-20) en indien de kalendertijd, waarin de voor de berekening van zijn pensioen meetellende diensttijd is gelegen, geheel of gedeeltelijk samenvalt met kalendertijd, die in aanmerking is genomen bij de berekening van enig pensioen waarop zijn echtgenoot recht heeft, mits op laatstbedoeld pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en indien de diensttijd valt tussen 31 december 1985 en 1 januari 1995.
 
 2. Voor de toepassing van dit artikel wordt mede als echtgenoot aangemerkt degene die voor de toepassing van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) als echtgenoot van de betrokkene wordt aangemerkt.
 
-3. De in het eerste lid bedoelde toeslag bedraagt voor elk voor de berekening van het pensioen meetellend jaar binnen de samenlopende kalendertijd 0,525 percent van de franchise bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-01-01).
+3. De in het eerste lid bedoelde toeslag bedraagt voor elk voor de berekening van het pensioen meetellend jaar binnen de samenlopende kalendertijd 0,525 percent van de franchise bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-12-20).
 
 4. De toeslag wordt slechts toegekend op verzoek en gaat in op de dag waarop de in het eerste lid bedoelde omstandigheid is opgetreden, met dien verstande dat de toeslag niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek is ingediend.
 
@@ -265,7 +265,7 @@ Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.over
 
 ##### Artikel 3.1.10
 
-De opgebouwde pensioenaanspraken, bedoeld in [artikel 40a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=40a), zijn de aanspraken die zijn opgebouwd vóór 1 januari 2014. Vanaf deze datum worden de aanspraken gewijzigd overeenkomstig [artikel 2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.8&z=2013-12-20&g=2013-01-01)
+De opgebouwde pensioenaanspraken, bedoeld in [artikel 40a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=40a), zijn de aanspraken die zijn opgebouwd vóór 1 januari 2014. Vanaf deze datum worden de aanspraken gewijzigd overeenkomstig [artikel 2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.8&z=2013-12-20&g=2013-12-20)
 
 #### § 2. De inhouding tot 1 januari 2014
 
@@ -296,7 +296,7 @@ De opgebouwde pensioenaanspraken, bedoeld in [artikel 40a, derde lid, van de wet
 
 ##### Artikel 4.1.1
 
-De franchise, bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=22), is de algemene franchise, zoals vastgesteld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-01-01), voor het tijdvak vanaf 1 januari 1986 tot 1 januari 1995, in het geval de betrokkene voor de toepassing van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) als gehuwd wordt aangemerkt.
+De franchise, bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=22), is de algemene franchise, zoals vastgesteld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&paragraaf=1&artikel=3.1.7&z=2013-12-20&g=2013-12-20), voor het tijdvak vanaf 1 januari 1986 tot 1 januari 1995, in het geval de betrokkene voor de toepassing van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) als gehuwd wordt aangemerkt.
 
 ### Hoofdstuk 5. De afkoop van een klein pensioen met ingang van 1 januari 2014
 
