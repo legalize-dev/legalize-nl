@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2012-12-21"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 - h. worden, ingeval sprake is van groepsverhoudingen leidende tot een geconsolideerde jaarverslaggeving van de bevoegde gezagen, in de toelichting van de geconsolideerde jaarverslaggeving, de balans en de staat van baten en lasten zodanig gesegmenteerd, dat inzicht ontstaat in de onderscheiden posten uit de geconsolideerde jaarrekening op het instandhoudingsniveau;
 
-- i. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2012-12-21&g=2012-12-21) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
+- i. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2013-12-21&g=2013-12-21) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
 
 - j. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) in stand houdt;
 
@@ -110,13 +110,21 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 2. Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar EER-studenten en niet EER-studenten. Tevens geven zij aan wat de hoogte is van de uitgaven samenhangend met het profileringsfonds.
 
-3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2012-12-21&g=2012-12-21) bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling.
+3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2013-12-21&g=2013-12-21) bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling.
+
+4. In het jaarverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2013-12-21&g=2013-12-21) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage betreft onder meer het risicomanagement en het interne toezicht.
+
+5. Een instelling voor hoger onderwijs verantwoordt zich in het jaarverslag over het verslagjaar 2015 conform het [Besluit experiment prestatiebekostiging hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032163) over realisatie van de plannen in het tijdvak 2013 tot en met 2015 en de daarbij in het vooruitzicht gestelde resultaten, voor zover die betrekking hebben op onderwijskwaliteit en studiesucces. Een instelling voor hoger onderwijs verstrekt tevens:
+
+- a. voor de verplichte indicatoren voor kwaliteit en studiesucces: de nulmeting, de ambitie zoals geformuleerd in de prestatieafspraak en het realisatiecijfer in 2015; en
+
+- b. een overzicht van de door de instelling gehanteerde definities, omschrijvingen en methoden voor de verplichte indicatoren voor onderwijskwaliteit en studiesucces bij de meting van de realisatiecijfers in 2015.
 
 ##### Artikel 5. Aanleveren gegevens
 
 1. Het bevoegd gezag levert de jaarverslaggeving, bestaande uit het bestuursverslag en de jaarrekening, in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.
 
-2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2012-12-21&g=2012-12-21), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
+2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2013-12-21&g=2013-12-21), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -126,7 +134,7 @@ Deze regeling treedt in werking per 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
-## Bijlage 1. , behorende bij [artikel 3, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2012-12-21&g=2012-12-21), van de regeling
+## Bijlage 1. , behorende bij [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2013-12-21&g=2013-12-21), van de regeling
 
 De FSR voor verslagjaar: ………
 
@@ -148,7 +156,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 2. Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel niet EER-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend.
 
-## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2012-12-21&g=2012-12-21), van de regeling
+## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2013-12-21&g=2013-12-21), van de regeling
 
 |   | Naam individuele bestuurder | Naam individuele bestuurder | Naam individuele bestuurder |
 | --- | --- | --- | --- |
@@ -159,11 +167,9 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 |   |   |   |   |
 | **Totaal** |   |   |   |
 
-## Bijlage 3
+## Bijlage 3. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2013-12-21&g=2013-12-21)
 
-Vervallen
-
-### **Berekening BAPO verplichtingen 2008 en 2009**
+### 1. Sectoren PO en VO
 
 ## Bijlage 3
 
@@ -210,5 +216,109 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 Vervallen
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+### A. Gegevensset
+
+**A1.** In het jaarverslag worden de navolgende kengetallen voor het verslagjaar en de jaren T+1, T+2 en T+3 opgenomen:
+
+**Personele bezetting in FTE**
+
+### Leerlingenaantallen
+
+Deze kengetallen worden voorzien van een toelichting. In de toelichting bij deze kengetallen geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om ontwikkelingen in
+
+**A2.** In het jaarverslag wordt een **meerjarenbegroting** opgenomen op het hoogste aggregatieniveau, met de navolgende posten. Deze meerjarenbegroting is gebaseerd op de standaardindeling van de Regeling jaarverslaggeving onderwijs en omvat de cijfers van het verslagjaar en voorts de jaren t+1 tot en met t+3
+
+### Balans
+
+Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserve publiek, Bestemmingsreserve privaat, Bestemmingsfonds publiek en Bestemmingsfonds privaat), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om verwachte ontwikkelingen in
+
+### Staat / Raming van Baten en Lasten
+
+De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies en Overige baten.
+
+De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
+
+Het Saldo Baten en lasten, Saldo financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
+
+Totaal resultaat en Incidentele baten en lasten in totaal resultaat.
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om de financiële gevolgen van de ontwikkelingen in
+
+### B. Overige rapportages
+
+**B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.**
+
+In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
+
+**B2. Beschrijving van de belangrijkste risico’s en onzekerheden**
+
+In deze rapportage geeft het bestuur aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden.
+
+Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
+
+**B3. Rapportage toezichthoudend orgaan.**
+
+In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
+
+### 2. Sectoren MBO en HO
+
+### A. Gegevensset
+
+**A1.** In het jaarverslag worden de navolgende kengetallen voor het verslagjaar en de jaren T+1, T+2 en T+3 opgenomen:
+
+**Personele bezetting in FTE (stand 31/12)**
+
+### Studenten/deelnemersaantallen
+
+Deze kengetallen worden voorzien van een toelichting. In de toelichting bij deze kengetallen geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om ontwikkelingen in
+
+**A2.** In het jaarverslag wordt een **meerjarenbegroting** opgenomen op het hoogste aggregatieniveau, met de navolgende posten. Deze meerjarenbegroting is gebaseerd op de standaardindeling van de Regeling jaarverslaggeving onderwijs en omvat de cijfers van het verslagjaar en voorts de jaren t+1 tot en met t+3
+
+### Balans
+
+Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserve publiek, Bestemmingsreserve privaat, Bestemmingsfonds publiek en Bestemmingsfonds privaat), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om verwachte ontwikkelingen in
+
+### Staat / Raming van Baten en Lasten
+
+De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen, College- cursus en examengelden, Baten werk in opdracht van derden en Overige baten.
+
+De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
+
+Het Saldo Baten en lasten, Saldo financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
+
+Totaal resultaat en Incidentele baten en lasten in totaal resultaat.
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om de financiële gevolgen van de ontwikkelingen in
+
+### B. Overige rapportages
+
+**B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.**
+
+In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
+
+**B2. Beschrijving van de belangrijkste risico’s en onzekerheden**
+
+In deze rapportage geeft het bestuur aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden.
+
+Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
+
+**B3. Rapportage toezichthoudend orgaan.**
+
+In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
