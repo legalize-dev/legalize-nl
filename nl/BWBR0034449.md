@@ -4,7 +4,7 @@ identifier: "BWBR0034449"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-12-10"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034449"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2023-12-21"
 ---
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 18 december 2013, nr. IENM/ILT-2013/74125, houdende aanwijzing van toezichthoudende ambtenaren en verlening van mandaat, volmacht en machtiging in verband met de bestuursrechtelijke handhaving van de Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk (Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)
 
-Gelet op [artikel 5.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10) voor zover het betreft [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2013-12-21&g=2013-12-10) en de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) voor zover het betreft de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2013-12-21&g=2013-12-10);
+Gelet op [artikel 5.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10) voor zover het betreft [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2013-12-21&g=2013-12-21) en de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) voor zover het betreft de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2013-12-21&g=2013-12-21);
 
 Gezien de instemming van de gemandateerden;
 
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0031686) zijn belast de functionarissen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&bijlage=1&z=2013-12-21&g=2013-12-10).
+Met het toezicht op de naleving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0031686) zijn belast de functionarissen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&bijlage=1&z=2013-12-21&g=2013-12-21).
 
 ##### Artikel 2
 
-1. Aan de functionarissen genoemd, in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&bijlage=2&z=2013-12-21&g=2013-12-10), wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van de overige daarmee verband houdende handelingen ter bestuursrechtelijke handhaving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0031686).
+1. Aan de functionarissen genoemd, in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&bijlage=2&z=2013-12-21&g=2013-12-21), wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van de overige daarmee verband houdende handelingen ter bestuursrechtelijke handhaving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0031686).
 
 2. Het eerste lid is niet van toepassing op het nemen van beslissingen op bezwaarschriften.
 
@@ -74,7 +74,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.
 
-## Bijlage 1. bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2013-12-21&g=2013-12-10)
+## Bijlage 1. bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2013-12-21&g=2013-12-21)
 
 | Provincie | Functieomschrijving |
 | --- | --- |
@@ -91,7 +91,7 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat 
 | Groningen | Projectmedewerker A Projectmedewerker B Projectmedewerker C |
 | Zuid-Holland | DCMR: – 1e medewerker toezicht en handhaving – Medewerker toezicht en handhaving Omgevingsdienst Haaglanden – Toezichthouder milieu B – Toezichthouder milieu C Omgevingsdienst West Holland – Milieutechnisch medewerker toezicht – Adviseur bedrijven – Medewerker handhaving Omgevingsdienst Midden Holland: – Vakspecialist A – Vakspecialist B Omgevingsdienst Zuid-Holland zuid – Senior inspecteur – Inspecteur – Junior inspecteur |
 
-## Bijlage 2. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2013-12-21&g=2013-12-10)
+## Bijlage 2. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2013-12-21&g=2013-12-21)
 
 | Provincie | Functiebeschrijving |
 | --- | --- |
