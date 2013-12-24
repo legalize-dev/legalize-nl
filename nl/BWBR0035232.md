@@ -4,7 +4,7 @@ identifier: "BWBR0035232"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035232"
 soort: "ministeriele-regeling"
@@ -50,6 +50,8 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
+Dit onderdeel is nog niet inwerking getreden
+
 ##### Artikel IV
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
@@ -58,7 +60,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van [artikel 122ca, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca) wordt niet in aanmerking genomen de door het Uitvoeringsinstituut werknemersverzekeringen aangegeven basispremie, bedoeld in [artikel 34, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=34), die het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd over op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) verstrekte uitkeringen.
 
 ##### Artikel VI
 
