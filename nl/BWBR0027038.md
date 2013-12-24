@@ -4,7 +4,7 @@ identifier: "BWBR0027038"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2021-07-06"
-last_updated: "2010-01-01"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027038"
 soort: "beleidsregel"
@@ -102,8 +102,8 @@ Deze beleidsregel is van toepassing op lesgeldplichtige vreemdelingen die:
 
 ##### Artikel 6. Overgangsrecht
 
-Op een lesgeldplichtige, die de leeftijdsgrens van 30 jaar als bedoeld in [artikel 2.3, derde lid WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.3), of [artikel 2.3, tweede lid WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) is gepasseerd en die in het schooljaar 2002–2003 reeds een opleiding volgde, is [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027038&artikel=3&z=2010-01-01&g=2010-01-01) van deze beleidsregel niet van toepassing gedurende de periode dat hij dezelfde opleiding zonder onderbreken blijft volgen.
+Op een lesgeldplichtige, die de leeftijdsgrens van 30 jaar als bedoeld in [artikel 2.3, derde lid WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.3), of [artikel 2.3, tweede lid WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) is gepasseerd en die in het schooljaar 2002–2003 reeds een opleiding volgde, is [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027038&artikel=3&z=2013-12-24&g=2013-12-24) van deze beleidsregel niet van toepassing gedurende de periode dat hij dezelfde opleiding zonder onderbreken blijft volgen.
 
 ##### Artikel 7. Bekendmaking
 
-Deze beleidsregel treedt in werking op 1 januari 2010 en vervalt uiterlijk op 1 januari 2014. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
+Deze beleidsregel treedt met ingang van 1 januari 2010 in werking. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
