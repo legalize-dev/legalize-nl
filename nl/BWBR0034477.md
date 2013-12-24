@@ -4,7 +4,7 @@ identifier: "BWBR0034477"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-24"
-last_updated: "2013-09-01"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034477"
 soort: "ministeriele-regeling"
@@ -94,11 +94,11 @@ Als leden van de commissie worden benoemd:
 
 ##### Artikel 7. Advies
 
-1. Het advies als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-09-01), wordt algemeen beschikbaar gesteld.
+1. Het advies als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-12-24), wordt algemeen beschikbaar gesteld.
 
 2. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan aan het tijdig uitbrengen van het advies, dan stelt zij de Minister daarvan onverwijld op de hoogte.
 
-3. De Minister beslist over de eventuele verlenging van de termijn als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-09-01) en brengt de commissie daarvan schriftelijk op de hoogte.
+3. De Minister beslist over de eventuele verlenging van de termijn als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-12-24) en brengt de commissie daarvan schriftelijk op de hoogte.
 
 ##### Artikel 8. Vergoeding
 
@@ -108,7 +108,7 @@ Als leden van de commissie worden benoemd:
 
 ##### Artikel 9. Einde commissie
 
-Zodra de commissie advies heeft uitgebracht aan het bestuurlijk overleg van de ondertekenende partijen van het convenant “Ruimte voor geven”, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-09-01), eindigen de werkzaamheden van de commissie.
+Zodra de commissie advies heeft uitgebracht aan het bestuurlijk overleg van de ondertekenende partijen van het convenant “Ruimte voor geven”, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034477&artikel=3&z=2013-12-24&g=2013-12-24), eindigen de werkzaamheden van de commissie.
 
 ##### Artikel 10. Archief
 
