@@ -4,7 +4,7 @@ identifier: "BWBR0027008"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2013-12-24"
-last_updated: "2010-01-01"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027008"
 soort: "beleidsregel"
@@ -44,6 +44,6 @@ In afwijking van [artikel 4.10, tweede lid, WTOS](https://wetten.overheid.nl/jci
 
 ##### Artikel 2
 
-Deze beleidsregel treedt op 1 januari 2010 in werking en vervalt uiterlijk 1 januari 2014.
+Deze beleidsregel treedt met ingang van 1 januari 2010 in werking.
 
 Deze beleidsregel met toelichting wordt geplaatst in de Staatscourant.
