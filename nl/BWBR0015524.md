@@ -4,7 +4,7 @@ identifier: "BWBR0015524"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2010-10-10"
+last_updated: "2013-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015524"
 soort: "AMvB"
@@ -84,9 +84,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 4. (Accountantsverklaring)
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2010-10-10&g=2010-10-10) voor de provincie, [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2010-10-10&g=2010-10-10) voor de gemeente onderscheidenlijk [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1c&z=2010-10-10&g=2010-10-10) voor het openbaar lichaam.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2013-12-25&g=2013-12-25) voor de provincie, [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2013-12-25&g=2013-12-25) voor de gemeente onderscheidenlijk [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1c&z=2013-12-25&g=2013-12-25) voor het openbaar lichaam.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2010-10-10&g=2010-10-10).
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2013-12-25&g=2013-12-25).
 
 ##### Artikel 5. (Verslag van bevindingen)
 
@@ -98,11 +98,11 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 4. In het verslag van bevindingen van de accountant wordt per specifieke uitkering gerapporteerd met een rapporteringstolerantie gebaseerd op de lasten van de specifieke uitkering in het verantwoordingsjaar of, bij meerjarige financiële afrekening op basis van prestatieafspraken, gebaseerd op het totale voorschot per specifieke uitkering, in alle gevallen met een ondergrens van te melden bevindingen van:
 
-- a. € 10.000 indien de lasten kleiner dan of gelijk aan € 100.000 zijn;
+- a. € 12.500 indien de lasten kleiner dan of gelijk aan € 125.000 zijn;
 
-- b. 10% indien de lasten groter dan € 100.000 en kleiner dan of gelijk aan € 1.000.000 zijn;
+- b. 10% indien de lasten groter dan € 125.000 en kleiner dan of gelijk aan € 1.000.000 zijn;
 
-- c. € 100.000 indien de lasten groter dan € 1.000.000 zijn.
+- c. € 125.000 indien de lasten groter dan € 1.000.000 zijn.
 
 ##### Artikel 6. (Uitbreiding grondslag)
 
@@ -182,7 +182,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a. (Controle specifieke uitkeringen)
 
-De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risico’s die richtinggevend zijn voor de inrichting van de accountantscontrole. Indien de provincie of gemeente een of meer specifieke uitkeringen ontvangt met een omvang van tenminste € 100.000,– in het verantwoordingsjaar voert de accountant in ieder geval voor elk van die specifieke uitkeringen een deelwaarneming uit.
+De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risico’s die richtinggevend zijn voor de inrichting van de accountantscontrole. Indien de provincie of gemeente een of meer specifieke uitkeringen ontvangt met een omvang van tenminste € 125.000 in het verantwoordingsjaar voert de accountant in ieder geval voor elk van die specifieke uitkeringen een deelwaarneming uit.
 
 ## Bijlage 1a. Tekst goedkeurende accountantsverklaring
 
@@ -228,7 +228,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. (Reikwijdte)
 
-De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2010-10-10&g=2010-10-10) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2010-10-10&g=2010-10-10), van dit besluit zijn niet van toepassing op de openbare lichamen.
+De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2013-12-25&g=2013-12-25) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2013-12-25&g=2013-12-25), van dit besluit zijn niet van toepassing op de openbare lichamen.
 
 ## Bijlage 1a. Tekst goedkeurende accountantsverklaring
 
@@ -272,6 +272,6 @@ Wij zijn van oordeel dat de jaarrekening van het openbaar lichaam .... (naam) ge
 
 ### soort verklaring
 
-Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2010-10-10&g=2010-10-10) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2013-12-25&g=2013-12-25) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
