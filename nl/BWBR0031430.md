@@ -4,7 +4,7 @@ identifier: "BWBR0031430"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2013-01-19"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031430"
 soort: "ministeriele-regeling"
@@ -146,7 +146,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis te bezitten van:
 
-- a. voorschriften inzake rij- en rusttijden zoals beschreven in [Verordening (EEG) nr. 3820/85](31985R3820) van de Raad van 20 december 1985 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
+- a. voorschriften inzake rij- en rusttijden zoals beschreven in Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
 
 - b. het gebruik van controleapparatuur zoals beschreven in [Verordening (EEG) nr. 3821/85](31985R3821) van de Raad van 20 december 1985 betreffende het controleapparaat in het wegvervoer;
 
@@ -160,7 +160,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 7
 
-1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2013-01-19&g=2013-01-19) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2013-12-31&g=2013-12-31) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 2. Tevens dienen de in het eerste lid bedoelde aanvragers blijk te geven van kennis van:
 
@@ -186,7 +186,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 8
 
-[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2013-01-19&g=2013-01-19), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie D, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2013-12-31&g=2013-12-31), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie D, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 ##### Artikel 9
 
