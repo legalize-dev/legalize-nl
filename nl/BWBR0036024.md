@@ -1,0 +1,225 @@
+---
+title: "Wet van 17 december 2014 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2015)"
+identifier: "BWBR0036024"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2013-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036024"
+soort: "wet"
+stam_id: "12909743"
+version_id: "22835012"
+internal_id: "C32999971"
+label_id: "12879354"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036024/2018-01-01/0"
+intitule_bron: "Stb.2014-578"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-17"
+intitule_published: "2014-12-29"
+intitule_in_force: "2014-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2015-455"
+original_signed_date: "2015-11-25"
+original_published_date: "2015-12-02"
+original_effect: "structuurwijziging"
+original_dossier: "34220"
+original_url_id: "stb-2015-455"
+entry_into_force_date: "2015-11-25"
+entry_into_force_dossier: "34220"
+jci_1_3: "jci1.3:c:BWBR0036024&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0036024&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2015"
+signed_date: "2015-11-25"
+entry_into_force: "2015-11-25"
+---
+# Wet van 17 december 2014 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2015)
+
+##### Artikel I
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel II
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel III
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel IV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel V
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel VI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel VII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel VIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel IX
+
+Wijzigt de Wet op de vennootschapsbelasting 1969.
+
+##### Artikel IXa
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel X
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel Xa
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XIV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XVI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XVII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XVIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XIX
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XX
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXIV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXIVa
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXIVb
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXVI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXVII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXVIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXIX
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXX
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXa
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXIV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXVI
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXVII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXXVIII
+
+Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het voor het jaar 2015 en volgende wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het regeerakkoord, de Begrotingsafspraken 2014 en de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2015 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die niet later dan 1 januari 2015 in werking moeten treden;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XXXIVa
+
+Voor zover een renteperiode waarover ingevolge de [artikelen 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h) en [30ha van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) met betrekking tot een naheffingsaanslag ter zake van dividendbelasting belastingrente in rekening wordt gebracht, onderscheidenlijk met betrekking tot een teruggaafbeschikking ter zake van dividendbelasting belastingrente wordt vergoed, is gelegen vóór 1 januari 2013, is in afwijking van [artikel 30hb, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) de regeling inzake het rentepercentage van de heffingsrente van [artikel 30f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f), zoals dat luidde op 31 december 2012, van toepassing.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
