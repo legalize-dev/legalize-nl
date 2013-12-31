@@ -4,7 +4,7 @@ identifier: "BWBR0015600"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-31"
-last_updated: "2008-09-30"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015600"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De aanvrager van het praktijkexamen dient blijk te geven in staat te zijn na te 
 
 ##### Artikel 2
 
-Naast de punten genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=1&z=2008-09-30&g=2008-09-30) moet de aanvrager in staat zijn een selectie van de hierna genoemde handelingen uit te voeren:
+Naast de punten genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=1&z=2013-12-31&g=2013-12-31) moet de aanvrager in staat zijn een selectie van de hierna genoemde handelingen uit te voeren:
 
 - a. controle van de banden en bandenspanning;
 
@@ -108,7 +108,7 @@ Tijdens het praktijkexamen dient de aanvrager blijk te geven in staat te zijn om
 
 ##### Artikel 4
 
-De aanvrager dient tijdens het praktijkexamen blijk te geven inzicht te hebben ten aanzien van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2008-09-30&g=2008-09-30) genoemde handelingen en manoeuvres door middel van:
+De aanvrager dient tijdens het praktijkexamen blijk te geven inzicht te hebben ten aanzien van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31) genoemde handelingen en manoeuvres door middel van:
 
 - a. het letten op tekens en overige aanduidingen op de weg;
 
@@ -132,11 +132,11 @@ De aanvrager dient tijdens het praktijkexamen blijk te geven inzicht te hebben t
 
 ##### Artikel 5
 
-De aanvrager dient bij het uitvoeren van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2008-09-30&g=2008-09-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=4&z=2008-09-30&g=2008-09-30) genoemde examenonderdelen blijk te geven:
+De aanvrager dient bij het uitvoeren van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=4&z=2013-12-31&g=2013-12-31) genoemde examenonderdelen blijk te geven:
 
 - a. het ontkoppelings- en schakelmechanisme van het voertuig op juiste wijze te bedienen;
 
-- b. op juiste en economische wijze zowel versnellend als vertragend over te schakelen;
+- b. zuinig en energie-efficiënt te rijden, waarbij wordt gelet op het aantal omwentelingen per minuut en het schakelen, remmen en versnellen;
 
 - c. zowel de gastoevoer als de remmen van het voertuig op juiste en economische wijze te bedienen;
 
@@ -150,7 +150,7 @@ De aanvrager dient bij het uitvoeren van de in de [artikelen 3](https://wetten.o
 
 ##### Artikel 6
 
-De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2008-09-30&g=2008-09-30), bedoelde bijzondere verrichtingen bestaan voor de categorie B uit:
+De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31), bedoelde bijzondere verrichtingen bestaan voor de categorie B uit:
 
 - a. het op juiste en veilige wijze in- of uitstappen;
 
@@ -172,7 +172,7 @@ De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artik
 
 ##### Artikel 7
 
-De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2008-09-30&g=2008-09-30), bedoelde bijzondere verrichtingen bestaan voor de categorie E bij B uit:
+De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31), bedoelde bijzondere verrichtingen bestaan voor de categorie E bij B uit:
 
 - a. het op juiste en veilige wijze in- of uitstappen;
 
