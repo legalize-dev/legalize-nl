@@ -4,7 +4,7 @@ identifier: "BWBR0031424"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2013-01-19"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031424"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën D1, E bij D1, D en E bij D.
 
-## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031424&paragraaf=1&artikel=1&z=2013-01-19&g=2013-01-19) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031424&paragraaf=2&artikel=2&z=2013-01-19&g=2013-01-19) van de Regeling eisen praktijkexamens rijbewijscategorieën D1, E bij D1, D en E bij D
+## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031424&paragraaf=1&artikel=1&z=2013-12-31&g=2013-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031424&paragraaf=2&artikel=2&z=2013-12-31&g=2013-12-31) van de Regeling eisen praktijkexamens rijbewijscategorieën D1, E bij D1, D en E bij D
 
 ### Eind- en toetstermen voor het praktijk-examen rijbewijs voor categorie D, D1
 
