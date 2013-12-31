@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2013-01-19"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19c), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [145, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=191) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
+1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19c), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=191) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
 
 2. In het rijbewijs worden van de in de bij deze regeling behorende bijlage vastgestelde coderingen uitsluitend de hoofdcoderingen vermeld. De subcoderingen worden uitsluitend vermeld voor zover de vermelding op grond van richtlijn 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (Pb EU L 403) verplicht is.
 
@@ -262,29 +262,17 @@ Geharmoniseerde communautaire codes
 
 Administratieve vermeldingen
 
-70. Ingewisseld voor rijbewijs nr. … afgegeven door … (voor een derde land: EU/VN-symbool, bijvoorbeeld 70.0123456789.NL)
+79.01: beperkt tot tweewielige voertuigen met of zonder zijspan.
 
-71. Duplicaat van rijbewijs nr. … (voor een derde land: EU/VN-symbool, bijvoorbeeld 71.987654321.HR)
+79.02: beperkt tot drie- of vierwielige voertuigen van de categorie AM.
 
-72. Alleen voertuigen van categorie A met een maximale cilinderinhoud van 125cc en een maximumvermogen van 11 kW (A1)
+79.03: beperkt tot driewielige voertuigen.
 
-73. Alleen drie- of vierwielige motorvoertuigen van categorie B (B1)
+79.04: beperkt tot driewielige voertuigen met een aanhangwagen waarvan de toegestane maximum massa ten hoogste 750 kg bedraagt;
 
-74. Alleen voertuigen van categorie C met een maximaal toegestane massa van 7 500 kg (C1)
+79.05: voertuigen van de categorie A1, waarvan de vermogen/gewichtsverhouding meer bedraagt dan 0,1 kW per kg.
 
-75. Alleen voertuigen van categorie D met ten hoogste 16 zitplaatsen, die van de bestuurder niet meegerekend (D1)
-
-76. Alleen voertuigen van categorie C met een maximaal toegestane massa van 7 500 kg (C1), met een aanhangwagen waarvan de maximaal toegestane massa meer dan 750 kg bedraagt, mits de maximaal toegestane massa van het aldus gevormde samenstel ten hoogste 12 000 kg bedraagt en de maximaal toegestane massa van de aanhangwagen de ledige massa van het trekkende voertuig niet overschrijdt (C1+E)
-
-77. Alleen voertuigen van categorie D met ten hoogste 16 zitplaatsen, die van de bestuurder niet meegerekend (D1), met een aanhangwagen waarvan de maximaal toegestane massa meer dan 750 kg bedraagt, mits
-
-a) de maximaal toegestane massa van het aldus gevormde samenstel ten hoogste 12 000 kg bedraagt en de maximaal toegestane massa van de aanhangwagen de ledige massa van het trekkende voertuig niet overschrijdt en
-
-b) de aanhangwagen niet wordt gebruikt om personen te vervoeren (D1+E)
-
-78. Alleen geldig voor voertuigen zonder koppelingspedaal of voor voertuigen van de categorie A zonder handbediende koppelingshendel
-
-79. (…) Alleen voertuigen conform de specificaties tussen haken, in het kader van de toepassing van artikel 10, lid 1, van richtlijn 91/439/EEG:
+79.06: voertuigen van de categorie BE met een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 3.500 kg.
 
 90.01: links van
 
@@ -310,8 +298,6 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 
 Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012);
 
-96: bestuurder heeft een opleiding voltooid of is geslaagd voor een examen inzake rijvaardigheid en rijgedrag overeenkomstig de bepalingen van bijlage V bij richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEG L 403).
-
 - 100. Alleen tijdens privé-gebruik
 
 - 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
@@ -319,8 +305,6 @@ Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde
 - 102. Met gebruik van een monoculair bioptisch telescoopsysteem
 
 - 103. alleen rijden in een motorrijtuig waarin een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) is ingebouwd en waarvan het kenteken is gekoppeld aan de naam van de rijbewijshouder
-
-- 104. Alleen motorrijtuigen van de categorie AM op drie of vier wielen.
 
 - 105. uitgezonderd beroepsmatig personenvervoer of het onder toezicht doen besturen van derden
 
