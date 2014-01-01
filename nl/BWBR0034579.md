@@ -4,7 +4,7 @@ identifier: "BWBR0034579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-30"
-last_updated: "2013-12-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034579"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 ##### Artikel VI
 
@@ -62,51 +62,59 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de toepassing van [artikel 122ca, vijfde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca) wordt bij de vaststelling van de door een werkgever met een ander aangiftetijdvak dan een maand ten behoeve van het Arbeidsongeschiktheidsfonds over de periode van 1 januari 2013 tot en met 30 juni 2013 aangegeven basispremie:
+
+- a. bij een aangiftetijdvak van vier aaneengesloten weken: van de over het zevende aangiftetijdvak aangegeven premie 14/28 in aanmerking genomen;
+
+- b. bij een aangiftetijdvak van een kalenderjaar: van de over het kalenderjaar aangegeven premie ½ in aanmerking genomen.
+
+2. In afwijking in zoverre van [artikel 122ca, tweede lid, tweede volzin, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca) wordt de voor de toepassing van het eerste lid bij een werkgever met een aangiftetijdvak van een kalenderjaar in aanmerking te nemen premie vastgesteld op grond van de aangifte die uiterlijk op 31 maart 2014 is ingediend alsmede de aanvullingen daarop die uiterlijk op die datum hebben plaatsgevonden.
+
+3. Dit artikel vervalt met ingang van 1 januari 2015.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douaneregeling.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling accijns.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel 26, eerste lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) wordt met ingang van 1 april 2014 de periode van 1 april 2014 tot en met 30 september 2014 aangemerkt als het tijdvak waarover de in die periode verschuldigd geworden afvalstoffenbelasting moet worden betaald.
 
 ##### Artikel XIX
 
@@ -114,7 +122,7 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
 ##### Artikel XXI
 
@@ -138,12 +146,38 @@ Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 januari 2014, met dien verstande dat:
+
+- a. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2014-01-01&g=2014-01-01), terugwerkt tot en met 30 december 2009;
+
+- b. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2014-01-01&g=2014-01-01), en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXV&z=2014-01-01&g=2014-01-01) terugwerken tot en met 1 januari 2011;
+
+- c. [artikel I, onderdelen A, eerste volzin, E, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2014-01-01&g=2014-01-01), en [artikel XXII, onderdelen A, tweede volzin, B en F](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2014-01-01&g=2014-01-01), terugwerken tot en met 1 januari 2013; en
+
+- d. [artikel XXII, onderdelen A, eerste volzin, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2014-01-01&g=2014-01-01), en [artikel XXIII, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2014-01-01&g=2014-01-01), terugwerkt tot en met 1 december 2013.
+
+2. In afwijking van het eerste lid treedt [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIII&z=2014-01-01&g=2014-01-01), in werking met ingang van 13 december 2014.
+
+3. In afwijking van het eerste lid treden [artikel I, onderdelen F, J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2014-01-01&g=2014-01-01), [artikel IV, onderdelen D, E, F, H, J, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=IV&z=2014-01-01&g=2014-01-01), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=VI&z=2014-01-01&g=2014-01-01), [artikel XIX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2014-01-01&g=2014-01-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXI&z=2014-01-01&g=2014-01-01), [artikel XXIII, onderdelen A en B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2014-01-01&g=2014-01-01), en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIV&z=2014-01-01&g=2014-01-01) in werking op het tijdstip waarop de [Aanpassingswet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033721) in werking treedt.
+
+4. In afwijking van het eerste lid treedt [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2014-01-01&g=2014-01-01), in werking op het tijdstip waarop [artikel I, onderdeel G, van Overige fiscale maatregelen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I) in werking treedt.
+
+Handelende wat [artikel 3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Infrastructuur en Milieu;
+
+Handelende wat [artikel 122ca van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca) betreft, in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
+
+Handelende wat [artikel 2.66 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.66) betreft, in overeenstemming met de Minister van Veiligheid en Justitie;
+
+Gelet op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.36), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), [3.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [10.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1) en [10bis.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5), de [artikelen 13bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), [29,](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=29)[33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35d) en [39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c), [artikel 122ca van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca), [artikel 10 van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=10), [artikel 9 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=9), [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) en [33a van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [artikel 3 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), de [artikelen 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1), [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1) en [9:5 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=38), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=73), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91) en [95 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95), [artikel 10 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) en [23 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23) in samenhang met de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) respectievelijk [56 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25) en [59a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49a), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) en [71 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67), [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b) en [70ba van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70ba), de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9) en [25 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [artikel 8.11 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.11), [artikel 2.66 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.66) en [artikel XXXVI van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXVI).
+
+Besluit:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
