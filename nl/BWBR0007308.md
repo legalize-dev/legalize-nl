@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
 
 ##### Artikel 2
 
@@ -69,19 +69,27 @@ In deze regeling wordt verstaan onder:
 
 - b. indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.
 
-9. De vaste wand die de cabine van de laadruimte scheidt dient:
+9. In afwijking in zoverre van het achtste lid, onderdeel b, wordt, indien een deel van de cabine van een motorrijtuig met dubbele cabine bij de laadruimte wordt betrokken waardoor de vaste wand niet geheel in een hoek van 90° ten opzichte van de lengteas is geplaatst, voor het meten van de in dit artikel genoemde afstanden uitgegaan van de plaats van het meest naar achteren gelegen bevestigingspunt van de aanwezige wand.
 
-- a. te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij een vast raam met een hoogte van 40 cm is toegestaan;
+10. De vaste wand die de cabine van de laadruimte scheidt dient:
+
+- a. te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij één of meerdere vaste ramen naast elkaar met een hoogte van maximaal 40 cm zijn toegestaan, alsmede voorzieningen ten behoeve van de veiligheid;
 
 - b. geheel vlak te zijn;
 
-- c. uit één geheel te bestaan, waarbij voorzieningen zijn toegestaan ten behoeve van het aan het desbetreffende motorrijtuig noodzakelijk te plegen onderhoud; en
+- c. uit één geheel of uit diverse op onverbrekelijke wijze met elkaar verbonden delen te bestaan, waarbij voorzieningen zijn toegestaan ten behoeve van: mits deze voorzieningen niet groter zijn dan voor het specifieke doel noodzakelijk.
+
+- 1°. het aan het motorrijtuig noodzakelijk te plegen onderhoud;
+
+- 2°. het gebruik van de bestelauto; of
+
+- 3°. de veiligheid;
 
 - d. zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
 
-10. Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
+11. Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
 
-11. De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
+12. De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
 
 ##### Artikel 3a
 
