@@ -159,9 +159,3 @@ Deze regeling wordt aangehaald als: Regeling marktordening zuivel.
 Deze regeling treedt in werking op 1 januari 2014.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 3. Schoolmelk
-
-### Hoofdstuk 4. Overgangsrecht
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
