@@ -4,7 +4,7 @@ identifier: "BWBR0037254"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2013-07-22"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037254"
 soort: "wet"
@@ -91,7 +91,7 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XV
 
