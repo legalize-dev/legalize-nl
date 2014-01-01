@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2012-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-07-01&g=2012-07-01) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
 
 - a. het Hoofdbedrijfschap Detailhandel;
 
@@ -110,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - l. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
-2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-07-01&g=2012-07-01) bedoelde informatie reeds in het bezit is van de NVWA.
+2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01) bedoelde informatie reeds in het bezit is van de NVWA.
 
 ##### Artikel 4
 
@@ -120,7 +120,9 @@ In deze regeling wordt verstaan onder:
 
 - b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van [verordening (EG) 853/2004](32004R0853), voorschriften bevat; of
 
-- c. het COKZ, onderscheidenlijk het CPE of de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn.
+- c. het COKZ, onderscheidenlijk het CPE de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of
+
+- d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).
 
 2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van [verordening (EG) 882/2004](32004R0882).
 
@@ -134,6 +136,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2012-07-01&g=2012-07-01).
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
