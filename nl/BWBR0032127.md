@@ -4,7 +4,7 @@ identifier: "BWBR0032127"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-07"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032127"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Het [Besluit van 5 november 2007, houdende aanwijzing van de voorwerpen, bedoeld
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Aan het besluit kan terugwerkende kracht worden verleend tot 1 januari 2013.
 
-2. Artikel 1 en de bijlage bij dit besluit vervallen met ingang van 1 januari 2014.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032127&artikel=1&z=2014-01-01&g=2014-01-01) en de bijlage bij dit besluit vervallen met ingang van 1 januari 2016.
 
 ## Bijlage. bij het Besluit van 23 oktober 2012, houdende aanwijzing van de voorwerpen, bedoeld in [artikel 16c van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16c), en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet
 
@@ -77,17 +77,17 @@ Op de volgende voorwerpen, bestemd om een werk ten gehore te brengen, te vertone
 |   |   |   |
 | Externe HDD Drive |   | € 1,00 |
 |   |   |   |
-| Audio-/Videospeler | ≤ 2 Gb | € 1,00 |
-|   | > 2 Gb | € 2,00 |
+| Audio-/Videospeler | ≤ 2 GB | € 1,00 |
+|   | > 2 GB | € 2,00 |
 |   |   |   |
-| HDD Recorder/Settopbox | ≤ 160 Gb | € 2,50 |
-|   | > 160 Gb | € 5,00 |
+| HDD Recorder/Settopbox | ≤ 160 GB | € 2,50 |
+|   | > 160 GB | € 5,00 |
 |   |   |   |
-| Telefoon met Mp3-speler/Smartphone | < 16 Gb | € 2,50 |
-|   | ≥ 16 Gb | € 5,00 |
+| Telefoon met Mp3-speler/Smartphone | < 16 GB | € 2,50 |
+|   | ≥ 16 GB | € 5,00 |
 |   |   |   |
-| Tablet | ≤ 8 Gb | € 2,50 |
-|   | > 8 Gb | € 5,00 |
+| Tablet | ≤ 8 GB | € 2,50 |
+|   | > 8 GB | € 5,00 |
 |   |   |   |
 | PC/Laptop |   | € 5,00 |
 
