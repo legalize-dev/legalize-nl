@@ -4,7 +4,7 @@ identifier: "BWBR0021777"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-16"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021777"
 soort: "wet"
@@ -123,9 +123,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
-- b. onderneming: een onderneming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2013-07-01&g=2013-07-01);
+- b. onderneming: een onderneming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2014-01-01&g=2014-01-01);
 
-- c. rechtspersoon: een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01);
+- c. rechtspersoon: een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01);
 
 - d. publiekrechtelijke rechtspersoon: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1);
 
@@ -135,9 +135,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - g. authentiek gegeven: een in een basisregister opgenomen gegeven dat bij of krachtens wet als authentiek wordt aangemerkt;
 
-- h. handelsregister: het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-07-01&g=2013-07-01);
+- h. handelsregister: het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01);
 
-- i. kamer: een kamer van koophandel en fabrieken als bedoeld in [artikel 2 van de Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276&artikel=2);
+- i. Kamer: de Kamer van Koophandel, genoemd in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
 
 - j. vestiging: een gebouw of complex van gebouwen waar duurzame uitoefening van de activiteiten van een onderneming of rechtspersoon plaatsvindt;
 
@@ -167,23 +167,17 @@ Er is een handelsregister van ondernemingen en rechtspersonen:
 
 ##### Artikel 3
 
-1. Het handelsregister wordt gehouden door de kamers.
+1. Het handelsregister wordt gehouden door de Kamer.
 
-2. Ten aanzien van verwerkingen ten behoeve van het handelsregister zijn de kamers verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
+2. Ten aanzien van verwerkingen ten behoeve van het handelsregister is de Kamer verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
 
-3. De kamers kunnen met machtiging van Onze Minister werkzaamheden laten verrichten door een bewerker die voldoet aan eisen omtrent de deugdelijke uitvoering van zijn werkzaamheden, de beveiliging van de gegevensbestanden en de bescherming van de persoonlijke levenssfeer.
-
-4. De kamers werken samen ter bevordering van de uniforme uitvoering van deze wet.
+3. De Kamer kan met machtiging van Onze Minister werkzaamheden laten verrichten door een bewerker die voldoet aan eisen omtrent de deugdelijke uitvoering van zijn werkzaamheden, de beveiliging van de gegevensbestanden en de bescherming van de persoonlijke levenssfeer.
 
 ##### Artikel 4
 
 1. Onze Minister stelt bij ministeriële regeling een systeembeschrijving vast. De systeembeschrijving geeft de inrichting en werking van het handelsregister aan.
 
-2. De kamers dragen in onderling overleg zorg voor een goede beschikbaarheid, werking en beveiliging van het handelsregister.
-
-3. Onze Minister kan bij ministeriële regeling regels stellen ter bevordering van de uniforme toepassing van deze wet door de kamers.
-
-4. De regeling kan onder meer inhouden dat voor daarbij aangegeven onderwerpen de kamers in onderling overleg op een daarbij te bepalen wijze zorgdragen voor een uniforme toepassing van de wet.
+2. De Kamer draagt zorg voor een goede beschikbaarheid, werking en beveiliging van het handelsregister.
 
 #### § 2.2. Inhoud handelsregister
 
@@ -219,7 +213,7 @@ In het handelsregister worden de volgende ondernemingen ingeschreven:
 
 ##### Artikel 7
 
-Indien aan een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01) een onderneming toebehoort die als zodanig overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2013-07-01&g=2013-07-01) moet worden ingeschreven, geldt de inschrijving van de onderneming tevens als inschrijving van de rechtspersoon.
+Indien aan een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01) een onderneming toebehoort die als zodanig overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2014-01-01&g=2014-01-01) moet worden ingeschreven, geldt de inschrijving van de onderneming tevens als inschrijving van de rechtspersoon.
 
 ##### Artikel 8
 
@@ -233,7 +227,7 @@ Bij algemene maatregel van bestuur:
 
 In het handelsregister worden over een onderneming opgenomen:
 
-- a. een door een kamer toegekend uniek nummer;
+- a. een door de Kamer toegekend uniek nummer;
 
 - b. de handelsnaam of de handelsnamen;
 
@@ -245,7 +239,7 @@ In het handelsregister worden over een onderneming opgenomen:
 
 ##### Artikel 10
 
-1. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een rechtspersoon is, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2013-07-01&g=2013-07-01) genoemde gegevens opgenomen.
+1. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een rechtspersoon is, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2014-01-01&g=2014-01-01) genoemde gegevens opgenomen.
 
 2. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een natuurlijke persoon is, opgenomen:
 
@@ -261,7 +255,7 @@ In het handelsregister worden over een onderneming opgenomen:
 
 3. In het handelsregister worden over degene aan wie een onderneming toebehoort, die geen rechtspersoon en geen natuurlijke persoon is, opgenomen:
 
-- a. een door een kamer toegekend uniek nummer;
+- a. een door de Kamer toegekend uniek nummer;
 
 - b. de naam;
 
@@ -297,7 +291,7 @@ In het handelsregister worden over een onderneming opgenomen:
 
 1. In het handelsregister worden over een vestiging van een onderneming opgenomen:
 
-- a. een door een kamer toegekend uniek nummer;
+- a. een door de Kamer toegekend uniek nummer;
 
 - b. de handelsnaam of handelsnamen;
 
@@ -311,7 +305,7 @@ In het handelsregister worden over een onderneming opgenomen:
 
 In het handelsregister worden over een rechtspersoon opgenomen:
 
-- a. een door een kamer toegekend uniek nummer;
+- a. een door de Kamer toegekend uniek nummer;
 
 - b. de naam;
 
@@ -323,7 +317,7 @@ In het handelsregister worden over een rechtspersoon opgenomen:
 
 In het handelsregister worden over een activiteit van een rechtspersoon waaraan geen onderneming toebehoort opgenomen:
 
-- a. een door een kamer toegekend uniek nummer voor de activiteiten van de rechtspersoon, tenzij er sprake is van een publiekrechtelijke rechtspersoon;
+- a. een door de Kamer toegekend uniek nummer voor de activiteiten van de rechtspersoon, tenzij er sprake is van een publiekrechtelijke rechtspersoon;
 
 - b. de datum van aanvang, voortzetting of beëindiging;
 
@@ -333,7 +327,7 @@ In het handelsregister worden over een activiteit van een rechtspersoon waaraan 
 
 1. In het handelsregister worden over een vestiging van een rechtspersoon waaraan geen onderneming toebehoort opgenomen:
 
-- a. een door een kamer toegekend uniek nummer;
+- a. een door de Kamer toegekend uniek nummer;
 
 - b. de naam;
 
@@ -345,11 +339,11 @@ In het handelsregister worden over een activiteit van een rechtspersoon waaraan 
 
 ##### Artikel 15
 
-De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01) genoemde gegevens zijn authentieke gegevens.
+De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01) genoemde gegevens zijn authentieke gegevens.
 
 ##### Artikel 16
 
-1. In het handelsregister worden gegevens opgenomen die noodzakelijk zijn voor een goede vastlegging en verstrekking van de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01) bedoelde gegevens en gegevens omtrent de herkomst van die gegevens.
+1. In het handelsregister worden gegevens opgenomen die noodzakelijk zijn voor een goede vastlegging en verstrekking van de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01) bedoelde gegevens en gegevens omtrent de herkomst van die gegevens.
 
 2. In het handelsregister wordt indien een authentiek gegeven in onderzoek is, een aantekening opgenomen dat het gegeven in onderzoek is.
 
@@ -357,17 +351,17 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 1. In het handelsregister wordt de door een publiekrechtelijke rechtspersoon verleende volmacht tot het verrichten van privaatrechtelijke rechtshandelingen opgenomen.
 
-2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2013-07-01&g=2013-07-01) is niet van toepassing op de in het eerste lid bedoelde gegevens.
+2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2014-01-01&g=2014-01-01) is niet van toepassing op de in het eerste lid bedoelde gegevens.
 
 ##### Artikel 17
 
 1. Bij algemene maatregel van bestuur kan worden bepaald:
 
-- a. dat andere gegevens dan de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01) genoemde gegevens in het handelsregister worden opgenomen of dat bescheiden bij het handelsregister worden gedeponeerd voor zover dit van belang is voor de in [artikel 2, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-07-01&g=2013-07-01), genoemde doelen en er geen gewichtige redenen zijn die zich daartegen verzetten;
+- a. dat andere gegevens dan de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01) genoemde gegevens in het handelsregister worden opgenomen of dat bescheiden bij het handelsregister worden gedeponeerd voor zover dit van belang is voor de in [artikel 2, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), genoemde doelen en er geen gewichtige redenen zijn die zich daartegen verzetten;
 
 - b. dat in het handelsregister opgenomen gegevens worden overgenomen uit een ander basisregister;
 
-- c. dat voor de in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01) bedoelde rechtspersonen bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2013-07-01&g=2013-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2013-07-01&g=2013-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2013-07-01&g=2013-07-01) bedoelde gegevens niet behoeven te worden ingeschreven.
+- c. dat voor de in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01) bedoelde rechtspersonen bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2014-01-01&g=2014-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2014-01-01&g=2014-01-01) bedoelde gegevens niet behoeven te worden ingeschreven.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -375,7 +369,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 18
 
-1. Tot het doen van opgave ter inschrijving in het handelsregister is verplicht degene aan wie een onderneming toebehoort, of, indien het de inschrijving betreft van een rechtspersoon als bedoeld in [artikel 6, eerste lid, onderdeel a en b, het tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01), ieder der bestuurders van de rechtspersoon.
+1. Tot het doen van opgave ter inschrijving in het handelsregister is verplicht degene aan wie een onderneming toebehoort, of, indien het de inschrijving betreft van een rechtspersoon als bedoeld in [artikel 6, eerste lid, onderdeel a en b, het tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01), ieder der bestuurders van de rechtspersoon.
 
 2. Indien het eerste lid niet van toepassing is, is tot het doen van opgave ter inschrijving in het handelsregister verplicht degene die belast is met de dagelijkse leiding van een onderneming of rechtspersoon.
 
@@ -385,19 +379,15 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 5. Tot het doen van opgave ter inschrijving in het handelsregister is een publiekrechtelijke rechtspersoon verplicht.
 
-6. De opgave, bedoeld in het eerste tot en met het vijfde lid, kan bij iedere kamer worden gedaan. Inschrijving in het handelsregister vindt plaats door de kamer in welker gebied de onderneming of rechtspersoon is gevestigd of in welker gebied de onderneming of rechtspersoon haar hoofdvestiging heeft.
-
-7. Indien inschrijving van een onderneming niet overeenkomstig het zesde lid kan geschieden, is tot inschrijving bevoegd de daartoe door Onze Minister aangewezen kamer.
-
-8. Bij algemene maatregel van bestuur kunnen andere personen worden aangewezen die verplicht of bevoegd zijn tot het doen van daarbij aangewezen opgaven.
+6. Bij algemene maatregel van bestuur kunnen andere personen worden aangewezen die verplicht of bevoegd zijn tot het doen van daarbij aangewezen opgaven.
 
 ##### Artikel 19
 
-1. De daartoe verplichte personen doen, met inachtneming van het bij algemene maatregel van bestuur bepaalde, de opgaven die een kamer nodig heeft om ervoor te zorgen dat de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01) en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2013-07-01&g=2013-07-01), genoemde en de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2013-07-01&g=2013-07-01), bedoelde gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.
+1. De daartoe verplichte personen doen, met inachtneming van het bij algemene maatregel van bestuur bepaalde, de opgaven die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01) en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2014-01-01&g=2014-01-01), genoemde en de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2014-01-01&g=2014-01-01), bedoelde gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.
 
 2. Het eerste lid is van overeenkomstige toepassing op het deponeren van bescheiden.
 
-3. Op berichtenverkeer met betrekking tot enige inschrijving of doorhaling in het handelsregister tussen een kamer en een onderneming, niet zijnde een dienstverrichter als bedoeld in [artikel 1 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=1) die onder de reikwijdte van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759) valt, zijn de [paragrafen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&paragraaf=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&paragraaf=3.4) en [artikel 5, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5) van overeenkomstige toepassing.
+3. Op berichtenverkeer met betrekking tot enige inschrijving of doorhaling in het handelsregister tussen de Kamer en een onderneming, niet zijnde een dienstverrichter als bedoeld in [artikel 1 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=1) die onder de reikwijdte van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759) valt, zijn de [paragrafen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&paragraaf=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&paragraaf=3.4) en [artikel 5, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5) van overeenkomstige toepassing.
 
 4. Regels die op grond van [artikel 5, derde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5) bij of krachtens algemene maatregel van bestuur zijn gesteld, zijn van overeenkomstige toepassing op berichtenverkeer als bedoeld in het derde lid.
 
@@ -413,7 +403,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 2. De andere voorgeschreven opgaven worden gedaan uiterlijk een week na het plaatsvinden van het feit ten gevolge waarvan de verplichting tot de opgave ontstaat.
 
-3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover een kamer bevoegd is tot het wijzigen van gegevens, zodra de kamer de desbetreffende wijziging heeft ingeschreven.
+3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover de Kamer bevoegd is tot het wijzigen van gegevens, zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -431,29 +421,29 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 21
 
-1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2013-07-01&g=2013-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2013-07-01&g=2013-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2013-07-01&g=2013-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2013-07-01&g=2013-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2013-07-01&g=2013-07-01), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2013-07-01&g=2013-07-01), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2013-07-01&g=2013-07-01), genoemde gegevens, de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2013-07-01&g=2013-07-01), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden kunnen door een ieder worden ingezien.
+1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-01&g=2014-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2014-01-01&g=2014-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2014-01-01&g=2014-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2014-01-01&g=2014-01-01), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2014-01-01&g=2014-01-01), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2014-01-01&g=2014-01-01), genoemde gegevens, de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2014-01-01&g=2014-01-01), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden kunnen door een ieder worden ingezien.
 
 2. Een handtekening kan niet in elektronische vorm worden ingezien.
 
 ##### Artikel 22
 
-1. Een kamer verstrekt op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van of uittreksel uit de gegevens en bescheiden, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2013-07-01&g=2013-07-01).
+1. De Kamer verstrekt op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van of uittreksel uit de gegevens en bescheiden, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2014-01-01&g=2014-01-01).
 
-2. Een kamer verstrekt op elektronisch verzoek gegevens van algemene, feitelijke aard omtrent de samenstelling van ondernemingen en rechtspersonen uit het handelsregister ter bevordering van de economische belangen van handel, industrie, ambacht en dienstverlening. Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen worden deze gegevens niet gerangschikt naar natuurlijke personen.
+2. De Kamer verstrekt op elektronisch verzoek gegevens van algemene, feitelijke aard omtrent de samenstelling van ondernemingen en rechtspersonen uit het handelsregister ter bevordering van de economische belangen van handel, industrie, ambacht en dienstverlening. Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen worden deze gegevens niet gerangschikt naar natuurlijke personen.
 
 3. Een verzoek als bedoeld in het eerste of tweede lid wordt mede door een kamer in behandeling genomen indien het op andere dan elektronische wijze is gedaan.
 
-4. In afwijking van het eerste lid verstrekt een kamer een handtekening niet in elektronische vorm.
+4. In afwijking van het eerste lid verstrekt de Kamer een handtekening niet in elektronische vorm.
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2013-07-01&g=2013-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2013-07-01&g=2013-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2013-07-01&g=2013-07-01).
+Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2014-01-01&g=2014-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2014-01-01&g=2014-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2014-01-01&g=2014-01-01).
 
 #### § 4.2. Publicatie inschrijvingen
 
 ##### Artikel 24
 
-1. Heeft de opgave van een gegeven ter inschrijving in het handelsregister betrekking op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese commanditaire vennootschapof een andere bij algemene maatregel van bestuur aangewezen rechtspersoon of vennootschap, dan dragen de kamers er zorg voor dat daarvan zo spoedig mogelijk mededeling wordt gedaan in een door Onze Minister aangewezen publicatieblad of een ander, even doeltreffend instrument, dat ten minste het gebruik van een systeem omvat dat in chronologische volgorde via een centraal elektronisch platform toegang tot de openbaar gemaakte informatie biedt.
+1. Heeft de opgave van een gegeven ter inschrijving in het handelsregister betrekking op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband, een Europese commanditaire vennootschapof een andere bij algemene maatregel van bestuur aangewezen rechtspersoon of vennootschap, dan draagt de Kamer er zorg voor dat daarvan zo spoedig mogelijk mededeling wordt gedaan in een door Onze Minister aangewezen publicatieblad of een ander, even doeltreffend instrument, dat ten minste het gebruik van een systeem omvat dat in chronologische volgorde via een centraal elektronisch platform toegang tot de openbaar gemaakte informatie biedt.
 
 2. Het eerste lid is mede van toepassing op een wijziging van het ingeschrevene en op een deponering van bescheiden.
 
@@ -463,11 +453,11 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 ##### Artikel 25
 
-1. Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering en, voor zover van toepassing, de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2013-07-01&g=2013-07-01) bedoelde mededeling niet hebben plaatsgevonden.
+1. Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering en, voor zover van toepassing, de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2014-01-01&g=2014-01-01) bedoelde mededeling niet hebben plaatsgevonden.
 
-2. Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2013-07-01&g=2013-07-01) kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op deze termijn niet van toepassing.
+2. Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2014-01-01&g=2014-01-01) kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op deze termijn niet van toepassing.
 
-3. Degene aan wie een onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving of van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2013-07-01&g=2013-07-01) bedoelde mededeling tegenwerpen. Met de inschrijving wordt de deponering van bescheiden gelijkgesteld.
+3. Degene aan wie een onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving of van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2014-01-01&g=2014-01-01) bedoelde mededeling tegenwerpen. Met de inschrijving wordt de deponering van bescheiden gelijkgesteld.
 
 4. Dit artikel is niet van toepassing ten aanzien van:
 
@@ -479,7 +469,7 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 ##### Artikel 26
 
-De kamers dragen zorg voor mededeling aan het Bureau voor officiële publicaties der Europese Gemeenschappen als bedoeld in artikel 39, tweede lid, van [verordening 2137/85](31985R2137) en artikel 14, derde lid, van [verordening 2157/2001](32001R2157).
+De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties der Europese Gemeenschappen als bedoeld in artikel 39, tweede lid, van [verordening 2137/85](31985R2137) en artikel 14, derde lid, van [verordening 2157/2001](32001R2157).
 
 #### § 4.4. Verplichte vermelding nummer
 
@@ -487,11 +477,11 @@ De kamers dragen zorg voor mededeling aan het Bureau voor officiële publicaties
 
 1. De volgende in het handelsregister ingeschreven ondernemingen of rechtspersonen zorgen ervoor dat op alle van die onderneming of die rechtspersoon uitgaande brieven, orders, facturen, offertes en andere aankondigingen, met uitzondering van reclames, is vermeld onder welk nummer deze in het handelsregister is ingeschreven:
 
-- a. de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2013-07-01&g=2013-07-01) en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01), genoemde ondernemingen en rechtspersonen;
+- a. de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2014-01-01&g=2014-01-01) en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01), genoemde ondernemingen en rechtspersonen;
 
-- b. de in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01), genoemde rechtspersonen, tenzij stukken uitgaan van een rechtspersoon waaraan geen onderneming toebehoort.
+- b. de in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01), genoemde rechtspersonen, tenzij stukken uitgaan van een rechtspersoon waaraan geen onderneming toebehoort.
 
-2. Het in het eerste lid bedoelde nummer is het nummer, bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2013-07-01&g=2013-07-01), of in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2013-07-01&g=2013-07-01).
+2. Het in het eerste lid bedoelde nummer is het nummer, bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01), of in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2014-01-01&g=2014-01-01).
 
 3. Bij ministeriële regeling kan vrijstelling worden verleend van het in het eerste lid bepaalde. Een vrijstelling kan niet worden verleend:
 
@@ -505,9 +495,9 @@ De kamers dragen zorg voor mededeling aan het Bureau voor officiële publicaties
 
 ##### Artikel 28
 
-1. De in [artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2013-07-01&g=2013-07-01), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2013-07-01&g=2013-07-01), genoemde gegevens kunnen door een bestuursorgaan worden ingezien.
+1. De in [artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-01&g=2014-01-01), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2014-01-01&g=2014-01-01), genoemde gegevens kunnen door een bestuursorgaan worden ingezien.
 
-2. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste en tweede lid.
+2. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste en tweede lid.
 
 3. Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door:
 
@@ -517,11 +507,11 @@ De kamers dragen zorg voor mededeling aan het Bureau voor officiële publicaties
 
 - c. de rijksbelastingdienst voor de uitvoering van zijn taken;
 
-- d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van hun bij [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) opgedragen taken;
+- d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van hun bij of krachtens wet opgedragen taken;
 
-- e. burgemeesters en wethouders voor de uitvoering van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+- e. burgemeesters en wethouders voor de uitvoering van de [Wet gemeentelijke schulphulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331), [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
 
-- f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) en een bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuu](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)r;
+- f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) en een bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
 - g. de Autoriteit Consument en Markt voor de uitvoering van haar taken;
 
@@ -557,53 +547,53 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 33
 
-Indien de melding betrekking heeft op een gegeven dat ingevolge [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2013-07-01&g=2013-07-01), uit een ander register is overgenomen, zendt de kamer deze melding aan de beheerder van het register waaruit dit gegeven afkomstig is.
+Indien de melding betrekking heeft op een gegeven dat ingevolge [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2014-01-01&g=2014-01-01), uit een ander register is overgenomen, zendt de kamer deze melding aan de beheerder van het register waaruit dit gegeven afkomstig is.
 
 ##### Artikel 34
 
-1. Indien een melding als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2013-07-01&g=2013-07-01), niet is doorgezonden naar de beheerder van een ander register, tekent de kamer in welker gebied de onderneming of rechtspersoon is gevestigd of in welker gebied de onderneming of rechtspersoon haar hoofdvestiging heeft binnen een bij ministeriële regeling vastgestelde termijn aan dat het gegeven in onderzoek is, tenzij de kamer binnen deze termijn beslist over de wijziging van dat gegeven.
+1. Indien een melding als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2014-01-01&g=2014-01-01), niet is doorgezonden naar de beheerder van een ander register, tekent de Kamer binnen een bij ministeriële regeling vastgestelde termijn aan dat het gegeven in onderzoek is, tenzij de Kamer binnen deze termijn beslist over de wijziging van dat gegeven.
 
-2. Indien een gegeven in onderzoek is, beslist de kamer over wijziging van dat gegeven.
+2. Indien een gegeven in onderzoek is, beslist de Kamer over wijziging van dat gegeven.
 
-3. Indien een beslissing, bedoeld in het eerste of tweede lid, leidt tot wijziging van de gegevens, doet de kamer onverwijld schriftelijk mededeling aan een tot opgave verplichte persoon.
+3. Indien een beslissing, bedoeld in het eerste of tweede lid, leidt tot wijziging van de gegevens, doet de Kamer onverwijld schriftelijk mededeling aan een tot opgave verplichte persoon.
 
-4. De kamer verwijdert de aantekening dat een gegeven in onderzoek is indien een besluit als bedoeld in het tweede lid niet tot wijziging van gegevens leidt.
+4. De Kamer verwijdert de aantekening dat een gegeven in onderzoek is indien een besluit als bedoeld in het tweede lid niet tot wijziging van gegevens leidt.
 
 ##### Artikel 35
 
-De beslissing, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2013-07-01&g=2013-07-01), geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+De beslissing, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2014-01-01&g=2014-01-01), geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 ##### Artikel 36
 
-1. Indien tegen een beslissing, bedoeld in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2013-07-01&g=2013-07-01), bezwaar wordt gemaakt of beroep wordt ingesteld, tekent, voor zover dit nog niet het geval is, de kamer in het handelsregister aan dat een gegeven in onderzoek is.
+1. Indien tegen een beslissing, bedoeld in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2014-01-01&g=2014-01-01), bezwaar wordt gemaakt of beroep wordt ingesteld, tekent, voor zover dit nog niet het geval is, de Kamer in het handelsregister aan dat een gegeven in onderzoek is.
 
-2. Nadat op het bezwaar of beroep onherroepelijk is beslist, schrijft de kamer indien nodig een wijziging in het handelsregister in en verwijdert de kamer de aantekening dat een gegeven in onderzoek is.
+2. Nadat op het bezwaar of beroep onherroepelijk is beslist, schrijft de Kamer indien nodig een wijziging in het handelsregister in en verwijdert de Kamer de aantekening dat een gegeven in onderzoek is.
 
 ##### Artikel 37
 
-Op een melding als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2013-07-01&g=2013-07-01), zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2013-07-01&g=2013-07-01), [34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2013-07-01&g=2013-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2013-07-01&g=2013-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing.
+Op een melding als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2014-01-01&g=2014-01-01), zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2014-01-01&g=2014-01-01), [34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2014-01-01&g=2014-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2014-01-01&g=2014-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 38
 
-1. Indien een kamer gerede twijfel heeft over de juistheid van authentieke gegevens, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing.
+1. Indien de Kamer gerede twijfel heeft over de juistheid van authentieke gegevens, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
 
 2. Bij algemene maatregel van bestuur kunnen niet-authentieke gegevens worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.
 
-3. Op een verzoek als bedoeld in [artikel 36 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36), zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2013-07-01&g=2013-07-01) van overeenkomstige toepassing.
+3. Op een verzoek als bedoeld in [artikel 36 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36), zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 39
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot:
 
-- a. de melding, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2013-07-01&g=2013-07-01);
+- a. de melding, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2014-01-01&g=2014-01-01);
 
-- b. de doorzending van de melding, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2013-07-01&g=2013-07-01);
+- b. de doorzending van de melding, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2014-01-01&g=2014-01-01);
 
-- c. het plaatsen van de aantekening in onderzoek, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2013-07-01&g=2013-07-01);
+- c. het plaatsen van de aantekening in onderzoek, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2014-01-01&g=2014-01-01);
 
-- d. het besluit over de melding, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2013-07-01&g=2013-07-01);
+- d. het besluit over de melding, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2014-01-01&g=2014-01-01);
 
-- e. de gegevens die over de terugmelding en het onderzoek in het register worden opgenomen ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2013-07-01&g=2013-07-01);
+- e. de gegevens die over de terugmelding en het onderzoek in het register worden opgenomen ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2014-01-01&g=2014-01-01);
 
 - f. de criteria om een inschrijving te weigeren.
 
@@ -611,19 +601,19 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ##### Artikel 40
 
-Een kamer treft na overleg met de andere kamers maatregelen die ertoe strekken te waarborgen dat het handelsregister juist, actueel en volledig is.
+De Kamer treft maatregelen die ertoe strekken te waarborgen dat het handelsregister juist, actueel en volledig is.
 
 ##### Artikel 41
 
-1. De kamers laten in onderling overleg eens per drie jaar de uitvoering van deze wet alsmede de juistheid van de in het handelsregister opgenomen gegevens controleren door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+1. De Kamer laat eens per drie jaar de uitvoering van deze wet alsmede de juistheid van de in het handelsregister opgenomen gegevens controleren door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels betreffende de controle worden gesteld, waaronder regels omtrent de elementen die de controle moet bevatten.
 
-3. De kamers zenden aan Onze Minister een afschrift van de controleresultaten en maken deze controleresultaten openbaar. Onze Minister zendt een uittreksel van deze controleresultaten aan het College bescherming persoonsgegevens.
+3. De Kamer zendt aan Onze Minister een afschrift van de controleresultaten en maakt deze controleresultaten openbaar. Onze Minister zendt een uittreksel van deze controleresultaten aan het College bescherming persoonsgegevens.
 
-4. Indien uit de controle, bedoeld in het eerste lid, blijkt dat niet voldaan wordt aan bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, laten de kamers binnen een jaar een hercontrole uitvoeren op die onderdelen die bij de eerdere controle niet voldeden aan de gestelde voorwaarden. Het tweede lid is van overeenkomstige toepassing.
+4. Indien uit de controle, bedoeld in het eerste lid, blijkt dat niet voldaan wordt aan bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, laat de Kamer binnen een jaar een hercontrole uitvoeren op die onderdelen die bij de eerdere controle niet voldeden aan de gestelde voorwaarden. Het tweede lid is van overeenkomstige toepassing.
 
-5. De in het eerste lid bedoelde accountant heeft ten behoeve van een controle als bedoeld in het eerste of derde lid inzage in het handelsregister. Een kamer verleent hiertoe de nodige medewerking.
+5. De in het eerste lid bedoelde accountant heeft ten behoeve van een controle als bedoeld in het eerste of derde lid inzage in het handelsregister. De Kamer verleent hiertoe de nodige medewerking.
 
 6. Eenieder die is betrokken bij een controle als bedoeld in het eerste of vierde lid is verplicht tot geheimhouding van de gegevens waarover hij de beschikking heeft gekregen, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
@@ -631,15 +621,15 @@ Een kamer treft na overleg met de andere kamers maatregelen die ertoe strekken t
 
 ##### Artikel 41a
 
-1. De kamers stellen gezamenlijk een protocol op, dat betrekking heeft op:
+1. De Kamer stelt een protocol op, dat betrekking heeft op:
 
-- a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2013-07-01&g=2013-07-01);
+- a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-01-01&g=2014-01-01);
 
-- b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=40&z=2013-07-01&g=2013-07-01);
+- b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=40&z=2014-01-01&g=2014-01-01);
 
-- c. de controle, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2013-07-01&g=2013-07-01);
+- c. de controle, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2014-01-01&g=2014-01-01);
 
-- d. de procedure voor de behandeling van klachten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.3&artikel=48&z=2013-07-01&g=2013-07-01).
+- d. de procedure voor de behandeling van klachten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.3&artikel=48&z=2014-01-01&g=2014-01-01).
 
 2. Het protocol behoeft de goedkeuring van Onze Minister.
 
@@ -679,19 +669,21 @@ Het is verboden te handelen in strijd met dan wel niet te voldoen aan een bij of
 
 ##### Artikel 48
 
-Een kamer draagt na overleg met de andere kamers zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) gevolgd.
+De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de uitvoering van deze wet. Bij de behandeling van klachten wordt de procedure, bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) gevolgd.
 
 ### Hoofdstuk 9. Financiën
 
 ##### Artikel 49
 
-1. Een onderneming of rechtspersoon die in het handelsregister is ingeschreven of behoort te zijn ingeschreven, is voor ieder kalenderjaar of gedeelte daarvan waarin hij in Nederland gevestigd is, in Nederland een nevenvestiging heeft of in Nederland wordt vertegenwoordigd door een gevolmachtigde handelsagent, een bijdrage verschuldigd.
+1. Bij algemene maatregel van bestuur kan worden bepaald dat een onderneming of rechtspersoon die een opgave doet tot eerste inschrijving in het handelsregister daarvoor eenmalig een vergoeding verschuldigd is (inschrijfvergoeding). De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-2. De onderneming of rechtspersoon is het totale bedrag van de bijdrage verschuldigd aan de kamer waar de hoofdvestiging van de onderneming of rechtspersoon is ingeschreven. Deze kamer draagt indien nodig zorg voor de verrekening met de andere kamers.
+2. Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld voor het bepalen van de hoogte van de inschrijfvergoeding waarbij rechtsvorm van de onderneming of rechtspersoon en de wijze waarop opgave wordt gedaan in aanmerking kunnen worden genomen.
 
-3. De bijdrage, bedoeld in het eerste lid, wordt bij of krachtens algemene maatregel van bestuur vastgesteld. Hierbij kunnen regels gesteld worden over de verhouding naar rechtsvorm en grootte, niet zijnde het maatschappelijk kapitaal, in relatie tot de hoogte van de bijdrage tussen de verschillende ondernemingen en rechtspersonen.
+3. Zelfstandige onderdelen van een kerkgenootschap en lichamen waarin zij zijn verenigd zijn de inschrijfvergoeding, bedoeld in het eerste lid, niet verschuldigd bij een opgave ter inschrijving ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2014-01-01&g=2014-01-01).
 
-4. In afwijking van het eerste lid behoeven zelfstandige onderdelen van een kerkgenootschap en lichamen waarin zij zijn verenigd indien deze ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2013-07-01&g=2013-07-01), in het handelsregister ingeschreven worden, geen bijdrage als bedoeld in het eerste lid te betalen.
+4. De inschrijfvergoeding is verschuldigd zonder dat deze bij beschikking is vastgesteld.
+
+5. Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld.
 
 ##### Artikel 50
 
@@ -729,7 +721,7 @@ De [Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893) ve
 
 1. Opgaven ter inschrijving in het handelsregister en deponering van bescheiden waartoe de verplichting ontstaat als gevolg van de inwerkingtreding van deze wet, worden gedaan binnen 18 maanden na inwerkingtreding van deze wet.
 
-2. Indien op het tijdstip van inwerkingtreding van deze wet in het handelsregister gegevens staan ingeschreven die niet op grond van een wettelijk voorschrift behoeven te worden ingeschreven, haalt een kamer die gegevens binnen drie maanden na het eerder genoemde tijdstip door.
+2. Indien op het tijdstip van inwerkingtreding van deze wet in het handelsregister gegevens staan ingeschreven die niet op grond van een wettelijk voorschrift behoeven te worden ingeschreven, haalt de Kamer die gegevens binnen drie maanden na het eerder genoemde tijdstip door.
 
 ##### Artikel 58
 
@@ -737,17 +729,17 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze betrokken Ministe
 
 ##### Artikel 59
 
-1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2013-07-01&g=2013-07-01) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
+1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2014-01-01&g=2014-01-01) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
 
-2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2013-07-01&g=2013-07-01) kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.
+2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2014-01-01&g=2014-01-01) kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.
 
 ##### Artikel 60
 
-In afwijking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2013-07-01&g=2013-07-01) geschiedt de controle, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2013-07-01&g=2013-07-01), gedurende zes jaar na de inwerkingtreding van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2013-07-01&g=2013-07-01), eens per twee jaar.
+In afwijking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2014-01-01&g=2014-01-01) geschiedt de controle, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2014-01-01&g=2014-01-01), gedurende zes jaar na de inwerkingtreding van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2014-01-01&g=2014-01-01), eens per twee jaar.
 
 ##### Artikel 61
 
-Bij algemene maatregel van bestuur kan gedurende vier jaar na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-07-01&g=2013-07-01), met het oog op een goede invoering van deze wet regels stellen waarbij zo nodig kan worden afgeweken van het bepaalde bij en krachtens deze wet.
+Bij algemene maatregel van bestuur kan gedurende vier jaar na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), met het oog op een goede invoering van deze wet regels stellen waarbij zo nodig kan worden afgeweken van het bepaalde bij en krachtens deze wet.
 
 ##### Artikel 62
 
