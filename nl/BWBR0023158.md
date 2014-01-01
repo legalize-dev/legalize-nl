@@ -4,7 +4,7 @@ identifier: "BWBR0023158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-24"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023158"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 3. Onverenigbare functies
 
-1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01) kan niet tevens zijn:
+1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01) kan niet tevens zijn:
 
 - a. werknemer in dienst van de gemeente waarvan de aanvrager ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
 
@@ -98,7 +98,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 5. Garantiestelling
 
-1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 94 voor het jaar 2013.
+1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 94 voor het jaar 2014.
 
 2. Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt:
 
@@ -112,7 +112,9 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 - –. voor het jaar 2012 275,82;
 
-- –. voor het jaar 2013 270,65.
+- –. voor het jaar 2013 270,65;
+
+- –. voor het jaar 2014 120,47.
 
 ##### Artikel 6. Betaalbaarstelling
 
@@ -138,7 +140,7 @@ Het college draagt er zorg voor dat de minister desgevraagd aanvullende informat
 
 ##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
-Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
+Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2014-01-01&g=2014-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
 ##### Artikel 11. Statistiek sociale werkvoorziening
 
@@ -150,7 +152,7 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 ##### Artikel 12. De bewerker
 
-1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
+1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2014-01-01&g=2014-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
 2. De persoonsgegevens worden slechts in opdracht van de minister aan derden verstrekt ten behoeve van onderzoek waarvoor de persoonsgegevens noodzakelijk zijn.
 
@@ -168,7 +170,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2008.
 
-## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2013-01-01&g=2013-01-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2008
+## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2014-01-01&g=2014-01-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2008
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
 
