@@ -4,7 +4,7 @@ identifier: "BWBR0011382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2012-05-03"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011382"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ Het model van een kansspelautomaat voldoet aan de volgende eisen:
 
 - h. de automaat keert na onderbreking van de voedingsspanning in dezelfde toestand terug als voor de onderbreking, met dien verstande dat de inzet van het lopende spel en het resultaat van dat spel mogen vervallen;
 
-- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2012-05-03&g=2012-05-03) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
+- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2014-01-01&g=2014-01-01) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
 
 ##### Artikel 8
 
@@ -358,7 +358,7 @@ Rechtsvorm: .........................................
 
 (afschrift van de statuten meezenden)
 
-5. Inschrijving bij de Kamer van Koophandel en Fabrieken te: .........................................
+5. Inschrijving bij de Kamer van Koophandel te: .........................................
 
 Nummer van inschrijving in het handelsregister:
 
@@ -494,13 +494,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage II. bij de Speelautomatenregeling 2000
 
-[**Bijlage II**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=II&z=2012-05-03&g=2012-05-03)
+[**Bijlage II**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=II&z=2014-01-01&g=2014-01-01)
 
 Model van het formulier tot aanvraag van een exploitatievergunning als bedoeld in [artikel 6, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=6)
 
 ## Bijlage III. bij de Speelautomatenregeling 2000
 
-[**Bijlage III**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=III&z=2012-05-03&g=2012-05-03)
+[**Bijlage III**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=III&z=2014-01-01&g=2014-01-01)
 
 Model van het formulier tot aanvraag om toelating van een model van een speelautomaat als bedoeld in [artikel 17, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=17)
 
