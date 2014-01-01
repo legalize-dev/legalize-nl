@@ -4,7 +4,7 @@ identifier: "BWBV0005835"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-01-01"
-last_updated: "2012-04-20"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005835"
 soort: "verdrag"
@@ -70,7 +70,7 @@ Voorzien is dat de verwerking van de gebruikte splijtstoffen plaatsvindt binnen 
 
 ##### Artikel 4
 
-Ingevolge de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005835&artikel=1&z=2012-04-20&g=2012-04-20) van deze Overeenkomst overeengekomen verplichtingen en verbintenissen wordt het radioactief afval afkomstig van de verwerking van de gebruikte splijtstoffen naar Nederland teruggezonden; Nederland verplicht zich ertoe dit afval in de vorm van pakketten bewerkt afval in ontvangst te nemen.
+Ingevolge de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005835&artikel=1&z=2014-01-01&g=2014-01-01) van deze Overeenkomst overeengekomen verplichtingen en verbintenissen wordt het radioactief afval afkomstig van de verwerking van de gebruikte splijtstoffen naar Nederland teruggezonden; Nederland verplicht zich ertoe dit afval in de vorm van pakketten bewerkt afval in ontvangst te nemen.
 
 Voorzien is dat de terugzending van dit radioactief afval uiterlijk plaatsvindt na het verstrijken van een termijn van acht jaar na de verwerking van de desbetreffende gebruikte splijtstoffen.
 
