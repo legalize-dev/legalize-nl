@@ -4,7 +4,7 @@ identifier: "BWBR0027827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2012-11-10"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027827"
 soort: "ministeriele-regeling"
@@ -61,19 +61,19 @@ In dit besluit wordt verstaan onder:
 
 De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
 
-- a. besluiten te nemen ten aanzien van de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2012-11-10&g=2012-11-10), bij dit besluit genoemde bevoegdheden;
+- a. besluiten te nemen ten aanzien van de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2014-01-01&g=2014-01-01), bij dit besluit genoemde bevoegdheden;
 
 - b. de in onderdeel a. genoemde besluiten te schorsen of in te trekken als niet meer wordt voldaan aan de voorwaarden die bepalend zijn voor de afgifte van de vergunningen;
 
-- c. de bij de afzonderlijke ministeriële regelingen vastgestelde tarieven te heffen met betrekking tot de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2012-11-10&g=2012-11-10), bij dit besluit genoemde bevoegdheden.
+- c. de bij de afzonderlijke ministeriële regelingen vastgestelde tarieven te heffen met betrekking tot de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2014-01-01&g=2014-01-01), bij dit besluit genoemde bevoegdheden.
 
 - d. besluiten te nemen die een directe relatie hebben met het besluitvormingsproces van hetgeen onder a., b. en c. is bepaald.
 
 ##### Artikel 3
 
-- a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2012-11-10&g=2012-11-10) omschreven bevoegdheden.
+- a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2014-01-01&g=2014-01-01) omschreven bevoegdheden.
 
-- b. In situaties waarin besluiten worden ingetrokken of geschorst op andere gronden dan in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2012-11-10&g=2012-11-10), zijn bedoeld, dan is de directeur van Kiwa N.V. gemachtigd om ten aanzien daarvan handelingen te verrichten voorzover de intrekkingen en of schorsingen betrekking hebben op de onderwerpen genoemd in [bijlagen A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2012-11-10&g=2012-11-10).
+- b. In situaties waarin besluiten worden ingetrokken of geschorst op andere gronden dan in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2014-01-01&g=2014-01-01), zijn bedoeld, dan is de directeur van Kiwa N.V. gemachtigd om ten aanzien daarvan handelingen te verrichten voorzover de intrekkingen en of schorsingen betrekking hebben op de onderwerpen genoemd in [bijlagen A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2014-01-01&g=2014-01-01).
 
 - c. De voorzitter van de directie van Kiwa N.V. is gemachtigd klachten in behandeling te nemen als bedoeld in [Afdeling. 9.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1) over gedragingen binnen zijn organisatie met betrekking tot de uitoefening van de in dit besluit bedoelde mandaat, volmacht en machtiging.
 
@@ -113,7 +113,7 @@ namens deze,’,
 
 ‘De voorzitter van de directie van Kiwa N.V.’ gevolgd door de handtekening en de naam
 
-3. Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=6&z=2012-11-10&g=2012-11-10), vermeldt aan het slot:
+3. Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=6&z=2014-01-01&g=2014-01-01), vermeldt aan het slot:
 
 ‘DE MINISTER VAN VERKEER EN WATERSTAAT,
 
@@ -216,8 +216,6 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Kiwa N.V. (I)
 | Erkenning vaarbevoegdheidsbewijs (ander lidstaat) handelsvaart en zeilvaart | [Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778) | [art 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=9) |
 | Erkenning vaarbevoegdheidsbewijs ander lidstaat of derde land(zeevisvaart) | [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) | [art 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22) |
 | Erkenning vaarbevoegdheidsbewijs ander lidstaat of derde land(zeevisvaart) | [Besluit Zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790) | [art 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=35) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=22) |
-| A/B certificaat voor loodsen | [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) | [art 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5) |
-|   | [Besluit certificaatloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004865) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004865&artikel=2) |
 | **Bevoegdheden verkeersleiders** |   |   |
 | Initiële afgifte bewijs van bevoegdheid leerling-luchtverkeersleider | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) of [2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8a) |
 | Initiële afgifte bewijs van bevoegdheid leerling-luchtverkeersleider | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) |
