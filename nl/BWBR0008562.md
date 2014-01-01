@@ -4,7 +4,7 @@ identifier: "BWBR0008562"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2008-08-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008562"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Weten
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 januari 1997.
+
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
@@ -66,9 +68,7 @@ g. vwo/avo: een scholengemeenschap die ten minste bestaat uit een school voor vw
 
 h. gemengde leerweg: de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 10d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d);
 
-i. vwo/avo/vbo: een scholengemeenschap die ten minste bestaat uit een school voor vbo en een school voor vwo of een school voor avo;
-
-j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een school of instelling ter beschikking heeft, bepaald overeenkomstig NEN 2580 1997/A1:2001 – Oppervlakten en inhouden van gebouwen; Termen, definities en bepalingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut, zoals deze luidden op 27 mei 2002.
+i. vwo/avo/vbo: een scholengemeenschap die ten minste bestaat uit een school voor vbo en een school voor vwo of een school voor avo.
 
 #### Paragraaf 2. Drempelbedrag
 
@@ -84,7 +84,7 @@ Vervallen
 
 2. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een speciale school voor basisonderwijs tenminste dient te bevatten, bedraagt 6,6 m2. Tevens geldt per school en per nevenvestiging een vaste voet van ten minste 90 m2.
 
-3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2008-08-01&g=2008-08-01).
+3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
