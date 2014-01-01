@@ -4,7 +4,7 @@ identifier: "BWBR0012978"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2009-05-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012978"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 - a. een typegoedkeuring op grond van artikel 22 van de wet heeft verkregen,
 
-- b. volgens een aan de Dienst Wegverkeer overgelegd testrapport voldoet aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) opgenomen eisen, en
+- b. volgens een aan de Dienst Wegverkeer overgelegd testrapport voldoet aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) opgenomen eisen, en
 
-- c. voldoet aan het gestelde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=5&z=2009-05-01&g=2009-05-01).
+- c. voldoet aan het gestelde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01).
 
 2. In de aanwijzing worden de zitplaatsen genoemd waarvoor de vrijstelling geldt.
 
@@ -60,11 +60,13 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 ##### Artikel 3
 
-Op het kentekenbewijs van een motorfiets behorend tot een aangewezen type:
+1. Van een motorfiets behorend tot een aangewezen type:
 
-- a. wordt aangetekend dat er een vrijstelling is verleend ten aanzien van de verplichting tot het dragen van een goed passende helm als bedoeld in artikel 60, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990;
+- a. wordt in het kentekenregister aangetekend dat er een vrijstelling is verleend ten aanzien van de verplichting tot het dragen van een goed passende helm als bedoeld in [artikel 60, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60);
 
-- b. worden de zitplaatsen vermeld waarvoor deze vrijstelling geldt.
+- b. worden in het kentekenregister de zitplaatsen vermeld waarvoor deze vrijstelling geldt.
+
+2. Op verzoek van de aanvrager verstrekt de Dienst Wegverkeer een bewijs van vrijstelling als bedoeld in het eerste lid.
 
 #### Paragraaf 2. Testen en veiligheidsvoorzieningen
 
@@ -110,7 +112,7 @@ Op het kentekenbewijs van een motorfiets behorend tot een aangewezen type:
 
 ##### Artikel 6
 
-Een wijziging van [richtlijn 97/24/EG](31997L0024), van bijlage III van [richtlijn nr. 78/316/EEG](31978L0316) van de Raad van 21 december 1977 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de binneninrichting van motorvoertuigen (identificatie van bedieningsorganen, verklikkerlichten en meters) (PbEG L 81) of van bijlage II van [richtlijn nr. 96/27/EG](31996L0027) van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1996 betreffende de bescherming van de inzittenden van motorvoertuigen bij zijdelingse botsingen en houdende wijziging van [richtlijn nr. 70/156/EEG](31970L0156) (PbEG L 169) gaat voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=1&artikel=1&z=2009-05-01&g=2009-05-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=5&z=2009-05-01&g=2009-05-01) en de bijlage, gelden met ingang van de dag waarop de betrokken wijzigingsrichtlijn ingevolge [artikel 1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) voor de toepassing van dat besluit in werking treedt.
+Een wijziging van [richtlijn 97/24/EG](31997L0024), van bijlage III van [richtlijn nr. 78/316/EEG](31978L0316) van de Raad van 21 december 1977 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de binneninrichting van motorvoertuigen (identificatie van bedieningsorganen, verklikkerlichten en meters) (PbEG L 81) of van bijlage II van [richtlijn nr. 96/27/EG](31996L0027) van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1996 betreffende de bescherming van de inzittenden van motorvoertuigen bij zijdelingse botsingen en houdende wijziging van [richtlijn nr. 70/156/EEG](31970L0156) (PbEG L 169) gaat voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=1&artikel=1&z=2014-01-01&g=2014-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) en de bijlage, gelden met ingang van de dag waarop de betrokken wijzigingsrichtlijn ingevolge [artikel 1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) voor de toepassing van dat besluit in werking treedt.
 
 ##### Artikel 7
 
