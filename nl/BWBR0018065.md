@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2005-03-18"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -62,7 +62,7 @@ centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet 
 
 ##### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
 
-1. Het jaarverslag, bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), wordt ingericht overeenkomstig de richtlijnen voor de jaarverslaggeving van de Raad voor de jaarverslaggeving.
+1. Het jaarverslag, bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.
 
 2. In het bestuursverslag, bedoeld in [artikel 171, eerste lid onder a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), geeft het bevoegd gezag informatie over de school of scholen, en geeft het regionaal expertisecentrum of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over:
 
@@ -88,7 +88,7 @@ De gegevens, bedoeld in de [artikelen 172](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-03-18), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-01-01&g=2014-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Inwerkingtreding
 
@@ -98,7 +98,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-03-18) van het Besluit informatievoorziening WPO/WEC
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-01-01&g=2014-01-01) van het Besluit informatievoorziening WPO/WEC
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of regionaal expertise centrum (REC) dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
