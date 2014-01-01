@@ -4,7 +4,7 @@ identifier: "BWBR0022642"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2007-10-20"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022642"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);
 
-- b. kamer: kamer van koophandel en fabrieken als bedoeld in de [Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276).
+- b. Kamer: de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2).
 
 ##### Artikel 2
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Een verklaring, verleend op grond van de [Aanwijzingsregeling vestiging in de EU](https://wetten.overheid.nl/jci1.3:c:BWBR0012577), wordt aangemerkt als een verklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022642&artikel=3&z=2007-10-20&g=2007-10-20).
+Een verklaring, verleend op grond van de [Aanwijzingsregeling vestiging in de EU](https://wetten.overheid.nl/jci1.3:c:BWBR0012577), wordt aangemerkt als een verklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022642&artikel=3&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 5
 
