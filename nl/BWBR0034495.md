@@ -85,17 +85,3 @@ De aanvullende voorziening wordt slechts verstrekt indien de studerende daarom s
 Deze beleidsregel treedt in werking met ingang van 1 januari 2014.
 
 Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Vorm aanvullende voorziening
-
-1. De aanvullende voorziening, bedoeld in [artikel 2, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034495&artikel=2&z=2017-09-01&g=2017-09-01), wordt voor een deelnemer die een opleiding niveau 1 of 2 volgt, toegekend in de vorm van een gift overeenkomstig [artikel 4.2 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.2).
-
-2. De aanvullende voorziening, bedoeld in [artikel 2, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034495&artikel=2&z=2017-09-01&g=2017-09-01), wordt voor een deelnemer die een opleiding niveau 3 of 4 volgt, toegekend in de vorm van een prestatiebeurs overeenkomstig [artikel 4.6a van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.6a).
-
-3. De aanvullende voorziening, bedoeld in [artikel 2, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034495&artikel=2&z=2017-09-01&g=2017-09-01), wordt toegekend overeenkomstig [artikel 5.1 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.1).
-
-##### Artikel 4a. Overgangsrecht
-
-Op een studerende die vóór de inwerkingtreding van de beleidsregel houdende wijziging van de beleidsregel inzake aanvullende voorziening reisrecht ex [artikel 11.5 Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=11.5) met het oog op aanpassing en verduidelijking van de systematiek reeds een aanvullende voorziening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034495&artikel=2&z=2017-09-01&g=2017-09-01) heeft aangevraagd, blijft het door DUO uitgevoerde beleid, zoals dat luidde vóór het tijdstip van inwerkingtreding van die beleidsregel van toepassing.
-
-Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
