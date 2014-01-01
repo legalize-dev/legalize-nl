@@ -213,9 +213,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-Kleine hoeveelheden rechtstreeks vanaf vissersvaartuigen aan de consumenten verkochte producten hoeven niet te voldoen aan de eisen gesteld in artikel 35, eerste lid, van [verordening (EU) 1379/2013](32013R1379), mits die hoeveelheden niet hoger zijn dan de waarde, bedoeld in artikel 58, achtste lid, van [verordening (EG) 1224/2009](32009R1224).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
