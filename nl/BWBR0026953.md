@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2013-04-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -37,6 +37,8 @@ entry_into_force: "2009-12-22"
 # Besluit van de Minister van Verkeer en Waterstaat tot het instellen van het directoraat-generaal Rijkswaterstaat (Instellingsbesluit directoraat-generaal Rijkswaterstaat)
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -80,9 +82,11 @@ Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de mi
 
 - g. het beheer van de territoriale zee en de exclusieve economische zone, bedoeld in de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550), voor zover dit niet bij of krachtens wet aan anderen is opgedragen of gemandateerd;
 
-- h. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), en
+- h. de uitvoering van de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449);
 
-- i. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.
+- i. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), en
+
+- j. de uitvoering van opdrachten in naam van en voor rekening van tweeden en derden.
 
 ##### Artikel 4
 
