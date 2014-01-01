@@ -4,7 +4,7 @@ identifier: "BWBR0034433"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-02-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034433"
 soort: "wet"
@@ -39,13 +39,13 @@ entry_into_force: "2014-01-01"
 
 #### § 1. **Algemene bepalingen**
 
-#### § 2. **Belastingplicht**
+#### § 1. **Algemene bepalingen**
 
 #### § 3. **Grondslag**
 
 #### § 4. **Tarief**
 
-#### § 5. **Wijze van heffing**
+#### § 2. **Belastingplicht**
 
 #### § 6. **Overige bepalingen**
 
