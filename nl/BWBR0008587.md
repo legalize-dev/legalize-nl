@@ -4,7 +4,7 @@ identifier: "BWBR0008587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-09"
-last_updated: "2013-11-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008587"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5e, 
 
 ##### Artikel 1.2. Algemeen
 
-Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2013-11-01&g=2013-11-01) van toepassing.
+Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2014-01-01&g=2014-01-01) van toepassing.
 
 ##### Artikel 1.3. Materiaal
 
@@ -116,7 +116,7 @@ De opleidingsinstelling overhandigt de cursist die het examen met goed gevolg he
 
 ##### Artikel 1.8. Administratie
 
-De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2013-11-01&g=2013-11-01) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
+De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2014-01-01&g=2014-01-01) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
 
 #### Paragraaf 1.3. Vervallen
 
@@ -168,7 +168,7 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 1.6. Fiscale faciliëring arbo-investeringen
+#### Paragraaf 1.4. Melding beroepsziekten
 
 ##### Artikel 1.16. Aanwijzing bedrijfsmiddelen
 
@@ -184,7 +184,7 @@ Vervallen
 
 ### Hoofdstuk 2. Aanvullende voorschriften risico-inventarisatie en -evaluatie, deskundigen en arbodiensten
 
-#### Paragraaf 2.1. Nadere voorschriften risico-inventarisatie en -evaluatie
+#### Paragraaf 1.6. Fiscale faciliëring arbo-investeringen
 
 ##### Artikel 2.1. Risico-inventarisatie en -evaluatie
 
@@ -250,19 +250,19 @@ Vervallen
 
 ##### Artikel 2.6. Melding gegevens
 
-1. De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2013-11-01&g=2013-11-01).
+1. De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2014-01-01&g=2014-01-01).
 
-2. Indien zich een wijziging voordoet in de gegevens, bedoeld in de [artikelen 2.12, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2013-11-01&g=2013-11-01), of [2.13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2013-11-01&g=2013-11-01), meldt de arbodienst onderscheidenlijk de werkgever dit zo spoedig mogelijk aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in het eerste lid.
+2. Indien zich een wijziging voordoet in de gegevens, bedoeld in de [artikelen 2.12, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-01-01&g=2014-01-01), of [2.13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2014-01-01&g=2014-01-01), meldt de arbodienst onderscheidenlijk de werkgever dit zo spoedig mogelijk aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in het eerste lid.
 
 #### Paragraaf 2.2. Certificatie
 
 ##### Artikel 2.7. Aanwijzing certificerende instelling
 
-Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14), kan worden aangewezen een instelling die voldoet aan de eisen vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T op certificatie-instellingen behorend bij het Certificatieschema voor de dienstverlening door Arbodiensten: document: WDA&T-Arbodiensten 2012, versie 01, opgenomen in [bijlage IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIa&z=2013-11-01&g=2013-11-01) bij de regeling.
+Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14), kan worden aangewezen een instelling die voldoet aan de eisen vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T op certificatie-instellingen behorend bij het Certificatieschema voor de dienstverlening door Arbodiensten: document: WDA&T-Arbodiensten 2012, versie 01, opgenomen in [bijlage IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIa&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.8. Eisen aan de arbodienst
 
-Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2013-11-01&g=2013-11-01), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in het Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten: document: WSCS-Arbodiensten: 2012, versie 1, opgenomen in [bijlage IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIb&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2014-01-01&g=2014-01-01), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in het Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten: document: WSCS-Arbodiensten: 2012, versie 1, opgenomen in [bijlage IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIb&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.9. Klachtenprocedure
 
@@ -294,19 +294,19 @@ Vervallen
 
 ##### Artikel 2.14. Eisen voor de aanwijzing als certificerende instelling op het werkveld arbodeskundigen
 
-Een aanwijzing als certificerende instelling als bedoeld in [artikel 2.14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met persoonscertificatie op het gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige, document: WDAT-ARBO: 2012, versie 1, zoals opgenomen in [bijlage IIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIc&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een aanwijzing als certificerende instelling als bedoeld in [artikel 2.14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met persoonscertificatie op het gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige, document: WDAT-ARBO: 2012, versie 1, zoals opgenomen in [bijlage IIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIc&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.15. Afgifte certificaat van vakbekwaamheid arbeidshygiëne
 
-Een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeidshygiënist, document: WSCS-AH: 2012, versie 1, zoals opgenomen in [bijlage IId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IId&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeidshygiënist, document: WSCS-AH: 2012, versie 1, zoals opgenomen in [bijlage IId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IId&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.16. Afgifte certificaat van vakbekwaamheid veiligheidskundige
 
-Een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Hogere veiligheidskundige, document: WSCS-HVK: 2012, versie 1, zoals opgenomen in [bijlage IIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIe&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Hogere veiligheidskundige, document: WSCS-HVK: 2012, versie 1, zoals opgenomen in [bijlage IIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIe&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.17. Afgifte certificaat van vakbekwaamheid arbeids- en organisatiekunde
 
-Het certificaat van vakbekwaamheid arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeids- en Organisatiedeskundige, document: WSCS-AO: 2012, versie 1, opgenomen in [bijlage IIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIf&z=2013-11-01&g=2013-11-01) bij de regeling.
+Het certificaat van vakbekwaamheid arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen vastgelegd in het Werkveldspecifiek Certificatieschema voor het persoonscertificaat Arbeids- en Organisatiedeskundige, document: WSCS-AO: 2012, versie 1, opgenomen in [bijlage IIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIf&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 2.18. Verstrekken gegevens certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde, arbeidshygiëne, veiligheidskunde en arbeids- en organisatiekunde
 
@@ -394,7 +394,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
+1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
 
 - a. het boren van een boorgat;
 
@@ -406,7 +406,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), bestaat uit de volgende onderdelen:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), bestaat uit de volgende onderdelen:
 
 - a. het voorontwerprapport;
 
@@ -418,7 +418,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 - e. het addendum verlaten en verwijderen.
 
-2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), bestaat uit de volgende onderdelen:
+2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), bestaat uit de volgende onderdelen:
 
 - a. het gedetailleerd ontwerp, opstarten en gebruik;
 
@@ -428,25 +428,25 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), bevat:
+Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), bevat:
 
 - a. een duidelijke en nauwkeurige beschrijving van het mijnbouwwerk alsmede van de werkzaamheden die op het mijnbouwwerk worden uitgevoerd, met inbegrip van een aanduiding van de voorzieningen die in het ontwerp van het mijnbouwwerk zijn opgenomen ter uitsluiting of vermindering van de risico's;
 
-- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2013-11-01&g=2013-11-01) bij deze regeling;
+- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2014-01-01&g=2014-01-01) bij deze regeling;
 
-- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2013-11-01&g=2013-11-01) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
+- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2014-01-01&g=2014-01-01) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
 
 - d. de informatie, bedoeld in onderdeel c, is gebaseerd op de opgave, bedoeld in [artikel 2.42f, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
 
 - e. een opgave van de acceptatiecriteria;
 
-- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2013-11-01&g=2013-11-01) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2013-11-01&g=2013-11-01) bij deze regeling;
+- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2014-01-01&g=2014-01-01) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2014-01-01&g=2014-01-01) bij deze regeling;
 
 - g. een specificatie van de bronnen, die zijn gebruikt bij het identificeren, analyseren en evalueren van de risico's, met inbegrip van een beschrijving van de wijze waarop de geschiktheid en betrouwbaarheid van de bronnen is vastgesteld;
 
 - h. een beoordeling van de doeltreffendheid en geschiktheid van het veiligheids- en gezondheidszorgsysteem voor het mijnbouwwerk met inbegrip van de resultaten en de noodzakelijk bevonden wijzigingen of aanvullingen van dat zorgsysteem;
 
-- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2013-11-01&g=2013-11-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2013-11-01&g=2013-11-01) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
+- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2014-01-01&g=2014-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2014-01-01&g=2014-01-01) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
 
 - j. een opgave van de noodzakelijk geachte risicoverminderende maatregelen, inclusief een samenvatting van al het onderzoek dat in dit kader is verricht;
 
@@ -464,7 +464,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2013-11-01&g=2013-11-01), bevat:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2014-01-01&g=2014-01-01), bevat:
 
 - a. een overzichtstekening waarop de combinaties, bedoeld in het tweede lid, zijn aangegeven;
 
@@ -484,31 +484,31 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - i. een toetsing van de prestaties van een procesinstallatie of componenten daarvan, van apparatuur en van beheerssystemen aan de prestatienormen.
 
-2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
+2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
 
-- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01);
+- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01);
 
-- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01);
+- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01);
 
-- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), of
+- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), of
 
-- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01).
+- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 3.11. Toezenden voorontwerprapport
 
-1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2013-11-01&g=2013-11-01), wordt voorafgaand aan de aanvraag om een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) en de aanvraag om een vergunning als bedoeld in [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2014-01-01&g=2014-01-01), wordt voorafgaand aan de aanvraag om een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) en de aanvraag om een vergunning als bedoeld in [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2013-11-01&g=2013-11-01), wordt acht weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2014-01-01&g=2014-01-01), wordt acht weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2013-11-01&g=2013-11-01), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2014-01-01&g=2014-01-01), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2013-11-01&g=2013-11-01), wordt acht weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2014-01-01&g=2014-01-01), wordt acht weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
+5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
 
 ##### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2013-11-01&g=2013-11-01), wordt vier weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2014-01-01&g=2014-01-01), wordt vier weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 2. Dit veiligheids- en gezondheidsdocument gaat vergezeld van het werkprogramma, bedoeld in [artikel 74 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=74) indien het de volgende werkzaamheden betreft:
 
@@ -518,17 +518,17 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
 
-1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2013-11-01&g=2013-11-01), wordt nageleefd.
+1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2014-01-01&g=2014-01-01), wordt nageleefd.
 
-2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
+2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
 
 3. Indien de resultaten van de beoordeling, bedoeld in het tweede lid, daartoe aanleiding geven, herziet de werkgever die verantwoordelijk is voor de arbeidsplaats het veiligheids- en gezondheidsdocument. De herziene delen van het veiligheids- en gezondheidsdocument worden, alvorens het gewijzigde veiligheids- en gezondheidsdocument wordt uitgevoerd, in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 ##### Artikel 3.14. Noodplan
 
-1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2013-11-01&g=2013-11-01) bij deze regeling.
+1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
-2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), aanwezig.
+2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), aanwezig.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -574,9 +574,9 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - r. ladingzone: de ladingtanks en alle rechtstreeks aan deze tanks grenzende tanks of andere ruimten, welke als afscheiding dienen tussen de ladingtanks en de overige ruimten van het schip;
 
-- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2013-11-01&g=2013-11-01);
+- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2014-01-01&g=2014-01-01);
 
-- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2013-11-01&g=2013-11-01) van deze regeling vastgestelde modellen.
+- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2014-01-01&g=2014-01-01) van deze regeling vastgestelde modellen.
 
 ##### Artikel 4.2. Toepassingsgebied
 
@@ -628,11 +628,11 @@ Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als ge
 
 ##### Artikel 4.8. Veiligheids- en gezondheidsverklaring
 
-De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2013-11-01&g=2013-11-01), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2013-11-01&g=2013-11-01) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2013-11-01&g=2013-11-01), is afgegeven.
+De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2014-01-01&g=2014-01-01), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2014-01-01&g=2014-01-01) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2014-01-01&g=2014-01-01), is afgegeven.
 
 ##### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
 
-1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2013-11-01&g=2013-11-01) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
+1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2014-01-01&g=2014-01-01) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
 
 2. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt voorts slechts plaats voor zover die werkzaamheden en de ruimten waarin deze worden uitgevoerd, zijn vermeld in de in het eerste lid bedoelde veiligheids- en gezondheidsverklaring als zijnde toegestaan.
 
@@ -642,7 +642,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.10. Onderzoek gasdeskundige
 
-1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2013-11-01&g=2013-11-01) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
+1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2014-01-01&g=2014-01-01) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
 
 2. De gasdeskundige strekt dit onderzoek uit over alle ruimten ten aanzien waarvan hij dit in verband met de aard van de te verrichten werkzaamheden noodzakelijk acht. Bij het onderzoek betrekt de gasdeskundige zo nodig een goed geoutilleerd laboratorium. Hij maakt gebruik van deugdelijke, in goede staat verkerende meet- en andere hulpapparatuur.
 
@@ -684,7 +684,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
 
-Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2013-11-01&g=2013-11-01) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2013-11-01&g=2013-11-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
+Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2014-01-01&g=2014-01-01) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2014-01-01&g=2014-01-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
 
 - a. de aard van de werkzaamheden, de plaats of plaatsen waar deze werkzaamheden zullen worden uitgevoerd en de periode waarin zij zullen worden verricht, nauwkeurig zijn aangeduid door de reparateur;
 
@@ -694,11 +694,11 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - d. door een gasdeskundige een gedagtekende verklaring is uitgereikt waaruit blijkt dat op de onder a tot en met c bedoelde plaatsen de resten van brandbare vloeistoffen zijn verwijderd, zodat geen brandgevaar bestaat;
 
-- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2013-11-01&g=2013-11-01).
+- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
 
-1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2013-11-01&g=2013-11-01), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2013-11-01&g=2013-11-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2013-11-01&g=2013-11-01).
+1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2014-01-01&g=2014-01-01), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2014-01-01&g=2014-01-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2014-01-01&g=2014-01-01).
 
 2. De aanwezigheid van vuur, bedoeld in het eerste lid, is voorts toegestaan indien blijkt uit de verklaring, bedoeld in voornoemd lid, dat:
 
@@ -708,7 +708,7 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 ##### Artikel 4.13. Melding werkzaamheden
 
-Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2013-11-01&g=2013-11-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2013-11-01&g=2013-11-01), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
+Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2014-01-01&g=2014-01-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2014-01-01&g=2014-01-01), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
 
 ##### Artikel 4.14. Afgifte certificaat van vakbekwaamheid gasdeskundige
 
@@ -740,9 +740,9 @@ a. groot vuurwerk: professioneel vuurwerk dat bestemd is voor gebruik buiten tij
 
 ##### Artikel 4.17b. Afgifte certificaat van vakbekwaamheid professioneel vuurwerk
 
-1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD: 2012, versie 01 zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2013-11-01&g=2013-11-01) bij de regeling.
+1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD: 2012, versie 01 zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD: 2012, versie 01, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2013-11-01&g=2013-11-01) bij de regeling.
+2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD: 2012, versie 01, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 4.17c. Verstrekken gegevens bij aanvraag certificaat
 
@@ -756,13 +756,13 @@ Vervallen
 
 ##### Artikel 4.18. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
-Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2013-11-01&g=2013-11-01) bij de regeling toegepast.
+Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2014-01-01&g=2014-01-01) bij de regeling toegepast.
 
 #### Paragraaf 4.2. Veilig werken met explosieven
 
 ##### Artikel 4.19. Gevaarlijke stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), jo. [artikel 4.1, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2013-11-01&g=2013-11-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), jo. [artikel 4.1, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 2.
 
@@ -774,11 +774,11 @@ Als grenswaarde als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid
 
 ##### Artikel 4.20. Kankerverwekkende en mutagene stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2013-11-01&g=2013-11-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 2. De resultaten van de beoordeling, bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) worden voor elke stof waarvoor overeenkomstig het eerste lid en [artikel 4.16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) een grenswaarde is vastgesteld, getoetst aan die grenswaarde. De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
-#### Paragraaf 4.3. Verbod recirculatie
+#### Paragraaf 4.2a. Veilig werken met professioneel vuurwerk
 
 ##### Artikel 4.20a. Meetfrequentie en analyse van lood in de lucht
 
@@ -798,7 +798,7 @@ Als grenswaarde als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid
 
 3. Het loodgehalte in het bloed als bedoeld in [artikel 4.10b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b) wordt gemeten met behulp van de atomaire absorptiespectrometrie of een andere gelijkwaardige methode.
 
-4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2013-11-01&g=2013-11-01). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
+4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2014-01-01&g=2014-01-01). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
 5. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt de werknemers ten minste eenmaal per jaar aangeboden.
 
@@ -806,7 +806,7 @@ Als grenswaarde als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid
 
 ##### Artikel 4.21. Algemeen
 
-De metingen, bedoeld in [artikel 4.47, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47) worden overeenkomstig de [artikelen 4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2013-11-01&g=2013-11-01) uitgevoerd.
+De metingen, bedoeld in [artikel 4.47, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47) worden overeenkomstig de [artikelen 4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2014-01-01&g=2014-01-01) uitgevoerd.
 
 ##### Artikel 4.22. Monsterneming
 
@@ -842,7 +842,7 @@ Bij monsterneming wordt gebruik gemaakt van:
 
 ##### Artikel 4.25. Voorschriften bij telling
 
-Telling van de vezels op het filter, bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.24&z=2013-11-01&g=2013-11-01), vindt plaats volgens de onderstaande voorschriften:
+Telling van de vezels op het filter, bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.24&z=2014-01-01&g=2014-01-01), vindt plaats volgens de onderstaande voorschriften:
 
 - a. alleen telbare vezels worden geteld; onder telbare vezel wordt verstaan een vezel die voldoet aan de definitie van een vezel, bedoeld in [artikel 4.37, eerste lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.37) die geen deeltje met een maximum diameter groter dan 3 micrometer raakt;
 
@@ -868,33 +868,33 @@ Telling van de vezels op het filter, bedoeld in [artikel 4.24](https://wetten.ov
 
 2. De concentratie van vezels in de lucht is (het gemiddeld aantal vezels per graticulezone x de gehele blootgestelde zone van het filter)/(graticulezone x doorgeleid luchtvolume).
 
-#### Paragraaf 4.4b. Kankerverwekkende processen
+#### Paragraaf 4.4. Wettelijke grenswaarden
 
 ##### Artikel 4.27. Eisen voor afgifte van certificaten in het werkveld asbest
 
 Een certificaat kan worden afgegeven indien:
 
-- a. in geval van het certificaat, bedoeld in [artikel 4.54a, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie, zoals opgenomen in [bijlage XIIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIa&z=2013-11-01&g=2013-11-01) bij de regeling;
+- a. in geval van het certificaat, bedoeld in [artikel 4.54a, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie, zoals opgenomen in [bijlage XIIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIa&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- b. in geval van het certificaat, bedoeld in [artikel 4.54d, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering, zoals opgenomen in [bijlage XIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIb&z=2013-11-01&g=2013-11-01) bij de regeling;
+- b. in geval van het certificaat, bedoeld in [artikel 4.54d, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering, zoals opgenomen in [bijlage XIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIb&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- c. in geval van het certificaat, bedoeld in [artikel 4.54d, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA), zoals opgenomen in [bijlage XIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIc&z=2013-11-01&g=2013-11-01) bij de regeling;
+- c. in geval van het certificaat, bedoeld in [artikel 4.54d, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Toezichthouder Asbestverwijdering (DTA), zoals opgenomen in [bijlage XIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIc&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- d. in geval van het certificaat, bedoeld in [artikel 4.54d, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV), zoals opgenomen in [bijlage XIIId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIId&z=2013-11-01&g=2013-11-01) bij de regeling.
+- d. in geval van het certificaat, bedoeld in [artikel 4.54d, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema voor het Persoonscertificaat Deskundig Asbestverwijderaar (DAV), zoals opgenomen in [bijlage XIIId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIId&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 4.28. Eisen voor aanwijzing en (blijven) functioneren als certificerende instelling in het werkveld asbest
 
 Een aanwijzing als certificerende instelling kan geschieden indien:
 
-- a. in geval van een certificerende instelling als bedoeld in [artikel 4.54a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), of artikel 4.45d, eerste lid, van het besluit, de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB), zoals opgenomen in [bijlage XIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIe&z=2013-11-01&g=2013-11-01) bij de regeling;
+- a. in geval van een certificerende instelling als bedoeld in [artikel 4.54a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), of artikel 4.45d, eerste lid, van het besluit, de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Asbestverwijderingsbedrijven (AVB) en Asbestinventarisatiebedrijven (AIB), zoals opgenomen in [bijlage XIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIe&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- b. in geval van een certificerende instelling als bedoeld in [artikel 4.54d, vijfde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatieinstellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV), zoals opgenomen in [bijlage XIIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIf&z=2013-11-01&g=2013-11-01) bij de regeling.
+- b. in geval van een certificerende instelling als bedoeld in [artikel 4.54d, vijfde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatieinstellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV), zoals opgenomen in [bijlage XIIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIf&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 #### Paragraaf 4.4a. Nadere voorschriften over het werken met lood
 
 ##### Artikel 4.29. Verstrekken van gegevens en inlichtingen
 
-Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5e, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2013-11-01&g=2013-11-01) bij de regeling.
+Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5e, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 4.30. Uitzonderingen slopen
 
@@ -910,7 +910,7 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 4.6. Certificatiebepalingen arbeid met asbest
+#### Paragraaf 4.5. Meetmethodes asbest
 
 ##### Artikel 4.32a. Lijmen en verven in binnensituaties
 
@@ -928,7 +928,7 @@ Vervallen
 
 3. Het tweede lid, onder b, is niet van toepassing op:
 
-- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2013-11-01&g=2013-11-01) bij deze regeling beschreven omstandigheden is toegestaan;
+- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2014-01-01&g=2014-01-01) bij deze regeling beschreven omstandigheden is toegestaan;
 
 - b. het voorbewerken van muren en plafonds van woningen of andere gebouwen op plaatsen waar deze muren en plafonds ernstig verontreinigd zijn door brand- of rookschade of aanslag als gevolg van het roken van tabakswaren;
 
@@ -1010,13 +1010,13 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 2. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
-- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2013-11-01&g=2013-11-01) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
+- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2014-01-01&g=2014-01-01) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
 
 - b. het reinigen van gereedschappen die worden gebruikt bij de werkzaamheden, bedoeld onder a, of oppervlakken van onderdelen van motorrijtuigen ten behoeve van de herstel- of vernieuwingswerkzaamheden, bedoeld onder a.
 
 3. Het tweede lid is niet van toepassing op werkzaamheden ten behoeve van het herstellen van lakschade of het vernieuwen van laklagen op onderdelen van motorrijtuigen die zijn gebouwd vóór 1970;
 
-4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2013-11-01&g=2013-11-01) bij deze regeling.
+4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 ##### Artikel 4.32g. Coating van timmerwerk in binnensituaties
 
@@ -1188,7 +1188,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 1. Als certificerende instelling als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) kan worden aangewezen een opleidingsinstelling die een opleiding verzorgt die tot doel heeft personen op te leiden die uit hoofde van een bedrijf of beroep arbeidsgezondheidskundige onderzoeken als bedoeld in artikel 6.14a, eerste en tweede lid, van het besluit, uitvoeren of zullen gaan uitvoeren, en die voldoet aan de criteria zoals vastgelegd in het document, genoemd in het tweede lid.
 
-2. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), kan worden aangewezen een instelling die voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met persoonscertificatie op het gebied van Werken onder Overdruk, document: WDAT-WOD-P: 2012, versie 1, zoals opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVI&z=2013-11-01&g=2013-11-01) bij de regeling.
+2. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), kan worden aangewezen een instelling die voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met persoonscertificatie op het gebied van Werken onder Overdruk, document: WDAT-WOD-P: 2012, versie 1, zoals opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVI&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 3. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), is aangewezen een instelling die:
 
@@ -1220,21 +1220,21 @@ Vervallen
 
 - a. is ingeschreven als bedrijfsarts als bedoeld in [artikel 14, eerste lid, aanhef van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
 
-- b. met goed gevolg het examen, behorende bij de opleiding, bedoeld bij [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2013-11-01&g=2013-11-01), heeft afgelegd, en
+- b. met goed gevolg het examen, behorende bij de opleiding, bedoeld bij [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2014-01-01&g=2014-01-01), heeft afgelegd, en
 
-- c. voldoet aan de criteria zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikerarts, document: WSCS-WOD-A: 2012, versie 1, zoals opgenomen in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIa&z=2013-11-01&g=2013-11-01) bij de regeling.
+- c. voldoet aan de criteria zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikerarts, document: WSCS-WOD-A: 2012, versie 1, zoals opgenomen in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIa&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-2. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider, document: WSCS-WOD-L: 2012, versie 1, zoals opgenomen in [bijlage XVIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIb&z=2013-11-01&g=2013-11-01) bij de regeling.
+2. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider, document: WSCS-WOD-L: 2012, versie 1, zoals opgenomen in [bijlage XVIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIb&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-3. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduiker, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid, document: WSCS-WOD-D: 2012, versie 1, zoals opgenomen in [bijlage XVIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIc&z=2013-11-01&g=2013-11-01) bij de regeling.
+3. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduiker, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid, document: WSCS-WOD-D: 2012, versie 1, zoals opgenomen in [bijlage XVIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIc&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-4. Een certificaat als bedoeld in [artikel 6.16, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikmedisch begeleider, document: WSCS-WOD-B: 2012, versie 1, zoals opgenomen in [bijlage XVId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVId&z=2013-11-01&g=2013-11-01) bij de regeling.
+4. Een certificaat als bedoeld in [artikel 6.16, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikmedisch begeleider, document: WSCS-WOD-B: 2012, versie 1, zoals opgenomen in [bijlage XVId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVId&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 6.6. Afgifte certificaat brandweerduiker en brandweerduikploegleider
 
-1. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2013-11-01&g=2013-11-01), afgegeven indien de aanvrager, zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider bij de brandweer, document: WSCS-WOD-F: 2012, versie 1, zoals opgenomen in [bijlage XVIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIe&z=2013-11-01&g=2013-11-01) bij de regeling.
+1. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2014-01-01&g=2014-01-01), afgegeven indien de aanvrager, zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider bij de brandweer, document: WSCS-WOD-F: 2012, versie 1, zoals opgenomen in [bijlage XVIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIe&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-2. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2013-11-01&g=2013-11-01), afgegeven indien de aanvrager, zijnde brandweerduiker, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid verricht door de brandweer, document: WSCS-WOD-E: 2012, versie 1, zoals opgenomen in [bijlage XVIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIf&z=2013-11-01&g=2013-11-01) bij de regeling.
+2. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2014-01-01&g=2014-01-01), afgegeven indien de aanvrager, zijnde brandweerduiker, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid verricht door de brandweer, document: WSCS-WOD-E: 2012, versie 1, zoals opgenomen in [bijlage XVIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIf&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 #### Paragraaf 6.1. Certificatie
 
@@ -1312,25 +1312,25 @@ a. torenkraan: torenvormige hijskraan waarvan het maximumbedrijfslastmoment 10 t
 
 ##### Artikel 7.7. Afgifte certificaat van vakbekwaamheid
 
-1. De aanwijzing als certificerende instelling, bedoeld in [artikel 7.32, eerste lid, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op de certificatie- en keuringsinstellingen die personen certificeren in het kader van verticaal transport, documentcode WDAT-VT-Personen: 2012, versie 01 zoals opgenomen in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVII&z=2013-11-01&g=2013-11-01) bij de regeling.
+1. De aanwijzing als certificerende instelling, bedoeld in [artikel 7.32, eerste lid, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op de certificatie- en keuringsinstellingen die personen certificeren in het kader van verticaal transport, documentcode WDAT-VT-Personen zoals opgenomen in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVII&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-2. Een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in het eerste lid, heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de navolgende eisen:
+2. Een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in het eerste lid, heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de navolgende eisen:
 
-- a. indien het betreft een certificaat voor de bediening van een mobiele torenkraan van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel a, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Mobiele Torenkraan’, documentcode WSCS-VT Machinist Mobiele Torenkraan: 2012, versie 01, zoals opgenomen in [bijlage XVIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIa&z=2013-11-01&g=2013-11-01) bij de regeling;
+- a. indien het betreft een certificaat voor de bediening van een mobiele torenkraan van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel a, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Mobiele Torenkraan’, documentcode WSCS-VT Machinist Mobiele Torenkraan, zoals opgenomen in [bijlage XVIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIa&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- b. indien het betreft een certificaat voor de bediening van een torenkraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel a, sub 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Torenkraan’, documentcode WSCS-VT Machinist Torenkraan: 2012, versie 01, zoals opgenomen in [bijlage XVIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIb&z=2013-11-01&g=2013-11-01) bij de regeling;
+- b. indien het betreft een certificaat voor de bediening van een torenkraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel a, sub 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Torenkraan’, documentcode WSCS-VT Machinist Torenkraan, zoals opgenomen in [bijlage XVIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIb&z=2014-01-01&g=2014-01-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema Machinist Mobiele Torenkraan, documentcode WSCS-VT Machinist Mobiele Torenkraan, zoals opgenomen in [bijlage XVIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIa&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- c. indien het betreft een certificaat voor de bediening van een mobiele kraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Mobiele Kraan’, documentcode WSCS-VT Machinist Mobiele Kraan: 2012, versie 01, zoals opgenomen in [bijlage XVIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIc&z=2013-11-01&g=2013-11-01) bij de regeling;
+- c. indien het betreft een certificaat voor de bediening van een mobiele kraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Mobiele Kraan’, documentcode WSCS-VT Machinist Mobiele Kraan, zoals opgenomen in [bijlage XVIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIc&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- d. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Grondverzetmachine met Hijsfunctie’, documentcode WSCS-VT Machinist Grondverzetmachine met Hijsfunctie: 2012, versie 01, zoals opgenomen als [bijlage XVIId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIId&z=2013-11-01&g=2013-11-01) bij de regeling;
+- d. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Grondverzetmachine met Hijsfunctie’, documentcode WSCS-VT Machinist Grondverzetmachine met Hijsfunctie, zoals opgenomen als [bijlage XVIId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIId&z=2014-01-01&g=2014-01-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema Machinist Mobiele Kraan, documentcode WSCS-VT Machinist Mobiele Kraan, zoals opgenomen in [bijlage XVIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIc&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- e. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een autolaadkraan met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Autolaadkraan’, documentcode WSCS-VT Machinist Autolaadkraan: 2012, versie 01, zoals opgenomen in [bijlage XVIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIe&z=2013-11-01&g=2013-11-01) bij de regeling;
+- e. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een autolaadkraan met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Autolaadkraan’, documentcode WSCS-VT Machinist Autolaadkraan, zoals opgenomen in [bijlage XVIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIe&z=2014-01-01&g=2014-01-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema Machinist Mobiele Kraan, documentcode WSCS-VT Machinist Mobiele Kraan, zoals opgenomen in [bijlage XVIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIc&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- f. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2013-11-01&g=2013-11-01), het Werkveldspecifiek certificatieschema ‘Machinist Verreiker met Hijsfunctie’, documentcode WSCS-VT Machinist Verreiker met Hijsfunctie: 2012, versie 01, zoals opgenomen in [bijlage XVIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIf&z=2013-11-01&g=2013-11-01) bij de regeling;
+- f. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2014-01-01&g=2014-01-01), het Werkveldspecifiek certificatieschema ‘Machinist Verreiker met Hijsfunctie’, documentcode WSCS-VT Machinist Verreiker met Hijsfunctie, zoals opgenomen in [bijlage XVIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIf&z=2014-01-01&g=2014-01-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema Machinist Mobiele Kraan, documentcode WSCS-VT Machinist Mobiele Kraan, zoals opgenomen in [bijlage XVIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIc&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- g. indien het betreft een certificaat voor de bediening van een funderingsmachine als bedoeld in artikel 7.6, tweede lid, onderdeel c, sub 1°, van het Werkveldspecifiek certificatieschema ‘Machinist Kleine Funderingsmachine’, documentcode WSCS-VT Machinist Kleine Funderingsmachine: 2012, versie 01, zoals opgenomen in [bijlage XVIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIg&z=2013-11-01&g=2013-11-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema ‘Machinist Grote Funderingsmachine’, documentcode WSCS-VT Machinist Grote Funderingsmachine: 2012, versie 01, zoals opgenomen in [bijlage XVIIh](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIh&z=2013-11-01&g=2013-11-01) bij de regeling;
+- g. indien het betreft een certificaat voor de bediening van een funderingsmachine als bedoeld in artikel 7.6, tweede lid, onderdeel c, sub 1°, van het Werkveldspecifiek certificatieschema ‘Machinist Kleine Funderingsmachine’, documentcode WSCS-VT Machinist Kleine Funderingsmachine, zoals opgenomen in [bijlage XVIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIg&z=2014-01-01&g=2014-01-01) bij de regeling dan wel het Werkveldspecifiek certificatieschema ‘Machinist Grote Funderingsmachine’, documentcode WSCS-VT Machinist Grote Funderingsmachine, zoals opgenomen in [bijlage XVIIh](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIh&z=2014-01-01&g=2014-01-01) bij de regeling;
 
-- h. indien het betreft een certificaat voor de bediening van een funderingsmachine als bedoeld in artikel 7.6, tweede lid, onderdeel c, sub 2° van,het Werkveldspecifiek certificatieschema ‘Machinist Grote Funderingsmachine’, documentcode WSCS-VT Machinist Grote Funderingsmachine: 2012, versie 01, zoals opgenomen in [bijlage XVIIh](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIh&z=2013-11-01&g=2013-11-01) bij de regeling.
+- h. indien het betreft een certificaat voor de bediening van een funderingsmachine als bedoeld in artikel 7.6, tweede lid, onderdeel c, sub 2° van,het Werkveldspecifiek certificatieschema ‘Machinist Grote Funderingsmachine’, documentcode WSCS-VT Machinist Grote Funderingsmachine, zoals opgenomen in [bijlage XVIIh](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIIh&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 ##### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
 
@@ -1388,7 +1388,7 @@ Vervallen
 
 ##### Artikel 8.1. Vereisten
 
-Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2013-11-01&g=2013-11-01).
+Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 8.2. Permanente signalering
 
@@ -1396,7 +1396,7 @@ Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het beslu
 
 2. De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.
 
-3. De signalering op recipiënten en leidingen geschiedt overeenkomstig de [artikelen 8.12 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2013-11-01&g=2013-11-01).
+3. De signalering op recipiënten en leidingen geschiedt overeenkomstig de [artikelen 8.12 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2014-01-01&g=2014-01-01).
 
 4. De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.
 
@@ -1486,9 +1486,9 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 5. Borden in verband met het brandbestrijdingsmateriaal kenmerken zich door een rechthoekige of vierkante vorm en een wit pictogram op rode achtergrond, waarbij de rode kleur ten minste 50% van het oppervlak van het bord beslaat.
 
-6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2013-11-01&g=2013-11-01) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
+6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
 
-7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2013-11-01&g=2013-11-01) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
+7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2014-01-01&g=2014-01-01) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
 
 ##### Artikel 8.11. Plaatsing van borden
 
@@ -1510,7 +1510,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 3. De in het eerste lid bedoelde gevaarssymbolen kunnen:
 
-- a. worden vervangen door waarschuwingsborden als weergegeven in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2013-11-01&g=2013-11-01) met hetzelfde pictogram of symbool;
+- a. worden vervangen door waarschuwingsborden als weergegeven in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2014-01-01&g=2014-01-01) met hetzelfde pictogram of symbool;
 
 - b. worden aangevuld met extra informatie zoals de naam of de formule van de gevaarlijke stof en met bijzonderheden over de gevaren;
 
@@ -1518,17 +1518,17 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 ##### Artikel 8.13. Aanbrengen van signalering op reservoirs
 
-De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2013-11-01&g=2013-11-01) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
+De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2014-01-01&g=2014-01-01) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
 
 ##### Artikel 8.14. Plaatsing op reservoirs
 
-1. Indien gevaarssymbolen of gevaarsbenamingen als omschreven in de in [artikel 8.12 onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2013-11-01&g=2013-11-01) bedoelde richtlijnen op reservoirs en leidingen aangebracht worden, voldoen deze aanduidingen aan de [artikelen 8.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2013-11-01&g=2013-11-01), en [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2013-11-01&g=2013-11-01).
+1. Indien gevaarssymbolen of gevaarsbenamingen als omschreven in de in [artikel 8.12 onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2014-01-01&g=2014-01-01) bedoelde richtlijnen op reservoirs en leidingen aangebracht worden, voldoen deze aanduidingen aan de [artikelen 8.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2014-01-01&g=2014-01-01), en [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2014-01-01&g=2014-01-01).
 
 2. De op leidingen gebruikte gevaarssymbolen en gevaarsbenamingen worden zichtbaar en voldoende herhaald aangebracht in de nabijheid van de meest gevaarlijke plaatsen, zoals kleppen en aansluitingspunten.
 
 ##### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
 
-1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2013-11-01&g=2013-11-01) of door gevaarssymbolen en gevaarsbenamingen als bedoeld [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2013-11-01&g=2013-11-01) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2013-11-01&g=2013-11-01), wat de afmeting betreft, de gevaarssymbolen en gevaarsbenamingen van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
+1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2014-01-01&g=2014-01-01) of door gevaarssymbolen en gevaarsbenamingen als bedoeld [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2014-01-01&g=2014-01-01) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2014-01-01&g=2014-01-01), wat de afmeting betreft, de gevaarssymbolen en gevaarsbenamingen van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
 
 2. De in het eerste lid bedoelde borden of gevaarssymbolen en gevaarsbenamingen worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.
 
@@ -1540,9 +1540,9 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 1. Het lichtoppervlak dat een signaal uitzendt, is uniform van kleur of bevat een pictogram op een bepaalde achtergrond.
 
-2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2013-11-01&g=2013-11-01).
+2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2014-01-01&g=2014-01-01).
 
-3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2013-11-01&g=2013-11-01).
+3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 8.18. Bijzondere lichtsignalen
 
@@ -1630,7 +1630,7 @@ De seingever is makkelijk herkenbaar voor de ontvanger van de seinen.
 
 ##### Artikel 8.26. Voorkomen onduidelijkheid seinen
 
-De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2013-11-01&g=2013-11-01) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
+De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
 
 ##### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
 
@@ -1660,7 +1660,7 @@ Vervallen
 
 ##### Artikel 9.2a
 
-De afgifte van een certificaat van vakbekwaamheid arbeidshygiëne door de Stichting voor de Certificatie van Vakbekwaamheid SKO in de periode van 1 november 1999 tot 3 november 2006 wordt aangemerkt als de afgifte van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2013-11-01&g=2013-11-01).
+De afgifte van een certificaat van vakbekwaamheid arbeidshygiëne door de Stichting voor de Certificatie van Vakbekwaamheid SKO in de periode van 1 november 1999 tot 3 november 2006 wordt aangemerkt als de afgifte van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 9.2b. Overgangsbepaling Commissie voor advies inzake bezwaar en beroep
 
@@ -2568,7 +2568,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 - (eventueel) semi- of volautomatische verplaatsingseenheid.
 
-Ervaring:
+Opleiding:
 
 ##### L 001 Geluidarm snijgereedschap
 
@@ -2694,7 +2694,7 @@ Blijkens over te leggen meetrapporten mag het door de werkzaamheden veroorzaakte
 
 Blijkens over te leggen meetrapporten mag het door de werkzaamheden veroorzaakte geluid op een afstand van 1 m tot de geluidsbron niet meer bedragen dan 80 dB(A).
 
-Document: WSCS-AH: 2012, versie 1
+Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
 ##### F 001 Chauffeursstoel voor bedrijfswagens
 
@@ -5952,9 +5952,9 @@ Vervallen
 
 ### 4. **Het certificatiereglement**
 
-### 4.1. **Doelstelling**
+### 4. **Het certificatiereglement**
 
-### **10. SCA Certificaatregister**
+### 4.1. **Doelstelling**
 
 ### 4.2. **Certificatieprocedure**
 
@@ -6497,9 +6497,9 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.2a. Bepaling risico’s en grenzen
 
-1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2013-11-01&g=2013-11-01), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
+1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2014-01-01&g=2014-01-01), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
 
-2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2013-11-01&g=2013-11-01), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
+2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2014-01-01&g=2014-01-01), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -6511,7 +6511,7 @@ Intrinsieke kenmerken:
 
 #### Paragraaf 4.2a. Veilig werken met professioneel vuurwerk
 
-#### Paragraaf 4.2b. Opsporen conventionele explosieven
+#### Paragraaf 4.2. Veilig werken met explosieven
 
 #### Paragraaf 4.3. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
@@ -6519,9 +6519,9 @@ Intrinsieke kenmerken:
 
 #### Paragraaf 4.4b. Kankerverwekkende processen
 
-#### Paragraaf 4.7. Bijzondere voorschriften asbest
+#### Paragraaf 4.4a. Nadere voorschriften over het werken met lood
 
-#### Paragraaf 4.6. Certificatiebepalingen arbeid met asbest
+#### Paragraaf 4.4b. Kankerverwekkende processen
 
 #### Paragraaf 4.6. Certificatiebepalingen arbeid met asbest
 
@@ -6539,11 +6539,11 @@ Intrinsieke kenmerken:
 
 #### Paragraaf 6.1. Certificatie
 
-### Hoofdstuk 7. Arbeidsmiddelen
+### Hoofdstuk 5. Beeldschermarbeid
 
 #### Paragraaf 6.2. Opleidingen
 
-#### Paragraaf 6.2. Opleidingen
+#### Paragraaf 6.1. Certificatie
 
 #### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
 
@@ -6563,7 +6563,7 @@ De met een **asterisk** gemarkeerde bedrijfsmiddelen dienen, overeenkomstig de d
 
 1. Deze lijst wordt aangehaald als: Arbolijst 2004.
 
-Bekwaamheid:
+Ervaring:
 
 Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie beleidsmaatregel maatregelenbeleid certificering [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
@@ -6589,9 +6589,9 @@ Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan
 | Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
 | VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
 
-### **11. Interpretatieverschillen**
+### 4.2. **Certificatieprocedure**
 
-vragen, kennisvragen, enz.)
+De Arbeidshygiënist, dient in overeenstemming met het certificatieschema Arbeidshygiënist een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
 
 ## Bijlage XIB. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2003-09-01&g=2003-11-01)
 
@@ -6627,7 +6627,7 @@ vragen, kennisvragen, enz.)
 
 ##### Artikel 4.32h. Gelijkstelling vervangende producten
 
-Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2013-11-01&g=2013-11-01), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2013-11-01&g=2013-11-01), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2013-11-01&g=2013-11-01), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2013-11-01&g=2013-11-01), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2013-11-01&g=2013-11-01), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2013-11-01&g=2013-11-01) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2013-11-01&g=2013-11-01), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2014-01-01&g=2014-01-01), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2014-01-01&g=2014-01-01), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2014-01-01&g=2014-01-01), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2014-01-01&g=2014-01-01), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2014-01-01&g=2014-01-01), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2014-01-01&g=2014-01-01) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2014-01-01&g=2014-01-01), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 #### Paragraaf 4.7. Bijzondere voorschriften asbest
 
@@ -6689,6 +6689,8 @@ De CKI moet beschikken over een (op schrift gestelde) procedure waarin invulling
 
 Document: WDA&T-Arbodiensten 2012, versie 01
 
+Document: WDA&T-Arbodiensten 2012, versie 01
+
 **Onder beheer van:**
 
 Stichting Beheer Certificatieregeling Arbodiensten (SBCA)
@@ -6697,37 +6699,37 @@ Postbus 12
 
 3740 AA Baarn
 
-De CKI moet de geregistreerde gegevens toegankelijk maken voor publieke toezichthouders.
-
 De CKI moet beroepsbeoefenaren die duurzaam in Nederland werkzaam willen zijn op verzoek de erkenning van EG-beroepskwalificaties verlenen, indien één van de onderstaande situaties van toepassing is:
 
 De dienstverlening door arbodiensten betreft een activiteit met een groot maatschappelijk belang, namelijk het voorkómen van arbeidsongevallen en ziekteverzuim alsmede het beperken van ziekteverzuim en het bevorderen van een adequate re-integratie. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling m.b.t. de dienstverlening door arbodiensten. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister. Dit gebeurt door een toetsing aan de hand van dit Document voor Aanwijzing van en Toezicht op de Certificatie en Keuringsinstellingen ten behoeve van de dienstverlening door arbodiensten. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
-In dit schema voor aanwijzing en toezicht (WDAT-ARBO) worden enerzijds de normen vastgelegd waaraan CKI’s dienen te voldoen om aangewezen te worden door de Minister en anderzijds de voorwaarden waarbinnen de aanwijzing plaatsvindt.
+De dienstverlening door arbodiensten betreft een activiteit met een groot maatschappelijk belang, namelijk het voorkómen van arbeidsongevallen en ziekteverzuim alsmede het beperken van ziekteverzuim en het bevorderen van een adequate re-integratie. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling m.b.t. de dienstverlening door arbodiensten. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister. Dit gebeurt door een toetsing aan de hand van dit Document voor Aanwijzing van en Toezicht op de Certificatie en Keuringsinstellingen ten behoeve van de dienstverlening door arbodiensten. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
 In dit document hebben onderstaande begrippen of afkortingen de volgende betekenis:
 
-Het aanvullend examen kan mondeling of schriftelijk zijn en wordt in de Nederlandse taal afgenomen. De CKI neemt hierbij de afhandelingtermijnen in acht zoals die gelden op grond van de Algemene wet bestuursrecht.
+In dit document hebben onderstaande begrippen of afkortingen de volgende betekenis:
 
 Daarnaast worden de definities uit de ISO/IEC 17024:2003 en uit de IAF Guidance24:2009 gehanteerd.
 
 Dit werkveldspecifieke document voor aanwijzing en toezicht ten behoeve van de dienstverlening door arbodienst van de SBCA is op (datum) door het CCvD voorgesteld en door de minister van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde document vervangt daarmee eerdere versies. Op- en aanmerkingen over dit document kunnen worden ingediend bij het CCvD, per adres: SBCA, Postbus 12, 3740 AA Baarn.
 
-De CKI moet voor de erkenning van beroepskwalificaties een specifiek stroomschema opstellen dat is gebaseerd op het onderstaande algemene model dat door de Europese Unie is verspreid.
+Dit werkveldspecifieke document voor aanwijzing en toezicht ten behoeve van de dienstverlening door arbodienst van de SBCA is op (datum) door het CCvD voorgesteld en door de minister van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde document vervangt daarmee eerdere versies. Op- en aanmerkingen over dit document kunnen worden ingediend bij het CCvD, per adres: SBCA, Postbus 12, 3740 AA Baarn.
 
 Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
 
-Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
+Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
 
 De CKI’s dienen (potentiële) arbodiensten te beoordelen met de vraag: voldoet deze (potentiële) arbodienst aan de eisen zoals die zijn neergelegd in het certificatieschema voor de dienstverlening door arbodiensten. Op hun beurt dienen ook de CKI’s te worden beoordeeld op hun certificeringsdeskundigheid. Deze beoordeling vindt plaats aan de hand van dit Werkveldspecifiek document van aanwijzing en toezicht. Dit schema berust weer voor een belangrijk deel op de internationale norm voor CKI’s: ISO/IEC 17021. Deze internationale norm kent enerzijds een aantal algemene uitgangspunten/principes en anderzijds een aantal algemene eisen voor het werk van de CKI’s.
 
-Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
+De CKI’s dienen (potentiële) arbodiensten te beoordelen met de vraag: voldoet deze (potentiële) arbodienst aan de eisen zoals die zijn neergelegd in het certificatieschema voor de dienstverlening door arbodiensten. Op hun beurt dienen ook de CKI’s te worden beoordeeld op hun certificeringsdeskundigheid. Deze beoordeling vindt plaats aan de hand van dit Werkveldspecifiek document van aanwijzing en toezicht. Dit schema berust weer voor een belangrijk deel op de internationale norm voor CKI’s: ISO/IEC 17021. Deze internationale norm kent enerzijds een aantal algemene uitgangspunten/principes en anderzijds een aantal algemene eisen voor het werk van de CKI’s.
 
 Bij de aanwijzing van een certificatie-instelling (CKI) bestaat het risico dat:
 
 Het beoordelen en aanwijzen van CKI’s voor systeemcertificatie vindt plaats op basis van de volgende normenstelsels:
 
-Hierbij gaat het onder meer om zaken als onvoldoende periodieke controle van de CKI op de certificaathouder (frequentie, diepgang).
+Het beoordelen en aanwijzen van CKI’s voor systeemcertificatie vindt plaats op basis van de volgende normenstelsels:
+
+De CKI dient voor de certificatie van arbodiensten de volgende functionarissen te kunnen inzetten, het één en ander conform paragraaf 7.2 van de norm ISO 17021:
 
 De CKI dient voor de certificatie van arbodiensten de volgende functionarissen te kunnen inzetten, het één en ander conform paragraaf 7.2 van de norm ISO 17021:
 
@@ -6743,7 +6745,7 @@ Bekwaamheid:
 
 **Overige auditors** dienen te voldoen aan het volgende profiel:
 
-Opleiding:
+Bekwaamheid:
 
 De **coördinator certificatie arbodiensten** dient te voldoen aan het volgende profiel:
 
@@ -6751,19 +6753,19 @@ Opleiding:
 
 Bekwaamheid:
 
-Ten behoeve van de informatieverzameling dient de CKI kosteloos:
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de navolgende criteria getoetst.
 
 De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de navolgende criteria getoetst.
 
-Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
-
 In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing: [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling.
 
-Ten behoeve van de informatieverzameling dient de CKI kosteloos:
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing: [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling.
 
-Stichting Beheer Certificatie Deskundigen (BCD)
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie beleidsmaatregel maatregelenbeleid certificering [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
 Lange Voorhout 14
+
+Document: WSCS-Arbodiensten 2012, versie 1
 
 Document: WSCS-Arbodiensten 2012, versie 1
 
@@ -6775,13 +6777,13 @@ Postbus 12
 
 3740 AA Baarn
 
-De te certificeren deskundige betreft de Arbeidshygiënist. De Arbeidshygiënist houdt zich bezig met het adviseren van werkgevers en medewerkers over hoe problemen in de werkomgeving beheerst kunnen worden, waarbij het doel bescherming van de medewerkers is. Het voorkomen van gezondheidsschade tijdens het werk staat centraal. De Arbeidshygiënist is de aangewezen specialist op het gebied belastende factoren in de werkomgeving die een schadelijke invloed kunnen hebben op de gezondheid van medewerkers (of op het nageslacht van medewerkers). De deskundige adviseert onder meer over blootstelling op de werkplek aan giftige en/of gevaarlijke stoffen, lawaaiige machines, trillend gereedschap, schadelijke straling, schimmels en bacteriën, etc.
-
 De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Arbeidshygiënisten die RI&E toetsen’. Tevens moet een gecertificeerde Arbodienst beschikken over een gecertificeerde arbeidshygiënist. Uit [artikel 2.7 lid 2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) volgt dat een arbeidshygiënist alleen beschikt over voldoende deskundigheid en ervaring indien hij in het bezit is van een certificaat van vakbekwaamheid arbeidshygiëne uitgereikt door een certificerende instelling.
 
 Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
-Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit ISO/IEC 17024:2003.
+Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
+
+Dit werkveldspecifieke certificatieschema voor systemen is door het Centraal College van
 
 Dit werkveldspecifieke certificatieschema voor systemen is door het Centraal College van
 
@@ -6789,13 +6791,13 @@ Deskundigen Arbodiensten opgesteld. Dit Centraal College is ondergebracht bij de
 
 Het te certificeren systeem betreft de dienstverlening door arbodiensten, zoals die is vereist op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) en [artikel 14, lid 1 van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). Het te certificeren systeem van een arbodienst heeft betrekking op de vier wettelijk taken die iedere arbodienst tenminste dient uit te voeren:
 
-vast te leggen in een asbestinventarisatierapport inclusief risicoklassificaties
-
 Dit werkveldspecifieke certificatieschema Arbeidshygiënist is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
 Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid van dienstverlening door arbodiensten.
 
-Binnen het kader van deze certificatieregeling zijn actief:
+Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid van dienstverlening door arbodiensten.
+
+Het werkveldspecifieke certificatieschema voor de dienstverlening door arbodiensten van .... (datum) is op ....(datum) door het CCvD opgesteld en door het Ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
 Het werkveldspecifieke certificatieschema voor de dienstverlening door arbodiensten van .... (datum) is op ....(datum) door het CCvD opgesteld en door het Ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
@@ -6803,7 +6805,7 @@ Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij d
 
 Het te certificeren systeem betreft de dienstverlening door arbodiensten, zoals die is vereist op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) en [artikel 14, lid 1 van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). Het te certificeren systeem van een arbodienst heeft betrekking op de vier wettelijk taken die iedere arbodienst tenminste dient uit te voeren:
 
-Kortdurende afwezigheid van de adviseur kan daarom het niveau van de arbeidsomstandigheden niet aantasten. Dat maakt dat het directe afbreukrisico gering is.
+Met de komst van de Wet Arbo/TZ, zoals die is ingegaan op 1 januari 1994, bestaan er in Nederland arbodiensten. Deze arbodiensten kregen tot taak om zowel preventieve- als ziekteverzuimbegeleidingstaken uit te voeren. Daarmee werd de arbodienst een geïntegreerde dienstverlener. De preventieve taken vloeiden voort uit de Europese Kaderrichtlijn 89/391/EEG en de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). De ziekteverzuimbegeleidingstaken vloeiden voort uit de loondoorbetalingsplicht zoals die is geformuleerd in het Burgerlijk Wetboek. Later zijn daar de verplichtingen op basis van de [Wet Verbetering Poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063) bijgekomen.
 
 Met de komst van de Wet Arbo/TZ, zoals die is ingegaan op 1 januari 1994, bestaan er in Nederland arbodiensten. Deze arbodiensten kregen tot taak om zowel preventieve- als ziekteverzuimbegeleidingstaken uit te voeren. Daarmee werd de arbodienst een geïntegreerde dienstverlener. De preventieve taken vloeiden voort uit de Europese Kaderrichtlijn 89/391/EEG en de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). De ziekteverzuimbegeleidingstaken vloeiden voort uit de loondoorbetalingsplicht zoals die is geformuleerd in het Burgerlijk Wetboek. Later zijn daar de verplichtingen op basis van de [Wet Verbetering Poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063) bijgekomen.
 
@@ -6829,13 +6831,13 @@ In hoofdstuk 6 worden de eisen met betrekking tot deze vier wettelijke taken nad
 
 Een belangrijk, meer specifiek, risico in de uitvoering van de vier wettelijke taken door een arbodienst is het risico op schending van de privacy-voorschriften. Het schenden van deze voorschriften door een arbodienst als rechtspersoon en/of door medewerkers van een de arbodienst is een ernstig feit, met grote gevolgen voor de betrokken werknemer.
 
-Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door het Ministerie van SZW gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid bij de inventarisatie van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident.
-
 Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
 Dit deel van het schema omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Het gaat om de volgende onderwerpen:
 
-De bezwaarprocedure is opgenomen in bijlage 2.
+Dit deel van het schema omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Het gaat om de volgende onderwerpen:
+
+De arbodienst dient bij een CKI1Op dit moment zijn er twee CKI’s actief: Lloyd’s RQA en DNV Certification., in overeenstemming met de certificatieprocedure, een aanvraag in voor het Certificaat Arbodienst.
 
 De arbodienst dient bij een CKI1Op dit moment zijn er twee CKI’s actief: Lloyd’s RQA en DNV Certification., in overeenstemming met de certificatieprocedure, een aanvraag in voor het Certificaat Arbodienst.
 
@@ -6847,9 +6849,9 @@ De CKI verstrekt informatie over de gang van zaken bij de afhandeling van de aan
 
 In het contract dat de CKI afsluit met de arbodienst wordt de eisen uit dit Certificatieschema van toepassing verklaard.
 
-De externe arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2013-11-01&g=2013-11-01) van de Arboregeling.
+De externe arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-01-01&g=2014-01-01) van de Arboregeling.
 
-De interne arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2013-11-01&g=2013-11-01) van de Arboregeling.
+De interne arbodienst verstrekt aan de CKI bij de aanvraag de gegevens zoals die staan geformuleerd in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2014-01-01&g=2014-01-01) van de Arboregeling.
 
 De uitvoering van de audit vindt plaats conform het werkplan. De audits worden gehouden door een team van een lead auditor en een tweede auditor. Beide auditors dienen deskundigen te zijn.
 
@@ -6861,29 +6863,29 @@ Het aantal auditdagen verschilt per arbodienst, afhankelijk van het aantal perso
 
 Voor nieuwe externe arbodiensten of ondernemingen geldt dezelfde certificatieprocedure, echter met de volgende aanpassingen:
 
-Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
+De certificatiebeslissing wordt genomen in overeenstemming met de eisen uit het Certificatieschema door een functionaris van de CKI die is gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem van de CKI en die volgens de procedure onder 4.2 niet betrokken is geweest bij de beoordeling van het systeem.
 
 De certificatiebeslissing wordt genomen in overeenstemming met de eisen uit het Certificatieschema door een functionaris van de CKI die is gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem van de CKI en die volgens de procedure onder 4.2 niet betrokken is geweest bij de beoordeling van het systeem.
 
-Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een looptijd van drie jaar. Uit dit Certificaat Arbodienst blijkt dat er een gerechtvaardigd vertrouwen mag bestaan dat de arbodienst voldoet aan de voorschriften die zijn gesteld bij of krachtens de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). Deze voorschriften zijn terug te vinden in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2013-11-01&g=2013-11-01) van de Arboregeling. De arbodienst heeft het recht het logo Certificaat Arbodienst te gebruiken.
+Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een looptijd van drie jaar. Uit dit Certificaat Arbodienst blijkt dat er een gerechtvaardigd vertrouwen mag bestaan dat de arbodienst voldoet aan de voorschriften die zijn gesteld bij of krachtens de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). Deze voorschriften zijn terug te vinden in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2014-01-01&g=2014-01-01) van de Arboregeling. De arbodienst heeft het recht het logo Certificaat Arbodienst te gebruiken.
 
 De CKI heeft de plicht om van het afgeven, het weigeren, het opschorten of schorsen of het intrekken van een Certificaat Arbodienst mededeling te doen aan het SBCA. Deze mededeling wordt door het SBCA doorgegeven aan het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
+Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een geldigheidsduur van drie jaar.
 
 Bij een positief besluit wordt een Certificaat Arbodienst afgegeven met een geldigheidsduur van drie jaar.
 
-Het toezicht wordt als volgt uitgevoerd:
+Het Certificaat Arbodienst bevat minimaal de navolgende gegevens:
 
 Het Certificaat Arbodienst bevat minimaal de navolgende gegevens:
 
-In de praktijk is het denkbaar, dat in de rapportage van een Type-A onderzoek uitsluitingen zijn opgenomen omdat bijvoorbeeld sommige ruimten niet konden worden onderzocht, of dat het bouwwerk nog in gebruik was ten tijde van de asbestinventarisatie (het gebouw was niet onbelemmerd en passend toegankelijk).
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -6891,7 +6893,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-Schorsen van het certificaat vindt in ieder geval plaats indien de werkervaring aantoonbaar minder is als twee dagdelen gemiddeld per week en het voor de certificaathouder mogelijk is binnen een half jaar dit alsnog aan te tonen.
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -6915,7 +6917,7 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-De aanvrager kan hiervoor één van de volgende documenten aanleveren:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
@@ -6923,21 +6925,21 @@ Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
 
-In het geval de kandidaat een niet toegelaten beroeps opleiding heeft gevolgd biedt de CKI de mogelijkheid om een onderzoek te verrichten waaruit al dan niet de gelijkwaardigheid van de beroepsopleiding blijkt. Wanneer hiervan sprake is dan wordt het diploma als gelijkwaardig gesteld aan een door de CKI toegelaten opleiding. De kosten van dit onderzoek zijn voor rekening van de kandidaat.
+De CKI registreert maandelijks de actuele gegevens in het Certificaat Arbodienst-register. Conform de overeenkomst tussen de CKI en de SBCA worden de gegevens elektronisch verzonden aan het SBCA ten behoeve van het SBCA Certificaat Arbodienst-register. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders. Het afgeven, het weigeren, het opschorten/schorsen of het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan de SBCA en de andere CKI’s.
 
 De CKI registreert maandelijks de actuele gegevens in het Certificaat Arbodienst-register. Conform de overeenkomst tussen de CKI en de SBCA worden de gegevens elektronisch verzonden aan het SBCA ten behoeve van het SBCA Certificaat Arbodienst-register. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders. Het afgeven, het weigeren, het opschorten/schorsen of het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan de SBCA en de andere CKI’s.
 
-De aanvrager kan hiervoor één van de volgende documenten aanleveren:
+Het CCvD zorgt voor een eenduidige norminterpretatie van de eisen in dit certificatieschema voor de dienstverlening door arbodiensten. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in het certificatieschema voor de dienstverlening door arbodiensten gehanteerde begrippen.
 
 Het CCvD zorgt voor een eenduidige norminterpretatie van de eisen in dit certificatieschema voor de dienstverlening door arbodiensten. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in het certificatieschema voor de dienstverlening door arbodiensten gehanteerde begrippen.
 
 Mocht het gebeuren dat aanvragers van het Certificaat Arbodienst, certificaathouders en CKI’s uiteenlopende definities hanteren en hierover meningsverschillen (blijven) bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD.
 
-De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvangstbevestiging naar de kandidaat. Wanneer de kandidaat aan de bovenstaande entreecriteria heeft voldaan, dan wordt de aanvraag in behandeling genomen, zie hoofdstuk 10, waarna de examinator de inhoudelijke check van de bewijsstukken verricht.
+De CKI is verplicht de certificaathouder blijvend te toetsen aan de eisen uit het Certificatieschema voor dienstverlening door arbodiensten. De CKI toetst de certificaathouder in overeenstemming met de eisen uit paragraaf 9.3 van ISO 17021:2011.
 
 De CKI is verplicht de certificaathouder blijvend te toetsen aan de eisen uit het Certificatieschema voor dienstverlening door arbodiensten. De CKI toetst de certificaathouder in overeenstemming met de eisen uit paragraaf 9.3 van ISO 17021:2011.
 
-In het kader van de initiële certificatie van het asbestinventarisatiebedrijf worden verschillende processen
+Voor het toezicht kan het noodzakelijk zijn dat de CKI, de RvA, de Inspectie SZW zich toegang verschaffen tot gegevens van de certificaathouders. Het gaat om de volgende gegevens van de certificaathouder:
 
 Voor het toezicht kan het noodzakelijk zijn dat de CKI, de RvA, de Inspectie SZW zich toegang verschaffen tot gegevens van de certificaathouders. Het gaat om de volgende gegevens van de certificaathouder:
 
@@ -6945,7 +6947,7 @@ De certificaathouder verschaft toegang tot de gevraagde gegevens door middel van
 
 In de certificatieovereenkomst neemt de CKI deze verplichting voor de certificaathouder op.
 
-De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
+In deze paragraaf wordt aangegeven hoe vaak de CKI controles of (tussentijdse) audits houdt.
 
 In deze paragraaf wordt aangegeven hoe vaak de CKI controles of (tussentijdse) audits houdt.
 
@@ -6953,13 +6955,13 @@ Daarbij geldt het volgende uitgangspunt: in alle gevallen kan besloten worden to
 
 Gedurende de looptijd van het Certificaat Arbodienst vindt ieder jaar een tussentijdse audit plaats van de CKI. De CKI kan altijd besluiten om tot een onaangekondigde steekproefsgewijze controle van de certificaathouder over te gaan.
 
-De examinator bekijkt of:
+Bij de tussentijdse audits wordt een lead auditor en een auditor betrokken. Welke deskundigheden gedurende de looptijd van het certificaat bij de audits worden ingezet, wordt na overleg tussen de CKI en de arbodienst bepaald. De auditors onderzoeken of de arbodienst voldoet aan de eisen verwoord in het Certificatieschema en rapporteren aan de coördinator certificatie arbodiensten van de CKI. Deze coördinator beoordeelt inhoudelijk en procesmatig de rapportage.
 
 Bij de tussentijdse audits wordt een lead auditor en een auditor betrokken. Welke deskundigheden gedurende de looptijd van het certificaat bij de audits worden ingezet, wordt na overleg tussen de CKI en de arbodienst bepaald. De auditors onderzoeken of de arbodienst voldoet aan de eisen verwoord in het Certificatieschema en rapporteren aan de coördinator certificatie arbodiensten van de CKI. Deze coördinator beoordeelt inhoudelijk en procesmatig de rapportage.
 
 Indien de CKI weet of kan weten dat de veiligheid en gezondheid van werknemers en derden in gevaar wordt of kan worden gebracht door werkzaamheden die door een door haar afgegeven certificaat worden gereguleerd, dan moet de CKI dit melden aan de Inspectie SZW ([art. 1.5b, lid 3 Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b)).
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de kandidaat (via de CKI) in de gelegenheid gesteld om dit binnen 14 dagen alsnog aan te vullen. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+De CKI stelt een verslag op van haar bevindingen tijdens de tussentijdse audit. Dit verslag wordt ter beschikking gesteld aan de certificaathouder. Deze kan hiertegen eventueel een verzoek om herziening indienen; zie hiervoor paragraaf 4.7.
 
 De CKI stelt een verslag op van haar bevindingen tijdens de tussentijdse audit. Dit verslag wordt ter beschikking gesteld aan de certificaathouder. Deze kan hiertegen eventueel een verzoek om herziening indienen; zie hiervoor paragraaf 4.7.
 
@@ -6967,7 +6969,7 @@ Indien uit het verslag van de CKI blijkt dat er afwijkingen zijn geconstateerd d
 
 Bevindingen waarbij de privacy van de werknemer wordt overtreden dienen als een major non-conformity te worden beoordeeld. Het ontbreken van een verplicht element in het privacyreglement leidt tot een minor non-conformity.
 
-Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afstudeeropdracht, die in een ICT-groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
+Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema dan heeft dit maatregelen door de CKI tot gevolg. De maatregelen strekken ertoe dat op zo kort mogelijke termijn voldaan wordt aan genoemde eisen of normen.
 
 Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema dan heeft dit maatregelen door de CKI tot gevolg. De maatregelen strekken ertoe dat op zo kort mogelijke termijn voldaan wordt aan genoemde eisen of normen.
 
@@ -6975,9 +6977,9 @@ Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certifica
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. De termijn tussen intrekken en het verstrekken van het nieuwe certificaat is minimaal 12 maanden. Bij het opleggen van een maatregel dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan.
 
-Organisatieveranderingen van arbodiensten zoals overnames, fusies, uitbreidingen of inkrimpingen kunnen invloed hebben op het Certificaat Arbodienst. Indien dit soort organisatieveranderingen zich voordoen, wordt dit door de certificaathouder gemeld aan de betreffende CKI, conform de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2013-11-01&g=2013-11-01), [2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2013-11-01&g=2013-11-01), en [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2013-11-01&g=2013-11-01) van de Arboregeling.
+Organisatieveranderingen van arbodiensten zoals overnames, fusies, uitbreidingen of inkrimpingen kunnen invloed hebben op het Certificaat Arbodienst. Indien dit soort organisatieveranderingen zich voordoen, wordt dit door de certificaathouder gemeld aan de betreffende CKI, conform de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2014-01-01&g=2014-01-01), [2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-01-01&g=2014-01-01), en [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2014-01-01&g=2014-01-01) van de Arboregeling.
 
-De initiële matrix wordt ingevuld bij de initiële certificering en aan het begin van een nieuwe certificeringperiode. De Arbeidshygiënist geeft op elke kerntaak aan over welke competenties hij beschikt. Dat dient minimaal één algemene en één beroepsspecifieke competentie te zijn. In de ontwikkelmatrix geeft de deskundige aan welke competenties hij wil ontwikkelen. Dit kan een nieuwe competentie zijn, of een verbetering van een bestaande competentie. Gedurende de certificeringperiode van vijf jaar illustreert de deskundige zijn ontwikkeling aan de hand van 4 cases. Per casus benoemt hij ten minste 3 competenties binnen de kerntaak waar de casus betrekking op heeft. De ontwikkelmatrix bevat minimaal twaalf kruisjes waarvan er 4 gekoppeld zijn aan de ingebrachte cases. Deze ontwikkelcompetenties worden in het verslag uitgewerkt in leervragen, een verbetervoorstel en een verbeteractie. In totaal dus 4 verslagen met 4 ontwikkel punten over 5 jaar.
+De CKI neemt een aanvraag voor het Certificaat Arbodienst of voor een hercertificatie altijd in behandeling. Het Certificaat Arbodienst kan door de CKI worden afgegeven, geweigerd, opgeschort/geschorst en ingetrokken.
 
 De CKI neemt een aanvraag voor het Certificaat Arbodienst of voor een hercertificatie altijd in behandeling. Het Certificaat Arbodienst kan door de CKI worden afgegeven, geweigerd, opgeschort/geschorst en ingetrokken.
 
@@ -7007,13 +7009,13 @@ Intrekken van het certificaat vindt plaats nadat de CKI heeft vastgesteld dat:
 
 Indien binnen de gestelde periode van opschorting/schorsing door de certificaathouder geen adequate corrigerende maatregelen zijn getroffen, zal de CKI het certificaat intrekken. Daarmee vervalt de certificatie-overeenkomst.
 
-Wanneer het portfolio niet in orde is, dan wordt de arbeidshygiënist in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de arbeidshygiënist hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De arbeidshygiënist wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De arbeidshygiënist heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+Deel 2 van dit certificatieschema bevat de normen die gelden voor een Certificaat Arbodienst.
 
 Deel 2 van dit certificatieschema bevat de normen die gelden voor een Certificaat Arbodienst.
 
 Beschreven wordt achtereenvolgens:
 
-Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de arbeidshygiënist. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+Het CCvD heeft eisen opgesteld voor certificatie. Hierbij moeten voortdurend de achterliggende doelen voor ogen gehouden worden, te weten het verzekeren dat er (management) systemen zijn die zorgen dat alle relevante risico’s gekend zijn en met adequate middelen beheerst worden, zodat uiteindelijk arbodiensten adequaat kunnen functioneren.
 
 Het CCvD heeft eisen opgesteld voor certificatie. Hierbij moeten voortdurend de achterliggende doelen voor ogen gehouden worden, te weten het verzekeren dat er (management) systemen zijn die zorgen dat alle relevante risico’s gekend zijn en met adequate middelen beheerst worden, zodat uiteindelijk arbodiensten adequaat kunnen functioneren.
 
@@ -7063,7 +7065,7 @@ De CKI dient een zodanig auditplanning vast te stellen, dat eventuele noodzakeli
 
 Hercertificatie (inclusief corrigerende maatregelen) dient te hebben plaatsgevonden vóór de vervaldatum van het certificaat.
 
-De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
+In paragraaf 4.2 van het Certificatieschema voor de dienstverlening door arbodiensten is in de procedure voor certificatie het minimum aantal "auditdagen" omschreven. Ter verduidelijking is in onderstaande tabellen, weer gegeven hoeveel auditdagen per type arbodienst minimaal besteed moeten worden aan de certificatie.
 
 In paragraaf 4.2 van het Certificatieschema voor de dienstverlening door arbodiensten is in de procedure voor certificatie het minimum aantal "auditdagen" omschreven. Ter verduidelijking is in onderstaande tabellen, weer gegeven hoeveel auditdagen per type arbodienst minimaal besteed moeten worden aan de certificatie.
 
@@ -7071,9 +7073,9 @@ Het totale aantal auditdagen voor de 3-jaarlijkse cyclus is berekend en vermenig
 
 Indien een arbodienst over meer vestigingen beschikt, wordt in overleg met het Centraal College van Deskundigen een aangepast schema opgesteld.
 
-Aan een CKI worden onder meer de volgende eisen gesteld:
-
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+
+Document: WDAT-ARBO: 2012, versie 1
 
 Document: WDAT-ARBO: 2012, versie 1
 
@@ -7085,9 +7087,9 @@ Lange Voorhout 14
 
 2514 ED Den Haag
 
-Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
-
 De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht.
+
+Het verrichten van arbeid is een risicovolle bezigheid. Arbeidshygiëne, arbeids- en organisatiekunde en veiligheidskunde zijn vakgebieden met als doelstelling te adviseren over het reduceren van het risico van arbeid. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling van deze drie beroepsactiviteiten. Het certificaat wordt onder deze regeling verstrekt door certificatie-instellingen (CKI’s). Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit document voor aanwijzing van en toezicht op de certificatie-instellingen voor het certificeren van arbeids- en organisatiedeskundigen, arbeidshygiënisten en veiligheidskundigen (WDAT-ARBO). In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
 Het verrichten van arbeid is een risicovolle bezigheid. Arbeidshygiëne, arbeids- en organisatiekunde en veiligheidskunde zijn vakgebieden met als doelstelling te adviseren over het reduceren van het risico van arbeid. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling van deze drie beroepsactiviteiten. Het certificaat wordt onder deze regeling verstrekt door certificatie-instellingen (CKI’s). Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit document voor aanwijzing van en toezicht op de certificatie-instellingen voor het certificeren van arbeids- en organisatiedeskundigen, arbeidshygiënisten en veiligheidskundigen (WDAT-ARBO). In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
@@ -7095,21 +7097,21 @@ In dit schema voor aanwijzing en toezicht (WDAT-ARBO) worden enerzijds de normen
 
 Dit WDAT-ARBO is vastgesteld door de Minister van SZW en wordt beheerd door de Stichting Beheer Certificatie Deskundigen (BCD) die ook het certificatieschema voor arbeids- en organisatiedeskundigen, arbeidshygiënisten en veiligheidskundigen beheert. Uitsluitend de versie van het schema waarnaar in de regelgeving wordt verwezen is van kracht.
 
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
-
 Daarnaast worden de definities uit de ISO/IEC 17024:2003 en uit de IAF Guidance24:2009 gehanteerd.
 
-De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
+Daarnaast worden de definities uit de ISO/IEC 17024:2003 en uit de IAF Guidance24:2009 gehanteerd.
 
 De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 Dit document voor aanwijzing van en toezicht op de certificatie-instellingen voor het certificeren van arbeids- en organisatiedeskundigen, arbeidshygiënisten en veiligheidskundigen (WDAT-ARBO) is door de Stichting Beheer Certificatie van Deskundigen (stichting BCD) op advies van het CCvD ARBO voorgesteld en door de Minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies.
 
-De reguliere implementatiebeoordeling vindt onaangekondigd plaats. Locaties worden geselecteerd op basis van de reguliere systematiek die de CKI hiervoor hanteert. Het is bedoeld om de implementatie van het gedocumenteerde systeem te beoordelen.
+Dit document voor aanwijzing van en toezicht op de certificatie-instellingen voor het certificeren van arbeids- en organisatiedeskundigen, arbeidshygiënisten en veiligheidskundigen (WDAT-ARBO) is door de Stichting Beheer Certificatie van Deskundigen (stichting BCD) op advies van het CCvD ARBO voorgesteld en door de Minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies.
 
 Binnen het kader van dit WDA&T zijn actief:
 
-Te stellen eisen aan de examenmiddelen zijn:
+Binnen het kader van dit WDA&T zijn actief:
+
+Bij de aanwijzing van een certificatie-instelling (CKI) bestaat het risico dat:
 
 Bij de aanwijzing van een certificatie-instelling (CKI) bestaat het risico dat:
 
@@ -7125,9 +7127,9 @@ De eisen in het Schema voor Aanwijzing en Toezicht dienen zodanig te zijn dat de
 
 Hier gaat het om te voorkomen dat een CKI niet zou worden aangewezen, terwijl deze wel aan de criteria voor aanwijzing voldoet (transparantie en kenbaarheid inzake de criteria).
 
-Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het Centraal College van Deskundigen ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
-
 Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
+
+Het beoordelen en aanwijzen van CKI’s voor persooncertificatie vindt plaats op basis van de ISO/IEC 17024:2003, de IAF Guidance24:2009 en de eisen die gesteld worden aan de CKI op grond van aanwijzing. CKI’s die op basis van deze documenten zijn beoordeeld en voldoen, geven voldoende dekking aan de in de risicoanalyse genoemde onderwerpen. Voor de artikelen 4.2.3 en 6.5 uit de norm zijn de beschreven aanvullingen van toepassing.
 
 Het beoordelen en aanwijzen van CKI’s voor persooncertificatie vindt plaats op basis van de ISO/IEC 17024:2003, de IAF Guidance24:2009 en de eisen die gesteld worden aan de CKI op grond van aanwijzing. CKI’s die op basis van deze documenten zijn beoordeeld en voldoen, geven voldoende dekking aan de in de risicoanalyse genoemde onderwerpen. Voor de artikelen 4.2.3 en 6.5 uit de norm zijn de beschreven aanvullingen van toepassing.
 
@@ -7135,23 +7137,23 @@ Een uitwerking van normartikel 4.2.3 van de norm ISO/IEC 17024:2003 leidt tot de
 
 Een uitwerking van normartikel 6.5 van de norm ISO/IEC 17024:2003 leidt tot de volgende aanvullende eis:
 
-De ‘Arbeidshygiënist’ houdt zich bezig met het adviseren op het brede terrein van gezondheid en duurzame inzetbaarheid in arbeidsorganisaties èn het optimaliseren van arbeidsomstandighedenzorg.
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
 De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
-De Nederlandse [arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘arbeidshygiënisten die RI&E toetsen’. Tevens moet een gecertificeerde Arbodienst beschikken over een gecertificeerde arbeidshygiënist, vandaar soms de terminologie Register Arbeidshygiënist. Een arbeidshygiënist is een deskundige op het terrein van risicobeoordeling en risicobeheersing van de gezonde werkomgeving ten aanzien van de chemische, fysische, biologische en fysieke werkplekfactoren conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeidshygiënisten.
-
 In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling.
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling.
 
 Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
-Te stellen eisen aan de examenmiddelen zijn:
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
 Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
-
 De CKI vereist van het asbestverwijderingsbedrijf alle asbestverwijderingswerken door middel van een daartoe beschikbaar gesteld standaard meldingsformulier ondertekend, vóór aanvang van de werkzaamheden te melden bij de CKI.
+
+Document: WSCS-AH: 2012, versie 1
 
 Document: WSCS-AH: 2012, versie 1
 
@@ -7163,9 +7165,9 @@ Lange Voorhout 14
 
 2514 ED Den Haag
 
-Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
-
 De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+
+In deze persoonscertificatieregeling voor Arbeidshygiënisten (AH), wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
 In deze persoonscertificatieregeling voor Arbeidshygiënisten (AH), wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
@@ -7179,21 +7181,21 @@ Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de Arbe
 
 Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit ISO/IEC 17024:2003.
 
-Certificatieschema:
-
 Datum examen:
 
 Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep AH.
 
-Naam examinator:
+Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep AH.
 
 Dit werkveldspecifieke certificatieschema Arbeidshygiënist is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
-Artikel:
+Dit werkveldspecifieke certificatieschema Arbeidshygiënist is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
 Binnen het kader van deze certificatieregeling zijn actief:
 
-Beoordelingscriteria:
+Binnen het kader van deze certificatieregeling zijn actief:
+
+Het beroepsmatig uitvoeren van werkzaamheden kan op termijn leiden tot gezondheidseffecten zoals psychische en fysieke effecten waaronder ook het overlijden.
 
 Het beroepsmatig uitvoeren van werkzaamheden kan op termijn leiden tot gezondheidseffecten zoals psychische en fysieke effecten waaronder ook het overlijden.
 
@@ -7203,81 +7205,81 @@ Kortdurende afwezigheid van de adviseur kan daarom het niveau van de arbeidsomst
 
 Arbeidshygiëne is de toegepaste wetenschap welke zich richt op het geheel van belastende factoren dat in of door de werksituatie kan ontstaan en dat de gezondheid en/of het welzijn van de werkende mens en/of zijn nageslacht kan beïnvloeden.
 
-Naam document:
-
 Artikel:
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van dit schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
-Beoordelingscriteria:
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van dit schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
 Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor AH (het WDA&T).
 
-Beoordeling:
+Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor AH (het WDA&T).
 
 De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van AH is vijf jaar.
 
-(minimaal <invoegen> van de vragen goed beantwoord)
+De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van AH is vijf jaar.
 
 Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor AH.
 
-Artikel:
+Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor AH.
 
 Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
-Beoordelingscriteria:
+Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
 De bezwaarprocedure is opgenomen in bijlage 2.
 
-De kopopleiding moet voldaan aan de stand der wetenschap. Met het volgen van de kopopleiding wordt door het curriculum bepaald wat de basiscompetenties van de kerndeskundige zijn. Dit is het horizontale deel van het zogenaamde T-profiel.
+De bezwaarprocedure is opgenomen in bijlage 2.
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
-Na het volgen van de kopopleiding specialiseert de kerndeskundige zich in de praktijk. Een kerndeskundige kan zich specialiseren in één of meerdere richtingen. De specialisatie vormt de poot van de T (specialist of super specialist) of de poten van de Pi of M (meerdere specialisaties) zoals onderstaand afgebeeld. Hoe langer de poot, hoe gespecialiseerder de kerndeskundige.
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
 De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
-De hercertificering moet meer tegemoet komen aan de profilering van de kerndeskundige. De specialisaties moeten hierin uitgelicht worden. Voor een kandidaat die gecertificeerd is op basis van een BSc, bestaat de mogelijkheid om zich te specialiseren door het behalen van een MSc. Een voorbeeld van het ontwikkelen van een superspecialisme is een promotietraject dat wordt afgesloten met het behalen van een PhD.
+De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificatieschema AH. De CKI beheert de examinatoren-pool. De CKI maken gebruik van deze examinatoren voor het afnemen van examens voor AH certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
-Beoordelingscriteria:
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificatieschema AH. De CKI beheert de examinatoren-pool. De CKI maken gebruik van deze examinatoren voor het afnemen van examens voor AH certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificeringsregeling AH. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
 
-In het competentieprofiel Arbeidshygiënisten zijn de vijf kerntaken benoemd die de Arbeidshygiënist uitvoert. Binnen elke kerntaak beschikt de Arbeidshygiënist over verschillende competenties; minimaal een algemene en een beroepsspecifieke competentie per kerntaak. De kruisjes in de kerntaak-competentie-matrix (zie deel 4 van het Competentieprofiel Arbeidshygiënisten), vormen de eerste fase en mogelijkheid van persoonlijke specialisatie van de Arbeidshygiënist. Hierin kan bijvoorbeeld tot uitdrukking komen dat de Arbeidshygiënist vooral adviserend of juist meer onderzoekend bezig is, juist meer of minder met beoordeling of met beheersing bezig is en bijvoorbeeld ook of het trainen, voorlichten en instrueren een hoofdaandachtsgebied is of juist het borgen en bewaken, gekoppeld aan kwaliteitszorg.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificeringsregeling AH. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
+
+In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 De examen-pool is een organisatorisch onderdeel van de CKI. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van ISO/IEC 17024.
 
-Afhankelijke van de keuze van kennisgebieden en aspecten kan het werkterrein van de arbeidshygiënist ook de aanpalende vakgebieden veiligheidskunde, arbeids- en organisatiekunde of bedrijfsgeneeskunde meer of minder benaderen of overlappen.
+Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
 Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
-Ook kan een individuele arbeidshygiënist zich nader bekwamen en specialiseren in bepaalde vaardigheden. Hierbij denken we vooral aan bijvoorbeeld monitoren/meten, ontwerpen, oordelen/toetsen of projectmatig werken.
+Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
 Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
-Tenslotte kan de arbeidshygiënist zich nog bijzonder bekwamen in bepaalde branches of sectoren, bijvoorbeeld de chemische industrie, de bouw, de gezondheidszorg, onderwijs, enz. of juiste een of meerdere specifieke beroepen (tapijtlegger, tandtechnicus, laborant, musicus, lasser, enz.) of juist in een of meerdere (bepaalde) arbeidsprocessen (reinigen, afvalverwerken, chemische technologie, energietransport, enz.). De specifieke specialisaties in kennis, vaardigheden of branche/beroep/proces kunnen in het persoonlijke portfolio tot uitdrukking gebracht worden.
+De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
-Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De kerndeskundige Arbeidshygiënist heeft als kenmerk dat hij na een gevolgde hbo/wo-opleiding of dagopleiding ‘Arbeidshygiëne op HBO/WO-niveau, een kopopleiding heeft doorlopen en afgerond. De arbeidshygiënist heeft in elk geval een natuurwetenschappelijke achtergrond op HBO+ niveau. Dit komt overeen met (minimaal) een bachelor in de natuurwetenschappen (bachelor of science, BSc). Bij sommige opleidingen wordt pas voldaan aan de minimum eis voor certificering in een afgeronde academische pleiding. Die komt dan overeen met een master in de natuurwetenschappen (master of science, MSc).
+Het toezicht wordt als volgt uitgevoerd:
 
 Het toezicht wordt als volgt uitgevoerd:
 
 De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring of accountantsverklaring en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
 
-Stichting Beheer Certificatie Deskundigen (BCD)
+De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
 De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
-2514 ED Den Haag
+Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
 
 Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
 
-Het personeel van het inventarisatiebureau moet worden gevrijwaard van alle commerciële, financiële of andere vormen van druk die hun oordeel zou kunnen beïnvloeden. Er moeten procedures bestaan om te voorkomen dat externe partijen het resultaat van de asbestinventarisatie kunnen beïnvloeden.
+Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
@@ -7293,13 +7295,13 @@ Indien er sprake is van maatregel wordt dit aan de certificaathouder kenbaar gem
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
-Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
+Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de Arbeidshygiënist. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de Arbeidshygiënist. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Arbeidshygiënist, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
 
-bestemd voor: het met geringe fysieke belasting zagen van hout, houtachtige plaatmaterialen en kunststofplaten,
+Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Arbeidshygiënist, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
 Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Arbeidshygiënist, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
@@ -7311,9 +7313,9 @@ De aanvrager kan hiervoor één van de volgende documenten aanleveren:
 
 De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
 
-De aanvrager dient hiervoor het volgende document te overhandigen:
-
 ### 4.2. **Certificatieprocedure**
+
+Kandidaten die al in het bezit zijn van een diploma beroepsopleiding kunnen gebruik maken van de overgangsregeling.
 
 In het geval de kandidaat een niet toegelaten beroeps opleiding heeft gevolgd biedt de CKI de mogelijkheid om een onderzoek te verrichten waaruit al dan niet de gelijkwaardigheid van de beroepsopleiding blijkt. Wanneer hiervan sprake is dan wordt het diploma als gelijkwaardig gesteld aan een door de CKI toegelaten opleiding. De kosten van dit onderzoek zijn voor rekening van de kandidaat.
 
@@ -7329,13 +7331,13 @@ De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvang
 
 NB. De opbouw van het portfolio is niet gebonden aan een opleidingsinstelling of een CKI.
 
-Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
+Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Arbeidshygiënist opgenomen als bijlage 6 bij dit document.
 
 Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Arbeidshygiënist opgenomen als bijlage 6 bij dit document.
 
-Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
-
 De bezwaarprocedure is opgenomen in bijlage 2.
+
+De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
 De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
@@ -7363,7 +7365,7 @@ Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afs
 
 Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevraagd. De ontbrekende informatie moet tijdig (ten minste twee weken voor datum examen) worden aangeleverd zodat de examinator nog voldoende tijd heeft voor een beoordeling. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De kandidaat wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
-Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
+De toets is bedoelt om de wijze waarop de Arbeidshygiënist werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Arbeidshygiënist ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Arbeidshygiënist geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
 De toets is bedoelt om de wijze waarop de Arbeidshygiënist werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Arbeidshygiënist ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Arbeidshygiënist geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
@@ -7373,15 +7375,15 @@ De initiële matrix wordt ingevuld bij de initiële certificering en aan het beg
 
 Tijdens de toets verdedigd de Arbeidshygiënist dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
-De directie van het inventarisatiebureau moet tenminste éénmaal per jaar het kwaliteitssysteem beoordelen op haar effectiviteit. De resultaten van de directiebeoordeling moeten worden vastgelegd en gedocumenteerd.
-
 Het toezicht wordt als volgt uitgevoerd:
+
+Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
 
-De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
+De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de arbeidshygiënisten. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
 De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de arbeidshygiënisten. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
@@ -7403,7 +7405,7 @@ Wanneer het portfolio niet in orde is, dan wordt de arbeidshygiënist in de gele
 
 Certificaathouders tonen aan dat zij kennis van het vak bijhouden (bij- en nascholing) door bijvoorbeeld het schrijven van een artikel binnen de ict-groep of het vervullen van een bestuursfunctie binnen het vakgebied.
 
-Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
+Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de arbeidshygiënist. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
 Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de arbeidshygiënist. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
@@ -7411,25 +7413,25 @@ Indien het proces met één examinator niet goed functioneert worden er twee exa
 
 Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement en het Competentie profiel Arbeidshygiënisten paragraaf 4.2.
 
-Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Hogere Veiligheidskundige, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
-
 De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
 ### 13. **Geldigheidscondities**
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
-Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
+Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
-De aanvrager dient hiervoor het volgende document te overhandigen:
+Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
 
 Kandidaten die al in het bezit zijn van een diploma beroepsopleiding kunnen gebruik maken van de overgangsregeling (bijlage 8).
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
+
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eis, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7437,7 +7439,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvangstbevestiging naar de kandidaat. Wanneer de kandidaat aan de bovenstaande entreecriteria heeft voldaan, dan wordt de aanvraag in behandeling genomen, waarna de examinator de inhoudelijke check van de bewijsstukken verricht.
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -7461,19 +7463,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de aanvrager in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de aanvrager hierop niet reageert dan wordt de aanvraag door de CKI afgewezen.
-
 De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de kandidaat (via de CKI) in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+
+Algemeen:
 
 Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Bestaande uit één algemeen en één beroeps specifieke competentie. Hiervoor wordt verwezen naar het competentieprofiel Hogere Veiligheidskundige welke terug is te vinden in bijlage 6 van deze regeling. Bij iedere kerntaak wordt weergegeven welke kennis (uit bijvoorbeeld boeken, internet, rapporten, werkinstructies) als achtergrond voor de uitoefening van deze kerntaak is gebruikt ter onderbouwing. Wenselijk is dat er bij een kerntaak een beschrijving wordt gegeven van de relevante informatie bijvoorbeeld een boek: titel, auteur, druk en hoofdstuk vermelding, waarvan gebruik is gemaakt voor de uitoefening van deze taak.
 
 Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afstudeeropdracht, die in een ICT groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
 
@@ -7483,21 +7483,23 @@ Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel
 
 Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het Centraal College van Deskundigen ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
 
+Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het Centraal College van Deskundigen ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
+
 Examenpersoneel moet voldoen aan de volgende algemene, vakinhoudelijke en onafhankelijkheidseisen:
 
 Examinatoren die voldoen aan de bovenstaande eisen kunnen door de CKI worden benoemd en worden ingezet voor het afnemen van examens.
 
-Tijdens de toets verdedigd de Hogere Veiligheidskundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
-
 Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de aanvrager (via de CKI) in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen.
+Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
 Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de aanvrager in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de aanvrager hierop niet reageert dan wordt de aanvraag door de CKI afgewezen.
+Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
+
+Te stellen eisen aan de examenlocatie zijn:
 
 Te stellen eisen aan de examenlocatie zijn:
 
@@ -7507,23 +7509,23 @@ Te stellen eisen aan het portfolio-examen zijn:
 
 Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
-Bij iedere kerntaak wordt aangegeven welke competenties hieraan zijn gekoppeld.
-
 Bestaande uit één algemeen en één beroeps specifieke competentie. Hiervoor wordt verwezen naar het Competentie Profiel Hogere Veiligheidskundige welke terug is te vinden in bijlage 6 van deze regeling.
 
 Bij iedere kerntaak wordt weergegeven welke kennis (uit bijvoorbeeld boeken, internet, rapporten, werkinstructies) als achtergrond voor de uitoefening van deze kerntaak is gebruikt ter onderbouwing. Wenselijk is dat er bij een kerntaak een beschrijving wordt gegeven van de relevante informatie bijvoorbeeld een boek: titel, auteur, druk en hoofdstuk vermelding, waarvan gebruik is gemaakt voor de uitoefening van deze taak.
 
 Dit competentieprofiel voor de Arbeidshygiënisten is opgesteld om de inhoud van het beroep Arbeids hygiënisten vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificeringssysteem dat moet resulteren in het certificaat voor de Arbeidshygiënisten volgens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). Dit competentieprofiel is bedoeld als basis voor de certificatie van deskundigen en niet voor het vormgeven van opleidingen. Dat is een belangrijk verschil met een profiel zoals dat gebruikt wordt bij opleidingsinstituten. De beschrijving van het beroep is gebaseerd op opgedane ervaring en vakmanschap van professionals en niet op pas afgestudeerde deskundigen. Het proces dat de beroepsbeoefenaar doorloopt is richtinggevend bij deze beschrijving.
 
-In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
+Dit competentieprofiel voor de Arbeidshygiënisten is opgesteld om de inhoud van het beroep Arbeids hygiënisten vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificeringssysteem dat moet resulteren in het certificaat voor de Arbeidshygiënisten volgens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346). Dit competentieprofiel is bedoeld als basis voor de certificatie van deskundigen en niet voor het vormgeven van opleidingen. Dat is een belangrijk verschil met een profiel zoals dat gebruikt wordt bij opleidingsinstituten. De beschrijving van het beroep is gebaseerd op opgedane ervaring en vakmanschap van professionals en niet op pas afgestudeerde deskundigen. Het proces dat de beroepsbeoefenaar doorloopt is richtinggevend bij deze beschrijving.
 
-Wanneer het portfolio niet in orde is, dan wordt de Hogere Veiligheidskundige in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de Hogere Veiligheidskundige hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De Hogere Veiligheidskundige wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
 
 Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
-De initiële matrix wordt ingevuld bij de initiële certificering en aan het begin van een nieuwe certificeringperiode. De Hogere Veiligheidskundige geeft op elke kerntaak aan over welke competenties hij beschikt. Dat dient minimaal één algemene en één beroepsspecifieke competentie te zijn. In de ontwikkelmatrix geeft de deskundige aan welke competenties hij wil ontwikkelen. Dit kan een nieuwe competentie zijn, of een verbetering van een bestaande competentie. Gedurende de certificeringperiode van vijf jaar illustreert de deskundige zijn ontwikkeling aan de hand van 4 cases. Per casus benoemt hij ten minste 3 competenties binnen de kerntaak waar de casus betrekking op heeft. De ontwikkelmatrix bevat minimaal twaalf kruisjes waarvan er 4 gekoppeld zijn aan de ingebrachte cases. Deze ontwikkelcompetenties worden in het verslag uitgewerkt in leervragen, een verbetervoorstel en een verbeteractie. In totaal dus 4 verslagen met 4 ontwikkel punten over 5 jaar.
+Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
 Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+
+Het beroep ‘Arbeidshygiënist’ is een van de vier in Nederland bij wet erkende kerndeskundigen op het terrein van de arbeidsomstandigheden. De Arbeidshygiënist levert een bijdrage aan de instandhouding van de maatschappelijke productiefactor ‘arbeid’ van mensen op korte èn lange termijn.
 
 Het beroep ‘Arbeidshygiënist’ is een van de vier in Nederland bij wet erkende kerndeskundigen op het terrein van de arbeidsomstandigheden. De Arbeidshygiënist levert een bijdrage aan de instandhouding van de maatschappelijke productiefactor ‘arbeid’ van mensen op korte èn lange termijn.
 
@@ -7535,15 +7537,13 @@ De Nederlandse [arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BW
 
 De Arbeidshygiënist heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Hogere Veiligheidskundige). De Arbeidshygiënist onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Hogere Veiligheidskundige) in de kerntaken 4 en 5 en in een of meerdere specialisaties in het onderzoeken en/of adviseren op het gebied van een gezonde werkomgeving.
 
-Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
-
 Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
 
 Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
+Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
@@ -7551,7 +7551,7 @@ Bij iedere kerntaak wordt weergegeven welke kennis (uit bijvoorbeeld boeken, int
 
 In het beroep van Arbeidshygiënisten kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie.
+In het beroep van Arbeidshygiënisten kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
@@ -7559,13 +7559,15 @@ Certificaathouders tonen aan dat zij kennis van het vak bijhouden (bij- en nasch
 
 De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
 
-Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
+De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+
+Per 1 april 2012 wordt er op de nieuwe manier van – het vastgestelde niveau (zie hiervor het Competentie profile Arbeidshygiënisten) (portfolio-cyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfolio-cyclus voor hercertificatie ingaan.
 
 Per 1 april 2012 wordt er op de nieuwe manier van – het vastgestelde niveau (zie hiervor het Competentie profile Arbeidshygiënisten) (portfolio-cyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfolio-cyclus voor hercertificatie ingaan.
 
 Certificaathouders die hun hercertificering doen worden op de ‘oude’ manier gehercertificeerd tot het jaar 2016 en gaan dan ook de portfolio-cyclus in. Certificaathouders waarvan het certificaat nog geldig is, kunnen ervoor kiezen hun cyclus af te maken en worden dan nog op de ‘oude’ manier gehercertificeerd. Ze kunnen ook vervroegd de portfolio-cyclus ingaan. Dat wil zeggen dat zij voor de reeds verlopen certificatietermijn de ‘oude’ hercertificatie-eisen aantonen, waarna zij de portfolio-cyclus van 5 jaar ingaan. Zij krijgen korting op hun aanvraag hercertificatie gerelateerd aan de nog niet verlopen certificatietermijn.
 
-Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze.
+**verslag assessment**
 
 **verslag assessment**
 
@@ -7615,13 +7617,13 @@ Eindbeoordeling:
 
 (minimaal <invoegen> van de vragen goed beantwoord)
 
-Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
-
 Correcties of toevoegingen aan een rapport moeten worden vastgelegd en onderbouwd met inachtneming van de in dit hoofdstuk omschreven eisen.
 
 De kerndeskundige is een vak dat onder de Arbeidshygiënisten valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m hoofdstuk 4 van het Competentie profiel Arbeidshygiënisten te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van dit certificatieschema arbeidshygiënisten. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel. Dit deel gaat in op de specialisaties van de kerndeskundige.
 
-Te stellen eisen aan de examenmiddelen zijn:
+De kerndeskundige is een vak dat onder de Arbeidshygiënisten valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m hoofdstuk 4 van het Competentie profiel Arbeidshygiënisten te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van dit certificatieschema arbeidshygiënisten. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel. Dit deel gaat in op de specialisaties van de kerndeskundige.
+
+Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De kerndeskundige Arbeidshygiënist heeft als kenmerk dat hij na een gevolgde hbo/wo-opleiding of dagopleiding ‘Arbeidshygiëne op HBO/WO-niveau, een kopopleiding heeft doorlopen en afgerond. De arbeidshygiënist heeft in elk geval een natuurwetenschappelijke achtergrond op HBO+ niveau. Dit komt overeen met (minimaal) een bachelor in de natuurwetenschappen (bachelor of science, BSc). Bij sommige opleidingen wordt pas voldaan aan de minimum eis voor certificering in een afgeronde academische pleiding. Die komt dan overeen met een master in de natuurwetenschappen (master of science, MSc).
 
 Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De kerndeskundige Arbeidshygiënist heeft als kenmerk dat hij na een gevolgde hbo/wo-opleiding of dagopleiding ‘Arbeidshygiëne op HBO/WO-niveau, een kopopleiding heeft doorlopen en afgerond. De arbeidshygiënist heeft in elk geval een natuurwetenschappelijke achtergrond op HBO+ niveau. Dit komt overeen met (minimaal) een bachelor in de natuurwetenschappen (bachelor of science, BSc). Bij sommige opleidingen wordt pas voldaan aan de minimum eis voor certificering in een afgeronde academische pleiding. Die komt dan overeen met een master in de natuurwetenschappen (master of science, MSc).
 
@@ -7637,29 +7639,29 @@ De hercertificering moet meer tegemoet komen aan de profilering van de kerndesku
 
 In het competentieprofiel Arbeidshygiënisten worden vijf kerntaken benoemd die in ieder geval uitgevoerd moeten worden. Hierin kan met verschillende competenties gewerkt worden.
 
-In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
+De Arbeidshygiënist houdt zich vooral bezig met arbeidsomstandigheden binnen een organisatie. De Arbeidshygiënist kan werkgevers en werknemers adviseren over mogelijke problemen in de werkomgeving beheerst kunnen worden waarbij het doel bescherming van medewerkers is.
 
 De Arbeidshygiënist houdt zich vooral bezig met arbeidsomstandigheden binnen een organisatie. De Arbeidshygiënist kan werkgevers en werknemers adviseren over mogelijke problemen in de werkomgeving beheerst kunnen worden waarbij het doel bescherming van medewerkers is.
 
 In het competentieprofiel Arbeidshygiënisten zijn de vijf kerntaken benoemd die de Arbeidshygiënist uitvoert. Binnen elke kerntaak beschikt de Arbeidshygiënist over verschillende competenties; minimaal een algemene en een beroepsspecifieke competentie per kerntaak. De kruisjes in de kerntaak-competentie-matrix (zie deel 4 van het Competentieprofiel Arbeidshygiënisten), vormen de eerste fase en mogelijkheid van persoonlijke specialisatie van de Arbeidshygiënist. Hierin kan bijvoorbeeld tot uitdrukking komen dat de Arbeidshygiënist vooral adviserend of juist meer onderzoekend bezig is, juist meer of minder met beoordeling of met beheersing bezig is en bijvoorbeeld ook of het trainen, voorlichten en instrueren een hoofdaandachtsgebied is of juist het borgen en bewaken, gekoppeld aan kwaliteitszorg.
 
-– freessysteem;
+Bovendien kan de arbeidshygiënist zich verder specialiseren in bijvoorbeeld een of meerdere van de navolgende kennisgebieden of aspecten:
 
 Bovendien kan de arbeidshygiënist zich verder specialiseren in bijvoorbeeld een of meerdere van de navolgende kennisgebieden of aspecten:
 
 Afhankelijke van de keuze van kennisgebieden en aspecten kan het werkterrein van de arbeidshygiënist ook de aanpalende vakgebieden veiligheidskunde, arbeids- en organisatiekunde of bedrijfsgeneeskunde meer of minder benaderen of overlappen.
 
-De Hogere Veiligheidskundige zorgt voor een veilige werkomgeving dat leidt tot het voorkomen van ziekteverzuim, onveilige situaties en ongevallen en mogelijke gezondheidsschade. Hij is specialist bij uitstek op het terrein van risicobeoordeling en risicobeheersing van de veilige werkomgeving. Daarnaast levert de Hogere Veiligheidskundige een bijdrage aan een veilige werkomgeving en de duurzame inzetbaarheid van werknemers.
+Ook kan een individuele arbeidshygiënist zich nader bekwamen en specialiseren in bepaalde vaardigheden. Hierbij denken we vooral aan bijvoorbeeld monitoren/meten, ontwerpen, oordelen/toetsen of projectmatig werken.
 
 Ook kan een individuele arbeidshygiënist zich nader bekwamen en specialiseren in bepaalde vaardigheden. Hierbij denken we vooral aan bijvoorbeeld monitoren/meten, ontwerpen, oordelen/toetsen of projectmatig werken.
 
-De Hogere Veiligheidskundige ontwikkelt zich voortdurend in zijn vak en vaardigheden, werkt samen, verbindt en integreert kennis van oorzaken, gevolgen en oplossingen en beoefent zijn vak op ondernemende wijze.
+Tenslotte kan de arbeidshygiënist zich nog bijzonder bekwamen in bepaalde branches of sectoren, bijvoorbeeld de chemische industrie, de bouw, de gezondheidszorg, onderwijs, enz. of juiste een of meerdere specifieke beroepen (tapijtlegger, tandtechnicus, laborant, musicus, lasser, enz.) of juist in een of meerdere (bepaalde) arbeidsprocessen (reinigen, afvalverwerken, chemische technologie, energietransport, enz.). De specifieke specialisaties in kennis, vaardigheden of branche/beroep/proces kunnen in het persoonlijke portfolio tot uitdrukking gebracht worden.
 
 Tenslotte kan de arbeidshygiënist zich nog bijzonder bekwamen in bepaalde branches of sectoren, bijvoorbeeld de chemische industrie, de bouw, de gezondheidszorg, onderwijs, enz. of juiste een of meerdere specifieke beroepen (tapijtlegger, tandtechnicus, laborant, musicus, lasser, enz.) of juist in een of meerdere (bepaalde) arbeidsprocessen (reinigen, afvalverwerken, chemische technologie, energietransport, enz.). De specifieke specialisaties in kennis, vaardigheden of branche/beroep/proces kunnen in het persoonlijke portfolio tot uitdrukking gebracht worden.
 
-Te stellen eisen aan de examenmiddelen zijn:
-
 Te stellen eisen aan het portfolio-examen zijn:
+
+Document: WSCS-HVK: 2012, versie 1
 
 Document: WSCS-HVK: 2012, versie 1
 
@@ -7671,9 +7673,9 @@ Lange Voorhout 14
 
 2514 ED Den Haag
 
-In het beroep van Hogere Veiligheidskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
-
 In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
+
+In deze persoonscertificatieregeling voor Hogere Veiligheidskundigen (HVK), wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
 In deze persoonscertificatieregeling voor Hogere Veiligheidskundigen (HVK), wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
@@ -7681,109 +7683,109 @@ Deze certificatieregeling is opgesteld door het betreffende Centraal College van
 
 De te certificeren deskundige betreft de Hogere Veiligheidskundige. De Hogere Veiligheidskundige levert een bijdrage aan een veilige werkomgeving en de duurzame inzetbaarheid van werknemers. De deskundige is de aangewezen specialist bij uitstek op het terrein van risicobeoordeling en risicobeheersing van de veilige werkomgeving. De deskundige adviseert onder meer op het brede terrein van veiligheid en duurzame inzetbaarheid in arbeidsorganisaties en in het optimaliseren van de arbeidsomstandighedenzorg.
 
-De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Hogere Veiligheidskundigen’. Een Hogere Veiligheidskundige is een deskundige op het terrein van de arbeids- en organisatiekunde conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeids- en organisatiekunde conform [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2013-11-01&g=2013-11-01) van de Arbeidsomstandighedenregeling. Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de HVK-er is terug te vinden in bijlage 6 van deze regeling.
+De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Hogere Veiligheidskundigen’. Een Hogere Veiligheidskundige is een deskundige op het terrein van de arbeids- en organisatiekunde conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeids- en organisatiekunde conform [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2014-01-01&g=2014-01-01) van de Arbeidsomstandighedenregeling. Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de HVK-er is terug te vinden in bijlage 6 van deze regeling.
 
 Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit ISO/IEC 17024:2003.
-
-Certificaathouders die hun hercertificatie doen worden op de ‘oude’ manier gehercertificeerd tot het jaar 2016 en gaan dan ook de portfoliocyclus in. Certificaathouders waarvan het certificaat nog geldig is, kunnen ervoor kiezen hun cyclus af te maken en worden dan nog op de ‘oude’ manier gehercertificeerd. Ze kunnen ook vervroegd de portfoliocyclus ingaan. Dat wil zeggen dat zij voor de reeds verlopen certificatietermijn de ‘oude’ hercertificatie-eisen aantonen, waarna zij de portfoliocyclus van 5 jaar ingaan. Zij krijgen korting op hun aanvraag hercertificatie gerelateerd aan de nog niet verlopen certificatietermijn.
 
 De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Hogere Veiligheidskundige’. Een Hogere Veiligheidskundige is een deskundige op het terrein van risicobeoordeling en risicobeheersing van de veilige werkomgeving conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid Hogere Veiligheidskundige.
 
 Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
 
-Naam examinandus:
+Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
 
 Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
-Datum examen:
+Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
 Binnen het kader van deze certificatieregeling zijn actief:
 
-Naam examinator:
+Binnen het kader van deze certificatieregeling zijn actief:
 
 Het beroepsmatig uitvoeren van werkzaamheden kan direct leiden tot gezondheidseffecten zoals psychische en fysieke effecten waaronder ook ongevallen. De deskundige functioneert in het bedrijf als adviseur. Arbeidsomstandigheden zijn een zaak tussen werkgever en werknemers en de deskundige is daarbij een adviseur. Bij afwezigheid van de adviseur kan het niveau van de arbeidsomstandigheden meteen worden aangetast. Dat maakt dat het directe afbreukrisico hoog is. Langdurige afwezigheid van de adviseur kan het niveau van de arbeidsomstandigheden aantasten waardoor productieverlies kan ontstaan en de kans op langdurige uitval, (beroeps)ziekte, invaliditeit, instroom in de WIA en overlijden toeneemt.
 
-Artikel:
+Het beroepsmatig uitvoeren van werkzaamheden kan direct leiden tot gezondheidseffecten zoals psychische en fysieke effecten waaronder ook ongevallen. De deskundige functioneert in het bedrijf als adviseur. Arbeidsomstandigheden zijn een zaak tussen werkgever en werknemers en de deskundige is daarbij een adviseur. Bij afwezigheid van de adviseur kan het niveau van de arbeidsomstandigheden meteen worden aangetast. Dat maakt dat het directe afbreukrisico hoog is. Langdurige afwezigheid van de adviseur kan het niveau van de arbeidsomstandigheden aantasten waardoor productieverlies kan ontstaan en de kans op langdurige uitval, (beroeps)ziekte, invaliditeit, instroom in de WIA en overlijden toeneemt.
 
 Vraag:
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
-(welke (ant)woorden zijn goed/fout,
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
 De Hogere Veiligheidskundige, dient in overeenstemming met de certificatieregeling HVK een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
 
-Antwoord examinandus:
+De Hogere Veiligheidskundige, dient in overeenstemming met de certificatieregeling HVK een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
 
 Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK (het WDA&T).
 
-Naam document:
+Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK (het WDA&T).
 
 De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van HVK is vijf jaar.
 
-Vraag:
+De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van HVK is vijf jaar.
 
 Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK.
 
-(welke (ant)woorden zijn goed/fout,
+Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK.
 
 Behandelingswijze van klachten van kandidaten en certificaathouders de klachtenregeling is opgenomen in bijlage 1.
 
-Antwoord examinandus:
+Behandelingswijze van klachten van kandidaten en certificaathouders de klachtenregeling is opgenomen in bijlage 1.
 
 De bezwaarprocedure is opgenomen in bijlage 2.
 
-Eindbeoordeling:
+De bezwaarprocedure is opgenomen in bijlage 2.
+
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeen
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeen
 
 komst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
-Artikel:
+De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
 De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
-Beoordelingscriteria:
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling HVK. De CKI beheert de examinatoren-pool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor HVK certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling HVK. De CKI beheert de examinatoren-pool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor HVK certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
-De Hogere Veiligheidskundige is van oorsprong vaak een techneut of natuurwetenschapper. Minimaal een HBO opleiding techniek of natuurwetenschappen, of gelijkwaardig werk en denkniveau zijn ingangscriteria voor de opleiding. De kopopleiding geeft zowel basis als gevorderde kennis, vaardigheden en werkt aan een gevorderde attitude. Dit wordt tijdens de opleiding weergegeven in een portfolio en aan het einde van de opleiding geëxamineerd. Het examen is competentiegericht. Dit wil zeggen dat het portfolio beoordeeld en getoetst wordt op essentiële kennis en vaardigheden zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Hogere Veiligheidskundigen.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema HVK. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema HVK. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
 
-De initiële of eerste certificering is vooral gericht op de generalist als beginner. Hier worden de basisvaardigheden getoetst. De opleidingen hebben hier een passende methodiek voor. De inhoud volgt de eisen die in de [arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)geving zijn vastgelegd en die zijn uitgewerkt in het competentieprofiel.
+In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 De examen-pool is een organisatorisch onderdeel van de CKI. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van ISO/IEC 17024.
 
-De Hogere Veiligheidskundige houdt zich vooral bezig met het onderzoeken en/of adviseren op het gebied van een veilige werkomgeving.
+Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
 Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
-(welke (ant)woorden zijn goed/fout,
+Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
 Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
-Antwoord examinandus:
+De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
-Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Hogere Veiligheidskundige.
+Het toezicht wordt als volgt uitgevoerd:
 
 Het toezicht wordt als volgt uitgevoerd:
 
 De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring of accountantsverklaring en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
 
-De specifieke specialisatie in kennis, taak en/of branche kan de kerndeskundige in zijn persoonlijke portfolio tot uitdrukking brengen.
+De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
 De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
-Het bedrijf dient te werken met een checklist toegespitst op het te inventariseren bouwwerk of object. Tevoren dient deskresearch te zijn uitgevoerd, gebruikmakend van bestek, tekeningen, bouwaanvragen of vergelijkbare informatie. Resultaten van deskresearch dienen op de onderzoekslocatie tijdens het onderzoek aanwezig te zijn. Bij het inventariseren dienen alle ruimten en constructiedelen, met inbegrip van bijvoorbeeld kanalen en kokers, schoorstenen, kruipruimten, ruimten boven het plafond etc. onderzocht te worden. In het bouwwerk en/of object dienen de te onderzoeken materialen in hoofdgroepen te worden ingedeeld.
+Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
 
 Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
 
-**Onder beheer van:**
+Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
@@ -7799,13 +7801,13 @@ Indien er sprake is van maatregel wordt dit aan de certificaathouder kenbaar gem
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
-De te certificeren deskundige betreft de Arbeids- en Organisatiedeskundige. De Arbeids- en Organisatiedeskundige houdt zich bezig met mensen in een arbeidsorganisatie (of organisatie waar arbeid plaatsvindt). De deskundige is de aangewezen specialist op het gebied van Psycho Sociale Arbeidsbelasting en de kwaliteit van de arbeid en organisatie. De deskundige adviseert onder meer over werkdruk, stres, gezondheidsmanagement, ongewenst gedrag en functioneringsproblematiek. De deskundige heeft een veranderkundig perspectief.
+Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de Hogere Veiligheidskundige. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de Hogere Veiligheidskundige. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Hogere Veiligheidskundige, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
 
-Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Hogere Veiligheidskundige.
+Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Hogere Veiligheidskundige, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
 Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Hogere Veiligheidskundige, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
@@ -7837,13 +7839,13 @@ De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvang
 
 NB. De opbouw van het portfolio is niet gebonden aan een opleidingsinstelling of een CKI.
 
-Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O (het WDA&T).
+Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Hogere Veiligheidskundige opgenomen als bijlage 6 bij dit document.
 
 Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Hogere Veiligheidskundige opgenomen als bijlage 6 bij dit document.
 
-De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van A&O is vijf jaar.
-
 – aandrijvingseenheid;
+
+De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
 De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
@@ -7875,7 +7877,7 @@ Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afs
 
 Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevraagd. De ontbrekende informatie moet tijdig (ten minste twee weken voor datum examen) worden aangeleverd zodat de examinator nog voldoende tijd heeft voor een beoordeling. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De kandidaat wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
-De examen-pool is een organisatorisch onderdeel van de CKI. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van ISO/IEC 17024.
+De toets is bedoelt om de wijze waarop de Hogere Veiligheidskundige werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Hogere Veiligheidskundige ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Hogere Veiligheidskundige geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
 De toets is bedoelt om de wijze waarop de Hogere Veiligheidskundige werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Hogere Veiligheidskundige ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Hogere Veiligheidskundige geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
@@ -7885,15 +7887,15 @@ De initiële matrix wordt ingevuld bij de initiële certificering en aan het beg
 
 Tijdens de toets verdedigd de Hogere Veiligheidskundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
-Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
-
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
+
+Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
 
-De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring (of accountantsverklaring) en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
+De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Hogere Veiligheidskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
 De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Hogere Veiligheidskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
@@ -7917,7 +7919,7 @@ Wanneer het portfolio niet in orde is, dan wordt de Hogere Veiligheidskundige in
 
 Certificaathouders tonen aan dat zij kennis van het vak bijhouden (bij- en nascholing) door bijvoorbeeld het schrijven van een artikel binnen de ICT-groep of het vervullen van een bestuursfunctie binnen het vakgebied. Hieraan wordt een nog op te stellen cesuur gekoppeld.
 
-Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
+Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
 Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
@@ -7925,25 +7927,25 @@ Indien het proces met één examinator niet goed functioneert worden er twee exa
 
 Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement het Competentie profiel Hogere Veiligheidskundige (HVK) paragraaf 4.2.
 
-Motivatie voor deze regeling is dat het bedrijf alleen asbesthoudende producten mag inventariseren, indien het bedrijf in het bezit is van het Ascert-Procescertificaat Asbestinventarisatie. Namens het bedrijf verzoekt de CKI hiervoor bij Ascert schriftelijk om toestemming. Bij dit verzoek wordt overlegd:
+De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
 De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
-De aanvraag moet aan de volgende eisen voldoen:
+Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
 Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
 
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
-
 De aanvrager dient hiervoor het volgende document te overhandigen: een examenoproep waaruit blijkt dat de kandidaat deelneemt aan het examen van een toegelaten beroepsopleiding Arbeids & Organisatiedeskundige.
+
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-In het geval de kandidaat beschikt over een diploma van een beroepsopleiding buiten de EU dan is het aan de kandidaat om een portfolio aan te maken en het portfoliotraject te doorlopen. Na vijf jaar kan de kandidaat deelnemen aan de portfolio beoordeling, zoals bij hercertificatie het geval is. Bij een positief oordeel kan dan tot initiële certificering door de CKI worden overgegaan.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7951,7 +7953,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-De aanvrager dient hiervoor het volgende document te overhandigen:
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -7975,19 +7977,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de aanvrager in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de aanvrager hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
-
 De werkervaring van de Arbeids- en Organisatiekundige toont aan dat hij in staat is competenties zelfstandig in de praktijk toe te passen. Met betrekking tot de opgedane werkervaring bekijkt de examinator:
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
-De examinator kijkt naar de inhoud van het portfolio. Het portfolio bestaat uit een beschrijving van tenminste twee van de volgende vijf kerntaken:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+
+Algemeen:
 
 Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afstudeeropdracht, die in een ICT-groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
 
 Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevraagd. De ontbrekende informatie moet tijdig (ten minste twee weken voor datum examen) worden aangeleverd zodat de examinator nog voldoende tijd heeft voor een beoordeling. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De kandidaat wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
@@ -7997,23 +7997,25 @@ De toets is bedoelt om de wijze waarop de Arbeids- en Organisatiedeskundige werk
 
 Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificering. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het Centraal College van Deskundigen Arbo ter advisering. Het examenpersoneel vormt het examenbureau.
 
+Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificering. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het Centraal College van Deskundigen Arbo ter advisering. Het examenpersoneel vormt het examenbureau.
+
 Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
 
 Examenpersoneel moet voldoen aan de volgende algemene, vakinhoudelijke en onafhankelijkheidseisen:
 
 Examinatoren die voldoen aan de bovenstaande eisen kunnen door de CKI worden benoemd en worden ingezet voor het afnemen van examens.
 
-De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Arbeids en Organisatiedeskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
-
 Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
-De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
+Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
 De examinator bekijkt of:
 
 Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
 
-De examinator bekijkt of:
+Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
+
+Te stellen eisen aan de examenlocatie zijn:
 
 Te stellen eisen aan de examenlocatie zijn:
 
@@ -8023,11 +8025,11 @@ Te stellen eisen aan het portfolio-examen zijn:
 
 Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
-Bij iedere kerntaak wordt weergegeven welke kennis (uit bijvoorbeeld boeken, internet, rapporten, werkinstructies) als achtergrond voor de uitoefening van deze kerntaak is gebruikt ter onderbouwing. Wenselijk is dat er bij een kerntaak een beschrijving wordt gegeven van relevante informatie bijvoorbeeld een boek: titel, auteur, druk en hoofdstuk vermelding, waarvan gebruik is gemaakt voor de uitoefening van deze taak.
-
 Minimaal vier cases kort uitgewerkt in een verslag, die eventueel tijdens de toegelaten beroepsopleiding in een ICT groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
 
 Wanneer het portfolio compleet is en de aanvrager heeft voldaan aan de bovenstaande criteria, dan mag de Arbeids en Organisatiedeskundige deelnemen aan de toets (overhoring van het portfolio). De Arbeids en Organisatie deskundige wordt hiervan schriftelijk door de CKI op de hoogte gesteld.
+
+Dit competentieprofiel voor de Hogere Veiligheidskundige is opgesteld om de inhoud van het beroep Hogere Veiligheidskundige vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificeringssysteem dat moet resulteren in het certificaat voor de Arbeids- en organisatiedeskundige volgens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
 
 Dit competentieprofiel voor de Hogere Veiligheidskundige is opgesteld om de inhoud van het beroep Hogere Veiligheidskundige vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificeringssysteem dat moet resulteren in het certificaat voor de Arbeids- en organisatiedeskundige volgens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
 
@@ -8035,13 +8037,13 @@ Dit competentieprofiel is bedoeld als basis voor de certificatie van deskundigen
 
 In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
 
-Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
 Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
-Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement en het Competentie profiel Arbeids en Organisatiedeskundigen (A&O) paragraaf 4.2.
-
 Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
+
+Het beroep ‘Hogere Veiligheidskundige’ is een van de vier in Nederland, bij wet erkende, kerndeskundigen op het terrein van de arbeidsomstandigheden. Samen met de bedrijfsarts, en de Arbeidshygiënist is de Hogere Veiligheidskundige algemeen adviseur op het terrein van op het brede terrein van veiligheid en duurzame inzetbaarheid in arbeidsorganisaties. Ook adviseert hij over het optimaliseren van de arbeidsomstandighedenzorg.
 
 Het beroep ‘Hogere Veiligheidskundige’ is een van de vier in Nederland, bij wet erkende, kerndeskundigen op het terrein van de arbeidsomstandigheden. Samen met de bedrijfsarts, en de Arbeidshygiënist is de Hogere Veiligheidskundige algemeen adviseur op het terrein van op het brede terrein van veiligheid en duurzame inzetbaarheid in arbeidsorganisaties. Ook adviseert hij over het optimaliseren van de arbeidsomstandighedenzorg.
 
@@ -8053,15 +8055,13 @@ De Hogere Veiligheidskundige ontwikkelt zich voortdurend in zijn vak en vaardigh
 
 De Hogere Veiligheidskundige heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Arbeidshygiënist). De Hogere Veiligheidskundige onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en organisatiedeskundige en arbeidshygiënist) in de kerntaken 4 en 5 en in een specialisatie in het onderzoeken en/of adviseren op het gebied van veilige werkomgeving.
 
-De examinator kijkt naar de inhoud van het portfolio. Het portfolio bestaat na vijf jaar uit een beschrijving van de volgende vijf kerntaken:
-
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
+Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
 
 Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie.
 
@@ -8069,7 +8069,7 @@ In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling ui
 
 In het beroep van Hogere Veiligheidskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
-In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
+In het beroep van Hogere Veiligheidskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
 Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
@@ -8077,13 +8077,15 @@ De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de 
 
 De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD ARBO zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
 
-Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze.
+De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD ARBO zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+
+Per 1 april 2012 wordt er op de nieuwe manier (portfoliocyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfoliocyclus voor hercertificatie ingaan.
 
 Per 1 april 2012 wordt er op de nieuwe manier (portfoliocyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfoliocyclus voor hercertificatie ingaan.
 
 Certificaathouders die hun hercertificatie doen worden op de ‘oude’ manier gehercertificeerd tot het jaar 2016 en gaan dan ook de portfoliocyclus in. Certificaathouders waarvan het certificaat nog geldig is, kunnen ervoor kiezen hun cyclus af te maken en worden dan nog op de ‘oude’ manier gehercertificeerd. Ze kunnen ook vervroegd de portfoliocyclus ingaan. Dat wil zeggen dat zij voor de reeds verlopen certificatietermijn de ‘oude’ hercertificatie-eisen aantonen, waarna zij de portfoliocyclus van 5 jaar ingaan. Zij krijgen korting op hun aanvraag hercertificatie gerelateerd aan de nog niet verlopen certificatietermijn.
 
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
+**verslag assessment**
 
 **verslag assessment**
 
@@ -8133,13 +8135,13 @@ Eindbeoordeling:
 
 (minimaal <invoegen> van de vragen goed beantwoord)
 
-Te stellen eisen aan het portfolio-examen zijn:
-
 Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
 De kerndeskundige is een vak dat onder de Hogere Veiligheidskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Hogere Veiligheidskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Hogere Veiligheidskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het Competentieprofiel Hogere Veiligheidskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
 
-Een norm beschermt bepaalde belangen. Het wordt soms gesteld dat op een andere wijze dat belang beschermd kan worden. Dit is niet van belang. De bevoegde autoriteit heeft bepaalt dat op de voorgeschreven wijze het belang wordt behartigd. Het is niet aan een certificaathouder om dit naast zich neer te leggen en eigen maatregelen te gaan bepalen. Er is een afwijking en deze leidt tot het opleggen van de herstelsanctie. Deze niveaus zijn nader uitgewerkt in de zogenaamde escalatieladder.
+De kerndeskundige is een vak dat onder de Hogere Veiligheidskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Hogere Veiligheidskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Hogere Veiligheidskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het Competentieprofiel Hogere Veiligheidskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
+
+Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de Hogere Veiligheidskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De Hogere Veiligheidskundige heeft als kenmerk dat hij na een gevolgde hbo- of wo-opleiding, een kopopleiding heeft doorlopen en afgerond. De kopopleiding moet voldoen aan de stand der wetenschap. Dit wil zeggen dat de student in ieder geval in de praktijk van het vak werkzaam is. Met het volgen van de kopopleiding wordt door het curriculum bepaald wat de basiscompetenties van de kerndeskundige zijn. Dit is het horizontale deel van het zogenaamde T-profiel.
 
 Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de Hogere Veiligheidskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De Hogere Veiligheidskundige heeft als kenmerk dat hij na een gevolgde hbo- of wo-opleiding, een kopopleiding heeft doorlopen en afgerond. De kopopleiding moet voldoen aan de stand der wetenschap. Dit wil zeggen dat de student in ieder geval in de praktijk van het vak werkzaam is. Met het volgen van de kopopleiding wordt door het curriculum bepaald wat de basiscompetenties van de kerndeskundige zijn. Dit is het horizontale deel van het zogenaamde T-profiel.
 
@@ -8151,31 +8153,31 @@ De initiële of eerste certificering is vooral gericht op de generalist als begi
 
 De hercertificatie moet meer tegemoet komen aan de profilering van de kerndeskundige. De specialisaties moeten hierin uitgelicht worden. In het competentieprofiel worden vijf kerntaken benoemd die in ieder geval uitgevoerd moeten worden. Hierin kan met verschillende competenties gewerkt worden.
 
-Examinatoren die voldoen aan de bovenstaande eisen kunnen door de CKI worden benoemd en worden ingezet voor het afnemen van examens.
+De Hogere Veiligheidskundige houdt zich vooral bezig met het onderzoeken en/of adviseren op het gebied van een veilige werkomgeving.
 
 De Hogere Veiligheidskundige houdt zich vooral bezig met het onderzoeken en/of adviseren op het gebied van een veilige werkomgeving.
 
 De Hogere Veiligheidskundige is in staat om bij organisaties een veilige werkomgeving te maken en/of te behouden. In het competentieprofiel zijn de vijf kerntaken benoemd die de Hogere Veiligheidskundige uitvoert. Binnen elke kerntaak beschikt de Hogere Veiligheidskundige over verschillende competenties; minimaal een algemene en een beroepsspecifieke competentie per kerntaak. De kruisjes in de kerntaak-competentie-matrix (zie deel 4 van het Competentieprofiel Hogere Veiligheidskundige ), vormen de eerste fase en mogelijkheid van persoonlijke specialisatie van de Hogere Veiligheidskundige. Hierin kan bijvoorbeeld tot uitdrukking komen dat de Hogere Veiligheidskundige vooral adviserend of juist meer onderzoekend bezig is.
 
-De arbeids- en organisatiedeskundige houdt zich bezig met mensen en arbeid binnen een organisatie. Vanuit een veranderkundig perspectief adviseert de deskundige over onder andere gezondheidsmanagement, psychosociale arbeidsbelasting en de kwaliteit van de arbeid.
+Bovendien kan de Hogere Veiligheidskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
 
 Bovendien kan de Hogere Veiligheidskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
 
-De Arbeids- en Organisatiedeskundige ontwikkelt continu zijn vak en vaardigheden. Hij werkt samen, verbindt en integreert kennis van oorzaken, gevolgen en oplossingen en onderneemt in zijn vak. De Arbeids- en Organisatiedeskundige heeft een deel van de kerntaken gemeen met de andere gecertificeerde niet-medische arbodeskundigen (arbeidshygiënist en hogere veiligheidskundige). Hij onderscheidt zich van hen in de kerntaken:
+Binnen de kennisgebieden van het HVK vak kan de Hogere Veiligheidskundige zich ook specialiseren in bepaalde taakgebieden.
 
 Binnen de kennisgebieden van het HVK vak kan de Hogere Veiligheidskundige zich ook specialiseren in bepaalde taakgebieden.
 
 Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Hogere Veiligheidskundige.
 
-Te stellen eisen aan de examenmiddelen zijn:
+Tenslotte kan de hogere veiligheidskundige zich bijzonder bekwamen in bepaalde branches of sectoren, zoals onderwijs, zorg, overheid, industrie, bouw chemie e.d.
 
 Tenslotte kan de hogere veiligheidskundige zich bijzonder bekwamen in bepaalde branches of sectoren, zoals onderwijs, zorg, overheid, industrie, bouw chemie e.d.
 
 De specifieke specialisatie in kennis, taak en/of branche kan de kerndeskundige in zijn persoonlijke portfolio tot uitdrukking brengen.
 
-De werknemers zijn beschermd, maar het risico dat de pbm’s ophouden te functioneren door gebrekkig onderhoud brengt ze in gevaar. Indien het gebrekkige onderhoud of gebrek aan controle ertoe leidt dat de pbm’s niet meer veilig werken, zal op grond van deze overtreding het certificaat voorwaardelijk worden ingetrokken.
-
 – bewegende arm met grijper, gecontroleerd door sensor.
+
+Document: WSCS-AO: 2012, versie 1
 
 Document: WSCS-AO: 2012, versie 1
 
@@ -8187,9 +8189,9 @@ Lange Voorhout 14
 
 2514 ED Den Haag
 
-De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
-
 Door te meten wordt gecontroleerd of de containment werkt. Als dit niet gemeten wordt, bestaat het risico dat (door onvoorziene omstandigheden) de onderdruk te laag wordt. Het risico van emissie ontstaat dan. Het feit dat niet gemeten wordt, betekent echter niet dat er ook direct sprake is van blootstelling. Voorwaardelijke intrekking is aanvaardbaar.
+
+In dit persoonscertificatieschema voor Arbeids- en Organisatiedeskundigen (A&O) wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
 In dit persoonscertificatieschema voor Arbeids- en Organisatiedeskundigen (A&O) wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
 
@@ -8197,109 +8199,109 @@ Deze certificatieregeling is opgesteld door het betreffende Centraal College van
 
 De te certificeren deskundige betreft de Arbeids- en Organisatiedeskundige. De Arbeids- en Organisatiedeskundige houdt zich bezig met mensen in een arbeidsorganisatie (of organisatie waar arbeid plaatsvindt). De deskundige is de aangewezen specialist op het gebied van Psycho Sociale Arbeidsbelasting en de kwaliteit van de arbeid en organisatie. De deskundige adviseert onder meer over werkdruk, stres, gezondheidsmanagement, ongewenst gedrag en functioneringsproblematiek. De deskundige heeft een veranderkundig perspectief.
 
-De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Arbeids- en Organisatiedeskundigen’. Een Arbeids- en Organisatiedeskundige is een deskundige op het terrein van de arbeids- en organisatiekunde conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeids- en organisatiekunde conform [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2013-11-01&g=2013-11-01) van de Arbeidsomstandighedenregeling. Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de A&O-er is terug te vinden in bijlage 6 van deze regeling.
+De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Arbeids- en Organisatiedeskundigen’. Een Arbeids- en Organisatiedeskundige is een deskundige op het terrein van de arbeids- en organisatiekunde conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeids- en organisatiekunde conform [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2014-01-01&g=2014-01-01) van de Arbeidsomstandighedenregeling. Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de A&O-er is terug te vinden in bijlage 6 van deze regeling.
 
 Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit ISO/IEC 17024:2003.
-
-Certificatieschema:
 
 Datum examen:
 
 Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep A&O.
 
-Naam examinator:
+Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep A&O.
 
 Dit werkveldspecifieke certificatieschema Arbeids en Organisatiedeskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
-Artikel:
+Dit werkveldspecifieke certificatieschema Arbeids en Organisatiedeskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
 
 Binnen het kader van deze certificatieregeling zijn actief:
 
-Beoordelingscriteria:
+Binnen het kader van deze certificatieregeling zijn actief:
+
+Risico’s in het werkveld zijn een te hoge psychische en fysieke belasting met als gevolg gezondheidsschade. Verkeerde psychische belasting met als gevolg schade aan de productie of productiemiddelen of productieverlies. Verkeerde organisatie van het werk, met als gevolg veiligheidsrisico’s of schade aan productie(middelen) of verlies van productie. Ongewenst gedrag met als gevolg pycnische overbelasting, sociale uitsluiting en productieschade etc. Risico’s voor het bedrijf zijn het risico van verkeerd advies door de A&O deskundige ofwel schadeaansprakelijkheid.
 
 Risico’s in het werkveld zijn een te hoge psychische en fysieke belasting met als gevolg gezondheidsschade. Verkeerde psychische belasting met als gevolg schade aan de productie of productiemiddelen of productieverlies. Verkeerde organisatie van het werk, met als gevolg veiligheidsrisico’s of schade aan productie(middelen) of verlies van productie. Ongewenst gedrag met als gevolg pycnische overbelasting, sociale uitsluiting en productieschade etc. Risico’s voor het bedrijf zijn het risico van verkeerd advies door de A&O deskundige ofwel schadeaansprakelijkheid.
 
 Afbreuk risico’s voor de adviseur zijn, dat je als adviseur moet kiezen tussen de kwaliteit van het advies en de implementatiekans hiervan binnen de organisatie van de werkgever. Een niet prettig of wenselijk advies daar waar de opdrachtgever zelf onderdeel van het probleem is, maar ook de privacy gegevens die anoniem zijn blijven bij de opdrachtgever.
 
-Antwoord examinandus:
-
 Beoordeling:
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
-Artikel:
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
 
 De arbeid & organisatiedeskundige, dient in overeenstemming met de certificatieregeling A&O een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
 
-Beoordelingscriteria:
+De arbeid & organisatiedeskundige, dient in overeenstemming met de certificatieregeling A&O een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
 
 Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O (het WDA&T).
 
-vragen, kennisvragen, enz.)
+Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O (het WDA&T).
 
 De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van A&O is vijf jaar.
 
-Beoordeling:
+De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van A&O is vijf jaar.
 
 Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O.
 
-(minimaal <invoegen> van de vragen goed beantwoord).
+Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O.
 
 Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
-Artikel:
+Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
 De bezwaarprocedure is opgenomen in bijlage 2.
 
-Beoordelingscriteria:
+De bezwaarprocedure is opgenomen in bijlage 2.
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
-De Arbeids- en Organisatiedeskundige is van oorsprong vaak arbeids- en organisatiepsycholoog, bedrijfskundige, personeelswetenschapper of arbeidssocioloog. De kopopleiding geeft zowel basis als gevorderde kennis, vaardigheden en werkt aan een gevorderde attitude. Dit wordt tijdens de opleiding weergegeven in een portfolio en aan het einde van de opleiding geëxamineerd. Het examen is competentiegericht. Dit wil zeggen dat het portfolio beoordeeld en getoetst wordt op essentiële kennis en vaardigheden zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Arbeids en Organisatiedeskundigen (A&O).
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
 De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
-De initiële of eerste certificering is vooral gericht op de generalist als beginner. Hier worden de basisvaardigheden getoetst. De opleidingen hebben hier een passende methodiek voor. De inhoud volgt de eisen die in de arbeidsomstandighedenwetgeving zijn vastgelegd en die zijn uitgewerkt in het competentieprofiel.
+De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling A&O. De CKI beheert de examinatorenpool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor A&O certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
-Artikel:
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling A&O. De CKI beheert de examinatorenpool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor A&O certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema A&O. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
 
-In het competentieprofiel zijn de vijf kerntaken benoemd die de Arbeids- en Organisatiedeskundige uitvoert. Binnen elke kerntaak beschikt de Arbeids- en Organisatiedeskundige over verschillende competenties; minimaal een algemene en een beroepsspecifieke competentie per kerntaak. De kruisjes in de kerntaak-competentie-matrix (zie deel 4 van het Competentieprofiel Arbeids en Organisatiedeskundige), vormen de eerste fase en mogelijkheid van persoonlijke specialisatie van de Arbeids- en Organisatiedeskundige. Hierin kan bijvoorbeeld tot uitdrukking komen dat de Arbeids- en Organisatiedeskundige vooral adviserend of juist meer onderzoekend bezig is.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema A&O. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
+
+In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 De examen-pool is een organisatorisch onderdeel van de CKI. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van ISO/IEC 17024.
 
-Antwoord examinandus:
+Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
 Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
-Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Arbeids- en Organisatiedeskundige.
+Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
 Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
 
-Tenslotte kan de Arbeids- en Organisatiedeskundige zich bijzonder bekwamen in bepaalde branches of sectoren zoals onderwijs, zorg, overheid, industrie, bouw en dergelijke.
+De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
-De kerndeskundige is een vak dat onder de Arbeids- en Organisatiedeskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het competentieprofiel Arbeids en Organisatiedeskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Arbeids en Organisatiedeskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel Arbeids en Organisatiedeskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
+Het toezicht wordt als volgt uitgevoerd:
 
 Het toezicht wordt als volgt uitgevoerd:
 
 De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring (of accountantsverklaring) en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
 
-De Arbeids- en Organisatiedeskundige is van oorsprong vaak arbeids- en organisatiepsycholoog, bedrijfskundige, personeelswetenschapper of arbeidssocioloog. De kopopleiding geeft zowel basis als gevorderde kennis, vaardigheden en werkt aan een gevorderde attitude. Dit wordt tijdens de opleiding weergegeven in een portfolio en aan het einde van de opleiding geëxamineerd. Het examen is competentiegericht. Dit wil zeggen dat het portfolio beoordeeld en getoetst wordt op essentiële kennis en vaardigheden zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Arbeids en Organisatiedeskundigen (A&O).
+De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
 De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
 
-De initiële of eerste certificering is vooral gericht op de generalist als beginner. Hier worden de basisvaardigheden getoetst. De opleidingen hebben hier een passende methodiek voor. De inhoud volgt de eisen die in de arbeidsomstandighedenwetgeving zijn vastgelegd en die zijn uitgewerkt in het competentieprofiel.
+Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling (bijlage 1).
 
 Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling (bijlage 1).
 
-In het werkplan wordt vastgelegd hoe het verwijderen van asbest aangepakt zal worden. Hierdoor wordt de verwijderaar gedwongen om na te denken over de werkzaamheden en de mogelijke problemen. De werkwijze hoeft niet gaandeweg te worden uitgevonden, maar is van tevoren bedacht en vastgelegd. Aangezien duidelijk is hoe er gewerkt zal worden, kan er ook voor gezorgd worden dat de benodigde middelen aanwezig zijn. Indien deze voorbereiding wordt overgeslagen neemt het risico op asbestemissie en blootstelling toe. De praktijk heeft geleerd dat als er geen plan is of als dit onvoldoende is, de werknemers zelf oplossingen gaan bedenken of doorwerken zonder de benodigde maatregelen te nemen. Dit leidt vaak tot het vrijkomen van asbestvezels dan wel blootstelling.
+Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen van dit certificatieschema heeft, kan dit leiden tot door de CKI opgelegde maatregelen. Mogelijke maatregelen zijn herstel activiteiten, opvragen van aanvullende/ontbrekende documenten, schorsen, wijzigen ten nadele van de certificaathouder of het intrekken van het certificaat.
 
@@ -8315,13 +8317,13 @@ Indien er sprake is van maatregel wordt dit aan de certificaathouder kenbaar gem
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
-Het opsporen van conventionele explosieven betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het opsporen van conventionele explosieven. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te zijn aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T en aan de eisen uit de wet. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
+Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de arbeids & organisatiekundige. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het CCvD ARBO van de stichting BCD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van de arbeids & organisatiekundige. Door het Ministerie van SZW is deze certificatieregeling vastgesteld middels een statische verwijzing in de Arboregeling. Deze vastgestelde regeling vervangt daarmee eerdere versies.
 
 Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Arbeids & Organisatiedeskundige, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
 
-bestemd voor: het geleiden van hooggroeiende, vruchtdragende gewassen,
+Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Arbeids & Organisatiedeskundige, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
 Alvorens de CKI overgaat tot het uitvoeren van het certificatieonderzoek van het wettelijk verplichte persoonscertificaat Arbeids & Organisatiedeskundige, dient de kandidaat te voldoen aan de hierna beschreven entreecriteria:
 
@@ -8353,13 +8355,13 @@ De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvang
 
 NB. De opbouw van het portfolio is niet gebonden aan een opleidingsinstelling of een CKI.
 
-Het beoordelen en aanwijzen van CKI’s voor dit schema voor aanwijzing en toezicht vindt plaats op basis van de ISO/IEC 17021 en IAF-MD1 tot en met IAF-MD5, alsmede de eisen die gesteld worden aan de CKI op grond van voorliggend schema voor aanwijzing en toezicht. Waar in dit document niet wordt afgeweken van de accreditatienorm ISO/IEC 17021 resp. deze norm niet nader wordt ingevuld, gelden onverkort de eisen uit deze accreditatienorm.
+Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Arbeids- en Organisatiedeskundige opgenomen als bijlage 6 bij dit document.
 
 Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Arbeids- en Organisatiedeskundige opgenomen als bijlage 6 bij dit document.
 
-Bij het uitvoeren van beoordelingen en het afgeven, schorsen en intrekken van certificaten volgens WSCS-OCE, worden de volgende functies onderscheiden: auditor en beslisser. Op deze functies en het beleid en handelen van de CKI in relatie tot deze functies, zijn de eisen uit paragraaf 7.2.1 tot en met 7.2.12 van ISO 17021 onverkort van toepassing. De, specifiek in het kader van systeemcertificatie OCE, aan dit personeel gestelde eisen zijn hierna weergegeven.
-
 Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-OCE) heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen OCE.
+
+De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
 De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
@@ -8387,7 +8389,7 @@ Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afs
 
 Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevraagd. De ontbrekende informatie moet tijdig (ten minste twee weken voor datum examen) worden aangeleverd zodat de examinator nog voldoende tijd heeft voor een beoordeling. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De kandidaat wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
-De door de CKI te volgen werkwijze bij het toezicht van houders van het systeemcertificaat OCE dient in overeenstemming te zijn met de eisen van paragraaf 9.3.1.1 en 9.3.1.2 van ISO 17021. Aanvullend hierop worden bij houden van toezicht op de certificaathouders de bepalingen en procedures uit het WSCS-OCE in acht genomen door de CKI.
+De toets is bedoelt om de wijze waarop de Arbeids- en Organisatiedeskundige werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Arbeids- en Organisatiedeskundige ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Arbeids- en Organisatiedeskundige geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
 De toets is bedoelt om de wijze waarop de Arbeids- en Organisatiedeskundige werkt aan zijn professionele ontwikkeling te toetsen. De toets wordt mondeling afgenomen door één examinator op basis van het portfolio van de kandidaat. Vooraf wordt aan de kandidaat kenbaar gemaakt wat de duur zal zijn van het examen en op welke wijze het examen zal worden afgenomen. De basis voor de toets is de door de Arbeids- en Organisatiedeskundige ingevulde kerntaak-competentie-matrix. De kerntaak-competentie-matrix koppelt kerntaken en competenties aan elkaar. De Arbeids- en Organisatiedeskundige geeft zelf aan welke competenties hij bij welke kerntaak heeft, of wil ontwikkelen. Dit geeft belangrijke informatie voor de toetsing. Het maakt inzichtelijk welke competentie in welke kerntaak kan worden getoetst. De kerntaak-competentie-matrix bestaat uit 5 kerntaken en 10 competenties:
 
@@ -8397,15 +8399,15 @@ De initiële matrix wordt ingevuld bij de initiële certificering en aan het beg
 
 Tijdens de toets verdedigd de Arbeids- en Organisatiekundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
-Indien door de CKI bij het uitvoeren van beoordelingen situaties worden aangetroffen waarin de veiligheid of gezondheid van werknemers of derden door de organisatie in gevaar is of wordt gebracht, wordt de Inspectie SZW hiervan op de hoogte gesteld. Daarbij wordt tevens medegedeeld welke maatregelen door de CKI worden genomen. De CKI stelt de organisatie op de hoogte van het feit dat de Inspectie SZW is geïnformeerd.
-
 Om het verstrekken c.q. onderhouden van een certificaat op onterechte gronden te voorkomen is het noodzakelijk om risico’s te definiëren en maatregelen te nemen. Deze beogen de risico’s m.b.t. asbestvezelemissie/besmetting uit te bannen. De maatregelen zijn er in twee vormen en kunnen bestaan uit afstand tot de bron of uit technische maatregelen, zoals directe maatregelen om de risico’s uit te bannen en daarmee asbestvezelbesmetting te voorkomen. Behalve de maatregelen bestaan er ook de zogenaamde managementfactoren. Deze managementfactoren kunnen op zichzelf de centrale gebeurtenis niet uitbannen, maar beïnvloeden de kwaliteit van de maatregelen.
+
+Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
 Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
 
 De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-01-01&g=2013-01-01) Arboregeling.
+De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Arbeids en Organisatiedeskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
 De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Arbeids en Organisatiedeskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte en geeft aan onder welke regeling de aanvraag dan wel valt. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
 
@@ -8429,7 +8431,7 @@ Wanneer het portfolio niet in orde is, dan wordt de Arbeids en Organisatie desku
 
 Certificaathouders tonen aan dat zij kennis van het vak bijhouden (bij- en nascholing) door bijvoorbeeld het schrijven van een artikel binnen de ICT-groep of het vervullen van een bestuursfunctie binnen het vakgebied. Hieraan wordt een nog op te stellen cesuur gekoppeld.
 
-Dit Certificatieschema voor het systeemcertificaat Opsporen Conventionele Explosieven (WSCS-OCE) vervangt de Beoordelingsrichtlijn voor het Procescertificaat Opsporen Conventionele Explosieven (BRL-OCE). De doelstelling van dit certificatieschema is drieledig:
+Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
 Er is één examinator die een mondeling examen afneemt op basis van het portfolio van de kandidaat. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
@@ -8437,25 +8439,25 @@ Indien het proces met één examinator niet goed functioneert worden er twee exa
 
 Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement en het Competentie profiel Arbeids en Organisatiedeskundigen (A&O) paragraaf 4.2.
 
-Dit certificatieschema is opgebouwd uit twee delen, namelijk Deel I met algemene bepalingen en Deel II met normen. De normen waaraan de certificatie-instelling(en) dienen te voldoen om door de minister van Sociale Zaken en Werkgelegenheid aangewezen te worden voor het certificeren van bedrijven volgens dit certificatieschema, zijn opgenomen in het Werkveldspecifiek document voor aanwijzing en toezicht behorend bij het WSCS-OCE.
+De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
 De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2012-07-01&g=2012-07-01) Arboregeling.
+Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat (zie maatregelenbeleid).
 
 Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
 
-Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Het werkveldspecifieke document is door de minister van SZW vastgesteld. De minister van SZW kan na overleg met het werkveld wijzigingen aanbrengen in de vastgestelde schema. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het College van Deskundigen OCE.
-
 bestemd voor: het met geringe fysieke inspanning stellen van motorkleppen,
+
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Hoofdrisico van het werkveld van het opsporen van conventionele explosieven is het onverhoeds aantreffen van CE bij het uitvoeren van werkzaamheden in de (water)bodem en/of de ondeskundige en onzorgvuldige omgang met aangetroffen CE. Hierdoor bestaat het gevaar op het ongewenst tot (uit)werking komen van CE en dat kan grote uitwerkingsgevolgen teweegbrengen. De belangrijkste daarvan zijn luchtdruk, schokgolf en scherfwerking, welke een groot gevaar vormen voor de veiligheid en gezondheid van bij het opsporen van CE betrokken werknemers en andere personen.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -8463,7 +8465,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke certificatieschema is opgesteld door de Stichting Certificatie Vuurwerk & Explosieven (SCVE). Door het Ministerie van SZW zal dit certificatieschema worden vastgesteld.
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -8487,19 +8489,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Het certificaat wordt afgegeven aan de juridische entiteit, welke de contracten vallend onder dit schema aangaat, conform het algemeen reglement van de CKI. Het certificaat wordt afgegeven wanneer de beoordeling van het managementsysteem van de aanvrager in positieve zin is afgerond. De beslissing van certificatie zal openbaar worden gemaakt volgens paragraaf 4.8.
-
 Om in aanmerking te komen voor certificatie dient aan de onderstaande criteria te worden voldaan:
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
-Het uitvoeren van opsporingsprojecten in het kader van de initiële beoordeling door de CKI volgens paragraaf 5.2 vindt plaats nadat de documentbeoordeling door de CKI met positief resultaat is afgerond. De aanvrager meldt deze projecten conform paragraaf 5.1 aan de CKI en de projecten worden pas uitgevoerd nadat de CKI daarmee heeft ingestemd. Indien één van beide projecten niet positief beoordeeld wordt, wordt dezelfde procedure gevolgd voor het uitvoeren en beoordelen van een derde project.
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+
+Algemeen:
 
 Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Zie hierbij ook paragraaf 5.4.
 
 – loopplateau;
 
@@ -8509,21 +8509,23 @@ Een adequate behandeling van klachten is belangrijk voor het creëren van vertro
 
 Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het CCvD ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
 
+Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het CCvD ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
+
 Examenpersoneel moet voldoen aan de volgende algemene, vakinhoudelijke en onafhankelijkheidseisen:
 
 Examinatoren die voldoen aan de bovenstaande eisen kunnen door de CKI worden benoemd en worden ingezet voor het afnemen van examens.
 
-bestemd voor: het met geringe fysieke inspanning melken en verzorgen van dieren,
-
 Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
-De certificerende instelling stelt een onderzoek in naar:
+Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
 Het systeemcertificaat dient minimaal de navolgende gegevens te bevatten:
 
 Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
 
-Het certificaat wordt afgegeven aan de juridische entiteit, welke de contracten vallend onder dit schema aangaat, conform het algemeen reglement van de CKI. Het certificaat wordt afgegeven wanneer de beoordeling van het managementsysteem van de aanvrager in positieve zin is afgerond. De beslissing van certificatie zal openbaar worden gemaakt volgens paragraaf 4.8.
+Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
+
+Te stellen eisen aan de examenlocatie zijn:
 
 Te stellen eisen aan de examenlocatie zijn:
 
@@ -8533,9 +8535,9 @@ Te stellen eisen aan het portfolio-examen zijn:
 
 Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
-Een certificaat wordt geweigerd,, geschorst of ingetrokken indien:
-
 Zie hierbij ook paragraaf 5.4.
+
+Dit competentieprofiel voor de Arbeids- en Organisatiedeskundige is opgesteld om de inhoud van het beroep Arbeids- en organisatiedeskundige vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificatiesysteem dat moet resulteren in het certificaat voor de Arbeids- en organisatiedeskundige volgens de arbeidsomstandighedenwetgeving.
 
 Dit competentieprofiel voor de Arbeids- en Organisatiedeskundige is opgesteld om de inhoud van het beroep Arbeids- en organisatiedeskundige vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificatiesysteem dat moet resulteren in het certificaat voor de Arbeids- en organisatiedeskundige volgens de arbeidsomstandighedenwetgeving.
 
@@ -8543,13 +8545,13 @@ Dit competentieprofiel is bedoeld als basis voor de certificatie van deskundigen
 
 In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
 
-De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht
+Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
 Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
-Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte;
-
 legt dossier aan ten behoeve van de voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
+
+Het beroep ‘Arbeids- en Organisatiedeskundige’ is een van de vier in Nederland, bij wet erkende, kerndeskundigen op het terrein van de arbeidsomstandigheden. Samen met de bedrijfsarts, de hogere veiligheidskundige en de arbeidshygiënist is de arbeids- en organisatiedeskundige algemeen adviseur op het terrein van gezondheid en duurzame inzetbaarheid in arbeidsorganisaties. Ook adviseert hij over het optimaliseren van de arbeidsomstandighedenzorg.
 
 Het beroep ‘Arbeids- en Organisatiedeskundige’ is een van de vier in Nederland, bij wet erkende, kerndeskundigen op het terrein van de arbeidsomstandigheden. Samen met de bedrijfsarts, de hogere veiligheidskundige en de arbeidshygiënist is de arbeids- en organisatiedeskundige algemeen adviseur op het terrein van gezondheid en duurzame inzetbaarheid in arbeidsorganisaties. Ook adviseert hij over het optimaliseren van de arbeidsomstandighedenzorg.
 
@@ -8561,15 +8563,13 @@ De Arbeids- en Organisatiedeskundige ontwikkelt continu zijn vak en vaardigheden
 
 Daarnaast onderscheidt hij zich in een specialisatie in het onderzoeken en/of adviseren op het gebied van gezonde organisaties.
 
-De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
-
 De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+Het beroep wordt beschreven in vijf kerntaken die samen het gehele beroep omvatten. Hierbij:
 
-– geleidingsconstructie.
+Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
@@ -8577,7 +8577,7 @@ In deze werkinstructie wordt de afhandeling van een klacht besproken. De cki die
 
 In het beroep van Arbeids- en Organisatiedeskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
-Het bezwaar wordt niet-ontvankelijk verklaard:
+In het beroep van Arbeids- en Organisatiedeskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
 
 Het bezwaar wordt verder niet-ontvankelijk verklaard als het, bij het niet van toepassing zijn van een termijn, onredelijk laat wordt ingediend. Dit geldt uitsluitend wanneer het bezwaar betrekking heeft op het niet tijdig nemen van een besluit
 
@@ -8585,13 +8585,15 @@ Het bezwaarschrift schort de werking van het besluit niet op
 
 De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
 
-legt dossier aan ten behoeve van de voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
+De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+
+Per 1 april 2012 wordt er op de nieuwe manier van wetenschappelijk niveau (portfoliocyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfoliocyclus voor hercertificatie ingaan.
 
 Per 1 april 2012 wordt er op de nieuwe manier van wetenschappelijk niveau (portfoliocyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfoliocyclus voor hercertificatie ingaan.
 
 Certificaathouders die hun hercertificatie doen worden op de ‘oude’ manier gehercertificeerd tot het jaar 2016 en gaan dan ook de portfoliocyclus in. Certificaathouders waarvan het certificaat nog geldig is, kunnen ervoor kiezen hun cyclus af te maken en worden dan nog op de ‘oude’ manier gehercertificeerd. Ze kunnen ook vervroegd de portfolio-cyclus ingaan. Dat wil zeggen dat zij voor de reeds verlopen certificatietermijn de ‘oude’ hercertificatie-eisen aantonen, waarna zij de portfolio-cyclus van 5 jaar ingaan.
 
-De CKI registreert de actuele gegevens van certificaathouders. Conform de overeenkomst met de SCVE worden de gegevens elektronisch verzonden aan SCVE ten behoeve van het SCVE Certificaatregister. Weigeren, opschorten of intrekken van certificaten dienen door de CKI onmiddellijk te worden doorgegeven aan SCVE en de andere CKI’s. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
+**verslag assessment**
 
 **verslag assessment**
 
@@ -8641,13 +8643,13 @@ Eindbeoordeling:
 
 (minimaal <invoegen> van de vragen goed beantwoord).
 
-Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in dit certificatieschema, worden door de CKI afwijkingen uitgeschreven. Zie hiervoor paragraaf 5.4.3 van dit certificatieschema. Indien naar aanleiding daarvan geen/onvoldoende corrigerende maatregelen worden genomen, neemt de CKI maatregelen. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat. Door de CKI uitgeschreven afwijkingen en opgelegde maatregelen worden geregistreerd in een centraal registratiesysteem. Deze informatie wordt door de CKI vertrouwelijk behandeld.
-
 De organisatie is verplicht om wijzigingen in zijn omstandigheden, die voor het certificaat van belang kunnen zijn, aan de certificatie-instelling door te geven. Bij wijziging in rechtspersoon dient de organisatie de CKI te verwittigen. In dergelijke gevallen vervalt het certificaat en de overeenkomst.
 
 De kerndeskundige is een vak dat onder de Arbeids- en Organisatiedeskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het competentieprofiel Arbeids en Organisatiedeskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Arbeids en Organisatiedeskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel Arbeids en Organisatiedeskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
 
-Meldingen inzake spoedwerkzaamheden (o.a. onverwacht aantreffen munitie) dienen zo spoedig mogelijk aan de CKI te worden gericht. Bij de eerstvolgende (periodieke) audit zal de documentatie van deze werkzaamheden worden geverifieerd.
+De kerndeskundige is een vak dat onder de Arbeids- en Organisatiedeskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het competentieprofiel Arbeids en Organisatiedeskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Arbeids en Organisatiedeskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel Arbeids en Organisatiedeskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
+
+Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De Arbeids- en Organisatiedeskundige heeft als kenmerk dat hij na een gevolgde hbo- of wo-opleiding, een kopopleiding heeft doorlopen en afgerond. De kopopleiding moet voldoen aan de stand der wetenschap. Dit wil zeggen dat de student in ieder geval in de praktijk van het vak werkzaam is. Met het volgen van de kopopleiding wordt door het curriculum bepaald wat de basiscompetenties van de kerndeskundige zijn. Dit is het horizontale deel van het zogenaamde T-profiel.
 
 Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De Arbeids- en Organisatiedeskundige heeft als kenmerk dat hij na een gevolgde hbo- of wo-opleiding, een kopopleiding heeft doorlopen en afgerond. De kopopleiding moet voldoen aan de stand der wetenschap. Dit wil zeggen dat de student in ieder geval in de praktijk van het vak werkzaam is. Met het volgen van de kopopleiding wordt door het curriculum bepaald wat de basiscompetenties van de kerndeskundige zijn. Dit is het horizontale deel van het zogenaamde T-profiel.
 
@@ -8659,29 +8661,27 @@ De initiële of eerste certificering is vooral gericht op de generalist als begi
 
 De hercertificering moet meer tegemoet komen aan de profilering van de kerndeskundige. De specialisaties moeten hierin uitgelicht worden. In het competentieprofiel worden vijf kerntaken benoemd die in ieder geval uitgevoerd moeten worden. Hierin kan met verschillende competenties gewerkt worden.
 
-Gedurende de schorsing is de certificaathouder niet bevoegd tot het uitvoeren van de werkzaamheden zoals bedoeld in dit certificatieschema.
+De Arbeids- en Organisatiedeskundige houdt zich vooral bezig met het onderzoeken en/of adviseren op het gebied van gezonde organisaties. De Arbeids- en Organisatiedeskundige kan een organisatie gezond maken en/of houden door veranderkundige interventies in die organisatie door te voeren.
 
 De Arbeids- en Organisatiedeskundige houdt zich vooral bezig met het onderzoeken en/of adviseren op het gebied van gezonde organisaties. De Arbeids- en Organisatiedeskundige kan een organisatie gezond maken en/of houden door veranderkundige interventies in die organisatie door te voeren.
 
 In het competentieprofiel zijn de vijf kerntaken benoemd die de Arbeids- en Organisatiedeskundige uitvoert. Binnen elke kerntaak beschikt de Arbeids- en Organisatiedeskundige over verschillende competenties; minimaal een algemene en een beroepsspecifieke competentie per kerntaak. De kruisjes in de kerntaak-competentie-matrix (zie deel 4 van het Competentieprofiel Arbeids en Organisatiedeskundige), vormen de eerste fase en mogelijkheid van persoonlijke specialisatie van de Arbeids- en Organisatiedeskundige. Hierin kan bijvoorbeeld tot uitdrukking komen dat de Arbeids- en Organisatiedeskundige vooral adviserend of juist meer onderzoekend bezig is.
 
-Na intrekking mag een nieuw verzoek tot certificatie pas worden ingediend na het verstrijken van een periode van minimaal 12 maanden (zie WDAT-OCE). De CKI zorgt voor registratie van deze periode.
+Bovendien kan de Arbeids- en Organisatiedeskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
 
 Bovendien kan de Arbeids- en Organisatiedeskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
 
-Dit hoofdstuk bevat de werkveldspecifieke normen/eisen waaraan het te certificeren systeem dient te voldoen om voor certificatie in aanmerking te komen. De eisen in dit hoofdstuk vallen uiteen in: algemene eisen, eisen gesteld aan personeel en middelen, eisen gesteld aan het managementsysteem en proceseisen.
+Binnen de kennisgebieden van het A&O-vak kan de Arbeids- en Organisatiedeskundige zich ook specialiseren in bepaalde taakgebieden:
 
 Binnen de kennisgebieden van het A&O-vak kan de Arbeids- en Organisatiedeskundige zich ook specialiseren in bepaalde taakgebieden:
 
 Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Arbeids- en Organisatiedeskundige.
 
-Deel II van dit certificatieschema bevat de normen die gelden voor een certificaat of verklaring voor producten in een werkveld. Beschreven wordt achtereenvolgens:
+Tenslotte kan de Arbeids- en Organisatiedeskundige zich bijzonder bekwamen in bepaalde branches of sectoren zoals onderwijs, zorg, overheid, industrie, bouw en dergelijke.
 
 Tenslotte kan de Arbeids- en Organisatiedeskundige zich bijzonder bekwamen in bepaalde branches of sectoren zoals onderwijs, zorg, overheid, industrie, bouw en dergelijke.
 
 De specifieke specialisatie in kennis, taak en/of branche kan de kerndeskundige in zijn persoonlijke portfolio tot uitdrukking brengen. Het portfolio is onderdeel van het certificeringsdossier.
-
-De organisatie die is gecertificeerd conform deelgebied A dient te beschikken over een ontheffing krachtens [artikel 4 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4). Er dient aantoonbaar te worden voldaan aan de in deze ontheffing opgenomen eisen.
 
 Het onderwerp van certificatie betreft het proces van het verwijderen van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident incl. de oplevering van het asbestverwijderingswerk volgens de eisen van het certificatieschema. met als resultaat een locatie vrij van bronnen met secundaire asbestvezelemissie
 
@@ -8703,17 +8703,17 @@ Het systeemcertificaat zal worden ingetrokken indien het resultaat van de schors
 
 Document: WDAT-OCE: 2012, versie 1
 
+Document: WDAT-OCE: 2012, versie 1
+
 **Onder beheer van:**
 
 Stichting Certificering Vuurwerk & Explosieven (SCVE)
-
-Aantonen dat deskundig personeel voldoet aan de eindtermen kan op de volgende wijzen plaatsvinden.
 
 Voorwaarden voor examinering:
 
 Het opsporen van conventionele explosieven betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het opsporen van conventionele explosieven. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te zijn aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T en aan de eisen uit de wet. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
-De organisatie dient:
+Het opsporen van conventionele explosieven betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het opsporen van conventionele explosieven. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te zijn aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T en aan de eisen uit de wet. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
 bestemd voor: het met geringe fysieke belasting hijsen van bouwmaterialen,
 
@@ -8721,11 +8721,13 @@ Om de gezondheid en veiligheid van medewerkers bij uitoefening van hun werkzaamh
 
 Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-OCE) heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen OCE.
 
-De organisatie dient te beschikken over een risico-inventarisatie & -evaluatie (RI&E), welke voldoet aan de vigerende arboregelgeving. In aanvulling daarop dient de organisatie te beschikken over specifieke taak risico analyses (TRA’s) voor risicovolle handelingen en activiteiten tijdens de procesgang. Voor het opstellen en onderhouden van deze TRA’s dient de organisatie te beschikken over een procedure voor de identificatie en evaluatie van de kwaliteits- en veiligheidsaspecten voor en tijdens de activiteiten, alsmede de daaraan gekoppelde effecten op werknemers en omgeving. Indien men hiervan afwijkt dient men minimaal de gelijkwaardigheid aan te kunnen tonen. Het gaat hierbij om aspecten, inclusief invloeden van buitenaf, die beheerst kunnen worden en waarvan mag worden aangenomen dat de organisatie hierop invloed uit kan oefenen.
+Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-OCE) heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen OCE.
 
 Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest.
 
-Overeenkomstig de arbeidsomstandighedenwetgeving dient de organisatie op basis van de resultaten uit risico-inventarisaties en taakrisicoanalyses te identificeren welke PBM noodzakelijk zijn voor de uitvoering van werkzaamheden. Voor het verstrekken, het onderhoud en de vervanging van PBM’s, dient een systeem te worden ingericht. Het projectplan dient bepalingen te bevatten ten aanzien van de toepassing van PBM. De PBM dienen afgestemd te zijn op de voorkomende activiteiten en de geïdentificeerde risico's.
+Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest.
+
+Systeemcertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden dat een managementsysteem aan vastgestelde eisen voldoet Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de certificatieregeling Opsporen Conventionele Explosieven worden geschaad en zouden bijvoorbeeld ten onrechte certificaten kunnen worden afgegeven dan wel geweigerd. In het WSCS-OCE, alsmede in onderhavig document, is specifiek voor de systeemcertificatieregeling Opsporen Conventionele Explosieven aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
 
 Systeemcertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden dat een managementsysteem aan vastgestelde eisen voldoet Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de certificatieregeling Opsporen Conventionele Explosieven worden geschaad en zouden bijvoorbeeld ten onrechte certificaten kunnen worden afgegeven dan wel geweigerd. In het WSCS-OCE, alsmede in onderhavig document, is specifiek voor de systeemcertificatieregeling Opsporen Conventionele Explosieven aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
 
@@ -8745,73 +8747,73 @@ Ten behoeve van het certificatieproces, is het van belang dat de CKI beschikt ov
 
 Partijen die belang hebben bij certificatie verwachten dat klachten worden onderzocht en dat deze, als ze terecht zijn, worden gevolgd door passende maatregelen. Een effectieve klachtenbehandeling is van belang voor de bescherming van de CKI, diens klanten en andere belanghebbenden bij certificatie tegen fouten, omissies of onredelijk gedrag. Het vertrouwen dat door belanghebbenden wordt gesteld in certificatie, is mede hiervan afhankelijk.
 
-De resultaten van deze beoordeling worden geregistreerd. Derden betrokken bij het project worden vooraf op de hoogte gesteld van de relevante projectinformatie. De inhuur ten behoeve van de opsporing vindt plaats door en onder verantwoordelijkheid van een organisatie die (mede) is gecertificeerd conform deelgebied A. Inhuur ten behoeve van het civieltechnisch opsporingsproces vindt plaats door en onder verantwoordelijkheid van een organisatie die (mede) is gecertificeerd conform deelgebied B.
-
 Een certificaat is drie jaar geldig. Na die periode dient opnieuw een examen te worden afgelegd volgens de bovengenoemde voorwaarden, waarbij alle toepasselijke eindtermen worden afgetoetst.
 
 Het beoordelen en aanwijzen van CKI’s voor dit schema voor aanwijzing en toezicht vindt plaats op basis van de ISO/IEC 17021 en IAF-MD1 tot en met IAF-MD5, alsmede de eisen die gesteld worden aan de CKI op grond van voorliggend schema voor aanwijzing en toezicht. Waar in dit document niet wordt afgeweken van de accreditatienorm ISO/IEC 17021 resp. deze norm niet nader wordt ingevuld, gelden onverkort de eisen uit deze accreditatienorm.
 
-Ten behoeve van de (initiële en jaarlijkse) validatie wordt door de organisatie een validatieprotocol vastgesteld, waarin ten minste de volgende zaken aan de orde komen:
+Het beoordelen en aanwijzen van CKI’s voor dit schema voor aanwijzing en toezicht vindt plaats op basis van de ISO/IEC 17021 en IAF-MD1 tot en met IAF-MD5, alsmede de eisen die gesteld worden aan de CKI op grond van voorliggend schema voor aanwijzing en toezicht. Waar in dit document niet wordt afgeweken van de accreditatienorm ISO/IEC 17021 resp. deze norm niet nader wordt ingevuld, gelden onverkort de eisen uit deze accreditatienorm.
 
 Bij het uitvoeren van beoordelingen en het afgeven, schorsen en intrekken van certificaten volgens WSCS-OCE, worden de volgende functies onderscheiden: auditor en beslisser. Op deze functies en het beleid en handelen van de CKI in relatie tot deze functies, zijn de eisen uit paragraaf 7.2.1 tot en met 7.2.12 van ISO 17021 onverkort van toepassing. De, specifiek in het kader van systeemcertificatie OCE, aan dit personeel gestelde eisen zijn hierna weergegeven.
 
-De organisatie dient een overzicht van alle binnen de organisatie gebruikte detectieapparaten op te stellen en actueel te houden. Voor elke detector dient een werkinstructie te worden opgesteld. De bediening van detectieapparatuur dient te geschieden door een persoon die aantoonbaar deskundig is voor het werken met het desbetreffende detectieapparaat. De organisatie dient een procedure op te stellen hoe deze deskundigheid wordt gewaarborgd en geregistreerd.
+Bij het uitvoeren van beoordelingen en het afgeven, schorsen en intrekken van certificaten volgens WSCS-OCE, worden de volgende functies onderscheiden: auditor en beslisser. Op deze functies en het beleid en handelen van de CKI in relatie tot deze functies, zijn de eisen uit paragraaf 7.2.1 tot en met 7.2.12 van ISO 17021 onverkort van toepassing. De, specifiek in het kader van systeemcertificatie OCE, aan dit personeel gestelde eisen zijn hierna weergegeven.
 
 De lead auditoren die door de CKI worden ingezet voor het uitvoeren van beoordelingen in het kader van het WSCS-OCE dienen te voldoen aan de volgende eisen:
 
-Meet- en detectieapparatuur dient te worden beveiligd tegen oneigenlijke justering of andere invloeden die de resultaten negatief kunnen beïnvloeden. Registraties van validatie, kalibratie, keuringen en onderhoud dienen tenminste voor een periode van 5 jaar te worden bewaard, tenzij een wettelijke regeling een langere termijn voorschrijft.
+De lead auditoren die door de CKI worden ingezet voor het uitvoeren van beoordelingen in het kader van het WSCS-OCE dienen te voldoen aan de volgende eisen:
 
 De beslisser die door de CKI wordt ingezet voor het certificatieonderzoek dient te voldoen aan de volgende eisen:
 
-Met betrekking tot het zorgvuldig, arbeidshygiënisch en milieuhygiënisch asbestverwijderen dient de directie ervoor te zorgen dat het beleid:
+De beslisser die door de CKI wordt ingezet voor het certificatieonderzoek dient te voldoen aan de volgende eisen:
 
 De vakdeskundige die door de CKI wordt ingezet voor het certificatieonderzoek dient te voldoen aan de volgende eisen:
 
-bestaande uit:
+De vakdeskundige die door de CKI wordt ingezet voor het certificatieonderzoek dient te voldoen aan de volgende eisen:
 
 De gegevens op het systeemcertificaat OCE moeten in overeenstemming zijn met de eisen van paragraaf 8.2.1 tot en met 8.2.3 van ISO 17021. De gegevens die specifiek in het kader van systeemcertificatie OCE op het certificaat moeten worden vermeld zijn:
 
-Het staat de organisatie vrij om de verschijningsvorm (bijv. elektronisch, hardcopy) van het systeem af te stemmen op de bedrijfsorganisatie. Uitsluitingen van normparagrafen zijn slechts mogelijk op basis van de deelgebieden zoals toegelicht in hoofdstuk 1.
+De gegevens op het systeemcertificaat OCE moeten in overeenstemming zijn met de eisen van paragraaf 8.2.1 tot en met 8.2.3 van ISO 17021. De gegevens die specifiek in het kader van systeemcertificatie OCE op het certificaat moeten worden vermeld zijn:
+
+De CKI sluit een overeenkomst met SCVE. De CKI verplicht zich op grond van deze overeenkomst tot het gebruik van de door het CCvD OCE vastgestelde documenten, in ieder geval bestaande uit het WSCS-OCE en WDAT-OCE. De CKI past deze documenten onverkort toe. De CKI kan niet bepalen welke elementen uit het certificatieschema en eventuele andere door het CCvD OCE vastgestelde documenten gewijzigd worden. Wijzigingsvoorstellen worden door de CKI voorgelegd aan het CCvD. Het CCvD besluit vervolgens of wijziging van het certificatieschema wenselijk is en zo ja, welke overgangsregeling daarop van toepassing moet zijn, waarna de Minister van SZW zal beoordelen of het wijzigingsvoorstel en de overgangsregeling al dan niet ongewijzigd worden overgenomen.
 
 De CKI sluit een overeenkomst met SCVE. De CKI verplicht zich op grond van deze overeenkomst tot het gebruik van de door het CCvD OCE vastgestelde documenten, in ieder geval bestaande uit het WSCS-OCE en WDAT-OCE. De CKI past deze documenten onverkort toe. De CKI kan niet bepalen welke elementen uit het certificatieschema en eventuele andere door het CCvD OCE vastgestelde documenten gewijzigd worden. Wijzigingsvoorstellen worden door de CKI voorgelegd aan het CCvD. Het CCvD besluit vervolgens of wijziging van het certificatieschema wenselijk is en zo ja, welke overgangsregeling daarop van toepassing moet zijn, waarna de Minister van SZW zal beoordelen of het wijzigingsvoorstel en de overgangsregeling al dan niet ongewijzigd worden overgenomen.
 
 De CKI dient de certificaathouders onverwijld te berichten als de eisen voor certificatie volgens het WSCS-OCE gaan veranderen.
 
-De in dit certificatieschema genoemde projectdocumenten worden minimaal 5 jaar bewaard, tenzij een wettelijke regeling een langere bewaartermijn vereist.
+De door de CKI te volgen werkwijze bij het initiële certificatieonderzoek dient in overeenstemming te zij met de eisen van paragraaf 9.2.1 tot en met 9.2.5.2 van ISO 17021. Aanvullend hierop worden bij het beslissen omtrent certificatieaanvragen de relevante bepalingen en procedures uit het WSCS-OCE in acht genomen. De geldigheidsduur van certificaten kan niet automatisch worden verlengd.
 
 De door de CKI te volgen werkwijze bij het initiële certificatieonderzoek dient in overeenstemming te zij met de eisen van paragraaf 9.2.1 tot en met 9.2.5.2 van ISO 17021. Aanvullend hierop worden bij het beslissen omtrent certificatieaanvragen de relevante bepalingen en procedures uit het WSCS-OCE in acht genomen. De geldigheidsduur van certificaten kan niet automatisch worden verlengd.
 
-Registraties moeten worden vastgesteld en bijgehouden om het bewijs te leveren van het voldoen aan de eisen en van de doeltreffende werking van het managementsysteem. De organisatie dient alle voor dit doel noodzakelijke registraties alsmede de in dit schema voorgeschreven registraties te identificeren en door middel van een gedocumenteerde procedure te beheersen, inclusief een opgave van de bewaartermijn en de wijze van vernietiging. Registraties moeten leesbaar, herkenbaar en terug te vinden zijn.
+De door de CKI te volgen werkwijze bij het toezicht van houders van het systeemcertificaat OCE dient in overeenstemming te zijn met de eisen van paragraaf 9.3.1.1 en 9.3.1.2 van ISO 17021. Aanvullend hierop worden bij houden van toezicht op de certificaathouders de bepalingen en procedures uit het WSCS-OCE in acht genomen door de CKI.
 
 De door de CKI te volgen werkwijze bij het toezicht van houders van het systeemcertificaat OCE dient in overeenstemming te zijn met de eisen van paragraaf 9.3.1.1 en 9.3.1.2 van ISO 17021. Aanvullend hierop worden bij houden van toezicht op de certificaathouders de bepalingen en procedures uit het WSCS-OCE in acht genomen door de CKI.
 
-De organisatie moet haar operationele organisatiestructuur vastleggen in een organisatieschema. Uit dit schema moeten de operationele relaties tussen de vermelde functies blijken. Het management van de organisatie moet bewerkstelligen dat de verantwoordelijkheden en bevoegdheden zijn gedefinieerd, vastgelegd en kenbaar gemaakt in de organisatie.
+De door de CKI te volgen werkwijzen met betrekking tot schorsing of intrekking van een systeemcertificaat OCE of beperking van het werkterrein (scope) van een systeemcertificaat OCE, dienen in overeenstemming te zij met de eisen van paragraaf 9.6.1 tot en met 9.6.7 van ISO 17021. Aanvullend hierop worden, ingeval van schorsing of intrekking van een systeemcertificaat OCE of beperking van het werkterrein (scope) van een systeemcertificaat OCE, de bepalingen en procedures uit het WSCS-OCE in acht genomen door de CKI.
 
 De door de CKI te volgen werkwijzen met betrekking tot schorsing of intrekking van een systeemcertificaat OCE of beperking van het werkterrein (scope) van een systeemcertificaat OCE, dienen in overeenstemming te zij met de eisen van paragraaf 9.6.1 tot en met 9.6.7 van ISO 17021. Aanvullend hierop worden, ingeval van schorsing of intrekking van een systeemcertificaat OCE of beperking van het werkterrein (scope) van een systeemcertificaat OCE, de bepalingen en procedures uit het WSCS-OCE in acht genomen door de CKI.
 
-De resultaten van de validatie worden gerapporteerd, waarin tevens een vergelijking plaatsvindt met de specificaties van de gebruikershandleiding en/of de resultaten van vorige validaties.
+Indien de CKI schriftelijk door de Inspectie SZW, dan wel door een andere overheidsinstantie, wordt geïnformeerd over een door deze instantie opgelegde sanctie (stillegging, proces verbaal of zware boete) bij een certificaathouder of aanvrager, dient de CKI als volgt te handelen:
 
 Indien de CKI schriftelijk door de Inspectie SZW, dan wel door een andere overheidsinstantie, wordt geïnformeerd over een door deze instantie opgelegde sanctie (stillegging, proces verbaal of zware boete) bij een certificaathouder of aanvrager, dient de CKI als volgt te handelen:
 
 Indien door de CKI bij het uitvoeren van beoordelingen situaties worden aangetroffen waarin de veiligheid of gezondheid van werknemers of derden door de organisatie in gevaar is of wordt gebracht, wordt de Inspectie SZW hiervan op de hoogte gesteld. Daarbij wordt tevens medegedeeld welke maatregelen door de CKI worden genomen. De CKI stelt de organisatie op de hoogte van het feit dat de Inspectie SZW is geïnformeerd.
 
-De organisatie dient in haar managementsysteem de interne communicatieprocessen vast te leggen voor zover deze betrekking hebben op de werkzaamheden binnen de werkingssfeer van dit certificatieschema. Geïdentificeerd dient te worden:
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
 De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
-De output van de directiebeoordeling moet bestaan uit de besluiten en maatregelen met betrekking tot:
-
 In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling.
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling.
 
 Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
-De organisatie moet de benodigde bewaking-, meet- en analyseprocessen bepalen, plannen en invoeren om:
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Scrt. 2010, nr. 10839 van 14 juli 2010.
 
 Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Scrt. 2010, nr. 10839 van 14 juli 2010.
 
-De organisatie dient binnen haar managementsysteem te voorzien in periodieke werkplekinspecties om tijdig te signaleren of werkplekcondities en gedrag of handelingen van medewerkers en derden leiden tot onveilige situaties die resulteren in afwijkingen, incidenten of ongevallen.
-
 Daartoe dient in het managementsysteem ten minste het volgende te zijn vastgelegd:
+
+Document: WSCS-OCE: 2012, versie 1
 
 Document: WSCS-OCE: 2012, versie 1
 
@@ -8819,9 +8821,9 @@ Document: WSCS-OCE: 2012, versie 1
 
 Stichting Certificatie Vuurwerk & Explosieven (SCVE)
 
-Ten aanzien van de bekwaamheid en beoordeling van auditors dient de organisatie een procedure in te richten welke aansluit op de eisen van de NEN-EN-ISO 19011:2002 Richtlijnen voor het uitvoeren van kwaliteits – en/of milieumanagementsysteemaudits. Door de keuze van auditors en het uitvoeren van audits moeten de objectiviteit en onpartijdigheid van het auditproces gegarandeerd worden. De auditors mogen geen audit uitvoeren over hun eigen werk en dienen voldoende gekwalificeerd te zijn.
-
 Er dient een gedocumenteerde procedure te zijn waarin is vastgelegd hoe:
+
+Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke certificatieschema is opgesteld door de Stichting Certificatie Vuurwerk & Explosieven (SCVE). Door het Ministerie van SZW zal dit certificatieschema worden vastgesteld.
 
 Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Dit werkveldspecifieke certificatieschema is opgesteld door de Stichting Certificatie Vuurwerk & Explosieven (SCVE). Door het Ministerie van SZW zal dit certificatieschema worden vastgesteld.
 
@@ -8835,21 +8837,21 @@ Het staat organisaties vrij zich te bekwamen en in te richten voor één of beid
 
 Dit certificatieschema is opgebouwd uit twee delen, namelijk Deel I met algemene bepalingen en Deel II met normen. De normen waaraan de certificatie-instelling(en) dienen te voldoen om door de minister van Sociale Zaken en Werkgelegenheid aangewezen te worden voor het certificeren van bedrijven volgens dit certificatieschema, zijn opgenomen in het Werkveldspecifiek document voor aanwijzing en toezicht behorend bij het WSCS-OCE.
 
-– onderstel;
-
 De organisatie dient procedures en beheersmaatregelen vast te stellen en te documenteren waarmee de waarschijnlijkheid van en reactie op mogelijke incidenten en noodsituaties kan worden beheerst ten einde de situaties te voorkomen of uitbreiding hiervan te beperken. Deze procedure dient ten minste de volgende taken te bevatten:
 
 Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid van het opsporen van conventionele explosieven.
 
-De organisatie moet de benodigde bewaking-, meet- en analyseprocessen bepalen, plannen en invoeren om:
+Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid van het opsporen van conventionele explosieven.
 
 Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Het werkveldspecifieke document is door de minister van SZW vastgesteld. De minister van SZW kan na overleg met het werkveld wijzigingen aanbrengen in de vastgestelde schema. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het College van Deskundigen OCE.
 
-De organisatie dient bij aanvang van het onderzoek na te gaan of er in het verleden onderzoek is uitgevoerd naar de aanwezigheid van CE, en zo ja, te rapporteren op welke wijze deze informatie is betrokken bij het onderzoek.
+Het werkveldspecifieke certificatieschema WSCS-OCE heeft betrekking op het opsporen van Conventionele Explosieven die in de (water)bodem zijn achtergebleven tijdens de Eerste en Tweede Wereldoorlog. Het werkveldspecifieke document is door de minister van SZW vastgesteld. De minister van SZW kan na overleg met het werkveld wijzigingen aanbrengen in de vastgestelde schema. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het College van Deskundigen OCE.
 
 Binnen het kader van dit certificatieschema zijn in hoofdzaak de volgende soorten partijen actief:
 
-Het bronnenonderzoek vindt plaats op basis van een inventarisatie van:
+Binnen het kader van dit certificatieschema zijn in hoofdzaak de volgende soorten partijen actief:
+
+Hoofdrisico van het werkveld van het opsporen van conventionele explosieven is het onverhoeds aantreffen van CE bij het uitvoeren van werkzaamheden in de (water)bodem en/of de ondeskundige en onzorgvuldige omgang met aangetroffen CE. Hierdoor bestaat het gevaar op het ongewenst tot (uit)werking komen van CE en dat kan grote uitwerkingsgevolgen teweegbrengen. De belangrijkste daarvan zijn luchtdruk, schokgolf en scherfwerking, welke een groot gevaar vormen voor de veiligheid en gezondheid van bij het opsporen van CE betrokken werknemers en andere personen.
 
 Hoofdrisico van het werkveld van het opsporen van conventionele explosieven is het onverhoeds aantreffen van CE bij het uitvoeren van werkzaamheden in de (water)bodem en/of de ondeskundige en onzorgvuldige omgang met aangetroffen CE. Hierdoor bestaat het gevaar op het ongewenst tot (uit)werking komen van CE en dat kan grote uitwerkingsgevolgen teweegbrengen. De belangrijkste daarvan zijn luchtdruk, schokgolf en scherfwerking, welke een groot gevaar vormen voor de veiligheid en gezondheid van bij het opsporen van CE betrokken werknemers en andere personen.
 
@@ -8859,27 +8861,27 @@ Om de risico’s van het ongewenst tot uitwerking komen van CE zoveel mogelijk t
 
 Het hoofdrisico van het onverhoeds aantreffen van CE bij het uitvoeren van werkzaamheden in de (water)bodem en/of de ondeskundige en onzorgvuldige omgang met aangetroffen CE, worden in tabel 3.1 uitgewerkt in afbreukcriteria. Per afbreukcriterium wordt de uitwerking daarvan in werkveldspecifieke eisen weergegeven, met een verwijzing naar de relevante normparagrafen in dit certificatieschema.
 
-Bij het raadplegen van het gemeentelijke en provinciaal archief dienen ten minste de stukken van de luchtbeschermingsdienst, de stukken over aangetroffen/geruimde CE en de oorlogsschaderapporten te worden geraadpleegd. Indien deze stukken niet aanwezig zijn, dient dit te worden vermeld in de rapportage.
-
 Indien er indicaties zijn voor de aanwezigheid van CE dient in het gemeentelijke en provinciaal archief voorts te worden gezocht naar gegevens over relevante naoorlogse ontwikkelingen (contra indicaties), tenzij andere bronnen hierover reeds voldoende informatie hebben opgeleverd. Indien deze gegevens niet aanwezig zijn, dient dit te worden vermeld in de rapportage.
 
 Dit deel van het schema omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet onder meer gedacht worden aan:
 
-De organisatie dient beschikbare luchtfoto’s betreffende de datum waarop de oorlogshandelingen hebben plaatsgevonden te inventariseren. Daaruit worden de bruikbare luchtfoto’s geselecteerd. Bij de selectie van luchtfoto’s dient rekening te worden gehouden met: opnamedatum in relatie tot oorlogshandelingen, kwaliteit van het fotobeeld en de schaal. De organisatie interpreteert de geselecteerde luchtfoto’s ten minste op schade aan het landschap als gevolg van oorlogshandelingen en de aanwezigheid van militaire werken. De interpretatie van luchtfoto’s dient te geschieden door een deskundige met ervaring in de interpretatie van luchtfoto’s uit het tijdvak 1940-1945. De organisatie dient de beschikbare luchtfoto’s te rapporteren en daarin tevens de selectie te motiveren.
+Dit deel van het schema omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet onder meer gedacht worden aan:
 
 De organisatie dient bij een CKI, in overeenstemming met de certificatieprocedure, een aanvraag in voor het systeemcertificaat Opsporen Conventionele Explosieven. Deze paragraaf is van toepassing op aanvragen om initiële certificatie (organisatie beschikt nog niet over een certificaat) en op aanvragen om hercertificatie (hercertificatie voorafgaand aan het verstrijken van de geldigheidsduur van het certificaat). De frequentie van toezicht en de wijze van tussentijdse beoordeling door de certificatie-instelling staat beschreven in hoofdstuk 5.
 
-Deze procedure dient ten minste te bevatten:
+De organisatie dient bij een CKI, in overeenstemming met de certificatieprocedure, een aanvraag in voor het systeemcertificaat Opsporen Conventionele Explosieven. Deze paragraaf is van toepassing op aanvragen om initiële certificatie (organisatie beschikt nog niet over een certificaat) en op aanvragen om hercertificatie (hercertificatie voorafgaand aan het verstrijken van de geldigheidsduur van het certificaat). De frequentie van toezicht en de wijze van tussentijdse beoordeling door de certificatie-instelling staat beschreven in hoofdstuk 5.
 
 De CKI dient de aanvraag voor een certificaat in overeenstemming met het binnen deze CKI geldende reglement te behandelen. De CKI is verplicht om de organisatie over dit reglement te informeren.
 
-De collectie ‘Duitse verdedigingswerken in Nederland en rapporten van het Bureau Inlichtingen te Londen (1940–1945)’ met collectienummer 575 van het Nederlands Instituut voor Militaire Historie dient ten minste te worden geraadpleegd indien uit raadpleging van de verplichte bronnen blijkt dat er indicaties zijn dat Duitse militaire werken in het onderzoeksgebied aanwezig waren tijdens de Tweede Wereldoorlog.
+De CKI dient de aanvraag voor een certificaat in overeenstemming met het binnen deze CKI geldende reglement te behandelen. De CKI is verplicht om de organisatie over dit reglement te informeren.
+
+De aanvrager van het certificaat stelt ten behoeve van het certificatieonderzoek aan de certificerende instelling de systeemdocumentatie ter beschikking, inclusief een matrix waarin een relatie wordt gelegd tussen het eigen managementsysteem en de corresponderende normelementen uit het WSCS-OCE. Het certificatieonderzoek wordt uitgevoerd volgens het certificatiereglement van de CKI en bestaat uit twee fasen, namelijk een vooronderzoek en een implementatieonderzoek.
 
 De aanvrager van het certificaat stelt ten behoeve van het certificatieonderzoek aan de certificerende instelling de systeemdocumentatie ter beschikking, inclusief een matrix waarin een relatie wordt gelegd tussen het eigen managementsysteem en de corresponderende normelementen uit het WSCS-OCE. Het certificatieonderzoek wordt uitgevoerd volgens het certificatiereglement van de CKI en bestaat uit twee fasen, namelijk een vooronderzoek en een implementatieonderzoek.
 
 De certificerende instelling stelt een onderzoek in naar:
 
-Aanvullend onderzoek omvat één of meerdere van de onderstaande buitenlandse archieven:
+Een certificaat kan worden afgegeven indien wordt voldaan aan de eisen van dit certificatieschema.
 
 Een certificaat kan worden afgegeven indien wordt voldaan aan de eisen van dit certificatieschema.
 
@@ -8891,63 +8893,63 @@ De beoordeling van dossiers van uitgevoerde vooronderzoeken in het kader van de 
 
 Het uitvoeren van opsporingsprojecten in het kader van de initiële beoordeling door de CKI volgens paragraaf 5.2 vindt plaats nadat de documentbeoordeling door de CKI met positief resultaat is afgerond. De aanvrager meldt deze projecten conform paragraaf 5.1 aan de CKI en de projecten worden pas uitgevoerd nadat de CKI daarmee heeft ingestemd. Indien één van beide projecten niet positief beoordeeld wordt, wordt dezelfde procedure gevolgd voor het uitvoeren en beoordelen van een derde project.
 
-Bij de beoordeling en evalueren van het bronnenmateriaal worden de volgende uitgangspunten gehanteerd:
+Een certificaat wordt geweigerd,, geschorst of ingetrokken indien:
 
 Een certificaat wordt geweigerd,, geschorst of ingetrokken indien:
 
 Zie hierbij ook paragraaf 5.4.
 
-In overleg met de opdrachtgever kan voorts worden besloten om het vooronderzoek (eerst) uitsluitend te richten op de indicaties die wijzen op de vermoedelijke aanwezigheid van CE en geen onderzoek te doen naar mogelijke contra-indicaties over de periode 1945 – heden. In dat geval wordt (in eerste instantie) geen onderzoek gedaan naar bijvoorbeeld naoorlogse ontwikkelingen in het onderzoeksgebied, die relevante contra-indicaties kunnen opleveren. Deze onderzoeksbeperking wordt onder opgave van reden in het rapport beschreven.
+Na de certificatieperiode van drie jaar dient een complete beoordeling van de certificatie-eisen/normelementen (zie deel II) uitgevoerd te worden. Hierbij wordt mede gebruik gemaakt van de resultaten van voorgaande beoordelingen. Hercertificatie dient plaats te vinden voorafgaand aan het verstrijken van de geldigheidsduur van het certificaat. Zie verder hoofdstuk 5 van dit certificatieschema.
 
 Na de certificatieperiode van drie jaar dient een complete beoordeling van de certificatie-eisen/normelementen (zie deel II) uitgevoerd te worden. Hierbij wordt mede gebruik gemaakt van de resultaten van voorgaande beoordelingen. Hercertificatie dient plaats te vinden voorafgaand aan het verstrijken van de geldigheidsduur van het certificaat. Zie verder hoofdstuk 5 van dit certificatieschema.
 
-Het resultaat van het vooronderzoek omvat een rapportage en een daarbij behorende digitale CE bodembelastingkaart.
+Indien een organisatie na een intrekking opnieuw gecertificeerd wil worden, dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Na intrekking mag een nieuw verzoek tot certificatie pas worden ingediend na het verstrijken van een periode van minimaal 12 maanden (zie WDAT-OCE). De CKI zorgt voor registratie van deze periode.
 
 Indien een organisatie na een intrekking opnieuw gecertificeerd wil worden, dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Na intrekking mag een nieuw verzoek tot certificatie pas worden ingediend na het verstrijken van een periode van minimaal 12 maanden (zie WDAT-OCE). De CKI zorgt voor registratie van deze periode.
 
-De bronverwijzingen in het rapport bevatten minimaal een collectie-, archief- en/of inventarisnummer. Indien luchtfoto’s zijn geraadpleegd, dienen aanvullend het sortienummer en het luchtfotonummer te worden vermeld.
+De certificatiebeslissing wordt genomen in overeenstemming met de eisen uit het certificatieschema door een functionaris van de certificatie-instelling die is gekwalificeerd en aangesteld conform het kwaliteitssysteem van de CKI en die volgens de procedure onder 4.2 niet betrokken is geweest bij de beoordeling van het systeem.
 
 De certificatiebeslissing wordt genomen in overeenstemming met de eisen uit het certificatieschema door een functionaris van de certificatie-instelling die is gekwalificeerd en aangesteld conform het kwaliteitssysteem van de CKI en die volgens de procedure onder 4.2 niet betrokken is geweest bij de beoordeling van het systeem.
 
-Het rapport en de CE bodembelastingkaart dienen te worden geaccordeerd door een door het management bevoegd persoon.
+De maximale geldigheidsduur van het systeemcertificaat is 3 jaar.
 
 De maximale geldigheidsduur van het systeemcertificaat is 3 jaar.
 
-Deze paragraaf is van toepassing op het opsporen van CE. De organisatie moet de processen die nodig zijn voor het realiseren van de opsporing plannen, voorbereiden en uitvoeren conform de eisen als gesteld in deze paragraaf. De organisatie dient voor de beheersing van processen werkinstructies op te stellen waarmee wordt geborgd dat deze worden uitgevoerd op een manier die overeenkomt met de daartoe gestelde eisen (normatief of door de opdrachtgever vastgesteld).
-
 Het systeemcertificaat dient minimaal de navolgende gegevens te bevatten:
 
-De handelingen genoemd onder punt 2 t/m 4 kunnen cyclisch worden verricht. Dit wordt aangeduid als benaderen. In plaats van benaderen kan er voor worden gekozen om munitiescheiding toe te passen. In dat geval is paragraaf 6.6.6 van toepassing.
+Het systeemcertificaat dient minimaal de navolgende gegevens te bevatten:
 
 Indien de verplichte luchtfotoarchieven onvoldoende resultaat opleveren, wordt aanvullend de Luchtfotocollectie The Aerial Reconnaissance Archives geraadpleegd. Op de inventarisatie en selectie van luchtfoto’s is hetgeen bepaald onder verplichte bronnen van toepassing.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
-Aan een CKI worden onder meer de volgende eisen gesteld:
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
-Op de algemene regel zoals hierboven genoemd onder punt 1, gelden de volgende uitzonderingen:
+Aan een CKI worden onder meer de volgende eisen gesteld:
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-De organisatie moet de processen die nodig zijn voor een veilige, deskundige en juiste uitvoering van het project identificeren en plannen. Ten behoeve daarvan dient te worden voorzien in een schriftelijke procedure voor de werkvoorbereiding, waarin ten minste aandacht wordt besteedt aan:
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
 De werkvoorbereiding dient ten minste te resulteren in een projectplan. De organisatie dient te beschikken over een procedure inzake hoe te handelen bij het spontaan aantreffen van CE.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. De cki dient te beschikken over een formulier voor de registratie van klachten.
 
-Ten behoeve van de opsporing wordt een projectplan opgesteld. Het projectplan omvat ten minste de volgende onderdelen:
+In deze werkinstructie wordt de afhandeling van een klacht besproken. De cki dient te beschikken over een formulier voor de registratie van klachten.
+
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
 Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
 De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht
 
-De bronverwijzingen in het rapport bevatten minimaal een collectie-, archief- en/of inventarisnummer. Indien luchtfoto’s zijn geraadpleegd, dienen aanvullend het sortienummer en het luchtfotonummer te worden vermeld.
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte;
 
 Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte;
 
 legt dossier aan ten behoeve van de voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
 
-Bij aanpassing van de navolgende onderdelen van het projectplan dient aan de gemeente en de opdrachtgever opnieuw om goedkeuring te worden gevraagd: projectgebonden risico-evaluatie, de beschrijving van de te treffen veiligheidsmaatregelen en het VGM-plan.
+Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze.
 
 Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze.
 
@@ -8963,23 +8965,21 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Er vindt deugdelijke archivering plaats van ontvangen en behandelde klachten.
 
-Woningcorporaties kunnen als opdrachtgever voor veel voorkomende werkzaamheden in de gemeentes waar zij werken een parapluvergunning aanvragen. In de parapluvergunning geeft de gemeente de woningcorporatie vergunning tot het verwijderen van asbesthoudende materialen uit haar woningbezit bij mutatie- en klachtenonderhoud, onder voorwaarde dat de woningcorporatie zich houdt aan de werkwijze die in het Protocol Verwijdering Asbesthoudende materialen bij mutatie- en klachtenonderhoud staat beschreven en onder voorwaarde dat de woningcorporatie de adresgegevens van de betreffende woningen tijdig voor aanvang van de verwijdering aan de gemeente meldt. Een kopie van de parapluvergunning met de melding zijn gelijk te stellen met een omgevingsvergunning. De eis dat er een asbestinventarisatie van alle direct en niet-direct waarneembare asbest of asbesthoudende producten etc. is uitgevoerd, blijft onverkort van toepassing. De woningcorporaties handelen in deze niet anders dan in het geval van een omgevingsvergunning voor het slopen.
-
 Bij aanvang van de detectiewerkzaamheden dienen de projectgegevens zoals opgenomen in het projectplan te worden geverifieerd. De verificatie wordt aangetekend op de veldwerkregistraties. Ingeval van afwijkende omstandigheden die van invloed zijn op de kwaliteit van de detectie, dient terugkoppeling plaats te vinden met de werkvoorbereiding. De bediening van detectieapparatuur dient te voldoen aan paragraaf 6.3.3.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
-De resultaten van het detectieonderzoek dienen te worden geregistreerd, waarbij in ieder geval wordt aangegeven:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 De veldwerkregistraties worden ingevuld door of onder verantwoordelijkheid van de OCE-deskundige.
+
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Het bezwaar wordt verder niet-ontvankelijk verklaard als het, bij het niet van toepassing zijn van een termijn, onredelijk laat wordt ingediend. Dit geldt uitsluitend wanneer het bezwaar betrekking heeft op het niet tijdig nemen van een besluit
 
 Het bezwaarschrift schort de werking van het besluit niet op
-
-De computerondersteunde detectie resulteert in een objectenlijst met ten minste:
 
 Ten behoeve van het opstellen van een objectenlijst vindt na uitvoering van de meting een beoordeling van de meetgegevens plaats door of onder verantwoordelijkheid van de Senior OCE-deskundige. Dit dient aantoonbaar te worden gemaakt in de rapportage van de detectie. In deze rapportage wordt duidelijk aangegeven en beargumenteerd op welke wijze de meetgegevens zijn gemodelleerd, mede in relatie tot de resultaten van het vooronderzoek. In de rapportage van de detectie worden aanbevelingen gedaan voor de verdere aanpak van benaderen.
 
@@ -8989,17 +8989,19 @@ Door middel van het lokaliseren wordt de ligplaats van de gedetecteerde objecten
 
 De CKI registreert de actuele gegevens van certificaathouders. Conform de overeenkomst met de SCVE worden de gegevens elektronisch verzonden aan SCVE ten behoeve van het SCVE Certificaatregister. Weigeren, opschorten of intrekken van certificaten dienen door de CKI onmiddellijk te worden doorgegeven aan SCVE en de andere CKI’s. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
 
-De organisatie dient te beschikken over een schriftelijke procedure voor de uitvoering van de projectgebonden risico-evaluatie, met expliciet daarin opgenomen de herleidbaarheid en volledigheid van de evaluatie. Tevens dienen de verantwoordelijkheden van de Senior OCE-deskundige te worden omschreven. De resultaten worden opgenomen in het projectdossier.
+De CKI registreert de actuele gegevens van certificaathouders. Conform de overeenkomst met de SCVE worden de gegevens elektronisch verzonden aan SCVE ten behoeve van het SCVE Certificaatregister. Weigeren, opschorten of intrekken van certificaten dienen door de CKI onmiddellijk te worden doorgegeven aan SCVE en de andere CKI’s. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
+
+Het CCvD OCE dient te zorgen voor eenduidige norminterpretatie van de eisen in het werkveldspecifieke certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat organisaties, aanvragers van diensten en CKI’s uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD OCE.
 
 Het CCvD OCE dient te zorgen voor eenduidige norminterpretatie van de eisen in het werkveldspecifieke certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat organisaties, aanvragers van diensten en CKI’s uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD OCE.
 
 Het CCvD OCE neemt binnen een periode van maximaal 8 weken een besluit over de aan haar voorgelegde interpretatievraag.
 
-De organisatie dient het werkingsprincipe en het scheidingsbereik (welke CE) van gebruikte munitiescheidingsinstallatie(s) te documenteren en ten minste jaarlijks te valideren. Tevens dient een risico-inventarisatie & -evaluatie te worden uitgevoerd en gedocumenteerd, op basis waarvan de te treffen veiligheidsmaatregelen en persoonlijke beschermingsmiddelen worden bepaald en uitgevoerd.
+De CKI is verplicht de organisatie blijvend te toetsen aan de eisen in dit werkveldspecifieke certificatieschema. In dit hoofdstuk staat de wijze waarop dat toezicht door de CKI dient te worden ingericht beschreven.
 
 De CKI is verplicht de organisatie blijvend te toetsen aan de eisen in dit werkveldspecifieke certificatieschema. In dit hoofdstuk staat de wijze waarop dat toezicht door de CKI dient te worden ingericht beschreven.
 
-De DTA dient vóór de daadwerkelijke start van het asbestverwijderingswerk op de projectlocatie de volgende controle uit te voeren:
+De organisatie is verplicht medewerking te verlenen aan beoordelingen op zowel kantoor als projectlocaties door of vanwege de certificatie-instelling. Tevens is de organisatie verplicht de voor deze beoordelingen noodzakelijke gegevens te verschaffen.
 
 De organisatie is verplicht medewerking te verlenen aan beoordelingen op zowel kantoor als projectlocaties door of vanwege de certificatie-instelling. Tevens is de organisatie verplicht de voor deze beoordelingen noodzakelijke gegevens te verschaffen.
 
@@ -9009,9 +9011,9 @@ De certificaathouder dient de CKI schriftelijk op de hoogte te stellen van uit t
 
 Meldingen inzake spoedwerkzaamheden (o.a. onverwacht aantreffen munitie) dienen zo spoedig mogelijk aan de CKI te worden gericht. Bij de eerstvolgende (periodieke) audit zal de documentatie van deze werkzaamheden worden geverifieerd.
 
-bestemd voor: het met geringe fysieke belasting persen van citrusvruchten,
-
 De voorziening voor het tijdelijk veiligstellen van de situatie van CE dient te voldoen aan bijlage 6. Transport van CE dient te voldoen aan de daarvoor geldende regelgeving.
+
+Het onderzoek ten behoeve van de verlening en verlenging van het systeemcertificaat vindt plaats conform paragraaf 4.2. Na de verlening/verlenging van het systeemcertificaat, wordt door de certificerende instelling een beoordelingsprogramma uitgevoerd dat als volgt is opgebouwd.
 
 Het onderzoek ten behoeve van de verlening en verlenging van het systeemcertificaat vindt plaats conform paragraaf 4.2. Na de verlening/verlenging van het systeemcertificaat, wordt door de certificerende instelling een beoordelingsprogramma uitgevoerd dat als volgt is opgebouwd.
 
@@ -9027,29 +9029,29 @@ De tijdsbesteding voor de beoordeling van een projectlocatie bedraagt tenminste 
 
 Indien het aantal onaangekondigde projectbeoordelingen in een certificatiejaar niet is uitgevoerd doordat de certificaathouder te weinig projecten in uitvoering heeft c.q. bij de CKI heeft aangemeld, dient het ontbrekend aantal in het daarop volgende certificatiejaar alsnog te worden uitgevoerd. De CKI legt een dergelijke maatregel schriftelijk in het dossier vast. Deze maatregel kan slechts één keer in een certificatieperiode worden toegepast. Als hier niet aan kan worden voldaan, dient de CKI het certificaat in te trekken. Hierop is paragraaf 4.2.6 en 5.4 niet van toepassing.
 
-Indien de organisatie haar diensten verleent aan derden dient men actief bij te dragen aan de veiligheidsbeheersing van de civieltechnische activiteiten. Eventuele adviezen dienen te worden geregistreerd in het projectdossier.
+De resultaten van beoordelingen worden tussentijds aan de organisatie gerapporteerd. Indien noodzakelijk wordt de organisatie door de certificerende instelling verplicht tot de uitvoering van corrigerende maatregelen. Hiervoor wordt verwezen naar paragraaf 5.4 van dit certificatieschema.
 
 De resultaten van beoordelingen worden tussentijds aan de organisatie gerapporteerd. Indien noodzakelijk wordt de organisatie door de certificerende instelling verplicht tot de uitvoering van corrigerende maatregelen. Hiervoor wordt verwezen naar paragraaf 5.4 van dit certificatieschema.
 
 Wanneer de tussentijdse beoordelingsresultaten niet acceptabel zijn of wanneer de tekortkomingen onvoldoende worden gecorrigeerd, kan de certificerende instelling overgaan tot schorsing of in het uiterste geval tot het intrekken van het certificaat. Hierop is hoofdstuk 4 van dit certificatieschema van toepassing, waarin tevens de procedure voor klachten en een herzieningsverzoek staat beschreven.
 
-Indien na het oordeel van de Senior OCE-deskundige de locatie voldoet aan de vastgelegde afspraak, vraagt de organisatie opname van het werk aan bij de opdrachtgever. Voor opneming, goedkeuring en oplevering geldt de toepasselijke versie van de U.A.V. (Uniforme administratieve voorwaarden voor de uitvoering van werken).
-
 Een proces-verbaal van oplevering wordt opgesteld door of namens de opdrachtgever en bevat ten minste de volgende gegevens:
 
 Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in dit certificatieschema, worden door de CKI afwijkingen uitgeschreven. Zie hiervoor paragraaf 5.4.3 van dit certificatieschema. Indien naar aanleiding daarvan geen/onvoldoende corrigerende maatregelen worden genomen, neemt de CKI maatregelen. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat. Door de CKI uitgeschreven afwijkingen en opgelegde maatregelen worden geregistreerd in een centraal registratiesysteem. Deze informatie wordt door de CKI vertrouwelijk behandeld.
 
-De geregistreerde gegevens vormen een onderdeel van het projectdossier en worden als zodanig gearchiveerd.
+Indien blijkt dat een certificaathouder niet of niet meer voldoet aan de eisen of normen in dit certificatieschema, worden door de CKI afwijkingen uitgeschreven. Zie hiervoor paragraaf 5.4.3 van dit certificatieschema. Indien naar aanleiding daarvan geen/onvoldoende corrigerende maatregelen worden genomen, neemt de CKI maatregelen. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat. Door de CKI uitgeschreven afwijkingen en opgelegde maatregelen worden geregistreerd in een centraal registratiesysteem. Deze informatie wordt door de CKI vertrouwelijk behandeld.
 
 Indien door de CKI bij het uitvoeren van beoordelingen situaties betreffende het uitvoeren van werkzaamheden zoals bedoeld in dit certificatieschema worden aangetroffen waarin naar het oordeel van de CKI significant onveilige situaties worden gecreëerd en/of relevante wet- en regelgeving wordt overtreden, wordt de Inspectie SZW hiervan op de hoogte gesteld. Daarbij wordt tevens medegedeeld welke maatregelen door de CKI worden genomen. De CKI stelt de organisatie op de hoogte van het feit dat de Inspectie SZW is geïnformeerd.
 
-Er dient ten minste aandacht te worden besteed aan:
+Indien door de CKI bij het uitvoeren van beoordelingen situaties betreffende het uitvoeren van werkzaamheden zoals bedoeld in dit certificatieschema worden aangetroffen waarin naar het oordeel van de CKI significant onveilige situaties worden gecreëerd en/of relevante wet- en regelgeving wordt overtreden, wordt de Inspectie SZW hiervan op de hoogte gesteld. Daarbij wordt tevens medegedeeld welke maatregelen door de CKI worden genomen. De CKI stelt de organisatie op de hoogte van het feit dat de Inspectie SZW is geïnformeerd.
+
+Eventuele tekortkomingen worden beoordeeld op basis van belangrijkheid. In onderstaande matrix wordt aangegeven op welke wijze de beoordeling plaatsvindt. De waardering is als volgt onderverdeeld:
 
 Eventuele tekortkomingen worden beoordeeld op basis van belangrijkheid. In onderstaande matrix wordt aangegeven op welke wijze de beoordeling plaatsvindt. De waardering is als volgt onderverdeeld:
 
 De opvolging van afwijkingen door de organisatie dient als volgt plaats te vinden:
 
-Deze paragraaf is van toepassing op de begeleiding van onderzoekswerkzaamheden in OCE verdacht gebied door een organisatie die gecertificeerd is volgens deelgebied A (hierna organisatie).
+Een schorsingsprocedure kan worden gestart indien:
 
 Een schorsingsprocedure kan worden gestart indien:
 
@@ -9057,45 +9059,45 @@ De schorsingsprocedure houdt in dat het betreffende bedrijf wordt verzocht om bi
 
 Gedurende de schorsing is de certificaathouder niet bevoegd tot het uitvoeren van de werkzaamheden zoals bedoeld in dit certificatieschema.
 
-Het opsporingsbedrijf dient de EODD voorafgaand aan het opsporingsproject en bij het aantreffen van CE te informeren overeenkomstig deze bijlage.
+Het systeemcertificaat zal worden ingetrokken indien het resultaat van de schorsingsprocedure niet leidt tot een positieve beslissing inzake voortzetting van het certificatietraject. De beslissing tot intrekking wordt met redenen omkleed kenbaar gemaakt aan de organisatie. Indien een certificaat wordt ingetrokken is de certificaathouder niet langer bevoegd tot het uitvoeren van de werkzaamheden zoals bedoeld in dit certificatieschema.
 
 Het systeemcertificaat zal worden ingetrokken indien het resultaat van de schorsingsprocedure niet leidt tot een positieve beslissing inzake voortzetting van het certificatietraject. De beslissing tot intrekking wordt met redenen omkleed kenbaar gemaakt aan de organisatie. Indien een certificaat wordt ingetrokken is de certificaathouder niet langer bevoegd tot het uitvoeren van de werkzaamheden zoals bedoeld in dit certificatieschema.
 
 Na intrekking mag een nieuw verzoek tot certificatie pas worden ingediend na het verstrijken van een periode van minimaal 12 maanden (zie WDAT-OCE). De CKI zorgt voor registratie van deze periode.
 
-De eindtermen voor deze deskundigheidsniveaus zijn opgenomen in deze bijlage. De wijze waarop het voldoen aan de toepasselijke eindtermen moet worden aangetoond staat beschreven in paragraaf 6.2.1 van dit certificatieschema.
+Dit hoofdstuk bevat de werkveldspecifieke normen/eisen waaraan het te certificeren systeem dient te voldoen om voor certificatie in aanmerking te komen. De eisen in dit hoofdstuk vallen uiteen in: algemene eisen, eisen gesteld aan personeel en middelen, eisen gesteld aan het managementsysteem en proceseisen.
 
 Dit hoofdstuk bevat de werkveldspecifieke normen/eisen waaraan het te certificeren systeem dient te voldoen om voor certificatie in aanmerking te komen. De eisen in dit hoofdstuk vallen uiteen in: algemene eisen, eisen gesteld aan personeel en middelen, eisen gesteld aan het managementsysteem en proceseisen.
 
-Bijlage 2A: eindtermen Assistent OCE-deskundige
+De organisatie dient te voldoen aan de volgende algemene eisen.
 
 De organisatie dient te voldoen aan de volgende algemene eisen.
 
-Bijlage 2C: eindtermen Senior OCE-deskundige
+De organisatie dient een schriftelijke procedure vast te stellen en bij te houden om de eisen van wet- en regelgeving en andere door haar onderschreven eisen, die van toepassing zijn op de verschillende aspecten van haar activiteiten, te identificeren en daar toegang toe te hebben. Voorts dient de organisatie het belang van deze eisen binnen de organisatie kenbaar te maken en de naleving er van te verzekeren.
 
 De organisatie dient een schriftelijke procedure vast te stellen en bij te houden om de eisen van wet- en regelgeving en andere door haar onderschreven eisen, die van toepassing zijn op de verschillende aspecten van haar activiteiten, te identificeren en daar toegang toe te hebben. Voorts dient de organisatie het belang van deze eisen binnen de organisatie kenbaar te maken en de naleving er van te verzekeren.
 
-Zie ook Risicoanalyse en afbreukcriteria SC-530 par 3.3.2
+De organisatie die is gecertificeerd conform deelgebied A dient te beschikken over een ontheffing krachtens [artikel 4 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4). Er dient aantoonbaar te worden voldaan aan de in deze ontheffing opgenomen eisen.
 
 De organisatie die is gecertificeerd conform deelgebied A dient te beschikken over een ontheffing krachtens [artikel 4 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4). Er dient aantoonbaar te worden voldaan aan de in deze ontheffing opgenomen eisen.
 
-1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
+De organisatie dient te beschikken over een risico-inventarisatie & -evaluatie (RI&E), welke voldoet aan de vigerende arboregelgeving. In aanvulling daarop dient de organisatie te beschikken over specifieke taak risico analyses (TRA’s) voor risicovolle handelingen en activiteiten tijdens de procesgang. Voor het opstellen en onderhouden van deze TRA’s dient de organisatie te beschikken over een procedure voor de identificatie en evaluatie van de kwaliteits- en veiligheidsaspecten voor en tijdens de activiteiten, alsmede de daaraan gekoppelde effecten op werknemers en omgeving. Indien men hiervan afwijkt dient men minimaal de gelijkwaardigheid aan te kunnen tonen. Het gaat hierbij om aspecten, inclusief invloeden van buitenaf, die beheerst kunnen worden en waarvan mag worden aangenomen dat de organisatie hierop invloed uit kan oefenen.
 
 De organisatie dient te beschikken over een risico-inventarisatie & -evaluatie (RI&E), welke voldoet aan de vigerende arboregelgeving. In aanvulling daarop dient de organisatie te beschikken over specifieke taak risico analyses (TRA’s) voor risicovolle handelingen en activiteiten tijdens de procesgang. Voor het opstellen en onderhouden van deze TRA’s dient de organisatie te beschikken over een procedure voor de identificatie en evaluatie van de kwaliteits- en veiligheidsaspecten voor en tijdens de activiteiten, alsmede de daaraan gekoppelde effecten op werknemers en omgeving. Indien men hiervan afwijkt dient men minimaal de gelijkwaardigheid aan te kunnen tonen. Het gaat hierbij om aspecten, inclusief invloeden van buitenaf, die beheerst kunnen worden en waarvan mag worden aangenomen dat de organisatie hierop invloed uit kan oefenen.
 
 In een projectplan (zie paragraaf 6.6.2) dienen de nodige maatregelen, gekoppeld aan de inventarisatie, te worden beschreven.
 
-1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
+De organisatie dient minimaal te beschikken over de volgende verzekeringen (de overheid verzekert geen werkzaamheden die door haar diensten worden uitgevoerd, waardoor deze paragraaf niet van toepassing is op de EODD):
 
 De organisatie dient minimaal te beschikken over de volgende verzekeringen (de overheid verzekert geen werkzaamheden die door haar diensten worden uitgevoerd, waardoor deze paragraaf niet van toepassing is op de EODD):
 
 Het management van de organisatie dient jaarlijks de verzekeringsstatus te beoordelen. De resultaten van deze beoordeling worden geregistreerd. Per project dienen de verantwoordelijkheden en aansprakelijkheden van de verschillende partijen te worden vastgelegd. Voor aanvang van het project dient in overleg met de opdrachtgever te worden vastgesteld of het pakket aan afgesloten verzekering(en), eventueel in combinatie met de verzekeringen van de opdrachtgever, voldoende dekkend is voor het project. De resultaten van deze beoordeling worden opgenomen in het projectdossier.
 
-bestaande uit:
+De organisatie dient te beschikken over een systeem waarmee de inzet van adequaat personeel kan worden afgestemd op de verschillende typen en technieken van opsporing en benadering. Al de in te zetten mensen dienen minimaal te voldoen aan de eisen in dit certificatieschema.
 
 De organisatie dient te beschikken over een systeem waarmee de inzet van adequaat personeel kan worden afgestemd op de verschillende typen en technieken van opsporing en benadering. Al de in te zetten mensen dienen minimaal te voldoen aan de eisen in dit certificatieschema.
 
-1 Verzameling van de locaties van inslagen van één bepaald toestel of één bepaald bombardement.
+De organisatie dient er zorg voor te dragen dat personeel (eigen en van derden) dat werkzaamheden uitvoert in het kader van dit certificatieschema:
 
 De organisatie dient er zorg voor te dragen dat personeel (eigen en van derden) dat werkzaamheden uitvoert in het kader van dit certificatieschema:
 
@@ -9111,23 +9113,23 @@ Een certificaat is drie jaar geldig. Na die periode dient opnieuw een examen te 
 
 De organisatie dient:
 
-bestaande uit:
+Om de gezondheid en veiligheid van medewerkers bij uitoefening van hun werkzaamheden te beheersen dient de organisatie te borgen dat deze medisch en psychisch voldoende geschikt zijn. Overeenkomstig de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) stelt de organisatie de medewerkers periodiek in de gelegenheid een Preventief Medisch Onderzoek te ondergaan.
 
 Om de gezondheid en veiligheid van medewerkers bij uitoefening van hun werkzaamheden te beheersen dient de organisatie te borgen dat deze medisch en psychisch voldoende geschikt zijn. Overeenkomstig de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) stelt de organisatie de medewerkers periodiek in de gelegenheid een Preventief Medisch Onderzoek te ondergaan.
 
 Overeenkomstig de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819) dient te worden geïnventariseerd welke functies/taken specifieke risico’s met zich meebrengen en welke keuringen/onderzoeken hiertoe dienen te worden aangeboden. Op basis van deze inventarisatie dient een overzicht van deze functies te worden opgesteld. De te stellen eisen, het doel van de keuring of het onderzoek, de te stellen gezondheidsvragen en het uit te voeren medisch onderzoek worden overeenkomstig het [Besluit aanstellingskeuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0013029) schriftelijk vastgelegd na schriftelijke advisering daarover door een gecertificeerde bedrijfsarts of arbodienst.
 
-Er is geen norm beschikbaar voor het treffen van beschermende maatregelen voor de omgeving bij het benaderen van CE. Momenteel worden beschermende maatregelen op projectniveau vastgesteld in overleg met de gemeente(n), de opdrachtgever, het EODD en andere betrokkenen. Daarbij wordt onder andere gebruik gemaakt van richtlijnen die worden gehanteerd door het Ministerie van Defensie.
+Wanneer de risico’s van werkzaamheden niet kunnen worden weggenomen of onvoldoende acceptabel kunnen worden gereduceerd, dient de organisatie de medewerkers (vast en tijdelijk) te voorzien van de noodzakelijke persoonlijke beschermingsmiddelen (PBM).
 
 Wanneer de risico’s van werkzaamheden niet kunnen worden weggenomen of onvoldoende acceptabel kunnen worden gereduceerd, dient de organisatie de medewerkers (vast en tijdelijk) te voorzien van de noodzakelijke persoonlijke beschermingsmiddelen (PBM).
 
 Overeenkomstig de arbeidsomstandighedenwetgeving dient de organisatie op basis van de resultaten uit risico-inventarisaties en taakrisicoanalyses te identificeren welke PBM noodzakelijk zijn voor de uitvoering van werkzaamheden. Voor het verstrekken, het onderhoud en de vervanging van PBM’s, dient een systeem te worden ingericht. Het projectplan dient bepalingen te bevatten ten aanzien van de toepassing van PBM. De PBM dienen afgestemd te zijn op de voorkomende activiteiten en de geïdentificeerde risico's.
 
-2 Gezien de bijzondere positie van de EODD (Circulaire nr. 17961), de daarbij gepaard gaande verantwoordelijkheid, de intensieve EODD opleiding en begeleiding en de daaraan gekoppelde systematiek van examinering en kwalificering en de combinatie van opsporingswerkzaamheden en ruimwerkzaamheden, wordt voor personen die binnen de EODD opsporingswerkzaamheden volgens het WSCS-OCE verrichten een afwijkende ervaringseis van 1,5 jaar gehanteerd. Bovendien verricht de EODD met name opsporingswerkzaamheden op (voormalige) Defensieterreinen.
+De organisatie dient te beschikken over een systeem waarmee de inzet van adequaat materieel en middelen kan worden afgestemd op de verschillende typen en technieken van opsporing en benadering. Al het in te zetten materieel en middelen dient minimaal te voldoen aan de eisen uit dit certificatie schema.
 
 De organisatie dient te beschikken over een systeem waarmee de inzet van adequaat materieel en middelen kan worden afgestemd op de verschillende typen en technieken van opsporing en benadering. Al het in te zetten materieel en middelen dient minimaal te voldoen aan de eisen uit dit certificatie schema.
 
-– lade(n);
+De organisatie dient het binnen de organisatie aanwezige materieel en middelen te inventariseren inclusief onderhoud- en keuringstermijnen. Het overzicht dient actueel te zijn en daarom periodiek te worden bijgewerkt. Voor al het materieel en de middelen dient de keurende instantie te zijn vastgelegd inclusief aantoonbare deskundigheid.
 
 De organisatie dient het binnen de organisatie aanwezige materieel en middelen te inventariseren inclusief onderhoud- en keuringstermijnen. Het overzicht dient actueel te zijn en daarom periodiek te worden bijgewerkt. Voor al het materieel en de middelen dient de keurende instantie te zijn vastgelegd inclusief aantoonbare deskundigheid.
 
@@ -9137,13 +9139,13 @@ De organisatie dient te beschikken over een systeem van identificatie en beheer 
 
 De organisatie dient door middel van registraties van keuring en onderhoud aan te tonen dat materieel en middelen voldoen aan de bijlagen van dit certificatieschema. Binnen het beheersingssysteem dient te zijn geborgd dat voor werkzaamheden geen ongekeurd of afgekeurd materieel wordt ingezet.
 
-5211 WV ‘s-HERTOGENBOSCH
+Bij inhuur van materieel en middelen wordt door de organisatie vooraf vastgesteld dat
 
 Bij inhuur van materieel en middelen wordt door de organisatie vooraf vastgesteld dat
 
 De resultaten van deze beoordeling worden geregistreerd. Derden betrokken bij het project worden vooraf op de hoogte gesteld van de relevante projectinformatie. De inhuur ten behoeve van de opsporing vindt plaats door en onder verantwoordelijkheid van een organisatie die (mede) is gecertificeerd conform deelgebied A. Inhuur ten behoeve van het civieltechnisch opsporingsproces vindt plaats door en onder verantwoordelijkheid van een organisatie die (mede) is gecertificeerd conform deelgebied B.
 
-Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
+Detectieapparatuur dient initieel (typekeuring) en vervolgens jaarlijks te worden gevalideerd. Doelstelling hiervan is om vast te stellen of het detectieapparaat geschikt is voor het opsporen van CE, en zo ja, in welke situaties en omstandigheden dit apparaat toepasbaar is.
 
 Detectieapparatuur dient initieel (typekeuring) en vervolgens jaarlijks te worden gevalideerd. Doelstelling hiervan is om vast te stellen of het detectieapparaat geschikt is voor het opsporen van CE, en zo ja, in welke situaties en omstandigheden dit apparaat toepasbaar is.
 
@@ -9157,59 +9159,59 @@ Het onderhoud en kalibreren van meet- en detectieapparatuur dient plaats te vind
 
 Meet- en detectieapparatuur dient te worden beveiligd tegen oneigenlijke justering of andere invloeden die de resultaten negatief kunnen beïnvloeden. Registraties van validatie, kalibratie, keuringen en onderhoud dienen tenminste voor een periode van 5 jaar te worden bewaard, tenzij een wettelijke regeling een langere termijn voorschrijft.
 
-Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
-
 Indien de CKI op één van de twee projecten tot het oordeel komt dat het asbestverwijderingsbedrijf niet voldoet aan de criteria die voor de praktijktoets gelden, kan Ascert, op schriftelijk verzoek van de CKI, voor de uitvoering van één extra te beoordelen project (met vergelijkbaar werk) schriftelijk toestemming geven.
 
 De organisatie dient, in overeenstemming met de eisen uit dit certificatieschema, het eigen managementsysteem op te zetten, te documenteren, in te voeren en te onderhouden.
 
-In het beleid en de procedures van de CKI moet zijn vastgelegd dat alle aanvragers van het persoonscertificaat eerlijk en gelijk worden behandeld. De CKI dient zich hierbij te houden aan hetgeen is gesteld in de certificatie-eisen en het certificatiereglement. Het is de CKI verboden aanvragers van het certificaat de toegang tot de certificatieprocedure te verhinderen of belemmeren. Besluiten van de CKI moeten zijn gebaseerd op objectief bewijs van (non-)conformiteit in relatie tot de certificatie-eisen en niet worden beïnvloed door andere belangen of andere partijen.
+De organisatie dient, in overeenstemming met de eisen uit dit certificatieschema, het eigen managementsysteem op te zetten, te documenteren, in te voeren en te onderhouden.
+
+De organisatie dient te beschikken over een gedocumenteerd managementsysteem, waarvan het systeemhandboek ten minste de volgende aspecten dient te bevatten:
 
 De organisatie dient te beschikken over een gedocumenteerd managementsysteem, waarvan het systeemhandboek ten minste de volgende aspecten dient te bevatten:
 
 Het staat de organisatie vrij om de verschijningsvorm (bijv. elektronisch, hardcopy) van het systeem af te stemmen op de bedrijfsorganisatie. Uitsluitingen van normparagrafen zijn slechts mogelijk op basis van de deelgebieden zoals toegelicht in hoofdstuk 1.
 
-De CKI is ervoor verantwoordelijk dat voor het nemen van een certificatiebesluit voldoende objectief en relevant bewijs wordt verzameld. Wanneer voldoende bewijs van conformiteit met de certificatie-eisen is vergaard, besluit de CKI het persooncertificaat Vuurwerkdeskundige toe te kennen aan de aanvrager in kwestie. Wanneer onvoldoende bewijs van conformiteit is vergaard, leidt dit tot afwijzing van de aanvraag voor het persoonscertificaat Vuurwerkdeskundige door de CKI.
+De organisatie dient te beschikken over een gedocumenteerde procedure waarmee de beheersing van door dit schema vereiste documenten is geregeld. Dit dient ten minste te omvatten:
 
 De organisatie dient te beschikken over een gedocumenteerde procedure waarmee de beheersing van door dit schema vereiste documenten is geregeld. Dit dient ten minste te omvatten:
 
 De in dit certificatieschema genoemde projectdocumenten worden minimaal 5 jaar bewaard, tenzij een wettelijke regeling een langere bewaartermijn vereist.
 
-Ten behoeve van het certificatieproces, moet de CKI kunnen beschikken over persoonsgegevens en examenresultaten van aanvragers en certificaathouders. De CKI dient deze informatie vertrouwelijk te behandelen om te voorkomen dat de klanten bezwaar maken tegen het verzamelen en bewaren ervan.
+Registraties moeten worden vastgesteld en bijgehouden om het bewijs te leveren van het voldoen aan de eisen en van de doeltreffende werking van het managementsysteem. De organisatie dient alle voor dit doel noodzakelijke registraties alsmede de in dit schema voorgeschreven registraties te identificeren en door middel van een gedocumenteerde procedure te beheersen, inclusief een opgave van de bewaartermijn en de wijze van vernietiging. Registraties moeten leesbaar, herkenbaar en terug te vinden zijn.
 
 Registraties moeten worden vastgesteld en bijgehouden om het bewijs te leveren van het voldoen aan de eisen en van de doeltreffende werking van het managementsysteem. De organisatie dient alle voor dit doel noodzakelijke registraties alsmede de in dit schema voorgeschreven registraties te identificeren en door middel van een gedocumenteerde procedure te beheersen, inclusief een opgave van de bewaartermijn en de wijze van vernietiging. Registraties moeten leesbaar, herkenbaar en terug te vinden zijn.
 
-7 Nanogr/m3
+De organisatie moet haar operationele organisatiestructuur vastleggen in een organisatieschema. Uit dit schema moeten de operationele relaties tussen de vermelde functies blijken. Het management van de organisatie moet bewerkstelligen dat de verantwoordelijkheden en bevoegdheden zijn gedefinieerd, vastgelegd en kenbaar gemaakt in de organisatie.
 
 De organisatie moet haar operationele organisatiestructuur vastleggen in een organisatieschema. Uit dit schema moeten de operationele relaties tussen de vermelde functies blijken. Het management van de organisatie moet bewerkstelligen dat de verantwoordelijkheden en bevoegdheden zijn gedefinieerd, vastgelegd en kenbaar gemaakt in de organisatie.
 
 De organisatie dient een lid van het management te benoemen die, ongeacht overige verantwoordelijkheden, de verantwoordelijkheid en bevoegdheid moet hebben om:
 
-Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
+De directie moet het bewijs leveren van haar betrokkenheid bij het ontwikkelen, invoeren en functioneren van het beleid van de organisatie oor:
 
 De directie moet het bewijs leveren van haar betrokkenheid bij het ontwikkelen, invoeren en functioneren van het beleid van de organisatie oor:
 
-In ISO 17024 wordt aangegeven dat het scheme committee (CCvD) zelf kan bepalen op welke wijze bepaalde elementen uit het werkveldspecifieke certificatieschema Vuurwerkdeskundige gewijzigd kunnen gaan worden. In onderhavig geval is de navolgende, hiervan afwijkende, regeling met betrekking tot wijzigingen van toepassing.
+De organisatie dient in haar managementsysteem de interne communicatieprocessen vast te leggen voor zover deze betrekking hebben op de werkzaamheden binnen de werkingssfeer van dit certificatieschema. Geïdentificeerd dient te worden:
 
 De organisatie dient in haar managementsysteem de interne communicatieprocessen vast te leggen voor zover deze betrekking hebben op de werkzaamheden binnen de werkingssfeer van dit certificatieschema. Geïdentificeerd dient te worden:
 
 Voorts dient de organisatie te beschikken over procedures/instructies voor het betrekken van werknemers bij de ontwikkeling en invoering van veiligheidsprocedures.
 
-Specifiek voor het WSCS-VD, dient de CKI een klachtenregeling en een bezwaarprocedure vast te stellen. Deze regelingen moeten voldoen aan het in het WSCS-VD gestelde. De regelingen dienen te waarborgen dat bezwaarschriften en klachten op een onafhankelijke en onbevooroordeelde wijze worden afgehandeld.
+De organisatie dient vast te leggen op welke wijze de communicatie met belanghebbende partijen wordt georganiseerd. Hiertoe dient de organisatie per project te identificeren welke belanghebbende partijen dit betreft en hoe deze worden geïnformeerd, hieronder vallen minimaal:
 
 De organisatie dient vast te leggen op welke wijze de communicatie met belanghebbende partijen wordt georganiseerd. Hiertoe dient de organisatie per project te identificeren welke belanghebbende partijen dit betreft en hoe deze worden geïnformeerd, hieronder vallen minimaal:
 
-¹ Tijdens de blootstellingsmonitoring voor kwik en zijn tweewaardige anorganische verbindingen wordt rekening gehouden met relevante biologische monitoringtechnieken in aanvulling op de luchtgrenswaarde
+De organisatie moet de benodigde bewaking-, meet- en analyseprocessen bepalen, plannen en invoeren om:
 
 De organisatie moet de benodigde bewaking-, meet- en analyseprocessen bepalen, plannen en invoeren om:
 
-Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van toepassing zijnde overgangsregeling, worden door de CKI bekend gemaakt aan de certificaathouders, bijvoorbeeld door publicatie ervan. De CKI waarborgt dat alle certificaathouders binnen de overgangstermijn worden onderzocht op conformiteit met de gewijzigde certificatie-eisen. De CKI waarborgt dat toegang tot de certificatieprocedure niet wordt beperkt of belemmerd op basis van ongepaste financiële of andere voorwaarden, zoals het lidmaatschap van een beroepsvereniging. De CKI maakt tijdens het certificatieproces geen onderscheid tussen aanvragers van het certificaat Vuurwerkdeskundige, op basis van het feit of deze al dan niet een opleiding of training op het gebied van professioneel vuurwerk hebben gevolgd.
+De organisatie dient binnen haar managementsysteem te voorzien in periodieke werkplekinspecties om tijdig te signaleren of werkplekcondities en gedrag of handelingen van medewerkers en derden leiden tot onveilige situaties die resulteren in afwijkingen, incidenten of ongevallen.
 
 De organisatie dient binnen haar managementsysteem te voorzien in periodieke werkplekinspecties om tijdig te signaleren of werkplekcondities en gedrag of handelingen van medewerkers en derden leiden tot onveilige situaties die resulteren in afwijkingen, incidenten of ongevallen.
 
 Daartoe dient in het managementsysteem ten minste het volgende te zijn vastgelegd:
 
-Bij de uitvoering van het werkveldspecifieke certificatieschema Vuurwerkdeskundige is het navolgende certificatiepersoneel betrokken.
+De organisatie moet met geplande tussenpozen interne audits uitvoeren om vast te stellen of het managementsysteem:
 
 De organisatie moet met geplande tussenpozen interne audits uitvoeren om vast te stellen of het managementsysteem:
 
@@ -9219,31 +9221,31 @@ Ten aanzien van de bekwaamheid en beoordeling van auditors dient de organisatie 
 
 Er dient een gedocumenteerde procedure te zijn waarin is vastgelegd hoe:
 
-Beoordelaar exameninstelling Vuurwerkdeskundige
+De organisatie dient te beschikken over een schriftelijke procedure en deze op peil te houden ten aanzien van de behandeling van klachten en tekortkomingen in relatie tot het geleverde werk en het managementsysteem. Door middel van de procedure dient o.a. geregeld te zijn:
 
 De organisatie dient te beschikken over een schriftelijke procedure en deze op peil te houden ten aanzien van de behandeling van klachten en tekortkomingen in relatie tot het geleverde werk en het managementsysteem. Door middel van de procedure dient o.a. geregeld te zijn:
 
 Verder dient de organisatie in het projectplan aan te geven welke functionarissen aanspreekbaar zijn ingeval er tijdens of na de uitvoering van het werk problemen geconstateerd worden. Deze functionarissen dienen bevoegd te zijn om corrigerende maatregelen te nemen om de problemen op te heffen. Dit dient in de functiebeschrijving te worden vastgelegd.
 
-In de tekst van dit certificatieschema vervullen de onderstaande documenten een rol.
+De organisatie dient te beschikken over een schriftelijke procedure, en deze op peil te houden, voor het melden, registreren, onderzoeken en beheersen van (bijna) ongevallen en incidenten met en zonder verzuim, brand en schade aan mens, materieel en omgeving.
 
 De organisatie dient te beschikken over een schriftelijke procedure, en deze op peil te houden, voor het melden, registreren, onderzoeken en beheersen van (bijna) ongevallen en incidenten met en zonder verzuim, brand en schade aan mens, materieel en omgeving.
 
 Deze procedure dient ten minste te bevatten:
 
-Voorafgaande aan het opruimen van asbestbevattend materiaal na een incident (brand / storm) dient het aangegeven stappenplan te worden doorlopen (zie Bijlage G). Zie bijvoorbeeld Informatieblad Plan van Aanpak Asbestbrand 2006.
+De organisatie dient procedures en beheersmaatregelen vast te stellen en te documenteren waarmee de waarschijnlijkheid van en reactie op mogelijke incidenten en noodsituaties kan worden beheerst ten einde de situaties te voorkomen of uitbreiding hiervan te beperken. Deze procedure dient ten minste de volgende taken te bevatten:
 
 De organisatie dient procedures en beheersmaatregelen vast te stellen en te documenteren waarmee de waarschijnlijkheid van en reactie op mogelijke incidenten en noodsituaties kan worden beheerst ten einde de situaties te voorkomen of uitbreiding hiervan te beperken. Deze procedure dient ten minste de volgende taken te bevatten:
 
 De organisatie dient haar noodplannen periodiek (minimaal jaarlijks) te evalueren en bij te stellen op basis van de eigen evaluaties. Het noodplan dient onderdeel uit te maken van het projectplan.
 
-In de tekst van dit certificatieschema is ter ondersteuning en verduidelijking aanvullende informatie gegeven in de vorm van Toelichting, Opmerking en Appendix. Deze hebben een informatief karakter.
+Deze paragraaf is van toepassing op het uitvoeren van vooronderzoek. Het vooronderzoek heeft tot doel om te beoordelen of er indicaties zijn dat binnen het onderzoeksgebied CE aanwezig zijn, en zo ja, om het verdachte gebied af te bakenen. Het vooronderzoek bestaat uit zowel het inventariseren als beoordelen (analyseren) van bronnenmateriaal. Eindresultaat is een rapportage en een bijbehorende CE bodembelastingkaart.
 
 Deze paragraaf is van toepassing op het uitvoeren van vooronderzoek. Het vooronderzoek heeft tot doel om te beoordelen of er indicaties zijn dat binnen het onderzoeksgebied CE aanwezig zijn, en zo ja, om het verdachte gebied af te bakenen. Het vooronderzoek bestaat uit zowel het inventariseren als beoordelen (analyseren) van bronnenmateriaal. Eindresultaat is een rapportage en een bijbehorende CE bodembelastingkaart.
 
 De organisatie dient bij aanvang van het onderzoek na te gaan of er in het verleden onderzoek is uitgevoerd naar de aanwezigheid van CE, en zo ja, te rapporteren op welke wijze deze informatie is betrokken bij het onderzoek.
 
-Mocht zich onverhoopt een mogelijke belangenverstrengeling voordoen, dan is de examinator in kwestie verplicht dit onverwijld te melden aan de CKI. De CKI neemt in dat geval maatregelen om te voorkomen dat de vertrouwelijkheid en onpartijdigheid van het examen niet in gevaar komt. Dit houdt in dat de examenkandidaat in kwestie wordt beoordeeld door een andere examinator. Dit wordt schriftelijk vastgelegd in het examenverslag.
+Het bronnenonderzoek vindt plaats op basis van een inventarisatie van:
 
 Het bronnenonderzoek vindt plaats op basis van een inventarisatie van:
 
@@ -9251,7 +9253,7 @@ De organisatie dient ten minste de in de onderstaande tabel weergegeven verplich
 
 Het inventariseren van bronnenmateriaal dient op een eenduidige wijze te worden gedocumenteerd, zodanig dat gebruikte bronnen te herleiden zijn door een derde partij. De organisatie dient te beschikken over een schriftelijke procedure waarin de methodiek van het onderzoek is vastgelegd, waarin herleidbaarheid en volledigheid van feiten worden geborgd en waarin de archivering van gegevens die bruikbaar kunnen zijn voor een vervolgstap in het proces opsporen van CE is geregeld.
 
-In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+Aan de start van het bronnenonderzoek wordt op basis van literatuuronderzoek een lijst opgesteld met oorlogshandelingen die relevant zijn voor de mogelijke aanwezigheid van CE in het onderzoeksgebied (indicaties). Deze lijst bevat tevens een verwijzing naar de datums waarop de oorlogshandelingen hebben plaatsgevonden.
 
 Aan de start van het bronnenonderzoek wordt op basis van literatuuronderzoek een lijst opgesteld met oorlogshandelingen die relevant zijn voor de mogelijke aanwezigheid van CE in het onderzoeksgebied (indicaties). Deze lijst bevat tevens een verwijzing naar de datums waarop de oorlogshandelingen hebben plaatsgevonden.
 
@@ -9265,7 +9267,7 @@ De organisatie dient beschikbare luchtfoto’s betreffende de datum waarop de oo
 
 Indien er indicaties zijn voor de aanwezigheid van CE, dient de organisatie de luchtfoto’s en/of satellietbeelden te verzamelen met dekking van het onderzoeksgebied uit de naoorlogse periode. De organisatie vergelijkt de luchtfoto’s/satellietbeelden met luchtfoto’s uit het tijdvak 1940-1945, met als doel te inventariseren welke naoorlogse ontwikkelingen in het onderzoeksgebied hebben plaatsgevonden waarbij grond is geroerd of verzet. De organisatie dient de selectie van luchtfoto’s/satellietbeelden te motiveren in het rapport.
 
-De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
+De organisatie raadpleegt de literatuurcollectie van het Nederlands Instituut voor Oorlogsdocumentatie indien onvoldoende informatie aanwezig is om een totaalbeeld te vormen van oorlogshandelingen in het onderzoeksgebied.
 
 De organisatie raadpleegt de literatuurcollectie van het Nederlands Instituut voor Oorlogsdocumentatie indien onvoldoende informatie aanwezig is om een totaalbeeld te vormen van oorlogshandelingen in het onderzoeksgebied.
 
@@ -9283,19 +9285,19 @@ Indien de verplichte luchtfotoarchieven onvoldoende resultaat opleveren, wordt a
 
 In overleg met de opdrachtgever wordt bepaald of getuigen worden gehoord. Dit wordt gerapporteerd. Indien getuigen worden gehoord, dient een schriftelijke getuigenverklaring te worden opgesteld en getekend door de getuige en/of door een vertegenwoordiger van de opdrachtgever die bij het horen van de getuige aanwezig is. De getuigenverklaring wordt opgenomen als bijlage bij het rapport.
 
-Een type-B onderzoek is een onderzoek, dat vooraf of tijdens de bouwkundige sloop van een bouwwerk object of constructie wordt uitgevoerd door een gecertificeerd inventarisatiebedrijf op basis van een overzicht van redelijke vermoedelijk aanwezige asbestbronnen. Bij dit onderzoek kan de bouwkundige integriteit van het bouwwerk worden aangetast.
+De indicaties en contra-indicaties uit het bronnenonderzoek worden beoordeeld en op basis daarvan wordt gemotiveerd vastgesteld:
 
 De indicaties en contra-indicaties uit het bronnenonderzoek worden beoordeeld en op basis daarvan wordt gemotiveerd vastgesteld:
 
 Bij de beoordeling en evalueren van het bronnenmateriaal worden de volgende uitgangspunten gehanteerd:
 
-Stichting Certificering Vuurwerk en Explosieven
+In overleg met de opdrachtgever kan worden besloten om de verticale afbakening van het verdachte gebied en/of de inventarisatie van de hoeveelheid van vermoedelijke CE uit te sluiten van het vooronderzoek. Deze keuze kan samenhangen met de aard van het onderzoek en/of de grootte van het onderzoeksgebied en wordt gemotiveerd in de rapportage. De verticale afbakening is in ieder geval vereist voor het uitvoeren van een risicoanalyse voor het toekomstige gebruik van het verdachte gebied en deze maakt daar dan onderdeel van uit. Tevens is de verticale afbakening vereist indien het de bedoeling is om, na opsporing, in het proces-verbaal van oplevering een uitspraak te kunnen doen over de aanwezigheid van CE zonder beperking in het verticale vlak.
 
 In overleg met de opdrachtgever kan worden besloten om de verticale afbakening van het verdachte gebied en/of de inventarisatie van de hoeveelheid van vermoedelijke CE uit te sluiten van het vooronderzoek. Deze keuze kan samenhangen met de aard van het onderzoek en/of de grootte van het onderzoeksgebied en wordt gemotiveerd in de rapportage. De verticale afbakening is in ieder geval vereist voor het uitvoeren van een risicoanalyse voor het toekomstige gebruik van het verdachte gebied en deze maakt daar dan onderdeel van uit. Tevens is de verticale afbakening vereist indien het de bedoeling is om, na opsporing, in het proces-verbaal van oplevering een uitspraak te kunnen doen over de aanwezigheid van CE zonder beperking in het verticale vlak.
 
 In overleg met de opdrachtgever kan voorts worden besloten om het vooronderzoek (eerst) uitsluitend te richten op de indicaties die wijzen op de vermoedelijke aanwezigheid van CE en geen onderzoek te doen naar mogelijke contra-indicaties over de periode 1945 – heden. In dat geval wordt (in eerste instantie) geen onderzoek gedaan naar bijvoorbeeld naoorlogse ontwikkelingen in het onderzoeksgebied, die relevante contra-indicaties kunnen opleveren. Deze onderzoeksbeperking wordt onder opgave van reden in het rapport beschreven.
 
-www.scve.nl
+Het resultaat van het vooronderzoek omvat een rapportage en een daarbij behorende digitale CE bodembelastingkaart.
 
 Het resultaat van het vooronderzoek omvat een rapportage en een daarbij behorende digitale CE bodembelastingkaart.
 
@@ -9307,7 +9309,7 @@ Op de CE bodembelastingkaart wordt het verdachte en niet-verdachte gebied (horiz
 
 Het rapport en de CE bodembelastingkaart dienen te worden geaccordeerd door een door het management bevoegd persoon.
 
-Door het ministerie van SZW is het schema vastgesteld. Dit vastgestelde schema vervangt daarmee eerdere versies.
+Deze paragraaf is van toepassing op het opsporen van CE. De organisatie moet de processen die nodig zijn voor het realiseren van de opsporing plannen, voorbereiden en uitvoeren conform de eisen als gesteld in deze paragraaf. De organisatie dient voor de beheersing van processen werkinstructies op te stellen waarmee wordt geborgd dat deze worden uitgevoerd op een manier die overeenkomt met de daartoe gestelde eisen (normatief of door de opdrachtgever vastgesteld).
 
 Deze paragraaf is van toepassing op het opsporen van CE. De organisatie moet de processen die nodig zijn voor het realiseren van de opsporing plannen, voorbereiden en uitvoeren conform de eisen als gesteld in deze paragraaf. De organisatie dient voor de beheersing van processen werkinstructies op te stellen waarmee wordt geborgd dat deze worden uitgevoerd op een manier die overeenkomt met de daartoe gestelde eisen (normatief of door de opdrachtgever vastgesteld).
 
@@ -9315,7 +9317,7 @@ Opsporing dient te gebeuren door deskundige personen. Opsporing omvat binnen het
 
 De handelingen genoemd onder punt 2 t/m 4 kunnen cyclisch worden verricht. Dit wordt aangeduid als benaderen. In plaats van benaderen kan er voor worden gekozen om munitiescheiding toe te passen. In dat geval is paragraaf 6.6.6 van toepassing.
 
-De indeling van bij asbestverwijdering vrijkomende asbestvezels in een risicoklasse is in een geautomatiseerd internetsysteem (SMA-rt) opgenomen. Ascert beheert en onderhoudt SMA-rt. Dit systeem dient gebruikt te worden voor de inventarisatie. Een voorwaarde voor een bruikbaar SMA-rt systeem is dat het asbestinventarisatiebedrijf, dat gegevens invoert, onafhankelijk, deskundig en integer is (zie SC-540 par. 7.6 en SC-560: versie 01, datum 15-11-2011).
+In paragraaf 6.2.1 en bijlage 2zijn eisen betreffende de personele deskundigheid opgenomen. Daarbij wordt onderscheid gemaakt in de volgende deskundigheidsniveaus: Assistent OCE-deskundige, OCE-deskundige en Senior OCE-deskundige, waarvoor in bijlage 2 eindtermen zijn gesteld. Tevens zijn eindtermen vastgesteld voor Basiskennis OCE (overige functionarissen in het OCE werkgebied).
 
 In paragraaf 6.2.1 en bijlage 2zijn eisen betreffende de personele deskundigheid opgenomen. Daarbij wordt onderscheid gemaakt in de volgende deskundigheidsniveaus: Assistent OCE-deskundige, OCE-deskundige en Senior OCE-deskundige, waarvoor in bijlage 2 eindtermen zijn gesteld. Tevens zijn eindtermen vastgesteld voor Basiskennis OCE (overige functionarissen in het OCE werkgebied).
 
@@ -9323,13 +9325,13 @@ Bij de uitvoering van de werkzaamheden zoals beschreven in dit hoofdstuk, dienen
 
 Op de algemene regel zoals hierboven genoemd onder punt 1, gelden de volgende uitzonderingen:
 
-Arbeidsgezondheidskundige begeleiding
+De organisatie moet de processen die nodig zijn voor een veilige, deskundige en juiste uitvoering van het project identificeren en plannen. Ten behoeve daarvan dient te worden voorzien in een schriftelijke procedure voor de werkvoorbereiding, waarin ten minste aandacht wordt besteedt aan:
 
 De organisatie moet de processen die nodig zijn voor een veilige, deskundige en juiste uitvoering van het project identificeren en plannen. Ten behoeve daarvan dient te worden voorzien in een schriftelijke procedure voor de werkvoorbereiding, waarin ten minste aandacht wordt besteedt aan:
 
 De werkvoorbereiding dient ten minste te resulteren in een projectplan. De organisatie dient te beschikken over een procedure inzake hoe te handelen bij het spontaan aantreffen van CE.
 
-Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
+Ten behoeve van de opsporing wordt een projectplan opgesteld. Het projectplan omvat ten minste de volgende onderdelen:
 
 Ten behoeve van de opsporing wordt een projectplan opgesteld. Het projectplan omvat ten minste de volgende onderdelen:
 
@@ -9337,7 +9339,7 @@ Een projectplan voor uitsluitend een detectieonderzoek omvat in ieder geval de o
 
 Het projectplan en de beschrijving van de werkmethoden dienen te borgen dat alle geïdentificeerde risico’s op adequate wijzen worden vermeden of beheerst. In het projectplan dient te worden beschreven welke personen hebben meegewerkt aan de werkvoorbereiding. De Senior OCE-deskundige en een bevoegd lid van het management van de organisatie dienen aantoonbaar te hebben ingestemd met de inhoud van het projectplan.
 
-In het kader van de initiële certificatie van het asbestinventarisatiebedrijf worden verschillende processen
+Het projectplan dient aantoonbaar te zijn goedgekeurd door de opdrachtgever en de gemeente(n) waarbinnen het opsporingsgebied is gelegen. Goedkeuring door de gemeente dient plaats te vinden door of namens de verantwoordelijke voor openbare orde en publieke veiligheid. Indien de uitvoering van het project ook van invloed kan zijn op de openbare orde en publieke veiligheid in (een) omliggende gemeente(e), wordt ook aan deze gemeente(n) om goedkeuring van het projectplan gevraagd. De goedkeuring van het projectplan door gemeente(n) en opdrachtgever wordt opgenomen in het projectdossier, evenals de ontvangstbevestiging van de melding aan de CKI (paragraaf 5.1).
 
 Het projectplan dient aantoonbaar te zijn goedgekeurd door de opdrachtgever en de gemeente(n) waarbinnen het opsporingsgebied is gelegen. Goedkeuring door de gemeente dient plaats te vinden door of namens de verantwoordelijke voor openbare orde en publieke veiligheid. Indien de uitvoering van het project ook van invloed kan zijn op de openbare orde en publieke veiligheid in (een) omliggende gemeente(e), wordt ook aan deze gemeente(n) om goedkeuring van het projectplan gevraagd. De goedkeuring van het projectplan door gemeente(n) en opdrachtgever wordt opgenomen in het projectdossier, evenals de ontvangstbevestiging van de melding aan de CKI (paragraaf 5.1).
 
@@ -9345,77 +9347,77 @@ Goedkeuring van het projectplan door de gemeente is niet vereist ingeval het pro
 
 Bij aanpassing van de navolgende onderdelen van het projectplan dient aan de gemeente en de opdrachtgever opnieuw om goedkeuring te worden gevraagd: projectgebonden risico-evaluatie, de beschrijving van de te treffen veiligheidsmaatregelen en het VGM-plan.
 
-De kandidaat Vuurwerkdeskundige dient bij de CKI, in overeenstemming met dit certificatiereglement, een aanvraag in voor het persoonscertificaat Vuurwerkdeskundige. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
+De projectgebonden risico-evaluatie bestaat uit een adequate risico-inventarisatie en -evaluatie voor de opsporing. Hieruit volgen ten minste de benodigde acties gericht op:
 
 De projectgebonden risico-evaluatie bestaat uit een adequate risico-inventarisatie en -evaluatie voor de opsporing. Hieruit volgen ten minste de benodigde acties gericht op:
 
 De organisatie dient te beschikken over een schriftelijke procedure voor de uitvoering van de projectgebonden risico-evaluatie, met expliciet daarin opgenomen de herleidbaarheid en volledigheid van de evaluatie. Tevens dienen de verantwoordelijkheden van de Senior OCE-deskundige te worden omschreven. De resultaten worden opgenomen in het projectdossier.
 
-Bij de aanvraag gelden de volgende eisen:
+Detecteren omvat het vaststellen van de aanwezigheid van (mogelijke) CE door het met behulp van detectieapparatuur uitvoeren van een meting en de beoordeling van de meetgegevens. Voor het uitvoeren van het detectieonderzoek kunnen uiteenlopende methoden en technieken worden ingezet. Er wordt onderscheid gemaakt in analoge detectie en computerondersteunde detectie.
 
 Detecteren omvat het vaststellen van de aanwezigheid van (mogelijke) CE door het met behulp van detectieapparatuur uitvoeren van een meting en de beoordeling van de meetgegevens. Voor het uitvoeren van het detectieonderzoek kunnen uiteenlopende methoden en technieken worden ingezet. Er wordt onderscheid gemaakt in analoge detectie en computerondersteunde detectie.
 
-Verder is er een verzwaring die tot gevolg heeft dat een certificaathouder die overtredingen blijft begaan, zijn certificaat verliest. In bijlagen in SC-530 en SC-540 is opgenomen tot welke herstelsanctie een bepaalde afwijking leidt.
+Voorafgaand aan de detectiewerkzaamheden dient de organisatie de in te zetten detectieapparatuur te selecteren. De selectie van detectiemethoden vindt plaats op basis van de resultaten van de validatie (paragraaf 7.3.3) en de resultaten van het vooronderzoek. De keuze van de detectoren dient te worden beargumenteerd in het projectplan, waarin tevens de relevante apparaatinstellingen worden beschreven. Er worden uitsluitend detectieapparaten ingezet die voldoen aan paragraaf 6.3.3.
 
 Voorafgaand aan de detectiewerkzaamheden dient de organisatie de in te zetten detectieapparatuur te selecteren. De selectie van detectiemethoden vindt plaats op basis van de resultaten van de validatie (paragraaf 7.3.3) en de resultaten van het vooronderzoek. De keuze van de detectoren dient te worden beargumenteerd in het projectplan, waarin tevens de relevante apparaatinstellingen worden beschreven. Er worden uitsluitend detectieapparaten ingezet die voldoen aan paragraaf 6.3.3.
 
-Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het werkveldspecifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de condities met betrekking tot de certificatie, de afgifte en intrekking van certificaten, procedures bij het uitvoeren van initiële en periodieke beoordelingen, afhandeling van klachten en het eventuele verzoek tot herziening daarvan.
+Bij aanvang van de detectiewerkzaamheden dienen de projectgegevens zoals opgenomen in het projectplan te worden geverifieerd. De verificatie wordt aangetekend op de veldwerkregistraties. Ingeval van afwijkende omstandigheden die van invloed zijn op de kwaliteit van de detectie, dient terugkoppeling plaats te vinden met de werkvoorbereiding. De bediening van detectieapparatuur dient te voldoen aan paragraaf 6.3.3.
 
 Bij aanvang van de detectiewerkzaamheden dienen de projectgegevens zoals opgenomen in het projectplan te worden geverifieerd. De verificatie wordt aangetekend op de veldwerkregistraties. Ingeval van afwijkende omstandigheden die van invloed zijn op de kwaliteit van de detectie, dient terugkoppeling plaats te vinden met de werkvoorbereiding. De bediening van detectieapparatuur dient te voldoen aan paragraaf 6.3.3.
 
-Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
+De resultaten van het detectieonderzoek dienen te worden geregistreerd, waarbij in ieder geval wordt aangegeven:
 
 De resultaten van het detectieonderzoek dienen te worden geregistreerd, waarbij in ieder geval wordt aangegeven:
 
 De veldwerkregistraties worden ingevuld door of onder verantwoordelijkheid van de OCE-deskundige.
 
-Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
+Bij analoge detectie vindt de beoordeling van de meetgegevens direct tijdens de uitvoering van de meting plaats door de OCE-deskundige. Van de aangetroffen CE worden in ieder geval de volgende gegevens geregistreerd:
 
 Bij analoge detectie vindt de beoordeling van de meetgegevens direct tijdens de uitvoering van de meting plaats door de OCE-deskundige. Van de aangetroffen CE worden in ieder geval de volgende gegevens geregistreerd:
 
-In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
+De computerondersteunde detectie resulteert in een objectenlijst met ten minste:
 
 De computerondersteunde detectie resulteert in een objectenlijst met ten minste:
 
 Ten behoeve van het opstellen van een objectenlijst vindt na uitvoering van de meting een beoordeling van de meetgegevens plaats door of onder verantwoordelijkheid van de Senior OCE-deskundige. Dit dient aantoonbaar te worden gemaakt in de rapportage van de detectie. In deze rapportage wordt duidelijk aangegeven en beargumenteerd op welke wijze de meetgegevens zijn gemodelleerd, mede in relatie tot de resultaten van het vooronderzoek. In de rapportage van de detectie worden aanbevelingen gedaan voor de verdere aanpak van benaderen.
 
-Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte, legt een dossier aan t.b.v. de voortgangsbewaking en neemt de afhandeling van de klacht mee door bedrijf/persoon bij eerstvolgende beoordeling.
+Door middel van het lokaliseren wordt de ligplaats van de gedetecteerde objecten vastgesteld. Het lokaliseren bestaat uit het:
 
 Door middel van het lokaliseren wordt de ligplaats van de gedetecteerde objecten vastgesteld. Het lokaliseren bestaat uit het:
 
 De definitieve lokalisatiegegevens worden op de objectenlijst vastgelegd. Door middel van het lokaliseren wordt een ontgravingsdiepte vastgesteld die vervolgens wordt ontgraven.
 
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
+Door het laagsgewijs ontgraven wordt het object blootgelegd, waardoor deze kan worden waargenomen. In het projectplan wordt aangegeven op welke wijze het laagsgewijs ontgraven plaatsvindt en welke middelen er worden ingezet. Het projectplan wordt hiertoe zo nodig aangevuld op basis van de resultaten van het detectieonderzoek. Alle betrokken partijen worden over de aanpassingen geïnformeerd. De organisatie dient te beschikken over de noodzakelijke werkinstructies voor activiteiten die in het kader van het laagsgewijs ontgraven worden uitgevoerd. Voor de eisen aan civieltechnische activiteiten wordt verwezen naar paragraaf 6.6.11.
 
 Door het laagsgewijs ontgraven wordt het object blootgelegd, waardoor deze kan worden waargenomen. In het projectplan wordt aangegeven op welke wijze het laagsgewijs ontgraven plaatsvindt en welke middelen er worden ingezet. Het projectplan wordt hiertoe zo nodig aangevuld op basis van de resultaten van het detectieonderzoek. Alle betrokken partijen worden over de aanpassingen geïnformeerd. De organisatie dient te beschikken over de noodzakelijke werkinstructies voor activiteiten die in het kader van het laagsgewijs ontgraven worden uitgevoerd. Voor de eisen aan civieltechnische activiteiten wordt verwezen naar paragraaf 6.6.11.
 
-De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
+De organisatie dient het werkingsprincipe en het scheidingsbereik (welke CE) van gebruikte munitiescheidingsinstallatie(s) te documenteren en ten minste jaarlijks te valideren. Tevens dient een risico-inventarisatie & -evaluatie te worden uitgevoerd en gedocumenteerd, op basis waarvan de te treffen veiligheidsmaatregelen en persoonlijke beschermingsmiddelen worden bepaald en uitgevoerd.
 
 De organisatie dient het werkingsprincipe en het scheidingsbereik (welke CE) van gebruikte munitiescheidingsinstallatie(s) te documenteren en ten minste jaarlijks te valideren. Tevens dient een risico-inventarisatie & -evaluatie te worden uitgevoerd en gedocumenteerd, op basis waarvan de te treffen veiligheidsmaatregelen en persoonlijke beschermingsmiddelen worden bepaald en uitgevoerd.
 
 Bij toepassing van munitiescheiding dient in het projectplan te worden gemotiveerd waarom munitiescheiding wordt toegepast en of deze, gegeven de aanwezige CE en de toegepaste munitiesheidingsinstallatie, het vereiste resultaat oplevert. Bij deze motivatie worden in ieder geval de resultaten van het vooronderzoek en/of detectieonderzoek betrokken. Bij het toepassen van munitiescheiding vindt de identificatie van CE en het tijdelijk veilig stellen van de situatie en de overdracht van CE en schroot plaats volgens de toepasselijke paragrafen.
 
-De resultaten van ieder onderdeel van de beoordeling worden aan de kandidaat gerapporteerd conform de richtlijnen in de vigerende versie van NEN-EN-ISO/IEC 19011: 2002.
+De identificatie volgt op het aantreffen van het object en heeft tot doel om vast te stellen of sprake is van een CE, en zo ja, om de soort, subsoort en wapeningstoestand (gewapende of ongewapende CE) van eventueel geplaatste ontstekers te bepalen. Van de identificatie wordt het volgende geregistreerd:
 
 De identificatie volgt op het aantreffen van het object en heeft tot doel om vast te stellen of sprake is van een CE, en zo ja, om de soort, subsoort en wapeningstoestand (gewapende of ongewapende CE) van eventueel geplaatste ontstekers te bepalen. Van de identificatie wordt het volgende geregistreerd:
 
 De geregistreerde gegevens vormen een onderdeel van het projectdossier en worden als zodanig gearchiveerd.
 
-Algemeen:
+Het tijdelijk veiligstellen van de situatie omvat alle activiteiten na de benadering en identificatie die benodigd zijn om de uitwerkingsrisico’s van het CE in relatie tot de omgeving te beheersen tot aan het tijdstip van overdracht van het explosief aan EODD. Er worden bij het tijdelijk veiligstellen van de situatie geen demontagehandelingen aan het CE zelf verricht. De wijze van tijdelijk veiligstellen en de getroffen beschermende maatregelen worden geregistreerd.
 
 Het tijdelijk veiligstellen van de situatie omvat alle activiteiten na de benadering en identificatie die benodigd zijn om de uitwerkingsrisico’s van het CE in relatie tot de omgeving te beheersen tot aan het tijdstip van overdracht van het explosief aan EODD. Er worden bij het tijdelijk veiligstellen van de situatie geen demontagehandelingen aan het CE zelf verricht. De wijze van tijdelijk veiligstellen en de getroffen beschermende maatregelen worden geregistreerd.
 
-Indien de CKI het asbestinventarisatiebedrijf een certificaat heeft verleend, ziet de CKI er uiterlijk bij de eerstvolgende controle op toe dat het asbestinventarisatiebedrijf, binnen een termijn van maximaal vier maanden na de eerste beoordeling op locatie, een voorlopig inventarisatierapport, zoals bedoeld in par. 4.3.7.1, heeft omgezet in een definitieve versie conform alle eisen van de SC-540.
+De voorziening voor het tijdelijk veiligstellen van de situatie van CE dient te voldoen aan bijlage 6. Transport van CE dient te voldoen aan de daarvoor geldende regelgeving.
 
 De voorziening voor het tijdelijk veiligstellen van de situatie van CE dient te voldoen aan bijlage 6. Transport van CE dient te voldoen aan de daarvoor geldende regelgeving.
 
-De beoordeling kan slechts worden afgerond, indien de kandidaat minimaal 2 volledige inventarisatierapporten heeft opgesteld die aan de eisen van de SC-540 voldoen. De resultaten van de asbestinventarisaties, waaronder de betreffende rapportages, maken deel uit van de beoordeling.
+Het ruimen van aangetroffen CE tijdens opsporingswerkzaamheden wordt uitgevoerd door de EODD. Voor aanvang van een opsporingproject, met uitzondering van een project dat alleen een detectieonderzoek omvat, wordt de EODD geïnformeerd overeenkomstig bijlage 1.
 
 Het ruimen van aangetroffen CE tijdens opsporingswerkzaamheden wordt uitgevoerd door de EODD. Voor aanvang van een opsporingproject, met uitzondering van een project dat alleen een detectieonderzoek omvat, wordt de EODD geïnformeerd overeenkomstig bijlage 1.
 
 De overdracht van CE aan de EODD vindt plaats in aanwezigheid van Senior OCE-deskundige volgens het protocol in bijlage 1. Voorgeschreven registraties in het protocol dienen te worden opgenomen in het projectdossier. Voorafgaand aan afvoer van schroot vindt een eindcontrole plaats door de Senior OCE-deskundige. Deze eindcontrole wordt geregistreerd.
 
-Tenzij de certificaathouder schriftelijk te kennen heeft gegeven het certificaat niet te willen voortzetten, zal de CKI in het laatste jaar van de lopende certificatieperiode de jaarlijkse beoordelingen bij de filialen/vestigingen in het algemeen drie maanden voor vervaldatum van het certificaat dienen te hebben afgerond. Daarbij wordt zoveel mogelijk de procedure gevolgd omschreven in par. 4.3.5.
+De civieltechnische ondersteuning omvat het geheel van organisatie en uitvoering van civieltechnische activiteiten die de opsporing mogelijk maken. Indien voor de opsporing gebruik wordt gemaakt van civieltechnisch materieel, wordt het project uitgevoerd door een organisatie die beschikt, dan wel een combinatie van twee organisaties die gezamenlijk beschikken, over een certificaat conform deelgebied A en B.
 
 De civieltechnische ondersteuning omvat het geheel van organisatie en uitvoering van civieltechnische activiteiten die de opsporing mogelijk maken. Indien voor de opsporing gebruik wordt gemaakt van civieltechnisch materieel, wordt het project uitgevoerd door een organisatie die beschikt, dan wel een combinatie van twee organisaties die gezamenlijk beschikken, over een certificaat conform deelgebied A en B.
 
@@ -9425,7 +9427,7 @@ De organisatie dient de civieltechnische activiteiten die vallen onder werking v
 
 Indien de organisatie haar diensten verleent aan derden dient men actief bij te dragen aan de veiligheidsbeheersing van de civieltechnische activiteiten. Eventuele adviezen dienen te worden geregistreerd in het projectdossier.
 
-De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
+Na uitvoering van het project dient het terrein conform afspraak te worden opgeleverd. De wijze van opleveren staat vermeld in het projectplan. Indien daarin niets is vermeld, dient het terrein in de oorspronkelijke staat te zijn teruggebracht. Deze oorspronkelijke staat dient in dat geval te zijn beschreven en opgenomen in het projectdossier.
 
 Na uitvoering van het project dient het terrein conform afspraak te worden opgeleverd. De wijze van opleveren staat vermeld in het projectplan. Indien daarin niets is vermeld, dient het terrein in de oorspronkelijke staat te zijn teruggebracht. Deze oorspronkelijke staat dient in dat geval te zijn beschreven en opgenomen in het projectdossier.
 
@@ -9435,7 +9437,7 @@ Een proces-verbaal van oplevering wordt opgesteld door of namens de opdrachtgeve
 
 In het proces-verbaal van oplevering wordt de volgende aanbeveling opgenomen: de opdrachtgever wordt aanbevolen om een afschrift van dit proces-verbaal van oplevering toe te zenden aan de gemeente(n) waarbinnen het opsporingsgebied is gelegen.
 
-Indien uit de extra beoordeling blijkt dat de klacht terecht is, wordt deze als extra beoordeling in rekening gebracht. Indien blijkt dat de klacht onterecht is, wordt de extra beoordeling beschouwd als een reguliere (project)beoordeling, die de eerstvolgende, in de toekomst geplande beoordeling vervangt.
+De organisatie dient ten behoeve van de procesbeheersing aan het eind van ieder project een evaluatie op te stellen. Deze evaluatie kan een gezamenlijk document betreffen van de verschillende partijen, welke in de afzonderlijke projectdossiers dient te worden opgenomen.
 
 De organisatie dient ten behoeve van de procesbeheersing aan het eind van ieder project een evaluatie op te stellen. Deze evaluatie kan een gezamenlijk document betreffen van de verschillende partijen, welke in de afzonderlijke projectdossiers dient te worden opgenomen.
 
@@ -9443,7 +9445,7 @@ Er dient ten minste aandacht te worden besteed aan:
 
 De evaluaties dienen als belangrijke input voor de jaarlijkse beoordeling door de directie zoals bedoeld in paragraaf 6.4.6.
 
-Te stellen eisen aan de examenlocatie zijn:
+Deze paragraaf is van toepassing op de begeleiding van onderzoekswerkzaamheden in OCE verdacht gebied door een organisatie die gecertificeerd is volgens deelgebied A (hierna organisatie).
 
 Deze paragraaf is van toepassing op de begeleiding van onderzoekswerkzaamheden in OCE verdacht gebied door een organisatie die gecertificeerd is volgens deelgebied A (hierna organisatie).
 
@@ -9451,11 +9453,11 @@ Concreet betreft het de begeleiding van onderzoeksbureaus die milieukundig, arch
 
 De begeleiding heeft tot doel om de onderzoekswerkzaamheden veilig te verrichten, inhoudende dat wordt geborgd dat geen boringen/sonderingen worden geplaatst op plaatsen waar mogelijk een CE ligt. De organisatie dient te beschikken over een procedure waarmee wordt geborgd dat bij de begeleiding van onderzoekswerkzaamheden wordt voldaan aan de eisen in deze paragraaf.
 
-Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden, dient dezelfde procedure doorlopen te worden als bij initiële certificatie. De termijn tussen intrekken en het aanvragen van het nieuwe certificaat is 12 maanden.
+Het opsporingsbedrijf dient de EODD voorafgaand aan het opsporingsproject en bij het aantreffen van CE te informeren overeenkomstig deze bijlage.
 
 Het opsporingsbedrijf dient de EODD voorafgaand aan het opsporingsproject en bij het aantreffen van CE te informeren overeenkomstig deze bijlage.
 
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier in het daarvoor bestemde vak. De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht. De kwaliteitsmanager maakt de gewijzigde werkwijze bekend. De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier in het vak bevindingen vervolgonderzoek. De kwaliteitsmanager archiveert de documenten van de klachtafhandeling.
+In dit certificatieschema zijn deskundigheidsniveaus opgenomen inzake personen die werkzaamheden samenhangende met het opsporen van conventionele explosieven uitvoeren. Daarbij wordt onderscheid gemaakt in de volgende deskundigheidsniveaus: Assistent OCE-deskundige, OCE-deskundige en Senior OCE-deskundige. Personen die werkzaam zijn binnen het OCE werkgebied dienen te voldoen aan de eindtermen voor Basiskennis OCE.
 
 In dit certificatieschema zijn deskundigheidsniveaus opgenomen inzake personen die werkzaamheden samenhangende met het opsporen van conventionele explosieven uitvoeren. Daarbij wordt onderscheid gemaakt in de volgende deskundigheidsniveaus: Assistent OCE-deskundige, OCE-deskundige en Senior OCE-deskundige. Personen die werkzaam zijn binnen het OCE werkgebied dienen te voldoen aan de eindtermen voor Basiskennis OCE.
 
@@ -9471,23 +9473,23 @@ Bijlage 2C: eindtermen Senior OCE-deskundige
 
 Bijlage 2D: eindtermen Basiskennis OCE
 
-In een inventarisatie dient al het aanwezige asbest geïnventariseerd te worden. De asbestinventariseerder zal niet zonder reden zijn onderzoek mogen beperken. Indien werkzaamheden op een bepaalde plek verricht moeten worden, zal de inventariseerder daar moeten inventariseren. Indien de inventarisatie niet volledig is, bestaat het risico dat de verwijderaar of de aannemer tijdens zijn werkzaamheden onverwacht asbest tegenkomt. Vaak is dit al beschadigd tegen de tijd dat wordt ontdekt dat het om asbest gaat, zodat er al asbestemissie en blootstelling aan asbestvezels heeft plaatsgevonden. Het is nu juist de bedoeling dat dit soort verrassingen worden voorkomen door een volledig en diepgaand onderzoek door de inventariseerder.
-
 De CKI stelt de certificaathouder schriftelijk en met opgave van redenen op de hoogte van zijn beslissing naar aanleiding van het klachtenonderzoek. Eventuele extra kosten die aan de maatregel zijn verbonden kunnen door de CKI aan de certificaathouder in rekening worden gebracht. De CKI stelt een verslag op van de bevindingen van het toezicht. Dit verslag wordt ter beschikking gesteld van de certificaathouder. Deze kan naar aanleiding hiervan een klacht of herzieningsverzoek indienen bij de CKI. De daarbij te volgen werkwijzen zijn beschreven in paragraaf 4.6 en 4.7 van onderhavig document.
+
+1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
 
 1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
 
 2 Gezien de bijzondere positie van de EODD (Circulaire nr 17961), de daarbij gepaard gaande verantwoordelijkheid, de intensieve EODD opleiding en begeleiding en de daaraan gekoppelde systematiek van examinering en kwalificering en de combinatie van opsporingswerkzaamheden en ruimwerkzaamheden, wordt voor personen die binnen de EODD opsporingswerkzaamheden volgens het WSCS-OCE verrichten een afwijkende ervaringseis van 1 jaar gehanteerd. Bovendien verricht de EODD met name opsporingswerkzaamheden op (voormalige) Defensieterreinen.
 
-Schorsen van het certificaat vindt plaats indien feiten worden gesignaleerd:
+1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
 
 1 Deze eis geldt niet indien een kandidaat opgaat voor hercertificatie (kandidaat beschikt of heeft beschikt over een certificaat voor dit deskundigheidsniveau, afgegeven conform dit WSCS-OCE) en als onderdeel daarvan ook de eindtermen op de onderliggende deskundigheidsniveaus worden afgetoetst.
 
 2 Gezien de bijzondere positie van de EODD (Circulaire nr. 17961), de daarbij gepaard gaande verantwoordelijkheid, de intensieve EODD opleiding en begeleiding en de daaraan gekoppelde systematiek van examinering en kwalificering en de combinatie van opsporingswerkzaamheden en ruimwerkzaamheden, wordt voor personen die binnen de EODD opsporingswerkzaamheden volgens het WSCS-OCE verrichten een afwijkende ervaringseis van 1,5 jaar gehanteerd. Bovendien verricht de EODD met name opsporingswerkzaamheden op (voormalige) Defensieterreinen.
 
-Er dient door de CKI informatie-uitwisseling met de Inspectie SZW plaats te vinden over geconstateerde gevaarlijke situaties bij werkzaamheden die door een afgegeven of nog af te geven certificaat worden gereguleerd en waardoor de veiligheid of de gezondheid van werknemers of derden in gevaar kan worden gebracht. Wanneer de CKI op enigerlei wijze dergelijke feiten signaleert, zal deze dit terstond telefonisch melden aan de Inspectie SZW. De melding zal door de CKI binnen 24 uur schriftelijk worden bevestigd aan de Inspectie SZW.
-
 Indien er sprake is van een sanctie wordt dit aan de certificaathouder kenbaar gemaakt. Relevante informatie over de sanctie dient door de CKI ingebracht te worden in een centraal registratiesysteem. Tevens dient de Inspectie SZW hiervan in kennis gesteld te worden. De CKI zal, binnen 24 uur na het besluit tot het nemen van de sanctie, de Inspectie SZW hierover schriftelijk berichten.
+
+Deze bijlage maakt onderdeel uit van paragraaf 6.5 van het WSCS-OCE en wordt gebruikt om te beoordelen of bepaalde oorlogshandelingen een indicatie vormen voor de aanwezigheid van CE (verdacht of onverdacht) en voor de horizontale afbakening van het verdachte gebied. Hiervan mag alleen gemotiveerd worden afgeweken.
 
 Deze bijlage maakt onderdeel uit van paragraaf 6.5 van het WSCS-OCE en wordt gebruikt om te beoordelen of bepaalde oorlogshandelingen een indicatie vormen voor de aanwezigheid van CE (verdacht of onverdacht) en voor de horizontale afbakening van het verdachte gebied. Hiervan mag alleen gemotiveerd worden afgeweken.
 
@@ -9503,27 +9505,27 @@ Deze bijlage maakt onderdeel uit van paragraaf 6.5 van het WSCS-OCE en wordt geb
 
 6 De genoemde afstand is de maximale afstand gemeten n.a.v. luchtfoto-interpretatie.
 
-Voor de eerste afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Kandidaat dient te voldoen aan de volgende entreecriteria:
-
 Indien bij het benaderen van CE gebruik wordt gemaakt van materieel dient deze te voldoen aan de onderstaande eisen:
 
-De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
+Indien bij het benaderen van CE gebruik wordt gemaakt van materieel dient deze te voldoen aan de onderstaande eisen:
 
 Toelichting bij tabel 5.2.2:
 
 In het projectplan wordt beschreven welke beschermende maatregelen in welke projectfasen worden getroffen. De te nemen beschermende maatregelen worden goedgekeurd door de gemeente(n) waarbinnen de werkzaamheden plaatsvinden. Deze goedkeuring wordt geregistreerd in het projectdossier.
 
-Er is geen norm beschikbaar voor het treffen van beschermende maatregelen voor de omgeving bij het benaderen van CE. Momenteel worden beschermende maatregelen op projectniveau vastgesteld in overleg met de gemeente(n), de opdrachtgever, het EODD en andere betrokkenen. Daarbij wordt onder andere gebruik gemaakt van richtlijnen die worden gehanteerd door het Ministerie van Defensie.
+In het projectplan wordt beschreven welke beschermende maatregelen in welke projectfasen worden getroffen. De te nemen beschermende maatregelen worden goedgekeurd door de gemeente(n) waarbinnen de werkzaamheden plaatsvinden. Deze goedkeuring wordt geregistreerd in het projectdossier.
 
-De resultaten van beoordelingen door de CKI worden tussentijds aan het asbestinventarisatiebedrijf gerapporteerd.
+Er is geen norm beschikbaar voor het treffen van beschermende maatregelen voor de omgeving bij het benaderen van CE. Momenteel worden beschermende maatregelen op projectniveau vastgesteld in overleg met de gemeente(n), de opdrachtgever, het EODD en andere betrokkenen. Daarbij wordt onder andere gebruik gemaakt van richtlijnen die worden gehanteerd door het Ministerie van Defensie.
 
 De voorziening voor het tijdelijk veiligstellen van de situatie (VTVS) dient te voldoen aan de onderstaande voorwaarden.
 
-Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
+De voorziening voor het tijdelijk veiligstellen van de situatie (VTVS) dient te voldoen aan de onderstaande voorwaarden.
 
 Nadat het certificaat is verleend, voert de CKI gedurende de certificatieperiode periodieke beoordelingen bij de certificaathouder uit.
 
 De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief rapportage.
+
+Document: WDAT-VD: 2012, versie 01
 
 Document: WDAT-VD: 2012, versie 01
 
@@ -9539,11 +9541,9 @@ www.scve.nl
 
 **INHOUD**
 
-Kandidaten die in aanmerking willen komen voor het WSCS-VD met beide toepassingsgebieden, worden geëxamineerd op basis van de toetstermen in de categorieën a, b en c. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal 4,5 uur.
-
 Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van vuurwerkdeskundigen. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
-Het toepassingsgebied wordt op het certificaat weergegeven. Iemand die het certificaat Groot Vuurwerk of Pyrotechnische Speciale Effecten heeft wordt geacht aan de eisen voor het beperkte toepassingsgebied ‘verwerken, verpakken en herverpakken van professioneel vuurwerk in een inrichting’ te voldoen.
+Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van vuurwerkdeskundigen. Het certificaat wordt onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit WDA&T. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden.
 
 Voor het algemene kader van sancties bij geconstateerde afwijkingen wordt verwezen naar Bijlage J.
 
@@ -9551,11 +9551,13 @@ De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op bas
 
 Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
-Indien door een door de minister van SZW aangewezen certificatie-instelling wordt geconstateerd dat een certificaathoudend asbestinventarisatiebedrijf een overtreding begaat volgens de in tabel 5.5.3 (Bijlage H) opgenomen bepalingen, dan wordt door de certificatie-instelling het certificaat van de certificaathouder (on-) voorwaardelijk ingetrokken of geschorst, of ontvangt de certificaathouder een waarschuwing. Na intrekken van het certificaat kan de gewezen certificaathouder pas na 12 maanden een aanvraag indienen voor een nieuw certificaat. Ook voor het bedrijf kan pas na 12 maanden een aanvraag worden ingediend voor een nieuw certificaat. De periode van 12 maanden begint met ingang van de dag volgend op de dag waarop het besluit in werking treedt waarbij het certificaat is ingetrokken.
+Dit werkveldspecifieke document voor aanwijzing en toezicht (WDAT-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het werkveldspecifieke document is door de minister van SZW vastgesteld. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
 Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
 
-De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
+Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
+
+Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
 
 Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
 
@@ -9575,13 +9577,13 @@ Ten behoeve van het certificatieproces, moet de CKI kunnen beschikken over perso
 
 Partijen die belang hebben bij certificatie verwachten dat klachten worden onderzocht en dat deze, als ze terecht zijn, worden gevolgd door passende maatregelen. Een effectieve klachtenbehandeling is van belang voor de bescherming van de CKI, diens klanten en andere belanghebbenden bij certificatie tegen fouten, omissies of onredelijk gedrag. Het vertrouwen dat door belanghebbenden wordt gesteld in certificatie, is mede hiervan afhankelijk.
 
-Het besluit inzake een sanctie met betrekking tot het procescertificaat asbestinventarisatie vanwege geconstateerde afwijkingen door de CKI is gebaseerd op eigen onderzoek of op onderzoek door toezichthoudende en handhavende overheidsinstellingen (Arbeidsinspectie, VROM-Inspectie, (Milieu)politie, Gemeenten).
-
 De waardering bij deel A en B van het examen is één punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theoretische examen. Totaal zijn er met het specifieke deel 16 punten te verdienen. De cesuur is als volgt: men is geslaagd voor de applicatie Pyrotechnische Speciale Effecten deel indien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
 Voor het beoordelen en aanwijzen van CKI’s voor het WSCS-VD gelden de eisen van ISO 17024 en IAF-GD24:2009, alsmede de eisen die gesteld worden aan de CKI op grond van aanwijzing. Voor zover in dit WDAT-VD niet wordt afgeweken van resp. een nadere uitwerking wordt gegeven van de accreditatienorm ISO 17024, wordt deze norm geacht onverkort van toepassing te zijn.
 
-Deel C van het examen bestaat uit vijf cases, waarvan één gebaseerd op een toetsterm uit het algemene deel en vier op toetstermen uit het specifieke deel (applicatie Pyrotechnische Speciale Effecten).
+Voor het beoordelen en aanwijzen van CKI’s voor het WSCS-VD gelden de eisen van ISO 17024 en IAF-GD24:2009, alsmede de eisen die gesteld worden aan de CKI op grond van aanwijzing. Voor zover in dit WDAT-VD niet wordt afgeweken van resp. een nadere uitwerking wordt gegeven van de accreditatienorm ISO 17024, wordt deze norm geacht onverkort van toepassing te zijn.
+
+De CKI verplicht zich op grond van de overeenkomst met de SCVE tot het gebruik van het door de SCVE vastgestelde CCvD (en door SZW geaccordeerde en in regelgeving verankerde) schema’s voor Vuurwerkdeskundige. Het CCvD behartigt de belangen van alle bij het werkveld Vuurwerkdeskundige betrokken partijen (aanbieders en afnemers van het certificaat, overheden, CKI’s, exameninstellingen) op een eerlijke en gelijke wijze, zonder dat enig belang de overhand heeft. Het CCvD ontwikkelt, beheert en onderhoudt het Schema voor aanwijzing en toezicht alsmede het werkveldspecifieke certificatieschema Vuurwerkdeskundige. De CKI past het certificatieschema dat door het CCvD wordt beheerd onverkort toe.
 
 De CKI verplicht zich op grond van de overeenkomst met de SCVE tot het gebruik van het door de SCVE vastgestelde CCvD (en door SZW geaccordeerde en in regelgeving verankerde) schema’s voor Vuurwerkdeskundige. Het CCvD behartigt de belangen van alle bij het werkveld Vuurwerkdeskundige betrokken partijen (aanbieders en afnemers van het certificaat, overheden, CKI’s, exameninstellingen) op een eerlijke en gelijke wijze, zonder dat enig belang de overhand heeft. Het CCvD ontwikkelt, beheert en onderhoudt het Schema voor aanwijzing en toezicht alsmede het werkveldspecifieke certificatieschema Vuurwerkdeskundige. De CKI past het certificatieschema dat door het CCvD wordt beheerd onverkort toe.
 
@@ -9589,13 +9591,13 @@ In ISO 17024 wordt aangegeven dat het scheme committee (CCvD) zelf kan bepalen o
 
 Na de acceptatie in het CCvD van wijzigingen in het WSCS, biedt het CCvD het gewijzigde schema aan aan de minister van SZW. De Minister verklaart vervolgens het schema verbindend door middel van een statische verwijzing in de wet- en regelgeving. Indien de Minister overwegende bezwaren heeft tegen één of meer onderdelen treedt hij daarover in overleg met het CCvD. Het CCvD kan de schema’s vervolgens aanpassen. Indien het CCvD zich niet kan vinden in de bezwaren van minister zal zij dit met redenen omkleed aan de minister duidelijk maken. De Minister neemt vervolgens een besluit.
 
-Bij meldingen door overheidsinstellingen dient de CKI de betreffende overheidsinstelling te berichten wat met de melding is gedaan.
+Specifiek voor het WSCS-VD, dient de CKI een klachtenregeling en een bezwaarprocedure vast te stellen. Deze regelingen moeten voldoen aan het in het WSCS-VD gestelde. De regelingen dienen te waarborgen dat bezwaarschriften en klachten op een onafhankelijke en onbevooroordeelde wijze worden afgehandeld.
 
 Specifiek voor het WSCS-VD, dient de CKI een klachtenregeling en een bezwaarprocedure vast te stellen. Deze regelingen moeten voldoen aan het in het WSCS-VD gestelde. De regelingen dienen te waarborgen dat bezwaarschriften en klachten op een onafhankelijke en onbevooroordeelde wijze worden afgehandeld.
 
 Voorschriften met betrekking tot het handelen van certificaathouders zijn vastgelegd in de Gedragscode Vuurwerkdeskundige, zoals opgenomen in bijlage A van het WSCS-VD. De aanvrager / certificaathouder Vuurwerkdeskundige dient zich hieraan bij certificatie en hercertificatie schriftelijk te conformeren.
 
-Het resultaat van het algemene deel van het examen blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen of herexamen doen voor een aanvullende applicatie.
+De toetsmethodiek die wordt toegepast bij het bepalen van de competentie van aanvragers van het persoonscertificaat Vuurwerkdeskundige, is beschreven in de hoofdstukken 9 tot en met 11 van het WSCS-VD. Op basis van rapportages van de CKI (zie verder), bepaalt het CCvD tenminste jaarlijks de voortdurend de eerlijkheid, validiteit, betrouwbaarheid en actualiteit van de toetsmethodiek.
 
 De toetsmethodiek die wordt toegepast bij het bepalen van de competentie van aanvragers van het persoonscertificaat Vuurwerkdeskundige, is beschreven in de hoofdstukken 9 tot en met 11 van het WSCS-VD. Op basis van rapportages van de CKI (zie verder), bepaalt het CCvD tenminste jaarlijks de voortdurend de eerlijkheid, validiteit, betrouwbaarheid en actualiteit van de toetsmethodiek.
 
@@ -9603,7 +9605,7 @@ Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van t
 
 De CKI onderzoekt tenminste jaarlijks de eerlijkheid, validiteit en betrouwbaarheid van de examenmethodiek, en rapporteert hierover schriftelijk aan het CCvD Vuurwerkdeskundige. De CKI dient voor dit onderzoek te beschikken over een beschrijving van de toegepaste methoden (zoals het verzamelen en bewaren van statistische gegevens). In de rapportage beschrijft de CKI verder het algehele verloop van elk examen en op welke wijze eventuele afwijkingen die zich daarbij hebben voorgedaan zijn gecorrigeerd.
 
-De examenkandidaat is geslaagd voor deel C van het examen indien hij van voor de cases tenminste 60% van het totale aantal te behalen punten heeft gescoord en tevens geen fatale fout op een KO-onderdeel heeft gemaakt.
+Bij de uitvoering van het werkveldspecifieke certificatieschema Vuurwerkdeskundige is het navolgende certificatiepersoneel betrokken.
 
 Bij de uitvoering van het werkveldspecifieke certificatieschema Vuurwerkdeskundige is het navolgende certificatiepersoneel betrokken.
 
@@ -9621,19 +9623,19 @@ Beoordelaar persoonscertificaat Vuurwerkdeskundige
 
 Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige
 
-Op het certificaat dient vermeld te worden dat de CKI verklaart dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema met betrekking tot het/de relevante toepassingsgebied(en).
+Een CKI is bevoegd om, met inachtneming van de door SZW aan de aanwijzing van die CKI verbonden eisen, het ontwikkelen en afnemen van examens Vuurwerkdeskundige door externe exameninstellingen te laten verrichten. Hiertoe dient een schriftelijke overeenkomst tot uitbesteding te worden gesloten waarin de taken, bevoegdheden en verantwoordelijkheden van de CKI en de exameninstelling zijn opgenomen. Ingeval van uitbesteding aanvaardt de CKI de volledige eindverantwoordelijkheid voor de uitbestede werkzaamheden. De CKI verstrekt aan SCVE te allen tijde een accurate lijst van onderaannemers in het kader van de persoonscertificatieschema Vuurwerkdeskundige.
 
 Een CKI is bevoegd om, met inachtneming van de door SZW aan de aanwijzing van die CKI verbonden eisen, het ontwikkelen en afnemen van examens Vuurwerkdeskundige door externe exameninstellingen te laten verrichten. Hiertoe dient een schriftelijke overeenkomst tot uitbesteding te worden gesloten waarin de taken, bevoegdheden en verantwoordelijkheden van de CKI en de exameninstelling zijn opgenomen. Ingeval van uitbesteding aanvaardt de CKI de volledige eindverantwoordelijkheid voor de uitbestede werkzaamheden. De CKI verstrekt aan SCVE te allen tijde een accurate lijst van onderaannemers in het kader van de persoonscertificatieschema Vuurwerkdeskundige.
 
 Alvorens tot acceptatie van een exameninstelling over te gaan, beoordeelt de CKI deze op het voldoen aan de eisen uit de paragrafen 5.2 tot en met 5.5 van het WSCS SCVE-VD. De resultaten en conclusies van deze beoordeling legt de CKI schriftelijk vast. De CKI herhaalt deze beoordeling van de exameninstelling tenminste jaarlijks. Ook woont de CKI tenminste jaarlijks een examen Vuurwerkdeskundige van de exameninstelling bij en legt de resultaten en conclusies hiervan schriftelijk vast. Indien door de CKI tijdens een beoordeling van de exameninstelling of bijwoning van een examen Vuurwerkdeskundige wordt vastgesteld dat niet wordt voldaan aan de gestelde eisen, dient de exameninstelling corrigerende maatregelen door te voeren, ten einde de vastgestelde afwijking te corrigeren en herhaling te voorkomen. De maximale termijn voor het doorvoeren van corrigerende maatregelen bedraagt drie maanden, met dien verstande dat dit te allen tijde vóór het eerstvolgende examen Vuurwerkdeskundige dient plaats te vinden.
 
-Bij Pyrotechnische Speciale Effecten:
+De eisen die gelden voor examenpersoneel zijn vastgelegd in paragraaf 5.3 van het WSCS SCVE-VD. Het examenpersoneel wordt voor aanstelling door de CKI beoordeeld op het voldoen aan deze eisen. Registraties van deze beoordeling worden door de CKI bewaard in het personeelsdossier van de betreffende medewerker van de exameninstelling.
 
 De eisen die gelden voor examenpersoneel zijn vastgelegd in paragraaf 5.3 van het WSCS SCVE-VD. Het examenpersoneel wordt voor aanstelling door de CKI beoordeeld op het voldoen aan deze eisen. Registraties van deze beoordeling worden door de CKI bewaard in het personeelsdossier van de betreffende medewerker van de exameninstelling.
 
 Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
 
-Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
+De CKI is ervoor verantwoordelijk dat elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling de beschikking heeft over een schriftelijke instructie, met daarin diens taken en verantwoordelijkheden. Deze instructies worden actueel gehouden.
 
 De CKI is ervoor verantwoordelijk dat elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling de beschikking heeft over een schriftelijke instructie, met daarin diens taken en verantwoordelijkheden. Deze instructies worden actueel gehouden.
 
@@ -9641,45 +9643,45 @@ Personeel van de CKI en de exameninstelling dat is betrokken bij het certificati
 
 Mocht zich onverhoopt een mogelijke belangenverstrengeling voordoen, dan is de examinator in kwestie verplicht dit onverwijld te melden aan de CKI. De CKI neemt in dat geval maatregelen om te voorkomen dat de vertrouwelijkheid en onpartijdigheid van het examen niet in gevaar komt. Dit houdt in dat de examenkandidaat in kwestie wordt beoordeeld door een andere examinator. Dit wordt schriftelijk vastgelegd in het examenverslag.
 
-Drie jaar na de afgifte van een vijfjarige persoonscertificaat, beoordeelt de CKI de voortdurende vakbekwaamheid van de certificaathouder. Voor deze tussentijdse beoordeling van vijfjarige persoonscertificaten, gelden de volgende criteria:
+De CKI beschikt over een actueel dossier van elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling. Dit dossier is toegankelijk voor de persoon in kwestie en bevat de volgende informatie:
 
 De CKI beschikt over een actueel dossier van elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling. Dit dossier is toegankelijk voor de persoon in kwestie en bevat de volgende informatie:
 
-De kosten van extra toezicht dat moet worden gehouden, omdat een afwijking is geconstateerd, komt voor rekening van de certificaathouder.
+In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
 
 In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
 
-**Toelichting:**
+De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
 
 De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
 
-Deel II van dit certificatieschema bevat de normen die gelden voor een procescertificaat voor Asbestinventarisatie. Beschreven worden achtereenvolgens:
+De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
 
 De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
 
-**Toelichting:**
+De CKI dient certificaathouders Vuurwerkdeskundige aantoonbaar te informeren over de voorschriften met betrekking tot het gebruik van het persoonscertificaat Vuurwerkdeskundige en de hierbij behorende logo’s/merktekens. Deze voorschriften moeten schriftelijk zijn vastgelegd en deel uitmaken van de certificatieovereenkomst tussen beide partijen. Hierin moeten tevens de sancties worden beschreven die gelden bij onjuist gebruik van certificaten en/of logo’s/merktekens, zoals opschorting of intrekking van het persoonscertificaat Vuurwerkdeskundige.
 
 De CKI dient certificaathouders Vuurwerkdeskundige aantoonbaar te informeren over de voorschriften met betrekking tot het gebruik van het persoonscertificaat Vuurwerkdeskundige en de hierbij behorende logo’s/merktekens. Deze voorschriften moeten schriftelijk zijn vastgelegd en deel uitmaken van de certificatieovereenkomst tussen beide partijen. Hierin moeten tevens de sancties worden beschreven die gelden bij onjuist gebruik van certificaten en/of logo’s/merktekens, zoals opschorting of intrekking van het persoonscertificaat Vuurwerkdeskundige.
 
 De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
 
-Een inventarisatiebureau dat deel uitmaakt van een grotere organisatie die ook nog andere dan inventarisatiewerkzaamheden uitvoert, moet duidelijk als zelfstandige eenheid binnen een dergelijke organisatie te onderscheiden zijn, waaraan de verantwoordelijkheden met betrekking tot SC-540 eenduidig kunnen worden toegerekend. Binnen eenzelfde moederorganisatie dient de asbestinventarisatie onder één procescertificaat te worden uitgevoerd.
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
 De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
-Het inventarisatiebureau moet beschikken over beheerde documentatie waarin doel, onderzoeksgebied en het technisch kunnen van het bedrijf zijn vastgelegd.
-
 In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling.
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling.
 
 Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
-Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
 Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
-Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
-
 De hierna vermelde grenswaarden gelden bij een temperatuur van 20 °C en een druk van 101,3 kPa.
+
+Document: WSCS-VD: 2012, versie 01
 
 Document: WSCS-VD: 2012, versie 01
 
@@ -9695,11 +9697,11 @@ www.scve.nl
 
 **INHOUD**
 
-7 Nanogr/m3
+Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
 Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
-Het inventarisatiebureau moet voldoende faciliteiten bieden om de technische competentie op peil te houden en haar werkzaamheden op het vereiste niveau te kunnen uitvoeren. Hiertoe moeten dus voldoende mensen en middelen ter beschikking worden gesteld. Waarborgen en randvoorwaarden worden vastgelegd.
+Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
 
@@ -9709,21 +9711,21 @@ De te certificeren vakbekwaamheid betreft:
 
 Het certificatiesysteem van de Certificatie Instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de ISO/IEC 17024: 2003 en IAF GD 24:2004.
 
-**Onder beheer van:**
-
 Stichting Ascert
 
 Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
 
-Het inventarisatiebureau moet zorgdragen voor effectief toezicht door deskundige medewerkers op het inventarisatieproces, in het bijzonder de visuele inspectie, de gehanteerde inventarisatietechnieken, de te inventariseren objecten, de risicoclassificatie en de in het inventarisatierapport opgenomen conclusies en aanbevelingen voor de asbestinventarisatie.
+Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
 
 Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
-Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
+Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
 
 Binnen het kader van dit certificatieschema zijn actief:
 
-Van alle ingezette medewerkers voor asbestinventarisatie, of direct daaraan gerelateerde onderwerpen, moet een functieomschrijving beschikbaar zijn.
+Binnen het kader van dit certificatieschema zijn actief:
+
+Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
 
 Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
 
@@ -9733,37 +9735,37 @@ De belangrijkste risico’s bij het werken met vuurwerk zijn verwonding of schad
 
 Andere risico’s die zich voordoen bij het werken met vuurwerk zijn:
 
-Het inventarisatiebureau moet over een effectief kwaliteitssysteem beschikken dat is toegesneden op de aard van het werkgebied, de omvang van de uit te voeren inventarisatiewerkzaamheden en het asbestinventarisatierapport, conform hoofdstuk 7.17.
-
 – elektrische aandrijving;
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
 
-– laad en los systeem;
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
 
 De kandidaat Vuurwerkdeskundige dient bij de CKI, in overeenstemming met dit certificatiereglement, een aanvraag in voor het persoonscertificaat Vuurwerkdeskundige. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Toelichting
+De kandidaat Vuurwerkdeskundige dient bij de CKI, in overeenstemming met dit certificatiereglement, een aanvraag in voor het persoonscertificaat Vuurwerkdeskundige. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
 De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrok- ken is geweest bij de beoordeling van de kandidaten en daartoe is gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de CKI heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-Voorafgaande aan het opruimen van asbestbevattend materiaal na een incident (brand / storm) dient het aangegeven stappenplan te worden doorlopen (zie Bijlage G). Zie bijvoorbeeld Informatieblad Plan van Aanpak Asbestbrand 2006.
+De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrok- ken is geweest bij de beoordeling van de kandidaten en daartoe is gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de CKI heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
 Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in paragraaf 3.3. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis de maximale geldigheidsduur van het persoonscertificaat Vuurwerkdeskundige. Deze is door het CCvD-VD vastgesteld op 3 jaar.
 
-Het werkveldspecifieke certificatieschema voor het zorgvuldig, arbeids- en milieuhygiënisch inventariseren van asbest, etc., SC-540, is door Ascert voorgesteld en door het ministerie van SZW vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het CCvD, info@ascert.nl.
+Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in paragraaf 3.3. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis de maximale geldigheidsduur van het persoonscertificaat Vuurwerkdeskundige. Deze is door het CCvD-VD vastgesteld op 3 jaar.
 
 Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop daarop door de CKI toegezien dient te worden, worden opgesteld door het CCvD-VD en vastgelegd in dit certificatieschema.
 
-Binnen de Stichting Certificatie Asbest zijn met name actief:
+Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop daarop door de CKI toegezien dient te worden, worden opgesteld door het CCvD-VD en vastgelegd in dit certificatieschema.
 
 **Met betrekking tot de beheersing en borging van de totstandkoming van het asbestinventarisatierapport zijn collegiale toetsingen een mogelijkheid. Deze zouden als volgt kunnen worden uitgevoerd. Een tweede (doorgaans meer ervaren senior-) inspecteur voert, zonder voorkennis van de resultaten van de eerste inspecteur, op hetzelfde bouwwerk of object een inventarisatie uit. Door vergelijking van de werkwijze en resultaten kan een oordeel worden gevormd over de inventarisatie en de volledigheid waarmee een inventarisatie wordt uitgevoerd. Met name voor kleine inventarisatiebureaus is het ook mogelijk collega-bedrijven in te schakelen voor dergelijke intercollegiale toetsingen.**
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
+
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Conform het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) (AB)is aan deze drie risicoklassen (onderstaande tabel) een eigen specifiek veiligheidsregime gekoppeld.
+Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -9791,9 +9793,9 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Uitwerking:
-
 In de praktijk is het denkbaar, dat in de rapportage van een Type-A onderzoek uitsluitingen zijn opgenomen omdat bijvoorbeeld sommige ruimten niet konden worden onderzocht, of dat het bouwwerk nog in gebruik was ten tijde van de asbestinventarisatie (het gebouw was niet onbelemmerd en passend toegankelijk).
+
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
@@ -9801,77 +9803,77 @@ Algemeen:
 
 Het bezwaar wordt niet-ontvankelijk verklaard:
 
-Het resultaat leidt tot een asbestinventarisatierapport type-B als aanvulling op het asbestinventarisatierapport type-A (zie SC-540 par. 7.17.3). Dit wordt door het asbestinventarisatiebedrijf ter beschikking gesteld aan de eigenaar / opdrachtgever c.q. de houder van de omgevingsvergunning.
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met SCVE tenminste zo vaak als mutaties zich voordoen ter kennisgeving elektronisch verzonden aan het secretariaat van SCVE. De CKI zet een certificaatregister Vuurwerkdeskundige op conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De CKI is verantwoordelijk voor het beheer van het register. Vanaf de website van SCVE wordt doorgelinkt naar de website van de CKI met daarop het certificaatregister.
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met SCVE tenminste zo vaak als mutaties zich voordoen ter kennisgeving elektronisch verzonden aan het secretariaat van SCVE. De CKI zet een certificaatregister Vuurwerkdeskundige op conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De CKI is verantwoordelijk voor het beheer van het register. Vanaf de website van SCVE wordt doorgelinkt naar de website van de CKI met daarop het certificaatregister.
 
-**De opdrachtgever dient aan het bevoegde gezag, de vergunningverlener (gemeente) de aanvullende asbestinventarisatie type-B ter beschikking stellen.**
+Het CCvD-VD dient te zorgen voor eenduidige norminterpretatie van dit WSCS-VD. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere dit werkveldspecifieke certificatieschema gehanteerde begrippen.
 
 Het CCvD-VD dient te zorgen voor eenduidige norminterpretatie van dit WSCS-VD. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere dit werkveldspecifieke certificatieschema gehanteerde begrippen.
 
 Mocht het gebeuren dat certificaathouders, de CKI of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD-VD.
 
-Ter informatie wordt hier melding gemaakt van ‘Beperkte inventarisatie voorafgaand aan een risicobeoordeling conform NEN 2991: 2005 Type 0 (nul)’.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het WSCS-VD.
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het WSCS-VD.
 
-Het resultaat van een type 0 inventarisatie kan dan als startpunt dienen. Uiteraard wordt een type 0 inventarisatie uitsluitend uitgevoerd indien er voor het betreffende bouwwerk of object geen type A inventarisatie beschikbaar is, terwijl er redenen zijn om op korte termijn een NEN 2991: 2005 risicobeoordeling uit te voeren.
+Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
 
 Dit examenreglement is onderdeel van het certificatieschema SCVE-VD. De examinering geschiedt onder verantwoordelijkheid van De CKI en bestaat uit de volgende delen:
 
-Voorwaarde voor het uitvoeren van een NEN 2991: 2005 onderzoek is dat er voorafgaand aan het NEN 2991: 2005 onderzoek altijd een asbestinventarisatierapport type 0 is opgesteld. Indien de resultaten van een NEN 2991: 2005 onderzoek naar een asbestsanering leiden dienen de resultaten van het type 0 en het NEN 2991: 2005 onderzoek als basis (deskresearch) voor het opstellen van het Type-A onderzoek. Uitsluitend met een Type A onderzoek kan worden gesaneerd.
+De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
 
 De exameninstelling dient het examenreglement, zoals bedoeld in 5.1 te hanteren waarin de volgende zaken opgenomen dienen te zijn:
 
 De exameninstelling en de CKI hebben zich aan elkaar verbonden door middel van een overeenkomst. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van ISO/IEC 17024. De CKI is verplicht aan SCVE te melden dat examens worden afgenomen door een externe exameninstelling en welke instelling het betreft.
 
-Het inventarisatiebureau moet beschikken over passende faciliteiten en uitrusting voor alle uit te voeren inventarisatiewerkzaamheden. De voor asbestinventarisaties benodigde voorzieningen en uitrusting zijn vermeld in par. 7.14.4.
+Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Het selectieproces moet garanderen dat examenpersoneel dat (een deel van) een examen afneemt ten minste voldoet aan de volgende eisen:
 
 Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Het selectieproces moet garanderen dat examenpersoneel dat (een deel van) een examen afneemt ten minste voldoet aan de volgende eisen:
 
 Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
 
-De indeling van bij asbestverwijdering vrijkomende asbestvezels in een risicoklasse is in een geautomatiseerd internetsysteem (SMA-rt) opgenomen. Ascert beheert en onderhoudt SMA-rt. Dit systeem dient gebruikt te worden voor de inventarisatie. Een voorwaarde voor een bruikbaar SMA-rt systeem is dat het asbestinventarisatiebedrijf, dat gegevens invoert, onafhankelijk, deskundig en integer is (zie SC-540 par. 7.6 en SC-560: versie 01, datum 15-11-2011).
-
 Het inventarisatiebureau moet beschikken over duidelijke regels voor toegang en gebruik van genoemde faciliteiten en uitrusting.
 
 Medewerkers van de certificatie-/exameninstellingen dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitma- ken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de CKI. Medewerkers van de exameninstelling hebben een verklaring van geheim- houding ondertekend.
 
-Een betrouwbare risicoklassificatie – vastgelegd in het inventarisatierapport – is dus altijd gebaseerd op het gebruik van SMA-rt in combinatie met de argumenten van een deskundige, onafhankelijke en integere inventariseerder, wanneer hij afwijkt van de uitkomst van SMA-rt (zie SC-540 par 7.17.2.6).
+Medewerkers van de certificatie-/exameninstellingen dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitma- ken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de CKI. Medewerkers van de exameninstelling hebben een verklaring van geheim- houding ondertekend.
+
+Te stellen eisen aan de examenlocatie zijn:
 
 Te stellen eisen aan de examenlocatie zijn:
 
 Te stellen eisen aan het examen zijn:
 
-Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het werkveldspecifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de condities met betrekking tot de certificatie, de afgifte en intrekking van certificaten, procedures bij het uitvoeren van initiële en periodieke beoordelingen, afhandeling van klachten en het eventuele verzoek tot herziening daarvan.
+Elke exameninstelling is verantwoordelijk voor het beheer van haar eigen itembank. Dit geschiedt onder strikte geheimhouding door de examencommissie van de exameninstelling.
 
 Elke exameninstelling is verantwoordelijk voor het beheer van haar eigen itembank. Dit geschiedt onder strikte geheimhouding door de examencommissie van de exameninstelling.
 
-De kandidaat certificaathouder dient bij een CKI in overeenstemming met dit certificatiereglement, een aanvraag in tot het uitvoeren van de certificatieprocedure.
+Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder voldoet aan de gestelde eisen. Afhankelijk van het onderwerp van certificatie, de periode van certificatie en de risicoanalyse wordt het toezicht ingevuld.
 
 Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder voldoet aan de gestelde eisen. Afhankelijk van het onderwerp van certificatie, de periode van certificatie en de risicoanalyse wordt het toezicht ingevuld.
 
-De werkgever of de werknemer dient daar zelf om te verzoeken. De individuele arbeidsgezondheidskundige gegevens van de werknemers moeten in persoonlijke dossiers worden opgeslagen. De dossiers moeten tenminste 40 jaar na het eind van de blootstelling worden bewaard.
+De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instelling, de Inspectie SZW en eventuele andere overheidsinstanties. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instelling, de Inspectie SZW en eventuele andere overheidsinstanties. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen.
 
-doorlopen. De CKI dient:
+Het toezicht dat de CKI uitoefent op certificaathouders bestaat uit:
 
 Het toezicht dat de CKI uitoefent op certificaathouders bestaat uit:
 
 De CKI rapporteert jaarlijks aan het CCvD-VD over het aantal en de aard van de over certificaathouders ontvangen klachten en over de wijze waarop deze zijn afgehandeld en eventueel ingestelde sancties naar aanleiding hiervan, het op de certificaathouders uitgevoerde toezicht, de resultaten en eventueel ingestelde sancties naar aanleiding hiervan. Indien het CCvD-VD op basis van deze rapportages van mening is dat aanvullend toezicht gewenst is, kan door de minister van SZW, o.a. op advies van het CCvD-VD, worden besloten tot aanvullende dan wel alternatieve controles. In deze paragraaf zal in dat geval worden aangegeven uit waaruit deze controles dienen te bestaan, wat hun omvang dient te zijn en met welke frequentie de controles worden uitgevoerd.
 
-Wanneer dit relevant is voor de te leveren diensten, moet het inventarisatiebureau over procedures beschikken voor:
+Een klacht over het handelen van een certificaathouder binnen het toepassingsgebied van het certificaat, kan door een belanghebbende worden ingediend bij de CKI of bij de certificaathouder zelf. In dit laatste geval is de certificaathouder verplicht deze klacht te registreren en meteen te melden aan de CKI. De certificaathouder is tevens verplicht constatering of verdenking door het bevoegd gezag van bij de uitvoering van werkzaamheden gepleegde strafbare feiten te registreren en meteen aan de CKI te melden.
 
 Een klacht over het handelen van een certificaathouder binnen het toepassingsgebied van het certificaat, kan door een belanghebbende worden ingediend bij de CKI of bij de certificaathouder zelf. In dit laatste geval is de certificaathouder verplicht deze klacht te registreren en meteen te melden aan de CKI. De certificaathouder is tevens verplicht constatering of verdenking door het bevoegd gezag van bij de uitvoering van werkzaamheden gepleegde strafbare feiten te registreren en meteen aan de CKI te melden.
 
-Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2013-11-01&g=2013-11-01) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
-
-Bij de aanvraag gelden de volgende eisen:
+Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2014-01-01&g=2014-01-01) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
 
 De CKI stelt de certificaathouder schriftelijk en met opgave van redenen op de hoogte van zijn beslissing naar aanleiding van het klachtenonderzoek. Eventuele extra kosten die aan de maatregel zijn verbonden kunnen door de CKI aan de certificaathouder in rekening worden gebracht. De CKI stelt een verslag op van de bevindingen van het toezicht. Dit verslag wordt ter beschikking gesteld van de certificaathouder. Deze kan naar aanleiding hiervan een klacht of herzieningsverzoek indienen bij de CKI. De daarbij te volgen werkwijzen zijn beschreven in paragraaf 4.6 en 4.7 van onderhavig document.
 
-**Toelichting:**
+De CKI stelt de certificaathouder schriftelijk en met opgave van redenen op de hoogte van zijn beslissing naar aanleiding van het klachtenonderzoek. Eventuele extra kosten die aan de maatregel zijn verbonden kunnen door de CKI aan de certificaathouder in rekening worden gebracht. De CKI stelt een verslag op van de bevindingen van het toezicht. Dit verslag wordt ter beschikking gesteld van de certificaathouder. Deze kan naar aanleiding hiervan een klacht of herzieningsverzoek indienen bij de CKI. De daarbij te volgen werkwijzen zijn beschreven in paragraaf 4.6 en 4.7 van onderhavig document.
+
+Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema heeft dit op zo kort mogelijke termijn maatregelen door de CKI tot gevolg. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema heeft dit op zo kort mogelijke termijn maatregelen door de CKI tot gevolg. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat.
 
@@ -9887,25 +9889,23 @@ Indien er sprake is van een sanctie wordt dit aan de certificaathouder kenbaar g
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Bij het opleggen van een sanctie dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
-Na blijk van het voldoen aan genoemde voorwaarden stelt de CKI een aanvraag op voor elke projectlocatie die in de beoordeling van de kandidaat zal worden betrokken. Op grond van de volgende criteria dient Ascert schriftelijke toestemming op de aanvraag gegeven te hebben:
+Deel II van dit WSCS-VD bevat de normen die gelden voor een certificaat voor vakbekwaamheid in een werkveld. Beschreven wordt achtereenvolgens:
 
 Deel II van dit WSCS-VD bevat de normen die gelden voor een certificaat voor vakbekwaamheid in een werkveld. Beschreven wordt achtereenvolgens:
 
-Wanneer relevant moet apparatuur, afgezien van het reguliere kalibratieprogramma, ook voorafgaand aan gebruik worden gecontroleerd.
+Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
 Dit WSCS-VD is opgesteld door het CCvD-VD. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk. Door het Ministerie van SZW is het schema vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
 De te certificeren vakbekwaamheid betreft:
 
-De beoordeling wordt zonder verlening van het certificaat afgebroken indien:
+Voor de eerste afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Kandidaat dient te voldoen aan de volgende entreecriteria:
 
 Voor de eerste afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand een opsomming van de eisen. Kandidaat dient te voldoen aan de volgende entreecriteria:
 
-Het inventarisatiebureau dient per inventarisatieproject te beschikken over een werkvoorschrift dat leidt tot een passend inventarisatieplan inclusief checklijst (zie par. 7.14). Wanneer van toepassing, vereist dit een voldoende kennis van technieken om een representatieve monsterneming te bewerkstelligen en om meetgegevens op de juiste wijze te verwerken en te interpreteren.
-
 De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
 
-**Onder dit punt valt dus de technische beschrijving van het eigenlijke inventarisatieproces, de gebruikte technieken, etc.**
+De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
 
 De hier aangegeven tijdsbesteding voor een reguliere beoordeling is een richtlijn, tijdseenheden zijn inclusief rapportage:
 
@@ -9917,7 +9917,7 @@ De resultaten van ieder onderdeel van de beoordeling worden aan de kandidaat ger
 
 Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
 
-De certificatiebeslissing wordt genomen door de certificaatbeslisser. De beslissing wordt genomen op basis van de beoordelingsrapportage en een bijbehorend schriftelijk advies van de auditor. De CKI draagt er zorg voor dat het schriftelijke besluit, inclusief eventueel certificaat, binnen 10 werkdagen na de laatste beoordeling, dan wel na een tussen CKI en kandidaat overeengekomen andere termijn, aan de kandidaat wordt toegezonden.
+Elke eindterm wordt uitgewerkt in toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm. Bij de uitwerking van de eindtermen is uitgegaan van de stand van de techniek.
 
 Een volledige asbestinventarisatie conform SC-540 kan gefaseerd worden uitgevoerd conform par.
 
@@ -9927,7 +9927,9 @@ Bij het omzetten naar een definitief rapport dient de uitgiftedatum daarvan geli
 
 Het voldoen aan de toetstermen wordt als volgt beoordeeld:
 
-Het certificaat is, behoudens tussentijdse intrekking, drie jaar geldig.
+Het voldoen aan de toetstermen wordt als volgt beoordeeld:
+
+De eind- en toetstermen zijn verdeeld in drie categorieën:
 
 De eind- en toetstermen zijn verdeeld in drie categorieën:
 
@@ -9941,15 +9943,15 @@ Kandidaten die in aanmerking willen komen voor een persoonscertificaat Vuurwerk-
 
 Het toepassingsgebied wordt op het certificaat weergegeven. Iemand die het certificaat Groot Vuurwerk of Pyrotechnische Speciale Effecten heeft wordt geacht aan de eisen voor het beperkte toepassingsgebied ‘verwerken, verpakken en herverpakken van professioneel vuurwerk in een inrichting’ te voldoen.
 
-– transformator;
+De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op basis van:
 
 De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op basis van:
 
 De verdeling van vragen en opdrachten is per categorie toetstermijn weergegeven in de navolgende toetsmatrijzen.
 
-**Toelichting:**
-
 Indien de CI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CI de klager te verwijzen naar het bedrijf of de persoon. De CI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CI een ernstige klacht betreft, dient de CI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CI af te wegen of het gewenst is een extra beoordeling uit te voeren. Het reglement van de CI is bepalend voor de verdere afhandeling van deze klachten.
+
+De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
 De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
@@ -9957,7 +9959,7 @@ Deel A van examen bestaat uit meerkeuze vragen met vier antwoordalternatieven wa
 
 Deel C van het examen bestaat uit vijf cases, waarvan 1 uit het algemene deel van de toetstermen. De overige vier cases zijn gebaseerd op de toetstermen van de afzonderlijke applicaties (Pyrotechnische Speciale Effecten of Groot Vuurwerk).
 
-In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor elke klacht (tekortkoming, verbetervoorstel) wordt een apart klachtenformulier ingevuld.
+De waardering bij deel A en B van het theorie-examen is 1 punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theorie examen. Totaal zijn er met het specifieke deel 16 punten te verdie- nen. De cesuur is als volgt: men is geslaagd voor de applicatie deel Groot Vuurwerk in- dien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
 De waardering bij deel A en B van het theorie-examen is 1 punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theorie examen. Totaal zijn er met het specifieke deel 16 punten te verdie- nen. De cesuur is als volgt: men is geslaagd voor de applicatie deel Groot Vuurwerk in- dien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
@@ -9971,7 +9973,7 @@ De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene d
 
 Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C anderzijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B tellen gezamenlijk mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
 
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier in het daarvoor bestemde vak. De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht. De kwaliteitsmanager maakt de gewijzigde werkwijze bekend. De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier in het vak bevindingen vervolgonderzoek. De kwaliteitsmanager archiveert de documenten van de klachtafhandeling.
+De waardering bij deel A en B van het examen is één punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theoretische examen. Totaal zijn er met het specifieke deel 16 punten te verdienen. De cesuur is als volgt: men is geslaagd voor de applicatie Pyrotechnische Speciale Effecten deel indien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
 De waardering bij deel A en B van het examen is één punt per vraag. De 16 vragen uit deze specifieke toetsmatrijs zijn aanvullend op de 36 vragen van het algemene deel van het theoretische examen. Totaal zijn er met het specifieke deel 16 punten te verdienen. De cesuur is als volgt: men is geslaagd voor de applicatie Pyrotechnische Speciale Effecten deel indien men 70% van de 16 vragen correct heeft beantwoord. Dit betekent een score van 11 (afgerond) goede antwoorden.
 
@@ -9985,7 +9987,7 @@ De examenkandidaat is geslaagd voor het totale deel C van het examen (algemene d
 
 Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C van het examen anderszijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B gezamenlijk tellen mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
 
-De gegevens, vastgelegd in het kader van de uitgevoerde inventarisaties, moeten voldoende informatie bevatten om hieruit eenduidige inventarisatieresultaten te kunnen afleiden.
+Indien een examenkandidaat een persoonscertificaat voor beide specifieke vakbekwaamheden, Groot Vuurwerk en Pyrotechnische Speciale Effecten wil behalen, dient hij voor beide specifieke examenvarianten (applicaties Groot Vuurwerk en Pyrotechnische Speciale Effecten) een voldoende te hebben gehaald.
 
 Indien een examenkandidaat een persoonscertificaat voor beide specifieke vakbekwaamheden, Groot Vuurwerk en Pyrotechnische Speciale Effecten wil behalen, dient hij voor beide specifieke examenvarianten (applicaties Groot Vuurwerk en Pyrotechnische Speciale Effecten) een voldoende te hebben gehaald.
 
@@ -9993,7 +9995,7 @@ Dat betekent op beide varianten (GV en PSE) van deel A en B van het examen tenmi
 
 Het resultaat van het algemene deel van het examen blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen of herexamen doen voor een aanvullende applicatie.
 
-**Toelichting:**
+De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
 De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
@@ -10003,11 +10005,11 @@ De examenkandidaat is geslaagd voor deel C van het examen indien hij van voor de
 
 Het resultaat van het examen in het beperkte toepassingsgebied blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen doen voor (een) aanvullende applicatie(s), dat wil zeggen GV en/of PSE.
 
-Nadat het certificaat is verleend, voert de CKI gedurende de certificatieperiode periodieke beoordelingen bij de certificaathouder uit.
+Indien een kandidaat zakt voor een deelexamen (deel A en B gezamenlijk, of deel C), blijft het voldoende resultaat gedurende een halfjaar na de datum van afname geldig. Na deze datum vervalt de geldigheid van dit deelexamen en dient de aanvrager de certificatieprocedure van vooraf aan te doorlopen. Deelexamens mogen éénmaal worden her- kanst. Tweemaal achtereen zakken voor een deelexamen, zal leiden tot een negatieve certificatiebeslissing van De CKI. Dit betekent dat de aanvrager de procedure van vooraf aan dient te doorlopen.
 
 Indien een kandidaat zakt voor een deelexamen (deel A en B gezamenlijk, of deel C), blijft het voldoende resultaat gedurende een halfjaar na de datum van afname geldig. Na deze datum vervalt de geldigheid van dit deelexamen en dient de aanvrager de certificatieprocedure van vooraf aan te doorlopen. Deelexamens mogen éénmaal worden her- kanst. Tweemaal achtereen zakken voor een deelexamen, zal leiden tot een negatieve certificatiebeslissing van De CKI. Dit betekent dat de aanvrager de procedure van vooraf aan dient te doorlopen.
 
-Er vindt tenminste één beoordeling op de vestiging per jaar plaats. Onderdeel van deze beoordeling is het dossier van tenminste vier inventarisatieprojecten.
+Het persoonscertificaat heeft een maximale geldigheidsduur van drie jaar. Indien een certificaathouder opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie.
 
 Het persoonscertificaat heeft een maximale geldigheidsduur van drie jaar. Indien een certificaathouder opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie.
 
@@ -10015,7 +10017,7 @@ Voor hernieuwde afgifte van het wettelijk verplichte WSCS-VD volgt onderstaand e
 
 Het CCvD-VD zal de eind- en toetstermen tenminste jaarlijks beoordelen op actualiteit en deze zonodig aanpassen.
 
-Op een gemotiveerd verzoek van het asbestinventarisatiebedrijf kan de CKI besluiten dat een grote inventarisatieopdracht met een aantal deelprojecten / locaties, voor wat betreft de vereiste aantallen in tabel 5.2.2, als meerdere opdrachten beschouwd kunnen worden. De CKI weegt hierbij af of, gezien de grootte en complexiteit van de opdracht, alle uitvoeringsaspecten uit SC-540 goed kunnen worden beoordeeld.
+Op het certificaat dient vermeld te worden dat de CKI verklaart dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema met betrekking tot het/de relevante toepassingsgebied(en).
 
 Op het certificaat dient vermeld te worden dat de CKI verklaart dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema met betrekking tot het/de relevante toepassingsgebied(en).
 
@@ -10027,13 +10029,13 @@ Bij Pyrotechnische Speciale Effecten:
 
 Bij beperkt toepassingsgebied:
 
-Het aantal beoordelingen wordt bepaald door het criterium (aantal DIA of aantal inventarisatierapporten) dat tot het hoogste aantal beoordelingen op locatie leidt. Het begrip ‘jaarlijks’ slaat niet op kalenderjaren, maar op periodes van telkens 12 maanden na de verlening van het certificaat.
+Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
 
-De resultaten van beoordelingen door de CKI worden tussentijds aan het asbestinventarisatiebedrijf gerapporteerd.
-
 Wanneer een inventarisatiebureau bepaalde specialistische taken uitbesteedt, moet zij toegang hebben tot een ter zake kundig en ervaren persoon die een onafhankelijke beoordeling van de door deze toeleverancier verkregen resultaten kan geven. De eindverantwoordelijkheid voor het uit te brengen inventarisatierapport berust bij het inventarisatiebureau.
+
+Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
 Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
@@ -10041,37 +10043,37 @@ Drie jaar na de afgifte van een vijfjarige persoonscertificaat, beoordeelt de CK
 
 Werkplannen die houders van een vijfjarige persoonscertificaat bij de tussentijdse beoordeling hebben overlegd aan de CKI, worden door laatstgenoemde tevens als bewijsvoering gebruikt bij hercertificatie van de certificaathouder. Bedoelde werkplannen worden hiertoe door de CKI gearchiveerd in het dossier van de certificaathouder gedurende de resterende geldigheidsperiode van diens vijfjarige persoonscertificaat en, na hercertificatie, het daarop volgende driejarige persoonscertificaat. Werkplannen die als bewijsvoering worden gebruikt bij hercertificatie, mogen op het moment hiervan niet ouder zijn dan drie jaar. Dit zoals beschreven in hoofdstuk 11. Werkplannen die bij hercertificatie ouder zijn dan drie jaar, worden door de CKI vernietigd.
 
-Het inventarisatierapport moet alle resultaten van het inventarisatieonderzoek bevatten en de (eventuele) conclusies die uit deze resultaten worden afgeleid, inclusief alle voor een juist begrip of interpretatie benodigde gegevens. Al deze informatie moet eenduidig, correct en accuraat worden gerapporteerd conform het in par. 7.17 opgestelde format. Eventueel door onderaannemers aangeleverde gegevens moeten in het rapport duidelijk als zodanig gekenmerkt zijn.
-
 De CKI dient, in geval van het combineren van beoordelingen, met de beoordelingsrapportage aannemelijk en aantoonbaar te kunnen maken dat bij beoordeling per vestiging de minimale vereisten van SC-540 gedurende de certificatieperiode worden onderzocht. Beoordelingen op projectlocaties staan op zich zelf en dienen conform het bepaalde in 5.2.2 uitgevoerd te worden.
 
 Inventarisatierapporten moeten door een daartoe bevoegde persoon worden ondertekend of op andere wijze van een goedkeuring worden voorzien. De direct bij de inventarisatie betrokken medewerkers dienen betrokken te zijn bij de vrijgavecontrole van het inventarisatierapport.
 
 Verklaring van de gebruikte letters en aanduidingen
 
-De CKI stelt conform de richtlijnen in de vigerende versie van ISO 19011 een verslag op van haar bevindingen tijdens de tussentijdse audit. Dit verslag wordt ter beschikking gesteld aan de certificaathouder. Deze kan hiertegen een klacht en evt. een verzoek tot herziening van de afhandeling van de klacht indienen, zie hiervoor paragraaf 4.7 en 4.8.
+Verklaring van de gebruikte letters en aanduidingen
 
 Om eenduidige identificatie te vergemakkelijken is bij elke stof het zogenoemde CAS-nummer opgenomen, dat wil zeggen het nummer waaronder de stof door de ‘Chemical Abstract’ Service is geregistreerd.
 
-Indien naar het oordeel van de CKI-proces de geconstateerde afwijkingen (zie SC-540 par. 5.5.3) toe te schrijven zijn aan medewerkers met een persoonscertificaat DIA zal de CKI-proces het desbetreffende afwijkingsrapport direct en rechtstreeks melden en rapporteren aan de persoonscertificaat verlenende instelling (zie verder SC-560 par. 6).
+Om eenduidige identificatie te vergemakkelijken is bij elke stof het zogenoemde CAS-nummer opgenomen, dat wil zeggen het nummer waaronder de stof door de ‘Chemical Abstract’ Service is geregistreerd.
 
 Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
 
-Indien blijkt dat een certificaathouder en de onder zijn verantwoordelijkheid voor te bereiden en uit te voeren processen niet of niet meer voldoen aan de eisen of normen in het werkveldspecifieke certificatieschema, dient de CKI de sancties die zijn voorgeschreven in dit schema op te leggen. Bij de constatering van de afwijkingen en de toepassing van sancties dient de CKI dwingend tabel 5.5.3 (Bijlage H) toe te passen.
+Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
 
 Zie par. 7.17.
 
 Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
-Voor een grondig en effectief uit te voeren asbestinventarisatie zijn afhankelijk van de omstandigheden de hieronder opgesomde materialen en hulpmiddelen nodig. Voor bepaalde uitrustingsstukken is periodiek onderhoud en/of kalibratie vereist.
+Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
 Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
-Indien door een door de minister van SZW aangewezen certificatie-instelling wordt geconstateerd dat een certificaathoudend asbestinventarisatiebedrijf een overtreding begaat volgens de in tabel 5.5.3 (Bijlage H) opgenomen bepalingen, dan wordt door de certificatie-instelling het certificaat van de certificaathouder (on-) voorwaardelijk ingetrokken of geschorst, of ontvangt de certificaathouder een waarschuwing. Na intrekken van het certificaat kan de gewezen certificaathouder pas na 12 maanden een aanvraag indienen voor een nieuw certificaat. Ook voor het bedrijf kan pas na 12 maanden een aanvraag worden ingediend voor een nieuw certificaat. De periode van 12 maanden begint met ingang van de dag volgend op de dag waarop het besluit in werking treedt waarbij het certificaat is ingetrokken.
+Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
 Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
 
-Toelichting:
+Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
+
+Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
 
 Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
 
@@ -10093,11 +10095,11 @@ a Tot 1 april 2010 is de wettelijke grenswaarde 3,5 mg/m3
 
 7 Nanogr/m3
 
-Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
-
 De CKI zal moeten vaststellen of er sprake is van een Categorie I, II, III of IV afwijking of dat er geen afwijking is. Hiervoor moet zij feiten vaststellen. De kaders daarvoor zijn:
 
 Indien bij een Categorie I of II afwijking wordt geconcludeerd dat een gecertificeerde DTA/DAV niet competent is, maakt de CKI-proces hier een afwijkingsrapport van op met zijn bevindingen en conclusie. De CKI-proces stuurt hiervan een afschrift aan de betreffende CKI-persoon.
+
+voor de inventarisatie van aanwezige asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan
 
 voor de inventarisatie van aanwezige asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan
 
@@ -10111,15 +10113,15 @@ Stichting Ascert
 
 www.Ascert.nl
 
-Het redelijke vermoeden van niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten etc in een bouwwerk of object, vermeld in asbestinventarisatierapport Type-A, leidt tot een aanvullende inventarisatie.
-
 **Indien er een afwijking Categorie I, II, III of IV is vastgesteld stuurt de CKI een kennisgeving van (on)voorwaardelijke intrekking of schorsing aan de certificaathouder. In deze kennisgeving wordt medegedeeld dat de CKI voornemens is om het certificaat (on)voorwaardelijk in te trekken te schorsen dan wel een waarschuwing te geven. Zij motiveert waarom, hetgeen neerkomt op het motiveren waarom er sprake is van een categorie I , II, IIIof IV afwijking. Verder stelt zij de certificaathouder in de gelegenheid om binnen twee weken op dit voornemen te reageren via een zogenaamde zienswijze.**
+
+Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
 Deel 1 van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CI’s en voorwaarden waaronder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
 In de tekst van dit certificatieschema is ter ondersteuning en verduidelijking aanvullende informatie gegeven in de vorm van Toelichting, Opmerking en Appendix. Deze hebben een informatief karakter.
 
-De CKI meldt categorie I, II en III afwijkingen aan de Arbeidsinspectie.
+Dit werkveldspecifieke certificatieschema SC-540 voor de inventarisatie van aanwezig asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan en ten behoeve van
 
 Dit werkveldspecifieke certificatieschema SC-540 voor de inventarisatie van aanwezig asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan en ten behoeve van
 
@@ -10127,55 +10129,55 @@ is door Ascert opgesteld en door de minister van SZW vastgesteld.
 
 Het vormt de basis voor het Ascert Procescertificaat Asbestinventarisatie. Dit vastgestelde schema vervangt eerdere versies.
 
-De kosten van extra toezicht dat moet worden gehouden, omdat een afwijking is geconstateerd, komt voor rekening van de certificaathouder.
-
 Om een juiste indeling te kunnen maken zijn niet alleen gegevens nodig over het asbesthoudende materiaal (aard, samenstelling, asbestgehalte, graad van verwering/aantasting, wijze van bevestiging etc.). De inventariseerder moet óók op de hoogte zijn van de verwijderingstechnieken en -methoden die beschikbaar zijn. Immers, de combinatie van materiaaleigenschappen en de bij demontage of sloop gebruikte technieken bepalen uiteindelijke het concentratieniveau aan asbest in de lucht tijdens de asbestinventarisatie.
 
 De bij initiële certificatie en vervolgcertificatie gehanteerde criteria zijn in Deel II Normen vermeld.
 
 SC-540 Deel III Bijlage B bevat een lijst met werkveldspecifieke definities.
 
-Deel II van dit certificatieschema bevat de normen die gelden voor een procescertificaat voor Asbestinventarisatie. Beschreven worden achtereenvolgens:
+SC-540 Deel III Bijlage B bevat een lijst met werkveldspecifieke definities.
 
 In de tekst van dit certificatieschema vervullen de onderstaande documenten een rol.
 
-Van elk type als asbestverdacht aangemerkt materiaal dient per onderzoeksproject door de inventariseerder tenminste één representatief monster te worden genomen. Ook indien het materiaal visueel als asbesthoudend wordt herkend. De monsterneming dient te voldoen aan de betreffende eisen uit NEN 5896: 2003.
+In de tekst van dit certificatieschema vervullen de onderstaande documenten een rol.
+
+Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door het Ministerie van SZW gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid bij de inventarisatie van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident.
 
 Om het maatschappelijk belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door het Ministerie van SZW gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de kwaliteit/veiligheid bij de inventarisatie van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident.
 
 Voorafgaande aan het opruimen van asbestbevattend materiaal na een incident (brand / storm) dient het aangegeven stappenplan te worden doorlopen (zie Bijlage G). Zie bijvoorbeeld Informatieblad Plan van Aanpak Asbestbrand 2006.
 
-inclusief de oplevering van het asbestinventarisatierapport inclusief de risicoclassificaties volgens de eisen van het certificatieschema.
+Het werkveldspecifieke certificatieschema voor het zorgvuldig, arbeids- en milieuhygiënisch inventariseren van asbest, etc., SC-540, is door Ascert voorgesteld en door het ministerie van SZW vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het CCvD, info@ascert.nl.
 
 Het werkveldspecifieke certificatieschema voor het zorgvuldig, arbeids- en milieuhygiënisch inventariseren van asbest, etc., SC-540, is door Ascert voorgesteld en door het ministerie van SZW vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het CCvD, info@ascert.nl.
 
-Bij het inventariseren van het asbest in een bouwwerk en of object, wordt de gezondheid van de direct betrokkenen niet in gevaar gebracht wanneer deze inventarisatie wordt uitgevoerd conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van zorgvuldigheid, arbeidsveiligheid en het voorkomen van verspreiding van asbest naar mens en milieu. Het op de bovenbedoelde inventarisatie gebaseerde asbestinventarisatierapport is alleen beschikbaar voor uitvoering van een asbestverwijderingswerk wanneer dit volledig is en voorzien is van risicoclassificaties conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van inhoud en vorm van het asbestinventarisatierapport.
-
 Binnen de Stichting Certificatie Asbest zijn met name actief:
 
-Voor de vraag of er een deelinventarisatie gemaakt kan worden, dient niet alleen gekeken te worden naar de mate waarin de ruimte bouwkundig zelfstandig is. Ook dient gekeken te worden of de betreffende asbestbron zich beperkt tot die ruimte.
+Binnen de Stichting Certificatie Asbest zijn met name actief:
 
 Het asbestinventarisatiebedrijf dient de volledige groeps/holdingstructuur, bestuurlijke verhoudingen, eigendomsverhoudingen, aanwezige certificaten op het gebied van asbest zowel bedrijfsmatig als persoonlijk, de personele invulling van de managementstructuur, doel en aard van de onderneming en haar dienstverlening volledig, actueel en schriftelijk te hebben vastgelegd en getekend door alle bestuurders van het bedrijf (conform KvK) te hebben voorgelegd aan de CKI. De CKI legt dit vast in het dossier van de certificaathouder. Het asbestverwijderingsbedrijf dient ingeschreven te zijn bij de Kamer van Koophandel of zusterorganisaties binnen de Europese Unie.
 
 Vanwege de goede eigenschappen is asbest in het verleden veel gebruikt, bijvoorbeeld in gebouwen en woningen. Asbestvezels kunnen bij inademing echter diep in de longen doordringen en op termijn buikvlieskanker, longvlieskanker en asbestose (stoflongen) veroorzaken. Hieraan sterven jaarlijks in Nederland naar schatting zo'n 700 mensen. De termijn tussen blootstelling en ziek worden kan tientallen jaren duren. IenM is samen met SZW, en VWS verantwoordelijk voor regelgeving over asbest. Bij activiteiten in het kader van de verwijdering van asbest is er een risico dat er asbestvezels in de ademzone van werknemers komen. Het aantal vezels tijdens de activiteiten is onderscheiden in drie afzonderlijke risicoklassen:
 
+Vanwege de goede eigenschappen is asbest in het verleden veel gebruikt, bijvoorbeeld in gebouwen en woningen. Asbestvezels kunnen bij inademing echter diep in de longen doordringen en op termijn buikvlieskanker, longvlieskanker en asbestose (stoflongen) veroorzaken. Hieraan sterven jaarlijks in Nederland naar schatting zo'n 700 mensen. De termijn tussen blootstelling en ziek worden kan tientallen jaren duren. IenM is samen met SZW, en VWS verantwoordelijk voor regelgeving over asbest. Bij activiteiten in het kader van de verwijdering van asbest is er een risico dat er asbestvezels in de ademzone van werknemers komen. Het aantal vezels tijdens de activiteiten is onderscheiden in drie afzonderlijke risicoklassen:
+
 Conform het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) (AB)is aan deze drie risicoklassen (onderstaande tabel) een eigen specifiek veiligheidsregime gekoppeld.
 
-**Voorbeeld:**
+Om het verstrekken c.q. onderhouden van een certificaat op onterechte gronden te voorkomen is het noodzakelijk om risico’s te definiëren en maatregelen te nemen. Deze beogen de risico’s m.b.t. onvolledige en/of onjuiste asbestinventarisatie uit te bannen. De maatregelen zijn er in twee vormen en kunnen bestaan uit afstand tot de bron of uit technische maatregelen, zoals directe maatregelen om de risico’s m.b.t. het optreden van de centrale gebeurtenis uit te bannen en daarmee asbestvezelbesmetting te voorkomen. Behalve de maatregelen bestaan er ook de zogenaamde managementfactoren. Deze managementfactoren kunnen op zichzelf de centrale gebeurtenis niet uitbannen, maar beïnvloeden de kwaliteit van de maatregelen.
 
 Om het verstrekken c.q. onderhouden van een certificaat op onterechte gronden te voorkomen is het noodzakelijk om risico’s te definiëren en maatregelen te nemen. Deze beogen de risico’s m.b.t. onvolledige en/of onjuiste asbestinventarisatie uit te bannen. De maatregelen zijn er in twee vormen en kunnen bestaan uit afstand tot de bron of uit technische maatregelen, zoals directe maatregelen om de risico’s m.b.t. het optreden van de centrale gebeurtenis uit te bannen en daarmee asbestvezelbesmetting te voorkomen. Behalve de maatregelen bestaan er ook de zogenaamde managementfactoren. Deze managementfactoren kunnen op zichzelf de centrale gebeurtenis niet uitbannen, maar beïnvloeden de kwaliteit van de maatregelen.
 
 Als de maatregelen zijn gedefinieerd dan dienen deze ingericht en onderhouden te worden. Dit laatste stelt eisen aan het asbestinventarisatiebedrijf en haar medewerkers. Als de maatregelen zijn geplaatst, dan is de inspectie en het onderhoud van de maatregelen noodzakelijk. De directe oorzaak van asbestvezelbesmetting is per definitie één of meerdere falende maatregelen. Zie SC-540 par. 5.5.1 met betrekking tot de waardering van risicovolle omstandigheden in de zin van formele afwijking van de eisen aangeduid met afwijking Cat I, II, III en Cat IV. Wanneer meerdere werknemers betrokken zijn bij werkzaamheden, dan speelt communicatie altijd een belangrijke rol.
 
-**Alleen een gecertificeerd bedrijf mag het project en de werkzaamheden doen. Als het hiervoor mensen wil inlenen, kan dat. Maar het gecertificeerde bedrijf blijft verantwoordelijk.**
-
 Voor plaatmaterialen en golfplaat dient de hoeveelheid weergegeven te worden in m2. Desgewenst kan naar massa-eenheden (kg, ton) worden omgerekend. Bulktoepassingen, zoals spuitasbest, leidingisolatie etc. dienen altijd omgerekend te worden naar volume en/of massa-eenheden. Daarnaast dienen de afmetingen van alle asbesthoudende bouw- of constructiedelen zorgvuldig op een plattegrond te worden aangegeven en geregistreerd.
+
+Door het Centraal College van Deskundigen is de volgende keuze gemaakt voor een duiding van alle asbesttoepassingen in een bouwwerk, constructie of object:
 
 Door het Centraal College van Deskundigen is de volgende keuze gemaakt voor een duiding van alle asbesttoepassingen in een bouwwerk, constructie of object:
 
 Het onderzoek naar alle asbesttoepassingen kan in de volgende fasen worden uitgevoerd.
 
-**Voor overheidsinstellingen en enkele researchorganisaties gelden andere wettelijk vastgelegde regelingen waarin de legitimiteit van deze organisaties/instellingen is vastgelegd. Het inventarisatiebureau moet onafhankelijk zijn, dat wil zeggen dat zij geen belang bij het eindresultaat van haar inventarisatie mag hebben (zie ook par. 7.1.2).**
+Het systematisch en volledig inventariseren van alle waarneembare asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object, voor zover deze asbestbronnen direct waarneembaar zijn of kunnen worden waargenomen met behulp van licht-destructief onderzoek. Licht destructief onderzoek tast de bouwkundige integriteit van het bouwwerk of object niet aan. Voor de uitvoering van een asbestinventarisatie type-A dient door de opdrachtgever van de inventarisatie een onbelemmerde en passende toegang tot alle ruimten te worden verschaft behorende bij het doel en omvang van het onderzoek. Dit is een noodzakelijke voorwaarde. Deze inventarisatie leidt tot een asbestinventarisatierapport type A (zie SC-540 par. 7.17.2).
 
 Het systematisch en volledig inventariseren van alle waarneembare asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object, voor zover deze asbestbronnen direct waarneembaar zijn of kunnen worden waargenomen met behulp van licht-destructief onderzoek. Licht destructief onderzoek tast de bouwkundige integriteit van het bouwwerk of object niet aan. Voor de uitvoering van een asbestinventarisatie type-A dient door de opdrachtgever van de inventarisatie een onbelemmerde en passende toegang tot alle ruimten te worden verschaft behorende bij het doel en omvang van het onderzoek. Dit is een noodzakelijke voorwaarde. Deze inventarisatie leidt tot een asbestinventarisatierapport type A (zie SC-540 par. 7.17.2).
 
@@ -10193,7 +10195,7 @@ In de praktijk is het denkbaar, dat in de rapportage van een Type-A onderzoek ui
 
 In al deze gevallen is er sprake van een onvolledig Type-A onderzoek. Deze uitsluitingen kunnen alleen door middel van een aanvullend Type-A onderzoek worden opgeheven. In het rapport dient duidelijk en onmiskenbaar te worden aangegeven, of het om een ‘volledig’ Type-A onderzoek gaat, of om een ‘onvolledig’ Type-A onderzoek (vermelden in titelblad en samenvatting). Een onvolledig Type-A onderzoek is niet geschikt ter indiening van een aanvraag van een omgevingsvergunning.
 
-Het inventariseren van afzonderlijke bronnen of constructiedelen is niet acceptabel. Opsplitsing in te kleine eenheden stuit vrijwel altijd op bezwaren. Het is bijvoorbeeld niet toegestaan om uitsluitend een gevelconstructie, vensterbanken of technische ruimten te inventariseren en daarbij geen aandacht te besteden aan de overige bronnen binnen de bouwkundige eenheid.
+Een type-B onderzoek is een onderzoek, dat vooraf of tijdens de bouwkundige sloop van een bouwwerk object of constructie wordt uitgevoerd door een gecertificeerd inventarisatiebedrijf op basis van een overzicht van redelijke vermoedelijk aanwezige asbestbronnen. Bij dit onderzoek kan de bouwkundige integriteit van het bouwwerk worden aangetast.
 
 Een type-B onderzoek is een onderzoek, dat vooraf of tijdens de bouwkundige sloop van een bouwwerk object of constructie wordt uitgevoerd door een gecertificeerd inventarisatiebedrijf op basis van een overzicht van redelijke vermoedelijk aanwezige asbestbronnen. Bij dit onderzoek kan de bouwkundige integriteit van het bouwwerk worden aangetast.
 
@@ -10203,7 +10205,7 @@ Het resultaat leidt tot een asbestinventarisatierapport type-B als aanvulling op
 
 **De opdrachtgever dient aan het bevoegde gezag, de vergunningverlener (gemeente) de aanvullende asbestinventarisatie type-B ter beschikking stellen.**
 
-Indien tijdens de inventarisatie een ernstige besmetting met niet-hechtgebonden asbesthoudende materialen wordt aangetroffen, die een direct risico opleveren voor bewoners / gebruikers van een gebouw of constructie, dient de opdrachtgever hierover terstond ingelicht te worden. Dit leidt tot een onvolledige rapportage en tot het dringend advies per direct organisatorische (voorzorgs)maatregelen te treffen en een risicobeoordeling conform NEN 2991 te laten uitvoeren. Weigert een opdrachtgever om maatregelen te nemen om bewoners/gebruikers tegen de blootstelling aan asbest te beschermen, dan kunnen in uiterste consequentie andere stappen worden ondernomen.
+De uitvoering van een risicobeoordeling conform NEN 2991: 2005 valt buiten het kader van SC-540.
 
 De uitvoering van een risicobeoordeling conform NEN 2991: 2005 valt buiten het kader van SC-540.
 
@@ -10221,33 +10223,33 @@ Voorwaarde voor het uitvoeren van een NEN 2991: 2005 onderzoek is dat er voorafg
 
 **Het type 0 inventarisatierapport is het minimale uitgangspunt voor het NEN 2991: 2005 onderzoek.**
 
-Indien relevant voor het bouwwerk of object wordt tevens een opsomming gegeven van de vermoedelijk niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in het bouwwerk of object, waarop in tweede instantie een aanvullende inventarisatie (Type B) uitgevoerd zal moeten worden. Deze bevinding dient in de samenvatting van het rapport te worden aangegeven. Het inventarisatierapport Type-A zal kunnen dienen als basis voor de aanvraag van een omgevingsvergunning. Dit rapport dient tenminste de volgende elementen te bevatten:
+Een asbestinventarisatie type-G is een uitbreiding op een volledige asbestinventarisatie type-A. Eigenaren of beheerders van gebouwen kunnen vrijwillig opdracht geven tot dit type asbestinventarisatie. Het betreft een type asbestinventarisatie waarvan gebruik kan worden gemaakt in het kader van dit schema. Dit laat onverlet dat de inventariseerder gehouden is de werkzaamheden uit te voeren conform de eisen in dit schema.
 
 Een asbestinventarisatie type-G is een uitbreiding op een volledige asbestinventarisatie type-A. Eigenaren of beheerders van gebouwen kunnen vrijwillig opdracht geven tot dit type asbestinventarisatie. Het betreft een type asbestinventarisatie waarvan gebruik kan worden gemaakt in het kader van dit schema. Dit laat onverlet dat de inventariseerder gehouden is de werkzaamheden uit te voeren conform de eisen in dit schema.
 
-Toelichting
+De indeling van bij asbestverwijdering vrijkomende asbestvezels in een risicoklasse is in een geautomatiseerd internetsysteem (SMA-rt) opgenomen. Ascert beheert en onderhoudt SMA-rt. Dit systeem dient gebruikt te worden voor de inventarisatie. Een voorwaarde voor een bruikbaar SMA-rt systeem is dat het asbestinventarisatiebedrijf, dat gegevens invoert, onafhankelijk, deskundig en integer is (zie SC-540 par. 7.6 en SC-560: versie 01, datum 15-11-2011).
 
 De indeling van bij asbestverwijdering vrijkomende asbestvezels in een risicoklasse is in een geautomatiseerd internetsysteem (SMA-rt) opgenomen. Ascert beheert en onderhoudt SMA-rt. Dit systeem dient gebruikt te worden voor de inventarisatie. Een voorwaarde voor een bruikbaar SMA-rt systeem is dat het asbestinventarisatiebedrijf, dat gegevens invoert, onafhankelijk, deskundig en integer is (zie SC-540 par. 7.6 en SC-560: versie 01, datum 15-11-2011).
 
-**Omvang onderzoek**
+SMA-rt bevat een zeer groot aantal bronsituaties die direct passen op werkelijke bronsituaties. Daarnaast is er een grote verscheidenheid aan acties/omgevingsfactoren, die bepalend zijn voor het actuele blootstellingrisico. Om het effect van deze verscheidenheid goed te kunnen inschatten en in te brengen in SMA-rt, is een deskundig, onafhankelijk en integer oordeel van de inventariseerder vereist.
 
 SMA-rt bevat een zeer groot aantal bronsituaties die direct passen op werkelijke bronsituaties. Daarnaast is er een grote verscheidenheid aan acties/omgevingsfactoren, die bepalend zijn voor het actuele blootstellingrisico. Om het effect van deze verscheidenheid goed te kunnen inschatten en in te brengen in SMA-rt, is een deskundig, onafhankelijk en integer oordeel van de inventariseerder vereist.
 
 Een betrouwbare risicoklassificatie – vastgelegd in het inventarisatierapport – is dus altijd gebaseerd op het gebruik van SMA-rt in combinatie met de argumenten van een deskundige, onafhankelijke en integere inventariseerder, wanneer hij afwijkt van de uitkomst van SMA-rt (zie SC-540 par 7.17.2.6).
 
-Voor elke in dit schema genoemde functionaris moet een gekwalificeerde plaatsvervanging schriftelijk geregeld zijn.
-
 Hierin zijn alle relevante uitkomsten van het onderzoek bondig samengevat. Tevens dient hier aangegeven te worden:
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het werkveldspecifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de condities met betrekking tot de certificatie, de afgifte en intrekking van certificaten, procedures bij het uitvoeren van initiële en periodieke beoordelingen, afhandeling van klachten en het eventuele verzoek tot herziening daarvan.
 
-Elke eindterm wordt omgezet in een aantal toetstermen. Deze toetstermen zijn in onderstaande schema’s geordend per eindterm.
+Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het werkveldspecifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de condities met betrekking tot de certificatie, de afgifte en intrekking van certificaten, procedures bij het uitvoeren van initiële en periodieke beoordelingen, afhandeling van klachten en het eventuele verzoek tot herziening daarvan.
+
+De kandidaat certificaathouder dient bij een CKI in overeenstemming met dit certificatiereglement, een aanvraag in tot het uitvoeren van de certificatieprocedure.
 
 De kandidaat certificaathouder dient bij een CKI in overeenstemming met dit certificatiereglement, een aanvraag in tot het uitvoeren van de certificatieprocedure.
 
 Vervolgens verstrekt de CKI informatie over de gang van zaken bij de afhandeling van de aanvraag.
 
-Het is gebruikelijk om behalve een schriftelijke versie, ook een digitale versie van het rapport aan de opdrachtgever aan te bieden. De digitale kopie is beveiligd, zodat daarin geen veranderingen aangebracht kunnen worden (doorgaans een PDF-file). Desgewenst kunnen tabellen, tekeningen en andere bijlagen in het oorspronkelijke format (b.v. Word of Excel) worden meegeleverd, zodat een opdrachtgever deze kan gebruiken als basis voor een asbestbeheersplan. Wel moet daarbij duidelijk aan de opdrachtgever worden vermeld dat alle door hem aangebrachte veranderingen en/of toevoegingen niet meer onder verantwoordingen van het inventarisatiebureau vallen, tenzij deze gegevens door het inventarisatiebureau zijn gevalideerd. Dit geldt ook voor via het Internet werkende systemen van gegevensuitwisseling. Voor alle digitale systemen geldt dat deze afdoende beveiligd moeten zijn.
+In het kader van de initiële certificatie van het asbestinventarisatiebedrijf worden verschillende processen
 
 In het kader van de initiële certificatie van het asbestinventarisatiebedrijf worden verschillende processen
 
@@ -10257,99 +10259,97 @@ Daarnaast is de CKI verplicht de aanvrager schriftelijk te informeren over de re
 
 Onderstaand wordt dit nader uitgewerkt.
 
-Het management van de organisatie moet een functionaris aanwijzen die bevoegd en verantwoordelijk is voor de kwaliteitsborging binnen het inventarisatiebureau. Deze functionaris moet directe toegang hebben tot de hoogste leiding van de organisatie.
+Een CKI dient een aanvraag voor het certificaat in overeenstemming met een door hem opgesteld reglement te behandelen. De CKI is verplicht de kandidaat schriftelijk te informeren over de daarin vastgestelde regels, voorwaarden en procedures die verband houden met de behandeling van de aanvraag voor het certificaat.
 
 Een CKI dient een aanvraag voor het certificaat in overeenstemming met een door hem opgesteld reglement te behandelen. De CKI is verplicht de kandidaat schriftelijk te informeren over de daarin vastgestelde regels, voorwaarden en procedures die verband houden met de behandeling van de aanvraag voor het certificaat.
 
-Het kwaliteitssysteem moet onder verantwoordelijkheid van deze functionaris up-to-date gehouden worden.
+Bij de aanvraag gelden de volgende eisen:
 
 Bij de aanvraag gelden de volgende eisen:
 
 Indien een certificaathouder mededeelt zijn certificaat in te leveren, is dit een aanvraag om het certificaat in te trekken. Het certificaat is pas ingetrokken als de CKI per besluit op de aanvraag heeft beslist (en het certificaat heeft ingetrokken). De mededeling (aanvraag) moet schriftelijk of elektronisch gebeuren. De aanvraag om een certificaat in te trekken, kan niet mondeling gedaan worden. De termijn van 12 maanden van sub c en d loopt vanaf de dagtekening van het besluit van de CKI waarbij het certificaat is ingetrokken.
 
-De wijze waarop de certificatie-instelling de beoordelingen en controles uitvoert is als volgt elders in certificatieschema vastgelegd:
+Het verloop van de toelatingsbeoordeling, vanaf de eerste beoordeling op projectlocatie tot de beslissing over al dan niet verlening van het certificaat, is gemaximeerd op 4 maanden. Als de overschrijding is te wijten aan de aanvrager vervallen de beoordelingsresultaten van de kandidaat.
 
 Het verloop van de toelatingsbeoordeling, vanaf de eerste beoordeling op projectlocatie tot de beslissing over al dan niet verlening van het certificaat, is gemaximeerd op 4 maanden. Als de overschrijding is te wijten aan de aanvrager vervallen de beoordelingsresultaten van de kandidaat.
 
-**Toelichting:**
+Onderscheid wordt gemaakt in:
 
 Onderscheid wordt gemaakt in:
 
-Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te verlenen in combinatie met de eventuele publicatie van het certificaat met opname in het Ascert Register.
+Het doel van de door de CKI uit te voeren beoordeling is om vast te stellen of aan alle eisen in SC-540 wordt voldaan. De beoordeling bestaat uit:
 
 Het doel van de door de CKI uit te voeren beoordeling is om vast te stellen of aan alle eisen in SC-540 wordt voldaan. De beoordeling bestaat uit:
 
-De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief rapportage.
+Een kandidaat wordt voor de duur van de beoordeling op twee projectlocaties waar de beoordeling door de CKI plaatsvindt, gelijkgesteld aan een gecertificeerd asbestinventarisatiebedrijf, òf in geval van een extra beoordeling op drie projectlocaties. De daarbij geldende voorwaarden zijn:
 
 Een kandidaat wordt voor de duur van de beoordeling op twee projectlocaties waar de beoordeling door de CKI plaatsvindt, gelijkgesteld aan een gecertificeerd asbestinventarisatiebedrijf, òf in geval van een extra beoordeling op drie projectlocaties. De daarbij geldende voorwaarden zijn:
 
 Na blijk van het voldoen aan genoemde voorwaarden stelt de CKI een aanvraag op voor elke projectlocatie die in de beoordeling van de kandidaat zal worden betrokken. Op grond van de volgende criteria dient Ascert schriftelijke toestemming op de aanvraag gegeven te hebben:
 
-**Toelichting:**
-
 **Indien het asbestverwijderingsbedrijf (buiten de verstrekte opsomming in het asbestinventarisatierapport) onvoorzien asbest, asbesthoudende producten etc aantreft, wordt dit met het evaluatieformulier (zie SC-540 par. 7.17.4) gemeld aan het inventarisatiebureau.**
 
 De beoordeling kan slechts worden afgerond, indien de kandidaat minimaal 2 volledige inventarisatierapporten heeft opgesteld die aan de eisen van de SC-540 voldoen. De resultaten van de asbestinventarisaties, waaronder de betreffende rapportages, maken deel uit van de beoordeling.
 
-De directie van het inventarisatiebureau moet tenminste éénmaal per jaar het kwaliteitssysteem beoordelen op haar effectiviteit. De resultaten van de directiebeoordeling moeten worden vastgelegd en gedocumenteerd.
+De beoordeling kan slechts worden afgerond, indien de kandidaat minimaal 2 volledige inventarisatierapporten heeft opgesteld die aan de eisen van de SC-540 voldoen. De resultaten van de asbestinventarisaties, waaronder de betreffende rapportages, maken deel uit van de beoordeling.
+
+De beoordeling wordt zonder verlening van het certificaat afgebroken indien:
 
 De beoordeling wordt zonder verlening van het certificaat afgebroken indien:
 
 Indien de kandidaat waarvan de beoordeling is afgebroken opnieuw het certificaat wil verwerven, dient de CKI alle stappen van de beoordeling opnieuw te doorlopen.
 
-Het inventarisatiebureau moet over voldoende personeel in vaste dienst beschikken, waarmee alle expertise gebieden die nodig zijn voor de normale bedrijfsvoering met betrekking tot de asbestinventarisatie bestreken worden. Tijdelijk personeel moet voldoen aan alle eisen die in dit hoofdstuk zijn omschreven.
+De CKI ziet erop toe dat de status van de tijdens de beoordeling van een kandidaat opgestelde inventarisatierapporten een voorlopige is en deze rapporten nog geen rechtsgeldige basis vormen voor het uitvoeren van asbestverwijdering. Deze voorlopige inventarisatierapporten dienen gedateerd te zijn, en op een in het oog lopende plaats te zijn voorzien van de tekst ‘Niet geschikt voor de aanvraag van een omgevingsvergunning’. De vervaldatum van deze rapporten is gelijk aan vier maanden na de datum waarop de inventarisatieactiviteiten op de eerste projectlocatie zijn gestart. Deze vervaldatum dient duidelijk op het rapport te zijn aangebracht. Op basis van de ‘aanvraag van toestemming voor werkzaamheden op projectlocatie’ bedoeld in par. 4.3.6 en na de verleende schriftelijke toestemming door Ascert, worden deze inventarisatieprojecten met de gegevens over de kandidaat aan Ascert toegezonden, met het oog op registratie.
 
 De CKI ziet erop toe dat de status van de tijdens de beoordeling van een kandidaat opgestelde inventarisatierapporten een voorlopige is en deze rapporten nog geen rechtsgeldige basis vormen voor het uitvoeren van asbestverwijdering. Deze voorlopige inventarisatierapporten dienen gedateerd te zijn, en op een in het oog lopende plaats te zijn voorzien van de tekst ‘Niet geschikt voor de aanvraag van een omgevingsvergunning’. De vervaldatum van deze rapporten is gelijk aan vier maanden na de datum waarop de inventarisatieactiviteiten op de eerste projectlocatie zijn gestart. Deze vervaldatum dient duidelijk op het rapport te zijn aangebracht. Op basis van de ‘aanvraag van toestemming voor werkzaamheden op projectlocatie’ bedoeld in par. 4.3.6 en na de verleende schriftelijke toestemming door Ascert, worden deze inventarisatieprojecten met de gegevens over de kandidaat aan Ascert toegezonden, met het oog op registratie.
 
-**Toelichting:**
+De hier aangegeven tijdsbesteding voor een reguliere beoordeling is een richtlijn, tijdseenheden zijn inclusief rapportage:
 
 De hier aangegeven tijdsbesteding voor een reguliere beoordeling is een richtlijn, tijdseenheden zijn inclusief rapportage:
 
-In dit gedeelte is aangegeven hoe de certificatie-instelling gedurende de looptijd van het certificaat toegang heeft tot de werkzaamheden van de certificaathouder. Vermeld zijn de vorm, aard en frequentie van de beoordelingen op zowel de kantoorlocatie(s) als de projectlocaties. Voor de projectbeoordelingen is een controlelijst beschikbaar.
-
 De resultaten van ieder onderdeel van de beoordeling worden aan de kandidaat gerapporteerd conform de richtlijnen in de vigerende versie van NEN-EN-ISO/IEC 19011: 2002.
 
-Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te verlenen in combinatie met de eventuele publicatie van het certificaat met opname in het Ascert Register.
+De resultaten van ieder onderdeel van de beoordeling worden aan de kandidaat gerapporteerd conform de richtlijnen in de vigerende versie van NEN-EN-ISO/IEC 19011: 2002.
 
 Het inventarisatiebureau moet beschikken over een beschreven opleidingsplan. Dit is om te verzekeren dat de vakbekwaamheid van haar personeel in zowel de technische, als de administratieve aspecten van de uit te voeren werkzaamheden, up-to-date en op niveau gehouden wordt. Dit plan dient te staan in relatie tot de doelstellingen van het inventarisatiebureau. De vereiste opleiding zal afhangen van de capaciteiten, vooropleiding en ervaring van de betrokkenen personen.
 
 De certificatiebeslissing wordt genomen door de certificaatbeslisser. De beslissing wordt genomen op basis van de beoordelingsrapportage en een bijbehorend schriftelijk advies van de auditor. De CKI draagt er zorg voor dat het schriftelijke besluit, inclusief eventueel certificaat, binnen 10 werkdagen na de laatste beoordeling, dan wel na een tussen CKI en kandidaat overeengekomen andere termijn, aan de kandidaat wordt toegezonden.
 
-Door het inventarisatiebureau moet een passende gedetailleerde registratie van het personeel, van de gevolgde en nog te volgen opleidingen en werkervaringsgegevens worden bijgehouden.
+De certificatiebeslissing wordt genomen door de certificaatbeslisser. De beslissing wordt genomen op basis van de beoordelingsrapportage en een bijbehorend schriftelijk advies van de auditor. De CKI draagt er zorg voor dat het schriftelijke besluit, inclusief eventueel certificaat, binnen 10 werkdagen na de laatste beoordeling, dan wel na een tussen CKI en kandidaat overeengekomen andere termijn, aan de kandidaat wordt toegezonden.
+
+Indien de CKI het asbestinventarisatiebedrijf een certificaat heeft verleend, ziet de CKI er uiterlijk bij de eerstvolgende controle op toe dat het asbestinventarisatiebedrijf, binnen een termijn van maximaal vier maanden na de eerste beoordeling op locatie, een voorlopig inventarisatierapport, zoals bedoeld in par. 4.3.7.1, heeft omgezet in een definitieve versie conform alle eisen van de SC-540.
 
 Indien de CKI het asbestinventarisatiebedrijf een certificaat heeft verleend, ziet de CKI er uiterlijk bij de eerstvolgende controle op toe dat het asbestinventarisatiebedrijf, binnen een termijn van maximaal vier maanden na de eerste beoordeling op locatie, een voorlopig inventarisatierapport, zoals bedoeld in par. 4.3.7.1, heeft omgezet in een definitieve versie conform alle eisen van de SC-540.
 
 Bij het omzetten naar een definitief rapport dient de uitgiftedatum daarvan gelijk te zijn aan de datum van verlening van het certificaat. Indien de kandidaat geen certificaat kan worden verleend, vervalt de waarde van een rapport bedoeld in par. 4.3.7.1 automatisch. De CKI deelt dit schriftelijk aan aanvrager mede en wijst erop dat op basis van dat rapport ook in de toekomst geen asbestverwijdering mag worden uitgevoerd.
 
-Het nog niet gecertificeerde asbestverwijdering bedrijf dient bij een bevoegde certificatie-instelling (CKI) een aanvraag te doen voor een toelatingsonderzoek voor het Ascert-Procescertificaat Asbestverinventarisatie conform SC-540. Nadat de CKI heeft vastgesteld dat het bedrijf voldoet aan de eisen volgens het certificatieschema SC-540, exclusief de praktijkeisen, kan toestemming worden gevraagd voor de uitvoering van twee asbestverinventarisatieprojecten.
+Het certificaat is, behoudens tussentijdse intrekking, drie jaar geldig.
 
 Het certificaat is, behoudens tussentijdse intrekking, drie jaar geldig.
 
-**Toelichting:**
+Tenzij de certificaathouder schriftelijk te kennen heeft gegeven het certificaat niet te willen voortzetten, zal de CKI in het laatste jaar van de lopende certificatieperiode de jaarlijkse beoordelingen bij de filialen/vestigingen in het algemeen drie maanden voor vervaldatum van het certificaat dienen te hebben afgerond. Daarbij wordt zoveel mogelijk de procedure gevolgd omschreven in par. 4.3.5.
 
 Tenzij de certificaathouder schriftelijk te kennen heeft gegeven het certificaat niet te willen voortzetten, zal de CKI in het laatste jaar van de lopende certificatieperiode de jaarlijkse beoordelingen bij de filialen/vestigingen in het algemeen drie maanden voor vervaldatum van het certificaat dienen te hebben afgerond. Daarbij wordt zoveel mogelijk de procedure gevolgd omschreven in par. 4.3.5.
 
-Indien de CKI op één van de twee projecten tot het oordeel komt dat het asbestinventarisatiebedrijf niet voldoet aan de criteria die voor de praktijktoets gelden, kan Ascert, op schriftelijk verzoek van de CKI, voor de uitvoering van één extra te beoordelen project (met vergelijkbaar werk) schriftelijk toestemming geven.
+Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden, dient dezelfde procedure doorlopen te worden als bij initiële certificatie. De termijn tussen intrekken en het aanvragen van het nieuwe certificaat is 12 maanden.
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden, dient dezelfde procedure doorlopen te worden als bij initiële certificatie. De termijn tussen intrekken en het aanvragen van het nieuwe certificaat is 12 maanden.
 
-De werkgever of de werknemer dient daar zelf om te verzoeken. De individuele arbeidsgezondheidskundige gegevens van de werknemers moeten in persoonlijke dossiers worden opgeslagen. De dossiers moeten tenminste 40 jaar na het eind van de blootstelling worden bewaard.
-
 Met betrekking tot de geldigheid van het certificaat worden de volgende condities gesteld.
 
-Afhandeling door Ascert:
+Met betrekking tot de geldigheid van het certificaat worden de volgende condities gesteld.
 
 **Akkoord met uitvoering:**
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de gecertificeerde bedrijven als de gebruikers van certificaten. Aan een CI worden onder meer de volgende eisen gesteld:
 
-**Toelichting:**
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de gecertificeerde bedrijven als de gebruikers van certificaten. Aan een CI worden onder meer de volgende eisen gesteld:
+
+Indien de CI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CI de klager te verwijzen naar het bedrijf of de persoon. De CI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CI een ernstige klacht betreft, dient de CI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CI af te wegen of het gewenst is een extra beoordeling uit te voeren. Het reglement van de CI is bepalend voor de verdere afhandeling van deze klachten.
 
 Indien de CI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CI de klager te verwijzen naar het bedrijf of de persoon. De CI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon. Echter, indien het naar de mening van de CI een ernstige klacht betreft, dient de CI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CI af te wegen of het gewenst is een extra beoordeling uit te voeren. Het reglement van de CI is bepalend voor de verdere afhandeling van deze klachten.
 
 Indien uit de extra beoordeling blijkt dat de klacht terecht is, wordt deze als extra beoordeling in rekening gebracht. Indien blijkt dat de klacht onterecht is, wordt de extra beoordeling beschouwd als een reguliere (project)beoordeling, die de eerstvolgende, in de toekomst geplande beoordeling vervangt.
-
-Het inventarisatiebureau moet beschikken over duidelijke regels voor toegang en gebruik van genoemde faciliteiten en uitrusting.
 
 ## Bijlage III. behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2004-01-01&g=2004-01-01)
 
@@ -10987,13 +10987,13 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 Vervallen
 
+### 4.8.2. Werkwijze
+
 ### 4.8.2.1. Algemeen
 
 ### 4.8.2.2. Procedure
 
 ### 4.8.2.3. Beslissing op bezwaarschrift
-
-### 4.8.2.4. Bestuursrechter
 
 Wanneer de instelling bij de uitvoering van inspecties gebruik maakt van computers en/of geautomatiseerde apparatuur, dan dient men ervoor te zorgen dat:
 
@@ -12009,7 +12009,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 2.0. Veiligheidsbeheerssysteem
 
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen ten minste de elementen aan de orde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2013-11-01&g=2013-11-01) bij deze regeling.
+In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen ten minste de elementen aan de orde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 ##### Artikel 2.0a. Procedures risico-inventarisatie en -evaluatie
 
@@ -12045,13 +12045,13 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ##### Artikel 2.0c. Intern noodplan
 
-Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=II&z=2013-11-01&g=2013-11-01) bij deze regeling.
+Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=II&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
-#### Paragraaf 2.2. Taken van deskundigen en arbodiensten
+#### Paragraaf 2.1. Nadere voorschriften risico-inventarisatie en -evaluatie
 
 #### Paragraaf 2.3. Certificatie
 
-#### Paragraaf 2.5. Vrijstelling
+#### Paragraaf 2.4. EG-verklaring
 
 ### Hoofdstuk 3. Bouwproces en winningsindustrieën met behulp van boringen
 
@@ -12083,9 +12083,9 @@ Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.ov
 
 ### Hoofdstuk 7. Arbeidsmiddelen
 
-#### Paragraaf 7.1. Certificatie hijskranen
+#### Paragraaf 6.2. Opleidingen
 
-#### Paragraaf 7.3. Certificatie machinisten hijskranen en funderingsmachines
+#### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
 
 ### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
 
@@ -12265,11 +12265,11 @@ De bedrijfsmiddelen op deze lijst zijn ingedeeld in de volgende categorieën:
 
 ### 1. Werkzaamheden
 
-Kandidaten die al in het bezit zijn van een diploma beroepsopleiding kunnen gebruik maken van de overgangsregeling.
+De aanvrager dient hiervoor het volgende document te overhandigen:
 
 ### 4.5. **Geldigheidscondities**
 
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
+De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
 ### 3. Investeringen ter voorkoming/vermindering van de blootstelling aan fysieke belasting en ter bevordering van de reïntegratie
 
@@ -12277,11 +12277,11 @@ De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor elke klacht (tekortkoming, verbetervoorstel) wordt een apart klachtenformulier ingevuld.
 
-Bij de duikopleiding voor de categorie duikarbeid in aquaria, zwembaden of vergelijkbare omstandigheden worden de volgende leerdoelstellingen onderscheiden en onderwezen:
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor elke klacht (tekortkoming, verbetervoorstel) wordt een apart klachtenformulier ingevuld.
 
 Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze in een brief, fax of e-mail te verwoorden. Als een klacht in de vorm van een brief, fax of e-mail binnenkomt wordt deze meteen (direct na het inschrijven in binnengekomen post) naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht. De kwaliteitsmanager registreert de klacht, neemt deze over op het klachtenformulier en stelt de directeur CI op de hoogte van de klacht. De directeur van de CI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het formulier tekortkoming in het vak eigenaar en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk (brief, e-mail, fax) over de ontvangst van de klacht.
 
-hierna te noemen certificaathouder verklaren het volgende te zijn overeengekomen:
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze in een brief, fax of e-mail te verwoorden. Als een klacht in de vorm van een brief, fax of e-mail binnenkomt wordt deze meteen (direct na het inschrijven in binnengekomen post) naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht. De kwaliteitsmanager registreert de klacht, neemt deze over op het klachtenformulier en stelt de directeur CI op de hoogte van de klacht. De directeur van de CI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het formulier tekortkoming in het vak eigenaar en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk (brief, e-mail, fax) over de ontvangst van de klacht.
 
 Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte; legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
 
@@ -12559,13 +12559,13 @@ Vervallen
 
 ### 5. Toezicht
 
-### 7.7.10. Niet goed functionerende apparatuur
+### 5. Toezicht
 
 ### 5.1. Toegang
 
-### 7.7.11. Registratie van apparatuurgegevens
+### 5.1. Toegang
 
-Relevante gegevens van gebruikte apparatuur (zoals identificatie, kalibratie en onderhoud) moeten worden vastgelegd.
+Onderstaand wordt aangegeven op welke wijze de certificaathouder toegang dient te verlenen en/of informatie ter beschikking dient te stellen om toezicht door de toezichthoudende en handhavende (overheids-)instellingen, waaronder de certificatie-instelling, de nationale accreditatie-instantie en de Inspectie SZW, mogelijk te maken (zie ook de certificatieovereenkomst CKI-Certificaathouder):
 
 ## Bijlage IXA. behorend bij [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.3&artikel=6.7&z=2004-12-12&g=2004-12-12)
 
@@ -13470,27 +13470,11 @@ Intrinsieke kenmerken:
 
 Vervallen
 
-## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2013-11-01&g=2013-11-01)
+## Bijlage 0. , behorend bij Artikel 1.7a
 
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen aan de orde:
+Vervallen
 
-- a. die onderdelen van het algemene managementsysteem waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de toegepaste werkmethoden en productiemethoden en de hulpmiddelen behoren welke het mogelijk maken het beleid ter voorkoming van zware ongevallen te bepalen en uit te voeren;
-
-- b. de organisatie en het personeel: de taken en verantwoordelijkheden van het personeel dat op alle organisatorische niveaus bij het beheersen van de risico’s van zware ongevallen is betrokken, het onderkennen van de behoeften aan opleiding van dat personeel, de organisatie van die opleiding en de deelname daaraan door het personeel, de aannemers en de onderaannemers;
-
-- c. de identificatie van de gevaren en de beoordeling van de risico’s van zware ongevallen, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b);
-
-- d. het toezicht op de uitvoering: de vaststelling en de toepassing van procedures en instructies voor de beheersing van de veiligheid van de bedrijfsvoering, met inbegrip van het onderhoud van de installaties en de tijdelijke onderbrekingen;
-
-- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en de toepassing van procedures voor de planning van wijzigingen met betrekking tot het bedrijf of de inrichting of een onderdeel daarvan of de toegepaste werkmethoden en productiemethoden dan wel met betrekking tot het ontwerpen van nieuwe werkmethoden of productiemethoden;
-
-- f. de planning voor noodsituaties: de vaststelling en de toepassing van procedures voor de systematische identificatie van noodsituaties alsmede voor het uitwerken, beoefenen, en toetsen van de noodplannen. Bij het oefenen van noodplannen worden alle werknemers op de locatie betrokken, met inbegrip van relevante aannemers en onderaannemers;
-
-- g. het toezicht op de prestaties: de vaststelling en de toepassing van procedures voor de permanente beoordeling van de inachtneming van de doelstellingen van het beleid ter voorkoming van zware ongevallen en van het veiligheidsbeheerssysteem, alsmede de invoering van regelingen voor onderzoek en correctie bij het niet in acht nemen daarvan. Tot deze procedures behoren het systeem voor de melding van zware ongevallen en bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, het onderzoek daarnaar en de nazorg, een en ander op grond van de ervaringen uit het verleden;
-
-- h. audits en beoordeling: de vaststelling en de toepassing van procedures voor de systematische periodieke evaluatie van het beleid ter voorkoming van zware ongevallen en van de doeltreffendheid en van de deugdelijkheid van het veiligheidsbeheerssysteem alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de actualisering daarvan.
-
-### 2. Risico’s
+### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: Certificatieschema voor de dienstverlening door Arbodiensten
 
 ## Bijlage XIB. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2006-03-01&g=2006-03-01)
 
@@ -13544,7 +13528,7 @@ Vervallen
 
 ### Hoofdstuk 3. Bouwproces en winningsindustrieën met behulp van boringen
 
-#### Paragraaf 3.1. Bouwproces
+#### Paragraaf 2.5. Vrijstelling
 
 ### Hoofdstuk 4. Veiligheid tankschepen en gevaarlijke stoffen
 
@@ -13650,19 +13634,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3. Maatregelen
 
-## Bijlage X. behorend bij de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2011-12-18&g=2011-12-18), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2011-12-18&g=2011-12-18) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2011-12-18&g=2011-12-18)
-
-Als model meldingsformulier, behorend bij [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2011-12-18&g=2011-12-18) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2011-12-18&g=2011-12-18) wordt vastgesteld Model A.
-
-Dit model betreft reparatiewerkzaamheden aan, op of in tankschepen waarbij werk met vuur boven de ladingzone en/of werk met vuur in een deel van de ladingzone plaatsvindt zonder dat de daartoe voorgeschreven veiligheids- en gezondheidsverklaring is uitgereikt.
-
-Als model meldingsformulier, behorend bij [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2011-12-18&g=2011-12-18) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2011-12-18&g=2011-12-18) wordt vastgesteld Model B.
-
-Dit model betreft afwijking van de voorwaarde op de Veiligheids- en gezondheidsverklaring 10-11-12/1-12/2 en 13/1 dat binnen een afstand van 25 meter van de ladingzone geen vuur aanwezig mag zijn noch naar redelijke verwachting kan ontstaan.
-
-Reparatiewerkzaamheden aan of op tankschepen waarbij werk met vuur buiten de ladingzone, echter binnen 25 meter van die ladingzone, plaatsvindt zonder dat de daartoe voorgeschreven veiligheids- en gezondheidsverklaring is uitgereikt
-
-De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid
+## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2014-01-01&g=2014-01-01) Arbeidsomstandighedenregeling
 
 ## Bijlage XI. behorend bij artikel 4.17d
 
@@ -13678,7 +13650,7 @@ Als kankerverwekkende processen, bedoeld in [artikel 4.11, onderdeel c, onder 2�
 
 - c. C.I. Basic Violet 3 met 0,1% of meer Michlers keton.
 
-#### Paragraaf 4.4a. Nadere voorschriften over het werken met lood
+#### Paragraaf 4.3. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
 #### Paragraaf 4.6. Certificatiebepalingen arbeid met asbest en crocidoliet
 
@@ -14198,15 +14170,15 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ##### Artikel 4.17e. Eisen voor de aanwijzing als certificerende instelling op het werkveld opsporen conventionele explosieven
 
-Een aanwijzing als certificerende instelling als bedoeld in [artikel 4.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met systeemcertificatie op het gebied van Opsporen Conventionele Explosieven, document: WDAT-OCE: 2012, versie 1, zoals opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een aanwijzing als certificerende instelling als bedoeld in [artikel 4.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in het Werkveldspecifieke document voor Aanwijzing en Toezicht op de certificatieinstellingen belast met systeemcertificatie op het gebied van Opsporen Conventionele Explosieven, document: WDAT-OCE: 2012, versie 1, zoals opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2014-01-01&g=2014-01-01) bij de regeling.
 
-#### Paragraaf 4.4a. Nadere voorschriften over het werken met lood
+#### Paragraaf 4.2b. Opsporen conventionele explosieven
 
 #### Paragraaf 4.7. Bijzondere voorschriften asbest
 
-#### Paragraaf 4.8. Werken met zandsteen
+#### Paragraaf 4.6. Certificatiebepalingen arbeid met asbest
 
-#### Paragraaf 4.9. Vervallen
+#### Paragraaf 4.8a. Vluchtige organische stoffen
 
 ### Hoofdstuk 5. Beeldschermarbeid
 
@@ -14220,23 +14192,25 @@ Een aanwijzing als certificerende instelling als bedoeld in [artikel 4.10, tweed
 
 ### Hoofdstuk 8a. Strafbare feiten en beboetbare feiten
 
-## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2013-11-01&g=2013-11-01)
+## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2014-01-01&g=2014-01-01)
 
-Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c) bevat de volgende gegevens en beschrijvingen:
+In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen aan de orde:
 
-- a. de naam en functie van de personen die bevoegd zijn om noodprocedures in werking te laten treden en van de persoon die belast is met de leiding en coördinatie van de maatregelen ter bestrijding van een ongeval binnen het bedrijf of inrichting;
+- a. die onderdelen van het algemene managementsysteem waartoe de organisatorische structuur, de verantwoordelijkheden, de gebruiken, de procedures, de toegepaste werkmethoden en productiemethoden en de hulpmiddelen behoren welke het mogelijk maken het beleid ter voorkoming van zware ongevallen te bepalen en uit te voeren;
 
-- b. de naam en functie van de persoon die verantwoordelijk is voor de contacten met de voor het externe noodplan verantwoordelijke autoriteiten;
+- b. de organisatie en het personeel: de taken en verantwoordelijkheden van het personeel dat op alle organisatorische niveaus bij het beheersen van de risico’s van zware ongevallen is betrokken, het onderkennen van de behoeften aan opleiding van dat personeel, de organisatie van die opleiding en de deelname daaraan door het personeel, de aannemers en de onderaannemers;
 
-- c. voor voorzienbare omstandigheden of gebeurtenissen die een doorslaggevende rol kunnen spelen bij het ontstaan van een zwaar ongeval, een beschrijving van de te nemen maatregelen ter beheersing van de toestand of de gebeurtenis en ter beperking van de gevolgen daarvan, met inbegrip van een beschrijving van de beschikbare veiligheidsuitrusting en middelen;
+- c. de identificatie van de gevaren en de beoordeling van de risico’s van zware ongevallen, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b);
 
-- d. de maatregelen ter beperking van het risico voor personen binnen het bedrijf of de inrichting, waaronder het alarmsysteem en de gedragsregels bij het afgaan van het alarm;
+- d. het toezicht op de uitvoering: de vaststelling en de toepassing van procedures en instructies voor de beheersing van de veiligheid van de bedrijfsvoering, met inbegrip van het onderhoud van de installaties en de tijdelijke onderbrekingen;
 
-- e. de regelingen om de autoriteit die verantwoordelijk is voor het in werking laten treden van het externe noodplan bij een ongeval snel in te lichten, de inlichtingen die onmiddellijk moeten worden verstrekt en de regelingen voor het verstrekken van uitvoeriger inlichtingen, wanneer deze beschikbaar komen;
+- e. de wijze waarop wordt gehandeld bij wijzigingen: de vaststelling en de toepassing van procedures voor de planning van wijzigingen met betrekking tot het bedrijf of de inrichting of een onderdeel daarvan of de toegepaste werkmethoden en productiemethoden dan wel met betrekking tot het ontwerpen van nieuwe werkmethoden of productiemethoden;
 
-- f. de regelingen om de werknemers op te leiden voor het vervullen van de taken die van hen verwacht worden en indien nodig de coördinatie hiervan met de externe hulpdiensten;
+- f. de planning voor noodsituaties: de vaststelling en de toepassing van procedures voor de systematische identificatie van noodsituaties alsmede voor het uitwerken, beoefenen, en toetsen van de noodplannen. Bij het oefenen van noodplannen worden alle werknemers op de locatie betrokken, met inbegrip van relevante aannemers en onderaannemers;
 
-- g. de regelingen voor de verlening van steun aan externe bestrijdingsmaatregelen.
+- g. het toezicht op de prestaties: de vaststelling en de toepassing van procedures voor de permanente beoordeling van de inachtneming van de doelstellingen van het beleid ter voorkoming van zware ongevallen en van het veiligheidsbeheerssysteem, alsmede de invoering van regelingen voor onderzoek en correctie bij het niet in acht nemen daarvan. Tot deze procedures behoren het systeem voor de melding van zware ongevallen en bijna-ongevallen, met name die waarbij de beschermende maatregelen hebben gefaald, het onderzoek daarnaar en de nazorg, een en ander op grond van de ervaringen uit het verleden;
+
+- h. audits en beoordeling: de vaststelling en de toepassing van procedures voor de systematische periodieke evaluatie van het beleid ter voorkoming van zware ongevallen en van de doeltreffendheid en van de deugdelijkheid van het veiligheidsbeheerssysteem alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de actualisering daarvan.
 
 ### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
 
@@ -14278,21 +14252,37 @@ Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten
 
 ### 2. Risico’s
 
-## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2013-11-01&g=2013-11-01) Arbeidsomstandighedenregeling
+## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2014-01-01&g=2014-01-01)
+
+Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c) bevat de volgende gegevens en beschrijvingen:
+
+- a. de naam en functie van de personen die bevoegd zijn om noodprocedures in werking te laten treden en van de persoon die belast is met de leiding en coördinatie van de maatregelen ter bestrijding van een ongeval binnen het bedrijf of inrichting;
+
+- b. de naam en functie van de persoon die verantwoordelijk is voor de contacten met de voor het externe noodplan verantwoordelijke autoriteiten;
+
+- c. voor voorzienbare omstandigheden of gebeurtenissen die een doorslaggevende rol kunnen spelen bij het ontstaan van een zwaar ongeval, een beschrijving van de te nemen maatregelen ter beheersing van de toestand of de gebeurtenis en ter beperking van de gevolgen daarvan, met inbegrip van een beschrijving van de beschikbare veiligheidsuitrusting en middelen;
+
+- d. de maatregelen ter beperking van het risico voor personen binnen het bedrijf of de inrichting, waaronder het alarmsysteem en de gedragsregels bij het afgaan van het alarm;
+
+- e. de regelingen om de autoriteit die verantwoordelijk is voor het in werking laten treden van het externe noodplan bij een ongeval snel in te lichten, de inlichtingen die onmiddellijk moeten worden verstrekt en de regelingen voor het verstrekken van uitvoeriger inlichtingen, wanneer deze beschikbaar komen;
+
+- f. de regelingen om de werknemers op te leiden voor het vervullen van de taken die van hen verwacht worden en indien nodig de coördinatie hiervan met de externe hulpdiensten;
+
+- g. de regelingen voor de verlening van steun aan externe bestrijdingsmaatregelen.
 
 ### **CAS-nummer**
 
-### 1. INLEIDING
+### INHOUDSOPGAVE
 
 ### 2. DEFINITIES
 
 ### 3. WERKVELDSPECIFIEKE KENMERKEN
 
-### 3. **Werkveldspecifieke kenmerken**
+### 3.1. Beschrijving document
 
 ##### Artikel 8.29a. Overtredingen
 
-Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2013-11-01&g=2013-11-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2013-11-01&g=2013-11-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2013-11-01&g=2013-11-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2013-11-01&g=2013-11-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2013-11-01&g=2013-11-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2013-11-01&g=2013-11-01), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2013-11-01&g=2013-11-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2013-11-01&g=2013-11-01), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2013-11-01&g=2013-11-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2013-11-01&g=2013-11-01), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2013-11-01&g=2013-11-01), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2013-11-01&g=2013-11-01), [4.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a&z=2013-11-01&g=2013-11-01), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2013-11-01&g=2013-11-01), [4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2013-11-01&g=2013-11-01), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2013-11-01&g=2013-11-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2013-11-01&g=2013-11-01), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2013-11-01&g=2013-11-01), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2013-11-01&g=2013-11-01), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2013-11-01&g=2013-11-01), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2013-11-01&g=2013-11-01), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2013-11-01&g=2013-11-01).
+Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2014-01-01&g=2014-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2014-01-01&g=2014-01-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2014-01-01&g=2014-01-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2014-01-01&g=2014-01-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2014-01-01&g=2014-01-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2014-01-01&g=2014-01-01), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2014-01-01&g=2014-01-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2014-01-01&g=2014-01-01), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2014-01-01&g=2014-01-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2014-01-01&g=2014-01-01), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2014-01-01&g=2014-01-01), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2014-01-01&g=2014-01-01), [4.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a&z=2014-01-01&g=2014-01-01), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2014-01-01&g=2014-01-01), [4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2014-01-01&g=2014-01-01), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2014-01-01&g=2014-01-01), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2014-01-01&g=2014-01-01), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2014-01-01&g=2014-01-01), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2014-01-01&g=2014-01-01), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2014-01-01&g=2014-01-01), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 8.29b
 
@@ -14506,33 +14496,33 @@ Als soortgelijke overtredingen als bedoeld in artikel 9.10c van het besluit word
 
 - c. van de Arbeidsomstandighedenregeling:
 
-- 1°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2013-11-01&g=2013-11-01);
+- 1°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2014-01-01&g=2014-01-01);
 
-- 2°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2013-11-01&g=2013-11-01);
+- 2°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2014-01-01&g=2014-01-01);
 
-- 3°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2013-11-01&g=2013-11-01);
+- 3°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2014-01-01&g=2014-01-01);
 
-- 4°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2013-11-01&g=2013-11-01);
+- 4°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2014-01-01&g=2014-01-01);
 
-- 5°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2013-11-01&g=2013-11-01);
+- 5°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2014-01-01&g=2014-01-01);
 
-- 6°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2013-11-01&g=2013-11-01);
+- 6°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2014-01-01&g=2014-01-01);
 
-- 7°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2013-11-01&g=2013-11-01);
+- 7°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2014-01-01&g=2014-01-01);
 
-- 8°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2013-11-01&g=2013-11-01), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2013-11-01&g=2013-11-01); en
+- 8°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2014-01-01&g=2014-01-01), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2014-01-01&g=2014-01-01); en
 
-- 9°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2013-11-01&g=2013-11-01).
+- 9°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2014-01-01&g=2014-01-01).
 
 ### Hoofdstuk 8a. Strafbare feiten en overtredingen
 
-### **C**
+### 1. INLEIDING
 
-### **C**
+### 2. DEFINITIES
 
-### **Respirabele vezels**
+### 3.2. Actieve partijen
 
-### **Respirabele vezels**
+### 3.3. Risicoanalyse
 
 ### **3. Voorschriften voor aanwijzing**
 
@@ -14540,7 +14530,7 @@ Als soortgelijke overtredingen als bedoeld in artikel 9.10c van het besluit word
 
 ### 6. MAATREGELEN
 
-### DEEL I:. ALGEMENE BEPALINGEN
+### INHOUDSOPGAVE
 
 ## Bijlage IIb. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2012-07-01&g=2012-07-01)
 
@@ -14610,7 +14600,7 @@ Intrinsieke kenmerken:
 
 ### 4.1.1. Inzet Auditors
 
-### **2. Definities en afkortingen**
+### 4.1.1. Inzet Auditors
 
 ### **Inhoud**
 
@@ -14622,13 +14612,13 @@ Intrinsieke kenmerken:
 
 ### 3.2. **Actieve partijen**
 
-### 6. **Maatregelen**
+### 4.2. Aanwijzingscriteria
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeidshygiënist
 
-### **Respirabele vezels**
+### 6. MAATREGELEN
 
-### 4. **Eisen ten behoeve van de aanwijzing**
+### Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten
 
 ### **Inhoudsopgave**
 
@@ -14638,11 +14628,11 @@ Intrinsieke kenmerken:
 
 ### INHOUDSOPGAVE
 
-### 2. **Definities**
+### 1. INLEIDING
 
 ### **2.4 Eisen mbt. personen die beslissen over verlenen/intrekken van het certificaat**
 
-### 3. WERKVELDSPECIFIEKE KENMERKEN
+### 2. DEFINITIES
 
 ### 3.1. Beschrijving schema
 
@@ -14660,7 +14650,7 @@ Intrinsieke kenmerken:
 
 ### 2.3. Documenten
 
-### 4.7. **Bezwaarprocedure**
+### 4.1. Doelstelling
 
 ### 4. **Het certificatiereglement**
 
@@ -14670,7 +14660,7 @@ Intrinsieke kenmerken:
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
-### 6. **Toezicht**
+### 4.3. Certificatiebeslissing
 
 ### 4.4. Geldigheidsduur van het certificaat
 
@@ -14694,7 +14684,7 @@ Intrinsieke kenmerken:
 
 ### 6.5. **Maatregelen**
 
-### 4.1. Doelstelling
+### 4.8. Register voor systeemcertificatie
 
 ### 5. TOEZICHT
 
@@ -14704,13 +14694,13 @@ Intrinsieke kenmerken:
 
 ### 10.1. **Toetstermen**
 
-### **8 Afwijkingen, corrigerende maatregelen en sancties**
+### 5.2. Frequentie van het toezicht
 
 ### 4.3.2. Aanvragen van een procescertificaat
 
 ### 5.3. De wijze van uitvoering van het toezicht
 
-### 4.3.3. Verloop toelatingsonderzoek
+### 5.3. De wijze van uitvoering van het toezicht
 
 ### 5.4. Verslag van bevindingen
 
@@ -14722,7 +14712,7 @@ Intrinsieke kenmerken:
 
 ### 4.3.7.1. Minimaal 2 volledige inventarisatierapporten
 
-### 10.1. **Toetstermen**
+### 5.6. Criteria
 
 ### 4.3.7.3. Status van inventarisatierapporten tijdens de beoordeling van een kandidaat
 
@@ -14740,7 +14730,7 @@ Intrinsieke kenmerken:
 
 ### 11.3. **Toets (verdediging van het portfolio)**
 
-### **3. Initiële certificatie**
+### 6. WERKVELDSPECIFIEKE EISEN
 
 ### 12. **Het certificaat**
 
@@ -14766,7 +14756,7 @@ Intrinsieke kenmerken:
 
 ### 13. **Geldigheidscondities**
 
-### Bijlage 1:. Klachtenregeling
+### Bijlage 1:. Auditdagen per arbodienst
 
 ### Inleiding
 
@@ -14778,17 +14768,17 @@ Intrinsieke kenmerken:
 
 ### **Inhoud**
 
-### 1. **Inleiding**
+### **Inhoud**
 
 ### 5.2.1. Beoordeling op de vestiging
 
-### 5.2.2. Beoordeling op locatie
+### 2. **Definities**
 
-### 3.1. **Beschrijving document**
+### 3. **Werkveldspecifieke kenmerken**
 
-### Inleiding
+### 3.2. **Actieve partijen**
 
-### Werkwijze
+### 3.3. **Risicoanalyse en afbreukrisico**
 
 ### Bijlage 5:. Schema competentiegericht beoordelen
 
@@ -14798,25 +14788,25 @@ Intrinsieke kenmerken:
 
 ### Bijlage 3:. Eisen te stellen aan het examenpersoneel
 
-### 1. **Algemene informatie**
+### 4.1. **Persoonscertificatie**
 
 ### 1.1. Beeld van de branche en het beroep
 
-### Beslotenheid van examens
+### 4.2. **Aanwijzingscriteria**
 
-### Algemene regels bij de uitvoering van examens
+### 5.. **Toezicht**
 
-### **7. Melding asbestverwijderingsbedrijf t.b.v. beoordeling op locatie**
+### 6. **Maatregelen**
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeidshygiënist
 
-### 3. **Competenties**
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeidshygiënist
 
 ### **8. Afwijkingen, corrigerende maatregelen en sancties**
 
 ### **Inhoudsopgave**
 
-### 1. **Inleiding**
+### **Inhoudsopgave**
 
 ### **8. Afwijkingen, corrigerende maatregelen en sancties**
 
@@ -14830,11 +14820,11 @@ Intrinsieke kenmerken:
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
-### Bijlage 10:. Specialisatie van de arbeidshygiënist (toelichtend)
+### 4.5. **Geldigheidscondities**
 
 ### 4.9. **Norminterpretatie**
 
-### Vaardighedenspecialisatie
+### 5.3. **Beheer centrale itembank en examenversies**
 
 ## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2011-07-01&g=2011-07-01)
 
@@ -14999,11 +14989,11 @@ Vervallen
 
 ### Hoofdstuk 2. Aanvullende voorschriften risico-inventarisatie en -evaluatie, deskundigen en arbodiensten
 
-#### Paragraaf 2.1. Nadere voorschriften risico-inventarisatie en -evaluatie
+#### Paragraaf 1.5. Vrijstelling
 
 #### Paragraaf 2.2. Taken van deskundigen en arbodiensten
 
-#### Paragraaf 2.3. Certificatie
+#### Paragraaf 2.2. Taken van deskundigen en arbodiensten
 
 #### Paragraaf 2.4. EG-verklaring
 
@@ -15027,7 +15017,7 @@ Vervallen
 
 ### Hoofdstuk 7. Arbeidsmiddelen
 
-#### Paragraaf 7.2. Hijs- en hefwerktuigen en hijs- en hefgereedschappen aan boord van schepen
+#### Paragraaf 6.4. Vrijstelling
 
 ### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
 
@@ -15035,7 +15025,7 @@ Vervallen
 
 ### Hoofdstuk 8a. Strafbare feiten en overtredingen
 
-### 3.1. Beschrijving document
+### 3. WERKVELDSPECIFIEKE KENMERKEN
 
 ### 3.2. Actieve partijen
 
@@ -15059,9 +15049,9 @@ Vervallen
 
 ### 2. DEFINITIES
 
-### 3.2. **Actieve partijen**
+### 3. WERKVELDSPECIFIEKE KENMERKEN
 
-### 3.3. **Risicoanalyse en afbreukrisico**
+### 3.1. Beschrijving schema
 
 ### 3.2. Risicoanalyse en afbreukcriteria
 
@@ -15083,11 +15073,11 @@ Vervallen
 
 ### 4.6. **Klachten**
 
-### 6.2. **Frequentie en uitvoering van het toezicht**
+### 4.4. Geldigheidsduur van het certificaat
 
-### **4.3.2 Resultaatgerichte implementatiebeoordeling op locatie**
+### 4.6. Klachten over de CKI
 
-### 6.5. **Maatregelen**
+### 4.6.1. Klachten over het bedrijf of de persoon
 
 ### 5.2. **Het examenreglement**
 
@@ -15097,15 +15087,15 @@ Vervallen
 
 ### 3.4.5. Asbestinventarisatie Type-G: Inventarisatie van asbest gericht op het gebruik van het gebouw
 
-### 6.4. **Klachten betreffende de certificaathouder**
+### 4.7. Bezwaarprocedure
 
 ### 4.8. Register voor systeemcertificatie
 
 ### 4.9. Norminterpretatie
 
-### 4.3. Procedures
+### 5. TOEZICHT
 
-### **7 Eisen mbt. melding IB tbv. beoordeling op locatie**
+### 5.1. Toegang
 
 ### 5.2. Frequentie van het toezicht
 
@@ -15113,7 +15103,7 @@ Vervallen
 
 ### **8.2.1 Een of meerdere categorie A afwijkingen**
 
-### **8.1 Algemeen**
+### 5.4. Verslag van bevindingen
 
 ### 5.5. Maatregelen ([artikel 1.5e Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e))
 
@@ -15129,7 +15119,7 @@ Vervallen
 
 ### **1.1. Doelstelling**
 
-### 4.5. Geldigheidsduur van het certificaat
+### DEEL II:. NORMEN
 
 ### 6. WERKVELDSPECIFIEKE EISEN
 
@@ -15153,19 +15143,19 @@ Vervallen
 
 ### Klachten over de CKI
 
-### Werkwijze
+### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige
 
 ### **3.5.1 Besluitvorming**
 
 ### Beslissing op het bezwaarschrift
 
-### **3.5. Certificatiebeslissing**
+### 1. **Inleiding**
 
 ### **4.3. Beoordeling op projectlocatie**
 
 ### 3. **Werkveldspecifieke kenmerken**
 
-### **4. Periodieke beoordeling**
+### 3.1. **Beschrijving document**
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
@@ -15187,21 +15177,21 @@ Vervallen
 
 ### 3.2. Algemene competenties
 
-### Bijlage 8:. Overgangsregeling
+### 1. **Inleiding**
 
 ### 5.5.3. Uitwerking afwijkingen per categorie inclusief onderverdeling
 
 ### **9.1. Klachten over het asbestverwijderingsbedrijf**
 
-### 2.2. Beschrijving van de kerntaken
+### 3.1. **Beschrijving schema**
 
-### 3.1. Inleiding
+### 3.2. **Actieve partijen**
 
-### 3.2. Algemene competenties
+### 3.3. **Risicoanalyse en afbreukrisico**
 
 ### 4.6. **Klachten**
 
-### 7.1.1. Asbestinventarisatiebedrijf of -concern
+### 4.9. **Norminterpretatie**
 
 ### 6. **Toezicht**
 
@@ -15288,15 +15278,15 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 ##### Artikel 4.32aa. Tijdelijke regeling sportvloercoatings
 
-1. In afwijking van [artikel 4.32a, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2013-11-01&g=2013-11-01), geldt voor niet-gepigmenteerde coatings voor sportvloeren en belijningsverf voor sportvloeren, dat deze ten hoogste 400 gram vluchtige organische stoffen per liter gebruiksklaar product mag bevatten.
+1. In afwijking van [artikel 4.32a, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2014-01-01&g=2014-01-01), geldt voor niet-gepigmenteerde coatings voor sportvloeren en belijningsverf voor sportvloeren, dat deze ten hoogste 400 gram vluchtige organische stoffen per liter gebruiksklaar product mag bevatten.
 
-2. [Artikel 4.32a, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2013-11-01&g=2013-11-01), is van overeenkomstige toepassing.
+2. [Artikel 4.32a, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
 
 3. Dit artikel vervalt met ingang van 1 augustus 2015.
 
 ##### Artikel 4.32ab. Tijdelijke regeling vloercoatings op basis van MMA
 
-1. In aanvulling op [artikel 4.32a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2013-11-01&g=2013-11-01), is artikel 4.32a, tweede lid, onder b, niet van toepassing op het gebruik van vloercoatings op basis van methylmethacrylaat, voor zover het betreft het repareren en onderhouden van een bestaande vloer in een woning of een gebouw, mits de ingebruikname en volledige chemische en mechanische bestendigheid van die vloer noodzakelijk zijn binnen 7 dagen na het aanbrengen van de vloercoating en dit, onder de gegeven omstandigheden, niet mogelijk is met producten als bedoeld in artikel 4.32a, zesde lid.
+1. In aanvulling op [artikel 4.32a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2014-01-01&g=2014-01-01), is artikel 4.32a, tweede lid, onder b, niet van toepassing op het gebruik van vloercoatings op basis van methylmethacrylaat, voor zover het betreft het repareren en onderhouden van een bestaande vloer in een woning of een gebouw, mits de ingebruikname en volledige chemische en mechanische bestendigheid van die vloer noodzakelijk zijn binnen 7 dagen na het aanbrengen van de vloercoating en dit, onder de gegeven omstandigheden, niet mogelijk is met producten als bedoeld in artikel 4.32a, zesde lid.
 
 2. Dit artikel vervalt met ingang van 1 augustus 2015.
 
@@ -15314,17 +15304,17 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-### **1. Inleiding**
+### 4.1. Beoordelingscriteria
 
 ### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
 
 ### 2. **Definities**
 
-### 5.. **Toezicht**
+### DEEL I:. ALGEMENE BEPALINGEN
 
 ### 1. INLEIDING
 
-### 1. **Inleiding**
+### 3.2. Risicoanalyse en afbreukcriteria
 
 ### 4. **Het certificatiereglement**
 
@@ -15334,15 +15324,15 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 ### 5.1. **Doelstelling**
 
-### **4 Periodieke beoordeling**
+### 4.5. Gegevens op het certificaat
 
-### **4.3.3 Tijdelijk geen periodieke beoordeling op locatie mogelijk**
-
-### **6.2 Periodieke beoordeling en hercertificatie**
+### 4.6.2. Klachtenregeling
 
 ### **6.2 Periodieke beoordeling en hercertificatie**
 
-### **9 Klachten**
+### **6.2 Periodieke beoordeling en hercertificatie**
+
+### 5.5. Maatregelen ([artikel 1.5e Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e))
 
 ### 4.4.1. Besluit en certificaat verlenen
 
@@ -15350,13 +15340,13 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 ### Klachtenregeling
 
-### 4.1. **Persoonscertificatie**
+### 4. **Eisen ten behoeve van de aanwijzing**
 
 ### 4.2. **Aanwijzingscriteria**
 
 ### 2. **Definities**
 
-### 3. **De werkveldspecifieke kenmerken**
+### 2. **Definities**
 
 ### Bijlage 7:. Toelaten van opleidingen
 
@@ -15381,7 +15371,7 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 ### 4.7. **Bezwaarprocedure**
 
-### **C. Eindtermen ten aanzien van de afgifte van een certificaat duikploegleider**
+### 5. **Het examenreglement**
 
 ### 6.1. **Medewerking aan toezicht**
 
@@ -15449,7 +15439,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-### 4.1. Beoordelingscriteria
+### 4. EISEN TEN BEHOEVE VAN DE AANWIJZING
 
 ### Werkveldspecifiek certificatieschema voor de Dienstverlening door Arbodiensten
 
@@ -15457,7 +15447,7 @@ Intrinsieke kenmerken:
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
-### 4.2. Certificatieprocedure
+### 4.9. Norminterpretatie
 
 ### 11.1. **Toetstermen**
 
@@ -15467,7 +15457,7 @@ Intrinsieke kenmerken:
 
 ### 3.3. Beroepsspecifieke competenties
 
-### Deel II. Normen
+### 4.4. **Geldigheidsduur**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
@@ -15553,7 +15543,7 @@ Vervallen
 
 ### Hoofdstuk 7. Arbeidsmiddelen
 
-#### Paragraaf 7.3. Certificatie machinisten hijskranen en funderingsmachines
+#### Paragraaf 7.1. Certificatie hijskranen
 
 ### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
 
@@ -15565,9 +15555,9 @@ Vervallen
 
 ### 3. Werkveldspecifieke kenmerken
 
-### 4.1. Doelstelling
+### 4. CERTIFICATIEREGLEMENT
 
-### 4.8. **Register voor vakbekwaamheid**
+### 4.2. Certificatieprocedure
 
 ### 4.9. **Norminterpretatie**
 
@@ -15579,13 +15569,13 @@ Vervallen
 
 ### 3.2. **Actieve partijen**
 
-### **8.2.1 Een of meerdere categorie A afwijkingen**
+### 3. **De werkveldspecifieke kenmerken**
 
-### **A. Eindtermen certificaat duikarbeid, certificaat duikmedische begeleiding, certificaat duikploegleider en certificaat duikerarts**
+### 4.7. **Bezwaarprocedure**
 
-### Kennisspecialisatie
+### 5.2. **Het examenreglement**
 
-### T-Profielen
+### 6.1. **Medewerking aan toezicht**
 
 ### **D. Eindtermen ten aanzien van de afgifte van certificaten duikerarts met betrekking tot de soort arbeid die wordt verricht**
 
@@ -15756,9 +15746,9 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3.3. Beroepsspecifieke competenties
 
-### 5.7. Criteria
+### 4.3. **Certificatiebesluit**
 
-### 7.1.2. Combinaties/relaties die niet zijn toegestaan binnen de asbestketen
+### 5.1. **Doelstelling**
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
@@ -15766,9 +15756,9 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 7.1.6. Aansprakelijkheidsverzekering
 
-### 7.1.7. Leverings-/contractvoorwaarden
+### 6.3. **Verslag van bevindingen**
 
-### **Inhoudsopgave**
+### 6.4. **Klachten betreffende de certificaathouder**
 
 ### Kennisspecialisatie
 
@@ -15776,7 +15766,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 2. **Definities**
 
-### 3.1. **Beschrijving schema**
+### 7. **Het onderwerp van certificatie**
 
 ### 8. **Entreecriteria**
 
@@ -15794,7 +15784,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
-### 4.8. **Register voor vakbekwaamheid**
+### 10.1. **Toetstermen**
 
 ### 7.5.5. Actualiseren van het kwaliteitssysteem
 
@@ -15808,9 +15798,9 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 7.5.10. Beoordeling kwaliteitssysteem door de directie
 
-### 11.1. **Toetstermen**
+### 11. **Toetsmethodiek bij hercertificatie**
 
-### 7.6.1. Beschikbaarheid en tijdelijk personeel
+### 11.1. **Toetstermen**
 
 ### 6.5. **Maatregelen**
 
@@ -15842,39 +15832,39 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 7.7.8. Inkoop en uitbesteding
 
-### 7.7.9. Geautomatiseerde apparatuur en computers
+### Inleiding
 
 ### Procedure
 
-### Bestuursrechter
+### Beslissing op het bezwaarschrift
 
-### 10. **Toetsmethodiek bij initiële certificatie**
+### Bijlage 3:. Eisen te stellen aan het examenpersoneel
 
-### 11. **Toetsmethodiek bij hercertificatie**
+### De toetsing van examenpersoneel
 
-### Beslotenheid van examens
+### Bijlage 4:. Eisen te stellen aan het examen
 
 ### Algemene regels bij de uitvoering van examens
 
 ### 7.8.4. Niet genormeerde methoden
 
-### 7.8.5. Beheer van de documentatie
+### Inleiding
 
 ### Indeling van het competentieprofiel
 
-### 11. **Toetsmethodiek bij hercertificatie**
+### 1.1. Beeld van de branche en het beroep
 
 ### 7.8.8. Gegevensoverdracht en berekeningen
 
 ### 2. **Kerntaken**
 
-### Bijlage 1:. Klachtenregeling
+### 2.1. Inleiding
 
 ### Klachten over de CKI
 
-### 7.9.2. Afwijkingen
+### 3.1. Inleiding
 
-### 11.3. **Toets (verdediging van het portfolio)**
+### Bijlage 7:. Toelaten van opleidingen
 
 ### Bijlage 9:. Format goed- en afkeurcriteria examen
 
@@ -15900,7 +15890,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Bijlage 10:. Specialisatie van de arbeidshygiënist (toelichtend)
 
-### 7.12. Uitbesteding
+### Inleiding
 
 ### T-Profielen
 
@@ -15912,11 +15902,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Specialisaties van de Arbeidshygiënist
 
-### Indeling van het competentieprofiel
+### Specialisaties van de Arbeidshygiënist
 
 ### Kennisspecialisatie
 
-### 7.14.3. Uitzonderingen
+### Vaardighedenspecialisatie
 
 ### 2. **Kerntaken**
 
@@ -15928,29 +15918,29 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3.1. **Beschrijving schema**
 
-### 7.14.7. Type B: Niet-direct waarneembare asbest, asbesthoudende producten etc.
+### 4.1. **Doelstelling**
 
 ### 4.3. **Certificatiebesluit**
 
 ### 4.5. **Geldigheidscondities**
 
-### 7.14.10. Kwantificeren en registreren
+### 4.7. **Bezwaarprocedure**
 
-### 7.14.11. Monsterneming en analyse
+### 4.8. **Register voor vakbekwaamheid**
 
-### 7.15. Omvang van het project
+### 4.9. **Norminterpretatie**
 
-### 7.15.1. Zelfstandig te beschouwen bouwkundige eenheid
+### 5. **Het examenreglement**
 
 ### Specialisatie van de Hogere Veiligheidskundige
 
-### 7.16. Het asbestinventarisatieplan
+### 6. **Toezicht**
 
-### 7.16.1. Informatie van de opdrachtgever ten behoeve van historisch onderzoek
+### 6.1. **Medewerking aan toezicht**
 
-### 7.16.2. Het systematisch opsporen van asbest, asbesthoudende producten etc.
+### 6.3. **Verslag van bevindingen**
 
-### 7.16.3. Veiligheidsaspecten
+### 6.5. **Maatregelen**
 
 ### 7.16.3.1. Inleiding
 
@@ -15972,11 +15962,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 9. **Competentieprofiel**
 
-### 4.4. **Geldigheidsduur**
+### 9. **Competentieprofiel**
+
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ### 10.1. **Toetstermen**
-
-### 7.17.2.6. Indeling in risicoklassen bij verwijdering
 
 ### 4.6. **Klachten**
 
@@ -15996,7 +15986,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 11. **Toetsmethodiek bij hercertificatie**
 
-### 6.3. **Verslag van bevindingen**
+### 11.2. **Beoordelingsmethode**
 
 ### 6.4. **Klachten betreffende de certificaathouder**
 
@@ -16012,13 +16002,13 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 11.3. **Toets (verdediging van het portfolio)**
 
-### 7. **Het onderwerp van certificatie**
+### 11.3. **Toets (verdediging van het portfolio)**
 
 ### 6.1. **Medewerking aan toezicht**
 
-### Klachten over de CKI
+### Bijlage 1:. Klachtenregeling
 
-### 3. Toestemming
+### Klachten over het bedrijf of de persoon
 
 ### 7. **Het onderwerp van certificatie**
 
@@ -16034,13 +16024,13 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Artikel 5. Klachten
 
-### Inleiding
+### Bijlage 2:. Bezwaarprocedure
 
-### Bijlage E. Ascert procescertificaat asbestinventarisatie (v)
+### Werkwijze
 
 ### Verplichtend karakter
 
-### Bestuursrechter
+### Beslissing op het bezwaarschrift
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
@@ -16052,21 +16042,21 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3. Asbestinventarisatierapport
 
-### 2.1. Inleiding
+### 2. **Kerntaken**
 
-### Informatief karakter
+### 2.1. Inleiding
 
 ### Klachten over het bedrijf of de persoon
 
-### 3. **Competenties**
+### 2.2. Beschrijving van de kerntaken
 
-### Klachtenregeling
+### 3.1. Inleiding
+
+### 3.2. Algemene competenties
 
 ### 3.3. Beroepsspecifieke competenties
 
-### Bijlage 7:. Toelaten van opleidingen
-
-### Bijlage I-2. Voorbeeld risicoklassificatie
+### Bijlage 8:. Overgangsregeling
 
 ### Bijlage 9:. Format Goed- en afkeurcriteria examen
 
@@ -16076,9 +16066,9 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 4.1. Beslotenheid van examens
 
-### Bijlage 5:. Schema competentiegericht beoordelen
+### Inleiding
 
-### Beslissing op het bezwaarschrift
+### T-profielen
 
 ### A. Overtreding van normen die de onafhankelijkheid en objectiviteit borgen
 
@@ -16086,19 +16076,19 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeids- en Organisatiedeskundige
 
-### D. Overtreding van normen over het opruimen van de werkplek, het afval, het asbest etc.
+### 1. **Inleiding**
 
-### 3. **De werkveldspecifieke kenmerken**
+### 2. **Definities**
 
-### 3.2. Algemene competenties
+### 3.3. **Risicoanalyse en afbreukrisico**
 
 ### 4.4. **Geldigheidsduur**
 
-### H. Overtreding van normen die zien op het analyseren van de werkzaamheden, het bedrijf etc. en leren van ervaringen
+### 5. **Het examenreglement**
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
-### Branchespecialisatie
+### 6. **Toezicht**
 
 ### K. Organisatie van het bedrijf
 
@@ -16194,7 +16184,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.. **Eisen ten behoeve van de aanwijzing**
 
-### 3.2. **Actieve partijen**
+### 10.1. **Toetstermen**
 
 ### 4.2.2. **Kwalificatie-eisen beslisser**
 
@@ -16208,7 +16198,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.6. **Toezicht op de certificaathouder**
 
-### 4.7. **Schorsing, intrekking of beperking van het werkterrein**
+### 10.2. **Toets (verdediging van het portfolio)**
 
 ### 4.2. **Eisen aan certificatiepersoneel**
 
@@ -16228,15 +16218,15 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.9. **Aanwijzingscriteria**
 
-### 2. **Definities**
+### 12. **Het certificaat**
 
 ### 3.1. **Beschrijving schema**
 
-### Klachten over de CKI
+### Bijlage 1:. Klachtenregeling
 
 ### Klachten over het bedrijf of de persoon
 
-### 4.1. **Doelstelling**
+### Klachtenregeling
 
 ### 4.2. **Certificatieprocedure**
 
@@ -16248,57 +16238,57 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### Bijlage 2:. Bezwaarprocedure
 
-### 4.5.2. Hercertificatie na intrekking
+### Inleiding
 
 ### 4.6. Geldigheidscondities
 
+### Procedure
+
 ### Beslissing op het bezwaarschrift
 
-### Bestuursrechter
-
-### 4.7.2. Klachten over het bedrijf of de persoon
+### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
 
 ### De toetsing van examenpersoneel
 
-### 4.7.3.1. Inleiding
+### De toetsing van examenpersoneel
 
-### 4.1. Beslotenheid van examens
+### Bijlage 4:. Eisen te stellen aan het examen
 
 ### 4.2. Algemene regels bij de uitvoering van examens
 
 ### 4.7.3.2.2. Ernstige klachten
 
-### Bijlage 6:. Competentieprofiel A&O
+### Bijlage 5:. Schema competentiegericht beoordelen
 
-### 4.2.5. **Verlenging van het Systeemcertificaat**
+### Bijlage 6:. Competentieprofiel A&O
 
 ### 4.2.6. **Certificaatverstrekking na intrekking**
 
 ### Indeling van het competentieprofiel
 
-### 4.6.3.3. **Eenvoudige zaken**
+### Indeling van het competentieprofiel
+
+### 1. **Algemene informatie**
 
 ### 1. **Algemene informatie**
 
 ### 1.1. Beeld van de branche en het beroep
 
-### 4.6.3.4. **Ernstige klachten**
-
 ### 5. Toezicht
 
 ### 2. **Kerntaken**
 
-### 4.6.2. **Klachten over het bedrijf of de persoon**
+### 2.1. Inleiding
 
 ### 2.2. Beschrijving van de kerntaken
 
-### 3.1. Inleiding
+### 3. **Competenties**
 
-### 3.3. Beroepsspecifieke competenties
+### 3.2. Algemene competenties
 
-### 4.7.2.2. **Procedure**
+### Bijlage 7:. Toelaten van opleidingen
 
-### 4.7.2.4. **Bestuursrechter**
+### Bijlage 8:. Overgangsregeling
 
 ### Bijlage 9:. Format goed- en afkeurcriteria examen
 
@@ -16354,15 +16344,15 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### **Inhoudsopgave**
 
-### 6.1.1. **Wet- en regelgeving**
+### 1.. **Inleiding**
 
-### 3.. **Werkveldspecifieke kenmerken**
+### 2.. **Definities**
 
-### 6.1.3. **RI&E en Taak Risico Analyse**
+### 3.1. **Beschrijving document**
 
 ### 3.2. **Actieve partijen**
 
-### 6.3. **Eisen management middelen**
+### 3.3. **Risicoanalyse**
 
 ### 6.3.1. **Beheersing van materieel en middelen**
 
@@ -16374,41 +16364,41 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.2. **Eisen aan certificatiepersoneel**
 
-### 7.9.1. Betrokkenheid van de directie
+### 4.2. **Eisen aan certificatiepersoneel**
 
-### 6.2.3. **Persoonlijke beschermingsmiddelen**
+### 4.2.1. **Kwalificaties lead auditor**
 
-### 6.4. **Eisen managementsysteem**
+### 4.2.2. **Kwalificatie-eisen beslisser**
 
-### 7.9.4. Verantwoordelijkheid, bevoegdheid en communicatie
+### 4.2.3. **Vakdeskundige (Technical expert)**
 
 ### 4.3. **Gegevens op het certificaat**
 
 ### 4.4. **Wijziging van certificatie-eisen**
 
-### 6.4.4. **Beheersing van registraties**
+### 4.5. **Initiële audit en certificatie**
 
-### 6.4.5. **Verantwoordelijkheden en bevoegdheden**
+### 4.6. **Toezicht op de certificaathouder**
 
-### 7.10. Directiebeoordeling
+### 4.7. **Schorsing, intrekking of beperking van het werkterrein**
 
 ### 4.8. **Uitwisseling bevindingen tussen CKI en overheidsinstantie**
 
 ### 6.4.7. **Interne communicatie**
 
-### 6.4. **Eisen managementsysteem**
+### 4.9. **Aanwijzingscriteria**
 
-### 7.11. Management van middelen
+### 5.. **Toezicht**
 
 ### 6.4.9. **Bewaking en meting**
 
-### 6.4.10. **Werkplekinspecties**
+### 6. **Maatregelen**
 
 ### 6.4.3. **Beheersing van documenten**
 
-### 6.4.11. **Interne audits**
+### Werkveldspecifiek certificatieschema voor het systeemcertificaat Opsporen Conventionele Explosieven
 
-### 1. **Inleiding**
+### **Inhoudsopgave**
 
 ### 6.4.6. **Directieverantwoordelijkheid**
 
@@ -16418,23 +16408,23 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 3.2. **Actieve partijen**
 
-### 6.5.1. **Inventarisatie van bronnenmateriaal**
+### 3.2. **Actieve partijen**
 
-### 7.12.2.2. Beoordeling van eisen te stellen aan asbestverwijderingswerk
+### 3.3. **Risicoanalyse en afbreukcriteria**
 
 ### Toelichting verplichte bronnen
 
 ### 4. **Certificatiereglement**
 
-### 4.1. **Doelstelling**
+### 4. **Certificatiereglement**
 
 ### 4.2. **Certificatieprocedure**
 
-### 6.4.14. **Voorbereiding op noodsituaties**
+### 4.2.1. **Algemeen**
 
 ### 6.5. **Proceseisen vooronderzoek**
 
-### 7.12.4.1. Beheersing van asbestverwijdering
+### 4.2.3. **Verlenging van het systeemcertificaat**
 
 ### 6.5.2. **Beoordelen en evalueren van bronnenmateriaal**
 
@@ -16442,47 +16432,47 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.2.5. **Verlenging van het Systeemcertificaat**
 
-### 6.5.4. **Rapportage en CE bodembelastingkaart**
+### 4.2.5. **Verlenging van het Systeemcertificaat**
 
-### 7.13.2. Bewaking en meting
+### 4.2.6. **Certificaatverstrekking na intrekking**
 
 ### 4.3. **Certificatiebeslissing**
 
 ### 4.4. **Geldigheidsduur van het certificaat**
 
-### 7.13.3. Beheersing van afwijkend asbestverwijderingswerk
+### 4.5. **Gegevens op het certificaat**
 
-### 7.13.4. Analyse van gegevens
+### 4.6.1. **Klachten over de CKI**
 
 ### 4.6.2. **Klachten over het bedrijf of de persoon**
 
-### 6.6.2. **Werkvoorbereiding**
+### 4.6.2. **Klachten over het bedrijf of de persoon**
 
-### 4.6.3.1. **Inleiding**
+### 4.6.3. **Klachtenregeling**
 
 ### 4.6.3.2. **Werkwijze**
 
 ### 4.6.3.3. **Eenvoudige zaken**
 
-### 7.14.1. Opdrachtverwerving
+### 4.6.3.3. **Eenvoudige zaken**
 
 ### 4.6.3.4. **Ernstige klachten**
 
 ### 6.6.3. **Detectieonderzoek**
 
-### 4.7.1. **Inleiding**
+### 4.7. **Bezwaarprocedure**
 
 ### 4.7.2. **Werkwijze**
 
-### 7.14.6. Geldig persoonscertificaat
+### 4.8. **OCE Certificaatregister**
 
-### 6.6.3. **Detectieonderzoek**
+### 4.9. **Norminterpretatie**
 
 ### 5. **Toezicht**
 
-### 7.15.1. Controle voor start asbestverwijderingswerk
+### 5. **Toezicht**
 
-### 7.15.2. Werken in de buitenlucht bij lage temperaturen
+### 5.1. **Gegevensverstrekking en toegang projectlocatie**
 
 ### 5.2. **Frequentie en wijze van uitvoering van het toezicht**
 
@@ -16494,7 +16484,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7.15.7. Ruimten met onderdruk
 
-### 5.4.1. **Algemeen**
+### 5.4. **Maatregelen**
 
 ### 5.4.2. **Uitwisseling van informatie met de Inspectie SZW**
 
@@ -16502,35 +16492,35 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.7. **Begeleiding onderzoekswerkzaamheden in OCE verdacht gebied**
 
-### 7.15.12. Gebruikte gereedschappen
+### 5.4.4. **Schorsing van het Systeemcertificaat**
 
 ### Bijlage 1:. Communicatie met EODD
 
-### Bijlage 2:. Eindtermen oce-deskundigen
+### 5.4.5. **Intrekken van het Systeemcertificaat**
 
 ### 6. **Eisen**
 
 ### 6.1. **Algemene eisen**
 
-### 7.16.4. Uitvoering eindbeoordeling en DTA
+### 6.1.1. **Wet- en regelgeving**
 
 ### 6.1.3. **RI&E en Taak Risico Analyse**
 
 ### Bijlage 2C:. Eindtermen senior oce-deskundige
 
-### 7.16.7. Afronding asbestverwijderingswerk
+### 6.1.4. **Verzekeringen**
 
 ### 6.2. **Eisen management personeel**
 
 ### 6.2.1. **Opleiding en kwalificatie personeel**
 
-### 8.1. Tijdsbesteding bij de beoordelingen
+### 6.2.1. **Opleiding en kwalificatie personeel**
 
 ### 8.2. Combinatie met beoordelingen voor andere certificatieschema’s
 
 ### 6.2.2. **Arbeidsomstandighedenzorg**
 
-### Werkwijze
+### 6.2.2. **Arbeidsomstandighedenzorg**
 
 ### 6.3. **Eisen management middelen**
 
@@ -16546,7 +16536,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.3.3. **Beheersing van detectie- en meetapparatuur**
 
-### **C**
+### 6.3.3. **Beheersing van detectie- en meetapparatuur**
 
 ### 2. Definities
 
@@ -16554,15 +16544,15 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.4.2. **Systeemhandboek**
 
-### 3. Toestemming
+### 6.4.3. **Beheersing van documenten**
 
 ### 6.4.5. **Verantwoordelijkheden en bevoegdheden**
 
-### 4.1. Persoonscertificatie Vuurwerkdeskundige
+### 6.4.5. **Verantwoordelijkheden en bevoegdheden**
 
 ### 6.4.7. **Interne communicatie**
 
-### **Respirabele vezels**
+### 6.4.7. **Interne communicatie**
 
 ### 4.3. Klachten en bezwaarschriften
 
@@ -16570,7 +16560,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.4.9. **Bewaking en meting**
 
-### Deel I. Algemene bepalingen
+### 6.4.9. **Bewaking en meting**
 
 ### 4.5. Certificatiepersoneel
 
@@ -16578,19 +16568,19 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 2. Definities en Documenten
 
-### Bijlage F. Uitwisselingsprotocol ai-cki (i)
+### 6.4.12. **Beheersing van klachten en tekortkomingen**
 
 ### 2.3. Documenten
 
 ### 6.5. **Proceseisen vooronderzoek**
 
-### 1. Inleiding
+### 6.5. **Proceseisen vooronderzoek**
 
 ### 3.3. Risicoanalyse en afbreukcriteria
 
 ### 6.5.1. **Inventarisatie van bronnenmateriaal**
 
-### 4.9. Personeelsdossiers
+### 6.5.1. **Inventarisatie van bronnenmateriaal**
 
 ### 2. Definities en Documenten
 
@@ -16612,7 +16602,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.5.3. **Uitsluitingen/onderzoeksbeperkingen**
 
-### 3.4.4. Beperkte inventarisatie voorafgaand aan een risicobeoordeling conform NEN 2991: 2005
+### 6.5.3. **Uitsluitingen/onderzoeksbeperkingen**
 
 ### 6.5.4. **Rapportage en CE bodembelastingkaart**
 
@@ -16624,9 +16614,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.6.2.3. **Projectgebonden risico-evaluatie**
 
-### 4.1. Doelstelling
+### 6.6.3.1. **Selectie van detectiemethoden**
 
-### 4.3.7.1. Minimaal 2 volledige inventarisatierapporten
+### 6.6.3.5. **Computerondersteunde detectie**
 
 ### 6.6.6. **Munitiescheiding**
 
@@ -16634,41 +16624,41 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.4.1. Besluit en certificaat verlenen
 
-### 4.3.7.2. Afbreken beoordeling
+### 6.6.10. **Overdracht aan EODD en afvoer schroot**
 
 ### 6.6.12. **Oplevering**
 
 ### 5.4.2. Algemene regels bij de uitvoering van examens
 
-### 4.6. Geldigheidscondities
+### Bijlage 1:. Communicatie met EODD
 
 ### 4.8.2.2. Procedure
 
-### Bijlage 3:. Vaststellen verdachtgebied en afbakening in vooronderzoek
+### Bijlage 2D:. Eindtermen basiskennis OCE
 
-### 9.2 Eindtermen groot vuurwerk
+### Werkwijze
 
 ### Bijlage 7:. Modelcertificaat
 
-### 10.1.3. Toetstermen pyrotechnische speciale effecten
+### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
 
 ### 5.4.2. Rapportage aan CKI-persoon
 
-### L. Voorbereiding van de werkzaamheden
+### 1. Inleiding
 
 ## Bijlage XIIIc. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-02-01&g=2012-02-01)
 
 ### 4.2. Centraal College van Deskundigen SCVE
 
-### 5.5.4.3. Sanctie
+### 4.3. Klachten en bezwaarschriften
 
 ### Deel I. Algemene bepalingen
 
-### 10.3.5. Beperkt toepassingsgebied (toetstermen 1.1 t/m 3.4.2)
+### 4.4. Onderhoud van het WSCS-VD
 
 ### 4.5. Certificatiepersoneel
 
-### 2.1. Definities
+### 4.5. Certificatiepersoneel
 
 ### 10.3.6. Herexamen
 
@@ -16686,21 +16676,21 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.10. Gegevens op het certificaat
 
-### 5.7. Criteria
+### 4.10. Gegevens op het certificaat
 
-### Deel II. Normen
+### 4.11. Toezicht op de certificaathouder
 
-### 4.3. Beslissingen m.b.t. het certificaat
+### 4.12. Hercertificatie
 
-### 4.4. Geldigheidsduur van het certificaat
+### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
 ### 4.14. Aanwijzingscriteria
 
 ### 5. Toezicht
 
-### 7.1.6. Aansprakelijkheidsverzekering
+### 5. Toezicht
 
-### **Respirabele vezels**
+### 6. Maatregelen
 
 ### 7.3. Geheimhouding
 
@@ -16712,7 +16702,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7.1.7. Leverings-/contractvoorwaarden
 
-### 7.5. Kwaliteitssysteem
+### 3.3. Risicoanalyse en afbreukcriteria
 
 ### 7.5.1. Kwaliteitsbeleid, directieverklaring
 
@@ -16720,19 +16710,19 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4. Certificatiereglement
 
-### 4.1. Doelstelling
+### 4. Certificatiereglement
 
-### 4.7.2.3. Beslissing op het bezwaarschrift
+### 4.1. Doelstelling
 
 ### 4.2. Certificatieprocedure
 
-### 4.8. Ascert Register voor vakbekwaamheid
+### 4.2. Certificatieprocedure
 
 ### 4.4. Geldigheidsduur van het certificaat
 
-### 3.2. Actieve partijen
+### 4.5. Geldigheidscondities
 
-### Klachten over de CKI
+### 4.6. Klachtenregeling
 
 ### 7.5.3. Kwaliteitshandboek (KBH)
 
@@ -16744,33 +16734,33 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7.6.2. Personeelskwalificaties
 
-### Inleiding
+### 4.7. Bezwaarprocedure
 
-### 5.4.4. Voorwaarden voor een alternatief mondeling theorie examen
+### Inleiding
 
 ### 4.8. Register voor vakbekwaamheid
 
-### 5.5. Beheer centrale itembank en aanvragen examenpakketten
+### 4.8. Register voor vakbekwaamheid
 
 ### 6. Toezicht
 
 ### 5. Examenreglement
 
-### 6.2. Frequentie van het toezicht
+### 5.1. Doelstelling
 
-### 7.7. Voorzieningen en uitrusting
+### 5.2. De exameninstelling
 
-### 7.6.3. Opleiding
+### 5.3. Eisen te stellen aan het examenpersoneel
 
 ### 5.4. Eisen te stellen aan het examen
 
-### 4. Certificatiereglement
+### 5.4.2. Algemene regels bij de uitvoering van examens
 
 ### 5.5. Beheer itembank
 
 ### 6. Toezicht
 
-### 7.7.1. Beschikbaarheid
+### 6.2. Frequentie van het toezicht
 
 ### 7.7.8. Inkoop en uitbesteding
 
@@ -16778,19 +16768,19 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7. Onderwerp van certificatie
 
-### 7.8.3. Uitvoeringsmethoden
+### 8. Certificatiecriteria
 
-### 9.5. Beheersing en borging van de behandeling van de examenpakketten
+### 9. Eindtermen
 
-### 9.3. Eindtermen pyrotechnische speciale effecten
+### 9.2 Eindtermen groot vuurwerk
 
-### 10.1. Toetstermen
+### 10. Toetsmethodiek bij Initiële certificatie
 
 ### 10.1.1. Algemene toetstermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### 10.1.2. Toetstermen groot vuurwerk
+### 10.1.1. Algemene toetstermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### 10.2. Beoordelingsmethode
+### 10.1.3. Toetstermen pyrotechnische speciale effecten
 
 ### Bijlage C. Model overeenkomst cki en kandidaat certificaathouder (i)
 
@@ -16798,17 +16788,17 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.2.2. Toetsmatrijzen
 
-### 4.7.1. Klachten over de CI
+### 10.2.2. Toetsmatrijzen
 
 ### Artikel 4. Beëindiging van de overeenkomst:
 
-### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
+### 10.3. Cesuur examen
 
-### 7.9.2. Afwijkingen
+### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
 
 ## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-02-01&g=2012-02-01)
 
-### 4.7.3.2. Werkwijze
+### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
 
 ### Inhoud
 
@@ -16822,7 +16812,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.3.4. Beide toepassingsgebieden
 
-### 4.8.2.4. Bestuursrechter
+### 10.3.4. Beide toepassingsgebieden
 
 ### 3.1. Beschrijving schema
 
@@ -16830,23 +16820,23 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.3.6. Herexamen
 
-### 5.2.1. Beoordeling op de vestiging
+### 10.3.6. Herexamen
 
 ### 7.12. Uitbesteding
 
-### 5.2.3. Rapportage door CKI over de beoordeling
+### 13. Geldigheidscondities
 
 ### Bijlage A. gedragscode vuurwerkdeskundige
 
-### 7.13. Samenwerking
+### Bijlage b:. overgangsregeling
 
 ### 7.14. Eisen te stellen aan asbestinventarisatie
 
 ### 7.11.3. Goedkeuring
 
-### 5.4.1. Rapportage aan de certificaathouder
+### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
 
-### 5.4.2. Rapportage aan CKI-persoon
+### **CAS-nummer**
 
 ### **TGG**
 
@@ -16854,9 +16844,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### **Respirabel/inhaleerbaar stof**
 
-### 7.14.5. Inventarisatie van asbest, asbesthoudende producten etc.
+### **Respirabel/inhaleerbaar stof**
 
-### 7.14. Eisen te stellen aan asbestinventarisatie
+### **Respirabele vezels**
 
 ### 5.5.3. Uitwerking afwijkingen per categorie inclusief onderverdeling
 
@@ -16866,37 +16856,37 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7.14.7. Type B: Niet-direct waarneembare asbest, asbesthoudende producten etc.
 
-### Deel I. Algemene bepalingen
+### Inhoud
 
-### 7.14.8. Type 0: Beperkte inventarisatie voorafgaand aan een risicobeoordeling
+### Deel I. Algemene bepalingen
 
 ### 4.7.2.2. Procedure
 
 ### 1. Inleiding
 
-### 4.7.2.4. Bestuursrechter
+### 1. Inleiding
 
 ### 5.6. Kosten van onderzoek
 
-### 2.1. Algemene definities
+### 2. Definities en Documenten
 
 ### 2.3. Documenten
 
 ### 3. Werkveldspecifieke kenmerken
 
-### 7.1. Administratieve eisen
+### 3.2. Actieve partijen
 
-### 3.3.1. Algemeen
+### 3.3. Risicoanalyse en afbreukcriteria
 
 ### 7.16. Het asbestinventarisatieplan
 
 ### 3.4. Typering asbestinventarisatie
 
-### 7.14.11. Monsterneming en analyse
+### 3.4.1. Alle asbesttoepassingen onderscheiden
 
 ### 3.4.2. Asbestinventarisatie voor afbreken/uit elkaar nemen/gebruiken van een bouwwerk of object: Type A
 
-### 7.1.4. Relaties met een moederorganisatie
+### 3.4.2. Asbestinventarisatie voor afbreken/uit elkaar nemen/gebruiken van een bouwwerk of object: Type A
 
 ### 7.1.5. Werkterrein en technisch kunnen
 
@@ -16906,27 +16896,27 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 3.4.3. Aanvullende asbestinventarisatie tijdens bouwkundige sloop: Type-B
 
-### 6.1. Medewerking aan toezicht
+### 3.4.3. Aanvullende asbestinventarisatie tijdens bouwkundige sloop: Type-B
 
 ### 7.3. Geheimhouding
 
-### 7.17. Rapportage
+### 3.4.4. Beperkte inventarisatie voorafgaand aan een risicobeoordeling conform NEN 2991: 2005
 
 ### 6.4. Het afwijkingsrapport
 
 ### 7.17.2. Inventarisatierapport Type-A, Type-B of Type-G
 
-### 7.17.2.1. Titelblad
+### 3.4.5. Asbestinventarisatie Type-G: Inventarisatie van asbest gericht op het gebruik van het gebouw
 
-### 7.16.3.2. Eisen te stellen aan monsterneming en analyse
+### 3.4.6. Asbestrisicoclassificatiesysteem SMA-rt
 
-### 7.16.3.3. Inventarisatie van risicovolle materialen
+### 3.4.7. Afwijkingen van SMA-rt met argumenten
+
+### 4. Certificatiereglement
 
 ### 4.1. Doelstelling
 
-### 7.17.2.3. Omschrijving van de opdracht
-
-### 7.5.1. Kwaliteitsbeleid, directieverklaring
+### 4.2. Certificatieprocedure
 
 ### 4.3. Procedures
 
@@ -16940,23 +16930,23 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 8. Beoordelingsmethodiek
 
-### 7.17.2.3. Omschrijving van de opdracht
+### 4.3.4. Meerdere filialen/vestigingen
 
-### 8.2. Combinatie met beoordelingen voor andere certificatieschema’s
+### 4.3.6. Aanvraag en toestemming voor werkzaamheden op de projectlocatie
 
-### 7.5.10. Beoordeling kwaliteitssysteem door de directie
+### 4.3.7.1. Minimaal 2 volledige inventarisatierapporten
 
 ### 4.3.7.2. Afbreken beoordeling
 
-### 7.6. Personeel
+### 4.3.7.2. Afbreken beoordeling
 
 ### 4.3.7.4. Tijdsbesteding beoordeling
 
 ### 4.4. Certificatiebeslissing
 
-### 4.4.1. Besluit en certificaat verlenen
+### 4.4. Certificatiebeslissing
 
-### 7.6.4. Personeelsdossiers
+### 4.4.1. Besluit en certificaat verlenen
 
 ### 4.4.2. Status voorlopig asbestinventarisatierapport
 
@@ -17013,21 +17003,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 4.7. Klachten
 
-### 1. Algemeen
+### 4.7.3.2. Werkwijze
 
-**Toelichting:**
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte; legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
+
+Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze. Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij. De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier in het vak verbetervoorstel. Hier wordt tevens vermeld dat het gaat om een incident.
 
 Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze. Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij. De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier in het vak verbetervoorstel. Hier wordt tevens vermeld dat het gaat om een incident.
 
 Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier in het daarvoor bestemde vak. De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht. De kwaliteitsmanager maakt de gewijzigde werkwijze bekend. De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier in het vak bevindingen vervolgonderzoek. De kwaliteitsmanager archiveert de documenten van de klachtafhandeling.
 
-Het inventarisatiebureau zorgt ervoor dat alle in te zetten apparatuur, voor zover van toepassing, voorafgaand aan gebruik herleidbaar is gekalibreerd volgens een tevoren opgesteld kalibratieschema.
-
-### 4.8.1. Inleiding
+### 4.8. Bezwaarschriftenprocedure
 
 Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen beslissingen van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
-Afhandeling door Ascert:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen beslissingen van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Wanneer dit relevant is voor de te leveren diensten, moet het inventarisatiebureau over procedures beschikken voor:
 
@@ -17039,29 +17029,29 @@ Hoogachtend,
 
 Het CCvD zorgt voor eenduidige norminterpretatie. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD.
 
-**Bij inventarisatie zijn computers belangrijk voor het systematisch vastleggen van o.a.:**
+Het CCvD zorgt voor eenduidige norminterpretatie. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan het CCvD.
 
-Het inventarisatiebureau moet beschikken over een beschreven procedure voor de behandeling van defecte apparatuur. Defecte apparatuur moet buiten bedrijf worden gesteld door afscheiding en/of duidelijke labeling. De instelling moet nagaan of het werken met defecte apparatuur van invloed is geweest op uitgevoerde inventarisaties.
+De CKI is verplicht de certificaathouder blijvend te toetsen aan de eisen in het werkveldspecifieke certificatieschema. Het CCvD bepaalt in dit hoofdstuk van het certificatieschema hoe het toezicht door de CKI dient te worden ingericht.
 
 Onderstaand wordt aangegeven op welke wijze de certificaathouder toegang dient te verlenen en/of informatie ter beschikking dient te stellen om toezicht door de toezichthoudende en handhavende (overheids-)instellingen, waaronder de certificatie-instelling, de nationale accreditatie-instantie en de Inspectie SZW, mogelijk te maken (zie ook de certificatieovereenkomst CKI-Certificaathouder):
 
 Nadat het certificaat is verleend, voert de CKI gedurende de certificatieperiode periodieke beoordelingen bij de certificaathouder uit.
 
-Een volledige asbestinventarisatie conform SC-540 kan gefaseerd worden uitgevoerd conform par.
+Nadat het certificaat is verleend, voert de CKI gedurende de certificatieperiode periodieke beoordelingen bij de certificaathouder uit.
 
 ### 4.5.2. Hercertificatie na intrekking
 
+### 4.7. Klachten
+
 ### 4.7.1. Klachten over de CI
 
-### 1. Inleiding
-
-### Verplichtend karakter
+### 4.7.2. Klachten over het bedrijf of de persoon
 
 ### 7.7.2. Toegang en bevoegdheid tot gebruik
 
 ### 4.7.3. Klachtenregeling
 
-### 4.7.3.1. Inleiding
+### 4.7.3. Klachtenregeling
 
 ### 4.7.3.2. Werkwijze
 
@@ -17071,31 +17061,31 @@ Een volledige asbestinventarisatie conform SC-540 kan gefaseerd worden uitgevoer
 
 ### 4.8. Bezwaarschriftenprocedure
 
-### 2. Aanvraag
+### 4.8.1. Inleiding
 
 Er vindt tenminste één beoordeling op de vestiging per jaar plaats. Onderdeel van deze beoordeling is het dossier van tenminste vier inventarisatieprojecten.
 
 ### Artikel 4. Beëindiging van de overeenkomst:
 
-De opdrachtgever is degene die:
+Wanneer een asbestinventarisatiebedrijf, naast de hoofdvestiging, beschikt over één of meer filialen/vestigingen zoals bedoeld in 4.3.4, vindt tevens, naast de ene beoordeling per jaar op de hoofdvestiging, per filiaal/vestiging tenminste één beoordeling per jaar plaats.
 
 Tijdens de looptijd van het certificaat vindt o.a. periodieke beoordeling op projectlocaties plaats per filiaal/vestiging, op grond van de aantallen genoemd in tabel 5.2.2. Daarin is het volgende onderscheid opgenomen:
 
 ### 7.8.2. Inventarisatiemethoden
 
-In dat geval vereist de CKI van het asbestinventarisatiebedrijf een per deelproject / locatie aparte melding met apart meldingsformulier, en dat elk deelproject / locatie via een aparte procedure wordt behandeld, inclusief rapportage en besluitvorming.
+Op een gemotiveerd verzoek van het asbestinventarisatiebedrijf kan de CKI besluiten dat een grote inventarisatieopdracht met een aantal deelprojecten / locaties, voor wat betreft de vereiste aantallen in tabel 5.2.2, als meerdere opdrachten beschouwd kunnen worden. De CKI weegt hierbij af of, gezien de grootte en complexiteit van de opdracht, alle uitvoeringsaspecten uit SC-540 goed kunnen worden beoordeeld.
 
-De reguliere implementatiebeoordeling vindt onaangekondigd plaats. Locaties worden geselecteerd op basis van de reguliere systematiek die de CKI hiervoor hanteert. Het is bedoeld om de implementatie van het gedocumenteerde systeem te beoordelen.
+In dat geval vereist de CKI van het asbestinventarisatiebedrijf een per deelproject / locatie aparte melding met apart meldingsformulier, en dat elk deelproject / locatie via een aparte procedure wordt behandeld, inclusief rapportage en besluitvorming.
 
 ### 4.3.6. Evaluatie
 
-Indien in een periode van 12 maanden het aantal beoordelingen op locatie, genoemd in tabel 1, niet mogelijk is, stelt de CKI het asbestinventarisatiebedrijf in de gelegenheid, in de volgende periode van 12 maanden, naast het aantal voor deze periode, tevens het ontbrekende aantal uit de vorige periode van 12 maanden te beoordelen. De CKI legt een dergelijke maatregel schriftelijk in het dossier vast. Deze maatregel kan slechts één keer in 4 opeenvolgende perioden van 12 maanden worden toegepast.
+Na uitvoering van een inventarisatie en opmaak van het inventarisatierapport vindt, voorafgaand aan asbestverwijdering, de geplande en aangekondigde resultaatgerichte beoordeling plaats. De CKI gaat daarbij samen met de verantwoordelijke DIA terug naar de projectlocatie met het afgeronde en afgetekende inventarisatierapport als leidraad. De projectlocatie voor deze beoordeling wordt op basis van een steekproef gekozen uit inventarisatieprojecten die nog niet op asbest gesaneerd of gesloopt zijn. Op locatie wordt, naast een overzicht van het project, steekproefsgewijs delen uit het inventarisatierapport met de DIA nagelopen, mede aan de hand van een toelichting door de DIA.
 
-Toelichting bij tabel 5.2.2:
+Indien in een periode van 12 maanden het aantal beoordelingen op locatie, genoemd in tabel 1, niet mogelijk is, stelt de CKI het asbestinventarisatiebedrijf in de gelegenheid, in de volgende periode van 12 maanden, naast het aantal voor deze periode, tevens het ontbrekende aantal uit de vorige periode van 12 maanden te beoordelen. De CKI legt een dergelijke maatregel schriftelijk in het dossier vast. Deze maatregel kan slechts één keer in 4 opeenvolgende perioden van 12 maanden worden toegepast.
 
 ### 7.8.4. Niet genormeerde methoden
 
-Wanneer het inventarisatiebureau genoodzaakt is om af te wijken van dit certificatieschema, dan moet de alternatieve methode voor het doel geschikt zijn en volledig zijn beschreven.
+Het aantal beoordelingen wordt bepaald door het criterium (aantal DIA of aantal inventarisatierapporten) dat tot het hoogste aantal beoordelingen op locatie leidt. Het begrip ‘jaarlijks’ slaat niet op kalenderjaren, maar op periodes van telkens 12 maanden na de verlening van het certificaat.
 
 De resultaten van beoordelingen door de CKI worden tussentijds aan het asbestinventarisatiebedrijf gerapporteerd.
 
@@ -17109,39 +17099,39 @@ De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief r
 
 ### 5.3.2. Combinatie met beoordelingen voor andere certificatieschema’s
 
-### 4.3.8. Licenties, certificaten, keurmerken
+### 5.3.2. Combinatie met beoordelingen voor andere certificatieschema’s
 
-**De formulering van de opdracht door de klant (b) c.q. de formulering van de offerte door het bedrijf en het akkoord daarop van de klant kan niet strijdig zijn met SC-540. Denk daarbij aan toegang tot ruimten, opgelegde beperkingen m.b.t. destructief onderzoek, goedkopere varianten, etc.**
+De CKI dient, in geval van het combineren van beoordelingen, met de beoordelingsrapportage aannemelijk en aantoonbaar te kunnen maken dat bij beoordeling per vestiging de minimale vereisten van SC-540 gedurende de certificatieperiode worden onderzocht. Beoordelingen op projectlocaties staan op zich zelf en dienen conform het bepaalde in 5.2.2 uitgevoerd te worden.
+
+### 5.4. Verslag van bevindingen
 
 ### 5.4.1. Rapportage aan de certificaathouder
 
-### 4.5. Aanwijzingscriteria
+De CKI stelt conform de richtlijnen in de vigerende versie van ISO 19011 een verslag op van haar bevindingen tijdens de tussentijdse audit. Dit verslag wordt ter beschikking gesteld aan de certificaathouder. Deze kan hiertegen een klacht en evt. een verzoek tot herziening van de afhandeling van de klacht indienen, zie hiervoor paragraaf 4.7 en 4.8.
 
-Zie voor specifieke eisen aan vastlegging en rapportage par. 7.17. Registratie, archivering en afhandeling van retour ontvangen evaluatieformulieren dienen zorgvuldig te geschieden.
+### 5.4.2. Rapportage aan CKI-persoon
 
-### 7.8.8. Gegevensoverdracht en berekeningen
+Indien naar het oordeel van de CKI-proces de geconstateerde afwijkingen (zie SC-540 par. 5.5.3) toe te schrijven zijn aan medewerkers met een persoonscertificaat DIA zal de CKI-proces het desbetreffende afwijkingsrapport direct en rechtstreeks melden en rapporteren aan de persoonscertificaat verlenende instelling (zie verder SC-560 par. 6).
 
-Alle berekeningen en punten waarbij overdracht van gegevens plaatsvindt, moeten naar behoren gecontroleerd worden.
+### 5.5. Sancties bij geconstateerde afwijkingen
 
-### 7.8.9. Veiligheid
+Indien blijkt dat een certificaathouder en de onder zijn verantwoordelijkheid voor te bereiden en uit te voeren processen niet of niet meer voldoen aan de eisen of normen in het werkveldspecifieke certificatieschema, dient de CKI de sancties die zijn voorgeschreven in dit schema op te leggen. Bij de constatering van de afwijkingen en de toepassing van sancties dient de CKI dwingend tabel 5.5.3 (Bijlage H) toe te passen.
 
-Het inventarisatiebureau moet beschikken over beschreven veiligheidsinstructies voor het uitvoeren van inventarisaties, waarbij tevens voldaan moet worden aan de eisen in wet- en regelgeving.
+### 5.5.1. Algemeen
 
-### 7.9. Behandeling van inventarisatieobjecten en materiaalmonsters
+Voor het algemene kader van sancties bij geconstateerde afwijkingen wordt verwezen naar Bijlage J.
 
-Vaste deel van de aarde, grond en grondwater, met minder dan 20% puin. Ophooglagen en (half)verhardingslagen behoren niet tot de bodem.
-
-### 5.5.2.1. Inleiding
+### 5.5.2. Escalatieladder
 
 Indien door een door de minister van SZW aangewezen certificatie-instelling wordt geconstateerd dat een certificaathoudend asbestinventarisatiebedrijf een overtreding begaat volgens de in tabel 5.5.3 (Bijlage H) opgenomen bepalingen, dan wordt door de certificatie-instelling het certificaat van de certificaathouder (on-) voorwaardelijk ingetrokken of geschorst, of ontvangt de certificaathouder een waarschuwing. Na intrekken van het certificaat kan de gewezen certificaathouder pas na 12 maanden een aanvraag indienen voor een nieuw certificaat. Ook voor het bedrijf kan pas na 12 maanden een aanvraag worden ingediend voor een nieuw certificaat. De periode van 12 maanden begint met ingang van de dag volgend op de dag waarop het besluit in werking treedt waarbij het certificaat is ingetrokken.
 
 ### Opmerking
 
-Toelichting:
+Na de constatering van een Cat III afwijking dient de certificaathouder binnen 2 maanden een interne corrigerende maatregel te hebben ingevoerd, waarna de CKI binnen een maand deze maatregel definitief moet hebben beoordeeld.
 
 ### Bijlage H. Categorie indeling sanctiestelsel asbestinventarisatie tabel 5.5.3 (v)
 
-Indien in een concernsituatie met meerdere zelfstandige ondernemingen, die bij eenzelfde CKI onder procescertificaat staan, van een onderneming het certificaat (on)voorwaardelijk wordt ingetrokken of geschorst zal de CKI alle andere gecertificeerde ondernemingen per direct onderwerpen aan een controle op die onderwerpen waarop een afwijking is geconstateerd die heeft geleid tot de sanctie.
+Binnen de termijn van 3 maanden kan de afwijking, in positieve zin ( Cat III opgeheven) dan wel negatieve zin (verzwaring van Cat III naar Cat I) afgesloten zijn.
 
 ### 5.5.2.2. Onderverdeling van afwijkingen
 
@@ -17165,41 +17155,41 @@ De CKI zal moeten vaststellen of er sprake is van een Categorie I, II, III of IV
 
 ### 7.10.2. Registraties
 
-Het voorgaande betekent dat de kern van het sanctiestelsel is dat een (rechts)persoon die niet conform de regels werkt het werk niet meer mag verrichten. Uitgangspunt is dat een dergelijke (rechts)persoon het certificaat verliest. Er is voor gekozen om bij een eerste afwijking niet direct tot intrekking van het certificaat over te gaan. De certificaathouder krijgt een herkansing. De herkansing bestaat er uit dat het certificaat wordt geschorst waardoor het certificaat zijn geldigheid verliest . Als de certificaathouder voldoende maatregelen heeft getroffen wordt de schorsing ingetrokken.
+Indien bij een Categorie I of II afwijking wordt geconcludeerd dat een gecertificeerde DTA/DAV niet competent is, maakt de CKI-proces hier een afwijkingsrapport van op met zijn bevindingen en conclusie. De CKI-proces stuurt hiervan een afschrift aan de betreffende CKI-persoon.
 
-### 4.5.13. Verplicht Nederlands taalgebruik
+### 5.5.4.2. Onderzoek door overheidsinstellingen
+
+Indien onderzoeken door toezichthoudende overheidsinstellingen leiden tot proces-verbaal, rapport van bevindingen of een boeterapport kan direct op bovenvermelde stukken aan de hand van Bijlage H worden bepaald of sprake is van een afwijking. Desnoods wordt nader onderzoek verricht door de CKI.
 
 Het is ook mogelijk dat de CKI alleen een melding krijgt van de toezichthoudende overheidsinstellingen. In dat geval zal de CKI (bij een voldoende duidelijk en onderbouwde melding) zelf onderzoek moeten doen.
 
 Bij meldingen door overheidsinstellingen dient de CKI de betreffende overheidsinstelling te berichten wat met de melding is gedaan.
 
-Tijdens beoordelingen wordt uitsluitend gecommuniceerd in de Nederlandse taal; hulp van vertalers en tolken is niet toegestaan.
+### 5.5.4.3. Sanctie
 
-### 4.5.14. Onafhankelijkheid
+Nadat de CKI vast heeft gesteld, op basis van de vaststaande feiten door eigen onderzoek of dat van een toezichthoudende overheidsinstelling, dat er sprake is van een afwijking Categorie I, II of III is de volgende gang van zaken aan de orde.
 
-Indien het bedrijf wordt beëindigd dienen de gegevens op een passende wijze met effectieve terugvindbaarheid te worden opgeslagen.
+### 5.5.4.4. Zienswijze procedure
 
-### Bijlage I-1. Voorbeeld risicoklassificatie
-
-**Nadat de CKI de zienswijze heeft ontvangen of de twee weken zijn verstreken zonder dat er een zienswijze is ontvangen, beoordeelt de CKI binnen één week of zij het voornemen moet doorzetten. Als nog steeds is aangetoond dat er sprake is van een afwijking, zal de CKI de sanctie opleggen. Het kan zijn dat de feiten dermate bestreden zijn dat niet langer vaststaat dat er sprake is van een categorie I, II, III of IV afwijking of dat nader onderzoek nodig is. Dit nadere onderzoek dient binnen 4 weken te zijn afgerond. De certificaathouder wordt hiervan schriftelijk op de hoogte gesteld.**
+**Indien er een afwijking Categorie I, II, III of IV is vastgesteld stuurt de CKI een kennisgeving van (on)voorwaardelijke intrekking of schorsing aan de certificaathouder. In deze kennisgeving wordt medegedeeld dat de CKI voornemens is om het certificaat (on)voorwaardelijk in te trekken te schorsen dan wel een waarschuwing te geven. Zij motiveert waarom, hetgeen neerkomt op het motiveren waarom er sprake is van een categorie I , II, IIIof IV afwijking. Verder stelt zij de certificaathouder in de gelegenheid om binnen twee weken op dit voornemen te reageren via een zogenaamde zienswijze.**
 
 ### 7.11. Inventarisatierapporten
 
-De CKI meldt categorie I, II en III afwijkingen aan de Inspectie SZW.
+Als de CKI van oordeel is dat er nog steeds sprake is van een categorie I, II, III of IV afwijking, trekt zij het certificaat (on)voorwaardelijk in respectievelijk schorst zij het certificaat dan wel geeft zij een waarschuwing. Ook hierin wordt opgenomen waarom er sprake is van een Categorie I, II of III afwijking.
 
 ### 6. Maatregelen
 
-In het asbestinventarisatierapport dient het toelichtende document: Verplichtingen Opdrachtgever (SC-540 Bijlage G) opgenomen te zijn.
+Bij Categorie II of Categorie III afwijkingen volgt altijd een extra beoordeling door de CKI op kantoor of projectlocatie.
 
 ## Bijlage XIIIf. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2012-02-01&g=2012-02-01)
 
 ### Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV)
 
-Categorie I – onvoorwaardelijke intrekking
+De kosten van extra toezicht dat moet worden gehouden, omdat een afwijking is geconstateerd, komt voor rekening van de certificaathouder.
 
 De bij initiële certificatie en vervolgcertificatie gehanteerde criteria zijn in Deel II Normen vermeld.
 
-**Toelichting:**
+De bij initiële certificatie en vervolgcertificatie gehanteerde criteria zijn in Deel II Normen vermeld.
 
 Deel II van dit certificatieschema bevat de normen die gelden voor een procescertificaat voor Asbestinventarisatie. Beschreven worden achtereenvolgens:
 
@@ -17215,7 +17205,7 @@ Het werkveldspecifieke certificatieschema ‘SC-540’ is door het CCvD Asbest v
 
 ### 7. Eisen
 
-### 3. Werkveldspecifieke kenmerken
+### 7. Eisen
 
 ### 7.1. Administratieve eisen
 
@@ -17225,25 +17215,25 @@ Het asbestinventarisatiebedrijf dient de volledige groeps/holdingstructuur, best
 
 ### 3.2. Actieve partijen
 
-**Overheidsorganen, zoals gemeenten, politie en defensie, kunnen wel in het bezit zijn van een procescertificaat, maar behoeven niet ingeschreven te zijn bij de Kamer van Koophandel. Het inventarisatiebureau moet onafhankelijk zijn, dat wil zeggen dat zij geen belang bij het eindresultaat van haar inventarisatie mag hebben (zie ook par. 7.2.).**
+**Opmerking:**
 
 ### 7.1.2. Combinaties/relaties die niet zijn toegestaan binnen de asbestketen
 
 Een overtreding door het bedrijf aan wie is uitbesteed, wordt beschouwd als een overtreding van het bedrijf dat heeft uitbesteed. In de sanctieprocedure tegen het uitbestedende bedrijf wordt de overtreding behandeld als ware zij door het uitbestedende bedrijf begaan.
 
-**Toelichting:**
+Een overtreding door het bedrijf aan wie is uitbesteed, wordt beschouwd als een overtreding van het bedrijf dat heeft uitbesteed. In de sanctieprocedure tegen het uitbestedende bedrijf wordt de overtreding behandeld als ware zij door het uitbestedende bedrijf begaan.
 
 ### 4. Eisen ten behoeve van de aanwijzing
 
 ### 7.1.3. Juridische status
 
-### 4.2. Persoonscertificatie DTA/DAV
+### 7.1.3. Juridische status
 
-**Toelichting:**
+Het asbestinventarisatiebedrijf, of de organisatie waarvan zij deel uitmaakt, dient haar juridische status schriftelijk te hebben vastgelegd. Het inventarisatiebureau dient ingeschreven te zijn bij de Kamer van Koophandel of zusterorganisaties binnen de Europese Unie.
 
 ### 4.2.1. Aansluiting bij Centraal College van Deskundigen Asbest
 
-Is er echter bij brand en/of explosie sprake van verspreiding van asbest naar verharde of onverharde bodem (toplaag), dan valt het in kaart brengen van de verspreiding in de bodem niet onder het toepassingsgebied van de SC-540. Details daaromtrent zijn beschreven in [lit.10]. Bij de inventarisatie van een dergelijk terrein wordt informatief gebruik gemaakt van de meetstrategie en onderzoekmethode zoals omschreven in de norm NEN 5707.
+**Voor overheidsinstellingen en enkele researchorganisaties gelden andere wettelijk vastgelegde regelingen waarin de legitimiteit van deze organisaties/instellingen is vastgelegd. Het inventarisatiebureau moet onafhankelijk zijn, dat wil zeggen dat zij geen belang bij het eindresultaat van haar inventarisatie mag hebben (zie ook par. 7.1.2).**
 
 Een inventarisatiebureau dat deel uitmaakt van een grotere organisatie die ook nog andere dan inventarisatiewerkzaamheden uitvoert, moet duidelijk als zelfstandige eenheid binnen een dergelijke organisatie te onderscheiden zijn, waaraan de verantwoordelijkheden met betrekking tot SC-540 eenduidig kunnen worden toegerekend. Binnen eenzelfde moederorganisatie dient de asbestinventarisatie onder één procescertificaat te worden uitgevoerd.
 
@@ -17251,11 +17241,11 @@ Een inventarisatiebureau dat deel uitmaakt van een grotere organisatie die ook n
 
 Het inventarisatiebureau moet beschikken over beheerde documentatie waarin doel, onderzoeksgebied en het technisch kunnen van het bedrijf zijn vastgelegd.
 
-De keus van gereedschap en materieel hangt af van de te onderzoeken objecten. In bijzondere gevallen en/of voor het uitvoeren van destructief onderzoek kan ander gereedschap en/of materieel nodig zijn. In het inventarisatieplan dient een lijst opgenomen te worden van te gebruiken uitrusting en materialen.
+Het inventarisatiebureau moet beschikken over beheerde documentatie waarin doel, onderzoeksgebied en het technisch kunnen van het bedrijf zijn vastgelegd.
 
-### 4.2.3. Beschikbaarheid certificatiepersoneel
+### 7.1.6. Aansprakelijkheidsverzekering
 
-Een containment dat niet contained, voorkomt verspreiding van asbestvezels niet. Hierdoor kunnen niet alleen werknemers, maar ook anderen worden blootgesteld.
+Het bedrijf dient voor haar dienstverlening adequaat verzekerd te zijn.
 
 Het inventarisatiebureau moet beschikken over beschreven actuele leverings-/contractvoorwaarden.
 
@@ -17263,77 +17253,77 @@ Het inventarisatiebureau moet beschikken over beschreven actuele leverings-/cont
 
 Het personeel van het inventarisatiebureau moet worden gevrijwaard van alle commerciële, financiële of andere vormen van druk die hun oordeel zou kunnen beïnvloeden. Er moeten procedures bestaan om te voorkomen dat externe partijen het resultaat van de asbestinventarisatie kunnen beïnvloeden.
 
-**Toelichting:**
+Het personeel van het inventarisatiebureau moet worden gevrijwaard van alle commerciële, financiële of andere vormen van druk die hun oordeel zou kunnen beïnvloeden. Er moeten procedures bestaan om te voorkomen dat externe partijen het resultaat van de asbestinventarisatie kunnen beïnvloeden.
 
 ### 7.14.6. Type A: Direct waarneembare asbest, asbesthoudende producten etc.
 
-De belangrijkste activiteit c.q. onderwerp van dit certificatieschema is het systematisch en volledig inventariseren van alle direct waarneembare asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object met gebruik van handgereedschap (zonder of met licht destructief onderzoek). Daarbij is onbelemmerde en passende toegang tot de ruimten een voorwaarde voor het kunnen uitvoeren van de inventarisatie. Deze inventarisatie leidt tot een asbestinventarisatierapport Type-A (zie par. 7.17.2.).
+**Preventieve maatregelen ter voorkoming van oneigenlijke druk worden vastgelegd in het kwaliteitshandboek van het bedrijf/de instelling alsook in de gedragscode voor individuele inventariseerders.**
 
 Als deze inventarisatie leidt tot ‘een redelijk vermoeden’ op niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object, dan dient er een aanvullende inventarisatie (Type-B) te worden uitgevoerd.
 
 Het inventarisatiebureau moet aan haar opdrachtgever geheimhouding garanderen van alle gegevens die bij de inventarisatie verkregen zijn. In gevallen waarin het inventarisatiebureau door de overheid daartoe wordt verplicht, is deze geheimhouding niet aan de orde. Eigendomsrechten moeten worden beschermd. Hoe dit wordt bereikt moet beschreven zijn in het Kwaliteitshandboek.
 
-**De inventariseerder komt op basis van zijn deskundigheid in het herkennen en benoemen van asbesttoepassingen tot de veronderstelling dat er asbesthoudende materialen aanwezig zouden kunnen zijn, die slechts met destructief onderzoek bereikbaar zijn. Deze bevinding wordt aangeduid met ‘een redelijk vermoeden’. De bevinding van ‘een redelijk vermoeden’ dient in de samenvatting van het rapport te worden aangegeven (zie ook par. 7.17.2.2). In de samenvatting van het rapport dient in dat geval over de werkwijze van de vergunningverlener bovendien en aansluitend de volgende zin te worden opgenomen:**
+Het inventarisatiebureau moet aan haar opdrachtgever geheimhouding garanderen van alle gegevens die bij de inventarisatie verkregen zijn. In gevallen waarin het inventarisatiebureau door de overheid daartoe wordt verplicht, is deze geheimhouding niet aan de orde. Eigendomsrechten moeten worden beschermd. Hoe dit wordt bereikt moet beschreven zijn in het Kwaliteitshandboek.
 
-### 4.2.6. Eisen te stellen aan certificatiepersoneel
+### 7.3.2. Gegevens bij normoverschrijdende asbestblootstelling
+
+Wanneer tijdens de inventarisatie asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen worden aangetroffen die in redelijk vermoeden kunnen leiden tot een directe normoverschrijdende blootstelling aan asbestvezels in de lucht, wordt dit terstond, vertrouwelijk, aan de opdrachtgever gemeld met de dringende aanbeveling een aanvullende risicobeoordeling conform NEN-EN-ISO/IEC 2991: 2005 te doen uitvoeren.
 
 **Toelichting:**
-
-De risicoklasse ligt ten grondslag aan de te nemen maatregelen. De wet is duidelijk wat betreft in welke risicoklasse gewerkt moet worden. Indien de certificaathouder niet de maatregelen treft die behoren tot deze risicoklasse, dient het certificaat geschorst te worden .
 
 Het inventarisatiebureau moet voldoende faciliteiten bieden om de technische competentie op peil te houden en haar werkzaamheden op het vereiste niveau te kunnen uitvoeren. Hiertoe moeten dus voldoende mensen en middelen ter beschikking worden gesteld. Waarborgen en randvoorwaarden worden vastgelegd.
 
-**Toelichting:**
+Het inventarisatiebureau moet voldoende faciliteiten bieden om de technische competentie op peil te houden en haar werkzaamheden op het vereiste niveau te kunnen uitvoeren. Hiertoe moeten dus voldoende mensen en middelen ter beschikking worden gesteld. Waarborgen en randvoorwaarden worden vastgelegd.
 
 Het inventarisatiebureau moet de structuur van de organisatie vastleggen, alsmede de verantwoordelijkheden van haar medewerkers.
 
-Naast het in kaart brengen van de asbesthoudende toepassingen omvat een asbestinventarisatie Type G een risicobeoordeling met betrekking tot de gebruikssituatie en het opstellen van een asbestbeheersplan.
+Het inventarisatiebureau moet de structuur van de organisatie vastleggen, alsmede de verantwoordelijkheden van haar medewerkers.
 
 Het inventarisatiebedrijf moet een medewerker aanstellen die eindverantwoordelijk is voor het conform dit certificatieschema uitvoeren van de inventarisatiewerkzaamheden, het opstellen van het inventarisatierapport en de verwerking van de ontvangen evaluatieformulieren. Deze medewerker dient ervaren te zijn in de bedrijfsvoering en tevens gekwalificeerd en ervaren te zijn bij de voorbereiding, uitvoering en rapportages van asbestinventarisaties. De volgende minimale eisen ten aanzien van ervaring en kennis zijn daarbij van toepassing:
 
 ### 4.2.7. Certificaat
 
-Bij met name inventarisatiebedrijven met kleine bezetting kan deze functie een combinatiefunctie zijn.
+Toelichting
 
-Er wordt een onderscheid gemaakt tussen een type A asbestinventarisatie (direct waarneembare asbest) en een type B asbestinventarisatie (niet-direct waarneembare asbest). Er kan pas gesproken worden van een volledig asbestinventarisatierapport als alle asbest op de locatie, in het bouwwerk of object is geïnventariseerd (voor zover daar gewerkt zal worden). Indien bij de inventarisatie alleen naar het waarneembare asbest is gekeken, kan veelal niet gesproken worden van een volledig asbestinventarisatierapport. Een dergelijk onvolledig rapport kan niet als overtreding door de certificaathouder worden beschouwd indien het slechts zijn opdracht was om een type A onderzoek te doen. De certificaathouder zal wel duidelijk de beperkingen van het onderzoek in het rapport moeten aangeven. Verder zal hij in het rapport moeten wijzen op de risico’s van een dergelijk beperkt rapport.
+Bij met name inventarisatiebedrijven met kleine bezetting kan deze functie een combinatiefunctie zijn.
 
 Het inventarisatiebureau moet zorgdragen voor effectief toezicht door deskundige medewerkers op het inventarisatieproces, in het bijzonder de visuele inspectie, de gehanteerde inventarisatietechnieken, de te inventariseren objecten, de risicoclassificatie en de in het inventarisatierapport opgenomen conclusies en aanbevelingen voor de asbestinventarisatie.
 
-Niet-direct waarneembare asbest, asbesthoudende producten etc. worden in dat geval voorafgaand aan de bouwkundige sloop, wel of niet in samenwerking met het gecertificeerde asbestverwijderingsbedrijf (conform SC-530), met destructief onderzoek opgespoord (zie 3.4.3), waarbij de bouwkundige integriteit van een gebouw of constructie wordt aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk). Het destructief onderzoek daarbij dient te geschieden onder het regime van SC-530. Het resultaat leidt tot een asbestinventarisatierapport Type-B als aanvulling op het asbestinventarisatierapport Type-A. Dit wordt door het asbestinventarisatiebedrijf ter beschikking gesteld via de opdrachtgever c.q. de houder van de omgevingsvergunning aan de vergunningverlener (gemeente).
+Het inventarisatiebureau moet zorgdragen voor effectief toezicht door deskundige medewerkers op het inventarisatieproces, in het bijzonder de visuele inspectie, de gehanteerde inventarisatietechnieken, de te inventariseren objecten, de risicoclassificatie en de in het inventarisatierapport opgenomen conclusies en aanbevelingen voor de asbestinventarisatie.
 
 Voor elke in dit schema genoemde functionaris moet een gekwalificeerde plaatsvervanging schriftelijk geregeld zijn.
 
-Buiten het kader van SC-540 kan voorafgaand aan uit te voeren risicobeoordelingen, conform NEN 2991, in gebouwen, constructies of objecten in bewoonde/gebruikte staat die niet zullen worden gesloopt, worden volstaan met een beperkte, uitsluitend op visueel onderzoek gebaseerde, inventarisatie van asbesthoudende materialen. Deze inventarisatie dient gerapporteerd te worden.
+Voor elke in dit schema genoemde functionaris moet een gekwalificeerde plaatsvervanging schriftelijk geregeld zijn.
 
-### 4.2.8. Toezicht
+### 7.4.5. Functiebeschrijvingen
 
-**De uitvoering van een risicobeoordeling conform NEN 2991 valt, behoudens het bepaalde in 7.14.6.1 buiten het kader van deze SC-540. Het resultaat van een type 0 inventarisatie kan dan als startpunt dienen. Uiteraard wordt een Type-O inventarisatie uitsluitend uitgevoerd indien er voor het betreffende gebouw, constructie of object geen Type-A inventarisatie beschikbaar is, terwijl er redenen zijn om op korte termijn een NEN 2991 risicobeoordeling uit te voeren.**
+Van alle ingezette medewerkers voor asbestinventarisatie, of direct daaraan gerelateerde onderwerpen, moet een functieomschrijving beschikbaar zijn.
 
 Consequentie van deze rol is dat als hij er niet is de werkzaamheden tijdens zijn afwezigheid niet worden uitgevoerd. Als de werkzaamheden dermate omvangrijk zijn dat één DTA-er niet overal toezicht kan houden, moeten er meerdere op het werk aanwezig zijn.
 
-### 4.2.8.1. Toezicht op klachtenafhandeling CKI
+### 7.5.1. Kwaliteitsbeleid, directieverklaring
 
-De indeling in risicoklassen is gebaseerd op het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498). Er zijn drie risicoklassen gedefinieerd, elk met een eigen specifiek veiligheidsregime. Deze risicoklassen zijn volgens het volgende globale model ingedeeld:
+Het management van het inventarisatiebureau moet haar visie en doelstellingen inzake kwaliteit onderschrijven en vastleggen in een kwaliteitssysteem. Zij dient tevens zorg te dragen dat dit beleid algemeen bekend is en tot op alle niveaus in het beleid van de organisatie is verankerd.
 
-### 4.2.8.2. Toezicht op afhandeling van Cat I afwijking van de certificaathouder
+### 7.5.2. Doeltreffendheid
 
-**Opmerkingen**
+Het inventarisatiebureau moet over een effectief kwaliteitssysteem beschikken dat is toegesneden op de aard van het werkgebied, de omvang van de uit te voeren inventarisatiewerkzaamheden en het asbestinventarisatierapport, conform hoofdstuk 7.17.
 
-### 7.14.10. Kwantificeren en registreren
+### 7.5.3. Kwaliteitshandboek (KBH)
 
-Voor plaatmaterialen en golfplaat dient de hoeveelheid weergegeven te worden in m2. Desgewenst kan naar massa-eenheden (kg, ton) worden omgerekend. Bulktoepassingen, zoals spuitasbest, leidingisolatie etc. dienen altijd omgerekend te worden naar volume en/of massa-eenheden. Daarnaast dienen de afmetingen van alle asbesthoudende bouw- of constructiedelen zorgvuldig op een plattegrond te worden aangegeven en geregistreerd.
+Het kwaliteitssysteem moet zijn beschreven in een KHB, waarin alle informatie die conform dit certificatieschema is vereist, is opgenomen. Een voorbeeld van onderwerpen die in het KHB opgenomen worden zijn:
 
-### 7.14.11. Monsterneming en analyse
+### 7.5.4. Kwaliteitsfunctionaris
 
-Van elk type als asbestverdacht aangemerkt materiaal dient per onderzoeksproject door de inventariseerder tenminste één representatief monster te worden genomen. Ook indien het materiaal visueel als asbesthoudend wordt herkend. De monsterneming dient te voldoen aan de betreffende eisen uit NEN 5896: 2003.
+Het management van de organisatie moet een functionaris aanwijzen die bevoegd en verantwoordelijk is voor de kwaliteitsborging binnen het inventarisatiebureau. Deze functionaris moet directe toegang hebben tot de hoogste leiding van de organisatie.
 
-### 4.2.11. Onpartijdigheid en onafhankelijkheid van de CKI en haar personeel
+### 7.5.5. Actualiseren van het kwaliteitssysteem
 
-In het rapport moeten alle relevante gegevens over het asbest aangegeven worden, zoals de aard van het asbest, de concentratie asbest in het materiaal en de staat van het materiaal. Elk stuk asbest moet ook uniek worden aangegeven in de zin dat de verwijderaar de gegevens in het rapport kan koppelen aan de situatie die hij aantreft. De verwijderaar moet de asbest immers kunnen vinden en weten waar hij mee te maken heeft.
+Het kwaliteitssysteem moet onder verantwoordelijkheid van deze functionaris up-to-date gehouden worden.
 
 Het inventarisatiebureau moet een systeem bijhouden voor het beheersen van alle documentatie in relatie tot haar activiteiten. Dit dient om te verzekeren dat:
 
-Ook dient de certificaathouder met regelmaat haar bedrijfsvoering te analyseren om te bezien of dit voldoende functioneert en of er geen verbeteringen aangebracht kunnen worden.
+Het inventarisatiebureau moet een systeem bijhouden voor het beheersen van alle documentatie in relatie tot haar activiteiten. Dit dient om te verzekeren dat:
 
 Het inventarisatiebureau moet beschikken over een beschreven systeem van geplande interne kwaliteitsbeoordelingen om vast te stellen of aan de in dit certificatieschema gestelde eisen wordt voldaan en om de effectiviteit van het eigen kwaliteitssysteem te toetsen. Het personeel dat de beoordelingen uitvoert moet voldoende gekwalificeerd zijn en een onafhankelijke positie hebben t.o.v. de beoordeelde onderdelen en/of personen.
 
@@ -17351,39 +17341,39 @@ Het inventarisatiebureau moet beschikken over een beschreven procedure voor het 
 
 ### 4.5.2. Verplichte gedragscode
 
-**Toelichting:**
+Voor met name de afhandeling van het evaluatieformulier dient het inventarisatiebureau over een vrijgegeven procedure te beschikken.
 
 ### 4.5.3. Marktgedrag CKI
 
-Indien het zo is dat door omstandigheden de certificaathouder de werkzaamheden niet kan uitvoeren, kan hij dit ook oplossen door de opdracht terug te geven. Hij kan ook werknemers inlenen of middelen inhuren om het werk toch te kunnen verrichten.
+**Indien het asbestverwijderingsbedrijf (buiten de verstrekte opsomming in het asbestinventarisatierapport) onvoorzien asbest, asbesthoudende producten etc aantreft, wordt dit met het evaluatieformulier (zie SC-540 par. 7.17.4) gemeld aan het inventarisatiebureau.**
 
-### K. Organisatie van het bedrijf
+### 7.5.10. Beoordeling kwaliteitssysteem door de directie
 
-**Toelichting:**
+De directie van het inventarisatiebureau moet tenminste éénmaal per jaar het kwaliteitssysteem beoordelen op haar effectiviteit. De resultaten van de directiebeoordeling moeten worden vastgelegd en gedocumenteerd.
 
-### 7.6.1. Beschikbaarheid en tijdelijk personeel
+### 7.6. Personeel
 
 Het inventarisatiebureau moet over voldoende personeel in vaste dienst beschikken, waarmee alle expertise gebieden die nodig zijn voor de normale bedrijfsvoering met betrekking tot de asbestinventarisatie bestreken worden. Tijdelijk personeel moet voldoen aan alle eisen die in dit hoofdstuk zijn omschreven.
 
 ### 7.16.2. Het systematisch opsporen van asbest, asbesthoudende producten etc.
 
-**Toelichting:**
+Het inventarisatiebureau zal de aan haar opgedragen inventarisaties zelf uitvoeren.
 
 ### 4.5.7. Meldingsprocedure bij vermoeden van veiligheid
 
-**Voorbeelden van een indeling in hoofdgroepen zijn onderstaand gegeven:**
+**Het inventarisatierapport blijft de verantwoordelijkheid van het asbestinventarisatiebedrijf.**
 
-### 7.16.3. Veiligheidsaspecten
+### 7.6.2. Personeelskwalificaties
 
-In het asbestinventarisatieplan legt de inventariseerder vast wat geïnventariseerd moeten worden en hoe dit gedaan moet worden. Hierdoor wordt voorkomen dat de inventarisatie onvolledig is.
+Het personeel dat de inventarisaties uitvoert dient in het bezit te zijn van een geldig Ascert Persoonscertificaat Deskundig Inventariseerder Asbest (DIA) conform SC-560.
 
-### 4.5.9. Zienswijze-, klachten- en bezwaarschriftprocedure
+### 7.6.3. Opleiding
 
-Voorwaardelijke intrekking volstaat, omdat het gebrek aan een plan nog niet tot blootstelling of een verhoging van het risico hoeft te leiden.
+Het inventarisatiebureau moet beschikken over een beschreven opleidingsplan. Dit is om te verzekeren dat de vakbekwaamheid van haar personeel in zowel de technische, als de administratieve aspecten van de uit te voeren werkzaamheden, up-to-date en op niveau gehouden wordt. Dit plan dient te staan in relatie tot de doelstellingen van het inventarisatiebureau. De vereiste opleiding zal afhangen van de capaciteiten, vooropleiding en ervaring van de betrokkenen personen.
 
-### 4.5.10. Verplichte vertegenwoordiging CKI in CCvD
+### 7.6.4. Personeelsdossiers
 
-Een plan dat niet wordt gevolgd, kan net zo goed niet zijn opgemaakt.
+Door het inventarisatiebureau moet een passende gedetailleerde registratie van het personeel, van de gevolgde en nog te volgen opleidingen en werkervaringsgegevens worden bijgehouden.
 
 Het inventarisatiebureau moet over gedragsrichtlijnen beschikken en het personeel periodiek beoordelen op het kennen en toepassen daarvan. Integriteit, onafhankelijkheid en beroepshouding dienen daarin als belangrijkste aan de orde te komen. In deze gedragscode dienen tenminste de volgende aspecten aan de orde te komen:
 
@@ -17391,27 +17381,27 @@ Het inventarisatiebureau moet over gedragsrichtlijnen beschikken en het personee
 
 De beloning van inventarisatiepersoneel mag niet afhankelijk zijn van het aantal uit te voeren inventarisaties en mag nimmer afhankelijk zijn van het resultaat van een inventarisatie.
 
-**Toelichting:**
+De beloning van inventarisatiepersoneel mag niet afhankelijk zijn van het aantal uit te voeren inventarisaties en mag nimmer afhankelijk zijn van het resultaat van een inventarisatie.
 
 ### 7.17.1. Inleiding
 
-De belangrijkste activiteit van het asbestinventarisatiebedrijf is het inventariseren van asbesthoudende materialen en/of secundaire bronnen in een gebouw, constructie of object. Met behulp van de verkregen informatie kunnen de asbesthoudende materialen worden verwijderd. Het asbestinventarisatierapport is daarom van groot belang voor het zorgvuldig en hygiënisch verantwoord verwijderen van asbest. In deze paragraaf wordt aangegeven op welke wijze de resultaten van de asbestinventarisatie dienen te worden gerapporteerd. Voor minder omvangrijke asbestinventarisaties dient eenzelfde model te worden gehanteerd.
+**Met deze maatregel is beoogd het ongewenst ‘kopen’ van incorrecte inventarisatierapporten zoveel mogelijk te beperken.**
 
-### Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering
+### 7.6.7. Medische keuring/blootstellingsregistratie
+
+De werknemers die blootstelling aan asbest riskeren, moeten in de gelegenheid worden gesteld om arbeidsgezondheidskundig onderzoek te ondergaan:
 
 De werkgever of de werknemer dient daar zelf om te verzoeken. De individuele arbeidsgezondheidskundige gegevens van de werknemers moeten in persoonlijke dossiers worden opgeslagen. De dossiers moeten tenminste 40 jaar na het eind van de blootstelling worden bewaard.
 
 De werkgever is verplicht de bovengenoemde arbeidsgezondheidskundige onderzoeken aan de werknemers aan te bieden. Werknemers hebben echter het recht te weigeren een arbeidsgezondheidskundig onderzoek te ondergaan. Dit dient uit een eigen schriftelijke verklaring te blijken. Schriftelijk bewijs van medische geschiktheid (of afstandsverklaring) moet aantoonbaar zijn op de projectlocatie.
 
-Dit omvat de inventarisatie van direct waarneembaar asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object. Bij de inventarisatie kan gebruik worden gemaakt van handgereedschap (zonder of met licht destructief onderzoek).
-
-### 7.7.1. Beschikbaarheid
+### 7.7. Voorzieningen en uitrusting
 
 Het inventarisatiebureau moet beschikken over passende faciliteiten en uitrusting voor alle uit te voeren inventarisatiewerkzaamheden. De voor asbestinventarisaties benodigde voorzieningen en uitrusting zijn vermeld in par. 7.14.4.
 
 ### 7.17.2.1. Titelblad
 
-**Deze verplichting past in de algemene wettelijke verplichting van de werkgever met betrekking tot voorlichting, instructie, risico-inventarisatie en -evaluatie etc. (zie Arbowet art 3).**
+**Toelichting:**
 
 ### 7.7.2. Toegang en bevoegdheid tot gebruik
 
@@ -17470,13 +17460,15 @@ Het inventarisatiebureau moet zorgdragen dat alle uitrusting naar behoren wordt 
 
 ## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-07-01&g=2012-07-01)
 
-### 7.17.2.7. Conclusies en aanbevelingen
+### 7.7.6. Kalibratie
 
-Bij de duikopleiding voor de categorie duikarbeid waartoe de cursist wordt opgeleid worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
+Het inventarisatiebureau zorgt ervoor dat alle in te zetten apparatuur, voor zover van toepassing, voorafgaand aan gebruik herleidbaar is gekalibreerd volgens een tevoren opgesteld kalibratieschema.
 
 Wanneer relevant moet apparatuur, afgezien van het reguliere kalibratieprogramma, ook voorafgaand aan gebruik worden gecontroleerd.
 
-Het asbestinventarisatierapport Type-B is het resultaat van de aanvullende inventarisatie van alle redelijk veronderstelde niet-direct-waarneembare asbest en asbesthoudende producten etc. die direct voorafgaand aan de bouwkundige sloop met destructief onderzoek zijn opgespoord en waarbij de bouwkundige integriteit van een gebouw of constructie is aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk).
+Wanneer relevant moet apparatuur, afgezien van het reguliere kalibratieprogramma, ook voorafgaand aan gebruik worden gecontroleerd.
+
+Wanneer dit relevant is voor de te leveren diensten, moet het inventarisatiebureau over procedures beschikken voor:
 
 Wanneer dit relevant is voor de te leveren diensten, moet het inventarisatiebureau over procedures beschikken voor:
 
@@ -17484,55 +17476,53 @@ Wanneer dit relevant is voor de te leveren diensten, moet het inventarisatiebure
 
 **Voor een inventarisatie zijn o.a. een asbeststofzuiger en persoonlijke beschermingsmiddelen als kwaliteitsbepalende apparatuur aanwezig. Deze worden zorgvuldig onderhouden, gecontroleerd en jaarlijks gekeurd. Leveranciers die dergelijke apparatuur leveren, worden tevoren op kwaliteit getoetst. Het artikel geldt ook voor de aankoop van diensten, zoals laboratoriumonderzoek, servicediensten etc. Tijdelijk personeel wordt bij voorkeur betrokken van gecertificeerde collega-bedrijven en moet voldoen aan alle eisen zoals gesteld in dit certificatieschema par 7.12. Laboratoriumdiensten en kalibraties worden uitsluitend uitbesteed aan instellingen die voor de betreffende verrichting(en) zijn geaccrediteerd. Uitbesteding van het onderhoud aan kwaliteitsbepalende apparatuur geschiedt, indien voorhanden, aan een daartoe gecertificeerde leverancier of onderhoudsdienst. Criteria voor het tijdelijk inhuren van personeel zijn beschreven in par 7.12.**
 
-De auteurs van de elkaar opvolgende versies van het inventarisatierapport
+Wanneer de instelling bij de uitvoering van inspecties gebruik maakt van computers en/of geautomatiseerde apparatuur, dan dient men ervoor te zorgen dat:
 
 Wanneer de instelling bij de uitvoering van inspecties gebruik maakt van computers en/of geautomatiseerde apparatuur, dan dient men ervoor te zorgen dat:
 
-**Toelichting:**
-
 ### 1. Inleiding
 
-In dit gedeelte is aangegeven hoe de certificatie-instelling gedurende de looptijd van het certificaat toegang heeft tot de werkzaamheden van de certificaathouder. Vermeld zijn de vorm, aard en frequentie van de beoordelingen op zowel de kantoorlocatie(s) als de projectlocaties. Voor de projectbeoordelingen is een controlelijst beschikbaar.
+**Bij inventarisatie zijn computers belangrijk voor het systematisch vastleggen van o.a.:**
 
 Het inventarisatiebureau moet beschikken over een beschreven procedure voor de behandeling van defecte apparatuur. Defecte apparatuur moet buiten bedrijf worden gesteld door afscheiding en/of duidelijke labeling. De instelling moet nagaan of het werken met defecte apparatuur van invloed is geweest op uitgevoerde inventarisaties.
 
-Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te verlenen in combinatie met de eventuele publicatie van het certificaat met opname in het Ascert Register.
+Het inventarisatiebureau moet beschikken over een beschreven procedure voor de behandeling van defecte apparatuur. Defecte apparatuur moet buiten bedrijf worden gesteld door afscheiding en/of duidelijke labeling. De instelling moet nagaan of het werken met defecte apparatuur van invloed is geweest op uitgevoerde inventarisaties.
 
 Relevante gegevens van gebruikte apparatuur (zoals identificatie, kalibratie en onderhoud) moeten worden vastgelegd.
 
-De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief rapportage.
+Relevante gegevens van gebruikte apparatuur (zoals identificatie, kalibratie en onderhoud) moeten worden vastgelegd.
 
 Een volledige asbestinventarisatie conform SC-540 kan gefaseerd worden uitgevoerd conform par.
 
 ### 2.1. Algemene definities
 
-Het eindproduct is een inventarisatierapport conform par. 7.17. Het asbestinventarisatierapport en overige documenten betreffende het asbestinventarisatiewerk dienen te zijn voorzien van een projectidentificatiecode. Met de Ascert-code van het gecertificeerde, uitvoerende asbestinventarisatiebedrijf vormt de projectidentifcatiecode een uniek identificatie van het asbestinventarisatiewerk en het daarop gebaseerde asbestinventarisatierapport. De beperkingen van een asbestinventarisatierapport moeten met argumenten onderbouwd expliciet in het rapport worden opgenomen.
+7.14.
 
-SC-530 Deel III Bijlage B bevat een aanvullende lijst met werkveldspecifieke definities.
+Het eindproduct is een inventarisatierapport conform par. 7.17. Het asbestinventarisatierapport en overige documenten betreffende het asbestinventarisatiewerk dienen te zijn voorzien van een projectidentificatiecode. Met de Ascert-code van het gecertificeerde, uitvoerende asbestinventarisatiebedrijf vormt de projectidentifcatiecode een uniek identificatie van het asbestinventarisatiewerk en het daarop gebaseerde asbestinventarisatierapport. De beperkingen van een asbestinventarisatierapport moeten met argumenten onderbouwd expliciet in het rapport worden opgenomen.
 
 Het bedrijf dient vóór begin van de uitvoering de periode van het asbestinventarisatiewerk melden aan de CKI (zie Bijlage A).
 
-Gegevens van de certificaathouder:
+Het bedrijf dient vóór begin van de uitvoering de periode van het asbestinventarisatiewerk melden aan de CKI (zie Bijlage A).
 
 Een inventarisatiebureau moet haar methoden en procedures toepassen conform par. 7.14.5.
 
-Overige gegevens certificaat:
+Een inventarisatiebureau moet haar methoden en procedures toepassen conform par. 7.14.5.
+
+Het inventarisatiebureau dient per inventarisatieproject te beschikken over een werkvoorschrift dat leidt tot een passend inventarisatieplan inclusief checklijst (zie par. 7.14). Wanneer van toepassing, vereist dit een voldoende kennis van technieken om een representatieve monsterneming te bewerkstelligen en om meetgegevens op de juiste wijze te verwerken en te interpreteren.
 
 Het inventarisatiebureau dient per inventarisatieproject te beschikken over een werkvoorschrift dat leidt tot een passend inventarisatieplan inclusief checklijst (zie par. 7.14). Wanneer van toepassing, vereist dit een voldoende kennis van technieken om een representatieve monsterneming te bewerkstelligen en om meetgegevens op de juiste wijze te verwerken en te interpreteren.
 
 **Toelichting:**
 
-**Onder dit punt valt dus de technische beschrijving van het eigenlijke inventarisatieproces, de gebruikte technieken, etc.**
-
 ### 7.8.4. Niet genormeerde methoden
+
+Wanneer het inventarisatiebureau genoodzaakt is om af te wijken van dit certificatieschema, dan moet de alternatieve methode voor het doel geschikt zijn en volledig zijn beschreven.
 
 Wanneer het inventarisatiebureau genoodzaakt is om af te wijken van dit certificatieschema, dan moet de alternatieve methode voor het doel geschikt zijn en volledig zijn beschreven.
 
 **Toelichting:**
 
 **In principe wordt altijd SC-540 gevolgd. In uitzonderlijke situaties kan het voorkomen dat hiervan afgeweken moet worden. In dat geval geldt dat deze afwijking volledig gemotiveerd en beschreven moet zijn.**
-
-De duur van de cursus is minimaal voor:
 
 Alle werkinstructies, normen of beschreven procedures, registratieformulieren, checklists en referentiegegevens die van belang zijn voor het werk van het inventarisatiebureau, moeten up-to-date gehouden worden en direct toegankelijk zijn voor het personeel.
 
@@ -17683,7 +17673,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 4.17f. Afgifte procescertificaat opsporen conventionele explosieven
 
-Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel 4.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifieke certificatieschema voor het systeemcertificaat opsporing conventionele explosieven, document WSCS-OCE: 2012, versie 1, zoals opgenomen in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2013-11-01&g=2013-11-01) bij de regeling.
+Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel 4.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Werkveldspecifieke certificatieschema voor het systeemcertificaat opsporing conventionele explosieven, document WSCS-OCE: 2012, versie 1, zoals opgenomen in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2014-01-01&g=2014-01-01) bij de regeling.
 
 #### Paragraaf 4.9. Vervallen
 
@@ -17699,7 +17689,7 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-### Branche/beroep/proces-specialisatie
+### 6. **Toezicht**
 
 ### 6.5. **Maatregelen**
 
@@ -17707,9 +17697,9 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### 3. **De werkveldspecifieke kenmerken**
 
-### 3.1. **Beschrijving schema**
+### 9. **Competentieprofiel**
 
-### 10.1. **Toetstermen**
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
@@ -17717,7 +17707,7 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### 4.3. **Certificatiebesluit**
 
-### 6. **Toezicht**
+### 10.2. **Toets (overhoring van het portfolio)**
 
 ### 6.1. **Medewerking aan toezicht**
 
@@ -17725,19 +17715,19 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### 6.3. **Verslag van bevindingen**
 
-### 6.4. **Klachten betreffende de certificaathouder**
+### 11.2. **Beoordelingsmethode**
 
 ### 5.3. **Beheer centrale itembank en examenversies**
 
 ### 6. **Toezicht**
 
-### 6.1. **Medewerking aan toezicht**
+### 11.3. **Toets (verdediging van het portfolio)**
 
 ### 8. **Entreecriteria**
 
-### Klachten over de CKI
+### Bijlage 1:. Klachtenregeling
 
-### 7. **Het onderwerp van certificatie**
+### Klachtenregeling
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
@@ -17753,7 +17743,7 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### Procedure
 
-### Inleiding
+### Bijlage 10:. Specialisatie van de arbeidshygiënist (toelichtend)
 
 ### Bijlage 5:. Schema competentiegericht beoordelen
 
@@ -17769,29 +17759,29 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### 2.2. Beschrijving van de kerntaken
 
-### 3.3. Beroepsspecifieke competenties
+### 1. **Inleiding**
 
 ### 1. **Algemene informatie**
 
 ### Bijlage 8:. Overgangsregeling
 
-### 2. **Kerntaken**
+### 3.1. **Beschrijving schema**
 
 ### 3.2. **Actieve partijen**
 
-### 2.2. Beschrijving van de kerntaken
+### 3.3. **Risicoanalyse en afbreukrisico**
 
 ### 4. **Het certificatiereglement**
 
-### 4.1. **Doelstelling**
+### 4. **Het certificatiereglement**
 
 ### 4.2. **Certificatieprocedure**
 
-### 3.3. Beroepsspecifieke competenties
+### 4.2. **Certificatieprocedure**
 
 ### 4.4. **Geldigheidsduur**
 
-### Bijlage 9:. Format Goed- en afkeurcriteria examen
+### 4.5. **Geldigheidscondities**
 
 ### Bijlage 10:. Specialisatie van de hogere veiligheidskundige(toelichtend)
 
@@ -17801,9 +17791,9 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### Kennisspecialisatie
 
-### Taakspecialisatie
+### 7. **Het onderwerp van certificatie**
 
-### 3. **De werkveldspecifieke kenmerken**
+### 8. **Entreecriteria**
 
 ## Bijlage IId. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2012-07-01&g=2012-07-01)
 
@@ -17823,25 +17813,25 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### 5.2. **Het examenreglement**
 
-### 11.1. **Toetstermen**
+### 11. **Toetsmethodiek bij hercertificatie**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
 ### 12. **Het certificaat**
 
-### 6.3. **Verslag van bevindingen**
+### 13. **Geldigheidscondities**
 
 ### Bijlage 1:. Klachtenregeling
 
-### 6.5. **Maatregelen**
+### Klachten over de CKI
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
-### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
+### Bestuursrechter
 
-### Inleiding
+### Bijlage 6:. Competentieprofiel hogere veiligheidskunde
 
-### 11. **Toetsmethodiek bij hercertificatie**
+### Indeling van het competentieprofiel
 
 ### 1. **Algemene informatie**
 
@@ -17871,13 +17861,13 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
 
-### 1.1. Beeld van de branche en het beroep
+### Specialisatie van de Hogere Veiligheidskundige
 
 ### Kennisspecialisatie
 
-### 4.1. Beslotenheid van examens
+### Kennisspecialisatie
 
-### 4.2. Algemene regels bij de uitvoering van examens
+### Taakspecialisatie
 
 ### 2.2. Beschrijving van de kerntaken
 
@@ -17885,29 +17875,29 @@ Een procescertificaat opsporen conventionele explosieven als bedoeld in [artikel
 
 ### **Inhoudsopgave**
 
-### 1. **Inleiding**
+### **Inhoudsopgave**
 
 ### 2. **Definities**
 
-### 2.2. Beschrijving van de kerntaken
+### 3.1. **Beschrijving schema**
 
 ### 3.2. **Actieve partijen**
 
-### 3.1. Inleiding
+### 3.2. **Actieve partijen**
 
 ### 3.3. Beroepsspecifieke competenties
 
 ### 4. **Het certificatiereglement**
 
-### Bijlage 8:. Overgangsregeling
+### 4.1. **Doelstelling**
 
 ### 4.3. **Certificatiebesluit**
 
 ### 6.1. **Medewerking aan toezicht**
 
-### Inleiding
+### 6.1. **Medewerking aan toezicht**
 
-### T-profielen
+### 6.2. **Frequentie en uitvoering van het toezicht**
 
 ### 6.5. **Maatregelen**
 
@@ -18323,7 +18313,7 @@ Vervallen
 
 ### 9. **Competentieprofiel**
 
-### 4.2. **Eisen aan certificatiepersoneel**
+### 9. **Competentieprofiel**
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
@@ -18331,9 +18321,9 @@ Vervallen
 
 ### 4.2.1. **Kwalificaties lead auditor**
 
-### 11.1. **Toetstermen**
+### 11. **Toetsmethodiek bij hercertificatie**
 
-### 4.3. **Gegevens op het certificaat**
+### 11.2. **Beoordelingsmethode**
 
 ### 4.4. **Wijziging van certificatie-eisen**
 
@@ -18343,7 +18333,7 @@ Vervallen
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2012-07-01&g=2012-07-01)
 
-### Werkveldspecifiek certificatieschema voor het systeemcertificaat Opsporen Conventionele Explosieven
+### Klachten over de CKI
 
 ### **Inhoudsopgave**
 
@@ -18355,11 +18345,11 @@ Vervallen
 
 ### 3.2. **Actieve partijen**
 
-### Inleiding
+### Bijlage 2:. Bezwaarprocedure
 
 ### Procedure
 
-### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
+### Bestuursrechter
 
 ### 4.3. **Certificatiebeslissing**
 
@@ -18371,11 +18361,11 @@ Vervallen
 
 ### 4.6.1. **Klachten over de CKI**
 
-### 3. **Competenties**
+### 2.2. Beschrijving van de kerntaken
 
-### 4.7.2.1. **Algemeen**
+### 3.1. Inleiding
 
-### Bijlage 7:. Toelaten van opleidingen
+### 3.3. Beroepsspecifieke competenties
 
 ### 5.1. **Gegevensverstrekking en toegang projectlocatie**
 
@@ -18389,11 +18379,11 @@ Vervallen
 
 ### 5.4.1. **Algemeen**
 
-### 5.2. **Frequentie en wijze van uitvoering van het toezicht**
+### T-profielen
 
 ### 5.2.1. **Periodieke beoordeling**
 
-### 6. **Eisen**
+### Kennisspecialisatie
 
 ### Branchespecialisatie
 
@@ -18415,9 +18405,9 @@ Vervallen
 
 ### 6.4.13. **Beheersing van ongevallen en incidenten**
 
-### 6.4.9. **Bewaking en meting**
+### 3. **Werkveldspecifieke kenmerken**
 
-### 6.4.10. **Werkplekinspecties**
+### 3.1. **Beschrijving schema**
 
 ### 3.3. **Risicoanalyse en afbreukcriteria**
 
@@ -18431,37 +18421,37 @@ Vervallen
 
 ### 6.6.3.5. **Computerondersteunde detectie**
 
-### 4.8. **OCE Certificaatregister**
+### 4.7.2.4. **Bestuursrechter**
 
 ### 5.1. **Gegevensverstrekking en toegang projectlocatie**
 
 ### 6.6.3.3. **Veldwerkregistraties**
 
-### 6.6.10. **Overdracht aan EODD en afvoer schroot**
+### 5.2.1. **Periodieke beoordeling**
 
 ### 6.6.11. **Civieltechnisch opsporingsproces**
 
 ### 6.6.5. **Laagsgewijs ontgraven**
 
-### 6.6.12. **Oplevering**
+### 5.3. **Verslag van bevindingen**
 
-### 6.6.8. **Tijdelijk veiligstellen situatie**
+### 5.4.2. **Uitwisseling van informatie met de Inspectie SZW**
 
-### 6.6.9. **VTVS en transport CE**
+### 5.4.3. **Certificatiecriteria en opvolging afwijkingen**
 
 ### 5.4.4. **Schorsing van het Systeemcertificaat**
 
-### 6.6.12. **Oplevering**
+### 6. **Eisen**
 
 ### 6.1.2. **Ontheffing Wet wapens en munitie**
 
-### Bijlage 6:. Eisen voorziening tijdelijk veiligstellen situatie
+### 6.2.3. **Persoonlijke beschermingsmiddelen**
 
-### Bijlage 2D:. Eindtermen basiskennis OCE
+### 6.3. **Eisen management middelen**
 
 ### 3.2. Actieve partijen
 
-### 6.4.1. **Algemene eisen**
+### 6.4. **Eisen managementsysteem**
 
 ## Bijlage XIIa. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2012-07-01&g=2012-07-01)
 
@@ -18475,17 +18465,17 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ## Bijlage XIII. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2012-07-01&g=2012-07-01)
 
-### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
+### 6.4.2. **Systeemhandboek**
 
 ### 6.4.3. **Beheersing van documenten**
 
 ### **TGG**
 
-### **C**
+### 6.4.4. **Beheersing van registraties**
 
 ### Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie
 
-### **Respirabel/inhaleerbaar stof**
+### 6.4.6. **Directieverantwoordelijkheid**
 
 ## Bijlage XIIIa. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-07-01&g=2012-07-01)
 
@@ -18493,7 +18483,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 6.4.14. **Voorbereiding op noodsituaties**
 
-### 3.1. Beschrijving schema
+### 6.4.14. **Voorbereiding op noodsituaties**
 
 ### Toelichting aanvullende bronnen
 
@@ -18513,25 +18503,25 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 6.6.3.1. **Selectie van detectiemethoden**
 
-### Klachten over de CKI
+### 6.6.3.2. **Uitvoeren detectie**
 
 ### Klachten over het bedrijf of de persoon
 
 ### 4.3.1. Afhandeling aanvraag initiële certificatie
 
-### 4.3.2. Aanvragen van een procescertificaat
+### 6.6.4. **Lokaliseren**
 
-### 4.3.3. Verloop toelatingsonderzoek
+### 6.6.5. **Laagsgewijs ontgraven**
 
-### 4.3.4. Meerdere filialen/vestigingen
+### 6.6.6. **Munitiescheiding**
 
 ### 6.6.7. **Identificeren**
 
 ### 6.6.9. **VTVS en transport CE**
 
-### 4.3.7.1. Minimaal 2 volledige inventarisatierapporten
+### 6.6.9. **VTVS en transport CE**
 
-### 4.5.2. Hercertificatie na intrekking
+### 6.6.11. **Civieltechnisch opsporingsproces**
 
 ### 4.6. Geldigheidscondities
 
@@ -18541,11 +18531,11 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 6.6.13. **Evaluatie**
 
-### 4.5.1. Hercertificatie
+### 6.7. **Begeleiding onderzoekswerkzaamheden in OCE verdacht gebied**
 
 ### 4.5.2. Hercertificatie na intrekking
 
-### 4.8. Bezwaarschriftenprocedure
+### Bijlage 2:. Eindtermen oce-deskundigen
 
 ### 6.2. Frequentie van het toezicht
 
@@ -18555,13 +18545,13 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### Bijlage 2A:. Eindtermen assistent oce-deskundige
 
-### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
+### Bijlage 2B:. Eindtermen oce-deskundige
 
 ### Bijlage 2C:. Eindtermen senior oce-deskundige
 
 ### 4.7.3.2.2. Ernstige klachten
 
-### 5.2.1. Beoordeling op de vestiging
+### Bijlage 3:. Vaststellen verdachtgebied en afbakening in vooronderzoek
 
 ### Deel II:. Normen
 
@@ -18575,9 +18565,9 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### Bijlage 4:. Eisen te stellen aan materieel
 
-### 9. Eindtermen
+### Bijlage 4:. Eisen te stellen aan materieel
 
-### Werkwijze
+### Bijlage 5:. Eisen aan beschermende maatregelen
 
 ### 9.3. Eindtermen pyrotechnische speciale effecten
 
@@ -18585,7 +18575,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 5.4. Verslag van bevindingen
 
-### 3.1. Beschrijving document
+### 3. Werkveldspecifieke kenmerken
 
 ### 3.2. Actieve partijen
 
@@ -18601,9 +18591,9 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 5.5.4. Sanctieprocedure
 
-### 4.1. Persoonscertificatie Vuurwerkdeskundige
+### 4. Eisen ten behoeve van de aanwijzing
 
-### 5.5.4.2. Onderzoek door overheidsinstellingen
+### 4.2. Centraal College van Deskundigen SCVE
 
 ### 4.4. Onderhoud van het WSCS-VD
 
@@ -18613,13 +18603,13 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### Deel II. Normen
 
-### 5.5.4.4. Zienswijze procedure
+### 4.7. Eisen aan personeel van onderaannemers
 
 ### 4.9. Personeelsdossiers
 
 ### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
-### 7.1.5. Werkterrein en technisch kunnen
+### 4.14. Aanwijzingscriteria
 
 ### **Respirabel/inhaleerbaar stof**
 
@@ -18629,21 +18619,21 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 1. Inleiding
 
-### 3. Werkveldspecifieke kenmerken
+### 2. definities
 
 ### 3.2. Actieve partijen
 
-### 7.4.5. Functiebeschrijvingen
+### 3.2. Actieve partijen
 
 ### 4.5. Geldigheidscondities
 
 ### 4.6. Klachtenregeling
 
-### 3.3.1. Algemeen
+### Klachten over de CKI
 
 ### 7.5.1. Kwaliteitsbeleid, directieverklaring
 
-### 3.3.2. Risicoanalyse niveau asbestinventarisatie
+### Klachten over het bedrijf of de persoon
 
 ### 7.6. Personeel
 
@@ -18651,35 +18641,35 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 3.4.3. Aanvullende asbestinventarisatie tijdens bouwkundige sloop: Type-B
 
-### 3.4.4. Beperkte inventarisatie voorafgaand aan een risicobeoordeling conform NEN 2991: 2005
+### 4.9. Norminterpretatie
 
-### 7.6.7. Medische keuring/blootstellingsregistratie
+### 5. Examenreglement
 
 ### 7.7.1. Beschikbaarheid
 
-### 7.7.3. Geschiktheid voor gebruik
+### 5.4.1. Beslotenheid van examens
 
 ### 6.2. Frequentie van het toezicht
 
 ### 4.3.2. Aanvragen van een procescertificaat
 
-### 7.7.3. Geschiktheid voor gebruik
+### 6.4. Verslag van bevindingen
 
-### 7.7.4. Identificatie
+### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
 
 ### 7.7.5. Onderhoud
 
 ### 7.7.6. Kalibratie
 
-### 4.3.7. Het afronden dan wel afbreken van de beoordeling
+### Deel II:. Normen
 
-### 7.7.8. Inkoop en uitbesteding
+### 7. Onderwerp van certificatie
 
 ### 9. Eindtermen
 
-### 4.5. Geldigheidsduur van het certificaat
+### 10.2. Beoordelingsmethode
 
-### 4.5.1. Hercertificatie
+### 10.2.1. Toepassingsgebieden
 
 ### 4.5.2. Hercertificatie na intrekking
 
@@ -18701,15 +18691,15 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 7.10.2.1. Blootstellingsgegevens
 
-### 7.11.4. Verbeteringen en aanvullingen
+### 12. Het certificaat
 
-### Bijlage b:. overgangsregeling
+### Bijlage A. gedragscode vuurwerkdeskundige
 
-### 5.5. Sancties bij geconstateerde afwijkingen
+### **TGG**
 
-### 7.12.2. Evaluatie van toeleveranciers
+### **Ceilingwaarde**
 
-### 5.5.2.1. Inleiding
+### **H (Huidopname)**
 
 ### 7.14.1. Doel
 
@@ -18729,7 +18719,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 3.2. Actieve partijen
 
-### 7.15.2. Het inventariseren van afzonderlijke bronnen of constructiedelen
+### 3.3.1. Algemeen
 
 ### 7.15.2. Het inventariseren van afzonderlijke bronnen of constructiedelen
 
@@ -18745,9 +18735,9 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 4.2. Certificatieprocedure
 
-### 7.17.2.7. Conclusies en aanbevelingen
+### 4.3. Procedures
 
-### 7.17.2.2. Samenvatting
+### 4.3.3. Verloop toelatingsonderzoek
 
 ### 4.3.5. Programma initiële beoordeling
 
@@ -18757,47 +18747,47 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 4.3.7. Het afronden dan wel afbreken van de beoordeling
 
-### 4.3.7.1. Minimaal 2 volledige inventarisatierapporten
+### 4.3.7. Het afronden dan wel afbreken van de beoordeling
 
 ### 7.6.1. Beschikbaarheid en tijdelijk personeel
 
-### 8. Beoordelingsmethodiek
+### 4.3.7.3. Status van inventarisatierapporten tijdens de beoordeling van een kandidaat
 
-### 9.2. Gebruik van het certificaat
+### 4.5.2. Hercertificatie na intrekking
 
-### 2. Aanvraag
+### 4.6. Geldigheidscondities
 
 ### 4.7.2. Klachten over het bedrijf of de persoon
 
-### Bijlage D. Model overeenkomst cki en certificaathouder (i)
+### 4.7.3.1. Inleiding
 
 De certificatie-instelling dient bij de opdracht tot initiële certificatie duidelijke, bindende afspraken te maken met het asbestinventarisatiebedrijf, in het geval het bedrijf niet blijkt te kunnen voldoen aan de praktijkeisen en de bedoelde projecten niet conform SC-540 afgehandeld kunnen worden.
 
-### 7.8. Inventarisatie methoden en procedures
+### 5.2. Frequentie van het toezicht
 
 ### 5.2.1. Beoordeling op de vestiging
 
-### Artikel 3. Voorwaarden voor Ascert Procescertificatie Asbestinventarisatie:
+### 5.2.1. Beoordeling op de vestiging
 
-### Artikel 5. Klachten
+### 5.2.2. Beoordeling op locatie
 
-Op een gemotiveerd verzoek van het asbestinventarisatiebedrijf kan de CKI besluiten dat een grote inventarisatieopdracht met een aantal deelprojecten / locaties, voor wat betreft de vereiste aantallen in tabel 5.2.2, als meerdere opdrachten beschouwd kunnen worden. De CKI weegt hierbij af of, gezien de grootte en complexiteit van de opdracht, alle uitvoeringsaspecten uit SC-540 goed kunnen worden beoordeeld.
+Tijdens de looptijd van het certificaat vindt o.a. periodieke beoordeling op projectlocaties plaats per filiaal/vestiging, op grond van de aantallen genoemd in tabel 5.2.2. Daarin is het volgende onderscheid opgenomen:
 
 ### Artikel 6. Aansprakelijkheid
 
-Na uitvoering van een inventarisatie en opmaak van het inventarisatierapport vindt, voorafgaand aan asbestverwijdering, de geplande en aangekondigde resultaatgerichte beoordeling plaats. De CKI gaat daarbij samen met de verantwoordelijke DIA terug naar de projectlocatie met het afgeronde en afgetekende inventarisatierapport als leidraad. De projectlocatie voor deze beoordeling wordt op basis van een steekproef gekozen uit inventarisatieprojecten die nog niet op asbest gesaneerd of gesloopt zijn. Op locatie wordt, naast een overzicht van het project, steekproefsgewijs delen uit het inventarisatierapport met de DIA nagelopen, mede aan de hand van een toelichting door de DIA.
+De reguliere implementatiebeoordeling vindt onaangekondigd plaats. Locaties worden geselecteerd op basis van de reguliere systematiek die de CKI hiervoor hanteert. Het is bedoeld om de implementatie van het gedocumenteerde systeem te beoordelen.
 
 ### Bijlage E. Ascert procescertificaat asbestinventarisatie (v)
 
 ### Verplichtend karakter
 
-Het aantal beoordelingen wordt bepaald door het criterium (aantal DIA of aantal inventarisatierapporten) dat tot het hoogste aantal beoordelingen op locatie leidt. Het begrip ‘jaarlijks’ slaat niet op kalenderjaren, maar op periodes van telkens 12 maanden na de verlening van het certificaat.
+Toelichting bij tabel 5.2.2:
 
-### Wenken voor de opdrachtgever
+### 5.2.3. Rapportage door CKI over de beoordeling
 
-**In principe wordt altijd SC-540 gevolgd. In uitzonderlijke situaties kan het voorkomen dat hiervan afgeweken moet worden. In dat geval geldt dat deze afwijking volledig gemotiveerd en beschreven moet zijn.**
+De resultaten van beoordelingen door de CKI worden tussentijds aan het asbestinventarisatiebedrijf gerapporteerd.
 
-### 7.8.6. Beoordeling van de contracten
+### 5.3.1. Tijdsbesteding bij periodieke beoordeling en hercertificatie
 
 De CKI dient, in geval van het combineren van beoordelingen, met de beoordelingsrapportage aannemelijk en aantoonbaar te kunnen maken dat bij beoordeling per vestiging de minimale vereisten van SC-540 gedurende de certificatieperiode worden onderzocht. Beoordelingen op projectlocaties staan op zich zelf en dienen conform het bepaalde in 5.2.2 uitgevoerd te worden.
 
@@ -18809,21 +18799,21 @@ Voor het algemene kader van sancties bij geconstateerde afwijkingen wordt verwez
 
 Het inventarisatiebureau draagt zorg voor een unieke codering van te inventariseren objecten en genomen monsters, zodat hierover geen misverstanden kunnen ontstaan.
 
-Na de constatering van een Cat III afwijking dient de certificaathouder binnen 2 maanden een interne corrigerende maatregel te hebben ingevoerd, waarna de CKI binnen een maand deze maatregel definitief moet hebben beoordeeld.
+Indien door een door de minister van SZW aangewezen certificatie-instelling wordt geconstateerd dat een certificaathoudend asbestinventarisatiebedrijf een overtreding begaat volgens de in tabel 5.5.3 (Bijlage H) opgenomen bepalingen, dan wordt door de certificatie-instelling het certificaat van de certificaathouder (on-) voorwaardelijk ingetrokken of geschorst, of ontvangt de certificaathouder een waarschuwing. Na intrekken van het certificaat kan de gewezen certificaathouder pas na 12 maanden een aanvraag indienen voor een nieuw certificaat. Ook voor het bedrijf kan pas na 12 maanden een aanvraag worden ingediend voor een nieuw certificaat. De periode van 12 maanden begint met ingang van de dag volgend op de dag waarop het besluit in werking treedt waarbij het certificaat is ingetrokken.
 
-Binnen de termijn van 3 maanden kan de afwijking, in positieve zin ( Cat III opgeheven) dan wel negatieve zin (verzwaring van Cat III naar Cat I) afgesloten zijn.
+Toelichting:
 
-**Dit geldt bijvoorbeeld bij het inventariseren van ruimten die wel op tekening staan, maar op locatie niet voor inventarisatie toegankelijk blijken te zijn en/of als er omstandigheden zijn waardoor de inventariseerder niet ongestoord zijn werk kan doen.**
+Indien in een concernsituatie met meerdere zelfstandige ondernemingen, die bij eenzelfde CKI onder procescertificaat staan, van een onderneming het certificaat (on)voorwaardelijk wordt ingetrokken of geschorst zal de CKI alle andere gecertificeerde ondernemingen per direct onderwerpen aan een controle op die onderwerpen waarop een afwijking is geconstateerd die heeft geleid tot de sanctie.
 
-Het inventarisatiebureau moet vaststellen of alle noodzakelijke voorbereidingen aan het te inventariseren object zijn getroffen.
+Voor de onderbouwing van de onderverdeling van de sanctie per afwijking wordt verwezen naar Bijlage K.
 
-In het kader van een asbestinventarisatie worden het historisch onderzoek, het verzamelen van bouwtekeningen en plattegronden en overige voorbereidende werkzaamheden als ‘voorbereiding’ beschouwd.
+Bij de toepassing van het hierboven onder par. 5.5.2.1 en 5.5.2.2 bedoelde, worden de volgende verzwaringen toegepast:
 
-Het inventarisatiebureau moet over een procedure beschikken en maatregelen nemen om te voorkomen dat het inspectieobject tijdens de inventarisatie wordt aangetast of beschadigd.
+De vier categorieën waarop bij initiële en/of periodieke beoordeling van de (kandidaat-)certificaathouder sanctiemaatregelen worden opgelegd zijn inclusief de onderverdeling in de afwijkingen uitgewerkt en opgenomen in tabel 5.5.3 (Bijlage H).
 
-Het is niet een daadwerkelijke blootstelling alleen die reden is voor onvoorwaardelijke intrekking. Enkel het risico van asbestemissie of het verhogen van dit risico betekent al dat een certificaathouder die een dergelijk risico laat ontstaan, de werkzaamheden niet meer mag te verrichten. Het doel van de regelgeving is immers emissie en blootstelling te voorkomen. Om dit doel te bereiken moet het risico van emissie en blootstelling geminimaliseerd worden. Het is niet aanvaardbaar dat een certificaathouder die risico’s verhoogd pas zijn certificaat verliest als het risico wordt verwezenlijkt en er mensen zijn blootgesteld.
+Het besluit inzake een sanctie met betrekking tot het procescertificaat asbestinventarisatie vanwege geconstateerde afwijkingen door de CKI is gebaseerd op eigen onderzoek of op onderzoek door toezichthoudende en handhavende overheidsinstellingen (Inspectie SZW, Inspectie Leefomgeving en Transport, (Milieu)politie, Gemeenten).
 
-### Bijlage G. Hoe te handelen bij incident (brand storm) (i)
+### 5.5.4.1. Eigen onderzoek CKI
 
 ### 5.5.4.2. Onderzoek door overheidsinstellingen
 
@@ -18837,45 +18827,45 @@ Nadat de CKI vast heeft gesteld, op basis van de vaststaande feiten door eigen o
 
 ### 5.5.4.4. Zienswijze procedure
 
-Als de CKI van oordeel is dat er nog steeds sprake is van een categorie I, II, III of IV afwijking, trekt zij het certificaat (on)voorwaardelijk in respectievelijk schorst zij het certificaat dan wel geeft zij een waarschuwing. Ook hierin wordt opgenomen waarom er sprake is van een Categorie I, II of III afwijking.
+**Nadat de CKI de zienswijze heeft ontvangen of de twee weken zijn verstreken zonder dat er een zienswijze is ontvangen, beoordeelt de CKI binnen één week of zij het voornemen moet doorzetten. Als nog steeds is aangetoond dat er sprake is van een afwijking, zal de CKI de sanctie opleggen. Het kan zijn dat de feiten dermate bestreden zijn dat niet langer vaststaat dat er sprake is van een categorie I, II, III of IV afwijking of dat nader onderzoek nodig is. Dit nadere onderzoek dient binnen 4 weken te zijn afgerond. De certificaathouder wordt hiervan schriftelijk op de hoogte gesteld.**
 
 ### 7.11.1. Inventarisatierapport
 
-Bij Categorie II of Categorie III afwijkingen volgt altijd een extra beoordeling door de CKI op kantoor of projectlocatie.
+De CKI meldt categorie I, II en III afwijkingen aan de Inspectie SZW.
 
 ### 5.6. Kosten van onderzoek
 
 De kosten die voortvloeien uit onderzoek dat wordt verricht naar aanleiding van een melding of naar aanleiding van de mogelijkheid van een afwijking komen voor rekening van de certificaathouder.
 
-De kosten van extra toezicht dat moet worden gehouden, omdat een afwijking is geconstateerd, komt voor rekening van de certificaathouder.
+De kosten die voortvloeien uit onderzoek dat wordt verricht naar aanleiding van een melding of naar aanleiding van de mogelijkheid van een afwijking komen voor rekening van de certificaathouder.
 
-### Herstelsancties
+### Deel II. Normen
+
+Deel II van dit certificatieschema bevat de normen die gelden voor een procescertificaat voor Asbestinventarisatie. Beschreven worden achtereenvolgens:
 
 In de tekst van dit certificatieschema is ter ondersteuning en verduidelijking aanvullende informatie gegeven in de vorm van Toelichting, Opmerking en Appendix. Deze hebben een informatief karakter.
 
-Correcties of toevoegingen aan een rapport moeten worden vastgelegd en onderbouwd met inachtneming van de in dit hoofdstuk omschreven eisen.
+Het werkveldspecifieke certificatieschema ‘SC-540’ is door het CCvD Asbest voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld middels een statische verwijzing in de Arboregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
-Het onderwerp van certificatie betreft het proces van inventariseren van aanwezig asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan
-
-Ook wordt voorgeschreven wanneer schorsing (ordemaatregel) in ieder geval opgelegd moet worden.
+inclusief de oplevering van het asbestinventarisatierapport inclusief de risicoclassificaties volgens de eisen van het certificatieschema.
 
 Bij het inventariseren van het asbest in een bouwwerk en of object, wordt de gezondheid van de direct betrokkenen niet in gevaar gebracht wanneer deze inventarisatie wordt uitgevoerd conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van zorgvuldigheid, arbeidsveiligheid en het voorkomen van verspreiding van asbest naar mens en milieu. Het op de bovenbedoelde inventarisatie gebaseerde asbestinventarisatierapport is alleen beschikbaar voor uitvoering van een asbestverwijderingswerk wanneer dit volledig is en voorzien is van risicoclassificaties conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van inhoud en vorm van het asbestinventarisatierapport.
 
-Door de schorsing als herstelmaatregel mag de certificaathouder niet verder werken op de betreffende locatie, project of werk tijdens de procedure.
+Bij het inventariseren van het asbest in een bouwwerk en of object, wordt de gezondheid van de direct betrokkenen niet in gevaar gebracht wanneer deze inventarisatie wordt uitgevoerd conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van zorgvuldigheid, arbeidsveiligheid en het voorkomen van verspreiding van asbest naar mens en milieu. Het op de bovenbedoelde inventarisatie gebaseerde asbestinventarisatierapport is alleen beschikbaar voor uitvoering van een asbestverwijderingswerk wanneer dit volledig is en voorzien is van risicoclassificaties conform de, in het bovengenoemde certificatieschema, vastgelegde eisen ten aanzien van inhoud en vorm van het asbestinventarisatierapport.
 
-**Opmerking:**
+Het asbestinventarisatiebedrijf dient de volledige groeps/holdingstructuur, bestuurlijke verhoudingen, eigendomsverhoudingen, aanwezige certificaten op het gebied van asbest zowel bedrijfsmatig als persoonlijk, de personele invulling van de managementstructuur, doel en aard van de onderneming en haar dienstverlening volledig, actueel en schriftelijk te hebben vastgelegd en getekend door alle bestuurders van het bedrijf (conform KvK) te hebben voorgelegd aan de CKI. De CKI legt dit vast in het dossier van de certificaathouder. Het asbestverwijderingsbedrijf dient ingeschreven te zijn bij de Kamer van Koophandel of zusterorganisaties binnen de Europese Unie.
 
-Zonder deze inzichtelijkheid kan immers niet beoordeeld worden of aan de bepalingen inzake onafhankelijkheid en objectiviteit is voldaan. Indien de certificaathouder het deugdelijk controleren van een bepaling onmogelijk maakt, leidt dit tot dezelfde sanctie als die staat op het overtreden van de te controleren norm.
+**Overheidsorganen, zoals gemeenten, politie en defensie, kunnen wel in het bezit zijn van een procescertificaat, maar behoeven niet ingeschreven te zijn bij de Kamer van Koophandel. Het inventarisatiebureau moet onafhankelijk zijn, dat wil zeggen dat zij geen belang bij het eindresultaat van haar inventarisatie mag hebben (zie ook par. 7.2.).**
 
-### B. Overtredingen van normen om de blootstelling van de werknemers voorkomen
-
-**Alleen een gecertificeerd bedrijf mag het project en de werkzaamheden doen. Als het hiervoor mensen wil inlenen, kan dat. Maar het gecertificeerde bedrijf blijft verantwoordelijk.**
+### 7.1.2. Combinaties/relaties die niet zijn toegestaan binnen de asbestketen
 
 **Toelichting:**
 
+**Alleen een gecertificeerd bedrijf mag het project en de werkzaamheden doen. Als het hiervoor mensen wil inlenen, kan dat. Maar het gecertificeerde bedrijf blijft verantwoordelijk.**
+
 Het asbestinventarisatiebedrijf, of de organisatie waarvan zij deel uitmaakt, dient haar juridische status schriftelijk te hebben vastgelegd. Het inventarisatiebureau dient ingeschreven te zijn bij de Kamer van Koophandel of zusterorganisaties binnen de Europese Unie.
 
-**Voor overheidsinstellingen en enkele researchorganisaties gelden andere wettelijk vastgelegde regelingen waarin de legitimiteit van deze organisaties/instellingen is vastgelegd. Het inventarisatiebureau moet onafhankelijk zijn, dat wil zeggen dat zij geen belang bij het eindresultaat van haar inventarisatie mag hebben (zie ook par. 7.1.2).**
+**Toelichting:**
 
 ### 7.1.4. Relaties met een moederorganisatie
 
@@ -18883,23 +18873,23 @@ Het bedrijf dient voor haar dienstverlening adequaat verzekerd te zijn.
 
 ### 7.1.7. Leverings-/contractvoorwaarden
 
-Asbestinventarisatie geschiedt veelal in fasen, omdat vanwege gebruik of andere oorzaken, niet in één gang een allesomvattend onderzoek in het bouwwerk of object kan plaats vinden. Uiteindelijk dient alle aanwezige asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object volledig in kaart te zijn gebracht, geïdentificeerd en gekwantificeerd.
+Het inventarisatiebureau moet beschikken over beschreven actuele leverings-/contractvoorwaarden.
 
-**Preventieve maatregelen ter voorkoming van oneigenlijke druk worden vastgelegd in het kwaliteitshandboek van het bedrijf/de instelling alsook in de gedragscode voor individuele inventariseerders.**
+**Toelichting:**
 
 ### 7.3. Geheimhouding
 
 Wanneer tijdens de inventarisatie asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen worden aangetroffen die in redelijk vermoeden kunnen leiden tot een directe normoverschrijdende blootstelling aan asbestvezels in de lucht, wordt dit terstond, vertrouwelijk, aan de opdrachtgever gemeld met de dringende aanbeveling een aanvullende risicobeoordeling conform NEN-EN-ISO/IEC 2991: 2005 te doen uitvoeren.
 
-### C. Overtreding van normen om te voorkomen dat het asbest zich verspreid buiten de directe plek waar het gesaneerd wordt
+### 7.4. Organisatie en management
 
-Toelichting
+Het inventarisatiebedrijf moet een medewerker aanstellen die eindverantwoordelijk is voor het conform dit certificatieschema uitvoeren van de inventarisatiewerkzaamheden, het opstellen van het inventarisatierapport en de verwerking van de ontvangen evaluatieformulieren. Deze medewerker dient ervaren te zijn in de bedrijfsvoering en tevens gekwalificeerd en ervaren te zijn bij de voorbereiding, uitvoering en rapportages van asbestinventarisaties. De volgende minimale eisen ten aanzien van ervaring en kennis zijn daarbij van toepassing:
 
-### D. Overtreding van normen over het opruimen van de werkplek, het afval, het asbest etc.
+### 7.4.3. Toezicht
 
 Van alle ingezette medewerkers voor asbestinventarisatie, of direct daaraan gerelateerde onderwerpen, moet een functieomschrijving beschikbaar zijn.
 
-### 7.5.1. Kwaliteitsbeleid, directieverklaring
+### 7.5. Kwaliteitssysteem
 
 Het management van het inventarisatiebureau moet haar visie en doelstellingen inzake kwaliteit onderschrijven en vastleggen in een kwaliteitssysteem. Zij dient tevens zorg te dragen dat dit beleid algemeen bekend is en tot op alle niveaus in het beleid van de organisatie is verankerd.
 
@@ -18909,25 +18899,25 @@ Het kwaliteitssysteem moet zijn beschreven in een KHB, waarin alle informatie di
 
 Het kwaliteitssysteem moet onder verantwoordelijkheid van deze functionaris up-to-date gehouden worden.
 
+Het inventarisatiebureau moet beschikken over een beschreven systeem van geplande interne kwaliteitsbeoordelingen om vast te stellen of aan de in dit certificatieschema gestelde eisen wordt voldaan en om de effectiviteit van het eigen kwaliteitssysteem te toetsen. Het personeel dat de beoordelingen uitvoert moet voldoende gekwalificeerd zijn en een onafhankelijke positie hebben t.o.v. de beoordeelde onderdelen en/of personen.
+
 **Toelichting:**
 
-**Met betrekking tot de beheersing en borging van de totstandkoming van het asbestinventarisatierapport zijn collegiale toetsingen een mogelijkheid. Deze zouden als volgt kunnen worden uitgevoerd. Een tweede (doorgaans meer ervaren senior-) inspecteur voert, zonder voorkennis van de resultaten van de eerste inspecteur, op hetzelfde bouwwerk of object een inventarisatie uit. Door vergelijking van de werkwijze en resultaten kan een oordeel worden gevormd over de inventarisatie en de volledigheid waarmee een inventarisatie wordt uitgevoerd. Met name voor kleine inventarisatiebureaus is het ook mogelijk collega-bedrijven in te schakelen voor dergelijke intercollegiale toetsingen.**
+De interne beoordelaar moet aantoonbaar beschikken over:
 
-Het inventariseren van afzonderlijke bronnen of constructiedelen is niet acceptabel. Opsplitsing in te kleine eenheden stuit vrijwel altijd op bezwaren. Het is bijvoorbeeld niet toegestaan om uitsluitend een gevelconstructie, vensterbanken of technische ruimten te inventariseren en daarbij geen aandacht te besteden aan de overige bronnen binnen de bouwkundige eenheid.
+Het inventarisatiebureau moet beschikken over een beschreven procedure voor het terugkoppelen van de resultaten van interne audits en het nemen van corrigerende maatregelen voor alle mogelijke afwijkingen die in het kwaliteitssysteem en/of de uitvoering van de inspecties worden gevonden.
 
-Voor met name de afhandeling van het evaluatieformulier dient het inventarisatiebureau over een vrijgegeven procedure te beschikken.
-
-**Indien het asbestverwijderingsbedrijf (buiten de verstrekte opsomming in het asbestinventarisatierapport) onvoorzien asbest, asbesthoudende producten etc aantreft, wordt dit met het evaluatieformulier (zie SC-540 par. 7.17.4) gemeld aan het inventarisatiebureau.**
+**Toelichting:**
 
 De directie van het inventarisatiebureau moet tenminste éénmaal per jaar het kwaliteitssysteem beoordelen op haar effectiviteit. De resultaten van de directiebeoordeling moeten worden vastgelegd en gedocumenteerd.
 
 **Dit kan omvatten bouwtekeningen, archieven van verbouwingen of renovaties, beschrijving van calamiteiten of incidenten, eerder uitgevoerde (deel)saneringen etc.**
 
-Het inventarisatiebureau zal de aan haar opgedragen inventarisaties zelf uitvoeren.
+Het inventarisatiebureau moet over voldoende personeel in vaste dienst beschikken, waarmee alle expertise gebieden die nodig zijn voor de normale bedrijfsvoering met betrekking tot de asbestinventarisatie bestreken worden. Tijdelijk personeel moet voldoen aan alle eisen die in dit hoofdstuk zijn omschreven.
 
 ### H. Overtreding van normen die zien op het analyseren van de werkzaamheden, het bedrijf etc. en leren van ervaringen
 
-**Het inventarisatierapport blijft de verantwoordelijkheid van het asbestinventarisatiebedrijf.**
+**Toelichting:**
 
 Het personeel dat de inventarisaties uitvoert dient in het bezit te zijn van een geldig Ascert Persoonscertificaat Deskundig Inventariseerder Asbest (DIA) conform SC-560.
 
@@ -18937,11 +18927,11 @@ Het inventarisatiebureau moet beschikken over een beschreven opleidingsplan. Dit
 
 Door het inventarisatiebureau moet een passende gedetailleerde registratie van het personeel, van de gevolgde en nog te volgen opleidingen en werkervaringsgegevens worden bijgehouden.
 
-### J. Zelf uitvoeren van de werkzaamheden
+### 7.6.5. Gedragscode
 
-Het is mogelijk dat een norm onder meerdere cluster valt. In dat geval zal voor de meest vergaande sanctie gekozen worden. Dit volgt immers uit de ernst van de overtreding.
+Het inventarisatiebureau moet over gedragsrichtlijnen beschikken en het personeel periodiek beoordelen op het kennen en toepassen daarvan. Integriteit, onafhankelijkheid en beroepshouding dienen daarin als belangrijkste aan de orde te komen. In deze gedragscode dienen tenminste de volgende aspecten aan de orde te komen:
 
-**Met deze maatregel is beoogd het ongewenst ‘kopen’ van incorrecte inventarisatierapporten zoveel mogelijk te beperken.**
+**Toelichting:**
 
 ### 7.6.7. Medische keuring/blootstellingsregistratie
 
@@ -18951,85 +18941,85 @@ De werknemers die blootstelling aan asbest riskeren, moeten in de gelegenheid wo
 
 De rapportage Asbestinventarisatie Type-G dient naast hetgeen is aangegeven bij Asbestinventarisatie Type-A, de volgende onderdelen te bevatten:
 
+Het inventarisatiebureau moet beschikken over passende faciliteiten en uitrusting voor alle uit te voeren inventarisatiewerkzaamheden. De voor asbestinventarisaties benodigde voorzieningen en uitrusting zijn vermeld in par. 7.14.4.
+
+**Deze verplichting past in de algemene wettelijke verplichting van de werkgever met betrekking tot voorlichting, instructie, risico-inventarisatie en -evaluatie etc. (zie Arbowet art 3).**
+
+Het inventarisatiebureau moet beschikken over duidelijke regels voor toegang en gebruik van genoemde faciliteiten en uitrusting.
+
+Het inventarisatiebureau moet zorgdragen dat de in SC-540 par. 7.14.4 vermelde uitrusting altijd in goede staat en gebruiksgereed is.
+
+Alle kwaliteitsbepalende uitrusting en materieel moeten gekenmerkt zijn.
+
+### 7.7.5. Onderhoud
+
+Het inventarisatiebureau moet zorgdragen dat alle uitrusting naar behoren wordt onderhouden conform de daartoe opgestelde procedures en werkinstructies.
+
 **Toelichting:**
-
-Verplicht is onderstaande classificatie aanvullend op de titelpagina op te nemen.
-
-**Soort onderzoek**
-
-Vastgelegd in een asbestinventarisatierapport cf SC-540
-
-Met als resultaat een locatie waar het asbest volgens de eisen is verwijderd.
-
-### 7.17.2.4. Methoden
-
-**Toelichting:**
-
-**Zie de normatieve invulling van uitbesteding van onderhoud bij par. 7.12.**
 
 ### 7.7.7. Tussentijdse controles
 
 ### 7.7.9. Geautomatiseerde apparatuur en computers
 
-### 8. Beoordelingsmethodiek
+### 7.7.9. Geautomatiseerde apparatuur en computers
 
-### 8.2. Combinatie met beoordelingen voor andere certificatieschema’s
+### 7.8. Inventarisatie methoden en procedures
 
 ### 9. Het certificaat
 
-### 2.3. Documenten
+### 7.8.1. Melding van asbestinventarisatiewerk
 
-### 3. Werkveldspecifieke kenmerken
+### 7.8.2. Inventarisatiemethoden
 
 ### 9.3. Ascert Certificaatregister
 
-De CKI registreert maandelijks de actuele gegevens in het systeemcertificaat. Conform de overeenkomst met Ascert worden de gegevens elektronisch verzonden aan Bureau Ascert ten behoeve van het Ascert Certificaatregister. Het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan Ascert. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
+**Onder dit punt valt dus de technische beschrijving van het eigenlijke inventarisatieproces, de gebruikte technieken, etc.**
 
-### Deel III. Bijlagen
+### 7.8.4. Niet genormeerde methoden
 
 ### Bijlage A. Vervallen.
 
 ### 7.8.5. Beheer van de documentatie
 
-Indien een certificaathouder meedeelt zijn certificaat in te leveren, is dit een aanvraag om het certificaat in te trekken. Het certificaat is pas ingetrokken als de CKI per besluit op de aanvraag heeft beslist (en het certificaat heeft ingetrokken). De mededeling (aanvraag) moet schriftelijk of elektronisch gebeuren. De aanvraag om een certificaat in te trekken, kan niet mondeling gedaan worden. De termijn van 12 maanden van sub c en d loopt vanaf de dagtekening van het besluit van de CKI waarbij het certificaat is ingetrokken.
+Alle werkinstructies, normen of beschreven procedures, registratieformulieren, checklists en referentiegegevens die van belang zijn voor het werk van het inventarisatiebureau, moeten up-to-date gehouden worden en direct toegankelijk zijn voor het personeel.
 
-### Verplichtend karakter
+### 7.8.6. Beoordeling van de contracten
+
+Het inventarisatiebureau moet beschikken over een systeem om contracten of opdrachten te beoordelen en garandeert dat:
 
 **Toelichting:**
 
-**De formulering van de opdracht door de klant (b) c.q. de formulering van de offerte door het bedrijf en het akkoord daarop van de klant kan niet strijdig zijn met SC-540. Denk daarbij aan toegang tot ruimten, opgelegde beperkingen m.b.t. destructief onderzoek, goedkopere varianten, etc.**
+### 7.8.7. Registratie van de inventarisatiegegevens
 
 ### 7.8.7. Registratie van de inventarisatiegegevens
 
-### 4.1. Doelstelling
-
-Zie voor specifieke eisen aan vastlegging en rapportage par. 7.17. Registratie, archivering en afhandeling van retour ontvangen evaluatieformulieren dienen zorgvuldig te geschieden.
+Waarnemingen en andere bij de inventarisatie verkregen gegevens moeten op een daartoe geschikte manier worden opgeslagen om te voorkomen dat belangrijke gegevens verloren kunnen gaan.
 
 ### 7.8.8. Gegevensoverdracht en berekeningen
 
 Alle berekeningen en punten waarbij overdracht van gegevens plaatsvindt, moeten naar behoren gecontroleerd worden.
 
-De certificatie-instelling dient bij de opdracht tot initiële certificatie duidelijke, bindende afspraken te maken met het asbestinventarisatiebedrijf, in het geval het bedrijf niet blijkt te kunnen voldoen aan de praktijkeisen en de bedoelde projecten niet conform SC-540 afgehandeld kunnen worden.
+Alle berekeningen en punten waarbij overdracht van gegevens plaatsvindt, moeten naar behoren gecontroleerd worden.
 
-### 2. Aanvraag
+### 7.8.9. Veiligheid
 
-Afhandeling door Ascert:
+Het inventarisatiebureau moet beschikken over beschreven veiligheidsinstructies voor het uitvoeren van inventarisaties, waarbij tevens voldaan moet worden aan de eisen in wet- en regelgeving.
 
 **Akkoord met uitvoering:**
 
 Het inventarisatiebureau draagt zorg voor een unieke codering van te inventariseren objecten en genomen monsters, zodat hierover geen misverstanden kunnen ontstaan.
 
-**Toelichting:**
+Het inventarisatiebureau draagt zorg voor een unieke codering van te inventariseren objecten en genomen monsters, zodat hierover geen misverstanden kunnen ontstaan.
 
 ### 4.3.1. Afhandeling aanvraag initiële certificatie
 
-Stichting Certificatie Asbest
+**De unieke codering geldt voor de gebouwen, constructies en objecten en alle onderverdelingen naar verdiepingen, bouw- of constructiedelen en materialen. Vastlegging op (digitale) foto’s kan daarbij een nuttig hulpmiddel zijn. Het is van belang dat deze eis ook duidelijk wordt overgebracht aan b.v. laboratoria die in opdracht van het inventarisatiebureau monsters nemen van asbestverdachte materialen en die veelal een eigen systematiek hanteren. Voorkom dat beide systemen conflicteren waardoor de traceerbaarheid van monsters nadelig wordt beïnvloed.**
 
-### 4.3.2. Aanvragen van een procescertificaat
+### 7.9.2. Afwijkingen
+
+Elke duidelijke afwijking of onregelmatigheid die onder de aandacht van de inventariseerder wordt gebracht of door de inventariseerder zelf wordt opgemerkt, moet voorafgaand of tijdens de inventarisatie worden vastgelegd. Wanneer er twijfel bestaat over de geschiktheid van het object voor inspectie, of wanneer het object niet voldoet aan de vooraf opgegeven kenmerken, wordt eerst contact opgenomen met de klant alvorens tot inventarisatie over te gaan.
 
 **Toelichting:**
-
-**Dit geldt bijvoorbeeld bij het inventariseren van ruimten die wel op tekening staan, maar op locatie niet voor inventarisatie toegankelijk blijken te zijn en/of als er omstandigheden zijn waardoor de inventariseerder niet ongestoord zijn werk kan doen.**
 
 ### 7.9.3. Voorbereiding
 
@@ -19037,59 +19027,59 @@ Het inventarisatiebureau moet vaststellen of alle noodzakelijke voorbereidingen 
 
 ### 4.4. Beslissing inzake het certificaat
 
+Toelichting:
+
 In het kader van een asbestinventarisatie worden het historisch onderzoek, het verzamelen van bouwtekeningen en plattegronden en overige voorbereidende werkzaamheden als ‘voorbereiding’ beschouwd.
 
-Aan de hand van de uitkomst van de initiële beoordelingen zal de auditor binnen de gestelde termijn een rapport opmaken en een advies opstellen betreffende het al dan niet afgeven van het certificaat. Dit advies wordt binnen de gestelde termijn samen met de vastgelegde resultaten van de beoordeling voorgelegd aan de certificaatbeslisser.
+### 7.9.4. Intact laten van de te inventariseren objecten
 
-### Artikel 3. Voorwaarden voor Ascert Procescertificatie Asbestinventarisatie:
+Het inventarisatiebureau moet over een procedure beschikken en maatregelen nemen om te voorkomen dat het inspectieobject tijdens de inventarisatie wordt aangetast of beschadigd.
 
-Het certificaat is, behoudens tussentijdse intrekking, maximaal drie jaar geldig.
-
-### 7.10.1. Registratiesysteem
+### 7.10. Beheer van gegevens
 
 Het inventarisatiebureau moet alle voor het doel relevante waarnemingsresultaten vastleggen, in overeenstemming met de geldende regels en voorschriften.
 
-Klachten en de eventuele verzoeken tot herziening dienen te worden worden afgehandeld conform SC-540 par. 4.3 en par.4.4.
+Het inventarisatiebureau moet alle voor het doel relevante waarnemingsresultaten vastleggen, in overeenstemming met de geldende regels en voorschriften.
 
-### 7.10.2.1. Blootstellingsgegevens
+### 7.10.2. Registraties
 
 De werkgever moet de blootstellingsgegevens van blootgestelde werknemers registreren door vermelding van de aard, de mate en de duur van de blootstelling. Deze gegevens moeten ter kennis gebracht worden van de werknemer. De gegevens moeten in niet op individuen herleidbare vorm ter kennis worden gebracht van de ondernemingsraad of bij het ontbreken daarvan aan de betrokken werknemers. Het register moet minstens 40 jaar na de laatste blootstelling worden bewaard.
 
-Aldus in tweevoud opgemaakt en ondertekend,
+De werkgever moet de blootstellingsgegevens van blootgestelde werknemers registreren door vermelding van de aard, de mate en de duur van de blootstelling. Deze gegevens moeten ter kennis gebracht worden van de werknemer. De gegevens moeten in niet op individuen herleidbare vorm ter kennis worden gebracht van de ondernemingsraad of bij het ontbreken daarvan aan de betrokken werknemers. Het register moet minstens 40 jaar na de laatste blootstelling worden bewaard.
 
 De gegevens, vastgelegd in het kader van de uitgevoerde inventarisaties, moeten voldoende informatie bevatten om hieruit eenduidige inventarisatieresultaten te kunnen afleiden.
 
-Indien de kandidaat wiens beoordeling is afgebroken opnieuw het certificaat wil verwerven, dienen alle stappen van de beoordeling opnieuw te worden doorlopen.
+De gegevens, vastgelegd in het kader van de uitgevoerde inventarisaties, moeten voldoende informatie bevatten om hieruit eenduidige inventarisatieresultaten te kunnen afleiden.
 
-### 4.7.1. Klachten over de CKI
+### 7.10.3. Archivering
 
-Indien het bedrijf wordt beëindigd dienen de gegevens op een passende wijze met effectieve terugvindbaarheid te worden opgeslagen.
+Alle inventarisatierapporten moeten gedurende tenminste 10 jaar op een veilige plaats worden bewaard met inachtneming van de met de klant overeengekomen geheimhouding, tenzij de wet anders voorschrijft.
 
 ### Wenken voor de opdrachtgever
 
-**Informatie met belangrijke gezondheidsaspecten dient, conform de wet, minstens 40 jaar bewaard te blijven.**
+**Toelichting:**
 
 ### 7.11. Inventarisatierapporten
 
 Het gebruik van het certificaat is gebonden aan een door Ascert verleend gebruiksrecht op het Ascert Beeldmerk
 
-### Informatief karakter
+### 7.11.1. Inventarisatierapport
+
+Het werk dat door het inventarisatiebureau is uitgevoerd moet zijn vastgelegd in een inventarisatierapport, dat vervolgens aan de opdrachtgever wordt verstuurd. De aard van de inventarisatie, onderscheiden naar het rapport Type-A of Type-B moet expliciet in het rapport worden opgenomen.
 
 In het asbestinventarisatierapport dient het toelichtende document: Verplichtingen Opdrachtgever (SC-540 Bijlage G) opgenomen te zijn.
 
-De opdrachtgever heeft een wettelijke informatieplicht daar waar het gaat over de aanwezigheid van asbest in zijn bouwwerk/object, dat hij in eigendom / beheer heeft. Deze plicht heeft hij naar de gebruiker van het bouwwerk/object en zij die het bouwwerk/object respectievelijk onderhouden, renoveren, slopen of werkzaamheden erin uitvoeren.
+### 7.11.2. Inhoud
 
-### 4.5. Geldigheidsduur van het certificaat
+Het inventarisatierapport moet alle resultaten van het inventarisatieonderzoek bevatten en de (eventuele) conclusies die uit deze resultaten worden afgeleid, inclusief alle voor een juist begrip of interpretatie benodigde gegevens. Al deze informatie moet eenduidig, correct en accuraat worden gerapporteerd conform het in par. 7.17 opgestelde format. Eventueel door onderaannemers aangeleverde gegevens moeten in het rapport duidelijk als zodanig gekenmerkt zijn.
 
-De onder de punten 1 t/m 3 genoemde personen kunnen opdrachtgever zijn voor zowel de asbestinventarisatie, de asbestverwijdering, als de eindbeoordeling. Hij hoeft niet perse opdrachtgever te zijn voor de eindbeoordeling. Dit kan hij overlaten aan het verwijderingsbedrijf, hetgeen ook logisch is.
+### 7.11.3. Goedkeuring
 
-### 4.5.1. Hercertificatie
-
-**Toelichting:**
+Inventarisatierapporten moeten door een daartoe bevoegde persoon worden ondertekend of op andere wijze van een goedkeuring worden voorzien. De direct bij de inventarisatie betrokken medewerkers dienen betrokken te zijn bij de vrijgavecontrole van het inventarisatierapport.
 
 ### 2. [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
 
-De verantwoordelijkheid van de opdrachtgever voor de juiste papieren (inventarisatierapport en omgevingsvergunning) op het werk vindt zijn wettelijke basis in [Par. 2, Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5) en [Par. 4, Artikel 10 van het Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10). De door de opdrachtgever in te schakelen bedrijven voor asbestinventarisatie, asbestverwijdering en eindbeoordeling kunnen het werk alleen verrichten, wanneer zij in het bezit zijn van de wettelijk verplichte certificatie, respectievelijk accreditatie, vermeld in [art. 4.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), [4.54d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) en [4.55a van het Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.55a) / [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316).’
+**In de meeste gevallen zal dit de technische verantwoordelijke zijn (zie par. 7.4.2). De ondertekenaar moet het resultaat dus vakinhoudelijk kunnen beoordelen.**
 
 Correcties of toevoegingen aan een rapport moeten worden vastgelegd en onderbouwd met inachtneming van de in dit hoofdstuk omschreven eisen.
 
@@ -19097,7 +19087,7 @@ Correcties of toevoegingen aan een rapport moeten worden vastgelegd en onderbouw
 
 [Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2) – Asbestinventarisatie
 
-### 4.7. Klachten
+### 7.12.1. Uitbesteding van overige diensten
 
 ### 7.12.2. Evaluatie van toeleveranciers
 
@@ -19107,35 +19097,35 @@ Het inventarisatiebureau moet alle gegevens betreffende competentie, certificati
 
 Wanneer een inventarisatiebureau bepaalde specialistische taken uitbesteedt, moet zij toegang hebben tot een ter zake kundig en ervaren persoon die een onafhankelijke beoordeling van de door deze toeleverancier verkregen resultaten kan geven. De eindverantwoordelijkheid voor het uit te brengen inventarisatierapport berust bij het inventarisatiebureau.
 
-**.... beschikt over een asbestinventarisatierapport.**
+Wanneer een inventarisatiebureau bepaalde specialistische taken uitbesteedt, moet zij toegang hebben tot een ter zake kundig en ervaren persoon die een onafhankelijke beoordeling van de door deze toeleverancier verkregen resultaten kan geven. De eindverantwoordelijkheid voor het uit te brengen inventarisatierapport berust bij het inventarisatiebureau.
 
-### 4.9. Norminterpretatie
+### 7.13. Samenwerking
 
 ### 7.14. Eisen te stellen aan asbestinventarisatie
 
 Conclusie:
 
-### 4.7.3.2. Werkwijze
+### 7.14.1. Doel
 
-[Artikel 4.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a). Asbestinventarisatie
+Het doel van een asbestinventarisatie is het volledig in kaart brengen, identificeren en kwantificeren van alle van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen (asbest, asbesthoudende producten, etc.) die aanwezig zijn in een bouwwerk, object of plaats waar een incident heeft plaatsgevonden en asbest is vrijgekomen. Het inventariseren van asbest, asbesthoudende producten etc. in een bouwwerk of object gaat vooraf aan het geheel of gedeeltelijk afbreken ervan, aan het verwijderen van asbest, of aan het opruimen van asbest na een incident. Tevens wordt op grond van de aard van het aangetroffen asbest en/of de asbesthoudende producten, de wijze waarop deze in de constructie zijn bevestigd en de omgevingsomstandigheden, een indeling in één van de drie risicoklassen voor verwijdering gemaakt, zoals beschreven in SC-540 deel I par. 3.3.
 
-### 5.1. Toegang
+### 7.14.2. Actualiteit van het asbestinventarisatierapport
 
-**Toelichting:**
+Indien bij de voorbereiding van het daadwerkelijk verwijderen het inventarisatierapport ouder is dan drie jaar, dan dient het inventarisatierapport getoetst te worden op de actualiteit. Veranderingen in het bouwwerk of object dienen dan te zijn beoordeeld op gevolgen voor de aanwezigheid van asbest, asbesthoudende producten etc. Deze dienen te zijn geregistreerd en te zijn toegevoegd aan het inventarisatierapport voordat verwijdering kan plaats vinden. In geval er geen veranderingen zijn, of veranderingen zonder gevolgen, dient dit eveneens te worden geregistreerd en te zijn toegevoegd aan het inventarisatierapport voordat verwijdering kan plaats vinden.
 
 ### 5.2. Frequentie van het toezicht
 
-Het is verboden om een bouwwerk te slopen zonder of in afwijking van de vergunning van B&W. Bij een aanvraag om een omgevingsvergunning moet een inventarisatierapport worden overlegd ([art. 10j](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10)).
+**Deze termijn van drie jaar is ingevoerd om de opdrachtgever er op te duiden, dat veranderingen in de aard van gebouw door verbouwingen e.d. gevolgen kunnen hebben op de aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in bouwwerken en objecten. In SC-530 par 7.14.1 is aangegeven dat het opdrachtwervende asbestverwijderingsbedrijf de opdrachtgever dient te wijzen op de actualiteit van het asbestinventarisatierapport.**
 
 Na een incident, zoals brand of explosie, kan de inventarisatie van het daarbij resterende bouwwerk of object conform dit certificatieschema worden uitgevoerd. Zie ook SC-540 Bijlage H.
 
-Is er echter bij brand en/of explosie sprake van verspreiding van asbest naar verharde of onverharde bodem (toplaag), dan valt het in kaart brengen van de verspreiding in de bodem niet onder het toepassingsgebied van de SC-540. Details daaromtrent zijn beschreven in [lit.10]. Bij de inventarisatie van een dergelijk terrein wordt informatief gebruik gemaakt van de meetstrategie en onderzoekmethode zoals omschreven in de norm NEN 5707.
+Na een incident, zoals brand of explosie, kan de inventarisatie van het daarbij resterende bouwwerk of object conform dit certificatieschema worden uitgevoerd. Zie ook SC-540 Bijlage H.
 
 ### 7.14.4. Uitrusting en materialen
 
-### Definitie bodem
+### 7.14.4. Uitrusting en materialen
 
-Voor een grondig en effectief uit te voeren asbestinventarisatie zijn afhankelijk van de omstandigheden de hieronder opgesomde materialen en hulpmiddelen nodig. Voor bepaalde uitrustingsstukken is periodiek onderhoud en/of kalibratie vereist.
+De werkgever is conform de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) [lit.1.] verplicht zorg te dragen voor arbeidsveilige werkomstandigheden van zijn werknemers.
 
 ### Onderzoek bodem noodzakelijk
 
@@ -19143,27 +19133,27 @@ Voor een grondig en effectief uit te voeren asbestinventarisatie zijn afhankelij
 
 ### 7.14.5. Inventarisatie van asbest, asbesthoudende producten etc.
 
-### 7.14.5.1. Inleiding
+### 7.14.5. Inventarisatie van asbest, asbesthoudende producten etc.
 
-### Bijlage H. Categorie indeling sanctiestelsel asbestinventarisatie tabel 5.5.3 (v)
+### 7.14.5.1. Inleiding
 
 ### Bijlage I-1. Voorbeeld risicoklassificatie
 
-**Een onderzoeker heeft een inspanningsverplichting, afhankelijk van de mate waarin een pand in gebruik is, en de vrijheid die een opdrachtgever bij een inventarisatie Type-A kan bieden. Verlaagde plafonds, lambrisering, spouwmuren, koven etc. kunnen in veel gevallen zonder problemen met opdrachtgevers of risico op emissie worden open gemaakt, dit geldt ook voor vaste vloerbedekkingen. In overeenstemming met de typering in SC-540 par. 3.4. is het volgende onderscheid aangebracht.**
+**Opmerking:**
 
 ### 7.14.6. Type A: Direct waarneembare asbest, asbesthoudende producten etc.
 
 De belangrijkste activiteit c.q. onderwerp van dit certificatieschema is het systematisch en volledig inventariseren van alle direct waarneembare asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object met gebruik van handgereedschap (zonder of met licht destructief onderzoek). Daarbij is onbelemmerde en passende toegang tot de ruimten een voorwaarde voor het kunnen uitvoeren van de inventarisatie. Deze inventarisatie leidt tot een asbestinventarisatierapport Type-A (zie par. 7.17.2.).
 
-Als deze inventarisatie leidt tot ‘een redelijk vermoeden’ op niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object, dan dient er een aanvullende inventarisatie (Type-B) te worden uitgevoerd.
+De belangrijkste activiteit c.q. onderwerp van dit certificatieschema is het systematisch en volledig inventariseren van alle direct waarneembare asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object met gebruik van handgereedschap (zonder of met licht destructief onderzoek). Daarbij is onbelemmerde en passende toegang tot de ruimten een voorwaarde voor het kunnen uitvoeren van de inventarisatie. Deze inventarisatie leidt tot een asbestinventarisatierapport Type-A (zie par. 7.17.2.).
 
 ### Bijlage J. Maatregelen algemeen (v)
 
-**De inventariseerder komt op basis van zijn deskundigheid in het herkennen en benoemen van asbesttoepassingen tot de veronderstelling dat er asbesthoudende materialen aanwezig zouden kunnen zijn, die slechts met destructief onderzoek bereikbaar zijn. Deze bevinding wordt aangeduid met ‘een redelijk vermoeden’. De bevinding van ‘een redelijk vermoeden’ dient in de samenvatting van het rapport te worden aangegeven (zie ook par. 7.17.2.2). In de samenvatting van het rapport dient in dat geval over de werkwijze van de vergunningverlener bovendien en aansluitend de volgende zin te worden opgenomen:**
+**Toelichting:**
 
 ### 5.2. Frequentie van het toezicht
 
-Het asbestinventarisatierapport type-A zal kunnen dienen als basis voor de aanvraag van een omgevingsvergunning.
+**‘De vergunningverlener verplicht in de omgevingsvergunning tot de aanvullende inventarisatie (Type B)’.**
 
 ### 7.14.6.1. Type G; inventarisatie gericht op het gebruik van het gebouw
 
@@ -19171,21 +19161,21 @@ Eigenaren of beheerders van gebouwen kunnen vrijwillig opdracht geven tot asbest
 
 ### Herstelsancties
 
-**Van elke ruimte dienen de vloer, wanden en plafond onderzocht te worden. Is sprake van een kruipruimte en deze is betreedbaar voor de onderzoeker, dan dient deze onderzocht te worden. Daarnaast dienen de buitengevels, het dak en schoorstenen alsook de gebouwinstallaties onderzocht te worden.**
+**Toelichting:**
 
-Naast het in kaart brengen van de asbesthoudende toepassingen omvat een asbestinventarisatie Type G een risicobeoordeling met betrekking tot de gebruikssituatie en het opstellen van een asbestbeheersplan.
+**Van elke ruimte dienen de vloer, wanden en plafond onderzocht te worden. Is sprake van een kruipruimte en deze is betreedbaar voor de onderzoeker, dan dient deze onderzocht te worden. Daarnaast dienen de buitengevels, het dak en schoorstenen alsook de gebouwinstallaties onderzocht te worden.**
 
 ### 5.5.2. Escalatieladder
 
-**Toelichting:**
+De risicobeoordeling en het asbestbeheersplan dienen te voldoen aan de NEN-EN-ISO/IEC 2991: 2005. In het asbestbeheersplan dienen ook de asbesthoudende toepassingen worden beschreven waarvan een ‘redelijk vermoeden’ bestaat, maar welke niet zonder destructief onderzoek vast te stellen zijn. Het asbestbeheersplan dient periodiek beoordeeld te worden op actualiteit. De frequentie daarvan dient omschreven te zijn in het asbestbeheersplan, waarbij voldaan wordt aan de eisen zoals gesteld in bijlage D van NEN-EN-ISO/IEC 2991: 2005. De normverwijzing BRL 5052 in de versie van 2005 moet gelezen worden als SC-540 en BRL 5050 als SC-530.
 
 ### Schorsing als ordemaatregel
 
-Naast de herstelsancties is voorzien in schorsing als een ordemaatregel waarbij het certificaat wordt geschorst met betrekking tot een locatie, een project of werkzaamheden. Hier wordt schorsing niet opgelegd als herstelsanctie, maar wordt voorkomen dat de certificaathouder verder werkt terwijl de sanctieprocedure loopt.
+**Door het in het beheerplan opnemen van asbesthoudende toepassingen waarvan een ‘een redelijk vermoeden’ bestaat, zijn de risico’s van deze mogelijk toepassingen tot op zekere hoogte beheerd (de conditie is niet bekend). Hiermee wordt voorkomen dan (licht) destructief onderzoek nodig is, wat in gebruikssituaties vaak ongewenst is. Een volledige risicobeoordeling van deze toepassingen conform de NEN-EN-ISO/IEC 2991: 2005 is niet mogelijk. Indien uit de risicobeoordeling blijkt dat er sprake is van blootstelling aan asbestvezels dient dit direct gemeld te worden aan de opdrachtgever en dient de ruimte waar de besmetting heerst afgesloten en voor gebruik verboden te worden. Het asbesthoudende materiaal of asbeststof, dat de besmetting veroorzaakt, dient verwijderd te worden en de ruimte te worden schoongemaakt van asbestvezels.**
 
-### 5.5.2.2. Onderverdeling van afwijkingen
+### 7.14.7. Type B: Niet-direct waarneembare asbest, asbesthoudende producten etc.
 
-Niet-direct waarneembare asbest, asbesthoudende producten etc. worden in dat geval voorafgaand aan de bouwkundige sloop, wel of niet in samenwerking met het gecertificeerde asbestverwijderingsbedrijf (conform SC-530), met destructief onderzoek opgespoord (zie 3.4.3), waarbij de bouwkundige integriteit van een gebouw of constructie wordt aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk). Het destructief onderzoek daarbij dient te geschieden onder het regime van SC-530. Het resultaat leidt tot een asbestinventarisatierapport Type-B als aanvulling op het asbestinventarisatierapport Type-A. Dit wordt door het asbestinventarisatiebedrijf ter beschikking gesteld via de opdrachtgever c.q. de houder van de omgevingsvergunning aan de vergunningverlener (gemeente).
+Het redelijke vermoeden van niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten etc in een bouwwerk of object, vermeld in asbestinventarisatierapport Type-A, leidt tot een aanvullende inventarisatie.
 
 ### 7.14.8. Type 0: Beperkte inventarisatie voorafgaand aan een risicobeoordeling
 
@@ -19193,17 +19183,17 @@ Buiten het kader van SC-540 kan voorafgaand aan uit te voeren risicobeoordelinge
 
 ### 5.5.3. Uitwerking per categorie in toetspunten
 
-**De uitvoering van een risicobeoordeling conform NEN 2991 valt, behoudens het bepaalde in 7.14.6.1 buiten het kader van deze SC-540. Het resultaat van een type 0 inventarisatie kan dan als startpunt dienen. Uiteraard wordt een Type-O inventarisatie uitsluitend uitgevoerd indien er voor het betreffende gebouw, constructie of object geen Type-A inventarisatie beschikbaar is, terwijl er redenen zijn om op korte termijn een NEN 2991 risicobeoordeling uit te voeren.**
+**Toelichting:**
 
 ### 7.14.9. Bepalen van de indeling in een risicoklasse t.b.v. asbestinventarisatie
 
-### Categorie-indeling
+### 7.14.9. Bepalen van de indeling in een risicoklasse t.b.v. asbestinventarisatie
 
-De indeling in risicoklassen is gebaseerd op het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498). Er zijn drie risicoklassen gedefinieerd, elk met een eigen specifiek veiligheidsregime. Deze risicoklassen zijn volgens het volgende globale model ingedeeld:
+De inventarisatie van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object is gericht op het vaststellen van de blootstellingrisico's bij het verwijderen ervan. De bepalende factoren daarbij zijn o.a. de aard van het asbest, asbesthoudende product, asbestbesmet materiaal of asbestbesmet constructieonderdeel, de wijze waarop het is aangebracht en daarmee de methode van verwijderen en de beschermingsmaatregelen. De vaststelling van de risicoklasse dient aantoonbaar gedocumenteerd uitgevoerd te zijn op basis van de resultaten van de inventarisatie.
 
 ### 5.4.2. Rapportage aan CKI-persoon
 
-**Opmerkingen**
+Om een juiste indeling te kunnen maken zijn niet alleen gegevens nodig over het asbesthoudende materiaal (aard, samenstelling, asbestgehalte, graad van verwering/aantasting, wijze van bevestiging etc.). De inventariseerder moet óók op de hoogte zijn van de verwijderingstechnieken en -methoden die beschikbaar zijn. Immers, de combinatie van materiaaleigenschappen en de bij demontage of sloop gebruikte technieken bepalen uiteindelijke het concentratieniveau aan asbest in de lucht tijdens de asbestinventarisatie.
 
 ### 7.14.10. Kwantificeren en registreren
 
@@ -19219,15 +19209,15 @@ Van elk type als asbestverdacht aangemerkt materiaal dient per onderzoeksproject
 
 Het is van belang dat de omvang van het project eenduidig wordt vastgelegd. In principe geldt een inventarisatie voor het gehele te onderzoeken gebouw/object, tenzij slechts opdracht is gegeven om een deel van het gebouw en/of object te inventariseren, bijvoorbeeld een bepaalde vleugel of verdieping. Het inventarisatiebureau bepaalt of een dergelijke opsplitsing niet in strijd is met de uitgangspunten van dit certificatieschema.
 
-Ook wordt voorgeschreven wanneer schorsing (ordemaatregel) in ieder geval opgelegd moet worden.
+Het is van belang dat de omvang van het project eenduidig wordt vastgelegd. In principe geldt een inventarisatie voor het gehele te onderzoeken gebouw/object, tenzij slechts opdracht is gegeven om een deel van het gebouw en/of object te inventariseren, bijvoorbeeld een bepaalde vleugel of verdieping. Het inventarisatiebureau bepaalt of een dergelijke opsplitsing niet in strijd is met de uitgangspunten van dit certificatieschema.
 
-### 5.5.2.2. Onderverdeling van afwijkingen
+### 7.15.1. Zelfstandig te beschouwen bouwkundige eenheid
 
-De asbestinventarisatie van de zelfstandig bouwkundige eenheid dient volledig in kaart gebracht, geïdentificeerd en gekwalificeerd te worden.
+Het inventariseren van een als zelfstandig te beschouwen bouwkundige eenheid is toegestaan. Bij de indeling is het van belang dat de eenheden zodanig groot zijn, dat alle asbesthoudende bronnen binnen de bouwkundige of installatietechnische eenheid worden meegenomen. Het in één keer inventariseren van zeer grote bouwkundige eenheden kan tot bezwaren leiden en nadelen hebben. De oplossing ligt dan vrijwel altijd in het later samenbundelen van de deelinventarisaties tot een overzichtelijk geheel.
 
 ### 5.5.2.3. Verzwaring
 
-**Voorbeelden:**
+Voor de vraag of er een deelinventarisatie gemaakt kan worden, dient niet alleen gekeken te worden naar de mate waarin de ruimte bouwkundig zelfstandig is. Ook dient gekeken te worden of de betreffende asbestbron zich beperkt tot die ruimte.
 
 ### 7.15.2. Het inventariseren van afzonderlijke bronnen of constructiedelen
 
@@ -19235,21 +19225,21 @@ Het inventariseren van afzonderlijke bronnen of constructiedelen is niet accepta
 
 ### 5.5.4. Sanctieprocedure
 
-**In een grote hal met een staalconstructie waarop spuitasbest is aangebracht, bevinden zich winkels die afzonderlijk zijn verhuurd. Wanneer slechts een deel van de huurders opdracht geeft tot inventarisatie van de door hen gehuurde winkel, leidt dit tot een onvolledige inventarisatie die bovendien een onbetrouwbare basis vormt voor een omgevingsvergunning of een eventueel aansluitend uit te voeren risicobeoordeling conform NEN 2991. In dergelijke gevallen zal dus de eigenaar van het bouwwerk als (hoofd)opdrachtgever moeten optreden.**
+**Voorbeeld:**
 
 ### 7.16. Het asbestinventarisatieplan
 
 Wanneer een inventarisatiebureau niet een volledig bouwwerk, object of constructie onderzoekt, moet de gekozen indeling van het te onderzoeken bouwdeel gemotiveerd worden vastgelegd in het op te stellen asbestinventarisatieplan en het asbestinventarisatierapport.
 
-Het maakt voor de werknemer immers weinig uit of het bedrijf niet over de pbm’s beschikt of dat ze niet op de werkplek zijn. In beide gevallen kan hij ze niet gebruiken. De werkgever dient de werkzaamheden dan niet te laten aanvangen. Doet hij dat toch en werkt de werknemer zonder pbm, dan geldt hetzelfde als bij de vorige categorie.
+Wanneer een inventarisatiebureau niet een volledig bouwwerk, object of constructie onderzoekt, moet de gekozen indeling van het te onderzoeken bouwdeel gemotiveerd worden vastgelegd in het op te stellen asbestinventarisatieplan en het asbestinventarisatierapport.
 
-### 7. Eisen
+### 7.16.1. Informatie van de opdrachtgever ten behoeve van historisch onderzoek
+
+Het asbestinventarisatiebedrijf dient de opdrachtgever te verzoeken de relevante documenten en archieven beschikbaar te stellen waarin de toepassing van asbest en asbesthoudende producten is beschreven.
 
 **Toelichting:**
 
 **Dit kan omvatten bouwtekeningen, archieven van verbouwingen of renovaties, beschrijving van calamiteiten of incidenten, eerder uitgevoerde (deel)saneringen etc.**
-
-Daarnaast dient de opdrachtgever te worden verzocht de mogelijkheid te bieden (ex)werknemers te laten interviewen voor zover dat relevant is voor het onderzoek.
 
 ### 7.16.2. Het systematisch opsporen van asbest, asbesthoudende producten etc.
 
@@ -19257,9 +19247,9 @@ Het bedrijf dient te werken met een checklist toegespitst op het te inventariser
 
 ### 5.5.4.4. Zienswijzeprocedure
 
-**Voorbeelden van een indeling in hoofdgroepen zijn onderstaand gegeven:**
+**Toelichting:**
 
-Ook hier geldt dat het voor personen niet uitmaakt of het bedrijf over de middelen beschikt of niet. Als de middelen niet op de werkplek zijn, worden ze niet gebruikt.
+**Voorbeelden van een indeling in hoofdgroepen zijn onderstaand gegeven:**
 
 Een containment dat niet contained, voorkomt verspreiding van asbestvezels niet. Hierdoor kunnen niet alleen werknemers, maar ook anderen worden blootgesteld.
 
@@ -19273,27 +19263,27 @@ Ter voorkoming van blootstelling of besmetting van de omgeving dienen bij de mon
 
 Bij het inventariseren van niet-hechtgebonden asbest of asbesthoudende materialen is er een reële kans op blootstelling. Dit geldt met name voor situaties waarbij het evenwicht wordt verstoord, bijvoorbeeld het openen van plafonds, het betreden van kruipkelders of technische ruimten. In dat geval dienen er adequate beschermingsmaatregelen te worden genomen en de besmetting van aangrenzende bouwdelen te worden voorkomen. Bij (vermoeden van) zwaar met niet-hechtgebonden asbesthoudende materialen vervuilde ruimten dient de inventarisatie in containment te worden uitgevoerd.
 
-Bij beschadiging van de verpakking is er direct een bron van besmetting. Als niet is aangegeven dat het om asbest gaat, zal er minder zorgvuldig met het materiaal worden omgegaan. Hiertoe neemt de kans op beschadiging toe. Verder bestaat het risico dat het materiaal op onjuiste wijze verwerkt wordt waardoor het in de leefomgeving komt. De certificaathouder dient uit te zoeken hoe deze overtreding is ontstaan, deze op te heffen en maatregelen te treffen dat de overtreding zich niet zal herhalen. Dan kan de schorsing (herstelsanctie) worden ingetrokken.
+Bij het inventariseren van niet-hechtgebonden asbest of asbesthoudende materialen is er een reële kans op blootstelling. Dit geldt met name voor situaties waarbij het evenwicht wordt verstoord, bijvoorbeeld het openen van plafonds, het betreden van kruipkelders of technische ruimten. In dat geval dienen er adequate beschermingsmaatregelen te worden genomen en de besmetting van aangrenzende bouwdelen te worden voorkomen. Bij (vermoeden van) zwaar met niet-hechtgebonden asbesthoudende materialen vervuilde ruimten dient de inventarisatie in containment te worden uitgevoerd.
 
-### 6. Onderwerp van certificatie
+### 7.16.3.4. Ernstige besmettingen die een direct blootstellingsrisico opleveren
 
-Dit werkveldspecifieke certificatieschema SC-530 is door SCA voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen vastgesteld middels een statische verwijzing in de Arbeidsomstandighedenregeling. Dit vastgestelde schema vervangt daarmee eerdere versies.
+Indien tijdens de inventarisatie een ernstige besmetting met niet-hechtgebonden asbesthoudende materialen wordt aangetroffen, die een direct risico opleveren voor bewoners / gebruikers van een gebouw of constructie, dient de opdrachtgever hierover terstond ingelicht te worden. Dit leidt tot een onvolledige rapportage en tot het dringend advies per direct organisatorische (voorzorgs)maatregelen te treffen en een risicobeoordeling conform NEN 2991 te laten uitvoeren. Weigert een opdrachtgever om maatregelen te nemen om bewoners/gebruikers tegen de blootstelling aan asbest te beschermen, dan kunnen in uiterste consequentie andere stappen worden ondernomen.
 
 Op grond van de arbeidsomstandighedenwetgeving dient het asbest verwijderd te worden in de risicoklasse van het inventarisatierapport en dienen de bijbehorende maatregelen te worden getroffen. De werkzaamheden dienen echter in een hogere klasse te worden uitgevoerd als de feitelijke aard van de werkzaamheden of de staat van het asbest hiertoe verplicht.
 
-### 7. Eisen
+### 7.17.1. Inleiding
 
-Par. 7.17.4 geeft een evaluatieformulier dat altijd in het inventarisatierapport dient te worden opgenomen.
+De belangrijkste activiteit van het asbestinventarisatiebedrijf is het inventariseren van asbesthoudende materialen en/of secundaire bronnen in een gebouw, constructie of object. Met behulp van de verkregen informatie kunnen de asbesthoudende materialen worden verwijderd. Het asbestinventarisatierapport is daarom van groot belang voor het zorgvuldig en hygiënisch verantwoord verwijderen van asbest. In deze paragraaf wordt aangegeven op welke wijze de resultaten van de asbestinventarisatie dienen te worden gerapporteerd. Voor minder omvangrijke asbestinventarisaties dient eenzelfde model te worden gehanteerd.
 
 ### 7.6.1.2. Verwijderen conform inventarisatierapport
 
-Een asbestverwijderaar mag niet aan zijn werkzaamheden beginnen zonder een deugdelijk asbestinventarisatierapport. Een verwijderaar die zonder deugdelijk rapport te werk gaat, riskeert blootstelling en emissie. Het is zijn keuze om met een ondeugdelijk rapport te gaan werken en voor zijn risico als hij daardoor overtredingen begaat. Bij een ondeugdelijk rapport moet de verwijderaar zijn werkzaamheden staken en wachten tot de opdrachtgever voor een deugdelijk rapport zorgt. Begint hij toch met het verwijderen van asbest dan dient dit te leiden tot schorsing (herstelsanctie en ordemaatregel).
+Het is gebruikelijk om behalve een schriftelijke versie, ook een digitale versie van het rapport aan de opdrachtgever aan te bieden. De digitale kopie is beveiligd, zodat daarin geen veranderingen aangebracht kunnen worden (doorgaans een PDF-file). Desgewenst kunnen tabellen, tekeningen en andere bijlagen in het oorspronkelijke format (b.v. Word of Excel) worden meegeleverd, zodat een opdrachtgever deze kan gebruiken als basis voor een asbestbeheersplan. Wel moet daarbij duidelijk aan de opdrachtgever worden vermeld dat alle door hem aangebrachte veranderingen en/of toevoegingen niet meer onder verantwoordingen van het inventarisatiebureau vallen, tenzij deze gegevens door het inventarisatiebureau zijn gevalideerd. Dit geldt ook voor via het Internet werkende systemen van gegevensuitwisseling. Voor alle digitale systemen geldt dat deze afdoende beveiligd moeten zijn.
 
-### 7.6.2. Deskundig toezicht bij het werken met asbest
+### 7.17.2. Inventarisatierapport Type-A, Type-B of Type-G
 
 ### F. Overtredingen met betrekking tot de inventarisatie van het asbest
 
-Indien relevant voor het bouwwerk of object wordt tevens een opsomming gegeven van de vermoedelijk niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in het bouwwerk of object, waarop in tweede instantie een aanvullende inventarisatie (Type B) uitgevoerd zal moeten worden. Deze bevinding dient in de samenvatting van het rapport te worden aangegeven. Het inventarisatierapport Type-A zal kunnen dienen als basis voor de aanvraag van een omgevingsvergunning. Dit rapport dient tenminste de volgende elementen te bevatten:
+De rapportage Asbestinventarisatie Type-G dient naast hetgeen is aangegeven bij Asbestinventarisatie Type-A, de volgende onderdelen te bevatten:
 
 ### 7.17.2.1. Titelblad
 
@@ -19301,11 +19291,11 @@ Waarop is vermeld:
 
 ### 7.3. Werkterrein en technisch kunnen
 
-**Omvang onderzoek**
+Verplicht is onderstaande classificatie aanvullend op de titelpagina op te nemen.
 
 ### 7.8. Beheersing van registraties
 
-**Risicobeoordeling**
+**Soort onderzoek**
 
 ### 7.17.2.2. Samenvatting
 
@@ -19315,7 +19305,7 @@ Hierin zijn alle relevante uitkomsten van het onderzoek bondig samengevat. Teven
 
 De rol van de DTA-er is om continu toezicht te houden op de asbestverwijderingswerkzaamheden. De DTA-er is de vertegenwoordiger van de werkgever op de arbeidsplaats. Hij dient opkomende problemen te signaleren, op te lossen of terug te koppelen naar de werkgever. Verder dient hij te voorkomen dat onvoorziene situaties tot problemen leiden. Hij moet er ook voor zorgen dat de werknemers de regels naleven en de veiligheid van henzelf, hun collega’s en andere personen niet in gevaar brengen. Bij alle werkzaamheden bestaat het gevaar dat door bv. routine, menselijke gemakzucht, het verkeerd inschatten van de risico’s of het ‘even snel’-denken de werknemers onveilig handelen. Het is dan cruciaal dat de DTA-er er is en hen hiervan weerhoudt.
 
-### 7.9.2. Tevredenheid van de opdrachtgever
+### 7.17.2.4. Methoden
 
 ### 7.17.2.5. Resultaten
 
@@ -19323,29 +19313,29 @@ De DTA-er dient continu toezicht te houden. Als de werkzaamheden plaatsvinden zo
 
 Het feit dat de werkgever geen DTA-er in dienst heeft, wil niet zeggen dat er geen DTA-er toezicht houdt bij de werkzaamheden. Voorwaardelijke intrekking is aanvaardbaar. Indien het feit dat er geen DTA-er in dienst is ertoe leidt dat er geen of onvoldoende DTA-ers bij de werkzaamheden zijn, zal het certificaat geschorst worden (herstelsanctie en ordemaatregel). Er zijn immers onvoldoende DTA-ers aanwezig.
 
-### 7.17.2.8. Bijlagen bij het inventarisatierapport
+### 7.17.2.7. Conclusies en aanbevelingen
 
 Gezien het belang van een deugdelijk asbestinventarisatierapport dient de inventariseerder voldoende kennis en deskundigheid te hebben.
 
-### 7.6.2. Deskundig toezicht bij het werken met asbest
+### 7.17.3. Aanvullend inventarisatierapport Type-B
 
-De directe aanleiding tot een dergelijke inventarisatie is de vaststelling, tijdens inventarisatie Type-A (zie par. 3.4), van het redelijke vermoeden van in het bouwwerk of object niet-direct-waarneembare asbest en asbesthoudende producten.
+Het asbestinventarisatierapport Type-B is het resultaat van de aanvullende inventarisatie van alle redelijk veronderstelde niet-direct-waarneembare asbest en asbesthoudende producten etc. die direct voorafgaand aan de bouwkundige sloop met destructief onderzoek zijn opgespoord en waarbij de bouwkundige integriteit van een gebouw of constructie is aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk).
 
 ### 7.6.3. Werken met asbest
 
-De voorwaarden voor de LDAV zijn er op gericht om te compenseren voor het gebrek aan zijn kennis en deskundigheid. In zoverre is deze positie te vergelijken met de persoon die in het geheel niet is gecertificeerd. Dezelfde sanctie is derhalve aanvaardbaar. Overigens kan het feit dat er LDAV-ers zijn betekenen dat er meer DTA-ers bij het werk moeten zijn, omdat het werk te omvangrijk is voor één DTA-er die ook één of twee LDAV-ers moet begeleiden.
+Het asbestinventarisatierapport Type-B vormt een aanvulling op het asbestinventarisatierapport Type-A.
 
-### H. Overtreding van normen die zien op het analyseren van de werkzaamheden, het bedrijf etc. en leren van ervaringen
+### 7.17.4. Evaluatieformulier als verplicht onderdeel van het inventarisatierapport
 
-Het is belangrijk om te leren van afwijkingen en incidenten en bijna-afwijkingen en -incidenten. Het is een continu proces om op basis van ervaring de veiligheid te blijven waarborgen. Hierdoor worden afwijkingen en incidenten voorkomen, waardoor de veiligheid en naleving van de regels toenemen.
+De auteurs van de elkaar opvolgende versies van het inventarisatierapport
 
 De wijze waarop de certificatie-instelling de beoordelingen en controles uitvoert is als volgt elders in certificatieschema vastgelegd:
 
 ### 7.9.4.4. Interne communicatie
 
-In dit gedeelte is aangegeven hoe de certificatie-instelling gedurende de looptijd van het certificaat toegang heeft tot de werkzaamheden van de certificaathouder. Vermeld zijn de vorm, aard en frequentie van de beoordelingen op zowel de kantoorlocatie(s) als de projectlocaties. Voor de projectbeoordelingen is een controlelijst beschikbaar.
+In het certificatiereglement is aangegeven op welke wijze een kandidaat een procescertificaat kan verwerven. Naast de procedurele gang van zaken zijn dat de vorm, aard en frequentie van de beoordelingen en rapportage daarvan op zowel de kantoorlocatie(s) als de projectlocaties. De besluitvorming het certificaat wel / niet te verlenen in combinatie met de publicatie van het certificaat met opname in het Ascert Register.
 
-Tenslotte is aangegeven welke maatregelen de certificatie-instelling neemt in reactie op de geconstateerde bevindingen en de afhandeling daarvan door de certificaathouder. Daarin is voorzien de mogelijkheid van voortijdige intrekking van een procescertificaat na herhaald onvoldoende reageren van de certificaathouder binnen de certificatieperiode.
+In dit gedeelte is aangegeven hoe de certificatie-instelling gedurende de looptijd van het certificaat toegang heeft tot de werkzaamheden van de certificaathouder. Vermeld zijn de vorm, aard en frequentie van de beoordelingen op zowel de kantoorlocatie(s) als de projectlocaties. Voor de projectbeoordelingen is een controlelijst beschikbaar.
 
 ### I. Meldingsplichten
 
@@ -19361,79 +19351,79 @@ De CKI dient in geval van het combineren van beoordelingen, met de beoordelingsr
 
 Dit kan er toe leiden dat het uibestedende bedrijf zwaarder wordt gestraft dan het bedrijf aan wie is uitbesteedt, omdat er bij de uitbesteder sprake is van herhaling. Bij verdere uitbesteding geldt het voorgaande voor de hele keten. Stel dat asbestverwijderaar A een deel van de werkzaamheden uitbesteed aan asbestverwijderaar B die op zijn beurt weer een deel uitbesteed aan asbestverwijderaar C. Indien C een overtreding begaat, wordt dit beschouwd als een overtreding van zowel A, B als C.
 
-### 7.11.1. Beschikbaar stellen van middelen
+### 9.1. Certificaatgegevens
 
 ### K. Organisatie van het bedrijf
 
-Gegevens van de CKI:
+Gegevens van de certificaathouder:
 
 ### 7.11.2.1. Bekwaamheid, bewustzijn en training
 
-Het asbestverwijderingsbedrijf moet:
+Overige gegevens certificaat:
 
 Het gebruik van het certificaat is gebonden aan het Ascert Beeldmerk.
 
-In het werkplan wordt vastgelegd hoe het verwijderen van asbest aangepakt zal worden. Hierdoor wordt de verwijderaar gedwongen om na te denken over de werkzaamheden en de mogelijke problemen. De werkwijze hoeft niet gaandeweg te worden uitgevonden, maar is van tevoren bedacht en vastgelegd. Aangezien duidelijk is hoe er gewerkt zal worden, kan er ook voor gezorgd worden dat de benodigde middelen aanwezig zijn. Indien deze voorbereiding wordt overgeslagen neemt het risico op asbestemissie en blootstelling toe. De praktijk heeft geleerd dat als er geen plan is of als dit onvoldoende is, de werknemers zelf oplossingen gaan bedenken of doorwerken zonder de benodigde maatregelen te nemen. Dit leidt vaak tot het vrijkomen van asbestvezels dan wel blootstelling.
+Het gebruik van het certificaat is gebonden aan het Ascert Beeldmerk.
 
-### 7.9.4.3. Dta verantwoordelijk voor het eindproduct
+### 9.3. Ascert Certificaatregister
 
-Indien het werkplan niet op de werkplek is geldt hetzelfde. Immers, een plan dat niet aanwezig is op de plek waar het uitgevoerd dient te worden, kan net zo goed niet zijn opgesteld.
+De CKI registreert maandelijks de actuele gegevens in het systeemcertificaat. Conform de overeenkomst met Ascert worden de gegevens elektronisch verzonden aan Bureau Ascert ten behoeve van het Ascert Certificaatregister. Het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan Ascert. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
 
-### 7.11.2.3. Interne beoordelaar
+### Deel III. Bijlagen
 
-In het asbestinventarisatieplan legt de inventariseerder vast wat geïnventariseerd moeten worden en hoe dit gedaan moet worden. Hierdoor wordt voorkomen dat de inventarisatie onvolledig is.
+Deel III van dit certificatieschema bevat de bijlagen, waarnaar in de delen I en II verwezen wordt.
+
+### Bijlage A. Vervallen.
 
 ### Bijlage B. Definities (i)
 
-### Informatief karakter
-
 Indien het plan niet op de werkplek is geldt hetzelfde. Immers, een plan dat niet aanwezig is op de plek waar het uitgevoerd dient te worden, kan net zo goed niet zijn opgesteld.
 
-### Verplichtend karakter
+### Bijlage C. Model aanvraag projecten voor initiële certificatie (v)
 
 De opleiding die de werknemers krijgen is per definitie algemeen. Over de concrete werkwijze in het bedrijf zullen zij geïnstrueerd moeten worden. De onderwerpen waarover de werknemers instructie moeten krijgen zijn veel en gevarieerd. De werknemers moeten in ieder geval het werkplan kennen. Verder moeten zij instructies krijgen over het gebruik van de concrete middelen waarmee zij werken. Ook moet duidelijk zijn met wie zij contact moeten opnemen bij problemen.
 
-### 7.12.1. Planning van een asbestverwijderingswerk
+### 1. Algemeen
 
-Motivatie voor deze regeling is dat het bedrijf alleen asbesthoudende producten mag inventariseren, indien het bedrijf in het bezit is van het Ascert-Procescertificaat Asbestinventarisatie. Namens het bedrijf verzoekt de CKI hiervoor bij Ascert schriftelijk om toestemming. Bij dit verzoek wordt overlegd:
+Het nog niet gecertificeerde asbestverwijdering bedrijf dient bij een bevoegde certificatie-instelling (CKI) een aanvraag te doen voor een toelatingsonderzoek voor het Ascert-Procescertificaat Asbestverinventarisatie conform SC-540. Nadat de CKI heeft vastgesteld dat het bedrijf voldoet aan de eisen volgens het certificatieschema SC-540, exclusief de praktijkeisen, kan toestemming worden gevraagd voor de uitvoering van twee asbestverinventarisatieprojecten.
 
 ### 7.11. Management van middelen
 
 ### 7.11.1. Beschikbaar stellen van middelen
 
-Indien de CKI op één van de twee projecten tot het oordeel komt dat het asbestinventarisatiebedrijf niet voldoet aan de criteria die voor de praktijktoets gelden, kan Ascert, op schriftelijk verzoek van de CKI, voor de uitvoering van één extra te beoordelen project (met vergelijkbaar werk) schriftelijk toestemming geven.
+Indien de overlegde omschrijvingen aan de voorwaarden voldoen, verstrekt Ascert schriftelijk toestemming voor het uitvoeren van omschreven projecten. Ascert zendt de toestemming rechtstreeks naar de certificatie-instelling, die dit vervolgens doorzendt naar het asbestverwijderingsbedrijf.Het asbestinventarisatiebedrijf zorgt dat de Ascert-toestemming op het werk aanwezig is, zodat die op eerste verzoek kan worden getoond.
 
 ### Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestverwijdering
 
 ### Certificatieschema
 
-voor het verwijderen van asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen voorafgaand aan sloop, renovatie of onderhoud in bouwwerken en objecten en na een incident
+De certificatie-instelling dient bij de opdracht tot initiële certificatie duidelijke, bindende afspraken te maken met het asbestinventarisatiebedrijf, in het geval het bedrijf niet blijkt te kunnen voldoen aan de praktijkeisen en de bedoelde projecten niet conform SC-540 afgehandeld kunnen worden.
 
-### 7.12.2.2. Beoordeling van eisen te stellen aan asbestverwijderingswerk
+### 2. Aanvraag
+
+Afhandeling door Ascert:
 
 **Akkoord met uitvoering:**
 
 Heden, ....., is het origineel in pdf-bestand per e-mail door Ascert verzonden aan de Certificatie-instelling.
 
-www.Ascert.nl
+### 3. Toestemming
 
-### Inhoud
-
-Stichting Certificatie Asbest
+Hoogachtend,
 
 ### 7.11.3. Bedrijfsinrichting en bedrijfsmiddelen
 
-..... [Naam]
+Bureau Ascert
 
-Dit werkveldspecifieke certificatieschema SC-530 is door Centraal College van Deskundigen Asbest opgesteld. Het betreft het zorgvuldig, arbeids- en milieuhygiënisch verwijderen van:
+..... [Naam]
 
 Vastgelegd in een asbestinventarisatierapport cf SC-540
 
-### 7.12.3.3. Inlenen van personeel
+### Informatief karakter
 
 ### 7.12.1. Planning van een asbestverwijderingswerk
 
-Het betreft het Ascert Procescertificaat Asbestverwijdering. Deze is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies.
+hierna te noemen certificaathouder verklaren het volgende te zijn overeengekomen:
 
 De output van deze planning moet passen op de manier van werken in het asbestverwijderingsbedrijf.
 
@@ -19441,7 +19431,7 @@ Hoofdstuk 7.14 van dit certificatieschema bevat de eisen te stellen aan het asbe
 
 Een document dat de beheersing en borging van het asbestverwijderen en de toe te passen middelen voor een gegeven asbestverwijderingswerk specificeert, kan worden aangeduid als een kwaliteitsplan.
 
-### 7.12.2. Processen die verband houden met de opdrachtgever
+### Artikel 4. Beëindiging van de overeenkomst:
 
 ### Artikel 5. Klachten
 
@@ -19453,19 +19443,19 @@ De certificatie-instelling is niet aansprakelijk voor schade als gevolg van het 
 
 ### 7.12.2.3. Communicatie met de opdrachtgever
 
-SC-530 is niet van toepassing op asbest in bodem.
+Aldus in tweevoud opgemaakt en ondertekend,
+
+### Bijlage E. Ascert procescertificaat asbestinventarisatie (v)
 
 ### Verplichtend karakter
 
-### 7.13.1. Algemeen
-
-**Nadruk verboden Blad 1 van 2**
+**Dit procescertificaat bestaat uit twee bladzijden.**
 
 ### Wenken voor de opdrachtgever
 
 **Dit procescertificaat bestaat uit twee bladzijden.**
 
-**Nadruk verboden Blad 1 van 2**
+**Dit procescertificaat bestaat uit twee bladzijden.**
 
 ### Bijlage F. Verplichtingen opdrachtgever (i)
 
@@ -19473,15 +19463,15 @@ Conform het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:B
 
 Er moet een beoordelingsprogramma worden gepland, waarbij rekening moet worden gehouden met de resultaten van vorige beoordelingen. De beoordelingscriteria, de reikwijdte, de frequentie en methoden moeten worden gedefinieerd. Door de keuze van de beoordelaars en het uitvoeren van beoordelingen moeten de objectiviteit en onpartijdigheid van het beoordelingsproces gegarandeerd worden. Beoordelaars mogen geen beoordeling uitvoeren over hun eigen werk. Het management dat verantwoordelijk is voor de beoordeling moet bewerkstelligen dat, zonder onnodig uitstel, maatregelen worden getroffen om ontdekte afwijkingen en hun oorzaken weg te werken. Vervolgactiviteiten moeten bestaan uit de verificatie van de genomen maatregelen en de rapportage van verificatieresultaten.
 
-### 7.13.3. Beheersing van afwijkend asbestverwijderingswerk
+### 1. Algemeen
 
-Asbestverwijdering is onderhevig aan een gemeentelijke vergunning. Aan de vergunning ligt een asbestinventarisatierapport ten grondslag. Wie kan een vergunning aanvragen en wordt daarmee de houder van de vergunning?
+De opdrachtgever heeft een wettelijke informatieplicht daar waar het gaat over de aanwezigheid van asbest in zijn bouwwerk/object, dat hij in eigendom / beheer heeft. Deze plicht heeft hij naar de gebruiker van het bouwwerk/object en zij die het bouwwerk/object respectievelijk onderhouden, renoveren, slopen of werkzaamheden erin uitvoeren.
 
 ### 4. Certificatiereglement
 
-De opdrachtgever is degene die:
+De onder de punten 1 t/m 3 genoemde personen kunnen opdrachtgever zijn voor zowel de asbestinventarisatie, de asbestverwijdering, als de eindbeoordeling. Hij hoeft niet perse opdrachtgever te zijn voor de eindbeoordeling. Dit kan hij overlaten aan het verwijderingsbedrijf, hetgeen ook logisch is.
 
-De opdrachtgever kan de zaken genoemd onder 1, 2, 3, 5 en 7 delegeren aan bijvoorbeeld het asbestverwijderingsbedrijf, doch blijft verantwoordelijk voor de aanwezigheid van de juiste papieren (inventarisatierapport en omgevingsvergunning) op het werk.
+De opdrachtgever is degene die:
 
 ### 2. [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
 
@@ -19491,63 +19481,63 @@ De verantwoordelijkheid van de opdrachtgever voor de juiste papieren (inventaris
 
 Ontleend aan [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316), Stb. 704 d.d. 16-12-2005 en Stb. 87 d.d. 20-02-2006
 
-[Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2) – Asbestinventarisatie
+Ontleend aan [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316), Stb. 704 d.d. 16-12-2005 en Stb. 87 d.d. 20-02-2006
 
 ### 7.13.5.3. Preventieve maatregelen
 
 ### 7.13.1. Algemeen
 
-**.... beschikt over een asbestinventarisatierapport.**
+lid b: degene die geheel of gedeeltelijk doet (laat) afbreken of uit elkaar nemen (= dus de opdrachtgever)
 
 ### 4.3.1. Afhandeling aanvraag initiële certificatie
 
 ### 7.14.1. Opdrachtverwerving
 
-**.... beschikt over een asbestinventarisatierapport.**
+ook hier wordt weer gesproken over degene die asbest doet (laat) verwijderen (= dus de opdrachtgever)
 
 ### 7.14.2. Opdracht eindcontrole na asbestverwijdering
 
-Degene die de handelingen van [par. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3) doet / laat verrichten (= dus de opdrachtgever), verstrekt vóórdat de handeling wordt verricht, een afschrift van het inventarisatierapport aan degene die de handeling verricht (= dus het asbestverwijderingsbedrijf).
+[Art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5)
 
-Conclusie:
+Degene die de handelingen van [par. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3) doet / laat verrichten (= dus de opdrachtgever), verstrekt vóórdat de handeling wordt verricht, een afschrift van het inventarisatierapport aan degene die de handeling verricht (= dus het asbestverwijderingsbedrijf).
 
 ### 7.13.3. Beheersing van afwijkend asbestverwijderingswerk
 
-[Artikel 4.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a). Asbestinventarisatie
+[Art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5) zijn heel duidelijk: De opdrachtgever beschikt over een inventarisatierapport en geeft een afschrift van dat rapport aan degene die het asbest verwijdert. Hoe de opdrachtgever aan dat rapport komt, staat niet vermeld. Hij moet er gewoon over beschikken, dus het zelf regelen. Zie ook [art. 4.54a-1 t/m 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a) en [4.54d-5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) (toevoeging aan [Arbo-besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)).
 
-[Artikel 4.54d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d). Asbestverwijdering
+[Artikel 4.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a). Asbestinventarisatie
 
 ### 7.13.4. Analyse van gegevens
 
-[Art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10):
+[Par. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4) – Bouwwerken
 
 ### 7.13.5. Verbetering
 
 ### 4.3.6. Aanvraag en toestemming voor werkzaamheden op de projectlocatie
 
-Een kandidaat wordt voor de duur van de beoordeling op twee projectlocaties waar de beoordeling door de CKI plaatsvindt, gelijkgesteld aan een gecertificeerd asbestverwijderingsbedrijf, òf in geval van een extra beoordeling op drie projectlocaties. De daarbij geldende voorwaarden zijn dat:
+De houder van de omgevingsvergunning moet een afschrift van die vergunning ter hand stellen aan het bedrijf dat de sloop uitvoert.
 
-### Informatief karakter
+### Bijlage G. Hoe te handelen bij incident (brand storm) (i)
 
 Het bedrijf dient vóór begin van de uitvoering de periode van het asbestverwijderingswerk (zie SC-530 Bijlage A) in te voeren in het registratiesysteem Webportaal Arbeidsinspectie.
 
-### 7.13.5.3. Preventieve maatregelen
+### Definitie bodem
 
-Daarbij dient onderscheid te zijn in werk in containment en openlucht
+Vaste deel van de aarde, grond en grondwater, met minder dan 20% puin. Ophooglagen en (half)verhardingslagen behoren niet tot de bodem.
 
 Alleen de verdachte bodemlaag hoeft niet te worden onderzocht.
 
 ### Opmerking
 
-### 4.3.8. Tijdsbesteding initiële beoordeling
+### Opmerking
 
-De aangegeven tijdsbesteding is een richtlijn. De tijdseenheden zijn inclusief rapportage.
+Op het verrichten van onderzoek naar asbest in de bodem is het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) en de onderliggende [Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085) van toepassing. Daaruit volgt dat bodemonderzoek in de meeste gevallen dient plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 2000 en bij asbest het onderzoek volgens SIKB VKB-protocol 2018 wordt uitgevoerd. Dat laatste is in overeenstemming met NEN 5707:2003/C1:2006. Indien uit een dergelijk onderzoek blijkt dat sprake is van een ernstig geval van bodemverontreiniging (asbestconcentratie in de bodem boven de restconcentratienorm / interventiewaarde bodem), dient de bodemsanering plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 7000.
 
-### Bijlage I-1. Voorbeeld risicoklassificatie
+### Bijlage H. Categorie indeling sanctiestelsel asbestinventarisatie tabel 5.5.3 (v)
 
 **(niet-geautoriseerde gebruiker)**
 
-NB. Er kunnen geen rechten ontleend worden
+Vervallen.
 
 Het gebruik van het certificaat is gebonden aan een door Ascert verleend gebruiksrecht op het Ascert Beeldmerk
 
@@ -22366,7 +22356,7 @@ De volgende risico’s kunnen optreden, indien de CKI in het certificatieproces 
 
 ### 5. **Toezicht**
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling.
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling.
 
 ### 4.7.2. **Werkwijze**
 
@@ -23244,9 +23234,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 1.9c. Controle beroepskwalificaties bij tijdelijke en incidentele dienstverrichting voor beroepen die verband houden met de volksgezondheid of openbare veiligheid
 
-1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2013-11-01&g=2013-11-01).
+1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2014-01-01&g=2014-01-01).
 
-2. In aanvulling op de documenten, genoemd in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2013-11-01&g=2013-11-01), verstrekt de dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, derde lid, de volgende documenten:
+2. In aanvulling op de documenten, genoemd in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2014-01-01&g=2014-01-01), verstrekt de dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, derde lid, de volgende documenten:
 
 - a. het programma van de opleiding tot het desbetreffende beroep, onderverdeeld in theorie en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de dienstverrichter het getuigschrift heeft behaald;
 
@@ -23256,15 +23246,15 @@ In deze paragraaf wordt verstaan onder:
 
 3. De minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, beslist met inachtneming van de termijnen, genoemd in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28).
 
-4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, de dienstverrichter de mogelijkheid om door middel van een compenserende maatregel, bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2013-11-01&g=2013-11-01), aan te tonen dat hij over de ontbrekende kennis en vaardigheden beschikt.
+4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, de dienstverrichter de mogelijkheid om door middel van een compenserende maatregel, bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2014-01-01&g=2014-01-01), aan te tonen dat hij over de ontbrekende kennis en vaardigheden beschikt.
 
-5. De dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) heeft aangewezen, die instelling, een schriftelijke verklaring of op grond van de controle de beroepskwalificaties voldoende is voor tijdelijke en incidentele dienstverrichting in Nederland.
+5. De dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) heeft aangewezen, die instelling, een schriftelijke verklaring in de vorm van een certificaat van vakbekwaamheid indien op grond van de controle de beroepskwalificaties voldoende zijn voor tijdelijke en incidentele dienstverrichting in Nederland.
 
 ##### Artikel 1.9d. Compenserende maatregel bij tijdelijke en incidentele dienstverrichting
 
-1. De dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2013-11-01&g=2013-11-01), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, zo spoedig mogelijk in de gelegenheid gesteld de compenserende maatregel, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2013-11-01&g=2013-11-01), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2013-11-01&g=2013-11-01), is van overeenkomstige toepassing.
+1. De dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2014-01-01&g=2014-01-01), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, zo spoedig mogelijk in de gelegenheid gesteld de compenserende maatregel, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2014-01-01&g=2014-01-01), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
 
-2. Na het afleggen van de compenserende maatregel zendt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, een schriftelijke verklaring omtrent het resultaat van de compenserende maatregel aan de dienstverrichter.
+2. Na het afleggen van de compenserende maatregel zendt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a), heeft aangewezen, die instelling, een certificaat van vakbekwaamheid aan de dienstverrichter indien het resultaat van de compenserende maatregel voldoende is voor tijdelijke en incidentele dienstverrichting in Nederland.
 
 3. Indien het resultaat van de proeve van bekwaamheid onvoldoende is, heeft de dienstverrichter het recht nogmaals een proeve van bekwaamheid af te leggen.
 
@@ -23324,7 +23314,7 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 10.1. **Toetstermen**
 
-### Bijlage 3:. Eisen te stellen aan het examenpersoneel
+### Bestuursrechter
 
 ### Bijlage 4:. Eisen te stellen aan het examen
 
@@ -23332,9 +23322,9 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 12. **Het certificaat**
 
-### 3.1. Inleiding
+### 3. **Competenties**
 
-### Bijlage 7:. Toelaten van opleidingen
+### 3.3. Beroepsspecifieke competenties
 
 ### Bijlage 2:. Bezwaarprocedure
 
@@ -23344,13 +23334,13 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 4.1. Beslotenheid van examens
 
-### 1.1. Beeld van de branche en het beroep
+### Kennisspecialisatie
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Hogere Veiligheidskundige
 
-### 1. **Inleiding**
+### **Inhoudsopgave**
 
-### 3. **De werkveldspecifieke kenmerken**
+### 2. **Definities**
 
 ### Bijlage 10:. Specialisatie van de hogere veiligheidskundige(toelichtend)
 
@@ -23362,7 +23352,7 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 6.1. **Medewerking aan toezicht**
 
-### Branchespecialisatie
+### 6.2. **Frequentie en uitvoering van het toezicht**
 
 ## Bijlage IId. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2013-01-01&g=2013-01-01)
 
@@ -23378,19 +23368,19 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 4.3. **Certificatiebesluit**
 
-### 5.3. **Beheer centrale itembank en examenversies**
+### 10.2. **Toets (Overhoring van het portfolio)**
 
 ### 6. **Toezicht**
 
-### 6.2. **Frequentie en uitvoering van het toezicht**
+### 11.1. **Toetstermen**
 
 ### De toetsing van examenpersoneel
 
-### 4.1. Beslotenheid van examens
+### Bijlage 4:. Eisen te stellen aan het examen
 
 ### 11.3. **Toets (verdediging van het portfolio)**
 
-### 1.1. Beeld van de branche en het beroep
+### 1. **Algemene informatie**
 
 ### Bijlage 1:. Klachtenregeling
 
@@ -23418,7 +23408,7 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### Branchespecialisatie
 
-### 3.1. Inleiding
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Arbeids- en Organisatiedeskundige
 
 ### 3.2. Algemene competenties
 
@@ -23426,7 +23416,7 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### Bijlage 9:. Format goed- en afkeurcriteria examen
 
-### Bijlage 10:. Specialisatie arbeids- en organisatiedeskunige (toelichtend)
+### 4.6. **Klachten**
 
 ### 4.7. **Bezwaarprocedure**
 
@@ -23434,7 +23424,7 @@ De minister of, indien de minister een certificerende instelling als bedoeld in 
 
 ### 5.1. **Doelstelling**
 
-### Kennisspecialisatie
+### 5.2. **Het examenreglement**
 
 ## Bijlage III. behorend bij artikel 3.1
 
@@ -23920,7 +23910,7 @@ Vervallen
 
 ### 1.. **Inleiding**
 
-### 2.. **Definities**
+### 7. **Het onderwerp van certificatie**
 
 ### 3.. **Werkveldspecifieke kenmerken**
 
@@ -23928,7 +23918,7 @@ Vervallen
 
 ### 4.1. **Algemeen**
 
-### 10.1. **Toetstermen**
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ### 4.2.3. **Vakdeskundige (Technical expert)**
 
@@ -23948,11 +23938,11 @@ Vervallen
 
 ### Klachtenregeling
 
-### 4.2.4. **Weigering, schorsing en intrekking van het systeemcertificaat**
+### Werkwijze
 
 ### Bijlage 4:. Eisen te stellen aan het examen
 
-### 4.6. **Klachten**
+### 4.1. Beslotenheid van examens
 
 ### 4.6.2. **Klachten over het bedrijf of de persoon**
 
@@ -23966,49 +23956,49 @@ Vervallen
 
 ### 4.8. **OCE Certificaatregister**
 
-### 4.9. **Norminterpretatie**
+### Bijlage 9:. Format goed- en afkeurcriteria examen
 
 ### 5.2.1. **Periodieke beoordeling**
 
 ### 5.3. **Verslag van bevindingen**
 
-### Inleiding
+### Bijlage 10:. Specialisatie arbeids- en organisatiedeskunige (toelichtend)
 
 ### 5.4.4. **Schorsing van het Systeemcertificaat**
 
-### 5.4.5. **Intrekken van het Systeemcertificaat**
+### Specialisatie van de Arbeids- en Organisatiedeskundige
 
-### 6.1. **Algemene eisen**
+### Taakspecialisatie
 
 ### 6.3.2. **Inhuur van materieel, middelen en personen**
 
-### 4.1. **Algemeen**
+### 4.. **Eisen ten behoeve van de aanwijzing**
 
-### 6.4.3. **Beheersing van documenten**
+### 4.4. **Wijziging van certificatie-eisen**
 
-### 6.4.12. **Beheersing van klachten en tekortkomingen**
+### 1. **Inleiding**
 
 ### 3.1. **Beschrijving schema**
 
 ### 4.2.1. **Algemeen**
 
-### 6.5.3. **Uitsluitingen/onderzoeksbeperkingen**
+### 4.2.4. **Weigering, schorsing en intrekking van het systeemcertificaat**
 
-### 6.6. **Proceseisen opsporing**
+### 4.4. **Geldigheidsduur van het certificaat**
 
-### 4.6.1. **Klachten over de CKI**
+### 4.6. **Klachten**
 
-### 6.6.2.1. **Projectplan**
+### 4.6.3.1. **Inleiding**
 
-### 6.6.2.3. **Projectgebonden risico-evaluatie**
+### 4.6.3.4. **Ernstige klachten**
 
 ### 6.6.3.1. **Selectie van detectiemethoden**
 
-### 6.6.3.3. **Veldwerkregistraties**
+### 4.7.1. **Inleiding**
 
-### 6.6.3.4. **Analoge detectie**
+### 4.7.2.1. **Algemeen**
 
-### 4.7.2.4. **Bestuursrechter**
+### 4.7.2.3. **Beslissing op het bezwaaarschrift**
 
 ### 4.9. **Norminterpretatie**
 
@@ -24016,7 +24006,7 @@ Vervallen
 
 ### 6.6.8. **Tijdelijk veiligstellen situatie**
 
-### Bijlage 2B:. Eindtermen oce-deskundige
+### 6.1.2. **Ontheffing Wet wapens en munitie**
 
 ### Bijlage 2D:. Eindtermen basiskennis OCE
 
@@ -24044,15 +24034,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 6.4.12. **Beheersing van klachten en tekortkomingen**
 
-### 3. Werkveldspecifieke kenmerken
+### 6.4.13. **Beheersing van ongevallen en incidenten**
 
 ### 4.12. Hercertificatie
 
-### 3.4.5. Asbestinventarisatie Type-G: Inventarisatie van asbest gericht op het gebruik van het gebouw
+### 6.6. **Proceseisen opsporing**
 
-### 3.4.7. Afwijkingen van SMA-rt met argumenten
+### 6.6.1. **Personele deskundigheid opsporing**
 
-### 4.1. Doelstelling
+### 6.6.2. **Werkvoorbereiding**
 
 ### 6.6.2.1. **Projectplan**
 
@@ -24066,17 +24056,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 6.6.5. **Laagsgewijs ontgraven**
 
-### Inleiding
+### 6.6.7. **Identificeren**
 
-### 4.4.2. Status voorlopig asbestinventarisatierapport
+### 6.6.8. **Tijdelijk veiligstellen situatie**
 
 ### 6.6.10. **Overdracht aan EODD en afvoer schroot**
 
 ### 4.5.1. Hercertificatie
 
-### 4.7.1. Klachten over de CI
+### 6.6.12. **Oplevering**
 
-### 5.4.1. Beslotenheid van examens
+### 6.6.13. **Evaluatie**
 
 ### 4.7.3.1. Inleiding
 
@@ -24088,17 +24078,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 6.3. De wijze van uitvoering van het toezicht
 
-### Bijlage 2B:. Eindtermen oce-deskundige
+### Bijlage 2A:. Eindtermen assistent oce-deskundige
 
 ### 5. Toezicht
 
-### 5.1. Toegang
+### Bijlage 2C:. Eindtermen senior oce-deskundige
 
 ### Bijlage 2D:. Eindtermen basiskennis OCE
 
-### 10.1. Toetstermen
+### Bijlage 6:. Eisen voorziening tijdelijk veiligstellen situatie
 
-### 10.1.1. Algemene toetstermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
+### Bijlage 7:. Modelcertificaat
 
 ### 10.2.1. Toepassingsgebieden
 
@@ -24106,15 +24096,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 2. Definities
 
-### 5.5.2.1. Inleiding
+### 3.1. Beschrijving document
 
 ### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
 
-### 6. Onderwerp van certificatie
+### 4.6. Uitbesteding
 
 ### 13. Geldigheidscondities
 
-### Bijlage A. gedragscode vuurwerkdeskundige
+### 4.8. Instructies, vertrouwelijkheid en onafhankelijkheid
 
 ### 4.12. Hercertificatie
 
@@ -24124,15 +24114,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 7.2. Vrijwaring van druk
 
-### 7.4. Organisatie en management
+### Deel I:. Algemene Bepalingen
 
-### Certificatieschema
+### 1. Inleiding
 
 ### 7.4.2. Technisch verantwoordelijke
 
-### 7.4.3. Toezicht
+### 3. Werkveldspecifieke kenmerken
 
-### Deel I. Algemene bepalingen
+### 3.1. Beschrijving schema
 
 ### 4.3. Certificatiebeslissing
 
@@ -24152,21 +24142,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 4.3.7.2. Afbreken beoordeling
 
-### 9.2 Eindtermen groot vuurwerk
+### 9.1. Algemene eindtermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### 4.4.1. Besluit en certificaat verlenen
+### 10.1. Toetstermen
 
 ### 10.2.1. Toepassingsgebieden
 
 ### 4.6. Geldigheidscondities
 
-### 4.8. Bezwaarschriftenprocedure
+### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
 
 ### 4.8.2. Werkwijze
 
 ### 7.11.1. Inventarisatierapport
 
-### 7.11.3. Goedkeuring
+### 11. Hercertificatie
 
 ### 7.12.1. Uitbesteding van overige diensten
 
@@ -24176,17 +24166,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
 
-### **Ceilingwaarde**
+### **C**
 
 ### **Respirabele vezels**
 
-### Deel II. Normen
+### 2.2. Werkveldspecifieke definities
 
-### 7.14.11. Monsterneming en analyse
+### 2.3. Documenten
 
-### 7. Eisen
+### 3.1. Beschrijving schema
 
-### 3.4.1. Alle asbesttoepassingen onderscheiden
+### 3.4. Typering asbestinventarisatie
 
 ### 7.16.2. Het systematisch opsporen van asbest, asbesthoudende producten etc.
 
@@ -24200,19 +24190,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 7.17.3. Aanvullend inventarisatierapport Type-B
 
-### 8.1. Tijdsbesteding bij de beoordelingen
+### 4.3.5. Programma initiële beoordeling
 
 ### 4.3.7.3. Status van inventarisatierapporten tijdens de beoordeling van een kandidaat
 
 ### 4.3.7.5. Rapportage
 
-### 7.6.5. Gedragscode
+### 4.4.2. Status voorlopig asbestinventarisatierapport
 
-### Artikel 1. Rechten te ontlenen aan het Ascert Procescertificaat Asbestinventarisatie:
+### 4.7.3.2.1. Eenvoudige zaken
 
 ### 4.7.3.2.2. Ernstige klachten
 
-### Artikel 3. Voorwaarden voor Ascert Procescertificatie Asbestinventarisatie:
+### 4.7.3.2.2. Ernstige klachten
 
 ### 4.8.2. Werkwijze
 
@@ -24220,13 +24210,13 @@ De CKI is verplicht de certificaathouder blijvend te toetsen aan de eisen in het
 
 ### 5.2. Frequentie van het toezicht
 
-Wanneer een asbestinventarisatiebedrijf, naast de hoofdvestiging, beschikt over één of meer filialen/vestigingen zoals bedoeld in 4.3.4, vindt tevens, naast de ene beoordeling per jaar op de hoofdvestiging, per filiaal/vestiging tenminste één beoordeling per jaar plaats.
+Er vindt tenminste één beoordeling op de vestiging per jaar plaats. Onderdeel van deze beoordeling is het dossier van tenminste vier inventarisatieprojecten.
 
 ### 7.8.3. Uitvoeringsmethoden
 
-Alle werkinstructies, normen of beschreven procedures, registratieformulieren, checklists en referentiegegevens die van belang zijn voor het werk van het inventarisatiebureau, moeten up-to-date gehouden worden en direct toegankelijk zijn voor het personeel.
+In deze paragraaf wordt aangegeven op welke wijze de CKI verwacht wordt audits in te vullen..
 
-Het inventarisatiebureau moet beschikken over een systeem om contracten of opdrachten te beoordelen en garandeert dat:
+De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief rapportage.
 
 Indien naar het oordeel van de CKI-proces de geconstateerde afwijkingen (zie SC-540 par. 5.5.3) toe te schrijven zijn aan medewerkers met een persoonscertificaat DIA zal de CKI-proces het desbetreffende afwijkingsrapport direct en rechtstreeks melden en rapporteren aan de persoonscertificaat verlenende instelling (zie verder SC-560 par. 6).
 
@@ -24236,15 +24226,15 @@ Indien naar het oordeel van de CKI-proces de geconstateerde afwijkingen (zie SC-
 
 **Indien er een afwijking Categorie I, II, III of IV is vastgesteld stuurt de CKI een kennisgeving van (on)voorwaardelijke intrekking of schorsing aan de certificaathouder. In deze kennisgeving wordt medegedeeld dat de CKI voornemens is om het certificaat (on)voorwaardelijk in te trekken te schorsen dan wel een waarschuwing te geven. Zij motiveert waarom, hetgeen neerkomt op het motiveren waarom er sprake is van een categorie I , II, IIIof IV afwijking. Verder stelt zij de certificaathouder in de gelegenheid om binnen twee weken op dit voornemen te reageren via een zogenaamde zienswijze.**
 
-### 7.11.2. Inhoud
+### 5.6. Kosten van onderzoek
 
-inclusief de oplevering van het asbestinventarisatierapport inclusief de risicoclassificaties volgens de eisen van het certificatieschema.
+Het onderwerp van certificatie betreft het proces van inventariseren van aanwezig asbest, asbesthoudende producten en asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object voorafgaand aan
 
-De werkgever is conform de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) [lit.1.] verplicht zorg te dragen voor arbeidsveilige werkomstandigheden van zijn werknemers.
+Een inventarisatiebureau dat deel uitmaakt van een grotere organisatie die ook nog andere dan inventarisatiewerkzaamheden uitvoert, moet duidelijk als zelfstandige eenheid binnen een dergelijke organisatie te onderscheiden zijn, waaraan de verantwoordelijkheden met betrekking tot SC-540 eenduidig kunnen worden toegerekend. Binnen eenzelfde moederorganisatie dient de asbestinventarisatie onder één procescertificaat te worden uitgevoerd.
 
-### E. Overtreding bestaande uit onjuist verwijderen of verwijderen in een te lage risicoklasse
+### 7.3.1. Gegevens met betrekking tot gegevens van de opdrachtgever
 
-### F. Overtredingen met betrekking tot de inventarisatie van het asbest
+### 7.4.1. Organisatieschema/functionele scheiding
 
 ### 7.4.5. Functiebeschrijvingen
 
@@ -24252,11 +24242,11 @@ Het management van de organisatie moet een functionaris aanwijzen die bevoegd en
 
 ### 7.5.6. Beheersing van documenten
 
-### J. Zelf uitvoeren van de werkzaamheden
+### 7.5.9. Terugkoppeling en corrigerende maatregelen
 
-### L. Voorbereiding van de werkzaamheden
+### 7.6.1. Beschikbaarheid en tijdelijk personeel
 
-### Bijzondere omstandigheden
+### 7.6.6. Vergoedingen
 
 ## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-11-01&g=2012-11-01)
 
@@ -24276,41 +24266,41 @@ Het inventarisatiebureau zorgt ervoor dat alle in te zetten apparatuur, voor zov
 
 ### 3.2. Actieve partijen
 
-**Bij inventarisatie zijn computers belangrijk voor het systematisch vastleggen van o.a.:**
+**Toelichting:**
 
 ### 7.7.10. Niet goed functionerende apparatuur
 
-### 3.3.1. Algemeen
+### 7.7.10. Niet goed functionerende apparatuur
 
 ### 7.8. Inventarisatie methoden en procedures
 
-7.14.
+Een volledige asbestinventarisatie conform SC-540 kan gefaseerd worden uitgevoerd conform par.
 
 ### 7.8.1. Melding van asbestinventarisatiewerk
 
 ### 7.8.2. Inventarisatiemethoden
 
-### 9.2. Gebruik van het certificaat
+### 7.8.3. Uitvoeringsmethoden
 
 ### 4.3.1. Afhandeling aanvraag initiële certificatie
 
 ### 4.3.4. Meerdere filialen/vestigingen
 
-Motivatie voor deze regeling is dat het bedrijf alleen asbesthoudende producten mag inventariseren, indien het bedrijf in het bezit is van het Ascert-Procescertificaat Asbestinventarisatie. Namens het bedrijf verzoekt de CKI hiervoor bij Ascert schriftelijk om toestemming. Bij dit verzoek wordt overlegd:
+**De formulering van de opdracht door de klant (b) c.q. de formulering van de offerte door het bedrijf en het akkoord daarop van de klant kan niet strijdig zijn met SC-540. Denk daarbij aan toegang tot ruimten, opgelegde beperkingen m.b.t. destructief onderzoek, goedkopere varianten, etc.**
 
 Waarnemingen en andere bij de inventarisatie verkregen gegevens moeten op een daartoe geschikte manier worden opgeslagen om te voorkomen dat belangrijke gegevens verloren kunnen gaan.
 
 ### 4.3.5. Initiële beoordeling
 
-Indien de CKI op één van de twee projecten tot het oordeel komt dat het asbestinventarisatiebedrijf niet voldoet aan de criteria die voor de praktijktoets gelden, kan Ascert, op schriftelijk verzoek van de CKI, voor de uitvoering van één extra te beoordelen project (met vergelijkbaar werk) schriftelijk toestemming geven.
+Zie voor specifieke eisen aan vastlegging en rapportage par. 7.17. Registratie, archivering en afhandeling van retour ontvangen evaluatieformulieren dienen zorgvuldig te geschieden.
 
-### 4.3.6. Aanvraag en toestemming voor werkzaamheden op de projectlocatie
+### 7.8.8. Gegevensoverdracht en berekeningen
 
 Het inventarisatiebureau moet beschikken over beschreven veiligheidsinstructies voor het uitvoeren van inventarisaties, waarbij tevens voldaan moet worden aan de eisen in wet- en regelgeving.
 
 ### 7.9. Behandeling van inventarisatieobjecten en materiaalmonsters
 
-**De unieke codering geldt voor de gebouwen, constructies en objecten en alle onderverdelingen naar verdiepingen, bouw- of constructiedelen en materialen. Vastlegging op (digitale) foto’s kan daarbij een nuttig hulpmiddel zijn. Het is van belang dat deze eis ook duidelijk wordt overgebracht aan b.v. laboratoria die in opdracht van het inventarisatiebureau monsters nemen van asbestverdachte materialen en die veelal een eigen systematiek hanteren. Voorkom dat beide systemen conflicteren waardoor de traceerbaarheid van monsters nadelig wordt beïnvloed.**
+**Toelichting:**
 
 ### 7.9.2. Afwijkingen
 
@@ -24326,9 +24316,9 @@ Indien een certificaathouder na een intrekking (zie par. 5.5.4) opnieuw gecertif
 
 ### 7.10.3. Archivering
 
-**Nadruk verboden Blad 1 van 2**
+**Informatie met belangrijke gezondheidsaspecten dient, conform de wet, minstens 40 jaar bewaard te blijven.**
 
-### 7.11.1. Inventarisatierapport
+### 7.11. Inventarisatierapporten
 
 ### 7.11.2. Inhoud
 
@@ -24340,91 +24330,91 @@ Inventarisatierapporten moeten door een daartoe bevoegde persoon worden ondertek
 
 ### 4.7.3.2.2. Ernstige klachten
 
-**In de meeste gevallen zal dit de technische verantwoordelijke zijn (zie par. 7.4.2). De ondertekenaar moet het resultaat dus vakinhoudelijk kunnen beoordelen.**
+**Toelichting:**
 
-### 7.12.1. Uitbesteding van overige diensten
+### 7.12. Uitbesteding
 
 Zie par. 7.17.
 
-### 4.8.2.1. Algemeen
+### 7.12.2. Evaluatie van toeleveranciers
 
-### 4.8.2.3. Beslissing op bezwaarschrift
+### 7.12.3. Beoordeling van de resultaten
 
 ### 7.13. Samenwerking
 
-Degene die de handelingen van [par. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3) doet / laat verrichten (= dus de opdrachtgever), verstrekt vóórdat de handeling wordt verricht, een afschrift van het inventarisatierapport aan degene die de handeling verricht (= dus het asbestverwijderingsbedrijf).
+Van een inventarisatiebureau wordt verwacht dat zij aantoonbaar actief participeert in het uitwisselen van ervaringen met collega-bedrijven en dat zij een bijdrage levert aan het proces van verbetering en standaardisatie.
 
-### 7.14.1. Doel
+### 7.14. Eisen te stellen aan asbestinventarisatie
 
 Het doel van een asbestinventarisatie is het volledig in kaart brengen, identificeren en kwantificeren van alle van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen (asbest, asbesthoudende producten, etc.) die aanwezig zijn in een bouwwerk, object of plaats waar een incident heeft plaatsgevonden en asbest is vrijgekomen. Het inventariseren van asbest, asbesthoudende producten etc. in een bouwwerk of object gaat vooraf aan het geheel of gedeeltelijk afbreken ervan, aan het verwijderen van asbest, of aan het opruimen van asbest na een incident. Tevens wordt op grond van de aard van het aangetroffen asbest en/of de asbesthoudende producten, de wijze waarop deze in de constructie zijn bevestigd en de omgevingsomstandigheden, een indeling in één van de drie risicoklassen voor verwijdering gemaakt, zoals beschreven in SC-540 deel I par. 3.3.
 
-### 5.2.1. Beoordeling op de vestiging
+### 7.14.3. Uitzonderingen
 
 De werkgever is conform de [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) [lit.1.] verplicht zorg te dragen voor arbeidsveilige werkomstandigheden van zijn werknemers.
 
-Bij inventarisatie type B wordt het bouwwerk/object, wel of niet in samenwerking met een gecertificeerde asbestverwijderingsbedrijf (zie par. 3.4.2), zodanig selectief gesloopt / destructief onderzocht dat de aanwezigheid van nog resterende asbesthoudende materialen moet kunnen worden vastgesteld. De sloop- / onderzoekmethode en uitrusting dienen daarbij zodanig te zijn dat er geen asbestblootstelling optreedt.
+De keus van gereedschap en materieel hangt af van de te onderzoeken objecten. In bijzondere gevallen en/of voor het uitvoeren van destructief onderzoek kan ander gereedschap en/of materieel nodig zijn. In het inventarisatieplan dient een lijst opgenomen te worden van te gebruiken uitrusting en materialen.
 
 Op het verrichten van onderzoek naar asbest in de bodem is het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) en de onderliggende [Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085) van toepassing. Daaruit volgt dat bodemonderzoek in de meeste gevallen dient plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 2000 en bij asbest het onderzoek volgens protocol 2018 wordt uitgevoerd. Daarin is de NEN 5707 overigens verwerkt. Indien uit een dergelijk onderzoek blijkt dat sprake is van een ernstig geval van bodemverontreiniging (asbestconcentratie in de bodem boven de restconcentratienorm / interventiewaarde bodem), dient de bodemsanering plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 7000.
 
-**Opmerking:**
+Asbestinventarisatie geschiedt veelal in fasen, omdat vanwege gebruik of andere oorzaken, niet in één gang een allesomvattend onderzoek in het bouwwerk of object kan plaats vinden. Uiteindelijk dient alle aanwezige asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object volledig in kaart te zijn gebracht, geïdentificeerd en gekwantificeerd.
 
 ### 5.3.1. Tijdsbesteding bij periodieke beoordeling en hercertificatie
 
-NB. Er kunnen geen rechten ontleend worden
+**Een onderzoeker heeft een inspanningsverplichting, afhankelijk van de mate waarin een pand in gebruik is, en de vrijheid die een opdrachtgever bij een inventarisatie Type-A kan bieden. Verlaagde plafonds, lambrisering, spouwmuren, koven etc. kunnen in veel gevallen zonder problemen met opdrachtgevers of risico op emissie worden open gemaakt, dit geldt ook voor vaste vloerbedekkingen. In overeenstemming met de typering in SC-540 par. 3.4. is het volgende onderscheid aangebracht.**
 
-### Bijlage I-2. Voorbeeld risicoklassificatie
+### 7.14.6. Type A: Direct waarneembare asbest, asbesthoudende producten etc.
 
 ### 5.4.1. Rapportage aan de CH
 
-**‘De vergunningverlener verplicht in de omgevingsvergunning tot de aanvullende inventarisatie (Type B)’.**
+**De inventariseerder komt op basis van zijn deskundigheid in het herkennen en benoemen van asbesttoepassingen tot de veronderstelling dat er asbesthoudende materialen aanwezig zouden kunnen zijn, die slechts met destructief onderzoek bereikbaar zijn. Deze bevinding wordt aangeduid met ‘een redelijk vermoeden’. De bevinding van ‘een redelijk vermoeden’ dient in de samenvatting van het rapport te worden aangegeven (zie ook par. 7.17.2.2). In de samenvatting van het rapport dient in dat geval over de werkwijze van de vergunningverlener bovendien en aansluitend de volgende zin te worden opgenomen:**
 
 ### 5.4.2. Rapportage aan CKI-persoon
 
-Het is niet een daadwerkelijke blootstelling alleen die reden is voor onvoorwaardelijke intrekking. Enkel het risico van asbestemissie of het verhogen van dit risico betekent al dat een certificaathouder die een dergelijk risico laat ontstaan, de werkzaamheden niet meer mag te verrichten. Het doel van de regelgeving is immers emissie en blootstelling te voorkomen. Om dit doel te bereiken moet het risico van emissie en blootstelling geminimaliseerd worden. Het is niet aanvaardbaar dat een certificaathouder die risico’s verhoogd pas zijn certificaat verliest als het risico wordt verwezenlijkt en er mensen zijn blootgesteld.
+Het asbestinventarisatierapport type-A zal kunnen dienen als basis voor de aanvraag van een omgevingsvergunning.
 
-### 5.5. Sancties bij geconstateerde afwijkingen
+### 7.14.6.1. Type G; inventarisatie gericht op het gebruik van het gebouw
 
-**Toelichting:**
+Eigenaren of beheerders van gebouwen kunnen vrijwillig opdracht geven tot asbestinventarisatie van een gebouw of object, gericht op het beheersen van asbest in het gebouw. Een dergelijke inventarisatie heeft tot doel de gebruiksintegriteit van het gehele gebouw vast te stellen en wordt aangeduid als asbestinventarisatie Type-G. Een asbestinventarisatie Type-G is een uitbreiding op een volledige asbestinventarisatie Type-A. Het volledig inventariseren van alle direct waarneembare asbest, etc. in een bouwwerk of object betekent dat alle ruimten worden onderzocht.
 
 ### 5.5.1. Algemeen
 
 ### 5.5.2.1. Inleiding
 
-**Door het in het beheerplan opnemen van asbesthoudende toepassingen waarvan een ‘een redelijk vermoeden’ bestaat, zijn de risico’s van deze mogelijk toepassingen tot op zekere hoogte beheerd (de conditie is niet bekend). Hiermee wordt voorkomen dan (licht) destructief onderzoek nodig is, wat in gebruikssituaties vaak ongewenst is. Een volledige risicobeoordeling van deze toepassingen conform de NEN-EN-ISO/IEC 2991: 2005 is niet mogelijk. Indien uit de risicobeoordeling blijkt dat er sprake is van blootstelling aan asbestvezels dient dit direct gemeld te worden aan de opdrachtgever en dient de ruimte waar de besmetting heerst afgesloten en voor gebruik verboden te worden. Het asbesthoudende materiaal of asbeststof, dat de besmetting veroorzaakt, dient verwijderd te worden en de ruimte te worden schoongemaakt van asbestvezels.**
+**Toelichting:**
 
 De inventarisatie van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object is gericht op het vaststellen van de blootstellingrisico's bij het verwijderen ervan. De bepalende factoren daarbij zijn o.a. de aard van het asbest, asbesthoudende product, asbestbesmet materiaal of asbestbesmet constructieonderdeel, de wijze waarop het is aangebracht en daarmee de methode van verwijderen en de beschermingsmaatregelen. De vaststelling van de risicoklasse dient aantoonbaar gedocumenteerd uitgevoerd te zijn op basis van de resultaten van de inventarisatie.
 
 ### 5.5.4.1. Eigen onderzoek CKI
 
-Om een juiste indeling te kunnen maken zijn niet alleen gegevens nodig over het asbesthoudende materiaal (aard, samenstelling, asbestgehalte, graad van verwering/aantasting, wijze van bevestiging etc.). De inventariseerder moet óók op de hoogte zijn van de verwijderingstechnieken en -methoden die beschikbaar zijn. Immers, de combinatie van materiaaleigenschappen en de bij demontage of sloop gebruikte technieken bepalen uiteindelijke het concentratieniveau aan asbest in de lucht tijdens de asbestinventarisatie.
+De indeling in risicoklassen is gebaseerd op het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498). Er zijn drie risicoklassen gedefinieerd, elk met een eigen specifiek veiligheidsregime. Deze risicoklassen zijn volgens het volgende globale model ingedeeld:
 
-Uitgangspunt bij de indeling van de afwijkingen is dat overtredingen die leiden tot blootstelling dan wel het risico op blootstelling verhogen, vallen onder categorie II. Andere afwijkingen zullen onder categorie III vallen, met uitzonderingen naar categorie II en IV. Als de certificaathouder de gecertificeerde werkzaamheden (of daarmee verbonden werkzaamheden) verricht terwijl het certificaat is geschorst (zowel herstelsanctie als ordemaatregel), zal het certificaat onvoorwaardelijk worden ingetrokken.
+Voor plaatmaterialen en golfplaat dient de hoeveelheid weergegeven te worden in m2. Desgewenst kan naar massa-eenheden (kg, ton) worden omgerekend. Bulktoepassingen, zoals spuitasbest, leidingisolatie etc. dienen altijd omgerekend te worden naar volume en/of massa-eenheden. Daarnaast dienen de afmetingen van alle asbesthoudende bouw- of constructiedelen zorgvuldig op een plattegrond te worden aangegeven en geregistreerd.
 
-Nadat de CKI heeft vastgesteld, op basis van de vaststaande feiten door eigen onderzoek of dat van een toezichthoudende overheidsinstelling, dat er sprake is van een afwijking van categorie I, II of III is de gang van zaken aan de orde als beschreven in par. 5.5.4.4.
+Van materialen waarin het asbest inhomogeen aanwezig is zoals vinyl vloerbedekkingtypen, Internitplaat, beglazingskit etc., dienen meerdere monsters op selectief verschillende toepassingslocaties te worden genomen. Zie ook par. 7.16.3.2: Eisen te stellen aan monsterneming. De genomen monsters dienen geanalyseerd te worden door een voor deze verrichting door de RvA geaccrediteerd laboratorium dat werkt conform NEN 5896: 2003 (zie www.rva.nl).
 
-### 5.5.4.4. Zienswijzeprocedure
+### 7.15. Omvang van het project
 
 Het inventariseren van een als zelfstandig te beschouwen bouwkundige eenheid is toegestaan. Bij de indeling is het van belang dat de eenheden zodanig groot zijn, dat alle asbesthoudende bronnen binnen de bouwkundige of installatietechnische eenheid worden meegenomen. Het in één keer inventariseren van zeer grote bouwkundige eenheden kan tot bezwaren leiden en nadelen hebben. De oplossing ligt dan vrijwel altijd in het later samenbundelen van de deelinventarisaties tot een overzichtelijk geheel.
 
-Voor de vraag of er een deelinventarisatie gemaakt kan worden, dient niet alleen gekeken te worden naar de mate waarin de ruimte bouwkundig zelfstandig is. Ook dient gekeken te worden of de betreffende asbestbron zich beperkt tot die ruimte.
+De asbestinventarisatie van de zelfstandig bouwkundige eenheid dient volledig in kaart gebracht, geïdentificeerd en gekwalificeerd te worden.
 
 ### 5.6. Kosten van onderzoek
 
-Een overtreding van een dergelijke bepaling leidt niet direct tot blootstelling of het verhogen van het risico. Afwijkingen die behoren tot dit cluster zullen in beginsel worden ingedeeld in categorie III.
+**Voorbeelden:**
 
-### Deel II. Normen
+### 7.15.2. Het inventariseren van afzonderlijke bronnen of constructiedelen
 
-**Voorbeeld:**
+Het inventariseren van afzonderlijke bronnen of constructiedelen is niet acceptabel. Opsplitsing in te kleine eenheden stuit vrijwel altijd op bezwaren. Het is bijvoorbeeld niet toegestaan om uitsluitend een gevelconstructie, vensterbanken of technische ruimten te inventariseren en daarbij geen aandacht te besteden aan de overige bronnen binnen de bouwkundige eenheid.
 
 ### 7.1. Asbestverwijderingsbedrijf of -concern
 
-### 7.2.1. Bedrijfsniveau
+### 7.16.2. Het systematisch opsporen van asbest, asbesthoudende producten etc.
 
-**Toelichting:**
+Het bedrijf dient te werken met een checklist toegespitst op het te inventariseren bouwwerk of object. Tevoren dient deskresearch te zijn uitgevoerd, gebruikmakend van bestek, tekeningen, bouwaanvragen of vergelijkbare informatie. Resultaten van deskresearch dienen op de onderzoekslocatie tijdens het onderzoek aanwezig te zijn. Bij het inventariseren dienen alle ruimten en constructiedelen, met inbegrip van bijvoorbeeld kanalen en kokers, schoorstenen, kruipruimten, ruimten boven het plafond etc. onderzocht te worden. In het bouwwerk en/of object dienen de te onderzoeken materialen in hoofdgroepen te worden ingedeeld.
 
 ### 7.2.2. Projectniveau
 
-### 7.16.3.1. Inleiding
+### 7.16.3. Veiligheidsaspecten
 
 ### 7.16.3.4. Ernstige besmettingen die een direct blootstellingsrisico opleveren
 
@@ -24432,35 +24422,35 @@ Indien tijdens de inventarisatie een ernstige besmetting met niet-hechtgebonden 
 
 ### 7.17. Rapportage
 
-### 7.17.1. Inleiding
+### 7.17. Rapportage
 
 De belangrijkste activiteit van het asbestinventarisatiebedrijf is het inventariseren van asbesthoudende materialen en/of secundaire bronnen in een gebouw, constructie of object. Met behulp van de verkregen informatie kunnen de asbesthoudende materialen worden verwijderd. Het asbestinventarisatierapport is daarom van groot belang voor het zorgvuldig en hygiënisch verantwoord verwijderen van asbest. In deze paragraaf wordt aangegeven op welke wijze de resultaten van de asbestinventarisatie dienen te worden gerapporteerd. Voor minder omvangrijke asbestinventarisaties dient eenzelfde model te worden gehanteerd.
 
-De rapportage Asbestinventarisatie Type-G dient naast hetgeen is aangegeven bij Asbestinventarisatie Type-A, de volgende onderdelen te bevatten:
+Dit omvat de inventarisatie van direct waarneembaar asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object. Bij de inventarisatie kan gebruik worden gemaakt van handgereedschap (zonder of met licht destructief onderzoek).
 
 ### 7.6.3. Werken met asbest
 
-In een inventarisatie dient al het aanwezige asbest geïnventariseerd te worden. De asbestinventariseerder zal niet zonder reden zijn onderzoek mogen beperken. Indien werkzaamheden op een bepaalde plek verricht moeten worden, zal de inventariseerder daar moeten inventariseren. Indien de inventarisatie niet volledig is, bestaat het risico dat de verwijderaar of de aannemer tijdens zijn werkzaamheden onverwacht asbest tegenkomt. Vaak is dit al beschadigd tegen de tijd dat wordt ontdekt dat het om asbest gaat, zodat er al asbestemissie en blootstelling aan asbestvezels heeft plaatsgevonden. Het is nu juist de bedoeling dat dit soort verrassingen worden voorkomen door een volledig en diepgaand onderzoek door de inventariseerder.
+Indien relevant voor het bouwwerk of object wordt tevens een opsomming gegeven van de vermoedelijk niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in het bouwwerk of object, waarop in tweede instantie een aanvullende inventarisatie (Type B) uitgevoerd zal moeten worden. Deze bevinding dient in de samenvatting van het rapport te worden aangegeven. Het inventarisatierapport Type-A zal kunnen dienen als basis voor de aanvraag van een omgevingsvergunning. Dit rapport dient tenminste de volgende elementen te bevatten:
 
-### 7.7. Documentatie-eisen
+### 7.17.2.1. Titelblad
 
-Verplicht is onderstaande classificatie aanvullend op de titelpagina op te nemen.
+Waarop is vermeld:
 
-Indien de verwijderaar afwijkt van de werkwijze die in het rapport wordt omschreven, zal hij zelf moeten bepalen of dit gevolgen heeft voor de risicoklasse-indeling. Hierbij geldt de risicoklasse-indeling uit het rapport nog steeds als ondergrens.
+**Risicobeoordeling**
 
-### G. Overtredingen van normen met betrekking tot de deskundigheid/kennis/certificatie van werknemers
+### 7.17.2.2. Samenvatting
 
-Het feit dat er geen gecertificeerde DTA-er is geregeld, betekent dat de werkgever de werkzaamheden in strijd met de wet en schema’s heeft gepland. Gezien het belang van de DTA-er om toezicht te houden op de werknemers en op te treden bij (onvoorziene) problemen, betekent dit dat het certificaat geschorst (herstelsanctie en ordemaatregel) te worden.
+Een omschrijving van de gebruikte onderzoeksmethoden.
 
-### 7.17.2.6. Indeling in risicoklassen bij verwijdering
+### 7.17.2.5. Resultaten
 
-### 7.17.3. Aanvullend inventarisatierapport Type-B
+### 7.17.2.8. Bijlagen bij het inventarisatierapport
 
 Het asbestinventarisatierapport Type-B is het resultaat van de aanvullende inventarisatie van alle redelijk veronderstelde niet-direct-waarneembare asbest en asbesthoudende producten etc. die direct voorafgaand aan de bouwkundige sloop met destructief onderzoek zijn opgespoord en waarbij de bouwkundige integriteit van een gebouw of constructie is aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk).
 
 ### 7.9.4.2. Directievertegenwoordiger
 
-Het asbestinventarisatierapport Type-B vormt een aanvulling op het asbestinventarisatierapport Type-A.
+De directe aanleiding tot een dergelijke inventarisatie is de vaststelling, tijdens inventarisatie Type-A (zie par. 3.4), van het redelijke vermoeden van in het bouwwerk of object niet-direct-waarneembare asbest en asbesthoudende producten.
 
 De auteurs van de elkaar opvolgende versies van het inventarisatierapport
 
@@ -24468,23 +24458,23 @@ De auteurs van de elkaar opvolgende versies van het inventarisatierapport
 
 ### 7.10. Directiebeoordeling
 
-De regelgeving kent een aantal verplichtingen om werkzaamheden te melden. De achtergrond van deze meldingsplichten is dat de betreffende instantie een inspectie kan uitvoeren. Een dergelijke inspectie kan bestaan uit het ter plekke een onderzoek verrichten, maar bijvoorbeeld ook gaan om het opvragen van stukken, zoals het asbestinventarisatierapport, om te de juistheid en volledigheid hiervan te controleren. Het doel is om tot effectief toezicht te komen. Indien de werkzaamheden niet tijdig worden gemeld, kan de certificaathouder een controle voorkomen en hierdoor overtredingen verbergen.
+Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te verlenen in combinatie met de eventuele publicatie van het certificaat met opname in het Ascert Register.
 
-### 7.10.2. Input voor de beoordeling
+### 8.1. Tijdsbesteding bij de beoordelingen
 
-De input voor de directiebeoordeling moet informatie bevatten over:
+De aangegeven tijdsbesteding is een richtlijn; de tijdseenheden zijn inclusief rapportage.
 
-### 7.10.3. Output van de beoordeling
+### 8.2. Combinatie met beoordelingen voor andere certificatieschema’s
 
-Het niet zelf uitvoeren van de werkzaamheden leidt niet direct tot blootstelling of het verhogen van het risico. Voorwaardelijke intrekking is aanvaardbaar. Het bedrijf dat uitbesteedt, blijft bij inlenen of uitbesteden ten volle zelf verantwoordelijk. Zij zal (mede) worden aangesproken als een bedrijf aan wie (een deel van) de werkzaamheden zijn uitbesteed een fout maakt. Indien er sprake is van een overtreding door het bedrijf aan wie werkzaamheden zijn uitbesteed, wordt dit beschouwd als een overtreding door de uitbestedende certificaathouder. Dit ongeacht of degene aan wie is uitbesteed gecertificeerd is.
+De CKI dient in geval van het combineren van beoordelingen, met de beoordelingsrapportage aannemelijk en aantoonbaar te kunnen maken, dat bij beoordeling per vestiging de minimale vereisten van SC-540 gedurende de certificatieperiode worden onderzocht. Beoordelingen op projectlocaties staan op zichzelf en dienen conform het bepaalde in par. 5.2.2 uitgevoerd te worden.
 
-### 9.1. Certificaatgegevens
+### 9. Het certificaat
 
-Gegevens van de certificaathouder:
+Het certificaat dient minimaal de navolgende gegevens te bevatten (zie SC-530 Bijlage E).
 
 ### 7.11.2. Personeel
 
-### 7.11.2.2. Medische keuring/blootstellingsregistratie
+### 9.2. Gebruik van het certificaat
 
 De CKI registreert maandelijks de actuele gegevens in het systeemcertificaat. Conform de overeenkomst met Ascert worden de gegevens elektronisch verzonden aan Bureau Ascert ten behoeve van het Ascert Certificaatregister. Het intrekken van certificaten dient door de CKI onmiddellijk te worden doorgegeven aan Ascert. Dit register wordt via internet toegankelijk gemaakt, binnen de wettelijke kaders.
 
@@ -24492,73 +24482,73 @@ Voorwaardelijke intrekking volstaat, omdat het gebrek aan een plan nog niet tot 
 
 Een plan dat niet wordt gevolgd, kan net zo goed niet zijn opgemaakt.
 
-### 1. Algemeen
+### Verplichtend karakter
+
+Motivatie voor deze regeling is dat het bedrijf alleen asbesthoudende producten mag inventariseren, indien het bedrijf in het bezit is van het Ascert-Procescertificaat Asbestinventarisatie. Namens het bedrijf verzoekt de CKI hiervoor bij Ascert schriftelijk om toestemming. Bij dit verzoek wordt overlegd:
 
 Op grond van de volgende criteria dient Ascert schriftelijke toestemming op de aanvraag gegeven te hebben:
-
-Indien de overlegde omschrijvingen aan de voorwaarden voldoen, verstrekt Ascert schriftelijk toestemming voor het uitvoeren van omschreven projecten. Ascert zendt de toestemming rechtstreeks naar de certificatie-instelling, die dit vervolgens doorzendt naar het asbestverwijderingsbedrijf.Het asbestinventarisatiebedrijf zorgt dat de Ascert-toestemming op het werk aanwezig is, zodat die op eerste verzoek kan worden getoond.
 
 ### 7.12.2.3. Communicatie met de opdrachtgever
 
 ### Deel I. Algemene bepalingen
 
-Bureau Ascert
+Stichting Certificatie Asbest
 
 ### 1. Inleiding
 
-hierna te noemen certificaathouder verklaren het volgende te zijn overeengekomen:
+De certificatie-instelling ..... gevestigd te ....., ten deze vertegenwoordigd door ....., directeur, hierna te noemen de instelling en de houder van het procescertificaat conform SC-540, in beheer bij Stichting Ascert:
 
-### Artikel 2. Plichten:
+### Artikel 1. Rechten te ontlenen aan het Ascert Procescertificaat Asbestinventarisatie:
 
-### Artikel 4. Beëindiging van de overeenkomst:
+### Artikel 3. Voorwaarden voor Ascert Procescertificatie Asbestinventarisatie:
 
 De certificatieovereenkomst zal door de certificatie-instelling beëindigd worden, met tegelijkertijd intrekking van het certificaat, indien:
 
-Een passende registratie van asbestverwijderingswerkzaamheden (conform de werkvoorschriften), van de gebruikte middelen, van de uitrusting en van alle betrokken personen, moet zorgvuldig worden bijgehouden in een projectgebonden logboek.
+De certificatieovereenkomst zal door de certificatie-instelling beëindigd worden, met tegelijkertijd intrekking van het certificaat, indien:
 
-### 7.12.4.2. Eigendom van de opdrachtgever
+### Artikel 5. Klachten
 
-Het asbestverwijderingsbedrijf moet zorgvuldig omgaan met eigendom van de opdrachtgever wanneer dit door het asbestverwijderingsbedrijf wordt beheerd of gebruikt. Het asbestverwijderingsbedrijf moet eigendom van de opdrachtgever dat deel uit maakt van het asbestverwijderingswerk identificeren, verifiëren, beschermen en bewaren. Indien enig eigendom van de opdrachtgever verloren gaat, beschadigd wordt of anderszins ongeschikt geacht wordt voor gebruik, dan moet dit worden gerapporteerd aan de opdrachtgever en moeten registraties daarvan worden bijgehouden.
+Klachten en de eventuele verzoeken tot herziening dienen te worden worden afgehandeld conform SC-540 par. 4.3 en par.4.4.
 
-### 7.12.5. Beheersing van bewakings- en meetapparatuur
+### Artikel 6. Aansprakelijkheid
 
-Aldus in tweevoud opgemaakt en ondertekend,
+De certificatie-instelling is niet aansprakelijk voor schade als gevolg van het gebruik van het procescertificaat.
 
-### 3.3. Risicoanalyse en afbreukcriteria
+### Wenken voor de opdrachtgever
 
-De onder de punten 1 t/m 3 genoemde personen kunnen opdrachtgever zijn voor zowel de asbestinventarisatie, de asbestverwijdering, als de eindbeoordeling. Hij hoeft niet perse opdrachtgever te zijn voor de eindbeoordeling. Dit kan hij overlaten aan het verwijderingsbedrijf, hetgeen ook logisch is.
+Asbestverwijdering is onderhevig aan een gemeentelijke vergunning. Aan de vergunning ligt een asbestinventarisatierapport ten grondslag. Wie kan een vergunning aanvragen en wordt daarmee de houder van de vergunning?
 
 ### 4.1. Doelstelling
 
-### 7.13.5.1. Continue verbetering
+### 2. [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
 
-Vervolgens verstrekt de CKI informatie over de gang van zaken bij de afhandeling van de aanvraag.
+De verantwoordelijkheid van de opdrachtgever voor de juiste papieren (inventarisatierapport en omgevingsvergunning) op het werk vindt zijn wettelijke basis in [Par. 2, Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5) en [Par. 4, Artikel 10 van het Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10). De door de opdrachtgever in te schakelen bedrijven voor asbestinventarisatie, asbestverwijdering en eindbeoordeling kunnen het werk alleen verrichten, wanneer zij in het bezit zijn van de wettelijk verplichte certificatie, respectievelijk accreditatie, vermeld in [art. 4.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a), [4.54d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) en [4.55a van het Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.55a) / [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316).’
 
-### 4.3. Procedures
+### 3. Asbestinventarisatierapport
 
-lid b: degene die geheel of gedeeltelijk doet (laat) afbreken of uit elkaar nemen (= dus de opdrachtgever)
+[Art. 3-1-b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3):
 
-[Art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5) zijn heel duidelijk: De opdrachtgever beschikt over een inventarisatierapport en geeft een afschrift van dat rapport aan degene die het asbest verwijdert. Hoe de opdrachtgever aan dat rapport komt, staat niet vermeld. Hij moet er gewoon over beschikken, dus het zelf regelen. Zie ook [art. 4.54a-1 t/m 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a) en [4.54d-5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) (toevoeging aan [Arbo-besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)).
+Conclusie:
 
 ### 4.3.4. Meerdere filialen/vestigingen
 
-[Par. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4) – Bouwwerken
+[Artikel 4.54d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d). Asbestverwijdering
 
-Het is verboden om een bouwwerk te slopen zonder of in afwijking van de vergunning van B&W. Bij een aanvraag om een omgevingsvergunning moet een inventarisatierapport worden overlegd ([art. 10j](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10)).
+[Art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10):
 
 Vaste deel van de aarde, grond en grondwater, met minder dan 20% puin. Ophooglagen en (half)verhardingslagen behoren niet tot de bodem.
 
-Indien de kandidaat wiens beoordeling is afgebroken opnieuw het certificaat wil verwerven, dienen alle stappen van de beoordeling opnieuw te worden doorlopen.
+Alleen de verdachte bodemlaag hoeft niet te worden onderzocht.
 
 Op het verrichten van onderzoek naar asbest in de bodem is het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) en de onderliggende [Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085) van toepassing. Daaruit volgt dat bodemonderzoek in de meeste gevallen dient plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 2000 en bij asbest het onderzoek volgens protocol 2018 wordt uitgevoerd. Daarin is de NEN 5707 overigens verwerkt. Indien uit een dergelijk onderzoek blijkt dat sprake is van een ernstig geval van bodemverontreiniging (asbestconcentratie in de bodem boven de restconcentratienorm / interventiewaarde bodem), dient de bodemsanering plaats te vinden door een erkende bodemintermediair volgens de BRL SIKB 7000.
 
 Indien de melding als bedoeld in [artikel 4.47c, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47c) schriftelijk wordt verricht, wordt hij als tijdig beschouwd als de melding van de in dit artikel genoemde gegevens schriftelijk wordt gedaan, uiterlijk vijf werkdagen voor het tijdstip dat met de werkzaamheden wordt begonnen. In afwijking daarvan kan bij spoedgevallen worden volstaan met een melding met een uiterste termijn van twee werkdagen voor het tijdstip dat met de werkzaamheden wordt begonnen. Indien de melding elektronisch wordt verricht, wordt hij als tijdig beschouwd, als de melding wordt gedaan uiterlijk twee werkdagen voor het tijdstip dat met de werkzaamheden wordt begonnen. Als asbest onverwacht wordt aangetroffen tijdens een sloop of bij calamiteiten, kan worden volstaan met een onmiddellijke melding. Indien dit laatste betekent dat de melding buiten kantooruren zou moeten plaatsvinden, dient deze te geschieden direct bij het begin van de eerstvolgende werkdag.
 
-### 7.14.6. Geldig persoonscertificaat
+### Bijlage I-1
 
-### Bijlage I-2. Voorbeeld risicoklassificatie
+### Bijlage I-2
 
-**(geautoriseerde gebruiker)**
+Vervallen.
 
 ### Bijlage J. Maatregelen algemeen (v)
 
@@ -27219,11 +27209,11 @@ Intrinsieke kenmerken:
 
 ### 6.4.13. **Beheersing van ongevallen en incidenten**
 
-### 4.11. Toezicht op de certificaathouder
+### Toelichting verplichte bronnen
 
 ### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
-### 4.14. Aanwijzingscriteria
+### Toelichting aanvullende bronnen
 
 ### 5. Toezicht
 
@@ -27241,11 +27231,11 @@ Intrinsieke kenmerken:
 
 ### 6.6.2.2. **Communicatie projectplan gemeente en opdrachtgever**
 
-### 4.1. Doelstelling
+### 6.6.2.2. **Communicatie projectplan gemeente en opdrachtgever**
 
 ### 4.2. Certificatieprocedure
 
-### 4.3. Certificatiebeslissing
+### 6.6.2.3. **Projectgebonden risico-evaluatie**
 
 ### 6.6.3. **Detectieonderzoek**
 
@@ -27261,9 +27251,9 @@ Intrinsieke kenmerken:
 
 ### 10.2. Beoordelingsmethode
 
-### 3. Werkveldspecifieke kenmerken
+### 2. Definities
 
-### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
+### 3.2. Actieve partijen
 
 ### 4. Eisen ten behoeve van de aanwijzing
 
@@ -27289,7 +27279,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 3.3. Risicoanalyse en afbreukcriteria
 
-### 3.1. Beschrijving schema
+### 4.4. Geldigheidsduur van het certificaat
 
 ### 3.4. Typering asbestinventarisatie
 
@@ -27297,11 +27287,11 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 3.4.6. Asbestrisicoclassificatiesysteem SMA-rt
 
-### 5.4.1. Beslotenheid van examens
+### 5.4. Eisen te stellen aan het examen
 
 ### 4.1. Doelstelling
 
-### 4.2. Certificatieprocedure
+### 5.5. Beheer itembank
 
 ### 6.3. De wijze van uitvoering van het toezicht
 
@@ -27325,7 +27315,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 5.5.2.3. Verzwaring
 
-### 5.5.4.2. Onderzoek door overheidsinstellingen
+### Certificatieschema
 
 ### Inhoud
 
@@ -27339,31 +27329,31 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 7.4.4. Plaatsvervanging
 
-### 7.5.5. Actualiseren van het kwaliteitssysteem
+### 4.3.1. Afhandeling aanvraag initiële certificatie
 
-### 7.5.6. Beheersing van documenten
+### 4.3.2. Aanvragen van een procescertificaat
 
 ### 4.3.3. Verloop toelatingsonderzoek
 
 ### 5.2.2. Beoordeling op locatie
 
-### 7.8.5. Beheer van de documentatie
+### 5.3. De wijze van uitvoering van het toezicht
 
 ### 5.5.2. Escalatieladder
 
 ### 7.9.2. Afwijkingen
 
-### 7.9.3. Voorbereiding
+### 5.5.2.2. Onderverdeling van afwijkingen
 
-### 7.9.4. Intact laten van de te inventariseren objecten
+### 5.5.3. Uitwerking afwijkingen per categorie inclusief onderverdeling
 
-### 7.10. Beheer van gegevens
+### 5.5.4. Sanctieprocedure
 
 ### 5.7. Criteria
 
-### 7.12. Uitbesteding
+### 6. Onderwerp van certificatie
 
-### 7.13. Samenwerking
+### 7.1.1. Asbestinventarisatiebedrijf of -concern
 
 ### 7.14. Eisen te stellen aan asbestinventarisatie
 
@@ -27371,21 +27361,21 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 7.14.3. Uitzonderingen
 
-### 7.14.4. Uitrusting en materialen
+### 7.1.4. Relaties met een moederorganisatie
 
-### 7.14.5.1. Inleiding
+### 7.1.7. Leverings-/contractvoorwaarden
 
 ### 7.4. Organisatie en management
 
 ### 7.4.3. Toezicht
 
-### 7.14.8. Type 0: Beperkte inventarisatie voorafgaand aan een risicobeoordeling
+### 7.4.4. Plaatsvervanging
 
 ### 7.5.7. Interne audits
 
-**Voorbeelden:**
+**Met betrekking tot de beheersing en borging van de totstandkoming van het asbestinventarisatierapport zijn collegiale toetsingen een mogelijkheid. Deze zouden als volgt kunnen worden uitgevoerd. Een tweede (doorgaans meer ervaren senior-) inspecteur voert, zonder voorkennis van de resultaten van de eerste inspecteur, op hetzelfde bouwwerk of object een inventarisatie uit. Door vergelijking van de werkwijze en resultaten kan een oordeel worden gevormd over de inventarisatie en de volledigheid waarmee een inventarisatie wordt uitgevoerd. Met name voor kleine inventarisatiebureaus is het ook mogelijk collega-bedrijven in te schakelen voor dergelijke intercollegiale toetsingen.**
 
-### 7.15.2. Het inventariseren van afzonderlijke bronnen of constructiedelen
+### 7.5.8. Interne beoordelaar
 
 ### 7.16. Het asbestinventarisatieplan
 
@@ -27397,13 +27387,13 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 7.17. Rapportage
 
-### 7.17.3. Aanvullend inventarisatierapport Type-B
+### 7.7.7. Tussentijdse controles
 
 ### 7.17.4. Evaluatieformulier als verplicht onderdeel van het inventarisatierapport
 
-### 8.1. Tijdsbesteding bij de beoordelingen
+### 7.7.11. Registratie van apparatuurgegevens
 
-### Informatief karakter
+### 7.8.5. Beheer van de documentatie
 
 ### 7.8.6. Beoordeling van de contracten
 
@@ -27413,7 +27403,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### Bijlage D. Model overeenkomst cki en certificaathouder (i)
 
-Toelichting:
+Het inventarisatiebureau moet vaststellen of alle noodzakelijke voorbereidingen aan het te inventariseren object zijn getroffen.
 
 ### Artikel 1. Rechten te ontlenen aan het Ascert Procescertificaat Asbestinventarisatie:
 
@@ -27423,77 +27413,77 @@ Toelichting:
 
 De certificatieovereenkomst zal door de certificatie-instelling beëindigd worden, met tegelijkertijd intrekking van het certificaat, indien:
 
-### Artikel 5. Klachten
+### 7.10.1. Registratiesysteem
 
-### Bijlage E. Ascert procescertificaat asbestinventarisatie (v)
+### 7.10.2.2. Inventarisatie gegevens
 
 Alle inventarisatierapporten moeten gedurende tenminste 10 jaar op een veilige plaats worden bewaard met inachtneming van de met de klant overeengekomen geheimhouding, tenzij de wet anders voorschrijft.
 
 ### 1. Algemeen
 
-### 3. Asbestinventarisatierapport
+### 7.11.4. Verbeteringen en aanvullingen
 
-Ontleend aan [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316), Stb. 704 d.d. 16-12-2005 en Stb. 87 d.d. 20-02-2006
+Correcties of toevoegingen aan een rapport moeten worden vastgelegd en onderbouwd met inachtneming van de in dit hoofdstuk omschreven eisen.
 
-lid b: degene die geheel of gedeeltelijk doet (laat) afbreken of uit elkaar nemen (= dus de opdrachtgever)
+Zie par. 7.17.
 
-[Art. 3-2-b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3):
+Het inventarisatiebureau moet alle gegevens betreffende competentie, certificatie/accreditatie etc. van haar toeleveranciers bijhouden in een register.
 
 Van een inventarisatiebureau wordt verwacht dat zij aantoonbaar actief participeert in het uitwisselen van ervaringen met collega-bedrijven en dat zij een bijdrage levert aan het proces van verbetering en standaardisatie.
 
 Indien bij de voorbereiding van het daadwerkelijk verwijderen het inventarisatierapport ouder is dan drie jaar, dan dient het inventarisatierapport getoetst te worden op de actualiteit. Veranderingen in het bouwwerk of object dienen dan te zijn beoordeeld op gevolgen voor de aanwezigheid van asbest, asbesthoudende producten etc. Deze dienen te zijn geregistreerd en te zijn toegevoegd aan het inventarisatierapport voordat verwijdering kan plaats vinden. In geval er geen veranderingen zijn, of veranderingen zonder gevolgen, dient dit eveneens te worden geregistreerd en te zijn toegevoegd aan het inventarisatierapport voordat verwijdering kan plaats vinden.
 
-**Deze termijn van drie jaar is ingevoerd om de opdrachtgever er op te duiden, dat veranderingen in de aard van gebouw door verbouwingen e.d. gevolgen kunnen hebben op de aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in bouwwerken en objecten. In SC-530 par 7.14.1 is aangegeven dat het opdrachtwervende asbestverwijderingsbedrijf de opdrachtgever dient te wijzen op de actualiteit van het asbestinventarisatierapport.**
+**Toelichting:**
 
 ### Bijlage G. Hoe te handelen bij incident (brand storm) (i)
 
-De risicobeoordeling en het asbestbeheersplan dienen te voldoen aan de NEN-EN-ISO/IEC 2991: 2005. In het asbestbeheersplan dienen ook de asbesthoudende toepassingen worden beschreven waarvan een ‘redelijk vermoeden’ bestaat, maar welke niet zonder destructief onderzoek vast te stellen zijn. Het asbestbeheersplan dient periodiek beoordeeld te worden op actualiteit. De frequentie daarvan dient omschreven te zijn in het asbestbeheersplan, waarbij voldaan wordt aan de eisen zoals gesteld in bijlage D van NEN-EN-ISO/IEC 2991: 2005. De normverwijzing BRL 5052 in de versie van 2005 moet gelezen worden als SC-540 en BRL 5050 als SC-530.
+Naast het in kaart brengen van de asbesthoudende toepassingen omvat een asbestinventarisatie Type G een risicobeoordeling met betrekking tot de gebruikssituatie en het opstellen van een asbestbeheersplan.
 
 Het redelijke vermoeden van niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten etc in een bouwwerk of object, vermeld in asbestinventarisatierapport Type-A, leidt tot een aanvullende inventarisatie.
 
-Van de ordemaatregel schorsing moet gebruik gemaakt worden wanneer doorwerken door de certificaathouder niet aanvaardbaar is. Schorsing is bijvoorbeeld aangewezen als er een asbestemissie heeft plaatsgevonden of het risico op een emissie sterk is toegenomen. Hierdoor heeft de certificaathouder het leven en gezondheid van mensen in gevaar gebracht.
+Niet-direct waarneembare asbest, asbesthoudende producten etc. worden in dat geval voorafgaand aan de bouwkundige sloop, wel of niet in samenwerking met het gecertificeerde asbestverwijderingsbedrijf (conform SC-530), met destructief onderzoek opgespoord (zie 3.4.3), waarbij de bouwkundige integriteit van een gebouw of constructie wordt aangetast (voorbeeld: in de fundering gegoten asbestcement leidingwerk). Het destructief onderzoek daarbij dient te geschieden onder het regime van SC-530. Het resultaat leidt tot een asbestinventarisatierapport Type-B als aanvulling op het asbestinventarisatierapport Type-A. Dit wordt door het asbestinventarisatiebedrijf ter beschikking gesteld via de opdrachtgever c.q. de houder van de omgevingsvergunning aan de vergunningverlener (gemeente).
 
-**Toelichting:**
+Buiten het kader van SC-540 kan voorafgaand aan uit te voeren risicobeoordelingen, conform NEN 2991, in gebouwen, constructies of objecten in bewoonde/gebruikte staat die niet zullen worden gesloopt, worden volstaan met een beperkte, uitsluitend op visueel onderzoek gebaseerde, inventarisatie van asbesthoudende materialen. Deze inventarisatie dient gerapporteerd te worden.
 
-De schorsing dient wel de mogelijkheid te geven dat de certificaathouder het eventuele gevaar dat is ontstaan kan opheffen en de situatie kan veiligstellen.
+**De uitvoering van een risicobeoordeling conform NEN 2991 valt, behoudens het bepaalde in 7.14.6.1 buiten het kader van deze SC-540. Het resultaat van een type 0 inventarisatie kan dan als startpunt dienen. Uiteraard wordt een Type-O inventarisatie uitsluitend uitgevoerd indien er voor het betreffende gebouw, constructie of object geen Type-A inventarisatie beschikbaar is, terwijl er redenen zijn om op korte termijn een NEN 2991 risicobeoordeling uit te voeren.**
 
-Categorie III – voorwaardelijke intrekking
+**Opmerkingen**
 
-### Handelen in de geest van een norm
+### 7.14.11. Monsterneming en analyse
 
-Van materialen waarin het asbest inhomogeen aanwezig is zoals vinyl vloerbedekkingtypen, Internitplaat, beglazingskit etc., dienen meerdere monsters op selectief verschillende toepassingslocaties te worden genomen. Zie ook par. 7.16.3.2: Eisen te stellen aan monsterneming. De genomen monsters dienen geanalyseerd te worden door een voor deze verrichting door de RvA geaccrediteerd laboratorium dat werkt conform NEN 5896: 2003 (zie www.rva.nl).
+Van elk type als asbestverdacht aangemerkt materiaal dient per onderzoeksproject door de inventariseerder tenminste één representatief monster te worden genomen. Ook indien het materiaal visueel als asbesthoudend wordt herkend. De monsterneming dient te voldoen aan de betreffende eisen uit NEN 5896: 2003.
 
 ### A. Overtreding van normen die de onafhankelijkheid en objectiviteit borgen
 
 ### B. Overtredingen van normen om de blootstelling van de werknemers voorkomen
 
-Deze groep bepalingen ziet op het voorkomen dat werknemers worden blootgesteld aan asbestvezels. Bij het verwijderen van asbest komen bij risicoklasse 2 en 3 asbestvezels vrij. Dit volgt uit de aard van deze risicoklasse. Ook degene die daadwerkelijk inventariseert zal vaak blootgesteld worden aan asbestvezels, bijvoorbeeld als het gaat om het inventariseren bij niet-hechtgebonden asbest of bij asbesthoudend materiaal dat beschadigd of verweerd is. De werknemer zal derhalve worden blootsgesteld aan asbestvezels en moet hiertegen beschermd worden. Het gaat dan bijvoorbeeld om maatregelen zoals:
+**In een grote hal met een staalconstructie waarop spuitasbest is aangebracht, bevinden zich winkels die afzonderlijk zijn verhuurd. Wanneer slechts een deel van de huurders opdracht geeft tot inventarisatie van de door hen gehuurde winkel, leidt dit tot een onvolledige inventarisatie die bovendien een onbetrouwbare basis vormt voor een omgevingsvergunning of een eventueel aansluitend uit te voeren risicobeoordeling conform NEN 2991. In dergelijke gevallen zal dus de eigenaar van het bouwwerk als (hoofd)opdrachtgever moeten optreden.**
 
 Het asbestinventarisatiebedrijf dient de opdrachtgever te verzoeken de relevante documenten en archieven beschikbaar te stellen waarin de toepassing van asbest en asbesthoudende producten is beschreven.
 
 ### C. Overtreding van normen om te voorkomen dat het asbest zich verspreid buiten de directe plek waar het gesaneerd wordt
 
-Deze groep bepalingen ziet er op dat wordt voorkomen dat asbestvezels buiten de directe ruimte/plek komen waar het asbest wordt verwijderd of de inventarisatie plaatsvindt. De wijze waarop de verspreiding van asbestvezels voorkomen moet worden, is afhankelijk van de werkwijze om het asbest te inventariseren of te verwijderen. Deze wijze wordt bepaald door de wet, de schema’s en de invulling in het werkplan.
+Daarnaast dient de opdrachtgever te worden verzocht de mogelijkheid te bieden (ex)werknemers te laten interviewen voor zover dat relevant is voor het onderzoek.
 
-De certificaathouder heeft een bron van besmetting naar buiten gebracht. Het gaat hier om zowel onverpakt materiaal als materiaal in open/beschadigde verpakking.
+Ter voorkoming van blootstelling of besmetting van de omgeving dienen bij de monsterneming de volgende voorzorgsmaatregelen in acht genomen te worden:
 
-Het is gebruikelijk om behalve een schriftelijke versie, ook een digitale versie van het rapport aan de opdrachtgever aan te bieden. De digitale kopie is beveiligd, zodat daarin geen veranderingen aangebracht kunnen worden (doorgaans een PDF-file). Desgewenst kunnen tabellen, tekeningen en andere bijlagen in het oorspronkelijke format (b.v. Word of Excel) worden meegeleverd, zodat een opdrachtgever deze kan gebruiken als basis voor een asbestbeheersplan. Wel moet daarbij duidelijk aan de opdrachtgever worden vermeld dat alle door hem aangebrachte veranderingen en/of toevoegingen niet meer onder verantwoordingen van het inventarisatiebureau vallen, tenzij deze gegevens door het inventarisatiebureau zijn gevalideerd. Dit geldt ook voor via het Internet werkende systemen van gegevensuitwisseling. Voor alle digitale systemen geldt dat deze afdoende beveiligd moeten zijn.
+Par. 7.17.4 geeft een evaluatieformulier dat altijd in het inventarisatierapport dient te worden opgenomen.
 
 Dit omvat de inventarisatie van direct waarneembaar asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object. Bij de inventarisatie kan gebruik worden gemaakt van handgereedschap (zonder of met licht destructief onderzoek).
 
-**Soort onderzoek**
+**Omvang onderzoek**
 
-Op grond van de arbeidsomstandighedenwetgeving dienen de werkzaamheden te worden verricht onder voortdurend toezicht van een DTA-er. De werkzaamheden dienen te worden verricht door personen met een DAV-certificaat. Door middel van deze certificaten wordt geborgd dat asbestverwijderingswerkzaamheden worden verricht door personen met voldoende deskundigheid en kennis van zaken. Bij onvoldoende kennis en deskundigheid bestaat het risico dat door (onbedoelde) fouten asbestvezels vrijkomen en zich verspreiden.
+Hierin zijn alle relevante uitkomsten van het onderzoek bondig samengevat. Tevens dient hier aangegeven te worden:
 
 Een omschrijving van de gebruikte onderzoeksmethoden.
 
 Asbest is dermate gevaarlijk voor werknemers en anderen dat iedere persoon die feitelijk asbestverwijderingswerkzaamheden verricht een minimale opleiding moet hebben en moet onderhouden. Dit wordt geborgd via het DAV-certificaat. De DAV-er moet weten wat de risico’s zijn, wat de rol is van de veiligheidsmaatregelen, wanneer hij de DTA-er moet inschakelen. In het kort: hij moet weten waar hij mee bezig is. De consequentie van het verrichten van asbestwerkzaamheden door ongecertificeerde personen moet zijn dat dit wordt beëindigd en dat er maatregelen worden getroffen om herhaling te voorkomen. Tot dan mag niet gewerkt worden. Dit betekent dat zowel geschorst moet worden als ordemaatregel als dat de sanctie van schorsing moet worden opgelegd totdat voldoende is gewaarborgd dat er niet weer een ongecertificeerd persoon asbestwerkzaamheden verricht.
 
-In het certificatiereglement is aangegeven op welke wijze een kandidaat een procescertificaat kan verwerven. Naast de procedurele gang van zaken zijn dat de vorm, aard en frequentie van de beoordelingen en rapportage daarvan op zowel de kantoorlocatie(s) als de projectlocaties. De besluitvorming het certificaat wel / niet te verlenen in combinatie met de publicatie van het certificaat met opname in het Ascert Register.
+De wijze waarop de certificatie-instelling de beoordelingen en controles uitvoert is als volgt elders in certificatieschema vastgelegd:
 
 Het certificaat dient minimaal de navolgende gegevens te bevatten (zie SC-530 Bijlage E).
 
-Overige gegevens certificaat:
+Gegevens van de CKI:
 
 ### 9.2. Gebruik van het certificaat
 
@@ -27511,29 +27501,29 @@ Afhandeling door Ascert:
 
 De certificatie-instelling ..... gevestigd te ....., ten deze vertegenwoordigd door ....., directeur, hierna te noemen de instelling en de houder van het procescertificaat conform SC-540, in beheer bij Stichting Ascert:
 
-### Artikel 3. Voorwaarden voor Ascert Procescertificatie Asbestinventarisatie:
+### Artikel 2. Plichten:
 
 **Dit procescertificaat bestaat uit twee bladzijden.**
 
 ### 3.2. Actieve partijen
 
-Binnen de Stichting Certificatie Asbest zijn met name actief:
+**Nadruk verboden Blad 1 van 2**
 
 ### 3.3.1. Algemeen
 
-Vanwege de goede eigenschappen is Asbest in het verleden veel gebruikt, bijvoorbeeld in gebouwen en woningen. Asbestvezels kunnen bij inademing echter diep in de longen doordringen en op termijn buikvlieskanker, longvlieskanker en asbestose (stoflongen) veroorzaken. Hieraan sterven jaarlijks in Nederland naar schatting zo'n 700 mensen. De termijn tussen blootstelling en ziek worden kan tientallen jaren duren. IenM is samen met SZW en VWS verantwoordelijk voor regelgeving over asbest. Bij activiteiten in het kader van de verwijdering van asbest is er een risico dat er asbestvezels in de ademzone van werknemers komen. Het aantal vezels tijdens de activiteiten is onderscheiden in drie afzonderlijke risicoklassen:
+**Nadruk verboden Blad 1 van 2**
 
-### 1. Algemeen
+### Informatief karakter
 
 De opdrachtgever heeft een wettelijke informatieplicht daar waar het gaat over de aanwezigheid van asbest in zijn bouwwerk/object, dat hij in eigendom / beheer heeft. Deze plicht heeft hij naar de gebruiker van het bouwwerk/object en zij die het bouwwerk/object respectievelijk onderhouden, renoveren, slopen of werkzaamheden erin uitvoeren.
 
-[Art. 3-1-b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3):
+[Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2) – Asbestinventarisatie
 
-ook hier wordt weer gesproken over degene die asbest doet (laat) verwijderen (= dus de opdrachtgever)
+[Art. 3-2-b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3):
 
 ### 4.3.2. Aanvragen van een procescertificaat
 
-[Art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=5)
+**.... beschikt over een asbestinventarisatierapport.**
 
 ### 4.3.3. Beperkte duur toelatingsbeoordeling
 
@@ -27541,7 +27531,7 @@ ook hier wordt weer gesproken over degene die asbest doet (laat) verwijderen (= 
 
 Na blijk van het voldoen aan genoemde voorwaarden stelt de CKI de aanvraag op voor elke projectlocatie die in de beoordeling van de kandidaat zal worden betrokken. Op grond van de volgende criteria dient Ascert schriftelijke toestemming op de aanvraag gegeven te hebben:
 
-### Definitie bodem
+### Informatief karakter
 
 ### 4.3.10. Gebruik van het certificaat
 
@@ -29660,7 +29650,7 @@ De exameninstelling beschikt over een kwaliteits- en procedurehandboek dat onder
 
 De duikervaring van de kandidaat ten aanzien van de entreecriteria en de toetstermen wordt mede beoordeeld aan de hand van gegevens uit het duikerlogboek. Het bijhouden van een duikerlogboek is op grond van [artikel 6.16 lid 5 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16) verplicht voor iedere persoon die duikarbeid heeft verricht. Het duikerlogboek maakt uitsluitend melding van uitgevoerde duikarbeid.
 
-Document: WDAT-VT-Personen: 2012, versie 01
+Document: WDAT-VT-Personen
 
 ### 6.1. Examenpersoneel
 
@@ -29762,7 +29752,7 @@ De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/
 
 Het beoordelen en aanwijzen van CKI’s voor persooncertificatie vindt plaats op basis van de NEN-EN-ISO/IEC 17024: 2003 en de IAF GD24 (hierna: NEN-EN-ISO/IEC 17024: 2003) en de eisen die gesteld worden aan de CKI op grond van aanwijzing (4.5). Hieronder volgt een werkveldspecifieke invulling van de NEN-EN-ISO/IEC 17024: 2003.
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en[artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2013-11-01&g=2013-11-01) Arboregeling. De CKI dient ten behoeve van de informatieverzameling kosteloos de navolgende zaken te realiseren:
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en[artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2014-01-01&g=2014-01-01) Arboregeling. De CKI dient ten behoeve van de informatieverzameling kosteloos de navolgende zaken te realiseren:
 
 De CKI moet op alle onderdelen van het schema wijzigingsvoorstellen kunnen doen en moet informatie verstrekken t.a.v. de WSCS persoonscertificatieschema’s TCVT. Deze voorstellen worden ingebracht in BHST en vervolgens in het CCvD vastgesteld en aan de Minister van SZW voorgelegd. Het is aan de Minister van SZW om de wijzigingsvoorstellen te beoordelen en eventueel te bekrachtigen. De CKI persoonscertificatie TCVT is verplicht als adviseur deel te nemen aan TCVT werkkamer 4 en de TCVT examencommissie.
 
@@ -30090,7 +30080,7 @@ Van de examinator wordt verwacht dat hij:
 
 De examinator moet per certificatieschema een door de exameninstelling voorgedragen en door de certificatie-instelling geaccepteerde deskundige zijn.
 
-Document: WSCS-VT Machinist Mobiele Torenkraan: 2012, versie 01
+Document: WSCS-VT Machinist Mobiele Torenkraan
 
 Onder beheer van:
 
@@ -30416,7 +30406,7 @@ Het theorie-examen wordt schriftelijk afgenomen en bestaat uit 50 meerkeuzevrage
 
 De maximale waardering voor de meerkeuzevragen is 50 punten (1 punt per goed antwoord). Een kandidaat is geslaagd indien hij 40 punten of meer heeft behaald en alle KO-vragen goed heeft beantwoord. Het resultaat wordt in een voldoende/onvoldoende tot uiting gebracht.
 
-Document: WSCS-VT Machinist Torenkraan: 2012, versie 01
+Document: WSCS-VT Machinist Torenkraan
 
 Onder beheer van:
 
@@ -30748,7 +30738,7 @@ De kandidaat wordt ingelicht welk type machine hij kan verwachten.
 
 Heeft de kandidaat instructie gehad over de machine waar examen mee wordt gedaan? Zo niet dan geen examen afnemen.
 
-Document: WSCS-VT Machinist Mobiele Kraan: 2012, versie 1
+Document: WSCS-VT Machinist Mobiele Kraan
 
 Onder beheer van:
 
@@ -31072,7 +31062,7 @@ Het theorie-examen wordt schriftelijk afgenomen en bestaat uit 50 meerkeuzevrage
 
 De volgende zaken komen op het praktijkexamen aan de orde:
 
-Document: WSCS-VT Machinist Grondverzetmachine met Hijsfunctie: 2012, versie 01
+Document: WSCS-VT Machinist Grondverzetmachine met Hijsfunctie
 
 **Onder beheer van:**
 
@@ -31738,7 +31728,7 @@ Op het certificaat dient vermeld te worden, dat de CKI verklaard dat de betreffe
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Verreiker Met Hijsfunctie
 
-Document: WSCS-VT Machinist Verreiker Met Hijsfunctie: 2012, versie 01
+Document: WSCS-VT Machinist Verreiker Met Hijsfunctie
 
 **Onder beheer van:**
 
@@ -32096,7 +32086,7 @@ Een kandidaat kan tot uiterlijk 6 maanden na het behalen van een voldoende resul
 
 Bij het praktijkexamen dient voor alle onderdelen een voldoende gehaald te worden. Elk onderdeel wordt beoordeeld aan de hand van een beoordelingsprotocol. Hierop is het algoritme van de handelingen die de kandidaat moet verrichten beschreven. Aan de verschillende handelingen zijn beoordelingscriteria toegevoegd en een puntenwaardering. Elk onderdeel kent zo een puntenwaardering die is vastgelegd op het beoordelingsprotocol. Om een voldoende te halen dient voor elk onderdeel minimaal 70% van de punten gescoord te worden en mag de kandidaat geen KO te hebben.
 
-Document: WSCS-VT Machinist Kleine Funderingsmachine: 2012, versie 01
+Document: WSCS-VT Machinist Kleine Funderingsmachine
 
 ## Bijlage XVIIh. behorend bij [artikel 7.7, tweede lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-01-01&g=2013-01-01), Arbeidsomstandighedenregeling
 
@@ -32610,31 +32600,31 @@ Intrinsieke kenmerken:
 
 ### Bijlage 2:. Bezwaarprocedure
 
-### Inleiding
+### Bijlage 2:. Bezwaarprocedure
 
 ### Werkwijze
 
-### Beslissing op het bezwaarschrift
+### Procedure
 
 ### De toetsing van examenpersoneel
 
 ### Bijlage 5:. Schema competentiegericht beoordelen
 
+### Bijlage 5:. Schema competentiegericht beoordelen
+
 ### Bijlage 6:. Competentieprofiel arbeidshygiënist
 
-### Inleiding
+### 1. **Algemene informatie**
 
-### 1.1. Beeld van de branche en het beroep
-
-### 2.1. Inleiding
+### 2. **Kerntaken**
 
 ### 2.2. Beschrijving van de kerntaken
 
-### 3. **Competenties**
+### 2.2. Beschrijving van de kerntaken
 
 ### 3.2. Algemene competenties
 
-### 3.3. Beroepsspecifieke competenties
+### 3.2. Algemene competenties
 
 ### Bijlage 8:. Overgangsregeling
 
@@ -32676,21 +32666,21 @@ Intrinsieke kenmerken:
 
 ### Procedure
 
-### Beslissing op het bezwaarschrift
+### Procedure
 
 ### Bijlage 4:. Eisen te stellen aan het examen
 
 ### Bijlage 5:. Schema competentiegericht beoordelen
 
-### Bijlage 6:. Competentieprofiel hogere veiligheidskunde
+### Bijlage 5:. Schema competentiegericht beoordelen
 
 ### Indeling van het competentieprofiel
 
 ### 2.2. Beschrijving van de kerntaken
 
-### 3.1. Inleiding
+### 3. **Competenties**
 
-### Inleiding
+### Bijlage 10:. Specialisatie van de hogere veiligheidskundige(toelichtend)
 
 ## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2013-11-01&g=2013-11-01)
 
@@ -32698,7 +32688,7 @@ Intrinsieke kenmerken:
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
-### 4.1. **Doelstelling**
+### 4. **Het certificatiereglement**
 
 ### 4.2. **Certificatieprocedure**
 
@@ -32724,7 +32714,7 @@ Intrinsieke kenmerken:
 
 ### Werkwijze
 
-### 2.1. Inleiding
+### 2. **Kerntaken**
 
 ### 3.2. Algemene competenties
 
@@ -32734,13 +32724,17 @@ Intrinsieke kenmerken:
 
 Vervallen
 
-## Bijlage IV. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01)
+## Bijlage III. behorend bij artikel 3.1
 
-De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01), betreft voor zover van toepassing:
+Vervallen
+
+## Bijlage IV. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01)
+
+De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01), betreft voor zover van toepassing:
 
 - a. een locatiekaart waarop de inter- en intrafieldpijpleidingen alsmede de onder water afgewerkte boorgaten zijn aangeduid;
 
-- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01);
+- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01);
 
 - c. voor- en zijaanzichten van het mijnbouwwerk;
 
@@ -32772,11 +32766,11 @@ De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/
 
 - r. de locatie van opslagplaatsen voor ontplofbare stoffen.
 
-## Bijlage V. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01)
+## Bijlage V. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01)
 
-De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01), betreft:
+De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01), betreft:
 
-- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
+- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
 
 - a. de plaatsen en ruimten waar stoffen, voor welke verhoogd brandgevaar bestaat, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen zomede de plaatsen en ruimten, waar stoffen, die direct of indirect gevaar voor ontploffing kunnen veroorzaken, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen, met de naaste omgeving daarvan;
 
@@ -32788,7 +32782,7 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - e. het globale aantal en de soort handbrandblusapparaten per ruimte; de plaatsen, waar pompen voor de bluswatervoorziening zijn opgesteld, de capaciteit van deze pompen, de plaatsen waar hydranten en brandslangen aanwezig zijn en brandslangen aan de bluswaterleiding kunnen worden aangesloten;
 
-- f. indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
+- f. indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
 
 - 2. de organisatie van de brandbestrijdingsdienst;
 
@@ -32798,11 +32792,11 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - 5. gegevens betreffende ademhalingsbeschermingsmiddelen voor de met het bestrijden van brand belaste personen.
 
-- 6. Indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) moet op de plattegrond, bedoeld in het eerste lid, onder a, bovendien zijn aangegeven de plaats, waar zich een brandweerkazerne bevindt, en moet het plan gegevens bevatten betreffende het aantal en soort van de grote mobiele brandbluseenheden in die kazerne.
+- 6. Indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) moet op de plattegrond, bedoeld in het eerste lid, onder a, bovendien zijn aangegeven de plaats, waar zich een brandweerkazerne bevindt, en moet het plan gegevens bevatten betreffende het aantal en soort van de grote mobiele brandbluseenheden in die kazerne.
 
-## Bijlage VI. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01)
+## Bijlage VI. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) betreft ten aanzien van:
 
 - A. het voorontwerprapport:
 
@@ -32878,9 +32872,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen dat de hoeveelheid koolwaterstoffen, toxische stoffen en chemische stoffen geminimaliseerd is.
 
-## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01)
+## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2013-11-01&g=2013-11-01), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2014-01-01&g=2014-01-01), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) betreft ten aanzien van:
 
 - A. het gedetailleerd ontwerp, opstarten en gebruik:
 
@@ -32906,7 +32900,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het evalueren van de bestaande systemen van toezicht ten aanzien van de werkzaamheden;
 
-- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2013-11-01&g=2013-11-01);
+- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2014-01-01&g=2014-01-01);
 
 - B. het addendum gebruik:
 
@@ -32928,9 +32922,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen.
 
-## Bijlage VIII. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2013-11-01&g=2013-11-01)
+## Bijlage VIII. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2014-01-01&g=2014-01-01)
 
-De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2013-11-01&g=2013-11-01), betreft:
+De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2014-01-01&g=2014-01-01), betreft:
 
 - a. een beschrijving van de organisatiestructuur van de werkgever en de en verantwoordelijke personen in geval van nood alsmede een overzicht van hun taken en bevoegdheden;
 
@@ -32952,7 +32946,7 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 - j. de te nemen maatregelen ter verzekering van de veiligheid en gezondheid van met reddingswerk belaste personen, met name met het oog op de aan het verrichten van reddingswerk in een atmosfeer, waarin verstikkende of giftige gassen aanwezig zijn, of in een met radioactieve stoffen besmette atmosfeer verbonden gevaren.
 
-## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2013-11-01&g=2013-11-01)
+## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2014-01-01&g=2014-01-01)
 
 **Veiligheids- en gezondheidsverklaring 10**
 
@@ -33206,13 +33200,11 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 Vervallen
 
-## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2013-11-01&g=2013-11-01)
-
-### 1.. **Inleiding**
+### **Inhoudsopgave**
 
 ### 2.. **Definities**
 
-### 3.1. **Beschrijving document**
+### 3.. **Werkveldspecifieke kenmerken**
 
 ### 4.2.1. **Kwalificaties lead auditor**
 
@@ -33230,7 +33222,7 @@ Vervallen
 
 ### Werkveldspecifiek certificatieschema voor het systeemcertificaat Opsporen Conventionele Explosieven
 
-### 3. **Werkveldspecifieke kenmerken**
+### 2. **Definities**
 
 ### 4.2.2. **Beoordeling van het managementsysteem en projectlocaties**
 
@@ -33242,13 +33234,13 @@ Vervallen
 
 ### 4.6. **Klachten**
 
-### 4.7.2.1. **Algemeen**
+### 4.7.2. **Werkwijze**
 
 ### 4.7.2.2. **Procedure**
 
-### 4.7.2.3. **Beslissing op het bezwaaarschrift**
+### 4.7.2.2. **Procedure**
 
-### 5.2.1. **Periodieke beoordeling**
+### 5.2. **Frequentie en wijze van uitvoering van het toezicht**
 
 ### 5.4. **Maatregelen**
 
@@ -33296,9 +33288,9 @@ Vervallen
 
 ### 8. Certificatiecriteria
 
-### 10. Toetsmethodiek bij Initiële certificatie
+### 9.3. Eindtermen pyrotechnische speciale effecten
 
-### 10.1.3. Toetstermen pyrotechnische speciale effecten
+### 10.1.2. Toetstermen groot vuurwerk
 
 ### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
 
@@ -33314,7 +33306,15 @@ Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheid
 
 De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
-## Bijlage XIII. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIc. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2014-01-01&g=2014-01-01)
+
+De grenswaarde voor een gevaarlijke stof geldt in beginsel alleen voor blootstelling aan de stof in zuivere vorm en is niet zonder meer van toepassing indien de stof een bestanddeel is van een mengsel van stoffen, waaraan blootstelling plaatsvindt of kan plaatsvinden.
+
+Het is mogelijk dat het gezondheidkundige gevolg van een dergelijk mengsel de som is van de afzonderlijke stoffen. Hiervan is sprake bij een mengsel van verschillende organische oplosmiddelen. Het is ook mogelijk dat bij een gecombineerde blootstelling het gezondheidkundige gevolg van de afzonderlijke stoffen aanzienlijk worden versterkt of verminderd.
+
+Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, wordt de beoordeling van het risico van blootstelling aan de voor elk van die stoffen vastgestelde grenswaarde als volgt uitgevoerd:
+
+De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
 ### **CAS-nummer**
 
@@ -33322,9 +33322,9 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie
 
-### Certificatieschema
+### Werkveldspecifiek certificatieschema voor het Procescertificaat Asbestinventarisatie
 
-### 2.2. Werkveldspecifieke definities
+### 2.1. Algemene definities
 
 ### 3.1. Beschrijving schema
 
@@ -33336,7 +33336,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ### 4.6. Geldigheidscondities
 
-### 4.9. Norminterpretatie
+### 4.8.2.4. Bestuursrechter
 
 ### 5.2.3. Rapportage door CKI over de beoordeling
 
@@ -33348,15 +33348,15 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 Indien blijkt dat een certificaathouder en de onder zijn verantwoordelijkheid voor te bereiden en uit te voeren processen niet of niet meer voldoen aan de eisen of normen in het werkveldspecifieke certificatieschema, dient de CKI de sancties die zijn voorgeschreven in dit schema op te leggen. Bij de constatering van de afwijkingen en de toepassing van sancties dient de CKI dwingend tabel 5.5.3 (Bijlage H) toe te passen.
 
-Indien bij een Categorie I of II afwijking wordt geconcludeerd dat een gecertificeerde DTA/DAV niet competent is, maakt de CKI-proces hier een afwijkingsrapport van op met zijn bevindingen en conclusie. De CKI-proces stuurt hiervan een afschrift aan de betreffende CKI-persoon.
+De CKI zal moeten vaststellen of er sprake is van een Categorie I, II, III of IV afwijking of dat er geen afwijking is. Hiervoor moet zij feiten vaststellen. De kaders daarvoor zijn:
 
 ### Deel II. Normen
 
-### 7.1.1. Asbestinventarisatiebedrijf of -concern
+### 7.1. Administratieve eisen
 
 ### 7.1.6. Aansprakelijkheidsverzekering
 
-### 7.3.1. Gegevens met betrekking tot gegevens van de opdrachtgever
+### 7.3. Geheimhouding
 
 ### 7.3.2. Gegevens bij normoverschrijdende asbestblootstelling
 
@@ -33390,11 +33390,11 @@ Het inventarisatiebureau moet beschikken over een systeem om contracten of opdra
 
 ### 7.8.9. Veiligheid
 
-### 7.9.1. Identificatie
+### 7.9. Behandeling van inventarisatieobjecten en materiaalmonsters
 
 Het inventarisatiebureau moet over een procedure beschikken en maatregelen nemen om te voorkomen dat het inspectieobject tijdens de inventarisatie wordt aangetast of beschadigd.
 
-**Toelichting:**
+Indien het bedrijf wordt beëindigd dienen de gegevens op een passende wijze met effectieve terugvindbaarheid te worden opgeslagen.
 
 Het werk dat door het inventarisatiebureau is uitgevoerd moet zijn vastgelegd in een inventarisatierapport, dat vervolgens aan de opdrachtgever wordt verstuurd. De aard van de inventarisatie, onderscheiden naar het rapport Type-A of Type-B moet expliciet in het rapport worden opgenomen.
 
@@ -33404,11 +33404,11 @@ Het werk dat door het inventarisatiebureau is uitgevoerd moet zijn vastgelegd in
 
 ### 7.14.3. Uitzonderingen
 
-De keus van gereedschap en materieel hangt af van de te onderzoeken objecten. In bijzondere gevallen en/of voor het uitvoeren van destructief onderzoek kan ander gereedschap en/of materieel nodig zijn. In het inventarisatieplan dient een lijst opgenomen te worden van te gebruiken uitrusting en materialen.
+Voor een grondig en effectief uit te voeren asbestinventarisatie zijn afhankelijk van de omstandigheden de hieronder opgesomde materialen en hulpmiddelen nodig. Voor bepaalde uitrustingsstukken is periodiek onderhoud en/of kalibratie vereist.
 
 Asbestinventarisatie geschiedt veelal in fasen, omdat vanwege gebruik of andere oorzaken, niet in één gang een allesomvattend onderzoek in het bouwwerk of object kan plaats vinden. Uiteindelijk dient alle aanwezige asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object volledig in kaart te zijn gebracht, geïdentificeerd en gekwantificeerd.
 
-**Toelichting:**
+Als deze inventarisatie leidt tot ‘een redelijk vermoeden’ op niet-direct waarneembare aanwezigheid van asbest, asbesthoudende producten, asbestbesmet materiaal of asbestbesmette constructieonderdelen in een bouwwerk of object, dan dient er een aanvullende inventarisatie (Type-B) te worden uitgevoerd.
 
 ### 7.14.7. Type B: Niet-direct waarneembare asbest, asbesthoudende producten etc.
 
@@ -33420,13 +33420,13 @@ Asbestinventarisatie geschiedt veelal in fasen, omdat vanwege gebruik of andere 
 
 ### 7.17.2. Inventarisatierapport Type-A, Type-B of Type-G
 
-### 7.17.2.4. Methoden
+### 7.17.2.3. Omschrijving van de opdracht
 
-### 7.17.2.7. Conclusies en aanbevelingen
+### 7.17.2.6. Indeling in risicoklassen bij verwijdering
 
 ### 7.17.4. Evaluatieformulier als verplicht onderdeel van het inventarisatierapport
 
-Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te verlenen in combinatie met de eventuele publicatie van het certificaat met opname in het Ascert Register.
+Tenslotte is aangegeven welke maatregelen de certificatie-instelling neemt in reactie op de geconstateerde bevindingen en de afhandeling daarvan door de certificaathouder. Daarin is voorzien de mogelijkheid van voortijdige intrekking van een procescertificaat na herhaald onvoldoende reageren van de certificaathouder binnen de certificatieperiode.
 
 ### 9.3. Ascert Certificaatregister
 
@@ -33434,11 +33434,11 @@ Tenslotte is vermeld de besluitvorming het certificaat wel / niet opnieuw te ver
 
 ### Bijlage A. Vervallen.
 
-### Bijlage C. Model aanvraag projecten voor initiële certificatie (v)
+### Informatief karakter
+
+Indien de CKI op één van de twee projecten tot het oordeel komt dat het asbestinventarisatiebedrijf niet voldoet aan de criteria die voor de praktijktoets gelden, kan Ascert, op schriftelijk verzoek van de CKI, voor de uitvoering van één extra te beoordelen project (met vergelijkbaar werk) schriftelijk toestemming geven.
 
 De verdere afhandeling van het certificatietraject is beschreven in SC-540 par 4.3.7
-
-De certificatie-instelling dient bij de opdracht tot initiële certificatie duidelijke, bindende afspraken te maken met het asbestinventarisatiebedrijf, in het geval het bedrijf niet blijkt te kunnen voldoen aan de praktijkeisen en de bedoelde projecten niet conform SC-540 afgehandeld kunnen worden.
 
 ### 2. Aanvraag
 
@@ -33448,17 +33448,17 @@ Hoogachtend,
 
 ### Bijlage D. Model overeenkomst cki en certificaathouder (i)
 
-### Informatief karakter
+### Bijlage D. Model overeenkomst cki en certificaathouder (i)
 
 ### Artikel 1. Rechten te ontlenen aan het Ascert Procescertificaat Asbestinventarisatie:
 
 ### Bijlage E. Ascert procescertificaat asbestinventarisatie (v)
 
-### Informatief karakter
+### Bijlage F. Verplichtingen opdrachtgever (i)
 
-[Art. 3-2-b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3):
+**.... beschikt over een asbestinventarisatierapport.**
 
-De houder van de omgevingsvergunning moet een afschrift van die vergunning ter hand stellen aan het bedrijf dat de sloop uitvoert.
+Het is verboden om een bouwwerk te slopen zonder of in afwijking van de vergunning van B&W. Bij een aanvraag om een omgevingsvergunning moet een inventarisatierapport worden overlegd ([art. 10j](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=10)).
 
 ### Bijlage G. Hoe te handelen bij incident (brand storm) (i)
 
@@ -33480,7 +33480,7 @@ Onder dit type vallen de normen die zien op de voorbereiding van de werkzaamhede
 
 Indien er al sprake is van bijzondere omstandigheden, zal dit niet snel leiden tot onevenredigheid. Het belang van het leven en de gezondheid van mensen en dat de overheid moet kunnen vertrouwen op de certificaathouder maakt dat in verreweg de meeste gevallen de gevolgen van de sancties evenredig zijn. Het belang van het bedrijf om ongestoord actief te zijn, geld te verdienen of zijn activiteiten voort te zetten is niet een belang dat afwijken van de lijst rechtvaardigt.
 
-## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2014-01-01&g=2014-01-01)
 
 Document: SC-530: 2011, versie 02
 
@@ -33800,7 +33800,7 @@ De CKI zal de certificaathouder van haar besluit met betrekking tot schorsen of 
 
 ### Bijlage A. Afwijkingen genoemd in bijlage H van SC 530 die direct telefonisch aan de Inspectie SZW moeten worden gemeld
 
-## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2013-11-01&g=2013-11-01)
+## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2014-01-01&g=2014-01-01)
 
 ### 3. **Werkveldspecifieke kenmerken**
 
@@ -35263,7 +35263,7 @@ De maximale tijd om het theorie-examen af te leggen bedraagt 90 minuten.
 
 ### 10.3. Cesuur
 
-Document: WSCS-VT Machinist Autolaadkraan: 2012, versie 01
+Document: WSCS-VT Machinist Autolaadkraan
 
 3990 DD Houten
 
@@ -36213,7 +36213,7 @@ Een asbestverwijderaar mag niet aan zijn werkzaamheden beginnen zonder een deugd
 
 ### G. Overtredingen van normen met betrekking tot de deskundigheid/kennis/certificatie van werknemers
 
-## Bijlage XIIIc. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIIc. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2014-01-01&g=2014-01-01)
 
 ### Deel I. Algemene bepalingen
 
@@ -36227,7 +36227,7 @@ Een asbestverwijderaar mag niet aan zijn werkzaamheden beginnen zonder een deugd
 
 ### Bijlage B. Minimale gegevens dta kaart (v)
 
-## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2014-01-01&g=2014-01-01)
 
 ### Deel I. Algemene bepalingen
 
@@ -36261,7 +36261,7 @@ BANKPAS formaat
 
 ### Artikel 5. Klachten en verzoek tot herziening
 
-## Bijlage XIIIe. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIIe. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2014-01-01&g=2014-01-01)
 
 ### 1. Inleiding
 
@@ -36271,7 +36271,7 @@ BANKPAS formaat
 
 ### 4.5.6. Wa verzekering
 
-## Bijlage XIIIf. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2013-11-01&g=2013-11-01)
+## Bijlage XIIIf. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2014-01-01&g=2014-01-01)
 
 ### Werkveldspecifiek document voor Aanwijzing en Toezicht op de certificatie-instellingen voor Deskundig Toezichthouder Asbestverwijdering (DTA) en Deskundig Asbestverwijderaar (DAV)
 
@@ -36297,11 +36297,11 @@ Hercertificatie is geheel overeenkomstig de initiële certificatie.
 
 De aangewezen CKI moet zich aantoonbaar laten vertegenwoordigen in het Ascert CKI-overleg en de afspraken uit het overleg daadwerkelijk nakomen.
 
-## Bijlage XIIIg. behorend bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.29&z=2013-11-01&g=2013-11-01) Arbeidsomstandighedenregeling
+## Bijlage XIIIg. behorend bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.29&z=2014-01-01&g=2014-01-01) Arbeidsomstandighedenregeling
 
 ### Artikel 7:. melding door de Inspectie SZW aan de Certificerende Instelling van overige overtredingen
 
-## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2013-11-01&g=2013-11-01)
+## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2014-01-01&g=2014-01-01)
 
 | Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
 | --- | --- |
@@ -36323,7 +36323,7 @@ De aangewezen CKI moet zich aantoonbaar laten vertegenwoordigen in het Ascert CK
 | Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
 | VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
 
-## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2013-11-01&g=2013-11-01)
+## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2014-01-01&g=2014-01-01)
 
 | **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
 | --- | --- |
@@ -36342,7 +36342,7 @@ De aangewezen CKI moet zich aantoonbaar laten vertegenwoordigen in het Ascert CK
 
 ### 3.2. **Actieve partijen**
 
-## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2014-01-01&g=2014-01-01)
 
 ### 4. **Certificatiereglement**
 
@@ -36358,7 +36358,7 @@ Het certificatieschema beschrijft de eisen die gesteld worden aan:
 
 ### 13. **Geldigheidscondities**
 
-## Bijlage XVIb. behorend bij [Artikel 6.5, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIb. behorend bij [Artikel 6.5, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2014-01-01&g=2014-01-01)
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider
 
@@ -36394,7 +36394,7 @@ Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te
 
 ### 10.2. **Beoordelingsmethode**
 
-## Bijlage XVIc. behorend bij [Artikel 6.5, 3e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIc. behorend bij [Artikel 6.5, 3e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2014-01-01&g=2014-01-01)
 
 ### 4.1. **Doelstelling**
 
@@ -36448,7 +36448,7 @@ De kandidaat is vakbekwaam in het verrichten van duikarbeid in **categorie B3**,
 
 ### 11.3. **Cesuur van de beoordeling**
 
-## Bijlage XVId. behorend bij [Artikel 6.5, 4e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2013-11-01&g=2013-11-01)
+## Bijlage XVId. behorend bij [Artikel 6.5, 4e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2014-01-01&g=2014-01-01)
 
 ### 1. **Inleiding**
 
@@ -36502,7 +36502,7 @@ Voor de certificatie van beperkte duikmedisch begeleiding (WSCS-WOD-B-B1) met be
 
 Op het certificaat wordt de tekst opgenomen dat de certificerende instelling verklaart dat de betreffende persoon voldoet aan eisen van het normdocument WSCS-WOD-B Persoonscertificaat duikmedisch begeleider en dientengevolge als vakbekwaam als duikmedisch begeleider in de categorie die wordt vermeld op certificaat.
 
-## Bijlage XVIe. behorend bij [Artikel 6.6, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIe. behorend bij [Artikel 6.6, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2014-01-01&g=2014-01-01)
 
 ### **Inhoudsopgave**
 
@@ -36600,7 +36600,7 @@ Op het certificaat wordt de tekst opgenomen dat de CKI verklaart dat de betreffe
 
 Indien niet voldaan wordt aan deze condities kan het certificaat worden geschorst of ingetrokken.
 
-## Bijlage XVIf. behorend bij [Artikel 6.6, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIf. behorend bij [Artikel 6.6, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2014-01-01&g=2014-01-01)
 
 ### **Inhoudsopgave**
 
@@ -36680,7 +36680,7 @@ Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
 
 De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-## Bijlage XVII. behorend bij [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01)
+## Bijlage XVII. behorend bij [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01)
 
 ### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op de certificatie- en keuringsinstellingen die: personen certificeren in het kader van verticaal transport
 
@@ -36748,7 +36748,7 @@ Indien kandidaten problemen hebben met een schriftelijk theorie-examen kan in ee
 
 ### 8. Diversen
 
-## Bijlage XVIIa. behorend bij [artikel 7.7, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIa. behorend bij [artikel 7.7, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Mobiele Torenkraan
 
@@ -36834,7 +36834,7 @@ Op het certificaat dient vermeld te worden, dat de CKI verklaard dat de betreffe
 
 De houder van het certificaat dient misbruik van het certificaat door derden tegen te gaan en vermissing van dit certificaat schriftelijk binnen 10 dagen aan de certificatie-instelling te melden. De houder van het certificaat machinist verticaal transport is verplicht veranderingen van woonplaats en huisadres schriftelijk te melden aan de certificatie-instelling. De houder van het certificaat machinist verticaal transport dient door derden tegen hem/haar ingediende klachten, die met de strekking van dit certificaat verband houden, te melden aan de certificatie-instelling die het betreffende certificaat heeft afgegeven.
 
-## Bijlage XVIIb. behorend bij [artikel 7.7, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIb. behorend bij [artikel 7.7, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Torenkraan
 
@@ -36898,7 +36898,7 @@ Wanneer door omstandigheden het persoonscertificaat van de machinist is verlopen
 
 ### 12. Het certificaat
 
-## Bijlage XVIIc. behorend bij [artikel 7.7, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIc. behorend bij [artikel 7.7, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema personen: voor het persoonscertificaat Machinist Mobiele Kraan
 
@@ -36966,7 +36966,7 @@ Minimaal dienen de volgende gegevens op het certificaat vermeld te zijn:
 
 ### 13. Geldigheidscondities
 
-## Bijlage XVIId. behorend bij [artikel 7.7, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIId. behorend bij [artikel 7.7, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Grondverzetmachine met Hijsfunctie
 
@@ -37022,7 +37022,7 @@ Het resultaat van zowel het theorie- als het praktijkexamen wordt in voldoende/o
 
 ### 11. Hercertificatie
 
-## Bijlage XVIIe. behorend bij [artikel 7.7, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIe. behorend bij [artikel 7.7, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Autolaadkraan
 
@@ -37108,7 +37108,7 @@ Op het certificaat dient vermeld te worden, dat de CKI verklaard dat de betreffe
 
 ### 13. Geldigheidscondities
 
-## Bijlage XVIIf. behorend bij [artikel 7.7, tweede lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIf. behorend bij [artikel 7.7, tweede lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### 1. Inleiding
 
@@ -37174,7 +37174,7 @@ Indien de houder niet kan aantonen over voldoende praktijkervaring te beschikken
 
 De houder van het certificaat machinist verticaal transport is verplicht veranderingen van woonplaats en huisadres schriftelijk te melden aan de certificatie-instelling.
 
-## Bijlage XVIIg. behorend bij [artikel 7.7, tweede lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIg. behorend bij [artikel 7.7, tweede lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Machinist Kleine Funderingsmachine
 
@@ -37230,13 +37230,13 @@ Het resultaat van zowel het theorie- als het praktijkexamen wordt in voldoende/o
 
 Op het certificaat dient vermeld te worden, dat de CKI verklaard dat de betreffende persoon voldoet aan de eisen uit het werkveldspecifieke certificatieschema en indien relevant of het ging om een hercertificatie.
 
-## Bijlage XVIIh. behorend bij [artikel 7.7, tweede lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2013-11-01&g=2013-11-01), Arbeidsomstandighedenregeling
+## Bijlage XVIIh. behorend bij [artikel 7.7, tweede lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2014-01-01&g=2014-01-01), Arbeidsomstandighedenregeling
 
-Document: WSCS-VT Machinist Grote Funderingsmachine: 2012, versie 01
+Document: WSCS-VT Machinist Grote Funderingsmachine
 
 ### 1. Inleiding
 
-Het certificatiesysteem van de certificatie-instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de WDAT-VT-Personen: 2012, versie 1 in het kader van verticaal transport.
+Het certificatiesysteem van de certificatie-instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de WDAT-VT-Personen in het kader van verticaal transport.
 
 ### 2. Definities
 
@@ -37398,7 +37398,7 @@ Op het certificaat dient vermeld te worden, dat de CKI verklaard dat de betreffe
 
 Deze condities dienen te zijn opgenomen in de certificatieovereenkomst tussen certificatie instelling en certificaathouder.
 
-## Bijlage XVIII. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2013-11-01&g=2013-11-01)
+## Bijlage XVIII. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2014-01-01&g=2014-01-01)
 
 Intrinsieke kenmerken:
 
@@ -37430,7 +37430,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2013-11-01&g=2013-11-01)
+## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2014-01-01&g=2014-01-01)
 
 | **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
 | --- | --- | --- |
@@ -37461,3 +37461,331 @@ Intrinsieke kenmerken:
 | GEVAAR | ﻿Beide handen opgeheven, handpalmen naar voren |   |
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
+
+##### Artikel 1.9da. Geldigheidsduur erkenning beroepskwalificaties
+
+1. Een certificaat van vakbekwaamheid dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven of dat op grond van [artikel 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2014-01-01&g=2014-01-01) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2014-01-01&g=2014-01-01) is afgegeven voor tijdelijke en incidentele dienstverrichting, heeft een geldigheidsduur die gelijk is aan de geldigheidsduur van een persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) vereist is voor de uitoefening van hetzelfde beroep.
+
+2. De geldigheid van de in het eerste lid bedoelde certificaten van vakbekwaamheid kan worden beëindigd of beperkt naar aanleiding van controles die zijn uitgevoerd in het kader van toezicht.
+
+### Hoofdstuk 2. Aanvullende voorschriften risico-inventarisatie en -evaluatie, deskundigen en arbodiensten
+
+#### Paragraaf 2.3. Certificatie
+
+### Hoofdstuk 3. Winningsindustrieën met behulp van boringen
+
+#### Paragraaf 3.1. Bouwproces
+
+#### Paragraaf 3.2. Winningsindustrieën met behulp van boringen
+
+### Hoofdstuk 4. Veiligheid tankschepen en gevaarlijke stoffen
+
+#### Paragraaf 4.1. Veiligheid aan op of in tankschepen
+
+#### Paragraaf 4.7. Bijzondere voorschriften asbest
+
+#### Paragraaf 4.8. Werken met zandsteen
+
+#### Paragraaf 4.9. Vervallen
+
+### Hoofdstuk 6. Arbeid onder overdruk
+
+### Hoofdstuk 7. Arbeidsmiddelen
+
+#### Paragraaf 7.2. Hijs- en hefwerktuigen en hijs- en hefgereedschappen aan boord van schepen
+
+#### Paragraaf 7.3. Certificatie machinisten hijskranen en funderingsmachines
+
+### Hoofdstuk 8. Veiligheids- en Gezondheidssignalering
+
+### Hoofdstuk 8a. Overtredingen en maatregelen
+
+### Hoofdstuk 9. Overgangs- en Slotbepalingen
+
+### 5. TOEZICHT
+
+## Bijlage IIb. behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2014-01-01&g=2014-01-01) Arbeidsomstandighedenregeling
+
+## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2014-01-01&g=2014-01-01)
+
+## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2014-01-01&g=2014-01-01)
+
+### 4.6. **Klachten**
+
+### 4.8. **Register voor vakbekwaamheid**
+
+### 6.2. **Frequentie en uitvoering van het toezicht**
+
+### 6.5. **Maatregelen**
+
+### 8. **Entreecriteria**
+
+### 12. **Het certificaat**
+
+### 13. **Geldigheidscondities**
+
+### Klachten over de CKI
+
+### Klachten over het bedrijf of de persoon
+
+### Werkwijze
+
+### Beslotenheid van examens
+
+### Algemene regels bij de uitvoering van examens
+
+### Indeling van het competentieprofiel
+
+### Bijlage 8:. Overgangsregeling
+
+### Bijlage 9:. Format goed- en afkeurcriteria examen
+
+### T-Profielen
+
+### Branche/beroep/proces-specialisatie
+
+## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2014-01-01&g=2014-01-01)
+
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Hogere Veiligheidskundige
+
+### 3. **De werkveldspecifieke kenmerken**
+
+### 3.2. **Actieve partijen**
+
+### 4.3. **Certificatiebesluit**
+
+### 4.4. **Geldigheidsduur**
+
+### 4.6. **Klachten**
+
+### 5.1. **Doelstelling**
+
+### 5.2. **Het examenreglement**
+
+### 5.3. **Beheer centrale itembank en examenversies**
+
+### 6.4. **Klachten betreffende de certificaathouder**
+
+### 12. **Het certificaat**
+
+### Klachtenregeling
+
+### Inleiding
+
+### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
+
+### De toetsing van examenpersoneel
+
+### 4.1. Beslotenheid van examens
+
+### 4.2. Algemene regels bij de uitvoering van examens
+
+### Inleiding
+
+### 1.1. Beeld van de branche en het beroep
+
+### Bijlage 7:. Toelaten van opleidingen
+
+### Bijlage 9:. Format Goed- en afkeurcriteria examen
+
+### Branchespecialisatie
+
+## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2014-01-01&g=2014-01-01)
+
+### 3. **De werkveldspecifieke kenmerken**
+
+### 4.2. **Certificatieprocedure**
+
+### 4.3. **Certificatiebesluit**
+
+### 4.4. **Geldigheidsduur**
+
+### 4.5. **Geldigheidscondities**
+
+### 4.7. **Bezwaarprocedure**
+
+### 4.8. **Register voor vakbekwaamheid**
+
+### 4.9. **Norminterpretatie**
+
+### 5.1. **Doelstelling**
+
+### 5.3. **Beheer centrale itembank en examenversies**
+
+### 6.3. **Verslag van bevindingen**
+
+### 6.4. **Klachten betreffende de certificaathouder**
+
+### 6.5. **Maatregelen**
+
+### 8. **Entreecriteria**
+
+### 11.1. **Toetstermen**
+
+### 11.3. **Toets (verdediging van het portfolio)**
+
+### 13. **Geldigheidscondities**
+
+### Klachten over het bedrijf of de persoon
+
+### 4.2. Algemene regels bij de uitvoering van examens
+
+### Inleiding
+
+### Branchespecialisatie
+
+## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2014-01-01&g=2014-01-01)
+
+### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: systeemcertificatie op gebied van Opsporen Conventionele Explosieven
+
+### 3.2. **Actieve partijen**
+
+### 4.1. **Algemeen**
+
+### 4.3. **Gegevens op het certificaat**
+
+### 4.8. **Uitwisseling bevindingen tussen CKI en overheidsinstantie**
+
+## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2014-01-01&g=2014-01-01)
+
+### 4.1. **Doelstelling**
+
+### 4.2. **Certificatieprocedure**
+
+### 4.2.2. **Beoordeling van het managementsysteem en projectlocaties**
+
+### 4.3. **Certificatiebeslissing**
+
+### 4.6.3.2. **Werkwijze**
+
+### 5.4.1. **Algemeen**
+
+### 6.1. **Algemene eisen**
+
+### 6.1.3. **RI&E en Taak Risico Analyse**
+
+### 6.2. **Eisen management personeel**
+
+### 6.3.1. **Beheersing van materieel en middelen**
+
+### 6.3.2. **Inhuur van materieel, middelen en personen**
+
+### 6.4.1. **Algemene eisen**
+
+### 6.4.8. **Externe communicatie**
+
+### 6.4.10. **Werkplekinspecties**
+
+### 6.4.11. **Interne audits**
+
+### 6.5.2. **Beoordelen en evalueren van bronnenmateriaal**
+
+### 6.5.4. **Rapportage en CE bodembelastingkaart**
+
+### 6.6.2.1. **Projectplan**
+
+### 6.6.3. **Detectieonderzoek**
+
+### 6.6.3.3. **Veldwerkregistraties**
+
+### 6.6.3.4. **Analoge detectie**
+
+## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2014-01-01&g=2014-01-01)
+
+### 3.3. Risicoanalyse m.b.t. functioneren CKI
+
+### 4.1. Persoonscertificatie Vuurwerkdeskundige
+
+### 4.9. Personeelsdossiers
+
+## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2014-01-01&g=2014-01-01)
+
+### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
+
+### 4.3. Certificatiebeslissing
+
+### 6. Toezicht
+
+### 6.1. Medewerking aan toezicht
+
+### 6.3. De wijze van uitvoering van het toezicht
+
+### 10.3.5. Beperkt toepassingsgebied (toetstermen 1.1 t/m 3.4.2)
+
+## Bijlage XIII. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2014-01-01&g=2014-01-01)
+
+## Bijlage XIIIa. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2014-01-01&g=2014-01-01)
+
+### 3. Werkveldspecifieke kenmerken
+
+### 3.3.2. Risicoanalyse niveau asbestinventarisatie
+
+### 4.3.7.4. Tijdsbesteding beoordeling
+
+### 4.3.7.5. Rapportage
+
+### 4.5. Geldigheidsduur van het certificaat
+
+### 4.5.1. Hercertificatie
+
+### 4.9. Norminterpretatie
+
+### 5.5.2.1. Inleiding
+
+### 5.5.2.3. Verzwaring
+
+### 5.7. Criteria
+
+### 7.1.5. Werkterrein en technisch kunnen
+
+### 7.2. Vrijwaring van druk
+
+### 7.4.2. Technisch verantwoordelijke
+
+### 7.5.6. Beheersing van documenten
+
+### 7.5.7. Interne audits
+
+### 7.7.1. Beschikbaarheid
+
+### 7.7.2. Toegang en bevoegdheid tot gebruik
+
+### 7.7.3. Geschiktheid voor gebruik
+
+### 7.7.4. Identificatie
+
+**Zie de normatieve invulling van uitbesteding van onderhoud bij par. 7.12.**
+
+### 7.7.8. Inkoop en uitbesteding
+
+### 7.9.1. Identificatie
+
+**Dit geldt bijvoorbeeld bij het inventariseren van ruimten die wel op tekening staan, maar op locatie niet voor inventarisatie toegankelijk blijken te zijn en/of als er omstandigheden zijn waardoor de inventariseerder niet ongestoord zijn werk kan doen.**
+
+### 7.9.3. Voorbereiding
+
+### 7.10.2.1. Blootstellingsgegevens
+
+Is er echter bij brand en/of explosie sprake van verspreiding van asbest naar verharde of onverharde bodem (toplaag), dan valt het in kaart brengen van de verspreiding in de bodem niet onder het toepassingsgebied van de SC-540. Details daaromtrent zijn beschreven in [lit.10]. Bij de inventarisatie van een dergelijk terrein wordt informatief gebruik gemaakt van de meetstrategie en onderzoekmethode zoals omschreven in de norm NEN 5707.
+
+Bij inventarisatie type B wordt het bouwwerk/object, wel of niet in samenwerking met een gecertificeerde asbestverwijderingsbedrijf (zie par. 3.4.2), zodanig selectief gesloopt / destructief onderzocht dat de aanwezigheid van nog resterende asbesthoudende materialen moet kunnen worden vastgesteld. De sloop- / onderzoekmethode en uitrusting dienen daarbij zodanig te zijn dat er geen asbestblootstelling optreedt.
+
+### 7.14.8. Type 0: Beperkte inventarisatie voorafgaand aan een risicobeoordeling
+
+### 7.14.10. Kwantificeren en registreren
+
+### 7.16. Het asbestinventarisatieplan
+
+### 7.16.3.1. Inleiding
+
+De inventariseerder beschikt bij de inventarisaties over de vereiste PBM’s.
+
+### 7.16.3.2. Eisen te stellen aan monsterneming en analyse
+
+### 7.16.3.3. Inventarisatie van risicovolle materialen
+
+### 8. Beoordelingsmethodiek
+
+De opdrachtgever kan de zaken genoemd onder 1, 2, 3, 5 en 7 delegeren aan bijvoorbeeld het asbestverwijderingsbedrijf, doch blijft verantwoordelijk voor de aanwezigheid van de juiste papieren (inventarisatierapport en omgevingsvergunning) op het werk.
+
+### Onderzoek bodem noodzakelijk
