@@ -4,7 +4,7 @@ identifier: "BWBR0042944"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042944"
 soort: "AMvB"
@@ -39,8 +39,6 @@ entry_into_force: "2020-01-01"
 ##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
