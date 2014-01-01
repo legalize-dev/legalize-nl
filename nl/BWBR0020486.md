@@ -4,7 +4,7 @@ identifier: "BWBR0020486"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-12"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020486"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een effectenuitgevende instelling stelt een bericht als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3) algemeen verkrijgbaar overeenkomstig [artikel 47, eerste lid, tweede en derde volzin, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=47).
+1. Een effectenuitgevende instelling stelt een bericht als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3) algemeen verkrijgbaar overeenkomstig [artikel 5:25m, eerste, tweede en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m). Het bericht, bedoeld in de eerste volzin, wordt als zelfstandig bericht algemeen verkrijgbaar gesteld.
 
 2. De door de Autoriteit Financiële Markten te stellen redelijke termijn voor het algemeen verkrijgbaar stellen van het bericht bedraagt, gerekend vanaf de dag van ontvangst van de aanbeveling, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3), ten minste 10 werkdagen.
 
@@ -68,11 +68,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Als instantie als bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=6) wordt aangewezen het Comité van Europese effectenregelgevers dat is ingesteld bij Besluit nr. 2001/527/EG van de Commissie van de Europese Gemeenschappen van 6 juni 2001 tot instelling van het Comité van Europese effectenregelgevers (PbEG L 191).
+1. Als instantie die tot taak heeft een eenvormige toepassing van de standaarden voor de jaarrekening binnen de Europese Unie te bevorderen en een gemeenschappelijke aanpak op het vlak van de handhaving daarvan te ontwikkelen als bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=6) wordt aangewezen de Europese Autoriteit voor effecten en markten die is ingesteld bij Verordening nr. 1095/2010 van het Europees Parlement en de Raad van 24 november 2010 tot oprichting van een Europese toezichthoudende autoriteit (Europese Autoriteit voor effecten en markten), tot wijziging van Besluit nr. 716/2009/EG en tot intrekking van Besluit 2009/77/EG van de Commissie.
 
-2. De Autoriteit Financiële Markten draagt er zorg voor dat de gegevens of inlichtingen die aan de in het eerste lid bedoelde instantie worden verstrekt geanonimiseerd zijn.
+2. Als instantie die tot taak heeft een eenvormige toepassing van de standaarden voor de jaarrekening in internationaal verband te bevorderen en een gemeenschappelijke aanpak op het vlak van de handhaving daarvan te ontwikkelen als bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=6) wordt aangewezen The International Organization of Securities Commissions.
 
-3. Indien aan de in het eerste lid bedoelde instantie gegevens of inlichtingen worden verstrekt omtrent een effectenuitgevende instelling waaraan de Autoriteit Financiële Markten een aanbeveling heeft gedaan als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3), stelt de Autoriteit Financiële Markten onverwijld na de verstrekking de betrokken effectenuitgevende instelling in kennis van de verstrekking van gegevens of inlichtingen aan het Comité van Europese effectenregelgevers en vermeldt daarbij in elk geval de inhoud van de gegevens, de vorm waarin deze gegevens of inlichtingen zijn verstrekt en het doel en het beoogde gebruik van de verstrekking.
+3. De Autoriteit Financiële Markten draagt er zorg voor dat de gegevens of inlichtingen die aan de in het eerste lid bedoelde instantie worden verstrekt geanonimiseerd zijn.
+
+4. Indien aan een instantie als bedoeld in het eerste of tweede lid gegevens of inlichtingen worden verstrekt omtrent een effectenuitgevende instelling waaraan de Autoriteit Financiële Markten een aanbeveling heeft gedaan als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3), stelt de Autoriteit Financiële Markten onverwijld na de verstrekking de betrokken effectenuitgevende instelling in kennis van de verstrekking van gegevens of inlichtingen en vermeldt daarbij in elk geval de inhoud van de gegevens, de vorm waarin deze gegevens of inlichtingen zijn verstrekt en het doel en het beoogde gebruik van de verstrekking.
 
 ##### Artikel 5
 
