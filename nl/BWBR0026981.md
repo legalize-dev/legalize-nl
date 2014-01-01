@@ -4,7 +4,7 @@ identifier: "BWBR0026981"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026981"
 soort: "wet"
@@ -112,13 +112,13 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
-1. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel IX, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2013-01-01&g=2013-01-01), opgenomen verhoging van de accijns.
+1. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel IX, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2014-01-01&g=2014-01-01), opgenomen verhoging van de accijns.
 
-2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de uit [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2013-01-01&g=2013-01-01) voortvloeiende verlaging van de energiebelasting op halfzware olie, gasolie en vloeibaar gemaakt petroleumgas.
+2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de uit [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2014-01-01&g=2014-01-01) voortvloeiende verlaging van de energiebelasting op halfzware olie, gasolie en vloeibaar gemaakt petroleumgas.
 
 ##### Artikel XIV
 
-De bij de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2013-01-01&g=2013-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2013-01-01&g=2013-01-01) van deze wet gewijzigde artikelen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven van toepassing voor zover zij betrekking hebben op:
+De bij de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IX&z=2014-01-01&g=2014-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XI&z=2014-01-01&g=2014-01-01) van deze wet gewijzigde artikelen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven van toepassing voor zover zij betrekking hebben op:
 
 - a. de heffing van accijns en energiebelasting waarvan de feiten die aanleiding geven tot het ontstaan van de verschuldigdheid van die accijns of energiebelasting zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet;
 
@@ -150,7 +150,7 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XXI
 
@@ -196,15 +196,15 @@ Met betrekking tot een op 31 december 2010 bestaande kapitaalverzekering die op 
 
 1. Deze wet treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 
-- a. [artikel I, onderdelen S en T](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=I&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+- a. [artikel I, onderdelen S en T](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=I&z=2014-01-01&g=2014-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
 
-- b. [artikel XV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
+- b. [artikel XV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2014-01-01&g=2014-01-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
 
-- c. [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+- c. [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2014-01-01&g=2014-01-01), voor het eerst toepassing vindt met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
 
-- d. [artikel XV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2013-01-01&g=2013-01-01), en [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XVII&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010.
+- d. [artikel XV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XV&z=2014-01-01&g=2014-01-01), en [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XVII&z=2014-01-01&g=2014-01-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen ter zake van tijdvakken die aanvangen op of na 1 januari 2010.
 
-2. In afwijking van het eerste lid treden de [artikelen XIX tot en met XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XIX&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid treden de [artikelen XIX tot en met XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XIX&z=2014-01-01&g=2014-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
 ##### Artikel XXVIII
 
