@@ -4,7 +4,7 @@ identifier: "BWBR0027098"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2011-04-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027098"
 soort: "wet"
@@ -59,8 +59,8 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel III
 
-1. Deze wet, met uitzondering van de [artikelen I, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=I&z=2011-04-01&g=2011-04-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=II&z=2011-04-01&g=2011-04-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet, met uitzondering van de [artikelen I, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=I&z=2014-01-01&g=2014-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=II&z=2014-01-01&g=2014-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen I, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=I&z=2011-04-01&g=2011-04-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=II&z=2011-04-01&g=2011-04-01) treden in werking met ingang van de eerste dag van het vijfde kalenderkwartaal na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. De [artikelen I, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=I&z=2014-01-01&g=2014-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=II&z=2014-01-01&g=2014-01-01) treden in werking met ingang van de eerste dag van het vijfde kalenderkwartaal na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
