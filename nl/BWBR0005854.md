@@ -4,7 +4,7 @@ identifier: "BWBR0005854"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "1993-02-02"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005854"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Ten aanzien van de in artikel 5 sub a en b bedoelde personen worden, voor zo ver
 
 - **Persoonsgegevens**:
 
-- a. naam, voorvoegsels, voorletters, adellijke titels of predicaat dan wel de naam waaronder de rechtspersoon staat ingeschreven bij de Kamer van Koophandel en Fabrieken;
+- a. naam, voorvoegsels, voorletters, adellijke titels of predicaat dan wel de naam waaronder de rechtspersoon staat ingeschreven bij de Kamer van Koophandel;
 
 - b. geboortedatum;
 
