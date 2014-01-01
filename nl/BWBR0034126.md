@@ -4,7 +4,7 @@ identifier: "BWBR0034126"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2012-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034126"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De notaris draagt het recht af door storting op de daartoe door de Koninklijke N
 
 ##### Artikel 3
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034126&artikel=1&z=2014-01-01&g=2012-01-01) wordt het recht bij elke inschrijving van een notariële akte:
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034126&artikel=1&z=2014-01-01&g=2014-01-01) wordt het recht bij elke inschrijving van een notariële akte:
 
 - a. in 2012 vastgesteld op € 8,17;
 
