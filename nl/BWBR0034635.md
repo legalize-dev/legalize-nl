@@ -237,37 +237,3 @@ Deze verordening wordt aangehaald als: Verordening gedrags- en beroepsregels acc
 ##### Artikel 27
 
 Deze verordening treedt in werking op de eerste dag na publicatie in de Staatscourant en werkt terug tot en met 1 januari 2014.
-
-##### Artikel 10a
-
-1. De accountant zet niet aan of laat niet aanzetten tot onethisch gedrag door het aanbieden of laten aanbieden van een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst.
-
-2. De accountant moedigt een ander niet aan om een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst aan te bieden of te ontvangen, terwijl hij weet of behoort te weten dat de aanbieder de bedoeling heeft daarmee aan te zetten tot onethisch gedrag.
-
-#### Paragraaf 2.4. – Objectiviteit
-
-##### Artikel 11a
-
-De accountant ontvangt geen geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst waarvan hij weet of behoort te weten dat dit wordt aangeboden met de bedoeling om aan te zetten tot onethisch gedrag.
-
-#### Paragraaf 2.5. – Vakbekwaamheid en zorgvuldigheid
-
-##### Artikel 15a
-
-1. Voordat een accountant een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie aanvaardt, gaat deze bij een andere accountant die bij deze cliënt een dergelijke opdracht uitvoert of in de voorgaande 24 maanden heeft uitgevoerd na of er aanleiding is om de opdracht niet te aanvaarden.
-
-2. Het eerste lid geldt niet, indien de accountant:
-
-- a. bij deze cliënt al een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie uitvoert of in de voorgaande verantwoordingsperiode heeft uitgevoerd; of
-
-- b. de opdracht overneemt van een andere accountant binnen dezelfde accountantspraktijk.
-
-3. Een accountant beantwoordt een verzoek op grond van het eerste lid binnen een redelijke termijn.
-
-#### Paragraaf 2.6. – Vertrouwelijkheid
-
-### Hoofdstuk 3. – Zich houden aan de fundamentele beginselen
-
-### Hoofdstuk 4. – Intrekking van regelingen
-
-### Hoofdstuk 5. – Slotbepalingen
