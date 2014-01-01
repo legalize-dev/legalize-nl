@@ -4,7 +4,7 @@ identifier: "BWBR0034243"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2013-08-15"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034243"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Regeling cofinanciering sectorplannen.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Op sectorplannen die zijn ingediend voor de datum van inwerkingtreding van artikel I, onderdeel D, blijft [artikel 4.5 van de Regeling cofinanciering sectorplannen](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&artikel=4.5) van toepassing zoals dat luidde voor die datum.
 
 ##### Artikel III
 
