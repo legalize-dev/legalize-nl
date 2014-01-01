@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-10-23"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Vervallen
 
 4. Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.
 
-5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-10-23&g=2013-10-23).
+5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01).
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.
 
@@ -134,9 +134,9 @@ Vervallen
 
 6. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
 
-7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2013-10-23&g=2013-10-23), aantoonbaar extra aandacht aan de omgang met de basisgroep.
+7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
 
-8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-10-23&g=2013-10-23), is van overeenkomstige toepassing.
+8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
 
 9. Indien op grond van het achtste lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
@@ -160,9 +160,9 @@ Vervallen
 
 - f. het beleid ten aanzien van het gebruik maken van kinderopvang gedurende extra dagdelen;
 
-- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-10-23&g=2013-10-23), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-10-23&g=2013-10-23), is vormgegeven;
+- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), is vormgegeven;
 
-- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2013-10-23&g=2013-10-23) is vormgegeven, indien sprake is van dagopvang.
+- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2014-01-01&g=2014-01-01) is vormgegeven, indien sprake is van dagopvang.
 
 2. Waar nodig wordt in een pedagogisch beleidsplan onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
 
@@ -186,11 +186,19 @@ Een kindercentrum beschikt voor kinderen tot de leeftijd van 1,5 jaar over een o
 
 ##### Artikel 11. Inventarisatie van risico’s voorzieningen voor gastouderopvang
 
-1. Bij elke voorziening voor gastouderopvang is een originele door de bemiddelingsmedewerker en de gastouder ondertekende versie van de in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) bedoelde beschrijving van de veiligheids- en gezondheidsrisico’s aanwezig. De beschrijving bevat in ieder geval de risico’s, bedoeld in artikel 7, derde lid, van het besluit.
+1. Bij elke voorziening voor gastouderopvang is een originele door de bemiddelingsmedewerker en de gastouder ondertekende versie van de in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) bedoelde inventarisatie van de veiligheids- en gezondheidsrisico’s aanwezig. De inventarisatie bevat in ieder geval de risico’s, bedoeld in artikel 7, derde lid, van het besluit.
 
 2. De gastouder draagt er zorg voor dat de maatregelen uit het plan van aanpak bedoeld in [artikel 7, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) binnen de gestelde termijn zijn, respectievelijk worden genomen.
 
-3. De gastouder draagt er zorg voor dat de lijst, bedoeld in [artikel 7, derde lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) actueel is.
+3. De inventarisatie van risico’s bedoeld in [artikel 7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) bevat in ieder geval:
+
+- a. de beschrijving van de risico's op het terrein van de veiligheid van kinderen ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden;
+
+- b. de beschrijving van de risico's op het terrein van de gezondheid van kinderen ten aanzien van het voorkomen van ziektekiemen, het binnenmilieu en het buitenmilieu bij de voorziening voor gastouderopvang en medisch handelen;
+
+- c. een lijst van ongevallen die hebben plaatsgevonden waarop, voor zover de oorzaak van het ongeval niet louter gelegen is in de medische gesteldheid van het desbetreffende kind, de plaats en de aard van het ongeval, het jaar waarin het ongeval zich heeft voorgedaan wordt geregistreerd alsmede een overzicht van de maatregelen die de gastouder naar aanleiding van elk ongeval heeft getroffen ter voorkoming van verdere ongevallen.
+
+4. De gastouder draagt er zorg voor dat de lijst, bedoeld in het derde lid, onder c, actueel is.
 
 ##### Artikel 12. Adequate vervanging bij calamiteiten
 
@@ -212,9 +220,11 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 - b. beschikt over voldoende buitenspeelmogelijkheden, afgestemd op het aantal en de leeftijd van de op te vangen kinderen;
 
-- c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerende [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461).
+- c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerende [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461);
 
-2. De gehele woning waar de opvang plaatsvindt is te allen tijde rookvrij.
+- d. is te allen tijde rookvrij.
+
+2. De in het eerste lid bedoelde eisen worden jaarlijks door de houder van een gastouderbureau getoetst op naleving tijdens een bezoek aan de voorzieningen voor gastouderopvang.
 
 #### Paragraaf 4. Kwaliteitseisen peuterspeelzalen
 
@@ -322,21 +332,71 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Gesprekken gastouderbureau
 
-Dit onderdeel is nog niet inwerking getreden
+1. De houder van een gastouderbureau draagt er zorg voor dat:
+
+- a. een intakegesprek met de gastouder plaatsvindt bij de voorgenomen voorziening voor gastouderopvang;
+
+- b. een intakegesprek met de vraagouder plaatsvindt;
+
+- c. een koppelingsgesprek plaatsvindt bij een koppeling tussen een vraagouder en de gastouder. Het koppelingsgesprek vindt plaats bij de voorziening van gastouderopvang;
+
+- d. ten minste jaarlijks een voortgangsgesprek met de gastouder plaatsvindt. Het voortgangsgesprek vindt plaats bij de voorziening van gastouderopvang;
+
+- e. de gastouderopvang jaarlijks mondeling met de vraagouders wordt geëvalueerd en legt deze evaluatie schriftelijk vast;
+
+- f. een bemiddelingsmedewerker van het gastouderbureau in ieder geval twee maal per jaar de adressen bezoekt waar opvang door de gastouder plaatsvindt.
+
+2. De gesprekken, bedoeld in het eerste lid, onder a, b, c en d, worden gevoerd door een bemiddelingsmedewerker van het gastouderbureau.
 
 ##### Artikel 11b. Zorgplicht gastouderbureaus
 
-Dit onderdeel is nog niet inwerking getreden
+1. De houder van een gastouderbureau draagt er zorg voor dat per voorziening voor gastouderopvang wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=14), verantwoord is.
+
+2. De houder van een gastouderbureau draagt er zorg voor dat per gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
+
+- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+
+- b. werving van de gastouder;
+
+- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+
+- d. scholing en begeleiding van de gastouder;
+
+- e. het begeleiden van de GGD-toetsing;
+
+- f. de koppeling van de gastouder en de vraagouder;
+
+- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+
+- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+
+- i. het beantwoorden van vragen van de gastouder;
+
+- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+
+- k. opleiding of training; en
+
+- l. overleg op het gebied van begeleiding en bemiddeling.
+
+3. De houder van een gastouderbureau draagt er zorg voor dat het gastouderbureau goed bereikbaar is voor de vraagouder en de gastouder en verstrekt hen hierover informatie.
 
 ##### Artikel 12a. Pedagogisch beleidsplan
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een pedagogisch beleidsplan als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=11) bevat in duidelijke en observeerbare termen ten minste een beschrijving van:
+
+- a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen om persoonlijke en sociale competenties te ontwikkelen en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;
+
+- b. het aantal kinderen dat door een gastouder wordt opgevangen en de leeftijden van die kinderen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens artikel 14 van het besluit gesteld worden aan de groepsgrootte;
+
+- c. de eisen die aan de voorzieningen voor gastouderopvang worden gesteld.
+
+2. De houder van een gastouderbureau informeert de vraagouder over de inhoud van het pedagogisch beleidsplan, bedoeld in het eerste lid.
 
 #### Paragraaf 4. Kwaliteitseisen peuterspeelzalen
 
 #### Paragraaf 5. Slotbepalingen
 
-## Bijlage. als bedoeld in de [artikelen 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2013-10-23&g=2013-10-23) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2013-10-23&g=2013-10-23), van deze regeling
+## Bijlage. als bedoeld in de [artikelen 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), van deze regeling
 
 In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
