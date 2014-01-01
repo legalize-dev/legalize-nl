@@ -1,0 +1,146 @@
+---
+title: "Algemene contributieverordening"
+identifier: "BWBR0033789"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033789"
+soort: "pbo"
+stam_id: "12340383"
+version_id: "20703782"
+internal_id: "C29738641"
+label_id: "12311604"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033789/2022-01-01/0"
+intitule_bron: "Stcrt.2013-23889"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-19"
+intitule_published: "2013-08-27"
+intitule_in_force: "2013-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23889"
+original_signed_date: "2013-08-19"
+original_published_date: "2013-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23889"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0033789&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0033789&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-08-19"
+entry_into_force: "2014-01-01"
+---
+# Algemene contributieverordening
+
+Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), en [19, tweede lid, onder g, van de Wet op het accountsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
+
+Stelt de volgende verordening vast:
+
+### Hoofdstuk 1. Definities
+
+##### Artikel 1
+
+In deze verordening wordt verstaan onder:
+
+- –. **accountant in business:** de accountant in business, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+
+- –. **accountantsregister:** het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+
+- –. **arbeidsinkomen:** de som van het arbeidsinkomen, bedoeld in [artikel 8.1, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1) en het aandeel in het resultaat voor belastingen van een rechtspersoon waarin het lid een aanmerkelijk belang heeft als bedoeld in [artikel 4.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6), genoten in het kalenderjaar waarvoor de contributie geldt;
+
+- –. **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
+
+- –. **intern accountant:** de intern accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+
+- –. **openbaar accountant:** de openbaar accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+
+- –. **overheidsaccountant:** de overheidsaccountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512).
+
+### Hoofdstuk 2. Algemene bepalingen
+
+##### Artikel 2
+
+Ten behoeve van de heffing van contributie wordt ieder lid in een van de volgende vier contributiegroepen ingedeeld:
+
+- H. openbaar accountant;
+
+- M. intern accountant en overheidsaccountant;
+
+- L. accountant in business;
+
+- Z. lid zonder arbeidsinkomen.
+
+##### Artikel 3
+
+1. Bij aanvang van ieder kalenderjaar en vervolgens bij iedere tussentijdse wijziging van de aard van de werkzaamheden of de functie die een wijziging van de indeling in contributiegroepen met zich brengt, wordt door het bestuur vastgesteld tot welke contributiegroep een lid behoort.
+
+2. Ten aanzien van een lid dat in de loop van een kalenderjaar in het accountantsregister wordt ingeschreven, geschiedt de indeling in contributiegroepen voor de eerste maal per de datum van de inschrijving in het accountantsregister.
+
+3. Indien de werkzaamheden of de functies van een lid tot een indeling in meerdere contributiegroepen aanleiding geeft, geschiedt de indeling in de contributiegroep voor die werkzaamheid of functie waarvoor de hoogste contributie geldt.
+
+4. De indeling geschiedt op basis van de laatst door het lid zelf schriftelijk gedane opgave, dan wel elektronisch doorgevoerde mutatie in de ledenadministratie, betreffende de aard van de werkzaamheden of de functie.
+
+5. Een wijziging van de indeling in contributiegroepen geschiedt per eerste van de maand waarin de wijziging die aanleiding geeft tot een indeling in een andere contributiegroep zicht heeft voorgedaan, mits deze is doorgegeven binnen drie weken nadat deze heeft plaatsgevonden. Wijzigingen die niet binnen drie weken zijn doorgegeven geschieden per eerste van de maand volgend op het doorgeven van de wijziging. Voor zoveel nodig volgt restitutie van reeds betaalde contributie.
+
+6. In afwijking van het vijfde lid geschiedt indeling in een hogere contributiegroep per eerste van de maand van de wijziging van de aard van de werkzaamheden of de functie.
+
+##### Artikel 4
+
+1. Een lid dat in de loop van een kalenderjaar in het accountantsregister wordt ingeschreven, is voor dat kalenderjaar contributie verschuldigd naar evenredigheid van het aantal maanden dat het lid is ingeschreven, de maand waarin de inschrijving heeft plaatsgevonden daaronder begrepen.
+
+2. In afwijking van het eerste lid is een lid dat in de laatste maand van een kalenderjaar in het accountantsregister wordt ingeschreven voor dat kalenderjaar geen contributie verschuldigd.
+
+##### Artikel 5
+
+Een lid van wie de inschrijving in het accountantsregister wordt doorgehaald, is contributie verschuldigd tot en met de maand waarin de doorhaling heeft plaatsgevonden. Voor zoveel nodig volgt restitutie van reeds betaalde contributie.
+
+### Hoofdstuk 3. Bijzondere bepalingen
+
+##### Artikel 6
+
+Jaarlijks kan bij verordening een bedrag worden vastgesteld waarmee de contributie voor elke contributiegroep wordt verminderd.
+
+##### Artikel 7
+
+Jaarlijks kan bij verordening een korting voor automatische incasso worden vastgesteld waarmee de verschuldigde contributie wordt verminderd.
+
+##### Artikel 8
+
+1. Indien de verschuldigde contributie van een lid dat is ingedeeld in contributiegroep H, M of L meer bedraagt dan een jaarlijks bij verordening vast te stellen percentage van zijn arbeidsinkomen, vermindert het bestuur op zijn verzoek de contributie tot dit bedrag.
+
+2. De contributie wordt niet verder verminderd dan tot het bedrag verschuldigd door een lid ingedeeld in contributiegroep Z.
+
+3. Een verzoek tot vermindering kan slechts worden ingewilligd indien dit binnen een jaar na afloop van het kalenderjaar waarvoor de contributie geldt gemotiveerd is ingediend onder opgave van het definitieve arbeidsinkomen. Het bestuur kan nadere bewijsstukken verlangen.
+
+4. Een vermindering wordt vastgesteld na afloop van het kalenderjaar waarvoor de contributie geldt. Voor zoveel nodig volgt restitutie van reeds betaalde contributie.
+
+##### Artikel 9
+
+In bijzondere gevallen kan het bestuur gehele of gedeeltelijke ontheffing van de verplichting tot betaling van contributie verlenen. Voor zoveel nodig volgt restitutie van reeds betaalde contributie.
+
+##### Artikel 10
+
+Het bestuur doet aan elk lid mededeling van zijn indeling in een van de contributiegroepen, de eventueel toegepaste bijzondere regelingen en de verschuldigde contributie.
+
+##### Artikel 11
+
+De verschuldigde contributie dient te worden voldaan binnen een maand na dagtekening van het besluit, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&hoofdstuk=3&artikel=10&z=2014-01-01&g=2014-01-01).
+
+### Hoofdstuk 4. Slot- en overgangsbepalingen
+
+##### Artikel 12
+
+De [Algemene contributieverordening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031866) (Stcrt. 2012, 15988) wordt ingetrokken.
+
+##### Artikel 13
+
+De [Algemene contributieverordening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031877) (Stcrt. 2012, 16148) wordt ingetrokken.
+
+##### Artikel 14
+
+1. Deze verordening treedt in werking op 1 januari 2014.
+
+2. Deze verordening wordt aangehaald als: Algemene contributieverordening.
