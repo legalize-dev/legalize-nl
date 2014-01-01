@@ -4,7 +4,7 @@ identifier: "BWBR0031801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2012-07-19"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031801"
 soort: "ministeriele-regeling-BES"
@@ -127,6 +127,58 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs BES.
+
+## Bijlage 1. behorende bij de Regeling jaarverslaggeving onderwijs BES
+
+### Model Jaarrekening
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij de Regeling jaarverslaggeving onderwijs BES
+
+### Bijlage bij [artikel 4, 8e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2015-06-23&g=2014-01-01)
+
+Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
+
+### A. Gegevensset
+
+### Balans
+
+Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserve publiek, Bestemmingsreserve privaat, Bestemmingsfonds publiek en Bestemmingsfonds privaat), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om verwachte ontwikkelingen in
+
+### Staat / Raming van Baten en Lasten
+
+De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies en Overige baten.
+
+De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
+
+Het Saldo Baten en lasten, Saldo financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
+
+Totaal resultaat en Incidentele baten en lasten in totaal resultaat.
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om de financiële gevolgen van de ontwikkelingen in
+
+### B. Overige rapportages
+
+### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
+
+In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
+
+### B2. Beschrijving van de belangrijkste risico’s en onzekerheden
+
+In deze rapportage geeft het bestuur aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden.
+
+Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
+
+### B3. Rapportage toezichthoudend orgaan.
+
+In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
 
 ## Bijlage. behorende bij de Regeling jaarverslaggeving onderwijs BES
 
