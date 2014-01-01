@@ -4,7 +4,7 @@ identifier: "BWBR0035898"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035898"
 soort: "wet"
@@ -48,11 +48,11 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel VIII
 
@@ -72,7 +72,7 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belasting zware motorrijtuigen.
 
 ##### Artikel X
 
@@ -80,15 +80,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIV
 
@@ -104,7 +104,7 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XVIII
 
