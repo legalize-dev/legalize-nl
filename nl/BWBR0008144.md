@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-19"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -81,7 +81,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - g. vervallen;
 
-- h. het op verzoek verstrekken van een verklaring omtrent de verkrijging van kentekenplaten als bedoeld in [artikel 9 e, eerste lid, onderdeel b, van de Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&artikel=9e);
+- h. het op verzoek verstrekken van een verklaring omtrent de verkrijging van kentekenplaten als bedoeld in [artikel 9 e, eerste lid, onderdeel b, van de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&artikel=9e);
 
 - i. het verzamelen van gegevens en het verstrekken daarvan aan instellingen van volkenrechtelijke organisaties en aan de instanties van de lidstaten van volkenrechtelijke organisaties voor zover daartoe op grond van een besluit van die organisaties een verplichting bestaat;
 
@@ -89,7 +89,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten;
 
-- l. het verzenden van brieven naar houders van een kentekenbewijs ten behoeve van de attendering op de in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) opgenomen verplichting;
+- l. het verzenden van brieven naar tenaamgestelden van in het kentekenregister geregistreerde voertuigen ten behoeve van de attendering op de in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) opgenomen verplichting;
 
 - m. het instandhouden en beheren van een systeem voor de centrale landelijke registratie van gestolen brom- en snorfietsen en het aan de hand van een framenummer verstrekken van het gegeven of een brom- of snorfiets als gestolen gesignaleerd is;
 
@@ -99,13 +99,17 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - p. het toezien op de uitvoering van de overeenkomsten door middel waarvan een natuurlijke persoon of rechtspersoon is aangemerkt als gekwalificeerd voor het verrichten van de inbouw van emissieverminderende voertuigonderdelen en het opnemen van de in dit kader noodzakelijke gegevens in het kentekenregister;
 
-- q. het verzenden van brieven naar houders van een kentekenbewijs in het kader van een terugroepactie als bedoeld in [artikel 2, tweede lid, onderdeel e, van de Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2) tegen een door de Dienst Wegverkeer vastgesteld tarief:
+- q. het verzenden van brieven naar tenaamgestelden van in het kentekenregister geregistreerde voertuigen in het kader van een terugroepactie als bedoeld in [artikel 2, tweede lid, onderdeel e, van de Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2) tegen een door de Dienst Wegverkeer vastgesteld tarief:
 
 - 1°. op uitdrukkelijk verzoek van de producent of importeur van motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen, of
 
 - 2°. ingeval van door de Dienst Wegverkeer geconstateerd misbruik door de in onderdeel 1 bedoelde partijen of een door hen ingeschakelde derde van de in het kader van een eerdere terugroepactie verstrekte gegevens;
 
-- r. het ontwikkelen, in stand houden en beheren van een systeem voor de centrale registratie van parkeer- en verblijfsrechten gekoppeld aan individuele kentekens ten behoeve van gemeenten alsmede het ter beschikking stellen van informatie uit deze registratie aan daartoe gerechtigde partijen;
+- r. het beheren van en het verstrekken van informatie aan daartoe gerechtigde partijen uit een register van:
+
+- 1°. parkeer- en verblijfsrechten gekoppeld aan individuele kentekens ten behoeve van gemeenten, en
+
+- 2°. statische parkeergegevens ten behoeve van een ieder;
 
 - s. het bewaren van strafrechtelijk in beslag genomen rijbewijzen en kentekenbewijzen;
 
@@ -121,15 +125,15 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - y. het vastleggen in het rijbewijzenregister van verklaringen in verband met de afgifte van rijbewijzen;
 
-- z. het op basis van [artikel 25b, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
+- z. het op basis van [artikel 25b, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
 
 - aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2013-01-19&g=2013-01-19), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-01-01&g=2014-01-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2013-01-19&g=2013-01-19) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-01-01&g=2014-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
