@@ -4,7 +4,7 @@ identifier: "BWBR0030708"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030708"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Syllabi 2013
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2013, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=1a&z=2013-01-01&g=2013-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=1b&z=2013-01-01&g=2013-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=1c&z=2013-01-01&g=2013-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 2. Nadere vaststelling syllabi 2012
 
@@ -52,17 +52,17 @@ Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.m.b.o. in 2015, voor de vakken als vermeld in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=3&z=2013-01-01&g=2013-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.m.b.o. in 2015, voor de vakken als vermeld in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=3&z=2014-01-01&g=2014-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2013-01-01&g=2013-01-01): per 1 januari 2014;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2014-01-01&g=2014-01-01): per 1 januari 2014;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2013-01-01&g=2013-01-01): per 1 januari 2013;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2014-01-01&g=2014-01-01): per 1 januari 2013;
 
-- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2013-01-01&g=2013-01-01): per 1 januari 2016.
+- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2014-01-01&g=2014-01-01): per 1 januari 2016.
 
 ##### Artikel 5. Citeertitel
 
@@ -72,9 +72,11 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2013-01-01&g=2013-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2013-01-01&g=2013-01-01) worden bekend gemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2014-01-01&g=2014-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2014-01-01&g=2014-01-01) worden bekend gemaakt op www.examenblad.nl.
 
 ## Bijlage 1a
+
+Vervallen
 
 ### Syllabi v.w.o. 2013
 
@@ -88,11 +90,11 @@ Latijn
 
 Grieks
 
-Fries
+Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:
 
-wiskunde A
+**algemene vakken:**
 
-wiskunde B
+aardrijkskunde.
 
 wiskunde C
 
@@ -299,3 +301,23 @@ Vervallen
 Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:
 
 **algemene vakken:**
+
+## Bijlage 1b
+
+Vervallen
+
+## Bijlage 1c
+
+Vervallen
+
+## Bijlage 2a
+
+Vervallen
+
+## Bijlage 2b
+
+Vervallen
+
+## Bijlage 3
+
+### Preliminaire vaststelling syllabi v.m.b.o. 2015
