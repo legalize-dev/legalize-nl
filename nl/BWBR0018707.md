@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -111,5 +111,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, worden regels gesteld met betrekking tot de berekeningswijze en de wijze van verrekening van tegemoetkomingen op grond van een inkomensafhankelijke regeling in situaties waarin een of meer Nederlandse gezinsbijslagen als bedoeld in artikel 1, onder z) van Verordening (EG) nr. 883/2004 met toepassing van artikel 68 van die verordening en Verordening (EG) nr. 987/2009 worden uitbetaald in de vorm van een aanvulling op een of meer gezinsbijslagen van een andere lidstaat.
 
 4. Bij regeling van Onze Minister worden, zo nodig met terugwerkende kracht, voor situaties waarin de Belastingdienst/Toeslagen op grond van artikel 6, vierde lid, van Verordening (EG) nr. 987/2009 geacht wordt retroactief bevoegd te zijn geweest regels gesteld met betrekking tot de aanvraag tot toekenning van een tegemoetkoming op grond van een inkomensafhankelijke regeling, de beslissingstermijnen die gelden voor de toekenning of herziening van deze tegemoetkoming alsmede met betrekking tot het aanvangstijdstip van het tijdvak waarover rente wordt berekend als bedoeld in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1c. Gegevensverstrekking ten behoeve van MijnOverheid
+
+1. In dit artikel wordt verstaan onder:
+
+- a. MijnOverheid: het domein van een natuurlijke persoon op de website mijn.overheid.nl;
+
+- b. gebruiker: degene aan wiens persoonsgegevens MijnOverheid is gekoppeld.
+
+2. Als voorziening die de dienstverlening voortvloeiende uit de uitvoering van de wet verbetert, wordt aangemerkt: MijnOverheid.
+
+3. De Belastingdienst/Toeslagen verstrekt aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens die noodzakelijk zijn voor het beschikbaar stellen van MijnOverheid aan gebruikers. Tot deze gegevens behoort in elk geval het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van de gebruiker.
+
+4. MijnOverheid bevat in ieder geval functionaliteit waarmee de gebruiker elektronisch verzonden berichten van de Belastingdienst/Toeslagen kan ontvangen.
+
+5. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de beschikbaarstelling en instandhouding van Mijnoverheid en voor de betrouwbare toegang van een gebruiker tot MijnOverheid.
+
+6. MijnOverheid-accounts die bestaan op de dag van inwerkingtreding van dit artikel worden aangemerkt als voorziening op grond van dit artikel.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
