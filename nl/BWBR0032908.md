@@ -4,7 +4,7 @@ identifier: "BWBR0032908"
 country: "nl"
 rank: "kb"
 publication_date: "2014-01-01"
-last_updated: "2013-02-20"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032908"
 soort: "KB"
@@ -42,6 +42,8 @@ Overwegende dat het wenselijk is met het oog op de toepassing van wettelijke voo
 
 Hebben goedgevonden en verstaan:
 
+Inwerkingtreding voorheen gesteld op 20 februari 2013.
+
 ##### Artikel 1
 
 Met ingang van 1 januari 2014 wordt de zevenentwintigste april in het vervolg aangeduid als Koningsdag, behoudens uitzonderingen in verband met zondagen.
@@ -52,6 +54,6 @@ Het [koninklijk besluit van 24 april 1980](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van 1 januari 2014.
 
 Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten en de ministeries.
