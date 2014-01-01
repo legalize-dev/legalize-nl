@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2013-12-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -98,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij de inzet van beroepskrachten in opleiding wordt rekening gehouden met de opleidingsfase waarin zij zich op dat moment bevinden.
 
-3. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot de opleidingseisen en de inzet van beroepskrachten in opleiding.
+3. Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld met betrekking tot de opleidingseisen van beroepskrachten, bedoeld in het eerste lid, en de inzet van beroepskrachten in opleiding, bedoeld in het tweede lid.
 
 ##### Artikel 4. Aantal beroepskrachten in relatie tot aantal kinderen per leeftijdscategorie en groepsgrootte
 
@@ -144,17 +144,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De houder van een gastouderbureau inventariseert jaarlijks de veiligheids- en gezondheidsrisico’s die de opvang van kinderen in alle voor kinderen toegankelijke ruimtes met zich brengt. Dit gebeurt samen met de gastouder. Daartoe draagt de houder van een gastouderbureau er zorg voor dat elk adres waar opvang plaatsvindt ten minste één keer per jaar wordt bezocht door een bemiddelingsmedewerker werkzaam bij het gastouderbureau.
 
-3. De in het tweede lid bedoelde inventarisatie van de risico’s is inzichtelijk voor vraagouders en bevat in ieder geval:
-
-- a. de beschrijving van de risico's op het terrein van de veiligheid van kinderen ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden;
-
-- b. de beschrijving van de risico's op het terrein van de gezondheid van kinderen ten aanzien van het voorkomen van ziektekiemen, het binnenmilieu en het buitenmilieu op het adres waar gastouderopvang plaatsvindt en medisch handelen;
-
-- c. een lijst van ongevallen die hebben plaatsgevonden en, voor zover de oorzaak van het ongeval niet louter gelegen is in de medische gesteldheid van het desbetreffende kind, de plaats en de aard van het ongeval, het jaar waarin het ongeval zich heeft voorgedaan en een overzicht van de maatregelen die de gastouder naar aanleiding van elk ongeval heeft getroffen ter voorkoming van verdere ongevallen.
+3. De in het tweede lid bedoelde inventarisatie van de risico’s is inzichtelijk voor vraagouders en bevat in ieder geval een beschrijving van de veiligheids- en gezondheidsrisico's die de opvang van kinderen in alle voor kinderen toegankelijke ruimtes, met zich brengt.
 
 4. De administratie van het gastouderbureau bevat een door de bemiddelingsmedewerker en de gastouder ondertekend origineel van de inventarisatie van de risico’s, bedoeld in het tweede en derde lid.
 
-5. Op de adressen waar opvang plaatsvindt, wordt door de houder van een gastouderbureau in een samen met de gastouder opgesteld plan van aanpak aangegeven welke maatregelen binnen welke termijn zijn respectievelijk worden genomen in verband met de in het tweede en derde lid bedoelde risico’s.
+5. Bij voorzieningen voor gastouderopvang wordt door de houder van een gastouderbureau in een samen met de gastouder opgesteld plan van aanpak aangegeven welke maatregelen binnen welke termijn zijn respectievelijk worden genomen in verband met de in het tweede en derde lid bedoelde risico’s.
+
+6. Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld met betrekking tot:
+
+- a. de elementen die de inventarisatie, bedoeld in het tweede lid, minimaal bevat;
+
+- b. de wijze waarop de houder van een gastouderbureau de inventarisatie openbaar maakt.
 
 ##### Artikel 8. Meldcode huiselijk geweld en kindermishandeling
 
@@ -180,81 +180,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
-##### Artikel 9. Gesprekken gastouderbureau
+##### Artikel 9. Aanvullende regels inzake kwaliteit gastouderbureaus
 
-1. De houder van een gastouderbureau draagt er zorg voor dat een intakegesprek met de gastouder plaatsvindt op een adres waar de opvang plaats zal vinden. De intake bij de gastouder wordt persoonlijk uitgevoerd door de bemiddelingsmedewerker van het gastouderbureau.
-
-2. De houder van een gastouderbureau draagt er zorgt voor dat een koppelingsgesprek plaatsvindt bij elke nieuwe koppeling tussen een vraag- en een gastouder. Het koppelingsgesprek vindt plaats op een adres waar opvang plaatsvindt door een bemiddelingsmedewerker werkzaam bij het gastouderbureau.
-
-3. De houder van een gastouderbureau draagt er zorg voor dat tenminste jaarlijks een voortgangsgesprek met de gastouder plaatsvindt op een adres waar opvang plaatsvindt door de desbetreffende gastouder. Dit gesprek wordt gevoerd door de bemiddelingsmedewerker.
-
-4. De houder van een gastouderbureau draagt er zorg voor dat jaarlijks mondeling de gastouderopvang met de vraagouders wordt geëvalueerd en legt deze schriftelijk vast.
-
-5. De houder van een gastouderbureau draagt er zorg voor dat een intakegesprek met de vraagouder plaatsvindt.
-
-6. De houder van een gastouderbureau draagt er zorg voor dat een bemiddelingsmedewerker in ieder geval twee maal per jaar de adressen bezoekt waar opvang plaatsvindt.
+Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld omtrent de kwaliteit van gastouderbureaus inzake het voeren van gesprekken met gastouders en vraagouders en inzake de zorgplicht van gastouderbureaus.
 
 ##### Artikel 10. Zorgplicht gastouderbureaus
 
-1. De houder van een gastouderbureau draagt er zorg voor dat per gastouder wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-12-01&g=2013-12-01), verantwoord is.
-
-2. De houder van een gastouderbureau draagt er zorg voor dat per aangesloten gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
-
-- a. het intakegesprek, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
-
-- b. werving van de gastouder;
-
-- c. het intakegesprek, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
-
-- d. scholing en begeleiding van de gastouder;
-
-- e. het begeleiden van de GGD-toetsing;
-
-- f. de koppeling van gastouder en vraagouder;
-
-- g. het koppelingsgesprek, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
-
-- h. het evaluatiegesprek, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
-
-- i. vraagbaak voor gastouders;
-
-- j. de bezoeken, bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=9&z=2013-12-01&g=2013-12-01);
-
-- k. interne/externe opleiding/training; en
-
-- l. intern en extern overleg op het gebied van begeleiding en bemiddeling.
-
-3. De houder van een gastouderbureau draagt er zorg voor dat het gastouderbureau goed bereikbaar is voor de vraag- en de gastouder en informeert hen hierover.
+Vervallen
 
 ##### Artikel 11. Pedagogisch beleidsplan
 
-1. De houder van een gastouderbureau stelt een pedagogisch beleidsplan vast, waarin de voor dat gastouderbureau kenmerkende visie op de omgang met kinderen is beschreven. Dit plan bevat in duidelijke en observeerbare termen ten minste een beschrijving van:
+1. De houder van een gastouderbureau stelt een pedagogisch beleidsplan vast, waarin de voor dat gastouderbureau kenmerkende visie op de omgang met kinderen is beschreven.
 
-- a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke en sociale competentie en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;
-
-- b. de samenstelling van het aantal kinderen dat door een gastouder wordt opgevangen, met dien verstande, dat een gastouder ten hoogste zes kinderen opvangt, waaronder begrepen de eigen kinderen tot de leeftijd van 10 jaar en minimaal conform de eisen die bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=14&z=2013-12-01&g=2013-12-01) gesteld worden aan de groepsgrootte;
-
-- c. de eisen die aan de adressen waar opvang plaatsvindt worden gesteld.
-
-2. De in het eerste lid, onderdeel c, bedoelde eisen houden in ieder geval in dat ieder adres waar opvang plaatsvindt:
-
-- a. beschikt over voldoende speel- en slaapruimte voor kinderen, waaronder begrepen een voor kinderen tot de leeftijd van 1,5 jaar op het aantal kinderen afgestemde afzonderlijke slaapruimte;
-
-- b. beschikt over voldoende buitenspeelmogelijkheden, afgestemd op het aantal en de leeftijd van de op te vangen kinderen;
-
-- c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerend [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030461);
-
-- d. te allen tijde geheel rookvrij is.
-
-3. De in het tweede lid bedoelde eisen worden jaarlijks door de houder van een gastouderbureau getoetst op naleving tijdens een bezoek aan de adressen waar opvang plaatsvindt.
-
-4. De houder van een gastouderbureau informeert de vraagouder over de inhoud van het pedagogisch beleidsplan, bedoeld in het eerste lid.
+2. Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld met betrekking tot de elementen die het plan, bedoeld in het eerste lid, minimaal bevat.
 
 #### Paragraaf 4. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2013-12-01&g=2013-12-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -294,7 +238,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2013-12-01&g=2013-12-01).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
@@ -366,7 +310,7 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
-2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2013-12-01&g=2013-12-01), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2013-12-01&g=2013-12-01), van dit besluit bedoelde deskundigheidseis.
+2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2014-01-01&g=2014-01-01), van dit besluit bedoelde deskundigheidseis.
 
 3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.
 
