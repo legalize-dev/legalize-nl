@@ -4,7 +4,7 @@ identifier: "BWBR0032452"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032452"
 soort: "ministeriele-regeling"
@@ -58,6 +58,8 @@ In deze regeling wordt verstaan onder:
 
 - **topfunctionarissen in het voortgezet onderwijs:** de topfunctionarissen van de instellingen onder de nummers 7 en 9, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;
 
+- **topfunctionarissen van de cultuurfondsen:** de topfunctionarissen van de rechtspersonen onder nummer 23, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, voor zover het betreft de rechtspersonen die zijn opgericht op grond van [artikel 9 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=9);
+
 - **topfunctionarissen van hogescholen:** de topfunctionarissen van de instellingen onder nummer 20, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de [bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
 
 - **wet:** [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
@@ -72,13 +74,13 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 
 In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan:
 
-- a. € 164 551 voor de topfunctionarissen in het primair onderwijs;
+- a. € 165.901 voor de topfunctionarissen in het primair onderwijs;
 
-- b. € 182 948 voor de topfunctionarissen in het voortgezet onderwijs;
+- b. € 184.448 voor de topfunctionarissen in het voortgezet onderwijs;
 
-- c. € 198 279 voor de topfunctionarissen in het beroepsonderwijs en educatie; en
+- c. € 199.905 voor de topfunctionarissen in het beroepsonderwijs en educatie; en
 
-- d. € 198 279 voor de topfunctionarissen van de hogescholen.
+- d. € 199.905 voor de topfunctionarissen van de hogescholen.
 
 ##### Artikel 4. Elektronische verzending bezoldigingsgegevens
 
@@ -88,7 +90,7 @@ De gegevens, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 De melding, bedoeld in [artikel 5.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.2), wordt gedaan door middel van het daartoe voorgeschreven e-formulier.
 
-#### Paragraaf 3. Toezicht en handhaving
+#### Paragraaf 2a. Topfunctionarissen van de cultuurfondsen
 
 ##### Artikel 6. Toezicht en handhaving door de Inspectie van het onderwijs
 
@@ -106,7 +108,7 @@ De melding, bedoeld in [artikel 5.2, eerste en tweede lid, van de wet](https://w
 
 3. De leden van het Commissariaat voor de Media zijn gemandateerd om ten aanzien van de rechtspersonen waarop het op grond van het eerste lid toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4), [5.5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5), en [5.6, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6).
 
-#### Paragraaf 4. Slotbepalingen
+#### Paragraaf 3. Toezicht en handhaving
 
 ##### Artikel 8. Intrekking uitgewerkte beschikking
 
@@ -123,5 +125,33 @@ Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatsc
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bezoldiging topfunctionarissen OCW-sectoren.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Toepassingsbereik
+
+Deze paragraaf is van toepassing op de topfunctionarissen van de cultuurfondsen.
+
+##### Artikel 5b. Verlaagde bezoldigingsmaxima topfunctionarissen van de cultuurfondsen
+
+In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen voor de topfunctionarissen van de cultuurfondsen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan:
+
+- a. € 123.024 voor zover het betreft
+
+- 1°. het Fonds voor Cultuurparticipatie,
+
+- 2°. het Nederlands Letterenfonds, of
+
+- 3°. het Stimuleringsfonds Creatieve Industrie; of
+
+- 4°. het Nederlands Fonds voor de Film; en
+
+- b. € 147.629 voor zover het betreft
+
+- 1°. het Mondriaan Fonds, of
+
+- 2°. het Nederlands Fonds voor Podiumkunsten+.
+
+#### Paragraaf 4. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
