@@ -4,7 +4,7 @@ identifier: "BWBR0040102"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-20"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040102"
 soort: "AMvB"
@@ -48,14 +48,14 @@ Wijzigt het Besluit decentralisatie- en integratie-uitkeringen.
 
 #### § 4. Slotbepalingen
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2017-10-26&g=2013-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2017-10-26&g=2014-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=2&z=2017-10-26&g=2013-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=2&z=2017-10-26&g=2014-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=2&artikel=3&z=2017-10-26&g=2013-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=2&artikel=3&z=2017-10-26&g=2014-01-01) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 Dit onderdeel is nog niet inwerking getreden
