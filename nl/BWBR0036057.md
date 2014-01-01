@@ -4,7 +4,7 @@ identifier: "BWBR0036057"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036057"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel X
 
@@ -103,13 +103,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Financiën van 26 november 2014, nr. DB/2014/479;
-
-Gelet op de [artikelen 3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [5.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16b), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8) en [10.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8), de [artikelen 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) en [31a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), de [artikelen 13l](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13l) en [28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13) en [15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9) en [11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [artikel 1:4 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [artikel 64 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) en [93 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93), [artikel 40a van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), [artikel 32 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) en [artikel 8.39 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 3 december 2014, nr. W06.14.0443/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 16 december 2014, nr. DB/2014/515M;
-
-Hebben goedgevonden en verstaan:
