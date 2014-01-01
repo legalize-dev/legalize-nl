@@ -4,7 +4,7 @@ identifier: "BWBR0028909"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-26"
-last_updated: "2010-10-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028909"
 soort: "beleidsregel"
@@ -102,7 +102,7 @@ Niet voor avv in aanmerking komen:
 
 ### 4.4. Werkingsduur
 
-Avv treedt in werking de tweede dag na publicatie van het besluit in de Staatscourant, dan wel op de in het besluit genoemde datum, en loopt tot maximaal de einddatum van de cao. De maximale looptijd van een besluit tot avv bedraagt 2 jaar, met uitzondering van bepalingen ten aanzien van fondsen ([artikel 2, tweede lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Een avv-besluit met betrekking tot fondsen kan voor een maximale looptijd van vijf jaar gelden (artikel 2, tweede lid, Wet AVV juncto [artikel 18, Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=18)).
+Avv treedt in werking de dag na publicatie van het besluit in de Staatscourant, dan wel op de in het besluit genoemde datum, en loopt tot maximaal de einddatum van de cao. De maximale looptijd van een besluit tot avv bedraagt 2 jaar, met uitzondering van bepalingen ten aanzien van fondsen ([artikel 2, tweede lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Een avv-besluit met betrekking tot fondsen kan voor een maximale looptijd van vijf jaar gelden (artikel 2, tweede lid, Wet AVV juncto [artikel 18, Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=18)).
 
 Wanneer het avv-verzoek betrekking heeft op cao-bepalingen met een verschillende looptijd kunnen de langer lopende bepalingen voor die langere duur algemeen verbindend worden verklaard mits ook de werkingssfeerbepalingen van de cao daarin voorzien. Een besluit tot avv heeft geen terugwerkende kracht. Dit impliceert dat cao-bepalingen die uitdrukkelijk tot een bepaald tijdstip van kracht zijn niet voor avv in aanmerking komen indien dat tijdstip gelegen is voor de inwerkingtreding van het avv-besluit. Evenmin komen voor avv in aanmerking cao-bepalingen ingevolge welke een eenmalig recht wordt toegekend, te verkrijgen op een tijdstip dat voor (of na) de werkingsduur van het avv-besluit ligt. Dit geldt ook ten aanzien van bepalingen waarin een eenmalige verplichting wordt opgelegd, te voldoen op een tijdstip dat voor (of na) de werkingsduur van het avv-besluit ligt. Bepalingen die avv als voorwaarde voor inwerkingtreding daarvan stellen komen niet voor avv in aanmerking.
 
