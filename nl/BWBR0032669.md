@@ -4,7 +4,7 @@ identifier: "BWBR0032669"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032669"
 soort: "ministeriele-regeling"
@@ -183,15 +183,15 @@ Op een verzoek om teruggaaf gedaan op de voet van [artikel XXXIII, eerste lid, v
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 
-- a. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=VI&z=2013-01-01&g=2013-01-01) terugwerkt tot en met 1 januari 2008;
+- a. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=VI&z=2014-01-01&g=2014-01-01) terugwerkt tot en met 1 januari 2008;
 
-- b. [artikel II, onderdeel F, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=II&z=2013-01-01&g=2013-01-01), terugwerkt tot en met 1 januari 2011;
+- b. [artikel II, onderdeel F, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=II&z=2014-01-01&g=2014-01-01), terugwerkt tot en met 1 januari 2011;
 
-- c. de [artikelen VII, onderdeel G, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=VII&z=2013-01-01&g=2013-01-01), [IX, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=IX&z=2013-01-01&g=2013-01-01), [XVII, onderdeel D, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XVII&z=2013-01-01&g=2013-01-01), [XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XIX&z=2013-01-01&g=2013-01-01), en [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XXIV&z=2013-01-01&g=2013-01-01) terugwerken tot en met 1 januari 2012;
+- c. de [artikelen VII, onderdeel G, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=VII&z=2014-01-01&g=2014-01-01), [IX, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=IX&z=2014-01-01&g=2014-01-01), [XVII, onderdeel D, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XVII&z=2014-01-01&g=2014-01-01), [XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XIX&z=2014-01-01&g=2014-01-01), en [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XXIV&z=2014-01-01&g=2014-01-01) terugwerken tot en met 1 januari 2012;
 
-- d. de [artikelen XV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XV&z=2013-01-01&g=2013-01-01), en [XXII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XXII&z=2013-01-01&g=2013-01-01), terugwerken tot en met 1 mei 2012.
+- d. de [artikelen XV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XV&z=2014-01-01&g=2014-01-01), en [XXII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=XXII&z=2014-01-01&g=2014-01-01), terugwerken tot en met 1 mei 2012.
 
-2. In afwijking van het eerste lid treedt [artikel II, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=II&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 januari 2014.
+2. In afwijking van het eerste lid treedt [artikel II, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0032669&artikel=II&z=2014-01-01&g=2014-01-01), in werking met ingang van 1 januari 2014.
 
 Handelende wat [artikel 3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Infrastructuur en Milieu;
 
