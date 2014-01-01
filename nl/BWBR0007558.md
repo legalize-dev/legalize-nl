@@ -4,7 +4,7 @@ identifier: "BWBR0007558"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2003-12-31"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007558"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het 
 
 ##### Artikel 2
 
-De bevoegde autoriteit, bedoeld in [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=1), is de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31) van deze regeling bedoelde functionaris, voor de aldaar genoemde scheepvaartwegen.
+Vervallen
 
 ##### Artikel 3
 
@@ -96,9 +96,9 @@ De regionale autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel c, van het
 
 - b. voor de regio Amsterdam-IJmond: het algemeen bestuur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied;
 
-- c. voor de regio Rotterdam-Rijnmond: de functionaris, bedoeld in [artikel 1, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31);
+- c. voor de regio Rotterdam-Rijnmond: de functionaris, bedoeld in [artikel 1, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2014-01-01&g=2014-01-01);
 
-- d. voor de regio Scheldemonden: de functionaris, bedoeld in [artikel 1, onderdeel a, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31).
+- d. voor de regio Scheldemonden: de functionaris, bedoeld in [artikel 1, onderdeel a, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 4
 
