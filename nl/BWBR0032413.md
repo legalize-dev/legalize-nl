@@ -4,7 +4,7 @@ identifier: "BWBR0032413"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032413"
 soort: "ministeriele-regeling"
@@ -48,21 +48,35 @@ In deze regeling wordt verstaan onder:
 
 - **Besluit 2011/278/EU:** Besluit 2011/278/EU van de Commissie van 27 april 2011 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10bis van [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad (PbEU L 130);
 
-- **Kyotorekening:** rekening in het PK-register, bedoeld in artikel 3, eerste lid, van Verordening (EU) 920/2010 van de Commissie van 7 oktober 2010 tot instelling van een EU-register voor de op 31 december 2012 eindigende perioden van de EU-regeling voor de handel in emissierechten krachtens [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad en Beschikking nr. 280/2004/EG van het Europees Parlement en de Raad;
+- **CDM-projectactiviteit:** projectactiviteit als bedoeld in artikel 16.46b, eerste lid, onderdeel b, van de wet;
+
+- **CDM-raad:** raad van bestuur van het mechanisme voor schone ontwikkeling, bedoeld in artikel 12, vierde lid, van het Protocol van Kyoto;
+
+- **geaccrediteerde onafhankelijke entiteit:** entiteit die is aangewezen volgens de procedure, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 9/CMP.1, Bijlage, sectie E;
+
+- **JI-projectactiviteit:** projectactiviteit als bedoeld in artikel 16.46b, eerste lid, onderdeel a, van de wet;
+
+- **Kyotorekening:** rekening in het PK-register, bedoeld in artikel 5 van Verordening EU-register handel in emissierechten;
 
 - **minister:** Minister van Infrastructuur en Milieu;
 
+- **multilaterale ontwikkelingsbank:** African Development Bank, Asian Development Bank, Caribbean Development Bank, Council of Europe Development Bank, Europees Investeringsfonds, Europese Bank voor Wederopbouw en Ontwikkeling, Europese Investeringsbank, Inter American Development Bank, Inter-American Investment Corporation, International Bank for Reconstruction and Development en International Finance Corporation, Multilateral Investment Guarantee Agency of Nordic Investment Bank;
+
+- **nalevingsrapport hydro-elektrische projectactiviteiten:** rapport als bedoeld in artikel 58, tweede lid, onderdeel g, onder 1°;
+
 - **onjuiste opgave:** omissie, verkeerde voorstelling of fout in het emissieverslag, met uitzondering van de toelaatbare onzekerheid;
+
+- **operationele instelling:** instelling die is aangewezen volgens de procedure, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 3/CMP.1, Bijlage, sectie D;
 
 - **rekeninghouder:** houder van een
 
-- 1°. exploitanttegoedrekening als bedoeld in artikel 14 van de EU-verordening register handel in broeikasgasemissierechten,
+- 1°. exploitanttegoedrekening als bedoeld in artikel 16 van de Verordening EU-register handel in emissierechten,
 
-- 2°. vliegtuigexploitantrekening als bedoeld in artikel 15 van de EU-verordening register handel in broeikasgasemissierechten,
+- 2°. vliegtuigexploitantrekening als bedoeld in artikel 17 van de Verordening EU-register handel in emissierechten,
 
-- 3°. handelsrekening als bedoeld in artikel 16 van de EU-verordening register handel in broeikasgasemissierechten,
+- 3°. handelsrekening als bedoeld in artikel 18 van de Verordening EU-register handel in emissierechten,
 
-- 4°. persoonstegoedrekening als bedoeld in artikel 16 van de EU-verordening register handel in broeikasgasemissierechten of
+- 4°. persoonstegoedrekening als bedoeld in artikel 18 van de Verordening EU-register handel in emissierechten of
 
 - 5°. Kyotorekening;
 
@@ -72,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Interpretatie en reikwijdte handel in broeikasgasemissierechten luchtvaart
 
-1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens de bij deze regeling behorende bijlage.
+1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=1&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 2. Een commerciële luchtvervoersonderneming die:
 
@@ -80,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 - b. vluchten met een totale jaarlijkse emissie van 10.000 ton of meer uitvoert,
 
-valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of overschreden onder de reikwijdte van[afdeling 16.2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.2).
+valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of overschreden onder de reikwijdte van [afdeling 16.2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.2).
 
 3. De lokale tijd van vertrek van de vlucht bepaalt welke periode van vier maanden als bedoeld in het tweede lid in aanmerking wordt genomen.
 
@@ -88,7 +102,7 @@ valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of ov
 
 ##### Artikel 3. Begripsbepalingen bij interpretatie handel in broeikasgasemissierechten luchtvaart
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01) en de op dat artikel berustende bijlage wordt verstaan onder:
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2014-01-01&g=2014-01-01) en de op dat artikel berustende bijlage wordt verstaan onder:
 
 commerciële luchtvervoersonderneming: exploitant die houder is van een bewijs luchtvaartexploitant (AOC) als bedoeld in deel I van bijlage 6 bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
@@ -128,7 +142,7 @@ als bedoeld in [artikel 16.2a, tweede lid, van de wet](https://wetten.overheid.n
 
 1. Een monitoringsplan wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. Indien degene die een inrichting drijft de gegevens, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01), en de gegevens in het kader van een aanvraag om kosteloze toewijzing van broeikasgasemissierechten overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&artikel=42&z=2013-01-01&g=2013-01-01) per afzonderlijke broeikasgasinstallatie heeft verstrekt, wordt per broeikasgasinstallatie een monitoringsplan opgesteld.
+2. Indien degene die een inrichting drijft de gegevens, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01), en de gegevens in het kader van een aanvraag om kosteloze toewijzing van broeikasgasemissierechten overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&artikel=42&z=2014-01-01&g=2014-01-01) per afzonderlijke broeikasgasinstallatie heeft verstrekt, wordt per broeikasgasinstallatie een monitoringsplan opgesteld.
 
 3. Overeenkomstig artikel 12, derde lid, van de Verordening monitoring en rapportage emissiehandel vermeldt degene die een inrichting drijft in het monitoringsplan een samenvatting van de procedure als bedoeld in dat artikel. Deze procedure heeft in ieder geval betrekking op de registratie van gegevens met betrekking tot het capaciteitsniveau en het activiteitenniveau alsmede het bijhouden van deze gegevens.
 
@@ -204,7 +218,7 @@ Voor de meldingen wordt gebruikgemaakt van door het bestuur van de emissieautori
 
 1. Voor het emissieverslag wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. Indien degene die een inrichting drijft de gegevens, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01), en de gegevens in het kader van een aanvraag om kosteloze toewijzing van broeikasgasemissierechten overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&artikel=42&z=2013-01-01&g=2013-01-01) per afzonderlijke broeikasgasinstallatie heeft verstrekt, wordt per broeikasgasinstallatie een emissieverslag ingediend.
+2. Indien degene die een inrichting drijft de gegevens, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01), en de gegevens in het kader van een aanvraag om kosteloze toewijzing van broeikasgasemissierechten overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&artikel=42&z=2014-01-01&g=2014-01-01) per afzonderlijke broeikasgasinstallatie heeft verstrekt, wordt per broeikasgasinstallatie een emissieverslag ingediend.
 
 #### § 2.1.6. **Verificatie en het principe van continue verbetering**
 
@@ -278,7 +292,7 @@ De tonkilometergegevens worden aangeleverd met gebruikmaking van een door het be
 
 ##### Artikel 30. Verificatierapport en continue verbetering
 
-De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2013-01-01&g=2013-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=21&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op luchtvaartactiviteiten.
+De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2014-01-01&g=2014-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=21&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing op luchtvaartactiviteiten.
 
 ### Hoofdstuk 3. Toewijzing broeikasgasemissierechten
 
@@ -294,11 +308,11 @@ Als veiler als bedoeld in artikel 22, eerste lid, van verordening (EU) nr. 1031/
 
 1. Deze paragraaf is van toepassing op inrichtingen waarin zich installaties bevinden waarin een of meer activiteiten worden verricht, die behoren tot een categorie die is aangewezen in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten en die in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 11 van de EG-richtlijn handel in broeikasgasemissierechten.
 
-2. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=35&z=2013-01-01&g=2013-01-01) zijn ook van toepassing op inrichtingen als bedoeld in het eerste lid, die niet in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten.
+2. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=35&z=2014-01-01&g=2014-01-01) zijn ook van toepassing op inrichtingen als bedoeld in het eerste lid, die niet in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten.
 
 ##### Artikel 33. Gegevensverstrekking
 
-1. Degene die een inrichting drijft, verstrekt het bestuur van de emissieautoriteit de door dat bestuur overeenkomstig Besluit 2011/278/EU in het standaardformulier, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=35&z=2013-01-01&g=2013-01-01), aangewezen gegevens met betrekking tot de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. De gegevensverstrekking vindt plaats voor de dag die ligt drie maanden na de dag waarop het bestuur van de emissieautoriteit kennisgeving heeft gedaan van het feit dat het standaardformulier op de website van de emissieautoriteit is geplaatst. De kennisgeving, bedoeld in de eerste volzin, wordt gedaan in de Staatscourant en op genoemde website.
+1. Degene die een inrichting drijft, verstrekt het bestuur van de emissieautoriteit de door dat bestuur overeenkomstig Besluit 2011/278/EU in het standaardformulier, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=35&z=2014-01-01&g=2014-01-01), aangewezen gegevens met betrekking tot de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. De gegevensverstrekking vindt plaats voor de dag die ligt drie maanden na de dag waarop het bestuur van de emissieautoriteit kennisgeving heeft gedaan van het feit dat het standaardformulier op de website van de emissieautoriteit is geplaatst. De kennisgeving, bedoeld in de eerste volzin, wordt gedaan in de Staatscourant en op genoemde website.
 
 2. Als te verstrekken gegevens kunnen in ieder geval worden aangewezen gegevens die betrekking hebben op een activiteit als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten over:
 
@@ -320,7 +334,7 @@ Als veiler als bedoeld in artikel 22, eerste lid, van verordening (EU) nr. 1031/
 
 ##### Artikel 34. Overleggen methodologieverslag
 
-1. Bij het verstrekken van gegevens op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) wordt een methodologieverslag overgelegd waarin verantwoording wordt afgelegd over die gegevens.
+1. Bij het verstrekken van gegevens op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) wordt een methodologieverslag overgelegd waarin verantwoording wordt afgelegd over die gegevens.
 
 2. Het methodologieverslag wordt opgesteld overeenkomstig Besluit 2011/278/EU en de daarbij behorende Europese interpretatiedocumenten, zoals die zijn geplaatst op de website van de emissieautoriteit. Het verslag bevat ten minste:
 
@@ -332,37 +346,37 @@ Als veiler als bedoeld in artikel 22, eerste lid, van verordening (EU) nr. 1031/
 
 - d. een lijst met subinstallaties en de daarbij behorende gegevens;
 
-- e. de wijze waarop de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens zijn bepaald;
+- e. de wijze waarop de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens zijn bepaald;
 
 - f. de wijze waarop onduidelijkheden en leemtes in de gegevens zijn geïdentificeerd en behandeld.
 
-3. Het methodologieverslag bevat voorts alle overige informatie die het bestuur van de emissieautoriteit nodig heeft om te kunnen beoordelen of degene die de inrichting drijft, op adequate wijze verantwoording heeft afgelegd over de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens en die voor voornoemd bestuur noodzakelijk zijn om voor de betrokken categorie installaties het aantal overeenkomstig artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten kosteloos toe te wijzen broeikasgasemissierechten te kunnen berekenen.
+3. Het methodologieverslag bevat voorts alle overige informatie die het bestuur van de emissieautoriteit nodig heeft om te kunnen beoordelen of degene die de inrichting drijft, op adequate wijze verantwoording heeft afgelegd over de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens en die voor voornoemd bestuur noodzakelijk zijn om voor de betrokken categorie installaties het aantal overeenkomstig artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten kosteloos toe te wijzen broeikasgasemissierechten te kunnen berekenen.
 
 ##### Artikel 35. Standaardformulier
 
-De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens worden verstrekt en het methodologieverslag wordt opgesteld en overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze en met gebruikmaking van een door dat bestuur vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
+De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens worden verstrekt en het methodologieverslag wordt opgesteld en overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze en met gebruikmaking van een door dat bestuur vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens
+##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens
 
-1. Degene die een inrichting drijft, bepaalt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens overeenkomstig Besluit 2011/278/EU.
+1. Degene die een inrichting drijft, bepaalt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens overeenkomstig Besluit 2011/278/EU.
 
-2. Indien zich binnen de inrichting installaties bevinden waarop [afdeling 16.2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.1) van toepassing is en indien op de inrichting op grond van Besluit 2011/278/EU een warmtebenchmark, een brandstofbenchmark of een aan procesemissies gerelateerde benchmark van toepassing is, bepaalt degene die de inrichting drijft het jaarlijkse verbruik van brandstoffen, bedoeld in [artikel 33, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01), en de daarbij behorende parameters onderscheidenlijk de procesemissies, bedoeld in artikel 33, tweede lid, onder d, en de daarbij behorende parameters voor zover mogelijk overeenkomstig de op de inrichting van toepassing zijnde eisen van deze regeling.
+2. Indien zich binnen de inrichting installaties bevinden waarop [afdeling 16.2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.1) van toepassing is en indien op de inrichting op grond van Besluit 2011/278/EU een warmtebenchmark, een brandstofbenchmark of een aan procesemissies gerelateerde benchmark van toepassing is, bepaalt degene die de inrichting drijft het jaarlijkse verbruik van brandstoffen, bedoeld in [artikel 33, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01), en de daarbij behorende parameters onderscheidenlijk de procesemissies, bedoeld in artikel 33, tweede lid, onder d, en de daarbij behorende parameters voor zover mogelijk overeenkomstig de op de inrichting van toepassing zijnde eisen van deze regeling.
 
-3. Degene die een inrichting drijft, neemt bij het bepalen van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens alle subinstallaties in acht alsmede alle voor de van toepassing zijnde benchmark relevante producten, warmtestromen, brandstofstromen, materiaalstromen en bronnen die samenhangen met de activiteiten, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten. Daarbij worden dubbeltellingen voorkomen.
+3. Degene die een inrichting drijft, neemt bij het bepalen van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens alle subinstallaties in acht alsmede alle voor de van toepassing zijnde benchmark relevante producten, warmtestromen, brandstofstromen, materiaalstromen en bronnen die samenhangen met de activiteiten, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten. Daarbij worden dubbeltellingen voorkomen.
 
-4. Degene die een inrichting drijft, zorgt ervoor dat de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens consistent zijn over de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. Degene die de inrichting drijft, maakt daartoe zoveel mogelijk gebruik van dezelfde monitoringsmethodieken en gegevensbestanden.
+4. Degene die een inrichting drijft, zorgt ervoor dat de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens consistent zijn over de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. Degene die de inrichting drijft, maakt daartoe zoveel mogelijk gebruik van dezelfde monitoringsmethodieken en gegevensbestanden.
 
-5. Degene die een inrichting drijft, verzamelt, registreert, analyseert en documenteert de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens.
+5. Degene die een inrichting drijft, verzamelt, registreert, analyseert en documenteert de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens.
 
-6. Degene die een inrichting drijft, bepaalt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens met de hoogst mogelijke graad van nauwkeurigheid waarbij bronnen van onzekerheid zoveel mogelijk worden beperkt.
+6. Degene die een inrichting drijft, bepaalt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens met de hoogst mogelijke graad van nauwkeurigheid waarbij bronnen van onzekerheid zoveel mogelijk worden beperkt.
 
 ##### Artikel 37. Ontbreken van gegevens
 
-Indien met betrekking tot de kalenderjaren 2005 tot en met 2010 of, voor zover van toepassing, 2011 geen gegevens als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) beschikbaar zijn of indien deze gegevens niet volledig of onduidelijk zijn, worden deze gegevens door degene die de inrichting drijft overeenkomstig Besluit 2011/278/EU op een zodanige wijze geschat dat deze schatting niet leidt tot een te hoge kosteloze toewijzing van broeikasgasemissierechten. De wijze waarop tot de schatting is gekomen, wordt opgenomen in het methodologieverslag.
+Indien met betrekking tot de kalenderjaren 2005 tot en met 2010 of, voor zover van toepassing, 2011 geen gegevens als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) beschikbaar zijn of indien deze gegevens niet volledig of onduidelijk zijn, worden deze gegevens door degene die de inrichting drijft overeenkomstig Besluit 2011/278/EU op een zodanige wijze geschat dat deze schatting niet leidt tot een te hoge kosteloze toewijzing van broeikasgasemissierechten. De wijze waarop tot de schatting is gekomen, wordt opgenomen in het methodologieverslag.
 
 ##### Artikel 38. Verificatierapport van de verificateur
 
-De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens en het methodologieverslag gaan vergezeld van een verificatierapport van een hiertoe bevoegde verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2013-01-01&g=2013-01-01).
+De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens en het methodologieverslag gaan vergezeld van een verificatierapport van een hiertoe bevoegde verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 39. Verificatiewerkzaamheden
 
@@ -370,7 +384,7 @@ De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&p
 
 - a. het uitvoeren van de verificatiewerkzaamheden die nodig zijn om een verificatierapport te kunnen afgeven;
 
-- b. het constateren van onjuiste opgaven in de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens of het methodologieverslag of van het feit dat deze gegevens of dit verslag niet voldoen aan de in het tweede lid bedoelde eisen;
+- b. het constateren van onjuiste opgaven in de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens of het methodologieverslag of van het feit dat deze gegevens of dit verslag niet voldoen aan de in het tweede lid bedoelde eisen;
 
 - c. het mededelen van de onder b bedoelde constateringen aan degene die de inrichting drijft;
 
@@ -380,25 +394,25 @@ De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&p
 
 - f. het doen van een verzoek als bedoeld in het derde lid.
 
-2. De verificateur beoordeelt of de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens en het methodologieverslag geen onjuiste opgaven bevatten en niet in strijd zijn met de eisen die zijn gesteld in deze paragraaf.
+2. De verificateur beoordeelt of de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens en het methodologieverslag geen onjuiste opgaven bevatten en niet in strijd zijn met de eisen die zijn gesteld in deze paragraaf.
 
-3. De verificateur verzoekt degene die de inrichting drijft binnen een bepaalde termijn eventueel ontbrekende gegevens alsnog te verstrekken, afwijkingen in de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens of het methodologieverslag te verklaren of, indien noodzakelijk, berekeningen te herzien dan wel de gerapporteerde gegevens bij te stellen, alvorens hij een verificatierapport afgeeft.
+3. De verificateur verzoekt degene die de inrichting drijft binnen een bepaalde termijn eventueel ontbrekende gegevens alsnog te verstrekken, afwijkingen in de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens of het methodologieverslag te verklaren of, indien noodzakelijk, berekeningen te herzien dan wel de gerapporteerde gegevens bij te stellen, alvorens hij een verificatierapport afgeeft.
 
-4. Indien de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens of het methodologieverslag in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het tweede lid bedoelde eisen, geeft de verificateur een verificatierapport af waarin is aangegeven dat de in artikel 33 bedoelde gegevens en het methodologieverslag niet als bevredigend zijn geverifieerd.
+4. Indien de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens of het methodologieverslag in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het tweede lid bedoelde eisen, geeft de verificateur een verificatierapport af waarin is aangegeven dat de in artikel 33 bedoelde gegevens en het methodologieverslag niet als bevredigend zijn geverifieerd.
 
-5. De verificateur kan een verificatierapport afgeven over de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens en het methodologieverslag, indien hij wegens opgelegde restricties of door andere omstandigheden niet al het noodzakelijke bewijsmateriaal heeft kunnen verkrijgen dat nodig is om te verklaren dat de in artikel 33 bedoelde gegevens of het methodologieverslag in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het tweede lid bedoelde eisen.
+5. De verificateur kan een verificatierapport afgeven over de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens en het methodologieverslag, indien hij wegens opgelegde restricties of door andere omstandigheden niet al het noodzakelijke bewijsmateriaal heeft kunnen verkrijgen dat nodig is om te verklaren dat de in artikel 33 bedoelde gegevens of het methodologieverslag in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het tweede lid bedoelde eisen.
 
 ##### Artikel 40. Informatieverplichting met betrekking tot verificatie
 
-1. Degene die de inrichting drijft, stelt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens, het methodologieverslag alsmede andere voor de verificatie relevante informatie ter beschikking aan de verificateur.
+1. Degene die de inrichting drijft, stelt de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens, het methodologieverslag alsmede andere voor de verificatie relevante informatie ter beschikking aan de verificateur.
 
-2. Degene die de inrichting drijft, herstelt, voor zover mogelijk, de in [artikel 39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2013-01-01&g=2013-01-01), bedoelde onjuiste opgaven alsmede de in artikel 39, eerste lid, onder b, bedoelde strijd met de in artikel 39, tweede lid, bedoelde eisen.
+2. Degene die de inrichting drijft, herstelt, voor zover mogelijk, de in [artikel 39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2014-01-01&g=2014-01-01), bedoelde onjuiste opgaven alsmede de in artikel 39, eerste lid, onder b, bedoelde strijd met de in artikel 39, tweede lid, bedoelde eisen.
 
 ##### Artikel 41. Eisen aan verificateur
 
 1. De verificateur is voor een of meer activiteiten als bedoeld in bijlage I bij de Verordening verificatie en accreditatie emissiehandel geaccrediteerd door een nationale accreditatie-instantie volgens de eisen van die verordening.
 
-2. Een verificateur mag niet de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01) bedoelde gegevens en het methodologieverslag verifiëren van een inrichting waarin activiteiten als bedoeld in bijlage I bij de Verordening verificatie en accreditatie emissiehandel worden verricht waarvoor hij niet door een accreditatie-instantie is geaccrediteerd als bedoeld in het eerste lid.
+2. Een verificateur mag niet de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01) bedoelde gegevens en het methodologieverslag verifiëren van een inrichting waarin activiteiten als bedoeld in bijlage I bij de Verordening verificatie en accreditatie emissiehandel worden verricht waarvoor hij niet door een accreditatie-instantie is geaccrediteerd als bedoeld in het eerste lid.
 
 3. De verificateur houdt een interne verificatiedocumentatie bij die voldoende informatie bevat om daarop het verificatierapport te baseren.
 
@@ -410,11 +424,11 @@ De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&p
 
 1. Voor de aanvraag om kosteloze toewijzing van broeikasgasemissierechten, bedoeld in [artikel 16.32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.32), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. De bij de aanvraag verstrekte gegevens gaan vergezeld van een verificatierapport van een verificateur. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2013-01-01&g=2013-01-01) zijn van overeenkomstig toepassing.
+2. De bij de aanvraag verstrekte gegevens gaan vergezeld van een verificatierapport van een verificateur. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2014-01-01&g=2014-01-01) zijn van overeenkomstig toepassing.
 
 3. Degene die een aanvraag om kosteloze toewijzing doet, kan de benodigde gegevens per afzonderlijke broeikasgasinstallatie binnen de inrichting verstrekken.
 
-4. Het derde lid geldt niet voor broeikasgasinstallaties waarvoor al eerder gegevens zijn aangeleverd ter uitvoering van dit artikel of van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2013-01-01&g=2013-01-01).
+4. Het derde lid geldt niet voor broeikasgasinstallaties waarvoor al eerder gegevens zijn aangeleverd ter uitvoering van dit artikel of van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2014-01-01&g=2014-01-01).
 
 5. De minister beslist binnen vier maanden na ontvangst op de aanvraag.
 
@@ -426,13 +440,13 @@ De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&p
 
 2. De gevraagde gegevens gaan vergezeld van een verificatierapport van een verificateur.
 
-3. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
 
 #### § 3.5. **Wijzigingen broeikasgasinstallatie**
 
 ##### Artikel 44. Gehele beëindiging werking broeikasgasinstallatie
 
-1. Indien de werking van een broeikasgasinstallatie geheel wordt beëindigd als bedoeld in artikel 22, eerste lid, van Besluit 2011/278/EU, meldt de vergunninghouder dit schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de ingangsdatum van de beëindiging.
+1. Indien de werking van een broeikasgasinstallatie geheel wordt beëindigd als bedoeld in artikel 22, eerste lid, van Besluit 2011/278/EU, meldt de vergunninghouder dit schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de ingangsdatum van de beëindiging. Onder het geheel beëindigen van de werking van een broeikasgasinstallatie wordt tevens verstaan de omstandigheid dat [afdeling 16.2.1. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.1) niet langer van toepassing is.
 
 2. De melding wordt gedaan binnen zes weken nadat de werking van de broeikasgasinstallatie geheel is beëindigd. Indien de werking van de broeikasgasinstallatie geheel is beëindigd in de maand december van enig jaar, wordt de melding gedaan voor 20 januari van het daarop volgende kalenderjaar.
 
@@ -458,23 +472,23 @@ De in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&p
 
 ##### Artikel 48. Melding buiten reikwijdte
 
-Indien [afdeling 16.2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.1) door een omstandigheid niet meer van toepassing is op de inrichting, meldt de vergunninghouder dit binnen zes weken schriftelijk aan het bestuur van de emissieautoriteit onder vermelding van de datum waarop bedoelde omstandigheid zich heeft voorgedaan.
+Vervallen
 
 ##### Artikel 49. Formulier en verificatierapport van de verificateur
 
-1. Voor de meldingen, bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2013-01-01&g=2013-01-01), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
+1. Voor de meldingen, bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2014-01-01&g=2014-01-01), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. De meldingen, bedoeld in de [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2013-01-01&g=2013-01-01), gaan vergezeld van een verificatierapport van een verificateur. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing.
+2. De meldingen, bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2014-01-01&g=2014-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2014-01-01&g=2014-01-01) en [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01), gaan vergezeld van een verificatierapport van een verificateur. De [artikelen 38 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 50. Melden wijzigingen periode 1 juli 2011 tot 1 juli 2012
 
-In afwijking van de termijnen, genoemd in de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2013-01-01&g=2013-01-01), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2013-01-01&g=2013-01-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2013-01-01&g=2013-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2013-01-01&g=2013-01-01), worden de bedoelde meldingen uiterlijk 15 augustus 2012 gedaan, indien de wijziging zich heeft voorgedaan in de periode die loopt van 1 juli 2011 tot en met 30 juni 2012.
+In afwijking van de termijnen, genoemd in de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2014-01-01&g=2014-01-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2014-01-01&g=2014-01-01), [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2014-01-01&g=2014-01-01) en [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2014-01-01&g=2014-01-01), worden de bedoelde meldingen uiterlijk 15 augustus 2012 gedaan, indien de wijziging zich heeft voorgedaan in de periode die loopt van 1 juli 2011 tot en met 30 juni 2012.
 
 ### Hoofdstuk 4. Register
 
 ##### Artikel 51. Vergoeding openen en onderhouden van een rekening
 
-1. Voor het onderhouden van een persoonstegoed- of handelsrekening als bedoeld in artikel 16 van de EU-verordening register handel in broeikasgasemissierechten of een Kyotorekening is degene op wiens verzoek de rekening is geopend een vergoeding verschuldigd aan de emissieautoriteit.
+1. Voor het onderhouden van een persoonstegoed- of handelsrekening als bedoeld in artikel 18 van de Verordening EU-register handel in emissierechten of een Kyotorekening is degene op wiens verzoek de rekening is geopend een vergoeding verschuldigd aan de emissieautoriteit.
 
 2. De vergoeding bedraagt per rekening € 200 per kalenderjaar.
 
@@ -482,7 +496,7 @@ In afwijking van de termijnen, genoemd in de [artikelen 43, tweede lid](https://
 
 Tegen een vergoeding van € 1.350 per kalenderjaar kan een rekeninghouder gebruikmaken van een of meerdere van de volgende door de emissieautoriteit aangeboden diensten:
 
-- a. telefonisch contact met de helpdesk op werkdagen tussen 12.00 en 17.00 uur;
+- a. telefonisch contact met de helpdesk op werkdagen tussen 09.00 en 17.00 uur;
 
 - b. opstellen van rapportages van transacties over een overeengekomen periode tot een maximum van achttien rapportages per kalenderjaar;
 
@@ -528,47 +542,91 @@ Tegen een vergoeding van € 1.350 per kalenderjaar kan een rekeninghouder gebru
 
 Indien een opsporingsdienst een redelijk vermoeden heeft dat met een rekening fraude wordt gepleegd, geld wordt witgewassen, terrorisme wordt gefinancierd of andere ernstige strafbare feiten worden gepleegd, kan die opsporingsdienst de nationale administrateur verzoeken om schorsing van:
 
-- a. de toegang tot de rekening overeenkomstig artikel 31, achtste lid, van de EU-verordening register handel in broeikasgasemissierechten;
+- a. de toegang tot de rekening overeenkomstig artikel 34, derde lid, van de Verordening EU-register handel in emissierechten;
 
-- b. de toegang tot de desbetreffende broeikasgasemissierechten overeenkomstig artikel 71, vierde lid, van de EU-verordening register handel in broeikasgasemissierechten.
+- b. de toegang tot de desbetreffende broeikasgasemissierechten overeenkomstig artikel 97, eerste lid, van de Verordening EU-register handel in emissierechten.
 
 ##### Artikel 56. Verplichtingen voor de houder van een exploitanttegoedrekening, de houder van een vliegtuigexploitanttegoedrekening en de verificateur
 
-1. De houder van een exploitanttegoedrekening als bedoeld in artikel 14 van de EU-verordening register handel in broeikasgasemissierechten voert in het register de emissiegegevens uit het op de betrokken inrichting betrekking hebbende emissieverslag in overeenkomstig artikel 32, tweede lid, van die verordening.
+1. De houder van een exploitanttegoedrekening als bedoeld in artikel 16 van de Verordening EU-register handel in emissierechten voert in het register de emissiegegevens uit het op de betrokken inrichting betrekking hebbende emissieverslag in overeenkomstig artikel 35, tweede lid, van die verordening.
 
-2. De houder van een vliegtuigexploitanttegoedrekening als bedoeld in artikel 15 van de EU-verordening register handel in broeikasgasemissierechten voert in het register de emissiegegevens uit het emissieverslag, met betrekking tot de luchtvaartactiviteiten waarvoor hij verantwoordelijk is, in overeenkomstig artikel 32, tweede lid, van die verordening.
+2. De houder van een vliegtuigexploitanttegoedrekening als bedoeld in artikel 17 van de Verordening EU-register handel in emissierechten voert in het register de emissiegegevens uit het emissieverslag, met betrekking tot de luchtvaartactiviteiten waarvoor hij verantwoordelijk is, in overeenkomstig artikel 35, tweede lid, van die verordening.
 
-3. De verificateur merkt de door hem overeenkomstig artikel 32, vierde lid, van de EU-verordening register handel in broeikasgasemissierechten goedgekeurde emissies in het register aan als geverifieerd overeenkomstig artikel 32, vijfde lid, van die verordening.
+3. De verificateur merkt de door hem overeenkomstig artikel 35, vierde lid, van de Verordening EU-register handel in emissierechten goedgekeurde emissies in het register aan als geverifieerd overeenkomstig artikel 35, vijfde lid, van die verordening.
 
 ##### Artikel 57. Bevoegdheid tot opschorten storting toegewezen broeikasgasemissierechten
 
-Indien een melding als bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&z=2013-01-01&g=2013-01-01) tot een significante verlaging van het aantal
+Indien een melding als bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&z=2014-01-01&g=2014-01-01) tot een significante verlaging van het aantal
 
 toegewezen broeikasgasemissierechten kan leiden, kan het bestuur van de emissieautoriteit de nationale administrateur verzoeken om de bijschrijving van het aantal toegewezen emissierechten op te schorten.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 58. Inwerkingtreding
+##### Artikel 58
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.
+1. Bij een verzoek om instemming met deelname aan een CDM-projectactiviteit worden in ieder geval de volgende gegevens overgelegd:
 
-##### Artikel 59. Intrekking regelingen en overgangsrecht handel in NOx-emissierechten
+- a. in het geval de projectactiviteit reeds door de CDM-raad op grond van overeenkomstig het Protocol van Kyoto genomen besluiten is geregistreerd: de naam en het registratienummer van de projectactiviteit en de datum van registratie;
 
-1. De volgende regelingen worden ingetrokken:
+- b. in het geval de projectactiviteit nog niet door de CDM-raad is geregistreerd: de naam van de projectactiviteit zoals deze is opgenomen op de instemming van de bevoegde autoriteit van het land waar de projectactiviteit plaatsvindt.
 
-- a. de [Regeling aanwijzing veiler broeikasgasemissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0031660),
+2. Bij het verzoek om instemming, bedoeld in het eerste lid, worden in ieder geval de volgende bescheiden overgelegd:
 
-- b. de [Regeling interpretatie luchtvaartactiviteiten handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0027269),
+- a. in het geval de projectdeelnemer een rechtspersoon is: een kleurenkopie van een geldig legitimatiebewijs van de vertegenwoordigingsbevoegde;
 
-- c. de [Regeling monitoring handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017699) en
+- b. in het geval de projectdeelnemer een natuurlijk persoon is: een kleurenkopie van een geldig legitimatiebewijs;
 
-- d. de [Regeling register handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0030614).
+- c. een verklaring van de projectdeelnemer dat de deelname aan de projectactiviteit zal voldoen aan de eisen die in het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten aan die deelname zijn gesteld;
 
-2. De bepalingen van [hoofdstuk 3 van de Regeling monitoring handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017699&hoofdstuk=3), zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de emissies van stikstofoxiden, zolang [titel 16.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.3) op die emissies van toepassing is.
+- d. een afschrift van het ontwerp van de projectactiviteit, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 3/CMP.1, Bijlage, sectie G, onder 35, in samenhang met sectie B;
 
-##### Artikel 60. Citeertitel
+- e. een afschrift van het in ieder geval nagenoeg gereed zijnde validatierapport, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 3/CMP.1, Bijlage, sectie G, onder 40;
 
-Deze regeling wordt aangehaald als: Regeling handel in emissierechten.
+- f. een afschrift van de instemming van de bevoegde autoriteit van het land waar de projectactiviteit plaatsvindt;
+
+- g. voor zover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW:
+
+- 1°. een nalevingsrapport hydro-elektrische projectactiviteiten dat op het moment van indiening van de aanvraag niet ouder is dan achttien maanden en dat door een voor deze projectactiviteiten aangewezen operationele instelling is gevalideerd, of
+
+- 2°. een verklaring van een multilaterale ontwikkelingsbank dat de projectactiviteit voldoet aan de door de multilaterale ontwikkelingsbank gehanteerde standaarden ten behoeve van milieu en sociaal beleid en die op het moment van indiening van de aanvraag niet ouder is dan achttien maanden.
+
+3. Het nalevingsrapport hydro-elektrische projectactiviteiten wordt opgesteld met gebruikmaking van het model, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=2&z=2014-01-01&g=2014-01-01) bij deze regeling.
+
+4. De bescheiden, bedoeld in het tweede lid, onderdelen c tot en met g, mogen Engelstalig zijn en de bescheiden, bedoeld in het tweede lid mogen elektronisch worden aangeleverd.
+
+##### Artikel 59
+
+1. Bij een verzoek om instemming met deelname aan een JI-projectactiviteit waarvoor de procedure, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 9/CMP.1, bijlage, sectie E, wordt toegepast, worden in ieder geval de volgende gegevens en bescheiden overgelegd:
+
+- a. de naam van de projectactiviteit;
+
+- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met d en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01), met dien verstande dat:
+
+- 1°. in onderdeel d in plaats van ‘besluit 3/CMP.1, Bijlage, sectie G, onder 35, in samenhang met sectie B’ wordt gelezen: besluit 9/CMP.1, Bijlage, sectie E, onder 31, in samenhang met sectie B;
+
+- 2°. in onderdeel g plaats van ‘operationele instelling’ wordt gelezen: geaccrediteerde onafhankelijke entiteit, en
+
+- c. een afschrift van de determinatie, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 9/CMP.1, Bijlage, sectie E, onder 35.
+
+2. Bij een verzoek om instemming met deelname aan een JI-projectactiviteit waarvoor de procedure, bedoeld in het eerste lid, niet wordt toegepast, worden in ieder geval de volgende gegevens en bescheiden overgelegd:
+
+- a. de naam van de projectactiviteit;
+
+- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met c en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01), met dien verstande dat in onderdeel h in plaats van ‘operationele instelling’ wordt gelezen: geaccrediteerde onafhankelijke entiteit;
+
+- c. een afschrift van het rapport inzake de projectactiviteit dat is opgesteld conform de wet- en regelgeving van het land waar de projectactiviteit plaatsvindt, en
+
+- d. een afschrift van het ontwerp van de projectactiviteit.
+
+3. Op verzoek om instemming met deelname aan en goedkeuring van een JI-projectactiviteit is [artikel 58, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01), van overeenkomstige toepassing.
+
+##### Artikel 60
+
+Instemming met deelname aan een CDM-projectactiviteit of met deelname aan een JI-projectactiviteit wordt in ieder geval geweigerd, indien:
+
+- a. de projectdeelnemer, voor zover het een rechtspersoon betreft, niet is ingeschreven in het handelsregister, bedoeld in de Handelsregisterwet 2007, of
+
+- b. de projectdeelnemer geen houder is van een persoonstegoed- of handelsrekening als bedoeld in artikel 18 van de Verordening EU-register handel in emissierechten, die geregistreerd is in het Nederlandse deel van het EU-register of in het Nederlandse PK-register.
 
 ## Bijlage. , behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01)
 
@@ -631,5 +689,171 @@ Deze regeling wordt aangehaald als: Regeling handel in emissierechten.
 - c. De lokale tijd van vertrek van de vlucht bepaalt welke periode van vier maanden in aanmerking wordt genomen om te bepalen of een exploitant onder of boven de drempels, bedoeld in bijlage I, onder ‘Luchtvaart’, onder j, eerste gedachtestreepje, bij de EG-richtlijn handel in broeikasgasemissierechten, valt.
 
 - d. Uitsluitend in aanmerking worden genomen vluchten die vertrekken van of aankomen op een luchtvaartterrein dat gelegen is op het grondgebied van een lidstaat waarop het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 16) van toepassing is, waarbij onder ‘luchtvaartterrein’ wordt verstaan: een afgebakende zone op het land of op het water, met inbegrip van gebouwen, installaties en uitrusting, bestemd om geheel of gedeeltelijk te worden gebruikt voor de aankomst, het vertrek en het grondverkeer van luchtvaartuigen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op richtlijn nr. 2004/101/EG van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 houdende wijziging van Richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, met betrekking tot de projectgebonden mechanismen van het Protocol van Kyoto (PbEU L 338), op het op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110) en op de [artikelen 16.46b, vierde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b).
+
+### Hoofdstuk 2. Monitoring broeikasgasemissies
+
+### Afdeling 2.1. Inrichtingen
+
+#### § 2.1.1. **Toepassingsbereik en begripsbepalingen**
+
+#### § 2.1.2. **Aanvraag vergunning en monitoringsplan**
+
+#### § 2.1.3. **Monitoringsmethodiek en kwaliteitsborging**
+
+#### § 2.1.4. **Melden van wijzigingen van het monitoringsplan**
+
+#### § 2.1.5. **Emissieverslag**
+
+#### § 2.1.6. **Verificatie en het principe van continue verbetering**
+
+### Afdeling 2.2. Luchtvaartactiviteiten
+
+#### § 2.2.1. **Algemeen**
+
+#### § 2.2.2. **Monitoringsplan**
+
+#### § 2.2.3. **Monitoringsmethodiek broeikasgasemissies**
+
+#### § 2.2.4. **Goedkeuring van het monitoringsplan voor emissies en tonkilometergegevens**
+
+#### § 2.2.5. **Emissieverslag en aanleveren tonkilometergegevens**
+
+#### § 2.2.6. **Verificatie en het principe van continue verbetering**
+
+### Hoofdstuk 3. Toewijzing broeikasgasemissierechten
+
+#### § 3.1. **Aanwijzing veiler**
+
+#### § 3.2. **Verstrekken en kwaliteitsborging van gegevens ten behoeve van de kosteloze toewijzing van broeikasgasemissierechten voor de periode 2013-2020**
+
+#### § 3.3. **Toewijzing aan nieuwkomers**
+
+#### § 3.4. **Toepassing** [artikel 16.34a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.34a)
+
+#### § 3.5. **Wijzigingen broeikasgasinstallatie**
+
+### Hoofdstuk 4. Register
+
+### Hoofdstuk 4a. Instemming deelname Kyoto-projecten
+
+##### Artikel 61
+
+Voor het in behandeling nemen van een verzoek om instemming met deelname aan een projectactiviteit is de indiener een vergoeding verschuldigd van:
+
+- a. € 800 voor zover het gaat om een projectactiviteit voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW;
+
+- b. € 600 voor zover het gaat een projectactiviteit als bedoeld in [artikel 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=59&z=2014-01-01&g=2014-01-01);
+
+- c. € 400 voor zover het gaat om andere projectactiviteiten.
+
+##### Artikel 62
+
+1. De deelname van een projectdeelnemer aan een projectactiviteit voldoet aan [artikel 16.46b, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b), indien hij een verklaring als bedoeld in [artikel 58, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01), heeft overgelegd.
+
+2. Een projectactiviteit en de uitvoering daarvan voldoen aan de in [artikel 16.46b, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b) bedoelde internationale normen en richtlijnen, indien de deelnemer een rapport als bedoeld in [artikel 58, tweede lid, onderdeel g, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01), of een verklaring als bedoeld in artikel 58, onderdeel g, onder 2°, heeft overlegd.
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 63. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 januari 2013.
+
+##### Artikel 64. Intrekking regelingen en overgangsrecht handel in NOx-emissierechten
+
+1. De volgende regelingen worden ingetrokken:
+
+- a. de [Regeling aanwijzing veiler broeikasgasemissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0031660),
+
+- b. de [Regeling interpretatie luchtvaartactiviteiten handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0027269),
+
+- c. de [Regeling monitoring handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017699),
+
+- d. de [Regeling register handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0030614), en
+
+- e. de [Regeling instemming deelname aan Kyoto-projectactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0019759).
+
+2. De bepalingen van [hoofdstuk 3 van de Regeling monitoring handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017699&hoofdstuk=3), zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de emissies van stikstofoxiden, zolang [titel 16.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.3) op die emissies van toepassing is.
+
+##### Artikel 65. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling handel in emissierechten.
+
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2014-01-01&g=2014-01-01)
+
+- 1. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder a, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Deze vluchten worden geïnterpreteerd overeenkomstig het exclusieve doel van de vluchten.
+
+- b. Onder ‘directe familie’ wordt uitsluitend verstaan: echtgenoot, elke als gelijkwaardig aan de echtgenoot beschouwde partner, kinderen en ouders.
+
+- c. Onder ‘ministers van de regering’ wordt verstaan: leden van de regering van het desbetreffende land. Als zodanig worden niet aangemerkt leden van regionale of lokale regeringen van dat land.
+
+- d. Onder ‘officiële dienstreis’ wordt verstaan: dienstreis waarbij betrokkene in een officiële hoedanigheid optreedt.
+
+- e. Onder deze vluchten vallen geen veerdienst- en positioneringsvluchten.
+
+- f. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘S’, voor zover dit wordt bevestigd door een overeenkomstige statusindicator in het vluchtplan.
+
+- 2. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder b, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder ‘militaire vluchten’ wordt verstaan: vluchten die rechtstreeks verband houden met het verrichten van militaire activiteiten.
+
+- b. Onder deze vluchten vallen niet militaire vluchten die worden uitgevoerd door civiel geregistreerde luchtvaartuigen en evenmin civiele vluchten die worden uitgevoerd door militaire luchtvaartuigen.
+
+- c. Onder douane- en politievluchten worden zowel begrepen door civiel geregistreerde luchtvaartuigen uitgevoerde douane- en politievluchten als door militaire luchtvaartuigen uitgevoerde douane- en politievluchten.
+
+- d. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscodes ‘M’, ‘X’ en ‘P’.
+
+- 3. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder c, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder deze vluchten worden mede verstaan veerdienst- en positioneringsvluchten die worden uitgevoerd met het oog op deze vluchten alsmede vluchten tijdens welke uitsluitend rechtstreeks bij het verlenen van de gerelateerde diensten betrokken uitrusting en personeel worden vervoerd. Hierbij wordt geen onderscheid gemaakt tussen met behulp van publieke of private middelen uitgevoerde vluchten.
+
+- b. Onder ‘vluchten in verband met opsporing en redding’ wordt verstaan: vluchten tijdens welke opsporings- en reddingsdiensten worden verleend. Hierbij wordt onder ‘opsporings- en reddingsdienst’ verstaan: uitvoering van taken in verband met de bewaking van noodsituaties, communicatie, coördinatie en opsporing en redding, eerste medische hulpverlening of medische evacuatie, met behulp van publieke en private middelen, met inbegrip van samenwerkende luchtvaartuigen, schepen en andere vaartuigen, en installaties.
+
+- c. Onder ‘vluchten in het kader van brandbestrijding’ wordt verstaan: vluchten die uitsluitend worden uitgevoerd ten behoeve van de verlening van diensten voor brandbestrijding vanuit de lucht, zijnde het gebruik van luchtvaartuigen om natuurbranden te bestrijden.
+
+- d. Onder ‘humanitaire vluchten’ wordt verstaan: uitsluitend voor humanitaire doeleinden uitgevoerde vluchten die bedoeld zijn om hulpverleningspersoneel en hulpgoederen zoals voedsel, kleding, onderdak en medische en andere goederen tijdens of na een noodsituatie of ramp te vervoeren of om personen uit een plaats waar hun leven of gezondheid door die noodsituatie of ramp wordt bedreigd te evacueren naar een toevluchtsoord in dat land of een ander land dat bereid is dergelijke personen op te vangen.
+
+- e. Onder ‘medische noodvluchten’ wordt verstaan: vluchten die uitsluitend tot doel hebben de verlening van medische noodhulp te vergemakkelijken, indien onmiddellijk en snel vervoer essentieel is, door het vervoeren van medisch personeel, medische benodigdheden, met inbegrip van uitrusting, bloed, organen en geneesmiddelen, of zieken of gewonden en andere direct betrokkenen.
+
+- f. Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscodes ‘H’ en ‘R’ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als STS/SAR, STS/FFR, STS/HUM, STS/MEDEVAC of STS/HOSP.
+
+- 4. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder f, bij de EG-richtlijn handel in broeikasgasemissierechten Als zodanige vluchten worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘T’ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als RMK/‘Training flight’.
+
+- 5. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder g, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Onder deze vluchten vallen geen veerdienst- en positioneringsvluchten.
+
+- b. Voor vluchten die uitsluitend worden uitgevoerd met het oog op wetenschappelijk onderzoek geldt dat het wetenschappelijk onderzoek geheel of gedeeltelijk tijdens de vlucht wordt uitgevoerd. Het vervoer van wetenschappers of onderzoeksuitrusting is hiervoor op zich niet voldoende.
+
+- c. Als vluchten die uitsluitend worden uitgevoerd met het oog op het controleren, testen of certificeren van luchtvaartuigen of grond- of boordapparatuur worden in ieder geval aangemerkt vluchten met de CRCO-vrijstellingscode ‘N‘ en vluchten die in veld 18 van het vluchtplan zijn aangeduid als STS/FLTCK.
+
+- 6. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder i, bij de EG-richtlijn handel in broeikasgasemissierechten Onder vluchten in het kader van openbaredienstverplichtingen (ODV) binnen ultraperifere gebieden worden uitsluitend verstaan ODV-vluchten binnen één ultraperifeer gebied of tussen twee ultraperifere gebieden.
+
+- 7. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder j, bij de EG-richtlijn handel in broeikasgasemissierechten
+
+- a. Het commerciële kenmerk houdt verband met de exploitant en niet met de desbetreffende vluchten. In verband hiermee worden alle door een commerciële luchtvervoersonderneming uitgevoerde vluchten in aanmerking genomen om te bepalen of die exploitant onder bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten valt, ook al worden die vluchten niet tegen vergoeding uitgevoerd.
+
+- b. Vluchten die onder bijlage I, onder ‘Luchtvaart’, onder a tot en met i, bij de EG-richtlijn handel in broeikasgasemissierechten vallen, blijven buiten beschouwing.
+
+- c. De lokale tijd van vertrek van de vlucht bepaalt welke periode van vier maanden in aanmerking wordt genomen om te bepalen of een exploitant onder of boven de drempels, bedoeld in bijlage I, onder ‘Luchtvaart’, onder j, eerste gedachtestreepje, bij de EG-richtlijn handel in broeikasgasemissierechten, valt.
+
+- d. Uitsluitend in aanmerking worden genomen vluchten die vertrekken van of aankomen op een luchtvaartterrein dat gelegen is op het grondgebied van een lidstaat waarop het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 16) van toepassing is, waarbij onder ‘luchtvaartterrein’ wordt verstaan: een afgebakende zone op het land of op het water, met inbegrip van gebouwen, installaties en uitrusting, bestemd om geheel of gedeeltelijk te worden gebruikt voor de aankomst, het vertrek en het grondverkeer van luchtvaartuigen.
+
+## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2014-01-01&g=2014-01-01)
+
+### Model nalevingsrapport hydro-elektrische projectactiviteiten
+
+### COMPLIANCE REPORT ASSESSING APPLICATION OF ARTICLE 11 b (6) OF EMISSIONS TRADING DIRECTIVE TO HYDROELECTRIC PROJECT ACTIVITIES EXCEEDING 20 MW
+
+1 Such as process documentation, stakeholders and issues identification, consultation strategies, resources planning, compensation plans, timetables, information sharing, written agreements with stakeholders, records of interviews, results of surveys/polls, minutes of meetings of the Stakeholders Forum, project documentation, Environmental Impact Assessments, documents related to local spatial planning, government and local authorities permits and agreements, description of methodologies used, decommissioning plans (where appropriate), other related environmental impact and social impact studies, etc.
+
+2 Water Use Ratio – an environmental indicator which refers to the withdrawal of water for irrigation, industry, household use. A ratio of 25% or higher is generally an indicator of water stress. Important water demanding activities affect seriously its quantity and in consequence the availability of water resources. Some of these driving forces are urbanization, industry and agricultural production. The increase in impervious surface has the effect of reducing water infiltration and aquifer recharge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
