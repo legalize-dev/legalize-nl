@@ -96,21 +96,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2014.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Een bedrag van 390.000 euro wordt verdeeld tussen ASR Wlz-uitvoerder B.V. en ONVZ Langdurige Zorg B.V. op basis van de door beide partijen ingediende kosten.
-
-#### § 3. Definitieve vaststelling beheerskostenbudget 2014
-
-##### Artikel 8a
-
-Ter vaststelling van de beheerskostenbudgetten per Wlz-uitvoerder sommeert Zorginstituut Nederland per Wlz-uitvoerder de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=3&artikel=8&z=2015-04-11&g=2015-04-11) berekende bedragen. Zorginstituut Nederland rondt de beheerskostenbudgetten af op hele euro’s, waarbij Zorginstituut Nederland bedragen van een halve euro of hoger afrondt naar boven en overige bedragen naar beneden.
-
-##### Artikel 8b
-
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 8, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=3&artikel=8&z=2015-04-11&g=2015-04-11), gebruikt Zorginstituut Nederland de opgaven van de verzekerdenaantallen per 1 juli 2014 van de Wlz-uitvoerders. Deze opgaven staan vermeld in de kwartaalstaat AWBZ zorgverzekeraars 2014 en dienen te zijn voorzien van een bestuursverklaring.
-
-#### § 4. Slot
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
