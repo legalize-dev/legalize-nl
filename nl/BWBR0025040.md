@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -60,19 +60,43 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Indiening concessiebeleidsplan
 
-De Stichting dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.20), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19), eindigen.
+De NPO dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.20), telkens in voor 1 maart van het kalenderjaar waarin de concessieperioden, bedoeld in [artikel 2.19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19), eindigen.
 
 ##### Artikel 3. Indiening aanvraag erkenning
 
-1. Omroepverenigingen dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), in de maand juni van het kalenderjaar voorafgaand aan een nieuwe erkenningperiode in bij het Commissariaat. De eerste volzin is van overeenkomstige toepassing op de aanvraag voor erkenning van een educatieve media-instelling als bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28).
+1. Omroeporganisaties dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), in de maand januari van het tweede kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode in bij het Commissariaat.
 
-2. De minister beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.
+2. Omroeporganisaties dienen de nieuwe aanvraag, bedoeld in [artikel 2.31, vierde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.31), uiterlijk vier maanden na de dagtekening van het besluit van de minister daartoe in bij het Commissariaat. De minister kan de periode, bedoeld in de eerste volzin, eenmalig verlengen met een periode van maximaal vier weken.
 
-##### Artikel 4. Indiening aanvraag aanwijzing
+3. De minister besluit op de aanvragen, bedoeld in het eerste en tweede lid, uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan een nieuwe erkenningperiode.
 
-1. Kerkgenootschappen en genootschappen op geestelijke grondslag dienen de aanvraag voor een aanwijzing, bedoeld in [artikel 2.43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.43), in de maand september van het kalenderjaar voorafgaand aan een concessieperiode, bedoeld in [artikel 2.19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.19) in.
+##### Artikel 4. Inrichting aanvraag erkenning
 
-2. Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.
+1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2014-01-01&g=2014-01-01), bevat:
+
+- a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.27);
+
+- b. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a), van de omroeporganisatie, waarbij, indien van toepassing, specifiek wordt aangegeven op welke punten deze afwijkt van de gedragscode, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.3);
+
+- c. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van de financiële en administratieve organisatie van de omroeporganisatie;
+
+- d. een overzicht van de financiën van de omroeporganisatie, wat voor de aanvraag voor een erkenning van een omroeporganisatie, niet zijnde een samenwerkingsomroep, in elk geval inhoudt: de jaarrekening over het tweede kalenderjaar dat voorafgaat aan het jaar van de indiening van de aanvraag van die omroeporganisatie of van de omroepverenigingen waaruit die organisatie gevormd is; en
+
+- e. in geval van een samenwerkingsomroep:
+
+- 1°. de statuten en reglementen van de omroepverenigingen die de samenwerkingsomroep vormen;
+
+- 2°. een beschrijving van de structuur, bedoeld in [artikel 2.142a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a), van de omroepverenigingen die de samenwerkingsomroep vormen, gelet op artikel 2.142a, derde lid;
+
+- 3°. een beschrijving van de inrichting, sturing en beheersing van bedrijfsprocessen en van administratieve organisatie van de omroepverenigingen die de samenwerkingsomroep vormen;
+
+- 4°. een overzicht van de financiën van de omroepverenigingen die de samenwerkingsomroep vormen, en in elk geval de jaarrekening over het tweede kalenderjaar dat voorafgaat aan het jaar van de indiening van de aanvraag van die omroepverenigingen; en
+
+- 5°. notariële akten en overeenkomsten, anders dan bedoeld onder 1° tot en met 4°, die betrekking hebben op de samenwerking binnen de samenwerkingsomroep.
+
+2. In geval van een aanvraag voor een voorlopige erkenning bevat de aanvraag de notariële akten en overeenkomsten die betrekking hebben op de samenwerking met de NTR of de omroeporganisatie waaraan de aanvrager de verzorging van haar media-aanbod heeft opgedragen.
+
+3. Een aanvraag gaat vergezeld van vier kopieën.
 
 ### Afdeling 2.2. Regionale en lokale publieke mediadiensten
 
@@ -106,7 +130,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2013-01-01&g=2013-01-01).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -146,9 +170,9 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 4. Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.
 
-##### Artikel 13. Voorschotten Wereldomroep
+##### Artikel 13. Berekening uren en budget
 
-De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
+Het moment, bedoeld in de [artikelen 2.51, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.51), en [2.152 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.152), is 1 januari 2014.
 
 ##### Artikel 14. Evaluatiecommissies
 
@@ -222,7 +246,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2013-01-01&g=2013-01-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2014-01-01&g=2014-01-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -256,7 +280,7 @@ Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorscho
 
 ##### Artikel 26. Intrekking
 
-De [Regeling toezichtskosten commerciële omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0012826) wordt ingetrokken.
+Vervallen
 
 ##### Artikel 27. Inwerkingtreding
 
@@ -282,7 +306,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2013-01-01&g=2013-01-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2014-01-01&g=2014-01-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -304,7 +328,7 @@ De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in
 
 #### § 3.2. Toezichtskosten
 
-### Hoofdstuk 4a. Commissariaat voor de media
+### Hoofdstuk 4a. Commissariaat voor de Media
 
 ##### Artikel 18a. Indiening begroting
 
@@ -322,11 +346,11 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ### Hoofdstuk 6. Slot- en overgangsbepalingen
 
-##### Artikel 25b. Indiening aanvraag voor erkenningperiode 2010–2015
+##### Artikel 25b. Aanvraag om bekostiging door regionale omroepen voor 2014
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2013-01-01&g=2013-01-01), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
+Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.170), worden voor het jaar 2014 als voorschriften als bedoeld in artikel 2.170, vijfde lid, onderdelen b en c, van de wet aangemerkt de desbetreffende provinciale voorschriften.
 
-## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2013-01-01&g=2013-01-01) bijdrage toezichtskosten commerciële mediadiensten
+## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2014-01-01&g=2014-01-01) bijdrage toezichtskosten commerciële mediadiensten
 
 ### Artikel 1. Televisieomroepdiensten
 
