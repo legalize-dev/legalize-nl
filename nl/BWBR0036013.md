@@ -4,7 +4,7 @@ identifier: "BWBR0036013"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2013-10-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036013"
 soort: "wet"
@@ -43,7 +43,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Wijzigt de Algemene nabestaandenwet.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -135,7 +135,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XVIII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
@@ -147,7 +147,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ##### Artikel XXa. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&wetgeving)
 
@@ -159,7 +159,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 ##### Artikel XXIII. [Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](https://wetten.overheid.nl/jci1.3:c:BWBR0029984)
 
