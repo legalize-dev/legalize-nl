@@ -4,7 +4,7 @@ identifier: "BWBR0032089"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032089"
 soort: "wet"
@@ -77,7 +77,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel IX. Wijziging van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ##### Artikel IXa. Evaluatiebepaling
 
