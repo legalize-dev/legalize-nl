@@ -4,7 +4,7 @@ identifier: "BWBR0017208"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2009-02-04"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017208"
 soort: "AMvB"
@@ -69,7 +69,7 @@ In dit besluit wordt verstaan onder:
 
 5. In afwijking van het vierde lid, heeft een lid ook na afloop van het tijdvak van 52 weken, bedoeld in het vierde lid, recht op doorbetaling van zijn salaris over het aantal uren dat hij arbeid heeft verricht of zou hebben verricht indien die arbeid hem zou zijn aangeboden.
 
-6. Bij schorsing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=6&z=2009-02-04&g=2009-02-04) kan Onze Minister beslissen dat tijdens de duur van de schorsing geen salaris of slechts een gedeelte van het salaris zal worden genoten, in het laatste geval onder aanwijzing van het deel dat zal worden genoten. Indien de schorsing anders dan door ontslag wordt beëindigd, kan Onze Minister beslissen dat het niet genoten salaris alsnog geheel of gedeeltelijk zal worden uitbetaald, in het laatste geval onder aanwijzing van het gedeelte dat zal worden betaald.
+6. Bij schorsing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=6&z=2014-01-01&g=2014-01-01) kan Onze Minister beslissen dat tijdens de duur van de schorsing geen salaris of slechts een gedeelte van het salaris zal worden genoten, in het laatste geval onder aanwijzing van het deel dat zal worden genoten. Indien de schorsing anders dan door ontslag wordt beëindigd, kan Onze Minister beslissen dat het niet genoten salaris alsnog geheel of gedeeltelijk zal worden uitbetaald, in het laatste geval onder aanwijzing van het gedeelte dat zal worden betaald.
 
 7. Het salaris wordt niet langer uitbetaald dan tot en met de dag van het overlijden.
 
@@ -77,11 +77,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=2&z=2009-02-04&g=2009-02-04), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een tegemoetkoming in de ziektekosten, een vergoeding van reis- en verblijfkosten voor zowel reizen in het kader van woon-werkverkeer alsmede dienstreizen, een vergoeding van verplaatsingskosten en een gratificatie bij ambtsjubileum overeenkomstig de bepalingen die ten aanzien van burgerlijke rijksambtenaren gelden.
+1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=2&z=2014-01-01&g=2014-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een tegemoetkoming in de ziektekosten, een vergoeding van reis- en verblijfkosten voor zowel reizen in het kader van woon-werkverkeer alsmede dienstreizen, een vergoeding van verplaatsingskosten en een gratificatie bij ambtsjubileum overeenkomstig de bepalingen die ten aanzien van burgerlijke rijksambtenaren gelden.
 
 2. Indien aan burgerlijke rijksambtenaren een eenmalige uitkering wordt toegekend, ontvangen de leden van de Raad deze op gelijke voet.
 
-3. De leden ontvangen een vaste bruto-vergoeding voor de kosten van voorzieningen die voor eigen rekening komen en die door hen mede worden aangewend ten behoeve van de vervulling van hun ambt. Deze bruto-vergoeding bedraagt voor het lid dat tot voorzitter van de Raad is benoemd 50% en voor de overige leden van de Raad 35% van het in het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) genoemde maximum bedrag.
+3. De leden ontvangen een vaste bruto-vergoeding voor de kosten van voorzieningen die voor eigen rekening komen en die door hen mede worden aangewend ten behoeve van de vervulling van hun ambt. Deze bruto-vergoeding bedraagt voor het lid dat tot voorzitter van de Raad is benoemd 50% en voor de overige leden van de Raad 35% van het bedrag, bedoeld in [artikel 68a, derde lid, onderdeel a, en negende lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a).
 
 ##### Artikel 4
 
@@ -119,7 +119,7 @@ Aan een lid wordt bij koninklijk besluit ontslag verleend:
 
 - c. wanneer het lid onbekwaam of ongeschikt is voor de uitoefening van het door hem beklede ambt anders dan op grond van lichaams- of zielsgebreken;
 
-- d. bij aanvaarding van een betrekking als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=5&z=2009-02-04&g=2009-02-04);
+- d. bij aanvaarding van een betrekking als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=5&z=2014-01-01&g=2014-01-01);
 
 - e. wanneer het lid bij onherroepelijk geworden rechtelijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
 
