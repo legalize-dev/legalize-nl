@@ -4,7 +4,7 @@ identifier: "BWBR0033586"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-07-22"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033586"
 soort: "wet"
@@ -102,7 +102,13 @@ Op deze beheerder zijn de [artikelen 4:37o](https://wetten.overheid.nl/jci1.3:c:
 
 6. Een vergunning die op grond van [artikel 2:65 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) met betrekking tot instellingen voor collectieve belegging in effecten is verleend wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een vergunning als bedoeld in [artikel 2:69b van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b), zoals dat artikel na inwerkingtreding van deze wet luidt.
 
-7. Indien een bank als bedoeld in [artikel 4:37k, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37k) optreedt als bewaarder van een niet-Europese beleggingsinstelling als bedoeld in die wet, kan de Stichting Autoriteit Financiële Markten bepalen dat [artikel 4:37l, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37l) tot 22 juli 2017 buiten toepassing blijft.
+7. In afwijking van [artikel 4:37i, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37i) kan de Stichting Autoriteit Financiële Markten toestaan dat tot en met 21 juli 2017:
+
+- a. een buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is die een Nederlandse beleggingsinstelling beheert; of
+
+- b. een beheerder van een beleggingsinstelling welke beheerder zetel in Nederland heeft en een beleggingsinstelling met zetel in een lidstaat beheert, voor zover die beleggingsinstelling geen vergunning bezit of is geregistreerd;
+
+een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat waarin de beleggingsinstelling is gevestigd.
 
 ##### Artikel VIIa
 
@@ -118,8 +124,8 @@ Op deze beheerder zijn de [artikelen 4:37o](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel VIII
 
-1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2013-07-22&g=2013-07-22), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2013-07-22&g=2013-07-22), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
