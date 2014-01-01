@@ -4,7 +4,7 @@ identifier: "BWBR0034415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2013-12-19"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034415"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **besluit:** een besluit, als bedoeld in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), van of namens de minister waarbij een ambtenaar als zodanig belanghebbende is;
 
-- e. **commissie:** de adviescommissie, als bedoeld in [artikel 7:13 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), die is ingesteld op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=2&z=2013-12-19&g=2013-12-19);
+- e. **commissie:** de adviescommissie, als bedoeld in [artikel 7:13 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), die is ingesteld op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01);
 
 - f. **EC O&P:** het Expertisecentrum Organisatie en Personeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- g. **secretaris:** de secretaris van de commissie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=4&z=2013-12-19&g=2013-12-19);
+- g. **secretaris:** de secretaris van de commissie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01);
 
 - h. **medewerker:** het personeelslid en gewezen personeelslid van het ministerie, aangesteld krachtens het Algemeen Rijksambtenarenreglement;
 
@@ -100,11 +100,13 @@ De commissie wordt bijgestaan door een secretaris, niet zijnde lid van de commis
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. De voorzitter en plaatsvervangend voorzitter van de commissie ontvangen een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding per vergadering voor de voorzitter als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
+
+2. De niet-ambtelijke leden en niet-ambtelijke plaatsvervangende leden van de commissie ontvangen een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding per vergadering voor de andere leden als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
 ##### Artikel 6
 
-1. Per bezwaarbehandeling bestaat de commissie uit een voorzitter, een lid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=3&z=2013-12-19&g=2013-12-19), en een lid als bedoeld in artikel 3, eerste lid, onderdeel c.
+1. Per bezwaarbehandeling bestaat de commissie uit een voorzitter, een lid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), en een lid als bedoeld in artikel 3, eerste lid, onderdeel c.
 
 2. In gevallen, waarin het niet mogelijk blijkt een commissie samen te stellen overeenkomstig het eerste lid, bepaalt de voorzitter de samenstelling van de commissie.
 
@@ -168,7 +170,7 @@ Het is de leden en de secretaris van de commissie niet toegestaan:
 
 ##### Artikel 11
 
-De zittingsduur voor bij de inwerkingtreding van dit besluit reeds benoemde commissieleden is in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=3&z=2013-12-19&g=2013-12-19), vijf jaar.
+De zittingsduur voor bij de inwerkingtreding van dit besluit reeds benoemde commissieleden is in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), vijf jaar.
 
 ##### Artikel 12
 
@@ -178,7 +180,7 @@ Het [Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2006](https:/
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werk terug tot en met 1 juli 2013.
 
-2. In afwijking van het eerste lid treedt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=5&z=2013-12-19&g=2013-12-19) in werking met ingang van 1 januari 2014. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt artikel 5 in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit is geplaatst en werkt vervolgens terug tot en met 1 januari 2014.
+2. In afwijking van het eerste lid treedt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) in werking met ingang van 1 januari 2014. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013, treedt artikel 5 in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit is geplaatst en werkt vervolgens terug tot en met 1 januari 2014.
 
 ##### Artikel 14
 
