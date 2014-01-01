@@ -4,7 +4,7 @@ identifier: "BWBR0035232"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2013-12-24"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035232"
 soort: "ministeriele-regeling"
@@ -72,13 +72,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Algemene douaneregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -90,8 +86,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
@@ -102,8 +96,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
@@ -111,8 +103,6 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 ##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling energie-investeringsaftrek 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
