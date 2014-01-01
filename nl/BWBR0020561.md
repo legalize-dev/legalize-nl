@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -58,22 +58,22 @@ In deze regeling wordt verstaan onder:
 
 | Naam gemeente | aantal behandel-eenheden | maximum aantal behandel-plaatsen | maximale uitkering 2013 | maximale uitkering 2014 |
 | --- | --- | --- | --- | --- |
-| Amsterdam | 2 | 145 | € 2.470.000 | € 2.310.000 |
-| Apeldoorn | 1 | 30 | € 600.000 | € 670.000 |
-| Arnhem | 1 | 25 | € 510.000 | € 590.000 |
-| Den Haag | 1 | 75 | € 1.420.000 | € 1.180.000 |
-| Deventer | 1 | 25 | € 510.000 | € 590.000 |
-| Eindhoven | 1 | 25 | € 520.000 | € 590.000 |
-| Enschede | 1 | 30 | € 600.000 | € 670.000 |
-| Groningen | 1 | 50 | € 1.060.000 | € 930.000 |
-| Heerlen | 1 | 35 | € 765.000 | € 740.000 |
-| 's-Hertogenbosch | 1 | 20 | € 425.000 | € 500.000 |
-| Leeuwarden | 1 | 25 | € 520.000 | € 590.000 |
-| Maastricht | 1 | 25 | € 510.000 | € 590.000 |
-| Nijmegen | 1 | 25 | € 515.000 | € 590.000 |
-| Rotterdam | 2 | 140 | € 2.400.000 | € 2.260.000 |
-| Tilburg | 1 | 20 | € 425.000 | € 500.000 |
-| Utrecht | 1 | 45 | € 940.000 | € 870.000 |
+| Amsterdam | 2 | 145 | € 2.470.000 | € 2.362.166 |
+| Apeldoorn | 1 | 30 | € 600.000 | € 682.672 |
+| Arnhem | 1 | 25 | € 510.000 | € 600.771 |
+| Den Haag | 1 | 75 | € 1.420.000 | € 1.209.990 |
+| Deventer | 1 | 25 | € 510.000 | € 600.771 |
+| Eindhoven | 1 | 25 | € 520.000 | € 600.771 |
+| Enschede | 1 | 30 | € 600.000 | € 682.672 |
+| Groningen | 1 | 50 | € 1.060.000 | € 952.387 |
+| Heerlen | 1 | 35 | € 765.000 | € 756.157 |
+| 's-Hertogenbosch | 1 | 20 | € 425.000 | € 508.976 |
+| Leeuwarden | 1 | 25 | € 520.000 | € 600.771 |
+| Maastricht | 1 | 25 | € 510.000 | € 600.771 |
+| Nijmegen | 1 | 25 | € 515.000 | € 600.771 |
+| Rotterdam | 2 | 140 | € 2.400.000 | € 2.260.688 |
+| Tilburg | 1 | 20 | € 425.000 | € 508.976 |
+| Utrecht | 1 | 45 | € 940.000 | € 889.853 |
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -99,7 +99,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 - 8º. uiterlijk vijf jaar voor de aanvang van de heroïnebehandeling gedurende ten minste een maand dagelijks meer dan 50 mg methadon is toegediend indien het een patiënt betreft die de heroïne inhaleert of meer dan 60 mg methadon is toegediend indien het een patiënt betreft die de heroïne injecteert;
 
-- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in het handboek behandeling met heroïne op medisch voorschrift, versie 1.0 van 1 januari 2011.
+- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in de Richtlijn Opiaatonderhoudsbehandeling (RIOB), herziene versie 2012.
 
 - c. de kwaliteit van de heroïnebehandeling systematisch wordt bewaakt, beheerst en verbeterd;
 
@@ -135,7 +135,19 @@ Het college van burgemeester en wethouders doet zo spoedig mogelijk schriftelijk
 
 ##### Artikel 8
 
-Het college van burgemeester en wethouders werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
+1. Het college van burgemeester en wethouders werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
+
+2. Het college van burgemeester en wethouders verstrekt aan de Minister jaarlijks voor 1 april in ieder geval:
+
+- a. een overzicht per behandeleenheid van de bezetting van de behandelplaatsen in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt;
+
+- b. een overzicht per behandeleenheid van het aantal personen dat op de wachtlijst is geplaatst in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt;
+
+- c. een overzicht per behandeleenheid van het aantal personen dat is gescreend in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt.
+
+3. Het college van burgemeester en wethouders verstrekt aan de Minister voor 1 april 2014 de overzichten, bedoeld in het tweede lid, ook met betrekking tot de jaren 2011 en 2012.
+
+4. Het college van burgemeester en wethouders verstrekt de overzichten, bedoeld in het tweede en derde lid, conform een door de Minister vastgesteld model.
 
 ##### Artikel 9
 
@@ -151,7 +163,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2013-01-01&g=2013-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2014-01-01&g=2014-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
