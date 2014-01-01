@@ -4,7 +4,7 @@ identifier: "BWBR0007091"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-04-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007091"
 soort: "ministeriele-regeling"
@@ -43,13 +43,13 @@ Besluit:
 
 ##### Artikel 1
 
-Voor zover in deze regeling niet anders is bepaald, dient, indien in het kader van deze regeling een legitimatiebewijs als bedoeld in [artikel 2, eerste lid, onderdeel b, c, d, e of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), wordt overgelegd, tevens een origineel en actueel de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens dat niet ouder is dan drie maanden, te worden overgelegd.
+Voor zover in deze regeling niet anders is bepaald, dient, indien in het kader van deze regeling een legitimatiebewijs als bedoeld in [artikel 2, eerste lid, onderdeel b, c, d, e of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), wordt overgelegd, tevens een origineel en actueel de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens dat niet ouder is dan drie maanden, te worden overgelegd.
 
-### Hoofdstuk 2. Aanvraag deel I B van een kentekenbewijs
+### Hoofdstuk 2. Aanvraag tenaamstelling
 
 ##### Artikel 2. Aanvrager natuurlijke persoon
 
-1. Bij de aanvraag van een deel I B van een kentekenbewijs dient, indien de aanvraag wordt ingediend door een natuurlijke persoon, bij een instantie, genoemd in [artikel 4, eerste lid, onderelen a, b of c, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4) het volgende legitimatiebewijs te worden overgelegd:
+1. Indien de aanvraag van een tenaamstelling wordt ingediend door een natuurlijke persoon, bij een erkende instantie als bedoeld in de [artikelen 61a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=61a), of [62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, wordt het volgende legitimatiebewijs overgelegd:
 
 - a. een geldig rijbewijs als bedoeld in [artikel 107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107),
 
@@ -65,77 +65,63 @@ Voor zover in deze regeling niet anders is bepaald, dient, indien in het kader v
 
 2. Indien de in het eerste lid bedoelde aanvraag wordt ingediend namens een natuurlijke persoon door een erkend bedrijf, dienen de volgende documenten te worden overgelegd:
 
-- a. een van de in het eerste lid genoemde legitimatiebewijzen van de aanvrager,
+- a. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en
 
-- b. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en
+- b. het voor de aanvraag bestemde machtigingsformulier.
 
-- c. het voor de aanvraag bestemde machtigingsformulier.
+3. Indien de in het eerste lid bedoelde aanvraag wordt ingediend voor een natuurlijke persoon door een erkend bedrijf dat gebruik maakt van de bevoegdheid als bedoeld in [artikel 46, tweede lid, onderdeel d, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), wordt, tezamen met het in [artikel 25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), respectievelijk [artikel 28a, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a) bedoelde legitimatiebewijs, een verklaring als bedoeld in [artikel 25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), of [artikel 28a, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a), overgelegd. De verklaring voldoet aan de voorschriften in [artikel 15b, vijfde lid, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=15b).
 
-3. Indien de in het eerste lid bedoelde aanvraag wordt ingediend voor een natuurlijke persoon door een erkend bedrijf dat gebruik maakt van de bevoegdheid als bedoeld in [artikel 46, tweede lid, onderdeel f, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), wordt, tezamen met het in [artikel 25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), respectievelijk [artikel 28a, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a) bedoelde legitimatiebewijs, een verklaring als bedoeld in [artikel 25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), of [artikel 28a, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a), overgelegd. De verklaring voldoet aan de voorschriften in [artikel 15b, zevende lid, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=15b).
+##### Artikel 3. Aanvrager rechtspersoon
 
-##### Artikel 3. Aanvrager ingeschreven rechtspersoon
+1. Bij de aanvraag van een tenaamstelling ingediend door een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), bij een erkende instantie als bedoeld in [artikel 61a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=61) of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, worden de volgende documenten overgelegd:
 
-1. Bij de aanvraag van een deel I B van een kentekenbewijs dienen, indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), bij een instantie, genoemd in [artikel 4, onderdeel a of b, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4), de volgende documenten te worden overgelegd:
+- a. bij indiening door een tekenbevoegde voor een rechtspersoon:
 
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en
+- 1°. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en
 
-- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
+- 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), behoeft te worden overgelegd.
 
-2. Indien de in het eerste lid bedoelde aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een door een tekenbevoegde gemachtigde, niet zijnde een erkend bedrijf, bij een instantie, genoemd in [artikel 4, onderdeel a of b, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4), dienen de volgende documenten te worden overgelegd:
+- b. bij indiening door een door een tekenbevoegde gemachtigde, niet zijnde een erkend bedrijf:
 
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.
+- 1°. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen;
 
-- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, of een kopie daarvan, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
+- 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de tekenbevoegde, of een afschrift daarvan, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), behoeft te worden overgelegd;
 
-- c. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd, en
+- 3°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), behoeft te worden overgelegd, en
 
-- d. het voor de aanvraag bestemde machtigingsformulier.
+- 4°. het voor de aanvraag bestemde machtigingsformulier.
 
-3. Indien de in het eerste lid bedoelde aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een door een tekenbevoegde gemachtigd erkend bedrijf, bij een instantie genoemd in [artikel 4, onderdeel a of b, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4), dienen de volgende documenten te worden overgelegd:
+- c. bij indiening door een tekenbevoegde gemachtigd erkend bedrijf:
 
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen,
+- 1°. de aan het bedrijf afgegeven bedrijfsvoorraadpas;
 
-- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd,
+- 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), behoeft te worden overgelegd, en
 
-- c. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en
+- 3°. het voor de aanvraag bestemde machtigingsformulier.
 
-- d. het voor de aanvraag bestemde machtigingsformulier.
+- d. bij indiening door een erkend bedrijf dat is gemachtigd door een gemachtigde als bedoeld in onderdeel b:
 
-4. Indien de in het eerste lid bedoelde aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een erkend bedrijf dat is gemachtigd door een gemachtigde als bedoeld in het tweede lid, bij een instantie, genoemd in [artikel 4, onderdeel a of b, van de Regeling kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090&artikel=4), dienen de volgende documenten te worden overgelegd:
+- 1°. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas,
 
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen,
+- 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), behoeft te worden overgelegd, en
 
-- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, of een kopie daarvan, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd,
+- 3°. het voor de aanvraag bestemde machtigingsformulier.
 
-- c. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd,
-
-- d. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en
-
-- e. het voor de aanvraag bestemde machtigingsformulier.
-
-5. Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), of [artikel 28a, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a), verstrekt de aanvrager een actueel en gewaarmerkt uittreksel uit het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.
+2. Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25a), of [artikel 28a, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a), verstrekt de aanvrager een actueel en gewaarmerkt uittreksel uit het handelsregister, bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.
 
 ##### Artikel 4. Aanvrager niet-ingeschreven rechtspersoon
 
-1. Bij de aanvraag van een deel I B van een kentekenbewijs dient, indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een gemachtigde, niet zijnde een erkend bedrijf, een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde te worden overgelegd.
-
-2. Indien de in het eerste lid bedoelde aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een door de gemachtigde van de rechtspersoon gemachtigd erkend bedrijf, dienen de volgende documenten te worden overgelegd:
-
-- a. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde,
-
-- b. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas, en
-
-- c. het voor de aanvraag bestemde machtigingsformulier.
+Vervallen
 
 ### Hoofdstuk 3. Aanvraag vervangend kentekenbewijs met contante of electronische betaling
 
 ##### Artikel 9
 
-Bij het overleggen van de in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), en [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) bedoelde verklaring alsmede bij de aanvraag van een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), dan wel bij de aanvraag van een kentekenbewijs als bedoeld in [artikel 4, vijfde lid, aanhef en onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), dient degene die de verklaring overlegt, dan wel het kentekenbewijs aanvraagt, een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen over te leggen, met dien verstande dat:
+Bij de aanvraag tot verval van de tenaamstelling op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), en [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) dan wel bij de aanvraag van een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), legt de aanvrager een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen over, met dien verstande dat:
 
-- a. geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd,
+- a. geen afschrift als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) behoeft te worden overgelegd,
 
-- b. ook een ander in Nederland geldig buitenlands reisdocument kan worden overgelegd dan de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde, en
+- b. ook een ander in Nederland geldig buitenlands reisdocument kan worden overgelegd dan de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde, en
 
 - c. indien de in de aanhef bedoelde verklaring wordt overgelegd door een erkend bedrijf, uitsluitend een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas dient te worden overgelegd.
 
@@ -151,29 +137,29 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 ##### Artikel 8
 
-De aanvraag van een schorsing, bedoeld in [artikel 50 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50), en de aanvraag van een nieuw deel I B dan wel, indien het een voor 31 mei 2004 afgegeven kentekenbewijs betreft, een deel I B bij de opheffing van een schorsing, bedoeld in [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51), geschiedt overeenkomstig de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=4&artikel=8a&z=2012-04-01&g=2012-04-01), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=4&artikel=8b&z=2012-04-01&g=2012-04-01) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=4&artikel=8c&z=2012-04-01&g=2012-04-01).
+De aanvraag van een schorsing, bedoeld in [artikel 50 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50), en de aanvraag van beëindiging van de schorsing, bedoeld in [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51), geschiedt overeenkomstig de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=4&artikel=8a&z=2014-01-01&g=2014-01-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=4&artikel=8b&z=2014-01-01&g=2014-01-01).
 
 ##### Artikel 8a. Aanvrager natuurlijke persoon
 
-1. Indien de aanvraag wordt ingediend door een natuurlijke persoon, dient bij de aanvraag een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de aanvrager te worden overgelegd, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
+1. Indien de aanvraag wordt ingediend door een natuurlijke persoon, dient bij de aanvraag een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de aanvrager te worden overgelegd, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) behoeft te worden overgelegd.
 
 2. Indien de aanvraag wordt ingediend namens een natuurlijke persoon door een door deze gemachtigde, dienen bij de aanvraag de volgende documenten te worden overgelegd:
 
-- a. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de aanvrager, of een kopie daarvan, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd,
+- a. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de aanvrager, of een kopie daarvan, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) behoeft te worden overgelegd,
 
-- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd, en
+- b. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) behoeft te worden overgelegd, en
 
 - c. een voor de aanvraag bestemd machtigingsformulier.
 
-##### Artikel 8b. Aanvrager ingeschreven rechtspersoon
+##### Artikel 8b. Aanvrager rechtspersoon
 
-1. Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), dienen bij de aanvraag de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=3&z=2012-04-01&g=2012-04-01), genoemde documenten te worden overgelegd.
+1. Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), dienen bij de aanvraag de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=3&z=2014-01-01&g=2014-01-01), genoemde documenten te worden overgelegd.
 
-2. Indien de aanvraag wordt ingediend door een door een tekenbevoegde gemachtigde, dienen bij de aanvraag de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=3&z=2012-04-01&g=2012-04-01), genoemde documenten te worden overgelegd.
+2. Indien de aanvraag wordt ingediend door een door een tekenbevoegde gemachtigde, dienen bij de aanvraag de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=3&z=2014-01-01&g=2014-01-01), genoemde documenten te worden overgelegd.
 
 ##### Artikel 8c. Aanvrager niet-ingeschreven rechtspersoon
 
-Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een gemachtigde, dient bij de aanvraag een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde te worden overgelegd, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
+Vervallen
 
 ### Hoofdstuk 4a. Aanvraag kentekenbewijs niet-nederlandse aanhangwagen
 
@@ -193,49 +179,47 @@ Bij het overleggen van de in de [artikelen 31](https://wetten.overheid.nl/jci1.3
 
 - c. indien de in het eerste lid bedoelde verklaring wordt overgelegd door een erkend bedrijf, uitsluitend een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas dient te worden overgelegd.
 
-### Hoofdstuk 5. Aanvraag uitvoerverklaring en uitvoerkentekenbewijs en aanvraag transitokentekenbewijs
+### Hoofdstuk 5. Aanvraag verval tenaamstelling bij voorgoed buiten Nederland brengen en bij aanvraag transitokenteken
 
 ##### Artikel 9 a. Verkrijging door een natuurlijk persoon
 
 Bij de verkrijging van kentekenplaten door een natuurlijk persoon worden overgelegd:
 
-- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen ten name van die natuurlijk persoon of, indien de kentekenplaten namens hem in ontvangst worden genomen, ten name van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) hoeft te worden overgelegd, en
+- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen ten name van die natuurlijk persoon of, indien de kentekenplaten namens hem in ontvangst worden genomen, ten name van de gemachtigde, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) hoeft te worden overgelegd, en
 
-- b. het deel IA of het deel I van het kentekenbewijs, afgegeven voor het kenteken dat op de kentekenplaten is vermeld.
+- b. de kentekencard, het deel IA of het deel I van het kentekenbewijs, afgegeven voor het kenteken dat op de kentekenplaten is vermeld.
 
 ##### Artikel 9 b. Verkrijging door een rechtspersoon
 
 Bij de verkrijging van kentekenplaten door een rechtspersoon worden overgelegd:
 
-- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01) genoemd legitimatiebewijzen van de persoon die de kentekenplaten namens de rechtspersoon in ontvangst neemt, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) hoeft te worden overgelegd, en
+- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01) genoemd legitimatiebewijzen van de persoon die de kentekenplaten namens de rechtspersoon in ontvangst neemt, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01) hoeft te worden overgelegd, en
 
-- b. het deel IA of het deel I van het kentekenbewijs, afgegeven voor het kenteken dat op de kentekenplaten is vermeld.
+- b. de kentekencard, het deel IA of het deel I van het kentekenbewijs, afgegeven voor het kenteken dat op de kentekenplaten is vermeld.
 
-##### Artikel 9 c. Verkrijging met een niet te naamgesteld kentekenbewijs
+##### Artikel 9 c. Verkrijging met de bevoegdheid versneld aanvragen van inschrijving
 
-Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), verzoekt om verkrijging van kentekenplaten tegen overlegging van een nog niet te naamgesteld kentekenbewijs 1deel I A dan wel deel I, worden bij de verkrijging overgelegd:
+Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), verzoekt om verkrijging van kentekenplaten worden bij de verkrijging overgelegd:
 
-- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van degene die de kentekenplaten namens het erkend bedrijf in ontvangst neemt, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) hoeft te worden overgelegd;
+- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), genoemde legitimatiebewijzen van degene die de kentekenplaten namens het erkend bedrijf in ontvangst neemt, met dien verstande dat geen afschrift als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), hoeft te worden overgelegd, en
 
-- b. het kentekenbewijs deel I A dan wel deel I, afgegeven voor het kenteken dat is vermeld op de kentekenplaten, en
-
-- c. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas.
+- b. een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas.
 
 ##### Artikel 9d. Uitzonderingen
 
-1. De [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2012-04-01&g=2012-04-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2012-04-01&g=2012-04-01) zijn slechts van toepassing op donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.29 en 30.1A tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend), die worden afgegeven door een fabrikant met erkenning als bedoeld in [artikel 70 a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70a).
+1. De [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2014-01-01&g=2014-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2014-01-01&g=2014-01-01) zijn slechts van toepassing op donkerblauwe kentekenplaten en kentekenplaten volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.29 en 30.1A tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend), die worden afgegeven door een fabrikant met erkenning als bedoeld in [artikel 70 a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70a).
 
-2. Een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2012-04-01&g=2012-04-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2012-04-01&g=2012-04-01) hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
+2. Een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2014-01-01&g=2014-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2014-01-01&g=2014-01-01) hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
 
-3. Een kentekenbewijs als bedoeld in onderdeel b van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2012-04-01&g=2012-04-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2012-04-01&g=2012-04-01) hoeft niet te worden overgelegd bij vervanging van beschadigde kentekenplaten
+3. Een kentekenbewijs als bedoeld in onderdeel b van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01), [9 b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2014-01-01&g=2014-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2014-01-01&g=2014-01-01) hoeft niet te worden overgelegd bij vervanging van beschadigde kentekenplaten
 
 4. Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.17C, 30.7 en 30.8 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.
 
 ##### Artikel 9e. Verkrijging van een taxikentekenplaat
 
-1. In afwijking in zoverre van de [artikelen 9a tot en met 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01), worden bij de verkrijging van kentekenplaten volgens de modellen 18.2A tot en met 18.2C met lichtblauwe kleur, en 27.30A tot en met 27. 31C door een natuurlijke persoon, respectievelijk een rechtspersoon, overgelegd:
+1. In afwijking in zoverre van de [artikelen 9a tot en met 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01), worden bij de verkrijging van kentekenplaten volgens de modellen 18.2A tot en met 18.2C met lichtblauwe kleur, en 27.30A tot en met 27. 31C door een natuurlijke persoon, respectievelijk een rechtspersoon, overgelegd:
 
-- a. de in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01), respectievelijk [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2012-04-01&g=2012-04-01), bedoelde documenten, met dien verstande dat het over te leggen deel I A dan wel deel I van het kentekenbewijs voorzien moet zijn van een aantekening waaruit blijkt dat het betrokken voertuig als taxi is goedgekeurd, en
+- a. de in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01), respectievelijk [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2014-01-01&g=2014-01-01), bedoelde documenten, en
 
 - b. voor elk voertuig waarvoor kentekenplaten als bedoeld in het eerste lid, worden verkregen, een verklaring van de Dienst Wegverkeer, inhoudende dat aan de vereisten in het tweede lid is voldaan.
 
@@ -243,7 +227,7 @@ Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 
 
 - a. een geldige vergunning voor het verrichten van taxivervoer als bedoeld in artikel 5 van de Wet personenvervoer;
 
-- b. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat een onderneming wordt gedreven waarin taxivervoer plaatsvindt;
+- b. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat een onderneming wordt gedreven waarin taxivervoer plaatsvindt;
 
 - c. voor wat betreft:
 
@@ -253,7 +237,7 @@ Indien een erkend bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 
 
 - d. ingeval de tenaamstelling op het kentekenbewijs en die op de in onderdeel a bedoelde vergunning niet overeenkomen, een gezamenlijke verklaring van de vergunninghouder en de tenaamgestelde op het kentekenbewijs, inhoudende dat het voertuig waarvoor de kentekenplaten worden verkregen, voor taxivervoer wordt gebruikt in het kader van de onderneming van de vergunninghouder.
 
-3. Bij vervanging van de in het eerste lid bedoelde kentekenplaten na beëindiging van het gebruik van het voertuig als taxi, door andere kentekenplaten dient een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2012-04-01&g=2012-04-01) of [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2012-04-01&g=2012-04-01) overgelegd te worden.
+3. Bij vervanging van de in het eerste lid bedoelde kentekenplaten na beëindiging van het gebruik van het voertuig als taxi, door andere kentekenplaten dient een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2014-01-01&g=2014-01-01) of [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_b&z=2014-01-01&g=2014-01-01) overgelegd te worden.
 
 ### Hoofdstuk 6
 
@@ -267,55 +251,29 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 ##### Artikel 12
 
-Deze regeling wordt aangehaald als:
-
-Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling legitimatievoorschriften tenaamstelling en kentekenplaten.
 
 ##### Artikel 5
 
-De aanvraag van een vervangend kentekenbewijs geschiedt overeenkomstig de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=3&artikel=6&z=2012-04-01&g=2012-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=3&artikel=7&z=2012-04-01&g=2012-04-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=3&artikel=7a&z=2012-04-01&g=2012-04-01) en [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=3&artikel=7b&z=2012-04-01&g=2012-04-01), ingeval de aanvrager het voor de aanvraag vastgestelde tarief contant dan wel op electronische wijze met gebruikmaking van een persoonlijk identificatienummer, betaalt.
+Vervallen
 
 ##### Artikel 6. Aanvrager natuurlijke persoon
 
-1. Indien de aanvraag wordt ingediend door een natuurlijke persoon, dient bij de aanvraag een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de aanvrager te worden overgelegd, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
-
-2. Indien de aanvraag wordt ingediend namens een natuurlijke persoon door een door deze gemachtigde, dienen bij de aanvraag te worden overgelegd:
-
-- a. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de aanvrager, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd en
-
-- b. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde.
+Vervallen
 
 ##### Artikel 7. Aanvrager ingeschreven rechtspersoon
 
-1. Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), dienen bij de aanvraag te worden overgelegd:
-
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen en
-
-- b. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2012-04-01&g=2012-04-01) behoeft te worden overgelegd.
-
-2. Indien de aanvraag wordt ingediend door een door een tekenbevoegde gemachtigde, dienen bij de aanvraag te worden overgelegd:
-
-- a. een actueel uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen,
-
-- b. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de tekenbevoegde, met dien verstande dat geen afschrift als bedoeld in artikel 1 behoeft te worden overgelegd en
-
-- c. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde.
+Vervallen
 
 ##### Artikel 7a. Aanvrager niet-ingeschreven rechtspersoon
 
-Indien de aanvraag wordt ingediend namens een rechtspersoon als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), door een gemachtigde, dient bij de aanvraag een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van de gemachtigde te worden overgelegd.
+Vervallen
 
 ##### Artikel 7b. Aanvrager erkend bedrijf
 
-Indien de aanvraag wordt ingediend door een erkend bedrijf voor een voertuig dat in de bedrijfsvoorraad van dat bedrijf is geregistreerd, dienen bij de aanvraag te worden overgelegd:
+Vervallen
 
-- a. een aan het bedrijf afgegeven bedrijfsvoorraadpas en
-
-- b. een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2012-04-01&g=2012-04-01), genoemde legitimatiebewijzen van degene die voor het erkende bedrijf verschijnt.
-
-### Hoofdstuk 4. Aanvraag schorsing en aanvraag deel I B bij opheffing schorsing
+### Hoofdstuk 4. Aanvraag schorsing tenaamstelling en aanvraag beëindiging schorsing tenaamstelling
 
 ### Hoofdstuk 5 a. Verkrijging kentekenplaten
 
