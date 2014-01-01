@@ -4,7 +4,7 @@ identifier: "BWBR0031846"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-08-01"
-last_updated: "2012-07-28"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031846"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs en het onderzoek op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;
 
 - b. **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
@@ -66,7 +66,7 @@ Onze Minister kan op verzoek van een instellingsbestuur, als bedoeld in [artikel
 
 ##### Artikel 3. Voorwaarden voor goedkeuring en afwijking van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
-1. Bij het verzoek om goedkeuring legt het instellingsbestuur het ontwerp over van een samenwerkingsovereenkomst met het bevoegd gezag van de bve-instelling die voldoet aan de eisen, gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=4&z=2012-07-28&g=2012-07-28).
+1. Bij het verzoek om goedkeuring legt het instellingsbestuur het ontwerp over van een samenwerkingsovereenkomst met het bevoegd gezag van de bve-instelling die voldoet aan de eisen, gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=4&z=2014-01-01&g=2014-01-01).
 
 2. Ten minste de helft van het Ad-programma waaronder in ieder geval de afstudeerfase en het afsluitend examen wordt verzorgd door de onder het instellingsbestuur ressorterende hogeschool onderscheidenlijk rechtspersoon voor hoger onderwijs.
 
@@ -100,7 +100,7 @@ In de samenwerkingsovereenkomst wordt tenminste opgenomen:
 
 ##### Artikel 5. Vervallen goedkeuring en voorzieningen bij ontbinden samenwerkingsovereenkomst
 
-1. Indien de samenwerkingsovereenkomst niet tot stand komt of wordt ontbonden, vervalt de goedkeuring, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=2&z=2012-07-28&g=2012-07-28). Het instellingsbestuur informeert Onze Minister onverwijld indien een van deze omstandigheden zich voordoet.
+1. Indien de samenwerkingsovereenkomst niet tot stand komt of wordt ontbonden, vervalt de goedkeuring, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=2&z=2014-01-01&g=2014-01-01). Het instellingsbestuur informeert Onze Minister onverwijld indien een van deze omstandigheden zich voordoet.
 
 2. Indien de samenwerkingovereenkomst wordt ontbonden, draagt het instellingsbestuur er zorg voor dat aan studenten die voor het Ad-programma zijn ingeschreven, de gelegenheid wordt geboden het Ad-programma aan de onder zijn bestuur staande hogeschool onderscheidenlijk rechtspersoon voor hoger onderwijs te voltooien.
 
@@ -118,11 +118,11 @@ Wijzigt het Uitvoeringsbesluit WHW 2008.
 
 ##### Artikel 8. Inwerkingtreding en vervaldatum
 
-1. Dit besluit, met uitzondering van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2012-07-28&g=2012-07-28), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt ten aanzien van de Ad-programma’s die starten in studiejaar 2011–2012 terug tot en met 1 september 2011.
+1. Dit besluit, met uitzondering van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt ten aanzien van de Ad-programma’s die starten in studiejaar 2011–2012 terug tot en met 1 september 2011.
 
-2. Dit besluit, met uitzondering van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2012-07-28&g=2012-07-28), vervalt met ingang van 1 augustus 2015 met dien verstande dat dit besluit van toepassing blijft voor die studenten die zich in de afrondende fase van het Ad-programma bevinden.
+2. Dit besluit, met uitzondering van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2014-01-01&g=2014-01-01), vervalt met ingang van 1 augustus 2015 met dien verstande dat dit besluit van toepassing blijft voor die studenten die zich in de afrondende fase van het Ad-programma bevinden.
 
-3. [Artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2012-07-28&g=2012-07-28) van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+3. [Artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0031846&artikel=7a&z=2014-01-01&g=2014-01-01) van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 9. Citeertitel
 
