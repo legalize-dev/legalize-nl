@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -504,7 +504,7 @@ Voor zover per 31 december 2000 een woning de belastingplichtige niet meer ander
 
 - 2. Bij ministeriële regeling worden regels gesteld inzake de toepassing van [artikel 3112, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.112) in deze gevallen.
 
-De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een eigen woning wordt voor de toepassing van [artikel 10bis.10, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.10) geacht te zijn aangevangen op 1 januari 2001.
+De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een eigen woning wordt voor de toepassing van [artikel 10bis.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.10) geacht te zijn aangevangen op 1 januari 2001.
 
 - 1. Met betrekking tot de winst die ingevolge [artikel 28, tweede lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) in het jaar 2001 ter beschikking wordt gesteld van de aandeelhouders en houders van bewijzen van deelgerechtigdheid, blijven de bepalingen van hoofdstuk II, afdeling 3, van de Wet op de inkomstenbelasting 1964, zoals die luidden op 31 december 2000, van toepassing, voorzover deze winst is toe te rekenen aan de vervreemding van aandelen in een vennootschap – direct of indirect – aan die vennootschap of aan liquidatie van een vennootschap.
 
@@ -768,9 +768,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2013-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2014-01-01&g=2014-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2014-01-01&g=2014-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
