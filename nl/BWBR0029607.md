@@ -4,7 +4,7 @@ identifier: "BWBR0029607"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2011-02-17"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029607"
 soort: "AMvB-BES"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap 
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop artikel 78, tweede lid, van de Wet primair onderwijs BES in werking treedt.
+
 ##### Artikel 1. Begripsbepalingen
 
 - a. **wet:** de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
@@ -62,9 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - g. **een scholengemeenschap:** een scholengemeenschap als bedoeld in [artikel 123 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123);
 
-- h. **gemengde leerweg:** de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29);
-
-- i. **bruto vloeroppervlakte:** de bruto vloeroppervlakte van alle ruimten die een school of instelling ter beschikking heeft, bepaald overeenkomstig NEN 2580-2007/C1.2008 Oppervlakten en inhouden van gebouwen; Termen, definities en bepalingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut.
+- h. **gemengde leerweg:** de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29).
 
 ##### Artikel 2. Bruto vloeroppervlakte basisonderwijs
 
