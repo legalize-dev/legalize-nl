@@ -4,7 +4,7 @@ identifier: "BWBR0025902"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-31"
-last_updated: "2009-06-06"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025902"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister stelt de provincies en gemeenten, die voor een verzameluitkering in aanmerking komen, vóór 15 november van het jaar voorafgaand aan het uitkeringsjaar in kennis van de bedragen die zij, onder het voorbehoud dat de voorstellen van wet tot vaststelling van de betrokken begrotingen door de Staten-Generaal worden aangenomen, zullen ontvangen.
 
-2. Indien het voor een verzameluitkering beschikbare bedrag tijdens het uitkeringsjaar wordt verhoogd, worden de betrokken provincies en gemeenten vóór 1 juni of 1 december van dat uitkeringsjaar door de minister in kennis gesteld van het effect daarvan op de bedragen, bedoeld in het eerste lid. Ook voor deze wijzigingen geldt het voorbehoud dat de voorstellen van wet tot wijziging van de betrokken begrotingen door de Staten-Generaal worden aangenomen.
+2. Indien het voor een verzameluitkering beschikbare bedrag tijdens het uitkeringsjaar wordt verhoogd, worden de betrokken provincies en gemeenten vóór 1 maart of 1 september van dat uitkeringsjaar door de minister in kennis gesteld van het effect daarvan op de bedragen, bedoeld in het eerste lid. Ook voor deze wijzigingen geldt het voorbehoud dat de voorstellen van wet tot wijziging van de betrokken begrotingen door de Staten-Generaal worden aangenomen.
 
 ##### Artikel 3
 
@@ -70,7 +70,7 @@ De betaling van de verzameluitkeringen vindt bij wijze van bevoorschotting plaat
 
 - a. er geen of onjuiste verantwoordingsinformatie is verstrekt;
 
-- b. uit de verantwoordingsinformatie blijkt dat een verzameluitkering niet volledig is besteed;
+- b. uit de verantwoordingsinformatie blijkt dat een verzameluitkering niet volledig is besteed in het uitkeringsjaar waarvoor deze is verstrekt;
 
 - c. uit de verantwoordingsinformatie blijkt dat een verzameluitkering niet rechtmatig is besteed, of
 
