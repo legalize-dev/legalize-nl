@@ -4,7 +4,7 @@ identifier: "BWBR0031830"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031830"
 soort: "ministeriele-regeling"
@@ -64,19 +64,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Statistiek uitkeringen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2013-01-01&g=2013-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend.
 
 ##### Artikel 3. Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2013-01-01&g=2013-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 34, eerste lid, onderdeel a van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34) en [artikel 34, eerste lid, onderdeel a, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34) en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
+De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 34, eerste lid, onderdeel a van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34) en [artikel 34, eerste lid, onderdeel a, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34) en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
 
 ##### Artikel 4. Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2013-01-01&g=2013-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
 
 ##### Artikel 5. Centraal Bureau voor de Statistiek of bewerker
 
-1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2013-01-01&g=2013-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
+1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2014-01-01&g=2014-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2014-01-01&g=2014-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
 
 2. Indien een bewerker wordt aangewezen wordt van de aanwijzing van de bewerker mededeling gedaan in de Staatscourant.
 
@@ -84,13 +84,13 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 4. Door de bewerker worden geen persoonsgegevens of verwerkte persoonsgegevens aan derden verstrekt, behoudens in opdracht van de minister.
 
-5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2013-01-01&g=2013-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2013-01-01&g=2013-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
+5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2014-01-01&g=2014-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2014-01-01&g=2014-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2014-01-01&g=2014-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
 
 ##### Artikel 6. Statistieken door SVB
 
-1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2013-01-01&g=2013-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2013-01-01&g=2013-01-01).
+1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2014-01-01&g=2014-01-01).
 
-2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2013-01-01&g=2013-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
+2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2014-01-01&g=2014-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
 
 ##### Artikel 7. Intrekking regeling
 
@@ -191,9 +191,11 @@ GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)
 
 ## Bijlage 2. : Overzicht kenmerken statistiek re-integratievoorzieningen gemeenten
 
-Hieronder staan de kenmerken in het aan te leveren bestand van de Statistiek re-integratievoorzieningen gemeenten beschreven. Allereerst wordt het bereik aangegeven waarbinnen een waarde van het betreffende kenmerk moet liggen. Het CBS controleert of de aangeleverde kenmerken binnen de geldige waardenbereiken liggen. Daarnaast wordt aangegeven welke foutcontroles op de gegevens uitgevoerd kunnen worden, als een waarde binnen het waardenbereik ligt. Dit zijn ook controles die het CBS zal uitvoeren na ontvangst van het SRG-bestand.
+Hieronder staan de kenmerken in het aan te leveren SRG-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het desbetreffende kenmerk moet voldoen.
 
-Let op: Met [ab] wordt bedoeld: 2 tekstwaarden
+Let op:
+
+Met [ab] wordt bedoeld: 2 tekstwaarden
 
 Met [12] wordt bedoeld: 2 numerieke waarden
 
@@ -205,59 +207,74 @@ Met [jjjj] wordt bedoeld: een jaartalaanduiding
 
 Met [p] wordt bedoeld: een numerieke aanduiding voor de verslagperiode: het eerste (1) of tweede (2) halfjaar
 
-Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4
+Met [jjjjmmdd] wordt bedoeld: een datumaanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e posities de dag van de maand.
 
-posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e
-
-posities de dag van de maand.
-
-Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten worden door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek.
-
-GEGEVENS LEVERING
-
+| **GEGEVENS LEVERING** | **GEGEVENS LEVERING** | **GEGEVENS LEVERING** |
+| --- | --- | --- |
+|   |   |   |
 | 1 | STATISTIEKJAAR | [jjjj] |
-| --- | --- | --- |
+|   |   |   |
 | 2 | STATISTIEKPERIODE | [p] |
-| 3 | STATISTIEKCODE Statistiek Re-integratie door Gemeenten | 10 |
-| 4 | NAAM SOFTWAREPAKKET RMW (WiGo4it) CiVision Werk (Getronics Pink Roccade) Compas (Emergo Systems) Stratech-CVS (Stratech) EBB Trajecten (Horlings & Eerbeek) GWS4All (Centric) Imwin (Solviteers) Iw3 (Solviteers) SZWnet (Planconsult) Eigen pakket van de gemeente Ander pakket | Rmw Cwk Com cvs ebb gws imw iw3 pla eig and |
+|   |   |   |
+| 3 | STATISTIEKCODE |   |
+|   | Statistiek Re-integratie door Gemeenten | 10 |
+|   |   |   |
+| 4 | NAAM SOFTWAREPAKKET |   |
+|   | RMW (WiGo4it) | rmw |
+|   | CiVision Werk (Getronics Pink Roccade) | cwk |
+|   | Compas (Emergo Systems) | com |
+|   | Stratech-CVS (Stratech) | cvs |
+|   | EBB Trajecten (Horlings & Eerbeek) | ebb |
+|   | GWS4All (Centric) | gws |
+|   | Imwin (Solviteers) | imw |
+|   | Iw3 (Solviteers) | iw3 |
+|   | SZWnet (Planconsult) | pla |
+|   | Eigen pakket van de gemeente | eig |
+|   | Ander pakket | and |
+|   |   |   |
 | 5 | RELEASE/VERSIENUMMER SOFTWAREPAKKET | [abcdefghijkl] |
-| 6 | GEMEENTECODE CBS-gemeente code | [1234] |
-
-gegevens PERSOON
-
+|   |   |   |
+| 6 | GEMEENTECODE |   |
+|   | CBS-gemeentecode | [1234] |
+|   |   |   |
+| **GEGEVENS PERSOON** | **GEGEVENS PERSOON** | **GEGEVENS PERSOON** |
+|   |   |   |
 | 7 | BURGERSERVICENUMMER | [123456789] |
-| --- | --- | --- |
+|   |   |   |
 | 8 | GEBOORTEDATUM | [jjjjmmdd] |
-| 9 | GESLACHT Man vrouw | 1 2 |
-| 10 | RE-INTEGRATIEPOSITIE Zorg Maatschappelijke activering Arbeidsactivering Arbeidstoeleiding Regulier werk met ondersteuning Regulier werk zonder ondersteuning | 1 2 3 4 5 6 |
-| 11 | BEGINDATUM RE-INTEGRATIEPOSITIE | [jjjjmmdd] |
-
-Wanneer een voorziening daadwerkelijk start (ingevulde begindatum van de voorziening) moet er een re-integratiepositie zijn vastgesteld. De re-integratiepositie kan gedurende de loop van een voorziening veranderen. Wanneer de re-integratiepositie opnieuw wordt bepaald, en de waarde verandert, moet dit in de SRG worden aangeleverd. Er wordt dan behalve de ‘oude’ re-integratiepositie (kenmerk 10) met de oude bijbehorende begindatum van de geldigheid, een nieuwe re-integratiepositie, met een nieuwe begindatum re-integratiepositie aangeleverd. Op deze manier kan per voorziening de juiste waarde van de re-integratiepositie bepaald worden, op basis van de begin- en einddatum, gecombineerd met de begingeldigheidsdatums van de re-integratieposities. Alle waarden van de re-integratiepositie die betrekking hebben op de verslagperiode, moeten worden aangeleverd.
-
-GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)
-
+|   |   |   |
+| 9 | GESLACHT |   |
+|   | Man | 1 |
+|   | Vrouw | 2 |
+|   |   |   |
+| 10 | POSITIE OP DE PARTICIPATIELADDER |   |
+|   | Geïsoleerd | 1 |
+|   | Sociale contacten buitenshuis | 2 |
+|   | Deelname georganiseerde activiteiten | 3 |
+|   | Onbetaald werk | 4 |
+|   | Betaald werk met ondersteuning | 5 |
+|   | Betaald werk zonder ondersteuning | 6 |
+|   |   |   |
+| 11 | BEGINDATUM POSITIE OP DE PARTICIPATIELADDER | [jjjjmmdd] |
+|   |   |   |
+| **GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)** | **GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)** | **GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)** |
+|   |   |   |
 | 12 | REGISTRATIENUMMER VOORZIENING | [abcdefghijklmno] |
-| --- | --- | --- |
-| 13 | TYPE VOORZIENING Loonkostensubsidie WIW/ID-baan Participatieplaats Overige | 1 2 3 4 (defaultwaarde) |
+|   |   |   |
+| 13 | TYPE VOORZIENING |   |
+|   | Loonkostensubsidie | 1 |
+|   | WIW/ID-baan | 2 |
+|   | Participatieplaats | 3 |
+|   | Overige | 4 |
+|   |   |   |
 | 14 | BEGINDATUM VOORZIENING | [jjjjmmdd] |
-
-Alleen voorzieningen die daadwerkelijk gestart zijn moeten worden aangeleverd aan het CBS. De begindatum van de voorziening moet dus altijd met een geldige datum gevuld worden. Deze datum blijft vanaf de eerste aanlevering van gegevens over de betreffende voorziening ongewijzigd.
-
-Begindatum voorziening ligt vóór of is gelijk aan einddatum voorziening (kenmerk 15, als deze met een datum gevuld is).
-
+|   |   |   |
 | 15 | EINDDATUM VOORZIENING | [jjjjmmdd] |
-| --- | --- | --- |
-
-**Alleen als een geldige datum [jjjjmmdd] is ingevuld gelden de volgende technische controles:**
-
-Einddatum voorziening ligt ná of is gelijk aan de begindatum voorziening. Einddatum voorziening moet worden gevuld als reden einde voorziening gevuld is met 1, 2 of 3.
-
-Wanneer de einddatum niet bekend is (een lopende voorziening aan het einde van de verslagperiode), wordt de einddatum gevuld met [00000000].
-
-| 16 | REDEN EINDE VOORZIENING Voorziening is afgerond Voorziening is voortijdig beëindigd Overig ( verhuizen, overlijden, etc.) Niet van toepassing: einddatum voorziening is niet gevuld met een datum | 1 2 3 9 (defaultwaarde) |
-| --- | --- | --- |
-
-Moet gevuld worden als ‘einddatum voorziening’ (kenmerk 15) met een datum gevuld is. Als ‘einddatum voorziening’ nog niet bekend is, is de reden einde voorziening gelijk aan 9 (niet van toepassing).
+|   |   |   |
+| 16 | REDEN EINDE VOORZIENING |   |
+|   | Voorziening is volledig afgerond | 1 |
+|   | Voorziening is voortijdig beëindigd | 2 |
+|   | Voorziening gestopt door verhuizen, overlijden, instroom in WSW, detentie of zwangerschap | 3 |
 
 ## Bijlage 3. : Overzicht kenmerken statistiek vorderingen, boeten en sancties gemeenten
 
