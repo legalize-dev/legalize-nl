@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2013-07-22"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -60,15 +60,15 @@ Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bankenbelasting.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Natuurschoonwet 1928.
 
 ##### Artikel IX
 
@@ -76,7 +76,7 @@ Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Registratiewet 1970.
 
 ##### Artikel XI
 
@@ -92,23 +92,23 @@ Het toe te passen tarief op de levering van diensten, genoemd in [Tabel I, onder
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belasting zware motorrijtuigen.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel XIX
 
@@ -116,11 +116,11 @@ Wijzigt Wet belastingen op milieugrondslag.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douanewet.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XXII
 
@@ -136,11 +136,11 @@ Wijzigt de Mijnbouwwet.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012.
 
 ##### Artikel XXV
 
@@ -152,24 +152,48 @@ Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het BTW-compensatiefonds.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2012.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet van 22 december 2011 tot aanpassing van een aantal wetten op het terrein van Economische Zaken, Landbouw en Innovatie naar aanleiding van de departementale herindeling en het herstel van enkele wetstechnische gebreken en leemten.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel XXIX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIX&z=2014-01-01&g=2014-01-01), toepassing vindt voordat [artikel VII, onderdeel B, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=VII) wordt toegepast.
+
+2. In afwijking van het eerste lid treedt [artikel II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2014-01-01&g=2014-01-01), in werking met ingang van 1 januari 2022.
+
+3. [Artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2014-01-01&g=2014-01-01), werkt terug tot en met 1 januari 2006.
+
+4. [Artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2014-01-01&g=2014-01-01), werkt terug tot en met 1 januari 2009.
+
+5. [Artikel XXVI, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXVI&z=2014-01-01&g=2014-01-01), werkt terug tot en met 1 januari 2011.
+
+6. [Artikel I, onderdelen J en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2014-01-01&g=2014-01-01), werkt terug tot en met 1 januari 2012.
+
+7. [Artikel I, onderdeel Ka](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2014-01-01&g=2014-01-01), [artikel II, onderdelen A en I](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2014-01-01&g=2014-01-01), [artikel III, onderdeel G, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=III&z=2014-01-01&g=2014-01-01), [artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2014-01-01&g=2014-01-01), [artikel IX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IX&z=2014-01-01&g=2014-01-01), [artikel XIX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIX&z=2014-01-01&g=2014-01-01), [artikel XXII, onderdelen C, D, E, F, G, H, I en J](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXII&z=2014-01-01&g=2014-01-01), [artikel XXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIA&z=2014-01-01&g=2014-01-01), [artikel XXIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXIIB&z=2014-01-01&g=2014-01-01) en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XXV&z=2014-01-01&g=2014-01-01) werken terug tot en met 1 januari 2013.
+
+8. [Artikel XI, onderdeel AA, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XI&z=2014-01-01&g=2014-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XII&z=2014-01-01&g=2014-01-01) en [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=XIII&z=2014-01-01&g=2014-01-01) werken terug tot en met 1 maart 2013.
+
+9. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=I&z=2014-01-01&g=2014-01-01), [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=II&z=2014-01-01&g=2014-01-01), [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=IV&z=2014-01-01&g=2014-01-01), en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034091&artikel=V&z=2014-01-01&g=2014-01-01) werken terug tot en met 22 juli 2013.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Fiscale verzamelwet 2013.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten en enige andere wetten enkele wijzigingen van overwegend technische aard aan te brengen en een investeringsimpuls voor de bouw te introduceren in de vorm van een tijdelijk verlaagd btw-tarief op herstel- en renovatiewerkzaamheden aan woningen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
