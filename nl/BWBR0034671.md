@@ -246,19 +246,3 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 2. De Klachtencommissie publiceert jaarlijks het aantal, de aard en de afhandelingsduur van klachten alsmede het aantal naar andere instanties doorgestuurde klachten.
 
 ### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 2
-
-1. Deze verordening is van toepassing op:
-
-- a. klachten die betrekking hebben op een accountant die niet werkzaam is bij of verbonden is aan een accountantsorganisatie of accountantskantoor waar een klachtenregeling van toepassing is;
-
-- b. klachten die ingevolge [artikel 38a, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=38a) door de accountantskamer zijn doorgezonden aan de Klachtencommissie; of
-
-- c. klachten die de klager aan de Klachtencommissie wenst voor te leggen.
-
-2. Deze verordening is niet van toepassing op de klacht, bedoeld in het eerste lid onder b die de klager wenst voor te leggen aan de klachtinstantie van de accountantsorganisatie of het accountantskantoor waarbij de accountant werkzaam is of waaraan hij is verbonden.
-
-### Hoofdstuk 4. Klachtbehandeling
-
-### Hoofdstuk 5. Slotbepalingen
