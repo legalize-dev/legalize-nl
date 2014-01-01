@@ -4,7 +4,7 @@ identifier: "BWBR0005170"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-06-20"
-last_updated: "2012-12-07"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005170"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) worden, met de titel van economisch commissaris aangewezen de directeuren van de kamers van koophandel en fabrieken, ieder voor het gebied waarvoor de kamer van koophandel en fabrieken waarvan hij directeur is op grond van [artikel 2 van het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](https://wetten.overheid.nl/jci1.3:c:BWBR0009277&artikel=2) is ingesteld.
+Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) worden, met de titel van economisch commissaris, aangewezen de leden van de Kamer van Koophandel.
 
 ##### Artikel 2
 
@@ -66,13 +66,13 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 ##### Artikel 3
 
-1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2012-12-07&g=2012-12-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2012-12-07&g=2012-12-07) aangewezen autoriteiten oefenen de krachtens [artikel 16 van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
+1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2014-01-01&g=2014-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2014-01-01&g=2014-01-01) aangewezen autoriteiten oefenen de krachtens [artikel 16 van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
 
-2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2012-12-07&g=2012-12-07), zoveel mogelijk na overleg met het College van procureurs-generaal.
+2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2014-01-01&g=2014-01-01), zoveel mogelijk na overleg met het College van procureurs-generaal.
 
 ##### Artikel 4
 
-De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2012-12-07&g=2012-12-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2012-12-07&g=2012-12-07) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
+De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2014-01-01&g=2014-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2014-01-01&g=2014-01-01) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
 ##### Artikel 5
 
