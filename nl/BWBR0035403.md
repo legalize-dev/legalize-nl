@@ -4,7 +4,7 @@ identifier: "BWBR0035403"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-09-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035403"
 soort: "ministeriele-regeling"
@@ -44,20 +44,6 @@ entry_into_force: "2014-09-01"
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Nederlandse Zorgautoriteit kan, op grond van de [onderdeel B, sub 15, van de bijlage behorende bij het Besluit beschikbaarheidbijdrage WMG](478189), in overeenstemming met het bepaalde in [artikel 4:51 Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:51) voor een afbouwregeling van ten hoogste drie jaren een beschikbaarheidbijdrage verlenen, indien zorgaanbieders gedurende drie of meer achtereenvolgende jaren een beschikbaarheidbijdrage is verleend.
 
-Gelet op grond van [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Gezien de wijziging van het [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) (Stb. 2014, 164);
-
-Gezien mijn brief van 15 mei 2013 over mijn voornemens met betrekking tot de beschikbaarheidbijdrage SEH 2013 en 2014 (Kamerstukken II 2012/13, 29 247, nr. 184);
-
-Gezien de beantwoording met mijn brief van 28 juni 2013 van vragen die over mijn brief van 15 mei 2013 zijn gesteld door de Tweede Kamer der Staten-Generaal (Kamerstukken II 2012/13, 29 247, nr. 185);
-
-Na op 12 november 2013 schriftelijk mededeling gedaan te hebben aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2013/14, 29 248, nr. 261);
-
-Gezien het Verslag van het schriftelijk overleg over de brief van 12 november 2013 over de beschikbaarheidbijdrage curatieve zorg, vastgesteld op 12 februari 2014 (Kamerstukken II 2013/14, 29 248, nr. 266);
-
-Besluit:
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. Het eerste lid werkt terug tot en met 1 januari 2014.
