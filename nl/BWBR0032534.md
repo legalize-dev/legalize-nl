@@ -4,7 +4,7 @@ identifier: "BWBR0032534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-14"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032534"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2013-01-01), genoemde belastingen, worden vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden en leden.
+1. Van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen, worden vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden en leden.
 
 2. Een vrijstelling als bedoeld in het eerste lid is van toepassing op gezinsleden die inwonen bij van belasting vrijgestelde hoofden en leden als bedoeld in het eerste lid en particuliere bedienden die werkzaam zijn voor die hoofden en leden. Het derde lid, aanhef en onderdeel e, is van overeenkomstige toepassing op deze gezinsleden en bedienden.
 
@@ -76,7 +76,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De volgende organisaties of personen worden vrijgesteld van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2013-01-01), genoemde belastingen:
+1. De volgende organisaties of personen worden vrijgesteld van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen:
 
 - a. de **African Management Services Company**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de African Management Services Company betreffende privileges en immuniteiten van het personeel van de African Management Services Company en hun gezinsleden (**Trb. 2005, 306**);
 
@@ -134,13 +134,13 @@ Besluit:
 
 - ab. het **United Nations University Institute for New technologies**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het United Nations University Institute for New technologies betreffende privileges en immuniteiten van het personeel van het United Nations University Institute for New technologies en hun gezinsleden (**Trb. 2005, 313**).
 
-2. [Artikel 2, eerste en derde lid, de onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2013-01-01), zijn van overeenkomstige toepassing op de organisaties, bedoeld in het eerste lid, hun hoofden en personeel. Artikel 2, tweede lid, is van overeenkomstige toepassing op inwonende gezinsleden en particuliere bedienden van die hoofden en dat personeel.
+2. [Artikel 2, eerste en derde lid, de onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2014-01-01), zijn van overeenkomstige toepassing op de organisaties, bedoeld in het eerste lid, hun hoofden en personeel. Artikel 2, tweede lid, is van overeenkomstige toepassing op inwonende gezinsleden en particuliere bedienden van die hoofden en dat personeel.
 
-3. [Artikel 2, eerste en derde lid, de onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2013-01-01), zijn van overeenkomstige toepassing op het hoofd en de secretaris-generaal van de International Institute for Democracy and Electoral Assistance, bedoeld in het eerste lid, onderdeel s. Artikel 2, tweede lid, is van overeenkomstige toepassing op hun inwonende gezinsleden en particuliere bedienden.
+3. [Artikel 2, eerste en derde lid, de onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2014-01-01), zijn van overeenkomstige toepassing op het hoofd en de secretaris-generaal van de International Institute for Democracy and Electoral Assistance, bedoeld in het eerste lid, onderdeel s. Artikel 2, tweede lid, is van overeenkomstige toepassing op hun inwonende gezinsleden en particuliere bedienden.
 
 ##### Artikel 4
 
-1. Van de in [artikel 1, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2013-01-01), genoemde belastingen worden vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen worden vrijgesteld:
 
 - a. leden van een krijgsmacht, een civiele dienst en hun gezinsleden als bedoeld in artikel I, eerste lid, de onderdelen a, b, en c van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten; en
 
@@ -154,7 +154,7 @@ Besluit:
 
 ##### Artikel 5
 
-Een vrijstelling voor een personeelslid van het hof, bedoeld in [artikel 3, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=3&z=2013-01-01&g=2013-01-01), blijft van toepassing op dat personeelslid als diegene sinds 30 februari 2001 onafgebroken in Nederland verblijf heeft gehouden en sindsdien onafgebroken werkzaam is bij dit hof.
+Een vrijstelling voor een personeelslid van het hof, bedoeld in [artikel 3, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=3&z=2013-01-01&g=2014-01-01), blijft van toepassing op dat personeelslid als diegene sinds 30 februari 2001 onafgebroken in Nederland verblijf heeft gehouden en sindsdien onafgebroken werkzaam is bij dit hof.
 
 ##### Artikel 6
 
