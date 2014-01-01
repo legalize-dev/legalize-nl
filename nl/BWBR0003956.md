@@ -4,7 +4,7 @@ identifier: "BWBR0003956"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-31"
-last_updated: "2000-08-19"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003956"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Besluiten:
 
 ##### Artikel 2
 
-De afstand tussen de onderste trede of sport en het onderste uiteinde van de boom of stijl mag maximaal de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=1&z=2000-08-19&g=2000-08-19), bedoelde afstand + 15 mm bedragen en moet minimaal de helft van die afstand bedragen.
+De afstand tussen de onderste trede of sport en het onderste uiteinde van de boom of stijl mag maximaal de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=1&z=2014-01-01&g=2014-01-01), bedoelde afstand + 15 mm bedragen en moet minimaal de helft van die afstand bedragen.
 
 ##### Artikel 3
 
@@ -61,17 +61,13 @@ Indien het draagbare klimmaterieel is voorzien van een platform, dan mag dit pla
 
 ##### Artikel 5
 
-1. Zowel de bovenzijde van de treden of sporten en het platform als de onderzijde der stijlen of bomen van het draagbare klimmaterieel dienen voldoende stroef te zijn.
+1. In dit artikel wordt onder reformladder verstaan: draagbaar klimmaterieel dat zowel vrijstaand als aanleunend gebruikt kan worden.
 
-2. De uitwendige breedte van één of beide basisdelen van draagbaar klimmaterieel, dat bedoeld is om onder meer vrijstaand te worden opgesteld dient, gemeten aan de onderzijde, minimaal gelijk te zijn aan de inwendige breedte ter plaatse van de bovenste sport of trede of het platform, en in het geval van draagbaar klimmaterieel als aangeduid onder ten negende van NEN 3422 d.d. juni 1969 en NEN 3423 d.d. december 1971, vermeerderd met onderstaande waarde voor:
+2. Zowel de bovenzijde van de treden of sporten en het platform als de onderzijde der stijlen of bomen van het draagbare klimmaterieel dienen voldoende stroef te zijn.
 
-- a. 2-delige reformladder: ten minste 17,5% van de lengte van de boom of stijl, gemeten vanaf de voet tot aan het scharnierpunt;
+3. De uitwendige breedte van één basisdeel van een reformladder, is gemeten aan de onderzijde minimaal gelijk aan de inwendige breedte ter plaatse van de bovenste sport of trede of het platform, vermeerderd met ten minste 17,5% van de lengte van de boom of stijl, gemeten vanaf de voet tot aan het scharnierpunt voor 2-delige en 3-delige reformladders.
 
-- b. 3-delige reformladder: als onder a;
-
-- c. 4-delige reformladder: ten minste 12,5% van de lengte van de boom of stijl, gemeten vanaf de voet tot aan het scharnierpunt, waarbij deze verbreding moet zijn aangebracht aan beider basis.
-
-3. Voor al het overige draagbare klimmaterieel, bedoeld om vrijstaand te worden opgesteld, dient de in het tweede lid bedoelde basisverbreding ten minste 12,5% van de lengte van de boom of stijl, gemeten vanaf de voet tot aan het scharnierpunt, te bedragen.
+4. Voor al het overige draagbare klimmaterieel, bedoeld om vrijstaand te worden opgesteld, dient de in het derde lid bedoelde basisverbreding ten minste 12,5% van de lengte van de boom of stijl, gemeten vanaf de voet tot aan het scharnierpunt, te bedragen. In het geval van een 4-delige reformladder bezitten beide basisdelen deze verbreding.
 
 ##### Artikel 6
 
@@ -79,7 +75,7 @@ Draagbaar klimmaterieel, bestaande uit meerdere beklimbare delen die in uitgesch
 
 ##### Artikel 7
 
-Bij draagbaar klimmaterieel als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=6&z=2000-08-19&g=2000-08-19), welk van een optrekconstructie is voorzien, dient deze constructie zodanig te zijn uitgevoerd dat bij het loslaten of het breken van de optreklijn het onderste opgetrokken deel van het klimmaterieel over niet meer dan één sport c.q. trede-afstand kan zakken; de optreklijn moet een diameter hebben van ten minste 8 mm en een trekkracht van ten minste 4000 N kunnen doorstaan.
+Bij draagbaar klimmaterieel als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=6&z=2014-01-01&g=2014-01-01), welk van een optrekconstructie is voorzien, dient deze constructie zodanig te zijn uitgevoerd dat bij het loslaten of het breken van de optreklijn het onderste opgetrokken deel van het klimmaterieel over niet meer dan één sport c.q. trede-afstand kan zakken; de optreklijn moet een diameter hebben van ten minste 8 mm en een trekkracht van ten minste 4000 N kunnen doorstaan.
 
 ##### Artikel 8
 
