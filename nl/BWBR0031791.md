@@ -4,7 +4,7 @@ identifier: "BWBR0031791"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031791"
 soort: "wet"
@@ -65,22 +65,12 @@ In afwijking van [artikel 2.5 van de Mediawet 2008](https://wetten.overheid.nl/j
 
 ##### Artikel VI
 
-In afwijking van [artikel 2.144, eerste lid, tweede volzin, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.144) bedraagt de vermindering van de rijksmediabijdrage:
-
-- a. € 50,474 miljoen voor het jaar 2013;
-
-- b. € 100,814 miljoen voor het jaar 2014;
-
-- c. € 201,090 miljoen voor het jaar 2015;
-
-- d. € 201,143 miljoen voor het jaar 2016; en
-
-- e. € 201,201 miljoen voor het jaar 2017.
+Vervallen
 
 ##### Artikel VII
 
-1. Deze wet treedt met uitzondering van [artikel I, onderdelen DDa, DDb, WWb en ZZa](https://wetten.overheid.nl/jci1.3:c:BWBR0031791&artikel=I&z=2013-01-01&g=2013-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt met uitzondering van [artikel I, onderdelen DDa, DDb, WWb en ZZa](https://wetten.overheid.nl/jci1.3:c:BWBR0031791&artikel=I&z=2014-01-01&g=2014-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdelen DDa, DDb, WWb en ZZa](https://wetten.overheid.nl/jci1.3:c:BWBR0031791&artikel=I&z=2013-01-01&g=2013-01-01), treedt in werking met ingang van 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt de bepaling, bedoeld in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdelen DDa, DDb, WWb en ZZa](https://wetten.overheid.nl/jci1.3:c:BWBR0031791&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt de bepaling, bedoeld in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen dat deze wet in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
