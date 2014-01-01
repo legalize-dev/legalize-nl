@@ -4,7 +4,7 @@ identifier: "BWBR0033554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-19"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033554"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
+1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
 
 2. De minister kan in overeenstemming met de Centrales van Overheidspersoneel uit de beschikbare arbeidsvoorwaardenruimte aanvullende middelen aan de stichting toekennen.
 
@@ -112,7 +112,7 @@ De stichting legt alle projecten vast in een projectenadministratie. In deze adm
 
 - f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort, inclusief een bewijs dat de bankrekening op naam van de aanvrager staat;
 
-- g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Fabrieken en
+- g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en
 
 - h. de wijze van evalueren.
 
