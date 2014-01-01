@@ -4,7 +4,7 @@ identifier: "BWBR0033813"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2013-08-28"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033813"
 soort: "pbo"
@@ -260,7 +260,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Binnen zes maanden na de inwerkingtreding van deze verordening belegt een ledengroepbestuur een bijeenkomst van de ledengroepvergadering waarin in ieder geval wordt besloten over het benoemen van de leden van het ledengroepbestuur.
 
-2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2013-08-28&g=2013-08-28).
+2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2013-08-28&g=2014-01-01).
 
 3. Tot de benoeming van het ledengroepbestuur, bedoeld in het eerste lid, wordt het ledengroepbestuur gevormd door de leden van het ledengroepbestuur zoals deze door de gezamenlijke besturen van het NIVRA en de NOvAA zijn benoemd tot leden van het ledengroepbestuur van de door het NIVRA en de NOvAA ingestelde ledengroepen.
 
