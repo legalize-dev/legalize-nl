@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Besluit:
 
 - b. kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van drie letters en cijfers of een combinatie daarvan, en
 
-- c. kentekens als bedoeld in [artikel 4, zevende en achtste lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van twee cijfers en één enkele letter.
+- c. kentekens als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van twee cijfers en één enkele letter.
 
 3. Voor een bedrijfsauto of bus waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg wordt een kenteken opgegeven:
 
@@ -91,13 +91,15 @@ Besluit:
 
 - 3°. volgens model 18.1 van de bijlage voor voertuigen die voor 1 januari 1977 in gebruik zijn genomen en waarvoor geen kenteken is opgegeven dat bestaat uit twee groepen van twee letters en één groep van twee cijfers, dan wel één groep van twee letters, één groep van drie cijfers en één letter of één groep van twee cijfers, één groep van drie letters en één cijfer;
 
-- b. mogen kentekens zijn aangebracht op kentekenplaten volgens model 18.2A tot en met 18.2C van de bijlage, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend. Deze kentekens moeten zijn aangebracht in:
+- b. mogen kentekens zijn aangebracht op kentekenplaten volgens model 18.2A tot en met 18.2C van de bijlage, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend. Deze kentekens moeten zijn aangebracht in:
 
 - 1º. zwarte, onuitwisbare tekens op een retroreflecterende gele achtergrond dan wel
 
 - 2°. Voor wat betreft motorrijtuigen die worden gebruikt voor taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), in zwarte, onuitwisbare tekens op een retroreflecterende lichtblauwe achtergrond. Voor wat betreft voertuigen die vóór 1 januari 1978 in gebruik zijn genomen en waarvoor geen kenteken is opgegeven dat bestaat uit twee groepen van twee letters en één groep van twee cijfers, dan wel één groep van twee letters, één groep van drie cijfers en één enkele letter, of één groep van twee cijfers, één groep van drie letters en één enkel cijfer mogen deze kentekens in plaats van in zwarte, onuitwisbare tekens op een retrorefelecterende gele achtergrond, worden aangebracht in witte, onuitwisbare tekens op een donkerblauwe achtergrond. De kleuren geel, donkerblauw en lichtblauw moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172);
 
-- c. mag op een kentekenplichtige aanhangwagen die in gebruik is genomen voor 1 januari 1978, een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op donkerblauwe achtergrond volgens de modellen 1.1, 2.1, 8.1, 9.1, 10.1, 11.1, 12.1 en de modellen 15.1 tot en met 17.3 van de bijlage.
+- c. mag op een kentekenplichtige aanhangwagen die in gebruik is genomen voor 1 januari 1978, een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op donkerblauwe achtergrond volgens de modellen 1.1, 2.1, 8.1, 9.1, 10.1, 11.1, 12.1 en de modellen 15.1 tot en met 17.3 van de bijlage;
+
+- d. moeten kentekens zijn aangebracht in zwarte onuitwisbare tekens op een witte achtergrond volgens de modellen 18.2A tot en met 18.2C, 27.1A tot en met 27.2F, 27.10A tot en met 27.10C, 27.30A tot en met 27.31C, 30.1A tot en met 30.4D van de bijlage indien een kentekenbewijs deel II is uitgereikt als bedoeld in [artikel 17, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17). De kentekenplaten mogen zijn voorzien van een zwarte rand en behoeven niet te zijn voorzien van een Europees embleem en landenindicator en behoeven niet te behoren tot een goedgekeurde soort.
 
 3. Met betrekking tot motorrijtuigen die voor 1 februari 2000 in gebruik zijn genomen mogen kentekens, niet zijnde handelaarskentekens of kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), in afwijking van het eerste lid zijn aangebracht op een gele achtergrond volgens de modellen 11.1, 12.1, 13.1, 14.1, en 18.1 van de bijlage en, voor zover het betreft kentekens behorende tot de lettergroep AA en CDJ alsmede vóór 1 februari 1991 opgegeven kentekens bevattende de lettergroep CD, volgens de modellen 15.1, 16.1, 17.1, 17.2 en 17.3 van de bijlage. Deze afwijkingsmogelijkheid geldt:
 
@@ -113,7 +115,7 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - c. Op een aanhangwagen achter een motorrijtuig waarvoor een GV-kenteken is opgegeven, mag een kentekenplaat met het voor het trekkend motorrijtuig opgegeven kenteken worden gevoerd volgens de modellen 27.24A tot en met 27.25C.
 
-- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2013-01-01&g=2013-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2014-01-01&g=2014-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
 - e. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens model 18.2A tot en met 18.2C van de bijlage.
 
@@ -167,7 +169,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2013-01-01&g=2013-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2014-01-01&g=2014-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
@@ -183,9 +185,9 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Op de donkerblauwe of groene achtergrond van een kentekenplaat volgens de modellen 1.1 tot en met 10.1 van de bijlage mag niets anders voorkomen dan het kenteken, het Rijkskeurmerk, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder.
 
-Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van de bijlage mogen voorts in witte cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de geldigheid van het kentekenbewijs, door de afgifte waarvan het kenteken is opgegeven, eindigt.
+Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van de bijlage mogen voorts in witte cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de tenaamstelling in het kentekenregister vervalt.
 
-2. Op de donkerblauwe, groene of gele achtergrond van een kentekenplaat volgens de modellen 11.1 tot en met 18.2C van de bijlage mag niets anders voorkomen dan het kenteken, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. Voor zover het betreft een kentekenplaat volgens de modellen 13.1 en 14.1 van de bijlage mogen voorts in witte dan wel gele retroflecterende cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de geldigheid van het kentekenbewijs, door de afgifte waarvan het kenteken is opgegeven, eindigt. Voor zover het betreft een kentekenplaat volgens het model 18.2A tot en met 18.2C van de bijlage met een gele dan wel lichtblauwe achtergrond is deze tevens voorzien van een lamineercode.
+2. Op de donkerblauwe, groene of gele achtergrond van een kentekenplaat volgens de modellen 11.1 tot en met 18.2C van de bijlage mag niets anders voorkomen dan het kenteken, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. Voor zover het betreft een kentekenplaat volgens de modellen 13.1 en 14.1 van de bijlage mogen voorts in witte dan wel gele retroflecterende cijfers op rode achtergrond de laatste twee cijfers van het jaartal voorkomen dat het jaar aangeeft waarin de tenaamstelling in het kentekenregister vervalt. Voor zover het betreft een kentekenplaat volgens het model 18.2A tot en met 18.2C van de bijlage met een gele dan wel lichtblauwe achtergrond is deze tevens voorzien van een lamineercode.
 
 3. Op de witte achtergrond van kentekenplaten volgens de modellen 11.1, 12.1, 18.1 en 19.1 tot en met 26.1 mag niets anders voorkomen dan het kenteken en het merk van de fabrikant. Op de achtergrond van een kentekenplaat volgens de modellen 27.1A tot en met 27.2F, 27.10A tot en met 27.31C en 30.1 tot en met 30.16 van de bijlage mag niets anders voorkomen dan hetgeen is vermeld in die modellen, alsmede de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. De kentekenplaten volgens de modellen 27.15A tot en met 27.17C, 30.7 en 30.8 moeten zijn voorzien van een maandaanduiding, die uitsluitend mag bestaan uit het nummer van de lopende of de volgende maand.
 
@@ -223,7 +225,7 @@ Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van
 
 ##### Artikel 9
 
-De regeling van de Minister van Verkeer en Waterstaat van 13 december 1994, nr. RV 188178, betreffende kentekens en kentekenplaten (Stcrt. 248), wordt ingetrokken.
+Vervallen
 
 ##### Artikel 9
 
@@ -245,11 +247,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2013-01-01&g=2013-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2014-01-01&g=2014-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
 
 ##### Artikel 8a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2013-01-01&g=2013-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2014-01-01&g=2014-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
 
 ## Bijlage
 
