@@ -4,7 +4,7 @@ identifier: "BWBR0031798"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031798"
 soort: "wet"
@@ -92,6 +92,8 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
+Wijzigt de Wet belastingen op milieugrondslag.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
@@ -118,9 +120,9 @@ Wijzigt de Fiscale verzamelwet 2012.
 
 ##### Artikel XIX
 
-1. De omzetbelasting die na 30 september 2012 verschuldigd wordt ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VIII&z=2013-01-01&g=2013-01-01), het tarief met ingang van 1 oktober 2012 wordt verhoogd en die zijn verricht vóór of op de eerstgenoemde datum, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
+1. De omzetbelasting die na 30 september 2012 verschuldigd wordt ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VIII&z=2014-01-01&g=2014-01-01), het tarief met ingang van 1 oktober 2012 wordt verhoogd en die zijn verricht vóór of op de eerstgenoemde datum, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
 
-2. Ingeval omzetbelasting vóór 1 oktober 2012 verschuldigd is ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VIII&z=2013-01-01&g=2013-01-01), het tarief met ingang van 1 oktober 2012 wordt verhoogd en die worden verricht op of na deze datum, wordt hetgeen meer verschuldigd zou zijn geweest indien de belasting zou zijn berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht, alsnog verschuldigd op 1 oktober 2012.
+2. Ingeval omzetbelasting vóór 1 oktober 2012 verschuldigd is ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VIII&z=2014-01-01&g=2014-01-01), het tarief met ingang van 1 oktober 2012 wordt verhoogd en die worden verricht op of na deze datum, wordt hetgeen meer verschuldigd zou zijn geweest indien de belasting zou zijn berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht, alsnog verschuldigd op 1 oktober 2012.
 
 3. Ingeval een ondernemer ingevolge een vóór 1 oktober 2012 gesloten overeenkomst na 30 september 2012 een onroerende zaak levert of een werk in onroerende staat oplevert tegen een vergoeding welke vervalt in termijnen, blijft ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van de termijnen die op grond van die overeenkomst vóór 1 oktober 2012 zijn vervallen, de verhoging van het tarief van de omzetbelasting van 19% tot 21% buiten toepassing.
 
@@ -140,11 +142,11 @@ Wijzigt de Fiscale verzamelwet 2012.
 
 ##### Artikel XXI
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=IV&z=2013-01-01&g=2013-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=IV&z=2014-01-01&g=2014-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2013.
 
-2. In afwijking van het eerste lid treden de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=XIII&z=2013-01-01&g=2013-01-01) en [XXa](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=XXa&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treden de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=XIII&z=2014-01-01&g=2014-01-01) en [XXa](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=XXa&z=2014-01-01&g=2014-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VI&z=2013-01-01&g=2013-01-01) en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VII&z=2013-01-01&g=2013-01-01) werken terug tot en met 1 juli 2012.
+3. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VI&z=2014-01-01&g=2014-01-01) en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=VII&z=2014-01-01&g=2014-01-01) werken terug tot en met 1 juli 2012.
 
 ##### Artikel XXII
 
