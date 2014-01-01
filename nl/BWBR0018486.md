@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2008-06-14"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -35,13 +35,13 @@ entry_into_force: "2013-12-11"
 ---
 # Regeling titulatuur hoger onderwijs
 
-##### Artikel 1. Andere toevoeging
+##### Artikel 1. Andere toevoeging wetenschappelijk onderwijs
 
 Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg afleggen van het afsluitend examen van een bacheloropleiding onderscheidenlijk masteropleiding in het wetenschappelijk onderwijs op het gebied van het recht, wordt vastgesteld ”of Laws”.
 
-##### Artikel 1a. Afkorting
+##### Artikel 1a. Afkorting andere toevoeging wetenschappelijk onderwijs
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2008-06-14&g=2008-06-14), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2014-01-01&g=2014-01-01), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
@@ -53,7 +53,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 3. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling andere toevoeging aan wo-graden.
+Deze regeling wordt aangehaald als: Regeling titulatuur hoger onderwijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -62,3 +62,39 @@ Gelet op:
 • [artikel 7.10a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a)
 
 Besluit
+
+##### Artikel 1b. Vaststelling referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs
+
+De referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs, bedoeld in [artikel 5a.2, lid 2a, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.2), en de graden met toevoegingen, bedoeld in [artikel 7.19a, lid 3a, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.19a), worden vastgesteld overeenkomstig de bijlage bij deze regeling.
+
+## Bijlage. Referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs
+
+In deze bijlage worden voor het hoger beroepsonderwijs per onderdeel van het Centraal register opleidingen hoger onderwijs internationaal herkenbare bachelor- en mastergraden met toevoegingen benoemd.
+
+Het gaat om de volgende onderdelen van het Centraal register opleidingen hoger onderwijs:
+
+Deze bijlage behoort bij de Regeling titulatuur hoger onderwijs.
+
+### Economie
+
+### Gedrag en maatschappij
+
+### Gezondheidzorg
+
+### Landbouw en natuurlijke omgeving
+
+### Onderwijs
+
+### Recht
+
+### Taal en cultuur
+
+### Techniek
+
+### Afwijking in verband met de internationale herkenbaarheid
+
+Als het instellingsbestuur kan motiveren dat in een specifiek geval deze lijst niet aansluit bij de internationale herkenbaarheid van de opleiding, kan de NVAO de voorgestelde toevoeging aan een graad van het instellingsbestuur positief beoordelen. Hierbij waakt de NVAO voor de eenheid van de opleidingsspecifieke graden.
+
+### Naamswijziging opleiding
+
+De in deze bijlage genoemde toevoegingen aan graden blijven gelden als de opleiding van naam verandert.
