@@ -4,7 +4,7 @@ identifier: "BWBR0014779"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014779"
 soort: "wet"
@@ -47,17 +47,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: de Minister van Justitie;
+- a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2013-07-01&g=2013-07-01);
+- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2014-01-01&g=2014-01-01);
 
-- c. collectieve beheersorganisatie: de door Onze Minister op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) aangewezen rechtspersoon, die belast is met de inning en de verdeling van vergoedingen, alsmede de rechtspersoon die door Onze Minister is aangewezen overeenkomstig [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=17&z=2013-07-01&g=2013-07-01);
+- c. collectieve beheersorganisatie: de door Onze Minister op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) aangewezen rechtspersoon, die belast is met de inning en de verdeling van vergoedingen, alsmede de rechtspersoon die door Onze Minister is aangewezen overeenkomstig [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=17&z=2014-01-01&g=2014-01-01);
 
-- d. geschillencommissie: de geschillencommissie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2013-07-01&g=2013-07-01).
+- d. geschillencommissie: de geschillencommissie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2014-01-01&g=2014-01-01);
+
+- e. de Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ##### Artikel 2
 
-1. Er is een College van Toezicht dat tot taak heeft toezicht uit te oefenen op de inning en de verdeling van de vergoedingen door de collectieve beheersorganisaties.
+1. Er is een College van Toezicht dat tot taak heeft toezicht uit te oefenen op de inning en de verdeling van de vergoedingen door de collectieve beheersorganisaties. De [Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), met uitzondering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), is van toepassing op het College van Toezicht. Onze Minister oefent de bevoegdheden, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), en [23, eerste en tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23) uit in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Economische Zaken.
 
 2. Het College van Toezicht ziet er op toe dat een collectieve beheersorganisatie:
 
@@ -109,7 +111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het College van Toezicht kan slechts zijn schriftelijke instemming aan een besluit onthouden indien de collectieve beheersorganisatie binnen een door het college te bepalen periode na ontvangst van een voorafgaand advies van het college het advies niet opvolgt.
 
-4. Het College van Toezicht onthoudt zijn goedkeuring aan een besluit tot verhoging van de standaardtarieven, bedoeld in het eerste lid, onderdeel c, indien de verhoging, gelet op de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2013-07-01&g=2013-07-01), vermelde eisen, buitensporig is.
+4. Het College van Toezicht onthoudt zijn goedkeuring aan een besluit tot verhoging van de tarieven, bedoeld in het eerste lid, onderdeel c, indien de verhoging, gelet op de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2014-01-01&g=2014-01-01), vermelde eisen, buitensporig is.
 
 ##### Artikel 4
 
@@ -129,7 +131,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 4. Het College van Toezicht kan, indien het daartoe gronden aanwezig acht, de boekhouding van een collectieve beheersorganisatie laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de collectieve beheersorganisatie.
 
-5. Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=16&z=2013-07-01&g=2013-07-01), die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) worden gebruikt.
+5. Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=16&z=2014-01-01&g=2014-01-01), die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) worden gebruikt.
 
 ##### Artikel 6
 
@@ -145,7 +147,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 2. De leden van het College van Toezicht kunnen de taken onderling verdelen. Het College blijft verantwoordelijk voor de uitoefening van deze taken.
 
-3. De leden van het College van Toezicht worden, in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en met de Minister van Economische Zaken, Landbouw en Innovatie, benoemd door Onze Minister, die tevens de voorzitter aanwijst.
+3. Onze Minister wijst de voorzitter aan.
 
 4. De leden van het College van Toezicht worden benoemd voor een periode van ten hoogste vier jaren. Zij kunnen na afloop van deze periode aansluitend eenmaal opnieuw worden benoemd voor een termijn van ten hoogste vier jaren.
 
@@ -153,15 +155,13 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 6. Een lid dat een vacature vervult, wordt benoemd voor de resterende duur van de periode waarvoor het door hem vervangen afgetreden lid was benoemd.
 
-7. Het College van Toezicht kent zoveel plaatsvervangende leden als Onze Minister nodig acht. Artikel 7, leden 3, 4 en 6 alsmede de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=8&z=2013-07-01&g=2013-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=9&z=2013-07-01&g=2013-07-01) en [12, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=12&z=2013-07-01&g=2013-07-01), zijn van overeenkomstige toepassing.
+7. Het College van Toezicht kent zoveel plaatsvervangende leden als Onze Minister nodig acht. Het vierde en zesde lid en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=9&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8
 
-1. Een lid van het College van Toezicht vervult geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.
+1. Nevenfuncties van een lid van het College van Toezicht worden openbaar gemaakt door vermelding op de website van het College van Toezicht.
 
-2. Nevenfuncties van een lid van het College van Toezicht worden openbaar gemaakt door vermelding op de website van het College van Toezicht.
-
-3. Een lid van het College van Toezicht heeft geen financiële of andere belangen bij ondernemingen, instellingen of andere organisaties waardoor zijn onpartijdigheid in het geding kan zijn.
+2. Een lid van het College van Toezicht heeft geen financiële of andere belangen bij ondernemingen, instellingen of andere organisaties waardoor zijn onpartijdigheid in het geding kan zijn.
 
 ##### Artikel 9
 
@@ -169,7 +169,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 - a. door het verstrijken van de periode waarvoor het lid is benoemd;
 
-- b. door ontslag door Onze Minister, in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en met de Minister van Economische Zaken, Landbouw en Innovatie, al dan niet op eigen verzoek van het lid;
+- b. door ontslag, bedoeld in [artikel 12, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12);
 
 - c. door ondercuratelestelling of overlijden van het lid;
 
@@ -177,17 +177,11 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 - e. door een veroordeling wegens een misdrijf.
 
-2. De leden van het College van Toezicht kunnen door Onze Minister, in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en met de Minister van Economische Zaken, Landbouw en Innovatie, worden geschorst. Het schorsingsbesluit regelt de gevolgen van de schorsing.
-
-3. Schorsing en ontslag vindt slechts plaats wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen.
+2. Een besluit tot schorsing van de leden van het College van Toezicht regelt de gevolgen van de schorsing.
 
 ##### Artikel 10
 
-1. Indien naar het oordeel van Onze Minister, het College van Toezicht zijn taken ernstig verwaarloost, kan Onze Minister, in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en met de Minister van Economische Zaken, Landbouw en Innovatie, de noodzakelijke voorzieningen treffen.
-
-2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het zelfstandig bestuursorgaan in de gelegenheid is gesteld om binnen een door Onze Minister, in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en met de Minister van Economische Zaken, Landbouw en Innovatie, te stellen termijn alsnog zijn taken naar behoren uit te oefenen.
-
-3. Onze Minister stelt de beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 11
 
@@ -195,15 +189,9 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 2. Onze Minister benoemt, schorst en ontslaat de secretaris, na overleg met de voorzitter van het College van Toezicht.
 
-3. De secretaris is voor zijn werkzaamheden uitsluitend verantwoording schuldig aan het College.
-
 ##### Artikel 12
 
-1. Onze Minister stelt de hoogte vast van de bezoldiging van de leden van het College van Toezicht.
-
-2. De leden van het College van Toezicht en de secretaris ontvangen voor de uitoefening van hun werkzaamheden vergoeding van reis- en verblijfkosten overeenkomstig regels door Onze Minister te stellen.
-
-3. De kosten van het College van Toezicht worden door Onze Minister vergoed.
+De kosten van het College van Toezicht worden door Onze Minister vergoed.
 
 ##### Artikel 13
 
@@ -211,7 +199,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 2. Het College van Toezicht besluit met volstrekte meerderheid van uitgebrachte stemmen. Elk lid heeft één stem. Indien de stemmen staken beslist de voorzitter.
 
-3. Het College van Toezicht kan bij reglement nadere regels vaststellen omtrent zijn vergadering en besluitvorming. Vaststelling en wijziging van het reglement is onderworpen aan de goedkeuring van Onze Minister.
+3. Het College van Toezicht kan bij bestuursreglement nadere regels vaststellen omtrent zijn vergadering en besluitvorming.
 
 ##### Artikel 14
 
@@ -219,17 +207,13 @@ Het College van Toezicht kan vertegenwoordigers van betalingsplichtigen of ander
 
 ##### Artikel 15
 
-1. Het College van Toezicht stelt een jaarrekening op, alsmede voor 1 november een begroting voor het volgende kalenderjaar. De begroting behoeft de goedkeuring van Onze Minister.
-
-2. Het College van Toezicht brengt jaarlijks voor 1 juli verslag uit aan Onze Minister van de verrichte werkzaamheden in het voorafgaande kalenderjaar. De Minister zendt het verslag door aan beide Kamers der Staten-Generaal en aan de collectieve beheersorganisaties.
-
-3. Het College van Toezicht verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen.
+In afwijking van [artikel 18, eerste lid, eerste volzin, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) stelt het College van Toezicht voor 1 juli een jaarverslag op.
 
 ##### Artikel 16
 
-1. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), is deze derde, onverminderd het bepaalde in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5&z=2013-07-01&g=2013-07-01), gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.
+1. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), is deze derde, onverminderd het bepaalde in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5&z=2014-01-01&g=2014-01-01), gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.
 
-2. [Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2013-07-01&g=2013-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2013-07-01&g=2013-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=19&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing.
+2. [Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2014-01-01&g=2014-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2014-01-01&g=2014-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=19&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -241,7 +225,7 @@ Het College van Toezicht kan vertegenwoordigers van betalingsplichtigen of ander
 
 1. Het College van Toezicht kan een collectieve beheersorganisatie aan wie de overtreding kan worden toegerekend een bestuurlijke boete opleggen:
 
-- a. bij niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2013-07-01&g=2013-07-01), van ten hoogste € 225.000 per overtreding, of, indien dat meer is, 5% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen;
+- a. bij niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2014-01-01&g=2014-01-01), van ten hoogste € 225.000 per overtreding, of, indien dat meer is, 5% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen;
 
 - b. bij overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), van ten hoogste € 35.000 per overtreding, of, indien dat meer is, 1% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen.
 
@@ -253,13 +237,13 @@ Het College van Toezicht kan vertegenwoordigers van betalingsplichtigen of ander
 
 ##### Artikel 19
 
-1. Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2013-07-01&g=2013-07-01), of overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+1. Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2014-01-01&g=2014-01-01), of overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. Aan een last kunnen voorschriften worden verbonden betreffende de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2013-07-01&g=2013-07-01), aan een collectieve beheersorganisatie gestelde eisen.
+2. Aan een last kunnen voorschriften worden verbonden betreffende de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2014-01-01&g=2014-01-01), aan een collectieve beheersorganisatie gestelde eisen.
 
 3. Een last geldt voor een door het College van Toezicht te bepalen termijn van ten hoogste twee jaren.
 
-4. Een boete, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2013-07-01&g=2013-07-01), en een last onder dwangsom kunnen samen worden opgelegd.
+4. Een boete, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2014-01-01&g=2014-01-01), en een last onder dwangsom kunnen samen worden opgelegd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -269,11 +253,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. wordt verstaan onder topfunctionaris: de leden van de uitvoerende, adviserende en toezichthoudende organen van een collectieve beheersorganisatie alsmede de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die is of zijn belast met de dagelijkse leiding van een collectieve beheersorganisatie.
 
-- b. de op grond van [artikel 5.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5) opgeëiste bedragen beschikbaar komen voor verdeling aan rechthebbenden,
+- b. de op grond van [artikel 5.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5) opgeëiste bedragen beschikbaar komen voor verdeling aan rechthebbenden, en
 
-- c. voor [artikel 7.3, tiende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) wordt gelezen: Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die is of wordt overeengekomen tussen 18 januari 2012 en het tijdstip waarop deze wet in werking treedt, en
-
-- d. Onze Minister bij ministeriële regeling nadere regels kan stellen over de bezoldiging van de leden van een adviserend orgaan van een collectieve beheersorganisatie.
+- c. voor [artikel 7.3, tiende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) wordt gelezen: Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die is of wordt overeengekomen tussen 18 januari 2012 en het tijdstip waarop deze wet in werking treedt.
 
 2. De op grond van [paragraaf 5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=5) aan de Minister wie het aangaat toekomende bevoegdheden worden, in afwijking van [artikel 5.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1), voor de overeenkomstige toepassing van die wet op collectieve beheersorganisaties uitgeoefend door het College van Toezicht. De in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2), [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.2), en [5.3 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.3) bedoelde informatie wordt, in afwijking van die artikelen, verstrekt aan het College van Toezicht.
 
@@ -295,13 +277,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 23
 
-1. De betalingsplichtige of de collectieve beheersorganisatie kan de geschillencommissie binnen een bij de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2013-07-01&g=2013-07-01) bedoelde aanwijzing van de geschillencommissie te bepalen termijn verzoeken uitspraak te doen over een geschil als bedoeld in artikel 22.
+1. De betalingsplichtige of de collectieve beheersorganisatie kan de geschillencommissie binnen een bij de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2014-01-01&g=2014-01-01) bedoelde aanwijzing van de geschillencommissie te bepalen termijn verzoeken uitspraak te doen over een geschil als bedoeld in artikel 22.
 
 2. Wordt het geschil niet binnen drie maanden nadat afschrift van de uitspraak van de geschillencommissie aan partijen werd verzonden bij de rechter aanhangig gemaakt, dan wordt hetgeen in de uitspraak is vastgesteld na het verstrijken van deze termijn geacht te zijn overeengekomen tussen partijen.
 
 ##### Artikel 24
 
-De rechter beslist omtrent een geschil als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2013-07-01&g=2013-07-01) niet dan nadat de geschillencommissie in de gelegenheid is gesteld om hieromtrent advies uit te brengen, tenzij de geschillencommissie hierover reeds uitspraak heeft gedaan of de rechter ook zonder advies aanstonds kan beslissen.
+De rechter beslist omtrent een geschil als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2014-01-01&g=2014-01-01) niet dan nadat de geschillencommissie in de gelegenheid is gesteld om hieromtrent advies uit te brengen, tenzij de geschillencommissie hierover reeds uitspraak heeft gedaan of de rechter ook zonder advies aanstonds kan beslissen.
 
 ##### Artikel 25
 
