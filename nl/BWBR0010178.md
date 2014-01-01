@@ -4,7 +4,7 @@ identifier: "BWBR0010178"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2009-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010178"
 soort: "wet"
@@ -46,15 +46,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder:
-
-- a. Onze Minister: Onze Minister van Buitenlandse Zaken of Onze Minister voor Ontwikkelingssamenwerking;
-
-- b. Onze Ministers: Onze Minister van Buitenlandse Zaken en Onze Minister voor Ontwikkelingssamenwerking gezamenlijk.
+In deze wet en de daarop berustende bepalingen wordt verstaan onder «Onze Minister»: Onze Minister van Buitenlandse Zaken of Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 ##### Artikel 2
 
-Onze Minister kan dan wel Onze Ministers kunnen subsidies verstrekken voor activiteiten welke passen in het beleid ten aanzien van:
+Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het beleid ten aanzien van:
 
 - a. het bevorderen van de internationale rechtsorde;
 
@@ -64,15 +60,17 @@ Onze Minister kan dan wel Onze Ministers kunnen subsidies verstrekken voor activ
 
 - d. het bevorderen van ontwikkelings- en transitieprocessen in andere landen;
 
-- e. het behartigen van sociale en culturele belangen in het buitenland;
+- e. het behartigen van sociale, culturele en economische belangen in het buitenland;
 
 - f. het voorlichten op het terrein van het buitenlands beleid en het bevorderen van mondiale bewustwording in Nederland;
 
 - g. het bevorderen van onderzoek en advisering ter ondersteuning van het buitenlands beleid;
 
-- h. het lenigen van menselijke noden ten gevolge van crises en
+- h. het lenigen van menselijke noden ten gevolge van crises;
 
-- i. het bevorderen van het welzijn van het personeel van het Ministerie van Buitenlandse Zaken.
+- i. het bevorderen van de internationale economische betrekkingen en
+
+- j. het bevorderen van het welzijn van het personeel van het Ministerie van Buitenlandse Zaken.
 
 ##### Artikel 3
 
@@ -104,21 +102,21 @@ Onze Minister kan dan wel Onze Ministers kunnen subsidies verstrekken voor activ
 
 1. Deze wet is niet van toepassing op subsidies waarvan de verstrekking bij afzonderlijke wet is geregeld.
 
-2. Deze wet en [afdeling 3.3 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) en de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en [10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10) zijn niet van toepassing op de verstrekking van financiële middelen aan natuurlijke personen en rechtspersonen buiten de Europese Unie door een Nederlandse vertegenwoordiging buiten de Europese Unie namens Onze Minister dan wel namens Onze Ministers.
+2. Deze wet en [afdeling 3.3 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) en de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en [10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10) zijn niet van toepassing op de verstrekking van financiële middelen aan natuurlijke personen en rechtspersonen buiten de Europese Unie door een Nederlandse vertegenwoordiging buiten de Europese Unie namens Onze Minister.
 
 ##### Artikel 5
 
-1. Een aanvraag voor een subsidie kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie kan door Onze Minister dan wel Onze Ministers worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn met volkenrechtelijke verplichtingen rustend op de staat.
+1. Een aanvraag voor een subsidie kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie kan door Onze Minister worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn met volkenrechtelijke verplichtingen rustend op de staat.
 
 2. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.
 
 3. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
-4. Onze Minister kan dan wel Onze Ministers kunnen in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
+4. Onze Minister kan in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
 
 ##### Artikel 6
 
-1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister dan wel Onze Ministers aangewezen personen.
+1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 2. De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
@@ -133,5 +131,13 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Kaderwet subsidies Ministerie van Buitenlandse Zaken.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01), van deze wet.
+
+2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
