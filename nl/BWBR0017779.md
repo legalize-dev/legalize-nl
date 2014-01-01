@@ -4,7 +4,7 @@ identifier: "BWBR0017779"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017779"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 accreditatie-instantie: nationale accreditatie-instantie, als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en marktoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);
 
@@ -62,17 +62,9 @@ CO2: kooldioxide;
 
 N2O: distikstofoxide (lachgas);
 
-NOx-procesinstallatie: NOx-installatie die wordt gebruikt voor de vervaardiging van een product, waarbij een emissie van ten minste 1.000 kilogram stikstofoxiden per kalenderjaar in de lucht wordt veroorzaakt;
-
-NOx-verbrandingsinstallatie: NOx-installatie, niet zijnde een NOx-procesinstallatie, met een vermogen van één megawatt thermisch of meer, die een emissie van stikstofoxiden in de lucht veroorzaakt als gevolg van het verstoken van brandstof, met inbegrip van de bij de installatie behorende voorzieningen voor de reiniging van het rookgas;
-
 verbrandingseenheid: vaste technische eenheid waarin activiteiten als bedoeld in artikel 3, onder t, van de EG-richtlijn handel in broeikasgasemissierechten plaatsvinden;
 
 wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
-
-2. Voor de toepassing van [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&z=2013-01-01&g=2013-01-01) en de daarop berustende bepalingen wordt onder vergunning krachtens [artikel 16.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5) mede verstaan: vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), in verbinding met [artikel 16.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5).
-
-3. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&z=2013-01-01&g=2013-01-01) en de daarop berustende bepalingen wordt verstaan onder product: ijzer, staal, elektrostaal, zink, anode, caprolactam, carbon black, siliciumcarbide, aluminium, vlakglas, verpakkingsglas, speciaal glas, steenwol, emailleerfritten, glasfritten, fosfor, fosforzuur, natriumtripolyphosphaat, cement, salpeterzuur, nitriet, actieve kool of magnesiumoxide.
 
 ### Hoofdstuk 2. Broeikasgasemissies
 
@@ -80,7 +72,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
 
-- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2013-01-01&g=2013-01-01) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
+- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2014-01-01&g=2014-01-01) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
 
 - b. op grond van artikel 24 van de EG-richtlijn handel in broeikasgasemissierechten in het systeem van handel in broeikasgasemissierechten opgenomen: met ingang van de in de beschikking van de Europese Commissie tot goedkeuring van die opneming genoemde datum.
 
@@ -90,7 +82,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 2. De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten, indien:
 
-- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2013-01-01&g=2013-01-01), niet wordt overschreden;
+- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2014-01-01&g=2014-01-01), niet wordt overschreden;
 
 - b. de broeikasgasinstallatie waarin de activiteiten worden verricht, zich bevindt in een inrichting bestemd voor het verbranden van gevaarlijke of huishoudelijke afvalstoffen of bestemd voor onderzoek, ontwikkeling of beproeving van nieuwe processen of producten;
 
@@ -112,13 +104,13 @@ Vervallen
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), en de aanvraag krachtens [artikel 16.20a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20a) moeten geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Bij de aanvraag om een vergunning wordt een monitoringsplan ingediend.
+1. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning krachtens [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), en de aanvraag krachtens [artikel 16.20a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20a) moeten geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Bij de aanvraag om een vergunning wordt een monitoringsplan ingediend.
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen en met inachtneming van bij die regeling te stellen eisen:
 
-- a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2013-01-01&g=2013-01-01) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
+- a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2014-01-01&g=2014-01-01) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
 
-- b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2013-01-01&g=2013-01-01) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
+- b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2014-01-01&g=2014-01-01) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot de verdeling van taken, bevoegdheden en verantwoordelijkheden tussen de personen die met de uitvoering van het monitoringsplan en de controle op de naleving daarvan zijn belast.
 
@@ -156,53 +148,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Als categorieën van NOx-installaties als bedoeld in [artikel 16.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
-
-- a. NOx-verbrandingsinstallaties, voorzover het gezamenlijke vermogen, uitgedrukt in megawatt thermisch, van de zich in de betrokken inrichting bevindende NOx-verbrandingsinstallaties 20 of meer bedraagt;
-
-- b. NOx-procesinstallaties;
-
-- c. indien zich in de betrokken inrichting NOx-procesinstallaties bevinden: NOx-verbrandingsinstallaties.
-
-2. De aanwijzing, bedoeld in het eerste lid, aanhef en onder a en c, heeft geen betrekking op NOx-verbrandingsinstallaties voor de vervaardiging van keramiek.
-
-3. De aanwijzing, bedoeld in het eerste lid, aanhef en onder a, heeft tot en met 31 december 2008 geen betrekking op NOx-verbrandingsinstallaties die zich bevinden in een inrichting:
-
-- a. waarin het gezamenlijke vermogen, uitgedrukt in megawatt thermisch, van die installaties minder dan 30 bedraagt,
-
-- b. waarin zich geen NOx-procesinstallaties bevinden, en
-
-- c. ten aanzien waarvan het bestuur van de emissieautoriteit een verzoek als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=14&z=2013-01-01&g=2013-01-01), om tijdelijk buiten bedoelde aanwijzing te blijven, op grond van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=14&z=2013-01-01&g=2013-01-01), heeft toegewezen.
-
-4. De toepassing van het derde lid vervalt zodra de betrokken inrichting niet langer voldoet aan een van beide of beide in het derde lid, aanhef en onder a en b, bedoelde voorwaarden.
-
-5. De aanwijzing, bedoeld in het eerste lid, aanhef en onder b, is op NOx-procesinstallaties die betrekking hebben op de productie van vlakglas, speciaal glas of verpakkingsglas eerst van toepassing vijftien weken na de datum waarop de betrokken oven na een grote ovenrevisie wordt opgestart. Als datum waarop een oven na een ovenrevisie wordt opgestart, wordt aangemerkt de datum die degene die de betrokken inrichting drijft, ter zake overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=15&z=2013-01-01&g=2013-01-01), heeft gemeld aan het bestuur van de emissieautoriteit.
-
-6. Het vijfde lid is niet van toepassing op NOx-procesinstallaties waarbij na 1 januari 1994 in het kader van een grote ovenrevisie maatregelen zijn genomen om overeenkomstig de stand der techniek de emissie van NOx voor de betrokken installatie te verminderen.
-
-7. In afwijking van het eerste lid heeft de aanwijzing geen betrekking op NOx-installaties die:
-
-- a. zich bevinden in een inrichting, bestemd voor onderzoek, ontwikkeling of beproeving van nieuwe processen of producten, of
-
-- b. zijn opgesteld om onderzocht, beproefd of gedemonstreerd te worden.
+Vervallen
 
 ##### Artikel 14
 
-1. Degene die een inrichting drijft, waarin zich NOx-verbrandingsinstallaties bevinden, kan het bestuur van de emissieautoriteit verzoeken om tot en met 31 december 2008 buiten de aanwijzing, bedoeld in [artikel 13, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), te blijven.
-
-2. Het bestuur van de emissieautoriteit wijst het verzoek toe indien aan de voorwaarden, bedoeld in [artikel 13, derde lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), is voldaan.
-
-3. In het verzoek vermeldt de verzoeker de naam en het adres van de inrichting waarvoor het verzoek wordt ingediend.
-
-4. De verzoeker verstrekt bij zijn verzoek voor de inrichting waarop het verzoek betrekking heeft:
-
-- a. een afschrift van het gedeelte van de vergunning krachtens [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) waaruit blijkt dat aan de voorwaarden, bedoeld in [artikel 13, derde lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), wordt voldaan, of
-
-- b. een ondertekende verklaring van het bevoegd gezag krachtens [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) waarin het bevoegd gezag verklaart dat de inrichting voldoet aan de onder a bedoelde voorwaarden.
-
-5. Indien de verzoeker niet kan voldoen aan het vierde lid, verstrekt hij andere gegevens waaruit ten genoegen van het bestuur van de emissieautoriteit blijkt dat de inrichting voldoet aan de voorwaarden, bedoeld in [artikel 13, derde lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01).
-
-6. Indien het bestuur van de emissieautoriteit op grond van het tweede lid heeft besloten dat een inrichting tot en met 31 december 2007 buiten de aanwijzing, bedoeld in [artikel 13, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), blijft, geldt dit besluit van rechtswege tot en met 31 december 2008.
+Vervallen
 
 ## Bijlage. behorende bij het Besluit handel in emissierechten
 
@@ -248,59 +198,27 @@ Vervallen
 
 ##### Artikel 15
 
-1. Degene die een inrichting drijft, waarin zich NOx-procesinstallaties bevinden die betrekking hebben op de productie van vlakglas, speciaal glas of verpakkingsglas, meldt het voornemen tot het uitvoeren van een grote ovenrevisie als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), schriftelijk aan het bestuur van de emissieautoriteit. Bij de melding wordt tevens aangegeven op welke datum de oven naar verwachting na de ovenrevisie wordt opgestart.
-
-2. De melding geschiedt uiterlijk vier weken voor de datum van de voorgenomen ovenrevisie.
+Vervallen
 
 ##### Artikel 16
 
-1. Met betrekking tot een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), in verbinding met [artikel 16.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5) zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2013-01-01&g=2013-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
-
-2. Met betrekking tot een vergunning krachtens [artikel 16.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.49) zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2013-01-01&g=2013-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2013-01-01&g=2013-01-01), met uitzondering van artikel 5, tweede lid, van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 17
 
-1. De concentratie van stikstofoxiden in de afgassen van:
-
-- a. NOx-verbrandingsinstallaties met een vermogen van 100 megawatt thermisch of meer,
-
-- b. NOx-procesinstallaties, waarbij een emissie van 150 ton stikstofoxiden of meer per kalenderjaar in de lucht wordt veroorzaakt, of
-
-- c. afvalverbrandingsinstallaties of meeverbrandingsinstallaties als bedoeld in het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762),
-
-wordt bepaald door continue meting.
-
-2. Indien sprake is van een afvalverbrandingsinstallatie of een meeverbrandingsinstallatie als bedoeld in het eerste lid, onder c, voldoet de continue meting, bedoeld in dat lid, aan de daaraan in het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) gestelde eisen, met dien verstande dat
-
-in afwijking van het bepaalde onder 2.9 in de bij dat besluit behorende [bijlage](onbekend), voorzover dat onderdeel betrekking heeft op stikstofoxiden, het vierde lid geldt.
-
-3. In andere gevallen dan bedoeld in het tweede lid voldoet de continue meting, bedoeld in het eerste lid, aan de daaraan bij of krachtens [paragraaf 5.1 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&paragraaf=5.1) gestelde eisen, met dien verstande dat voor stikstofoxiden het vierde lid geldt.
-
-4. De waarde van de 95%-betrouwbaarheidsintervallen van individuele waarnemingen op grond waarvan het halfuursgemiddelde of het uurgemiddelde van de concentratie van stikstofoxiden wordt bepaald, is kleiner dan 20% van de jaargemiddelde concentratie.
+Vervallen
 
 ##### Artikel 18
 
-Het aantal NOx-emissierechten dat degene die een inrichting drijft, in een kalenderjaar opbouwt als bedoeld in [artikel 16.50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.50), komt overeen met:
-
-- a. voor NOx-verbrandingsinstallaties: het in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2013-01-01&g=2013-01-01) voor het betrokken kalenderjaar aangegeven getal, vermenigvuldigd met de in dat kalenderjaar verbruikte gigajoule brandstof;
-
-- b. voor NOx-procesinstallaties, met uitzondering van de NOx-procesinstallaties, bedoeld onder c: het in de bij dit besluit behorende [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=III&z=2013-01-01&g=2013-01-01) voor het betrokken product voor het betrokken kalenderjaar per ton product aangegeven getal, vermenigvuldigd met het aantal in dat kalenderjaar vervaardigde tonnen van dat product;
-
-- c. voor NOx-procesinstallaties als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01): het in de bij dit besluit behorende [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=IV&z=2013-01-01&g=2013-01-01) voor het betrokken product voor het betrokken kalenderjaar per ton product aangegeven getal, vermenigvuldigd met het aantal in dat kalenderjaar vervaardigde tonnen van dat product.
+Vervallen
 
 ##### Artikel 19
 
-1. Het verkoopplafond voor een inrichting wordt bepaald door bij elkaar op te tellen:
-
-- a. het gezamenlijke vermogen, uitgedrukt in megawatt thermisch, van de zich in de inrichting bevindende NOx-verbrandingsinstallaties, vermenigvuldigd met 8.000, vermenigvuldigd met het voor het kalenderjaar 2005 in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2013-01-01&g=2013-01-01) opgenomen getal, vermenigvuldigd met 3.6 x 10–3;
-
-- b. de gezamenlijke productiecapaciteit, uitgedrukt in tonnen vervaardigd product per kalenderjaar, van de zich in de inrichting bevindende NOx-procesinstallaties, vermenigvuldigd met het voor het kalenderjaar 2005 voor dat product in de bij dit besluit behorende [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=III&z=2013-01-01&g=2013-01-01) opgenomen getal, gedeeld door 1.000.
-
-2. In afwijking van het eerste lid, onder a, wordt het verkoopplafond voor een inrichting die niet meer dan 3.000 uren per kalenderjaar in bedrijf is, bepaald door het gezamenlijke vermogen, uitgedrukt in megawatt thermisch, van de zich in de inrichting bevindende NOx-verbrandingsinstallaties, vermenigvuldigd met 3.000, vermenigvuldigd met het voor het kalenderjaar 2005 in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2013-01-01&g=2013-01-01) opgenomen getal, vermenigvuldigd met 3.6 x 10–3.
+Vervallen
 
 ##### Artikel 20
 
-Het percentage, bedoeld in [artikel 16.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.53), van het voor een inrichting geldende verkoopplafond is vijf.
+Vervallen
 
 ### Hoofdstuk 3. Emissies van stikstofoxiden en NOx-emissierechten
 
@@ -486,47 +404,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 13a
 
-1. De aanwijzing, bedoeld in [artikel 13, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), heeft van 1 januari 2011 tot en met 31 december 2013 geen betrekking op NOx-verbrandingsinstallaties die zich bevinden in een inrichting:
-
-- a. waarin het gezamenlijke vermogen, uitgedrukt in megawatt thermisch, van die installaties minder dan 50 bedraagt,
-
-- b. waarin die installaties gemiddeld per gigajoule brandstof een emissie van NOx van 37 gram of minder veroorzaken,
-
-- c. waarin zich geen NOx-procesinstallaties bevinden, en
-
-- d. ten aanzien waarvan het bestuur van de emissieautoriteit een verzoek als bedoeld in [artikel 14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=14a&z=2013-01-01&g=2013-01-01), heeft toegewezen.
-
-2. De toepassing van het eerste lid vervalt zodra de betrokken inrichting niet langer voldoet aan een van de voorwaarden, bedoeld in het eerste lid, onder a, b of c.
+Vervallen
 
 ##### Artikel 13b
 
-De aanwijzing, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), heeft tot en met 31 december 2010 geen betrekking op NOx-installaties die zich bevinden in een inrichting:
-
-- a. die zich bevindt binnen de Nederlandse exclusieve economische zone,
-
-- b. waarop vanaf 1 januari 2011 [artikel 16.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.49) niet langer van toepassing is, en
-
-- c. ten aanzien waarvan het bestuur van de emissieautoriteit een verzoek als bedoeld in [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=14b&z=2013-01-01&g=2013-01-01), heeft toegewezen.
+Vervallen
 
 ##### Artikel 14a
 
-1. Degene die een inrichting drijft, waarin zich NOx-verbrandingsinstallaties bevinden, kan het bestuur van de emissieautoriteit verzoeken om van 1 januari 2011 tot en met 31 december 2013 buiten de aanwijzing, bedoeld in [artikel 13, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), te blijven.
-
-2. Het bestuur van de emissieautoriteit wijst het verzoek toe indien aan de voorwaarden, bedoeld in [artikel 13a, eerste lid, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13a&z=2013-01-01&g=2013-01-01), is voldaan.
-
-3. In het verzoek vermeldt de verzoeker de naam en het adres van de inrichting waarvoor het verzoek wordt ingediend.
-
-4. De verzoeker verstrekt gegevens waaruit ten genoegen van het bestuur van de emissieautoriteit blijkt dat de inrichting voldoet aan de voorwaarden, bedoeld in [artikel 13a, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13a&z=2013-01-01&g=2013-01-01).
+Vervallen
 
 ##### Artikel 14b
 
-1. Degene die een inrichting als bedoeld in [artikel 13b, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13b&z=2013-01-01&g=2013-01-01), drijft, kan het bestuur van de emissieautoriteit verzoeken om tot en met 31 december 2010 buiten de aanwijzing, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13&z=2013-01-01&g=2013-01-01), te blijven.
-
-2. Het bestuur van de emissieautoriteit wijst het verzoek toe indien aan de voorwaarde, bedoeld in [artikel 13b, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13b&z=2013-01-01&g=2013-01-01), is voldaan.
-
-3. In het verzoek vermeldt de verzoeker de naam en het adres van de inrichting waarvoor het verzoek wordt ingediend.
-
-4. De verzoeker verstrekt gegevens waaruit ten genoegen van het bestuur van de emissieautoriteit blijkt dat de inrichting voldoet aan de voorwaarde, bedoeld in [artikel 13b, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=13b&z=2013-01-01&g=2013-01-01).
+Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -625,7 +515,7 @@ Als broeikasgas, als bedoeld in [artikel 16.39a, eerste lid, onder b, van de wet
 
 ##### Artikel 12d
 
-[Artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing op personen die met de uitvoering van het monitoringsplan en de controle op de naleving daarvan zijn belast.
+[Artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing op personen die met de uitvoering van het monitoringsplan en de controle op de naleving daarvan zijn belast.
 
 ##### Artikel 12e
 
@@ -637,13 +527,13 @@ Vervallen
 
 ##### Artikel 12g
 
-Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing.
+Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ## Bijlage I. behorende bij het Besluit handel in emissierechten
 
-Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2013-01-01&g=2013-01-01):
+Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01):
 
 | **Activiteiten** | **Broeikasgassen** |
 | --- | --- |
@@ -774,58 +664,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage II. behorende bij het Besluit handel in emissierechten
 
-Het aantal NOx-emissierechten, bedoeld in [artikel 18, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=18&z=2013-01-01&g=2013-01-01), van het Besluit handel in emissierechten, dat degene die een inrichting drijft, in het geval van een NOx-verbrandingsinstallatie in een kalenderjaar opbouwt per gigajoule verbruikte brandstof
-
-| Kalenderjaar | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NOx-verbrandingsinstallaties (uitgedrukt in grammen NOx per gigajoule) | 68 | 63 | 58 | 52 | 46 | 40 | 39 | 38 | 37 |
+Vervallen
 
 ## Bijlage III. behorende bij het Besluit handel in emissierechten
 
-Het aantal NOx-emissierechten, bedoeld in [artikel 18, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=18&z=2013-01-01&g=2013-01-01), van het Besluit handel in emissierechten, dat degene die een inrichting drijft, in het geval van een NOx-procesinstallatie in een kalenderjaar opbouwt per ton vervaardigd product
-
-| Kalenderjaar | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Product** |   |   |   |   |   |   |   |   |   |
-| IJzer en staal (kg NOx / ton ruw staal) | 0,69 | 0,66 | 0,62 | 0,58 | 0,53 | 0,49 | 0,48 | 0,48 | 0,47 |
-| Elektrostaal (kg NOx / ton vloeibaar staal) | 0,13 | 0,12 | 0,12 | 0,11 | 0,10 | 0,09 | 0,09 | 0,09 | 0,08 |
-| Aluminium (kg NOx / ton aluminium) | 2,18 | 2,07 | 1,95 | 1,81 | 1,67 | 1,53 | 1,51 | 1,49 | 1,47 |
-| Zink (kg NOx / ton zink) | 0,08 | 0,07 | 0,07 | 0,06 | 0,06 | 0,05 | 0,05 | 0,05 | 0,05 |
-| Anode (kg NOx / ton anode) | 0,52 | 0,50 | 0,47 | 0,44 | 0,40 | 0,37 | 0,37 | 0,36 | 0,36 |
-| Cement (kg NOx / ton klinker) | 1,69 | 1,61 | 1,52 | 1,41 | 1,30 | 1,19 | 1,18 | 1,16 | 1,15 |
-| Calciumaluminaatcementklinker (kg NOx / ton calciumaluminaatcementklinker) | – | 3,25 | 3,07 | 2,85 | 2,63 | 2,40 | 2,37 | 2,34 | 2,31 |
-| Tabular alumina converter discharge (kg NOx / ton tabular alumina converter discharge) | – | 0,66 | 0,63 | 0,58 | 0,53 | 0,49 | 0,48 | 0,48 | 0,47 |
-| Salpeterzuur (kg NOx / ton salpeterzuur 100%) | 1,00 | 0,95 | 0,90 | 0,83 | 0,77 | 0,70 | 0,69 | 0,68 | 0,67 |
-| Caprolactam (kg NOx / ton caprolactam) | 0,63 | 0,60 | 0,57 | 0,52 | 0,48 | 0,44 | 0,43 | 0,43 | 0,42 |
-| Nitriet (kg NOx / ton nitriet) | 10,20 | 9,60 | 9,10 | 8,40 | 7,80 | 7,10 | 7,01 | 6,92 | 6,83 |
-| Magnesiumoxide (kg NOx / ton magnesiumoxide) | 5,16 | 4,89 | 4,62 | 4,29 | 3,95 | 3,62 | 3,57 | 3,53 | 3,48 |
-| Carbon black (kg NOx / ton carbon black) | 7,32 | 6,94 | 6,56 | 6,08 | 5,61 | 5,13 | 5,07 | 5,00 | 4,94 |
-| Siliciumcarbide (kg NOx / ton siliciumcarbide) | 1,37 | 1,30 | 1,23 | 1,14 | 1,05 | 0,96 | 0,95 | 0,94 | 0,92 |
-| Actieve kool (kg NOx / ton actieve kool) | 4,90 | 4,65 | 4,40 | 6,96 | 6,41 | 5,87 | 5,79 | 5,72 | 5,65 |
-| Steenwol (kg NOx / ton steenwol) | 0,69 | 0,65 | 0,61 | 0,57 | 0,53 | 0,48 | 0,47 | 0,47 | 0,46 |
-| **Fosfaatproductie** |   |   |   |   |   |   |   |   |   |
-| Fosfor (kg NOx / ton fosfor) | 2,46 | 2,34 | 2,21 | 2,05 | 1,89 | 1,73 | 1,71 | 1,69 | 1,67 |
-| Fosforzuur (kg NOx / ton zuur) | 0,45 | 0,42 | 0,40 | 0,37 | 0,34 | 0,31 | 0,31 | 0,30 | 0,30 |
-| Natriumtripolyphosphaat (kg NOx / ton natriumtripolyphosphaat) | 0,58 | 0,55 | 0,52 | 0,48 | 0,44 | 0,41 | 0.40 | 0,40 | 0,39 |
-| **Emailleerfritten en glasfritten, vervaardigd in:** |   |   |   |   |   |   |   |   |   |
-| Continuovens (kg NOx / ton fritten) | 1,66 | 1,57 | 1,48 | 1,38 | 1,27 | 1,16 | 1,15 | 1,13 | 1,12 |
-| Trommelovens (kg NOx / ton fritten) | 7,49 | 7,10 | 6,71 | 6,23 | 5,74 | 5,25 | 5,18 | 5,12 | 5,05 |
-|   |   |   |   |   |   |   |   |   |   |
-| **Glasproductie** |   |   |   |   |   |   |   |   |   |
-| Vlakglas (kg NOx / ton glas) | 4,77 | 4,53 | 4,28 | 3,97 | 3,66 | 3,35 | 3,31 | 3,27 | 3,22 |
-| Verpakkingsglas (kg NOx / ton glas) | 2,31 | 2,19 | 2,07 | 1,92 | 1,77 | 1,62 | 1,60 | 1,58 | 1,56 |
-| Speciaal glas (kg NOx / ton glas) | 3,62 | 3,43 | 3,24 | 3,01 | 2,77 | 2,54 | 2,51 | 2,48 | 2,44 |
+Vervallen
 
 ## Bijlage IV. behorende bij het Besluit handel in emissierechten
 
-Het aantal NOx-emissierechten, bedoeld in [artikel 18, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=3&artikel=18&z=2013-01-01&g=2013-01-01), van het Besluit handel in emissierechten, dat degene die een inrichting drijft, in het geval van een NOx-procesinstallatie in een kalenderjaar opbouwt per ton vervaardigd product
-
-| Kalenderjaar | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Product** |   |   |   |   |   |   |   |   |   |
-| **Glasproductie** |   |   |   |   |   |   |   |   |   |
-| Vlakglas (kg NOx / ton glas) | 3,35 | 3,35 | 3,35 | 3,35 | 3,35 | 3,35 | 3,22 | 3,22 | 3,22 |
-| Verpakkingsglas (kg NOx / ton glas) | 1,62 | 1,62 | 1,62 | 1,62 | 1,62 | 1,62 | 1,56 | 1,56 | 1,56 |
-| Speciaal glas (kg NOx / ton glas) | 2,54 | 2,54 | 2,54 | 2,54 | 2,54 | 2,54 | 2,44 | 2,44 | 2,44 |
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
