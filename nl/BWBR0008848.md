@@ -4,7 +4,7 @@ identifier: "BWBR0008848"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "1997-07-24"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008848"
 soort: "ministeriele-regeling"
@@ -44,31 +44,31 @@ Besluit:
 
 a. fles: een glazen fles als verpakking voor een koolzuurhoudende drinkwaar; b. beschermde fles: een fles, voorzien van een blijvende, op de buitenzijde ervan aangebrachte bescherming van kunststof; c. ommantelde fles: een fles, voorzien van een losse mantel van een ander materiaal dan glas, welke een functionele eenheid vormt met deze fles en deze ten minste van de bodem tot en met het begin van de schouder strak omsluit, zodanig dat bij omvallen het onbeschermde glazen halsgedeelte het grondvlak niet raakt.
 
-2. Op verzoek van de belanghebbende worden bij ministeriële regeling, normen aangewezen die gelijkwaardig zijn aan het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=1997-07-24&g=1997-07-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=3&z=1997-07-24&g=1997-07-24), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=4&z=1997-07-24&g=1997-07-24), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=5&z=1997-07-24&g=1997-07-24) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=6&z=1997-07-24&g=1997-07-24) bepaalde.
+2. Op verzoek van de belanghebbende worden bij ministeriële regeling, normen aangewezen die gelijkwaardig zijn aan het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=2014-01-01&g=2014-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=3&z=2014-01-01&g=2014-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=4&z=2014-01-01&g=2014-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=5&z=2014-01-01&g=2014-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=6&z=2014-01-01&g=2014-01-01) bepaalde.
 
 ##### Artikel 2
 
 1. Een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C moet gemeten bij 200C een wanddikte hebben van ten minste 2,0 mm.
 
-2. Een beschermde fles moet zodanig zijn, dat bij een val zoals omschreven in de bij deze regeling gevoegde [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=I&z=1997-07-24&g=1997-07-24), het totale gewicht van de delen van de beschermde fles, verzameld binnen de in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=I&z=1997-07-24&g=1997-07-24) genoemde metalen band, ten minste 95% bedraagt van het oorspronkelijke gewicht van de beschermde fles.
+2. Een beschermde fles moet zodanig zijn, dat bij een val zoals omschreven in de bij deze regeling gevoegde [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=I&z=2014-01-01&g=2014-01-01), het totale gewicht van de delen van de beschermde fles, verzameld binnen de in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=I&z=2014-01-01&g=2014-01-01) genoemde metalen band, ten minste 95% bedraagt van het oorspronkelijke gewicht van de beschermde fles.
 
 3. Een ommantelde fles met een strijkvolle inhoud van 700 ml of meer bij 200 C moet, gemeten bij 2200 C, een wanddikte hebben van ten minste 1,0 mm.
 
-4. Een ommantelde fles moet zodanig zijn dat bij stootproeven zoals omschreven in de bij dit besluit gevoegde [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=II&z=1997-07-24&g=1997-07-24), de stootimpuls van de hamer nodig voor breuk van de fles ten minste 2,00 kgm/s bedraagt.
+4. Een ommantelde fles moet zodanig zijn dat bij stootproeven zoals omschreven in de bij dit besluit gevoegde [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&bijlage=II&z=2014-01-01&g=2014-01-01), de stootimpuls van de hamer nodig voor breuk van de fles ten minste 2,00 kgm/s bedraagt.
 
 ##### Artikel 3
 
-In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C, alsmede in een beschermde fles of een ommantelde fles, elk der typen flessen gevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag de kopruimte, gemeten bij 200 C ten hoogste 4,9% bedragen van het volume van de in de fles, beschermde fles of ommantelde fles aanwezige waar.
+In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C, alsmede in een beschermde fles of een ommantelde fles, elk der typen flessen gevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag de kopruimte, gemeten bij 200 C ten hoogste 4,9% bedragen van het volume van de in de fles, beschermde fles of ommantelde fles aanwezige waar.
 
 ##### Artikel 4
 
-1. In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag gemeten bij 200 C, een koolzuurdruk aanwezig zijn, die niet meer bedraagt dan 196 kPa (2,00 at)(overdruk).
+1. In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag gemeten bij 200 C, een koolzuurdruk aanwezig zijn, die niet meer bedraagt dan 196 kPa (2,00 at)(overdruk).
 
-2. In een beschermde fles of een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag, gemeten bij 200 C, een koolzuurdruk aanwezig zijn, die niet meer bedraagt dan 392 kPa (4,00 at)(overdruk).
+2. In een beschermde fles of een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag, gemeten bij 200 C, een koolzuurdruk aanwezig zijn, die niet meer bedraagt dan 392 kPa (4,00 at)(overdruk).
 
 ##### Artikel 5
 
-1. In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag, gemeten bij 200 C, de daarin aanwezige koolzuurdruk hoger zijn dan in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=4&z=1997-07-24&g=1997-07-24) aangegeven, doch niet meer bedragen dan:
+1. In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag, gemeten bij 200 C, de daarin aanwezige koolzuurdruk hoger zijn dan in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=4&z=2014-01-01&g=2014-01-01) aangegeven, doch niet meer bedragen dan:
 
 - 221 kPa (2,25 at) overdruk indien de fles gedurende 1 minuut een inwendige druk kan weerstaan van ten minste 736 kPa (7,50 at)(overdruk);
 
@@ -84,15 +84,15 @@ In een fles met een strijkvolle inhoud van 700 ml of meer bij 200 C, alsmede in 
 
 - 392 kPa (4,00 at) overdruk indien de fles gedurende 1 minuut een inwendige druk kan doorstaan van ten minste 1177 kPa (12,00 at)(overdruk);
 
-2. Een beschermde fles of een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), moet, gemeten bij 200 C, gedurende 1 minuut een inwendige druk kunnen doorstaan van 1177 kPa (12,00 at) overdruk.
+2. Een beschermde fles of een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), moet, gemeten bij 200 C, gedurende 1 minuut een inwendige druk kunnen doorstaan van 1177 kPa (12,00 at) overdruk.
 
 ##### Artikel 6
 
-1. In een fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), waarin een koolzuurdruk aanwezig is die gemeten bij 200 C meer bedraagt dan 196 kPa (2,00 at)(overdruk) mag de strijkvolle inhoud niet groter zijn dan 1100 ml.
+1. In een fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), waarin een koolzuurdruk aanwezig is die gemeten bij 200 C meer bedraagt dan 196 kPa (2,00 at)(overdruk) mag de strijkvolle inhoud niet groter zijn dan 1100 ml.
 
-2. In een beschermde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag de strijkvolle inhoud niet groter zijn dan 2100 ml.
+2. In een beschermde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag de strijkvolle inhoud niet groter zijn dan 2100 ml.
 
-3. In een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=1997-07-24&g=1997-07-24), mag de strijkvolle inhoud niet groter zijn dan 1100 ml.
+3. In een ommantelde fles die is afgevuld met een waar als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=1&z=2014-01-01&g=2014-01-01), mag de strijkvolle inhoud niet groter zijn dan 1100 ml.
 
 ##### Artikel 7
 
@@ -106,7 +106,7 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 
 Deze regeling wordt aangehaald als: Warenwetregeling sterkte-eisen frisdrankflessen.
 
-## Bijlage I. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=1997-07-24&g=1997-07-24) van de Warenwetregeling Sterkte-eisen frisdrankflessen
+## Bijlage I. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=2014-01-01&g=2014-01-01) van de Warenwetregeling sterkte-eisen frisdrankflessen
 
 ##### 1. Principe van de methode
 
@@ -118,7 +118,7 @@ Een beschermde fles, gevuld met koolzuurhoudende vloeistof en goed gesloten, laa
 
 2.2. Een plaat massief beton met een vlak en horizontaal oppervlak (het trefvlak), waarvan de diagonaal tenminste gelijk moet zijn aan de lengte van de fles, en waarvan de dikte tenminste 7 cm moet bedragen. De plaat moet op een horizontaal vlak worden geplaatst in het midden van een cirkelvormige band als beschreven onder 2.3.
 
-Het beton moet voldoen aan de specificaties van het normalisatieblad NEN 7014 ’Betontegels’ (augustus 1974), uitgegeven door het Nederlandse Normalisatie-instituut.
+Het beton moet voldoen aan de specificaties van het normalisatieblad NEN-EN 1339:2003, uitgegeven door het Nederlandse Normalisatie-instituut.
 
 2.3. Een cirkelvormige metalen band met een doorsnede van 200 cm en een zodanige hoogte, dat de bovenkant van de band zich op dezelfde hoogte bevindt als het trefvlak.
 
@@ -154,7 +154,7 @@ Het beton moet voldoen aan de specificaties van het normalisatieblad NEN 7014 �
 
 Herhaal de proef met een andere fles van hetzelfde monster bij een temperatuur, gelegen tussen 00 C en 50 C.
 
-## Bijlage II. bij [artikel 2, vierde lid, van de Warenwetregeling Sterkte-eisen frisdrankflessen](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=1997-07-24&g=1997-07-24).
+## Bijlage II. bij [artikel 2, vierde lid, van de Warenwetregeling Sterkte-eisen frisdrankflessen](https://wetten.overheid.nl/jci1.3:c:BWBR0008848&artikel=2&z=2014-01-01&g=2014-01-01).
 
 ##### 1. Principe van de methode
 
