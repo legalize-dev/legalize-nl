@@ -4,7 +4,7 @@ identifier: "BWBR0032724"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032724"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Financiën van 14 december 2012, 
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet op het accountantsberoep in werking treedt.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
@@ -66,27 +68,13 @@ In het examen Nederlands recht wordt getoetst of de betrokkene voldoende kennis 
 
 ##### Artikel 4
 
-1. De commissie stelt de eindtermen vast die betrekking hebben op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde vakgebieden.
+1. De commissie stelt de eindtermen vast die betrekking hebben op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3&z=2014-01-01&g=2014-01-01) bedoelde vakgebieden.
 
 2. De commissie maakt de vastgestelde eindtermen bekend door plaatsing in de Staatscourant.
 
 ##### Artikel 5
 
 1. De beroepsorganisatie verzorgt het examen Nederlands recht.
-
-2. Bij of krachtens verordening als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) worden in elk geval regels gesteld met betrekking tot:
-
-- a. de inrichting van het examen;
-
-- b. de wijze waarop het examen wordt afgenomen;
-
-- c. de personen die bevoegd zijn het examen af te nemen;
-
-- d. de toelating tot het examen;
-
-- e. de voorwaarden voor het verkrijgen van vrijstelling van bepaalde onderdelen van het examen;
-
-- f. de hoogte van de examengelden en te wiens laste deze komen.
 
 ##### Artikel 6
 
