@@ -4,7 +4,7 @@ identifier: "BWBR0007038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "1996-06-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007038"
 soort: "ministeriele-regeling"
@@ -69,8 +69,4 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 ##### Artikel 6
 
-Deze regeling wordt aangehaald als:
-
-Regeling aanwijzing ambtenaren rijksbelastingdienst invordering kentekenbewijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling aanwijzing ambtenaren rijksbelastingdienst overgifte kentekenbewijs.
