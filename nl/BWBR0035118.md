@@ -63,9 +63,3 @@ Alvorens wordt beslist op een verzoek op grond van de [Wet openbaarheid van best
 Deze regeling treedt in werking met ingang dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2014.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6
-
-Deze regeling wordt aangehaald als: Regeling verlening mandaat, volmacht en machtiging Inspecteur-generaal van het Onderwijs betreffende de behandeling van Wob-verzoeken over informatie tweedelijns toezicht kinderopvang.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
