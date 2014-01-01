@@ -181,17 +181,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 Deze wet wordt aangehaald als: Wet subsidiëring landelijke onderwijsondersteunende activiteiten, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a. Taken Stichting Nuffic
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 3b. Taak informeren over Europese ontwikkelingen op het gebied van onderwijs, onderzoek en innovatie
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 5a. Kaderbrief SLOA op het terrein van internationalisering
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
