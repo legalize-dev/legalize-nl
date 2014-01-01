@@ -4,7 +4,7 @@ identifier: "BWBR0033595"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033595"
 soort: "wet"
@@ -64,7 +64,7 @@ Wijzigt deze Wet.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid, treedt [artikel I, onderdelen Aa en AL](https://wetten.overheid.nl/jci1.3:c:BWBR0033595&artikel=I&z=2013-07-01&g=2013-07-01) voor wat betreft artikel 3.8h, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2013.
+2. In afwijking van het eerste lid, treedt [artikel I, onderdelen Aa en AL](https://wetten.overheid.nl/jci1.3:c:BWBR0033595&artikel=I&z=2014-01-01&g=2014-01-01) voor wat betreft artikel 3.8h, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
 ##### Artikel VI
 
