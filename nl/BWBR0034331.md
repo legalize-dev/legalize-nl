@@ -660,33 +660,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 Deze wet wordt aangehaald als: Wet op de Kamer van Koophandel.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 35a
-
-De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=34&z=2018-07-01&g=2018-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=35&z=2018-07-01&g=2018-07-01) zijn van overeenkomstige toepassing op de uitvoering van bij of krachtens andere wetten dan deze wet geregelde taken, voor zover bij of krachtens die wetten de financiering van de aan de uitvoering van die taken verbonden kosten niet geregeld is.
-
-### Hoofdstuk 9. **Informatievoorziening**
-
-### Hoofdstuk 10. **Financieel toezicht**
-
-#### § 1. **Begroting**
-
-#### § 2. **Beheer en verantwoording**
-
-### Hoofdstuk 11. **Informatievoorziening, sturing en toezicht**
-
-### Hoofdstuk 12. **Wijzigingen in andere wetten**
-
-### Hoofdstuk 13. **Fusiebepalingen**
-
-#### § 1. **Beëindiging bestaande rechtspersonen**
-
-#### § 2. **Overgang personeel**
-
-#### § 3. **Overgang rechten en verplichtingen**
-
-### Hoofdstuk 14. **Overgangsrecht**
-
-### Hoofdstuk 15. **Slotbepalingen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
