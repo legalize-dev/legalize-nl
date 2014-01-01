@@ -4,7 +4,7 @@ identifier: "BWBR0032049"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032049"
 soort: "AMvB"
@@ -74,11 +74,11 @@ Wijzigt het Besluit landbouw milieubeheer.
 
 ##### Artikel X
 
-1. Een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die van kracht en onherroepelijk was onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2013-01-01&g=2013-01-01), wordt, voor zover die omgevingsvergunning een activiteit betreft die in artikel II, onderdeel A, is aangewezen, gelijkgesteld met een omgevingsvergunning voor die activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet.
+1. Een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die van kracht en onherroepelijk was onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2014-01-01&g=2014-01-01), wordt, voor zover die omgevingsvergunning een activiteit betreft die in artikel II, onderdeel A, is aangewezen, gelijkgesteld met een omgevingsvergunning voor die activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet.
 
-2. Onverminderd [artikel 6.4, derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=6.4) blijft op een aanvraag om een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor zover die aanvraag geheel of gedeeltelijk betrekking heeft op een activiteit die in [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2013-01-01&g=2013-01-01), is aangewezen, het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel A, indien:
+2. Onverminderd [artikel 6.4, derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=6.4) blijft op een aanvraag om een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor zover die aanvraag geheel of gedeeltelijk betrekking heeft op een activiteit die in [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2014-01-01&g=2014-01-01), is aangewezen, het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel A, indien:
 
-- a. die aanvraag is ingediend voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2013-01-01&g=2013-01-01), en
+- a. die aanvraag is ingediend voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2014-01-01&g=2014-01-01), en
 
 - b. op die aanvraag vóór het tijdstip, bedoeld in onderdeel b, nog niet onherroepelijk is beslist.
 
@@ -110,7 +110,7 @@ Wijzigt het Mijnbouwbesluit.
 
 1. Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor verschillende categorieën van inrichtingen verschillend kan worden vastgesteld.
 
-2. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=IX&z=2013-01-01&g=2013-01-01) werkt terug tot en met 1 juni 2011.
+2. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=IX&z=2014-01-01&g=2014-01-01) werkt terug tot en met 1 juni 2011.
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 23 november 2011, nr. IenM/BSK-2011/154141, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
 
