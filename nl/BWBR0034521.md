@@ -243,29 +243,3 @@ In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overhei
 Deze regeling wordt aangehaald als: Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Kosten
-
-De kosten die samengaan met de aanvraag, zoals het in behandeling nemen van de aanvraag, de afgifte van het besluit en het organiseren van een proeve van bekwaamheid en van een aanpassingsstage kunnen, met inachtneming van [artikel 33, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), ten laste van de aanvrager komen.
-
-### Hoofdstuk 5a. Erkenning EU-beroepskwalificaties bootman
-
-##### Artikel 13a
-
-1. Alle taken en bevoegdheden met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties als bedoeld in de wet en de daarop berustende bepalingen, worden voor de uitoefening van het beroep van bootman, gedelegeerd aan:
-
-- a. burgemeester en wethouders van gemeenten waarin bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer; of
-
-- b. het bestuur van een openbaar lichaam, een bedrijfsvoeringsorganisatie of een gemeenschappelijk orgaan als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) door wie bij of krachtens die wet, in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer.
-
-2. Ten behoeve van de uitvoering van [artikel 31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), informeert degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu onmiddellijk nadat een migrerende beroepsbeoefenaar door een rechterlijke instantie of een andere bij of krachtens de Nederlandse wetgeving bevoegde instantie in Nederland schuldig is bevonden aan het gebruik van valse beroepskwalificaties in verband met een procedure als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3) en [3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a) of de in het eerste lid bedoelde bepalingen krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) of de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
-
-3. Onverminderd het tweede lid, verstrekt degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van de EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu op diens verzoek alle informatie die hij nodig heeft ten behoeve van de uitvoering van de wet.
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
