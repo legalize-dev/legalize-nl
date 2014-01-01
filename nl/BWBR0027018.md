@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-06-23"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
 
@@ -63,11 +63,11 @@ Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, v
 
 ##### Artikel 5. Schenking ter zake van een eigen woning
 
-Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), wordt slechts verleend indien:
+Een vrijstelling als bedoeld in de [artikelen 33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), en [33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) of de aflossing van een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), wordt slechts verleend indien:
 
 - a. de schenking is gedaan:
 
-- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht dan wel een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel daarvan, heeft afgelost, of
+- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht, een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel van die eigenwoningschuld, heeft afgelost of een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), of een deel van die schuld, heeft afgelost, of
 
 - 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde, en
 
