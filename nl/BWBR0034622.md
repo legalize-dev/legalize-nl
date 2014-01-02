@@ -131,15 +131,3 @@ De [Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR00225
 1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening op de geldelijke bijdragen praktijkopleidingen.
-
-##### Artikel 8a
-
-1. De bedragen, genoemd in de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
-
-2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het CPB laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
-
-3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig.
-
-4. Het bestuur maakt ieder jaar zo spoedig mogelijk na 1 april de bedragen bekend die voortvloeien uit de toepassing van het eerste tot en met het derde lid en vermeldt daarbij tevens de publicatie, bedoeld in het tweede lid, die aan de toepassing van deze leden ten grondslag is gelegd.
-
-#### Overgangsbepalingen
