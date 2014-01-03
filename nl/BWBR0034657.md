@@ -4,7 +4,7 @@ identifier: "BWBR0034657"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-02"
+last_updated: "2014-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034657"
 soort: "pbo"
@@ -84,7 +84,7 @@ In deze nadere voorschriften wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034657&hoofdstuk=2&artikel=2&z=2014-01-03&g=2014-01-02), door de ledengroep moeten geschieden, meldt het ledengroepbestuur dit ten minste zes weken voor de datum van de desbetreffende ledengroepvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034657&hoofdstuk=2&artikel=2&z=2014-01-03&g=2014-01-03), door de ledengroep moeten geschieden, meldt het ledengroepbestuur dit ten minste zes weken voor de datum van de desbetreffende ledengroepvergadering aan de leden.
 
 ##### Artikel 5
 
