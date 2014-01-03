@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2013-06-22"
+last_updated: "2014-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -60,15 +60,25 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
 
-- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door AMISOM overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties, of uitsluitend bestemd is voor gebruik door landen en regionale organisaties die maatregelen treffen overeenkomstig het onder 6 gestelde van Resolutie 1851 (2008) en het onder 10 gestelde van Resolutie 1846 (2008) van de Veiligheidsraad van de Verenigde Naties;
+- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door personeel van de Verenigde Naties, met inbegrip van de bijstandsmissie van de Verenigde Naties in Somalië (UNSOM);
 
-- b. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de strategische partners van AMISOM, die uitsluitend optreden op grond van het African Union Strategic Concept van 5 januari 2012, alsmede in samenwerking en in samenspraak met AMISON;
+- b. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de missie van de Afrikaanse Unie in Somalië (AMISOM);
 
-- c. materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
+- c. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de strategische partners van AMISOM, die uitsluitend optreden op grond van het African Union Strategic Concept van 5 januari 2012, dan wel op grond van latere concepten, alsmede in samenwerking en in samenspraak met AMISON;
 
-- d. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden, of materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie, de Europese Gemeenschap of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door vorenbedoeld Sanctie comité goedkeuring is verleend, of beschermende kledij, waaronder kogelwerende vesten en militaire helmen die door het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië wordt verzonden;
+- d. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de opleidingsmissie Somalië van de Europese Unie (EUTM);
 
-- e. materieel, met uitzondering van goederen, genoemd in bijlage II van Besluit 2013/201/GBVB, dat uitsluitend bestemd is voor de ontwikkeling van de veiligheidstroepen van de Federale regering van Somalië, en om de veiligheid van de Somalische bevolking te garanderen, mits het Sanctiecomité hiervan vijf dagen voorafgaand aan de levering, verkoop of overdracht in kennis is gesteld overeenkomstig het onder 38 gestelde van Resolutie 2093 (2013).
+- e. materieel dat uitsluitend bestemd is ‘voor gebruikmaking door lidstaten of internationale organisaties wanneer deze op verzoek van de federale regering van Somalië en mits daarvan kennis is gegeven aan de secretaris-generaal, maatregelen nemen tegen piraterij en zeeroverij voor de kust van Somalië. Deze maatregelen dienen in overeenstemming met internationaal recht te zijn;
+
+- f. materieel, met uitzondering van goederen, genoemd in bijlage II van Besluit 2013/201/GBVB, dat uitsluitend bestemd is voor de ontwikkeling van de veiligheidstroepen van de federale regering van Somalië, en om de veiligheid van de Somalische bevolking te garanderen, mits het Sanctiecomité hiervan vijf dagen voorafgaand aan de levering, verkoop of overdracht in kennis is gesteld overeenkomstig het onder 14 en 15 van Resolutie 2111 (2013);
+
+- g. materieel als bedoeld in bijlage II van Besluit 2013/201/GBVB bestemd voor de federale regering van Somalië mits het Sanctiecomité voorafgaand toestemming heeft gegeven aan de levering, verkoop of overdracht;
+
+- h. beschermende kledingstukken, waaronder kogelwerende vesten en militaire helmen die door het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië wordt verzonden;
+
+- i. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden waarvan de leverende staat of de internationale organisatie vijf dagen van te voren het Sanctiecomité in kennis heeft gesteld;
+
+- j. materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector mits het Sanctiecomité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen.
 
 ##### Artikel 3
 
