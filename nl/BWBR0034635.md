@@ -4,7 +4,7 @@ identifier: "BWBR0034635"
 country: "nl"
 rank: "pbo"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034635"
 soort: "pbo"
@@ -74,9 +74,9 @@ Teneinde invulling te geven aan zijn verantwoordelijkheid als accountant om te h
 
 ##### Artikel 3
 
-1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-01) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
+1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-01) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de uitoefening van zijn beroep.
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de uitoefening van zijn beroep.
 
 #### Paragraaf 2.2. – Professionaliteit
 
@@ -162,7 +162,7 @@ De accountant die de beschikking krijgt over gegevens of inlichtingen waarvan hi
 
 ##### Artikel 17
 
-1. De accountant betrekt in zijn besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2014-01-04&g=2014-01-01), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
+1. De accountant betrekt in zijn besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2014-01-04&g=2014-01-04), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
 
 - a. de belangen van betrokken partijen en derden, waaronder het algemeen belang;
 
@@ -214,11 +214,11 @@ Indien de accountant constateert dat hij in strijd handelt of heeft gehandeld me
 
 ##### Artikel 24
 
-Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-01) nadere voorschriften vaststellen.
+Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) nadere voorschriften vaststellen.
 
 ##### Artikel 25
 
-Na de inwerkingtreding van deze verordening berusten op [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=5&artikel=24&z=2014-01-04&g=2014-01-01) van deze verordening:
+Na de inwerkingtreding van deze verordening berusten op [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=5&artikel=24&z=2014-01-04&g=2014-01-04) van deze verordening:
 
 - a. de Nadere voorschriften accountantskantoren ter zake van aan assurance verwante opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten;
 
