@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -188,7 +188,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. natuurlijk persoon:
 
-- 1°. BSN/sofinummer;
+- 1°. BSN;
 
 - 2°. voorletters;
 
@@ -360,7 +360,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2014-01-01&g=2014-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2014-01-06&g=2014-01-06).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
@@ -408,7 +408,7 @@ De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdel
 
 - b. natuurlijk persoon:
 
-- 1°. BSN/sofinummer;
+- 1°. BSN;
 
 - 2°. geboortedatum;
 
