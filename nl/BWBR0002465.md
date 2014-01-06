@@ -4,7 +4,7 @@ identifier: "BWBR0002465"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "2002-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002465"
 soort: "AMvB"
@@ -186,7 +186,7 @@ In onvoorziene omstandigheden kan Onze Minister van Defensie na overleg met de v
 
 ##### Artikel 22
 
-De burgemeester registreert de erkende gewetensbezwaarden, die in de basisadministratie persoonsgegevens van zijn gemeente zijn ingeschreven. Erkende gewetensbezwaarden die niet in een basisadministratie persoonsgegevens zijn ingeschreven, worden geregistreerd door de burgemeester van 's-Gravenhage. Omtrent de aard en de wijze van de te houden registratie geeft Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels.
+De burgemeester registreert de erkende gewetensbezwaarden, die als ingezetene met een adres in zijn gemeente in de basisregistratie personen zijn ingeschreven. Erkende gewetensbezwaarden die niet als ingezetene in de basisregistratie personen zijn ingeschreven, worden geregistreerd door de burgemeester van ’s-Gravenhage. Omtrent de aard en de wijze van de te houden registratie geeft Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels.
 
 ##### Artikel 23
 
@@ -236,7 +236,7 @@ De erkende gewetensbezwaarde die tot het vervullen van vervangende dienst heeft 
 
 ##### Artikel 30
 
-1. Het aanvragen van vrijstelling van de gewone vervangende dienst dan wel van vrijstelling van vervangende dienst om de reden bedoeld in [artikel 15, tweede lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=15) geschiedt, mondeling of schriftelijk, door of vanwege de erkende gewetensbezwaarde als regel bij de burgemeester van de gemeente waar hij, wie de aanvraag geldt, in de basisadministratie persoonsgegevens is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet in een basisadministratie persoonsgegevens is ingeschreven, bij de burgemeester van 's-Gravenhage.
+1. Het aanvragen van vrijstelling van de gewone vervangende dienst dan wel van vrijstelling van vervangende dienst om de reden bedoeld in [artikel 15, tweede lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=15) geschiedt, mondeling of schriftelijk, door of vanwege de erkende gewetensbezwaarde als regel bij de burgemeester van de gemeente waar hij, wie de aanvraag geldt, als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, bij de burgemeester van ’s-Gravenhage.
 
 2. Van elke aanvraag om vrijstelling geeft de burgemeester terstond een bewijs af aan degene, die de aanvraag heeft gedaan.
 
@@ -250,7 +250,7 @@ De erkende gewetensbezwaarde die tot het vervullen van vervangende dienst heeft 
 
 ##### Artikel 31
 
-1. De aanvraag om vrijstelling wegens kostwinnerschap of wegens persoonlijke onmisbaarheid geschiedt door of vanwege de erkende gewetensbezwaarde, binnen veertien dagen na ontvangst van de oproeping tot tewerkstelling. Ontstaat de reden tot het aanvragen van vrijstelling eerst na de hiervóór aangegeven tijd, dan geschiedt de aanvraag binnen veertien dagen nadat de reden tot aanvragen is ontstaan. Ten aanzien van hem, die tijdelijk is vrijgesteld en opnieuw vrijstelling verlangt, geschiedt de aanvraag daartoe binnen de door Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen tijd. De aanvraag kan geschieden bij de burgemeester van een andere gemeente dan die, waar de erkende gewetensbezwaarde, wie de aanvraag geldt, in de basisadministratie persoonsgegevens is ingeschreven. Acht de burgemeester het wenselijk dat een bij hem gedane aanvraag door de burgemeester van een andere gemeente wordt behandeld, dan verwijst hij de aanvrager naar die burgemeester.
+1. De aanvraag om vrijstelling wegens kostwinnerschap of wegens persoonlijke onmisbaarheid geschiedt door of vanwege de erkende gewetensbezwaarde, binnen veertien dagen na ontvangst van de oproeping tot tewerkstelling. Ontstaat de reden tot het aanvragen van vrijstelling eerst na de hiervóór aangegeven tijd, dan geschiedt de aanvraag binnen veertien dagen nadat de reden tot aanvragen is ontstaan. Ten aanzien van hem, die tijdelijk is vrijgesteld en opnieuw vrijstelling verlangt, geschiedt de aanvraag daartoe binnen de door Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen tijd. De aanvraag kan geschieden bij de burgemeester van een andere gemeente dan die, waar de erkende gewetensbezwaarde, wie de aanvraag geldt, als ingezetene met een adres in de basisregistratie personen is ingeschreven. Acht de burgemeester het wenselijk dat een bij hem gedane aanvraag door de burgemeester van een andere gemeente wordt behandeld, dan verwijst hij de aanvrager naar die burgemeester.
 
 2. De burgemeester, die de aanvraag om vrijstelling behandelt, maakt een staat van inlichtingen op, waarin hij alle omstandigheden vermeldt, die voor de beoordeling van het recht op vrijstelling van belang kunnen zijn. Hij ondervraagt degene, die de aanvraag doet, ten aanzien van hetgeen in de staat moet worden opgegeven, en stelt voorts een onderzoek in om zoveel mogelijk zekerheid omtrent de te verstrekken inlichtingen te verkrijgen.
 
@@ -282,11 +282,11 @@ Voor de toepassing van het bepaalde in [artikel 18, tweede lid, onder **a**, der
 
 ##### Artikel 35
 
-De burgemeester zendt de stukken betreffende vrijstelling aan Onze Minister van Sociale Zaken en Werkgelegenheid zo spoedig mogelijk nadat de aanvraag is gedaan. Zijn deze stukken niet opgemaakt door de burgemeester van de gemeente waar de erkende gewetensbezwaarde in de basisadministratie persoonsgegevens is ingeschreven, dan geschiedt de toezending door tussenkomst van die burgemeester.
+De burgemeester zendt de stukken betreffende vrijstelling aan Onze Minister van Sociale Zaken en Werkgelegenheid zo spoedig mogelijk nadat de aanvraag is gedaan. Zijn deze stukken niet opgemaakt door de burgemeester van de gemeente waar de erkende gewetensbezwaarde als ingezetene met een adres in de basisregistratie personen is ingeschreven, dan geschiedt de toezending door tussenkomst van die burgemeester.
 
 ##### Artikel 36
 
-De beslissing omtrent vrijstelling wordt medegedeeld aan de burgemeester van de gemeente, waar de erkende gewetensbezwaarde in de basisadministratie persoonsgegevens is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet in een basisadministratie persoonsgegevens is ingeschreven, aan de burgemeester van 's-Gravenhage.
+De beslissing omtrent vrijstelling wordt medegedeeld aan de burgemeester van de gemeente, waar de erkende gewetensbezwaarde als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, aan de burgemeester van ’s-Gravenhage.
 
 ##### Artikel 37
 
@@ -310,7 +310,7 @@ De autoriteit, die vermoedt, dat iemand ten onrechte van vervangende of gewone v
 
 - f. is overleden ten gevolge van verwonding of ziekte, opgedaan in en door de vervangende dienst.
 
-2. Door of vanwege de erkende gewetensbezwaarde, die op grond van een omstandigheid als bedoeld in het eerste lid, slechts voor de vervulling van buitengewone vervangende dienst in aanmerking wenst te komen, wordt daartoe binnen een maand nadat de reden tot de aanvraag is ontstaan, aanvraag gedaan bij de burgemeester der gemeente, waar de erkende gewetensbezwaarde in de basisadministratie persoonsgegevens is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet in een basisadministratie persoonsgegevens is ingeschreven, bij de burgemeester van 's-Gravenhage.
+2. Door of vanwege de erkende gewetensbezwaarde, die op grond van een omstandigheid als bedoeld in het eerste lid, slechts voor de vervulling van buitengewone vervangende dienst in aanmerking wenst te komen, wordt daartoe binnen een maand nadat de reden tot de aanvraag is ontstaan, aanvraag gedaan bij de burgemeester van de gemeente, waar de erkende gewetensbezwaarde als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, bij de burgemeester van ’s-Gravenhage.
 
 ##### Artikel 39
 
@@ -318,7 +318,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan met afwijking van de term
 
 ##### Artikel 40
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid beslist of de erkende gewetensbezwaarde vervangende dan wel uitsluitend buitengewone vervangende dienst moet vervullen. Hiervan doet hij mededeling aan de burgemeester van de gemeente, waar de erkende gewetensbezwaarde in de basisadministratie persoonsgegevens is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet in een basisadministratie persoonsgegevens is ingeschreven, aan de burgemeester van 's-Gravenhage.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid beslist of de erkende gewetensbezwaarde vervangende dan wel uitsluitend buitengewone vervangende dienst moet vervullen. Hiervan doet hij mededeling aan de burgemeester van de gemeente, waar de erkende gewetensbezwaarde als ingezetene met een adres in de basisregistratie personen is ingeschreven dan wel, indien de erkende gewetensbezwaarde niet als ingezetene in de basisregistratie personen is ingeschreven, aan de burgemeester van ’s-Gravenhage.
 
 2. Voor de uitvoering van [artikel 24, tweede lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=24) is het [Mobilisatie-vrijstellings-besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001994) van overeenkomstige toepassing.
 
