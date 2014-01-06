@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -737,7 +737,7 @@ Van een verminderde verwijtbaarheid is in ieder geval sprake als:
 
 ### 4.3.3. Voldoende middelen van bestaan
 
-De IND beschouwt een uittreksel uit de GBA waaruit blijkt dat de vreemdeling staat ingeschreven op hetzelfde adres als het gastgezin en waaruit de gezinssamenstelling blijkt als bewijsmiddel dat de vreemdeling in een gastgezin verblijft bestaande uit ten minste twee personen.
+De IND beschouwt een afschrift uit de BRP waaruit blijkt dat de vreemdeling staat ingeschreven op hetzelfde adres als het gastgezin en waaruit de gezinssamenstelling blijkt als bewijsmiddel dat de vreemdeling in een gastgezin verblijft bestaande uit ten minste twee personen.
 
 ### 4.2. Au pair
 
@@ -2833,7 +2833,7 @@ De IND verleent ook een vergunning aan gezinsleden die op het moment van de beoo
 
 Onder gezinsleden verstaat de IND:
 
-Wanneer de vreemdeling of een gezinslid zich na vergunningverlening in de GBA inschrijft met andere gegevens, dan trekt de IND de vergunning in.
+Wanneer de vreemdeling of een gezinslid zich na vergunningverlening in de BRP inschrijft met andere gegevens, dan trekt de IND de vergunning in.
 
 De IND neemt aan dat de vreemdeling heeft meegewerkt aan zijn vertrek als hij aannemelijk maakt dat hij zich, met het oog op zijn vertrek, heeft gewend tot:
 
@@ -3567,7 +3567,7 @@ Het besluit van 14 november 1997 heeft uitdrukkelijk géén betrekking op vreemd
 
 De IND wijst de mvv-aanvraag af als de vreemdeling het basisexamen inburgering in het buitenland niet heeft behaald, tenzij de vreemdeling hiervan is vrijgesteld of is ontheven.
 
-In aanvulling op [artikel 2.6, eerste lid, Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.6) geldt dat voor vrijstelling van het basisexamen inburgering in het buitenland niet vereist is dat sprake is van acht jaar **ononderbroken** inschrijving in de GBA of acht jaar rechtmatig verblijf.
+In aanvulling op [artikel 2.6, eerste lid, Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.6) geldt dat voor vrijstelling van het basisexamen inburgering in het buitenland niet vereist is dat sprake is van acht jaar **ononderbroken** inschrijving als ingezetene in de BRP of acht jaar rechtmatig verblijf.
 
 In aanvulling hierop ontheft de IND de vreemdeling van het behalen van het basisexamen inburgering als de vreemdeling aantoont dat:
 
@@ -4395,7 +4395,7 @@ Als de aanvraag op grond van het openbare orde criterium wordt afgewezen, wordt 
 
 Op grond van [artikel 3.1, derde lid, aanhef en onder a, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.1) luidt de arbeidsmarktaantekening op het verblijfsdocument: ‘Arbeid vrij toegestaan. TWV niet vereist’.
 
-De IND beschouwt een uittreksel uit de GBA als bewijsmiddel waaruit moet blijken dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
+De IND beschouwt een afschrift uit de BRP waaruit blijkt dat de vreemdeling is ingeschreven als ingezetene, als bewijsmiddel waaruit moet blijken dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
 
 De IND verleent vrijstelling van het vereiste over een geldig document voor grensoverschrijding te beschikken als wordt voldaan aan alle volgende voorwaarden:
 
@@ -4505,7 +4505,7 @@ Op grond van [artikel 3.51, eerste lid, aanhef en onder a, sub 1, Vb](https://we
 
 In aanvulling op [artikel 3.51, tweede lid, aanhef en onder a en b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) verleent de IND de gezinsleden van de houder van de Europese blauwe kaart een verblijfsvergunning als:
 
-De IND verlangt niet dat de vreemdeling gedurende de acht jaren als bedoeld [artikel 3.80a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a) ononderbroken was ingeschreven in de GBA of rechtmatig in Nederland verbleef.
+De IND verlangt niet dat de vreemdeling gedurende de acht jaren als bedoeld [artikel 3.80a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a) ononderbroken was ingeschreven als ingezetene in de BRP of rechtmatig in Nederland verbleef.
 
 De IND ontheft de vreemdeling op grond van [artikel 3.80a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a) van het inburgeringsvereiste als deze aantoont vanwege zijn psychische of lichamelijke belemmering of verstandelijke handicap niet in staat te zijn om binnen vijf jaren het inburgeringsexamen te behalen.
 
@@ -4615,7 +4615,7 @@ De IND beschouwt een geldig Nederlands document voor grensoverschrijding als bew
 
 De IND beschouwt een geldig Nederlands document voor grensoverschrijding dat door Nederland wordt erkend als bewijsmiddel waaruit moet blijken dat de vreemdeling meerderjarig is.
 
-De IND beschouwt een uittreksel uit de GBA als bewijsmiddel waaruit blijkt dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
+De IND beschouwt een afschrift uit de BRP waaruit blijkt dat de vreemdeling is ingeschreven als ingezetene, als bewijsmiddel waaruit blijkt dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
 
 De IND beschouwt een besluit tot intrekking van het Nederlanderschap als bewijs dat de aanvraag binnen twee jaar na intrekking van het Nederlanderschap is ingediend.
 
@@ -4623,9 +4623,9 @@ De IND beschouwt een geldig document voor grensoverschrijding dat door Nederland
 
 De IND beschouwt een verklaring van afstand van de Nederlandse nationaliteit als bewijsmiddel waaruit moet blijken dat de vreemdeling het Nederlanderschap heeft verloren.
 
-De IND beschouwt een uittreksel uit de GBA als bewijsmiddel waaruit moet blijken dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
+De IND beschouwt een afschrift uit de BRP waaruit blijkt dat de vreemdeling is ingeschreven als ingezetene, als bewijsmiddel waaruit moet blijken dat de vreemdeling zijn hoofdverblijf in Nederland heeft.
 
-De IND beschouwt een uittreksel uit de GBA waarin de datum is opgenomen waarop afstand is gedaan van de Nederlandse nationaliteit als bewijsmiddel waaruit moet blijken dat de vreemdeling de aanvraag heeft ingediend binnen twee jaar nadat door de vreemdeling afstand is gedaan van het Nederlanderschap.
+De IND beschouwt een afschrift uit de BRP waarin de datum is opgenomen waarop afstand is gedaan van de Nederlandse nationaliteit als bewijsmiddel waaruit moet blijken dat de vreemdeling de aanvraag heeft ingediend binnen twee jaar nadat door de vreemdeling afstand is gedaan van het Nederlanderschap.
 
 De IND beschouwt een geldig Nederlands document voor grensoverschrijding als bewijsmiddel waaruit moet blijken dat de vreemdeling minderjarig is.
 
@@ -4835,7 +4835,7 @@ De beleidsregels zijn een aanvulling op of een uitwerking van de [artikelen 20](
 
 De IND maakt gebruik van de bevoegdheid om een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd wegens gevaar voor de openbare orde op nationale gronden af te wijzen, zoals bedoeld in [artikel 21, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [artikel 21a, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [artikel 3.92, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92), tenzij dit in strijd is met internationale verplichtingen.
 
-In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) geldt dat de IND niet verlangt dat de vreemdeling gedurende acht jaar **ononderbroken** was ingeschreven in de GBA of rechtmatig in Nederland verbleef.
+In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) geldt dat de IND niet verlangt dat de vreemdeling gedurende acht jaar **ononderbroken** was ingeschreven als ingezetene in de BRP of rechtmatig in Nederland verbleef.
 
 Op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) ontheft de IND de vreemdeling van de wettelijke verplichting het inburgeringsexamen te behalen als hij aantoont dat hij een zodanige psychische of lichamelijke belemmering of verstandelijke handicap heeft, dat hij binnen vijf jaren niet in staat is om het inburgeringsexamen te behalen.
 
