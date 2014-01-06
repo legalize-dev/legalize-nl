@@ -4,7 +4,7 @@ identifier: "BWBR0015853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-06"
-last_updated: "2009-11-13"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015853"
 soort: "ministeriele-regeling"
@@ -129,7 +129,7 @@ Dit besluit is van kracht ten aanzien van de verwerking van persoonsgegevens in 
 
 3. Het raadplegen van de personeelsdossiers geschiedt door tussenkomst van de betrokken personeelsadviseur.
 
-4. Onverminderd het bepaalde in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2009-11-13&g=2009-11-13), mogen van de vertrouwelijke persoonsgegevens geen reproducties worden gemaakt zonder toestemming van de medewerker.
+4. Onverminderd het bepaalde in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2014-01-06&g=2014-01-06), mogen van de vertrouwelijke persoonsgegevens geen reproducties worden gemaakt zonder toestemming van de medewerker.
 
 ##### Artikel 6. Inzagebevoegdheid van managementgegevens
 
@@ -155,9 +155,9 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 1. Verstrekking van gegevens aan derden is slechts toegestaan voor zover dat voortvloeit uit het doel van de verwerking van persoonsgegevens of uit een wettelijke verplichting.
 
-2. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=2&z=2009-11-13&g=2009-11-13) van deze regeling worden personen en instellingen genoemd waaraan in ieder geval uit hoofde van een wettelijke verplichting persoonsgegevens worden verstrekt. Verstrekking van persoonsgegevens op grond van dit artikellid gaat niet verder dan vereist is op grond van de wettelijke verplichtingen.
+2. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=2&z=2014-01-06&g=2014-01-06) van deze regeling worden personen en instellingen genoemd waaraan in ieder geval uit hoofde van een wettelijke verplichting persoonsgegevens worden verstrekt. Verstrekking van persoonsgegevens op grond van dit artikellid gaat niet verder dan vereist is op grond van de wettelijke verplichtingen.
 
-3. Onverminderd het bepaalde in [artikel 27, eerste lid onder k, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) is de directeur Personeel en Organisatie bevoegd om de personen en instaties genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=2&z=2009-11-13&g=2009-11-13) van deze regeling te wijzigen, aan te vullen of te verwijderen.
+3. Onverminderd het bepaalde in [artikel 27, eerste lid onder k, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) is de directeur Personeel en Organisatie bevoegd om de personen en instaties genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=2&z=2014-01-06&g=2014-01-06) van deze regeling te wijzigen, aan te vullen of te verwijderen.
 
 4. Wanneer een medewerker, bij een andere werkgever in de sector Rijk wordt tewerkgesteld of daar in dienst treedt vindt geen overdracht plaats van vertrouwelijke gegevens.
 
@@ -169,7 +169,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 1. De verwerking van persoonsgegevens in personeelsdossiers en Emplaza kan enkel gegevens omvatten die betrekking hebben op medewerkers en voormalige medewerkers.
 
-2. In de personeelsdossiers en in Emplaza worden geen andere persoonsgegevens verwerkt dan genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=1&z=2009-11-13&g=2009-11-13) van deze regeling en in het tweede lid van dit artikel.
+2. In de personeelsdossiers en in Emplaza worden geen andere persoonsgegevens verwerkt dan genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=1&z=2014-01-06&g=2014-01-06) van deze regeling en in het tweede lid van dit artikel.
 
 3. Naast de in het eerste lid genoemde gegevens worden in Emplaza de volgende gegevens verwerkt:
 
@@ -177,7 +177,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 - b. managementgegevens.
 
-4. Onverminderd het bepaalde in [artikel 27, eerste lid onder k, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) is de directeur Personeel en Organisatie bevoegd om de gegevens genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=1&z=2009-11-13&g=2009-11-13) van deze regeling te wijzigen, aan te vullen of te verwijderen.
+4. Onverminderd het bepaalde in [artikel 27, eerste lid onder k, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) is de directeur Personeel en Organisatie bevoegd om de gegevens genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=1&z=2014-01-06&g=2014-01-06) van deze regeling te wijzigen, aan te vullen of te verwijderen.
 
 ##### Artikel 11. Herkomst persoonsgegevens
 
@@ -197,7 +197,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 ##### Artikel 12. Opbouw en inrichting personeelsdossiers
 
-1. De beheerder zorgt ervoor dat de personeelsdossiers worden opgebouwd volgens de indeling zoals die in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=3&z=2009-11-13&g=2009-11-13) van deze regeling is weergegeven.
+1. De beheerder zorgt ervoor dat de personeelsdossiers worden opgebouwd volgens de indeling zoals die in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=3&z=2014-01-06&g=2014-01-06) van deze regeling is weergegeven.
 
 2. Vertrouwelijke gegevens worden opgeborgen in een afgescheiden onderdeel van het personeelsdossier.
 
@@ -225,7 +225,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 3. Indien de beëindiging van de werkzaamheden van de medewerker ten behoeve van de verantwoordelijke een tijdelijke of voorwaardelijke basis heeft, vindt verwijdering als bedoeld in het het tweede lid plaats, nadat is komen vast te staan dat de tijdelijke of voorwaardelijke basis waarop de werkzaamheden worden verricht, is gewijzigd in een definitieve beëindiging van de werkzaamheden.
 
-4. Tot het moment van vernietiging is ten aanzien van het onderdeel van het dossier met vertrouwelijke gegevens dat op grond van het tweede lid is overgebracht naar het semi-statisch archief, toegang als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=3&artikel=5&z=2009-11-13&g=2009-11-13), niet toegestaan, tenzij de directeur Personeel & Organisatie schriftelijk ontheffing verleent in het kader van een bezwaar- of beroepsprocedure. Ontheffing is niet mogelijk indien betreffende bescheiden ouder zijn dan 5 jaar.
+4. Tot het moment van vernietiging is ten aanzien van het onderdeel van het dossier met vertrouwelijke gegevens dat op grond van het tweede lid is overgebracht naar het semi-statisch archief, toegang als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=3&artikel=5&z=2014-01-06&g=2014-01-06), niet toegestaan, tenzij de directeur Personeel & Organisatie schriftelijk ontheffing verleent in het kader van een bezwaar- of beroepsprocedure. Ontheffing is niet mogelijk indien betreffende bescheiden ouder zijn dan 5 jaar.
 
 5. Vertrouwelijke gegevens worden 5 jaar na het opmaken verwijderd.
 
@@ -275,7 +275,7 @@ Deze regeling treedt in werking op de eerste dag na de dagtekening van de Staats
 
 Deze regeling wordt aangehaald als: Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK.
 
-## Bijlage 1. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=4&artikel=10&z=2009-11-13&g=2009-11-13)
+## Bijlage 1. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=4&artikel=10&z=2014-01-06&g=2014-01-06)
 
 ### **Gegevens te verwerken in personeelsdossiers**
 
@@ -283,11 +283,11 @@ Deze regeling wordt aangehaald als: Regeling bescherming persoonsgegevens in per
 
 De hierboven genoemde gegevens onder a t/m r alsmede:
 
-## Bijlage 2. behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=3&artikel=9&z=2009-11-13&g=2009-11-13)
+## Bijlage 2. behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06)
 
 ### **Personen aan wie en Instanties waaraan in ieder geval uit hoofde van wettelijke verplichtingen persoonsgegevens worden verstrekt**
 
-## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2009-11-13&g=2009-11-13)
+## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2014-01-06&g=2014-01-06)
 
 ### 1. Inleiding
 
