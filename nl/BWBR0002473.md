@@ -4,7 +4,7 @@ identifier: "BWBR0002473"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002473"
 soort: "AMvB"
@@ -64,9 +64,9 @@ Hebben goedgevonden en verstaan:
 
 1. De keuze van de woonplaats of een wijziging van de keuze wordt schriftelijk gedaan bij de inspecteur.
 
-2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet in Nederland, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
+2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet in Nederland, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
 
-3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
+3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
 
 ##### Artikel 3
 
@@ -74,11 +74,11 @@ Degene die verplicht is woonplaats te kiezen, is desgevraagd gehouden de in de [
 
 ##### Artikel 4
 
-Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=3&z=2011-01-01&g=2011-01-01) is een strafbaar feit.
+Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=3&z=2014-01-06&g=2014-01-06) is een strafbaar feit.
 
 ##### Artikel 5
 
-Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
+Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2014-01-06&g=2014-01-06), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
 
 ##### Artikel 6
 
@@ -90,6 +90,6 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 ##### Artikel 5a
 
-Als authentieke gegevens uit andere basisregistraties als bedoeld in [artikel 21a, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21a) worden aangewezen de algemene gegevens, genoemd in [bijlage 1d bij artikel 58a van het Besluit gemeentelijke basisadministratie persoonsgegevens onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&bijlage=1d).
+Als authentiek gegeven uit andere basisregistraties als bedoeld in [artikel 21a, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21a) wordt aangewezen het burgerservicenummer van de ingeschrevene, bedoeld in [bijlage 1 bij het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1).
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
