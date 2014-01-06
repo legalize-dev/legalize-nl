@@ -4,7 +4,7 @@ identifier: "BWBR0034590"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034590"
 soort: "ministeriele-regeling"
@@ -54,8 +54,8 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 Deze regeling treedt in werking met ingang van 1 januari 2014, met uitzondering van:
 
-- a. [artikel I, onderdelen A, E, H, P en S](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-01-01&g=2014-01-01), die in werking treden met ingang van 6 januari 2014, en
+- a. [artikel I, onderdelen A, E, H, P en S](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-01-06&g=2014-01-06), die in werking treden met ingang van 6 januari 2014, en
 
-- b. [artikel I, onderdelen I en R](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-01-01&g=2014-01-01) en [artikel II, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=II&z=2014-01-01&g=2014-01-01), die in werking treden op een bij ministeriële regeling te bepalen tijdstip.
+- b. [artikel I, onderdelen I en R](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-01-06&g=2014-01-06) en [artikel II, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=II&z=2014-01-06&g=2014-01-06), die in werking treden op een bij ministeriële regeling te bepalen tijdstip.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
