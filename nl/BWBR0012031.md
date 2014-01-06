@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -565,7 +565,7 @@ Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dage
 
 1. In de onderhandse akte van schenking, bedoeld in [artikel 6.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), worden ten minste de volgende gegevens vermeld:
 
-- a. de naam, het adres en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belastingplichtige;
+- a. de naam, het adres en het burgerservicenummer van de belastingplichtige;
 
 - b. de naam en het nummer, bedoeld in [artikel 1a, zevende lid, onderdeel b, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1a), van de begiftigde instelling of vereniging, dan wel, ingeval het een buitenlandse vereniging is, een door de vestigingsstaat aan de begiftigde vereniging toegekend identificatienummer dat vergelijkbaar is met het nummer, bedoeld in [artikel 12, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=12);
 
@@ -597,7 +597,7 @@ Voor de toepassing van [artikel 8.9a van de wet](https://wetten.overheid.nl/jci1
 
 ##### Artikel 44b. Inkomensafhankelijke combinatiekorting voor co-ouders
 
-Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisadministratie persoonsgegevens, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisadministratie persoonsgegevens gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisadministratie persoonsgegevens. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.
+Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft.
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -691,11 +691,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-06) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-06) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-01-06) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -733,7 +733,7 @@ Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van [artikel 3
 
 - b. het loonheffingennummer van de werkgever;
 
-- c. naam en burgerservicenummer of, bij het ontbreken van dat nummer, sociaal-fiscaalnummer van de belastingplichtige;
+- c. naam en burgerservicenummer van de belastingplichtige;
 
 - d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;
 
@@ -851,9 +851,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-01-06), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-01-06), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -1007,7 +1007,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2014-07-01&g=2014-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2014-07-01&g=2014-01-06), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -1027,7 +1027,7 @@ Als gegevens als bedoeld in [artikel 3.119g van de wet](https://wetten.overheid.
 
 - e. de contractueel vastgelegde wijze van aflossing;
 
-- f. indien de leningverstrekker een natuurlijk persoon is: de naam, het adres en het burgerservicenummer of, bij het ontbreken van het burgerservicenummer, het sociaal-fiscaalnummer of, bij het ook ontbreken daarvan en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker;
+- f. indien de leningverstrekker een natuurlijk persoon is: de naam, het adres en het burgerservicenummer of, bij het ontbreken van het burgerservicenummer, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker;
 
 - g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een uniek nummer als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) of, bij het ontbreken van een dergelijk nummer en indien dat bestaat, een hiermee vergelijkbaar door de fiscale woonstaat toegekend fiscaal identificatienummer van de leningverstrekker.
 
