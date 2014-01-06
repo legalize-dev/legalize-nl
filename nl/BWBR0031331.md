@@ -4,7 +4,7 @@ identifier: "BWBR0031331"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031331"
 soort: "wet"
@@ -50,7 +50,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **college:** college van burgemeester en wethouders;
 
-- **inwoner:** ingezetene die op grond van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) bij een gemeente is ingeschreven;
+- **inwoner:** degene die als ingezetene in de basisregistratie personen is ingeschreven;
 
 - **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. welke maatregelen de gemeenteraad en het college nemen om de kwaliteit te borgen van de wijze waarop de integrale schuldhulpverlening wordt uitgevoerd;
 
-- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2013-07-01&g=2013-07-01), genoemde periode, en
+- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2014-01-06&g=2014-01-06), genoemde periode, en
 
 - d. hoe schuldhulpverlening aan gezinnen met inwonende minderjarige kinderen wordt vormgegeven.
 
@@ -80,15 +80,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Verantwoordelijkheid college
 
-1. Het college is verantwoordelijk voor de uitvoering van het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2013-07-01&g=2013-07-01).
+1. Het college is verantwoordelijk voor de schuldhulpverlening aan de inwoners van zijn gemeente en voert daarbij het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2014-01-06&g=2014-01-06), uit.
 
 2. Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon al eerder gebruik heeft gemaakt van schuldhulpverlening.
 
 3. Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon fraude heeft gepleegd die financiële benadeling van een bestuursorgaan tot gevolg heeft en die persoon in verband daarmee onherroepelijk strafrechtelijk is veroordeeld of een onherroepelijke bestuurlijke sanctie, die beoogt leed toe te voegen, is opgelegd.
 
-4. Met betrekking tot een ingezetene zonder adres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=1) is het college verantwoordelijk dat krachtens [artikel 40 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40) aangewezen is voor de verlening van bijstand.
-
-5. Een vreemdeling kan voor het verlenen van schuldhulpverlening slechts in aanmerking komen indien hij een ingezetene is die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+4. Een vreemdeling kan voor het verlenen van schuldhulpverlening slechts in aanmerking komen indien hij een ingezetene is die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 ##### Artikel 4. Wacht- en doorlooptijd
 
