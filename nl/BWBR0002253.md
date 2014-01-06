@@ -4,7 +4,7 @@ identifier: "BWBR0002253"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "1994-10-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002253"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Voor de toepassing van dit artikel wordt verstaan onder:
 
 2. Hij stelt regelen met betrekking tot deze registratie, de bijhouding van de aan te leggen registers en het verstrekken van inlichtingen uit die registers.
 
-3. De in het tweede lid bedoelde registers maken geen deel uit van de basisadministratie persoonsgegevens, bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
+3. De in het tweede lid bedoelde registers maken geen deel uit van de basisregistratie personen.
 
 ##### Artikel 3
 
@@ -66,9 +66,9 @@ Onze Minister kan bepalen, dat in alle of in door hem aan te wijzen gemeenten, o
 
 Wanneer Onze Minister heeft bepaald, dat tot registratie wordt overgegaan, is iedere verplaatste persoon verplicht:
 
-- a. zich onverwijld ter registratie aan te melden bij de burgemeester van de gemeente, in welke hij is gehuisvest, ongeacht of hij al dan niet als ingezetene in de basisadministratie persoonsgegevens van die gemeente is ingeschreven;
+- a. zich onverwijld ter registratie aan te melden bij de burgemeester van de gemeente, in welke hij is gehuisvest, ongeacht of hij al dan niet als ingezetene met een adres in die gemeente in de basisregistratie personen is ingeschreven;
 
-- b. bij terugkeer naar de gemeente waar hij als ingezetene in de basisadministratie persoonsgegevens is ingeschreven of, zo hij werd gehuisvest in de gemeente, waar hij als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, bij zijn terugkeer naar zijn woning, de burgemeester van die gemeente onverwijld van zijn terugkeer in kennis te stellen;
+- b. bij terugkeer naar de gemeente waar hij als ingezetene met een adres in de basisregistratie personen is ingeschreven of, zo hij werd gehuisvest in de gemeente, waar hij als ingezetene met een adres in de basisregistratie personen is ingeschreven, bij zijn terugkeer naar zijn woning, de burgemeester van die gemeente onverwijld van zijn terugkeer in kennis te stellen;
 
 - c. de burgemeester onverwijld kennis te geven van alle feiten en omstandigheden, welke overigens voor een juiste registratie van belang kunnen zijn;
 
@@ -76,7 +76,7 @@ Wanneer Onze Minister heeft bepaald, dat tot registratie wordt overgegaan, is ie
 
 ##### Artikel 5
 
-Overtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002253&artikel=4&z=1994-10-01&g=1994-10-01) is een strafbaar feit in de zin van de [Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097).
+Overtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002253&artikel=4&z=2014-01-06&g=2014-01-06) is een strafbaar feit in de zin van de [Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097).
 
 ##### Artikel 6
 
