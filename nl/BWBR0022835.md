@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2009-12-15"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -40,17 +40,31 @@ Gelet op de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit burgerservicenummer in werking treedt.
+
 ##### Artikel 1
 
 De inlichtingen, bedoeld in [artikel 5, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=5), worden door het college van burgemeester en wethouders verstrekt in de gevallen en op de wijze, beschreven in de systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2).
 
 ##### Artikel 2
 
-De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=9), geschiedt indien mogelijk door middel van of gezamenlijk met de toezending van een volledig overzicht van de persoonslijst als bedoeld in [artikel 78, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=78).
+De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=9), geschiedt indien mogelijk door middel van of gezamenlijk met de toezending van een volledig overzicht van de persoonslijst als bedoeld in [artikel 2.54, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.54).
 
 ##### Artikel 3
 
-De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, en hoofdstuk 5 van het Logisch ontwerp BSN dat als bijlage bij deze regeling is gevoegd.
+De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, en hoofdstuk 5 van het Logisch ontwerp BSN, versie 1.3, dat als bijlage bij deze regeling is gevoegd, met dien verstande dat wordt verstaan onder:
+
+- a. **GBA:** de verzameling van gegevens over personen die als ingezetenen in de basisregistratie personen zijn ingeschreven en van wie de bijhouding plaatsvindt op grond van [afdeling 1 van hoofdstuk 2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&afdeling=1);
+
+- b. **GBA bij de gemeenten:** de gemeentelijke voorzieningen, bedoeld in [artikel 1.9 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9);
+
+- c. **gemeente van inschrijving:** de bijhoudingsgemeente, bedoeld in [artikel 1.1, onderdeel h, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1);
+
+- d. **RNI:** de verzameling van gegevens over personen die als niet-ingezetenen in de basisregistratie personen zijn ingeschreven en van wie de bijhouding plaatsvindt op grond van [afdeling 2 van hoofdstuk 2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&afdeling=2);
+
+- e. **RNI bij het agentschap BPR:** de centrale voorzieningen, bedoeld in [artikel 1.9 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9);
+
+- f. **sofinummer:** het sociaal-fiscaalnummer, bedoeld in [artikel 1, onderdeel g, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
 ##### Artikel 4
 
@@ -66,7 +80,9 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. , bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2009-12-15&g=2009-12-15) van de Regeling Burgerservicenummer
+## Bijlage. , bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2014-01-06&g=2014-01-06) van de Regeling Burgerservicenummer
+
+Ligt ter inzage bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag en gepubliceerd op www.bprbzk.nl.
 
 ### Het Logisch Ontwerp BSN
 
@@ -601,5 +617,7 @@ De formule voor het berekenen van de score is:
 De velden die wel in de vraag zijn opgenomen maar niet bij het zoeken zijn gebruikt, worden ook niet in de berekening van de score meegenomen. Als op basis van een verplicht zoekpad door middel van een exacte match een resultaat wordt gevonden, dan is de score 100%. Dit geldt ook als andere velden niet overeenkomen met het gevonden resultaat.
 
 ### V. Beschrijvende woordenlijst
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
