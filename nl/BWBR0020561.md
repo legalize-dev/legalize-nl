@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -85,7 +85,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 - 1º. de Nederlandse nationaliteit bezit, op grond van een wettelijke bepaling als Nederlander wordt behandeld of vreemdeling is en rechtmatig verblijf geniet als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- 2º. tenminste 3 jaar is ingeschreven in de basisadministratie, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=2), van de gemeente of van een gemeente in het maatschappelijk zorggebied als bedoeld in [artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1) van de gemeente;
+- 2º. volgens de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), ten minste 3 jaar als ingezetene is ingeschreven met een adres in de gemeente of een adres in een gemeente in het maatschappelijk zorggebied, bedoeld in [artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1).
 
 - 3º. de leeftijd van 35 jaar heeft bereikt tenzij de cliënt voor 2006 is gestart met de heroïnebehandeling;
 
@@ -163,7 +163,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2014-01-01&g=2014-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2014-01-06&g=2014-01-06), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
