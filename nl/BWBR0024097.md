@@ -4,7 +4,7 @@ identifier: "BWBR0024097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-06"
-last_updated: "2012-07-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024097"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ De termijn, bedoeld in [artikel 34, eerste lid, van de wet](https://wetten.overh
 
 1. Als gegevens, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=58), worden aangewezen: de gegevens die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) worden opgenomen over een onderneming of een rechtspersoon voor zover deze beschikbaar zijn bij de Belastingdienst.
 
-2. In aanvulling op het eerste lid worden als gegevens, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=58), aangewezen: de rechtsvormcode, het Fi-nummer en het kvk-nummer.
+2. In aanvulling op het eerste lid worden als gegevens, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=58), aangewezen: de rechtsvormcode, een door de Kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021064) en het kvk-nummer.
 
 ##### Artikel 4
 
