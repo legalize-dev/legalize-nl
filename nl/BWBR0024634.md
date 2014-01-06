@@ -4,7 +4,7 @@ identifier: "BWBR0024634"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "2010-10-10"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024634"
 soort: "AMvB"
@@ -48,6 +48,8 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning) in werking treedt.
+
 ##### Artikel 1
 
 1. De Nederlander die een minderjarige vreemdeling erkent of heeft erkend toont het biologisch vaderschap, bedoeld in [artikel 4, vierde lid, Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4), aan door middel van DNA-onderzoek.
@@ -56,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het DNA-bewijs, bedoeld in het eerste en tweede lid, wordt geleverd door middel van een als zodanig herkenbaar en ondertekend rapport van een laboratorium als bedoeld in het zesde lid.
 
-4. Het DNA-bewijs, bedoeld in het eerste lid, wordt overgelegd aan de bevoegde autoriteit, die verantwoordelijk is voor de basisadministratie van persoonsgegevens of, in het buitenland, aan het hoofd van de diplomatieke of consulaire post.
+4. Het DNA-bewijs, bedoeld in het eerste lid, wordt overgelegd aan de bevoegde autoriteit, die verantwoordelijk is voor de basisadministratie, bedoeld in [artikel 1, onder f, van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=1), of, in het buitenland, aan het hoofd van de diplomatieke of consulaire post.
 
 5. Het DNA-bewijs, bedoeld in het tweede lid, wordt overgelegd aan de autoriteit die bevoegd is tot bevestiging van de verkrijging van het Nederlanderschap.
 
