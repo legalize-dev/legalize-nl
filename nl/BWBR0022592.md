@@ -4,7 +4,7 @@ identifier: "BWBR0022592"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "2007-10-10"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022592"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Besluit donorregister.
 
 ##### Artikel II
 
-Vóór de datum van inwerkingtreding van dit besluit aan de ingezetenen, bedoeld in [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723), toegezonden donorformulieren en donorformulieren die vóór deze datum in omloop zijn, kunnen ook na inwerkingtreding van dit besluit worden gebruikt om in het donorregister aantekening te maken van de wilsbeschikking omtrent orgaandonatie van betrokkene.
+Vóór de datum van inwerkingtreding van dit besluit aan de ingezetenen, bedoeld in [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), toegezonden donorformulieren en donorformulieren die vóór deze datum in omloop zijn, kunnen ook na inwerkingtreding van dit besluit worden gebruikt om in het donorregister aantekening te maken van de wilsbeschikking omtrent orgaandonatie van betrokkene.
 
 ##### Artikel III
 
