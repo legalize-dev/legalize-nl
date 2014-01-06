@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -49,25 +49,25 @@ Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https:/
 
 Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472).
 
-##### Artikel 3. Gelijkstelling met gemeentelijke basisadministratie persoonsgegevens
+##### Artikel 3. Gelijkstelling met basisregistratie personen
 
-1. Iemand die niet in Nederland woont, wordt geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland, indien:
+1. Iemand die niet in Nederland woont, wordt geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland, indien:
 
-- a. hij vanwege zijn functie of vanwege de functie van een van de tot zijn huishouden behorende personen niet kan of niet hoeft te worden ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland;
+- a. hij vanwege zijn functie of vanwege de functie van een van de tot zijn huishouden behorende personen niet kan of niet hoeft te worden ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland;
 
-- b. blijkt dat hij niet woont op het adres waarop hij is ingeschreven in de bevolkingsadministratie in zijn woonland;
+- b. blijkt dat hij niet woont op het adres waarop hij is ingeschreven in de bevolkingsregistratie in zijn woonland;
 
-- c. zijn woonland geen of geen naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie voert.
+- c. zijn woonland geen of geen naar aard en strekking met de basisregistratie personen overeenkomende registratie voert.
 
-2. Iemand die in de gemeentelijke basisadministratie persoonsgegevens niet op zijn woonadres is ingeschreven, wordt geacht daarin wel op dat adres te zijn ingeschreven, indien:
+2. Iemand die in de basisregistratie personen niet op zijn woonadres is ingeschreven, wordt geacht daarin wel op dat adres te zijn ingeschreven, indien:
 
 - a. hij een vreemdeling is als bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9);
 
-- b. hij of een tot zijn huishouden behorende persoon op grond van [artikel 32 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=32) in verband met zijn bijzondere verblijfsrechtelijke status niet in aanmerking komt voor inschrijving, met dien verstande dat voor degenen die zijn opgenomen in de door het Ministerie van Buitenlandse Zaken gevoerde Protocollaire Basisadministratie, het in deze administratie opgenomen woonadres geldt;
+- b. hij of een tot zijn huishouden behorende persoon op grond van [artikel 21, eerste lid, van het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=21) in verband met zijn bijzondere verblijfsrechtelijke status niet in aanmerking komt voor inschrijving, met dien verstande dat voor degenen die zijn opgenomen in de door het Ministerie van Buitenlandse Zaken gevoerde Protocollaire Basisadministratie, het in deze administratie opgenomen woonadres geldt;
 
-- c. blijkt dat sprake is van een onjuiste inschrijving in de gemeentelijke basisadministratie persoonsgegevens voor de periode tot aan de datum van adreswijziging als bedoeld in [artikel 47, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=47);
+- c. blijkt dat sprake is van een onjuiste inschrijving in de basisregistratie personen voor de periode tot aan de datum van adreswijziging, bedoeld in [artikel 2.20, derde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.20);
 
-- d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven bij de gemeentelijke basisadministratie persoonsgegevens.
+- d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven in de basisregistratie personen.
 
 ##### Artikel 4. Herleiding toetsingsinkomen
 
@@ -137,7 +137,7 @@ Vervallen
 
 3. Bij gevallen als bedoeld [artikel 7a, vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a) is [artikel 25, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) niet van toepassing.
 
-4. Indien op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belanghebbende.
+4. Indien op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belanghebbende.
 
 5. Bij toepassing van het tweede lid, onderdelen a en b, wijst het aldaar bedoelde lid of de aldaar bedoelde gemeente aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belanghebbende en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het tweede lid, onderdelen a en b, bedoelde overeenkomst.
 
@@ -233,7 +233,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-01-01&g=2014-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-01-06&g=2014-01-06), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -261,7 +261,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
