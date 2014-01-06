@@ -4,7 +4,7 @@ identifier: "BWBR0033987"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2013-11-09"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033987"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 11 september 20
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 september 2013, nr. 2013-0000542000;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Uitvoeringswet verordening Europees burgerinitiatief in werking treedt.
 
 ##### Artikel 1
 
@@ -92,7 +94,7 @@ In de steekproef worden steunbetuigingen geldig verklaard, indien:
 
 - e. voor zover:
 
-- 1°. de ondertekenaar inwoner is van het Europese deel van Nederland: de postcode, het huisnummer en de geboortedatum van de ondertekenaar overeenkomen met de in de gemeentelijke basisadministratie persoonsgegevens opgenomen postcode, huisnummer en geboortedatum;
+- 1°. de ondertekenaar inwoner is van het Europese deel van Nederland: de postcode, het huisnummer en de geboortedatum van de ondertekenaar overeenkomen met de in de basisregistratie personen opgenomen postcode, huisnummer en geboortedatum;
 
 - 2°. de ondertekenaar inwoner is van Bonaire, Sint Eustatius of Saba: de adresgegevens en de geboortedatum van de ondertekenaar overeenkomen met de in een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2) opgenomen adresgegevens en geboortedatum;
 
