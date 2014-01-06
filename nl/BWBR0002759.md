@@ -4,7 +4,7 @@ identifier: "BWBR0002759"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-06"
-last_updated: "2013-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002759"
 soort: "wet"
@@ -60,11 +60,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - e. **arbeidsverhouding:** de rechtsbetrekking tussen een werknemer en diens werkgever;
 
-- f. inwoner van Nederland: degene, die als ingezetene in een basisadministratie persoonsgegevens is ingeschreven of behoort te zijn ingeschreven.
+- f. inwoner van Nederland: degene, die als ingezetene in de basisregistratie personen is ingeschreven of behoort te zijn ingeschreven.
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&z=2013-01-01&g=2013-01-01) van deze wet in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, één of meer van de paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&z=2014-01-06&g=2014-01-06) van deze wet in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde paragrafen.
 
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 6
 
-Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die, zolang de verbinding tussen Onze Minister en enig gebied verbroken is, in dat gebied met inachtneming van de bij de maatregel gestelde regelen de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2013-01-01&g=2013-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01) aan Onze Minister toegekende bevoegdheden uitoefenen.
+Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die, zolang de verbinding tussen Onze Minister en enig gebied verbroken is, in dat gebied met inachtneming van de bij de maatregel gestelde regelen de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2014-01-06&g=2014-01-06) aan Onze Minister toegekende bevoegdheden uitoefenen.
 
 ### Hoofdstuk II. Bepalingen voor buitengewone omstandigheden
 
@@ -116,7 +116,7 @@ Vervallen
 
 1. Op een ingekomen bezwaarschrift, gericht tegen een beschikking van het Hoofd Arbeidsvoorziening, neemt deze, zo hij terstond de aangevoerde bezwaren gegrond acht, zo spoedig mogelijk een beslissing.
 
-2. Indien het Hoofd Arbeidsvoorziening niet terstond de aangevoerde bezwaren gegrond acht, brengt hij het bezwaarschrift onverwijld ter kennis van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), bedoelde commissie. Deze brengt zo spoedig mogelijk advies uit.
+2. Indien het Hoofd Arbeidsvoorziening niet terstond de aangevoerde bezwaren gegrond acht, brengt hij het bezwaarschrift onverwijld ter kennis van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2014-01-06&g=2014-01-06), bedoelde commissie. Deze brengt zo spoedig mogelijk advies uit.
 
 3. Indien het Hoofd Arbeidsvoorziening zich met het door de commissie uitgebrachte advies kan verenigen, neemt hij zo spoedig mogelijk dienovereenkomstig een beslissing.
 
@@ -124,7 +124,7 @@ Vervallen
 
 ##### Artikel 39
 
-Een bezwaarschrift, gericht tegen een beschikking van Onze Minister of Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, wordt door het Hoofd Arbeidsvoorziening onverwijld ter kennis van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), bedoelde commissie gebracht. Deze brengt zo spoedig mogelijk advies uit.
+Een bezwaarschrift, gericht tegen een beschikking van Onze Minister of Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, wordt door het Hoofd Arbeidsvoorziening onverwijld ter kennis van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2014-01-06&g=2014-01-06), bedoelde commissie gebracht. Deze brengt zo spoedig mogelijk advies uit.
 
 ##### Artikel 40
 
@@ -134,7 +134,7 @@ Vervallen
 
 1. Een door Onze Minister of Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer genomen beslissing wordt aan het Hoofd Arbeidsvoorziening medegedeeld.
 
-2. Voordat een advies als bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=III&artikel=38&z=2013-01-01&g=2013-01-01), of [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=III&artikel=39&z=2013-01-01&g=2013-01-01) wordt uitgebracht, hoort de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2013-01-01&g=2013-01-01), bedoelde commissie zo mogelijk de belanghebbende.
+2. Voordat een advies als bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=III&artikel=38&z=2014-01-06&g=2014-01-06), of [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=III&artikel=39&z=2014-01-06&g=2014-01-06) wordt uitgebracht, hoort de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=4&z=2014-01-06&g=2014-01-06), bedoelde commissie zo mogelijk de belanghebbende.
 
 ### Hoofdstuk IV. Inlichtingen en toezicht
 
@@ -146,7 +146,7 @@ Het Hoofd Arbeidsvoorziening is bevoegd personen op te roepen om voor hem of voo
 
 - b. tot het overleggen van bescheiden, waarvan raadpleging naar zijn redelijk oordeel in het belang van de uitvoering van deze wet nodig is;
 
-- c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge [hoofdstuk II, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2013-01-01&g=2013-01-01).
+- c. voor zover het personen betreft, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt: tot het ondergaan van een onderzoek naar hun geschiktheid voor het verrichten van werkzaamheden ingevolge [hoofdstuk II, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2014-01-06&g=2014-01-06).
 
 ##### Artikel 43
 
@@ -156,9 +156,9 @@ Het Hoofd Arbeidsvoorziening is bevoegd personen op te roepen om voor hem of voo
 
 ##### Artikel 44
 
-1. Ieder, die krachtens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=42&z=2013-01-01&g=2013-01-01) is opgeroepen, is verplicht ter plaatse en ten tijde, bij de oproeping aangewezen, te verschijnen en desverlangd de in dat artikel, onder **a**-**c**, bedoelde medewerking te verlenen. De verstrekking van de in dat artikel bedoelde inlichtingen dient volledig en naar waarheid te geschieden.
+1. Ieder, die krachtens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=42&z=2014-01-06&g=2014-01-06) is opgeroepen, is verplicht ter plaatse en ten tijde, bij de oproeping aangewezen, te verschijnen en desverlangd de in dat artikel, onder **a**-**c**, bedoelde medewerking te verlenen. De verstrekking van de in dat artikel bedoelde inlichtingen dient volledig en naar waarheid te geschieden.
 
-2. Het Hoofd Arbeidsvoorziening is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=42&z=2013-01-01&g=2013-01-01).
+2. Het Hoofd Arbeidsvoorziening is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=42&z=2014-01-06&g=2014-01-06).
 
 ### Hoofdstuk V. Verdere bepalingen
 
@@ -172,15 +172,15 @@ Vervallen
 
 ##### Artikel 47
 
-1. Indien door een besluit als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), de werking van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&z=2013-01-01&g=2013-01-01) of [2 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&z=2013-01-01&g=2013-01-01) wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van de arbeidsverhoudingen, waarvoor krachtens die paragraaf maatregelen van kracht zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.
+1. Indien door een besluit als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2014-01-06&g=2014-01-06), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), de werking van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&z=2014-01-06&g=2014-01-06) of [2 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&z=2014-01-06&g=2014-01-06) wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van de arbeidsverhoudingen, waarvoor krachtens die paragraaf maatregelen van kracht zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.
 
-2. Indien door een besluit, als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), de werking van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&z=2013-01-01&g=2013-01-01) of [4 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2013-01-01&g=2013-01-01) wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van degenen die op grond van die paragraaf tot onmisbaar werknemer zijn verklaard, onderscheidenlijk een krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2013-01-01&g=2013-01-01) opgeroepen burgerdienstplichtige zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.
+2. Indien door een besluit, als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2014-01-06&g=2014-01-06), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), de werking van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-01-06) of [4 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2014-01-06&g=2014-01-06) wordt beëindigd, kan bij dat besluit worden bepaald, dat ten aanzien van degenen die op grond van die paragraaf tot onmisbaar werknemer zijn verklaard, onderscheidenlijk een krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06) opgeroepen burgerdienstplichtige zijn, het bij en krachtens die paragraaf bepaalde gedurende een bij dat besluit vast te stellen tijd van toepassing blijft.
 
-3. Indien door een besluit als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), de werking van paragraaf 5 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.
+3. Indien door een besluit als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=I&artikel=2&z=2014-01-06&g=2014-01-06), van deze wet dan wel bij een besluit als bedoeld in de [artikelen 7, tweede lid, en 8, tweede lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), de werking van paragraaf 5 van hoofdstuk II wordt beëindigd, kan bij dat besluit met betrekking tot, op grond van die paragraaf verleende, van kracht zijnde vrijstellingen en ontheffingen worden bepaald, dat deze te hunnen aanzien gedurende een bij dat besluit vast te stellen tijd van toepassing blijven.
 
 ##### Artikel 48
 
-Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent voorzieningen bij ziekte, ongeval, invaliditeit en overlijden, verband houdende met het volgen van een scholing op grond van een oproeping krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2013-01-01&g=2013-01-01).
+Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent voorzieningen bij ziekte, ongeval, invaliditeit en overlijden, verband houdende met het volgen van een scholing op grond van een oproeping krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06).
 
 ##### Artikel 49
 
@@ -210,7 +210,7 @@ Degenen, die werkzaamheden moeten verrichten ingevolge een vordering op grond va
 
 ##### Artikel 52
 
-Zolang [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&z=2013-01-01&g=2013-01-01) of [4 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2013-01-01&g=2013-01-01) in werking is, geschieden de oproepingen krachtens artikel 1, onder 6°, van de Bevoegdhedenwet zo mogelijk na overleg met het Hoofd Arbeidsvoorziening.
+Zolang [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-01-06) of [4 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&z=2014-01-06&g=2014-01-06) in werking is, geschieden de oproepingen krachtens artikel 1, onder 6°, van de Bevoegdhedenwet zo mogelijk na overleg met het Hoofd Arbeidsvoorziening.
 
 ##### Artikel 52a
 
@@ -220,19 +220,19 @@ Vervallen
 
 ##### Artikel 53
 
-Een gedraging die in strijd is met het bij of krachtens [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=23&z=2013-01-01&g=2013-01-01), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2013-01-01&g=2013-01-01), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2013-01-01&g=2013-01-01), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=31&z=2013-01-01&g=2013-01-01), [33, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=33&z=2013-01-01&g=2013-01-01), bepaalde, alsmede een gedraging die in strijd is met het krachtens [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=V&artikel=49&z=2013-01-01&g=2013-01-01) bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste één maand of geldboete van de tweede categorie.
+Een gedraging die in strijd is met het bij of krachtens [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-01-06&g=2014-01-06), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=23&z=2014-01-06&g=2014-01-06), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2014-01-06&g=2014-01-06), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=31&z=2014-01-06&g=2014-01-06), [33, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=33&z=2014-01-06&g=2014-01-06), bepaalde, alsmede een gedraging die in strijd is met het krachtens [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=V&artikel=49&z=2014-01-06&g=2014-01-06) bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste één maand of geldboete van de tweede categorie.
 
 ##### Artikel 54
 
-Een gedraging die in strijd is met het bij of krachtens [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2013-01-01&g=2013-01-01), [10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=14&z=2013-01-01&g=2013-01-01), [15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=15&z=2013-01-01&g=2013-01-01), [25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2013-01-01&g=2013-01-01), [26, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=26&z=2013-01-01&g=2013-01-01), of [32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=32&z=2013-01-01&g=2013-01-01), bepaalde, alsmede een gedraging die in strijd is met het krachtens [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=12&z=2013-01-01&g=2013-01-01), of [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=21&z=2013-01-01&g=2013-01-01), bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
+Een gedraging die in strijd is met het bij of krachtens [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), [10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2014-01-06&g=2014-01-06), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-01-06&g=2014-01-06), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06), [15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-01-06), [25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2014-01-06&g=2014-01-06), [26, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=26&z=2014-01-06&g=2014-01-06), of [32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=32&z=2014-01-06&g=2014-01-06), bepaalde, alsmede een gedraging die in strijd is met het krachtens [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=12&z=2014-01-06&g=2014-01-06), of [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=21&z=2014-01-06&g=2014-01-06), bepaalde, voor zover zij daarbij is aangeduid als strafbaar feit, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 ##### Artikel 55
 
-Opzettelijke overtreding van het bij of krachtens [artikel 25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2013-01-01&g=2013-01-01), of [32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=32&z=2013-01-01&g=2013-01-01), bepaalde wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
+Opzettelijke overtreding van het bij of krachtens [artikel 25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2014-01-06&g=2014-01-06), of [32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=32&z=2014-01-06&g=2014-01-06), bepaalde wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
 
 ##### Artikel 56
 
-Met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie wordt gestraft hij die, krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=13&z=2013-01-01&g=2013-01-01) als werknemer onmisbaar verklaard of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2013-01-01&g=2013-01-01) als burgerdienstplichtige opgeroepen:
+Met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie wordt gestraft hij die, krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-01-06) als werknemer onmisbaar verklaard of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06) als burgerdienstplichtige opgeroepen:
 
 - a. opzettelijk of ondanks waarschuwing roekeloos zichzelf, anderen of de eigendom van degene, in wiens dienst of voor wie, dan wel bij wie hij in deze hoedanigheid arbeid moet verrichten, onderscheidenlijk een scholing moet volgen, aan ernstig gevaar blootstelt, dan wel
 
@@ -240,9 +240,9 @@ Met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categor
 
 ##### Artikel 57
 
-1. De feiten, strafbaar gesteld bij de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=53&z=2013-01-01&g=2013-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=54&z=2013-01-01&g=2013-01-01), zijn overtredingen.
+1. De feiten, strafbaar gesteld bij de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=53&z=2014-01-06&g=2014-01-06) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=54&z=2014-01-06&g=2014-01-06), zijn overtredingen.
 
-2. De feiten, strafbaar gesteld bij de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=55&z=2013-01-01&g=2013-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=56&z=2013-01-01&g=2013-01-01), zijn misdrijven.
+2. De feiten, strafbaar gesteld bij de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=55&z=2014-01-06&g=2014-01-06) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=VI&artikel=56&z=2014-01-06&g=2014-01-06), zijn misdrijven.
 
 ##### Artikel 58
 
@@ -254,7 +254,7 @@ Vervallen
 
 ##### Artikel 60
 
-1. Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=43&z=2013-01-01&g=2013-01-01) aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.
+1. Met het opsporen van de feiten, bij deze wet strafbaar gesteld, zijn behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=IV&artikel=43&z=2014-01-06&g=2014-01-06) aangewezen ambtenaren, voor zover zij door Onze Minister van Justitie daartoe zijn aangewezen.
 
 2. Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
@@ -274,6 +274,322 @@ Deze wet kan worden aangehaald als: Noodwet Arbeidsvoorziening.
 
 ##### Artikel 64
 
-Deze wet treedt, met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&z=2013-01-01&g=2013-01-01), in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+Deze wet treedt, met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&z=2014-01-06&g=2014-01-06), in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1. Beperking van het beëindigen van arbeidsverhoudingen
+
+##### Artikel 7
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan bepalen, dat arbeidsverhoudingen in het algemeen, dan wel dat arbeidsverhoudingen, behorende tot bij zijn beschikking aangewezen categorieën, of dat arbeidsverhoudingen, waarbij bij zijn beschikking aangewezen personen partij zijn, niet mogen worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.
+
+2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+3. Een krachtens het eerste lid vastgestelde besluit van algemene strekking wordt ter openbare kennis gebracht.
+
+##### Artikel 8
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met een krachtens [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.
+
+##### Artikel 9
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=8&z=2014-01-06&g=2014-01-06) gelden niet ten aanzien van dienstbetrekkingen van personen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2).
+
+2. Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.
+
+3. Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregel genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=III&z=2014-01-06&g=2014-01-06).
+
+4. De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, tezamen met Onze Ministers, wie het mede aangaat.
+
+#### § 2. Beperking van het aangaan van arbeidsverhoudingen
+
+##### Artikel 10
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan bepalen, dat arbeidsverhoudingen in het algemeen, dan wel dat arbeidsverhoudingen, behorende tot bij zijn beschikking aangewezen categorieën, of dat arbeidsverhoudingen, waarbij bij zijn beschikking aangewezen personen partij zijn, niet mogen worden aangegaan zonder vergunning van het Hoofd Arbeidsvoorziening.
+
+2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+3. Een krachtens het eerste lid vastgestelde besluit van algemene strekking wordt ter openbare kennis gebracht.
+
+##### Artikel 11
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het is zowel de werkgever als de werknemer verboden een arbeidsverhouding, aangegaan in strijd met een krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2014-01-06&g=2014-01-06), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, te laten voortduren.
+
+2. Ten aanzien van het beëindigen van zodanige arbeidsverhouding geldt een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06) gesteld verbod niet.
+
+3. De werkgever is verplicht van de beëindiging van zodanige arbeidsverhouding onverwijld aan het Hoofd Arbeidsvoorziening schriftelijk mededeling te doen.
+
+##### Artikel 12
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=10&z=2014-01-06&g=2014-01-06) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-01-06&g=2014-01-06) gelden niet ten aanzien van dienstbetrekkingen van personen als in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06) bedoeld.
+
+2. Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.
+
+3. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+
+#### § 3. Onmisbaarheid van werknemers
+
+##### Artikel 13
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het Hoofd Arbeidsvoorziening kan een werknemer op diens verzoek in diens arbeidsverhouding onmisbaar verklaren voor het verrichten van bij zijn beschikking aangewezen arbeid.
+
+2. Van een krachtens het eerste lid tot de werknemer gerichte beschikking wordt mededeling gedaan aan diens werkgever.
+
+##### Artikel 14
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het is voor de duur der onmisbaarheid zowel aan de werknemer als aan diens werkgever verboden de arbeidsverhouding te beëindigen.
+
+2. Indien een arbeidsverhouding door één der partijen is beëindigd in strijd met het eerste lid, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.
+
+##### Artikel 15
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De werkgever is verplicht de onmisbaar verklaarde werknemer voor zover mogelijk de arbeid te laten verrichten, waarvoor deze onmisbaar is verklaard.
+
+2. De onmisbaar verklaarde werknemer is verplicht de arbeid, die hem door de werkgever is opgedragen, te verrichten.
+
+##### Artikel 16
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het Hoofd Arbeidsvoorziening kan de onmisbaarverklaring van een werknemer te allen tijde, hetzij ambtshalve, hetzij op verzoek van de werknemer of van diens werkgever, intrekken.
+
+2. Van een krachtens het eerste lid tot de werknemer gerichte beschikking wordt mededeling gedaan aan diens werkgever.
+
+##### Artikel 17
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Op verzoek van een werknemer of van diens werkgever kan het Hoofd Arbeidsvoorziening, beide partijen gehoord, in verband met het aangaan door die werknemer van een arbeidsverhouding met een andere werkgever, waarin hij onmisbaar wordt verklaard, bepalen, dat, zolang de nieuwe arbeidsverhouding voortduurt, de bestaande arbeidsverhouding geschorst is, doch door partijen niet kan worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.
+
+2. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit de betrokken arbeidsverhouding.
+
+3. Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.
+
+4. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=8&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing.
+
+5. In geval van toepassing van het eerste lid neemt bij het eindigen van de onmisbaarheid de nieuwe arbeidsverhouding van rechtswege een einde, tenzij de oorspronkelijke arbeidsverhouding reeds is beëindigd.
+
+6. Van een krachtens het eerste lid tot de werknemer gerichte beschikking wordt mededeling gedaan aan diens werkgever.
+
+##### Artikel 18
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 19
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Aan een persoon als in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06) bedoeld kan in verband met het aangaan van een arbeidsverhouding, waarin hij onmisbaar wordt verklaard, in zijn bestaande dienstbetrekking voor de duur van zijn onmisbaarheid verlof worden verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.
+
+2. In geval van toepassing van het eerste lid neemt bij het eindigen van de onmisbaarheid de arbeidsverhouding, waarin de betrokkene onmisbaar was verklaard, van rechtswege een einde.
+
+3. De voordracht tot een algemene maatregel van bestuur als in het eerste lid bedoeld wordt Ons gedaan door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, tezamen met Onze Minister en met Onze Ministers, wie het mede aangaat.
+
+##### Artikel 20
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Een beding als bedoeld in [artikel 653 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653) is niet van kracht ten aanzien van het werkzaam zijn als onmisbaar verklaarde werknemer.
+
+2. Indien het beding voor een bepaalde tijd is gemaakt, wordt de tijd, als onmisbaar verklaarde werknemer bij een derde doorgebracht, voor de berekening van deze termijn medegeteld.
+
+##### Artikel 21
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De voorgaande artikelen van deze paragraaf gelden niet met betrekking tot de onmisbaarheid van personen in een dienstbetrekking als in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06) bedoeld.
+
+2. Met betrekking tot de in het eerste lid bedoelde onmisbaarheid kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.
+
+3. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+
+#### § 4. Burgerdienstplicht
+
+##### Artikel 22
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Burgerdienstplicht rust op alle Nederlanders en inwoners van Nederland, die de leeftijd van achttien jaar, maar nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt, met uitzondering van de Nederlanders, woonachtig in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. Van burgerdienstplicht vrijgesteld zijn:
+
+- a. degenen, die krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-01-06), onmisbaar verklaard zijn;
+
+- b. degenen, die ingevolge een overeenkomst met een andere mogendheid of met een volkenrechtelijke organisatie niet tot burgerdienstplicht gehouden zijn;
+
+- c. de personen, behorende tot bij algemene maatregel van bestuur daartoe aangewezen categorieën of krachtens zodanige maatregel daartoe aangewezen.
+
+##### Artikel 23
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het Hoofd Arbeidsvoorziening kan een burgerdienstplichtige bestemmen voor:
+
+- a. bij zijn beschikking aangewezen arbeid in loondienst;
+
+- b. een tegen het genot van een toelage te volgen scholing, bij zijn beschikking aangewezen.
+
+2. Bij toepassing van het eerste lid houdt het Hoofd Arbeidsvoorziening voor zover mogelijk rekening met het beroep, de geschiktheid en de redelijke wensen van de burgerdienstplichtige.
+
+3. Het Hoofd Arbeidsvoorziening kan de bestemming te allen tijde, hetzij ambtshalve, hetzij op verzoek van de burgerdienstplichtige, intrekken.
+
+4. De burgerdienstplichtige is verplicht van zijn bestemming en van de intrekking van zijn bestemming binnen driemaal vierentwintig uur mededeling te doen aan degene, die ten tijde van de bestemming, onderscheidenlijk de intrekking, zijn werkgever is.
+
+##### Artikel 24
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het Hoofd Arbeidsvoorziening kan een burgerdienstplichtige oproepen tot het verrichten van werkzaamheden overeenkomstig diens bestemming.
+
+2. Een beschikking krachtens het eerste lid bevat een aanwijzing van de natuurlijke of rechtspersoon, in wiens dienst de arbeid moet worden verricht of bij wie de scholing moet worden gevolgd, alsmede van de plaats en tijd van aanvang der werkzaamheden. Zo mogelijk vermeldt zij voorts de waarschijnlijke beloning of toelage en de waarschijnlijke duur van de uit de oproeping voortvloeiende verplichtingen.
+
+3. De burgerdienstplichtige kan niet worden verplicht tot het verrichten van werkzaamheden op plaatsen buiten Nederland.
+
+4. Van een krachtens het eerste lid tot de burgerdienstplichtige gerichte beschikking wordt mededeling gedaan aan de overeenkomstig het tweede lid aangewezen persoon.
+
+5. De burgerdienstplichtige is verplicht van de oproeping binnen driemaal vierentwintig uur mededeling te doen aan degene, die ten tijde van de oproeping zijn werkgever is.
+
+##### Artikel 25
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De opgeroepen burgerdienstplichtige is verplicht te verschijnen ter plaatse en ten tijde, overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen.
+
+2. De overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen persoon is verplicht onverwijld aan het Hoofd Arbeidsvoorziening mede te delen, of de opgeroepene al dan niet is verschenen overeenkomstig het eerste lid.
+
+3. De opgeroepen burgerdienstplichtige, die niet is verschenen overeenkomstig het eerste lid, is verplicht ter plaatse, overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen, alsnog zodra mogelijk te verschijnen.
+
+##### Artikel 26
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. De overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen persoon is verplicht de burgerdienstplichtige voor zover mogelijk de werkzaamheden te laten verrichten, waarvoor deze is opgeroepen.
+
+2. De burgerdienstplichtige is verplicht de werkzaamheden, die hem door de overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen persoon zijn opgedragen, te verrichten.
+
+##### Artikel 27
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Te rekenen van de dag, waarop een voor arbeid in loondienst opgeroepen burgerdienstplichtige aan zijn verschijningsplicht overeenkomstig [artikel 25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2014-01-06&g=2014-01-06), heeft voldaan, bestaat tussen hem en degene, in wiens dienst de arbeid moet worden verricht, een rechtsbetrekking, die voor de toepassing van wettelijke voorschriften geacht wordt een rechtsbetrekking uit arbeidsovereenkomst te zijn.
+
+2. De inhoud van de rechtsbetrekking is zoveel mogelijk gelijk aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit arbeidsovereenkomsten voor soortgelijke arbeid bij de betrokken onderneming of instelling of, bij ontbreken van zodanige arbeidsovereenkomsten, aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit arbeidsovereenkomsten voor soortgelijke arbeid bij vergelijkbare ondernemingen of instellingen. Bij of krachtens algemene maatregel van bestuur kunnen daaromtrent nadere regelen worden gesteld. Partijen bij de rechtsbetrekking zijn bevoegd gezamenlijk haar inhoud nader vast te stellen. Op verzoek van de meest gerede partij geschiedt de nadere vaststelling door het Hoofd Arbeidsvoorziening.
+
+3. De rechtsbetrekking kan door partijen niet worden beëindigd. Zij neemt van rechtswege een einde, zodra [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=31&z=2014-01-06&g=2014-01-06), ten aanzien van de burgerdienstplichtige is toegepast of de betrokkene heeft opgehouden burgerdienstplichtig te zijn.
+
+4. Regelen, gesteld krachtens een algemene maatregel van bestuur op grond van het tweede lid, worden ter openbare kennis gebracht.
+
+##### Artikel 28
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Te rekenen van de dag, waarop een voor scholing opgeroepen burgerdienstplichtige aan zijn verschijningsplicht overeenkomstig [artikel 25, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=25&z=2014-01-06&g=2014-01-06), heeft voldaan, bestaat tussen hem en degene, bij wie de scholing moet worden gevolgd, een rechtsbetrekking als uit een overeenkomst waarbij partijen zich jegens elkaar verbinden enerzijds een scholing te volgen en anderzijds die scholing te geven met betaling van een toelage.
+
+2. Omtrent de inhoud van rechtsbetrekkingen als in het eerste lid bedoeld worden bij of krachtens algemene maatregel van bestuur regelen gesteld. Het Hoofd Arbeidsvoorziening kan in afzonderlijke gevallen de inhoud van de rechtsbetrekking nader vaststellen.
+
+3. Onze Minister kan, met inachtneming van de bij algemene maatregel van bestuur daaromtrent gestelde regelen, aan degene, bij wie de scholing moet worden gevolgd, een vergoeding ten laste van de Staat toekennen.
+
+4. [Artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=27&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+
+5. Regelen, gesteld krachtens een algemene maatregel van bestuur op grond van het tweede lid, worden ter openbare kennis gebracht.
+
+##### Artikel 29
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Zolang een opgeroepen burgerdienstplichtige door het voldoen aan de ingevolge de oproeping op hem rustende verplichtingen verhinderd is te voldoen aan de verplichtingen, welke op hem als werknemer in een bestaande arbeidsverhouding rusten, is deze arbeidsverhouding geschorst, doch kan zij door partijen niet worden beëindigd zonder vergunning van het Hoofd Arbeidsvoorziening.
+
+2. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit zodanige arbeidsverhouding.
+
+3. Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.
+
+4. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=8&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing.
+
+##### Artikel 30
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Aan een opgeroepen burgerdienstplichtige, die een persoon is als in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-01-06&g=2014-01-06) bedoeld, wordt voor de tijd, gedurende welke hij door het voldoen aan de ingevolge de oproeping op hem rustende verplichtingen verhinderd is zijn bestaande dienstbetrekking te vervullen, in die betrekking verlof verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.
+
+2. [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+
+##### Artikel 31
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Het Hoofd Arbeidsvoorziening kan een opgeroepen burgerdienstplichtige van de ingevolge de oproeping op hem rustende verplichtingen te allen tijde, hetzij ambtshalve, hetzij op verzoek van de burgerdienstplichtige of van de overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen persoon, ontslaan.
+
+2. Van een krachtens het eerste lid tot de burgerdienstplichtige gerichte beschikking wordt mededeling gedaan aan de overeenkomstig [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), aangewezen persoon.
+
+3. De burgerdienstplichtige is verplicht van de intrekking van de oproeping binnen driemaal vierentwintig uur mededeling te doen aan de in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=24&z=2014-01-06&g=2014-01-06), bedoelde persoon, zo deze nog zijn werkgever is.
+
+##### Artikel 32
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan bepalen, dat het burgerdienstplichtigen verboden is het land te verlaten zonder door hem verleende vergunning.
+
+2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+3. Een krachtens het eerste lid gesteld verbod geldt mede voor degenen, die op grond van [artikel 22, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II&paragraaf=4&artikel=22&z=2014-01-06&g=2014-01-06), van burgerdienstplicht vrijgesteld zijn.
+
+4. Een besluit omtrent het in het eerste lid bedoelde verbod wordt ter openbare kennis gebracht.
+
+##### Artikel 33
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan in bij algemene maatregel van bestuur daartoe aangewezen gevallen met inachtneming van de bij zodanige maatregel gestelde regelen aan een burgerdienstplichtige de verplichting opleggen tot huisvesting in een bij zijn beschikking aangewezen verblijfplaats.
+
+2. Binnen drie maanden na het in werking treden van een algemene maatregel van bestuur als in het eerste lid bedoeld doen Wij een voorstel van wet aan de Staten-Generaal tot vervanging daarvan. De vervanging geschiedt in de vorm van vaststelling van de regeling, al dan niet gewijzigd, bij de wet. Wordt het voorstel ingetrokken of verworpen, dan vervallen de algemene maatregel van bestuur en de krachtens deze genomen maatregelen met ingang van de veertiende dag na die, waarop de intrekking of verwerping heeft plaats gehad.
+
+3. Onze Minister kan regelen stellen omtrent de orde in de verblijfplaatsen.
+
+4. Een krachtens het derde lid vastgestelde besluit wordt ter openbare kennis gebracht.
+
+#### § 5. Opheffing van wettelijke belemmeringen
+
+##### Artikel 34
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister kan ten aanzien van ondernemingen, die behoren tot bij zijn beschikking aangewezen categorieën dan wel bij zijn beschikking afzonderlijk zijn aangewezen, vrijstelling onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van de beperking van de arbeidsduur en van de veiligheid en de hygiëne bij de arbeid.
+
+2. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan ten aanzien van ondernemingen die behoren tot bij zijn beschikking aangewezen categorieën dan wel bij zijn beschikking afzonderlijk zijn aangewezen, vrijstelling onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van het tegengaan van gevaar, schade en hinder, teweeggebracht door inrichtingen.
+
+3. Een vrijstelling of ontheffing kan onder beperkingen, alsmede voorwaardelijk worden verleend; zij kan te allen tijde worden ingetrokken. Indien een vrijstelling of ontheffing voorwaardelijk is verleend, geldt zij slechts voor zover de gestelde voorwaarden worden nageleefd.
+
+4. Een krachtens het eerste lid vastgesteld besluit omtrent vrijstelling wordt ter openbare kennis gebracht.
+
+#### § 6. Wijziging van de gebiedsindeling der gewestelijke arbeidsbureaus
+
+### Hoofdstuk III. Voorziening tegen beschikkingen
+
+### Hoofdstuk IV. Inlichtingen en toezicht
+
+### Hoofdstuk V. Verdere bepalingen
+
+### Hoofdstuk VI. Bepalingen van strafrechtelijke aard
+
+### Hoofdstuk VII. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
