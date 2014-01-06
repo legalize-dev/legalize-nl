@@ -4,7 +4,7 @@ identifier: "BWBR0004019"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "1994-10-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004019"
 soort: "AMvB"
@@ -170,7 +170,7 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waar
 
 - f. bepalingen omtrent een eventuele praktijktijd, de beoordeling daarvan en door wie de beoordeling plaatsvindt;
 
-- g. het bepaalde in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=17&z=1994-10-01&g=1994-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=21&z=1994-10-01&g=1994-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=22&z=1994-10-01&g=1994-10-01) en [24 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=24&z=1994-10-01&g=1994-10-01) en [artikel 14, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=14);
+- g. het bepaalde in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=17&z=2014-01-06&g=2014-01-06), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=21&z=2014-01-06&g=2014-01-06), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=22&z=2014-01-06&g=2014-01-06) en [24 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=IV&artikel=24&z=2014-01-06&g=2014-01-06) en [artikel 14, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=14);
 
 - h. bepalingen voor kandidaten die om een geldige reden, ter beoordeling van het bevoegd gezag van de instelling, niet aan het examen hebben kunnen deelnemen dan wel bij een of meer zittingen niet aanwezig konden zijn;
 
@@ -194,7 +194,7 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waar
 
 ##### Artikel 17. Aanmelding voor het examen
 
-Bij de aanmelding voor het examen dient de kandidaat een gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens over te leggen.
+Bij de aanmelding voor het examen dient de kandidaat een gewaarmerkt afschrift van de benodigde gegevens uit de basisregistratie personen over te leggen.
 
 ##### Artikel 18. Examenrooster
 
@@ -248,13 +248,13 @@ Vervallen
 
 ##### Artikel 29. Informatieplicht bevoegd gezag
 
-Het bevoegd gezag van de instelling draagt er zorg voor dat Onze Minister regelmatig op de hoogte wordt gehouden van de werkzaamheden die voortvloeien uit de maatregel, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=27&z=1994-10-01&g=1994-10-01).
+Het bevoegd gezag van de instelling draagt er zorg voor dat Onze Minister regelmatig op de hoogte wordt gehouden van de werkzaamheden die voortvloeien uit de maatregel, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=27&z=2014-01-06&g=2014-01-06).
 
 ### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 30. Inwerkingtreding Weo en besluit
 
-Dit besluit alsmede de wet met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=II&paragraaf=2&artikel=5&z=1994-10-01&g=1994-10-01) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=28&z=1994-10-01&g=1994-10-01), treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treden zij in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+Dit besluit alsmede de wet met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-06&g=2014-01-06) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=28&z=2014-01-06&g=2014-01-06), treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treden zij in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
 ##### Artikel 31. Citeertitel
 
