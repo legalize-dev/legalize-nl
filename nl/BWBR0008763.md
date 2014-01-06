@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een huurder, diens partner of een medebewoner buiten beschouwing indien:
 
-- a. hij langer dan een jaar op een ander adres verblijft dan het adres waarop hij in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven, en
+- a. hij langer dan een jaar op een ander adres verblijft dan het adres waarop hij als ingezetene in de basisregistratie personen staat ingeschreven, en
 
 - b. sprake is van een bijzondere omstandigheid.
 
@@ -186,7 +186,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner.
 
-2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf op hetzelfde woonadres als de huurder staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en is van toepassing indien:
+2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf als ingezetene op hetzelfde woonadres als de huurder staat ingeschreven in de basisregistratie personen en is van toepassing indien:
 
 - a. de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a);
 
@@ -218,9 +218,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2014-01-01&g=2014-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2014-01-01&g=2014-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2014-01-06&g=2014-01-06), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2014-01-06&g=2014-01-06), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2014-01-06&g=2014-01-06), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2014-01-01&g=2014-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2014-01-01&g=2014-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2014-01-06&g=2014-01-06), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2014-01-06&g=2014-01-06), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2014-01-06&g=2014-01-06), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
