@@ -4,7 +4,7 @@ identifier: "BWBR0027022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-01"
-last_updated: "2010-01-01"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027022"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de eigenrisicodrager registreert ter zake van een persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) die laatstelijk tot hem in dienstbetrekking stond:
 
-- 1°. sofinummer;
+- 1°. burgerservicenummer;
 
 - 2°. naam;
 
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de uitkomsten van de controle daartoe aanleiding geven, is het UWV bevoegd om de eigenrisicodrager ten behoeve van de door de eigenrisicodrager te verrichten werkzaamheden instructies te geven.
 
-5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027022&artikel=2&z=2010-01-01&g=2010-01-01) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
+5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027022&artikel=2&z=2014-01-06&g=2014-01-06) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
 
 6. Gedurende de in het vijfde lid bedoelde periode legt de eigenrisicodrager een voorstel voor een beslissing voor aan het UWV op een door het UWV daartoe beschikbaar gesteld formulier.
 
