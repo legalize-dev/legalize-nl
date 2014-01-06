@@ -4,7 +4,7 @@ identifier: "BWBR0017449"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2009-09-18"
+last_updated: "2014-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017449"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **administratienummer:** het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=50);
+- a. **administratienummer:** het administratienummer, bedoeld in [artikel 4.9 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.9);
 
 - b. **overheidstoegangsvoorziening:** de centrale voorziening die ondersteuning biedt bij het verifiëren van de identiteit van personen die langs elektronische weg toegang zoeken tot een bij de voorziening aangesloten bestuursorgaan;
 
