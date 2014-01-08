@@ -4,7 +4,7 @@ identifier: "BWBR0033789"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033789"
 soort: "pbo"
@@ -45,7 +45,7 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **accountant in business:** de accountant in business, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **accountant in business:** de accountant in business, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
 - –. **accountantsregister:** het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
@@ -53,11 +53,11 @@ In deze verordening wordt verstaan onder:
 
 - –. **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
-- –. **intern accountant:** de intern accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **intern accountant:** de intern accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **openbaar accountant:** de openbaar accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **openbaar accountant:** de openbaar accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **overheidsaccountant:** de overheidsaccountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512).
+- –. **overheidsaccountant:** de overheidsaccountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -127,7 +127,7 @@ Het bestuur doet aan elk lid mededeling van zijn indeling in een van de contribu
 
 ##### Artikel 11
 
-De verschuldigde contributie dient te worden voldaan binnen een maand na dagtekening van het besluit, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&hoofdstuk=3&artikel=10&z=2014-01-01&g=2014-01-01).
+De verschuldigde contributie dient te worden voldaan binnen een maand na dagtekening van het besluit, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&hoofdstuk=3&artikel=10&z=2014-01-08&g=2014-01-08).
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
