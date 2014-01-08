@@ -4,7 +4,7 @@ identifier: "BWBR0033795"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-02"
+last_updated: "2014-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033795"
 soort: "pbo"
@@ -49,6 +49,8 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 - –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
 - –. **bestuur:** het bestuur van de beroepsorganisatie;
+
+- –. **fraude:** het opzettelijk handelen of nalaten van een trainee, waardoor het vormen van een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt gemaakt;
 
 - –. **praktijkopleiding AA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;
 
@@ -114,11 +116,11 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2014-01-01&g=2014-01-02).
+Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2014-01-08&g=2014-01-08).
 
 ##### Artikel 8
 
-1. Het bestuur stelt binnen een stagebureau beoordelaars als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.1&artikel=12&z=2014-01-01&g=2014-01-02), en praktijkbegeleiders aan.
+1. Het bestuur stelt binnen een stagebureau beoordelaars als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.1&artikel=12&z=2014-01-08&g=2014-01-08), en praktijkbegeleiders aan.
 
 2. Een praktijkbegeleider is belast met de begeleiding van een trainee gedurende de praktijkopleiding.
 
@@ -138,7 +140,7 @@ Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoe
 
 Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
-- a. beschikt over een getuigschrift van een opleiding, die beschikt over een aanwijzing als bedoeld in [artikel 49, tweede lid, aanhef en onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- a. beschikt over een getuigschrift van een opleiding, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
 - b. de voltooiing van de opleiding, bedoeld in onderdeel a voldoende is genaderd, waarbij hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald, of daarvan is vrijgesteld; of
 
@@ -150,7 +152,7 @@ Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
 Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
-- a. toelaatbaar is tot een postinitiële opleiding tot accountant, die beschikt over een aanwijzing als bedoeld in [artikel 49, tweede lid, aanhef en onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49); of
+- a. toelaatbaar is tot een postinitiële opleiding tot accountant, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49); of
 
 - b. toelaatbaar is tot een universitair masterprogramma, dat toegang geeft tot een opleiding als bedoeld in onderdeel a, dan wel tot een universitair masterprogramma op het gebied van accountancy, mits hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald of daarvan is vrijgesteld.
 
@@ -222,7 +224,7 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 - a. het portfolio;
 
-- b. de afstudeerscriptie, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.2&artikel=14&z=2014-01-01&g=2014-01-02); en
+- b. de afstudeerscriptie, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.2&artikel=14&z=2014-01-08&g=2014-01-08); en
 
 - c. een mondeling examen waarin mede op basis van de afstudeerscriptie de vaardigheid, bedoeld in het eerste lid, wordt getoetst.
 
@@ -244,7 +246,7 @@ De trainee welke de praktijkopleiding AA volgt, wordt tot het mondeling examen t
 
 ##### Artikel 20
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.1&artikel=19&z=2014-01-01&g=2014-01-02), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.1&artikel=19&z=2014-01-08&g=2014-01-08), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
@@ -260,13 +262,13 @@ De trainee welke de praktijkopleiding RA volgt wordt tot het mondeling examen to
 
 ##### Artikel 22
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in [artikel 21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.2&artikel=21&z=2014-01-01&g=2014-01-02), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in [artikel 21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.2&artikel=21&z=2014-01-08&g=2014-01-08), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 ### Hoofdstuk 8. Vrijstellingen
 
 ##### Artikel 23
 
-1. Het bestuur kan aan houders van een universitair of gelijkwaardig diploma voor een of meer van de in lid 2 van dit artikel genoemde vakgebieden, vrijstelling verlenen van de toetsing van het vermogen om de theoretische kennis in de praktijk toe te passen, indien daarvoor relevante praktische werkervaring is opgedaan, afgesloten met een door de staat erkend examen of diploma.
+1. Het bestuur kan aan houders van een universitair of gelijkwaardig diploma voor een of meer van de in lid 2 van dit artikel genoemde vakgebieden, op verzoek vrijstelling verlenen van de toetsing van het vermogen om de theoretische kennis in de praktijk toe te passen, indien daarvoor relevante praktische werkervaring is opgedaan, afgesloten met een door de staat erkend examen of diploma.
 
 2. De werkervaring, bedoeld in het vorige lid, betreffen de vakgebieden genoemd in artikel 8 lid 1 en 2 van [Richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad van 17 mei 2006.
 
@@ -326,7 +328,7 @@ Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkople
 
 ##### Artikel 10a
 
-1. Het bestuur kan tot de praktijkopleiding toelaten, degene die niet beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.1&artikel=9&z=2014-01-08&g=2014-01-02), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.2&artikel=10&z=2014-01-08&g=2014-01-02), maar wel over een getuigschrift op grond waarvan voor 1 oktober 2006 toegang tot de praktijkopleiding kon worden verkregen.
+1. Het bestuur kan tot de praktijkopleiding toelaten, degene die niet beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.1&artikel=9&z=2014-01-08&g=2014-01-08), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.2&artikel=10&z=2014-01-08&g=2014-01-08), maar wel over een getuigschrift op grond waarvan voor 1 oktober 2006 toegang tot de praktijkopleiding kon worden verkregen.
 
 2. Het bestuur kan aan toepassing van het eerste lid de volgende voorwaarden verbinden:
 
