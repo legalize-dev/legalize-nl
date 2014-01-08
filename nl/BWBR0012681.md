@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2012-12-22"
+last_updated: "2014-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -128,7 +128,11 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 10°. de United Nations Mission In South Sudan 'UNMISS', voor zover deze deelname heeft plaatsgehad op het grondbebied van en in het luchtruim boven de republiek Zuid Soedan vanaf augustus 2011;
 
-- 11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011: VN OPERATIES;
+- 11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011;
+
+- 12°. de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgehad in en rondom El Gorah, Egypte, vanaf 14 januari 2013;
+
+- 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 23 september 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -162,7 +166,13 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008;
 
-- 9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008: EU OPERATIES;
+- 9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008;
+
+- 10°. de EU trainingsmissie in Mali ‘EUTM Mali’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 10 juli 2013;
+
+- 11°. de EU trainingsmissie in Somalië ‘EUTM Somalië’, voor zover deze deelname heeft plaatsgehad in Uganda en in Somalië vanaf 14 februari 2013;
+
+- 12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013: EU OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
