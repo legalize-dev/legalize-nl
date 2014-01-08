@@ -4,7 +4,7 @@ identifier: "BWBR0033813"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-02"
+last_updated: "2014-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033813"
 soort: "pbo"
@@ -40,27 +40,49 @@ Stelt de volgende verordening vast:
 
 ##### Artikel 1
 
-In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
+- –. **aan assurance verwante opdrachten:** omvatten professionele diensten tot het verrichten van overeengekomen specifieke werkzaamheden en samenstellingsopdrachten;
 
-- –. **accountant:** de accountant, bedoeld in [artikel 1, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- –. **accountant:** de accountant, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountant in business:** de accountant in business, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **accountant in business:** de accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;
+
+- –. **accountantsafdeling:** de organisatorische eenheid, die behoort tot een onderneming, een instelling of de overheid en de daarmee gelijk te stellen dienst, waarbij één of meer accountants werkzaam zijn die:
+
+- –. binnen die onderneming, instelling of overheid en daarmee gelijk te stellen dienst verbijzonderde toetsende activiteiten verrichten, waaronder begrepen het onderzoek naar en de evaluatie en bewaking van de toereikendheid en effectiviteit van de administratieve organisatie en interne beheersing; of
+
+- –. binnen die onderneming, instelling of overheid en daarmee gelijk te stellen dienst dan wel bij derden verbijzonderde toetsende activiteiten verrichten ter zake van een door die onderneming, instelling of de overheid en de daarmee gelijk te stellen dienst, dan wel genoemde derden af te leggen financiële verantwoording en daarover verslag uitbrengen aan de onderneming, instelling, overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort;
+
+- –. **accountantskantoor:** hieronder wordt verstaan:
+
+- –. de organisatorische eenheid waarbij een accountant werkzaam is of waaraan een accountant verbonden is en waarbinnen één of meer accountants voor een cliënt bedrijfsmatig professionele diensten verrichten, bestaande uit assurance-opdrachten of aan assurance verwante opdrachten en eventueel overige opdrachten, die niet beschikt over een vergunning als bedoeld in [artikel 5 van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=5) bedoelde vergunning; of
+
+- –. de accountantsorganisatie ter zake van uitgevoerde professionele diensten bestaande uit assurance-opdrachten of aan assurance verwante opdrachten en eventueel overige opdrachten, die niet onder de werkingssfeer van de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468) vallen;
+
+- –. **accountantsorganisatie:** een accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+
+- –. **accountantspraktijk:** het accountantskantoor en de accountantsorganisatie;
 
 - –. **afgevaardigde:** een afgevaardigde als bedoeld in [artikel 17, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
+- –. **assurance-opdracht:** de assurance-opdracht, bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
+
 - –. **begroting:** een begroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
+- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
 - –. **bestuur:** het bestuur van de beroepsorganisatie;
 
-- –. **contributiegroep:** een contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031866&artikel=2);
+- –. **cliënt:** de natuurlijke persoon of rechtspersoon die, anders dan in het kader van een gezagsverhouding, aan een accountant opdracht geeft tot het verrichten van een professionele dienst. Hieronder is begrepen de controlecliënt, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- –. **intern accountant:** de intern accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **contributiegroep:** een contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=2);
 
-- –. **ledengroep:** een ledengroep als bedoeld in [artikel 16, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
+- –. **interim manager:** de accountant die een tijdelijke functie vervult binnen de organisatie van zijn opdrachtgever en de resultaten van zijn werkzaamheden presenteert onder de naam van de entiteit van zijn opdrachtgever;
 
-- –. **ledengroepbestuur:** een bestuur als bedoeld in [artikel 17, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
+- –. **intern accountant:** de accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;
+
+- –. **ledengroep:** een ledengroep als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
+
+- –. **ledengroepbestuur:** een bestuur als bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
 - –. **ledengroepvergadering:** de vergadering van leden van een ledengroep;
 
@@ -68,9 +90,15 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **ontwerpbegroting:** een ontwerpbegroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **openbaar accountant:** de openbaar accountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **openbaar accountant:** de accountant die werkzaam is bij of verbonden is aan een accountantspraktijk. Hieronder is begrepen de externe accountant, bedoeld in [artikel 1, onderdeel f, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- –. **overheidsaccountant:** de overheidsaccountant, bedoeld in de [Verordening gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0026512);
+- –. **overheid:** de entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan hij is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en nader door het bestuur van de NBA aangewezen entiteiten;
+
+- –. **overheidsaccountant:** de accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst. Tot een overheidsaccountant wordt eveneens gerekend de accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;
+
+- –. **overige opdrachten:** de door een accountant voor een cliënt bedrijfsmatig uitgevoerde professionele diensten, bestaande uit andere dan assurance-opdrachten of aan assurance verwante opdrachten voor zover geen sprake is van opdrachten uitgevoerd als interim-manager;
+
+- –. **professionele dienst:** de professionele dienst, bedoeld in [artikel 1 van de Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=1);
 
 - –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
@@ -212,7 +240,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 17
 
-1. De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door het ledengroepbestuur uit zijn midden benoemd.
+1. De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door een ledengroep uit het ledengroepbestuur benoemd.
 
 2. De voorzitter en de plaatsvervangend voorzitter van het ledengroepbestuur zijn terstond herbenoembaar.
 
@@ -260,7 +288,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Binnen zes maanden na de inwerkingtreding van deze verordening belegt een ledengroepbestuur een bijeenkomst van de ledengroepvergadering waarin in ieder geval wordt besloten over het benoemen van de leden van het ledengroepbestuur.
 
-2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2013-08-28&g=2014-01-02).
+2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2014-01-08&g=2014-01-08).
 
 3. Tot de benoeming van het ledengroepbestuur, bedoeld in het eerste lid, wordt het ledengroepbestuur gevormd door de leden van het ledengroepbestuur zoals deze door de gezamenlijke besturen van het NIVRA en de NOvAA zijn benoemd tot leden van het ledengroepbestuur van de door het NIVRA en de NOvAA ingestelde ledengroepen.
 
