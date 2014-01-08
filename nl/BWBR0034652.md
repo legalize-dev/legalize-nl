@@ -4,7 +4,7 @@ identifier: "BWBR0034652"
 country: "nl"
 rank: "pbo"
 publication_date: "2025-12-24"
-last_updated: "2014-01-01"
+last_updated: "2014-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034652"
 soort: "pbo"
@@ -196,7 +196,7 @@ Deze verordening geldt voor assurance-opdrachten waarop op basis van de gedrags-
 
 ##### Artikel 4
 
-In afwijking van [artikel 3, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-01), is sprake van een onafhankelijke uitvoering van een assurance-opdracht door een overheidsaccountant als:
+In afwijking van [artikel 3, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-08), is sprake van een onafhankelijke uitvoering van een assurance-opdracht door een overheidsaccountant als:
 
 - a. de overheidsaccountant bij of krachtens wet deze assurance-opdracht kan uitvoeren;
 
@@ -218,15 +218,15 @@ Bij het naleven van deze verordening past een accountant professionele oordeelsv
 
 1. De eindverantwoordelijke accountant identificeert en beoordeelt omstandigheden die een bedreiging voor de onafhankelijke uitvoering van de assurance-opdracht kunnen zijn.
 
-2. Bij specifieke omstandigheden waarin zich een bedreiging voordoet waartegen geen enkele maatregel toereikend kan zijn, in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-01) aangeduid met een verbod, is het de eindverantwoordelijke accountant niet toegestaan de assurance-opdracht uit te voeren.
+2. Bij specifieke omstandigheden waarin zich een bedreiging voordoet waartegen geen enkele maatregel toereikend kan zijn, in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-08) aangeduid met een verbod, is het de eindverantwoordelijke accountant niet toegestaan de assurance-opdracht uit te voeren.
 
-3. De eindverantwoordelijke accountant weigert of beëindigt de assurance-opdracht als hij een omstandigheid identificeert en beoordeelt waarvan in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-01) is bepaald dat deze een bedreiging is die:
+3. De eindverantwoordelijke accountant weigert of beëindigt de assurance-opdracht als hij een omstandigheid identificeert en beoordeelt waarvan in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-08) is bepaald dat deze een bedreiging is die:
 
 - a. een specifieke maatregel vereist en deze niet is of wordt genomen; of
 
 - b. een nader te bepalen maatregel vereist die de onafhankelijke uitvoering waarborgt en deze niet is of wordt genomen.
 
-4. De eindverantwoordelijke accountant weigert of beëindigt de assurance-opdracht als hij een niet in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-01) benoemde bedreiging heeft geïdentificeerd en beoordeeld, en geen maatregel is of wordt genomen die de onafhankelijke uitvoering waarborgt.
+4. De eindverantwoordelijke accountant weigert of beëindigt de assurance-opdracht als hij een niet in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-08) benoemde bedreiging heeft geïdentificeerd en beoordeeld, en geen maatregel is of wordt genomen die de onafhankelijke uitvoering waarborgt.
 
 ##### Artikel 7
 
@@ -234,7 +234,7 @@ De eindverantwoordelijke accountant die constateert dat in strijd wordt of is ge
 
 - a. een maatregel wordt genomen die de onafhankelijke uitvoering van de assurance-opdracht tot dan toe waarborgt;
 
-- b. voor de verdere uitvoering van de assurance-opdracht een maatregel wordt genomen die de onafhankelijke uitvoering waarborgt. Hierbij worden de vereisten van [hoofdstuk 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-01) in acht genomen; en
+- b. voor de verdere uitvoering van de assurance-opdracht een maatregel wordt genomen die de onafhankelijke uitvoering waarborgt. Hierbij worden de vereisten van [hoofdstuk 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2014-01-08&g=2014-01-08) in acht genomen; en
 
 - c. de opdrachtgever en de met governance belaste personen schriftelijk akkoord zijn gegaan met:
 
@@ -260,7 +260,7 @@ De bepalingen in deze verordening die uitsluitend betrekking hebben op een assur
 
 ##### Artikel 9
 
-De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-01) en [10 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.5&artikel=10&z=2014-01-08&g=2014-01-01) zijn niet van toepassing op betrekkingen tussen een in het buitenland gevestigd onderdeel van het netwerk of een daaraan verbonden persoon en:
+De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-08) en [10 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.5&artikel=10&z=2014-01-08&g=2014-01-08) zijn niet van toepassing op betrekkingen tussen een in het buitenland gevestigd onderdeel van het netwerk of een daaraan verbonden persoon en:
 
 - a. een in het buitenland gevestigde verbonden derde;
 
@@ -270,9 +270,9 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&ho
 
 ##### Artikel 10
 
-1. De eindverantwoordelijke accountant neemt bij het identificeren en beoordelen van omstandigheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-01), betrekkingen met een verbonden derde in aanmerking.
+1. De eindverantwoordelijke accountant neemt bij het identificeren en beoordelen van omstandigheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-08), betrekkingen met een verbonden derde in aanmerking.
 
-2. De [hoofdstukken 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&z=2014-01-08&g=2014-01-01) en [9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-01) zijn van overeenkomstige toepassing op betrekkingen met een verbonden derde als bedoeld in het eerste lid, met dien verstande dat voor:
+2. De [hoofdstukken 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&z=2014-01-08&g=2014-01-08) en [9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-08) zijn van overeenkomstige toepassing op betrekkingen met een verbonden derde als bedoeld in het eerste lid, met dien verstande dat voor:
 
 - a. ‘verantwoordelijke entiteit’ wordt gelezen: verantwoordelijke entiteit of verbonden derde;
 
@@ -296,17 +296,17 @@ De eindverantwoordelijke accountant is ervoor verantwoordelijk dat in het assura
 
 - c. de onderbouwde conclusie hoe de getroffen maatregel de onafhankelijke uitvoering waarborgt;
 
-- d. in de omstandigheid, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-01), de instemming van de nader bepaalde kring van gebruikers van buiten de verantwoordelijke entiteit en haar verbonden derde;
+- d. in de omstandigheid, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-08), de instemming van de nader bepaalde kring van gebruikers van buiten de verantwoordelijke entiteit en haar verbonden derde;
 
-- e. in de omstandigheid, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2014-01-08&g=2014-01-01), het schriftelijke akkoord van de opdrachtgever en de met governance belaste personen; en
+- e. in de omstandigheid, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2014-01-08&g=2014-01-08), het schriftelijke akkoord van de opdrachtgever en de met governance belaste personen; en
 
-- f. in de omstandigheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2014-01-08&g=2014-01-01), de instemming van de nader bepaalde kring van gebruikers van buiten de verantwoordelijke entiteit en haar verbonden derde.
+- f. in de omstandigheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2014-01-08&g=2014-01-08), de instemming van de nader bepaalde kring van gebruikers van buiten de verantwoordelijke entiteit en haar verbonden derde.
 
 #### Paragraaf 2.8. – Beursgenoteerde ondernemingen niet-OOB
 
 ##### Artikel 13
 
-De artikelen in deze verordening die betrekking hebben op een assurance-opdracht bij een organisatie van openbaar belang zijn, met uitzondering van [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&artikel=16&z=2014-01-08&g=2014-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2014-01-08&g=2014-01-01), van overeenkomstige toepassing op een assurance-opdracht bij een beursgenoteerde onderneming die geen organisatie van openbaar belang is.
+De artikelen in deze verordening die betrekking hebben op een assurance-opdracht bij een organisatie van openbaar belang zijn, met uitzondering van [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&artikel=16&z=2014-01-08&g=2014-01-08) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2014-01-08&g=2014-01-08), van overeenkomstige toepassing op een assurance-opdracht bij een beursgenoteerde onderneming die geen organisatie van openbaar belang is.
 
 #### Paragraaf 2.9. – Fusies en overnames
 
@@ -314,7 +314,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 1. Dit artikel is niet van toepassing op een wettelijke controle.
 
-2. Als de onafhankelijke uitvoering van de assurance-opdracht door een fusie of overname redelijkerwijs niet per direct kan worden gewaarborgd en de met governance belaste personen verzoeken de assurance-opdracht te continueren, is dit in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-01) toegestaan mits:
+2. Als de onafhankelijke uitvoering van de assurance-opdracht door een fusie of overname redelijkerwijs niet per direct kan worden gewaarborgd en de met governance belaste personen verzoeken de assurance-opdracht te continueren, is dit in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-08) toegestaan mits:
 
 - a. de onafhankelijke uitvoering zo spoedig mogelijk, doch uiterlijk binnen zes maanden na fusie- of overnamedatum, wordt gewaarborgd;
 
@@ -322,7 +322,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 - c. de bedreiging niet wordt veroorzaakt door een persoon die deel uitmaakt van het opdrachtteam of de opdrachtgerichte kwaliteitsbeoordeling van de assurance-opdracht uitvoert.
 
-3. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.7&artikel=12&z=2014-01-08&g=2014-01-01) wordt in het assurance-dossier opgenomen:
+3. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.7&artikel=12&z=2014-01-08&g=2014-01-08) wordt in het assurance-dossier opgenomen:
 
 - a. de overweging waarom de onafhankelijke uitvoering redelijkerwijs niet per direct kan worden gewaarborgd; en
 
@@ -332,7 +332,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 ##### Artikel 15
 
-1. De eindverantwoordelijke accountant die op grond van een zwaarwegend maatschappelijk belang een assurance-opdracht continueert in een situatie waarin hij door een uitzonderlijke omstandigheid niet langer voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2014-01-08&g=2014-01-01), wordt geacht de onafhankelijke uitvoering van een assurance-opdracht te waarborgen als:
+1. De eindverantwoordelijke accountant die op grond van een zwaarwegend maatschappelijk belang een assurance-opdracht continueert in een situatie waarin hij door een uitzonderlijke omstandigheid niet langer voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2014-01-08&g=2014-01-08) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2014-01-08&g=2014-01-08), wordt geacht de onafhankelijke uitvoering van een assurance-opdracht te waarborgen als:
 
 - a. de met governance belaste personen het continueren van de assurance-opdracht schriftelijk bevestigen;
 
@@ -340,7 +340,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 - c. de overeengekomen maatregel wordt genomen.
 
-2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.7&artikel=12&z=2014-01-08&g=2014-01-01) worden de op grond van het eerste lid verkregen bevestiging en overeenstemming in het assurance-dossier opgenomen.
+2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.7&artikel=12&z=2014-01-08&g=2014-01-08) worden de op grond van het eerste lid verkregen bevestiging en overeenstemming in het assurance-dossier opgenomen.
 
 ### Hoofdstuk 3. – Samenloop van dienstverlening bij een OOB waarbij een wettelijke controle wordt uitgevoerd
 
@@ -406,7 +406,7 @@ Een bedreiging die een maatregel vereist doet zich voor, als de accountantseenhe
 
 - c. leidt tot een bedreiging uit hoofde van belangenbehartiging.
 
-2. Het eerste lid is niet van toepassing als voldaan wordt aan de voorwaarden, bedoeld in [artikel 3, zevende lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-01-08&g=2014-01-01).
+2. Het eerste lid is niet van toepassing als voldaan wordt aan de voorwaarden, bedoeld in [artikel 3, zevende lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-01-08&g=2014-01-08), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-01-08&g=2014-01-08).
 
 #### Paragraaf 4.3. – Samenloop van dienstverlening bij een OOB waarbij geen wettelijke controle wordt uitgevoerd
 
@@ -510,7 +510,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 ##### Artikel 29
 
-1. In aanvulling op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-01) doet zich een bedreiging voor die een specifieke maatregel vereist, als een key assurance-partner gedurende zeven aangesloten jaren betrokken is geweest bij een assurance-opdracht voor dezelfde organisatie van openbaar belang.
+1. In aanvulling op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-08) doet zich een bedreiging voor die een specifieke maatregel vereist, als een key assurance-partner gedurende zeven aangesloten jaren betrokken is geweest bij een assurance-opdracht voor dezelfde organisatie van openbaar belang.
 
 2. Als maatregel is de key assurance-partner gedurende twee jaren geen lid van enig assurance-team bij deze verantwoordelijke partij.
 
@@ -532,7 +532,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 - b. de verantwoordelijke entiteit het financieel product in het kader van de normale bedrijfsuitoefening aan een brede groep van klanten aanbiedt.
 
-3. Een financieel product als bedoeld in het tweede lid wordt geïdentificeerd en beoordeeld aan de hand van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-01).
+3. Een financieel product als bedoeld in het tweede lid wordt geïdentificeerd en beoordeeld aan de hand van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-08).
 
 ##### Artikel 31
 
@@ -566,11 +566,11 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 ##### Artikel 32
 
-In afwijking van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2014-01-08&g=2014-01-01), vormt een financieel belang in de verantwoordelijke entiteit dat gehouden wordt door een nauwe financiële relatie van een persoon als bedoeld in dat artikel, tweede lid, onderdeel c, geen bedreiging als dit financieel belang uit hoofde van een arbeidsrelatie is verkregen en wordt afgestoten zodra dit redelijkerwijs mogelijk is.
+In afwijking van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2014-01-08&g=2014-01-08), vormt een financieel belang in de verantwoordelijke entiteit dat gehouden wordt door een nauwe financiële relatie van een persoon als bedoeld in dat artikel, tweede lid, onderdeel c, geen bedreiging als dit financieel belang uit hoofde van een arbeidsrelatie is verkregen en wordt afgestoten zodra dit redelijkerwijs mogelijk is.
 
 ##### Artikel 33
 
-Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2014-01-08&g=2014-01-01) dat tijdens de uitvoering van een assurance-opdracht is verkregen als gevolg van omstandigheden die in redelijkheid buiten de invloedsfeer van de betrokkene liggen, wordt zo spoedig mogelijk afgestoten.
+Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2014-01-08&g=2014-01-08) dat tijdens de uitvoering van een assurance-opdracht is verkregen als gevolg van omstandigheden die in redelijkheid buiten de invloedsfeer van de betrokkene liggen, wordt zo spoedig mogelijk afgestoten.
 
 ### Hoofdstuk 9. – Zakelijke relaties
 
@@ -718,7 +718,7 @@ Een bedreiging die een maatregel vereist doet zich voor als een lid van het assu
 
 ##### Artikel 41
 
-In aanvulling op de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=38&z=2014-01-08&g=2014-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=39&z=2014-01-08&g=2014-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=40&z=2014-01-08&g=2014-01-01) is het verboden een assurance-opdracht uit te voeren als:
+In aanvulling op de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=38&z=2014-01-08&g=2014-01-08), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=39&z=2014-01-08&g=2014-01-08) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=40&z=2014-01-08&g=2014-01-08) is het verboden een assurance-opdracht uit te voeren als:
 
 - a. een key assurance-partner van een assurance-opdracht voor een verantwoordelijke entiteit zijnde een organisatie van openbaar belang, bij die entiteit gaat werken als bestuurder of persoon belast met governance of in een andere functie van waaruit hij invloed van betekenis op het assurance-object kan uitoefenen voordat ten minste vierentwintig maanden zijn verstreken sinds hij zijn functioneren als key assurance-partner heeft beëindigd;
 
@@ -812,27 +812,27 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 1. De NVO blijven tot 1 januari 2016 van toepassing op een bedreiging die ontstaat uit een voor 17 december 2013 afgesloten overeenkomst tot:
 
-- a. het leveren van een non-assurancedienst als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&z=2014-01-08&g=2014-01-01);
+- a. het leveren van een non-assurancedienst als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&z=2014-01-08&g=2014-01-08);
 
-- b. een resultaatafhankelijke vergoeding voor een non-assurancedienst als bedoeld in [artikel 23, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=5&paragraaf=5.1&artikel=23&z=2014-01-08&g=2014-01-01);
+- b. een resultaatafhankelijke vergoeding voor een non-assurancedienst als bedoeld in [artikel 23, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=5&paragraaf=5.1&artikel=23&z=2014-01-08&g=2014-01-08);
 
-- c. een zakelijke relatie als bedoeld in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-01).
+- c. een zakelijke relatie als bedoeld in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2014-01-08&g=2014-01-08).
 
 2. De NVO blijven tot 1 januari 2015 van toepassing op een bedreiging die ontstaat uit:
 
-- a. een financieel belang als bedoeld in [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&z=2014-01-08&g=2014-01-01) dat voor 17 december 2013 is verkregen;
+- a. een financieel belang als bedoeld in [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&z=2014-01-08&g=2014-01-08) dat voor 17 december 2013 is verkregen;
 
-- b. een regeling inzake prestatie-afhankelijke beoordeling of beloning als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=13&artikel=46&z=2014-01-08&g=2014-01-01) die voor 17 december 2013 is overeengekomen;
+- b. een regeling inzake prestatie-afhankelijke beoordeling of beloning als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=13&artikel=46&z=2014-01-08&g=2014-01-08) die voor 17 december 2013 is overeengekomen;
 
-- c. vergoedingen als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=5&paragraaf=5.2&artikel=25&z=2014-01-08&g=2014-01-01).
+- c. vergoedingen als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=5&paragraaf=5.2&artikel=25&z=2014-01-08&g=2014-01-08).
 
-3. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-01), van deze verordening is niet van toepassing op:
+3. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-08), van deze verordening is niet van toepassing op:
 
 - a. assurance-opdrachten die voor 17 december 2013 zijn aangegaan; of
 
 - b. assurance-opdrachten die worden afgerond voor 1 januari 2015.
 
-4. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.2&artikel=29&z=2014-01-08&g=2014-01-01) van deze verordening is niet van toepassing op;
+4. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.2&artikel=29&z=2014-01-08&g=2014-01-08) van deze verordening is niet van toepassing op;
 
 - a. assurance-opdrachten die voor 17 december 2013 zijn aangegaan; of
 
@@ -840,17 +840,17 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 5. Op de situatie, bedoeld in de leden 3 of 4, blijven de NVO van toepassing.
 
-6. In geval van een assurance-opdracht als bedoeld in het derde lid, onderdeel a, die periodiek wordt verlengd, beëindigt de eindverantwoordelijke accountant na het afronden van de assurance-opdracht met betrekking tot de eerste verantwoordingsperiode de overeenkomst indien niet wordt voldaan aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-01) van deze verordening.
+6. In geval van een assurance-opdracht als bedoeld in het derde lid, onderdeel a, die periodiek wordt verlengd, beëindigt de eindverantwoordelijke accountant na het afronden van de assurance-opdracht met betrekking tot de eerste verantwoordingsperiode de overeenkomst indien niet wordt voldaan aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2014-01-08&g=2014-01-08) van deze verordening.
 
-7. In geval van een assurance-opdracht als bedoeld in het vierde lid, onderdeel a, die periodiek wordt verlengd, beëindigt de eindverantwoordelijke accountant na het afronden van de assurance-opdracht met betrekking tot de tweede verantwoordingsperiode de overeenkomst indien niet wordt voldaan aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.2&artikel=29&z=2014-01-08&g=2014-01-01) van deze verordening.
+7. In geval van een assurance-opdracht als bedoeld in het vierde lid, onderdeel a, die periodiek wordt verlengd, beëindigt de eindverantwoordelijke accountant na het afronden van de assurance-opdracht met betrekking tot de tweede verantwoordingsperiode de overeenkomst indien niet wordt voldaan aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.2&artikel=29&z=2014-01-08&g=2014-01-08) van deze verordening.
 
 8. De NVO blijven van toepassing op een bedreiging die voortvloeit uit:
 
-- a. een arbeidsrelatie als bedoeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&z=2014-01-08&g=2014-01-01) die is overeengekomen voor 17 december 2013;
+- a. een arbeidsrelatie als bedoeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&z=2014-01-08&g=2014-01-08) die is overeengekomen voor 17 december 2013;
 
-- b. een juridische procedure als bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=12&artikel=45&z=2014-01-08&g=2014-01-01) die is aangespannen voor 17 december 2013.
+- b. een juridische procedure als bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=12&artikel=45&z=2014-01-08&g=2014-01-08) die is aangespannen voor 17 december 2013.
 
-9. [Artikel 86a van de Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=86a) is van overeenkomstige toepassing op de samenloop van dienstverlening als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&artikel=16&z=2014-01-08&g=2014-01-01).
+9. [Artikel 86a van de Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=86a) is van overeenkomstige toepassing op de samenloop van dienstverlening als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&artikel=16&z=2014-01-08&g=2014-01-08).
 
 10. In dit artikel wordt verstaan onder NVO:
 
@@ -870,7 +870,7 @@ zoals deze luidden tot de inwerkingtreding van deze verordening.
 
 ##### Artikel 49
 
-Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-08&g=2014-01-01) nadere voorschriften vaststellen.
+Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-08&g=2014-01-08) nadere voorschriften vaststellen.
 
 ##### Artikel 50
 
