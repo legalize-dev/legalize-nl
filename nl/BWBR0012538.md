@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-11-15"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
-4. Voor het naderen en vertrekken van de luchthaven Schiphol is een luchtvaartuig, niet zijnde een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit hetgeen blijkt uit vermelding van het nationaliteits- en inschrijvingskenmerk van het desbetreffende luchtvaartuig op de AOC.
+4. Voor het naderen en vertrekken van de luchthaven Schiphol is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
 
 ##### Artikel 4
 
@@ -216,7 +216,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2012-11-15&g=2013-11-15) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2014-01-09&g=2014-01-09) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
