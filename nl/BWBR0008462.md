@@ -4,7 +4,7 @@ identifier: "BWBR0008462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-18"
-last_updated: "2010-01-01"
+last_updated: "2014-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008462"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2010-01-01&g=2010-01-01) vrijstelling verleend:
+1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2014-01-18&g=2014-01-18) vrijstelling verleend:
 
 - a. de onroerende-zaakbelasting ter zake van het gebruik van onroerende zaken;
 
@@ -66,7 +66,7 @@ Besluiten:
 
 ##### Artikel 2
 
-1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
+1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
 
 2. Onder de officiële werkzaamheden van de diplomatieke of consulaire vertegenwoordiging, bedoeld in het eerste lid, wordt mede verstaan het huisvesten van haar leden.
 
@@ -74,9 +74,9 @@ Besluiten:
 
 ##### Artikel 3
 
-1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
+1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
 
-2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
+2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
 
 3. Een in het tweede lid genoemde vrijstelling ten aanzien van de leden, wordt mede toegepast ten aanzien van de bij hen inwonende gezinsleden en ten aanzien van hun particuliere bedienden.
 
@@ -86,7 +86,7 @@ Besluiten:
 
 ##### Artikel 4
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
 
 - a. de Carnegie-Stichting te Den Haag, ter zake van het Vredespaleis;
 
@@ -114,7 +114,9 @@ Besluiten:
 
 - m. de Bondsrepubliek Duitsland, ter zake van de onroerende zaken in gebruik bij de douane-autoriteiten van die mogendheid op grond van de overeenkomst tussen Nederland en de Bondsrepubliek Duitsland, nopens de samenvoeging van de grenscontrole, enzovoort, van 30 mei 1958 (Trb. 1958, 81);
 
-- n. Het Europees Instituut voor Bestuurskunde ter zake van de onroerende zaken gelegen in de gemeente Maastricht, Onze Lieve Vrouweplein 22, 22a, 22c en 23 en Hondstraat 17 en 19.
+- n. Het Europees Instituut voor Bestuurskunde ter zake van de onroerende zaken gelegen in de gemeente Maastricht, Onze Lieve Vrouweplein 22, 22a, 22c en 23 en Hondstraat 17 en 19;
+
+- o. de Vlaamse Gemeenschap in Nederland te Amsterdam, ter zake van de onroerende zaken, gelegen te Amsterdam, Nes 43, Nes 43 AA, Nes 43 II, Nes 45, Oudezijds Voorburgwal 276 en Sint Pietershalsteeg 2.
 
 2. Met betrekking tot de onroerende zaak, genoemd in het eerste lid, wordt een vrijstelling van een belasting uitsluitend verleend voor zover de onroerende zaak niet dient tot woning.
 
@@ -122,7 +124,7 @@ Besluiten:
 
 ##### Artikel 5
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen zijn vrijgesteld:
 
 - a. leden van een krijgsmacht, een civiele dienst en hun gezinsleden als bedoeld in artikel I, eerste lid, letters a, b, en c van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten;
 
