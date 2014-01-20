@@ -4,7 +4,7 @@ identifier: "BWBR0034694"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2014-03-09"
-last_updated: "2014-01-18"
+last_updated: "2014-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034694"
 soort: "rijkswet"
@@ -53,23 +53,23 @@ Wijzigt de Wijzigingsrijkswet Paspoortwet (herinrichten reisdocumentenadministra
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet betreffende de positie van Molukkers.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht BES.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Rijkswet op het Nederlanderschap.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de identificatieplicht.
 
 ##### Artikel VIII
 
