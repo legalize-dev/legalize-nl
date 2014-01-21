@@ -4,7 +4,7 @@ identifier: "BWBR0024797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-30"
-last_updated: "2008-10-01"
+last_updated: "2014-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024797"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 2. De vergoeding, bedoeld in het eerste lid, onderdeel b en c, bedraagt per uur niet meer dan het bedrag van de kosten, bedoeld in het eerste lid, onderdeel a, maar ten minste het basisbedrag zoals vastgesteld op grond van [artikel 3, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3), tenzij de werkelijke kosten per uur lager waren dan dat basisbedrag.
 
-3. Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 150,--, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.
+3. Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 154,99, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.
 
 4. De toekenning van de tegemoetkoming kan betrekking hebben op:
 
@@ -84,6 +84,8 @@ In deze regeling wordt verstaan onder:
 - h. vergoeding van kosten als bedoeld in de [artikelen 591](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591) en [591a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591a);
 
 - i. een procedure ter zake een bestuurlijke boete.
+
+5. Het uurtarief genoemd in het derde lid wordt jaarlijks per 1 oktober geïndexeerd overeenkomstig de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 3
 
