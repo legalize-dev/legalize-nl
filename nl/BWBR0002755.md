@@ -4,7 +4,7 @@ identifier: "BWBR0002755"
 country: "nl"
 rank: "wet"
 publication_date: "2021-03-01"
-last_updated: "2013-01-01"
+last_updated: "2014-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002755"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder:
 
-- Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- Onze Minister: Onze Minister van Economische Zaken;
 
 - landbouw: akkerbouw, weidebouw, veehouderij, pluimveehouderij, tuinbouw – waaronder mede wordt verstaan fruitteelt en het kweken van bomen, bloemen en bloembollen -, teelt van griendhout en elke andere vorm van bodemcultuur met inbegrip van bosbouw;
 
@@ -55,17 +55,17 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;
 
-- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2013-01-01&g=2013-01-01);
+- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2014-01-25&g=2014-01-25);
 
-- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2013-01-01&g=2013-01-01);
+- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2014-01-25&g=2014-01-25);
 
-- verordening 510/2006: verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93);
+- verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
-- geografische aanduiding: geografische aanduiding als bedoeld in artikel 2, eerste lid, onder b, van verordening 510/2006;
+- geografische aanduiding: geografische aanduiding als bedoeld in artikel 5, tweede lid, van verordening (EU) 1151/2012;
 
-- geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 2, eerste lid, onder a, van verordening 510/2006;
+- geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 5, eerste lid, van verordening (EU) 1151/2012;
 
-- houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening 510/2006 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen.
+- houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening (EU) 1151/2012 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen.
 
 ##### Artikel 2
 
@@ -101,7 +101,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 3. Verordeningen, bedoeld in het tweede lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en, op aanvrage, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften te verlenen.
 
-4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2014-01-25&g=2014-01-25), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -121,7 +121,7 @@ Vervallen
 
 1. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met het toezicht op de naleving van de bij of krachtens dat besluit gestelde regels.
 
-2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2013-01-01&g=2013-01-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
+2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2014-01-25&g=2014-01-25), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
 
 ##### Artikel 9
 
@@ -131,7 +131,7 @@ Vervallen
 
 1. Een controle-instelling is niet werkzaam met het oogmerk om winst te behalen.
 
-2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2013-01-01&g=2013-01-01), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
+2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2014-01-25&g=2014-01-25), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
 
 3. Het in het tweede lid bedoelde reglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de controle-instelling kan belemmeren.
 
@@ -139,7 +139,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2013-01-01&g=2013-01-01) bedoelde toezicht en de keuring.
+1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2014-01-25&g=2014-01-25) bedoelde toezicht en de keuring.
 
 2. Indien Onze Minister bij of krachtens een landbouwkwaliteitsbesluit de in het eerste lid bedoelde activiteiten uitvoert, kan Onze Minister voor de kosten ter zake van deze activiteiten tarieven vaststellen.
 
@@ -155,7 +155,7 @@ Vervallen
 
 6. Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:114) zijn van overeenkomstige toepassing.
 
-7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2013-01-01&g=2013-01-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
+7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2014-01-25&g=2014-01-25), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
 ##### Artikel 12
 
@@ -207,7 +207,7 @@ Vervallen
 
 1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2013-01-01&g=2013-01-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2014-01-25&g=2014-01-25) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
 
 ##### Artikel 19
 
@@ -223,7 +223,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13a
 
-1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening 510/2006 verricht.
+1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.
 
 2. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
 
@@ -251,6 +251,6 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2013-01-01&g=2013-01-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
+Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2014-01-25&g=2014-01-25) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
