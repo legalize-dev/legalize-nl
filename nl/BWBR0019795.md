@@ -4,7 +4,7 @@ identifier: "BWBR0019795"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2012-02-08"
+last_updated: "2014-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019795"
 soort: "wet"
@@ -50,9 +50,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- a. Onze Minister: Onze Minister van Economische Zaken;
 
-- b. autoriteit: Voedsel en Waren Autoriteit, ingesteld bij het [Besluit organisatie VWA](https://wetten.overheid.nl/jci1.3:c:BWBR0013865) (Stcrt. 2002, 127);
+- b. autoriteit: Nederlandse Voedsel- en Warenautoriteit, ressorterend onder Onze Minister;
 
 - c. risicobeoordeling: wetenschappelijk gefundeerd proces, bestaande uit vier stappen, te weten gevareninventarisatie, gevarenkarakterisatie, blootstellingschatting en risicokarakterisatie;
 
@@ -74,7 +74,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=2&z=2012-02-08&g=2012-02-08) bedoelde taken, vervullen geen taken in het kader van de uitvoering, het toezicht op de naleving, de oplegging van bestuurlijke boeten of de opsporing op het beleidsterrein van Onze Minister of dat van Onze Minister van Volksgezondheid, Welzijn en Sport.
+Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) bedoelde taken, vervullen geen taken in het kader van de uitvoering, het toezicht op de naleving, de oplegging van bestuurlijke boeten of de opsporing op het beleidsterrein van Onze Minister of dat van Onze Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 4
 
@@ -88,7 +88,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 ##### Artikel 5
 
-1. Onze Minister legt algemene aanwijzingen aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=4&z=2012-02-08&g=2012-02-08), bedoelde directeur met betrekking tot de uitoefening van de hem in deze wet toegekende taken vast in beleidsregels.
+1. Onze Minister legt algemene aanwijzingen aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=4&z=2014-01-25&g=2014-01-25), bedoelde directeur met betrekking tot de uitoefening van de hem in deze wet toegekende taken vast in beleidsregels.
 
 2. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
@@ -102,7 +102,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 1. Er is een Raad van advies, die tot taak heeft:
 
-- a. erop toezien dat risicobeoordelingen, onderzoeken en daarmee verbonden adviezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=2&z=2012-02-08&g=2012-02-08) op onafhankelijke wijze tot stand komen;
+- a. erop toezien dat risicobeoordelingen, onderzoeken en daarmee verbonden adviezen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=2&z=2014-01-25&g=2014-01-25) op onafhankelijke wijze tot stand komen;
 
 - b. het bewaken van de wetenschappelijke kwaliteit van risicobeoordelingen.
 
@@ -116,7 +116,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 3. Benoeming geschiedt voor een periode van ten hoogste vier jaar. Herbenoeming kan eenmaal en voor ten hoogste vier jaar plaatsvinden.
 
-4. Schorsing en ontslag vinden slechts plaats vanwege ongeschiktheid of onbekwaamheid voor de vervulde functie, wegens het niet naleven van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=3&artikel=8&z=2012-02-08&g=2012-02-08), dan wel wegens andere zwaarwegende redenen dan die gelegen zijn in de persoon van de betrokkene of verband houden daarmee. Ontslag vindt voorts plaats op eigen verzoek.
+4. Schorsing en ontslag vinden slechts plaats vanwege ongeschiktheid of onbekwaamheid voor de vervulde functie, wegens het niet naleven van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=3&artikel=8&z=2014-01-25&g=2014-01-25), dan wel wegens andere zwaarwegende redenen dan die gelegen zijn in de persoon van de betrokkene of verband houden daarmee. Ontslag vindt voorts plaats op eigen verzoek.
 
 ##### Artikel 8
 
@@ -154,6 +154,6 @@ Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaa
 
 ##### Artikel 14
 
-Deze wet wordt aangehaald als: Wet onafhankelijke risicobeoordeling Voedsel en Waren Autoriteit.
+Deze wet wordt aangehaald als: Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
