@@ -4,7 +4,7 @@ identifier: "BWBR0028248"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2014-01-25"
-last_updated: "2012-02-08"
+last_updated: "2014-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028248"
 soort: "wet-BES"
@@ -43,7 +43,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **verdrag:** het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162);
 
-- b. **minister:** Minister van Economische Zaken, Landbouw en Innovatie;
+- b. **minister:** Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - c. **stoffen:** chemische elementen en hun verbindingen, zoals zij voorkomen in hun natuurlijke toestand of bij produktie ontstaan, met inbegrip van additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en de onzuiverheden ten gevolge van het produktieprocédé;
 
@@ -107,11 +107,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Degene die een inrichting als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), in bedrijf houdt, is verplicht aan de minister de gegevens te verstrekken die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (D), onder 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
+1. Degene die een inrichting als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), in bedrijf houdt, is verplicht aan de minister de gegevens te verstrekken die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (D), onder 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
 
-2. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), is verleend, is verplicht aan de minister de gegevens te verstrekken die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (D), onder 17 tot en met 20, van het verdrag.
+2. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), is verleend, is verplicht aan de minister de gegevens te verstrekken die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (D), onder 17 tot en met 20, van het verdrag.
 
-3. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), is verleend, is verplicht aan de minister de gegevens te verstrekken, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (B), onder 5 en 6, van het verdrag.
+3. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), is verleend, is verplicht aan de minister de gegevens te verstrekken, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (B), onder 5 en 6, van het verdrag.
 
 ##### Artikel 5
 
@@ -127,23 +127,23 @@ Degene die een inrichting als bedoeld in artikel VI, zesde lid, van het verdrag 
 
 ##### Artikel 7
 
-Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2012-02-08&g=2012-02-08) een kennisgeving heeft gedaan, is verplicht de in die artikelen bedoelde gegevens ten minste tot tien jaar na de indiening van de kennisgeving te bewaren.
+Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25) een kennisgeving heeft gedaan, is verplicht de in die artikelen bedoelde gegevens ten minste tot tien jaar na de indiening van de kennisgeving te bewaren.
 
 ##### Artikel 8
 
-Bij of krachtens algemene maatregel van bestuur, worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08).
+Bij of krachtens algemene maatregel van bestuur, worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25).
 
 ### Hoofdstuk 3. Straf- en toezichtsbepalingen
 
 ##### Artikel 9
 
-1. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2012-02-08&g=2012-02-08), en [3, eerste lid, gestelde verbod](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), is, voor zover opzettelijk begaan, een misdrijf en wordt gestraft met, hetzij gevangenisstraf van ten hoogste zes jaren en geldboete van de vijfde categorie, hetzij met één van beide straffen.
+1. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid, gestelde verbod](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), is, voor zover opzettelijk begaan, een misdrijf en wordt gestraft met, hetzij gevangenisstraf van ten hoogste zes jaren en geldboete van de vijfde categorie, hetzij met één van beide straffen.
 
-2. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2012-02-08&g=2012-02-08), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), gestelde verbod, is, voor zover niet opzettelijk begaan, een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste een jaar en geldboete van de vierde categorie, hetzij met één van beide straffen.
+2. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), gestelde verbod, is, voor zover niet opzettelijk begaan, een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste een jaar en geldboete van de vierde categorie, hetzij met één van beide straffen.
 
 ##### Artikel 10
 
-Handelen in strijd met de bij of krachtens de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2012-02-08&g=2012-02-08), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=14&z=2012-02-08&g=2012-02-08), of [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=4&artikel=15&z=2012-02-08&g=2012-02-08), gestelde voorschriften is een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste zes maanden en geldboete van de vierde categorie, hetzij met één van beide straffen.
+Handelen in strijd met de bij of krachtens de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=14&z=2014-01-25&g=2014-01-25), of [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=4&artikel=15&z=2014-01-25&g=2014-01-25), gestelde voorschriften is een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste zes maanden en geldboete van de vierde categorie, hetzij met één van beide straffen.
 
 ##### Artikel 11
 
@@ -155,7 +155,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 13
 
-1. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2012-02-08&g=2012-02-08) bedoelde personen maken van hun bevoegdheden slechts gebruik, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
+1. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25) bedoelde personen maken van hun bevoegdheden slechts gebruik, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 2. Zij zijn bevoegd, met medeneming van de benodigde apparatuur, alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, te betreden, vergezeld van door hen aangewezen personen. Wordt hun de toegang geweigerd, dan verschaffen zij zich die desnoods met behulp van de sterke arm.
 
@@ -177,11 +177,11 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 14
 
-1. Een ieder is verplicht de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2012-02-08&g=2012-02-08) bedoelde personen alle medewerking te verlenen die deze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden.
+1. Een ieder is verplicht de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25) bedoelde personen alle medewerking te verlenen die deze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden.
 
 2. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-3. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2012-02-08&g=2012-02-08) bedoelde ambtenaren en andere personen zijn bevoegd, na vooraf verkregen goedkeuring van de minister, en onder de door deze te bepalen voorwaarden, gegevens te verstrekken aan van overheidswege aangestelde personen elders in het Koninkrijk met een vergelijkbare taak.
+3. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25) bedoelde ambtenaren en andere personen zijn bevoegd, na vooraf verkregen goedkeuring van de minister, en onder de door deze te bepalen voorwaarden, gegevens te verstrekken aan van overheidswege aangestelde personen elders in het Koninkrijk met een vergelijkbare taak.
 
 ### Hoofdstuk 4. Internationale routine- en uitdagingsinspecties
 
@@ -205,7 +205,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 17
 
-Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is van toepassing op de ingezetene die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2012-02-08&g=2012-02-08), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2012-02-08&g=2012-02-08), gestelde verbod.
+Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is van toepassing op de ingezetene die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), gestelde verbod.
 
 ### Hoofdstuk 6. Slotbepalingen
 
