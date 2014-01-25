@@ -4,7 +4,7 @@ identifier: "BWBR0033729"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033729"
 soort: "wet"
@@ -49,13 +49,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- a. **Onze Minister:** Onze Minister van Economische Zaken;
 
 - b. **raad van bestuur van de mededingingsautoriteit:** de raad van bestuur van de Nederlandse Mededingingsautoriteit;
 
 - c. **warmtenet:** het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;
 
-- d. **warmte:** warm water of tapwater bestemd voor ruimteverwarming of -koeling, sanitaire doeleinden en huishoudelijk gebruik;
+- d. **warmte:** warm water of tapwater bestemd voor ruimteverwarming, sanitaire doeleinden en huishoudelijk gebruik;
 
 - e. **levering van warmte:** de aflevering van warmte aan verbruikers;
 
@@ -67,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. **producent:** een persoon die zich bezighoudt met de productie van warmte;
 
-- j. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01);
+- j. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-25&g=2014-01-25);
 
 - k. **representatieve organisatie:** een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;
 
@@ -85,11 +85,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Ten aanzien van de levering van warmte brengt de leverancier ten hoogste in rekening:
 
-- a. de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-01&g=2014-01-01),
+- a. de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-25&g=2014-01-25),
 
-- b. de redelijke kosten voor het ter beschikking stellen van de warmtewisselaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-01&g=2014-01-01), en
+- b. de redelijke kosten voor het ter beschikking stellen van de warmtewisselaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-25&g=2014-01-25), en
 
-- c. het tarief voor de meting van het warmteverbruik, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-01&g=2014-01-01).
+- c. het tarief voor de meting van het warmteverbruik, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-25&g=2014-01-25).
 
 4. Een leverancier onthoudt zich van iedere vorm van ongerechtvaardigd onderscheid jegens zijn verbruikers.
 
@@ -189,9 +189,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8a
 
-1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-01&g=2014-01-01), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
+1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-01-25&g=2014-01-25), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-25&g=2014-01-25), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
 
-2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
+2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-25&g=2014-01-25), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
 
 3. De kostenverdeelsystematiek, bedoeld in het tweede lid, gaat uit van een binnen de technische en financiële mogelijkheden zo nauwkeurig mogelijke benadering van het werkelijke aandeel van het verbruik van de individuele verbruiker.
 
@@ -249,7 +249,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de vergunninghouder de aan de vergunning verbonden voorschriften of opgelegde beperkingen niet nakomt;
 
-- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2014-01-01&g=2014-01-01), niet treft;
+- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2014-01-25&g=2014-01-25), niet treft;
 
 - d. de vergunninghouder bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;
 
@@ -271,7 +271,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De vergunninghouder publiceert een jaarrekening en een jaarverslag. Het jaarverslag bevat betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over de door de vergunninghouder bij verbruikers in rekening gebrachte prijs en omtrent de integrale kosten en opbrengsten die verband houden met de levering van warmte. De in het jaarverslag opgenomen informatie is voorzien van een accountantsverklaring.
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01).
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-25&g=2014-01-25).
 
 #### § 2.3. Noodvoorziening
 
@@ -325,7 +325,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 14
 
-1. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet.
+1. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2014-01-25&g=2014-01-25) is van overeenkomstige toepassing op de raad van bestuur van de mededingingsautoriteit voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet.
 
 2. De raad van bestuur van de mededingautoriteit kan van een gasbedrijf als bedoeld in [artikel 1, onderdeel j, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) verlangen dat deze hem inzage geeft in gegevens en bescheiden, onderscheidenlijk hem gegevens en inlichtingen verstrekt, die hij nodig heeft voor de uitvoering van deze wet.
 
@@ -361,7 +361,7 @@ De raad van bestuur van de mededingingsautoriteit kan bij een producent, leveran
 
 5. [Afdeling 5.4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.4.2) is van overeenkomstige toepassing.
 
-6. De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-01&g=2014-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2014-01-01&g=2014-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=14&z=2014-01-01&g=2014-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2014-01-01&g=2014-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2014-01-01&g=2014-01-01) alsmede [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.
+6. De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-25&g=2014-01-25), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-25&g=2014-01-25), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-25&g=2014-01-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2014-01-25&g=2014-01-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=14&z=2014-01-25&g=2014-01-25), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2014-01-25&g=2014-01-25) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2014-01-25&g=2014-01-25) alsmede [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450.000, of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.
 
 7. De berekening van de netto-omzet, bedoeld in het zesde lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377).
 
@@ -377,7 +377,7 @@ De raad van bestuur van de mededingingsautoriteit kan bij een producent, leveran
 
 ##### Artikel 20
 
-1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-01&g=2014-01-01), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
+1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-25&g=2014-01-25), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
 
 2. Het verschuldigde bedrag kan worden ingevorderd bij dwangbevel.
 
@@ -399,7 +399,7 @@ Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluite
 
 ##### Artikel 24
 
-1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-01&g=2014-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-01-01&g=2014-01-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-01&g=2014-01-01) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
+1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-25&g=2014-01-25), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-01-25&g=2014-01-25), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-25&g=2014-01-25) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
 
 2. Op verzoek van een representatieve organisatie kan het College van Beroep voor het bedrijfsleven bevelen dat een inbreuk door de leverancier die de inbreuk maakt wordt gestaakt.
 
@@ -497,9 +497,9 @@ Een leverancier meldt zo spoedig mogelijk na inwerkingtreding van deze wet aan d
 
 ##### Artikel 42
 
-1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-01&g=2014-01-01) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-01&g=2014-01-01).
+1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-01-25&g=2014-01-25) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-01-25&g=2014-01-25).
 
-2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2014-01-01&g=2014-01-01).
+2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2014-01-25&g=2014-01-25).
 
 ##### Artikel 43
 
@@ -517,7 +517,7 @@ Onze Minister kan, in overeenstemming met Onze Minister van Infrastuctuur en Mil
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-01-01&g=2014-01-01), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-01-25&g=2014-01-25), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 46
 
