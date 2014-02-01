@@ -4,7 +4,7 @@ identifier: "BWBR0034266"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-19"
-last_updated: "2013-12-03"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034266"
 soort: "ministeriele-regeling"
@@ -46,7 +46,21 @@ Besluit:
 
 ##### Artikel 2
 
-1. Dit lid is nog niet in werking getreden.
+1. Als bevoegd tot het voorschrijven van UR-geneesmiddelen op het gebied van diabetes mellitus wordt aangewezen:
+
+- a. de verpleegkundige die in het bezit is van een getuigschrift waaruit blijkt dat deze met goed gevolg een door de Minister aangewezen post-HBO-opleiding tot verpleegkundige op het gebied van diabetes mellitus heeft afgesloten;
+
+- b. de verpleegkundige die:
+
+- 1°. in het bezit is van een getuigschrift waaruit blijkt dat betrokkene een post-HBO-opleiding tot verpleegkundige op het gebied van diabetes mellitus aan de Hogeschool van Rotterdam of de Hogeschool van Utrecht met goed gevolg heeft afgesloten; en
+
+- 2°. in het bezit is van een getuigschrift waaruit blijkt dat de verpleegkundige een door de Minister aangewezen module farmacotherapie, vóór 1 februari 2016, met goed gevolg heeft afgesloten;
+
+- c. de verpleegkundige die:
+
+- 1°. in het bezit is van een getuigschrift van de Stichting Specifieke Scholing Verpleegkundigen dan wel van een getuigschrift dat na 30 oktober 2009 is afgegeven door de Stichting Sint Antonius Ziekenhuis waaruit blijkt dat de betrokkene de op het getuigschrift betrekking hebbende vervolgopleiding diabetes mellitus met goed gevolg heeft afgesloten; en
+
+- 2°. in het bezit is van een getuigschrift waaruit blijkt dat de verpleegkundige een door de Minister aangewezen module farmacotherapie, vóór 1 februari 2016, met goed gevolg heeft afgesloten.
 
 2. Een opleiding als bedoeld in het eerste lid, onderdeel a, kan door de Minister worden aangewezen indien:
 
@@ -86,15 +100,29 @@ Besluit:
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), geldt slechts:
+
+- a. ten aanzien van bloedglucoseregulerende geneesmiddelen;
+
+- b. voor zover een arts de diagnose diabetes mellitus met betrekking tot de patiënt heeft gesteld; en
+
+- c. voor zover de op grond van artikel 2, eerste lid, aangewezen verpleegkundige bij het voorschrijven de binnen de relevante beroepsgroepen geldende richtlijnen, standaarden en daarvan afgeleide protocollen volgt.
 
 #### Paragraaf 3. Verpleegkundige op het gebied van de oncologie
 
-#### Paragraaf 4. Verpleegkundige op het gebied van astma en COPD
+#### Paragraaf 3. Verpleegkundige op het gebied van de oncologie
 
 ##### Artikel 6
 
-1. Dit lid is nog niet in werking getreden.
+1. Als bevoegd tot het voorschrijven van UR-geneesmiddelen op het gebied van astma en COPD wordt aangewezen:
+
+- a. de verpleegkundige die in het bezit is van het getuigschrift waaruit blijkt dat deze met goed gevolg een door de Minister aangewezen post-HBO-opleiding tot verpleegkunde op het gebied van astma en COPD heeft afgesloten;
+
+- b. de verpleegkundige die:
+
+- 1°. in het bezit is van een getuigschrift waaruit blijkt dat betrokkene een post-HBO-opleiding tot verpleegkundige op het gebied van astma en COPD aan de Hogeschool van Rotterdam of de Hogeschool van Utrecht met goed gevolg heeft afgesloten; en
+
+- 2°. in het bezit is van een getuigschrift waaruit blijkt dat de verpleegkundige een door de Minister aangewezen module farmacotherapie, vóór 1 februari 2016, met goed gevolg heeft afgesloten.
 
 2. Een opleiding als bedoeld in het eerste lid, onderdeel a, kan door de Minister worden aangewezen indien:
 
@@ -134,25 +162,33 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), geldt slechts;
+
+- a. ten aanzien van inhalatiemedicatie;
+
+- b. indien een arts de diagnose astma of COPD met betrekking tot de patiënt heeft gesteld; en
+
+- c. voor zover de op grond van artikel 6, eerste lid, aangewezen verpleegkundige bij het voorschrijven de binnen de relevante beroepsgroepen geldende richtlijnen, standaarden en daarvan afgeleide protocollen volgt.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij een aanvraag als bedoeld in [artikel 5, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), dient de verpleegkundige, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), dan wel [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), het getuigschrift of een gewaarmerkte kopie, die is gewaarmerkt door de instelling die het getuigschrift heeft afgegeven of door een notaris, te overleggen waaruit blijkt dat hij met goed gevolg de voorgeschreven scholing heeft afgerond.
+
+2. Bij een aanvraag als bedoeld in [artikel 5, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), dient de verpleegkundige, bedoeld in [artikel 2, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), dan wel in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01) het getuigschrift of een kopie, die is gewaarmerkt door de instelling die het getuigschrift heeft afgegeven of door een notaris, te overleggen waaruit blijkt dat is voldaan aan het eerste lid, onderdeel b of c van artikel 2, dan wel aan het eerste lid, onderdeel b, van artikel 6.
 
 ##### Artikel 9
 
-1. Voor een aanwijzing als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2013-12-03&g=2013-12-03), en [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2013-12-03&g=2013-12-03):
+1. Voor een aanwijzing als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), en [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01):
 
 - a. dient een aanvraag door de hogeschool dan wel zorginstelling te worden gedaan die de opleiding of module farmacotherapie verzorgt;
 
-- b. worden door de aanvrager de bescheiden overgelegd waaruit blijkt dat zij aan de vereisten voldoen als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2013-12-03&g=2013-12-03), en [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2013-12-03&g=2013-12-03).
+- b. worden door de aanvrager de bescheiden overgelegd waaruit blijkt dat zij aan de vereisten voldoen als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), en [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01).
 
-2. De aanwijzing van een opleiding als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2013-12-03&g=2013-12-03), en [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2013-12-03&g=2013-12-03), heeft een geldigheidsduur van ten hoogste vijf jaar. De geldigheidsduur, bedoeld in de eerste volzin kan daarenboven terugwerken tot een in de aanwijzing vast te stellen termijn.
+2. De aanwijzing van een opleiding als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), en [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), heeft een geldigheidsduur van ten hoogste vijf jaar. De geldigheidsduur, bedoeld in de eerste volzin kan daarenboven terugwerken tot een in de aanwijzing vast te stellen termijn.
 
-3. De aanwijzing van een module farmacotherapie als bedoeld in [artikel 2, eerste lid, onderdeel b, onder 2°, en onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2013-12-03&g=2013-12-03), en [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2013-12-03&g=2013-12-03), heeft een geldigheidsduur van ten hoogste twee jaar. De geldigheidsduur, bedoeld in de eerste volzin kan daarenboven terugwerken tot een in de aanwijzing vast te stellen termijn.
+3. De aanwijzing van een module farmacotherapie als bedoeld in [artikel 2, eerste lid, onderdeel b, onder 2°, en onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), en [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), heeft een geldigheidsduur van ten hoogste twee jaar. De geldigheidsduur, bedoeld in de eerste volzin kan daarenboven terugwerken tot een in de aanwijzing vast te stellen termijn.
 
-4. Indien in de opleidingen, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2013-12-03&g=2013-12-03), en [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2013-12-03&g=2013-12-03), en in de modules farmacotherapie, bedoeld in artikel 2, eerste lid, onderdeel b, onder 2° en onderdeel c, onder 2°, en artikel 6, eerste lid, onderdeel b, onder 2°, wijzigingen plaatsvinden betreffende de vereisten, bedoeld in artikel 2, tweede en derde lid, onderscheidenlijk artikel 6, tweede en derde lid, stelt de hogeschool of zorginstelling de Minister daarvan zo spoedig mogelijk op de hoogte.
+4. Indien in de opleidingen, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), en [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), en in de modules farmacotherapie, bedoeld in artikel 2, eerste lid, onderdeel b, onder 2° en onderdeel c, onder 2°, en artikel 6, eerste lid, onderdeel b, onder 2°, wijzigingen plaatsvinden betreffende de vereisten, bedoeld in artikel 2, tweede en derde lid, onderscheidenlijk artikel 6, tweede en derde lid, stelt de hogeschool of zorginstelling de Minister daarvan zo spoedig mogelijk op de hoogte.
 
 5. De hogeschool of zorginstelling waarvan de opleiding of module farmacotherapie is aangewezen, verstrekt de Minister op verzoek informatie die noodzakelijk is om te beoordelen of de opleiding dan wel de module farmacotherapie op enig moment voldoet aan de bij deze regeling gestelde eisen.
 
@@ -162,6 +198,94 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 5. Overige bepalingen
 
+#### Paragraaf 5. Overige bepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- a. **astma:** een chronische ontsteking van de luchtwegen;
+
+- b. **commissie:** de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1);
+
+- c. **contactdag:** een dag waarop studenten op een bepaalde locatie gedurende minimaal 6 uren rechtstreeks onderwijs krijgen van deskundigen over voor hun opleiding relevante onderwerpen;
+
+- d. **CZO:** Stichting College Zorg Opleidingen;
+
+- e. **COPD:** Chronic Obstructive Pulmonary Disease;
+
+- f. **diabetes mellitus:** chronische stofwisselingsziekte die gepaard gaat met een te hoog glucosegehalte in het bloed;
+
+- g. **EADV:** Vereniging Eerste Associatie van Diabetesverpleegkundigen;
+
+- h. **hogeschool:** een onderwijsinstelling voor hoger beroepsonderwijs als bedoeld in [artikel 1.3 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3);
+
+- i. **leerwerkovereenkomst:** een schriftelijke overeenkomst tussen een werkgever, een onderwijsinstelling en een werknemer die de beroepsbegeleidende leerweg volgt, waarin de rechten en plichten van alle betrokkenen bij de beroepspraktijkvorming zijn vastgelegd;
+
+- j. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+
+- k. **LRVV:** Landelijke Regeling Verpleegkundige Vervolgopleidingen;
+
+- l. **NVAO:** Nederlands-Vlaamse Accreditatieorganisatie;
+
+- m. **oncologie:** het deelgebied van de geneeskunst dat betrekking heeft op onderzoek naar en behandeling van kanker;
+
+- n. **studiepunt:** de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4) bedoelde eenheid waarin de studielast wordt uitgedrukt;
+
+- o. **UR-geneesmiddel:** een geneesmiddel als bedoeld in [artikel 1, eerste lid onderdeel s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
+
+- p. **V&VN:** Vereniging Verpleegkundigen & Verzorgenden Nederland;
+
+- q. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
+
+#### Paragraaf 2. Verpleegkundige op het gebied van diabetes mellitus
+
+#### Paragraaf 4. Verpleegkundige op het gebied van astma en COPD
+
+##### Artikel 10
+
+1. Tevens bevoegd tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), dan wel [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01) is de verpleegkundige:
+
+- a. die in het bezit is van een door de Minister afgegeven verklaring van vakbekwaamheid:
+
+- –. waaruit blijkt dat die verpleegkundige een examen heeft afgelegd van een opleiding, die is gericht op het voorschrijven van geneesmiddelen en aan de betrokkene een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en,
+
+- –. waarin de Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze regeling geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), dan wel [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01) kan worden afgeleid, of
+
+- b. die in het bezit is van een door de Minister afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5, eerste lid van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5):
+
+- –. waaruit blijkt dat die verpleegkundige een examen heeft afgelegd van een opleiding, die is gericht op het voorschrijven van geneesmiddelen en aan de betrokkene daarvan een getuigschrift is uitgereikt en,
+
+- –. waarin de Minister verklaart dat het beroepskwalificatieniveau van betrokkene voor de toepassing van deze regeling geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit artikel 2, eerste lid dan wel artikel 6, eerste lid kan worden afgeleid.
+
+2. Alvorens een verklaring af te geven als bedoeld in het eerste lid, onderdeel a of een erkenning als bedoeld in het eerste lid, onderdeel b, wint de Minister advies in van de commissie.
+
+3. De commissie onderzoekt en laat de Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in het eerste lid, onderdeel a of b.
+
+4. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5) en [6, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) zijn van overeenkomstige toepassing op aanvragen van een verklaring van vakbekwaamheid als bedoeld in het eerste lid, onderdeel a, en van een erkenning van beroepskwalificaties als bedoeld in het eerste lid, onderdeel b. De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van verpleegkundige.
+
+5. Bij een aanvraag van een verklaring van vakbekwaamheid als bedoeld in het eerste lid, onderdeel a, dan wel van een erkenning van beroepskwalificaties als bedoeld in het eerste lid, onderdeel b, dient de verpleegkundige bewijsstukken te overleggen waaruit blijkt dat die verpleegkundige een opleiding die is gericht op het voorschrijven van geneesmiddelen heeft gevolgd en deze met goed gevolg heeft afgesloten, en waaruit blijkt dat die verpleegkundige beschikt over die vakbekwaamheid dan wel dat beroepskwalicatieniveau.
+
 #### Paragraaf 6. Slotbepalingen
+
+##### Artikel 11
+
+Wijzigt de Regeling tarieven registratie beroepsbeoefenaren Wet BIG.
+
+##### Artikel 12
+
+Deze regeling treedt in werking:
+
+- a. voor wat betreft de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2014-02-01&g=2014-02-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2014-02-01&g=2014-02-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=9&z=2014-02-01&g=2014-02-01) in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst;
+
+- b. voor wat betreft [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=4&z=2014-02-01&g=2014-02-01), dan wel onderdelen daarvan, [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=5&z=2014-02-01&g=2014-02-01), alsmede voor wat betreft de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=8&z=2014-02-01&g=2014-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=9&z=2014-02-01&g=2014-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=5&artikel=10&z=2014-02-01&g=2014-02-01), voor zover in die artikelen wordt verwezen naar artikel 4 of 5, op een bij ministerieel besluit te bepalen tijdstip, dat in de Staatscourant wordt bekendgemaakt; en
+
+- c. voor wat betreft de overige bepalingen met ingang van 1 februari 2014.
+
+##### Artikel 13
+
+Deze regeling wordt aangehaald als: Regeling voorschrijfbevoegdheid verpleegkundigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
