@@ -4,7 +4,7 @@ identifier: "BWBR0031720"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-01"
-last_updated: "2013-07-01"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031720"
 soort: "ministeriele-regeling"
@@ -51,5 +51,11 @@ Deze regeling treedt in werking met ingang van 1 juli 2012.
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling tarieven registratie beroepsbeoefenaren Wet BIG.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Bij het indienen van een aanvraag van een verpleegkundige tot vermelding in het register van de bevoegdheid van de aanvrager de krachtens [artikel 36, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), aangewezen UR-geneesmiddelen voor te schrijven, wordt door de aanvrager aan de Minister van Volksgezondheid, Welzijn en Sport een bedrag van € 85,– betaald.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
